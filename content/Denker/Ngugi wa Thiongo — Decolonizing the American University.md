@@ -15,6 +15,13 @@ tags:
 aliases:
   - Ngugi Decolonizing
   - Decolonizing the American University
+stimme:
+  - wer: "James Baldwin"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-07-05
+    geliehen: "der lange, zornige und zugleich zärtliche Satz, das Ich, das sich nicht heraushält"
+    quelle: rekonstruiert
 ---
 
 # Ngũgĩ wa Thiong'o — Decolonizing the American University
@@ -26,6 +33,15 @@ aliases:
 **Künstlerhand:** William H. Johnson (Harlem-Renaissance-Folk-Modernismus) — flache, leuchtende Farbfelder, vereinfachte Silhouetten, würdevoll und rhythmisch.
 **Warum:** Das stärkste Bild der Note ist Ngũgĩs Orchester-Metapher unter seinem „großen Zelt": Klavier, Kora, Trommel, Sitar, Gitarre — gleich groß, ohne Hierarchie, ihre Klangbögen verweben sich zu einem gemeinsamen Muster. Johnsons Hand malt genau diese Gleichrangigkeit, aus der Tradition, um die es der Note geht.
 **Prompt:** Folk-modernist painting in the style of William H. Johnson, bold flat vivid color fields, simplified figures. A wide festive tent canopy in warm ochre and deep green stretches across the banner. Beneath it, on equal ground, an orchestra of instruments from many cultures plays together: an upright piano, a West African kora, a talking drum, a sitar, a guitar, a mbira — each radiating small colored sound-waves that interweave into one shared pattern above them. Stylized musicians as flat silhouettes in rhythmic poses, no realistic faces. Ground of red earth, sky bands of indigo. Joyful, dignified, no hierarchy — every instrument the same size. No photorealism. Wide 1200x500 banner composition.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an James Baldwin** — ein Versuch in dieser Tonlage. Geliehen: der lange, zornige und zugleich zärtliche Satz, das Ich, das sich nicht heraushält.
+*Erzählstimme gewählt am 05.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Ngũgĩ wa Thiong'o, die Erzählstimme ist unsere.
 
 </details>
 

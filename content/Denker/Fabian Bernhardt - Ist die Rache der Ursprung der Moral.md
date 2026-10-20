@@ -11,6 +11,12 @@ tags:
 aliases:
   - Rache und Moral
   - Bernhardt Rache
+stimme:
+  - wer: "keine"
+    art: subtraktion
+    umfang: "ganz"
+    am: 2026-06-24
+    quelle: rekonstruiert
 ---
 
 # Ist die Rache der Ursprung der Moral?

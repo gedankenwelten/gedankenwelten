@@ -21,6 +21,13 @@ aliases:
   - Zur Person Arendt
   - Was bleibt? Es bleibt die Muttersprache
 raetsel: "Das Land ließ sie gehen. Die Gedichte nahm sie mit, im Hinterkopf."
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-10
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Hannah Arendt — Zur Person
@@ -32,6 +39,15 @@ raetsel: "Das Land ließ sie gehen. Die Gedichte nahm sie mit, im Hinterkopf."
 **Gouache, angelehnt an Charlotte Salomon** — die Malerin, die im französischen Exil *Leben? oder Theater?* malte, ihr Leben als Bilderfolge in warmen Wasserfarben. Beide waren 1940 im Lager Gurs in Südfrankreich interniert; Salomon wurde 1943 in Auschwitz ermordet, in dem Jahr, in dem Arendt davon erfuhr. Das Banner malt das Gespräch: die Frau, die beim Sprechen mit der Hand denkt, den Fragenden nur von hinten, wie ihn die Kamera zeigte, den Dampfer im Fenster, der aus Europa hinausfährt, und den Rauch der Zigarette, der zu Vögeln wird. Die Hand der Malerin ist nur angedeutet, das Bild ist ruhiger und illustrativer als ihre Blätter.
 
 *Prompt:* Expressive gouache painting in the manner of Charlotte Salomon, loose flat brushwork, bold warm colours, visible paper texture, naive tilted perspective, wide horizontal banner. A small 1960s television studio. On the right a dark-haired woman in her late fifties sits in a plain chair, leaning forward while she speaks, a cigarette between her fingers; the cigarette smoke rises and turns into a flock of small pale birds flying up and out through a tall window. On the left a man is seen only from behind, back of the head and shoulders, listening. Between them a small round table with an ashtray and two glasses of water. Through the window a harbour with a departing steamship and the far blue silhouette of a European city in mist. Ochre walls, cobalt blue, brick red floor. Absolutely no writing, no letters, no script, no text anywhere.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 10.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Hannah Arendt, die Erzählstimme ist unsere.
 
 </details>
 

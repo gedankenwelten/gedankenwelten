@@ -7,6 +7,15 @@ tags:
 ---
 
 
+## Sibylle Anderl — Bequeme neue Welt (SRF Sternstunde Philosophie, 18.10.2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Bequeme neue Welt: Verlernen wir das Menschsein? — Sternstunde Philosophie](https://www.youtube.com/watch?v=MRGIo7BI284) |
+| **Buch** | Sibylle Anderl: *Bequeme neue Welt. Was wir gewinnen, wenn wir uns etwas zumuten* (Piper 2026), [genialokal](https://www.genialokal.de/Suche/?q=anderl+bequeme+neue+welt) |
+| **Notiz** | [[Denker/Sibylle Anderl — Bequeme neue Welt]] · [[DenkerVita/Sibylle Anderl]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Sternstunde_BequemeNeueWelt_Transkript.txt` (SRF-Untertitel) |
+
 ## Wer bringt das Falsche in Umlauf? (Panorama, eigene Recherche, 17.10.2026)
 
 | | |

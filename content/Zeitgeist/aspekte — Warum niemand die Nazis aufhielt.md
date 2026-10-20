@@ -15,6 +15,13 @@ tags:
   - symbole
 aliases:
   - Warum niemand die Nazis aufhielt
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-20
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # aspekte — Warum niemand die Nazis aufhielt
@@ -26,6 +33,15 @@ aliases:
 **Anselm Kiefer (monumentale Erinnerungslandschaft)** — Die Ruine der Nürnberger Kongresshalle, vom Grün langsam zurückerobert, über einem verbrannten Feld; davor gestürzte, geborstene Gedenksteine — einer aufgerissen wie eine Wunde, aus der es noch glimmt. Kiefers Blei-, Asche- und Strohtexturen tragen die These der Doku: Die Steine müssen zum Sprechen gebracht werden, und unter der Asche glüht es weiter.
 
 *Prompt:* Anselm Kiefer style monumental painting, wide 1200x500 banner. A vast scorched German field under an ash-grey sky, in the distance the ruin of a colossal unfinished brick congress hall being slowly overgrown by green vines reclaiming it; in the foreground cracked memorial stones half-buried in earth, one stone split open like a wound and glowing faintly from within. Thick impasto, lead, ash, straw texture, burnt umber and grey palette with one ember-red accent. Somber, heavy, no people, no text, no swastikas or symbols.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 20.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von aspekte, die Erzählstimme ist unsere.
 
 </details>
 

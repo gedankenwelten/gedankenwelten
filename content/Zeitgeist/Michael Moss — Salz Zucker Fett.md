@@ -17,6 +17,13 @@ aliases:
   - Bliss Point
   - Glückspunkt
 raetsel: "Die Pistole lag offen auf dem Tisch. Darum sah sie keiner."
+stimme:
+  - wer: "Egon Erwin Kisch"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-04
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung"
+    quelle: rekonstruiert
 ---
 
 # Michael Moss — Salz, Zucker, Fett
@@ -28,6 +35,15 @@ raetsel: "Die Pistole lag offen auf dem Tisch. Darum sah sie keiner."
 **Edward Hopper** — flache Farbflächen, hartes Licht, nächtliche Einsamkeit. Ein Konferenzraum bei Nacht, Männer in dunklen Anzügen um einen langen Tisch, im Lichtkegel auf rotem Samtkissen wie Kronjuwelen: ein Salzkristall, ein Zuckerwürfel, ein Würfel Butter. Draußen, tief unten, leuchtet ein leerer Supermarkt. Hoppers Hand, weil Moss kein Reich des Bösen zeigt, nur Menschen in einem Raum, die tun, was ihr Amt verlangt — und die Szene von 1999 genau so klingt: still, bürokratisch, folgenreich.
 
 *Prompt:* A wide horizontal banner painting in the style of Edward Hopper — flat planes of colour, strong raking light, deep shadows, quiet late-night loneliness, 1990s corporate interior. A long dark wooden boardroom table at night, lit by a single hard lamp. Several men in dark suits sit along the table seen from behind or in deep shadow, faces not visible. In the centre of the table, on a small crimson velvet cushion like crown jewels in a museum, lie three precious objects glowing in the lamplight: a large clear salt crystal, a white sugar cube, a pale golden cube of butter. Through a tall window on the right, far below, a brightly lit empty supermarket glows in the city night with long aisles of colourful shelves. Muted greens, ochre, deep blue night. No text, no logos, no realistic faces, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung.
+*Beim Schreiben still gewählt am 04.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Michael Moss, die Erzählstimme ist unsere.
 
 </details>
 

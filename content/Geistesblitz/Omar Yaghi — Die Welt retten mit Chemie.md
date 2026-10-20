@@ -17,6 +17,13 @@ aliases:
   - Omar Yaghi Sternstunde
   - Die Welt retten mit Chemie
   - Yaghi MOFs Wasser aus Luft
+stimme:
+  - wer: "Sebastian Haffner mit Joseph Roth"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-28
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit; aus einem kleinen Detail eine ganze Welt ziehen"
+    quelle: rekonstruiert
 ---
 
 # Omar Yaghi — Die Welt retten mit Chemie?
@@ -28,6 +35,15 @@ aliases:
 **M. C. Escher (Cubic Space Division, 1952)** — Escher zeichnete 1952 ein Gitter, das sich nach allen Richtungen ins Unendliche fortsetzt, jede Zelle gleich groß, jeder Knoten an seinem Platz. Das ist, ohne dass er es wissen konnte, das Bild eines MOF, und es ist die Ordnung, in die der Junge aus Amman sich geflüchtet hat. Hier hängt das Gitter über Wüstendünen; von links zieht trockene Luft hinein, an den Knoten sammeln sich blaue Tropfen, rechts fällt Wasser in eine Tonschale im Sand. Die Kreuzschraffur der Lithografie hält das Wunder nüchtern. Der Strahl setzt etwas zu hoch an, fast als käme er aus dem Himmel statt aus dem Gitter; das Bild blieb trotzdem, weil der Rest genau stimmt.
 
 *Prompt:* Lithograph in the style of M. C. Escher's Cubic Space Division (1952), wide horizontal banner, fine black-and-grey cross-hatching on cream paper with a single accent of pale blue. A vast, perfectly regular three-dimensional lattice of thin rods and small spherical nodes recedes toward a vanishing point, floating above low desert dunes under a pale sky. Every opening in the lattice is exactly the same size. Faint wisps of dry desert air drift into the lattice from the left; inside the grid, tiny droplets form at the nodes and grow brighter, turning pale blue, and on the right a thin clear stream of water falls from the lattice into a simple clay bowl standing on the sand. Precise, calm, mathematical, quietly astonishing. No people, no text, no letters, no numbers, no signature, no monogram.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner mit Joseph Roth** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit; aus einem kleinen Detail eine ganze Welt ziehen.
+*Beim Schreiben still gewählt am 28.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Omar Yaghi, die Erzählstimme ist unsere.
 
 </details>
 

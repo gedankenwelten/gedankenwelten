@@ -90,8 +90,11 @@ Nicht jeder Punkt muss explizit markiert sein — aber die *Bewegung* muss spür
 > im Zweifel: **Orwell-Klarheit** (der Anker).
 >
 > **Vor dem Schreiben eine Zeile an Andreas** — im Routing-Transparenz-Stil, damit er mitlernt:
-> `→ [STIL: <Hand>] <Rubrik> — <Halbsatz warum>`. Kein Label *in* der Note (der Ton zeigt sich nur im
-> Klang), nur diese eine Ansage davor. Register, kein Kostüm; Substanz bleibt unangetastet.
+> `→ [STIL: <Hand>] <Rubrik> — <Halbsatz warum>`. Im Fließtext kein Label (der Ton zeigt sich im Klang),
+> aber **festgehalten wird es** (seit 20.10.2026): `stimme:`-Eintrag mit `art: register` ins Frontmatter
+> und das ✒️-Kästchen bauen (`stimmen.py kaestchen`), Format → `gedankenpoesie`, „Nach dem Veredeln".
+> Bis dahin stand das Register nur im Chat und ging mit den Transkripten verloren. Register, kein Kostüm;
+> Substanz bleibt unangetastet.
 
 ### Phase 3 — Zitate gezielt einsetzen
 
@@ -223,6 +226,7 @@ Bevor Aristoteles die Note als fertig betrachtet:
 □ Jeder Abschnitt hat eigene Einordnung (nicht nur Referat)?
 □ Kein Abschnitt der nur "X sagte Y" ist ohne Kommentar?
 □ Journalistisches Register gewählt + eine Zeile `→ [STIL: <Hand>] …` an Andreas angekündigt (vor dem Schreiben)? → `references/journalismus.md`
+□ Register als `stimme:` (art: register, geliehen: …) ins Frontmatter + ✒️ gebaut (`stimmen.py kaestchen`)?
 □ Schluss-Audit gemacht — *„Was verrät hier noch die Maschine?"* (Negative Parallelismen, KI-Häufungswörter, Kopula-Vermeidung, generischer Schluss)? → `../gedankenpoesie/references/ki-tells.md`
 □ Sokrates-Skill ausgeführt (Fragen + Weiterdenken)?
 □ 2–4 inline > [!question]-Callouts an substanziellen Stellen?

@@ -17,6 +17,13 @@ tags:
 aliases:
   - Weigelin-Schwiedrzik USA China
   - Amerikas Plan, China in den Krieg zu treiben
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-28
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Susanne Weigelin-Schwiedrzik — Amerikas Plan, China in den Krieg zu treiben
@@ -30,6 +37,15 @@ aliases:
 **Warum:** Das Gespräch endet mit einem Bild, und das Banner nimmt es beim Wort: Europa als Beiboot zwischen zwei Großen. Feininger malte Schiffe und Meer als ein Gefüge aus durchscheinenden Kristallflächen, in denen Licht und Wasser nach denselben Linien brechen — die passende Hand für eine Weltlage, die überall aus Geraden, Routen und Nadelöhren besteht. Zwei Ozeanriesen stehen einander Bug an Bug gegenüber, einer tintenschwarz, einer knochenweiß, ein stilles Yin und Yang aus Stahl, das sich jeden Augenblick rammen oder nebeneinander ankern könnte. Unten dazwischen rudert ein Mann in einem kleinen Boot mit einem einzigen roten Fleck, und er hält zwei dünne Leinen, eine zu jedem Schiff. Am Horizont liegt eine Kette spitzer Inseln, die erste Inselkette, und oben driftet ein Stück Eis, die Nordpassage. Die Note über Chinas Neuordnung bekam eine ostasiatische Karte, die Vita eine Collage — hier sieht man die Lage von der Wasserlinie aus.
 
 **Prompt:** *A wide horizontal seascape in the manner of Lyonel Feininger's prismatic marine paintings: the sea and sky fractured into translucent crystalline planes and diagonal shafts of light; two enormous steamships approach each other from left and right, one hull a deep ink-black, the other a pale bone-white, their bows almost touching at the centre, towering, angular, built from overlapping transparent facets; between them, low in the water and tiny, a single small rowing boat with one oarsman, holding two thin lines that run to both ships; on the horizon a faint chain of small angular islands and, far in the upper right, a pale sliver of drifting ice; palette of slate blue, cold grey-green, ochre light and one small vermilion accent on the rowing boat; thin ruled lines, luminous layered glazes, cubist-expressionist geometry; no text, no flags, no faces, no photorealism*
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 28.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Susanne Weigelin-Schwiedrzik, die Erzählstimme ist unsere.
 
 </details>
 

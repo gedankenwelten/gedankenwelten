@@ -12,6 +12,13 @@ tags:
 aliases:
   - Circular Value
   - Kreislaufwirtschaft Berlin
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-03
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Nicole Bendsen — Zirkulärer Wert statt lineares Risiko
@@ -23,6 +30,15 @@ aliases:
 **Hilma af Klint** — spirituelle Diagramme, gedämpfte Pastelltöne auf Pergamentgrund, große ruhige Kreisformen mit Notationen. Die Note dreht eine Linie in einen Kreis: Das Förderband, das an der Kante abbricht, gegen den großen leuchtenden Kreis — Take-Make-Waste und Kreislauf als ein einziges Verwandlungsbild, Ordnung statt Infografik.
 
 *Prompt:* A wide painting in the style of Hilma af Klint, 1200x500 banner. Soft muted palette of dusty pink, ochre, pale blue and cream on a warm parchment ground. On the left, a rigid straight conveyor line of small dark geometric shapes (cubes, coins, broken fragments) marches horizontally and abruptly breaks off at a cliff edge, the fragments scattering downward into grey dust. From the breaking point, the composition transforms: a single great luminous circle dominates the right two thirds, made of concentric rings and gentle spirals in gold, soft green and rose, with small geometric shapes travelling around its orbit and returning renewed, like seeds in a botanical diagram. Delicate hand-drawn letters and tiny numbers hover along the rings like notations in an old scientific notebook. Flat, diagrammatic, serene, symbolic; no realistic faces, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 03.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Nicole Bendsen, die Erzählstimme ist unsere.
 
 </details>
 

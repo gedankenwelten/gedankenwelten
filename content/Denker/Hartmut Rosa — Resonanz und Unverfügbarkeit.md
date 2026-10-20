@@ -217,6 +217,9 @@ Arendt verbindet Rosa direkt: Rosa erwähnt explizit Arendts Begriff der **Natal
 > [!note] Die gemeinsame Wurzel
 > Arendt (Natalität / Unvorhersehbarkeit des Handelns), Rosa (Unverfügbarkeit der Resonanz) und Goenka (Beobachten statt Reagieren) kreisen alle um dasselbe: Es gibt etwas im Menschen und in der Welt, das sich der vollständigen Verfügung entzieht — und genau darin liegt die Würde und Lebendigkeit des Menschseins.
 
+### → [[Sibylle Anderl — Bequeme neue Welt#Warum noch Klavier üben?|Sibylle Anderl — Bequeme neue Welt]]
+In der Sternstunde mit Anderl wird Rosas Filterkaffee eingespielt, als Beispiel für die Urteilskraft, die die Kapselmaschine überflüssig macht. Ihr Paradox (nie so bequem, nie so gehetzt) ist seine Beschleunigung aus der Sicht dessen, der sich die Mühe abnehmen lässt, und ihr Chatbot, der zurückgibt, was man hineinruft, ist sein Echo ohne Resonanz.
+
 ---
 
 ### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]

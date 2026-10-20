@@ -14,6 +14,27 @@ tags:
 aliases:
   - Paul Klee
   - Schöpferische Konfession
+stimme:
+  - wer: "Joseph Roth"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-19
+    bis: 2026-09-28
+    geliehen: "aus einem kleinen Detail eine ganze Welt ziehen"
+    quelle: rekonstruiert
+  - wer: "Rainer Maria Rilke"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-09-28
+    geliehen: "Prosa, die das Hinschauen verlangsamt, wie in seinen Briefen über Cézanne"
+    warum: "Klees eigene Ich-Stimme wurde verworfen, weil sie ihm Worte in den Mund gelegt hätte"
+    quelle: rekonstruiert
+  - wer: "Walter Benjamin"
+    art: stimme
+    umfang: "der Abschnitt über 1937"
+    am: 2026-09-28
+    geliehen: "das dunklere Denkbild"
+    quelle: rekonstruiert
 ---
 
 # Paul Klee — Schöpferische Konfession
@@ -27,6 +48,21 @@ aliases:
 **Warum:** Zum ersten Mal die Haussprache für ihren Urheber: Die Wanderung aus Abschnitt II als Banner — die eine Linie, die zu Brücke, Rad, Blitz, Spirale und Punktsaat wird. Die Note über den Text, gemalt in der Grammatik des Textes.
 
 **Prompt:** Paul Klee style watercolor with delicate pen lines on rough paper: a small journey told as a line — a single wandering ink line travels left to right across soft watercolor color fields, becoming on its way a wavy river passage, an arched bridge, a zigzag lightning, a little wheel, a spiral curl, and a seed-field of scattered dots under faint stars; at the far right the line rises into a small sun circle. Earthy Klee palette of ochre, dusty rose, slate blue, moss green on warm cream. Playful Bauhaus geometry, childlike precision, no realistic faces, no photorealism, 1200x500 wide banner.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joseph Roth** — ein Versuch in dieser Tonlage. Geliehen: aus einem kleinen Detail eine ganze Welt ziehen.
+*Beim Schreiben still gewählt am 19.07.2026, abgelöst am 28.09.2026 (nachträglich festgehalten).*
+
+**Angelehnt an Rainer Maria Rilke** — ein Versuch in dieser Tonlage. Geliehen: Prosa, die das Hinschauen verlangsamt, wie in seinen Briefen über Cézanne. Klees eigene Ich-Stimme wurde verworfen, weil sie ihm Worte in den Mund gelegt hätte.
+*Erzählstimme gewählt am 28.09.2026 (nachträglich festgehalten).*
+
+Der Abschnitt über 1937: **Angelehnt an Walter Benjamin** — ein Versuch in dieser Tonlage. Geliehen: das dunklere Denkbild.
+*Erzählstimme gewählt am 28.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Paul Klee, die Erzählstimme ist unsere.
 
 </details>
 

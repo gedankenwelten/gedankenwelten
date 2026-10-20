@@ -23,6 +23,13 @@ aliases:
   - Antifaschistische Wirtschaftspolitik
   - Weber Buchpremiere Urania
   - Strategische Preiskontrollen
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-10
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Isabella Weber — Antifaschistische Wirtschaftspolitik
@@ -34,6 +41,15 @@ aliases:
 **Frans Masereel** — Der flämische Holzschneider hat in seinen Romanen ohne Worte die Stadt erzählt, ihre Mietskasernen, Fabriken und Märkte, und er stand selbst lebenslang gegen den Faschismus. Seine Hand passt zu einem Buch, das Antifaschismus als Frage der Versorgung buchstabiert. Links sitzen eine Mutter und ihr Kind im Mantel in der kalten Küche, der Gaszähler an der Wand, Eisblumen am Fenster, draußen ziehen ein Privatjet und eine Superjacht vorbei. Rechts öffnet sich ein öffentlicher Kornspeicher auf einen Markt, ein Junge rennt hin, ein alter Mann isst auf den Stufen sein Brot. Ein erster Versuch zeigte eine lange Schlange vor dem Speicher und sah damit nach Mangelwirtschaft aus, genau dem Bild, gegen das Weber sich abgrenzt; der zweite zeigt Fülle ohne Anstehen. Eine eingeschmuggelte Pseudo-Signatur unten rechts wurde übermalt.
 
 *Prompt:* Wide panoramic woodcut print in the manner of Frans Masereel: bold black-and-white relief carving, strong gouged lines, high contrast, a single accent of muted brick red. One continuous city in three moments. On the left, a cramped cold apartment at night, a mother and child in winter coats at a kitchen table under a bare bulb, an old gas meter on the wall, frost flowers on the window; through the window, far above the rooftops, a small private jet and a superyacht in the harbour glow in cold white light. In the middle, a steep street where neighbours walk out of their doors toward the right, opening their coats, a boy running ahead. On the right, a lively open market square in morning light beside a tall public granary with wide open doors, people chatting, carrying loaves and baskets home, a woman laughing, an old man sitting on the granary steps eating bread, sacks of grain stacked high, a sheaf of wheat carved above the door in red. Warm, generous, no queue. Stylized simplified faces, no realistic faces. No text, no letters, no numbers, no signature, no monogram, no initials anywhere.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 10.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Isabella Weber, die Erzählstimme ist unsere.
 
 </details>
 

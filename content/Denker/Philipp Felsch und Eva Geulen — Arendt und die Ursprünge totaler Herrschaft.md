@@ -22,6 +22,13 @@ aliases:
   - Felsch Geulen Arendt
   - Arendt Hygiene-Museum
 raetsel: "Alle sahen denselben Tisch. Keiner von derselben Seite."
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-10
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft
@@ -33,6 +40,15 @@ raetsel: "Alle sahen denselben Tisch. Keiner von derselben Seite."
 **Giorgio de Chirico** — die *Pittura metafisica*: leere Piazzen, lange Arkaden, Schatten am Nachmittag, Gliederpuppen statt Menschen. Kein Maler hat die verlorene gemeinsame Welt so genau gemalt, einen Platz, der für Versammlung gebaut ist und auf dem niemand mehr zusammenkommt. Links sitzen die Figuren um Arendts Tisch, jede von einer anderen Seite; nach rechts löst sich die Runde auf, Stühle stehen verstreut und umgekippt, eine Figur steht allein im Licht, und oben fährt der Zug, der bei de Chirico immer abfährt.
 
 *Prompt:* Metaphysical painting in the style of Giorgio de Chirico, wide horizontal banner. An empty Italian piazza with long arcades and deep late-afternoon shadows. In the centre stands a long wooden table with many simple chairs around it; on the near side several chairs are occupied by faceless mannequin figures turned toward each other, each seen from a different angle, as if in conversation. Toward the right the arrangement dissolves: chairs stand apart, scattered and turned away, the table seems to recede into a vast deserted square, one mannequin stands alone in the long shadow of a tower, with a distant steam train crossing the horizon. Green-blue sky, ochre and terracotta buildings, strong raking light, eerie stillness. No text, no flags, no symbols.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 10.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Philipp Felsch und Eva Geulen, die Erzählstimme ist unsere.
 
 </details>
 

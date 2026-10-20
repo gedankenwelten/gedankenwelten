@@ -12,6 +12,14 @@ tags:
   - frieden
   - medien
 erstellt: 2026-08-24
+stimme:
+  - wer: "Michel de Montaigne"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-08-24
+    geliehen: "das Kreisen um eine Frage, das die eigene Grenze zugibt"
+    warum: "Montaigne statt Kapuściński, weil Kapuściński eine Nähe vor Ort vortäuschen würde, die wir nicht haben"
+    quelle: rekonstruiert
 ---
 
 # Sieben Zeugen, kein Konsens
@@ -26,6 +34,14 @@ erstellt: 2026-08-24
 
 </details>
 
+<details><summary>✒️</summary>
+
+**Angelehnt an Michel de Montaigne** — ein Versuch in dieser Tonlage. Geliehen: das Kreisen um eine Frage, das die eigene Grenze zugibt. Montaigne statt Kapuściński, weil Kapuściński eine Nähe vor Ort vortäuschen würde, die wir nicht haben.
+*Erzählstimme gewählt am 24.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
+
+</details>
 
 > [!abstract] Worum es geht
 > Anfang Juli 2026 war ein deutsches Kamerateam eine Woche in Israel und im besetzten Westjordanland und führte sieben Gespräche: mit einem früheren Geheimdienstchef, einer Journalistin, dem Sohn einer am 7. Oktober Ermordeten, einem Siedler, einem palästinensischen Unterhändler, einem Philosophen und dem Mann, der jede neue Siedlung vermisst. Alle sieben liegen inzwischen als Notes vor. Dieses Panorama liest sie nebeneinander — und der Ertrag ist nicht die Summe, sondern der Widerspruch. Beim Wort *Genozid* gehen alle drei denkbaren Wege auseinander. Beim Druck von außen steht einer gegen alle. Und zwei Männer, die einander nie begegnet sind, richten unabhängig voneinander denselben Satz an dasselbe deutsche Publikum. Wer sich hier eine Stimme aussucht, bekommt eine Meinung. Wer alle sieben aushält, bekommt eine Lage.

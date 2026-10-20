@@ -165,6 +165,11 @@ Ohne diese Schritte gilt die Note als unvollständig.
 > **`/gedankenpoesie`** (das `gedankenart` für die Sprache). **Default ja für `Gedanken`** (kehrt zur
 > Poesie zurück), Angebot für die analytischen Rubriken. Stimme ändert nur das *Wie*, nie das *Was*; schon
 > gestimmte Notes (Luc-Texte, Pascal-Gedanken) bleiben unangetastet. → `.claude/skills/gedankenpoesie/`.
+>
+> **Jede Stimme und jedes Register wird festgehalten** (seit 20.10.2026): `stimme:` im Frontmatter (wer,
+> art, umfang, am, geliehen) und daraus das ✒️-Kästchen unter dem Banner, „angelehnt an … — ein Versuch in
+> dieser Tonlage". Werkzeug `.claude/scripts/stimmen.py` (`liste` · `pruefen` · `kaestchen`). Andreas:
+> *„Wir wollen nichts darstellen, was nicht ist."*
 
 > [!tip] Kür, wenn es wirklich passt: eine Statistik-Grafik
 > Eigene Grafik, fremde Zahlen, Quelle im Bild — sparsam, ohne feste Zahl, wenn ein Verhältnis zu zeigen

@@ -53,7 +53,7 @@ Jede Hand: **Klingt nach** (was wir klauen) · **Schatten** (Yin-Yang — was wi
 | **Gabriele Tergit** | Lakonische Gerichts- und Gesellschaftsreportage; trockene Genauigkeit, die den Fall für sich sprechen lässt | Knappheit, die manchmal zu wenig einordnet | Zeitgeist |
 | **Marion Gräfin Dönhoff** | Gemessene Würde; moralische Klarheit ohne Lautstärke; das Urteil, das sich Zeit nimmt | Ein Hauch Grandezza/Distanz von oben | Denker · Zeitgeist |
 | **Martha Gellhorn** | Das Ereignis vom *Menschen* her erzählt; der konkrete Einzelne statt der Statistik; Empathie ohne Sentiment | Nähe, die parteiisch werden kann (Provenienz wahren) | Zeitgeist |
-| **Swetlana Alexijewitsch** | Polyphonie — viele Stimmen nebeneinander stehen lassen, ohne sie glattzubügeln; das Zeugnis als Struktur | Der Autor verschwindet fast ganz (bei uns braucht es Einordnung) | Denker · Zeitgeist |
+| ~~**Swetlana Alexijewitsch**~~ *(lebt — seit 20.10.2026 keine Anlehnung an Lebende, Haltung hier als Prinzip, nicht als Hand)* | Polyphonie — viele Stimmen nebeneinander stehen lassen, ohne sie glattzubügeln; das Zeugnis als Struktur | Der Autor verschwindet fast ganz (bei uns braucht es Einordnung) | Denker · Zeitgeist |
 
 Die Galerie ist **offen**, kein Menü. Kennt aristoteles eine Hand, die *diese* Geschichte besser trägt
 (James Baldwins moralische Glut, Hemingways Kargheit, Joseph Mitchells Milieu-Geduld), darf er sie nehmen.

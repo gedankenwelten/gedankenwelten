@@ -388,6 +388,9 @@ Krauthausens Recht auf Niederlagen ist eine Form der Aufmerksamkeit: dem anderen
 
 Gegen Weils „Einwurzelung“ steht Arendts „Was bleibt? Es bleibt die Muttersprache“: ein Halt, der ohne Boden auskommt.
 
+### → [[Sibylle Anderl — Bequeme neue Welt#Bei uns, nicht beim anderen|Sibylle Anderl — Bequeme neue Welt]]
+Anderls Satz über den Chatbot, mit ihm sei man bei sich und nicht beim anderen, beschreibt das Gegenteil von Weils Aufmerksamkeit. Ihr Gegenmittel am Ende ist dasselbe wie Weils: der Moment, in dem man aufhört zu greifen und einfach schaut, bei ihr unter dem Sternenhimmel.
+
 ---
 
 ## Weiterdenken

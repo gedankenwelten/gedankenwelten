@@ -15,6 +15,13 @@ tags:
 aliases:
   - Specht Ende des Erdöls
   - Hormus Malakka Energiekrise
+stimme:
+  - wer: "Ryszard Kapuściński"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-10
+    geliehen: "das Große über das Kleine erklären, das Wissen in einer Szene geerdet"
+    quelle: rekonstruiert
 ---
 
 # Dirk Specht — Das Ende des Erdöls beginnt jetzt
@@ -26,6 +33,15 @@ aliases:
 **Utagawa Hiroshige** — Eine Meerenge in der Dämmerung, zwischen zwei Felsen schieben sich die Tanker im Gänsemarsch durch den schmalen Kanal. Am Ufer dampfen die Garküchen, und an einem Stand hebt der Koch den Topf von einer kleinen glühenden Platte statt von der Flamme; am Hang darüber fangen die Solardächer das letzte Licht. Hiroshiges Reisebilder aus den Stationen der Tōkaidō zeigen das Große im Alltäglichen, Weg und Rast, Wetter und Arbeit. Das passt zu einem Gespräch, das die Weltenergieordnung über eine Meerenge und eine Straßenküche erzählt.
 
 *Prompt:* Japanese ukiyo-e woodblock print in the manner of Utagawa Hiroshige, wide panoramic banner. A narrow sea strait at dusk between two steep rocky headlands; a long single-file line of dark oil tankers squeezes through the narrow channel, their hulls small and heavy against the vast evening sky with a deep Prussian-blue gradient (bokashi). On the near shore, a busy harbour street of small open-air food stalls with steaming pots; at one stall a cook lifts a pot from a tiny glowing flat cooking plate instead of a flame. On the hillside above the harbour, rows of small rooftops covered with dark solar panels catch the last orange light. A few seabirds. Flat colour areas, crisp keyblock outlines, indigo, ochre, muted vermilion, soft grey, paper texture. No text, no letters, no calligraphy, no seals, no logos, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Ryszard Kapuściński** — ein Versuch in dieser Tonlage. Geliehen: das Große über das Kleine erklären, das Wissen in einer Szene geerdet.
+*Beim Schreiben still gewählt am 10.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Dirk Specht, die Erzählstimme ist unsere.
 
 </details>
 

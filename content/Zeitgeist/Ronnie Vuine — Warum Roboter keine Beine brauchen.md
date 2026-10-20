@@ -14,6 +14,13 @@ tags:
 aliases:
   - Ronnie Vuine Humanoide
   - Beine sind was für Fische
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-16
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Warum Roboter keine Beine brauchen
@@ -25,6 +32,15 @@ aliases:
 **Oskar Schlemmer / Triadisches Ballett (Bauhaus-Bühne)** — Schlemmers Figuren sind genau das, was Vuine Puppenspielerei nennt: der Mensch, in Kugeln und Kegel zerlegt, jedes Gelenk sichtbar, elegant und funktionslos. Die Marionette steht im Scheinwerferlicht und hängt an der Schnur. Der Arm, der tatsächlich arbeitet, steht im Dunkeln am Bildrand, hat drei Gelenke, Räder und ein Kabel in der Zange.
 
 *Prompt:* Bauhaus stage painting in the manner of Oskar Schlemmer's Triadic Ballet, 1200x500 wide banner. On the left, a tall jointed marionette figure built from lacquered spheres, cones and cylinders, balanced on two elaborately articulated legs, suspended mid-step on an empty stage, with dozens of visible pivot points drawn as small dark circles. On the right, low and unadorned, a plain three-jointed mechanical arm on a small wheeled base, quietly gripping a single dangling cable. Deep flat stage space, warm ochre floor receding into a dark slate ground, muted palette of bone white, ochre, brick red, slate grey and black. Geometric, still, theatrical side lighting, generous empty space. No faces, no photorealism, no text, no lettering, no numbers, no signature, no artist signature, no watermark, clean unmarked corners.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 16.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

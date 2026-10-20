@@ -14,6 +14,13 @@ aliases:
   - Wilholt Erkenntnistheorie
   - Was ist Wissen
   - Vier Projekte der Erkenntnistheorie
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-26
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Torsten Wilholt — Wahrheit und Wissen
@@ -25,6 +32,15 @@ aliases:
 **Johannes Vermeer** — Eine Gelehrte in Blau steht im Delfter Morgenlicht und schaut zu einer Wanduhr hinauf, deren Pendel still hängt. Auf dem Tisch liegen die Brille aus der Vorlesung, ein Buch, ein Himmelsglobus und eine einzelne Tarotkarte. Im Fensterglas steht ihr Spiegelbild und schaut zurück, als könnte die ganze Szene auch geträumt sein. Vermeer, weil seine Gelehrten am Fenster das stille, genaue Hinsehen malen, um das es in der Erkenntnistheorie geht, und weil bei ihm das Licht selbst die Frage stellt, was man eigentlich sieht.
 
 *Prompt:* Wide 1200x500 painting in the manner of Johannes Vermeer, 1660s Delft interior, oil on canvas with soft pearly daylight from a leaded-glass window at the left, cool whitewashed wall, ultramarine robe and lead-tin yellow accents, tranquil and intimate, visible craquelure. A young woman scholar in a blue robe stands in profile at a small table, her face turned toward a simple wooden wall clock hanging on the whitewashed wall — the clock has clearly stopped, its pendulum hanging motionless. On the table, lit by the window: round spectacles on an open folio, one tarot card lying face up, a small brass celestial globe. The wall otherwise bare except the soft shadow of the window frame. The window pane faintly mirrors her face. Still, contemplative, the moment of wondering whether what one sees is true. No maps, no calendar, no text, no letters, no modern objects.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 26.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Torsten Wilholt, die Erzählstimme ist unsere.
 
 </details>
 

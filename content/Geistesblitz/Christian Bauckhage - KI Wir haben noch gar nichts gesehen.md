@@ -12,6 +12,13 @@ tags:
   - year-2026
 aliases:
   - Bauckhage KI 2026
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-04
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Christian Bauckhage — KI: Wir haben noch gar nichts gesehen
@@ -25,6 +32,15 @@ aliases:
 **Warum:** Die Note handelt vom Wesen des Exponentiellen — links das Zählbare, rechts das Überwältigende, und der Übergang passiert schneller, als das Auge glaubt. Molnárs Hand ist zugleich die der Maschine und die des Menschen, der sie programmiert: genau Bauckhages Position.
 
 **Prompt:** *Generative plotter art in the style of Vera Molnár, pioneer of computer art: a precise grid of small black ink squares on warm off-white paper that doubles in density from left to right — beginning sparse and calm at the left edge, cascading rightward into an overwhelming, nearly solid field of densely packed squares at the right edge, each square with tiny controlled irregularities and slight rotations, subtle hand-plotted line texture, one single small red square standing alone in the sparse left region, minimalist algorithmic art, ink on paper, quiet mathematical elegance turning into visual vertigo*
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 04.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Christian Bauckhage, die Erzählstimme ist unsere.
 
 </details>
 

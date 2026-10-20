@@ -14,6 +14,13 @@ tags:
 aliases:
   - Kornmeier IGPP
   - Grenzgebiete der Psychologie
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-17
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Jürgen Kornmeier — Grenzgebiete der Psychologie
@@ -25,6 +32,15 @@ aliases:
 **Josef Albers** — Hard-Edge-Geometrie, *Homage to the Square*, flaches Öl auf Karton, Ocker/Umbra/Kreidegrau. Albers' Lebensbefund in *Interaction of Color* ist buchstäblich Kornmeiers Mona-Lisa-Ergebnis: Dieselbe Farbe liest sich anders, je nachdem, was um sie herum liegt — Wahrnehmung ist relational, nie absolut. Die beiden identischen grauen Quadrate im Bild liegen auf verschiedenen Gründen und weigern sich, gleich auszusehen. Dazu Albers' Bauhaus-Strenge, die kein Gramm Mystik zulässt — genau die Haltung, mit der Kornmeier sein eigenes Institut betritt. Die drei Tafeln sind der Bogen der Note: die geordnete Wissenschaft, die Kippfigur, die sich nicht festlegt, und das Feld, das sich nicht auflöst.
 
 *Prompt:* Josef Albers style, Homage to the Square, hard-edge geometric abstraction, flat matte oil on board. Wide banner 1200x500px. On the left: three concentric nested squares in disciplined order, warm ochre inside pale grey inside deep umber — crisp edges, absolute clarity. In the center: the same nested-square structure, but its inner square has become a Necker cube — a thin white line drawing of a transparent cube whose front face is impossible to fix; it reads two ways at once. On the right: the squares dissolve — edges soften, the field opens into a large area of quiet unresolved grey-green that has no boundary at all. Two identical small grey squares sit in the composition, one on the ochre field and one on the umber field; they read as two different greys. Palette: warm ochre, umber, chalk grey, cream, one muted grey-green. Flat, no texture, no gradient except at the right dissolve. Bauhaus rigor. No text. No faces. No photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 17.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jürgen Kornmeier, die Erzählstimme ist unsere.
 
 </details>
 

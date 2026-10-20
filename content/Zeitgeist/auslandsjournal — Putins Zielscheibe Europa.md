@@ -20,6 +20,13 @@ tags:
 aliases:
   - Der Trump Effekt 71
   - Putins Zielscheibe Europa
+stimme:
+  - wer: "Egon Erwin Kisch"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-04
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung"
+    quelle: rekonstruiert
 ---
 
 # Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte
@@ -31,6 +38,15 @@ aliases:
 **René Magritte** — glatte Ölfarbe, harte Kanten, Dämmerungshimmel. Magrittes ganze Praxis handelt vom Abstand zwischen einem Ding und dem Wort, das man dafür haben darf — und genau darum geht diese Folge: Eine Drohne liegt auf einem deutschen Flughafen, und die Bundesregierung muss sie „kein Krieg" nennen, damit Artikel 5 nicht anspringt. Die Drohne schwebt darum *über* dem Sockel, nicht darauf, mit dem losen roten Zünderdraht. Die schwebende Tasse ist die aus Tillschneiders Regal.
 
 *Prompt:* Painting in the style of René Magritte: a wide twilight sky filled with flat, sculpted white clouds over a deserted grey airfield. In the centre, a plain grey stone pedestal; resting on it a small matte black quadcopter drone, one red wire hanging loose and unconnected. Beneath the pedestal a small brass plaque engraved with the words KEIN KRIEG. To the right, a single white porcelain cup floats motionless in the sky, casting no shadow. Muted dusk palette: slate blue, grey-green, bone white, one point of red. Smooth flat oil paint, matte surface, precise hard edges, dreamlike stillness. No faces, no people, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung.
+*Beim Schreiben still gewählt am 04.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Putins Zielscheibe Europa, die Erzählstimme ist unsere.
 
 </details>
 

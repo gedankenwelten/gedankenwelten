@@ -12,6 +12,13 @@ tags:
   - widerstand
 aliases:
   - Säkulare Ethik
+stimme:
+  - wer: "Hermann Hesse"
+    art: stimme
+    umfang: "der Schluss"
+    am: 2026-07-06
+    geliehen: "die ruhige, warme Prosa des Suchenden"
+    quelle: rekonstruiert
 ---
 
 # Dalai Lama — Die säkulare Ethik
@@ -23,6 +30,15 @@ aliases:
 **Utagawa Hiroshige** — japanischer Farbholzschnitt, Indigo, Ocker und Morgenrosa, flache Farbflächen mit Holzmaserung. Das Banner malt das zentrale Gleichnis der Note wörtlich: Der Bergquell, an dem alle ihre Schalen füllen — Bauern, Kinder, Mönche, Reisende, alle gleich —, und am Rand das Teehaus für die wenigen. Wasser sind die menschlichen Werte, Tee ist die Religion.
 
 *Prompt:* Japanese woodblock print in the style of Hiroshige, wide horizontal composition. A clear mountain spring flows down from snowy Himalayan peaks into a village square where many small diverse figures fill their simple bowls with water — farmers, children, monks, travelers, all equal at the stream. To the far right, small and off to the side, a modest tea house where a few figures sit with steaming cups. Palette: deep indigo blue, snow white, warm ochre, soft rose dawn sky. Flat color planes, visible woodgrain texture, bold outlines, no realistic faces, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+Der Schluss: **Angelehnt an Hermann Hesse** — ein Versuch in dieser Tonlage. Geliehen: die ruhige, warme Prosa des Suchenden.
+*Erzählstimme gewählt am 06.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Dalai Lama, die Erzählstimme ist unsere.
 
 </details>
 

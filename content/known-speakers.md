@@ -456,6 +456,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Götz Aly
 **Status:** ✓ Vollanalyse → [[DenkerVita/Götz Aly]]
 
+## Sibylle Anderl
+**Status:** ✓ Vollanalyse → [[DenkerVita/Sibylle Anderl]]
+
 ## Hannah Arendt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Hannah Arendt]]
 

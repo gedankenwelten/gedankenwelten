@@ -352,6 +352,9 @@ Die Frage, in die die Nachbesprechung führt: Hampe neben Gabriel, Misselhorn, C
 
 Hackings Loopingeffekt im Persönlichen: Wer eine Haltung zur KI laut vertritt, wird von ihr geformt — und verteidigt sie dann wie ein Stück von sich.
 
+### → [[Sibylle Anderl — Bequeme neue Welt#Die Uhr weiß, wie man geschlafen hat|Sibylle Anderl — Bequeme neue Welt]]
+Anderl verteidigt die Urteilskraft, ein Wort, das sie selbst „ein bisschen altmodisch“ findet, gegen die Smartwatch und das Weltbild des Metrisierbaren. Hampes Befund, dass niemand beschreiben kann, wie sie funktioniert, und der Einwand, dass sie nicht unschuldig ist, sind die Fragen, die ihr Buch offenlässt.
+
 ---
 
 ## Weiterdenken

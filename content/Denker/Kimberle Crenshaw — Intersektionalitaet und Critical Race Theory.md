@@ -16,6 +16,13 @@ tags:
 aliases:
   - Kimberlé Crenshaw
   - Intersektionalität
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-19
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Kimberlé Crenshaw — Intersektionalität und Critical Race Theory
@@ -29,6 +36,15 @@ aliases:
 **Warum:** Lawrence, der Erzähler der Great Migration, malt die Kreuzung selbst: eine Frau mit Büchern im Schnittpunkt zweier Straßen — die eine trägt Banner, die andere Lasten. Intersektionalität als Ort, nicht als Etikett; Theorie von unten, aus der Bewegung der Vielen.
 
 **Prompt:** Jacob Lawrence style flat modernist narrative panel, bold silhouetted figures in tempera: at the center a street intersection seen from above, two roads crossing in ochre and deep red; at the crossing point stands one strong dark female silhouette wearing a long simple coat-dress, holding a stack of books; along one road a procession of small clothed figures walks upward carrying banners, along the other road figures carry heavy loads; in the corners fragments of brick wall, a courthouse column, a torn document. Palette of ochre, deep red, teal, black, cream. Flat angular shapes, rhythmic composition, no realistic faces, no photorealism, 1200x500 wide banner.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 19.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Kimberlé Crenshaw, die Erzählstimme ist unsere.
 
 </details>
 

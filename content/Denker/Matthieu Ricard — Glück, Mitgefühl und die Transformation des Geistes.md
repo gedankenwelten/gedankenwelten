@@ -21,6 +21,13 @@ aliases:
   - Matthieu Ricard
   - Matthieu Ricard Weisheiten
   - Matthieu Ricard Weisheiten 1
+stimme:
+  - wer: "Hermann Hesse"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-07-05
+    geliehen: "die ruhige, warme Prosa des Suchenden, ohne Belehrung"
+    quelle: rekonstruiert
 ---
 
 # Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes
@@ -32,6 +39,15 @@ aliases:
 **Tibetische Thangka-Tradition** — Mineralpigmente, Lapisblau, Zinnober und Goldornament, flache dekorative Perspektive. Ricards Leben ist die Verwandlung selbst: links löst sich das Labor des Institut Pasteur in einen Strom aus Gebetsfahnen auf, der zur meditierenden Figur auf dem Lotus im Himalaya führt — die Bildsprache der Tradition, in der er seit fünfzig Jahren lebt, kein Zitat von außen.
 
 *Prompt:* Tibetan thangka style painting with mineral pigments: at the right a serene monk figure in maroon and saffron robes meditating on an open lotus among snowy Himalayan peaks, surrounded by swirling stylized clouds and thin gold line ornament; at the left a small laboratory with glass flasks and a microscope gently dissolving into a stream of prayer flags and golden light that flows across the banner toward the mountains; deep lapis blue sky, vermilion, malachite green and gold leaf accents, flat decorative perspective, fine outlines, wide banner composition, no photorealism, no realistic faces
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Hermann Hesse** — ein Versuch in dieser Tonlage. Geliehen: die ruhige, warme Prosa des Suchenden, ohne Belehrung.
+*Erzählstimme gewählt am 05.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Matthieu Ricard, die Erzählstimme ist unsere.
 
 </details>
 

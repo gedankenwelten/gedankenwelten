@@ -22,6 +22,13 @@ aliases:
   - Ist die Welt verrückt geworden
   - Blom Standard Thema des Tages
   - Blom strauchelnde Welt
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-30
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Philipp Blom — Die strauchelnde Welt
@@ -33,6 +40,15 @@ aliases:
 **Ludwig Meidner** — Meidner malte 1912 und 1913 seine *Apokalyptischen Landschaften*: Städte, deren Häuser kippen, Himmel, die reißen, Menschen, die vor etwas fliehen, das noch keinen Namen hat. Es sind die Bilder genau jener Jahre, die Blom in *Der taumelnde Kontinent* beschrieben hat, als den Menschen „die Welt um die Ohren flog“. Darum seine Hand für eine Note, deren These lautet, wir seien „die Weiterführung derselben Geschichte“. Eine Wiener Straße in der Dämmerung, die Häuser neigen sich, über allem ein Gewirr aus Straßenbahnleitungen und Kabeln, im Himmel ein Kometenstreif. In der Mitte ein bronzener Bürgermeister auf dem Sockel, an Lueger erinnernd, dessen Denkmal Blom auf dem Weg ins Studio passierte. Ein Mann stolpert nach vorn, und auf dem Pflaster liegt ein zersprungener, leuchtender Bildschirm: die Beschleunigung von 1913 und die von heute auf einem Platz.
 
 *Prompt:* Wide panoramic banner painted in the manner of Ludwig Meidner's Apocalyptic Landscapes (1912-1913), German Expressionism: thick agitated brushstrokes, jagged tilting perspective, a city street at dusk whose tall apartment houses lean and buckle toward each other as if the ground itself were stumbling. Overhead a dense tangle of tram wires, telegraph lines and modern cables crisscrosses a sulphur-yellow and bruised violet sky split by a pale comet-like streak of white light. In the middle of a small square stands an old bronze statue of a bearded mayor on a stone plinth, visibly tilted at an angle. Small hurried figures in dark coats lean into the wind, one man in the foreground stumbling forward with an arm raised; on the pavement lies a shattered glowing rectangle of light like a broken screen. Palette of ochre, Prussian blue, crimson and acid yellow, nervous energy, prophetic unease, no readable text, no letters, no signature.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 30.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Philipp Blom, die Erzählstimme ist unsere.
 
 </details>
 

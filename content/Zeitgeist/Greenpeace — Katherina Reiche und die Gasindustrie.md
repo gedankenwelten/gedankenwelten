@@ -16,6 +16,13 @@ aliases:
   - Reiche Gasindustrie
   - Frisierter Monitoringbericht
   - Greenpeace Reiche-Dossier
+stimme:
+  - wer: "Egon Erwin Kisch"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-10
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung"
+    quelle: rekonstruiert
 ---
 
 # Greenpeace — Katherina Reiche und die Gasindustrie
@@ -27,6 +34,15 @@ aliases:
 **Honoré Daumier** — Ein Ministerbüro wie aus dem *Charivari*: Am Schreibtisch sitzt die Amtsperson mit dem Rücken zu uns, über ihre Schultern beugen sich acht Herren mit Zylinder und korrigieren mit spitzen Federn das Gutachten. Unter den Dielen kriechen Gasleitungen hervor und winden sich um Tisch- und Stuhlbeine, an jedem Ende brennt eine kleine Flamme. Durchs Fenster sieht man Windmühlen, halb hinter dem Vorhang, und in der Ecke stapelt ein Schreiber die Akten. Daumier hat Minister, Bittsteller und Gefälligkeitsjustiz gezeichnet, als die Lobby noch Zylinder trug; seine Hand passt zu einer Recherche, die von vielen kleinen Federstrichen in dieselbe Richtung erzählt.
 
 *Prompt:* Nineteenth-century satirical lithograph in the manner of Honoré Daumier, wide panoramic banner. A high-ceilinged ministry office: at a large desk a ministerial figure in a dark coat, seen from behind and in half shadow, leans over a long scientific report while a row of portly gentlemen in top hats and frock coats bend over her shoulders, each holding a pen and quietly correcting lines on the pages. From under the floorboards thick iron gas pipes rise and coil around the legs of the desk and the chairs like vines, ending in small gas flames. On the left, a narrow window shows windmills and sunlit fields, half hidden behind a heavy drawn curtain. In the corner a clerk feeds blackened pages into a stack of files. Expressive crayon lines, rich blacks and soft greys on cream paper, a single wash of muted sepia, ironic but restrained. No text, no letters, no logos, no photorealism, no recognizable real faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung.
+*Beim Schreiben still gewählt am 10.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Greenpeace, die Erzählstimme ist unsere.
 
 </details>
 

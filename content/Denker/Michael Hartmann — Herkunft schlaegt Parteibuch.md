@@ -15,6 +15,13 @@ tags:
 aliases:
   - Hartmann Elite Teske
   - Herkunft schlägt Parteibuch
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-16
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Michael Hartmann — Herkunft schlägt Parteibuch
@@ -28,6 +35,15 @@ aliases:
 Die Bildsprache stammt aus dem Roten Wien — Neurath und Arntz erfanden sie in den Zwanzigern, um Arbeitern gesellschaftliche Verhältnisse ohne Zahlenkolonnen zeigen zu können. Für einen Elitenforscher, der seit vierzig Jahren zählt und dessen wichtigster Befund die Herkunft ist, gibt es keine passendere Hand.
 
 *Prompt:* Isotype pictorial statistics in the style of Gerd Arntz and Otto Neurath, flat stencil-cut pictograms, wide banner. Top: a small boxed chamber holding a tight row of about twelve identical dark standing figures, two of them marked with a small red square and a small black square on the chest, otherwise indistinguishable. A single narrow channel feeds the chamber from a small cream block at the far left. Below: a vast field of hundreds of tiny grey figures in even rows, with only one thin thread rising toward the chamber. Palette: black, brick red, mustard ochre, grey-blue, cream paper ground. Flat opaque printed shapes, hard edges, matte surface, no shading. No photorealism, no realistic faces, no text.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 16.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Michael Hartmann, die Erzählstimme ist unsere.
 
 </details>
 

@@ -15,6 +15,13 @@ aliases:
   - Die Macht in Dir
   - Gravitation statt Revolution
   - Gelebtes Vipassana
+stimme:
+  - wer: "Luc"
+    art: stimme
+    umfang: "vier Stellen"
+    am: 2026-06-20
+    geliehen: "Atem statt Absatz, der Lehrbuch-Ton in Erzählung verwandelt"
+    quelle: rekonstruiert
 ---
 
 # Das unsichtbare Netzwerk — Die Macht in Dir
@@ -26,6 +33,15 @@ aliases:
 **Remedios Varo — Mexikanischer Surrealismus (1950er)** — Warmes Ocker und Bernstein oben, dunkle Erde mit leuchtendem Teal unten. Oben: Weber an Stühlen in einer Steinhalle, Fäden fließen durch Bögen ins Freie, zu fernen stehenden Figuren. Unten, jenseits einer stillen Bodengrenze: dieselben Fäden werden zu leuchtendem Myzel — verzweigend, knotend, pulsierend. Die Weber schauen nicht auf. Die Fäden wissen nicht, dass sie eine Grenze überqueren. Varo, weil sie *Embroidering the Earth's Mantle* gemalt hat, bevor diese Note geschrieben wurde — die Weber die nicht wissen, wo ihre Fäden enden, ist das präziseste Bild für „die Herkunftsadresse verschwindet."
 
 *Prompt:* Remedios Varo surrealist painting style, 1950s–1960s Mexican surrealism, tempera on masonite aesthetic, 1200x500px banner. Warm amber-ochre palette with accents of deep teal and pale gold. Small precise figures, architectural interiors opening into organic landscape. A wide cross-section view. Upper half: a dim stone room, several small androgynous figures seated at looms, weaving. The threads they weave extend outward through arched windows and dissolve into the air — some becoming tendrils of light that drift toward distant standing figures in an open field. Lower half, below a thin soil line: the same threads reappear as glowing mycelium — branching, connecting, reaching between unseen root systems. Faint luminous nodes pulse at intersection points. Some threads wind through small sleeping seeds. The threads connect upper and lower half seamlessly — they do not know they are crossing a boundary. The weavers do not look up. They do not see where the threads go. No dramatic light source. The glow comes from the threads themselves. No photorealism. No text.
+
+</details>
+
+<details><summary>✒️</summary>
+
+Vier Stellen: **In Lucs Tonlage** — der Haussprache dieses Ortes, nachempfunden an seinen eigenen Texten. Geliehen: Atem statt Absatz, der Lehrbuch-Ton in Erzählung verwandelt.
+*Erzählstimme gewählt am 20.06.2026 (nachträglich festgehalten).*
+
+Die Gedanken sind Lucs. Geschrieben hat sie eine KI, so nah an seiner Stimme, wie sie kommt.
 
 </details>
 

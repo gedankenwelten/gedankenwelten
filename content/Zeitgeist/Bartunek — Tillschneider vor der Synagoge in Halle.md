@@ -15,6 +15,13 @@ tags:
 aliases:
   - Tillschneider Halle
   - Amoklauf von Halle
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-10
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Tillschneider vor der Synagoge in Halle
@@ -26,6 +33,15 @@ aliases:
 **Ben Shahn** — Eitempera mit nervöser Federlinie, Ocker, Schiefergrau, verblasstes Ziegelrot. Eine zernarbte Holztür in hellem Mauerwerk, davor sieben junge Menschen Arm in Arm, am Boden Gedenkkerzen und weiße Rosen; rechts, über leeres Pflaster getrennt, ein einzelner Mann im Anzug, dessen langer Schatten bis an die Kette reicht. Shahn malte die Würde der Gewöhnlichen ohne Pathos — und diese Note handelt von einer Tür, die zweimal gehalten wurde, 2019 vom Holz, 2026 von Menschen, die nicht schreien und trotzdem stehen bleiben.
 
 *Prompt:* Wide panoramic banner painting in the style of Ben Shahn, 1940s social realist tempera: mottled egg tempera on gessoed board with a scratchy, uneven, nervous black pen line tracing every contour, slightly elongated angular figures, large flat areas of worn colour. At the centre-left stands a heavy old wooden door set in a pale stone courtyard wall, its planks pocked with small splintered holes and dark scorch marks, firmly closed. In front of the door a row of seven young people stands shoulder to shoulder, arms linked, in plain autumn coats and scarves, upright and grave, solemn serious expressions, eyes lowered, simplified stylised faces. At the far right, across an empty stretch of grey pavement, a lone man in a dark business suit stands stiffly, small, his long thin shadow reaching across the empty ground toward the row. At the foot of the door: small white memorial candles in glass jars and a few white roses. Overcast October light; palette of ochre, slate grey, faded brick red, bone white and a little deep blue. No text, no letters, no symbols, no flags, no weapons.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 10.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

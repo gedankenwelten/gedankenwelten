@@ -21,6 +21,13 @@ aliases:
   - Blom Unterwerfung
   - Philipp Blom Jung & Naiv
   - Blom Jung und Naiv 670
+stimme:
+  - wer: "Joseph Roth mit Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-27
+    geliehen: "aus einem kleinen Detail eine ganze Welt ziehen; Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Philipp Blom — Die Unterwerfung
@@ -32,6 +39,15 @@ aliases:
 **Albrecht Altdorfer** — ein Zedernwald, der das ganze Bild füllt, riesige Stämme, Vorhänge aus dunkelgrünem Nadelwerk, Flechten. Durch das Dach fällt ein Schacht goldenen Lichts auf eine leere Stelle neben einem frisch gefällten Stamm, als wäre dort gerade jemand gegangen. Unten rechts, winzig, ein König aus Uruk mit Bronzeaxt; ein Weg aus gefällten Stämmen führt hinaus zur Stadtmauer. Altdorfer, weil er als Erster den Wald selbst zur Hauptfigur machte und den Menschen darin klein ließ, den Heiligen Georg fast verschluckt vom Laub. Hier ist es umgekehrt: Der Mensch hat gerade gesiegt, und das Licht gehört dem, was er erschlagen hat. Gilgamesch nach dem Waldgeist Humbaba, die erste Entzauberung.
 
 *Prompt:* Wide panoramic banner painted in the manner of Albrecht Altdorfer's forest landscapes (Danube School, 'Saint George in the Forest', 1510) — oil on panel, a vast ancient cedar forest filling the whole picture, colossal trunks and cascading curtains of feathery dark-green foliage, hanging lichen, a shaft of warm golden light falling through the canopy onto the mossy ground like a presence. No faces anywhere in the trees. In the lower right foreground, tiny against the giants, a single ancient Mesopotamian king with long curled black beard, bare chest and a simple white kilt, holding a bronze axe, standing beside one freshly felled cedar lying on the ground; the pale fresh-cut stump glows. A thin path of cut logs leads out of the forest toward a small distant clay-brick city wall under a pale sky at the far right edge. Rich greens, umber, gold. Northern Renaissance detail, quiet, solemn, no text, no signature.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joseph Roth mit Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: aus einem kleinen Detail eine ganze Welt ziehen; Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 27.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Philipp Blom, die Erzählstimme ist unsere.
 
 </details>
 

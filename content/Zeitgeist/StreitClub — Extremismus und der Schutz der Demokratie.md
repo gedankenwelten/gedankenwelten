@@ -16,6 +16,13 @@ tags:
 aliases:
   - StreitClub Extremismus
   - Lässt sich die Demokratie beschützen
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-08
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # StreitClub #19 — Extremismus und der Schutz der Demokratie
@@ -27,6 +34,15 @@ aliases:
 **Oskar Schlemmer — Bauhaus-Bühne** — Schlemmer malte Menschen als Typen: eiförmige Köpfe ohne Gesicht, Körper aus Zylinder, Kegel und Kugel. Genau das ist Quents Befund über die Personalisierung der AfD — „die könnten auch einen blauen Besen aufstellen". Die Figur ist austauschbar, der Raum ist es nicht. Links stehen die drei Schutzinstrumente einzeln auf dem leeren Boden: eine Mauer, ein Ring, ein Stab auf einem Drehpunkt. Keines berührt ein anderes, jedes wirft seinen Schatten in eine andere Richtung. Die Treppe zur Bühne läuft nach vorne aus, ihre unteren Stufen verlieren sich im Boden — die Verbindung zwischen denen, die reden, und denen, die zuschauen, ist nicht mehr begehbar. Ganz links, klein und allein, steht eine Figur und sieht zu. Sie ist die Pointe des Abends.
 
 *Prompt:* Wide banner 1200x500px in the style of Oskar Schlemmer, Bauhaus stage painting, 1920s. A shallow theatrical stage space rendered in flat geometric planes with strong perspectival recession. Muted warm palette: ochre, ivory, grey-violet, muted vermilion, deep slate blue. No photorealism, no realistic faces — figures are simplified mannequin types, egg-shaped heads without features, bodies built from cylinders, cones and spheres, exactly as in Schlemmer's Triadic Ballet. Composition: On the right, a low stage platform where four seated mannequin figures face each other in a loose semicircle — they are in conversation, arms in mid-gesture, but their heads are blank ovals. Behind them a tall flat architectural backdrop of pale ochre panels. In the middle ground, a wide staircase descends from the platform toward the viewer, but the lowest steps dissolve into flat empty ground — the stair does not reach anywhere. In the left foreground, three separate geometric objects stand upright on the bare floor, evenly spaced, each casting a long shadow in a different direction: a heavy vertical slab like a low wall section, a hollow ring, and a slender balanced rod on a fulcrum. None of the three touches or connects to the others. Far left edge, small and low: a single small mannequin figure standing alone facing the stage, much smaller than the seated ones. Strict Bauhaus geometry, clean flat colour fields, subtle warm stage lighting from upper right, matte painted texture. No text, no lettering.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 08.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von StreitClub #19, die Erzählstimme ist unsere.
 
 </details>
 

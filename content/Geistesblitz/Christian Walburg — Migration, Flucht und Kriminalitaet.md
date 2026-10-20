@@ -16,6 +16,13 @@ aliases:
   - Ausländerkriminalität
   - Walburg Migration
 raetsel: "Man ließ sie warten, damit sie gingen. Sie blieben und hatten das Warten gelernt."
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-07
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Christian Walburg — Migration, Flucht und Kriminalität
@@ -27,6 +34,15 @@ raetsel: "Man ließ sie warten, damit sie gingen. Sie blieben und hatten das War
 **George Tooker** — Eitempera auf Gesso, matte glatte Fläche, kaltes gleichmäßiges Neonlicht. Ein Warteraum in tiefer Flucht: Reihen gleicher Bänke, darauf junge Männer mit Nummernzetteln und gefalteten Papieren, still. An der Stirnwand eine Uhr, eine geschlossene Tür, ein Stempel am Haken. Durchs Fenster rechts die Stadt, die arbeitet: ein Kran, eine Bäckerei, Menschen auf dem Weg. Tookers Hand, weil sein *Waiting Room* (1959) das Warten in Kabinen als Zustand der Moderne malte — genau die Lage, die Walburg für die Geduldeten beschreibt: drinnen die Zeit, draußen das Leben, das nicht hereinkommt.
 
 *Prompt:* A wide horizontal banner painting in the style of George Tooker, egg tempera on gessoed panel, smooth matte surface, cool even fluorescent light, muted greys, pale greens and ochres. A long bureaucratic waiting room seen in deep perspective: rows of identical narrow wooden cubicles and benches, in them young men of different backgrounds sit very still, stylized simplified figures with calm anonymous faces, holding numbered paper slips and folded documents. On the far wall a large round clock and a closed door with a rubber stamp hanging beside it. Through one tall window on the right, a bright small view of the outside city at work: a bakery with warm light, a construction crane, people walking. Quiet, patient, melancholic atmosphere. No letters, no numbers, no words, no logos, no photorealism, no signature.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 07.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Christian Walburg, die Erzählstimme ist unsere.
 
 </details>
 

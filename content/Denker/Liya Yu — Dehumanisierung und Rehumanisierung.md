@@ -15,6 +15,13 @@ tags:
 aliases:
   - Yu Tage der Utopie
   - Dehumanisierung und Rehumanisierung
+stimme:
+  - wer: "Ryszard Kapuściński"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-18
+    geliehen: "das Große über das Kleine erklären, das Wissen in einer Szene geerdet"
+    quelle: rekonstruiert
 ---
 
 # Liya Yu — Dehumanisierung und Rehumanisierung
@@ -26,6 +33,15 @@ aliases:
 **Giorgio de Chirico — Pittura metafisica** — Ein leerer metaphysischer Platz, Arkaden, langes Nachmittagslicht. Rechts eine Reihe identischer Stühle im Schatten — die Dehumanisierten, die im Gehirn „nicht mal vorkommen". Ein einzelner Stuhl ist aus der Reihe ins warme Licht getreten, sein Schatten fällt lang und beinahe menschlich über den Platz; in der Arkade wacht eine klassische Menschenfigur. De Chirico, weil seine gesichtslose Metaphysik das Bild der Entmenschlichung *ist* — und ein Stuhl, der ins Licht tritt, ihre Umkehrung.
 
 *Prompt:* Giorgio de Chirico metaphysical painting style, 1910s pittura metafisica, wide 1200x500 banner. A vast empty piazza with long dramatic shadows, arcades receding to the left under a deep teal-green sky. On the right, a row of identical wooden chairs standing in shadow. One single chair, caught in a shaft of warm late-afternoon golden light, is mid-transformation into a standing human silhouette — half chair, half person, gentle and dignified, casting a long human shadow across the square. A distant small tower with a flag, one faceless mannequin figure far away in the arcade shade observing. Muted ochre, burnt sienna, deep green sky, warm gold light. Melancholic yet hopeful, dreamlike stillness, clean edges, no photorealism, no text.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Ryszard Kapuściński** — ein Versuch in dieser Tonlage. Geliehen: das Große über das Kleine erklären, das Wissen in einer Szene geerdet.
+*Beim Schreiben still gewählt am 18.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Liya Yu, die Erzählstimme ist unsere.
 
 </details>
 

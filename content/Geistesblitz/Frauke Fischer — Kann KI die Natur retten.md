@@ -14,6 +14,13 @@ tags:
 aliases:
   - Fischer KI Naturschutz
   - Kann KI die Natur retten
+stimme:
+  - wer: "Egon Erwin Kisch mit George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-26
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Frauke Fischer — Kann KI die Natur retten?
@@ -27,6 +34,15 @@ aliases:
 Merian, weil Fischer wie sie in Gegenständen argumentiert statt in Begriffen: die Mücke, die den Kakao bestäubt, der Frosch, der nicht schimmelt, der Hai, den man nur von seiner Haut her kennt. Merian ist außerdem die Frau, die vor dreihundert Jahren in die Tropen ging und mitbrachte, was sie sah — dieselbe Bewegung wie Fischers zehn Jahre an der Elfenbeinküste. Das Messgitter darüber ist die Frage des Vortrags: Was passiert mit einer Tafel voller Leben, wenn man beginnt, sie zu vermessen? *(Stilzitat, keine historische Tafel; die Schriftzüge im Bild sind dekoratives Scheinlettering, keine echte Signatur.)*
 
 *Prompt:* Maria Sibylla Merian style natural history copperplate illustration, hand-coloured, on aged ivory paper, 1200x500 wide banner. A precise botanical-entomological plate: a cacao branch with pods, two tiny midges hovering at a flower, a tree frog on a leaf, a whale shark rendered small in the lower corner like a specimen study. Over the whole plate lies a very faint pale grey measurement grid with thin registration marks, as if the plate were being surveyed. Muted botanical greens, warm ochres, soft carmine, sepia ink linework. Scientific, delicate, slightly melancholy. No text, no lettering, no modern devices.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch mit George Orwell** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 26.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Frauke Fischer, die Erzählstimme ist unsere.
 
 </details>
 

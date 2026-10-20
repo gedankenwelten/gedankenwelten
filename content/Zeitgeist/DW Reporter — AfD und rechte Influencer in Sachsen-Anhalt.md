@@ -15,6 +15,13 @@ tags:
 aliases:
   - Querfurt vor der Wahl
   - Sachsen-Anhalt 2026
+stimme:
+  - wer: "Egon Erwin Kisch mit George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-30
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt
@@ -28,6 +35,15 @@ aliases:
 Schrimpf hat genau das gemalt, worum es in dieser Note geht: deutsche Provinz in einem Licht so klar und einer Ruhe so vollständig, dass sie angehalten wirkt — der Maler des „es ist schön hier" mit einem Schatten darin, und das ganz ohne je ein Symbol zu malen. Die Leere nimmt die untere Bildhälfte, weil sie der Gegenstand ist: Der Platz ist der Ort, an dem die Jugend sitzt, weil es keinen anderen gibt.
 
 *Prompt:* Painting in the style of Georg Schrimpf, German Neue Sachlichkeit magic realism: an empty asphalt parking lot at the edge of a small town in late summer evening light. Four small young figures sit on a low concrete wall at the right, seen from behind, faces not visible, casting long shadows across the empty asphalt that fills the lower half of the picture. In the middle distance a fairground tent with a string of small triangular bunting flags between two poles, empty wooden beer benches beside it. On a low hill behind, the flat silhouette of a medieval castle keep. High clear sky, pale green-gold. Palette of dusty ochre, chalky white, concrete grey, muted brick red. Simplified rounded volumes, hard clear light, thin smooth oil paint on panel with a matte surface and no visible brushwork. Wide banner composition. No photorealism, no faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch mit George Orwell** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 30.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

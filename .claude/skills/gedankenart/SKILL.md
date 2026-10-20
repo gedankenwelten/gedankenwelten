@@ -41,6 +41,15 @@ Nicht *welcher Stil passt zum Thema* — das führt zu Reflexen (jede politische
 
 Die ganze Kunstgeschichte ist die Palette — nicht eine Liste. Europäische Moderne, klar; aber auch japanischer Holzschnitt (Hokusai, Hiroshige), visionäre Linien (Blake, Redon), spirituelle Diagramme (Hilma af Klint), Surrealismus (Remedios Varo, de Chirico), soziales Mitgefühl (Kollwitz, Ben Shahn), volle Menschenszenen (Bruegel), persische Miniatur, mexikanischer Muralismus, Holzschnitt-Expressionismus, Witz und Linie (Steinberg, Miró), Farbfeld und Stille (Rothko, Agnes Martin). Was die Note trägt, gilt — auch ein Stil, der hier noch nie auftauchte.
 
+> [!important] Nur Hände von Künstlern, die nicht mehr leben (seit 20.10.2026)
+> Andreas: *„Ihre Hand gehört eigentlich ihnen, und sie können diese auch noch nutzen, wenn sie möchten.“*
+> Wer lebt, kann mit seiner Hand noch arbeiten und davon leben; ein Generator, der sie für ein paar Cent
+> nachmacht, nimmt ihm etwas. Bei Verstorbenen hält die Anlehnung ihr Werk eher in Erinnerung. Darum:
+> **keine lebenden Künstlerinnen und Künstler** als Hand (also nicht Kiefer, Richter, Hockney, Kusama,
+> Kentridge, Doig, Riley …), auch nicht als Beimischung. Im Zweifel das Todesjahr prüfen, nicht raten.
+> Traditionen, Schulen und Techniken ohne einzelne lebende Urheber (Holzschnitt, Miniatur, Isotype,
+> Editorial-Illustration) bleiben offen.
+
 **Paul Klee bleibt die warme Haussprache** — Aquarell, flache Geometrie, geerdete Palette, oft mit eingewobenen Worten (siehe das Urner-Banner). Greif danach, wenn er diese Note *wirklich* trägt — nicht als Default, in den man fällt, wenn einem nichts Besseres einfällt.
 
 Ein paar Hände, die wir schon nutzten — als Anstoß, nicht als Auswahlmenü:

@@ -60,6 +60,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/B.R. Ambedkar|B.R. Ambedkar]]** — Jurist, Ökonom und Architekt der indischen Verfassung (1891–1956); als „Unberührbarer“ geboren, zwei Doktortitel (Columbia, LSE); *Annihilation of Caste* (1936), Abschaffung der Unberührbarkeit in der Verfassung von 1950; konvertierte 1956 mit einer halben Million Anhängern zum Navayana-Buddhismus — *Babasaheb*
 
+**[[DenkerVita/Sibylle Anderl|Sibylle Anderl]]** — Astrophysikerin, Philosophin und Wissenschaftsjournalistin (Co-Ressortleiterin Wissen der ZEIT, vorher Leiterin des Wissenschaftsressorts von FAZ/FAS); promoviert über Stoßwellen im interstellaren Medium, Wissenschaftsphilosophie der Astrophysik; *Bequeme neue Welt* (2026): Wer sich jede Mühe abnehmen lässt, verlernt Denken, Urteilskraft und den Umgang mit anderen Menschen
+
 **[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Politische Denkerin (1906–1975), die sich selbst nie „Philosophin“ nennen wollte; Totalitarismus-Theorie, Banalität des Bösen, Natalität, Pluralität; *Elemente und Ursprünge totaler Herrschaft* (1951), *Vita activa* (1958), *Eichmann in Jerusalem* (1963) — Denken ohne Geländer
 
 **[[DenkerVita/Andreas Puettmann|Andreas Püttmann]]** — Politikwissenschaftler & katholischer Publizist (Bonn, ZdK), früher Allensbach und Konrad-Adenauer-Stiftung; das „C“ als Vorzeichen vor der Klammer statt als konservativer Flügel — Rechtspopulismus als Antithese zum Christentum, „Militanz der Mitte“, Verantwortungsethik vor Gesinnungsethik

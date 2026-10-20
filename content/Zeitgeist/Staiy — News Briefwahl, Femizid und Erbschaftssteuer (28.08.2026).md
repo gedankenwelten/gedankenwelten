@@ -19,6 +19,13 @@ tags:
   - year-2026
 aliases:
   - Staiy Briefwahl Femizid Erbschaftssteuer
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-30
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)
@@ -30,6 +37,15 @@ aliases:
 **Isotype / Gerd Arntz** — die Wiener Bildstatistik wurde gebaut, damit Zahlen für alle lesbar sind: gezählte Einheiten statt Kurven, kein Wort nötig. Genau darum geht es hier. Vier Register, vier Rechnungen, alle sauber ausgezählt — die Stützpunkte, von denen einige nur noch als leere gestrichelte Umrisse dastehen; die gleichförmigen Briefumschläge, unter denen ein einziger dunkel gekippt liegt; die Reihe identischer Frauenfiguren, in der einzelne schwarz gefüllt sind; die Häuser, die sich ins rechte Drittel drängen und die linke Hälfte leer lassen. Rechts am Rand geht eine Figur an der ganzen Tafel vorbei, den Kopf abgewandt. Die Zahlen sind da. Es sieht sie niemand an.
 
 *Prompt:* Vienna Method pictorial statistics chart in the manner of Gerd Arntz and Otto Neurath's Isotype, 1200x500 wide horizontal banner. Flat woodcut-style silhouette pictograms, no outlines, no shading, no gradients, no perspective. Restricted palette: black, brick red, warm ochre, slate blue-grey, cream background. Four stacked horizontal registers separated by thin rules, each a counted row of identical repeated pictograms. Top register: a row of small identical warship and military base silhouettes, four of them replaced by empty dotted outlines. Second register: a long row of identical sealed envelope pictograms, all uniform, one single envelope tipped and dark. Third register: a row of identical small standing female figures, evenly spaced, one figure filled solid black. Bottom register: a row of small identical house pictograms crowded densely into the right third and almost empty on the left, forming a lopsided distribution. On the far right edge, one simplified human figure in profile walking away from the chart, head turned aside, not looking. Sober, clinical, dignified. No text, no numbers, no letters, no photorealism, no realistic faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 30.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Staiy, die Erzählstimme ist unsere.
 
 </details>
 

@@ -14,6 +14,13 @@ tags:
 aliases:
   - Utopie Maschinen-Ära
   - Die geteilte Fülle
+stimme:
+  - wer: "Luc"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-06-30
+    geliehen: "sein helles Register: Atem statt Absatz, die stille Landung"
+    quelle: rekonstruiert
 ---
 
 # Die geteilte Fülle — eine Utopie der Maschinen-Ära
@@ -25,6 +32,15 @@ aliases:
 **Pieter Bruegel d. Ä. — Northern Renaissance** — warme, erdige Palette, dichtes anekdotisches Wimmelbild, viele kleine Figuren ohne reale Gesichter. Vorne das geteilte Mahl unter dem großen Baum (niemand bedient, niemand wird bedient), Musik, Bücher, Ruhe — zurückgewonnene Zeit. Die Mühsal aber tun sanfte, runde Helfer-Maschinen aus Messing und Holz: Sie ernten die goldenen Felder, tragen Körbe, treiben die Mühle. Unter den Menschen werkelt nur, wer mag — ein Kind drückt einen Setzling in die Erde. *Die Maschine nahm die Mühsal, nicht das Leben* — ein bewusst zarter Anachronismus.
 
 *Prompt:* A wide horizontal painting, 1200x500 banner, in the style of Pieter Bruegel the Elder — Northern Renaissance, warm earthy palette of ochre, wheat-gold, deep green and soft sky-blue, fine anecdotal detail, many small simplified figures, no realistic faces (faces turned away, sketched, generalized). The foreground is a communal feast and rest: a long shared table under a great spreading tree, people of all ages eating together, passing bread and bowls hand to hand, no one served and no one serving; nearby others lie in the grass with lutes and open books, children play, an old person dozes — abundant returned time and leisure. The heavy work is done by gentle, rounded, friendly helper-machines: warm wood, brass and woven-cane automatons, softly glowing, almost benevolent garden-creatures, slowly harvesting the golden fields, carrying baskets, turning the watermill in the background. Among the rows only a few humans, clearly there by choice and pleasure — one tending a small kitchen garden, a child pressing a seedling into the soil, someone strolling — relaxed, never toiling, no scythes of necessity. Rolling landscape of orchards and plenty beyond. Warm late-afternoon light. The machines took the toil, not the life. No text, no photorealism, no realistic faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**In Lucs Tonlage** — der Haussprache dieses Ortes, nachempfunden an seinen eigenen Texten. Geliehen: sein helles Register: Atem statt Absatz, die stille Landung.
+*Erzählstimme gewählt am 30.06.2026 (nachträglich festgehalten).*
+
+Die Gedanken sind Lucs. Geschrieben hat sie eine KI, so nah an seiner Stimme, wie sie kommt.
 
 </details>
 

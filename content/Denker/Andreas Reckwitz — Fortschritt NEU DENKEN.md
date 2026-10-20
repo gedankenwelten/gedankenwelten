@@ -19,6 +19,13 @@ tags:
 aliases:
   - Reckwitz Fortschritt NEU DENKEN
   - Reckwitz Fortschritt und Verlust
+stimme:
+  - wer: "Joan Didion mit Joseph Roth"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-25
+    geliehen: "kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen; aus einem kleinen Detail eine ganze Welt ziehen"
+    quelle: rekonstruiert
 ---
 
 # Andreas Reckwitz — Fortschritt NEU DENKEN
@@ -30,6 +37,15 @@ aliases:
 **Giorgio de Chirico** — metaphysischer Platz, ockerfarbenes Pflaster, überlange Schatten, unmögliche Ruhe. De Chiricos leere Plätze malen genau das, worüber Reckwitz spricht: eine Ordnung, deren Versprechen sich entleert hat, während die Architektur stehen bleibt. Im Zentrum die Sperrklinke, die Habermas für unumkehrbar hielt — ihr Hebel ist abgerutscht. Davor die Erbtruhe, offen und leer. Der Pfeil im Himmel steigt und kehrt zur Erde zurück; rechts der tote Baum und daneben der eine gepflanzte Setzling mit der Gießkanne, das ganze Resilienzprogramm auf einen Quadratmeter.
 
 *Prompt:* Wide painting in the metaphysical style of Giorgio de Chirico: an empty sunlit town square in late afternoon, very long deep shadows. At the centre stands a monument — a huge brass ratchet wheel on a stone plinth, its pawl slipped loose and hanging useless, teeth gleaming. At the foot of the plinth an open wooden inheritance chest, spilling small plain objects: a folded ballot paper, a book, a brass water tap, a loaf. On the right a single bare dead tree and beside it a small freshly planted sapling with a watering can. On the left a receding stone arcade with dark arches. In the pale dusty blue sky a thin drawn arrow rises, curves over and points back down at the earth. Palette: ochre, terracotta, brass, chalk white, dusty blue, deep green-black shadow. Flat theatrical light, geometric perspective, melancholic and calm. No faces, no people. No photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joan Didion mit Joseph Roth** — ein Versuch in dieser Tonlage. Geliehen: kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen; aus einem kleinen Detail eine ganze Welt ziehen.
+*Beim Schreiben still gewählt am 25.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Andreas Reckwitz, die Erzählstimme ist unsere.
 
 </details>
 

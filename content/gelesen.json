@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 819,
-   "aufrufe": 969
+   "leser": 821,
+   "aufrufe": 973
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -30,18 +30,18 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 33,
-   "aufrufe": 34
+   "leser": 32,
+   "aufrufe": 33
+  },
+  {
+   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+   "leser": 23,
+   "aufrufe": 24
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
    "leser": 22,
    "aufrufe": 25
-  },
-  {
-   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 22,
-   "aufrufe": 23
   },
   {
    "pfad": "/DenkerVita/Christine-Dankbar",
@@ -109,12 +109,12 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Torsten-Heinrich",
+   "pfad": "/DenkerVita/Cordula-Tutt",
    "leser": 7,
-   "aufrufe": 11
+   "aufrufe": 10
   },
   {
-   "pfad": "/DenkerVita/Cordula-Tutt",
+   "pfad": "/DenkerVita/Eva-von-Redecker",
    "leser": 7,
    "aufrufe": 10
   },
@@ -129,8 +129,8 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Eva-von-Redecker",
-   "leser": 7,
+   "pfad": "/DenkerVita/Torsten-Heinrich",
+   "leser": 6,
    "aufrufe": 7
   },
   {
@@ -310,23 +310,23 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 582,
-     "aufrufe": 701
+     "leser": 513,
+     "aufrufe": 623
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 93,
-     "aufrufe": 99
+     "leser": 72,
+     "aufrufe": 78
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 30,
-     "aufrufe": 37
+     "leser": 28,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 27,
-     "aufrufe": 29
+     "leser": 26,
+     "aufrufe": 28
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -335,13 +335,13 @@
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 13,
-     "aufrufe": 13
+     "leser": 12,
+     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 11,
-     "aufrufe": 13
+     "leser": 10,
+     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -349,24 +349,19 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
-     "leser": 10,
-     "aufrufe": 10
-    },
-    {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 8,
      "aufrufe": 11
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "leser": 8,
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
-     "leser": 5,
-     "aufrufe": 6
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -396,7 +391,7 @@
     {
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 3,
-     "aufrufe": 3
+     "aufrufe": 6
     },
     {
      "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
@@ -534,12 +529,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Staiy-News-Reiche-EXPOSED,-Kerosinmangel-und-Haushaltskuerzungen-(16.04.2026)",
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 2,
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
+     "pfad": "/Zeitgeist/Staiy-News-Reiche-EXPOSED,-Kerosinmangel-und-Haushaltskuerzungen-(16.04.2026)",
      "leser": 2,
      "aufrufe": 2
     },
@@ -547,6 +542,16 @@
      "pfad": "/Zeitgeist/Koschi-Politik-Pete-Hegseth-und-das-christlich-nationalistische-Militär",
      "leser": 1,
      "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Christoph-Butterwegge",
+     "leser": 1,
+     "aufrufe": 2
     },
     {
      "pfad": "/DenkerVita/Claus-Christian-Carbon",
@@ -599,12 +604,7 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "pfad": "/Denker/Eva-von-Redecker-Dieser-Drang-nach-Härte",
      "leser": 1,
      "aufrufe": 1
     }
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 819,
-     "aufrufe": 969
+     "leser": 821,
+     "aufrufe": 973
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -640,18 +640,18 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 33,
-     "aufrufe": 34
+     "leser": 32,
+     "aufrufe": 33
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 23,
+     "aufrufe": 24
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 22,
      "aufrufe": 25
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 22,
-     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -719,12 +719,12 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Torsten-Heinrich",
+     "pfad": "/DenkerVita/Cordula-Tutt",
      "leser": 7,
-     "aufrufe": 11
+     "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Cordula-Tutt",
+     "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 7,
      "aufrufe": 10
     },
@@ -739,8 +739,8 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 7,
+     "pfad": "/DenkerVita/Torsten-Heinrich",
+     "leser": 6,
      "aufrufe": 7
     },
     {
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 859,
-     "aufrufe": 1026
+     "leser": 862,
+     "aufrufe": 1031
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -954,6 +954,11 @@
      "aufrufe": 26
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 23,
+     "aufrufe": 24
+    },
+    {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "leser": 23,
      "aufrufe": 23
@@ -962,11 +967,6 @@
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 22,
      "aufrufe": 25
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 22,
-     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -1054,14 +1054,14 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/DenkerVita/Eva-von-Redecker",
+     "leser": 8,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "leser": 8,
      "aufrufe": 10
-    },
-    {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 8,
-     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1164,6 +1164,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 5,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Fabian-Pfeffer",
      "leser": 5,
      "aufrufe": 6
@@ -1177,11 +1182,6 @@
      "pfad": "/DenkerVita/Martin-Oetting",
      "leser": 5,
      "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-     "leser": 5,
-     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Christine-Braehler",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 859,
-     "aufrufe": 1026
+     "leser": 862,
+     "aufrufe": 1031
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1259,6 +1259,11 @@
      "aufrufe": 26
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 23,
+     "aufrufe": 24
+    },
+    {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "leser": 23,
      "aufrufe": 23
@@ -1267,11 +1272,6 @@
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 22,
      "aufrufe": 25
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 22,
-     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -1359,14 +1359,14 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/DenkerVita/Eva-von-Redecker",
+     "leser": 8,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "leser": 8,
      "aufrufe": 10
-    },
-    {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 8,
-     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1469,6 +1469,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 5,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Fabian-Pfeffer",
      "leser": 5,
      "aufrufe": 6
@@ -1482,11 +1487,6 @@
      "pfad": "/DenkerVita/Martin-Oetting",
      "leser": 5,
      "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-     "leser": 5,
-     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Christine-Braehler",
@@ -1535,13 +1535,13 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 27,
-     "aufrufe": 27
+     "leser": 26,
+     "aufrufe": 26
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 23,
-     "aufrufe": 23
+     "leser": 22,
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",

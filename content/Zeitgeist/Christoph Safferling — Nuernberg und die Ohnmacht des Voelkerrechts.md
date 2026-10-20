@@ -24,6 +24,13 @@ aliases:
   - Safferling Jung Naiv
   - Safferling Folge 826
   - Nürnberger Prinzipien Jung Naiv
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-05
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts
@@ -37,6 +44,15 @@ aliases:
 **Warum:** Die Note hat zwei Stockwerke. Oben der Saal von 1945/46 mit dem Zeugenstuhl vor der Leinwand, den Angeklagten mit Kopfhörern und der Dolmetscherkabine, in der eine neue Zunft geboren wurde. Unten der Keller, in dem Jahrzehnte später einer die Personalakten liest, die niemand lesen wollte. Masereel hat in Holz geschnitten, was Macht und Gewissen im 20. Jahrhundert miteinander machten; seine Linie verträgt den Ernst, ohne ins Pathos zu kippen.
 
 **Prompt:** Wide panoramic banner, black and white woodcut in the expressive style of Frans Masereel, bold carved black lines, high contrast, rough wood grain texture, a single accent of deep ochre. The composition is split horizontally by a thick floor. Upper half: a stark courtroom seen from the side, a small empty witness chair on a raised platform in the center, behind it a large blank projection screen glowing pale; on the left a long bench of dark hunched silhouettes wearing headphones, in front of them a row of lawyers' backs; on the right high windows and a judges' bench; a glass interpreters' booth with tiny figures speaking into microphones. Lower half, beneath the floor: a deep cellar with endless shelves of file folders receding into darkness, one lone figure at a desk under a single hanging lamp (the ochre accent), reading an open personnel file, long shadows. Expressive, solemn, documentary, no text, no letters, no realistic faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 05.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Christoph Safferling, die Erzählstimme ist unsere.
 
 </details>
 

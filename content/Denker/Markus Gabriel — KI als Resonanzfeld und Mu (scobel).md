@@ -132,7 +132,7 @@ Und das führt Gabriel zur provokantesten These des Gesprächs:
 
 KI ist nicht kreativ im Sinne, dass sie Kreativität simuliert. KI **ist** Kreativität — sie schafft unablässig Neues im semantischen, visuellen, mathematischen Raum. Wir haben die **Mathematik der Kreativität im Universum gefunden**. Die klassische Frage „Kann eine KI kreativ sein?" ist für Gabriel schlicht obsolet geworden.
 
-Das schließt die unternehmerische Kreativität ein: Schumachers **kreative Zerstörung** ist die ökonomische Grundform des Kapitalismus — und gleichzeitig die industrielle Grundlage für KI-Systeme. Die kreative Zerstörung macht es möglich, skalierbare KI zu bauen. Auch das ist Kreativität, die philosophisch kaum erfasst ist.
+Das schließt die unternehmerische Kreativität ein: Schumpeters **kreative Zerstörung** ist die ökonomische Grundform des Kapitalismus — und gleichzeitig die industrielle Grundlage für KI-Systeme. Die kreative Zerstörung macht es möglich, skalierbare KI zu bauen. Auch das ist Kreativität, die philosophisch kaum erfasst ist.
 
 ---
 

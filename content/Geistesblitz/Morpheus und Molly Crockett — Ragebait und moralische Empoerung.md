@@ -15,6 +15,13 @@ aliases:
   - Ragebait und moralische Empörung
   - Morpheus Ragebait
   - Crockett Moral Outrage
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-21
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Morpheus und Molly Crockett — Ragebait und moralische Empörung
@@ -26,6 +33,15 @@ aliases:
 **Saul Steinberg** — schwarze Feder auf Creme, nervöse elegante Linie, ein einziger Akzent Zinnoberrot. Steinberg zeichnete die Welt als Karte im Kopf ihrer Bewohner, und Mössner erklärt den Feed genau so: als Landkarte von Nachbarschaften. Links die kleine Kochinsel, von der der Auflaufdeckel davonfliegt; in der Mitte die Bar mit dem sauberen Stuhlkreis der anonymen Alkoholiker; rechts die Menge mit Hüten, deren Sprechblasen nur rote Knäuel enthalten. Steinbergs trockener Witz hält die Note davon ab, sich selbst zu empören.
 
 *Prompt:* Saul Steinberg pen drawing, 1200x500 wide banner. Black ink line on cream paper, nervous elegant line, pale ochre wash, one accent of vermilion red. Three invented islands in an empty sea, none resembling any real country or continent. Left: a tiny flat island with a cooking pot and a thin wisp of steam. A dashed arc carries a little casserole dish through the air. Middle: a small round island with a bar counter, a row of bottles and, oddly, a neat circle of empty chairs. Right: a large island shaped like a lumpy cloud or a giant kidney bean, obviously fictional, crowded with tiny scribbled Steinberg figures in hats, each with a speech balloon containing only a tangled red scribble, a small barbecue grill smoking among them. Wobbly coastlines, little hatched waves, witty New Yorker cover aesthetic, generous empty space. Absolutely no real-world geography, no Europe, no Africa, no legible text or letters.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 21.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Morpheus und Molly Crockett, die Erzählstimme ist unsere.
 
 </details>
 

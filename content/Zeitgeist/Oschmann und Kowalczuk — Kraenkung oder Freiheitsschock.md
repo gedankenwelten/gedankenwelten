@@ -20,6 +20,13 @@ aliases:
   - Oschmann Kowalczuk
   - Der Osten westdeutsche Erfindung
   - Freiheitsschock
+stimme:
+  - wer: "Joan Didion"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-10
+    geliehen: "kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen"
+    quelle: rekonstruiert
 ---
 
 # Oschmann und Kowalczuk — Kränkung oder Freiheitsschock
@@ -31,6 +38,15 @@ aliases:
 **Edward Hopper** — Hopper malte Menschen, die nebeneinander sitzen und nicht miteinander sprechen, in einem Licht, das mehr sagt als sie. Darum seine Hand für eine Note, in der zwei Männer desselben Jahrgangs dieselben Tatsachen gegensätzlich erzählen und beide am Ende beim Abendbrottisch landen. Unter einer Lampe sitzen Mutter, Vater und der erwachsene Sohn bei Brot, Butter und Tee, jeder blickt woandershin. Durch das linke Fenster leuchtet die sanierte Fachwerkaltstadt mit dem Dom, Kowalczuks Halberstadt, das heute aussieht wie ein Puppendorf. Durch das rechte steht das verschlossene Fabriktor mit dem kalten Schornstein, Oschmanns Osten. Ein erster Versuch zeigte den Sohn in einer Jacke, die wie eine Uniform wirkte, und zu realistische Gesichter; der zweite ist stiller.
 
 *Prompt:* Wide panoramic painting in the manner of Edward Hopper: quiet oil painting with simplified, smoothed forms and anonymous faces seen in soft shadow or from the side, flat planes of late evening light, long shadows, muted greens, ochre and deep blue, still and melancholic. Inside a plain kitchen at dusk, a long wooden table with bread, butter and a teapot under a single warm lamp; an older woman, an older man and their adult son in a grey hooded sweatshirt sit at the table, each looking in a different direction, no one speaking. Through a wide window on the left: a carefully restored half-timbered old town with a cathedral glowing in the last sun. Through a second window on the right: a closed factory with a rusting gate and a tall cold chimney, and beyond it the empty platform of a small train station where a young woman with a suitcase waits alone, small in the distance. No uniforms. No text, no letters, no numbers, no signs, no signature, no monogram, no initials anywhere.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joan Didion** — ein Versuch in dieser Tonlage. Geliehen: kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen.
+*Beim Schreiben still gewählt am 10.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Oschmann und Kowalczuk, die Erzählstimme ist unsere.
 
 </details>
 

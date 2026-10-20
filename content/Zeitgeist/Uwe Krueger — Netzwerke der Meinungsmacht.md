@@ -16,6 +16,13 @@ aliases:
   - Krüger Jung und Naiv
   - Krüger Atlantik-Brücke
   - Jung & Naiv 338
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-16
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Uwe Krüger — Netzwerke der Meinungsmacht
@@ -27,6 +34,15 @@ aliases:
 **René Magritte** — eine lange Tafel auf einer Terrasse vor Wolkenhimmel, an ihr Menschen in dunklen Anzügen, ruhig im Gespräch. Mitten in der Reihe fehlt einer: Er ist als Umriss aus dem Bild geschnitten, und durch die Lücke sieht man nur den Himmel. Unter dem Tisch laufen lose Fäden zwischen den Stühlen, wenige straff, die meisten schlaff. Magritte, weil er die Abwesenheit malen konnte, als wäre sie ein Gegenstand, und das ist Krügers Lieblingsbeispiel: das Foto von einem Treffen der Atlantik-Brücke, aus dem der Bild-Chef herausgeschnitten war. Die Fäden sind Granovetters schwache Bindungen. Die Schwester-Note trägt Escher, die Vita Feininger.
 
 *Prompt:* Wide 1200x500 panoramic banner painted in the manner of René Magritte — smooth, precise, matte oil painting, clear daylight, calm surreal stillness, muted blues, warm stone, pale sky. A long polished conference table on a terrace in front of a soft blue sky with drifting white clouds. Around it stand and sit a row of men and women in dark formal suits, seen in calm profile, all turned toward each other in quiet conversation. Exactly one figure in the middle of the row is a precise cut-out silhouette — a hole shaped like a man in a suit, through which only the clouds and blue sky behind are visible, as if he had been neatly cut out of the picture with scissors. Beneath the table, fine pale threads run loosely between the chairs and the people, some taut, most slack. Enigmatic, quiet, slightly ironic mood. No text, no letters, no logos, no flags, no name cards, no symbols, no recognizable real people.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 16.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Uwe Krüger, die Erzählstimme ist unsere.
 
 </details>
 

@@ -223,6 +223,9 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wi
 
 Ein Gedanke von Luc über Prophezeiungen als Selbstporträts: Ono ist das Beispiel eines Menschen, dessen erste Vorhersage über die KI („devastated“) von der eigenen Erfahrung überholt wurde.
 
+### → [[Denker/Sibylle Anderl — Bequeme neue Welt#Warum noch Klavier üben?|Sibylle Anderl — Bequeme neue Welt]]
+Dieselbe Frage am Klavier: Warum selbst spielen, wenn die Maschine besser spielt? Anderl antwortet wie Ono mit dem Wert des Tuns, hält aber Abstand von dem geduldigen Gesprächspartner, den Ono begrüßt, weil sie seinen Sog spürt.
+
 ---
 
 ## Weiterdenken

@@ -17,6 +17,19 @@ tags:
 aliases:
   - Buyx Gesellschaft
   - NEU DENKEN Gesellschaft
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-05
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
+  - wer: "Martha Gellhorn"
+    art: register
+    umfang: "die Passagen über Zuversicht"
+    am: 2026-09-05
+    geliehen: "das Geschehen vom einzelnen Menschen her erzählt"
+    quelle: rekonstruiert
 ---
 
 # Alena Buyx — Gesellschaft NEU DENKEN
@@ -28,6 +41,18 @@ aliases:
 **Hilma af Klint** — organisch-diagrammatischer Symbolismus, matte Tempera auf Elfenbein, warmes Ocker, Altrosa, Blassgold und tiefes Petrol, dünne präzise Linien. Af Klint hat ihr Leben lang unsichtbare Verbindungskräfte als fließende Diagramme gemalt — genau das Register für eine Ärztin, die Gesellschaft über den Körper erklärt. Dazu kommt Buyx' eigenes Bild: Geschichte als *„elliptische Spirale, die sich langsam mühevoll nach oben schwingt"*. Diese Spirale trägt hier den Atem, und sie geht mitten durch die ummauerte Enklave hindurch, als wäre die Mauer nicht da — die Leute drinnen stehen auf derselben Strömung wie die draußen. *„Kannst aber keine eigene Luftversorgung haben."*
 
 *Prompt:* In the style of Hilma af Klint — organic-diagrammatic symbolist painting, soft matte tempera texture, warm ochre, dusty rose, pale gold and deep teal on an ivory ground, thin precise linework, spiritual geometry. A wide 1200x500 banner. One continuous elliptical spiral of breath, rendered as a translucent ribbon of pale blue and gold air, sweeps across the full width and slowly ascends. In the middle of the banner stands a small enclosed compound — a low walled dome on a tiny island, sealed, with its own pipes and reservoir. The great spiral of air passes straight through and over the dome as if the wall were not there, unbroken. Along the whole length of the ribbon, many small simplified human figures without faces are held, on both sides of the wall, all touching the same current. Faint concentric circles and botanical membrane forms in the background, like a diagram of a living body. No photorealism, no realistic faces, no text.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 05.09.2026 (nachträglich festgehalten).*
+
+Die Passagen über Zuversicht: **Angelehnt an Martha Gellhorn** — ein Versuch in dieser Tonlage. Geliehen: das Geschehen vom einzelnen Menschen her erzählt.
+*Beim Schreiben still gewählt am 05.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Alena Buyx, die Erzählstimme ist unsere.
 
 </details>
 

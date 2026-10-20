@@ -19,6 +19,13 @@ aliases:
   - Minderheitenschutz für Kinder
   - Zukunftsrat
   - Utopie-Konferenz 2026 Kinder
+stimme:
+  - wer: "Sebastian Haffner mit Kurt Tucholsky"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-04
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit; der Wechsel von kurzem und langem Satz, Biss ohne Zeigefinger"
+    quelle: rekonstruiert
 ---
 
 # Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?
@@ -32,6 +39,15 @@ aliases:
 **Warum:** Rockwells berühmtestes Bild zeigt einen Arbeiter, der in einer Bürgerversammlung aufsteht und spricht, während die Honoratioren zu ihm aufsehen. Hier ist es umgekehrt: In einem Saal voller grauer Köpfe steht ein Mädchen auf der Bank und liest von einem Zettel, und die Alten hören zu, einer nimmt die Brille ab, eine hört auf zu stricken. Genau das ist der Zukunftsrat: Er entscheidet nichts, aber er wird gehört.
 
 **Prompt:** Norman Rockwell oil painting, 1200x500 wide banner, warm illustrative realism in the manner of his Freedom of Speech, but reversed: a crowded wooden town hall meeting room full of grey-haired elderly men and women in coats sitting on rows of benches, all turned toward one figure. In the middle of the room a girl of about eleven in a plain sweater stands up on her bench, holding a folded sheet of paper, speaking calmly and clearly. The adults listen: some lean forward, one old man takes off his glasses, a woman in the front row has stopped knitting. Soft afternoon light from tall windows, muted browns, warm ochres, faded blues. Stylized painterly faces seen mostly from behind and in profile, no text on the paper, no flags, no signature, no monogram, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner mit Kurt Tucholsky** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit; der Wechsel von kurzem und langem Satz, Biss ohne Zeigefinger.
+*Beim Schreiben still gewählt am 04.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Henrike von Scheliha und Aladin El-Mafaalani, die Erzählstimme ist unsere.
 
 </details>
 

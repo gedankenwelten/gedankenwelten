@@ -15,6 +15,13 @@ tags:
   - widerstand
 aliases:
   - Wagner Buchenwald
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-20
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Jens-Christian Wagner — Buchenwald und deutsche Erinnerung
@@ -26,6 +33,15 @@ aliases:
 **Käthe Kollwitz (Kohle, Trauer und Würde)** — Eine kleine Gruppe von Menschen in schweren Mänteln vor dem offenen Lagertor auf dem kahlen Hügel, dahinter nur Fundamente und Nebel; ein Kind blickt zum Betrachter zurück. Kollwitz' Kohlestrich trägt Wagners doppelte Geste: die Grenzen der Empathie anerkennen — und trotzdem hinsehen. Das offene Tor ist der forensische Blick: nichts nachgebaut, alles bewahrt.
 
 *Prompt:* Käthe Kollwitz style charcoal drawing, wide 1200x500 banner. On a bare hilltop a long wrought-iron camp gate stands open, beyond it only empty foundations and stunted beech trees in fog; in the foreground, seen from behind, a small group of mourning figures with bowed heads, huddled in heavy coats, one child looking back at the viewer. Deep expressive charcoal strokes, black and grey tones, raw paper texture, immense quiet grief and dignity. No text, no symbols, faces only vaguely suggested.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 20.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jens-Christian Wagner, die Erzählstimme ist unsere.
 
 </details>
 

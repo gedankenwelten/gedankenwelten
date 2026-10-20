@@ -15,6 +15,19 @@ tags:
 aliases:
   - Thiele Rechtspopulismus
   - Das demokratische Grundversprechen
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-16
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
+  - wer: "Hannah Arendt"
+    art: stimme
+    umfang: "die Schlussbewegungen"
+    am: 2026-08-16
+    geliehen: "die Genauigkeit im Begriff, das Urteil, das sich nicht duckt"
+    quelle: rekonstruiert
 ---
 
 # Rechtspopulismus und der demokratische Verfassungsstaat
@@ -26,6 +39,18 @@ aliases:
 **Amerikanischer Sozialrealismus (WPA-Plakatkunst der 1940er)** — Eine Schlange von Menschen zieht zur Wahlurne; die vorderen sind ausgemalt, die hinteren nur halb gezeichnete Bleistiftumrisse. Thieles Grundversprechen wurde nie eingelöst; es wurde Schritt für Schritt ausgeweitet — die Unfertigen im Rücken sind die, die noch nicht dazugehören. Zwischen der Schlange und der Urne läuft ein Riss durch den Boden, der von innen aufbricht.
 
 *Prompt:* American social-realist painting in the manner of 1940s WPA poster art, 1200x500 wide banner. A long queue of gaunt, plainly drawn figures — women, men, an old worker, a young woman — filing slowly toward a simple wooden ballot box on the right; the line stretches back past the left edge, and the figures nearest the box are painted fully while those furthest back are only half drawn, unfinished pencil outlines. Beneath them a pale ground with one fine dark hairline fracture running the whole width, splitting open from inside the ground itself. Brittle brush-drawn contour line, flat washes of ochre, slate blue, rust red and bone white, sparse composition with generous empty space. No photorealism, no recognisable faces, no lettering, no text, no signature, no artist signature, no watermark, clean unmarked lower corners.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 16.08.2026 (nachträglich festgehalten).*
+
+Die Schlussbewegungen: **Angelehnt an Hannah Arendt** — ein Versuch in dieser Tonlage. Geliehen: die Genauigkeit im Begriff, das Urteil, das sich nicht duckt.
+*Erzählstimme gewählt am 16.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

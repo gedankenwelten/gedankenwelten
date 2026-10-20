@@ -150,6 +150,8 @@ Ich habe das schon einmal aufgeschrieben, ohne es so zu nennen. Über einen alte
 - [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel und Iltisberger — Hype Is a System]] — wie Zukünfte in der Technik gemacht werden: Der Hype ist selbst eine Prophezeiung, die an ihrer Erfüllung arbeitet
 - [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft]] — der andere Gedanke über die Flugbahn: was wir heute werfen, fällt später, verwandelt
 
+- [[Denker/Sibylle Anderl — Bequeme neue Welt#Warum noch Klavier üben?|Sibylle Anderl — Bequeme neue Welt]] — die Sorge des Freundes als Buch: Wer sich die Mühe abnehmen lässt, gibt Fähigkeiten ab. Anderl schreibt jeden Text selbst, und die Nachbesprechung dort fragt, was der lernt, der nur noch auswählt.
+
 ---
 
 ## Weiterdenken

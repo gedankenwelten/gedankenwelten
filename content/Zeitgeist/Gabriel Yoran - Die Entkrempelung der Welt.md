@@ -13,6 +13,13 @@ tags:
 aliases:
   - Entkrempelung
   - Verkrempelung
+stimme:
+  - wer: "Kurt Tucholsky"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-03
+    geliehen: "der Wechsel von kurzem und langem Satz, Biss ohne Zeigefinger"
+    quelle: rekonstruiert
 ---
 
 # Gabriel Yoran — Die Entkrempelung der Welt
@@ -24,6 +31,15 @@ aliases:
 **Saul Steinberg** — dünne, präzise Tuschlinie auf cremefarbenem Papier, sparsame Aquarell-Akzente, trockener Witz. Die Note ist Stand-up mit ernstem Boden; nur Steinbergs Linie kann einen Seifenspender mit Empfangsbalken zeichnen, ohne ihn zu erklären — die Krempel-Parade führt ihre Absurdität selbst vor, deadpan wie der Talk.
 
 *Prompt:* A wide satirical ink drawing in the style of Saul Steinberg, 1200x500 banner. On warm cream paper, a solemn parade of absurd household appliances drawn in thin, elegant black ink line with sparse watercolor accents: a kitchen stove covered in tiny airplane-cockpit touch controls and gauges, a soap dispenser proudly displaying phone signal bars and a battery icon, a shower hose tied in an elaborate decorative knot wearing a large price tag, a washing machine with a gramophone horn emitting ornate musical notes, an oven with a single huge camera eye photographing a tiny roast chicken. Between the machines, a few small proud businessmen figures in suits present them with theatrical gestures, drawn as simple line doodles. Above the parade, faint pencil scribbles suggest meaningless diagrams and award ribbons. Flat composition, generous white space, dry deadpan humor, no realistic faces, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Kurt Tucholsky** — ein Versuch in dieser Tonlage. Geliehen: der Wechsel von kurzem und langem Satz, Biss ohne Zeigefinger.
+*Beim Schreiben still gewählt am 03.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Gabriel Yoran, die Erzählstimme ist unsere.
 
 </details>
 
@@ -249,6 +265,9 @@ Die „Erlaubnis zu täuschen" aus Moss' Recherche, Marshmallow-Geschmack ohne M
 ### → [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
 
 Dieselbe Kritik am „das wollen die Kunden“: bei Welzer als Polemik („kein SUV ist kein Verzicht“), bei Yoran als demokratische Bedürfnisdebatte.
+
+### → [[Denker/Sibylle Anderl — Bequeme neue Welt#Der Schubs und die Ölfirma|Sibylle Anderl — Bequeme neue Welt]]
+Wie Yoran kritisiert Anderl, dass der CO₂-Fußabdruck strukturelle Probleme auf den Einzelnen schiebt, und doch empfiehlt sie am Ende den Buchkauf um die Ecke. Gegen Yoran steht ihr Grundverdacht: Für sie ist die Bequemlichkeit selbst der Preis, für ihn nur die schlechte Technik, und die gute darf verschwinden.
 
 ---
 

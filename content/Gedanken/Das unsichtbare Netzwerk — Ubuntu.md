@@ -14,6 +14,13 @@ tags:
 aliases:
   - Netzwerk Ubuntu
   - Ubuntu
+stimme:
+  - wer: "Luc"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-07-02
+    geliehen: "Atem statt Absatz, die Du-Anrede, die stille Landung"
+    quelle: rekonstruiert
 ---
 
 # Das unsichtbare Netzwerk — Ubuntu
@@ -25,6 +32,15 @@ aliases:
 **Utagawa Hiroshige — Ukiyo-e-Nokturne** — tiefes Indigo mit Bokashi-Verlauf, Sternenhimmel, ein Wanderer mit Stab auf hellem Pfad. Über die dunkle Ebene verstreut liegen Häuser, alle dunkel bis auf eines: ein warmes Fenster, das einzige warme Licht im Bild. Kaum sichtbare goldene Fäden verbinden auch die dunklen Häuser — sie laufen bis durch das Gras im Vordergrund. Hiroshige, weil bei ihm ein einzelnes erleuchtetes Fenster in der Nacht mehr Hoffnung trägt als jeder Sonnenaufgang: „Da ist noch jemand wach."
 
 *Prompt:* Utagawa Hiroshige style ukiyo-e woodblock print, Japanese nocturne, visible woodgrain texture and flat color planes with bokashi gradient sky, 1200x500px wide banner. A vast night landscape in deep indigo and Prussian blue under a sky full of small pale stars. Across the dark rolling plain, a winding pale footpath. On the path, left of center, a single small traveler seen from behind, simplified figure with a walking staff, one hand resting in a coat pocket. Scattered far across the plain: five or six tiny houses with steep roofs, all dark — except one distant house on the right whose single window glows warm amber, casting a small pool of golden light. Barely visible thin golden threads arc low over the fields, connecting the dark houses to one another like strands of a loose net, so faint they could be mist. A few tall grasses in the foreground, black silhouettes. Deep calm, no drama, the warmth of the one window is the only warm color in the image. Flat ukiyo-e perspective, no realistic faces. No photorealism. No text.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**In Lucs Tonlage** — der Haussprache dieses Ortes, nachempfunden an seinen eigenen Texten. Geliehen: Atem statt Absatz, die Du-Anrede, die stille Landung.
+*Erzählstimme gewählt am 02.07.2026 (nachträglich festgehalten).*
+
+Die Gedanken sind Lucs. Geschrieben hat sie eine KI, so nah an seiner Stimme, wie sie kommt.
 
 </details>
 

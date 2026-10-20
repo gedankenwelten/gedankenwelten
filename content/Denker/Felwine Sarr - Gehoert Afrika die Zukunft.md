@@ -15,6 +15,13 @@ tags:
   - year-2021
 aliases:
   - Sarr Afrotopia Sternstunde
+stimme:
+  - wer: "George Orwell mit Ryszard Kapuściński"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-02
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel; das Große über das Kleine erklären, das Wissen in einer Szene geerdet"
+    quelle: rekonstruiert
 ---
 
 # Felwine Sarr — Gehört Afrika die Zukunft?
@@ -26,6 +33,15 @@ aliases:
 **Papa Ibra Tall / École de Dakar** — senegalesischer Bildteppich: fließende arabeske Linien, flache strahlende Farbfelder, gewebte Textur. Die Schule, die unter Senghor der künstlerische Arm eines afrikanischen Zukunftsentwurfs war — eine Utopie aus eigenen Quellen verdient Kunst aus eigenen Quellen. Die Bildlogik ist Sarrs Restitutions-Argument: Ahnenmasken, Weber und Zukunftsstadt bestehen aus demselben Faden.
 
 *Prompt:* Wide banner, 1200x500. Senegalese modernist tapestry in the style of Papa Ibra Tall and the École de Dakar: flowing sinuous contour lines, flat radiant color fields, woven-textile texture, no realistic faces, no photorealism. Deep indigo night ground on the left dissolving into a warm golden dawn on the right. LEFT: stylized ancestral figures and carved masks rendered in ochre and burnt sienna, their outlines unraveling into long flowing threads. CENTER: a tall silhouetted figure in profile, drawn in one continuous elegant line, catching these threads with open hands and weaving them forward. RIGHT: the threads rise and curve into a radiant concentric sun above a growing city of rounded rooftops, baobab crowns, railway arcs and small sailing pirogues on a river delta — the city drawn from the same thread as the ancestors. Palette: indigo, ochre, burnt sienna, coral red, luminous gold. Rhythmic, musical composition, generous negative space, hand-woven warmth.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell mit Ryszard Kapuściński** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel; das Große über das Kleine erklären, das Wissen in einer Szene geerdet.
+*Beim Schreiben still gewählt am 02.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Felwine Sarr, die Erzählstimme ist unsere.
 
 </details>
 

@@ -17,6 +17,13 @@ tags:
 aliases:
   - Geld ist genug da
   - Utopie-Konferenz 2026 Geld
+stimme:
+  - wer: "Kurt Tucholsky mit George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-13
+    geliehen: "der Wechsel von kurzem und langem Satz, Biss ohne Zeigefinger; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?
@@ -30,6 +37,15 @@ aliases:
 **Warum:** Daumier hat die Bankiers, Advokaten und Abgeordneten der Julimonarchie gezeichnet — die Leute, die in Hinterzimmern Zahlen zur Natur erklären. Das Hauptbuch wird zur Landschaft, die Abstimmung einer kleinen Runde zur Mauer, und die Straße des liberianischen Finanzministers endet davor. Spott ohne Häme, wie Tucholsky über die Nationalökonomie.
 
 **Prompt:** Honoré Daumier satirical lithograph, crayon on stone with grainy black-and-grey tones and a few muted ochre washes, 1200x500 wide banner. A vast open ledger lies like a landscape across the whole picture; on it, a crowd of tiny bureaucrats in frock coats huddles around a small table and raises their hands in a vote, one of them pointing at a minuscule footnote at the page's edge. From the footnote a stone wall grows upward across the ledger, and in front of the wall a half-built dirt road with a lone road worker holding a shovel comes to an abrupt stop. Scattered banknotes drift like dry leaves. Caricatured bodies, expressive hunched postures, no realistic faces, no legible text, no signature, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Kurt Tucholsky mit George Orwell** — ein Versuch in dieser Tonlage. Geliehen: der Wechsel von kurzem und langem Satz, Biss ohne Zeigefinger; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 13.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Sigl-Glöckner & Kaczmarczyk, die Erzählstimme ist unsere.
 
 </details>
 

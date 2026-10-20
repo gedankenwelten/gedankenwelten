@@ -15,6 +15,13 @@ tags:
 aliases:
   - Baberowski Jung und Naiv
   - Baberowski Herrschaft
+stimme:
+  - wer: "Rainer Maria Rilke"
+    art: stimme
+    umfang: "die Passage über Sinn und Tod"
+    am: 2026-06-22
+    geliehen: "der Ernst, das ins Innere gewendete Bild"
+    quelle: rekonstruiert
 ---
 
 # Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie
@@ -26,6 +33,15 @@ aliases:
 **Anselm Kiefer** — verbrannte Erde, Blei und Asche, das Gewicht totalitärer Geschichte. Im Zentrum ein gesichtsloser Koloss auf seinem Sockel (der Machtstaat als Symbol), aus dessen schwarzem Tor ein Geflecht aus Drähten und Bruchlinien über die rissige Ebene wuchert — die „Räume der Gewalt". Kiefer ist Baberowskis Territorium: sein Hauptwerk heißt *Verbrannte Erde*. Monumental und melancholisch, nicht agitatorisch.
 
 *Prompt:* Wide desolate banner, 1200x500. A scorched, cracked earthen plain stretching to a low horizon under a heavy leaden sky — palette of ash, burnt umber, lead-grey, charred black, with a single thin band of cold pale light at the horizon. In the center rises a monumental dark monolith: the faceless silhouette of a colossal statue on a plinth, a power-state idol, its surface like corroded iron and dried mud. Fine spidery black lines radiate from a small black rectangular void near its base across the broken ground, like a web of wires and fault-lines. Scattered straw and flecks of gold leaf caught in the foreground furrows. Thick impasto texture, layered ash and lead, matte and encrusted. Faint hand-scratched word fragments pressed into the lower sky. Monumental, melancholic, the weight of buried history. In the style of Anselm Kiefer — scorched-earth materiality, no photorealism, no faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+Die Passage über Sinn und Tod: **Angelehnt an Rainer Maria Rilke** — ein Versuch in dieser Tonlage. Geliehen: der Ernst, das ins Innere gewendete Bild.
+*Erzählstimme gewählt am 22.06.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jörg Baberowski, die Erzählstimme ist unsere.
 
 </details>
 

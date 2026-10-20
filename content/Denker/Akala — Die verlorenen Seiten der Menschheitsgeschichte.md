@@ -12,6 +12,13 @@ tags:
   - widerstand
 aliases:
   - Akala Oxford Union
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-18
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Akala — Die verlorenen Seiten der Menschheitsgeschichte
@@ -23,6 +30,15 @@ aliases:
 **Jacob Lawrence** — flache, harte Formen der Migration Series, Tempera-Textur, Ocker/Teal/Braunrot. Ein schwarzer Modernist, der schwarze Geschichte in Tafeln erzählte — genau die Hand für einen Vortrag über die herausgerissenen Seiten des Menschheitsbuchs: die Seiten werden zu Meroë, Great Zimbabwe und Lalibela, während links eine Hand die goldene Ikone weiß übermalt und rechts Fackelträger aus dem Buchrücken steigen.
 
 *Prompt:* Flat modernist narrative painting in the style of Jacob Lawrence's Migration Series: a giant open book at the center with several pages torn out, the missing pages floating upward and transforming into African monuments — steep Meroë pyramids, the round granite tower of Great Zimbabwe, a rock-hewn Ethiopian church. At the left, a dark hand paints over a small golden icon with white paint; at the right, small silhouetted figures with raised torches climb out of the book's spine. Bold flat shapes, hard edges, tempera texture, palette of ochre, deep brown, teal, muted red and black. No realistic faces, no photorealism, wide banner composition
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 18.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Akala, die Erzählstimme ist unsere.
 
 </details>
 

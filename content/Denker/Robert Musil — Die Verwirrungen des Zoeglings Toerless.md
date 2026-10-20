@@ -12,6 +12,13 @@ tags:
 aliases:
   - Törleß
   - Zögling Törleß
+stimme:
+  - wer: "Joseph Roth"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-18
+    geliehen: "aus einem kleinen Detail eine ganze Welt ziehen"
+    quelle: rekonstruiert
 ---
 
 # Robert Musil — Die Verwirrungen des Zöglings Törleß
@@ -23,6 +30,15 @@ aliases:
 **Egon Schiele — österreichischer Expressionismus (1910er)** — Die rote Kammer ohne Menschen: Drei Kadetten-Uniformen stehen als hohle Hüllen im Schatten, eine vierte liegt zerknüllt am Boden, wo die kleine Laterne sie erreicht. Dazwischen: leere Dielen, eine aufgeladene Distanz. Schiele, weil er zur selben Zeit im selben Österreich die Adoleszenz mit nervöser Linie gemalt hat — und weil die leeren Uniformen genau Musils Befund sind: Die Institution sieht Hüllen, keine Menschen.
 
 *Prompt:* Egon Schiele expressionist painting style, 1910s Austrian expressionism, gouache and black crayon aesthetic, wide 1200x500 banner. A dim attic chamber under steep sloping wooden beams, walls draped in blood-red cloth, lit by one small oil lantern on the floor. No people: four empty austro-hungarian cadet uniforms as hollow shells — three standing stiffly upright in a cluster in the shadows as if worn by invisible bodies, one uniform lying crumpled flat on the bare floorboards near the lantern light. Between the standing group and the crumpled one: wide empty floorboards, a charged distance. Nervous expressive contour lines, muted ochre, sickly green, chalk white, deep blood red drapery, raw scratchy texture, empty background. Melancholic and unsettling. No photorealism, no faces, no text.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joseph Roth** — ein Versuch in dieser Tonlage. Geliehen: aus einem kleinen Detail eine ganze Welt ziehen.
+*Beim Schreiben still gewählt am 18.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Robert Musil, die Erzählstimme ist unsere.
 
 </details>
 

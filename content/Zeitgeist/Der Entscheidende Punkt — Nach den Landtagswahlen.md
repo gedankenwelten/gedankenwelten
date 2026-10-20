@@ -18,6 +18,13 @@ tags:
 aliases:
   - Entscheidender Punkt Landtagswahlen
   - Entscheidender Punkt Hensel Kormbaki
+stimme:
+  - wer: "Egon Erwin Kisch mit George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-27
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Der Entscheidende Punkt — Nach den Landtagswahlen
@@ -29,6 +36,15 @@ aliases:
 **Wolfgang Mattheuer**: eine lange, gerade Landstraße durch flaches mecklenburgisches Feld. Weit oben am Horizont schwebt eine kleine helle Figur an einem Bündel bunter Luftballons. Auf der Straße stehen drei gewöhnliche Leute mit dem Rücken zum Betrachter und schauen hinauf: ein älterer Mann in Arbeitsjacke, eine Frau mit Einkaufstasche, ein Junge mit Fahrrad. Daneben ein leeres Wartehäuschen, ein Haus mit geschlossenen Läden, eine leere Bank. Mattheuer, der Leipziger Maler, hat mit *Hinter den sieben Bergen* (1973) genau dieses Bild gemalt: das ferne, leuchtende Versprechen über einer grauen Straße. Das passt zu einem Abend, an dem das Wort „Zukunft“ auf einem Schweriner Marktplatz Jubel auslöst und in Berlin verzagt klingt, und an dem niemand weiß, ob das Versprechen näher kommt oder davonfliegt.
 
 *Prompt:* Wide 1200x500 panoramic painting in the manner of Wolfgang Mattheuer, the Leipzig school painter of 'Hinter den sieben Bergen': smooth, clear, slightly surreal East German landscape painting, muted greens, ochres and grey-blue with a few vivid accents, calm and uncanny. A long straight empty country road runs through flat Mecklenburg fields toward the far horizon under a wide pale sky. Far away above the horizon floats a small bright figure holding a bunch of colorful balloons, glowing like a promise. In the middle distance three ordinary people — an older man in a work jacket, a woman with a shopping bag, a boy with a bicycle — stand on the road with their backs to the viewer, looking up toward the glowing figure. At the right side of the road an empty bus shelter and a plain village house with closed shutters, blank white wall without any sign board, a single empty wooden bench. Stillness, longing, doubt; the promise is far and bright, the village near and grey. Painterly, not photorealistic. The bottom edge and all four corners are plain grass, asphalt and sky with nothing drawn on them. No signature, no artist monogram, no initials, no scribbles, no text anywhere, no letters, no sign boards, no house names, no flags, no party logos, no symbols.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch mit George Orwell** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 27.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Der Entscheidende Punkt, die Erzählstimme ist unsere.
 
 </details>
 

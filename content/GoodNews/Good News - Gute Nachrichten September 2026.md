@@ -13,6 +13,13 @@ tags:
   - year-2026
 aliases:
   - Good News September 2026
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-22
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Good News — Gute Nachrichten September 2026
@@ -24,6 +31,15 @@ aliases:
 **Paul Klee (Hauptweg und Nebenwege, 1929)** — Klee malte nach seiner Ägyptenreise Felder als Streifen und Quadrate, die sich über die Bildbreite langsam wandeln. Diese Ausgabe erzählt dasselbe: Die Strohschachbretter der Großen Grünen Mauer werden über Jahrzehnte zu grünen Feldern, und an der Küste wachsen die Mangroven zurück. Die eine dünne Linie, die geduldig über alles hinweg steigt, ist die lange Kurve, das gemeinsame Maß dieser Meldungen. Klee ist hier nicht Hausreflex. Er hat das Bild dafür schon gemalt.
 
 *Prompt:* Painting in the style of Paul Klee's Highways and Byways (Hauptweg und Nebenwege, 1929), wide horizontal banner, thin transparent watercolor washes in horizontal bands and small rectangles like terraced fields. From left to right the bands change slowly: at the left pale sand and ochre squares divided by fine straw-colored grid lines like a checkerboard of straw in desert dunes, gradually turning into soft sage and green rectangles with tiny tree signs, then at the right edge deep blue-green water bands with little arched mangrove roots and a few small fish signs. A single thin dark line rises gently and patiently across the whole width like a slowly climbing curve. A small warm sun disc high on the right. Earthy palette of ochre, sand, sage, moss green, turquoise and blue, delicate, quiet, hopeful. No text, no letters, no numbers, no signature.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 22.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Good News, die Erzählstimme ist unsere.
 
 </details>
 

@@ -15,6 +15,13 @@ tags:
 aliases:
   - Zahlen Memes Emojis
   - "271k"
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-19
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten
@@ -28,6 +35,15 @@ aliases:
 **Warum:** Magrittes Deadpan für den Kern der Note: Eine harmlos wirkende Sprechblase mit drei Ziffern wirft einen unmöglich großen Schatten, in dem die Namenskarten des Archivs stehen — das wahre Detail im falschen Rahmen, und der Mann mit der Lupe schaut genau hin.
 
 **Prompt:** René Magritte oil painting, deadpan surrealism: a calm blue sky with white clouds over a flat green horizon; floating in the sky a huge innocent-looking white speech bubble containing only the painted characters '271k'; the speech bubble casts an impossibly large black shadow on the ground below, and inside the shadow stand hundreds of tiny paper index cards with faint names, receding to the horizon like an archive; to the right a single bowler-hat man seen from behind holds a magnifying glass up to the bubble. Muted Magritte palette, crisp edges, no realistic faces, no photorealism, 1200x500 wide banner.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 19.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Arolsen Archives, die Erzählstimme ist unsere.
 
 </details>
 

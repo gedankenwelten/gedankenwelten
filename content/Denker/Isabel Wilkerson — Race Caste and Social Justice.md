@@ -12,6 +12,13 @@ tags:
   - geschichte
 aliases:
   - Wilkerson Ambedkar Lecture
+stimme:
+  - wer: "Joan Didion"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-18
+    geliehen: "kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen"
+    quelle: rekonstruiert
 ---
 
 # Isabel Wilkerson — Race, Caste and Social Justice
@@ -23,6 +30,15 @@ aliases:
 **Ben Shahn** (geraten in eine feine Graphic-Novel-Strichführung) — der Querschnitt durch das alte Haus ist Wilkersons eigenes Bild: links die intakte Fassade mit Blümchentapete (die Rasse als Anstrich), rechts das freigelegte Balkenwerk (die Kaste als Knochen), dazwischen die Leiter, auf der jeder seine Sprosse kennt — und im gefluteten Keller stehen die, über die das Haus gebaut wurde.
 
 *Prompt:* Social realist illustration in the style of Ben Shahn: a wide cross-section of an old wooden house — the left half shows an elegant facade with floral wallpaper and fresh paint, the right half is peeled away revealing dark structural beams and joists that form a tall ladder, small ink-drawn figures standing on different rungs, each frozen in place, one figure stepping off a rung causing the others to turn. Below the house a shadowy basement with water. Delicate scratchy ink lines over flat muted color fields of dusty rose, ochre, slate blue and charcoal. No realistic faces, no photorealism, wide banner
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joan Didion** — ein Versuch in dieser Tonlage. Geliehen: kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen.
+*Beim Schreiben still gewählt am 18.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Isabel Wilkerson, die Erzählstimme ist unsere.
 
 </details>
 

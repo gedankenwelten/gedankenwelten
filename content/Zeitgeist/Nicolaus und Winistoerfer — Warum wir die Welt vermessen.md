@@ -15,6 +15,13 @@ aliases:
   - Hexagon re:publica 26
   - Vom Tropenwald bis Neukölln
   - rp26 — Vom Tropenwald bis Neukoelln
+stimme:
+  - wer: "Joan Didion"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-26
+    geliehen: "kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen"
+    quelle: rekonstruiert
 ---
 
 # Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen
@@ -28,6 +35,15 @@ aliases:
 Seurat, weil die Punktwolke des Laserscanners und der Pointillismus dieselbe Behauptung teilen: Ein Bild der Welt entsteht aus lauter einzelnen Messwerten und wird erst aus Abstand zur Sache. Die Bildfolge ist zugleich die Argumentkette des Vortrags — Eukalyptus-Plantage, echter Wald, Neukölln —, und der Witz liegt darin, dass man auf diesem Banner sofort sieht, was auf dem Satellitenbild unsichtbar blieb: dass die linke Hälfte anders gebaut ist als die Mitte.
 
 *Prompt:* Pointillism in the manner of Georges Seurat, 1200x500 wide banner. A landscape built entirely from countless separate dots of pure colour: on the left a stand of thin regular plantation trees in olive and yellow-green, on the right a dense wild forest canopy in deep emerald, and at the far right the dots reorganise into the flat roofs and blocks of a small city. The dots thin out toward the top so the sky is bare pale paper. Cool scientific palette — olive, emerald, slate blue, warm brick red for the roofs. Everything only coheres when seen from a distance. No text, no lettering, no people.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joan Didion** — ein Versuch in dieser Tonlage. Geliehen: kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen.
+*Beim Schreiben still gewählt am 26.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Madlen Nicolaus und Martin Winistörfer, die Erzählstimme ist unsere.
 
 </details>
 

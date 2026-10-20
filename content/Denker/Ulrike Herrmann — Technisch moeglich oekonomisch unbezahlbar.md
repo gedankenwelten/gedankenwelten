@@ -15,6 +15,13 @@ tags:
 aliases:
   - Herrmann Grünes Schrumpfen
   - Herrmann Standard-Interview 2026
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-08
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar
@@ -26,6 +33,15 @@ aliases:
 **Fernand Léger (Maschinen-Moderne)** — die Hand, die in den zwanziger Jahren Kolben, Zylinder und Zahnräder in leuchtenden Primärfarben malte, weil sie an die Maschine glaubte. Diese Hand, weil Herrmanns Definition genau dort ansetzt: Kapitalismus ist Industrialisierung, Industrialisierung ist der Einsatz von Maschinen, und ohne Energie sind Maschinen totes Kapital. Links steht deshalb die volle, satte, zuversichtliche Maschinenkathedrale — Légers eigenes Versprechen. Von ihr aus läuft das breite gelbe Energieband nach rechts und muss durch eine Reihe von Ringblenden, an jeder verliert es Breite, und was verlorengeht, kringelt sich als gelbe Bogen seitlich weg: die Umwandlungsverluste, Entsalzung, Elektrolyse, CO₂ aus der Luft, Synthese. Am rechten Rand ist nur noch ein Faden übrig, und er speist ein einzelnes kleines Windrad, viel zu klein für das, was links steht. Die linke Hälfte ist voll und warm, die rechte offen und kühl. Nichts daran ist dramatisch; es ist bloß nicht genug.
 
 *Prompt:* A wide 1200x500 banner in the style of Fernand Leger's machine-age modernism — bold black contour lines, flat unmodulated planes of primary red, cobalt blue, chrome yellow, warm grey and off-white, tubular and cylindrical industrial forms rendered as smooth volumes, mechanical optimism of the 1920s, no photorealism, no people, no faces. The composition reads left to right as a single continuous energy cascade. On the far left, a broad confident machine-cathedral of interlocking cylinders, pistons, cogwheels and pipework, generous and full, fed from above by a wide flat band of chrome yellow light entering the frame. This yellow band travels rightward and must pass through four successive circular valve-gates, each drawn as a bold ringed aperture narrower than the last. At each gate the band loses width, and small curved arcs of yellow spill away sideways and dissipate into the grey ground, drawn as clean flat shapes. After the fourth gate only a single thin yellow thread remains, and it runs on to the far right where it feeds one small solitary turbine wheel, elegant, precise and much too small for the machinery on the left. The left half is crowded, warm and confident; the right half is open, cool and nearly empty. Everything is graphic, calm, exact, and quietly disproportionate. No text, no numbers, no logos, no faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 08.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Ulrike Herrmann, die Erzählstimme ist unsere.
 
 </details>
 

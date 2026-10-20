@@ -14,6 +14,13 @@ tags:
 aliases:
   - Dystopie Maschinen-Ära
   - Die goldenen Türme
+stimme:
+  - wer: "Luc"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-06-30
+    geliehen: "Atem statt Absatz, Ein-Wort-Herzschläge, die stille Landung"
+    quelle: rekonstruiert
 ---
 
 # Die goldenen Türme — eine Dystopie der Maschinen-Ära
@@ -25,6 +32,15 @@ aliases:
 **Giorgio de Chirico — Pittura metafisica** — leere monumentale Architektur, lange Schatten, gesichtslose Schaufensterpuppen, entvölkerte Stille. Goldene, fensterlose Türme über einem leeren Platz; oben am Geländer eine gesichtslose Figur der Macht, unten die eingezäunte, anonyme Reihe, ein Auge im Turm, eine einsame Yacht, eine ummauerte Insel. De Chirico malt „Macht ohne Gesicht" wörtlich — die Gesichtslosigkeit ist seinem Stil nativ, kein Trick.
 
 *Prompt:* A wide horizontal metaphysical cityscape, 1200x500 banner, in the style of Giorgio de Chirico — empty monumental architecture, long raking shadows, eerie depopulated stillness, unnaturally deep perspective, a cold grey-green sky with a low pale sun. Across the banner rise tall sealed golden towers with blank windowless facades, casting long hard shadows over an empty stone piazza. On a high balcony stands a single faceless figure of power — a tailor's-mannequin head, no eyes, no features — gazing down. Far below, in the deep shadow along the bottom edge, a row of tiny identical faceless figures stands fenced off as a uniform anonymous mass. In the distance a single yacht on a flat sea and a walled private island. One great blank eye-like aperture is set into the central tower like surveillance. Palette of gold and cold shadow, oppressive scale, no human warmth. No text, no photorealism, no realistic faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**In Lucs Tonlage** — der Haussprache dieses Ortes, nachempfunden an seinen eigenen Texten. Geliehen: Atem statt Absatz, Ein-Wort-Herzschläge, die stille Landung.
+*Erzählstimme gewählt am 30.06.2026 (nachträglich festgehalten).*
+
+Die Gedanken sind Lucs. Geschrieben hat sie eine KI, so nah an seiner Stimme, wie sie kommt.
 
 </details>
 

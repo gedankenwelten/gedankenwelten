@@ -15,6 +15,13 @@ tags:
 aliases:
   - Wenn Arbeiter Chefs werden
   - Bergère de France
+stimme:
+  - wer: "Egon Erwin Kisch mit Joseph Roth"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-22
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; aus einem kleinen Detail eine ganze Welt ziehen"
+    quelle: rekonstruiert
 ---
 
 # ARTE Re — Wenn Arbeiter Chefs werden
@@ -26,6 +33,15 @@ aliases:
 **Fernand Léger (Les Constructeurs)** — Léger malte in seinen späten Jahren französische Arbeiter als Kollektiv: kräftige schwarze Konturen, flache Farbzonen, die über die Zeichnung rutschen, Menschen, die zusammen etwas tragen. Genau das ist diese Reportage. Vorne hebt eine Frau den Schlüssel zum Werkstor, das sie jetzt jeden Morgen um sieben selbst aufschließt, und ein einziger Wollfaden läuft von den Spinnmaschinen durch alle Figuren bis zum Tor. Optimismus ohne Kitsch, denn Léger malt Arbeit als Würde, nicht als Idylle.
 
 *Prompt:* Painting in the style of Fernand Léger's late worker paintings (Les Constructeurs), wide horizontal banner. Inside a spinning mill at dawn: a group of stylized workers, men and women in simple work clothes with bold black outlines and simplified rounded faces without detail, standing together shoulder to shoulder, one woman in front holding a large iron key raised toward an open factory gate. Around them tubular spinning machines, big bobbins and cones of wool thread in strong flat colors, long loose strands of yarn curving through the whole composition and linking the figures like one line. Flat unmodulated color zones in red, yellow, blue, orange and green slipping independently over the black contour drawing, white background planes, a pale morning sky through high factory windows. Optimistic, collective, monumental and warm. No text, no letters, no logos, no signature.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch mit Joseph Roth** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung; aus einem kleinen Detail eine ganze Welt ziehen.
+*Beim Schreiben still gewählt am 22.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von ARTE Re, die Erzählstimme ist unsere.
 
 </details>
 

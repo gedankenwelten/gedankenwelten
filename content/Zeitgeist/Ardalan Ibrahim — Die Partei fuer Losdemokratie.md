@@ -17,6 +17,13 @@ aliases:
   - Losdemokratie
   - Jung & Naiv 850
   - Ardalan Ibrahim Jung und Naiv
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-27
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Ardalan Ibrahim — Die Partei für Losdemokratie
@@ -28,6 +35,15 @@ aliases:
 **Honoré Daumier — Lithografie**: ein halbrunder Parlamentssaal, auf den dunklen oberen Bänken dösen, tuscheln und schielen die Notabeln in Gehrock und Zylinder. Unten auf dem hellen Boden steht ein schlichter Holztisch mit einer gläsernen Lostrommel, um sie herum Wäscherin, Arbeiter, Großmutter, Kinder, und ein junger Arbeiter hält ein einzelnes weißes Los ins Licht. Daumier, weil er mit *Le Ventre législatif* (1834) die Abgeordneten der Julimonarchie als satte Kaste gezeichnet hat, das Parlament als Aristokratie mit freundlichem Gesicht. Genau das ist Ibrahims These, und seine Antwort steht unten im Licht. Die Note malt Daumier, die Vita Gabriele Münter.
 
 *Prompt:* Wide 1200x500 panoramic lithograph in the manner of Honoré Daumier's political caricatures (Le Ventre législatif): black and grey crayon lithography on warm cream paper, strong expressive lines, soft tonal shading, gentle satire. A semicircular parliament hall: on the high dark tiers of benches, rows of well-fed notables in frock coats and top hats doze, whisper or peer down skeptically. In the bright foreground on the plain floor, a simple wooden table with a large round glass lottery drum full of small white paper tokens; ordinary citizens stand around it in a loose circle — a washerwoman with rolled-up sleeves, a young worker in a cap, an old woman in a shawl, a schoolboy, a woman carrying a child — and a young worker lifts a single white token into a beam of light. Dim crowded benches above, a lively light-filled circle of ordinary people below. Absolutely no signature anywhere, no handwriting, no artist name, no monogram, no initials, no scribble, no text, no letters, no caption, no stamp, no flags. The four corners and the whole bottom strip are clean, plain, empty cream paper. Not photorealistic.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 27.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Ardalan Ibrahim, die Erzählstimme ist unsere.
 
 </details>
 

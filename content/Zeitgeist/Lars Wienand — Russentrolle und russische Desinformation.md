@@ -19,6 +19,13 @@ aliases:
   - Wienand Russentrolle
   - Privet Russentrolle
   - Doppelgänger Storm-1516 Matrjoschka
+stimme:
+  - wer: "Egon Erwin Kisch"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-09
+    geliehen: "mit der Szene beginnen statt mit der These, der Beweis durch Anschauung"
+    quelle: rekonstruiert
 ---
 
 # Lars Wienand — Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation
@@ -30,6 +37,15 @@ aliases:
 **Remedios Varo** — In einem runden Turm sitzen maskierte Kopisten in Kutten an langen Pulten und schreiben Zeitungsseiten ab. Die Bahnen fliegen aus dem Fenster und werden zu einer Papierstadt mit Papiermenge. Ein Schreiber schnürt die Quittungen zum Paket für den roten Palast am Horizont, und unten in der Papierstadt untersucht ein kleiner Mann mit Lupe das Gewebe, in das er selbst eingewoben ist. Varos Werkstätten, in denen vermummte Gestalten die Welt sticken (*Bordando el manto terrestre*), treffen die Fälscherwerkstatt als Auftragsgeschäft genau: komisch und unheimlich zugleich, fleißig und doch ohne Publikum. Am Ende steht der Arbeitsnachweis, und der Reporter wird zur Figur im eigenen Stoff.
 
 *Prompt:* Surrealist painting in the manner of Remedios Varo, wide panoramic banner. Inside a tall round tower workshop, a row of slender hooded figures with pale almond-shaped masks sit at long wooden desks, copying newspaper pages with quill pens; the pages carry only blank grey columns, no letters. The copied sheets stream out of a high window like an embroidered cloth and become a little landscape of paper towns, paper domes and tiny paper crowds below, and some sheets drift into empty air where no one stands. At a separate desk a clerk stamps a tall pile of receipts and ties them into a parcel for a distant red-walled palace on the horizon. Woven into the flowing cloth, small among the paper streets, a tiny figure of a man with a magnifying glass examines the fabric that is depicting him. Muted ochre, umber, dusty rose, pale gold, fine meticulous brushwork, oil glazes on gessoed panel, soft mysterious light. No text, no letters, no logos, no photorealism, no realistic faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Egon Erwin Kisch** — ein Versuch in dieser Tonlage. Geliehen: mit der Szene beginnen statt mit der These, der Beweis durch Anschauung.
+*Beim Schreiben still gewählt am 09.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Lars Wienand, die Erzählstimme ist unsere.
 
 </details>
 

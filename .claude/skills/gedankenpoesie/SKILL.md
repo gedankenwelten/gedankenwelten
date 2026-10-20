@@ -70,6 +70,7 @@ zum Thema" (das führt zu Reflexen), sondern: dieser eine Ton, diese Temperatur 
 
 - **Luc = die warme Haussprache** (wie Klee beim Bild). Greif danach, wenn er die Note *wirklich* trägt —
   nicht als Default, in den man fällt.
+- **Nur Stimmen von Schreibenden, die nicht mehr leben** (seit 20.10.2026, wie bei den Bannern in `gedankenart`): Ihre Hand gehört ihnen, solange sie sie selbst nutzen. Luc ist die Ausnahme, er hat zugestimmt.
 - Die ganze Literaturgeschichte ist die Palette. Ein paar Hände als Anstoß, nicht als Auswahlliste:
 
 | Hand | Klingt nach |
@@ -130,6 +131,25 @@ Und drei Prinzipien, die aus dem Sog kommen — alle dienen dem Ziel ganz oben (
 
 ## Nach dem Veredeln (wenn die Note bleibt)
 
+- **Die Stimme festhalten (Pflicht, seit 20.10.2026).** Andreas: *„Wir wollen nichts darstellen, was nicht
+  ist."* Wer liest, soll nachvollziehen können, in wessen Tonlage die Note erzählt ist, und es konkret
+  kritisieren können. Darum ein Eintrag im Frontmatter, der nur wächst (umgestimmt → altes `bis:`):
+
+  ```yaml
+  stimme:
+    - wer: Nicolas Bouvier
+      art: stimme          # stimme · register (aristoteles) · subtraktion (nur entschlackt, ohne Stimme)
+      umfang: ganz         # oder "der Schluss", "die Passage über …"
+      am: 2026-08-17
+      geliehen: "die warme Begegnung und die nüchterne Lage in einem Atem"
+      warum: "…"           # optional, ein Satz
+  ```
+
+  `geliehen` sagt konkret, worauf wir geachtet haben (kurze Sätze, Staunen ohne Ausrufezeichen …), nicht ein
+  Adjektiv über die Hand. Danach `python3 .claude/scripts/stimmen.py kaestchen "<pfad>"`: Das baut das
+  **✒️-Kästchen** unter Banner und 🎨 — *„Angelehnt an … — ein Versuch in dieser Tonlage"*, nie „im Stil
+  von", nie „geschrieben wie". Das Kästchen wird nur aus dem Frontmatter gebaut, nie von Hand, damit beide
+  nicht auseinanderlaufen. Reine Subtraktion bekommt den Eintrag, aber kein ✒️.
 - **`aktualisiert:`** nur bumpen, wenn die Note dadurch **substanziell besser lesbar** wurde (bei Gedanken
   ist eine echte Stimm-Hebung das wert) — **nie** bei kosmetischem Mikro-Edit.
 - **RAG re-ingest**, wenn der Text wesentlich geändert wurde (`ingest-gedankenwelten`).

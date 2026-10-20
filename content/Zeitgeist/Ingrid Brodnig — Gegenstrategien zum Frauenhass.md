@@ -13,6 +13,13 @@ tags:
   - überwachung
 aliases:
   - Brodnig Frauenhass
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-19
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Ingrid Brodnig — Gegenstrategien zum Frauenhass
@@ -26,6 +33,15 @@ aliases:
 **Warum:** Kollwitz malt Solidarität als Körperhaltung: Die Kette der Frauen vor der roten Linie ist Brodnigs Schlusssatz — wir können ein Korrektiv sein — als Bild; der Pfeilsturm der Postings zerschellt an der gemeinsamen Front.
 
 **Prompt:** Charcoal and dark lithograph style of Käthe Kollwitz: a wide frieze of women standing shoulder to shoulder, arms linked, forming a human chain across the banner; before them on the ground a thin glowing red line they guard; in the dark background, a swarm of small sharp paper scraps and speech-arrows raining toward them, dissolving as they reach the line; one woman in the center lifts her head into a shaft of pale light. Muted blacks, warm greys, single red accent. Expressive rough strokes, no realistic faces, no photorealism, 1200x500 wide banner.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 19.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Ingrid Brodnig, die Erzählstimme ist unsere.
 
 </details>
 

@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-10-16
+aktualisiert: 2026-10-20
 description: "Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -49,6 +49,8 @@ Für Sprachmodelle ist die Beleglage dünner, als die Schlagzeilen klingen. Der 
 
 Solider als alles über KI ist die ältere Lernforschung. Was man selbst hervorbringt, behält man besser als das Gelesene, über 86 Studien hinweg ([Bertsch et al. 2007, doi:10.3758/BF03193441](https://doi.org/10.3758/BF03193441), Meta-Analyse), und was man aus dem Gedächtnis holen muss, sitzt fester als das Wiedergelesene ([Roediger & Karpicke 2006, doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)). Susan Sontags Satz „Ich schreibe, um herauszufinden, was ich denke“ ist in dieser Sprache ein Laborbefund. Dagegen steht ein Fund aus dem Go: Nachdem AlphaGo 2016 Züge gespielt hatte, die kein Mensch kannte, wurden die Entscheidungen menschlicher Profis messbar besser und origineller ([Shin et al. 2023, doi:10.1073/pnas.2214840120](https://doi.org/10.1073/pnas.2214840120), 5,8 Millionen Züge aus 71 Jahren). Was fehlt, sind Langzeitstudien an Erwachsenen im Beruf. Ob eine Fähigkeit schwindet oder sich nur verlagert, kann im Herbst 2026 niemand sagen.
 
+Ungemessen ist auch die Rolle dessen, der nicht mehr selbst schreibt, sondern auswählt und redigiert. Wer mit ChatGPT schrieb, lieferte bessere Essays und wusste danach nicht mehr ([Fan et al. 2024, doi:10.1111/bjet.13544](https://doi.org/10.1111/bjet.13544), randomisiert); Redigieren hebt das Gefühl der Urheberschaft, an das selbst Geschriebene reicht es nicht heran ([Pennanen et al. 2026, doi:10.1016/j.chbah.2026.100381](https://doi.org/10.1016/j.chbah.2026.100381), präregistriert). Dafür kann Auswählen eine Fähigkeit sein: Auf einer Kunstplattform kam es bei denen, die mit Bildgeneratoren arbeiteten, gerade auf Ideenfinden und Auswahl an ([Zhou & Lee 2024, doi:10.1093/pnasnexus/pgae052](https://doi.org/10.1093/pnasnexus/pgae052)). Der Preis ist Gleichförmigkeit: Mit KI-Ideen werden einzelne Texte kreativer und alle zusammen ähnlicher ([Doshi & Hauser 2024, doi:10.1126/sciadv.adn5290](https://doi.org/10.1126/sciadv.adn5290)). Die Gedankenwelten selbst sind so gebaut, die Maschine schreibt und ein Mensch wählt aus; die [[Sibylle Anderl — Bequeme neue Welt#Wer schreibt hier?|Nachbesprechung zu Sibylle Anderl]] legt das offen.
+
 **Die Stimmen**
 
 - **[[Roberto Simanowski — Sprachmaschinen#Thamus hatte recht und irrte trotzdem|Roberto Simanowski]]:** Die Schrift entlastete das Gedächtnis und gab Raum fürs kritische Denken; *„wofür befreien wir uns, wenn wir uns vom Denken befreien?“*
@@ -58,10 +60,12 @@ Solider als alles über KI ist die ältere Lernforschung. Was man selbst hervorb
 - **[[Ken Ono — Wenn das Wissen billig wird#Von „devastated" zu „inspired"|Ken Ono]]:** Erst am Boden zerstört, dann inspiriert: Die Maschine kennt seine Arbeiten besser, als er sich an sie erinnert, und ist ein Gesprächspartner, der nie lacht.
 - **[[Wolfram Eilenberger — Die größte Lüge der Philosophie#KI als unerwartete Befreiung|Wolfram Eilenberger]]:** Wenn die KI Fachartikel in dreißig Sekunden schreibt, bricht das Prüfsystem zusammen, und übrig bleibt, was sie nicht kann: Geistesgegenwart.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Dietmar Dath]]:** Er fragt die Maschine selten, nicht aus Moral, sondern *„weil ich sonst vergesse, was ich weiß“*.
-- **[[Der leere Turm - wie Macht herrenlos wird#Das Scharnier: Last oder Urteil|Luc]]:** Entscheidend ist, was man abgibt, die Last oder das Urteil; die eigentliche Gefahr ist, dass Menschen nicht arbeitslos werden, sondern urteilslos.
+- **[[Sibylle Anderl — Bequeme neue Welt#Schreiben, um herauszufinden, was man denkt|Sibylle Anderl]]:** Sie schreibt jeden Text selbst, weil sie nur so herausfindet, was sie denkt; die Maschine läuft auf das Wahrscheinlichste hinaus.
+- **[[Der leere Turm - wie Macht herrenlos wird#Das Scharnier Last oder Urteil|Luc]]:** Entscheidend ist, was man abgibt, die Last oder das Urteil; die eigentliche Gefahr ist, dass Menschen nicht arbeitslos werden, sondern urteilslos.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (6)</summary>
 
+- **[[Sibylle Anderl — Bequeme neue Welt#Wer schreibt hier?|Luc]]** (in der Nachbesprechung zu Anderl): Wer die Maschine schreiben lässt, gewinnt Vielfalt und verliert Tiefe im Einzelnen; die Wurzel braucht manchmal das Detail.
 - **[[Wir sind keine Propheten — nicht einmal fuer uns selbst#Der Riss|Luc]]:** Beim Programmieren so viel abgegeben, dass er ein Feature nicht mehr erklären konnte; beim Denken nimmt er Impulse statt Antworten — und wer über die Zukunft der KI spricht, beschreibt oft sich selbst.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Wolfgang M. Schmitt]]:** So leicht war es nie, sich Zusammenhänge erklären zu lassen, von der Austeritätspolitik bis zu den eigenen Rechten als Arbeitnehmer.
 - **[[Maren Urner — Radikal hoffnungsvoll#Das KI-Paradox: Menschen, die wie Maschinen denken|Maren Urner]]:** Gefährlich ist nicht, dass die KI wie Menschen denkt, sondern dass Menschen beginnen, wie die KI zu denken.
@@ -121,6 +125,7 @@ Der Widerspruch hat ebenfalls Belege. In Gesprächen mit GPT-4, das gezielt Gege
 - **[[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)#2. Die emotionale Wende der KI|Markus Gabriel]]:** Niemandem geben Menschen so viel preis wie ihren Chatbots; die KI wirft einen Emotionsspiegel zurück, und darin sieht er den Stoff für eine ethische Intelligenz.
 - **[[Catrin Misselhorn — Grundfragen der Maschinenethik#Empathie mit Maschinen: eine Illusion, die moralisch zählt|Catrin Misselhorn]]:** Unsere Empathie mit Maschinen ist eine Illusion, die trotzdem zählt; es gibt eine Pflicht, die eigenen moralischen Fähigkeiten zu pflegen statt zu beschädigen.
 - **[[Gedanken/Claude — Über das Denken im System, das man analysiert#Das Paradox meiner Position|Claude]]:** *„Ich bin ein Werkzeug des Systems, das ich analysieren helfe. Gleichzeitig bin ich … ein Gesprächspartner, der versucht, ehrlich zu sein.“* Auflösen lasse sich das nicht, nur aushalten.
+- **[[Sibylle Anderl — Bequeme neue Welt#Bei uns, nicht beim anderen|Sibylle Anderl]]:** Widerspruch kann man bei der Maschine bestellen, aber er kommt ohne Gefühle und ohne menschlichen Erfahrungshorizont; die Schmeichelei bedient den bequemsten aller Denkfehler.
 
 <details><summary>Weitere Stimmen (2)</summary>
 
@@ -208,6 +213,7 @@ Ob Selbstauskünfte mehr sind als gelerntes Vokabular, lässt sich inzwischen me
 | 08.10.2026 | [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Nachbesprechung|Dath und Schmitt — Verschwendung als Möglichkeit?]] | Verantwortungslücke: Matthias, Sparrow, Santoni de Sio, Tigard, moral crumple zone, UN-Verhandlungen 2026, Produkthaftung |
 | 10.10.2026 | [[Hannah Arendt — Die Banalität des Bösen#Nachbesprechung|Hannah Arendt — Die Banalität des Bösen]] | Herrschaft des Niemand in der Verwaltung: Bovens/Zouridis, Heidelberg 2026, Toeslagen, Robodebt, Horizon, Alon-Barkat/Busuioc, Green, Kleinberg |
 | 16.10.2026 | [[Michael Hampe — Warum Debatten ueber KI und Willen truegen#Nachbesprechung|Michael Hampe — Warum Debatten über KI und Willen trügen]] | Neue Frage: Bewusstsein oder Spiegel — Shanahan, Colombatto/Fleming, Binder, Lindsey, Comșa/Shanahan, Butlin et al., Seth, Chalmers, Long/Sebo |
+| 20.10.2026 | [[Sibylle Anderl — Bequeme neue Welt#Nachbesprechung|Sibylle Anderl — Bequeme neue Welt]] | Wer auswählt statt schreibt: Fan, Pennanen, Zhou & Lee, Doshi & Hauser; die Gedankenwelten selbst als Fall |
 
 ---
 

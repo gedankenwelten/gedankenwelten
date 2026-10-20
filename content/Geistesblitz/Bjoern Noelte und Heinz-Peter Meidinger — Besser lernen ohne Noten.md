@@ -18,6 +18,13 @@ aliases:
   - Besser lernen ohne Noten
   - Schule ohne Noten
   - Noten abschaffen
+stimme:
+  - wer: "Joseph Roth mit Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-08
+    geliehen: "aus einem kleinen Detail eine ganze Welt ziehen; Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?
@@ -29,6 +36,15 @@ aliases:
 **Pieter Bruegel d. Ä., gebrochen durch die Genremalerei des 19. Jahrhunderts** — Bruegels Komposition (eine Stube voller Kinder, zwei Welten nebeneinander, der Blick von leicht oben; er zeichnete 1556 schon *Der Esel in der Schule*), die Ausführung ist im Bild zur warmen Dorfschul-Genremalerei gerutscht. Links verliest ein Schulmeister am Pult die Tafeln, und die Kinder halten sich die Augen zu: Meidingers Erinnerung an die Lehrer, die mit der schlechtesten Arbeit begannen. Rechts knien Kinder mit einer jungen Lehrerin über großen Bögen und helfen einander: Nöltes *Master or Die*. Dazwischen eine offene Schublade voller weggelegter Blätter, die Klausur, die nach der Note niemand mehr liest.
 
 *Prompt:* A wide horizontal panoramic painting in the style of Pieter Bruegel the Elder, Flemish 16th-century genre painting, earthy ochres, muted greens, warm browns, many small lively figures, high viewpoint. One long crowded village schoolroom with wooden beams, divided into two halves. On the left half a stern schoolmaster at a tall lectern hands back slates one by one while rows of anxious children wait on benches, some hiding their faces, one small boy already crying, the stack of slates in his hand. On the right half the same kind of children kneel and sit together around a large table and big sheets of paper on the floor, helping each other, an older girl explaining to a younger boy, a young teacher crouching among them at eye level, pointing at a page. In the middle between both halves an open wooden drawer full of old papers pushed away and forgotten, dusty. Window light from the right. Stylized faces, rich detail, no letters, no numbers, no words, no writing on slates or papers, no signature, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joseph Roth mit Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: aus einem kleinen Detail eine ganze Welt ziehen; Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 08.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Björn Nölte und Heinz-Peter Meidinger, die Erzählstimme ist unsere.
 
 </details>
 

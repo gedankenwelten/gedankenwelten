@@ -232,6 +232,9 @@ Hier stützt und präzisiert die Forschung Hans These zugleich. Han setzt gegen 
 
 Simone Weil als Probe aufs Exempel. Han findet das Glück im Widerstand — die schwere Erde, die fremden Wurzeln, die Türschwelle. Weil ließ sich 1934 vom Schuldienst beurlauben und ging als Philosophielehrerin an die Fräsmaschine, um zu erfahren, was Arbeit mit einem Menschen macht, und was sie dort fand, war Zerstörung. Im Grundsatz stützt sie ihn — das Unmögliche berührt man durch die Hände —, im Ergebnis ist sie sein Gegenbeweis: Derselbe Widerstand kann aufzehren.
 
+### → [[Sibylle Anderl — Bequeme neue Welt#Warum noch Klavier üben?|Sibylle Anderl — Bequeme neue Welt]]
+Eine Astrophysikerin, die wie Han Klavier spielt und das Glück hinter den „grauenvollen“ Etüden findet. Wo Han das Glatte im Ganzen verwirft, verlangt Anderl eine Rechnung für jede einzelne Bequemlichkeit und antwortet damit auf die Frage, welcher Widerstand nährt.
+
 ---
 
 ### → [[Judith Mangelsdorf — Flourishing und Mattering]]

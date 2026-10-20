@@ -16,6 +16,13 @@ aliases:
   - Korrumpiert
   - Marco Bülow Korruption
   - Bülow und Sonneborn
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-27
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Marco Bülow — Korrumpiert
@@ -27,6 +34,15 @@ aliases:
 **Félix Vallotton — Holzschnitt**: ein Kaminzimmer in einem Grandhotel, auf der einen Seite der Tafel Konzernmanager, auf der anderen junge Abgeordnete, hinter jedem ein Diener in Livree, und alle heben im selben Augenblick die silbernen Hauben von den Tellern. In der Mitte lacht einer laut los. Das ist Bülows Abend im Adlon, der Moment, in dem Wohlfühllobbyismus komisch wird und trotzdem wirkt. Vallotton, weil seine Holzschnitte das bürgerliche Interieur mit schwarzen Flächen und einem Zwinkern zeigen: Man sieht die Eleganz und die Falle darin zugleich. Die Note malt Vallotton, die Vita Edward Hopper.
 
 *Prompt:* Wide 1200x500 panoramic black-and-white woodcut in the manner of Félix Vallotton's intimist woodcuts (Intimités, La Paresse, Le Dîner effet de lampe): large flat areas of deep solid black, crisp white shapes, no gradients, bold simplified silhouettes, sly understated satire. An opulent private dining room with a fireplace in a grand hotel: at a long table sit three well-dressed older company executives on one side and three younger men on the other. Behind each diner stands a servant in livery, and all six servants lift gleaming silver domed cloches from the plates at exactly the same moment, a synchronized gesture. One young man in a plain dark shirt, without a tie, bursts out laughing, a hand at his mouth, while the others sit stiff and composed. Candles, a heavy curtain, a portrait frame on the wall left blank and dark. Strong black-white contrast, elegant composition. Absolutely no signature anywhere, no monogram, no initials, no text, no letters, no caption, no logos. The four corners and the bottom strip are clean plain black or white areas. Not photorealistic.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 27.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Marco Bülow, die Erzählstimme ist unsere.
 
 </details>
 

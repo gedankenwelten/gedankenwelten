@@ -26,6 +26,13 @@ aliases:
   - Celikates Jung Naiv
   - Celikates Folge 855
   - Celikates Faschisierung
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-07
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems
@@ -39,6 +46,15 @@ aliases:
 **Warum:** Die Note erzählt einen einzigen Mechanismus: Die Krise steht hinter den Leuten, eine Schule mit vernagelten Fenstern, ein bröckelnder Schlot, eine leere Schaukel, und sie drehen ihr den Rücken zu und zeigen auf die Familie mit den Koffern, die zuletzt gekommen ist. Shahn hat in den Dreißigern und Vierzigern gemalt, wie Gesellschaften ihre Schuldigen finden (Sacco und Vanzetti), mit Mitgefühl für die Gezeigten und ohne Karikatur der Zeigenden. Davor die Ziegelmauer, an der ein Mann im Anzug achtlos vorbeigeht.
 
 **Prompt:** Wide panoramic banner painting in the style of Ben Shahn: egg tempera on board, flat muted colors (ochre, slate grey, faded brick red, off-white), wiry expressive black ink contour lines, social realist, 1940s American. A small town square at dusk. In the background a cracked public school building with boarded windows and a crumbling factory chimney, a broken playground swing. In the middle ground a crowd of ordinary working people with their backs turned to the cracked buildings, many arms and fingers pointing downward and to the right. At the lower right, small and alone, a family with two worn suitcases and a child holding a parent's hand, looking up. In the foreground across the whole width runs a very low brick wall, barely knee high, and a man in a suit steps over it casually mid-stride. Melancholy, humane, no caricature, no realistic faces, no text, no letters, no signature, no monogram.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 07.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Robin Celikates, die Erzählstimme ist unsere.
 
 </details>
 

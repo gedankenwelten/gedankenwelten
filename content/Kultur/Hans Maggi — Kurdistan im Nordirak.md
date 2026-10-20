@@ -10,6 +10,14 @@ tags:
   - gastfreundschaft
   - alltag
 aktualisiert: 17.08.2026
+stimme:
+  - wer: "Nicolas Bouvier"
+    art: stimme
+    umfang: "ganz"
+    am: 2026-08-17
+    geliehen: "die warme Begegnung und die nüchterne Lage in einem Atem"
+    warum: "Er fuhr 1953 dieselbe Route. Der Abschnitt über die Grenze blieb fast unangetastet, weil seine Nüchternheit den Befund trägt"
+    quelle: rekonstruiert
 ---
 
 # Hans Maggi — Kurdistan im Nordirak
@@ -21,6 +29,15 @@ aktualisiert: 17.08.2026
 **Persische Miniaturmalerei (safawidische Tradition)** — die Bildsprache der Region selbst, statt eines westlichen Blicks auf sie. Die Miniatur kennt seit Jahrhunderten genau die zwei Motive, die diese Note trägt: das ausgebreitete Gastmahl und den winzigen Reisenden vor gestuften Bergen. Vorn, groß und liebevoll ausgemalt, das Tablett auf dem Teppich — das Geschenk, das man nicht ablehnen kann. Dahinter, klein und von der Landschaft verschluckt, die zwei Radler. Die weiße Sonne brennt alles flach. Ganz oben, kaum sichtbar, ein Band dunklerer Berge: die Linie, hinter die man nicht darf.
 
 *Prompt:* A wide 1200x500 banner in the style of a classical Persian miniature painting. Flat perspective, no realistic depth, luminous jewel-like colours on a warm ochre ground. In the lower foreground, spread across a patterned carpet, a generous meal laid out as a gift: a large round silver tray with small tea glasses, flatbread, bowls of fruit, a watermelon slice, peaches — painted with the loving ornamental detail of a Safavid banquet scene. Winding upward from the meal, a thin pale road crosses the frame from left to right; on it two tiny stylised cyclists with loaded bicycles (no realistic faces), dwarfed by the landscape. Behind them, stepped bare limestone mountains rise in flat overlapping bands of terracotta, dusty rose and pale gold, dotted with tiny stylised trees. A huge white sun burns in a hazy sky, its light flattening everything. Along the very top edge, the faintest band of deeper blue-grey mountains, distant and untouched. Gold leaf accents, fine black outlines, decorative border motifs at the edges. Warm, radiant, hospitable. No text, no calligraphy, no signature, no flags, no realistic faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Nicolas Bouvier** — ein Versuch in dieser Tonlage. Geliehen: die warme Begegnung und die nüchterne Lage in einem Atem. Er fuhr 1953 dieselbe Route. Der Abschnitt über die Grenze blieb fast unangetastet, weil seine Nüchternheit den Befund trägt.
+*Erzählstimme gewählt am 17.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erlebnisse sind die von Hans Maggi, die Erzählstimme ist unsere.
 
 </details>
 

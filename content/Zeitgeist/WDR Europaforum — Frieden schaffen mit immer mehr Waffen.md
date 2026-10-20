@@ -15,6 +15,13 @@ tags:
 aliases:
   - Frieden schaffen mit immer mehr Waffen
   - van Aken Puglierin Seselgyte Aufrüstung
+stimme:
+  - wer: "Sebastian Haffner mit Ryszard Kapuściński"
+    art: register
+    umfang: "ganz"
+    am: 2026-07-27
+    geliehen: "Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit; das Große über das Kleine erklären, das Wissen in einer Szene geerdet"
+    quelle: rekonstruiert
 ---
 
 # Frieden schaffen mit immer mehr Waffen?
@@ -28,6 +35,15 @@ aliases:
 **Warum:** Eine litauische Hand für eine Note, deren emotionales Zentrum in Vilnius liegt. Čiurlionis malte geschichtete Horizonte und kosmische Dämmerungen — der ideale Träger für Šešelgytės „Löcher im Himmel", die hier als runde Öffnungen in der Firmamentsdecke erscheinen, hinter denen Sterne stehen. Zwei Gestalten stehen weit voneinander entfernt auf derselben Ebene und werfen Schatten verschiedener Länge: die zwei Zeithorizonte, um die gestritten wird. Dazwischen, klein und beleuchtet, ein Raum mit einem Lesenden — das Geschichtsbuch des Großvaters, das nicht mehr in der Schublade liegt.
 
 **Prompt:** *In the manner of Mikalojus Konstantinas Ciurlionis, Lithuanian symbolist painter-composer: layered translucent horizons in muted blue-grey, ochre and pale gold; a vast twilight sky pierced by faint circular openings like holes in the firmament; below, a dark plain where three small distant figures stand far apart from one another, each casting a shadow of a different length; a single lit window on the horizon holding a small book; musical-cosmic rhythm, tempera-like washes, dreamlike stillness, no text*
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner mit Ryszard Kapuściński** — ein Versuch in dieser Tonlage. Geliehen: Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit; das Große über das Kleine erklären, das Wissen in einer Szene geerdet.
+*Beim Schreiben still gewählt am 27.07.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

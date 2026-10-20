@@ -15,6 +15,13 @@ tags:
 aliases:
   - Fratzscher Wirtschaftsmythen
   - Höfgen Fratzscher Mythen
+stimme:
+  - wer: "Karl Kraus"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-17
+    geliehen: "das Ohr für die Phrase, die Sprache beim Wort genommen, gedämpft"
+    quelle: rekonstruiert
 ---
 
 # Zehn Wirtschaftsmythen, zwei Widerlegungen
@@ -26,6 +33,15 @@ aliases:
 **Synthetischer Kubismus in der Hand von Juan Gris** — derselbe Gegenstand zweimal, aus zwei unvereinbaren Winkeln, in einer Fläche: links das Haushaltsbuch mit Löffel und Schürze, rechts eine kleine Bankfassade, deren Säulen aus gestapelten Münzen bestehen. Gris' Verfahren — ein Ding gleichzeitig aus mehreren Perspektiven zeigen — ist genau der Kern dieser Note: zwei Ökonomen widerlegen denselben Satz und sehen darin zwei verschiedene Dinge.
 
 *Prompt:* Synthetic cubist collage in the manner of Juan Gris, 1200x500 wide banner. The same object shown twice from two irreconcilable angles, interlocking in one plane: on the left a household ledger with a spoon and a folded apron; on the right a small classical bank facade whose columns are stacked coins. Faceted planes overlap where the two halves meet, a shared tabletop running through both. Warm ochre, deep teal, muted brick red, cream, charcoal outlines, subtle collage paper texture. Flat geometric planes, no photorealism, no faces, no text, no lettering, no signature.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Karl Kraus** — ein Versuch in dieser Tonlage. Geliehen: das Ohr für die Phrase, die Sprache beim Wort genommen, gedämpft.
+*Beim Schreiben still gewählt am 17.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

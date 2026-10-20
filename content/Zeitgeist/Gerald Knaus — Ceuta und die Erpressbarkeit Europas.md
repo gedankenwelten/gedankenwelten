@@ -12,6 +12,13 @@ tags:
   - year-2026
 aliases:
   - Knaus Ceuta
+stimme:
+  - wer: "Joan Didion mit Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-08-03
+    geliehen: "kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen; Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit"
+    quelle: rekonstruiert
 ---
 
 # Ceuta und die Erpressbarkeit Europas
@@ -23,6 +30,15 @@ aliases:
 **William Kentridge** — Kohle und Tusche auf collagierten Buchseiten, Schwarzweiß mit einem Ockerband und einem roten Wisch. Ein Zug von Figuren mit Bündeln und Koffern am Ufer, dahinter die ummauerte Stadt und der Zaun; nach rechts hin werden die Gestalten durchsichtig, bis nur noch Wischspuren bleiben. Kentridges ganze Technik besteht darin, Gezeichnetes wieder auszuwischen und die Radierspur stehen zu lassen — genau das ist diese Geschichte: 50.000 Menschen kamen an einem Tag, gingen wieder und hinterließen in der Statistik fast nichts. Ganz rechts, wo niemand mehr steht, drei leere Stühle um einen Tisch.
 
 *Prompt:* Charcoal and ink drawing in the manner of William Kentridge: a long horizontal procession of small silhouetted figures walking across a stony shoreline, some carrying bundles and suitcases, moving from right to left. Visible smudges and erasure marks where earlier figures were rubbed out, ghost traces of a crowd that has already passed through. Behind them a dark stretch of water and the faint outline of a walled coastal town with a wire fence. At the far right edge, three tiny empty chairs around a small table, drawn in the same charcoal. Torn paper collage edges, layered book-page texture. Black and white with one muted ochre wash and a single smear of red. Rough, gestural, expressive, no photorealism, no faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Joan Didion mit Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: kühle Genauigkeit, die Fakten so gelegt, dass sie für sich sprechen; Schweres ruhig und unangestrengt erklären, ohne akademischen Nebel und ohne Plattheit.
+*Beim Schreiben still gewählt am 03.08.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

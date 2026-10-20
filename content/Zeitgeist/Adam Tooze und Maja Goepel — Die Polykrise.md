@@ -17,6 +17,12 @@ tags:
 aliases:
   - Polykrise
   - Tooze Göpel Polykrise
+stimme:
+  - wer: "keine"
+    art: subtraktion
+    umfang: "ganz"
+    am: 2026-07-25
+    quelle: rekonstruiert
 ---
 
 # Adam Tooze und Maja Göpel — Die Polykrise

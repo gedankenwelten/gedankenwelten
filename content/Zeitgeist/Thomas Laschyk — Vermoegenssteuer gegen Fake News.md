@@ -18,6 +18,13 @@ aliases:
   - Das effektivste Mittel gegen Fake News wäre eine Vermögenssteuer
   - Laschyk Vermögenssteuer
   - Geld kauft Reichweite
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-09-16
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # Vermögenssteuer gegen Fake News
@@ -31,6 +38,15 @@ aliases:
 **Warum:** Laschyks letzter Satz — „Wenn sie Millionäre hinter sich haben, brauchen wir Millionen hinter uns“ — ist ein ferner Nachhall von Heartfields berühmter Montage „Millionen stehen hinter mir“ (1932), die zeigte, wessen Geld hinter einer Stimme steht. Das Bild übersetzt die Staudamm-Metapher des Videos: Ein Arm im Nadelstreifen füttert den Lautsprecher mit Geld, die Flut aus Zeitungsfetzen und Displays überschwemmt die Stadt, und ein einzelner Mann wischt mit einem roten Schwamm.
 
 **Prompt:** Wide 1200x500 banner in the manner of John Heartfield's 1930s political photomontage: stark black-and-white newsprint photographs cut and pasted, high contrast, grainy halftone, with a single bold red accent. On the left an enormous arm in a pinstripe suit sleeve and a gold cufflink reaches down from the top edge and pours a thick waterfall of banknotes and coins into the funnel of a giant old brass loudspeaker horn mounted on a steel mast. From the mouth of the horn a roaring flood of torn newspaper strips and shattered smartphone screens surges across a small grey town of rooftops. On the right, very small, a single man in shirtsleeves kneels in the rising flood trying to soak it up with one ordinary kitchen sponge, rendered in red. Behind him a concrete dam is cracking open. Collage edges visible, dramatic scale contrast, sober and biting, no text, no letters, no logos, no recognizable real faces.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 16.09.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 
 </details>
 

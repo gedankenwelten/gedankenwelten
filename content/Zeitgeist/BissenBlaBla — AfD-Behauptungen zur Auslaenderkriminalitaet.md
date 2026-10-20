@@ -18,6 +18,13 @@ tags:
 aliases:
   - Ausländerkriminalität BissenBlaBla
   - Fünf Sätze über Ausländerkriminalität
+stimme:
+  - wer: "George Orwell"
+    art: register
+    umfang: "ganz"
+    am: 2026-10-04
+    geliehen: "kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel"
+    quelle: rekonstruiert
 ---
 
 # BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität
@@ -31,6 +38,15 @@ aliases:
 **Warum:** Die Note handelt von einer richtigen Zahl, die im falschen Licht einen riesigen Schatten wirft. Steinbergs Linie kann genau das: eine kleine Figur, ein Plakat, ein Schatten, der zur Menge anschwillt — und daneben der Sachbearbeiter mit der Lupe über dem endlosen Kleingedruckten. Die vierzig aufgebrochenen Autos und der eine Dieb sind das Bild aus dem Video: viele Fälle, ein Mensch.
 
 **Prompt:** Wide panoramic banner, pen-and-ink drawing in the witty spare line style of Saul Steinberg, black ink line on off-white paper with a few flat washes of pale ochre and one muted red. Center-left: a small lanky man in a suit stands on a box holding up an enormous placard showing only the number 40 %. A lamp behind him throws his shadow onto a long wall, and the shadow of the placard grows into a huge dark crowd of jagged silhouettes. On the right, a tiny clerk with spectacles sits at a desk under a single bulb, bent over a long unrolled ledger that spills onto the floor in loops, holding a magnifying glass over the small print; the ledger columns are filled with tiny marks. Between them, forty little cars drawn in a neat row, all with open doors, and a single small thief figure walking away with a sack. Lots of white space, humorous, deadpan, no realistic faces, no photorealism.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an George Orwell** — ein Versuch in dieser Tonlage. Geliehen: kurze Wörter, aktive Verben, konkrete Bilder, kein Nebel.
+*Beim Schreiben still gewählt am 04.10.2026 (nachträglich festgehalten).*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von BissenBlaBla, die Erzählstimme ist unsere.
 
 </details>
 
