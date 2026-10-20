@@ -67,7 +67,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Sibylle Ander
 
 ### Sitzen Sie bequem?
 
-[▶ 1:33](https://www.youtube.com/watch?v=MRGIo7BI284&t=93) Die erste Frage ist ein Scherz, und sie trifft. Michael Räber, zum ersten Mal Gastgeber der Sendung, will wissen, ob sein Gast bequem sitze. Sehr bequem, sagt Anderl, es könnte unbequemer sein, und das Publikum lacht. Dann zählt sie auf, was sie sich abnehmen lässt: Waschmaschine, Kühlschrank, das Telefon, *„ich bin exzessive Handynutzerin“*. Wer hier eine Asketin erwartet, wird enttäuscht.
+[▶ 1:33](https://www.youtube.com/watch?v=MRGIo7BI284&t=93) Die erste Frage ist ein Scherz, und sie trifft. Michael Räber, zum ersten Mal Gastgeber der Sendung, will wissen, ob sein Gast bequem sitze. Sehr bequem, sagt Anderl, es könnte durchaus unbequemer sein, und beide lachen. Dann zählt sie auf, was sie sich abnehmen lässt: Waschmaschine, Kühlschrank, das Telefon, *„ich bin exzessive Handynutzerin“*. Wer hier eine Asketin erwartet, wird enttäuscht.
 
 [▶ 2:18](https://www.youtube.com/watch?v=MRGIo7BI284&t=138) Ihre These setzt eine Ebene tiefer an. Bequemlichkeit war lange ein Mittel. Wer Energie sparte, kam besser durchs Leben, das hat die Evolution belohnt. *„In der modernen Welt ist Bequemlichkeit aber ein ganz zentraler Zweck geworden.“* Und ein Zweck rechnet nicht mehr mit seinen Kosten. [▶ 3:04](https://www.youtube.com/watch?v=MRGIo7BI284&t=184) Mit jeder bequemen Wahl gibt man etwas ab, eine Fähigkeit, ein Stück Unabhängigkeit, manchmal auch die bessere Lösung zugunsten der naheliegenden. Anderl fordert kein Opfer. Sie verlangt eine Rechnung, und zwar für jede einzelne Bequemlichkeit, nicht für die Moderne im Ganzen.
 
@@ -99,7 +99,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Sibylle Ander
 
 ### Warum noch Klavier üben?
 
-[▶ 16:43](https://www.youtube.com/watch?v=MRGIo7BI284&t=1003) Anderl macht Musik, und die KI könnte ihre Stücke heute erzeugen, *„wahrscheinlich sogar besser von der Qualität her, als ich es jemals könnte“*. Das Publikum würde es kaum merken. Räber stellt die Frage, die über dem ganzen Abend hängt: Was gewinnt die Menschheit, wenn sie trotzdem darauf besteht, selbst zu spielen?
+[▶ 16:43](https://www.youtube.com/watch?v=MRGIo7BI284&t=1003) Anderl macht Musik, und die KI könnte ihre Stücke heute erzeugen, *„wahrscheinlich sogar besser von der Qualität her, als ich es jemals könnte“*. Das Publikum würde es kaum merken. Räber stellt die Frage, die über dem ganzen Gespräch hängt: Was gewinnt die Menschheit, wenn sie trotzdem darauf besteht, selbst zu spielen?
 
 Anderl antwortet nicht mit dem Werk, sondern mit dem Weg dorthin. Das Üben sei anstrengend, die Etüden *„grauenvoll“*, man werde zurückgeworfen. [▶ 17:29](https://www.youtube.com/watch?v=MRGIo7BI284&t=1049) Wenn man ein Stück dann fehlerfrei spielt, ist da ein Gefühl der Selbstwirksamkeit, das kein fertiges Produkt liefert. Lernen braucht Widerstand, und sie verweist auf die Forschung dazu. Dazu kommt eine andere Beziehung zu dem, was man selbst gemacht hat, *„eine ganz andere Aufmerksamkeit der Welt und der Dinge um uns herum gegenüber“*.
 

@@ -240,6 +240,13 @@ Am Ende jeder Note, nach `## Verbindungen`, steht:
 
 ---
 
+## Zeitgeist-Notes: Was seither geschah
+
+Wird eine ältere Zeitgeist-Note angefasst (meist, weil sie gelesen wird), bekommt sie einen Abschnitt
+`## Was seither geschah` mit Stand-Datum: was das Video noch nicht wissen konnte. Aus der Momentaufnahme
+wird ein Zeitraum (seit 20.10.2026). Ablauf und Abgrenzung (Nachbesprechung, Faktencheck, Spuren) →
+`moin`-Skill, „Nachschärfen“.
+
 ## Zeitgeist-Notes: Faktencheck
 
 Jede Zeitgeist-Note bekommt einen Faktencheck-Abschnitt:
