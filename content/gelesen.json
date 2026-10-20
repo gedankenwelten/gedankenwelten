@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 817,
-   "aufrufe": 967
+   "leser": 819,
+   "aufrufe": 969
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -310,23 +310,23 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 623,
-     "aufrufe": 746
+     "leser": 582,
+     "aufrufe": 701
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 99,
-     "aufrufe": 105
+     "leser": 93,
+     "aufrufe": 99
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 33,
-     "aufrufe": 40
+     "leser": 30,
+     "aufrufe": 37
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 28,
-     "aufrufe": 31
+     "leser": 27,
+     "aufrufe": 29
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -361,7 +361,7 @@
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "leser": 8,
-     "aufrufe": 9
+     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
@@ -504,11 +504,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Gedanken/Der-Stein-in-der-Luft-was-wir-werfen,-faellt-zurueck",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
      "leser": 2,
      "aufrufe": 2
@@ -530,11 +525,6 @@
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Panorama/Was-ist-Grosszuegigkeit",
      "leser": 2,
      "aufrufe": 2
     },
@@ -604,7 +594,17 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Dalai-Lama-Die-saekulare-Ethik",
+     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 1,
      "aufrufe": 1
     }
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 817,
-     "aufrufe": 967
+     "leser": 819,
+     "aufrufe": 969
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 856,
-     "aufrufe": 1023
+     "leser": 859,
+     "aufrufe": 1026
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1179,6 +1179,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Christine-Braehler",
      "leser": 5,
      "aufrufe": 5
@@ -1210,11 +1215,6 @@
     },
     {
      "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
      "leser": 5,
      "aufrufe": 5
     }
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 856,
-     "aufrufe": 1023
+     "leser": 859,
+     "aufrufe": 1026
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1484,6 +1484,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Christine-Braehler",
      "leser": 5,
      "aufrufe": 5
@@ -1515,11 +1520,6 @@
     },
     {
      "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
      "leser": 5,
      "aufrufe": 5
     }
@@ -1540,8 +1540,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 22,
-     "aufrufe": 22
+     "leser": 23,
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
