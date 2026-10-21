@@ -1223,3 +1223,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Maria Furtwängler
 **Status:** ✓ Vollanalyse → [[DenkerVita/Maria Furtwaengler]]
+
+## Teja Tscharntke
+**Status:** ✓ Vollanalyse → [[DenkerVita/Teja Tscharntke]]

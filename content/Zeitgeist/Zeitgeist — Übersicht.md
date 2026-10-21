@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*346 Notes — automatisch generiert · nach Thema sortiert*
+*347 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -272,6 +272,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Koshi Politik — Truth Social 13: Supreme Court und Zölle|Koschi Politik — Truth Social 13: Supreme Court und Zölle]]
 - [[Zeitgeist/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union|Koschi Politik — Truth Social 14: Ilhan Omar und State of the Union]]
 - [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg|Koschi Politik — Wer profitiert vom Iran-Krieg?]]
+- [[Zeitgeist/Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]] — Drei Stunden Autobahn, fast kein Insekt auf der Scheibe. Maria Furtwängler sucht die Ursache und findet sie auf dem Acker — bei Bauern, die selbst nicht mehr weiterwissen.
 - [[Zeitgeist/Markus Reisner — Strasse von Hormus fragil|Markus Reisner — Lage an der Straße von Hormus ist fragil]]
 - [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb|Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]]
 - [[Zeitgeist/Michael Moss — Salz Zucker Fett|Michael Moss — Salz, Zucker, Fett]] — Ein Kriegsreporter geht in die Labore der Lebensmittelkonzerne und findet keine Verschwörung — nur Menschen, die Glückspunkte berechnen, und Aktionäre, die keinen Bissen weniger dulden.

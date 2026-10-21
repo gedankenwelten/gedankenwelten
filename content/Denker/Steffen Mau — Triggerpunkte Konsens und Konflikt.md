@@ -210,3 +210,6 @@ Der Streit um Tisch und Kuchen spielt in Maus Arenen: El-Mafaalani setzt auf Obe
 
 De Weck wählt in Nassehis Dilemma die defensive Modernisierung und lobt Merkel; die positive Vision bleibt auch bei ihm offen.
 
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Achtzig Prozent sind in Umfragen für Artenschutz, kaum jemand ändert den Einkauf, und Tscharntke hofft, die Wähler machten das Thema zum Kriterium. Maus Triggerpunkte, die Verhaltenszumutung voran, erklären, warum dieses Kriterium auch gegen den Artenschutz ausschlagen kann.

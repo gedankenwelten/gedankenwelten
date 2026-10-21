@@ -143,6 +143,11 @@ Die besten Verwalterinnen des Hauses seien immer die Frauen gewesen. Dann sei da
 
 [▶ 71:57](https://www.youtube.com/watch?v=_83Sk5AMT-s&t=4317) — Am Ende steht ihr großer Begriff: *Earth Democracy* — eine lebendige Ökonomie, in der jede Art sicher ist, jeder Mensch sicher, und das Wohlergehen aller garantiert. Keine Demokratie der Menschen allein, sondern eine, die den Kreis um alle Mitwesen zieht. Das Saatkorn ist dabei kein Detail der Agrarpolitik. Es ist der kleinste Ort, an dem sich entscheidet, ob die Welt lebendig oder tot gedacht wird.
 
+
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Tscharntke beginnt bei Borlaug und dem gesunkenen Hunger, will die Genschere zulassen und hält natürliche Pestizide nicht für grundsätzlich besser, in allen drei Punkten Shivas Gegenüber. Nahe kommen sie sich bei den Kleinbauern, die er das Rückgrat der Welternährung nennt.
+
 ---
 
 ## Weiterdenken

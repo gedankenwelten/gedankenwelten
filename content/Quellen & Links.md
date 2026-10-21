@@ -5287,3 +5287,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Studie** | [MaLisa Stiftung — Klimawandel und Biodiversität: Was zeigt das Fernsehen?](https://malisastiftung.org/studien/klimawandel-und-biodiversitt-was-zeigt-das-fernsehen-was-wollen-die-zuschauerinnen) |
 | **Notiz** | [[Maria Furtwaengler — Das Ende der Insekten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Furtwaengler_Ende_der_Insekten_NDR_Transkript.txt` (+ VTT) |
+
+## Teja Tscharntke / Das große Artensterben (Jung & Naiv 669)
+
+| | |
+|---|---|
+| **Interview** | [Agrarökologe Teja Tscharntke über das große Artensterben — Jung & Naiv: Folge 669](https://www.youtube.com/watch?v=QGB_qdhw5Uo) (26.10.2023) |
+| **Review** | [Tscharntke et al. 2021 — Beyond organic farming (*Trends Ecol. Evol.*)](https://doi.org/10.1016/j.tree.2021.06.010) · Erwiderung [Brühl et al. 2021](https://doi.org/10.1016/j.tree.2021.11.001) |
+| **Studie** | [Sirami et al. 2019 — Feldgröße und Vielfalt (*PNAS*)](https://doi.org/10.1073/pnas.1906419116) |
+| **Notiz** | [[Teja Tscharntke — Das grosse Artensterben]] |
+| **Vita** | [[DenkerVita/Teja Tscharntke]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Tscharntke_Artensterben_JungNaiv669_Transkript.txt` (+ VTT) |
+

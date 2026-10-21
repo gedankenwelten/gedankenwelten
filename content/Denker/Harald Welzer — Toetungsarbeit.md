@@ -283,6 +283,11 @@ Lucs Maschinen, deren eigentliches Produkt die Entlastung ist, haben bei Welzer 
 ### → [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
 Das Panorama, in dem Welzer die Frage nach Gehorsam, Gruppe und Gelegenheit trägt.
 
+
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Ein Sohn erzählt seinen Vater, ohne ihn besser zu machen: NSDAP, „ziemlicher Aktivist“, zu Hause beschwiegen, und doch Eltern, die immer hinter ihren Kindern standen. Ein Gegenfall zu den Familien aus *Opa war kein Nazi*.
+
 ---
 
 ## Weiterdenken

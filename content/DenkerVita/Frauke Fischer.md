@@ -78,6 +78,7 @@ Keine parteipolitische Verortung erkennbar. Fischer arbeitet betont anschlussfä
 - [[DenkerVita/Nicole Bendsen]] — Beide haben aufgehört, ans Gewissen zu appellieren, und rechnen. Bendsens Beobachtung, dass „Externalität" harmlos klingt, obwohl die Kosten nur wandern, findet in Fischers 150.000 Litern Wasser pro Auto ihren saubersten Fall. Bendsen dreht die Bewertung innerhalb der Wirtschaft, Fischer steht an deren Außengrenze, wo es keinen Vertragspartner gibt.
 - [[DenkerVita/Mark Benecke]] — Beneckes *Baseline Shift* und Fischers genetische Varianz beschreiben denselben Verlust von zwei Seiten. Bei ihm verschiebt sich der Maßstab im Betrachter: Wer nie eine Wiese voller Insekten sah, weiß nicht, was fehlt. Bei ihr entzieht sich das Verlorene selbst dem Blick: Eine Art bleibt lange zählbar, während ihre Fähigkeit, auf das Unerwartete zu reagieren, schon schwindet.
 - [[DenkerVita/Freddy Leppin]] — Seine Good-News-Ausgaben zeigen, was geschieht, wenn man die Natur lässt: Mangroven wachsen seit etwa 2010 wieder, weil weniger gerodet wird, und vom Viktoriasee zeigt eine Ausgabe Hänge, auf denen nach der Rodung nur Fels blieb: Fischers Eimer Sand im Gelände. Wo Leppin eine neue Messmethode als Lichtblick meldet, bringt Fischer die Frage mit, wer die Daten am Ende nutzt.
+- **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Er misst den Nutzen der Natur im Kakao und sagt, wo diese Rechnung für die meisten Bienenarten endet.
 
 ## Gedankenwelten-Notes
 

@@ -372,6 +372,11 @@ Woher die Krefelder Zahl kommt, was sie misst (Biomasse fliegender Insekten in 6
 
 Wie die Rechnung, die nie gestellt wird, auf einem bayerischen Acker aussieht, zeigt der konventionelle Landwirt Roland Koböck: fünf Hektar Blühfläche mit finanziellen Einbußen und der Satz „es muss sich rentieren“.
 
+
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Der Agrarökologe, der den Nutzen von Vögeln und Fledermäusen im Kakao gemessen hat, hält offen, wer die Kakaoblüte bestäubt, und sagt, wo die Nutzenrechnung endet: bei der großen Mehrheit der Bienenarten, die keine Nutzpflanze besucht. Für sie greift er zum Kölner Dom statt zur Bilanz.
+
 ---
 
 ## Weiterdenken

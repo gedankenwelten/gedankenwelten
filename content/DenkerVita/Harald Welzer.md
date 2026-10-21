@@ -132,6 +132,7 @@ Die Täterforschung beginnt mit Arendts Eichmann und arbeitet sich an ihr ab. Wo
 Welzer fragt, welche Deutungsrahmen das Töten zur Arbeit machten; Heitmeyer fragt mit der Durchrohung nach den Strukturen, die Rohheit heute ermöglichen oder verlangen, von Jobcentern bis zu Plattformen. Beide wenden sich gegen die Erklärung aus dem Charakter des einzelnen Täters.
 
 ---
+- **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Nennt seinen Vater ohne Milderung einen NSDAP-Aktivisten, ein Gegenfall zu *Opa war kein Nazi*.
 
 ## Gedankenwelten-Notes
 

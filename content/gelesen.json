@@ -5,13 +5,13 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 845,
-   "aufrufe": 1001
+   "leser": 846,
+   "aufrufe": 1003
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
    "leser": 287,
-   "aufrufe": 303
+   "aufrufe": 304
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -99,11 +99,6 @@
    "aufrufe": 9
   },
   {
-   "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-   "leser": 9,
-   "aufrufe": 9
-  },
-  {
    "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
    "leser": 8,
    "aufrufe": 8
@@ -134,11 +129,6 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Byung-Chul-Han",
-   "leser": 7,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
    "leser": 6,
    "aufrufe": 9
@@ -154,7 +144,17 @@
    "aufrufe": 7
   },
   {
+   "pfad": "/DenkerVita/Byung-Chul-Han",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Ralf-Stockmann",
    "leser": 6,
    "aufrufe": 6
   },
@@ -165,6 +165,11 @@
   },
   {
    "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
    "leser": 6,
    "aufrufe": 6
   },
@@ -195,11 +200,6 @@
   },
   {
    "pfad": "/DenkerVita/Kalayo",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Ralf-Stockmann",
    "leser": 5,
    "aufrufe": 5
   },
@@ -310,23 +310,23 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 189,
-     "aufrufe": 236
+     "leser": 184,
+     "aufrufe": 232
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 19,
-     "aufrufe": 20
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 15,
-     "aufrufe": 15
+     "leser": 18,
+     "aufrufe": 19
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 14,
-     "aufrufe": 16
+     "aufrufe": 17
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 14,
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -335,8 +335,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 10,
-     "aufrufe": 13
+     "leser": 9,
+     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -374,14 +374,14 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 3,
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 3,
-     "aufrufe": 6
+     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Marcant",
@@ -445,6 +445,16 @@
     },
     {
      "pfad": "/DenkerVita/Mats-Schoenauer",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 2,
      "aufrufe": 2
     },
@@ -597,16 +607,6 @@
      "pfad": "/DenkerVita/Albrecht-von-Lucke",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Alle-Denker",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Andreas-Reckwitz",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,13 +615,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 845,
-     "aufrufe": 1001
+     "leser": 846,
+     "aufrufe": 1003
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 287,
-     "aufrufe": 303
+     "aufrufe": 304
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -709,11 +709,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 8,
      "aufrufe": 8
@@ -744,11 +739,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 6,
      "aufrufe": 9
@@ -764,7 +754,17 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 6,
      "aufrufe": 6
     },
@@ -775,6 +775,11 @@
     },
     {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
      "leser": 6,
      "aufrufe": 6
     },
@@ -805,11 +810,6 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 5,
      "aufrufe": 5
     },
@@ -920,13 +920,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 893,
-     "aufrufe": 1068
+     "leser": 894,
+     "aufrufe": 1070
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 287,
-     "aufrufe": 303
+     "aufrufe": 304
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1049,11 +1049,6 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 8,
      "aufrufe": 11
@@ -1080,6 +1075,11 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
+     "leser": 8,
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1134,11 +1134,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "leser": 6,
      "aufrufe": 9
@@ -1154,7 +1149,17 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/DenkerVita/Martyna-Linartas",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
      "leser": 6,
      "aufrufe": 6
     },
@@ -1210,11 +1215,6 @@
     },
     {
      "pfad": "/DenkerVita/Jochen-Grossmann",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Martyna-Linartas",
      "leser": 5,
      "aufrufe": 5
     }
@@ -1225,13 +1225,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 893,
-     "aufrufe": 1068
+     "leser": 894,
+     "aufrufe": 1070
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 287,
-     "aufrufe": 303
+     "aufrufe": 304
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1354,11 +1354,6 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 8,
      "aufrufe": 11
@@ -1385,6 +1380,11 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
+     "leser": 8,
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1439,11 +1439,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "leser": 6,
      "aufrufe": 9
@@ -1459,7 +1454,17 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/DenkerVita/Martyna-Linartas",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
      "leser": 6,
      "aufrufe": 6
     },
@@ -1515,11 +1520,6 @@
     },
     {
      "pfad": "/DenkerVita/Jochen-Grossmann",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Martyna-Linartas",
      "leser": 5,
      "aufrufe": 5
     }
@@ -1594,6 +1594,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Cordula-Tutt",
      "leser": 6,
      "aufrufe": 6
@@ -1607,11 +1612,6 @@
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "leser": 6,
      "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 5,
-     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -1640,11 +1640,6 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1679,6 +1674,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Martyna-Linartas",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Dirk-Specht",
      "leser": 3,
      "aufrufe": 3
@@ -1695,6 +1695,11 @@
     },
     {
      "pfad": "/Denker/Chantal-Mouffe-Das-Politische-und-die-Politik",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 3,
      "aufrufe": 3
     },
@@ -1769,12 +1774,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Isabell-Lorey",
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 2,
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Martyna-Linartas",
+     "pfad": "/DenkerVita/Isabell-Lorey",
      "leser": 2,
      "aufrufe": 2
     },
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Zeitgeist/Andreas-Kemper-Technofaschismus-und-die-AfD",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
      "leser": 2,
      "aufrufe": 2
     }

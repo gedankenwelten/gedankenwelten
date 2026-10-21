@@ -117,6 +117,7 @@ Vollständige Liste: [ORCID 0000-0001-6406-2778](https://orcid.org/0000-0001-640
 - [[DenkerVita/Jacob Beautemps|Jacob Beautemps]] — Beautemps warnt, ein Rekordjahr nicht mit dem Trend zu verwechseln. Sorg hat die statistische Antwort darauf gegen die Unstatistik verteidigt: ein Trendmodell über alle Jahre statt einer Differenz zwischen zwei Zeitpunkten.
 
 ---
+- **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Der Göttinger Agrarökologe stützt sich auf die Krefelder Reihen, bis zu Sorgs Schwebfliegen; der Kritiker von Tiedemann ist sein Fakultätskollege.
 
 ## Gedankenwelten-Notes
 

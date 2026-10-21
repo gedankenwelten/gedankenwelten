@@ -312,6 +312,16 @@ Dort sagt Margarita Hartlieb, die Biomasse könne steigen, während die Vielfalt
 
 Teil 2 der Reihe: Maria Furtwängler fährt dorthin, wo diese Note die Ursachenfrage offen lässt, auf den Acker, und stützt sich auf eine zweite ehrenamtliche Reihe, fünfzig Jahre Schwebfliegenzählung am Randecker Maar.
 
+
+### → [[Panorama/Warum verschwinden die Insekten|Warum verschwinden die Insekten, und warum spricht kaum jemand darüber?]]
+
+Das wachsende Panorama der Reihe. Der Abschnitt „Wetter oder Trend?“ ist dort die erste Frage geworden, neben Müller, von Tiedemann und Tscharntke; dazu kommen die Fragen, was den Insekten wirklich hilft und warum so wenig geschieht.
+
+
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Teil 3 der Reihe. Tscharntke lehrt an derselben Göttinger Fakultät wie von Tiedemann und sieht die Lage umgekehrt. Seine Schwebfliegen-Zahl stammt aus Sorgs Arbeit von 2021, und den Ursachenstreit, den diese Note offen lässt, entscheidet er für die Landschaft: Feldgröße, Hecke, Fruchtfolge.
+
 ---
 
 ## Weiterdenken

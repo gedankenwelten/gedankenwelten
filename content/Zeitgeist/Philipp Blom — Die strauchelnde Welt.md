@@ -405,6 +405,11 @@ Moss' Wende bei der Zuckersteuer ist ein Testfall für die Gewöhnung ans Verord
 Dänemarks schnell abgeschaffte Fettsteuer und die deutsche Zuckerabgabe 2026/27 sind frische Prüfsteine für die Bedingungen der Gewöhnung. Eine Steuer, die die Ärmeren stärker trifft und deren Geld im allgemeinen Haushalt verschwindet, steht dem Backlash näher als Stockholm.
 
 
+
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Tscharntkes Hoffnung ist das Rauchverbot, Jessens Einwand die Gurtpflicht, und der Gurt wurde erst mit dem Bußgeld von 1984 selbstverständlich, ein Fall für die Bedingung aus „Gewöhnen sich Menschen an das Verordnete?“. Der Agrarumbau ist zugleich der Backlash-Fall: Die Kosten von Hecke und kleinem Feld trägt der Hof, der Nutzen gehört allen.
+
 ---
 
 ## Weiterdenken

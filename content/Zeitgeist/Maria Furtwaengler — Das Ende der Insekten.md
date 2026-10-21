@@ -247,7 +247,7 @@ Teil 1 der Reihe. Krefeld und das Randecker Maar sind zwei Zeitreihen derselben 
 
 ### → [[Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
 
-Furtwänglers verschmierte Scheibe aus der Kindheit ist Beneckes *Baseline Shift*, erzählt von denen, die den alten Maßstab noch im Gedächtnis haben. Beneckes ungenannter Göttinger Professor sagt „Die Landwirtschaft ist die Stellschraube“, kleinere und vielfältigere Felder würden helfen, im Kern der Satz, mit dem der Film am klügsten wird. Reibung entsteht beim Schluss: Beneckes „Essen ist Politik“ und Furtwänglers „mehr Bio kaufen“ legen den Hebel in den Einkaufswagen; diese Note hält ihn dort für zu klein.
+Furtwänglers verschmierte Scheibe aus der Kindheit ist Beneckes *Baseline Shift*, erzählt von denen, die den alten Maßstab noch im Gedächtnis haben. Beneckes Göttinger Professor, auf seiner Folie als Teja Tscharntke genannt, sagt „Die Landwirtschaft ist die Stellschraube“, kleinere und vielfältigere Felder würden helfen, im Kern der Satz, mit dem der Film am klügsten wird. Reibung entsteht beim Schluss: Beneckes „Essen ist Politik“ und Furtwänglers „mehr Bio kaufen“ legen den Hebel in den Einkaufswagen; diese Note hält ihn dort für zu klein.
 
 ### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
 
@@ -272,6 +272,15 @@ Zwei Mechanismen jener Note kehren im Glyphosat-Kapitel wieder: die Drehtür aus
 ### → [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
 
 „Was gemessen wird, hat immer jemand ausgewählt.“ Am Randecker Maar zählen zwei Menschen fünfzig Jahre, ohne dass es jemand bestellte; Furtwänglers Stiftung bezahlt eine Messung, die Sendeminuten zählt statt Insekten; auf der Limoneira Farm steckt Messtechnik als Produkt in Boden, Stamm und Frucht. Was sie den Insekten bringt, hängt am Lebensraum, den dort niemand misst, und die offene Ursachenfrage hat denselben Grund: Niemand erfasst flächendeckend, wo welche Pestizide ausgebracht werden.
+
+
+### → [[Panorama/Warum verschwinden die Insekten|Warum verschwinden die Insekten, und warum spricht kaum jemand darüber?]]
+
+Das wachsende Panorama der Reihe. Von Mackensen, Hilbeck, Koböck und Brandt stehen dort als Stimmen zur Frage, was den Insekten hilft, und die MaLisa-Zählung trägt die Frage, warum kaum jemand darüber spricht.
+
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Teil 3 der Reihe. Der Satz aus dem Off, Artenvielfalt entstehe durch Mosaiklandschaften, ist Tscharntkes Lebensthema; er liefert die Zahlen dazu und widerspricht dem Schluss des Films, mehr Bio zu kaufen: Das Siegel prüft weder Feldgröße noch Hecke. Koböcks Kränkung durch das Volksbegehren hat bei ihm ein Gegenstück, die Lobby gewinne, solange die Wähler es nicht zum Kriterium machen.
 
 ---
 

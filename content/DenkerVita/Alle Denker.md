@@ -643,6 +643,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Hans-Thomas Tillschneider|Hans-Thomas Tillschneider]]** — Islamwissenschaftler und AfD-Politiker, Chefideologe des als gesichert rechtsextremistisch eingestuften Landesverbands Sachsen-Anhalt, seit Oktober 2026 Landtagsvizepräsident; Ethnopluralist, Kreml-nah, nennt den Synagogenanschlag von Halle einen „Amoklauf“
 
+**[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Agrarökologe (Göttingen), meistzitierter Ökologe im deutschsprachigen Raum; sucht die Artenvielfalt in der Landschaft um den Acker und hält kleine Felder für wirksamer als das Biosiegel
+
 ## U
 
 ## V

@@ -42,7 +42,7 @@ Quelle: [Time is up: Die neuen Umwelt-Messungen für Sommer 2026](https://www.yo
 
 > *„Wer jünger ist, hat überhaupt keinen Maßstab mehr dafür, wie viel Leben früher wirklich unterwegs war. Die Luft war voller Eintagsfliegen, voller Schmetterlinge — unvorstellbar für heutige Verhältnisse."* [▶ 6:50](https://www.youtube.com/watch?v=W27dbdQlyNA&t=410)
 
-Benecke benennt das Phänomen als *Baseline Shift*: Wer nie eine Wiese voller Insekten erlebt hat, weiß nicht, was fehlt. Ein Professor der Universität Göttingen, den Benecke nicht nennt, zieht aus einer umfangreichen Studie den Schluss: „Die Landwirtschaft ist die Stellschraube." Kleinere, vielfältigere Felder würden helfen — aber die intensive Landwirtschaft mit ihren nicht abbaubaren Ackergiften zerstört selbst benachbarte Naturschutzgebiete, wie die Krefelder Studie erstmals nachwies *(Krefeld maß den Rückgang und ließ die Ursache offen; Pestizide in Schutzgebieten wies erst das DINA-Projekt 2021 nach → [[#Faktencheck|Faktencheck]])*.
+Benecke benennt das Phänomen als *Baseline Shift*: Wer nie eine Wiese voller Insekten erlebt hat, weiß nicht, was fehlt. Ein Professor der Universität Göttingen, dessen Namen Benecke nicht ausspricht, der aber auf seiner Folie steht, der Agrarökologe [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke]], zieht aus einer umfangreichen Studie den Schluss: „Die Landwirtschaft ist die Stellschraube." Kleinere, vielfältigere Felder würden helfen — aber die intensive Landwirtschaft mit ihren nicht abbaubaren Ackergiften zerstört selbst benachbarte Naturschutzgebiete, wie die Krefelder Studie erstmals nachwies *(Krefeld maß den Rückgang und ließ die Ursache offen; Pestizide in Schutzgebieten wies erst das DINA-Projekt 2021 nach → [[#Faktencheck|Faktencheck]])*.
 
 > [!note] Eigene Einschätzung
 > Der biologische Einstieg ist strategisch klug. Temperaturkurven sind abstrakt; ein leerer Friedhof ist fühlbar. Benecke nutzt seine Expertise als Biologe, um die Klimakrise von der Lebensgrundlage her aufzurollen — nicht von der Physik. Das macht den Vortrag auch für Menschen zugänglich, die bei „CO₂-Konzentration" abschalten.
@@ -159,7 +159,7 @@ Gleichzeitig werden Chemikalien freigesetzt, die bis zu 10.000-fach stärker sin
 > Die Klimamodelle der 1970er Jahre sagten den CO₂-Anstieg und die Erwärmung mit hoher Genauigkeit voraus. [Wallace Broecker, "Climatic Change: Are We on the Brink of a Pronounced Global Warming?", Science, 1975](https://www.science.org/doi/10.1126/science.189.4201.460)
 
 > [!success] Bestätigt — Bayerische Wiesen eintönigste Insektenhabitate
-> Studie der Universität Würzburg in Nature Communications, Januar 2026, belegt massive Homogenisierung der Insektenfauna im deutschen Grünland. [Nature Communications, 2026](https://www.nature.com/ncomms/)
+> Studie der Universität Würzburg in Nature Communications, Januar 2026, belegt massive Homogenisierung der Insektenfauna im deutschen Grünland. [Decker et al. 2026, *Nat. Commun.*, doi:10.1038/s41467-025-67612-9](https://doi.org/10.1038/s41467-025-67612-9)
 
 > [!warning] Vereinfacht — Wir befinden uns im Worst-Case-Szenario
 > Der Kern stimmt, das Etikett nicht. Die Erwärmung läuft schneller als erwartet: 1,5 °C wurden 2024 **3–7 Jahre früher** überschritten als in den CMIP6-Projektionen, die Beobachtungen liegen am oberen Rand der AR6-Bandbreite. Die *Emissionen* aber liegen **unter** SSP5-8.5, das der IPCC selbst als unwahrscheinlich einstuft; die neue Szenarien-Generation für CMIP7 hat es im April 2026 formell ausgemustert, weil die realen Emissionen seinen Annahmen nie folgten — das höchste neue Szenario endet um ~3,5 °C statt ~5 °C. Dass Förderstaaten „jeden Tropfen“ fördern wollen, ist eine Absicht, kein Emissionspfad. *(Korrigiert am 11.10.2026, vorher „Bestätigt“ mit Pauschalverweis auf AR6.)*
@@ -270,3 +270,7 @@ Wie sich der Maßstab festhalten lässt, den der Baseline Shift verschiebt: zwei
 ### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
 
 Die Windschutzscheibe, die Benecke für Jüngere unvorstellbar nennt, ist der erste Satz der Furtwängler-Doku; dort zeigt sich auch, was „kleinere, vielfältigere Felder“ als Mosaiklandschaft heißen und wer auf dem Acker den Preis dafür zahlt.
+
+### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+
+Der Göttinger Professor auf der Folie bei ▶ 7:36 ist Teja Tscharntke; bei Jung & Naiv entfaltet er das Programm, das Benecke in zwei Sätzen zitiert. Beim Hebel widerspricht er: nicht das gute Gewissen beim Einkauf, sondern die Wählerstimme.

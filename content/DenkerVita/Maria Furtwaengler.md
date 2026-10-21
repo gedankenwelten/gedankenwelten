@@ -134,6 +134,7 @@ Gegründet mit Tochter Elisabeth ([malisastiftung.org](https://malisastiftung.or
 - [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]] — Herrmann sucht das Problem in der Produktion, nicht im Konsum; Furtwängler endet beim Einkaufswagen und beim Balkon, verlangt aber auch, dass sich Naturschutz für Landwirte rechnen muss.
 
 ---
+- **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Mosaik statt Siegel: Er gibt ihrem Satz über Mosaiklandschaften die Zahlen und widerspricht ihrem „mehr Bio kaufen“.
 
 ## Gedankenwelten-Notes
 

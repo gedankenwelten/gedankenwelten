@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **21.10.** — [[Zeitgeist/Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+>
+> Kleine Felder retten mehr Arten als das Biosiegel, sagt einer der meistzitierten Ökologen der Welt. Warum es trotzdem kaum jemand tut, ist für ihn eine Frage der Wahl, nicht des Wissens.
+
 > **21.10.** — [[Zeitgeist/Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
 >
 > Drei Stunden Autobahn, fast kein Insekt auf der Scheibe. Maria Furtwängler sucht die Ursache und findet sie auf dem Acker — bei Bauern, die selbst nicht mehr weiterwissen.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
 
-> **17.10.** — [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner (re:publica Vienna)]]
->
-> Europa kehrt Palantir den Rücken und behält, was der Konzern mitgebracht hat: die Dauer-Rasterung aller Polizeidaten, nur mit anderem Logo.
-
-> → *4 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -84,6 +84,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **21.10.** — [[Panorama/Warum verschwinden die Insekten|Warum verschwinden die Insekten, und warum spricht kaum jemand darüber?]]
+>
+> Die Scheibe bleibt sauber, und kaum jemand redet darüber. Drei offene Fragen zum Schwund der Insekten: wie groß und wodurch, was wirklich hilft, und warum so wenig geschieht.
+
 > **20.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 >
 > Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
@@ -100,11 +104,7 @@ Die Gedankenwelten (luc)
 >
 > Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
 
-> **17.10.** — [[Panorama/Wer bringt das Falsche in Umlauf|Wer bringt das Falsche in Umlauf?]]
->
-> Alle Parteien sagen Falsches, aber nicht alle gleich oft und nicht zum selben Zweck. Vier offene Fragen dazu, was gemessen ist, was gewollt ist und wer die Prüfer prüft.
-
-> → *9 weitere in* [[Panorama]]
+> → *10 weitere in* [[Panorama]]
 
 ### Gedanken
 
