@@ -81,37 +81,19 @@ Der Unterschied liegt vielleicht darin, ob sie offen bleibt für das, was man un
 
 ---
 
-## Der Riss
-
-Bei mir ist das passiert.
-
-Meine eigene Prophezeiung, die von der Befreiung, hat beim Programmieren einen Riss bekommen. Ich habe so viel abgegeben, dass ich oberflächlich wurde. Es gab ein Feature, über das ich so gut wie nichts wusste. Ich konnte es nicht erklären. Nicht einmal, wie die Einstellungen funktionieren.
-
-Das hat mich nach unten gezogen. Und es hat an meinem Selbstverständnis als Programmierer gekratzt.
-
-Seitdem versuche ich, bei der Arbeit nicht mehr zu viel abzugeben. Die Erfahrung war lauter als die Prophezeiung.
-
----
-
 ## Warum es beim Denken anders ist
 
-Hier in den Gedankenwelten nutze ich die KI auch, zum Philosophieren, um ein Thema zu ergründen. Und hier erlebe ich das Verhältnis als ausgewogen. Ich bekomme Impulse, ich denke weiter, ich entscheide. Schon das Nachdenken mit einer anderen Instanz als der eigenen wirkt.
+Beim Programmieren lässt sich viel abgeben, ohne dass man es merkt. Code hat einen äußeren Test: Er läuft oder läuft nicht, und man kann ihn übernehmen, ohne ihn verstanden zu haben. Ein Gedanke hat keinen Compiler. Seine einzige Probe ist, ob er einen überzeugt, und das weiß man nur, wenn man ihn selbst gedacht hat. Die Unterscheidung stammt von Claude.
 
-Wahrscheinlich hängt das auch damit zusammen, dass ich mich im Denken schon immer für begabter gehalten habe als im Programmieren. Mit den Programmier-Nerds konnte ich mich nie vergleichen. In einer Diskussion fühle ich mich gleichwertig. Und wo man sich gleichwertig fühlt, gibt man nicht so leicht ab.
+Kleist hat um 1805 einen kleinen Aufsatz geschrieben, *Über die allmähliche Verfertigung der Gedanken beim Reden*. Der Gedanke, schreibt er, ist oft nicht fertig, bevor man spricht. Er entsteht beim Sprechen, mit einem Gegenüber, das dafür nicht einmal klüger sein muss. *L'idée vient en parlant.* Ein Gegenüber, das Antworten liefert, nimmt einem das Denken ab. Eines, das Impulse gibt, setzt es in Gang.
 
-Claude hat eine zweite Erklärung danebengestellt: Code hat einen äußeren Test, ein Gedanke nur einen inneren. Code läuft oder läuft nicht, man kann ihn übernehmen, ohne ihn verstanden zu haben. Ein Gedanke hat keinen Compiler. Die einzige Probe ist, ob er einen überzeugt, und das weiß man nur, wenn man ihn selbst gedacht hat.
+Dann hat Claude widersprochen: Auch „beim Denken gebe ich nicht ab“ sei eine kleine Prophezeiung. Die Probe ist einfach. Könnte man die Note von heute erklären, ohne sie aufzumachen?
 
-Kleist hat um 1805 einen kleinen Aufsatz geschrieben, *Über die allmähliche Verfertigung der Gedanken beim Reden*. Der Gedanke, schreibt er, ist oft nicht fertig, bevor man spricht. Er entsteht beim Sprechen, mit einem Gegenüber, das dafür nicht einmal klüger sein muss. *L'idée vient en parlant.* Das erlebe ich hier. Beim Programmieren habe ich Antworten genommen. Hier nehme ich Impulse.
+Die ehrliche Antwort ist nicht immer ja. Wer mit einer Maschine schreibt, liest das Ergebnis nicht mehr jedes Mal ganz, feilt seltener selbst an der Nuance und ändert lieber über das Gespräch als im Text.
 
-Dann hat Claude mir widersprochen. Auch „bei den Gedankenwelten passiert mir das nicht" sei eine kleine Prophezeiung. Und es stellte dieselbe Frage, die mich beim Programmieren erwischt hatte: Könnte ich die Note von heute erklären, ohne sie aufzumachen?
+Und doch muss das kein Verlust sein. Wer lange nicht geschrieben hat, bekommt im Gespräch einen Teil davon zurück. Es ähnelt dem Schreiben, nur mit einem direkten Impuls: Man wägt die Worte im Eingabefenster weniger ab, und manchmal antwortet das Gegenüber mit dem, was man schon wusste, aber nicht hingeschrieben hatte.
 
-Da hatte es mich.
-
-Ich lese die Notes meistens nicht einmal mehr ganz durch. Ich feile kaum noch selbst am Text. Früher, als ich noch geschrieben habe, habe ich viel Zeit damit verbracht, eine Nuance hinzuzufügen, die Sprache anzupassen. Das fällt hier fast ganz weg. Wenn ich etwas ändere, dann über Claude.
-
-Und doch fühlt es sich nicht an wie beim Programmieren. Ich habe seit Ewigkeiten nicht mehr geschrieben, und durch dieses Gespräch bekomme ich einen Teil davon zurück. Es ist dem Schreiben ähnlich, nur mit einem direkten Impuls. Ich lege Wert auf meine Worte, aber ich wäge sie im Eingabefenster nicht mehr ab. Manchmal antwortet Claude dann mit etwas, das mir schon bewusst war, das ich aber nicht hingeschrieben hatte. In einem eigenen Text hätte ich es ergänzt.
-
-Entscheidend ist für mich etwas anderes: dass mein Denken angeregt wird. Manchmal mehr, manchmal weniger.
+Entscheidend ist, ob das Denken angeregt wird. Manchmal mehr, manchmal weniger.
 
 > [!question] Weitergedacht
 > Wo nimmst du Antworten, wo Impulse — und woran merkst du den Unterschied, bevor es zu spät ist?
@@ -157,7 +139,7 @@ Ich habe das schon einmal aufgeschrieben, ohne es so zu nennen. Über einen alte
 ## Weiterdenken
 
 > [!question] Was übersehe ich?
-> - Ich halte mich im Denken für gleichwertig und im Programmieren nicht. *Ist das ein Befund — oder auch eine Prophezeiung über mich, die ich seit Jahren konsistent halte?*
+> - Beim Code gibt man leicht ab, beim Denken angeblich nicht. *Ist das ein Befund — oder auch eine Prophezeiung, die man konsistent hält, weil sie einem schmeichelt?*
 > - Wenn der Verlust nur von der Generation bemerkt wird, die ihn verursacht: *Wer sollte dann entscheiden, was bewahrt werden muss?*
 > - Mein Freund und ich sehen dieselbe Maschine und prophezeien Gegenteiliges. *Was würden wir sehen, wenn jeder einen Monat lang so arbeiten müsste wie der andere?*
 > - Wenn ein Gegenüber das Mittel gegen die eigene Prophezeiung ist: *Was geschieht mit einer Gesellschaft, deren bequemstes Gegenüber nie müde wird und nie etwas zu verlieren hat?*

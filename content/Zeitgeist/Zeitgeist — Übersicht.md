@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*347 Notes — automatisch generiert · nach Thema sortiert*
+*348 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -422,6 +422,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?]]
 - [[Zeitgeist/Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)|Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
 - [[Zeitgeist/Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)|Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)]]
+- [[Zeitgeist/Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]] — Kleine Felder retten mehr Arten als das Biosiegel, sagt einer der meistzitierten Ökologen der Welt. Warum es trotzdem kaum jemand tut, ist für ihn eine Frage der Wahl, nicht des Wissens.
 - [[Zeitgeist/Xavier Abu Eid — Was vom Voelkerrecht uebrig ist|Xavier Abu Eid — Was vom Völkerrecht übrig ist]] — Er hat alle Instanzen durchlaufen — Den Haag, Sicherheitsrat, Generalversammlung — und fragt heute, was ihm das Recht gebracht hat. Aufgeben will er es trotzdem nicht.
 
 <!-- ZEITGEIST:END -->
