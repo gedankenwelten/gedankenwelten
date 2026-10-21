@@ -298,6 +298,10 @@ Ein Fall für den Schlusssatz: Ein Riff vor Benin galt sechzig Jahre als tot, we
 
 Was „die richtige Messung“ im Kleinen heißt, ein Schnittmuster von 1983 und eine Waage, und welche Daten bis heute niemand erhebt, zeigt die Krefelder Insektenreihe.
 
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Wofür gemessen wird, zeigt die Furtwängler-Doku an drei Orten: Sensoren als Produkt auf einer kalifornischen Avocadofarm, ein Ehepaar, das am Randecker Maar fünfzig Jahre unbestellt Schwebfliegen zählt, und eine Stiftung, die zählt, wie viele Sendeminuten das Fernsehen der Biodiversität gibt.
+
 ---
 
 ## Weiterdenken

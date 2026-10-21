@@ -1220,3 +1220,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Martin Sorg
 **Status:** ✓ Vollanalyse → [[DenkerVita/Martin Sorg]]
+
+## Maria Furtwängler
+**Status:** ✓ Vollanalyse → [[DenkerVita/Maria Furtwaengler]]

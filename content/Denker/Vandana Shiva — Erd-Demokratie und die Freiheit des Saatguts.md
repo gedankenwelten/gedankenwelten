@@ -237,5 +237,9 @@ Die produktivste Reibung zu Shivas *production boundary*. Die Tropenökologin Fi
 
 Der innerindische Gegenpol. Shivas *Seed Freedom* denkt Gandhis Salz weiter — Swadeshi im Register des Korns; Prashad steht auf Ambedkars Seite und fragt beim Spinnrad und beim idealisierten Dorf zurück, wer dort unten bleibt. Ihre *production boundary* und seine erste Methodenfrage (*wem nützt es, wer trägt die Kosten*) richten sich gegen dieselbe Kennzahl, aber ihre Maßstäbe sind unvereinbar: Er trauert der geschlossenen Planungskommission nach und lobt staatliche Großkonzerne im Wettbewerb, sie sieht die extraktive Vernunft schon in der Großform selbst.
 
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Die Frage „Verhungern wir ohne Pestizide?“, die Shiva am Punjab zurückweist, stellt Maria Furtwängler der Agrarbiologin Angelika Hilbeck in Europa; die Note trägt nach, was Modellstudien zur Ertragslücke im Ökolandbau sagen.
+
 ---
 

@@ -266,3 +266,7 @@ Felix Goldbach und Robin Schmid erklären das lange Wegsehen mit gesätem Zweife
 ### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Wie sich der Maßstab festhalten lässt, den der Baseline Shift verschiebt: zwei Krefelder Entomologen mit vierzig Jahren gleich genähter Fallen und gewogener Proben. Dort steht auch, welche Studie den Pestizidnachweis in Schutzgebieten tatsächlich lieferte.
+
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Die Windschutzscheibe, die Benecke für Jüngere unvorstellbar nennt, ist der erste Satz der Furtwängler-Doku; dort zeigt sich auch, was „kleinere, vielfältigere Felder“ als Mosaiklandschaft heißen und wer auf dem Acker den Preis dafür zahlt.

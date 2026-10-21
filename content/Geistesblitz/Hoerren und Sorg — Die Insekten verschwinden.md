@@ -1,6 +1,6 @@
 ---
 title: "Hörren und Sorg — Die Insekten verschwinden"
-description: "Wem es draußen stiller vorkommt, der fragt: Liegt es am Wetter oder an einem Trend? Zwei Krefelder Entomologen über ein Zelt, eine Waage, vierzig Jahre gleicher Messung und den Streit um ihre Zahl."
+description: "Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt."
 aktualisiert: 2026-10-21
 date: 21.10.2026
 raetsel: "Dieselbe Flasche, dieselbe Wiese. Früher voll in einer Woche, heute in zwei."
@@ -49,7 +49,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Hörren und S
 </details>
 
 > [!abstract] Worum es geht
-> Wem es in diesem Jahr draußen stiller vorkam, weniger Vögel, weniger Gezwitscher, der fragt sich vielleicht, ob es am heißen, trockenen Sommer lag. Ohne es zu wissen, stellt er damit die Frage, um die Forscher seit 2017 streiten: Wetter oder Trend? Beantworten kann sie nur, wer Insekten fängt, wiegt und vierzig Jahre lang gleich misst. Thomas Hörren und Martin Sorg vom Entomologischen Verein Krefeld gehören zu den Autoren der „Krefelder Studie“ von 2017, die 76 Prozent weniger Insektenbiomasse in deutschen Schutzgebieten ermittelte und eine Debatte auslöste, die bis heute nachhallt. In zwei Gesprächen aus ihrer alten Vereinsbibliothek erklären sie, wie ihre Zahl entstanden ist: mit einem Zelt aus Stoff, einem Schnittmuster von 1983 und einer Waage. Und sie antworten ihren Kritikern, mit einer scharfen Unterscheidung zwischen Kritik und Agitation, die selbst eine Prüfung verdient. Der Auftakt unserer Reihe zum Insektensterben, einem Thema, das kaum noch eines ist.
+> Die Masse der fliegenden Insekten in deutschen Schutzgebieten ist zwischen 1989 und 2016 um drei Viertel geschrumpft. Das bestreitet keine Seite mehr, gestritten wird über das Warum. Wem es in diesem Jahr draußen stiller vorkam, weniger Vögel, weniger Gezwitscher, der fragt sich vielleicht, ob es am heißen, trockenen Sommer lag, und stellt damit dieselbe Frage wie die Forscher: Wetter oder Trend? Beantworten kann sie nur, wer Insekten fängt, wiegt und vierzig Jahre lang gleich misst. Thomas Hörren und Martin Sorg vom Entomologischen Verein Krefeld gehören zu den Autoren der „Krefelder Studie“ von 2017, die diesen Rückgang ermittelte und eine Debatte auslöste, die bis heute nachhallt. In zwei Gesprächen aus ihrer alten Vereinsbibliothek erklären sie, wie ihre Zahl entstanden ist: mit einem Zelt aus Stoff, einem Schnittmuster von 1983 und einer Waage. Und sie antworten ihren Kritikern, mit einer scharfen Unterscheidung zwischen Kritik und Agitation, die selbst eine Prüfung verdient. Der Auftakt unserer Reihe zum Insektensterben, einem Thema, das kaum noch eines ist.
 
 Quelle: [Gespräche zur Insektenforschung Teil 1 — Streit um Krefelder Studie? Agitation ist keine Kritik!](https://www.youtube.com/watch?v=eNoO3CKC3NM) (Juli 2025, 52 Min.) · [Teil 2 — Malaisefallen: 40 Jahre standardisierte Forschung in Krefeld](https://www.youtube.com/watch?v=vNMHUi4276I) (September 2025, 79 Min.) — beide auf Thomas Hörrens YouTube-Kanal
 
@@ -307,6 +307,10 @@ Zwei Fragen des wachsenden Panoramas bekommen hier einen Fall. „Wer bezahlt di
 ### → [[Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
 
 Dort sagt Margarita Hartlieb, die Biomasse könne steigen, während die Vielfalt kollabiert, etwa durch Klimagewinner wie Heuschrecken. Hörren hält dagegen, dass Biomasse und Artenzahl in den Fallen meist zusammengehen. Beides stimmt auf verschiedenen Ebenen; Settele zieht die Grenze am Tagfalter-Monitoring, wo die Biomasse leicht und die Artenzahl deutlich sinkt. Hier zeigt sich, warum die Krefelder die Waage für ein Maß halten und wo dieses Maß endet.
+
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Teil 2 der Reihe: Maria Furtwängler fährt dorthin, wo diese Note die Ursachenfrage offen lässt, auf den Acker, und stützt sich auf eine zweite ehrenamtliche Reihe, fünfzig Jahre Schwebfliegenzählung am Randecker Maar.
 
 ---
 

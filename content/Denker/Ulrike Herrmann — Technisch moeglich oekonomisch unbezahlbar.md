@@ -401,6 +401,10 @@ Gegen dieses China steht Spechts: Wo Herrmann Überinvestition und geschönte Za
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Grimm entwirft genau die Kette, die Herrmann durchrechnet: Sonnenstrom im Süden, Entsalzung, Elektrolyse, Import. Bei ihr wird daraus Wachstum, das sich vom CO2 löst, bei Herrmann sinkende Effizienz und damit Schrumpfen.
 
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Wie „Produktion statt Konsum“ an einem einzelnen Thema aussieht, zeigt die Furtwängler-Doku zum Insektensterben: Sie endet mit „mehr Bio kaufen“, obwohl ihr stärkster Moment ein Landwirt ist, der seine Produktion umstellt.
+
 ---
 
 ## Weiterdenken

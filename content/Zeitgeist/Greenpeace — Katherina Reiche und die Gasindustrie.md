@@ -333,6 +333,10 @@ Wie eine Wirtschaftsweise 2022 noch „nur die Diskussion“ über heimisches Fr
 
 Felix Goldbach rechnet Reiches Zahl vom „weggeworfenen Strom“ mit den Daten der Bundesnetzagentur nach: Die Summe stimmt, die Zuordnung nicht. Das Systemkosten-Argument im Kleinen.
 
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Ein Glyphosat-Fall mit Drehtür: In der Furtwängler-Doku verteidigt Matthias Berninger, früher grüner Staatssekretär im Landwirtschaftsministerium, heute Bayers Chef für Public Affairs und Nachhaltigkeit, den Wirkstoff.
+
 ---
 
 ## Weiterdenken

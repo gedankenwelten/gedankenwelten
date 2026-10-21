@@ -189,3 +189,7 @@ Kaczmarczyks Handelsbilanz-Kritik zeigt das System hinter den Rohstoffströmen, 
 ### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
 
 Van Tulleken folgt der Bohne bis ins Regal: Soja, Mais, Weizen und Reis werden zu billigen Pulvern zerlegt, aus denen ultra-verarbeitetes Essen entsteht. Die Rodung dafür lässt den „fliegenden Fluss" über dem Amazonas versiegen.
+
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Dass Futtersoja Wald frisst, ist das Gegenstück zu dem Einwand, der in der Furtwängler-Doku gegen eine pestizidfreie Landwirtschaft fällt („dann zerstören wir den Regenwald“); dort rechnet der Biobauer von Mackensen mit Futter und Verschwendung dagegen.

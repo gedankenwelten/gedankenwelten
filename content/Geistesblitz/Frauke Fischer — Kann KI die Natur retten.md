@@ -368,6 +368,10 @@ Die Mangrove, an der Fischer die nie gestellte Rechnung erklärt, wächst laut e
 
 Woher die Krefelder Zahl kommt, was sie misst (Biomasse fliegender Insekten in 63 Schutzgebieten) und warum ihre Autoren selbst der größeren Zahl misstrauen, erzählen sie in zwei Gesprächen.
 
+### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+
+Wie die Rechnung, die nie gestellt wird, auf einem bayerischen Acker aussieht, zeigt der konventionelle Landwirt Roland Koböck: fünf Hektar Blühfläche mit finanziellen Einbußen und der Satz „es muss sich rentieren“.
+
 ---
 
 ## Weiterdenken

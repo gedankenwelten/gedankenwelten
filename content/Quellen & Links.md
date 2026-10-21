@@ -5278,3 +5278,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Studie** | [Hallmann et al. 2017, PLOS ONE](https://doi.org/10.1371/journal.pone.0185809) · [Hallmann et al. 2025, Nature](https://doi.org/10.1038/s41586-024-08528-0) · [Müller et al. 2023, Nature](https://doi.org/10.1038/s41586-023-06402-z) |
 | **Notiz** | [[Hoerren und Sorg — Die Insekten verschwinden]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hoerren_Sorg_Krefeld_eNoO3CKC3NM_Transkript.txt` · `…_vNMHUi4276I_Transkript.txt` |
+
+## Maria Furtwängler / Das Ende der Insekten? (NDR)
+
+| | |
+|---|---|
+| **Doku** | [Das Ende der Insekten? — Maria Furtwängler auf Spurensuche](https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS84ZjZkY2M4Mi0xNzc3LTRhNzEtYmM3NS0yZTJjMDQ2MGRhZTI) — NDR *Expeditionen ins Tierreich*, Film von Anna Maria Behrends (2024) |
+| **Studie** | [MaLisa Stiftung — Klimawandel und Biodiversität: Was zeigt das Fernsehen?](https://malisastiftung.org/studien/klimawandel-und-biodiversitt-was-zeigt-das-fernsehen-was-wollen-die-zuschauerinnen) |
+| **Notiz** | [[Maria Furtwaengler — Das Ende der Insekten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Furtwaengler_Ende_der_Insekten_NDR_Transkript.txt` (+ VTT) |

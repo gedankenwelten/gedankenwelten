@@ -30,8 +30,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 30,
-   "aufrufe": 31
+   "leser": 31,
+   "aufrufe": 32
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 193,
-     "aufrufe": 241
+     "leser": 189,
+     "aufrufe": 236
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -340,8 +340,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 7,
-     "aufrufe": 8
+     "leser": 8,
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -374,11 +374,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 3,
      "aufrufe": 6
@@ -400,6 +395,11 @@
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 3,
      "aufrufe": 3
     },
@@ -544,11 +544,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
      "leser": 1,
      "aufrufe": 1
@@ -607,6 +602,11 @@
      "pfad": "/DenkerVita/Alle-Denker",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Andreas-Reckwitz",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -640,8 +640,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 30,
-     "aufrufe": 31
+     "leser": 31,
+     "aufrufe": 32
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -940,8 +940,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 66,
-     "aufrufe": 72
+     "leser": 67,
+     "aufrufe": 73
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1245,8 +1245,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 66,
-     "aufrufe": 72
+     "leser": 67,
+     "aufrufe": 73
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
