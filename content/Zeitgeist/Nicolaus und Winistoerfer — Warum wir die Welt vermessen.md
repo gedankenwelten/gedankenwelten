@@ -294,7 +294,7 @@ Zwei Anwendungsfälle des Hexagon-Versprechens, mit derselben Kehrseite: Grieche
 
 Ein Fall für den Schlusssatz: Ein Riff vor Benin galt sechzig Jahre als tot, weil das Echolot eine Form zeigte und kein Leben. Und einer für die Auswahlfrage: Die EU lässt große Unternehmen offenlegen, wie viel Kleidung sie vernichten, die Pakete aus Übersee bleiben ungezählt.
 
-### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Was „die richtige Messung“ im Kleinen heißt, ein Schnittmuster von 1983 und eine Waage, und welche Daten bis heute niemand erhebt, zeigt die Krefelder Insektenreihe.
 

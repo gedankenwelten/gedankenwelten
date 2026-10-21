@@ -152,7 +152,7 @@ Gleichzeitig werden Chemikalien freigesetzt, die bis zu 10.000-fach stärker sin
 ## Faktencheck
 
 > [!warning] Vereinfacht — „Die Krefelder Studie hat bewiesen, dass Ackergifte benachbarte Schutzgebiete töten“
-> Die Krefelder Studie (Hallmann et al. 2017) maß 76 % weniger Biomasse fliegender Insekten in 63 Schutzgebieten und nannte die Intensivierung der Landwirtschaft als plausible Ursache, wies sie aber nicht nach — ihr Modell konnte den Rückgang weder mit Wetter noch mit Landnutzung erklären. Pestizidrückstände in Insekten aus Schutzgebieten zeigte erst das DINA-Projekt (Brühl et al. 2021, mit Hörren und Sorg als Mitautoren). Ursache und Anteile sind bis heute umstritten (→ [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker#Wetter oder Trend?]]).
+> Die Krefelder Studie (Hallmann et al. 2017) maß 76 % weniger Biomasse fliegender Insekten in 63 Schutzgebieten und nannte die Intensivierung der Landwirtschaft als plausible Ursache, wies sie aber nicht nach — ihr Modell konnte den Rückgang weder mit Wetter noch mit Landnutzung erklären. Pestizidrückstände in Insekten aus Schutzgebieten zeigte erst das DINA-Projekt (Brühl et al. 2021, mit Hörren und Sorg als Mitautoren). Ursache und Anteile sind bis heute umstritten (→ [[Hoerren und Sorg — Die Insekten verschwinden#Wetter oder Trend?]]).
 > Quelle: Hallmann et al. 2017, *PLOS ONE* — [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809) · Brühl et al. 2021, *Scientific Reports* — [doi:10.1038/s41598-021-03366-w](https://doi.org/10.1038/s41598-021-03366-w)
 
 > [!success] Bestätigt — CO₂-Vorhersagen der 1970er
@@ -263,6 +263,6 @@ Die Große Grüne Mauer bestätigt Beneckes Einwand gegen die Aufforstung von be
 
 Felix Goldbach und Robin Schmid erklären das lange Wegsehen mit gesätem Zweifel und einer „fiesen Umgebung“. Beneckes Befund, dass die Daten seit 1975 offen lagen, ist die Gegenprobe dazu.
 
-### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Wie sich der Maßstab festhalten lässt, den der Baseline Shift verschiebt: zwei Krefelder Entomologen mit vierzig Jahren gleich genähter Fallen und gewogener Proben. Dort steht auch, welche Studie den Pestizidnachweis in Schutzgebieten tatsächlich lieferte.

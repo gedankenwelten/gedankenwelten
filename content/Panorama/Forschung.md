@@ -132,7 +132,7 @@ Was das Vertrauen von außen angreift, ist ebenfalls vermessen. Die Tabak-, die 
 
 <details><summary>Weitere Stimmen (12)</summary>
 
-- **[[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker#Kritik oder Agitation|Martin Sorg]]:** Kritik hat einen Datenbezug; wer gemessenen Daten etwas anderes zuschreibt, als sie zeigen, betreibt Agitation.
+- **[[Hoerren und Sorg — Die Insekten verschwinden#Kritik oder Agitation|Martin Sorg]]:** Kritik hat einen Datenbezug; wer gemessenen Daten etwas anderes zuschreibt, als sie zeigen, betreibt Agitation.
 - **[[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Warum Millionen es glauben|Robin Schmid und Felix Goldbach]]:** Niemand, der Mythen teilt, ist doof, die Umgebung ist fies; die Taktik war nie, vom Gegenteil zu überzeugen, sondern Zweifel zu säen.
 - **[[Alena Buyx — Gesellschaft NEU DENKEN#Der Verachtungsmarker|Alena Buyx]]:** Wer vorher weiß, welche Masche gleich kommt, kann ihr widerstehen; sie nennt das Inokulation und verbindet es mit Umgangsformen und Fehlerkultur.
 - **[[Renee DiResta — Invisible Rulers#Lösungsansätze Was tatsächlich helfen kann|Renée DiResta]]:** Faktenchecks lösen das Problem nicht, weil es eines von Identität und Vertrauen ist; helfen können Reichweitenregeln und Brückenbau.
@@ -219,7 +219,7 @@ Die Erkenntnistheorie hinter drei der vier Fragen: was Wissen ist, warum der Zwe
 ### → [[ARTE — Forschung Fake und faule Tricks|ARTE — Forschung, Fake und faule Tricks]]
 Die Werkstattgeschichte des gekauften Nichtwissens, von Tabak bis Bisphenol A.
 
-### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Forschung, die über Jahrzehnte niemand bestellt hat, und eine Grenze zwischen Kritik mit Datenbezug und Agitation, die selbst eine Prüfung verdient.
 

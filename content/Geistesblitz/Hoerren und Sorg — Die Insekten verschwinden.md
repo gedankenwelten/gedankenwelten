@@ -1,5 +1,5 @@
 ---
-title: "Hörren und Sorg — Die Krefelder Studie und ihre Kritiker"
+title: "Hörren und Sorg — Die Insekten verschwinden"
 description: "Wem es draußen stiller vorkommt, der fragt: Liegt es am Wetter oder an einem Trend? Zwei Krefelder Entomologen über ein Zelt, eine Waage, vierzig Jahre gleicher Messung und den Streit um ihre Zahl."
 aktualisiert: 2026-10-21
 date: 21.10.2026
@@ -13,6 +13,7 @@ tags:
   - landwirtschaft
   - year-2025
 aliases:
+  - Hörren und Sorg — Die Krefelder Studie und ihre Kritiker
   - Krefelder Studie
   - Hörren Sorg Malaisefallen
   - Insektenrückgang Krefeld
@@ -24,9 +25,9 @@ stimme:
     geliehen: "Klarheit ohne Partei für den Streit; für die Falle die Anschauung des Reporters, das Zelt, die Flasche, die Waage, bevor ein Argument kommt"
 ---
 
-# Hörren und Sorg — Die Krefelder Studie und ihre Kritiker
+# Hörren und Sorg — Die Insekten verschwinden
 
-![[assets/Hoerren-und-Sorg-Die-Krefelder-Studie-und-ihre-Kritiker-banner.jpg|1200]]
+![[assets/Hoerren-und-Sorg-Die-Insekten-verschwinden-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 

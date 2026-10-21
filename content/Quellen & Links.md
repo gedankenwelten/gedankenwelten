@@ -5276,5 +5276,5 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Video Teil 1** | [Gespräche zur Insektenforschung Teil 1 — Streit um Krefelder Studie? Agitation ist keine Kritik!](https://www.youtube.com/watch?v=eNoO3CKC3NM) |
 | **Video Teil 2** | [Gespräche zur Insektenforschung Teil 2 — Malaisefallen: 40 Jahre standardisierte Forschung in Krefeld](https://www.youtube.com/watch?v=vNMHUi4276I) |
 | **Studie** | [Hallmann et al. 2017, PLOS ONE](https://doi.org/10.1371/journal.pone.0185809) · [Hallmann et al. 2025, Nature](https://doi.org/10.1038/s41586-024-08528-0) · [Müller et al. 2023, Nature](https://doi.org/10.1038/s41586-023-06402-z) |
-| **Notiz** | [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]] |
+| **Notiz** | [[Hoerren und Sorg — Die Insekten verschwinden]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hoerren_Sorg_Krefeld_eNoO3CKC3NM_Transkript.txt` · `…_vNMHUi4276I_Transkript.txt` |

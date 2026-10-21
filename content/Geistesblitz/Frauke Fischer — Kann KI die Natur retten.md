@@ -364,7 +364,7 @@ Die unheimlichste Illustration des Satzes, der größte Wirtschaftssektor der We
 
 Die Mangrove, an der Fischer die nie gestellte Rechnung erklärt, wächst laut einer Science-Studie seit etwa 2010 wieder, vor allem weil weniger gerodet wurde. Am Viktoriasee zeigt der Sponsorenteil dieser Ausgabe ihren Eimer Sand im Gelände: Hänge, auf denen nach der Rodung nur Fels blieb.
 
-### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Woher die Krefelder Zahl kommt, was sie misst (Biomasse fliegender Insekten in 63 Schutzgebieten) und warum ihre Autoren selbst der größeren Zahl misstrauen, erzählen sie in zwei Gesprächen.
 

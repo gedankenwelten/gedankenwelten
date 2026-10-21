@@ -213,6 +213,6 @@ Der konkrete Gegenvorschlag zu Pöttingers 30×30-Kritik. Wo sie zeigt, dass Nat
 
 Welzers „Sedativ der Entpolitisierung“ ist dieselbe Diagnose der schrumpfenden Klimabewegung, von der anderen Seite gestellt.
 
-### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Wann Biomasse etwas über Vielfalt sagt und wann nicht, verhandeln die Krefelder Entomologen an ihren eigenen Daten.

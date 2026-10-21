@@ -120,5 +120,5 @@ Vollständige Liste: [ORCID 0000-0001-6406-2778](https://orcid.org/0000-0001-640
 
 ## Gedankenwelten-Notes
 
-- [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]] — Zwei Gespräche aus Hörrens Kanal (2025): das Zelt, die Waage, vierzig Jahre Standardisierung und der Streit um die Zahl.
+- [[Hoerren und Sorg — Die Insekten verschwinden]] — Zwei Gespräche aus Hörrens Kanal (2025): das Zelt, die Waage, vierzig Jahre Standardisierung und der Streit um die Zahl.
 - *Die Krefelder Studie wird außerdem erwähnt in:* [[Frauke Fischer — Kann KI die Natur retten]] · [[Mark Benecke — Fragerunde Time Is Up 2026]]

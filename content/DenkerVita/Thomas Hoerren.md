@@ -138,5 +138,5 @@ Vollständige Liste: [ORCID 0000-0003-4062-3707](https://orcid.org/0000-0003-406
 
 ## Gedankenwelten-Notes
 
-- [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]] — Zwei Gespräche aus Hörrens Kanal (2025): wie Malaisefallen messen, warum man Insekten wiegt und wie man datenbasierte Kritik von Agitation unterscheidet.
+- [[Hoerren und Sorg — Die Insekten verschwinden]] — Zwei Gespräche aus Hörrens Kanal (2025): wie Malaisefallen messen, warum man Insekten wiegt und wie man datenbasierte Kritik von Agitation unterscheidet.
 - *Die Krefelder Studie wird außerdem erwähnt in:* [[Frauke Fischer — Kann KI die Natur retten]] · [[Mark Benecke — Fragerunde Time Is Up 2026]]

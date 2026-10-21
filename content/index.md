@@ -48,7 +48,7 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
-> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker|Hörren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
 >
 > Wem es draußen stiller vorkommt, der fragt: Liegt es am Wetter oder an einem Trend? Zwei Krefelder Entomologen über ein Zelt, eine Waage, vierzig Jahre gleicher Messung und den Streit um ihre Zahl.
 

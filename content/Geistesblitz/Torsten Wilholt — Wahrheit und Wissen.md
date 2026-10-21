@@ -281,7 +281,7 @@ Das wachsende Panorama zur Forschung: Wilholts Fallibilismus steht dort bei der 
 ### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
 Wo Wilholt zeigt, dass Übereinstimmung mit den Tatsachen für Wissen nicht reicht, zeigt Bonhoeffer dasselbe für das Wahrsagen: Ein Satz kann stimmen und vor dieser Frage, an diesem Ort, trotzdem die Wirklichkeit verfehlen.
 
-### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Wie Mitteilung und prüfbarer Beleg in der Forschungspraxis auseinanderfallen: eine Schmetterlingsliste, der man glauben muss, gegen eine archivierte Malaise-Probe, die man neu befragen kann.
 
