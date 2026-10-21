@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **21.10.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
+>
+> Eine Technik, keine Lehre: die Empfindung im Körper beobachten, ohne zu reagieren. Weil jeder Augenblick neu entsteht, lässt sich darin in jedem neu wählen, sagt S.N. Goenka.
+
 > **20.10.** — [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
 >
 > Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
 
-> **14.10.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
->
-> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
-
-> → *3 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Alle Parteien sagen Falsches, aber nicht alle gleich oft und nicht zum selben Zweck. Vier offene Fragen dazu, was gemessen ist, was gewollt ist und wer die Prüfer prüft.
 
-> → *11 weitere in* [[Panorama]]
+> → *9 weitere in* [[Panorama]]
 
 ### Zeitgeist
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Fischschwarm braucht keinen Dirigenten: Uwe Krüger zeigt 2017, wie Leitmedien gleich klingen, ohne dass jemand lenkt — und neun Jahre später wird nachgeprüft, was davon trägt.
 
-> → *4 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Gedanken
 

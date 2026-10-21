@@ -3218,6 +3218,8 @@ tags:
 | **Diskurse** | [dhamma.org — Aufnahmen (Deutsch)](https://discourses.dhamma.org/recordings/discourses?languages%5Biso_code%5D=de&event_days%5Bshortcode%5D=) |
 | **Notiz** | [[Denker/S.N. Goenka — Vipassana]] |
 | **Transkripte** | `Gedankenwelten/Vipassana/Day01–Day11_Deutsch_Discourse_10day.txt` |
+| **Kurse** | [dhamma.org — Vipassana-Kurse in Deutschland](https://www.dhamma.org/de/schedules/schdvara) · [Teilnahmebedingungen](https://www.dhamma.org/de/about/code) |
+| **Buch** | William Hart: [*Die Kunst des Lebens*](https://www.genialokal.de/Suche/?q=9783423343381) (dtv) |
 
 ---
 

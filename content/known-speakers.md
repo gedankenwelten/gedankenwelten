@@ -753,7 +753,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ronen Steinke]]
 
 ## S.N. Goenka
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/S.N. Goenka]]
 
 ## Sandra Navidi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Sandra Navidi]]
