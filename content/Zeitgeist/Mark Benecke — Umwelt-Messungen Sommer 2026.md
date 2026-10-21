@@ -42,7 +42,7 @@ Quelle: [Time is up: Die neuen Umwelt-Messungen für Sommer 2026](https://www.yo
 
 > *„Wer jünger ist, hat überhaupt keinen Maßstab mehr dafür, wie viel Leben früher wirklich unterwegs war. Die Luft war voller Eintagsfliegen, voller Schmetterlinge — unvorstellbar für heutige Verhältnisse."* [▶ 6:50](https://www.youtube.com/watch?v=W27dbdQlyNA&t=410)
 
-Benecke benennt das Phänomen als *Baseline Shift*: Wer nie eine Wiese voller Insekten erlebt hat, weiß nicht, was fehlt. Professor an der Universität Göttingen zieht in der Studie den Schluss: „Die Landwirtschaft ist die Stellschraube." Kleinere, vielfältigere Felder würden helfen — aber die intensive Landwirtschaft mit ihren nicht abbaubaren Ackergiften zerstört selbst benachbarte Naturschutzgebiete, wie die Krefelder Studie erstmals nachwies.
+Benecke benennt das Phänomen als *Baseline Shift*: Wer nie eine Wiese voller Insekten erlebt hat, weiß nicht, was fehlt. Ein Professor der Universität Göttingen, den Benecke nicht nennt, zieht aus einer umfangreichen Studie den Schluss: „Die Landwirtschaft ist die Stellschraube." Kleinere, vielfältigere Felder würden helfen — aber die intensive Landwirtschaft mit ihren nicht abbaubaren Ackergiften zerstört selbst benachbarte Naturschutzgebiete, wie die Krefelder Studie erstmals nachwies *(Krefeld maß den Rückgang und ließ die Ursache offen; Pestizide in Schutzgebieten wies erst das DINA-Projekt 2021 nach → [[#Faktencheck|Faktencheck]])*.
 
 > [!note] Eigene Einschätzung
 > Der biologische Einstieg ist strategisch klug. Temperaturkurven sind abstrakt; ein leerer Friedhof ist fühlbar. Benecke nutzt seine Expertise als Biologe, um die Klimakrise von der Lebensgrundlage her aufzurollen — nicht von der Physik. Das macht den Vortrag auch für Menschen zugänglich, die bei „CO₂-Konzentration" abschalten.
@@ -150,6 +150,10 @@ Gleichzeitig werden Chemikalien freigesetzt, die bis zu 10.000-fach stärker sin
 ---
 
 ## Faktencheck
+
+> [!warning] Vereinfacht — „Die Krefelder Studie hat bewiesen, dass Ackergifte benachbarte Schutzgebiete töten“
+> Die Krefelder Studie (Hallmann et al. 2017) maß 76 % weniger Biomasse fliegender Insekten in 63 Schutzgebieten und nannte die Intensivierung der Landwirtschaft als plausible Ursache, wies sie aber nicht nach — ihr Modell konnte den Rückgang weder mit Wetter noch mit Landnutzung erklären. Pestizidrückstände in Insekten aus Schutzgebieten zeigte erst das DINA-Projekt (Brühl et al. 2021, mit Hörren und Sorg als Mitautoren). Ursache und Anteile sind bis heute umstritten (→ [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker#Wetter oder Trend?]]).
+> Quelle: Hallmann et al. 2017, *PLOS ONE* — [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809) · Brühl et al. 2021, *Scientific Reports* — [doi:10.1038/s41598-021-03366-w](https://doi.org/10.1038/s41598-021-03366-w)
 
 > [!success] Bestätigt — CO₂-Vorhersagen der 1970er
 > Die Klimamodelle der 1970er Jahre sagten den CO₂-Anstieg und die Erwärmung mit hoher Genauigkeit voraus. [Wallace Broecker, "Climatic Change: Are We on the Brink of a Pronounced Global Warming?", Science, 1975](https://www.science.org/doi/10.1126/science.189.4201.460)
@@ -259,3 +263,6 @@ Die Große Grüne Mauer bestätigt Beneckes Einwand gegen die Aufforstung von be
 
 Felix Goldbach und Robin Schmid erklären das lange Wegsehen mit gesätem Zweifel und einer „fiesen Umgebung“. Beneckes Befund, dass die Daten seit 1975 offen lagen, ist die Gegenprobe dazu.
 
+### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+
+Wie sich der Maßstab festhalten lässt, den der Baseline Shift verschiebt: zwei Krefelder Entomologen mit vierzig Jahren gleich genähter Fallen und gewogener Proben. Dort steht auch, welche Studie den Pestizidnachweis in Schutzgebieten tatsächlich lieferte.

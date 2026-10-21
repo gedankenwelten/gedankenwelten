@@ -734,3 +734,5 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[DenkerVita/Georgina Neitzel|Georgina Neitzel]] — Head of Innovation Lab (ERGO Group); Future-Studies-Praktikerin; Hype als systemische Kraft in Unternehmens-Innovation
 - [[DenkerVita/Raphael Iltisberger|Raphael Iltisberger]] — PAWLIK Consultants; Business Psychology + Future Research Methodologies; Hype und Organisationsentwicklung
 - [[DenkerVita/Suraj Yengde|Suraj Yengde]] — Dalit-Gelehrter (UPenn, zuvor Harvard/Oxford); *Caste Matters*; Dalitality, Kaste als globales Phänomen, Dalit–Black solidarity; liest Ambedkar als lebendigen Auftrag
+- [[DenkerVita/Thomas Hoerren|Thomas Hörren]] — Käferkundler, Vorsitzender des Entomologischen Vereins Krefeld; Mitautor der Krefelder Studie (2017) und der DINA-Arbeiten; Totholz, Artenkenntnis, Wissenschaftskommunikation; verteidigt die Studie gegen Agitation
+- [[DenkerVita/Martin Sorg|Martin Sorg]] — Entomologe (Hautflügler), seit 1987 ehrenamtlicher Kurator der Krefelder Sammlungen; standardisierte ab 1982 die Malaisefalle und das Wiegen der Insekten, aus seiner Messreihe wurde die Krefelder Studie

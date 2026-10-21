@@ -335,3 +335,6 @@ Ein aktueller Fall, wie Zweifel hergestellt wird, diesmal durch den staatlichen 
 
 Zwei Solar-Erklärer übertragen „Doubt is our product“ auf die Energiewende und verfolgen es bis zu Heartland und EIKE; der Faktencheck korrigiert, wie viel davon tatsächlich an Koch hängt. Die Nachbesprechung trägt nach, was die Forschung über Prebunking gegen diesen Zweifel weiß.
 
+### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+
+Wie das Verschieben vom Befund aufs Etikett heute im Agrarstreit klingt, und wo die Unterscheidung von Kritik und Agitation an ihre Grenze kommt, zeigt die Debatte um die Krefelder Studie.

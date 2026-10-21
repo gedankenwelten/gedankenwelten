@@ -5268,3 +5268,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Programm** | [Regierungsprogramm AfD Sachsen-Anhalt 2026](https://afd-lsa.de/wp-content/uploads/2026/07/AfD_Sachsen-Anhalt_Regierungsprogramm_2026_230726-web.pdf) · [100-Tage-Sofortprogramm](https://afd-lsa.de/wp-content/uploads/2026/07/100-Tage-Sofortprogramm.pdf) |
 | **Notiz** | [[Panorama/NoAfD]] · [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Siegmund_Ungeskriptet_Transkript.txt` (+ VTT) |
+
+## Thomas Hörren und Martin Sorg / Krefelder Studie
+
+| | |
+|---|---|
+| **Video Teil 1** | [Gespräche zur Insektenforschung Teil 1 — Streit um Krefelder Studie? Agitation ist keine Kritik!](https://www.youtube.com/watch?v=eNoO3CKC3NM) |
+| **Video Teil 2** | [Gespräche zur Insektenforschung Teil 2 — Malaisefallen: 40 Jahre standardisierte Forschung in Krefeld](https://www.youtube.com/watch?v=vNMHUi4276I) |
+| **Studie** | [Hallmann et al. 2017, PLOS ONE](https://doi.org/10.1371/journal.pone.0185809) · [Hallmann et al. 2025, Nature](https://doi.org/10.1038/s41586-024-08528-0) · [Müller et al. 2023, Nature](https://doi.org/10.1038/s41586-023-06402-z) |
+| **Notiz** | [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hoerren_Sorg_Krefeld_eNoO3CKC3NM_Transkript.txt` · `…_vNMHUi4276I_Transkript.txt` |

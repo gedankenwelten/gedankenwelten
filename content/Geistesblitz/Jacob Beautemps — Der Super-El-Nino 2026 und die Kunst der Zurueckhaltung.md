@@ -180,6 +180,10 @@ Die Kunst der Zurückhaltung als Berufsethos: Kornmeier beschreibt sein eigenes 
 
 Ein zweiter promovierter Wissenschaftler auf YouTube, der an der entscheidenden Stelle „ich weiß es nicht“ sagt, beim Atommüll der SMR, und die heutige Kostenlücke von Annahmen über das Jahr 2045 trennt. Seine Zurückhaltung im Inhalt bezahlt er allerdings nicht mit Reichweite, der Titel bleibt laut.
 
+### → [[Hoerren und Sorg — Die Krefelder Studie und ihre Kritiker]]
+
+Wie schwer sich Schwankung und Trend in einer biologischen Datenreihe trennen lassen, zeigt der Streit um die Krefelder Insektendaten: Wetter von Jahr zu Jahr gegen den Abstieg über Jahrzehnte.
+
 ---
 
 ## Weiterdenken

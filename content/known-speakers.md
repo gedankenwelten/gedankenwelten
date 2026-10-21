@@ -1214,3 +1214,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Uwe Krüger
 **Status:** ✓ Vollanalyse → [[DenkerVita/Uwe Krüger]]
+
+## Thomas Hörren
+**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Hoerren]]
+
+## Martin Sorg
+**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Sorg]]
