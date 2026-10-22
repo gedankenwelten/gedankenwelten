@@ -76,3 +76,4 @@ Quent ist parteilich ungebunden, aber klar demokratisch positioniert. Er forscht
 
 - [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]] — Quent als Experte: „Verherrlichung der Ohnmacht" und Irrationalität als AfD-Geschäftsmodell
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] — Systematische Entfaltung der Ohnmachtsthese: Fromms vier Reaktionsmuster, Löwensteins Faschismus-Definition, Clusteranalyse, Faschismus als Antwort auf die Klimakrise
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — die Ohnmachts-Clusteranalyse als Gegenstück zur Flucht der Mächtigen in die Kontrolle (Luc)

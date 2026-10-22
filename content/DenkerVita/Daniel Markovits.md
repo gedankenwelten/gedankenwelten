@@ -89,4 +89,5 @@ Markovits ist kein Marxist im engeren Sinne, obwohl er Marx ausgiebig zitiert �
 ## Gedankenwelten-Notes
 
 - [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025]] — Zweistündige Besprechung im NZ-Salon, Schwerpunkt Meritocracy Trap
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — die meritokratische Falle als ökonomische Seite der Elitenerziehung (Luc)
 

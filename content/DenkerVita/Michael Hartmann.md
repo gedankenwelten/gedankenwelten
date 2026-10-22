@@ -114,6 +114,7 @@ Hartmann versteht sich nicht als Ideolog, sondern als empirischer Soziologe. Sei
 - [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]] — achtzigminütiges Einzelgespräch (2026): die Langzeitstudie 1871 bis heute, die Medienelite als abhängige Elite, und der Befund, dass soziale Herkunft die Parteiprogramme schlägt
 - [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten zwischen Machtmissbrauch und Verantwortung]] — Hartmanns Machtdefinition im Streit mit zwei konkurrierenden Elitebegriffen
 - [[Denker/Martyna Linartas — Unverdiente Ungleichheit]] (erwähnt Hartmanns 80%-Erbschaftsthese)
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — Herkunft schlägt Parteibuch als Beleg für die Abschottung, die zweite Gestalt der Elitenerziehung (Luc)
 
 ---
 

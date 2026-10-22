@@ -66,7 +66,7 @@ Für Täter der Gegenwart, die allein handeln, wird die Frage oft mit „krank�
 - **[[Erich Fromm — Psychoanalyse des Faschismus#Der autoritäre Charakter Sadismus und Masochismus|Erich Fromm]]:** Der Wunsch, zu beherrschen und sich zu unterwerfen, ist eine Charakterstruktur, die erst bestimmte Umstände wecken.
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Täter Rädchen, nicht Bestien|Jens-Christian Wagner]]:** Die meisten Lager-Täter waren funktionierende Rädchen, die Brutalen die Ausnahme — und doch hielten sie sich mit Himmler für „anständig geblieben“.
 - **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Was man ausblenden kann|Felix Benneckenstein]]:** Holocaustleugnung im Kopf, obwohl der eigene Bruder mit Down-Syndrom zu den Gemeinten gehört hätte: Überzeugung und vollständiges Ausblenden gehen zusammen.
-- **[[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Gefangene des Systems|Luc]]:** Man muss kein Monster sein, um Monströses zu bewirken; die Täter sind auch Gefangene ihrer Formung, ohne dass sie das entschuldigt.
+- **[[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Gefangene des Systems|Luc]]:** Man muss kein Monster sein, um Monströses zu bewirken. Bei den Mächtigen greifen Formung, Auslese und Macht ineinander; sie sind Gefangene und Täter zugleich, und das Verstehen entschuldigt nichts.
 
 </details>
 

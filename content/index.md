@@ -46,6 +46,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **22.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
 > **22.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 >
 > Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
@@ -53,10 +57,6 @@ Die Gedankenwelten (luc)
 > **21.10.** — [[Panorama/Warum verschwinden die Insekten|Warum verschwinden die Insekten, und warum spricht kaum jemand darüber?]]
 >
 > Die Scheibe bleibt sauber, und kaum jemand redet darüber. Drei offene Fragen zum Schwund der Insekten: wie groß und wodurch, was wirklich hilft, und warum so wenig geschieht.
-
-> **18.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
 
 > **18.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 >
@@ -73,6 +73,20 @@ Die Gedankenwelten (luc)
 > **22.10.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
 >
 > Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
+
+### Gedanken
+
+> **22.10.** — [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
+>
+> Verstehen ist nicht entschuldigen. Wo Macht verroht, greifen drei Kräfte ineinander: eine Kindheit, die Härte lehrt, Systeme, die sie belohnen, und Macht, die sie verstärkt.
+
+> **17.10.** — [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
+>
+> Wenn wir über die Zukunft sprechen, beschreiben wir oft uns selbst. Eine Prophezeiung ist ein Selbstporträt, in die Zukunft gehängt — und wer sich über seine Haltung definiert, verteidigt mit ihr sich selbst.
+
+> **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
+>
+> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
 
 ### Zeitgeist
 
@@ -109,20 +123,6 @@ Die Gedankenwelten (luc)
 > **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
 >
 > Eine Ziffer von eins bis sechs entscheidet über Studienplätze und Selbstbilder. Ein Schulrat will sie abschaffen, ein Verbandspräsident gerechter machen, und beide sind sich in der Diagnose näher, als sie zugeben.
-
-### Gedanken
-
-> **17.10.** — [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
->
-> Wenn wir über die Zukunft sprechen, beschreiben wir oft uns selbst. Eine Prophezeiung ist ein Selbstporträt, in die Zukunft gehängt — und wer sich über seine Haltung definiert, verteidigt mit ihr sich selbst.
-
-> **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
->
-> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
-
-> **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
->
-> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später. Auf Umwegen. Verwandelt. Niemand erkennt ihn mehr als seinen.
 
 ### GoodNews
 

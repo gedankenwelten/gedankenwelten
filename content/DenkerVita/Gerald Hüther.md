@@ -107,3 +107,4 @@ Sein politisches Grundmotiv lässt sich als **anarcho-humanistisch** lesen: Mün
 ## Gedankenwelten-Notes
 
 - [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]] — Das ungeskriptet-Gespräch (April 2026): Selbstorganisation, Kohärenz, Subjekt-Objekt, Hierarchiekritik, DDR-Flucht
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — sein Bild vom Gehirn, das sich die Lösungen der Kindheit merkt, als Anschauung der Formung — mit ehrlichem Vermerk, dass das Kohärenz-Prinzip keine geprüfte Theorie ist (Luc)

@@ -80,3 +80,4 @@ Böhme vertritt keine explizit politische Position, argumentiert aber klar für 
 ## Gedankenwelten-Notes
 
 - [[Rebecca Boehme — So trickst du dein Gehirn aus]] — Scobel-Gespräch über Predictive Brain, Reappraisal, Psychedelika, Aufmerksamkeitsfreiheit
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — das Gehirn als Vorhersagemaschine: warum früh Gelerntes hartnäckig ist und sich doch umlernen lässt (Luc)

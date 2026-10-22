@@ -279,6 +279,8 @@ Und im Großen kennt Macht manchmal doch Namen. Es gibt die Mächtigen, deren Wu
 
 Das Dilemma bleibt. Was ich allein tue, wirkt erst, wenn es sich vervielfacht, und das habe ich nicht in der Hand. Aber es deshalb sein zu lassen, kann nicht die Lösung sein. Wir sind ein Tropfen im Meer, ja. Aber das Meer besteht aus nichts anderem.
 
+Darin liegt auch seine Stärke. Verantwortung, die in vielen kleinen Händen liegt, wirkt dezentral, und was dezentral ist, lässt sich schwer kontrollieren. Ein Mächtiger kann eine Behörde beugen, eine Zeitung kaufen, ein Gericht besetzen. Die Haltung von Millionen, die gelernt haben innezuhalten, zu prüfen und nicht mitzumachen, kann er nicht kaufen. Darum beginnt der Weg bei einer Bildung, die mehr lehrt als das Funktionieren, und bei Institutionen, die halten, wenn der Charakter der Mächtigen es nicht tut (→ [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Was uns bleibt|Gefangene des Systems — Was uns bleibt]]).
+
 Aus Haltung wird Bildung.<br>
 Aus Bildung wird Handeln.<br>
 Aus Handeln wird Macht, wenn die Hände einander stärken.
@@ -348,7 +350,7 @@ El-Mafaalani diagnostiziert, was den Funken erstickt: Vertrauen baut sich über 
 
 ### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 
-Die Diagnose, zu der diese Note die alltägliche Antwort liefert. Gefangene zeigt, wie Systeme Menschen deformieren — diese Note zeigt, dass die Auflösung nicht von außen kommt, sondern in jeder Begegnung neu beginnt. Die Geschichte vom langen Löffel, die hier im Eigenverantwortungs-Block trägt, stammt aus genau diesem Denkkreis.
+Die Diagnose, zu der diese Note die alltägliche Antwort liefert. Gefangene zeigt, wie Formung, Auslese und Macht ineinandergreifen, und endet bei den Hebeln, die bei uns liegen: Bildung, Institutionen und die vielen kleinen Hände — diese Note zeigt, dass die Auflösung nicht von außen kommt, sondern in jeder Begegnung neu beginnt. Die Geschichte vom langen Löffel, die hier im Eigenverantwortungs-Block trägt, stammt aus genau diesem Denkkreis.
 
 ### → [[Architekten des Lebendigen — Systeme die dem Leben dienen]]
 

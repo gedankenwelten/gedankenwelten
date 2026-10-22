@@ -92,3 +92,4 @@ Sein Gegner ist Jürgen Habermas — der größte Streit der deutschen Soziologi
 ## Gedankenwelten-Notes
 
 - [[scobel — Luhmann Abklaerung der Aufklaerung]] — Scobels Rekonstruktion der Antrittsvorlesung als Gegenwartsdiagnose
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — Autopoiesis und das Kind als Medium: warum es für die Formung harter Eliten keinen Architekten braucht (Luc)

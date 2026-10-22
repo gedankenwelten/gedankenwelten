@@ -103,3 +103,4 @@ Yu verortet sich selbst als antirassistische Aktivistin und linksliberal, kritis
 - [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
 - [[Denker/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
 - [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — die Neuropolitik der Entmenschlichung als Brücke von der Formung der Mächtigen zur Spirale in der Politik (Luc)

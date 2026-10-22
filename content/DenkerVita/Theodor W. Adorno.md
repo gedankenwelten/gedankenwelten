@@ -88,3 +88,4 @@ Adorno war Marxist in dem Sinne, dass er den Kapitalismus als strukturelles Grun
 ## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Zugängliche Einführung in Adornos Gesamtwerk
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — *Erziehung nach Auschwitz* als Wurzel einer Hypothese über Macht: Wer hart ist gegen sich, erkauft sich das Recht, hart gegen andere zu sein (Luc)

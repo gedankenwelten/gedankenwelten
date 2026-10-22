@@ -101,3 +101,4 @@ Seine politische Vision: eine Gesellschaft, in der **Mitbestimmung** in Arbeit u
 - [[Erich Fromm — Menschliches Wachstum]] — Der 1971er Vortrag aus der Reihe „Überdruss und Überfluss": Konsumkritik, autoritäre Moral, der „ewige Säugling"
 - [[Erich Fromm — Psychoanalyse des Faschismus]] — Das 1975er SWF-Gespräch: autoritärer Charakter, Milgram-Experiment, offene vs. anonyme Autorität, kategorischer Imperativ der Technik
 - [[Erich Fromm — Im Namen des Lebens]] — Das 1973er Gespräch mit Hans Jürgen Schultz: intellektuelle Autobiografie (Propheten, Marx, Bachofen, Buddhismus, Freud), Nekrophilie/Biophilie, die Wahrheit als einzige Pflicht des Intellektuellen
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — der autoritäre Charakter als eine Theorieschicht einer Hypothese über Formung, Auslese und Macht (Luc)

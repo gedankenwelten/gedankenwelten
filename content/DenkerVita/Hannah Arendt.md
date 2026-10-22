@@ -129,3 +129,4 @@ Derselbe Jahrgang 1906, dieselbe Leerstelle — und ein Streit über das Gegenmi
 - [[Hannah Arendt — Die Banalität des Bösen]]
 - [[Hannah Arendt — Zur Person]] — im Gespräch mit Günter Gaus, 1964 (zum 120. Geburtstag)
 - [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]] — das Hauptwerk, Dresden 2018 (zum 120. Geburtstag)
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — Banalität des Bösen, psychologisch erweitert — und Arendts Misstrauen gegen solche Erweiterungen als eingebauter Einwand (Luc)
