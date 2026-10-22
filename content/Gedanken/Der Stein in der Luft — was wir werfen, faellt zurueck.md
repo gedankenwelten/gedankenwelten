@@ -42,7 +42,7 @@ aliases:
 
 ## Der Stein in der Luft
 
-Matthieu Ricard hat einmal ein Bild gebraucht, das mich nicht mehr loslässt:
+Matthieu Ricard hat einmal ein Bild gebraucht, das mich nicht mehr loslässt. Barbara Bleisch hatte ihn gefragt, ob man im Buddhismus an seinem Karma arbeite, um im nächsten Leben höher geboren zu werden. Er antwortete:
 
 > *„Wenn ich einen Stein in die Höhe werfe, fällt er mir auf den Kopf. Wenn ich vergesse, dass ich den Stein geworfen habe, frage ich, warum mir ein Stein auf den Kopf gefallen ist.“* ([[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes#Karma: nicht Schicksal, sondern Ursache und Wirkung von Intentionen|Ricard]])
 
