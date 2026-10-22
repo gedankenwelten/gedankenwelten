@@ -5299,3 +5299,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vita** | [[DenkerVita/Teja Tscharntke]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Tscharntke_Artensterben_JungNaiv669_Transkript.txt` (+ VTT) |
 
+
+## AfD-Leak / KI-Zusammenfassung des Hackers (Spur, 22.10.2026)
+
+| | |
+|---|---|
+| **Video** | [IT-Mario — Das steht im AfD-Leak!](https://www.youtube.com/watch?v=_1rdaQH70bs) (21.10.2026) · [DerDara — Hacker veröffentlichen Hunderttausende AfD-Emails!](https://www.youtube.com/watch?v=3PiA5xZYPc4) (21.10.2026) |
+| **Presse** | [CORRECTIV](https://correctiv.org/aktuelles/afd/2026/10/21/afd-leak-datenleck-hexane-uebersicht/) · [ZDFheute](https://www.zdfheute.de/politik/afd-mails-leak-was-wir-wissen-was-nicht-100.html) · [t-online (Fälschungen)](https://www.t-online.de/nachrichten/deutschland/parteien/id_101491456/afd-leak-im-netz-werden-gefaelschte-mails-verbreitet.html) · [taz](https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/) · [heise](https://www.heise.de/news/Massenhaft-AfD-Daten-widerrechtlich-migriert-11493666.html) · [LTO](https://www.lto.de/recht/hintergruende/h/afd-leaks-parteiverbot-verbotsverfahren-verfassungsschutz-verwerbar) |
+| **Recht** | [Anwalt Jun — AfD-Datenleak kann zum Gamechanger im Verbotsverfahren werden](https://www.youtube.com/watch?v=qPalyxeWueU) (21.10.2026) |
+| **Notiz** | [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original]] |
+| **Hinweis** | Leak-Daten und Leak-Seite bewusst nicht abgerufen (Arbeitsregeln der Spur) |
