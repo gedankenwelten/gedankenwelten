@@ -42,7 +42,7 @@ aliases:
 
 ## Der Stein in der Luft
 
-Matthieu Ricard hat einmal ein Bild gebraucht, das mich nicht mehr loslässt. Barbara Bleisch hatte ihn gefragt, ob man im Buddhismus an seinem Karma arbeite, um im nächsten Leben höher geboren zu werden. Er antwortete:
+Matthieu Ricard hat einmal ein Bild gebraucht, das mich nicht mehr loslässt. [[DenkerVita/Barbara Bleisch|Barbara Bleisch]] hatte ihn in der [*Sternstunde Philosophie* gefragt](https://www.youtube.com/watch?v=CGlHR9hcb5A&t=1279), ob man im Buddhismus an seinem Karma arbeite, um im nächsten Leben höher geboren zu werden. Er antwortete:
 
 > *„Wenn ich einen Stein in die Höhe werfe, fällt er mir auf den Kopf. Wenn ich vergesse, dass ich den Stein geworfen habe, frage ich, warum mir ein Stein auf den Kopf gefallen ist.“* ([[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes#Karma: nicht Schicksal, sondern Ursache und Wirkung von Intentionen|Ricard]])
 
@@ -145,7 +145,7 @@ Wer einmal Menschen als Kosten gerechnet hat, rechnet beim zweiten Mal schneller
 
 Über seine fünfzehn Mitarbeiter sagt der Redner heute: *„Es war auch gut, dass alle gegangen sind.“* ([▶ 2:17](https://www.youtube.com/watch?v=hsvSN-KW4QE&t=137)) Wie leicht ihm dieser Satz damals gefallen wäre, weiß ich nicht.
 
-Goenka beschreibt das so: Jede Reaktion gräbt sich ein, und was sich eingegraben hat, kommt beim nächsten Mal schneller ([[Denker/S.N. Goenka — Vipassana#7. Die Sankhāra-Multiplikation — Banyan-Baum und Benzin|Goenka]]). Ricard meint dasselbe, wenn er sagt, dass Karma vor allem an der Absicht hängt. Der Stein trifft zuerst den Werfer, von innen.
+Goenka beschreibt das so: Jede Reaktion gräbt sich ein, und was sich eingegraben hat, kommt beim nächsten Mal schneller ([[Denker/S.N. Goenka — Vipassana#Die Raststätte auf halbem Weg|Goenka]]). Ricard meint dasselbe, wenn er sagt, dass Karma vor allem an der Absicht hängt. Der Stein trifft zuerst den Werfer, von innen.
 
 Darum geht die Rechnung auch dann auf, wenn der äußere Stein einen anderen trifft. Mein Kind. Einen Fremden. Einen, der nie geworfen hat.
 

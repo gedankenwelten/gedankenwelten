@@ -1,6 +1,6 @@
 ---
 title: Shi Heng Yi — DenkerVita
-description: "Shi Heng Yi, Gründer des Shaolin Tempel Europe, lehrte Selbstmeisterung, bis die Missbrauchsvorwürfe gegen seinen Abt ihn dazu brachten, Rolle und Meistertitel selbst abzustreifen."
+description: "Shi Heng Yi, leitender Meister des Shaolin Temple Europe, lehrte Selbstmeisterung, bis die Missbrauchsvorwürfe gegen seinen Abt ihn dazu brachten, Rolle und Meistertitel selbst abzustreifen."
 date: 2026-06-09
 tags:
   - denker-vita
@@ -31,11 +31,11 @@ aktualisiert: 2026-06-09
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Shi Heng Yi** (bürgerlich Tien Sy Vuong, *geb. 1983, Kaiserslautern*) — Shaolin-Meister und Gründer des Shaolin Tempel Europe in Otterberg, durch TEDx-Talks („5 hindrances to self-mastery") und Millionen Social-Media-Follower international bekannt.
+> **Shi Heng Yi** (bürgerlich Tien Sy Vuong, *geb. 1983, Kaiserslautern*) — leitender Meister des Shaolin Temple Europe in Otterberg, durch TEDx-Talks („5 hindrances to self-mastery") und Millionen Social-Media-Follower international bekannt.
 >
-> Aufgewachsen in einer vietnamesischen Familie, seit dem vierten Lebensjahr in der Kampfkunst. Mit 18 Ausbruch aus dem „Käfig" der strengen Erziehung — Studium in Münster und Rumänien, exzessive, teils kriminelle Jahre. 2001 erste Begegnung mit der offiziellen Shaolin-Delegation in Berlin, 2004 ordensrechtlich als „Shi Heng Yi" benannt. Rückkehr nach Deutschland, vor ~13 Jahren Gründung des Tempels. Die Geburt seines Sohnes und der Bruch mit seinem früheren Abt markieren die jüngste Wende: ein bewusstes Abstreifen der öffentlichen Rolle.
+> Aufgewachsen in einer vietnamesischen Familie, seit dem vierten Lebensjahr in der Kampfkunst. Mit 18 Ausbruch aus dem „Käfig" der strengen Erziehung — Studium in Münster und Rumänien, exzessive, teils kriminelle Jahre. 2001 erste Begegnung mit der offiziellen Shaolin-Delegation in Berlin, 2004 ordensrechtlich als „Shi Heng Yi" benannt. 2011 Rückkehr und Neuaufstellung des 1997 vom Abt gegründeten Klosters als Shaolin Temple Europe. Die Geburt seines Sohnes und der Bruch mit seinem früheren Abt markieren die jüngste Wende: ein bewusstes Abstreifen der öffentlichen Rolle.
 >
-> **Kontroverse Wendung (2024–2026):** Öffentlicher Bruch mit seinem langjährigen Abt und „Vater" (öffentlich „Monroe C."), der wegen jahrzehntelangen sexuellen Missbrauchs festgenommen und angeklagt wurde (Staatsanwaltschaft Kaiserslautern). Shi Heng Yi hat sich explizit distanziert und ein radikales Überdenken seiner Rolle und Identität eingeleitet. *(Es gilt die Unschuldsvermutung.)*
+> **Kontroverse Wendung (2024–2026):** Öffentlicher Bruch mit seinem langjährigen Abt und „Vater" (öffentlich „Monroe C."), der im Juni 2026 wegen des Verdachts auf sexuellen Missbrauch festgenommen wurde (Staatsanwaltschaft Kaiserslautern; eine Anklage ist bislang nicht bekannt). Shi Heng Yi hat sich explizit distanziert und ein radikales Überdenken seiner Rolle und Identität eingeleitet. *(Es gilt die Unschuldsvermutung.)*
 >
 > **Politische Einordnung:** Bewusst unpolitisch; Fokus auf persönlicher Transformation, mentaler Disziplin und dem Abstreifen von Ego und Rolle — keine ideologischen Positionen.
 
@@ -53,7 +53,7 @@ Mit etwa 18 brach Shi Heng Yi aus. Er studierte erst in Münster, dann in Rumän
 
 ### Rückkehr und Ordination
 
-2001 — Shi Heng Yi war Anfang zwanzig — hatte er in Berlin seinen ersten Kontakt mit der ersten offiziellen Delegation von Shaolin-Kriegermönchen, die nach Deutschland geschickt wurde. Die Wiederbegegnung mit der Kampfkunst unter authentischer Lineage zog ihn zurück. 2004 erhielt er von einem der fünf Mönche dieser Delegation seinen ordensrechtlichen Namen „Shi Heng Yi". Um 2010/2011 kehrte er nach Deutschland zurück und gründete den **Shaolin Tempel Europe** in Otterberg bei Kaiserslautern — ein Ort, an dem westliche Schüler Shaolin-Praxis erlernen können.
+2001 — Shi Heng Yi war etwa achtzehn — hatte er in Berlin seinen ersten Kontakt mit der ersten offiziellen Delegation von Shaolin-Kriegermönchen, die nach Deutschland geschickt wurde. Die Wiederbegegnung mit der Kampfkunst unter authentischer Lineage zog ihn zurück. 2004 erhielt er von einem der fünf Mönche dieser Delegation seinen ordensrechtlichen Namen „Shi Heng Yi". Um 2010/2011 kehrte er nach Otterberg zurück, an die Schule seiner Kindheit, die der spätere Abt 1997 als Kloster gegründet hatte, und stellte sie als **Shaolin Temple Europe** neu auf (GmbH seit 2011) — ein Ort, an dem westliche Schüler Shaolin-Praxis erlernen können.
 
 ### Die Zeit der Sichtbarkeit
 

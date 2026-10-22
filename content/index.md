@@ -22,6 +22,28 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
+>
+> Ein Shaolin-Meister legt die eigene Identität ab, Rolle um Rolle, bis zu dem Lehrer, den er Vater nannte und gegen den heute wegen Missbrauchs ermittelt wird.
+
+> **21.10.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
+>
+> Eine Technik, keine Lehre: die Empfindung im Körper beobachten, ohne zu reagieren. Weil jeder Augenblick neu entsteht, lässt sich darin in jedem neu wählen, sagt S.N. Goenka.
+
+> **20.10.** — [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
+>
+> Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
+
+> **16.10.** — [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen|Michael Hampe — Warum Debatten über KI und Willen trügen]]
+>
+> Der freie Wille lässt sich nicht glatt ins Chinesische übersetzen. Für Hampe ein Hinweis: Unsere Wörter für das Innere entdecken nichts, sie machen uns erst zu dem, was sie beschreiben.
+
+> **15.10.** — [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld — Warum schweigen die Lämmer?]]
+>
+> Wer über viele herrschen will, braucht ihre Angst: Mausfeld zeigt, wie aus Furcht vor etwas eine Angst ohne Gegenstand wird. Wo seine Analyse trägt und wo sie sich gegen jeden Einwand schließt.
+
 ### Spuren
 
 > **22.10.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
@@ -51,24 +73,6 @@ Die Gedankenwelten (luc)
 > Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
 
 > → *5 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **21.10.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
->
-> Eine Technik, keine Lehre: die Empfindung im Körper beobachten, ohne zu reagieren. Weil jeder Augenblick neu entsteht, lässt sich darin in jedem neu wählen, sagt S.N. Goenka.
-
-> **20.10.** — [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
->
-> Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
-
-> **16.10.** — [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen|Michael Hampe — Warum Debatten über KI und Willen trügen]]
->
-> Der freie Wille lässt sich nicht glatt ins Chinesische übersetzen. Für Hampe ein Hinweis: Unsere Wörter für das Innere entdecken nichts, sie machen uns erst zu dem, was sie beschreiben.
-
-> **15.10.** — [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld — Warum schweigen die Lämmer?]]
->
-> Wer über viele herrschen will, braucht ihre Angst: Mausfeld zeigt, wie aus Furcht vor etwas eine Angst ohne Gegenstand wird. Wo seine Analyse trägt und wo sie sich gegen jeden Einwand schließt.
 
 ### Geistesblitz
 
