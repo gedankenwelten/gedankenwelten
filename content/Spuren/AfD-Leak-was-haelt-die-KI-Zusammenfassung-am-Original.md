@@ -112,9 +112,12 @@ Kein Teil der These, aber festgehalten, weil die Fälschungen die Wahrnehmung de
 
 | Datum | Fälschung | Beleg |
 |---|---|---|
-| bis 21.10.2026 | Mail, nach der ein AfD-Politiker Hitlers Geburtstag nicht mehr tabuisieren will. Im baden-württembergischen Landtag von einem CDU-Abgeordneten zitiert, vom Genannten bestritten, **nicht im Datensatz**. DerDara eröffnet sein Video damit. | [t-online](https://www.t-online.de/nachrichten/deutschland/parteien/id_101491456/afd-leak-im-netz-werden-gefaelschte-mails-verbreitet.html) |
+| bis 21.10.2026 | Mail, nach der ein AfD-Politiker Hitlers Geburtstag nicht mehr tabuisieren will. Im baden-württembergischen Landtag von einem CDU-Abgeordneten zitiert, von der SPD Leverkusen in einem Instagram-Video gezeigt, vom Genannten bestritten, **nicht im Datensatz**. DerDara eröffnet sein Video damit. | [t-online](https://www.t-online.de/nachrichten/deutschland/parteien/id_101491456/afd-leak-im-netz-werden-gefaelschte-mails-verbreitet.html) |
 | bis 21.10.2026 | Mail über einen Hitlergruß mit einer erfundenen Antwort des Kölner Kreisvorsitzenden, der in Wahrheit den Ausschluss betrieb. | t-online |
 | bis 21.10.2026 | Instagram-Post eines Grünen-Abgeordneten mit drei erfundenen Zitaten, 140.000 Likes. | t-online |
+| bis 21.10.2026 | Eine echte Mail eines sächsischen Hotelbetreibers an Frauke Petry (2016) über Waffeneinsatz an der Grenze, in ganz anderem Wortlaut verbreitet. Der Mann wird seither angefeindet. | t-online |
+
+Wer die Fälschungen erfunden hat, ist offen; t-online konnte es nicht zurückverfolgen. Sie ahmen die Optik der ersten echten Screenshots nach (International Cyber Digest). Die SPD Leverkusen hielt laut [Junge Freiheit](https://jungefreiheit.de/politik/deutschland/2026/afd-leaks-cdu-spd-und-gruene-verbreiten-falschzitate-von-afd-politikern/) ihre Rücktrittsforderung auch nach Bekanntwerden der Fälschung aufrecht.
 
 Die AfD-Seite nutzt die Fälschungen, um das ganze Leak unglaubwürdig zu machen. Schatzmeister Gnauck: „ein paar Gigabyte unwichtiges Zeug“.
 
@@ -126,7 +129,7 @@ Die AfD-Seite nutzt die Fälschungen, um das ganze Leak unglaubwürdig zu machen
 ### 2026-10-22 — bei Eröffnung
 
 - **Wo ich Bestätigung verlange:** Das Material passt zu dem, was der Bestand über die AfD schon weiß ([[Moini und Chiofalo — GFF AfD-Verbotsgutachten|GFF-Gutachten]]). Es *fühlt* sich darum wahr an. Gerade das ist der Grund für eine Konfidenz unter siebzig: Passung ist kein Beleg.
-- **Wo ich abwehre:** Die Fälschungen kommen hier vor allem von der eigenen Seite des Spektrums (ein Linken-Berater, ein Grünen-Politiker). Die Versuchung ist, sie als Randnotiz kleinzumachen. Darum stehen sie oben in einer eigenen Tabelle.
+- **Wo ich abwehre:** Verbreitet haben die Fälschungen bisher Gegner der AfD: ein Grünen-Abgeordneter, die SPD Leverkusen, ein CDU-Abgeordneter. Das ist die Seite, auf der man sich hier gern sieht. Die Versuchung ist, sie als Randnotiz kleinzumachen. Darum stehen sie oben in einer eigenen Tabelle.
 - **Was ich nicht sehe:** Den Prompt des Hackers, die Auswahl der 39.000 aus 421.000 Mails und die Kriterien der Stufen. Die Zusammenfassung ist eine Black Box, die ihren Zweck offen nennt.
 - **Die eigene Werkzeug-Frage:** Wir sind selbst ein System, das mit KI liest und zusammenfasst. Wenn diese Spur zeigt, dass eine KI-Zusammenfassung in parteiischer Hand verzerrt, gilt das auch für uns.
 
@@ -145,6 +148,7 @@ Die AfD-Seite nutzt die Fälschungen, um das ganze Leak unglaubwürdig zu machen
 - taz: [Interne E-Mails öffentlich: AfD blamiert sich mit Datenleak](https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/)
 - heise: [Massenhaft AfD-Daten widerrechtlich migriert](https://www.heise.de/news/Massenhaft-AfD-Daten-widerrechtlich-migriert-11493666.html)
 - Borns IT-Blog: [AfD-Leak: 421.179 interne E-Mails abgezogen](https://borncity.com/blog/2026/10/20/afd-leak-421-179-interne-e-mails-abgezogen/) (20.10.2026)
+- Junge Freiheit: [AfD-Leaks: CDU, SPD und Grüne verbreiten Falschzitate von AfD-Politikern](https://jungefreiheit.de/politik/deutschland/2026/afd-leaks-cdu-spd-und-gruene-verbreiten-falschzitate-von-afd-politikern/) (21.10.2026; erste Meldung zur Keith-Fälschung, von t-online aufgegriffen)
 - Handelsblatt: [Hacker erbeuten offenbar Hunderttausende AfD-E-Mails](https://www.handelsblatt.com/politik/deutschland/parteien-hackerangriff-auf-e-mail-konten-der-afd/100263431.html)
 - nd: [Riesiger Leak](https://www.nd-aktuell.de/artikel/1203309.riesiger-leak-hackerangriff-auf-afd-hundertausende-mails-veroeffentlicht.html)
 - LTO: [Sind die AfD-Leaks in einem Verbotsverfahren verwertbar?](https://www.lto.de/recht/hintergruende/h/afd-leaks-parteiverbot-verbotsverfahren-verfassungsschutz-verwerbar)
