@@ -30,6 +30,16 @@ aliases:
 
 # Gefangene des Systems — Elitenerziehung und die Verrohung der Macht
 
+![[assets/Gefangene-des-Systems-Elitenerziehung-und-die-Verrohung-der-Macht-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Max Beckmann** — Triptychon in Öl, schwere schwarze Konturen, enge, flachgedrückte Räume, Kobalt, Schwefelgelb, Rot. Links die Formung: ein Junge in zu großer Kadettenuniform salutiert vor einer Wand, über ihm der Schatten eines Größeren. In der Mitte die Auslese: Viele kleine Hände reichen einem Mann mit Papierkrone und Maskengesicht den Schlüsselbund hinauf. Rechts die Abschottung: hinter Mauer und Gitterfenster das Leben der anderen, Brot, Kinder, Arbeit, das er nie zu sehen bekommt. Beckmann, weil er ein Leben lang Triptychen über Gefangene und Gekrönte gemalt hat, in Räumen, in denen Peiniger und Gepeinigte dieselbe Enge teilen — Gefangene und Täter zugleich. Eine vom Generator gesetzte Signatur wurde überdeckt.
+
+*Prompt:* Max Beckmann style oil painting, a wide triptych banner divided into three tall panels by thick black painted frames. Heavy black contour lines, flattened cramped space, intense colours: deep black, cobalt blue, acid yellow, flesh pink, dark red. Left panel: a narrow walled courtyard; a thin boy in an oversized stiff cadet uniform stands rigidly facing a grey wall, back to the viewer, one hand raised to his face hiding a tear; the long shadow of a large man falls over him. Centre panel: many small anonymous hands rise from a crowd at the bottom edge and pass a huge iron ring of keys upward to a tall stiff man in a dark suit and a paper crown on a narrow pedestal, his face a simple mask-like oval with closed eyes. Right panel: behind a high wall with a small barred window, glimpses of ordinary life he never sees: a woman carrying bread, children playing, a worker at a table, in warmer colours. Thick oil paint, visible brushwork. Mask-like simplified faces, no realistic faces, no text, no letters, no signature.
+
+</details>
+
 <details><summary>✒️</summary>
 
 **In Lucs Tonlage** — der Haussprache dieses Ortes, nachempfunden an seinen eigenen Texten. Geliehen: der ruhige Essayton: erzählen bei den Kindheiten, nüchtern bei den Belegen, die stille Landung bei uns.
