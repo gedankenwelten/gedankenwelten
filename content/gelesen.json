@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 844,
-   "aufrufe": 1001
+   "leser": 846,
+   "aufrufe": 1005
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -40,8 +40,8 @@
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 26,
-   "aufrufe": 29
+   "leser": 28,
+   "aufrufe": 32
   },
   {
    "pfad": "/DenkerVita/Christine-Dankbar",
@@ -55,8 +55,8 @@
   },
   {
    "pfad": "/DenkerVita/Carlo-Cipolla",
-   "leser": 16,
-   "aufrufe": 21
+   "leser": 17,
+   "aufrufe": 22
   },
   {
    "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 157,
-     "aufrufe": 199
+     "leser": 159,
+     "aufrufe": 202
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -319,13 +319,13 @@
      "aufrufe": 20
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 16,
-     "aufrufe": 17
+     "aufrufe": 20
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 14,
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 16,
      "aufrufe": 17
     },
     {
@@ -359,6 +359,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
      "leser": 5,
      "aufrufe": 5
@@ -370,11 +375,6 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 4,
      "aufrufe": 4
     },
@@ -549,11 +549,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "leser": 1,
      "aufrufe": 1
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Walther-Ziegler-Buddha-in-60-Minuten",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Foucault-in-60-Minuten",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 844,
-     "aufrufe": 1001
+     "leser": 846,
+     "aufrufe": 1005
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -650,8 +650,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 26,
-     "aufrufe": 29
+     "leser": 28,
+     "aufrufe": 32
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -665,8 +665,8 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 16,
-     "aufrufe": 21
+     "leser": 17,
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 899,
-     "aufrufe": 1076
+     "leser": 901,
+     "aufrufe": 1080
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -955,8 +955,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 29,
-     "aufrufe": 32
+     "leser": 31,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -985,8 +985,8 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 16,
-     "aufrufe": 21
+     "leser": 17,
+     "aufrufe": 22
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 899,
-     "aufrufe": 1076
+     "leser": 901,
+     "aufrufe": 1080
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1260,8 +1260,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 29,
-     "aufrufe": 32
+     "leser": 31,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -1290,8 +1290,8 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 16,
-     "aufrufe": 21
+     "leser": 17,
+     "aufrufe": 22
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
@@ -1535,13 +1535,13 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 24,
-     "aufrufe": 24
+     "leser": 25,
+     "aufrufe": 25
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 23,
-     "aufrufe": 23
+     "leser": 25,
+     "aufrufe": 25
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",

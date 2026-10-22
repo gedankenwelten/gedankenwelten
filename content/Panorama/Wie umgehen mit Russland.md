@@ -247,6 +247,9 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 
 ## Verbindungen
 
+### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]]
+Putins Kindheit und Aufstieg als Fall einer Hypothese über Formung, Auslese und Macht — mit dem Vorbehalt, dass fast alles darüber aus seiner eigenen, autorisierten Erzählung stammt.
+
 ### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
 
 Die Gründungsnote: Russland war nie isoliert, nur aus Europa betrachtet — und Isolieren allein ist keine Strategie.

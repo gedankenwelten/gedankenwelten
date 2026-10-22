@@ -219,6 +219,9 @@ Putin habe seinen Leuten gesagt: Wenn wir das nicht zu Ende bringen, war's das m
 
 ## Verbindungen
 
+### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]]
+Lucs Hypothese über Formung, Auslese und Macht nimmt Putin als fünften Fall — mit Baberowskis „Wir wissen nicht, wer entschieden hat“ als ausdrücklichem Einwand und seinem Diktatorendilemma als Bild für die Abschottung durch Macht.
+
 ### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 
 Zwei Kenner autoritärer Herrschaft mit derselben erkenntnistheoretischen Grundierung und einem echten Streit über deren Reichweite. Das Diktatorendilemma — der isolierte Despot, den nur noch drei, vier Leute erreichen, die wissen, dass sie ihn manipulieren können — ist die Anatomie derselben Führungsangst, die sie in Peking beschreibt; und die Diagnose, eine Eskalationsspirale bräuchte einen mächtigen Spieler von außen, der sie beendet, ist die stille Voraussetzung ihres ménage-à-trois-Arguments. Der Widerspruch ist methodisch. Wo hier steht, man wisse nicht, wer entschieden habe, die Ukraine anzugreifen, weil die Blackbox bewusst im Unklaren gehalten werde, traut sie sich zu, aus Fernsehprogrammen, Reserveaufbau und Marinemanövern zu lesen, was Peking denkt. Entweder ist sie gegen die Projektion immun, vor der hier gewarnt wird, oder sie tut genau das, nur besser belegt.

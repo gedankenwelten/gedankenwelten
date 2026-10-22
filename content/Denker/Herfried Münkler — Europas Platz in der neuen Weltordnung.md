@@ -299,6 +299,9 @@ Ein Kontinent, der eben noch auf der Speisekarte stand, ist am Ende der Rede der
 ## Verbindungen
 
 
+### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]]
+Was ein Mensch einem anderen antut, wenn er ihn zum Gegenstand macht, tut eine Großmacht einem kleinen Land an: Die Gefangene-Note verlängert ihre Entmenschlichungs-These auf Washington, Peking und Moskau — Carneys Satz vom Tisch und der Speisekarte inklusive.
+
 ### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
 
 Der Fall, an dem Münklers Diagnose politisch wird. Was er begrifflich beschreibt — das Dritte zwischen Krieg und Frieden, für das Grotius keine Kategorie vorsah —, spricht der deutsche Innenminister am 1. September 2026 aus: kein Krieg, aber tägliches Ziel hybrider Kriegsführung. Auch seine These, Sabotage ziele auf Unzufriedenheit statt auf Schaden, findet dort ihre Anschauung. Der Unterschied liegt im Rezept: Münkler will Hierarchisierung und eigene Abschreckung, die ZDF-Runde bilanziert bescheidener, dass Europa überhaupt noch da ist.
