@@ -152,6 +152,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
 
+**[[DenkerVita/Donald Trump|Donald Trump]]** — Immobilienerbe, Fernsehstar, 45. und 47. US-Präsident; der Sohn, aus dem ein „killer“ werden sollte; Vergeltung als Programm, Rolle als Identität
+
 **[[DenkerVita/Ray Dalio|Ray Dalio]]** — Investor, Gründer von Bridgewater Associates; der große Schuldenzyklus (~80 Jahre) und der Aufstieg und Fall von Weltmächten, die fünf großen Kräfte, „Idea Meritocracy" — mechanistischer Blick auf Geschichte, mit blindem Fleck bei China
 
 **[[DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung
@@ -173,6 +175,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Dietmar Dath|Dietmar Dath]]** — Schriftsteller, Journalist und Übersetzer (*1970; Spex-Chefredakteur, FAZ), marxistischer Science-Fiction-Romancier; Verschwendung als Überschuss, Produktion statt bloßer Verteilung, Science Fiction als Denkmaschine; *Die Abschaffung der Arten*, *Maschinenwinter*, *Niegeschichte*, *Gentzen*
 
 ## E
+
+**[[DenkerVita/Elon Musk|Elon Musk]]** — Unternehmer (SpaceX, Tesla, X, xAI), DOGE 2025; verändert oder enthüllt? Die Härte ist seit den Neunzigern belegt, neu sind Richtung, Bühne und Reichweite
 
 **[[DenkerVita/Ernst Tugendhat|Ernst Tugendhat]]** — Philosoph (1930–2023), aufgewachsen in der Villa Tugendhat in Brünn, Exil in Venezuela, Heidegger-Hörer und später sein Kritiker; holte die sprachanalytische Philosophie nach Deutschland; Moral ohne Metaphysik, Egozentrizität und Selbstrelativierung; *Vorlesungen über Ethik* (1993), *Egozentrizität und Mystik* (2003)
 
@@ -518,6 +522,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Pankaj Mishra|Pankaj Mishra]]** — indischer Essayist, Romancier und Ideenhistoriker (*1969, Jhansi); autodidaktischer postkolonialer Kritiker des westlichen Liberalismus, schreibt für LRB/NYRB; Kernthese in *Age of Anger* (2017): das Ressentiment als Signatur der Moderne, die globale Wut als Erbe des gebrochenen Aufklärungsversprechens (Rousseau gegen Voltaire); *From the Ruins of Empire* (2012), *The World After Gaza* (2025)
 
+**[[DenkerVita/Peter Thiel|Peter Thiel]]** — Investor (PayPal, Palantir, Facebook), libertärer Denker; „freedom and democracy are compatible“ nicht mehr; Monopol, Girard, Ausstieg aus der Demokratie
+
 **[[DenkerVita/Vijay Prashad|Vijay Prashad]]** — indischer Historiker, Journalist und Marxist (*1967, Kolkata); Direktor von Tricontinental: Institute for Social Research, Chefredakteur LeftWord Books; die Dritte Welt als *Projekt* statt als Ort (*The Darker Nations*, 2007), Hyperimperialismus, „neue Stimmung im Globalen Süden“, Kerala als gelebtes Beispiel — quellenreich nach außen, umstritten wegen seiner Haltung zu China, Syrien und Venezuela
 
 ## Q
@@ -683,6 +689,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Ulrike Winkelmann|Ulrike Winkelmann]]** — Journalistin (geb. 1971 Wiesbaden), seit 2020 Chefredakteurin der *taz* (mit Barbara Junge, seit 2025 im Trio mit Katrin Gottschalk), vorher Parlamentskorrespondentin, Politikchefin beim *Freitag*, Deutschlandfunk-Redakteurin; sozialpolitischer Blick, Kolumne „Ernsthaft?“, Podcast „Bundestalk“, Moderatorin der taz Talks
 
+**[[DenkerVita/Willy Brandt|Willy Brandt]]** — Bundeskanzler 1969–1974, Friedensnobelpreis 1971; unehelich, Arbeitermilieu, Exil; der Kniefall von Warschau — die Gegenprobe in Gefangene des Systems
+
+**[[DenkerVita/Wladimir Putin|Wladimir Putin]]** — russischer Präsident seit 2000, ehemaliger KGB-Offizier; die Leningrader Straße, Dresden 1989, der Angriffskrieg; Quellenlage über sein Inneres dünn
+
 **[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — Menschenrechtsanwalt, Gründer und Generalsekretär des ECCHR, Anwalt Edward Snowdens; transnationale Prozessführung gegen Straflosigkeit (Abu Ghraib, Argentiniens Militärs), Menschenrechte als „konkrete Utopie“, Kritik am „zweierlei Maß“ des westlichen Völkerstrafrechts
 
 **[[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
@@ -692,6 +702,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Isabella Weber|Isabella Weber]]** — Ökonomin (UMass Amherst), Theoretikerin der Verkäuferinflation und strategischer Preiskontrollen, die Wirtschaftspolitik als Schutz der Demokratie gegen den Rechtsextremismus denkt
 
 ## X
+
+**[[DenkerVita/Xi Jinping|Xi Jinping]]** — Generalsekretär der KP Chinas seit 2012; Kaderkind, Kulturrevolution, Liangjiahe; der Partei treu, die den Vater verstieß; Machtkonzentration ohne Amtszeitgrenze
 
 ## Y
 

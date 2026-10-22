@@ -97,6 +97,8 @@ Im Frühjahr 1959 entdeckte Fred Trump, dass sein dreizehnjähriger Sohn Messer 
 
 Was zu Hause wartete, beschreibt seine Nichte Mary Trump, klinische Psychologin, die mit der Familie ums Erbe streitet; beides gehört zur Quelle. Fred Sr. wollte, dass sein Sohn „a killer“ wird, ein harter Kerl. Den Ältesten, Fred Jr., der lieber Pilot war als Immobilienmann, setzte er herab, bis der zerbrach. Fred Jr. trank, verlor seine Fliegerlaufbahn und starb 1981 mit zweiundvierzig an einem Herzinfarkt, den der Alkohol verursacht hatte. Donald sah zu. Er lernte daraus, so Mary Trump, keine Traurigkeit zu zeigen, keine Schwäche, keine Freundlichkeit (*Too Much and Never Enough*, 2020). Den ersten Teil ihres Buches hat sie „The Cruelty Is the Point“ überschrieben.
 
+→ [[DenkerVita/Donald Trump|DenkerVita]]
+
 ### Musk — der Junge, der zum Vater zog
 
 Als die Eltern sich trennten, war Elon Musk etwa acht. Er blieb zunächst bei der Mutter. Mit zehn zog er zum Vater nach Lone Hill bei Johannesburg, freiwillig, weil ihm der Mann leidtat: „He seemed very sad and lonely … I thought, I can be company.“ Und dann: „It was not a good idea.“ ([*Rolling Stone*, 2017](https://web.archive.org/web/2017id_/http://www.rollingstone.com/culture/features/elon-musk-inventors-plans-for-outer-space-cars-finding-love-w511747))
@@ -106,6 +108,8 @@ Was folgte, hat Walter Isaacson aus vielen Stimmen zusammengetragen (*Elon Musk*
 Als ihn der *Rolling Stone* 2017 nach dem Vater fragte, sagte Musk: „He was such a terrible human being … Almost every evil thing you could possibly think of, he has done.“ Er weinte dabei. Neil Strauss, der das Gespräch führte, sah darin einen Mann, der seine Gefühle früh hatte unterdrücken müssen.
 
 Mit siebzehn ging er nach Kanada, nach eigener Aussage auch, um nicht in der Armee des Apartheidstaats dienen zu müssen. 2021 sagte er bei *Saturday Night Live*, er habe das Asperger-Syndrom; eine Diagnose ist nicht veröffentlicht. Der Satz, mit dem er im Februar 2025 bei Joe Rogan Schlagzeilen machte, ist politisch gemeint: „The fundamental weakness of Western civilization is empathy“, Empathie als Schwachstelle, die andere ausnutzen. Kurz davor hatte er gesagt: „I believe in empathy.“ Den verbliebenen Twitter-Beschäftigten schrieb er im November 2022, sie müssten „extremely hardcore“ sein, lange Stunden mit hoher Intensität; wer nicht zustimme, bekomme drei Monatsgehälter Abfindung.
+
+→ [[DenkerVita/Elon Musk|DenkerVita]]
 
 ### Thiel — der Junge, der die Gegenlehre zog
 
@@ -119,15 +123,19 @@ In Stanford gründete er 1987 die *Stanford Review*, gegen einen neuen Lehrplan,
 
 Und immer wieder der Tod. Thiel sagte 2006 der Methuselah Foundation 3,5 Millionen Dollar für die Alternsforschung zu, investierte in Unity Biotechnology und ließ sich für die Kryokonservierung anmelden. Mit Parabiose, dem Blut junger Menschen, wolle er sich „beschäftigen“, sagte er 2016 ([Inc.](https://www.inc.com/jeff-bercovici/peter-thiel-young-blood.html)); Transfusionen sind nicht belegt, und auf die Gerüchte antwortete er später: „I'm not a vampire.“
 
+→ [[DenkerVita/Peter Thiel|DenkerVita]]
+
 ### Xi — der Junge, der beiseite trat
 
 Xi Jinping kam 1953 in Peking zur Welt, als Sohn von Xi Zhongxun, einem Revolutionsveteranen und späteren Vizepremier. Er besuchte die Bayi-Schule, ein Internat für Kinder hoher Militärs. Am Wochenende, erzählte er 2014, hätten die Eltern die anderen Kinder abgeholt. Er sei ins Wohnheim zurückgegangen.
 
-1962 fiel der Vater. Der Anlass war ein Roman über den Revolutionär Liu Zhidan, den Xi Zhongxun gefördert hatte; Kang Sheng, Maos Sicherheitschef, erklärte ihn zum parteifeindlichen Werk. Xi war neun. Ab 1965 musste der Vater in einer Maschinenfabrik in Luoyang arbeiten, in der Kulturrevolution wurde er auf Kampfsitzungen vorgeführt und von 1968 bis 1975 fast völlig isoliert festgehalten. Im Januar 1967 wurde die Bayi-Schule gestürmt. In diesen Jahren erhängte sich Xis Halbschwester Xi Heping an ihrer Militärakademie (Joseph Torigian, *The Party's Interests Come First*, 2025). Als Xi davon erfuhr, grub er gerade an einem Luftschutzbunker. Er ging beiseite, damit niemand ihn weinen sah.
+1962 fiel der Vater. Der Anlass war ein Roman über den Revolutionär Liu Zhidan, den Xi Zhongxun gefördert hatte; Kang Sheng, Maos Sicherheitschef, erklärte ihn zum parteifeindlichen Werk. Xi war neun. Ab 1965 musste der Vater in einer Maschinenfabrik in Luoyang arbeiten, in der Kulturrevolution wurde er auf Kampfsitzungen vorgeführt und von 1968 bis 1975 fast völlig isoliert festgehalten. Im Januar 1967 wurde die Bayi-Schule gestürmt. In diesen Jahren erhängte sich Xis Halbschwester Xi Heping an ihrer Militärakademie (Joseph Torigian, *The Party's Interests Come First*, 2025). Als Xi davon erfuhr, grub er gerade an einem Luftschutzbunker, so Torigian. Er ging beiseite, damit niemand ihn weinen sah. Evan Osnos erzählt es anders, Xi habe aus einem Brief vom Tod der Schwester erfahren; wie sie starb und wann er es erfuhr, ist nicht sicher überliefert.
 
 Im Januar 1969, mit fünfzehn, wurde er als „gebildeter Jugendlicher“ nach Liangjiahe geschickt, in ein Dorf in Shaanxi, wo die Stadtjugend von den armen Bauern lernen sollte. Er floh nach Peking, wurde aufgegriffen und musste einige Monate in einem Arbeitslager Gräben ausheben. Dann kehrte er zurück, auf Drängen von Tante und Onkel, und blieb sieben Jahre. Er sei viermal eingesperrt und auf mehr als einem Dutzend Kampfsitzungen gemaßregelt worden, sagte er später. 1975 ging er an die Tsinghua-Universität.
 
 Hier liegt die Wendung, die seine Geschichte so schwer lesbar macht. Xi wandte sich nicht gegen die Partei, die seinen Vater gestürzt hatte und in deren Kampagnen seine Schwester starb. Er bewarb sich immer wieder um Aufnahme, wurde 1974 Mitglied, stieg in ihr auf und führt sie heute mit mehr Macht als jeder seit Mao. Alfred L. Chan hat das Kapitel über seine Jugend „Privilege and Trauma“ genannt (*Xi Jinping*, Oxford 2022). Der China-Kenner Kerry Brown liest Xi dagegen als Mann des Glaubens, getragen von nationaler Überzeugung und Treue zur Partei (*Xi: A Study in Power*, 2022). Die beiden Lesarten schließen einander nicht aus. Die zweite erinnert aber daran, dass ein Trauma nicht jede Überzeugung erklärt.
+
+→ [[DenkerVita/Xi Jinping|DenkerVita]]
 
 ### Putin — der Junge, der zuerst zuschlagen lernte
 
@@ -146,6 +154,8 @@ Der KGB wurde sein Internat, die geschlossenste Institution, die die Sowjetunion
 Nach oben kam er als Loyaler. Als Jelzins Umfeld 1999 einen Nachfolger suchte, schrieb die Politologin Lilija Schewzowa, er sei ausgewählt worden, weil er dem Präsidenten und der „Familie“ treu erscheine ([Carnegie](https://carnegieendowment.org/europe/events/1999/08/russias-latest-prime-ministerial-shuffle-and-its-conflict-with-dagestan)). Und einmal, bei der Siegeskundgebung auf dem Manegeplatz im März 2012, liefen ihm vor Zehntausenden Tränen übers Gesicht. „Das war der Wind“, sagte er ([RIA](https://ria.ru/20120305/584582855.html)).
 
 Wie viel davon Formung ist und wie viel Rolle, weiß niemand. Der Gewalthistoriker Jörg Baberowski warnt ausdrücklich davor, in Putin hineinzulesen, was man über ihn zu wissen meint: „Wir wissen nicht, wer entschieden hat, die Ukraine anzugreifen“ ([[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie#Stalin als Symbol, Putin als Blackbox|Baberowski]]). Diese Warnung gilt für diese ganze Note.
+
+→ [[DenkerVita/Wladimir Putin|DenkerVita]]
 
 ### Was die fünf verbindet — und was nicht
 
@@ -171,9 +181,11 @@ Willy Brandt kam 1913 in Lübeck als Herbert Frahm zur Welt, unehelich. Die Mutt
 
 Im Juni 1923 streikten die Arbeiter bei Dräger. Ein Direktor schenkte dem hungrigen Neunjährigen zwei Brote. Der Großvater ließ sie zurückbringen: „Ein streikender Arbeiter nimmt kein Geschenk vom Arbeitgeber an. Wir wollen unser Recht, keine Geschenke.“ Der Junge trug sie stolz zurück ([Willy-Brandt-Biografie](https://www.willy-brandt-biografie.de/wegbegleiter/e-g/frahm-ludwig/)). Aus der Not wurde hier keine Härte. Es wurde Würde daraus, gelernt an einem Menschen, der ihn hielt.
 
-1933 floh er auf einem Fischerboot nach Norwegen, wurde ausgebürgert, floh 1940 weiter nach Schweden. Zwölf Jahre lebte er als Fremder unter Fremden. Zurück in Deutschland hing ihm die Herkunft nach: Adenauer nannte ihn im Wahlkampf 1961 „Brandt alias Frahm“, und Strauß fragte: „Was haben Sie zwölf Jahre lang draußen gemacht? Wir wissen, was wir drinnen gemacht haben.“ Am 7. Dezember 1970 kniete Brandt als Bundeskanzler vor dem Denkmal für die Helden des Warschauer Ghettos. Später schrieb er: „Am Abgrund der deutschen Geschichte und unter der Last der Millionen Ermordeten tat ich, was Menschen tun, wenn die Sprache versagt“ (*Erinnerungen*, 1989).
+1933 floh er auf einem Fischerboot nach Dänemark und von dort weiter nach Oslo, wurde ausgebürgert, floh 1940 weiter nach Schweden. Zwölf Jahre lebte er als Fremder unter Fremden. Zurück in Deutschland hing ihm die Herkunft nach: Adenauer nannte ihn im Wahlkampf 1961 „Brandt alias Frahm“, und Strauß fragte: „Was haben Sie zwölf Jahre lang draußen gemacht? Wir wissen, was wir drinnen gemacht haben.“ Am 7. Dezember 1970 kniete Brandt als Bundeskanzler vor dem Denkmal für die Helden des Warschauer Ghettos. Später schrieb er: „Am Abgrund der deutschen Geschichte und unter der Last der Millionen Ermordeten tat ich, was Menschen tun, wenn die Sprache versagt“ (*Erinnerungen*, 1989).
 
 Brandt und Putin waren beide Arbeiterkinder, beide früh in der Enge, beide in einem Hinterhof der großen Geschichte. Was lag dazwischen? Die Forschung hat für den einen Weg einen Namen: *altruism born of suffering*. Leid kann auch Mitgefühl hervorbringen. Je schwerer das Erlebte, desto mehr fühlen Menschen im Mittel mit und desto eher helfen sie ([Lim & DeSteno 2016, doi:10.1037/emo0000144](https://doi.org/10.1037/emo0000144), zwei Studien). Ervin Staub und Johanna Vollhardt haben gesammelt, was diesen Weg wahrscheinlicher macht: ein Mensch, der sich kümmert, Hilfe, die man selbst erfahren hat, Vorbilder, die anderen beistehen, und das Verstehen dessen, was die Täter antrieb ([Staub & Vollhardt 2008, doi:10.1037/a0014223](https://doi.org/10.1037/a0014223), Übersichtsarbeit). Brandt hatte einen Großvater, der ihm Würde statt Härte beibrachte, eine Bewegung, in der Solidarität etwas galt, und ein Exil, in dem er selbst der Fremde war, die Abschottung, umgekehrt. Beweisen lässt sich das nicht. Aber es ist genau der Unterschied, den die Hypothese voraussagt.
+
+→ [[DenkerVita/Willy Brandt|DenkerVita]]
 
 > [!question] Weitergedacht
 > Thiel und Xi erlebten Härte und zogen entgegengesetzte Lehren: Freiheit von jeder Ordnung, Treue zu der Ordnung, die verletzt hatte. *Wenn die Formung nicht bestimmt, was einer glaubt, sondern wie hart — ist dann die Härte selbst das Gefährliche, gleich in welche Richtung sie zeigt?*

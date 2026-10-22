@@ -1226,3 +1226,21 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Teja Tscharntke
 **Status:** ✓ Vollanalyse → [[DenkerVita/Teja Tscharntke]]
+
+## Donald Trump
+**Status:** ✓ Vollanalyse → [[DenkerVita/Donald Trump]]
+
+## Elon Musk
+**Status:** ✓ Vollanalyse → [[DenkerVita/Elon Musk]]
+
+## Peter Thiel
+**Status:** ✓ Vollanalyse → [[DenkerVita/Peter Thiel]]
+
+## Wladimir Putin
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wladimir Putin]]
+
+## Xi Jinping
+**Status:** ✓ Vollanalyse → [[DenkerVita/Xi Jinping]]
+
+## Willy Brandt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Willy Brandt]]
