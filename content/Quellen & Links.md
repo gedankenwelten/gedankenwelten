@@ -1593,9 +1593,11 @@ tags:
 | **Video 1 (Grenzgänger / Tahir Chaudhry)** | [Die Fortsetzung. Die Enthüllung.](https://www.youtube.com/watch?v=GgDNc6tBsXc) |
 | **Video 2 (Hotel Matze)** | [Über Rückbesinnung, genug sein und gute Lebensführung](https://www.youtube.com/watch?v=5Vt6xygiiEI) |
 | **Video 3 (SRF Sternstunde Religion)** | [Wie lerne ich Selbstbeherrschung?](https://www.youtube.com/watch?v=B-DXt1oCKuU) |
+| **Video 4 (Grenzgänger 2023, Gegenlesung)** | [Darf ich nachfragen, Shi Heng Yi? (23.01.2023)](https://www.youtube.com/watch?v=9BMUpD6Eo-Y) — das erste Gespräch, Verteidigung des Abts |
+| **Stellungnahme** | [Shaolin Temple Europe, 16.09.2026 (PDF)](https://www.shaolintemple.eu/uploads/Interne%20News/Statement%20C_de:eng.pdf) |
 | **Notiz** | [[Denker/Shi Heng Yi — Aufloesung der Identitaet]] |
 | **DenkerVita** | [[DenkerVita/Shi Heng Yi]] |
-| **Transkripte** | `ShiHengYi_Grenzgaenger_Fortsetzung_Transkript.txt` · `ShiHengYi_Rueckbesinnung_Transkript.txt` · `ShiHengYi_SRF_Selbstbeherrschung_Transkript.txt` |
+| **Transkripte** | `ShiHengYi_Grenzgaenger_Fortsetzung_Transkript.txt` · `ShiHengYi_Rueckbesinnung_Transkript.txt` · `ShiHengYi_SRF_Selbstbeherrschung_Transkript.txt` · `ShiHengYi_Grenzgaenger_2023_Transkript.txt` |
 
 ## Wertewesten (Heinrich & Reicher) — Kampf gegen Russenpropaganda? (#32)
 
