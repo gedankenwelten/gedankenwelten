@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 853,
-   "aufrufe": 1015
+   "aufrufe": 1016
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 133,
-     "aufrufe": 172
+     "leser": 130,
+     "aufrufe": 171
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -325,8 +325,8 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 12,
-     "aufrufe": 13
+     "leser": 11,
+     "aufrufe": 12
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -349,17 +349,17 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 5,
      "aufrufe": 7
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 5,
      "aufrufe": 5
     },
@@ -589,6 +589,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
      "leser": 1,
      "aufrufe": 1
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Walther-Ziegler-Buddha-in-60-Minuten",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Walther-Ziegler-Foucault-in-60-Minuten",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 853,
-     "aufrufe": 1015
+     "aufrufe": 1016
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 910,
-     "aufrufe": 1092
+     "aufrufe": 1094
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 910,
-     "aufrufe": 1092
+     "aufrufe": 1094
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",

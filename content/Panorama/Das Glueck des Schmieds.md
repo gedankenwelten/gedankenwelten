@@ -2,7 +2,7 @@
 title: "Das Glück des Schmieds"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-10-15
+aktualisiert: 2026-10-23
 description: "Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft."
 panorama-art: wachsend
 tags:
@@ -119,19 +119,23 @@ In den USA verdienten vom Jahrgang 1940 rund 90 Prozent mehr als ihre Eltern, vo
 
 Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der OECD brauchen die Nachkommen einer Familie aus den unteren zehn Prozent in Deutschland sechs Generationen bis zum Durchschnittseinkommen, in Dänemark zwei ([OECD 2018, doi:10.1787/9789264301085-en](https://doi.org/10.1787/9789264301085-en)). Von hundert Kindern aus Akademikerfamilien beginnen 78 ein Studium, aus anderen Familien 25, wenn die Eltern keinen Berufsabschluss haben, acht, und das auch bei gleichen Noten ([DZHW 2024](https://www.dzhw.eu/services/meldungen/detail?pm_id=1640)). Und selbst der Entschluss, seines Glückes Schmied zu sein, ist ungleich verteilt. Wer weiter unten steht, hat im Schnitt ein geringeres Gefühl, sein Leben zu steuern ([Kraus, Piff & Keltner 2009, doi:10.1037/a0016357](https://doi.org/10.1037/a0016357)); bei Jugendlichen hängt dieses Gefühl stärker am Familieneinkommen als an Bildung oder Beruf der Eltern ([Shifrer 2018, doi:10.1177/2156869318754321](https://doi.org/10.1177/2156869318754321)), und es sagt den späteren Erfolg am Arbeitsmarkt voraus ([Cobb-Clark 2015, doi:10.1186/s40172-014-0017-x](https://doi.org/10.1186/s40172-014-0017-x)).
 
+Am oberen Ende hält das Glück der Geburt über Jahrhunderte. Von den 1.032 größten deutschen Vermögen des Jahres 2019 gehen rund acht Prozent auf die Reichenlisten von 1913 zurück, über zwei Weltkriege und drei Währungsreformen hinweg ([Tisch & Ischinsky 2023, doi:10.1177/23780231231192774](https://doi.org/10.1177/23780231231192774)); in England hängt das Vermögen von Familien noch über fünf Generationen zusammen ([Clark & Cummins 2015, doi:10.1111/ecoj.12165](https://doi.org/10.1111/ecoj.12165)), und in Florenz sind die Nachfahren der Reichen von 1427 heute noch messbar reicher ([Barone & Mocetti 2021, doi:10.1093/restud/rdaa075](https://doi.org/10.1093/restud/rdaa075)). In Schweden erklären Erbschaften mindestens die Hälfte der Ähnlichkeit zwischen dem Vermögen von Eltern und Kindern, Einkommen und Bildung nur ein Viertel ([Adermon, Lindahl & Waldenström 2018, doi:10.1111/ecoj.12535](https://doi.org/10.1111/ecoj.12535)). Die Philosophie streitet, was daraus folgt. Ronald Dworkin und G. A. Cohen wollten ausgleichen, was einem ohne eigenes Zutun zustößt ([Cohen 1989, doi:10.1086/293126](https://doi.org/10.1086/293126)); Elizabeth Anderson hielt dagegen, eine Gleichheit, die jedes Pech prüft und entschädigt, demütige die Entschädigten, ihr Ziel sei, dass niemand über den anderen herrscht ([Anderson 1999, doi:10.1086/233897](https://doi.org/10.1086/233897)). Wer erfährt, wie viel Vermögen ererbt ist, hält den Zufall danach für wichtiger als die Anstrengung ([Bastani & Waldenström 2021, doi:10.1111/ecca.12359](https://doi.org/10.1111/ecca.12359)).
+
 **Die Stimmen**
 
 - **Luc**, im Gespräch: Handlungsmacht ist kein Ort, sondern eine Abfolge. Zuerst kommt der eigene Entschluss, zu wissen, was man will; für die Umsetzung zählen dann Netzwerk, Geld, Staat und Zufall. *„Zufall wird Wahrscheinlichkeit mit Ziel und Handlung.“*
 - **[[Lukas Baerfuss — Die Fesseln der eigenen Herkunft#Das Glück, das kein Verdienst ist|Lukas Bärfuss]]:** Vom Obdachlosen zum Büchner-Preisträger, und doch: *„Ich würde nicht behaupten, dass das alles durch meinen Willen und durch meine Kraft geschehen ist. Überhaupt nicht.“*
 - **[[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi]]:** Vom Flüchtlingsraum in Amman zum Nobelpreis, und seine Lehre ist die Gegenrede zu Bärfuss: *„Man kriegt nichts geschenkt, aber das stärkt die Resilienz und letztlich zahlt sich die harte Arbeit aus.“* In seiner Erzählung treten dann doch auffallend viele Helfer auf.
+- **[[Studio Bonn — Extremer Reichtum#Das Glück abschaffen|Marlene Engelhorn]]:** Als Erbin will sie *„das Glück abschaffen“*, weil man damit auch das Pech abschafft; heute belohne man die, die Glück haben, und bestrafe die, die Pech haben.
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]:** Nicht Geschlecht oder Migrationshintergrund sollten über Quoten entscheiden, sondern die soziale Herkunft; wer mit Migrationsgeschichte oben ankommt, ist fast immer Akademikerkind.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Womit soll ich dich überraschen?|Dietmar Dath]]:** *„Wir steigen in dieses Monopoly nicht bei Runde 1 ein, sondern bei Runde 70“*, und gemessen wird, wie viele ein Medikament bezahlen können, nicht wie viele es brauchen.
-- **[[Tiana Travels — Das amerikanische Betriebssystem#Temporarily Embarrassed Millionaires|Tiana Travels]]:** Wer sich als vorübergehend zurückgefallen sieht, als *temporarily embarrassed millionaire*, schützt die Reichen vorsorglich.
 - **[[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Falle — Warum niemand rauskommt|Die Neuen Zwanziger]]:** Mit Markovits: *„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selber.“*
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Die junge Generation — Aufstieg ohne Zukunft|Götz Aly]]:** Weimar verdreifachte die Zahl der Abiturienten, dann brach die Wirtschaft zusammen; aus der enttäuschten Aufsteigergeneration kamen die Funktionäre der NSDAP.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
+- **[[Tiana Travels — Das amerikanische Betriebssystem#Temporarily Embarrassed Millionaires|Tiana Travels]]:** Wer sich als vorübergehend zurückgefallen sieht, als *temporarily embarrassed millionaire*, schützt die Reichen vorsorglich.
+- **[[Studio Bonn — Extremer Reichtum#Woher es kommt Erbe und Dynastie|Fabian Pfeffer]]:** Selbstgemachte Milliardäre gibt es nicht, jedes große Vermögen ruht auf Schulen, Gerichten und ausgebildeten Menschen; *„ich kenne keinen Millionär“*, der mit der Alleinerziehenden mit zwei Jobs tauschen will.
 - **[[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus#Das blockierte Leben|Carolin Amlinger]]:** Eine Karriere, die für das Aufstiegsversprechen steht, und doch das Gefühl, *„im Leben fundamental blockiert zu sein“*.
 - **[[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten#Soziale Durchlässigkeit — die erste Generation ohne Aufstiegsversprechen|Petersdorff und Seydack]]:** Die Jahrzehnte der Leichtigkeit waren Jahrzehnte der Durchlässigkeit; jetzt kommt die erste Generation, die es nicht besser haben wird als die Eltern.
 - **[[ARTE Re — Wenn Arbeiter Chefs werden#Mehr arbeiten für das gleiche Geld|ARTE Re]]:** Marilyn wird die 56. Anteilseignerin ihrer Genossenschaft, sie verdient den Mindestlohn und strahlt: Arbeit, die einem mitgehört.
@@ -152,10 +156,14 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 | 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi — Die Welt retten mit Chemie?]] | Der amerikanische Traum aus Gewinnersicht, als Gegenstimme zu Bärfuss |
 | 08.10.2026 | [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Nachbesprechung|Dath und Schmitt — Verschwendung als Möglichkeit?]] | Weniger Arbeit als Köder? Arbeitslosigkeit nach 1973, Work-Sharing (Hunt, Chemin & Wasmer), Keynes, Vier-Tage-Woche (Fan et al. 2025) |
 | 15.10.2026 | [[Martin Oetting — Happy Planet Index 2026#Nachbesprechung|Martin Oetting — Happy Planet Index 2026]] | Arbeiten wir zu wenig? Die ökologische Seite: kürzere Arbeitszeit, kleinerer Fußabdruck (Knight, Rosa & Schor 2013), Modell Cieplinski et al. 2021; Abdallahs Gegenrechnung zur „Lifestyle-Teilzeit“ |
+| 23.10.2026 | [[Studio Bonn — Extremer Reichtum#Nachbesprechung|Studio Bonn — Extremer Reichtum]] | Wessen Glück: Engelhorns „das Glück abschaffen“ zwischen Glücks- und Beziehungsgleichheit (Cohen 1989, Anderson 1999), Vermögen über Generationen (Tisch & Ischinsky 2023, Clark & Cummins 2015, Barone & Mocetti 2021, Adermon et al. 2018), Salienz des Erbes (Bastani & Waldenström 2021) |
 
 ---
 
 ## Verbindungen
+
+### → [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+Wo das Glück der Geburt in Euro gemessen wird: was man erben darf und ob Reichtum eine Grenze braucht.
 
 ### → [[Panorama/Fortschritt|Fortschritt]]
 Das Versprechen, dass es besser wird, im Großen: was mit Institutionen geschieht, die auf ein Versprechen gebaut sind, das sie selbst nicht mehr glauben. Hier dasselbe Versprechen im einzelnen Leben.

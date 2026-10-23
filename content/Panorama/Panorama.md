@@ -32,6 +32,7 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Wie viel Reichtum verträgt eine Demokratie? *(wachsend)* | [[Wie viel Reichtum vertraegt eine Demokratie]] | ~40 |
 | Warum verschwinden die Insekten, und warum spricht kaum jemand darüber? *(wachsend)* | [[Warum verschwinden die Insekten]] | ~25 |
 | Was ist Großzügigkeit? *(wachsend)* | [[Was ist Grosszuegigkeit]] | ~25 |
 | Was macht die KI aus unserem Denken? *(wachsend)* | [[Was macht die KI aus unserem Denken]] | ~28 |

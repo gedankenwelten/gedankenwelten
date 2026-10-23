@@ -22,6 +22,54 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **23.10.** — [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]]
+>
+> Wer zehn Oldtimer besitzt, wird reicher, wer einen Gebrauchtwagen hat, ärmer. Vier Stimmen über Vermögen, das sich niemand mehr vorstellen kann, und die Frage, wem was gehört.
+
+> **21.10.** — [[Zeitgeist/Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
+>
+> Kleine Felder retten mehr Arten als das Biosiegel, sagt einer der meistzitierten Ökologen der Welt. Warum es trotzdem kaum jemand tut, ist für ihn eine Frage der Wahl, nicht des Wissens.
+
+> **21.10.** — [[Zeitgeist/Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
+>
+> Drei Stunden Autobahn, fast kein Insekt auf der Scheibe. Maria Furtwängler sucht die Ursache und findet sie auf dem Acker — bei Bauern, die selbst nicht mehr weiterwissen.
+
+> **18.10.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
+>
+> Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
+
+> **18.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+>
+> Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
+
+> → *4 weitere in* [[Zeitgeist]]
+
+### Panorama
+
+> **23.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
+>
+> Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
+
+> **23.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **23.10.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
+> **23.10.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
+>
+> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
+
+> **22.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> → *8 weitere in* [[Panorama]]
+
 ### Denker
 
 > **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
@@ -39,30 +87,6 @@ Die Gedankenwelten (luc)
 > **16.10.** — [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen|Michael Hampe — Warum Debatten über KI und Willen trügen]]
 >
 > Der freie Wille lässt sich nicht glatt ins Chinesische übersetzen. Für Hampe ein Hinweis: Unsere Wörter für das Innere entdecken nichts, sie machen uns erst zu dem, was sie beschreiben.
-
-### Panorama
-
-> **22.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **22.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
-
-> **21.10.** — [[Panorama/Warum verschwinden die Insekten|Warum verschwinden die Insekten, und warum spricht kaum jemand darüber?]]
->
-> Die Scheibe bleibt sauber, und kaum jemand redet darüber. Drei offene Fragen zum Schwund der Insekten: wie groß und wodurch, was wirklich hilft, und warum so wenig geschieht.
-
-> **18.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
->
-> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
-
-> **17.10.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> → *4 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -83,30 +107,6 @@ Die Gedankenwelten (luc)
 > **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
 >
 > Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
-
-### Zeitgeist
-
-> **21.10.** — [[Zeitgeist/Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
->
-> Kleine Felder retten mehr Arten als das Biosiegel, sagt einer der meistzitierten Ökologen der Welt. Warum es trotzdem kaum jemand tut, ist für ihn eine Frage der Wahl, nicht des Wissens.
-
-> **21.10.** — [[Zeitgeist/Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
->
-> Drei Stunden Autobahn, fast kein Insekt auf der Scheibe. Maria Furtwängler sucht die Ursache und findet sie auf dem Acker — bei Bauern, die selbst nicht mehr weiterwissen.
-
-> **18.10.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
->
-> Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
-
-> **18.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
->
-> Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
-
-> **17.10.** — [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
->
-> Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
-
-> → *3 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

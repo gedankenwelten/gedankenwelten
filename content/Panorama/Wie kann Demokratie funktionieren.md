@@ -2,7 +2,7 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-10-15
+aktualisiert: 2026-10-23
 description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -259,6 +259,8 @@ Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: P
 
 Ob der Wohlstand die Demokratie trägt, hat die Forschung zweigeteilt. Reicher zu werden macht Länder kaum demokratischer ([Acemoglu et al. 2008, doi:10.1257/aer.98.3.808](https://doi.org/10.1257/aer.98.3.808)), bestehende Demokratien in reichen Ländern sind aber noch nie gefallen ([Przeworski & Limongi 1997, doi:10.1353/wp.1997.0004](https://doi.org/10.1353/wp.1997.0004)), und junge Demokratien fallen vor allem in der Rezession zurück ([Svolik 2008, doi:10.1017/S0003055408080143](https://doi.org/10.1017/S0003055408080143)). Die Zufriedenheit mit dem, was eine Regierung leistet, folgt dem Wachstum, die Bindung an die Ordnung kaum ([Claassen & Magalhães 2021, doi:10.1177/00104140211036042](https://doi.org/10.1177/00104140211036042)), und die Bindung lässt Demokratien überleben ([Claassen 2020, doi:10.1111/ajps.12452](https://doi.org/10.1111/ajps.12452)). Was der Staat liefern muss, ist eher Funktionieren als Geld: Die Wirksamkeit der Regierung sagt die Unterstützung der Demokratie im Ländervergleich am besten vorher ([Magalhães 2014, doi:10.1111/1475-6765.12024](https://doi.org/10.1111/1475-6765.12024)). Und Beteiligung erzeugt Legitimität ([Esaiasson, Gilljam & Persson 2012, doi:10.1111/j.1475-6765.2011.02052.x](https://doi.org/10.1111/j.1475-6765.2011.02052.x)); die Bindung wächst mit jedem Jahr, das man in einer Demokratie lebt ([Fuchs-Schündeln & Schündeln 2015, doi:10.1126/science.aaa0880](https://doi.org/10.1126/science.aaa0880)).
 
+Was die Bereitschaft der Bürger untergräbt, sich einzubringen, hat eine zweite Spur, die Ungleichheit. In amerikanischen Bundesstaaten war sie der stärkste Faktor für das Vertrauen unter Fremden, und dieses Vertrauen trug vor allem das Engagement vor Ort ([Uslaner & Brown 2005, doi:10.1177/1532673x04271903](https://doi.org/10.1177/1532673x04271903)); mit Paneldaten und Instrumentvariable bleibt der Effekt auf das Vertrauen bestehen, aber nur in reichen Ländern ([Barone & Mocetti 2016, doi:10.1111/ecin.12309](https://doi.org/10.1111/ecin.12309)). In ungleicheren Demokratien sinken politisches Interesse, Gespräch und Wahlbeteiligung bei allen außer den Wohlhabendsten ([Solt 2008, doi:10.1111/j.1540-5907.2007.00298.x](https://doi.org/10.1111/j.1540-5907.2007.00298.x)), in Europa auch die Teilnahme am Vereinsleben ([Lancee & van de Werfhorst 2012, doi:10.1016/j.ssresearch.2012.04.005](https://doi.org/10.1016/j.ssresearch.2012.04.005)). Für die Konzentration des *Vermögens* liegt bisher eine Korrelation vor: In 29 Ländern und 741 US-Regionen sind die Hilfsbereitschaft und das Ehrenamt geringer, wo die reichsten zehn Prozent mehr besitzen ([Schechtl, Trinh, Carranza & Pfeffer 2026, doi:10.1177/15365042261442494](https://doi.org/10.1177/15365042261442494), Kurzbeitrag, nicht kausal).
+
 **Die Stimmen**
 
 - **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Die Schule der Urteilsfähigkeit|Herfried Münkler]]:** Die Parteien waren Orte der Schulung von Urteilsfähigkeit; an ihre Stelle trat das Dauerplebiszit am Bildschirm.
@@ -270,8 +272,9 @@ Ob der Wohlstand die Demokratie trägt, hat die Forschung zweigeteilt. Reicher z
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#3. Der Weg heraus — Befreiung, nicht Bildung|Dietrich Bonhoeffer]]:** „Nicht ein Akt der Belehrung, sondern allein ein Akt der Befreiung könnte die Dummheit überwinden.“
 - **[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Was helfen könnte|Aladin El-Mafaalani]]:** Vertrauen ist eine Vorleistung; die Bringschuld liegt beim Staat, der seine Kernaufgaben nicht schafft und dafür nervt, wo er nicht müsste.
 
-<details><summary>Weitere Stimmen (11)</summary>
+<details><summary>Weitere Stimmen (12)</summary>
 
+- **[[Studio Bonn — Extremer Reichtum#Wer hilft, wo sich Vermögen ballt|Fabian Pfeffer]]:** Wo Vermögen sich ballt, fragen die unteren 99 Prozent: *„Warum muss ich mich an die Regeln halten? Was macht denn mein Beitrag noch?“* Für die Demokratie hält er das für mindestens so gefährlich wie die direkte Einflussnahme der Reichen.
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Bildung als Erklärung — und seine Grenzen|Philip Manow]]:** Wer „mehr politische Bildung“ fordert, meint oft, die anderen seien zu doof; was fehlt, ist nicht Wissen, sondern Übung im Debattieren.
 - **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Publikumsfragen|Ein Zuhörer in Halberstadt]]:** 1989 mit der Kerze auf dem Domplatz, heute anderthalb Jahre für eine Baugenehmigung statt sechs Wochen; die Jungen spürten, dass sie ihre Zukunft so nicht selbst gestalten können.
 - **[[Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Wer verteidigen will, muss aufstehen|Alexander Thiele]]:** Unter der Demokratie zu leben ist leicht; sie zu verteidigen „setzt voraus, dass man das nicht im Sitzen macht“ — gerade die Abgesicherten schweigen.
@@ -297,7 +300,7 @@ Am Wahltag gilt ein Mensch, eine Stimme. Die Frage ist, wie viel Gewicht die Sti
 
 Wo das Geld selbst wirkt, ist es am deutlichsten in der Öffentlichkeit. Nach den Übernahmen der Sinclair-Gruppe rückten US-Lokalsender messbar nach rechts, ohne dass die Zuschauer es verlangten ([Martin & McCrain 2019, doi:10.1017/S0003055418000965](https://doi.org/10.1017/S0003055418000965)), und der Algorithmus-Feed von X verschob in einem randomisierten Experiment politische Haltungen dauerhaft ([Gauthier et al. 2026, doi:10.1038/s41586-026-10098-2](https://doi.org/10.1038/s41586-026-10098-2)). In Deutschland flossen 2024/25 rund 42 Millionen Euro Großspenden an Parteien, ohne Deckel, den 19 von 27 EU-Staaten haben ([LobbyControl](https://www.lobbycontrol.de/parteienfinanzierung/parteispenden-2025-afd-grossspenden-explodieren-123936/)); Österreich deckelt seit 2019 bei 7.500 Euro pro Spender und Jahr. Zum Geld in Volksabstimmungen → [[#Was kann direkte Demokratie — und was nicht?|Wer bezahlt]].
 
-Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründet sie mit der Demokratie, nicht mit Moral ([Robeyns 2022, doi:10.1111/jopp.12275](https://doi.org/10.1111/jopp.12275)); das Demokratie-Argument begründe aber keinen Vorrang vor anderer Umverteilung, halten Kritiker dagegen ([Halldenius 2022, doi:10.1007/s10677-022-10337-1](https://doi.org/10.1007/s10677-022-10337-1)). Frankreichs Zucman-Steuer, zwei Prozent ab 100 Millionen, scheiterte 2025 an Senat und Haushalt. Ob Vermögensteuern die Reichen vertreiben, hängt an der Ausgestaltung: In der Schweiz weicht Vermögen stark aus ([Brülhart et al. 2022, doi:10.1257/pol.20200258](https://doi.org/10.1257/pol.20200258)), in Norwegen blieb der angekündigte Exodus klein ([Ring 2026, doi:10.2139/ssrn.7534880](https://doi.org/10.2139/ssrn.7534880), Preprint).
+Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründet sie mit der Demokratie, nicht mit Moral ([Robeyns 2022, doi:10.1111/jopp.12275](https://doi.org/10.1111/jopp.12275)); das Demokratie-Argument begründe aber keinen Vorrang vor anderer Umverteilung, halten Kritiker dagegen ([Halldenius 2022, doi:10.1007/s10677-022-10337-1](https://doi.org/10.1007/s10677-022-10337-1)). Frankreichs Zucman-Steuer, zwei Prozent ab 100 Millionen, scheiterte 2025 an Senat und Haushalt. Ob Vermögensteuern die Reichen vertreiben, hängt an der Ausgestaltung: In der Schweiz weicht Vermögen stark aus ([Brülhart et al. 2022, doi:10.1257/pol.20200258](https://doi.org/10.1257/pol.20200258)), in Norwegen blieb der angekündigte Exodus klein ([Ring 2026, doi:10.2139/ssrn.7534880](https://doi.org/10.2139/ssrn.7534880), Preprint). Weiter geht diese Frage unter [[Wie viel Reichtum vertraegt eine Demokratie#Braucht Reichtum eine Grenze?|Braucht Reichtum eine Grenze?]].
 
 **Die Stimmen**
 
@@ -313,7 +316,7 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 <details><summary>Weitere Stimmen (4)</summary>
 
 - **[[Philipp Blom — Die Unterwerfung#Die Kulissen der Demokratie|Philipp Blom]]** (2023): Der Milliardär hat am Sonntag eine Stimme, vorher Stiftungen, Thinktanks und Spenden; „die Kulissen stehen noch“.
-- **[[Studio Bonn — Extremer Reichtum#Vermögenskonzentration als Demokratiegefahr|Studio Bonn]]:** Wo Vermögen sich konzentriert, sinkt das Engagement der Bürger vor Ort.
+- **[[Studio Bonn — Extremer Reichtum#Einkommen ist nicht Vermögen|Kevin Kühnert]]:** Problematisch wird Vermögen, wo es über Medienbeteiligungen und neue Medienkonglomerate die öffentliche Meinung steuern kann, und das beginnt nicht erst bei Musk.
 - **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#USA Ellison, Bezos und das schrumpfende kritische Mediensystem|Gilda con Arne]]:** Ellison und Bezos kaufen und lenken, was vom kritischen Mediensystem bleibt.
 - **[[Marco Buelow — Korrumpiert#1.500 gegen 630 Die Fallhöhe|Marco Bülow]]:** 1.500 Lobbyisten stehen 630 Abgeordneten gegenüber; Einfluss ist eine Frage der Größenordnung.
 
@@ -342,10 +345,14 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 | 08.10.2026 | Léa Steinacker, Utopie-Konferenz Lüneburg 2026 ([Video](https://www.youtube.com/watch?v=ztH_D-UV0TY&t=733), ohne eigene Note) | Wer soll entscheiden: vTaiwan und Pol.is (Small et al. 2021), KI als Moderator gemeinsamer Nenner (Tessler et al. 2024) |
 | 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Was braucht Demokratie von ihren Bürgern? Macht Wohlstand demokratisch? Modernisierungsthese (Acemoglu, Przeworski & Limongi, Svolik), Leistung gegen Bindung (Easton, Claassen), Staatsqualität (Magalhães), Beteiligung (Esaiasson); Kowalczuk und ein Zuhörer aus Halberstadt als Stimmen |
 | 15.10.2026 | [[Rainer Mausfeld — Warum schweigen die Lämmer#Nachbesprechung|Rainer Mausfeld — Warum schweigen die Lämmer?]] | Wiegt jede Stimme gleich? Mausfelds „Null-Gewicht“ gegen den Wortlaut von Gilens & Page, Herkunft der 70 Prozent (Chomsky 2013), Dissens-Fälle (Branham, Soroka & Wlezien 2017); Mausfeld als Stimme |
+| 23.10.2026 | [[Studio Bonn — Extremer Reichtum#Nachbesprechung|Studio Bonn — Extremer Reichtum]] | Was braucht Demokratie von ihren Bürgern? Ungleichheit, Vertrauen und Engagement (Uslaner & Brown 2005, Barone & Mocetti 2016, Solt 2008, Lancee & van de Werfhorst 2012), Pfeffers Vermögensstudie (Schechtl et al. 2026); Pfeffer als Stimme |
 
 ---
 
 ## Verbindungen
+
+### → [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+Was man gegen die Ballung tun könnte: Vermögensteuer, Erbe, Obergrenze, Eigentum.
 
 ### → [[Panorama/Schoener Wohnen|Schöner Wohnen]]
 Am Berliner Volksentscheid berühren sich die beiden Panoramen: hier die Frage, wie bindend eine Abstimmung ist, dort die, ob Zurückkaufen Wohnungen schafft.
