@@ -40,10 +40,6 @@ Die Gedankenwelten (luc)
 >
 > Der freie Wille lässt sich nicht glatt ins Chinesische übersetzen. Für Hampe ein Hinweis: Unsere Wörter für das Innere entdecken nichts, sie machen uns erst zu dem, was sie beschreiben.
 
-> **15.10.** — [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld — Warum schweigen die Lämmer?]]
->
-> Wer über viele herrschen will, braucht ihre Angst: Mausfeld zeigt, wie aus Furcht vor etwas eine Angst ohne Gegenstand wird. Wo seine Analyse trägt und wo sie sich gegen jeden Einwand schließt.
-
 ### Panorama
 
 > **22.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
@@ -66,7 +62,7 @@ Die Gedankenwelten (luc)
 >
 > Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
 
-> → *9 weitere in* [[Panorama]]
+> → *4 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -110,7 +106,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
 
-> → *5 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

@@ -156,7 +156,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Ray Dalio|Ray Dalio]]** — Investor, Gründer von Bridgewater Associates; der große Schuldenzyklus (~80 Jahre) und der Aufstieg und Fall von Weltmächten, die fünf großen Kräfte, „Idea Meritocracy" — mechanistischer Blick auf Geschichte, mit blindem Fleck bei China
 
-**[[DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung
+**[[DenkerVita/Der Dara|Der Dara (Dara Marc Sasmaz)]]** — politischer YouTuber und Social-Media-Berater der Linken; tägliche Reactions gegen AfD und rechte Influencer, „News von links“, Spendenaktion für Eichis AWO-Stelle
 
 **[[DenkerVita/Darin L. Gerdes|Darin L. Gerdes]]** — Leadership-Professor; Ukraine-Krieg aus Leadership-Perspektive, „Reagan-Republican who fully supports Ukraine", tägliche YouTube-Analysen
 
