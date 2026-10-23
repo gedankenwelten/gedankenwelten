@@ -15,23 +15,23 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 60,
-   "aufrufe": 64
+   "leser": 61,
+   "aufrufe": 65
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 47,
-   "aufrufe": 54
+   "leser": 48,
+   "aufrufe": 55
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 34,
-   "aufrufe": 47
+   "leser": 35,
+   "aufrufe": 48
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 34,
-   "aufrufe": 38
+   "leser": 35,
+   "aufrufe": 39
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -104,11 +104,6 @@
    "aufrufe": 9
   },
   {
-   "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-   "leser": 8,
-   "aufrufe": 8
-  },
-  {
    "pfad": "/DenkerVita/Cordula-Tutt",
    "leser": 7,
    "aufrufe": 10
@@ -127,6 +122,11 @@
    "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
    "leser": 7,
    "aufrufe": 8
+  },
+  {
+   "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
+   "leser": 7,
+   "aufrufe": 7
   },
   {
    "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
@@ -310,18 +310,18 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 137,
-     "aufrufe": 177
+     "leser": 133,
+     "aufrufe": 172
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 19,
-     "aufrufe": 22
+     "leser": 20,
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 17,
-     "aufrufe": 21
+     "leser": 16,
+     "aufrufe": 20
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -329,14 +329,14 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 10,
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 9,
      "aufrufe": 11
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 8,
-     "aufrufe": 10
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 9,
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -359,11 +359,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 5,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 5,
      "aufrufe": 5
@@ -382,6 +377,11 @@
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 3,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
+     "leser": 3,
+     "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
@@ -459,11 +459,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Maja-Goepel",
      "leser": 2,
      "aufrufe": 2
@@ -489,6 +484,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 1,
      "aufrufe": 3
@@ -500,6 +500,11 @@
     },
     {
      "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Heidegger-in-60-Minuten",
      "leser": 1,
      "aufrufe": 2
     },
@@ -555,11 +560,6 @@
     },
     {
      "pfad": "/Denker/Hans-Peter-Dürr-Die-neue-Physik",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Harald-Welzer-Toetungsarbeit",
      "leser": 1,
      "aufrufe": 1
     },
@@ -625,23 +625,23 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 60,
-     "aufrufe": 64
+     "leser": 61,
+     "aufrufe": 65
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 47,
-     "aufrufe": 54
+     "leser": 48,
+     "aufrufe": 55
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 34,
-     "aufrufe": 47
+     "leser": 35,
+     "aufrufe": 48
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 34,
-     "aufrufe": 38
+     "leser": 35,
+     "aufrufe": 39
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -714,11 +714,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/DenkerVita/Cordula-Tutt",
      "leser": 7,
      "aufrufe": 10
@@ -737,6 +732,11 @@
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
      "leser": 7,
      "aufrufe": 8
+    },
+    {
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
@@ -930,13 +930,13 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 94,
-     "aufrufe": 114
+     "leser": 95,
+     "aufrufe": 115
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 90,
-     "aufrufe": 95
+     "leser": 91,
+     "aufrufe": 96
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -945,13 +945,13 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 47,
-     "aufrufe": 54
+     "leser": 48,
+     "aufrufe": 55
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 34,
-     "aufrufe": 38
+     "leser": 35,
+     "aufrufe": 39
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1235,13 +1235,13 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 94,
-     "aufrufe": 114
+     "leser": 95,
+     "aufrufe": 115
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 90,
-     "aufrufe": 95
+     "leser": 91,
+     "aufrufe": 96
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1250,13 +1250,13 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 47,
-     "aufrufe": 54
+     "leser": 48,
+     "aufrufe": 55
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 34,
-     "aufrufe": 38
+     "leser": 35,
+     "aufrufe": 39
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 48,
-     "aufrufe": 48
+     "leser": 49,
+     "aufrufe": 49
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1570,8 +1570,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 10,
-     "aufrufe": 10
+     "leser": 11,
+     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -1614,17 +1614,17 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "leser": 6,
      "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 5,
      "aufrufe": 5
     },
@@ -1665,6 +1665,11 @@
     },
     {
      "pfad": "/DenkerVita/Martin-Oetting",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Ulf-Poschardt",
      "leser": 3,
      "aufrufe": 3
     },
@@ -1740,11 +1745,6 @@
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Ulf-Poschardt",
      "leser": 2,
      "aufrufe": 2
     },

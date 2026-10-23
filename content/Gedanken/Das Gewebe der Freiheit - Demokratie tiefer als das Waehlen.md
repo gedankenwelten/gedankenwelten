@@ -17,6 +17,16 @@ aliases:
 
 # Das Gewebe der Freiheit — Demokratie tiefer als das Wählen
 
+![[assets/Das-Gewebe-der-Freiheit-Demokratie-tiefer-als-das-Waehlen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Anni Albers** — Bauhaus-Bildweberei, Baumwolle und Leinen, Kette und Schuss sichtbar, Ocker, Rost, Indigo, Creme und Kohle. Konzentrische Ringe weiten sich, eine Reihe sehr verschiedener Menschen hält sich an den Händen, rechts reißt das Tuch auf, und die Reihe hält noch über dem Loch. Die Note sagt „Demokratie ist kein Baukastensystem. Es ist ein Gewebe.“ Darum keine Malerin, sondern eine Weberin: Bei Albers ist der Faden nicht Motiv, sondern das Material selbst, und was am einen Ende gezogen wird, lockert das andere.
+
+*Prompt:* A wide handwoven tapestry in the style of Anni Albers, Bauhaus textile art, filling the whole frame edge to edge: cotton and linen, visible warp and weft, the texture of every thread readable. At the center, concentric rings woven into the cloth, widening outward like ripples, each ring a different thread colour. Across the rings a long row of small flat faceless woven figures holding hands, all different: tall and short, women in skirts, a worker with a cap, a figure in a wheelchair, an old man with a cane, two figures holding hands as a couple, a child. On the right side the row breaks: one thread is pulled loose and hangs down, the weave around it slackens and opens into a hole, the last figures starting to unravel. On the far left, bare warp threads where the cloth is still being woven. Earthy palette: ochre, rust red, indigo, cream, charcoal black. Matte woven surface, no photorealism, no realistic faces, no signature.
+
+</details>
+
 > Entstanden am 17.05.2026 — aus einem Gespräch über Politik, Erinnerung und das, was man nicht sieht, weil es schon immer da war.
 
 ---

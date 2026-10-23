@@ -20,7 +20,7 @@ tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerec
 
 ## Biographischer Snapshot
 
-Kevin Kühnert (*1989, Berlin*) — Ehemaliger SPD-Generalsekretär (Dezember 2021 – Oktober 2024) und Juso-Vorsitzender (2017–2020). Zog sich 2024 nach Burnout und politischen Bedrohungen aus der aktiven Bundespolitik zurück; leitet seitdem den Bereich Verteilungspolitik, Steuern und Lobbyismus bei der Bürgerbewegung Finanzwende. Kernthese: Vermögen wie Einkommen besteuern — durch fiktive 6%-Rendite-Unterstellung für Großvermögen.
+Kevin Kühnert (*1989, Berlin*) — Ehemaliger SPD-Generalsekretär (Dezember 2021 – Oktober 2024) und Juso-Vorsitzender (2017–2020). Trat im Oktober 2024 aus gesundheitlichen Gründen zurück; im April 2025 sprach er in der ZEIT auch über Angriffe und Bedrohungen. Seit Dezember 2025 leitet er bei der Bürgerbewegung Finanzwende den Bereich Steuern, Verteilung und Lobbyismus. Kernthese: Vermögen und Einkommen sind verschiedene Dinge, und wer sie verwechselt, übersieht, wo die Ungleichheit liegt.
 
 ---
 
@@ -34,15 +34,15 @@ Als Juso-Chef machte Kühnert bundesweit Schlagzeilen, als er 2018/2019 mit eine
 
 Bei einem SPD-Parteitag 2019 wurde er als einer der fünf Stellvertreter der damaligen Parteivorsitzenden Saskia Esken und Norbert Walter-Borjans gewählt — Ausdruck seines Einflusses innerhalb der Partei.
 
-**Generalsekretär und Burnout-Eintritt**
+**Generalsekretär und Rücktritt**
 
-Im Dezember 2021 berief ihn SPD-Kanzler Olaf Scholz zum Generalsekretär der SPD. Diese Position erfordert permanente öffentliche Präsenz, Krisenmanagement bei Skandalen und Parteiinterne Konflikte. Kühnert stand unter ständigem öffentlichem Druck — von rechts wurde er wiederholt bedroht, von links oft als zu gemäßigt kritisiert. Diese Phase trug zu einem erheblichen Burnout bei.
+Im Dezember 2021 berief ihn SPD-Kanzler Olaf Scholz zum Generalsekretär der SPD. Diese Position erfordert permanente öffentliche Präsenz, Krisenmanagement bei Skandalen und Parteiinterne Konflikte. Kühnert stand unter ständigem öffentlichem Druck — von rechts wurde er wiederholt bedroht, von links oft als zu gemäßigt kritisiert.
 
 Im Herbst 2024, nach etwa dreijähriger Amtszeit, trat Kühnert offiziell von allen politischen Ämtern zurück. Er benötigte einen längeren Ruhestand und unternahm anschließend eine 1200-Kilometer-Wanderung auf der Alpenpässe-Route, um sich von den Jahren der Daueranspannung zu regenerieren.
 
 **Neuanfang: Finanzwende**
 
-Im Dezember 2024 / Januar 2025 übernahm Kühnert eine Stelle bei der Bürgerbewegung Finanzwende, einer NGO mit über 17.000 Mitgliedern, gegründet 2018 zum zehnjährigen Jahrestag der Lehman-Brothers-Pleite. Bei Finanzwende leitet er den Bereich für Steuern, Verteilung und Lobbyismus — eine Position, die seine lange politische Erfahrung mit der Unabhängigkeit einer Zivilgesellschaftsorganisation verbindet.
+Im Dezember 2025 übernahm Kühnert eine Stelle bei der Bürgerbewegung Finanzwende, einer NGO mit über 17.000 Mitgliedern, gegründet 2018 zum zehnjährigen Jahrestag der Lehman-Brothers-Pleite. Bei Finanzwende leitet er den Bereich für Steuern, Verteilung und Lobbyismus — eine Position, die seine lange politische Erfahrung mit der Unabhängigkeit einer Zivilgesellschaftsorganisation verbindet.
 
 ---
 
@@ -76,11 +76,9 @@ Kevin Kühnert hat keine Monografie veröffentlicht. Seine Publikationen sind ü
 
 Kühnert identifiziert einen fundamentalen Fehler in der deutschen öffentlichen Debatte: Man redet von Reichtum, meint aber Einkommen. Dies führt dazu, dass progressive Steuersätze und Sozialversicherungsbeiträge auf Arbeitseinkommen greifen, während Vermögen sich quasi *unbesteuert* selbst vermehrt. Ein großes Vermögen "arbeitet aus sich selbst heraus ganz anders als ein kleines Erwerbseinkommen."
 
-### 2. **Die 6%-Rendite-Reform — Vermögen wie Einkommen besteuern**
+### 2. **Gleiches Recht für alle — und die Verschonungsbedarfsprüfung**
 
-Kühnerts eleganteste Forderung: Man unterstelle allen Vermögen über bestimmte Schwellen (z.B. 100 Millionen Euro) eine konservative Rendite von 6% pro Jahr. Diese fiktive Rendite wird dann als steuerpflichtiges Einkommen behandelt und nach progressivem Steuersatz besteuert. Dies schließt die Lücke, die Vermögende durch die Behauptung "Ich habe gar keine Einkünfte, mein Geld ist nur in Vermögen" ausnutzen.
-
-> *„Wir wissen, wer nicht ultra-ultra doof ist, der kriegt 6% Rendite hin. Und das besteuern wir dann nach dem progressiven Steuersatz."*
+Im Studio-Bonn-Panel (April 2026) fängt Kühnert bei der Gleichheit vor dem Gesetz an: Wer Lohn bezieht, kann nicht entscheiden, ob er Einkommensteuer zahlt, sie ist abgezogen, bevor das Geld ankommt. Bei großen Erbschaften laufe es andersherum, über die Verschonungsbedarfsprüfung können Erben von Unternehmensanteilen ab 26 Millionen Euro die Steuer erlassen bekommen. Steuerkriminalität bleibe oft unbestraft, weil die Behörden unterbesetzt sind. Und die Stiftung Familienunternehmen betreibe einen Etikettenschwindel: Das Wort *Familienunternehmen* lasse an den Dachdecker im Kastenwagen denken, gemeint seien Milliardenerben. *(Das Modell einer unterstellten Rendite von 6 % als steuerpflichtiges Einkommen, das hier früher Kühnert zugeschrieben war, trägt im Panel Julia Friedrichs vor — korrigiert am 23.10.2026.)*
 
 ### 3. **Vermögenskonzentration als Demokratiegefahr**
 
@@ -134,7 +132,7 @@ In seiner neuen Rolle bei Finanzwende kritisiert Kühnert die Steuervermeidungsi
 
 Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle spielt:
 
-- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Kerntext: Kühnerts 6%-Rendite-Vorschlag, Diagnose des Kategorienfehlers bei Einkommen vs. Vermögen
+- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Kerntext: Einkommen ist nicht Vermögen, Verschonungsbedarfsprüfung, der Etikettenschwindel mit den Familienunternehmen, Medien und „vulgär libertäre“ Plattformbesitzer
 - [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]] — Das große Ausstiegs-Gespräch (MARCANT, 2026): warum er die Macht verließ, die Snippet-Politik von innen, die Verschiebung der sozialen Frage ins Kulturelle, Geld = Macht, und die alltägliche Bedrohung als Demokratiefrage
 
 *Weitere Verweise auf Kühnert (indirekt):*
@@ -146,27 +144,27 @@ Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle 
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte
-> - Wenn Kühnert selbst nach wenigen Jahren Generalsekretär-Burnout zusammenbricht — was sagt das über die strukturellen Anforderungen moderner Demokratie, die er reformieren will? Ist sein Burnout eine persönliche Schwachstelle oder ein Systemversagen?
-> - Kühnert fordert innerhalb des Systems Reform (6%-Rendite-Besteuerung). Marlene Engelhorn im gleichen Panel geht weiter und fragt: Ist Privateigentum in dieser Konzentration überhaupt legitimierbar? Wo endet Kühnerts Reformoptimismus, wo beginnt Engelhorns Systemkritik?
+> - Wenn ein Generalsekretär nach drei Jahren aus gesundheitlichen Gründen aufgibt und später von Bedrohungen erzählt — *was sagt das über die Anforderungen, die eine Demokratie an die stellt, die sie tragen?*
+> - Kühnert fordert innerhalb des Systems Reform (gleiches Steuerrecht für Erben großer Betriebsvermögen). Marlene Engelhorn im gleichen Panel geht weiter und fragt: Ist Privateigentum in dieser Konzentration überhaupt legitimierbar? Wo endet Kühnerts Reformoptimismus, wo beginnt Engelhorns Systemkritik?
 > - Ein großes Vermögen "arbeitet aus sich selbst heraus" — aber braucht es nicht Staat, Infrastruktur, Arbeitskräfte? Ist Kühnerts Kritik letztlich eine Kritik am *Nicht-Teilen* dieser Grundlagen, nicht am Besitz selbst?
 > - Warum findet Kühnerts klare Forderung nach Vermögensbesteuerung in der SPD, seiner eigenen Partei, keine Mehrheit? Ist das ein Versagen der Partei oder der Forderung?
-> - Wie verändert ein Burnout die politische Glaubwürdigkeit eines Denkers? Steht Kühnert jetzt freier da (außerhalb des Parteiapparats), oder ist er beschädigter?
+> - Steht Kühnert außerhalb des Parteiapparats freier da, oder fehlt ihm jetzt der Hebel, den er dort hatte?
 
 ---
 
 ## Faktencheck — zu Kühnert spezifische Claims
 
 > [!success] Bestätigt — Juso-Vorsitzender 2017, Generalsekretär 2021–2024, Rückzug Oktober 2024
-> Verifiziert über Wikipedia, ZDF, Bundestag-Archiv. Kühnert ist *1989 in Berlin geboren, trat SPD 2005 bei, wurde Juso-Chef November 2017, Generalsekretär Dezember 2021, Rückzug 7. Oktober 2024 wegen Burnout. Alle Daten korrekt.
+> Verifiziert über Wikipedia, ZDF, Bundestag-Archiv. Kühnert ist *1989 in Berlin geboren, trat SPD 2005 bei, wurde Juso-Chef November 2017, Generalsekretär Dezember 2021, Rücktritt 7. Oktober 2024, begründet mit seiner Gesundheit.
 
-> [!success] Bestätigt — Finanzwende-Position seit Dezember 2024
-> Finanzwende-Pressemitteilung + taz-Interview (Januar 2025): Kühnert übernahm die Position Bereichsleiter Steuern/Verteilung/Lobbyismus im Dezember 2024 / Januar 2025.
+> [!success] Bestätigt — Finanzwende-Position seit Dezember 2025
+> Finanzwende gab am 11.12.2025 bekannt, dass Kühnert den Bereich Steuern, Verteilung und Lobbyismus leitet ([zdfheute, 11.12.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-neuer-job-finanzwende-100.html)). Hier stand früher „Dezember 2024“ — korrigiert am 23.10.2026.
 
-> [!success] Bestätigt — 6%-Rendite-Vorschlag im Studio-Bonn-Panel
-> Siehe [[Zeitgeist/Studio Bonn — Extremer Reichtum]], Min. 96:29–99:35. Kühnert beschreibt die fiktive 6%-Rendite-Unterstellung als elegant und praktikabel.
+> [!danger] Korrigiert — Der 6%-Rendite-Vorschlag im Studio-Bonn-Panel stammt nicht von Kühnert
+> Das Modell (Min. 96:29–97:15) trägt Julia Friedrichs vor, auf die Frage des Moderators an sie; Stimmlage und Gesprächsführung lassen keinen Zweifel. Diese Vita hatte es Kühnert zugeschrieben, samt einem Zitat („der kriegt 6% Rendite hin“), das so nicht fiel. → [[Zeitgeist/Studio Bonn — Extremer Reichtum#Was zu tun wäre|Studio Bonn]]
 
-> [!warning] Vereinfacht — "Burnout und politische Bedrohungen"
-> Kühnert hat sich offiziell zu "gesundheitlichen Gründen" zurückgezogen und erwähnte öffentlich psychische Belastung. Politische Bedrohungen sind real (als öffentlicher Politiker), aber nicht explizit als Burnout-Grund von ihm benannt — diese Kombination ist eine sinnvolle Interpretation, aber nicht exakt verifizierbar.
+> [!warning] Korrigiert — „Burnout“ war nie sein Wort
+> Kühnert begründete den Rücktritt am 7.10.2024 mit seiner Gesundheit, er brauche die Energie, „um wieder gesund zu werden“. Erst im April 2025 sprach er in der ZEIT auch über Angriffe und Bedrohungen. Das Wort „Burnout“ hat er nicht verwendet; diese Vita hatte es ihm bis 23.10.2026 zugeschrieben ([zdfheute, 11.12.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-neuer-job-finanzwende-100.html); [infranken](https://www.infranken.de/deutschland/doch-nicht-wegen-der-gesundheit-kevin-kuehnert-erklaert-ruecktritt-rote-linie-art-6205822)).
 
 ---
 
