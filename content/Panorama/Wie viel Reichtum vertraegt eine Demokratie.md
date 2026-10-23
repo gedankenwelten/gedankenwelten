@@ -23,6 +23,16 @@ tags:
 
 <details><summary>🎨</summary>
 
+**Pieter Bruegel d. Ä.** — Öl auf Eichenholz, Erdtöne mit dem Gold der Münzen als einzigem hellen Akzent. Ein Turm wie sein *Turmbau zu Babel*, gebaut aus Münzen; unten schleppen Hunderte kleiner Menschen Körbe, treten das Rad, stehen auf den Gerüsten, oben schläft einer auf einem Kissen. Bruegel malt die vielen, jeden bei seiner Arbeit — genau das, was Engelhorn meint, wenn sie sagt, Geld arbeite nicht, Menschen arbeiten. Und der Wandspruch steht schon im Bild: Der Stapel wächst, während sein Besitzer schläft.
+
+*Prompt:* Oil painting on oak panel in the style of Pieter Bruegel the Elder, wide 1200x500 banner. A colossal spiralling tower built entirely of stacked gold coins, modelled on Bruegel's Tower of Babel, rising off the top edge of the picture into pale clouds. Hundreds of tiny peasants and workers in muted 16th-century clothing swarm over its ramps and scaffolds, hauling coins in baskets, on cranes and treadwheels, carrying them up from a flat Flemish landscape with small brick houses, fields and a harbour. On a high ledge near the top, tiny, a single richly dressed figure lies asleep on a cushion, untouched by the work below. Earthy palette of ochre, umber, muted greens and grey-blue sky, with the warm gold of the coins as the only bright accent. Fine detailed brushwork, visible panel grain, no realistic faces, no photorealism, no text, no signature.
+
+</details>
+
+![[assets/Wie-viel-Reichtum-vertraegt-eine-Demokratie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
 **Pieter Bruegel der Ältere** — angelehnt an seinen *Turmbau zu Babel*, Öl auf Eichenholz, Erdtöne, Ocker und Gold. Ein Turm aus Münzen wächst über einer flämischen Kleinstadt in die Wolken, hunderte winzige Arbeiter tragen Körbe voller Münzen hinauf, oben schläft einer unter einem Baldachin, und unten drängt sich die Stadt um einen Tisch mit Wahlurne. Bruegels Turm ist Hybris und zugleich Bewunderung für das, was viele Hände bauen. Diese Ambivalenz braucht das Panorama: Der Wandspruch sagt, dass der Stapel auch wächst, während sein Besitzer schläft, und die letzte Frage, wem gehört, was gemeinsam erarbeitet wird.
 
 *Prompt:* A wide panoramic landscape painting in the style of Pieter Bruegel the Elder's Tower of Babel, seen from far away and slightly above: a colossal spiralling tower made of stacked gold coins rises from a tiny Flemish town by a river and pierces the clouds, many times taller than the church, its top lost in haze. Its terraces and arches are crowded with hundreds of minute workers carrying baskets of coins up ramps and cranes. On the highest terrace, just visible in the clouds, a tiny canopy bed with a sleeping figure. At the foot of the tower, the little town square with a crowd of minute villagers around a wooden table and a ballot box, lying in the tower's long shadow. Patchwork fields, a winding river, ships, a pale wide sky. Oil on oak panel, fine glazes, earthy browns, muted greens, ochre and gold. No photorealism, no realistic faces, no signature.
