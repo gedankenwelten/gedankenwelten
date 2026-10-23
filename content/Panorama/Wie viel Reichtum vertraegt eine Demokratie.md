@@ -19,6 +19,16 @@ tags:
 
 # Wie viel Reichtum verträgt eine Demokratie?
 
+![[assets/Wie-viel-Reichtum-vertraegt-eine-Demokratie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel der Ältere** — angelehnt an seinen *Turmbau zu Babel*, Öl auf Eichenholz, Erdtöne, Ocker und Gold. Ein Turm aus Münzen wächst über einer flämischen Kleinstadt in die Wolken, hunderte winzige Arbeiter tragen Körbe voller Münzen hinauf, oben schläft einer unter einem Baldachin, und unten drängt sich die Stadt um einen Tisch mit Wahlurne. Bruegels Turm ist Hybris und zugleich Bewunderung für das, was viele Hände bauen. Diese Ambivalenz braucht das Panorama: Der Wandspruch sagt, dass der Stapel auch wächst, während sein Besitzer schläft, und die letzte Frage, wem gehört, was gemeinsam erarbeitet wird.
+
+*Prompt:* A wide panoramic landscape painting in the style of Pieter Bruegel the Elder's Tower of Babel, seen from far away and slightly above: a colossal spiralling tower made of stacked gold coins rises from a tiny Flemish town by a river and pierces the clouds, many times taller than the church, its top lost in haze. Its terraces and arches are crowded with hundreds of minute workers carrying baskets of coins up ramps and cranes. On the highest terrace, just visible in the clouds, a tiny canopy bed with a sleeping figure. At the foot of the tower, the little town square with a crowd of minute villagers around a wooden table and a ballot box, lying in the tower's long shadow. Patchwork fields, a winding river, ships, a pale wide sky. Oil on oak panel, fine glazes, earthy browns, muted greens, ochre and gold. No photorealism, no realistic faces, no signature.
+
+</details>
+
 > [!abstract] Worum es geht
 > Die Hälfte der Deutschen besitzt fast nichts, das reichste Prozent rund ein Viertel bis ein Drittel des Vermögens, und das meiste davon ist ererbt. Ob das ein Problem ist und was man tun könnte, darüber streiten Ökonominnen, Erben, Soziologen und Politiker. Dieses Panorama sammelt vier offene Fragen: was eine Vermögensteuer tatsächlich bewirkt, was man erben darf, ob Reichtum eine Grenze braucht und wem gehören soll, was gemeinsam erarbeitet wird. Zu jeder steht, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
 
