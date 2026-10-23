@@ -20,6 +20,16 @@ aliases:
 
 # Studio Bonn — Extremer Reichtum
 
+![[assets/Studio-Bonn-Extremer-Reichtum-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — glatter, matter Farbauftrag, Tageshimmel über einer Straße in der Nacht wie in *Das Reich der Lichter*. Mitten auf dem leeren Gehweg steigt eine dünne Säule aus Münzen bis knapp unter den Mond, Pfeffers Stapel, der fast ein Drittel des Weges schafft. Links unter der Laterne ein verbeulter Gebrauchtwagen, rechts eine leuchtende Garage voller Oldtimer: Kühnerts Armutsnachteil in einem Bild. Kein Mensch ist zu sehen, und trotzdem wächst der Stapel. Magritte malt das Unmögliche so ruhig, als wäre es selbstverständlich, und so wirkt extremer Reichtum an diesem Abend: unvorstellbar und alltäglich zugleich.
+
+*Prompt:* Surrealist oil painting in the style of René Magritte, wide 1200x500 banner, smooth flat brushwork, matte finish, calm and enigmatic. A quiet suburban street at dusk under a bright daylight sky with soft white clouds, while the houses below lie in night, lit by a single street lamp, like The Empire of Light. From the middle of the empty pavement a perfectly straight, impossibly thin column of stacked gold coins rises vertically through the clouds toward a pale crescent moon high in the blue sky. On the left under the street lamp stands one small, dented old used car. On the right a garage with its door open, softly lit, holds a neat row of gleaming polished vintage cars. No people anywhere. Palette of deep blues, slate grey, warm lamplight yellow and the gold of the coins. No realistic faces, no photorealism, no text, no signature.
+
+</details>
+
 > [!abstract] Worum es geht
 > Wer zehn Oldtimer besitzt, wird mit der Zeit reicher, wer einen Gebrauchtwagen hat, ärmer. An diesem Abend in der Bonner Bundeskunsthalle sprechen vier Menschen über Vermögen, das sich keiner von ihnen mehr vorstellen kann: ein früherer SPD-Generalsekretär, eine Erbin, die 25 Millionen Euro abgegeben hat, eine Journalistin, die fünfzig Stunden mit einem Milliardenerben sprach, und ein Soziologe, der Münzen bis zu einem Drittel der Strecke zum Mond stapelt. Sie sind sich einig, dass extremer Reichtum ein Problem für die Demokratie ist. Uneins sind sie bei der Frage, ob es reicht, ihn zu besteuern, oder ob man fragen muss, wem was gehört. Eine Gegenstimme sitzt nicht auf dem Podium; Julia Friedrichs leiht den Abwesenden einmal ihre.
 
