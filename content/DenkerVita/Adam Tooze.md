@@ -95,6 +95,10 @@ Kemfert liefert die energieökonomische Seite von Toozes These „Klimapolitik i
 ### → [[DenkerVita/Francesca Bria|Francesca Bria]]
 Toozes Frage „Wer kontrolliert die KI — Staat oder Konzern?" (Pentagon vs. Anthropic) trifft Brias Kernthema der digitalen und technologischen Souveränität. Beide lesen die KI- und Plattformmacht als Fortsetzung der Machtstruktur des Geldes mit anderen Mitteln; Bria denkt dabei stärker in politischen Gegenentwürfen (öffentliche Infrastruktur), Tooze im diagnostischen Strukturbefund.
 
+### → [[DenkerVita/Jörn Leonhard|Jörn Leonhard]]
+
+Dieselbe Neuordnung nach dem Ersten Weltkrieg, von Tooze aus Geld und amerikanischer Macht erzählt, von Leonhard (*Der überforderte Frieden*) aus den Erwartungen.
+
 ## Gedankenwelten-Notes
 
 - [[Adam Tooze — Krise und demokratische Gelegenheit]] — Utopie-Konferenz Leuphana 2024: Mehrheit statt Konsens, Freund und Feind von links, Nostalgie vergangener Zukünfte; offener Streit mit Maja Göpel

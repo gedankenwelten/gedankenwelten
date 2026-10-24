@@ -364,6 +364,11 @@ Blom stellt dieselbe Frage („Sitzen wir am Tisch oder sind wir am Menü?“) u
 
 Hanna Notte beschreibt Russlands Weg von der nuklearen Drohkulisse zum hybriden Krieg und zur offenen Erklärung Europas zum „strategischen Hinterland“ — Münklers aufgelöste Grenze zwischen Krieg und Frieden in der Praxis. Lagodinskys Europäischer Sicherheitsrat ist eine Parallele zur Führungsgruppe der Fünf.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+Der Historiker macht aus Münklers verschwundener Grenze zwischen Krieg und Frieden eine Epoche: Zwischen 1648 und 1945 endeten die meisten Kriege mit einem Vertrag, seither kaum noch, schon lange vor dem hybriden Krieg.
+
+
 ---
 
 ## Weiterführende Quellen

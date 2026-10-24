@@ -449,6 +449,11 @@ Was Safferling „wechselseitig verziehen“ nennt, ist in Boshammers Begriffen 
 
 Dass Menschenrechte ohne eine Gemeinschaft, die sie garantiert, leer bleiben, ist Arendts These von 1951, das „Recht, Rechte zu haben“.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+Der Historiker nennt den Preis des Wegs vom Vergessen zur Strafe: Ein Frieden, der mit Gerechtigkeit und Strafverfolgung verbunden wird, wird emotional und schwerer zu schließen.
+
+
 ---
 
 ## Weiterdenken

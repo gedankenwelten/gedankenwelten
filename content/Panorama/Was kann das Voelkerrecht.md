@@ -2,7 +2,7 @@
 title: "Was kann das Völkerrecht?"
 date: 2026-10-05
 erstellt: 2026-10-05
-aktualisiert: 2026-10-08
+aktualisiert: 2026-10-24
 description: "Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?"
 raetsel: "Der Platz ist leer. Die Waage steht. Nur die Schatten bewegen sich."
 panorama-art: wachsend
@@ -97,6 +97,8 @@ Das Völkerrecht hat keine Polizei. Durchgesetzt wird es durch Staaten, die mitm
 
 Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staaten bei, die am wenigsten zu befürchten haben, und die, die eine glaubwürdige Selbstbindung am dringendsten brauchen ([Simmons & Danner 2010, doi:10.1017/s0020818310000044](https://doi.org/10.1017/s0020818310000044)). Umgekehrt wird die Durchsetzung inzwischen aktiv bekämpft. Die USA haben seit Februar 2025 Richter, Ankläger und die Präsidentin des Gerichts mit Sanktionen belegt ([Executive Order 14203](https://en.wikipedia.org/wiki/Executive_Order_14203)); fünf Staaten haben 2026 ihren Austritt notifiziert (→ [[Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Spur Israel-Gaza]]), Ungarn hat seinen zurückgenommen. Wie weit solche Sanktionen reichen, zeigt ein Detail: Im Mai 2025 berichtete AP, Microsoft habe das E-Mail-Konto des damaligen Chefanklägers Karim Khan abgeschaltet; Microsoft bestreitet, die Dienste für das Gericht eingestellt zu haben, spricht aber selbst davon, den sanktionierten Beamten „getrennt“ zu haben ([heise](https://heise.de/-10387383), [Dementi](https://heise.de/-10429628); → [[Roberto Simanowski — Sprachmaschinen#Wertexport|Simanowski]]). Ein Gericht, dessen Post über amerikanische Server läuft, ist für Washington erreichbar, ohne dass sich ein Soldat bewegt. Die Forschung zur Wirksamkeit von Reformvorschlägen — EU-Sitz, Veto-Verzicht, Stärkung der Generalversammlung — fehlt hier noch; es gibt Vorschläge und Gründe, kaum Evidenz.
 
+Was Friedenstruppen leisten, ist dagegen gut untersucht, und der Befund ist deutlicher als beim Gericht. Eine Übersicht über zwei Jahrzehnte Forschung spricht von einer „außergewöhnlichen Beziehung“ zwischen Peacekeeping und Frieden ([Walter, Howard & Fortna 2021](https://doi.org/10.1017/s000712342000023x)); es kommt auf bewaffnete Soldaten an, nicht auf Beobachter ([Hultman, Kathman & Shannon 2014](https://doi.org/10.1017/s0003055414000446)), und Waffenstillstände zwischen Staaten halten länger mit Pufferzonen und Garantien Dritter ([Fortna 2003](https://doi.org/10.1017/s0020818303572046)). Wo Blauhelme selbst Krieg führen, verlieren sie allerdings an Wirkung ([Howard 2019](https://doi.org/10.1017/9781108557689)), und fast alle Daten stammen aus Bürgerkriegen. Dass Kriege zwischen Staaten seit 1950 kaum noch mit Verträgen enden, führt Tanisha Fazal auf das Recht selbst zurück: Wer unterschreibt, gibt zu, Krieg geführt zu haben ([Fazal 2013](https://doi.org/10.1017/s0020818313000246)).
+
 **Die Stimmen**
 
 - **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Fiktion oder Recht Carney und der Sicherheitsrat|Christoph Safferling]]:** Großbritannien und Frankreich sollen ihre Sitze für einen EU-Sitz räumen, und die Generalversammlung soll schon handeln, wenn ein Veto blockiert.
@@ -108,8 +110,9 @@ Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staat
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Mithu Sanyal]]:** Mehr Recht statt mehr Militär: zurück zum Völkerrecht und dasselbe Verhalten bei Verbündeten verurteilen wie bei Gegnern.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Maja Göpel]]:** Wenn eine Großmacht die Institutionen bewusst zerstört, zuletzt den Strafgerichtshof, bleibt die Frage „Wie setzen wir es durch?“ — und dafür sei die eigene Stärke nicht irrelevant.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (6)</summary>
 
+- **[[Joern Leonhard — Wie man Kriege beendet#Publikumsfragen|Jörn Leonhard]]:** Ein Frieden hält eher, wenn ein Vermittler ein robustes Mandat hat und lange bleibt, wie die USA nach 1945 in Westeuropa; für die Ukraine sieht er niemanden, der es übernehmen könnte.
 - **[[Helen Keller — Voelkerrecht zahnloser Tiger#Der UN-Sicherheitsrat Machtarchitektur von 1945|Helen Keller]]:** Die Vetomächte blockieren jede Reform; dass der Globale Süden nicht vertreten ist, senkt dort die Bereitschaft, sich an das Recht zu halten.
 - **[[Elmar Thevessen - Die neue Weltunordnung#Die Chance der Mittelmächte|Elmar Theveßen]]:** Renovieren statt zerstören, mit Europa und den Mittelmächten von Südafrika bis Indien.
 
@@ -129,6 +132,7 @@ Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staat
 | Datum | Note | vertieft |
 |---|---|---|
 | 05.10.2026 | [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Nachbesprechung|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts]] | Gründungsnote. Schreckt es ab: Jo & Simmons 2016, Kim & Sikkink 2010, Appel 2018, Dancy 2017, Dancy & Montal 2017, McAllister 2023, Cronin-Furman 2013, Krcmaric 2018, Prorok 2017, Snyder & Vinjamuri 2003 · Siegerjustiz: Mills 2012, Ba 2020, OMGUS · Durchsetzung: Simmons & Danner 2010, Res. 76/262 |
+| 24.10.2026 | [[Joern Leonhard — Wie man Kriege beendet#Nachbesprechung|Jörn Leonhard — Wie man Kriege beendet]] | Können Friedenstruppen einen Frieden halten? (Walter/Howard/Fortna 2021, Fortna 2003/2004, Hultman et al. 2014, Howard 2019, Beardsley 2008, Fazal 2013, Kreutz 2010) → *Wer setzt es durch?* · Was in Münster wirklich geregelt wurde (Osiander, Stirk, Schmidt, Milton) → Waise |
 
 ---
 

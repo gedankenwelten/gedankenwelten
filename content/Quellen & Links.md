@@ -5311,3 +5311,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Recht** | [Anwalt Jun — AfD-Datenleak kann zum Gamechanger im Verbotsverfahren werden](https://www.youtube.com/watch?v=qPalyxeWueU) (21.10.2026) |
 | **Notiz** | [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original]] |
 | **Hinweis** | Leak-Daten und Leak-Seite bewusst nicht abgerufen (Arbeitsregeln der Spur) |
+
+## Jörn Leonhard — Wie man Kriege beendet
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Prof. Dr. Jörn Leonhard: Über aktuelle Kriege und wie man sie beendet](https://www.youtube.com/watch?v=SV9CNnVhio0) (IWP, Universität Luzern, 25.10.2024) |
+| **Buch** | Jörn Leonhard: *Über Kriege und wie man sie beendet. Zehn Thesen* (C.H. Beck 2023) |
+| **Notiz** | [[Joern Leonhard — Wie man Kriege beendet]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Leonhard_Kriege_beenden_Transkript.txt` |
+| **Fund** | Diogenes, Nacht vom 08.09.2026 (Strom anker); Kairos-Tagesnote 24.10.2026 |

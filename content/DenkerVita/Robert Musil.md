@@ -144,6 +144,10 @@ den aufkommenden Kollektivismus macht ihn zu einer unbequemen, unparteiischen St
 - **Maurice Maeterlinck** — neben Emerson wichtiger Anreger der jungen Jahre; Mystik und das
   Unsagbare hinter der Alltagssprache.
 
+### → [[DenkerVita/Jörn Leonhard|Jörn Leonhard]]
+
+Der Historiker leiht sich Musils Möglichkeitssinn, um Analogie und Prognose zu trennen: München sei keine Blaupause für Putin, man müsse aber damit rechnen, dass es so kommen könnte.
+
 ## Gedankenwelten-Notes
 
 - [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]

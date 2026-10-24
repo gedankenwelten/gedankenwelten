@@ -2,7 +2,7 @@
 title: "Wie umgehen mit Russland?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-16
+aktualisiert: 2026-10-24
 description: "Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben."
 raetsel: "Zwei Stühle, ein Tisch. Einer ist aufgestanden. Wer klopft zuerst?"
 panorama-art: wachsend
@@ -126,6 +126,8 @@ Für die Provokation spricht das Sicherheitsdilemma, das John Herz 1950 benannte
 
 Überprüfbar gemacht haben Stärke lange die Verträge, und die sind fast alle fort. Der INF-Vertrag ließ bis 1991 nachprüfbar 2.692 Raketen verschrotten, eine ganze Waffenklasse. Washington kündigte ihn 2019 mit Verweis auf den russischen Marschflugkörper 9M729; Moskau gab im August 2025 sein Stationierungsmoratorium auf und stellte im Dezember die Oreschnik in Belarus auf ([Nowaja Gaseta Europa, 30.12.2025](https://novayagazeta.eu/articles/2025/12/30/russia-deploys-oreshnik-missile-system-in-belarus-en-news)). Seit New START am 5. Februar 2026 auslief, begrenzt kein Vertrag mehr die strategischen Arsenale der beiden größten Atommächte, es bleibt Moskaus Ankündigung, sich an die alten Obergrenzen zu halten, solange Washington es auch tut ([Al Jazeera, 11.02.2026](https://www.aljazeera.com/news/2026/2/11/russia-says-it-will-stick-to-limits-of-expired-nuclear-treaty-if-us)). Die Mittelstreckenwaffen, über die in Deutschland gestritten wird, sind konventionell: Die Verlegung des US-Bataillons strich Trump im Mai 2026, im Juli vereinbarte Berlin den Kauf eigener Tomahawks ([[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Faktencheck|Faktencheck]]). Mehr in der Nachbesprechung [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Schreckt Stärke ab — oder hatten wir Glück?|Schreckt Stärke ab — oder hatten wir Glück?]].
 
+Eine eigene Frage ist, ob Nachgeben zum nächsten Angriff einlädt. Nach Daryl Press beurteilen Entscheider die Glaubwürdigkeit eines Gegners nach dessen gegenwärtiger Macht und seinen Interessen, kaum nach früherem Verhalten (*Calculating Credibility*, 2005); Weisiger und Yarhi-Milo finden statistisch, dass früheres Nachgeben doch mit späteren Herausforderungen zusammenhängt ([Weisiger & Yarhi-Milo 2015](https://doi.org/10.1017/s0020818314000393)). Selbst München ist umstritten: Revisionisten lesen es als Zeitgewinn für die britische Aufrüstung ([Ripsman & Levy 2008](https://doi.org/10.1162/isec.2008.33.2.148)), und wie sehr die Analogie das Urteil verzerren kann, zeigte sich 1965 in Vietnam (Khong, *Analogies at War*, 1992).
+
 **Die Stimmen**
 
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Das Schlimmste verhindern, das Beste ermöglichen|Mithu Sanyal]]:** Der Kalte Krieg ging mit Glück aus, nicht durch Abschreckung, und Mittelstreckenwaffen, die bis Moskau reichen, machen Deutschland zum Ziel — gegen reine Verteidigungswaffen würde sie dagegen nicht kämpfen: „Da hängt mein Herz nicht dran.“
@@ -137,8 +139,9 @@ Für die Provokation spricht das Sicherheitsdilemma, das John Herz 1950 benannte
 - **[[Ruben Mawick — Als Sanitaeter an der Ukraine-Front#Taurus, rote Linien und die Frage, ob Russland uns angreift|Ruben Mawick]]:** Rote Linien kann der Westen nicht ziehen, Putin allein entscheidet über einen Krieg mit der NATO, die Atomdrohungen seien „Märchen“ — dass Russland die NATO angreift, kann er sich trotzdem nicht vorstellen, so wenig wie 2022 den Angriff auf die Ukraine.
 - **[[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben#Kein Gleichgewicht des Schreckens, außer dem einen|Susanne Weigelin-Schwiedrzik]]:** Für die Großmächte sind Atomwaffen militärische Waffen, nicht bloß politische; was sie vom direkten Krieg abhält, ist seit der Kubakrise ein „heimliches Einverständnis“ — ein Frieden, der an der Angst vor der eigenen Vernichtung hängt.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
+- **[[Joern Leonhard — Wie man Kriege beendet#Der faule Friede|Jörn Leonhard]]:** Einseitige Zugeständnisse haben einen Angreifer historisch selten befriedet, von Karthago über Brest-Litowsk bis München; diese Beispiele eins zu eins auf Putin zu übertragen, lehnt er aber ab.
 - **[[Herfried Münkler — Muss es Kriege geben#Nuklearzeitalter und die gescheiterte Nonproliferation|Herfried Münkler]]** (Atomwaffen): Seit Russland das Budapester Memorandum brach, ist die Nonproliferation unterlaufen; Deutschland braucht keine eigene Bombe, Europa aber eine gemeinsame, weil der amerikanische Schirm unter Trump zu löchrig ist.
 - **[[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg#Macht KI den Krieg humaner? Das Gegenteil ist dokumentiert|Konstantin Kuhle]]:** Technik, die die eigenen Verluste senkt, ist für den kein Rückschritt, der sich gegen ein Russland verteidigen muss, das seine Soldaten verheizt — Abschreckung durch Überlegenheit, nach der Logik des Atomzeitalters.
 - **[[Angela Merkel — Trotz allem Hoffnung Europa#Die zweite Seite der Medaille|Angela Merkel]]:** „Militärische Abschreckung plus diplomatische Aktivitäten“ — Diplomatie war „immer die zweite Seite der Medaille, auch im Kalten Krieg“.
@@ -242,6 +245,7 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 | 08.10.2026 | [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Nachbesprechung|Sanyal und Kurt — Entgegenkommen, wenn es feindlich wird?]] | Schreckt Stärke ab? → neue Frage · Was macht sicher? → Hybrider Krieg |
 | 09.10.2026 | [[Lars Wienand — Russentrolle und russische Desinformation#Nachbesprechung|Lars Wienand — Привет, Russentrolle!]] | Wer macht den Fake groß? (Tsfati, Lukito, Budak, SDA-Leak/Lund, Jungherr & Rauchfleisch) → *Hybrider Krieg* · Bleibt das Original hängen? (Continued Influence, Implied Truth) → Waise |
 | 16.10.2026 | [[Uwe Krueger — Mainstream und kritische Journalistik#Nachbesprechung|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]] | Wer im eigenen Krieg spricht (Rating 2013, KIIS 2023/2025, Wahlen unter Kriegsrecht, Pleines 2023, Fengler et al. 2018) → *Isolieren oder reden?* |
+| 24.10.2026 | [[Joern Leonhard — Wie man Kriege beendet#Nachbesprechung|Jörn Leonhard — Wie man Kriege beendet]] | Lädt Nachgeben zur nächsten Forderung ein? (Mercer 1996, Press 2005, Weisiger & Yarhi-Milo 2015, Treisman 2004, Ripsman & Levy 2008, Khong 1992) → *Schreckt Stärke ab?* |
 
 ---
 

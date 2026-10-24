@@ -354,6 +354,11 @@ Bülow hält die Aufrüstung für einen Lobbydeal mit erfundener Begründung. Ne
 
 Die Lüneburger Gegen-Debatte: zwei Pazifistinnen gegen zwei Realisten, mit Bahrs struktureller Nichtangriffsfähigkeit und Kurts Frage „Wer ist wir?“.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+Korea, hier der Rahmen des Abends, ist bei Leonhard das Musterbeispiel für Kriege, die nicht mit einem Vertrag enden, sondern mit einem Waffenstillstand, der jahrzehntelang brüchig bleibt.
+
+
 ---
 
 ## Weiterdenken

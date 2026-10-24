@@ -95,6 +95,11 @@ Liberal-rechtsstaatlich, universalistisch und institutionenfreundlich; er argume
 - **[[DenkerVita/Helen Keller|Helen Keller]]** — Zwei Juristen der Institutionen gegen den Fatalismus; Keller argumentiert mit dem Nutzen des Völkerrechts für die Staaten, Safferling mit dem Preis von 1945.
 - **[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — „Die Welt war nie in Ordnung“: Safferling teilt Kalecks Diagnose der Selektivität, hält aber eine Beihilfe-Haftung deutscher Minister wegen der Vorsatzschwelle für schwer erreichbar.
 
+### → [[DenkerVita/Jörn Leonhard|Jörn Leonhard]]
+
+Derselbe Weg vom Vergessen von 1648 über Versailles nach Nürnberg und Den Haag; Safferling setzt auf die Strafe, Leonhard warnt, dass ein mit Gerechtigkeit überladener Frieden schwerer zu schließen ist.
+
+
 ---
 
 ## Gedankenwelten-Notes

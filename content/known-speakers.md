@@ -131,6 +131,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Jörn Leonhard
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jörn Leonhard]]
+
+---
+
 ## Arlie Russell Hochschild
 **Status:** ✓ Vollanalyse → [[DenkerVita/Arlie Russell Hochschild]]
 

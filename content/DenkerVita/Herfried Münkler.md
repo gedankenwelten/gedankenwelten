@@ -130,6 +130,11 @@ Innenpolitisch überrascht er mit Vorschlägen, die quer zum sicherheitspolitisc
 - [[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]] — Beide lesen mit Koselleck den Fortschrittsglauben als tragende Erwartung der Moderne. Münkler nennt ihn Angstblocker, Reckwitz zeigt, dass diese Kultur keine Sprache für den Verlust hat.
 - [[DenkerVita/Heinz Bude|Heinz Bude]] — Budes kollektives Misstrauen mit „wandelbaren Gegenständen“ nimmt Münklers Angst ohne festes Objekt um zwölf Jahre vorweg.
 
+### → [[DenkerVita/Jörn Leonhard|Jörn Leonhard]]
+
+Beide erzählten zum Jahrhundertjahr den Ersten Weltkrieg in einem großen Buch und lesen den Dreißigjährigen Krieg als Modell; Münkler denkt von der Geopolitik her, Leonhard von Opferlogik, Erwartungen und Garantien.
+
+
 ---
 
 ## Gedankenwelten-Notes

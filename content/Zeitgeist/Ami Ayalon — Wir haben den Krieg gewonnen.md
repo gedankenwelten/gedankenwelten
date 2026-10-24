@@ -243,6 +243,10 @@ Das Panorama liest alle sieben Gespräche dieser Reise nebeneinander — und zei
 
 Die Note verarbeitet Ben-Gvirs Podcast-Aufruf zu nächtlichen Tötungen und die deutsche Reaktion darauf — und merkt beim Sprecher eine Lücke an: Die Hamas kommt in 41 Minuten nicht vor. Ayalon füllt genau diese Lücke von innen, indem er die Hamas als jahrelang bewusst gestützten Aktivposten israelischer Politik beschreibt. Beide Notes landen unabhängig voneinander bei Orwell, an verschiedenen Bauweisen: Ayalon bei der Sprache, die einen Feind erzeugt, die Note bei der, die eine Frage vorzeitig schließt.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+„Nicht jeder Sieg ist ein Gewinn“: Leonhards zehnte These und sein „langes Ende“, in dem militärische und politische Logik auseinanderlaufen, von der anderen Seite her gelesen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

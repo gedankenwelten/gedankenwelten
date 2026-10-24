@@ -267,3 +267,8 @@ Die Fortschreibung, und im Ton verändert. Dort fragt Münkler, *was jetzt zu tu
 
 Erklärung trifft Zeugnis. Die strukturelle Ableitung des Frauenraubs — Frauen als knappes Gut, Krieg als Lizenz zum Zugriff, die Linie von der Ilias bis zur Ukraine — bekommt dort ihre Grenze. Jihan Alomar gibt die Sätze der Täter im Futur wieder: „Ihr werdet uns heiraten, mit uns Kinder bekommen." Das war kein Kriegsbegleitumstand alter Herkunft, sondern das erklärte Programm einer Auslöschung, das die nächste Generation zum Ziel hatte.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+Gegenstimme zur postheroischen Gesellschaft: Sobald die Opfer hoch sind, verlängern sie den Krieg, weil jeder Kompromiss die Toten zu verraten scheint (Leonhards „Paradoxie der Verlängerung“).
+
+

@@ -300,6 +300,10 @@ Der „materielle Kitt“ aus Sozialpolitik und Raub steht dort in der Frage „
 
 Blom erzählt den Wiener Antisemitismus um Lueger als Ressentiment des Schusters gegen die Schuhfabrik, deren Prokurist oft Jude war. Neben Alys Neid der Aufsteiger steht damit eine zweite Erklärung aus derselben statistischen Lage: die Angst der Absteiger.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+Leonhard zählt Deutschland nach dem 8. Mai 1945 zu den erfolgreichsten Lernprozessen nach einer Niederlage; Aly zeigt, wie viel Verdrängung zu diesem Lernen gehörte.
+
 ## Eine eigene Reflexion
 
 Alys Vortrag endet nicht mit Beruhigung. Er zeigt, dass die Deutschen von 1933–45 keine andere Species waren. Dieselben Mechanismen — materielle Interessenbindung, Angst vor Konsequenzen, kollektive Verstrickung, die Logik des Kein-Weg-Zurück — sind keine historische Ausnahme.

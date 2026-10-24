@@ -87,6 +87,10 @@ Zugleich ist er kein bequemer Parteigänger: Er kritisiert den Hindu-Nationalism
 - **[[Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger]]** — die institutionelle Leerstelle, in die die „fake community" der Demagogen stößt.
 - **[[Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt]]** — die moralphilosophische Wurzel des reaktiven Affekts, den Mishra historisch entfaltet.
 
+### → [[DenkerVita/Jörn Leonhard|Jörn Leonhard]]
+
+Leonhards 1919, Wilsons Selbstbestimmung als Weltvokabular und die Enttäuschung von Ho Chi Minh bis zur Bewegung des 4. Mai, ist die Vorgeschichte des Ressentiments, das Mishra beschreibt.
+
 ## Gedankenwelten-Notes
 
 - [[Pankaj Mishra — Zeitalter des Zorns]] — der Berkley-Center-Vortrag zu *Age of Anger* (2017), verarbeitet zum 14. Juli 2026

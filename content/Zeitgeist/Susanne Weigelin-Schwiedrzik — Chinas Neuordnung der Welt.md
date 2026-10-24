@@ -301,6 +301,11 @@ Hanna Notte beziffert Russlands Abhängigkeit von China (40 Prozent der Importe,
 
 Dasselbe Malakka-Dilemma beantwortet China bei Specht mit vollen Öllagern, eigenen Raffinerien und Strom aus Sonne und Wind, und er liest dahinter eine Planung, die tut, was sie schreibt. Der Satz, die Strategie sei hinten erkannt und nicht vorne entworfen worden, ist der Einwand dagegen.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+Japan ist für Leonhard ein Beispiel dafür, dass eine Niederlage zur Chance werden kann; das Selbstbild vom „Sklavenstaat“ zeigt, was davon Jahrzehnte später übrig ist.
+
+
 ---
 
 ## Weiterführende Quellen

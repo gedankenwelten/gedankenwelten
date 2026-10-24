@@ -156,6 +156,10 @@ Joks „Sind wir die Hüter unseres Bruders?" ist die Weigerung, im Angesicht de
 
 Joks Unterscheidung zwischen dem Schweigen der Waffen und dem Frieden im Leben der Menschen ist die Klammer jener Note, die zum 73. Jahrestag des Waffenstillstands von Panmunjom entstand — dem Elitenpakt in Reinform: ein Abkommen zwischen Generälen, das die Front einfriert, ohne ein Verhältnis zu regeln, von Südkorea nie unterschrieben. Das Podium streitet darüber, wie viel Waffen Frieden braucht, und setzt dabei voraus, Frieden sei das, was zwischen Staaten ausgehandelt wird — Joks Befund ist, dass ein solcher Frieden unterhalb der Unterzeichner gar nicht ankommen muss.
 
+### → [[Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
+
+Widerspruch zum Elitenpakt: Leonhard sieht im Wiener Kongress, wo Aristokraten unter sich verhandelten, einen Frieden, der hielt, und in Dayton immer noch das kleinere Übel gegenüber dem eskalierten Krieg.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
