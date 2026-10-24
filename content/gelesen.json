@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 857,
-   "aufrufe": 1019
+   "aufrufe": 1020
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -55,8 +55,8 @@
   },
   {
    "pfad": "/DenkerVita/Carlo-Cipolla",
-   "leser": 17,
-   "aufrufe": 22
+   "leser": 18,
+   "aufrufe": 23
   },
   {
    "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 124,
-     "aufrufe": 161
+     "aufrufe": 162
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -349,17 +349,17 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 5,
      "aufrufe": 7
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 5,
      "aufrufe": 5
     },
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 857,
-     "aufrufe": 1019
+     "aufrufe": 1020
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -665,8 +665,8 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 17,
-     "aufrufe": 22
+     "leser": 18,
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 918,
-     "aufrufe": 1101
+     "aufrufe": 1102
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -985,8 +985,8 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 17,
-     "aufrufe": 22
+     "leser": 18,
+     "aufrufe": 23
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 918,
-     "aufrufe": 1101
+     "aufrufe": 1102
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1290,8 +1290,8 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 17,
-     "aufrufe": 22
+     "leser": 18,
+     "aufrufe": 23
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
@@ -1809,11 +1809,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 2,
      "aufrufe": 2
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/DenkerVita/Sven-Beckert",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
      "leser": 2,
      "aufrufe": 2
     }

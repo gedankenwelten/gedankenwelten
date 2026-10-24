@@ -92,12 +92,12 @@ Die Antwort, die sich nicht ganz auflöst: **Ja und nein.**
 
 Das Fragen endet nie — aber was sich verändert, ist der *Aggregatzustand der Erkenntnis*. Beim Klimawandel gibt es gesichertes Wissen. Die offene Frage ist nicht mehr „findet er statt?", sondern „wie handeln wir?". Der Lernende, der hier noch den Anfänger spielt, weicht aus. Das ist Missbrauch der Haltung — Fragen als Alibi für Entscheidungslosigkeit.
 
-Aber: Wer handelt, muss nicht aufhören zu fragen. Marcant geht auf rechte Demos und redet dort mit Jugendlichen — eine Entscheidung, kein Zögern. Und trotzdem führt er keine neuen Dogmen ein. Er handelt *und* fragt gleichzeitig. Das ist der Unterschied zwischen **fragend als Verb** (Praxis, die auch Entscheidungen trägt) und **fragend als Substantiv** (eine Identität, die vor Entscheidungen schützt).
+Aber: Wer handelt, muss nicht aufhören zu fragen. Marcant hat entschieden, wo er steht, und geht dorthin, wo es unbequem ist: mitten auf rechte Aufmärsche. Dort tut er vor allem eines, er stellt Fragen. Und über sich selbst sagt er offen, was seine Videos nicht können: Sie sind unsachlich, und gefestigte Neonazis erreichen sie nicht. Er handelt *und* fragt gleichzeitig, auch sich selbst. Das ist der Unterschied zwischen **fragend als Verb** (Praxis, die auch Entscheidungen trägt) und **fragend als Substantiv** (eine Identität, die vor Entscheidungen schützt).
 
 Der Lernende, der immer noch lernt, hat keine Ausrede für Feigheit. Er hat nur eine Verpflichtung: Wenn er etwas weiß, muss er es sagen. Auch wenn es wehtut. Auch wenn es gegen ihn geht. Das Verb schützt nicht vor Verantwortung — es verlangt sie, unter erhöhtem Bewusstsein für die eigene Fehlerbarkeit.
 
 > [!question] Weitergedacht
-> Marcant handelt und fragt gleichzeitig — *ist das eine Praxis, die man lernen kann, oder braucht man dafür eine bestimmte Geschichte, einen bestimmten Weg durch die Dunkelheit?* Und: Gibt es Bereiche, wo das eigene „Noch-Fragen" schon lange Ausweichen war?
+> Marcant handelt und fragt gleichzeitig — *ist das eine Praxis, die man lernen kann, oder braucht man dafür eine bestimmte Geschichte? Er war zweiundzwanzig, als er zum ersten Mal auf eine Nazidemo ging, ohne Plan und ohne Schutz.* Und: Gibt es Bereiche, wo das eigene „Noch-Fragen" schon lange Ausweichen war?
 
 ---
 
@@ -113,7 +113,7 @@ Das ist der Gegenentwurf zu Höckes Strategie, nicht als Gegenstrategie — denn
 
 Zhao würde sagen: Verb-Denken ist nicht die Abschaffung des Nomen-Denkens. Es ist die zweite Dimension, die bisher fehlte. 50 % des Denkens bleibt nomenbasiert — das ist unvermeidlich und gut so. Aber die anderen 50 % brauchen eine Philosophie des Werdens, nicht des Seins.
 
-El-Mafaalani würde ergänzen: Ausgefeilte Kommunikationsstrategien — auch gut gemeinte — stärken das Misstrauen derer, die du erreichen willst. Weil Misstrauende professionelles Framing sofort als Manipulation identifizieren. Die einzige Kommunikation, die durch geht, ist die, die kein Kalkül trägt. Marcant macht das vor: keine Angriffsfläche, kein Dogma, keine Flanke.
+El-Mafaalani würde ergänzen: Ausgefeilte Kommunikationsstrategien — auch gut gemeinte — stärken das Misstrauen derer, die du erreichen willst. Weil Misstrauende professionelles Framing sofort als Manipulation identifizieren. Die einzige Kommunikation, die durchgeht, ist die, die kein Kalkül trägt. Marcant ist dafür ein gutes Beispiel und ein schwieriges zugleich. Auf der Straße fragt er ohne Kalkül, und gerade das kommt an. Im Schnitt seiner Videos steckt dagegen viel davon: Die Machart, sagt er selbst, hat er sich bei der Gegenseite abgeschaut. Vielleicht trägt es trotzdem, weil er das offen sagt.
 
 Mausfeld würde ergänzen: Macht braucht Apathie. Und Apathie entsteht, wenn der Diskurs so sehr von Begriffen dominiert wird, dass echtes Denken gar nicht mehr möglich scheint. Die Weigerung, im Kategorien-Krieg mitzumachen, ist deshalb nicht Rückzug — sie ist Unterbrechung.
 
@@ -169,7 +169,7 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 - [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Sprache als Herrschaftsinstrument. Mausfeld beschreibt das System, das von Höckes Prinzip profitiert. Die Weigerung, im Begriffe-Krieg mitzumachen, ist auch politische Intervention.
 - [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — „Alternativ" als umgedrehtes Wort. Fancy Kommunikation stärkt Misstrauen. Marcants Ansatz als Gegenmodell.
 - [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Auslöser: Höckes Zitat über Begriffshoheit. Und IT Marios eigene Weigerung, Neutralität vorzutäuschen.
-- [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Keine Angriffsfläche als Stärke. Verb statt Nomen in der Praxis.
+- [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Fragen mitten auf der Demo, und offen über die eigenen Grenzen. Verb statt Nomen in der Praxis.
 - [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]] — Schwestergedanke: die Membran als Selektion zwischen Wahrheit und Erzählung. Die Brandmauer funktioniert nur, wenn sie selbst kein Nomen ist — keine starre Kategorie, sondern ein laufender Prozess.
 - [[Gedanken/Polarisierung als Ideologisierungsfalle]] — Die Falle, in die Nomen-Denken führt: wer einen Begriff verteidigt, extremisiert sich.
 - [[Denker/Walther Ziegler — Habermas in 60 Minuten]] — Die akademische Antwort auf dasselbe Problem: Diskursethik als Versuch, Diskurs ohne Machtasymmetrie zu denken. Verb-Denken ist pragmatischer — es setzt keine ideale Sprechsituation voraus.
