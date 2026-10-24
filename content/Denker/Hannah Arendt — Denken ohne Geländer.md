@@ -34,7 +34,7 @@ Quelle: [Hannah Arendt: »Denken ohne Geländer« — Herbert und Elsbert Weichm
 >
 > Aufgewachsen in Königsberg in einer assimilierten, sozialdemokratisch geprägten jüdischen Familie — die Mutter lehrte sie: *Man darf sich nicht ducken. Man muss sich wehren.* Als Kind außerordentlich sensibel, von Mitlehrenden als „seelisch hochsensibel und leidend unter jedem Menschen" beschrieben (Tagebucheintrag der Mutter, 1914) — und doch wurde sie zur kompromisslosesten Denkerin ihrer Zeit. Dieser Wandel bleibt, nach den Worten ihrer Biografin, ein Rätsel.
 >
-> Der entscheidende Bruch kam nicht 1933, sondern danach: Als sich ihre Freunde gleichschalteten. *„Das Schlimmste war, von den eigenen Freunden verraten zu werden."* Dieser leere Raum, der sich bildete — er ist der biographische Urgrund ihres Denkens. Exil über Paris, interniert im französischen Lager Gurs, Flucht 1941 über Lissabon nach New York. Sie kehrte nicht zurück.
+> Der entscheidende Bruch kam nicht 1933, sondern danach: Als sich ihre Freunde gleichschalteten. *„Das Schlimmste war, von den eigenen Freunden verraten zu werden"*, fasst der Vortragende es zusammen; Arendt selbst sagte es zu Günter Gaus nüchterner: Das Problem sei gewesen, *„was unsere Freunde taten"*. Dieser leere Raum, der sich bildete — er ist der biographische Urgrund ihres Denkens. Exil über Paris, interniert im französischen Lager Gurs, Flucht 1941 über Lissabon nach New York. Sie kehrte nicht zurück.
 >
 > 1943 erfuhr sie von Auschwitz. *„Das war der eigentliche Schock. Vorher sagte man: Man hat Feinde. Aber dies war anders. Als ob der Abgrund sich öffnet. Dies hätte nie geschehen dürfen."*
 >
@@ -56,7 +56,7 @@ Man muss **selbst denken** — ohne die Sicherheit fester Kategorien, ohne den H
 > [!warning] Das Paradox der festen Werte
 > Die Menschen, auf die Verlass war unter dem NS-Regime, waren nicht jene mit den festesten Werten — denn diese Werte ließen sich einfach austauschen. Verlässlicher waren die **Zweifler und Skeptiker**, weil sie es gewohnt waren, Dinge zu überprüfen und sich ihre eigene Meinung zu bilden.
 
-> *„Vielverlässlicher werden die Zweifler und Skeptiker sein. Nicht etwa, weil Skeptizismus gut und Zweifel heilsam ist, sondern weil diese Menschen es gewohnt sind, Dinge zu überprüfen und sich ihre eigene Meinung zu bilden."*
+> *„Viel verlässlicher werden die Zweifler und Skeptiker sein. Nicht etwa, weil Skeptizismus gut und Zweifel heilsam ist, sondern weil diese Menschen es gewohnt sind, Dinge zu überprüfen und sich ihre eigene Meinung zu bilden."*
 
 > [!note] Eigene Einschätzung
 > Das ist einer der mutigsten Sätze, die je über Moral geschrieben wurden — weil er gegen die Intuition geht. Feste Überzeugungen fühlen sich wie Halt an. Arendt sagt: Sie sind es nicht. Der Zweifler, der jede Situation neu prüft, ist moralisch stabiler als der Überzeugungstäter. Das gilt auch heute, wenn Algorithmen, Tribalisierung und Echokammern immer schneller „feste Werte" produzieren — die sich genauso schnell tauschen lassen.

@@ -62,7 +62,7 @@ Gaus war seit 1955 mit Erika Butzengeiger verheiratet; ihre Tochter Bettina Gaus
 | [Wo Deutschland liegt. Eine Ortsbestimmung](https://www.genialokal.de/Suche/?q=gaus+wo+deutschland+liegt) | 1983 | Die Bilanz der Jahre in Ost-Berlin. Hier steht der Begriff der „Nischengesellschaft“ — die DDR als Land privater Rückzugsräume, die das Regime zugleich entlasteten. |
 | [Die Welt der Westdeutschen. Kritische Betrachtungen](https://www.genialokal.de/Suche/?q=gaus+welt+der+westdeutschen) | 1986 | Der Blick des Rückkehrers auf die eigene Republik: Selbstgewissheit, Westbindung, Wohlstand. |
 | [Wendewut. Eine Erzählung](https://www.genialokal.de/Suche/?q=gaus+wendewut) | 1990 | Sein einziges erzählerisches Buch, geschrieben im Jahr der Einheit, über die Kränkungen des Umbruchs. |
-| [Was bleibt, sind Fragen. Die klassischen Interviews](https://www.genialokal.de/Suche/?q=gaus+was+bleibt+sind+fragen) | 1992 | Die Abschriften der frühen *Zur Person*-Gespräche, darunter Arendt, Adenauer, Strauß, Brandt. Der Titel zitiert Arendts „Was bleibt?“. |
+| [Was bleibt, sind Fragen. Die klassischen Interviews](https://www.genialokal.de/Suche/?q=gaus+was+bleibt+sind+fragen) | 1992 | Die Abschriften der frühen *Zur Person*-Gespräche, darunter Arendt, Adenauer, Strauß, Brandt. |
 | [Zur Person. Zeugen der Geschichte](https://www.genialokal.de/Suche/?q=gaus+zur+person+zeugen+der+geschichte) | 2001 | Auswahl der späteren Gespräche, vor allem aus der ORB-Zeit, mit vielen ostdeutschen Gästen. |
 | [Widersprüche. Erinnerungen eines linken Konservativen](https://www.genialokal.de/Suche/?q=gaus+widersprueche+erinnerungen+linken+konservativen) | 2004 | Die unvollendeten Memoiren, postum erschienen. Der Untertitel ist sein Selbstbild. |
 

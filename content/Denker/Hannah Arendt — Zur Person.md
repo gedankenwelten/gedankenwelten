@@ -102,7 +102,7 @@ Damit ist in den ersten drei Minuten ihr ganzes Programm gesagt. Platon wollte d
 
 [▶ 7:38](https://www.youtube.com/watch?v=J9SyTEUi6Kw&t=458) Dann folgt die berühmte Spitze. Die Frage nach der Wirkung sei, „wenn ich ironisch werden darf – eine männliche Frage. Männer wollen immer furchtbar gern wirken; aber ich sehe das gewissermaßen von außen. Ich selber wirken? Nein, ich will verstehen.“ Und wenn andere im selben Sinne verstehen, wie sie verstanden hat, „dann gibt mir das eine Befriedigung, wie ein Heimatgefühl.“
 
-Das Wort *Heimatgefühl* sagt eine Staatenlose. Achtzehn Jahre hatte sie keinen Pass, und die Heimat, die ihr blieb, war das gemeinsame Verstehen. Darin steckt ein Gedanke, der ihr ganzes Werk trägt: Verstehen ist kein Besitz, den man im Kopf herumträgt. Es wird erst wirklich, wenn es geteilt wird, und es braucht dafür einen Ort zwischen Menschen.
+Das Wort *Heimatgefühl* sagt eine Staatenlose. Fast vierzehn Jahre hatte sie keinen Staat, und die Heimat, die ihr blieb, war das gemeinsame Verstehen. Darin steckt ein Gedanke, der ihr ganzes Werk trägt: Verstehen ist kein Besitz, den man im Kopf herumträgt. Es wird erst wirklich, wenn es geteilt wird, und es braucht dafür einen Ort zwischen Menschen.
 
 [▶ 8:23](https://www.youtube.com/watch?v=J9SyTEUi6Kw&t=503) Wie sie schreibe? Sie schreibe „niemals, bevor ich nicht sozusagen abschreibe“, also erst, wenn der Gedanke fertig ist. Dann gehe es rasch, „weil es eigentlich nur davon abhängt, wie rasch ich tippe.“
 
