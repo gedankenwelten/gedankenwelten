@@ -92,7 +92,7 @@ Die Antwort, die sich nicht ganz auflöst: **Ja und nein.**
 
 Das Fragen endet nie — aber was sich verändert, ist der *Aggregatzustand der Erkenntnis*. Beim Klimawandel gibt es gesichertes Wissen. Die offene Frage ist nicht mehr „findet er statt?", sondern „wie handeln wir?". Der Lernende, der hier noch den Anfänger spielt, weicht aus. Das ist Missbrauch der Haltung — Fragen als Alibi für Entscheidungslosigkeit.
 
-Aber: Wer handelt, muss nicht aufhören zu fragen. Marcant hat die rechte Szene verlassen — eine Entscheidung, kein Zögern. Und trotzdem führt er keine neuen Dogmen ein. Er handelt *und* fragt gleichzeitig. Das ist der Unterschied zwischen **fragend als Verb** (Praxis, die auch Entscheidungen trägt) und **fragend als Substantiv** (eine Identität, die vor Entscheidungen schützt).
+Aber: Wer handelt, muss nicht aufhören zu fragen. Marcant geht auf rechte Demos und redet dort mit Jugendlichen — eine Entscheidung, kein Zögern. Und trotzdem führt er keine neuen Dogmen ein. Er handelt *und* fragt gleichzeitig. Das ist der Unterschied zwischen **fragend als Verb** (Praxis, die auch Entscheidungen trägt) und **fragend als Substantiv** (eine Identität, die vor Entscheidungen schützt).
 
 Der Lernende, der immer noch lernt, hat keine Ausrede für Feigheit. Er hat nur eine Verpflichtung: Wenn er etwas weiß, muss er es sagen. Auch wenn es wehtut. Auch wenn es gegen ihn geht. Das Verb schützt nicht vor Verantwortung — es verlangt sie, unter erhöhtem Bewusstsein für die eigene Fehlerbarkeit.
 

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **24.10.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
+>
+> Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
+
 > **23.10.** — [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]]
 >
 > Wer zehn Oldtimer besitzt, wird reicher, wer einen Gebrauchtwagen hat, ärmer. Vier Stimmen über Vermögen, das sich niemand mehr vorstellen kann, und die Frage, wem was gehört.
@@ -40,13 +44,13 @@ Die Gedankenwelten (luc)
 >
 > Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 
-> **18.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
->
-> Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
-
-> → *4 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Panorama
+
+> **24.10.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
+>
+> Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
 
 > **23.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
 >
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
 
-> **22.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> → *8 weitere in* [[Panorama]]
+> → *7 weitere in* [[Panorama]]
 
 ### Denker
 
@@ -83,10 +83,6 @@ Die Gedankenwelten (luc)
 > **20.10.** — [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
 >
 > Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
-
-> **16.10.** — [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen|Michael Hampe — Warum Debatten über KI und Willen trügen]]
->
-> Der freie Wille lässt sich nicht glatt ins Chinesische übersetzen. Für Hampe ein Hinweis: Unsere Wörter für das Innere entdecken nichts, sie machen uns erst zu dem, was sie beschreiben.
 
 ### Spuren
 
