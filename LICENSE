@@ -56,6 +56,16 @@ SOFTWARE.
 
 ---
 
+### Exception: third-party material
+
+Verbatim quotations, stills from talks and embedded media remain the property
+of their respective authors. They are used under the German quotation right
+(§ 51 UrhG) or under the license stated next to them (e.g. CC BY 4.0) and are
+**not** covered by the CC BY-SA license of this repository. Banner images are
+AI-generated; their prompts are published with each note.
+
+---
+
 ## Third-Party Attribution
 
 This project uses [Quartz](https://github.com/jackyzha0/quartz) as its static
