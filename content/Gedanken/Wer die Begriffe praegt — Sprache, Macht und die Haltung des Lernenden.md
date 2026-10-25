@@ -150,7 +150,7 @@ Das ist der Gegenentwurf zu Höckes Strategie. Eine Gegenstrategie wäre wieder 
 
 Zhao hält dabei fest, dass das Verb-Denken das Nomen-Denken nicht abschafft. Es ist die zweite Dimension, die bisher fehlte. Etwa die Hälfte unseres Denkens, schätzt er grob, deckt das Nomen ab, ein Viertel die Mathematik; das letzte Viertel, das Werdende und Qualitative, ist noch unbetretenes Land. Das Nomen bleibt, und das ist gut so. Für das letzte Viertel aber braucht es eine Philosophie des Werdens.
 
-Von El-Mafaalani kommt eine Warnung, die auch das Gutgemeinte trifft. Ausgefeilte Kommunikationsstrategien stärken das Misstrauen derer, die man erreichen will, denn wer misstraut, erkennt professionelles Framing sofort und hört darin Manipulation. Durch kommt nur, was kein Kalkül trägt. Marcant ist dafür ein gutes Beispiel und ein schwieriges zugleich. Auf der Straße fragt er ohne Kalkül, und gerade das kommt an. Im Schnitt seiner Videos steckt dagegen viel davon: Die Machart, sagt er selbst, hat er sich bei der Gegenseite abgeschaut. Vielleicht trägt es trotzdem, weil er das offen sagt.
+Von El-Mafaalani kommt eine Warnung, die auch das Gutgemeinte trifft. Ausgefeilte Kommunikationsstrategien stärken das Misstrauen derer, die man erreichen will, denn wer misstraut, erkennt professionelles Framing sofort und hört darin Manipulation. An Marcant sieht man, wo diese Warnung genauer werden muss. Auch er fragt mit Absicht: Seine Fragen zielen auf die Stelle, an der es peinlich wird, und die will niemand zeigen. Aber die Absicht liegt offen in der Frage, sie tarnt sich nicht als etwas anderes. Vielleicht ist das der Unterschied, auf den es ankommt, zwischen einem Kalkül, das sich versteckt, und einem, das man sehen kann. Im Schnitt seiner Videos steckt mehr davon, die Machart hat er sich nach eigenen Worten bei der Gegenseite abgeschaut. Auch das sagt er offen.
 
 Bei Mausfeld steht der Satz, dass Macht Apathie braucht. Apathie entsteht, wenn Begriffe den Diskurs so beherrschen, dass echtes Denken gar nicht mehr möglich scheint. Wer beim Krieg der Kategorien nicht mitmacht, zieht sich darum nicht zurück. Er unterbricht.
 
@@ -216,7 +216,7 @@ Nomenbasiertes gegen verbales Denken: das philosophische Fundament dieser Reflex
 Sprache als Herrschaftsinstrument. Mausfeld beschreibt das System, das von Höckes Prinzip profitiert. Die Weigerung, im Begriffe-Krieg mitzumachen, ist auch politische Intervention.
 
 ### → [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften]]
-„Alternativ" als umgedrehtes Wort. Ausgefeilte Kommunikation stärkt Misstrauen; Marcants Ansatz als Gegenmodell.
+„Alternativ" als umgedrehtes Wort. Ausgefeilte Kommunikation stärkt Misstrauen; an Marcant wird die Warnung genauer: Auch er fragt mit Kalkül, aber mit einem, das man sehen kann.
 
 ### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert|IT Mario — 40.000 Bundestagsreden analysiert]]
 Der Auslöser: Höckes Satz über die Begriffshoheit. Und IT Marios eigene Weigerung, Neutralität vorzutäuschen.
