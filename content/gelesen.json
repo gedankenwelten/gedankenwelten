@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 866,
-   "aufrufe": 1033
+   "aufrufe": 1032
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -229,6 +229,11 @@
    "aufrufe": 5
   },
   {
+   "pfad": "/DenkerVita/Juergen-Kornmeier",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
    "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
    "leser": 5,
    "aufrufe": 5
@@ -284,11 +289,6 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Juergen-Kornmeier",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/DenkerVita/Mats-Schoenauer",
    "leser": 4,
    "aufrufe": 4
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 97,
-     "aufrufe": 118
+     "leser": 96,
+     "aufrufe": 116
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -324,11 +324,6 @@
      "aufrufe": 19
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 10,
-     "aufrufe": 11
-    },
-    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 9,
      "aufrufe": 11
@@ -337,6 +332,11 @@
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 9,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 9,
+     "aufrufe": 10
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -484,6 +484,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Maja-Goepel",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Markus-Gabriel-KI-als-Resonanzfeld-und-Mu-(scobel)",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Markus-Gabriel-Universelle-Moral",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 866,
-     "aufrufe": 1033
+     "aufrufe": 1032
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -839,6 +839,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 5,
      "aufrufe": 5
@@ -894,11 +899,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Mats-Schoenauer",
      "leser": 4,
      "aufrufe": 4
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 929,
-     "aufrufe": 1117
+     "aufrufe": 1116
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1054,6 +1054,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "leser": 9,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 9,
      "aufrufe": 10
@@ -1080,11 +1085,6 @@
     },
     {
      "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 8,
-     "aufrufe": 11
-    },
-    {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "leser": 8,
      "aufrufe": 11
     },
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 929,
-     "aufrufe": 1117
+     "aufrufe": 1116
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1359,6 +1359,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "leser": 9,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 9,
      "aufrufe": 10
@@ -1385,11 +1390,6 @@
     },
     {
      "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 8,
-     "aufrufe": 11
-    },
-    {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "leser": 8,
      "aufrufe": 11
     },
@@ -1749,11 +1749,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Walther-Ziegler-Kafka-in-60-Minuten",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 2,
      "aufrufe": 2
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/DenkerVita/Sven-Beckert",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
      "leser": 2,
      "aufrufe": 2
     }
