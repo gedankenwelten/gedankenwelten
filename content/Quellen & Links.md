@@ -1516,9 +1516,12 @@ tags:
 | | |
 |---|---|
 | **Video** | [Hat er das WIRKLICH gesagt? Kriegsreporter reagiert auf Richard David Precht](https://www.youtube.com/watch?v=ecG_GxYxPq4) |
-| **Primärquelle** | Richard David Precht im Spiegel-Interview (kommentierte Aussagen zur russischen Bedrohung) |
+| **Primärquelle** | [Schlittern wir in den Dritten Weltkrieg? — Richard David Precht im Spitzengespräch](https://www.youtube.com/watch?v=tRuCpUKNewg) (DER SPIEGEL, Markus Feldenkirchen, 09.04.2025; Passage 13:49–16:24) |
+| **Precht seither** | [Star-Philosoph vs. Kriegsreporter streiten über Russland und Ukraine](https://www.youtube.com/watch?v=LhpNvfHolMU) (Ronzheimer, 24.10.2026) |
+| **DenkerVita** | [[DenkerVita/Richard David Precht]] |
 | **Notiz** | [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Flemig_Precht_Reaktion_Transkript.txt` |
+| **Transkripte Original** | `Gedankenwelten/Transkripte/Precht_Spitzengespraech_Transkript.txt` · `Gedankenwelten/Transkripte/Precht_Ronzheimer_Transkript.txt` |
 
 ## Annette Dittert — Dear Britain (Brexit, Musk, Frühwarnsystem)
 

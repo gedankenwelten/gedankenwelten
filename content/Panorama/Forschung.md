@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-10-11
+aktualisiert: 2026-10-25
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -119,6 +119,8 @@ Wie viel es kostet, diese Unsicherheit offen auszusprechen, ist gemessen, und es
 
 Was das Vertrauen von außen angreift, ist ebenfalls vermessen. Die Tabak-, die Zucker- und die Ölindustrie wollten niemanden vom Gegenteil überzeugen, sie wollten Zweifel säen (*„Doubt is our product“*, Brown & Williamson 1969; [Supran, Rahmstorf & Oreskes 2023, doi:10.1126/science.abk0063](https://doi.org/10.1126/science.abk0063)). Wie stark der wahrgenommene Konsens Haltungen trägt, zeigt das *Gateway Belief Model*: Wer von der Einigkeit der Klimaforschung erfährt, schätzt sie höher ein und unterstützt eher Klimapolitik ([van der Linden et al. 2015, doi:10.1371/journal.pone.0118489](https://doi.org/10.1371/journal.pone.0118489); Bündelung von neun Studien: [Rode et al. 2025, doi:10.1016/j.cobeha.2025.101521](https://doi.org/10.1016/j.cobeha.2025.101521)) — die Effekte sind umstritten. Gegen die Hoffnung, mehr Wissen löse den Streit, steht Kahans Befund, dass gerade die Kundigsten am stärksten nach politischem Lager polarisiert sind ([Kahan et al. 2012, doi:10.1038/nclimate1547](https://doi.org/10.1038/nclimate1547)); spätere Studien finden die Identität wirksam, aber keinen klaren Verstärker durch Bildung ([Tappin, Pennycook & Rand 2021, doi:10.1037/xge0000974](https://doi.org/10.1037/xge0000974)). Was nachweislich hilft, ist die Impfung vorher: Kurze Clips über Manipulationstechniken verbesserten in einem YouTube-Feldversuch mit gut 22.000 Menschen das Erkennen, über die Lager hinweg ([Roozenbeek et al. 2022, doi:10.1126/sciadv.abo6254](https://doi.org/10.1126/sciadv.abo6254)); Meta-Analysen finden kleine bis mittlere Effekte ohne allgemeinen Zynismus ([Simchon et al. 2026, doi:10.1016/j.copsyc.2025.102194](https://doi.org/10.1016/j.copsyc.2025.102194)). Wie lange sie hält, ist offen.
 
+Am Rand der Wissenschaft liegt die politische Prognose, und dort ist der Befund ernüchternd. Philip Tetlock ließ 284 Fachleute über zwanzig Jahre 82.361 Vorhersagen abgeben; sie lagen kaum über dem Zufall, die vielseitig und selbstkritisch Denkenden schnitten besser ab, und die in den Medien meistgefragten schlechter als ihre unbekannteren Kollegen (*Expert Political Judgment*, 2005, [doi:10.1515/9781400830312](https://doi.org/10.1515/9781400830312)). Lernbar ist es trotzdem: Training und Teamarbeit verbessern geopolitische Vorhersagen messbar ([Mellers u. a. 2014, doi:10.1177/0956797614524255](https://doi.org/10.1177/0956797614524255)). Wer außerhalb seines Fachs urteilt, sollte seine Zuversicht senken ([Ballantyne 2019, doi:10.1093/oso/9780190847289.003.0008](https://doi.org/10.1093/oso/9780190847289.003.0008)) und es kennzeichnen ([Gerken 2018, doi:10.1007/s10838-018-9416-1](https://doi.org/10.1007/s10838-018-9416-1)). Mehr in der Nachbesprechung [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Wer darf über Krieg reden?|Wer darf über Krieg reden?]].
+
 **Die Stimmen**
 
 - **[[Torsten Wilholt — Wahrheit und Wissen#Der Skeptiker als Anfänger — Wissen ist keine Gewissheit|Torsten Wilholt]]:** Aus „ich kann mich immer irren“ folgt nicht „ich irre mich immer“; Fallibilismus ist vernünftig, Skeptizismus ein Fehlschluss.
@@ -144,7 +146,7 @@ Was das Vertrauen von außen angreift, ist ebenfalls vermessen. Die Tabak-, die 
 - **[[Albert Moukheiber — Mein Hirn und die anderen#10. Vertrauen — der unsichtbare Kit der Zivilisation|Albert Moukheiber]]:** Wir hängen alle vom Wissen anderer ab; entscheidend ist, zu wissen, wann man vertrauen darf.
 - **[[ARTE — Forschung Fake und faule Tricks#Klimaskepsis: Twitter-Schlachtfeld und ideologische Wurzeln|Naomi Oreskes]]:** Die ersten Klimaskeptiker waren Physiker des Kalten Krieges, getrieben mehr von Ideologie als von Geld.
 - **[[Gert Scobel — Meditation kann gefaehrlich sein#Was wissen wir wirklich?|Gert Scobel]]:** Robuste Evidenz, dokumentierte Nebenwirkungen, und doch: Wir stellen gerade erst die richtigen Fragen.
-- **[[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Das eigentliche Thema: die Grenzen der Expertise|Konstantin Flemig]]:** Niemand kann Experte für alles sein.
+- **[[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Das eigentliche Thema die Grenzen der Expertise|Konstantin Flemig]]:** Niemand kann Experte für alles sein. Precht hält im selben Streit dagegen: Experten wüssten „nur auf ihren Fachgebieten“ Bescheid, und bei Prognosen lägen auch sie oft daneben — beide ziehen dieselbe Grenze an verschiedenen Stellen.
 
 </details>
 
@@ -196,6 +198,7 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 | 08.10.2026 | [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Darf ein Staat in der Krise Angst machen?|Göpel und Marinić — Vertrauen, utopisch?]] | Vertrauen in die Wissenschaft vor, in und nach der Pandemie; was offen benannte Unsicherheit kostet (van der Bles 2020, Petersen 2021) · die Angst-Frage selbst bleibt ohne Panorama |
 | 10.10.2026 | [[Greenpeace — Katherina Reiche und die Gasindustrie#Wer bestellt, schreibt mit?|Greenpeace — Katherina Reiche und die Gasindustrie]] | Der Staat als Auftraggeber, der mitschreibt: EWI-Monitoringbericht, Cooney 2005, LSE GV314 2013, Yazahmeidi & Holman 2007, McCrabb 2021; deutsche Fälle über Parteigrenzen (Gorleben, EWI 2010, Prüfvermerk 2022, Glyphosat); BBAW-Leitlinien, UK-Publikationsprotokoll |
 | 11.10.2026 | [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Hilft Erklären gegen gesäten Zweifel?|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]] | Gesäter Zweifel und was dagegen hilft: Gateway Belief Model (van der Linden 2015, Rode 2025) gegen Kahan 2012 und Tappin 2021, Backfire selten (Wood & Porter), Prebunking im Feld (Roozenbeek 2022, Lu 2023, Simchon 2026), Löschels laute Minderheit |
+| 25.10.2026 | [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Wer darf über Krieg reden?|Flemig reagiert auf Precht]] | Wer darf über Krieg reden? (Ballantyne 2019, Gerken 2018, Tetlock 2005, Mellers 2014, Knoll & Matthes 2016, Habermas 2006) |
 
 ---
 

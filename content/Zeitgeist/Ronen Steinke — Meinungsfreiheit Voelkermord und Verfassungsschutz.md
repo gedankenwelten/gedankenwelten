@@ -200,7 +200,7 @@ Steinkes These ist fundamentaler: Der *Staat* höhlt die Meinungsfreiheit aus �
 - Ronen Steinke: *Meinungsfreiheit — Wie Polizei und Justiz unser Grundrecht einschränken* (Piper, 2026) — Das Buch, um das sich das Gespräch dreht
 - Ronen Steinke: *Fritz Bauer. Oder: Auschwitz vor Gericht* (Piper, 2013) — Biografie, Vorlage für den Kinofilm *Der Staat gegen Fritz Bauer*
 - Ronen Steinke: *Vor dem Gesetz sind nicht alle gleich* (Berlin Verlag, 2022) — Klassenjustiz
-- Richard David Precht: *Von der Pflicht, die Klappe aufzumachen* — Gegenposition zu Steinkes Meinungsfreiheits-Analyse
+- [[DenkerVita/Richard David Precht|Richard David Precht]]: *Angststillstand. Warum die Meinungsfreiheit schwindet* (Goldmann 2025) — Gegenposition zu Steinkes Meinungsfreiheits-Analyse
 - Ilker Çatak: *Gelbe Briefe* (Berlinale 2026) — Film über Kulturzensur (Türkei/Deutschland-Parabel)
 - IHRA-Definition und Jerusalem Declaration — Zwei konkurrierende Antisemitismus-Definitionen
 - Wolfgang Kaleck / ECCHR — Strafanzeigen wegen Waffenlieferungen (Jemen, Gaza)

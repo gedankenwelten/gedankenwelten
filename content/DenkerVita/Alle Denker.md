@@ -528,6 +528,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Vijay Prashad|Vijay Prashad]]** — indischer Historiker, Journalist und Marxist (*1967, Kolkata); Direktor von Tricontinental: Institute for Social Research, Chefredakteur LeftWord Books; die Dritte Welt als *Projekt* statt als Ort (*The Darker Nations*, 2007), Hyperimperialismus, „neue Stimmung im Globalen Süden“, Kerala als gelebtes Beispiel — quellenreich nach außen, umstritten wegen seiner Haltung zu China, Syrien und Venezuela
 
+**[[DenkerVita/Richard David Precht|Richard David Precht]]** — Philosoph und Publizist (*1964, Solingen), Bestsellerautor, ZDF-Sendung *Precht* und Podcast *Lanz + Precht*; trägt die Philosophie ins breite Publikum und widerspricht dem Konsens — Pflichtjahre, Grundeinkommen, Medienkritik (*Die vierte Gewalt*), Skepsis gegen Waffenlieferungen
+
 ## Q
 
 **[[DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende

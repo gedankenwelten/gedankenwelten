@@ -36,21 +36,25 @@ Die Gedankenwelten (luc)
 >
 > Je moralischer ein Unternehmen, desto profitabler auf lange Sicht: Markus Gabriel liest Adam Smiths unsichtbare Hand als menschliche Freiheit und will jeder Firma einen Chief Philosophy Officer geben.
 
+> **25.10.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
+>
+> Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
+
 > **25.10.** — [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
 >
 > Derselbe Begriff kann Raub rechtfertigen oder Kooperation ordnen: Christoph Hein und Maja Göpel suchen Europas Platz zwischen einem Amerika, das nimmt, und einem China, das kauft.
 
-> **24.10.** — [[Zeitgeist/Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
->
-> Ein Krieg hat ein Anfangsdatum, ein Ende hat er selten. Der Historiker Jörn Leonhard zeigt in zehn Thesen, warum der Frieden mit der Unterschrift erst beginnt und die Gewalt gerade dann steigt, wenn verhandelt wird.
-
-> → *6 weitere in* [[Zeitgeist]]
+> → *7 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
-> **24.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+> **25.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **25.10.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
 > **24.10.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
 >
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
 
-> **23.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *6 weitere in* [[Panorama]]
+> → *7 weitere in* [[Panorama]]
 
 ### Denker
 

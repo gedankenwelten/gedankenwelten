@@ -1249,3 +1249,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Willy Brandt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Willy Brandt]]
+
+## Richard David Precht
+**Status:** ✓ Vollanalyse → [[DenkerVita/Richard David Precht]]
