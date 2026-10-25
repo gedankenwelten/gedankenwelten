@@ -46,6 +46,9 @@ ein Satz „wäre ein Fall für /heraklit“ oder „braucht *Was seither gescha
 - **DenkerVita:** keine Transkript-Quelle. Geprüft wird an Primärquellen (Lehrstuhl-/Institutsseite,
   DNB, Verlag, eigene Website, seriöse Presse). Wikipedia ist ein Wegweiser, kein Beleg.
 
+**Bekannte Muster zuerst:** `python3 .claude/scripts/fehler_register.py auswertung` zeigt, welche
+Fehler bisher am häufigsten waren, vor allem unsere eigenen und ihre Ursachen. Danach gezielt suchen.
+
 ### 2. Durchgehen — in dieser Reihenfolge
 
 1. **Zitate.** Jedes wörtliche Zitat gegen das Transkript: Wortlaut, **Sprecher** (Interviewer ≠
@@ -118,7 +121,31 @@ für diesen Lauf.
 - **`aktualisiert:` NICHT bumpen** — Korrekturen sind keine Vertiefung (`rules/gedankenwelten.md`).
 - Vor dem Deploy noch einmal `doi_pruefung.py --note`, falls DOIs angefasst wurden.
 
-### 5. Abschluss
+### 5. Ins Fehler-Register
+
+Jeder Befund eine Zeile, auch die des Sprechers und der ⚪-Kleinkram, auch was (noch) nicht korrigiert
+wurde (`--offen`). Andreas, 25.10.2026: „vielleicht erkennen wir wiederkehrende vermeidbare fehler,
+die auf dauer passieren.“ Ein Fehler wird korrigiert, ein **Muster** wird an der Quelle abgestellt:
+als Regel dort, wo es entsteht (Skill, Pipeline-Schritt, Prompt), nicht als Nachlauf.
+
+```bash
+python3 .claude/scripts/fehler_register.py eintragen --note "$NOTE" \
+  --schwere rot|orange|gelb|riskant|klein \
+  --kategorie zitat-wortlaut|zitat-sprecher|zeitmarke|name|zahl|datum|zuordnung|studie-doi|eigene-einordnung|faktencheck-urteil|lebende-person|veraltet|link|bild|transkription|sonstiges \
+  --urheber sprecher|wir|transkript \
+  --ursache paraphrase-als-zitat|interviewer-verwechselt|txt-statt-vtt|aus-gedaechtnis|sekundaerquelle|zusammengezogen|zu-glatt-formuliert|veraltet|unbekannt|sonstiges \
+  --herkunft pipeline|altbestand|vertiefung \
+  --was "was dastand, ein Satz" --korrektur "was jetzt dasteht, ein Satz"
+```
+
+- `--urheber wir` heißt: Der Fehler stammt aus unserem Text, nicht aus dem Mund des Sprechers.
+  Nur dann zählt `--ursache`, und genau dort liegt das Vermeidbare.
+- `--herkunft pipeline` bei einer frischen Note aus `/gedankenwelt` (der zweite Durchgang, für den
+  Aristarch gebaut ist), `altbestand` bei alten Notes.
+- Zeigt `auswertung` bei einer Ursache **„← Muster“** (≥ 3), in der Antwort an Andreas einen
+  Vorschlag machen, wo die Regel hingehört — umgesetzt wird erst mit seinem Ja.
+
+### 6. Abschluss
 
 ```bash
 NOTE="Gedankenwelten/<Rubrik>/<Name>.md"
@@ -129,7 +156,7 @@ p=sys.argv[1]; print(json.dumps({'path': p, 'content': open(p).read(), 'media_ty
 " "$NOTE" | curl -s --max-time 420 -X POST "<dein-rag-server>/webhook/ingest-gedankenwelten" \
   -H "Content-Type: application/json" -d @- | head -c 200
 
-git add "$NOTE" && git commit -m "aristarch: <Name> — <n> Fehler korrigiert" && git push
+git add "$NOTE" .claude/data/aristarch/fehler.jsonl && git commit -m "aristarch: <Name> — <n> Fehler korrigiert" && git push
 <vault>/.claude/scripts/sync-from-cortex.sh      # öffentlich (gwship läuft mit)
 ```
 
@@ -153,4 +180,5 @@ Kein Journal-Eintrag für eine reine Korrektur — es sei denn, ein Fehler hatte
 - [ ] Zitate · Namen/Zahlen/Daten · Studien/DOIs · unsere Sätze · lebende Personen · Links · Bilder
 - [ ] Befundliste mit Schwere, Gesamturteil
 - [ ] Korrekturen nach Andreas' Ja, ohne `aktualisiert:`-Bump
-- [ ] RAG, Commit, Sync, Cortex-Log
+- [ ] Jeder Befund ins Fehler-Register (`fehler_register.py eintragen`), Muster ansprechen
+- [ ] RAG, Commit (Note + `.claude/data/aristarch/fehler.jsonl`), Sync, Cortex-Log
