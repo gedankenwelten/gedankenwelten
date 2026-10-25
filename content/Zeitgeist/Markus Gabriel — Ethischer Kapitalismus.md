@@ -1,6 +1,8 @@
 ---
 title: "Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?"
-aktualisiert: 2026-04-30
+aktualisiert: 2026-10-25
+description: "Je moralischer ein Unternehmen, desto profitabler auf lange Sicht: Markus Gabriel liest Adam Smiths unsichtbare Hand als menschliche Freiheit und will jeder Firma einen Chief Philosophy Officer geben."
+raetsel: "Ein heißer Tag, ein Kind im flachen Wasser. Wer jetzt abwägt, denkt einen Gedanken zu viel."
 date: 2026-04-30
 tags:
   - zeitgeist
@@ -14,10 +16,23 @@ aliases:
 
 # Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?
 
+![[assets/Markus-Gabriel-Ethischer-Kapitalismus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera** — Fresko, Erdrot und Ocker, ein dichter Markt mit Fabrik. In der Mitte eine riesige offene Hand aus lauter kleinen Menschen, die eine Waage hält; vorne links kniet einer am flachen Teich und hebt ein Kind aus dem Wasser, hinter ihm steht die vergessene Flasche Bier. Rivera, weil er die Industrie als Werk vieler Hände malte, und Gabriels Pointe ist genau das: Die unsichtbare Hand ist der Mensch. Das Kind im flachen Wasser ist sein Beispiel für eine moralische Tatsache — wer erst abwägt, hat einen Gedanken zu viel.
+
+*Prompt:* Fresco mural in the style of Diego Rivera, wide banner, earthy reds, ochres and greens. A busy market and factory scene full of workers, traders and machines arranged in dense rhythmic rows. In the center rises one enormous open human hand, built from many small interlocking people, holding up a simple balance scale. In the left foreground a worker has stepped out of the line and kneels at a shallow pond, lifting a small child out of the water; behind him on a crate stands a forgotten bottle of beer. Visible plaster texture of true fresco, bold rounded volumes, strong outlines. Stylized simplified figures, no realistic faces, no photorealism, no text, no signature.
+
+</details>
+
+> [!abstract] Worum es geht
+> Je moralischer ein Unternehmen, desto profitabler ist es auf lange Sicht: So lautet Markus Gabriels Kernthese in einer Vorlesung an der Universität Luzern. Er zerlegt den Kapitalismus in drei lose verknüpfte Bedingungen, begründet moralische Tatsachen am Kind im flachen Wasser und liest Adam Smiths unsichtbare Hand als menschliche Freiheit. Sein praktischer Vorschlag: In jedes Unternehmen gehört ein Chief Philosophy Officer.
+
 Quelle: [Prof. Dr. Markus Gabriel: Ethischer Kapitalismus – Modell der Zukunft?](https://www.youtube.com/watch?v=P3lf1-H9KCE)
 
 > [!info] Wer spricht?
-> **Markus Gabriel** (*1980, Remagen*) — Philosoph, Bestsellerautor und seit 2009 jüngster Philosophie-Lehrstuhlinhaber Deutschlands an der Universität Bonn. Hat den Neuen Realismus mitbegründet und arbeitet seit einigen Jahren an der Verbindung von Ethik und Wirtschaftsordnung. Gastprofessuren u.a. in Berkeley, Stanford, NYU, Oxford und Tokio.
+> **Markus Gabriel** (*1980, Remagen*) — Philosoph und Bestsellerautor, seit 2009 Lehrstuhlinhaber in Bonn — bei seiner Berufung mit 29 Jahren der jüngste Philosophieprofessor Deutschlands. Hat den Neuen Realismus mitbegründet und arbeitet seit einigen Jahren an der Verbindung von Ethik und Wirtschaftsordnung. Gastprofessuren u.a. in Berkeley, Stanford, NYU, Oxford und Tokio.
 >
 > Wichtigste Werke: *Warum es die Welt nicht gibt* (2013), *Moralischer Fortschritt in dunklen Zeiten* (2020), *Gutes tun* (2024)
 > Kernkonzepte: Sinnfeldontologie, Neuer Realismus, Moralischer Universalismus, Ethischer Kapitalismus
@@ -44,6 +59,9 @@ Gabriel hält eine dreiteilige Lecture an der Universität Luzern (IWP — Insti
 [▶ 26:09](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=1569) — John Kay ergänzt: Eine Firma ist keine Kapitalanhäufung, sondern eine *assembly of capabilities* — ein Vermögen im doppelten Sinne: was man tun *kann*, nicht nur was man *hat*.
 
 [▶ 27:42](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=1662) — Das **Rätsel der Werttheorie**: Wie kann der Kuchen wachsen? Gabriels Antwort: Der ökonomische Wert ist ein *gemessenes Werturteil*. Wir verleihen den Dingen Wert — der Preis ist ein Maß für unser Urteil. Die Kulturlandschaft der Schweizer Berge ist ein objektiviertes Netzwerk menschlicher Werturteile. Damit bewegen wir uns bereits in Richtung Ethik.
+
+> [!question] Weitergedacht
+> Wenn der Preis ein gemessenes Werturteil ist — *wessen Urteil misst er, wenn sich nur manche den Markt leisten können?*
 
 ### 2. Was ist Ethik?
 
@@ -75,6 +93,9 @@ Gabriels Neuer Moralischer Realismus hat drei Dimensionen:
 
 [▶ 71:15](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=4275) — Die provokante Kernthese: *Je moralischer Ihr Unternehmen, desto profitabler ist es — in the long run.* Der Vatikan als Beispiel einer „moralischen Firma", deren Konten leiden, wenn das Geschäftsmodell unmoralisch wird.
 
+> [!question] Weitergedacht
+> Je moralischer, desto profitabler „in the long run“ — *was ist mit den Moralischen, die vorher pleitegehen, und den Unmoralischen, die bis dahin reich werden?*
+
 ### 4. Postkapitalistisches Nachwort
 
 [▶ 72:46](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=4366) — „Kapitalismus" als singuläres System ist eine *Verdinglichung* der Gesellschaft — eine Verwechslung von Modell und Zielsystem. Der „wahre Kapitalismus" im Sinne Adam Smiths hat noch gar nicht existiert. Gabriel plädiert nicht für die Abschaffung von Privateigentum oder Vertragsfreiheit, sondern dafür, die sozioökonomischen Transaktionen auf das *höchste Gut* auszurichten: ein menschenwürdiges Leben für alle.
@@ -83,37 +104,52 @@ Gabriels Neuer Moralischer Realismus hat drei Dimensionen:
 
 ---
 
+## Was seither geschah
+
+*Stand: 25.10.2026*
+
+- **Januar 2024:** Colin Mayers *Capitalism and Crises*, auf das sich Gabriel stützt, erscheint gedruckt bei Oxford University Press.
+- **17.10.2024:** Gabriel legt sein Programm als Buch vor, *Gutes tun. Wie der ethische Kapitalismus die Demokratie retten kann* (Ullstein; [markus-gabriel.com](https://markus-gabriel.com/neues/gutes-tun-2024)).
+- **September 2025:** Aus dem Chief Philosophy Officer wird ein Unternehmen: Gabriel gründet die Akademie und Beratung deep-IN (Academy for Deep Innovation GmbH) als Ausgründung der Universität Bonn, für Fortbildung, Kongresse und ethische Unternehmensberatung ([idw, 26.09.2025](https://idw-online.de/de/news858825)).
+- **26.02.2026:** Mit *Ethische Intelligenz* überträgt er den Gedanken auf die KI: Europa soll wertebasierte KI zum Geschäftsmodell machen ([Ullstein](https://www.ullstein.de/urheberinnen/markus-gabriel)) → [[Markus Gabriel — Ethische Intelligenz (scobel)]].
+
+---
+
 ## Faktencheck
 
-> [!success] Bestätigt — Gabriel jüngster Philosophie-Lehrstuhlinhaber
-> Markus Gabriel erhielt im Juli 2009 mit 29 Jahren den Lehrstuhl für Erkenntnistheorie an der Universität Bonn und wurde damit Deutschlands jüngster Philosophie-Lehrstuhlinhaber. Quelle: [Wikipedia — Markus Gabriel](https://de.wikipedia.org/wiki/Markus_Gabriel)
+> [!success] Bestätigt — Gabriel bei der Berufung jüngster Philosophieprofessor
+> Markus Gabriel erhielt im Juli 2009 mit 29 Jahren den Lehrstuhl für Erkenntnistheorie an der Universität Bonn und war damit der jüngste Philosophieprofessor Deutschlands. Quelle: [Universität Bonn, Pressemitteilung 2013](https://www.uni-bonn.de/de/universitaet/presse-kommunikation/presseservice/archiv-pressemitteilungen/2013/152-2013)
 
 > [!warning] Vereinfacht — Schumpeter: Kapitalismus hat keine Zukunft
 > Schumpeter beantwortet in *Capitalism, Socialism and Democracy* (1942) die Frage „Can Capitalism Survive?" mit „No" — argumentiert aber nicht, dass Kapitalismus *als System nicht existiert*, wie Gabriel es liest. Schumpeters These ist, dass der *Erfolg* des Kapitalismus die Bedingungen schafft, die ihn untergraben. Gabriels Umdeutung ins Ontologische ist eine eigenständige philosophische Interpretation. Quelle: [Wikipedia — Capitalism, Socialism and Democracy](https://en.wikipedia.org/wiki/Capitalism,_Socialism_and_Democracy)
 
-> [!danger] Falsch — Popper hat den Begriff „Verschwörungstheorie" eingeführt
-> Karl Popper hat den Begriff *nicht* erfunden. Die früheste bekannte Verwendung stammt von Charles Astor Bristed (New York Times, 1863). Was Popper in *The Open Society and Its Enemies* (1945) tat, war den Ausdruck „conspiracy theory of society" zu verwenden, um historistische Denker (Hegel, Marx) zu kritisieren. Der Kern von Gabriels Beschreibung stimmt, die Zuschreibung als Begriffserfinder ist falsch. Quelle: [Wikipedia — Conspiracy theory: Origin and usage](https://en.wikipedia.org/wiki/Conspiracy_theory#Origin_and_usage)
+> [!warning] Vereinfacht — Popper und der Begriff „Verschwörungstheorie“
+> Das Wort hat Popper nicht erfunden: Es ist seit 1863 belegt (Charles Astor Bristed in der *New York Times*, 11.01.1863; so auch [Merriam-Webster](https://www.merriam-webster.com/dictionary/conspiracy%20theory)). Popper prägte aber den philosophischen Begriff der *conspiracy theory of society*, mit dem er Hegel und Marx kritisierte (*The Open Society and Its Enemies*, 1945, Bd. 2, Kap. 14). Gabriels Kern stimmt, nur das „eingeführt“ geht zu weit. Quelle zum Erstbeleg: [Hapgood, 2018](https://hapgood.us/2018/12/24/the-first-use-of-the-term-conspiracy-theory-is-much-earlier-and-more-interesting-than-historians-have-thought/)
 
-> [!warning] Vereinfacht — Marx, Bauer und der Eselsritt nach Godesberg
-> Der Kern stimmt: 1841 provozierten Marx und Bauer in Bonn, darunter eine Eselritt-Episode. Aber: Marx wollte keine Theologieprofessur, sondern eine *Philosophie*-Stelle — *Bauer* war der Theologe. Bad Godesberg wird in der Standardliteratur nicht explizit bestätigt. Quelle: [Wikipedia — Karl Marx: Hegelianism and early journalism](https://en.wikipedia.org/wiki/Karl_Marx#Hegelianism_and_early_journalism)
+> [!success] Bestätigt — Marx, Bauer und der Eselsritt in Godesberg
+> Bruno Bauer schreibt seinem Bruder Edgar: „In Godesberg miethen wir uns ein paar Esel und galoppirten auf ihnen wie rasend um den Berg herum und durch das Dorf. Die Bonner Gesellschaft sah uns verwunderter wie je an.“ Der Brief fällt ins Frühjahr 1842, nicht 1841 (*Briefwechsel zwischen Bruno Bauer und Edgar Bauer*, Charlottenburg 1844, S. 192, [archive.org](https://archive.org/details/briefwechselzwi00bauegoog)). Bauer war der Theologe, Marx hoffte auf eine Stelle in der Philosophie.
 
 > [!success] Bestätigt — Rudolf Eucken: Nobelpreisträger und Vater Walter Euckens
 > Rudolf Eucken (1846–1926) war Philosoph und erhielt 1908 den **Nobelpreis für Literatur** (nicht Frieden). Sein Sohn Walter Eucken begründete den Ordoliberalismus. Gabriels Unsicherheit über die Kategorie ist berechtigt. Quelle: [Wikipedia — Rudolf Eucken](https://en.wikipedia.org/wiki/Rudolf_Eucken)
 
-> [!warning] Vereinfacht — Colin Mayer: „Capitalism and Crisis"
-> Das Buch existiert, heißt aber korrekt *Capitalism and Crises* (Plural, OUP 2024). Mayer argumentiert für *purpose-driven business*. Gabriels Zuschreibung des Begriffs „true profit" müsste im Buch verifiziert werden — Mayers Kernkonzept ist „purpose" als Gegenpol zur Gewinnmaximierung. Quelle: [Wikipedia — Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer)
+> [!success] Bestätigt — Colin Mayer: *Capitalism and Crises* und „true profit“
+> Das Buch heißt *Capitalism and Crises: How to Fix Them* (Oxford University Press, online im November 2023, gedruckt im Januar 2024, [doi:10.1093/oso/9780198887942.001.0001](https://doi.org/10.1093/oso/9780198887942.001.0001)); „Crisis“ und „Crises“ klingen im Vortrag gleich, und Gabriel sagt zu Recht, es sei „im Druck“. „True profit“ ist Mayers Begriff (*Journal of the British Academy* 2022, [doi:10.5871/jba/010s5.001](https://doi.org/10.5871/jba/010s5.001)), ebenso der Gedanke, Gewinn aus der Lösung von Problemen zu ziehen statt aus ihrer Erzeugung.
+>
+> *Korrigiert am 25.10.2026: Hier stand bisher „Vereinfacht“ und ein Zweifel an der Zuschreibung von „true profit“.*
 
 > [!success] Bestätigt — John Kay: Firmen als Bündel von Fähigkeiten
 > John Kay entwickelt in *Foundations of Corporate Success* (1993) die Theorie, dass Unternehmenserfolg auf „distinctive capabilities" beruht. Gabriels Formulierung „assembly of capabilities" trifft den Kern. Quelle: [Wikipedia — John Kay (economist)](https://en.wikipedia.org/wiki/John_Kay_(economist))
 
 > [!warning] Vereinfacht — Adam Smith: Unsichtbare Hand aus Theory of Moral Sentiments
-> Die Metapher erscheint in *beiden* Werken je einmal — TMS (1759) und Wealth of Nations (1776). Chronologisch kommt TMS zuerst, aber die einflussreichste Verwendung *ist* aus WoN. Gabriels Neuinterpretation als „menschliches moralisches Vermögen" ist eine eigenständige philosophische Lesart. Quelle: [Wikipedia — Invisible hand](https://en.wikipedia.org/wiki/Invisible_hand)
+> Die Metapher erscheint in *beiden* Werken je einmal — TMS (1759) und Wealth of Nations (1776). Chronologisch kommt TMS zuerst, aber die einflussreichste Verwendung *ist* aus WoN. Gabriels Neuinterpretation als „das menschliche Vermögen, das Gute und das Böse zu tun“ ist eine eigenständige philosophische Lesart. Quelle: [Wikipedia — Invisible hand](https://en.wikipedia.org/wiki/Invisible_hand)
 
 > [!warning] Vereinfacht — BioNTech als Erfolg des Kapitalismus
-> BioNTech entwickelte den ersten mRNA-COVID-19-Impfstoff, aber neben privatem Kapital spielten massive staatliche Förderungen eine zentrale Rolle — u.a. 375 Mio. € vom BMBF. Die Dichotomie „Kapitalismus vs. Follow-the-Science" ist eine rhetorische Konstruktion. *Keine unabhängige Quelle gefunden, die diese Dichotomie stützt.*
+> BioNTech entwickelte mit Pfizer den ersten zugelassenen mRNA-Impfstoff gegen Covid-19, aber nicht ohne den Staat: Das BMBF förderte die Entwicklung mit bis zu 375 Mio. € aus einem Sonderprogramm, bewilligt am 09.09.2020 ([BioNTech, 15.09.2020](https://investors.biontech.de/news-releases/news-release-details/biontech-receive-eu375m-funding-german-federal-ministry); [Bundestag, Drs. 19/26351](https://dserver.bundestag.de/btd/19/263/1926351.pdf)). Gabriels Gegensatz „follow the market“ statt „follow the science“ ist eine rhetorische Zuspitzung.
 
-> [!warning] Vereinfacht — Kant: Rassismus und Sonnennähe
-> Kants rassistische Schriften sind gut dokumentiert. Er verknüpfte tatsächlich Klima mit Hautfarbe und moralischer Fähigkeit. Seine chemische Erklärung bezieht sich allerdings auf Eisenpartikel und Phosphorsäure, nicht spezifisch auf Phlogiston. Die Kernaussage — Kant verband Sonnennähe mit rassischer Hierarchie — ist korrekt. Quelle: [Wikipedia — Immanuel Kant: Race](https://en.wikipedia.org/wiki/Immanuel_Kant#Race)
+> [!success] Bestätigt — Kant, Phlogiston und die Sonnennähe
+> Kants rassistische Schriften sind gut dokumentiert. 1775/77 erklärt er die dunkle Haut mit Eisenteilchen und „phosphorischer Säure“ ([AA II 438](https://korpora.org/kant/aa02/438.html)), 1785 ausdrücklich mit Blut, das „mit Phlogiston überladen“ sei ([AA VIII 103](https://korpora.org/kant/aa08/103.html)); Gabriel liegt also richtig. Den Gedanken, die „denkenden Naturen“ würden mit dem Abstand von der Sonne „immer trefflicher und vollkommener“, äußert Kant 1755 über die Bewohner anderer Planeten ([AA I 359](https://korpora.org/kant/aa01/359.html)) — daher Gabriels Pointe mit dem Mars.
+>
+> *Korrigiert am 25.10.2026: Hier stand bisher, Kants Erklärung beziehe sich nicht auf Phlogiston.*
 
 ---
 
@@ -128,7 +164,7 @@ Gabriels Neuer Moralischer Realismus hat drei Dimensionen:
 
 - Colin Mayer: *Capitalism and Crises* (OUP 2024) — Konzept des *problem-solving capitalism* und *true profit*; British Academy „Future of the Corporation" Programm
 - Joseph Schumpeter: *Capitalism, Socialism and Democracy* (1942) — kreative Zerstörung. Biografie: Thomas K. McCraw: *Prophet of Innovation* (2007)
-- John Kay: *Foundations of Corporate Success* (1993) — Firmen als *assembly of capabilities*; neu: *The Corporation in the Twenty-First Century* (2025)
+- John Kay: *Foundations of Corporate Success* (1993) — Firmen als *assembly of capabilities*; neu: *The Corporation in the Twenty-First Century* (2024)
 - Adam Smith: *The Theory of Moral Sentiments* (1759) — sympathy und unsichtbare Hand
 - Immanuel Kant: *Kritik der praktischen Vernunft* — höchstes Gut. Zu Kants Rassismus: Pauline Kleingeld: „Kant's Second Thoughts on Race" (2007); Charles W. Mills: *The Racial Contract* (1997)
 - Karl Popper: *The Open Society and Its Enemies* (1945), Kap. 14 — „conspiracy theory of society"
@@ -218,3 +254,12 @@ Produktive Spannung: Gabriel begründet Profit als Folge des moralisch Richtigen
 
 Zwei unvereinbare Definitionen desselben Gegenstands. Gabriel zählt die Vertragsfreiheit zu den Bedingungen des Kapitalismus und schreibt ihr die Abschaffung der Sklaverei zu; Beckert definiert ihn über die Kommodifizierung von Arbeitskraft, weshalb die Sklavenplantage bei ihm eine Betriebsform innerhalb der Ordnung ist. Wer Gabriel folgt, kann ethisch reformieren; wer Beckert folgt, muss erklären, warum dieselbe Ordnung 164 Jahre ohne Freiwilligkeit auskam.
 
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Gabriel nennt den Marxismus eine Verschwörungstheorie im Popper'schen Sinn — *trifft das Marx selbst oder erst seine Nachfolger, die die Wirtschaft zentral planten?*
+> - Ein Chief Philosophy Officer soll die Werturteile im Unternehmen bearbeiten — *was tut er, wenn sein Ergebnis lautet: dieses Geschäft nicht machen?*
+> - Moralischer Fortschritt heißt bei Gabriel, verborgene Tatsachen zu erkennen — *welche halten wir heute verborgen, so wie die Antike die Verwerflichkeit der Sklaverei?*
+> - Gegen Degrowth setzt er ethisches Wirtschaften — *reicht das, wenn die planetaren Grenzen schneller näherkommen, als Unternehmen lernen?*

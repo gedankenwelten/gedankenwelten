@@ -1,6 +1,8 @@
 ---
 title: "Christoph Hein — Geoökonomie NEU DENKEN"
-aktualisiert: 2026-05-13
+aktualisiert: 2026-10-25
+description: "Derselbe Begriff kann Raub rechtfertigen oder Kooperation ordnen: Christoph Hein und Maja Göpel suchen Europas Platz zwischen einem Amerika, das nimmt, und einem China, das kauft."
+raetsel: "Zwei Männer erfanden dasselbe Wort. Der eine nahm sich damit Weizen."
 date: 13.05.2026
 tags:
   - zeitgeist
@@ -15,6 +17,19 @@ aliases:
 ---
 
 # Christoph Hein — Geoökonomie NEU DENKEN
+
+![[assets/Christoph-Hein-Geooekonomie-NEU-DENKEN-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Joaquín Torres-García** — konstruktiver Universalismus: ein grobes Raster über der Weltkarte, Ocker, Ziegelrot, Schwarz, Creme, in jedem Feld ein Zeichen — Frachter, Kran, Weizen, Waage, Anker, Sonne, eine Flotte kleiner Boote. Unten führt eine Straße auf eine Festung zu, daneben spannt sich eine Brücke. Torres-García, weil er die Welt aus einfachen Zeichen neu ordnete und vom Süden aus dachte (*América invertida*); das Bild sollte ursprünglich auf dem Kopf stehen, das Modell hat die Karte aber nicht umgedreht. Festung und Brücke sind Dix und Röpke: derselbe Begriff, zwei Wege. Die kleinen Boote, die zusammen segeln, sind Heins Mittelmächte.
+
+*Prompt:* Painting in the style of Joaquín Torres-García's 'América invertida', wide banner. The whole world map is turned upside down: South America and Africa at the top, Europe and North America at the bottom, the south pole on top. Over it a rough hand-drawn black grid of compartments in ochre, brick red, black and cream, each holding a flat pictogram: a cargo ship, a harbor crane, a sheaf of wheat, a balance scale, an anchor, a sun, a cluster of small boats sailing together. In the middle two roads leave one doorway and part: one bends toward a small fortress, the other toward a bridge. Thick matte oil on wood panel, primitive symbolic signs. No faces, no photorealism, no readable text, no letters, no signature, no monogram.
+
+</details>
+
+> [!abstract] Worum es geht
+> Derselbe Begriff kann Raub rechtfertigen oder Kooperation ordnen: In den 1920ern erfanden zwei deutsche Ökonomen die „Geoökonomie“, der eine landete bei Blut und Boden, der andere im Exil. Der FAZ-Korrespondent Christoph Hein, 25 Jahre in Asien, sucht mit Maja Göpel Europas Platz zwischen einem Amerika, das sich nimmt, was es braucht, und einem China, das mit Krediten kommt. Seine Antwort: ein Bündnis der Mittelmächte. Die Note prüft die Belege und verfolgt, was seit dem Gespräch im Mai 2026 geschah.
 
 Quelle: [Geoökonomie NEU DENKEN — Christoph Hein](https://www.youtube.com/watch?v=fTgbkpywf8c)
 
@@ -60,6 +75,9 @@ Aber ihre Wege trennten sich fundamental: Dix driftete in den Nationalsozialismu
 > [!note] Eigene Einschätzung
 > Die Dix-Röpke-Parallele ist das Leitmotiv des ganzen Gesprächs: Derselbe analytische Rahmen kann zur Legitimation von Gewalt oder zur Gestaltung von Kooperation dienen. Geoökonomie ist wertfrei — aber die Menschen, die sie anwenden, sind es nicht. Trumps „Grab it" ist Dix im 21. Jahrhundert. Die europäische Frage ist: Kann man Röpke 2.0 sein — geoökonomisch denken, ohne geoökonomisch zu rauben?
 
+> [!question] Weitergedacht
+> Wenn derselbe Rahmen Raub und Kooperation tragen kann — *woran erkennt man rechtzeitig, in welche Richtung ein Land ihn gerade wendet?*
+
 ---
 
 ## Das Ende von „Wandel durch Handel"
@@ -81,12 +99,12 @@ Göpel verschärft die Analyse: Die Proteste bei den WTO-Konferenzen waren berec
 
 [▶ 18:21](https://www.youtube.com/watch?v=fTgbkpywf8c&t=1101) — Hein spricht aus 25 Jahren Vor-Ort-Erfahrung: Viele Schwellen- und Entwicklungsländer sprangen auf Chinas Belt-and-Road-Initiative an — verständlicherweise. Neue Brücken, Häfen, Kraftwerke waren attraktiver als westliche Menschenrechtsvorträge.
 
-Aber: Kostenlos gibt es auch in China nichts. Sri Lanka konnte seine Schulden nicht begleichen — der Containerhafen Hambantota ging an die Chinesen. Pakistan und afrikanische Staaten machten ähnliche Erfahrungen. Und die Infrastrukturprojekte dienten oft einem zweiten Zweck: Militarisierung. Häfen in Burma, Sri Lanka, Pakistan — vorgesehen für Handel, genutzt für Marinestützpunkte.
+Aber: Kostenlos gibt es auch in China nichts. Sri Lanka konnte laut Hein seine Schulden nicht begleichen, und der Hafen Hambantota ging an die Chinesen *(die Forschung sieht hier keine Schuldenfalle: Sri Lanka war mit den Hafenkrediten nicht im Verzug → [[#Faktencheck|Faktencheck]])*. Pakistan und afrikanische Staaten machten ähnliche Erfahrungen. Und die Infrastrukturprojekte stünden oft „im Zusammenhang mit einer Militarisierung“: Häfen in Burma, Sri Lanka und Pakistan, genutzt in einem Sektor, den das jeweilige Land nicht vorgesehen hatte *(eine offizielle chinesische Marinebasis gibt es bisher nur in Dschibuti → [[#Faktencheck|Faktencheck]])*.
 
 [▶ 19:52](https://www.youtube.com/watch?v=fTgbkpywf8c&t=1192) Die Pointe: Genau diese Enttäuschung öffnet Europa eine Tür. Vor zehn Jahren hörte Hein in Schwellenländern überall: „Europa Schwatzbude in Brüssel, machen irgendwelche Zusagen, halten sie nicht ein. […] Aus Peking, da kommt direkte Hilfe." Das hat sich geändert.
 
 > [!note] Eigene Einschätzung
-> Die Belt-and-Road-Ernüchterung ist eine der unterschätzten geopolitischen Entwicklungen der letzten Jahre. Sie zeigt: Autoritäre Effizienz hat einen Preis, der erst zeitverzögert sichtbar wird. Das ist Heins implizites Argument für europäische Langsamkeit — nicht als Schwäche, sondern als struktureller Vorteil: Demokratische Prozesse sind langsam, aber sie erzeugen keine Schuldenfallen.
+> Die Belt-and-Road-Ernüchterung ist eine der unterschätzten geopolitischen Entwicklungen der letzten Jahre. Sie zeigt: Autoritäre Effizienz hat einen Preis, der erst zeitverzögert sichtbar wird. Das ist Heins implizites Argument für europäische Langsamkeit — nicht als Schwäche, sondern als struktureller Vorteil: Demokratische Prozesse sind langsam, aber man kann ihnen bei der Arbeit zusehen und widersprechen.
 
 ---
 
@@ -128,10 +146,13 @@ Hein stimmt zu, aber differenziert: Loskommen von den USA können wir nicht — 
 
 Seine Partnerliste: Australien, Kanada, Japan, Indonesien, Indien, afrikanische Demokratien — und die pazifischen Inselstaaten, die jeweils eine UN-Stimme haben.
 
-[▶ 32:45](https://www.youtube.com/watch?v=fTgbkpywf8c&t=1965) Zur USAID-Abschaffung: Hein spricht es hart aus — das kostet Millionen Menschenleben. Kinder, die mangelernährt werden, Impfprogramme, die wegbrechen. Und genau hier öffnet sich ein riesiges Feld für europäisches Engagement.
+[▶ 32:45](https://www.youtube.com/watch?v=fTgbkpywf8c&t=1965) Zur USAID-Abschaffung: Hein spricht es hart aus — das kostet Millionen Menschenleben. Kinder, die mangelernährt werden, Impfprogramme, die wegbrechen. *(Eine Modellrechnung im Lancet kommt auf rund 14 Millionen zusätzliche Tote bis 2030 → [[#Faktencheck|Faktencheck]])* Und genau hier öffnet sich ein riesiges Feld für europäisches Engagement.
 
 > [!note] Eigene Einschätzung
 > Die Mittelmächte-These ist der pragmatischste Ansatz des Gesprächs. Nicht Revolution gegen die USA, nicht naive Abkopplung — sondern der stille Aufbau paralleler Strukturen, während man das Bestehende nicht abreißt. Das ist Röpke, nicht Dix. Ob Europa das kann, hängt von einer Fähigkeit ab, die Hein implizit voraussetzt: die Fähigkeit, in Dekaden statt in Legislaturperioden zu denken.
+
+> [!question] Weitergedacht
+> Hein zählt die pazifischen Inselstaaten mit, weil jeder eine UN-Stimme hat — *wird ein Partner, den man wegen seiner Stimme umwirbt, anders behandelt als einer, den man wegen seiner Rohstoffe umwirbt?*
 
 ---
 
@@ -152,9 +173,9 @@ Hein gibt zu: In Singapur arbeiten Taxifahrer zwei Jobs, damit ihre Kinder in Ox
 
 ## Bürokratie — der falsche Sündenbock
 
-[▶ 82:13](https://www.youtube.com/watch?v=fTgbkpywf8c&t=4933) — Göpel liefert ein Plädoyer gegen den Kampfbegriff „Überbürokratisierung". Ihr Punkt: Die wahren Vermögungsbarrieren sind nicht die Berichtspflichten, sondern absurde Detailvorschriften — das Ladekabel, das keinen Bordstein kreuzen darf; der Recyclinghof, der nichts mehr rausgeben darf. Das sind die Dinge, die Menschen die Wände hochtreiben.
+[▶ 82:13](https://www.youtube.com/watch?v=fTgbkpywf8c&t=4933) — Göpel liefert ein Plädoyer gegen den Kampfbegriff „Überbürokratisierung". Ihr Punkt: Die wahren Hürden sind nicht die Berichtspflichten, sondern absurde Detailvorschriften — das Ladekabel, das keinen Bordstein kreuzen darf; der Recyclinghof, der nichts mehr rausgeben darf. Das sind die Dinge, die Menschen die Wände hochtreiben.
 
-Die Berichtspflichten hingegen — CSRD, Finanztaxonomie, Klimatransitionsberichte — sind gerade erst dabei, zu wirken. Frontrunnner-Unternehmen haben die mühsamen ersten Prozesse hinter sich und könnten jetzt davon profitieren. Genau in diesem Moment alles abzuräumen ist, wie eine Software-Migration abzubrechen, nachdem man die schmerzhafteste Phase überstanden hat.
+Die Berichtspflichten hingegen — CSRD, Finanztaxonomie, Klimatransitionsberichte — sind gerade erst dabei, zu wirken. Frontrunner-Unternehmen haben die mühsamen ersten Prozesse hinter sich und könnten jetzt davon profitieren. Genau in diesem Moment alles abzuräumen ist, wie eine Software-Migration abzubrechen, nachdem man die schmerzhafteste Phase überstanden hat.
 
 [▶ 73:51](https://www.youtube.com/watch?v=fTgbkpywf8c&t=4431) Hein bestätigt aus Industrieperspektive: Unternehmen und Mittelstand sagen nicht „Hört auf mit Regeln" — sie sagen „Gebt uns klar vor, wo es hingeht." Der Zickzackkurs ist schlimmer als strenge Regeln.
 
@@ -178,22 +199,40 @@ Die Berichtspflichten hingegen — CSRD, Finanztaxonomie, Klimatransitionsberich
 
 ---
 
+## Was seither geschah
+
+*Stand: 25.10.2026*
+
+- **„Grab it“, das Öl im Iran:** Der Krieg dauert an. Seit 04.07.2026 blockieren die USA iranische Häfen, Irans Ölexporte sind weitgehend eingebrochen ([taz](https://taz.de/USA-und-Iran-im-Krieg/!6202945/)). Am 13.09.2026 sagte Trump, die USA könnten auch bleiben „and keep the oil like Venezuela“ ([Business Today](https://www.businesstoday.in/world/story/trump-says-the-us-could-just-decide-to-stay-in-iran-and-keep-the-oil-like-venezuela-555322-2026-09-14)). Heins Dix-Lesart ist damit fast wörtlich eingetreten.
+- **Die Mittelmächte:** Mark Carney begrüßt am 17.09.2026 vor dem EU-Parlament den Vorschlag, Kanada eine assoziierte EU-Mitgliedschaft anzubieten ([Al Jazeera](https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal)); Garantien gibt es keine ([BBC](https://www.bbc.co.uk/news/articles/crlyqg1ekj4po)). Die Gegenstimme: Ein Bündnis der Mittelmächte schaffe noch keine Weltordnung ([NZZ, 31.07.2026](https://www.nzz.ch/pro/kann-mark-carneys-mittelmacht-strategie-die-usa-ersetzen-ld.10017534)).
+- **Freihandel:** Das Interimsabkommen mit dem Mercosur gilt seit 01.05.2026 vorläufig, obwohl das EU-Parlament es im Januar dem Europäischen Gerichtshof vorgelegt hat ([Houthoff](https://www.houthoff.com/actueel/nieuws/handelsovereenkomst-eu-mercosur-voorlopige-toepassing-vanaf-1-mei-2026/)). Das Abkommen mit Indien wurde am 27.01.2026 abgeschlossen, unterzeichnet werden soll es bis Ende 2026 ([ESM Magazine](https://www.esmmagazine.com/supply-chain/eu-india-will-formally-sign-free-trade-deal-by-end-2026-says-eu-chief-314469)).
+- **USA und China:** Nach den Gipfeln in Peking (Mai) und Washington (September) senkt China am 28.09.2026 die Zölle auf US-Agrargüter, Soja bleibt ausgenommen ([The Hindu](https://www.thehindu.com/news/international/china-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded/article71518383.ece)). Die beiden Großen pflegen ihre Ordnung, statt sie zu brechen, und das passt zu Heins Satz, Europa müsse mit beiden arbeiten.
+
+---
+
 ## Faktencheck
 
-> [!success] Bestätigt — Dix und Röpke als Urheber des Begriffs „Geoökonomie" in den 1920ern
-> Arthur Dix (1875–1935) und Wilhelm Röpke (1899–1966) verwendeten den Begriff tatsächlich in den 1920er Jahren. Dix in nationalistischem Kontext, Röpke als ordoliberaler Ökonom, der 1933 ins Exil ging. Quelle: [Wilhelm Röpke — Wikipedia](https://de.wikipedia.org/wiki/Wilhelm_R%C3%B6pke)
+> [!success] Bestätigt — Dix und Röpke prägten „Geoökonomie“ in den 1920ern
+> Arthur Dix veröffentlichte 1925 *Geoökonomie. Einführung in erdhafte Wirtschaftsbetrachtung* (Oldenbourg, [doi:10.1515/9783486751116](https://doi.org/10.1515/9783486751116)); Wilhelm Röpke verwendete den Begriff in *Die Konjunktur* (1922) und *Geld und Außenhandel* (1925). Dass Dix in den Nationalsozialismus abdriftete, ist belegt: 1934 eine Eloge auf Hitler in der *Zeitschrift für Politik* und die Schrift *Raum und Rasse*. Röpke ging 1933 ins Exil. Nicht belegt ist, dass sich beide um die Urheberschaft „bekriegt“ hätten.
 
-> [!success] Bestätigt — Hafen Hambantota an China übertragen
-> Sri Lanka übergab 2017 den Hafen Hambantota für 99 Jahre an China Merchants Port Holdings, nachdem Schulden nicht bedient werden konnten. Quelle: [NYT — How China Got Sri Lanka to Cough Up a Port](https://www.nytimes.com/2018/06/25/world/asia/china-sri-lanka-port.html)
+> [!warning] Vereinfacht — Hambantota als Schuldenfalle
+> Sri Lanka verpachtete den Hafen 2017 für 99 Jahre zu 70 % an China Merchants Port (1,12 Mrd. Dollar). Mit den Hafenkrediten war das Land aber nicht im Verzug; das Geld aus dem Leasing diente vor allem dazu, andere, überwiegend nicht-chinesische Schulden zu bedienen. Die Forschung hält das Bild der „Schuldenfalle“ darum für irreführend (Brautigam 2020, *Area Development and Policy*, [doi:10.1080/23792949.2019.1689828](https://doi.org/10.1080/23792949.2019.1689828)). Hambantota ist zudem vor allem ein Hafen für Autofrachter und Massengut, kein Containerhafen.
 
-> [!success] Bestätigt — USAID-Kürzungen unter Trump 2025
-> Die Trump-Administration begann Anfang 2025 mit drastischen Kürzungen bei USAID. Betroffen waren Ernährungs-, Gesundheits- und Impfprogramme weltweit. Quelle: [Reuters — Trump USAID cuts](https://www.reuters.com/world/us/trump-usaid-2025/)
+> [!warning] Vereinfacht — Häfen und Militarisierung
+> Hein spricht vorsichtig von einem „Zusammenhang mit einer Militarisierung“. Eine offizielle chinesische Militärbasis im Ausland gibt es bisher nur in Dschibuti; Hambantota und Gwadar gelten als *wahrscheinliche künftige* Standorte (AidData 2023: [Harboring Global Ambitions](https://www.aiddata.org/publications/harboring-global-ambitions)).
 
-> [!warning] Vereinfacht — „Fünfter Freiheitsbegriff" (Letta)
-> Enrico Lettas Report *Much More Than a Market* (2024) spricht tatsächlich von einer „Fifth Freedom" — dem freien Fluss von Wissen, Forschung und Innovation. Der genaue Wortlaut und die Zuordnung der vier bestehenden Freiheiten (Waren, Dienstleistungen, Kapital, Personen) weicht im Gespräch leicht ab. Keine unabhängige Quelle gefunden, die „Ressourcen" als eigenständige Freiheit listet.
+> [!success] Bestätigt — USAID-Abbau kostet Millionen Leben (als Prognose)
+> Eine Modellrechnung im *Lancet* schätzt, dass die Kürzungen bis 2030 rund 14 Millionen zusätzliche Todesfälle verursachen könnten (Unsicherheitsbereich 8,5–19,7 Millionen), darunter 4,5 Millionen Kinder unter fünf Jahren (Cavalcanti et al. 2025, Primärstudie, [doi:10.1016/S0140-6736(25)01186-9](https://doi.org/10.1016/S0140-6736(25)01186-9)). Es ist eine Prognose, keine Zählung.
+>
+> *Korrigiert am 25.10.2026: Hier stand ein Reuters-Link, den es nicht gibt.*
 
-> [!warning] Vereinfacht — Draghi-Wertedefinition
-> Mario Draghis Report *The Future of European Competitiveness* (2024) enthält eine umfassende Wertedefinition Europas. Die von Göpel zitierte Formulierung „Wohlstand, Gerechtigkeit, Freiheit, Frieden und Demokratie in einer nachhaltigen Umwelt" ist eine Paraphrase, keine wörtliche Wiedergabe. Der Geist ist korrekt, die exakte Formulierung vereinfacht.
+> [!warning] Vereinfacht — die „fünfte Freiheit“ bei Letta
+> Enrico Lettas Bericht *Much More Than a Market* (2024) schlägt eine „fünfte Freiheit“ vor: Forschung, Innovation, Wissen und Bildung. Die vier bestehenden Freiheiten sind Waren, Dienstleistungen, Kapital und Personen; Göpel nennt im Gespräch „Kapital, Ressourcen, Arbeit, Menschen“. ([Jacques Delors Centre](https://www.delorscentre.eu/en/about/news/detail/content/enrico-letta-unveils-vision-for-a-new-single-market))
+
+> [!success] Bestätigt — Draghis Wertedefinition
+> Göpel zitiert wörtlich: „Europe's fundamental values are prosperity, equity, freedom, peace and democracy in a sustainable environment“ (Draghi-Bericht *The Future of European Competitiveness*, Teil A, 2024).
+>
+> *Korrigiert am 25.10.2026: Hier stand bisher, es sei eine Paraphrase.*
 
 ---
 
@@ -231,7 +270,7 @@ Das Problem: China als Parteidiktatur ist *schnell* — klare Vorgaben, keine Ab
 
 ### Das große Bild in den Medien — warum fehlt es?
 
-**Frage** (Philip Bergerau, DLR): *Wir bewegen uns in Bubbles. Müssten die Medien nicht öfter das große Bild zeichnen — nicht nur Trump, sondern Trump UND China UND Kolumbien?*
+**Frage** (ein Teilnehmer vom DLR): *Wir bewegen uns in Bubbles. Müssten die Medien nicht öfter das große Bild zeichnen — nicht nur Trump, sondern Trump UND China UND Kolumbien?*
 
 Hein antwortet diplomatisch (*„Abonnieren Sie unseren Newsletter Weltwirtschaft"* [Gelächter]), wird dann aber grundsätzlich: Die AfD spielt hier eine Rolle. Je fordernder die Transformation, desto mehr Menschen laufen weg — weil keine klaren Lösungen gezeigt werden. In diesem Klima der Überforderung ist der Ruf nach Einfachheit und nach jemandem, „der sagt, wo es lang geht", verständlich. Der Kampfbegriff „Überbürokratisierung" fällt dann schnell — und differenziertes Hinschauen unterbleibt.
 
@@ -319,3 +358,13 @@ Rosas Beschleunigungskritik trifft auf Heins 996-Beispiel (Chinas Arbeitskultur)
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
 Heins Geoökonomie-Brille (Wirtschaft als Machtinstrument) erklärt, warum die Eurocard-Übernahme durch Mastercard 2003 keine neutrale Marktentscheidung war. Gehring & Gießmann zeigen dieselbe Logik im Mikro: Europa hat Eurocard aufgebaut, nicht politisch geschützt, und verloren. Die Frage "Was macht es diesmal anders?" ist exakt Heins Frage — nur auf Zahlungssysteme statt auf Energieinfrastruktur angewendet.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Dix und Röpke hatten denselben Begriff und gingen entgegengesetzte Wege — *entscheidet über eine Denkweise ihr Inhalt oder der Mensch, der sie gebraucht?*
+> - Hein will Europa als Partner anbieten, der sich an Regeln hält — *wie glaubwürdig ist das in Ländern, die Europas Regeln einst als Kolonialmacht erlebt haben?*
+> - Das Bild der chinesischen Schuldenfalle hält der Forschung nicht stand — *warum erzählen wir es trotzdem so gern, und was verdeckt es über unsere eigenen Kredite?*
+> - Wenn Mittelmächte zusammenrücken, weil die Großen nehmen statt geben — *ist das schon eine neue Ordnung oder nur eine Notgemeinschaft, bis einer der Großen wieder lockt?*

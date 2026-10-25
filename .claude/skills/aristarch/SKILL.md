@@ -33,6 +33,12 @@ gelobte Notes echte Fehler tragen — beim Sprecher **und bei uns**.
 Fällt beim Prüfen auf, dass eine Note dünn oder veraltet ist: **notieren, nicht ausbauen.** Am Ende
 ein Satz „wäre ein Fall für /heraklit“ oder „braucht *Was seither geschah*“.
 
+**Modernisierung immer mit ansprechen (seit 25.10.2026).** Andreas: „wir modernisieren ja gleich auch
+immer.“ Darum gehört zu jeder Befundliste ein Block **Modernisierung**: was der Note gegenüber dem
+heutigen Standard fehlt (→ Schritt 3a unten). Die Vertiefung selbst bleibt bei /heraklit, aber die
+Standard-Bausteine werden im selben Durchgang nachgezogen. **Fehlt ein Banner, direkt `/gedankenart`**,
+ohne erst zu fragen.
+
 ---
 
 ## Ablauf
@@ -99,6 +105,23 @@ Erst die Liste, dann die Hand. Format:
 
 Darunter in zwei Sätzen: **Gesamturteil** (trägt die Note?) und was außerhalb von Aristarchs Auftrag
 auffiel (dünn → /heraklit, veraltet → *Was seither geschah*).
+
+### 3a. Modernisierung — was fehlt gegenüber heute?
+
+Kurz abhaken und in der Antwort nennen, dann im selben Durchgang nachziehen:
+
+```bash
+f="<pfad>"; for k in "assets/.*banner" "^description:" "^raetsel:" "\[!abstract\]" "^## Weiterdenken" "\[!question\]" "^stimme:"; do printf "%-20s %s\n" "$k" "$(grep -c "$k" "$f")"; done
+```
+
+- **Banner** fehlt → `/gedankenart` (direkt, Andreas 25.10.2026)
+- **`description:`**, **Aufmacher-Callout** `> [!abstract] Worum es geht`, **Wandspruch** `raetsel:`
+  (→ `rules/gedankenwelten.md`, Pflicht-Checkliste)
+- **Sokrates-Fragen** (2–4 inline, `## Weiterdenken`), wo sie fehlen
+- **Zeitgeist:** `## Was seither geschah` mit Stand-Datum (→ `/moin` 3a)
+- **Vita:** echte Videos statt Suchlinks, Werke mit ISBN, Notes-Liste aus dem Bestand, `raetsel:`
+- Kommt Substanz dazu (Was seither geschah, neue Abschnitte), wird `aktualisiert:` gebumpt;
+  bei reiner Korrektur und bloßen Standard-Bausteinen (Banner, Wandspruch, description) nicht.
 
 Bei vielen Behauptungen gegen externe Quellen: **ein** Sherlock-Agent mit gebündeltem Auftrag
 (Opus, Haushalt: höchstens 4 Agenten, `rules/routing.md`). Bei einer Vita **ein** Humboldt-Agent zum
@@ -179,6 +202,7 @@ Kein Journal-Eintrag für eine reine Korrektur — es sei denn, ein Fehler hatte
 - [ ] Transkript (VTT bei Namen) bzw. Primärquellen bei der Vita
 - [ ] Zitate · Namen/Zahlen/Daten · Studien/DOIs · unsere Sätze · lebende Personen · Links · Bilder
 - [ ] Befundliste mit Schwere, Gesamturteil
+- [ ] Modernisierung angesprochen und nachgezogen (Banner → `/gedankenart`, description, Aufmacher, raetsel, Sokrates, Was seither geschah)
 - [ ] Korrekturen nach Andreas' Ja, ohne `aktualisiert:`-Bump
 - [ ] Jeder Befund ins Fehler-Register (`fehler_register.py eintragen`), Muster ansprechen
 - [ ] RAG, Commit (Note + `.claude/data/aristarch/fehler.jsonl`), Sync, Cortex-Log

@@ -1,6 +1,8 @@
 ---
 title: "Markus Gabriel — Was ist Realität?"
 aktualisiert: 2026-05-01
+description: "Die Welt als Ganzes gibt es nicht, alles andere schon, auch die Perspektiven, der Irrtum und das Böse: Markus Gabriel erklärt seinen Neuen Realismus vom Vesuv bis in die Vorstandsetage."
+raetsel: "Von Neapel aus ein Berg, von Sorrent ein anderer. Es ist derselbe."
 date: 2024-06-16
 tags:
   - denker
@@ -24,10 +26,13 @@ aliases:
 
 </details>
 
+> [!abstract] Worum es geht
+> Die Welt als Ganzes gibt es nicht, alles andere schon: der Vesuv, die Blicke auf ihn aus Neapel und Sorrent, der Irrtum, das Böse. Auf der phil.COLOGNE erklärt Markus Gabriel im Gespräch mit Cai Werntgen seinen Neuen Realismus: Wir müssen nicht erst zur Wirklichkeit gelangen, wir stecken schon mittendrin. Von dort spannt er den Bogen zur Moral, zur Philosophie Asiens und zu den Tech-Konzernen.
+
 Quelle: [Markus Gabriel: Was ist Realität? (phil.COLOGNE)](https://www.youtube.com/watch?v=_foOQbcKmqI)
 
 > [!info] Wer spricht?
-> **Markus Gabriel** (*1980, Remagen*) — Philosoph, Bestsellerautor und seit 2009 jüngster Philosophie-Lehrstuhlinhaber Deutschlands an der Universität Bonn. Begründer des *Neuen Realismus*, Spezialist für Erkenntnistheorie. Im Gespräch mit **Cai Werntgen** (Vorstandsvorsitzender der Udo Keller Stiftung Forum Humanum, Philosophiestudium, Lehrauftrag für Ästhetik in Karlsruhe).
+> **Markus Gabriel** (*1980, Remagen*) — Philosoph und Bestsellerautor, seit 2009 Lehrstuhlinhaber in Bonn — bei seiner Berufung mit 29 Jahren der jüngste Philosophieprofessor Deutschlands. Begründer des *Neuen Realismus*, Spezialist für Erkenntnistheorie. Im Gespräch mit **Cai Werntgen** (Vorstandsvorsitzender der Udo Keller Stiftung Forum Humanum, Philosophiestudium, Lehrauftrag für Ästhetik in Karlsruhe).
 >
 > Wichtigste Werke: *Warum es die Welt nicht gibt* (2013), *Ich ist nicht Gehirn* (2015), *Moralischer Fortschritt in dunklen Zeiten* (2020)
 > Kernkonzepte: Sinnfeldontologie, Neuer Realismus, Neo-Existentialismus, Moralischer Universalismus
@@ -65,6 +70,9 @@ Und jetzt die wilde These: Stellen Sie sich vor, die Wirklichkeit strahlt nicht 
 
 Damit ist die klassische Subjekt-Objekt-Konfrontation aufgelöst. Kein Innenraum (Subjekt) muss einen Außenraum (Objekt) irgendwie „erreichen" — die Relation ist einfach real.
 
+> [!question] Weitergedacht
+> Wenn jede Perspektive so real ist wie der Berg — *ist dann auch eine verzerrte, eine gelogene Perspektive real, und was unterscheidet sie noch von der wahren?*
+
 ### In-Sein: Wir müssen nicht zur Wirklichkeit gelangen
 
 [▶ 27:28](https://www.youtube.com/watch?v=_foOQbcKmqI&t=1648) — Gabriels Schlüsselgedanke: Zur Realität gehört, dass sie der Ort ist, an den man nicht gelangen *kann* — und den man auch nicht verlassen *kann*. Wir entstehen innerhalb der Wirklichkeit (schon im Mutterleib beginnt Wirklichkeitserkenntnis), und jede Situation, die wir erkennen können, ist bereits eine wirkliche.
@@ -89,6 +97,9 @@ Und mit derselben Logik: Irrtum, Fehler, das Böse sind genauso reale Kräfte wi
 Die Zahl 7 existiert im Sinnfeld der natürlichen Zahlen (Nachfolger der 6, Vorgänger der 8). Köln existiert im Sinnfeld der Geschichte und Institutionen. Einhörner existieren in Filmen — aber nicht im Kölner Zoo. Was es nicht gibt: ein „Sinnfeld aller Sinnfelder" — das ist der Grund, warum es „die Welt" nicht gibt.
 
 > Das beantwortet Heideggers Frage aus *Sein und Zeit*: Der Sinn von Sein ist Erscheinen in einem Sinnfeld.
+
+> [!question] Weitergedacht
+> Einhörner existieren im Film, nicht im Zoo — *gibt es irgendetwas, das in gar keinem Sinnfeld erscheint, oder ist Existenz bei Gabriel zu leicht zu haben?*
 
 ### Referenz ohne Repräsentation: Das Fisch-Beispiel
 
@@ -139,16 +150,20 @@ Die Europawahl-Erklärung sei simpel: Die Menschen haben zu wenig Geld. Moralisi
 ## Faktencheck
 
 > [!success] Bestätigt — Jüngster Philosophieprofessor
-> Gabriel erhielt 2009 mit 29 Jahren den Lehrstuhl für Erkenntnistheorie in Bonn. Quelle: [Universität Bonn Profil](https://www.philosophie.uni-bonn.de/de/personal/gabriel)
+> Gabriel erhielt im Juli 2009 mit 29 Jahren den Lehrstuhl für Erkenntnistheorie in Bonn. Quelle: [Universität Bonn, Profil](https://www.philosophie.uni-bonn.de/institut/personen/institutslehrstuehle/prof-dr-markus-gabriel)
 
-> [!success] Bestätigt — Jonathan Haidt und Social-Media-Depression
-> Haidts *The Anxious Generation* (2024) dokumentiert den sprunghaften Anstieg von Depression und Angststörungen unter Jugendlichen seit ca. 2012, korreliert mit Smartphone-Verbreitung. Quelle: [The Anxious Generation](https://www.anxiousgeneration.com/)
+> [!warning] Umstritten — Jonathan Haidt und Social-Media-Depression
+> Belegt ist der Anstieg von Depression und Angst unter Jugendlichen seit etwa 2012, den Haidt in *The Anxious Generation* (2024) beschreibt. Wie viel davon Social Media verursacht, ist in der Forschung umstritten. In drei großen Datensätzen erklärt die Nutzung digitaler Technik höchstens 0,4 % der Unterschiede im Wohlbefinden (Orben & Przybylski 2019, [doi:10.1038/s41562-018-0506-1](https://doi.org/10.1038/s41562-018-0506-1)); Meta-Analysen finden kleine (Ivie et al. 2020, [doi:10.1016/j.jad.2020.06.014](https://doi.org/10.1016/j.jad.2020.06.014)) oder keine Zusammenhänge mit der Nutzungszeit (Ferguson et al. 2024, [doi:10.1037/pro0000589](https://doi.org/10.1037/pro0000589)). Für Haidts Seite spricht ein natürliches Experiment: Die schrittweise Einführung von Facebook an US-Colleges verschlechterte die psychische Gesundheit der Studierenden messbar (Braghieri, Levy & Makarin 2022, [doi:10.1257/aer.20211218](https://doi.org/10.1257/aer.20211218)). Die schärfste Kritik am Buch: Candice Odgers in *Nature* (2024, [doi:10.1038/d41586-024-00902-2](https://doi.org/10.1038/d41586-024-00902-2)).
+>
+> *Korrigiert am 25.10.2026: Hier stand bisher „Bestätigt“.*
 
-> [!warning] Vereinfacht — 84% der Menschen sind religiös
-> Gabriel nennt 84% religiöse Menschen weltweit. Pew Research beziffert den Anteil religiös Zugehöriger auf ca. 84% (2020), allerdings variiert die Intensität der Religiosität erheblich — von ritueller Zugehörigkeit bis zu tiefem Glauben an unsterbliche Seelen. Quelle: [Pew Research Center — The Global Religious Landscape](https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-exec/)
+> [!warning] Vereinfacht — 84 % der Menschen sind religiös
+> Die 84 % sind Pews Wert für **2010** (Bericht von 2012) und waren 2024 noch die gängige Zahl. Pews Neuberechnung vom Juni 2025 kommt für 2020 auf rund 76 % mit Religionszugehörigkeit (24,2 % ohne); auch die Werte für 2010 wurden dabei, vor allem wegen China, nach unten korrigiert. Zugehörigkeit sagt zudem wenig über die Intensität des Glaubens. Quellen: [Pew 2012](https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-exec/) · [Pew 2025](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/)
 
-> [!warning] Vereinfacht — Putins Kant-Deutung
-> Gabriel bezieht sich auf Putins Aussage zu Kant (Juni 2024, SPIEF), in der Putin Kants Aufklärungsgedanken als Aufruf zur nationalen Selbstbestimmung umdeutete. Die Darstellung ist inhaltlich korrekt, allerdings war Putins Kant-Bezug Teil einer längeren rhetorischen Strategie, nicht ein isolierter Fehlschluss. Keine unabhängige Quelle gefunden, die Putins Deutung als philosophisch legitim verteidigt.
+> [!success] Bestätigt — Putins Kant-Deutung
+> Am 25.01.2024 fragten Studierende der Kant-Universität in Kaliningrad Putin nach dem Motto „Habe Mut, dich deines eigenen Verstandes zu bedienen“. Er antwortete, das Land müsse „mit eigenem Verstand leben“ und sich von seinen nationalen Interessen leiten lassen, und spottete über Nachbarn, die „mit fremdem Verstand leben“ ([kremlin.ru](http://kremlin.ru/events/president/news/73303)). Gabriels Lesart, Putin deute Kants Aufklärung in nationale Selbstbestimmung um, ist damit belegt.
+>
+> *Korrigiert am 25.10.2026: Hier stand bisher „Juni 2024, SPIEF“.*
 
 > [!warning] Vereinfacht — Asien hat den Repräsentationsirrtum vermieden
 > Die These, asiatische Philosophie habe die Subjekt-Objekt-Spaltung nie vollzogen, ist eine produktive Vereinfachung. Insbesondere im indischen Nyāya und der buddhistischen Erkenntnistheorie (Dignāga, Dharmakīrti) gibt es durchaus elaborierte Repräsentationstheorien. Nishidas Basho-Logik selbst entstand im Dialog mit Hegel und Heidegger. Keine unabhängige Quelle gefunden.
@@ -226,3 +241,13 @@ Gabriel zitiert Haidts Social-Media-Forschung (*Anxious Generation*) und diagnos
 ### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
 
 Die empirische Sonde in Gabriels Streit mit dem Konstruktivismus. Kornmeier misst die Konstruktion im Labor — beim ersten Schritt des Sehens geht eine ganze Dimension verloren und wird rekonstruiert — und liefert mit der Mona-Lisa-Studie einen Befund, der Gabriels These von den objektiv realen Perspektiven herausfordert: Das Wahrnehmungssystem misst nicht, es vergleicht; die Skala entsteht aus dem Extremsten im Raum. Anders als Gabriel baut Kornmeier daraus keine Ontologie, sondern eine Zurückhaltung — Wissenschaft liefert gut funktionierende Modelle, nicht die Welt.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Gabriel sagt, die Asiaten hätten „die ganze Zeit recht“ gehabt — *ist das Anerkennung oder eine neue Exotisierung, die Asien zum Spiegel europäischer Wünsche macht?*
+> - Ob wir eine unsterbliche Seele haben, sei eine Tatsachenfrage — *wie ließe sie sich entscheiden, wenn keine Methode an sie heranreicht?*
+> - Moralische Probleme sollen Unternehmen lösen, nicht die Politik — *wer kontrolliert dann das Unternehmen, das sich für moralisch hält?*
+> - Wenn der Irrtum genauso real ist wie das Wissen — *was folgt daraus für eine Öffentlichkeit, die Irrtümer schneller verbreitet als Korrekturen?*

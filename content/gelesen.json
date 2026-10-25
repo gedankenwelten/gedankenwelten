@@ -449,6 +449,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Heinz-Bude",
      "leser": 2,
      "aufrufe": 2
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Triggerpunkte-Konsens-und-Konflikt",
      "leser": 1,
      "aufrufe": 1
     }
@@ -1679,6 +1679,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Ulf-Poschardt",
      "leser": 3,
      "aufrufe": 3
@@ -1760,11 +1765,6 @@
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 2,
      "aufrufe": 2
     },

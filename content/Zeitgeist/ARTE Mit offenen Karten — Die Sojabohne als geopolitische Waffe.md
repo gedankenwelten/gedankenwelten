@@ -1,7 +1,9 @@
 ---
 date: 2026-03-31
 title: "ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe"
-aktualisiert: 2026-04-05
+aktualisiert: 2026-10-25
+description: "Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt."
+raetsel: "Im Nugget steckt eine Bohne. In der Bohne ein Wald, der fehlt."
 tags:
   - zeitgeist
   - globalisierung
@@ -11,7 +13,7 @@ tags:
   - lebensmittel
   - china
   - usa
-  - year-2025
+  - year-2026
 aliases:
   - Sojabohne Geopolitik
   - ARTE Soja
@@ -19,10 +21,23 @@ aliases:
 
 # ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe
 
+![[assets/ARTE-Mit-offenen-Karten-Die-Sojabohne-als-geopolitische-Waffe-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Grant Wood** — amerikanischer Regionalismus, glatt lasiertes Öl, runde Hügel in endlosen grünen Sojareihen, rote Scheune, Silos, ein Förderband zum Frachter am Fluss. Rechts enden die Reihen an einem Stapel gefällter Tropenstämme, dahinter der dunkle Wald. Vorne die aufgeplatzte Schote. Grant Wood, weil er Iowa malte, und Iowa steht im Video am Anfang: 16 Millionen Tonnen im Jahr, Trumps Wählerschaft. Die Idylle und der Holzstapel gehören in dasselbe Bild, weil die Bohne beide verbindet.
+
+*Prompt:* Regionalist painting in the style of Grant Wood, wide banner. Smoothly rounded rolling hills covered with endless parallel green rows of soybean plants, stylized lollipop trees and a red barn with tall grain silos, under a pale clear sky. A long conveyor runs from the silos down to a river where a huge cargo ship is being loaded with beans. At the far right edge the neat rows end abruptly at a wall of felled tropical rainforest trunks, the dense jungle behind them dark and wild. In the foreground one oversized soybean pod split open on the soil. Smooth glazed oil paint, crisp sculpted forms, warm late-summer light. No realistic faces, no photorealism, no text, no signature.
+
+</details>
+
+> [!abstract] Worum es geht
+> Eine unscheinbare Bohne füttert das Fleisch der Welt: Drei Viertel der Sojaernte werden Tierfutter. ARTE zeigt in zwölf Minuten, wie aus einer Pflanze Nordostchinas ein Hebel im Handelsstreit zwischen Washington und Peking wurde und was der Anbau in Südamerika kostet. Die Note ordnet die Zahlen ein und verfolgt, was seit dem Video geschah.
+
 Quelle: [Die Sojabohne, eine geopolitische Pflanze | Mit offenen Karten | ARTE](https://www.youtube.com/watch?v=MXhIqO4MEds)
 
 > [!info] Was ist das?
-> **ARTE „Mit offenen Karten"** — Geopolitik-Magazin des europäischen Kultursenders ARTE. Das Format erklärt geopolitische Zusammenhänge anhand von Karten und Daten, kurz und dicht (ca. 12 Min.). Diese Episode (F 2025) behandelt die Sojabohne als strategische Ressource im globalen Handelssystem.
+> **ARTE „Mit offenen Karten"** — Geopolitik-Magazin des europäischen Kultursenders ARTE. Das Format erklärt geopolitische Zusammenhänge anhand von Karten und Daten, kurz und dicht (ca. 12 Min.). Diese Episode (veröffentlicht im März 2026) behandelt die Sojabohne als strategische Ressource im globalen Handelssystem.
 
 ---
 
@@ -36,7 +51,7 @@ Soja ist das verborgene Fundament der globalen Fleischwirtschaft. 75% der Weltpr
 
 > *„Hinter Nuggets, Speck und Milch steckt Soja."*
 
-Die Sojabohne ist damit die **viertwichtigste Anbaupflanze der Welt** — nach Mais, Weizen und Reis. Produktion 2023: 390 Millionen Tonnen.
+Die Sojabohne ist damit die **viertwichtigste Anbaupflanze der Welt** — nach Mais, Weizen und Reis *(nach Anbaufläche; nach Erntemenge liegen weitere davor → [[#Faktencheck|Faktencheck]])*. Produktion 2023: rund 390 Millionen Tonnen.
 
 ---
 
@@ -46,13 +61,13 @@ Die Sojabohne ist damit die **viertwichtigste Anbaupflanze der Welt** — nach M
 
 Drei Länder kontrollieren über **80% des weltweiten Sojaexports**:
 
-| Land | Rolle | Produktion (2024) |
+| Land | Rolle | Produktion (2024, USDA) |
 |---|---|---|
-| **Brasilien** | Größter Produzent der Welt | ~165 Mio. Tonnen |
-| **USA** | Erfinder des industriellen Anbaus | ~16 Mio. Tonnen (Iowa allein) |
-| **Argentinien** | Aufsteiger durch GMO-Sorten | ~20 Mio. Hektar Anbaufläche |
+| **Brasilien** | Größter Produzent der Welt | ~172 Mio. Tonnen (Ernte 2024/25) |
+| **USA** | Erfinder des industriellen Anbaus | ~119 Mio. Tonnen, davon Iowa allein ~16 Mio. |
+| **Argentinien** | Aufsteiger durch GMO-Sorten | ~51 Mio. Tonnen |
 
-Auf der Abnehmerseite dominieren die EU (20% der US-Exporte) und vor allem **China mit 100 Millionen Tonnen jährlich** — rund zwei Drittel der Weltproduktion. Diese extreme Konzentration macht Soja zur geopolitischen Waffe.
+Auf der Abnehmerseite dominieren die EU und vor allem **China mit über 100 Millionen Tonnen jährlich** — rund zwei Drittel aller Importe weltweit *(ARTE sagt „der Weltproduktion“, es ist gut ein Viertel → [[#Faktencheck|Faktencheck]])*. Von den US-Exporten ging 2024 rund die Hälfte nach China und etwa ein Zehntel in die EU *(ARTE nennt 20 % für die EU)*. Diese Konzentration macht Soja zur geopolitischen Waffe.
 
 ---
 
@@ -60,11 +75,14 @@ Auf der Abnehmerseite dominieren die EU (20% der US-Exporte) und vor allem **Chi
 
 [▶ 1:52](https://www.youtube.com/watch?v=MXhIqO4MEds&t=112)
 
-Als die USA unter Trump Strafzölle gegen China verhängten, reagierte Peking mit einem präzisen Gegenzug: ab März 2025 einen Zoll von 10% auf US-Soja — chinesische Käufer wichen daraufhin weitgehend auf Brasilien und Argentinien aus. *(Faktencheck: vereinfacht — ARTE behauptet einen vollständigen Stopp im September 2025, tatsächlich gab es Zölle und De-facto-Umlenkung, kein formelles Gesamtverbot)* Ergebnis: Einnahmeneinbruch für Farmer im Mittleren Westen, Preisverfall bei Sojabohnen — ausgerechnet unter Trumps Kernwählerschaft.
+Als die USA unter Trump 2025 Strafzölle gegen China verhängten, reagierte Peking mit einem präzisen Gegenzug: ab März 2025 ein Zusatzzoll auf US-Soja, im April bis zu 125 %, nach der Genfer Einigung im Mai noch 23 %. Chinesische Käufer wichen auf Brasilien und Argentinien aus, bis die Einfuhr aus den USA, wie ARTE sagt, im September 2025 „ganz versiegte“: In diesem Monat kam laut chinesischem Zoll keine einzige Tonne US-Soja an, zum ersten Mal seit 2018. Ergebnis: Einnahmeneinbruch für Farmer im Mittleren Westen, Preisverfall bei Sojabohnen — ausgerechnet unter Trumps Kernwählerschaft.
 
 > *„Die Sojabohne ist zur geopolitischen Waffe im Handelskonflikt zwischen China und den USA geworden."*
 
 Peking hatte diese Möglichkeit vorbereitet: Schon in den 1990ern traf China die strategische Entscheidung, die Sojaproduktion auszulagern — um sich auf Industrialisierung und Tierproduktion zu konzentrieren. Die Abhängigkeit war also gewollt, aber die Gegenabhängigkeit der USA ebenfalls strukturell verankert.
+
+> [!question] Weitergedacht
+> China hat sich in den 1990ern bewusst abhängig gemacht — *ist eine gewollte Abhängigkeit eine Schwäche oder ein Hebel, solange man den Lieferanten wechseln kann?*
 
 ---
 
@@ -74,17 +92,17 @@ Peking hatte diese Möglichkeit vorbereitet: Schon in den 1990ern traf China die
 
 Die Sojabohne hat ihren Ursprung in Nordostchina (3000 v. Chr.). Noch 1933 stellten China und die Mandschurei **87% der Weltproduktion**. Die große Wende kam mit Japan:
 
-- **1930er**: Japan annektiert die Mandschurei → Lieferausfälle → USA beschließen eigenen Sojaanbau
+- **1931/32**: Japan besetzt die Mandschurei und macht sie zum Marionettenstaat Mandschukuo → Lieferausfälle → die USA bauen den eigenen Sojaanbau aus
 - Roosevelt-Regierung subventioniert Züchtung und Produktion
 - **Nach 1945**: Marshall-Plan → USA exportieren Überschüsse → europäische Viehzucht wächst
 - **1962**: EWG-Agrarpolitik fördert Getreide/Milch/Fleisch, Soja weiterhin aus den USA
 - **1970er**: USA werden größter Sojaexporteur, vollständige Kontrollkette vom Saatgut bis zum Verladehafen
-- **1973**: Nixon verhängt Exportverbot wegen Dürre → Sojabohnenpreis vervierfacht sich → globale Erschütterung
+- **1973**: Nixon verhängt im Juni ein Exportverbot, laut ARTE wegen einer Dürre; der Preis vervielfacht sich → globale Erschütterung *(der Preissprung begann schon Ende 1972, das Embargo folgte ihm → [[#Faktencheck|Faktencheck]])*
 - **1990er BSE-Krise**: Europa wendet sich wieder der Sojabohne zu
 
 [▶ 8:00](https://www.youtube.com/watch?v=MXhIqO4MEds&t=480)
 
-Südamerika erkennt in den 1970ern das Potenzial. Brasilien erschließt den Cerrado — eine Savanne dreimal so groß wie Frankreich, zuvor als ungeeignet geltend. Argentinien setzt ab den 1990ern auf gentechnisch veränderte, Glyphosat-resistente Sorten und verdreifacht die Anbaufläche innerhalb von 30 Jahren.
+Südamerika erkennt in den 1970ern das Potenzial, und Japan, durch das Embargo gewarnt, finanziert mit. Brasilien erschließt den Cerrado — eine Savanne dreimal so groß wie Frankreich, zuvor als ungeeignet geltend. Argentinien setzt ab den 1990ern auf gentechnisch veränderte, Glyphosat-resistente Sorten und verdreifacht die Anbaufläche innerhalb von 30 Jahren.
 
 ---
 
@@ -94,13 +112,16 @@ Südamerika erkennt in den 1970ern das Potenzial. Brasilien erschließt den Cerr
 
 Das agrarindustrielle Modell hat eine beunruhigende Kehrseite:
 
-- **Abholzung**: Im Amazonas, Cerrado und Gran Chaco ist Sojaanbau die **wichtigste Ursache für Waldvernichtung**
-- In Brasilien: über 40% der seit 2000 neu gerodeten Flächen für Soja
+- **Abholzung**: Im Amazonas, Cerrado und Gran Chaco ist Sojaanbau laut ARTE die **wichtigste Ursache für Waldvernichtung** *(für den Amazonas nicht haltbar, dort ist Weideland der Haupttreiber → [[#Faktencheck|Faktencheck]])*
+- In Brasilien: über 40% der seit 2000 neu gerodeten Flächen für Soja *(diese Zahl lässt sich nicht belegen)*
 - In Argentinien: Ausbreitung nach Norden → Vernichtung von über 6 Millionen Hektar Wald
 - Böden werden ausgelaugt, massive Chemikalienabhängigkeit
-- Saatgut kontrolliert von wenigen Konzernen: BASF, Bayer
+- Saatgut kontrolliert von wenigen Konzernen wie Bayer und BASF (dazu Corteva und Syngenta); gehandelt wird die Bohne von ADM, Bunge, Cargill, Louis Dreyfus und COFCO
 
 Wenige multinationale Agrarkonzerne bestimmen das globale Ernährungssystem von unten — vom Saatgut aufwärts.
+
+> [!question] Weitergedacht
+> Wenn Soja den Wald oft nicht selbst rodet, sondern die Weide dorthin verdrängt — *wem rechnen wir eine Rodung zu: dem Rind, der Bohne oder dem Teller in Europa?*
 
 ---
 
@@ -117,28 +138,53 @@ China sichert seine südamerikanischen Lieferketten parallel ab — über Invest
 
 ---
 
+## Was seither geschah
+
+*Stand: 25.10.2026*
+
+- **30.10.2025, Busan:** China sagt laut Weißem Haus zu, bis Ende 2025 zwölf Millionen Tonnen US-Soja zu kaufen und 2026 bis 2028 je 25 Millionen Tonnen. Der Zoll auf US-Soja bleibt bei 13 %, auf brasilianische bei 3 % ([The Star, 12.07.2026](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/12/is-chinas-biggest-daily-us-soybean-order-confirmation-of-xi-trump-summit-pact)).
+- **Januar 2026:** China meldet für 2025 einen Importrekord von 111,8 Millionen Tonnen, 73,6 % davon aus Brasilien ([Agrolatam](https://www.agrolatam.com/news/china-record-soybean-imports-2025-brazil-us-trade/)). Die US-Exporte sinken laut USDA 2025/26 auf 41,2 Millionen Tonnen (Vorjahr 51,5), Brasilien erntet ein Rekordergebnis von 180,5 Millionen ([USDA FAS, Oktober 2026](https://apps.fas.usda.gov/psdonline/circulars/oilseeds.pdf)).
+- **Brasilien:** Die großen Händler steigen im Januar 2026 aus dem Amazonas-Soja-Moratorium aus. Am 12.08.2026 erklärt das Oberste Gericht das Moratorium mit 6:3 für verfassungsgemäß, erlaubt den Bundesstaaten aber, teilnehmenden Firmen Steuervorteile zu streichen ([Courthouse News](https://courthousenews.com/brazil-high-court-upholds-amazon-soy-pact-but-states-can-punish-firms-that-follow-it)).
+- **EU:** Das Interimsabkommen mit dem Mercosur gilt seit 01.05.2026 vorläufig ([Houthoff](https://www.houthoff.com/actueel/nieuws/handelsovereenkomst-eu-mercosur-voorlopige-toepassing-vanaf-1-mei-2026/)). Die Entwaldungsverordnung bleibt auf den 30.12.2026 verschoben ([EUR-Lex, VO 2025/2650](https://eur-lex.europa.eu/eli/reg/2025/2650/oj)).
+- **24.08.2026:** China kündigt an, weniger zu importieren und mehr selbst anzubauen ([DW](https://www.dw.com/de/chinas-neue-agrarstrategie-weniger-importe-mehr-eigenproduktion/a-78457113)). **28.09.2026:** Nach dem Gipfel in Washington senkt Peking die Zölle auf US-Agrargüter, nimmt Soja aber ausdrücklich aus ([The Hindu](https://www.thehindu.com/news/international/china-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded/article71518383.ece)).
+
+Die Waffe ist also nicht eingesteckt worden. Sie liegt sichtbar auf dem Tisch, während man verhandelt.
+
+---
+
 ## Faktencheck
 
-> [!warning] Vereinfacht — Anteil Tierfutter an Sojaproduktion
-> Die Note nennt 75% der Weltproduktion als Tierfutter. Laut WWF gehen rund 80% der globalen Sojaernte an Tiere — 37% Geflügel, 20% Schweine als größte Gruppen. Die 75% sind konservativ. [Quelle: [WWF — Soy](https://wwf.panda.org/discover/our_focus/food_practice/sustainable_production/soy/)]
+> [!success] Bestätigt — Im September 2025 kam keine US-Soja mehr in China an
+> Laut chinesischem Zoll importierte China im September 2025 keine einzige Tonne Sojabohnen aus den USA, zum ersten Mal seit November 2018; von Mai bis November 2025 lagen die Einfuhren nahe null. Die Zollstufen: ab 10.03.2025 ein Zusatzzoll von 10 %, im April bis zu 125 %, nach Genf (Mai) 23 %, seit 10.11.2025 13 % (Brasilien: 3 %). [Quellen: [The Standard (Hongkong)](https://www.thestandard.com.hk/market/article/314566/China-imports-no-US-soybeans-in-September-for-first-time-in-seven-years) · [Western Producer](https://www.producer.com/daily/beijing-lifts-some-tariffs-on-u-s-farm-goods-but-soybeans-stay-costly/)]
+>
+> *Korrigiert am 25.10.2026: Hier stand bisher „Falsch“, mit der Begründung, es habe nur einen Zoll von 10 % gegeben. ARTE hatte recht.*
 
-> [!warning] Vereinfacht — Weltproduktion 2023: 390 Millionen Tonnen
-> USDA-Daten nennen ~398 Mio. Tonnen, andere Schätzungen 371 Mio. Die 390 Mio. liegen im Bereich, sind aber keine präzise offizielle Ziffer. [Quelle: [Our World in Data — Soybean Production](https://ourworldindata.org/grapher/soybean-production)]
+> [!success] Bestätigt — 75 % der Ernte werden Tierfutter
+> ARTEs Aufteilung (75 % Futter, 19 % Lebensmittel, 4 % Biokraftstoff) deckt sich mit Our World in Data: rund 77 % Futter, etwa 4 % Industrie und Biokraftstoff; die größten Abnehmer sind Geflügel (37 %) und Schweine (20 %). [Quelle: [Our World in Data — Soy](https://ourworldindata.org/soy)]
 
-> [!warning] Vereinfacht — China importiert "zwei Drittel der Weltproduktion"
-> China importierte 2024 rekordverdächtige ~105 Mio. Tonnen. Gemessen an ~390–398 Mio. Tonnen Weltproduktion entspricht das einem Viertel, nicht zwei Dritteln. "Zwei Drittel" bezieht sich auf die globalen Handelsströme (Exportmengen), nicht die Gesamtproduktion — ein erheblicher Unterschied. [Quelle: [Canadian Cattlemen — China soybean imports hit record 2024](https://www.canadiancattlemen.ca/daily/china-soybean-imports-hit-record-in-2024-ahead-of-trump-inauguration/)]
+> [!success] Bestätigt — Weltproduktion rund 390 Millionen Tonnen
+> Je nach Quelle und Erntejahr 371 Mio. Tonnen (FAO, Kalenderjahr 2023) bis 396 Mio. Tonnen (USDA, Erntejahr 2023/24). [Quellen: [USDA FAS — Oilseeds: World Markets and Trade](https://apps.fas.usda.gov/psdonline/circulars/oilseeds.pdf) · [Our World in Data](https://ourworldindata.org/soy)]
 
-> [!danger] Falsch — Vollständiger Stopp der US-Sojaexporte nach China September 2025
-> ARTE behauptet einen "vollständigen Stopp". Tatsächlich verhängte China ab März 2025 einen Zoll von 10% auf US-Soja — kein formelles Gesamtverbot. Chinesische Käufer wichen auf Brasilien/Argentinien aus, aber der Handel versiegte nicht vollständig. [Quelle: [Bloomberg — China Imposes Tariffs on US Soybeans](https://www.bloomberg.com/news/articles/2025-03-04/china-imposes-tariffs-on-us-soybeans-and-other-farm-products)]
+> [!warning] Vereinfacht — „viertwichtigste Anbaupflanze der Welt“
+> Das gilt für die Anbaufläche. Nach Erntemenge liegen neben Mais, Weizen und Reis auch Zuckerrohr, Ölpalme und Kartoffel vor der Sojabohne. [Quelle: FAOSTAT]
 
-> [!warning] Vereinfacht — Nixon-Embargo 1973: Preis vervierfacht sich
-> Das Embargo von Juni 1973 existierte. Die Preisvervierfachung ist jedoch nicht belegbar — Quellen zeigen, dass der Preis nach dem Embargo sogar stark fiel. Der Preisanstieg war real, trat aber bereits vor dem Embargo auf und hatte mehrere Ursachen (Missernte Peru, Sowjet-Getreideabkommen). [Quelle: [farmdoc daily — The Consequential Seventies](https://farmdocdaily.illinois.edu/2019/05/a-brief-review-of-the-consequential-seventies.html)]
+> [!danger] Falsch — China importiere „zwei Drittel der Weltproduktion“
+> China importierte im Erntejahr 2023/24 rund 112 Mio. Tonnen bei einer Weltproduktion von 396 Mio. Tonnen, also gut ein Viertel. Zwei Drittel (63 %) sind es an den weltweiten *Importen* (178,5 Mio. Tonnen). [Quelle: [USDA FAS, Tabelle 07](https://apps.fas.usda.gov/psdonline/circulars/oilseeds.pdf)]
 
-> [!success] Bestätigt — Brasilien ~165 Mio. Tonnen Sojaproduktion 2024
-> USDA und Conab schätzen die brasilianische Ernte 2024/25 auf 169–178 Mio. Tonnen — ~165 Mio. ist leicht konservativ, aber im richtigen Bereich. [Quelle: [CropGPT — Brazil Soybean 2024/25](https://cropgpt.ai/brazil-soybean-2024-25-record-output-driven-by-productivity-gains)]
+> [!warning] Vereinfacht — EU mit 20 % der US-Exporte
+> 2024 gingen rund 10 % der US-Sojaexporte in die EU (2,43 von 24,58 Mrd. Dollar), 52 % nach China. Die Stelle ist im Video sprachlich verstümmelt. [Quelle: [USDA FAS — Soybeans](https://www.fas.usda.gov/data/commodities/soybeans)]
 
-> [!warning] Vereinfacht — EU-Entwaldungsverordnung ab 2026
-> Die EUDR gilt für Großunternehmen erst ab Ende 2026, für kleine und Kleinstunternehmen ab Mitte 2027. Die Formulierung "ab 2026" ist vereinfacht, die Richtung stimmt. [Quelle: [Mongabay — Cost of compliance with EUDR](https://news.mongabay.com/2026/02/the-cost-of-compliance-with-the-eudr-will-limit-its-impact-on-reducing-deforestation-commentary/)]
+> [!warning] Vereinfacht — Nixons Exportverbot 1973
+> Das Exportverbot vom Juni 1973 gab es. Der Preissprung begann aber schon Ende 1972, mit dem großen Getreidegeschäft der Sowjetunion und dem Ausfall der peruanischen Sardellenfänge, aus denen Futter-Fischmehl kam; im Juni 1973 lag der Monatsdurchschnitt bei rund 10 Dollar je Bushel, ein Mehrfaches des früheren Preises. Das Embargo folgte dem Preis, es verursachte ihn nicht, und eine Dürre als Grund nennt die Quelle nicht. Eine Folge reicht bis heute: Japan finanzierte danach die Erschließung des brasilianischen Cerrado mit. [Quelle: [farmdoc daily — The Consequential Seventies](https://farmdocdaily.illinois.edu/2019/05/a-brief-review-of-the-consequential-seventies.html)]
+
+> [!danger] Falsch für den Amazonas — Soja als „wichtigste Ursache für Waldvernichtung“
+> Im Amazonas ist Weideland für Rinder der Haupttreiber der Rodung; neue Sojafelder auf frisch gerodetem Wald gingen dort nach dem Soja-Moratorium von 2006 stark zurück. Für den Cerrado trifft ARTEs Satz weitgehend zu. Südamerikaweit wurden bis 2016 rund 9 % der Waldverluste direkt zu Sojafeldern, fast die Hälfte davon im Cerrado (Song et al. 2021, *Nature Sustainability*, Primärstudie, [doi:10.1038/s41893-021-00729-z](https://doi.org/10.1038/s41893-021-00729-z)). Die „über 40 %“ für Brasilien lassen sich nicht belegen. Indirekt wirkt Soja trotzdem: Es verdrängt Weiden, die dann in den Wald ausweichen. [Quelle auch: [Our World in Data — Soy](https://ourworldindata.org/soy)]
+
+> [!success] Bestätigt — Brasilien rund 165 Millionen Tonnen
+> USDA nennt 172,5 Mio. Tonnen für das Erntejahr 2024/25, die FAO 144,5 Mio. Tonnen für das Kalenderjahr 2024. [Quelle: [USDA FAS, Tabelle 07](https://apps.fas.usda.gov/psdonline/circulars/oilseeds.pdf)]
+
+> [!success] Bestätigt — EU-Entwaldungsverordnung „ab 2026“
+> Nach der Verschiebung durch die Verordnung (EU) 2025/2650 gilt die EUDR für große Unternehmen ab 30.12.2026, für kleine und Kleinstunternehmen ab 30.06.2027. [Quelle: [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2025/2650/oj)]
 
 ---
 
@@ -148,13 +194,13 @@ China sichert seine südamerikanischen Lieferketten parallel ab — über Invest
 
 - Nikolaus Kowal: *Raus aus der Globalisierungsfalle — wie wir die sozialökologische Transformation schaffen* — im Video als Leseempfehlung genannt
 
-*Sherlock-Recherche:*
+*Belege aus dem Faktencheck:*
 
-- [WWF — Soy](https://wwf.panda.org/discover/our_focus/food_practice/sustainable_production/soy/) — Überblick zu Nutzungsanteilen (Futter, Lebensmittel, Treibstoff)
-- [Bloomberg — China Imposes Tariffs on US Soybeans, März 2025](https://www.bloomberg.com/news/articles/2025-03-04/china-imposes-tariffs-on-us-soybeans-and-other-farm-products) — Beleg für Zölle statt Importverbot
+- [USDA FAS — Oilseeds: World Markets and Trade](https://apps.fas.usda.gov/psdonline/circulars/oilseeds.pdf) — Produktion, Handel, Importe nach Ländern
+- [Our World in Data — Soy](https://ourworldindata.org/soy) — Verwendung der Ernte, Entwaldung
+- Song et al. (2021): Massive soybean expansion in South America since 2000 and implications for conservation. *Nature Sustainability* — [doi:10.1038/s41893-021-00729-z](https://doi.org/10.1038/s41893-021-00729-z)
 - [farmdoc daily — A Brief Review of the Consequential Seventies](https://farmdocdaily.illinois.edu/2019/05/a-brief-review-of-the-consequential-seventies.html) — Preisgeschichte um das Nixon-Embargo 1973
-- [Canadian Cattlemen — China soybean imports hit record in 2024](https://www.canadiancattlemen.ca/daily/china-soybean-imports-hit-record-in-2024-ahead-of-trump-inauguration/) — Importrekord 105 Mio. Tonnen
-- [Mongabay — EUDR compliance costs, Feb 2026](https://news.mongabay.com/2026/02/the-cost-of-compliance-with-the-eudr-will-limit-its-impact-on-reducing-deforestation-commentary/) — Aktueller Stand der EU-Entwaldungsverordnung
+- [EUR-Lex — Verordnung (EU) 2025/2650](https://eur-lex.europa.eu/eli/reg/2025/2650/oj) — Verschiebung der EU-Entwaldungsverordnung
 
 ---
 
@@ -174,7 +220,7 @@ China sichert seine südamerikanischen Lieferketten parallel ab — über Invest
 
 [[Good News - Positive Nachrichten März 2026]] — EU-Mercosur-Abkommen Januar 2026 ist ein direktes Produkt derselben Handelsdynamiken: Trump-Zölle erzwingen globale Kooperationsverschiebungen — dasselbe geopolitische Muster wie bei der Soja.
 
-[[Good News - Gute Nachrichten April 2026 Teil 2]] — Konkreter Bruchpunkt im Soja-System: 1.000 indigene Munduruku-Aktivisten haben Cargills Hafenausbau am Tapajós gestoppt. Die ARTE-Note erklärt das System, die Cargill-Story den Widerstand gegen genau diese Logik — David gegen Goliath in der Soja-Geopolitik.
+[[Good News - Gute Nachrichten April 2026 Teil 2]] — Konkreter Bruchpunkt im Soja-System: Im Januar und Februar 2026 besetzten Angehörige von 14 indigenen Völkern das Cargill-Terminal in Santarém am Tapajós; die Regierung nahm daraufhin das Dekret zur Privatisierung der Wasserstraßen zurück ([Poder360](https://www.poder360.com.br/poder-brasil/governo-diz-que-nao-tolerara-mais-atos-contra-a-cargill-no-para/)). Die ARTE-Note erklärt das System, die Cargill-Story den Widerstand gegen genau diese Logik — David gegen Goliath in der Soja-Geopolitik.
 
 [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Öl und Soja als parallele Fallstudien geopolitischer Rohstoffmacht: Herrmann zeigt, wie Iran die Hormus-Straße als Waffe einsetzt — dasselbe Muster wie Brasilien/USA im Sojahandel, nur mit direktem militärischem Eskalationspotenzial
 
@@ -193,3 +239,13 @@ Van Tulleken folgt der Bohne bis ins Regal: Soja, Mais, Weizen und Reis werden z
 ### → [[Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
 
 Dass Futtersoja Wald frisst, ist das Gegenstück zu dem Einwand, der in der Furtwängler-Doku gegen eine pestizidfreie Landwirtschaft fällt („dann zerstören wir den Regenwald“); dort rechnet der Biobauer von Mackensen mit Futter und Verschwendung dagegen.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Die EU will per Nachweispflicht verhindern, dass Soja Wald frisst, und öffnet zugleich mit dem Mercosur den Markt — *kann eine Lieferkettenpflicht bremsen, was ein Handelsabkommen beschleunigt?*
+> - Im September 2025 ging keine Tonne US-Soja nach China, und die Farmer im Mittleren Westen zahlten — *wen trifft eine Handelswaffe zuerst: den Gegner oder die eigenen Leute?*
+> - Japan antwortete auf das Embargo von 1973, indem es in Brasilien mitbaute — *was wäre die europäische Antwort auf heutige Abhängigkeiten: eigener Anbau, neue Partner oder weniger Fleisch?*
+> - Drei Viertel der Ernte gehen durch Tiermägen — *wie viel von der Macht der Bohne bliebe übrig, wenn die reichen Länder weniger Fleisch äßen?*

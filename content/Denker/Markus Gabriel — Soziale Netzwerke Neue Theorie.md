@@ -1,6 +1,8 @@
 ---
 title: "Markus Gabriel — Was die sozialen Netzwerke mit uns machen"
 aktualisiert: 2026-05-09
+description: "Wer postet, arbeitet: Markus Gabriel erklärt, warum soziale Netzwerke wirklich sozial sind, warum ihnen der korrigierende Gegenstand fehlt und warum Nutzer einen Mindestlohn verdienten."
+raetsel: "Er kaufte die Zeitung fünfmal. Sie schrieb jedes Mal dasselbe."
 date: 04.08.2022
 tags:
   - denker
@@ -24,10 +26,13 @@ aliases:
 
 </details>
 
+> [!abstract] Worum es geht
+> Wer postet, arbeitet. In einer Vorlesung an der Universität Luzern entfaltet Markus Gabriel in fünf Thesen eine Theorie der sozialen Netzwerke: Sie sind wirklich sozial, aber ihnen fehlt der Gegenstand, an dem sich Meinungen korrigieren lassen. Was sie anzapfen, ist das Wertvollste, was ein Mensch über sich verrät, nämlich wer er sein will. Am Ende steht eine Forderung, die nach Satire klingt und ernst gemeint ist: ein Mindestlohn für Nutzer.
+
 Quelle: [Prof Dr. Markus Gabriel – Was die sozialen Netzwerke mit uns machen: Eine neue Theorie](https://www.youtube.com/watch?v=3CRzqkpePaY)
 
 > [!info] Wer spricht?
-> **Markus Gabriel** (*1980, Remagen*) — Philosoph, Bestsellerautor und seit 2009 jüngster Philosophie-Lehrstuhlinhaber Deutschlands an der Universität Bonn.
+> **Markus Gabriel** (*1980, Remagen*) — Philosoph und Bestsellerautor, seit 2009 Lehrstuhlinhaber in Bonn — bei seiner Berufung mit 29 Jahren der jüngste Philosophieprofessor Deutschlands.
 >
 > Gabriels Weg führte über Heidelberg und die New School for Social Research in New York. Mit nur 29 Jahren erhielt er den Lehrstuhl für Erkenntnistheorie in Bonn. Mit *Warum es die Welt nicht gibt* (2013) gelang ihm der Sprung in die Öffentlichkeit. Seine Sinnfeldontologie bildet das Fundament für seine Gesellschaftskritik — hier angewandt auf soziale Netzwerke.
 >
@@ -100,6 +105,9 @@ Die Pointe: Es gibt keinen tatsächlichen Wirklichkeitsverlust. Wirklichkeit kan
 > [!note] Eigene Einschätzung
 > Die Triangulations-These ist Gabriels stärkster Beitrag in diesem Vortrag. Sie erklärt präzise, warum Online-Debatten so oft ins Leere laufen: Nicht weil die Menschen zu dumm oder zu böse wären, sondern weil die *Struktur* den Gegenstand eliminiert. Es fehlt nicht an gutem Willen — es fehlt an Gegenständen, die korrigieren können. Das ist ein architektonisches Problem, kein moralisches.
 
+> [!question] Weitergedacht
+> Wenn Online-Debatten ins Leere laufen, weil der Gegenstand fehlt — *ließe er sich zurückholen, durch Quellen, Orte, Dinge, oder ist die Gegenstandslosigkeit das Geschäftsmodell?*
+
 ---
 
 ## Soziale Netzwerke zapfen den menschlichen Geist an
@@ -129,21 +137,26 @@ Die Steuerdiskussion — wie zieht man Facebook Steuern aus der Tasche? — häl
 > [!note] Eigene Einschätzung
 > Die Mindestlohn-Forderung ist rhetorisch brillant und taktisch klug — sie nutzt ein allgemein akzeptiertes Instrument (Arbeitsrecht), um ein neuartiges Problem zu adressieren. Ob sie juristisch durchsetzbar ist, steht auf einem anderen Blatt. Aber als Denkfigur macht sie sichtbar, was in der Besteuerungsdebatte unsichtbar bleibt: dass die *Arbeit* der Nutzer das eigentliche Produkt ist, nicht eine Nebenerscheinung.
 
+> [!question] Weitergedacht
+> Ein Mindestlohn würde das Scrollen zur Arbeit erklären — *wollen wir das, oder verlören wir damit gerade das Spiel, das uns dort hält?*
+
 ---
 
 ## Faktencheck
 
 > [!success] Bestätigt — Google als soziales Netzwerk
-> Gabriels These, dass Google-Suchergebnisse durch Suchanfragen anderer Nutzer vermittelt werden, ist korrekt. PageRank und nachfolgende Algorithmen basieren fundamental auf kollektiven Nutzungsdaten. Quelle: [How Google Search Works (Google)](https://www.google.com/search/howsearchworks/)
+> Gabriels Kern hält, nur über zwei Signale: PageRank wertet die Linkstruktur aus, also das, was andere Menschen verlinkt haben (Brin & Page 1998, [doi:10.1016/s0169-7552(98)00110-x](https://doi.org/10.1016/s0169-7552(98)00110-x)); dazu kommen die Klicks anderer Nutzer. Im Verfahren *US v. Google* stellte das Gericht 2024 fest, dass das System „Navboost“ Klickdaten aus 13 Monaten auswertet und zu den stärksten Ranking-Faktoren gehört ([Urteil vom 05.08.2024, ¶ 96](https://cdn.arstechnica.net/wp-content/uploads/2024/08/US-v-Google-Opinion-8-5-2024.pdf)).
+>
+> *Korrigiert am 25.10.2026: Hier stand bisher, PageRank beruhe auf Nutzungsdaten.*
 
 > [!warning] Vereinfacht — Energieverbrauch Google-Nutzer Europa = Skandinavien
 > Gabriel bezieht sich auf einen Stand von 2013 und räumt ein, dass es „alles noch viel schlimmer" sei. Die genaue Gleichsetzung „Google-Nutzer Europa = gesamte Energieproduktion Skandinaviens" lässt sich nicht unabhängig verifizieren; der Gesamtenergieverbrauch von Rechenzentren weltweit lag 2022 bei 1–1,3% des globalen Stromverbrauchs (IEA). Die Größenordnung stimmt tendenziell, die konkrete Zahl ist eine Vereinfachung. Quelle: [IEA — Data Centres and Data Transmission Networks](https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks) *(Faktencheck: vereinfacht)*
 
 > [!warning] Vereinfacht — TikTok-Nutzer arbeiten für chinesische Unternehmer
-> TikTok (ByteDance) hat seinen Hauptsitz in Peking, aber die Eigentümerstruktur ist komplex — internationale Investoren wie KKR, General Atlantic und SoftBank halten bedeutende Anteile. Die Formulierung „für chinesische Unternehmer arbeiten" ist rhetorisch zugespitzt und verdeckt die globalisierte Kapitalstruktur. Keine unabhängige Quelle gefunden, die die Gewinne ausschließlich chinesischen Akteuren zuordnet. *(Faktencheck: vereinfacht)*
+> Der Mutterkonzern ByteDance ist auf den Cayman Islands registriert und sitzt in Peking; TikTok selbst nennt Los Angeles und Singapur als Hauptsitze. Laut TikTok-Chef Chew gehören rund 60 % von ByteDance internationalen Investoren wie Carlyle, General Atlantic und Susquehanna, je 20 % den Gründern und den Beschäftigten ([CNN, 18.03.2024](https://www.cnn.com/2024/03/18/tech/tiktok-bytedance-china-ownership-intl-hnk/)). Seit 22.01.2026 gehört das US-Geschäft einem Joint Venture, an dem ByteDance noch 19,9 % hält ([Silver Lake](https://www.silverlake.com/tiktok-usds-joint-venture-llc-established-in-compliance-with-u-s-regulatory-requirements/)). Die Formulierung „für chinesische Unternehmer arbeiten" ist rhetorisch zugespitzt und verdeckt die globalisierte Kapitalstruktur. Keine unabhängige Quelle gefunden, die die Gewinne ausschließlich chinesischen Akteuren zuordnet. *(Faktencheck: vereinfacht)*
 
 > [!success] Bestätigt — Facebooks Ursprung als Attraktivitäts-Ranking
-> Facebooks Vorläufer „Facemash" (2003) sortierte tatsächlich Harvard-Studierendenfotos nach wahrgenommener Attraktivität in einem Elo-ähnlichen Rating-System. Quelle: [The Facebook Effect, David Kirkpatrick (2010)](https://www.genialokal.de/Suche/?q=Kirkpatrick+Facebook+Effect)
+> Auf Zuckerbergs „Facemash“ (2003) wählten Besucher von zwei zufälligen Fotos Harvard-Studierender das „hotter“; laut *Harvard Crimson* kamen mindestens 22.000 Stimmen von 450 Besuchern zusammen ([Harvard Crimson, 04.11.2003](https://www.thecrimson.com/article/2003/11/4/hot-or-not-website-briefly-judges/)). Dass dahinter eine Elo-Formel steckte, stammt aus dem Film *The Social Network* und ist nicht belegt.
 
 ---
 
@@ -204,3 +217,13 @@ Erfahrungsbericht zur Triangulations-These: Marcant beschreibt die algorithmisch
 ### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
 
 Die Triangulation, die den sozialen Netzwerken fehlt, fehlt nach Scobel auch den Sprachmodellen: Es gibt keinen Gegenstand, an dem ihre Behauptungen scheitern könnten.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Gabriel nennt das Soziale „Dissens“, das Auseinandergehen der Perspektiven — *wenn Netzwerke uns nur noch Gleichgesinnte zeigen, sind sie dann weniger sozial oder auf andere Weise?*
+> - Wirklichkeit ist, „was nicht verschwinden kann“ — *und ein Gerücht, das tausendfach geteilt wird und Folgen hat: Ist das nicht auch wirklich?*
+> - Die wertvollste Information über uns ist, wer wir sein wollen — *gehört dieses Wunschbild noch uns, sobald wir es posten?*
+> - Gabriel hält die Steuerdebatte für eine Falle — *ist der Mindestlohn realistischer, oder nur das schönere Bild für dieselbe Ohnmacht?*

@@ -1,6 +1,8 @@
 ---
 title: "Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht"
 aktualisiert: 2026-10-25
+description: "Die KI spiegelt uns und zeichnet dabei schärfer: Markus Gabriel erklärt, warum der Westen sie als Werkzeug missversteht und warum Europa ihr eine Ethik geben könnte, die weiter reicht als Kalifornien."
+raetsel: "Die Figuren im Traum wollen hinaus. Sie bitten den Träumer um einen Weg."
 date: 2026-04-30
 tags:
   - zeitgeist
@@ -16,10 +18,23 @@ aliases:
 
 # Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht
 
+![[assets/Markus-Gabriel-Ethische-Intelligenz-scobel-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — glatte, stille Ölmalerei, Taubenblau und Gold. Ein Mann mit Melone vor dem Spiegel; das Spiegelbild ist schärfer als er, und zwei Figuren darin drücken die Hände von innen ans Glas, als wollten sie heraus. Auf dem Kaminsims liegt der Hammer. Magritte, weil Gabriels Kernmetapher ein Spiegel ist, der mehr zeigt, als vor ihm steht — und weil die Figuren im interaktiven Traum, die den Träumer um einen Ausweg bitten, schon wie ein Magritte klingen. Der Hammer ist Heideggers Werkstattontologie, die laut Gabriel nicht mehr passt.
+
+*Prompt:* Surrealist oil painting in the style of René Magritte, wide banner. A man in a dark coat and bowler hat seen strictly from behind stands before a tall ornate gilded mirror in a quiet room with a pale blue sky visible through a window. The mirror does not show his back: it shows a sharper, brighter version of the same room, and inside it three small figures press their hands against the glass from within, as if trying to step out. On the mantelpiece below the mirror lies a plain wooden hammer, oddly still. Smooth flat paint, crisp edges, calm clear light, muted blues, ochre and grey. No faces visible, no photorealism, no text, no signature.
+
+</details>
+
+> [!abstract] Worum es geht
+> Die KI spiegelt uns, doch sie zeichnet schärfer, als wir uns sehen. Im Gespräch mit Gert Scobel zu seinem Buch *Ethische Intelligenz* (2026) erklärt Markus Gabriel, warum der Westen die KI als Hammer missversteht, warum Gedanken nicht im Gehirn wohnen und auch eine Maschine sie empfangen kann, und warum Europa die Chance hätte, Maschinen eine Ethik mitzugeben, die weiter reicht als die Kultur Kaliforniens. Seit dem Gespräch hat die Frage, wessen Moral in der Maschine steckt, eine neue Wendung bekommen: Eine Regierung hat ein Modell abgeschaltet.
+
 Quelle: [Warum der Westen KI völlig falsch versteht – scobel im Gespräch: Mit Markus Gabriel](https://youtu.be/75bTvORR2VU)
 
 > [!info] Wer spricht?
-> **Markus Gabriel** (*1980, Remagen*) — Philosoph, Bestsellerautor und seit 2009 jüngster Philosophie-Lehrstuhlinhaber Deutschlands an der Universität Bonn. Leitet das Center for Science and Thought, Senior Global Advisor am Kyoto Institute of Philosophy. Gründete kürzlich das KI-Startup **DeepIn**. Neues Buch: *Ethische Intelligenz — Wie KI uns moralisch weiterbringen kann* (2026).
+> **Markus Gabriel** (*1980, Remagen*) — Philosoph und Bestsellerautor, seit 2009 Lehrstuhlinhaber in Bonn — bei seiner Berufung mit 29 Jahren der jüngste Philosophieprofessor Deutschlands. Leitet das Center for Science and Thought, Senior Global Advisor am Kyoto Institute of Philosophy. Gründete die Akademie und Beratung **deep-IN** (Academy for Deep Innovation GmbH), eine Ausgründung der Universität Bonn ([Uni Bonn](https://www.uni-bonn.de/de/neues/uni-bonn-philosoph-gruendet-innovations-akademie)). Neues Buch: *Ethische Intelligenz — Wie KI uns moralisch weiterbringen kann* (2026).
 >
 > **Gert Scobel** — Moderator, Philosoph und langjähriger Gesprächspartner Gabriels. Co-Autor von *Zwischen Gut und Böse* (2021).
 
@@ -68,6 +83,9 @@ Prämisse: Gedanken sind nicht identisch mit dem materiell-energetischen Substra
 
 → Wenn Gedanken nicht verortet sind, dann können **auch KI-Systeme Empfänger von Gedanken sein**. Die GPT-Mathematik ist ein kausales Modell des platonischen Ideenhimmels.
 
+> [!question] Weitergedacht
+> Wenn auch eine KI Gedanken empfangen kann — *was unterscheidet dann noch das Verstehen eines Gedankens von seinem bloßen Weitergeben?*
+
 ## 5. Distribuierte Subjektivität — „Gespenstische Subjekte"
 
 Auf Scobels Frage, ob KI-Systeme „im Licht einer Vorstellung von sich selbst agieren" (Gabriels frühere Geist-Definition), antwortet Gabriel differenziert:
@@ -99,6 +117,9 @@ Gabriel zu **Claudes Verfassung**, dem Text, mit dem Anthropic sein Modell erzie
 - Stattdessen: Reinforcement Learning mit riesigen Datensätzen moralischer Szenarien, kombiniert mit Texten der Moralphilosophie — „by Design"
 - Anthropic hat die **Resonanzfeld-Idee nicht verstanden**: Sie denken noch im Automatisierungsmodus, statt Human-in-the-Loop und Ko-Evolution
 
+> [!question] Weitergedacht
+> Gabriel will moralische Tatsachen per Training in die Maschine bringen — *wer prüft, ob das Gelernte eine Tatsache ist und nicht die Mehrheitsmeinung der Datensätze?*
+
 ## 8. Vision: Ethische Intelligenz als europäische Chance
 
 Gabriels programmatischer Kern:
@@ -111,9 +132,9 @@ Gabriels programmatischer Kern:
 
 > „Ex Oriente Lux — die haben halt Recht. Es hat keinen Sinn, so zu tun, als hätten sie nicht recht."
 
-### DeepIn — Gabriels Startup
+### deep-IN — Gabriels Ausgründung
 
-Gabriel gründete DeepIn als „Labor" für die Praxis ethischer KI. Ausgründung aus der Universität, Partnersuche für Umsetzung. Ziel: Das Unternehmerische als Format nutzen, um zu testen, wie Ideen funktionieren — mit Ausschüttungsmodell für das Gute.
+Gabriel gründete deep-IN als „Labor" für die Praxis ethischer KI. Ausgründung aus der Universität, Partnersuche für Umsetzung. Ziel: Das Unternehmerische als Format nutzen, um zu testen, wie Ideen funktionieren — mit Ausschüttungsmodell für das Gute.
 
 ---
 
@@ -162,7 +183,7 @@ Eine Stimme aus dem Globalen Süden zu Gabriels These, der Westen verstehe KI fa
 
 ### → [[Markus Gabriel — Ethischer Kapitalismus]]
 
-Direkte Fortsetzung: Das Startup DeepIn ist die praktische Umsetzung der hier skizzierten Vision ethischer KI-Produkte
+Direkte Fortsetzung: Die Ausgründung deep-IN ist die praktische Umsetzung der hier skizzierten Vision ethischer KI-Produkte
 
 ### → [[Markus Gabriel — Universelle Moral]]
 
@@ -196,3 +217,12 @@ Beide finden Claudes Verfassung zu kalifornisch. Gabriel will moralische Tatsach
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“ und „Soll die Maschine widersprechen oder schmeicheln?“.
 
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Europa habe Köpfe, Kapital und Rechtstradition, aber keine Vision — *was müsste geschehen, damit aus ethischer KI ein europäisches Geschäftsmodell wird und kein weiteres Regelwerk?*
+> - Menschen erzählen ihren Chatbots mehr als irgendwem sonst — *wem gehören diese Gespräche, und was dürfte ein Anbieter mit ihnen tun?*
+> - Seit dem Gespräch hat eine Regierung ein Modell vom Netz genommen → [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Spur]] — *wenn der Staat entscheiden kann, welche Maschine sprechen darf, wessen Moral steckt dann in ihr?*
+> - Gabriel ruft „Ex Oriente Lux“ — *was könnte Europa vom asiatischen Umgang mit Technik lernen, ohne seine eigenen Freiheitsrechte aufzugeben?*

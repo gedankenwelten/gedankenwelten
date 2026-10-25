@@ -24,25 +24,27 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **25.10.** — [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
+>
+> Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt.
+
 > **25.10.** — [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
+>
+> Die KI spiegelt uns und zeichnet dabei schärfer: Markus Gabriel erklärt, warum der Westen sie als Werkzeug missversteht und warum Europa ihr eine Ethik geben könnte, die weiter reicht als Kalifornien.
+
+> **25.10.** — [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]]
+>
+> Je moralischer ein Unternehmen, desto profitabler auf lange Sicht: Markus Gabriel liest Adam Smiths unsichtbare Hand als menschliche Freiheit und will jeder Firma einen Chief Philosophy Officer geben.
+
+> **25.10.** — [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
+>
+> Derselbe Begriff kann Raub rechtfertigen oder Kooperation ordnen: Christoph Hein und Maja Göpel suchen Europas Platz zwischen einem Amerika, das nimmt, und einem China, das kauft.
 
 > **24.10.** — [[Zeitgeist/Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
 >
 > Ein Krieg hat ein Anfangsdatum, ein Ende hat er selten. Der Historiker Jörn Leonhard zeigt in zehn Thesen, warum der Frieden mit der Unterschrift erst beginnt und die Gewalt gerade dann steigt, wenn verhandelt wird.
 
-> **24.10.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
->
-> Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
-
-> **23.10.** — [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]]
->
-> Wer zehn Oldtimer besitzt, wird reicher, wer einen Gebrauchtwagen hat, ärmer. Vier Stimmen über Vermögen, das sich niemand mehr vorstellen kann, und die Frage, wem was gehört.
-
-> **21.10.** — [[Zeitgeist/Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
->
-> Kleine Felder retten mehr Arten als das Biosiegel, sagt einer der meistzitierten Ökologen der Welt. Warum es trotzdem kaum jemand tut, ist für ihn eine Frage der Wahl, nicht des Wissens.
-
-> → *3 weitere in* [[Zeitgeist]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Panorama
 

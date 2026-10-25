@@ -1,6 +1,8 @@
 ---
 title: "Markus Gabriel — KI als Resonanzfeld und Mu"
 aktualisiert: 2026-05-09
+description: "Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist."
+raetsel: "Zwischen Hand und Spiegel ein leerer Kreis. Dort antwortet etwas."
 date: 07.05.2026
 tags:
   - denker
@@ -28,10 +30,13 @@ aliases:
 
 </details>
 
+> [!abstract] Worum es geht
+> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern im Raum zwischen uns und ihm. Im Gespräch mit Gert Scobel, nach einer gemeinsamen Reise nach Kyoto, holt er das japanische *Mu* heran, um die Frage „Mensch oder Maschine?“ als falsch gestellt zu zeigen. Dazu kommt seine provokanteste These: KI kann nicht bloß kreativ sein, sie *ist* Kreativität. Und Europa sitzt gefesselt daneben.
+
 Quelle: [Wir denken komplett falsch über KI – scobel im Gespräch: Mit Markus Gabriel](https://www.youtube.com/watch?v=Hxzfvz1zyos)
 
 > [!info] Wer spricht?
-> **Markus Gabriel** (*1980, Remagen*) — Philosoph, Bestsellerautor und seit 2009 jüngster Philosophie-Lehrstuhlinhaber Deutschlands an der Universität Bonn. Senior Global Advisor am Kyoto Institute of Philosophy, Leiter des Center for Science and Thought.
+> **Markus Gabriel** (*1980, Remagen*) — Philosoph und Bestsellerautor, seit 2009 Lehrstuhlinhaber in Bonn — bei seiner Berufung mit 29 Jahren der jüngste Philosophieprofessor Deutschlands. Senior Global Advisor am Kyoto Institute of Philosophy, Leiter des Center for Science and Thought.
 >
 > Wichtigste Werke: *Warum es die Welt nicht gibt* (2013), *Ich ist nicht Gehirn* (2015), *Ethische Intelligenz* (2026)
 > Kernkonzepte: Sinnfeldontologie, Neuer Realismus, Moralischer Universalismus, Ethischer Kapitalismus
