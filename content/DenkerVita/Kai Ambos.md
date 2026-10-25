@@ -59,6 +59,7 @@ Ambos gilt als scharfer, überparteilicher Kritiker westlicher Doppelstandards, 
 - [[DenkerVita/Helen Keller]] — Keller stellt die Grundfrage, ob Recht ohne Erzwingungsmacht Recht ist, und sieht schon im unvollstreckten Haftbefehl einen Erfolg. Ambos antwortet mit derselben Nüchternheit: Durchsetzungsprobleme kennt jedes nationale Recht, und wird der Haftbefehl gegen Putin nicht vollstreckt, liegt das an den Staaten und nicht am Gericht.
 - [[DenkerVita/Vijay Prashad]] — Prashad nennt die UN-Charta „wie Poesie" und rechnet vor, dass Sambia, Simbabwe oder Jamaika sie nicht gebrochen haben. Ambos' Satz, Völkerrecht sei Eigeninteresse und kein Idealismus, nimmt dieser Poesie den Boden; einig sind beide darin, dass das Recht nicht tot ist.
 - [[DenkerVita/Gilda Sahebi]] — In der zwanzigsten Folge von *Gilda con Arne* brachte Sahebi Stimmen aus dem Iran mit, die sich eine Intervention wünschten, auch um den Preis eigener Toter. Ambos nannte das nachvollziehbar, aber kein völkerrechtliches Argument, und erinnerte daran, dass Narges Mohammadi eine Intervention ablehnt.
+- [[DenkerVita/Alexander Schwarz]] — Ambos' „für alle oder für niemanden“ am deutschen Einzelfall: Der ECCHR-Jurist hält der Bundesanwaltschaft vor, zur Ukraine binnen Wochen ermittelt zu haben, zu Gaza nicht. Anders als Ambos, der Rechtslage und politische Bewertung trennt, leitet Schwarz aus dem Recht direkt Forderungen an die Regierung ab.
 
 ## Gedankenwelten-Notes
 - [[WDR Europaforum — Out of order Voelkerrecht]]

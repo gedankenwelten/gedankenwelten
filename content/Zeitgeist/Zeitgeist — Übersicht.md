@@ -83,7 +83,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]] — Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
 - [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas|Ceuta und die Erpressbarkeit Europas]] — Fünfzigtausend Menschen an einem Tag, achtundachtzig Tote — und die Panik reist weiter als die Menschen selbst. Über eine Verwundbarkeit, die Europa sich gebaut hat.
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Christoph Butterwegge — Armut NEU DENKEN]]
-- [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
+- [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]] — Derselbe Begriff kann Raub rechtfertigen oder Kooperation ordnen: Christoph Hein und Maja Göpel suchen Europas Platz zwischen einem Amerika, das nimmt, und einem China, das kauft.
 - [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]]
 - [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner (re:publica Vienna)]] — Europa kehrt Palantir den Rücken und behält, was der Konzern mitgebracht hat: die Dauer-Rasterung aller Polizeidaten, nur mit anderem Logo.
 - [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] — CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
@@ -230,7 +230,7 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]] — Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
 - [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]] — Wachstum hat nicht nur eine Höhe, sondern eine Richtung — zwei Ökonomen vermessen eine Krise, in der ein digital-finanziell-militärischer Komplex die Macht übernimmt zu definieren, was Wirtschaft überhaupt heißen soll.
-- [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
+- [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt.
 - [[Zeitgeist/Bundestalk — Iran USA und die Strasse von Hormus|Bundestalk — Iran, USA und die Straße von Hormus]]
 - [[Zeitgeist/Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts (Jung & Naiv 826)]] — Nürnberg schrieb sieben Sätze, die für alle gelten sollten. Achtzig Jahre später fragt ein Völkerrechtler, wer sie noch ernst nimmt, und wo Berlin wegsieht.
 - [[Zeitgeist/Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)|Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
@@ -371,7 +371,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]] — Ein Messtechnik-Konzern erklärt auf einer Digitalkonferenz, dass wir die Welt vermessen müssen, um sie zu retten. Der Satz stimmt und ist zugleich das Problem — denn was gemessen wird, hat immer jemand ausgewählt.
 - [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]] — Zwei Ökonomen über die Zahl, die alles regiert: Das BIP misst weder die zerstörte Natur noch die unbezahlte Arbeit noch die Verteilung — und der Sachverständigenrat hat ein besseres Instrument, das er selbst nicht benutzt.
 - [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
-- [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]]
+- [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]] — Je moralischer ein Unternehmen, desto profitabler auf lange Sicht: Markus Gabriel liest Adam Smiths unsichtbare Hand als menschliche Freiheit und will jeder Firma einen Chief Philosophy Officer geben.
 - [[Zeitgeist/Martin Oetting — Happy Planet Index 2026|Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?]] — Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
 - [[Zeitgeist/Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby|Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
 - [[Zeitgeist/Maurice Hoefgen — Heute Show entlarvt Kanzler Merz|Maurice Höfgen — Heute Show entlarvt Kanzler Merz]]
@@ -396,7 +396,7 @@ Jede Note folgt einer eigenen Struktur:
 ### KI & Technologie
 
 - [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]] — Vier Praktikerinnen fragen, was Souveränität heißt, wenn Kabel, Betriebssystem und Rechenzentrum anderen gehören — und wo das Kobalt herkommt.
-- [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
+- [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]] — Die KI spiegelt uns und zeichnet dabei schärfer: Markus Gabriel erklärt, warum der Westen sie als Werkzeug missversteht und warum Europa ihr eine Ethik geben könnte, die weiter reicht als Kalifornien.
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]] — Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 - [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Warum Roboter keine Beine brauchen]] — Eine Erfolgsquote von 70 Prozent heißt in der Küche: ein kaputter Teller pro Woche. Der Robotiker Ronnie Vuine rechnet dem Humanoiden-Hype die Physik vor — und der Alignment-Debatte ihr Wir.
 

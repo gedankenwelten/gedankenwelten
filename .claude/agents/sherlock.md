@@ -146,6 +146,22 @@ Du lieferst **zwei Abschnitte**.
 
 **Pflicht:** Jeder Callout braucht eine Quellenzeile — entweder `Quelle: [Titel](URL)` mit echtem Link oder explizit `Keine unabhängige Quelle gefunden`.
 
+> [!important] Das Urteil selbst kann falsch sein (Fehler-Register, 25.10.2026)
+> 16 von 101 registrierten Fehlern waren **unsere eigenen Faktencheck-Urteile**: ein „Falsch“, wo der
+> Sprecher recht hatte (ARTE zum Soja-Stopp, Gabriel zu Kant und Phlogiston), ein „Bestätigt“ für einen
+> umstrittenen Befund (Haidt), ein „Paraphrase“ für ein wörtliches Zitat (Draghi), ein erfundener
+> Reuters-Link. Ursache fast immer: Wikipedia, Presse oder Gedächtnis statt Primärquelle. Darum:
+> - **`[!danger] Falsch` und `[!success] Bestätigt` nur mit Primärquelle** — Originaltext, Statistikamt,
+>   Gericht, Regierungsdokument, Studie mit DOI, Bericht im Wortlaut. Wikipedia ist ein Wegweiser zur
+>   Quelle, nie die Quelle. Ohne Primärquelle höchstens `Vereinfacht` oder `Nicht verifizierbar`.
+> - **Vor dem Urteil zurück ans Transkript (bei Namen die VTT):** Was hat der Sprecher wörtlich gesagt,
+>   mit welcher Einschränkung („glaube ich“, „etwa“)? Klingen zwei Wörter gleich (*crisis/crises*), ist es
+>   ein Transkriptionsfall, kein Sprecherfehler. Wer sprach — Gast oder Moderation?
+> - **Jede URL selbst aufgerufen haben.** Kein Link aus dem Gedächtnis, kein erratener Slug. Was nicht
+>   lädt (401, Bot-Sperre), wird als solches vermerkt oder durch eine erreichbare Quelle ersetzt.
+> - **Datum und Ort einer Äußerung** an der Primärquelle prüfen (Putins Kant-Deutung stand bei uns mit
+>   falschem Datum und falschem Anlass).
+
 **Abschnitt 2 — Quellen aus der Recherche:**
 
 ```

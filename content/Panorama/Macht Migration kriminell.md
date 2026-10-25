@@ -126,6 +126,8 @@ Was sich messen lässt, spricht gegen ein Schweigen der Institutionen. Das BKA v
 ![[assets/Macht-Migration-kriminell-Vergewaltigung-Tatverdaechtige.png|700]]
 *Beide Lager zeigen meist nur eine Spalte. Afghanen werden etwa zehnmal so oft der Vergewaltigung verdächtigt wie Deutsche, und von 449.780 Afghanen werden 449.289 es nicht. Sechs von zehn Tatverdächtigen sind Deutsche. Wer aus der Rate ein Urteil über alle macht, trifft fast nur Unbeteiligte; wer die Rate weglässt, übersieht, wo Vorbeugung ansetzen müsste. Daten: [BKA, PKS 2025, T62](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/PKS2025/pksTabellen_Interpretationshilfen/BundTVNationalitaet/bundTVNationalitaet.html), [Destatis, Ausländerzentralregister 2025](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200257005.html). Die Tabelle folgt einer Idee von [RationalPopulist](https://www.youtube.com/watch?v=3WUVeWVA80Q&t=453), mit Zahlen für 2025. Grafik: Gedankenwelten, CC BY-SA 4.0.*
 
+Der Hass, der aus solchen Verkürzungen wächst, trifft fast immer die Falschen: Menschen, die hier einfach ihr Leben leben möchten, wie wir alle. *Woran merke ich selbst, ob ich gerade über eine Rate spreche oder über einen Menschen?*
+
 **Die Stimmen**
 
 - **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 3 Jerk of all Weeks — Friedrich Merz|Friedrich Merz]]:** „Zur Vollständigkeit des Bildes“ gehöre die Herkunft der Täter; der Satz unterstellt, dass sie sonst fehlt.

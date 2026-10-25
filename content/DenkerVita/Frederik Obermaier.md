@@ -51,6 +51,7 @@ Kein Parteijournalist — Obermaier arbeitet klassisch aufklärerisch und überp
 ## Verbindungen zu anderen Denkern
 
 - [[DenkerVita/Konstantin Flemig]] — Flemig stützt seine Sudan-Analyse auf geleakte Akten, wie Obermaier sie verifiziert; beide kennen die Einsicht, dass Sichtbarkeit noch keine Rechenschaft schafft. → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+- [[DenkerVita/Alexander Schwarz]] — Sein Ko-Referent auf der re:publica 26: Obermaier macht aus Tweet, Videos und Geständnis eine verifizierte Recherche, der Völkerstrafrechtler Schwarz prüft, ob daraus ein Anfangsverdacht wird, und hält der Bundesanwaltschaft vor, zu Gaza nicht zu ermitteln.
 
 ## Gedankenwelten-Notes
 - [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]

@@ -26,14 +26,14 @@ Quelle: [Your Monthly Dose of Good News | April](https://www.youtube.com/watch?v
 
 ## Inhalt
 
-### Brasilien: 1.000 Indigene stoppen Cargill im Amazonas
+### Brasilien: Indigene stoppen die Privatisierung des Tapajós
 
-[▶ 0:00](https://www.youtube.com/watch?v=roUq7-G7w70&t=0) — Cargill, der größte privat geführte US-Konzern, betreibt seit über 20 Jahren einen der wichtigsten Soja-Häfen am Amazonas — gebaut ohne Zustimmung der lokalen Stämme. Die Pläne: Drei Flüsse vertiefen, damit größere Frachter ganzjährig fahren können — auch in der Trockenzeit. Im August 2025 vergab die brasilianische Regierung die Rechte an Privatunternehmen.
+[▶ 0:00](https://www.youtube.com/watch?v=roUq7-G7w70&t=0) — Cargill, der größte privat geführte US-Konzern, betreibt seit über 20 Jahren einen der wichtigsten Soja-Häfen am Amazonas — gebaut ohne Zustimmung der lokalen Stämme. Die Pläne: Drei Flüsse vertiefen, damit größere Frachter ganzjährig fahren können — auch in der Trockenzeit. Im August 2025 nahm die brasilianische Regierung die drei Wasserstraßen Tapajós, Madeira und Tocantins per Dekret ins nationale Privatisierungsprogramm auf, als ersten Schritt zu einer Konzession für Ausbaggerung und Betrieb ([Dekret 12.600](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12600.htm)).
 
-[▶ 2:20](https://www.youtube.com/watch?v=roUq7-G7w70&t=140) — Die Antwort: Etwa 1.000 indigene Aktivisten enterten ein Soja-Schiff und besetzten anschließend tagelang den Hafenterminal. Die Regierung knickte ein und cancelte die Vertiefung auf allen drei Flüssen. Hintergrund: 80 % der weltweit produzierten Sojabohnen gehen ins Tierfutter — Brasilien ist seit 2025 der weltgrößte Soja-Exporteur.
+[▶ 2:20](https://www.youtube.com/watch?v=roUq7-G7w70&t=140) — Die Antwort: Hunderte Indigene aus 14 Völkern des Tapajós, dazu Munduruku, Kayapó und Panará (das Video spricht von etwa 1.000), besetzten ein Cargill-Schiff und danach wochenlang das Terminal in Santarém ([Poder360](https://www.poder360.com.br/poder-brasil/governo-diz-que-nao-tolerara-mais-atos-contra-a-cargill-no-para/)). Nach 32 Tagen nahm die Regierung am 23.02.2026 das Dekret zurück, alle drei Flüsse sind wieder aus dem Programm ([Dekret 12.856](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12856.htm)). Hintergrund: Gut drei Viertel der weltweiten Sojaernte gehen ins Tierfutter, und Brasilien ist seit Jahren der größte Soja-Exporteur der Welt.
 
 > [!note] Eigene Einschätzung
-> Bemerkenswert ist nicht nur der Sieg, sondern die *Asymmetrie*: Tausend Menschen ohne ökonomische Macht setzen sich gegen einen Multi-Milliarden-Konzern und einen Staat durch, der vorher schon das „Ja" verkauft hatte. Das funktioniert nur, weil die brasilianische Regierung unter Lula politisch verwundbar ist gegenüber dem Vorwurf, indigene Rechte zu verraten — also unter dem Druck der eigenen Wählerbasis. Echte Macht entsteht hier, wo politisches Kapital und körperliche Präsenz zusammenkommen. Symbolisch: Direct Action funktioniert noch.
+> Bemerkenswert ist nicht nur der Sieg, sondern die *Asymmetrie*: Einige hundert Menschen ohne ökonomische Macht setzen sich gegen einen Multi-Milliarden-Konzern und einen Staat durch, der vorher schon das „Ja" verkauft hatte. Das funktioniert nur, weil die brasilianische Regierung unter Lula politisch verwundbar ist gegenüber dem Vorwurf, indigene Rechte zu verraten — also unter dem Druck der eigenen Wählerbasis. Echte Macht entsteht hier, wo politisches Kapital und körperliche Präsenz zusammenkommen. Symbolisch: Direct Action funktioniert noch.
 
 ---
 
@@ -135,8 +135,10 @@ Quelle: [Your Monthly Dose of Good News | April](https://www.youtube.com/watch?v
 
 ## Faktencheck
 
-> [!success] Bestätigt — Cargill Soja-Hafen Brasilien
-> Cargills Hafen in Santarém am Tapajós (Pará, Brasilien) wird seit Jahren von indigenen Munduruku-Aktivisten blockiert. Die Auseinandersetzung um die *Hidrovias* (Wasserstraßen-Vertiefung) ist seit August 2025 dokumentiert. Quelle: [Mongabay — Munduruku Indigenous resist Cargill Amazon expansion](https://news.mongabay.com/2025/09/munduruku-indigenous-block-cargill-amazon-soy-port/) *(verlinkt als Suchpfad — Originalquelle prüfen)*
+> [!success] Bestätigt — Indigene Besetzung in Santarém, Dekret zurückgenommen
+> Ab Januar 2026 besetzten Indigene aus 14 Völkern des Baixo und Médio Tapajós, mit Munduruku, Kayapó und Panará, Schiffe und das Terminal von Cargill in Santarém, gegen die Aufnahme der Wasserstraßen in das Privatisierungsprogramm (Dekret 12.600 vom 28.08.2025). Am 23.02.2026 hob die Regierung das Dekret auf (Dekret 12.856). Die Zahl von etwa 1.000 Aktivisten aus dem Video ließ sich nicht belegen. Quellen: [Dekret 12.856 (planalto.gov.br)](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12856.htm) · [Poder360, 22.02.2026](https://www.poder360.com.br/poder-brasil/governo-diz-que-nao-tolerara-mais-atos-contra-a-cargill-no-para/)
+>
+> *Korrigiert am 25.10.2026: Hier stand ein Mongabay-Link, den es nicht gibt, und im Text, die Regierung habe die Rechte im August 2025 vergeben und die Vertiefung gestoppt.*
 
 > [!success] Bestätigt — 30 Hills Sumatra Conservation
 > Das *Hutan Harapan* / *30 Hills*-Projekt der NGO ABT existiert seit 2008/2015 und ist durch Regenwald-Stiftungen, Birdlife International und Conservation International dokumentiert. Die Dimensionen (~98.000 Hektar, Sumatra-Tiger, Sumatra-Elefanten, Orang-Utans) sind durch peer-reviewed Forschung belegt.

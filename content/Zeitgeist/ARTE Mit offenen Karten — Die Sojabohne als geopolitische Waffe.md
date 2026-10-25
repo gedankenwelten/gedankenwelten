@@ -4,6 +4,12 @@ title: "ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe"
 aktualisiert: 2026-10-25
 description: "Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt."
 raetsel: "Im Nugget steckt eine Bohne. In der Bohne ein Wald, der fehlt."
+stimme:
+  - wer: "John Steinbeck"
+    art: stimme
+    umfang: "der Inhaltsteil"
+    am: 2026-10-25
+    geliehen: "einfache, konkrete Wörter für Land und Arbeit; der weite Blick über die Felder, dann ein kurzer Satz, der sitzt"
 tags:
   - zeitgeist
   - globalisierung
@@ -31,6 +37,15 @@ aliases:
 
 </details>
 
+<details><summary>✒️</summary>
+
+Der Inhaltsteil: **Angelehnt an John Steinbeck** — ein Versuch in dieser Tonlage. Geliehen: einfache, konkrete Wörter für Land und Arbeit; der weite Blick über die Felder, dann ein kurzer Satz, der sitzt.
+*Erzählstimme gewählt am 25.10.2026.*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von ARTE Mit offenen Karten, die Erzählstimme ist unsere.
+
+</details>
+
 > [!abstract] Worum es geht
 > Eine unscheinbare Bohne füttert das Fleisch der Welt: Drei Viertel der Sojaernte werden Tierfutter. ARTE zeigt in zwölf Minuten, wie aus einer Pflanze Nordostchinas ein Hebel im Handelsstreit zwischen Washington und Peking wurde und was der Anbau in Südamerika kostet. Die Note ordnet die Zahlen ein und verfolgt, was seit dem Video geschah.
 
@@ -47,11 +62,11 @@ Quelle: [Die Sojabohne, eine geopolitische Pflanze | Mit offenen Karten | ARTE](
 
 [▶ 4:12](https://www.youtube.com/watch?v=MXhIqO4MEds&t=252)
 
-Soja ist das verborgene Fundament der globalen Fleischwirtschaft. 75% der Weltproduktion gehen als Futter an Rinder, Schweine und Geflügel. Nur 19% direkt für den Menschen, 4% für Biokraftstoff. Dahinter steckt eine nüchterne Logik: Soja wächst schnell, hat hohen Proteingehalt und macht Intensivhaltung kostengünstig möglich.
+Wer ein Chicken-Nugget isst, isst Soja, auch wenn er es nicht schmeckt. Drei Viertel der Ernte, 75 %, wandern als Futter in die Tröge der Rinder, Schweine und Hühner. 19 % essen Menschen selbst, 4 % werden zu Biokraftstoff. Die Bohne wächst schnell und steckt voller Eiweiß, und mit ihr wird es billig, viele Tiere auf engem Raum satt zu machen. Darum ist sie überall, wo es Fleisch, Milch und Eier gibt.
 
 > *„Hinter Nuggets, Speck und Milch steckt Soja."*
 
-Die Sojabohne ist damit die **viertwichtigste Anbaupflanze der Welt** — nach Mais, Weizen und Reis *(nach Anbaufläche; nach Erntemenge liegen weitere davor → [[#Faktencheck|Faktencheck]])*. Produktion 2023: rund 390 Millionen Tonnen.
+So ist die Sojabohne zur **viertwichtigsten Anbaupflanze der Welt** geworden, nach Mais, Weizen und Reis *(nach Anbaufläche; nach Erntemenge liegen weitere davor → [[#Faktencheck|Faktencheck]])*. 2023 holten die Bauern der Welt rund 390 Millionen Tonnen von den Feldern.
 
 ---
 
@@ -59,7 +74,7 @@ Die Sojabohne ist damit die **viertwichtigste Anbaupflanze der Welt** — nach M
 
 [▶ 3:24](https://www.youtube.com/watch?v=MXhIqO4MEds&t=204)
 
-Drei Länder kontrollieren über **80% des weltweiten Sojaexports**:
+Drei Länder liefern über **80 % von allem, was weltweit an Soja verschifft wird**:
 
 | Land | Rolle | Produktion (2024, USDA) |
 |---|---|---|
@@ -67,7 +82,7 @@ Drei Länder kontrollieren über **80% des weltweiten Sojaexports**:
 | **USA** | Erfinder des industriellen Anbaus | ~119 Mio. Tonnen, davon Iowa allein ~16 Mio. |
 | **Argentinien** | Aufsteiger durch GMO-Sorten | ~51 Mio. Tonnen |
 
-Auf der Abnehmerseite dominieren die EU und vor allem **China mit über 100 Millionen Tonnen jährlich** — rund zwei Drittel aller Importe weltweit *(ARTE sagt „der Weltproduktion“, es ist gut ein Viertel → [[#Faktencheck|Faktencheck]])*. Von den US-Exporten ging 2024 rund die Hälfte nach China und etwa ein Zehntel in die EU *(ARTE nennt 20 % für die EU)*. Diese Konzentration macht Soja zur geopolitischen Waffe.
+Auf der anderen Seite der Ozeane warten zwei große Käufer, die EU und vor allem **China mit über 100 Millionen Tonnen im Jahr** — rund zwei Drittel aller Importe weltweit *(ARTE sagt „der Weltproduktion“, es ist gut ein Viertel → [[#Faktencheck|Faktencheck]])*. Von den US-Exporten ging 2024 rund die Hälfte nach China und etwa ein Zehntel in die EU *(ARTE nennt 20 % für die EU)*. Wo so wenige verkaufen und einer so viel kauft, kann eine Bohne zur Waffe werden.
 
 ---
 
@@ -75,11 +90,11 @@ Auf der Abnehmerseite dominieren die EU und vor allem **China mit über 100 Mill
 
 [▶ 1:52](https://www.youtube.com/watch?v=MXhIqO4MEds&t=112)
 
-Als die USA unter Trump 2025 Strafzölle gegen China verhängten, reagierte Peking mit einem präzisen Gegenzug: ab März 2025 ein Zusatzzoll auf US-Soja, im April bis zu 125 %, nach der Genfer Einigung im Mai noch 23 %. Chinesische Käufer wichen auf Brasilien und Argentinien aus, bis die Einfuhr aus den USA, wie ARTE sagt, im September 2025 „ganz versiegte“: In diesem Monat kam laut chinesischem Zoll keine einzige Tonne US-Soja an, zum ersten Mal seit 2018. Ergebnis: Einnahmeneinbruch für Farmer im Mittleren Westen, Preisverfall bei Sojabohnen — ausgerechnet unter Trumps Kernwählerschaft.
+In Iowa reichen die Sojafelder bis an den Horizont, fast vier Millionen Hektar, sechzehn Millionen Tonnen im Jahr. Viele der Leute, die sie bestellen, haben Trump gewählt. Als Trump 2025 Strafzölle gegen China verhängte, kam die Antwort aus Peking genau dorthin: ab März ein Zusatzzoll auf US-Soja, im April bis zu 125 %, nach der Genfer Einigung im Mai noch 23 %. Die chinesischen Käufer bestellten nun in Brasilien und Argentinien, bis die Einfuhr aus den USA im September 2025, wie ARTE sagt, „ganz versiegte“. In diesem Monat kam laut chinesischem Zoll keine einzige Tonne an, zum ersten Mal seit 2018. Der Preis stürzte ab, und die Einnahmen der Farmer im Mittleren Westen brachen ein, ausgerechnet bei Trumps eigenen Wählern.
 
 > *„Die Sojabohne ist zur geopolitischen Waffe im Handelskonflikt zwischen China und den USA geworden."*
 
-Peking hatte diese Möglichkeit vorbereitet: Schon in den 1990ern traf China die strategische Entscheidung, die Sojaproduktion auszulagern — um sich auf Industrialisierung und Tierproduktion zu konzentrieren. Die Abhängigkeit war also gewollt, aber die Gegenabhängigkeit der USA ebenfalls strukturell verankert.
+Peking hatte vorgesorgt. Schon in den 1990ern entschied China, die Bohne anderswo wachsen zu lassen und die eigene Kraft in Fabriken und Ställe zu stecken. Die Abhängigkeit war gewollt. Nur hing Amerika an China genauso wie China an Amerika.
 
 > [!question] Weitergedacht
 > China hat sich in den 1990ern bewusst abhängig gemacht — *ist eine gewollte Abhängigkeit eine Schwäche oder ein Hebel, solange man den Lieferanten wechseln kann?*
@@ -90,7 +105,7 @@ Peking hatte diese Möglichkeit vorbereitet: Schon in den 1990ern traf China die
 
 [▶ 4:58](https://www.youtube.com/watch?v=MXhIqO4MEds&t=298)
 
-Die Sojabohne hat ihren Ursprung in Nordostchina (3000 v. Chr.). Noch 1933 stellten China und die Mandschurei **87% der Weltproduktion**. Die große Wende kam mit Japan:
+Die Sojabohne kommt aus dem Nordosten Chinas, dort wird sie seit etwa 3000 v. Chr. angebaut. Noch 1933 wuchsen **87 % der Welternte** in China und der Mandschurei. Dann kam Japan:
 
 - **1931/32**: Japan besetzt die Mandschurei und macht sie zum Marionettenstaat Mandschukuo → Lieferausfälle → die USA bauen den eigenen Sojaanbau aus
 - Roosevelt-Regierung subventioniert Züchtung und Produktion
@@ -102,7 +117,7 @@ Die Sojabohne hat ihren Ursprung in Nordostchina (3000 v. Chr.). Noch 1933 stell
 
 [▶ 8:00](https://www.youtube.com/watch?v=MXhIqO4MEds&t=480)
 
-Südamerika erkennt in den 1970ern das Potenzial, und Japan, durch das Embargo gewarnt, finanziert mit. Brasilien erschließt den Cerrado — eine Savanne dreimal so groß wie Frankreich, zuvor als ungeeignet geltend. Argentinien setzt ab den 1990ern auf gentechnisch veränderte, Glyphosat-resistente Sorten und verdreifacht die Anbaufläche innerhalb von 30 Jahren.
+In den 1970ern sahen die Südamerikaner, was in ihrem Boden steckte, und Japan, vom Embargo gewarnt, gab Geld dazu. Brasilien pflügte den Cerrado um, eine Savanne dreimal so groß wie Frankreich, die man lange für unbrauchbar gehalten hatte. Argentinien setzte ab den 1990ern auf gentechnisch veränderte Sorten, denen Glyphosat nichts anhat, und verdreifachte seine Anbaufläche in dreißig Jahren.
 
 ---
 
@@ -110,7 +125,7 @@ Südamerika erkennt in den 1970ern das Potenzial, und Japan, durch das Embargo g
 
 [▶ 9:33](https://www.youtube.com/watch?v=MXhIqO4MEds&t=573)
 
-Das agrarindustrielle Modell hat eine beunruhigende Kehrseite:
+Die Felder wandern, und wo sie hinwandern, stand vorher etwas anderes:
 
 - **Abholzung**: Im Amazonas, Cerrado und Gran Chaco ist Sojaanbau laut ARTE die **wichtigste Ursache für Waldvernichtung** *(für den Amazonas nicht haltbar, dort ist Weideland der Haupttreiber → [[#Faktencheck|Faktencheck]])*
 - In Brasilien: über 40% der seit 2000 neu gerodeten Flächen für Soja *(diese Zahl lässt sich nicht belegen)*
@@ -118,7 +133,7 @@ Das agrarindustrielle Modell hat eine beunruhigende Kehrseite:
 - Böden werden ausgelaugt, massive Chemikalienabhängigkeit
 - Saatgut kontrolliert von wenigen Konzernen wie Bayer und BASF (dazu Corteva und Syngenta); gehandelt wird die Bohne von ADM, Bunge, Cargill, Louis Dreyfus und COFCO
 
-Wenige multinationale Agrarkonzerne bestimmen das globale Ernährungssystem von unten — vom Saatgut aufwärts.
+So bestimmen wenige Konzerne, was die Welt isst, vom Saatkorn an aufwärts.
 
 > [!question] Weitergedacht
 > Wenn Soja den Wald oft nicht selbst rodet, sondern die Weide dorthin verdrängt — *wem rechnen wir eine Rodung zu: dem Rind, der Bohne oder dem Teller in Europa?*
@@ -129,12 +144,12 @@ Wenige multinationale Agrarkonzerne bestimmen das globale Ernährungssystem von 
 
 [▶ 10:19](https://www.youtube.com/watch?v=MXhIqO4MEds&t=619)
 
-Ab **2026** müssen EU-Importfirmen beweisen, dass ihre Sojaprodukte nicht zur Waldvernichtung beigetragen haben. Das Freihandelsabkommen EU–Mercosur wird kontrovers diskutiert:
+Ab **2026** müssen Firmen, die Soja in die EU bringen, nachweisen, dass dafür kein Wald gefallen ist. Über das Freihandelsabkommen mit dem Mercosur wird gestritten:
 
 - **Gegner**: Intensivanbau in Brasilien/Argentinien überflutet EU-Märkte
 - **Befürworter**: EU-Umweltstandards gelten dann auch für Mercosur-Länder, Schutzmechanismen und Quoten sind vorgesehen
 
-China sichert seine südamerikanischen Lieferketten parallel ab — über Investitionen in Häfen und strategische Abkommen im Rahmen der neuen Seidenstraßen.
+China sichert sich derweil seine Lieferanten: Es baut in Südamerika Häfen und verlängert seine neuen Seidenstraßen bis nach Lateinamerika.
 
 ---
 

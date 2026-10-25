@@ -57,6 +57,7 @@ Steht in der säkular-nationalen, PLO-nahen Tradition palästinensischer Politik
 - **[[DenkerVita/Sari Nusseibeh|Sari Nusseibeh]]** — dieselbe Enttäuschung, entgegengesetzter Schluss: Abu Eid fordert äußeren Druck, Nusseibeh hält ihn für nachrangig
 - **[[DenkerVita/Dror Etkes|Dror Etkes]]** — richtet unabhängig von ihm denselben Auftrag an dasselbe deutsche Publikum
 - **[[DenkerVita/Adam Johnson|Adam Johnson]]** — die medienkritische Entsprechung seiner These vom organisierten Wegsehen
+- **[[DenkerVita/Alexander Schwarz|Alexander Schwarz]]** — die juristische Entsprechung zu „Es fehlt am Willen“: Straflosigkeit liegt für den ECCHR-Juristen weniger an fehlenden Beweisen als an ihrer fehlenden Nutzung
 
 ## Gedankenwelten-Notes
 

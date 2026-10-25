@@ -63,6 +63,30 @@ Wir ordnen ihn einer Völkerrechtspraxis zu, die das Recht gegen staatliche Real
 
 ## Verbindungen zu anderen Denkern
 
+### → [[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]
+
+Kaleck hat 2007 das ECCHR gegründet, an dem Schwarz heute den Bereich zu Völkerstraftaten mitleitet. Was Kaleck 2012 in *Mit zweierlei Maß* über den Westen und das Völkerstrafrecht schrieb, prüft Schwarz an einer deutschen Behörde: Zur Ukraine ermittelte die Bundesanwaltschaft binnen Wochen, zu Gaza führt sie nur einen Beobachtungsvorgang. Auch die Formel teilen sie, von Schwarz' nd-Beitrag „Die Stärke des Rechts“ (2024) bis zu Kalecks Buch *Die Stärke des Rechts vs. Das Recht des Stärkeren* (2026), und Kaleck kennt die Abweisung aus eigener Erfahrung: Seine Anzeige gegen Rumsfeld wegen Abu Ghraib lehnte der Generalbundesanwalt ab.
+
+### → [[DenkerVita/Frederik Obermaier|Frederik Obermaier]]
+
+Sein Ko-Referent auf der re:publica 26, und ihre Arbeitsteilung ist der Vortrag selbst. Obermaier und seine Kollegen von paper trail media folgen dem Tweet, verorten die Videos und lassen das Geständnis vom Fraunhofer-Institut auf Manipulation prüfen; Schwarz ordnet ein, wann daraus ein Anfangsverdacht wird, und benennt die Stelle, an der die meisten Verfahren scheitern, die Verbindung von Tat und Täter. Am Ende verlangen beide denselben Maßstab wie bei Foltergenerälen aus Syrien, Obermaier mit einem Appell an die Redaktionen, Schwarz an Bürger, die unter Angabe des Aktenzeichens bei der Bundesanwaltschaft nachfragen.
+
+### → [[DenkerVita/Christoph Safferling|Christoph Safferling]]
+
+Beide tragen die Gaza-Frage nach Berlin, aber an verschiedene Stellen des Rechts. Safferling setzt bei der Pflicht an, Völkermord zu verhindern, hält eine Beihilfe-Haftung deutscher Minister wegen der Vorsatzschwelle aber für schwer erreichbar; Schwarz und Alina Pucko messen die Exportgenehmigungen seit Oktober 2023 am Rüstungsexportrecht als vorbeugendem Recht, also an einer Pflicht des Staates statt an der Schuld Einzelner. Safferlings Erwartung, der Generalbundesanwalt werde die deutsche Mitverantwortung „früher oder später“ prüfen, steht neben Schwarz' Befund, dass dieselbe Behörde eine 130-seitige Strafanzeige bislang nur beobachtet.
+
+### → [[DenkerVita/Kai Ambos|Kai Ambos]]
+
+„Die Regel gilt für alle oder für niemanden“, sagt Ambos, „There must be no double standards“, steht in Schwarz' Pressemitteilung zur Gaza-Anzeige. Ambos misst in *Doppelmoral* (2022) den Westen an Irak und Kosovo, Schwarz die Bundesanwaltschaft an Ukraine und Gaza, und beide verteidigen den Internationalen Strafgerichtshof gerade dort, wo er unter Druck steht (Schwarz' IPG-Essay „Gegenhalten“ gegen die US-Sanktionen). Ambos legt Wert darauf, die Rechtslage von der politischen Bewertung zu trennen; Schwarz leitet aus ihr direkt Forderungen an die Regierung ab, die Haftbefehle zu vollstrecken und die Waffenlieferungen an Israel einzustellen.
+
+### → [[DenkerVita/Ronen Steinke|Ronen Steinke]]
+
+Steinke hat über die politische Funktion von Kriegsverbrechertribunalen promoviert und fand hinter menschenrechtlicher Rhetorik oft Machtinteressen. Schwarz' Frage, ob das Weltrechtsprinzip dort endet, „wo es politisch heikel wird“, stellt diese These an einen Fall von heute. Steinkes Kompass ist Fritz Bauer, der die Gesellschaft zum Hinsehen zwang; Schwarz setzt auf dasselbe, wenn er das Publikum bittet, Abgeordnete anzuschreiben und bei der Bundesanwaltschaft nachzufragen.
+
+### → [[DenkerVita/Xavier Abu Eid|Xavier Abu Eid]]
+
+„Es fehlt nicht an Werkzeugen, es fehlt am Willen“: Abu Eids Satz ist Schwarz' Kernthese, gesprochen aus palästinensischer Erfahrung. Beide verlangen, die Haftbefehle aus Den Haag gegen beide Seiten durchzusetzen (Schwarz' nd-Beitrag nennt Netanjahu, Gallant und Deif), und beide sehen Deutschland an der entscheidenden Stelle: Abu Eid als Nadelöhr, das gemeinsames Handeln der EU blockiert, Schwarz in den Rüstungsexporten, die er für völkerrechtswidrig hält.
+
 ## Gedankenwelten-Notes
 - [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]
 - [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]] — als Stimme zu Straflosigkeit und zur Bundesanwaltschaft

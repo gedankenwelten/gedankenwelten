@@ -94,6 +94,7 @@ Liberal-rechtsstaatlich, universalistisch und institutionenfreundlich; er argume
 - **[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Arendt beschrieb, wie Eichmann aufhörte zu denken; Safferling eine Nachkriegsjustiz, die genau solche Funktionierenden wieder einstellte. Was sie philosophisch fasste, hat Nürnberg zum Rechtssatz gemacht.
 - **[[DenkerVita/Helen Keller|Helen Keller]]** — Zwei Juristen der Institutionen gegen den Fatalismus; Keller argumentiert mit dem Nutzen des Völkerrechts für die Staaten, Safferling mit dem Preis von 1945.
 - **[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — „Die Welt war nie in Ordnung“: Safferling teilt Kalecks Diagnose der Selektivität, hält aber eine Beihilfe-Haftung deutscher Minister wegen der Vorsatzschwelle für schwer erreichbar.
+- **[[DenkerVita/Alexander Schwarz|Alexander Schwarz]]** — Schwarz misst die deutschen Rüstungsexporte nach Israel am Rüstungsexportrecht als vorbeugendem Recht statt an der Schuld Einzelner. Safferlings Erwartung, der Generalbundesanwalt werde die deutsche Mitverantwortung früher oder später prüfen, steht neben Schwarz' Befund, dass die Behörde eine Gaza-Strafanzeige bislang nur beobachtet.
 
 ### → [[DenkerVita/Jörn Leonhard|Jörn Leonhard]]
 
