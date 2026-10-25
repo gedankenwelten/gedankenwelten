@@ -25,8 +25,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 38,
-   "aufrufe": 52
+   "leser": 37,
+   "aufrufe": 51
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -289,17 +289,17 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/DenkerVita/Damir-Skenderovic",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
    "pfad": "/DenkerVita/Mats-Schoenauer",
    "leser": 4,
    "aufrufe": 4
   },
   {
    "pfad": "/DenkerVita/Maurice-Hoefgen",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Gedanken/Der-Stein-in-der-Luft-was-wir-werfen,-faellt-zurueck",
    "leser": 4,
    "aufrufe": 4
   }
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 96,
-     "aufrufe": 116
+     "leser": 94,
+     "aufrufe": 114
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -635,8 +635,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 38,
-     "aufrufe": 52
+     "leser": 37,
+     "aufrufe": 51
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -899,17 +899,17 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Mats-Schoenauer",
      "leser": 4,
      "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Maurice-Hoefgen",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Gedanken/Der-Stein-in-der-Luft-was-wir-werfen,-faellt-zurueck",
      "leser": 4,
      "aufrufe": 4
     }
@@ -1559,12 +1559,12 @@
      "aufrufe": 19
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 14,
-     "aufrufe": 14
+     "pfad": "/DenkerVita/Valentina-Chiofalo",
+     "leser": 13,
+     "aufrufe": 13
     },
     {
-     "pfad": "/DenkerVita/Valentina-Chiofalo",
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 13,
      "aufrufe": 13
     },

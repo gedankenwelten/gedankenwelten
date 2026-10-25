@@ -70,6 +70,20 @@ Die Gedankenwelten (luc)
 
 > → *7 weitere in* [[Panorama]]
 
+### Gedanken
+
+> **25.10.** — [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
+>
+> Wer die Begriffe prägt, prägt das Denken, sagt die Formel. Ein Wort allein bewegt wenig. Was trägt, ist eine Haltung: das Fragen als Verb, nie als Etikett.
+
+> **22.10.** — [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
+>
+> Verstehen ist nicht entschuldigen. Wo Macht verroht, greifen drei Kräfte ineinander: eine Kindheit, die Härte lehrt, Systeme, die sie belohnen, und Macht, die sie verstärkt.
+
+> **17.10.** — [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
+>
+> Wenn wir über die Zukunft sprechen, beschreiben wir oft uns selbst. Eine Prophezeiung ist ein Selbstporträt, in die Zukunft gehängt — und wer sich über seine Haltung definiert, verteidigt mit ihr sich selbst.
+
 ### Denker
 
 > **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
@@ -89,20 +103,6 @@ Die Gedankenwelten (luc)
 > **22.10.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
 >
 > Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
-
-### Gedanken
-
-> **22.10.** — [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
->
-> Verstehen ist nicht entschuldigen. Wo Macht verroht, greifen drei Kräfte ineinander: eine Kindheit, die Härte lehrt, Systeme, die sie belohnen, und Macht, die sie verstärkt.
-
-> **17.10.** — [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
->
-> Wenn wir über die Zukunft sprechen, beschreiben wir oft uns selbst. Eine Prophezeiung ist ein Selbstporträt, in die Zukunft gehängt — und wer sich über seine Haltung definiert, verteidigt mit ihr sich selbst.
-
-> **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
->
-> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
 
 ### Geistesblitz
 
