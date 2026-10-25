@@ -22,6 +22,16 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **25.10.** — [[Geistesblitz/André Zimpel — Neurodiversität|André Zimpel — Neurodiversität]]
+
+> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
+>
+> Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
+
+> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
+
 ### Zeitgeist
 
 > **24.10.** — [[Zeitgeist/Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
@@ -103,18 +113,6 @@ Die Gedankenwelten (luc)
 > **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
 >
 > Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
-
-### Geistesblitz
-
-> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
->
-> Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
-
-> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
-
-> **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
->
-> Eine Ziffer von eins bis sechs entscheidet über Studienplätze und Selbstbilder. Ein Schulrat will sie abschaffen, ein Verbandspräsident gerechter machen, und beide sind sich in der Diagnose näher, als sie zugeben.
 
 ### GoodNews
 

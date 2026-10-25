@@ -3349,12 +3349,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 ---
 
-## Andreas Zimpel
+## André Zimpel
 
 | | |
 |---|---|
-| **Vortrag** | [Neurodiversität — Vortrag Andreas Zimpel](https://www.youtube.com/watch?v=XkbjEvkuKvM) |
-| **Notiz** | [[Geistesblitz/Andreas Zimpel — Neurodiversität]] |
+| **Vortrag** | [Neurodiversität – anders, aber völlig richtig im Kopf](https://www.youtube.com/watch?v=XkbjEvkuKvM) — André Frank Zimpel, Universität Hamburg |
+| **Notiz** | [[Geistesblitz/André Zimpel — Neurodiversität]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Neurodiversitaet_Transkript.txt` |
 
 ---

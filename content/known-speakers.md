@@ -254,8 +254,8 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Andreas Kemper
 **Status:** Stub
 
-## Andreas Zimpel
-**Status:** Stub
+## André Zimpel
+**Status:** ✓ Vollanalyse → [[DenkerVita/André Zimpel]]
 
 ## Arne Semsrott
 **Status:** ✓ Vollanalyse → [[DenkerVita/Arne Semsrott]]

@@ -226,7 +226,7 @@ In der Sternstunde mit Anderl wird Rosas Filterkaffee eingespielt, als Beispiel 
 
 Das Loosh-Narrativ adressiert echte Resonanzsehnsucht (Verbindung, Bedeutung, Transzendenz) und bietet eine paranoid überformte Antwort darauf. Wer keine Resonanz mehr findet, wird anfällig für geschlossene Sinnsysteme, die Resonanz simulieren — durch kollektive Erwählung, kosmische Mission, Feindbilder.
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Rosas Mediopassiv (*„es hat mich berührt"*) und Zimpels Bild-Denken beschreiben denselben Prozess: Wissen entsteht nicht durch Anstrengung, sondern durch Öffnung. Resonanz lässt sich nicht erzwingen — genauso wenig wie ein Bild-Denker durch Sprachlehre zum Begreifen gezwungen werden kann. Rosa beschreibt den Verlust echter Weltbeziehung durch Beschleunigung; Zimpel beschreibt, wie das Schulsystem diese Offenheit durch standardisierten Leistungsdruck verdrängt. Beide kritisieren denselben Kontrollimpuls aus verschiedenen Richtungen.
 

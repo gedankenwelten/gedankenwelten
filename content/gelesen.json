@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 864,
-   "aufrufe": 1029
+   "aufrufe": 1030
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -31,7 +31,7 @@
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
    "leser": 37,
-   "aufrufe": 43
+   "aufrufe": 44
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -310,13 +310,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 101,
-     "aufrufe": 134
+     "leser": 99,
+     "aufrufe": 122
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 20,
-     "aufrufe": 25
+     "aufrufe": 26
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -381,7 +381,7 @@
     {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 3,
-     "aufrufe": 6
+     "aufrufe": 5
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 864,
-     "aufrufe": 1029
+     "aufrufe": 1030
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -641,7 +641,7 @@
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 37,
-     "aufrufe": 43
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 927,
-     "aufrufe": 1113
+     "aufrufe": 1114
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -956,7 +956,7 @@
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 37,
-     "aufrufe": 43
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 927,
-     "aufrufe": 1113
+     "aufrufe": 1114
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1261,7 +1261,7 @@
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 37,
-     "aufrufe": 43
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -1789,11 +1789,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Isabell-Lorey",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Martyna-Linartas",
      "leser": 2,
      "aufrufe": 2
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/DenkerVita/Sven-Beckert",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
      "leser": 2,
      "aufrufe": 2
     }

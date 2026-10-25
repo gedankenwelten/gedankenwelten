@@ -292,7 +292,7 @@ Das Gespräch hängt im wachsenden Panorama an zwei Fragen, „Braucht Lernen ei
 
 Meidingers schlimmste Erinnerung, Lehrer, die die Arbeiten mit der schlechtesten zuerst zurückgaben, ist Beschämung in Marks' Sinn, und Marks' Satz „Traditionell ist Schule in Deutschland Beschämung“ gibt ihr den Rahmen. Seine Formel „Scham zumuten, ohne zu beschämen“ trifft genau die Stelle, an der Nölte zugibt, dass Lerndialoge beim Misserfolg schwach sind, und an der Meidinger verlangt, dass Schüler ihn präsentiert bekommen. Mitgeteilt werden muss der Misserfolg in beiden Fällen; entscheidend ist das Gefäß, in das er fällt.
 
-### → [[Geistesblitz/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
+### → [[Geistesblitz/André Zimpel — Neurodiversität|André Zimpel — Neurodiversität]]
 
 Nöltes „fatale“ Glockenkurve, nach der es gute Noten nur gibt, weil es schlechte gibt, hat bei Zimpel ihr mathematisches Gegenstück: Die Normalverteilung erzeugt die Illusion homogener Gruppen und sagt über die Ähnlichkeit von Menschen nichts. Zimpels stärkster Bildungsfaktor, die Selbsteinschätzung, ist das Ziel von Nöltes Lerndialogen; Meidingers Einwand der „versteckten Fremdeinschätzung“ fragt beide, woher das Kind den Maßstab für sein Selbstbild nimmt.
 

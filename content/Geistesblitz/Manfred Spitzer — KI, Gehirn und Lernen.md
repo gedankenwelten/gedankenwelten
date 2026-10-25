@@ -229,7 +229,7 @@ Fromm: *„Die Kranken sind die Gesündesten."* Das System macht krank — und n
 
 Mausfeld: Die Tabakindustrie als Modell für industrielle Meinungsmanipulation. Spitzer benennt exakt denselben Mechanismus für die Digitallobby. Die reichsten Firmen der Welt verteidigen ihr Geschäftsmodell — auf Kosten der Gehirne unserer Kinder.
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Beide betonen: Schule und Bildungssystem sind nicht für alle Gehirne gebaut — und produzieren systematisch Potenzialverlust. Zimpel über Bild-Denker, Spitzer über Kinder ohne Vorstellungskraft weil nie vorgelesen.
 

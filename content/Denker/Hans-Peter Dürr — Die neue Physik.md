@@ -240,7 +240,7 @@ Fromm: Das Haben-Denken ist das Denken des Toten — man will Substanz festhalte
 
 Spitzer: KI ist kein Algorithmus — sie ist ein neuronales Netzwerk. Wir wissen nicht warum sie tut was sie tut, genauso wie wir nicht wissen wie das Gehirn denkt. Dürr: Wir können den Menschen so degradieren, dass er wie ein Computer wirkt — aber dann ist er kein Mensch mehr. Beide warnen vor der Verwechslung von Mensch und Maschine — und beide sehen die Gefahr von innen heraus: durch Entwöhnung vom Lebendigen.
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Zimpels Kritik an Schule als Selektionsmaschine für einen Denktyp. Dürrs Kritik an Schule als Datenspeicher. Beide plädieren für lebendiges Lernen — das den ganzen Menschen einschließt, nicht nur das sequentielle Sprachdenken.
 

@@ -20,4 +20,5 @@ verhindern, dass dieselbe Note zweimal kommt.
 
 ## Die Wahl
 
+- 2026-10-25 · [[Raul Krauthausen — Teilgabe statt Teilhabe]] — Vor einer Woche stand hier Simone Weils Aufmerksamkeit, die nichts für sich will. Raúl Krauthausen stellt die unbequeme Frage daneben, wer eigentlich großzügig sein darf, denn wer schenkt, kann auch zurücknehmen.
 - 2026-10-19 · [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]] — Diese Woche ging es bei uns viel um Verrohung. Simone Weil hat früher als die meisten gesehen, wie Gewalt einen Menschen in ein Ding verwandelt, und sie setzt dagegen etwas sehr Kleines: eine Aufmerksamkeit, die nichts für sich will.

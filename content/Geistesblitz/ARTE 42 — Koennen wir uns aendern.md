@@ -190,7 +190,7 @@ Hüther, Neurobiologe, liefert das Fundament der Veränderbarkeit: Neuroplastizi
 
 Moukheiber dekonstruiert das Selbst als Konstruktion des Gehirns — und trifft damit den wunden Punkt der Doku: Wenn „Persönlichkeit nur ein Konstrukt" ist, das viele Hirnprozesse bündelt, *wer* will sich dann eigentlich ändern? Beide misstrauen dem monokausalen Alltagsdenken über das Ich. Moukheibers Vorhersagegehirn erklärt, warum Selbstbilder so stabil sind — das psychologische Pendant zum „Gummiband".
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Das Plädoyer am Ende der Doku — die Gesellschaft *braucht* Vielfalt, jede Eigenschaft hat ihren Wert — ist Zimpels Anliegen in Reinform. Zimpel zeigt mathematisch, dass die Normalverteilung die Illusion homogener Typen erzeugt; die Big Five sind genau so eine Vermessung von Differenz. Spannung: Wo die Persönlichkeitspsychologie Menschen auf fünf Achsen verortet, warnt Zimpel davor, Differenz als Defizit zu codieren.
 

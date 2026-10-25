@@ -327,7 +327,7 @@ Alys historische Analyse der NS-Zustimmung ergänzt Fromms Theorie der kollektiv
 
 Haidts Moral Foundations Theory beschreibt die psychologischen Kanäle (Loyalität, Autorität, Reinheit), über die Stammeslogik wirkt. Fromms Analyse des autoritären Charakters erklärt, *warum* manche Menschen diese Kanäle nicht selbst regulieren können: ihnen fehlt die innere Bezogenheit, die Eigenständigkeit ermöglicht. Haidt zeigt die Mechanik, Fromm zeigt die Charakterstruktur dahinter.
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Fromm: Selbsteinschätzung als ehrlicher Blick auf das eigene Leben — statt der Maske des Zufriedenseins. Zimpel: Selbsteinschätzung ist der stärkste Faktor für Bildungserfolg. Beide betonen, dass das, was von innen kommt, echter ist als externe Bewertung — und beide diagnostizieren, dass das System diese innere Wahrheit unterdrückt: Fromm durch den Marktcharakter, Zimpel durch das Schulsystem.
 

@@ -258,7 +258,7 @@ Flassbeck: Menschen verstehen wirtschaftliche Kausalität nicht, obwohl sie einf
 
 Goenka: Die tiefste Quelle des Leidens ist das Reagieren aus Konditionierung — ohne innezuhalten. Carbon: Wahrnehmung ist immer vorgebahnt, immer konstruiert aus früheren Modellen. Beide beschreiben denselben Mechanismus: das Muster läuft automatisch. Vipassana trainiert die Fähigkeit, das Muster zu beobachten, bevor es zur Handlung wird. Carbon würde sagen: Indem du das Modell kennst, kannst du es auch verändern.
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Carbon erwähnt am Ende seine eigene KI-Company (PSYAIhands.com) für neurodivergente Menschen — er schätzt, über eine Milliarde Menschen weltweit seien betroffen. Zimpel: Neurodiversität als Stärke und Ressource. Carbon: „Wahrscheinlich ticken wir alle ein bisschen anders." Beide gegen das Defizitmodell — für ein Verständnis von Vielfalt als Reichtum.
 

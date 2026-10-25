@@ -253,7 +253,7 @@ Spitzer: Bildschirmzeit zerstört Empathie, weil man echte Gesichter braucht um 
 
 Die Bhagavad Gita taucht hier als "rechte Handlung" auf: handeln unabhängig von Belohnung, weil man erkennt dass es richtig ist. Das ist der Kern von Goenkas Praxis — handeln ohne Anhaftung an die Früchte der Handlung. Was die Gita lehrt und was der Korrumpierungseffekt empirisch zeigt, sind dasselbe: Intrinsische Motivation stirbt, wenn sie mit Belohnung kontaminiert wird.
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Zimpels IQ-Kritik: Tests messen möglicherweise soziale Anpassung, nicht Intelligenz. Dieser Vortrag: Was als "ökonomische Intelligenz" gilt (Gier, Geiz, strategischer Egoismus), ist sozial erlerntes Verhalten — nicht Ausdruck von Stärke. Beide dekonstruieren die Bewertungsmaßstäbe des Systems.
 

@@ -272,7 +272,7 @@ Rosa: Resonanz entsteht, wenn man sich öffnet — man kann sie nicht erzwingen,
 
 Mausfeld: Macht braucht Fragmentierung und Abhängigkeit. Dürr: Solarenergie ist dezentral — deshalb politisch unbequem. Thoma: Holzbauen ist dezentral, regional, ohne Konzernlogik. Das Zuckerprinzip — Wissen teilen statt schützen — ist das direkte Gegenteil von Machtkonzentration.
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Zimpels Kritik an Schule als Datenspeicher. Thoma's Großvater: *„Lernen kann man nur, was man tut.\"* Zimpels Bild-Denker lernen durch Anschauung und Tun — nicht durch Lehrplan. Thoma lernte alles was er weiß durch jahrelanges Alleinsein im Wald, durch Beobachten, durch Scheitern.
 

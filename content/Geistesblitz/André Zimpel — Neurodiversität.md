@@ -1,5 +1,5 @@
 ---
-title: Andreas Zimpel — Neurodiversität
+title: André Zimpel — Neurodiversität
 date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:
@@ -16,9 +16,10 @@ aliases:
   - Zimpel
   - Neurodiversität
   - "Denker/Andreas Zimpel — Neurodiversität"
+  - "Andreas Zimpel — Neurodiversität"
 ---
 
-# Andreas Zimpel — Neurodiversität
+# André Zimpel — Neurodiversität
 
 ![[assets/Andreas-Zimpel-Neurodiversitaet-banner.jpg|1200]]
 
@@ -30,10 +31,10 @@ aliases:
 
 </details>
 
-Quelle: [Neurodiversität — Vortrag Andreas Zimpel](https://www.youtube.com/watch?v=XkbjEvkuKvM)
+Quelle: [Neurodiversität – anders, aber völlig richtig im Kopf](https://www.youtube.com/watch?v=XkbjEvkuKvM) — Vortrag von André Frank Zimpel, Reihe „Vorlesung für alle“, Universität Hamburg
 
 > [!info] Wer spricht?
-> **Andreas Zimpel** — Professor für Pädagogik bei Beeinträchtigungen der geistigen Entwicklung an der Universität Hamburg (Fakultät für Erziehungswissenschaft). Er leitet die Arbeitsgruppe „Pädagogik bei geistiger Behinderung" sowie das Zentrum für Neurodiversitätsforschung in Hamburg-Eppendorf — ein freier Träger der Jugendhilfe auf dem UKE-Gelände, der nicht zur Universität gehört und sich aus eigener Forschungsarbeit finanziert.
+> **André Frank Zimpel** — Professor für Pädagogik bei Beeinträchtigungen der geistigen Entwicklung an der Universität Hamburg (Fakultät für Erziehungswissenschaft). Er leitet die Arbeitsgruppe „Pädagogik bei geistiger Behinderung" sowie das Zentrum für Neurodiversitätsforschung in Hamburg-Eppendorf — ein freier Träger der Jugendhilfe auf dem UKE-Gelände, der nicht zur Universität gehört und sich aus eigener Forschungsarbeit finanziert.
 >
 > Zimpel kommt aus einer Orgelbauerfamilie — sein Name leitet sich von *Zimbal* (= ital. *Cembalo*, eine Klanginstrumentenfamilie) ab, was er selbst schmunzelnd im Vortrag erklärt. Seine akademische Reise begann in der Förderschule: Während seiner Dissertation über geometrische Wahrnehmung von Kindern mit Lernschwächen begegnete er einem Schüler, der 60 durch 4 dividierte, indem er sich 60 als 6 Männer mit 10 Fingern vorstellte — und der damit eine mathematische Hochbegabung offenbarte, die das Schulsystem systematisch übersehen hatte. Dieser Schüler hat ihn nie verlassen. Aus dieser Begegnung wuchs sein gesamtes Forschungsprogramm.
 >

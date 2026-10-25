@@ -156,7 +156,7 @@ auticon beschäftigt weltweit 440 autistische Mitarbeiter:innen. Coach Christian
 
 ## Verbindungen
 
-### → [[Andreas Zimpel — Neurodiversität]]
+### → [[André Zimpel — Neurodiversität]]
 
 Zimpels Vorlesung liefert den theoretischen Unterbau: Bilddenken vs. Sprachdenken, Chunking, Aufmerksamkeitssysteme. Die ARTE-Reportage zeigt dieselben Konzepte in der gelebten Praxis
 

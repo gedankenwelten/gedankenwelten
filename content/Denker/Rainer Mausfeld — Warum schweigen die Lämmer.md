@@ -368,7 +368,7 @@ Und die Leser? In der Mainzer Langzeitstudie vertrauten Ende 2024 47 Prozent der
 - [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Mausfelds unsichtbare Machttechniken konkretisieren Foucaults Gouvernementalität: Die „Lämmer" sind die erfolgreich regierten Subjekte
 - [[Martyna Linartas — Unverdiente Ungleichheit]] — Die „Leistungsgesellschaft"-Erzählung als neoliberales Narrativ, das Vermögenskonzentration legitimiert — Mausfelds Bewusstseinsbewirtschaftung am empirischen Beispiel
 - [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]] — Baberowskis Kritik der liberalen Demokratie als Fassade trifft auf Mausfelds Elitendemokratie-Analyse
-- [[Andreas Zimpel — Neurodiversität]] — Zimpel beweist mathematisch, was Mausfeld politisch diagnostiziert: Die Kategorien, mit denen Herrschaft arbeitet, sind ontologisch nicht haltbar
+- [[André Zimpel — Neurodiversität]] — Zimpel beweist mathematisch, was Mausfeld politisch diagnostiziert: Die Kategorien, mit denen Herrschaft arbeitet, sind ontologisch nicht haltbar
 - [[Torsten Heinrich — Was die Tagesschau verschweigt]] — Komplementäre Werkzeuge: Mausfeld analysiert die Strukturen, Heinrich lehrt die praktische Gegenwehr (Quellenkritik, Cross-Referencing)
 - [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redeckers „Phantombesitz" modernisiert Fromms Kleinbürgerthese, die auch Mausfeld unterlegt: ökonomische Ohnmacht → Sündenbocklogik
 - [[Ece Temelkuran — So beginnt Faschismus in Amerika]] — Temelkuran beschreibt Faschismus als erkennbare Eskalationsstufen; Mausfeld liefert die kognitionspsychologische Erklärung, warum Menschen aktiv mitmachen
