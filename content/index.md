@@ -22,17 +22,9 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Geistesblitz
-
-> **25.10.** — [[Geistesblitz/André Zimpel — Neurodiversität|André Zimpel — Neurodiversität]]
-
-> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
->
-> Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
-
-> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
-
 ### Zeitgeist
+
+> **25.10.** — [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
 
 > **24.10.** — [[Zeitgeist/Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]]
 >
@@ -50,11 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Kleine Felder retten mehr Arten als das Biosiegel, sagt einer der meistzitierten Ökologen der Welt. Warum es trotzdem kaum jemand tut, ist für ihn eine Frage der Wahl, nicht des Wissens.
 
-> **21.10.** — [[Zeitgeist/Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten?]]
->
-> Drei Stunden Autobahn, fast kein Insekt auf der Scheibe. Maria Furtwängler sucht die Ursache und findet sie auf dem Acker — bei Bauern, die selbst nicht mehr weiterwissen.
-
-> → *2 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
@@ -113,6 +101,18 @@ Die Gedankenwelten (luc)
 > **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
 >
 > Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
+
+### Geistesblitz
+
+> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
+>
+> Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
+
+> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
+
+> **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+>
+> Eine Ziffer von eins bis sechs entscheidet über Studienplätze und Selbstbilder. Ein Schulrat will sie abschaffen, ein Verbandspräsident gerechter machen, und beide sind sich in der Diagnose näher, als sie zugeben.
 
 ### GoodNews
 

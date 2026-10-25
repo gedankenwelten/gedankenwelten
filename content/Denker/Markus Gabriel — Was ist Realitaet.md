@@ -18,7 +18,7 @@ aliases:
 
 <details><summary>🎨</summary>
 
-**Katsushika Hokusai** — Ukiyo-e-Holzschnitt, Preußischblau mit warmen Akzenten, flache Farbflächen. Der eine Berg strahlt farbige Perspektiv-Fächer aus, und an jedem Strahl steht eine andere kleine Szene, die ihn sieht — Gabriels Vesuv-Beispiel wörtlich genommen: „Die Wirklichkeit strahlt Perspektiven ab." Hokusai malte den Fuji sechsunddreißigmal, weil jede Ansicht so real ist wie der Berg selbst.
+**Katsushika Hokusai** — Ukiyo-e-Holzschnitt, Preußischblau mit warmen Akzenten, flache Farbflächen. Der eine Berg strahlt farbige Perspektiv-Fächer aus, und an jedem Strahl steht eine andere kleine Szene, die ihn sieht — Gabriels Vesuv-Beispiel wörtlich genommen: „Der Vulkan strahlt Perspektiven ab." Hokusai malte den Fuji sechsunddreißigmal, weil jede Ansicht so real ist wie der Berg selbst.
 
 *Prompt:* Japanese ukiyo-e woodblock print in the style of Katsushika Hokusai's Thirty-six Views of Mount Fuji: a single majestic volcano with a thin plume of smoke rises at the center across a bay. From its slopes radiate wide fan-shaped beams of subtly different color — Prussian blue, soft rose, pale green, ochre — each beam reaching a different tiny scene at the water's edge: fishermen in a boat, a traveler on a cliff with a walking stick, a village rooftop with a figure on a balcony, pilgrims under a pine tree. Each group gazes at the same mountain from its own beam. Stylized woodgrain clouds, flat color planes, bold keyline contours, Prussian blue dominant palette with warm accents. Wide banner, no photorealism, no realistic faces.
 
@@ -41,7 +41,7 @@ Quelle: [Markus Gabriel: Was ist Realität? (phil.COLOGNE)](https://www.youtube.
 
 [▶ 8:24](https://www.youtube.com/watch?v=_foOQbcKmqI&t=504) — Gabriel verortet den Neuen Realismus als Zeitdiagnose: Um 2011/12 sei das „Zeitalter der Postmoderne" an ein Ende gekommen. Seitdem erleben wir eine Serie von „Wirklichkeitsschocks" — Pandemie, Kriege, Wahlergebnisse —, während die alten postmodernen Reflexe noch herrschen: der Eindruck, man könne an Realitäten vorbeispielen oder behaupten, es gäbe sie nicht.
 
-Am Beispiel der Europawahl 2024 illustriert er die Parallele zur Corona-Herbstwelle 2020: Erst die Immunisierungsfantasie („Deutschland ist immun"), dann der Schock. Die politische Klasse betreibe systematische „Realitätsleugnung" — von Saskia Esken bei Markus Lanz bis Anton Hofreiter, der den Unterschied zwischen Realität und Medienrezeption nicht mehr sortieren könne.
+Am Beispiel der Europawahl 2024 illustriert er die Parallele zur Corona-Herbstwelle 2020: Erst die Immunisierungsfantasie („Deutschland ist immun"), dann der Schock. Saskia Eskens Auftritt bei Markus Lanz nach der Wahl nennt er eine „unvorstellbare Realitätsbestreitung" — „man sieht, wohin Realitätsleugnung führt". Lanz' Sendung selbst hält er wegen ihres „Unsinnsausmaßes" für demokratiegefährdend. (Anton Hofreiter brachte Moderator Cai Werntgen ins Spiel, und zwar mit umgekehrtem Vorzeichen: Hofreiter habe bei Lanz den Unterschied zwischen der Realität und ihrer falschen Rezeption durch Journalisten vorgeführt, fast eine „philosophische Seminarprobe".)
 
 ### Drei Modelle der Wirklichkeit
 
@@ -61,7 +61,7 @@ Am Beispiel der Europawahl 2024 illustriert er die Parallele zur Corona-Herbstwe
 
 Und jetzt die wilde These: Stellen Sie sich vor, die Wirklichkeit strahlt nicht nur Elementarteilchen ab, sondern *Perspektiven*.
 
-> *„Die Wirklichkeit strahlt Perspektiven ab."*
+> *„Stellen Sie sich vor, der Vulkan strahlt Perspektiven ab, dann kommen Sie in die Nähe des Neuen Realismus."* [▶ 24:27](https://www.youtube.com/watch?v=_foOQbcKmqI&t=1467)
 
 Damit ist die klassische Subjekt-Objekt-Konfrontation aufgelöst. Kein Innenraum (Subjekt) muss einen Außenraum (Objekt) irgendwie „erreichen" — die Relation ist einfach real.
 
@@ -92,7 +92,7 @@ Die Zahl 7 existiert im Sinnfeld der natürlichen Zahlen (Nachfolger der 6, Vorg
 
 ### Referenz ohne Repräsentation: Das Fisch-Beispiel
 
-[▶ 41:12](https://www.youtube.com/watch?v=_foOQbcKmqI&t=2472) — Der Neue Realismus „macht sich kein Bild mehr von der Welt." Am Beispiel des Wortes „Fisch" zeigt Gabriel: Das Wort Fisch ist kein Bild von Fischen. Sprache ist kein Innenraum, der irgendwie nach „draußen" muss. Quines berühmtes Problem der „inscrutability of reference" — dass wir nie wissen können, ob Wörter bei verschiedenen Menschen dasselbe bedeuten — löst der Neue Realismus schlicht: Was heißt Fisch? Sowas, sowas, sowas. Zeigen, lernen, verstehen.
+[▶ 41:12](https://www.youtube.com/watch?v=_foOQbcKmqI&t=2472) — Der Neue Realismus „macht sich kein Bild mehr von der Welt." Am Beispiel des Wortes „Fisch" zeigt Gabriel: Das Wort Fisch ist kein Bild von Fischen. Sprache ist kein Innenraum, der irgendwie nach „draußen" muss. Quines berühmtes Problem der „inscrutability of reference" — dass sich aus allem beobachtbaren Verhalten nie eindeutig ablesen lässt, worauf sich ein Wort bezieht — löst der Neue Realismus schlicht: Was heißt Fisch? Sowas, sowas, sowas. Zeigen, lernen, verstehen.
 
 [▶ 44:16](https://www.youtube.com/watch?v=_foOQbcKmqI&t=2656) — Am japanischen Wort *sakana* demonstriert Gabriel den Spracherwerb: Auf einen Fisch zeigen, das Wort hören, verstehen. Das ist kein Mysterium — es sei denn, man glaubt wie Quine, Wörter bedeuteten neuronale Ereignisse.
 

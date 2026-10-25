@@ -19,6 +19,8 @@ Zahlen, Studien und historische Angaben gleichen wir mit der Quelle ab. Studien 
 
 Die Notes geben die Positionen der Sprecherinnen und Sprecher wieder. Die Einordnungen sind unsere und als solche erkennbar.
 
+Eine Grenze dabei: Die Untertitel der Videos, aus denen wir arbeiten, sagen nicht, wer gerade spricht. In Gesprächen mit mehreren Stimmen ordnen wir die Sätze aus dem Zusammenhang zu, und dabei kann ein Satz der Moderation beim Gast landen oder umgekehrt. Die meisten Notes führen mit einer Zeitmarke zur Stelle im Video, dort lässt es sich nachhören.
+
 ## Fehler passieren
 
 Bei den Sprechern und bei uns. Wenn du einen findest: *Anfassen erlaubt* unter jeder Note, *Feedback* in der Fußzeile oder eine Mail an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org). Wir korrigieren schnell und offen.

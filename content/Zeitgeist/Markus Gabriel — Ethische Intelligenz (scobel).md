@@ -1,6 +1,6 @@
 ---
 title: "Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht"
-aktualisiert: 2026-04-30
+aktualisiert: 2026-10-25
 date: 2026-04-30
 tags:
   - zeitgeist
@@ -35,7 +35,7 @@ Das Gespräch anlässlich Gabriels neuem Buch *Ethische Intelligenz* markiert ei
 
 Gabriel beginnt bei den Grundlagen: Die **Church-Turing-These** (1930er) besagt, dass alles intuitiv Berechenbare durch eine Turing-Maschine simuliert werden kann. Das führte zunächst zur regelbasierten KI — und in die Sackgasse.
 
-Das **Problem des Regelfolgens** (Wittgenstein, der mit Turing in Cambridge 1936 darüber diskutierte): Unsere Welt lässt sich nicht in klare Regeln packen. Der „Hintergrund des Lebens" — Wittgensteins Lebensform, Blumenbergs Lebenswelt — löst das Kontextproblem für uns, aber keine regelbasierte KI konnte das.
+Das **Problem des Regelfolgens** (Wittgenstein, der darüber in Cambridge mit Turing stritt *(1939, nicht 1936 → [[#Faktencheck|Faktencheck]])*): Unsere Welt lässt sich nicht in klare Regeln packen. Der „Hintergrund des Lebens" — Wittgensteins Lebensform, Blumenbergs Lebenswelt — löst das Kontextproblem für uns, aber keine regelbasierte KI konnte das.
 
 Die Philosophie feierte: *Starke KI ist prinzipiell unmöglich.*
 
@@ -43,7 +43,7 @@ Die Philosophie feierte: *Starke KI ist prinzipiell unmöglich.*
 
 Zwei technische Durchbrüche lösten das Problem doch:
 
-1. **Backpropagation** (Hinton et al., 1986/Nobelpreis): Neuronale Netze, die Fehler rückwärts korrigieren können
+1. **Backpropagation** (Rumelhart, Hinton, Williams, 1986; Hinton erhielt 2024 den Physik-Nobelpreis für seine Arbeiten zu neuronalen Netzen): Neuronale Netze, die Fehler rückwärts korrigieren können
 2. **Self-Attention / Transformer** („Attention Is All You Need", Google, 2017): Die Architektur für Kontextverstehen
 
 Gabriels entscheidender Punkt: Die KI versteht Kontext *anders* als wir — und in manchen Dimensionen *besser*. Wenn man ihr Hegels Gesamtwerk als Datei gibt, „überfliegt" sie die Einheit auf einen Schlag, ohne lineares Lesen, ohne Erinnerungsarbeit. Das ist **Alien Intelligence** — ein „außerirdisches Denken".
@@ -62,7 +62,7 @@ Die KI ist kein passiver Spiegel, sondern ein **magischer Spiegel**: interaktiv,
 
 ## 4. Sinnesrealismus — Gedanken sind nicht verortet
 
-Gabriels philosophisch radikalste These: **Gedanken existieren objektiv** im „logischen Raum" (Wittgenstein) / „Reich der Ideen" (Platon) — aber sie sind *nicht woanders*. Der Fehler des Platonismus war die Verortung (hyper-oranius-topos). Der Fehler des Materialismus ist die Reduktion aufs Gehirn.
+Gabriels philosophisch radikalste These: **Gedanken existieren objektiv** im „logischen Raum" (Wittgenstein) / „Reich der Ideen" (Platon) — aber sie sind *nicht woanders*. Der Fehler des Platonismus war die Verortung (*hyperouranios topos*, der „überhimmlische Ort“). Der Fehler des Materialismus ist die Reduktion aufs Gehirn.
 
 Prämisse: Gedanken sind nicht identisch mit dem materiell-energetischen Substrat, bei dem sie auftauchen. Zwei Gehirne, die „der Kerl ist Markus Gabriel" denken, haben völlig verschiedene neuronale Strukturen aktiv. Der Gedanke ist derselbe, die Hardware ist verschieden.
 
@@ -91,7 +91,7 @@ Der Fehler: Technik als statisches Instrument denken, statt als Prozess, der sic
 
 Scobel bringt den aktuellen Anthropic-Konflikt mit dem Pentagon: Anthropic weigerte sich, seine Technologie für Massenüberwachung und autonome Waffensysteme ohne Human-in-the-Loop bereitzustellen.
 
-Gabriel zur **Constitutional AI** von Amanda Askell:
+Gabriel zu **Claudes Verfassung**, dem Text, mit dem Anthropic sein Modell erzieht (Hauptautorin: die Philosophin Amanda Askell):
 
 - Der Ansatz ist *grundsätzlich richtig* — „genau so macht man das"
 - Aber: Amanda Askell sieht nicht, **wie man moralische Tatsachen findet**
@@ -117,22 +117,36 @@ Gabriel gründete DeepIn als „Labor" für die Praxis ethischer KI. Ausgründun
 
 ---
 
+## Was seither geschah
+
+*Stand: 25.10.2026*
+
+Der Konflikt, den Scobel im März anspricht, ist seither eskaliert. Er wird in der Spur [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet]] fortgeschrieben, hier nur die Eckpunkte:
+
+- **Juni 2026:** Die US-Regierung lässt Anthropics neueste Modelle drei Tage nach dem Start vom Netz nehmen und begründet das mit nationaler Sicherheit. Am 30.06. hebt das Handelsministerium die Exportkontrollen wieder auf, seit 01.07. ist das Modell wieder weltweit verfügbar.
+- **28.08.2026:** Eine Bundesrichterin in San Francisco hebt die Einstufung Anthropics als „Lieferkettenrisiko“ durch das Pentagon auf und nennt sie Vergeltung für die Kritik des Unternehmens.
+- **25.09.2026:** Das Berufungsgericht in Washington bestätigt mit 2:1 eine zweite Einstufung durch das Pentagon ([CNBC](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)). Zwei Gerichte stehen damit gegeneinander.
+
+Gabriels Frage, wessen Moral in die Maschine gehört, ist damit auch eine Frage geworden, wer sie abschalten darf.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt
 > - Die Church-Turing-These und ihre Bedeutung für die KI-Geschichte sind korrekt dargestellt
 > - Wittgenstein und Turing diskutierten tatsächlich 1939 (nicht 1936 wie im Gespräch gesagt) in Cambridge über mathematische Grundlagen — Wittgensteins *Lectures on the Foundations of Mathematics*
-> - „Attention Is All You Need" (Vaswani et al., 2017) und Backpropagation (Rumelhart, Hinton, Williams, 1986) sind korrekt zugeordnet
-> - Anthropics Weigerung gegenüber dem Pentagon ist gut dokumentiert (2025)
-> - Amanda Askell ist tatsächlich die Philosophin hinter Claudes Constitutional AI
+> - „Attention Is All You Need" (Vaswani et al., 2017) und Backpropagation (Rumelhart, Hinton, Williams, 1986) sind korrekt zugeordnet. Den Nobelpreis erhielt Hinton 2024 für Physik, zusammen mit John Hopfield, für grundlegende Arbeiten zum maschinellen Lernen mit neuronalen Netzen; die Begründung nennt vor allem die Boltzmann-Maschine, nicht das Paper von 1986
+> - Anthropics Weigerung gegenüber dem Pentagon (keine Massenüberwachung, keine autonomen Waffen ohne Mensch in der Schleife) ist gut dokumentiert — Anfang 2026, wenige Wochen vor dem Gespräch → [[Adam Tooze — Pentagon vs. Anthropic]]
+> - Amanda Askell ist Hauptautorin von Claudes Verfassung, die Anthropic am 21.01.2026 veröffentlichte (zusammen mit Joe Carlsmith). Das ältere Verfahren *Constitutional AI* (2022) stammt von einem größeren Anthropic-Team. Quelle: [Lawfare, Scaling Laws: Claude's Constitution with Amanda Askell](https://www.lawfaremedia.org/article/scaling-laws--claude's-constitution--with-amanda-askell)
 
 > [!warning] Vereinfacht
 > - Die Darstellung, Descartes habe Kognition und Emotion nicht getrennt, ist philosophiehistorisch umstritten — Gabriel räumt das selbst ein und nennt es „nur eine historische Fußnote"
 > - „Die KI übertrifft uns im Kontextverstehen" — gilt für bestimmte Formen des Kontexts (Textkorpora), nicht für leiblich-situatives Verstehen
 > - Die Gleichsetzung der GPT-Mathematik mit einem „kausalen Modell des platonischen Ideenhimmels" ist philosophische Spekulation, nicht empirisch belegbar
 
-> [!danger] Fragwürdig
-> - „Die erste Universität wurde in Afrika gegründet" — ob die Universität al-Qarawīyīn in Fez (859 n. Chr.) eine „Universität" im modernen Sinne war, ist unter Historikern umstritten. Die älteste europäische Universität (Bologna, 1088) folgte einem anderen Organisationsmodell. *(Faktencheck: vereinfacht)*
+> [!warning] Vereinfacht — die erste Universität in Afrika
+> - „Die erste Universität wurde in Afrika gegründet" — ob die al-Qarawīyīn in Fès (859 n. Chr. als Moschee mit Lehrbetrieb gegründet) eine „Universität" im heutigen Sinne war, ist unter Historikern umstritten; Universitätsstatus erhielt sie erst 1963. Die älteste europäische Universität (Bologna, 1088) folgte einem anderen Organisationsmodell. Gabriel meint die größere Linie: dass die Philosophie der Antike nach Ägypten und Asien schaute.
 
 ---
 

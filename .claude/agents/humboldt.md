@@ -49,10 +49,10 @@ Prüfe ob eine Vollanalyse sinnvoll ist (Kontext: Wird die Person häufig im Vau
 
 ## Schritt 3 — Vollanalyse
 
-Limits: max. 3 × WebSearch, max. 2 × Defuddle/Jina
+Limits: max. 3 × WebSearch, max. 4 × Defuddle/Jina (die Primärquellen brauchen die Abrufe, → „Belege“ unten)
 
 1. **WebSearch** — Person + Werke (1–2 Calls)
-2. **Defuddle** — Wikipedia oder offizielle Website (`defuddle parse <url> --md`)
+2. **Defuddle** — Primärquellen: eigene Website, Institution/Lehrstuhl, Verlag, DNB-Katalog (`defuddle parse <url> --md`). Wikipedia nur als Wegweiser zu diesen Quellen.
 3. **WebSearch** — YouTube-Videos / Mediathek / Interviews (1 Call, z.B. `"<Name>" site:youtube.com OR site:ardmediathek.de OR site:zdf.de`)
 4. **Jina Reader** — nur wenn Defuddle scheitert: `curl -s "http://localhost:3033/<url>"`
 
@@ -139,6 +139,20 @@ Kompakte Stichpunkte, **max. 300 Wörter**:
 **Quellen** *(entfällt bei Vollanalyse-Treffer)*
 
 ## Regeln
+
+> [!important] Belege: Primärquelle oder gar nicht (seit 25.10.2026)
+> Das Fehler-Register zeigte 12× „Sekundärquelle“, fast alles aus einer Vita, die Wikipedia gefolgt war
+> (Krauthausen: veraltete Zeitform, falsche Reihenfolge, falsche Jahre, ein Projekt dem falschen Verein
+> zugeschrieben). Andreas, 25.10.2026: „kannst so eintragen“.
+> - **Jede Tatsache in der Biografie braucht eine Primärquelle:** eigene Website, Verlag, DNB, Institution
+>   (Hochschule, Verein, Behörde) oder seriöse Presse. Was nur bei Wikipedia steht, kommt **nicht** hinein
+>   — auch kein Tagesdatum, kein Sender, kein Jahr. Wikipedia zeigt, wo man nachschauen kann; sie ist nie der Beleg.
+> - **Gesundheit, Parteizugehörigkeit und Privates über lebende Menschen** nur mit Beleg, sonst gar nicht.
+>   Eine Einordnung (politisch, weltanschaulich) ist als unsere erkennbar („ordnen wir … zu“), nie als Tatsache.
+> - **Zitate** nur mit Ort: Wo hat er/sie das gesagt? Ein Satz aus der einen Quelle wird nicht in den
+>   Zusammenhang einer anderen gestellt.
+> - **Gegenwart prüfen:** „arbeitet bei“, „schreibt für“, „ist Mitglied“ nur, wenn eine aktuelle Quelle es trägt —
+>   sonst Vergangenheit oder weglassen.
 - Kein Fließtext im Briefing, nur Stichpunkte
 - Keine Rückfragen
 - Wenn nichts gefunden: kurz notieren was recherchiert / nicht gefunden wurde

@@ -83,7 +83,7 @@ Göpel verschärft die Analyse: Die Proteste bei den WTO-Konferenzen waren berec
 
 Aber: Kostenlos gibt es auch in China nichts. Sri Lanka konnte seine Schulden nicht begleichen — der Containerhafen Hambantota ging an die Chinesen. Pakistan und afrikanische Staaten machten ähnliche Erfahrungen. Und die Infrastrukturprojekte dienten oft einem zweiten Zweck: Militarisierung. Häfen in Burma, Sri Lanka, Pakistan — vorgesehen für Handel, genutzt für Marinestützpunkte.
 
-[▶ 19:52](https://www.youtube.com/watch?v=fTgbkpywf8c&t=1192) Die Pointe: Genau diese Enttäuschung öffnet Europa eine Tür. Vor zehn Jahren hörte Hein in Schwellenländern überall: „Europa — Schwatzbude in Brüssel. Aus Peking kommt direkte Hilfe." Das hat sich geändert.
+[▶ 19:52](https://www.youtube.com/watch?v=fTgbkpywf8c&t=1192) Die Pointe: Genau diese Enttäuschung öffnet Europa eine Tür. Vor zehn Jahren hörte Hein in Schwellenländern überall: „Europa Schwatzbude in Brüssel, machen irgendwelche Zusagen, halten sie nicht ein. […] Aus Peking, da kommt direkte Hilfe." Das hat sich geändert.
 
 > [!note] Eigene Einschätzung
 > Die Belt-and-Road-Ernüchterung ist eine der unterschätzten geopolitischen Entwicklungen der letzten Jahre. Sie zeigt: Autoritäre Effizienz hat einen Preis, der erst zeitverzögert sichtbar wird. Das ist Heins implizites Argument für europäische Langsamkeit — nicht als Schwäche, sondern als struktureller Vorteil: Demokratische Prozesse sind langsam, aber sie erzeugen keine Schuldenfallen.
@@ -244,7 +244,7 @@ Göpel schließt mit einem konkreten Vorschlag für bessere Berichterstattung:
 3. **Wer tut schon was?** — Scheinwerfer auf Lösungen statt auf Tabubrüche. In Europa passieren Dinge, die den „Zumutungs"-Anwurf erden können
 4. **Was ist der nächstmögliche Schritt?** — Wer könnte das bei uns umsetzen?
 
-> *„Dieses ständige ‚Nee, eigentlich meinen wir es nicht, eigentlich wollen wir vielleicht doch anders' — das überfordert mehr als ein klarer Kurs."* — Göpel [(82:13)](https://www.youtube.com/watch?v=fTgbkpywf8c&t=4933)
+> *„Also dieses adaptive Lernen, aber auf dem Weg bleiben — ich habe das Gefühl, dass das gar nicht so viel Überforderung auslösen würde, als [wenn] sie ständig wieder sagen: Ne, eigentlich meinen wir es nicht, eigentlich wollen wir vielleicht doch anders."* — Göpel [(83:44)](https://www.youtube.com/watch?v=fTgbkpywf8c&t=5024)
 
 ### Bürokratie — der falsche Feind?
 

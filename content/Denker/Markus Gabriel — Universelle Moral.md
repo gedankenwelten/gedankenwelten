@@ -9,7 +9,7 @@ tags:
   - demokratie
   - digitalisierung
   - kapitalismus
-  - year-2026
+  - year-2025
 aliases:
   - Gabriel Universelle Moral
   - Markus Gabriel Moral
@@ -62,7 +62,7 @@ Das hat konkrete Konsequenzen: [▶ 5:23](https://www.youtube.com/watch?v=RM3AJ2
 
 > *„Der Bundestag sitzt nicht in der Küche. Der sitzt auch nicht im Wohnzimmer. Der Bundestag sitzt im Bundestag."*
 
-Die Werte müssten dort entstehen, „wo ein Regulierungsinstrument gar nicht hinkommt" — in Schulen, Universitäten, Unternehmen, im Alltag. [▶ 13:46](https://www.youtube.com/watch?v=RM3AJ2vV6WE&t=826) Die Rede von „europäischen Werten" sei ohne diese Verankerung „völlig leer": Demokratie, Freiheit, Rechtsstaatlichkeit — diese Worte äußere auch Orbán, auch die portugiesische Rechtspopulistenpartei Chega.
+Die Werte müssten dort entstehen, „wo ein Regulierungsinstrument […] gar nicht hinkommt" — in Schulen, Universitäten, Unternehmen, im Alltag. [▶ 13:46](https://www.youtube.com/watch?v=RM3AJ2vV6WE&t=826) Die Rede von „europäischen Werten" sei ohne diese Verankerung „völlig leer": Demokratie, Freiheit, Rechtsstaatlichkeit — diese Worte äußere auch Orbán, auch die portugiesische Rechtspopulistenpartei Chega.
 
 > [!note] Eigene Einschätzung
 > Gabriel formuliert hier eine Position, die zwischen Habermas' Diskursethik und republikanischem Denken oszilliert. Der Punkt ist bestechend: Werte, die nur als Slogans existieren, werden zur leeren Hülle, die sich beliebig instrumentalisieren lässt. Gleichzeitig bleibt die Frage offen, *wie* diese Bottom-up-Wertedebatte konkret skaliert — vom Küchentisch bis zur europäischen Ebene. Das ist die eigentliche Schwachstelle des Ansatzes: Er ist als Diagnose überzeugend, als Handlungsanleitung noch vage.
@@ -115,7 +115,7 @@ Die Werte müssten dort entstehen, „wo ein Regulierungsinstrument gar nicht hi
 
 > *„Wenn es um Geld geht, gewinnen Sie nur mit Geld."*
 
-Regulierung allein hinke dem Silicon Valley nur hinterher — man könne „den Kampf nicht gewinnen", ohne ein alternatives Geschäftsmodell.
+Regulierung allein hinke dem Silicon Valley nur hinterher — „den Kampf gewinnt man nicht", ohne ein alternatives Geschäftsmodell.
 
 ---
 
@@ -123,7 +123,7 @@ Regulierung allein hinke dem Silicon Valley nur hinterher — man könne „den 
 
 [▶ 36:38](https://www.youtube.com/watch?v=RM3AJ2vV6WE&t=2198) — Gabriel argumentiert gegen die Vorstellung des „blanken, eiskalten, turbokapitalistischen Raubtiers": Selbst Elon Musk sei einmal „der moralische Held Nummer 1" in Deutschland gewesen — wegen E-Mobilität. Auch Amazon habe „moralische Vorteile" gehabt: schnelle Lieferung nach Hause. In jedem Geschäftsmodell stecke immer auch ein moralisch guter Anteil.
 
-[▶ 40:25](https://www.youtube.com/watch?v=RM3AJ2vV6WE&t=2425) Dann wird Gabriel radikal: Er nennt den Klassenkampf beim Namen — „nicht weil ich Marxist bin, ich bin sehr weit davon entfernt" — und plädiert für den Ersatz der Einkommenssteuer durch eine Vermögenssteuer. Die Einkommenssteuer sei „prinzipiell eine ungerechte Idee": Wie könne es sein, dass jemand mit 2.400€ brutto Einkommenssteuer zahlen muss? Die Schweiz mache es vor.
+[▶ 40:25](https://www.youtube.com/watch?v=RM3AJ2vV6WE&t=2425) Dann wird Gabriel radikal: Er nennt den Klassenkampf beim Namen — „nicht weil ich Marxist bin, ich bin sehr weit davon entfernt" — und hält die Einkommensteuer für „prinzipiell [eine] ungerechte Idee", ausdrücklich als persönliche Meinung und mit dem Zusatz: „Wir brauchen die im Moment." Wie könne es sein, dass jemand mit 2.400 € brutto so eine Einkommensteuer zahlen muss? Als Vorbild nennt er die Schweiz, die mit der Vermögenssteuer „ganz anders" umgehe. In der Rückschau der Gastgeber zu Beginn der Folge klingt es zugespitzter: die Einkommensteuer durch eine Vermögenssteuer ersetzen.
 
 [▶ 44:13](https://www.youtube.com/watch?v=RM3AJ2vV6WE&t=2653) Zusätzlich brauche es eine völlig neue Arbeitswerttheorie für das KI-Zeitalter: Niemand könne derzeit messen, welche Arbeit eine KI verrichtet. Gabriel fordert ein interdisziplinäres Team aus „Techexperten, Ethikern, Sozialwissenschaftlerinnen", das den Wert der Arbeit neu definiert.
 

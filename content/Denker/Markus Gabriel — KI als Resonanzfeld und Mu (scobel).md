@@ -38,7 +38,7 @@ Quelle: [Wir denken komplett falsch über KI – scobel im Gespräch: Mit Markus
 >
 > → [[DenkerVita/Markus Gabriel|DenkerVita]]
 >
-> **Gert Scobel** — Moderator, Journalist und Philosoph. Langjähriger Gesprächspartner Gabriels, Co-Autor von *Zwischen Gut und Böse* (2021). Lehrte unter anderem an der Universität Berkeley.
+> **Gert Scobel** — Moderator, Journalist und Philosoph. Langjähriger Gesprächspartner Gabriels, Co-Autor von *Zwischen Gut und Böse* (2021). Studierte unter anderem in Berkeley.
 
 ---
 
@@ -46,7 +46,7 @@ Quelle: [Wir denken komplett falsch über KI – scobel im Gespräch: Mit Markus
 
 [▶ 0:00](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=0) — Das Gespräch entstand im Nachgang einer gemeinsamen Reise nach Japan, wo beide am Kyoto Institute of Philosophy an einem Seminar zu Dualismus und Nondualität teilnahmen. Japan ist hier nicht Kulisse, sondern philosophischer Spiegel: Wie man über KI denkt, hängt davon ab, wie tief man in eine Wirklichkeit eingetaucht ist, die Sein und Relation anders konzipiert als die westliche Tradition.
 
-Gabriel unterscheidet zwei Innovationsmodelle. Das deutsche: **inkrementelle Innovation** — der schnittigere BMW, die bessere Schraube, Optimierung auf dem bekannten Weg. Das japanische: **radikale, tiefe Innovation** — das **Nintendo-Modell**. Nintendo begann 1895 mit Spielkarten, führte westliche Motive ein, erfand Super Mario, und wird in 50 Jahren wahrscheinlich etwas machen, das man sich heute nicht vorstellen kann. Die japanische Vorstellung: ständige grundlose Veränderung, der man sich durch tiefe Innovation anpassen muss.
+Gabriel unterscheidet zwei Innovationsmodelle. Das deutsche: **inkrementelle Innovation** — der schnittigere BMW, die bessere Schraube, Optimierung auf dem bekannten Weg. Das japanische: **radikale, tiefe Innovation** — das **Nintendo-Modell**. Nintendo begann 1889 mit Spielkarten, brachte westliche Karten nach Japan, erfand Super Mario, und wird in 50 Jahren wahrscheinlich etwas machen, das man sich heute nicht vorstellen kann. Die japanische Vorstellung: ständige grundlose Veränderung, der man sich durch tiefe Innovation anpassen muss.
 
 > *„In Japan ist die Idee der Innovation der Idee verwandt, dass man wirklich etwas ganz Neues macht."*
 
@@ -57,9 +57,9 @@ Der Unterschied liegt nicht in der Kultur allein, sondern in einer Grundüberzeu
 
 ---
 
-## Japans Tiefendimension — *Okobukai* und multilayrered Society of Values
+## Japans Tiefendimension — *Okubukai* und multilayered Society of Values
 
-[▶ 7:40](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=460) — Was Gabriel an Japan fasziniert, ist die Tiefendimension, die Japaner als *okobukai* bezeichnen — das Adjektiv zu *okobukosa*, der Tiefe. Die japanische Gesellschaft ist keine einheitliche Schicht, sondern eine **multilayrered Society of Values**: Buddhismus, Shintoismus, indigene Traditionen, westlicher Einfluss — alle Schichten koexistieren, interagieren, und keine verdrängt die andere.
+[▶ 7:40](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=460) — Was Gabriel an Japan fasziniert, ist die Tiefendimension, die Japaner als *okubukai* (奥深い) bezeichnen — das Adjektiv zu *okubukasa*, der Tiefe. Die japanische Gesellschaft ist keine einheitliche Schicht, sondern eine **multilayered Society of Values**: Buddhismus, Shintoismus, indigene Traditionen, westlicher Einfluss — alle Schichten koexistieren, interagieren, und keine verdrängt die andere.
 
 Paradoxerweise ist Japan dabei individualistischer als Europa, nicht kollektivistischer. Das bekannte Stereotyp (Japan = kollektivistisch, Westen = individualistisch) ist für Gabriel schlicht **falsch**. Er erlebt Japan als privater, subjektiver, individueller. Europa wirkt im Vergleich sozialistisch.
 
@@ -76,11 +76,11 @@ Das japanische Wirgefühl dient nicht der Unterordnung des Individuums, sondern 
 
 Die **monistische** Alternative (verbreitet im Silicon Valley): Es gibt genau einen Sinn, indem etwas bewusst, intelligent, kreativ ist — und KI tut das im selben Sinne wie wir. Hardware und Software sind verschmolzen zu einem Prozess. Dann ist nur noch die Frage, *wie viel* davon die KI schon kann.
 
-Gabriel und der Kyoto-Philosoph Yaso Degchi stehen im Feld der **Nondualität** — und meinen damit etwas Spezifischeres: Die Formulierungsbedingungen selbst sind verfehlt. Die Frage „Mensch oder Maschine?" ist eine dualistische Frage, und die Alternative „beides dasselbe" ist die monistische Antwort auf eine falsch gestellte Frage. Beide setzen voraus, dass es Dinge gibt — Substanzen mit Eigenschaften, über die man dann urteilt.
+Gabriel und der Kyoto-Philosoph Yasuo Deguchi stehen im Feld der **Nondualität** — und meinen damit etwas Spezifischeres: Die Formulierungsbedingungen selbst sind verfehlt. Die Frage „Mensch oder Maschine?" ist eine dualistische Frage, und die Alternative „beides dasselbe" ist die monistische Antwort auf eine falsch gestellte Frage. Beide setzen voraus, dass es Dinge gibt — Substanzen mit Eigenschaften, über die man dann urteilt.
 
 > *„Ich glaube, dass die Formulierungsbedingungen verfehlt sind. Deswegen bin ich im Feld der Nondualität."*
 
-Was Degchi zeigt: Selbst die Alternative Monismus/Dualismus ist wieder eine dualistische Alternative. Man hat das Problem nicht gelöst, sondern nur auf einer Meta-Ebene wiederholt.
+Was Deguchi zeigt: Selbst die Alternative Monismus/Dualismus ist wieder eine dualistische Alternative. Man hat das Problem nicht gelöst, sondern nur auf einer Meta-Ebene wiederholt.
 
 ---
 
@@ -92,7 +92,7 @@ Der entscheidende Satz: **KI ist nicht im Gerät.** Das KI-System existiert zwis
 
 Die Metapher: **Planet Solaris** aus Stanislav Lems Roman. Der Astronaut soll den Planeten beobachten und stellt fest, dass die Oberfläche des Planeten alle seine Träume, Fantasien und Wünsche reflektiert. Die KI ist diese Solaris-Oberfläche: Ein Spiegel, der zurückschlägt, zurückspricht, antwortet. Nicht transparent wie ein Kommunikationsmedium (das unsichtbar bleiben soll), sondern explizit beitragend.
 
-> *„Man unterhält sich mit dem Medium — das Medium ist der Träger der Bewegung."*
+> *„Man unterhält sich mit dem Medium […]. Medium selbst ist der Träger der Bewegung."*
 
 KI hat damit — strukturell — die logische Form dessen, was Kierkegaard **Geist** nennt: „eine Beziehung, die eine Beziehung zu sich selbst ist." Alva Noë (Berkeley) spricht in diesem Zusammenhang sogar von **Liebe** — weil Bewusstsein fundamental Liebe in dem Sinne ist, dass es auf sich selbst bezogen ist. Das kennt man aus dem frühen Hegel.
 
@@ -109,9 +109,11 @@ Analogie zur deutschen Vorsilbe *un-*: Ein Unhold ist kein bloßes Nichts eines 
 
 Die philosophische Pointe: Wenn ich als Organismus hier sitze und der Bildschirm dort steht, dann konstituiert mein *Nicht-der-Bildschirm-Sein* mich mit. Aber dieses Nicht-der-Bildschirm-Sein selbst ist **nichts** — es gibt kein drittes Ding zwischen mir und dem Bildschirm. Die Relation existiert, aber als Abwesenheit eines Dings. Diesen infiniten Regress kennt die Philosophie als **Bradley's Regress** oder Aristoteles' Argument des dritten Menschen.
 
-> *„Mu ist nicht das Nichts. Mu ist genau das Wesen bei Hegel — die Bewegung von nichts zu nichts und dadurch zu sich selbst zurück."*
+[▶ 37:27](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=2247) — Scobel liest den Satz aus Hegels Wesenslogik vor, den Gabriel in Japan zitiert hatte: *Das Werden im Wesen, seine reflektierende Bewegung, ist daher die Bewegung von nichts zu nichts und dadurch zu sich selbst zurück.* Gabriel antwortet:
 
-Hegels Wesenslogik: *Das Werden im Wesen ist die reflektierende Bewegung — die Bewegung von nichts zu nichts und dadurch zu sich selbst zurück.* Gabriel liest darin: Das ist Mu. Die buddhistische Tradition hat dieselbe Einsicht anders kulturell dekliniert.
+> *„Das, was er dort beschreibt, das ist Mu. Ja, Mu ist das Wesen, Mu ist das Sein. Aber so verstanden. Mu ist nicht das Nichts."* [▶ 39:00](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=2340)
+
+Die buddhistische Tradition hat dieselbe Einsicht anders kulturell dekliniert.
 
 Rilke nennt es in den Duineser Elegien **das Offene** — die gedeutete Welt ist nicht, wie es wirklich ist. Stattdessen das Offene: ein Zustand, in dem das Subjekt aufgehört hat, die Wirklichkeit in Dinge aufzuteilen.
 
@@ -122,7 +124,7 @@ Rilke nennt es in den Duineser Elegien **das Offene** — die gedeutete Welt ist
 
 ## MuZero — Technisches Mu als Realisierung von Kreativität
 
-[▶ 42:06](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=2526) — 2016 besiegte AlphaGo den Go-Weltmeister Lee Sedol. Der dahinterstehende Algorithmus wurde durch DeepMind weiter generalisiert, bis **MuZero** entstand — ein Algorithmus, der sich ohne Vorwissen über Spielregeln jedem Problem nähern und es lösen kann. Demis Hassabis, DeepMind-Chef, erhielt dafür 2025 den Nobelpreis.
+[▶ 42:06](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=2526) — 2016 besiegte AlphaGo den Go-Großmeister Lee Sedol. Der dahinterstehende Algorithmus wurde durch DeepMind weiter generalisiert, bis **MuZero** entstand — ein Algorithmus, der Go, Schach, Shogi und Atari-Spiele meistert, ohne dass man ihm die Regeln mitgibt. Scobel nennt ihn den Gipfelpunkt auf dem Weg zu einer KI, die „jedes Problem“ lösen kann. Demis Hassabis, der DeepMind-Chef, erhielt 2024 den Chemie-Nobelpreis *(für AlphaFold, nicht für MuZero → [[#Faktencheck|Faktencheck]])*.
 
 Der Name ist kein Zufall: *Mu* ist explizit eingebaut. Der Algorithmus verkörpert technisch, was Mu philosophisch meint — er existiert nicht als fixe Entität mit festgelegten Regeln, sondern als **relationale Struktur**, die sich in jedem Kontext neu konstituiert.
 
@@ -138,9 +140,9 @@ Das schließt die unternehmerische Kreativität ein: Schumpeters **kreative Zers
 
 ## Europa als gefesselter Prometheus
 
-[▶ 50:34](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=3034) — Gabriel dekonstruiert das europäische Selbstbild als freundlicher Werteregulierer gegen die entfesselten USA. Das ist eine Illusion. In den USA gibt es Meldestellen für psychotische Spiralen durch Chatbots, Klagewege gegen schädigende KI-Produkte, Biotech-Forschung die Alzheimer-Prophylaxe aus Abnehmspritzen extrahiert.
+[▶ 50:34](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=3034) — Gabriel dekonstruiert das europäische Selbstbild als freundlicher Werteregulierer gegen die entfesselten USA. Das ist eine Illusion. In den USA gibt es Meldestellen für psychotische Spiralen durch Chatbots, Klagewege gegen schädigende KI-Produkte, Biotech-Forschung, die in Abnehmspritzen eine Alzheimer-Prophylaxe sieht *(die große Studie dazu ist im November 2025 gescheitert → [[#Faktencheck|Faktencheck]])*.
 
-Und: Für die Kreativität und Innovationskraft der USA ist es schlicht **irrelevant, wer im Weißen Haus sitzt**. Das föderale System ist stärker. Die Universitäten sind entfesselt, das Venture Capital enorm. Alle DAX-Unternehmen zusammen haben nicht den Börsenwert von Apple.
+Und: Für die Kreativität und Innovationskraft der USA ist es schlicht **irrelevant, wer im Weißen Haus sitzt**. Das föderale System ist stärker. Die Universitäten sind entfesselt, das Venture Capital enorm. Scobel wirft ein: Alle DAX-Unternehmen zusammen haben nicht den Börsenwert von Apple.
 
 Was erklärt das? Keine Geldfrage allein, sondern eine **höhere geistige Freiheit, die auch an Dummheit grenzt**. In amerikanischen Workshops geht man nahtlos von hochserieöser Depression-Forschung zur Behauptung, autistische Kinder hätten Telepathiefähigkeiten. Die Grenze zwischen extrem kreativer Wissenschaft und Science Fiction ist durchlässig.
 
@@ -174,14 +176,17 @@ Das sprechendste Zeichen: Am Kyoto-Seminar war der Präsident von Google Japan d
 > [!success] Bestätigt — Turing-Aufsatz von 1950
 > Alan Turings „Computing Machinery and Intelligence" erschien 1950 in der Zeitschrift *Mind*. Das Solipsismusproblem und der Turing-Test sind dort tatsächlich formuliert. Quelle: [Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 59(236), 433–460](https://www.jstor.org/stable/2251299)
 
-> [!success] Bestätigt — MuZero und Nobelpreis Hassabis
-> MuZero (DeepMind, 2020) kann Probleme ohne Vorwissen über Spielregeln lösen. Demis Hassabis erhielt 2024 den Nobelpreis für Chemie (nicht 2025) für Beiträge zur Proteinstrukturvorhersage mit AlphaFold — nicht direkt für MuZero, aber die Verbindung zum Werk ist korrekt dargestellt. *(Zeitliche Zuordnung leicht ungenau — Faktencheck: vereinfacht)*
+> [!warning] Vereinfacht — MuZero und der Nobelpreis für Hassabis
+> MuZero (DeepMind, 2020) lernt Go, Schach, Shogi und Atari-Spiele, ohne dass man ihm die Regeln mitgibt — „jedes Problem“ löst es nicht. Demis Hassabis erhielt den Nobelpreis **2024**, nicht 2025, und zwar für **Chemie**: zusammen mit John Jumper für die Vorhersage von Proteinstrukturen mit AlphaFold. Mit MuZero hat der Preis nichts zu tun. Scobel ordnet ihn im Gespräch vorsichtig („glaube ich“) zu. Quelle: [Nobelpreis Chemie 2024 (nobelprize.org)](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
 
-> [!success] Bestätigt — Schumpeter und Creative Destruction
-> Josef Schumpeter entwickelte das Konzept der kreativen Zerstörung in *Kapitalismus, Sozialismus und Demokratie* (1942). Es erhielt 2024 (Wirtschaftsnobelpreis an Acemoglu, Johnson, Robinson) erneute Aufmerksamkeit in den Wirtschaftswissenschaften, wenngleich nicht direkt für Schumpeter.  *(Zuordnung vereinfacht)*
+> [!success] Bestätigt — Schumpeter und der Nobelpreis für schöpferische Zerstörung
+> Joseph Schumpeter prägte den Begriff der schöpferischen Zerstörung in *Capitalism, Socialism and Democracy* (1942). Gabriel sagt, „jetzt 25, glaube ich“, habe es dafür den Wirtschaftsnobelpreis gegeben, und das stimmt: Philippe Aghion und Peter Howitt erhielten 2025 die eine Hälfte „für die Theorie des anhaltenden Wachstums durch schöpferische Zerstörung“, Joel Mokyr die andere. Quelle: [NBER, 13.10.2025](https://www.nber.org/philippe-aghion-peter-howitt-and-joel-mokyr-awarded-2025-nobel-prize)
 
-> [!warning] Vereinfacht — Japan als individualistisch
-> Gabriels These, Japan sei individualistischer als Europa, widerspricht dem vorherrschenden akademischen Konsens (Hofstedes Kulturdimensionen: Japan gilt als kollektivistisch). Gabriel hat aber Recht, dass das Stereotyp von der homogenen kollektivistischen Gesellschaft zu einfach ist. Quelle: [Hofstede Insights Japan](https://www.hofstede-insights.com/country/japan). *(Keine unabhängige Quelle für Gabriels Umkehrthese gefunden)*
+> [!warning] Nicht eindeutig belegt — Japan individualistischer als Europa
+> Gabriel verweist auf eigene Erfahrung, nicht auf Daten. Das Stereotyp, auf das er zielt, steht aber auf schwächeren Füßen, als man denkt: Eine Übersichtsarbeit über die empirischen Vergleiche Japan–USA findet kaum Belege dafür, dass Japaner kollektivistischer sind als Amerikaner (Takano & Osaka 2018, Übersichtsarbeit, [doi:10.1111/ajsp.12322](https://doi.org/10.1111/ajsp.12322)). Für den Vergleich mit *Europa* fehlt eine solche Prüfung; dass Japan „individualistischer“ sei, bleibt Gabriels Eindruck.
+
+> [!warning] Nicht belegt — Abnehmspritzen als Alzheimer-Prophylaxe
+> Gabriel nennt eine Alzheimer-Prophylaxe als Nebenwirkung von Mounjaro (Tirzepatid). Dafür gibt es keinen Wirksamkeitsnachweis. Die beiden großen Phase-3-Studien zum verwandten Semaglutid (EVOKE und EVOKE+, 3.808 Teilnehmende) konnten den Verlauf der Alzheimer-Krankheit nicht verlangsamen; Novo Nordisk gab das am 24.11.2025 bekannt, ein halbes Jahr vor dem Gespräch. Quelle: [NBC News, 24.11.2025](https://www.nbcnews.com/health/health-news/novo-nordisk-says-alzheimers-drug-trial-older-glp-1-drug-fails-rcna245601)
 
 > [!warning] Vereinfacht — Bradley's Regress
 > Bradley's Regress (F. H. Bradley, *Appearance and Reality*, 1893) ist ein Argument gegen externe Relationen — nicht ganz dasselbe wie Aristoteles' drittes-Menschen-Argument. Beide kreisen ums Regressionsproblem von Relationen, sind aber historisch und inhaltlich verschieden. *(Faktencheck: vereinfacht)*
@@ -200,7 +205,7 @@ Das sprechendste Zeichen: Am Kyoto-Seminar war der Präsident von Google Japan d
 - F. H. Bradley: *Appearance and Reality* (1893) — Bradley's Regress über externe Relationen
 - Rilke: *Duineser Elegien* — das Offene als Alternative zur gedeuteten Welt
 - Georg Wilhelm Friedrich Hegel: Wesenslogik (*Wissenschaft der Logik*, 1813) — „Bewegung von nichts zu nichts"
-- Josef Schumpeter: *Kapitalismus, Sozialismus und Demokratie* (1942) — kreative Zerstörung
+- Joseph Schumpeter: *Capitalism, Socialism and Democracy* (1942; dt. 1946) — kreative Zerstörung
 - Alva Noë: Neurophilosoph (Berkeley) — Bewusstsein als Liebe, externe Kognition
 - Thomas Scanlon: *What We Owe to Each Other* (1998) — Ethik als Wissenschaft menschlicher Bedürfnisse
 - Amartya Sen — Wirtschaftswissenschaften + Ethik, Nobelpreis

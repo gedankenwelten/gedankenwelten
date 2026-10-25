@@ -7,7 +7,7 @@ tags:
   - kapitalismus
   - philosophie
   - ethik
-  - year-2025
+  - year-2023
 aliases:
   - Gabriel Ethischer Kapitalismus
 ---
@@ -34,7 +34,7 @@ Gabriel hält eine dreiteilige Lecture an der Universität Luzern (IWP — Insti
 [▶ 14:59](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=899) — Gabriel beginnt mit einer handbuchartig klaren Definition. Kapitalismus ist kein „System", sondern eine lose Verknüpfung dreier historisch entstandener Bedingungen:
 
 1. **Privateigentum der Produktionsmittel** — grundgesetzlich garantiert
-2. **Vertragsfreiheit** — das antifeudalistischeErbe; wir verhandeln die Bedingungen unserer Arbeit, statt zugeteilt zu werden. Strukturell verdanken wir der Vertragsfreiheit die Abschaffung der Sklaverei.
+2. **Vertragsfreiheit** — das antifeudalistische Erbe; wir verhandeln die Bedingungen unserer Arbeit, statt zugeteilt zu werden. Strukturell verdanken wir der Vertragsfreiheit die Abschaffung der Sklaverei.
 3. **Freiheit der Märkte** — der Preismechanismus als Signalgeber; Dezentralisierung statt zentraler Steuerung. Freie Märkte basieren auf einer *Ethik des Nichtwissens*: Keine Instanz kann die Komplexität moderner Gesellschaften zentral steuern.
 
 [▶ 20:06](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=1206) — Der Marxismus ist in dieser Lesart selbst eine Verschwörungstheorie im Popper'schen Sinne: die Idee, es gäbe eine zentrale Schaltstelle, von der aus die Gesellschaft planbar wäre.
@@ -57,7 +57,7 @@ Gabriels Neuer Moralischer Realismus hat drei Dimensionen:
 
 **b) Humanismus** — Die moralischen Tatsachen richten sich an Menschen, weil nur wir großflächige Verhaltensänderung im Lichte moralischer Einsicht vornehmen können. Das schließt Tierethik nicht aus, sondern ein: Weil wir Macht über andere Lebewesen haben und diese Macht reflektieren können, schulden wir ihnen etwas (Hans Jonas' Verantwortungsprinzip).
 
-**c) Universalismus** — In dem Szenario mit dem ertrinkenden Kind sind die Akteure austauschbar. Es gibt keine kulturelle Relativität moralischer Tatsachen — nur verschiedene Auffassungen davon. Folter ist in Teheran genauso böse wie in Luzern; sie ist nur leichter zugänglich.
+**c) Universalismus** — In dem Szenario mit dem ertrinkenden Kind sind die Akteure austauschbar. Es gibt keine kulturelle Relativität moralischer Tatsachen — nur verschiedene Auffassungen davon. Folter ist in China genauso böse wie in der Schweiz; dort ist es nur leichter, jemanden zu foltern.
 
 [▶ 50:32](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=3032) — **Moralischer Fortschritt** = die gesellschaftlich weitgehend anerkannte Erkenntnis einer bisher teilweise verborgenen moralischen Tatsache. Sklaverei war in der Antike genauso verwerflich wie heute — nur partiell verborgen. Der Sklave wusste das; Aristoteles nicht.
 
@@ -69,7 +69,7 @@ Gabriels Neuer Moralischer Realismus hat drei Dimensionen:
 
 [▶ 59:42](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=3582) — Über Kants *höchstes Gut*: die Struktur, in der *Glückswürdigkeit* und *Glückseligkeit* zusammenfallen — wenn man durch das Tun des moralisch Richtigen profitiert. Eine Gesellschaft, die moralisches Handeln bestraft (durch Gefängnis, Folter), ist schlechter als eine, die es belohnt.
 
-[▶ 64:17](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=3857) — **Adam Smiths unsichtbare Hand** neu gelesen: Sie ist kein ökonomisches Gesetz, sondern das menschliche Vermögen, das Gute und das Böse zu unterscheiden. Die unsichtbare Hand *ist* der Mensch. Freie Märkte haben Wert, weil sie von moralisch begabten Menschen betrieben werden.
+[▶ 64:17](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=3857) — **Adam Smiths unsichtbare Hand** neu gelesen: Sie ist kein ökonomisches Gesetz, sondern „das menschliche Vermögen, das Gute und das Böse zu tun“ — kurz: die Freiheit. Die unsichtbare Hand *ist* der Mensch. Freie Märkte haben Wert, weil sie von Menschen betrieben werden, die zur *sympathy* fähig sind, „moralisch begabt, mehr oder weniger“.
 
 [▶ 66:37](https://www.youtube.com/watch?v=P3lf1-H9KCE&t=3997) — **CPO — Chief Philosophy Officer:** Gabriels konkreter Vorschlag. Jedes Unternehmen braucht eine ethische Forschungsabteilung, die Werturteile innerhalb der Wertschöpfungskette professionell bearbeitet. Die These: *Mit einer Ethikabteilung erzeugen Sie nachhaltigen Profit* — nicht weniger Produktivität, sondern mehr. Beispiel Siemens/Adani: Hätte Siemens eine Ethikabteilung gehabt, wäre das Australien-Desaster (Joe Kaeser) anders verlaufen.
 
@@ -196,7 +196,7 @@ Die kulturelle Grundlage von Deep Innovation: Gabriel zeigt, warum Japan Philoso
 
 ### → [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
 
-Beide diagnostizieren finanziellen Kapitalismus als Bedrohung der Demokratie — Zhao nennt ihn «ontologisches Verbrechen» und «neue Despotie». Gabriels Lösung (Ethikpflichten im Unternehmen, «true profit») bleibt innerhalb des bestehenden Rahmens; Zhao hält das für strukturell unzureichend und entwirft eine neue Weltordnung. Zhaos Individualismus-Kritik (Individualismus als politische Fiktion) herausfordert Gabriels Moraluniversalismus, der vom einzelnen Akteur ausgeht.
+Beide diagnostizieren finanziellen Kapitalismus als Bedrohung der Demokratie — Zhao nennt ihn «ontologisches Verbrechen» und «neue Despotie». Gabriels Lösung (Ethikpflichten im Unternehmen, «true profit») bleibt innerhalb des bestehenden Rahmens; Zhao hält das für strukturell unzureichend und entwirft eine neue Weltordnung. Zhaos Individualismus-Kritik (Individualismus als politische Fiktion) fordert Gabriels Moraluniversalismus heraus, der vom einzelnen Akteur ausgeht.
 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
