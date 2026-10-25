@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Drei Stunden Autobahn, fast kein Insekt auf der Scheibe. Maria Furtwängler sucht die Ursache und findet sie auf dem Acker — bei Bauern, die selbst nicht mehr weiterwissen.
 
-> → *4 weitere in* [[Zeitgeist]]
+> → *2 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> → *9 weitere in* [[Panorama]]
+> → *6 weitere in* [[Panorama]]
 
 ### Denker
 

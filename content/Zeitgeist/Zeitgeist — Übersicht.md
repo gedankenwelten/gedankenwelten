@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*348 Notes — automatisch generiert · nach Thema sortiert*
+*349 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -304,6 +304,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Herfried Münkler — Muss es Kriege geben|Herfried Münkler — Muss es Kriege geben?]]
 - [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung|Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
 - [[Zeitgeist/Jihan Alomar — Gefangen vom Islamischen Staat|Jihan Alomar — Gefangen vom Islamischen Staat]] — Sie war zehn, als der Gedenktag noch ein Sonntag war. Zehn Monate IS-Gefangenschaft, ein vermisster Vater, und die Entscheidung, in Klassenzimmer zu gehen.
+- [[Zeitgeist/Joern Leonhard — Wie man Kriege beendet|Jörn Leonhard — Wie man Kriege beendet]] — Ein Krieg hat ein Anfangsdatum, ein Ende hat er selten. Der Historiker Jörn Leonhard zeigt in zehn Thesen, warum der Frieden mit der Unterschrift erst beginnt und die Gewalt gerade dann steigt, wenn verhandelt wird.
 - [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht|Konstantin Flemig — Deutschland als Rüstungs-Großmacht]]
 - [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat|Konstantin Flemig — Russlands Katastrophen-Monat]] — Drohnen über Moskau und St. Petersburg, abgeschnürte Krim, rationiertes Benzin: wie der Mythos der russischen Unbesiegbarkeit in einem einzigen Monat zerfällt.
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026|Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
