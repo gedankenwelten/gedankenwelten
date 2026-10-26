@@ -1,6 +1,8 @@
 ---
 title: "Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will"
 aktualisiert: 2026-05-11
+description: "Ist Peter Thiel ein Selfmade-Genie oder ein Geschöpf des Staates, den er überwinden will? Zwei Autoren lesen sein Leben als Programm: Monopol, Unsterblichkeit für wenige, Daten über alle."
+raetsel: "Ein deutsches Zitat im englischen Text, darin ein lateinischer Satz. Für wen?"
 date: 10.05.2026
 tags:
   - zeitgeist
@@ -26,7 +28,10 @@ aliases:
 
 </details>
 
-Quelle: [GRENZGÄNGER STUDIOS: Wie Peter Thiel den Westen umbauen will](https://www.youtube.com/watch?v=j7EGHo0tcbM)
+> [!abstract] Worum es geht
+> Ist Peter Thiel ein Selfmade-Genie oder ein Geschöpf des Staates, den er überwinden will? In viereinhalb Stunden bei Tim Gabel lesen Tahir Chaudhry und Tariq Hübsch, Autoren eines Buchs über Thiel, sein Leben als zusammenhängendes Programm: reich geworden durch Aufträge von Pentagon und Geheimdiensten, Monopol statt Wettbewerb, Unsterblichkeit für wenige und Daten über alle, Demokratie als Hindernis. Die Note folgt ihrer Lesart und prüft sie dort, wo sie Tatsachen behauptet; manches davon hält nicht (→ [[#Faktencheck|Faktencheck]]).
+
+Quelle: [INVESTIGATIV-JOURNALISTEN: Wie Peter Thiel den Westen umbauen will](https://www.youtube.com/watch?v=j7EGHo0tcbM) (Tim Gabel, 10. Mai 2026)
 
 > [!info] Wer spricht?
 > **Tahir Chaudhry** — Investigativer Journalist (ausgebildet bei der Süddeutschen Zeitung), SPIEGEL-Bestsellerautor (*Wem diente Jeffrey Epstein?*, 2024). Zusammen mit Tariq Hübsch Gründer von Grenzgänger Studios — einem YouTube-Kanal und unabhängigen Verlag für investigative Recherche zu Machtstrukturen und Geopolitik. Co-Autor von *Peter Thiel: Palantir, der KI-Gott und das Ende des Menschen* (Grenzgänger Verlag, 2026).
@@ -66,6 +71,9 @@ Hübsch kontextualisiert diesen Unsterblichkeitswunsch biographisch: [▶ 23:36]
 
 > [!note] Eigene Einschätzung
 > Die Zweiteilung ist das eigentlich Skandalöse: Biologische Unsterblichkeit für Milliardäre, algorithmische Überwachung für alle anderen. Transhumanismus ist hier keine universelle Verheißung, sondern ein Klassenprojekt — ein technologischer Feudalismus, in dem die Herren über Leben und Tod entscheiden und die Leibeigenen über Engagement-Metriken gesteuert werden.
+
+> [!question] Weitergedacht
+> Die stärkste Geschichte dieses Abschnitts, der „Blood Boy“, ist zugleich die am schlechtesten belegte. *Warum glauben wir einem Mächtigen das Groteske so leicht — und was verliert eine berechtigte Kritik, wenn sie sich auf das Gerücht stützt statt auf das Belegte?*
 
 ---
 
@@ -122,6 +130,9 @@ Die Ironie: Palantirs eigenes Manifest verspricht exakt dasselbe — „Frieden 
 > [!note] Eigene Einschätzung
 > Die Antichrist-Dialektik ist brillant — und gefährlich. Thiel identifiziert ein reales Problem (die Instrumentalisierung von Angst für autoritäre Strukturen), während er gleichzeitig genau diese Strukturen aufbaut. Das ist kein Widerspruch, sondern Methode: Wer das Problem benennt, kann sich als Lösung inszenieren.
 
+> [!question] Weitergedacht
+> Hübsch sagt, Thiel freue sich über Kritik, weil sie ihn größer macht. *Wenn das stimmt: Wie kritisiert man jemanden, dessen Inszenierung von der Dämonisierung lebt, ohne an ihr mitzuarbeiten?*
+
 ---
 
 ## Esoterisches Schreiben — Die verborgene Sprache der Elite
@@ -155,6 +166,9 @@ Das Muster ist bereits sichtbar: Unter Social-Media-Posts steht zunehmend *„@G
 [▶ 93:25](https://www.youtube.com/watch?v=j7EGHo0tcbM&t=5605) — Die politische Umsetzung: Thiel finanziert JD Vance mit $15 Mio. Senatswahlkampf 2022 → Vizepräsident. Er bringt die zerstrittene Tech-Elite an einen Tisch: Bezos, Musk, Alex Karp — alle bei Trumps Inauguration. Thiel wird zum Architekten einer Allianz aus Tech-Monopolen und politischer Macht, in der Milliardäre als *„National Treasures"* gelten und Botschafterposten erhalten.
 
 [▶ 131:29](https://www.youtube.com/watch?v=j7EGHo0tcbM&t=7889) — Hübsch erkennt in Thiels Weltbild das Narrativ von *„Der Kampf aller gegen alle ist eine Natürlichkeit"* — eine ideologische Prämisse, die als Realismus verkauft wird. Thiels Palantir-Manifest streut dieselbe Botschaft: Der Mensch ist von Natur aus böse, Konkurrenz ist unvermeidlich, Dominanz ist der einzige Weg. Hübsch hält dagegen: Das ist keine Analyse, sondern amerikanische Propaganda — eine Ideologie, die Kooperation als naiv abtut, um den eigenen Machtwillen zu legitimieren.
+
+> [!question] Weitergedacht
+> Thiel schrieb 2009, er glaube nicht mehr, dass Freiheit und Demokratie vereinbar seien. *Wer so denkt und zugleich Wahlkämpfe finanziert: Nutzt er die Demokratie gegen sich selbst, oder sagt er nur offen, was andere Geldgeber still tun?*
 
 ---
 

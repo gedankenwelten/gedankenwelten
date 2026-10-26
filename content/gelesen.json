@@ -454,11 +454,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Fabian-Pfeffer",
      "leser": 2,
      "aufrufe": 2
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
      "leser": 1,
      "aufrufe": 1
     }

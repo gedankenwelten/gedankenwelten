@@ -1,6 +1,6 @@
 ---
 title: "Marcant — Ausstieg aus der rechten Szene"
-description: "Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt."
+description: "Mit siebzehn auf einer Neonazi-Demo, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt."
 aktualisiert: 2026-10-24
 date: 30.12.2025
 tags:
@@ -45,7 +45,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Marcant, die 
 </details>
 
 > [!abstract] Worum es geht
-> Mit siebzehn stand Felix auf einem Nazikonzert und zweifelte in Marcants Kamera an den sechs Millionen ermordeten Juden. Fünf Monate später ist er draußen. Das Video erzählt, wie ein Junge über Freunde und TikTok hineinrutscht, mehr aus Nachahmung als aus Überzeugung, und wie er wieder herausfindet: durch Peinlichkeit, einen Freund, der die Tür offen hielt, und eine halbe Stunde Verspätung. Dazu Marcants Methode, das Rechtssein lächerlich zu machen, bevor es sich festsetzt, und die ehrliche Frage, wie viel davon Glück war.
+> Mit siebzehn stand Felix auf seiner ersten Neonazi-Demo und zweifelte in Marcants Kamera an den sechs Millionen ermordeten Juden. Fünf Monate später ist er draußen. Das Video erzählt, wie ein Junge über Freunde und TikTok hineinrutscht, mehr aus Nachahmung als aus Überzeugung, und wie er wieder herausfindet: durch Peinlichkeit, einen Freund, der die Tür offen hielt, und eine halbe Stunde Verspätung. Dazu Marcants Methode, das Rechtssein lächerlich zu machen, bevor es sich festsetzt, und die ehrliche Frage, wie viel davon Glück war.
 
 Quelle: [1 Mio Klicks: Unser Interview ließ ihn aussteigen](https://www.youtube.com/watch?v=NZcdZVmZd1A)
 
@@ -62,7 +62,7 @@ Quelle: [1 Mio Klicks: Unser Interview ließ ihn aussteigen](https://www.youtube
 
 ### Der Ausgangspunkt: Ein Gespräch auf der schlimmsten Demo
 
-[▶ 0:00](https://www.youtube.com/watch?v=NZcdZVmZd1A&t=0) — Am 4. April 2025 lud Marcant ein Interview hoch, das über eine Million Menschen sehen sollten. Darin steht ein Siebzehnjähriger mitten auf einem Nazikonzert und erzählt von der Judenverschwörung. Er zweifelt an den sechs Millionen ermordeten Juden, und rechte Gewalt findet er richtig. Der Junge heißt hier Felix. Aufgenommen war das Gespräch im März, am Ostkreuz in Berlin-Friedrichshain, wo ein Neonazi-Aufmarsch mit dem Auftritt des Sängers von Kategorie C begann; aufgerufen hatten unter anderem Leute aus dem Umfeld der Deutschen Jugend Voran ([Berlin gegen Nazis](https://berlin-gegen-nazis.de/erneut-neonazi-aufmarsch-in-friedrichshain-und-breiter-gegenprotest-am-22-maerz/)).
+[▶ 0:00](https://www.youtube.com/watch?v=NZcdZVmZd1A&t=0) — Am 4. April 2025 lud Marcant ein Interview hoch, das über eine Million Menschen sehen sollten. Darin steht ein Siebzehnjähriger mitten auf einem Neonazi-Aufmarsch und erzählt von der Judenverschwörung. Er zweifelt an den sechs Millionen ermordeten Juden, und rechte Gewalt findet er richtig. Der Junge heißt hier Felix. Aufgenommen war das Gespräch im März, am Ostkreuz in Berlin-Friedrichshain, wo ein Neonazi-Aufmarsch mit dem Auftritt des Sängers von Kategorie C begann; aufgerufen hatten unter anderem Leute aus dem Umfeld der Deutschen Jugend Voran ([Berlin gegen Nazis](https://berlin-gegen-nazis.de/erneut-neonazi-aufmarsch-in-friedrichshain-und-breiter-gegenprotest-am-22-maerz/)).
 
 Fünf Monate später sitzt derselbe Felix im Willy-Brandt-Haus, die SPD hat den Raum gestellt, und sagt: *„Ich bin komplett aus der rechten Szene draus."*
 
