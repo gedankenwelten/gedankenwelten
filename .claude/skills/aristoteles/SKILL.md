@@ -145,6 +145,25 @@ einer dritten Person da. Mit Zeitmarke fällt das beim Schreiben auf, ohne erst 
 - Die Einwände, auf die der Sprecher antwortet, und seine **Antworten** gehören zusammen. Wer nur den Einwand
   bringt, lässt den Sprecher schlechter dastehen; wer nur die Antwort bringt, nimmt dem Einwand die Kraft.
 
+### Belegverben gehören dem Faktencheck (seit 26.10.2026)
+
+**„belegt“, „weist nach“, „dokumentiert“, „zeigt“, „beweist“** schreiben wir nur für das, was der
+Faktencheck bestätigt (`[!success]`). Für alles andere sagt, liest, deutet, behauptet, beruft sich jemand:
+„Chaudhry und Hübsch lesen darin ein Programm“, nicht „weisen nach“; „Hübsch beruft sich auf Lemov“, nicht
+„Lemov belegt“. Dasselbe gilt für Thesen, die wir ohne Verb in unsere eigene Stimme heben („Aus den
+Konferenzen gingen zwei Linien hervor“): Ist es die These des Sprechers, steht sein Name daran („so Hübsch“).
+
+Anlass: In der Grenzgänger-Note (Aristarch, 26.10.2026) machten genau diese Verben aus Sprecherthesen
+Tatsachen — die Sprecher „wiesen nach“, eine Forscherin „belegte“, was sie so nie schrieb, und ein
+Verbindungssatz sprach von dem, was zwei Autoren „empirisch belegen“. „Zu glatt formuliert“ ist mit 41
+Fällen die häufigste Ursache unserer Fehler im Register. **Schnellcheck vor dem Deploy:**
+
+```bash
+grep -n -E "belegt|belegen|weist nach|weisen nach|nachweis|dokumentiert|beweist" "NOTE.md" | grep -v -E "^[0-9]+:>"
+```
+
+Jeden Treffer außerhalb des Faktenchecks prüfen: Trägt ein `[!success]` ihn? Sonst umformulieren.
+
 ---
 
 ## Abschnitts-Auswahl: Was kommt rein, was fällt raus?

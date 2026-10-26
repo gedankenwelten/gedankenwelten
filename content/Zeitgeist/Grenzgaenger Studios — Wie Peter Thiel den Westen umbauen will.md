@@ -39,6 +39,8 @@ Quelle: [INVESTIGATIV-JOURNALISTEN: Wie Peter Thiel den Westen umbauen will](htt
 > **Tariq Hübsch** — Studierte Politikwissenschaft und Germanistik in Frankfurt (Magister). Lehrt seit 2011 deutsche Kulturgeschichte an der Jamia Ahmadiyya in Riedstadt, einer privaten Hochschule, und arbeitet im Lektorat. Beschäftigt sich seit 15 bis 20 Jahren mit Geopolitik und Zeitgeschehen aus philosophischer und religiöser Perspektive. Co-Gründer von Grenzgänger Studios, Co-Autor des Thiel-Buches. → [[DenkerVita/Tariq Hübsch|DenkerVita]]
 >
 > Gast bei **Tim Gabel**, Podcaster. Format: 4,5 Stunden Tiefengespräch.
+>
+> Über den, um den es geht: → [[DenkerVita/Peter Thiel|DenkerVita Peter Thiel]]
 
 ---
 

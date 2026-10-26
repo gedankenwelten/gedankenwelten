@@ -69,11 +69,14 @@ Fehler bisher am häufigsten waren, vor allem unsere eigenen und ihre Ursachen. 
 4. **Unsere eigenen Sätze** — hier liegen die gefährlichsten Fehler, weil niemand sie dem Sprecher
    zuschreiben kann: Aufmacher-Callout, `description:`, Einordnungen, Faktencheck-Callouts (stimmt
    das Urteil „falsch/vereinfacht“ selbst?), Nachbesprechung, Bildunterschriften, Wandspruch.
+   **Belegverben** („belegt“, „weist nach“, „dokumentiert“) nur, wo ein `[!success]` sie trägt — der
+   Schnellcheck steht im Aristoteles-Skill unter „Belegverben gehören dem Faktencheck“.
 5. **Lebende Personen** (Persönlichkeitsrecht, → Abmahnrisiko): Jede **Tatsachenbehauptung** über
    einen lebenden Menschen braucht einen Beleg; Meinung muss als Meinung erkennbar sein. Verdachts-
    äußerungen nur als solche, mit Quelle. Mitgliedschaften, Strafverfahren, Ämter, Zitate besonders
    genau („Linken-Mitglied statt parteilos“, Der Dara, 23.10.).
 6. **Links.** Wikilinks: `python3 .claude/scripts/check_links.py` (oder gezielt die Note).
+   Externe Links: `python3 .claude/scripts/link_pruefung.py --note "<pfad>"` (über den Pi, YouTube per oEmbed).
    Zeitstempel-Links springen an die richtige Stelle? Externe Links leben noch?
 7. **Bilder.** Standbilder nur aus frei lizenzierten Videos, mit Lizenzangabe; keine Screenshots aus
    Filmen und Serien großer Rechteinhaber.
@@ -142,7 +145,17 @@ für diesen Lauf.
 - **⚖️ riskant:** belegen oder entschärfen (als Einschätzung kennzeichnen, mit Quelle) oder streichen.
   Im Zweifel streichen.
 - **`aktualisiert:` NICHT bumpen** — Korrekturen sind keine Vertiefung (`rules/gedankenwelten.md`).
-- Vor dem Deploy noch einmal `doi_pruefung.py --note`, falls DOIs angefasst wurden.
+- **Querprüfen (seit 26.10.2026):** Jede inhaltliche Korrektur mit ein, zwei Stichwörtern in der
+  Nachbarschaft suchen — in der Note außerhalb des Faktenchecks, in allen Backlinks, in den verlinkten
+  Vitas. Verbindungssätze altern still: Die Lavender-Korrektur stand oben in der Grenzgänger-Note, ein
+  Verbindungssatz weiter unten behauptete noch das Alte, und die Varoufakis-Note trug einen Fehler
+  derselben Art. Jeden Treffer beurteilen (alte Behauptung, Korrektur oder nur das Wort?), Fundstellen
+  in fremden Notes ohne Bump mitkorrigieren und ins Register.
+  ```bash
+  python3 .claude/scripts/korrektur_quer.py --note "$NOTE" "Lavender" "Ziele identifiz"   # --bestand: ganzer Ordner
+  ```
+- Vor dem Deploy `doi_pruefung.py --note`, falls DOIs angefasst wurden, und immer
+  `link_pruefung.py --note` (tote Links → Exit 1; „gesperrt“ heißt Paywall — Herkunft prüfen).
 
 ### 5. Ins Fehler-Register
 
@@ -204,5 +217,7 @@ Kein Journal-Eintrag für eine reine Korrektur — es sei denn, ein Fehler hatte
 - [ ] Befundliste mit Schwere, Gesamturteil
 - [ ] Modernisierung angesprochen und nachgezogen (Banner → `/gedankenart`, description, Aufmacher, raetsel, Sokrates, Was seither geschah)
 - [ ] Korrekturen nach Andreas' Ja, ohne `aktualisiert:`-Bump
+- [ ] Jede Korrektur quergeprüft (`korrektur_quer.py`): Note, Backlinks, Vitas
+- [ ] `link_pruefung.py --note` → Exit 0
 - [ ] Jeder Befund ins Fehler-Register (`fehler_register.py eintragen`), Muster ansprechen
 - [ ] RAG, Commit (Note + `.claude/data/aristarch/fehler.jsonl`), Sync, Cortex-Log

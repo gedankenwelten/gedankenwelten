@@ -289,6 +289,15 @@ yt-dlp --get-description "URL"
 
 **Wenn die Beschreibung keine Quellen enthält:** Abschnitt weglassen, nicht als leere Section in die Note schreiben.
 
+> [!important] „Im Gespräch erwähnt" nur mit Zeitmarke (seit 26.10.2026)
+> Was nicht aus der Videobeschreibung kommt, sondern als *im Gespräch erwähnt* in die Liste geht, trägt
+> eine Zeitmarke: `- Benjamin Breen: *Tripping on Utopia* (2024) — [▶ 56:12](…&t=3372)`. Nennt der
+> Sprecher nur ein Thema („Kapitel 8 über Social Media und Jugendliche"), kein Werk, kommt kein Werk auf
+> die Liste — auch nicht das naheliegende. Titel und Jahr am Katalog prüfen (DNB, Verlag), nicht aus dem
+> Gedächtnis. Anlass: In der Grenzgänger-Note standen Haidts *Anxious Generation*, Bostroms
+> *Superintelligence* (statt *The Vulnerable World Hypothesis*) und Lemovs *Database of Dreams* (statt
+> *The Instability of Truth*) als „im Gespräch erwähnt" — zwei fielen nie, eins war das falsche Buch.
+
 > Manche Youtuber (Scobel, Jung & Naiv, Monitor u.a.) listen systematisch alle im Video genannten Werke und Links. Diese sind oft wertvoller als Transkript-Fundstellen, weil sie von den Sprechern selbst kuratiert wurden.
 
 ---
@@ -1105,7 +1114,13 @@ Ohne Satz ist der Saal stumm — kein Fehler, aber die Note gilt als unvollstän
 
 ```bash
 python3 .claude/scripts/doi_pruefung.py --note "Gedankenwelten/<Rubrik>/<Note>.md"
+python3 .claude/scripts/link_pruefung.py --note "Gedankenwelten/<Rubrik>/<Note>.md"
 ```
+
+**Dann die externen Links** (`link_pruefung.py`, seit 26.10.2026): ruft jeden Link über den Pi ab,
+YouTube über oEmbed, Gesperrtes über Jina nach. Exit 1 = ein Link ist tot → ersetzen oder streichen.
+„Gesperrt" (Paywall, Bot-Sperre) ist kein Fehler, aber eine Frage: Stammt der Link aus einer Recherche
+oder aus dem Gedächtnis? Aus dem Gedächtnis → durch eine erreichbare Quelle ersetzen.
 
 Änderungen committen und pushen. Pfad je nach Gerät:
 
@@ -1324,6 +1339,7 @@ erste überlas; ein dritter ist Übertreibung (Glätten ist der Tod der Stimme).
 - [ ] **Frontmatter-YAML-Check bestanden** (`python3 .claude/scripts/check_frontmatter.py` → Exit 0, Schritt 10b) — sonst bricht der ganze Quartz-Build ab
 - [ ] **Banner generiert & eingebettet (Schritt 10c):** Note immer; DenkerVita zugleich, wenn sie noch keins hat (`gen_banner.py` via fal.ai; verschiedene Künstlerhände für Note und Vita)
 - [ ] **DOI-Prüfung** (`doi_pruefung.py --note`) → Exit 0 — kein Phantom-DOI, nichts Zurückgezogenes als Beleg
+- [ ] **Link-Prüfung** (`link_pruefung.py --note`) → Exit 0 — kein toter Link; „gesperrte" auf Herkunft geprüft
 - [ ] Commit, Push & Deploy — Note im Browser geöffnet
 - [ ] **Floskel-Review (Schritt 12):** jede neue Note gegen `ki-tells.md` gelesen — max. **eine** negative Parallele pro Note (Zitate/Faktencheck ausgenommen), keine Häufungswort-Cluster, kein generischer Schluss; bei Änderungen re-ingestiert + neu deployed
 - [ ] Gedankenwelten GitHub-Repo synchronisiert (`cgsync` / `<vault>/.claude/scripts/sync-from-cortex.sh`)
