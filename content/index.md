@@ -32,6 +32,10 @@ Die Gedankenwelten (luc)
 >
 > Eine Pyramide aus Wählern, Influencern, Abgeordneten und Geldgebern trägt einen Mann. Im April 2026 sah Biersky sie von unten bröckeln. Was davon hielt, steht hier mit.
 
+> **26.10.** — [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
+>
+> Ist Peter Thiel ein Selfmade-Genie oder ein Geschöpf des Staates, den er überwinden will? Zwei Autoren lesen sein Leben als Programm: Monopol, Unsterblichkeit für wenige, Daten über alle.
+
 > **26.10.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
 >
 > Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt.
 
-> **25.10.** — [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
->
-> Die KI spiegelt uns und zeichnet dabei schärfer: Markus Gabriel erklärt, warum der Westen sie als Werkzeug missversteht und warum Europa ihr eine Ethik geben könnte, die weiter reicht als Kalifornien.
-
-> → *8 weitere in* [[Zeitgeist]]
+> → *9 weitere in* [[Zeitgeist]]
 
 ### Denker
 

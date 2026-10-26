@@ -800,10 +800,10 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Susanne Weigelin-Schwiedrzik]]
 
 ## Tahir Chaudhry
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Tahir Chaudhry]]
 
 ## Tariq Hübsch
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Tariq Hübsch]]
 
 ## Teresa Bücker
 **Status:** ✓ Vollanalyse → [[DenkerVita/Teresa Bücker]]

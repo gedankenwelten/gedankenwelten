@@ -106,6 +106,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## C
 
+**[[DenkerVita/Tahir Chaudhry|Tahir Chaudhry]]** — Journalist (* 1989), Redakteursausbildung bei der SZ, Gründer von Grenzgänger Studios; *Wem diente Jeffrey Epstein?* (2024), mit Tariq Hübsch *Peter Thiel. Palantir, der KI-Gott und das Ende des Menschen* (2026); „State-Made“ statt Selfmade-Milliardäre
+
 **[[DenkerVita/Christian Wiese|Christian Wiese]]** — evangelischer Theologe und Judaist, Martin-Buber-Professor für jüdische Religionsphilosophie an der Goethe-Universität Frankfurt, Leiter des Buber-Rosenzweig-Instituts; Hans-Jonas-Forscher, Herausgeber in der Buber-Werkausgabe, Gedenkbuch der hessischen Synagogen
 
 **[[DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)
@@ -247,6 +249,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Felix Goldbach|Felix Goldbach]]** — Energiewende-YouTuber und Speaker aus Hannover, Banker und Betriebswirt mit Vergangenheit in der Speicherbranche (FENECON); rechnet Photovoltaik, Speicher und Wärmepumpe als Investition vor, Co-Host von *Alles wird Strom* — mit Geschäftsinteresse (Vermittlungsplattform Money for Future)
 
 ## H
+
+**[[DenkerVita/Tariq Hübsch|Tariq Hübsch]]** — Dozent für deutsche Kulturgeschichte (Jamia Ahmadiyya, Riedstadt), Grenzgänger Studios; Thiels Antichrist-Theologie, esoterisches Schreiben, Kybernetik und die Frage nach der Seele
 
 **[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)
 

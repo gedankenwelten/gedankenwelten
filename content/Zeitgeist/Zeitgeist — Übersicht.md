@@ -211,7 +211,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]] — Eine Namensgleichheit genügt: NIUS macht eine Unbeteiligte zur Mord-Komplizin, die Meute jagt sie — und die Korrektur ist ein versteckter Absatz.
 - [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal|Topfvollgold — NiUS erfindet Islam-Skandal]]
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus|Trump allein zu Haus — Das One-and-Done-Syndrom]]
-- [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
+- [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]] — Eine Pyramide aus Wählern, Influencern, Abgeordneten und Geldgebern trägt einen Mann. Im April 2026 sah Biersky sie von unten bröckeln. Was davon hielt, steht hier mit.
 - [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]] — Ein Fischschwarm braucht keinen Dirigenten: Uwe Krüger zeigt 2017, wie Leitmedien gleich klingen, ohne dass jemand lenkt — und neun Jahre später wird nachgeprüft, was davon trägt.
 - [[Zeitgeist/Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]] — Ein Chefredakteur im Vorstand der Atlantik-Brücke, ein Foto, aus dem er herausgeschnitten wurde: Uwe Krüger über Nähe zwischen Journalisten und Eliten, und warum sich ihr Einfluss nicht beweisen lässt.
 - [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa|Varoufakis — 2008 Crash, Populismus und Europa]]

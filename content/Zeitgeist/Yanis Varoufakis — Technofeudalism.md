@@ -176,7 +176,7 @@ Bria kartiert die politische Machtarchitektur von Big Tech — privatisierte Sou
 
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
-Thiel ist der paradigmatische Cloud-Feudalherr in Varoufakis' Analyse: Palantir als Cloud Capital, das nicht Waren produziert, sondern Märkte *ersetzt*. Die Grenzgänger-Recherche zeigt den konkreten Einzelakteur; Varoufakis liefert die systemische Erklärung, warum solche Akteure überhaupt entstehen konnten — nicht durch Genialität, sondern durch QE-Liquidität, die in Cloud Capital floss.
+Thiel kommt bei Varoufakis nicht vor, passt aber in sein Bild des Cloud-Feudalherrn: Palantir als Cloud Capital, das nicht Waren produziert, sondern Märkte *ersetzt*. Die Grenzgänger-Recherche zeigt den konkreten Einzelakteur; Varoufakis liefert die systemische Erklärung, warum solche Akteure überhaupt entstehen konnten — nicht durch Genialität, sondern durch QE-Liquidität, die in Cloud Capital floss.
 
 ### → [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 

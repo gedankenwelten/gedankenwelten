@@ -25,8 +25,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 38,
-   "aufrufe": 52
+   "leser": 39,
+   "aufrufe": 53
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -40,8 +40,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 25,
-   "aufrufe": 26
+   "leser": 24,
+   "aufrufe": 25
   },
   {
    "pfad": "/DenkerVita/Christine-Dankbar",
@@ -310,13 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 88,
-     "aufrufe": 107
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 20,
-     "aufrufe": 26
+     "leser": 87,
+     "aufrufe": 106
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -324,9 +319,14 @@
      "aufrufe": 21
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 18,
+     "aufrufe": 24
+    },
+    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 10,
-     "aufrufe": 12
+     "leser": 11,
+     "aufrufe": 13
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -339,14 +339,14 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 6,
      "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
@@ -424,6 +424,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 2,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Kalayo",
      "leser": 2,
      "aufrufe": 3
@@ -445,6 +450,11 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
      "leser": 2,
      "aufrufe": 2
     },
@@ -539,11 +549,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-     "leser": 1,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Denker/Walther-Ziegler-Heidegger-in-60-Minuten",
      "leser": 1,
      "aufrufe": 2
@@ -574,7 +579,17 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Chantal-Mouffe-Das-Politische-und-die-Politik",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Erich-Fromm-Die-Welt-lieben,-SRF-1979",
      "leser": 1,
      "aufrufe": 1
     },
@@ -590,21 +605,6 @@
     },
     {
      "pfad": "/Denker/Hans-Peter-Dürr-Die-neue-Physik",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Kimberle-Crenshaw-Intersektionalitaet-und-Critical-Race-Theory",
      "leser": 1,
      "aufrufe": 1
     }
@@ -635,8 +635,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 38,
-     "aufrufe": 52
+     "leser": 39,
+     "aufrufe": 53
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -650,8 +650,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 25,
-     "aufrufe": 26
+     "leser": 24,
+     "aufrufe": 25
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 99,
-     "aufrufe": 120
+     "leser": 100,
+     "aufrufe": 121
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1174,6 +1174,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 6,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 6,
      "aufrufe": 6
@@ -1210,11 +1215,6 @@
     },
     {
      "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
      "leser": 6,
      "aufrufe": 6
     }
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 99,
-     "aufrufe": 120
+     "leser": 100,
+     "aufrufe": 121
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1479,6 +1479,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 6,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 6,
      "aufrufe": 6
@@ -1515,11 +1520,6 @@
     },
     {
      "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
      "leser": 6,
      "aufrufe": 6
     }
@@ -1559,12 +1559,12 @@
      "aufrufe": 18
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 14,
-     "aufrufe": 14
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 15,
+     "aufrufe": 15
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 14,
      "aufrufe": 14
     },
@@ -1789,6 +1789,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Denker/Walther-Ziegler-Nietzsche-in-60-Minuten",
      "leser": 2,
      "aufrufe": 2
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Sven-Beckert",
      "leser": 2,
      "aufrufe": 2
     }
