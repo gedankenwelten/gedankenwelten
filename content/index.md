@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
 
+> **26.10.** — [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
+>
+> Eine Pyramide aus Wählern, Influencern, Abgeordneten und Geldgebern trägt einen Mann. Im April 2026 sah Biersky sie von unten bröckeln. Was davon hielt, steht hier mit.
+
 > **26.10.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
 >
 > Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Die KI spiegelt uns und zeichnet dabei schärfer: Markus Gabriel erklärt, warum der Westen sie als Werkzeug missversteht und warum Europa ihr eine Ethik geben könnte, die weiter reicht als Kalifornien.
 
-> **25.10.** — [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]]
->
-> Je moralischer ein Unternehmen, desto profitabler auf lange Sicht: Markus Gabriel liest Adam Smiths unsichtbare Hand als menschliche Freiheit und will jeder Firma einen Chief Philosophy Officer geben.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Denker
 

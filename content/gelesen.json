@@ -464,11 +464,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Heinz-Bude",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Janina-Muetze",
      "leser": 2,
      "aufrufe": 2
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Kimberle-Crenshaw-Intersektionalitaet-und-Critical-Race-Theory",
      "leser": 1,
      "aufrufe": 1
     }
