@@ -124,6 +124,27 @@ Jeder Abschnitt braucht mindestens **einen Satz eigene Einordnung**. Das kann se
 Bei Denker-Notes: explizite `> [!note] Eigene Einschätzung`-Callouts (min. 2–3).
 Bei Zeitgeist-Notes: eingebettete Einordnung im Fließtext (subtiler, aber vorhanden).
 
+### Was andere sagen: nur mit Zeitmarke (seit 26.10.2026)
+
+Gibt die Note wieder, was ein **Dritter** sagt — eine Kritikerin auf dem Podium, ein Moderator, ein
+Gesprächspartner, oder der Sprecher über eine andere Person —, steht hinter dem Satz eine **Zeitmarke**.
+Findet sich keine Stelle im Transkript, bleibt der Satz draußen oder wird ausdrücklich unsere Einordnung
+(„das ist unsere Zuspitzung“). Dasselbe gilt für **Nachsätze**, die eine Aussage abrunden: Sie sind der
+bequemste Ort, eine eigene Pointe in fremden Mund zu legen.
+
+Anlass: „zu glatt formuliert“ war im Fehler-Register die zweithäufigste Ursache unserer Fehler (26 Fälle bis
+26.10.2026). Typisch: Einer Kritikerin wurde ein Einwand zugeschrieben, den ein anderer Redner gemacht hatte,
+und eine Inline-Frage baute darauf auf; ein Sprecher bekam einen Nachsatz („nicht von Liebe zu dem, was sie
+aufbauen wollen“), den er nie gesagt hat; eine deutsche Paraphrase des Sprechers stand als wörtliches Zitat
+einer dritten Person da. Mit Zeitmarke fällt das beim Schreiben auf, ohne erst beim Gegenlesen.
+
+- **Namen statt Rollen**, wenn die Quelle sie nennt (Videobeschreibung, Moderation): „die Germanistin Shaswati
+  Mazumdar“, nicht „eine indische Kritikerin“.
+- **Paraphrase eines Sprechers über einen Dritten** als solche kennzeichnen („er fasst Huang so zusammen“) und,
+  wo möglich, den Wortlaut der Primärquelle danebenstellen.
+- Die Einwände, auf die der Sprecher antwortet, und seine **Antworten** gehören zusammen. Wer nur den Einwand
+  bringt, lässt den Sprecher schlechter dastehen; wer nur die Antwort bringt, nimmt dem Einwand die Kraft.
+
 ---
 
 ## Abschnitts-Auswahl: Was kommt rein, was fällt raus?
@@ -225,6 +246,7 @@ Bevor Aristoteles die Note als fertig betrachtet:
 □ ≥ 5 direkte Zitate mit Timestamp?
 □ Jeder Abschnitt hat eigene Einordnung (nicht nur Referat)?
 □ Kein Abschnitt der nur "X sagte Y" ist ohne Kommentar?
+□ Jede Wiedergabe von Dritten (Kritiker, Moderator, Gesprächspartner) und jeder abrundende Nachsatz hat eine Zeitmarke — sonst raus oder als unsere Einordnung markiert?
 □ Journalistisches Register gewählt + eine Zeile `→ [STIL: <Hand>] …` an Andreas angekündigt (vor dem Schreiben)? → `references/journalismus.md`
 □ Register als `stimme:` (art: register, geliehen: …) ins Frontmatter + ✒️ gebaut (`stimmen.py kaestchen`)?
 □ Schluss-Audit gemacht — *„Was verrät hier noch die Maschine?"* (Negative Parallelismen, KI-Häufungswörter, Kopula-Vermeidung, generischer Schluss)? → `../gedankenpoesie/references/ki-tells.md`
@@ -285,6 +307,7 @@ Alle Details zu Fragetypen, Qualitätsregeln und Format → siehe **Sokrates-Ski
 | Zitat ohne Kontext | Leser versteht nicht warum | Immer Einleitung + Kommentar |
 | Alles abdecken wollen | Wird dünn | Auswählen, Mut zur Lücke |
 | Aus dem Gedächtnis schreiben | Ungenau, vage | Immer mit Transkript vor Augen |
+| Einwand oder Nachsatz ohne Zeitmarke | Eigene Pointe landet in fremdem Mund | Stelle im Transkript suchen, sonst als unsere Einordnung kennzeichnen |
 
 ---
 
