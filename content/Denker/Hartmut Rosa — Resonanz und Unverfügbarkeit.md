@@ -1,12 +1,17 @@
 ---
 title: Hartmut Rosa — Resonanz und Unverfügbarkeit
-aktualisiert: 2026-03-22
+description: "Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern."
+raetsel: "Wer die Polarlichter bucht, bekommt sein Geld zurück. Den Himmel nicht."
+date: 2019-12-12
+aktualisiert: 2026-10-26
 tags:
+  - denker
   - philosophie
   - soziologie
   - resonanz
   - beschleunigung
   - weltbeziehung
+  - kapitalismus
   - quelle
 aliases:
   - Rosa
@@ -26,20 +31,23 @@ aliases:
 
 </details>
 
-Quelle: Vortrag und Diskussion, Europa-Universität Flensburg (YouTube)
+> [!abstract] Worum es geht
+> Was uns am tiefsten berührt, lässt sich nicht bestellen, nicht planen und nicht festhalten. Hartmut Rosa nennt es Resonanz und zeigt, warum eine Gesellschaft, die alles verfügbar machen will, sie unwahrscheinlich macht. Im Flensburger Audimax trägt er die These 2019 vor und stellt sich danach drei Kritikern: einer Germanistin aus Delhi, einem Studenten und dem Präsidenten der Universität. Man lässt sich auf einen Soziologen ein, der eine radikale Revolution will und keine Rückkehr in die gute alte Zeit.
+
+Quelle: [Resonanz, Unverfügbarkeit und das Mediopassiv](https://www.youtube.com/watch?v=4lAwdWchjz4) (Europa-Universität Flensburg, 12.12.2019, 1:38 Std.) — Abschluss der Initiative „Eine Uni – Ein Buch“, in der sich die EUF ein Semester lang mit Rosas *Unverfügbarkeit* beschäftigt hat
 
 > [!info] Wer spricht?
-> **Hartmut Rosa** (*1965, Lörrach, Schwarzwald*) — Soziologe, der nicht fragt: Wie wird Gesellschaft gerechter? Sondern: Wie wird Leben *lebendig*?
+> **Hartmut Rosa** (*15.08.1965 in Lörrach*) — Soziologe, der zuerst fragt, wie Leben lebendig bleibt, und erst dann, wie Gesellschaft gerechter wird.
 >
-> Rosa wächst in einem Schwarzwalddorf auf — wochenlang für eine Schallplatte sparen, um sie dann monatelang zu hören. Dieses Kindheitserlebnis bleibt für sein Denken konstitutiv. Nicht als Nostalgie, sondern als Kontrastfolie: Was ist verloren gegangen, indem wir so viel gewonnen haben? Er studiert Politikwissenschaft, Philosophie und Geschichte in Freiburg, London und Melbourne — und promoviert in Jena, stark beeinflusst von Charles Taylor und dessen Arbeit über Authentizität und moderne Identität. Seit 2005 Professor für Allgemeine und Theoretische Soziologie an der Friedrich-Schiller-Universität Jena, seit 2013 auch am Max-Weber-Kolleg Erfurt.
+> Aufgewachsen ist er in Grafenhausen im Hochschwarzwald. Wochenlang hat er dort für eine Schallplatte gespart, und sie war dann eine wochenlange Quelle von Freude; die Erinnerung kehrt im Vortrag wieder. Er studiert Politikwissenschaft, Germanistik und Philosophie in Freiburg, mit einem Semester an der London School of Economics, und promoviert 1997 an der Humboldt-Universität Berlin über Charles Taylor, betreut von Herfried Münkler und Axel Honneth. 2004 habilitiert er sich in Jena. Seit 2005 ist er dort Professor für Allgemeine und Theoretische Soziologie, seit 2013 zugleich Direktor des Max-Weber-Kollegs in Erfurt ([Lebenslauf, Uni Erfurt](https://www.uni-erfurt.de/fileadmin/fakultaet/max-weber-kolleg/00_Neue_Struktur/02_Personenseiten/00_Direktorium/Rosa/CV_Rosa_07_2025.pdf)).
 >
-> Wichtigste Werke: *Beschleunigung* (2005), *Resonanz — Eine Soziologie der Weltbeziehung* (2016), *Unverfügbarkeit* (2018)
+> Wichtigste Werke: *Beschleunigung* (2005), *Resonanz — Eine Soziologie der Weltbeziehung* (2016), *Unverfügbarkeit* (2018), *Situation und Konstellation* (2026)
 > Kernkonzepte: Resonanz, Unverfügbarkeit, Soziale Beschleunigung, Dynamische Stabilisierung, Mediopassiv
 >
 > → [[DenkerVita/Hartmut Rosa|DenkerVita]]
 
 > [!quote] Kernthese
-> Gelingendes Leben und Glück passieren dort, wo wir die Dinge **nicht** vollständig unter Kontrolle haben.
+> Gelingendes Leben und Glück passieren dort, wo wir die Dinge **nicht** vollständig unter Kontrolle haben. [▶ 9:54](https://www.youtube.com/watch?v=4lAwdWchjz4&t=594)
 
 ---
 
@@ -47,63 +55,60 @@ Quelle: Vortrag und Diskussion, Europa-Universität Flensburg (YouTube)
 
 Resonanz ist kein Wohlgefühl. Kein Einklang. Kein Konsens. Es ist der Moment, in dem etwas in der Welt einen wirklich *berührt* — und man dadurch verändert wird.
 
-Rosa beschreibt es am Beispiel eines Pianisten (über die Mondscheinsonate):
-> *„Jedes Mal, wenn er sie spielt, entzieht sie sich irgendwie. Jedes Mal klingt sie anders. Da ist irgendetwas an der Sache, die er nicht völlig im Griff hat — das kann er nicht optimieren. Und das ist für ihn Glück."*
+Rosa erzählt, wie in seinem Buch, von einem deutsch-russischen Pianisten, den man fragt, ob er die Mondscheinsonate überhaupt noch hören kann, so oft wie er sie gespielt hat. Er kann, sagt er, und zwar gerade deshalb:
+> *„Jedes Mal, wenn er sie spielt, entzieht sie sich eben irgendwie […], jedes Mal klingt sie anders. Da ist irgendetwas an der Sache, die er nicht völlig im Griff hat, dass er nicht optimieren kann, und er sagt: Und das ist für ihn Glück."* [▶ 9:54](https://www.youtube.com/watch?v=4lAwdWchjz4&t=594)
 
-Resonanz hat drei entscheidende Merkmale — sie ist im **Doppelten Sinne unverfügbar**:
+Resonanzerfahrungen sind für Rosa **im doppelten Sinne unverfügbar**: Man weiß nicht, wann und ob sie eintreten, und man weiß nicht, was aus ihnen hervorgeht [▶ 2:18](https://www.youtube.com/watch?v=4lAwdWchjz4&t=138). Später fügt er ein Drittes hinzu, die Dauer:
 
-1. **Man weiß nicht, ob sie eintritt** — kein Versprechen, keine Garantie
-2. **Man weiß nicht, wie lange sie dauert** — kein Zeitplan
-3. **Man weiß nicht, was dabei herauskommt** — kein Ergebnis vorhersagbar
+> *„Resonanz bedeutet: Du weißt nicht, ob sie überhaupt eintritt, du weißt nicht, wie lange sie dauert, und das Schlimmste: du weißt nicht, was dabei herauskommt. Sich auf eine Beziehung einzulassen, auf eine Erfahrung, die wirkliche Resonanzqualität hat, bedeutet, sich auf ein Wagnis einzulassen."* [▶ 9:08](https://www.youtube.com/watch?v=4lAwdWchjz4&t=548)
 
-Sich auf Resonanz einzulassen bedeutet, sich auf ein **Wagnis** einzulassen. Das andere — die Person, das Werk, die Natur — hat ein Eigenleben, das sich der Kontrolle entzieht.
-
-> *„Du weißt nicht ob sie überhaupt eintritt, du weißt nicht wie lange sie dauert und das Schlimmste: du weißt nicht was dabei herauskommt. Man sich auf eine Beziehung einzulassen in der wirkliche Resonanz-Qualität hat bedeutet sich auf ein Wagnis einzulassen."* [▶ 9:08](https://www.youtube.com/watch?v=4lAwdWchjz4&t=548)
+Das andere — die Person, das Werk, die Natur — hat ein Eigenleben, das sich der Kontrolle entzieht. „Du hast dieses andere nicht völlig unter Kontrolle, mit dem du in Kontakt trittst, und du hast den Prozess nicht unter Kontrolle."
 
 > [!note] Was Resonanz nicht ist
 > Resonanz ist nicht Echo. Ein Echo gibt zurück, was man hineinruft — unverändert. Resonanz bedeutet, dass das Gegenüber antwortet *aus sich selbst heraus* — und man dadurch nicht mehr derselbe ist.
 
 > [!note] Eigene Einschätzung
-> Das Wagnis-Motiv trifft etwas sehr Wahres — und gleichzeitig etwas schwer Zumutbares. Wer gelernt hat, sich durch Kontrolle zu schützen, erlebt Resonanz als Bedrohung, nicht als Chance. Die Frage ist nicht nur strukturell (fehlende Zeit), sondern auch psychologisch: Viele Menschen haben verlernt oder nie gelernt, sich auf ungewisse Prozesse einzulassen. Hier liegt der blinde Fleck in Rosas Konzept: Er setzt eine innere Bereitschaft voraus, die selbst Arbeit — und oft Heilung — braucht. Goenkas Vipassana ist in diesem Sinne ein Trainingsweg *genau für diese Bereitschaft*.
+> Das Wagnis-Motiv trifft etwas sehr Wahres — und gleichzeitig etwas schwer Zumutbares. Wer gelernt hat, sich durch Kontrolle zu schützen, erlebt Resonanz als Bedrohung, nicht als Chance. Die Frage ist nicht nur strukturell (fehlende Zeit), sondern auch psychologisch: Viele Menschen haben verlernt oder nie gelernt, sich auf ungewisse Prozesse einzulassen. Hier liegt ein blinder Fleck in Rosas Vortrag: Er setzt eine innere Bereitschaft voraus, die selbst Arbeit — und oft Heilung — braucht. Ob sich diese Bereitschaft üben lässt, fragt die Note zu [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit|Simone Weil]].
 
 > [!question] Weitergedacht
-> Rosa sagt, Resonanz sei nicht herstellbar. Aber *lässt sich die Bereitschaft zur Resonanz herstellen?* Und wenn ja — ist das Training zur Offenheit (Vipassana, Therapie, Meditation) nicht selbst wieder eine Form der Verfügbarmachung des Unverfügbaren?
+> Rosa sagt, Resonanz sei nicht herstellbar. Aber *lässt sich die Bereitschaft zur Resonanz herstellen?* Und wenn ja — ist das Training zur Offenheit (Therapie, Meditation, ein Instrument lernen) nicht selbst wieder eine Form der Verfügbarmachung des Unverfügbaren?
 
 ---
 
 ## 2. Das Mediopassiv — die Grammatik der Resonanz
 
-Einer der faszinierendsten Gedanken im Vortrag: Resonanz hat eine eigene **grammatische Form** — das **Mediopassiv**.
+Einer der faszinierendsten Gedanken im Vortrag: Resonanz braucht eine eigene **grammatische Form**, die unsere Sprache kaum hat — das **Mediopassiv**.
 
-- Aktiv: *„Ich höre Musik."* — ich tue etwas
-- Passiv: *„Ich werde von Musik gehört."* — unmöglich, macht keinen Sinn
-- **Mediopassiv:** *„Mich hat es berührt."* — es geschieht mir, und ich lasse es geschehen
+- **Aktiv:** *„ich werfe"* — ich bin Täter
+- **Passiv:** *„ich werde geworfen"* — ich bin Opfer einer Handlung
+- **Medium:** beteiligt sein an einer Sache — weder Täter noch Opfer
 
-Es ist weder rein aktiv noch rein passiv. Man öffnet sich, man ist empfänglich — aber das Erlebnis selbst kommt von irgendwo anders. Diese grammatische Form zeigt, dass Resonanz keine Leistung ist, die man erbringen kann. Man kann sich nur *dafür aufstellen*.
+> *„Unsere Sprache kann nur aktiv — ich bin Täter — oder passiv — ich bin Opfer einer Handlung. Ich werfe, ich werde geworfen. Es gibt aber andere Sprachen, z. B. Sanskrit oder Hebräisch oder Altgriechisch, da gibt es ein Medium oder Mediopassiv: beteiligt sein an einer Sache."* [▶ 14:29](https://www.youtube.com/watch?v=4lAwdWchjz4&t=869)
 
-Rosa nennt Sanskrit, Hebräisch und Altgriechisch als Sprachen, die diese Form noch kennen:
-> *„Unsere Sprache kann nur: aktiv — ich bin Täter — oder passiv — ich bin Opfer einer Handlung. Ich werfe, ich werde geworfen. Es gibt aber andere Sprachen, z.B. Sanskrit oder Hebräisch oder Altgriechisch — da gibt es ein Medium oder Mediopassiv: beteiligt sein an einer Sache."* [▶ 15:14](https://www.youtube.com/watch?v=4lAwdWchjz4&t=914)
+Rosa macht daraus eine Weltlage. Wir machen eine Sache gemeinsam, „teilmächtig, nicht allmächtig, nicht ohnmächtig" — eine Haltung, die vielleicht einen Ausweg aus unserer Misere anzeigt [▶ 15:14](https://www.youtube.com/watch?v=4lAwdWchjz4&t=914). Im Deutschen behelfen wir uns mit Wendungen wie *„es hat mich berührt"*: Es geschieht mir, und ich lasse es geschehen. Man öffnet sich, man ist empfänglich, aber das Erlebnis selbst kommt von irgendwo anders. Resonanz ist darum keine Leistung, die man erbringen kann. Man kann sich nur *dafür aufstellen*.
 
 > [!note] Eigene Einschätzung
-> Das ist einer der philosophisch stärksten Momente bei Rosa. Die Sprache formt nicht nur, wie wir über Erlebnisse reden — sie formt, was wir überhaupt als möglich erleben können. Wer nur Täter oder Opfer kennt, kann Resonanz nicht einmal benennen, geschweige denn anstreben. Das Mediopassiv ist nicht nur Grammatik — es ist eine Bewusstseinsstufe. Der buddhistische Begriff *Upekkha* (Gleichmut ohne Gleichgültigkeit) beschreibt ähnliches: weder aktiv kontrollieren noch passiv erleiden — sondern offen und klar gegenwärtig sein. Die westliche Moderne hat die sprachliche und damit mentale Infrastruktur für diese Haltung weitgehend abgebaut.
+> Das ist einer der philosophisch stärksten Momente bei Rosa. Die Sprache formt nicht nur, wie wir über Erlebnisse reden — sie formt, was wir überhaupt als möglich erleben können. Wer nur Täter oder Opfer kennt, kann Resonanz nicht einmal benennen, geschweige denn anstreben. „Teilmächtig" ist dafür ein gutes Wort: Es nimmt dem Handelnden die Allmacht, ohne ihn ohnmächtig zu machen. Die westliche Moderne hat die sprachliche und damit mentale Infrastruktur für diese Haltung weitgehend abgebaut.
 
 ---
 
 ## 3. Unverfügbarkeit — das Monster, das wir selbst erschaffen
 
-Die Moderne hat ein Programm: alles verfügbar machen. Wissenschaftlich, technisch, ökonomisch. Mehr Kontrolle, mehr Optionen, mehr Zugriff.
+Die Moderne hat ein Programm: alles verfügbar machen. Wissenschaftlich, technisch, ökonomisch. Mehr Kontrolle, mehr Optionen, mehr Zugriff. „Wir wollen alles unter Kontrolle haben", sagt Rosa, „und haben aber praktisch fast nichts unter Kontrolle."
 
-Rosa zeigt das Paradox am **Atomkraft-Beispiel**: Als Oppenheimer die Kernspaltung entdeckte, feierte er es — wir machen Materie von innen verfügbar, wir werden zu Schöpfern. Das Ergebnis? Die monströseste Erfahrung von Unkontrollierbarkeit, die die Menschheit kennt: die Angst vor nuklearer Katastrophe.
+Sein Lieblingsbeispiel ist die **Atomkraft**. In Rosas Erzählung feiern Oppenheimer und die Leute um ihn den Zugriff auf die Kernspaltung als Triumph: Wir machen Materie von innen verfügbar, wir werden zu Schöpfern. (Entdeckt haben die Kernspaltung 1938 Otto Hahn und Fritz Straßmann; Oppenheimer leitete später den Bau der Bombe in Los Alamos.) Das Ergebnis war „monströse Unverfügbarkeit": die Angst vor der nuklearen Katastrophe, die die 60er, 70er und 80er Jahre beherrschte. „Wenn das Ding explodiert, sind wir komplett ohnmächtig." [▶ 11:26](https://www.youtube.com/watch?v=4lAwdWchjz4&t=686)
 
 > [!warning] Der Umschlagpunkt
 > Die Steigerung der Verfügbarkeit schlägt ab einem bestimmten Punkt um in **monströse Unverfügbarkeit**. Wir wollten alles kontrollieren — und haben fast nichts unter Kontrolle.
 
 Das **Spotify-Beispiel** — persönlich und direkt:
-Rosa beschreibt, wie er als Jugendlicher im Schwarzwald wochenlang für eine Schallplatte sparte — Pink Floyd. Der Genuss dieser einen Platte war wochenlang intensiv. Dann kamen CDs, er kaufte sechs auf einmal. Der Gewinn stieg nicht um das Sechsfache. Heute: 50 Millionen Musiktitel auf Knopfdruck. Der Resonanz-Gewinn? Fraglich.
+Rosa erzählt, wie er als Jugendlicher im Schwarzwald wochenlang für eine Schallplatte sparte — Pink Floyd, *The Final Cut*. Die eine Platte war wochenlang eine Quelle der Freude. Dann kamen CDs, und als das Geld mehr wurde, kaufte er sechs auf einmal, statt sie vorher anzuhören. Der Gewinn stieg nicht um das Sechsfache. Heute: 50 Millionen Musiktitel für zehn Euro im Monat.
 
-> *„Im Schwarzwalddorf konnte ich sonst kaum Musik hören. Ich erinnere mich noch, wie ich oft wochenlang gespart habe, um eine Platte zu kaufen — Pink Floyd, The Final Cut, zum Beispiel. Und irgendwann hatte ich sie dann — und das war eine wochenlange Quelle von Freude. Ich habe jetzt 50 Millionen Titel mit einem Klick vor mir — und ich finde ehrlich gesagt, individuell erlebt hat Musik eher ein Problem."* [▶ 61:22](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3682)
+> *„Im Schwarzwalddorf konnte ich sonst kaum Musik hören. Ich erinnere mich noch, dass ich oft wochenlang gespart habe, um eine Platte zu kaufen, Pink Floyd, The Final Cut zum Beispiel. Und irgendwann hatte ich sie dann, und das war eine wochenlange Quelle von Freude. […] Ich will nur darüber nachdenken, ob möglicherweise die Tatsache, dass ich jetzt 50 Millionen Titel mit Klick vor mir habe, […] das individuelle Erleben von Musik tatsächlich eher problematisch gemacht hat."* [▶ 61:22](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3682) · [▶ 62:07](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3727)
 
-*Mehr Verfügbarkeit ≠ mehr Resonanz.*
+*Mehr Verfügbarkeit ≠ mehr Resonanz.* Er will Spotify nicht verbieten, und er will auch nicht zurück in eine Welt ohne Strom. Er will darüber nachdenken.
+
+Sein „neues Lieblingsbeispiel für Verfügbarmachen" ist die Kreuzfahrt mit Polarlicht-Garantie. Darauf hat man einen Rechtsanspruch: Bleibt der Himmel dunkel, gibt es Geld zurück. Dass das Polarlicht einen berührt, verwandelt, dass daraus etwas Neues hervorgeht, das lässt sich nicht kaufen [▶ 67:27](https://www.youtube.com/watch?v=4lAwdWchjz4&t=4047). Davor beschreibt er, wovon die Werbung lebt: Sie verspricht Resonanz und verkauft ein Objekt. „Kauf dieses Auto, und du hast eine ganz neue Weltbeziehung", „kauf diesen Apfel, und du wirst Natur auf deiner Zunge spüren" [▶ 66:42](https://www.youtube.com/watch?v=4lAwdWchjz4&t=4002).
 
 > [!note] Eigene Einschätzung
 > Rosas Schwarzwald-Erinnerung ist kein Argument für Armut oder Einschränkung — es ist eine Beobachtung über Aufmerksamkeit und Beziehung. Eine einzige Schallplatte, die man wochenlang erwartet und dann wieder und wieder hört, erzwingt eine Tiefe des Zuhörens, die 50-Millionen-Bibliotheken aktiv verhindern. Das Paradox: Mehr Auswahl bedeutet weniger Entscheidung — und wo keine echte Entscheidung ist, ist auch keine echte Bindung. Das gilt weit über Musik hinaus: für Beziehungen, Berufe, Überzeugungen. Die Zumutung der Moderne ist nicht Armut, sondern Bindungslosigkeit durch Überfluss.
@@ -115,26 +120,26 @@ Rosa beschreibt, wie er als Jugendlicher im Schwarzwald wochenlang für eine Sch
 
 ## 4. Beschleunigung — der strukturelle Feind der Resonanz
 
-Rosa wurde durch sein Konzept der **sozialen Beschleunigung** bekannt (früheres Buch). Die Verbindung zur Resonanz:
+Rosa wurde durch sein Konzept der **sozialen Beschleunigung** bekannt (*Beschleunigung*, 2005). Die Verbindung zur Resonanz:
 
 In einer Gesellschaft unter permanentem Zeitdruck ist es **rational**, sich *nicht* auf Resonanzprozesse einzulassen — denn:
-- Man weiß nicht ob sie eintreten
-- Man weiß nicht wie lange sie dauern
-- Man weiß nicht was dabei herauskommt
+- Man weiß nicht, ob sie eintreten
+- Man weiß nicht, wie lange sie dauern
+- Man weiß nicht, was dabei herauskommt
 
-Wer einen Zug erwischen muss, kann sich nicht auf einen Prozess einlassen, dessen Dauer ungewiss ist. Die Struktur der modernen Gesellschaft macht Resonanz strukturell unwahrscheinlich — nicht weil Menschen sie nicht wollen, sondern weil die Bedingungen dagegen arbeiten.
+Wer einen Zug erwischen muss, kann sich nicht auf einen Prozess einlassen, dessen Dauer ungewiss ist. Die Struktur der modernen Gesellschaft macht Resonanz unwahrscheinlich — nicht weil Menschen sie nicht wollen, sondern weil die Bedingungen dagegen arbeiten.
 
-> *„Es gibt einen strukturellen Zwang, Resonanz unwahrscheinlich zu machen. In einer Gesellschaft die permanent unter Zeitnot ist: wenn du schnell rennen musst weil der Zug kommt, ist es irrational, sich auf einen Prozess einzulassen der unverfügbar ist, der nicht weiß wie lange dauert und nicht was der dann mit dir und aus dir am Ende macht."* [▶ 9:08](https://www.youtube.com/watch?v=4lAwdWchjz4&t=548)
+> *„Es gibt einen strukturellen Zwang, Resonanz unwahrscheinlich zu machen. […] In einer Gesellschaft, die permanent unter Zeitnot ist: Wenn du schnell rennen musst, weil der Zug kommt, ist es irrational, sich auf einen Prozess einzulassen, der unverfügbar ist, der nicht weiß, wie lange er dauert und nicht, was der dann mit dir und aus dir am Ende macht."* [▶ 9:08](https://www.youtube.com/watch?v=4lAwdWchjz4&t=548)
 
-Rosa präzisiert: Es ist nicht Böswilligkeit — es ist **dynamische Stabilisierung**. Diese Gesellschaft kann sich nur durch permanente Steigerung erhalten. Wachsen, beschleunigen, innovieren — oder zusammenbrechen. Diese Logik überträgt sich auf jedes Individuum: Nicht wer man ist zählt, sondern welche Parameter man steigern kann.
+Dahinter steht, was Rosa **dynamische Stabilisierung** nennt: Diese Gesellschaft kann sich nur durch permanente Steigerung erhalten. Sie muss wachsen, beschleunigen und innovieren, um ihre Struktur zu erhalten, „weil sie sonst zusammenbricht" [▶ 6:50](https://www.youtube.com/watch?v=4lAwdWchjz4&t=410). Die Logik reicht bis ins Einzelne: Wir parametrisieren das Leben und optimieren dann die Parameter, Drittmittelquote und Zitationen an der Hochschule, Schrittzahl, Blutdruck und Kalorien im Alltag. „Wir stehen immer auf Rolltreppen nach unten." [▶ 7:35](https://www.youtube.com/watch?v=4lAwdWchjz4&t=455)
 
 ---
 
 ## 5. Die Welt als Aggressionspunkt
 
-Rosa beschreibt eine moderne Grundhaltung zur Welt: sie begegnet uns morgens als **Liste von Dingen, die erledigt werden müssen**. Der Wecker ist ein Alarmknopf. Die Welt ist ein Hindernis, das bearbeitet werden muss.
+Rosa beschreibt eine moderne Grundhaltung zur Welt: Morgens weckt uns ein Alarm — *alarm clock* —, und dann begegnet sie uns als **Liste von Dingen, die wir tun müssen**. Die Liste explodiert, und sie führt zu einer aggressiven Grundhaltung [▶ 63:39](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3819).
 
-Diese aggressive Grundhaltung überträgt sich, so Rosa, in alle Bereiche — auch in die Politik. Er beschreibt, wie sowohl Rechte als auch Linke zunehmend von Hass auf ihre jeweiligen Feinde angetrieben werden, nicht von Liebe zu dem, was sie aufbauen wollen.
+Diese Haltung überträgt sich, so Rosa, in die Alltagswahrnehmung und in die Politik. Er erzählt von Studenten mit viel Hass auf den Kapitalismus, von Leuten in Thüringen mit Hass auf Geflüchtete, von Hass auf die, die Geflüchtete hassen, und auf die, die die Welt ökologisch kaputtmachen; in den USA dasselbe zwischen Trump und den Demokraten [▶ 64:24](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3864).
 
 Das Gegenteil zur aggressiven Weltbeziehung ist nicht Passivität — sondern **Resonanz**: die Welt als Antwortpartner erleben, nicht als Aggression.
 
@@ -142,33 +147,37 @@ Das Gegenteil zur aggressiven Weltbeziehung ist nicht Passivität — sondern **
 
 ## 6. Rosa will eine Revolution — keine Nostalgie
 
-Ein wichtiges Missverständnis, das Rosa im Gespräch korrigiert: Er sagt **nicht**, dass früher alles besser war. Er sagt nicht, zurück zur Vormoderne.
+Ein wichtiges Missverständnis, das Rosa im Gespräch korrigiert: Er sagt **nicht**, dass früher alles besser war. Er sagt nicht, zurück zur Vormoderne. Dem Universitätspräsidenten Werner Reinhart, der für ein Weiter-so mit kleinen Veränderungen stehe, hält er entgegen:
 
-> *„Sie glauben an die Veränderbarkeit — da würde ich sagen: ja, das tue ich auch, schon ganz tief davon überzeugt. Ich will eine Revolution, und zwar eine radikale."* [▶ 54:30](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3270)
+> *„Sie glauben an die Veränderbarkeit — da würde ich sagen: ja, das tue ich auch, schon ganz tief davon überzeugt. Ich will eine Revolution, und zwar eine radikale."* [▶ 56:49](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3409)
 
-Er anerkennt: In einfacheren Verhältnissen gab es nicht mehr Resonanz — weil Repression, weil Frauen keine eigene Stimme entwickeln konnten, weil Armut keine Wahl ließ.
+Er anerkennt: In einfacheren Verhältnissen gab es nicht mehr Resonanz — weil es Repression brutaler Art gab, weil Frauen lange keine eigene Stimme entwickeln konnten oder durften.
 
-> *„Früher oder in einfachen Verhältnissen: ganz bestimmt nicht Resonanz gewesen, weil wir Repressionen brutaler Art hatten, weil Frauen über ganz lange Zeit keine eigene Stimme entwickeln konnten oder nicht durften. Deshalb sage ich nicht: das war früher besser. Die Frage ist nur, ob in dem Entwicklungsprozess möglicherweise etwas verloren geht."* [▶ 62:53](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3773)
+> *„Früher oder in einfachen Verhältnissen [ist es] ganz bestimmt nicht Resonanz gewesen, weil wir Repressionen brutaler Art hatten, weil Frauen z. B. über ganz lange Zeit hinweg keine eigene Stimme entwickeln konnten oder nicht durften […]. Und deshalb sage ich nicht: Das war früher besser. Die Frage ist nur, ob in dem Entwicklungsprozess möglicherweise etwas verloren geht."* [▶ 62:53](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3773)
 
-Seine Frage ist subtiler: Ist in dem Entwicklungsprozess etwas verloren gegangen, das wir nicht mehr sehen, weil wir es mit dem Gewonnenen verrechnen?
+Seine Frage ist subtiler: Ist in dem Entwicklungsprozess etwas verloren gegangen, das wir nicht mehr sehen, weil wir es mit dem Gewonnenen verrechnen? Er besteht auf dem genauen Wortlaut aus seinem Buch, weil die Ambivalenz darin schon steckt:
 
-> *„Was wir verloren haben, indem wir es gewonnen haben."*
+> *„Das, was wir verloren haben, indem wir es gewonnen haben."* [▶ 59:50](https://www.youtube.com/watch?v=4lAwdWchjz4&t=3590)
 
 ---
 
 ## Kritische Einwände (aus der Diskussion)
 
-**Indische Kritikerin:** Rosa fokussiert zu stark auf westliche Gesellschaften. Resonanz als Konzept vernachlässigt materielle Bedingungen — für Menschen in prekären Verhältnissen ist Berechenbarkeit kein Verlust, sondern Schutz.
+Die Universität hatte drei Kritiken bestellt.
 
-**Studentischer Kritiker:** Das Steigerungspiel des Kapitalismus ist strukturell verankert — eine Veränderung der inneren Haltung allein reicht nicht. Institutionelle Transformation muss Vorrang haben.
+**Shaswati Mazumdar**, emeritierte Germanistin aus Delhi, steht der Analyse „grundsätzlich sympathisch" gegenüber, aber zwei Dinge leuchten ihr nicht ein: der Fokus auf westliche Gesellschaften, „wo doch der Kapitalismus ein weltweites Unternehmen ist", und eine Lösung, die nur an die Haltung appelliert. Rosa richte die Kritik auf das sich verschlechternde *Lebensgefühl* und vernachlässige die sich verschlechternden *materiellen Lebenszustände*: globalen Lohndruck, Privatisierung und Deregulierung, wachsende Ungleichheit. Der Kapitalismus selbst erscheine so als „das Unverfügbare schlechthin", seine Krisen wie Naturkatastrophen [▶ 19:02](https://www.youtube.com/watch?v=4lAwdWchjz4&t=1142).
 
-**Dritter Kritiker:** Der Begriff "Unverfügbarkeit" ist selbst unverfügbar — zu wenig präzise. Und Rosas Tonfall tendiert zu Nostalgie und Pessimismus.
+**David Kronenthaler**, Student im Master Transformationsstudien, fragt, was es heißt, dass das Steigerungsspiel seine Antriebsenergie verliere, sobald wir der Welt nicht mehr im Modus der Verfügbarmachung begegnen. Das klinge, als müssten wir vor allem unser eigenes Leben und Begehren ändern. Er halte die Verankerung der Steigerungslogik in den Institutionen für bedeutsamer [▶ 37:30](https://www.youtube.com/watch?v=4lAwdWchjz4&t=2250); das Versprechen der Moderne liege womöglich weniger in klingenden Weltbeziehungen als in ökonomischer Sicherheit und gerechter Verteilung [▶ 40:31](https://www.youtube.com/watch?v=4lAwdWchjz4&t=2431).
+
+**Werner Reinhart**, Präsident der Europa-Universität und Literaturwissenschaftler, findet drei Punkte: Das Buch sei zu unpräzise, im Vokabular teils „zu gewaltinfiziert"; es sei in Diagnose und Ausblick zu pessimistisch; und es wirke „in einem guten Sinne nostalgisch". Der Begriff des Unverfügbaren sei „selbst unverfügbar". Und die Welt als Aggressionspunkt sei nicht die Welt, die er sehe: Auch im Westen seien Wutbürger keine Mehrheit [▶ 45:14](https://www.youtube.com/watch?v=4lAwdWchjz4&t=2714).
+
+**Rosas Antworten.** Den Westen-Einwand nimmt er ernst und dreht ihn um: Resonanz zu begehren sei eine anthropologische Konstante, schon Babys wollten berührt werden und sich in der Antwort selbstwirksam erfahren — und der Kapitalismus lebe davon, an dieses Begehren zu appellieren [▶ 66:42](https://www.youtube.com/watch?v=4lAwdWchjz4&t=4002). In Brasilien, Indien und China, wo er systematisch das Gespräch sucht, finde er kein ganz anderes Leiden, sondern eines an einer tatsächlichen Beschleunigungszumutung, etwa wenn man mehrere Jobs braucht, um über die Runden zu kommen [▶ 75:03](https://www.youtube.com/watch?v=4lAwdWchjz4&t=4503). Zur Frage nach den materiellen Bedingungen: Es sei auch arrogant, zu meinen, wer wenig Ressourcen hat, lebe automatisch schlechter; vielleicht hätten diese Menschen mehr Resonanzfähigkeit als die oben [▶ 88:46](https://www.youtube.com/watch?v=4lAwdWchjz4&t=5326). Zugleich sei Angst der zentrale Antriebsmotor des Steigerungsspiels: Auf Hartz-IV-Niveau zu fallen heiße, „den sozialen Tod zu sterben" — man verhungere nicht, aber man habe keinen legitimen Platz. Darum sei er für ein bedingungsloses Grundeinkommen, und Institutionen wie Schule und Universität sollten auf Resonanzmöglichkeiten achten statt auf Optimierungsparameter wie PISA [▶ 89:31](https://www.youtube.com/watch?v=4lAwdWchjz4&t=5371).
 
 > [!warning] Einschränkung
-> Rosa beschreibt ein reales Phänomen — aber sein Ansatz bleibt kulturkritisch und individuell. Die strukturellen Ursachen (Kapitalismus, Lohnunterdrückung, globale Ungleichheit) werden benannt aber nicht systematisch bearbeitet.
+> Rosa beschreibt ein reales Phänomen, und auf Kronenthalers Einwand antwortet er mit Institutionen (Grundeinkommen, Schule ohne PISA-Logik). Sein Schwerpunkt bleibt aber die Weltbeziehung: Die strukturellen Ursachen, die Mazumdar nennt — Lohndruck, globale Ungleichheit, Eigentumsordnung —, werden benannt, im Vortrag aber nicht systematisch bearbeitet.
 
 > [!question] Weitergedacht
-> Die indische Kritikerin trifft einen Nerv: Für Menschen in Armut ist Berechenbarkeit kein Verlust, sondern Schutz. *Ist Resonanz ein Luxuskonzept — erst möglich, wenn materielle Sicherheit gegeben ist?* Oder würde [[Erich Fromm — Haben oder Sein|Fromm]] sagen: Gerade die Armen leben oft im Sein-Modus, weil sie nie im Haben-Modus ankommen konnten?
+> Mazumdar fragt nach den materiellen Lebenszuständen, Rosa hält es für arrogant, Menschen mit wenig Ressourcen ein schlechteres Leben zuzuschreiben. *Ist Resonanz ein Luxuskonzept — erst möglich, wenn materielle Sicherheit gegeben ist?* Oder würde [[Erich Fromm — Haben oder Sein|Fromm]] sagen: Gerade die Armen leben oft im Sein-Modus, weil sie nie im Haben-Modus ankommen konnten?
 
 ---
 
@@ -212,10 +221,10 @@ Mausfeld: Angst macht den Menschen zur Statue — sie blockiert Kreativität und
 
 ### → [[Hannah Arendt — Denken ohne Geländer]]
 
-Arendt verbindet Rosa direkt: Rosa erwähnt explizit Arendts Begriff der **Natalität** — die menschliche Fähigkeit, dass aus jeder Begegnung etwas Neues, Unvorhersehbares entstehen kann. Das ist der anthropologische Grund, warum Resonanz möglich ist — und warum sie nicht planbar ist.
+Arendt verbindet Rosa direkt: Rosa erwähnt gleich zu Beginn Arendts Begriff der **Natalität** ([▶ 2:18](https://www.youtube.com/watch?v=4lAwdWchjz4&t=138)) — die menschliche Fähigkeit, dass aus jeder Begegnung etwas Neues, Unvorhersehbares entstehen kann. Das ist der anthropologische Grund, warum Resonanz möglich ist — und warum sie nicht planbar ist.
 
 > [!note] Die gemeinsame Wurzel
-> Arendt (Natalität / Unvorhersehbarkeit des Handelns), Rosa (Unverfügbarkeit der Resonanz) und Goenka (Beobachten statt Reagieren) kreisen alle um dasselbe: Es gibt etwas im Menschen und in der Welt, das sich der vollständigen Verfügung entzieht — und genau darin liegt die Würde und Lebendigkeit des Menschseins.
+> Arendt (Natalität / Unvorhersehbarkeit des Handelns) und Rosa (Unverfügbarkeit der Resonanz) kreisen um dasselbe: Es gibt etwas im Menschen und in der Welt, das sich der vollständigen Verfügung entzieht — und genau darin liegt die Würde und Lebendigkeit des Menschseins.
 
 ### → [[Sibylle Anderl — Bequeme neue Welt#Warum noch Klavier üben?|Sibylle Anderl — Bequeme neue Welt]]
 In der Sternstunde mit Anderl wird Rosas Filterkaffee eingespielt, als Beispiel für die Urteilskraft, die die Kapselmaschine überflüssig macht. Ihr Paradox (nie so bequem, nie so gehetzt) ist seine Beschleunigung aus der Sicht dessen, der sich die Mühe abnehmen lässt, und ihr Chatbot, der zurückgibt, was man hineinruft, ist sein Echo ohne Resonanz.
@@ -266,11 +275,11 @@ Bleisch hält Welzer Rosas *Situation und Konstellation* vor; er antwortet mit d
 
 ## Weiterdenken
 
-> [!question] Was Aristoteles vielleicht gefragt hätte
+> [!question] Was Sokrates vielleicht gefragt hätte
 > - Rosa sagt, Resonanz sei nicht herstellbar. Aber *wer oder was entscheidet dann, wann sie eintritt?* Wenn es weder Zufall noch Willensakt ist — *was ist es?* Gibt es eine dritte Kategorie jenseits von Machen und Erleiden?
-> - Ist das Gegenteil von Entfremdung wirklich Resonanz — oder *gibt es einen dritten Zustand?* Kann man weder resonant noch entfremdet sein — einfach still, präsent, ohne Beziehung? [[Vipassana — Upekkha|Upekkha]] (Gleichmut) wäre ein Kandidat.
+> - Ist das Gegenteil von Entfremdung wirklich Resonanz — oder *gibt es einen dritten Zustand?* Kann man weder resonant noch entfremdet sein — einfach still, präsent, ohne Beziehung? Gleichmut wäre ein Kandidat.
 > - Rosa will eine Revolution, keine Nostalgie. Aber *wie sieht eine Gesellschaft aus, die strukturell auf Resonanz statt auf Wachstum gebaut ist?* Gibt es ein historisches Beispiel — oder ist das eine Utopie, die sich der eigenen Logik nach nicht planen lässt?
-> - Das Mediopassiv existiert in Sanskrit, Hebräisch, Altgriechisch — aber nicht mehr im Deutschen. *Hat die Sprache die Erfahrung verdrängt, oder hat die Erfahrung die Sprache nicht mehr gebraucht?* Was war zuerst — der Verlust des Wortes oder der Verlust der Haltung?
+> - Das Mediopassiv kennen Sanskrit, Hebräisch, Altgriechisch — das Deutsche hat dafür keine eigene Form. *Hat die Sprache die Erfahrung verdrängt, oder hat die Erfahrung die Sprache nicht mehr gebraucht?* Was war zuerst — der Verlust des Wortes oder der Verlust der Haltung?
 > - Cui bono: *Wem nützt es, wenn wir Beschleunigung als naturgesetzlich akzeptieren?* Rosa spricht von dynamischer Stabilisierung — aber *wer stabilisiert sich durch diese Dynamik, und wer wird von ihr zermahlen?*
 
 ---
@@ -278,8 +287,9 @@ Bleisch hält Welzer Rosas *Situation und Konstellation* vor; er antwortet mit d
 ## Weiterführend
 
 - Rosa: *Resonanz — Eine Soziologie der Weltbeziehung* (Suhrkamp, 2016)
-- Rosa: *Unverfügbarkeit* (Residenz Verlag, 2018) — der Essay aus dem Vortrag
-- Rosa: *Beschleunigung* — das Frühwerk zur sozialen Beschleunigung
+- Rosa: *Unverfügbarkeit* (Residenz Verlag, 2018) — das Buch, um das es in Flensburg ging
+- Rosa: *Beschleunigung. Die Veränderung der Zeitstrukturen in der Moderne* (Suhrkamp, 2005) — die Habilitationsschrift zur sozialen Beschleunigung
+- Rosa: *Situation und Konstellation. Vom Verschwinden des Spielraums* (Suhrkamp, 2026) — das jüngste Buch, vom Handeln zum Vollziehen
 - [[Hannah Arendt — Denken ohne Geländer]] — Natalität als Resonanzgrund
 - [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Angst als Resonanzkiller
 - [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel zitiert Rosas "gestörte Weltbeziehung" explizit; die Sehnsucht nach mittelalterlicher Einfachheit ist Sehnsucht nach ungestörter Weltbeziehung

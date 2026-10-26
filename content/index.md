@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **26.10.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
+>
+> „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
+
 > **25.10.** — [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
 >
 > Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt.
@@ -40,11 +44,25 @@ Die Gedankenwelten (luc)
 >
 > Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 
-> **25.10.** — [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
->
-> Derselbe Begriff kann Raub rechtfertigen oder Kooperation ordnen: Christoph Hein und Maja Göpel suchen Europas Platz zwischen einem Amerika, das nimmt, und einem China, das kauft.
+> → *6 weitere in* [[Zeitgeist]]
 
-> → *7 weitere in* [[Zeitgeist]]
+### Denker
+
+> **26.10.** — [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+>
+> Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern.
+
+> **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
+>
+> Ein Shaolin-Meister legt die eigene Identität ab, Rolle um Rolle, bis zu dem Lehrer, den er Vater nannte und gegen den heute wegen Missbrauchs ermittelt wird.
+
+> **21.10.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
+>
+> Eine Technik, keine Lehre: die Empfindung im Körper beobachten, ohne zu reagieren. Weil jeder Augenblick neu entsteht, lässt sich darin in jedem neu wählen, sagt S.N. Goenka.
+
+> **20.10.** — [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
+>
+> Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
 
 ### Panorama
 
@@ -68,7 +86,7 @@ Die Gedankenwelten (luc)
 >
 > Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
 
-> → *7 weitere in* [[Panorama]]
+> → *6 weitere in* [[Panorama]]
 
 ### Gedanken
 
@@ -83,20 +101,6 @@ Die Gedankenwelten (luc)
 > **17.10.** — [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
 >
 > Wenn wir über die Zukunft sprechen, beschreiben wir oft uns selbst. Eine Prophezeiung ist ein Selbstporträt, in die Zukunft gehängt — und wer sich über seine Haltung definiert, verteidigt mit ihr sich selbst.
-
-### Denker
-
-> **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
->
-> Ein Shaolin-Meister legt die eigene Identität ab, Rolle um Rolle, bis zu dem Lehrer, den er Vater nannte und gegen den heute wegen Missbrauchs ermittelt wird.
-
-> **21.10.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
->
-> Eine Technik, keine Lehre: die Empfindung im Körper beobachten, ohne zu reagieren. Weil jeder Augenblick neu entsteht, lässt sich darin in jedem neu wählen, sagt S.N. Goenka.
-
-> **20.10.** — [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
->
-> Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
 
 ### Spuren
 

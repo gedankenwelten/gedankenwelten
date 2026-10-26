@@ -1,7 +1,8 @@
 ---
 title: "Jan-Keno Janssen — Nvidia Tokenextremismus"
-aktualisiert: 2026-06-02
-description: "„Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten“ — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft."
+aktualisiert: 2026-10-26
+description: "„Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird."
+raetsel: "Die Uhr misst, wie viel verbrannt wurde. Was gekocht wurde, misst sie nicht."
 date: 02.06.2026
 tags:
   - zeitgeist
@@ -17,10 +18,23 @@ aliases:
 
 # Jan-Keno Janssen — Nvidia Tokenextremismus
 
-Quelle: [Nvidia hat den Bezug zur Realität verloren](https://www.youtube.com/watch?v=JnNBnRzxrYY) (c't 3003, 02.06.2026)
+![[assets/Jan-Keno-Janssen-Nvidia-Tokenextremismus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg** — Federzeichnung mit sparsamen Aquarelllasuren, viel weißes Papier, Stempeltexturen. Steinberg zeichnete Zahlen, Formulare und Rechnungen, als wären sie Landschaften, und kleine Menschen davor; das ist Janssens Video: ein Einzelner mit Lupe, der eine endlose Quittung nachrechnet, während die Maschine Münzen frisst und ausspuckt und der Laptop in der Mitte an seinem Preisschild davonschwebt.
+
+*Prompt:* Satirical pen-and-ink drawing with sparse watercolor washes in the style of Saul Steinberg, wide banner composition. On the right, a gigantic whimsical machine built from server racks, cables and gears swallows a long ribbon of small coins stamped with the letter T and spits out a towering wobbly stack of the same coins; on top of the machine a huge taxi-meter dial whose needle has spun past the end of its scale. On the left, a small man in a hat sits at a tiny desk with a pencil and a magnifying glass, checking a very long receipt that unrolls across the ground and loops back into the machine. In the middle, a small old laptop whose price tag swells like a balloon on a string. Thin wobbly ink lines, rubber-stamp textures, lots of white paper, accents of pale yellow, grey-blue and one bright green. No photorealism, no realistic faces, no signature.
+
+</details>
+
+> [!abstract] Worum es geht
+> „Token sind Umsatz“, wiederholt Jensen Huang auf der Computex 2026, und für Nvidia stimmt das. Jan-Keno Janssen von c't 3003 fragt, für wen es sonst noch stimmt: für Angestellte, die nach ihrem Tokenverbrauch bewertet werden, für Käufer, deren PC teurer wird, weil der Speicher in die Rechenzentren geht? Ein kurzes, bissiges Video über eine Kennzahl, die vergisst, wofür gerechnet wird. Vier Monate später haben Microsoft und Meta die Token-Zähler wieder aus der Bewertung genommen.
+
+Quelle: [Nvidia hat den Bezug zur Realität verloren](https://www.youtube.com/watch?v=JnNBnRzxrYY) (c't 3003, 02.06.2026, 15 Min.) · Textfassung: [heise online](https://www.heise.de/news/Nvidia-Keine-Produkte-mehr-fuer-Menschen-11314488.html) · Original: [Nvidia-Keynote GTC Taipei / Computex 2026](https://www.youtube.com/watch?v=wSp6AiNIrsY)
 
 > [!info] Wer spricht?
-> **Jan-Keno Janssen** — c't-Redakteur und Host des YouTube-Formats *c't 3003* (Heise Verlag). Seit 2007 bei Heise, seit 2021 Gesicht des gleichnamigen Channels mit über 114.000 Abonnenten. Bekannt für sarkastisch-präzise Tech-Analyse, die nicht Technologie feiert, sondern systemische Absurditäten benennt. War als unabhängiger Journalist — nicht als eingeladener Gast — auf der Computex 2026 in Taipei.
+> **Jan-Keno Janssen** — seit 2007 Redakteur bei c't im Heise-Verlag und Leiter des YouTube-Kanals *c't 3003*, den er im Mai 2021 mit aufgebaut hat (rund 262.000 Abonnenten im Oktober 2026). Er arbeitet beruflich viel mit KI, baut mit ihr und rechnet ihre Versprechen nach. Auf der Computex in Taipeh war er 2026 zum ersten Mal, als Journalist vor Ort, aber ohne Einladung zur Nvidia-Keynote.
 >
 > → [[DenkerVita/Jan-Keno Janssen|DenkerVita]]
 
@@ -28,9 +42,9 @@ Quelle: [Nvidia hat den Bezug zur Realität verloren](https://www.youtube.com/wa
 
 ## Der selbstgemachte Knoten: Nvidia und der PC-Markt
 
-[▶ 0:00](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=0) Bevor Jensen Huang auf der Computex-Bühne erscheint, legt Janssen die strukturelle Ironie offen: Der klassische PC-Markt liegt am Boden — und Nvidia ist nicht ganz unschuldig daran. Die Logik ist einfach und vernichtend zugleich: Weil alle großen Halbleiterhersteller mehr Geld in KI-Rechenzentren als im Consumer-Segment verdienen können, fließt Speicher — DRAM, HBM — primär dorthin. Das Ergebnis ist eine Umkehrung jeder historischen Tech-Preiskurve: Eine vier Jahre alte PC-Konsole wird nicht billiger, sondern *teurer*, in manchen Fällen um mehrere hundert Euro.
+[▶ 0:45](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=45) Bevor er zu Jensen Huang kommt, legt Janssen die Ironie offen: Der klassische PC-Markt liegt ziemlich am Boden, und Nvidia ist daran nicht ganz unschuldig. Ein KI-Rechenzentrum nach dem anderen wird aus dem Boden gestampft, und weil die Komponentenhersteller dort mehr verdienen, geht der Speicher vor allem in die KI. Das Ergebnis kehrt eine alte Regel der Technikgeschichte um: Eine vier Jahre alte PC-Konsole wird nicht billiger, sondern teurer, „gleich mehrere hundert Euro“. Gemeint ist das Steam Deck; Valve hob den Preis des OLED-Modells am 27.05.2026 von 569 auf 779 € an und begründete das mit den Speicherkosten ([PCGH](https://www.pcgameshardware.de/Steam-Deck-Hardware-277668/News/Preiserhoehung-OLED-Speicherkrise-Valve-1536683/)).
 
-AMD reagiert mit einer strukturellen Kuriosität: Neue Prozessoren für die zehn Jahre alte AM4-Plattform, damit Nutzer weiterhin günstigen DDR4-Speicher verwenden können, statt auf das nun überteuerte DDR5 umsteigen zu müssen. Die Branche weicht also in die Vergangenheit aus, weil die Gegenwart zu teuer geworden ist.
+[▶ 1:37](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=97) AMD bringt sogar wieder Prozessoren für die zehn Jahre alte AM4-Plattform heraus, damit man den alten DDR4-Speicher weiter benutzen kann, statt viel zu teuren neuen zu kaufen. Die Branche weicht in die Vergangenheit aus, weil die Gegenwart zu teuer geworden ist.
 
 > [!question] Weitergedacht
 > Wenn der Consumer-PC-Markt durch KI-Nachfrage nach oben hin preislich wegbricht — *wer kann sich zukünftig noch einen leistungsfähigen privaten Rechner leisten?* Entsteht hier eine neue digitale Klassen­grenze?
@@ -39,40 +53,40 @@ AMD reagiert mit einer strukturellen Kuriosität: Neue Prozessoren für die zehn
 
 ## Jensen Huangs Offenbarung: „Früher für Menschen, jetzt für Agenten"
 
-[▶ 3:56](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=245) Janssen erlebt Nvidias Computex-Keynote nicht als eingeladener Gast — Nvidia hat ihn nicht eingeladen, was er lakonisch „komisch" nennt — sondern an einer der 70 Cookparties, bei denen die zweistündige Keynote übertragen wird. Jensen Huang ist in Taiwan ein Volksheld; an Imbissständen hängen angeblich Fotos von ihm.
+[▶ 4:05](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=245) Die Eröffnungs-Keynote, zwei Stunden lang, sieht Janssen nicht im Saal, sondern auf einer der 70 „Keynote-Guck-Partys“, auf die Huang stolz verweist. Eingeladen hat ihn Nvidia nicht, was er „komisch“ findet. Huang ist in Taiwan so etwas wie ein Volksheld; an jedem Imbissstand, an dem er mal gegessen hat, scheinen Fotos von ihm zu hängen, „zumindest schien mir das so“.
 
-Der Kern des Vortrags ist für Janssen nicht inspirierend, sondern *beklemmt-dystopisch*: Huang formuliert explizit das neue Credo von Nvidia:
+[▶ 4:52](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=292) Der Anfang ist das Übliche, die Welt wird besser mit KI, alle Krankheiten werden geheilt. Sobald es konkret wird, findet Janssen die Keynote „dystopisch“ und „beklemmend“, denn dann geht es nicht mehr um die Menschheit. Er fasst Huang so zusammen: *„Früher haben wir CPUs für Menschen gebaut. Jetzt geht's darum, CPUs für KI-Agenten zu bauen und darum, Tokens zu maximieren."*
 
-> *„Früher haben wir CPUs für Menschen gebaut. Jetzt geht's darum, CPUs für KI-Agenten zu bauen und Tokens zu maximieren."*
+Huangs eigener Wortlaut, als er die Rechenzentrums-CPU Vera vorstellt: *„This is CPU for agents. All the CPUs of the past we built for humans. This CPU is built for agents."* ([Keynote ▶ 55:26](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=3326)) Kurz davor: Man wolle so viele Tokens wie möglich herstellen. Der Satz gilt einem Serverchip; in derselben Keynote stellte Huang mit RTX Spark auch Notebooks für Menschen vor, „for creating, for gaming, for agents“. Die Zuspitzung „keine Produkte mehr für Menschen“, die heise über die Textfassung des Videos setzte, ist Janssens Lesart.
 
-Der Satz ist bemerkenswert in seiner Offenheit. Menschen erscheinen nicht mehr als Zweck, sondern als Randbedingung. Agenten sind die neue Zielgruppe. Tokens — die grundlegenden Verarbeitungseinheiten heutiger Sprachmodelle — sind die neue Währung. Was mit diesen Tokens gemacht wird, ob sie Wert erzeugen oder nicht, bleibt dabei systematisch ausgeblendet.
-
-Janssen benennt den entscheidenden Interessenkonflikt: Für Nvidia und ihre direkten Kunden (die Betreiber großer KI-Infrastrukturen) ist es vollkommen gleichgültig, ob die generierten Tokens sinnvollen Output produzieren. Tokens konsumiert = Rechenleistung verkauft = Umsatz. Die Entkopplung von Wertschöpfung und Kennzahl ist damit im Geschäftsmodell strukturell verankert.
+Tokens sind die Einheiten, mit denen Sprachmodelle arbeiten. Nvidia und seine direkte Kundschaft wollen, dass möglichst viele Leute möglichst viel mit KI machen, also möglichst viele Tokens verbrauchen. Ob dabei etwas Sinnvolles entsteht, ist für den, der Rechenleistung verkauft, gleichgültig: verbrauchte Tokens heißen verkaufte Rechenleistung. Das ist unsere Zuspitzung von Janssens Gedanken, und an ihr hängt der Rest des Videos.
 
 > [!question] Weitergedacht
-> Jensen Huangs Satz lässt sich auch als ungewolltes Eingeständnis lesen: *Wenn Nvidia nicht mehr für Menschen baut — wer baut dann noch für Menschen?* Und welche Folgen hat das für die Richtung technologischer Entwicklung insgesamt?
+> Huangs Satz lässt sich auch als ungewolltes Eingeständnis lesen: *Wenn die Chips der Zukunft für Agenten gebaut werden — wer baut dann noch für Menschen?* Und welche Folgen hat das für die Richtung technologischer Entwicklung insgesamt?
 
 ---
 
 ## Tokenextremismus: Wenn Konsum zur Pflicht wird
 
-[▶ 5:38](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=338) Die abstrakten Keynote-Versprechen werden in einem konkreten Exzess sichtbar, den Janssen aus der Unternehmensrealität zitiert: Bei Amazon spielten Angestellte ein internes *Token-Ranking* (Kirorank-Leaderboard) aktiv nach oben — durch massenhafte, sinnlose KI-Anfragen, nur um gut in der Metrik dazustehen. Das Leaderboard wurde am 29. Mai 2026 abgeschaltet, nachdem die Compute-Kosten unkontrolliert gestiegen waren. Der Mechanismus dahinter: Jensen Huang hatte bereits vorher in einem Podcast gesagt, es sei *„zutiefst alarmierend"*, wenn ein $500.000-Entwickler nicht mindestens $250.000 in Tokenkosten verursache — ein Viertel seines Gehalts als Token-Mindestverbrauch. Dieser Satz, verinnerlicht von Vorgesetzten, erzeugt ein spieltheoretisches Dilemma: Sinnlose Anfragen werden rational, solange das Ranking zählt.
+[▶ 5:38](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=338) Was das in der Wirklichkeit heißt, zeigt Janssen an Amazon: Angestellte haben dort komplett sinnlose, teure KI-Anfragen gestellt, weil sie Angst hatten, in den Token-Rankings schlecht dazustehen. Er vermutet, dass „vielleicht nicht ganz so schlaue Vorgesetzte“ geglaubt haben, was Huang kurz zuvor gesagt hatte: Es sei „zutiefst alarmierend“, wenn ein hochbezahlter Entwickler nicht mindestens eine Viertelmillion Dollar an Tokenkosten verursache.
 
-Huang wiederholt das Token-Mantra auf der Computex wie ein Gebet — Janssen spielt die englischen Originalzitate ein:
+Dass Huang und seine Kundschaft das gern wollen, sei klar. Aber dass es so verkauft wird, als könne man den Wert von Angestellten an ihrem Tokenverbrauch messen, nennt Janssen „dumm“ [▶ 6:23](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=383). Die Rangliste bei Amazon hieß Kirorank, nach Amazons KI-Entwicklungsumgebung Kiro; Ende Mai 2026 wurde sie abgeschaltet (→ [[#Faktencheck|Faktencheck]]).
 
-> *„Compute is revenue now. Compute is profit. Throughput per watt is revenues, because every token is profitable, every token is revenue. The more you buy, the more you make."*
+[▶ 7:08](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=428) In Taipeh treibt Huang diesen „Tokenextremismus“ weiter: Rechenleistung erzeugt Tokens, Tokens sind Umsatz, also ist Rechenleistung Umsatz. Er sagt das nicht einmal, sondern mantraartig, und Janssen schneidet die Stellen zusammen:
 
-Dieses Mantra enthüllt eine Tautologie: Es stimmt — aber nur für Nvidia und die Token-Verkäufer. Für die Token-*Käufer* gilt die Gleichung nicht. *Mehr Tokens kaufen* bedeutet nicht automatisch *mehr verdienen*; es bedeutet zuerst einmal *mehr ausgeben*. Janssen nennt die Argumentation unverblümt *dumm*: Nicht weil sie falsch klingt, sondern weil sie strategisch einen falschen Eindruck erzeugen soll.
+> *„Compute is revenue now. Compute is profit. […] Throughput per watt is revenues, because every token is profitable. Every token is revenues. […] The more you buy, the more you make."* ([Keynote ▶ 34:28](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=2068) · [▶ 36:44](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=2204))
+
+[▶ 7:55](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=475) Janssen nennt das „extrem irreführend“, denn es kommt darauf an, was man mit den Tokens macht. Für die, die Tokens verkaufen und die Server bauen, ist das egal. Huang tue aber so, als würden alle profitieren, auch die, die Tokens nur kaufen; Arbeitsplätze gingen dadurch nicht verloren, das sei „totaler Nonsens“, weil die Mitarbeiter ihre Produktivität ja verdreifachten. Für den Käufer heißt *mehr Tokens* zunächst einmal *mehr ausgeben*.
 
 ---
 
 ## GitHub-Commits als Produktivitäts-Proxy: Die zerlegbare Rechnung
 
-[▶ 8:49](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=529) Huang präsentiert Produktivitätszuwächse durch KI und beruft sich dabei auf gestiegene GitHub-Commit-Volumina. Janssen erkennt: Diese Zahl ist real — und gleichzeitig nichtssagend. Ja, die Commits sind stark gestiegen, wahrscheinlich durch KI-Agenten. Aber Commits messen Aktivität, nicht Qualität. Janssen überlässt die Bewertung sarkastisch „den Kommentaren", aber der Subtext ist klar: Open-Source-Repos ertrinken derzeit in KI-generiertem Slop-Code. Mehr Commits können im schlimmsten Fall *weniger* gute Software bedeuten.
+[▶ 8:49](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=529) Die Rechnung lasse sich „sowas von auseinandernehmen“, sagt Janssen, angefangen damit, wie Nvidia Produktivität misst: am Commit-Volumen auf GitHub, also daran, wie viel Code in Softwareprojekte eingepflegt wird. Huang zeigte 300, dann 400, dann 500 Millionen Commits für 2025, „fast verdreifacht“ in den ersten Monaten 2026, und schloss daraus, 30 Millionen Entwickler mit drei Billionen Dollar Gehalt erzeugten jetzt „effektiv neun Billionen Dollar Produktivität“ ([Keynote ▶ 7:23](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=443)).
 
-Dazu kommt eine strukturelle Schieflage: Selbst wenn man Commits als grobe Produktivitätsmetrik akzeptierte, würde sie nur Softwareentwickler erfassen — die Berufsgruppe, die heute am ehesten von KI profitiert. Janssen benennt, was in Nvidias Rechnung nicht vorkommt: die vielen Berufe, für die es keinen messbaren KI-Produktivitätsgewinn gibt.
+[▶ 9:35](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=575) Dass die Commits durch KI-Agenten stark gestiegen sind, bestreitet Janssen nicht. Ob man sie eins zu eins mit Produktivität gleichsetzen kann, überlässt er sarkastisch den Kommentaren. Commits messen Aktivität, nicht Qualität, und mehr Commits können im schlimmsten Fall weniger gute Software bedeuten. Dazu kommt eine Schieflage: In der Rechnung tauchen nur Softwareentwickler auf, die Leute, „die zweifellos heute am meisten mit KI-Systemen anfangen können“. Es gebe etliche Berufe, in denen es ziemlich sicher gar keinen Produktivitätsgewinn durch KI gibt.
 
-Die Keynote, so Janssens Diagnose, sei *von Milliardären für Milliardäre* gemacht. Er beschäftigt sich beruflich intensiv mit KI, verdreifacht seine Produktivität aber keineswegs. Tokens als profitable Werteinheiten erscheinen ihm schlicht nicht als seine Realität.
+Die Keynote wirkt auf ihn „von Milliardären für Milliardäre“. Er beschäftige sich beruflich viel mit KI, „aber ich verdreifache damit definitiv nicht meine Produktivität“ [▶ 10:22](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=622). Ein Beispiel aus der Keynote findet er trotzdem interessant: Ein KI-Agent baut aus einem Foto der verlorenen Fernbedienungsklappe eine Datei für den 3D-Drucker — sinnvoll, auch wenn er bezweifelt, dass es dafür ausgerechnet Nvidias CUDA-Bibliotheken braucht.
 
 > [!question] Weitergedacht
 > Wenn Produktivität konsequent nur dort gemessen wird, wo sie sich auch messen *lässt* — *welche Formen von Arbeit werden dadurch strukturell unsichtbar und wie verändert das den gesellschaftlichen Wert von Tätigkeiten?*
@@ -81,41 +95,58 @@ Die Keynote, so Janssens Diagnose, sei *von Milliardären für Milliardäre* gem
 
 ## RTX Spark: Die Lösung für das selbstgemachte Problem
 
-[▶ 10:33](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=667) Nvidias konkreteste Computex-Ankündigung ist *RTX Spark*: Windows-Notebooks ab Herbst 2026, die vollständig auf Nvidia-Architektur basieren — also nicht nur die GPU, sondern auch die CPU. ARM-basiert (Cortex X925 + A725), 20 CPU-Kerne, 6144 Shader-Kerne der Blackwell-Architektur, bis zu 128 GB Unified LPDDR5X-Speicher mit 300 GB/s Durchsatz, CPU-GPU-Verbindung via NVLink mit 600 GB/s.
+[▶ 11:07](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=667) Die konkreteste Ankündigung ist *RTX Spark*: Windows-Notebooks ab Herbst 2026, die komplett auf Nvidia-Architektur laufen, also nicht nur mit Nvidia-Grafik, sondern auch mit Nvidia-CPU. Die Basis ist ARM, wie bei Qualcomms Windows-Chips und Apples Macs, mit 20 CPU-Kernen (Cortex-X925 und A725) und 6.144 Shader-Kernen der Blackwell-Architektur [▶ 11:52](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=712). Der Chip ist eine Endkundenfassung des GB10 aus der DGX Spark, einer kleinen KI-Kiste, die c't getestet hat und die bis zu 216 Watt zieht; für ein Notebook muss Nvidia ihn stark optimiert haben. Bis zu 128 GB LPDDR5X-Speicher mit 300 GB/s soll es geben [▶ 12:38](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=758).
 
-Das System ist eine Endnutzerversion des System-on-Chip GB10 aus der DJX Spark — aber für Notebook-Energiebudgets optimiert (die DJX Spark zieht bis zu 216 Watt). Microsoft ist mit dem *Surface Laptop Ultra* dabei, ebenso Acer, Asus, Dell, Gigabyte, HP, Lenovo und MSI. Die Positionierung: lokale Token-Generierung, lokale KI-Agenten — das, was man mit Qualcomm-Snapdragon oder Apples M-Chips bereits kann, jetzt von Nvidia.
+Microsoft baut den *Surface Laptop Ultra*, dazu kommen Acer, Asus, Dell, Gigabyte, HP, Lenovo und MSI. Man soll darauf seine Tokens selbst erzeugen und KI-Agenten lokal ausführen können, so wie Janssen es in seinem OpenClaw-Video mit einem AMD-Strix-Halo-System gemacht hat. Auf der Computex hört man allerdings hinter vorgehaltener Hand, dass der Herbsttermin „sportlich“ sein könnte, weil Microsoft mit der Windows-11-Unterstützung noch nicht so weit sei [▶ 13:23](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=803).
 
-Die strukturelle Ironie, die Janssen herausarbeitet: Nvidia hat durch die KI-Rechenzentrumsoffensive die Speicherpreise in die Höhe getrieben, den PC-Markt destabilisiert — und präsentiert sich jetzt als die Lösung. *Ihr PC ist veraltet und zu teuer? Kauft unseren neuen.* Ob das Zielpublikum mitmacht, ist fraglich: Die Copilot-Plus-PCs von Microsoft waren keine Begeisterungsstürme. Der Erfolg von RTX Spark hängt daran, ob es etwas kann, was ein gleichteures x64-System oder ein MacBook nicht kann.
+Die Ironie, die Janssen herausarbeitet: Nvidia hat den PC-Markt mit der KI-Manie in den Rechenzentren ins Straucheln gebracht und sagt nun, ihr braucht auch auf euren Laptops „richtig dolle KI-Leistung“. Ob die Zielgruppe mitzieht, bezweifelt er; bei Microsofts Copilot-Plus-PCs sei die Euphorie „eher nicht so“. Es stehe und falle damit, ob man mit diesen Rechnern etwas kann, was ein gleich teurer x64-Rechner oder ein MacBook nicht kann [▶ 14:08](https://www.youtube.com/watch?v=JnNBnRzxrYY&t=848). Wie teuer ein Gerät mit 128 GB wird, ist offen. Auf der Messe sieht er vor allem Notebooks mit nur 8 GB, weil die Hersteller preislich mit dem MacBook Neo mithalten müssen, „weil der Speicher so teuer ist wegen Nvidia“.
 
-Die Preisinformation fehlt noch — was auf der Computex zu hören war: Es könnte eng werden mit dem Herbst-Termin, weil die Windows-11-Unterstützung bei Microsoft noch nicht fertig ist.
+---
+
+## Was seither geschah
+
+*Stand: 26.10.2026*
+
+- **Die Token-Zähler verschwinden wieder.** Microsoft setzte im Sommer Ausgabegrenzen und schrieb seinen Ingenieuren: „Tokenmaxxing is not what we are optimizing for“ ([404 Media, 04.08.2026](https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/)). Atlassian führte „AI wallets“ mit festen Budgets ein ([Guardian, 30.07.2026](https://www.theguardian.com/technology/2026/jul/30/atlassian-tightens-tracking-of-staff-ai-use-as-other-technology-firms-encourage-tokenmaxxing)). Anfang September nahm Meta interne Token-Zähler und Dashboards aus der Leistungsbewertung seiner Ingenieure; künftig zählen Qualität, Tempo und Komplexität ([heise KI-Update, 09.09.2026](https://www.heise.de/news/KI-Update-kompakt-Schoene-Neue-KI-Welt-WeWorm-KI-Agenten-Tiersprache-11446942.html)). Was Janssen „dumm“ nannte, haben große Konzerne binnen drei Monaten selbst zurückgenommen.
+- **Für den Verkäufer geht die Formel auf.** Nvidia meldete Ende August einen Quartalsumsatz von 96,2 Milliarden Dollar, gut doppelt so viel wie im Vorjahr ([heise](https://www.heise.de/news/Nvidia-will-bald-100-Milliarden-US-Dollar-Quartalsumsatz-knacken-11427213.html)). „The more you buy, the more you make“ stimmt also, zumindest für einen.
+- **Der Speicher bleibt teuer.** DDR5-Module wurden im Einzelhandel binnen eines Jahres um den Faktor fünf teurer, ein Ende ist nicht in Sicht ([heise, Oktober 2026](https://www.heise.de/hintergrund/Speicherchip-Knappheit-Warum-DDR5-und-NAND-Flash-so-teuer-bleiben-11476795.html)). Der Acer-Chef erwartet höhere PC-Preise bis Jahresende und Entspannung frühestens Mitte 2027 ([heise](https://www.heise.de/news/Acer-Chef-PCs-koennten-ab-Mitte-2027-wieder-guenstiger-werden-11460550.html)).
+- **RTX Spark kam pünktlich.** Das gemunkelte Windows-Problem führte nicht zur Verschiebung. Der Surface Laptop Ultra beginnt in Deutschland bei 2.899 €, mit dem vollen Chip bei 4.239 € ([PCGH](https://www.pcgameshardware.de/Microsoft-Surface-Laptop-Hardware-266092/News/ultra-rtx-spark-preis-vollausbau-1556108/)).
+- **Janssen hat nachgemessen.** Am 16.10.2026 testete er das Asus ProArt P14 mit RTX Spark: Windows on ARM läuft, x86-Spiele laufen über die Übersetzungsschicht Prism, der Akku hält über 19 Stunden, der Lüfter röhrt. Sein Fazit: „nicht enttäuscht, aber auch nicht begeistert“, der Preis liege genau im Gefüge von Apple ([heise / c't 3003](https://www.heise.de/news/RTX-Spark-im-Test-Nvidias-erster-Notebook-Chip-fuer-lokale-KI-11490664.html)). Auf seine Frage aus Taipeh, was diese Rechner können, was ein gleich teures MacBook nicht kann, gibt das Gerät eine schmale Antwort: CUDA und Spiele.
 
 ---
 
 ## Faktencheck
 
-> [!success] Bestätigt — Jensen Huang: "CPUs für KI-Agenten, nicht mehr für Menschen"
-> Huang verkündete auf der GTC Taipei / Computex 2026 explizit, dass Nvidias neue Vera-CPU „the CPU for agents" sei — gebaut für KI-Inferenz, nicht mehr primär für menschliche Nutzer.
-> Quelle: [Five thoughts from Nvidia CEO Jensen Huang's GTC Taipei 2026 keynote (SiliconAngle)](https://siliconangle.com/2026/06/01/five-thoughts-nvidia-ceo-jensen-huangs-gtc-taipei-2026-keynote/)
+> [!success] Bestätigt — Huang: CPUs „for humans“ früher, „for agents“ jetzt
+> Bei der Vorstellung der Rechenzentrums-CPU Vera: *„This is CPU for agents. All the CPUs of the past we built for humans. This CPU is built for agents."* Janssens Wiedergabe trifft das. Der Satz gilt einem Serverchip; in derselben Keynote stellte Huang mit RTX Spark auch Geräte für Menschen vor.
+> Quelle: [Nvidia-Keynote GTC Taipei 2026 ▶ 55:26](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=3326) · [Nvidia Blog](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/)
 
-> [!success] Bestätigt — Token-Mantra auf Computex
-> Die englischen Originalzitate („Compute is revenue now", „every token is profitable") sind aus dem offiziellen Keynote-Stream verifizierbar.
-> Quelle: [ServeTheHome — Computex 2026 Keynote Live Coverage](https://www.servethehome.com/nvidia-computex-2026-keynote-live-coverage/)
+> [!success] Bestätigt — Huangs „zutiefst alarmierend“-Aussage zu Token-Kosten
+> All-In Podcast, März 2026, über Nvidias eigene Ingenieure: *„If that $500,000 engineer did not consume at least $250,000 worth of tokens, I am going to be deeply alarmed."* Janssens „eine Viertelmillion Dollar“ gibt den Betrag genau wieder. Dass gerade dieser Satz Vorgesetzte bei Amazon beeinflusst habe, ist seine Vermutung.
+> Quelle: [The Decoder, 21.03.2026](https://the-decoder.com/nvidia-ceo-jensen-huang-says-hed-be-deeply-alarmed-if-a-500k-developer-spent-less-than-250k-on-ai-tokens/) · [Business Insider via AOL](https://www.aol.com/news/jensen-huang-says-deeply-alarmed-040314321.html)
 
-> [!warning] Vereinfacht — Amazon Token-Ranking-Incident (Kirorank)
-> Die Kernaussage — Mitarbeiter stellen sinnlose KI-Anfragen wegen einer Ranking-Metrik — stimmt. Die Kausalrichtung in der Note war aber umgekehrt: Angestellte spielten das System *aktiv nach oben* (Tokenmaxxing), nicht wurden sie von oben bestraft. Das Kirorank-Leaderboard wurde am 29.05.2026 abgeschaltet, weil die Compute-Kosten unkontrolliert stiegen. Der spieltheoretische Effekt ist derselbe — die Verantwortungsstruktur ist subtil anders.
-> Quellen: [Amazon Kills Kirorank AI Leaderboard After Tokenmaxxing (abhs.in)](https://www.abhs.in/blog/amazon-kirorank-tokenmaxxing-ai-leaderboard-shutdown-may-2026) · [Amazon shuts down AI leaderboard after 'tokenmaxxing' (HCA Magazine)](https://www.hcamag.com/us/specialization/hr-technology/amazon-shuts-down-ai-leaderboard-after-tokenmaxxing/577189)
+> [!success] Bestätigt — Amazon und das Token-Ranking (Kirorank)
+> Die interne Rangliste ordnete Beschäftigte nach ihrer Aktivität auf Kiro, Amazons KI-Entwicklungsumgebung; Ende Mai 2026 wurde sie abgeschaltet. Ein Amazon-Manager bat, KI nicht „just for the sake of using AI“ zu nutzen. 404 Media berichtet von Beschäftigten, die geschummelt haben, um aufzusteigen, einer davon, nachdem das Management ihm gesagt hatte, er nutze KI zu wenig. Janssens Lesart, sie hätten aus Angst vor dem Ranking gehandelt, ist damit gedeckt.
+> Quelle: [404 Media](https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/) · [Business Insider](https://www.businessinsider.com/amazon-ai-leaderboard-tokenmaxxing-2026-5) · [Fortune, 28.05.2026](https://fortune.com/2026/05/28/tokenmaxxing-is-dead-companies-didnt-get-the-roi-from-ai-they-wanted-to-see/)
 
-> [!success] Bestätigt — Huangs „zutiefst alarmierend"-Aussage zu Token-Kosten
-> Das genaue Zitat (All-In Podcast, GTC 2026): *„If that $500,000 engineer did not consume at least $250,000 worth of tokens, I'm going to be deeply alarmed."* — $250.000 als Mindest-Tokenverbrauch für einen $500.000-Entwickler. Die Kernaussage ist korrekt, der im Transkript genannte Betrag „eine Million Dollar" war um Faktor 4 überhöht.
-> Quelle: [The Decoder — Jensen Huang says he'd be "deeply alarmed"](https://the-decoder.com/nvidia-ceo-jensen-huang-says-hed-be-deeply-alarmed-if-a-500k-developer-spent-less-than-250k-on-ai-tokens/)
+> [!success] Bestätigt — Das Token-Mantra (als Zusammenschnitt)
+> Die Sätze fallen wörtlich, aber an zwei Stellen der Keynote (▶ 34:28 und ▶ 36:44); dazwischen spielt Janssen einen eingespielten Nvidia-Werbefilm („DSX Max LPS lets operators …“) ein. Er sagt selbst, Huang habe es „mantraartig“ wiederholt.
+> Quelle: [Keynote ▶ 34:28](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=2068) · [▶ 36:44](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=2204)
 
-> [!success] Bestätigt — RTX Spark Spezifikationen
-> ARM (10× Cortex-X925 + 10× Cortex-A725), 6.144 CUDA-Kerne (Blackwell), bis zu 128 GB Unified LPDDR5X (300 GB/s), NVLink C2C CPU-GPU mit 600 GB/s. Herbst 2026, OEMs inkl. Microsoft Surface Laptop Ultra, Asus, Dell, HP, Lenovo, MSI. Alle in der Note genannten Specs sind korrekt.
-> Quelle: [Tom's Hardware — Nvidia RTX Spark Superchip](https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory)
+> [!warning] Nicht eindeutig belegt — Huangs GitHub-Zahlen
+> Huang zeigte 500 Millionen Commits für 2025. GitHubs eigener Octoverse-Bericht nennt für 2025 „more than 986M commits“, also fast doppelt so viele; welche Messgröße Nvidias Folie zeigte, bleibt offen. Schwerer wiegt der Schritt danach: Aus „Commits fast verdreifacht“ wird „dreimal so viel Output“, und daraus „neun Billionen Dollar Produktivität“. Das ist die Vereinfachung, die Janssen angreift, und sie dient dem Verkaufsargument.
+> Quelle: [Keynote ▶ 7:23](https://www.youtube.com/watch?v=wSp6AiNIrsY&t=443) · [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/)
 
-> [!warning] Vereinfacht — GitHub-Commits als Produktivitätsmetrik
-> Huang präsentierte konkrete Zahlen: ~300 Mio. (2023) → 400 Mio. (2024) → 500 Mio. (2025) → fast verdreifacht Q1/2026, daraus abgeleitet: „$9 Billionen Produktivität aus $3 Billionen Gehältern". Die Zahl ist real. Janssens Kritik an der Aussagekraft der Metrik ist valide, bleibt aber qualitativ ohne quantitative Gegenbelege.
-> Quelle: [Crypto Briefing — Nvidia Huang AI GitHub Commits Triple 2026](https://cryptobriefing.com/nvidia-huang-ai-github-commits-triple-2026/)
+> [!success] Bestätigt — RTX Spark (mit einer Einschränkung)
+> Laut Nvidia: 6.144 CUDA-Kerne (Blackwell), 20-Kern-CPU, gemeinsam mit MediaTek entworfen, verbunden über NVLink-C2C, bis 128 GB Unified Memory; ab Herbst von Asus, Dell, HP, Lenovo, Microsoft Surface und MSI, Acer und Gigabyte folgen. Tom's Hardware nennt LPDDR5X mit bis zu 300 GB/s. Die Aufteilung in X925- und A725-Kerne hat Nvidia für RTX Spark nicht selbst genannt, sie ist für den GB10 belegt. Die 216 Watt der DGX Spark sind eine eigene c't-Messung.
+> Quelle: [Nvidia Newsroom](https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark) · [Tom's Hardware](https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory) · [heise, DGX Spark vs. Strix Halo](https://www.heise.de/news/Duell-der-KI-Kisten-Nvidia-DGX-Spark-vs-AMD-Strix-Halo-11079206.html)
+
+> [!success] Bestätigt — Speicherpreise, Steam Deck, AM4
+> Seit Herbst 2025 verlagern die Hersteller ihre Produktion zu Server- und KI-Speicher. Valve verteuerte das Steam Deck OLED im Mai 2026 wegen der Speicherkosten. AMD legte zur Computex den Ryzen 7 5800X3D für AM4 neu auf, nachdem Ryzen-Chef McAfee schon im Januar angekündigt hatte, alte AM4-CPUs gegen die RAM-Preise zurückzubringen.
+> Quelle: [PCGH](https://www.pcgameshardware.de/Steam-Deck-Hardware-277668/News/Preiserhoehung-OLED-Speicherkrise-Valve-1536683/) · [heise, Januar 2026](https://www.heise.de/en/news/Memory-prices-continue-to-explode-AMD-is-contemplating-new-old-AM4-CPUs-11134383.html) · [AMD](https://amd.com/en/blogs/2026/amd-computex-2026-10-years-of-am4-am5-support-through.html)
+
+> [!note] Korrigiert am 26.10.2026
+> Hier stand bis heute, Janssen habe „eine Million Dollar“ genannt und Huangs Betrag „um Faktor 4“ übertrieben. Das war ein Fehler unserer Transkription: Er sagt „eine Viertelmillion“, genau Huangs Zahl. Außerdem stand im Text, 250.000 Dollar seien „ein Viertel“ eines 500.000-Dollar-Gehalts — es ist die Hälfte. Und der Amazon-Callout behauptete, die Angestellten seien nicht von oben gedrängt worden; 404 Media belegt das Gegenteil.
 
 ---
 
@@ -126,15 +157,14 @@ Die Preisinformation fehlt noch — was auf der Computex zu hören war: Es könn
 - [c't Magazin](https://ct.de) — Heise-Verlag Hauptpublikation
 - [Wie sich c't 3003 finanziert](https://www.youtube.com/watch?v=xWLRoMP3rLU) — Transparenz-Video zum Channel-Modell
 
-*Im Video referenziert:*
-- [Nvidia: Keine Produkte mehr für Menschen (heise.de)](https://www.heise.de/news/Nvidia-Keine-Produkte-mehr-fuer-Menschen-11314488.html) — Heise-Bericht zu Huangs Paradigmenwechsel-Statement
-- [Tom's Hardware — Nvidia RTX Spark Superchip](https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory) — Vollständige technische Specs
-
-*Hintergründe (Sherlock-Recherche):*
-- [The Decoder — Jensen Huang "deeply alarmed" (Token-Kosten-Zitat)](https://the-decoder.com/nvidia-ceo-jensen-huang-says-hed-be-deeply-alarmed-if-a-500k-developer-spent-less-than-250k-on-ai-tokens/) — Primärquelle für das $250K-Zitat mit Kontext
-- [404 Media — Amazon Shuts Down Internal AI Leaderboard](https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/) — Unabhängiger Bericht zum Kirorank-Tokenmaxxing-Incident
-- [SiliconAngle — Five thoughts from Jensen Huang's GTC Taipei 2026 keynote](https://siliconangle.com/2026/06/01/five-thoughts-nvidia-ceo-jensen-huangs-gtc-taipei-2026-keynote/) — Analysetext zur Keynote
-- [ServeTheHome — Computex 2026 Keynote Live Coverage](https://www.servethehome.com/nvidia-computex-2026-keynote-live-coverage/) — Vollständiges Live-Protokoll der Keynote
+*Im Video und dahinter:*
+- [Nvidia: Keine Produkte mehr für Menschen (heise.de)](https://www.heise.de/news/Nvidia-Keine-Produkte-mehr-fuer-Menschen-11314488.html) — die Textfassung dieses Videos
+- [Nvidia-Keynote GTC Taipei 2026, ganze Aufzeichnung](https://www.youtube.com/watch?v=wSp6AiNIrsY) — Primärquelle für alle Huang-Zitate
+- [Nvidia Blog — GTC Taipei Live Updates](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) — Nvidias eigene Zusammenfassung
+- [The Decoder — Jensen Huang „deeply alarmed"](https://the-decoder.com/nvidia-ceo-jensen-huang-says-hed-be-deeply-alarmed-if-a-500k-developer-spent-less-than-250k-on-ai-tokens/) — das $250.000-Zitat mit Kontext
+- [404 Media — Amazon Shuts Down Internal AI Leaderboard](https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/) — Kirorank und Tokenmaxxing
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) — GitHubs eigene Commit-Zahlen
+- [RTX Spark im Test (heise / c't 3003, 16.10.2026)](https://www.heise.de/news/RTX-Spark-im-Test-Nvidias-erster-Notebook-Chip-fuer-lokale-KI-11490664.html) — Janssens Folgevideo
 
 ---
 
@@ -146,11 +176,11 @@ Dieselbe Zirkularität vom anderen Ende gesehen: Göpel beschreibt KI-Systeme, d
 
 ### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 
-Janssen beschreibt von innen die Marktkonzentration, die Kaltheuner als strukturelles Problem identifiziert: Nvidias Token-Monopol ist die Infrastrukturebene, auf der europäische Fördergelder in Abhängigkeit fließen, wenn die Investitionslogik nur auf Anwendung setzt ohne die Chip-/Cloud-Ebene zu adressieren.
+Janssen beschreibt von innen die Marktkonzentration, die Kaltheuner als strukturelles Problem identifiziert: Nvidias Stellung am Hardware-Flaschenhals ist die Infrastrukturebene, auf der europäische Fördergelder in Abhängigkeit fließen, wenn die Investitionslogik nur auf Anwendung setzt, ohne die Chip- und Cloud-Ebene zu adressieren.
 
 ### → [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
-Nosthoff analysiert Silicon Valley als kybernetische Herrschaftsideologie — Systeme die auf Effizienz und Regelkreise reduziert werden, während der Mensch als störende Variable erscheint. Huangs Satz „nicht mehr für Menschen" ist eine Radikalisierung dieser Logik: Hier wird der Mensch nicht mehr als zu optimierende Größe betrachtet, sondern als obsolete Kategorie.
+Nosthoff analysiert Silicon Valley als kybernetische Herrschaftsideologie — Systeme, die auf Effizienz und Regelkreise reduziert werden, während der Mensch als störende Variable erscheint. Huangs „CPUs for agents“ lässt sich als Fortschreibung dieser Logik lesen: Die Kundschaft, für die gebaut wird, ist nicht mehr der Mensch, sondern der Agent.
 
 ### → [[Morpheus — Warum alle chinesische KI nutzen]]
 
@@ -158,7 +188,7 @@ Morpheus zeigt, wie KI-Modelle als geopolitische Instrumente eingesetzt werden �
 
 ### → [[Klarsprech — Peter Thiel und ObjectionAI]]
 
-Thiel, Huang, Musk — alle operieren in einer Tech-Oligarchie, die ihre Geschäftsmodelle als universelle Gesellschaftstheorie verkaufen. Huangs "Milliardäre für Milliardäre"-Keynote ist das Computex-Pendant zu Thiels politischen Machtprojektionen.
+Thiel, Huang, Musk — alle operieren in einer Tech-Oligarchie, die ihre Geschäftsmodelle als universelle Gesellschaftstheorie verkaufen. Huangs Keynote, die Janssen „von Milliardären für Milliardäre“ gemacht findet, ist das Computex-Pendant zu Thiels politischen Machtprojektionen.
 
 ### → [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
@@ -170,14 +200,14 @@ Tooze zeigt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch legit
 
 ### → [[Markus Gabriel — Ethische Intelligenz (scobel)]]
 
-Gabriels These, dass KI-Systeme den Menschen nicht mehr als Gegenüber, sondern als Datenpunkt modellieren, kehrt bei Janssen als ökonomische Realität wieder: Huang spricht es offen aus — die neue Zielgruppe sind KI-Agenten, nicht Menschen. Was Gabriel als philosophische Verschiebung beschreibt, ist bei Nvidia bereits Produktstrategie.
+Gabriels These, dass KI-Systeme den Menschen nicht mehr als Gegenüber, sondern als Datenpunkt modellieren, kehrt bei Janssen als ökonomische Realität wieder: Huang spricht es offen aus — die neue Zielgruppe der Rechenzentrums-CPU sind KI-Agenten. Was Gabriel als philosophische Verschiebung beschreibt, ist bei Nvidia bereits Produktstrategie.
 
 ### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 Neitzel/Iltisberger liefern die theoretische Rahmung für das, was Janssen empirisch beschreibt: Huangs Token-Mantra erfüllt alle vier Hype-Merkmale (Vision als Gewissheit, exaltierte Sprache, Risikounterdrückung, Handlungsaufforderung). Der Kirorank-Incident ist ein Lehrstück für den Capital System Bandwagon Loop — Wettlaufdruck entkoppelt Wert von Konsum.
 
 ### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
-Janssen diagnostiziert, dass Nvidia „nicht mehr für Menschen baut". Büttner und Kaufmann formulieren die europäische Gegenstrategie: eigene Infrastruktur schaffen, die dem europäischen Markt und seinen Werten dient — nicht der Kapitalakkumulation weniger Konzerne.
+Janssen beschreibt eine Keynote, auf der Menschen kaum noch vorkommen. Büttner und Kaufmann formulieren die europäische Gegenstrategie: eigene Infrastruktur schaffen, die dem europäischen Markt und seinen Werten dient — nicht der Kapitalakkumulation weniger Konzerne.
 
 ---
 
@@ -188,4 +218,4 @@ Janssen diagnostiziert, dass Nvidia „nicht mehr für Menschen baut". Büttner 
 > - Jensen Huang sagt „Compute is profit" — aber für *wen*? *Kann eine Metrik legitim sein, wenn sie nur für eine Seite des Marktes gilt?*
 > - Nvidia macht den PC-Markt teuer und bietet dann die teure Lösung an — *welchen Namen hätten wir für dieses Muster in einem anderen Kontext?* (Versicherung, Pharma, Sicherheitsapparat)
 > - Wenn GitHub-Commits als Produktivität gelten — *was wird unsichtbar? Welche menschlichen Leistungen entziehen sich grundsätzlich der Metrifizierung?*
-> - Janssen fühlt sich nicht als Zielgruppe — *wann beginnt Technologie aufzuhören, für alle zu sein, und für wen ist sie dann noch?*
+> - Microsoft und Meta haben die Token-Zähler nach wenigen Monaten wieder abgeschafft. *Lag der Fehler in der Kennzahl, oder darin, dass man überhaupt eine einzige wollte?*
