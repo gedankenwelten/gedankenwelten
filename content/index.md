@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
 
+> **26.10.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
+>
+> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
+
 > **25.10.** — [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
 >
 > Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Je moralischer ein Unternehmen, desto profitabler auf lange Sicht: Markus Gabriel liest Adam Smiths unsichtbare Hand als menschliche Freiheit und will jeder Firma einen Chief Philosophy Officer geben.
 
-> **25.10.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
->
-> Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
-
-> → *6 weitere in* [[Zeitgeist]]
+> → *7 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -66,6 +66,18 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **26.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> **26.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **26.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+>
+> Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt.
+
 > **25.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
@@ -74,19 +86,7 @@ Die Gedankenwelten (luc)
 >
 > Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
-> **24.10.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
->
-> Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
-
-> **24.10.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
->
-> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
-
-> **23.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
->
-> Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
-
-> → *6 weitere in* [[Panorama]]
+> → *8 weitere in* [[Panorama]]
 
 ### Gedanken
 

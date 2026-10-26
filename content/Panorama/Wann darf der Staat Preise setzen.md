@@ -2,7 +2,7 @@
 title: "Wann darf der Staat Preise setzen?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-10
+aktualisiert: 2026-10-26
 description: "Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?"
 raetsel: "Eine Hand liegt über der Waage. Wessen Ärmel das ist, sagt keiner."
 panorama-art: wachsend
@@ -45,6 +45,8 @@ Ob das Signal ankam, ist inzwischen gemessen. Im zweiten Halbjahr 2022 lag der G
 
 Die Geschichte kennt beide Ausgänge. Im Zweiten Weltkrieg hielten die amerikanischen Preiskontrollen, solange Marken die Menge zuteilten; je länger sie liefen, desto größer wurden Schwarzmarkt und versteckte Qualitätsverluste (Rockoff 1984, [doi:10.1017/cbo9780511600999](https://doi.org/10.1017/cbo9780511600999)). Nixons Preisstopp von 1971 verschob die Inflation nur (Blinder & Newton 1981, [doi:10.1016/0304-3932(81)90002-7](https://doi.org/10.1016/0304-3932(81)90002-7)). Erhards Preisfreigabe vom Juni 1948 füllte über Nacht die Schaufenster. Der Mietpreisstopp von 1936 blieb, die Lebensmittel blieben rationiert, und weil die Preise bis zum Herbst stark stiegen und die Löhne eingefroren waren, schien die „Rationierung durch den Preis“ die Rationierung der Waren abgelöst zu haben. Der bizonale Länderrat erklärte im November, der Versuch einer Marktwirtschaft „bei kritischen Mangelwaren“ sei gescheitert, die Gewerkschaften riefen zum Generalstreik, und Erhard antwortete mit dem Jedermann-Programm ([APuZ/bpb, Kleine Ereignisgeschichte der Währungsreform 1948](https://www.bpb.de/shop/zeitschriften/apuz/271679/kleine-ereignisgeschichte-der-waehrungsreform-1948/); → [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Ahlen oder Erhard?|Ahlen oder Erhard?]]). Warum seine Leute die Preisfreiheit trotzdem zur Bedingung der neuen Ordnung machten, zeichnet Melvin John ideengeschichtlich nach (John 2025, [doi:10.1628/978-3-16-164386-6](https://doi.org/10.1628/978-3-16-164386-6)). Tilo Jung hält Grimm am Ende ihres Gesprächs Erhards Preiskontrollen vor, *„du bist ja auch dagegen“*; eine Antwort kommt nicht mehr, die Sendung geht zu den Zuschauerfragen.
 
+Zwischen Deckel und freiem Preis liegt ein drittes Instrument: Der Staat setzt keinen Preis, er gibt Menge in den Markt. Was eine Freigabe aus der strategischen Ölreserve bewirkt, ist schwer zu messen, weil sie fast immer mit der Nachricht zusammenfällt, die sie auslöste. Die Schätzungen reichen von keiner messbaren Wirkung ([Stevens & Zhang 2021, doi:10.5547/01956574.42.6.rste](https://doi.org/10.5547/01956574.42.6.rste)) über rund zwei Dollar je Barrel nach dem Einmarsch in Kuwait ([Kilian & Zhou 2020, doi:10.1002/jae.2798](https://doi.org/10.1002/jae.2798)) bis zu zeitweise 15 bis 20 Prozent in Simulationen ([Newell & Prest 2017, doi:10.2139/ssrn.3094419](https://doi.org/10.2139/ssrn.3094419), Working Paper). Sie trägt, wenn sie den wirklichen Engpass trifft und der Ausfall kürzer ist als der Vorrat. Bei der gesperrten Straße von Hormus sank die US-Reserve bis Oktober 2026 auf den tiefsten Stand seit 1982, und Brent stieg trotzdem bis auf 135 Dollar (→ [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Kann eine Ölreserve den Preis halten?|Kann eine Ölreserve den Preis halten?]]).
+
 Am dichtesten ist der Befund dort, wo ein Deckel auf Dauer gilt. Eine Übersicht über die empirische Literatur zur Mietregulierung findet, dass sie den Anstieg der gedeckelten Mieten bremst und eine breite Reihe von Nebenwirkungen hat (Kholodilin 2024, [doi:10.1016/j.jhe.2024.101983](https://doi.org/10.1016/j.jhe.2024.101983), Literaturübersicht). Diesen langen Deckel verhandelt [[Schoener Wohnen#Enteignen, regulieren oder bauen?|Schöner Wohnen]].
 
 **Die Stimmen**
@@ -58,12 +60,13 @@ Am dichtesten ist der Befund dort, wo ein Deckel auf Dauer gilt. Eine Übersicht
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#CO2-Preis oder CO2-Budget?|Tilo Jung]]** — Ein Preis rationiert über den Geldbeutel, und den Reichen ist er egal; ein gleiches Budget für jeden wäre fairer.
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Die Nächte in der Gaskommission|Andreas Audretsch]]** — Nach Wochen des Ringens mit der FDP habe man die Preise *„einfach gedeckelt am Ende, weil es klar war, es geht nicht mehr“*.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
 - **[[Dirk Specht — Das Ende des Erdoels beginnt jetzt#Tankrabatt und Abregelung|Dirk Specht]]** — Bei diesen Entlastungen wäre es vermutlich besser gewesen, gar nichts zu tun.
 - **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Mieten sind Armutspolitik|Elif Eralp]]** — Der Mietendeckel war *„eine super Sache“* und scheiterte an der Zuständigkeit; wer deckelt, braucht einen Plan B.
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Berlin und der Artikel 15|Tim Klüssendorf]]** — In Berlin helfe ein Mietendeckel jetzt mehr als eine Vergesellschaftung, deren Kosten niemand absehen kann.
 - **[[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)#Die Anti-Ohnmacht Agenda|Thomas Fricke]]** — Spekulative Preisschübe früh erkennen und gegensteuern, statt sie laufen zu lassen.
+- **[[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Die Ölreserven gehen zur Neige|Benjamin Biersky]]** — Die freigegebenen Reserven gehen zu Ende, *„der Krieg dauert einfach zu lange“*, und man hatte vorher nicht genug gespeichert.
 
 </details>
 
@@ -150,6 +153,7 @@ Spanien und Portugal griffen dort ein, wo der Strompreis entsteht. Der Deckel au
 |---|---|---|
 | 10.10.2026 | [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Wirken Preisdeckel?\|Isabella Weber — Antifaschistische Wirtschaftspolitik]] | Gründungsnote: Mietendeckel und Katalonien, die Stimmen für und gegen den Deckel |
 | 10.10.2026 | [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Wann darf der Staat Preise setzen?\|Veronika Grimm — Der Preis als Signal]] | die fehlende Stimme: der Preis als Sparsignal; alle drei Fragen mit Forschung (Ruhnau, Dertwinkel-Kalt, IWF, Langot, Brunninger, iberische Ausnahme, Weber & Wasner) |
+| 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Kann eine Ölreserve den Preis halten?\|Nachtsitzung — TheTrumpWeek]] | Menge statt Preis: strategische Ölreserven (Kilian & Zhou 2020, Stevens & Zhang 2021, Newell & Prest 2017, Razek et al. 2023), 1991, Katrina 2005, Hormus 2026 |
 
 ---
 

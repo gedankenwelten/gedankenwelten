@@ -2,7 +2,7 @@
 title: "Wer bestimmt, wie erinnert wird?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-14
+aktualisiert: 2026-10-26
 description: "Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt."
 raetsel: "Ein Kranz kostet wenig. Teuer ist, wer ihn niederlegen darf."
 panorama-art: wachsend
@@ -44,6 +44,8 @@ Der Präzedenzfall ist Buchenwald am 27. Januar 2017. Die Stiftung lud Björn H�
 
 In Hanau verliefen die Konflikte zwischen Angehörigen und demokratischer Stadtpolitik. Die Familien wollten das Mahnmal auf dem Marktplatz, die Stadt lehnte ab; im November 2024 stimmte eine Mehrheit der Familien dem Kanaltorplatz zu, gegen einen Teil der Angehörigen ([hessenschau](https://www.hessenschau.de/gesellschaft/anschlag-von-hanau-standort-fuer-mahnmal-in-hanau-beschlossen-v2,mahnmal-hanau-stavo-100.html); [OP](https://www.op-online.de/region/hanau/angehoerige-der-opfer-von-hanau-stimmen-mehrheitlich-fuer-mahnmal-standort-93397967.html)). Nach einer unbequemen Rede 2025 kündigten CDU, SPD und FDP ein kleineres Gedenken an; 2026 gab es kein offizielles städtisches Gedenken mehr ([hessenschau](https://www.hessenschau.de/gesellschaft/streit-um-hanau-gedenken-initiative-zeigt-sich-entsetzt-und-enttaeuscht-v6,reaktionen-hanau-gedenken-100.html); [taz](https://taz.de/Konflikt-um-Hanau-Gedenken-Wer-ist-hier-undankbar/!6150955/)). Ob das eine aus dem anderen folgte, ist nicht belegt. Die Gedächtnisforschung beschreibt Initiativen von Betroffenen als *memory activism* ([Gutman & Wüstenberg 2023, Handbuch, doi:10.4324/9781003127550](https://doi.org/10.4324/9781003127550)). Wer entscheiden *soll*, ist eine normative Frage; empirisch lässt sie sich nicht beantworten.
 
+Ein Gedenken lässt sich auch übernehmen, ohne dass jemand eine Tür blockiert. Am 6. Juni 2026 sprach der amerikanische Verteidigungsminister Pete Hegseth auf dem Soldatenfriedhof in der Normandie und lieh sich das Bild der gestürmten Strände für die Migration nach Europa: *„When will European capitals do something about that invasion?“* ([war.gov](https://www.war.gov/News/Speeches/Speech/Article/4512402/remarks-by-secretary-of-war-pete-hegseth-at-the-82nd-anniversary-of-the-d-day-l/)). Die Forschung beschreibt solche Umdeutungen als Werkzeugkasten, der von Land zu Land wandert ([Yoder 2023, doi:10.1093/oso/9780198894162.001.0001](https://doi.org/10.1093/oso/9780198894162.001.0001), Monografie), und extrem rechte Akteure, die sich zu den eigentlichen Erben der Tradition erklären ([Couperus, Tortola & Rensmann 2022, doi:10.1080/23745118.2022.2058757](https://doi.org/10.1080/23745118.2022.2058757)). Was ein einzelner Satz bewirkt, ist dagegen wenig: Metaphern überzeugen im Mittel kaum ([Brugman, Burgers & Vis 2019, doi:10.1017/langcog.2019.5](https://doi.org/10.1017/langcog.2019.5), Meta-Analyse, d = 0,11), Geschichtsanalogien wecken eher Gefühle als Haltungen ([Menon et al. 2025, doi:10.1080/09636412.2025.2537651](https://doi.org/10.1080/09636412.2025.2537651)). Ihr Gewicht liegt in der Wiederholung (→ [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Wem gehört ein Gedenken?|Wem gehört ein Gedenken?]]).
+
 **Die Stimmen**
 
 - **[[Bartunek — Tillschneider vor der Synagoge in Halle#Vor dem Tor|Jüdische Studierendenunion]]:** „Wir lassen unser Gedenken nicht kapern“ — wer die Erzählung des Täters teilt, soll nicht noch einmal durch diese Tür.
@@ -51,6 +53,8 @@ In Hanau verliefen die Konflikte zwischen Angehörigen und demokratischer Stadtp
 - **[[Bartunek — Tillschneider vor der Synagoge in Halle#Die Pressemitteilung von 2026|Hans-Thomas Tillschneider]]:** Er kam in Vertretung des Landtagspräsidenten und sieht in der Abweisung fehlenden Respekt vor der Volksvertretung.
 - **[[Arnd Henze — Bonhoeffer und die Neue Rechte#Die AfD und die Doppelkontinuität|Arnd Henze]]:** Die AfD erklärt sich zur Erbin des Widerstands gegen beide Diktaturen, und wer die Toten beerbt, beansprucht auch ihr Gedenken.
 - **[[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)#Gender/Woke als Fantasma — Kontinuität|Eva von Redecker]]:** Auch die Erinnerungskultur kann zum „Phantombesitz“ werden, und die Rechte benutzt den Kampf gegen Antisemitismus als Schild für das eigene Projekt.
+- **[[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Hegseth und die Umwidmung der Geschichte|Benjamin Biersky]]:** Wer die Toten der Normandie ehren soll und daraus *„ein Kammerstück über Migrationssachen“* macht, lädt die Deutung ein, die Alliierten seien angreifende Migranten.
+- **[[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet#Der 9. Mai als Staatswaffe|Konstantin Flemig]]:** In Russland ist der Gedenktag an die Toten des Krieges zur Mobilisierung geworden; der Kampf von 1945 gilt als derselbe wie der gegen die Ukraine.
 - **[[Jihan Alomar — Gefangen vom Islamischen Staat#Was sie fordert|Jihan Alomar]]:** Für die Überlebende ist der Gedenktag der Tag ihrer Verschleppung; fertig ist ihre Arbeit erst, wenn Shingal wiederaufgebaut ist.
 
 > [!question] Die Reibung
@@ -111,6 +115,7 @@ Die räumlichen Studien widersprechen einander. Wo früher ein Konzentrationslag
 | Datum | Note | vertieft |
 |---|---|---|
 | 10.10.2026 | [[Bartunek — Tillschneider vor der Synagoge in Halle#Wer bestimmt, wie erinnert wird?|Tillschneider vor der Synagoge in Halle]] | Gründungsnote. Staatsvertrag und GedenkStiftG Sachsen-Anhalt, AfD-Programm 2026, Höcke/Buchenwald 2017, Buchenwald-Komitee 2025, VG Weimar 2024, Hanau 2024–26 · MEMO 2025, Rees/Papendick/Zick 2021, KZ-Nähe-Debatte (Hoerner 2019, Homola 2020, Pepinsky 2023), Lüssenheide 2025 (Preprint) |
+| 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Wem gehört ein Gedenken?\|Nachtsitzung — TheTrumpWeek]] | Hegseth am D-Day 2026: Umdeutung (Yoder 2023, Couperus et al. 2022), Wirkung von Metaphern und Analogien (Brugman et al. 2019, Jimenez et al. 2021, Steen et al. 2014, Menon et al. 2025), Russlands 9. Mai |
 
 > [!note] Kandidat für eine vierte Frage: Wessen Tote werden erinnert?
 > Das AfD-Programm will das „soldatische Opfer ehren“, „ohne kleingeistige politische Wertungen“; Höcke beklagte 2017, es habe „keine deutschen Opfer mehr“ gegeben, nur Täter. Das Landesgesetz schreibt das Gedenken an die Opfer von SBZ und SED längst vor. Im Bestand ist die Frage noch dünn besetzt — sie wächst, wenn eine Note sie aufnimmt.

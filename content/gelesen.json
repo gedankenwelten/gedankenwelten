@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 864,
-   "aufrufe": 1030
+   "leser": 865,
+   "aufrufe": 1031
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -24,14 +24,14 @@
    "aufrufe": 57
   },
   {
+   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+   "leser": 38,
+   "aufrufe": 52
+  },
+  {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
    "leser": 38,
    "aufrufe": 45
-  },
-  {
-   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 37,
-   "aufrufe": 51
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -61,7 +61,7 @@
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
    "leser": 16,
-   "aufrufe": 19
+   "aufrufe": 20
   },
   {
    "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -294,12 +294,12 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Mats-Schoenauer",
+   "pfad": "/DenkerVita/Leonie-Heims",
    "leser": 4,
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Maurice-Hoefgen",
+   "pfad": "/DenkerVita/Mats-Schoenauer",
    "leser": 4,
    "aufrufe": 4
   }
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 87,
-     "aufrufe": 106
+     "leser": 88,
+     "aufrufe": 107
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -324,28 +324,28 @@
      "aufrufe": 21
     },
     {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 10,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 9,
      "aufrufe": 11
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 9,
-     "aufrufe": 11
-    },
-    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 8,
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 7,
      "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 7,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 6,
      "aufrufe": 7
     },
     {
@@ -369,12 +369,12 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 4,
-     "aufrufe": 4
+     "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 4,
      "aufrufe": 4
     },
@@ -519,6 +519,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/BissenBlaBla-AfD-Behauptungen-zur-Auslaenderkriminalitaet",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/IT-Mario-40.000-Bundestagsreden-analysiert",
      "leser": 2,
      "aufrufe": 2
@@ -599,12 +604,7 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Kimberle-Crenshaw-Intersektionalitaet-und-Critical-Race-Theory",
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 1,
      "aufrufe": 1
     }
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 864,
-     "aufrufe": 1030
+     "leser": 865,
+     "aufrufe": 1031
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -634,14 +634,14 @@
      "aufrufe": 57
     },
     {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 38,
+     "aufrufe": 52
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 38,
      "aufrufe": 45
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 37,
-     "aufrufe": 51
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -671,7 +671,7 @@
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 16,
-     "aufrufe": 19
+     "aufrufe": 20
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -904,12 +904,12 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Mats-Schoenauer",
+     "pfad": "/DenkerVita/Leonie-Heims",
      "leser": 4,
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Maurice-Hoefgen",
+     "pfad": "/DenkerVita/Mats-Schoenauer",
      "leser": 4,
      "aufrufe": 4
     }
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 929,
-     "aufrufe": 1116
+     "leser": 930,
+     "aufrufe": 1117
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 98,
-     "aufrufe": 119
+     "leser": 99,
+     "aufrufe": 120
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -981,7 +981,7 @@
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 22,
-     "aufrufe": 25
+     "aufrufe": 26
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 929,
-     "aufrufe": 1116
+     "leser": 930,
+     "aufrufe": 1117
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 98,
-     "aufrufe": 119
+     "leser": 99,
+     "aufrufe": 120
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1286,7 +1286,7 @@
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 22,
-     "aufrufe": 25
+     "aufrufe": 26
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -1564,12 +1564,12 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/DenkerVita/Valentina-Chiofalo",
-     "leser": 13,
-     "aufrufe": 13
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 14,
+     "aufrufe": 14
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "pfad": "/DenkerVita/Valentina-Chiofalo",
      "leser": 13,
      "aufrufe": 13
     },
