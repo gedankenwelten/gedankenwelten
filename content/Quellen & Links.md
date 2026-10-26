@@ -4723,7 +4723,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 |---|---|
 | **Vortrag / Video** | [GRENZGÄNGER STUDIOS: Wie Peter Thiel den Westen umbauen will](https://www.youtube.com/watch?v=j7EGHo0tcbM) |
 | **Notiz** | [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]] |
-| **Transkript** | `Gedankenwelten/Transkripte/Thiel_Grenzgaenger_Transkript.txt` |
+| **Transkript** | `Gedankenwelten/Transkripte/Grenzgaenger_Thiel_Transkript.txt` |
 
 ## Matthias Quent / Extremismus NEU DENKEN
 

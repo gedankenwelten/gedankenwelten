@@ -182,4 +182,4 @@ Wenn ehemalige Verbündete anfangen auszupacken: Ungaro ist ein konkretes Beispi
 
 ### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
 
-Direkte Fortsetzung: Thiels Emigration und die Républikaner-Dissidenz gegen den Irankrieg sind neue Kapitel der hier beschriebenen Erosion. Die Machtbasis verliert nun auch ihren finanziellen Kern — der Hauptgeldgeber zieht nach Argentinien.
+Die Fortsetzung zwei Monate später: Republikaner stimmen gegen den Irankrieg, und Peter Thiel, 2016 Trumps erster Förderer aus dem Silicon Valley, holt seine Familie nach Buenos Aires. Biersky liest das als weiteren Riss in der Machtbasis. Ein Hauptgeldgeber Trumps war Thiel allerdings nur 2016, und im Oktober 2026 stellte er sich trotz seiner Kritik am Krieg weiter hinter den Präsidenten (→ [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Was seither geschah|Was seither geschah]]).
