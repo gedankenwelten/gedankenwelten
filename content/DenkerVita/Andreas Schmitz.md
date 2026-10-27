@@ -82,4 +82,4 @@ Zwei Einwände bleiben, auch wenn man ihm fachlich folgt. Der erste betrifft die
 
 - [[Akkudoktor — Lanz und die Energiewende]] — Programmbeschwerde gegen *Markus Lanz* vom 01.04.2026: der 8-%-Trick, die Primärenergie-Falle, die Altmaier-Delle
 - [[Akkudoktor — SMR und drei Versprechen]] — Small Modular Reactors: drei Versprechen auf dem Taschenrechner (Kosten, Dunkelflaute, Sicherheit, Atommüll)
-- [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]] — Gast bei Breaking Lab: die Balkonsolar-Petition als Erfahrung, dass Einmischung wirkt, und die Erfahrung, dass in der Politik oft zählt, von wem eine Idee kommt
+- [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]] — Gast bei Breaking Lab: die Balkonsolar-Petition als Erfahrung, dass Einmischung wirkt, und die Erfahrung, dass in der Politik oft zählt, von wem eine Idee kommt

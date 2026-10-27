@@ -265,7 +265,7 @@ Das Panorama hat die Aufschlüsselung des Strompreises und eine Kontroverse übe
 
 Spechts Lob der chinesischen Planung ist die schärfste Stimme im Bestand für das Tempo. Im Panorama steht sie neben der „autokratischen Lotterie“ und der EU, die Reiches Gaskraftwerke gebremst hat.
 
-### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
 
 Die letzten zwanzig Prozent, die Specht „graue Theorie“ nennt, bekommen bei Beautemps Gesichter: Erfindungen für Kerosin und Synthesegas, deren Gründer offen sagen, dass erst eine Quote ihnen den Markt schafft.
 

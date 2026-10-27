@@ -33,7 +33,7 @@ tags:
 > Was sich elektrifizieren lässt, braucht keine Moleküle mehr. Was übrig bleibt, braucht sie umso dringender: Langstreckenflug, Primärstahl, Chemie, Schifffahrt. Grüner Wasserstoff, synthetische Kraftstoffe und Biomethan sind dafür da, und sie werden auf Jahre knapp und teuer bleiben. Zugleich wollen sie andere, die auch elektrisch könnten: das Auto, die Heizung. Dieses Panorama fragt, wo ein Molekül unersetzlich ist, ob es für alle reicht, die es wollen, und wer verteilt — der Preis, die Quote oder das Gesetz.
 
 > [!info] Ein wachsendes Panorama
-> Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Angelegt am 27.10.2026 aus der Nachbesprechung zu [[Jacob Beautemps — Der harte Kern der Energiewende|Jacob Beautemps' „hartem Kern“]]. Im Bestand fehlt bisher eine Stimme, die E-Fuels im Auto oder Biomethan in der Heizung aus Überzeugung verteidigt; sie ist hier ausdrücklich gesucht.
+> Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Angelegt am 27.10.2026 aus der Nachbesprechung zu [[Jacob Beautemps — Made in Germany Awards 2026 Energie|Jacob Beautemps' „hartem Kern“]]. Im Bestand fehlt bisher eine Stimme, die E-Fuels im Auto oder Biomethan in der Heizung aus Überzeugung verteidigt; sie ist hier ausdrücklich gesucht.
 
 ---
 
@@ -45,7 +45,7 @@ Auch oben in der Rangfolge ist das Molekül keine vollständige Lösung. E-Keros
 
 **Die Stimmen**
 
-- **[[Jacob Beautemps — Der harte Kern der Energiewende#Der harte Kern|Jacob Beautemps]]** — Elektrifizieren, was geht; was bleibt, ist klein, aber hart: *„da braucht man nicht die Energie, sondern wirklich den Stoff selbst.“*
+- **[[Jacob Beautemps — Made in Germany Awards 2026 Energie#Der harte Kern|Jacob Beautemps]]** — Elektrifizieren, was geht; was bleibt, ist klein, aber hart: *„da braucht man nicht die Energie, sondern wirklich den Stoff selbst.“*
 - **[[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar#Der Satz, an dem alles hängt|Ulrike Herrmann]]** — Synthetisches Kerosin geht technisch, aber was es kostet, lässt das Fliegen schrumpfen: *„Wir betrachten ja nicht die technischen Möglichkeiten, sondern die ökonomische Effizienz.“*
 - **[[Andreas Loeschel — Strom NEU DENKEN#Viele Energiewenden, ein Muster — was sicher ist und was offen bleibt|Andreas Löschel]]** — Gewiss ist das Muster: im Kern erneuerbar, ergänzt um Wasserstoff und synthetische Kraftstoffe für das, was sich nicht elektrifizieren lässt; die teuren Techniken muss die Politik an den Markt heranführen.
 - **[[Michael Sterner — Energiewende ist gelebter Patriotismus#Kraftwerksgesetz und Heizungsgesetz zwei offene Rechnungen|Michael Sterner]]** — Grünes Gas und grünes Öl in der Heizung sind legitim, aber kosten- und mengenbegrenzt; für die meisten bleibt die Wärmepumpe die Wahl.
@@ -69,7 +69,7 @@ Beim Biomethan liegen die Schätzungen weit auseinander. Eine Studie des Öko-In
 - **[[Michael Sterner — Reiche gegen Marktwirtschaft#Wasserstoff-Ready Versprechen ohne Beweis|Michael Sterner]]** — Kein Gaskraftwerk ist je im normalen Maßstab tagelang mit Wasserstoff gelaufen: *„Es heißt zwar immer Wasserstoff-ready geht, aber zeigt es mir.“*
 - **[[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke#Vier Säulen schließen die Lücke — aus dem Bestand|Kail]]** — Die Moleküle gehören in die Stromreserve: bestehende Gaskraftwerke auf grünen Wasserstoff umrüsten, Biogasanlagen im Winter gezielt hochfahren.
 - **[[Fichtner - Zehn Batteriemythen die uns Milliarden kosten#Mythos 5 — Dunkelflauten Lieber Biogas als Batteriespeicher|Maximilian Fichtner]]** — Biogas als Regelenergie statt Dauerstrom ist eine gute Idee, Dänemark macht es vor; Aufbereitung, Kosten und die ungleiche Verteilung im Land bremsen.
-- **[[Jacob Beautemps — Der harte Kern der Energiewende#Synhelion Wärme statt Elektrolyse|Philipp Furler]]** — Synhelions Verfahren braucht keine Elektrolyse und viel weniger Strom, weil die Hälfte der Energie aus dem Biogas kommt; das macht es billiger und hängt es an einen knappen Rohstoff.
+- **[[Jacob Beautemps — Made in Germany Awards 2026 Energie#Synhelion Wärme statt Elektrolyse|Philipp Furler]]** — Synhelions Verfahren braucht keine Elektrolyse und viel weniger Strom, weil die Hälfte der Energie aus dem Biogas kommt; das macht es billiger und hängt es an einen knappen Rohstoff.
 
 > [!question] Die Reibung
 > Die Forschung rechnet mit langer Knappheit, die Branche mit reichlich Biomethan, und beide haben ein Interesse an ihrer Zahl. *Wer trägt das Risiko, wenn man auf die größere Zahl baut und sie nicht kommt — der, der sie genannt hat, oder der, der seine Heizung danach gekauft hat?*
@@ -84,7 +84,7 @@ Das Gesetz kann auch in die Gegenrichtung lenken. Das Gebäudemodernisierungsges
 
 **Die Stimmen**
 
-- **[[Jacob Beautemps — Der harte Kern der Energiewende#Das Aber der Wärme|Philipp Furler]]** — Ohne Quote kein Kapital: ReFuelEU gibt *„Marktsicherheit“*, und erst die erlaubt die Skalierung.
+- **[[Jacob Beautemps — Made in Germany Awards 2026 Energie#Das Aber der Wärme|Philipp Furler]]** — Ohne Quote kein Kapital: ReFuelEU gibt *„Marktsicherheit“*, und erst die erlaubt die Skalierung.
 - **[[Greenpeace — Katherina Reiche und die Gasindustrie#Die Wette auf Gas|Greenpeace]]** (in unserer Note dazu) — Die Biotreppe ist eine Wette mit dem Geld derer, die eine Gasheizung einbauen; die Gasnetzbetreiber gewinnen sie in jedem Fall.
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Wasserstoff, Atomkraft, Fracking|Veronika Grimm]]** — Die Infrastruktur für Wasserstoff braucht Jahre; der Staat soll sie jetzt aus dem Gasnetz bauen.
 - **[[Michael Sterner — Energiewende ist gelebter Patriotismus#Kraftwerksgesetz und Heizungsgesetz zwei offene Rechnungen|Michael Sterner]]** — Dass ab 2045 noch Öl und Gas in Heizungen verbrannt werden dürfe, sei „im Endeffekt schon im Gesetz Verfassungsbruch“.
@@ -98,7 +98,7 @@ Das Gesetz kann auch in die Gegenrichtung lenken. Das Gebäudemodernisierungsges
 
 | Datum | Note | vertieft |
 |---|---|---|
-| 27.10.2026 | [[Jacob Beautemps — Der harte Kern der Energiewende#Wer bekommt die knappen Moleküle?\|Jacob Beautemps — Der harte Kern der Energiewende]] | Gründungsnote: Rangfolge der Verwendungen (Ueckerdt 2021, Liebreich, Rosenow 2022), lange Knappheit (Odenweller 2022, 2025), E-Kerosin-Lücke (EASA, T&E, ERA ONE), Biomethan (UBA/Öko-Institut gegen DVGW), Biotreppe und EU-Pkw-Kompromiss |
+| 27.10.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Energie#Wer bekommt die knappen Moleküle?\|Jacob Beautemps — Made in Germany Awards 2026 Energie]] | Gründungsnote: Rangfolge der Verwendungen (Ueckerdt 2021, Liebreich, Rosenow 2022), lange Knappheit (Odenweller 2022, 2025), E-Kerosin-Lücke (EASA, T&E, ERA ONE), Biomethan (UBA/Öko-Institut gegen DVGW), Biotreppe und EU-Pkw-Kompromiss |
 
 ---
 

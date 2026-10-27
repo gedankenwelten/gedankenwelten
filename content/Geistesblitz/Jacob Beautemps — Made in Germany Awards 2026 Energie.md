@@ -1,9 +1,9 @@
 ---
-title: "Der harte Kern der Energiewende — drei Erfindungen und ihr großes Aber"
+title: "Made in Germany Awards 2026 — Energie: drei Erfindungen für den harten Kern"
 date: 27.10.2026
 aktualisiert: 2026-10-27
 raetsel: "Alles fährt mit Strom. Nur der Himmel will noch trinken."
-description: "Strom ist erst ein Fünftel unserer Energie. Was nach der Elektrifizierung übrig bleibt, braucht Moleküle — drei Erfindungen versprechen sie, und jede trägt ihr Aber mit."
+description: "Mit einem eigenen Preis holt Jacob Beautemps deutsche Erfindungen ans Licht, das Aber der Jury gleich mit. Den Auftakt macht die Energie: Was nach dem Strom bleibt, braucht Moleküle."
 tags:
   - geistesblitz
   - technologie
@@ -13,6 +13,8 @@ tags:
   - deutschland
   - year-2026
 aliases:
+  - "Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende"
+  - Der harte Kern der Energiewende
   - Made in Germany Awards Energie
   - Skellium Synplasma Synhelion
   - 80 Cent pro Liter
@@ -24,7 +26,7 @@ stimme:
     geliehen: "kurzes Wort, aktives Verb, konkretes Bild; die Zahl neben das Versprechen stellen und den Leser selbst rechnen lassen"
 ---
 
-# Der harte Kern der Energiewende — drei Erfindungen und ihr großes Aber
+# Made in Germany Awards 2026 — Energie: drei Erfindungen für den harten Kern
 
 ![[assets/jacob-beautemps-harter-kern-energiewende-banner.jpg|1200]]
 
@@ -48,12 +50,12 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jacob Beautem
 </details>
 
 > [!abstract] Worum es geht
-> Strom ist erst ein Fünftel der Energie, die Deutschland verbraucht. Heizen und Autofahren lassen sich elektrifizieren, doch dann bleibt ein harter Kern: Langstreckenflugzeuge, Stahl und Chemie, womöglich auch schwere Lkw, brauchen Moleküle, keine Kilowattstunden. Jacob Beautemps stellt drei Erfindungen vor, die an diesem Kern ansetzen — eine Lithium-Anode aus Aachen, ein CO₂-Plasma aus dem Max-Planck-Institut für Plasmaphysik, Treibstoff aus Hochtemperaturwärme, gebaut in Jülich von einer Zürcher Firma. Das Video wirbt zugleich für Beautemps' eigenen Wettbewerb. Sein wertvollster Teil ist das „große Aber" nach jeder Erfindung: Zwischen Labor und Markt liegen Skalierung, Kosten und China.
+> Jacob Beautemps hat 2026 einen eigenen Innovationspreis ins Leben gerufen, die Made in Germany Awards, gemeinsam mit SPRIND und dem Forschungsministerium. In fünf Kategorien stellt er auf Breaking Lab je drei Erfindungen vor, die das Labor schon verlassen haben, jede mit einem „großen Aber“ der Jury; das Publikum stimmt ab, und den Siegern winkt eine mögliche Finanzierung durch SPRIND. Den Auftakt macht die Energie und mit ihr eine Unterscheidung, die bleibt: Strom ist erst ein Fünftel unserer Energie, und was nach der Elektrifizierung übrig bleibt, braucht Moleküle. Eine Lithium-Anode aus Aachen, ein CO₂-Plasma vom Max-Planck-Institut für Plasmaphysik und Treibstoff aus Hochtemperaturwärme, gebaut in Jülich, setzen an diesem harten Kern an. Zwischen Labor und Markt liegen für alle drei Skalierung, Kosten und China.
 
 Quelle: [80 ct/l für Benzin: Durchbruch Made in Germany](https://www.youtube.com/watch?v=7htQ-I8eiKg) · Breaking Lab, 27.10.2026 · 29 Min.
 
 > [!info] Wer spricht?
-> **Jacob Beautemps** — Physiker, promovierter Physikdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht von **Breaking Lab**. Hier tritt er in doppelter Rolle auf: als Erklärer und als Gründer der **Made in Germany Awards**, die er 2026 erstmals mit dem Bundesforschungsministerium (BMFTR) und der Bundesagentur für Sprunginnovationen (SPRIND) ausrichtet.
+> **Jacob Beautemps** — Physiker, promovierter Physikdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht von **Breaking Lab**. Er hat die **Made in Germany Awards** ins Leben gerufen und richtet sie 2026 erstmals mit der Bundesagentur für Sprunginnovationen (SPRIND) und dem Bundesforschungsministerium (BMFTR) aus; im Video ist er Erklärer und Gastgeber zugleich.
 >
 > Im Video kommen zu Wort: **Gerrit Bockey** (Mitgründer und Geschäftsführer von Skellium, Aachen), **Dr. Rodrigo Antunes** (Wissenschaftler am Max-Planck-Institut für Plasmaphysik, für das Team Synplasma), **Dr. Philipp Furler** (Co-CEO und Mitgründer von Synhelion, einer 2016 gegründeten Ausgründung der ETH Zürich) und **Dr. Andreas Schmitz**, der Akkudoktor, mit Einstieg und Ausblick.
 >
@@ -75,15 +77,17 @@ Ein Langstreckenflugzeug braucht Kerosin, weil Batterien zu schwer sind. Ein Hoc
 
 Diese Unterscheidung zwischen Energie und Molekül ist das Wertvollste, was man aus dem Video mitnehmen kann, auch wenn man die drei Firmen danach wieder vergisst. Sie erklärt, warum „mehr Solar" eine richtige und zugleich unvollständige Antwort ist. Und sie verschiebt den Streit: Es geht weniger um die Frage *ob* E-Fuels, als *wofür*. Für den Pkw, der auch elektrisch fahren kann, verschwendet ein synthetischer Kraftstoff Energie. Für den Airbus, der es nicht kann, ist er womöglich die einzige Möglichkeit.
 
-### Ein Video mit doppeltem Boden
+### Ein Preis, der sein Aber mitbringt
 
-[▶ 2:15](https://www.youtube.com/watch?v=7htQ-I8eiKg&t=135) — Bevor die erste Erfindung kommt, sollte man wissen, was man da sieht. Beautemps hat die Made in Germany Awards selbst gegründet, sie laufen mit dem Forschungsministerium und SPRIND, eine Jury aus beiden hat aus Hunderten Einreichungen drei Finalisten je Kategorie gewählt. Das Video ist die Vorstellung der Kategorie Energie und endet mit dem Aufruf, bis zum 10. November abzustimmen und die Preisverleihung am 23. November im Livestream zu verfolgen. Erklärstück und Werbung für die eigene Veranstaltung fallen hier zusammen.
+[▶ 2:15](https://www.youtube.com/watch?v=7htQ-I8eiKg&t=135) — Die Made in Germany Awards hat Beautemps selbst ins Leben gerufen, getragen von SPRIND und dem Forschungsministerium. Gesucht wurden Erfindungen in fünf Kategorien, Energie, Gesellschaft, Künstliche Intelligenz, Medizin und Mobilität, die das Labor schon verlassen haben: Ein Prototyp war Pflicht. Eine Jury aus SPRIND und Ministerium wählte aus Hunderten Einreichungen je drei Finalisten, das Publikum stimmt bis zum 10. November ab, verliehen wird am 23. November im Berliner Futurium. Den Siegern winkt mehr als ein Pokal: Sieht die SPRIND-Jury das Potenzial einer Sprunginnovation, kann eine Finanzierung folgen ([SPRIND](https://www.sprind.org/worte/magazin/made-in-germany-awards)); Beautemps spricht von einer Chance „in Millionen-Höhe“. Der Preis soll, so SPRIND, „mit dem Narrativ des wirtschaftlichen Rückschritts“ brechen.
 
-Beautemps weiß das und gibt sich Regeln:
+Erfinderinnen und Erfinder auf die Bühne zu holen, ist für Beautemps nicht neu. 2024 moderierte er mit Filomena Cautela den European Inventor Award des Europäischen Patentamts, live aus Valletta auf Malta ([EPO](https://www.epo.org/de/news-events/european-inventor-award/2024-event)), und im April 2026 erklärte er auf seinem Kanal die CO₂-Geothermie von Factor 2 Energy (→ [[Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie]]). Neu ist, dass er nun selbst eine Bühne baut, auf der Forscherinnen und Gründer ein Millionenpublikum erreichen, und dass er sie so anlegt, dass der Zweifel mitreist:
 
 > *„Erstens, die Reihenfolge der Innovation im Video, die ist völlig zufällig und zweitens, es gibt natürlich auch hier immer das große Aber, was durch die Expertenjury herausgearbeitet wurde und worauf die Finalisten reagieren können."* [▶ 3:01](https://www.youtube.com/watch?v=7htQ-I8eiKg&t=181)
 
-Das ist mehr, als man von einem Preis erwarten würde, den man selbst verleiht, und es ist trotzdem eine Konstruktion, in der die Firmen das letzte Wort behalten. Jedes Aber endet mit der Antwort des Gründers. Die Teilnahmebedingungen sagen es nüchtern: Für die Richtigkeit der Finalisten-Darstellungen sind die Teams verantwortlich, nicht der Veranstalter ([Ziffer 2.5](https://www.madeingermanyawards.de/teilnahmebedingungen)). Der Faktencheck unten zeigt, wo das Folgen hat. Am Schluss nennt Beautemps sein Ziel offen: *„eine kleine Bewegung … für mehr Optimismus in Deutschland"* [▶ 28:07](https://www.youtube.com/watch?v=7htQ-I8eiKg&t=1687). Gegen Optimismus ist nichts zu sagen. Aber ein Video, das Optimismus stiften will, wählt anders aus als eines, das prüfen will. Der Titel zeigt es: „80 ct/l für Benzin" ist ein Zielwert für Herstellungskosten in sehr großen Anlagen, die es noch nicht gibt (→ [[#Das Aber der Wärme]]).
+Das Aber ist kein Feigenblatt. Bei Synhelion stellt es die Kosten infrage, bei Synplasma den Weg in die Industrie, bei Skellium die Übermacht Chinas. Beautemps vergleicht es selbst mit dem Abschnitt über die Grenzen einer Studie, den „Limitations“ eines wissenschaftlichen Papers [▶ 9:07](https://www.youtube.com/watch?v=7htQ-I8eiKg&t=547). Die Gründer bekommen das letzte Wort, und für die Richtigkeit ihrer Angaben sind laut Teilnahmebedingungen die Teams verantwortlich ([Ziffer 2.5](https://www.madeingermanyawards.de/teilnahmebedingungen)). Wo der Faktencheck unten nachschärft, bei der Größe von DAWN und beim Batterievergleich, schärft er die Angaben der Firmen nach, und er tut es mit der Quellenliste, die Beautemps' Redaktion selbst veröffentlicht hat.
+
+Am Schluss nennt Beautemps sein Ziel: *„eine kleine Bewegung … für mehr Optimismus in Deutschland"* [▶ 28:07](https://www.youtube.com/watch?v=7htQ-I8eiKg&t=1687). Es ist ein Optimismus, der sich prüfen lässt, weil das Aber im selben Video steht. Nur der Titel eilt voraus: „80 ct/l für Benzin" ist ein Zielwert für Herstellungskosten in sehr großen Anlagen, die es noch nicht gibt (→ [[#Das Aber der Wärme]]).
 
 ### Skellium: Lithium wie Stahl behandeln
 
@@ -161,10 +165,10 @@ Den Markt soll vorerst die Politik schaffen. Die EU-Verordnung ReFuelEU verpflic
 
 > *„In der Politik zählt oft zuerst, von wem die Idee kommt, egal wie gut sie sein mag, und dann gehen gute Vorschläge auch gerne mal unter."* [▶ 27:21](https://www.youtube.com/watch?v=7htQ-I8eiKg&t=1641)
 
-Daraus folgt für Schmitz: Bei einem so technischen Projekt wie der Energiewende müsse man Wissenschaftlern und Ingenieuren genau zuhören. Die Beobachtung ist wertvoll, weil sie von jemandem kommt, der den Erfolg kennt und trotzdem den Mechanismus benennt, der ihn sonst verhindert. Sie lässt eine Gegenfrage offen. Die drei Erfindungen dieses Videos verlangen am Ende politische Entscheidungen, über CO₂-Preise, Quoten, Biomethan-Mengen, Förderung. Dort reicht es nicht, Fachleuten zuzuhören, denn auch Fachleute haben Interessen, und drei von ihnen haben in diesem Video eine Firma zu vertreten.
+Daraus folgt für Schmitz: Bei einem so technischen Projekt wie der Energiewende müsse man Wissenschaftlern und Ingenieuren genau zuhören. Die Beobachtung ist wertvoll, weil sie von jemandem kommt, der den Erfolg kennt und trotzdem den Mechanismus benennt, der ihn sonst verhindert. Sie lässt eine Gegenfrage offen. Die drei Erfindungen dieses Videos verlangen am Ende politische Entscheidungen, über CO₂-Preise, Quoten, Biomethan-Mengen, Förderung. Dort reicht es nicht, Fachleuten zuzuhören; man muss sie auch gegeneinander abwägen, und genau dafür hat Beautemps sein Aber eingebaut.
 
 > [!question] Weitergedacht
-> Schmitz beklagt, dass in der Politik zählt, *wer* eine Idee hat. *In einem Wettbewerb, der per Publikumsabstimmung entschieden wird — zählt da die Idee oder die Erzählung?*
+> Schmitz beklagt, dass in der Politik zählt, *wer* eine Idee hat. *Was müsste geschehen, damit eine gute Idee aus einem Aachener Labor so gehört wird wie die eines großen Konzerns — und kann ein Millionenpublikum, das abstimmt, dabei helfen?*
 
 ---
 
@@ -184,7 +188,7 @@ Wer bezahlt den Schritt dazwischen? Der Markt investiert zu wenig in große Demo
 
 Was es kostet, wenn der Schritt misslingt, zeigt Northvolt. BMW stornierte 2024 einen Auftrag über zwei Milliarden Euro wegen der Qualität, die Firma ging in die Sanierung und wurde verkauft, für den Bund wurden rund 620 Millionen Euro aus einer Wandelanleihe fällig, und der Bundesrechnungshof fand die Risiken „systematisch unterschätzt“ ([NDR-Chronologie](https://www.ndr.de/nachrichten/schleswig-holstein/Northvolt-Chronologie-Vom-Hoffnungstraeger-zum-Millionengrab,northvolt546.html)).
 
-Ein Preis wie Beautemps' Award ist in dieser Lücke ein kleines Werkzeug: Er gibt Sichtbarkeit, kein Kapital. In einem Punkt gibt die Forschung den Gründern aber recht. Ohne eine Nachfrage, die jemand garantiert, kommt das Kapital nicht, und darum ist Furlers Satz über ReFuelEU der nüchternste des Videos.
+Beautemps' Preis setzt genau in dieser Lücke an, mit Sichtbarkeit vor einem Millionenpublikum und der Aussicht auf eine SPRIND-Finanzierung für die, in denen die Jury eine Sprunginnovation sieht. Und in einem Punkt gibt die Forschung den Gründern recht. Ohne eine Nachfrage, die jemand garantiert, kommt das Kapital nicht, und darum ist Furlers Satz über ReFuelEU der nüchternste des Videos.
 
 → Weiter im Panorama: **[[Panorama/Forschung#Wer bezahlt die Forschung — und wofür muss sie gut sein?|Wer bezahlt die Forschung — und wofür muss sie gut sein?]]**, mit Omar Yaghi, Michael Sterner, Greenpeace und Jochen Großmanns Tal des Todes beim Höhenwindturm (GICON).
 
@@ -300,7 +304,7 @@ Ein früheres Video nach demselben Bauplan: eine Erfindung, ein großes Aber. Fa
 
 ### → [[Norio — GICON Hoehenwindturm revolutioniert Windkraft#Das Valley of Death Deutschlands Innovationsproblem|Norio — GICON-Höhenwindturm]]
 
-Jochen Großmann erzählt das Tal des Todes von innen: gute Ingenieure, gute Forschung, und dann scheitert der Mittelstand an der Pilotanlage, weil sie Geld kostet. SPRIND hat seinen Turm möglich gemacht, und dieselbe SPRIND richtet die Made in Germany Awards mit aus. Zusammen zeigen die beiden Notes die Agentur von zwei Seiten: als Geldgeberin, die einen Prototyp ins Feld bringt, und als Bühne, die Sichtbarkeit gibt.
+Jochen Großmann erzählt das Tal des Todes von innen: gute Ingenieure, gute Forschung, und dann scheitert der Mittelstand an der Pilotanlage, weil sie Geld kostet. SPRIND hat seinen Turm möglich gemacht, und dieselbe SPRIND richtet die Made in Germany Awards mit aus. Zusammen zeigen die beiden Notes die Agentur von zwei Seiten: als Geldgeberin, die einen Prototyp ins Feld bringt, und als Bühne, die Sichtbarkeit gibt und den Siegern eine Finanzierung in Aussicht stellt.
 
 ### → [[Tim Meyer und Jan Hegenberg — China Energiewende#Qualität und Lohnkosten — differenzierter als das Klischee|Tim Meyer und Jan Hegenberg — China Energiewende]]
 
@@ -316,6 +320,6 @@ Fichtner hält gegen eine Lesart, die diese Note nahelegen könnte: Northvolt se
 
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Wenn der harte Kern klein ist, aber teuer — *wer entscheidet, welche Flüge, Lastwagen und Hochöfen die knappen Moleküle bekommen: der Preis, die Quote oder die Lobby?*
-> - Alle drei Gründer antworten auf ihr Aber mit Tempo, Mut oder Politik. *Was wäre ein Aber, auf das es keine Antwort gibt — und hätte es eine Jury, die selbst den Preis vergibt, überhaupt gestellt?*
+> - Alle drei Gründer antworten auf ihr Aber mit Tempo, Mut oder Politik. *Was wäre ein Aber, auf das es keine Antwort gibt — und woran würde man es erkennen?*
 > - Synhelion braucht Biomethan, Synplasma grünen Wasserstoff, Skellium Lithium. *Ist „Made in Germany" eine Aussage über Erfindungen oder über Rohstoffe, die wir nicht haben?*
-> - Beautemps will Optimismus stiften, und die Gedankenwelten sammeln Lichtblicke. *Woran erkennt man eine Hoffnung, die schon trägt, und woran eine, die erst eine Wette ist?*
+> - Beautemps will Optimismus stiften, und die Gedankenwelten sammeln Lichtblicke. *Woran erkennt man eine Hoffnung, die schon trägt, und woran eine, die erst eine Wette ist — und braucht ein Land, das sich gern kleinredet, nicht beide?*

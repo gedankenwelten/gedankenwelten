@@ -24,9 +24,9 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
-> **27.10.** — [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende — drei Erfindungen und ihr großes Aber]]
+> **27.10.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie: drei Erfindungen für den harten Kern]]
 >
-> Strom ist erst ein Fünftel unserer Energie. Was nach der Elektrifizierung übrig bleibt, braucht Moleküle — drei Erfindungen versprechen sie, und jede trägt ihr Aber mit.
+> Mit einem eigenen Preis holt Jacob Beautemps deutsche Erfindungen ans Licht, das Aber der Jury gleich mit. Den Auftakt macht die Energie: Was nach dem Strom bleibt, braucht Moleküle.
 
 > **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
 >

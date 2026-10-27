@@ -285,7 +285,7 @@ Fichtner widerlegt den Rohstoff-Mythos mit dem strukturellen Argument, dass Öl 
 ### → [[Panorama/Energie|Panorama — Energie]]
 Fichtner liefert empirische Munition für mehrere Thesen des Energie-Panoramas: Merit Order + Batteriespeicher (Speicher-First-Strategie), chinesische Energieexpansion (Wettbewerbsrealität), Rohstoffabhängigkeit (fossile Importe), und das Lobbying-Muster (Agnotologie-Abschnitt). Die Note rundet das Panorama um die Grundlagenwissenschaft — ohne Polemik, nur Daten.
 
-### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
 
 Dort erscheint Northvolt als Preis eines misslungenen Schritts vom Labor zur Fabrik, mit dem Befund des Rechnungshofs. Fichtners Lesart, es sei ein Einzelfall aus knappen Zeitplänen und ungeduldigem Kapital, ist die nötige Gegenstimme.
 

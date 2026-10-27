@@ -40,6 +40,12 @@ Beautemps ist über YouTube hinaus präsent: Zu Beginn der Corona-Pandemie moder
 Livestream *Wir gegen Corona* mit Gästen wie Jens Spahn und Armin Laschet. Seit 2020 ist er Gastgeber
 des mehrtägigen Klima-Live-Events **YouTopia** (mit i&u TV entwickelt), 2022 erhielt er mit *Science for
 Future* eine eigene Doku-Reihe in der ARD-Mediathek (SWR). Er tritt regelmäßig als Redner und TV-Gast auf.
+2024 moderierte er mit Filomena Cautela den **European Inventor Award** des Europäischen Patentamts, live
+aus Valletta ([EPO](https://www.epo.org/de/news-events/european-inventor-award/2024-event)). 2026 rief er mit
+SPRIND und dem Forschungsministerium einen eigenen Innovationspreis ins Leben, die **Made in Germany Awards**:
+fünf Kategorien, je drei Finalisten auf Breaking Lab, Publikumsabstimmung, Verleihung am 23. November im
+Berliner Futurium, für die Sieger die Aussicht auf eine SPRIND-Finanzierung
+([SPRIND](https://www.sprind.org/worte/magazin/made-in-germany-awards)).
 
 Im **Dezember 2024** schloss er seine **Promotion am Institut für Physikdidaktik der Universität zu Köln**
 ab — Titel der Dissertation: *How to Make Educational Videos More Effective*, eine empirische Untersuchung,
@@ -104,4 +110,4 @@ ein Maßstab, an dem sich auch Breaking Lab messen lassen muss.
 - [[Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 - [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]] — sein Breaking-Lab-Video zur deutschen Zuckerabgabe 2026 als Brücke von 2021 nach heute
-- [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende — drei Erfindungen und ihr großes Aber]] — Made in Germany Awards 2026, Kategorie Energie; Beautemps als Erklärer und Veranstalter zugleich
+- [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]] — Auftakt der Reihe zu seinem eigenen Innovationspreis: drei Erfindungen für den harten Kern der Energiewende, jede mit dem Aber der Jury

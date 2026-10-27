@@ -232,6 +232,6 @@ Neben die Industrielogik setzt Specht die Sicherheitslogik: Malakka, volle Ölla
 
 Felix Goldbach übernimmt Tim Meyers Lesart der Energiewende als Modernisierungsprogramm und erzählt sie als Wirkungsgrad-Geschichte von der Kerze bis zur Wärmepumpe. Die Note fragt, warum dieselbe Technik in Deutschland als Gesinnung gelesen wird.
 
-### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
 
 Ein Aachener Anoden-Start-up antwortet auf die chinesische Batterie-Übermacht mit Tempo. Das ist eine Wette gegen genau den Vorsprung in Skalierung und Fertigung, den Meyer und Hegenberg in China gesehen haben.

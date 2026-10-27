@@ -220,6 +220,6 @@ Good News Juni meldet das Geothermie-Potenzial (Ember: könnte 42 % von Europas 
 
 Derselbe Sprecher, dasselbe Handwerk in anderem Feld: Hier sortiert Beautemps das *Versprechen* eines Energie-Startups von der belegten Wirkung, dort die *Prognose* eines Klimaphänomens von der Gewissheit. Beide Notes zeigen seine Kernkompetenz — einen Anspruch ehrlich halten, ohne ihn zu über- oder unterzeichnen.
 
-### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
 
 Ein späteres Breaking-Lab-Video nach demselben Bauplan, Erfindung plus großes Aber, nun als Wettbewerb mit Jury. Auch dort soll die entscheidende Anlage im Ausland stehen, in Marokko.
