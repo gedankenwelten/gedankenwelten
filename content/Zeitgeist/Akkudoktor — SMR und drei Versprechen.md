@@ -279,6 +279,11 @@ Die erste Note über denselben Kanal, eine Programmbeschwerde gegen eine Talksho
 
 Die Note gehört zur Panorama-Sektion „Die neue Nachfrage: Wird KI zum trojanischen Pferd der Atomkraft?“. Sie liefert zwei Bausteine, die dort fehlen: die Rechnung, warum SMR als Reserve für die Dunkelflaute ausscheiden, und den Befund, dass die Nachfrage nach dem kleinen Reaktor heute von Rechenzentren und Industriestandorten kommt, während er im Stromnetz gegen die Mittagssonne verliert.
 
+### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+
+Schmitz’ Unterscheidung zwischen Skaleneffekten der Größe und der Stückzahl kehrt bei drei Energie-Erfindungen wieder: Eine Batterie-Anode kann auf einer Lernkurve billiger werden, Synhelions Treibstoff-Fabriken müssen erst groß werden. Schmitz spricht dort Einstieg und Ausblick.
+
+
 ---
 
 ## Weiterdenken

@@ -405,6 +405,11 @@ Grimm entwirft genau die Kette, die Herrmann durchrechnet: Sonnenstrom im Süden
 
 Wie „Produktion statt Konsum“ an einem einzelnen Thema aussieht, zeigt die Furtwängler-Doku zum Insektensterben: Sie endet mit „mehr Bio kaufen“, obwohl ihr stärkster Moment ein Landwirt ist, der seine Produktion umstellt.
 
+### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+
+Synhelion verspricht synthetisches Kerosin für 80 Cent je Liter und kürzt dafür genau die Kette ab, die Herrmann durchrechnet: keine Elektrolyse, die Hälfte der Energie aus Biogas. Ein Gegenbeispiel, das ihr Argument eher umgeht als widerlegt.
+
+
 ---
 
 ## Weiterdenken

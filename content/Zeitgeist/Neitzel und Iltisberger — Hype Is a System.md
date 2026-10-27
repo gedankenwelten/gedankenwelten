@@ -237,6 +237,11 @@ Ein Fall zum Beobachten: Das Paper zu Project Sid nennt seine Grenzen offen, Vid
 
 Das erste Hype-Merkmal, die Vision als Gewissheit, ist beim Akkudoktor das Schlusskriterium: Wer SMR als sichere Lösung oder sichere Katastrophe verkauft, „verkauft euch etwas“. Zugleich steckt das Video in der Falle des Attention Systems, mit einem Titel, der die Aufregung bedient, vor der das Fazit warnt.
 
+### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+
+Ein Video über einen Innovationspreis, das sein „großes Aber“ selbst mitliefert und im Titel trotzdem einen Zielwert als Ergebnis verkauft. Ein Prüfstück für die vier Merkmale, mit Northvolt als Antwort auf die Frage, wer die gescheiterten Experimente bezahlt.
+
+
 ---
 
 ## Weiterdenken

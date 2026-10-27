@@ -40,6 +40,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Schöner Wohnen *(wachsend)* | [[Schoener Wohnen]] | ~25 |
 | Wirken Quoten? *(wachsend)* | [[Wirken Quoten]] | ~10 |
 | Wann darf der Staat Preise setzen? *(wachsend)* | [[Wann darf der Staat Preise setzen]] | ~35 |
+| Wer bekommt die knappen Moleküle? *(wachsend)* | [[Wer bekommt die knappen Molekuele]] | ~12 |
 | Wie kann Demokratie funktionieren? *(wachsend)* | [[Wie kann Demokratie funktionieren]] | ~50 |
 | Wie handelt eine Demokratie? *(wachsend, Ast aus „Wie kann Demokratie funktionieren?“)* | [[Wie handelt eine Demokratie]] | ~30 |
 | Forschung *(wachsend)* | [[Forschung]] | ~45 |

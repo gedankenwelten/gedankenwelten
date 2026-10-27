@@ -5324,3 +5324,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Joern Leonhard — Wie man Kriege beendet]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Leonhard_Kriege_beenden_Transkript.txt` |
 | **Fund** | Diogenes, Nacht vom 08.09.2026 (Strom anker); Kairos-Tagesnote 24.10.2026 |
+
+## Jacob Beautemps / Made in Germany Awards — Kategorie Energie (Breaking Lab)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [80 ct/l für Benzin: Durchbruch Made in Germany](https://www.youtube.com/watch?v=7htQ-I8eiKg) (Breaking Lab, 27.10.2026) |
+| **Quellenliste** | [45 Belege der Redaktion](https://docs.google.com/document/d/1MrR5b9uNPoj0B-TVPW8UGnjSB2NvCfqlgxieCAoIog0/edit?usp=sharing) |
+| **Firmen** | [Skellium](https://skellium.com/) · [Synhelion](https://synhelion.com/) · Synplasma ([MPI für Plasmaphysik](https://www.ipp.mpg.de/)) |
+| **Notiz** | [[Jacob Beautemps — Der harte Kern der Energiewende]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MadeInGermanyEnergie_Transkript.txt` |

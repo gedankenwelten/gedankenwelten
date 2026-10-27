@@ -22,6 +22,42 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **27.10.** — [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende — drei Erfindungen und ihr großes Aber]]
+>
+> Strom ist erst ein Fünftel unserer Energie. Was nach der Elektrifizierung übrig bleibt, braucht Moleküle — drei Erfindungen versprechen sie, und jede trägt ihr Aber mit.
+
+> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
+>
+> Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
+
+> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
+
+### Panorama
+
+> **27.10.** — [[Panorama/Wer bekommt die knappen Molekuele|Wer bekommt die knappen Moleküle?]]
+>
+> Grüner Wasserstoff, E-Fuels und Biomethan bleiben lange knapp und teuer, und viele wollen sie: Flugzeug, Stahl, Chemie, Auto, Heizung. Drei offene Fragen: Wo ist ein Molekül unersetzlich, reicht es für alle, und wer verteilt?
+
+> **27.10.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
+
+> **26.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> **26.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **26.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+>
+> Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt.
+
+> → *9 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **26.10.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
@@ -64,30 +100,6 @@ Die Gedankenwelten (luc)
 >
 > Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
 
-### Panorama
-
-> **26.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
->
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **26.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **26.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
->
-> Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt.
-
-> **25.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **25.10.** — [[Panorama/Forschung|Forschung]]
->
-> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
-
-> → *8 weitere in* [[Panorama]]
-
 ### Gedanken
 
 > **25.10.** — [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
@@ -107,18 +119,6 @@ Die Gedankenwelten (luc)
 > **22.10.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
 >
 > Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
-
-### Geistesblitz
-
-> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
->
-> Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
-
-> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
-
-> **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
->
-> Eine Ziffer von eins bis sechs entscheidet über Studienplätze und Selbstbilder. Ein Schulrat will sie abschaffen, ein Verbandspräsident gerechter machen, und beide sind sich in der Diagnose näher, als sie zugeben.
 
 ### GoodNews
 

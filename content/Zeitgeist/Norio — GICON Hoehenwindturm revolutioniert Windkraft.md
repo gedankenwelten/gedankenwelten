@@ -195,6 +195,11 @@ Beide Notes kreisen um dasselbe ostdeutsche Paradox: Die Lausitz beherbergt unge
 ### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
 Schwan unterscheidet Herrschaftsmacht (Nullsumme) von Gestaltungsmacht (kooperativ). Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisierte Gestaltungsmacht: Der Staat als Ermöglicher statt Verhinderer. Und seine Bürgerbeteiligung in Klettwitz ist Schwans kommunale Partizipationsidee im Energiesektor, direkt angewandt.
 
+### → [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende]]
+
+Großmanns Tal des Todes kehrt bei drei Energie-Erfindungen wieder, deren Abers alle am Schritt vom Prototyp zur Fabrik hängen. Dort tritt SPRIND als Mitveranstalterin eines Preises auf, der Sichtbarkeit gibt, kein Kapital.
+
+
 ---
 
 ## Weiterdenken

@@ -104,3 +104,4 @@ ein Maßstab, an dem sich auch Breaking Lab messen lassen muss.
 - [[Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 - [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]] — sein Breaking-Lab-Video zur deutschen Zuckerabgabe 2026 als Brücke von 2021 nach heute
+- [[Geistesblitz/Jacob Beautemps — Der harte Kern der Energiewende|Der harte Kern der Energiewende — drei Erfindungen und ihr großes Aber]] — Made in Germany Awards 2026, Kategorie Energie; Beautemps als Erklärer und Veranstalter zugleich
