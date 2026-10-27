@@ -1,7 +1,8 @@
 ---
 title: "Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung"
 date: 15.07.2026
-aktualisiert: 15.07.2026
+aktualisiert: 2026-10-28
+raetsel: "Ein Ozean neigt sich. Am anderen Ende der Welt wird Brot teurer."
 description: "Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen."
 tags:
   - geistesblitz
@@ -36,7 +37,7 @@ aliases:
 Quelle: [Neue Zahlen: Stärkster El Niño seit 70 Jahren kommt 2026!](https://youtu.be/MPnheVZ_4KQ)
 
 > [!info] Wer spricht?
-> **Jacob Beautemps** — Physiker, promovierter Wissenschaftsdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht des YouTube-Kanals **Breaking Lab** (~730.000 Abonnenten), gegründet mit Philip Häusser. Seine Doktorarbeit fragt, *was ein gutes Lernvideo ausmacht* — er erklärt also nicht nur Naturwissenschaft, er erforscht das Erklären selbst. Die Deutsche Physikalische Gesellschaft zieht ihn als Diskutanten heran. Kein Edutainment-Blingbling, sondern fachlich fundierte, quellenbelegte Aufklärung.
+> **Jacob Beautemps** — Physiker, promovierter Wissenschaftsdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht des YouTube-Kanals **Breaking Lab** (~730.000 Abonnenten), gegründet mit Philip Häusser. Seine Doktorarbeit fragt, *was ein gutes Lernvideo ausmacht* — er erklärt also nicht nur Naturwissenschaft, er erforscht das Erklären selbst. Die Deutsche Physikalische Gesellschaft zeichnete ihn 2024 mit ihrer Medaille für naturwissenschaftliche Publizistik aus. Kein Edutainment-Blingbling, sondern fachlich fundierte, quellenbelegte Aufklärung.
 >
 > → [[DenkerVita/Jacob Beautemps|DenkerVita]]
 
@@ -91,7 +92,7 @@ Dieser Satz — *ehrlich gesagt ist das nicht so richtig geklärt* — ist in de
 
 Wo Europa am ehesten getroffen wird, ist nicht das Wetter, sondern der Markt. Ernteausfälle durch Extremwetter in Südamerika treiben die Preise für bestimmte Nahrungsmittel — und die Lieferketten sind global genug, dass ein Dürrejahr in Brasilien im Kölner Supermarkt ankommt. Beautemps zitiert eine Studie, die die weltweiten Einkommensverluste des El Niño von 1982/83 auf **4,1 Billionen US-Dollar** schätzt, die des Ereignisses 1997/98 sogar auf **5,7 Billionen** — mehr als das gesamte Bruttoinlandsprodukt Deutschlands.
 
-Diese Zahlen stammen aus einer belastbaren Quelle (Callahan & Mankin, *Science* 2023) und tragen den entscheidenden Befund: El Niño ist kein Wetterphänomen mit vorübergehendem Ärgernis, sondern ein *ökonomischer Schock mit jahrelangem Nachhall*. Das Joint Research Center der EU-Kommission warnt entsprechend, der El Niño könne **bestehende Krisen verstärken** — globale Erwärmung wie geopolitische Spannungen. Er wirkt nicht isoliert, sondern als Brandbeschleuniger auf ohnehin brennende Systeme.
+Diese Zahlen stammen aus einer belastbaren Quelle (Callahan & Mankin, *Science* 2023) und tragen den entscheidenden Befund: El Niño ist kein Wetterphänomen mit vorübergehendem Ärgernis, sondern ein *ökonomischer Schock mit jahrelangem Nachhall*. Das Joint Research Center der EU-Kommission beschreibt es als Überlagerung: Die Folgen setzen auf laufende Erwärmung und bestehende Krisen auf und können mit hohen Energie- und Düngerpreisen, fragilen Lieferketten und geopolitischen Spannungen **zusammenfallen** (→ [[#Faktencheck]]).
 
 ### Das große Aber
 
@@ -110,23 +111,40 @@ Am Ende dreht er die Frage von der Prognose weg auf uns: Nicht nur, *was* passie
 
 ---
 
+## Was seither geschah
+
+*Stand: 28.10.2026*
+
+Der El Niño ist gekommen, und er ist stärker geworden, als die Juli-Prognose sagte. Im Juli sprach die NOAA von 81 % für ein Ereignis „unter den stärksten seit 1950“; am 8. Oktober nennt sie 83 %, dass es von Oktober bis Dezember **alle** seit 1950 übertrifft, und stark bis sehr stark bleibt es bis ins Frühjahr 2027 ([NOAA CPC, 08.10.2026](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)). Im Osten des äquatorialen Pazifiks lag die Meerestemperatur stellenweise mehr als 4 °C über dem Mittel. Die WMO erwartet den Höhepunkt um Dezember ([WMO via Phys.org, 08.10.2026](https://phys.org/news/2026-10-sea-surface-temperatures-el-nio.html)). Im September maß Copernicus in der Niño-3.4-Region 29,70 °C, den höchsten Monatswert seit Beginn der Messungen ([C3S, 09.10.2026](https://climate.copernicus.eu/copernicus-second-warmest-september-global-temperatures-stay-above-15degc)). Berkeley Earth gibt 2026 eine Wahrscheinlichkeit von etwa 96 %, das wärmste Jahr seiner Messreihe zu werden; andere Datensätze können abweichen ([Berkeley Earth](https://berkeleyearth.org/september-2026-temperature-update/)).
+
+Die Fischerei vor Südamerika, die Beautemps nannte, ist eingebrochen: Peru hat die zweite Sardellensaison im Norden und in der Mitte des Landes abgesagt, das Meeresinstitut maß 28 % weniger Bestand als im Sommer, 79 % der Tiere waren Jungfische ([Diario Correo](https://diariocorreo.pe/economia/fenomeno-el-nino-pesca-de-anchoveta-produce-descarta-nueva-temporada-por-condiciones-biologicas-desfavorables-noticia/)). Indonesien verzeichnete im ersten Halbjahr über 100.000 Hektar verbrannter Fläche, wozu auch ausgetrocknete Torfböden beitragen ([Phys.org/The Conversation](https://phys.org/news/2026-08-wildfires-peat-indonesia-tropical-forests.html)). Der Kakaopreis hat sich seit März verdoppelt, nach Überschwemmungen in Westafrika und aus Sorge vor der nächsten Ernte ([El País, 09.09.2026](https://elpais.com/economia/negocios/2026-09-09/la-amenaza-de-el-nino-tensa-el-mercado-del-cafe-y-el-cacao.html)). Westeuropa hatte seinen wärmsten September, gleichauf mit 2023, und Rhein und Donau führten Rekord-Niedrigwasser (C3S). Ob das am El Niño lag, ist so offen, wie Beautemps es im Juli sagte: wahrscheinlicher, aber nicht festgelegt.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Wirtschaftsschäden in Billionenhöhe
-> Die Zahlen (4,1 Bio. $ nach 1982/83, 5,7 Bio. $ nach 1997/98 globale Einkommensverluste) stammen aus einer peer-reviewten Studie: Callahan & Mankin, *„Persistent effect of El Niño on global economic growth"*, **Science 2023**, [DOI 10.1126/science.adf2983](https://doi.org/10.1126/science.adf2983) (Dartmouth; Primärstudie in einem Top-Journal, Open Access). Der Kern ist bestätigt und *stärker* als eine bloße Schadensbilanz: Die Studie modelliert einen **jahrelangen Nachhall** — das BIP betroffener Länder bleibt fünf Jahre und länger gedrückt (US-BIP 2003 rund 3 % niedriger als ohne Ereignis, tropische Küstenstaaten wie Peru und Indonesien über 10 %). Der Wert bündelt also verzögerte Verluste, keinen Einmalschaden. (Beautemps nennt im Ton „1987/98" — Versprecher für 1997/98, hier stillschweigend korrigiert.)
+> Die Zahlen (4,1 Bio. $ nach 1982/83, 5,7 Bio. $ nach 1997/98 globale Einkommensverluste) stammen aus einer peer-reviewten Studie: Callahan & Mankin, *„Persistent effect of El Niño on global economic growth"*, **Science 2023**, [DOI 10.1126/science.adf2983](https://doi.org/10.1126/science.adf2983) (Dartmouth; Primärstudie in einem Top-Journal, Open Access). Der Kern ist bestätigt und *stärker* als eine bloße Schadensbilanz: Die Studie modelliert einen **jahrelangen Nachhall** — das BIP betroffener Länder bleibt fünf Jahre und länger gedrückt (das US-BIP lag 1988 bzw. 2003 jeweils rund 3 % niedriger als ohne Ereignis, tropische Küstenstaaten wie Peru und Indonesien 2003 über 10 %; [Dartmouth](https://home.dartmouth.edu/news/2023/05/years-after-el-nino-global-economy-loses-trillions)). Der Wert bündelt also verzögerte Verluste, keinen Einmalschaden. (Beautemps nennt im Ton „1987/98" — Versprecher für 1997/98, hier stillschweigend korrigiert.)
 
 > [!success] Bestätigt — 81 % „sehr stark", stärkster seit 1950
-> Der Wert ist keine Zuspitzung Beautemps', sondern die **offizielle Prognose-Sprache** des US National Weather Service / NOAA: „an 81% chance that a very strong El Niño that would rank among the largest El Niño events in the historical record going back to 1950" — unabhängig belegt über [Guardian, 09.07.2026](https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather) und [weather.com, 09.07.2026](https://weather.com/2026/07/09/news/climate/july-update-super-el-nino-strengthening-noaa). Die Prozentwerte (100 % laufendes Ereignis, ~81 % „sehr stark") folgen dem etablierten CPC/ENSO-Verfahren. Wichtig bleibt Beautemps' Unterscheidung: „100 %" ist eine Feststellung über die Gegenwart, „81 %" eine Wette auf die Zukunft. Quelle: [NOAA CPC — ENSO Diagnostic Discussion](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
+> Der Wert ist keine Zuspitzung Beautemps', sondern die **offizielle Prognose-Sprache** des US National Weather Service / NOAA: „an 81% chance that a very strong El Niño that would rank among the largest El Niño events in the historical record going back to 1950" — unabhängig belegt über den [Guardian, 09.07.2026](https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather). Die Prozentwerte (100 % laufendes Ereignis, ~81 % „sehr stark") folgen dem etablierten CPC/ENSO-Verfahren. Wichtig bleibt Beautemps' Unterscheidung: „100 %" ist eine Feststellung über die Gegenwart, „81 %" eine Wette auf die Zukunft. Quelle: [NOAA CPC — ENSO Diagnostic Discussion](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
 
-> [!success] Bestätigt (als Obergrenze) — vorübergehender Temperatursprung „bis zu 0,37 °C"
-> Die Größenordnung ist plausibel und trägt als **oberer Rand**, nicht als Normalwert: Ein *typischer* El Niño hebt die globale Mitteltemperatur nur um 0,1–0,2 °C, ein Super-Ereignis liegt darüber. Der stärkste real beobachtete Fall stützt die Zahl direkt — der Super-El-Niño 2023/24 trieb einen Rekord-Jahressprung von rund **0,36 °C** an: Nature *Communications Earth & Environment* 2025, [DOI 10.1038/s43247-025-02971-1](https://doi.org/10.1038/s43247-025-02971-1) (Primärstudie, Open Access). „Bis zu 0,37 °C" ist damit ein Spitzenwert für ein sehr starkes Ereignis, kein Durchschnitt — und wichtig: ein *vorübergehender* Ausschlag, der den langfristigen Erwärmungstrend nicht verschiebt.
+> [!warning] Vereinfacht — vorübergehender Temperatursprung „bis zu 0,37 °C"
+> Die Größenordnung ist plausibel, eine Quelle für genau 0,37 °C haben wir aber nicht gefunden, auch nicht unter den Quellen des Videos. Der nächste empirische Anker ist das El-Niño-Jahr 2023/24, ein *starkes*, kein Rekord-Ereignis: Von Juli 2023 bis Juni 2024 stieg die globale Mitteltemperatur gegenüber dem Vorjahr um 0,36 °C auf 1,58 °C über dem vorindustriellen Niveau (Jiang, Zhu, McPhaden et al., *Communications Earth & Environment* 2025, [doi:10.1038/s43247-025-02971-1](https://doi.org/10.1038/s43247-025-02971-1), Primärstudie, Open Access). Ein El-Niño-Prognosemodell hätte nur 0,16 °C erwartet; den Rest erklären die Autoren mit dem untypischen Muster des Ereignisses und der Rekordwärme der Ozeane insgesamt. Ein Super-El-Niño kann Sprünge dieser Höhe also mittragen, erzeugt sie aber nicht allein. Der Ausschlag bleibt vorübergehend, am langfristigen Trend ändert er nichts.
 
 > [!warning] Vereinfacht / Nicht eindeutig belegt — Europa-Folgen einzelner El Niños
 > Die Zuordnung konkreter Europa-Ereignisse (Fluten 1997/98, Hitze/Dürre 2015/16) zu den jeweiligen El Niños ist wissenschaftlich **nicht eindeutig geklärt** — Europa liegt am Rand der ENSO-Fernwirkung, viele Faktoren überlagern sich. Beautemps sagt das selbst ausdrücklich („nicht so richtig geklärt", „deutlich komplexer") und flaggt die Unsicherheit vorbildlich. Kein Fehler, sondern korrekt kommunizierte Ungewissheit.
 
-> [!warning] Einordnung — Konsens (NOAA) vs. stärkere Einzelstimmen (Hansen)
-> Der offizielle Konsens (NOAA/NWS: 81 %, „unter den stärksten seit 1950") ist eine Prognose mit Restunsicherheit, keine Feststellung. Einzelne Stimmen gehen weiter: James Hansen flankiert die Erwartung mit einer umstritteneren These beschleunigter Erwärmung ([Hansen-Mailing, 20.03.2026](https://www.columbia.edu/~jeh1/mailings/2026/Super%5FEl%5FNino.2026.03.20.pdf)). Der Konsens bleibt vorsichtiger als die stärksten Einzelstimmen — die im Video gewahrte Zurückhaltung ist angemessen.
+> [!warning] Einordnung — Hansen relativiert den „Super-El-Niño“ und warnt vor etwas anderem
+> Wer die Prognose noch verschärfen will, findet bei James Hansen keine Stütze. Sein Mailing mit drei Koautoren (20.03.2026, nicht begutachtet) heißt „*Super El Nino? Super Warming is the Main Issue*“ und warnt ausdrücklich vor dem Trittbrett-Journalismus um den „Super El Niño“. Über das Pazifik-Ereignis selbst urteilt er eher zurückhaltend. Weiter als der Konsens geht er an anderer Stelle: Er hält die Klimasensitivität für deutlich höher (4–5 °C pro CO₂-Verdopplung statt der langjährigen Bestschätzung von 3 °C) und die Erwärmung der Meeresoberfläche für beschleunigt. Diese These ist umstritten; für die NOAA-Prognose ist sie kein Gegengewicht, sie handelt von einer anderen Frage.
+> Quelle: [Hansen, Kharecha, Morgan, Vest — Mailing 20.03.2026 (PDF)](https://www.columbia.edu/~jeh1/mailings/2026/Super%5FEl%5FNino.2026.03.20.pdf)
 
+> [!warning] Vereinfacht — JRC: „bestehende Krisen verstärken"
+> Der Bericht der Gemeinsamen Forschungsstelle der EU-Kommission (15.06.2026) beschreibt eine Überlagerung, keine Ursache: Die Folgen des El Niño setzen auf laufende Erwärmung und bestehende Krisen auf und können mit hohen Energie- und Düngerpreisen, fragilen Lieferketten und geopolitischen Spannungen zusammenfallen, was systemische Folgen wahrscheinlicher macht. Dass der El Niño die Erwärmung oder die Spannungen selbst verstärkt, sagt der Bericht nicht. Bei den Nahrungspreisen bleibt er vorsichtig: Hartweizen eher teurer, beim Mais weniger klar, „high uncertainties“.
+> Quelle: [JRC147365, EUR 40756 (PDF)](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC147365/JRC147365_01.pdf)
+
+> [!note] Korrigiert am 28.10.2026
+> Hier stand, das Temperatur-Paper sei von „Kang et al.“ und 2023/24 sei der „stärkste real beobachtete Fall“; es ist von Jiang et al., und 1997/98 wie 2015/16 waren stärker. Die Hansen-Einordnung kehrte seine Haltung um, und der Fließtext spitzte den JRC-Bericht zum „Brandbeschleuniger“ zu. Alles drei ist berichtigt.
 ---
 
 ## Weiterführende Quellen
@@ -141,8 +159,12 @@ Am Ende dreht er die Frage von der Prognose weg auf uns: Nicht nur, *was* passie
 - [climate.gov — Spring Predictability Barrier erklärt](https://www.climate.gov/news-features/blogs/enso/spring-predictability-barrier-we%E2%80%99d-rather-be-spring-break)
 - [WMO — El Niño / La Niña Updates](https://wmo.int/resources/publication-series/el-ninola-nina-updates/el-ninola-nina-update-february-2026)
 - [Deutschlandfunk — Klima: El Niño / La Niña](https://www.deutschlandfunk.de/klima-el-nino-el-nina-100.html)
-- Kang et al.: *Atypical warming pattern of strong 2023-24 El Niño boosts global temperatures to new 1.5 °C record* — [Nature Comm. Earth & Environment 2025, DOI 10.1038/s43247-025-02971-1](https://doi.org/10.1038/s43247-025-02971-1) — misst den Temperatur-Ausschlag des jüngsten Super-El-Niño (Anker für die 0,37-°C-Größenordnung)
-- [Guardian — Risiken eines historischen El Niño bis Frühjahr 2027 steigen (NWS)](https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather) — unabhängige Bestätigung der 81 %-Prognose und der „größter seit 1950"-Einordnung
+
+*Von uns ergänzt:*
+
+- Jiang, Zhu, McPhaden et al.: *Atypical warming pattern of strong 2023-24 El Niño boosts global temperatures to new 1.5 °C record* — [Communications Earth & Environment 2025, doi:10.1038/s43247-025-02971-1](https://doi.org/10.1038/s43247-025-02971-1) — misst den Temperatur-Ausschlag von 2023/24
+- [Guardian — Risiken eines historischen El Niño bis Frühjahr 2027 steigen (NWS)](https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather) — die 81-%-Prognose im Juli
+- [NOAA CPC — ENSO-Diskussion vom 08.10.2026](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml) — 83 % für ein Ereignis, das alle seit 1950 übertrifft
 
 ---
 

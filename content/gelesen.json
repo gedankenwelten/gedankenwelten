@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27",
+ "stand": "2026-10-28",
  "tage": 30,
  "zaehlt": "leser-sitzungen",
  "pfade": [
@@ -479,6 +479,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Yonatan-Zeigen",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/BissenBlaBla-AfD-Behauptungen-zur-Auslaenderkriminalitaet",
      "leser": 2,
      "aufrufe": 2
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/DenkerVita/Barbara-Tversky",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "leser": 1,
      "aufrufe": 1
     }
@@ -1744,6 +1744,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Yonatan-Zeigen",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Zeitgeist/Klarsprech-Peter-Thiel-und-ObjectionAI",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
      "leser": 2,
      "aufrufe": 2
     }

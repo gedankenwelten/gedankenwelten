@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
+> **28.10.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+>
+> Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
+
+> **28.10.** — [[Geistesblitz/Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
+>
+> Was wir loswerden wollen, soll uns erst wärmen: Ein Duisburger Start-up will CO₂ statt Wasser durch heißes Gestein schicken. Die Physik trägt, das Nadelöhr ist der Ort.
+
 > **27.10.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie: drei Erfindungen für den harten Kern]]
 >
 > Mit einem eigenen Preis holt Jacob Beautemps deutsche Erfindungen ans Licht, das Aber der Jury gleich mit. Den Auftakt macht die Energie: Was nach dem Strom bleibt, braucht Moleküle.
@@ -31,8 +39,6 @@ Die Gedankenwelten (luc)
 > **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
 >
 > Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
-
-> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
 
 ### Panorama
 
@@ -95,10 +101,6 @@ Die Gedankenwelten (luc)
 > **21.10.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
 >
 > Eine Technik, keine Lehre: die Empfindung im Körper beobachten, ohne zu reagieren. Weil jeder Augenblick neu entsteht, lässt sich darin in jedem neu wählen, sagt S.N. Goenka.
-
-> **20.10.** — [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
->
-> Was wir an Mühe abgeben, geben wir an Fähigkeit ab. Eine Astrophysikerin über Etüden, Filterkaffee und Chatbots, die nie widersprechen, und warum der Sternenhimmel nicht bequem ist.
 
 ### Gedanken
 

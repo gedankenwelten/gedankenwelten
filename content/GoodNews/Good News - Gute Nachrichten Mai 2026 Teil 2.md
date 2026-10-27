@@ -208,7 +208,7 @@ Produktivste Gegenperspektive: Benecke dokumentiert im selben Monat Bodenkollaps
 
 Die Solar-Degradationsstudie (0,5–0,6%/Jahr statt 1%) liefert ein starkes empirisches Argument direkt in die Kostendebatte dieser Note: Solarpanele wurden nicht nur stärker subventioniert als Atom (was diese Note belegt), sie halten auch deutlich länger als bisher in die Kalkulation eingeflossen — was die Milliardenersparnis für Deutschland weiter erhöht.
 
-### → [[Zeitgeist/Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+### → [[Geistesblitz/Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
 
 Beide Notes revidieren pessimistische Annahmen über Erneuerbare nach oben: CPG-Geothermie erzeugt doppelt so viel Wärme wie klassische Systeme, Solarpanele degradieren nur halb so schnell wie angenommen. Dasselbe Muster — Technologie performt besser als die Modelle — macht die Energiewende wirtschaftlich attraktiver als die öffentliche Debatte suggeriert.
 
