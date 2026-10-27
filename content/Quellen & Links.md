@@ -5334,3 +5334,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Firmen** | [Skellium](https://skellium.com/) · [Synhelion](https://synhelion.com/) · Synplasma ([MPI für Plasmaphysik](https://www.ipp.mpg.de/)) |
 | **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Energie]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MadeInGermanyEnergie_Transkript.txt` |
+
+## Jacob Beautemps / European Inventor Award 2024 (Malta)
+
+| | |
+|---|---|
+| **Livestream** | [🔴 LIVE: Die besten Erfindungen 2024!](https://www.youtube.com/watch?v=4BgGu8IYqPs) (Breaking Lab, 09.07.2024) |
+| **Livestream** | [🔴 Neue Speicher für Windkraft: Live aus der Universität Malta!](https://www.youtube.com/watch?v=FvlRbCtfLq4) (Breaking Lab, 08.07.2024) |
+| **Primärquelle** | [EPO — Gewinner 2024](https://epo.org/en/news-events/press-centre/press-release/2024/1181293) |
+| **Notiz** | [[Jacob Beautemps — European Inventor Award 2024]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Beautemps_InventorAward2024_Live_Transkript.txt` · `Gedankenwelten/Transkripte/Beautemps_Malta_Windspeicher_Transkript.txt` |

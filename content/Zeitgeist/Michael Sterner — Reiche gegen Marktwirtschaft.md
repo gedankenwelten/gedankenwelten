@@ -218,3 +218,6 @@ Das Systemkosten-Argument, das Sterner nachrechnet, verfolgt Greenpeace zurück 
 
 Specht greift das Systemkosten-Mantra von der anderen Seite an: Was Reiche Kosten nennt, sind für ihn regulierte Entgelte und genehmigte Renditen.
 
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Ein Verwandter der CO₂-Batterie ist FLASC aus Malta, ein Druckluftspeicher im Meer, der das Wärmeproblem dem umgebenden Wasser überlässt; 2026 steht er vor seiner Pilotanlage.

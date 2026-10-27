@@ -235,3 +235,7 @@ Felix Goldbach übernimmt Tim Meyers Lesart der Energiewende als Modernisierungs
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
 
 Ein Aachener Anoden-Start-up antwortet auf die chinesische Batterie-Übermacht mit Tempo. Das ist eine Wette gegen genau den Vorsprung in Skalierung und Fertigung, den Meyer und Hegenberg in China gesehen haben.
+
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Wie eine europäische Nische aus fehlender Geografie aussehen kann, zeigt FLASC aus Malta: ein Pumpspeicher, der die Höhe aus Druckluft gewinnt statt aus einem Berg.

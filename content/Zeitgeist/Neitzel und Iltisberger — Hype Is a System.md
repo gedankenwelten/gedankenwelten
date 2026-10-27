@@ -241,6 +241,10 @@ Das erste Hype-Merkmal, die Vision als Gewissheit, ist beim Akkudoktor das Schlu
 
 Ein Video über einen Innovationspreis, das sein „großes Aber“ selbst mitliefert und im Titel trotzdem einen Zielwert als Ergebnis verkauft. Ein Prüfstück für die vier Merkmale, mit Northvolt als Antwort auf die Frage, wer die gescheiterten Experimente bezahlt.
 
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Wie Zurückhaltung als Gegenmittel klingt, zeigt Cordelia Schmid beim Erfinderpreis 2024: Sie verweigert jede Prognose zum autonomen Fahren, während ein Gründer neben ihr Marken für „dieses und nächstes Jahr“ ankündigt.
+
 
 ---
 

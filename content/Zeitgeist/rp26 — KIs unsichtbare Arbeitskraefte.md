@@ -250,6 +250,11 @@ Was hier über zwei Vorträge hinweg mit Namen und Zahlen belegt wird, fasst Kav
 
 Dath nennt die KI ein „Massengrab der Arbeit“, dessen Namen niemand kennt. Diese Note gibt den Namen zurück.
 
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Die Kehrseite: Beim Europäischen Erfinderpreis 2024 wurde Cordelia Schmid für die Bilderkennung ausgezeichnet, deren Fehler, etwa ein Lastwagen, den sie für Himmel hielt, Menschen wie die Datenarbeiter hier Bild für Bild korrigieren.
+
+
 ---
 
 ## Weiterdenken

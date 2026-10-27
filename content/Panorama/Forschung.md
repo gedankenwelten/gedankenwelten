@@ -231,6 +231,11 @@ Die Werkstattgeschichte des gekauften Nichtwissens, von Tabak bis Bisphenol A.
 
 Forschung, die über Jahrzehnte niemand bestellt hat, und eine Grenze zwischen Kritik mit Datenbezug und Agitation, die selbst eine Prüfung verdient.
 
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Wie Patente, Sichtbarkeit und das Tal des Todes im Einzelfall ineinandergreifen, zeigt der Erfinderpreis 2024: FLASC meldete auf Rat der Gutachter zuerst ein Patent an, und von Saule blieb nach dem Scheitern vor allem das Patentportfolio.
+
+
 ---
 
 ## Weiterdenken

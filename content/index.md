@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
+> **28.10.** — [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024 — Erfinder in Valletta, und was aus ihnen wurde]]
+>
+> Zwei Tage auf Malta mit den Erfinderinnen und Erfindern Europas: ein Speicher ohne Berg, Solarzellen aus dem Drucker, Papier aus Laub. Zwei Jahre später lässt sich sehen, was getragen hat.
+
 > **28.10.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 >
 > Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.

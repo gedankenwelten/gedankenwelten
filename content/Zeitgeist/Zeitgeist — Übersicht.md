@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*349 Notes — automatisch generiert · nach Thema sortiert*
+*348 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -353,7 +353,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Alex Demirović und Isabell Lorey — Foucaults Gouvernementalität]]
 - [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]] — Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
 - [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
-- [[Zeitgeist/Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]] — Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
 - [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]] — Der Staat zahlt die Mieten, statt Wohnungen zu besitzen — und finanziert so die Dividenden jener Konzerne, denen die Wohnungen gehören. Ein Kreislauf, an dessen Ende der Schuldige feststeht: der Mieter.
 - [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Strom, Merit Order und Großbatterien]]

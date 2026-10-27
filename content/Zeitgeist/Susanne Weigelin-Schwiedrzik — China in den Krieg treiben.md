@@ -348,6 +348,11 @@ Sie erwähnt nur beiläufig, dass Zweit- und Drittschlag heute computer- und zun
 
 Der empirische Gegenpol zu ihrem Bild eines China, das Häfen baut statt Stützpunkte. Hein berichtet aus 25 Jahren in Asien von Hambantota und von Häfen in Burma, Sri Lanka und Pakistan, geplant für den Handel und militärisch mitgenutzt. Sein Bündnis der Mittelmächte mit Japan, Australien und Indien ist genau das, was China laut ihr verhindern muss. Seine Mittelmacht knüpft Allianzen, ihr Beiboot hält Verbindung zu allen Großen, Russland eingeschlossen.
 
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Der Magnet, um den hier gepokert wird, hat einen Erfinder: Masato Sagawa, 2024 in Valletta ausgezeichnet, ein Japaner, dessen Erfindung inzwischen fast ganz in China gefertigt wird.
+
+
 ---
 
 ## Weiterdenken

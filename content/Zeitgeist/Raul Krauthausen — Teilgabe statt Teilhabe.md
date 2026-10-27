@@ -349,6 +349,11 @@ Im Abschnitt *Wozu ist Schule da?* stehen die Meta-Analysen, auf die Krauthausen
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Wie Technik für behinderte Menschen auf einer Preisbühne erzählt wird, zeigt der Erfinderpreis 2024: Vier tunesische Ingenieurinnen führen einen gedankengesteuerten Rollstuhl vor; zwei Jahre später findet sich kein Beleg, dass er ausgeliefert wurde.
+
+
 ---
 
 ## Weiterdenken

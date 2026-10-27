@@ -249,6 +249,11 @@ Simanowski kommt durch eine andere Tür zu Hegel: Herr und Knecht als Bild der D
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+
+Dass die Bilderkennung die Lücke allein nicht schließt, sagt 2024 die Informatikerin Cordelia Schmid: 99,999 Prozent bräuchte das autonome Auto, und wie man dahin kommt, sei offen. Das stützt Misselhorns Weg über die Infrastruktur.
+
+
 ---
 
 ## Weiterdenken
