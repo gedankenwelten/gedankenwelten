@@ -257,6 +257,10 @@ Varoufakis nennt Mainstream-Ökonomie "eine Religion mit Gleichungen" — Höfge
 
 Wie die deutschen Leitmedien 2015 über Varoufakis sprachen, ohne ihn sprechen zu lassen, zeigt Uwe Krüger an den Studien von Otto und Köhler und an einer Programmbeschwerde gegen das heute-journal.
 
+### → [[FRONTLINE — Bannons War]]
+
+Dieselbe Wunde von rechts erzählt. Bannon beginnt bei den AT&T-Aktien, die sein Vater im Oktober 2008 verkaufte, und nennt die Gegenwart wie Varoufakis einen Feudalismus. Am Ende macht er die Einwanderung zur Schuldigen.
+
 ---
 
 ## Weiterdenken

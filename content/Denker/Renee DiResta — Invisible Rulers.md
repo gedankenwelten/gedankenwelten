@@ -454,3 +454,7 @@ Die deutsche Feldstudie zu Propaganda, die Gruppen gegeneinander aufbringt: Schw
 
 Felix Goldbach bringt DiRestas Befund auf die Energiewende: Ziel war nie, die Leute vom Gegenteil zu überzeugen, sondern Zweifel zu säen, damit sie beim Bekannten bleiben. Die Nachbesprechung ergänzt die Prebunking-Forschung dazu.
 
+### → [[FRONTLINE — Bannons War]]
+
+Ein Medienstratege bei der Arbeit: Bannon nennt die Medien „die Oppositionspartei“ und will sie mit Tempo und Masse überfordern. Der Guardian-Reporter Paul Lewis beschreibt, wie die Presse ihm die Kameras dafür selbst liefert.
+

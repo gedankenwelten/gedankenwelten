@@ -213,7 +213,7 @@ Flassbeck zeigt, wie EU-Austeritätspolitik Osteuropa wirtschaftlich marginalisi
 
 ### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
-Orbán ist kein Sonderfall, sondern Knotenpunkt der transnationalen rechten Internationale (CPAC Budapest, Bannon-Netzwerk, russische Verbindungen). Diese Note liefert den Netzwerkkontext, den Gelegs von innen beschreibt.
+Orbán ist kein Sonderfall, sondern Knotenpunkt der transnationalen rechten Internationale (CPAC Budapest, russische Verbindungen; Bannon warb 2018 um ihn, Orbán zögerte → [[FRONTLINE — Bannons War]]). Diese Note liefert den Netzwerkkontext, den Gelegs von innen beschreibt.
 
 ### → [[phoenix — Orbán abgewählt]]
 

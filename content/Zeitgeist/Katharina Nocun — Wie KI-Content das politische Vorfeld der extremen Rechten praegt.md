@@ -275,7 +275,7 @@ Temelkurans Stufen 3 und 4 (Rationalität stören, Enthemmung normalisieren) sin
 
 ### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
-Nachtsitzung dokumentiert das transnationale Netzwerk (CPAC, Heritage Foundation, Atlas-Netzwerk, Bannon als AfD-Berater), das den ideologischen Rahmen setzt. Nocuns KI-Fake-Frauen und Verfallporn-Accounts sind das taktische Ausführungslevel auf Social Media — das Netzwerk liefert die Agenda, die KI-Accounts skalieren sie.
+Nachtsitzung dokumentiert das transnationale Netzwerk (CPAC, Heritage Foundation, Atlas-Netzwerk, Bannons Selbstauskunft als AfD-Berater), das den ideologischen Rahmen setzt. Nocuns KI-Fake-Frauen und Verfallporn-Accounts sind das taktische Ausführungslevel auf Social Media — das Netzwerk liefert die Agenda, die KI-Accounts skalieren sie.
 
 ### → [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 

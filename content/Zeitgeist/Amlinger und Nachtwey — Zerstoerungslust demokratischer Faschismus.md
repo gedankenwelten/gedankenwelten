@@ -291,6 +291,10 @@ Die philosophische Seite zum demokratischen Faschismus: Celikates sieht die Fasc
 
 Driouichs Kuchenrechnung liefert die ökonomische Mechanik zu dem Nullsummendenken, das Amlinger und Nachtwey in den Gefühlslagen finden.
 
+### → [[FRONTLINE — Bannons War]]
+
+Das Endzeitmotiv in einer einzelnen Biografie: Mit *The Fourth Turning* liest Bannon die Geschichte als Folge von Jahreszeiten, an deren Ende der Winter steht. Eine Filmkritikerin sah in seinen Filmen die Einladung zu einem „reinigenden Feuer“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

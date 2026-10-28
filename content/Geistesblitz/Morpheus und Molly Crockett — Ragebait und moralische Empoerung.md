@@ -330,6 +330,10 @@ Mössner hält das Sortierziel für eine menschliche Entscheidung und damit für
 
 Crockett beschreibt, dass Menschen deutlich weniger strafen, wenn sie das Gesicht des anderen sehen, und dass online davon ein Avatar bleibt. Yu erklärt den Mechanismus dahinter und setzt Rehumanisierung als Handarbeit dagegen. Offen bleibt die Asymmetrie: Rehumanisieren kostet den Einzelnen Arbeit, während Empörungsmedien und Algorithmen die Entmenschlichung industriell herstellen.
 
+### → [[FRONTLINE — Bannons War]]
+
+Woher die Formel stammt und wofür sie gedacht war: Bannon setzt auf die begrenzte Aufmerksamkeit der Redaktionen und plant die Empörung der Gegner ein, so beim Einreiseverbot, das an einem Freitagnachmittag im Januar 2017 unterzeichnet wurde.
+
 ---
 
 ## Weiterdenken

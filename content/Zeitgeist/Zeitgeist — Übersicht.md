@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*350 Notes — automatisch generiert · nach Thema sortiert*
+*351 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -109,6 +109,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]]
+- [[Zeitgeist/FRONTLINE — Bannons War|FRONTLINE — Bannon’s War]] — Ein Arbeitersohn, der den Glauben an die Institutionen verlor und beschloss, sie einzureißen. FRONTLINE zeigt Bannons Weg, der Guardian, wie weit sein Netz in Europa trug.
 - [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]] — 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN|Gesine Schwan — Macht NEU DENKEN]]
 - [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|GFF-Gutachten — Die AfD ist verfassungswidrig]] — Ein Jahr ergebnisoffen geprüft, dann ein klares Urteil: Die AfD ist verfassungswidrig — getragen von zwei Säulen, von denen jede allein genügt.

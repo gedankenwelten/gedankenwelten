@@ -240,6 +240,10 @@ Andree teilt die Diagnose der „Machtverklumpung“ aus Tech-Monopolen und Trum
 
 Fricke belegt ökonomisch, was Clüver Ashbrook als Nährboden setzt: dass wirtschaftliche Not systematisch nach rechts kippt. Ihr „umgekehrtes Robin-Hood-Gesetz“ (One Big Beautiful Bill) und Frickes These greifen ineinander — die Umverteilung nach oben ist nicht nur Ungerechtigkeit, sondern der Treibstoff, der die nächste Radikalisierung befeuert.
 
+### → [[FRONTLINE — Bannons War]]
+
+Der Urheber von „flood the zone“ aus der Nähe: Auf der CPAC 2017 kündigte Bannon die „Dekonstruktion des Verwaltungsstaats“ an und setzte auf Dekrete im Takt „bam, bam, bam“. Was davon in Trumps zweiter Amtszeit in Dekreten steht, hält die Note unter „Was seither geschah“ fest.
+
 ---
 
 ## Weiterdenken

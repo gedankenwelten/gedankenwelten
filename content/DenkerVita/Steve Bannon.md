@@ -214,7 +214,12 @@ Wir ordnen Bannon der nationalistischen extremen Rechten zu: wegen seiner Arbeit
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Donald Trump|Donald Trump]] — Bannon gab Trumps Instinkten Programm und Sprache, bis zur Antrittsrede vom „amerikanischen Gemetzel“. Schon 2010 hielt er ihn für einen „popularist“, der alles von sich aus denkt; nach *Fire and Fury* verstieß Trump ihn, 2021 begnadigte er ihn, 2025 sagte Bannon ihm eine dritte Amtszeit voraus.
+- [[DenkerVita/Elon Musk|Elon Musk]] — zwei Flügel desselben Lagers in offener Fehde: Bannon nannte Musk 2025 „truly evil“, weil dieser sich für bestimmte Formen der Einwanderung einsetzte, und wendet sich als wirtschaftlicher Nationalist gegen die Tech-Konzerne, die Musk von Regeln befreien will.
+- [[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]] — beide lesen 2008 als Bruch, nach dem die Gegenwart einem Feudalismus gleicht, bei Bannon „neofeudalism“, bei Varoufakis Technofeudalismus. Die Schuld sucht Varoufakis bei Banken, Plattformen und der liberalen Mitte, Bannon am Ende bei den Einwanderern.
+- [[DenkerVita/Oliver Nachtwey|Oliver Nachtwey]] — seine „Zerstörungslust“ beschreibt die Erzählung vom reinigenden Feuer, die Bannons Endzeitfilme tragen. Nach Nachtwey verschont die rechte Destruktivität die Mächtigen; daran lässt sich Bannons Selbstbild als Gegner der Wall Street prüfen.
+- [[DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]] — sie erforscht, wie Verlust zu Scham und Scham zu Schuld an anderen wird. Bannons Geschichte vom Vater, der 2008 seine AT&T-Aktien verkaufte, ist eine solche Tiefengeschichte, erzählt von dem, der daraus Politik macht.
+- [[DenkerVita/Ray Dalio|Ray Dalio]] — beide lesen Geschichte in Zyklen mit einer späten Krisenphase. Dalio warnt mit Platon, dass Demokratien darin über Demagogen in Autokratien kippen; Bannon hielt laut David Kaiser einen großen Krieg für wahrscheinlich und wollte das vor der Kamera bestätigt haben.
 
 ## Gedankenwelten-Notes
 

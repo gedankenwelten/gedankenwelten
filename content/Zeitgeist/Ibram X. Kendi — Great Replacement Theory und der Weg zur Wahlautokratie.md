@@ -275,3 +275,8 @@ Kendis Reihe hat in Deutschland ein Glied, das eine Partei ausdrücklich aus ihr
 ### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
 
 Rasse als politische Waffe statt als Vorurteil: Diese Linie zog Arendt 1951 vom Imperialismus zum Totalitarismus.
+
+### → [[FRONTLINE — Bannons War]]
+
+An diesem Fall lässt sich Kendis Schema prüfen: Bannon nennt die Banker als Schuldige von 2008 und lenkt die Politik doch auf die Einwanderer. Seine Lohnthese prüft der Faktencheck dort an der Forschung.
+

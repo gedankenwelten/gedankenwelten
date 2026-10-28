@@ -377,6 +377,10 @@ Den gebrochenen Verfassungsauftrag nennt Oschmann mit Habermas den ersten Aussch
 
 Driouich ergänzt die Nachfrageseite um die Angebotsseite, die hier fehlt, und hält dabei fest, dass sich nur ein Teil der Eliten nach rechts wendet.
 
+### → [[FRONTLINE — Bannons War]]
+
+Die Angebotsseite, die der Manow-Note fehlt, in Gestalt eines Mannes, und ihre Grenze: In Europa fand Bannon 2018 kaum Partner, und der Aufstieg der Parteien war hausgemacht.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)

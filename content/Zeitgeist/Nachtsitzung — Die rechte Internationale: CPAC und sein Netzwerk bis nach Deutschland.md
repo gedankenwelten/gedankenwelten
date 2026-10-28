@@ -287,6 +287,10 @@ Orbáns Wahlkampf mit KI-Fakes und der Influencer-Agentur Megafon, dazu die russ
 
 Peter Thiel, früher Förderer Trumps, holte 2026 seine Familie nach Buenos Aires — und blieb doch bei Trump. Ein Knoten, der sich bewegt, ohne zu reißen.
 
+### → [[FRONTLINE — Bannons War]]
+
+Der Mann hinter der Selbstauskunft in den Epstein-Akten. FRONTLINE erzählt Bannons Weg bis ins Weiße Haus, und der Guardian zählt 2018 nach, wer in Europa mitmachte: kaum jemand außer Salvini. Belegt ist die Prahlerei, nicht die Beratung.
+
 ---
 
 ## Weiterdenken
