@@ -2,7 +2,7 @@
 title: "Was ist Wohlstand?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-10-15
+aktualisiert: 2026-10-28
 description: "Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss."
 raetsel: "Drei liegen satt unter dem Baum und schauen weg. Drüben teilen zwei ein Brot."
 panorama-art: wachsend
@@ -112,6 +112,8 @@ Absolute Entkopplung gibt es, das ist nicht mehr strittig. Deutschlands Wirtscha
 
 Ob Schrumpfen die Alternative ist, ist die zweite, schwierigere Frage. Modellrechnungen zeigen, dass Szenarien mit weniger Wachstum viele technische Wetten der Klimaszenarien vermeiden, etwa auf Kohlendioxid-Entnahme in riesigem Maßstab, aber an der politischen Machbarkeit hängen ([Keyßer & Lenzen 2021, doi:10.1038/s41467-021-22884-9](https://doi.org/10.1038/s41467-021-22884-9)). Eine Übersicht aus dem Lager der Postwachstums-Forschung beschreibt, wie Wohlergehen innerhalb planetarer Grenzen aussehen könnte, und nennt die Politik der Umstellung und das Verhältnis zum globalen Süden als offene Fragen ([Kallis et al. 2025, Review, doi:10.1016/S2542-5196(24)00310-3](https://doi.org/10.1016/S2542-5196(24)00310-3)). Die Gegenprüfung fällt hart aus: Von 561 Degrowth-Studien sind fast neun Zehntel Meinungsbeiträge, und die wenigen Befragungen finden für Schrumpfen keine Mehrheit ([Savin & van den Bergh 2024, Review, doi:10.1016/j.ecolecon.2024.108324](https://doi.org/10.1016/j.ecolecon.2024.108324); die Autoren gehören selbst zu den Kritikern). Beide Lager räumen damit dasselbe ein: Die Entkopplung ist zu langsam, und das Schrumpfen hat keine Mehrheit. Dazwischen liegt eine Gesellschaft, deren Renten, Kredite und Arbeitsplätze am Wachstum hängen.
 
+Offen ist auch, ob eine Demokratie ohne Wachstum hält. Lange und Schmelzer halten eine Postwachstums-Politik mit Umverteilung, wirtschaftlicher Sicherheit und Suffizienz für einen gangbaren Weg gegen die extreme Rechte ([Lange & Schmelzer 2025, Intereconomics](https://www.intereconomics.eu/contents/year/2025/number/6/article/beyond-growth-europe-s-path-to-sustainability-and-stability.html)); Riwan Driouich, der mit beiden publiziert, sieht ohne Wachstum keinen Raum mehr für die alten Klassenkompromisse. Japan zeigt einen dritten Weg: Seit den 2000ern sichert es nach Driouichs eigener Forschung eine hohe Profitrate und gesellschaftliche Ruhe ohne Wachstum, über alte Sozialkompromisse und Zugeständnisse auf Staatskredit, eine „stagnation mode of regulation“ ([Driouich, EAJS 2026, Abstract](https://nomadit.co.uk/conference/eajs2026/paper/101660), noch nicht begutachtet; → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Hält die Demokratie ohne Wachstum?|Oetting/Driouich-Nachbesprechung]]).
+
 **Die Stimmen**
 
 - **[[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar#Was sie stattdessen will|Ulrike Herrmann]]:** Grüne Energie wird teurer, sinkende Effizienz heißt Schrumpfen; als Modell dient ihr die britische Kriegswirtschaft: *„Arm und Reich bekamen das gleiche.“*
@@ -121,9 +123,12 @@ Ob Schrumpfen die Alternative ist, ist die zweite, schwierigere Frage. Modellrec
 - **[[Martyna Linartas — Unverdiente Ungleichheit#Zuschauerfragen (Kira-Runde)|Martyna Linartas]]:** „Team Demokratin“ und „Team Postwachstum“; unendliches Wachstum auf einem endlichen Planeten funktioniere nicht.
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Der Tisch, der Kuchen und wer davon redet|Aladin El-Mafaalani]]:** Hört der Kuchen auf zu wachsen, *„werden die Argumente von den bösen Mächten sozusagen überzeugender“*.
 - **[[Philipp Blom — Die Unterwerfung#Siegen macht dumm — Wachstum, Kapital und ein neuer Adel|Philipp Blom]]:** *„Unendliches Wachstum in einem endlichen System geht nicht“*, aber ein Kredit über 100, der mit 110 zurückgezahlt werden muss, baut den Zwang zum Wachsen ein.
-- **[[Markus Gabriel — Ethischer Kapitalismus#4. Postkapitalistisches Nachwort|Markus Gabriel]]:** Die Probleme löst nicht, wer das Wirtschaften einstellt, sondern wer ethisch wirtschaftet.
+- **[[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Ohne Wachstum keine Sozialdemokratie?|Steffen Lange & Matthias Schmelzer]]:** Europas Stagnation ist strukturell, höheres Wachstum kaum erreichbar und nicht einmal wünschenswert; Postwachstum mit Umverteilung sei *„a viable option“*, auch gegen die extreme Rechte.
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
+
+- **[[Markus Gabriel — Ethischer Kapitalismus#4. Postkapitalistisches Nachwort|Markus Gabriel]]:** Die Probleme löst nicht, wer das Wirtschaften einstellt, sondern wer ethisch wirtschaftet.
+- **[[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Ohne Wachstum keine Sozialdemokratie?|Riwan Driouich]]:** Die Sozialdemokratie lebte vom Wachstum; ohne es *„there's no room for this today“*, Gewinne stiegen dann nur über sinkende Löhne und Steuern.
 
 - **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Drei Stellschrauben|Achim Truger]]:** Steigt der Wohlstand, stimmt die Verteilung und ist niemand arbeitslos, sei es *„vollkommen sekundär, ob am Ende noch etwas wächst“*.
 - **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Die Minderwertsteuer|Maja Göpel]]:** Das Wachstumsparadigma ist so stark, weil man Verteilung nicht verhandeln muss, solange der Kuchen wächst; rückkoppeln statt entkoppeln.
@@ -147,6 +152,7 @@ Ob Schrumpfen die Alternative ist, ist die zweite, schwierigere Frage. Modellrec
 |---|---|---|
 | 15.10.2026 | [[Martin Oetting — Happy Planet Index 2026#Nachbesprechung|Martin Oetting — Happy Planet Index 2026]] | Gründungsnote: Macht mehr Geld zufriedener? Easterlin gegen Stevenson & Wolfers, Killingsworth 2021, Killingsworth/Kahneman/Mellers 2023, Röck et al. 2025, HPI-Schwelle bei ~4 gha, Fußabdruck-Streit (Blomqvist vs. Rees/Wackernagel) |
 | 15.10.2026 | [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Grünes Wachstum oder Postwachstum?|Veronika Grimm — Der Preis als Signal]] | Geht Wohlstand ohne Wachstum? Entkopplung in Deutschland (OWID), Haberl 2020, Vogel & Hickel 2023, Savin & van den Bergh 2024 — die Frage, die das Panorama zuerst vorschlug |
+| 28.10.2026 | [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Nachbesprechung|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]] | Geht Wohlstand ohne Wachstum — und hält dann die Demokratie? Lange & Schmelzer (Intereconomics 2025), Japan als „stagnation mode of regulation“ (Driouich, EAJS 2026); Stimmen Lange & Schmelzer, Driouich |
 
 ---
 

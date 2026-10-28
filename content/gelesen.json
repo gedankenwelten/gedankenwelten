@@ -484,11 +484,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Mark-Benecke-Fragerunde-Time-Is-Up-2026",
      "leser": 2,
      "aufrufe": 2
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 1,
      "aufrufe": 1
     }

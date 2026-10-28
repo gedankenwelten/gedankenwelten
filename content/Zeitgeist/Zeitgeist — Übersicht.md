@@ -98,7 +98,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]]
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Februar 2026|Die Neuen Zwanziger — Salon Lektüren Februar 2026]]
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Maerz 2026|Die Neuen Zwanziger — Salon Lektüren März 2026]]
-- [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+- [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] — Eine Konferenz als Heiratsmarkt der Rechten: Biersky folgt dem CPAC-Netz von Washington über Budapest bis Berlin und schöpft daraus Hoffnung. Was davon hielt, steht hier mit.
 - [[Zeitgeist/Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]] — Was sich nicht rechnet, wird gestrichen: der lange Artikel, der ungeprüfte Beweis, die Gabe ohne Gegengabe. Dietmar Dath verteidigt die Verschwendung und fragt, welche Ordnung Großzügigkeit wirklich macht.
 - [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus]]
 - [[Zeitgeist/Dror Etkes — Die Landkarte der Besatzung|Dror Etkes — Die Landkarte der Besatzung]] — Er wuchs in einer Siedlung auf und kartiert heute jede neue. Sein Befund über die Zweistaatenlösung ist der unbequemste dieser Reihe: Sie ist vorbei — und er weiß nicht, was danach kommt.

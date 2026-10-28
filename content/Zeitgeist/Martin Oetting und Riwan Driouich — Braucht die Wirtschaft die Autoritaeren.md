@@ -168,6 +168,30 @@ Gerade weil er es gut macht, lohnt der Blick auf das, was verloren geht. Die Wir
 
 ---
 
+## Nachbesprechung
+
+*Zwei Fragen bleiben nach den drei Quellen offen: ob Stagnation wirklich nach rechts treibt, und ob eine Demokratie halten kann, wenn nichts mehr wächst. Für beide gibt es einen Prüfstein, an den keiner der drei erinnert: Japan.*
+
+### Treibt Stagnation nach rechts?
+
+Driouichs Kette läuft von der Stagnation über den Verteilungskampf zur extremen Rechten. Die Wirtschaftsgeschichte gibt ihm ein Stück recht, aber ein anderes, als er braucht. Moritz Schularick und Kollegen haben 800 Wahlen in 20 Ländern seit 1870 ausgewertet: Nach systemischen Finanzkrisen legt die extreme Rechte im Schnitt um 30 Prozent zu, Mehrheiten schrumpfen, die Polarisierung wächst. Nach gewöhnlichen Rezessionen und nach schweren Einbrüchen, die keine Finanzkrisen sind, finden sie diese Dynamik nicht ([Funke, Schularick & Trebesch 2016, doi:10.1016/j.euroecorev.2016.03.006](https://doi.org/10.1016/j.euroecorev.2016.03.006), Langzeitstudie). Es ist also eher der Schock, der Verlust von Vertrauen in die Ordnung, der nach rechts treibt, und weniger das langsame Wachstum an sich.
+
+Den deutlichsten Fall liefert ein Land, das in keinem der drei Beiträge vorkommt. Japan wächst seit den frühen Neunzigern kaum noch, drei „verlorene Jahrzehnte“, und blieb dreißig Jahre lang ohne nennenswerte extreme Rechte im Parlament. Erst bei der Oberhauswahl im Juli 2025 holte die fremdenfeindliche Sanseitō über zwölf Prozent der Listenstimmen, vor allem von früheren LDP-Wählern, in einem Jahr mit Inflation, teurem Reis und einem Spendenskandal der Regierungspartei ([Lee 2026, Pacific Affairs, doi:10.1080/0030851x.2026.2626218](https://doi.org/10.1080/0030851x.2026.2626218)). Der Japanologe Chris Burgess sieht einen psychologischen Kipppunkt: Ausländer seien im Alltag sichtbar geworden, die Eliten hätten die Erzählung über Migration verloren ([Burgess 2026, doi:10.1017/apj.2026.10054](https://doi.org/10.1017/apj.2026.10054)). Auch hier kam der Ausschlag mit einem Schock, nicht mit der Stagnation selbst.
+
+Für Driouichs Mechanismus spricht dagegen ein Befund, der von unten auf den Kuchen schaut. Wo die Einkommen stagnieren, sinkt nach Tim Vlandas und David Weisstanner die Bereitschaft, den Sozialstaat über Steuern zu tragen: Wer selbst nicht mehr vorankommt, empfindet Steuern als teurer und Hilfe für andere als weniger dringlich ([Vlandas & Weisstanner 2022, doi:10.31235/osf.io/862ua](https://doi.org/10.31235/osf.io/862ua), Preprint). Das Stück „Steuern“ in Driouichs Kuchen schrumpft dann nicht nur, weil Investoren es verlangen, sondern auch mit der Zustimmung der Wähler.
+
+→ Weiter im Panorama: **[[Warum waehlen Menschen Autoritaere#Materieller Kern oder Einstellung?|Materieller Kern oder Einstellung?]]**, mit Hensel, Flassbeck, Isabella Weber, Fricke und Manow.
+
+### Hält die Demokratie ohne Wachstum?
+
+Lange und Schmelzer sagen ja, wenn umverteilt wird. Driouich sagt im Webinar, für die alten Bündnisse sei „no room“. Seine eigene Forschung erzählt etwas Drittes. In einem Konferenzbeitrag von 2026 widerspricht er der verbreiteten Lesart, Japan sei an „gescheiterten“ Institutionen erkrankt: Sie seien im Gegenteil effizient darin, eine hohe Profitrate und gesellschaftliche Ruhe ohne Wachstum zu sichern. Japans Profitrate liege seit der zweiten Hälfte der 2010er Jahre über dem Niveau der Boomjahre, Pleiten und Arbeitskämpfe seien selten. Das gelinge, weil pragmatische neoliberale Reformen auf alte Sozialkompromisse aus der Nachkriegszeit gesetzt wurden und der Staat die Verlierer der Stagnation mit Defiziten beschwichtigt, statt Einkommen von den Gewinnen umzuverteilen. Driouich nennt das eine „stagnation mode of regulation“ ([Driouich, EAJS 2026, Abstract](https://nomadit.co.uk/conference/eajs2026/paper/101660), noch nicht begutachtet).
+
+Damit verschiebt sich seine Europa-These. Ein Kapitalismus ohne Wachstum *kann* stabil bleiben, wenn er Institutionen hat, die Gewinne sichern, ohne Konflikte auszulösen. Ob man Japans Weg demokratisch gelungen nennen will, ist eine andere Frage: Die Gewinne steigen, die Löhne kaum, und die Ruhe ist mit Staatsschulden erkauft, die im Westen kaum jemand für übertragbar hält. Europa fehlen die kompanieweiten Kompromisse und die Geduld der Gläubiger. Die These vom autoritären Kipppunkt wird damit zur Frage, welche Institutionen eine Gesellschaft ohne Wachstum hat. Lange und Schmelzers Antwort heißt Umverteilung, Japans Antwort heißt Beschwichtigung auf Kredit, Driouichs Befürchtung heißt Zwang.
+
+→ Weiter im Panorama: **[[Panorama/Was ist Wohlstand#Geht Wohlstand ohne Wachstum?|Geht Wohlstand ohne Wachstum?]]**, mit Herrmann, Grimm, Göpel, Truger und El-Mafaalanis Kuchen.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Deutschlands Wachstum seit den Fünfzigern
