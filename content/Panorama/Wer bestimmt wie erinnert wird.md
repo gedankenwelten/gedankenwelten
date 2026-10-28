@@ -2,8 +2,8 @@
 title: "Wer bestimmt, wie erinnert wird?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-26
-description: "Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt."
+aktualisiert: 2026-10-28
+description: "Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden."
 raetsel: "Ein Kranz kostet wenig. Teuer ist, wer ihn niederlegen darf."
 panorama-art: wachsend
 tags:
@@ -29,7 +29,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Am 9. Oktober 2026 verwehren jüdische Studierende dem AfD-Landtagsvizepräsidenten von Sachsen-Anhalt den Weg zum Gedenken an den Anschlag von Halle; ein AfD-Lokalpolitiker droht danach, eine AfD-Regierung werde Fördergelder streichen und die Gedenkkultur ändern. Dahinter stehen drei Fragen, an denen sich die Stimmen der Gedankenwelten reiben: wem ein Gedenken gehört, was eine Regierung daran ändern kann, und ob Erinnerung überhaupt schützt, was sie schützen soll.
+> Am 9. Oktober 2026 verwehren jüdische Studierende dem AfD-Landtagsvizepräsidenten von Sachsen-Anhalt den Weg zum Gedenken an den Anschlag von Halle; ein AfD-Lokalpolitiker droht danach, eine AfD-Regierung werde Fördergelder streichen und die Gedenkkultur ändern. Dahinter stehen die Fragen, an denen sich die Stimmen der Gedankenwelten reiben: wem ein Gedenken gehört, was eine Regierung daran ändern kann, ob Erinnerung überhaupt schützt, was sie schützen soll, und wessen Tote erinnert werden, wenn ein Land nach einem Bürgerkrieg zwei Lager von Toten hat.
 
 > [!info] Ein wachsendes Panorama
 > Gegründet aus der Nachbesprechung von [[Bartunek — Tillschneider vor der Synagoge in Halle#Wer bestimmt, wie erinnert wird?|Tillschneider vor der Synagoge in Halle]]. Wenn eine Note eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch.
@@ -108,6 +108,32 @@ Die räumlichen Studien widersprechen einander. Wo früher ein Konzentrationslag
 > [!question] Die Reibung
 > Hoerner findet Sättigung, Lüssenheide Schutz, Pepinsky nichts Messbares; Blom gibt dem „Nie wieder“ eine Frist, Tekkal kennt keine. *Wenn sich nicht zeigen lässt, ob Erinnerung schützt — erinnert ein Land dann um der Wirkung willen oder um der Toten willen, und genügt das zweite als Grund für Steuergeld?*
 
+## Wessen Tote werden erinnert?
+
+Ein Gedenktag braucht Tote, und nach einem Bürgerkrieg liegen sie auf beiden Seiten. Griechenland feiert darum den 28. Oktober 1940, den letzten Tag, an dem das Land einig war; der 8. Mai bedeutet dort nichts, die Befreiung Athens am 12. Oktober feiert die Stadt offiziell erst seit 2015 ([Greek News Agenda](https://www.greeknewsagenda.gr/12-october-1944-free-athens-interview-with-historian-yannis-skalidakis/)). Der kommunistische Widerstand war nach dem Bürgerkrieg kriminalisiert, anerkannt wurde er 1982 ([Gesetz 1285/1982](https://www.e-nomothesia.gr/kat-nomothesia-genikou-endiapherontos/n-1285-1982.html)). Im Sommer 1989 bekam der „Banditenkrieg“ per Gesetz den Namen Bürgerkrieg, mit Renten für die Versehrten beider Seiten ([Gesetz 1863/1989](https://www.e-nomothesia.gr/index.php/nomos-1863-1989-fek-204a-18-11-1989.html)), und wenige Wochen später verbrannte der Staat 16 bis 17 Millionen Akten der Sicherheitspolizei, als Akt der Versöhnung ([UPI](https://www.upi.com/Archives/1989/08/29/Greece-burns-17-million-police-files/2851620366400/)). Spanien schwieg nach der Amnestie von 1977, bis Familien ab 2000 die Massengräber öffneten ([Davis 2005, doi:10.1353/hrq.2005.0034](https://doi.org/10.1353/hrq.2005.0034)); zwei Erinnerungsgesetze folgten, 2024 setzten Valencia und Aragón ihnen ein „Konkordienrecht“ entgegen. Finnland ersetzte 1940 den weißen Siegestag durch einen Gedenktag für alle, die 1918 „auf beiden Seiten“ starben ([fi.wikipedia, Tagesbefehl](https://fi.wikipedia.org/wiki/Kaatuneitten_muistop%C3%A4iv%C3%A4)). In Deutschland sahen 2020 77 Prozent den 8. Mai eher als Befreiung, unter AfD-Anhängern 31 Prozent ([infratest dimap](https://www.infratest-dimap.de/umfragen-analysen/bundesweit/umfragen/aktuell/8-mai-tag-der-befreiung/)); das AfD-Regierungsprogramm in Sachsen-Anhalt will das „soldatische Opfer ehren“, „ohne kleingeistige politische Wertungen“ (→ oben, *Was kann eine Regierung an der Erinnerung ändern?*).
+
+Ob Schweigen den Frieden stützt oder den Streit vertagt, ist nicht entschieden. Belastbar ist ein enger Befund: Amnestien helfen nach Kriegsende und eingebettet in einen Friedensvertrag, für schwere Menschenrechtsverbrechen zeigen sie keine befriedende Wirkung ([Dancy 2018, doi:10.1017/s0020818318000012](https://doi.org/10.1017/s0020818318000012)); am ehesten verbessert sich die Lage, wo Prozesse und Amnestien zusammenkommen ([Olsen, Payne & Reiter 2010, doi:10.1353/hrq.2010.0021](https://doi.org/10.1353/hrq.2010.0021)). Für Spanien beschreibt Paloma Aguilar, wie die Erinnerung an den Bürgerkrieg die Transición zur Mäßigung trieb ([Monografie, doi:10.1515/9781782384854](https://doi.org/10.1515/9781782384854)). Zugleich wirkt Kriegsgewalt fort: Sie verstärkt Feindseligkeit gegen den früheren Gegner und die Bindung an die eigene Gruppe ([Barceló 2025, Meta-Analyse, doi:10.1017/s0003055425101299](https://doi.org/10.1017/s0003055425101299)), in Spanien über Generationen ([Balcells 2011, doi:10.1177/0032329211424721](https://doi.org/10.1177/0032329211424721)), und in griechischen Massakerorten kaufte man in der Schuldenkrise weniger deutsche Autos, stärker dort, wo der Staat das Gedenken anerkannt hatte ([Fouka & Voth 2022, doi:10.1017/s0003055422001095](https://doi.org/10.1017/s0003055422001095)). Eine Meta-Analyse zur Wirkung von Gedenktagen gibt es nicht.
+
+**Die Stimmen**
+
+- **[[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Warum der Anfang gefeiert wird und nicht das Ende|Iason Chandrinos]]:** Gefeiert wird der letzte Tag der Einigkeit, und es sei „ziemlich problematisch“, die Erinnerung eines ganzen Jahrzehnts an einem Tag zusammenzufassen.
+- **[[Varoufakis — 2008 Crash, Populismus und Europa#Herkunft Eine Familie auf der falschen Seite der Geschichte|Yanis Varoufakis]]:** Sein Vater saß vier Jahre im Lager, weil er den Kommunismus nicht verurteilen wollte; die Repression machte ihn zu dem, was sie bekämpfte.
+- **[[Joern Leonhard — Wie man Kriege beendet#Ein Anfang hat ein Datum, ein Ende nicht|Jörn Leonhard]]:** Ein Kriegsende ist ungleichzeitig, und gerade darum sucht man das eine Bild, das den Schluss markiert.
+- **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Nach der Befreiung Die Befreiten ohne Zuhause, das Lager mit zweitem Leben|Jens-Christian Wagner]]:** Buchenwald hat zwei Gruppen von Toten, die des KZ und die des sowjetischen Speziallagers; er erforscht auch die zweiten, statt sie zu verschweigen.
+- **[[Susanne Boshammer — Was heisst verzeihen#Schwamm drüber ist kein Verzeihen|Susanne Boshammer]]:** „Schwamm drüber“ ist Nachsicht plus Vergessen, Verzeihen benennt das Unrecht zuerst.
+- **[[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory#Der Krieg um die Erinnerung|Kimberlé Crenshaw]]:** Mit Frederick Douglass: Die Sache, die im Krieg gewonnen wurde, ging verloren, und die verlorene gewann, weil der Krieg um die Erinnerung länger dauert.
+- **[[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet#Das Schweigen danach — und seine Funktion heute|Konstantin Flemig]]:** Russland macht Katyn und den Hitler-Stalin-Pakt per Gesetz unsichtbar; wer Geschichte tilgt, muss sie nicht aufarbeiten.
+
+<details><summary>Weitere Stimmen (2)</summary>
+
+- **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Geschichtsrevisionismus Die Mechanik der Umdeutung|Sascha Schlösser]]** (zitiert): Am Tag der Befreiung Buchenwalds solle man lieber der „blutjungen“ Gefallenen von Gispersleben gedenken, die zum größten Teil der Waffen-SS angehörten.
+- **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Entlastungserzählungen — Ost, West und der Mythos vom Befehlsnotstand|Jens-Christian Wagner]]:** Die Bundesrepublik erzählte von der „kleinen Clique“ und vom Befehlsnotstand und pflegte daneben ihren eigenen Opferdiskurs: Luftkrieg, Flucht, Vertreibung, Teilung.
+
+</details>
+
+> [!question] Die Reibung
+> Finnland gab 1940 beiden Seiten einen gemeinsamen Gedenktag, Griechenland gab dem Krieg 1989 seinen Namen und verbrannte im selben Sommer die Akten, Spanien schwieg zwanzig Jahre und streitet seitdem, und die AfD will das „soldatische Opfer ehren“, „ohne kleingeistige politische Wertungen“. *Ist ein Gedenken für alle Toten Versöhnung oder Gleichmacherei, und wer darf entscheiden, ob der Kollaborateur von Meligalas und der Partisan, der ihn erschoss, in denselben Kranz gehören?*
+
 ---
 
 ## Nachbesprechungen, die hierher führen
@@ -116,9 +142,8 @@ Die räumlichen Studien widersprechen einander. Wo früher ein Konzentrationslag
 |---|---|---|
 | 10.10.2026 | [[Bartunek — Tillschneider vor der Synagoge in Halle#Wer bestimmt, wie erinnert wird?|Tillschneider vor der Synagoge in Halle]] | Gründungsnote. Staatsvertrag und GedenkStiftG Sachsen-Anhalt, AfD-Programm 2026, Höcke/Buchenwald 2017, Buchenwald-Komitee 2025, VG Weimar 2024, Hanau 2024–26 · MEMO 2025, Rees/Papendick/Zick 2021, KZ-Nähe-Debatte (Hoerner 2019, Homola 2020, Pepinsky 2023), Lüssenheide 2025 (Preprint) |
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Wem gehört ein Gedenken?\|Nachtsitzung — TheTrumpWeek]] | Hegseth am D-Day 2026: Umdeutung (Yoder 2023, Couperus et al. 2022), Wirkung von Metaphern und Analogien (Brugman et al. 2019, Jimenez et al. 2021, Steen et al. 2014, Menon et al. 2025), Russlands 9. Mai |
+| 28.10.2026 | [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Wessen Tote werden erinnert?\|Chandrinos — Griechenland unter deutscher Besatzung]] | Eröffnet die vierte Frage. Griechenland: Ochi-Tag, Gesetz 1285/1982, Gesetz 1863/1989 und Aktenverbrennung 1989, Meligalas, 12. Oktober seit 2015 · Spanien (Davis 2005, Gesetze 2007/2022, Konkordienrecht 2024), Finnland 1940, 8. Mai (infratest 2020) · Olsen/Payne/Reiter 2010, Dancy 2018, Aguilar, Barceló 2025, Balcells 2011, Fouka & Voth 2022 |
 
-> [!note] Kandidat für eine vierte Frage: Wessen Tote werden erinnert?
-> Das AfD-Programm will das „soldatische Opfer ehren“, „ohne kleingeistige politische Wertungen“; Höcke beklagte 2017, es habe „keine deutschen Opfer mehr“ gegeben, nur Täter. Das Landesgesetz schreibt das Gedenken an die Opfer von SBZ und SED längst vor. Im Bestand ist die Frage noch dünn besetzt — sie wächst, wenn eine Note sie aufnimmt.
 
 ---
 

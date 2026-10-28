@@ -70,17 +70,11 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Geistesblitz]]
 
-### Spuren
-
-> **28.10.** — [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
->
-> Ungarn, Serbien, Brasilien: Wer einen gekaperten Staat abwählt, hat den leichteren Teil hinter sich. Die Spur verfolgt, ob der Rückbau gelingt, ohne das Werkzeug des Vorgängers zu benutzen.
-
-> **22.10.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
->
-> Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
-
 ### Panorama
+
+> **28.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+>
+> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
 
 > **27.10.** — [[Panorama/Wer bekommt die knappen Molekuele|Wer bekommt die knappen Moleküle?]]
 >
@@ -98,11 +92,17 @@ Die Gedankenwelten (luc)
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> **26.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
->
-> Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt.
-
 > → *9 weitere in* [[Panorama]]
+
+### Spuren
+
+> **28.10.** — [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
+>
+> Ungarn, Serbien, Brasilien: Wer einen gekaperten Staat abwählt, hat den leichteren Teil hinter sich. Die Spur verfolgt, ob der Rückbau gelingt, ohne das Werkzeug des Vorgängers zu benutzen.
+
+> **22.10.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
+>
+> Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
 
 ### Denker
 
