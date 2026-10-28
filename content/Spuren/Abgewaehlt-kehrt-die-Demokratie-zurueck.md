@@ -18,17 +18,28 @@ konfidenz: 55%
 review-takt: 21-tage
 eroeffnet: 2026-10-28
 aktualisiert: 2026-10-28
-description: "Ungarn, Serbien, Brasilien: Wer einen gekaperten Staat abwählt, hat den leichteren Teil hinter sich. Die Spur verfolgt, ob der Rückbau gelingt, ohne das Werkzeug des Vorgängers zu benutzen."
+description: "Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?"
 raetsel: "Der Schlüssel, der die Tür verschloss, passt auch, um sie zu öffnen. Wer ihn dreht, hält ihn danach in der Hand."
 ---
 
 # Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?
 
+![[assets/Abgewaehlt-kehrt-die-Demokratie-zurueck-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — drei Türen ohne Wände auf einer Ebene unter Taghimmel, die vorderste offen in eine Sternennacht, die mittlere halb, die hinterste zu; im Vordergrund ein übergroßer Eisenschlüssel, den niemand hält. Magritte malt Rätsel, ohne sie aufzulösen, in ruhiger, trockener Klarheit. Das passt zu einer Spur, die drei Länder auf verschiedenen Stufen desselben Weges zeigt und offen lässt, was hinter der geöffneten Tür liegt und wer den Schlüssel als Nächstes aufhebt.
+
+*Prompt:* A painting in the style of René Magritte, wide panoramic banner, 12:5 aspect ratio. On a flat green plain under a calm blue daytime sky with soft white clouds, three tall wooden doors stand alone in a row without any walls, receding into the distance. The nearest door stands open, and through its frame a deep night sky with a few stars is visible, although daylight surrounds it; the middle door is half open; the farthest door is shut. In the foreground on the grass lies an oversized antique iron key, as long as a person, casting a long sharp shadow toward the open door. Smooth precise brushwork, flat matte oil paint, crisp edges, muted greens, sky blue, warm brown wood, dark grey iron. Quiet, uncanny, deadpan atmosphere. No people, no faces, no text, no letters, no signature, no photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Wer einen gekaperten Staat abwählt, hat den leichteren Teil hinter sich. Im April 2026 verlor Orbán nach sechzehn
 > Jahren, am 25. Oktober räumte Vučić die Niederlage gegen eine Liste ein, die aus Studentenprotesten entstand, am
-> selben Tag schlug Lula Flávio Bolsonaro in der Stichwahl. In allen drei Ländern hatten die Amtsinhaber Medien,
-> Justiz und Verwaltung weitgehend auf ihrer Seite und verloren trotzdem. Die Wahl funktioniert also noch. Diese Spur
+> selben Tag schlug Lula Flávio Bolsonaro in der Stichwahl. In Ungarn und Serbien hatten die Amtsinhaber Medien,
+> Justiz und Verwaltung weitgehend auf ihrer Seite und verloren trotzdem. In Brasilien scheiterte das 2022 abgewählte
+> Lager mit dem Versuch zurückzukommen, um gut drei Prozentpunkte. Die Wahl funktioniert also noch. Diese Spur
 > fragt, was danach kommt: ob die Gewinner den Staat zurückbauen können, ohne dabei das Werkzeug ihrer Vorgänger zu
 > benutzen, und ob die Abgewählten wiederkommen.
 
@@ -55,8 +66,8 @@ Ein Regierungswechsel ist an einem Wahlabend vorbei. Ein Regimewechsel dauert Ja
 steckenbleiben oder in sein Gegenteil kippen.
 
 Die drei Fälle stehen an verschiedenen Stellen desselben Weges. **Serbien** ist drei Tage alt, dort geht es um die
-Übergabe. **Brasilien** hat dasselbe Lager zum zweiten Mal abgewählt, dort geht es darum, ob die Verlierer das
-Ergebnis anerkennen. **Ungarn** ist ein halbes Jahr weiter und steckt mitten im Rückbau. **Polen** ist kein Fall der
+Übergabe. **Brasilien** hat das 2022 abgewählte Lager ein zweites Mal geschlagen, diesmal bei seinem Versuch
+zurückzukommen; dort geht es darum, ob die Verlierer das Ergebnis anerkennen. **Ungarn** ist ein halbes Jahr weiter und steckt mitten im Rückbau. **Polen** ist kein Fall der
 Spur, sondern ihr Vorläufer: Dort wurde die PiS 2023 abgewählt, und 2025 gewann ihr Kandidat Nawrocki die
 Präsidentschaft. Er blockiert seither die Justizreform per Veto.
 
@@ -83,12 +94,12 @@ diesen Fällen recht behält.
   ([Journal of Democracy 2025, doi:10.1353/jod.2025.a964563](https://doi.org/10.1353/jod.2025.a964563);
   Essay mit eigener Datenbank, enger gefasste Fälle.)
 
-Der Widerspruch ist kleiner, als er klingt. Nord und Kollegen zählen jede gebremste Erosion, Bianchi und Kollegen nur
-Länder, die schon ganz gefallen waren. Ungarn und Serbien gehören zur zweiten, härteren Gruppe: V-Dem führt beide als
-Wahlautokratie, Serbien im Bericht 2026 im neunten Jahr in Folge
-([N1, März 2026](https://n1info.rs/english/news/v-dem-institute-report-says-serbia-election-autocracy/)). Brasilien
-gilt V-Dem dagegen als einer der großen Demokratisierer seit 2023
-([Universität Göteborg](https://www.gu.se/en/news/democratic-backslide-a-threat-to-free-elections-globally)).
+Der Widerspruch ist kleiner, als er klingt. Nord und Kollegen zählen auch Erosionen, die noch innerhalb der Demokratie
+gestoppt und umgekehrt wurden, Bianchi und Kollegen nur Länder, die schon ganz gefallen waren. Ungarn und Serbien gehören zur zweiten, härteren Gruppe: V-Dem führt beide als
+Wahlautokratie, Serbien im Bericht 2026 im zwölften Jahr in Folge
+([V-Dem Democracy Report 2026](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf) ·
+[N1, März 2026](https://n1info.rs/english/news/v-dem-institute-report-says-serbia-election-autocracy/)). Brasilien
+führt derselbe Bericht als Wahldemokratie, mit einem U-Turn im Jahr 2023.
 *(Beide Studien hier nach ihren Abstracts referiert. Wer sie gegen diese Spur hält, sollte die Fallauswahl im Volltext
 prüfen; beide sind frei zugänglich.)*
 
@@ -103,7 +114,7 @@ prüfen; beide sind frei zugänglich.)*
 | Land | gelungen, wenn alles zutrifft |
 |---|---|
 | **Ungarn** | V-Dem führt Ungarn nicht mehr als Wahlautokratie · Venedig-Kommission und EU-Kommission beanstanden keine *neue* Kaperung (Medienrat, Staatsanwaltschaft oder Gerichte mit Tisza-Getreuen besetzt) · Fidesz kann als Opposition frei antreten |
-| **Serbien** | eine Regierung der Studentenliste ist gebildet und im Amt · der Präsident (Vučić bis Mai 2027, danach sein Nachfolger) blockiert sie nicht auf Dauer · V-Dem führt Serbien nicht mehr als Wahlautokratie |
+| **Serbien** | eine Regierung der Studentenliste ist gebildet und im Amt · weder die amtierende Präsidentin Brnabić (SNS) noch der Sieger der Präsidentenwahl blockieren sie auf Dauer · V-Dem führt Serbien nicht mehr als Wahlautokratie |
 | **Brasilien** | Lula wird am 05.01.2027 vereidigt · die Anfechtung des Ergebnisses scheitert ohne Gewalt wie am 8. Januar 2023 · V-Dem verzeichnet keine neue Autokratisierung · die Verfahren gegen die Bolsonaros bleiben gerichtlich gedeckt und werden kein Instrument gegen die Opposition |
 
 **Bestätigt**, wenn bis Frühjahr 2029 höchstens eines der drei Länder alle Bedingungen erfüllt. Stillstand zählt als
@@ -119,7 +130,7 @@ ohne ihrerseits das Richterwahlgremium zu besetzen. Bei vier Fällen gilt die Th
 gelingen. Ob Israel überhaupt in diese Reihe gehört, ist strittig (→ Gleichmut-Spiegel).
 
 **Zwischensignale**, die die Konfidenz bewegen, aber nichts entscheiden: das Gutachten der Venedig-Kommission zur
-17. Verfassungsänderung in Ungarn · Regierungsbildung in Serbien und Vučićs Verhalten als Präsident · die Bestätigung
+17. Verfassungsänderung in Ungarn · Regierungsbildung in Serbien und die Präsidentenwahl, die bis zum 27.12.2026 stattfinden muss und noch nicht ausgeschrieben ist · die Bestätigung
 des Ergebnisses durch das brasilianische Wahlgericht (TSE) im Dezember · neue Vetos in Polen · Umfragen für Fidesz,
 SNS und den Bolsonarismus.
 
@@ -142,8 +153,12 @@ erwartete 135 bis 140 der 250 Sitze für die Studentenliste
 unabhängige Medien und ausländische Einmischung verantwortlich, darunter ungenannte europäische Staaten und einen
 „amerikanischen tiefen Staat"
 ([Kyiv Independent](https://kyivindependent.com/russian-friendly-vucic-concedes-defeat-to-student-protest-movement-in-serbian-election/)).
-Er bleibt Präsident; eine dritte Amtszeit ist ihm verwehrt, die Präsidentenwahl steht bis Mai 2027 an. Auf der Liste
-standen keine Studierenden, sondern wenig bekannte Fachleute, Sportler, Landwirte und Künstler. Einen Kandidaten für
+Vučić war am 27.09. als Präsident zurückgetreten, um als Ministerpräsident anzutreten; seither amtiert
+Parlamentspräsidentin Ana Brnabić aus seiner Partei. Die Präsidentenwahl muss bis zum 27.12.2026 stattfinden, ausgeschrieben
+hat Brnabić sie bisher nicht ([Euronews, 28.09.](https://www.euronews.com/2026/09/28/serbias-president-aleksandar-vucic-resigns-to-run-for-prime-minister-in-snap-elections) ·
+[Vreme](https://vreme.com/en/vesti/do-kad-moraju-da-se-raspisu-predsednicki-izbori/)). Auf der Liste der Studenten
+standen keine Studierenden, sondern wenig bekannte Fachleute, Sportler, Landwirte und Künstler
+([PBS](https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift)). Einen Kandidaten für
 das Amt des Ministerpräsidenten nennen die Berichte bisher nicht. Das amtliche Endergebnis steht aus.
 
 *(2) Brasilien, 25.10.2026.* Lula gewinnt die Stichwahl mit 51,8 % gegen Flávio Bolsonaro, knapp 4,4 Millionen
@@ -157,7 +172,7 @@ dem Verdacht auf Geldwäsche über ein Konto in Portugal und mit einer Äußerun
 Land bei einer Niederlage verlassen. Das Verfahren ist geheim
 ([Gazeta do Povo](https://www.gazetadopovo.com.br/republica/moraes-ordena-cancelamento-de-passaporte-de-flavio-bolsonaro-apos-eleicoes/) ·
 [Brasil de Fato, 26.10.](https://www.brasildefato.com.br/2026/10/26/pf-apreende-passaporte-de-flavio-bolsonaro-que-volta-a-questionar-resultado-das-urnas/)).
-Ob Bolsonaro bei der Annullierung bleibt oder stattdessen die Aberkennung von Lulas Kandidatur beantragt, berichten die
+Ob Bolsonaro bei der Annullierung bleibt oder stattdessen die Kassation von Lulas Liste beantragt, berichten die
 Zeitungen unterschiedlich. Laut NDMais hält die Regierung Lula selbst die Anordnung für überstürzt
 ([NDMais](https://ndmais.com.br/politica/flavio-bolsonaro-sendor-eua-stf-moraes-lula/)).
 
@@ -171,9 +186,10 @@ Generalstaatsanwalt trat unter Druck zurück
 ([Brussels Signal](https://brusselssignal.eu/2026/07/hungarys-prosecutor-general-resigns-under-pressure-from-magyar/)).
 Am 13.07. beschloss das Parlament die 17. Verfassungsänderung: Sie beendete die Amtszeit von Präsident Sulyok und senkte
 die Altersgrenze der Verfassungsrichter, was den Gerichtspräsidenten Péter Polt und drei weitere Richter aus dem Amt
-brachte. Fidesz boykottierte die Abstimmung. Sulyok unterschrieb am 18.07., weil die Verfassung ihm keine Wahl lasse,
-und ging zwei Tage später
-([Verfassungsblog](https://verfassungsblog.de/the-new-constitutional-amendment/) ·
+brachte. Angenommen wurde sie mit 139 zu 6 Stimmen, Fidesz boykottierte die Sitzung. Sulyok unterschrieb am 18.07., weil
+die Verfassung ihm keine Wahl lasse, und ging zwei Tage später
+([Brussels Signal, 07/2026](https://brusselssignal.eu/2026/07/hungary-tests-the-limits-of-constitutional-power/) ·
+[Verfassungsblog](https://verfassungsblog.de/the-new-constitutional-amendment/) ·
 [BBC, 18.07.](https://www.bbc.co.uk/news/articles/cpd7q7eev7po)). Am 11.08. wählte das Parlament **András Baka** zum
 Präsidenten, jenen früheren Präsidenten des Obersten Gerichts, dessen Amtszeit Orbán 2012 mit genau diesem Mittel
 beendet hatte, einer personenbezogenen Übergangsbestimmung in der Verfassung. Der Europäische Gerichtshof für Menschenrechte gab Baka 2016
@@ -192,28 +208,36 @@ Auszählung holte Netanjahu wieder auf
 ([Ynet](https://www.ynetnews.com/article/skd97fc2gl) ·
 [JPost](https://www.jpost.com/israel-election-2026/article-913053)). Offen.
 
-**Deutung:** Alle drei Fälle haben gemeinsam, dass die Wahl unter ungleichen Bedingungen trotzdem entschieden hat. Das
-ist der hoffnungsvolle Teil, und er ist belegt. Gewonnen hat jeweils jemand, der nicht in das Feindbild der Amtsinhaber
+**Deutung:** In Ungarn und Serbien hat die Wahl unter ungleichen Bedingungen trotzdem entschieden, in Brasilien hat sie
+eine Rückkehr verhindert, ohne dass die Institutionen einem Lager gehörten. Das ist der hoffnungsvolle Teil, und er ist
+belegt. In Ungarn und Serbien gewann jemand, der nicht in das Feindbild der Amtsinhaber
 passte: in Serbien eine Liste ohne Parteigeschichte, in Ungarn ein Überläufer aus dem eigenen Lager. In Brasilien gewann
 ausgerechnet das Feindbild selbst, knapp und nach einer verlorenen ersten Runde. Wie es weitergeht, zeigt Ungarn als Erstes: Magyar hat die Ämter geräumt, und
 er hat dafür das Werkzeug benutzt, das Orbán gebaut hatte. Orbáns Vierte Verfassungsänderung von 2013 erlaubt dem
 Verfassungsgericht, Verfassungsänderungen nur auf Verfahrensfehler zu prüfen. Damit ist eine Zweidrittelmehrheit
 inhaltlich unangreifbar. Dieselbe Änderung schrieb 2013 rückwirkend die Übergangsbestimmung fest, die Baka aus dem Amt
 gebracht hatte. Heute trifft eine Übergangsbestimmung Sulyok, und Baka ist Präsident. Der Verfassungsblog
-nennt es demokratisches „front-sliding", Fidesz eine Säuberung. Beides kann zugleich wahr sein. Hier liegt die
+hält solche Personalwechsel in einer Übergangszeit für möglicherweise legitim, als demokratisches „front-sliding"; Fidesz
+nennt es verfassungswidrig und eine politische Säuberung
+([Yahoo/Reuters zur Venedig-Kommission](https://ca.news.yahoo.com/venice-commission-experts-investigate-magyars-101833005.html)).
+Beides kann zugleich wahr sein. Hier liegt die
 eigentliche Frage dieser Spur: Was geschieht mit dem Werkzeug, wenn es benutzt ist? In Polen sieht man die andere
-Möglichkeit, eine Regierung, die die Ämter nicht räumt und seit drei Jahren an ihnen hängt. In Serbien kommt beides
-zusammen: ein Präsident Vučić, der bis Mai 2027 bleibt, und eine Mehrheit, die keine zwei Drittel hat (126 Sitze genügen
-für eine Regierung, nicht für die Verfassung).
+Möglichkeit, eine Regierung, die die Ämter nicht räumt und seit fast drei Jahren an ihnen hängt. In Serbien kommt beides
+zusammen: eine amtierende Präsidentin aus Vučićs Partei, die die fällige Präsidentenwahl noch nicht ausgeschrieben hat,
+und eine Mehrheit, die keine zwei Drittel hat (126 Sitze genügen für eine Regierung, nicht für die Verfassung).
 
-**Gegenbeobachtung (Pflicht):** **(1)** Drei Abwahlen in gut sechs Monaten, dazu Polen 2023, sind mehr als Zufall, und
+**Gegenbeobachtung (Pflicht):** **(1)** Zwei Abwahlen und eine verhinderte Rückkehr in gut sechs Monaten, dazu Polen 2023, sind mehr als Zufall, und
 Nord und Kollegen zählen 73 % U-Turns in dreißig Jahren. Die These könnte schlicht zu pessimistisch sein. **(2)** Ungarn
 ist eine Zweidrittelmehrheit mit einem neuen Präsidenten, der vom Unrecht der alten Ordnung selbst betroffen war. Wenn
 irgendwo ein Rückbau gelingt, dann dort. **(3)** Das Werkzeug-Dilemma ist womöglich überzeichnet: Eine Übergangsbestimmung,
 die einmal greift und dann ausläuft, ist etwas anderes als fünfzehn Verfassungsänderungen nach Tagesbedarf. Der
 Verfassungsblog weist darauf hin, dass Sulyok erneut kandidieren durfte. **(4)** In Brasilien beantragten beide Lager die
 Verlängerung der Wahlzeit, die Bolsonaro nun anficht. Die Anfechtung ist schwach, und die Regierung selbst hält die
-Pass-Anordnung für überstürzt. Das spricht für Institutionen, die nicht einfach einem Lager gehören. **(5)** Gegen die Gegenbeobachtung:
+Pass-Anordnung für überstürzt. Das spricht für Institutionen, die nicht einfach einem Lager gehören. **(5)** Gegen
+(3) steht eine Stimme aus Brüssel: Ähnliche Werkzeuge, die unter Orbán als Rückbau der
+Demokratie galten, würden nun als Mittel ihrer Wiederherstellung beschrieben, und das Vokabular habe sich stärker
+geändert als die Technik ([Brussels Signal](https://brusselssignal.eu/2026/07/hungary-tests-the-limits-of-constitutional-power/),
+ein konservatives Portal, das der Regierung Magyar kritisch gegenübersteht). **(6)** Gegen die Gegenbeobachtung:
 Fast die Hälfte der Brasilianer (48,2 %) und rund 40 % der Serben haben das abgewählte Lager gewählt. Der Bolsonarismus hat
 die erste Runde gewonnen. Abgewählt ist nicht verschwunden.
 
@@ -256,7 +280,8 @@ die erste Runde gewonnen. Abgewählt ist nicht verschwunden.
 ## Muster
 
 Aus den Fällen zeichnet sich eine Abfolge ab, die man prüfen kann: **Abwahl → Anerkennung → Übergabe → Rückbau →
-Rückkehr?** Serbien steht bei der Übergabe, Brasilien bei der Anerkennung, Ungarn im Rückbau, Polen schon bei der
+Rückkehr?** Serbien steht bei der Übergabe, Ungarn im Rückbau. Brasilien hat eine Rückkehr knapp abgewehrt und streitet nun um die
+Anerkennung, Polen steht bei der
 Frage der Rückkehr. Wenn die Spur trägt, wird sie zeigen, an welcher Stufe die Fälle hängen bleiben, und ob es immer
 dieselbe ist.
 

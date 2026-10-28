@@ -98,7 +98,7 @@ Die Gedankenwelten (luc)
 
 > **28.10.** — [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
 >
-> Ungarn, Serbien, Brasilien: Wer einen gekaperten Staat abwählt, hat den leichteren Teil hinter sich. Die Spur verfolgt, ob der Rückbau gelingt, ohne das Werkzeug des Vorgängers zu benutzen.
+> Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?
 
 > **22.10.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
 >
