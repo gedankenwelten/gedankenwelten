@@ -307,6 +307,9 @@ Für die Berichterstattung folgt daraus eine einfache Forderung, die Krüger sel
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+Was hinter der antideutschen Stimmung stand, die in der Berichterstattung von 2015 unverstanden blieb: eine Besatzung, die in Deutschland kaum jemand kennt, und ein Vergessen, das Bonn und Athen im Kalten Krieg miteinander aushandelten.
+
 ### → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
 
 Die Schwester-Note: dasselbe Thema im Gespräch bei Jung & Naiv, zehn Monate später, mit den Netzwerken, dem Sozialkapital, der Anstalt und Krügers Eingeständnis, dass sich Einfluss nicht beweisen lässt.

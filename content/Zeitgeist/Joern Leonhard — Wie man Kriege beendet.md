@@ -349,6 +349,9 @@ Im Bestand stehen die Erfahrungen nebeneinander. Konstantin Flemig erzählt Mün
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+Griechenland feiert am Ochi-Tag den Anfang seines Krieges, weil es kein gemeinsames Ende gab: Der Weltkrieg ging dort in Dezemberkämpfe und Bürgerkrieg über. Ein Fall für „ein Anfang hat ein Datum, ein Ende nicht“.
+
 ### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
 
 Münkler beginnt bei Grotius' Unterscheidung von Krieg und Frieden und stellt fest, dass ihre Markierungen verschwunden sind, die Erwartung an sie aber geblieben ist. Leonhard macht daraus eine Epoche mit Zahlen: Zwischen 1648 und 1945 endeten die meisten Kriege mit einem Vertrag, seither kaum noch. Münkler erklärt die Auflösung mit dem hybriden Krieg der Gegenwart, Leonhard sieht sie schon seit 1945 im Gang.

@@ -1,7 +1,7 @@
 ---
 date: 2026-03-31
 title: "Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft"
-aktualisiert: 2026-10-18
+aktualisiert: 2026-10-28
 description: "Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen."
 raetsel: "Beim Braten fiel der Satz. Alle kauten weiter. Es ging ja ums Erbe."
 tags:
@@ -39,7 +39,7 @@ aliases:
 Quelle: [Die Durchrohung der Gesellschaft — Vortrag von Wilhelm Heitmeyer](https://www.youtube.com/watch?v=XGMlZmBjrlM), Stiftung Demokratie Saarland in Kooperation mit Gegen Vergessen – Für Demokratie e.V., Saarbrücken, 16. März 2026
 
 > [!info] Wer spricht?
-> **Wilhelm Heitmeyer** — Seniorprofessor an der Universität Bielefeld; dort gründete und leitete er fast zwei Jahrzehnte das Institut für interdisziplinäre Konflikt- und Gewaltforschung (IKG). Seit 1985 untersucht er die schleichende Normalisierung autoritärer und nationalradikaler Einstellungen; seine Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit erschien als *Deutsche Zustände* (10 Bände, Suhrkamp). Forschungsschwerpunkte: Gewalt, Rechtsextremismus, soziale Desintegration. Bundesverdienstkreuz erster Klasse. Er blickt auf Strukturen, nicht nur auf Einstellungen.
+> **Wilhelm Heitmeyer** — Soziologe an der Universität Bielefeld, bis 2025 als Seniorprofessor; dort gründete und leitete er fast zwei Jahrzehnte das Institut für interdisziplinäre Konflikt- und Gewaltforschung (IKG). Seit 1985 untersucht er die schleichende Normalisierung autoritärer und nationalradikaler Einstellungen; seine Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit erschien als *Deutsche Zustände* (10 Bände, Suhrkamp). Forschungsschwerpunkte: Gewalt, Rechtsextremismus, soziale Desintegration. Bundesverdienstkreuz erster Klasse. Er blickt auf Strukturen, nicht nur auf Einstellungen.
 > → [[DenkerVita/Wilhelm Heitmeyer|DenkerVita]]
 
 > [!quote] Kernthese
@@ -49,7 +49,7 @@ Quelle: [Die Durchrohung der Gesellschaft — Vortrag von Wilhelm Heitmeyer](htt
 
 ## Kontext
 
-Die Stiftung Demokratie Saarland lädt Heitmeyer im März 2026 zu einem Abendvortrag ein, ziemlich genau ein Jahr nach seinem [Vortrag über den autoritären Nationalradikalismus der AfD](https://www.youtube.com/watch?v=JbF0kInzEno). Der Abend ist eine Vorschau: Das Buch dazu, *Die Durchrohung der Gesellschaft* (edition suhrkamp, dritter Band seiner Reihe *Signaturen der Bedrohung*), erscheint am 27. Oktober 2026. Der Vortrag findet zwei Tage nach dem Tod von Jürgen Habermas statt (gestorben 14. März 2026 in Starnberg, 96 Jahre alt), auf den Heitmeyer eingeht. Sein erklärtes Ziel für den Abend: Irritation. *„Wahrscheinlich alle Klarheiten restlos beseitigt"*, sagt er am Ende [▶ 72:13](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4333).
+Die Stiftung Demokratie Saarland lädt Heitmeyer im März 2026 zu einem Abendvortrag ein, ziemlich genau ein Jahr nach seinem [Vortrag über den autoritären Nationalradikalismus der AfD](https://www.youtube.com/watch?v=JbF0kInzEno). Der Abend ist eine Vorschau: Das Buch dazu, *Die Durchrohung der Gesellschaft* (edition suhrkamp, dritter Band seiner Reihe *Signaturen der Bedrohung*), ist am 27. Oktober 2026 erschienen (→ [[#Was seither geschah|Was seither geschah]]). Der Vortrag findet zwei Tage nach dem Tod von Jürgen Habermas statt (gestorben 14. März 2026 in Starnberg, 96 Jahre alt), auf den Heitmeyer eingeht. Sein erklärtes Ziel für den Abend: Irritation. *„Wahrscheinlich alle Klarheiten restlos beseitigt"*, sagt er am Ende [▶ 72:13](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4333).
 
 ---
 
@@ -332,6 +332,16 @@ Am Ende bleibt Heitmeyers Frage offener, als sein Satz klingt. Dass Gewalt Anerk
 
 → Weiter im Panorama: **[[Panorama/Was macht Schule mit uns#Beschämen oder schonen?|Beschämen oder schonen?]]**, mit Marks, El-Mafaalani, Spitzer, Lengwenus und Musil.
 
+## Was seither geschah
+
+*Stand: 28.10.2026*
+
+**Das Buch ist da.** Am 27. Oktober ist *Die Durchrohung der Gesellschaft* erschienen, 349 Seiten, das Vorwort ist datiert „Bielefeld, im Juli 2026“ ([Suhrkamp](https://www.suhrkamp.de/buch/wilhelm-heitmeyer-die-durchrohung-der-gesellschaft-t-9783518127933)). Es setzt anders ein als der Vortrag. Am Anfang stehen die Berufe, die die Rohheit abbekommen: Bürgermeisterinnen, Feuerwehrleute, Gerichtsvollzieher, Jobcenter-Personal, Schiedsrichter. Das Inhaltsverzeichnis der [Leseprobe](https://res.cloudinary.com/suhrkamp/images/q_auto/v1792628887/168497/die-durchrohung-der-gesellschaft_9783518127933_leseprobe.pdf) zeigt drei Teile, das Konzept, die Räume einzeln (Rettungskräfte, Wohnungslose, Lehrkräfte, Kirchen, Partnerschaften, sexualisierte Gewalt gegen junge Menschen) und ein Fazit. Ob das Buch die Stellen belegt, die im Vortrag offen blieben, die „+6,8 %“ beim Rettungsdienst, die 602 Obdachlosen von 2011, die „bis zu 80 %“ der Dunkelfeldstudie und den Autor des Satzes über die Wut als Treibsatz, sagen die zwanzig Seiten der Leseprobe nicht. Das zeigt erst das Buch selbst, in den Kapiteln ab Seite 162 und im Literaturverzeichnis. Rezensionen gab es am Tag nach dem Erscheinen noch keine ([perlentaucher](https://www.perlentaucher.de/autor/wilhelm-heitmeyer.html)).
+
+**Die Kurven haben sich weiterbewegt, nicht alle in seine Richtung.** Die Polizeiliche Kriminalstatistik 2025 meldet erstmals seit 2021 weniger Gewaltkriminalität (−2,3 %), bei Jugendlichen gingen die Tatverdächtigen um 7,4 % zurück, bei Kindern stiegen sie um 3,3 %. Die Messerangriffe blieben fast auf dem Vorjahresstand (+0,8 %, 29.243 Fälle), die Bedrohungen mit einem Messer stiegen um 9,5 %, Gewalt mit Schusswaffengebrauch erreichte den höchsten Stand seit 2016, und die erfassten Vergewaltigungen nahmen um 9,0 % zu, seit 2018 um rund 72 % ([BKA, 20.04.2026](https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260420_PM_PKS_SKiD.html)). Das Bundeslagebild zu Sexualdelikten an Kindern und Jugendlichen zählt für 2025 17.126 Fälle von Kindesmissbrauch (2024: 16.354), am stärksten gestiegen ist der Missbrauch ohne Körperkontakt, online (+16,5 %) ([BKA, 21.07.2026](https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260721_PM_BLB_SexualdeliktezNvKindernuJugendlichen.html)). Zu Heitmeyers „Zacken“ passt das, aber die Grenze, an der sein Argument schon im März hing, bleibt dieselbe: Eine Hellfeldzahl kann nicht unterscheiden, ob mehr getan oder mehr angezeigt wird. Beim Missbrauch ohne Körperkontakt kommt hinzu, dass das Netz neue Taten erst möglich macht. Das stützt seinen dritten Erklärungsansatz, die Plattformen, mehr als die Durchrohung im Ganzen.
+
+Die Lagebilder zur häuslichen Gewalt und zur Gewalt gegen Polizei und Einsatzkräfte für 2025 stehen noch aus. Die Ausgaben für 2024 erschienen im November und Dezember 2025 ([BKA](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/Lagebilder/HaeuslicheGewalt/haeuslicheGewalt_node.html)).
+
 ---
 
 ## Faktencheck
@@ -512,7 +522,7 @@ Die Durchrohung im Zeitraffer eines Schuljahres, erzählt 1906: Vom Diebstahl ü
 
 ## Weiterführend
 
-- **Wilhelm Heitmeyer**: [*Die Durchrohung der Gesellschaft*](https://www.genialokal.de/Suche/?q=9783518127933) (edition suhrkamp, erscheint 27.10.2026) — das Buch zum Vortrag
+- **Wilhelm Heitmeyer**: [*Die Durchrohung der Gesellschaft*](https://www.genialokal.de/Suche/?q=9783518127933) (edition suhrkamp 2793, 349 S., erschienen am 27.10.2026) — das Buch zum Vortrag; [Leseprobe mit Inhaltsverzeichnis](https://res.cloudinary.com/suhrkamp/images/q_auto/v1792628887/168497/die-durchrohung-der-gesellschaft_9783518127933_leseprobe.pdf)
 - **Wilhelm Heitmeyer**: *Deutsche Zustände* (10 Bände, Suhrkamp, 2002–2011) — Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit
 - **Ulrich Beck**: *Risikogesellschaft* (Suhrkamp, 1986) — Individualisierungsthese
 - **Andreas Reckwitz**: *Die Gesellschaft der Singularitäten* (Suhrkamp, 2017) — Singularisierung und Wertesubjektivierung

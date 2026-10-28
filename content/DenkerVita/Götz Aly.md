@@ -90,6 +90,8 @@ Er ist kein Linker, kein Konservativer, kein Liberaler im parteipolitischen Sinn
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Iason Chandrinos|Iason Chandrinos]] — Aly zeigt, wie der Raub die Deutschen versorgte; Chandrinos, wer ihn in Griechenland bezahlte, mit Besatzungskosten, Zwangsanleihe und Hunger.
+
 - [[DenkerVita/Ronen Steinke]] — Steinke hat die Fritz-Bauer-Biographie geschrieben; Bauer war für den jungen Aly eine Schlüsselfigur. Beide teilen den Fokus auf juristische und strukturelle Aufarbeitung des NS.
 - [[DenkerVita/Michel Friedman]] — Friedman als Kind von Holocaust-Überlebenden verkörpert die Perspektive der Opfer; Aly analysiert die Perspektive der Tätergesellschaft. Zusammen ergeben sie ein vollständigeres Bild.
 - [[DenkerVita/Theodor W. Adorno]] — Adornos „Erziehung nach Auschwitz" stellt dieselbe Frage wie Aly, aber philosophisch statt historisch-empirisch. Aly misstraut der Frankfurter Schule — zu abstrakt, zu wenig Archivarbeit.

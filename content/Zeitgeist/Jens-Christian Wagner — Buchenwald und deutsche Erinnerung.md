@@ -237,6 +237,9 @@ Und falls die AfD in Thüringen regiert? Wagner erwartet keine Schließung über
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+Dieselbe Mechanik der Umdeutung in Griechenland: Die Goldene Morgenröte machte aus dem Gedenken an hingerichtete Sicherheitsbataillonisten in Meligalas ein großes Fest, ein Gegenstück zum Gispersleben-Vorschlag. Dazu ein Opferland, das in den westdeutschen Entlastungserzählungen gar nicht vorkam.
+
 ### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
 Welzer liefert die Sozialpsychologie zu Wagners Rädchen: wie Arbeitsteilung und das Selbstbild des leidenden Täters das Morden erträglich machten — und warum die Enkel, auf die Wagner setzt, ihre Großeltern eher verklären als befragen.
 

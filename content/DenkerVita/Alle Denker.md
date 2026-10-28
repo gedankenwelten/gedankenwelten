@@ -106,6 +106,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## C
 
+**[[DenkerVita/Iason Chandrinos|Iason Chandrinos]]** — Zeithistoriker (Regensburg), erforscht die deutsche Besatzung Griechenlands, den Holocaust dort und die vergessenen griechischen KZ-Häftlinge und Zwangsarbeiter im Reich.
+
 **[[DenkerVita/Tahir Chaudhry|Tahir Chaudhry]]** — Journalist (* 1989), Redakteursausbildung bei der SZ, Gründer von Grenzgänger Studios; *Wem diente Jeffrey Epstein?* (2024), mit Tariq Hübsch *Peter Thiel. Palantir, der KI-Gott und das Ende des Menschen* (2026); „State-Made“ statt Selfmade-Milliardäre
 
 **[[DenkerVita/Christian Wiese|Christian Wiese]]** — evangelischer Theologe und Judaist, Martin-Buber-Professor für jüdische Religionsphilosophie an der Goethe-Universität Frankfurt, Leiter des Buber-Rosenzweig-Instituts; Hans-Jonas-Forscher, Herausgeber in der Buber-Werkausgabe, Gedenkbuch der hessischen Synagogen

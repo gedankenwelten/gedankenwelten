@@ -5344,3 +5344,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Primärquelle** | [EPO — Gewinner 2024](https://epo.org/en/news-events/press-centre/press-release/2024/1181293) |
 | **Notiz** | [[Jacob Beautemps — European Inventor Award 2024]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Beautemps_InventorAward2024_Live_Transkript.txt` · `Gedankenwelten/Transkripte/Beautemps_Malta_Windspeicher_Transkript.txt` |
+
+## Iason Chandrinos / Griechenland unter deutscher Besatzung (Ochi-Tag)
+
+| | |
+|---|---|
+| **Vortrag** | [Besetzung Griechenlands durch die Nationalsozialisten — Vortrag von Historiker Dr. Iason Chandrinos](https://www.youtube.com/watch?v=2M24CvZvafs) (Gedenkstätte Ahlem / Region Hannover, 29.04.2021) |
+| **Notiz** | [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung]] |
+| **Vita** | [[DenkerVita/Iason Chandrinos]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Chandrinos_Besatzung_Griechenland_Transkript.txt` |

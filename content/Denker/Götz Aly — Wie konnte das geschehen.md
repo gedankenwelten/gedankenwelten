@@ -226,6 +226,9 @@ Die Niederlage, von der sich die meisten Deutschen nicht befreit *fühlten* (sie
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+Die Außenseite der Raub-Rechnung: Griechenland zahlte seine eigene Besatzung und eine Zwangsanleihe, im Hungerwinter 1941/42 starben allein im Großraum Athen mindestens 40.000 Menschen. Chandrinos zeigt auch, dass die Verdrängung nach 1945 außenpolitisch betrieben wurde, mit eingestellten Verfahren und einem Kredit an Athen.
+
 ### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
 Welzer beantwortet Alys Frage von der anderen Seite: über den Deutungsrahmen, in dem das Töten zur „Drecksarbeit“ wurde, statt über das Interesse am Geraubten — zwei Wege, auf denen Ideologie weniger erklärt, als man glaubt.
 

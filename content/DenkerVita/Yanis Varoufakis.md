@@ -95,6 +95,8 @@ Marx, Keynes, Joan Robinson, Michał Kalecki, John Kenneth Galbraith, Paul Sweez
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Iason Chandrinos|Iason Chandrinos]] — Chandrinos erzählt die Besatzung und den danach verfolgten Widerstand, aus dem Varoufakis' Familiengeschichte kommt, und den Moment 2015, als das Unaufgearbeitete zurückkehrte.
+
 - [[DenkerVita/Adam Tooze|Adam Tooze]] — Wirtschaftshistoriker, dessen *Crashed* die Finanzkrise dokumentiert, aus der Varoufakis' Technofeudalism-These entspringt
 - [[DenkerVita/Markus Gabriel|Markus Gabriel]] — Philosophischer Gegenspieler: Gabriel will Kapitalismus ethisch reformieren; Varoufakis hält ihn für bereits tot
 - [[DenkerVita/Francesca Bria|Francesca Bria]] — Kartiert die politische Machtarchitektur (Authoritarian Stack), für die Varoufakis die ökonomische Erklärung liefert

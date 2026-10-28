@@ -60,6 +60,8 @@ Diese Haltung hat einen Preis: Hassmails, Morddrohungen, pöbelnde Anrufe, und n
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Iason Chandrinos|Iason Chandrinos]] — Zwei Historiker der Zwangsarbeit und der Gedenkstätten; beide lesen das Gedenken an eigene Täter von rechts als Kampf um die Gegenwart, in Thüringen wie in Meligalas.
+
 - **[[DenkerVita/Götz Aly|Götz Aly]]** — dieselbe Kernfrage aus zwei Werkstätten: Aly erklärt die Verbrechensgemeinschaft gesamtgesellschaftlich-ökonomisch, Wagner belegt sie mikrogeschichtlich am Ort (Weimar, Ellrich, die Außenlager „vor der eigenen Haustür").
 - **[[DenkerVita/Liya Yu|Liya Yu]]** — Wagners Befund, dass die zur „Gefahr" erklärten Häftlinge von der Bevölkerung selbst ausgeliefert wurden, ist der historische Ernstfall von Yus Dehumanisierungs-Forschung.
 - **[[DenkerVita/Arnd Henze|Arnd Henze]]** — zwei Verteidiger des Erbes gegen die Kaperung: Henze bei den Widerstandsfiguren (Bonhoeffer), Wagner bei den Orten und Fakten (Buchenwald, „Geschichte statt Mythen").

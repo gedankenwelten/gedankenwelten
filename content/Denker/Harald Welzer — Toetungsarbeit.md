@@ -250,6 +250,9 @@ Den „Kollateralschaden der Geschichtsvermittlung“ ([Welzer 2008, doi:10.1353
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+„Säuberungsunternehmen“ und „Sühne“ in Griechenland 1943/44 gehören zum Vokabular der Drecksarbeit. Chandrinos betont mit Mazower aber stärker als Welzer die ermutigte Brutalität und die rassistische Verachtung der „Südländer“, eine Probe für die Frage, wie viel die Ideologie zählt.
+
 ### → [[Denker/Hannah Arendt — Die Banalität des Bösen|Hannah Arendt — Die Banalität des Bösen]]
 Das Gegenstück im Wortsinn. Arendt findet beim Täter das Aufhören des Denkens, Welzer Täter, die sehr wohl über ihre Moral nachdachten und ihr Gewissen über das eigene Leiden in Dienst nahmen. In der Arbeitsteilung treffen sie sich: Arendts Lokführer („Fahr ich. Ich bin Lokführer.“) und Welzers „Ich habe ja nur abgesperrt“ sind dieselbe Figur, bei ihr als Apparat, bei ihm als Selbstdeutung.
 

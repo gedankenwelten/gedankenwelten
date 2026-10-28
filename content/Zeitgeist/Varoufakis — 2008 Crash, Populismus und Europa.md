@@ -206,6 +206,9 @@ Die dreifache Wirkung: Energieinflation stärker als Zölle (da sie Kosteninflat
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+Die Vorgeschichte hinter der Familiengeschichte und hinter dem Zorn von 2015: Besatzung, Hunger und ein Widerstand, der nach dem Krieg verfolgt wurde wie Varoufakis' Vater. Dazu die Zwangsanleihe, die das Reich selbst verbuchte.
+
 ### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 
 Das auslandsjournal beschreibt den Rechtspopulismus (AfD, Le Pen, Orbán) als symptomatisch und verortet seine Ursache im „Absturz der Mittelschicht" — Varoufakis liefert die wirtschaftshistorische Tiefenerklärung: Diese Mittelschicht wurde 2008 von einem System fallen gelassen, das damals seine Legitimation verlor.

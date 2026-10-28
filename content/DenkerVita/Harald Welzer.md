@@ -103,6 +103,9 @@ Bemerkenswert ist, wie selbstkritisch Welzer in Lüneburg auftritt: Er habe sich
 
 ## Verbindungen zu anderen Denkern
 
+### → [[DenkerVita/Iason Chandrinos|Iason Chandrinos]]
+Chandrinos' „Sühne“-Massaker in Griechenland prüfen Welzers Erklärung aus Situation und Gruppe; er betont stärker die ermutigte Brutalität und die Verachtung der Besetzten.
+
 ### → [[DenkerVita/Barbara Bleisch|Barbara Bleisch]]
 
 Seine Gesprächspartnerin in Lüneburg, bei *Zimmer 42* und schon 2015 in der *Sternstunde*. In Lüneburg treffen zwei Begriffe von Großzügigkeit aufeinander: Bleisch fragt nach dem Verhältnis zur Gerechtigkeit und nach dem Verzicht, Welzer weicht der Gerechtigkeitsfrage aus und setzt beim Kapitalismus an, der Großzügigkeit kaum zulässt. Als Bleisch nachhakt, wo er selbst großzügig sei, sucht er lange nach einer Antwort und landet bei seinem Interesse für Menschen, die von den meisten abgewertet werden. Die Großzügigkeit, die er genau beschreiben kann, ist die der Lehrerinnen, die ihm als Kind halfen, ohne es zu müssen.

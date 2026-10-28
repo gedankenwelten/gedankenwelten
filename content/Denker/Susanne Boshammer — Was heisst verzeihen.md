@@ -323,6 +323,9 @@ Die Grenze zeigt sich dort, wo „unversöhnt“ kippt. Soldaten, die im Krieg g
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+Ein Schwamm drüber zwischen Staaten: 1958 tauschte Bonn einen Kredit gegen den Verzicht Athens, deutsche Kriegsverbrecher selbst zu verfolgen. Berlin hält die Reparationsfrage heute für abschließend geregelt, Athen nicht. Daran lässt sich Boshammers Frage nach einer moralischen Verjährung prüfen.
+
 ### → [[Fabian Bernhardt - Ist die Rache der Ursprung der Moral]]
 Die wichtigste Reibung im Bestand. Bernhardt und Boshammer teilen die Etymologie, Gabe im Vergeben, Verzicht im Verzeihen, und Bernhardt zitiert sie ausdrücklich, um sich abzugrenzen: Bei ihm schließt Verzeihen den Verzicht auf Strafe ein. Boshammer hält in Lüneburg dagegen, Strafverzicht wäre „erwartbar nicht die bessere Idee“, die Großzügigkeit gehöre ins Verfahren. Und wo Bernhardt mit Derrida ein reines Vergeben denkt, das nicht einmal die Bitte voraussetzt, knüpft Boshammer das Verzeihen an Bekenntnis und Reue.
 

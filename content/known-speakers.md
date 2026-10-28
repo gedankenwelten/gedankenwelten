@@ -3,6 +3,9 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Iason Chandrinos
+**Status:** ✓ Vollanalyse → [[DenkerVita/Iason Chandrinos]]
+
 ## Carsten Brosda
 **Status:** ✓ Vollanalyse → [[DenkerVita/Carsten Brosda]]
 

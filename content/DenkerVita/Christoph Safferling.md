@@ -89,6 +89,9 @@ Liberal-rechtsstaatlich, universalistisch und institutionenfreundlich; er argume
 
 ## Verbindungen zu anderen Denkern
 
+### → [[DenkerVita/Iason Chandrinos|Iason Chandrinos]]
+Chandrinos zeigt, wie die Schonung von NS-Tätern durch Bonner Justiz und Auswärtiges Amt in Griechenland als „Politik des Vergessens“ ankam.
+
 - **[[DenkerVita/Kai Ambos|Kai Ambos]]** — Zwei deutsche Völkerstrafrechtler, die den Westen an dem Recht messen, das er Russland vorhält, und beide auf ständige Sitze zugunsten eines EU-Sitzes verzichten lassen wollen; Ambos aus Zorn über das Berliner Schweigen, Safferling aus der Geschichte Nürnbergs.
 - **[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Steinke schrieb die Biografie Fritz Bauers, Safferling hob mit der „Akte Rosenburg“ das Gegenbild aus den Akten: die Justiz, der Bauer misstraute. Beim Genozidvorwurf gegen Israel ziehen beide dieselbe Linie zwischen moralischer Dringlichkeit und juristischer Schwelle.
 - **[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Arendt beschrieb, wie Eichmann aufhörte zu denken; Safferling eine Nachkriegsjustiz, die genau solche Funktionierenden wieder einstellte. Was sie philosophisch fasste, hat Nürnberg zum Rechtssatz gemacht.

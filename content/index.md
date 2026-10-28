@@ -22,7 +22,35 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **28.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+>
+> Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
+
+> **26.10.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
+>
+> „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
+
+> **26.10.** — [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
+>
+> Eine Pyramide aus Wählern, Influencern, Abgeordneten und Geldgebern trägt einen Mann. Im April 2026 sah Biersky sie von unten bröckeln. Was davon hielt, steht hier mit.
+
+> **26.10.** — [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
+>
+> Ist Peter Thiel ein Selfmade-Genie oder ein Geschöpf des Staates, den er überwinden will? Zwei Autoren lesen sein Leben als Programm: Monopol, Unsterblichkeit für wenige, Daten über alle.
+
+> **26.10.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
+>
+> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
+
+> → *10 weitere in* [[Zeitgeist]]
+
 ### Geistesblitz
+
+> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+>
+> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
 
 > **28.10.** — [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024 — Erfinder in Valletta, und was aus ihnen wurde]]
 >
@@ -40,9 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Mit einem eigenen Preis holt Jacob Beautemps deutsche Erfindungen ans Licht, das Aber der Jury gleich mit. Den Auftakt macht die Energie: Was nach dem Strom bleibt, braucht Moleküle.
 
-> **21.10.** — [[Geistesblitz/Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
->
-> Die Masse der Fluginsekten in deutschen Schutzgebieten ist um drei Viertel geschrumpft. Zwei Krefelder Entomologen über ein Zelt, eine Waage und den Streit, ob es am Wetter liegt.
+> → *1 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -67,30 +93,6 @@ Die Gedankenwelten (luc)
 > Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt.
 
 > → *9 weitere in* [[Panorama]]
-
-### Zeitgeist
-
-> **26.10.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
->
-> „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
-
-> **26.10.** — [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
->
-> Eine Pyramide aus Wählern, Influencern, Abgeordneten und Geldgebern trägt einen Mann. Im April 2026 sah Biersky sie von unten bröckeln. Was davon hielt, steht hier mit.
-
-> **26.10.** — [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
->
-> Ist Peter Thiel ein Selfmade-Genie oder ein Geschöpf des Staates, den er überwinden will? Zwei Autoren lesen sein Leben als Programm: Monopol, Unsterblichkeit für wenige, Daten über alle.
-
-> **26.10.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
->
-> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
-
-> **25.10.** — [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
->
-> Eine unscheinbare Bohne füttert das Fleisch der Welt — und wer sie liefert oder kauft, hält einen Hebel, der Farmer, Wälder und Wahlen bewegt.
-
-> → *9 weitere in* [[Zeitgeist]]
 
 ### Denker
 

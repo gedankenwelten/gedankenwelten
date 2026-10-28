@@ -409,6 +409,9 @@ Lübbe ist damit nicht widerlegt, die Bonner Demokratie blieb ja stabil. Aber ih
 
 ## Verbindungen
 
+### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+Ein Fall für die Justiz, die sich wechselseitig verzieh: keine einzige westdeutsche Anklage wegen der Verbrechen in Griechenland, Verjährung als Vorwand. Klagen wegen Distomo scheitern bis heute an der Immunität des Staates.
+
 ### → [[Hannah Arendt — Die Banalität des Bösen]]
 
 Walter Strauß holte die Belasteten ins Ministerium, weil sie Vorgaben „perfekt umsetzen“ — Arendts Verwaltungsmensch, diesmal als Personalkonzept einer Demokratie. Ihr Satz, dass Gehorsam unter Erwachsenen Zustimmung ist („Kein Mensch hat bei Kant das Recht zu gehorchen“), ist der philosophische Kern des Nürnberger Prinzips „Befehl entlastet nicht“, und Safferling liefert die Gegenprobe aus den Akten: Kein Richter hatte Schlimmes zu fürchten, wenn er nicht mitmachte. Der Eichmann-Prozess, über den Arendt schrieb, kam nur zustande, weil Fritz Bauer am eigenen Apparat vorbei handelte.
