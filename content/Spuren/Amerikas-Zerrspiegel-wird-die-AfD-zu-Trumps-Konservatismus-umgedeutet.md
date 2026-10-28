@@ -512,6 +512,9 @@ einmal beim Faktencheck, der ihn nur zur Hälfte prüfte.
 
 Der dritte Absender von innen: wie Storm-1516 Medienmarken klont, Wegwerf-Zeitungen gründet und Journalisten in die eigenen Fakes einbaut, darunter Wienand selbst mit einer erfundenen CDU-Wahlverschiebung in Sachsen-Anhalt.
 
+### → [[Panorama/Geopolitik|Geopolitik]]
+
+Der größere Rahmen dieser Spur: Die US-Sicherheitsstrategie vom Dezember 2025 will „resistance to Europe's current trajectory within European nations“ kultivieren. Das Panorama hält sie neben Moskaus Außenpolitisches Konzept, das ebenfalls die Einzelstaaten anspricht, nicht die Union.
 
 ## Quellen
 

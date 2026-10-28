@@ -150,6 +150,10 @@ Dort die Frage nach dem Neuanfang mit altem Personal, hier die nach dem Recht zw
 ### → [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus]]
 Wie autoritäre Bewegungen sich weltweit vernetzen, auch gegen die Institutionen, um die es hier geht.
 
+### → [[Panorama/Geopolitik|Geopolitik]]
+
+Die Frage hinter dem Recht: Die Melier beriefen sich darauf, die Athener auf ihre Stärke. Das Panorama fragt, ob kleine Länder nur Figuren sind, und findet einen Gegenbefund, den dieses Recht mitträgt: Seit 1945 sterben Staaten kaum noch durch Eroberung.
+
 ---
 
 ## Weiterdenken

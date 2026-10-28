@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 50,
-     "aufrufe": 59
+     "leser": 49,
+     "aufrufe": 58
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -425,6 +425,11 @@
     },
     {
      "pfad": "/Denker/Walther-Ziegler-Wittgenstein-in-60-Minuten",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Fabian-Wichmann",
      "leser": 2,
      "aufrufe": 2
     },
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 1,
      "aufrufe": 1
     }

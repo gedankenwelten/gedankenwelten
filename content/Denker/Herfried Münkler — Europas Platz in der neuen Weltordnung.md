@@ -368,6 +368,9 @@ Hanna Notte beschreibt Russlands Weg von der nuklearen Drohkulisse zum hybriden 
 
 Der Historiker macht aus Münklers verschwundener Grenze zwischen Krieg und Frieden eine Epoche: Zwischen 1648 und 1945 endeten die meisten Kriege mit einem Vertrag, seither kaum noch, schon lange vor dem hybriden Krieg.
 
+### → [[Panorama/Geopolitik|Geopolitik]]
+
+Münklers „funktionelles Zusammenspiel“ zwischen Putin und Trump steht dort neben den beiden Dokumenten, die es belegen könnten: Moskau und Washington wünschen sich schriftlich ein Europa aus Einzelstaaten. Seine Sandwichposition ist die Lage, in der sich Europa fragen muss, ob es Spieler oder Figur ist.
 
 ---
 

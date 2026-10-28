@@ -248,6 +248,10 @@ Merkels Befund (Junge empfinden den Wohlstand als ungerecht verteilt) bekommt be
 
 Direkte Ergänzung zur KI-Regulierungs-Passage: Merkel verteidigt europäische KI-Regeln gegen US-Druck, Büttner und Kaufmann liefern den Souveränitätsbegriff dazu — Wahlfreiheit statt Isolation, Vertrauen als europäischer Gegenentwurf zur Tech-Abhängigkeit.
 
+### → [[Panorama/Geopolitik|Geopolitik]]
+
+Merkels Satz, in Europa gälten kleine Länder so viel wie große, ist dort die Gegenthese zum Melierdialog, und ihr „morgen ist man selber dran“ die Antwort auf die Frage, was die Kleinen können.
+
 ---
 
 ## Weiterdenken

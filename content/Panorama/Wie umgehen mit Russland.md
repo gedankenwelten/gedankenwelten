@@ -282,6 +282,10 @@ Das Schwester-Panorama zum Recht zwischen den Staaten: ob Haftbefehle abschrecke
 
 Der Rechercheur, der die Agenturen von innen kennt: Doppelgänger, Matrjoschka und Storm-1516, belegt durch Leaks aus der Moskauer Social Design Agency. Seine leiseste These gehört zur Frage nach dem Schutz: Die meisten Fakes verpuffen, und erst der Bericht über sie macht sie groß.
 
+### → [[Panorama/Geopolitik|Geopolitik]]
+
+Das Panorama zum Prinzip unter allen Spielern: ob das Recht des Stärkeren ein Naturgesetz ist und warum Moskau, wie Washington, ein Europa aus Einzelstaaten will. Russland ist dort einer von drei Fällen, nicht der Kern.
+
 ---
 
 ## Weiterdenken
