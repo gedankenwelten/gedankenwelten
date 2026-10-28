@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*348 Notes — automatisch generiert · nach Thema sortiert*
+*349 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -371,6 +371,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]] — Zwei Ökonomen über die Zahl, die alles regiert: Das BIP misst weder die zerstörte Natur noch die unbezahlte Arbeit noch die Verteilung — und der Sachverständigenrat hat ein besseres Instrument, das er selbst nicht benutzt.
 - [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
 - [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]] — Je moralischer ein Unternehmen, desto profitabler auf lange Sicht: Markus Gabriel liest Adam Smiths unsichtbare Hand als menschliche Freiheit und will jeder Firma einen Chief Philosophy Officer geben.
+- [[Zeitgeist/Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]] — Wer als Neffe eine Million in Aktien erbt, zahlt fast 300.000 Euro, wer eine Million in einer Firma erbt, oft nichts. Martin Oetting rechnet nach — und hört genau hin, wie eine Ministerin darüber redet.
 - [[Zeitgeist/Martin Oetting — Happy Planet Index 2026|Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?]] — Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
 - [[Zeitgeist/Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby|Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
 - [[Zeitgeist/Maurice Hoefgen — Heute Show entlarvt Kanzler Merz|Maurice Höfgen — Heute Show entlarvt Kanzler Merz]]

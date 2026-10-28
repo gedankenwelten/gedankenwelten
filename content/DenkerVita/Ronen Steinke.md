@@ -82,6 +82,7 @@ Steinke verortet sich selbst nicht parteipolitisch, ist aber klar progressiv-lib
 - [[DenkerVita/Helen Keller|Helen Keller]] — Beide Völkerrechtler mit Praxiserfahrung an internationalen Gerichten; Keller als EGMR-Richterin, Steinke am Jugoslawien-Tribunal
 - [[DenkerVita/Gesine Schwan|Gesine Schwan]] — Demokratietheorie: Schwans Betonung demokratischer Partizipation ergänzt Steinkes Warnung vor staatlicher Meinungseinschränkung
 - [[DenkerVita/Alexander Schwarz|Alexander Schwarz]] — Steinkes Befund, dass hinter Kriegsverbrechertribunalen oft Machtinteressen stehen, fragt Schwarz an der Bundesanwaltschaft nach: ob das Weltrechtsprinzip dort endet, „wo es politisch heikel wird“. Beide setzen auf eine Öffentlichkeit, die hinsieht und nachfragt.
+- [[DenkerVita/Benjamin Biersky|Benjamin Biersky]] — Steinkes SZ-Kommentar vom 1. Oktober 2026 zum AfD-Verbot verlangt von Politikern Demut: Entscheiden sollen die Richter. Biersky macht daraus eine Pflicht, das Verfahren anzustoßen, und stützt sich dabei auf das Gutachten jenes Verfassungsschutzes, dem Steinke misstraut.
 
 ---
 

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **28.10.** — [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+>
+> Wenn der Kuchen nicht mehr wächst, müssen Löhne oder Steuern schrumpfen, damit die Gewinne steigen. Ein Forscher sagt, das treibe Europa nach rechts. Ein YouTuber erzählt es weiter, und dabei wird aus einer Wirkung eine Absicht.
+
 > **28.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 >
 > Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Pyramide aus Wählern, Influencern, Abgeordneten und Geldgebern trägt einen Mann. Im April 2026 sah Biersky sie von unten bröckeln. Was davon hielt, steht hier mit.
 
-> **26.10.** — [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
->
-> Ist Peter Thiel ein Selfmade-Genie oder ein Geschöpf des Staates, den er überwinden will? Zwei Autoren lesen sein Leben als Programm: Monopol, Unsterblichkeit für wenige, Daten über alle.
-
-> → *11 weitere in* [[Zeitgeist]]
+> → *12 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

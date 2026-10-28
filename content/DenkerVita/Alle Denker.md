@@ -96,7 +96,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Christian Bauckhage|Christian Bauckhage]]** — Informatiker (Uni Bonn, Fraunhofer IAIS, Co-Direktor Lamarr-Institut); Maschinelles Lernen, hybride & erklärbare KI, Quantencomputing, OpenGPT-X und europäische KI-Souveränität; „Wir haben noch gar nichts gesehen“
 
-**[[DenkerVita/Benjamin Biersky|Benjamin Biersky]]** — Politischer YouTuber und Podcaster aus dem Oberbergischen; Kanal *Nachtsitzung* (seit 2024) mit analytischer Aufbereitung des US-Rechtspopulismus, explizit links, politische Bildung statt Nachrichtenticker; Podcast *Linkes Gerede*
+**[[DenkerVita/Benjamin Biersky|Benjamin Biersky]]** — Ehemaliger Kreisgeschäftsführer der Linken aus dem Oberbergischen; seit 2024 YouTube-Kanal *Nachtsitzung*: Politik aus der Praxis der Parteiarbeit, mit Theorie (Eco, Gramsci, Bourdieu), offen links — erst Trumps Amerika, seit Herbst 2026 AfD-Verbot und AfD-Leak; früher Podcast *Linkes Gerede*
 
 **[[DenkerVita/Francesca Bria|Francesca Bria]]** — Innovationsökonomin (*1977, Rom); als CTO Barcelonas die kommunale Datenpolitik neu erfunden, leitete Italiens nationalen Innovationsfonds, Kopf der EuroStack-Initiative für europäische digitale Souveränität; Honorarprofessorin am UCL
 

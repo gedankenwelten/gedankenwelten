@@ -60,8 +60,8 @@
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
-   "leser": 17,
-   "aufrufe": 24
+   "leser": 18,
+   "aufrufe": 27
   },
   {
    "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -189,6 +189,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
    "leser": 5,
    "aufrufe": 6
@@ -225,11 +230,6 @@
   },
   {
    "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
    "leser": 5,
    "aufrufe": 5
   },
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 56,
-     "aufrufe": 67
+     "leser": 55,
+     "aufrufe": 66
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -339,19 +339,24 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "leser": 6,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/DenkerVita/Der-Dara",
      "leser": 6,
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 6,
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 5,
-     "aufrufe": 9
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -365,11 +370,6 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 5,
      "aufrufe": 5
     },
@@ -404,11 +404,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 2,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
      "leser": 2,
      "aufrufe": 3
@@ -434,11 +429,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 2,
      "aufrufe": 2
@@ -450,11 +440,6 @@
     },
     {
      "pfad": "/DenkerVita/Maja-Goepel",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
      "leser": 2,
      "aufrufe": 2
     },
@@ -489,11 +474,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/IT-Mario-40.000-Bundestagsreden-analysiert",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 2,
      "aufrufe": 2
@@ -522,6 +502,11 @@
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 2,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 1,
+     "aufrufe": 4
     },
     {
      "pfad": "/Zeitgeist/Wertewesten-Eiserner-Besen-oder-bessere-Argumente",
@@ -607,6 +592,21 @@
      "pfad": "/DenkerVita/Alle-Denker",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Arthur-Schopenhauer",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Barbara-Tversky",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -670,8 +670,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 17,
-     "aufrufe": 24
+     "leser": 18,
+     "aufrufe": 27
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -799,6 +799,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "leser": 5,
      "aufrufe": 6
@@ -835,11 +840,6 @@
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 5,
      "aufrufe": 5
     },
@@ -960,8 +960,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 24,
-     "aufrufe": 31
+     "leser": 25,
+     "aufrufe": 34
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -1054,6 +1054,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 10,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 9,
      "aufrufe": 10
@@ -1065,11 +1070,6 @@
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 9,
      "aufrufe": 9
     },
@@ -1265,8 +1265,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 24,
-     "aufrufe": 31
+     "leser": 25,
+     "aufrufe": 34
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -1359,6 +1359,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 10,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 9,
      "aufrufe": 10
@@ -1370,11 +1375,6 @@
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 9,
      "aufrufe": 9
     },
@@ -1565,8 +1565,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 15,
-     "aufrufe": 15
+     "leser": 16,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -1639,6 +1639,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "leser": 5,
      "aufrufe": 5
@@ -1665,11 +1670,6 @@
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1789,6 +1789,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Patrick-Legun",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Arthur-Aron",
      "leser": 2,
      "aufrufe": 2
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Zeitgeist/Klarsprech-Peter-Thiel-und-ObjectionAI",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
      "leser": 2,
      "aufrufe": 2
     }

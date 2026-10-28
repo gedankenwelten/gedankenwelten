@@ -126,6 +126,7 @@ Die Forscherin Paula Nitschke von der Universität Augsburg sagte der *taz*, er 
 - [[DenkerVita/Stephan Bartunek|Stephan Bartunek]] — Auch der Aussteiger Bartunek arbeitet mit Spott. Der Unterschied liegt darin, wem er gilt: Marcant macht die Vorbilder lächerlich und redet mit den Jungen, die ihnen folgen.
 - [[DenkerVita/Jens-Christian Wagner|Jens-Christian Wagner]] — Gast in Folge #14. Marcant legt dem Buchenwald-Direktor die Parolen vor, die er auf den Demos hört, und lässt sie einordnen.
 - [[DenkerVita/Kevin Kuehnert|Kevin Kühnert]] — Gast im April 2026, nach seinem Rückzug aus der Politik; bei Marcant erzählt er, warum er lieber von außen Druck machen will.
+- [[DenkerVita/Benjamin Biersky|Benjamin Biersky]] — Der YouTuber von *Nachtsitzung* verteidigte Marcant im Oktober 2026 gegen Kritik von links. Beide offen links, mit verschiedenen Werkzeugen: Marcant redet auf den Demos mit den Jungen, Biersky zielt auf die Netzwerke darüber.
 
 ---
 

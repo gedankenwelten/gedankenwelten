@@ -24,6 +24,8 @@ Quelle: [Die rechte Internationale: Ihr Netzwerk reicht bis nach Deutschland](ht
 > **Benjamin Biersky** — Betreiber des YouTube-Kanals *Nachtsitzung* (seit März 2024, ~16.000 Abonnenten). Ehemaliger Kreisgeschäftsführer einer Partei (linkes Spektrum), Podcaster (*Linkes Gerede*, Rosa-Luxemburg-Club Oberberg).
 >
 > Positionierung: explizit links, analytisch-politisch bildnerisch — kein klassischer Journalismus, aber mit theoretischem Anspruch. Schwerpunkte: US-Rechtspopulismus, AfD/CDU, rechte internationale Netzwerke, politische Theorie.
+>
+> → [[DenkerVita/Benjamin Biersky|DenkerVita]]
 
 ---
 
