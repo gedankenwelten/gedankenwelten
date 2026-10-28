@@ -20,6 +20,25 @@ Mit Browser erzwingen: `-H "x-engine: browser" -H "x-timeout: 30"`
 ### Stufe 3: WebFetch (Built-in Tool)
 Als letzter Fallback oder für einfache API-Abfragen.
 
+## Die Suchzusammenfassung ist kein Beleg
+
+> [!important] Wegweiser, nicht Quelle (seit 28.10.2026, Andreas' Ja)
+> Was WebSearch (und Perplexity) als Zusammenfassung zurückgibt, sagt, **wo** etwas stehen könnte, nicht
+> **was** dort steht. Jede **Zahl, jedes Amt, jedes Datum und jede Zuschreibung**, die in eine Note, eine
+> Spur oder einen Faktencheck geht, wird an der verlinkten Seite selbst nachgelesen — ein Jina- oder
+> Defuddle-Aufruf mit `grep` auf die Stelle genügt. Erst dann gehört der Link dahinter.
+>
+> Anlass: Die Spur „Abgewählt“ trug am Eröffnungstag sechs Fehler dieser Art. Vučić „bleibt Präsident“
+> (er war seit vier Wochen zurückgetreten), Serbien „im neunten Jahr“ Wahlautokratie (laut V-Dem im
+> zwölften), dazu drei Fakten mit einem Link, der sie gar nicht trug. Im Fehler-Register ist
+> `sekundaerquelle` damit die zweithäufigste Ursache unserer Fehler (46).
+>
+> ```bash
+> curl -s -m 60 "http://localhost:3033/<url>" | grep -i -E "<zahl>|<name>|<datum>" | head
+> ```
+> Findet sich die Angabe auf der Seite nicht: andere Quelle suchen oder die Angabe streichen. Wer Agenten
+> mit Recherche losschickt, gibt ihnen diesen Absatz mit.
+
 ## Jina Reader starten (falls nicht läuft)
 
 > [!important] Immer starten, nie ausweichen (seit 10.10.2026, Andreas' Richtlinie)

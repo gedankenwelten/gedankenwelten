@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 19,
-     "aufrufe": 21
+     "leser": 18,
+     "aufrufe": 20
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -325,16 +325,11 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 10,
-     "aufrufe": 11
+     "leser": 9,
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 7,
      "aufrufe": 8
     },
@@ -347,6 +342,11 @@
      "pfad": "/DenkerVita/Der-Dara",
      "leser": 6,
      "aufrufe": 7
+    },
+    {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",

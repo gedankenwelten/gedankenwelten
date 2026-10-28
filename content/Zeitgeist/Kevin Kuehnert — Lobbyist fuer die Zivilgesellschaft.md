@@ -234,3 +234,7 @@ Eralp geht den umgekehrten Weg, aus der Stadtteilarbeit ins Rote Rathaus, und wi
 
 Ein zweiter Aussteiger aus der SPD-Fraktion, mit derselben Asymmetrie-Diagnose und demselben Verweis auf Brorhilker. Nur liest er das Abschleifen im Kompromiss, das Kühnert als normal verteidigt, als Anfang der Korrumpierung.
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+Kühnerts Tante Susanne hat ein Gegenstück bekommen: Oetting rechnet dieselbe Gegenüberstellung von Depot und Firma am Fall des Neffen durch, der in Karlsruhe klagt. Der Faktencheck dort zeigt auch, dass die Stundung nach geltendem Recht höchstens sieben Jahre läuft; zwanzig sieht erst das SPD-Konzept von 2026 vor.
+

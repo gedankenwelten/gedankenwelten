@@ -371,6 +371,10 @@ Dieselbe Debatte vier Jahre später: [[Greenpeace — Katherina Reiche und die G
 ### → [[Tilo Jung — Erben Wirtschaft AfD-Strategie|Tilo Jung — Erben, Wirtschaft, AfD-Strategie]]
 Der Interviewer auf der anderen Seite des Tisches. Seine Positionen zu [[Tilo Jung — Erben Wirtschaft AfD-Strategie#Erbschaftssteuer und Vermögensungleichheit|Erbschaftsteuer und Vermögen]] und zur [[Tilo Jung — Erben Wirtschaft AfD-Strategie#Suffizienz statt Profitmaximierung|Suffizienz]] trägt er hier gegen eine Wirtschaftsweise vor.
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+Oetting stellt die Frage nach dem Kapital von der anderen Seite: nicht wofür es arbeitet, sondern ob eine Steuer, die Erben schont, die Gründer schwächt.
+
 ---
 
 ## Weiterdenken

@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
 
+> **28.10.** — [[Zeitgeist/Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+>
+> Wer als Neffe eine Million in Aktien erbt, zahlt fast 300.000 Euro, wer eine Million in einer Firma erbt, oft nichts. Martin Oetting rechnet nach — und hört genau hin, wie eine Ministerin darüber redet.
+
 > **26.10.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
 >
 > „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ist Peter Thiel ein Selfmade-Genie oder ein Geschöpf des Staates, den er überwinden will? Zwei Autoren lesen sein Leben als Programm: Monopol, Unsterblichkeit für wenige, Daten über alle.
 
-> **26.10.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
->
-> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
-
-> → *10 weitere in* [[Zeitgeist]]
+> → *11 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -72,6 +72,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **28.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
+
 > **28.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
 >
 > Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
@@ -87,10 +91,6 @@ Die Gedankenwelten (luc)
 > **26.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
 >
 > Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **26.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > → *9 weitere in* [[Panorama]]
 

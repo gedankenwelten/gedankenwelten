@@ -374,6 +374,10 @@ Das Gegenstück zu Deißners „Diskursindustrie“: Laschyk sieht die Industrie
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Grimm teilt die Sorge ums Betriebsvermögen, zieht aber einen anderen Schluss: gegen die Vermögensteuer, für eine Erbschaftsteuer, die mehr einbringt als zwei Prozent der vererbten Summe. Die Stundung über Jahre legte ihr Tilo Jung schon 2022 hin.
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+Deißners „Verwischung dieser Grenze“ zwischen Betriebs- und Privatvermögen kehrt fast wörtlich in Katherina Reiches Antwort an das ZDF wieder; Oetting rechnet am Fall eines klagenden Neffen nach, was diese Unterscheidung im Steuerrecht kostet.
+
 ---
 
 ## Weiterdenken

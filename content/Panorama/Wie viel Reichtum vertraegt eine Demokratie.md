@@ -2,8 +2,8 @@
 title: "Wie viel Reichtum verträgt eine Demokratie?"
 date: 2026-10-23
 erstellt: 2026-10-23
-aktualisiert: 2026-10-26
-description: "Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, und wem gehört was? Vier offene Fragen und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-10-28
+description: "Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben."
 raetsel: "Ein Münzstapel wächst auch, während sein Besitzer schläft."
 panorama-art: wachsend
 tags:
@@ -40,7 +40,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Die Hälfte der Deutschen besitzt fast nichts, das reichste Prozent rund ein Viertel bis ein Drittel des Vermögens, und das meiste davon ist ererbt. Ob das ein Problem ist und was man tun könnte, darüber streiten Ökonominnen, Erben, Soziologen und Politiker. Dieses Panorama sammelt vier offene Fragen: was eine Vermögensteuer tatsächlich bewirkt, was man erben darf, ob Reichtum eine Grenze braucht und wem gehören soll, was gemeinsam erarbeitet wird. Zu jeder steht, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
+> Die Hälfte der Deutschen besitzt fast nichts, das reichste Prozent rund ein Viertel bis ein Drittel des Vermögens, und das meiste davon ist ererbt. Ob das ein Problem ist und was man tun könnte, darüber streiten Ökonominnen, Erben, Soziologen und Politiker. Dieses Panorama sammelt fünf offene Fragen: was eine Vermögensteuer tatsächlich bewirkt, was man erben darf, ob Reichtum eine Grenze braucht, wem gehören soll, was gemeinsam erarbeitet wird, und ob der Vorwurf des Neids in diesem Streit etwas erklärt. Zu jeder steht, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
 
 > [!info] Ein wachsendes Panorama
 > Angestoßen hat es das Bonner Podium [[Studio Bonn — Extremer Reichtum#Nachbesprechung|Studio Bonn — Extremer Reichtum]] im Oktober 2026, vorbereitet hatte es Veronika Grimms Abend bei Jung & Naiv, dessen Nachbesprechung schon die Frage nach dem Erbe stellte. Wie großes Vermögen auf Wahlen, Parlamente und Medien wirkt, sammelt das Nachbar-Panorama [[Wie kann Demokratie funktionieren#Wiegt jede Stimme gleich?|Wiegt jede Stimme gleich?]]. Wenn eine Note in ihrer *Nachbesprechung* eine der Fragen hier vertieft, kommt ihre Stimme hierher.
@@ -92,19 +92,24 @@ Große Vermögen halten sich erstaunlich lange. Rund acht Prozent der 1.032 grö
 
 Ob sie den Betrieben schadet, hängt an der Ausgestaltung. In Griechenland drückte eine Steuer auf Firmenübergaben die Investitionen rund um die Nachfolge um mehr als 40 Prozent ([Tsoutsoura 2015, doi:10.1111/jofi.12224](https://doi.org/10.1111/jofi.12224)); unter dem deutschen Recht vor 2009 geriet kein übertragener Betrieb in Gefahr ([Houben & Maiterth 2011, doi:10.1007/BF03342725](https://doi.org/10.1007/BF03342725)). Deutsche Erblasser planen ihre Testamente um die Steuerstufen herum, die Einnahmen leiden darunter kaum ([Glogowsky 2020, doi:10.1016/j.jpubeco.2020.104309](https://doi.org/10.1016/j.jpubeco.2020.104309)). Eine Übersicht findet die Reaktionen insgesamt mäßig, bei sehr Vermögenden und Älteren aber stark, und mehr Steuerplanung als echte Verhaltensänderung ([Schratzenstaller 2024, doi:10.1016/j.eap.2024.11.026](https://doi.org/10.1016/j.eap.2024.11.026), Review). Wer erfährt, wie viel Vermögen ererbt ist, befürwortet die Steuer eher ([Bastani & Waldenström 2021, doi:10.1111/ecca.12359](https://doi.org/10.1111/ecca.12359)).
 
+Was an die Stelle der Verschonung treten könnte, darüber sind sich die Gutachter erstaunlich einig: Der Wissenschaftliche Beirat beim BMF (2012), der Sachverständigenrat (2025/26), das DIW, das ifo-Institut und das SPD-Konzept von 2026 wollen die Ausnahmen durch eine großzügige Stundung ersetzen. Gestritten wird über den Satz, flach um zehn Prozent und aufkommensneutral (ifo) oder progressiv mit langfristig bis zu 7,8 Milliarden Euro mehr im Jahr (DIW); Belege in der [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Was, wenn die Ausnahmen fallen?|Oetting-Nachbesprechung]]. Frankreichs Pacte Dutreil, drei Viertel Abschlag bei Firmenübergaben, kostet laut Rechnungshof über 5,5 Milliarden im Jahr, zwei Drittel der Ersparnis gehen an ein Prozent der Begünstigten; Firmen bleiben öfter in Familienhand, bei Investitionen und Beschäftigung zeigt sich kein Unterschied ([Cour des comptes 2025](https://www.ccomptes.fr/sites/default/files/2025-11/20251118-Synthese-Pacte%20Dutreil.pdf)). In Schweden untergruben Ausnahmen für Familienfirmen und Ausweichwege der Reichen die Legitimität der Steuer, bis sie 2004 fiel ([Henrekson & Waldenström 2016, doi:10.1111/ehr.12280](https://doi.org/10.1111/ehr.12280)). Die Erzählung von der bedrohten Firma überzeugt auch Wähler: In der Schweiz scheiterte im November 2025 eine 50-Prozent-Steuer auf Erbschaften über 50 Millionen Franken mit 78,3 Prozent Nein ([SRF](https://www.srf.ch/news/abstimmungen-vom-30-november-erbschaftssteuer-scheitert-klar)), und deutsche Befragte setzen für Familienbetriebe von sich aus niedrigere „faire“ Sätze an ([Groß, Lorek & Richter 2017, doi:10.1007/s10888-016-9344-4](https://doi.org/10.1007/s10888-016-9344-4)).
+
 **Die Stimmen**
 
 - **[[Martyna Linartas — Unverdiente Ungleichheit#Die zentrale These Erbengesellschaft statt Leistungsgesellschaft|Martyna Linartas]]:** Deutschland ist eine Erbengesellschaft; ihre Antwort ist ein Grunderbe für alle.
-- **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Erbschaft, das günstigste Einkommen — und warum Geld Macht ist|Kevin Kühnert]]:** Das große Erbe ist das am günstigsten besteuerte Einkommen im Land.
 - **[[phoenixRunde — Arm und Reich in Deutschland#Erbengesellschaft statt Leistungsgesellschaft|David Deißner]]:** *„Von wegen leistungsloses Einkommen“*: Kaeser hat den Betrieb vom Vater geerbt und zum Weltmarktführer gemacht; wer Betriebsvermögen erbt, unterliegt Haltefristen und Lohnsummen.
 - **[[phoenixRunde — Arm und Reich in Deutschland#Erbengesellschaft statt Leistungsgesellschaft|Helena Steinhaus]]:** *„Deutschland ist keine Leistungsgesellschaft, sondern eine Erbengesellschaft.“*
 - **[[Tilo Jung — Erben Wirtschaft AfD-Strategie#Erbschaftssteuer und Vermögensungleichheit|Tilo Jung und Tim Gabel]]:** Jung will eine Million frei lassen und den Rest der Allgemeinheit geben, Gabel das Eigentumsrecht des Erblassers stärker gewichten; einig sind sie, dass ein Recht, nach dem man relativ weniger abgibt, je mehr man erbt, die Demokratie gefährdet.
 - **[[Studio Bonn — Extremer Reichtum#Was zu tun wäre|Marlene Engelhorn]]:** Das Erbe ist ein Vorkaufsrecht durch Geburt; die Verschonungsbedarfsprüfung sei *„nichts anderes als eine Art und Weise, wie reiche Menschen sich arm rechnen“*.
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Erben, Picasso und die reichsten Familien|Veronika Grimm]]:** Eine Erbschaftsteuer sei *„auf jeden Fall sinnvoller“*, Betriebe, die in der Familie bleiben, dürfe sie aber nicht gefährden.
+- **[[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Wer die Steuer eigentlich schuldet|Martin Oetting]]:** *„Die Steuerschuld, die der erbende Mensch hat, ist eine private Steuerschuld“*; die Firma schuldet nichts, für die Liquidität reichen Kredit und Stundung.
+- **[[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Neid, Handwerk, Familienunternehmen|Katherina Reiche]]:** Betriebsgebundenes und freies Kapital müsse man unterscheiden, sonst lande man in einer *„unguten Neiddebatte“*; Handwerk und Mittelstand brauchten eine Perspektive.
+
+<details><summary>Weitere Stimmen (9)</summary>
+
+- **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Erbschaft, das günstigste Einkommen — und warum Geld Macht ist|Kevin Kühnert]]:** Das große Erbe ist das am günstigsten besteuerte Einkommen im Land.
 - **[[Angela Merkel — Trotz allem Hoffnung Europa#Gegen den Fatalismus|Angela Merkel]]:** *„Manche Familien vererben ihren Kindern so viel, dass die Kinder fast gar nicht mehr arbeiten müssen“*; darüber sei zu reden.
-
-<details><summary>Weitere Stimmen (6)</summary>
-
+- **[[phoenixRunde — Arm und Reich in Deutschland#Erbschaftssteuer und Vermögenssteuer Konkrete Reformvorschläge|Annika Klose]]:** Eine Million frei, fünf Millionen für Betriebe, zwanzig Jahre Stundung bei Erhalt der Arbeitsplätze; das heutige Recht sei *„maximal ungerecht“*.
 - **[[Studio Bonn — Extremer Reichtum#Woher es kommt Erbe und Dynastie|Fabian Pfeffer]]:** Reichenlisten, die ein Jahrhundert überdauern; Deutschland sei beim ererbten Reichtum Weltspitze.
 - **[[Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)#Wem die Entlastung nützt|Staiy]]:** Lars Felds Wort von der „Dummensteuer“, die nur zahlt, wer sich nicht beraten lässt.
 - **[[Thomas Laschyk — Vermoegenssteuer gegen Fake News#Steuerkrater|Thomas Laschyk]]:** Großerben wird die Steuer fast vollständig erlassen.
@@ -184,6 +189,34 @@ Mitbestimmung hat in Deutschland weder Löhne noch Beschäftigung messbar verän
 
 ---
 
+## Ist Neid ein Argument?
+
+Wer über Erbschaften und große Vermögen streitet, hört bald das Wort „Neid“. Die Forschung findet ihn tatsächlich, nur kleiner, als der Vorwurf unterstellt. In vier Ländern speist sich die Zustimmung zu Umverteilung vor allem aus Mitgefühl, dann aus Eigeninteresse und zu einem kleinen, messbaren Teil aus Neid ([Sznycer et al. 2017, doi:10.1073/pnas.1703801114](https://doi.org/10.1073/pnas.1703801114), Einzelstudie); eine Replikation findet nur den „bösartigen“ Neid wirksam, und auch ihn schwach ([Lin & Bates 2020, doi:10.1016/j.evolhumbehav.2020.08.010](https://doi.org/10.1016/j.evolhumbehav.2020.08.010)). Stärker sagt das Urteil voraus, ob Reichtum verdient ist; erscheint er im Experiment verdient, sinkt die Zustimmung ([Neerdaels, Blatz & Crusius 2026, doi:10.1177/01461672251410720](https://doi.org/10.1177/01461672251410720), über 4.000 Befragte). Auch die Gegenseite hat kein reines Motiv: Deutsche unterschätzen die Freibeträge, und wer aufgeklärt wird, wechselt mehrheitlich von Abschaffung zu Zustimmung ([Bellani et al. 2024, doi:10.2139/ssrn.4883858](https://doi.org/10.2139/ssrn.4883858), Working Paper).
+
+Die Philosophie trennt Neid, der haben will, was der andere hat, von Groll über eine Verteilung, die man für ungerecht hält; der Neidvorwurf ist darum prüfbar, denn wer nur neidet, kämpfte allein gegen die Ungleichheiten, die ihm selbst schaden ([Stanford Encyclopedia, „Envy“](https://plato.stanford.edu/entries/envy/)). Rawls dachte seine Theorie für Menschen ohne Neid und fürchtete doch einen „entschuldbaren“ Neid, wenn Unterschiede die Selbstachtung verletzen (ebd.). Tocqueville sah den Neid wachsen, wo die Unterschiede kleiner werden. Der Duden definiert „Neiddebatte“ über das Urteil: eine Debatte über eine als „ungerecht empfundene Verteilung“ ([Duden](https://www.duden.de/rechtschreibung/Neiddebatte)). Helmut Schoecks *Der Neid* (1966) machte den Neid zur Erklärung sozialer Ordnung; dass er das Schlagwort prägte, ist nicht belegt.
+
+**Die Stimmen**
+
+- **[[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Neid, Handwerk, Familienunternehmen|Katherina Reiche]]:** Solange man Betriebs- und Privatvermögen nicht unterscheide, sei man *„in einer unguten Neiddebatte“*.
+- **[[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Neid, Handwerk, Familienunternehmen|Martin Oetting]]:** Wer bei Gerechtigkeit auf Neid umschwenke, *„macht einen hinterhältigen Lobbyistentrick“*: Aus einer Frage nach Regeln wird eine nach dem Charakter.
+- **[[Maja Goepel — Mut zur Zukunft#Die vier blinden Flecken des BIP|Maja Göpel]]:** Zu den blinden Flecken gehört die Verteilung; eine ehrliche Steuerdebatte werde als „Neiddebatte“ delegitimiert.
+- **[[phoenixRunde — Arm und Reich in Deutschland#Faktencheck|Gottschalk (AfD)]]:** Aus „Vermögen sind ungerecht verteilt“ wird in seinen Antworten „Klassenkampf“ und „Neid-Debatte“ (Rhetorik-Muster im Faktencheck der Note).
+- **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Die Zahl, an der alles hängt|Michael Hartmann]]:** Wie jemand über höhere Steuern auf Erbschaften urteilt, hängt an der Herkunft; Großbürgerkinder in der Elite halten die Verteilung mit großer Mehrheit für gerecht. Das Motiv wirkt auf beiden Seiten.
+- **[[Torsten Heinrich — Was die Tagesschau verschweigt#Biografie Von der AfD nach Panama|Torsten Heinrich]]:** Ihn hat der „deutsche Sozialneid“ aus dem Land getrieben; ein Drittel seines Bekanntenkreises habe seinem Unternehmen den Misserfolg gewünscht.
+- **[[Pankaj Mishra — Zeitalter des Zorns#Mimetische Rivalität Girard trifft Rousseau|Pankaj Mishra]]:** Das Versprechen der Gleichheit erzeuge *„unappeasable existential envy“*, den Neid auf den, der lebendiger scheint als man selbst.
+- **[[Tiana Travels — Das amerikanische Betriebssystem#Temporarily Embarrassed Millionaires|Tiana Travels]]:** Das Spiegelbild des Neids: Arme lehnen Steuern für Reiche ab, weil sie sich als künftige Reiche sehen.
+
+<details><summary>Weitere Stimmen (1)</summary>
+
+- **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Hat nicht geklappt — Tocqueville und der Backlash|Barbara Bleisch]]:** Mit Tocqueville: Je gleicher die Verhältnisse, desto schärfer wird jede verbleibende Ungleichheit empfunden.
+
+</details>
+
+> [!question] Die Reibung
+> Reiche und Heinrich sehen im Neid ein Motiv, das die Verteilungsdebatte vergiftet, Oetting und Göpel sehen im Neidvorwurf eine Waffe, die sie beendet. Die Daten finden ein wenig Neid, viel Mitgefühl, falsch eingeschätztes Eigeninteresse auf der anderen Seite und vor allem ein Urteil darüber, was verdient ist. *Beschreibt der Neidvorwurf ein Motiv, oder weicht er genau diesem Urteil aus?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
@@ -191,6 +224,7 @@ Mitbestimmung hat in Deutschland weder Löhne noch Beschäftigung messbar verän
 | 10.10.2026 | [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Erben in der Geldvorteilsgesellschaft|Veronika Grimm — Der Preis als Signal]] | Vorarbeit zu *Was darf man erben?*: Erbvolumen und Erlasse (Destatis 2025), Erbanteil am Vermögen (Alvaredo et al. 2017), Schweiz (Brülhart et al. 2022), Firmenübergaben (Tsoutsoura 2015, Houben & Maiterth 2011), Erben in Schweden (Elinder et al. 2018, Nekoei & Seim 2023); Stimmenliste und Vorschlag des Panoramas |
 | 23.10.2026 | [[Studio Bonn — Extremer Reichtum#Nachbesprechung|Studio Bonn — Extremer Reichtum]] | Anstoß und vier Fragen. Vermögensteuer: Zinseszins gegen Pfeffers „verlangsamt nur“, Dänemark (Jakobsen et al. 2020), Schweiz (Marti et al. 2023), Ausweichen (Advani & Tarrant 2021, Seim 2017, Agrawal et al. 2024, Ring 2026), Hinterziehung (Alstadsæter et al. 2019, Londoño-Vélez 2021), DIW gegen ifo, Sollertrag (BVerfGE 93, 121) und niederländischer Kerstarrest · Erbe: Persistenz (Tisch & Ischinsky 2023, Clark & Cummins 2015, Adermon et al. 2018), Verhalten (Glogowsky 2020, Schratzenstaller 2024) · Grenze: Robeyns, Halldenius, Albers et al. 2026 · Eigentum: Vorverteilung (O'Neill 2019), Stiftungsunternehmen (Hansmann & Thomsen, Draheim & Franke), GmgV, Mitbestimmung (Jäger et al.), Genossenschaften (Pencavel et al.), EuGH Apotheken |
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Gehen die Reichen, wenn man sie besteuert?\|Nachtsitzung — TheTrumpWeek]] | Abwanderung bei der Einkommensteuer: Millionäre (Young et al. 2016), Kalifornien Prop 30 (Rauh & Shyu 2024), Milliardäre (Moretti & Wilson 2023), Superstars (Kleven et al. 2013, Akcigit et al. 2016, Review Kleven et al. 2020), Streit um Prop 40 (Boll/Saez/Zucman vs. Jaros/Rauh 2026), Thiel |
+| 28.10.2026 | [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Nachbesprechung|Martin Oetting — Die Erbschaftsteuer, Reiche und das ZDF]] | *Was darf man erben?*: Reformkonsens Stundung statt Verschonung (BMF-Beirat 2012, SVR 2025/26, DIW 4/2026, ifo, SPD 2026), Pacte Dutreil (Cour des comptes 2025), Schweden (Henrekson & Waldenström 2016), Schweizer Abstimmung 2025, faire Sätze (Groß et al. 2017); Stimmen Oetting, Reiche, Klose · neue Frage *Ist Neid ein Argument?*: Sznycer et al. 2017, Lin & Bates 2020, Neerdaels et al. 2026, Bellani et al. 2024, SEP „Envy“, Rawls, Duden; Stimmen Reiche, Oetting, Göpel, Gottschalk, Hartmann, Heinrich, Mishra, Tiana Travels, Bleisch |
 
 ---
 

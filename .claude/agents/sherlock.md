@@ -183,5 +183,8 @@ Nur echte Treffer eintragen. Wenn keine brauchbaren Quellen gefunden: Abschnitt 
 - Pro Claim: erst das Motiv fragen, dann **`cortex_news`** (Berichterstattung); bei **empirischen**
   Claims zusätzlich **`wiss_search`** (Forschung, mit DOI); dann — wenn nötig — das offene Web
 - Vor dem Faktencheck das Transkript lesen — was sagt der Sprecher *wirklich*, und in welchem Kontext?
+- **Die Suchzusammenfassung ist kein Beleg.** Jede Zahl, jedes Amt, jedes Datum, das in einen Callout geht,
+  an der verlinkten Seite selbst nachlesen (Jina/Defuddle + `grep`); steht es dort nicht, gehört der Link
+  nicht dahinter (→ `rules/web-recherche.md`, seit 28.10.2026)
 - Keine Rückfragen
 - Kein Text außerhalb der beiden Abschnitte

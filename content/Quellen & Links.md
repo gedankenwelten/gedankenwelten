@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF (YouTube, 27.10.2026)
+
+| | |
+|---|---|
+| **Video** | [Katharina Reiche, der ZDF-Redakteur, die Erbschaftssteuer und das Bundesverfassungsgericht](https://www.youtube.com/watch?v=kBPC-yPWOC8) |
+| **Kommentierter Ausschnitt** | [phoenix — Vorstellung der Herbstprojektion 2026, ab 44:40](https://www.youtube.com/live/AIy2Xr-s08c?t=2680) |
+| **Notiz** | [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF]] |
+| **DenkerVita** | [[DenkerVita/Martin Oetting]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Oetting_Erbschaftssteuer_Reiche_ZDF_Transkript.txt` |
+
 ## Sibylle Anderl — Bequeme neue Welt (SRF Sternstunde Philosophie, 18.10.2026)
 
 | | |

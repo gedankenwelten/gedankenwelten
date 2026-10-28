@@ -235,6 +235,10 @@ Der empirische Beleg für Oettings These, dass die Lüge durch besseres *Marketi
 
 Jäger liefert die Diagnose, zu der Oettings System Delta die Therapie sein will: Repolitisierung ohne Reinstitutionalisierung — kollektiver Druck braucht eine Organisation, keine weitere Empörungswelle.
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+An der Erbschaftsteuer zeigt sich Oettings Programm „die Wahrheit sagen“ im Einzelfall: Die Rechnung trägt, am Ende urteilt er aber über den Charakter eines Journalisten, wie er es am Neid-Vorwurf kritisiert.
+
 ---
 
 ## Weiterdenken

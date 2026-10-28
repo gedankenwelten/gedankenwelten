@@ -400,6 +400,10 @@ Dieselbe Hestermann-Zahl prüft [[BissenBlaBla — AfD-Behauptungen zur Auslaend
 
 Das Schredder-Video war kein Einzelstück: Gefälschte Stimmzettel-Vernichtungen kommen inzwischen zu jeder Wahl. Wienand zeigt die nächste Stufe, Trolle, die Journalisten um die Prüfung dieser Videos bitten.
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+Was Jirmann für Mietshäuser durchrechnet, macht Oetting für einen geerbten Handwerksbetrieb: Die Steuer wäre aus dem Gewinn tilgbar, und die Verschonung lässt sie gleich ganz entfallen.
+
 ---
 
 ## Weiterdenken

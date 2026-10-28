@@ -360,6 +360,10 @@ Die Frage nach den Ukrainern als eigener Stimme führt hierher, in *Isolieren od
 
 ### → [[DenkerVita/Uwe Krüger|Uwe Krüger — DenkerVita]]
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+Wie Indexing in einer Pressekonferenz aussieht, zeigt die ZDF-Frage an Katherina Reiche: Der Journalist bietet ihr die zwei Positionen an, die in ihrer eigenen Partei streiten, und Oetting hält das für Versagen statt für Spiegelung.
+
 ---
 
 ## Weiterdenken

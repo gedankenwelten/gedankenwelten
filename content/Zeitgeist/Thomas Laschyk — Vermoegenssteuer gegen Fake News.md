@@ -349,6 +349,10 @@ Fricke prüft das schwächste Glied in Laschyks Kette: dass mehr Steuergeld Mens
 
 Derselbe Doppelgänger von der anderen Seite: Hier wird Reichweite gekauft, bei Wienand vorgetäuscht, und sie verpufft. Der Zahlmeister ist dort die russische Präsidialverwaltung, die Kennzahl im Projektbericht dieselbe Aufmerksamkeit.
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+Oetting erklärt die Verschonungsbedarfsprüfung, an der Laschyks Döpfner-Beispiel hängt; die Destatis-Zahlen dort zeigen, dass 28 der 34 Erlassfälle 2025 Schenkungen waren.
+
 ---
 
 ## Weiterdenken

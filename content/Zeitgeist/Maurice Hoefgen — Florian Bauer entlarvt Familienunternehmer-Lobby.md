@@ -203,6 +203,10 @@ Varoufakis nennt die Mainstream-Ökonomie "eine Religion mit Gleichungen" — H�
 
 Der dritte Fall im selben Format, eine Etage höher. Hier lehnt eine Lobbyistin einen Krisenbonus als „Belastung" ab, der ihren eigenen Mitgliedern Spielraum gegeben hätte — eine Wertung, die gegen das eigene Interesse arbeitet, weil sie im Vokabular der Gegenseite denkt. Genau diesen Vorgang hält Höfgen dort einem Ökonomen vor, mit dem er politisch einig ist.
 
+### → [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF]]
+
+Dieselbe Lobby, dasselbe Kommentarformat, umgekehrtes Urteil: Oetting wirft einem ZDF-Journalisten vor, in einer Pressekonferenz nicht nachzuhaken, in der eine Nachfrage gar nicht vorgesehen war. Bauer hatte dafür ein ganzes Interview.
+
 ---
 
 ## Weiterdenken
