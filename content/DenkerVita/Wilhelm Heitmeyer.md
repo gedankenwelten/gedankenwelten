@@ -9,6 +9,16 @@ tags: [denker-vita, soziologie, rechtsextremismus, autoritarismus, demokratie, g
 
 # Wilhelm Heitmeyer — DenkerVita
 
+![[assets/Wilhelm-Heitmeyer-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach Gerd Arntz** — flache Piktogramm-Figuren, schwarze Silhouetten auf Creme, ein paar gedämpfte Farbfelder in Ocker, Schieferblau und Ziegelrot. Links ein älterer Mann in Setzerschürze am Setzkasten, der Lettern in den Winkelhaken setzt. Aus der gesetzten Zeile laufen Reihen kleiner, gleicher Menschen über das Bild wie die Zeilen einer Statistik; einige in Ziegelrot schubsen und zeigen, ein paar stehen allein am Rand. Dahinter ein Dorf mit Kirchturm und ein Universitätsbau mit Fensterraster. Arntz, weil er der Grafiker der Wiener Bildstatistik war, die Gesellschaft in Figuren zählbar machte, und weil Heitmeyer seinen Weg als Schriftsetzer begann, bevor er vierzig Jahre lang zählte, wie Abwertung durch die Reihen wandert. Das Dorf ist Ostwestfalen, das Raster Bielefeld.
+
+*Prompt:* A wide graphic print in the manner of Gerd Arntz, the Isotype pictogram artist of the 1930s: flat geometric figures, strict black silhouettes and a few muted colour fields (ochre, slate blue, one brick red) on cream paper, linocut-like clarity. On the left, an older man in a printer's apron stands at a wooden typesetter's case with many small compartments, placing tiny lead type pieces into a composing stick. From the composing stick, rows of small identical pictogram people stream to the right across the picture like lines of a statistical chart: rows of standing figures, some turned away from others, some figures in brick red pushing or pointing, a few small figures isolated outside the rows. In the background, a simple geometric village with a church tower and a modern university building with a grid of windows. Pure pictogram style, no faces, no text, no numbers, no letters, no signature.
+
+</details>
+
 > [!info] Wer spricht?
 > **Wilhelm Heitmeyer** (*28. Juni 1945, Nettelstedt, Ostwestfalen*) ist Soziologe und Erziehungswissenschaftler an der Universität Bielefeld. 1996 gründete er dort das Institut für interdisziplinäre Konflikt- und Gewaltforschung (IKG) und leitete es bis 2013; danach forschte er bis Sommer 2025 als Senior Research Professor weiter. Er hat den Begriff der *gruppenbezogenen Menschenfeindlichkeit* geprägt und sie zehn Jahre lang Jahr für Jahr gemessen.
 >

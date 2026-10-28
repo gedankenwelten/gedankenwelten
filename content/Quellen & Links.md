@@ -5353,3 +5353,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung]] |
 | **Vita** | [[DenkerVita/Iason Chandrinos]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Chandrinos_Besatzung_Griechenland_Transkript.txt` |
+
+## Abwahl und Rückbau — Ungarn, Serbien, Brasilien (Spur, 28.10.2026)
+
+| | |
+|---|---|
+| **Forschung** | [Nord et al. — When autocratization is reversed: U-Turns since 1900 (Democratization 2025)](https://doi.org/10.1080/13510347.2024.2448742) · [Bianchi, Cheeseman, Cyr — The Myth of Democratic Resilience (Journal of Democracy 2025)](https://doi.org/10.1353/jod.2025.a964563) |
+| **Serbien** | [European Western Balkans, 25.10.](https://europeanwesternbalkans.com/2026/10/25/the-student-list-won-snap-parliamentary-elections-in-serbia/) · [Euronews](https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won) · [ZDFheute](https://www.zdfheute.de/politik/ausland/serbien-vucic-niederlage-wahl-100.html) |
+| **Brasilien** | [CBS, 25.10.](https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/) · [Gazeta do Povo](https://www.gazetadopovo.com.br/republica/moraes-ordena-cancelamento-de-passaporte-de-flavio-bolsonaro-apos-eleicoes/) · [Brasil de Fato, 26.10.](https://www.brasildefato.com.br/2026/10/26/pf-apreende-passaporte-de-flavio-bolsonaro-que-volta-a-questionar-resultado-das-urnas/) |
+| **Ungarn** | [Verfassungsblog — The New Constitutional Amendment (15.07.)](https://verfassungsblog.de/the-new-constitutional-amendment/) · [iConnect — Hungary's Constitutional Boomerang](https://www.iconnectblog.com/hungarys-constitutional-boomerang-a-recommendation-for-the-commission/) · [BBC, 18.07.](https://www.bbc.co.uk/news/articles/cpd7q7eev7po) |
+| **Polen** | [Notes from Poland — Veto gegen KRS-Reform, 19.02.](https://notesfrompoland.com/2026/02/19/president-vetoes-bill-reforming-judicial-body-at-heart-of-polands-rule-of-law-crisis/) |
+| **Notiz** | [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck]] |

@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 868,
-   "aufrufe": 1035
+   "leser": 869,
+   "aufrufe": 1036
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 58,
-     "aufrufe": 69
+     "leser": 57,
+     "aufrufe": 68
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -320,18 +320,13 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 14,
-     "aufrufe": 20
+     "leser": 13,
+     "aufrufe": 19
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 10,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 8,
-     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -342,6 +337,11 @@
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 7,
      "aufrufe": 8
+    },
+    {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -489,6 +489,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/IT-Mario-40.000-Bundestagsreden-analysiert",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/DenkerVita/Alle-Denker",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Arthur-Schopenhauer",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 868,
-     "aufrufe": 1035
+     "leser": 869,
+     "aufrufe": 1036
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 935,
-     "aufrufe": 1124
+     "leser": 936,
+     "aufrufe": 1125
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 935,
-     "aufrufe": 1124
+     "leser": 936,
+     "aufrufe": 1125
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1719,6 +1719,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Dirk-Specht",
      "leser": 3,
      "aufrufe": 3
@@ -1815,11 +1820,6 @@
     },
     {
      "pfad": "/DenkerVita/Martyna-Linartas",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
      "leser": 2,
      "aufrufe": 2
     },

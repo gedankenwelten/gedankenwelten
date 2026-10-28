@@ -326,6 +326,9 @@ Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Ge
 
 ## Verbindungen
 
+### → [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
+Die Zeitachse hinter der Frage „Was holt Wähler zurück?“: Was wird aus einem Land, wenn die Wähler zurückgeholt sind und die Ämter noch dem Vorgänger gehören? Ungarn, Serbien und Brasilien als Fälle, Polen als Vorläufer.
+
 ### → [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
 Dort nicht die Wähler, sondern die Mitmacher: wie Polizisten, Beamte und Nachbarn zu Tätern wurden, mit Aly und Fromm, die in beiden Panoramen stehen.
 

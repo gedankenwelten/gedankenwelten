@@ -110,6 +110,10 @@ Sie betont auch: JD Vance war extra nach Ungarn gereist, um Orbán zu unterstüt
 
 ## Verbindungen
 
+### → [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
+
+Was nach dem Wahlabend kam: Sulyoks Absetzung per Verfassungsänderung, Baka als Präsident. Die Spur stellt Ungarn neben Serbien und Brasilien und prüft, ob der Rückbau hält.
+
 ### → [[Ernst Gelegs — Ist das Regime Orbán am Ende]]
 
 Gelegs analysierte 10 Tage vor der Wahl Orbáns Schwächung: Diese Note liefert die Antwort — ja, das Regime ist am Ende

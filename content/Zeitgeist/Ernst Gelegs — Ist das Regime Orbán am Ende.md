@@ -179,6 +179,10 @@ Der Bevölkerung sind Rechtsstaatsfragen weitgehend egal — sie kämpfen mit In
 
 ## Verbindungen
 
+### → [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
+
+Die Spur verfolgt, was aus Gelegs’ Unterscheidung von Regierungs- und Regimewechsel geworden ist. Die Zweidrittelmehrheit kam, und Magyar räumte die Restämter mit der Verfassungsänderung, also mit Orbáns eigenem Werkzeug.
+
 ### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
 
 Saragusti nennt Orbáns Medien-Übernahme ausdrücklich als das Modell, vor dem sie Israel warnt — die israelische Journalistengewerkschaft versucht, „alle roten Lampen anzuschalten“, bevor die ungarische Blaupause vollendet ist.
