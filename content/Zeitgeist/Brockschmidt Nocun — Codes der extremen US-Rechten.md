@@ -279,7 +279,7 @@ Im fertigen Gutachten (25.06.2026) wird die hier analysierte Tarnung zum juristi
 
 ### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
-Die CPAC-Note kartiert den institutionellen Rahmen, in dem die hier dekodierten Codes zirkulieren: Heritage Foundation, Bannon-Netzwerk und CPAC-Infrastruktur sind der transatlantische Kanal, über den US-Strategien (Dog Whistles, Southern Strategy, Fashwave) nach Europa transportiert werden. Brockschmidt/Nocun zeigen die Botschaften; die CPAC-Note zeigt den Leitungsweg.
+Die CPAC-Note kartiert Orte, an denen sich die amerikanische und die europäische Rechte begegnen: Konferenzen, Think Tanks, Heritage Foundation. Brockschmidt/Nocun zeigen die Codes, die dort mitreisen können, und zwar in beide Richtungen; *Remigration* kam aus Europa in die USA.
 
 ### → [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
 

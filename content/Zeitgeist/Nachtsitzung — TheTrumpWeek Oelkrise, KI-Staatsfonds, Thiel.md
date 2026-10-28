@@ -243,7 +243,7 @@ Direkte Fortsetzung: Thiels Emigration und die Republikaner-Dissidenz gegen den 
 
 ### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und ihr Netzwerk]]
 
-Peter Thiel ist ein zentraler Knotenpunkt genau dieser transnationalen rechten Infrastruktur, die Biersky dort kartiert. Sein Exit markiert eine mögliche Sollbruchstelle im Netzwerk — wenn die Funder abziehen, gerät die Finanzierungskette ins Wanken.
+Dort kartiert Biersky das Netz und hofft, ein fallender Knoten beschmutze es ganz; hier liest er Thiels Umzug als Abwendung von Trump. Beides hat sich bisher nicht so erfüllt: Thiel blieb bei Trump, und als Ungarn fiel, zog die CPAC nach London weiter.
 
 ### → [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt?]]
 

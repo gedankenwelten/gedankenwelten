@@ -187,7 +187,7 @@ Drei Schlüsselfiguren, die sich aktiv gegen Trump stellen:
 
 ### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
-Direkte Fortsetzung: Während die CPAC-Note zeigt, wie Benjamins Machtblase (Heritage Foundation, Atlas-Netzwerk, Milliardäre) aufgebaut wurde, analysiert diese Note deren Rückzug — die Infrastruktur wird nicht zerstört, sie wendet sich vom scheiternden Instrument ab
+Direkte Fortsetzung: Während die CPAC-Note zeigt, wie Benjamins Machtblase (Heritage Foundation, Atlas-Netzwerk, Milliardäre) aufgebaut wurde, erwartet Biersky hier deren Rückzug vom scheiternden Instrument. Ein halbes Jahr später ist er ausgeblieben: Heritage und das große Geld stehen weiter bei Trump
 
 ### → [[Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
 

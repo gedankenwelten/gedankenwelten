@@ -184,7 +184,7 @@ Megafon in Ungarn und BILD/NIUS in Deutschland operieren nach demselben Prinzip:
 
 ### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
-Storm-1516 und prorussische Einflussnahme sind kein Einzelfall, sondern Teil eines transnationalen autoritären Netzwerks. CPAC-Ungarn ist seit Jahren ein zentraler Knotenpunkt dieser Internationale.
+Drei Wochen vor dieser Wahl tagte in Budapest zum fünften Mal die CPAC Hungary, mit Weidel, Kickl und Abascal, bezahlt aus Mitteln einer staatlich finanzierten Stiftung. Die Note zeigt die Konferenz als Orbáns Tor für die amerikanische Rechte; Storm-1516 ist eine russische Kampagne und gehört nicht dazu.
 
 ### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 

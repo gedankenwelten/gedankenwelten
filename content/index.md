@@ -36,15 +36,15 @@ Die Gedankenwelten (luc)
 >
 > Wer als Neffe eine Million in Aktien erbt, zahlt fast 300.000 Euro, wer eine Million in einer Firma erbt, oft nichts. Martin Oetting rechnet nach — und hört genau hin, wie eine Ministerin darüber redet.
 
+> **28.10.** — [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+>
+> Eine Konferenz als Heiratsmarkt der Rechten: Biersky folgt dem CPAC-Netz von Washington über Budapest bis Berlin und schöpft daraus Hoffnung. Was davon hielt, steht hier mit.
+
 > **26.10.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
 >
 > „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
 
-> **26.10.** — [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
->
-> Eine Pyramide aus Wählern, Influencern, Abgeordneten und Geldgebern trägt einen Mann. Im April 2026 sah Biersky sie von unten bröckeln. Was davon hielt, steht hier mit.
-
-> → *12 weitere in* [[Zeitgeist]]
+> → *13 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
