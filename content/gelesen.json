@@ -119,11 +119,6 @@
    "aufrufe": 10
   },
   {
-   "pfad": "/DenkerVita/Eva-von-Redecker",
-   "leser": 7,
-   "aufrufe": 10
-  },
-  {
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
    "leser": 7,
    "aufrufe": 9
@@ -147,6 +142,11 @@
    "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
    "leser": 7,
    "aufrufe": 7
+  },
+  {
+   "pfad": "/DenkerVita/Eva-von-Redecker",
+   "leser": 6,
+   "aufrufe": 9
   },
   {
    "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 54,
-     "aufrufe": 64
+     "leser": 53,
+     "aufrufe": 63
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -729,11 +729,6 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 7,
-     "aufrufe": 10
-    },
-    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 7,
      "aufrufe": 9
@@ -757,6 +752,11 @@
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 7,
      "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Eva-von-Redecker",
+     "leser": 6,
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
@@ -1614,17 +1614,17 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 5,
      "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 5,
      "aufrufe": 5
     },

@@ -3,6 +3,9 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Steve Bannon
+**Status:** ✓ Vollanalyse → [[DenkerVita/Steve Bannon]]
+
 ## Iason Chandrinos
 **Status:** ✓ Vollanalyse → [[DenkerVita/Iason Chandrinos]]
 

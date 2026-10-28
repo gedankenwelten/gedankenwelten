@@ -69,6 +69,10 @@ Fehler bisher am häufigsten waren, vor allem unsere eigenen und ihre Ursachen. 
 4. **Unsere eigenen Sätze** — hier liegen die gefährlichsten Fehler, weil niemand sie dem Sprecher
    zuschreiben kann: Aufmacher-Callout, `description:`, Einordnungen, Faktencheck-Callouts (stimmt
    das Urteil „falsch/vereinfacht“ selbst?), Nachbesprechung, Bildunterschriften, Wandspruch.
+   **Verbindungssätze** gegen die Kernthese der verlinkten Note lesen: Wird dort eine Stimme zur Stütze
+   gemacht, die in ihrer eigenen Note das Gegenteil vertritt, oder ein Organisationszusammenhang behauptet,
+   den keine Note belegt? (Aly, Arendt, NIUS in der CPAC-Note, 28.10.2026; Regel für Montaigne →
+   `agents/montaigne.md`, „Die verlinkte Stimme nicht verbiegen“.)
    **Belegverben** („belegt“, „weist nach“, „dokumentiert“) nur, wo ein `[!success]` sie trägt — der
    Schnellcheck steht im Aristoteles-Skill unter „Belegverben gehören dem Faktencheck“.
 5. **Lebende Personen** (Persönlichkeitsrecht, → Abmahnrisiko): Jede **Tatsachenbehauptung** über

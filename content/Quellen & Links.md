@@ -5386,3 +5386,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Ungarn** | [Verfassungsblog — The New Constitutional Amendment (15.07.)](https://verfassungsblog.de/the-new-constitutional-amendment/) · [iConnect — Hungary's Constitutional Boomerang](https://www.iconnectblog.com/hungarys-constitutional-boomerang-a-recommendation-for-the-commission/) · [BBC, 18.07.](https://www.bbc.co.uk/news/articles/cpd7q7eev7po) |
 | **Polen** | [Notes from Poland — Veto gegen KRS-Reform, 19.02.](https://notesfrompoland.com/2026/02/19/president-vetoes-bill-reforming-judicial-body-at-heart-of-polands-rule-of-law-crisis/) |
 | **Notiz** | [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck]] |
+
+## Steve Bannon — FRONTLINE „Bannon’s War“
+
+| | |
+|---|---|
+| **Dokumentation** | [Bannon’s War (full documentary)](https://www.youtube.com/watch?v=UPkUrVj0VPc) — FRONTLINE, PBS, 2017 · [Transkript mit Sprechernamen](https://www.pbs.org/wgbh/frontline/documentary/bannons-war/transcript/) |
+| **Interview** | [America’s Great Divide: Steve Bannon, Teil 1](https://www.youtube.com/watch?v=pm5xxlajTW0) · [Teil 2](https://www.youtube.com/watch?v=gDqAnOyAgt4) — FRONTLINE, aufgenommen 17.03.2019 |
+| **Recherche** | [How Steve Bannon’s far-right ‚Movement‘ stalled in Europe](https://www.youtube.com/watch?v=SX2twSMMdHs) — The Guardian, Paul Lewis, 21.11.2018 |
+| **Notiz** | [[FRONTLINE — Bannons War]] · [[DenkerVita/Steve Bannon]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Bannon_Frontline_BannonsWar_Transkript.txt` · `Bannon_Guardian_Movement_Transkript.txt` · `Bannon_Frontline_Interview1_Transkript.txt` · `Bannon_Frontline_Interview2_Transkript.txt` |

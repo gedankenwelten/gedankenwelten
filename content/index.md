@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Wenn der Kuchen nicht mehr wächst, müssen Löhne oder Steuern schrumpfen, damit die Gewinne steigen. Ein Forscher sagt, das treibe Europa nach rechts. Ein YouTuber erzählt es weiter, und dabei wird aus einer Wirkung eine Absicht.
 
+> **28.10.** — [[Zeitgeist/FRONTLINE — Bannons War|FRONTLINE — Bannon’s War]]
+>
+> Ein Arbeitersohn, der den Glauben an die Institutionen verlor und beschloss, sie einzureißen. FRONTLINE zeigt Bannons Weg, der Guardian, wie weit sein Netz in Europa trug.
+
 > **28.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 >
 > Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Konferenz als Heiratsmarkt der Rechten: Biersky folgt dem CPAC-Netz von Washington über Budapest bis Berlin und schöpft daraus Hoffnung. Was davon hielt, steht hier mit.
 
-> **26.10.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
->
-> „Token sind Umsatz“ stimmt für den, der sie verkauft. Jan-Keno Janssen rechnet auf der Computex 2026 nach, für wen Nvidias Formel aufgeht, und warum der PC dabei teurer wird.
-
-> → *13 weitere in* [[Zeitgeist]]
+> → *14 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

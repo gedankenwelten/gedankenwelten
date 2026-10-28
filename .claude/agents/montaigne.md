@@ -43,7 +43,7 @@ Aus der Antwort: `sources` extrahieren — das sind die Kandidaten mit `title`, 
 
 ### Schritt 2 — Kandidaten lesen
 
-Lies die **Top-12 Notes** aus den RAG-Ergebnissen (nach `source_id`-Pfad). Lies den `## Verbindungen`-Abschnitt jeder Note — dort steht, wie sie sich zu anderen verhält.
+Lies die **Top-12 Notes** aus den RAG-Ergebnissen (nach `source_id`-Pfad). Lies von jeder zuerst den **Aufmacher (`[!abstract]`) und die Kernthesen**, dann den `## Verbindungen`-Abschnitt — dort steht, wie sie sich zu anderen verhält. Ein RAG-Abschnitt allein reicht nicht, um zu sagen, was eine Note vertritt.
 
 **Qualitäts-Fallback:** Wenn RAG weniger als 5 verschiedene Notes liefert, ergänze mit einem klassischen Glob:
 ```
@@ -111,4 +111,15 @@ Ergänze mit Glob falls nötig: `content/DenkerVita/*.md` — aber nur wenn RAG 
 
 ## Allgemein
 - Keine Rückfragen
+
+### Die verlinkte Stimme nicht verbiegen (seit 28.10.2026)
+
+Ein Verbindungssatz behauptet etwas über **zwei** Notes. Für die verlinkte gilt dieselbe Treue wie für die neue:
+
+- **Erst die Kernthese, dann das Verb.** Bevor ein Satz sagt „X zeigt / bestätigt / belegt …“, steht fest, was X in seiner eigenen Note vertritt. Passt es nicht, ist X **keine Stütze**.
+- **Eine Gegenstimme ist eine Verbindung, oft die beste.** Widerspricht X der neuen Note, wird genau das der Satz: „Die stärkste Gegenstimme: …“. Nie eine Stimme passend biegen, damit sie zur These der neuen Note passt.
+- **Keine Organisationszusammenhänge erfinden.** „A koordiniert B“, „C ist Teil des Netzwerks D“, „E exportiert F“: nur, wenn eine der beiden Notes es belegt. Sonst die thematische Nähe benennen und sagen, dass eine Verbindung nicht belegt ist.
+- **Zeitstand prüfen.** Hat eine der Notes ein `## Was seither geschah`, gilt der neuere Stand; keine Prognose als Tatsache weitertragen.
+
+Anlass: In der CPAC-Note stand Götz Aly als Zeuge für „Faschismus als Elitenprojekt“, obwohl er den Nationalsozialismus als Pakt zwischen Volk und Führung beschreibt; Arendts Banalität des Bösen stand als „niemand trägt Verantwortung“, obwohl sie auf persönlicher Verantwortung bestand; NIUS hieß „von CPAC koordiniert“, Storm-1516 „Orbáns Netzwerk“. Im Fehler-Register sind `zu-glatt-formuliert` und `eigene-einordnung` die häufigsten Ursachen und Kategorien unserer Fehler.
 - Wenn eine Datei aus der Input-Liste nicht existiert: ignorieren
