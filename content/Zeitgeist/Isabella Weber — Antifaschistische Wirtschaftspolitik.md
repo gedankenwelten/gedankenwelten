@@ -450,6 +450,10 @@ Die Stimme, die der Nachbesprechung fehlte. Grimm saß mit Weber in derselben Ga
 
 Beide berufen sich auf Mamdani, auf verschiedene Seiten von ihm: Weber auf das geflickte Schlagloch, Neiman auf das Gerechtigkeitsargument, das die Krankenschwester in der Stadt wohnen lassen will, die sie am Leben hält.
 
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouich hält den Nachkriegskonsens, auf den Weber baut, ohne Wachstum für nicht wiederholbar; daran muss sich ihre Gegenbewegung messen lassen. Lange und Schmelzer berufen sich dagegen ausdrücklich auf ihre „anti-fascist economics“.
+
 ---
 
 ## Weiterdenken

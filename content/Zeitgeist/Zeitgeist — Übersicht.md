@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*349 Notes — automatisch generiert · nach Thema sortiert*
+*350 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -158,6 +158,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]] — Mit siebzehn auf einer Neonazi-Demo, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
 - [[Zeitgeist/Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]] — Korruption kommt selten mit dem Geldkoffer. Neunzehn Jahre Bundestag, erzählt von einem, der das Spiel kennengelernt, fast mitgespielt und dann benannt hat, kurz bevor er starb.
 - [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] — Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
+- [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]] — Wenn der Kuchen nicht mehr wächst, müssen Löhne oder Steuern schrumpfen, damit die Gewinne steigen. Ein Forscher sagt, das treibe Europa nach rechts. Ein YouTuber erzählt es weiter, und dabei wird aus einer Wirkung eine Absicht.
 - [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]] — Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
 - [[Zeitgeist/Mats Appreciated — Fluchtgeschichten am Mauerweg|Mats Appreciated — Fluchtgeschichten am Mauerweg]] — 160 Kilometer Mauerweg, sieben Fluchtgeschichten voller Mut und Hilfsbereitschaft — und die Erkenntnis, dass unter jedem Gullideckel Hoffnung liegen kann.
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]]

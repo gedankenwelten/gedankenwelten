@@ -15,8 +15,8 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 57,
-   "aufrufe": 61
+   "leser": 56,
+   "aufrufe": 60
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -60,8 +60,8 @@
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
-   "leser": 18,
-   "aufrufe": 27
+   "leser": 19,
+   "aufrufe": 28
   },
   {
    "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 55,
-     "aufrufe": 66
+     "aufrufe": 65
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -329,6 +329,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "leser": 7,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 7,
      "aufrufe": 8
@@ -337,11 +342,6 @@
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 7,
      "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 6,
-     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -625,8 +625,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 57,
-     "aufrufe": 61
+     "leser": 56,
+     "aufrufe": 60
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -670,8 +670,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 18,
-     "aufrufe": 27
+     "leser": 19,
+     "aufrufe": 28
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -960,8 +960,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 25,
-     "aufrufe": 34
+     "leser": 26,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -1265,8 +1265,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 25,
-     "aufrufe": 34
+     "leser": 26,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 45,
-     "aufrufe": 45
+     "leser": 44,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",

@@ -312,3 +312,7 @@ Weber nennt Hayeks *Weg zur Knechtschaft* eine antifaschistische Wirtschaftspoli
 
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Was Mattei als Trinität der Austerität beschreibt, verteidigt Grimm Ende 2022 als Vernunft: höhere Zinsen trotz schwacher Nachfrage, eine Konzertierte Aktion, die die Löhne zurückhält, Fiskalregeln, die in guten Zeiten tilgen. Den Kurs der EZB nennt sie alternativlos.
+
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouichs Kuchenrechnung erklärt die Austerität ökonomisch: Ohne Wachstum lassen sich Gewinne nur über Löhne und Steuern halten. Anders als Mattei lässt Driouich offen, ob das Absicht war.

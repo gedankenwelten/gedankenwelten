@@ -317,3 +317,7 @@ Tooze feiert das US-Paket von 2021 als vergessenen Erfolg; die Inflation, die er
 ### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
 
 Fricke beruft sich für den Inflationsschock auf Weber, in ihrem Buch wird aus der Diagnose ein Programm. Wo Fricke fragt, was Menschen erleben müssen, um Kontrolle zurückzugewinnen, antwortet sie mit Handlungsfähigkeit, die man sehen kann, vom geräumten Gehweg bis zum Preisdeckel im Schock.
+
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouich stellt Frickes Kontrollverlust in eine längere Rechnung: Der Marktliberalismus war die Anpassung an ein halbes Jahrhundert sinkenden Wachstums.

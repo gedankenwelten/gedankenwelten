@@ -1,10 +1,21 @@
 ---
 title: Riwan Driouich — DenkerVita
 description: "Wo nichts mehr wächst, wird nur noch umverteilt: Riwan Driouich liest den Aufstieg der extremen Rechten als Übergang in einen autoritären Kapitalismus der Stagnation."
+raetsel: "Der Fluss wird langsamer. Er schreibt auf, wem das Angst macht."
 tags: [denker-vita, wirtschaft, kapitalismus, neoliberalismus, faschismus, rechtsextremismus, demokratie, japan]
 ---
 
 # Riwan Driouich — DenkerVita
+
+![[assets/Riwan-Driouich-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Utagawa Hiroshige** — Farbholzschnitt im Stil seiner Brücken- und Flussansichten. Ein junger Gelehrter steht auf einer Holzbrücke und schreibt; unter ihm geht ein reißender Strom in einen breiten, stillen See über, auf dem Boote ruhen. Am Horizont zieht über einer rauchenden Stadt ein Gewitter auf. Driouichs Forschungsfrage als Landschaft: Was geschieht, wenn eine Wirtschaft langsamer wird? Es kann Ruhe sein, wie in dem Japan, das er untersucht, oder ein Sturm über der Stadt. Hiroshige wegen Japan, und weil seine Bilder das Wetter zeigen, bevor es da ist. Die Note trägt Masereel, die Vita Hiroshige.
+
+*Prompt:* Wide 1200x500 panoramic banner in the style of an Utagawa Hiroshige ukiyo-e woodblock print: flat areas of color, Prussian blue, soft greys and pale ochre, fine black outlines, gentle gradation (bokashi) in the sky. A long wooden bridge crosses a wide river in evening light. A young scholar in a plain coat, seen small from behind, stands at the railing with a notebook, looking down at the river: upstream on the right the water rushes fast and white over rapids, in the middle it widens and slows into a broad, calm, mirror-like lake where small boats rest. Far on the left horizon, dark storm clouds gather over a distant city with smoking chimneys. Rain lines faintly fall in the distance. Quiet, contemplative, slightly uneasy. No text, no letters, no cartouches, no seals, no signatures, no realistic face.
+
+</details>
 
 > [!info] Wer spricht?
 > **Riwan Driouich** ist Ökonom und Doktorand in kritischer politischer Ökonomie, gemeinsam betreut von der EHESS in Paris und der Autonomen Universität Barcelona. Im Postwachstums-Projekt **REAL** untersucht er, warum Japan der Stagnation vergleichsweise gut standhält. Mit Giorgos Kallis hat er eine Theorie der Wachstumsabhängigkeit vorgelegt: Wachstum hält die Kompromisse zwischen Kapital und Arbeit zusammen. Fehlt es, so seine These, geht die Rechnung nur noch über Löhne und Steuern auf, und die extreme Rechte wird zum Werkzeug dieser Umverteilung.
@@ -66,6 +77,14 @@ Aus dem EEB-Webinar (Januar 2026) und dem Aufsatz mit Giorgos Kallis (2025):
 Wir ordnen Driouich der **marxistisch informierten Regulationstheorie** und der **Degrowth-Forschung** zu. Er selbst nennt marxistische politische Ökonomie als Forschungsinteresse, und sein Projekt REAL ist der Postwachstums-Forschung verpflichtet. Seine Erklärung der extremen Rechten ist strukturell, nicht kulturell: Sie fragt zuerst nach Profit, Löhnen und Macht. Er lässt dabei offen stehen, was gegen ihn spricht: dass es kulturelle Gegenbewegungen auch unabhängig von der Wirtschaft gibt, dass die gefühlte Unsicherheit mehr erklärt als die gemessene, und dass er für die Praxis keine fertige Antwort hat. Seine eigene Zuspitzung, die Rechte als Werkzeug einer Umverteilung nach oben, ist eine Deutung, die sich an Fällen prüfen lässt, kein gesicherter Befund.
 
 ## Verbindungen zu anderen Denkern
+
+- [[DenkerVita/Arnaud Orain]] — Driouich übernimmt Orains „Kapitalismus der Endlichkeit“ als Rahmen für das Ende des Wachstums. Wo Orain beschreibt, wie Monopolrenten den Profit aus Wettbewerb ablösen und das Regime die Demokratie nicht mehr braucht, liefert Driouich die Verteilungsrechnung dazu: Ohne Wachstum lassen sich die Gewinne nur auf Kosten von Löhnen und Steuern halten.
+- [[DenkerVita/Clara Mattei]] — Beide lesen die Zwischenkriegszeit als Lehrstück dafür, dass Teile der liberalen Elite den Faschismus stützten, als die Ordnung wankte. Mattei sieht in der Austerität ein bewusstes Werkzeug der Klassenherrschaft, Driouich beschreibt die Umleitung zu den Gewinnen als Wirkung der Stagnation und lässt die Absicht offen.
+- [[DenkerVita/Isabella Weber]] — Beide denken Wirtschaftspolitik und Schutz der Demokratie zusammen. Weber setzt auf eine Rückkehr zum Gründungskonsens von 1945, Driouich hält genau diese Klassenbündnisse ohne Wachstum für nicht wiederholbar und verlangt „unprecedented social contracts“.
+- [[DenkerVita/Ulrike Herrmann]] — Beide halten das Wachstum für eingebaut in den Kapitalismus und sein Ende für politisch gefährlich. Herrmann folgert mit Keynes, die Löhne müssten mitsteigen, und setzt auf geplantes Schrumpfen; Driouich rechnet vor, dass gerade ohne Wachstum die Löhne zur Quelle der Gewinne werden.
+- [[DenkerVita/Klaus Doerre]] — Dörres Landnahme, der Kapitalismus muss sich ausdehnen, um sich zu reproduzieren, und Driouichs Wachstumsabhängigkeit beschreiben denselben Zwang von zwei Seiten. Dörres autoritärer Liberalismus nach Heller ist die politische Form, die Driouich mit Gramsci als Übergang von Zustimmung zu Zwang beschreibt.
+- [[DenkerVita/Oliver Nachtwey]] — Nachtwey sieht das Altmodell sozialer Integration aus Wachstum und Aufstieg abgewirtschaftet und daraus Nullsummendenken entstehen; Driouich liefert die ökonomische Mechanik zu dieser Gefühlslage.
+- [[DenkerVita/Martin Oetting]] — Oetting erzählt Driouichs Vortrag auf YouTube nach und macht dabei aus einer Wirkung eine Absicht und aus einem Teil der Eliten „die große Mehrheit“. Er ist eher Vermittler als Denkpartner, aber über ihn erreicht Driouichs These ein deutsches Publikum.
 
 ## Gedankenwelten-Notes
 

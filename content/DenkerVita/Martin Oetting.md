@@ -79,9 +79,11 @@ Oetting steht in der Tradition der **Wellbeing-Economy- / Postwachstums-Bewegung
 - [[DenkerVita/Thomas Laschyk]] — Beide kommen vom Handwerk der Überzeugung, Oetting als Forscher zur Mundpropaganda, Laschyk mit einer Arbeit über Storytelling in Fake News, und beide folgern, dass die Wahrheit besser erzählt werden muss als die Lüge. Und beide landen bei großen Vermögen: Laschyk bei der käuflichen Reichweite, Oetting bei den Milliardären an der Macht.
 - [[DenkerVita/Maurice Hoefgen]] — Beide kommentieren auf YouTube Lobbyauftritte im öffentlich-rechtlichen Rundfunk. Höfgen lobt den Journalisten, der nachhakt, Oetting verurteilt einen, der es in einer Pressekonferenz nicht konnte; am selben Format zeigt sich, wie leicht die Analyse in ein Urteil über Menschen kippt.
 - [[DenkerVita/Kevin Kuehnert]] — Beide führen die Erbschaftsteuer am selben Bild vor, Depot gegen Firma von der Tante, beide setzen gegen den Mythos vom ruinierten Betrieb die Stundung und sprechen offen als Partei, der eine für die Zivilgesellschaft, der andere als Unternehmer.
+- [[DenkerVita/Riwan Driouich]] — Oetting erzählt Driouichs Vortrag nach, von der Kuchenrechnung bis zur Rechten als Anpassung an die Stagnation, und macht dabei aus einer Wirkung eine Absicht und aus einem Teil der Eliten „die große Mehrheit“. An dem Paar lässt sich ablesen, was Oettings eigener Anspruch, mit der Wahrheit gegen die Vereinfacher anzutreten, beim Weitererzählen kostet.
 
 ## Gedankenwelten-Notes
 
 - [[Martin Oetting — Faschismus stoppen mit der Wahrheit]]
 - [[Martin Oetting — Happy Planet Index 2026]]
 - [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF]]
+- [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren]]

@@ -287,6 +287,10 @@ Auf der Utopie-Konferenz hält El-Mafaalani dieses Buch dem Schamforscher Marks 
 
 Die philosophische Seite zum demokratischen Faschismus: Celikates sieht die Faschisierung in der liberalen Demokratie beginnen und unterscheidet einen kalkulierenden von einem nihilistischen Faschismus, der „alles niederbrennen“ will. Das ist Zerstörungslust, aus der Kritischen Theorie gedacht.
 
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouichs Kuchenrechnung liefert die ökonomische Mechanik zu dem Nullsummendenken, das Amlinger und Nachtwey in den Gefühlslagen finden.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -286,6 +286,10 @@ Dörres „Landnahme" ist Beckerts Kriegskapitalismus in die Gegenwart verlänge
 
 Bendsen nennt mild „Externalität“, was Dörre als „Landnahme“ schärft — die fortlaufende Aneignung unbezahlter Natur und Zukunft. Ihr Appell an die Bilanz-Vernunft trifft auf seine Machtfrage: Taugt die Risikorechnung, wenn Externalisieren strukturell profitabel bleibt?
 
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouich gibt dem autoritären Liberalismus eine ökonomische Begründung: Er wird nötig, wenn ohne Wachstum die Gewinne nur noch auf Kosten von Löhnen und Steuern steigen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

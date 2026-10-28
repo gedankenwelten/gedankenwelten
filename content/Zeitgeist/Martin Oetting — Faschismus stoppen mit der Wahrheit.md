@@ -239,6 +239,10 @@ Jäger liefert die Diagnose, zu der Oettings System Delta die Therapie sein will
 
 An der Erbschaftsteuer zeigt sich Oettings Programm „die Wahrheit sagen“ im Einzelfall: Die Rechnung trägt, am Ende urteilt er aber über den Charakter eines Journalisten, wie er es am Neid-Vorwurf kritisiert.
 
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Am Driouich-Video lässt sich prüfen, ob Oetting den eigenen Wahrheitsanspruch einlöst: Er übernimmt das Bild vom umgeleiteten Zorn, lässt aber die Einschränkungen seiner Quelle fallen.
+
 ---
 
 ## Weiterdenken

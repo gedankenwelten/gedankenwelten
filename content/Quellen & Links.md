@@ -7,6 +7,18 @@ tags:
 ---
 
 
+## Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären? (YouTube + Webinar + Aufsatz, 2025/26)
+
+| | |
+|---|---|
+| **Video 1** | [Die dunkle Allianz gegen unsere Freiheit](https://www.youtube.com/watch?v=1GcaOETrwzM) (Oetting, 28.07.2026) |
+| **Webinar** | [Fascistic turn in Europe](https://www.youtube.com/watch?v=7NWPrUiYuwQ) (EEB/WEAll, 29.01.2026) |
+| **Video 2** | [Am Ende des Wirtschaftswachstums … wird's besser](https://www.youtube.com/watch?v=hTaE_fjR52I) (Oetting, 13.01.2026) |
+| **Aufsatz** | [Lange & Schmelzer: Beyond Growth](https://www.intereconomics.eu/contents/year/2025/number/6/article/beyond-growth-europe-s-path-to-sustainability-and-stability.html) (*Intereconomics* 2025) |
+| **Notiz** | [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren]] |
+| **DenkerVita** | [[DenkerVita/Martin Oetting]] · [[DenkerVita/Riwan Driouich]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Oetting_Dunkle_Allianz_Transkript.txt` · `EEB_Fascistic_Turn_Transkript.txt` · `Oetting_Ende_Wachstum_Transkript.txt` |
+
 ## Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF (YouTube, 27.10.2026)
 
 | | |

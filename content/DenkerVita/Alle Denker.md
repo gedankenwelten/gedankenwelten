@@ -178,6 +178,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Dietmar Dath|Dietmar Dath]]** — Schriftsteller, Journalist und Übersetzer (*1970; Spex-Chefredakteur, FAZ), marxistischer Science-Fiction-Romancier; Verschwendung als Überschuss, Produktion statt bloßer Verteilung, Science Fiction als Denkmaschine; *Die Abschaffung der Arten*, *Maschinenwinter*, *Niegeschichte*, *Gentzen*
 
+**[[DenkerVita/Riwan Driouich|Riwan Driouich]]** — Politische Ökonomie / Postwachstum, erklärt den Aufstieg der extremen Rechten aus der Wachstumsabhängigkeit eines stagnierenden Kapitalismus
+
 ## E
 
 **[[DenkerVita/Elon Musk|Elon Musk]]** — Unternehmer (SpaceX, Tesla, X, xAI), DOGE 2025; verändert oder enthüllt? Die Härte ist seit den Neunzigern belegt, neu sind Richtung, Bühne und Reichweite

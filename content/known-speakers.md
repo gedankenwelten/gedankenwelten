@@ -1255,3 +1255,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Richard David Precht
 **Status:** ✓ Vollanalyse → [[DenkerVita/Richard David Precht]]
+
+## Riwan Driouich
+**Status:** ✓ Vollanalyse → [[DenkerVita/Riwan Driouich]]

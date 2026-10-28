@@ -409,6 +409,10 @@ Wie „Produktion statt Konsum“ an einem einzelnen Thema aussieht, zeigt die F
 
 Synhelion verspricht synthetisches Kerosin für 80 Cent je Liter und kürzt dafür genau die Kette ab, die Herrmann durchrechnet: keine Elektrolyse, die Hälfte der Energie aus Biogas. Ein Gegenbeispiel, das ihr Argument eher umgeht als widerlegt.
 
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouich zeigt, warum Herrmanns Keynes-Satz in der Stagnation kippt: Ohne Wachstum werden die Löhne zur Quelle der Gewinne statt zur Quelle der Nachfrage.
+
 
 ---
 

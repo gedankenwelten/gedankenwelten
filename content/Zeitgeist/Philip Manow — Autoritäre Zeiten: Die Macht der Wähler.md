@@ -373,6 +373,10 @@ Die Gegenposition zu Manows Skepsis gegenüber dem Autoritarismus-Diskurs: Celik
 
 Den gebrochenen Verfassungsauftrag nennt Oschmann mit Habermas den ersten Ausschluss des Ostens. Kowalczuk, der 1990 selbst für Artikel 146 stimmte, hält dagegen: Drei Viertel wählten den schnellen Beitritt, und das „uns hat keiner gefragt“ sei erst später entstanden.
 
+### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouich ergänzt die Nachfrageseite um die Angebotsseite, die hier fehlt, und hält dabei fest, dass sich nur ein Teil der Eliten nach rechts wendet.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)
