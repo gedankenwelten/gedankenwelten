@@ -65,6 +65,7 @@ Keine starre ideologische Verankerung erkennbar. Braesemann vertritt eine pragma
 
 ## Gedankenwelten-Notes
 
+- [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung]] — die Spur zum Abstand zwischen KI-Fähigkeit und messbarer Wirkung; seine Arbeitsmarktdaten sind ein Kandidat für ihre Messreihen
 - [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 ---

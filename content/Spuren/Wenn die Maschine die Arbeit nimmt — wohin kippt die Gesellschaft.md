@@ -188,6 +188,10 @@ gegen Rechenzentren kann schlichtes „nicht vor meiner Haustür“ sein statt M
 
 ## Verbindungen
 
+### → [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
+
+Misst seit 29.10.2026 den Abstand zwischen Modellfähigkeit und messbarer Wirkung. Zieht die Wirkung nach, wird es hier entschieden — an den sechs Signalen.
+
 ### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 
 Frischer, datierter Brennstoff für die Spur: die seit zehn Jahren eintreffende Verdopplungsprognose, die METR-Kurve autonomer Maschinenarbeit und die Extrapolation „10 Jahre Arbeit auf einen Prompt um 2030“ — von einem der nüchternsten deutschen KI-Wissenschaftler, ausdrücklich ohne Hype.

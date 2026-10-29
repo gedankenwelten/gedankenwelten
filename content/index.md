@@ -80,6 +80,10 @@ Die Gedankenwelten (luc)
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
 
+> **29.10.** — [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
+>
+> Die Maschine wird schneller klüger, als die Welt sich ändert. Die Spur legt beide Kurven nebeneinander, die Fähigkeit und die messbare Wirkung, und schaut bis Ende 2028, ob die zweite nachzieht.
+
 > **29.10.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
 >
 > Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?
 
-> **28.10.** — [[Spuren/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen|Über sie, ohne sie — wer entscheidet über die Kleinen?]]
->
-> 1938 hieß es in Prag „über uns ohne uns“. Diese Spur prüft an den Verhandlungen über die Ukraine, Venezuela und Taiwan, ob die Großen wieder den Rahmen ziehen, bevor die Betroffenen am Tisch sitzen.
-
-> → *1 weitere in* [[Spuren]]
+> → *2 weitere in* [[Spuren]]
 
 ### Panorama
 

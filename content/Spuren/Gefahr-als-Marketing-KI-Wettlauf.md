@@ -305,6 +305,10 @@ KI dasselbe Dokument.** Künftige Sweeps testen, ob die Typologie hält oder bri
 
 ## Verbindungen
 
+### → [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
+
+Seit 29.10.2026 notiert diese Spur auch die AGI-Erklärungen der Labore — Material für das Narrativ, das jeder Spieler bewaffnet.
+
 ### → [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
 
 Schwester-Spur, derselbe Fall von der anderen Seite. Der Twist verbindet beide: Wenn das Gefahren-

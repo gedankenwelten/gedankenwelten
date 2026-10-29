@@ -289,17 +289,17 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/DenkerVita/Leonie-Heims",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
    "pfad": "/DenkerVita/Maja-Goepel",
    "leser": 4,
    "aufrufe": 4
   },
   {
    "pfad": "/DenkerVita/Mats-Schoenauer",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/DenkerVita/Maurice-Hoefgen",
    "leser": 4,
    "aufrufe": 4
   }
@@ -310,13 +310,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 47,
-     "aufrufe": 55
+     "leser": 45,
+     "aufrufe": 51
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 18,
-     "aufrufe": 19
+     "leser": 14,
+     "aufrufe": 15
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -354,11 +354,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Der-Dara",
      "leser": 5,
      "aufrufe": 5
@@ -375,6 +370,11 @@
     },
     {
      "pfad": "/DenkerVita/Anke-Myrrhe",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 4,
      "aufrufe": 4
     },
@@ -404,11 +404,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Mark-Benecke-Fragerunde-Time-Is-Up-2026",
      "leser": 3,
      "aufrufe": 3
@@ -425,6 +420,11 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Maggi",
      "leser": 2,
      "aufrufe": 2
     },
@@ -559,11 +559,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
      "leser": 1,
      "aufrufe": 1
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/DenkerVita/Arthur-Schopenhauer",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Barbara-Tversky",
      "leser": 1,
      "aufrufe": 1
     }
@@ -899,17 +899,17 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Leonie-Heims",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Maja-Goepel",
      "leser": 4,
      "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Mats-Schoenauer",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Maurice-Hoefgen",
      "leser": 4,
      "aufrufe": 4
     }
@@ -1684,6 +1684,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Leonie-Heims",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "leser": 4,
      "aufrufe": 4
@@ -1730,11 +1735,6 @@
     },
     {
      "pfad": "/DenkerVita/Dirk-Specht",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Leonie-Heims",
      "leser": 3,
      "aufrufe": 3
     },

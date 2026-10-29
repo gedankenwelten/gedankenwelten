@@ -170,6 +170,10 @@ Die Ironie, die Janssen herausarbeitet: Nvidia hat den PC-Markt mit der KI-Manie
 
 ## Verbindungen
 
+### → [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung]]
+
+Die Lücke zwischen Investition und Erlös, die Janssen von der Käuferseite nachrechnet, steht dort als Startwert einer Langzeitbeobachtung bis 2028.
+
 ### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
 
 Dieselbe Zirkularität vom anderen Ende gesehen: Göpel beschreibt KI-Systeme, die „nur noch durch Schulden und sich gegenseitig stützende Kredite“ vorwärtsrasen — und stellt die Frage, die die Investitionslogik offen lässt: Wenn möglichst viele Menschen ersetzt werden, wer kauft dann noch das Produzierte?

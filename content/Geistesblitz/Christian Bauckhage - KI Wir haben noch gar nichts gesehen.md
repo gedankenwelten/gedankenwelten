@@ -193,6 +193,10 @@ Dass eine utopische Auflösung wahrscheinlich sei, glaubt er nicht — *„weil 
 
 ## Verbindungen
 
+### → [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung]]
+
+Die Spur misst seit 29.10.2026 genau Bauckhages Kurve — und legt daneben, wie viel davon in Produktivität und Arbeitsmarkt ankommt. Sie setzt auf einen Abstand, er würde vermutlich sagen, dass er schneller schrumpft, als wir denken.
+
 ### → [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
 
 Derselbe Durchbruch aus der Sicht des Hirnforschers: Spitzer erzählt AlphaFold als Beispiel dafür, was eine KI kann, die anders als ein Computer lernt. Seine Ausgangszahl (50 Strukturen in 50 Jahren) ist falsch, die Pointe nicht.

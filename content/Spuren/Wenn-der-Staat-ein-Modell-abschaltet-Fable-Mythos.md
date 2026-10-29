@@ -8,7 +8,7 @@ tags:
   - usa
   - überwachung
   - year-2026
-status: offen
+status: kalt
 konfidenz: 66%
 review-takt: 14-tage
 eroeffnet: 2026-06-14
@@ -29,6 +29,8 @@ description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Net
 </details>
 
 > [!abstract] Worum es geht
+> **Geschlossen am 29.10.2026 (kalt, vor der Frist, auf Andis Entscheidung)** — Bilanz im ersten Verlaufseintrag.
+>
 > Am 12. Juni 2026 ordnet die US-Regierung an, Anthropics zwei neueste Modelle — **Fable 5** und
 > **Mythos 5** — vom Netz zu nehmen, drei Tage nach Launch, begründet mit nationaler Sicherheit. Es ist
 > das erste Mal, dass ein führendes KI-Unternehmen ein *bereits ausgeliefertes* Modell wegen eines
@@ -69,6 +71,39 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 - Nach ~6 Monaten keine neuen Daten, Modelle still wieder online, kein Erkenntnisgewinn.
 
 ## Verlauf
+
+### 2026-10-29 — Abschluss: kalt, vor der Frist (Konfidenz 66 %, eingefroren)
+
+**Befund:** Seit dem Sweep vom selben Tag nichts Neues. Der Juni-Vorgang selbst hat sich seit Wochen nicht bewegt;
+was sich bewegt, sind Nachbarverfahren (Pentagon-Einstufung, FTC, die Meldepflicht für alle Häuser) mit eigener Logik.
+
+**Deutung:** Andi schließt die Spur am 29.10.2026, sechs Wochen vor der vorab registrierten Kalt-Schwelle (~6 Monate).
+Das ist eine Entscheidung, keine eingetretene Bedingung, und sie steht hier als solche. Der Grund: Das Phänomen ist in
+eine andere Richtung gelaufen. Aus „ein Staat schaltet ein Modell ab“ ist eine allgemeine Frage geworden, wie Staaten
+KI überhaupt beaufsichtigen — und die gehört in die Spuren, die sie schon verfolgen.
+
+**Bilanz gegen die vorab registrierten Bedingungen:**
+- *Bestätigt* (i) Rückkehr ohne Fix — **nicht eingetreten**; der Börsenprospekt beschreibt die Rückkehr als eine mit Fix.
+- *Bestätigt* (ii) selektive Anwendung — **offen geblieben**; keine andere Firma traf eine Exportkontrolle, aber die
+  Aufsicht ist seit September breiter geworden.
+- *Bestätigt* (iii) nie eine unabhängige technische Begründung — **nach 137 Tagen weiter zutreffend**, und mit dem
+  geheimen Prüfrahmen nach EO 14409 inzwischen Institution.
+- *Widerlegt* (i) unabhängige Prüfung bestätigt einen schweren Jailbreak — **nicht eingetreten**. (ii) dieselbe Auflage
+  für alle — **näher gerückt, nicht erreicht** (Meldepflicht für alle seit 09.10.). (iii) Anthropic räumt ein, das
+  Risiko habe die Maßnahme gerechtfertigt — **nicht eingetreten**.
+
+Keine Seite hat gewonnen. Die These ruhte auf der Disproportion zwischen engem Anlass und globaler Maßnahme, und die hat
+niemand widerlegt; aber ihr zweiter Pfeiler, die Unüberprüfbarkeit, hat ein Gericht in Washington angegriffen. 66 % sind
+der letzte Stand, kein Urteil.
+
+**Gegenbeobachtung (Pflicht):** Eine Spur vor ihrer Frist zu schließen, ist genau das, wovor die Rubrik warnt: Man hört
+auf hinzusehen, wenn es unbequem oder langweilig wird. Was dagegen spricht, steht oben: Der Gegenstand selbst hat sich
+nicht mehr bewegt. Sollte in Washington die erneute Anhörung (Frist 13.11.) oder in San Francisco die Berufung den
+Juni-Vorgang wieder berühren, gehört es als Nachtrag hierher.
+
+**Wo es weitergeht:** [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing]] (das Narrativ der Gefahr) ·
+[[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral]] (wer die Schicht
+kontrolliert) · [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung]] (die neue, größere Frage).
 
 ### 2026-10-29 — Die Nachbarverfahren bewegen sich, der Juni-Vorgang nicht (Konfidenz 68 % → 66 %)
 

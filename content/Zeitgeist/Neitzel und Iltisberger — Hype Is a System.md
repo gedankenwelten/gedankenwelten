@@ -200,6 +200,10 @@ Was bleibt, ist der Verweis auf institutionelle Formate: Technology Assessment, 
 
 ## Verbindungen
 
+### → [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung]]
+
+Eine Spur, die Fähigkeit und Wirkung der KI über Jahre nebeneinanderlegt — als Gegenmittel gegen den Hype-Kreislauf, und mit dem Wissen, dass auch „die Wirkung bleibt aus“ ein Teil davon sein kann.
+
 ### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 Mühlhoff beschreibt denselben Mechanismus aus politischer Perspektive: das "systematische Auseinanderdriften" zwischen technischer Realität und öffentlichem Glauben als Produkt eines "komplexen Orchesters" aus Industrie, Investoren, Politik und Medien. Was Neitzel/Iltisberger als 3-Subsystem-Modell formalisieren, ist bei Mühlhoff der politische Wirkungsraum dieses Hypes. Mühlhoff stellt die Machtfrage — Neitzel/Iltisberger liefern die Systemstruktur dahinter.
 

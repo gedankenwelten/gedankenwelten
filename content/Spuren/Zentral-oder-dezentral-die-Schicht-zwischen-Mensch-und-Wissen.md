@@ -285,6 +285,10 @@ und Wissen". Jeder neue Fall ist ein datierter Datenpunkt in dieser größeren B
 
 ## Verbindungen
 
+### → [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
+
+Die Schwester-Spur seit 29.10.2026: nicht wer die Schicht kontrolliert, sondern wie viel von der wachsenden Fähigkeit in Produktivität, Arbeit und Wissenschaft ankommt.
+
 ### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 
 Die technische Seite der Machtfrage dieser Spur: Bauckhages hybride KI — kleine, spezialisierte Modelle auf dem eigenen Serverschrank statt des alles-wissenden Rechenzentrums — macht Dezentralisierung von einer Effizienz- zur Souveränitätsfrage; wer die Schicht nicht selbst betreibt, trainiert die Konkurrenz.
