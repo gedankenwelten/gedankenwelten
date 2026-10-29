@@ -492,6 +492,18 @@ tags:
 | **Kanal** | [ZDFheute Nachrichten (YouTube)](https://www.youtube.com/@ZDFheute) · [zdfheute.de](https://www.zdfheute.de/) |
 | **Produktion** | BosePark Productions im Auftrag des ZDF auslandsjournal |
 
+## ZDF auslandsjournal — Der Trump Effekt #79: Siegen um jeden Preis? (28.10.2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Siegen um jeden Preis? \| Der Trump Effekt #79](https://www.youtube.com/watch?v=iX_qh2O7OuI) |
+| **Notiz** | [[Zeitgeist/auslandsjournal — Siegen um jeden Preis]] |
+| **Transkript** | `Gedankenwelten/Transkripte/TrumpEffekt_79_SiegenUmJedenPreis_Transkript.txt` |
+| **Mit** | Elmar Theveßen (Washington), Katrin Eigendorf (Jerusalem), Ulf Röller (Brüssel) |
+| **Doku-Tipp** | [Trumps Machtprobe — Amerika vor den Midterms](https://www.zdf.de/play/dokus/auslandsjournal-die-doku-130/usa-doku-trumps-machtprobe-midterms-100) |
+| **Spur** | [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028]] |
+| **Produktion** | BosePark Productions im Auftrag des ZDF auslandsjournal |
+
 ## DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt (30.08.2026)
 
 | | |
@@ -5408,3 +5420,22 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Grönland** | [House of Commons Library CBP-10472](https://commonslibrary.parliament.uk/research-briefings/cbp-10472/) · [CBP-12214](https://commonslibrary.parliament.uk/research-briefings/cbp-12214/) · [Staatsministerium DK](http://english.stm.dk/press/press-releases/agreement-between-greenland-denmark-and-the-united-states/) |
 | **USA in Europa** | [Notes from Poland (Noem)](https://notesfrompoland.com/2025/05/27/trump-security-secretary-noem-endorses-polish-conservative-presidential-candidate-at-cpac-poland/) · [WHQR/NPR (Vance in Budapest)](https://www.whqr.org/2026-04-07/vp-vance-is-in-budapest-to-support-hungarian-pm-orban-who-is-trailing-in-the-polls) · [CNN (Demokratiefonds)](https://www.cnn.com/2026/10/02/politics/trump-administration-shifts-funds-from-human-rights-to-supporting-far-right-causes) · [Al Arabiya (NATO Ankara)](https://english.alarabiya.net/News/world/2026/07/08/nato-allies-confirm-ironclad-commitment-to-collective-defense-in-summit-declaration) |
 | **Notiz** | [[Panorama/Geopolitik]] · [[Spuren/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen]] |
+
+## Heino Falcke — Urknall, Schwarze Löcher und Gott (Hotel Matze)
+
+| | |
+|---|---|
+| **Gespräch** | [Astrophysiker Heino Falcke über den Urknall, schwarze Löcher und Gott](https://www.youtube.com/watch?v=0Hg-w6XKQS8) (Hotel Matze, 30.09.2026) |
+| **Bücher** | [Zwischen Urknall und Apokalypse](https://www.klett-cotta.de/produkt/zwischen-urknall-und-apokalypse-9783608966558-t-9119) · [Licht im Dunkeln](https://www.klett-cotta.de/produkt/licht-im-dunkeln-9783608983555-t-5066) · [Kekskrümel im All](https://www.fischer-sauerlaender.de/buch/heino-falcke-dagmar-falcke-kekskruemel-im-all-wie-gross-ist-die-unendlichkeit-9783737372473) |
+| **Weiteres** | [ESO eso1907 — erstes Bild M87*](https://www.eso.org/public/germany/news/eso1907/) · [EHT-Pressemitteilung 10.04.2019](https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole) · [ZEIT „Nur eine Frage“: Gibt es Gott?](https://www.youtube.com/watch?v=nD7VDEbSXPQ) · [Falcke, Melia & Agol 2000](https://doi.org/10.1086/312423) |
+| **Notiz** | [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott]] · [[DenkerVita/Heino Falcke]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Falcke_Urknall_Gott_Transkript.txt` |
+
+## Barbara Prainsack — Solidarität NEU DENKEN
+
+| | |
+|---|---|
+| **Gespräch** | [Solidarität NEU DENKEN mit Barbara Prainsack](https://www.youtube.com/watch?v=TR1aJY6gS-Q) (NEU DENKEN mit Maja Göpel, 27.10.2026) |
+| **Bücher & Texte** | [States of Solidarity (OUP)](https://academic.oup.com/book/61834) · [Data Solidarity (Big Data & Society)](https://journals.sagepub.com/doi/full/10.1177/2053951719829773) · [Solidarity in Biomedicine and Beyond (CUP, mit Alena Buyx)](https://www.cambridge.org/de/universitypress/subjects/law/medico-legal-bioethics-and-health-law/solidarity-biomedicine-and-beyond) · [PLUTO](https://pluto.univie.ac.at/) |
+| **Notiz** | [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN]] · [[DenkerVita/Barbara Prainsack]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Prainsack_Solidaritaet_Transkript.txt` |

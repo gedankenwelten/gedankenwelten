@@ -349,6 +349,10 @@ Ein anderer Stammbaum desselben Menschenbilds, über Hobbes, Friedman und Hayek,
 
 Lucs Gedanke zeigt den Homo oeconomicus im Alltag: Er rechnet den Vorteil im Moment des Wurfs und vergisst den Bogen. Mit Axelrods *Schatten der Zukunft*: Betrug lohnt sich nur, wer glaubt, dem anderen nie wieder zu begegnen.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#Der Bazillus Wenn auch die Demokraten tief gehen|auslandsjournal — Siegen um jeden Preis]]
+
+Ulf Röller fürchtet, dass „When they go low, we go high“ vergessen wird, wenn der Kulturkampf auch die Demokraten erfasst — eine Probe auf Neimans Asymmetrie der Heuchelei.
+
 ---
 
 ## Weiterdenken

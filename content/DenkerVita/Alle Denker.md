@@ -270,6 +270,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Hasnain Kazim|Hasnain Kazim]]** — Journalist und Autor, ehem. *Spiegel*-Korrespondent (Islamabad, Istanbul, Wien), zuvor Marineoffizier; *Post von Karlheinz*, *Auf sie mit Gebrüll!*, *Deutschlandtour* — Antworten statt Blockieren, Streit als demokratische Kulturtechnik
 
+**[[DenkerVita/Heino Falcke|Heino Falcke]]** — Astrophysiker und Radioastronom (Radboud-Universität Nimwegen); Mitbegründer des Event Horizon Telescope und Vorsitzender seines Wissenschaftsrats beim ersten Bild eines Schwarzen Lochs (2019), evangelischer Prädikant — Glaube und Wissenschaft als dieselbe Suche
+
 **[[DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta Institut; die Bundesrepublik erzählt über ihre Generationen, die Statusangst der Mitte, Stimmungen als soziale Tatsache; umstritten als Corona-Berater
 
 **[[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland
@@ -523,6 +525,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Dirk Oschmann|Dirk Oschmann]]** — Literaturwissenschaftler (Leipzig), liest „den Osten“ als westdeutsche Zuschreibung und die Ost-West-Ungleichheit als materielle Frage; Gegenspieler von Kowalczuks „Freiheitsschock“
 
 ## P
+
+**[[DenkerVita/Barbara Prainsack|Barbara Prainsack]]** — Politikwissenschaft (Universität Wien), versteht Solidarität als Praxis und Gestaltungsprinzip für Institutionen, von der Medizin über Daten bis zum Klima.
 
 **[[DenkerVita/Patrick Legun|Patrick Legun]]** — Aktivist, Filmemacher und Lehramtsstudent aus Aachen, Gründer der Hilfsorganisation humanvoll; von „Random Acts of Kindness“ auf Social Media zur Reportage aus den pakistanischen Ziegeleien — Freikauf aus der Schuldknechtschaft, Hilfe mit Mitbestimmung statt Spendenapparat
 

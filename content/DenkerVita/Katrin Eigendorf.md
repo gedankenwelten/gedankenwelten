@@ -96,5 +96,6 @@ Die zweiten Moskauer Jahre (2015–2018) und die frühe Arbeit über die russisc
 
 ## Gedankenwelten-Notes
 
+- [[Zeitgeist/auslandsjournal — Siegen um jeden Preis|Siegen um jeden Preis — Vier Wahlen und die Frage, wer verlieren kann]]
 - [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]]
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus|Trump allein zu Haus — Das One-and-Done-Syndrom]]

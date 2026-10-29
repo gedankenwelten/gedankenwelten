@@ -306,6 +306,10 @@ Clüver Ashbrook greift Bannons Formel auf und dreht sie weiter: In Trumps zweit
 
 Das Panorama zeichnet das Netz der globalen Rechten. Diese Note und die Vita präzisieren den Bannon-Teil darin: Die Guardian-Zählung ist ein Beispiel für Netzwerk-Kartierung, die eine Legende auch schrumpfen lassen kann.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#Der Bazillus Wenn auch die Demokraten tief gehen|auslandsjournal — Siegen um jeden Preis]]
+
+Zehn Jahre später erinnert Ulf Röller an denselben Gegenschlag nach „Access Hollywood“ und sieht die Technik inzwischen auf beiden Seiten; sein Bild vom kontaminierten Boden der Information ergänzt „flood the zone“ um die Lüge.
+
 ---
 
 ## Weiterdenken

@@ -367,6 +367,10 @@ Hanna Notte ordnet „Wegwerfagenten“, die Schließung des Russischen Hauses u
 
 Die Desinformations-Schwester der Wegwerf-Agenten: Bauschaum mit Habeck-Aufkleber, Schweineköpfe vor Pariser Moscheen, jeweils so angelegt, dass die Tat einer anderen Gruppe zugeschrieben wird, und im Leak als Projekterfolg abgerechnet.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#Serbien und Brasilien einer räumt ein, einer flieht|auslandsjournal — Siegen um jeden Preis]]
+
+In Folge #79 kehrt das Muster teilweise wieder (die Zahl 150, ausgelassene Gegenbefunde), doch Röllers Widerspruch gegen die eigene Runde zeigt das Gegenmittel.
+
 ---
 
 ## Weiterdenken

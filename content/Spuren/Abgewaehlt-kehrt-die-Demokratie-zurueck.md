@@ -326,6 +326,10 @@ Netanjahu.
 Bianchi und Kollegen nennen ein Umfeld, das autoritäre Herrschaft hinnimmt, als einen Grund, warum Erholungen scheitern.
 Das Panorama zeigt, wie dieses Umfeld vernetzt ist.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#Serbien und Brasilien einer räumt ein, einer flieht|auslandsjournal — Siegen um jeden Preis]]
+
+Drei ZDF-Korrespondenten legen am 28.10. Israel, Brasilien, Serbien und die USA nebeneinander: Vučić räumt ein, Bolsonaro flieht nach Miami, der Likud ficht arabische Stimmen an; Ulf Röller fragt, gegen wen „Justiz als Waffe“ eigentlich gerichtet ist.
+
 ---
 
 ## Quellen

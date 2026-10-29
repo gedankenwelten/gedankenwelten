@@ -3,6 +3,9 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Barbara Prainsack
+**Status:** ✓ Vollanalyse — [[DenkerVita/Barbara Prainsack]]
+
 ## Ernst Gelegs
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ernst Gelegs]]
 
@@ -1264,3 +1267,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Riwan Driouich
 **Status:** ✓ Vollanalyse → [[DenkerVita/Riwan Driouich]]
+
+## Heino Falcke
+**Status:** ✓ Vollanalyse → [[DenkerVita/Heino Falcke]]

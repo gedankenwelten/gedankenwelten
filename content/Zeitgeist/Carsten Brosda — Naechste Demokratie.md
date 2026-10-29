@@ -364,6 +364,10 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Neiman vermisst wie Brosda das Bild von einem gerechteren Morgen und spottet über „mehr Netto vom Brutto“. Sie setzt aber genau auf das Wort, das Brosda zu transaktional ist: Gerechtigkeit, für Neiman der Moralbegriff überhaupt und das Gegenteil des Bösen.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#Der Bazillus Wenn auch die Demokraten tief gehen|auslandsjournal — Siegen um jeden Preis]]
+
+Levitskys und Ziblatts Leitplanken in einer Wahlwoche: Ulf Röller sieht die Zurückhaltung auf beiden Seiten schwinden und nennt das den „Bazillus“.
+
 ---
 
 ## Weiterdenken

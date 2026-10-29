@@ -184,6 +184,10 @@ Eine Wir/Sie-Neuziehung in der Praxis: Zeigen verschiebt die Frontlinie des Naho
 
 Mouffes legitimer Gegner hat einen Vorläufer in Bubers echtem Gespräch, das den anderen als Person bestätigt, ohne ihn zu billigen. Bei Levinas beginnt die Politik mit dem Dritten, der das Gegenüber unterbricht.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#„Heute sind Demokratien entweder oder“|auslandsjournal — Siegen um jeden Preis]]
+
+Die Wahlen einer Oktoberwoche 2026 als Probe auf die Frage aus Abschnitt 5, was geschieht, wenn eine Partei dem Gegner die Legitimität abspricht; Ulf Röller nennt diesen Zustand „entweder oder“.
+
 ---
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]

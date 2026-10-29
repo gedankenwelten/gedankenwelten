@@ -203,6 +203,10 @@ Wie ein Wort die Bewertung verschiebt, zeigt die Pressemitteilung zum Halle-Gede
 
 Uwe Krüger kritisiert dieselben Berufsnormen von der anderen Seite her: einen Meinungskorridor, der zu eng geworden ist und nur noch den Elitendiskurs abbildet.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#Amerika fünf Tage vorher Was Theveßen aufzählt|auslandsjournal — Siegen um jeden Preis]]
+
+Drei ZDF-Korrespondenten bringen Beispiele „auf beiden Seiten wohlgemerkt“, und Ulf Röller sieht den „Bazillus“ auch bei den Demokraten; ob das Ausgewogenheit vorführt oder einen Befund trägt, ist hier die Frage.
+
 ---
 
 ## Weiterdenken

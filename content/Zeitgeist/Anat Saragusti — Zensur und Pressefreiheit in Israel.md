@@ -224,6 +224,10 @@ Dieselbe Reise, zwei Wochen später: Der frühere Schin-Bet-Chef beschreibt den 
 
 Die Ergänzung eine Ebene tiefer: Wo Saragusti beschreibt, wie Redaktionen aufhören zu zeigen, beschreibt Etkes, wie das Bildungssystem nie gezeigt hat — zwei Generationen mit Schulkarten ohne Grüne Linie. Eine Information fällt weg, die andere hat nie existiert.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#Zweifel säen die verschleierte Frau, zweimal|auslandsjournal — Siegen um jeden Preis]]
+
+Am Tag nach der Knesset-Wahl traut Katrin Eigendorf den Institutionen zu, die Likud-Anfechtung arabischer Stimmen abzuwehren — die Probe auf den Befund, dass sie halten, aber allein.
+
 ---
 
 ### → [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]

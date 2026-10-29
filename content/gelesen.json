@@ -1,12 +1,12 @@
 {
- "stand": "2026-10-29",
+ "stand": "2026-10-30",
  "tage": 30,
  "zaehlt": "leser-sitzungen",
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 877,
-   "aufrufe": 1045
+   "leser": 878,
+   "aufrufe": 1046
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -109,11 +109,6 @@
    "aufrufe": 9
   },
   {
-   "pfad": "/DenkerVita/Marc-Felix-Serrao",
-   "leser": 8,
-   "aufrufe": 8
-  },
-  {
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
    "leser": 7,
    "aufrufe": 9
@@ -144,11 +139,6 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Cordula-Tutt",
-   "leser": 6,
-   "aufrufe": 9
-  },
-  {
    "pfad": "/DenkerVita/Marcant",
    "leser": 6,
    "aufrufe": 7
@@ -160,6 +150,11 @@
   },
   {
    "pfad": "/DenkerVita/Hartmut-Rosa",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Marc-Felix-Serrao",
    "leser": 6,
    "aufrufe": 6
   },
@@ -177,6 +172,11 @@
    "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
    "leser": 6,
    "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Cordula-Tutt",
+   "leser": 5,
+   "aufrufe": 8
   },
   {
    "pfad": "/DenkerVita/Torsten-Heinrich",
@@ -320,8 +320,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 12,
-     "aufrufe": 15
+     "leser": 11,
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -455,11 +455,6 @@
     },
     {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 2,
      "aufrufe": 2
     },
@@ -607,6 +602,11 @@
      "pfad": "/DenkerVita/Arthur-Schopenhauer",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Barbara-Tversky",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 877,
-     "aufrufe": 1045
+     "leser": 878,
+     "aufrufe": 1046
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -719,11 +719,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 7,
      "aufrufe": 9
@@ -754,11 +749,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Cordula-Tutt",
-     "leser": 6,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/DenkerVita/Marcant",
      "leser": 6,
      "aufrufe": 7
@@ -770,6 +760,11 @@
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "leser": 6,
      "aufrufe": 6
     },
@@ -787,6 +782,11 @@
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 6,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Cordula-Tutt",
+     "leser": 5,
+     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Torsten-Heinrich",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 944,
-     "aufrufe": 1134
+     "leser": 945,
+     "aufrufe": 1135
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 944,
-     "aufrufe": 1134
+     "leser": 945,
+     "aufrufe": 1135
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1579,11 +1579,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 7,
      "aufrufe": 7
@@ -1614,11 +1609,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Cordula-Tutt",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 6,
      "aufrufe": 6
@@ -1629,7 +1619,17 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Cordula-Tutt",
      "leser": 5,
      "aufrufe": 5
     },

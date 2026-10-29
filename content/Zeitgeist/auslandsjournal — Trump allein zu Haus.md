@@ -235,6 +235,10 @@ Gegenperspektive zum One-and-Done-Syndrom: Clüver Ashbrook warnt, dass die stru
 
 Derselbe Korrespondent, der lange Vortrag hinter dem kurzen Sendungsstück. Das „One-and-Done-Syndrom“ kehrt dort als geopolitische Struktur wieder (Grönland, Taiwan als „Verhandlungschip“, Peking-Inszenierung) — beide lesen Trumps imperiale Posen als Signal von Schwäche, nicht Stärke.
 
+### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis#„Heute sind Demokratien entweder oder“|auslandsjournal — Siegen um jeden Preis]]
+
+Fünf Monate später zieht dieselbe Runde die Linie weiter: Ulf Röller nennt Demokratien „entweder oder“, weil beide Seiten mit dem Sieg der anderen den Weltuntergang erwarten, und legt die Hoffnung in die Wähler.
+
 ---
 
 ## Weiterdenken

@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **30.10.** — [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+>
+> Solidarität lässt sich nicht einfordern, nur üben. Barbara Prainsack zeigt, wann sie giftig wird, warum Nullsummendenken sie aushöhlt und wie Institutionen gebaut sein müssten, die niemanden demütigen.
+
+> **30.10.** — [[Zeitgeist/auslandsjournal — Siegen um jeden Preis|Siegen um jeden Preis — Vier Wahlen und die Frage, wer verlieren kann]]
+>
+> Israel, Brasilien, Serbien, die USA: In einer Woche wird viermal gewählt, und überall hängt die Demokratie an der Frage, ob der Verlierer sein Verlieren annimmt.
+
 > **29.10.** — [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 >
 > Ein Jahr Merz, gemessen an den eigenen Prognosen: Einer räumt seinen Irrtum ein, an Gaza zerbricht die Runde fast, und Ulrike Herrmann rechnet die Umverteilung nach oben vor.
@@ -36,17 +44,13 @@ Die Gedankenwelten (luc)
 >
 > Darf man ein Volk mit Bomben vor seinem Regime retten? Der Völkerrechtler Kai Ambos sagt: nach dem Recht nicht, und das Recht ist nicht schuld, sondern die Staaten, die es nicht durchsetzen.
 
-> **28.10.** — [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
->
-> Wenn der Kuchen nicht mehr wächst, müssen Löhne oder Steuern schrumpfen, damit die Gewinne steigen. Ein Forscher sagt, das treibe Europa nach rechts. Ein YouTuber erzählt es weiter, und dabei wird aus einer Wirkung eine Absicht.
-
-> **28.10.** — [[Zeitgeist/FRONTLINE — Bannons War|FRONTLINE — Bannon’s War]]
->
-> Ein Arbeitersohn, der den Glauben an die Institutionen verlor und beschloss, sie einzureißen. FRONTLINE zeigt Bannons Weg, der Guardian, wie weit sein Netz in Europa trug.
-
-> → *15 weitere in* [[Zeitgeist]]
+> → *17 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
+
+> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+>
+> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
 
 > **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 >
@@ -64,13 +68,13 @@ Die Gedankenwelten (luc)
 >
 > Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
 
-> **28.10.** — [[Geistesblitz/Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
->
-> Was wir loswerden wollen, soll uns erst wärmen: Ein Duisburger Start-up will CO₂ statt Wasser durch heißes Gestein schicken. Die Physik trägt, das Nadelöhr ist der Ort.
-
-> → *1 weitere in* [[Geistesblitz]]
+> → *2 weitere in* [[Geistesblitz]]
 
 ### Spuren
+
+> **30.10.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf.
 
 > **29.10.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
 >
@@ -87,10 +91,6 @@ Die Gedankenwelten (luc)
 > **29.10.** — [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
 >
 > Die Maschine wird schneller klüger, als die Welt sich ändert. Die Spur legt beide Kurven nebeneinander, die Fähigkeit und die messbare Wirkung, und schaut bis Ende 2028, ob die zweite nachzieht.
-
-> **29.10.** — [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
->
-> Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
 
 > → *5 weitere in* [[Spuren]]
 
@@ -116,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
 
-> → *12 weitere in* [[Panorama]]
+> → *10 weitere in* [[Panorama]]
 
 ### Denker
 
