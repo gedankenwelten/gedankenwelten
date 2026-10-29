@@ -270,6 +270,6 @@ Klare Ungenauigkeiten werden auch im Fließtext markiert, und zwar mit dem, **wa
 > der Agent Sherlock nutzen es). Ein belegtes Paper gehört mit **DOI** in den `[!success]`-/`[!warning]`-Callout,
 > samt Solidität (Meta-Analyse > Einzelstudie > Preprint) — nicht nur ein Web-Link. **Nie einen DOI aus dem
 > Gedächtnis schreiben:** nur aus `wiss_search.py` oder vorher bei doi.org geprüft; vor dem Deploy
-> `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` (Exit 1 = Phantom-DOI oder zurückgezogenes Paper). Das gilt rubrik-übergreifend
+> `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` (Exit 1 = Phantom-DOI, zurückgezogenes Paper oder ein DOI, der zu einem *anderen* Paper gehört als dem zitierten — seit 29.10.2026 gleicht das Skript die Autoren im Zitat mit denen des DOI ab). Das gilt rubrik-übergreifend
 > (Zeitgeist, Denker, Geistesblitz), überall wo empirische Ansprüche im Spiel sind. Andreas ist Fan der
 > Wissenschaft — sie ist die zweite Säule neben Vipassana und im Core immer mitzudenken.

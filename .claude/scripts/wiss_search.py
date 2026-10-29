@@ -239,7 +239,7 @@ def doi_status(dois):
     for i in range(0, len(dois), 50):
         teil = dois[i:i + 50]
         qs = {"filter": "doi:" + "|".join(teil), "per_page": "50", "mailto": MAILTO,
-              "select": "doi,display_name,publication_year,is_retracted,primary_location"}
+              "select": "doi,display_name,publication_year,is_retracted,primary_location,authorships"}
         try:
             data = _get("https://api.openalex.org/works?" + urllib.parse.urlencode(qs))
         except Exception as e:
@@ -253,6 +253,11 @@ def doi_status(dois):
                 "zurueckgezogen": bool(w.get("is_retracted")),
                 "verlag": src.get("host_organization_name"),
                 "zeitschrift": src.get("display_name"),
+                # Nachnamen der ersten Autoren — damit doi_pruefung sehen kann, ob ein DOI zu dem
+                # Paper gehört, das die Note meint (29.10.2026: ein Twitter-Paper stand als „Petersen“)
+                "autoren": [(a.get("author") or {}).get("display_name")
+                            for a in (w.get("authorships") or [])[:6]
+                            if (a.get("author") or {}).get("display_name")],
             }
         if i + 50 < len(dois):
             time.sleep(0.2)   # höflich bleiben; OpenAlex erlaubt 10/s

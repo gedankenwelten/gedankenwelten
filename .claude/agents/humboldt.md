@@ -90,8 +90,8 @@ tags: [denker-vita, <thema>, ...]
 - [Titel](URL) — Kurzbeschreibung
 
 ## Kernthesen
-- These 1
-- These 2
+- These 1 *(Beleg: [▶ 12:34](…) in [[Note]] · oder Werk, Kapitel/Seite · oder Interview mit Link)*
+- These 2 *(Beleg: …)*
 
 ## Politische / ideologische Einordnung
 *(nur wenn relevant und belegbar — weglassen bei Wissenschaftlern ohne klare Haltung)*
@@ -153,6 +153,17 @@ Kompakte Stichpunkte, **max. 300 Wörter**:
 >   Zusammenhang einer anderen gestellt.
 > - **Gegenwart prüfen:** „arbeitet bei“, „schreibt für“, „ist Mitglied“ nur, wenn eine aktuelle Quelle es trägt —
 >   sonst Vergangenheit oder weglassen.
+> - **Jede Kernthese mit Beleg, sonst nicht in die Vita** (seit 29.10.2026). Eine Kernthese sagt, was die
+>   Person *denkt* — darum muss sie sich auf eine Stelle zurückführen lassen, an der die Person das selbst
+>   sagt oder schreibt: ein Zeitstempel im Transkript einer Gedankenwelten-Note, ein Werk mit Kapitel oder
+>   Seite (Verlagstext, Leseprobe), ein Interview mit Link. Der Beleg steht kurz in Klammern hinter der
+>   These. Vor dem Schreiben jede These gegen die verlinkten Notes der Person lesen: Sagt die Note dasselbe,
+>   oder das Gegenteil? Was sich nicht belegen lässt — auch eine plausible Zuspitzung, auch „aus dem
+>   Gedächtnis sicher“ —, kommt nicht hinein; lieber drei belegte Thesen als sechs. Anlass: Im Aristarch-
+>   Durchgang über 20 Vitas (29.10.2026) standen erfundene Thesen über lebende Menschen — Kurz
+>   („Gefährlichkeits-Scores“, ein Zitat, das es nicht gibt), Jakob (Desinformation als „Kernfeld“), Schaupp
+>   („Klassenkollaboration der Gewerkschaften“), Redecker („nicht Rassenideologie“, ihre Note sagt das
+>   Gegenteil). Andreas: „kannst gerne machen“.
 > - **Steigerungen nur mit Quelle, die genau diesen Grad trägt** (seit 29.10.2026): „der genaueste“, „als
 >   Einziger“, „vollständig offengelegt“, „bundesweit bekannt“, „gilt als die Stimme“. Sonst eine Stufe tiefer
 >   („einer der wenigen“, „auf Nachfrage“) oder mit Namen der Quelle („der Forward nannte ihn …“). Herkunft

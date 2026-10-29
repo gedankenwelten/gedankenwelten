@@ -64,7 +64,7 @@ Fehler bisher am häufigsten waren, vor allem unsere eigenen und ihre Ursachen. 
    stieg aus, nicht Marcant)?
 3. **Studien und empirische Claims.** Gegen die Forschung, nicht die Presse:
    `python3 .claude/scripts/wiss_search.py "…"`. Jeder DOI:
-   `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` (Exit 1 = Phantom-DOI oder Rücknahme).
+   `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` (Exit 1 = Phantom-DOI, Rücknahme oder **fremdes Paper**: das Zitat nennt Autoren, die nicht zum DOI gehören).
    Nie einen DOI aus dem Gedächtnis.
 4. **Unsere eigenen Sätze** — hier liegen die gefährlichsten Fehler, weil niemand sie dem Sprecher
    zuschreiben kann: Aufmacher-Callout, `description:`, Einordnungen, Faktencheck-Callouts (stimmt
