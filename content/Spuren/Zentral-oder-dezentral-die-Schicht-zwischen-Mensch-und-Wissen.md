@@ -10,10 +10,10 @@ tags:
   - überwachung
   - year-2026
 status: offen
-konfidenz: 37%
+konfidenz: 34%
 review-takt: 30-tage
 eroeffnet: 2026-06-15
-aktualisiert: 2026-10-11
+aktualisiert: 2026-10-29
 description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird."
 ---
 
@@ -41,7 +41,7 @@ description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sonder
 
 ## Die These
 
-> **Stand (Konfidenz 37 %, seit 11.10.2026):** Der eigentliche Machtkampf der KI-Ära läuft auf der Achse
+> **Stand (Konfidenz 34 %, seit 29.10.2026):** Der eigentliche Machtkampf der KI-Ära läuft auf der Achse
 > **Zentralisierung gegen Dezentralisierung**, nicht auf der Achse „wer hat das beste Modell". Die
 > Geschäftsmodelle der heutigen US-Champions (OpenAI, Anthropic, Google, Meta) *verlangen*
 > Zentralisierung — sie monetarisieren Modell-Knappheit, Cloud-Miete oder die Datenader. Eine seltsame
@@ -88,6 +88,118 @@ verschiedene Richtungen; das ist die Ehrlichkeit der These.*
 > eine Beobachtung trennt zwei Deutungen, die heute nicht zu trennen sind.
 
 ## Verlauf
+
+### 2026-10-29 — Das Geld folgt den offenen Tokens, die Spitze zieht davon, und lokal wird teuer (Konfidenz 37 % → 34 %)
+
+*Dieser Sweep nimmt auf Andis Wunsch die Datenader genauer in den Blick: private und lokale KI. Was vor dem 11.10.
+geschah und bisher fehlte, ist als Nachtrag markiert.*
+
+**Befund — Modell und Cloud:**
+
+(1) **Offene Modelle holen beim Geld auf.** Im September liefen nach dem [Vercel AI Gateway Production Index (15.10.)](https://vercel.com/blog/ai-gateway-production-index-october-2026)
+71,5 % der Tokens über offene Modelle, und sie bekamen 23 % der Ausgaben (August: 14 %). Anthropics Anteil an den
+Ausgaben fiel von 63,7 % auf 43,9 %. *Provenienz:* Router zwischen Modellen, Ausgaben aus Listenpreisen geschätzt, und
+die Einstufung als offen folgt nach Vercels eigenen Worten „a broader definition than in earlier reports“.
+
+(2) **Die Preise sinken am offenen Ende weiter.** Moonshot verlangt für Kimi K3.1 Pro (23.10.) 2 $ / 10 $ je Million
+Tokens, K3 kostete 3 $ / 15 $ ([MarkTechPost](https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/)).
+Google bringt Gemini 4 Carbon (28.10.) zum Einführungspreis von 2 $ / 10 $, danach 4 $ / 20 $
+([Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)).
+
+(3) **Der Abstand zur Spitze geht wieder auf.** Im neu gebauten Index von Artificial Analysis (27.10.): „The open
+weights gap widens from 3 points to 12“; die besten tatsächlich veröffentlichten Gewichte liegen 26 Punkte hinter der
+Spitze ([Artificial Analysis](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)).
+Epoch AI sieht offene Modelle bei Cyber-Fähigkeiten dort, wo die geschlossenen vor 6–7 Monaten standen
+([Epoch, 16.10.](https://epoch.ai/data-insights/open-closed-cyber-eci-gap)).
+
+(4) **Jevons: Die Ausgaben für Rechenleistung steigen weiter.** Azure wächst um 48 %, Microsoft plant 170 Mrd. $ für
+2027 ([CNBC, 28.10.](https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html)). Googles
+Cloud-Umsatz verdoppelt sich mehr als, auf 30,7 Mrd. $, bei negativem freiem Cashflow von 9,07 Mrd. $
+([CNBC, 28.10.](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html)); die Aktie verliert am Tag
+danach 13 % ([CNBC, 29.10.](https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html)).
+Meta hebt die Jahresplanung auf 135–145 Mrd. $, der freie Cashflow ist negativ, die Kreditausfallversicherungen stehen
+auf Rekordhoch ([CNBC, 22.10.](https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html)).
+Amazon berichtet erst heute Abend.
+
+(5) **Nvidia und Hugging Face:** Das US-Justizministerium fragt nach den Folgen der Übernahme für Wettbewerber
+([CNBC, 28.10.](https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html),
+eine anonyme Quelle).
+
+(6) **China-Sonde.** Keine Bewegung bei den US-Chipkontrollen. Dafür will China selbst Modelle ab 10²⁶ FLOPs, ab
+2 Billionen Parametern oder unter den weltweit besten zehn der Exportkontrolle unterwerfen; schon Veröffentlichtes ist
+ausgenommen, eine Open-Source-Veröffentlichung soll „automatic licensing“ erhalten, Kommentare bis 15.11.
+([Baker McKenzie](https://sanctionsnews.bakermckenzie.com/china-proposes-expanded-export-controls-on-ai-biopharma-and-solar-energy-technologies/) ·
+[The Decoder](https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/)).
+Kimi K3.1 Pro hat 2,8 Billionen Parameter und kündigt die Gewichte „by Nov 4“ an ([Kimi](https://www.kimi.ai/blog/kimi-k3-1-pro)).
+Das US-Heimatschutzministerium ordnet an, DeepSeek aus den Systemen ziviler Bundesbehörden zu entfernen
+([TechCrunch, 20.10.](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)).
+
+(7) **Meta fährt zweigleisig:** neues Spitzenmodell geschlossen, wenige Tage später Muse Spark Open als offenes Modell
+([Guardian, 16.10.](https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model)).
+
+**Befund — die Datenader: private und lokale KI:**
+
+(8) **[Nachtrag] Apple rechnet auf Googles Servern.** Seit Juni läuft das stärkste Apple-Intelligence-Modell auf
+Nvidia-Hardware in Google Cloud; Private Cloud Compute wurde dafür auf fremde Rechner erweitert
+([Apple Security Research](https://security.apple.com/blog/expanding-pcc/) · [Ars Technica](https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/)).
+Einen Anteil der Anfragen, die auf dem Gerät beantwortet werden, veröffentlicht Apple nicht.
+
+(9) **Lokale Hardware wird teurer, weil die Rechenzentren den Speicher brauchen.** Die PC-Auslieferungen fielen im
+dritten Quartal um 20,1 % auf 62,7 Mio. ([IDC, 08.10.](https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/));
+der Anteil von Arbeitsspeicher und SSD an den PC-Kosten stieg von rund 15 % auf „nearly 40%“
+([Omdia, 09.10.](https://omdia.tech.informa.com/pr/2026/oct/global-pc-shipments-fall-21percent-in-3q26-as-pull-forward-demand-subsides)).
+
+(10) **[Nachtrag] Das lokale Werkzeug wächst in die Cloud.** Ollama meldet 8,9 Mio. Entwickler und schreibt: „On
+average, Ollama's cloud has more than doubled in token volume every month“ ([Ollama, 09.07.](https://ollama.com/blog/all-aboard-open-models)).
+
+(11) **Souveränität wird gewünscht, gekauft wird anderes.** [Nachtrag] 71 % der deutschen Unternehmen nutzen
+US-Cloud-Anbieter, bevorzugen würden es 8 % ([Bitkom Cloud Report](https://www.bitkom.org/sites/main/files/2026-09/bitkom-studienbericht-cloud-report-2026_1.pdf)).
+Bei den Bürgern nutzen 71 % der KI-Nutzenden ChatGPT, 4 % LeChat, und 72 % finden Deutschland zu abhängig von den USA
+([Bitkom](https://www.bitkom.org/sites/main/files/2026-06/bitkom-studienbericht-ki-bevoelkerung.pdf)). ChatGPT hat
+1,2 Mrd. Nutzer pro Woche ([OpenAI, 29.09.](https://openai.com/index/devday-2026-recap/)), die Gemini-App „one
+billion users“ ([Google, 28.10.](https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/)).
+
+(12) **Staaten und Unternehmen bauen eigene Kapazität.** [Nachtrag] Die EU schreibt mindestens sieben AI
+Gigafactories aus, Frist 12.11. ([EU](https://digital-skills-jobs.europa.eu/en/latest/news/eu-ai-gigafactories-call-open-until-12-november-targeting-over-eu30-billion-investment)).
+Mistral: „Most of our customers run our models inside their own data centers and cloud environments today“
+([Mistral, 11.08.](https://mistral.ai/news/regional-inference-open-models-new-compute/)). Das Schweizer Commons-Modell
+Apertus will ausdrücklich nicht an die Spitze: „Apertus is not about competing with frontier models“
+([ETH, 24.07.](https://ai.ethz.ch/news-and-events/ai-center-news/2026/07/apertus-15-building-the-next-generation-of-open-ai-infrastructure.html)).
+
+**Deutung:** Zum ersten Mal feuern beide Richtungen auf derselben Schicht. Beim Geld bewegt sich die Bestätigt-Seite:
+Offene Modelle gewinnen jetzt auch Ausgaben, und Teams wechseln das Labor wie ein Bauteil. Bei der Fähigkeit bewegt
+sich die Widerlegt-Seite: Sobald private Tests zählen, steht die Spitze klar geschlossen da. Das spricht für
+Segmentierung statt Verdrängung — Routine läuft offen, die schwerste Arbeit bleibt geschlossen. Jevons hält, nur
+zweifelt der Markt erstmals deutlich an der Rendite.
+
+In der Datenader zeigt sich derselbe Mechanismus von der anderen Seite: Die zentrale Nachfrage zieht den Speicher in
+die Rechenzentren, und gerade die Geräte, auf denen lokale KI laufen soll, werden teurer und seltener verkauft. Dazu
+trennt sich, was die Spur bei Anlage zusammengedacht hat: *datenblind* und *dezentral* sind zwei Eigenschaften. Apple
+behält das Versprechen der Datenblindheit und gibt den Ort auf; Ollama, das Symbol für „dein Modell, deine Maschine“,
+wächst am schnellsten in der eigenen Cloud. Die Bedingung „Bequemlichkeit schlägt Souveränität“ feuert bei
+Privatleuten deutlich. Souveränität bewegt sich bei Staaten und Unternehmen, aber als souveräne *Zentrale* in
+europäischer Hand, nicht als Dezentralisierung zum Einzelnen. Die China-Sonde bleibt ungetestet; neu ist, dass Peking
+sich eine Option zum Schließen baut. Ob Kimi seine Gewichte am 04.11. liefert, ist der nächste Prüfpunkt.
+
+**Gegenbeobachtung (Pflicht):** **(a)** Beide Kernzahlen beruhen auf geänderten Messungen: Vercel zählt offen jetzt
+breiter, Artificial Analysis gewichtet private Tests neu und hält die Versionen selbst für Zeitvergleiche ungeeignet.
+**(b)** Der Druck auf die Rendite bei Alphabet und Meta ist eine Bestätigt-Bedingung, aber keine Quelle führt ihn auf
+offene Modelle zurück. **(c)** Unternehmen bewegen sich womöglich gegen den Trend der Privatleute: Laut Broadcom
+betreiben oder planen 56 % ihre produktive Inferenz in der Private Cloud ([Broadcom, 09.06.](https://www.broadcom.com/company/news/product-releases/64391)) —
+Broadcom verkauft allerdings Private Cloud. **(d)** Die Speicherknappheit kann ein Zyklus sein, und die lokale Basis
+schrumpft nicht, sie wächst nur langsamer als die Cloud.
+
+> [!info] Private KI — Messgrößen ab 29.10.2026
+> | Kennzahl | Wert | Stand | Quelle |
+> |---|---|---|---|
+> | Anteil offener Modelle an Tokens / Ausgaben (Vercel) | 71,5 % / 23 % | 09/2026 | Vercel |
+> | Abstand offener Gewichte zur Spitze (Artificial Analysis v5) | 12 Punkte (veröffentlicht: 26) | 27.10.2026 | Artificial Analysis |
+> | PC-Auslieferungen weltweit | 62,7 Mio., −20,1 % | Q3/2026 | IDC |
+> | Anteil Speicher an PC-Kosten | ~15 % → fast 40 % | Q3/2026 | Omdia |
+> | US-Cloud: Nutzung gegen Wunsch (deutsche Firmen) | 71 % / 8 % | 06/2026 | Bitkom |
+> | KI-Nutzende mit ChatGPT gegen LeChat (Deutschland) | 71 % / 4 % | 06/2026 | Bitkom |
+> | Cloud-Assistenten | ChatGPT 1,2 Mrd./Woche · Gemini 1 Mrd. | 09–10/2026 | OpenAI, Google |
+> | Anteil auf dem Gerät beantworteter Anfragen | **nicht veröffentlicht** (Apple, Google, Microsoft) | — | — |
 
 ### 2026-10-11 — Die Mehrheit der Tokens ist offen, das Geld bleibt geschlossen (Konfidenz 34 % → 37 %)
 
@@ -233,6 +345,12 @@ sondern Compute, Distribution (800 Mio. ChatGPT-Nutzer) und der Applikationslaye
 die US-Champions von Commoditisierung. Dazu: Bequemlichkeit schlägt fast immer Souveränität.
 
 ## Gleichmut-Spiegel
+
+> [!question] Sweep 29.10.2026 — gleiches Maß für zwei geänderte Messungen
+> Die unbequeme Zahl ist diesmal die 26: Sie wäre leicht als Messartefakt abzutun, gerade weil sie gegen die Hoffnung
+> der Spur spricht. Die 23 % beim Geld würde ich dagegen gern unbesehen nehmen, obwohl sie auf derselben Art
+> Definitionswechsel beruht. Keine der beiden trägt allein. Und Andis eigener Wunsch nach privater KI liegt nahe an der
+> These; darum steht die Datenader-Bilanz, die gegen sie spricht, hier ohne Abschwächung.
 
 > [!question] Sweep 11.10.2026 — das schönste Datum, vom falschen Zeugen
 > Die Zahl 56 % ist das schönste Datum, das diese Spur je hatte, und sie stammt von einem Anbieter, der vom

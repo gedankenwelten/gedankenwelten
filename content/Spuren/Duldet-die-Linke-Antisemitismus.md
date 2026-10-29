@@ -14,7 +14,7 @@ status: offen
 konfidenz: 60%
 review-takt: 30-tage
 eroeffnet: 2026-09-27
-aktualisiert: 2026-10-11
+aktualisiert: 2026-10-29
 description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin."
 ---
 
@@ -88,6 +88,109 @@ Die Grauzone wird nie zu Stufe A gezählt, aber offen ausgewiesen, mit der Angab
 **Sonderregel zur Querachse:** Die Messung der Berichterstattung (unten) darf die Stufe weder heben noch senken. Eine laute Kampagne macht einen Vorwurf weder wahr noch falsch.
 
 ## Verlauf
+
+### 2026-10-29 — Der Fall Emde: Sprechverbot, Vertagung, kein Antrag; die Schritte stehen still (Konfidenz 60 % → 60 %)
+
+*Fenster 11.10.–29.10. Der Recherche-Stand vom 20.10. liegt in `.claude/data/spuren/linke-2026-10-20/`. Gezählt wird
+nach der am 20.10. registrierten Zählregel: Ein Fraktionsausschluss wäre ein Befund unter Kriterium 5, kein Schritt.*
+
+**Befund:**
+
+**Emdes Satz im Original.** In einer Rede, wahrscheinlich auf einer Nakba-Demonstration im Mai, sagte Vanessa Emde: „Es
+gibt kein Existenzrecht für Staaten. Menschen haben ein Recht zu existieren.“ Und: Die Forderung nach einer
+„demokratischen Einstaatenlösung mit gleichen Rechten für alle Menschen“ sei legitim (Ausschnitt, gepostet von der DIG
+Rhein-Neckar am 16.08.). Im Reel vom 15.10. nennt sie die Berliner Vereinbarung einen „Bekenntniszwang … zum
+Existenzrecht Israels und zur Zwei-Staaten-Lösung“ und sagt: „ich nehme keine einzige dieser Aussagen zurück“
+([Instagram](https://www.instagram.com/reel/DehbjkbIYkS/)).
+
+**Führung (Kriterium 2).**
+- Fraktionsvorstand und Landesspitze am 16.10.: „keine gemeinsame Arbeitsgrundlage“, Emde spricht nicht für die Fraktion
+  ([tagesschau/rbb](https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html)).
+- Bundesvorsitzende Schwerdtner am 19.10. bei ntv: „Diese Meinung ist absolut legitim. Es stimmt völkerrechtlich, dass
+  Staaten kein Existenzrecht haben … Ich stimme dem nicht zu, ich sage nur, völkerrechtlich hat sie recht.“
+  ([n-tv](https://www.n-tv.de/politik/Linken-Chefin-Schwerdtner-verteidigt-Aussagen-von-Vanessa-Emde-id31435837.html))
+- Bundeschef Pantisano am 23.10.: „Natürlich haben wir auch Antisemitismus in der Linken.“ Emdes Satz sei
+  „völkerrechtlich … erst einmal nicht falsch. Die Frage ist, was ist politisch intendiert dahinter.“
+  ([t-online](https://berlin.t-online.de/region/berlin/id_101495486/antisemitismus-in-der-berliner-linken-pantisano-im-interview.html))
+- Landeschefin Wolter am 26.10. über Abgeordnete, die nicht „auf den Füßen unseres Programms stehen“: „Und ich dulde
+  nicht, dass das weiter passiert.“ Im selben Interview: Das Existenzrecht Israels stehe „nicht im Widerspruch dazu,
+  den Genozid in Gaza zu verurteilen“ ([taz](https://taz.de/Berlins-Linken-Chefin-Kerstin-Wolter/!6224975/)).
+- Die stellvertretende Landesvorsitzende Kleedörfer auf einer Versammlung des Palästina-Flügels (24./25.10.): „Wir
+  kämpfen gerade sehr stark dafür, dass auch Vedi weiterhin Teil unserer Fraktion bleibt.“
+  ([t-online, 28.10.](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101499274/rot-gruen-rot-in-berlin-linke-zoegert-koalition-mit-spd-und-gruenen-wackelt.html))
+  Mit Co-Landesvize Taheri schreibt sie zugleich, die Einstaatenlösung sei „zwar legitim, aber nicht ihre Position“
+  ([SZ, 27.10.](https://www.sueddeutsche.de/politik/berlin-linke-keine-entscheidung-vanessa-emde-li.3569676)).
+
+**Verfahren und Konsequenz (Kriterien 4 und 5).**
+- Der Fraktionsvorstand berät am 20.10. ohne Ergebnis, Emde hatte sich krankgemeldet
+  ([rbb24](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-israel-kritik-vanessa-emde-abgeordnete.html)).
+  Nach einem Gespräch am 27.10.: „Der Fraktionsvorstand sieht auch nach diesem Gespräch eine gemeinsame Arbeitsgrundlage
+  als nicht gegeben an.“ „Daraus resultierende Prozesse werden wir in den Gremien weiter beraten.“ Ein Ausschlussantrag
+  ist nicht gestellt; nach taz ist das in der Fraktionssitzung am 03.11. möglich
+  ([taz, 27.10.](https://taz.de/Berliner-Linken-Abgeordnete-Vanessa-Emde/!6225621/)). Emde ist nicht ausgetreten.
+- Asya Şenyüz ist fraktionslos; nach einem Sprecher der Linken war sie „schon länger erkrankt“ und hat darum die
+  Erklärung nicht unterschrieben ([rbb24, 28.10.](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-fraktion-abgeordnetenhaus-kleiner.html)).
+  Offiziell Krankheit, keine Sanktion.
+- Die drei Fachleute der Vereinbarung sind nicht benannt, eine neue Fraktionssatzung ist nicht belegt. Die
+  Koalitionsverhandlungen haben nicht begonnen.
+
+**Beschlusslage (Kriterium 1).** Zum Landesparteitag am 31.10. liegen mehrere Anträge gegen die Vereinbarung vor. Antrag
+A3 (Bezirksverband Steglitz-Zehlendorf): „Jeder Versuch, Fraktionsausschlüsse auf der Grundlage dieser Vereinbarung
+einzuführen, wird als Angriff auf die innerparteiliche Demokratie zurückgewiesen.“ A8 (LAG Palästinasolidarität, LAG
+Migrantische Linke) will Debatten „ohne Angst vor … parteiinternen Konsequenzen“; A5 und A16 (Neukölln) wollen die JDA
+als Maßstab ([Anträge, dielinke.berlin](https://dielinke.berlin/landesparteitag/10/2/lpt/)). Der Leitantrag des
+Landesvorstands erwähnt das Thema nicht.
+
+**Gliederungen (Kriterium 3).** Die AG Palästina-Solidarität der Linken Neukölln empfahl am 03.04. die Initiative
+„Kufiyas in Buchenwald“ als Monatskampagne; der Beitrag nennt die Gedenkstätte einen „Ort des
+Geschichtsrevisionismus“, wirft ihr „israelische Propaganda“ vor und behauptet, sie liefere „ideologische Munition für
+den andauernden Genozid“ ([ruhrbarone, 13.10.](https://www.ruhrbarone.de/die-linke-berlin-neukoelln-buchenwald-beschimpfen-mitregieren-wollen/269195/);
+Telegram-Kanal, von der Bezirksseite verlinkt). Der Bezirksverband Neukölln hält an Emde und an seinem
+Bürgermeisterkandidaten fest.
+
+**Stimmen (Querachse, ändern keine Stufe).**
+- Josef Schuster, Zentralrat: „Ich nehme ihr die Abkehr vom Antisemitismus nicht ab.“
+  ([rbb24, 26.10.](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/schuster-antisemitismus-zentralrat-juden-linke.html));
+  „Papier ist geduldig“ ([Jüdische Allgemeine, 29.10.](https://www.juedische-allgemeine.de/politik/zentralrat-der-juden-linke-laesst-sich-von-vanessa-emde-auf-der-nase-herumtanzen/)).
+- Gideon Joffe, Jüdische Gemeinde zu Berlin, gegen den Rauswurf: „Wir sind absolut dagegen“. Emdes Satz über Staaten
+  nennt er korrekt, aber: „sie konfrontiert Israel schon seit geraumer Zeit mit Völkermordvorwürfen und das ist das
+  Antisemitische.“ ([taz](https://taz.de/Linke-Abgeordnete-aus-Neukoelln/!6223015/))
+- Max Privorozki, Jüdische Gemeinde Halle, im September: „Seit dem 7. Oktober 2023 kommt Antisemitismus auch massiv von
+  links“ ([Jüdische Allgemeine, 20.09.](https://www.juedische-allgemeine.de/politik/halle-gemeindevorsitzender-hat-keine-angst-vor-afd-regierung/)),
+  und zur Linken: „Ich begrüße klare Aussagen gegen Antisemitismus. Entscheidend ist aber, was daraus innerhalb der
+  Partei folgt.“ ([MZ-Interview, 25.09., PDF](https://lv-sachsen-anhalt.de/wp-content/uploads/2026/09/Interview_MZ_25092026.pdf))
+  Das ist, in seinen Worten, die Frage von Kriterium 5.
+- Am 29.10. veröffentlicht der SPIEGEL interne Anmerkungen der designierten Regierungschefin Eralp zu einer Frage über
+  den Neuköllner Wahlparty-Gast Ibrahim Ibrahim: „Ich kann mich und meine Familie für den SPIEGEL nicht in Gefahr
+  bringen.“ Eralp: „Ich werde mich von niemandem einschüchtern lassen.“ ([taz/afp/dpa](https://taz.de/Bericht-des-Spiegel/!6225931/))
+  Die Reaktionen reichen von Unterstützung (Jarasch) bis zur Forderung nach Konsequenzen (CDU).
+
+**Deutung:** Auf der Ebene der Worte bewegt sich viel, auf der Ebene der Schritte nichts. Keiner der vier Schritte ist
+erfolgt; die Zählregel muss noch gar nicht greifen, weil es noch keinen Antrag gibt. Die Führung äußert sich nicht
+antisemitisch, aber uneinheitlich: Berlin nimmt den Bruch, Wolter sagt „ich dulde nicht“, Pantisano räumt
+Antisemitismus in der Partei ein, während Schwerdtner Emdes Satz „absolut legitim“ nennt und eine Landesvize für Emdes
+Verbleib „kämpft“. Emdes Satz selbst bleibt nach dem Maßstab dieser Spur **Grauzone**: Die Einstaatenlösung ist nach
+JDA nicht per se antisemitisch, nach IHRA strittig. Wolters und Joffes Rede vom „Genozid“ zeigt die Spannweite der
+Grauzone genau: Dieselbe Vokabel, die die Landeschefin neben dem Existenzrecht Israels verwendet, nennt der Vorsitzende
+der Jüdischen Gemeinde „das Antisemitische“. Auch sie zählt hier als Grauzone, nicht als Kern.
+
+Die Buchenwald-Kampagne der Neuköllner AG steht als **Grenzfall der zweiten Grauzone (Erinnerungsabwehr)**: Sie greift
+eine NS-Gedenkstätte an und spricht ihr die Wahrheit ab, aber aus dem Israel-Streit heraus, nicht als Schuldabwehr im
+klassischen Sinn. Sie wird als Befund unter Kriterium 3 geführt und ändert keine Stufe.
+
+Die Anträge zum Parteitag sind der nächste echte Test. Wird A3 oder A8 beschlossen, hätte ein Parteitag Konsequenzen
+aus der Vereinbarung ausdrücklich abgelehnt — ein Befund gegen Schritt 4 und unter Kriterium 5, keine Stufe A, weil der
+Text selbst nicht im gemeinsamen Kern liegt. Die Einstufung B für Berlin hält.
+
+**Gegenbeobachtung (Pflicht):** **(a)** „Gründlichkeit vor Schnelligkeit“ kann auch heißen, dass ein Verfahren sauber
+gebaut wird, statt unter Druck zu entscheiden. Ein Ausschluss, der in zwei Wochen nach einer Medienkampagne fällt,
+wäre nach dem EHRC-Maßstab nicht besser als einer, der nach Regeln fällt. **(b)** Joffe ist eine jüdische Stimme gegen
+den Rauswurf; die Lesart „die jüdischen Gemeinden verlangen den Ausschluss“ stimmt so nicht. **(c)** Die Eralp-Notiz
+ist laute Querachse und darf nach der Sonderregel die Stufe nicht bewegen. Dass eine Politikerin Angst um ihre Familie
+nennt, sagt etwas über das Klima in Neukölln, aber nichts darüber, ob ihre Partei Antisemitismus duldet.
+
+**Wachpunkte:** Parteitag 31.10. (A3, A8, A16) · Fraktionssitzung 03.11. (Ausschlussantrag?) · Benennung der drei
+Fachleute vor dem Koalitionsvertrag · Bundeskongress der Linksjugend 06.–08.11.
 
 ### 2026-10-11 — Die Berliner Vereinbarung: ein Verfahren für morgen, Widerstand von innen (Konfidenz 60 % → 60 %)
 
@@ -209,7 +312,7 @@ laufen erst seit dem 08.10., realistisch ist frühestens Ende November.
 
 **1 — Beschlusslage: nein im gemeinsamen Kern, ja in der Grauzone.** Der Bundesparteitag in Potsdam beschloss am 19./20. Juni 2026 einen Nahost-Antrag, der Israel als *„Schutzraum für Jüdinnen und Juden“* anerkennt und die Verbrechen der Hamas „ebenso deutlich“ verurteilt wie Netanjahus Kriege. Derselbe Beschluss übernimmt die Völkermord-Einschätzung, fordert Maßnahmen gegen akademische Institutionen, die an der Besatzung beteiligt sind, und lehnt eine Strafbarkeit der Existenzrechts-Leugnung ab ([Beschluss](https://www.die-linke.de/partei/parteidemokratie/parteitag/potsdamer-parteitag/potsdamer-parteitag/beschluesse/detail/news/fuer-gleiche-rechte-im-nahen-osten-westasien-gegen-jeden-rassismus-und-antisemitismus-1/); [taz](https://taz.de/Linkspartei-und-Nahost/!6189319/)). Ein schärferer Gegenantrag fiel durch, bekam aber fast ein Drittel der Delegierten. Der Landesverband Niedersachsen beschloss am 15. März 2026 mit 104 von 157 Stimmen, er *„lehnt den heute real existierenden Zionismus ab“* ([taz](https://taz.de/Andreas-Buettner-tritt-aus-der-Linken-aus/!6163152/)). Der Bundeskongress des Jugendverbands sprach vom *„kolonialen und rassistischen Charakter des israelischen Staatsprojekts“* ([ZDF](https://www.zdfheute.de/politik/deutschland/linksjugend-antisemitismus-schwerdtner-ddr-israel-recherche-100.html)). Nach der JDA fällt all das unter die Leitlinien 11 bis 15, nach der IHRA unter die Beispiele zum Selbstbestimmungsrecht und zu doppelten Standards. **Nach IHRA allein wären der Landesverband Niedersachsen und der Jugendverband auf Stufe A.** Nach dem gemeinsamen Kern ist es kein Beschluss.
 
-**2 — Führung: überwiegend nein, mit zwei Grenzfällen.** Eigene antisemitische Äußerungen der Bundes- oder Landesspitze sind nicht belegt. Eralp sagte am 9. September vor der Jüdischen Gemeinde, Antisemitismus *„existiert auch innerhalb der Linken“* ([ZEIT/dpa](https://www.zeit.de/news/2026-09/09/eralp-grosse-mehrheit-der-linken-fuer-schutz-juedischen-lebens)). Die Landesvorsitzende Wolter räumte am 25. September ein, es seien Äußerungen gefallen, die *„Grenzen überschritten“* und jüdischen Menschen Angst gemacht hätten ([tagesschau](https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html)). Grenzfälle im Sinne des EHRC-Kriteriums, Vorwürfe pauschal abzuwehren: Parteichefin Schwerdtner verteidigte den Neuköllner Fraktionschef Ahmed Abed, der einen israelischen Bürgermeister *„Völkermörder“* nannte, gegen eine *„unsägliche Hetzkampagne“* ([taz](https://taz.de/Debatte-um-Neukoellner-Linken/!6147432/)). Zum Beschluss aus Niedersachsen sagte sie bei Lanz, das sei *„kein Antisemitismus“*, Parteichef van Aken sah ihn *„im Meinungskorridor“*. Beide korrigierten sich wenige Tage später in einer gemeinsamen Erklärung: Der Kompromiss sei *„gescheitert“*, es gebe *„keine Kompromisse“* mit solchen Anträgen ([nd](https://www.nd-aktuell.de/artikel/1198473.erklaerung-der-bundesspitze-linke-spitze-zieht-grenzen.html)).
+**2 — Führung: überwiegend nein, mit zwei Grenzfällen.** Eigene antisemitische Äußerungen der Bundes- oder Landesspitze sind nicht belegt. Eralp sagte am 9. September vor der Jüdischen Gemeinde, Antisemitismus *„existiert auch innerhalb der Linken“* ([ZEIT/dpa](https://www.zeit.de/news/2026-09/09/eralp-grosse-mehrheit-der-linken-fuer-schutz-juedischen-lebens)). Die Landesvorsitzende Wolter räumte am 25. September ein, es seien Äußerungen gefallen, die *„Grenzen überschritten“* und jüdischen Menschen Angst gemacht hätten ([rbb24](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-parteitag-entscheidung-sondierung-gruene-spd.html)). Grenzfälle im Sinne des EHRC-Kriteriums, Vorwürfe pauschal abzuwehren: Parteichefin Schwerdtner verteidigte den Neuköllner Fraktionschef Ahmed Abed, der einen israelischen Bürgermeister *„Völkermörder“* nannte, gegen eine *„unsägliche Hetzkampagne“* ([taz](https://taz.de/Debatte-um-Neukoellner-Linken/!6147432/)). Zum Beschluss aus Niedersachsen sagte sie bei Lanz, das sei *„kein Antisemitismus“*, Parteichef van Aken sah ihn *„im Meinungskorridor“*. Beide korrigierten sich wenige Tage später in einer gemeinsamen Erklärung: Der Kompromiss sei *„gescheitert“*, es gebe *„keine Kompromisse“* mit solchen Anträgen ([nd](https://www.nd-aktuell.de/artikel/1198473.erklaerung-der-bundesspitze-linke-spitze-zieht-grenzen.html)).
 
 **3 — Amtsträger und Gliederungen: ja.** Die Fälle konzentrieren sich auf vier Stellen:
 - **Bezirksverband Neukölln:** Kiezfest mit dem Vereinigten Palästinensischen Nationalkomitee (VPNK) im August 2025, das der Berliner Verfassungsschutz als Plattform von PFLP und Hamas einstuft. Das Statement, dessen Vertreter hätten *„unser vollstes Vertrauen“*, stand im August 2026 noch auf der Website ([Tagesspiegel](https://www.tagesspiegel.de/berlin/vereinigtes-palastinensisches-nationalkomitee-linke-neukolln-ladt-hamas-unterstutzer-zu-veranstaltung-ein-14139170.html); [nd](https://www.nd-aktuell.de/artikel/1202179.meine-sicht-dahabflex-bei-der-linken-mal-wieder-neukoelln.html)). Der Auftritt des Rappers Dahabflex am 29. August 2026 mit *„Yalla Yalla Intifada“*, *„Death to the IDF“* und einer Huldigung der PFLP, nach Aussage eines Co-Vorsitzenden bewusst eingeladen ([taz](https://taz.de/Nahostkonflikt-und-Linke-in-Berlin/!6208815/)). Am Wahlabend Fotos von Mandatsträgern mit Ibrahim Ibrahim, der Sinwar einen „Märtyrerhelden“ nannte. Die Bezirksvorsitzende nannte die Kritik daran *„Kontaktschuldvorwürfe“* ([taz](https://taz.de/Debatte-nach-Wahlsieg/!6211074/)).
@@ -257,6 +360,13 @@ Für das Urteil über die Partei spielt diese Messung nach der eigenen Regel kei
 > - **Wachpunkt Definition:** Das Urteil hängt daran, dass nur der gemeinsame Kern zählt. Wer die IHRA allein anlegt, kommt für Niedersachsen und den Jugendverband zu Stufe A. Wer die JDA allein anlegt, sieht fast nur Grauzone. Die Spur hält beide Rechnungen offen, damit niemand sich die Definition nach dem gewünschten Ergebnis aussucht, auch sie selbst nicht.
 > - **Verlangen, erste Woche (04.10.):** Die Bewegung nach vorn, Satzung und Vorgespräche, fühlt sich an wie Einsicht, und genau das ist die Falle. Ohne die vorab festgelegte Regel hätte dieser Sweep die Satzung womöglich schon als Schritt 4 gezählt. Die Präzisierung steht deshalb vor dem 6. Oktober in der Falsifikation, nicht danach.
 > - **Wachpunkt Hauptschauplatz:** Neukölln ist, wo die Kameras stehen. Künftige Sweeps suchen auch daneben: andere Landesverbände, Kommunalparlamente, die Arbeit der BAG Shalom, und die Fälle, in denen die Partei gehandelt hat und niemand darüber berichtet.
+
+> [!question] Sweep 29.10.2026 — der Leser liest strenger als der Maßstab
+> Andi bevorzugt die Zwei-Staaten-Lösung. Emdes Satz, Staaten hätten kein Existenzrecht, und ihre Einstaatenlösung
+> liest er darum strenger, als der Maßstab dieser Spur es verlangt. Gemessen wird am Maßstab, nicht an der Präferenz:
+> Die Einstaatenlösung ist nach JDA nicht per se antisemitisch, und darum bleibt der Satz Grauzone. Die zweite
+> Versuchung geht in die Gegenrichtung: Joffes Widerspruch gegen den Rauswurf fühlt sich an wie Entlastung. Er ist es
+> nur für den Rauswurf, nicht für den Genozidvorwurf, den er im selben Atemzug antisemitisch nennt.
 
 > [!question] Sweep 11.10.2026 — es zieht in beide Richtungen zugleich
 > Die Vereinbarung und eine Spitze, die gegen 120 Kritiker standhält, fühlen sich an wie Einsicht, also wie Stufe C. Die

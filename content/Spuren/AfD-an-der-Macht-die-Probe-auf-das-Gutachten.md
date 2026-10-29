@@ -13,7 +13,7 @@ status: offen
 konfidenz: 63%
 review-takt: 30-tage
 eroeffnet: 2026-07-06
-aktualisiert: 2026-10-11
+aktualisiert: 2026-10-29
 description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat."
 ---
 
@@ -199,6 +199,27 @@ nimmt (Gesetz, Antrag, Verwaltungsakt, Haushaltstitel) — Reden und Codes bleib
 nicht als Bestätigung gewertet. Dieselbe Strenge, die das Gutachten glaubwürdig macht, gilt auch hier.
 
 ## Verlauf
+
+### 2026-10-29 — Nachtrag: eine Stimme aus Halle (Konfidenz 63 % → 63 %)
+
+**Befund:** Max Privorozki, Vorsitzender der Jüdischen Gemeinde Halle, sagt im September vor der Landtagswahl, eine
+AfD-Regierung mache ihm „keine Angst“; in der AfD gebe es „definitiv Antisemiten“, „aber die AfD ist nicht die größte
+Bedrohung für jüdisches Leben. Seit dem 7. Oktober 2023 kommt Antisemitismus auch massiv von links“
+([Jüdische Allgemeine, 20.09.](https://www.juedische-allgemeine.de/politik/halle-gemeindevorsitzender-hat-keine-angst-vor-afd-regierung/)).
+Im MZ-Interview: „Entscheidend ist für mich, ob eine Partei ihn in den eigenen Reihen erkennt und bekämpft, statt nur
+auf andere zu zeigen.“ Ob die AfD die angesprochenen Probleme lösen würde, bezweifle er persönlich
+([MZ, 25.09., PDF](https://lv-sachsen-anhalt.de/wp-content/uploads/2026/09/Interview_MZ_25092026.pdf)).
+
+**Deutung:** Eine gewichtige jüdische Stimme, die die AfD nicht für die größte Gefahr hält — und zugleich ihren
+Maßstab ausspricht, der fast wörtlich das Kriterium 5 dieser Dimension ist: Erkennt eine Partei Antisemitismus in den
+eigenen Reihen und handelt sie? Für Dimension D ist das eine Stimme, kein Befund: Sie gehört zur Querachse und bewegt
+weder die Konfidenz noch die Maßnahmen-Schwelle. Dieselbe Stimme steht in der Schwester-Spur
+[[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]].
+
+**Gegenbeobachtung (Pflicht):** Ein Gemeindevorsitzender spricht für seine Gemeinde und seine Erfahrung, nicht für
+„die Juden in Sachsen-Anhalt“. Andere jüdische Stimmen handeln anders: Jüdische Studierende verwehrten dem Landtagsvizepräsidenten Tillschneider den
+Zutritt zum Halle-Gedenken (weiter unten belegt). Wer Privorozkis Satz als
+Entlastung der AfD zitiert, verschweigt seinen zweiten Halbsatz und den Maßstab, den er an alle Parteien anlegt.
 
 ### 2026-10-11 — Ein Präsidium, ein Kreisausschuss, eine Pressemitteilung (Konfidenz 63 % → 63 %)
 
@@ -404,9 +425,9 @@ beginnt möglicherweise im September. Einstieg darum bei 65 %, nicht höher.
 
 **Gegenbeobachtung (Pflicht):** Die längste real existierende AfD-Amtspraxis spricht bisher *nicht* für
 die These: Landrat **Robert Sesselmann** (Sonneberg, seit 2023, erster AfD-Landrat) hat in drei Jahren
-keine dokumentierten Eingriffe in A–C vorzuweisen — die Bilanz ist Verwaltungsalltag: Digitalisierung
-vorangebracht, Klinikinsolvenz und Schulschließung *nicht* verhindert, insgesamt „viel Kontinuität"
-([ZDF](https://www.zdfheute.de/politik/deutschland/sesselmann-afd-landrat-thueringen-sonneberg-100.html),
+keine dokumentierten Eingriffe in A–C vorzuweisen — die Bilanz ist Verwaltungsalltag: Haushalt
+konsolidiert, Klinikinsolvenz und Schulschließung *nicht* verhindert, vieles fußt auf jahrelanger Vorarbeit
+([MDR](https://www.mdr.de/nachrichten/thueringen/sued-thueringen/sonneberg/politiker,landrat-sesselmann-afd-bilanz-100.html),
 [MiGAZIN](https://www.migazin.de/2026/06/23/drei-jahre-afd-landrat-sonneberger-rundfunkgebuehren-mit-euro/)).
 Ein Landrat hat freilich wenig Hebel — als Bestätigung der Harmlosigkeit taugt das nur begrenzt, als
 Warnung vor der These aber sehr wohl: Amtspraxis kann banaler sein als das Programm. Dazu: Die AfD
@@ -573,7 +594,7 @@ Am 09.10.2026 drohte ein AfD-Lokalpolitiker mit gestrichenen Fördergeldern und 
 - [Infratest dimap — LänderTREND Sachsen-Anhalt, Mai 2026](https://www.infratest-dimap.de/umfragen-analysen/bundeslaender/sachsen-anhalt/laendertrend/2026/mai/)
 - [ZDF — Was im AfD-Programm zur Landtagswahl Sachsen-Anhalt steht](https://www.zdfheute.de/politik/deutschland/afd-landtagswahl-sachsen-anhalt-programm-100.html)
 - [Correctiv — Wie stuft der Verfassungsschutz die AfD in den Bundesländern ein? (17.06.2026)](https://correctiv.org/aktuelles/afd/2026/06/17/wie-stuft-der-verfassungsschutz-die-afd-in-den-bundeslaendern-ein/)
-- [ZDF — Ein Jahr AfD-Landrat: Was hat Sesselmann verändert?](https://www.zdfheute.de/politik/deutschland/sesselmann-afd-landrat-thueringen-sonneberg-100.html) · [MiGAZIN — Drei Jahre AfD-Landrat (23.06.2026)](https://www.migazin.de/2026/06/23/drei-jahre-afd-landrat-sonneberger-rundfunkgebuehren-mit-euro/)
+- [MDR — Bilanz Landrat Sesselmann](https://www.mdr.de/nachrichten/thueringen/sued-thueringen/sonneberg/politiker,landrat-sesselmann-afd-bilanz-100.html) (ersetzt einen nicht mehr erreichbaren ZDF-Beitrag, 29.10.2026) · [MiGAZIN — Drei Jahre AfD-Landrat (23.06.2026)](https://www.migazin.de/2026/06/23/drei-jahre-afd-landrat-sonneberger-rundfunkgebuehren-mit-euro/)
 - [Campact — Warum die AfD in der Uckermark verloren hat (04/2026)](https://www.campact.de/blog/2026/04/afd-verliert-blaue-welle-kein-afd-landrat/)
 
 **Sweep 08.09.2026:**

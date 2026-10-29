@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 52,
-   "aufrufe": 59
+   "leser": 51,
+   "aufrufe": 58
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -84,11 +84,6 @@
    "aufrufe": 12
   },
   {
-   "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-   "leser": 11,
-   "aufrufe": 12
-  },
-  {
    "pfad": "/DenkerVita/Kalayo",
    "leser": 10,
    "aufrufe": 11
@@ -109,6 +104,11 @@
    "aufrufe": 11
   },
   {
+   "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+   "leser": 8,
+   "aufrufe": 9
+  },
+  {
    "pfad": "/DenkerVita/Marc-Felix-Serrao",
    "leser": 8,
    "aufrufe": 8
@@ -122,11 +122,6 @@
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
    "leser": 7,
    "aufrufe": 9
-  },
-  {
-   "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-   "leser": 7,
-   "aufrufe": 8
   },
   {
    "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -159,11 +154,6 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-   "leser": 6,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/DenkerVita/Marcant",
    "leser": 6,
    "aufrufe": 7
@@ -190,11 +180,6 @@
   },
   {
    "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-   "leser": 6,
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
    "leser": 6,
    "aufrufe": 6
   },
@@ -230,6 +215,11 @@
   },
   {
    "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
    "leser": 5,
    "aufrufe": 5
   },
@@ -302,6 +292,16 @@
    "pfad": "/DenkerVita/Mats-Schoenauer",
    "leser": 4,
    "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Maurice-Hoefgen",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Gedanken/Der-Stein-in-der-Luft-was-wir-werfen,-faellt-zurueck",
+   "leser": 4,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -350,8 +350,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 6,
-     "aufrufe": 6
+     "leser": 5,
+     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -414,14 +414,9 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "pfad": "/Geistesblitz/Wolfram-Schultz-Dopamin-mehr-als-ein-Glueckshormon",
      "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-     "leser": 2,
-     "aufrufe": 2
+     "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -454,11 +449,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Geistesblitz/Wolfram-Schultz-Dopamin-mehr-als-ein-Glueckshormon",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/BissenBlaBla-AfD-Behauptungen-zur-Auslaenderkriminalitaet",
      "leser": 2,
      "aufrufe": 2
@@ -475,11 +465,6 @@
     },
     {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Sternstunde-Philosophie-Droht-ein-neuer-Faschismus",
      "leser": 2,
      "aufrufe": 2
     },
@@ -539,7 +524,12 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Hans-Peter-Dürr-Die-neue-Physik",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 1,
      "aufrufe": 1
     },
@@ -607,6 +597,16 @@
      "pfad": "/DenkerVita/Barbara-Tversky",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 52,
-     "aufrufe": 59
+     "leser": 51,
+     "aufrufe": 58
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -694,11 +694,6 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "leser": 11,
-     "aufrufe": 12
-    },
-    {
      "pfad": "/DenkerVita/Kalayo",
      "leser": 10,
      "aufrufe": 11
@@ -719,6 +714,11 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "leser": 8,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "leser": 8,
      "aufrufe": 8
@@ -732,11 +732,6 @@
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 7,
      "aufrufe": 9
-    },
-    {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 7,
-     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -769,11 +764,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 6,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/DenkerVita/Marcant",
      "leser": 6,
      "aufrufe": 7
@@ -800,11 +790,6 @@
     },
     {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
      "leser": 6,
      "aufrufe": 6
     },
@@ -840,6 +825,11 @@
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
      "leser": 5,
      "aufrufe": 5
     },
@@ -912,6 +902,16 @@
      "pfad": "/DenkerVita/Mats-Schoenauer",
      "leser": 4,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Maurice-Hoefgen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Gedanken/Der-Stein-in-der-Luft-was-wir-werfen,-faellt-zurueck",
+     "leser": 4,
+     "aufrufe": 4
     }
    ]
   },
@@ -945,8 +945,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 52,
-     "aufrufe": 59
+     "leser": 51,
+     "aufrufe": 58
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1014,11 +1014,6 @@
      "aufrufe": 15
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "leser": 12,
-     "aufrufe": 14
-    },
-    {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "leser": 12,
      "aufrufe": 12
@@ -1027,6 +1022,11 @@
      "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "leser": 12,
      "aufrufe": 12
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "leser": 11,
+     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
@@ -1139,11 +1139,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
      "leser": 7,
      "aufrufe": 8
@@ -1172,11 +1167,6 @@
      "pfad": "/DenkerVita/Martin-Oetting",
      "leser": 6,
      "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 6,
-     "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Fabian-Pfeffer",
@@ -1214,9 +1204,19 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
      "leser": 6,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
+     "leser": 5,
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "leser": 5,
+     "aufrufe": 9
     }
    ]
   },
@@ -1250,8 +1250,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 52,
-     "aufrufe": 59
+     "leser": 51,
+     "aufrufe": 58
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1319,11 +1319,6 @@
      "aufrufe": 15
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "leser": 12,
-     "aufrufe": 14
-    },
-    {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "leser": 12,
      "aufrufe": 12
@@ -1332,6 +1327,11 @@
      "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "leser": 12,
      "aufrufe": 12
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "leser": 11,
+     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
@@ -1444,11 +1444,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
      "leser": 7,
      "aufrufe": 8
@@ -1477,11 +1472,6 @@
      "pfad": "/DenkerVita/Martin-Oetting",
      "leser": 6,
      "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 6,
-     "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Fabian-Pfeffer",
@@ -1519,9 +1509,19 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
      "leser": 6,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
+     "leser": 5,
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "leser": 5,
+     "aufrufe": 9
     }
    ]
   },
