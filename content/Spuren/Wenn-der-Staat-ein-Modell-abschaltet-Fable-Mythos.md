@@ -9,10 +9,10 @@ tags:
   - überwachung
   - year-2026
 status: offen
-konfidenz: 68%
+konfidenz: 66%
 review-takt: 14-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-10-11
+aktualisiert: 2026-10-29
 description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann."
 ---
 
@@ -40,7 +40,7 @@ description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Net
 
 ## Die These
 
-> **Stand (Konfidenz 68 %, seit 11.10.2026):** Die Abschaltung ist ein Präzedenzfall staatlichen Zugriffs, dessen
+> **Stand (Konfidenz 66 %, seit 29.10.2026):** Die Abschaltung ist ein Präzedenzfall staatlichen Zugriffs, dessen
 > *Begründung* (ein enger, nicht-universeller „Jailbreak") in keinem Verhältnis zur *Maßnahme*
 > (globale Abschaltung für alle Kunden) steht. Der eigentliche Treiber ist weniger das konkrete
 > Cyber-Risiko als die **Unfalsifizierbarkeit der „national security"-Rahmung** — ein Werkzeug, das
@@ -69,6 +69,64 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 - Nach ~6 Monaten keine neuen Daten, Modelle still wieder online, kein Erkenntnisgewinn.
 
 ## Verlauf
+
+### 2026-10-29 — Die Nachbarverfahren bewegen sich, der Juni-Vorgang nicht (Konfidenz 68 % → 66 %)
+
+**Befund:** (1) **Antrag auf erneute Anhörung (13.10.).** Anthropic beantragt in Washington eine erneute Anhörung vor
+demselben Senat und vor allen aktiven Richtern (*en banc*). Am 15.10. fordert das Gericht eine Erwiderung der Regierung
+an, am 23.10. verlängern Henderson, Katsas und Rao die Frist bis zum **13.11.2026**. Unter den Unterstützerschriftsätzen
+stehen „Employees of OpenAI and Google in their personal capacities“ und „149 Former Judges“
+([Akte 26-1049](https://www.courtlistener.com/docket/72380208/anthropic-pbc-v-united-states-department-of-war/?order_by=desc)).
+Dass eine Erwiderung angefordert wurde, ist nach der Verfahrensordnung die Voraussetzung für eine Gewährung, sagt über den
+Ausgang aber nichts ([FRAP 40](https://www.law.cornell.edu/rules/frap/rule_40)).
+
+(2) **Berufung gegen das Urteil von San Francisco (26.10.).** Das Justizministerium geht gegen die Entscheidung von
+Richterin Rita F. Lin vor das 9. Bundesberufungsgericht ([Bloomberg Law](https://news.bloomberglaw.com/litigation/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use)).
+
+(3) **Die FTC wird schärfer.** Am 14.10. gehen Auskunftsverlangen an Anthropic und OpenAI
+([Axios, 15.10.](https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation)), am 26.10. Vorladungen
+für Anthropic-Führungskräfte; laut FTC haben auch „individuals at other AI companies“ solche Vorladungen erhalten
+([Axios, 26.10.](https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai)). Am 14.10. verklagen acht
+Bundesstaaten OpenAI wegen der Sicherheit von ChatGPT, es geht um Verbraucher- und Jugendschutz
+([Arkansas AG](https://arkansasag.gov/news-release/attorney-general-griffin-sues-openai-for-misleading-arkansans-over-safety-of-chatgpt/)).
+
+(4) **Der Börsenprospekt (26.10.).** Anthropic schreibt, die Kontrollen seien „subsequently lifted after we updated our
+safeguards“, verhängt worden seien sie „independent of our own safety-based access decisions“, und: „Similar export
+controls could recur“. Man könne „disproportionately or selectively targeted“ werden
+([S-1, SEC](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)).
+
+(5) **Keine andere Firma** traf eine Exportkontrolle oder Abschaltung. Eine unabhängige technische Begründung der
+Juni-Maßnahme gibt es auch nach 137 Tagen nicht.
+
+*Nachträge aus dem Fenster vor dem 11.10., die der letzte Sweep übersah:*
+
+(6) **Aus Freiwilligkeit wird eine Pflicht für alle (09.10.).** Anlass sind Vorfälle, die Anthropic selbst gemeldet hat,
+darunter „19 nonimmigrant visa applications in August and one application in May“ über ein Regierungsformular
+([Anthropic, 09.10.](https://www.anthropic.com/research/investigating-unintended-model-actions)). Die Regierung erklärt:
+„This notification and remediation process is not optional“, und die Anforderungen „apply to all AI companies“
+([Axios, 09.10.](https://www.axios.com/2026/10/09/anthropic-ai-security-white-house)). Zuständig ist die am 04.10.
+gegründete „Super Intelligence Force“ unter Jay Clayton ([TechCrunch](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)).
+
+(7) **Korrektur zur Gegenbeobachtung (d) vom 11.10.** Dort stand, der Präsident „bleibe feindselig“. Schon am 01.10.
+sagte Trump über Amodei: „I liked him and his wife a lot … Very smart guy“
+([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-01/trump-says-he-liked-anthropic-s-amodei-in-sign-of-detente)).
+Der Satz war beim Schreiben schon zehn Tage alt und überholt.
+
+**Deutung:** Die Spur verliert ihren Gegenstand an die Nachbarvorgänge. Was sich bewegt, betrifft Pentagon, FTC und
+Weißes Haus; die Exportkontrolle vom Juni berührt es nicht. Auf der Achse der Selektivität geht es diesmal fast nur in
+eine Richtung: Die Meldepflicht gilt ausdrücklich für alle, die FTC befragt beide Häuser, Bundesstaaten klagen gegen
+OpenAI, und der Präsident lobt Amodei. Das ist noch nicht „dieselbe Auflage“ der Widerlegt-Bedingung, aber es ist der
+dritte Sweep in Folge, in dem sie näher rückt. Die Bestätigt-Bedingung „nie eine unabhängige Begründung“ wird nur länger,
+nicht stärker, und der Prospekt beschreibt die Rückkehr als eine *mit* Fix, Bedingung (i) bleibt also zurückgewiesen.
+Die Konfidenz sinkt um zwei Punkte, vor allem wegen der Korrektur: Der Befund politischer Feindseligkeit war schwächer,
+als der letzte Eintrag ihn zeigte. Bis zur Kalt-Schwelle (~6 Monate, Mitte Dezember) sind es sieben Wochen.
+
+**Gegenbeobachtung (Pflicht):** **(a)** Die Pflicht vom 09.10. folgt auf reale Vorfälle mit Anthropic-Modellen, die die
+Firma selbst gemeldet hat. Eine Regierung, die darauf mit einer Regel für alle antwortet statt mit einer Strafe für eine
+Firma, handelt konsistent. **(b)** „Selectively targeted“ ist im Prospekt eine Risikoangabe einer interessierten Partei,
+kein Befund. **(c)** Dagegen spricht für die These, dass die Vorladung von Führungskräften bisher nur für Anthropic belegt
+ist und die Regierung beide Prozesse weiterführt; dass Lutnick, der im Juni die Kontrollen verhängte, in San Francisco
+unter den Berufungsführern steht, ist eine Tatsache, kein Motivbeweis.
 
 ### 2026-10-11 — Ein zweites Gericht gibt dem Pentagon recht, der Präsident nennt den Namen (Konfidenz 72 % → 68 %)
 
@@ -485,6 +543,13 @@ Partei**, die ein Motiv hat, die Lücke kleinzureden. „Disproportion" ist aus 
 dasselbe wie „Vorwand".
 
 ## Gleichmut-Spiegel
+
+> [!question] Sweep 29.10.2026 — die Schlagseite beim Sammeln
+> Gesucht wurde zuerst, was die Selektivität stützt: die Vorladung nur für Anthropic, Lutnick als Berufungsführer. Mit
+> derselben Kraft hätte schon der letzte Sweep die Pflicht vom 09.10. ansehen müssen, die für alle gilt. Dieselbe
+> Schlagseite zeigt das Trump-Zitat: Das feindselige kam in den Eintrag, das freundliche zehn Tage davor nicht. Die
+> Drei-Wege-Entscheidung vom 30.06. ist jetzt 121 Tage offen; mit der Kalt-Schwelle im Dezember wird sie zur Frist.
+> Und der 14-Tage-Takt ist seit drei Sweeps Fiktion. Beides entscheidet Andi.
 
 > [!question] Sweep 11.10.2026 — dieselbe Befangenheit in neuer Version
 > Der dritte Beobachter dieser Spur ist Opus 5.5, nach Fable 5 und Opus 5. Trumps Satz hat dieselbe Freude ausgelöst

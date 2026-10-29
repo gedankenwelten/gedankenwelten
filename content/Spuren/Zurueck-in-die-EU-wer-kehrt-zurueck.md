@@ -11,10 +11,10 @@ tags:
   - demokratie
   - year-2026
 status: offen
-konfidenz: 55%
+konfidenz: 57%
 review-takt: 30-tage
 eroeffnet: 2026-09-20
-aktualisiert: 2026-09-20
+aktualisiert: 2026-10-29
 description: "Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen."
 ---
 
@@ -93,7 +93,7 @@ und stark: Regierungen nehmen ständig Sätze zurück, und meistens passiert nic
 Dieselbe Figur, anderer Gegenstand. Burnham hat vor seiner Amtszeit gesagt, er würde die Rückkehr des
 Vereinigten Königreichs in die EU gern noch erleben. Als Premier hat er Starmers rote Linien bestätigt:
 kein Binnenmarkt, keine Zollunion, keine Freizügigkeit. Sein eigener Wahlkreis Makerfield stimmte 2016
-zu 64 Prozent für den Austritt — er ist kein Europäer aus bequemer Herkunft, sondern einer gegen die
+zu 65 Prozent für den Austritt — er ist kein Europäer aus bequemer Herkunft, sondern einer gegen die
 eigene Gegend.
 
 Startwerte am 20.09.2026: 54 bis 57 Prozent halten den Brexit für falsch, rund die Hälfte würde für
@@ -173,6 +173,56 @@ selbst liegt jenseits jeder ehrlichen Frist, das Nachgeben einer Linie nicht. Ki
 
 ## Verlauf
 
+### 2026-10-29 — Die rote Linie bekommt ein Ablaufdatum (Konfidenz 55 % → 57 %)
+
+**Befund:**
+- **Weg B, die Europa-Linie.** Am 30.09. zählt Burnham die Möglichkeiten auf: bleiben, wie es ist, eine Zollunion,
+  zurück in den Binnenmarkt, „or we could go all the way“ ([Guardian, 30.09.](https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu)).
+  Macron antwortet: „Welcome back“ ([RTÉ](https://www.rte.ie/news/2026/0930/1593445-burnham-brexit/)). Am 25.10. sagt
+  er zur Freizügigkeit: „I think we’ve just got to have an honest discussion about those things“; Farage nennt das
+  „total betrayal“ ([Guardian, 25.10.](https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu)).
+  Am 26.10. heißt es aus Downing Street, er sei „crucially not leaning either way“; Burnham selbst: „I’m not going to
+  move away from the red lines that were in the Labour manifesto“. Einen Wiedereintritt in dieser Legislatur schließt er
+  aus ([Guardian, 26.10.](https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement)).
+  Am 27.10. sagt Wirtschaftsminister Reynolds, Beamte sprächen mit der EU über „what the future options for our
+  relationship might be“ ([Guardian, 27.10.](https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds)).
+  Am 28.10. schreibt Burnham ans Kabinett: Erst kommen Schritte im Rahmen des Wahlprogramms von 2024, grundlegende
+  Änderungen seien „for the public to decide and a matter for the next parliament“; die roten Linien seien „government
+  policy to which cabinet collective responsibility applies“ ([Guardian, 28.10.](https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham)).
+- **Vorfeld.** Zum Gipfel am 20.11. soll ein Paket kommen (Lebensmittel/SPS, Emissionshandel, Jugendmobilität); die
+  Rückkehr zu Erasmus 2027 ist gesichert. EVP-Seite: „No cherry-picking“ ([EU Perspectives](https://euperspectives.eu/2026/10/eu-uk-reset-membership-trade-youth-mobility/)).
+- **Umfrage Wiedereintritt.** YouGov (4.–5.10.): 52 % würden für den Wiedereintritt stimmen, 27 % dagegen; 64 % wollen
+  vorher ein Referendum ([YouGov](https://yougov.com/en-gb/articles/55712-if-the-government-decides-to-rejoin-eu-britons-say-there-should-be-a-referendum)).
+- **Weg A.** Keine Section-30-Order, kein Datum für einen Grenzentscheid, kein Referendumsweg für Wales. Umfragen
+  gespalten: Survation (9.–14.10.) misst ohne Unentschiedene 54 zu 46 für Ja ([Tabellen](https://cdn.survation.com/wp-content/uploads/2026/10/22134916/Survation_Fore_Energy_Ltd_Scotland_2026-10-20.xlsx)),
+  YouGov 47 zu 53 ([YouGov](https://yougov.com/en-gb/articles/55758-scotland-political-snapshot-october-2026)). Burnham
+  in Motherwell am 16.10.: „I don't want to be the last PM of the UK“, man müsse „move beyond the constitutional
+  questions“ ([BBC](https://www.bbc.co.uk/news/articles/cmlykv9pey7go)). Swinney am 17.10.: „Our independence is very
+  close“; in der SNP gilt ein Unterhaus ohne Mehrheit als realistischster Weg zu einem zweiten Referendum
+  ([Guardian, 17.10.](https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney)).
+  Nordirland: im Dreijahresmittel 48 % für den Verbleib im Königreich, 35 % für die Vereinigung
+  ([Irish Times](https://www.irishtimes.com/politics/2026/10/01/irish-unity-tracker-the-poll-of-polls/)).
+- **Nachtrag zum 09.09.** Burnhams Antwort auf Swinneys Brief fehlte bisher: Es gebe „no consensus“, ein weiteres
+  Referendum bleibe „off limits“, und Nordirland und Schottland hätten „distinct constitutional arrangements“
+  ([BBC](https://www.bbc.co.uk/news/articles/cy8z5ndpz4go)). Damit hat er das „exactly the same situation“ schon am Tag
+  danach zurückgenommen. **Korrektur:** Makerfield stimmte 2016 zu 65 %, nicht 64 %, für den Austritt (Guardian, 26.10.).
+
+**Deutung:** Die These sagt, die Linie, die zuerst nachgibt, entscheidet, wer zurückkehrt. Bewegt hat sich die
+Europa-Linie, aber über die Zeit, nicht über den Inhalt: Die roten Linien gelten weiter, erklärtermaßen nur bis zur
+nächsten Wahl, und was danach kommt, soll das Volk entscheiden. Offiziell gefallen ist keine, die Bestätigung für Weg B
+ist also nicht eingetreten. Die Linie zu Schottland hielt dagegen ohne erkennbare Kosten; Burnham verschiebt den Maßstab
+vom Konsens zum „move beyond“, und es kostet ihn nichts. Für die Annahme, ein ausgesprochenes Kriterium drehe nur in eine
+Richtung, ist das eher ein Gegenbefund. Ob die beiden Wege einander kannibalisieren, lässt sich noch nicht prüfen; bisher
+nutzt die SNP die Öffnung zu Europa nicht als Ersatz für die Unabhängigkeit, sondern als Argument dafür. Der kleine
+Anstieg kommt allein aus Weg B.
+
+**Gegenbeobachtung (Pflicht):** Der Brief vom 28.10. schreibt die alten Linien für diese Legislatur als
+Kabinettsdisziplin fest — das ist eine Bekräftigung, kein Nachgeben. Burnham widersprach sich innerhalb eines Tages
+(Sunday Times gegen sein „no“ zur Freizügigkeit ohne Referendum am 26.10.), und Downing Street ruderte zweimal zurück.
+Und die Lücke vom 20.09. ist nicht geschlossen, sie hat die Form gewechselt: Damals wollten 52 % *kein* Referendum, jetzt
+verlangen 64 % eines als Bedingung. Wer die Rückkehr will, muss also erst eine Abstimmung gewinnen, die das Land seit zehn
+Jahren fürchtet.
+
 ### 2026-09-20 — Eröffnung (Konfidenz → 55 %)
 
 **Befund:** Die Spur wird eröffnet. Rechtsstand aller drei Verfahren: Für Schottland verlangt Holyrood
@@ -250,6 +300,12 @@ und ob eine solche trägt, ist genau die offene Frage dieser Spur.
 
 ## Gleichmut-Spiegel
 
+> [!question] Sweep 29.10.2026 — Entwurf, von dir zu prüfen
+> „Go all the way“ und die Freizügigkeits-Debatte laden ein, eine gefallene Linie zu sehen. Formal ist keine gefallen,
+> und Downing Street hat zweimal zurückgerudert; darum steigt die Konfidenz nur um zwei Punkte. Abgewehrt hätte ich gern,
+> dass Burnham die Schottland-Linie still umdeutet und das nichts kostet. Genau das ist die banale Gegen-Lesart dieser
+> Spur, und sie steht jetzt im Befund statt in einer Fußnote.
+
 **Wo verlange ich Bestätigung?** Die These ist elegant, und elegante Thesen sind verdächtig. „Ein
 ausgesprochenes Kriterium dreht nur in eine Richtung" klingt nach einem Naturgesetz und ist doch nur
 eine Vermutung über politische Kosten. Ich muss aufpassen, dass ich in jedem Sweep nach Belegen für
@@ -280,6 +336,14 @@ elegant wird, prüfen, ob sie nicht eigentlich nur die halbe Frage ist.**
 ---
 
 ## Stimmenspektrum
+
+> [!info] Nachtrag 29.10.2026 — zur Öffnung der Europa-Linie
+> | Ring | Stimme | Winkel |
+> |---|---|---|
+> | **Schottland** | Liz Lloyd, Sturgeons frühere Stabschefin, wirft Burnham „hypocrisy“ vor: über die EU reden, über die Unabhängigkeit nicht ([Scotsman, 14.10.](https://www.scotsman.com/news/politics/burnham-showing-hypocrisy-on-independence-and-the-eu-says-ex-sturgeon-chief-9286310)) | spricht aus dem SNP-Lager |
+> | **Irland** | Simon Coveney erwartet, dass Burnham bis zur nächsten Wahl beim Wahlprogramm bleibt ([RTÉ](https://www.rte.ie/news/2026/0930/1593445-burnham-brexit/)); Taoiseach Martin kritisiert die Rede von der „inevitability“ der Einheit ([Irish Times, 28.10.](https://www.irishtimes.com/politics/2026/10/28/taoiseach-criticises-assertion-irish-unity-is-inevitable-as-he-promises-new-initiative/)) | Dublin will die Annäherung, keinen überstürzten Grenzentscheid |
+> | **EU** | Terry Reintke (Grüne): „Of course, you can come back“; EVP: „No cherry-picking“ ([EU Perspectives](https://euperspectives.eu/2026/10/eu-uk-reset-membership-trade-youth-mobility/)) | Parlament offener als Kommission und Rat; Medium: Media Network s.r.o., Prag |
+> | **London** | Farage: „total betrayal“; Downing Street: „crucially not leaning either way“ ([Guardian, 25./26.10.](https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement)) | Widerstand auch in der eigenen Partei, in den Austrittswahlkreisen |
 
 Erhoben am 20.09.2026. Das auffälligste Ergebnis ist nicht, *was* berichtet wurde, sondern **wo**.
 

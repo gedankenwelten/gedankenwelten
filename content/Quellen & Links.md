@@ -3626,11 +3626,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 | | |
 |---|---|
-| **Podcast** | Gilda con Arne, Folge 20 (Apple Podcasts / Steady) |
+| **Podcast** | Gilda con Arne, Folge 20 — [YouTube](https://www.youtube.com/watch?v=_UDQc4MC444) (11.02.2026) · Apple Podcasts / Steady |
 | **Notiz** | [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]] |
-| **Transkript** | `Gedankenwelten/Transkripte/GCA20_Iran_Kai_Ambos_Transkript.txt` |
-| **Gäste** | Kai Ambos (Völkerrechts-Professor Göttingen), Jean-Philipp Kindler (MdB, Grüne) |
-| **Spektrum** | Links-progressiv — Debatte um Völkerrecht, humanitäre Intervention, Palmer-Kontroverse |
+| **Transkript** | `Gedankenwelten/Transkripte/GCA20_Iran_Kai_Ambos_Transkript.txt` · mit Zeitmarken: `Gedankenwelten/Transkripte/GildaconArne_20_Iran_Palmer_Transkript.txt` |
+| **Gäste** | Kai Ambos (Völkerrechts-Professor Göttingen), Jean-Philipp Kindler (Autor und Satiriker, vertritt Arne Semsrott) |
+| **Spektrum** | Unabhängiger Politikpodcast — Debatte um Völkerrecht, humanitäre Intervention, Palmer-Kontroverse |
 
 ---
 

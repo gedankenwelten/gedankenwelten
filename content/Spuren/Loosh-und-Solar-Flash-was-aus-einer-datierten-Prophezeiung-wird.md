@@ -14,10 +14,10 @@ tags:
   - transhumanismus
   - year-2026
 status: offen
-konfidenz: 74%
+konfidenz: 75%
 review-takt: 30-tage
 eroeffnet: 2026-06-25
-aktualisiert: 2026-09-17
+aktualisiert: 2026-10-29
 description: Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 aliases:
   - Loosh
@@ -52,7 +52,7 @@ aliases:
 
 ## Die These
 
-> **Stand (Konfidenz 70 %):** Eine datierte Prophezeiung stirbt nicht an ihrer Widerlegung. Sie **verliert
+> **Stand (Konfidenz 75 %, seit 29.10.2026):** Eine datierte Prophezeiung stirbt nicht an ihrer Widerlegung. Sie **verliert
 > die Peripherie und behält den Kern**, und die Frist springt dabei nicht auf ein neues Datum — sie löst
 > sich in undatierte Dauerware auf. Aus dem prüfbaren Versprechen („am 26. Juni") wird ein unprüfbarer
 > Prozess („es läuft bereits, du merkst es nur noch nicht"), und das Weltbild wandert vom Außen ins
@@ -101,6 +101,59 @@ und die These hat den Kern überschätzt).
 ---
 
 ## Verlauf
+
+### 2026-10-29 — Der Flash im Titel, der Abgrund im Inneren (Konfidenz 74 % → 75 %)
+
+**Befund:** Vierzehn Videos seit dem 16.09., abgelesen am 29.10. (yt-dlp; der Kanal hat 17.800 Abonnenten):
+
+| Datum | Titel (gekürzt) | Views | Likes | Komm. |
+|---|---|---|---|---|
+| 16.09. | „Mein erstes Buch ist vorbestellbar!“ (2 Min.) | 8.492 | 478 | 136 |
+| 23.09. | Der Ausweg aus der Matrix | 19.583 | 613 | 80 |
+| 28.09. | Die erleuchteten Meister der Urquelle | 22.690 | 629 | 89 |
+| 29.09. | „Endlich frei“ (Musik) | 10.696 | 357 | 41 |
+| 01.10. | Das Buch erscheint am 15. Oktober (3 Min.) | 5.005 | 238 | 40 |
+| 04.10. | Das Genesis-Projekt | 22.474 | 562 | 65 |
+| 07.10. | Das Feuer der Erlösung | 18.491 | 525 | 50 |
+| 08.10. | Das „Ewige Jetzt“ | 15.747 | 571 | 69 |
+| 09.10. | Die Reinkarnations-Lüge | 15.051 | 485 | 50 |
+| 10.10. | Die wahre Mechanik unserer Träume | 18.972 | 590 | 74 |
+| 18.10. | Saturn, die Zeit und die verborgene Architektur der Matrix | 25.081 | 583 | 55 |
+| 22.10. | Yin und Yang, Sonne und Mond | 24.719 | 474 | 74 |
+| 25.10. | Das Gehirn als Empfänger | 23.375 | **1.629** | 86 |
+| 26.10. | Die Zahl des Tieres „666“ und der Antichrist | 26.216 | **1.780** | 104 |
+
+**(1) Kein neues Stichdatum.** Weder in Titeln noch in Beschreibungen, und in den Untertiteln der vier jüngsten
+Langvideos (18.–26.10.) auch kein Jahr, kein Monat und kein Termin. Der Solar-Flash steht in zwölf von vierzehn Titeln.
+
+**(2) Im gesprochenen Wort wandert er nach innen.** 25.10.: *„Wer den Stream durchschaut, wartet nicht mehr auf
+einen äußeren Systemreset oder den großen Solarflash, um frei zu sein. Er erlebt den Systemwechsel jeden Tag aufs
+Neue, im ganz normalen Alltag“* ([▶ 11:03](https://www.youtube.com/watch?v=YHw64WjedDM&t=663)). 26.10., über die Offenbarung: *„Der Sturz des
+Tieres in den Abgrund ist keine ferne Zukunftsmusik, die irgendwo am Ende der Zeit stattfindet. Er geschieht in jedem
+einzelnen Menschen“* ([▶ 12:52](https://www.youtube.com/watch?v=Z0sY7DUO8n0&t=772)).
+
+**(3) Das Buch ist erschienen.** Amazon führt *Der Solar-Flash und das Geheimnis der Matrix-Simulation* von
+„Ouroborus“, Taschenbuch, 448 Seiten, Herausgeber Apricus Ltd, erschienen am 15.10.2026, 25,99 €
+([Amazon](https://www.amazon.de/dp/B0HJT8HJ8Z)).
+
+**(4) Die Likes springen, die Views nicht.** Bis zum 22.10. liegen die Langvideos bei 474–629 Likes auf 15.000–25.000
+Views (rund 2,5 %). Die beiden jüngsten haben bei gleicher Reichweite gut das Dreifache (rund 7 %).
+
+**Deutung:** Das ist die These in der Form, in der sie am Anfang stand: Die Frist löst sich in einen Prozess auf, der
+„bereits läuft“, und das Weltbild wandert ins Innen, wo es nichts mehr treffen kann. Neu ist, dass beides
+gleichzeitig geschieht. Auf der Verpackung bleibt der Flash ein Ereignis (Titel, Buch, im September noch „der kommende Solar Flash“),
+im Text wird er zu einer Haltung, die man jeden Tag einnehmen kann. Die Doppelung leistet beides, was eine
+geplatzte Prophezeiung braucht: Das Ereignis verkauft, und die Haltung kann nicht mehr ausbleiben. Die Bedingung
+„kein neues hartes Stichdatum bis 31.12.“ ist weiter erfüllt, der Like-Sockel über 500 ebenfalls.
+
+**Gegenbeobachtung (Pflicht):** **(a)** Genau diese Wanderung nach innen habe ich am 01.08. schon einmal gelesen, und
+der Sweep vom 17.09. musste sie als Zwischenphase zurücknehmen. Zwei Sätze aus zwei Videos sind kein Kurswechsel;
+das Video vom 26.10. heißt *„Die Zahl des Tieres und der Antichrist“*, und die Titel tragen das äußere Ereignis
+unverändert weiter. **(b)** Der Like-Sprung zeigt, wie wenig die eigene Bestätigungsbedingung misst: Die Likes
+verdreifachen sich ohne mehr Zuschauer, aus Gründen, die von außen nicht zu sehen sind (ein Aufruf im Video, eine
+Mobilisierung, gekaufte Interaktion). Ein Sockel, der so springen kann, sagt über den „Kern“ wenig. **(c)** Dass
+spirituelle Lehrer äußere Ereignisse als innere Vorgänge deuten, ist alt und kein Zeichen einer geplatzten Frist; in
+diesem Kanal stand der innere Strang von Beginn an neben dem äußeren.
 
 ### 2026-09-17 — Der Kern kommt zurück, und er hat jetzt einen Preis (Konfidenz 70 % → 74 %)
 
@@ -701,6 +754,17 @@ Zugehörigkeit anbietet.
 
 ## Gleichmut-Spiegel
 
+> [!question] Sweep 29.10. — Entwurf, von dir zu prüfen
+> - **Die Lesart, die ich schon einmal zurücknehmen musste, liegt wieder nahe.** Zwei Sätze über den Flash, auf
+>   den man „nicht mehr wartet“, passen genau zur ursprünglichen These. Darum hebe ich die Konfidenz nur um einen
+>   Punkt: Am 01.08. habe ich dieselbe Bewegung zu früh für den Zielzustand gehalten.
+> - **Die Metrik, die mir recht gibt, ist die schwächste.** Die Like-Bedingung ist erfüllt, aber sie springt um
+>   das Dreifache, ohne dass mehr Menschen zusehen. Sie bleibt als Bedingung stehen, weil sie vorab registriert ist;
+>   tragen darf sie die Deutung nicht.
+> - **Was ich nicht weiß.** Unter welchem Händler und in welcher Auflage das Buch läuft, habe ich nur bei Amazon am
+>   Original gelesen. Ein Shop-Eintrag eines weiteren Verlags tauchte in der Suche auf, ließ sich aber nicht öffnen —
+>   er steht darum nicht im Befund.
+
 > [!question] Sweep 17.09. — Entwurf, von dir zu prüfen
 > - **Die Metrik, auf der ich stand, hat sich unter mir aufgelöst.** Der Eintrag vom 01.08. ruhte auf der
 >   Bewegung „Views fallen, Likes halten" — der Kern bleibt, die Mitläufer gehen. Sechs Wochen später sind
@@ -916,7 +980,7 @@ braucht.
 | **Ursprungsvideo** (11.03.2026) | [Der Solar-Flash und das Erwachen der schlafenden Götter — Ouroboros](https://www.youtube.com/watch?v=0skaq7E8jcE) |
 | **Vorabend-Video** (25.06.2026) | [„Es ist soweit… was passiert am 26.06.2026 wirklich???"](https://www.youtube.com/watch?v=EeKNK-cu9Wk) |
 | **Tag-danach-Video** (27.06.2026) | [Der 26.06.2026 — Der Anfang vom Ende](https://www.youtube.com/watch?v=xc1CnMVD5o4) |
-| **Blog des Urhebers** | [ouroboros803643273.blog](https://ouroboros803643273.blog/) — u.a. [„Kein Instant-Knall…" (26.05.2026)](https://ouroboros803643273.blog/2026/05/26/der-26-06-2026-kein-instant-knall-sondern-der-systemstart-des-solar-flash-prozesses/) · [„Die Praxis des neutralen Beobachters" (30.07.2026)](https://ouroboros803643273.blog/2026/07/30/die-praxis-des-neutralen-beobachters/) |
+| **Blog des Urhebers** | [ouroboros803643273.blog](https://ouroboros803643273.blog/) — u.a. „Kein Instant-Knall…" (26.05.2026) (gelöscht, seit 17.09.2026 404) · „Die Praxis des neutralen Beobachters" (30.07.2026) (gelöscht, seit 17.09.2026 404) |
 | **Recherche Felsenecht** | [Teil 1 — „Ich glaube, wir werden manipuliert"](https://www.youtube.com/watch?v=J9CjwhatfMU) · [Teil 2 — am Tag selbst](https://www.youtube.com/watch?v=GEzZV0800iM) · [Rückblick-Gespräch mit OnkelRyo (31.07.2026)](https://www.youtube.com/watch?v=_JsTJIdHgVE) |
 | **Recherche OnkelRyo** | [Reaktion auf Felsenecht](https://www.youtube.com/watch?v=wmoXtvo-0u0) |
 | **Ursprung der Kosmologie** | [Sascha Zimmermann „DJ Trapstar" auf Instagram](https://www.instagram.com/djtrapstar_official) |
