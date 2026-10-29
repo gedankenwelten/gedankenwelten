@@ -29,14 +29,14 @@
    "aufrufe": 52
   },
   {
-   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 41,
-   "aufrufe": 55
-  },
-  {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
    "leser": 41,
    "aufrufe": 48
+  },
+  {
+   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+   "leser": 40,
+   "aufrufe": 54
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -114,11 +114,6 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Cordula-Tutt",
-   "leser": 7,
-   "aufrufe": 10
-  },
-  {
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
    "leser": 7,
    "aufrufe": 9
@@ -147,6 +142,11 @@
    "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
    "leser": 7,
    "aufrufe": 7
+  },
+  {
+   "pfad": "/DenkerVita/Cordula-Tutt",
+   "leser": 6,
+   "aufrufe": 9
   },
   {
    "pfad": "/DenkerVita/Marcant",
@@ -359,11 +359,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 5,
      "aufrufe": 5
@@ -380,6 +375,11 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
      "leser": 4,
      "aufrufe": 4
     },
@@ -639,14 +639,14 @@
      "aufrufe": 52
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 41,
-     "aufrufe": 55
-    },
-    {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 41,
      "aufrufe": 48
+    },
+    {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 40,
+     "aufrufe": 54
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -724,11 +724,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Cordula-Tutt",
-     "leser": 7,
-     "aufrufe": 10
-    },
-    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 7,
      "aufrufe": 9
@@ -757,6 +752,11 @@
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 7,
      "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Cordula-Tutt",
+     "leser": 6,
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Marcant",
@@ -1565,8 +1565,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 17,
-     "aufrufe": 17
+     "leser": 16,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",

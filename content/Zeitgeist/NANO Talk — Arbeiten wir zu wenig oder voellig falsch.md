@@ -37,11 +37,14 @@ aliases:
 Quelle: [Arbeiten wir zu wenig – oder völlig falsch? | NANO Talk](https://www.youtube.com/watch?v=PCPoI5vGb6s) (3sat, 2026)
 
 > [!info] Wer spricht?
-> **Fabian Braesemann** — Ökonom und Datenanalyst an der Oxford Internet School. Forscht zur Transformation von Arbeitsmärkten durch Digitalisierung und KI; arbeitet selbst mit KI-Agenten für Großdatenanalysen. Vertritt eine empirisch-differenzierende Position: kein Epochenbruch, sondern beschleunigte Entwicklung.
+> **Fabian Braesemann** — Ökonom und Datenanalyst am Oxford Internet Institute. Forscht zur Transformation von Arbeitsmärkten durch Digitalisierung und KI; arbeitet selbst mit KI-Agenten für Großdatenanalysen. Vertritt eine empirisch-differenzierende Position: kein Epochenbruch, sondern beschleunigte Entwicklung.
+> → [[DenkerVita/Fabian Braesemann|DenkerVita]]
 >
-> **Simon Schaupp** — Soziologe und Arbeitsforscher, Professor. Beschäftigt sich mit digitaler Transformation, Gewerkschaften und dem Zusammenhang von Arbeitszeit und CO₂-Emissionen. Orientiert sich an der kritischen Theorie (David Graeber, u.a.). Scharf kritisch gegenüber der Regierungsrhetorik von "mehr arbeiten".
+> **Simon Schaupp** — Soziologe und Arbeitsforscher, Research Professor an der KU Leuven. Beschäftigt sich mit digitaler Transformation, Gewerkschaften und dem Zusammenhang von Arbeitszeit und CO₂-Emissionen. Bezieht sich auf die kritische Theorie und auf David Graeber. Scharf kritisch gegenüber der Regierungsrhetorik von "mehr arbeiten".
+> → [[DenkerVita/Simon Schaupp|DenkerVita]]
 >
 > **Eva von Redecker** — Philosophin und freie Autorin. Promoviert bei Rahel Jaeggi an der Humboldt-Universität, seit dem Sommersemester 2026 Gastprofessorin für Philosophie an der HFBK Hamburg. Lebt im ländlichen Brandenburg. Werke: *Revolution für das Leben* (2020), *Bleibefreiheit* (2023), *Dieser Drang nach Härte* (2026). Bringt den feministischen und ökophilosophischen Blick: Sorgearbeit als patriarchal privatisiertes Eigentum, die "dritte Arbeit" der Natur.
+> → [[DenkerVita/Eva von Redecker|DenkerVita]]
 >
 > Moderation: **Stephanie Rohde** (3sat NANO)
 

@@ -27,8 +27,10 @@ Quelle: [Trumps größte Abschiebeaktion — Podcast Reingehen](https://www.yout
 > **Sophie Fichtner** — Moderatorin des taz-Podcasts *Reingehen* (Wochentaz)
 >
 > **Christian Jakob** (*1979, Quakenbrück*) — taz-Journalist im Ressort Reportage und Recherche. Studium der Soziologie in Bremen und Mailand, Global Studies in Berlin, Buenos Aires und Delhi. Berichtet seit 2006 über Asyl, Migration und das europäische Grenzregime. Bücher u. a.: *Die Bleibenden* (2016, wie Geflüchtete Deutschland verändert haben), *Diktatoren als Türsteher Europas* (2017, mit Simone Schlindwein), *Endzeit* (2023).
+> → [[DenkerVita/Christian Jakob|DenkerVita]]
 >
 > **Marina Klimchuk** — Freie Journalistin, schreibt für ZEIT, taz, Stern, WOZ, GEO. Kam in den 1990ern als jüdische Kontingentflüchtlingin nach Deutschland. Lebte zwei Jahre in den USA — zwischen Greyhound-Bussen, Depression und demokratischem Niedergang. Schwerpunkte: Migration, Erinnerungskultur, internationale Konflikte. Ausgezeichnet mit dem VDRJ-Preis 2025 für *Der Bus* (Greyhound-Querreise durch die USA) und dem Helmut-Stegmann-Preis für den Essay *Nahes fernes Heimatland*.
+> → [[DenkerVita/Marina Klimchuk|DenkerVita]]
 
 ---
 
