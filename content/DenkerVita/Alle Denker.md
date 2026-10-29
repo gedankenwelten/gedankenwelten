@@ -186,6 +186,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Elon Musk|Elon Musk]]** — Unternehmer (SpaceX, Tesla, X, xAI), DOGE 2025; verändert oder enthüllt? Die Härte ist seit den Neunzigern belegt, neu sind Richtung, Bühne und Reichweite
 
+**[[DenkerVita/Ernst Gelegs|Ernst Gelegs]]** — Journalist, ORF-Osteuropa-Korrespondent in Budapest (rund 25 Jahre, bis 2025); erklärte Orbáns Verfassungsfallen und trennte vor der Ungarn-Wahl 2026 den Regierungs- vom Regimewechsel
+
 **[[DenkerVita/Ernst Tugendhat|Ernst Tugendhat]]** — Philosoph (1930–2023), aufgewachsen in der Villa Tugendhat in Brünn, Exil in Venezuela, Heidegger-Hörer und später sein Kritiker; holte die sprachanalytische Philosophie nach Deutschland; Moral ohne Metaphysik, Egozentrizität und Selbstrelativierung; *Vorlesungen über Ethik* (1993), *Egozentrizität und Mystik* (2003)
 
 **[[DenkerVita/Emmanuel Levinas|Emmanuel Levinas]]** — litauisch-französischer Philosoph (1906–1995), Schüler Husserls und Heideggers, Kriegsgefangener 1940–45, Familie in Litauen ermordet; Ethik als erste Philosophie, das Antlitz des Anderen, asymmetrische Verantwortung, der Dritte; *Totalität und Unendlichkeit* (1961), *Jenseits des Seins* (1974)

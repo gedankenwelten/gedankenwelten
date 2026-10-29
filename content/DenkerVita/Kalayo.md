@@ -1,6 +1,8 @@
 ---
 title: "Kalayo — DenkerVita"
-description: "Kalayo heißt auf Cebuano Feuer. Der pseudonyme YouTuber verfolgt für ein deutsches Publikum die Epstein-Akten und Trumps Amerika, im Empörungston und mit einem Spendenprojekt für Opfer."
+raetsel: "Er zeigt die Akten, nie sein Gesicht. Sein Name heißt Feuer."
+aktualisiert: 2026-10-29
+description: "Kalayo heißt auf Cebuano Feuer. Der pseudonyme YouTuber verfolgt für ein deutschsprachiges Publikum die Epstein-Akten und Trumps Amerika, im Empörungston und mit einem Spendenprojekt für Opfer."
 tags: [denker-vita, usa, medien, youtube]
 ---
 
@@ -17,36 +19,38 @@ tags: [denker-vita, usa, medien, youtube]
 </details>
 
 > [!info] Wer spricht?
-> **Kalayo** ist ein pseudonymer deutscher YouTuber, der auf dem Kanal **KALAYO OFFICIAL** (~124.000 Abonnenten) deutschsprachige Einordnung der US-Politik betreibt — Schwerpunkt Trump-Kritik, die Epstein-Akten, Korruption und die MAGA-Bewegung. Der Name „Kalayo" ist Cebuano (eine philippinische Sprache) und bedeutet **Feuer**. Neben seinem Kanal betreibt er das Spendenprojekt **„KALAYO hilft"** (betterplace.org), das aus der Empörung über Missbrauchsnetzwerke heraus Opferhilfe und soziale Projekte finanziert. Der Klarname ist nicht öffentlich — das Pseudonym wird hier respektiert.
+> **Kalayo** ist ein pseudonymer deutschsprachiger YouTuber, der auf dem Kanal **KALAYO OFFICIAL** (rund 132.000 Abonnenten, Stand Oktober 2026) die US-Politik einordnet — Schwerpunkt Trump-Kritik, die Epstein-Akten, Korruption und die MAGA-Bewegung. Der Name „Kalayo" ist Cebuano (eine philippinische Sprache) und bedeutet **Feuer**. Neben seinem Kanal betreibt er das Spendenprojekt **„KALAYO hilft"** (betterplace.org), das aus der Empörung über Missbrauchsnetzwerke heraus Opferhilfe und soziale Projekte finanziert. Klarname und Herkunft sind nicht öffentlich — das Pseudonym wird hier respektiert.
 
 ## Biografie
 
-- **Pseudonym / Herkunft des Namens:** „Kalayo" ist das Cebuano-Wort für *Feuer* — eine der meistgesprochenen Sprachen der Philippinen. Ob der Creator selbst philippinische Wurzeln hat, ist öffentlich nicht belegt; der Name signalisiert Programm: entzünden, aufrütteln.
-- **Rolle:** deutschsprachiger Politik-Kommentator und Content-Creator, spezialisiert auf US-amerikanische Politik. Firmiert teils als „Kalayo Media Group".
-- **Format:** kommentierte Nachrichten- und Erklärvideos zur US-Innenpolitik, im selben Segment wie [[DenkerVita/Manuel Koschi Politik|Koschi Politik]] oder DerDara — deutschsprachige Aufbereitung amerikanischer Politik für ein deutsches Publikum.
-- **Reichweite:** rund 124.000 Abonnenten, über 19 Millionen kumulierte Videoaufrufe, ~284 Videos (Stand Mitte 2026). Präsenz auch als Spotify-Podcast („KALAYO – Aktuelles").
+- **Pseudonym / Herkunft des Namens:** „Kalayo" ist das Cebuano-Wort für *Feuer* ([Wiktionary](https://en.wiktionary.org/wiki/kalayo)) — Cebuano ist eine der meistgesprochenen Sprachen der Philippinen. Warum er den Namen gewählt hat und ob er philippinische Wurzeln hat, ist öffentlich nicht bekannt; wir lesen ihn als Programm: entzünden, aufrütteln.
+- **Rolle:** deutschsprachiger Politik-Kommentator und Content-Creator, spezialisiert auf US-amerikanische Politik. Im Video vom 15.07.2026 spricht er von einer „Kalayo Media Group"; als „Kalayo Media Group Ltd" erscheint ein Spender auf seiner betterplace-Seite. Rechtsform und Sitz sind nicht bekannt.
+- **Format:** kommentierte Nachrichten- und Erklärvideos zur US-Innenpolitik, im selben Segment wie [[DenkerVita/Manuel Koschi Politik|Koschi Politik]] — deutschsprachige Aufbereitung amerikanischer Politik.
+- **Reichweite:** rund 132.000 Abonnenten, etwa 370 Videos und gut 30 Millionen Aufrufe (Stand 29.10.2026). Das erste Video erschien im September 2024; der Kanal ist fast täglich aktiv. Präsenz auch als Spotify-Podcast („KALAYO – Aktuelles").
 - **Klarname:** nicht öffentlich. Pseudonymer Creator.
 
 ## Öffentliche Arbeit, Kanäle & Engagement
 
 | Plattform | Link | Inhalt |
 |---|---|---|
-| YouTube | [@KALAYO](https://www.youtube.com/@KALAYO) | Hauptkanal — US-Politik, Epstein-Dokumentation, Trump-Kritik |
+| YouTube | [KALAYO OFFICIAL](https://www.youtube.com/channel/UCkdwiSqG_QDCoRofaSdK4NA) | Hauptkanal — US-Politik, Epstein-Dokumentation, Trump-Kritik. Achtung: Das Handle endet auf zwei große I (`@KALAYO_offizieII`); gleich aussehende Handles gehören fremden Kanälen |
 | Instagram | [@kalayo_offiziell](https://www.instagram.com/kalayo_offiziell/) | Ausschnitte, Ankündigungen |
 | TikTok | [@kalayo_offiziell](https://www.tiktok.com/@kalayo_offiziell) | Kurzclips |
 | Spotify | [KALAYO – Aktuelles](https://open.spotify.com/show/6d8SgLROMbIXaFBKDgaOCv) | Audio-Podcast |
-| Facebook | KALAYO offiziell | Community & Cross-Posting |
-| Discord | KALAYO-Community | Austausch mit der Zuschauerschaft |
+| Facebook | [KALAYO offiziell](https://www.facebook.com/profile.php?id=61564579307543) | Community & Cross-Posting |
+| Discord | [KALAYO Community](https://discord.gg/KhrNKWfVph) | Austausch mit der Zuschauerschaft |
 | Spendenprojekt | [kalayo.betterplace.org](https://kalayo.betterplace.org/) | „ICH BERICHTE und WIR HELFEN GEMEINSAM" |
-| Kontakt / Spenden | kalayo.offiziell@googlemail.com | — |
+| PayPal | laut seinen Videobeschreibungen | Spenden an den Kanal; einen Telegram-Kanal hat er nach eigener Angabe nicht |
 
-**„KALAYO hilft" (betterplace.org):** Aus der Berichterstattung über Missbrauchsnetzwerke (Epstein, Maxwell, Savile, Diddy, Cosby) heraus ruft Kalayo seine Community zu Spenden auf. Ausgewählte Projekte: der Stiftungsfonds *In Children's Eyes* (gegen sexuellen Missbrauch, Opferhilfe und Vorbeugung — mit ausdrücklichem Gedenken an Epstein-Opfer Virginia Giuffre), *Therapiehunde helfen Menschen* und *Die Achse / Spende für die Waisen der Medizin* (Menschen mit chronisch-seltenen Erkrankungen). Bis Mitte 2026 wurden nach eigener Übersicht rund 3.690 € an die Projekte weitergeleitet. Das Engagement macht die Empörung des Formats produktiv — aus dem Zorn über dokumentiertes Unrecht wird konkrete Hilfe.
+**„KALAYO hilft" (betterplace.org):** Aus der Berichterstattung über Missbrauchsnetzwerke (Epstein, Maxwell, Savile, Diddy, Cosby) heraus ruft Kalayo seine Community zu Spenden auf. Ausgewählte Projekte: der Stiftungsfonds *In Children's Eyes* (gegen sexuellen Missbrauch, Opferhilfe und Vorbeugung — mit ausdrücklichem Gedenken an Epstein-Opfer Virginia Giuffre), *Therapiehunde helfen Menschen* und *Die Achse / Spende für die Waisen der Medizin* (Menschen mit chronisch-seltenen Erkrankungen). Seit April 2026 kamen nach der Übersicht der Aktion gut 5.100 € aus rund 70 Spenden zusammen, die zu gleichen Teilen an die drei Projekte gingen (Stand 29.10.2026, [betterplace](https://kalayo.betterplace.org/)). Das Engagement macht die Empörung des Formats produktiv — aus dem Zorn über dokumentiertes Unrecht wird konkrete Hilfe.
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Epstein-Zensur nachgewiesen!! Trump und Blanche überführt](https://www.youtube.com/watch?v=0GDMq54TjuM) — Kalayos Aufbereitung der These, dass in den Epstein-Akten gezielt zensiert wurde; Bezug zur Kongress-Anhörung von Todd Blanche.
-- [Trump dreht durch — Epstein-Netzwerk noch viel größer als gedacht!!](https://www.youtube.com/watch?v=j5lpcabwHhg) — Einordnung neuer Dokumente zum Epstein-Netzwerk.
-- [Die Epstein-Schlinge zieht sich zu — und Trump verliert die Nerven!](https://www.youtube.com/watch?v=2NoO6wm0pBg) — laufende Chronik der Epstein-Enthüllungen und Trumps Reaktionen.
+- [Epstein-Zensur nachgewiesen!! Trump und Blanche überführt](https://www.youtube.com/watch?v=0GDMq54TjuM) (15.07.2026, 42 Min.) — Kalayos Aufbereitung der These, dass in den Epstein-Akten gezielt zensiert wurde; vor Todd Blanches Bestätigungsanhörung im Senat. → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat|unsere Note]]
+- [Heidi Klum – Epstein-Flugprotokolle, Partybilder und Prinz Andrew: Was wir wissen – und was nicht!](https://www.youtube.com/watch?v=IY9efvg8TFk) (24.11.2025, 29 Min.) — die belegnächste Form des Kanals: schon im Titel getrennt, was man weiß und was nicht.
+- [Großer SIEG für Epstein-Opfer: Blanche MUSS jetzt liefern](https://www.youtube.com/watch?v=96wThK7l-9A) (18.09.2026, 37 Min.) — die Fortsetzung der Frist-Geschichte aus unserer Note, mit Gerichtsbezug.
+- [Trump dreht durch — Epstein-Netzwerk noch viel größer als gedacht!!](https://www.youtube.com/watch?v=j5lpcabwHhg) (18.02.2026, 49 Min.) — Einordnung neuer Dokumente zum Epstein-Netzwerk.
+- [Die Epstein-Schlinge zieht sich zu — und Trump verliert die Nerven!](https://www.youtube.com/watch?v=2NoO6wm0pBg) (22.02.2026, 41 Min.) — laufende Chronik der Epstein-Enthüllungen und Trumps Reaktionen.
 
 ## Kernthesen
 
@@ -57,16 +61,16 @@ tags: [denker-vita, usa, medien, youtube]
 
 ## Politische / ideologische Einordnung
 
-Kalayo ist klar **Trump-kritisch und progressiv** verortet — antiautoritär, auf der Seite der Missbrauchsopfer, gegen Elite-Straflosigkeit. Das ist eine ehrliche, offen getragene Haltung, keine neutrale Nachrichtensendung.
+Wir ordnen Kalayo als klar **Trump-kritisch und progressiv** ein — antiautoritär, auf der Seite der Missbrauchsopfer, gegen Elite-Straflosigkeit. Das ist eine offen getragene Haltung, keine neutrale Nachrichtensendung.
 
-Ehrlich zu benennen ist auch die **Grenze des Formats**: Es ist ein **Empörungsformat**. Die Videotitel sind Clickbait — Großbuchstaben, Ausrufezeichen, Superlative („STINKSAUER!", „Riesen BLAMAGE!", „UNFASSBARE"). Diese Dramatisierung erzeugt Reichweite, kann aber die Grenze zwischen belegter Recherche und suggestiver Zuspitzung verwischen. Wer Kalayo folgt, bekommt eine engagierte, parteiische Chronik der US-Politik von links — wertvoll als Verdichtung und Community-Motor, aber kein Ersatz für die Prüfung der Primärquellen. Die Yin-Yang-Lesart: das Feuer, das aufklärt, ist dasselbe, das übertreibt.
+Ehrlich zu benennen ist auch die **Grenze des Formats**: Es ist ein **Empörungsformat**. Die Videotitel sind Clickbait — Großbuchstaben, Ausrufezeichen, Superlative („STINKSAUER!", „Riesen BLAMAGE!", „UNFASSBARE"). Diese Dramatisierung erzeugt Reichweite, kann aber die Grenze zwischen belegter Recherche und suggestiver Zuspitzung verwischen. Wer Kalayo folgt, bekommt eine engagierte, parteiische Chronik der US-Politik von links — wertvoll als Verdichtung und Community-Motor, aber kein Ersatz für die Prüfung der Primärquellen. Ein Beispiel hält die [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein-Spur]] fest: Wo das Gericht „vorlegen oder begründen" verlangte und das Justizministerium begründete, verkürzte Kalayo zu „Frist verstreichen lassen". Die Yin-Yang-Lesart: das Feuer, das aufklärt, ist dasselbe, das übertreibt.
 
 ## Verbindungen zu anderen Denkern
 
 - [[DenkerVita/Manuel Koschi Politik|Koschi Politik]] — Der nächste Nachbar im Format: beide erklären US-Innenpolitik für ein deutschsprachiges Publikum, beide verfolgen den Epstein-Komplex als laufende Chronik. Der Unterschied ist der Ton — Koschi kennzeichnet seine Zuspitzung offen als „überspitzt und ironisch" und trennt Beleg von Vermutung; Kalayo fährt das Empörungsregister (Clickbait-Titel, „überführt"), zeigt dafür aber Originaldokumente und lässt O-Töne lang laufen. Zwei Temperamente derselben Nische.
-- [[DenkerVita/Der Dara|Der Dara]] — Dritter im Bunde der deutschsprachigen Politik-YouTuber; wo Kalayo auf die US-Elitenkorruption zielt, nimmt Der Dara oft die deutsche Innenpolitik ins Visier. Gemeinsam bilden sie den Typus des Creators, der klassische Auslandskorrespondenz durch parteiische, community-getragene Einordnung ersetzt — mit allen Stärken (Nähe, Tempo) und Risiken (Provenienz, Zuspitzung).
-- [[DenkerVita/Leon Black|Leon Black]] — Kein Format-Kollege, sondern eine der Figuren, die Kalayo verfolgt: der Milliardär und größte Epstein-Geldgeber steht für genau die Elite-Straflosigkeit, die Kalayos Kanal dokumentiert. Wo Kalayo die Mechanik der Schwärzung erzählt, ist Black einer der Namen, um deren Schutz es geht — der Gegenstand des Zorns, aus dem das „Feuer" seinen Namen bezieht.
+- [[DenkerVita/Der Dara|Der Dara]] — Dritter im Bunde der deutschsprachigen Politik-YouTuber; wo Kalayo auf die US-Elitenkorruption zielt, arbeitet sich Der Dara vor allem an AfD und rechten Influencern ab. Gemeinsam stehen sie für den Creator, der Nachrichten parteiisch und community-getragen einordnet — mit allen Stärken (Nähe, Tempo) und Risiken (Provenienz, Zuspitzung).
 
 ## Gedankenwelten-Notes
 
 - [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+- [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]] (Spur — Kalayo als deutschsprachige Einstiegsquelle, mit Provenienz-Vorbehalt)

@@ -3,6 +3,9 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Ernst Gelegs
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ernst Gelegs]]
+
 ## Steve Bannon
 **Status:** ✓ Vollanalyse → [[DenkerVita/Steve Bannon]]
 

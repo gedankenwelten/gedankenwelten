@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **29.10.** — [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
+>
+> Eine Regierung abzuwählen ist leichter, als ein Regime abzubauen. Kurz vor der Ungarn-Wahl zeigt Ernst Gelegs, welche Schlösser Orbán in den Staat eingebaut hat.
+
 > **28.10.** — [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
 >
 > Wenn der Kuchen nicht mehr wächst, müssen Löhne oder Steuern schrumpfen, damit die Gewinne steigen. Ein Forscher sagt, das treibe Europa nach rechts. Ein YouTuber erzählt es weiter, und dabei wird aus einer Wirkung eine Absicht.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Wer als Neffe eine Million in Aktien erbt, zahlt fast 300.000 Euro, wer eine Million in einer Firma erbt, oft nichts. Martin Oetting rechnet nach — und hört genau hin, wie eine Ministerin darüber redet.
 
-> **28.10.** — [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
->
-> Eine Konferenz als Heiratsmarkt der Rechten: Biersky folgt dem CPAC-Netz von Washington über Budapest bis Berlin und schöpft daraus Hoffnung. Was davon hielt, steht hier mit.
-
-> → *14 weitere in* [[Zeitgeist]]
+> → *13 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -68,8 +68,6 @@ Die Gedankenwelten (luc)
 >
 > Mit einem eigenen Preis holt Jacob Beautemps deutsche Erfindungen ans Licht, das Aber der Jury gleich mit. Den Auftakt macht die Energie: Was nach dem Strom bleibt, braucht Moleküle.
 
-> → *1 weitere in* [[Geistesblitz]]
-
 ### Panorama
 
 > **28.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
@@ -92,7 +90,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
 
-> → *13 weitere in* [[Panorama]]
+> → *12 weitere in* [[Panorama]]
 
 ### Spuren
 

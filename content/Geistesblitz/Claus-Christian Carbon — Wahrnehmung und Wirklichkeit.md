@@ -53,7 +53,7 @@ Das ist nicht metaphorisch gemeint, sondern neurobiologisch nachweisbar:
 - Aus dem Auge ins Gehirn laufen ca. **1 Million Nervenfasern**
 - Vom Gehirn zurück zum Corpus geniculatum laterale (der ersten Schaltstelle der Sehbahn) laufen jedoch **10–20 Millionen Fasern**
 
-Das bedeutet: Das Gehirn schickt weit mehr Signale **zurück** zum Sehorgan als es von dort empfängt. Es konstruiert aktiv, was es zu sehen erwartet — und lässt nur das durch, was zu seinem Modell passt.
+Das bedeutet: An der ersten Schaltstelle der Sehbahn kommen mehr Signale **von oben**, aus der Hirnrinde, an als aus dem Auge — Carbon sagt, sie seien „deutlich stärker gewichtet“ als die Informationen, „die eigentlich aus dem Auge kommen“ ([▶ 13:05](https://www.youtube.com/watch?v=-8gPB16_R_Y&t=785)). Es konstruiert aktiv, was es zu sehen erwartet — und lässt nur das durch, was zu seinem Modell passt.
 
 > [!note] Was das bedeutet
 > Wir nehmen nicht wahr und interpretieren dann. Wir interpretieren zuerst — und lassen die Wahrnehmung dem folgen. Das Modell im Kopf kommt vor dem Bild in der Welt.
@@ -287,7 +287,7 @@ Die ARTE-Reportage zeigt Carbons These in der Praxis: Synästhesie (Zimpel sieht
 
 ### → [[Albert Moukheiber — Mein Hirn und ich]]
 
-Thematischer Zwilling: Beide beschreiben Wahrnehmung als aktive Konstruktion des Gehirns — Carbon mit dem Befund der 10:1-Rückwärtsverdrahtung (das Gehirn schickt mehr Signale zum Sehorgan zurück als es empfängt), Moukheiber mit optischen Täuschungen und kognitiven Verzerrungen. Carbon gibt den theoretischen Rahmen (Top-down-Verarbeitung), Moukheiber bringt ihn für ein breites Publikum zugänglich durch Magie, Experimente und Alltagsbeispiele. Wo Carbon die kognitive Mechanik beschreibt, zeigt Moukheiber ihre evolutionären Wurzeln (Kahneman/Tversky, Überlebensverzerrung, Optimismusverzerrung).
+Thematischer Zwilling: Beide beschreiben Wahrnehmung als aktive Konstruktion des Gehirns — Carbon mit dem Befund der 10:1-Rückwärtsverdrahtung (an der ersten Schaltstelle der Sehbahn wiegen die Signale aus der Hirnrinde schwerer als die aus dem Auge), Moukheiber mit optischen Täuschungen und kognitiven Verzerrungen. Carbon gibt den theoretischen Rahmen (Top-down-Verarbeitung), Moukheiber bringt ihn für ein breites Publikum zugänglich durch Magie, Experimente und Alltagsbeispiele. Wo Carbon die kognitive Mechanik beschreibt, zeigt Moukheiber ihre evolutionären Wurzeln (Kahneman/Tversky, Überlebensverzerrung, Optimismusverzerrung).
 
 ### → [[Markus Gabriel — Was ist Realitaet]]
 

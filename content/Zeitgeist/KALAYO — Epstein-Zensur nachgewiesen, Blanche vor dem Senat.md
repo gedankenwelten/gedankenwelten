@@ -27,12 +27,12 @@ aktualisiert: 17.07.2026
 </details>
 
 > [!abstract] Worum es geht
-> Das FBI bestätigt schriftlich, dass interne Schulungsvideos existieren, die Analysten zeigten, wie Trumps Name in den Epstein-Akten zu finden, zu erfassen und zu schwärzen ist — und verweigert zugleich ihre Herausgabe. Parallel ließ Justizminister Todd Blanche die gerichtliche Frist zur Aktenvorlage verstreichen. Der deutsche YouTuber Kalayo bündelt die Recherchen von Katie Phang und Allison Gill zu einem Lagebild, unmittelbar bevor Blanche zur Bestätigungsanhörung vor den Senat tritt. Der Ton ist Empörung — der dokumentierte Kern aber ist prüfbar: FOIA-Schreiben, Gerichtsanträge, eine Meldung an die Anwaltskammer.
+> Das FBI bestätigt schriftlich, dass interne Schulungsvideos existieren, die Analysten zeigten, wie Trumps Name in den Epstein-Akten zu finden, zu erfassen und zu schwärzen ist — und verweigert zugleich ihre Herausgabe. Parallel legt das Justizministerium unter Todd Blanche die unzensierten Akten trotz gerichtlicher Anordnung nicht vor und ficht die Anordnung an. Der deutschsprachige YouTuber Kalayo bündelt die Recherchen von Katie Phang und Allison Gill zu einem Lagebild, unmittelbar bevor Blanche zur Bestätigungsanhörung vor den Senat tritt. Der Ton ist Empörung — der dokumentierte Kern aber ist prüfbar: FOIA-Schreiben, Gerichtsanträge, eine Meldung an die Anwaltskammer.
 
 Quelle: [Epstein-Zensur nachgewiesen!! Trump und Blanche überführt, Kongress-Anhörung wird politische Bombe](https://www.youtube.com/watch?v=0GDMq54TjuM) (KALAYO OFFICIAL, 15.07.2026)
 
 > [!info] Wer spricht?
-> **Kalayo** — pseudonymer deutscher Politik-YouTuber (Kanal *KALAYO OFFICIAL*, ~124.000 Abonnenten), der die US-Politik für ein deutschsprachiges Publikum einordnet: Fokus auf Elite-Korruption, die Epstein-Akten und den autoritären Umbau unter Trump. Der Name ist Cebuano (philippinisch) und bedeutet „Feuer". Klar positioniert, Empörungsformat mit Clickbait-Titeln — aber mit der Gewohnheit, Originaldokumente (Gerichtsanträge, FOIA-Schreiben) einzublenden und O-Töne lang laufen zu lassen. Betreibt daneben das Spendenprojekt „KALAYO hilft" (betterplace.org), das Empörung in konkretes Helfen überführt.
+> **Kalayo** — pseudonymer deutschsprachiger Politik-YouTuber (Kanal *KALAYO OFFICIAL*, ~124.000 Abonnenten), der die US-Politik für ein deutschsprachiges Publikum einordnet: Fokus auf Elite-Korruption, die Epstein-Akten und den autoritären Umbau unter Trump. Der Name ist Cebuano (philippinisch) und bedeutet „Feuer". Klar positioniert, Empörungsformat mit Clickbait-Titeln — aber mit der Gewohnheit, Originaldokumente (Gerichtsanträge, FOIA-Schreiben) einzublenden und O-Töne lang laufen zu lassen. Betreibt daneben das Spendenprojekt „KALAYO hilft" (betterplace.org), das Empörung in konkretes Helfen überführt.
 >
 > → [[DenkerVita/Kalayo|DenkerVita]]
 

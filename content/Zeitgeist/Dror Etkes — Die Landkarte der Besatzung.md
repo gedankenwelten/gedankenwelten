@@ -38,7 +38,7 @@ Quelle: [Siedlungsbau-Experte Dror Etkes über die israelische Gesellschaft — 
 > Dieses Gespräch wurde als einziges der Reihe **auf Deutsch** geführt — Etkes lebte 1994–1996 in Deutschland und hat die Sprache behalten. Zitate stehen hier, wo die Originalspur es hergibt, im deutschen Wortlaut; wo die automatische Untertitelung unbrauchbar war, stützt sich die Wiedergabe auf die englische Übersetzungsspur des Kanals.
 
 > [!info] Wer spricht?
-> **Dror Etkes** (geb. 1968 in Jerusalem) — israelischer Rechercheur und Kartograf der Besatzung. Aufgewachsen in **Ramat Eschkol** im annektierten Ost-Jerusalem, in einem Haus, das seine Eltern auf konfisziertem Land bauten. Soldat während der **ersten Intifada**. Leitete ab 2002 das *Settlement Watch*-Projekt von **Peace Now**, arbeitete danach für **Yesh Din** und gründete 2012 seine eigene Organisation **Kerem Navot**, die er im Wesentlichen allein betreibt. Dokumentiert israelische Landpolitik im Westjordanland mit Geoinformationssystemen, Luftbildern und Feldarbeit; veröffentlicht grundsätzlich auf Arabisch, Hebräisch und Englisch. Die Archive, die er bei Peace Now, Yesh Din und Kerem Navot aufgebaut hat, gelten als der maßgebliche nichtstaatliche Bestand zur Siedlungsentwicklung des 21. Jahrhunderts.
+> **Dror Etkes** (geb. 1968 in Jerusalem) — israelischer Rechercheur und Kartograf der Besatzung. Aufgewachsen in einem der nach 1967 gebauten Viertel im Norden des annektierten Ost-Jerusalem, in einem Haus, das seine Eltern auf konfisziertem Land bauten. Soldat während der **ersten Intifada**. Leitete ab 2002 das *Settlement Watch*-Projekt von **Peace Now**, arbeitete danach für **Yesh Din** und gründete 2012 seine eigene Organisation **Kerem Navot**, in der er nach eigener Aussage weitgehend allein arbeitet. Dokumentiert israelische Landpolitik im Westjordanland mit Geoinformationssystemen, Luftbildern und Feldarbeit; veröffentlicht grundsätzlich auf Arabisch, Hebräisch und Englisch. Schon 2003 schrieb der *Forward*, er wisse über die Siedlungen mehr als jeder andere, ausgenommen eine Handvoll Siedlerführer und Regierungsbeamte ([Forward](https://forward.com/news/6920/peace-now-project-keeps-an-eye-on-settlements/)).
 >
 > → [[DenkerVita/Dror Etkes|DenkerVita]]
 
@@ -135,7 +135,7 @@ Quelle: [Siedlungsbau-Experte Dror Etkes über die israelische Gesellschaft — 
 
 [▶ 58:09](https://www.youtube.com/watch?v=TEUL6L0N24Y&t=3489) — Eine Kleinigkeit, die viel über die Haltung sagt: Kerem Navot veröffentlicht grundsätzlich in drei Sprachen — Arabisch, Hebräisch, Englisch. „Unsere Verpflichtung gegenüber den Menschen, die Arabisch lesen, ist dieselbe wie gegenüber anderen. Letztlich geht es um ihr Land, es geht um ihr Leben. Deswegen ist es uns extrem wichtig, dass sie es auch in ihrer Muttersprache lesen können."
 
-[▶ 61:18](https://www.youtube.com/watch?v=TEUL6L0N24Y&t=3678) — Der Etat: rund 100.000 bis 120.000 Euro im Jahr, weniger als vierzig Prozent davon aus europäischen Quellen, genannt werden **medico international** und die **Rosa-Luxemburg-Stiftung**. „Das ist winzig. Aber wir versuchen, jeden Euro gut zu verwenden."
+[▶ 61:18](https://www.youtube.com/watch?v=TEUL6L0N24Y&t=3678) — Der Etat: rund 100.000 bis 120.000 Euro im Jahr, weniger als die Hälfte davon aus europäischen Ländern, genannt werden **medico international** und die **Rosa-Luxemburg-Stiftung**. „Das ist winzig. Aber wir versuchen, jeden Euro gut zu verwenden."
 
 ### Der letzte Satz geht nach Deutschland
 
@@ -165,7 +165,7 @@ Damit endet zugleich die gesamte Reise: „Das war unser letztes Interview für 
 
 > [!success] Bestätigt — Werdegang, Kerem Navot, die Rolle im Feld
 > Etkes übernahm 2002 die Leitung des *Settlement Watch*-Projekts von **Peace Now**, arbeitete danach bei **Yesh Din** und gründete **Kerem Navot** im Jahr **2012**. Die von ihm und seinen Teams bei Peace Now, Yesh Din und Kerem Navot aufgebauten Archive aus Daten, Karten und Berichten gelten als der maßgebliche nichtstaatliche Bestand zur israelischen Siedlungsentwicklung des 21. Jahrhunderts. Seine Darstellung, allein zu arbeiten und mit den größeren Organisationen dennoch zu kooperieren, deckt sich mit der Publikationspraxis gemeinsamer Berichte.
-> Der Vollständigkeit halber: Die israelische Organisation NGO Monitor kritisiert Kerem Navot als politisch einseitig und ausländisch finanziert — Etkes selbst legt die Finanzierung im Gespräch unaufgefordert offen (medico international, Rosa-Luxemburg-Stiftung, unter 40 % europäische Mittel bei ~100–120 T€ Jahresetat).
+> Der Vollständigkeit halber: Die israelische Organisation NGO Monitor kritisiert Kerem Navot als politisch einseitig und ausländisch finanziert — Etkes nennt auf Tilos Frage im Gespräch seine Geldgeber (medico international, Rosa-Luxemburg-Stiftung, teils Frankreich; weniger als die Hälfte aus Europa bei ~100–120 T€ Jahresetat). Vollständig ist die Liste nicht: Kerem Navot selbst nennt für 2025 zusätzlich den Norwegian Refugee Council ([keremnavot.org](https://www.keremnavot.org/english)), NGO Monitor führt weitere europäische Geber auf ([NGO Monitor](https://ngo-monitor.org/ngos/kerem_navot/)).
 > Quellen: [Kerem Navot — Überblick](https://en.wikipedia.org/wiki/Kerem_Navot) · [Dror Etkes — Biografie](https://en.wikipedia.org/wiki/Dror_Etkes)
 
 > [!success] Bestätigt — das IGH-Gutachten, das Etkes korrekt referiert
