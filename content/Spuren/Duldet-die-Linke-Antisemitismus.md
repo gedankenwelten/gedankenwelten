@@ -85,6 +85,14 @@ Die Grauzone wird nie zu Stufe A gezählt, aber offen ausgewiesen, mit der Angab
 
 **Zählregel Fraktionsausschluss, vorab registriert am 20.10.2026**, auf Andreas' Entscheidung, während der Fraktionsvorstand über Vanessa Emde berät und bevor ein Ergebnis bekannt ist. Schließt die Linksfraktion Emde aus, zählt das **nicht als einer der vier Schritte**. Ihr Satz steht nach dem Maßstab dieser Spur in der Grauzone, und der Ausschluss würde mit Disziplin begründet: mit der Mandatsträgervereinbarung und der zurückgezogenen Unterschrift, nicht mit dem Inhalt im Kern. Er wird unter Kriterium 5 als Befund geführt, als erste Konsequenz gegen eine Berliner Mandatsträgerin, und geht in die Gegenbeobachtung ein. Die Konfidenz darf sich dadurch leicht bewegen, die Stufe nicht. Dasselbe gilt für weichere Schritte wie das Sprechverbot vom 16.10.
 
+**Erweiterung der Zählregel, vorab registriert am 29.10.2026**, auf Andis Entscheidung, vor der Fraktionssitzung am
+03.11. und bevor ein Antrag gestellt ist. Was für den Fraktionsausschluss gilt, gilt auch für den Weg über die
+**Mandatsträgervereinbarung**: Schlagen Vorstände einem Parteitag vor, Vanessa Emde zur Rückgabe des Mandats
+aufzufordern, oder fasst ein Parteitag einen solchen Beschluss, zählt das **nicht als Schritt 1**, sondern als Befund
+unter Kriterium 5. Auch dieser Weg wäre mit der nicht erfüllten Vereinbarung begründet, also disziplinarisch, nicht mit
+einem Inhalt im gemeinsamen Kern. Ein Parteiausschlussverfahren, das ausdrücklich mit dem Inhalt begründet wird, bleibt
+davon unberührt und würde nach den vier Schritten geprüft.
+
 **Sonderregel zur Querachse:** Die Messung der Berichterstattung (unten) darf die Stufe weder heben noch senken. Eine laute Kampagne macht einen Vorwurf weder wahr noch falsch.
 
 ## Verlauf

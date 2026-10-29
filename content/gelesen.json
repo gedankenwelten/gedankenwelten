@@ -519,6 +519,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Götz-Aly-Wie-konnte-das-geschehen",
      "leser": 1,
      "aufrufe": 1
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 1,
      "aufrufe": 1
     }
