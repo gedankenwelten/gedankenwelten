@@ -395,7 +395,7 @@ Knaus kommt vom Balkan und fragt bei jedem Recht zuerst, wer es durchsetzt. Kell
 
 ### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
 
-Was Knaus als Alternative der Rechtspopulisten skizziert — man macht es wie Trump, schafft das Asylrecht ab, stellt Soldaten hin —, ist bei Christian Jakob als laufender Betrieb dokumentiert. Jakobs These, rechte Erzählungen über Flucht wirkten auch gegen die Fakten, weil sie auf Angst statt Empirie zielen, ist der schärfste Einwand gegen Knaus' Zorn über die unseriöse Debatte: Er kämpft mit Zahlen gegen etwas, das nie aus Zahlen gebaut war.
+Was Knaus als Alternative der Rechtspopulisten skizziert — man macht es wie Trump, schafft das Asylrecht ab, stellt Soldaten hin —, zeigt diese taz-Folge mit der Razzia in Georgia als laufenden Betrieb. Christian Jakob, der in derselben Folge über die Ministerien spricht, hat mit Simone Schlindwein in *Diktatoren als Türsteher Europas* beschrieben, was Abkommen mit Drittstaaten, auf die Knaus setzt, in Afrika anrichten können.
 
 ### → [[Moellers und Poschardt — Welche Freiheit wollen wir]]
 

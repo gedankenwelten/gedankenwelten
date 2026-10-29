@@ -202,7 +202,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Evan Osnos|Evan Osnos]]** — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
 
-**[[DenkerVita/Eva von Redecker|Eva von Redecker]]** — Philosophin, kritische Theoretikerin; Sorgearbeit-Theorie, Bleibefreiheit als Freiheitsbegriff, neuer Faschismus als Phantombesitz-Logik; Autorin *Revolution für das Leben*, *Bleibefreiheit*, *Dieser Drang nach Härte*
+**[[DenkerVita/Eva von Redecker|Eva von Redecker]]** — Philosophin, kritische Theoretikerin; Sorgearbeit als privatisiertes Eigentum, Bleibefreiheit als Freiheitsbegriff, neuer Faschismus als Phantombesitz-Logik; Autorin *Revolution für das Leben*, *Bleibefreiheit*, *Dieser Drang nach Härte*
 
 **[[DenkerVita/Giulia Enders|Giulia Enders]]** — Ärztin, Gastroenterologin und Wissenschaftskommunikatorin (*1990, Mannheim); Science-Slam-Siegerin 2012; *Darm mit Charme* (2014, über 40 Sprachen) machte den Darm salonfähig; *Organisch* (2025)
 
@@ -338,7 +338,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Julia Friedrichs|Julia Friedrichs]]** — Preisgekrönte Journalistin und Dokumentarfilmerin (ARD, ZDF, Die Zeit); Gründerin Tell Me Why; Autorin *Crazy Rich*; Kategorienfehler Einkommen vs. Vermögen, Steuervermeidungsindustrie, Parallelgesellschaft der Überreichen
 
-**[[DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, letzter großer Geschichtsphilosoph
+**[[DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Historikerstreit
 
 **[[DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]]** — Neurobiologe & Mathematiker, seit 2022 Direktor des Instituts für Grenzgebiete der Psychologie und Psychohygiene (IGPP) Freiburg, Privatdozent Uni Freiburg; Necker-Würfel und bistabile Wahrnehmung im EEG, Wahrnehmung als Konstruktion, mehrdeutige Reize als Labormodell für außergewöhnliche Erfahrungen, Geist-Materie-Problem
 
@@ -426,7 +426,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik (Kanal seit Herbst 2025); lebt seit rund neun Jahren in Buffalo, New York; offen gegen Trump, unabhängig; stark in Fallrekonstruktionen zu ICE
 
-**[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Italienische Psychiaterin (Univ. Pisa); Neurobiologie der Liebe, Serotonin & Zwangsstörung; zeigte ~40 % niedrigere Serotonin-Transporter bei frisch Verliebten; Ig-Nobelpreis Chemie 2000
+**[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Italienische Psychiaterin (Univ. Pisa); Neurobiologie der Liebe, Serotonin & Zwangsstörung; fand bei frisch Verliebten eine deutlich niedrigere Serotonin-Transporter-Dichte, wie bei Zwangskranken; Ig-Nobelpreis Chemie 2000
 
 **[[DenkerVita/Malala Yousafzai|Malala Yousafzai]]** — Pakistanische Bildungsaktivistin, jüngste Friedensnobelpreisträgerin (2014, mit 17); als Kind BBC-Bloggerin unter den Taliban, Attentat 2012 überlebt; Bildung als Menschenrecht, „ein Kind, ein Lehrer, ein Buch, ein Stift“, Geschlechter-Apartheid in Afghanistan; *Ich bin Malala* (2013), *Finding My Way* (2025)
 
@@ -651,7 +651,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
 
-**[[DenkerVita/Tilo Wesche|Tilo Wesche]]** — Philosoph, Professor Praktische Philosophie Universität Oldenburg; Kritische Theorie (Adorno), Eigentumstheorie, Naturrechte; *Die Rechte der Natur — Vom nachhaltigen Eigentum* (2023); aufgewachsen in Namibia unter Apartheid, daher besonderer Fokus auf Kolonialismus und Enteignungslogiken
+**[[DenkerVita/Tilo Wesche|Tilo Wesche]]** — Philosoph, Professor Praktische Philosophie Universität Oldenburg; Kritische Theorie (Adorno), Eigentumstheorie, Rechte der Natur; *Die Rechte der Natur — Vom nachhaltigen Eigentum* (2023); Schulzeit in Namibia unter der Apartheid; Kolonialismus als Eigentumsrechts-Frage
 
 **[[DenkerVita/Tim Meyer|Tim Meyer]]** — Unabhängiger Energieexperte, Autor *Strom*; ehem. dena-Geschäftsführer; Chinas Cleantech als industrielogische Transformation, Europa muss aufwachen
 
@@ -744,7 +744,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[DenkerVita/Alex Demirovic|Alex Demirović]] — Sozialwissenschaftler, Senior Fellow Rosa-Luxemburg-Stiftung; Staat als Verdichtung von Kräfteverhältnissen, Wirtschaftsdemokratie
 - [[DenkerVita/Arne Semsrott|Arne Semsrott]] — Journalist, Aktivist, Projektleiter FragDenStaat; Pressefreiheit, Informationsfreiheit, Anti-Rechtsextremismus
 - [[DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]] — Philosoph; Blinder Wille zum Leben, sechsfaches Leiden, Mitleid als Moralbasis
-- [[DenkerVita/Christian Jakob|Christian Jakob]] — Journalist taz; Migrationsframing als Rechtsverschiebung, Kulturkampf in Ministerien, Zivilgesellschaft
+- [[DenkerVita/Christian Jakob|Christian Jakob]] — Journalist taz; EU-Grenzen in Afrika, Geflüchtete als Akteure, Untergangsangst, Kulturkampf in Ministerien
 - [[DenkerVita/Frank Sieren|Frank Sieren]] — Journalist, China-Experte; 32 Jahre Peking, liberale Globalisierung als Mittel (nicht Zweck), Chinas strategische Klarheit
 - [[DenkerVita/Franz Kafka|Franz Kafka]] — Schriftsteller; Existenzielle Angewiesenheit, Totsagen als sozialer Tod, Seinszuspruch
 - [[DenkerVita/Maja Goepel|Maja Göpel]] — Politische Ökonomin; Systemwandel, planetare Grenzen, Narrative des Wandels, Scientists for Future

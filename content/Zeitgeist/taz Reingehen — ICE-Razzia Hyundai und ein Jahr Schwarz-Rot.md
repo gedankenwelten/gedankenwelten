@@ -26,7 +26,7 @@ Quelle: [Trumps größte Abschiebeaktion — Podcast Reingehen](https://www.yout
 > [!info] Wer spricht?
 > **Sophie Fichtner** — Moderatorin des taz-Podcasts *Reingehen* (Wochentaz)
 >
-> **Christian Jakob** (*1979, Quakenbrück*) — taz-Journalist im Ressort Reportage und Recherche. Studium der Soziologie in Bremen und Mailand, Global Studies in Berlin, Buenos Aires und Delhi. Berichtet seit Jahren über Migrationspolitik, Menschenrechte und Desinformation. Buch: *Die Bleibenden* (über den Wandel der deutschen Zivilgesellschaft seit dem Asylkompromiss 1993) und *Europa macht dicht* (2011, co-verfasst). Gilt als einer der profiliertesten deutschen Journalisten zum Thema Migration und Grenzregime.
+> **Christian Jakob** (*1979, Quakenbrück*) — taz-Journalist im Ressort Reportage und Recherche. Studium der Soziologie in Bremen und Mailand, Global Studies in Berlin, Buenos Aires und Delhi. Berichtet seit 2006 über Asyl, Migration und das europäische Grenzregime. Bücher u. a.: *Die Bleibenden* (2016, wie Geflüchtete Deutschland verändert haben), *Diktatoren als Türsteher Europas* (2017, mit Simone Schlindwein), *Endzeit* (2023).
 >
 > **Marina Klimchuk** — Freie Journalistin, schreibt für ZEIT, taz, Stern, WOZ, GEO. Kam in den 1990ern als jüdische Kontingentflüchtlingin nach Deutschland. Lebte zwei Jahre in den USA — zwischen Greyhound-Bussen, Depression und demokratischem Niedergang. Schwerpunkte: Migration, Erinnerungskultur, internationale Konflikte. Ausgezeichnet mit dem VDRJ-Preis 2025 für *Der Bus* (Greyhound-Querreise durch die USA) und dem Helmut-Stegmann-Preis für den Essay *Nahes fernes Heimatland*.
 
@@ -222,7 +222,7 @@ Vom Massenzugriff zum Einzelschicksal: Der Fall Guerrero (Biddeford, Maine) zeig
 
 ### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
 
-Knaus beschreibt die Alternative der Rechtspopulisten als Zukunftsszenario — Asylrecht abschaffen, Soldaten an die Grenze, das Modell Trump. Christian Jakob dokumentiert es als laufenden Betrieb. Und seine These, rechte Fluchterzählungen wirkten auch gegen die Fakten, weil sie auf Angst zielen, ist zugleich der schärfste Einwand gegen Knaus' Hoffnung, eine seriös geführte Zahlendebatte könne die Lage drehen.
+Knaus beschreibt die Alternative der Rechtspopulisten als Zukunftsszenario — Asylrecht abschaffen, Soldaten an die Grenze, das Modell Trump. Die Razzia in Georgia, von der Marina Klimchuk in dieser Folge berichtet, zeigt es als laufenden Betrieb. Und Christian Jakob hat mit Simone Schlindwein in *Diktatoren als Türsteher Europas* beschrieben, was die Abkommen mit Drittstaaten, auf die Knaus setzt, in Afrika anrichten können.
 
 ### → [[Koschi Politik — ICE setzt neue Rekorde]]
 

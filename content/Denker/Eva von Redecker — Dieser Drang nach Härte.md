@@ -36,7 +36,7 @@ aliases:
 Quelle: taz Talk meets Buchmesse Leipzig, März 2026 (Buchvorstellung bei S. Fischer)
 
 > [!info] Wer spricht?
-> **Eva von Redecker** — Philosophin und freie Autorin; promoviert an der Humboldt-Universität Berlin bei Rahel Jaeggi über Praxis und Revolution. Lebt in Brandenburg, Lehrauftrag an der HFBK Hamburg. Vorherige Bücher: *Revolution für das Leben* (2020, über Klima- und Antirassismusbewegungen) und *Bleibefreiheit* (2023). Ihr neues Buch *Dieser Drang nach Härte. Über den neuen Faschismus* erscheint bei S. Fischer. Gesprächspartnerin: **Ulrike Winkelmann**, Chefredakteurin der taz.
+> **Eva von Redecker** — Philosophin und freie Autorin; promoviert an der Humboldt-Universität Berlin bei Rahel Jaeggi über Praxis und Revolution. Lebt im ländlichen Brandenburg, seit dem Sommersemester 2026 Gastprofessorin für Philosophie an der HFBK Hamburg. Vorherige Bücher: *Revolution für das Leben* (2020, über Klima- und Antirassismusbewegungen) und *Bleibefreiheit* (2023). Ihr neues Buch *Dieser Drang nach Härte. Über den neuen Faschismus* erscheint bei S. Fischer. Gesprächspartnerin: **Ulrike Winkelmann**, Chefredakteurin der taz.
 
 > [!quote] Kernthese
 > *„Faschismus ist aus meiner Sicht immer vernichtende Phantombesitzverteidigung."*

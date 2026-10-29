@@ -166,7 +166,7 @@ Malalas schärfster Satz — „Raum schaffen für Frauen an jenen Tischen, an d
 
 ### → [[Maren Urner — Radikal hoffnungsvoll]]
 
-Derselbe Gedanke, einmal gelebt, einmal neurowissenschaftlich erklärt: Malalas „Hoffnung ist keine Stimmung, sondern eine Gelegenheit zur Veränderung" ist fast wörtlich Urners *Hope Theory* nach C. R. Snyder (Hoffnung = Willenskraft + Wegkraft, ein erlernbarer Denkmodus, nicht Optimismus). Malalas „Gefühl der Dringlichkeit, das alle zum Handeln zwingt", ist Urners Wegkraft in Aktion. Wer die eine Note liest, findet in der anderen das Fundament unter dem Begriff.
+Derselbe Gedanke, einmal gelebt, einmal neurowissenschaftlich erklärt: Malalas Satz, man müsse hoffnungsvoll bleiben, weil die Krise „eine Gelegenheit zur Veränderung" sei, liegt nah an Urners *Hope Theory* nach C. R. Snyder (Hoffnung = Willenskraft + Wegkraft, ein erlernbarer Denkmodus, nicht Optimismus). Malalas „Gefühl der Dringlichkeit, das alle zum Handeln zwingt", ist Urners Wegkraft in Aktion. Wer die eine Note liest, findet in der anderen das Fundament unter dem Begriff.
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
 

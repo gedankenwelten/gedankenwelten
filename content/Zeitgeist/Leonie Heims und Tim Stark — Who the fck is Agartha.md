@@ -37,7 +37,7 @@ Quelle: [re:publica 26: Who the f#ck is Agartha?](https://www.youtube.com/watch?
 
 > [!info] Wer spricht?
 > **Leonie Heims** — Kommunikations- und Sprachwissenschaftlerin (Kognitive Medienlinguistik, TU Berlin), wissenschaftliche Mitarbeiterin bei **modus|zad**, dem Berliner Zentrum für angewandte Deradikalisierungsforschung. Forscht zu Verschwörungserzählungen, Desinformation und dem souveränistischen Milieu; klärt im Projekt „Der Fabulant" auf Social Media über trendende Mythen auf.
-> **Tim Stark** — bringt die Perspektive der kognitiven Einflussnahme ein: wie ironische Meme-Kulturen extremistische Inhalte psychologisch anschlussfähig machen; eigene Forschung zur Agartha-Sphäre im Kontext der Gesellschaft für digitalen Ungehorsam. Gemeinsam nennen sich die beiden für diese halbe Stunde „eure wissenschaftlichen Travel Guides".
+> **Tim Stark** — Politikwissenschaftler und Sicherheitsforscher (strategische Kommunikation, kognitive Kriegsführung, Desinformation), bringt die Perspektive der kognitiven Einflussnahme ein. Die Agartha-Sphäre hat er nach eigenen Worten „in meiner Forschung im Kontext von der Gesellschaft für digitalen Ungehorsam“ untersucht, einer Berliner Agentur für politische Kommunikation ([▶ 13:11](https://www.youtube.com/watch?v=MkFdjOmdsL0&t=791)). Gemeinsam nennen sich die beiden für diese halbe Stunde „eure wissenschaftlichen Travel Guides".
 >
 > → [[DenkerVita/Leonie Heims|DenkerVita Leonie Heims]] · [[DenkerVita/Tim Stark|DenkerVita Tim Stark]]
 

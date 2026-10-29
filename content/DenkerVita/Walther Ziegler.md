@@ -21,9 +21,9 @@ tags: [denker-vita, philosophie, didaktik, deutschland]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Buchreihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen, die er vor Studierenden hält und auf YouTube veröffentlicht, verbinden akademische Strenge mit lebendigen Alltagsbeispielen, von Wikingergottes über SUV-Fahrer im Biomarkt bis zum Supermarktregal.
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Buchreihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorträge, die er auf YouTube veröffentlicht, verbinden akademische Strenge mit lebendigen Alltagsbeispielen, vom Kriegsgott der Wikinger über den SUV-Fahrer im Biomarkt bis zum Supermarktregal.
 >
-> Die Reihe umfasst bisher über 25 Titel und ist in zahlreichen Sprachen erschienen. Ziegler lehrt an Hochschulen und erreicht über seinen YouTube-Kanal (*Dr. Walther Ziegler*) ein Publikum weit über den akademischen Betrieb hinaus.
+> Die Reihe umfasst 26 Einzelbände zu je einem Denker, dazu fünf Sammelbände und zwei Themenbände (Stand DNB, Oktober 2026); übersetzt ist sie ins Englische, Französische, Vietnamesische und Koreanische. Bevor er Philosophie vermittelte, war der promovierte Philosoph Auslandskorrespondent, Reporter und Nachrichtenchef bei ProSieben; von 2007 bis 2015 leitete er die Medienakademie, eine Hochschule für Film- und Fernsehstudiengänge im Verbund der Hochschule Mittweida ([Autorenseite](https://walther-ziegler.jimdofree.com/autor/)). Über seinen YouTube-Kanal (*Dr. Walther Ziegler*) erreicht er ein Publikum weit über den akademischen Betrieb hinaus.
 >
 > Kernleistung: Philosophische Tiefe in allgemeinverständlicher Sprache — nicht als Popularisierung, sondern als Demokratisierung des Denkens.
 
@@ -43,7 +43,7 @@ Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 
 ## Buchreihe „Große Denker in 60 Minuten"
 
-*Erschienen bei Books on Demand (BoD), jeweils als Taschenbuch und E-Book. Die Bücher enthalten ca. dreimal so viele Zitate wie die Vorträge.*
+*Erschienen bei BoD – Books on Demand (Norderstedt), jeweils als Taschenbuch und E-Book. Die Bücher enthalten ca. dreimal so viele Zitate wie die Vorträge.*
 
 ### Bisher erschienene Einzeltitel (Auswahl)
 
@@ -72,10 +72,14 @@ Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 | Kafka in 60 Minuten | Verwandlung, Prozess, Entfremdung |
 | Descartes in 60 Minuten | Cogito ergo sum, Dualismus, methodischer Zweifel |
 | Epikur in 60 Minuten | Ataraxie, Lustprinzip, Götterferne |
+| Heidegger in 60 Minuten | Dasein, Sein-zum-Tode, das Man, Technik |
+| Rawls in 60 Minuten | Schleier des Nichtwissens, Differenzprinzip |
+| Spinoza in 60 Minuten | Gott oder Natur, Ethik, Affektenlehre |
 
 ### Sammelbände
 
-- *Große Denker in 60 Minuten — Band 1–5* (je 5 Denker, ca. €55)
+- *Große Denker in 60 Minuten — Band 1–5* (je fünf Denker): 1 Platon, Rousseau, Smith, Kant, Hegel · 2 Marx, Freud, Sartre, Camus, Heidegger · 3 Konfuzius, Buddha, Epikur, Descartes, Hobbes · 4 Schopenhauer, Nietzsche, Wittgenstein, Kafka, Arendt · 5 Adorno, Habermas, Foucault, Rawls, Popper
+- Themenbände: *10 große Fragen der Philosophie in 60 Minuten* · *10 philosophische Wege zum Glück in 60 Minuten*
 
 → [Alle Titel bei Genialokal](https://www.genialokal.de/Suche/?q=Walther+Ziegler+60+Minuten)
 
@@ -83,17 +87,17 @@ Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 
 ## Empfehlenswerte Videos (YouTube-Kanal: Dr. Walther Ziegler)
 
-*Alle Vorträge sind vollständige Hochschulvorlesungen — keine Kurzclips.*
+*Jeder Vortrag dauert rund eine Stunde — keine Kurzclips.*
 
 | Denker | Link | Im Vault |
 |--------|------|----------|
-| Platon | [YouTube](https://www.youtube.com/watch?v=_BfXS2iKHLY) | [[Walther Ziegler — Platon in 60 Minuten]] |
+| Platon | [YouTube](https://www.youtube.com/watch?v=1yQTYWSoDiw) | [[Walther Ziegler — Platon in 60 Minuten]] |
 | Kant | [YouTube](https://www.youtube.com/watch?v=q2Wky9MKw50) | [[Walther Ziegler — Kant in 60 Minuten]] |
-| Hegel | [YouTube](https://www.youtube.com/watch?v=dQn1-JfJIts) | [[Walther Ziegler — Hegel in 60 Minuten]] |
+| Hegel | [YouTube](https://www.youtube.com/watch?v=qoTngm8b7kQ) | [[Walther Ziegler — Hegel in 60 Minuten]] |
 | Marx | [YouTube](https://www.youtube.com/watch?v=thoI8naBo4E) | [[Walther Ziegler — Marx in 60 Minuten]] |
-| Nietzsche | [YouTube](https://www.youtube.com/watch?v=EaMq-JcaTss) | [[Walther Ziegler — Nietzsche in 60 Minuten]] |
+| Nietzsche | [YouTube](https://www.youtube.com/watch?v=gDERe48hvgs) | [[Walther Ziegler — Nietzsche in 60 Minuten]] |
 | Schopenhauer | [YouTube](https://www.youtube.com/watch?v=rLZqoXsyvp4) | [[Walther Ziegler — Schopenhauer in 60 Minuten]] |
-| Sartre | [YouTube](https://www.youtube.com/watch?v=V30RW7XhU5s) | [[Walther Ziegler — Sartre in 60 Minuten]] |
+| Sartre | [YouTube](https://www.youtube.com/watch?v=TJjM4EiSdDg) | [[Walther Ziegler — Sartre in 60 Minuten]] |
 | Adorno | [YouTube](https://www.youtube.com/watch?v=2sNlmGneXmM) | [[Walther Ziegler — Adorno in 60 Minuten]] |
 | Foucault | [YouTube](https://www.youtube.com/watch?v=mY8xqn9MYbI) | [[Walther Ziegler — Foucault in 60 Minuten]] |
 | Kafka | [YouTube](https://www.youtube.com/watch?v=dW-WTPkkDkw) | [[Walther Ziegler — Kafka in 60 Minuten]] |
@@ -105,18 +109,23 @@ Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 | Freud | [YouTube](https://www.youtube.com/watch?v=RcCL4OathoE) | [[Walther Ziegler — Freud in 60 Minuten]] |
 | Habermas | [YouTube](https://www.youtube.com/watch?v=Z84VJfYp3lY) | [[Walther Ziegler — Habermas in 60 Minuten]] |
 | Wittgenstein | [YouTube](https://www.youtube.com/watch?v=MPloJBS0K-I) | [[Walther Ziegler — Wittgenstein in 60 Minuten]] |
+| Smith | [YouTube](https://www.youtube.com/watch?v=G01bPnH6Lss) | [[Walther Ziegler — Smith in 60 Minuten]] |
+| Camus | [YouTube](https://www.youtube.com/watch?v=f6dF1Nf1TqM) | [[Walther Ziegler — Camus in 60 Minuten]] |
+| Heidegger | [YouTube](https://www.youtube.com/watch?v=cG3ol6AYAWI) | [[Walther Ziegler — Heidegger in 60 Minuten]] |
+| Rawls | [YouTube](https://www.youtube.com/watch?v=HWoJUo0o89I) | [[Walther Ziegler — Rawls in 60 Minuten]] |
 
 ---
 
 ## Bedeutung für Gedankenwelten
 
-Walther Ziegler ist mit **19 Notes** der am häufigsten vertretene Sprecher im gesamten Vault. Das ist kein Zufall: Seine Vorlesungsreihe deckt die philosophische Grundbildung ab, die als Fundament für alle anderen Gedankenwelten-Notes dient.
+Walther Ziegler ist mit **22 Notes** eine der am stärksten vertretenen Stimmen im Vault. Das ist kein Zufall: Seine Vorlesungsreihe deckt die philosophische Grundbildung ab, die als Fundament für alle anderen Gedankenwelten-Notes dient.
 
 Die Ziegler-Notes bilden ein **philosophisches Koordinatensystem**:
 
 - **Erkenntnistheorie:** Descartes (Rationalismus, Cogito) → Platon (Ideenlehre) → Kant (Kategorien, Ding an sich) → Foucault (Episteme)
 - **Geschichtsphilosophie:** Hegel (Dialektik, Weltgeist) → Marx (Historischer Materialismus) → Adorno (Dialektik der Aufklärung)
-- **Existenz & Freiheit:** Schopenhauer (Wille, Leiden) → Nietzsche (Übermensch, Wille zur Macht) → Sartre (radikale Freiheit)
+- **Existenz & Freiheit:** Schopenhauer (Wille, Leiden) → Nietzsche (Übermensch, Wille zur Macht) → Heidegger (Sein-zum-Tode, das Man) → Sartre (radikale Freiheit) → Camus (das Absurde, Revolte)
+- **Gesellschaft & Gerechtigkeit:** Konfuzius (Ren, Ordnung) → Smith (unsichtbare Hand) → Popper (offene Gesellschaft) → Habermas (Diskurs) → Rawls (Schleier des Nichtwissens)
 - **Tiefenpsychologie:** Freud (Unbewusstes, Es/Ich/Über-Ich, Psychoanalyse)
 
 Jede Zeitgeist-Note im Vault — ob Butterwegge über Armut, Mattei über Austerität oder Osnos über Megayachten — wird tiefer, wenn man die philosophischen Grundlagen kennt, die Ziegler vermittelt.
@@ -155,3 +164,6 @@ Jede Zeitgeist-Note im Vault — ob Butterwegge über Armut, Mattei über Auster
 - [[Walther Ziegler — Freud in 60 Minuten]] — Unbewusstes, Es/Ich/Über-Ich, Ödipuskomplex, Sublimierung, Verdrängung, Neurose/Psychose, Psychoanalyse als Gespräch
 - [[Walther Ziegler — Habermas in 60 Minuten]] — Vier Geltungsansprüche, kommunikatives Handeln, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Diskursethik
 - [[Walther Ziegler — Wittgenstein in 60 Minuten]] — Linguistic Turn, Bildtheorie, Tractatus, Sprachspiele, beredetes Schweigen, Sprache als alte Stadt
+- [[Walther Ziegler — Camus in 60 Minuten]] — Gefühl der Absurdität, die drei verbotenen Fluchten, Sisyphos, Revolte, Quantität der Erfahrung
+- [[Walther Ziegler — Heidegger in 60 Minuten]] — Sinn von Sein, In-der-Welt-Sein, Sorge, Sein-zum-Tode, das Man, Ruf des Gewissens, Technik und Kehre
+- [[Walther Ziegler — Rawls in 60 Minuten]] — Verfahrensgerechtigkeit, Schleier des Nichtwissens, Urzustand, Minimax-Regel, Differenzprinzip

@@ -38,7 +38,7 @@ aliases:
 Quelle: [Extremismus auf dem Vormarsch – Droht ein neuer Faschismus? | Sternstunde Philosophie | SRF Kultur](https://www.youtube.com/watch?v=jlbO-ckfIew) (31.05.2026)
 
 > [!info] Wer spricht?
-> **Eva von Redecker** (*1982*) — Philosophin und Sorgearbeit-Theoretikerin; ihre Bücher *Revolution für das Leben*, *Bleibefreiheit* und zuletzt *Dieser Drang nach Härte* (2026) bauen wie ein Denkprozess aufeinander auf. Im Gespräch vertritt sie ihre Kernthese: Faschismus als entfesselte Eigentumslogik.
+> **Eva von Redecker** (*1982*) — Philosophin aus der Linie der Kritischen Theorie und der feministischen Philosophie; ihre Bücher *Revolution für das Leben*, *Bleibefreiheit* und zuletzt *Dieser Drang nach Härte* (2026) bauen wie ein Denkprozess aufeinander auf. Im Gespräch vertritt sie ihre Kernthese: Faschismus als entfesselte Eigentumslogik.
 > → [[DenkerVita/Eva von Redecker|DenkerVita]]
 >
 > **Damir Skenderovic** (*1965, Dortmund*) — Schweizer Historiker, Professor für Zeitgeschichte an der Universität Freiburg (Fribourg); erforscht seit über 30 Jahren die radikale Rechte (Standardwerk *The Radical Right in Switzerland*, 2009), aktuell mit einem großen SNF-Projekt zur Faschismusgeschichte. Er bringt die Langzeitperspektive ins Gespräch: Rechtsextremismus als Kontinuität, die immer neue Formen annimmt.

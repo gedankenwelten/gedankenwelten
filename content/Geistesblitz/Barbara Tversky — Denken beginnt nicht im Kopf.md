@@ -188,7 +188,7 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 ## Faktencheck
 
 > [!warning] Vereinfacht — Räumliches Denken und Kortex-Anteil
-> Tversky behauptet, räumliches Denken nehme „mehr als die Hälfte des Kortex" ein. Raumverarbeitung ist tatsächlich außerordentlich weit verteilt — okzipitale, parietale, temporale und frontale Areale enthalten räumlich organisierte Repräsentationen. Neurowissenschaftler bestätigen die qualitative These (Raum dominiert gegenüber Sprache). Den präzisen Zahlenwert „~50%" findet man in der Primärliteratur jedoch nicht — er ist eine rhetorische Verdichtung, kein gemessener Befund.
+> Tversky sagt, räumliches Denken nehme „die Hälfte unseres Kortex" ein („half our cortex"). Raumverarbeitung ist tatsächlich außerordentlich weit verteilt — okzipitale, parietale, temporale und frontale Areale enthalten räumlich organisierte Repräsentationen. Neurowissenschaftler bestätigen die qualitative These (Raum dominiert gegenüber Sprache). Den präzisen Zahlenwert „~50%" findet man in der Primärliteratur jedoch nicht — er ist eine rhetorische Verdichtung, kein gemessener Befund.
 > Quelle: Tversky (2019), *Mind in Motion*, Basic Books — dort steht die Zahl; eine Messung, die sie stützt, fehlt.
 
 > [!success] Bestätigt — Gesten gehen Worten voraus

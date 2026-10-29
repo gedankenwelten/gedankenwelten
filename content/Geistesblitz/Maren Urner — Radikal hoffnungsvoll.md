@@ -238,7 +238,7 @@ Urners These in Reportageform: Mats diagnostiziert denselben Negativitätsbias (
 
 ### → [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
 
-Derselbe Gedanke, einmal gelebt, einmal neurowissenschaftlich erklärt: Malalas „Hoffnung ist keine Stimmung, sondern eine Gelegenheit zur Veränderung" ist fast wörtlich Urners *Hope Theory* nach C. R. Snyder (Willenskraft + Wegkraft, ein erlernbarer Denkmodus, nicht Optimismus). Malalas „Gefühl der Dringlichkeit, das alle zum Handeln zwingt", ist Urners Wegkraft in Aktion — gelebte Haltung trifft ihre kognitive Erklärung.
+Derselbe Gedanke, einmal gelebt, einmal neurowissenschaftlich erklärt: Malalas Satz, man müsse hoffnungsvoll bleiben, weil die Krise „eine Gelegenheit zur Veränderung" sei, liegt nah an Urners *Hope Theory* nach C. R. Snyder (Willenskraft + Wegkraft, ein erlernbarer Denkmodus, nicht Optimismus). Malalas „Gefühl der Dringlichkeit, das alle zum Handeln zwingt", ist Urners Wegkraft in Aktion — gelebte Haltung trifft ihre kognitive Erklärung.
 
 ### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 Die direkte Kehrseite zu Urners KI-Paradox: Wo Urner warnt, der Mensch werde maschinell (optimiert, standardisiert), verteidigt Ono die übersehene, verteilte Kreativität — das Staunen, das die Notenjagd austreibt. Zwei Seiten derselben Sorge, dass das Außergewöhnliche im Menschen verschwindet.

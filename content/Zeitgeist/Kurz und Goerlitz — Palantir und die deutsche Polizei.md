@@ -229,7 +229,7 @@ hinein — und wird dort unsichtbar.
 
 ### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
 
-Fünf Monate später in Wien: Die Warnung, ein souveräner Anbieter löse das Strukturproblem nicht, hat sich bestätigt. Die Länder wollen jetzt offen „die Datenanalyse, keine Palantir-Produkte“. Dazu kommen der europäische Stimmungswandel (London, Bern, Bundeswehr) und das KI-Training mit echten Bürgerdaten.
+Fünf Monate später in Wien: Die Warnung, ein souveräner Anbieter löse das Strukturproblem nicht, hat sich bestätigt. Die Länder wollen jetzt offen die Datenanalyse, nur „keine Palantir-Produkte“, wie Schleswig-Holsteins Innenministerin sagt. Dazu kommen der europäische Stimmungswandel (London, Bern, Bundeswehr) und das KI-Training mit echten Bürgerdaten.
 
 ## Weiterdenken
 

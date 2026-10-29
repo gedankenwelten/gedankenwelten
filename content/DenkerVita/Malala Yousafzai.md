@@ -1,6 +1,8 @@
 ---
 title: Malala Yousafzai — DenkerVita
 description: "Mit elf schrieb sie gegen das Schulverbot der Taliban an, mit fünfzehn schoss man ihr in den Kopf: Malala Yousafzai kämpft für das Recht jedes Mädchens, zur Schule zu gehen."
+date: 2026-07-12
+aktualisiert: 2026-07-12
 tags: [denker-vita, bildung, menschenrechte, feminismus, pakistan]
 ---
 
@@ -49,8 +51,8 @@ Zu ihrem 16. Geburtstag, dem 12. Juli 2013 — heute als „Malala Day" begangen
 ## Empfehlenswerte Videos & Vorträge
 
 - [An optimistic look at the future of girls' education (TED Connects, 2020)](https://www.youtube.com/watch?v=T00TZkOMLZc) — Gespräch mit Chris Anderson über Bildung als Menschenrecht, Mädchenbildung in der COVID-Krise, Hoffnung und die Spannung zwischen Aktivismus und einem gewöhnlichen Leben.
-- [Malala Yousafzai's speech at the United Nations (2013)](https://www.youtube.com/watch?v=3rNhZu3ttIU) — die „Malala Day"-Rede vor der UN-Jugendversammlung: *„Ein Kind, ein Lehrer, ein Buch und ein Stift können die Welt verändern."*
-- [Nobel Peace Prize Lecture 2014](https://www.youtube.com/watch?v=MOqIotJrFVM) — ihre Nobelpreis-Rede in Oslo: *„Ich erhebe meine Stimme nicht, um zu schreien, sondern damit die Stimmlosen gehört werden."*
+- [Malala Yousafzai's speech at the United Nations (2013)](https://www.youtube.com/watch?v=3rNhZu3ttIU) — die „Malala Day"-Rede vor der UN-Jugendversammlung: *„Ich erhebe meine Stimme nicht, um zu schreien, sondern damit die Stimmlosen gehört werden."* Und: *„Ein Kind, ein Lehrer, ein Buch und ein Stift können die Welt verändern."* ([Redetext](https://malala.org/newsroom/malala-un-speech))
+- [Nobel Peace Prize Lecture 2014](https://www.youtube.com/watch?v=MOqIotJrFVM) — ihre Nobelpreis-Rede in Oslo: *„Dieser Preis ist nicht nur für mich. Er ist für die vergessenen Kinder, die Bildung wollen."* ([Redetext](https://www.nobelprize.org/prizes/peace/2014/yousafzai/lecture/))
 
 *(Nur verifizierte Links — bei Wiedergabe-Sperren im Browser über den Titel bei YouTube suchen.)*
 
@@ -76,7 +78,7 @@ Zur Redlichkeit gehört auch die Ambivalenz: In Teilen Pakistans ist Malala umst
 - [[DenkerVita/B.R. Ambedkar]] — Bildung als Hebel der Ausgeschlossenen gegen eine religiös begründete Rangordnung: „Educate, agitate, organise“. An der Religion trennen sich die Wege. Malala bestreitet die Auslegung der Taliban, nicht den Glauben; Ambedkar fand die Erniedrigung in der Lehre selbst und führte fast eine halbe Million Dalits aus dem Hinduismus in den Buddhismus.
 - [[DenkerVita/Gilda Sahebi]] — Malala nennt den Ausschluss der Mädchen in Afghanistan „Geschlechter-Apartheid“, Sahebi liest den Aufstand im Iran als feministische Revolte gegen patriarchale Herrschaft. Für beide ist der Ausschluss von Frauen eine Herrschaftsordnung, die man benennen und anklagen kann. Sahebi erzählt eine Bewegung, Malalas Geschichte ist die einer Einzelnen geworden, und ihre Vita benennt selbst die Gefahr, dass die eine Ikone die Millionen Mädchen ohne Schule verdeckt.
 - [[DenkerVita/Jihan Alomar]] — Zwei Mädchen, denen ihr Geschlecht zur Gefahr wurde, hier das Schulverbot der pakistanischen Taliban, dort die Gefangenschaft beim Islamischen Staat. Beide traten jung an die Öffentlichkeit, obwohl das Sprechen sie erkennbar machte. Malala blickt mit Hoffnung nach vorn; Jihan Alomar misst ihre Arbeit an einem Ort, getan sei sie erst, wenn Shingal wieder aufgebaut wird.
-- [[DenkerVita/Maren Urner]] — Malalas Satz, Hoffnung sei keine Stimmung, sondern eine Gelegenheit zur Veränderung, liegt nah an der *Hope Theory* nach C. R. Snyder, auf die Urner sich stützt: Hoffnung als Willenskraft und Wegkraft, erlernbar und vom Optimismus verschieden (→ [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Radikal hoffnungsvoll]]).
+- [[DenkerVita/Maren Urner]] — Malalas Satz, man müsse gerade in der Krise hoffnungsvoll bleiben, weil sie eine Gelegenheit zur Veränderung sei, liegt nah an der *Hope Theory* nach C. R. Snyder, auf die Urner sich stützt: Hoffnung als Willenskraft und Wegkraft, erlernbar und vom Optimismus verschieden (→ [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Radikal hoffnungsvoll]]).
 
 ## Gedankenwelten-Notes
 

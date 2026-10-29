@@ -21,7 +21,7 @@ aliases:
 Quelle: [re:publica 26 — Zur Gegenmacht](https://www.youtube.com/watch?v=7waHkzEHcuw)
 
 > [!info] Wer spricht?
-> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat** bei der Open Knowledge Foundation Deutschland. Zweifacher Otto-Brenner-Preisträger (2015, 2016). Autor von *Machtübernahme* (Droemer, 2024). Co-Host von *Gilda con Arne* (mit Gilda Sahebi). Beirat des Gegenrechtsschutzes (FragDenStaat + GFF). Fachgebiete: Informationsfreiheit, Transparenz, Pressefreiheit, zivilgesellschaftliche Organisierung.
+> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat** bei der Open Knowledge Foundation Deutschland. Zweifacher Otto-Brenner-Preisträger (2015, 2016). Autor von *Machtübernahme* (Droemer, 2024). Co-Host von *Gilda con Arne* (mit Gilda Sahebi). Hat mit FragDenStaat den Gegenrechtsschutz aufgebaut (seit 2023, seit 2024 gemeinsam mit GFF und Verfassungsblog). Fachgebiete: Informationsfreiheit, Transparenz, Pressefreiheit, zivilgesellschaftliche Organisierung.
 >
 > Dieser Vortrag erscheint am letzten Tag der re:publica 26 als Abschluss — und als Gegenprogramm zur politischen Lähmung.
 >
@@ -212,7 +212,7 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 
 - [FragDenStaat](https://fragdenstaat.de) — IFG-Plattform und investigativer Arm
 - [Freiheitsfonds](https://www.freiheitsfonds.de) — Freikaufen aus Ersatzfreiheitsstrafen
-- [Gegenrechtsschutz](https://gegenrechtsschutz.de) — FragDenStaat + GFF: Rechtsbeistand für Zivilgesellschaft
+- [Gegenrechtsschutz](https://gegenrechtsschutz.de) — FragDenStaat, GFF und Verfassungsblog: Rechtsbeistand für Zivilgesellschaft
 - [Sanktionsfrei](https://www.sanktionsfrei.de) — Praktische Solidarität gegen Jobcenter-Willkür
 - [Bürgerbewegung Finanzwende](https://www.finanzwende.de) — Kampf gegen Steuerbetrug (z.B. CumEx)
 - [Deutsche Wohnen & Co enteignen](https://dwenteignen.de) — Berliner Volksbegehren und Gesetzesinitiative

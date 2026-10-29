@@ -21,9 +21,9 @@ tags: [denker-vita, philosophie, kritische-theorie, sprache, demokratie, deutsch
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Jürgen Habermas** (*18. Juni 1929, Düsseldorf; † 14. März 2026, Starnberg*) — der letzte große Geschichtsphilosoph der Neuzeit und der prägende Philosoph der deutschen Nachkriegszeit. Als Student und Assistent Theodor W. Adornos am Frankfurter Institut für Sozialforschung beginnt er in der Kritischen Theorie, entwirft aber eine fundamental andere Antwort: Statt am Verblendungszusammenhang zu verzweifeln, entdeckt er die Emanzipationskraft in der Sprache selbst.
+> **Jürgen Habermas** (*18. Juni 1929, Düsseldorf; † 14. März 2026, Starnberg*) — einer der prägenden Philosophen der deutschen Nachkriegszeit, der die intellektuelle und politische Kultur der Bundesrepublik über sieben Jahrzehnte mitformte. Als Assistent Theodor W. Adornos am Frankfurter Institut für Sozialforschung beginnt er in der Kritischen Theorie, entwirft aber eine fundamental andere Antwort: Statt am Verblendungszusammenhang zu verzweifeln, entdeckt er die Emanzipationskraft in der Sprache selbst.
 >
-> Sein Hauptwerk *Theorie des kommunikativen Handelns* (1981) wurde in über 43 Sprachen übersetzt. Habermas hat den gesamten Stand der Sozialphilosophie, Sprachphilosophie, Psychoanalyse und Soziologie seiner Epoche in ein eigenes System integriert — und dabei einen genuinen Kerngedanken entwickelt: In der Struktur unserer Sprache ist die Tendenz zur universalen Verständigung bereits angelegt.
+> Sein Hauptwerk ist die *Theorie des kommunikativen Handelns* (1981). Habermas hat den gesamten Stand der Sozialphilosophie, Sprachphilosophie, Psychoanalyse und Soziologie seiner Epoche in ein eigenes System integriert — und dabei einen genuinen Kerngedanken entwickelt: In der Struktur unserer Sprache ist die Tendenz zur universalen Verständigung bereits angelegt.
 >
 > Kernkonzepte: Kommunikatives Handeln, Vier Geltungsansprüche, Herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Diskursethik
 
@@ -35,13 +35,15 @@ Habermas kommt als Sohn eines protestantischen Geschäftsleiters in Düsseldorf 
 
 Er studiert in Göttingen, Zürich und Bonn — Philosophie, Geschichte, Psychologie. 1954 promoviert er über Schelling. Der entscheidende Wechsel: Er geht als Assistent zu Adorno nach Frankfurt. Dort wird er Teil der Kritischen Theorie — aber er wird nie ihr Pessimist. Wo Adorno die Aufklärung als gescheitert betrachtet, sucht Habermas nach dem, was in ihr noch nicht eingelöst ist.
 
-Der erste Skandal kommt noch vor Frankfurt: 1953 schreibt der junge Journalist in der FAZ („Mit Heidegger gegen Heidegger denken“) über Heideggers *Einführung in die Metaphysik*. Die Vorlesung von 1935 erschien 1953 unverändert, mit dem Satz von der „inneren Wahrheit und Größe“ der NS-Bewegung, und Heidegger schwieg dazu. Am Institut kommt es später zum Bruch mit Horkheimer, dem Habermas' Marx-Literaturbericht von 1957 zu politisch ist; Habermas habilitiert sich darum bei Wolfgang Abendroth in Marburg.
+Der erste Skandal kommt noch vor Frankfurt: 1953 schreibt der junge Doktorand, der nebenher als Journalist arbeitet, in der FAZ („Mit Heidegger gegen Heidegger denken“) über Heideggers *Einführung in die Metaphysik*. Die Vorlesung von 1935 erschien 1953 unverändert, mit dem Satz von der „inneren Wahrheit und Größe“ der NS-Bewegung, und Heidegger schwieg dazu. Am Institut kommt es später zum Bruch mit Horkheimer, dem Habermas' Marx-Literaturbericht von 1957 zu politisch ist; Habermas habilitiert sich darum bei Wolfgang Abendroth in Marburg.
 
 Sein Habilitationsprojekt *Strukturwandel der Öffentlichkeit* (1962) wird ein Grundlagenwerk: Wie entsteht demokratische Öffentlichkeit? Wie wird sie von Kapital und Medien korrumpiert? Das Buch erscheint auf Englisch erst 1989 — und wird sofort zum internationalen Klassiker.
 
-In den 1980ern: Der *Historikerstreit*. Habermas greift konservative Historiker an, die den Holocaust relativieren, indem sie ihn in eine Reihe mit anderen Massengräueln stellen. Er besteht auf der Singularität — nicht aus Nationalismus, sondern aus Verantwortung: *„Wir müssen die unbefangene Haltung gegenüber unserer Vergangenheit aufgeben."*
+1971 bis 1981 leitet er mit Carl Friedrich von Weizsäcker das Max-Planck-Institut zur Erforschung der Lebensbedingungen der wissenschaftlich-technischen Welt in Starnberg; dort entsteht das Hauptwerk.
 
-2003: Brief gegen den Irak-Krieg. Gemeinsam mit Derrida schreibt er einen vielbeachteten Appell für eine europäische Außenpolitik — gegen die Hegemonialpolitik der USA. Habermas als politischer Denker, der nicht im Elfenbeinturm bleibt.
+In den 1980ern: Der *Historikerstreit*. Im Juli 1986 greift Habermas in der *Zeit* („Eine Art Schadensabwicklung“) Historiker wie Ernst Nolte, Andreas Hillgruber und Michael Stürmer an und wirft ihnen apologetische Tendenzen vor; bei Nolte würden die NS-Verbrechen als Antwort auf eine bolschewistische Vernichtungsdrohung verständlich gemacht. Er besteht auf ihrer Singularität, nicht aus Nationalismus, sondern gegen ihn: *„Der einzige Patriotismus, der uns dem Westen nicht entfremdet, ist ein Verfassungspatriotismus.“*
+
+2003, nach dem Beginn des Irak-Kriegs: Am 31. Mai erscheint in der FAZ und in *Libération* sein mit Jacques Derrida gezeichneter Aufruf „Nach dem Krieg: Die Wiedergeburt Europas“, ein Plädoyer für eine gemeinsame europäische Außenpolitik als Gegengewicht zur Hegemonialpolitik der USA. Habermas als politischer Denker, der nicht im Elfenbeinturm bleibt.
 
 Er lebte zuletzt in Starnberg und publizierte bis ins hohe Alter. Mit 90 erschien *Auch eine Geschichte der Philosophie* (2019) — 1700 Seiten über die Entstehung nachmetaphysischen Denkens. Am 14. März 2026 starb er in Starnberg, 96 Jahre alt ([Max-Planck-Gesellschaft](https://www.mpg.de/26269576/juergen-habermas?c=2191)).
 
@@ -84,7 +86,7 @@ Er lebte zuletzt in Starnberg und publizierte bis ins hohe Alter. Mit 90 erschie
 
 4. **Diskursethik statt Inhaltsethik** — Moral entsteht nicht durch vorgegebene Normen, sondern durch Verfahren: Was alle Betroffenen in einem herrschaftsfreien Diskurs als richtig anerkennen könnten, ist moralisch verbindlich.
 
-5. **Kolonialisierung der Lebenswelt** — Instrumentelle Vernunft (Markt, Bürokratie) dringt in Bereiche ein, die kommunikative Vernunft erfordern (Familie, Freundschaft, politische Öffentlichkeit). Das erzeugt strukturelle Pathologien — nicht individuelle Versagen.
+5. **Kolonialisierung der Lebenswelt** — Die Systeme Markt und Verwaltung mit ihren Steuerungsmedien Geld und Macht dringen in Bereiche ein, die kommunikative Vernunft erfordern (Familie, Freundschaft, politische Öffentlichkeit). Das erzeugt strukturelle Pathologien — nicht individuelles Versagen.
 
 ---
 
@@ -112,3 +114,6 @@ Im *Historikerstreit* (1986) verteidigt er die kritische Auseinandersetzung mit 
 ## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Habermas in 60 Minuten]] — Vier Geltungsansprüche, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Diskursethik vs. Kants kategorischer Imperativ
+
+> [!note] Korrigiert am 29.10.2026
+> Das Zitat zum Historikerstreit („Wir müssen die unbefangene Haltung gegenüber unserer Vergangenheit aufgeben“) ließ sich in Habermas' Text nicht finden und ist ersetzt durch einen belegten Satz aus „Eine Art Schadensabwicklung“ (*Die Zeit*, 11.07.1986). Habermas war Adornos Assistent, nicht sein Student; der Aufruf mit Derrida erschien nach Kriegsbeginn, am 31.05.2003. Zuvor schon berichtigt: Todesdatum, die Heidegger-Rezension von 1953 und das Alter beim Erscheinen von *Auch eine Geschichte der Philosophie*.

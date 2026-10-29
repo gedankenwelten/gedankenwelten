@@ -28,7 +28,7 @@ aliases:
 Quelle: [Smith in 60 Minuten. Der Urvater des Kapitalismus](https://www.youtube.com/watch?v=G01bPnH6Lss)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Buchreihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen. Die Reihe umfasst über 25 Titel und ist in zahlreichen Sprachen erschienen.
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Buchreihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen. Die Reihe umfasst über 25 Titel und ist ins Englische, Französische, Vietnamesische und Koreanische übersetzt.
 >
 > → [[DenkerVita/Walther Ziegler|DenkerVita]]
 

@@ -221,7 +221,7 @@ Osnos: Geschichte zeigt, dass Privilegien fast nie freiwillig aufgegeben werden.
 
 [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoffs Analyse der kybernetischen Macht-Logik ergänzt Osnos' journalistischen Zugang: Die "principal"-Struktur ist eine kybernetische Feedbackschleife, die Störsignale ausfiltert und den Mächtigen in seiner eigenen Weltwahrnehmung bestärkt.
 
-[[Hannah Arendt — Die Banalität des Bösen]] — *"People are rarely the villain in their own story."* Osnos sagt das über Yacht-Besitzer; Arendt würde nicken. Niemand im Bunker glaubt, er sei das Problem. Deshalb ist der Bunker keine Reaktion auf Schuld — er ist eine Reaktion auf Angst.
+[[Hannah Arendt — Die Banalität des Bösen]] — *"People are very rarely the villain in their own story."* Osnos sagt das über Yacht-Besitzer, die stolz auf ihre Entscheidungen sind ([▶ 130:09](https://www.youtube.com/watch?v=7MRbQ_DwIwo&t=7809)). Arendt hat an einem ungleich schwereren Fall gesehen, dass einer sich nicht für den Bösewicht halten muss, um schuldig zu werden, und gerade darum auf persönlicher Verantwortung bestanden: Wer aufhört, vom Standpunkt anderer aus zu denken, ist damit nicht entlastet. Niemand im Bunker glaubt, er sei das Problem. Der Bunker antwortet auf Angst, nicht auf ein Schuldgefühl, und über die Verantwortung sagt das Selbstbild nichts.
 
 [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld fragt, wie Zustimmung zu Herrschaft produziert wird; Osnos dokumentiert das konkrete Resultat. Citizens United + Social-Media-Besitz + Wahlkampfspenden = die technische Infrastruktur der Meinungsführerschaft, die Mausfeld in der Theorie beschreibt.
 

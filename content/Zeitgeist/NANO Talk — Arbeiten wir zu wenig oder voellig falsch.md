@@ -41,7 +41,7 @@ Quelle: [Arbeiten wir zu wenig – oder völlig falsch? | NANO Talk](https://www
 >
 > **Simon Schaupp** — Soziologe und Arbeitsforscher, Professor. Beschäftigt sich mit digitaler Transformation, Gewerkschaften und dem Zusammenhang von Arbeitszeit und CO₂-Emissionen. Orientiert sich an der kritischen Theorie (David Graeber, u.a.). Scharf kritisch gegenüber der Regierungsrhetorik von "mehr arbeiten".
 >
-> **Eva von Redecker** — Philosophin und freie Autorin. Promoviert bei Rahel Jaeggi an der Humboldt-Universität, Lehrauftrag an der HFBK Hamburg. Lebt in einer ländlichen Gemeinschaft in Brandenburg. Werke: *Revolution für das Leben* (2020), *Bleibefreiheit* (2023), *Dieser Drang nach Härte* (2026). Bringt den feministischen und ökophilosophischen Blick: Sorgearbeit als patriarchal privatisiertes Eigentum, die "dritte Arbeit" der Natur.
+> **Eva von Redecker** — Philosophin und freie Autorin. Promoviert bei Rahel Jaeggi an der Humboldt-Universität, seit dem Sommersemester 2026 Gastprofessorin für Philosophie an der HFBK Hamburg. Lebt im ländlichen Brandenburg. Werke: *Revolution für das Leben* (2020), *Bleibefreiheit* (2023), *Dieser Drang nach Härte* (2026). Bringt den feministischen und ökophilosophischen Blick: Sorgearbeit als patriarchal privatisiertes Eigentum, die "dritte Arbeit" der Natur.
 >
 > Moderation: **Stephanie Rohde** (3sat NANO)
 

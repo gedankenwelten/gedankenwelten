@@ -21,13 +21,13 @@ tags: [denker-vita, kapitalismus, oligarchie, usa]
 ## Biographischer Snapshot
 
 > [!info] Wer ist das?
-> **Evan Osnos** (*24. Dezember 1976, London*) — US-amerikanischer Journalist und Autor beim *New Yorker*, wo er seit 2008 über Politik, Außenpolitik und die Welt der Superreichen berichtet. Studium magna cum laude in Government an der Harvard University (1998). Früherer China-Korrespondent und Peking-Bürochef der *Chicago Tribune*, Pulitzer-Preisträger (Team, 2001 und 2008). Sein Buch *Age of Ambition: Chasing Fortune, Truth, and Faith in the New China* (2014) gewann den National Book Award. Neues Buch: *Yacht oder nicht Yacht. Nachrichten aus der Welt der Ultrareichen* (dt. C.H.Beck 2026, engl. Original *The Haves and Have-Yachts*, 2025). Derzeit auch Senior Fellow am Brookings Institution und Co-Host des *New Yorker Political Scene*-Podcasts.
+> **Evan Osnos** (*24. Dezember 1976, London*) — US-amerikanischer Journalist und Autor beim *New Yorker*, wo er seit 2008 über Politik, Außenpolitik und die Welt der Superreichen berichtet. Studium magna cum laude in Government an der Harvard University (1998). Früherer China-Korrespondent und Peking-Bürochef der *Chicago Tribune*, an zwei Pulitzer-Preisen des Teams beteiligt (2001 und 2008). Sein Buch *Age of Ambition: Chasing Fortune, Truth, and Faith in the New China* (2014) gewann den National Book Award. Neues Buch: *Yacht oder nicht Yacht. Nachrichten aus der Welt der Ultrareichen* (dt. C.H.Beck 2026, engl. Original *The Haves and Have-Yachts*, 2025). Derzeit auch Nonresident Senior Fellow an der Brookings Institution und Co-Host des *Political Scene*-Podcasts des *New Yorker* ([eigene Website](https://www.evanosnos.com/about)).
 
 ## Biografie
 
-Evan Osnos wächst in London auf, zieht aber früh in die USA — ein transatlantisches Aufwachsen, das sein Verhältnis zur Frage prägt, was Amerika für den Rest der Welt bedeutet.
+Evan Osnos kommt in London zur Welt, als seine Eltern dort zu Besuch sind; der Vater, Peter Osnos, ist damals Korrespondent der *Washington Post* in Moskau. Aufgewachsen ist er in den USA, in Greenwich, Connecticut, wo er auch zur Highschool geht ([Jung & Naiv, ▶ 142:23](https://www.youtube.com/watch?v=7MRbQ_DwIwo&t=8543)).
 
-Nach Harvard beginnt er als Lokalreporter, was für ihn Programm ist — er ist kein Journalist, der von oben herabblickt, sondern einer, der in West Virginia arbeitet, in Appalachian Kleinstädten, in irakischen Kriegsgebieten und später acht Jahre als Korrespondent in China (2005–2013, ab 2008 für den New Yorker). Dieser Weg formt sein wichtigstes Werkzeug: den Glauben, dass die größten Geschichten in den Randgebieten des Sichtbaren liegen.
+Nach Harvard beginnt er bei einer kleinen Zeitung in West Virginia, wie er selbst erzählt ([▶ 75:03](https://www.youtube.com/watch?v=7MRbQ_DwIwo&t=4503)), geht 1999 zur *Chicago Tribune*, berichtet ab 2002 aus dem Nahen Osten, vor allem aus dem Irak, und ist dann acht Jahre Korrespondent in China (2005–2013, ab 2008 für den New Yorker). Dieser Weg formt sein wichtigstes Werkzeug: den Glauben, dass die größten Geschichten in den Randgebieten des Sichtbaren liegen.
 
 China ist sein erstes großes Thema — er dokumentiert den Ehrgeiz einer ganzen Generation, die nach Fortune, Truth and Faith sucht, während das Land sich im Turbokapitalismus neu erfindet. 2014 gewinnt er dafür den National Book Award. Das Buch macht ihn zu einer Stimme für den Versuch, China jenseits von Propaganda und Feindbildern zu verstehen.
 
@@ -35,8 +35,8 @@ Zurück in Washington beginnt er, den amerikanischen Reichtum mit denselben Auge
 
 ## Bücher & Publikationen
 
-- *Yacht oder nicht Yacht. Nachrichten aus der Welt der Ultrareichen* (C.H.Beck, 2026) — [genialokal](https://www.genialokal.de/Suche/?q=evan+osnos+haves+have+yachts)
-- *The Haves and Have-Yachts: Dispatches on the Ultrarich* (Simon & Schuster, 2025) — Englisches Original; *New York Times* Bestseller, Best Book of the Year (*New Yorker*, *Times London*)
+- *Yacht oder nicht Yacht. Nachrichten aus der Welt der Ultrareichen* (C.H.Beck, 2026, ISBN 978-3-406-84400-3) — [genialokal](https://www.genialokal.de/Suche/?q=9783406844003)
+- *The Haves and Have-Yachts: Dispatches on the Ultrarich* (Scribner/Simon & Schuster, 2025) — Englisches Original; *New York Times*-Bestseller
 - *Wildland: The Making of America's Fury* (Farrar, Straus and Giroux, 2021) — Über kulturellen und politischen Wandel zwischen 9/11 und dem 6. Januar 2021
 - *Joe Biden: The Life, the Run, and What Matters Now* (Scribner, 2020)
 - *Age of Ambition: Chasing Fortune, Truth, and Faith in the New China* (Farrar, Straus and Giroux, 2014) — **National Book Award für Sachbücher** — [genialokal](https://www.genialokal.de/Suche/?q=evan+osnos+age+of+ambition)
@@ -54,13 +54,13 @@ Zurück in Washington beginnt er, den amerikanischen Reichtum mit denselben Auge
 
 3. **Milliardäre setzen Normen.** Wer die einflussreichsten Plattformen besitzt und ständig im Bewusstsein der Öffentlichkeit präsent ist, bestimmt, was als "normal" gilt. Wenn Andreessen Introspektion für obsolet erklärt, wirkt das kulturell.
 
-4. **Extreme Ungleichheit führt historisch zu Revolution, Krieg oder Seuchen.** Die Ultrareichen wissen das — und handeln nicht danach. Das ist kein Versagen des Wissens, sondern des Systems.
+4. **Extreme Ungleichheit führt historisch zu Revolution, Krieg oder Seuchen.** Die Ultrareichen wissen das; der Investor Ray Dalio hat es Osnos selbst so gesagt. Ihre Antworten bleiben aber Spenden für Bildung oder gute Zwecke statt einer Reform der Steuern, „because in the end they don't really want to pay more taxes themselves“ ([▶ 41:14](https://www.youtube.com/watch?v=7MRbQ_DwIwo&t=2474)).
 
 5. **Demokratie ist für die meisten Ultrareichen kein Wert mehr.** Sie sehen sie als ineffizienten Kompromiss und identifizieren sich mit kaiserzeitlichen Modellen. Der Wunsch nach dem "CEO of humanity" ist kein Scherz.
 
 ## Politische Einordnung
 
-Osnos ist kein Aktivist und kein Manifest-Schreiber. Er ist ein liberaler Journalist im besten Sinne — präzise, empirisch, ohne Lagerdenken. Seine Kritik an Milliardären kommt nicht aus marxistischer Überzeugung, sondern aus der Überzeugung, dass übermäßige Ungleichheit Demokratien strukturell zerstört. Er zitiert Warren Buffett, nicht Marx. Er glaubt an die Reparierbarkeit des Systems — wenn genug Druck entsteht.
+Osnos ist kein Aktivist und kein Manifest-Schreiber. Er ist ein liberaler Journalist im besten Sinne — präzise, empirisch, ohne Lagerdenken. Seine Kritik an Milliardären kommt nicht aus marxistischer Überzeugung, sondern aus der Überzeugung, dass übermäßige Ungleichheit Demokratien strukturell zerstört. Als seltene Ausnahme unter den Milliardären nennt er Warren Buffett, der höhere Steuern für sich selbst verlangt hat. Er glaubt an die Reparierbarkeit des Systems — wenn genug Druck entsteht.
 
 ## Verbindungen zu anderen Denkern
 
@@ -75,3 +75,5 @@ Osnos ist kein Aktivist und kein Manifest-Schreiber. Er ist ein liberaler Journa
 ## Gedankenwelten-Notes
 
 - [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] — Jung & Naiv Folge 821; umfassende Analyse von Zuckerberg, Ungleichheit, Bunkermentalität und dem "Nerd Reich"
+
+> [!note] Korrigiert am 29.10.2026: Osnos ist in London nur geboren, aufgewachsen ist er in den USA. Gestrichen ist eine unbelegte Auszeichnung („Best Book of the Year“) für *The Haves and Have-Yachts*; seine Zeit in China ist auf 2005–2013 berichtigt.

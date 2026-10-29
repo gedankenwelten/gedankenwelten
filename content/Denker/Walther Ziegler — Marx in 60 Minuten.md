@@ -31,7 +31,7 @@ aliases:
 Quelle: [Marx in 60 Minuten](https://www.youtube.com/watch?v=thoI8naBo4E)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Wie bei seinen Vorträgen zu [[Walther Ziegler — Hegel in 60 Minuten|Hegel]], [[Walther Ziegler — Adorno in 60 Minuten|Adorno]] und [[Walther Ziegler — Nietzsche in 60 Minuten|Nietzsche]] verbindet Ziegler auch hier philosophische Tiefe mit klarer, alltagsnaher Sprache — von Wikingergottes bis zum Supermarktregal. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Wie bei seinen Vorträgen zu [[Walther Ziegler — Hegel in 60 Minuten|Hegel]], [[Walther Ziegler — Adorno in 60 Minuten|Adorno]] und [[Walther Ziegler — Nietzsche in 60 Minuten|Nietzsche]] verbindet Ziegler auch hier philosophische Tiefe mit klarer, alltagsnaher Sprache — vom Kriegsgott der Wikinger bis zum Supermarktregal. → [[DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Karl Marx** (*1818, Trier — †1883, London*) — der wohl wirkungsmächtigste Philosoph der Neuzeit. Sohn eines zum Protestantismus konvertierten jüdischen Anwalts, studierte Marx Jura und Philosophie in Bonn und Berlin, wurde Zeitungsredakteur, Emigrant und schließlich mittelloser Gelehrter im Londoner Exil. Gemeinsam mit Friedrich Engels entwickelte er eine Philosophie, die ein Drittel der Menschheit in Revolutionen stürzte und bis heute jede Debatte über Kapitalismus, Ungleichheit und Klassenkampf prägt.
 >

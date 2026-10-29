@@ -20,59 +20,59 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 
 ## Biografie
 
-**Constanze Kurz** (geb. 2. März 1974 in Ost-Berlin) ist eine promovierte Informatikerin, Sachbuchautorin und Sprecherin des Chaos Computer Clubs (CCC). Sie hat sich durch jahrzehntelange Forschung und Advocacy zur führenden Expertin für Überwachungstechnologie, Datenschutz und digitale Grundrechte in Deutschland etabliert.
+**Constanze Kurz** (geb. 2. März 1974 in Ost-Berlin) ist eine promovierte Informatikerin, Sachbuchautorin und Sprecherin des Chaos Computer Clubs (CCC). Seit bald zwei Jahrzehnten ist sie eine der bekanntesten Stimmen zu Überwachungstechnologie, Datenschutz und digitalen Grundrechten in Deutschland.
 
 **Werdegang:**
-- **1974–1992:** Kindheit und Jugend in Berlin; Studium der Volkswirtschaftslehre, dann Wechsel zu Informatik
-- **2005–2011:** Wissenschaftliche Mitarbeiterin an der Humboldt-Universität Berlin unter Prof. Wolfgang Coy, Schwerpunkt Überwachungstechnologie und Ethik in der Informatik
-- **2013:** Promotion mit Dissertation über Wahlcomputer: *Elektronische Wahlhelfer in der Demokratie: der Status quo bei politischen Wahlen*
-- **2014:** Projektleiterin für Informatik-Gesellschaft an der HTW Berlin
-- **2015–heute:** Redakteurin bei netzpolitik.org (Teilzeit)
-- **Parallel:** Ehrenamtliche Sprecherin des CCC; Mitglied der Enquête-Kommission „Internet und digitale Gesellschaft" des Bundestages; technische Sachverständige vor dem Bundesverfassungsgericht bei Klagen zu Wahlcomputern, Vorratsdatenspeicherung, Antiterrordatei, Staatstrojanern und BND-Gesetz
+- **Kindheit, Jugend und Studium in Berlin:** zunächst Volkswirtschaftslehre, dann Informatik
+- **2005–2011:** Wissenschaftliche Mitarbeiterin in der Arbeitsgruppe „Informatik in Bildung und Gesellschaft“ von Prof. Wolfgang Coy an der Humboldt-Universität zu Berlin
+- **2013:** Promotion an der Humboldt-Universität mit einer Dissertation über Wahlcomputer: *Elektronische Wahlhelfer in der Demokratie: der Status quo bei politischen Wahlen*
+- **bis 2014:** Projektleiterin am Forschungszentrum Kultur und Informatik der HTW Berlin
+- **seit Februar 2015:** Redakteurin bei netzpolitik.org (Teilzeit)
+- **Parallel:** Ehrenamtliche Sprecherin des CCC; 2010–2013 Sachverständige in der Enquête-Kommission „Internet und digitale Gesellschaft" des Bundestages; technische Sachverständige vor dem Bundesverfassungsgericht bei Klagen zu Wahlcomputern, Vorratsdatenspeicherung, Antiterrordatei, Staatstrojanern und BND-Gesetz
 
-**Politische Unabhängigkeit:** Parteilos; wurde 2012 von den Grünen als Kandidatin für das Amt der Datenschutzbeauftragten in Thüringen nominiert (verlor aber gegen CDU/SPD-Kandidaten).
+**Politische Unabhängigkeit:** Parteilos. Im Februar 2012 schlug die Grünen-Fraktion im Thüringer Landtag sie als Landesdatenschutzbeauftragte vor; sie unterlag erwartungsgemäß dem Kandidaten der CDU-SPD-Mehrheit.
 
 ## Zentrale Prägungen
 
-**Berliner Hacker-Kultur & Informatik-Ethik:** Aufgewachsen in Ost-Berlin, entwickelte Kurz früh ein kritisches Verständnis von Technologie nicht als neutrales Werkzeug, sondern als Ausdruck von Macht. Ihr Umfeld: das CCC (Gründung 1981), das Hacker-Ethos der Transparenz und Demaskierung technischer Systeme.
+**Hacker-Kultur & Informatik-Ethik:** Ihr Umfeld sind der CCC (gegründet 1981) mit seinem Hacker-Ethos, technische Systeme aufzuschrauben und offenzulegen, und die Fachgruppe „Informatik & Ethik“ der Gesellschaft für Informatik, in der sie seit 2003 mitarbeitet. Technik ist für sie kein neutrales Werkzeug, sondern eine Frage der Macht.
 
-**Das "Wahlcomputer-Trauma":** Ihre Dissertation zeigte, dass Wahlcomputer leicht manipulierbar sind — eine zentrale Erkenntnis, die sie als technische Sachverständige vor das Bundesverfassungsgericht brachte (2007). Dies prägte ihr Verständnis: *Technologie ist nicht neutral, und wen sie regiert, wird zum Verwalter von Macht.*
+**Die Wahlcomputer:** Mit dem CCC untersuchte sie die NEDAP-Wahlcomputer und zeigte, wie leicht sie sich manipulieren lassen; 2007 legte sie dazu mit Rop Gonggrijp und Frank Rieger dem Bundesverfassungsgericht eine Stellungnahme vor. Ihre Dissertation von 2013 führte das Thema wissenschaftlich weiter.
 
-**NSA-Skandal 2013:** Nach Edward Snowdens Enthüllungen stellte Kurz 2014 Strafanzeige gegen die Bundesregierung — ein Wendepunkt, der ihre Kritik von akademisch zu aktivistisch verschärfte.
+**NSA-Skandal 2013:** Nach Edward Snowdens Enthüllungen stellte Kurz im Januar 2014 Strafanzeige gegen die Bundesregierung.
 
 ## Bücher & Publikationen
 
 | Titel | Jahr | Beschreibung |
 |---|---|---|
-| [Die Datenfresser: Wie Internetfirmen und Staat sich unsere persönlichen Daten einverleiben](https://www.genialokal.de/suche/?q=Die+Datenfresser+Kurz+Rieger) | 2011 | Mit Frank Rieger. Grundtext zum Datenmissbrauch durch Tech-Firmen und staatliche Überwachung |
-| [Arbeitsfrei: Eine Entdeckungsreise zu den Maschinen, die uns ersetzen](https://www.genialokal.de/suche/?q=Arbeitsfrei+Kurz+Rieger) | 2013 | Mit Frank Rieger. Automation, Künstliche Intelligenz und die Zukunft der Arbeit |
-| [Cyberwar: Die Gefahr aus dem Netz](https://www.genialokal.de/suche/?q=Cyberwar+Kurz+Rieger) | 2018 | Mit Frank Rieger. Digitale Kriegsführung, kritische Infrastrukturen, nationale Sicherheit |
-| 1984.exe — Gesellschaftliche, politische und juristische Aspekte moderner Überwachungstechnologien | 2008 | Herausgeberin (mit Sandro Gaycken). Sammlung zu Surveillance & Macht |
-| Elektronische Wahlhelfer in der Demokratie | 2013 | Dissertation. Kritik an Black-Box-Systemen in demokratischen Prozessen |
+| [Die Datenfresser: Wie Internetfirmen und Staat sich unsere persönlichen Daten einverleiben](https://www.genialokal.de/suche/?q=Die+Datenfresser+Kurz+Rieger) | 2011 | Mit Frank Rieger. S. Fischer, ISBN 978-3-10-048518-2. Grundtext zum Datenmissbrauch durch Tech-Firmen und staatliche Überwachung |
+| [Arbeitsfrei: Eine Entdeckungsreise zu den Maschinen, die uns ersetzen](https://www.genialokal.de/suche/?q=Arbeitsfrei+Kurz+Rieger) | 2013 | Mit Frank Rieger. Riemann, ISBN 978-3-570-50155-9. Automation, Künstliche Intelligenz und die Zukunft der Arbeit |
+| [Cyberwar: Die Gefahr aus dem Netz](https://www.genialokal.de/suche/?q=Cyberwar+Kurz+Rieger) | 2018 | Mit Frank Rieger. C. Bertelsmann, ISBN 978-3-570-10351-7. Digitale Kriegsführung, kritische Infrastrukturen, nationale Sicherheit |
+| 1984.exe — Gesellschaftliche, politische und juristische Aspekte moderner Überwachungstechnologien | 2008 | Herausgeberin (mit Sandro Gaycken). transcript, ISBN 978-3-89942-766-0. Sammlung zu Surveillance & Macht |
+| Elektronische Wahlhelfer in der Demokratie | 2013 | Dissertation, Humboldt-Universität zu Berlin. Kritik an Black-Box-Systemen in demokratischen Prozessen |
 
 ## Kernthesen
 
 1. **Technologie ist Machttechnik, keine Neutralität möglich**
-   - Systeme wie Palantir oder Wahlcomputer sind nicht „nur Werkzeuge" — sie kristallisieren Machtverhältnisse. Wer Software kontrolliert, kontrolliert Realität.
+   - Systeme wie Palantir oder Wahlcomputer sind nicht „nur Werkzeuge" — sie kristallisieren Machtverhältnisse.
 
 2. **Überwachung ist strukturell, nicht episodisch**
-   - Das Problem ist nicht einzelne "Missbrauchsfälle", sondern die Architektur: Palantir sammelt Daten zu Verdächtigen, Zeugen, Opfern — alle in derselben Datenbank. Keine Unterscheidung, keine Nuance.
+   - Das Problem ist nicht einzelne "Missbrauchsfälle", sondern die Architektur: In die Analyse fließen Daten von Verdächtigen, Zeugen, Opfern — alle aus denselben Beständen. Keine Unterscheidung, keine Nuance.
 
 3. **Digitale Souveränität ist ein Mythos ohne echte Kontrolle**
-   - Europäische Länder, die Palantir beschaffen, outsourcen ihre Datenhoheit an US-Konzerne und damit an eine "unvorhersehbare US-Regierung" (Zitat Kurz). Ein "europäisches Palantir" ist keine Lösung — das Problem ist das Konzept selbst.
+   - Europäische Länder, die Palantir beschaffen, outsourcen ihre Datenhoheit an US-Konzerne und damit an die jeweilige US-Regierung. Ein "europäisches Palantir" ist keine Lösung — das Problem ist das Konzept selbst.
 
-4. **Algorithmen entwachsen ihrer Programmierer**
-   - Datenmodelle in Polizeisoftware sind nicht transparent. Polizisten sehen Scores (Gefährlichkeits-Rankings), verstehen aber nicht, wie diese berechnet werden. Das ist *delegierte Macht ohne Kontrolle*.
+4. **Die Blackbox entzieht sich der Kontrolle**
+   - Polizeisoftware wie Palantir ist eine Blackbox: Der Anbieter lässt nicht hineinschauen, und wie die Analyse zu einem Treffer kommt, kann niemand nachvollziehen. Weil Polizeidaten selbst verzerrt sind, wächst so das Risiko der Diskriminierung. Das ist *delegierte Macht ohne Kontrolle*.
 
 5. **Grundrechte brauchen Architektur, nicht nur Regeln**
-   - Privacy-by-Design ist keine Feature, sondern Pflicht. Systeme müssen von vornherein so gebaut sein, dass Massenüberwachung unmöglich ist — nicht dass sie erst im Nachhinein verboten werden muss.
+   - Privacy-by-Design ist kein Feature, sondern Pflicht. Systeme müssen von vornherein so gebaut sein, dass Massenüberwachung unmöglich ist — nicht dass sie erst im Nachhinein verboten werden muss.
 
-6. **KI verschärft alle Probleme**
-   - KI-Systeme amortisieren Trainingsdaten über Jahre. Eine einmal unrechtmäßig gesammelte Datenbank wird zur ewigen Kontaminationsquelle.
+6. **KI verschärft die Probleme**
+   - Neue Landespolizeigesetze erlauben, echte Polizeidaten zum Training von KI zu nutzen, auch durch die Firmen, mit denen die Behörden zusammenarbeiten. Kurz hält das für eine Grundsatzfrage, die Karlsruhe entscheiden muss.
 
 ## Politische & ideologische Einordnung
 
-**Libertär-linke Technologiekritik:** Kurz kritisiert nicht Technologie per se, sondern ihre Konzentration in Konzernen und Behörden ohne Kontrolle. Sie ist eine Verteidigerin individueller Freiheit und Datenschutz als Grundrecht (nicht Privatspähre als Luxus). Dies unterscheidet sie von traditionellen Konservativen (die Sicherheit über Freiheit priorisieren) und von Tech-Utopisten (die Algorithmen als neutral ansehen).
+**Libertär-linke Technologiekritik:** Kurz kritisiert nicht Technologie per se, sondern ihre Konzentration in Konzernen und Behörden ohne Kontrolle. Sie ist eine Verteidigerin individueller Freiheit und Datenschutz als Grundrecht (nicht Privatsphäre als Luxus). Dies unterscheidet sie von traditionellen Konservativen (die Sicherheit über Freiheit priorisieren) und von Tech-Utopisten (die Algorithmen als neutral ansehen).
 
 **Institutionelle Strategie:** Nicht nur Aktivismus — Kurz arbeitet mit Verfassungsgerichten, Parlamentskommissionen und NGOs wie der Gesellschaft für Freiheitsrechte (GFF) zusammen. Das ist eine *inside-outside*-Strategie: Expertise nutzen, um juristische Grenzen zu ziehen, während der CCC öffentlichen Druck aufbaut.
 
@@ -81,7 +81,7 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 ## Auszeichnungen & Anerkennung
 
 - **2011:** Computerwoche-Ranking: Platz 38 der 100 einflussreichsten IT-Personen in Deutschland
-- **2012:** Werner-Holtfort-Preis für Menschenrechtliches Engagement (mit Frank Rieger)
+- **2012:** Werner-Holtfort-Preis für bürger- und menschenrechtliches Engagement (mit Frank Rieger)
 - **2013:** Theodor-Heuss-Medaille für vorbildliches demokratisches Verhalten
 - **2014:** Toleranzpreis der Ev. Akademie Tutzing für Zivilcourage
 - **2014:** "25 Frauen für die digitale Zukunft" (Edition F)
@@ -94,7 +94,7 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 - [[DenkerVita/Arne Semsrott]] — Beide schrieben für netzpolitik.org, und ihre Forderungen sind zwei Hälften derselben Asymmetrie. Semsrott will, dass der Staat sich vor den Bürgern erklären muss, Kurz, dass die Bürger vor dem Staat undurchsichtig bleiben dürfen: Transparenz nach oben, Privatsphäre nach unten.
 - [[DenkerVita/Katharina Nocun]] — Nocun kam vom Datenschutz, den sie wie Kurz als Freiheitsrecht versteht, zur Erforschung von Verschwörungsmythen, und sie beschreibt, dass solche Mythen dort wuchern, wo echte Intransparenz herrscht. Eine Polizeisoftware, deren Scores die Beamten selbst nicht nachvollziehen, ist so ein Ort; so gelesen ist Kurz' Forderung nach durchschaubaren Systemen auch eine Vorsorge gegen das Misstrauen, das Nocun untersucht.
 - [[DenkerVita/Francesca Bria]] — Beide halten Europas Abhängigkeit von US-Konzernen für eine Machtfrage und ziehen verschiedene Schlüsse. Bria antwortet mit eigener, öffentlich finanzierter Infrastruktur und sagt, über die Smart City entscheide die politische Architektur, nicht die Technik. Kurz hält einen europäischen Anbieter für keine Lösung, solange das Zusammenführen der Daten bleibt, und will die Grundrechte in die technische Bauweise selbst legen.
-- [[DenkerVita/Konstantin Kuhle]] — Kuhles Satz, wer Bürgerrechte gegen Sicherheit tausche, verliere oft beides, könnte von Kurz stammen. Seine Antwort auf Palantir ist pragmatisch: Vergaberecht und europäische Alternativen, denn „wenn wir alle nur Palantir wollen, gibt's auch nur Palantir". Kurz' Wiener Vortrag vom Oktober 2026 ist die Gegenrede: Die Länder wollen jetzt „die Datenanalyse, keine Palantir-Produkte", und die Dauer-Rasterung bleibt.
+- [[DenkerVita/Konstantin Kuhle]] — Kuhles Satz, wer Bürgerrechte gegen Sicherheit tausche, verliere oft beides, könnte von Kurz stammen. Seine Antwort auf Palantir ist pragmatisch: Vergaberecht und europäische Alternativen, denn „wenn wir alle nur Palantir wollen, gibt's auch nur Palantir". Kurz' Wiener Vortrag vom Oktober 2026 ist die Gegenrede: Die Länder wollen jetzt „auf keinen Fall" Palantir, „aber sie wollen die automatisierte Datenanalyse", und die Dauer-Rasterung bleibt.
 - [[DenkerVita/Peter Thiel]] — Der Gegenpol. Thiel, Mitgründer von Palantir, hält Freiheit und Demokratie für unvereinbar und sieht einen „deadly race between politics and technology", in dem die Technik der Politik entkommen soll. Kurz will das Gegenteil: Technik, die so gebaut ist, dass sie unter politischer und rechtlicher Kontrolle bleibt.
 - [[DenkerVita/Michel Foucault]] — Foucault beschrieb Macht als Beziehung, die sich in Anordnungen einschreibt, und schrieb mit *Überwachen und Strafen* die Genealogie der Disziplinargesellschaft. Dass Kurz sich auf ihn beruft, ist nicht belegt; die Nähe liegt in der Sache, in ihrer These, Überwachung sei strukturell und nicht episodisch. Neu bei ihr ist, dass die Anordnung heute in einem Datenmodell steckt, das die Beamten selbst nicht verstehen.
 
@@ -104,3 +104,4 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 - [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] — Jung & Naiv Folge 827: KI als stochastischer Papagei, Chatkontrolle, Vorratsdatenspeicherung und Palantir im Überblick
 - [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner]] — re:publica Vienna, Oktober 2026: Europa wendet sich von Palantir ab und behält die Dauer-Rasterung; Anthropic-Erlass, KI-Training mit Echtdaten
 
+> [!note] Korrigiert am 29.10.2026: Die Kernthesen 4 und 6 stützten sich auf Aussagen, die Kurz so nicht macht (Gefährlichkeits-Scores, „ewige Kontaminationsquelle“); auch das Zitat „unvorhersehbare US-Regierung“ ist nicht belegt. Sie stehen jetzt so da, wie Kurz es in den Vorträgen sagt. Außerdem: Die Wahlcomputer brachte sie 2007 mit dem CCC vor das Bundesverfassungsgericht, ihre Dissertation folgte erst 2013.

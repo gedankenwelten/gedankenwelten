@@ -25,7 +25,7 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 > [!info] Wer spricht?
 > **Gilda Sahebi** (*1984, Teheran*) — Deutsch-iranische Journalistin, Autorin und Podcasterin. Studierte Medizin und Politikwissenschaft, Volontariat beim Bayerischen Rundfunk. Arbeitsschwerpunkte: autoritäre Systeme, gesellschaftliche Polarisierung, Iran, Rassismus. Politikjournalistin des Jahres 2022 (*Medium Magazin*). → [[DenkerVita/Gilda Sahebi|DenkerVita]]
 >
-> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat**, der zentralen Plattform für Informationsfreiheitsanfragen in Deutschland. Vorstandsmitglied von LobbyControl. Provozierte bewusst Strafverfahren, um §353d StGB verfassungsrechtlich anzufechten — ein Präzedenzfall für Pressefreiheit. → [[DenkerVita/Arne Semsrott|DenkerVita]]
+> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat**, der zentralen Plattform für Informationsfreiheitsanfragen in Deutschland. Ab 2018 im Vorstand von LobbyControl. Provozierte bewusst Strafverfahren, um §353d StGB verfassungsrechtlich anzufechten — ein Präzedenzfall für Pressefreiheit. → [[DenkerVita/Arne Semsrott|DenkerVita]]
 >
 > **Gast: Raúl Krauthausen** — Aktivist für Inklusion und Behindertenrechte, Gründer der Sozialhelden. → [[DenkerVita/Raul Krauthausen|DenkerVita]] · ausführlich: [[Raul Krauthausen — Teilgabe statt Teilhabe]]
 >

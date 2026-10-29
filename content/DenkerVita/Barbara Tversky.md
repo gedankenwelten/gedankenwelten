@@ -20,13 +20,13 @@ tags: [denker-vita, psychologie, kognition, embodied-cognition, spatial-cognitio
 
 ## Biografie
 
-**Barbara Gans Tversky** (geb. 1943) ist Kognitionspsychologin und eine der einflussreichsten Stimmen in der zeitgenössischen Psychologie. Sie ist Emerita Professor für Psychologie an der Stanford University (1978–2006) und Professor für Psychologie und Pädagogik am Columbia Teachers College (2005–2022), wo sie als Professor Emerita tätig bleibt.
+**Barbara Gans Tversky** ist Kognitionspsychologin; 2019 war sie Präsidentin der Association for Psychological Science. Sie lehrte von 1978 bis 2006 an der Stanford University, wo sie seither Professor Emerita ist, und von 2005 bis 2022 als Professorin für Psychologie und Pädagogik am Teachers College der Columbia University, dort heute ebenfalls emeritiert ([CV, Stanford](https://cap.stanford.edu/profiles/viewCV?facultyId=55760&name=Barbara_Tversky)).
 
 ### Ausbildung und Karriere
 
 - **Ausbildung:** B.A. (1963), M.A. (1965), Ph.D. in Psychology (1969) — alle von der University of Michigan
-- **Frühe Karriere:** Assistant Professor an der Hebrew University Jerusalem (1968–1970, 1972–1978)
-- **Stanford-Jahre (1978–2006):** Von Assistant Professor zu vollem Professor; etablierte ein einflussreiches Labor für Spatial Cognition
+- **Frühe Karriere:** Assistant Professor an der Hebrew University Jerusalem (1968–1970, 1972–1978), dazwischen Postdoc in Stanford und Oregon
+- **Stanford-Jahre (1978–2006):** Senior Lecturer, ab 1986 Associate Professor, ab 1991 Professor; Forschung zu Spatial Cognition
 - **Columbia-Jahre (2005–2022):** Dual appointment, Fokus auf Anwendung von Spatial-Cognition-Prinzipien in Bildung und Visualisierung
 - **International:** Visiting Professor an Mälardalen University (Schweden, 2015–2019), École des Hautes Études en Sciences Sociales (Paris, 2019)
 
@@ -35,8 +35,9 @@ tags: [denker-vita, psychologie, kognition, embodied-cognition, spatial-cognitio
 - Fellow of the American Academy of Arts and Sciences (2013)
 - Fellow of the Cognitive Science Society (2002)
 - Kampe de Feriat Award (2020)
-- Academician of the World Academy of Artificial Consciousness (2025)
-- U.S. Head Delegate, International Union of Psychological Sciences (2004)
+- Academician of the World Academy of Artificial Consciousness (2025, laut eigenem CV)
+- U.S. Head Delegate, International Union of Psychological Sciences (2004); Executive Committee der IUPsyS 2004–2012
+- Präsidentin der Association for Psychological Science (2019)
 
 ---
 
@@ -46,7 +47,7 @@ tags: [denker-vita, psychologie, kognition, embodied-cognition, spatial-cognitio
 
 Tversky's zentrale Thesis: **Thought ist fundamentally spatial, nicht linguistisch.** Der Verstand funktioniert primär durch räumliche Repräsentation und Bewegung — nicht durch Sprache, die eine sekundäre Schicht darstellt.
 
-- Spatial cognition nutzt etwa die **Hälfte der menschlichen Cortex**
+- Räumliches Denken nehme, sagt sie, „die Hälfte unseres Kortex“ ein — eine Vereinfachung, Raumverarbeitung ist über viele Areale verteilt (→ Faktencheck der Note)
 - Es ist älter als Sprache (evolutionär, ontogenetisch)
 - Sie ist unabhängig von Sprache funktionsfähig
 - Menschen lösen komplexe räumliche Probleme **schneller und genauer** mit räumlichem Reasoning statt verbaler Beschreibung
@@ -110,13 +111,12 @@ Zeit, Moral, Status, Intentionalität — alle werden durch räumliche Metaphern
 | Titel | Jahr | Beschreibung |
 |---|---|---|
 | [Distortions in Memory for Maps](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/1981_Tversky_Distortionsinmemoryformaps.pdf) | 1981 | Seminalarbeit zu systematischen Verzerrungen in räumlicher Erinnerung |
-| [Cognitive Maps and the Elderly](https://scholar.google.com/citations?user=ykzKVEYAAAAJ&hl=en) | 1981 | Untersuchung räumlicher Cognition über die Lebensspanne |
-| [Perspective Taking in Spatial Language](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/9_Tversky_Hard_Embodiedanddisembodiedcognition.pdf) | 1996 | Spontane Adoption räumlicher Perspektiven anderer |
-| [Spinning the Stories of Our Lives](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/004_Marsh_Tversky_Spinningthestoriesofourlives.PDF) | 2005 | Wie Menschen räumliche Narrationen konstruieren und modifizieren |
-| [Spatial Language and Spatial Cognition](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/2011_Tversky_spatialsocialthought11.pdf) | 2011 | Verhältnis zwischen räumlicher Sprache und kognitiven Repräsentationen |
-| [Visualizing Thoughts](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/2011_Tversky_VisualizingThoughts.pdf) | 2011 | Externe Representationen als kognitive Werkzeuge |
+| [Embodied and Disembodied Cognition: Spatial Perspective-Taking](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/9_Tversky_Hard_Embodiedanddisembodiedcognition.pdf) | 2009 | Mit Bridgette Martin Hard, *Cognition* — spontane Übernahme der räumlichen Perspektive anderer |
+| [Spinning the Stories of Our Lives](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/004_Marsh_Tversky_Spinningthestoriesofourlives.PDF) | 2004 | Mit Elizabeth Marsh, *Applied Cognitive Psychology* — wie wir Erlebnisse beim Weitererzählen zuspitzen und wie das die Erinnerung verändert |
+| [Spatial Thought, Social Thought](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/2011_Tversky_spatialsocialthought11.pdf) | 2011 | In *Spatial Schemas in Social Thought* (de Gruyter) — räumliche Schemata im sozialen Denken |
+| [Visualizing Thought](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/2011_Tversky_VisualizingThoughts.pdf) | 2011 | *Topics in Cognitive Science* — externe Repräsentationen als kognitive Werkzeuge |
 | [Mind in Motion: How Action Shapes Thought](https://www.genialokal.de/suche/?q=Mind+in+Motion+Tversky) | 2019 | **Magnum opus** — Comprehensive argument für spatial foundations of cognition |
-| [9 Laws of Cognition](https://ritholtz.com/2020/01/9-laws-of-cognition/) | 2020 | Synthese ihrer Forschung in neun Fundamental Principles |
+| [9 Laws of Cognition](https://ritholtz.com/2020/01/9-laws-of-cognition/) | 2020 | Barry Ritholtz' Zusammenfassung der neun Gesetze aus *Mind in Motion* |
 
 ---
 
@@ -145,7 +145,7 @@ Tversky zeigt durch drei Jahrzehnte Forschung: **Kognition ist nicht vom Körper
 ### Warum Spatial vor Language?
 
 1. **Evolutionär:** Alle Wesen müssen sich im Raum bewegen. Spatial cognition ist älter als Sprache (Millionen Jahre älter)
-2. **Neurologisch:** ~50% der human cortex is dedicated zu spatial processing
+2. **Neurologisch:** Nach Tversky dient rund die Hälfte des Kortex räumlicher Verarbeitung (eine Vereinfachung, → Faktencheck der Note)
 3. **Ontogenetisch:** Babys entwickeln räumliche Fähigkeiten *vor* Sprache
 4. **Funktional:** Menschen solve spatial problems *schneller* through space als durch words
 5. **Neurobiologisch:** Die gleichen Hirnregionen, die Navigation verarbeiten, verarbeiten auch abstrakte relationale Information
@@ -176,16 +176,7 @@ Tversky zeigt: **Das Äußere strukturiert das Innere zurück.** Wenn du eine Sk
 
 ## Politische / Ideologische Einordnung
 
-Tversky hat sich nicht zu parteipolitischen Fragen geäußert. Ihre Arbeit ist apolitisch im klassischen Sinne — kognitiv-wissenschaftlich, nicht ideologisch.
-
-Allerdings gibt es implizite progressive Tendenzen:
-
-- **Anti-Cartesian:** Sie lehnt ab die Idee, dass der Verstand vom Körper separiert ist (deckt sich mit feministischen Kritiken an disembodied rationalism)
-- **Anti-Elitist Epistemology:** Ihre Betonung auf embodied, spatial cognition validiert Formen von Wissen, die nicht-verbal/nicht-akademisch sind
-- **Pro-Equity in Education:** Sie erforscht, wie spatial reasoning *trainierbar* ist — nicht fixiert — was Implications für Adressieren von educational disparities hat
-- **Design-Minded:** Sie arbeitet mit Designern und Tech, um Interfaces mehr intuitiv/embodied zu machen — implizit humanistisch
-
-Aber: Das ist nicht ihr primary interest. Sie ist eine Empirikerin, nicht eine politische Theoretikerin.
+Parteipolitisch tritt Tversky in ihrer Arbeit nicht hervor. Sie ist Empirikerin, keine politische Theoretikerin; wo ihre Forschung praktisch wird, dann in Bildung, Visualisierung und Design.
 
 ---
 
@@ -194,7 +185,7 @@ Aber: Das ist nicht ihr primary interest. Sie ist eine Empirikerin, nicht eine p
 - [[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]] — Tversky nennt ihn einen Denker, der sie „tief beeinflusst“ habe, und zwar nicht den *Tractatus*, sondern den späten Wittgenstein: wie wir Wörter gebrauchen und wie formbar Bedeutungen sind ([Interview mit Max Raskin](https://www.maxraskin.com/interviews/barbara-tversky)). Gegen den frühen steht ihre Hauptthese. „Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt“ kehrt sie um: Das Denken ist zuerst räumlich, die Sprache kommt danach. George Lakoff, der abstrakte Begriffe aus sprachlichen Raum-Metaphern erklärt, steht zwischen beiden; Tversky verlegt die Raumstruktur vor die Sprache.
 - [[DenkerVita/David Chalmers|David Chalmers]] — Ihr achtes Gesetz, „wenn das Denken den Kopf überläuft, legt der Geist es in die Welt“, ist die empirische Schwester der *Extended Mind*-These, die Chalmers mit Andy Clark aufstellte: Notizbuch und Skizze gehören zum kognitiven System. Chalmers fragt, wo der Geist endet, Tversky, wie das Äußere das Innere zurückformt. Sein Hard Problem berührt sie nicht, sie arbeitet eine Ebene darunter.
 - [[DenkerVita/Rene Descartes|René Descartes]] — Der Gegenpol, von dem sich ihre Arbeit abstößt: zwei Substanzen, der Geist hier, die ausgedehnte Materie dort. Tversky legt die Kognition in den Körper und seine Bewegung. In dieser Linie stehen Merleau-Pontys gelebter Leib und Antonio Damasio, dessen *Descartes' Error* (1994) die Gefühle als Grundlage der Vernunft beschreibt; Tversky betont gegen Damasio das Räumlich-Motorische statt des Emotionalen, die beiden ergänzen sich eher, als dass sie konkurrieren.
-- [[DenkerVita/André Zimpel|André Zimpel]] — Was Tversky im Labor zeigt, sucht Zimpel im Klassenzimmer. Ein Förderschüler rechnet 60 durch 4 als sechs Männer mit zehn Fingern; für Zimpel ist Bild-Denken kein Defizit, und eine Schule, die nur Sprach-Denken misst, übersieht Begabung. Tverskys Befund, dass räumliches Denken trainierbar ist, gibt ihm das Fundament.
+- [[DenkerVita/André Zimpel|André Zimpel]] — Was Tversky im Labor zeigt, sucht Zimpel im Klassenzimmer. Ein Förderschüler rechnet 60 durch 4 als sechs Männer mit zehn Fingern; für Zimpel ist Bild-Denken kein Defizit, und eine Schule, die nur Sprach-Denken misst, übersieht Begabung. Tverskys sechstes Gesetz, räumliches Denken sei das Fundament des abstrakten, gibt ihm Rückhalt.
 - [[DenkerVita/Albert Moukheiber|Albert Moukheiber]] — Tversky zeigt, dass wir Karten im Gedächtnis systematisch verzerren: Kurven werden gerade, Straßen rücken an die Himmelsrichtungen. Sie liest das als Anpassung, nicht als Fehler. Moukheiber sagt dasselbe über kognitive Verzerrungen überhaupt: Die Abkürzungen, die uns in die Irre führen, machen uns handlungsfähig. Bei ihm bleibt das Gehirn allerdings ein Vorhersageorgan im Kopf, Tverskys Kognition reicht in Hände und Raum.
 - [[DenkerVita/Rebecca Boehme|Rebecca Böhme]] — Böhme erzählt einen Milchshake-Versuch, der Tverskys Zwei-Wege-Kanal greifbar macht: Wer denselben Shake als „reichhaltig“ angekündigt bekommt, fühlt sich satter, und das Hungerhormon Ghrelin folgt dem Etikett, nicht dem Inhalt. Erwartung formt den Körper, wie bei Tversky der Körper das Denken formt. Für beide ist ein „Fehler“ der Kognition oft eine Funktion.
 - [[DenkerVita/Paul Klee|Paul Klee]] — „Ein Punkt, der spazieren geht“: Klee beginnt das Bild mit einer Bewegung, die zur Linie wird. Tverskys Hauptwerk heißt *Mind in Motion*; bei ihr denken Gesten mit, und eine Skizze zeigt Probleme, die man vorher nicht sah. Der Bauhaus-Lehrer hat dieses Denken mit der Hand als Malerei betrieben, sie hat es im Experiment vermessen.

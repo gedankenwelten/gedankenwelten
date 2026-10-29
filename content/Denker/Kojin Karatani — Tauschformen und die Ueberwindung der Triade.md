@@ -32,7 +32,7 @@ Quellen:
 - [2022 Berggruen Prize Laureate](https://www.youtube.com/watch?v=dSdfmqZK3rc)
 
 > [!info] Wer spricht?
-> **Kojin Karatani** (*1941, Amagasaki, Japan*) — einer der bedeutendsten lebenden Philosophen und Literaturtheoretiker Japans. Träger des Berggruen Prize 2022, der ersten asiatischen Laureatin in der Geschichte des Preises. Sein Denken bewegt sich zwischen Philosophie, Politischer Ökonomie, Ästhetik und Weltgeschichte — Ost und West, Vergangenheit und Gegenwart. Er lehrte u.a. an der Universität Kinki und als Gastprofessor an der Columbia University.
+> **Kojin Karatani** (*1941, Amagasaki, Japan*) — einer der bedeutendsten lebenden Philosophen und Literaturtheoretiker Japans. Träger des Berggruen Prize 2022, als erster asiatischer Preisträger in der Geschichte des Preises. Sein Denken bewegt sich zwischen Philosophie, Politischer Ökonomie, Ästhetik und Weltgeschichte — Ost und West, Vergangenheit und Gegenwart. Er lehrte u.a. an der Universität Kinki und als Gastprofessor an der Columbia University.
 >
 > Prägend: die Begegnung mit Natsume Sōseki (Literaturkritik), dann die Lektüre von Marx und Kant als gegenseitige Spiegel — daraus entstand seine Methode der *Transkritik*. 1990, im Jahr des Golfkriegs und des Zerfalls des Ostblocks, wurde für ihn der Ausgangspunkt: Wenn die alten sozialistischen Alternativen versagen, was bleibt? Diese Frage trieb sein Werk seither an.
 >
@@ -118,9 +118,9 @@ Karatani präzisiert: Marx verstand Hegels *Zivilgesellschaft* als Kapitalismus 
 
 ---
 
-## Die vier Tauschformen: Karatanise Grundstruktur
+## Die vier Tauschformen: Karatanis Grundstruktur
 
-[▶ 53:43](https://www.youtube.com/watch?v=X8suZQGC-tk&t=3223) — Hier kommt Karatnais eigentliche theoretische Innovation: Statt *Produktionsweisen* wie bei Marx stellt er *Tauschformen* (modes of exchange) ins Zentrum.
+[▶ 53:43](https://www.youtube.com/watch?v=X8suZQGC-tk&t=3223) — Hier kommt Karatanis eigentliche theoretische Innovation: Statt *Produktionsweisen* wie bei Marx stellt er *Tauschformen* (modes of exchange) ins Zentrum.
 
 **Mode A — Reziprozität und Gabe**
 [▶ 56:02](https://www.youtube.com/watch?v=X8suZQGC-tk&t=3362) — Tausch zwischen Gemeinschaften als Gabe und Gegengabe. Das Prinzip der Gleichwertigkeit, aber nicht der Kalkulation. Mauss' *Essai sur le don* beschreibt es ethnographisch. Karatani erweitert: dieses Prinzip lebt fort — in der Familie, in Gemeinschaftsgefühlen, in dem, was die Nation *emotional* zusammenhält.
@@ -171,10 +171,10 @@ Das Transkript enthält keinen separaten Q&A-Abschnitt — Lecture 1 endet mit d
 > Noam Chomskys Vortrag "Government in the Future" (1971) unterscheidet tatsächlich vier politische Systeme entlang der Achsen Regulierung/Freiheit und Gleichheit/Ungleichheit. Quelle: [Chomsky, Government in the Future, 1971](https://www.youtube.com/watch?v=lABWSPvZX-0)
 
 > [!success] Bestätigt — Kants Ewiger Frieden 1795
-> Kant veröffentlichte *Zum ewigen Frieden* 1795, während der Französischen Revolution. Karatnais Datierung und Charakterisierung sind korrekt. Quelle: [Kant, Zum ewigen Frieden, 1795](https://www.projekt-gutenberg.org/kant/frieden/frieden.html)
+> Kant veröffentlichte *Zum ewigen Frieden* 1795, während der Französischen Revolution. Karatanis Datierung und Charakterisierung sind korrekt. Quelle: [Kant, Zum ewigen Frieden, 1795](https://www.projekt-gutenberg.org/kant/frieden/frieden.html)
 
 > [!warning] Vereinfacht — Mauss und Mode A
-> Karatani beruft sich auf Marcel Mauss' *Essai sur le don* für Mode A (Gabe und Gegengabe). Mauss beschrieb diese Prinzipien primär in archiarchischen Gesellschaften. Die Übertragung auf moderne Nationalgefühle ist Karatnais eigene theoretische Erweiterung — nicht Mauss selbst. Die Grenze zwischen Beschreibung und Extrapolation bleibt offen.
+> Karatani beruft sich auf Marcel Mauss' *Essai sur le don* für Mode A (Gabe und Gegengabe). Mauss beschrieb diese Prinzipien primär in archiarchischen Gesellschaften. Die Übertragung auf moderne Nationalgefühle ist Karatanis eigene theoretische Erweiterung — nicht Mauss selbst. Die Grenze zwischen Beschreibung und Extrapolation bleibt offen.
 
 > [!warning] Vereinfacht — 22-Jahres-Zyklen
 > Die Beobachtung, dass 1848→1870 und 1968→1990 je 22-Jahres-Abstände haben, ist strukturell reizvoll, aber historisch selektiv. Viele andere revolutionäre Momente (1917, 1933, 1956, 1989) passen nicht ins Schema. Keine unabhängige Quelle bestätigt dieses Muster als robuste historische Gesetzmäßigkeit.
@@ -183,7 +183,7 @@ Das Transkript enthält keinen separaten Q&A-Abschnitt — Lecture 1 endet mit d
 
 ## Weiterführende Quellen
 
-*Karatnais Hauptwerke:*
+*Karatanis Hauptwerke:*
 - [The Structure of World History](https://www.genialokal.de/Suche/?q=karatani+structure+world+history) — Duke UP, 2014
 - [Transcritique: On Kant and Marx](https://www.genialokal.de/Suche/?q=karatani+transcritique+kant+marx) — MIT Press, 2003
 - [Isonomia and the Origins of Philosophy](https://www.genialokal.de/Suche/?q=karatani+isonomia+origins+philosophy) — Duke UP, 2017
@@ -194,7 +194,7 @@ Das Transkript enthält keinen separaten Q&A-Abschnitt — Lecture 1 endet mit d
 
 *Kontext:*
 - Marcel Mauss: *Essai sur le don* (1925) — Grundlage für Mode A
-- Noam Chomsky: Government in the Future (1971) — Koordinatensystem für Karatnais Politiktheorie
+- Noam Chomsky: Government in the Future (1971) — Koordinatensystem für Karatanis Politiktheorie
 
 ---
 
@@ -230,11 +230,11 @@ Karatani führt eine direkte Auseinandersetzung mit Hegel — aber als Umkehrung
 
 ### → [[Walther Ziegler — Marx in 60 Minuten]]
 
-Karatnais schärfste Kritik gilt Marx' Basis-Überbau-Theorie: Marx behandelte Staat und Nation als Epiphänomene des Kapitals und glaubte, mit der Überwindung des Kapitals verschwänden auch sie. Karatani zeigt, warum alle realen Revolutionen (1848, 1917, 1968) daran scheiterten: Der Staat ist kein Überbau, sondern ein eigenständiger Mode B (Plünderung/Redistribution) mit eigener Reproduktionslogik. Was Marx als Lösung dachte, reproduzierte nur eine andere Ecke derselben Triade.
+Karatanis schärfste Kritik gilt Marx' Basis-Überbau-Theorie: Marx behandelte Staat und Nation als Epiphänomene des Kapitals und glaubte, mit der Überwindung des Kapitals verschwänden auch sie. Karatani zeigt, warum alle realen Revolutionen (1848, 1917, 1968) daran scheiterten: Der Staat ist kein Überbau, sondern ein eigenständiger Mode B (Plünderung/Redistribution) mit eigener Reproduktionslogik. Was Marx als Lösung dachte, reproduzierte nur eine andere Ecke derselben Triade.
 
 ### → [[Clara Mattei — Geschichte der Austeritaetspolitik]]
 
-Mattei belegt empirisch, was Karatani strukturell behauptet: Kapital, Staat und Nation kooperieren. Austeritätspolitik ist keine Marktentscheidung, sondern staatliche Intervention zugunsten des Kapitals. Die Brüsseler Konferenz 1920 zeigt das Borromäische Muster in Reinform: Staat und Kapital verstärkten sich gegenseitig, um die aufkommende Arbeiterbewegung (ein früher Mode-D-Ansatz) zu zerstören. Mattei liefert die historische Anatomie für Karatnais These.
+Mattei belegt empirisch, was Karatani strukturell behauptet: Kapital, Staat und Nation kooperieren. Austeritätspolitik ist keine Marktentscheidung, sondern staatliche Intervention zugunsten des Kapitals. Die Brüsseler Konferenz 1920 zeigt das Borromäische Muster in Reinform: Staat und Kapital verstärkten sich gegenseitig, um die aufkommende Arbeiterbewegung (ein früher Mode-D-Ansatz) zu zerstören. Mattei liefert die historische Anatomie für Karatanis These.
 
 ### → [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 

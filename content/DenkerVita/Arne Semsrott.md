@@ -21,7 +21,7 @@ tags: [denker-vita, pressefreiheit, transparenz, demokratie]
 ## Biographischer Snapshot
 
 > [!info] Wer ist das?
-> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat** bei der Open Knowledge Foundation Deutschland (seit 2014). Bruder von Nico Semsrott (Kabarettist, ehem. EU-Abgeordneter). Studium der Politikwissenschaft in Berlin und Istanbul (2010–2015). Vorstandsmitglied bei **LobbyControl** (seit 2018), Beirat der österreichischen Stiftung COMÚN für **Gegenrechtsschutz** (seit 2024). Co-Host des Podcasts **Gilda con Arne** (mit Gilda Sahebi, seit September 2025). Zweifacher **Otto-Brenner-Preisträger** (2015, 2016). Autor von *Machtübernahme — Was passiert, wenn Rechtsextremisten regieren* (Droemer, 2024). Fachgebiete: Informationsfreiheit, Transparenz, Pressefreiheit, Open Data, Lobbyismus-Kontrolle, Rechtsextremismus-Prävention.
+> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat** bei der Open Knowledge Foundation Deutschland (seit 2014). Bruder von Nico Semsrott (Kabarettist, ehem. EU-Abgeordneter). Studium der Politikwissenschaft in Berlin und Istanbul (2010–2015). Ab 2018 im Vorstand von **LobbyControl**. Mit FragDenStaat Aufbau des **Gegenrechtsschutzes** (seit 2023, seit 2024 gemeinsam mit GFF und Verfassungsblog). Co-Host des Podcasts **Gilda con Arne** (mit Gilda Sahebi, seit September 2025). Zweifacher **Otto-Brenner-Preisträger** (Medienprojektpreis 2015, 2016). Autor von *Machtübernahme — Was passiert, wenn Rechtsextremisten regieren* (Droemer, 2024) und *Gegenmacht* (Droemer, 2026). Fachgebiete: Informationsfreiheit, Transparenz, Pressefreiheit, Open Data, Lobbyismus-Kontrolle, Rechtsextremismus-Prävention.
 
 ## Biografie
 
@@ -31,19 +31,20 @@ Das Studium der Politikwissenschaft führt ihn nach Berlin und Istanbul (2010–
 
 **FragDenStaat** wird ab 2014 sein Hauptprojekt — und sein Lebenswerk. Was als kleine Plattform beginnt, auf der Bürger:innen IFG-Anfragen an Behörden stellen können, baut Semsrott zur **zentralen Infrastruktur für Informationsfreiheit in Deutschland** aus. Tausende Anfragen, Klagen, investigative Recherchen. FragDenStaat wird zum Werkzeug, das den Staat zwingt, sich selbst zu erklären.
 
-Parallel schreibt er von 2014 bis 2021 für **netzpolitik.org** — das wichtigste deutschsprachige Medium für digitale Bürgerrechte. Zwei Otto-Brenner-Preise (2015, 2016) bestätigen die Qualität seiner investigativen Arbeit.
+Parallel schreibt er von 2014 bis 2021 für **netzpolitik.org**. Für seine Transparenzprojekte, Hochschulwatch bei Transparency Deutschland und FragDenStaat, erhält er 2015 und 2016 den Medienprojektpreis des Otto Brenner Preises.
 
 2018 initiiert er **OpenSCHUFA** mit — eine Kampagne, die erstmals systematisch Licht in das Scoring-System der Schufa bringt. Tausende Menschen spenden ihre Daten, die Kampagne wird für den Grimme Online Award nominiert. Es ist klassischer Semsrott: ein intransparentes System identifizieren, es öffentlich machen, die Betroffenen mobilisieren.
 
-2021 folgt der **Freiheitsfonds** — Semsrott sammelt Geld, um Menschen aus **Ersatzfreiheitsstrafen wegen Schwarzfahrens** freizukaufen. Eine Aktion, die gleichzeitig humanitär und politisch ist: Sie macht sichtbar, dass in Deutschland Menschen im Gefängnis sitzen, weil sie arm sind. Das Justizministerium reagiert — die Debatte über Ersatzfreiheitsstrafen gewinnt an Fahrt.
+2021 folgt der **Freiheitsfonds** — Semsrott sammelt Geld, um Menschen aus **Ersatzfreiheitsstrafen wegen Schwarzfahrens** freizukaufen. Eine Aktion, die gleichzeitig humanitär und politisch ist: Sie macht sichtbar, dass in Deutschland Menschen im Gefängnis sitzen, weil sie arm sind, und die Debatte über Ersatzfreiheitsstrafen gewinnt an Fahrt.
 
-Der **§353d-Fall** (2023–2025) wird sein bislang mutigster juristischer Kampf. Semsrott veröffentlicht bewusst amtliche Gerichtsbeschlüsse, um die Verfassungsmäßigkeit des Paragrafen anzufechten, der genau das verbietet. Er will einen **Präzedenzfall für Pressefreiheit** schaffen. Das Landgericht Berlin I verurteilt ihn im Oktober 2024, der BGH bestätigt das Urteil im Juli 2025. Semsrott kündigt eine **Verfassungsbeschwerde** an — der Fall ist laufend und könnte die Grenzen zwischen staatlicher Geheimhaltung und journalistischer Veröffentlichungspflicht neu definieren.
+Der **§353d-Fall** (2023–2025) wird sein bislang mutigster juristischer Kampf. Semsrott veröffentlicht bewusst amtliche Gerichtsbeschlüsse, um die Verfassungsmäßigkeit des Paragrafen anzufechten, der genau das verbietet. Er will einen **Präzedenzfall für Pressefreiheit** schaffen. Das Landgericht Berlin I verwarnt ihn im Oktober 2024 mit Strafvorbehalt, der BGH bestätigt das Urteil im Juli 2025 (bekannt geworden im Januar 2026). Semsrott kündigt mit der GFF eine **Verfassungsbeschwerde** an — der Fall ist laufend und könnte die Grenzen zwischen staatlicher Geheimhaltung und journalistischer Veröffentlichungspflicht neu definieren.
 
-Seit 2024 ist er Beirat der österreichischen Stiftung COMÚN für **Gegenrechtsschutz**, seit September 2025 Co-Host des Podcasts **Gilda con Arne** mit der Journalistin Gilda Sahebi — ein Format, das aktuelle politische Entwicklungen analysiert.
+Mit FragDenStaat baut er ab 2023 den **Gegenrechtsschutz** auf, der Betroffenen autoritärer Maßnahmen Anwälte vermittelt und die Kosten trägt, seit August 2024 gemeinsam mit der Gesellschaft für Freiheitsrechte und dem Verfassungsblog. 2024 gehört er zudem den Fachbeiräten der österreichischen Bürgerstiftung COMÚN an. Seit September 2025 ist er Co-Host des Podcasts **Gilda con Arne** mit der Journalistin Gilda Sahebi — ein Format, das aktuelle politische Entwicklungen analysiert.
 
 ## Bücher & Publikationen
 
-- *Machtübernahme — Was passiert, wenn Rechtsextremisten regieren. Eine Anleitung zum Widerstand* (Droemer, 2024) — [genialokal](https://www.genialokal.de/Suche/?q=arne+semsrott+machtübernahme)
+- *Machtübernahme — Was passiert, wenn Rechtsextremisten regieren. Eine Anleitung zum Widerstand* (Droemer, 2024, ISBN 978-3-426-65984-7) — [genialokal](https://www.genialokal.de/Suche/?q=arne+semsrott+machtübernahme)
+- *Gegenmacht — Die Zivilgesellschaft schlägt zurück. Eine Anleitung für die demokratische Offensive* (Droemer, 2026, ISBN 978-3-426-57072-2) — [genialokal](https://www.genialokal.de/Suche/?q=arne+semsrott+gegenmacht)
 - OBS-Arbeitspapiere zur Informationsfreiheit (Otto Brenner Stiftung)
 - OBS-Arbeitspapier zur Desiderius-Erasmus-Stiftung
 - Zahlreiche Artikel bei netzpolitik.org (2014–2021)
@@ -73,7 +74,7 @@ Semsrott bewegt sich im **linksliberalen, zivilgesellschaftlichen Spektrum** —
 
 Mit LobbyControl und FragDenStaat steht er in der Tradition der **Watchdog-Organisationen** — Institutionen, die den Staat überwachen, statt ihn zu ersetzen. Das unterscheidet ihn von radikaleren Positionen: Er will keine andere Ordnung, sondern eine, die ihre eigenen Regeln einhält.
 
-Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz-Beirat) zeigt die zweite Dimension: Er sieht Transparenz nicht nur als Selbstzweck, sondern als **Schutzschild gegen autoritäre Tendenzen**. Wer weiß, was der Staat tut, kann verhindern, dass er missbraucht wird.
+Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz) zeigt die zweite Dimension: Er sieht Transparenz nicht nur als Selbstzweck, sondern als **Schutzschild gegen autoritäre Tendenzen**. Wer weiß, was der Staat tut, kann verhindern, dass er missbraucht wird.
 
 ## Verbindungen zu anderen Denkern
 
@@ -82,7 +83,7 @@ Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz-Bei
 - [[DenkerVita/Constanze Kurz]] — Beide schrieben für netzpolitik.org. Semsrott will den Staat durchsichtig machen, Kurz den Bürger vor ihm schützen; zusammen ergibt das die Regel, dass Sichtbarkeit mit der Macht wachsen soll, die einer hat.
 - [[DenkerVita/Ronen Steinke]] — Steinke nennt es Klassenjustiz, dass Menschen in Haft sitzen, weil sie eine Geldstrafe fürs Schwarzfahren nicht zahlen können; Semsrotts Freiheitsfonds kauft genau diese Menschen frei. Und wo Steinke die Meinungsfreiheit eher von Polizei und Justiz bedroht sieht als von der Gesellschaft, liefert der §353d-Fall das Anschauungsstück.
 - [[DenkerVita/Robin Celikates]] — Mit dem §353d-Fall verstößt Semsrott öffentlich gegen ein Gesetz, nimmt die Verurteilung in Kauf und will die Norm in Karlsruhe prüfen lassen. Das liegt nah am liberalen Modell des zivilen Ungehorsams nach Rawls, gewaltfrei, öffentlich, die Strafe akzeptierend, und genau dieses Modell hält Celikates für zu eng: Für ihn ist Ungehorsam eine Praxis, mit der sich Ausgeschlossene Gehör verschaffen, nicht vor allem ein Appell an den Gerechtigkeitssinn der Mehrheit.
-- [[DenkerVita/Marco Buelow]] — Bülow legte seine Lobbytermine offen, bevor es Pflicht war, und beschreibt eine Korruption, die ohne Geld auskommt: Zugang, Aufstieg, Gefallen. Semsrott, im Vorstand von LobbyControl, arbeitet an den Werkzeugen, mit denen man solche Nähe von außen sieht; Bülow hat denselben Maßstab von innen an sich selbst angelegt.
+- [[DenkerVita/Marco Buelow]] — Bülow legte seine Lobbytermine offen, bevor es Pflicht war, und beschreibt eine Korruption, die ohne Geld auskommt: Zugang, Aufstieg, Gefallen. Semsrott, ab 2018 im Vorstand von LobbyControl, arbeitet an den Werkzeugen, mit denen man solche Nähe von außen sieht; Bülow hat denselben Maßstab von innen an sich selbst angelegt.
 - [[DenkerVita/Leonhard Dobusch]] — Die Gegenstimme aus der Organisationsforschung: An der Wikimedia hat Dobusch gezeigt, dass ganz offene Strategieprozesse Menschen ausschließen können und manche Entscheidungen Schutzräume brauchen. Zugleich teilt er den Ansatz von *Machtübernahme*, dass gegen Faschismus Vorbereitung in den Institutionen hilft, nicht Empörung; Dobusch denkt sie für die Sender, Semsrott für die Zivilgesellschaft.
 
 ## Gedankenwelten-Notes
@@ -93,3 +94,5 @@ Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz-Bei
 - [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 - [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 - [[Nico Semsrott — Bruessel sehen und sterben]] — Nicos Bühnenshow über 5 Jahre EU-Parlament: die EU-Dimension von Arnes Transparenz-Kampf. Beide Brüder zeigen dasselbe Grundproblem auf verschiedenen Ebenen — Arne national (IFG, FragDenStaat), Nico auf EU-Ebene (Bürokostenpauschale, Reisekostenerschleichung).
+
+> [!note] Korrigiert am 29.10.2026: Hier stand, Semsrott sei seit 2024 „Beirat der österreichischen Stiftung COMÚN für Gegenrechtsschutz“. Belegt ist anderes: Den Gegenrechtsschutz hat FragDenStaat 2023 gestartet und betreibt ihn seit 2024 mit GFF und Verfassungsblog; im Fachbeirat der Stiftung COMÚN saß er 2024. Auch im Vorstand von LobbyControl ist er nicht mehr.
