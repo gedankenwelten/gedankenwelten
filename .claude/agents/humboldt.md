@@ -153,6 +153,10 @@ Kompakte Stichpunkte, **max. 300 Wörter**:
 >   Zusammenhang einer anderen gestellt.
 > - **Gegenwart prüfen:** „arbeitet bei“, „schreibt für“, „ist Mitglied“ nur, wenn eine aktuelle Quelle es trägt —
 >   sonst Vergangenheit oder weglassen.
+> - **Steigerungen nur mit Quelle, die genau diesen Grad trägt** (seit 29.10.2026): „der genaueste“, „als
+>   Einziger“, „vollständig offengelegt“, „bundesweit bekannt“, „gilt als die Stimme“. Sonst eine Stufe tiefer
+>   („einer der wenigen“, „auf Nachfrage“) oder mit Namen der Quelle („der Forward nannte ihn …“). Herkunft
+>   nicht aus der Sprache schließen: „deutschsprachig“, nicht „deutsch“ (Etkes, Kalayo, Gelegs, 29.10.2026).
 - Kein Fließtext im Briefing, nur Stichpunkte
 - Keine Rückfragen
 - Wenn nichts gefunden: kurz notieren was recherchiert / nicht gefunden wurde

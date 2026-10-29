@@ -141,7 +141,7 @@ Der symbolische Kern: Demokratie beginnt nicht nur bei Wahlen, sondern im Alltag
 
 [▶ 27:30](https://www.youtube.com/watch?v=0WxPLe_otSg&t=1650)
 
-Nach 16 Jahren Orbán: Peter Magyar wird mit 199 von 199 Abgeordnetenstimmen als neuer Ministerpräsident Ungarns vereidigt. Zehntausende Menschen auf dem Kossuth-Platz in Budapest. Die Europafahne wird am Parlamentsgebäude gehisst — dort, wo Orbán sie vor Jahren abgenommen hatte.
+Nach 16 Jahren Orbán: Peter Magyar wird als neuer Ministerpräsident Ungarns vereidigt, „199 Abgeordneten stimmten für Magyar“, sagt Staiy [▶ 28:41](https://www.youtube.com/watch?v=0WxPLe_otSg&t=1721) *(es waren 140 Ja- gegen 54 Nein-Stimmen → [[#Faktencheck|Faktencheck]])*. Zehntausende Menschen auf dem Kossuth-Platz in Budapest. Die Europafahne wird am Parlamentsgebäude gehisst — dort, wo Orbán sie vor Jahren abgenommen hatte.
 
 Magyars erste Worte nach dem Eid rechnen mit Orbán ab:
 
@@ -193,8 +193,8 @@ Der Appell: Statt nur zu feiern, sollte die Energie genutzt werden, um blockiere
 > [!warning] Vereinfacht — Owens spekulierte über „israelische Geheimdienstmitarbeiter" als Kirk-Täter
 > Owens sprach von einem „Israeli operative" als Teil eines angeblichen Attentatskommandos — ohne Belege, basierend auf einer nicht verifizierten Quelle. Der Begriff „Geheimdienstmitarbeiter" ist eine Zuspitzung. Quelle: [Wikipedia — Candace Owens](https://en.wikipedia.org/wiki/Candace_Owens)
 
-> [!warning] Vereinfacht — Peter Magyar mit 199 von 199 Stimmen
-> Magyar wurde am **9. Mai 2026** vereidigt (nicht 12. Mai). TISZA gewann 141 von 199 Sitzen — ein einstimmiges 199-zu-0-Votum ist nicht verifiziert und erscheint unwahrscheinlich, sofern Fidesz (52 Sitze) nicht geschlossen zustimmte. Quelle: [Wikipedia — 2026 Hungarian parliamentary election](https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election)
+> [!danger] Falsch — 199 Abgeordnete hätten für Magyar gestimmt
+> Das Parlament wählte Magyar am **9. Mai 2026** mit **140 Ja- gegen 54 Nein-Stimmen** zum Ministerpräsidenten. 199 ist die Zahl aller Sitze; vereidigt wurden an diesem Vormittag alle 199 Abgeordneten, gewählt hat ihn die Tisza-Mehrheit (141 Sitze), die Opposition aus Fidesz-KDNP (52) und Mi Hazánk (6) trug ihn nicht mit. Quellen: [EFE, 09.05.2026](https://efe.com/english/latest-news/2026-05-09/peter-magyar-hungary-prime-minister/) · [NBC News, 10.05.2026](https://www.nbcnews.com/world/hungary/hungarys-peter-magyar-sworn-prime-minister-ending-viktor-orbans-16-yea-rcna344331)
 
 > [!warning] Vereinfacht — Nachrichtenfaktoren erklären alles
 > Der Teufelskreis aus Klick-Anreizen, Agenda-Setting und politischer Instrumentalisierung ist real und gut belegt. Redaktionelle Entscheidungen und Eigentümerstrukturen wirken zusätzlich — die Erklärung ist plausibel, aber nicht monokausal. Quelle: Keine unabhängige Metastudie gefunden

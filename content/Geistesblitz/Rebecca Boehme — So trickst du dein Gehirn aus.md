@@ -219,7 +219,7 @@ Beide arbeiten an der Schnittstelle Neurowissenschaft/Politik. Yu zeigt, warum M
 
 ### → [[Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 
-Direkte Gegenposition: Carbon vertritt einen stärkeren Konstruktivismus — „Die Welt, die du wahrnimmst, existiert nicht da draußen." Böhme distanziert sich genau davon und betont die evolutionäre Anpassung unserer Sinne *an* die Realität. Die Spannung ist produktiv: Carbon zeigt, *wie viel* konstruiert wird; Böhme zeigt, dass diese Konstruktion dennoch auf realer Interaktion basiert.
+Direkte Gegenposition: Carbon vertritt einen stärkeren Konstruktivismus — die Augen seien nur „ein wichtiger Eintritt“, „die Außenwelt selber konstruierst du selber“. Böhme setzt dagegen und betont die evolutionäre Anpassung unserer Sinne *an* die Realität. Die Spannung ist produktiv: Carbon zeigt, *wie viel* konstruiert wird; Böhme zeigt, dass diese Konstruktion dennoch auf realer Interaktion basiert.
 
 ### → [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 

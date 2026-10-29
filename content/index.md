@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
+> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
+>
+> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
+
 > **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
 >
 > Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
@@ -64,9 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Was wir loswerden wollen, soll uns erst wärmen: Ein Duisburger Start-up will CO₂ statt Wasser durch heißes Gestein schicken. Die Physik trägt, das Nadelöhr ist der Ort.
 
-> **27.10.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie: drei Erfindungen für den harten Kern]]
->
-> Mit einem eigenen Preis holt Jacob Beautemps deutsche Erfindungen ans Licht, das Aber der Jury gleich mit. Den Auftakt macht die Energie: Was nach dem Strom bleibt, braucht Moleküle.
+> → *1 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

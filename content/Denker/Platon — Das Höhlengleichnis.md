@@ -32,7 +32,7 @@ aliases:
 > [!abstract] Worum es geht
 > Wer aus der Höhle kommt, sieht zuerst gar nichts. Platons Gleichnis aus dem siebten Buch der *Politeia* erzählt von Gefangenen, die Schatten für die Wirklichkeit halten, von einem, der hinaufgezerrt wird und Schritt für Schritt sehen lernt, und von seiner Rückkehr, bei der ihn die anderen auslachen. Daraus entwickelt Platon seinen Begriff von Bildung: Sie füllt nichts in die Seele, sie dreht sie um. Die Note folgt dem Text Abschnitt für Abschnitt und zitiert ihn im Wortlaut.
 
-Quelle: *Politeia* (Der Staat), Buch VII, 514a–521b; entstanden um 380–370 v. Chr. Zitiert nach der gemeinfreien Übersetzung in *Platon: Sämtliche Werke*, Bd. 2, Berlin 1940 ([zeno.org](http://www.zeno.org/Philosophie/M/Platon/Der+Staat/Siebentes+Buch)), mit Stephanus-Zählung.
+Quelle: *Politeia* (Der Staat), Buch VII, 514a–521b; entstanden um 380–370 v. Chr. Zitiert nach der gemeinfreien Übersetzung von Wilhelm Siegmund Teuffel (Buch I–V) und Wilhelm Wiegand (Buch VI–X) aus den Jahren 1855/56, abgedruckt in *Platon: Sämtliche Werke*, Bd. 2, Berlin 1940 ([zeno.org](http://www.zeno.org/Philosophie/M/Platon/Der+Staat/Siebentes+Buch)), mit Stephanus-Zählung.
 
 Athenischer Philosoph (428/427–348/347 v. Chr.), Schüler des Sokrates, Lehrer des Aristoteles. Das Höhlengleichnis ist das bekannteste Gleichnis der Philosophiegeschichte. Platon fragt: **Was ist Wirklichkeit? Was ist Schein? Und was kostet es, den Unterschied zu erkennen?**
 

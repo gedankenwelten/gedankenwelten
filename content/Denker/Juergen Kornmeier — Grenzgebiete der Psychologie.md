@@ -364,7 +364,7 @@ Damit schließt sich der Bogen zum Anfang: Unser Wahrnehmungssystem misst nicht,
 
 ### → [[Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 
-Der nächste Nachbar — und darum die aufschlussreichste Reibung. Beide arbeiten mit mehrdeutigen Reizen und finden dasselbe: Carbons gemorphtes Gesicht wird eindeutig weiblich, sobald vorher „Maria" fällt; Kornmeiers Mona Lisa wird fröhlicher, sobald etwas Fröhlicheres den Raum betritt. Nur zieht Carbon aus dem Befund eine Aussage über die Welt — *„Die Welt, die du wahrnimmst, existiert nicht da draußen"* —, während Kornmeier an derselben Stelle über sein Messgerät spricht: ein Ohr an der Mauer eines Hauses voller singender Chöre. Carbon macht aus der Konstruktion eine These, Kornmeier eine Grenze. Wer beide liest, sieht, dass derselbe Laborbefund zwei verschiedene Temperamente von Wissenschaft trägt.
+Der nächste Nachbar — und darum die aufschlussreichste Reibung. Beide arbeiten mit mehrdeutigen Reizen und finden dasselbe: Carbons gemorphtes Gesicht wird eindeutig weiblich, sobald vorher „Maria" fällt; Kornmeiers Mona Lisa wird fröhlicher, sobald etwas Fröhlicheres den Raum betritt. Nur zieht Carbon aus dem Befund eine Aussage über die Welt — *„die Außenwelt selber konstruierst du selber“* —, während Kornmeier an derselben Stelle über sein Messgerät spricht: ein Ohr an der Mauer eines Hauses voller singender Chöre. Carbon macht aus der Konstruktion eine These, Kornmeier eine Grenze. Wer beide liest, sieht, dass derselbe Laborbefund zwei verschiedene Temperamente von Wissenschaft trägt.
 
 ### → [[Rebecca Boehme — So trickst du dein Gehirn aus]]
 

@@ -170,7 +170,7 @@ Maios Kritik am "Menschen als Unternehmer seiner selbst" und Schmitz' Frage "Was
 
 ### → [[Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 
-Carbons Kernbefund, dass Wahrnehmung aktive Konstruktion ist (10–20× mehr Rücksignale als Eingangssignale), liefert das neurowissenschaftliche Fundament für Zimpels Bilddenken-These: Synästhesie und visuelle Kognition sind keine "Fehler", sondern alternative Top-down-Modelle
+Carbons Kernbefund, dass Wahrnehmung aktive Konstruktion ist, passt zu Zimpels Bilddenken-These: Synästhesie und visuelle Kognition sind keine "Fehler", sondern alternative Top-down-Modelle
 
 ### → [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 

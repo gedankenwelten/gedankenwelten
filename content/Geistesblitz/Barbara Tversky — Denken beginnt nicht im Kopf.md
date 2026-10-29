@@ -253,7 +253,7 @@ Spitzer argumentiert für verkörpertes Lernen als pädagogischen Imperativ — 
 
 ### → [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 
-Tversky zeigt, dass 50% des Cortex räumlicher Verarbeitung dienen — das Gehirn ist baulich auf Raum ausgerichtet. Carbon liefert die exakte neuronale Mechanik dazu: 10–20 Millionen Rückwärts-Fasern gegen 1 Million Eingangssignale. Beide kommen zur selben Grundaussage — das Gehirn konstruiert Welt, statt sie abzubilden — aber Tversky geht einen Schritt weiter: Diese Konstruktion beginnt im Körper, nicht erst im Cortex.
+Tversky sagt, rund die Hälfte des Cortex diene räumlicher Verarbeitung — das Gehirn ist baulich auf Raum ausgerichtet. Carbon beschreibt eine Mechanik dazu: An der ersten Schaltstelle der Sehbahn kommt reichlich Rückmeldung aus der Hirnrinde an, die das Bild mitformt. Beide kommen zur selben Grundaussage — das Gehirn konstruiert Welt, statt sie abzubilden — aber Tversky geht einen Schritt weiter: Diese Konstruktion beginnt im Körper, nicht erst im Cortex.
 
 ### → [[Geistesblitz/Albert Moukheiber — Mein Hirn und ich]]
 

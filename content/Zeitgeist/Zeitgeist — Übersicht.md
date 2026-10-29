@@ -106,7 +106,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 - [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]] — Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]] — Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
-- [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
+- [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]] — Eine Regierung abzuwählen ist leichter, als ein Regime abzubauen. Kurz vor der Ungarn-Wahl zeigt Ernst Gelegs, welche Schlösser Orbán in den Staat eingebaut hat.
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 - [[Zeitgeist/FRONTLINE — Bannons War|FRONTLINE — Bannon’s War]] — Ein Arbeitersohn, der den Glauben an die Institutionen verlor und beschloss, sie einzureißen. FRONTLINE zeigt Bannons Weg, der Guardian, wie weit sein Netz in Europa trug.

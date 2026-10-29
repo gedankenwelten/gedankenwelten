@@ -164,6 +164,24 @@ grep -n -E "belegt|belegen|weist nach|weisen nach|nachweis|dokumentiert|beweist"
 
 Jeden Treffer außerhalb des Faktenchecks prüfen: Trägt ein `[!success]` ihn? Sonst umformulieren.
 
+### Steigerungen tragen Beweislast (seit 29.10.2026)
+
+**Superlative, Ausschließlichkeit und Ruf** — „der genaueste“, „als Einziger“, „allein“, „vollständig“,
+„jede“, „nie“, „bundesweit bekannt“, „gilt als *die* Stimme“ — schreiben wir nur, wenn eine Quelle **genau
+diesen Grad** trägt, und dann mit ihr: „der Forward nannte ihn 2003 …“. Sonst eine Stufe tiefer: „einer der
+wenigen“, „weitgehend allein“, „auf Nachfrage“, „bekannt wurde er mit …“. Dasselbe gilt für Herkunft, die
+wir aus der Sprache schließen („deutschsprachig“, nicht „deutsch“).
+
+Anlass: Aristarch vom 29.10.2026 (Etkes, Kalayo, Gelegs, Platon). Etkes hatte seine Finanzierung nicht
+„unaufgefordert und vollständig“ offengelegt, sondern auf eine Frage und ohne alle Geber; er war nicht „der
+genaueste Kartograf“, sondern einer, den eine Zeitung so beschrieb; Kalayo ist nicht nachweislich deutsch;
+der Philosophenkönig regiert bei Platon nicht, weil er „als Einziger“ unbestechlich wäre. Die Steigerung ist
+die bequemste Stelle, an der ein Satz glatter wird als seine Quelle. **Schnellcheck vor dem Deploy:**
+
+```bash
+grep -n -o -E ".{0,40}(genaueste|einzige|als Einzige|vollständig|lückenlos|ausnahmslos|bundesweit bekannt|gilt als|der wichtigste|die wichtigste|maßgeblich|erstmals).{0,40}" "NOTE.md" | grep -v -E "^[0-9]+:>"
+```
+
 ---
 
 ## Abschnitts-Auswahl: Was kommt rein, was fällt raus?

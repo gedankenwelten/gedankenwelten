@@ -75,6 +75,8 @@ Fehler bisher am häufigsten waren, vor allem unsere eigenen und ihre Ursachen. 
    `agents/montaigne.md`, „Die verlinkte Stimme nicht verbiegen“.)
    **Belegverben** („belegt“, „weist nach“, „dokumentiert“) nur, wo ein `[!success]` sie trägt — der
    Schnellcheck steht im Aristoteles-Skill unter „Belegverben gehören dem Faktencheck“.
+   **Steigerungen** („der genaueste“, „als Einziger“, „vollständig“, „gilt als“) ebenso — Schnellcheck im
+   Aristoteles-Skill unter „Steigerungen tragen Beweislast“.
 5. **Lebende Personen** (Persönlichkeitsrecht, → Abmahnrisiko): Jede **Tatsachenbehauptung** über
    einen lebenden Menschen braucht einen Beleg; Meinung muss als Meinung erkennbar sein. Verdachts-
    äußerungen nur als solche, mit Quelle. Mitgliedschaften, Strafverfahren, Ämter, Zitate besonders

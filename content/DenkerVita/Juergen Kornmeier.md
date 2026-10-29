@@ -72,7 +72,7 @@ Vollständige Publikationsliste: [igpp.de — Jürgen Kornmeier](https://igpp.de
 
 ## Verbindungen zu anderen Denkern
 
-**[[DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]]** — Der nächste Nachbar im Fach: derselbe Laborbefund, zwei Temperamente. Carbon macht aus der Konstruktion eine These über die Welt („Die Welt, die du wahrnimmst, existiert nicht da draußen"), Kornmeier macht daraus eine Aussage über sein Messgerät.
+**[[DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]]** — Der nächste Nachbar im Fach: derselbe Laborbefund, zwei Temperamente. Carbon macht aus der Konstruktion eine These über die Welt („die Außenwelt selber konstruierst du selber“), Kornmeier macht daraus eine Aussage über sein Messgerät.
 
 **[[DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Teilt den Predictive-Processing-Rahmen vollständig, zieht die Realitätsgrenze aber schärfer: Man kann hingehen und anfassen, die Welt kann uns eines Irrtums überführen. Kornmeiers Institut erforscht genau die Phänomene, die sich diesem Kriterium entziehen.
 
