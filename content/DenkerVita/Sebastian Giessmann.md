@@ -27,7 +27,7 @@ tags: [denker-vita, technologie, wirtschaft, geopolitik, medien]
 
 Sebastian Gießmann verbindet Mediengeschichte, Kulturanthropologie und Infrastrukturforschung. Er studierte und promovierte in diesem Grenzfeld — seine Dissertation *Die Verbundenheit der Dinge* (2014) ist ein Grundlagenwerk zur Netzwerkgeschichte. Er habilitierte sich und lehrt als außerplanmäßiger Professor an der Universität Siegen.
 
-Sein prägender intellektueller Zug: Er schaut auf Dinge, die als technisch gelten, und fragt nach ihrer kulturellen Geschichte. Kreditkarten sind für ihn keine banalen Zahlungsmittel — sie sind geronnene Entscheidungen über Kooperation, Standards, Ein- und Ausschluss. Das Kreditkarten-Buch (2026) erzählt diese Geschichte von der Eurocart über Mastercard bis zum digitalen Euro.
+Sein prägender intellektueller Zug: Er schaut auf Dinge, die als technisch gelten, und fragt nach ihrer kulturellen Geschichte. Kreditkarten sind für ihn keine banalen Zahlungsmittel — sie sind geronnene Entscheidungen über Kooperation, Standards, Ein- und Ausschluss. Das Kreditkarten-Buch (2026) erzählt diese Geschichte von der Eurocard über Mastercard bis zum digitalen Euro.
 
 Der SFB 1187 „Media of Cooperation" ist sein institutionelles Zuhause: Wie kooperieren Menschen über Medien und Infrastrukturen? Diese Frage stellt er nicht nur theoretisch, sondern ethnografisch und historisch — was ist tatsächlich passiert, wer hat sich wie mit wem arrangiert?
 
@@ -53,15 +53,20 @@ Der SFB 1187 „Media of Cooperation" ist sein institutionelles Zuhause: Wie koo
 
 1. **Kulturgeschichte statt Technik-Determinismus** — Zahlungssysteme sind nicht unvermeidbar, sondern Ergebnis historischer Kämpfe. Europa hätte andere Wege gehen können — und hat sie zeitweise gegangen.
 2. **Materielle Standards als politisches Medium** — Magnetstreifen, Chips, Protokolle: Das sind Entscheidungen, die Machtverhältnisse einschleifen. Wer Standards setzt, definiert Abhängigkeiten.
-3. **Der Mastercard-Coup als Lehrstück** — Die Übernahme der Eurocart 2003 zeigt: Souveränität muss nicht nur aufgebaut, sondern auch politisch geschützt werden. Marktmacht allein reicht nicht.
-4. **Kooperation als alternatives Modell** — Zahlungssysteme können kooperativ organisiert sein (Eurocart-Ursprungsmodell, GnuTaler) — das ist historisch belegt, kein Utopismus.
+3. **Der Mastercard-Coup als Lehrstück** — Die Übernahme der Eurocard 2003 zeigt: Souveränität muss nicht nur aufgebaut, sondern auch politisch geschützt werden. Marktmacht allein reicht nicht.
+4. **Kooperation als alternatives Modell** — Zahlungssysteme können kooperativ organisiert sein (Eurocard-Ursprungsmodell, GnuTaler) — das ist historisch belegt, kein Utopismus.
 5. **Partizipationsarmer Prozess als Demokratieproblem** — Der digitale Euro wird ohne gemeinsame europäische Öffentlichkeit verhandelt. Wissen über Geld ist zu wenig verteilt, um demokratische Kontrolle zu ermöglichen.
 
 ---
 
 ## Verbindungen zu anderen Denkern
 
-*[Montaigne folgt]*
+- [[DenkerVita/Petra Gehring]] — Seine Partnerin auf der re:publica 26 und in der Debatte um den digitalen Euro. Gehring arbeitet nach vorn, mit Design-Entscheidungen wie Haltelimit, Offline-Fähigkeit und Pseudonymität als demokratischen Mindestanforderungen. Gießmann arbeitet nach hinten und zeigt, dass Europa beim Bezahlen schon einmal eigene Infrastruktur hatte. Den partizipationsarmen Prozess halten beide für das eigentliche Demokratieproblem.
+- [[DenkerVita/Francesca Bria]] — Bria fordert mit dem EuroStack öffentliches Kapital für souveräne Infrastruktur, weil der Markt sie nicht baut. Gießmanns Eurocard-Geschichte fügt eine Pointe hinzu: Europas Zahlungssysteme wurden im 20. Jahrhundert überwiegend von konservativen und liberalen Akteuren aufgebaut, verloren gingen sie, weil die Politik sie nicht schützte. Bauen reicht nicht, das Gebaute muss auch gehalten werden.
+- [[DenkerVita/Constanze Kurz]] — Die Gegenprobe zum Wort Souveränität. Für Kurz bleibt „digitale Souveränität“ ein Mythos, solange die Architektur dieselbe ist; ein europäisches Palantir löse nichts, das Problem sei das Konzept. Aufs Bezahlen übertragen hieße das: Eine europäische Karte, die ebenso viele Verhaltensdaten sammelt, wäre kein Gewinn. Gießmanns Sympathie für tokenbasierte Systeme wie GNU Taler zeigt, dass er die Frage ähnlich stellt; er bemängelt nur, dass das Projekt „nicht genug zentralbänkisch gesprochen“ habe.
+- [[DenkerVita/Arnaud Orain]] — Orains Monopolrente, einen Raum besetzen und jeden zahlen lassen, der ihn durchquert, beschreibt ziemlich genau, was ein Kartennetz mit jeder Transaktion tut. Orain denkt dabei an Häfen, Lagerhäuser und Plattformen, nicht an Zahlungsnetze. Gießmanns These, wer Standards setze, definiere Abhängigkeiten, ist die Infrastrukturfassung derselben Beobachtung.
+- [[DenkerVita/Martin Andree]] — Andree beschreibt, wie Monopole auf öffentlichen Gütern Staaten erpressbar machen, bis zum „Kill Switch“ über Information, Märkte und Cloud. Zahlungsinfrastruktur gehört in diese Reihe, und Gießmanns Geschichte zeigt, wie ein Stück davon 2003 in amerikanische Hand ging.
+- [[DenkerVita/Lacina Kone]] — Dieselbe Frage von Afrika aus: Kontrolle über Infrastruktur, Regeln und Wertschöpfungsketten statt bloßer Teilnahme, getragen von einem gemeinsamen digitalen Markt bis 2030. Gießmanns Eurocard-Geschichte ist die Warnung, die dazugehört: Ein solcher Markt muss auch dann noch politisch geschützt werden, wenn er steht.
 
 ---
 

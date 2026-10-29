@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Nietzsche in 60 Minuten"
+description: "Gott ist tot, und an seine Stelle treten Ersatzgötter. Walther Ziegler über Nietzsche: Wille zur Macht, Übermensch und die Verwandlung des Geistes vom Kamel über den Löwen zum Kind."
 aktualisiert: 2026-04-12
 date: 22.02.2018
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Buddha in 60 Minuten"
+description: "Er ging nicht über Wasser, er lehrte nur. Walther Ziegler erzählt Buddha als Lehrer ohne Wunder: Leiden entsteht aus Begehren, und wer das Ich durchschaut, kann es lassen."
 aktualisiert: 2026-05-09
 date: 09.05.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Christoph Butterwegge — Armut NEU DENKEN"
+description: "„Wer hat, dem wird gegeben“: Für Christoph Butterwegge folgt die Spaltung in Arm und Reich politischen Weichenstellungen, und die amtlichen Berichte verschleiern, wie groß der Reichtum ist."
 aktualisiert: 2026-04-11
 date: 2026-03-31
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)"
+description: "Als die Boomer Eltern waren, war PISA ein Skandal; heute sind Kinder eine Minderheit, die niemand wählen muss. Aladin El-Mafaalani über eine alternde Demokratie, die ihre Jungen vergisst."
 date: 2026-04-05
 aktualisiert: 2026-07-12
 tags:

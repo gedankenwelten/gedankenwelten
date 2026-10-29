@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — TACO Tuesday: Trump fällt Hegseth und Rubio in den Rücken"
+description: "Trump Always Chickens Out: Kaum verkündet, sagt Trump die Operation Freedom wieder ab. Laut Reuters bleibt Irans Weg zur Bombe bei 9 bis 12 Monaten, der Krieg hat daran nichts geändert."
 aktualisiert: 2026-05-06
 date: 06.05.2026
 tags:

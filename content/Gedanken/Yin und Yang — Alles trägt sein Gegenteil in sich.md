@@ -1,5 +1,6 @@
 ---
 title: Yin und Yang — Alles trägt sein Gegenteil in sich
+description: "Keine Gruppe, keine Bewegung ist nur Problem oder nur Lösung. In allem Guten entsteht auch Schlechtes, in allem Schlechten steckt etwas Wahres – eine Leseanleitung für jede Quelle, aus jedem Lager."
 date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:

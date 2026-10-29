@@ -1,5 +1,6 @@
 ---
 title: "Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet"
+description: "Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt von Rapallo bis Katyn, wie Hitler und Stalin zusammenarbeiteten und Polen gemeinsam zerschlugen."
 aktualisiert: 2026-05-11
 date: 09.05.2026
 tags:

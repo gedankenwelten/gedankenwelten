@@ -55,7 +55,12 @@ Anti-Trump, links von der Demokratischen Partei. Lance versteht sich nicht als D
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne befüllt diesen Abschnitt)*
+- [[DenkerVita/Götz Aly]] — Die stärkste Gegenstimme zu Lances Apathie-These. Aly fand in den Akten keine Gleichgültigen, die bloß wegsahen, sondern eine Bevölkerung, die das Regime mit Sozialpolitik aus geraubtem jüdischem Vermögen an sich band und die Deportationen am helllichten Tag sah. Lances Nebensatz, Trump habe den Leuten Geld und billige Eier versprochen, liegt näher an Aly als seine Hauptthese vom Wegschauen.
+- [[DenkerVita/Susan Neiman]] — Neiman lobte 2019 die deutsche Vergangenheitsaufarbeitung als Vorbild für die USA, und Lance findet dieses Vorbild in Berlin: Faschismus erkennen „wie Atmen“, Mahnmale in Sichtweite des Regierungsviertels. Neiman sieht dieselbe Erinnerungskultur seither kippen, in einen verordneten Philosemitismus. Ihr Satz, Erinnerung sei Arbeit und könne umschlagen, dämpft Lances Bewunderung.
+- [[DenkerVita/Dietrich Bonhoeffer]] — Lance hält als Christ das Schweigen für Schuld; Bonhoeffer verlangte von der Kirche, nicht nur die Opfer unter dem Rad zu verbinden, sondern dem Rad selbst in die Speichen zu fallen. In der Methode trennen sie sich: Lance fragt die Schweigenden, ob sie noch gute Menschen sind. Bonhoeffer hielt Dummheit für einen Zustand, in den Menschen gebracht werden, und setzte auf Befreiung, nicht Belehrung.
+- [[DenkerVita/Arnd Henze]] — Henze beschreibt die weiße evangelikale Allianz mit Trump als Rachebewegung und Religion zugleich als Brandbeschleuniger und Ressource. Lance, Ex-Republikaner und gläubiger Christ, steht für die Ressource. Henzes Maßstab „Methode vor Zitat“ gilt auch für ihn, der mit Niemöller und Martin Luther King argumentiert.
+- [[DenkerVita/Robin Celikates]] — Celikates will nicht Faschismus messen, sondern Faschisierung erkennen: Krisen werden auf markierte Minderheiten abgewälzt, und die Entrechtung greift von dort auf alle über. Lances umgeschriebener Niemöller, erst die Einwanderer, dann trans Athleten, dann Somalier, ist genau diese Sequenz. Sein Ruf nach einem Generalstreik steht in der Nähe dessen, was Celikates Demokratisierung von unten nennt.
+- [[DenkerVita/Benjamin Biersky]] — Bierskys „Nicht handeln ist auch eine Handlung“ ist Lances Satz. Bei der Frage, wer den Faschismus trägt, widersprechen sie sich: Für Biersky ist er ein Elitenprojekt, von wenigen Reichen gesteuert, für Lance kommt er durch die Gleichgültigkeit der vielen. Bierskys Machtpyramide, die wackelt, wo die unteren Stufen die Zustimmung verweigern, verbindet beides.
 
 ## Gedankenwelten-Notes
 

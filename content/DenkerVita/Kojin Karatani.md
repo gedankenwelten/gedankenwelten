@@ -146,15 +146,14 @@ Karatani ist **kein konventioneller Marxist**, obgleich Marx zentral für sein D
 
 ## Verbindungen zu anderen Denkern
 
-- **Karl Marx:** Hauptgesprächspartner; Karatani wendet Marx gegen sich selbst
-- **Immanuel Kant:** Ethik, Ewiger Frieden, kategorischer Imperativ
-- **Georg Wilhelm Friedrich Hegel:** Dialektik; Karatani liest Hegel kritisch
-- **Sigmund Freud:** Nation und Psyche in *Nation and Aesthetics*
-- **Jacques Derrida:** Dekonstruktion; Spuren in Karanis Tausch-Analyse
-- **Heraklit / Parmenides:** Gegen-Platon; ionische Philosophie
-- **Natsume Soseki:** Japanischer Modernist; in Karanis Literaturtheorie
-- **Slavoj Žižek:** Parallelen in der Trinität-Kritik (Ideologie-Kritik)
-- **David Graeber:** Parallele Anthropologie von Gabe und Schuld (Mode A)
+- [[DenkerVita/Karl Marx]] — Sein Hauptgesprächspartner, gegen sich selbst gelesen. Marx hielt Staat und Nation für Überbau, der mit dem Kapital verschwinden werde; Karatani zeigt sie als eigene Tauschweisen, Plünderung und Umverteilung (B) und Gegenseitigkeit (A), und erklärt damit, warum Revolutionen, die nur das Kapital angriffen, den Staat stärkten.
+- [[DenkerVita/Immanuel Kant]] — Der Pate der *Transkritik* und der Weltrepublik. Karatani liest Kant und Marx wechselseitig, ohne einen Sieger zu erklären, und übernimmt den *Ewigen Frieden* als regulative Idee: Tauschweise D existiert nie dauerhaft und wirkt gerade deshalb als Horizont.
+- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Der Gegenspieler. Hegel erkannte Staat, bürgerliche Gesellschaft und Familie als aufeinander verwiesene Sphären und erklärte ihre Verbindung zum Ziel der Geschichte; Karatani sieht darin den Borromäischen Ring aus Kapital, Nation und Staat, den es zu lösen gilt. Recht gibt er Hegel nur empirisch: Ohne Macht gibt es kein internationales Recht.
+- [[DenkerVita/Carel van Schaik]] — Fast dieselbe Sündenfall-Erzählung, anthropologisch statt ökonomisch: Bei van Schaik bringt die Sesshaftigkeit Herrschaft und Ungleichheit, bei Karatani entsteht der Staat aus Plünderung. An einer Stelle verschieben sie sich. Van Schaiks Gleichheit liegt vor dem Dorf, Karatanis Gegenseitigkeit lebt gerade in der Agrargemeinschaft fort und kehrt als Gefühl der Nation zurück.
+- [[DenkerVita/Tilo Wesche]] — Wesche zeigt, wie das Kolonialrecht gemeinschaftliches, nicht kodifiziertes Eigentum als herrenlos las und es sich aneignete. Karatanis Tauschweisen geben dem eine Struktur: Eine Ordnung des Warentauschs erklärt ihren eigenen Rahmen für universal und macht andere Tauschweisen unsichtbar.
+- [[DenkerVita/Clara Mattei]] — Mattei belegt an der Austeritätspolitik nach 1920, was Karatani strukturell behauptet: Staat und Kapital stützen einander, sobald eine Arbeiterbewegung eine andere Ordnung verlangt. Ihr Ausweg sind Räte und partizipative Haushalte; Karatanis Tauschweise D bleibt ein Horizont.
+- [[DenkerVita/Ardalan Ibrahim]] — Beide lesen Platon als Beginn des antidemokratischen Rückschlags. In *Transcritique* sieht Karatani das Herz der attischen Demokratie im Los, weil es Kontingenz in das Machtzentrum bringt; alle Ämter zu losen hält er aber für unrealistisch und schlägt nur vor, das wichtigste Amt unter drei Gewählten auszulosen ([Auszug](https://equalitybylot.com/2011/06/30/karatani-on-sortition/)). Ibrahim geht den ganzen Weg.
+- [[DenkerVita/Silvia Rivera Cusicanqui]] — Ihre Gemeinschaften aus Aymara-Gegenseitigkeit und ihr Misstrauen gegen jeden Staat, auch einen indigenen, sind ein gelebter Versuch dessen, was Karatani Assoziation nennt. Offen bleibt, ob das über die Größe einer Versammlung hinaus trägt.
 
 ## Empfehlenswerte Videos & Vorträge
 

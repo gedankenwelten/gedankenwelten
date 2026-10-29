@@ -1,5 +1,6 @@
 ---
 title: "phoenixRunde — Arm und Reich in Deutschland"
+description: "81 Prozent finden den Wohlstand ungerecht verteilt, quer durch alle Lager, und wählen doch Gegensätzliches. Die phoenixRunde streitet, ob Deutschland eine Erbengesellschaft geworden ist."
 aktualisiert: 2026-05-10
 date: 04.05.2026
 tags:

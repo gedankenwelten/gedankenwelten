@@ -1,5 +1,6 @@
 ---
 title: "Morpheus — Warum alle chinesische KI nutzen"
+description: "Sechs chinesische Spitzenmodelle in 26 Tagen, fast verschenkt. Morpheus fragt, warum sie so billig sind, was ihre Zensur verrät und welche Tür Europa sich selbst bauen müsste."
 aktualisiert: 2026-05-17
 date: 17.05.2025
 tags:

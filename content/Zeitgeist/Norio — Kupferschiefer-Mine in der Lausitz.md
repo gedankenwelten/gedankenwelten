@@ -1,5 +1,6 @@
 ---
 title: "Norio — Vergessener DDR-Schatz: Neue Giga-Mine rettet Deutschlands Industrie?"
+description: "Unter der Lausitz liegt Kupfer, das Deutschland unabhängiger machen könnte. Norio zeigt die Chance einer neuen Mine – und die Briefkastenfirmen hinter dem Unternehmen, das sie heben will."
 aktualisiert: 2026-04-25
 date: 2026-04-25
 tags:

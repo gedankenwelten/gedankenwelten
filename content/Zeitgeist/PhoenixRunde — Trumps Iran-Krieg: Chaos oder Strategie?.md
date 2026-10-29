@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?"
+description: "Militärisch geschwächt, politisch gestärkt: Die PhoenixRunde fragt, warum der Iran mit Hormus heute einen stärkeren Hebel hat als vor dem Krieg – und ob hinter Trumps Kurs ein Plan steht."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

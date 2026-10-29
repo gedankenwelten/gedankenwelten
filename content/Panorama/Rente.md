@@ -1,5 +1,6 @@
 ---
 title: "Rente"
+description: "Wer spart, braucht einen Schuldner – mit Flassbecks Satz fragt das Panorama, warum Kapitaldeckung die Rentenlücke nur verschiebt und wie Minijobs und Riester Altersarmut eingebaut haben."
 date: 2026-04-27
 aktualisiert: 2026-04-27
 tags:

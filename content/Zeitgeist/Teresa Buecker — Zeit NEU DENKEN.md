@@ -1,5 +1,6 @@
 ---
 title: "Teresa Bücker — Zeit NEU DENKEN"
+description: "Ohne Zeit keine Freiheit. Teresa Bücker hält dem Bild vom faulen Deutschland die unsichtbare Sorgearbeit entgegen und fragt, ob freie Zeit ein demokratisches Recht sein müsste."
 aktualisiert: 2026-10-11
 date: 2026-04-21
 tags:

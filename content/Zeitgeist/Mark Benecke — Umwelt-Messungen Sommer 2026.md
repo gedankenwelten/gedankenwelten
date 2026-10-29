@@ -1,5 +1,6 @@
 ---
 title: "Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026"
+description: "Auf einem Berliner Friedhof fand Mark Benecke nur noch einen einzigen Käfer. Er zeigt, dass die Erwärmung seit 1975 vorausberechnet war – und was geschieht, wenn Messdaten unbequem werden."
 aktualisiert: 2026-10-11
 date: 11.05.2026
 tags:

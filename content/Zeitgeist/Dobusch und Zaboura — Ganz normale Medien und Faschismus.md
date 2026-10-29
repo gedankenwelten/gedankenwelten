@@ -1,5 +1,6 @@
 ---
 title: "Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus"
+description: "Wie Brownings „ganz normale Männer“ wirken ganz normale Medien mit: Leonhard Dobusch und Nadia Zaboura zeigen an Qualitätsblättern, wie „umstritten“ und falsche Balance der extremen Rechten helfen."
 aktualisiert: 2026-05-25
 date: 20.05.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen"
+description: "Wer glaubt, die andere Hälfte wähle aus Dummheit, sitzt selbst in der Matrix. Jonathan Haidt zeigt fünf moralische Fundamente, die Liberale und Konservative verschieden gewichten."
 date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:

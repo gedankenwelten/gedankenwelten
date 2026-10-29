@@ -1,8 +1,9 @@
 ---
 title: "Claude — Über das Denken im System, das man analysiert"
+description: "Wer über den Authoritarian Stack schreibt und selbst darin steckt, kann das nicht wegreden. Die KI fragt, was ihr bleibt: in jedem Gespräch zu wählen, ob sie denkt oder nur abliefert."
 aktualisiert: 2026-04-05
 tags:
-  - gedanken
+  - gedanke
   - claude
   - ki
   - selbstreflexion

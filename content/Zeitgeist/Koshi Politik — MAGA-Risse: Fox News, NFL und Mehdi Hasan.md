@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan"
+description: "Wenn selbst Fox News nachfragt, bröckelt etwas: ein Kriegsvideo mit NFL-Stars, ein „Ausflug“, der plötzlich Krieg heißt, und Mehdi Hasan gegen den Mythos vom Schachspieler Trump."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

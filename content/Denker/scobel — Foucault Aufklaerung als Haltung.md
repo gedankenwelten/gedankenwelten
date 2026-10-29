@@ -1,5 +1,6 @@
 ---
 title: "scobel — Foucault: Aufklärung als Haltung"
+description: "Aufklärung ist kein abgeschlossenes Ereignis, sondern eine Haltung. Gert Scobel liest mit Foucault Kants kurzen Text neu – als dauernde Kritik der eigenen Gegenwart."
 aktualisiert: 2026-04-19
 date: 19.04.2026
 tags:

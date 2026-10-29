@@ -1,5 +1,6 @@
 ---
 title: "Rebecca Böhme — So trickst du dein Gehirn aus"
+description: "Derselbe Milchshake macht unterschiedlich satt, je nachdem, was man über ihn glaubt. Rebecca Böhme erklärt das Gehirn als Vorhersagemaschine – und wo die Macht der Gedanken endet."
 aktualisiert: 2026-05-02
 date: 02.05.2026
 tags:
@@ -61,7 +62,7 @@ Quelle: [So trickst du dein Gehirn aus – scobel im Gespräch: Mit Rebecca Böh
 
 ### Die Milkshake-Studie — Wenn Erwartung den Körper verändert
 
-[▶ 18:59](https://www.youtube.com/watch?v=LAUaLHbgTCo&t=1139) — Böhmes vielleicht überraschendstes Beispiel für die Macht der Vorhersage: Zwei Gruppen trinken *denselben* Milchshake. Einer Gruppe wird gesagt „gesunder Milchshake", der anderen „reichhaltiger Milchshake". Ergebnis: Die Reichhaltig-Gruppe fühlt sich satter *und* schüttet messbar mehr Ghrelin aus (ein Sättigungshormon).
+[▶ 18:59](https://www.youtube.com/watch?v=LAUaLHbgTCo&t=1139) — Böhmes vielleicht überraschendstes Beispiel für die Macht der Vorhersage: Zwei Gruppen trinken *denselben* Milchshake. Einer Gruppe wird gesagt „gesunder Milchshake", der anderen „reichhaltiger Milchshake". Ergebnis: Die Reichhaltig-Gruppe fühlt sich satter, *und* ihr Körper zieht mit. Böhme erinnert sich an „mehr Ghrelin“; in der Originalstudie ([Crum et al. 2011, *Health Psychology*](https://doi.org/10.1037/a0023467)) ist es umgekehrt und passt gerade darum: Ghrelin ist das Hungerhormon, und sein Spiegel fiel nach dem „reichhaltigen“ Shake deutlich steiler ab als nach dem „gesunden“.
 
 > *„Der einzige Unterschied zwischen diesen beiden Gruppen war nur, was man den Leuten mitgeteilt hatte. Und diese reine Mitteilung — da hat der Körper darauf anders reagiert."*
 
@@ -239,7 +240,7 @@ Das Netzwerk-Essay als Praxisform von Böhmes Theorie: Jede aufrichtige Begegnun
 
 ### → [[Geistesblitz/Barbara Tversky — Denken beginnt nicht im Kopf]]
 
-Böhmes Milkshake-Studie und Tverskys Embodied Cognition treffen sich im selben Befund: Der Körper ist nicht passiver Empfänger, sondern aktiver Mitgestalter von Wahrnehmung und Kognition. Böhme zeigt, wie mentale Modelle den Körper physisch verändern (Ghrelin-Ausschüttung). Tversky zeigt, wie der Körper das Denken erst ermöglicht (Gesten, Deprivations-Experiment). Zwei-Wege-Kanal, beide Richtungen empirisch belegt.
+Die Milkshake-Studie, die Böhme erzählt, und Tverskys Embodied Cognition treffen sich im selben Befund: Der Körper ist nicht passiver Empfänger, sondern aktiver Mitgestalter von Wahrnehmung und Kognition. Böhme zeigt, wie mentale Modelle den Körper physisch verändern (Ghrelin-Spiegel). Tversky zeigt, wie der Körper das Denken erst ermöglicht (Gesten, Deprivations-Experiment). Zwei-Wege-Kanal, beide Richtungen empirisch belegt.
 
 ### → [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
 

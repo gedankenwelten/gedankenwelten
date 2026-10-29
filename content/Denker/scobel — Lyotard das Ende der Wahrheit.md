@@ -1,5 +1,6 @@
 ---
 title: "scobel — Lyotard: Das Ende der Wahrheit?"
+description: "Es gibt viele Sprachspiele und keine Sprache über ihnen. Gert Scobel über Lyotard: Wissen wird Ware, Widerstreit bleibt ungelöst – und manche Opfer finden für ihr Unrecht keine Sprache."
 aktualisiert: 2026-05-15
 date: 14.05.2026
 tags:

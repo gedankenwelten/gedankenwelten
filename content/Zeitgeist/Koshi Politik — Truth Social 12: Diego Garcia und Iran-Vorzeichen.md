@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen"
+description: "Ein Post über eine ferne Insel, kurz bevor die Bomber starten: Für Koschi war Trumps Sorge um Diego Garcia das öffentliche Vorzeichen des Iran-Angriffs."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

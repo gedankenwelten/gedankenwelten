@@ -1,5 +1,6 @@
 ---
 title: "Zhao Tingyang — Verbales Denken und Neo-Aufklärung"
+description: "Unsere Sprache denkt in Dingen, die Welt geschieht in Vorgängen. Zhao Tingyang sucht ein Denken in Verben, das Entstehung, Kausalität und Emergenz fassen kann, wo Substantive versagen."
 aktualisiert: 2026-05-16
 date: 16.05.2026
 tags:

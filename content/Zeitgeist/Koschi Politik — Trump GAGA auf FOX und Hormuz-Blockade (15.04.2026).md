@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Trump GAGA auf FOX und Hormuz-Blockade (15.04.2026)"
+description: "Bei Fox News sollte es ein freundliches Gespräch werden, dann drohte Trump Iran mit Zerstörung. Koschi über die Blockade von Hormus, gescheiterte Verhandlungen und Benzinpreise nahe am Rekord."
 aktualisiert: 2026-04-15
 date: 2026-04-15
 tags:

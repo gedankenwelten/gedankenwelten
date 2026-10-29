@@ -1,5 +1,6 @@
 ---
 title: "Albert Moukheiber — Mein Hirn und die anderen (2/2)"
+description: "Wir denken nie allein. Albert Moukheiber zeigt, wie das Gehirn von Geburt an auf andere angelegt ist – und warum Vertrauen der Kitt ist, den Plattformen und KI gerade verschieben."
 aktualisiert: 2026-04-16
 date: 17.04.2026
 tags:

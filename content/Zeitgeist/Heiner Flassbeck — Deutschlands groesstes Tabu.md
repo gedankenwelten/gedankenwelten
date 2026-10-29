@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Deutschlands größtes Tabu"
+description: "Wenn Haushalte und Unternehmen jedes Jahr 350 Milliarden Euro sparen, muss sich jemand verschulden. Für Heiner Flassbeck ist das Deutschlands größtes Tabu, und die Schuldenbremse ignoriert es."
 aktualisiert: 2026-05-15
 date: 13.05.2026
 tags:

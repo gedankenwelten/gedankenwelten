@@ -1,5 +1,6 @@
 ---
 title: "Heinz Bude — Gesellschaft der Angst"
+description: "Die Mitte schrumpft nicht, sie spaltet sich, und mit dem Wohlstand wächst die Angst. Heinz Bude über eine Gesellschaft, in der Misstrauen mobilisiert und eine Null-Fehler-Generation nachrückt."
 aktualisiert: 2026-05-05
 date: 19.11.2014
 tags:

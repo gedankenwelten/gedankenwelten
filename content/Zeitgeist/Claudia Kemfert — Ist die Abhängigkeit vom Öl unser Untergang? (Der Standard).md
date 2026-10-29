@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)"
+description: "Für Claudia Kemfert ist fossile Energie eine Droge, und wer Sprit verbilligt, verlängert die Sucht. In der tiefsten fossilen Krise rät sie zum Ausstieg statt zum Tankrabatt."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

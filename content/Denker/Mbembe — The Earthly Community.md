@@ -1,5 +1,6 @@
 ---
 title: "Achille Mbembe — The Earthly Community"
+description: "Sein-mit-anderen kommt vor dem Ich. Achille Mbembe spannt den Bogen von Kamerun über Nekropolitik und KI bis zu einer Erdgemeinschaft, für die Afrikas Archiv eine Ressource sein könnte."
 aktualisiert: 2026-07-18
 date: 05.06.2024
 tags:

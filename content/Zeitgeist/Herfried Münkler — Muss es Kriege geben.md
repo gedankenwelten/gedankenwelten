@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Herfried Münkler — Muss es Kriege geben?"
+description: "Mit der Sesshaftigkeit entstand der Unterschied zwischen Krieg und Frieden. Herfried Münkler fragt, ob es Kriege geben muss, und kommt zu einer unbequemen These: Auch Friedenszeiten erzeugen Krieg."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

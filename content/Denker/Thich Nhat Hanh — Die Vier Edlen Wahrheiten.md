@@ -1,5 +1,6 @@
 ---
 title: "Thich Nhat Hanh — Die Vier Edlen Wahrheiten"
+description: "Wer tief ins Leiden schaut, findet darin schon den Weg hinaus. Thich Nhat Hanh lehrt die Vier Edlen Wahrheiten als eine einzige – und Leiden als etwas, das wir füttern oder aushungern."
 date: 2026-04-20
 aktualisiert: 2026-04-20
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Merz' Rentenlüge und globale Ungleichheit"
+description: "Wer für die Rente spart, braucht jemanden, der sich verschuldet. Heiner Flassbeck zerlegt Merz' Kapitaldeckung und vermisst im Ungleichheits-Antrag der Linken ein Wort: IWF."
 aktualisiert: 2026-04-25
 date: 2026-04-23
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Follow This — Die grüne Horzel in Big Oil"
+description: "Acht Leute und ein Hund gegen Exxon: Follow This kauft Aktien von Ölkonzernen, um sie auf der Hauptversammlung zum Klimaschutz zu drängen – Sokrates’ Stechfliege, diesmal im Kapitalismus."
 aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:

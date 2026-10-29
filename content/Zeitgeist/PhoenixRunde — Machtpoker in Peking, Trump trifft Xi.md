@@ -1,5 +1,6 @@
 ---
 title: "PhoenixRunde — Machtpoker in Peking: Trump trifft Xi"
+description: "Trump fliegt zu Xi, nicht umgekehrt – und schon das ist die Botschaft. Die PhoenixRunde fragt, wer wen braucht, was Taiwan auf dem Tisch zu suchen hat und warum Europa nur zuschaut."
 aktualisiert: 2026-05-17
 date: 17.05.2026
 tags:

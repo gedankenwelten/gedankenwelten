@@ -1,5 +1,6 @@
 ---
 title: "Maja Göpel — Mut zur Zukunft"
+description: "Wir stehen in einer Kipppunktphase, und offen ist, wohin es kippt. Maja Göpel zeigt, was das BIP nicht sieht, und versteht Mut nicht als Zuversicht, sondern als Praxis gegen die Ohnmacht."
 aktualisiert: 2026-04-29
 date: 2026-04-28
 tags:

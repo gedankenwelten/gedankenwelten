@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Sartre in 60 Minuten"
+description: "Der Mensch ist nichts anderes als das, wozu er sich macht. Walther Ziegler über Sartre: zur Freiheit verurteilt, in Unaufrichtigkeit auf der Flucht, unter dem Blick der anderen."
 aktualisiert: 2026-04-12
 date: 12.04.2026
 tags:

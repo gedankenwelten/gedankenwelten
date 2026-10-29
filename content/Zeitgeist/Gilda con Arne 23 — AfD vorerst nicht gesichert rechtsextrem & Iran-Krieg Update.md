@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update"
+description: "Ein Eilbeschluss, kein Urteil: Das VG Köln stoppt vorerst die Einstufung der AfD als gesichert rechtsextrem. Gilda Sahebi und Arne Semsrott prüfen die Begründung, am vierten Tag des Iran-Kriegs."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

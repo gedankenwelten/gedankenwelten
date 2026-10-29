@@ -1,5 +1,6 @@
 ---
 title: "Barbara Tversky — Denken beginnt nicht im Kopf"
+description: "Wer auf seinen Händen sitzt, findet schwerer Worte. Für Barbara Tversky beginnt Denken im Raum und im Körper – selbst Gerechtigkeit hat bei ihr eine Richtung."
 aktualisiert: 2026-05-16
 date: 16.05.2026
 tags:
@@ -261,9 +262,9 @@ Moukheiber beschreibt das Gehirn als Rekonstruktionsmaschine mit A-priori-Annahm
 
 ### → [[Geistesblitz/Rebecca Boehme — So trickst du dein Gehirn aus]]
 
-Böhmes Milkshake-Studie ist ein direkter empirischer Beleg für Tverskys These: Erwartung und Sprache verändern nicht nur die Wahrnehmung, sondern den Körper selbst — Ghrelin-Ausschüttung folgt dem mentalen Modell, nicht dem physischen Reiz. Beide beschreiben denselben Zwei-Wege-Kanal zwischen Körper und Kognition, Böhme allerdings aus der Interventions-Perspektive.
+Die Milkshake-Studie, die Böhme erzählt (Crum et al. 2011), ist ein direkter empirischer Beleg für Tverskys These: Erwartung und Sprache verändern nicht nur die Wahrnehmung, sondern den Körper selbst — der Ghrelin-Spiegel folgt dem mentalen Modell, nicht dem physischen Reiz. Beide beschreiben denselben Zwei-Wege-Kanal zwischen Körper und Kognition, Böhme allerdings aus der Interventions-Perspektive.
 
-### → [[Denker/Vipassana — Anatta]]
+### → [[Vipassana/Vipassana — Anatta]]
 
 Tversky beschreibt den Körper als Anker des Bewusstseins — im Deprivationsexperiment verliert das Ich ohne Körpersignale seinen Halt. Goenka dreht diese These philosophisch um: Was wir für den Anker halten, ist selbst vergänglich — Anattā. Kein festes Ich, nur ein Geist-Materie-Phänomen in Bewegung. Tversky fragt empirisch, was Kognition braucht. Vipassana fragt praktisch, was passiert, wenn man diesen Anker loslässt.
 

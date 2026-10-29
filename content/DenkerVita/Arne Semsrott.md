@@ -77,7 +77,13 @@ Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz-Bei
 
 ## Verbindungen zu anderen Denkern
 
-%% Noch zu ergänzen — z.B. Gilda Sahebi, Heribert Prantl, Hannah Arendt (Transparenz & Macht), Edward Snowden (Whistleblowing) %%
+- [[DenkerVita/Nico Semsrott]] — Der Bruder führt dasselbe Experiment eine Ebene höher. Arne zwingt Behörden über das Informationsfreiheitsgesetz zur Auskunft, Nico legte als EU-Abgeordneter seine Budgets offen und reichte eine Mallorca-Reise ein, um zu zeigen, dass in Brüssel niemand prüft. Beide gehen davon aus, dass Institutionen sich anders verhalten, wenn jemand hinsieht.
+- [[DenkerVita/Gilda Sahebi]] — Mit ihr spricht er seit September 2025 in *Gilda con Arne*, und sie bringt den Einwand mit, an dem seine Methode sich messen lassen muss: Für Sahebi schlagen Erzählungen Fakten, autoritäre Systeme arbeiten über durchgesetzte Narrative. Ein veröffentlichtes Dokument wirkt dann nur, wenn jemand die Geschichte dazu erzählt.
+- [[DenkerVita/Constanze Kurz]] — Beide schrieben für netzpolitik.org. Semsrott will den Staat durchsichtig machen, Kurz den Bürger vor ihm schützen; zusammen ergibt das die Regel, dass Sichtbarkeit mit der Macht wachsen soll, die einer hat.
+- [[DenkerVita/Ronen Steinke]] — Steinke nennt es Klassenjustiz, dass Menschen in Haft sitzen, weil sie eine Geldstrafe fürs Schwarzfahren nicht zahlen können; Semsrotts Freiheitsfonds kauft genau diese Menschen frei. Und wo Steinke die Meinungsfreiheit eher von Polizei und Justiz bedroht sieht als von der Gesellschaft, liefert der §353d-Fall das Anschauungsstück.
+- [[DenkerVita/Robin Celikates]] — Mit dem §353d-Fall verstößt Semsrott öffentlich gegen ein Gesetz, nimmt die Verurteilung in Kauf und will die Norm in Karlsruhe prüfen lassen. Das liegt nah am liberalen Modell des zivilen Ungehorsams nach Rawls, gewaltfrei, öffentlich, die Strafe akzeptierend, und genau dieses Modell hält Celikates für zu eng: Für ihn ist Ungehorsam eine Praxis, mit der sich Ausgeschlossene Gehör verschaffen, nicht vor allem ein Appell an den Gerechtigkeitssinn der Mehrheit.
+- [[DenkerVita/Marco Buelow]] — Bülow legte seine Lobbytermine offen, bevor es Pflicht war, und beschreibt eine Korruption, die ohne Geld auskommt: Zugang, Aufstieg, Gefallen. Semsrott, im Vorstand von LobbyControl, arbeitet an den Werkzeugen, mit denen man solche Nähe von außen sieht; Bülow hat denselben Maßstab von innen an sich selbst angelegt.
+- [[DenkerVita/Leonhard Dobusch]] — Die Gegenstimme aus der Organisationsforschung: An der Wikimedia hat Dobusch gezeigt, dass ganz offene Strategieprozesse Menschen ausschließen können und manche Entscheidungen Schutzräume brauchen. Zugleich teilt er den Ansatz von *Machtübernahme*, dass gegen Faschismus Vorbereitung in den Institutionen hilft, nicht Empörung; Dobusch denkt sie für die Sender, Semsrott für die Zivilgesellschaft.
 
 ## Gedankenwelten-Notes
 

@@ -48,7 +48,10 @@ LaGrande ist weniger Denkerin als Ermöglicherin von Debatten. Ihre "These" lieg
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Teresa Bücker]] — Beide gehörten 2016 zu denen, die #ausnahmslos anstießen, die Kampagne nach der Kölner Silvesternacht gegen sexualisierte Gewalt und gegen ihre rassistische Instrumentalisierung. Danach gingen sie verschiedene Wege: Bücker in die Theorie, mit Zeit als Machtfrage, LaGrande in Formate, Slam, Podcast und Moderation für Ministerien und Bundespräsidialamt.
+- [[DenkerVita/Gilda Sahebi]] — Sahebi beschreibt das „wir gegen die“ als Herrschaftsinstrument und Verbinden als politische Praxis. #ausnahmslos war ein solcher Versuch des Verbindens in Echtzeit: Feministinnen, die sexualisierte Gewalt benennen und zugleich verweigern, dass sie gegen Migranten gewendet wird.
+- [[DenkerVita/Ingrid Brodnig]] — Brodnig gibt Betroffenen von Hass im Netz einen Werkzeugkasten und hält Ohnmacht für eine Haltung, keine Notwendigkeit. LaGrandes Hashtag war ein solcher Gegenzug, ein Eingriff in die laufende Debatte statt eines Kommentars hinterher.
+- [[DenkerVita/Thomas Laschyk]] — Zwei Antworten auf die Frage, was eine öffentliche Stimme tun soll. Laschyk hält Neutralität für verzerrend und ist offen parteiisch für die Demokratie. LaGrande lebt beide Rollen nebeneinander: mit #ausnahmslos hat sie Partei ergriffen, als Moderatorin ermöglicht sie Debatten, statt Thesen zu setzen, wie zuletzt beim Streit um das Social-Media-Verbot.
 
 ## Gedankenwelten-Notes
 

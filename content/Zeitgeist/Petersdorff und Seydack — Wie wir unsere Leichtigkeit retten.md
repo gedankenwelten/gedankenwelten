@@ -1,5 +1,6 @@
 ---
 title: "Dirk von Petersdorff & Niclas Seydack — Wie wir unsere Leichtigkeit retten"
+description: "Luftsohlen, Salat, der Moonwalk: Dirk von Petersdorff erinnert an eine Leichtigkeit, die 2001 endete. Niclas Seydack, aus der ersten Generation ohne Aufstiegsversprechen, sucht sie trotzdem."
 aktualisiert: 2026-04-29
 date: 2026-04-29
 tags:

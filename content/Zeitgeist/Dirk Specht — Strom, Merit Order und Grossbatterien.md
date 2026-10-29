@@ -1,5 +1,6 @@
 ---
 title: "Dirk Specht — Strom, Merit Order und Großbatterien"
+description: "Erneuerbare konkurrieren nicht mit Kraftwerken, Kraftwerke konkurrieren mit Speichern. Dirk Specht über eine Strompreisbildung am Ende ihrer Zeit und den Batterie-Boom, den Deutschland übersieht."
 aktualisiert: 2026-05-10
 date: 18.01.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch"
+description: "Wer an ME/CFS erkrankt ist, protestiert im Liegen. Gilda Sahebi und Arne Semsrott über eine Gesellschaft, gebaut für eine einzige Körpernorm, ein Jahr Schwarz-Rot und Sea-Watch unter Beschuss."
 aktualisiert: 2026-05-15
 date: 13.05.2026
 tags:

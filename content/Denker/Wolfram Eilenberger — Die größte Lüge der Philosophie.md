@@ -1,5 +1,6 @@
 ---
 title: "Wolfram Eilenberger — Die größte Lüge der Philosophie"
+description: "Die gefährlichste Sehnsucht der Philosophie gilt dem einen wahren System. Wolfram Eilenberger setzt dagegen Pluralität, Diagnose der Gegenwart und das vergessene Erbe der Mystik."
 date: 2026-04-11
 aktualisiert: 2026-04-11
 tags:

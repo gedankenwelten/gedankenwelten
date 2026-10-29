@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — ICE-Anhörung im Kongress"
+description: "1.400 Prozent mehr Angriffe auf ICE, sagt die Regierung, rund 25 Prozent zeigen die Daten. Koschi fasst eine Kongressanhörung zusammen, in der „gezielte Operationen“ nach Racial Profiling aussehen."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -36,7 +37,7 @@ Quelle: [ICE Bosse werden GEGRILLT! Anhörung gerät völlig aus den Fugen!](htt
 [▶ 0:02](https://www.youtube.com/watch?v=RTU_TeCoT9M&t=2)
 
 
-Das **Department of Homeland Security (DHS)** unter Secretary **Christi Noem** umfasst:
+Das **Department of Homeland Security (DHS)** unter Secretary **Kristi Noem** umfasst:
 - **CBP** — Customs and Border Protection (Grenzkontrolle)
 - **ICE** — Immigration and Customs Enforcement
 - **USCIS** — Visa und Greencard-Anträge

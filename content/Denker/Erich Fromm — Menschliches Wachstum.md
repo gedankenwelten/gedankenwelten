@@ -1,5 +1,6 @@
 ---
 title: "Erich Fromm — Menschliches Wachstum"
+description: "Die Eltern kaufen Autos, die Kinder nehmen Drogen – beides ist passiver Konsum. Erich Fromm 1971 über den ewigen Säugling und einen Überfluss, der lebendiger macht, statt zu sättigen."
 aktualisiert: 2026-04-25
 date: 25.04.2026
 tags:

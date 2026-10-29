@@ -1,6 +1,7 @@
 ---
 date: 2026-03-29
 title: "Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)"
+description: "Drei Wochen ohne Handy, und beim Einschalten warten 1.977 Nachrichten. Staiy beginnt mit einem Schulexperiment und kommt über die No-Kings-Proteste zu Trumps Drohung an die NATO."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

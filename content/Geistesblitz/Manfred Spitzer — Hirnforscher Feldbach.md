@@ -1,5 +1,6 @@
 ---
 title: Manfred Spitzer — Hirnforscher Feldbach
+description: "Das Gehirn macht keine Downloads, es lernt – und wer hoch anfängt, braucht länger für den Abstieg. Manfred Spitzer über Synapsen, Demenz, Angst als Lernbremse und Kinder vor dem Bildschirm."
 date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:

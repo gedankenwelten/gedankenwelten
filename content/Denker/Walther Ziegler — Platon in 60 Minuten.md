@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Platon in 60 Minuten"
+description: "Die meisten leben unter Schatten und halten sie für die Welt. Walther Ziegler erklärt Platon: Höhle, Ideenlehre, Lernen als Erinnern und den Staat der Philosophenkönige."
 aktualisiert: 2026-04-12
 date: 29.03.2024
 tags:

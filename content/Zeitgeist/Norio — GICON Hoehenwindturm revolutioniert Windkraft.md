@@ -1,5 +1,6 @@
 ---
 title: "Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft"
+description: "Ein Windturm, der sich selbst zum Kran wird und in der Höhe Offshore-Werte erreicht, auch in Bayern. Norio erzählt von einer ostdeutschen Erfindung und dem Tal, in dem Innovationen sterben."
 aktualisiert: 2026-05-16
 date: 15.05.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende"
+description: "Eine Person, eine Stimme, egal wie viel sie einzahlt. Laura Zöckler zeigt, wie Genossenschaften die Energiewende in Bürgerhand halten – und wo sie an Grenzen stoßen."
 aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:

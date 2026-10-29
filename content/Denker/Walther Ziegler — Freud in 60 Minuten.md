@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Freud in 60 Minuten"
+description: "Das Ich ist nicht Herr im eigenen Haus. Walther Ziegler erklärt Freud: das Unbewusste, Es, Ich und Über-Ich – und eine Therapie, die zum ersten Mal einfach zuhört."
 aktualisiert: 2026-05-09
 date: 02.10.2025
 tags:

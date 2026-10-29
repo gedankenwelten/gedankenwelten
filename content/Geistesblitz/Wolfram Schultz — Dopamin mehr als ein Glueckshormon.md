@@ -1,5 +1,6 @@
 ---
 title: "Wolfram Schultz — Dopamin: Mehr als ein Glückshormon"
+description: "Dopamin meldet nicht das Glück, sondern die Überraschung: Es feuert, wenn etwas besser kommt als erwartet. Wolfram Schultz erklärt, warum Dopamin-Fasten ein Missverständnis ist."
 aktualisiert: 2026-05-19
 forschung_aktualisiert: 2026-06-21
 date: 15.05.2026

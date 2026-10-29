@@ -1,6 +1,7 @@
 ---
 date: 2026-04-01
 title: "Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder"
+description: "Nach den Wahlschlappen sucht die SPD ihr Heil bei Schröder. Gilda Sahebi und Arne Semsrott über diese Sehnsucht, eine Honorarkürzung für Psychotherapie und eine Bundestagsrede von Merz."
 aktualisiert: 2026-04-11
 tags:
   - zeitgeist

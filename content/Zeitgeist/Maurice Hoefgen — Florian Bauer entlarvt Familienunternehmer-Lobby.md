@@ -1,5 +1,6 @@
 ---
 title: "Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby"
+description: "Ein freiwilliger Krisenbonus, den die Präsidentin der Familienunternehmer „Nonsens“ nennt. Maurice Höfgen zerlegt das Interview – ein Lehrstück darüber, wie Lobbyrhetorik funktioniert."
 aktualisiert: 2026-05-19
 date: 17.05.2026
 tags:

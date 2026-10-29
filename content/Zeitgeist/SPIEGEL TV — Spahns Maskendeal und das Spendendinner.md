@@ -1,5 +1,6 @@
 ---
 title: "Spahns Maskendeal und das Spendendinner"
+description: "Eine Woche alt, 400 Euro Kapital, Auftrag über 333 Millionen Masken – später ein Spenderdinner mit Spahn. SPIEGEL TV folgt dem Netzwerk; ein Beleg für Kausalität fehlt."
 aktualisiert: 2026-05-15
 date: 10.09.2025
 tags:
@@ -39,7 +40,7 @@ Würzburg, Ende der politischen Sommerpause. Jens Spahn trifft auf Mitglieder ei
 
 ---
 
-## Das Spendendinner: 9.900 Euro pro Person
+## Das Spendendinner: 9.999 Euro pro Person
 
 [▶ 1:32](https://www.youtube.com/watch?v=SgTmJFlZyqw&t=92)
 
@@ -54,7 +55,7 @@ Zimmermanns Gästeliste: rund ein Dutzend finanzstarke Persönlichkeiten der Sta
 Die Summe 9.999 Euro ist kein Zufall. Wer 10.000 Euro oder mehr an eine Partei spendet, muss im Rechenschaftsbericht namentlich erscheinen. Wer auch nur einen Euro darunter bleibt, bleibt anonym. Die Donoren des Abends haben das offenkundig gewusst.
 
 > [!question] Weitergedacht
-> Ist es strafbar, wenn zehn Leute koordiniert je 9.900 Euro spenden, um die Offenlegungspflicht zu umgehen? Das deutsche Parteiengesetz hat hier strukturelle Lücken — die hier sichtbar genutzt werden.
+> Ist es strafbar, wenn zehn Leute koordiniert je 9.999 Euro spenden, um die Offenlegungspflicht zu umgehen? Das deutsche Parteiengesetz hat hier strukturelle Lücken — die hier sichtbar genutzt werden.
 
 ---
 

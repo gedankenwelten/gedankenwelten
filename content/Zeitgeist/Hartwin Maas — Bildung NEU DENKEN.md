@@ -1,5 +1,6 @@
 ---
 title: "Hartwin Maas — Bildung NEU DENKEN"
+description: "Junge Menschen sind digital intuitiv, kompetent sind sie damit noch nicht. Hartwin Maas fragt mit Maja Göpel, wie Schule kritisches Denken stärkt, wenn KI die Hausaufgaben macht."
 aktualisiert: 2026-04-11
 date: 2026-04-11
 tags:

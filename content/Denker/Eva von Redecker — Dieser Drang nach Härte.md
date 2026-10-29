@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Eva von Redecker — Dieser Drang nach Härte"
+description: "Man spürt etwas an einer Stelle, wo nichts mehr ist. Für Eva von Redecker ist Faschismus die Verteidigung eines Phantombesitzes – und sie nennt vier Wege, ihm den Boden zu entziehen."
 aktualisiert: 2026-04-05
 tags:
   - denker

@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart"
+description: "Ein grausames Regime und ein völkerrechtswidriger Angriff – beides ist wahr, keins hebt das andere auf. Cyrus Schayegh und Kamran Safiarian ordnen den Iran-Krieg in eine lange Spirale ein."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

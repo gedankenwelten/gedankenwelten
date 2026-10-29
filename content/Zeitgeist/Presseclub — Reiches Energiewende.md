@@ -1,5 +1,6 @@
 ---
 title: "Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?"
+description: "Solarförderung kappen, Gaskraftwerke bauen, das Netz bestimmt das Tempo: Der Presseclub streitet, ob Katharina Reiches Energiepolitik eine Rolle rückwärts ist oder ökonomisch vernünftig."
 aktualisiert: 2026-04-27
 date: 2026-04-27
 tags:

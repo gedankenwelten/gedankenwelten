@@ -1,5 +1,6 @@
 ---
 title: "Gesine Schwan — Macht NEU DENKEN"
+description: "Macht kann sich gegen andere durchsetzen oder mit ihnen gestalten. Gesine Schwan setzt gegen die Narzissten an der Spitze auf eine demokratische Kultur, die man im eigenen Ort erleben kann."
 aktualisiert: 2026-04-21
 date: 2026-01-26
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Schopenhauer in 60 Minuten"
+description: "Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens."
 aktualisiert: 2026-04-26
 date: 05.02.2020
 tags:

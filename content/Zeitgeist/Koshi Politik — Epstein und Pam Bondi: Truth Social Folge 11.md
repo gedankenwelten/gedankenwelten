@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Epstein und Pam Bondi: Truth Social Folge 11"
+description: "Pam Bondi verteidigt vor dem Justizausschuss den Umgang mit den Epstein-Akten, Trump feiert sie auf Truth Social. Koschi liest den Post auf Deutsch, eine Satire macht Bondi zur Kellnerin."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

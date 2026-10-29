@@ -27,7 +27,7 @@ tags: [denker-vita, medien, deutschland, jugend]
 
 ## Biografie
 
-Sanya Lehmann ist Mitglied des MABB Jugendrats (Medienanstalt Berlin-Brandenburg) seit seiner Gründung 2023 — dem ersten Jugendrat einer Landesmedienanstalt in Deutschland. Sie war Teil der Expertenkommission des Bundesbildungsministeriums zum Thema Kinder- und Jugendschutz in der digitalen Welt. Am 18./19. Mai 2026 sprach sie beim Tinkon-Event zur australischen Verbotsgesetzgebung; am 19. Mai 2026 war sie Gast beim re:publica 26-Panel zur Social-Media-Verbots-Frage.
+Sanya Lehmann ist Mitglied des MABB Jugendrats (Medienanstalt Berlin-Brandenburg) seit seiner Gründung 2023 — dem ersten Jugendrat einer Landesmedienanstalt in Deutschland. Sie war Teil der Expertenkommission des Bundesbildungsministeriums zum Thema Kinder- und Jugendschutz in der digitalen Welt. Am 18./19. Mai 2026 sprach sie beim TINCON-Event zur australischen Verbotsgesetzgebung; am 19. Mai 2026 war sie Gast beim re:publica 26-Panel zur Social-Media-Verbots-Frage.
 
 ## Kernthesen
 
@@ -39,7 +39,12 @@ Sanya Lehmann ist Mitglied des MABB Jugendrats (Medienanstalt Berlin-Brandenburg
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Kerstin Paschke]] — Die Gegenstimme auf demselben Podium. Paschke behandelt Jugendliche mit suchtartiger Nutzung und will Kinder vorübergehend aus den Plattformen nehmen, bis die Regulierung aufholt; Lehmann hält dagegen, dass in Australien trotz Gesetz 70 Prozent weiter dabei sind. Einig sind sie beim Ziel, die Suchtmechanik abzubauen, und Paschke nennt Social Media mit führenden Expertinnen selbst einen Katalysator der Krise, nicht ihre Ursache.
+- [[DenkerVita/Kristian Kunow]] — Der Vizedirektor der Medienanstalt, deren Jugendrat sie angehört, lehnt das Verbot aus der Sicht des Regulierers ab. Ihre Forderung, erst die bestehenden Regeln durchzusetzen, ist zugleich ein Auftrag an seine Behörde.
+- [[DenkerVita/Henrike von Scheliha]] — Scheliha gibt Lehmanns „nicht über uns, sondern mit uns“ eine rechtliche Form: Kinder sind Rechtsträgerinnen, Schutz und Beteiligung keine Gegensätze, und Großzügigkeit ist keine rechtliche Kategorie. Dass der Jugendrat in die Expertenkommission eingeladen wurde, nennt Lehmann gut; Scheliha würde fragen, ob die Politik begründen muss, wenn sie seinen Rat übergeht.
+- [[DenkerVita/Aladin El-Mafaalani]] — El-Mafaalani beschreibt Kinder als die kleinste und am stärksten übersehene Gruppe einer alternden Demokratie, und Lehmann ist die Stimme, die er fehlen sieht. Zugleich zeigt er die Kehrseite der Vernetzung, die sie an Social Media schätzt: Dieselben Netze verbinden vereinzelte Misstrauende zu Gemeinschaften.
+- [[DenkerVita/Jonathan Haidt]] — Die stärkste Gegenstimme. Haidt hält den Umbau zur Smartphone-Kindheit für die Hauptursache der Angst- und Depressionswelle unter Jugendlichen, und sein Buch treibt die Debatten über Altersgrenzen voran. Lehmann besteht auf dem Wert von Social Media für Information, Identität und Teilhabe. Den Streit um die Kausalität hält auch Haidts Vita für nicht entschieden.
+- [[DenkerVita/Wolfram Schultz]] — Schultz fand, dass eine unerwartete Belohnung stärker auf das Dopaminsystem wirkt als eine fest erwartete. Darauf setzt, wie Paschke auf demselben Podium erklärt, das Scrollen, bei dem vielleicht erst das einundzwanzigste Video das richtige ist. Das ist die Suchtmechanik, die Lehmann abbauen will, statt den Zugang zu sperren.
 
 ## Gedankenwelten-Notes
 

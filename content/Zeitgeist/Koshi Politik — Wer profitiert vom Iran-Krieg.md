@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Wer profitiert vom Iran-Krieg?"
+description: "Cui bono? Koschi folgt beim Iran-Krieg dem Geld: ein Flugzeug aus Katar, Krypto-Milliarden aus den Emiraten, saudische Milliarden für Kushner – und das Versprechen vom Friedenskandidaten."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

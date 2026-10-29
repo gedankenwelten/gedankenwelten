@@ -1,5 +1,6 @@
 ---
 title: "Fichtner — Zehn Batteriemythen, die uns Milliarden kosten"
+description: "Für welches Auto haben wir denn die Rohstoffe? Maximilian Fichtner nimmt zehn Batteriemythen auseinander, die bis in die Politik dringen und uns aus seiner Sicht Milliarden kosten."
 aktualisiert: 2026-05-23
 date: 23.05.2026
 tags:

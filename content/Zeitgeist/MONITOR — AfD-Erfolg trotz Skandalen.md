@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — AfD-Erfolg trotz Skandalen"
+description: "Skandale, die jede andere Partei Stimmen kosten, prallen an der AfD ab. MONITOR fragt, warum Menschen gegen ihr Interesse wählen und wie Wiederholung das Unsagbare normalisiert."
 aktualisiert: 2026-04-11
 date: 2026-03-26
 tags:

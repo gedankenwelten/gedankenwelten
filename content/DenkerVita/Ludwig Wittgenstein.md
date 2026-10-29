@@ -85,7 +85,7 @@ Wittgenstein stirbt am 29. April 1951 in Cambridge an Prostatakrebs. Seine letzt
 
 4. **Spätwerk: Bedeutung ist Gebrauch** — „Die Bedeutung eines Wortes ist sein Gebrauch in der Sprache." Sprache ist keine neutrale Abbildung der Wirklichkeit, sondern eine soziale Praxis — eingebettet in Lebensformen.
 
-5. **Sprachspiele als Machtinstrumente** — Was Menschen als richtig und falsch ansehen, bestimmt sich durch das Sprachspiel, in dem sie sich bewegen. Diktatoren haben das immer gewusst: Wer die Sprache kontrolliert, kontrolliert das Denken.
+5. **Sprachspiele als Machtinstrumente** *(eine Weiterführung, nicht Wittgensteins eigene These)* — Was Menschen als richtig und falsch ansehen, bestimmt sich durch das Sprachspiel, in dem sie sich bewegen. Walther Ziegler zieht daraus den Schluss, den Wittgenstein nie ausformuliert hat: Wer die Sprache kontrolliert, kontrolliert das Denken.
 
 ---
 
@@ -99,7 +99,14 @@ Die politische Wirkung kam nach ihm: Die Kritische Theorie (Adorno, Marcuse, Hab
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Michael Hampe|Michael Hampe]] — führt Wittgensteins Therapie der Sprachverhexung als nicht-doktrinäre Philosophie fort und wendet sie auf Willen, Bewusstsein und KI an.
+- [[DenkerVita/Michael Hampe|Michael Hampe]] — führt Wittgensteins Therapie der Sprachverhexung als nicht-doktrinäre Philosophie fort und wendet sie auf Willen, Bewusstsein und KI an. Sein Buch *Wozu?* eröffnet er mit Wittgensteins Tagebuchsatz von 1916.
+- [[DenkerVita/Ernst Tugendhat]] — Tugendhat nahm die Sprachanalyse als Werkzeug, um die alten Fragen nach Sein und Selbst neu zu stellen, und ging am Ende denselben Weg vom Logiker zur Mystik: „Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist.“ Mystik heißt bei ihm, aus der Mitte zurückzutreten, in die uns das Wort „ich“ stellt.
+- [[DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]] — Lyotard übernimmt die Sprachspiele und macht daraus eine Gesellschaftsdiagnose: Es gibt keine Metasprache, die zwischen ihnen schlichtet, und darum Streit ohne gerechten Richter. Das Spätwerk legt diesen Schluss nahe; Wittgenstein, der die Philosophie nur beschreiben lassen wollte, hat ihn selbst nie gezogen.
+- [[DenkerVita/Juergen Habermas|Jürgen Habermas]] — Die stärkste Gegenstimme unter den Erben der Sprachwende. Für beide ist Sprache das Fundament der menschlichen Welt; Habermas liest in ihr aber ein Ziel, die Verständigung, und gründet darauf eine Moral. Für Wittgenstein wäre ein Telos der Sprache genau die Art Satz, die man nicht sinnvoll sagen kann.
+- [[DenkerVita/Barbara Tversky]] — Tversky nennt Wittgenstein als Einfluss: Bedeutung liegt im Gebrauch, nicht in privaten Gegenständen im Kopf. Gegen die Lesart, es gebe kein Denken jenseits der Sprache, steht dann ihr eigener Befund: Denken ist zuerst räumlich, und die Sprache legt sich als spätere Schicht über das, was Körper und Bewegung schon wissen.
+- [[DenkerVita/Dominik Finkelde]] — Finkelde promovierte über Wittgenstein und Lacan und arbeitet dort, wo die Sprachspiele auf die Signifikantenketten der Psychoanalyse treffen. Das Subjekt entsteht bei ihm als Überschuss innerhalb der symbolischen Ordnung, an der Stelle, an der keine Regel mehr sagt, wie es weitergeht.
+- [[DenkerVita/Souleymane Bachir Diagne]] — Diagnes Maxime, in Gegenwart der Vielheit der Sprachen zu denken, steht auf Wittgensteins Spätwerk: Wenn Bedeutung Gebrauch ist, öffnet jede Sprache eine eigene Welt, und ein Argument muss die Prüfung durch das Fremde bestehen. Diagne zieht daraus die dekoloniale Folgerung, die bei Wittgenstein fehlt.
+- [[Denker/Walther Ziegler — Popper in 60 Minuten|Karl Popper]] (Note, keine DenkerVita) — Der Schürhakenstreit im Moral Sciences Club in Cambridge 1946: Popper glaubte an echte philosophische Probleme, Wittgenstein an falsch gestellte Fragen. Nach Poppers Erinnerung verlangte Wittgenstein ein Beispiel für eine moralische Regel und bekam zur Antwort, man solle Gastdozenten nicht mit dem Schürhaken bedrohen; andere Zeugen erinnern den Abend anders.
 
 ---
 

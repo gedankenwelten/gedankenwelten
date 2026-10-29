@@ -1,5 +1,6 @@
 ---
 title: "Steffen Mau — Triggerpunkte: Konsens und Konflikt"
+description: "Wo kippt ein Sachstreit in Empörung? Steffen Mau und Heinz Bude über Triggerpunkte, einen ungeschriebenen Gesellschaftsvertrag und eine Polarisierung, die eher von oben kommt als von unten."
 aktualisiert: 2026-04-28
 date: 07.11.2023
 tags:

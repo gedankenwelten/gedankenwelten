@@ -1,5 +1,6 @@
 ---
 title: "Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN"
+description: "Zuhören mit zwei Ohren, dem eigenen und dem des anderen. Bernhard Pörksen und Maja Göpel suchen nach Wegen, Debatten abzukühlen, und nennen Anstand eine demokratische Grundtugend."
 aktualisiert: 2026-04-26
 date: 2026-04-25
 tags:

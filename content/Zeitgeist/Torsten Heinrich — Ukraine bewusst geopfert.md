@@ -1,5 +1,6 @@
 ---
 title: "Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?"
+description: "Dass ein langer Krieg Europa nützt, heißt nicht, dass er so geplant war. Torsten Heinrich trennt Nutzen von Absicht und beschreibt eine Ukraine mit zu viel zum Sterben, zu wenig zum Siegen."
 aktualisiert: 2026-07-27
 date: 06.05.2026
 tags:

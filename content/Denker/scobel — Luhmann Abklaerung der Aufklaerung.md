@@ -1,5 +1,6 @@
 ---
 title: "scobel — Luhmann: Abklärung der Aufklärung"
+description: "Wer alles entlarvt, versteht am Ende nichts mehr. Gert Scobel liest Luhmann: Aufklärung heißt Komplexität erfassen und reduzieren – und Social Media ist eine Dauerentlarvungsmaschine."
 aktualisiert: 2026-04-23
 date: 23.04.2026
 tags:

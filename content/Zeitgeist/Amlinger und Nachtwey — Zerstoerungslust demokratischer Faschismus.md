@@ -1,5 +1,6 @@
 ---
 title: "Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus"
+description: "Mehr als jeder siebte Amerikaner stimmt dem Satz zu, die Gesellschaft gehöre niedergebrannt. Amlinger und Nachtwey fragen, woher diese Lust kommt, und finden das Gefühl, blockiert zu sein."
 aktualisiert: 2026-07-13
 date: 18.05.2026
 tags:
@@ -203,7 +204,7 @@ Wenn man das Kernmerkmal des Faschismus auf einen Satz bringen müsste: Es ist f
 ## Faktencheck
 
 > [!success] Bestätigt — Need for Chaos: ~15% der Amerikaner
-> Der Wert basiert auf der Studie von Michael Bang Petersen et al. (2019): *"An evolutionary perspective on why people embrace quality, not quantity, of social relationships"* — tatsächlich stimmt eine signifikante Minderheit amerikanischer Befragter destruktiven Aussagen zu. Die 15%-Marke taucht in mehreren Veröffentlichungen zum *Need for Chaos* auf. Quelle: [Petersen et al. 2019, American Journal of Political Science](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12436)
+> Die Forschung dazu stammt von Michael Bang Petersen, Mathias Osmundsen und Kevin Arceneaux: *„The ‚Need for Chaos‘ and Motivations to Share Hostile Political Rumors“* (Preprint 2018, *American Political Science Review* 2023) — tatsächlich stimmt eine signifikante Minderheit amerikanischer Befragter destruktiven Aussagen zu. Die 15%-Marke taucht in mehreren Veröffentlichungen zum *Need for Chaos* auf. Quelle: [Petersen, Osmundsen & Arceneaux 2023, APSR](https://doi.org/10.1017/s0003055422001447)
 
 > [!success] Bestätigt — Adorno-Zitat zu Destruktivität und Faschismus
 > Das Zitat über den Unterschied zwischen klassischem Autoritären und Destruktivem stammt aus Adornos Auseinandersetzung mit dem autoritären Charakter und seinen Schriften zum Faschismus. Die Charakterisierung des Faschismus als "Rebellion gegen die Zivilisation" findet sich in *Elemente des Antisemitismus* (Horkheimer/Adorno, *Dialektik der Aufklärung*) sowie in Adornos Schrift zu faschistischer Propaganda. Quelle: [Theodor W. Adorno: Studien zum autoritären Charakter (Suhrkamp)](https://www.genialokal.de/Suche/?q=Adorno+Studien+autoritaeren+Charakter)
@@ -238,7 +239,7 @@ Wenn man das Kernmerkmal des Faschismus auf einen Satz bringen müsste: Es ist f
 - Erich Fromm: [*Anatomie der menschlichen Destruktivität*](https://www.genialokal.de/Suche/?q=Fromm+Anatomie+Destruktivitaet) (1973)
 - Klaus Theweleit: [*Männerfantasien*](https://www.genialokal.de/Suche/?q=Theweleit+Maennerfantasien) (1977/1978)
 - Oliver Nachtwey: [*Die Abstiegsgesellschaft*](https://www.genialokal.de/Suche/?q=Nachtwey+Abstiegsgesellschaft) (2016)
-- Michael Bang Petersen et al.: [*Need for Chaos*-Forschung (AJPS 2019)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12436)
+- Michael Bang Petersen et al.: [*Need for Chaos*-Forschung (APSR 2023)](https://doi.org/10.1017/s0003055422001447)
 - Kevin Roberts: *Dawn's Early Light: Taking Back Washington to Save America* (2024) — Programmdokument Project 2025
 
 ---

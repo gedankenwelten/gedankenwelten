@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Adorno in 60 Minuten"
+description: "Es gibt kein richtiges Leben im Falschen – und doch steckt die Utopie in der Kritik. Walther Ziegler erklärt Adorno: wie Aufklärung in Herrschaft umschlägt und Kulturindustrie das Glück betrügt."
 aktualisiert: 2026-04-26
 date: 22.12.2021
 tags:

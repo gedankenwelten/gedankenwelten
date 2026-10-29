@@ -1,6 +1,7 @@
 ---
 date: 2026-03-28
 title: "Nicholas Potter — Die neue autoritäre Linke (taz Talk)"
+description: "Ein Fahndungsplakat mit seinem Gesicht und roten Dreiecken vor der eigenen Haustür. Nicholas Potter beschreibt eine kleine, vernetzte, autoritäre Linke, die der 7. Oktober radikalisiert hat."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02
 title: Andreas Kemper — Technofaschismus und die AfD
+description: "Für Andreas Kemper begann die AfD als Unternehmernetzwerk gegen den Sozialstaat. Er zieht die Linie von Sarrazin über Höckes Pseudonym bis zu Techmilliardären, die den Minimalstaat wollen."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

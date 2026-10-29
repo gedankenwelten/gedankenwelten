@@ -1,5 +1,6 @@
 ---
 title: "Energiewende mit Tücken — Wenn der Versorger die eigene Solaranlage abschaltet"
+description: "Die Bauordnung schreibt ihm die Solaranlage vor, der Netzbetreiber schaltet sie ab. BR24 Kontrovers zeigt an einem fränkischen Metallbetrieb, wo die Energiewende am Netz hängen bleibt."
 aktualisiert: 2026-05-17
 date: 17.05.2025
 tags:

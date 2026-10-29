@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump"
+description: "Wenige Tage nach der Behauptung totaler Lufthoheit verlieren die USA drei Flugzeuge über Iran in 24 Stunden. Koschi über einen Krieg, den die Regierung nie ernst genommen hat."
 aktualisiert: 2026-04-13
 date: 2026-04-13
 tags:

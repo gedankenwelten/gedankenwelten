@@ -1,5 +1,6 @@
 ---
 title: "erneuerbare tv — Sommerwärme im Erdreich"
+description: "Sommerwärme im Boden einlagern und im Winter zurückholen: Ein Unternehmen in Kupferzell macht das ganze Gebäude zur Wärmebatterie, gesteuert vom Wetterbericht."
 aktualisiert: 2026-05-14
 date: 09.04.2026
 tags:

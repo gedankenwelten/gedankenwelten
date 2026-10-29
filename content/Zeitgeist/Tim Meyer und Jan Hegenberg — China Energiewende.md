@@ -1,5 +1,6 @@
 ---
 title: "Tim Meyer und Jan Hegenberg — In China lachen sie über unsere Energiewende"
+description: "In Shanghai ist eine Hauptstraße leise, weil fast alle elektrisch fahren. Tim Meyer und Jan Hegenberg erleben eine Energiewende, die dort Industriepolitik ist und kein Lagerthema."
 aktualisiert: 2026-05-11
 date: 11.05.2026
 tags:

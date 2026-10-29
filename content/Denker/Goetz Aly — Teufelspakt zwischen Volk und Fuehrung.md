@@ -1,5 +1,6 @@
 ---
 title: "Götz Aly — Der Teufelspakt zwischen Volk und Führung"
+description: "Die Nazis kochten mit Wasser: Sozialpolitik, Aufstiegschancen, Beute. Götz Aly zeigt, wie das Regime das Volk durch Mitnutznießen in die Verbrechen zog – fünf Stunden bei Jung & Naiv."
 aktualisiert: 2026-07-19
 date: 25.09.2025
 tags:

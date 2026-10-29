@@ -1,5 +1,6 @@
 ---
 title: "Steinke und Marinić — Quo vadis Meinungsfreiheit?"
+description: "Ermittlungen wegen Äußerungen haben sich vervielfacht. Ronen Steinke und Jagoda Marinić fragen, wo die Meinungsfreiheit wirklich bedroht ist – und wie Autoritäre das Wort für sich kapern."
 aktualisiert: 2026-05-19
 date: 19.05.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Habermas in 60 Minuten"
+description: "In jedem Satz steckt schon das Versprechen, verstanden werden zu wollen. Walther Ziegler über Habermas: Diskurs ohne Herrschaft und eine Lebenswelt, die das System zu kolonisieren droht."
 aktualisiert: 2026-05-09
 date: 20.03.2026
 tags:

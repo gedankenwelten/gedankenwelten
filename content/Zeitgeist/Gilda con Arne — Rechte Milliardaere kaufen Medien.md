@@ -1,5 +1,6 @@
 ---
 title: "Gilda con Arne — Wie rechte Milliardäre weltweit Medien aufkaufen"
+description: "In Ungarn steht der Großteil der Medien unter Orbáns Kontrolle, in Frankreich baut Bolloré sein Fox News. Gilda Sahebi und Arne Semsrott zeigen, wie rechte Milliardäre weltweit Medien kaufen."
 aktualisiert: 2026-04-25
 date: 2026-04-22
 tags:

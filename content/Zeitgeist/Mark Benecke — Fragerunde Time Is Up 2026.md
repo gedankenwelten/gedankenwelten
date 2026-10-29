@@ -1,5 +1,6 @@
 ---
 title: "Mark Benecke — Fragerunde: Time Is Up 2026"
+description: "Wie viele Ernten bleiben? Mark Benecke, eine Biodiversitätsforscherin und eine Klimaaktivistin streiten, ob Konsum oder System der Hebel ist – und warum das Klima kaum noch jemanden bewegt."
 aktualisiert: 2026-07-26
 date: 11.05.2026
 tags:

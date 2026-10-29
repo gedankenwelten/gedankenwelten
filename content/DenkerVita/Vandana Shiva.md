@@ -81,7 +81,6 @@ Das Muster ist erkennbar: Ihre *strukturellen* Befunde — dass Konzern-Saatgut 
 
 ## Verbindungen zu anderen Denkern
 
-*(Wird von Montaigne befüllt.)*
 - **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Gegenpol bei Grüner Revolution und Genschere, Verbündeter bei den Kleinbauern.
 
 ## Gedankenwelten-Notes

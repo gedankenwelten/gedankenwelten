@@ -1,5 +1,6 @@
 ---
 title: "Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende"
+description: "Kohle, Öl und Gas kamen hinzu, Sonne und Wind ersetzen. Felix Goldbach über Batteriespeicher, die schneller wachsen als alles zuvor, und einen Behördenbericht, der sie um das Achtfache unterschätzte."
 aktualisiert: 2026-04-06
 date: 2026-04-06
 tags:

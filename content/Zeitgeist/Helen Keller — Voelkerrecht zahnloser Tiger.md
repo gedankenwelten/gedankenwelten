@@ -1,5 +1,6 @@
 ---
 title: "Helen Keller — Völkerrecht: Ein zahnloser Tiger?"
+description: "Wer den Tod des Völkerrechts ausruft, hilft denen, die es brechen. Für die Völkerrechtlerin Helen Keller gehört das Fehlen einer Weltpolizei zum Wesen dieser Ordnung, und sie wirkt trotzdem."
 aktualisiert: 2026-07-17
 date: 2026-04-19
 tags:

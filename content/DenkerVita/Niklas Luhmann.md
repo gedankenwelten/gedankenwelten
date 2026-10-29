@@ -85,7 +85,14 @@ Sein Gegner ist Jürgen Habermas — der größte Streit der deutschen Soziologi
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne befüllt diesen Abschnitt)*
+- [[DenkerVita/Juergen Habermas|Jürgen Habermas]] — Der Gegner, mit dem er 1971 ein ganzes Buch bestritt, *Theorie der Gesellschaft oder Sozialtechnologie*. Habermas sucht in der Sprache eine Vernunft, an der sich jede Kommunikation messen lassen muss; Luhmann hält auch diese Unterstellung für die Operation eines Systems mit eigenen blinden Flecken. Die stärkste Gegenstimme steht schon in Habermas' Titelwort: Wer Gesellschaft nur beobachtet, liefert der Verwaltung ihre Technik und hat keinen Ort mehr, von dem aus er sagen könnte, dass etwas falsch läuft.
+- [[DenkerVita/Theodor W. Adorno]] — Zwei deutsche Antworten auf das Scheitern der Aufklärung. Adorno urteilt: Das Ganze ist das Unwahre. Luhmann beobachtet: Rationalität ist immer die eines bestimmten Systems, und ein Ganzes, von dem aus man urteilen könnte, gibt es nicht.
+- [[DenkerVita/Immanuel Kant]] — Scobel liest Luhmanns Antrittsvorlesung von 1967 als Antwort auf Kants *Was ist Aufklärung?*, als „Abklärung“: Der Wahlspruch bleibt richtig, aber der eigene Verstand ist immer schon sozial geprägt, und eine Aufklärung, die handlungsfähig bleiben will, braucht das Vergessen und die Latenz ebenso wie das Wissen.
+- [[DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]] — Dieselbe Diagnose, kein universaler Schiedsrichter mehr, und zwei unvereinbare Schlüsse. In *Das postmoderne Wissen* liest Lyotard Luhmanns Systemtheorie als Legitimation durch Leistung, in der die Performanz der Verfahren an die Stelle der Normen tritt. Er setzt dagegen das Aushalten des Widerstreits, Luhmann die Abgeklärtheit.
+- [[DenkerVita/Hartmut Rosa]] — Beide sehen dasselbe Symptom, eine Moderne, die mehr Tempo und Information erzeugt, als einer verarbeiten kann. Rosa misst sie an einem Begriff des gelingenden Lebens und setzt die Resonanz dagegen; genau diesen Maßstab verweigert Luhmann und empfiehlt die produktive Reduktion. Von den zwei Antworten urteilt nur eine.
+- [[DenkerVita/Kolja Moeller|Kolja Möller]] — Möller spielt Luhmann nicht gegen die Kritische Theorie aus, er verbindet beide: Systemtheorie für die Analyse von Macht ohne naive Handlungstheorie, Kritische Theorie für die Frage nach Gerechtigkeit. Den Populismus liest er so als Strukturmerkmal ausdifferenzierter Demokratien statt als Krankheit.
+- [[DenkerVita/Dirk von Petersdorff]] — Petersdorff baut auf Luhmanns Kontingenzbegriff eine Lebenshaltung: Wenn alles auch anders sein könnte, wird Ironie zur Fähigkeit, die eigene Position ernst zu nehmen, ohne sie zu verabsolutieren. Was bei Luhmann Beschreibung bleibt, wird bei ihm eine Haltung der Leichtigkeit.
+- [[DenkerVita/Dietrich Bonhoeffer]] — Beide halten das Denken des Einzelnen für sozial bestimmt, Luhmann als Kontingenz der Systeme, Bonhoeffer als Dummheit, in die Menschen unter einer starken Machtentfaltung gebracht werden. Bonhoeffer zieht daraus eine Forderung: Gegen diese Dummheit hilft keine Belehrung, nur ein Akt der Befreiung. Luhmann verzichtet auf jede Forderung.
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Hans-Peter Dürr — Die neue Physik
+description: "Sechzig Jahre Physik, und gefunden hat er, was nicht existiert: Materie. Für Hans-Peter Dürr ist die Welt Beziehung, ihre Zukunft offen und alles Lebendige schöpferisch."
 date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:

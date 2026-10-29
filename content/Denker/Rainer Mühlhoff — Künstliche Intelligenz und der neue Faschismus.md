@@ -1,5 +1,6 @@
 ---
 title: "Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus"
+description: "Die KI-Blase finanziert für Rainer Mühlhoff mehr als Software: den Umbau des Staates zur Plattform. Er zeigt, wo sich Tech-Ideologien und die Struktur des Faschismus gleichen."
 date: 2026-04-05
 aktualisiert: 2026-07-16
 tags:

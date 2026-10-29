@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)"
+description: "Nicht Migration treibt die Menschen nach rechts, sagt Thomas Fricke, sondern das Gefühl, die Kontrolle über das eigene Leben zu verlieren – und Sparpolitik verstärkt es."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

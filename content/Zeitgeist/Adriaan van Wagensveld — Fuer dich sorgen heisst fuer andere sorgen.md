@@ -1,5 +1,6 @@
 ---
 title: "Adriaan van Wagensveld — Für dich sorgen heißt für andere sorgen"
+description: "Wer nie bei sich ankommt, kann aus Beziehungen nur ziehen. Für Adriaan van Wagensveld ist Selbstfürsorge die Bedingung, unter der man geben kann, ohne zu nehmen."
 aktualisiert: 2026-05-10
 date: 2024-07-29
 tags:

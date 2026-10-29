@@ -1,5 +1,6 @@
 ---
 title: Manfred Spitzer — KI, Gehirn und Lernen
+description: "Für Manfred Spitzer ist KI keine schlaue Rechenmaschine, sondern künstliche Intuition. Er warnt vor Bildschirmen in Kinderhänden und traut der KI trotzdem zu, die Menschheit zu retten."
 date: 2026-03-22
 aktualisiert: 2026-10-11
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Welche Freiheit wollen wir? — Möllers trifft Poschardt"
+description: "Wer hat den Freiheitsbegriff gekapert? Ulf Poschardt sieht ein Milieu, das in die Staatsnähe floh; Christoph Möllers hält dagegen, dass der Staat selbst aus Freiheit entsteht."
 aktualisiert: 2026-05-10
 date: 24.06.2025
 tags:

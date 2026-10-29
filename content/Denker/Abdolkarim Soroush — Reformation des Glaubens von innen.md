@@ -1,5 +1,6 @@
 ---
 title: "Abdolkarim Soroush — Reformation des Glaubens von innen"
+description: "Religion ist heilig, unser Verstehen von ihr ist es nicht. Abdolkarim Soroush erneuert den Islam von innen – und sagt: Demokratie lässt sich aus keiner Religion ableiten, aber mit ihr leben."
 date: 2026-05-16
 aktualisiert: 2026-05-16
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News: Reiche EXPOSED, Kerosinmangel und Haushaltskürzungen (16.04.2026)"
+description: "Eine Streichliste, die bei Kindern mit Behinderung spart, und eine Kraftwerksstrategie, an der die Gaslobby mitschrieb. Dazu die Warnung vor Kerosinmangel – Staiys Nachrichten vom 16. April."
 aktualisiert: 2026-04-25
 date: 2026-04-16
 tags:

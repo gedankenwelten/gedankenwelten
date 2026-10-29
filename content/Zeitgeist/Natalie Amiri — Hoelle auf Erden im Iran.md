@@ -1,5 +1,6 @@
 ---
 title: "Natalie Amiri — Hölle auf Erden im Iran"
+description: "Ein Land hinter dem Internet-Blackout, ein Gottesstaat auf dem Weg zur Militärdiktatur. Natalie Amiri, die nicht mehr einreisen kann, beschreibt den Iran im Krieg."
 aktualisiert: 2026-04-30
 date: 2026-04-17
 tags:

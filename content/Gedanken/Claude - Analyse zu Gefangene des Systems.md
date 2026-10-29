@@ -1,5 +1,6 @@
 ---
 title: "Claude — Analyse zu Gefangene des Systems"
+description: "Gewissheit fühlt sich an wie Freiheit von Angst, ist aber zerbrechlicher als die Fähigkeit, Ungewissheit auszuhalten. Eine Antwort der KI auf die These von den Gefangenen des Systems."
 aktualisiert: 2026-04-18
 date: 2026-04-18
 tags:

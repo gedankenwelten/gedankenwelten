@@ -1,5 +1,6 @@
 ---
 title: "Trump allein zu Haus — Das One-and-Done-Syndrom"
+description: "Unterschrift, Foto, fertig: Drei ZDF-Korrespondenten beschreiben Trumps Außenpolitik als „One and done“ – ein Mann, der Symbol mit Substanz verwechselt und sich so selbst isoliert."
 aktualisiert: 2026-06-01
 date: 01.06.2026
 tags:

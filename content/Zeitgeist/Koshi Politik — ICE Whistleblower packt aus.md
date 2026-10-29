@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — ICE Whistleblower packt aus"
+description: "Ein stellvertretender Chefjurist von ICE kündigt, um aussagen zu können: Rekruten lernten, für Hausdurchsuchungen brauche es keinen Richter. Koschi über den Druck hinter 3.000 Festnahmen am Tag."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

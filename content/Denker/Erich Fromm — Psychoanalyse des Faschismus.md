@@ -1,5 +1,6 @@
 ---
 title: Erich Fromm — Psychoanalyse des Faschismus
+description: "Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags:

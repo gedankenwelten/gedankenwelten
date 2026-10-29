@@ -1,5 +1,6 @@
 ---
 title: "Kojin Karatani — Tauschformen und die Überwindung der Triade"
+description: "Kapital, Nation und Staat halten einander wie drei verschlungene Ringe. Kojin Karatani denkt Geschichte über Formen des Tauschs statt der Produktion und sucht, was über die Triade hinausführt."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags:

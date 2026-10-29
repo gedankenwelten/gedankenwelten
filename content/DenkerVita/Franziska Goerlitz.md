@@ -77,10 +77,14 @@ Was Görlitz auszeichnet: Sie denkt nicht nur in Normen, sondern in *Wirkungen*.
 
 ## Verbindungen zu anderen Denkern
 
-*Dieser Abschnitt wird von Montaigne vervollständigt.*
-
-- **Constanze Kurz** (CCC) — Langfristige Koalition zur Palantir-Kritik; gemeinsame Prozessführung
-- **Chaos Computer Club** — Offizieller Beschwerdeführer bei Bayern-Klage; technische Sachverständige in Verfassungsverfahren
+- [[DenkerVita/Constanze Kurz]] — Ihre Partnerin auf der re:publica 26 und in der Palantir-Kritik: Kurz begründet technisch, warum Gotham eine Black Box ist, Görlitz juristisch, warum das Kontrolle und Korrektur unmöglich macht. Bei der bayerischen Verfassungsbeschwerde ist der Chaos Computer Club Beschwerdeführer. Im Hebel unterscheiden sie sich: Kurz will Grundrechte in die Bauweise der Systeme schreiben, Görlitz verlangt, dass der Gesetzgeber konkret vorgibt, wie Diskriminierung verhindert wird.
+- [[DenkerVita/Bijan Moini]] — Beide arbeiten bei der Gesellschaft für Freiheitsrechte, Moini als Leiter des Legal Teams. Sein Grundsatz, der Grundrechtsschutz müsse vor der Maßnahme ansetzen, weil der Staat schneller Daten sammelt, als Bürger sich wehren können, beschreibt, was Görlitz in Sachsen-Anhalt tut: Sie begleitet das Gesetzgebungsverfahren als Sachverständige, bevor die Software läuft.
+- [[DenkerVita/Peter Thiel]] — Der Gegenpol hinter der Software. Thiel, Mitgründer von Palantir, glaubt nicht mehr, dass Freiheit und Demokratie vereinbar sind, und sucht die Freiheit jenseits der Politik, in einem Wettlauf der Technik gegen sie. Görlitz verteidigt das Gegenteil mit den Mitteln der Politik: Grundrechte, Zweckbindung, ein Verfassungsgericht, das dem Gesetzgeber Grenzen zieht.
+- [[DenkerVita/Francesca Bria]] — Bria kartiert Palantir als Teil eines *Authoritarian Stack*, in dem staatliche Souveränität an wenige Investoren wandert, und nennt das *State Capture*. Der Vertrag ohne Ausstiegsklausel, den Kurz und Görlitz in Baden-Württemberg nachweisen, ist dieser Begriff als Vertragstext.
+- [[DenkerVita/Ronen Steinke]] — Zwei Instrumente, derselbe Mechanismus. Steinke beschreibt, wie die Beobachtung durch den Verfassungsschutz legales politisches Verhalten einschüchtert, Görlitz, wie Datenanalysesoftware Anwälte, Journalisten und Fanhilfen erfasst, die nur Kontakt zu Verdächtigen haben. Beide sehen die Demokratie beschädigt, bevor ein einziger Eingriff juristisch festgestellt ist.
+- [[DenkerVita/Michel Foucault]] — Wer der Sichtbarkeit unterworfen ist und es weiß, wird nach Foucault zum Prinzip seiner eigenen Unterwerfung. Görlitz fasst dasselbe als Rechtsfigur, den Chilling-Effekt, und macht ihn vor Gericht verhandelbar. Wo Foucault Macht ohne Zentrum beschreibt, die von unten kommt und keine Position außerhalb kennt, setzt Görlitz auf einen Ort, an dem sie sich verantworten muss: Karlsruhe.
+- [[DenkerVita/Arne Semsrott]] — Beide machen das Gericht zum Werkzeug der Zivilgesellschaft: Görlitz mit Verfassungsbeschwerden, die eine Grundsatzentscheidung für alle erzwingen sollen, Semsrott, indem er bewusst gegen ein Gesetz verstößt, um es prüfen zu lassen. Er klagt auf den Blick der Bürger in den Staat, sie gegen den Blick des Staates auf die Bürger.
+- [[DenkerVita/Nicole Buettner|Nicole Büttner]] — Die Gegenstimme in der Souveränitätsfrage. Büttner will Europas KI-Souveränität über Wettbewerb und Unternehmertum gewinnen und setzt auf Vertrauen statt Verbot. Kurz und Görlitz halten dagegen, dass ein souveräner Anbieter das Strukturproblem nicht löst: Wer die Datenanalyse liefert, kennt die innere Datenverarbeitung der Polizei besser als ihre Aufsicht, gleich wo er sitzt. Über Polizeisoftware sprechen Büttner und Kaufmann in ihrer Note nicht; der Gegensatz liegt im Ansatz.
 
 ---
 

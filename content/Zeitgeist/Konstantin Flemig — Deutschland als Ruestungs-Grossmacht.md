@@ -1,5 +1,6 @@
 ---
 title: "Konstantin Flemig — Deutschland als Rüstungs-Großmacht"
+description: "Deutschland kann laut Rheinmetall-Chef mehr Munition herstellen als die USA. Konstantin Flemig über den Aufstieg der Rüstung vom Schmuddelkind zur Jobmaschine und die Überkapazitäten danach."
 aktualisiert: 2026-05-09
 date: 2026-05-09
 tags:

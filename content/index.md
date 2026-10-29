@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **29.10.** — [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
+>
+> Ein Jahr Merz, gemessen an den eigenen Prognosen: Einer räumt seinen Irrtum ein, an Gaza zerbricht die Runde fast, und Ulrike Herrmann rechnet die Umverteilung nach oben vor.
+
 > **29.10.** — [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
 >
 > Eine Regierung abzuwählen ist leichter, als ein Regime abzubauen. Kurz vor der Ungarn-Wahl zeigt Ernst Gelegs, welche Schlösser Orbán in den Staat eingebaut hat.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Arbeitersohn, der den Glauben an die Institutionen verlor und beschloss, sie einzureißen. FRONTLINE zeigt Bannons Weg, der Guardian, wie weit sein Netz in Europa trug.
 
-> **28.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
->
-> Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
-
-> → *14 weitere in* [[Zeitgeist]]
+> → *15 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

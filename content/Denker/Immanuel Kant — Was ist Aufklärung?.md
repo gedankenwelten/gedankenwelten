@@ -1,5 +1,6 @@
 ---
 title: "Immanuel Kant — Was ist Aufklärung?"
+description: "Sapere aude heißt auch: Wage zu schmecken. Gert Scobel liest Kants Aufklärungsschrift neu – Vernunft ist kein Autopilot, sondern eine Arbeit, die keine Revolution einem abnimmt."
 date: 2026-04-11
 aktualisiert: 2026-04-11
 tags:

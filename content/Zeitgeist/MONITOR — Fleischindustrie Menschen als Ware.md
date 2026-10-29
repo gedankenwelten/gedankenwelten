@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — Wie die Fleischindustrie Menschen zur Ware macht"
+description: "„Drei bestellen, zwei bezahlen“ – ein Mengenrabatt auf Menschen. MONITOR zeigt, wie die Fleischindustrie Arbeiter aus Indien bis Vietnam über Schulden an sich bindet."
 aktualisiert: 2026-08-01
 date: 2026-04-20
 tags:

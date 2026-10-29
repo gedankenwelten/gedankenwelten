@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Trump DHS-Shutdown und ICE an Flughäfen"
+description: "Ein Shutdown nur für das Heimatschutzministerium, und Trump droht mit ICE-Agenten an den Flughäfen. Koschi zeigt, wie Einschüchterung zur Verhandlungstaktik wird."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

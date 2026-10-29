@@ -63,7 +63,13 @@ Reisereportage: *Der Bus* (VDRJ-Preis 2025)
 
 ## Verbindungen zu anderen Denkern
 
-*Pflege durch Montaigne*
+- [[DenkerVita/Christian Jakob]] — In derselben taz-Folge berichten beide aus zwei Ländern und finden dieselbe Bewegung. Klimchuk beschreibt in Georgia ein Vergessen, das sich ein halbes Jahr nach der ICE-Razzia über die Festgenommenen gelegt hat; Jakobs anonyme Quellen in den Ministerien eine stille Rückabwicklung von Klima- und Integrationspolitik. Bei beiden kommt der Rückschritt leise.
+- [[DenkerVita/Paul Lance]] — Lance sieht in der Apathie den eigentlichen Wegbereiter des Faschismus, heute wie in den 1930ern, und urteilt hart: Wer schweigt, ist mitverantwortlich. Klimchuk hat dieses Schweigen in Georgia aufgeschrieben und deutet es anders, als soziale Strategie, mit der Menschen Beziehungen schützen und keine Haltung einnehmen müssen. Er klagt an, sie erklärt.
+- [[DenkerVita/Arlie Russell Hochschild]] — Hochschild hat in Louisiana und in Kentucky so lange zugehört, bis sie die Tiefengeschichte von Tea-Party- und Trump-Wählern nacherzählen konnte. Klimchuk sucht dieselbe Nähe im Greyhound und an der Bar und stößt oft auf das Gegenteil einer Geschichte: auf Gespräche über Politik, die vermieden werden, damit Beziehungen halten.
+- [[DenkerVita/Tiana Travels]] — Die Amerikanerin in Paris erklärt aus der Distanz, was Klimchuk als Reisende antrifft: ein Schulsystem, das Konformität als Freundlichkeit einübt und Kritik als Undankbarkeit rahmt. Der Barkeeper in Savannah, der „immer einen Mittelweg“ finden will und nicht sagen kann, wie der bei einer Razzia aussähe, passt in dieses Muster.
+- [[DenkerVita/Harald Welzer]] — Für Welzer ist Erinnerung ein Gespräch, das sich nach den Bedürfnissen der Erzählenden richtet; in den Familienerzählungen werden aus Tätern Opfer oder heimliche Helden. Klimchuks Befund aus Savannah ist eine Gegenwartsform davon: Das kollektive Gedächtnis schließt sich schnell um Gewalt, die andere trifft, wenn das Stadtbild das Vergessen verlangt.
+- [[DenkerVita/Sergey Lagodinsky]] — Dieselbe Ankunft in Deutschland: Lagodinsky kam 1993 mit seiner russisch-jüdischen Familie als Kontingentflüchtling, zuerst in ein Flüchtlingsheim in Norderstedt, und schrieb später über die Identität jüdischer Zuwanderer aus der früheren Sowjetunion. Er ging in die Politik und denkt Russlands Krieg als Außenpolitiker; Klimchuk antwortete auf die Vollinvasion mit dem biografischen Essay *Nahes fernes Heimatland*.
+- [[DenkerVita/Evan Osnos]] — Osnos hat in *Wildland* Amerikas Wut beschrieben, vom 11. September bis zum 6. Januar 2021. Klimchuk trifft wenige Jahre später im Greyhound auf ein Land, das über Politik lieber schweigt. Ob das Schweigen die Form ist, in der Menschen mit der Wut der anderen weiterleben, bleibt zwischen beiden Büchern eine offene Frage.
 
 ## Gedankenwelten-Notes
 

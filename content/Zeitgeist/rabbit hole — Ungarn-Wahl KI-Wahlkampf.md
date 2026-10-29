@@ -1,5 +1,6 @@
 ---
 title: "rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?"
+description: "Ein offen gekennzeichnetes Fake-Telefonat, gepostet vom Regierungschef selbst: rabbit hole zeigt, wie Fidesz den Wahlkampf mit KI flutete – und dass es Orbán am Ende nicht rettete."
 aktualisiert: 2026-04-16
 date: 2026-04-14
 tags:

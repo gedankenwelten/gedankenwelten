@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Nachfragekrise und Schuldenlogik"
+description: "Für Heiner Flassbeck sind die meisten Krisen Nachfragekrisen. Er liest die Gemeinschaftsdiagnose gegen ihr eigenes Fazit: Ihre Zahlen zeigen, dass nur der Staat die Lücke füllen kann."
 aktualisiert: 2026-04-25
 date: 2026-04-02
 tags:

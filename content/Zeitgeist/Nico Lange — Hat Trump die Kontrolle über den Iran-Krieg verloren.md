@@ -1,6 +1,7 @@
 ---
 date: 2026-03-30
 title: "Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?"
+description: "Eine Flotte vor einer Meerenge voller Drohnen: Nico Lange fragt, ob Trump den Iran-Krieg noch steuert, warum es keinen einfachen Ausweg gibt und was die Ukraine dafür zahlen könnte."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

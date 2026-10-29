@@ -114,8 +114,6 @@ Marquardt positioniert sich nicht explizit politisch, aber seine Philosophie hat
 
 ## Verbindungen zu anderen Denkern
 
-*(Von Montaigne befüllt — wird asynchron aktualisiert)*
-
 ### Hartmut Rosa — Resonanz vs. Entfremdung
 
 [[DenkerVita/Hartmut Rosa]] (Stub) — Marquardt beschreibt phänomenologisch, was Rosa soziologisch analysiert. „Sich anrufen lassen" (Marquardt) entspricht *Resonanz* (Rosa) aus der subjektiven Perspektive. Beide diagnostizieren denselben Problem: Weltverlust durch Beschleunigung.

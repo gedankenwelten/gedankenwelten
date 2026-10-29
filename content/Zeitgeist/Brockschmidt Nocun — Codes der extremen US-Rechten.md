@@ -1,5 +1,6 @@
 ---
 title: "Annika Brockschmidt & Katharina Nocun — Codes der extremen US-Rechten"
+description: "Eine Hundepfeife klingt für die meisten harmlos und für Eingeweihte eindeutig. Annika Brockschmidt und Katharina Nocun entschlüsseln solche Codes in Posts des Weißen Hauses und der US-Ministerien."
 aktualisiert: 2026-05-20
 date: 19.05.2026
 tags:

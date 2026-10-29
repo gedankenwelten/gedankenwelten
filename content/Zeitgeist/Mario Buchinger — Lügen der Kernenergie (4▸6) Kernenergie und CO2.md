@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Mario Buchinger — Lügen der Kernenergie (4/6): Kernenergie ist CO₂-arm"
+description: "Ist Atomstrom CO₂-frei? Mario Buchinger liest die IPCC-Daten genauer, folgt dem Uran durch seinen Lebenszyklus und nennt den Atommüll eine zweite planetare Grenze."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Jonathan Haidt — Kann ein gespaltenes Amerika heilen?"
+description: "Wut vergeht, Abscheu bleibt. Jonathan Haidt erklärt Amerikas Spaltung aus Stammesnatur und negativer Parteilichkeit – und setzt seine Hoffnung auf die Begegnung mit einzelnen Menschen."
 date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:

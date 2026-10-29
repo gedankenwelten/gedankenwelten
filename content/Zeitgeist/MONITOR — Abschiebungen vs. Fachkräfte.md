@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — Abschiebungen vs. Fachkräfte"
+description: "Zehn Jahre Bäcker, dann abgeschoben, weil eine Sozialkunde-Prüfung fehlte. MONITOR zeigt, wie Deutschland Arbeitskräfte vertreibt, die es händeringend sucht."
 aktualisiert: 2026-04-14
 date: 2026-03-26
 tags:

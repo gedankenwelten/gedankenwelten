@@ -191,40 +191,14 @@ Aber: Das ist nicht ihr primary interest. Sie ist eine Empirikerin, nicht eine p
 
 ## Verbindungen zu anderen Denkern
 
-*(weitere Connections werden via Montaigne gepflegt)*
-
-### Zu George Lakoff
-
-**Konvergenz:** Beide zeigen, dass abstrakte Gedanken spatial/metaphorisch strukturiert sind.
-
-**Difference:** Lakoff fokussiert auf linguistic metaphors; Tversky zeigt dass spatial structure *vor/unabhängig von* Sprache existiert. Ihre empirical work strengthens Lakoff's theory durch concrete mechanisms.
-
-### Zu Ludwig Wittgenstein
-
-Tversky hat Wittgenstein als Einfluss genannt — insbesondere dessen Fokus auf **how we actually use language**, nicht auf formale Struktur. Sie schätzt seine Kritik an der Idee, dass Bedeutung in privaten mentalen Objekten liegt.
-
-**Connection:** Beide sehen Meaning als embedded in action/practice, nicht als abstrakt. Tversky's work macht das neurowissenschaftlich manifest.
-
-### Zu Maurice Merleau-Ponty
-
-Tversky's embodied cognition framework resonates deeply mit Merleau-Ponty's phenomenology:
-
-- Body schema (Merleau-Ponty) ← → kognitiven Repräsentationen des eigenen Körpers (Tversky)
-- Lived experience (Merleau-Ponty) ← → spatial action shaping thought (Tversky)
-
-Merleau-Ponty's philosophical insights finden empirical validation in Tversky's experiments.
-
-### Zu Antonio Damasio
-
-**Ähnlichkeit:** Beide betonen dass embodiment central to cognition ist.
-
-**Difference:** Damasio fokussiert auf emotional bodily states (somatic markers); Tversky zeigt dass *spatial/motoric* embodiment fundamental ist — nicht nur emotional. Sie complement sich eher als compete.
-
-### Zu Rebecca Böhme
-
-Böhme erforscht cognitive distortions und wie das Gehirn Realität rekonstruiert. Tversky's work auf spatial memory distortions gibt Böhme empirical foundation.
-
-**Connection:** Beide zeigen dass "error" in Cognition oft functional, nicht pathologisch ist.
+- [[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]] — Tversky nennt ihn einen Denker, der sie „tief beeinflusst“ habe, und zwar nicht den *Tractatus*, sondern den späten Wittgenstein: wie wir Wörter gebrauchen und wie formbar Bedeutungen sind ([Interview mit Max Raskin](https://www.maxraskin.com/interviews/barbara-tversky)). Gegen den frühen steht ihre Hauptthese. „Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt“ kehrt sie um: Das Denken ist zuerst räumlich, die Sprache kommt danach. George Lakoff, der abstrakte Begriffe aus sprachlichen Raum-Metaphern erklärt, steht zwischen beiden; Tversky verlegt die Raumstruktur vor die Sprache.
+- [[DenkerVita/David Chalmers|David Chalmers]] — Ihr achtes Gesetz, „wenn das Denken den Kopf überläuft, legt der Geist es in die Welt“, ist die empirische Schwester der *Extended Mind*-These, die Chalmers mit Andy Clark aufstellte: Notizbuch und Skizze gehören zum kognitiven System. Chalmers fragt, wo der Geist endet, Tversky, wie das Äußere das Innere zurückformt. Sein Hard Problem berührt sie nicht, sie arbeitet eine Ebene darunter.
+- [[DenkerVita/Rene Descartes|René Descartes]] — Der Gegenpol, von dem sich ihre Arbeit abstößt: zwei Substanzen, der Geist hier, die ausgedehnte Materie dort. Tversky legt die Kognition in den Körper und seine Bewegung. In dieser Linie stehen Merleau-Pontys gelebter Leib und Antonio Damasio, dessen *Descartes' Error* (1994) die Gefühle als Grundlage der Vernunft beschreibt; Tversky betont gegen Damasio das Räumlich-Motorische statt des Emotionalen, die beiden ergänzen sich eher, als dass sie konkurrieren.
+- [[DenkerVita/André Zimpel|André Zimpel]] — Was Tversky im Labor zeigt, sucht Zimpel im Klassenzimmer. Ein Förderschüler rechnet 60 durch 4 als sechs Männer mit zehn Fingern; für Zimpel ist Bild-Denken kein Defizit, und eine Schule, die nur Sprach-Denken misst, übersieht Begabung. Tverskys Befund, dass räumliches Denken trainierbar ist, gibt ihm das Fundament.
+- [[DenkerVita/Albert Moukheiber|Albert Moukheiber]] — Tversky zeigt, dass wir Karten im Gedächtnis systematisch verzerren: Kurven werden gerade, Straßen rücken an die Himmelsrichtungen. Sie liest das als Anpassung, nicht als Fehler. Moukheiber sagt dasselbe über kognitive Verzerrungen überhaupt: Die Abkürzungen, die uns in die Irre führen, machen uns handlungsfähig. Bei ihm bleibt das Gehirn allerdings ein Vorhersageorgan im Kopf, Tverskys Kognition reicht in Hände und Raum.
+- [[DenkerVita/Rebecca Boehme|Rebecca Böhme]] — Böhme erzählt einen Milchshake-Versuch, der Tverskys Zwei-Wege-Kanal greifbar macht: Wer denselben Shake als „reichhaltig“ angekündigt bekommt, fühlt sich satter, und das Hungerhormon Ghrelin folgt dem Etikett, nicht dem Inhalt. Erwartung formt den Körper, wie bei Tversky der Körper das Denken formt. Für beide ist ein „Fehler“ der Kognition oft eine Funktion.
+- [[DenkerVita/Paul Klee|Paul Klee]] — „Ein Punkt, der spazieren geht“: Klee beginnt das Bild mit einer Bewegung, die zur Linie wird. Tverskys Hauptwerk heißt *Mind in Motion*; bei ihr denken Gesten mit, und eine Skizze zeigt Probleme, die man vorher nicht sah. Der Bauhaus-Lehrer hat dieses Denken mit der Hand als Malerei betrieben, sie hat es im Experiment vermessen.
+- [[DenkerVita/Sibylle Anderl|Sibylle Anderl]] — „Schreiben ist Denken“: Anderl schreibt alle Texte selbst, weil sie dabei ihr Denken sortiert, und beobachtet: Wer mit KI schreibt, behält weniger davon. Das ist Tverskys Externalisierung von der Kehrseite gesehen. Notiz und Skizze formen das Innere zurück, solange man sie selbst macht; übernimmt eine Maschine das Äußere, fürchtet Anderl, bleibt diese Rückwirkung aus.
 
 ---
 

@@ -35,7 +35,7 @@ tags: [denker-vita, philosophie, psychologie, psychoanalyse, oesterreich]
 
 ## Biografie
 
-Freud wuchs in Wien auf, in einer assimilierten jüdischen Kaufmannsfamilie. Er war der Liebling seiner Mutter — und wusste es. Als sein jüngerer Bruder Julius starb, beichtete er sich später, Wünsche gehegt zu haben, die er als Kind noch nicht benennen konnte. Das war kein Geständnis: Es war Forschungsmaterial.
+Freud wuchs in Wien auf, in einer assimilierten jüdischen Kaufmannsfamilie. Er war der Liebling seiner Mutter — und wusste es. Als sein jüngerer Bruder Julius starb, war Sigmund noch keine zwei. Vierzig Jahre später schrieb er an Wilhelm Fließ, er habe den Kleinen „mit bösen Wünschen und echter Kindereifersucht begrüßt“. Das war kein Geständnis: Es war Forschungsmaterial.
 
 Die entscheidende Weichenstellung kam 1885 in Paris, wo er bei Jean-Martin Charcot lernte, dass Hysterie — damals als Einbildung abgetan — echte, reproduzierbare körperliche Symptome produzierte, die durch Hypnose entstanden und verschwanden. Wenn ein Wort eine Lähmung erzeugen kann, dann ist die Grenze zwischen Seele und Körper durchlässig. Das ließ Freud nicht mehr los.
 
@@ -47,7 +47,7 @@ Carl Jung war Freuds Wunschkandidat als Nachfolger und erste Präsident der *Int
 
 1923 bekam Freud Kieferkrebs — vermutlich durch seinen massiven Zigarrenkonsum. 16 Jahre lang, bis zu seinem Tod, litt er unter 33 Operationen, trug eine schmerzhafte Gaumenprothese und rauchte weiter. Er arbeitete trotzdem, empfing weiter Patienten, schrieb weiter Bücher.
 
-Als Hitler 1938 Österreich annektierte, wurden Freuds Bücher beschlagnahmt, seine Tochter Anna von der Gestapo verhört. Internationale Prominente — darunter Roosevelt, Mussolini und der Papst — setzten sich für seine Ausreise ein. Er emigrierte mit 82 Jahren nach London. Dort starb er am 23. September 1939, kurz nach Kriegsbeginn. Sein Hausarzt Max Schur injizierte ihm auf seinen ausdrücklichen Wunsch hin eine letale Morphindosis. Freud hatte gesagt: *„Mein Leben ist eine Tortur und hat keine Berechtigung mehr."*
+Als Hitler 1938 Österreich annektierte, wurden Freuds Bücher beschlagnahmt, seine Tochter Anna von der Gestapo verhört. Ernest Jones, Marie Bonaparte und der US-Botschafter William Bullitt, gedeckt von Roosevelt, erwirkten seine Ausreise; Bonaparte zahlte die „Reichsfluchtsteuer“. Er emigrierte mit 82 Jahren nach London. Dort starb er am 23. September 1939, kurz nach Kriegsbeginn. Sein Hausarzt Max Schur injizierte ihm auf seinen ausdrücklichen Wunsch hin eine letale Morphindosis. Freud hatte ihn erinnert, was sie einst vereinbart hatten: *„Das ist jetzt nur noch Quälerei und hat keinen Sinn mehr.“*
 
 ---
 
@@ -88,7 +88,7 @@ Als Hitler 1938 Österreich annektierte, wurden Freuds Bücher beschlagnahmt, se
 
 2. **Das Unbewusste existiert und offenbart sich.** Im Traum, in Fehlleistungen, in Symptomen und in der Übertragung gibt das Unbewusste seinen Inhalt preis. Es ist nicht dauerhaft verborgen, nur zeitweilig.
 
-3. **Kindheit ist Schicksal.** Die drei Entwicklungsphasen (oral, anal, genital) und der Ödipuskomplex prägen die Struktur des Erwachsenen-Ichs. Charakterzüge, Neurosen und Beziehungsmuster sind in der frühen Kindheit grundgelegt.
+3. **Kindheit ist Schicksal.** Die psychosexuellen Entwicklungsphasen (oral, anal, phallisch, Latenz, genital) und der Ödipuskomplex prägen die Struktur des Erwachsenen-Ichs. Charakterzüge, Neurosen und Beziehungsmuster sind in der frühen Kindheit grundgelegt.
 
 4. **Das Ich verhandelt zwischen drei Herren.** Es (Triebe), Über-Ich (Gewissen/Gesellschaft) und Realität stellen unlösbare Anforderungen. Psychische Krankheit entsteht, wenn das Ich diese Balance nicht mehr halten kann.
 
@@ -108,7 +108,14 @@ Seine Kulturkritik in *Das Unbehagen in der Kultur* hat eine pessimistisch-konse
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Erich Fromm|Erich Fromm]] — Der wichtigste Post-Freudianer im Bestand: Er übernimmt die Methode und bricht mit dem Menschenbild. Freuds Libidotheorie ist ihm zu mechanistisch; nicht Triebe, sondern Beziehungen und ein gesellschaftliches Unbewusstes formen den Charakter. In *Jenseits der Illusionen* (1962) liest er Marx und Freud nebeneinander neu.
+- [[DenkerVita/Jean-Paul Sartre|Jean-Paul Sartre]] — Der härteste theoretische Gegner. Sartre bestreitet nicht die Beobachtung, sondern die Instanz: Wer verdrängt, muss wissen, was er verdrängt, also gibt es kein Unbewusstes hinter dem Bewusstsein, nur ein Bewusstsein, das sich selbst belügt (*mauvaise foi*). Damit entfällt die Kindheit als Schicksal, auf das sich Verantwortung abwälzen ließe.
+- [[DenkerVita/Paul Ricoeur|Paul Ricœur]] — Ricœurs Freud-Buch von 1965 prägte die Formel, unter der Freud heute oft gelesen wird: Marx, Nietzsche und Freud als Meister einer „Hermeneutik des Verdachts“. Ricœur nimmt die Entlarvung ganz ernst und fragt, was nach ihr kommt. Seine zweite Naivität hört dem Symbol wieder zu, das Freud als Wunsch durchschaut hatte; für Freuds Religionskritik ist das die verständnisvollste Gegenstimme.
+- [[DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]] — Der Wille zum Leben, ein blinder Drang ohne Vernunft und Ziel, ist Freuds Es in metaphysischer Fassung; beide brechen mit dem Menschen als Vernunftwesen. Die Wege hinaus trennen sich: Schopenhauer sucht ihn in Askese und Überwindung des Willens, Freud in Bewusstmachung und einem stärkeren Ich.
+- [[DenkerVita/Kai Michel|Kai Michel]] — Die Reibung bei der Religion. Für Freud ist sie eine kollektive Wunschillusion, das kindliche Schutzbedürfnis auf einen Gottvater projiziert, und Aufklärung heißt, die Projektion zu durchschauen. Michel und Carel van Schaik lesen Religion als kulturelle Antwort auf die Zumutungen der Sesshaftigkeit, auf Krankheit, Ungleichheit und Kontrollverlust: weder Betrug noch Denkfehler, sondern eine Maschine, die Leid erklärbar und ertragbar macht.
+- [[DenkerVita/Tobias Rüther|Tobias Rüther]] — Freud rauchte täglich bis zu zwanzig Zigarren, bekam 1923 Kieferkrebs, überstand 33 Operationen und rauchte weiter. Rüthers Satz, Sucht sei eine Krankheit und kein Willensdefekt, hat in diesem Leben ein drastisches Beispiel: Der Mann, der die Macht des Unbewussten über das Ich beschrieb, kannte den Schaden und kam nicht los. Drohbilder, sagt Rüther, wirken nicht bei dem, der morgens im Entzug zur Schachtel greift.
+- [[DenkerVita/Semir Zeki|Semir Zeki]] — „Es schweigt die Kritik“: So beschreibt Freud 1921 die Verliebtheit, in der das geliebte Objekt „eine gewisse Freiheit von der Kritik genießt“ ([Massenpsychologie und Ich-Analyse, Kap. VIII](https://www.textlog.de/freud/abhandlungen/massenpsychologie/viii-verliebtheit-und-hypnose)). Achtzig Jahre später fanden Bartels und Zeki beim Anblick des geliebten Menschen weniger Aktivität in Arealen des kritischen Urteils. Die Beobachtung hat ein bildgebendes Korrelat bekommen; Freuds Deutung, das Objekt trete an die Stelle des Ichideals, misst kein Scanner.
+- [[DenkerVita/Albert Moukheiber|Albert Moukheiber]] — Moukheiber bringt Neurobiologie, wo Freud Theorie hatte: Ein Gehirn, das vergangene Erfahrung als Vorhersage auf die Gegenwart legt, klingt wie die Übertragung in neuer Sprache, und dass wir uns Überzeugungen oft erst nach dem Handeln zulegen, wie das Ich als Rationalisierer. Zugleich steht Moukheiber für den Maßstab, an dem sich die Psychoanalyse reibt: belegte Forschung gegen die gut erzählte Deutung.
 
 ---
 

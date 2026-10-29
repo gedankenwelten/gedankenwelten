@@ -39,7 +39,7 @@ Brown hat sich ihr ganzes akademisches Leben lang gegen die Privatisierung der �
 |---|---|---|
 | [Manhood and Politics: A Feminist Reading in Political Thought](https://www.genialokal.de/suche/?q=Manhood+Politics+Wendy+Brown) | 1988 | Frühe feministische Intervention in die politische Theorie |
 | [States of Injury: Power and Freedom in Late Modernity](https://www.genialokal.de/suche/?q=States+Injury+Power+Freedom+Wendy+Brown) | 1995 | Paradigmatisches Werk über verletzte Identitäten, Staat und Geschlecht; prägt die Diskussion um „wounded attachments" |
-| [Politics Out of History](https://www.genialokal.de/suche/?q=Politics+Out+History+Wendy+Brown) | 2001 | Essays über Verganheit, Fortschritt und linke Desorientierung |
+| [Politics Out of History](https://www.genialokal.de/suche/?q=Politics+Out+History+Wendy+Brown) | 2001 | Essays über Vergangenheit, Fortschritt und linke Desorientierung |
 | [Edgework: Critical Essays on Knowledge and Politics](https://www.genialokal.de/suche/?q=Edgework+Critical+Essays+Wendy+Brown) | 2005 | Essaysammlung zu Wissenspolitik, Neoliberalismus und Gender Studies |
 | [Regulating Aversion: Tolerance in the Age of Identity and Empire](https://www.genialokal.de/suche/?q=Regulating+Aversion+Tolerance+Wendy+Brown) | 2006 | Kritik der liberalen Toleranzdiskurse als Mechanismus der Machtausübung |
 | [Walled States, Waning Sovereignty](https://www.genialokal.de/suche/?q=Walled+States+Waning+Sovereignty+Wendy+Brown) | 2010 | Analyse der Mauerbauten im 21. Jhdt. als psychisches und materielles Symptom gefährdeter Souveränität |
@@ -81,22 +81,27 @@ Brown ist keine Reformist*in. Sie kritisiert Neoliberalismus nicht, um eine „b
 - **Linke Tradition:** Marx auf Kapitalismus und Fetischismus; Frankreich-Post-1968-Denken (Foucault, Derrida, Rancière)
 - **Nicht-utopisch:** Brown bietet keine Lösungskonzepte oder Alternativmodelle. Ihr Denken ist eher diagnostisch: Sie zeigt, was zerstört wird, nicht, wie es zu retten ist
 - **Gender/Queer-Perspektive:** Sexualität, Geschlecht und Körper sind immer auch Felder der Machtausübung; nicht nur „identitätspolitische" Kämpfe, sondern Kämpfe um die Konstitution des Selbst
-- **Unabhängig von Parteien:** Kritisch gegenüber der Grünen (Berater*innen des Staats), der SPD (neoliberale Reformen), aber auch der Linken (zu wenig radikale Analyse der Subjektkonstitution)
-
-Sie lehrt, dass ehrliche intellektuelle Arbeit wichtiger ist als politische Geschwindigkeit. Daher hat sie sich auch für Faktencheck und gegen Propaganda eingesetzt — nicht als Liberale, sondern als Denker*in, die weiß, dass Faschismus nur durch verdrehte Realitätskonstruktion funktioniert.
+- **Kritik auch am eigenen Lager:** Den US-Demokraten hält sie vor, den neoliberalen Umbau mitgetragen zu haben, der Linken eine „linke Melancholie“ (*Resisting Left Melancholy*, 1999): das Festhalten an verlorenen Gewissheiten statt der Analyse der Gegenwart.
 
 ## Verbindungen zu anderen Denkern
 
-*(Wird von Montaigne befüllt)*
+- [[DenkerVita/Michel Foucault]] — Ihr wichtigstes Werkzeug. Aus Foucaults Vorlesungen zur *Geburt der Biopolitik* nimmt Brown die Gouvernementalität, eine Macht, die nicht zwingt, sondern die Selbstführung der Subjekte formt. Ihr eigener Schritt ist die Frage, was aus dem *demos* wird, wenn sich alle Bürger als Humankapital verstehen.
+- [[DenkerVita/Isabell Lorey]] — Mit Alex Demirović liest Lorey Foucaults Gouvernementalität von der Seite des Subjekts: Prekarisierung als Regierungstechnik, die Unsicherheit gezielt verteilt. Brown fragt nach dem Gemeinwesen, das daraus entsteht. Lorey setzt dagegen Sorgebeziehungen und eine Demokratie, die im Präsens geübt wird; Brown bleibt bei der Diagnose und bietet kein Gegenmodell an.
+- [[DenkerVita/Byung-Chul Han]] — Beide kommen über Foucault zum unternehmerischen Selbst, bei Han zum Leistungssubjekt, das sich freiwillig ausbeutet und das Selbstverwirklichung nennt. Han zieht die Linie nach innen, zu Erschöpfung und Depression, Brown nach außen, zu einer Demokratie, der das Volk abhandenkommt.
+- [[DenkerVita/Michael Hartmann]] — Zwei Wege zur selben These, dass neoliberale Politik den Rechtspopulismus nährt. Brown erklärt es aus einer Vernunft, die alle Lebensbereiche ins Bild des Marktes zieht und Menschen verwundet zurücklässt; Hartmann aus einer sozial geschlossenen Elite, die als Gewinnerin dieser Politik keinen Grund sah, sie zu ändern. Sie beschreibt eine Rationalität ohne Absender, er zählt die Absender.
+- [[DenkerVita/Oliver Nachtwey]] und [[DenkerVita/Carolin Amlinger]] — *In the Ruins of Neoliberalism* und *Zerstörungslust* beschreiben dieselbe Wendung: Das Autoritäre wächst aus dem Neoliberalismus, nicht gegen ihn. Bei Amlinger und Nachtwey heißt es libertärer Autoritarismus, eine Freiheit vom Staat, der die Freiheit der anderen gleichgültig ist, und es hat empirische Konturen, 2.600 Befragte und drei Typen. Brown liefert die Genealogie dieses Freiheitsbegriffs.
+- [[DenkerVita/Markus Gabriel]] — Konträre Antworten auf dieselbe Diagnose. Gabriel hält den Kapitalismus durch Ethik und *true profit* für reformierbar. Folgt man Brown, ist das ein Kategorienfehler, weil die Marktvernunft auch die Ethik schon in ihre Sprache übersetzt hat, in ESG und Impact Investing.
+- [[DenkerVita/Ulf Poschardt]] — Die Gegenlektüre ihres Freiheitsbegriffs. Was Poschardt an Milei und Musks DOGE bewundert, den radikalen Rückbau des Staates, beschreibt Brown als Abbau der Bedingungen, unter denen ein Volk sich selbst regiert, und in *In the Ruins* als den Boden, auf dem antidemokratische Bewegungen wachsen. Poschardt grenzt sich von der AfD ab; ob sein Programm trotzdem in Browns Muster fällt, ist die Frage, die ihm seine Kritiker stellen.
+- [[DenkerVita/Pankaj Mishra]] — Ursache und Nachbeben: Brown beschreibt die Mechanik, mit der das Versprechen von 1789 ökonomisch ausgehöhlt wird, Mishra den Zorn derer, denen Gleichheit versprochen und verweigert wurde. Er sucht die Wurzel tiefer, bei Rousseau und im Ressentiment der Moderne selbst, sie in einer Regierungsrationalität des späten 20. Jahrhunderts.
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Transkript & Analyse des INET-Interviews (2016)
 - [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] — teilt Browns Befund, dass der Neoliberalismus die Solidaritätsbeziehungen auflöst (Baberowski erlebt es im Russland der 90er), entlarvt aber die liberale Demokratie selbst als oligarchisch, statt das demokratische Versprechen zu verteidigen
-- [[Denker/Michel Foucault]] — Browns Hauptreferenz: *Die Geburt der Biopolitik* als Werkzeug zur Neoliberalismus-Analyse
-- [[Denker/Karl Marx]] — Kapitalismuskritik als Grundlage; Browns Neoliberalismus-These radikalisiert Marx auf die Subjektseite
+- [[DenkerVita/Michel Foucault|Michel Foucault]] — Browns Hauptreferenz: *Die Geburt der Biopolitik* als Werkzeug zur Neoliberalismus-Analyse
+- [[DenkerVita/Karl Marx|Karl Marx]] — Kapitalismuskritik als Grundlage; Browns Neoliberalismus-These radikalisiert Marx auf die Subjektseite
 - [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Deutsche Parallele zu Browns Foucault-Lektüre (Gouvernementalität als Regierungstechnik)
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redeckers Phantombesitz-These ist eine psychologische Kehrseite von Browns Analyse der neoliberalen Subjektivität
-- [[Denker/Hannah Arendt]] — Arendts Analyse von Totalitarismus und Banalität des Bösen; Browns Sicht auf die demokratische Krise ist post-Arendtianisch
-- [[Denker/Max Weber]] — Browns jünstes Werk (*Nihilistic Times*) dialogisiert direkt mit Webers Ethik-Vorlesungen
+- [[DenkerVita/Hannah Arendt|Hannah Arendt]] — Arendts Analyse von Totalitarismus und Banalität des Bösen; Browns Sicht auf die demokratische Krise ist post-Arendtianisch
+- Max Weber — Browns jüngstes Werk (*Nihilistic Times*) dialogisiert direkt mit Webers Ethik-Vorlesungen
 

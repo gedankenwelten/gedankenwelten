@@ -1,5 +1,6 @@
 ---
 title: "Michael Sterner — Reiche gegen Marktwirtschaft"
+description: "Wer Technologieoffenheit sagt, kann Batterien trotzdem aussperren. Michael Sterner zeigt, wie Reiches Kapazitätsgesetz mit einer Zehn-Stunden-Hürde Speicher benachteiligt und Gas bevorzugt."
 aktualisiert: 2026-05-06
 date: 06.05.2026
 tags:

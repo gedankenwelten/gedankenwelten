@@ -1,5 +1,6 @@
 ---
 title: "Das Gewebe der Freiheit — Demokratie tiefer als das Wählen"
+description: "Demokratie wächst wie ein Kind: Im Vollzug sieht man es nicht. Sie ist die Ausweitung des Kreises derer, die als ganz menschlich gelten – und ein Gewebe, in dem jeder Faden den anderen hält."
 aktualisiert: 2026-05-17
 date: 2026-05-17
 tags:

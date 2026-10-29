@@ -1,5 +1,6 @@
 ---
 title: "Kai Schöneberg — Ölkrise lohnt sich für BP"
+description: "Der Irankrieg verdoppelt den Quartalsgewinn von BP auf 3,2 Milliarden Dollar. Kai Schöneberg über einen Konzern, der zurück zum Öl will, und Aktionäre, die ihn von innen bremsen."
 aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:

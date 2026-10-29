@@ -1,5 +1,6 @@
 ---
 title: "Albert Moukheiber — Mein Hirn und ich (1/2)"
+description: "Das Gehirn bildet die Welt nicht ab, es baut sie aus Erwartungen. Albert Moukheiber über Täuschungen, Trampelpfade des Denkens und den kurzen Moment, in dem wir uns selbst beim Denken zusehen."
 aktualisiert: 2026-04-16
 date: 16.04.2026
 tags:

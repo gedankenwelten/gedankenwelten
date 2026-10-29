@@ -1,5 +1,6 @@
 ---
 title: "Gerdes — Ukraine: Zelensky wird stärker"
+description: "Ein EU-Kredit über 90 Milliarden Euro sichert die Ukraine bis 2027. Gerdes sammelt die Zeichen, dass Selenskyj an Spielraum gewinnt, und die Gegenerzählungen, mit denen Moskau antwortet."
 aktualisiert: 2026-04-25
 date: 2026-04-24
 tags:

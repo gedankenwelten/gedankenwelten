@@ -1,5 +1,6 @@
 ---
 title: Neue Akropolis — Der Mensch ist besser als sein Ruf
+description: "In Katastrophen hilft man einander, statt zu plündern. Für die Neue Akropolis sind Neid und Habgier erlernt, nicht angeboren – und das Menschenbild der Ökonomie ein Irrtum mit Geschichte."
 date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:

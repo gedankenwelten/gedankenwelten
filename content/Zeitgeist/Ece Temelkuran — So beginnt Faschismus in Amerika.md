@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02
 title: "Ece Temelkuran — So beginnt Faschismus in Amerika"
+description: "Am gefährlichsten ist die Erschöpfung. Ece Temelkuran hat erlebt, wie die Türkei ihre Demokratie verlor, und erkennt dieselben Schritte nun in den USA, beschleunigt durch Trumps Tempo."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Gerald Hüther — Lebendigkeit und das Ende der Hierarchien"
+description: "Du darfst einen anderen Menschen nie zum Objekt machen. Für Gerald Hüther ist Persönlichkeit eine verfestigte Kindheitslösung – und Befreiung beginnt mit Lebendigkeit, nicht mit Anstrengung."
 date: 2026-04-28
 aktualisiert: 2026-04-28
 tags:

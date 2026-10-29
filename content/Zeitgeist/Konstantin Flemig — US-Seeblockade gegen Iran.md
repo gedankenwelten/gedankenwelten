@@ -1,5 +1,6 @@
 ---
 title: "Konstantin Flemig — US-Seeblockade gegen Iran"
+description: "Ab dem 13. April 2026 wollen die USA jedes Schiff abfangen, das iranische Häfen anlief. Konstantin Flemig über eine Blockade, die die Waffenruhe gefährdet und China herausfordert."
 aktualisiert: 2026-04-14
 date: 2026-04-13
 tags:

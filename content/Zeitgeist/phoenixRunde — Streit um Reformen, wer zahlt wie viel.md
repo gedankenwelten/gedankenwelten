@@ -1,5 +1,6 @@
 ---
 title: "phoenixRunde — Streit um Reformen, wer zahlt wie viel"
+description: "Reform oder Deform? Christoph Butterwegge sieht den Sozialstaat in vielen kleinen Schritten abgebaut und die Demografie als vorgeschobenes Argument. Eine Runde darüber, wer zahlt."
 aktualisiert: 2026-06-02
 date: 27.05.2026
 tags:

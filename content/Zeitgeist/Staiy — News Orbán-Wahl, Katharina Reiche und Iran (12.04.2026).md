@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)"
+description: "Orbán vor der Wahl, Verhandlungen in Islamabad gescheitert, der eigene Sozialflügel gegen Katharina Reiche – und die erste Cheftrainerin der Bundesliga. Staiys Nachrichten vom 12. April."
 aktualisiert: 2026-04-13
 date: 2026-04-12
 tags:

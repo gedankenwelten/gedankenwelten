@@ -1,5 +1,6 @@
 ---
 title: "NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung"
+description: "Ist Elite Verdienst oder Macht? Der Elitenforscher Michael Hartmann sagt: immer Macht. Eine Runde über Epstein, Cum-Ex und Tech-Oligarchen, und ob Förderung gegen Machtmissbrauch schützt."
 aktualisiert: 2026-05-30
 date: 28.05.2026
 tags:

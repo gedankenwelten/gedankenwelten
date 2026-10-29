@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Die Wahrheit über Staatsschulden"
+description: "Die Zinsen des Staates gehen an die Sparer, an dieselben Bürger, die sie als Steuern zahlen. Heiner Flassbeck: Wenn Unternehmen sparen, bleibt nur der Staat als Schuldner."
 aktualisiert: 2026-05-02
 date: 2026-05-02
 tags:

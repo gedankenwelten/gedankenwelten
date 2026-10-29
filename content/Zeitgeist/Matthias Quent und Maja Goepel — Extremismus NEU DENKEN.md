@@ -1,5 +1,6 @@
 ---
 title: "Matthias Quent und Maja Göpel — Extremismus NEU DENKEN"
+description: "Faschismus ist für Matthias Quent keine Philosophie, sondern eine Technik, und ihr Rohstoff ist Ohnmacht. Mit Maja Göpel fragt er, was dagegen hilft: Hoffnung, die aus dem Handeln kommt."
 aktualisiert: 2026-05-13
 date: 13.05.2026
 tags:

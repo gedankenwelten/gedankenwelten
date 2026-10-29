@@ -1,5 +1,6 @@
 ---
 title: "Sudan: Das Massaker von El Fashir und die Rolle der VAE"
+description: "Nach dem Fall von El Fashir wurden in drei Tagen schätzungsweise 27.000 Menschen ermordet. Konstantin Flemig fragt, wer die RSF bewaffnet, und landet bei Deutschlands Partner, den Emiraten."
 aktualisiert: 2026-04-16
 date: 2026-04-15
 tags:

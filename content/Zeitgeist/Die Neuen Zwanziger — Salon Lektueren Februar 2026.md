@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren Februar 2026"
+description: "Einst forderte Ulrike Herrmann das Schrumpfen, nun vergleicht sie Bruttoinlandsprodukte. Der Salon verreißt „Geld als Waffe“ als eines der schlechtesten Bücher, die er je besprochen hat."
 aktualisiert: 2026-04-25
 date: 2026-03-12
 tags:

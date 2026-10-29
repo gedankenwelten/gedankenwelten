@@ -1,5 +1,6 @@
 ---
 title: "Nico Semsrott — Brüssel sehen und sterben"
+description: "Regeln, die niemand kontrolliert, wirken nicht, und im EU-Parlament kontrollieren sich die Kontrollierten selbst. Nico Semsrotts satirisches Abschlussreferat nach fünf Jahren in Brüssel."
 aktualisiert: 2026-05-07
 date: 07.05.2026
 tags:

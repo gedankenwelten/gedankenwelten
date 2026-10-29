@@ -50,7 +50,12 @@ Kristian Kunow war vor seiner jetzigen Rolle in der Gemeinsamen Geschäftsstelle
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Kerstin Paschke]] — Die Ärztin auf demselben Podium teilt sein Ziel und zweifelt am Tempo. Kunow setzt auf die EU-weite Durchsetzung von DSA und DMA; Paschke vergleicht den DSA mit einem Containerschiff, das 20.000 Container fasst und zu langsam wendet, und will Kinder deshalb vorübergehend aus dem Fahrwasser der Plattformen nehmen.
+- [[DenkerVita/Sanya Lehmann]] — Sie sitzt im Jugendrat seiner eigenen Medienanstalt und lehnt das Verbot aus der Sicht der Nutzerinnen ab, er aus der Sicht des Regulierers. Ihre erste Forderung richtet sich an Leute wie ihn: Das Mindestalter von 13 Jahren steht schon in den Plattformregeln und wird nicht durchgesetzt.
+- [[DenkerVita/Martin Andree]] — Beide wollen die Plattformen haften lassen, Andree geht weiter. Er will die Monopole entflechten und den Intermediär-Status abschaffen, Kunow hält Teen-Konten für einen möglichen Teil der Lösung, also Werkzeuge, die die Plattformen selbst bauen. Andrees Analyse legt die Frage nahe, ob man das Problem von denen lösen lassen kann, die daran verdienen.
+- [[DenkerVita/Markus Gabriel]] — Die schärfste Gegenstimme zu Kunows Pragmatismus. Gabriel nannte die Plattformen 2024 auf der phil.COLOGNE Drogenkartelle, die Aufmerksamkeitsdrogen verkaufen, und rechnet mit Strafverfahren gegen sie. Kunow will dieselben Konzerne mit Teen-Konten, Ruhemodus und Nacht-Push-Verboten zu altersgerechten Versionen ihrer Plattformen bringen.
+- [[DenkerVita/Renee DiResta|Renée DiResta]] — Beide verlegen die Frage vom Inhalt und vom Nutzer auf die Architektur. DiResta trennt das Recht zu sprechen vom Recht auf Verstärkung und schlägt kleine Bremsen vor dem Teilen vor; Kunows Nacht-Push-Verbote und eingeschränkte Empfehlungsalgorithmen sind Eingriffe derselben Art, kleine Reibung im Design statt Verbot.
+- [[DenkerVita/Rebecca Boehme]] — Die Neurowissenschaftlerin zieht dieselbe Doppellinie wie der Regulierer: Individuelle Veränderung reicht nicht, die Aufmerksamkeitsökonomie muss strukturell reguliert werden, und doch kann der Einzelne nicht auf die Politik warten. Bei Kunow heißt das Medienkompetenz als Langzeitinvestition neben der Regulierung, nicht an ihrer Stelle.
 
 ## Gedankenwelten-Notes
 

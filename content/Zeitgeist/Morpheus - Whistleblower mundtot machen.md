@@ -1,5 +1,6 @@
 ---
 title: "Morpheus — Whistleblower mundtot machen (powered by AI)"
+description: "Wer droht, muss nicht gewinnen: Die Klage selbst ist die Strafe. Morpheus testet Objection.ai, ein KI-Tribunal aus Peter Thiels Umfeld, und fragt, wem es Macht über den Diskurs gibt."
 aktualisiert: 2026-05-17
 date: 17.05.2026
 tags:

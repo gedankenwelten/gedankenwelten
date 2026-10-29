@@ -1,5 +1,6 @@
 ---
 title: "Klarsprech — Peter Thiel und ObjectionAI"
+description: "Peter Thiel finanzierte die Klage, die Gawker ruinierte. Sein Startup ObjectionAI verspricht das per KI schneller und billiger. Klarsprech zeichnet den Weg von PayPal über Palantir dorthin nach."
 aktualisiert: 2026-05-05
 date: 03.05.2026
 tags:

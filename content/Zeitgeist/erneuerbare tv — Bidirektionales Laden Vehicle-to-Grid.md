@@ -1,5 +1,6 @@
 ---
 title: "erneuerbare tv — Bidirektionales Laden / Vehicle-to-Grid"
+description: "Hunderte Carsharing-Autos in Utrecht laden mittags Solarstrom und geben ihn abends zurück. Das E-Auto als Speicher spart Trafohäuschen und zahlt in Frankreich schon Geld aus."
 aktualisiert: 2026-05-14
 date: 06.11.2025
 tags:

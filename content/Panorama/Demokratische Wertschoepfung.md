@@ -1,5 +1,6 @@
 ---
 title: "Demokratische Wertschöpfung"
+description: "Zwischen Markt und Staat gibt es eine dritte Form, die fast vergessen wurde: die Genossenschaft. Ein Mensch, eine Stimme – vom Bodensee-Fischer über Raiffeisen und Mondragón bis zur Bürgerenergie."
 date: 2026-05-14
 aktualisiert: 2026-05-14
 tags:

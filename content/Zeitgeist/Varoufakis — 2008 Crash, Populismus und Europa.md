@@ -1,5 +1,6 @@
 ---
 title: "Varoufakis — 2008 Crash, Populismus und Europa"
+description: "Für Yanis Varoufakis war 2008 das 1929 seiner Generation und die Ökonomie eine Religion mit Gleichungen. Er erzählt vom Vater im Lager, vom Bailout Griechenlands, von Europas Strukturfehler."
 aktualisiert: 2026-05-17
 date: 03.05.2026
 tags:

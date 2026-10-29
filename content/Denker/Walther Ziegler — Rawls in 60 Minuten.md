@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Rawls in 60 Minuten"
+description: "Wie würdest du die Gesellschaft ordnen, wenn du nicht wüsstest, wer du darin bist? Walther Ziegler erklärt Rawls' Schleier des Nichtwissens – und zeigt, dass er im Alltag taugt."
 aktualisiert: 2026-04-27
 date: 27.04.2026
 tags:

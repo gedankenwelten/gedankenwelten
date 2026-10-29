@@ -1,5 +1,6 @@
 ---
 title: "ARTE Re: — Neurodivers: Anders denken, besser arbeiten?"
+description: "Zehn bis fünfzehn Prozent der Menschen denken anders als die Mehrheit. Die ARTE-Reportage folgt einer Frau mit Tourette und einem Autisten in der IT – und fragt, wann Anderssein zur Stärke wird."
 aktualisiert: 2026-04-29
 date: 2026-04-29
 tags:

@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Truth Social 14: Ilhan Omar und State of the Union"
+description: "Trump fordert, zwei gewählte US-Staatsbürgerinnen „zurückzuschicken“. Koschi zeigt, wie aus einer Privatfehde gekürztes Gesundheitsgeld für Minnesotas Ärmste wird."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -33,7 +34,7 @@ Datum: 26.02.2026
 Quelle: [Truth Social Folge 14: Trump nach der State of the Union](https://www.youtube.com/watch?v=8tdgkj5Q83g)
 
 > [!info] Wer ist Koschi Politik?
-> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koschi wohnt in Buffalo, das an den Bundesstaat Minnesota angrenzt — Trumps Privatfehde mit Minnesota hat für ihn persönlichen Kontext.
+> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koschi wohnt in Buffalo, New York.
 >
 > → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 

@@ -1,5 +1,6 @@
 ---
 title: "Autoritärer Internationalismus — Die globale Rechte"
+description: "Was wie viele nationale Bewegungen aussieht, teilt Netzwerke, Geldgeber und Erzählungen. Das Panorama kartiert die globale Rechte von CPAC und Atlas bis Palantir – und was ihr entgegensteht."
 date: 2026-04-27
 aktualisiert: 2026-07-25
 tags:

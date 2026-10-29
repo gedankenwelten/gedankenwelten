@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Truth Social 10: Super Bowl und Bad Bunny"
+description: "Trump sagt, niemand verstehe Bad Bunny – in einem Land mit 50 Millionen Spanisch-Muttersprachlern. Eine Halftime Show für einen deportierten Fünfjährigen, eine Gegensendung, die scheitert."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

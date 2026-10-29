@@ -1,5 +1,6 @@
 ---
 title: "Florian Homm — Ich war eine Leistungsmaschine"
+description: "Zwei Jets, Schlösser, eine Jacht, und mit 47 einsam: Ex-Hedgefonds-Manager Florian Homm über die Leere an der Spitze und eine Machtordnung, die er hinter den Märkten zu erkennen glaubt."
 aktualisiert: 2026-04-18
 date: 2024-12-07
 tags:

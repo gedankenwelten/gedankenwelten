@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)"
+description: "Die Riester-Rente geht, ein Depot ohne Garantie kommt. Staiy erklärt die Reform, die Debatte um 21 Prozent Mehrwertsteuer und eine Rede, die trotz Morddrohungen gehalten wurde."
 aktualisiert: 2026-04-11
 tags:
   - zeitgeist

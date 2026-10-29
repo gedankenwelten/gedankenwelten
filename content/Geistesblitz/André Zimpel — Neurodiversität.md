@@ -1,5 +1,6 @@
 ---
 title: André Zimpel — Neurodiversität
+description: "Von weitem sehen Gehirne gleich aus, aus der Nähe gleicht keines dem anderen. André Zimpel zeigt, dass Autismus, ADHS und Down-Syndrom eigene Denkweisen sind und keine Defekte."
 date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:

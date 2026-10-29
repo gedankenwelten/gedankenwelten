@@ -1,6 +1,7 @@
 ---
 date: 2026-04-11
 title: "Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration"
+description: "Bondi entlassen, das Geburtsrecht vor dem Supreme Court gehalten, die Stimmung zur Einwanderung gekippt: Koschi sammelt ausnahmsweise nur Nachrichten, in denen Trumps Macht an Grenzen stößt."
 aktualisiert: 2026-04-11
 tags:
   - zeitgeist

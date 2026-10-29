@@ -1,5 +1,6 @@
 ---
 title: "Paul Lance — Amerikaner fragt Deutsche über Trump"
+description: "In Berlin nennt jeder, den Paul Lance fragt, Trump ohne Zögern einen Faschisten. Der Amerikaner fragt, warum so viele seiner Landsleute tun, als passiere das alles nicht."
 aktualisiert: 2026-04-22
 date: 2026-04-21
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Architekten des Lebendigen — Systeme, die dem Leben dienen"
+description: "Systeme sind unvermeidlich, ihr Fundament ist wählbar. Als Gegenpol zu „Gefangene des Systems“ sammelt die Note, wo Menschen schon bauen: Genossenschaften, Follow This, Räume der Begegnung."
 aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:

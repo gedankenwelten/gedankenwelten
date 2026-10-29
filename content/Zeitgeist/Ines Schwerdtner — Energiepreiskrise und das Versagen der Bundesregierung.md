@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung"
+description: "Für Ines Schwerdtner behandelt die Regierung die Energiepreiskrise wie ein technisches Problem. Die Linken-Chefin setzt dagegen Krisengeld, Übergewinnsteuer und die Frage, wem die Energie gehört."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

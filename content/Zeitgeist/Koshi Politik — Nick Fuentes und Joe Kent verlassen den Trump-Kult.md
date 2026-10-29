@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult"
+description: "Wenn Nick Fuentes und Joe Kent sagen, Trump müsse weg, ist das mehr als Lärm. Koschi liest den Bruch der Rechten am Iran-Krieg ab und fragt, worauf dessen Begründung stand."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

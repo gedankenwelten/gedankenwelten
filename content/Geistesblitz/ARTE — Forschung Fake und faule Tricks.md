@@ -1,5 +1,6 @@
 ---
 title: "ARTE — Forschung, Fake und faule Tricks"
+description: "„Zweifel ist unser Produkt“, hieß es 1953 bei der Tabakindustrie. Die ARTE-Doku zeigt, wie Konzerne Nichtwissen herstellen – von Tabak über Bisphenol A bis zum Klima."
 aktualisiert: 2026-04-12
 date: 2026-04-12
 tags:

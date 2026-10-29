@@ -51,7 +51,12 @@ Stark tritt im Kontext demokratischer Aufklärungs- und Präventionsarbeit auf (
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Renee DiResta|Renée DiResta]] — Im Agartha-Talk will niemand jemanden überzeugen; was die Community zusammenhält, ist geteilte Gruppenidentität. Das ist DiRestas These im Kleinen: Wirksame Propaganda bekehrt nicht, sie verstärkt Zugehörigkeit und vertieft Gräben. Starks Antwort auf die Frage, was eine Botschaft klebrig macht, Wiederholung und Gruppendynamik statt Argument, ist auch ihre.
+- [[DenkerVita/Molly Crockett]] — Crockett liefert die Lernmechanik, auf die Starks Wirkungsebene zielt: Wer für einen Beitrag Zustimmung erntet, verstärkt beim nächsten Mal genau diesen Ton. In der Agartha-Sphäre belohnt die Community, wer die Codes versteht, und nach Crockett verfestigt genau diese Art Belohnung einen Ton mit der Zeit.
+- [[DenkerVita/Marcant]] — Marcant beschreibt von der Straße, was Stark kognitiv fasst: Viele Jugendliche werden rechts aus Nachahmung von Stil, Musik und Vorbildern, bevor die Ideologie dazukommt. Er hat sich die Machart eines rechtsextremen Influencers abgeschaut, Schnitte, Kamera, Titel, und dreht sie um. Ob der Mechanismus in beide Richtungen gleich gut trägt, wäre eine Frage an Starks Forschung.
+- [[DenkerVita/Katharina Nocun]] — Nocun zeigt, wie KI-generierte Bilder das Vorfeld der extremen Rechten beschleunigen, und weigert sich wie Stark, die Anfälligen für dumm zu erklären; beide suchen die kognitiven, emotionalen und sozialen Muster dahinter. Ihr Hinweis, dass auch die empörte Reaktion den Beitrag nach oben spielt, ist die Kehrseite jeder Gegenrede.
+- [[DenkerVita/Lars Wienand]] — Ein Gegengewicht zur Annahme, jeder Inhalt wirke. Wienands Fake-Beiträge aus der Moskauer Agentur verpuffen oft, 468 Aufrufe, eine Petition mit einem Unterzeichner. Agartha dagegen erreichte die Charts. Was den bestellten Fälschungen fehlt und die Meme-Sphäre trägt, ist vermutlich genau Starks Thema: die Gemeinschaft, die selbst mitmacht.
+- [[DenkerVita/Hans-Thomas Tillschneider]] — Die Gegenstimme. Tillschneider nannte den Anschlag von Halle, den der Täter live für ein Publikum ins Netz übertrug, eine „Wahnsinnstat, keine politische Tat“. Der Agartha-Talk endet bei einem Attentäter in Jakarta mit „14 words for Agartha“ auf dem Arm und Bezügen auf Christchurch: Die Online-Subkultur ist dort Teil der Tat, nicht ihre Kulisse.
 
 ## Gedankenwelten-Notes
 

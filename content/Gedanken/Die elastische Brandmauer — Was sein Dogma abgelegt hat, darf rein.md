@@ -1,5 +1,6 @@
 ---
 title: "Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein"
+description: "Keine Mauer aus Beton und keine offene Tür, sondern eine Membran: Was sein Dogma abgelegt hat, darf hinein, auch wenn es unbequem ist. Was noch eine Erzählung trägt, bleibt draußen."
 aktualisiert: 2026-05-24
 date: 2026-05-24
 tags:

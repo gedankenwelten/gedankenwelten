@@ -1,5 +1,6 @@
 ---
 title: "Liya Yu — Neuropolitik und die Grenzen der Moral"
+description: "Ein einziges banales Detail, etwa welches Gemüse jemand mag, kann einen Fremden wieder zum Menschen machen. Liya Yu über Neuropolitik und eine In-Group, die sich erweitern lässt."
 aktualisiert: 2026-10-11
 date: 2026-04-29
 tags:

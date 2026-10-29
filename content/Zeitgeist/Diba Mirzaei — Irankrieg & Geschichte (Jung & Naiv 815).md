@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)"
+description: "Wer den Krieg gegen Iran verstehen will, muss bis 1971 zurückblicken. Die Iran-Forscherin Diba Mirzaei erzählt von der Revolution, dem Krieg mit dem Irak und den blinden Flecken des Westens."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

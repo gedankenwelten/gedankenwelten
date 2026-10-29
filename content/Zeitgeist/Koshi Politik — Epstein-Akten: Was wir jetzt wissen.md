@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Epstein-Akten: Was wir jetzt wissen"
+description: "Was die Epstein-Akten über bekannte Namen zeigen und was nicht: Koschi sortiert die neuen Dateien und lässt Überlebende zu Wort kommen, deren Namen bei der Freigabe offen lagen."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

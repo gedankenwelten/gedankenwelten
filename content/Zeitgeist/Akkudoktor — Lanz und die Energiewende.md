@@ -1,5 +1,6 @@
 ---
 title: "Akkudoktor — Programmbeschwerde gegen Markus Lanz: Energiewende-Desinformation im ZDF"
+description: "Je besser die Energiewende funktioniert, desto kleiner erscheint sie in der Primärenergiestatistik. Der Akkudoktor zerlegt die 8-Prozent-Zahl aus einer Lanz-Sendung und legt Programmbeschwerde ein."
 aktualisiert: 2026-05-01
 date: 2026-05-01
 tags:

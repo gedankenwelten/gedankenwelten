@@ -52,7 +52,12 @@ Heims arbeitet aus der demokratischen, präventionsorientierten Zivilgesellschaf
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Katharina Nocun]] — Nocun findet in der Esoterik-Szene dieselbe Tarnung, die Heims an Agartha zeigt: Esoterik und Okkultes als Vorraum der extremen Rechten. Beim Gegenmittel liegen sie auseinander. Heims setzt auf Humor und die Mittel der Meme-Kultur, Nocun erinnert daran, dass jede Reaktion, auch die empörte, den Beitrag nach oben spielt.
+- [[DenkerVita/Annika Brockschmidt]] — Brockschmidt hält das Entschlüsseln von Codes für Verteidigungswerk einer informierten Gesellschaft. Agartha zeigt den Haken daran: Dort ist das Dechiffrieren selbst die Währung, „wer diese Anspielungen checkt, ist Teil der Community“. Wer öffentlich entschlüsselt, muss also aufpassen, dass er nicht die Eintrittskarte verteilt.
+- [[DenkerVita/Matthias Quent]] — Quent sieht in der Irrationalität ein Angebot, die Erlösung von der Komplexität, und Heims sagt über Verschwörungserzählungen dasselbe von der anderen Seite: Ihre Kraft liegt im Erzählen und im Gemeinschaftsgefühl, nicht in der Plausibilität. Zu Quents Befund, dass Medien-Dauerpräsenz normalisiert, passt Heims' Rat an die Redaktionen, lieber gar nicht zu berichten als zu verharmlosen.
+- [[DenkerVita/Thomas Laschyk]] — Beide halten trockene Widerlegung für verloren. Laschyk will der Wahrheit Werbung machen, mit Zuspitzung und Satire; Heims übersetzt im „Fabulant“ die Forschung in Fakten mit Humor. Laschyks Vita nennt den Preis dieser Methode gleich mit: Wer wirbt, behauptet leicht mehr, als die Belege tragen.
+- [[DenkerVita/Marcant]] — Marcant holt „Trendrechte“ zurück, indem er ihre Vorbilder peinlich aussehen lässt, und das ist Heims' Humor als Gegenrede, mit der Kamera auf der Demo. Ihr leisester Rat, mit dem Neffen darüber zu reden, welche Memes er lustig findet und warum, trifft sich mit seinem: die Tür zu einem, der abdriftet, nie ganz zumachen.
+- [[DenkerVita/Staiy]] — Staiy klagt das Schweigen der Leitmedien über rechte Gewalt an, Heims warnt vor dem falschen Reden: „Berichtet lieber gar nicht, als das Phänomen zu verharmlosen.“ Nebeneinander zeigen sie das Dilemma, dass Aufmerksamkeit verstärkt und Schweigen normalisiert.
 
 ## Gedankenwelten-Notes
 

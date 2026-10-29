@@ -1,5 +1,6 @@
 ---
 title: Erwin Thoma — Strategien der Natur
+description: "Der Baum hortet nicht, er gibt seinen Zucker weiter. Der Förster und Holzbauer Erwin Thoma liest im Wald eine Ökonomie der Verschwendung und des Dienens – und baut danach Häuser."
 date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:

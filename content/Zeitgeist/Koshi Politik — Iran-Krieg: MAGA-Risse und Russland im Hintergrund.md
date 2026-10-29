@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund"
+description: "Fünf Kriegsgründe in zwei Wochen, ein neuer Oberster Führer in Teheran: Koschi zeigt, wo die MAGA-Basis zu bröckeln beginnt, und blickt auf Russland im Hintergrund."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,6 +1,7 @@
 ---
 date: 2026-04-01
 title: Verliert Trump den Iran-Krieg in Amerika?
+description: "Gedacht war ein Regime, das sich beugt, nicht eines, das fällt. Reinhard Heinisch erklärt, warum der Plan im Iran scheiterte und warum die Stimmung daheim kippt, sobald Särge zurückkommen."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

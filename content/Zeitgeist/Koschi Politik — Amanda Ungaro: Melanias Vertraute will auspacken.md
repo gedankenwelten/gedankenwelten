@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken"
+description: "Amanda Ungaro flog mit 16 in Epsteins Jet und droht nun, über Melania Trump auszupacken. Koschi ordnet ein, was die Flugprotokolle belegen und warum Melanias Pressekonferenz plötzlich anders wirkt."
 aktualisiert: 2026-04-13
 date: 2026-04-13
 tags:

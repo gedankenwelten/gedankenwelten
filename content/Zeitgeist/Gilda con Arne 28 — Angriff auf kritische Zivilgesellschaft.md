@@ -1,6 +1,7 @@
 ---
 date: 2026-04-08
 title: "Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft"
+description: "Mitten im Förderzeitraum sollen 200 Projekte von „Demokratie leben!“ enden. Gilda Sahebi und Arne Semsrott sehen darin einen Angriff auf die kritische Zivilgesellschaft, dazu die Krise um Hormus."
 aktualisiert: 2026-04-11
 tags:
   - zeitgeist

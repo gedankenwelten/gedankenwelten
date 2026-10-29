@@ -66,6 +66,15 @@ Keine parteipolitische Verortung. Misselhorn argumentiert als akademische Ethike
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Anja Dahlmann]] — Dasselbe Ziel, eine andere Härte. Misselhorn sagt ohne Einschränkung, Maschinen sollen nicht über Leben und Tod entscheiden; Dahlmann, die Rüstungskontrolleurin, hält ein Verbot autonomer Waffen für Wunschdenken und kämpft um menschliche Kontrolle über die Gewaltentscheidung. Misselhorns Unterscheidung von Handeln und Verantworten erklärt, warum diese Kontrolle mehr sein muss als ein Knopf.
+- [[DenkerVita/Markus Gabriel]] — Beide sprechen der KI ein Subjekt ab und wenden sich gegen einen Naturalismus, der sich fürs Ganze hält. Die Geste trennt sie: Gabriel antwortet auf die Frage, ob die Maschine denkt, mit „Mu" und verweigert sie; Misselhorn beantwortet sie Stufe für Stufe, syntaktisch ja, semantisch nein, handlungsfähig ja, verantwortungsfähig nein.
+- [[DenkerVita/David Chalmers]] — Die Gegenstimme in der Bewusstseinsfrage. Chalmers hält Bewusstsein für eine Grundgröße der Natur und erwägt proto-bewusste Eigenschaften in allen informationstragenden Systemen. Wer so denkt, kann der Maschine das Innen nicht so sicher absprechen, wie Misselhorn es mit dem chinesischen Zimmer tut.
+- [[DenkerVita/Yuval Noah Harari]] — Harari warnt, mit der KI erzähle erstmals etwas Nichtmenschliches Geschichten und greife damit den Kern menschlicher Macht an. Misselhorn hält dagegen, dass die Maschine Bedeutung nur simuliert. Die Wirkung fürchten beide; uneins sind sie, ob dahinter etwas versteht.
+- [[DenkerVita/Robert Musil]] — Ihr Kronzeuge, über dessen Metaphilosophie sie in *The Monist* geschrieben hat. Musils Möglichkeitssinn, alles Bestehende auch anders denken zu können, ist ihre Formel für das, was Literatur der Philosophie voraushat: Sie probiert Begriffe aus, für die der Alltag keine Verwendung kennt.
+- [[DenkerVita/Immanuel Kant]] — Ihr Argument zur Empathie mit Robotern baut sie nach dem Muster von Kants Tierethik: Nicht der Roboter hat Anspruch auf Schonung, aber unser Umgang mit ihm wirkt auf uns zurück. Kants Würde des Menschen als Zweck an sich bleibt davon unberührt; Misselhorn erweitert nicht den Kreis der Würde, sondern den der Rücksicht. Auch ihre Theorie apriorischer Rechtfertigung als kontrafaktische Variation entfaltet sie im Anschluss an Kant.
+- [[DenkerVita/Roberto Simanowski]] — Misselhorns erster Grundsatz verlangt, dass KI die Selbstbestimmung fördert. Simanowski beschreibt, wie sie diese schon beim Helfen untergräbt: Was die Maschine für uns schreibt, verlernen wir. Mit Hegels Herr und Knecht fragt er, woher Anerkennung kommt, wenn nichts mehr selbst gemacht ist; Hegel zählt auch Misselhorn zu ihren Einflüssen.
+- [[DenkerVita/Wolfgang Huber]] — „Maschinen assistieren, Menschen verantworten": Hubers Formel deckt sich mit Misselhorns drittem Grundsatz, dass Menschen in einem substanziellen Sinn die Verantwortung tragen. Er begründet sie theologisch aus der Unverletzlichkeit der Person, sie philosophisch aus der Unterscheidung von Handeln und Verantworten.
+
 ## Gedankenwelten-Notes
 
 - [[Catrin Misselhorn — Grundfragen der Maschinenethik]]

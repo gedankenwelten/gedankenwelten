@@ -1,5 +1,6 @@
 ---
 title: "Arnd Henze — Bonhoeffer und die Neue Rechte"
+description: "Die Neue Rechte beruft sich auf Bonhoeffer. Für Arnd Henze ging dem eine Entkernung durch die eigenen Leute voraus; Bonhoeffers Erbe sei seine Methode: der klare Blick auf die Wirklichkeit."
 aktualisiert: 2026-07-20
 date: 30.06.2021
 tags:

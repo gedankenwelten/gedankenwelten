@@ -1,5 +1,6 @@
 ---
 title: "Yanis Varoufakis — Trump Has Lost Everything"
+description: "Trumps einziger Erfolg war, sich nicht in einen Nahostkrieg ziehen zu lassen – nun hat er es doch. Yanis Varoufakis über den Iran als Wendepunkt, über Gewalt und Schwellen."
 aktualisiert: 2026-05-15
 date: 15.05.2026
 tags:

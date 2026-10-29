@@ -1,5 +1,6 @@
 ---
 title: "taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot"
+description: "475 Festnahmen in einer Fabrik in Georgia und ein Jahr Schwarz-Rot, in dem Kritiker aus den Ministerien lieber schweigen. Zwei taz-Recherchen über Rückabwicklung und Gleichgültigkeit."
 aktualisiert: 2026-05-03
 date: 02.05.2026
 tags:

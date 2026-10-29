@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory"
+description: "Wer sich im Raum rechtfertigen muss, bestimmt der „Herr Hegemon“. Der Salon liest die Neue Rechte von Mohler bis Kubitschek und findet in der „Let Them Theory“ Entsolidarisierung als Lebensrat."
 aktualisiert: 2026-04-25
 date: 2025-09-20
 tags:

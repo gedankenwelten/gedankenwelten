@@ -65,11 +65,14 @@ Wesche arbeitet in der Tradition der Frankfurter Schule (Adorno, Horkheimer, Hab
 
 ## Verbindungen zu anderen Denkern
 
-- **Adorno & Horkheimer** — Dialektik der Aufklärung: Wesche zeigt, wie ihre Kritik der instrumentellen Vernunft auch für die Naturzerstörung gilt.
-- **Karl Marx** — Werks-Theorie und Entfremdung: Wesche verbindet Marxsche Ausbeutungskritik mit ökologischer Perspektive.
-- **Michel Foucault** — Gouvernementalität: Eigentumsrechte sind Machtformate, nicht neutrale Rechtskonstrukte.
-- **Eva von Redecker** — Faschismus und Eigentum: Parallele Kritik der modernen "Eigentumslogik" als strukturelle Gewalt.
-- **Hartmut Rosa** — Resonanz und Unverfügbarkeit: Beide suchen nach nicht-instrumentellen Verhältnissen zur Natur.
+- [[DenkerVita/Eva von Redecker]] — Beide setzen am selben Punkt des modernen Eigentums an, am Recht, mit einer Sache alles zu machen, bis zu ihrer Zerstörung. Redecker sieht in diesem Verfügen den Kern des Phantombesitzes, den der Faschismus verteidigt. Wesche wendet die Logik, statt sie zu verwerfen: Wem der Wald nicht gehört, der darf ihn nutzen wie ein Bibliotheksbuch, aber nicht verbrennen.
+- [[DenkerVita/Kojin Karatani]] — Karatanis Tauschweisen geben Wesches Kolonialbefund eine Struktur: Gemeinschaftliches, nicht kodifiziertes Eigentum galt als herrenlos, weil eine Ordnung des Warentauschs ihren eigenen Rahmen für universal erklärte.
+- [[DenkerVita/Theodor W. Adorno]] — Wesche schrieb eine Einführung in Adorno und liest die *Dialektik der Aufklärung* als Geschichte eines Naturverhältnisses: Die Vernunft, die die Natur beherrscht, um frei zu werden, zerstört sie dabei. Adorno verweigerte jedes positive Programm; Wesche sucht den Rechtsweg und macht die Natur zur Eigentümerin.
+- [[DenkerVita/Hartmut Rosa]] — Rosa fragt mit *Nach dem Privateigentum?* ebenfalls nach dem Eigentum, sein Maßstab bleibt aber das Weltverhältnis: eine Welt, die antworten darf, statt Verfügungsmasse zu sein. Wesche gibt dieser Unverfügbarkeit eine Rechtsform.
+- [[DenkerVita/Martyna Linartas]] — Linartas zeigt am Erbe, wie zugeteiltes Eigentum als Verdienst erzählt wird, Wesche zeigt es am Kolonialrecht. Beide treffen den Satz, das sei schon immer so gewesen, und seine Funktion: Was als natürlich gilt, muss nicht begründet werden.
+- [[DenkerVita/Sven Beckert]] — Beckert nennt den Landraub ein Fundament des Kriegskapitalismus, erklärt aber nicht, wie er legal wurde. Wesche liefert das juristische Getriebe dazu: Gemeinschaftlich genutztes Land wurde als Abwesenheit von Eigentum gelesen und damit aneigenbar.
+- [[DenkerVita/Vandana Shiva]] — Der Kampfplatz zur Theorie: Saatgut als Gemeingut gegen die Patentierung des Lebendigen. Was beim Land *terra nullius* hieß, kehrt bei Shiva als Biopiraterie wieder.
+- [[DenkerVita/Frauke Fischer]] — Die Gegenstimme am selben Problem. Fischer will die Natur nicht ins Recht setzen, sondern in die Bilanz, und sucht Stellen, an denen ihr Schutz mit einem wirtschaftlichen Interesse zusammenfällt: Der Walhai wird geschützt, weil die Reederei am Schiffsschaden spart. Am nächsten kommen sich beide dort, wo für einen gemessenen Zustand der Natur gezahlt wird statt für ein Versprechen.
 
 ## Gedankenwelten-Notes
 

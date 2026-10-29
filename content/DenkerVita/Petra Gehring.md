@@ -61,7 +61,13 @@ Ihren breitesten öffentlichen Resonanzboden findet sie mit dem digitalen Euro: 
 
 ## Verbindungen zu anderen Denkern
 
-*[Montaigne folgt]*
+- [[DenkerVita/Sebastian Giessmann|Sebastian Gießmann]] — Ihr Partner auf der re:publica-Bühne, 2025 und 2026. Er liefert die Geschichte zu ihrer These, dass Zahlungssysteme politische Entscheidungen sind: Euroscheck, EC-Karte und Eurocard waren schon einmal europäische Wege, bis Mastercard 2003 die Eurocard übernahm. Souveränität, die man aufgebaut hat, muss man auch halten.
+- [[DenkerVita/Francesca Bria]] — Bria beschreibt, wie private US-Konzerne staatliche Kernfunktionen übernehmen und öffentliches Zentralbankgeld durch private Krypto-Infrastruktur verdrängt werden soll. Gehring sieht denselben Mechanismus im europäischen Zahlungsraum, und beide antworten mit öffentlicher Infrastruktur unter demokratischer Kontrolle: Souveränität als Verfügungsgewalt, nicht als Autarkie.
+- [[DenkerVita/Nicole Buettner|Nicole Büttner]] — Die Gegenstimme von derselben re:publica 26: Europas Souveränität entsteht für Büttner über Gründer, Kapital und Wettbewerb. Gehrings Befund hält dagegen, dass auch privat gebaute europäische Infrastruktur gekauft werden kann und dass Geschäftsbanken heute ihre Vetopositionen gegen den digitalen Euro ausbauen.
+- [[DenkerVita/Frederike Kaltheuner]] — Kaltheuners „fataler Fehler“ Europas, die Interessen europäischer Firmen für die strategischen Interessen Europas zu halten, lässt sich am digitalen Euro besichtigen: Die Banken bringen mit Wero eine eigene App in Stellung, die nach Gehring und Gießmann vor allem das stärkste Argument für das öffentliche Geld abräumt.
+- [[DenkerVita/Lacina Kone|Lacina Koné]] — Das Gegenbild zum europäischen Abhängigkeitsbefund: Afrikas Mobile Money hat die Kartennetze übersprungen. Koné will Souveränität über Allianzen, Handelsprotokolle und eigene Regeln verhandeln, Gehring über die Architektur eines öffentlichen Geldes; beide fragen, wem die Schienen gehören, auf denen Daten und Zahlungen laufen.
+- [[DenkerVita/Michel Foucault]] — Gehring kommt aus der Foucault-Forschung, und ihr heutiger Satz, Verantwortung sei implementierbar, lässt sich als dessen Machtanalyse lesen, ins Konstruktive gewendet: Wenn Macht in Anordnungen steckt statt in Befehlen, dann lässt sich auch Schutz in Anordnungen bauen, in Haltelimit, Offline-Fähigkeit und Datenschutz-Architektur.
+- [[DenkerVita/Yanis Varoufakis]] — Varoufakis nennt die herrschende Ökonomie eine Religion mit Gleichungen, deren Grundannahmen nie zur Debatte stehen. Beim digitalen Euro zeigt sich das als Fachsprache aus Haltelimits und Schnittstellen, in der die Finanzlobby nach Zählung von Finanzwende 58 Kontakte zum Berichterstatter des Europaparlaments hatte, die Zivilgesellschaft einen.
 
 ---
 

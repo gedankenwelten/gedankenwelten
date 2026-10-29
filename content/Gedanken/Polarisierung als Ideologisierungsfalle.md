@@ -1,5 +1,6 @@
 ---
 title: Polarisierung als Ideologisierungsfalle
+description: "Sobald eine Überzeugung zur Identität wird, verteidigt man nicht mehr ein Argument, sondern sich selbst. Polarisierung zwingt beide Seiten in diese Falle und nimmt den Pragmatismus mit."
 date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:

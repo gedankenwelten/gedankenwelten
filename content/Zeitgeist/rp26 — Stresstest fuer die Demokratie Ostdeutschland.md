@@ -1,5 +1,6 @@
 ---
 title: "rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?"
+description: "Was, wenn die AfD in einem ostdeutschen Land regiert? Ein Panel prüft, was dann noch hält, und beginnt bei den Vorurteilen des Westens, die das Problem verschärfen."
 aktualisiert: 2026-05-25
 date: 25.05.2026
 tags:

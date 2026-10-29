@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb"
+description: "Für Max Blumenthal hat Israel Trump über Jahre in den Iran-Krieg gedrängt, mit Spendern, Beratern und Angst. Belegtes und Spekulatives liegen dicht beieinander; der Faktencheck trennt sie."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

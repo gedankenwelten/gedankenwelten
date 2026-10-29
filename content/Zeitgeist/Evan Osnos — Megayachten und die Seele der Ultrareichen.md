@@ -1,5 +1,6 @@
 ---
 title: "Evan Osnos — Megayachten und die Seele der Ultrareichen"
+description: "Mark Zuckerberg lebt seit seinem 18. Lebensjahr in einer Welt, die er selbst gebaut hat. Evan Osnos über Ultrareiche ohne Reibung, die wissen, wohin Ungleichheit führt, und Bunker bauen."
 aktualisiert: 2026-04-21
 date: 2026-04-21
 tags:

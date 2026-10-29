@@ -1,6 +1,7 @@
 ---
 date: 2026-04-01
 title: "Koschi Politik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika"
+description: "Insiderwetten vor dem Kriegsstopp, ein Shutdown, den Trump selbst verlängerte, Hegseth als Sündenbock: Koschi zeigt, wie Verantwortung in Trumps Amerika weitergereicht wird."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

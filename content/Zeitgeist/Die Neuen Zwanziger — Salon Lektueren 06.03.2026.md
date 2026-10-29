@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren 06.03.2026"
+description: "Wir wissen, was los ist, und handeln, als wüssten wir nichts: Der Lektüre-Salon vom März 2026 mit Zupančič' Verleugnung, einem verrissenen Influencerinnen-Geschichtsbuch und dem Irankrieg."
 aktualisiert: 2026-04-25
 date: 2026-04-25
 tags:

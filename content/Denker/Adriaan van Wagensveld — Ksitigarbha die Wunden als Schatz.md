@@ -1,5 +1,6 @@
 ---
 title: "Adriaan van Wagensveld — Ksitigarbha: Die Wunden als Schatz"
+description: "Was jetzt deine Wunde ist, wird dein größter Schatz. Adriaan van Wagensveld erzählt von Ksitigarbha, dem Bodhisattva, der in die Hölle zurückkehrt, statt sie zu verlassen."
 aktualisiert: 2026-04-19
 date: 19.04.2026
 tags:

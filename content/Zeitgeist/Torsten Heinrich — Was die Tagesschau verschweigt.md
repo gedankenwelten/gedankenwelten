@@ -1,5 +1,6 @@
 ---
 title: "Torsten Heinrich — Was dir die Tagesschau verschweigt"
+description: "Neutralität hält Torsten Heinrich für eine Lüge, Objektivität nicht. Ein langes Gespräch über Quellenkritik, Völkerrecht in der Ukraine und in Gaza – und seinen Weg von der AfD nach Panama."
 aktualisiert: 2026-04-25
 date: 2026-04-25
 tags:

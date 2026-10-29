@@ -1,6 +1,7 @@
 ---
 date: 2026-03-30
 title: "Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle"
+description: "Für Adam Tooze ist der Streit zwischen Pentagon und Anthropic eine Umkehrung: Der Staat bändigt das Unternehmen nicht, er bestraft es, weil es sich zwei Grenzen für seine KI setzt."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

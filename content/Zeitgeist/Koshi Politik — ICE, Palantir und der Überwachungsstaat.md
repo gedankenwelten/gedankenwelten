@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — ICE, Palantir und der Überwachungsstaat"
+description: "Ein Foto mit dem Handy genügt, und ICE kennt Aufenthaltsstatus und Lebensdaten. Koschi zeigt, wie die Behörde mit Gesichtserkennung, falschen Funkmasten und gekauften Standortdaten überwacht."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

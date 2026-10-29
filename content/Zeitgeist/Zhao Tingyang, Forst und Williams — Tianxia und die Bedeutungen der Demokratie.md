@@ -1,5 +1,6 @@
 ---
 title: "Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie"
+description: "Das Individuum ist für Zhao Tingyang eine Fiktion, der Ausgangspunkt der Politik muss die Welt sein. Rainer Forst hält mit einem anderen Universalismus dagegen."
 aktualisiert: 2026-05-16
 date: 16.05.2026
 tags:

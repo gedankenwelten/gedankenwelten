@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit"
+description: "Nur sechs Prozent unseres Öls kommen aus Nahost, und doch explodieren die Preise. Volker Quaschning prüft die schnellen Rezepte gegen teuren Sprit und nennt die Abhängigkeit das Problem."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

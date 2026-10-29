@@ -73,8 +73,6 @@ Inon steht in der Tradition der israelischen Friedens- und Koexistenzbewegung (n
 
 - **[[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]]** — sein palästinensischer Partner. Beide verloren nahe Angehörige durch den Konflikt (Inon seine Eltern am 7. Oktober, Abu Sarah seinen Bruder Tayseer) und entschieden sich gemeinsam gegen Rache. Zusammen Co-CEOs von InterAct International, Co-Autoren von *The Future Is Peace* und Stimmen des TED-Talks „A Palestinian and an Israeli, Face to Face".
 
-*Wird via Cross-Linking befüllt.*
-
 ## Gedankenwelten-Notes
 
 - [[Inon und Abu Sarah - The Future is Peace]]

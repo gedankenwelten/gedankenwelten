@@ -1,5 +1,6 @@
 ---
 title: "Adriaan van Wagensveld — Weniger Drama: Wie Vipassana dich ins Handeln bringt"
+description: "Der Buddha lehrte den direkten Weg auf dem Marktplatz, vor Laien. Adriaan van Wagensveld: Vipassana dämpft erst das Drama, dann holt es dich aus der stabilen Seitenlage ins Handeln."
 aktualisiert: 2026-04-29
 date: 2024-05-20
 tags:

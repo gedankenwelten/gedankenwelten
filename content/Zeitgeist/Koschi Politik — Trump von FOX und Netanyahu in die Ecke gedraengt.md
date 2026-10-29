@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedrängt"
+description: "Fox Business übt die schärfste Wirtschaftskritik, Netanyahu drängt Trump bei „60 Minutes“ in die Enge. Koschi über einen Präsidenten, der mit 35 Prozent Zustimmung handelt, als hätte er Rückhalt."
 aktualisiert: 2026-05-11
 date: 11.05.2026
 tags:

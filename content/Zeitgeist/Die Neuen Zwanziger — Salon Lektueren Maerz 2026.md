@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren März 2026"
+description: "Für Peter Sloterdijk sind Trump, Putin und Modi Erben der Fürsten, hervorgebracht von der Demokratie selbst. Das stärkere Buch findet der Salon bei Adrian Daub, der ins Silicon Valley hinabsteigt."
 aktualisiert: 2026-04-25
 date: 2026-04-09
 tags:
@@ -120,7 +121,7 @@ Ein kurzer, poetischer Roman über die letzte Begegnung mit einem 90-jährigen M
 Die NYT-Recherche rekonstruiert drei Situation-Room-Sitzungen. Stefan und Wolfgang lesen den Text als Bestätigung von Sloterdijks These — **die Banalität des Großen in Echtzeit**:
 
 - **11. Februar**: Netanyahu präsentiert einen Vier-Punkte-Plan. Trump sitzt nicht am Kopfende, sondern mittendrin — „als hätte er damit jetzt gar nichts zu tun." Der Mossad-Chef ist per Video zugeschaltet. Wirtschafts- und Finanzminister fehlen.
-- **12. Februar**: Die „Realitätsprüfung". Der neue Joint-Chiefs-Vorsitzende Dan Kane berät, fällt aber keine eigenen Urteile — anders als sein Vorgänger Mark Milley, der Lenin gelesen hatte, um den Feind zu verstehen. Kane sagt im Wesentlichen: „Wir haben keine Munitionserschöpfung zu erwarten." Für Trump heißt das: Wir können unbegrenzt bombardieren.
+- **12. Februar**: Die „Realitätsprüfung". Der neue Joint-Chiefs-Vorsitzende Dan Caine berät, fällt aber keine eigenen Urteile — anders als sein Vorgänger Mark Milley, der Lenin gelesen hatte, um den Feind zu verstehen. Kane sagt im Wesentlichen: „Wir haben keine Munitionserschöpfung zu erwarten." Für Trump heißt das: Wir können unbegrenzt bombardieren.
 - **26. Februar**: Der Angriffsbefehl. J.D. Vance als Muster der Loyalitätsfalle: Erst „Das ist ein Desaster", dann „wenn schon, dann begrenzt", schließlich „wenn schon Großkampagne, dann mit überwältigender Wucht." — „Inhalte second, Loyalität first." [▶ 228:50] Trump, 22 Minuten vor der Deadline: „Operation Epicuree ist bewilligt. Keine Abbrüche, viel Glück."
 
 Stefan fasst zusammen: „Das ist einfach nur Loyalitätsscheiße. Alle fühlen sich geil darin, den Präsidenten zu unterstützen. Militärs fanden quasi nicht statt. Das ist die Banalität des Großen." [▶ 231:53]

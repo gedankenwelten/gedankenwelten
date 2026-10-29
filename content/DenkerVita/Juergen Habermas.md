@@ -21,7 +21,7 @@ tags: [denker-vita, philosophie, kritische-theorie, sprache, demokratie, deutsch
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Jürgen Habermas** (*18. Juni 1929, Düsseldorf*) — der letzte große Geschichtsphilosoph der Neuzeit und bedeutendste lebende Philosoph der deutschen Tradition. Als Student und Assistent Theodor W. Adornos am Frankfurter Institut für Sozialforschung beginnt er in der Kritischen Theorie, entwirft aber eine fundamental andere Antwort: Statt am Verblendungszusammenhang zu verzweifeln, entdeckt er die Emanzipationskraft in der Sprache selbst.
+> **Jürgen Habermas** (*18. Juni 1929, Düsseldorf; † 14. März 2026, Starnberg*) — der letzte große Geschichtsphilosoph der Neuzeit und der prägende Philosoph der deutschen Nachkriegszeit. Als Student und Assistent Theodor W. Adornos am Frankfurter Institut für Sozialforschung beginnt er in der Kritischen Theorie, entwirft aber eine fundamental andere Antwort: Statt am Verblendungszusammenhang zu verzweifeln, entdeckt er die Emanzipationskraft in der Sprache selbst.
 >
 > Sein Hauptwerk *Theorie des kommunikativen Handelns* (1981) wurde in über 43 Sprachen übersetzt. Habermas hat den gesamten Stand der Sozialphilosophie, Sprachphilosophie, Psychoanalyse und Soziologie seiner Epoche in ein eigenes System integriert — und dabei einen genuinen Kerngedanken entwickelt: In der Struktur unserer Sprache ist die Tendenz zur universalen Verständigung bereits angelegt.
 >
@@ -35,7 +35,7 @@ Habermas kommt als Sohn eines protestantischen Geschäftsleiters in Düsseldorf 
 
 Er studiert in Göttingen, Zürich und Bonn — Philosophie, Geschichte, Psychologie. 1954 promoviert er über Schelling. Der entscheidende Wechsel: Er geht als Assistent zu Adorno nach Frankfurt. Dort wird er Teil der Kritischen Theorie — aber er wird nie ihr Pessimist. Wo Adorno die Aufklärung als gescheitert betrachtet, sucht Habermas nach dem, was in ihr noch nicht eingelöst ist.
 
-Der erste Skandal kommt früh: 1957 veröffentlicht er eine Rezension von Heideggers *Einführung in die Metaphysik* und weist nach, dass Heidegger für die NS-Ausgabe von 1953 belastende Passagen nicht korrigiert hat. Horkheimer ist entsetzt — zu direkt, zu politisch. Habermas verlässt das Institut.
+Der erste Skandal kommt noch vor Frankfurt: 1953 schreibt der junge Journalist in der FAZ („Mit Heidegger gegen Heidegger denken“) über Heideggers *Einführung in die Metaphysik*. Die Vorlesung von 1935 erschien 1953 unverändert, mit dem Satz von der „inneren Wahrheit und Größe“ der NS-Bewegung, und Heidegger schwieg dazu. Am Institut kommt es später zum Bruch mit Horkheimer, dem Habermas' Marx-Literaturbericht von 1957 zu politisch ist; Habermas habilitiert sich darum bei Wolfgang Abendroth in Marburg.
 
 Sein Habilitationsprojekt *Strukturwandel der Öffentlichkeit* (1962) wird ein Grundlagenwerk: Wie entsteht demokratische Öffentlichkeit? Wie wird sie von Kapital und Medien korrumpiert? Das Buch erscheint auf Englisch erst 1989 — und wird sofort zum internationalen Klassiker.
 
@@ -43,7 +43,7 @@ In den 1980ern: Der *Historikerstreit*. Habermas greift konservative Historiker 
 
 2003: Brief gegen den Irak-Krieg. Gemeinsam mit Derrida schreibt er einen vielbeachteten Appell für eine europäische Außenpolitik — gegen die Hegemonialpolitik der USA. Habermas als politischer Denker, der nicht im Elfenbeinturm bleibt.
 
-Er lebt heute in Starnberg, publiziert bis ins hohe Alter. Mit 93 erscheint *Auch eine Geschichte der Philosophie* (2019) — 1700 Seiten über die Entstehung nachmetaphysischen Denkens.
+Er lebte zuletzt in Starnberg und publizierte bis ins hohe Alter. Mit 90 erschien *Auch eine Geschichte der Philosophie* (2019) — 1700 Seiten über die Entstehung nachmetaphysischen Denkens. Am 14. März 2026 starb er in Starnberg, 96 Jahre alt ([Max-Planck-Gesellschaft](https://www.mpg.de/26269576/juergen-habermas?c=2191)).
 
 ---
 
@@ -98,9 +98,14 @@ Im *Historikerstreit* (1986) verteidigt er die kritische Auseinandersetzung mit 
 
 ## Verbindungen zu anderen Denkern
 
-*Montaigne befüllt diesen Abschnitt.*
-
 - [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]] — Zwei Tage nach Habermas' Tod setzte Heitmeyer seine Plattform-Kritik bei dessen später Ratlosigkeit über den Zerfall der einen Öffentlichkeit an. Die Kolonialisierung der Lebenswelt ist die ältere Gestalt dessen, was er Ökonomisierung des Sozialen nennt.
+- [[DenkerVita/Theodor W. Adorno]] — Sein Lehrer in Frankfurt, dessen Befund er teilte und dessen Verzweiflung er nicht übernahm. Wo Adorno die Vernunft selbst als Werkzeug der Herrschaft las, suchte Habermas den Teil der Aufklärung, der noch nicht eingelöst ist, und fand ihn in den Geltungsansprüchen, die jeder erhebt, der spricht.
+- [[DenkerVita/Niklas Luhmann]] — Der große Streit der deutschen Gesellschaftstheorie, 1971 als gemeinsames Buch ausgetragen, *Theorie der Gesellschaft oder Sozialtechnologie*. Für Habermas liegt in der Sprache eine Vernunft, an der sich Recht und Politik messen lassen müssen; für Luhmann ist auch die Unterstellung des herrschaftsfreien Diskurses nur eine Operation eines Systems, mit eigenen blinden Flecken.
+- [[DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]] — Die stärkste Gegenstimme aus Frankreich. Habermas verteidigte 1980 in seiner Adorno-Preis-Rede die Moderne als „unvollendetes Projekt“, Lyotard antwortete zwei Jahre später mit seiner Bestimmung des Postmodernen. Gegen die universalen Geltungsansprüche setzt er Sprachspiele ohne Schiedsrichter und den Widerstreit, in dem jedes Urteil eine Seite unerhört lässt.
+- [[DenkerVita/Andreas Reckwitz]] — Reckwitz' ausdrückliche Gegenfigur: Den Sperrklinkeneffekt, nach dem Errungenschaften nicht mechanisch zurückgedreht werden, nennt er naiv und setzt das Erbe dagegen, das man verspielen kann. Zur Genauigkeit gehört, dass Habermas die Sperrklinke auf Einsichten bezog und nicht auf Institutionen, und den Rückschritt gerade darum für möglich hielt.
+- [[DenkerVita/Robin Celikates]] — Von Habermas stammen die beiden Begriffe, mit denen Celikates arbeitet: der Grundwiderspruch der bürgerlichen Öffentlichkeit aus dem *Strukturwandel* und die Spannung von Legalität und Legitimität, die Habermas 1983 am zivilen Ungehorsam als „Testfall für den demokratischen Rechtsstaat“ entwickelte. Celikates radikalisiert beides zu einer Demokratisierung von unten.
+- [[DenkerVita/Ardalan Ibrahim]] — Ibrahims erklärter Gegner, und doch näher, als ihm lieb sein kann: Seine gelosten, ständig neu gemischten Kleingruppen stellen die Gleichheit her, die der herrschaftsfreie Diskurs voraussetzt. Getrennt sind sie bei der Öffentlichkeit, die Habermas zur Bedingung legitimer Entscheidungen macht und Ibrahim durch geheime Beratung ersetzt.
+- [[DenkerVita/Carsten Brosda]] — Brosdas Dissertation steht auf der Diskurstheorie, und in Lüneburg begründet er die Demokratie mit Habermas' kontrafaktischer Unterstellung: Wir unterstellen Verständigung, obwohl sie nicht gesichert ist, weil die Alternative Faustkampf oder Schweigen hieße. Habermas liefert die Theorie, Brosda versucht sie in Medienstaatsverträge und Stadtteilzentren zu übersetzen.
 
 ---
 

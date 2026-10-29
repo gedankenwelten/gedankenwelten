@@ -1,5 +1,6 @@
 ---
 title: "Tilo Jung — Erben, Wirtschaft, AfD-Strategie"
+description: "Wem gehört der Mehrwert, dem Gründer, der alles riskiert, oder denen, die ihn erarbeiten? Tilo Jung und der Unternehmer Tim Gabel streiten über Erbe, Eigentum und die Strategie der AfD."
 aktualisiert: 2026-04-25
 date: 2026-04-19
 tags:

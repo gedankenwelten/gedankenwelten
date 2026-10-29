@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Mario Buchinger — Lügen der Kernenergie (2/6): Kernenergie und Erneuerbare"
+description: "Ein Kraftwerk, das sich kaum regeln lässt, passt schlecht zu Wind und Sonne, die schwanken. Mario Buchinger zeigt, warum selbst der RWE-Chef das sagt – und warum das Grundlastdenken endet."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

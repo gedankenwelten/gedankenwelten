@@ -1,5 +1,6 @@
 ---
 title: "Politik — Verstehen"
+description: "Je mehr Politik man konsumiert, desto weniger versteht man. Das Panorama liest sie als Machtsystem und lehrt eine andere Frage an jeden Satz: Wem nützt das, und was fehlt in dieser Geschichte?"
 date: 2026-05-17
 aktualisiert: 2026-05-17
 tags:

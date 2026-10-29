@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Descartes in 60 Minuten"
+description: "Alles lässt sich bezweifeln, nur nicht, dass ich zweifle. Walther Ziegler erzählt Descartes als Kolumbus des Denkens und macht seinen methodischen Zweifel zum Werkzeug für die Gegenwart."
 aktualisiert: 2026-04-26
 date: 26.04.2026
 tags:

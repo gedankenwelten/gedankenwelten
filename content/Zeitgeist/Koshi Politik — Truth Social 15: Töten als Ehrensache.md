@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Truth Social 15: Töten als Ehrensache"
+description: "Ein US-Präsident schreibt, es sei eine „Ehre“, Menschen zu töten – ohne Ziel, ohne Diplomatie. Die Note liest den Post als Dokument einer Härte, die zum Selbstzweck wird."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Marx in 60 Minuten"
+description: "Erst kommt das Essen, dann das Denken. Walther Ziegler erklärt Marx: wie das Sein das Bewusstsein bestimmt, wo der Mehrwert entsteht und warum Konzentration bis heute aktuell ist."
 aktualisiert: 2026-04-26
 date: 01.04.2023
 tags:

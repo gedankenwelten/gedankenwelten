@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — ICE bestiehlt Immigranten"
+description: "Wer von ICE irrtümlich festgehalten wird, bekommt bei der Freilassung oft seine Sachen nicht zurück, Green Card inklusive. Koschi über die Folgen, während der DHS-Shutdown die Flughäfen lähmt."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

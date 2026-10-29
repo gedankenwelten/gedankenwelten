@@ -1,6 +1,7 @@
 ---
 date: 2026-03-25
 title: "Staiy — News: Krasser Machtmissbrauch von CDU/CSU (25.03.2026)"
+description: "Fachlich förderungswürdig, dann per Weisung ohne Begründung gestoppt: Staiy zeigt, wie ein Projekt gegen Extremismus sein Geld verlor, nachdem die Gründerin Merz kritisiert hatte."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

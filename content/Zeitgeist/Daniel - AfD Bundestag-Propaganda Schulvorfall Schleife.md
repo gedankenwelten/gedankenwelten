@@ -1,5 +1,6 @@
 ---
 title: "Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife"
+description: "Eine Projektwoche zum Thema Mut an einer Schule in Schleife, längst aufgearbeitet, wird im Bundestag zum Skandal. Daniel zeigt, wie die AfD aus einem kleinen Vorfall eine Moralpanik gegen NGOs baut."
 aktualisiert: 2026-04-24
 date: 2026-04-23
 tags:

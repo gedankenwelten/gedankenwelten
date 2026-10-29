@@ -1,5 +1,6 @@
 ---
 title: "Die Wurzel verstehen — Politik jenseits des Konsums"
+description: "Wer nur die Blätter der Politik sammelt, wird unruhig statt klüger. Wer Stamm und Wurzel kennt – wie Macht spricht und was uns empfänglich macht –, muss nicht jedem Ast folgen."
 aktualisiert: 2026-05-17
 date: 2026-05-17
 tags:

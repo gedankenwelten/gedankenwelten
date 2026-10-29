@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02
 title: "Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie"
+description: "Wer Angst hat, ersetzt zu werden, fürchtet keine weißen Einwanderer. Für Ibram X. Kendi geht es bei der Great Replacement Theory um Rasse, und sie ebnet den Weg zur Wahlautokratie."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

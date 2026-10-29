@@ -1,5 +1,6 @@
 ---
 title: "Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?"
+description: "Vom „Schwachkopf“-Post bis „From the River to the Sea“: Die taz-Runde fragt, wo Meinungsfreiheit eng wird, und hält Strafrecht für das falsche Mittel gegen einen Diskurs, den Algorithmen verwildern."
 aktualisiert: 2026-06-02
 date: 02.06.2026
 tags:

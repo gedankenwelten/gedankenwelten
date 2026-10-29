@@ -1,5 +1,6 @@
 ---
 title: "Alex Demirović und Isabell Lorey — Foucaults Gouvernementalität"
+description: "Für Foucault hat der Staat kein Wesen, er ist der Effekt einer Regierungskunst. Alex Demirović und Isabell Lorey lesen mit ihm den Neoliberalismus: eine Macht, die über die Freiheit regiert."
 aktualisiert: 2026-04-30
 date: 2025-07-10
 tags:

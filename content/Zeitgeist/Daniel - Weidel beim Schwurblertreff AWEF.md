@@ -1,5 +1,6 @@
 ---
 title: "Daniel - Weidel beim Schwurblertreff AWEF"
+description: "Unter Gleichgesinnten spricht Alice Weidel offener als im Fernsehen. Daniel legt ihre Thesen vom Prager Gegenforum zu Davos neben die Zahlen: Insolvenzen, EU-Recht, CO2-Preise."
 aktualisiert: 2026-04-27
 date: 2026-04-27
 tags:

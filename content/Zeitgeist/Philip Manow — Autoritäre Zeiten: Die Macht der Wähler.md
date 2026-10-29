@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02
 title: "Philip Manow — Autoritäre Zeiten: Die Macht der Wähler"
+description: "Für Philip Manow ist Protestwahl ein Signal, kein Defekt: Wer Macht an EU und Märkte abgibt, lässt den Wählern kaum Wahl. „Autoritär“ hält er für ein Etikett, das mehr verdeckt als erklärt."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

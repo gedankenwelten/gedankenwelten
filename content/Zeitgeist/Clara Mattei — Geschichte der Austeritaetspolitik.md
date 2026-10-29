@@ -1,5 +1,6 @@
 ---
 title: "Clara Mattei — Geschichte der Austeritätspolitik"
+description: "Für Clara Mattei funktioniert Austerität genau so, wie sie gedacht war: Nach 1918 gegen Fabrikräte und Streiks erfunden, hält sie Arbeitende diszipliniert und die Ordnung stabil."
 aktualisiert: 2026-04-25
 date: 2026-04-25
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Gilda Sahebi und Arne Semsrott — GCA #35: Die Selbstzerstörung der Sozialdemokratie"
+description: "Labour verlor Sitze an Reform UK, die Wähler aber gingen eher zu Grünen und Liberalen. Gilda Sahebi und Arne Semsrott über eine Sozialdemokratie, die einem Fehlschluss folgt und nach rechts rückt."
 aktualisiert: 2026-05-28
 date: 27.05.2026
 tags:

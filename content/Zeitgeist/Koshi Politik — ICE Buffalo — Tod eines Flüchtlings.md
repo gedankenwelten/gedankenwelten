@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — ICE Buffalo — Tod eines Flüchtlings"
+description: "Fast blind, ohne Englisch, bei minus 15 Grad acht Kilometer von zu Hause abgesetzt: Nurul Alam, ein Flüchtling aus Myanmar, starb in Buffalo. Koschi, der dort lebt, erzählt seinen Fall."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

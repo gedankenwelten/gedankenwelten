@@ -80,6 +80,14 @@ Dahlmann argumentiert als wissenschaftliche Politikberaterin aus der Friedens- u
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Catrin Misselhorn]] — Dasselbe Ziel, eine andere Härte. Misselhorns zweiter Grundsatz sagt, Maschinen sollen nicht über Leben und Tod entscheiden, eine klare Absage an autonome Waffen; Dahlmann hält ein Verbot für Wunschdenken und setzt auf menschliche Kontrolle über die Gewaltentscheidung. Misselhorn liefert die Begründung, warum diese Kontrolle mehr sein muss als ein Knopf: Jede Tötung braucht jemanden, der sie verantwortet.
+- [[DenkerVita/Konstantin Kuhle]] — Ihr Gegenüber auf der re:publica 26. Kuhle bringt die demokratische Seite der Hemmschwelle ein: Wer tritt zurück, wenn kein Mensch mehr entschieden hat? Er hält auch dagegen, für den, der sich verteidigt, sei es kein Rückschritt, wenn Technik die eigenen Verluste senkt. Auf die Titelfrage antworten am Ende beide mit „eher ja"; uneins bleiben sie, wie weit Europas Rüstungs-KI sich von US-Investoren lösen lässt.
+- [[DenkerVita/Markus Reisner]] — Reisner beschreibt das Schlachtfeld, für das Dahlmanns Regeln gelten müssten: FPV-Drohnen für einige hundert Euro zerstören Panzer für Millionen, und wer sich nicht anpasst, verliert. Er argumentiert aus der militärischen Lage, zur Regulierung sagt seine Vita nichts. Wer ihn liest, versteht den Anpassungsdruck, der ein Verbot so schwer erreichbar macht.
+- [[DenkerVita/Herfried Münkler]] — Münklers postheroische Gesellschaft denkt in Tausch statt Opfer und trägt eigene Tote schwer. Eine Waffe, die ohne eigene Soldaten kämpft, kommt ihr entgegen, und darin liegt Dahlmanns Sorge, KI senke mit den Kosten die Schwelle zum Krieg. Münkler setzt die unbequeme Grenze dazu: Militärtechnik gleicht den fehlenden Opferwillen nicht aus.
+- [[DenkerVita/Jan van Aken]] — Van Aken war UN-Biowaffeninspekteur und kennt Rüstungskontrolle als Handwerk der Verifikation. Er kommt aus dem Feld, in dem es ein vollständiges Verbot gibt; Dahlmann hält ein solches für autonome Waffen für unrealistisch. Zwischen beiden steht die Frage, ob sich Software überhaupt so inspizieren lässt wie ein Labor.
+- [[DenkerVita/Wolfgang Huber]] — Hubers Satz „Maschinen assistieren, Menschen verantworten" ist die ethische Fassung von „meaningful human control". Weil er rechtserhaltende Gewalt für möglich hält, etwa die Unterstützung der Ukraine, fragt er wie Dahlmann nicht, ob Gewalt verschwindet, sondern wie sie an Recht und an eine verantwortliche Person gebunden bleibt.
+- [[DenkerVita/Achille Mbembe]] — Mbembe nennt die Macht, über den Tod zu verfügen, Nekropolitik und sieht in Drohnen und algorithmischer Sortierung eine Herrschaft, die Gewalt rationalisiert. Er schreibt von außerhalb der Verhandlungsräume, Dahlmann arbeitet in ihnen, an Normen, denen Staaten zustimmen können. Ihre feministische Frage, wessen Verletzlichkeit zählt, liegt nah an seiner.
+
 ---
 
 ## Gedankenwelten-Notes

@@ -1,5 +1,6 @@
 ---
 title: "Martyna Linartas — Unverdiente Ungleichheit"
+description: "Was man besitzt, hängt in Deutschland mehr vom Erbe ab als von der Leistung. Martyna Linartas zeigt, wie Vermögensungleichheit zur Frage der Demokratie wird, und schlägt ein Grunderbe vor."
 date: 2026-04-20
 aktualisiert: 2026-10-11
 tags:

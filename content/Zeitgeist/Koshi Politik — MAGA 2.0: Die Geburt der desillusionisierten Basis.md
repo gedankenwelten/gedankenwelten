@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis"
+description: "Treu der Botschaft, nicht mehr dem Mann: Für Koschi entsteht mit dem Iran-Krieg „MAGA 2.0“ – Anhänger, die in Trump den Kriegsherrn erkennen, den er abschaffen wollte."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

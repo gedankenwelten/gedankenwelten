@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Annette Kehnel — Vom Mittelalter für die Zukunft lernen"
+description: "Für Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die den Bodensee 500 Jahre lang nicht leerfischten, und von Städten, die Frauen selbst verwalteten."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Michael Sterner — Energiewende-Studie und Reiche-Blockade"
+description: "Erneuerbare könnten die Wertschöpfung auf dem Land verdoppeln, sagt eine Studie, die das Ministerium verschwieg. Michael Sterner zeigt, wie vier Gesetze Katharina Reiches die Wende bremsen."
 aktualisiert: 2026-05-05
 date: 05.05.2026
 tags:

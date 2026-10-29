@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Die drei Musketiere: Miller, Hegseth und Trump"
+description: "„Eine Bedrohung durch Iran hat nie existiert“, sagt die Sprecherin des Weißen Hauses, während Miller die Vernichtung feiert. Koschi legt die Widersprüche der Kriegsbegründung nebeneinander."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

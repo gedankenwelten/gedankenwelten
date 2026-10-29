@@ -1,5 +1,6 @@
 ---
 title: "Liya Yu — Der neuropolitische Gesellschaftsvertrag"
+description: "Dehumanisierung ist kein Versagen, sondern eine Fähigkeit des Gehirns. Liya Yu denkt den Gesellschaftsvertrag von Hobbes her neu: Wer Demokratie will, muss mit dieser Fähigkeit rechnen."
 date: 2026-04-29
 aktualisiert: 2026-04-29
 tags:

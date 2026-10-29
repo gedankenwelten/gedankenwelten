@@ -1,5 +1,6 @@
 ---
 title: "BissenBlaBla — Bilanz rechter Regierungen"
+description: "Zehn rechte Regierungen, gemessen nur an ihren eigenen Versprechen. Das Muster: Erst trifft es Justiz und Presse, dann tritt kulturelle Signalpolitik an die Stelle des versprochenen Aufschwungs."
 aktualisiert: 2026-05-19
 date: 18.05.2026
 tags:

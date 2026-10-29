@@ -1,5 +1,6 @@
 ---
 title: "Bewusstsein"
+description: "Warum tut es weh, wenn man auf einen Nagel tritt, statt nur zu zucken? Eine Karte der Lager und Theorien zum Bewusstsein – von Materialismus bis Buddhismus, mit offenem Ausgang."
 aktualisiert: 2026-05-07
 date: 2026-05-06
 tags:

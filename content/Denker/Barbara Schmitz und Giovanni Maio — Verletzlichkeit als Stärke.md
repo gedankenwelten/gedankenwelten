@@ -1,5 +1,6 @@
 ---
 title: "Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke"
+description: "Die Achillesferse ist die Stelle, an der die Mutter ihr Kind hielt. Giovanni Maio und Barbara Schmitz lesen Verletzlichkeit als Offenheit, aus der Beziehung, Sorge und Zärtlichkeit erst wachsen."
 aktualisiert: 2026-04-15
 date: 12.04.2026
 tags:

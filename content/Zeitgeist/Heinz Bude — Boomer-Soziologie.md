@@ -1,5 +1,6 @@
 ---
 title: "Heinz Bude — Brauchen wir eine Boomer-Soziologie?"
+description: "Die Boomer wuchsen im Nachbeben des Weltkriegs auf, bei Eltern, die beschwiegen, was man voneinander wusste. Heinz Bude, selbst Boomer, über die Erfahrungen und Zäsuren seiner Generation."
 aktualisiert: 2026-05-05
 date: 16.01.2024
 tags:

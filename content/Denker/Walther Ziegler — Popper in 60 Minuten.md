@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Popper in 60 Minuten"
+description: "Tausend weiße Schwäne beweisen nichts, ein schwarzer widerlegt viel. Walther Ziegler über Popper: Falsifikation als Prinzip der Wissenschaft und der offenen Gesellschaft."
 aktualisiert: 2026-05-09
 date: 09.05.2026
 tags:

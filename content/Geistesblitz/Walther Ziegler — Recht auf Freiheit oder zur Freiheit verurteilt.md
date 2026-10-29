@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?"
+description: "Frei ist, wessen Hals nicht an der Kette hängt. Walther Ziegler fragt von Perikles bis Sartre, wo Freiheit endet – und warum wir ihre Grenzen immer wieder neu aushandeln müssen."
 aktualisiert: 2026-07-14
 date: 2026-04-26
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Weißes Haus löscht Trumps Privatvideo"
+description: "Ein Spenderfrühstück, versehentlich online gestellt: Trump will 1,5 Billionen Dollar fürs Militär und erklärt Kitas und Medicaid zur Sache der Bundesstaaten. Das Weiße Haus löschte das Video."
 aktualisiert: 2026-04-13
 date: 2026-04-13
 tags:

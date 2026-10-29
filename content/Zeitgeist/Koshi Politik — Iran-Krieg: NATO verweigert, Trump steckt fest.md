@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest"
+description: "Ein einzelner Soldat oder eine Mine kann einen Supertanker treffen, warnt der US-Generalstabschef. Trump verlangt Hilfe in der Straße von Hormus, die NATO-Partner sagen nein."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -40,7 +41,7 @@ Auf einer Pressekonferenz im Weißen Haus nennt Trump zur Frage, ob man damit ge
 
 ### Joint Chiefs-Vorsitzender erklärt das Problem
 
-General Dan Kane in einem Meeting mit Trump erklärt:
+General Dan Caine in einem Meeting mit Trump erklärt:
 > *„Even one Iranian soldier or mine could easily attack a slow-moving super tanker."*
 
 Super-Tanker sind zu groß und zu langsam. Die gesamte militärische Feuerkraft der USA kann das strukturell nicht lösen — der Iran braucht nur einen Angriff, um die Schifffahrt zum Erliegen zu bringen.

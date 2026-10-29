@@ -1,8 +1,9 @@
 ---
 title: "Der Leuchtturm — Warum Gedankenwelten existiert"
+description: "Ein Leuchtturm kämpft nicht gegen den Sturm, er leuchtet durch ihn. Die Welt, die man sich wünscht, beginnt jetzt und nicht nach dem Sieg – daraus erklärt sich, wozu es die Gedankenwelten gibt."
 aktualisiert: 2026-04-05
 tags:
-  - gedanken
+  - gedanke
   - luc
   - projekt-ziel
   - philosophie

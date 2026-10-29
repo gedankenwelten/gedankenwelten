@@ -1,6 +1,7 @@
 ---
 date: 2026-03-25
-title: "Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative"
+title: "Gilda con Arne #24 — BaWü-Wahl, Weimer gegen Buchhandlungen & Iran-Fluchtnarrative"
+description: "Cem Özdemir gewinnt Baden-Württemberg als Person. Für Gilda Sahebi ist der Sieg teuer erkauft: Wer Spaltungserzählungen übernimmt, stärkt die Autoritären. Dazu der Streit um drei Buchhandlungen."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -18,7 +19,7 @@ aliases:
   - Gilda con Arne 24
 ---
 
-# Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative
+# Gilda con Arne #24 — BaWü-Wahl, Weimer gegen Buchhandlungen & Iran-Fluchtnarrative
 
 Quelle: Podcast „Gilda con Arne", Folge 24
 Aufnahme: Mittwoch, 12. März 2026 (wenige Tage nach der BaWü-Wahl vom 8. März)
@@ -112,18 +113,18 @@ Die **harte Kernbasis** der AfD schätzen sie auf 10–15 % — die restlichen 5
 
 ---
 
-## Teil 2: Wolfram Weimar bekämpft die Meinungsfreiheit
+## Teil 2: Wolfram Weimer bekämpft die Meinungsfreiheit
 
 ### Was passierte
 
-Kulturstaatsminister Wolfram Weimar strich **drei Buchhandlungen** von der Nominierungsliste für den Deutschen Buchhandlungspreis (25.000 € Preisgeld):
+Kulturstaatsminister Wolfram Weimer strich **drei Buchhandlungen** von der Nominierungsliste für den Deutschen Buchhandlungspreis (25.000 € Preisgeld):
 - Schwankende Weltkugel, Berlin
 - The Golden Shop, Bremen
 - Rote Straße, Göttingen
 
 Alle drei hatten den Preis in der Vergangenheit bereits erhalten. Alle drei sind politisch dem linken Spektrum zuzurechnen.
 
-Begründung des BKM: *„Verfassungsschutzrelevante Erkenntnisse"*. Was das ist: Weimar weiß es selbst nicht. Er hat nicht nachgefragt.
+Begründung des BKM: *„Verfassungsschutzrelevante Erkenntnisse"*. Was das ist: Weimer weiß es selbst nicht. Er hat nicht nachgefragt.
 
 ### Das Haber-Verfahren
 
@@ -139,9 +140,9 @@ Rechtliche Probleme:
 
 Gegenwind: Buchhandlungen bundesweit solidarisieren sich. Fischer, Kiwi und andere Verlage. International: European and International Booksellers Federation, International Publishers Association. Die drei Buchhandlungen klagen — mit Unterstützung von FragDenStaat und der Gesellschaft für Freiheitsrechte (GFF).
 
-Weimars Reaktion: Er **sagt den Buchhandlungspreis bei der Leipziger Buchmesse ab** — um dem Protest auszuweichen.
+Weimers Reaktion: Er **sagt den Buchhandlungspreis bei der Leipziger Buchmesse ab** — um dem Protest auszuweichen.
 
-Arne: Vielleicht wird bald „Weimar hat mich überprüft" die neue Auszeichnung.
+Arne: Vielleicht wird bald „Weimer hat mich überprüft" die neue Auszeichnung.
 
 > *„Er will bestimmen, was gesagt werden darf, was gedacht werden darf. Das ist das, was in den USA passiert ist: erst eine Liste verbotener Wörter, dann Kontrolle über wissenschaftliche Förderprogramme."*
 

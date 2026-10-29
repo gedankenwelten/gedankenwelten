@@ -1,5 +1,6 @@
 ---
 title: "Silke Stremlau & Maja Göpel — Investieren NEU DENKEN"
+description: "Geld ist niemals neutral, es wirkt, je nachdem, wofür man es einsetzt. Silke Stremlau und Maja Göpel fragen, warum das Kapital für den Umbau da ist und trotzdem nicht fließt."
 aktualisiert: 2026-05-31
 date: 26.05.2026
 tags:

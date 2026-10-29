@@ -1,5 +1,6 @@
 ---
 title: "Klaus Dörre — Klassen, Kapitalismus & Demokratie"
+description: "Der Klimawandel trifft alle, aber nicht gleich. Klaus Dörre verbindet Klasse und Klima, erklärt den Rechtsruck mit dem Stolz der Übersehenen und fordert Demokratie auch in der Wirtschaft."
 aktualisiert: 2026-05-17
 date: 20.11.2025
 tags:

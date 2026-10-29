@@ -145,7 +145,7 @@ Die Schwäche des Bildes ist, dass es verschweigt: Wohin geht das kleine Boot da
 
 [▶ 16:00](https://www.youtube.com/watch?v=CBON-RRXx9Y&t=960)
 
-Christian Kunow fasst die MABB-Position pragmatisch zusammen: kein Verbot, aber **massiv erhöhtes Schutzniveau** bei gleichzeitiger Wahrung der Teilhabe. Er nennt konkrete Ansätze:
+Kristian Kunow fasst die MABB-Position pragmatisch zusammen: kein Verbot, aber **massiv erhöhtes Schutzniveau** bei gleichzeitiger Wahrung der Teilhabe. Er nennt konkrete Ansätze:
 
 - **Teen-Konten** (Instagram): Möglicherweise ein Teil der Lösung — mit Ruhemodus-Funktion nachts, eingeschränkten Empfehlungs-Algorithmen
 - **US-Bundesstaaten**: Einzelne Staaten untersagen Plattformen bereits, Pushnachrichten nachts an Minderjährige zu senden — kleine Maßnahme, direkte Wirkung auf Schlafstörungen
@@ -211,7 +211,7 @@ Das Ziel ist das, was Kunow "altersgerechte Versionen der Plattformen" nennt —
 
 Gabriel analysiert Social Media als Aufmerksamkeitsfalle und philosophisches Problem. Paschkes neurobiologisches Argument über Belohnungslernen ergänzt Gabriels medienphilosophische Kritik: Was Gabriel als kulturelles Problem beschreibt (die Verflachung von Realität), ist bei Paschke ein klinisch messbares Symptom mit Suchwert.
 
-### → [[Zeitgeist/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
+### → [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 
 El-Mafaalani argumentiert, Kinder seien strukturell die am wenigsten gehörte Gruppe im politischen Diskurs. Sanya Lehmanns Forderung — "auf Augenhöhe, nicht von oben herab" — ist eine direkte Praxis-Version dieser These. Das Panel selbst ist ein seltenes Experiment: Eine Jugendliche spricht mit Regulierern, nicht nur über sie.
 

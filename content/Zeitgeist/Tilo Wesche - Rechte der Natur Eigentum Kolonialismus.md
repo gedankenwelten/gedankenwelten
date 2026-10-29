@@ -1,5 +1,6 @@
 ---
 title: "Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus"
+description: "Ein Bibliotheksbuch darf man nutzen, aber nicht verbrennen, weil es einem nicht gehört. Der Philosoph Tilo Wesche fragt, was wäre, wenn die Natur selbst Eigentümerin wäre."
 aktualisiert: 2026-07-26
 date: 29.05.2026
 tags:

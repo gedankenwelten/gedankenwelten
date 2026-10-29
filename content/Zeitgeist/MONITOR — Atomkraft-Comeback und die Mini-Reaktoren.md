@@ -1,6 +1,7 @@
 ---
 date: 2026-06-01
 title: "MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt"
+description: "Die Mini-Reaktoren versprechen, was die großen schon einmal versprachen. MONITOR legt Hamm-Uentrop und Hinkley Point neben das Serienargument und fragt, wer am Ende zahlt."
 aktualisiert: 2026-06-01
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Dominik Finkelde — Nietzsche: Über Wahrheit und Lüge"
+description: "Was ist Wahrheit? Ein bewegliches Heer von Metaphern. Dominik Finkelde liest Nietzsches frühe Schrift als den Moment, in dem die Moderne beginnt, der eigenen Vernunft zu misstrauen."
 aktualisiert: 2026-05-02
 date: 2026-05-02
 tags:

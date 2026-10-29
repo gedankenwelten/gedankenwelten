@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)"
+description: "Eine Amokfahrt in Leipzig verschwand in zwei Tagen von den Startseiten, Aschaffenburg blieb viereinhalb. Staiy fragt, welche Täter Schlagzeilen machen und wem das nützt."
 aktualisiert: 2026-05-11
 date: 10.05.2026
 tags:

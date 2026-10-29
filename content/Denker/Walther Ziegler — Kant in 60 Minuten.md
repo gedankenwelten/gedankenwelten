@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Kant in 60 Minuten"
+description: "Wir sehen die Welt nur durch Raum, Zeit und zwölf Kategorien, nie das Ding an sich. Walther Ziegler erklärt Kant – vom Denkapparat bis zum kategorischen Imperativ, der die Bequemlichkeit stört."
 aktualisiert: 2026-04-26
 date: 26.04.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — Wie die Trumps Milliarden mit der Präsidentschaft verdienen"
+description: "950 Millionen Dollar auf fallendes Öl, Minuten bevor Trump die Waffenruhe verkündet. MONITOR zeigt die Präsidentschaft als Geschäftsmodell, von Krypto bis Drohnen-Investments."
 aktualisiert: 2026-05-05
 date: 17.04.2026
 tags:

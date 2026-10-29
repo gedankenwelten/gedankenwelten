@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02
 title: "Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)"
+description: "Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -88,8 +88,6 @@ Bücker ist erklärtermaßen **parteilos** und war nie Parteimitglied — trotz 
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne befüllt diesen Abschnitt)*
-
 - [[DenkerVita/Erich Fromm|Erich Fromm]] — Bückers Zeitkultur-Kritik ist Fromms Haben-Modus für eine politische Agenda übersetzt: Zeit wird "optimiert" statt gelebt. Bückers Zeitwohlstand = Fromms Sein-Modus.
 - [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa]] — Rosa diagnostiziert Beschleunigung als Zeitproblem der Moderne phänomenologisch; Bücker kommt zum gleichen Befund von feministisch-politischer Seite. Rosa: Resonanz braucht Unverfügbarkeit. Bücker: Zeitwohlstand schafft Raum für Resonanz.
 

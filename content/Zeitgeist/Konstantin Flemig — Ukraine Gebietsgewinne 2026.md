@@ -1,5 +1,6 @@
 ---
 title: "Konstantin Flemig — Ukraine Gebietsgewinne 2026"
+description: "Im Februar 2026 gewinnt die Ukraine erstmals seit zwei Jahren netto Gelände. Konstantin Flemig erklärt, wie Drohnen Russlands Übermacht an Soldaten ausgleichen und Ölangriffe Moskau schwächen."
 aktualisiert: 2026-04-12
 date: 2026-04-12
 tags:

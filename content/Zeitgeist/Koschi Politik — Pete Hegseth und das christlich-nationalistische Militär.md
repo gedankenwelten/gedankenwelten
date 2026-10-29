@@ -1,6 +1,7 @@
 ---
 date: 2026-04-01
 title: "Koschi Politik — Pete Hegseth und das christlich-nationalistische Militär"
+description: "Gebetsrunden im Pentagon, gestrichene Beförderungen schwarzer Soldaten: Für Koschi baut Pete Hegseth das US-Militär nach einem christlich-nationalistischen Bild um."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Foucault in 60 Minuten"
+description: "Was als normal gilt, wird gemacht – von Kliniken, Gefängnissen, Diskursen. Walther Ziegler erklärt Foucault: das Panoptikum, die Episteme jeder Epoche und Macht, die man nicht sieht."
 aktualisiert: 2026-04-26
 date: 26.04.2026
 tags:

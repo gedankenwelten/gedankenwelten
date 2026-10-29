@@ -63,12 +63,14 @@ Sie lebt bewusst in einer **ländlichen Gemeinschaft in Brandenburg** — nicht 
 
 ## Verbindungen zu anderen Denkern
 
-- **Rahel Jaeggi** — Ihre Doktormutter; beide arbeiten an „Formen des Lebens" vs. „bloße Existenz"; Jaeggi eher epistemisch, Redecker eher praktisch
-- **Hannah Arendt** — Theoriemodell; Arendts Vita activa (Arbeit/Werk/Handlung) strukturiert Rededeckers Triade (Erwerbsarbeit/Eigenarbeit Natur/Sorgearbeit)
-- **Adorno** — Negativität, Kulturindustrie, „keine richtiges Leben im Falschen"; aber Redecker geht drüber hinaus
-- **David Graeber** — Ähnliche Sorge um Sinnlosigkeit von Arbeit; ähnliche Utopie-Freiheit
-- **Silvia Federici** — Sorgearbeit-Theorie; Federici marxistischer, Redecker mehr auf Reproduktion/Natur fokussiert
 - [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]] — Heitmeyer misst, wie weit die Härte reicht; ihr Phantombesitz erklärt, was in ihr verteidigt wird. Für dieselbe Partei wählt er den Begriff des autoritären Nationalradikalismus und meidet bewusst den des Faschismus, den sie setzt.
+- [[DenkerVita/Tilo Wesche]] — Beide setzen am selben Punkt des modernen Eigentums an, am Versprechen, mit einer Sache alles machen zu dürfen, bis zu ihrer Zerstörung. Redecker sieht darin die Wurzel des Phantombesitzes; Wesche will die Eigentumslogik behalten und wenden: Ein Fluss, der sich selbst gehört, darf genutzt, aber nicht zerstört werden.
+- [[DenkerVita/Hannah Arendt]] — Ihre wichtigste Gewährsfrau für den neuen Faschismus. Von Arendt nimmt sie die eifersüchtige Verbitterung als Massenphänomen und die Bewunderung für den Gangster, der in einem Dickicht von Gesetzen als Einziger noch handlungsfähig wirkt; je länger sie Arendt und Adorno las, desto mehr Gegenwart passte hinein.
+- [[DenkerVita/Theodor W. Adorno]] — Über ihre Doktormutter Rahel Jaeggi steht sie in der Frankfurter Linie, und aus der *Dialektik der Aufklärung* nimmt sie ihr Gegenmittel, das Eingedenken: innehalten und sich auf die Stufen früherer Verhärtung besinnen. Die späteren Studien zum autoritären Charakter hält sie für weniger ergiebig, weil sie über den Charaktertypen den Gegenstand verlieren, um den gekämpft wird.
+- [[DenkerVita/Erich Fromm]] — Redecker stützt sich auch auf Fromms Achse aus Liebe zum Lebendigen und Liebe zum Toten. Ihr Phantombesitz ist die Verteidigung von etwas, das nicht mehr da ist oder nie da war; Fromm fragte nach der Seele, die so etwas braucht, Redecker fragt nach der Eigentumsform, die es verspricht.
+- [[DenkerVita/Carolin Amlinger]] und [[DenkerVita/Oliver Nachtwey]] — Dieselbe Zerstörung, zwei Erklärungen. Amlinger und Nachtwey fragen, was in ihr genossen wird, und finden eine Gefühlsstruktur aus blockiertem Leben; Redecker fragt, was in ihr verteidigt wird, und findet einen Besitzanspruch, der sich durch Zerstörung beweist.
+- [[DenkerVita/Damir Skenderovic]] — Ihr Gegenüber in der Sternstunde und ihr Gegenpol im Begriff. Er spricht von Faschisierung als Prozess und nennt keine der europäischen Rechtsparteien, nach denen Bleisch fragt, faschistisch; sie nennt Trump einen Faschisten. Am Ende fordert der Historiker mehr staatliche Härte gegen rechts, während die Autorin des Härte-Buchs das Wort für sich ablehnt.
+- [[DenkerVita/Steffen Mau]] — Maus These von der Veränderungsmüdigkeit nennt sie zu pauschal: Der autogerechte Umbau der Innenstädte in den Fünfzigern war mehr Veränderung als die Energiewende, und erschöpft hat er angeblich niemanden. Ihre eigene Erklärung führt über Arendt zu einem Durst, auf ein Fleckchen im unübersichtlichen Ganzen zeigen zu dürfen, das sich anfühlt, als sei es schuld.
 
 ## Gedankenwelten-Notes
 

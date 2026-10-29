@@ -1,5 +1,6 @@
 ---
 title: "Topfvollgold — NiUS erfindet Islam-Skandal"
+description: "Eine Wirtin legt die Kantineneröffnung auf die Zeit des Fastenbrechens, damit alle kommen können. NiUS macht daraus eine islamische Machtübernahme – Topfvollgold zeigt, wie das geschah."
 aktualisiert: 2026-05-14
 date: 13.05.2026
 tags:

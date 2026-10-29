@@ -1,5 +1,6 @@
 ---
 title: "Arne Semsrott — Zur Gegenmacht"
+description: "Die Regierung hat nur 27 Prozent der Menschen im Land hinter sich, rechnet Arne Semsrott vor. Er sucht die versteckten Mehrheiten – und eine Gegenmacht, die längst da ist."
 aktualisiert: 2026-07-20
 date: 20.05.2026
 tags:

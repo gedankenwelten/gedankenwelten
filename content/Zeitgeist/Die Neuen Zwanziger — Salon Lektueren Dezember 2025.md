@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren Dezember 2025"
+description: "„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selbst.“ Der Salon liest Daniel Markovits' „The Meritocracy Trap“ über eine Leistungselite, die alle gefangen hält."
 aktualisiert: 2026-05-06
 date: 2026-01-08
 tags:

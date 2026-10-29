@@ -1,5 +1,6 @@
 ---
 title: Heiner Flassbeck — Krise und Rechtsruck
+description: "Die Ausgaben des einen sind die Einnahmen des anderen. Heiner Flassbeck fragt nicht, ob Schulden gemacht werden, sondern wer sie macht – und führt den Rechtsruck auf Europas Sparpolitik zurück."
 aktualisiert: 2026-03-22
 date: 2025-06-15
 tags:

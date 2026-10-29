@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Hegel in 60 Minuten"
+description: "Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben in dreifachem Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit."
 aktualisiert: 2026-07-14
 date: 29.06.2023
 tags:

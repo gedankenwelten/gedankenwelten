@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "taz Reingehen — Wer das Öl hat, hat das Sagen"
+description: "Wer das Öl hat, hat das Sagen, und an der Straße von Hormus hat es nicht Trump. Dazu der Fall einer Näherin aus Bangladesch und ein Lieferkettengesetz, das Stück für Stück ausgehöhlt wird."
 aktualisiert: 2026-10-11
 tags:
   - zeitgeist

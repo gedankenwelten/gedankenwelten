@@ -1,5 +1,6 @@
 ---
 title: "Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz"
+description: "Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen – für Ronen Steinke ist das ein deutscher Sonderweg. Über Meinungsfreiheit, Völkerrecht und die Frage des Genozids in Gaza."
 aktualisiert: 2026-08-03
 date: 2026-05-01
 tags:

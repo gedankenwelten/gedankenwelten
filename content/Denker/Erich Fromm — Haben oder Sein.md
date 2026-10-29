@@ -1,5 +1,6 @@
 ---
 title: Erich Fromm — Haben oder Sein
+description: "Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt."
 aktualisiert: 2026-03-22
 tags:
   - philosophie

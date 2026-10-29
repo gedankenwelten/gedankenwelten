@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme"
+description: "Transmutation, Flüssigsalz, Dual Fluid, Mini-Reaktoren – Mario Buchinger nennt sie „pinke Einhörner“: Versprechen, die seit Jahrzehnten kommen. Schluss seiner Reihe über die Kernenergie."
 aktualisiert: 2026-10-11
 tags:
   - zeitgeist

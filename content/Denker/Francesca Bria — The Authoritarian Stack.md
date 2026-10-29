@@ -1,5 +1,6 @@
 ---
 title: "Francesca Bria — The Authoritarian Stack"
+description: "Was früher der Staat war, wird zur Plattform einer Handvoll Investoren. Francesca Bria kartiert, wie Palantir, Thiel und ihr Netzwerk Militär, Daten und Verwaltung privatisieren."
 date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:

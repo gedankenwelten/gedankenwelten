@@ -1,5 +1,6 @@
 ---
 title: "Sudan: Humanitäre Lage und DRK-Einsatz — Christof Johnen (phoenix)"
+description: "22 Mitarbeitende des Sudanesischen Roten Halbmonds wurden getötet, in roten Westen, klar erkennbar. Christof Johnen vom DRK über Not, Hilfe und ihre Grenzen im dritten Kriegsjahr im Sudan."
 aktualisiert: 2026-04-16
 date: 2026-04-15
 tags:

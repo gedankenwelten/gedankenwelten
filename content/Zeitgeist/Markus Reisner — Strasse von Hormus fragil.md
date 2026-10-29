@@ -1,5 +1,6 @@
 ---
 title: "Markus Reisner — Lage an der Straße von Hormus ist fragil"
+description: "Militärisch überlegen heißt nicht strategisch gewonnen. Markus Reisner zeigt, wie der Iran mit Schnellbooten und Minen die Straße von Hormus hält und das Patt zur Gefahr wird."
 aktualisiert: 2026-04-25
 date: 2026-04-25
 tags:

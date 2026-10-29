@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Truth Social 13: Supreme Court und Zölle"
+description: "Ein Präsident, der den Supreme Court aus Trotz kleinschreibt. Koschi liest Trumps Wut über das Zoll-Urteil und den Streit ums Geburtsortsprinzip als Symptom eines größeren Abbaus."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Giulia Enders — Körper als Verbündeter"
+description: "Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe."
 aktualisiert: 2026-05-10
 date: 2025-01-01
 tags:

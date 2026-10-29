@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Andreas Kemper — Faschismen im 21. Jahrhundert"
+description: "„Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)"
+description: "Wer ein gestohlenes Fahrrad anzeigt, kann schon drin sein. Constanze Kurz und Franziska Görlitz zeigen, wie Palantir in deutsche Polizeien kam – ohne jede Evaluation."
 aktualisiert: 2026-05-21
 date: 20.05.2026
 tags:

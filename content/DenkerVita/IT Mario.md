@@ -61,7 +61,13 @@ Keine bekannten Buchveröffentlichungen. Alle Inhalte über YouTube-Kanal.
 
 ## Verbindungen zu anderen Denkern
 
-→ *Von Montaigne befüllt*
+- [[DenkerVita/Ernesto Laclau]] — Die stärkste Gegenstimme. IT Mario misst Populismus als Abweichung: Antielitarismus, Antipluralismus, Komplexitätsreduktion, je Rede ein Score. Für Laclau ist Populismus keine Störung, sondern die Grundlogik der Politik, in der ein leeres Wort wie „das Volk" Forderungen bündelt, die sonst nichts verbindet. Was der Score hoch bewertet, wäre bei ihm zunächst einmal Politik.
+- [[DenkerVita/Morpheus]] — Ein anderer Informatik-Erklärer auf YouTube, der Sprachmodelle vermisst, mit einem Befund, der IT Marios Annahme auf die Probe stellt. IT Mario hält ein Modell, das nur den Text sieht, für fairer als jeden menschlichen Annotator. Morpheus zeigt in Tausenden Tests, dass Modelle selbst eine messbare politische Schlagseite tragen, bei chinesischen Modellen mit großem Effekt. Parteiblind heißt nicht vorurteilsfrei.
+- [[DenkerVita/Matthias Quent]] — Quents These, die AfD werde für die „Erlösung von der Komplexität" gewählt, findet in IT Marios Daten ein Maß: Komplexitätsreduktion ist eines seiner drei Populismus-Merkmale. Quent deutet, warum das zieht; IT Mario zählt, wie oft es vorkommt.
+- [[DenkerVita/Aladin El-Mafaalani]] — El-Mafaalani beschreibt Misstrauensgemeinschaften, die das Netz aus vereinzelten Zweiflern verknüpft. Für IT Marios Schluss, jeder solle selbst nachprüfen, ist das die harte Probe: Wer Expertise grundsätzlich misstraut, liest auch offene Rohdaten über die AfD als Beleg für „Systemmedien".
+- [[DenkerVita/Jonathan Haidt]] — Haidts Elefant und Reiter: Das moralische Urteil kommt aus dem Bauch, die Vernunft rechtfertigt hinterher. IT Marios Rat, sich die Daten selbst anzusehen, wendet sich an den Reiter; Haidt würde fragen, ob ein Score den Elefanten bewegt.
+- [[DenkerVita/Uwe Krüger]] — Krüger verlangt von der kritischen Journalistik, den Mainstream zu messen, statt ihn zu beschwören, und Berichterstattung etwa mit Parlamentsdebatten zu vergleichen. IT Mario misst die Parlamentsdebatten selbst. Beide ersetzen den Verdacht durch eine Zählung, die man nachrechnen kann.
+- [[DenkerVita/Katharina Nocun]] — Dasselbe Werkzeug in der anderen Rolle: Nocun zeigt, wie generative KI Inhalte für das Vorfeld der extremen Rechten produziert, IT Mario lässt eine KI politische Rhetorik aller Parteien messen.
 
 ---
 

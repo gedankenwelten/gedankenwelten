@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Heidegger in 60 Minuten"
+description: "Wir sind immer schon in der Welt, in einer Stimmung, auf den Tod hin. Walther Ziegler erklärt Heidegger: das Man, die Angst, den leisen Ruf des Gewissens und das rechnende Denken der Technik."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren"
+description: "„Afghanen verpassen Flug, weil sie shoppen waren“ – die Geschichte stimmte nicht und lief trotzdem durch. Topfvollgold zeigt, wie eine Falschmeldung Stimmung gegen Schutzsuchende macht."
 aktualisiert: 2026-04-12
 date: 2026-04-12
 tags:

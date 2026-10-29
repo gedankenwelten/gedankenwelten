@@ -27,7 +27,7 @@ tags: [denker-vita, kapitalismus, oligarchie, usa]
 
 Evan Osnos wächst in London auf, zieht aber früh in die USA — ein transatlantisches Aufwachsen, das sein Verhältnis zur Frage prägt, was Amerika für den Rest der Welt bedeutet.
 
-Nach Harvard beginnt er als Lokalreporter, was für ihn Programm ist — er ist kein Journalist, der von oben herabblickt, sondern einer, der in West Virginia arbeitet, in Appalachian Kleinstädten, in irakischen Kriegsgebieten und später acht Jahre als Korrespondent in China (2008–2013). Dieser Weg formt sein wichtigstes Werkzeug: den Glauben, dass die größten Geschichten in den Randgebieten des Sichtbaren liegen.
+Nach Harvard beginnt er als Lokalreporter, was für ihn Programm ist — er ist kein Journalist, der von oben herabblickt, sondern einer, der in West Virginia arbeitet, in Appalachian Kleinstädten, in irakischen Kriegsgebieten und später acht Jahre als Korrespondent in China (2005–2013, ab 2008 für den New Yorker). Dieser Weg formt sein wichtigstes Werkzeug: den Glauben, dass die größten Geschichten in den Randgebieten des Sichtbaren liegen.
 
 China ist sein erstes großes Thema — er dokumentiert den Ehrgeiz einer ganzen Generation, die nach Fortune, Truth and Faith sucht, während das Land sich im Turbokapitalismus neu erfindet. 2014 gewinnt er dafür den National Book Award. Das Buch macht ihn zu einer Stimme für den Versuch, China jenseits von Propaganda und Feindbildern zu verstehen.
 
@@ -64,7 +64,13 @@ Osnos ist kein Aktivist und kein Manifest-Schreiber. Er ist ein liberaler Journa
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne befüllt diesen Abschnitt)*
+- [[DenkerVita/Peter Thiel]] — Für Osnos' härteste These, die Demokratie sei den meisten Ultrareichen kein Wert mehr, liefert Thiel den Beleg in eigenen Worten: „I no longer believe that freedom and democracy are compatible“ (2009). Osnos führt ihn mit „Competition is for losers“ als Zeugen eines Sozialdarwinismus 2.0 an; Thiels Vita zeigt, dass dahinter ein ausformuliertes Programm steht, die Flucht aus der Politik in Netz, All und Meer.
+- [[DenkerVita/Sandra Navidi]] — Navidis SuperHubs sind die Netzwerkfassung von Osnos' „Freiheit von Kompromissen“: einige hundert Menschen, einander so ähnlich, dass zwischen ihnen niemand mehr widerspricht. Navidi beschreibt das als technisches Systemrisiko, Homogenität macht blind für dieselbe Gefahr. Darin trifft sie sich mit Osnos, der die Abschottung als Folge extremen Reichtums liest, ohne böse Absicht vorauszusetzen.
+- [[DenkerVita/Daniel Markovits]] — Die Gegenstimme von oben. Markovits sieht die Elite als größtes Opfer ihres eigenen Systems, mit 80- bis 120-Stunden-Wochen und ohne ein Außen, von dem aus sie das Spiel verlassen könnte. Er meint die arbeitenden Spitzenverdiener der Meritokratie, Osnos die Milliardäre, die sich dieses Außen gekauft haben, als Yacht und als Bunker. Und wo Markovits mit Marx und Verzweiflung endet, hält Osnos das System für reparierbar, wenn genug Druck entsteht.
+- [[DenkerVita/Marlene Engelhorn]] — Der Gegenfall aus der Welt, die Osnos kartiert: Eine Erbin nennt ihr Vermögen unverdient, gründet „Tax Me Now“ und lässt 25 Millionen Euro von einem Bürgerrat verteilen. Sie zeigt, warum Osnos' Befund bei „den meisten“ Ultrareichen stehen bleiben muss. Ihre Kritik reicht zugleich tiefer als seine, sie bestreitet die Legitimität des Erbes selbst, Osnos beschreibt die Folgen der Konzentration für die Demokratie.
+- [[DenkerVita/Michael Hartmann]] — Hartmann misst, was Osnos beobachtet: Je höher die soziale Herkunft, desto weniger problematisch erscheint Menschen in Elitepositionen die Ungleichheit. Das stützt Osnos' Lesart, nach der die Abschottung der Reichen aus ihrer Lage folgt. Hartmann bleibt beim deutschen Fall und bei der Macht der Positionen, Osnos bei Vermögen und Plattformen.
+- [[DenkerVita/Arlie Russell Hochschild]] — Die andere Seite von Osnos' Amerika. In *Wildland* hat er die Wut zwischen dem 11. September und dem 6. Januar 2021 beschrieben; Hochschild rekonstruiert in Louisiana und in Pikeville, Kentucky, die Tiefengeschichte darunter, die Schlange, in der sich andere vordrängeln, und die Scham, die der rechte Populismus in Schuldzuweisung verwandelt. Osnos schaut zu den Yachten hinauf, Hochschild zu denen, die zurückblieben.
+- [[DenkerVita/Frank Sieren]] — Zwei Reporter, die China jahrelang aus der Nähe beschrieben haben: Osnos' *Age of Ambition* bei Einzelnen, die nach Wohlstand, Wahrheit und Glauben suchen, Sieren von der wirtschaftlichen Rationalität und den Eliten her. Osnos hat den kartierenden Blick danach nach Hause gewendet und die eigenen Ultrareichen wie eine fremde Welt beschrieben.
 
 ## Gedankenwelten-Notes
 

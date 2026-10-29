@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Kafka in 60 Minuten"
+description: "Menschen sind durch Seile verbunden, und schlimm wird es, wenn sie sich lockern. Walther Ziegler liest Kafka als Philosophen des sozialen Todes: Niemand kann seine eigene Sonne sein."
 aktualisiert: 2026-04-26
 date: 26.04.2026
 tags:

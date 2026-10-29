@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Camus in 60 Minuten"
+description: "Die Welt antwortet nicht, und wir fragen trotzdem. Walther Ziegler über Camus: keine Flucht in Suizid oder Hoffnung, sondern Revolte – Sisyphos als glücklicher Mensch."
 aktualisiert: 2026-05-09
 date: 09.05.2026
 tags:

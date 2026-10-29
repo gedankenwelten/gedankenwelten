@@ -1,5 +1,6 @@
 ---
 title: Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst
+description: "Für Pablo Hagemeyer ist Narzissmus kein Übermaß an Selbstliebe, sondern Schutz vor innerer Leere. Die Forschung bezweifelt das für grandiose Narzissten – die Einsamkeit dahinter beschreibt er genau."
 date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:

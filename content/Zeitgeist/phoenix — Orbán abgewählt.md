@@ -1,5 +1,6 @@
 ---
 title: "phoenix — Orbán abgewählt"
+description: "Historische Wahlbeteiligung, Erdrutschsieg für Péter Magyar, Orbán in der Opposition. phoenix fragt am Wahlabend, warum das System so deutlich scheiterte und was das für Europa heißt."
 aktualisiert: 2026-04-12
 date: 2026-04-12
 tags:

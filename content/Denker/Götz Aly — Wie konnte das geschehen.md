@@ -1,5 +1,6 @@
 ---
 title: Götz Aly — Wie konnte das geschehen?
+description: "Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten."
 aktualisiert: 2026-03-22
 tags:
   - philosophie

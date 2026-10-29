@@ -1,5 +1,6 @@
 ---
 title: "NANO Talk — Arbeiten wir zu wenig oder völlig falsch?"
+description: "KI macht Arbeit schneller, nicht leichter, und Sorgearbeit zählt keine Statistik. Eine Runde über Arbeitszeit, die halbe Demokratie im Betrieb und Faschismus als Kapitulation vor der Sorge."
 aktualisiert: 2026-05-15
 date: 15.05.2026
 tags:

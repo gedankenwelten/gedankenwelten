@@ -20,7 +20,7 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 
 ## Biografie
 
-**Constanze Kurz** (geb. 2. März 1974 in Ost-Berlin) ist eine promovierte Informatikerin, Sachbuchautorin und Sprecherin des Chaos Computer Clubs (CCC). Sie hat sich durch jahrzehntealtige Forschung und Advocacy zur führenden Expertin für Überwachungstechnologie, Datenschutz und digitale Grundrechte in Deutschland etabliert.
+**Constanze Kurz** (geb. 2. März 1974 in Ost-Berlin) ist eine promovierte Informatikerin, Sachbuchautorin und Sprecherin des Chaos Computer Clubs (CCC). Sie hat sich durch jahrzehntelange Forschung und Advocacy zur führenden Expertin für Überwachungstechnologie, Datenschutz und digitale Grundrechte in Deutschland etabliert.
 
 **Werdegang:**
 - **1974–1992:** Kindheit und Jugend in Berlin; Studium der Volkswirtschaftslehre, dann Wechsel zu Informatik
@@ -78,20 +78,6 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 
 **Europa vs. USA:** Implizite Kritik am europäischen Verhältnis zur amerikanischen Tech-Macht. Sie argumentiert nicht für "europäische Tech-Champions", sondern für Datensouveränität durch *Nicht-Erfassung* — also weniger Daten, nicht mehr.
 
-## Bekannte Verbindungen zu anderen Denkern
-
-- **Frank Rieger (CCC-Sprecher):** Langer-zeit-Koautor und Mitstreiter. Zusammen haben sie das klassische Datenschutz-Lehrbuch für die Hacker-Bewegung geschrieben.
-  
-- **Arne Semsrott (Founder FragDenStaat, CCC-Umfeld):** Ähnliche Strategie (Transparenzforderungen vs. Staat), aber Semsrott fokussiert auf Informationsfreiheit; Kurz auf technische Architektur.
-
-- **Katharina Nocun (Autorin, Netzpolitik-Aktivistin):** Ähnliche Positionen zu Datenschutz und Überwachung. Nocun schreibt für Massenmedium, Kurz bleibt technisch-akademisch.
-
-- **Rainer Mühlfoff (Kritik von KI-Faschismus):** Mühlhoff baut auf Kurz' technischen Analysen auf und nimmt sie in eine politisch-philosophische Theorie der "Kybernetik und Macht" auf.
-
-- **Bijan Moini & Franziska Görlitz (Gesellschaft für Freiheitsrechte):** Juristische Partner. Während Kurz technisch begründet, bringen Moini/Görlitz juridische Argumente vor Gericht.
-
-- **Michel Foucault (historisch):** Kurz zitiert implizit Foucaults Concept der "*Disziplinargesellschaft*" — Überwachung nicht als böse Absicht, sondern als **strukturelle Logik** von Macht.
-
 ## Auszeichnungen & Anerkennung
 
 - **2011:** Computerwoche-Ranking: Platz 38 der 100 einflussreichsten IT-Personen in Deutschland
@@ -100,6 +86,17 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 - **2014:** Toleranzpreis der Ev. Akademie Tutzing für Zivilcourage
 - **2014:** "25 Frauen für die digitale Zukunft" (Edition F)
 - **2021:** GI Fellow (Gesellschaft für Informatik)
+
+## Verbindungen zu anderen Denkern
+
+- [[DenkerVita/Franziska Goerlitz]] — Auf der re:publica 26 teilten sie sich die Arbeit: Kurz zeigt, wie Palantirs Gotham Verdächtige, Zeugen und Opfer in denselben Bestand zieht, Görlitz macht daraus vor Gericht die Frage nach Zweckbindung und Betroffenen. Was die Informatikerin als Bauweise beschreibt, übersetzt die Juristin in das, was Karlsruhe 2023 begrenzt hat.
+- [[DenkerVita/Bijan Moini]] — Moini sagt, Rechtsschutz gegen Überwachung komme fast immer zu spät, weil der Staat sammelt, bevor jemand es merkt; der Schutz müsse vor der Maßnahme ansetzen. Kurz' Privacy-by-Design ist die technische Antwort auf diese Lücke: Was gar nicht erst erfasst werden kann, muss niemand hinterher wegklagen.
+- [[DenkerVita/Arne Semsrott]] — Beide schrieben für netzpolitik.org, und ihre Forderungen sind zwei Hälften derselben Asymmetrie. Semsrott will, dass der Staat sich vor den Bürgern erklären muss, Kurz, dass die Bürger vor dem Staat undurchsichtig bleiben dürfen: Transparenz nach oben, Privatsphäre nach unten.
+- [[DenkerVita/Katharina Nocun]] — Nocun kam vom Datenschutz, den sie wie Kurz als Freiheitsrecht versteht, zur Erforschung von Verschwörungsmythen, und sie beschreibt, dass solche Mythen dort wuchern, wo echte Intransparenz herrscht. Eine Polizeisoftware, deren Scores die Beamten selbst nicht nachvollziehen, ist so ein Ort; so gelesen ist Kurz' Forderung nach durchschaubaren Systemen auch eine Vorsorge gegen das Misstrauen, das Nocun untersucht.
+- [[DenkerVita/Francesca Bria]] — Beide halten Europas Abhängigkeit von US-Konzernen für eine Machtfrage und ziehen verschiedene Schlüsse. Bria antwortet mit eigener, öffentlich finanzierter Infrastruktur und sagt, über die Smart City entscheide die politische Architektur, nicht die Technik. Kurz hält einen europäischen Anbieter für keine Lösung, solange das Zusammenführen der Daten bleibt, und will die Grundrechte in die technische Bauweise selbst legen.
+- [[DenkerVita/Konstantin Kuhle]] — Kuhles Satz, wer Bürgerrechte gegen Sicherheit tausche, verliere oft beides, könnte von Kurz stammen. Seine Antwort auf Palantir ist pragmatisch: Vergaberecht und europäische Alternativen, denn „wenn wir alle nur Palantir wollen, gibt's auch nur Palantir". Kurz' Wiener Vortrag vom Oktober 2026 ist die Gegenrede: Die Länder wollen jetzt „die Datenanalyse, keine Palantir-Produkte", und die Dauer-Rasterung bleibt.
+- [[DenkerVita/Peter Thiel]] — Der Gegenpol. Thiel, Mitgründer von Palantir, hält Freiheit und Demokratie für unvereinbar und sieht einen „deadly race between politics and technology", in dem die Technik der Politik entkommen soll. Kurz will das Gegenteil: Technik, die so gebaut ist, dass sie unter politischer und rechtlicher Kontrolle bleibt.
+- [[DenkerVita/Michel Foucault]] — Foucault beschrieb Macht als Beziehung, die sich in Anordnungen einschreibt, und schrieb mit *Überwachen und Strafen* die Genealogie der Disziplinargesellschaft. Dass Kurz sich auf ihn beruft, ist nicht belegt; die Nähe liegt in der Sache, in ihrer These, Überwachung sei strukturell und nicht episodisch. Neu bei ihr ist, dass die Anordnung heute in einem Datenmodell steckt, das die Beamten selbst nicht verstehen.
 
 ## Gedankenwelten-Notes
 

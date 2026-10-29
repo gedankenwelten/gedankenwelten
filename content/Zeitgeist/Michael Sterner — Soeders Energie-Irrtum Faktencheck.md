@@ -1,5 +1,6 @@
 ---
 title: "Michael Sterner — Söders Energie-Irrtum: Faktencheck"
+description: "Söder nennt hundert Prozent Erneuerbare einen „Traum“. Der bayerische Energieforscher Michael Sterner prüft nach und fragt, wessen Plan wirklich unrealistisch ist."
 aktualisiert: 2026-05-10
 date: 10.05.2026
 tags:

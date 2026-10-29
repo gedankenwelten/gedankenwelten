@@ -65,7 +65,12 @@ Eine parteipolitische Positionierung ist öffentlich nicht erkennbar.
 
 ## Verbindungen zu anderen Denkern
 
-*(wird ergänzt)*
+- [[DenkerVita/Martin Winistoerfer]] — Der Forschungsleiter an ihrer Seite auf der re:publica 26, in derselben bezahlten Hexagon-Session. Sie rahmt, er liefert die Fälle: Tropenwald, Klagenfurt, der Roboter AEON. In der Fragerunde, etwa bei der Rechtslage für das Scannen ganzer Städte, wird sichtbar, was dieser Rahmen offenlässt.
+- [[DenkerVita/Francesca Bria]] — Wem die Daten gehören, bekommt in Nicolaus' Perspektive wenig Raum. Bria hat genau das in Barcelona gefragt: Die vernetzte Stadt kann Werkzeug der Bürger sein oder Sensornetz für Konzerne und Behörden, und das entscheidet die politische Architektur, nicht die Technik. Der digitale Zwilling von Klagenfurt wäre ein Fall, an dem sich das prüfen ließe.
+- [[DenkerVita/Georgina Neitzel]] — Neitzel liest Aussagen von Technologieunternehmen als Marketingrhetorik und beschreibt, wie Risiken in der Hype-Phase ausgeklammert werden; ihr Beispiel ist die Gesichtserkennung, eingeführt als Sicherheitstechnik. Nicolaus spricht als Marketingchefin und zeigt die Messtechnik dort, wo sie rettet, während Bergbau, Rüstung und Sicherheitsbehörden wenig vorkommen. Neitzels Raster ist ein Werkzeug, um so einen Vortrag zu lesen, ohne ihm seine belastbaren Teile abzusprechen.
+- [[DenkerVita/Vandana Shiva]] — „Was wir nicht messen können, können wir nicht verbessern", so endet der Vortrag. Shivas *production boundary* beschreibt die Grenze, hinter der liegt, was nicht gezählt wird: Subsistenz, Sorgearbeit, bäuerliches Wirtschaften. Der Vortrag hält sie für überwindbar durch genaueres Messen; für Shiva ist sie eine Entscheidung darüber, was als Wert gilt, und keine Frage der Auflösung.
+- [[DenkerVita/Tilo Wesche]] — Der Vortrag nennt Vermessung „die menschlichste aller Technologien". Wesche, der die Rechte der Natur aus der Eigentumstheorie denkt, erinnert daran, wozu sie historisch diente: Land teilbar, zuschreibbar und besteuerbar zu machen. Der Katasterplan ist der Vorläufer des digitalen Zwillings, und wer vermisst, beantwortet damit oft schon die Frage, wem etwas gehört.
+- [[DenkerVita/Maja Goepel]] — Göpel war bis 2020 Generalsekretärin des WBGU, dessen Gutachten Sensorik, Monitoring und Simulation forderte, um ökologische Belastungsgrenzen bearbeitbar zu machen. Nicolaus vertritt heute einen Anbieter dieser Instrumente. Göpels Diagnose, dass Natur in den Kapitalmodellen nicht vorkommt und der Status quo davon lebt, dass nicht gerechnet wird, trifft hier auf eine Firma, die rechnet; ob das reicht, hängt daran, wer die Rechnung bezahlt.
 
 ## Gedankenwelten-Notes
 

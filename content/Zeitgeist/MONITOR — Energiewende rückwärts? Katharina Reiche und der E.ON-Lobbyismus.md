@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus"
+description: "Künftig soll der langsame Netzausbau das Tempo der Erneuerbaren bestimmen. MONITOR fragt, wem Katharina Reiches Gesetzentwurf nützt – und landet bei ihrem früheren Arbeitgeber E.ON."
 aktualisiert: 2026-04-05
 presseschau_aktualisiert: 2026-06-21
 tags:

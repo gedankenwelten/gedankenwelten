@@ -1,5 +1,6 @@
 ---
 title: "Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt"
+description: "Eine Soldatin mit 1,1 Millionen Followern, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage."
 aktualisiert: 2026-05-19
 date: 18.05.2026
 tags:

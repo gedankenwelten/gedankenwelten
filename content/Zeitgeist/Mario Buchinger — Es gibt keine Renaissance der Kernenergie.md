@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Mario Buchinger — Es gibt keine Renaissance der Kernenergie"
+description: "Bezahlbar, sicher, emissionsarm – so nannte von der Leyen die Kernenergie. Der Physiker Mario Buchinger prüft alle drei Behauptungen und findet weltweit kein AKW, das sich privat rechnet."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

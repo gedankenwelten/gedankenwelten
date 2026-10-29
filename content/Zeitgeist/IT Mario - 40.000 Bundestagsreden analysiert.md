@@ -1,5 +1,6 @@
 ---
 title: "IT Mario — 40.000 Bundestagsreden analysiert: Welche Partei ist wirklich gefährlich?"
+description: "Eine KI liest 40.000 Bundestagsreden, ohne zu wissen, von welcher Partei sie stammen. Beim Vorwurf liegt das BSW knapp vor der AfD, beim Populismus führt die AfD deutlich."
 aktualisiert: 2026-05-24
 date: 21.05.2026
 tags:

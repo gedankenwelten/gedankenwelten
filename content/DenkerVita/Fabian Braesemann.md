@@ -60,8 +60,13 @@ Keine starre ideologische Verankerung erkennbar. Braesemann vertritt eine pragma
 
 ## Verbindungen zu anderen Denkern
 
-- **Simon Schaupp** — Ähnliches Arbeitsfokus-Interesse, aber Schaupp eher kritisch-theoretisch (Cybernetic Proletarianization), Braesemann eher empirisch-neutral
-- **Heiner Flassbeck** — Lohnpolitische Fragen berühren sich; Flassbeck von links, Braesemann von der Komplexitätswissenschaft her
+- [[DenkerVita/Simon Schaupp]] — Im NANO Talk saßen sie am selben Tisch, und ihr Streit ist einer der Maßstäbe. Schaupp sieht Arbeiter, die die Algorithmen trainieren, die sie ersetzen, und will die Arbeitszeit insgesamt verkürzen; Braesemann misst mit Jobbörsen- und Lohndaten, wen es tatsächlich trifft, und setzt auf kleinere, zugeschnittene Eingriffe nach dem Muster des Elterngelds.
+- [[DenkerVita/Eva von Redecker]] — Die dritte Stimme derselben Runde: „Man muss an allen Schrauben drehen." Redecker zählt drei Arten von Arbeit, Erwerb, Sorge und die Eigenarbeit der Natur, und sagt, der Kapitalismus zähle nur die erste. Jobbörsen und Lohnstatistiken zählen ebenfalls nur die erste; was KI an Sorgearbeit verschiebt, taucht in Braesemanns Daten nicht auf, und genau dorthin richtet Redecker den Blick.
+- [[DenkerVita/Joan Kinyua]] — Braesemanns Daten zeigen, wessen Arbeit die KI übernimmt. Kinyua zeigt die Arbeit, die sie erst möglich macht: Annotatorinnen in Nairobi, die für ein, zwei Dollar die Stunde Trainingsdaten beschriften. „KI ist keine Magie. Es sind Menschen." Zur Arbeitsmarktfrage gehören beide Seiten.
+- [[DenkerVita/Carsten Jung]] — Braesemann sagt im NANO Talk, dass KI Zeit freisetzt, geschehe nicht von selbst, es brauche politische Entscheidungen darüber, wie die Produktivitätsgewinne verteilt werden. Jung beginnt genau dort: Wem fallen die Gewinne zu? Er will, dass der Staat die Richtung der KI lenkt, über das, was er einkauft, und über eine Beteiligung an den Erträgen.
+- [[DenkerVita/Jan-Keno Janssen]] — Beide schauen auf dieselbe Berufsgruppe und lesen sie verschieden. Janssen rechnet Nvidias Produktivitätsversprechen nach und findet, dass es vor allem Softwareentwickler erfasst, die mit KI am meisten anfangen können. Braesemann zählt dieselben Programmierer zu denen, deren Tätigkeiten am stärksten betroffen sind; was dort als Gewinn gemessen wird, kann hier als verlorene Stelle auftauchen.
+- [[DenkerVita/Ken Ono]] — Onos Satz, Wissen sei billig geworden, ist Braesemanns Befund aus der Sicht eines Mathematikers: Ersetzbar wird zuerst, wer von reinem Fachwissen lebt, nicht die körperliche Routinearbeit. Ono sucht den menschlichen Wert in der guten Frage, Braesemann bleibt bei der Frage, wer die Umschulung bezahlt.
+- [[DenkerVita/Heiner Flassbeck]] — Flassbecks Lohnstückkostenregel sagt, Löhne sollen mit der Produktivität plus Inflationsziel steigen. Hebt KI die Produktivität, wäre das sein Maßstab für die Verteilungsfrage, die Braesemann der Politik überlässt; Braesemann selbst rechnet nicht von der Gesamtwirtschaft her, sondern von Netzwerken und einzelnen Übergängen.
 
 ## Gedankenwelten-Notes
 

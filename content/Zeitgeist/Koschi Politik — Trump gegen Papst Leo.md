@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Trump gegen Papst Leo"
+description: "Papst Leo widerspricht Trump, Trump antwortet mit einer Abrechnung auf Truth Social und einem KI-Bild von sich als Jesus. Koschi über einen Streit, der selbst MAGA-Anhänger irritiert."
 aktualisiert: 2026-04-14
 date: 2026-04-14
 tags:

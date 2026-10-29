@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)"
+description: "Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

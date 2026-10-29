@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koschi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien"
+description: "Drei Millionen Epstein-Akten auf einmal und ein PDF, das erscheint und verschwindet: Koschi ordnet die Freigabe des US-Justizministeriums ein und hält sich bei unbelegten Vorwürfen bewusst zurück."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

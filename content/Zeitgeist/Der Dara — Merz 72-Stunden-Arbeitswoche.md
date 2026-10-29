@@ -1,5 +1,6 @@
 ---
 title: "Der Dara — Merz plant 72-Stunden-Arbeitswoche"
+description: "Ohne den gesetzlichen Acht-Stunden-Tag wären Arbeitswochen bis 72 Stunden möglich. Der Dara über die Pläne der Regierung Merz und die Gewerkschaften, die einst das Wochenende erkämpften."
 aktualisiert: 2026-05-13
 date: 13.05.2026
 tags:

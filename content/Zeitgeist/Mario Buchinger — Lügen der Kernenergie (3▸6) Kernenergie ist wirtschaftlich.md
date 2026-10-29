@@ -1,6 +1,7 @@
 ---
 date: 2026-03-30
 title: "Mario Buchinger — Lügen der Kernenergie (3/6): Kernenergie ist wirtschaftlich"
+description: "Zwischen 15 und 50 Cent je Kilowattstunde, jeder Neubau ein Milliardengrab: Mario Buchinger rechnet vor, warum Kernenergie die teuerste Stromquelle ist und die meisten Subventionen bekommt."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

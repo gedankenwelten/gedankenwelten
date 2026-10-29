@@ -1,5 +1,6 @@
 ---
 title: "Yanis Varoufakis — Technofeudalism"
+description: "Der Kapitalismus ist für Yanis Varoufakis tot, abgelöst nicht durch Revolution, sondern durch Cloud-Kapital: Aus Profit wird Tribut, aus Märkten werden Lehen der Plattformen."
 aktualisiert: 2026-05-15
 date: 15.05.2026
 tags:

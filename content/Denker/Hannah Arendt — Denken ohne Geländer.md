@@ -1,5 +1,6 @@
 ---
 title: Hannah Arendt — Denken ohne Geländer
+description: "Ein Geländer führt uns, ohne dass wir hinschauen. Hannah Arendt will ohne Geländer denken – und findet so die Banalität des Bösen, die Kraft der Geburt und die Liebe zur Welt."
 aktualisiert: 2026-03-22
 tags:
   - philosophie

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Smith in 60 Minuten"
+description: "Nicht vom Wohlwollen des Metzgers erwarten wir unser Abendessen. Walther Ziegler erklärt Adam Smith, die unsichtbare Hand und die Stellen, an denen sie offensichtlich versagt hat."
 aktualisiert: 2026-04-26
 date: 2026-04-26
 tags:

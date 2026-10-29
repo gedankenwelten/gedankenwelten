@@ -1,5 +1,6 @@
 ---
 title: "Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft"
+description: "Deutschland ist weniger gespalten, als es sich anfühlt. Steffen Mau findet breiten Konsens – und Triggerpunkte, an denen Polarisierungsunternehmer gezielt ansetzen."
 aktualisiert: 2026-04-28
 date: 28.04.2026
 tags:

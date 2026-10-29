@@ -1,5 +1,6 @@
 ---
 title: "Renée DiResta — Invisible Rulers: Wie Lügen zur Realität werden"
+description: "Plattformen sind eher Maschine als Spiegel. Renée DiResta zeigt, wie Influencer, Algorithmus und Crowd aus Gerüchten Realität machen – und warum Faktenchecks dagegen wenig ausrichten."
 date: 2026-04-29
 aktualisiert: 2026-04-29
 tags:

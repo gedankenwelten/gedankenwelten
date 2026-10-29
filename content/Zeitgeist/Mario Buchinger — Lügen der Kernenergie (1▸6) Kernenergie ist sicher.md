@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Mario Buchinger — Lügen der Kernenergie (1/6): Kernenergie ist sicher"
+description: "Ein Physiker nennt die Kernenergie Hochrisiko, gerade weil er sie kennt: Keine Versicherung deckt einen Supergau. Auftakt von Mario Buchingers sechsteiliger Reihe."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

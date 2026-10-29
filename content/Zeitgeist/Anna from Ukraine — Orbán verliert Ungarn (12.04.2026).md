@@ -1,5 +1,6 @@
 ---
 title: "Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)"
+description: "Mit Orbáns Niederlage verliert der Kreml seinen wichtigsten Verbündeten in der EU. Die Ukrainerin Anna Danylchuk erzählt die Ungarn-Wahl als geopolitische Zäsur und bleibt bei Magyar nüchtern."
 aktualisiert: 2026-04-13
 date: 2026-04-12
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Konfuzius in 60 Minuten"
+description: "Alle Menschen sind gleich, sie unterscheiden sich nur durch Erziehung. Walther Ziegler zeigt Konfuzius als Lehrer der Mitmenschlichkeit, der Goldenen Regel und eines unbequemen Widerstandsrechts."
 aktualisiert: 2026-05-09
 date: 09.05.2026
 tags:

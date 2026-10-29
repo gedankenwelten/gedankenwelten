@@ -1,5 +1,6 @@
 ---
 title: Panorama — Übersicht
+description: "Panoramen legen viele Notes nebeneinander, bis ein Thema als Ganzes sichtbar wird: was das Problem ist, woher es kommt, was hilft. Hier stehen sie alle, die wachsenden zuerst."
 date: 2026-04-27
 aktualisiert: 2026-04-27
 tags:

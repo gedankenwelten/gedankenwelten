@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News: Die Regierung zockt euch ab (02.04.2026)"
+description: "Geringverdiener minus 200 Euro, Millionäre plus 14.000: Staiy rechnet die Steuerpläne nach und fragt, wen die Regierung entlastet. Dazu Trumps Zollbilanz und ein Urteil gegen Jacques Tilly."
 aktualisiert: 2026-04-12
 date: 2026-04-02
 tags:

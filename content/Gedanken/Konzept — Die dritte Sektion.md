@@ -1,8 +1,9 @@
 ---
 title: "Konzept — Die dritte Sektion"
+description: "Zeitgeist und Denker nehmen auf, was andere gedacht haben; in den Gedanken trifft Wissen auf ein Leben. Ein Entwurf für einen offenen Raum vieler kleiner Lichter statt eines einzigen Leuchtturms."
 aktualisiert: 2026-04-05
 tags:
-  - gedanken
+  - gedanke
   - luc
   - konzept
   - gedankenwelten-public

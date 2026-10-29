@@ -1,5 +1,6 @@
 ---
 title: "Ivan Krastev — Wie zukunftsfähig ist Europa?"
+description: "„Nichts ist klar, aber alles ist möglich“: Die Welt erinnert Ivan Krastev an Bulgarien in den Neunzigern. Er fragt, was Europa trägt, wenn Hoffnung etwas anderes ist als Optimismus."
 aktualisiert: 2026-05-15
 date: 14.05.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Bundestalk — Iran, USA und die Straße von Hormus"
+description: "Ein Waffenstillstand ohne Frist, eine Straße von Hormus, die von beiden Seiten blockiert bleibt: Die taz-Runde fragt im April 2026, wer im Kräftemessen zwischen Iran und USA länger durchhält."
 aktualisiert: 2026-04-25
 date: 2026-04-24
 tags:

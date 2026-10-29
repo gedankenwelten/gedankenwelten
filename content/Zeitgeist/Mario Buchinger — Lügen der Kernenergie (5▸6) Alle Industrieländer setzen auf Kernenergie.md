@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Mario Buchinger — Lügen der Kernenergie (5/6): Alle Industrieländer setzen auf Kernenergie"
+description: "Ist Deutschland der Geisterfahrer? Mario Buchinger zählt nach: 82 Prozent der Staaten haben keine Kernenergie, und selbst China baut vor allem Solar."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

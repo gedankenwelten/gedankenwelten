@@ -1,5 +1,6 @@
 ---
 title: "rp26 — KIs unsichtbare Arbeitskräfte"
+description: "Er trainierte die KI, die Berlins Straßen erkennt, und bekam kein Visum, um in Berlin darüber zu sprechen. Ein Talk über die Datenarbeiter des Globalen Südens, die KI erst möglich machen."
 aktualisiert: 2026-05-25
 date: 20.05.2026
 tags:

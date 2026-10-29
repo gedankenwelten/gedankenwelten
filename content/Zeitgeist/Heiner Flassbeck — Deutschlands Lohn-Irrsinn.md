@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Deutschlands Lohn-Irrsinn"
+description: "Für Heiner Flassbeck zählen die Lohnstückkosten, und nach Jahren des Lohndumpings seit Schröder ist Deutschland nicht zu teuer. Wer die Arbeitskosten weiter drückt, öffnet die Tür zur Deflation."
 aktualisiert: 2026-05-15
 date: 15.05.2026
 tags:

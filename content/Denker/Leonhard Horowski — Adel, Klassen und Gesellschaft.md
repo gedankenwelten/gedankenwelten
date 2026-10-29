@@ -1,5 +1,6 @@
 ---
 title: Leonhard Horowski — Adel, Klassen und Gesellschaft
+description: "Monogamie war eine politische Technologie, Versailles die Antwort auf eine Krise. Leonhard Horowski liest den Adel als geronnene Systemlogik von Heirat, Rang und Erbe – mit Spuren bis heute."
 aktualisiert: 2026-07-14
 tags:
   - geschichte

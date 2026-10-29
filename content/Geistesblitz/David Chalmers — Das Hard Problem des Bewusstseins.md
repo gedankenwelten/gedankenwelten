@@ -1,5 +1,6 @@
 ---
 title: "David Chalmers — Das Hard Problem des Bewusstseins"
+description: "Warum fühlt sich überhaupt etwas an? David Chalmers nennt das das Hard Problem und wagt zwei verrückte Ideen: Bewusstsein als Grundgröße der Welt, vielleicht sogar überall."
 aktualisiert: 2026-05-06
 date: 14.07.2014
 tags:

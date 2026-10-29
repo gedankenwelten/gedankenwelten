@@ -1,5 +1,6 @@
 ---
 title: "Udo Marquardt — Zeit als Schlüssel zum guten Leben"
+description: "Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?"
 aktualisiert: 2026-05-20
 date: 17.05.2026
 tags:

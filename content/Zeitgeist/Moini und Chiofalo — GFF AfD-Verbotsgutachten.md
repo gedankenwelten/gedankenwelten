@@ -1,5 +1,6 @@
 ---
 title: "GFF-Verbotsgutachten — Kann die AfD verboten werden?"
+description: "Würde ein AfD-Verbotsantrag Erfolg haben? Die GFF sichtete zwei Millionen Datenpunkte, um die Frage zu beantworten, die bis dahin niemand belastbar beantworten konnte."
 aktualisiert: 2026-05-20
 date: 19.05.2026
 tags:

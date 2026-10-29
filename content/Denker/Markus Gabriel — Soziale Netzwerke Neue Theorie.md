@@ -165,7 +165,7 @@ Die Steuerdiskussion — wie zieht man Facebook Steuern aus der Tasche? — häl
 *Im Vortrag zitierte Denker und Werke:*
 
 - Markus Gabriel: [*Fiktionen*](https://www.genialokal.de/Suche/?q=Gabriel+Fiktionen+Suhrkamp) (2020, Suhrkamp, 636 S.) — Grundlagenwerk, aus dem die hier vorgestellte Theorie der sozialen Netzwerke stammt
-- Ludwig Wittgenstein — „als würde einer mehrere Exemplare derselben Tageszeitung kaufen" (Über Gewissheit, §265)
+- Ludwig Wittgenstein — „als würde einer mehrere Exemplare derselben Tageszeitung kaufen" (Philosophische Untersuchungen, §265)
 - Jean Baudrillard — *Der Golfkrieg hat nicht stattgefunden* (1991) — Referenz zur Medienrealitätsdebatte der 90er
 - Jocelyn Benoist — „Wirklichkeit ist das, was nicht verschwinden kann" — zentraler Bezug für Gabriels Realismus-Position
 - Richard Rorty — „The world were lost" — als Beispiel für postmoderne Wirklichkeitsskepsis

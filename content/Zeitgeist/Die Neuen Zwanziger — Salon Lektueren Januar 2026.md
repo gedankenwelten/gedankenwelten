@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren Januar 2026"
+description: "Für Patrick Kaczmarczyk zerfällt die Weltordnung an der Ignoranz des Westens gegenüber dem globalen Süden. Der Salon vom Januar 2026 liest dazu Dagmar Herzog über den Körper des neuen Faschismus."
 aktualisiert: 2026-04-25
 date: 2026-02-06
 tags:

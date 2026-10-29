@@ -1,5 +1,6 @@
 ---
 title: "Julie Pagis — Zwischen Politik und Sekte: Die Psychologie der Kontrolle"
+description: "Charismatische Kontrolle braucht keine Religion. Die Soziologin Julie Pagis erzählt von einem „roten Propheten“, der eine maoistische Gruppe beherrschte, und davon, wie Selbstkritik zur Waffe wurde."
 aktualisiert: 2026-05-07
 date: 07.05.2026
 tags:

@@ -123,6 +123,17 @@ Jede Zeitgeist-Note im Vault — ob Butterwegge über Armut, Mattei über Auster
 
 ---
 
+## Verbindungen zu anderen Denkern
+
+- [[DenkerVita/Gert Scobel]] — Zwei Vermittler mit verschiedenem Werkzeug. Ziegler baut einen Denker in einer Stunde aus Originalzitaten und Alltagsbeispielen auf und fragt am Ende, was er uns heute sagt; Scobel stellt Denker vor ein Problem der Gegenwart, Luhmanns Antrittsvorlesung vor die Überforderung durch Information, sechs Sätze vor die Frage, wie man leben soll. Für beide ist Philosophie keine Luxusdisziplin.
+- [[DenkerVita/Richard David Precht]] — Dasselbe Programm, Philosophie gehört allen, in zwei Rollen. Precht erzählt die Denker als Menschen ihrer Zeit und tritt selbst als streitbare Stimme in Talkshow und Podcast; Ziegler tritt hinter den Denker zurück, belegt jede These mit einer Textstelle und stellt seine Frage nach dem Heute erst am Schluss.
+- [[DenkerVita/Michael Hampe]] — Die stärkste Gegenstimme zum Format. Hampes *Die Lehren der Philosophie* (2014) misstraut genau dem, was eine Stunde je Denker nahelegt: Philosophie als Bestand von Lehrsätzen, die man lernen kann. Für Hampe soll sie prüfen wie Sokrates und erzählen, statt Doktrinen zu liefern.
+- [[DenkerVita/S.N. Goenka]] — In seiner Buddha-Stunde erzählt Ziegler von zwei Wochen Meditation bei einem vietnamesischen Mönch und davon, wie schwer es ihm als „Kopfmensch“ fiel, die Gedanken kommen und gehen zu lassen. Für Goenka liegt dort der entscheidende Unterschied: Man soll nichts annehmen, weil Buddha es sagte, sondern es an der eigenen Empfindung prüfen. Die Edlen Wahrheiten, die Ziegler als Philosophie entfaltet, sind bei ihm eine Technik.
+- [[Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie|Wolfram Eilenberger]] (Note, keine DenkerVita) — Eilenberger wirft der akademischen Philosophie vor, sich in englischsprachige Fachaufsätze zurückgezogen zu haben, während Wittgenstein, Benjamin, Arendt und Weil Essays, Reportagen und Drehbücher schrieben. Zieglers Reihe antwortet auf dieselbe Lücke, aus dem Hörsaal heraus und mit dem Publikum von YouTube.
+- [[DenkerVita/Jean-Paul Sartre]] — Wo Ziegler mit eigenem Bogen spricht, im Freiheitsvortrag am Deutsch-Amerikanischen Institut Heidelberg, führt der Weg von Perikles' Gefallenenrede über das Paradox der absoluten Freiheit zu Sartres Satz, wir seien zur Freiheit verurteilt. Sartres kühnste These, wir seien auch gegenüber der Vergangenheit frei, illustriert er mit einem eigenen Erlebnis: einem Alexander-Relief im Ost-Berliner Museum, unter dem damals „fälschlich der Große genannt“ stand und heute wieder „der Große“.
+
+---
+
 ## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Platon in 60 Minuten]] — Höhlengleichnis, Ideenlehre, Anamnesis, Philosophenstaat

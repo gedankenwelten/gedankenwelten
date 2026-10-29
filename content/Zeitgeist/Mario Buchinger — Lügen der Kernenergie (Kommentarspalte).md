@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Mario Buchinger — Lügen der Kernenergie: Kommentarspalte"
+description: "Was die Kommentarspalte zurückschreibt, wenn ein Physiker Atom-Mythen zerlegt: Mario Buchinger antwortet auf die häufigsten Einwände, von Frankreichs Strom bis zur Sonne als Fusionsreaktor."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist

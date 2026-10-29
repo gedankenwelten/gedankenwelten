@@ -1,6 +1,7 @@
 ---
 date: 2026-04-11
 title: "Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)"
+description: "Für Sandra Navidi ist die Trump-Regierung ein Raubzug in Amtskleidung: Meme Coins, Mar-a-Lago-Tarife, Insiderhandel. Wo Rechenschaft nicht mehr greift, wird Schamlosigkeit zur Stärke."
 aktualisiert: 2026-04-11
 tags:
   - zeitgeist

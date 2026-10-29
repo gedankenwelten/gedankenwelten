@@ -1,5 +1,6 @@
 ---
 title: "Erich Fromm — Die Welt lieben (SRF 1979)"
+description: "Erhalten kann man das Leben nur, wenn man die Welt liebt. Erich Fromm, ein Jahr vor seinem Tod, über Interesse als Lebenskraft, falsche Propheten und ein Christentum ohne Gott."
 date: 2026-04-19
 aktualisiert: 2026-04-19
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Wittgenstein in 60 Minuten"
+description: "Wovon man nicht sprechen kann, darüber muss man schweigen – und dann begann er neu. Walther Ziegler über Wittgenstein: vom Tractatus zu den Sprachspielen, die Sprache als alte Stadt."
 aktualisiert: 2026-05-09
 date: 09.05.2026
 tags:

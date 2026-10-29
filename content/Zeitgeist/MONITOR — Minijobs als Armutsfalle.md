@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — Minijobs als Armutsfalle"
+description: "Gedacht als Brücke in reguläre Arbeit, wirken Minijobs oft als Klebefalle. MONITOR zeigt Menschen mit drei Jobs und ohne Absicherung – und eine Union, die darüber streitet."
 aktualisiert: 2026-04-25
 date: 2026-02-16
 tags:

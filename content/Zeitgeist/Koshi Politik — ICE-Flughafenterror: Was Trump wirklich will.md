@@ -1,6 +1,7 @@
 ---
 date: 2026-03-24
 title: "Koschi Politik — ICE-Flughafenterror: Was Trump wirklich will"
+description: "Für Koschi geht es Trump beim ICE-Einsatz an Flughäfen um Druck für den Save America Act, nicht um Sicherheit. Dazu ein tödlicher Unfall in LaGuardia und eine Festnahme in San Francisco."
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
