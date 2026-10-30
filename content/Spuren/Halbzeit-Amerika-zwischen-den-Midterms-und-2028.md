@@ -78,6 +78,10 @@ Auch beim Neuzuschnitt der Wahlkreise mitten im Jahrzehnt haben beide Seiten mit
 | Ulrike Herrmann | März | die Rezession durch den Ölschock macht die Midterms *„zu einem Desaster für Trump“* | [[Zeitgeist/taz Reingehen — Wer das Öl hat, hat das Sagen\|taz Reingehen]] |
 | Manuel Koschi | 23.10. | Demokraten *„wenn es gut läuft, 53, vielleicht maximal 54 Sitze im Senat“* | [▶ 21:19](https://www.youtube.com/watch?v=XGGp4Mtqg9E&t=1279) |
 | Umfragen | 23.10. | Demokraten landesweit gut neun Punkte vorn; Nate Silvers Modell gibt ihnen etwa 75 % für den Senat | TheTrumpWeek, [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Was seither geschah\|Was seither geschah]] |
+| Yuval Levin | Juni | *„the Democrats are likely to gain control of at least one chamber … Republicans in Washington seem almost resigned to this outcome“* | [National Review](https://www.nationalreview.com/magazine/2026/08/the-trump-era-gops-dangerous-drift/) |
+| Sean Trende | 02.10. | Senat: *„anything between like Republicans getting 48 seats and 51 seats, I think wouldn't be terribly surprising“*; Ken Paxton in Texas *„in real trouble“* | [RCP Radio ▶ 35:08](https://www.youtube.com/watch?v=d1rzdxnZYeE&t=2108) |
+| Sean Trende | 19.–27.10. | Landesweit etwa D+8, aber die neuen Karten haben auf beiden Seiten „Deiche“ gebaut: *„even low double-digit gains for Democrats on these maps would represent an outstanding election“*. RCP rechnet mit einem Zugewinn der Demokraten im Repräsentantenhaus *„in the low 20s“*; bricht der Deich, *„you lose seats slowly and then all at once“*. Im Senat könnte Michigan den Demokraten verloren gehen, Ohio und Alaska an sie fallen; *„still likely going to be a big Democratic night“* (27.10.) | [Poll Vault](https://pollvault.substack.com/p/level-setting-2026-part-i-the-house) · [RCP Radio 22.10.](https://www.youtube.com/watch?v=mAqGn6bqm1I) · [27.10.](https://www.youtube.com/watch?v=PxqZc0wJkCg) |
+| Dan McLaughlin | 28.10. | *„Republicans are still in bad shape, but the blue wave hasn't swept them out to sea just yet“* — keine Zahl; seine Rechnung über die RCP-Durchschnitte sei *„not a predictive model“* | [National Review](https://www.nationalreview.com/2026/10/the-senate-will-break-late-this-year/) |
 
 Dazu in Kalifornien **Proposition 40**, die Milliardärssteuer: Ende September 48 Prozent Ja gegen 38 Prozent Nein
 (NBC/Telemundo).
@@ -92,6 +96,7 @@ Dazu in Kalifornien **Proposition 40**, die Milliardärssteuer: Ende September 4
 | Staiy | März | Einschüchterung, Gewalt oder Repression gegen Wählende wären das Zeichen, *„dass sich Donald Trump mutmaßlich nicht mehr abwählen lässt“* ([[Zeitgeist/Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)\|Staiy]]) |
 | Koschi / Mehdi Hasan | März | statt Kurswechsel Wahlunterdrückung über den SAFE Act ([[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan\|MAGA-Risse]]) |
 | Manuel Koschi | 23.10. | die rechtlichen Grenzen halten: Der Wahltermin steht im Bundesgesetz, die alten Mandate enden am 3. Januar 2027 um zwölf Uhr, die Bundesstaaten zertifizieren. Kritisch sei die Zeit zwischen Wahl und Zertifizierung ([▶ 10:39](https://www.youtube.com/watch?v=XGGp4Mtqg9E&t=639)) |
+| Dan McLaughlin | 21.10. | hält die Warnungen für übertrieben. Auf Senatorin Slotkins Satz, die Regierung könnte in den letzten zwei Wochen *„a national security incident“* erfinden: *„Begun, the stolen-election conspiracy theories have.“* ([X](https://x.com/baseballcrank/status/2112743972581868027)) |
 
 ### Was danach kommt
 
@@ -99,6 +104,7 @@ Dazu in Kalifornien **Proposition 40**, die Milliardärssteuer: Ende September 4
 - **Koschi, 23.10.:** Ein demokratisches Repräsentantenhaus würde vorladen und öffentlich unter Eid befragen, zu Iran-Krieg, Epstein, Korruption und Steuergeld. Was jetzt hinter verschlossenen Türen läuft, liefe dann vor Kameras ([▶ 18:16](https://www.youtube.com/watch?v=XGGp4Mtqg9E&t=1096)). Trump müsse sich dann *„einigermaßen zurückziehen“*.
 - **Koschi, 27.10.:** Trump könne jetzt unter Eid aussagen, geschützt durch die Immunität des Präsidenten, oder in zwei Jahren ohne sie, *„und dasselbe dann für Todd Blanche und Kash Patel“*.
 - **Koschi, ICE-Rekorde:** Dreht der Kongress, werden Untersuchungen erzwungen ([[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde\|ICE setzt neue Rekorde]]).
+- **Levin, 03.09.:** Für eine Absetzung fehle die Mehrheit im Senat, *„and there almost certainly isn't going to be“*. Den Ausweg sieht er in der Amtszeitgrenze: *„Trump has talked about ignoring the 22nd Amendment, and we should put nothing past him. But it does seem likely that the amendment will help rid us of him soon“* ([AEI](https://www.aei.org/op-eds/barking-up-the-wrong-amendment/)).
 - **Navidi** zur Frage, ob die Epstein-Ermittlungen nach der Wahl Fahrt aufnehmen: *„Ich glaube es, wenn ich es sehe.“*
 - **Die Wahlgeschenke** — Arzneimittel-Deals, 500-Dollar-Rückzahlungen, die 5.000-Dollar-„Trump-Dividende“, *falls die Republikaner beide Kammern gewinnen* ([[Spuren/Trumps-Wille-geschehe\|Trumps Wille geschehe]]). Was bleibt davon, wenn der Wahlkalender wegfällt?
 
@@ -314,6 +320,43 @@ anonyme Quellen. (3) Beim Neuzuschnitt und bei den Störkandidaten waren beide P
 auf einer Seite liest, liest sie falsch. (4) Unsere Quellen über den Wahlkampf sind überwiegend Trump-kritisch,
 allen voran Koschi und das ZDF.
 
+### 2026-10-30 — Drei konservative Stimmen, vier Tage vor der Wahl
+
+**Befund:** Für die Gegenbeobachtung (4) sind drei Konservative dazugekommen, geprüft daran, ob sie 2020 als
+Ergebnis anerkannt haben, wie ihre früheren Prognosen lagen und ob sie mit Daten arbeiten. Alle drei bestehen.
+**Sean Trende** (RealClearPolitics) sagt zu den Betrugszahlen: *„If there were widespread fraud, we would know
+it“*, Nicht-Staatsbürger an der Urne seien *„hundreds or thousands … but it's not the millions that President Trump
+cites to“* (Podcast *SAVEing the Voting Discourse*, 27.03.). Seine Fehlerwartung von 2022 räumt er selbst ein
+(*„including myself“*). **Dan McLaughlin** (National Review) wies 2020 die Erzählung vom gestohlenen Sieg zurück und
+lag 2022 ebenfalls daneben (am Wahltag: Republikaner *„within striking distance of 54 Senate seats“*). **Yuval
+Levin** (AEI) nannte den 6. Januar am Tag danach Anstiftung zum Aufstand, die Betrugserzählung *„all a lie, every
+part of it“*.
+
+**Deutung:** Alle drei erwarten eine schlechte Nacht für die Republikaner, keiner einen Zusammenbruch. In der
+Richtung decken sie sich mit Koschi; das Maß unterscheidet sich, und das misst der 04.11. Den SAVE Act verteidigt
+keiner. Trende hält den Staatsbürgerschaftsnachweis für *„the most problematic“* Teil, er schließe *„quite a few
+voters … for very little payoff“* aus; McLaughlin sieht *„only the most marginal impact on election outcomes,
+especially in the 36 states that already have voter ID laws“*
+([X, 07.08.](https://x.com/baseballcrank/status/2085739016326930539)) und will dafür nicht den Filibuster opfern.
+Levin hält Trumps Wunsch, die Wahlverwaltung bundesweit zu regeln, für so falsch wie das Wahlgesetz der Demokraten
+von 2021 ([National Review, 06.02.](https://www.nationalreview.com/corner/nationalizing-elections-is-a-very-bad-idea-as-it-was-when-democrats-tried-it/)).
+
+**Gegenbeobachtung:** (1) McLaughlin gibt der Regierung dort recht, wo die Gerichte es taten: Der Supreme Court
+habe beim Briefwahl-Dekret zu Recht einen *„rogue district judge“* gebremst, und gegen die Weitergabe von
+Sozialversicherungsdaten an Wahlbehörden habe die Gegenseite *„an especially tortured effort at reading federal
+law in a way that would restrain Donald Trump“* versucht
+([National Review, 25.09.](https://www.nationalreview.com/corner/supreme-court-allows-trump-dhs-to-share-social-security-data-with-elections-officials/)).
+Die Sorge der Demokraten vor einem erfundenen Sicherheitsvorfall nennt er den Beginn neuer Verschwörungserzählungen.
+(2) Zu Alaska widerspricht er der Klage des Ministeriums: Verwechslungsgefahr sei schon beim Butterfly-Stimmzettel
+in Florida 2000 *„a BS argument“* gewesen; *„False Dan Sullivan is a dirty trick, but a legal one“*
+([X, 24.10.](https://x.com/baseballcrank/status/2114128572919251387)). (3) Beim Neuzuschnitt der Wahlkreise sieht
+Trende beide Seiten: *„Democrats aren't innocent in this“*, für die Republikaner werde es *„not a losing gambit … It
+might end up a tie“* (RCP Radio, 27.10.). McLaughlin nennt den Neuzuschnitt in Texas legal, aber *„the collapse of
+all remaining norms around redistricting“*. (4) Levin hält Trumps Amtsverständnis für *„directionally autocratic“*,
+den Begriff Autoritarismus aber bewusst zurück: *„To say the sky has fallen before it has just doesn't leave you
+enough to say when you face a much more grave threat“*. Das chronische Problem sei ein Kongress, der *„chooses to
+make itself weak“* (Ezra Klein, 16.01.; Checks & Balances, 20.08.).
+
 ---
 
 ## Gleichmut-Spiegel
@@ -329,7 +372,11 @@ allen voran Koschi und das ZDF.
   Gerichtsebenen in Kalifornien, Ort und Wortlaut der Omar-Rede), und den Spoiler-Vorwurf in Alaska hielt er am
   24.10. noch für republikanische Theorie. Jede Angabe aus seinen Videos geht erst nach dem Original in die Spur.
 - **Wer fehlt.** Eine ernsthafte konservative Stimme, die die neuen Regeln zur Wahlintegrität begründet (siehe
-  Stimmenspektrum), und eine, die die Warnungen für übertrieben hält. Beide sind jetzt drin, aber dünn.
+  Stimmenspektrum), und eine, die die Warnungen für übertrieben hält. Seit dem 30.10. sprechen Trende, McLaughlin
+  und Levin mit. Dabei fiel etwas auf: Wer unsere erste Prüfung besteht (2020 anerkannt), verteidigt den SAVE Act
+  nicht. *Lassen sich die neuen Regeln mit Daten schwer verteidigen, oder sortiert unser Maßstab ihre Verteidiger
+  aus?* Offen. Verteidigt wird die Regierung bei uns vor allem von denen, die sie stellen (Essayli) oder für sie
+  werben (Heritage Action).
 - **Ein Wort, das wir meiden.** „Manipulation“ benennt eine Absicht. Wo die Absicht nicht belegt ist, schreiben
   wir, was geschah: Klage, Liste, Durchsuchung, Werbespot.
 
@@ -340,6 +387,9 @@ allen voran Koschi und das ZDF.
 | Heritage Action (Tiffany Justice) | konservative Lobby, für den SAVE America Act | *„Only American citizens should decide American elections. It's that simple.“* ([Heritage Action](https://heritageaction.com/press/house-passes-save-america-act-heritage-action-only-citizens-should-decide-american-elections)) |
 | Bill Essayli | Justizministerium, Los Angeles | Die Liste schütze Staatsbürger vor *„dilution“* ihrer Stimmen; er erwartet den Fall vor dem Supreme Court |
 | Mark Halperin | The Free Press, 26.10. | *„Stop the Steal“* habe jetzt die Demokraten erfasst: Sie fürchteten Betrug, *„because they think it's the only way they could possibly lose“* ([The Free Press](https://www.thefp.com/p/stop-the-steal-mania-democrats-trump-midterms)) |
+| Sean Trende | RealClearPolitics, Wahlanalyst; Ohio State, AEI; 2021 Sonderbeauftragter für Virginias Wahlkreiskarte | Rechnet mit einem klaren demokratischen Sieg, dem die neuen Karten die Sitze dämpfen. Den Staatsbürgerschaftsnachweis hält er für einen Ausschluss vieler Wähler *„for very little payoff“*; die Betrugszahlen der Regierung für weit überhöht |
+| Dan McLaughlin | National Review, Anwalt | Verteidigt die Regierung, wo die Gerichte ihr recht gaben (Sozialversicherungsdaten, Briefwahl-Dekret), hält die Warnungen der Demokraten für Verschwörungsdenken, widerspricht aber der eigenen Seite beim SAVE Act und bei der Alaska-Klage |
+| Yuval Levin | American Enterprise Institute, *National Affairs* | Konservativ, nicht republikanisch: Trump sei *„hostile to the constitutional system“*, das chronische Problem aber ein Kongress, der sich selbst schwächt, und ein Patt zweier Minderheitsparteien. Misst an Gerichtsbilanzen statt an Schlagzeilen ([Checks & Balances ▶](https://www.youtube.com/watch?v=PH0asX26Qng)) |
 | David Becker | Wahlrechtsexperte | Bundesbehörden haben keine Befugnis über die Zertifizierung der Staaten |
 | Richter David O. Carter | Bundesgericht, Kalifornien | *„Never before in American history …“* |
 | Ulf Röller | ZDF Brüssel | Beide Seiten lebten im Bewusstsein, *„wenn die andere Seite drankommt, geht die Welt unter“* ([▶ 22:51](https://www.youtube.com/watch?v=iX_qh2O7OuI&t=1371)) |
@@ -413,6 +463,9 @@ sind.
 - Manuel Koschi, *Koschi Politik* — [Was passiert, wenn Trump die Midterm-Wahlen verliert? (23.10.)](https://www.youtube.com/watch?v=XGGp4Mtqg9E) · [Pure Verzweiflung überall (29.10.)](https://www.youtube.com/watch?v=UwXfUncbAiM) · YouTuber in den USA, auf Seiten der Demokraten; Einstieg, nicht Beleg
 - Heritage Action — [Presseerklärung](https://heritageaction.com/press/house-passes-save-america-act-heritage-action-only-citizens-should-decide-american-elections) · konservative Lobby
 - Mark Halperin — [The Free Press, 26.10.](https://www.thefp.com/p/stop-the-steal-mania-democrats-trump-midterms)
+- Sean Trende — [Poll Vault](https://pollvault.substack.com/p/level-setting-2026-part-i-the-house) (eigener Newsletter seit 15.10.) · RCP Radio [02.10.](https://www.youtube.com/watch?v=d1rzdxnZYeE), [22.10.](https://www.youtube.com/watch?v=mAqGn6bqm1I), [27.10.](https://www.youtube.com/watch?v=PxqZc0wJkCg) · [SAVEing the Voting Discourse (27.03.)](https://podcasts.apple.com/us/podcast/saveing-the-voting-discourse/id1855549216?i=1000757694385) · [What Happened? (2022)](https://www.realclearpolitics.com/articles/2022/11/17/what_happened_148483.html) · konservativ, Datenanalyst
+- Dan McLaughlin — National Review [28.10.](https://www.nationalreview.com/2026/10/the-senate-will-break-late-this-year/), [25.09.](https://www.nationalreview.com/corner/supreme-court-allows-trump-dhs-to-share-social-security-data-with-elections-officials/), [Texas-Karte (2025)](https://www.nationalreview.com/corner/supreme-court-rightly-keeps-the-texas-republican-gerrymander-for-2026/), [Wahlbetrug 2020](https://www.nationalreview.com/2020/11/do-not-buy-bad-arguments-about-election-fraud/) · X [SAVE Act](https://x.com/baseballcrank/status/2085739016326930539), [Slotkin](https://x.com/baseballcrank/status/2112743972581868027), [Alaska](https://x.com/baseballcrank/status/2114128572919251387) · konservativ; NR-Texte 2026 meist hinter der Bezahlschranke, gelesen ist der freie Anfang
+- Yuval Levin — [National Review, Juni](https://www.nationalreview.com/magazine/2026/08/the-trump-era-gops-dangerous-drift/) · [AEI, 03.09.](https://www.aei.org/op-eds/barking-up-the-wrong-amendment/) · [Ezra Klein Show, 16.01.](https://www.aei.org/multimedia/has-trump-achieved-a-lot-less-than-it-seems/) · [Checks & Balances, 20.08.](https://www.youtube.com/watch?v=PH0asX26Qng) · [6. Januar (2021)](https://www.aei.org/op-eds/trumps-rebellion-against-reality/) · konservativ, Trump-kritisch
 
 ---
 

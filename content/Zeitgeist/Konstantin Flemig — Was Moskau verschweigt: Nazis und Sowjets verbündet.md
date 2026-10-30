@@ -16,6 +16,16 @@ aliases:
 
 # Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet
 
+![[assets/Konstantin-Flemig-Was-Moskau-verschweigt-Nazis-und-Sowjets-verbuendet-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Józef Czapski** — lockerer, dünner Ölauftrag, flache Farbfelder, gesichtslose Silhouetten; gedämpftes Ocker, Graugrün und Ziegelrot. Vorn die Parade zum 9. Mai mit Kindern in Papp-Panzern, dahinter ein schwerer roter Vorhang, durch dessen Spalt man den Händedruck von 1939 sieht, und am Rand der Birkenwald. Czapski war 1939 polnischer Offizier in sowjetischer Gefangenschaft, überlebte das Lager Starobielsk und suchte danach jahrelang nach den verschwundenen Kameraden von Katyn. Er malt das, was die Parade verdecken soll.
+
+*Prompt:* Wide banner painting in the style of Józef Czapski, Polish expressionist colorist: loose, quick, expressive brushstrokes of thin oil paint, broad flat colour areas, figures as simplified dark silhouettes without faces, muted ochre, grey-green and dull brick red with one sharp acid-yellow accent. Not naive, not cartoonish. Foreground: a festive victory parade on a wide grey square, small children riding toy tanks made of painted cardboard, rows of red flags and red balloons. Behind the parade a heavy dark-red theatre curtain hangs across the whole width, parted in the middle. Through the gap, in pale cold light, an old wooden podium where two officers, one in field-grey, one in khaki-brown, stand side by side shaking hands. Above them two crossed flags: one a plain solid red flag with no stars and no symbols, the other with three horizontal stripes black, white and red. At the far right edge, a dark birch forest in fog. No text, no letters, no emblems, no stars, no signature, no photorealism.
+
+</details>
+
 Quelle: [Was Moskau gern verschweigt: So eng waren Nazis und Sowjets verbündet!](https://www.youtube.com/watch?v=spIFlsMuSrk)
 
 > [!info] Wer spricht?

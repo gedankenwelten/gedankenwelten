@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*353 Notes — automatisch generiert · nach Thema sortiert*
+*355 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -135,6 +135,8 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]] — Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
 - [[Zeitgeist/ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten|Hybrider Angriff — Wie Putin Europas Osten destabilisiert]] — Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
 - [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie|Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Wer Angst hat, ersetzt zu werden, fürchtet keine weißen Einwanderer. Für Ibram X. Kendi geht es bei der Great Replacement Theory um Rasse, und sie ebnet den Weg zur Wahlautokratie.
+- [[Zeitgeist/Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand|Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]] — Wer weiß, dass draußen jemand an ihn denkt, übersteht die Einzelhaft anders: Die Memorial-Gründerin und die ZEIT-Reporterin über Gefangene, Briefe und ein Land, das seine Toten nicht nennen darf.
+- [[Zeitgeist/Irina Scherbakowa — Der lange Schatten des Stalinismus|Irina Scherbakowa — Der lange Schatten des Stalinismus]] — Der Terror hat Russland Angst, Misstrauen und Doppeldenken gelehrt, und weil niemand das Erbe aufarbeitete, konnte Putin es wieder benutzen: die Memorial-Historikerin über ein Land im Kreis.
 - [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]] — Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
 - [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert|IT Mario — 40.000 Bundestagsreden analysiert: Welche Partei ist wirklich gefährlich?]] — Eine KI liest 40.000 Bundestagsreden, ohne zu wissen, von welcher Partei sie stammen. Beim Vorwurf liegt das BSW knapp vor der AfD, beim Populismus führt die AfD deutlich.
 - [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa?]] — „Nichts ist klar, aber alles ist möglich“: Die Welt erinnert Ivan Krastev an Bulgarien in den Neunzigern. Er fragt, was Europa trägt, wenn Hoffnung etwas anderes ist als Optimismus.
