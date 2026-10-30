@@ -1276,3 +1276,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Alice Bota
 **Status:** ✓ Vollanalyse → [[DenkerVita/Alice Bota]]
+
+## Maria Kolesnikowa
+**Status:** ✓ Vollanalyse → [[DenkerVita/Maria Kolesnikowa]]

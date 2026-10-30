@@ -348,6 +348,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Maria Kolesnikowa|Maria Kolesnikowa]]** — Flötistin und Kulturmanagerin aus Minsk, 2020 eines der drei Gesichter der belarussischen Proteste; zerriss an der Grenze ihren Pass, um zu bleiben, fünf Jahre Haft, seit Dezember 2025 frei — wirbt für Druck und Gespräch zugleich
+
 **[[DenkerVita/Patrick Kaczmarczyk|Patrick Kaczmarczyk]]** — Politökonom und Entwicklungsökonom (Uni Mannheim, Kompetenzzentrum Transformation; zuvor UNCTAD, Ostafrika); stellv. Mitglied der Schuldenbremsen-Expertenkommission; *Kampf der Nationen* (2022), *Raus aus dem Ego-Kapitalismus* (2023), *Zerfall der Weltordnung* (2026); Studien mit Tom Krebs zu Stromnetz-Finanzierung und Militärausgaben; These: Geld ist eine Institution, und die westliche Wirtschaftsordnung war nie eine Ordnung für alle
 
 **[[DenkerVita/Katrin Eigendorf|Katrin Eigendorf]]** — ZDF-Sonderkorrespondentin für Krisenregionen (*1962); seit den 1990ern aus Kriegsgebieten — Tschetschenien, Afghanistan, Nahost, Ukraine; zweimal Moskau-Korrespondentin (1993–96 RTL, 2015–18 ZDF); Hanns-Joachim-Friedrichs-Preis 2021, Grimme-Preis 2022, zweimal Journalistin des Jahres; *Putins Krieg* (2022), *Erzählen, was ist* (2026); These: Empathie ist ein Erkenntnisinstrument, keine Parteinahme — und Ausgewogenheit ist keine Symmetrie zwischen Angreifer und Angegriffenem

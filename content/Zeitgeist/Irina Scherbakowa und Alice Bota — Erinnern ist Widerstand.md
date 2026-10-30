@@ -105,7 +105,7 @@ Fragerunde.
 
 ### Fünf Jahre, drei davon ohne ein Lebenszeichen
 
-[▶ 12:17](https://www.youtube.com/watch?v=P2clQgFv_mg&t=737) — Die erste Frage gilt Maria Kolesnikowa. Am 13.
+[▶ 12:17](https://www.youtube.com/watch?v=P2clQgFv_mg&t=737) — Die erste Frage gilt [[DenkerVita/Maria Kolesnikowa|Maria Kolesnikowa]]. Am 13.
 Dezember 2025 war sie mit 122 anderen politischen Gefangenen aus Belarus freigekommen. Scherbakowa kannte sie
 aus der Zeit davor: Die letzte Memorial-Ausstellung vor der Pandemie lief in Minsk, in der Galerie, die
 Kolesnikowa leitete, und sie handelte von den „Ostarbeitern“, den Menschen, die die Deutschen zur Zwangsarbeit
