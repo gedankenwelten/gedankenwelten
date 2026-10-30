@@ -82,6 +82,24 @@ Seine Pointe richtet sich gegen eine bestimmte Vorstellung: dass Zinsen verloren
 
 ---
 
+## Nachbesprechung
+
+*Flassbecks Frage reicht weiter als seine Antwort. Hier steht, was man über das Gesagte hinaus weiß, und wo es im Bestand weitergeht.*
+
+### Wer bekommt die Zinsen des Staates?
+
+Die Frage, wohin die Zinsen gehen, ist die richtige, und sie lässt sich inzwischen ziemlich genau beantworten. Ende 2025 lag gut die Hälfte der deutschen Staatsschuld bei Gläubigern im Ausland, ein Fünftel bei der Bundesbank, der Rest überwiegend bei Banken, Versicherern und Fonds; direkt bei Haushalten liegt fast nichts (Zahlen und Quellen im [[#Faktencheck|Faktencheck]]). Der Weg zum Sparer führt also fast immer über ein Institut, über die Lebensversicherung, den Fonds, die Pensionskasse. Am Ende kommt der Zins bei denen an, die solche Ansprüche haben, und Finanzvermögen ist in Deutschland sehr ungleich verteilt. Für die USA hat Sandy Brian Hager die Halter der Bundesanleihen über Jahrzehnte verfolgt: Fast die Hälfte liegt im Ausland, und der inländische Teil hat sich in den drei Jahrzehnten vor 2016 immer stärker beim obersten Prozent gesammelt (Hager 2016, *Public Debt, Inequality, and Power*, Buch, frei zugänglich, [doi:10.1525/luminos.14](https://doi.org/10.1525/luminos.14)). Eine vergleichbare Auswertung für Deutschland gibt es noch nicht.
+
+Ist der Teil, der ins Ausland geht, ein Verlust? Das hängt davon ab, was ohne die ausländischen Käufer geschähe. Dann müssten inländische Anleger die Anleihen aufnehmen, und wer mehr Käufer braucht, muss in der Regel mehr bieten. Wie stark die Zusammensetzung der Gläubiger auf den Preis wirkt, haben Fang, Hardy und Lewis für 101 Länder über drei Jahrzehnte gemessen: In Schwellenländern hebt eine um zehn Prozent höhere Schuld die Rendite um 5,8 Prozent, ohne private Nichtbank-Anleger wären es 8,4 Prozent (2022, NBER Working Paper, nicht begutachtet, [doi:10.3386/w30087](https://doi.org/10.3386/w30087)). Für Deutschland ist das nicht gemessen. Die Vermutung liegt nahe, dass es auch hier gilt: Die Hälfte der Zinsen fließt hinaus, und dafür halten die Käufer da draußen den Zins auf alle Anleihen niedriger.
+
+Der eigentliche Streit zwischen Grimm und Flassbeck liegt woanders: Wächst die Zinslast schneller als die Wirtschaft, die sie trägt? Olivier Blanchard hat 2019 gezeigt, dass der sichere Zins in den USA historisch meist unter der Wachstumsrate lag. Wenn das so bleibt, lassen sich Schulden verlängern, ohne später die Steuern zu erhöhen, und Staatsschuld hat womöglich gar keine fiskalischen Kosten (Blanchard 2019, *American Economic Review*, Vortrag als Präsident der American Economic Association, [doi:10.1257/aer.109.4.1197](https://doi.org/10.1257/aer.109.4.1197)). Das Wort „wenn“ trägt dabei alles. Die Bundesregierung führt den Anstieg auf 80,7 Milliarden bis 2030 selbst auf zwei Dinge zurück: den höheren Schuldenstand und Renditen, die nach dem Iran-Krieg mit der Inflationserwartung gestiegen sind ([Bundestag, hib](https://www.bundestag.de/presse/hib/kurzmeldungen-1205514)). Grimm schaut auf diese Bedingung, Flassbeck auf den Kreislauf. Beide haben einen Teil der Antwort.
+
+Was von Flassbecks Kreis bleibt, ist eine Verteilungsfrage, und sie ist politischer, als seine Buchhaltersprache klingt. Jeder Euro Zinsen ist ein Einkommen. Die offene Frage ist, wem der Staat dieses Einkommen zahlen will und wofür er sich das Geld geliehen hat.
+
+*Noch führt diese Frage in kein Panorama. Im Bestand äußern sich dazu [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas#Die Rechnung — und ein Fenster mit Datum|Ray Dalio]] (die USA zahlen mehr Zinsen als für ihr Militär, und leihen sich das Geld dafür), [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da#Die Fußnote von Maastricht|Philippa Sigl-Glöckner]] (nach ihrer eigenen Archivrecherche nennt eine Fußnote der Maastricht-Verhandlungen die 60-Prozent-Grenze „purer Zufall“) und [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Publikumsfragen|Veronika Grimm]] (Geld aus gelockerten Schuldenregeln flösse zuerst dorthin, wo die Wähler sind, zu den Älteren). Mit zwei, drei weiteren Notes könnte hier ein Panorama wachsen: Wann sind Staatsschulden eine Last?*
+
+---
+
 ## Faktencheck
 
 *Geprüft am 30.10.2026 gegen das Transkript und Primärquellen (BMF, Bundestag, Eurostat, IWF, Bundesbank, Koalitionsvertrag, Weißes Haus) sowie begutachtete Forschung. Ersetzt die Fassung vom Mai 2026.*
@@ -155,6 +173,10 @@ Achim Truger ist im Sachverständigenrat die keynesianische Stimme neben Grimm. 
 ### → [[Christoph Butterwegge — Armut NEU DENKEN]]
 
 Butterwegge beschreibt die Verteilungsseite, die Flassbeck in einem Halbsatz abtut („die Reichen bekommen mehr“). Wer Zinsen als Transfer vom Steuerzahler zum Vermögenden liest, landet bei Butterwegges Frage, wer in diesem Land überhaupt spart.
+
+### → [[Panorama/Wie viel Reichtum vertraegt eine Demokratie#Wem gehört was?|Wie viel Reichtum verträgt eine Demokratie? · Wem gehört was?]]
+
+Verwandt, nicht dieselbe Frage. Das Panorama fragt, wem gehört, was gemeinsam erarbeitet wird, und verhandelt Vermögensteuer, Erbe und Eigentumsformen. Wer die Zinsen des Staates als Einkommen derer liest, die Anleihen und Fonds besitzen, findet dort die Verteilung, die Flassbeck in einem Halbsatz abtut.
 
 ### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
 

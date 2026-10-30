@@ -375,6 +375,11 @@ Der Interviewer auf der anderen Seite des Tisches. Seine Positionen zu [[Tilo Ju
 
 Oetting stellt die Frage nach dem Kapital von der anderen Seite: nicht wofür es arbeitet, sondern ob eine Steuer, die Erben schont, die Gründer schwächt.
 
+
+### → [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden#Der Zinskreislauf — Wer zahlt, wer bekommt?|Heiner Flassbeck — Die Wahrheit über Staatsschulden]]
+
+Grimms Warnung vor 80 Milliarden Zinsen im Jahr 2030 ist Flassbecks Ausgangspunkt. Er dreht sie um: Die Zinsen seien Einkommen der Sparer. Die Nachbesprechung dort hält beide gegen die Zahlen, die Hälfte der Gläubiger im Ausland und Blanchards Bedingung, dass der Zins unter dem Wachstum bleibt.
+
 ---
 
 ## Weiterdenken

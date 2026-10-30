@@ -25,8 +25,8 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 45,
-   "aufrufe": 53
+   "leser": 46,
+   "aufrufe": 54
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -319,14 +319,14 @@
      "aufrufe": 18
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 12,
+     "aufrufe": 15
+    },
+    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 11,
      "aufrufe": 17
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 11,
-     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -344,12 +344,12 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 6,
-     "aufrufe": 6
+     "pfad": "/DenkerVita/Anke-Myrrhe",
+     "leser": 5,
+     "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Anke-Myrrhe",
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 5,
      "aufrufe": 5
     },
@@ -434,6 +434,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Denker/Walther-Ziegler-Adorno-in-60-Minuten",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Janina-Muetze",
      "leser": 2,
      "aufrufe": 2
@@ -470,6 +475,11 @@
     },
     {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
      "leser": 2,
      "aufrufe": 2
     },
@@ -549,6 +559,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Götz-Aly-Wie-konnte-das-geschehen",
      "leser": 1,
      "aufrufe": 1
@@ -592,21 +607,6 @@
      "pfad": "/Denker/Thich-Nhat-Hanh-Die-Vier-Edlen-Wahrheiten",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Ulrike-Herrmann-Technisch-moeglich-oekonomisch-unbezahlbar",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Alle-Denker",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -635,8 +635,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 45,
-     "aufrufe": 53
+     "leser": 46,
+     "aufrufe": 54
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -955,8 +955,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 45,
-     "aufrufe": 53
+     "leser": 46,
+     "aufrufe": 54
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -1214,7 +1214,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
+     "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
      "leser": 6,
      "aufrufe": 6
     }
@@ -1260,8 +1260,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 45,
-     "aufrufe": 53
+     "leser": 46,
+     "aufrufe": 54
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -1519,7 +1519,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
+     "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
      "leser": 6,
      "aufrufe": 6
     }

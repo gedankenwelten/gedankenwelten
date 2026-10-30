@@ -358,6 +358,11 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Kaczmarczyk erinnert an die Pufferlager, die der Globale Süden einst forderte; Weber führt sie auf Henry Wallace und Bretton Woods zurück und hat sie für die G20 neu durchgerechnet. An der Rüstungsausnahme der Schuldenbremse fürchten alle drei dieselbe Sparpolitik, die damit schon programmiert sei.
 
+
+### → [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden#Wer bekommt die Zinsen des Staates?|Heiner Flassbeck — Die Wahrheit über Staatsschulden]]
+
+Wenn die 60 Prozent ein Zufall sind, bleibt die Frage, woran man eine tragbare Schuld erkennt. Flassbeck sucht die Antwort im Kreislauf der Zinsen, die Nachbesprechung dort in der Frage, ob die Zinslast schneller wächst als die Wirtschaft (Blanchard), und bei der Hälfte der Gläubiger, die im Ausland sitzt.
+
 ---
 
 ## Weiterdenken
