@@ -106,6 +106,7 @@ Innenpolitisch hat er sich nie in ein Lager sortieren lassen. Er stellte sich im
 - [[DenkerVita/Anja Dahlmann]] — Lagodinskys Wunsch nach einem KI-Kontrollvertrag trifft auf Dahlmanns Bilanz aus zehn Jahren UN-Prozess: Präventive Verbote gelingen nur, wo der militärische Nutzen gering ist.
 - [[DenkerVita/Herfried Münkler]] — Beide wollen ein schneller entscheidendes Europa: Lagodinsky mit einem Europäischen Sicherheitsrat, Münkler mit einer Führungsgruppe der Fünf.
 - [[DenkerVita/Alice Bota|Alice Bota]] — kennt die russische Opposition ebenfalls aus der Nähe und beschreibt Nawalnys letzten Gerichtsauftritt.
+- [[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]] — Auch sie hält Isolierung für keine Strategie: Druck und Gespräch mit Lukaschenko gehörten zusammen. Anders als er setzt sie ihre Hoffnung zuerst auf die Gesellschaft im eigenen Land.
 
 ---
 

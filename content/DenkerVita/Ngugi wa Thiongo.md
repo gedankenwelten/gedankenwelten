@@ -123,6 +123,7 @@ viele Zentren gleichberechtigt nebeneinander bestehen.
 - [[DenkerVita/Tsitsi Dangarembga|Tsitsi Dangarembga]] — die koloniale Wunde „in den Köpfen" und die Siedlerkolonie Simbabwe konkretisieren Ngũgĩs Kategorien am gelebten Fall.
 - [[DenkerVita/Felwine Sarr|Felwine Sarr]] — endogene Zukunft (Afrotopia) als konstruktive Schwester von Ngũgĩs „from here to there to here".
 - [[DenkerVita/Suraj Yengde|Suraj Yengde]] — Dalit-Black-Brücke; verbindet Kaste und Rasse und erfüllt Ngũgĩs Auftrag, afroamerikanische Geschichte als „unsere" zu lesen.
+- [[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]] — Er schrieb im Gefängnis auf Toilettenpapier, sie sang in der Zelle die Habanera, als sie nicht Flöte spielen durfte: zwei, die erfahren haben, dass ein Regime die Kunst fürchtet, weil sie im Gedächtnis weiterlebt.
 
 ## Gedankenwelten-Notes
 

@@ -300,6 +300,10 @@ Scherbakowa liest den Jahrhunderte-Horizont als Blick, der nur zurückreicht: De
 
 Der Havel-Satz in der Praxis der sowjetischen Dissidenten: Sie stießen an „auf den Erfolg der hoffnungslosen Sache“, und Memorial dokumentiert heute für Tribunale, die vielleicht nie tagen.
 
+### → [[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]]
+
+Der Havel-Satz als Geste: 2020 zerriss sie an der belarussischen Grenze ihren Pass, um im Land zu bleiben, ohne zu wissen, was folgt. Es folgten mehr als fünf Jahre Haft, und sie sagt, sie würde wieder so handeln. Den Václav-Havel-Menschenrechtspreis erhielt sie 2021 in der Zelle.
+
 ---
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]

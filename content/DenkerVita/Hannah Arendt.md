@@ -160,6 +160,7 @@ Beide kreisen um das Denken als Lebensvollzug. Was Arendt die *Banalität des B�
 Krastevs Unterscheidung zwischen Hoffnung und Optimismus, an Václav Havel gewonnen, trifft Arendts Denken ohne Geländer: ein politisches Handeln, das keine Garantien braucht. Arendt dachte es nach dem Totalitarismus, Krastev nach dem Ende der liberalen Weltordnung.
 - [[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]] — beschreibt, was die Atomisierung durch den Terror in Russland über Generationen hinterlässt.
 - [[DenkerVita/Alice Bota|Alice Bota]] — denkt beim Gefangenendeal mit Lukaschenko an Arendts Macht aus dem Miteinander.
+- [[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]] — die tausenden Briefe an sie in der Haft lassen sich als Macht aus dem Miteinander lesen; ihre Freiheit aber fand sie allein in der Zelle, nicht zwischen Menschen.
 
 ---
 

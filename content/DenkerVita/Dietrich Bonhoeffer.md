@@ -176,6 +176,10 @@ Mitherausgeber der *Dietrich Bonhoeffer Werke* und sein sorgfältigster Ausleger
 
 Hat Bonhoeffers Begriff der Schuldübernahme rekonstruiert und kritisch geprüft (*Everyone Who Acts Responsibly Becomes Guilty*). Sie nimmt den Satz ernst und spricht im Alltag doch lieber von Verantwortung: Schuld lähmt, Verantwortung lässt handeln.
 
+### → [[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]]
+
+Die belarussische Flötistin zerriss 2020 an der Grenze ihren Pass, um bei ihren Leuten zu bleiben, so wie er 1939 aus dem sicheren New York zurückfuhr, und saß danach mehr als fünf Jahre in Haft, davon fast drei ohne jeden Kontakt. „Im Inneren war ich immer frei“: ihre Fassung der inneren Selbständigkeit. Ihr Halt war nicht Gott, sondern die Musik im Kopf und das Lachen, und anders als er blieb sie gewaltfrei.
+
 ---
 
 ## Gedankenwelten-Notes
