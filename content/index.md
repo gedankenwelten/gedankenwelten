@@ -96,6 +96,10 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
+> **30.10.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf.
+
 > **29.10.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
 >
 > Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
@@ -107,10 +111,6 @@ Die Gedankenwelten (luc)
 > **29.10.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
 >
 > Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
-
-> **29.10.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
->
-> Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf.
 
 > **29.10.** — [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
 >

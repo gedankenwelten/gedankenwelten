@@ -1,6 +1,6 @@
 ---
 title: "Halbzeit — Amerika zwischen den Midterms und 2028"
-date: 2026-10-29
+date: 2026-10-30
 tags:
   - spur
   - usa
@@ -14,7 +14,7 @@ status: offen
 spur-art: beobachtung
 review-takt: 14-tage
 eroeffnet: 2026-10-29
-aktualisiert: 2026-10-29
+aktualisiert: 2026-10-30
 description: "Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf."
 raetsel: "Das Passwort klebte am Schloss. Geöffnet hat trotzdem niemand."
 ---
