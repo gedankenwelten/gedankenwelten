@@ -36,15 +36,15 @@ Die Gedankenwelten (luc)
 >
 > Der Terror hat Russland Angst, Misstrauen und Doppeldenken gelehrt, und weil niemand das Erbe aufarbeitete, konnte Putin es wieder benutzen: die Memorial-Historikerin über ein Land im Kreis.
 
+> **30.10.** — [[Zeitgeist/Heiner Flassbeck — Die Wahrheit ueber Staatsschulden|Heiner Flassbeck — Die Wahrheit über Staatsschulden]]
+>
+> Wohin gehen die Zinsen des Staates? Für Heiner Flassbeck zurück an die Sparer, die sie als Steuern zahlen. Gut die Hälfte der Schuld liegt allerdings im Ausland.
+
 > **30.10.** — [[Zeitgeist/Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand|Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
 >
 > Wer weiß, dass draußen jemand an ihn denkt, übersteht die Einzelhaft anders: Die Memorial-Gründerin und die ZEIT-Reporterin über Gefangene, Briefe und ein Land, das seine Toten nicht nennen darf.
 
-> **30.10.** — [[Zeitgeist/auslandsjournal — Siegen um jeden Preis|Siegen um jeden Preis — Vier Wahlen und die Frage, wer verlieren kann]]
->
-> Israel, Brasilien, Serbien, die USA: In einer Woche wird viermal gewählt, und überall hängt die Demokratie an der Frage, ob der Verlierer sein Verlieren annimmt.
-
-> → *20 weitere in* [[Zeitgeist]]
+> → *21 weitere in* [[Zeitgeist]]
 
 ### Denker
 
