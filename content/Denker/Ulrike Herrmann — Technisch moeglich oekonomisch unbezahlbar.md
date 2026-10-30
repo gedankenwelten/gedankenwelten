@@ -413,6 +413,9 @@ Synhelion verspricht synthetisches Kerosin für 80 Cent je Liter und kürzt daf�
 
 Driouich zeigt, warum Herrmanns Keynes-Satz in der Stagnation kippt: Ohne Wachstum werden die Löhne zur Quelle der Gewinne statt zur Quelle der Nachfrage.
 
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Barbara Prainsack hält Nullsummendenken für eine Wurzel der Schließung und fragt, wie der Kuchen größer wird oder was er überhaupt ist. Herrmann ist die Gegenstimme mit Physik: Wenn der Kuchen materiell schrumpft, ruht Solidarität auf der Gleichheit der Ration, wie in ihrer britischen Kriegswirtschaft.
 
 ---
 

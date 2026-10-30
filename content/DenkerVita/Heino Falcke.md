@@ -97,7 +97,11 @@ Falcke versteht sich als Christ ([▶ 105:50](https://www.youtube.com/watch?v=0H
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Hartmut Rosa|Hartmut Rosa]] — Falckes „unverfügbares Geheimnis“ steht fast wörtlich in Rosas Begriff, und beide kommen über die Unverfügbarkeit zur Religion: Rosa nennt sie eine vertikale Resonanzerfahrung, Falcke lebt sie als Prädikant. Ob Falcke den Begriff von Rosa hat, ist nicht belegt.
+- [[DenkerVita/Sibylle Anderl|Sibylle Anderl]] — Beide sind Astrophysiker, die öffentlich über Demut und die Grenzen des Wissens sprechen. Ihre Philosophie der Astrophysik fragt, woher man weiß, was man zu wissen glaubt; Falcke misstraut gerade dem Ergebnis, das er sich gewünscht hat.
+- [[DenkerVita/Blaise Pascal|Blaise Pascal]] — Der gläubige Naturforscher zwischen zwei Unendlichkeiten. Pascals Wette argumentiert mit der Entscheidungslogik, Falckes Stuhl mit dem Ausprobieren; beide halten Gott für nicht beweisbar und setzen trotzdem auf ihn.
+- [[DenkerVita/Albert Camus|Albert Camus]] — Der Gegenpol: Wo Falcke im Zufall noch einen Sinn sieht und das Leid aus der Freiheit erklärt, nennt Camus die Religion eine Flucht und hält das Absurde ohne Sprung aus.
+- [[DenkerVita/Martin Buber|Martin Buber]] — Bubers Gott ist das ewige Du, das kein Gegenstand des Wissens werden darf. Falcke sagt dasselbe als Physiker: Ein beweisbarer Gott wäre einer, den man unter Kontrolle hätte.
 
 ---
 

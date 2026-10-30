@@ -258,3 +258,7 @@ Der Schürhaken-Streit ist einer der berühmtesten Momente der Philosophiegeschi
 ### → [[Torsten Wilholt — Wahrheit und Wissen]]
 
 Wilholt trennt den Fallibilismus sauber vom Skeptizismus („Es kann immer sein, dass ich mich irre“ ist nicht „Es kann sein, dass ich mich immer irre“) und hält, anders als Popper, an der Rechtfertigung als Baustein des Wissens fest. Poppers Methodenlehre ist bei ihm ein Beispiel für das evaluative Projekt der Erkenntnistheorie.
+
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Dieselbe Lichtablenkung, die Popper 1919 lehrte, dass Bestätigung kein Beweis ist, machte hundert Jahre später das erste Bild eines Schwarzen Lochs möglich. Dessen Mitentdecker hält ausgerechnet das erhoffte Ergebnis für „das Gefährlichste, was passieren kann“.

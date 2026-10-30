@@ -243,6 +243,10 @@ Produktive Reibung: Harari sieht die KI als neuen „Meister der Worte", Misselh
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Falcke erzählt die Wissenschaft als Drama, von der Katastrophenkette der Erdgeschichte bis zur „Pubertät der Menschheit“. Er widerlegt damit Hararis „schlechten Geschichtenerzähler“ und bestätigt zugleich, wie sehr auch diese Geschichte dem Familien-Skript folgt.
+
 ---
 
 ## Weiterdenken

@@ -261,6 +261,10 @@ Platons Höhle ist Dürrs reduktionistisches Denken: Wir sehen Schatten (Materie
 
 Bonhoeffer: Dummheit ist nicht Mangel an Intelligenz, sondern Abdankung des eigenen Denkens — man übergibt sein Urteil an Autoritäten. Dürr: *„Wir können den Menschen degradieren, dass er wie ein Computer wirkt. Dann ist er kein Mensch mehr."* Bonhoeffer beschreibt das sozial-psychologische Phänomen (wie Menschen aufhören zu denken). Dürr zeigt die physikalische Konsequenz: Wer den Menschen als Maschine behandelt, vernichtet seine Lebendigkeit — und damit das Einzige, was ihn vom Toten unterscheidet.
 
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Auch Falcke sagt, die Physik könne die Geschichte im Buch nicht erzählen. Er trennt Gott und Welt aber, wo Dürr sie mit Eckhart in eins setzt: Wer Gott in physikalische Begriffe fasst, „macht Gott ja wieder klein“.
+
 ---
 
 ## Weiterführend

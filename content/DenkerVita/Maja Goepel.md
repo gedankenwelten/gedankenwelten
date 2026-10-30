@@ -70,6 +70,7 @@ Heute ist sie Professorin, öffentliche Intellektuelle und Gastgeberin von **NEU
 - [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — als Gastgeberin der drei Vertrauens-Panels 2024 (Friedman/Redecker, Yu/Weisband, Bude/Gaub)
 - [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]] — Leuphana 2026, moderiert und streitet mit: Verteidigungsfähigkeit ohne Eskalationsspirale
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Über Debattenkultur, Konstruktivismus und Zuhören
+- [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]] — als Gastgeberin: Großzügigkeit und Solidarität, Nullsummendenken, Kathedralen-Denken, die Rente als Würde statt „Schutz“
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch über Gestaltungsmacht und demokratische Kultur
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Gespräch über Vermögensungleichheit und strukturelle Machtkonzentration
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]] — Keynote über Agency gegen Ohnmacht, BIP-Kritik und die Verteidigung des Green Deal

@@ -353,6 +353,9 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Wie Technik für behinderte Menschen auf einer Preisbühne erzählt wird, zeigt der Erfinderpreis 2024: Vier tunesische Ingenieurinnen führen einen gedankengesteuerten Rollstuhl vor; zwei Jahre später findet sich kein Beleg, dass er ausgeliefert wurde.
 
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Barbara Prainsack macht Teilgabe zum ersten Prinzip solidarischer Institutionen: Würde hängt für die meisten daran, gebraucht zu werden, nicht versorgt und weggeschickt. Zugleich nennt sie Solidarität freiwillig, nicht einforderbar, und steht damit genau dort, wo Krauthausen und El-Mafaalani über die Quote streiten.
 
 ---
 

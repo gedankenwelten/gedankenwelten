@@ -450,3 +450,8 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte
 ### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
 
 Die Kehrseite der stillen Reprivatisierung: Auch wenn der Staat den Konzern hinauswirft, behält er dessen Denkweise. Die Länder wollen die automatisierte Datenanalyse, nur ohne Palantir-Logo.
+
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Barbara Prainsack kommt aus der Daten-Governance zum selben Schluss wie Mühlhoff: Wo Schäden bekannt sind, verbieten statt um mehr Ethik zu bitten, und Gewinne aus Daten an die Einrichtungen zurückleiten, aus denen sie stammen. Anders als er ist sie ausdrücklich für Datennutzung, wo der öffentliche Wert hoch ist.
+

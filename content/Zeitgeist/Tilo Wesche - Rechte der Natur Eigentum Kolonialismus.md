@@ -457,6 +457,10 @@ Der Praxistest der Kernfrage: Die Amazonas-Rodung fällt auf den tiefsten Wert s
 
 Blom liefert die Vorgeschichte zu Wesches These: Der Bibelsatz „Macht euch die Erde untertan“ erklärte die Erde zu totem Territorium, das nichts will und keine Rechte hat, eine „Atombombe“ in die animistische Welt. Wesches Eigentumsrechte der Natur geben ihr diese Handlungsmacht rechtlich zurück, ohne zum Waldgeist zurückzukehren.
 
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Barbara Prainsack kommt von der Solidarität her zum selben Schluss: Elemente der Natur brauchen einen eigenen Rechtsstatus, denn wo Eigentum stärker geschützt ist als Menschenrechte, ist man entweder Eigentümer oder Eigentum. Auch sie antwortet auf den Einwand der Sprachlosigkeit mit den Unternehmen als Rechtspersonen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

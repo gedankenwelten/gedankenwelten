@@ -434,6 +434,10 @@ Heitmeyer beschreibt Verrohung als Prozess, der durch alle Räume geht und von S
 
 Budes Erzählung von der Corona-Beratung und Marinićs Vorwurf, die Pandemie sei „weggemacht“ worden, stehen gegen Buyx’ Befund, dass die meisten Menschen solidarisch blieben.
 
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Prainsack, mit der Buyx den Solidaritätsbegriff entwickelt hat, liest dieselben Pandemiejahre strenger: Aus der offenen Solidarität sei eine schließende geworden, und eine Gesellschaft, die ständig verhandelt, wer hinein darf, vergiftet auch die, die drinnen sind. Buyx' Schaumkronendebatte beschreibt dieselbe Bühne von der anderen Seite: oben der Streit um die Ränder, darunter die Mehrheit, die half.
+
 ---
 
 ## Weiterdenken

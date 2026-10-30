@@ -287,6 +287,10 @@ Anderls Schluss ist Weils Anfang: Aufmerksamkeit für die Welt und die anderen, 
 ### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen#Urteilskraft — das Loch im Vokabular|Michael Hampe — Warum Debatten über KI und Willen trügen]]
 Anderl setzt die Urteilskraft gegen das „Weltbild des Metrisierbaren“. Hampe zeigt, wie wenig wir über sie wissen, ein Vermögen, das wir täglich nutzen und nicht beschreiben können. Die Note zu ihm fügt den Einwand hinzu, den Anderl nicht stellt: Das Bauchgefühl ist auch der Ort, an dem Vorurteile einsickern. Manchmal schützt gerade die Zahl, der sie misstraut, vor dem Urteil, das sie verteidigt.
 
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Falcke lernte den Widerstand der Welt am Commodore VC20, der „genau das gemacht hat, was du geschrieben hast, nicht das, was du gemeint hast“, und kennt dieselbe Demut vor dem Sternenhimmel. Wo Anderl beim Staunen stehen bleibt, geht er weiter zum Schöpfer.
+
 ---
 
 ## Weiterdenken

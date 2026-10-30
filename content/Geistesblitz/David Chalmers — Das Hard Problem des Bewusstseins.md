@@ -223,3 +223,7 @@ Gabriels KI-als-Resonanzfeld-Konzept stößt an dieselbe Grenze wie Chalmers' Ha
 ### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
 
 Ein Empiriker, der Chalmers' Problem unterschreibt und seine Lösung nicht annimmt. Kornmeier formuliert das Hard Problem am Küchentisch — er wird nie erfahren, ob ein anderer die Himbeere sieht wie er, und es wird auch nie ein Experiment geben, das ihm das erlaubt — und lehnt Neuralink als „Bildzeitungsforschung" ab. Aber wo Chalmers die Fundamentalgrößen erweitert, zählt Kornmeier die 22 Theorien in Anil Seths Review und liest sie als Beleg des Nichtverstehens. Sein praktisches Korollar ist unbequem: Solange niemand definieren kann, was Bewusstsein ist, können wir auch nie feststellen, ob eine Maschine es erlangt hat — wir wüssten nicht, wonach wir messen.
+
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Falcke stellt das Hard Problem als Bild: Die Physik kennt die Teilchen eines Buchs, nicht seine Geschichte. Die Lücke, die Chalmers mit neuen Grundgrößen füllen will, füllt Falcke mit einer Schöpfung, die mehr ist als die Summe ihrer Teilchen.

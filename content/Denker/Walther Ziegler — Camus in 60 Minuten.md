@@ -219,3 +219,7 @@ Der Camus danach. Hier steht der Sisyphos von 1942 — trotzig, algerisches Lich
 
 Camus' Revolte als politisches Programm eines Abgeordneten: Bülow beruft sich auf die „permanente Revolte“ und formuliert die Leitplanken einer Koalition fast mit Camus' Worten, „bis hierhin und nie weiter“.
 
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Der Gegenentwurf: Falcke antwortet auf das Leid mit der Freiheit und auf den Zufall mit einem Sinn. Er rät, sich auf den zweitausend Jahre alten Stuhl irgendwann einfach zu setzen, also zu genau dem Sprung, den Camus verweigert.
+

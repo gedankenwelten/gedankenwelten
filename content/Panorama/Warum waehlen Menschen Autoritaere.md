@@ -2,7 +2,7 @@
 title: "Warum wählen Menschen Autoritäre?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-10-28
+aktualisiert: 2026-10-30
 description: "Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -49,6 +49,8 @@ Die Nachwahlzahlen aus Sachsen-Anhalt 2026 zeigen beides zugleich. 61 Prozent de
 
 Wie das Gefühl in die Wahl kommt, hat die Emotionsforschung genauer angesehen, und die Antwort ist eindeutiger als bei der Frage nach dem Geld: Es ist die Wut, nicht die Angst. Wer in der spanischen Krise wütend war, wurde populistischer, wer Angst hatte, nicht ([Rico, Guinjoan & Anduiza 2017, doi:10.1111/spsr.12261](https://doi.org/10.1111/spsr.12261)); nach den Pariser Anschlägen 2015 trieb Wut zum Front National, Angst hielt davon ab ([Vasilopoulos et al. 2018, doi:10.1111/pops.12513](https://doi.org/10.1111/pops.12513)). Die Wut richtet sich dabei meist nach oben, und sie kommt nicht nur aus Ohnmacht: Wer sich politisch kompetent fühlt, ist eher wütend und eher populistisch ([Rico, Guinjoan & Anduiza 2019, doi:10.1111/1475-6765.12374](https://doi.org/10.1111/1475-6765.12374)). Dass Ärger nach unten weitergereicht wird, ist im Labor belegt, als verschobene Aggression ([Marcus-Newhall et al. 2000, Meta-Analyse, doi:10.1037/0022-3514.78.4.670](https://doi.org/10.1037/0022-3514.78.4.670)) und als Strafe, die nach erlittenem Unrecht doppelt so hart auf eine Minderheit fällt ([Bauer et al. 2023, doi:10.1093/ej/uead005](https://doi.org/10.1093/ej/uead005)). An Wählern gemessen ist der ganze Weg von der Angst über die Wut zum Sündenbock noch nicht.
 
+Ein Scharnier zwischen beiden ist das Nullsummendenken: Gefühlte Benachteiligung erzeugt es, unabhängig von Einkommen und Ideologie ([Ongis & Davidai 2021, doi:10.1037/xge0001144](https://doi.org/10.1037/xge0001144)), und in 15 europäischen Ländern sagt die Frage, wen man für einen Sozialstaat *würdig* hält, die Wahl radikal rechter Parteien stark voraus, der gewünschte Umfang des Sozialstaats kaum ([Attewell 2020, doi:10.1080/01402382.2020.1715704](https://doi.org/10.1080/01402382.2020.1715704)). Kausal läuft es in beide Richtungen; eine frisch gewählte populistische Regierung senkte im Experiment das Nullsummendenken ihrer Anhänger ([Papaioannou et al. 2022, doi:10.1111/bjop.12602](https://doi.org/10.1111/bjop.12602)).
+
 **Die Stimmen**
 
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Der materielle Kern|Jana Hensel]]:** Der Rechtsruck im Osten hat einen materiellen Kern, den die Öffentlichkeit über dem Reden von Einstellungen vernachlässigt hat; die soziale Frage wird inzwischen rechts beantwortet.
@@ -60,7 +62,8 @@ Wie das Gefühl in die Wahl kommt, hat die Emotionsforschung genauer angesehen, 
 - **[[Arlie Hochschild — Stolen Pride#Das Stolz-Paradox|Arlie Hochschild]]:** Wer seinen Stolz auf Eigenleistung baut, erlebt Jobverlust als Scham, und Trump fördert diese Scham „wie Bergleute Kohle“.
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Was fehlt, ist nicht das Brot|Querfurt]]:** Die Clique hat Arbeit, die Arbeitslosigkeit hat sich mehr als halbiert; was fehlt, sind Jugendclub, Arzt und Anerkennung.
 
-<details><summary>Weitere Stimmen (13)</summary>
+<details><summary>Weitere Stimmen (14)</summary>
+- **[[Barbara Prainsack — Solidaritaet NEU DENKEN#Der Kuchen, der nicht wachsen darf|Barbara Prainsack]]:** Ausdrücklich als These: Wer den Kuchen für fest hält, streitet nur noch darüber, wen man ausschließen kann; statt auf den wartenden Opa einzugehen, prüft sie das Fundament des Arguments, dass das eine das andere ausschließt.
 
 - **[[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Warum Menschen nach rechts gehen|Riwan Driouich]]:** Dreißig Jahre Politik gegen die materiellen Interessen der Mehrheit und eine neoliberal gewordene Sozialdemokratie machten die extreme Rechte zum „Asyl für politisch Obdachlose“ (Zetkin); treibend sei eher die *gefühlte* als die gemessene Unsicherheit.
 
@@ -328,6 +331,7 @@ Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Ge
 | 28.10.2026 | [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Nachbesprechung|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]] | Materieller Kern: Finanzkrisen statt Stagnation (Funke, Schularick & Trebesch 2016), Japans Sanseitō 2025 (Lee 2026, Burgess 2026), Stagnation und Steuerbereitschaft (Vlandas & Weisstanner 2022, Preprint); Stimme Driouich |
 
 ---
+| 30.10.2026 | [[Barbara Prainsack — Solidaritaet NEU DENKEN#Nachbesprechung|Barbara Prainsack — Solidarität NEU DENKEN]] | Materieller Kern oder Einstellung: Nullsummendenken als Scharnier — Labor-Experimente (Esses 2001), gefühlte Benachteiligung (Ongis & Davidai 2021), Weltbild (Davidai & Ongis 2019), Würdigkeit statt Umfang (Attewell 2020), umgekehrte Richtung (Papaioannou 2022), VfGH 2019 |
 
 ## Verbindungen
 

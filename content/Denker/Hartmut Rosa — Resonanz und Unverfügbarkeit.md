@@ -229,6 +229,10 @@ Arendt verbindet Rosa direkt: Rosa erwähnt gleich zu Beginn Arendts Begriff der
 ### → [[Sibylle Anderl — Bequeme neue Welt#Warum noch Klavier üben?|Sibylle Anderl — Bequeme neue Welt]]
 In der Sternstunde mit Anderl wird Rosas Filterkaffee eingespielt, als Beispiel für die Urteilskraft, die die Kapselmaschine überflüssig macht. Ihr Paradox (nie so bequem, nie so gehetzt) ist seine Beschleunigung aus der Sicht dessen, der sich die Mühe abnehmen lässt, und ihr Chatbot, der zurückgibt, was man hineinruft, ist sein Echo ohne Resonanz.
 
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Ein Astrophysiker nennt den Glauben fast in Rosas Worten den Umgang „mit dem unverfügbaren Geheimnis des Lebens“ und findet das Unverfügbare ausgerechnet in der Wissenschaft, als Grenze, die die Physik selbst zieht. Zur Polarlicht-Garantie passt sein Auftakt: Zur Sonnenfinsternis reiste er an den einzigen bewölkten Ort.
+
 ---
 
 ### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]

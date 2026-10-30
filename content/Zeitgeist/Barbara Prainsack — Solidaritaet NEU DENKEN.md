@@ -168,6 +168,30 @@ Die dritte: **planetare Gerechtigkeit**, also eine sozial-ökologische Transform
 
 Und eine Zugabe, die zu ihrer eigenen Ratlosigkeit von vorhin passt: *„All das, was man nicht weiß oder wo man sich unsicher ist, einfach offen sagen und nicht immer vorgeben, alles zu wissen. Auch das schafft Vertrauen."*
 
+## Nachbesprechung
+
+*Zwei Thesen des Gesprächs, noch einmal aufgenommen: was man über das Gesagte hinaus weiß.*
+
+### Wächst Großzügigkeit, wo man sich aufgefangen fühlt?
+
+Prainsack nennt Großzügigkeit einen Überschuss der Solidarität und meint, sie werde möglich, wo Menschen darauf vertrauen können, selbst Hilfe zu bekommen. Die Forschung gibt ihr teilweise recht, und am deutlichsten dort, wo es um Gefühle geht, nicht um Geld. Wer sich schlechter gestellt *fühlt* als vergleichbare andere, hilft weniger; der objektive Status sagt das Helfen kaum voraus ([Callan et al. 2016, doi:10.1177/1948550616673877](https://doi.org/10.1177/1948550616673877), mehrere Stichproben, N = 2.233). Knappheit wirkt dabei in beide Richtungen: Sie kann prosoziales Verhalten heben oder senken und lenkt es oft auf die eigene Gruppe ([Civai, Elbæk & Capraro 2024, doi:10.1016/j.copsyc.2024.101931](https://doi.org/10.1016/j.copsyc.2024.101931), Review).
+
+Für die Institutionen ist das Bild gemischt, und gerade das ist lehrreich. In großzügigeren Wohlfahrtsstaaten engagieren sich mehr Menschen ehrenamtlich, hohe Renten gehen mit mehr Engagement der Älteren einher ([Ackermann, Erhardt & Freitag 2023, doi:10.1007/s11577-023-00881-8](https://doi.org/10.1007/s11577-023-00881-8), 23 Länder). Für das *soziale* Ehrenamt fand eine ältere Studie das Gegenteil, eine Verdrängung, ausgenommen die Geringverdiener, denen der Sozialstaat das Engagement erst ermöglicht ([Stadelmann-Steffen 2010, doi:10.1111/j.1467-9248.2010.00838.x](https://doi.org/10.1111/j.1467-9248.2010.00838.x)). Höhere Sozialausgaben gehen einige Jahre später mit mehr Vertrauen in andere einher, umgekehrt nicht ([Brewer, Oh & Sharma 2013, doi:10.1111/ijsw.12019](https://doi.org/10.1111/ijsw.12019)). Und im einzigen Fall mit Losverfahren, dem finnischen Grundeinkommens-Experiment 2017/18, hatte die Grundeinkommensgruppe mehr Vertrauen; bedarfsgeprüfte Leistungen senkten nicht das Vertrauen in die Behörde, wohl aber das in andere Menschen ([de Andrade, Ylikännö & Kangas 2021, doi:10.1515/bis-2021-0004](https://doi.org/10.1515/bis-2021-0004)). Das passt zu Prainsacks drittem Prinzip: Nicht die Höhe der Hilfe zehrt am Vertrauen, sondern die Prüfung, die beschämt.
+
+Eine Gegenstimme kommt aus der Welt. Im World Giving Index 2024 haben 82 Prozent in Kenia und 81 Prozent in Nigeria im letzten Monat einem Fremden geholfen, in Deutschland 57, in der Schweiz 45 Prozent ([CAF, World Giving Index 2024](https://www.cafonline.org/docs/default-source/inside-giving/wgi/wgi_2024_report.pdf)); bei Geldspenden liegen Island und Norwegen vorn. Die direkte Hilfe von Mensch zu Mensch ist dort am größten, wo das staatliche Netz am dünnsten ist. Hans Maggi erzählt von Menschen auf Sokotra, deren Ernte gerade verdorrt ist und die ihr Brot mit dem reichen Fremden teilen ([[Hans Maggi — Sokotra#Zweiter Teil — Die Querung|Sokotra]]). Vielleicht schafft das Netz eine andere Großzügigkeit, die verlässliche statt der spontanen, und Prainsack spricht von der ersten.
+
+→ Weiter im Panorama: **[[Panorama/Was ist Grosszuegigkeit#Muss man sich Großzügigkeit leisten können?|Muss man sich Großzügigkeit leisten können?]]**, mit Maja Göpel, Şeyda Kurt und Hans Maggi.
+
+### Ist Nullsummendenken Ursache der Schließung?
+
+Prainsack stellt es ausdrücklich als These hin, und die Forschung rechtfertigt diese Vorsicht. Für die Richtung, die sie meint, gibt es Experimente: Wer Konkurrenz als Nullsumme wahrnimmt, im Labor erzeugt oder als feste Überzeugung, lehnt Einwanderung stärker ab, und Interventionen gegen diese Überzeugung verbesserten die Einstellungen ([Esses et al. 2001, doi:10.1111/0022-4537.00220](https://doi.org/10.1111/0022-4537.00220)). In einer repräsentativen US-Studie sagt Nullsummendenken quer durch die Parteien die Bereitschaft voraus, Grundrechte einzuschränken ([Morrier, Magistro & Alvarez 2026, doi:10.1111/ssqu.70194](https://doi.org/10.1111/ssqu.70194), korrelativ). Am nächsten an ihrem Satz über die, die „nicht mehr als Solidarität verdienend wahrgenommen werden", liegt ein Befund aus 15 europäischen Ländern: Ob jemand rechtsradikal wählt, hängt stark davon ab, wen er für einen Sozialstaat *würdig* hält, kaum vom gewünschten Umfang des Sozialstaats ([Attewell 2020, doi:10.1080/01402382.2020.1715704](https://doi.org/10.1080/01402382.2020.1715704), Querschnitt).
+
+Zugleich läuft der Pfeil auch andersherum. Gefühlte Benachteiligung erzeugt Nullsummendenken, unabhängig von Einkommen und Ideologie, über ein zynisches Bild der Gesellschaft ([Ongis & Davidai 2021, doi:10.1037/xge0001144](https://doi.org/10.1037/xge0001144), sieben Studien, darunter eine mit 60 Ländern); das stützt Prainsacks Deutung „aus Erfahrung" besser als die Studie, die sie zitiert. Liberale wie Konservative denken nullsummig, wenn es ihrem Weltbild nützt, die einen bei ökonomischer, die anderen bei sozialer Ungleichheit ([Davidai & Ongis 2019, doi:10.1126/sciadv.aay3761](https://doi.org/10.1126/sciadv.aay3761)). Und in einem vorregistrierten Experiment *senkte* eine frisch gewählte populistische Regierung das Nullsummendenken ihrer Anhänger ([Papaioannou, Pantazi & van Prooijen 2022, doi:10.1111/bjop.12602](https://doi.org/10.1111/bjop.12602)): Es schwindet, wenn man selbst an der Macht teilhat. Nullsumme ist also Ursache, Folge und Werkzeug zugleich.
+
+Im Bestand stehen die drei Lesarten nebeneinander. Philip Manow hält die Konkurrenz um Wohnraum, Schulplätze und Sozialleistungen für teils real und warnt, wer sie als autoritär abtue, treibe Menschen in die Ecke ([[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Politik der Öffnung vs. Politik der Schließung|Manow]]). Robin Celikates sieht sie gemacht: Soziale Konflikte werden kulturell umcodiert, bis die Gleichheit der anderen als Angriff auf die eigenen Rechte erscheint ([[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Kulturkampf als Umweg|Celikates]]). Prainsack hält sie für eine Erfahrung, die sich auflösen lässt, mit längeren Zeiträumen und der Frage, was der Kuchen ist. Ein Fall aus ihrem Wiener Umfeld zeigt, was ihr zweites Kriterium als Gesetz bedeutet: Österreichs Sozialhilfe-Grundsatzgesetz knüpfte 2019 einen Teil der Leistung an Deutsch auf B1-Niveau und ließ die Sätze für jedes weitere Kind fallen; der Verfassungsgerichtshof hob beides im Dezember 2019 als gleichheitswidrig auf ([VfGH, G 164/2019](https://www.vfgh.gv.at/medien/VfGH_zu_Sozialhilfe-Grundsatzgesetz__Hoechstsatzsyste.de.php)).
+
+→ Weiter im Panorama: **[[Panorama/Warum waehlen Menschen Autoritaere#Materieller Kern oder Einstellung?|Materieller Kern oder Einstellung?]]**, mit Philip Manow, Robin Celikates und Amlinger & Nachtwey.
+
 ---
 
 ## Faktencheck
@@ -234,7 +258,37 @@ Und eine Zugabe, die zu ihrer eigenen Ratlosigkeit von vorhin passt: *„All das
 
 ## Verbindungen
 
-*(Montaigne folgt)*
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Dieselbe Reihe, dieselbe Gastgeberin, und die Koautorin des Solidaritätsbegriffs. Über die Pandemie urteilen beide verschieden: Buyx findet zwei Drittel bis drei Viertel durchgehend solidarisch und macht den Scheinwerfer verantwortlich, der nur auf die Ränder fiel; Prainsack sieht die offene Solidarität in eine schließende kippen. Zusammen gelesen beschreiben sie dieselbe Bühne von zwei Seiten: oben die Schaumkronendebatte darüber, wer hinein darf, darunter die Mehrheit, die einfach half.
+
+### → [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+
+Den Satz „Teilhabe ist Teilgabe" schreibt Prainsack einem Kollegen zu; Krauthausen hat ihn zum Programm gemacht, die Bühne statt des Rollstuhlplatzes. Beide misstrauen der Großzügigkeit, die als Gnade kommt: bei Krauthausen der Dank an den Hausmeister, der den Seiteneingang aufschließt, bei Göpel und Prainsack der „Schutz", den man nach 45 Beitragsjahren gnädig zugeteilt bekommt. Am Zwang trennen sie sich, oder scheinen es: Prainsack nennt Solidarität eine Praxis, die man nicht einfordern kann, baut aber Institutionen, die sie tragen sollen; Krauthausen will die Quote, weil auf Wohlwollen kein Verlass ist.
+
+### → [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau — Triggerpunkte]]
+
+Prainsacks Opa-Argument, warum Asylsuchende zum Arzt dürfen, wenn der Opa so lange wartet, ist Maus Triggerpunkt der ungerechtfertigten Privilegierung, bei ihm am Beispiel von Merz' Zahnarzt-Satz. Seine Frage des impliziten Gesellschaftsvertrags, wer was beanspruchen darf, ist genau die Stelle, an der Solidarität nach Prainsack giftig wird. In der Ursache trennen sie sich: Mau sieht Polarisierungsunternehmer, die Trigger von oben bewirtschaften, Prainsack ein Nullsummendenken, das aus Erfahrung wächst.
+
+### → [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Die stärkste Gegenstimme zu „Wie wird der Kuchen größer?". Für Herrmann ist das Schrumpfen Thermodynamik in Euro, keine Frage der Rahmung. Ihr Vorbild ist die britische Kriegswirtschaft, deren Akzeptanz aus der Gleichheit der Rationierung kam: Arm und Reich bekamen dasselbe. Prainsack und Göpel antworten, indem sie den Kuchen umdefinieren, Zeit und Sicherheit statt Besitz; Herrmann erwartet einen Kuchen, der materiell kleiner wird, und ihr Modell zeigt, worauf Solidarität dann ruht: auf der gleichen Ration.
+
+### → [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+
+Prainsack will die Interessen künftiger Generationen in Gesetzgebung und Regierung verankern, nennt das „sehr, sehr schwierig" und räumt ein, dass nicht einmal die schon geborenen Kinder vertreten sind. Von Scheliha hat genau dafür ein Verfahren entworfen, einen Zukunftsrat, den das Parlament anhören muss und dem es Gründe schuldet. Ihr Satz, Minderheitenschutz dürfe nicht von Großzügigkeit abhängen, reibt sich mit Prainsacks Solidarität, die sich nicht einfordern lässt, und trifft sich mit ihrem Boden der Grundbedürfnisse, der womöglich in die Verfassung gehört.
+
+### → [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus]]
+
+Fast dasselbe Argument, aus anderer Richtung. Beide halten einen Rechtsstatus für Fluss oder Bergkette für unumgänglich und beantworten den Einwand, die Natur könne nicht sprechen, mit dem Unternehmen, das auch Rechtsperson ist und für das jemand spricht. Wesche denkt aus der Eigentumstheorie (der Fluss als Eigentümer seiner selbst, das Bibliotheksbuch, „Eigentum verpflichtet"), Prainsack aus einer Solidarität, die über den Menschen hinausreicht; dass sie trotzdem beim Satz landet, man sei entweder Eigentümer oder Eigentum, zeigt, wie sehr auch sie innerhalb der Eigentumsordnung argumentieren muss.
+
+### → [[Geistesblitz/Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks — Unter der Wut die Scham?]]
+
+Marks' Satz „In dem Moment können wir nicht großzügig sein" ist die psychologische Seite von Prainsacks These, dass Großzügigkeit erst wächst, wo man sich aufgefangen weiß. Sein Programm einer menschenwürdigen Behörde ist ihr drittes Prinzip, Demütigung vermeiden, in einer anderen Sprache. Eine Unterscheidung, die bei Prainsack nicht vorkommt, bringt er mit: Neben der alten Härte warnt er vor der neuen Schonung, Scham sei zuzumuten, ohne zu beschämen. Prainsacks Prinzip sagt, was eine Institution unterlassen soll, Marks' Formel, was sie dann noch darf.
+
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+
+Beide misstrauen einer Ethik, die Regulierung ersetzt: Mühlhoff nennt die KI-Ethik industriell vereinnahmbar und Regulierung das schärfere Schwert; Prainsack, selbst Vorsitzende eines Ethikgremiums der EU-Kommission, will bei bekannten Schäden nicht um mehr Ethik bitten, sondern verbieten. Auf die Extraktion ohne Kompensation, die Mühlhoff beschreibt, antwortet sie mit Rückflüssen an die Krankenhäuser und Versicherungen, aus denen die Daten stammen. Im Ton trennen sie sich deutlich: Mühlhoff sieht Strukturen des Faschismus, Prainsack ist „nicht gegen digitale Daten, ganz im Gegenteil" und fragt nach dem öffentlichen Wert.
 
 ---
 

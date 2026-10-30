@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*351 Notes — automatisch generiert · nach Thema sortiert*
+*353 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -74,6 +74,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott — Zur Gegenmacht]] — Die Regierung hat nur 27 Prozent der Menschen im Land hinter sich, rechnet Arne Semsrott vor. Er sucht die versteckten Mehrheiten – und eine Gegenmacht, die längst da ist.
 - [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] — Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
 - [[Zeitgeist/aspekte — Warum niemand die Nazis aufhielt|aspekte — Warum niemand die Nazis aufhielt]] — Wie eine Splitterpartei legal eine Republik zerlegte — und warum Skandale sie nicht aufhielten. Eine Reise zu den steinernen Zeugen, am Gedenktag des 20. Juli.
+- [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]] — Solidarität lässt sich nicht einfordern, nur üben. Barbara Prainsack zeigt, wann sie giftig wird, warum Nullsummendenken sie aushöhlt und wie Institutionen gebaut sein müssten, die niemanden demütigen.
 - [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Einer floh vor den Nazis, einer wich ihnen aus, einer war einer: ein Gespräch über den Weg hinein, den Weg heraus und darüber, warum Argumente dabei abperlen wie an Teflon.
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN]] — Zuhören mit zwei Ohren, dem eigenen und dem des anderen. Bernhard Pörksen und Maja Göpel suchen nach Wegen, Debatten abzukühlen, und nennen Anstand eine demokratische Grundtugend.
 - [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]] — Die 40 Prozent stimmen, und der Satz darüber täuscht trotzdem. Fünf Behauptungen über Ausländerkriminalität, gegen die Statistik gelesen, aus der sie stammen.
@@ -190,6 +191,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]] — Für Sandra Navidi ist die Trump-Regierung ein Raubzug in Amtskleidung: Meme Coins, Mar-a-Lago-Tarife, Insiderhandel. Wo Rechenschaft nicht mehr greift, wird Schamlosigkeit zur Stärke.
 - [[Zeitgeist/Sari Nusseibeh — Die Geduld des Philosophen|Sari Nusseibeh — Die Geduld des Philosophen]] — Warum nahm Schahrazad kein Messer mit ins Schlafgemach? Ein palästinensischer Philosoph beantwortet aus einem Märchen die Frage, warum Gewalt niemals der Ausweg aus Gewalt ist.
 - [[Zeitgeist/Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg|Senkt KI die Hemmschwelle zum Krieg? — Dahlmann und Kuhle auf der re:publica]] — Wenn die Maschine die Ziele wählt und der Mensch nur noch wegklickt, entkoppelt sich der Krieg von der Verantwortung — eine Debatte über das, was dann fehlt.
+- [[Zeitgeist/auslandsjournal — Siegen um jeden Preis|Siegen um jeden Preis — Vier Wahlen und die Frage, wer verlieren kann]] — Israel, Brasilien, Serbien, die USA: In einer Woche wird viermal gewählt, und überall hängt die Demokratie an der Frage, ob der Verlierer sein Verlieren annimmt.
 - [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|Spahns Maskendeal und das Spendendinner]] — Eine Woche alt, 400 Euro Kapital, Auftrag über 333 Millionen Masken – später ein Spenderdinner mit Spahn. SPIEGEL TV folgt dem Netzwerk; ein Beleg für Kausalität fehlt.
 - [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]] — Vier Meldungen, in denen jemand längst nachgerechnet hat — und die Behauptung trotzdem den Raum behält, weil die Rechnung Mühe kostet und die Behauptung keine.
 - [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)|Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]] — Eine Amokfahrt in Leipzig verschwand in zwei Tagen von den Startseiten, Aschaffenburg blieb viereinhalb. Staiy fragt, welche Täter Schlagzeilen machen und wem das nützt.

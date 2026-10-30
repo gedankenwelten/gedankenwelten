@@ -329,6 +329,9 @@ Was Marks als zwei Formen der Scham beschreibt, verteilt sich dort auf zwei Büc
 ### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
 Bonhoeffers Beispiel aus dem Gefängnis: Ein Lehrer fragt ein Kind vor der Klasse, ob sein Vater oft betrunken heimkomme, und das Kind lügt. Die Schuld dieser Lüge fällt für Bonhoeffer auf den Lehrer zurück. In Marks' Begriffen hat das Kind seine Schutz-Scham gegen eine Beschämung verteidigt.
 
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Bei Barbara Prainsack wird derselbe Gedanke zum Bauprinzip für Institutionen: Sie sollen nicht demütigen (nach Margalit), denn viele Berechtigte nehmen Leistungen aus Bürokratie, aber auch aus Scham nicht in Anspruch. Großzügigkeit wird für sie dort möglich, wo Menschen sich aufgefangen wissen, die institutionelle Seite von „In dem Moment können wir nicht großzügig sein“.
 
 ---
 

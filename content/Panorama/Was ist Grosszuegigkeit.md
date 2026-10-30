@@ -2,7 +2,7 @@
 title: "Was ist Großzügigkeit?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-10-13
+aktualisiert: 2026-10-30
 description: "Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Den Rand des Feldes mähte keiner. Verschenkt hat ihn auch keiner."
@@ -127,18 +127,21 @@ Bengerts Satz, der Mangel erzeuge wieder Mangel, hat einen empirischen Verwandte
 
 Für das Geben ohne Geld, Aufmerksamkeit, Nachsicht, Verzeihen, fehlt eine Forschung, die Kurts These prüft, Nachsicht gebe es nur, wo das eigene Leben gesichert ist. Boshammer sagt auf der Bühne offen, sie kenne die empirische Antwort nicht.
 
+Dass es auf das Gefühl ankommt, stützt eine Studienreihe: Wer sich schlechter gestellt *fühlt* als vergleichbare andere, hilft weniger, während der objektive Status das Helfen kaum voraussagt ([Callan et al. 2016, doi:10.1177/1948550616673877](https://doi.org/10.1177/1948550616673877)). Knappheit kann prosoziales Verhalten heben oder senken und lenkt es oft auf die eigene Gruppe ([Civai, Elbæk & Capraro 2024, doi:10.1016/j.copsyc.2024.101931](https://doi.org/10.1016/j.copsyc.2024.101931), Review). Im finnischen Grundeinkommens-Experiment hatte die per Los gezogene Gruppe mehr Vertrauen in andere; bedarfsgeprüfte Leistungen senkten es ([de Andrade, Ylikännö & Kangas 2021, doi:10.1515/bis-2021-0004](https://doi.org/10.1515/bis-2021-0004)).
+
 **Die Stimmen**
 
 - **[[Susanne Boshammer — Was heisst verzeihen#Die Großzügigkeit, die man sich nicht leisten können muss|Susanne Boshammer]]:** Ein großes Trinkgeld muss man sich leisten können, das Verzeihen nicht; Unrecht hat jeder erlitten und begangen, und darum muss niemand reich sein, um zu verzeihen.
 - **[[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit#Großzügigkeit aus der Fülle: Verwurzelung|Mae Bengert]]** (über Simone Weil): „Das geht nicht aus dem Mangel heraus. Der Mangel generiert wieder Mangel.“ Schenken kann nur, wer verwurzelt ist.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Vorspiel: Großzügigkeit, die man sich leisten können muss|Şeyda Kurt]]:** Nachsicht gibt es nur, wo das eigene Leben gesichert ist; und bevor man über Verzicht redet, wäre zu fragen, wie viel der Knappheit künstlich gemacht ist.
 - **[[Carsten Brosda — Naechste Demokratie#Stimmt die Maschine im Ganzen noch?|Maja Göpel]]** (im Gespräch mit Carsten Brosda): Großzügig ist leicht, wer darauf vertraut, nicht ausgenutzt zu werden, oder so gesichert lebt, dass es ihm nichts ausmacht; beides fehlt gerade.
+- **[[Barbara Prainsack — Solidaritaet NEU DENKEN#Großzügigkeit als Überschuss|Barbara Prainsack]]:** Großzügigkeit ist ein Überschuss der Solidarität und wird möglich, wo man darauf vertrauen kann, selbst aufgefangen zu werden; sie wäre dann weniger eine Tugend der Einzelnen als ein Ertrag guter Institutionen.
 - **[[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#„Wo genau lebst du Großzügigkeit?“|Harald Welzer und Barbara Bleisch]]:** Welzer findet seinen Euro für den Bettler nicht großzügig, weil er ihn nicht braucht; Bleisch hält die arme Familie dagegen, die sich den Urlaub spart, damit das Kind eine Ausbildung bekommt.
 - **[[Hans Maggi — Kurdistan im Nordirak#Zwischen den Zeilen|Hans Maggi]]:** Menschen mit wenig Geld schenken zwei Radfahrern zwei Wochen lang mehr, als sie annehmen können; bei uns hat Großzügigkeit einen Anlass, dort keinen, außer dass jemand vorbeikommt.
 - **[[Raul Krauthausen — Teilgabe statt Teilhabe#Teilhabe, Teilgabe und die Rampe aus anderem Holz|Raúl Krauthausen]]:** Großzügig sein kann nur, wer etwas zu geben hat und in der Position ist, es zu geben; darum braucht es Teilgabe, die Bühne statt des Rollstuhlplatzes im Publikum.
-- **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Von Mauss über Bataille zum Punk|Dietmar Dath]]:** Wer nach einem furchtbaren Job abends nur noch ins Kissen sabbert, haut dem, der ihm „verausgabt euch“ rät, eine runter, wenn er die Kraft dazu noch hat.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
+- **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Von Mauss über Bataille zum Punk|Dietmar Dath]]:** Wer nach einem furchtbaren Job abends nur noch ins Kissen sabbert, haut dem, der ihm „verausgabt euch“ rät, eine runter, wenn er die Kraft dazu noch hat.
 
 - **[[Carsten Brosda — Naechste Demokratie#Concordia mit dem Hobel|Carsten Brosda]]:** Wer die Hälfte seines Einkommens fürs Wohnen ausgibt, hat keine Zeit mehr, als Bürger die allgemeinen Belange zu bedenken; der Staat muss dafür sorgen, dass alle überhaupt Spielraum zum Geben haben.
 - **[[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da#Geld ist ein Vertrag — kann es großzügig sein?|Patrick Kaczmarczyk]]:** Er habe immer nur mit Knappheit zu tun gehabt und rede lieber über Funktionalität als über Großzügigkeit.
@@ -197,6 +200,7 @@ Zu viel kann es auch für die Gruppe werden: Wo Kooperierende Trittbrettfahrer n
 | 13.10.2026 | [[Carlo Cipolla — Die fünf Gesetze der Dummheit#Nachbesprechung|Carlo Cipolla — Die fünf Gesetze der Dummheit]] | Wann wird Großzügigkeit zu viel: Cipollas Hilfloser, altruistische Bestrafung (Fehr & Gächter 2002), Trittbrettfahrer (Kerr 1983), Tagebuchstudie Helfen (Lanaj 2016), Berufung als Selbstausbeutung (Bunderson & Thompson 2009), Empathie und Burnout (Wilkinson 2017) |
 
 ---
+| 30.10.2026 | [[Barbara Prainsack — Solidaritaet NEU DENKEN#Nachbesprechung|Barbara Prainsack — Solidarität NEU DENKEN]] | Muss man sich Großzügigkeit leisten können: gefühlte statt objektiver Benachteiligung (Callan 2016), Knappheit in beide Richtungen (Civai 2024), Ehrenamt im Wohlfahrtsstaat (Ackermann 2023, Stadelmann-Steffen 2010), finnisches Grundeinkommen (de Andrade 2021), World Giving Index 2024 |
 
 ## Verbindungen
 

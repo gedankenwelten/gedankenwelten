@@ -325,6 +325,10 @@ Welzer nennt die Bildungspolitik der Siebziger großzügig; Bleisch und von Sche
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Barbara Prainsack stößt von der Solidarität her auf dieselbe Lücke: Künftige Generationen fehlen in unseren Entscheidungen, schon die geborenen Kinder sind nicht vertreten, und sie in Gesetzgebung und Regierung zu verankern, nennt sie „sehr, sehr schwierig“. Von Schelihas Zukunftsrat ist ein Vorschlag, wie das ginge, ohne auf Großzügigkeit zu warten.
+
 ---
 
 ## Weiterdenken

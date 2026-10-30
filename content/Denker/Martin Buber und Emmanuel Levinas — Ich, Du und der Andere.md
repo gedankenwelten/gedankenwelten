@@ -262,6 +262,10 @@ Mouffes Agonismus, den Gegner als legitim anerkennen, ohne seine Position zu tei
 
 Arendts Satz, sie liebe Personen und keine Völker, ist Bubers Ich-Du als politische Haltung, gesagt gegen Scholems Liebe zum jüdischen Volk.
 
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+
+Ein Physiker und Laienprediger sagt, er wäre enttäuscht, ließe sich Gott beweisen, denn dann wären Freiheit und Geheimnis verschwunden. Das ist Bubers ewiges Du, das nie zum Es werden darf, aus der Sicht des Labors.
+
 ---
 
 ## Weiterdenken

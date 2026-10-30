@@ -57,7 +57,7 @@ Hotel Matze ist Matze Hielschers Gesprächsformat: lange, persönliche Unterhalt
 
 > *„Nee, das ist eingebaut. […] dass wir nicht alles wissen können und dass wir nicht alles vorhersagen können. Und das hat tatsächlich auch vielleicht was Beruhigendes, denn Leute, die alles haben wollen, müssen begreifen, es geht nicht.“*
 
-Vor dem Urknall, im Inneren eines Schwarzen Lochs, im fernen Jetzt: Die Physik selbst zieht Zäune um das Wissbare. Falcke rüttelt daran, wie er sagt, kann sie aber auch stehen lassen, und er nennt das „eine gewisse Schönheit“. Das ist der Schlüssel zum ganzen Gespräch. Wer die Grenze des Wissens als Kränkung erlebt, wird jede Lücke mit Ungeduld füllen; wer sie als Eigenschaft der Welt annimmt, kann davor ruhig werden. Seine kleine Pointe gegen die Gier („immer mehr hört irgendwann auf, physikalisch auch“) ist eine Ethik, aus der Lichtgeschwindigkeit abgeleitet.
+Vor dem Urknall, im Inneren eines Schwarzen Lochs, im fernen Jetzt: Die Physik selbst zieht Zäune um das Wissbare. Falcke rüttelt daran, wie er sagt, kann sie aber auch stehen lassen, und er nennt das „eine gewisse Schönheit“. Wer die Grenze des Wissens als Kränkung erlebt, wird jede Lücke mit Ungeduld füllen; wer sie als Eigenschaft der Welt annimmt, kann davor ruhig werden. Seine kleine Pointe gegen die Gier („immer mehr hört irgendwann auf, physikalisch auch“) ist eine Ethik, aus der Lichtgeschwindigkeit abgeleitet.
 
 > [!question] Weitergedacht
 > Wenn die Grenzen des Wissens in die Welt eingebaut sind — *woran erkennt man, ob man an einer echten Grenze steht oder nur an einer, die man noch nicht verschoben hat?* Wer zu früh „Geheimnis“ sagt, hört auf zu fragen; wer es nie sagt, kann nie ankommen.
@@ -76,7 +76,7 @@ Vor dem Urknall, im Inneren eines Schwarzen Lochs, im fernen Jetzt: Die Physik s
 
 [▶ 14:33](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=873) — Protonen, Neutronen, Elektronen: Alles, woraus die Hand besteht, die man gerade anschaut, entstand in den ersten Sekunden. Nach drei Minuten haben sich die ersten Atomkerne gebildet, Wasserstoff und Helium. „Wir sind schon da“, sagt Hielscher, und Falcke stimmt zu. Dann passiert 400.000 Jahre lang wenig. Erst als es kalt genug ist, fangen die Kerne Elektronen ein, und das Gas, das bis dahin vom Licht in der Schwebe gehalten wurde, beginnt unter der eigenen Schwere zu fallen.
 
-Bemerkenswert ist, wie Falcke das Träge, Langsame, Schwere zum Helden macht. In einer Kultur, die Beschleunigung feiert, ist das ein stiller Einspruch: Ohne das, was sich der Bewegung widersetzt, hält nichts zusammen.
+Falcke macht das Träge, Langsame, Schwere zum Helden. In einer Kultur, die Beschleunigung feiert, ist das ein stiller Einspruch: Ohne das, was sich der Bewegung widersetzt, hält nichts zusammen.
 
 ---
 
@@ -94,7 +94,7 @@ Bemerkenswert ist, wie Falcke das Träge, Langsame, Schwere zum Helden macht. In
 
 > *„Die kleinste Kraft kann was ganz Großes bewirken. Du darfst nur nicht glauben, dass du es alleine bist. Es ist nicht dieses eine Atom, was diesen Planeten geschaffen hat.“*
 
-Und gleich danach, für alle, die sich das zu Herzen nehmen: „Aber glaub nicht, dass alles von dir abhängt.“ Das ist das Klügste an diesem Bild. Es entlastet und verpflichtet zugleich: Ohne deine kleine Kraft entsteht nichts, mit ihr allein auch nicht. Gegen die Lähmung des „was kann ich schon tun“ und gegen den Größenwahn des Einzelnen hilft dieselbe Physik.
+Und gleich danach, für alle, die sich das zu Herzen nehmen: „Aber glaub nicht, dass alles von dir abhängt.“ Das Bild entlastet und verpflichtet zugleich: Ohne deine kleine Kraft entsteht nichts, mit ihr allein auch nicht. Gegen die Lähmung des „was kann ich schon tun“ und gegen den Größenwahn des Einzelnen hilft dieselbe Physik.
 
 > [!question] Weitergedacht
 > Die Schwerkraft wirkt, weil alle Teilchen in dieselbe Richtung ziehen. Menschen tun das selten. *Was ist im Sozialen das Gegenstück zum fehlenden Minus — und ist eine Gesellschaft, in der alle in eine Richtung ziehen, wirklich die schöpferische?*
@@ -120,11 +120,11 @@ Hielscher greift das sofort fürs Menschliche auf: das eine Ohr ein wenig größ
 
 ## Eine Welt aus Katastrophen
 
-[▶ 24:34](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1474) — „Unsere Welt ist eine Aufeinanderstapelung von Katastrophen.“ Das ist die Erzählachse seines Buchs *Zwischen Urknall und Apokalypse*, und im Gespräch reiht er sie auf wie Perlen. Sterne explodieren, „so ein Mist“, aber ihre Asche reichert das All mit den Elementen an, aus denen Planeten werden. [▶ 25:20](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1520) Ein marsgroßer Körper, Theia, rammt die junge Erde, aus den Trümmern wird der Mond, und mit ihm kommen die stabile Erdachse und die Jahreszeiten, „die Sommerferien“. [▶ 26:50](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1610) Die Erde liegt eigentlich zu nah an der Sonne, ein Wüstenplanet; das Wasser bringen Meteoriten, dann regnet es tausende Jahre lang, bis ein Ozean alles bedeckt.
+[▶ 24:34](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1474) — „Unsere Welt ist eine Aufeinanderstapelung von Katastrophen.“ Das ist die Erzählachse seines Buchs *Zwischen Urknall und Apokalypse*, und im Gespräch reiht er sie auf wie Perlen. Sterne explodieren, „so ein Mist“, aber ihre Asche reichert das All mit den Elementen an, aus denen Planeten werden. [▶ 25:20](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1520) Ein marsgroßer Körper, Theia, rammt die junge Erde, aus den Trümmern wird der Mond, und mit ihm, sagt Falcke, die Jahreszeiten, „die Sommerferien“, und die Länge des Tages, die der Mond seither langsam streckt *(am Anfang vier bis sechs Stunden, vor einer Milliarde Jahren eher 19 als 22 → [[#Faktencheck|Faktencheck]])*. [▶ 26:50](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1610) Die Erde liegt eigentlich zu nah an der Sonne, ein Wüstenplanet; das Wasser bringen Meteoriten, dann regnet es tausende Jahre lang, bis ein Ozean alles bedeckt.
 
-[▶ 28:21](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1701) — Die junge Sonne leuchtet schwächer als heute, die Erde müsste gefrieren, doch das erste Leben produziert Methan, ein Treibhausgas, und hält sich so selbst warm. [▶ 39:46](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2386) Später erzeugen Bakterien Sauerstoff und lösen damit eine Klimakatastrophe aus, die Erde vereist. Falcke merkt selbst, wie heikel der Satz klingt: „Du darfst das nicht so oft sagen, weil dann kommen die anderen, die sagen, ist ja gar nicht so schlimm mit der Klimakatastrophe.“ Sein Punkt ist ein anderer: Es war immer das CO₂, manchmal zu wenig, manchmal zu viel, und heute zu viel in zu kurzer Zeit. Für die Erde ist das nichts Neues, für uns schon.
+[▶ 28:21](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1701) — Die junge Sonne leuchtet schwächer als heute, die Erde müsste gefrieren, doch das erste Leben produziert Methan, ein Treibhausgas, und trägt so, neben dem CO₂, vermutlich dazu bei, sich selbst warm zu halten. [▶ 39:46](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2386) Später erzeugen Bakterien Sauerstoff und lösen damit eine Klimakatastrophe aus, die Erde vereist. Falcke merkt selbst, wie heikel der Satz klingt: „Du darfst das nicht so oft sagen, weil dann kommen die anderen, die sagen, ist ja gar nicht so schlimm mit der Klimakatastrophe.“ Sein Punkt ist ein anderer: Es war immer das CO₂ *(bei dieser Vereisung eher das verschwundene Methan, wie er selbst zuvor erzählt → [[#Faktencheck|Faktencheck]])*, manchmal zu wenig, manchmal zu viel, und heute zu viel in zu kurzer Zeit. Für die Erde ist das nichts Neues, für uns schon.
 
-[▶ 43:36](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2616) — Dann der Asteroid vor Yucatán, brennende Wälder, saurer Regen, Dunkelheit, das Ende der Dinosaurier, die nicht fliegen konnten. Die überlebenden „geben uns heute die Hühnereier“. Die kleinen nachtaktiven Säugetiere im Unterholz nutzen die Krise. [▶ 50:25](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=3025) Und der Mensch selbst ist ein *Klimaüberlebender*: Im Takt der Eiszeiten und Warmzeiten passt er sich an durch Wanderung, Werkzeug und Intelligenz, auf einem Kontinent, der alle Klimazonen hat. Die spitze Bemerkung, gerade die Klimaleugner hätten die größte Angst vor Migration und produzierten sie, lässt Falcke stehen und geht weiter.
+[▶ 43:36](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2616) — Vier große Massenaussterben zählt er bis dahin *(üblich sind fünf, mit dem folgenden → [[#Faktencheck|Faktencheck]])*. Dann der Asteroid vor Yucatán, brennende Wälder, saurer Regen, Dunkelheit, das Ende der Dinosaurier, die nicht fliegen konnten. Die überlebenden „geben uns heute die Hühnereier“. Die kleinen nachtaktiven Säugetiere im Unterholz nutzen die Krise. [▶ 50:25](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=3025) Und der Mensch selbst ist ein *Klimaüberlebender*: Im Takt der Eiszeiten und Warmzeiten passt er sich an durch Wanderung, Werkzeug *(die ersten Geröllgeräte sind 2,6 Millionen Jahre alt, Faustkeile erst 1,76 → [[#Faktencheck|Faktencheck]])* und Intelligenz, auf einem Kontinent, der alle Klimazonen hat. Dann setzt Falcke eine Spitze: Gerade die Klimaleugner, die am meisten Angst vor Migration hätten, produzierten sie *(Klimamigration bleibt überwiegend im eigenen Land oder in ärmeren Ländern → [[#Faktencheck|Faktencheck]])*. „Na gut, jeder so wie er es will“, und er geht weiter.
 
 [▶ 32:09](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1929) — Die schwerste Konsequenz zieht er bei der Evolution. Ohne fehlerhafte Kopien der Erbinformation keine Entwicklung, und dieselben Fehler machen krank:
 
@@ -177,9 +177,9 @@ Die Biografie erklärt mehr als ein Lebenslauf. Aus der Kirche seiner Kindheit, 
 
 [▶ 1:20:46](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4846) — Seine eigene Entdeckung beginnt mit einem Irrtum. In der Doktorarbeit merkt er, dass das Schwarze Loch im Zentrum der Milchstraße bei einer bestimmten Frequenz direkt von seinem Rand strahlt, rechnet nach und stellt fest: Man bräuchte ein Teleskop, größer als die Erde. Jahre später, in der Bibliothek, liest er einen Artikel, den alle überblättert hatten, und sieht, was er vergessen hat. [▶ 1:21:32](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4892) Ein Schwarzes Loch lenkt das Licht ab wie eine Linse und *vergrößert sich selbst*. Sein Schatten erscheint um genau den Faktor größer, der nötig ist, damit ein Teleskop von der Größe der Erde reicht. [▶ 1:23:03](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4983) Er nennt es seinen „Amazing-Grace-Moment“: *I was blind, but now I see.*
 
-[▶ 1:22:17](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4937) — Ein erdgroßes Teleskop gibt es nicht als Gerät. Man schaltet Radioteleskope auf der ganzen Welt zusammen, die gleichzeitig auf dasselbe Objekt schauen, und setzt aus den leichten Perspektivunterschieden im Computer ein Bild zusammen. Hielscher sagt: Das heißt ja, wir müssen miteinander arbeiten. Genau, sagt Falcke, „wir müssen unsere Perspektiven teilen“. Ein Paper versprach das Bild in zehn Jahren; es wurden zwanzig. Beobachtet wurde im April 2017, gezeigt am 10. April 2019.
+[▶ 1:22:17](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4937) — Ein erdgroßes Teleskop gibt es nicht als Gerät. Man schaltet Radioteleskope auf der ganzen Welt zusammen, die gleichzeitig auf dasselbe Objekt schauen, und setzt aus den leichten Perspektivunterschieden im Computer ein Bild zusammen. Hielscher sagt: Das heißt ja, wir müssen miteinander arbeiten. Genau, sagt Falcke, „wir müssen unsere Perspektiven teilen“. Ein Paper, sagt Falcke, versprach das Bild in zehn Jahren; es wurden zwanzig. *(Das Paper von 2000 war noch optimistischer, „within the next few years“, und meinte das Loch in der Milchstraße, dessen Bild 2022 kam → [[#Faktencheck|Faktencheck]])* Beobachtet wurde im April 2017, gezeigt am 10. April 2019.
 
-[▶ 1:32:10](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=5530) — Der vielleicht wichtigste Satz über Wissenschaft im ganzen Gespräch fällt beim Blick auf das fertige Bild, das genau so aussah wie die Simulation von zwanzig Jahren zuvor:
+[▶ 1:32:10](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=5530) — Das fertige Bild sah genau so aus wie die Simulation von zwanzig Jahren zuvor. Falckes Reaktion darauf:
 
 > *„Wenn als Wissenschaftler das rauskommt, was du gerne hättest, ist das ja das Gefährlichste, was passieren kann.“*
 
@@ -197,7 +197,7 @@ Die Biografie erklärt mehr als ein Lebenslauf. Aus der Kirche seiner Kindheit, 
 
 Für manche ist dieses Bild eine Leerstelle, für manche eine Sammlung von Naturgesetzen, für ihn etwas Persönliches. [▶ 1:43:35](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=6215) Und dann die Formel, die den ganzen Abend zusammenhält: Glauben heiße, *„ich lerne umzugehen mit dem unverfügbaren Geheimnis des Lebens“*. Die Physik lehre, dass es dieses Unverfügbare gibt, das Leben lehre es auch: keine Kontrolle über das eigene Leben, das Land, die Welt, den Kosmos.
 
-Hier lohnt es sich, genau hinzusehen. Falcke dehnt den Gottesbegriff so weit, dass auch der Atheist „einen hat“, nämlich sein Fragezeichen. Das ist großzügig gemeint, aber es hat einen Haken: Ein Fragezeichen ist gerade kein Bild, es ist der Verzicht auf eines. Wer ehrlich „ich weiß es nicht“ sagt, muss sich nicht gefallen lassen, dass daraus ein Gottesbild gemacht wird. Falckes eigene Unterscheidung trägt besser: Die Frage, *ob* man glaubt, ist für ihn entschieden; die Frage, *wer oder was* Gott ist, bleibt offen.
+Falcke dehnt den Gottesbegriff so weit, dass auch der Atheist „einen hat“, nämlich sein Fragezeichen. Das ist großzügig gemeint, aber es hat einen Haken: Ein Fragezeichen ist gerade kein Bild, es ist der Verzicht auf eines. Wer ehrlich „ich weiß es nicht“ sagt, muss sich nicht gefallen lassen, dass daraus ein Gottesbild gemacht wird. Falckes eigene Unterscheidung trägt besser: Die Frage, *ob* man glaubt, ist für ihn entschieden; die Frage, *wer oder was* Gott ist, bleibt offen.
 
 [▶ 1:44:20](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=6260) — Wie kann ein Physiker an einen persönlichen Gott glauben, mit dem man spricht? Seine Antwort ist schlicht: Wir sprechen ja auch miteinander, „und ich bin reine Physik“. Teilchen fangen an zu reden, zu denken, zu hoffen. [▶ 1:48:08](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=6488) Sein Lieblingsbeispiel ist das Buch. Die Physik kann sagen, welche Teilchen darin sitzen, die Chemie, woraus die Tinte besteht, „aber die Geschichte, die da drin steht, die kann dir die Physik nicht erzählen“. Die Schöpfung sei mehr als die Summe ihrer Teilchen. Matze erzählt von Anselm Grün, für den sich Gott in der Schönheit zeigt; Falcke nimmt das auf und erweitert es um die Liebe, das, was „zwischen uns schwebt“.
 
@@ -213,7 +213,7 @@ Hier lohnt es sich, genau hinzusehen. Falcke dehnt den Gottesbegriff so weit, da
 
 > *„Ich bin felsenfest davon überzeugt, dass du Gott nicht beweisen kannst.“*
 
-Er wäre, sagt er, sehr enttäuscht, wenn es anders wäre, denn dann wäre „ein Stück der Freiheit des Glaubens verschwunden, und auch das Geheimnis“. Was man beweisen kann, hat man unter Kontrolle. Das ist die schärfste Grenzziehung des Abends, und sie schützt in beide Richtungen: Der Glaube braucht die Physik nicht als Zeugen, und die Physik muss den Glauben nicht widerlegen. Wer Falcke vorwirft, sein Gott mache seine Paper unglaubwürdig, bekommt die trockene Antwort: „Es sind sicherlich Fehler in meinen Papern […], aber die liegen nicht daran, dass ich an Gott glaube.“
+Er wäre, sagt er, sehr enttäuscht, wenn es anders wäre, denn dann wäre „ein Stück der Freiheit des Glaubens verschwunden, und auch das Geheimnis“. Was man beweisen kann, hat man unter Kontrolle. Die Grenze schützt in beide Richtungen: Der Glaube braucht die Physik nicht als Zeugen, und die Physik muss den Glauben nicht widerlegen. Wer Falcke vorwirft, sein Gott mache seine Paper unglaubwürdig, bekommt die trockene Antwort: „Es sind sicherlich Fehler in meinen Papern […], aber die liegen nicht daran, dass ich an Gott glaube.“
 
 > [!question] Weitergedacht
 > Falcke trennt sauber: Gott ist nicht beweisbar, also auch nicht widerlegbar. *Aber woran würde er merken, dass sein Glaube ihn trägt, weil er wahr ist — und nicht nur, weil er trägt?* Der Stuhl-Test prüft die Wirkung, nicht den Stuhl.
@@ -238,7 +238,59 @@ Es ist ein Echo von Psalm 139, und nach zwei Stunden Urknall, Sternenasche und K
 
 ## Faktencheck
 
-FAKTENCHECK_PLATZHALTER
+*Falcke formuliert vorsichtig („glaube ich“, „wenn ich mich richtig erinnere“, „oder sowas“), und die Redaktion hat vier Angaben unter dem Video selbst korrigiert, was man nicht oft sieht. Die Korrekturen geben Falcke allerdings zweimal ungenau wieder (er sagte „ein paar hundert Millionen“, nicht „rund 100 Millionen“, und „zweieinhalb Millionen“, nicht „200 Millionen“); ihre Zeitmarken folgen offenbar der Podcast-Fassung.*
+
+> [!warning] Vereinfacht — Tageslänge „vor einer Milliarde Jahre 22 Stunden“
+> [▶ 26:05](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1565) Die Richtung stimmt: Der Mond bremst die Erde, der Tag war früher kürzer. Die Zahl ist zu hoch, und Falcke hat sie selbst mit „glaube ich“ versehen. Vor 1,4 Milliarden Jahren dauerte ein Tag 18,7 ± 0,25 Stunden; eine Auswertung aller präkambrischen Daten findet, dass die Tageslänge im mittleren Proterozoikum rund eine Milliarde Jahre lang bei etwa 19 Stunden stehen blieb. 22 Stunden erreichte der Tag erst vor etwa 620 Millionen Jahren. Der Kanal hat das zu Recht korrigiert.
+> Quellen: Meyers & Malinverno 2018, PNAS, [doi:10.1073/pnas.1717689115](https://doi.org/10.1073/pnas.1717689115) (Einzelstudie) · Mitchell & Kirscher 2023, Nature Geoscience, [doi:10.1038/s41561-023-01202-6](https://doi.org/10.1038/s41561-023-01202-6) (Auswertung vieler Studien) · Williams 2000, Reviews of Geophysics, [doi:10.1029/1999rg900016](https://doi.org/10.1029/1999rg900016) (Übersichtsarbeit)
+
+> [!warning] Vereinfacht — Die Sonne macht die Erde „in paar hundert Millionen Jahren“ unbewohnbar
+> [▶ 38:14](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2294) Dass die Sonne heller wird und die Biosphäre lange vor dem Planeten verschwindet, ist Stand der Forschung. Falckes Zeitspanne ist zu kurz: Nach gängigen Modellen fällt das CO₂ in etwa einer Milliarde Jahren unter das Minimum für Landpflanzen, neuere Modelle kommen auf 1,6 bis 1,86 Milliarden Jahre; das Verdampfen der Ozeane kommt noch später. Falcke wollte hier keine Prognose geben, sondern ein Bild für eine ferne Aufgabe der Menschheit.
+> Quellen: Graham, Halevy & Abbot 2024, Planetary Science Journal, [doi:10.3847/psj/ad7856](https://doi.org/10.3847/psj/ad7856) (Modellstudie) · Raymond et al. 2023, MNRAS, [doi:10.1093/mnras/stad3604](https://doi.org/10.1093/mnras/stad3604) (Modellstudie)
+
+> [!warning] Vereinfacht — „vier große Episoden des Massenaussterbens“
+> [▶ 42:51](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2571) Üblich sind fünf, die „Big Five“: Ende Ordovizium, spätes Devon, Ende Perm, Ende Trias, Ende Kreide. Man kann Falcke wohlwollend lesen: Die „vier Episoden“ fallen, bevor die Dinosaurier die „Kings“ werden, den Einschlag am Ende der Kreide erzählt er gleich danach als eigenes Ereignis. Dann stimmt die Zählung. Die Fünfzahl ist ohnehin eine Konvention; statistisch heben sich die Big Five nicht scharf vom Hintergrund ab.
+> Quelle: Marshall 2023, Cambridge Prisms: Extinction, [doi:10.1017/ext.2022.4](https://doi.org/10.1017/ext.2022.4) (Übersichtsarbeit)
+
+> [!warning] Vereinfacht — „Die ersten Faustkeile sind vor zweieinhalb Millionen Jahren sichtbar geworden“
+> [▶ 50:25](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=3025) Die Zahl passt zum Oldowan, den ersten einfachen Geröllgeräten vor rund 2,6 Millionen Jahren, nicht zum Faustkeil: Die ältesten Faustkeile (Acheuléen) sind 1,76 Millionen Jahre alt. Die ältesten bekannten Steinwerkzeuge überhaupt sind noch älter, Lomekwi in Kenia, 3,3 Millionen Jahre. Falcke spricht von den falschen Werkzeugen, die Zahl selbst stimmt.
+> Quellen: Harmand et al. 2015, Nature, [doi:10.1038/nature14464](https://doi.org/10.1038/nature14464) · Lepre et al. 2011, Nature, [doi:10.1038/nature10372](https://doi.org/10.1038/nature10372) (Einzelstudien)
+
+> [!warning] Vereinfacht — In Marokko die „ältesten DNA-Fragmente des Menschen“
+> [▶ 51:11](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=3071) Der Kern stimmt, das Wort nicht. In Jebel Irhoud wurden die ältesten bekannten Fossilien des Homo sapiens gefunden, 315.000 ± 34.000 Jahre alt, datiert an erhitzten Feuersteinen; DNA wurde dort nicht gewonnen. Die älteste menschliche Kern-DNA stammt aus der Sima de los Huesos in Spanien (~430.000 Jahre) und gehört zur Neandertaler-Linie. Der Kollege, von dem Falcke erzählt, ist Jean-Jacques Hublin, der Leiter der Irhoud-Grabung; beide erhielten 2023 einen Balzan-Preis. Eine verständliche Verwechslung von Fossil und DNA.
+> Quellen: Hublin et al. 2017, Nature, [doi:10.1038/nature22336](https://doi.org/10.1038/nature22336) · Richter et al. 2017, Nature, [doi:10.1038/nature22335](https://doi.org/10.1038/nature22335) · Meyer et al. 2016, Nature, [doi:10.1038/nature17405](https://doi.org/10.1038/nature17405) (Einzelstudien) · [Max-Planck-Gesellschaft: Balzan-Preise 2023](https://www.mpg.de/20836887/balzan-prize-2023)
+
+> [!warning] Vereinfacht — „Es war immer das CO₂“
+> [▶ 39:46](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2386) Der langfristige Befund trägt: CO₂ ist der große Thermostat der Erdgeschichte, und neu ist heute das Tempo. Aber gerade die Sauerstoff-Vereisung, die Falcke anführt, wird meist so gedeutet, dass der Sauerstoff ein Methan-Treibhaus zerstörte, worauf vor etwa 2,3 bis 2,2 Milliarden Jahren die globale Vereisung folgte; bei der jungen Erde hatte er selbst das Methan genannt. Genauer wäre: immer die Treibhausgase. Die junge Sonne leuchtete rund 25–30 % schwächer, nicht „30, 40 %“; warum die Erde trotzdem nicht gefror, ist noch nicht endgültig geklärt.
+> Quellen: Kopp et al. 2005, PNAS, [doi:10.1073/pnas.0504878102](https://doi.org/10.1073/pnas.0504878102) (Einzelstudie) · Feulner 2012, Reviews of Geophysics, [doi:10.1029/2011rg000375](https://doi.org/10.1029/2011rg000375) (Übersichtsarbeit)
+
+> [!warning] Vereinfacht — Die Klimaleugner „produzieren gerade die Migration“
+> [▶ 51:11](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=3071) Als Spitze verständlich, als Kausalaussage zu glatt. Eine Meta-Analyse über 30 Länderstudien findet: Umweltgefahren beeinflussen Migration meist, aber stark abhängig von Einkommen, Landwirtschaft und Konflikten, und diese Migration bleibt überwiegend im eigenen Land oder geht in Länder mit niedrigem oder mittlerem Einkommen. Die Migration, vor der man sich in reichen Ländern fürchtet, ist gerade nicht der Hauptstrom der Klimamigration.
+> Quelle: Hoffmann et al. 2020, Nature Climate Change, [doi:10.1038/s41558-020-0898-6](https://doi.org/10.1038/s41558-020-0898-6) (Meta-Analyse; [Manuskript frei lesbar](https://ueaeprints.uea.ac.uk/id/eprint/77558/1/Accepted_Manuscript.pdf))
+
+> [!warning] Vereinfacht — Schwarzschild „an der Westfront“
+> [▶ 1:12:28](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4348) Halb richtig. Schwarzschild war zuerst an der Westfront, in Belgien und Frankreich, und berechnete dort Geschossbahnen, das erzählt Falcke. Seine Lösung der Einstein-Gleichungen schrieb er aber an der Ostfront in Russland und schickte sie Einstein am 22. Dezember 1915. Dort zog er sich auch die Krankheit zu, an der er im Mai 1916 starb.
+> Quellen: [MacTutor: Karl Schwarzschild](https://mathshistory.st-andrews.ac.uk/Biographies/Schwarzschild/) · [Weinstein 2023, arXiv:2312.01865](https://arxiv.org/pdf/2312.01865) (Preprint, wissenschaftshistorisch)
+
+> [!success] Bestätigt — Michell, Einsteins Zweifel, die Quasare
+> [▶ 1:11:43](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4303) John Michell war Geistlicher; seine Arbeit von 1784 erschien unter „By the Rev. John Michell“ und enthält den Gedanken der dunklen Sterne. Einstein schrieb 1939, die „Schwarzschild-Singularitäten“ existierten nicht in der physikalischen Wirklichkeit. Die Quasare wurden 1963 erkannt, 1969 schlug Lynden-Bell kollabierte Massen in den Zentren der Galaxien vor, das passt zu Falckes „Ende der 60er“.
+> Quellen: Michell 1784, Phil. Trans. R. Soc., [doi:10.1098/rstl.1784.0008](https://doi.org/10.1098/rstl.1784.0008) · Einstein 1939, Annals of Mathematics, [doi:10.2307/1968902](https://doi.org/10.2307/1968902), Wortlaut bei [John D. Norton, Pitt](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/black_holes_Einstein/index.html) · Schmidt 1963, Nature, [doi:10.1038/1971040a0](https://doi.org/10.1038/1971040a0) · Lynden-Bell 1969, Nature, [doi:10.1038/223690a0](https://doi.org/10.1038/223690a0)
+
+> [!success] Bestätigt — Das Paper, April 2017, 10. April 2019
+> [▶ 1:23:03](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=4983) Das Paper von Falcke, Melia und Agol (2000) gibt es, und es war optimistischer als in Falckes Erinnerung: Man könne den Ereignishorizont „within the next few years“ abbilden. Gemeint war Sagittarius A* in der Milchstraße, dessen Bild 2022 kam; das Bild von M87* folgte am 10. April 2019, beide aus der Kampagne vom April 2017. „Hat 20 Jahre gedauert“ stimmt. 2019 sprach die Kollaboration von „mehr als 200 Forschern“; Falckes „300“ beschreiben eher die spätere Größe.
+> Quellen: Falcke, Melia & Agol 2000, ApJ, [doi:10.1086/312423](https://doi.org/10.1086/312423) · EHT Collaboration 2019, ApJL, [doi:10.3847/2041-8213/ab0ec7](https://doi.org/10.3847/2041-8213/ab0ec7) · EHT Collaboration 2022, ApJL, [doi:10.3847/2041-8213/ac6674](https://doi.org/10.3847/2041-8213/ac6674) · [ESO-Pressemitteilung eso1907](https://www.eso.org/public/news/eso1907/)
+
+> [!success] Bestätigt — „14° heißer als heute“ nach dem Ende der Dinosaurier
+> [▶ 46:36](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=2796) Das passt zum Klimaoptimum des frühen Eozäns vor etwa 53 bis 49 Millionen Jahren: Die mittlere Oberflächentemperatur lag 13,3 °C (± 0,5) über dem vorindustriellen Wert, beim kurzen Wärmemaximum um 56 Millionen Jahre sogar 18,7 °C. Auch der nächste Satz stimmt: Danach wurde es kälter, bis sich der Trend in jüngster Zeit umkehrte.
+> Quelle: Inglis et al. 2020, Climate of the Past, [doi:10.5194/cp-16-1953-2020](https://doi.org/10.5194/cp-16-1953-2020) (Auswertung mit sechs unabhängigen Methoden)
+
+> [!success] Bestätigt — Die Erde als winziger Bruchteil, die Sonne als fast alles
+> [▶ 19:56](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=1196) „0,003 Promille oder sowas“ der Masse des Sonnensystems trifft genau: 5,97 × 10²⁴ kg Erde zu 1,99 × 10³⁰ kg Sonne ergibt drei Millionstel. Die Sonne trägt rund 99,9 % der Gesamtmasse.
+> Quellen: [NASA Sun Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html) · [NASA Earth Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)
+
+> [!success] Bestätigt — Planck: Gott am Anfang, Gott am Ende
+> [▶ 2:05:39](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=7539) Der Gedanke ist echt Planck, aus dem Vortrag „Religion und Naturwissenschaft“ von 1937. In der autorisierten englischen Ausgabe: „to the former He is the starting point, to the latter the goal of every thought process“. Bemerkenswert ist der Satz davor, den das Zitat meist weglässt: Religion *und* Naturwissenschaft brauchen nach Planck den Glauben an Gott. Der umlaufende deutsche Satz ist eine Verdichtung; Hielschers „zugeschrieben“ ist vorsichtiger als nötig.
+> Quelle: [Vatican Observatory: Religion and Natural Science — Max Planck](https://www.vaticanobservatory.org/?p=171933) (Auszug aus *Scientific Autobiography and Other Papers*, 1950)
 
 ---
 
@@ -255,13 +307,51 @@ FAKTENCHECK_PLATZHALTER
 - [Pater Anselm Grün im Hotel Matze](https://podcasts.apple.com/de/podcast/pater-anselm-gr%C3%BCn-muss-ich-meinen-eltern-vergeben/id1168045239?i=1000778920775) — das Gespräch, aus dem Hielscher den Gedanken „Gott zeigt sich in der Schönheit“ mitbringt ([▶ 1:46:36](https://www.youtube.com/watch?v=0Hg-w6XKQS8&t=6396))
 - [heinofalcke.org](https://heinofalcke.org/) — Falckes Website
 
-*Korrekturen des Kanals:* Unter dem Video hat die Redaktion vier Angaben aus dem Gespräch selbst nachgeprüft (Tageslänge der jungen Erde, Bewohnbarkeit, Zahl der Massenaussterben, Faustkeile). Sie sind im Faktencheck aufgenommen.
+*Korrekturen des Kanals:* Unter dem Video hat die Redaktion vier Angaben aus dem Gespräch selbst nachgeprüft (Tageslänge der jungen Erde, Bewohnbarkeit, Zahl der Massenaussterben, Faustkeile). Sie sind im Faktencheck aufgenommen. Zwei der Korrekturen geben das Gesagte ungenau wieder („100 Millionen“ statt „ein paar hundert Millionen“, „200 Millionen“ statt „zweieinhalb Millionen“), und die Zeitmarken folgen offenbar der Podcast-Fassung.
+
+*Zum Weiterlesen (aus dem Faktencheck):*
+
+- [Marshall 2023 — Forty years later: The status of the „Big Five“ mass extinctions](https://doi.org/10.1017/ext.2022.4) — warum die Fünfzahl eine Konvention ist
+- [Hoffmann et al. 2020 — Meta-Analyse Umweltwandel und Migration](https://ueaeprints.uea.ac.uk/id/eprint/77558/1/Accepted_Manuscript.pdf) — Forschungsstand zur Klimamigration, frei lesbar
+- [John D. Norton — Einstein on black holes](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/black_holes_Einstein/index.html) — Einsteins Argument von 1939, gut erklärt
+- [Vatican Observatory — Planck, Religion and Natural Science](https://www.vaticanobservatory.org/?p=171933) — Plancks Vortrag von 1937 in Auszügen
+- [Falcke 2022 — The road toward imaging a black hole: A personal perspective](https://doi.org/10.1002/ntls.20220031) — sein eigener Rückblick auf den Weg zu den Bildern
 
 ---
 
 ## Verbindungen
 
-VERBINDUNGEN_PLATZHALTER
+### → [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+
+Falckes Formel vom „unverfügbaren Geheimnis des Lebens“ spricht Rosas Kernthese fast wörtlich nach: Gelingendes Leben geschieht dort, wo wir die Dinge nicht vollständig unter Kontrolle haben. Auch Falckes Schwerkraft-Satz („die kleinste Kraft kann was ganz Großes bewirken … aber glaub nicht, dass alles von dir abhängt“) hat bei Rosa einen Namen: teilmächtig, weder allmächtig noch ohnmächtig. Die Reibung liegt bei der Wissenschaft. Für Rosa gehört sie zum Programm, das alles verfügbar machen will; Falcke findet das Unverfügbare in der Physik selbst, als eingebauten Zaun. Ob er den Begriff von Rosa hat, belegt keine der beiden Notes.
+
+### → [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
+
+Zwei Astrophysiker, dieselbe Schule der Demut. Für Anderl ist Wissenschaft „eine sehr unbequeme Tätigkeit“, weil die Welt Widerstand gibt; bei Falcke ist es der Computer, der „nichts verzeiht“, und am Ende die Natur, „die dir sagt, wie sie ist“. Unter dem Sternenhimmel kommen beide zum Staunen. Anderl bleibt dort, mit Jaspers und dem Staunen als Ursprung der Philosophie, Falcke geht von derselben Stelle weiter zum Schöpfer. An dieser Weggabelung zeigt sich, dass Demut vor dem Kosmos noch keinen Glauben entscheidet.
+
+### → [[Denker/Hans-Peter Dürr — Die neue Physik|Hans-Peter Dürr — Die neue Physik]]
+
+Zwei Physiker, die beide sagen, dass die Teile nicht das Ganze erklären: Dürrs Gemälde, das man in Pigmente zerlegt, ist Falckes Buch, dessen Geschichte die Physik nicht erzählen kann. Bei der Gottesfrage trennen sie sich. Dürr liest aus der Quantenphysik eine „nicht-materielle Ebene“ und setzt mit Meister Eckhart Schöpfer und Schöpfung in eins. Falcke zieht die Grenze schärfer: Die Welt ist nicht Gott, und wer mit physikalischen Begriffen nach Gott greift, „macht Gott ja wieder klein“. Dürrs Satz, der Urknall sei „altes Denken“, steht zudem quer zu Falckes ganzer Erzählung vom Anfang.
+
+### → [[Geistesblitz/David Chalmers — Das Hard Problem des Bewusstseins|David Chalmers — Das Hard Problem des Bewusstseins]]
+
+Falckes Buch-Beispiel ist das Hard Problem, erzählt von einem Physiker: Teilchen und Tinte lassen sich erklären, die Geschichte nicht. Chalmers sagt es abstrakter, die Physik beschreibe die Struktur, nicht das, was sie ausfüllt. Die Lücke ist dieselbe, die Füllung eine andere: Chalmers will die Grundgrößen der Natur um das Bewusstsein erweitern, Falcke liest in derselben Lücke eine Schöpfung, die mehr ist als die Summe ihrer Teilchen.
+
+### → [[Denker/Walther Ziegler — Popper in 60 Minuten|Walther Ziegler — Popper in 60 Minuten]]
+
+Poppers Schlüsselmoment ist die Sonnenfinsternis von 1919: Einsteins Lichtablenkung bestätigt sich, und gerade daraus folgert der junge Popper, dass es nur Vermutungswissen gibt. Falcke steht hundert Jahre später vor derselben Physik, zum Äußersten gesteigert. Sein Bild sieht aus wie die Simulation, und er nennt genau das „das Gefährlichste, was passieren kann“. Die Kehrseite liegt in Poppers Abgrenzung: Was sich nicht widerlegen lässt, ist keine Wissenschaft. Falckes Gott, der sich nicht beweisen lassen darf, steht damit ausdrücklich außerhalb, und Falcke beansprucht für ihn auch keinen Platz darin.
+
+### → [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Bubers Gott ist das ewige Du, das nie zum Es werden kann; jede Religion, die ihn in Lehrsätzen festhält, verfehlt ihn. Das ist die theologische Begründung dessen, was Falcke als Physiker sagt: Ein bewiesener Gott wäre einer, den man unter Kontrolle hat. Auch beim Leid treffen sie sich, Buber legt das Schweigen Gottes auf die Seite der menschlichen Grausamkeit, Falcke sieht das Leiden als Preis der Freiheit. Buber führt die Frage allerdings bis an den Abgrund von Auschwitz; Falcke räumt selbst ein, dass seine Antwort „in dem Moment nicht so viel“ hilft.
+
+### → [[Denker/Walther Ziegler — Camus in 60 Minuten|Walther Ziegler — Camus in 60 Minuten]]
+
+Die stärkste Gegenstimme. Camus antwortet auf die Sinnfrage: Es gibt keinen Sinn, und die Religion ist eine der verbotenen Fluchten. Sein Dilemma trifft genau Falckes Theodizee: Sind wir nicht frei, ist Gott für das Böse verantwortlich; sind wir frei, ist er nicht allmächtig. Wo Falcke sagt, „auch der Zufall hat irgendwie seinen Sinn“, und rät, sich irgendwann auf den alten Stuhl zu setzen, bleibt Camus bewusst stehen. Gemeinsam ist beiden der Rat fürs Kleine: Sisyphos’ Revolte und Falckes schwächste Kraft verlangen beide, weiterzumachen, ohne das Ganze zu tragen.
+
+### → [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies|Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Harari hält die Wissenschaft für „fantasievoller als jede Mythologie“, aber für einen schlechten Geschichtenerzähler. Falckes Weltgeschichte aus Katastrophen, mit Konfettikanone und Krokodil, ist der Versuch, das Gegenteil zu zeigen. Gerade seine stärksten Bilder folgen jedoch dem Mechanismus, den Harari beschreibt: ein persönliches Drama, auf kosmische Größe geblasen. Die „Pubertät der Menschheit“ und „vor Gottes Augen bin ich gut genug“ sind in Hararis Lesart das Skript vom Kind, das der Vater liebt. Und beim Klima sieht Harari das Problem in den Systemen, nicht im Einzelnen, was Falckes Satz schärft, dass nicht alles von dir abhängt.
 
 ---
 

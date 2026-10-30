@@ -70,31 +70,15 @@ Die Gedankenwelten (luc)
 
 > → *2 weitere in* [[Geistesblitz]]
 
-### Spuren
-
-> **30.10.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
->
-> Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf.
-
-> **29.10.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
->
-> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
-
-> **29.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
->
-> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
-
-> **29.10.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
->
-> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
-
-> **29.10.** — [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
->
-> Die Maschine wird schneller klüger, als die Welt sich ändert. Die Spur legt beide Kurven nebeneinander, die Fähigkeit und die messbare Wirkung, und schaut bis Ende 2028, ob die zweite nachzieht.
-
-> → *5 weitere in* [[Spuren]]
-
 ### Panorama
+
+> **30.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+>
+> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
+
+> **30.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
 > **28.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
 >
@@ -108,15 +92,31 @@ Die Gedankenwelten (luc)
 >
 > Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
 
-> **28.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+> → *11 weitere in* [[Panorama]]
 
-> **28.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
->
-> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
+### Spuren
 
-> → *10 weitere in* [[Panorama]]
+> **29.10.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
+>
+> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
+
+> **29.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+>
+> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
+
+> **29.10.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
+>
+> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
+
+> **29.10.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf.
+
+> **29.10.** — [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
+>
+> Die Maschine wird schneller klüger, als die Welt sich ändert. Die Spur legt beide Kurven nebeneinander, die Fähigkeit und die messbare Wirkung, und schaut bis Ende 2028, ob die zweite nachzieht.
+
+> → *5 weitere in* [[Spuren]]
 
 ### Denker
 

@@ -214,3 +214,8 @@ De Weck wählt in Nassehis Dilemma die defensive Modernisierung und lobt Merkel;
 ### → [[Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]]
 
 Achtzig Prozent sind in Umfragen für Artenschutz, kaum jemand ändert den Einkauf, und Tscharntke hofft, die Wähler machten das Thema zum Kriterium. Maus Triggerpunkte, die Verhaltenszumutung voran, erklären, warum dieses Kriterium auch gegen den Artenschutz ausschlagen kann.
+
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Barbara Prainsack beschreibt denselben Trigger: Ihr Opa-Argument (Asylsuchende beim Arzt, der Opa wartet) ist Merz' Zahnarzt-Satz, und als größte Gefahr für die Solidarität sieht sie, dass manche nicht mehr als ihrer würdig gelten. Wo Mau Polarisierungsunternehmer sieht, sieht sie ein Nullsummendenken, das aus Erfahrung wächst.
+
