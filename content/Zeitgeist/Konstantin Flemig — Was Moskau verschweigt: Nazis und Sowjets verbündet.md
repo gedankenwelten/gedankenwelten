@@ -2,6 +2,7 @@
 title: "Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet"
 description: "Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt von Rapallo bis Katyn, wie Hitler und Stalin zusammenarbeiteten und Polen gemeinsam zerschlugen."
 aktualisiert: 2026-10-30
+raetsel: "Die Fahnen kamen aus dem Filmstudio. Der Händedruck war echt."
 date: 09.05.2026
 tags:
   - zeitgeist
@@ -25,6 +26,14 @@ aliases:
 *Prompt:* Wide banner painting in the style of Józef Czapski, Polish expressionist colorist: loose, quick, expressive brushstrokes of thin oil paint, broad flat colour areas, figures as simplified dark silhouettes without faces, muted ochre, grey-green and dull brick red with one sharp acid-yellow accent. Not naive, not cartoonish. Foreground: a festive victory parade on a wide grey square, small children riding toy tanks made of painted cardboard, rows of red flags and red balloons. Behind the parade a heavy dark-red theatre curtain hangs across the whole width, parted in the middle. Through the gap, in pale cold light, an old wooden podium where two officers, one in field-grey, one in khaki-brown, stand side by side shaking hands. Above them two crossed flags: one a plain solid red flag with no stars and no symbols, the other with three horizontal stripes black, white and red. At the far right edge, a dark birch forest in fog. No text, no letters, no emblems, no stars, no signature, no photorealism.
 
 </details>
+
+> [!abstract] Worum es geht
+> Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt, wie eng die
+> beiden Diktaturen zusammenarbeiteten: Panzer- und Fliegerschulen nach Rapallo, die Teilung Polens im
+> geheimen Zusatzprotokoll, eine gemeinsame Parade in Brest-Litowsk, Getreide und Öl für Hitlers Krieg bis zum
+> Morgen des Überfalls. Aufgearbeitet hat Russland diese Geschichte nie; seit 2021 steht es unter Strafe, die
+> Sowjetunion mit NS-Deutschland gleichzusetzen. Flemigs Schluss reicht über 1941 hinaus: Diktaturen arbeiten
+> zusammen, wenn ihre Interessen es verlangen, gleich, welche Ideologie sie vor sich hertragen.
 
 Quelle: [Was Moskau gern verschweigt: So eng waren Nazis und Sowjets verbündet!](https://www.youtube.com/watch?v=spIFlsMuSrk)
 

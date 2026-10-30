@@ -579,11 +579,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
      "leser": 1,
      "aufrufe": 1
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/DenkerVita/Alle-Denker",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Arthur-Schopenhauer",
      "leser": 1,
      "aufrufe": 1
     }
