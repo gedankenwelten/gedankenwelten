@@ -35,7 +35,7 @@ stimme:
 
 <details><summary>🎨</summary>
 
-**Käthe Kollwitz** — aus der Dunkelheit links reichen viele Hände, alte und junge, Briefe hinauf zu einem kleinen vergitterten Fenster, hinter dem Licht brennt. Kollwitz, weil sie Trauer und Zusammenhalt gezeichnet hat wie kaum jemand, mit der schweren Kreide und ohne Pathos. Das Bild ist Kolesnikowas Satz: Meine Freunde haben mich nicht vergessen. Die Gefangene selbst ist nicht zu sehen, nur das Fenster und die Briefe, die es erreichen wollen.
+**Käthe Kollwitz** — aus der Dunkelheit links reichen viele Hände, alte und junge, Briefe hinauf zu einem kleinen vergitterten Fenster, hinter dem Licht brennt. Kollwitz, weil sie Trauer und Zusammenhalt gezeichnet hat wie kaum jemand, mit der schweren Kreide und ohne Pathos. Das Bild ist Kalesnikavas Satz: Meine Freunde haben mich nicht vergessen. Die Gefangene selbst ist nicht zu sehen, nur das Fenster und die Briefe, die es erreichen wollen.
 
 *Prompt:* A charcoal and lithograph drawing in the style of Käthe Kollwitz, wide panoramic banner, 12:5 aspect ratio. Black crayon on rough cream paper, strong expressive strokes, deep shadows. In the upper right a small barred window glows with warm light in a massive dark wall. From the lower left a crowd of many hands, of old and young people, reaches up towards the window, each holding a small envelope or postcard, the letters pale against the darkness, rising like a stream of light. Faces only hinted at the edge, bowed, patient. Grief and quiet tenderness, solidarity. No text, no letters on the envelopes, no writing, no symbols.
 
@@ -52,7 +52,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die der beiden Gespr�
 
 > [!abstract] Worum es geht
 > Wer weiß, dass draußen jemand an ihn denkt, übersteht die Einzelhaft anders. Mit diesem Befund beginnt ein
-> Abend in Hamburg, sechs Wochen nachdem Maria Kolesnikowa nach fünf Jahren aus belarussischer Haft freikam.
+> Abend in Hamburg, sechs Wochen nachdem Maria Kalesnikava (in deutschen Medien meist Kolesnikowa) nach fünf Jahren aus belarussischer Haft freikam.
 > Irina Scherbakowa, Mitgründerin von Memorial, und Alice Bota, Osteuropa-Reporterin der ZEIT, sprechen über
 > Bücher und Briefe im Lager, über das Dokumentieren für Tribunale, die noch niemand einberufen hat, und über
 > eine Gesellschaft, die nicht wissen will, was in ihrem Namen geschieht. Scherbakowa nennt das eine
@@ -80,7 +80,7 @@ Quelle: [MEMORIAL. Erinnern ist Widerstand. Podiumsgespräch mit Irina Scherbako
 > [!info] Wer spricht?
 > **Irina Scherbakowa** (*1949, Moskau*) — Germanistin und Historikerin. Seit Ende der Siebzigerjahre zeichnete sie mit dem Tonbandgerät die Erinnerungen von Überlebenden des Gulag auf, gehört zu den Gründungsmitgliedern von Memorial und leitete dort die Bildungsarbeit, vor allem den Schülerwettbewerb „Der Mensch in der Geschichte“. Nach dem Verbot von Memorial verließ sie 2022 Russland; heute leitet sie den Vorstand von Zukunft Memorial in Berlin. Marion-Dönhoff-Preis 2022. → [[DenkerVita/Irina Scherbakowa|DenkerVita]]
 >
-> **Alice Bota** (*1979, Krapkowice, Oberschlesien*) — Redakteurin im außenpolitischen Team der ZEIT seit 2007, 2015 bis 2021 Leiterin des Moskauer Büros. Autorin von *Die Frauen von Belarus* (2021); interviewte Maria Kolesnikowa nach ihrer Freilassung. → [[DenkerVita/Alice Bota|DenkerVita]]
+> **Alice Bota** (*1979, Krapkowice, Oberschlesien*) — Redakteurin im außenpolitischen Team der ZEIT seit 2007, 2015 bis 2021 Leiterin des Moskauer Büros. Autorin von *Die Frauen von Belarus* (2021); interviewte Maria Kalesnikava nach ihrer Freilassung. → [[DenkerVita/Alice Bota|DenkerVita]]
 
 ---
 
@@ -105,10 +105,10 @@ Fragerunde.
 
 ### Fünf Jahre, drei davon ohne ein Lebenszeichen
 
-[▶ 12:17](https://www.youtube.com/watch?v=P2clQgFv_mg&t=737) — Die erste Frage gilt [[DenkerVita/Maria Kolesnikowa|Maria Kolesnikowa]]. Am 13.
+[▶ 12:17](https://www.youtube.com/watch?v=P2clQgFv_mg&t=737) — Die erste Frage gilt [[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]]. Am 13.
 Dezember 2025 war sie mit 122 anderen politischen Gefangenen aus Belarus freigekommen. Scherbakowa kannte sie
 aus der Zeit davor: Die letzte Memorial-Ausstellung vor der Pandemie lief in Minsk, in der Galerie, die
-Kolesnikowa leitete, und sie handelte von den „Ostarbeitern“, den Menschen, die die Deutschen zur Zwangsarbeit
+Kalesnikava leitete, und sie handelte von den „Ostarbeitern“, den Menschen, die die Deutschen zur Zwangsarbeit
 verschleppt hatten. Scherbakowa erinnert sich an eine elegante, verständnisvolle Frau und an das Gefühl, dass
 sich in der Stadt etwas bewegte. Dass diese Frau ein paar Monate später zum Gesicht der Proteste werden würde,
 hätte sie sich nicht vorstellen können.
@@ -121,11 +121,11 @@ schlicht eine Folter. Von den belarussischen Frauen, die auf der letzten Memoria
 erzählten, sagt sie, manches sei so grausam, *„das könnte man sogar im Gulag nicht vorstellen“*
 ([▶ 16:07](https://www.youtube.com/watch?v=P2clQgFv_mg&t=967)).
 
-Bota hat Kolesnikowa nach der Freilassung getroffen. Sie erzählt von einem Detail, das wie Nebensache klingt
-und keine ist: dem knallroten Lippenstift, Kolesnikowas Markenzeichen vor der Haft, und wieder ihr Markenzeichen
+Bota hat Kalesnikava nach der Freilassung getroffen. Sie erzählt von einem Detail, das wie Nebensache klingt
+und keine ist: dem knallroten Lippenstift, Kalesnikavas Markenzeichen vor der Haft, und wieder ihr Markenzeichen
 danach. Sie haben im Interview darüber gesprochen, *„was es bedeutet, auf sich zu achten, sich zu pflegen,
 auch in Haft, wie sehr das die Würde definiert“* ([▶ 19:12](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1152)).
-Von drei Frauen, die 2020 an der Spitze der Proteste standen, verließen zwei das Land. Kolesnikowa blieb, und
+Von drei Frauen, die 2020 an der Spitze der Proteste standen, verließen zwei das Land. Kalesnikava blieb, und
 auf die Frage, ob sie wieder so handeln würde, sagt sie heute: ja.
 
 > [!question] Weitergedacht
@@ -137,12 +137,12 @@ auf die Frage, ob sie wieder so handeln würde, sagt sie heute: ja.
 [▶ 22:15](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1335) — Bota sagt, das Schicksal politischer
 Gefangener sei ohne ihr Zutun ein Teil ihrer Arbeit geworden; wer sich heute mit Osteuropa befasse, komme an
 diesen Leben nicht vorbei. Erst dadurch habe sie verstanden, wie wichtig das Erinnern sei. Sie fragte
-Kolesnikowa, wie man drei Jahre aushält, in denen man nur Wärter sieht. Die Antwort:
+Kalesnikava, wie man drei Jahre aushält, in denen man nur Wärter sieht. Die Antwort:
 
 > *„Meine Freunde haben mich nicht vergessen und meine Familie auch nicht und meine Kolleginnen und Kollegen
 > … die vergessen mich doch nicht.“* ([▶ 23:00](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1380))
 
-Kolesnikowa durfte lesen, und sie las, was sie bekam, quer durch, über 700 Bücher. Scherbakowa hält daneben,
+Kalesnikava durfte lesen, und sie las, was sie bekam, quer durch, über 700 Bücher. Scherbakowa hält daneben,
 was die Erinnerungen der Frauen aus dem Großen Terror erzählen: wie wichtig das Lesen in der Haft war und wie
 schwer das Leseverbot wog, das die Lagerleitung als Strafe verhängte. Dann eine Anekdote von Oleg Orlow, dem
 Memorial-Menschenrechtler, der selbst in russischer Haft saß: Der absolute Bestseller in der Gefängnisbibliothek
@@ -151,7 +151,7 @@ Publikum lacht. Scherbakowa vermutet die Mischung aus Kriminalroman und der Frag
 Instanz beantwortet.
 
 Die Briefe sind der zweite Halt. Am Anfang kamen tausende, aus Deutschland, aus Skandinavien, aus Israel und
-Japan; in einer Zelle mit vielen Frauen las Kolesnikowa sie laut vor und beantwortete sie. Dann hörte das auf,
+Japan; in einer Zelle mit vielen Frauen las Kalesnikava sie laut vor und beantwortete sie. Dann hörte das auf,
 *„weil das Regime versteht, wie machtvoll diese Briefe sein können“* ([▶ 28:22](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1702)).
 Bota erzählt, was sie auch von anderen hochrangigen Gefangenen gehört hat, von Sergej Tichanowski und Wladimir
 Kara-Mursa: Man sage ihnen, sie bedeuteten nichts, die Welt interessiere sich nicht für sie, ihr Handeln sei
@@ -169,7 +169,7 @@ wiederholt.
 
 [▶ 20:43](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1243) — Bota hat erwartet, einen gebrochenen Menschen
 zu treffen. Sie traf eine Frau, die strahlt und viel lacht, und nennt das *„erstmal irritierend und erstaunlich
-und irgendwie auch mutmachend“*. Dann zieht sie eine Linie zu Alexej Nawalny, der so anders war als Kolesnikowa
+und irgendwie auch mutmachend“*. Dann zieht sie eine Linie zu Alexej Nawalny, der so anders war als Kalesnikava
 und doch mit ihr verbunden durch *„dieses Band des Widerstands und des Lachens“*: Man lacht dem Regime ins
 Gesicht, man bleibt witzig und höflich ([▶ 21:29](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1289)). Am Tag
 vor seinem Tod war Nawalny per Video in einen Gerichtssaal zugeschaltet und riss Witze. Bota beschreibt die
@@ -296,9 +296,9 @@ Gefühl vermitteln, sie seien für die Ewigkeit da, und Putin sorge sich sehr um
 gesagt erwartet sie keinen Protest aus den Eliten, und die schlechtere Wirtschaftslage bedeute keinen
 Zusammenbruch. Das Regime sei zur Gewalt bereit, und die Menschen spürten das.
 
-Am Ende kehrt das Gespräch zu Kolesnikowa zurück, und es wird schwieriger, nicht leichter. Ihre Freilassung hat
+Am Ende kehrt das Gespräch zu Kalesnikava zurück, und es wird schwieriger, nicht leichter. Ihre Freilassung hat
 einen Preis: einen Deal zwischen den USA und Lukaschenko, Gespräche, teilweise aufgehobene Sanktionen. Ein Teil
-der Opposition sagt, das seien Geiselnehmer, und man lasse sich erpressen. Kolesnikowa gehört zum anderen Teil:
+der Opposition sagt, das seien Geiselnehmer, und man lasse sich erpressen. Kalesnikava gehört zum anderen Teil:
 
 > *„Ich bin durch die Hölle gegangen, ich weiß, wie die Hölle aussieht. Deshalb sage ich, jedes Menschenleben
 > ist kostbar und muss gerettet werden.“* ([▶ 61:10](https://www.youtube.com/watch?v=P2clQgFv_mg&t=3670))
@@ -309,7 +309,7 @@ Minsk bis in den Südkaukasus bildet. Die Moderatorin lässt das so stehen und s
 von Anfang an einig waren: dem Lesen und den Briefen, dem Wissen, dass draußen jemand an einen denkt.
 
 > [!question] Weitergedacht
-> Kolesnikowa sagt, jedes Leben sei kostbar; die andere Hälfte der Opposition sagt, wer zahlt, ermutigt die
+> Kalesnikava sagt, jedes Leben sei kostbar; die andere Hälfte der Opposition sagt, wer zahlt, ermutigt die
 > nächste Geiselnahme. Beide haben recht. *Gibt es eine Regel, die beides hält — oder bleibt es jedes Mal eine
 > Entscheidung über einen bestimmten Menschen?*
 
@@ -321,7 +321,7 @@ von Anfang an einig waren: dem Lesen und den Briefen, dem Wissen, dass draußen 
 
 ### Lohnt sich ein Gefangenendeal?
 
-Am Ende des Abends stehen zwei Sätze gegeneinander. Kolesnikowa: Jedes Menschenleben ist kostbar und muss gerettet
+Am Ende des Abends stehen zwei Sätze gegeneinander. Kalesnikava: Jedes Menschenleben ist kostbar und muss gerettet
 werden. Die andere Hälfte der Opposition: Wer zahlt, ermutigt die nächste Geiselnahme. Der zweite Satz ist eine
 empirische Behauptung, also lässt sich fragen, was man darüber weiß.
 
@@ -348,7 +348,7 @@ Belarus liefert die Zahlen dazwischen. Im August 2024 zählte Viasna rund 1.400 
 ([AP](https://apnews.com/article/belarus-crackdown-prisoners-pardon-lukashenko-1a818f21d4354b61b155fc4a042017cf)), am
 9. August 2026 noch mindestens 879. Seit 2024 wurden 886 begnadigt, 205 von ihnen außer Landes gebracht, und allein im
 Jahr davor wurden mindestens 750 neue politische Urteile bekannt ([Viasna, via Nasha Niva](https://nashaniva.com/en/401914)).
-Im März 2026 kamen nach Kolesnikowas Gruppe weitere 250 frei, für weitere Sanktionslockerungen der USA
+Im März 2026 kamen nach Kalesnikavas Gruppe weitere 250 frei, für weitere Sanktionslockerungen der USA
 ([Novaya Gazeta Europe](https://novayagazeta.eu/en/articles/2026/03/20/belarus-frees-a-further-250-political-prisoners-in-exchange-for-us-sanctions-relief-en-news)).
 Amnesty nennt das eine Drehtür ([IPS, 07.10.2025](https://www.ipsnews.net/2025/10/belarus-prisoner-release-a-diversion-say-rights-activists/)).
 Die Zahlen sagen: Sie dreht sich, aber langsamer hinein als hinaus. Es gibt einen Präzedenzfall. Am 22. August 2015 ließ
@@ -358,13 +358,13 @@ und nach der Wahl 2020 füllten sich die Gefängnisse neu. Die Gefangenen kamen 
 hatte, blieb. Mikalai Statkewitsch wurde im September 2025 freigelassen, weigerte sich, das Land zu verlassen, und war
 bald wieder in Haft (IPS).
 
-Seit dem Hamburger Abend hat sich der Streit weiterbewegt. Am 20. Oktober 2026 unterschrieb Kolesnikowa mit Wiktar
+Seit dem Hamburger Abend hat sich der Streit weiterbewegt. Am 20. Oktober 2026 unterschrieb Kalesnikava mit Wiktar
 Babaryka, Maryna Solatawa und mehreren Dutzend anderen früheren Gefangenen einen Brief, der Europa auffordert, aktiv zu
 verhandeln, mit allen Mitteln, offen und vertraulich ([Nasha Niva, 26.10.2026](https://nashaniva.com/en/407758)).
 Statkewitsch antwortete in seinem Telegram-Kanal mit dem härtesten Satz der Debatte: Statt „nichts ist wertvoller als
 das menschliche Leben“ wäre es ehrlicher, „mein Leben“ zu schreiben. Mehr Käufer hießen mehr Gewinn für den Verkäufer,
 und an Nachschub fehle es dem Regime nicht ([Nasha Niva, 28.10.2026](https://nashaniva.com/en/407915)). Man muss
-dazusagen, dass beide aus derselben Hölle sprechen, nur mit verschiedenen Schlüssen. Swjatlana Tichanowskaja nannte
+dazusagen, dass beide aus derselben Hölle sprechen, nur mit verschiedenen Schlüssen. Swjatlana Zichanouskaja nannte
 die Wahl zwischen Druck und Dialog am 27. Oktober falsch: Eines ohne das andere funktioniere nicht, ohne Druck lasse
 sich das Regime auf keinen ernsthaften Dialog ein ([Nasha Niva](https://nashaniva.com/en/407895)). Eine Fallstudie zu
 Russlands Geiseldiplomatie seit 2018 kommt zu einem ähnlichen Schluss: Abgestimmtes Recht, gemeinsame Sanktionen und
@@ -385,13 +385,13 @@ Staaten zur nächsten Forderung einlädt, ist ebenfalls umstritten
 
 ## Faktencheck
 
-*Geprüft am 30.10.2026: zuerst gegen die YouTube-Untertitel, dann gegen Primär- und Agenturquellen (Kreml-Archiv, Levada, Kolesnikowas ZEIT-Interview, Planentwurf vom 20.11.2025).*
+*Geprüft am 30.10.2026: zuerst gegen die YouTube-Untertitel, dann gegen Primär- und Agenturquellen (Kreml-Archiv, Levada, Kalesnikavas ZEIT-Interview, Planentwurf vom 20.11.2025).*
 
-> [!success] Bestätigt — Kolesnikowa frei am 13. Dezember 2025, mit 122 anderen
+> [!success] Bestätigt — Kalesnikava frei am 13. Dezember 2025, mit 122 anderen
 > Belarus ließ 123 Gefangene frei, darunter den Friedensnobelpreisträger Ales Bjaljazki; im Gegenzug hoben die USA die Sanktionen auf belarussischen Kalidünger auf, verkündet vom US-Sondergesandten John Coale nach zwei Tagen Gesprächen in Minsk ([▶ 18:27](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1107)). Das ist der Deal, den Bota ab [▶ 60:24](https://www.youtube.com/watch?v=P2clQgFv_mg&t=3624) beschreibt. Quelle: [Al Jazeera](https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions) · [RFE/RL](https://www.rferl.org/a/belarus-prisoners-freed-us-trump/33622355.html)
 
 > [!success] Bestätigt — Über fünf Jahre Haft, fast drei ohne Lebenszeichen, 700 Bücher
-> Kolesnikowa sagt es selbst in Botas ZEIT-Interview ([▶ 17:41](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1061)): fast drei Jahre völlige Isolation, ohne Nachricht von den Angehörigen, über 700 gelesene Bücher (Wiedergabe bei [Nasha Niva](https://nashaniva.com/en/386913); das [ZEIT-Original](https://www.zeit.de/2026/05/maria-kalesnikava-belarus-freilassung-haft-alexander-lukaschenko/komplettansicht) liegt hinter der Bezahlschranke). Von außen gezählt war die Nachrichtensperre kürzer: von Februar 2023 bis zum Besuch des Vaters im November 2024, „mehr als 600 Tage“ ([Kyiv Post/AFP](https://www.kyivpost.com/post/42155)); die Familie durfte sie seit Ende 2022 nicht sehen ([Novaya Gazeta Europe](https://novayagazeta.eu/en/articles/2024/11/12/jailed-belarus-opposition-figure-reportedly-allowed-to-see-father-after-2-years-of-isolation-en-news)). Beide Zahlen stimmen, je nachdem, von welcher Seite der Mauer man zählt.
+> Kalesnikava sagt es selbst in Botas ZEIT-Interview ([▶ 17:41](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1061)): fast drei Jahre völlige Isolation, ohne Nachricht von den Angehörigen, über 700 gelesene Bücher (Wiedergabe bei [Nasha Niva](https://nashaniva.com/en/386913); das [ZEIT-Original](https://www.zeit.de/2026/05/maria-kalesnikava-belarus-freilassung-haft-alexander-lukaschenko/komplettansicht) liegt hinter der Bezahlschranke). Von außen gezählt war die Nachrichtensperre kürzer: von Februar 2023 bis zum Besuch des Vaters im November 2024, „mehr als 600 Tage“ ([Kyiv Post/AFP](https://www.kyivpost.com/post/42155)); die Familie durfte sie seit Ende 2022 nicht sehen ([Novaya Gazeta Europe](https://novayagazeta.eu/en/articles/2024/11/12/jailed-belarus-opposition-figure-reportedly-allowed-to-see-father-after-2-years-of-isolation-en-news)). Beide Zahlen stimmen, je nachdem, von welcher Seite der Mauer man zählt.
 
 > [!success] Bestätigt — Nawalny am Vortag seines Todes per Video im Gericht, scherzend
 > Am 15.02.2024 war er aus der Strafkolonie per Video zugeschaltet und scherzte über das „riesige Richtergehalt“ ([▶ 21:29](https://www.youtube.com/watch?v=P2clQgFv_mg&t=1289)); am Tag darauf meldeten die Behörden seinen Tod. Wie er aussah, beschreiben die Quellen unterschiedlich: CBS fand ihn gesund und gut gelaunt, Bota sah Bilder wie von Überlebenden. Quelle: [CBS News](https://www.cbsnews.com/news/alexey-navalny-video-appears-healthy-day-before-reported-death-in-prison/)
@@ -430,7 +430,7 @@ Staaten zur nächsten Forderung einlädt, ist ebenfalls umstritten
 
 *Sherlock:*
 
-- [Nasha Niva über Kolesnikowas ZEIT-Interview](https://nashaniva.com/en/386913) — Isolation, 700 Bücher, Lippenstift und Lachen in ihren eigenen Worten
+- [Nasha Niva über Kalesnikavas ZEIT-Interview](https://nashaniva.com/en/386913) — Isolation, 700 Bücher, Lippenstift und Lachen in ihren eigenen Worten
 - [OVD-Info: Repression in Russia 2025](https://reports.ovd.info/en/repression-russia-2025-overview-ovd-info) — Jahresüberblick: Minderjährige vor Gericht, „ausländische Agenten“
 - [Novaya Gazeta Europe: „Heart of darkness“](https://novayagazeta.eu/en/articles/2025/04/01/heart-of-darkness-en) — Orlows Memorial-Mission in der Ukraine
 
@@ -460,7 +460,7 @@ Memorials Geschichtswettbewerb schickte Jugendliche in die Archive, um herauszuf
 
 ### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft#Macht ist nicht Herrschaft|Felsch und Geulen — Macht ist nicht Herrschaft]]
 
-Beim Gefangenendeal denkt Bota an Arendts Macht aus dem Miteinander, zögernd. Die tausenden Briefe an Kolesnikowa, die das Regime irgendwann nicht mehr durchließ, lassen sich so lesen. Ob ein Deal mit einem Geiselnehmer Macht ist oder Erpressung, beantwortet der Begriff nicht.
+Beim Gefangenendeal denkt Bota an Arendts Macht aus dem Miteinander, zögernd. Die tausenden Briefe an Kalesnikava, die das Regime irgendwann nicht mehr durchließ, lassen sich so lesen. Ob ein Deal mit einem Geiselnehmer Macht ist oder Erpressung, beantwortet der Begriff nicht.
 
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa#Hoffnung ist nicht Optimismus — der Havel-Satz|Ivan Krastev — Der Havel-Satz]]
 
@@ -481,7 +481,7 @@ Scherbakowa verlegt die Wirkung auf die Nachfrage: Propaganda wirkt, wo Menschen
 >   Kriegsende ohne Aufarbeitung für die Sieger gefährlicher als für die Besiegten?*
 > - Das Unsterbliche Regiment begann als Trauer von unten und wurde Staatsliturgie. *Woran erkennt man, ob ein
 >   Gedenken noch den Toten gehört oder schon denen, die es veranstalten?* (→ [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]])
-> - Was wäre das stärkste Argument *für* einen Gefangenendeal mit Lukaschenko, das Kolesnikowa nicht selbst
+> - Was wäre das stärkste Argument *für* einen Gefangenendeal mit Lukaschenko, das Kalesnikava nicht selbst
 >   schon gesagt hat?
 > - Memorial dokumentiert für Tribunale, die vielleicht nie tagen. *Wann ist Arbeit sinnvoll, deren Ergebnis man
 >   nicht erleben wird?*

@@ -315,7 +315,7 @@ Scherbakowa beschreibt, was die Atomisierung nach dem Ende des Terrors hinterlä
 
 ### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
 
-Alice Bota greift Arendts Machtbegriff zögernd auf, für die Frage, ob man mit Lukaschenko verhandeln soll. Die tausenden Briefe an Maria Kolesnikowa sind das stillere Beispiel einer Macht, die aus dem Miteinander entsteht.
+Alice Bota greift Arendts Machtbegriff zögernd auf, für die Frage, ob man mit Lukaschenko verhandeln soll. Die tausenden Briefe an Maria Kalesnikava sind das stillere Beispiel einer Macht, die aus dem Miteinander entsteht.
 
 ---
 
