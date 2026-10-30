@@ -97,6 +97,7 @@ Widerspruch kommt von mehreren Seiten. Dirk Oschmann und die Kränkungsdeutung s
 - [[DenkerVita/Matthias Quent|Matthias Quent]] — Demokratie hing am vollen Kühlschrank, nicht an Überzeugung; beide sehen den Kern der AfD im Rassismus.
 - [[DenkerVita/Steffen Mau|Steffen Mau]] — Freiheitsschock und Veränderungsmüdigkeit sind Geschwister; Mau bestätigt das Beschweigen in den Familien.
 - [[DenkerVita/Isabella Weber|Isabella Weber]] — die Gegenthese: Wirtschaftspolitik als Demokratieschutz, wo Kowalczuk das Wohlstandsversprechen einen Grundirrtum nennt.
+- [[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]] — Historikerin der russischen Nachdiktatur: Auch ihre Neunziger kennen den Freiheitsschock, eine Freiheit, die man nie richtig erhalten hatte.
 
 ## Gedankenwelten-Notes
 

@@ -5439,3 +5439,21 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Bücher & Texte** | [States of Solidarity (OUP)](https://academic.oup.com/book/61834) · [Data Solidarity (Big Data & Society)](https://journals.sagepub.com/doi/full/10.1177/2053951719829773) · [Solidarity in Biomedicine and Beyond (CUP, mit Alena Buyx)](https://www.cambridge.org/de/universitypress/subjects/law/medico-legal-bioethics-and-health-law/solidarity-biomedicine-and-beyond) · [PLUTO](https://pluto.univie.ac.at/) |
 | **Notiz** | [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN]] · [[DenkerVita/Barbara Prainsack]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Prainsack_Solidaritaet_Transkript.txt` |
+
+## Irina Scherbakowa — Der lange Schatten des Stalinismus (Mosse Lecture Wien, Tagesnote 30.10.2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Der lange Schatten des Stalinismus. Putins Russland 2025](https://www.youtube.com/watch?v=awKIfZNxj6Q) (Volkstheater Wien, 20.11.2025) |
+| **Notiz** | [[Irina Scherbakowa — Der lange Schatten des Stalinismus]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scherbakowa_Schatten_Stalinismus_Transkript.txt` (Whisper) |
+| **DenkerVita** | [[DenkerVita/Irina Scherbakowa]] |
+
+## Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand (SUB Hamburg, Tagesnote 30.10.2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [MEMORIAL. Erinnern ist Widerstand. Podiumsgespräch mit Irina Scherbakowa und Alice Bota](https://www.youtube.com/watch?v=P2clQgFv_mg) (Staats- und Universitätsbibliothek Hamburg, 28.01.2026) |
+| **Notiz** | [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scherbakowa_Bota_Memorial_Erinnern_Transkript.txt` |
+| **DenkerVita** | [[DenkerVita/Irina Scherbakowa]] · [[DenkerVita/Alice Bota]] |

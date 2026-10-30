@@ -133,6 +133,7 @@ Die Täterforschung beginnt mit Arendts Eichmann und arbeitet sich an ihr ab. Wo
 ### → [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]
 
 Welzer fragt, welche Deutungsrahmen das Töten zur Arbeit machten; Heitmeyer fragt mit der Durchrohung nach den Strukturen, die Rohheit heute ermöglichen oder verlangen, von Jobcentern bis zu Plattformen. Beide wenden sich gegen die Erklärung aus dem Charakter des einzelnen Täters.
+- [[DenkerVita/Alice Bota|Alice Bota]] — glaubt an den Impuls, die Familiengeschichte zu kennen, auch wenn die Großeltern Täter waren.
 
 ---
 - **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Nennt seinen Vater ohne Milderung einen NSDAP-Aktivisten, ein Gegenfall zu *Opa war kein Nazi*.

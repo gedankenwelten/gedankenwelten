@@ -290,6 +290,10 @@ Fromm erklärt den psychologischen Mechanismus hinter Alys historischem Befund: 
 
 Fromms Urfrage angesichts des Ersten Weltkriegs — „Wie ist das möglich?" — ist wortgleich mit Alys Leitfrage, nur eine Generation früher gestellt. Beide suchen die Destruktivität nicht im Monster, sondern im Normalen: Aly in der materiellen Teilhabe, Fromm im „Versagen der Kunst des Lebens", das den Hass auf das Lebendige gebiert.
 
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
+Thomas Manns „wisst ihr, wollt es aber lieber nicht wissen“ kehrt 2026 bei Scherbakowa fast wörtlich wieder, über Russland. Anders als in der Zustimmungsdiktatur sieht sie keine begeisterte Mehrheit, sondern Gewöhnung.
+
 ---
 
 ### → [[Duezen Tekkal — Deutschland ist bedroht]]

@@ -530,6 +530,10 @@ Weber und Zeh erklären den Populismus aus der Entfesselung des Liberalismus und
 
 Die Reibung dieses Panorama-Abschnitts fragt wörtlich die Frage dieser Note: Prägung aus der Diktatur oder Kränkung aus der Einheit? Oschmann und Kowalczuk sind dort jetzt Stimmen.
 
+### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+
+Die russische Gegenprobe zum Abendbrottisch: Scherbakowa nennt den Terror eine „pädagogische Maßnahme“ über Generationen, und wo Gulag-Lager standen, ist das Vertrauen bis zu den Enkeln messbar geringer. Ihre enttäuschten Neunziger lesen sich neben Kowalczuks Freiheitsschock.
+
 ---
 
 ## Weiterdenken

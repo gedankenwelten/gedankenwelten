@@ -66,6 +66,7 @@ Diese Haltung hat einen Preis: Hassmails, Morddrohungen, pöbelnde Anrufe, und n
 - **[[DenkerVita/Liya Yu|Liya Yu]]** — Wagners Befund, dass die zur „Gefahr" erklärten Häftlinge von der Bevölkerung selbst ausgeliefert wurden, ist der historische Ernstfall von Yus Dehumanisierungs-Forschung.
 - **[[DenkerVita/Arnd Henze|Arnd Henze]]** — zwei Verteidiger des Erbes gegen die Kaperung: Henze bei den Widerstandsfiguren (Bonhoeffer), Wagner bei den Orten und Fakten (Buchenwald, „Geschichte statt Mythen").
 - **Andreas Kemper** (→ [[Andreas Kemper — Faschismen im 21. Jahrhundert]]) — Kempers Höcke-Analyse und Wagners völkische Genealogie der AfD stützen einander: der eine soziologisch, der andere historisch.
+- **[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — gehört dem Kuratorium der Gedenkstätte Buchenwald an; sie verteidigt das Gedächtnis des Gulag gegen dieselbe Umdeutung, vor der Wagner hier warnt.
 
 ## Gedankenwelten-Notes
 

@@ -105,6 +105,7 @@ Innenpolitisch hat er sich nie in ein Lager sortieren lassen. Er stellte sich im
 - [[DenkerVita/Wolfgang Kaleck]] — Zwei Juristen, die dem Westen Irakkrieg und Guantánamo als Beginn des Glaubwürdigkeitsverlusts vorhalten; Kaleck folgert Verzicht auf Privilegien, Lagodinsky eine „hirngeleitete“ Außenpolitik.
 - [[DenkerVita/Anja Dahlmann]] — Lagodinskys Wunsch nach einem KI-Kontrollvertrag trifft auf Dahlmanns Bilanz aus zehn Jahren UN-Prozess: Präventive Verbote gelingen nur, wo der militärische Nutzen gering ist.
 - [[DenkerVita/Herfried Münkler]] — Beide wollen ein schneller entscheidendes Europa: Lagodinsky mit einem Europäischen Sicherheitsrat, Münkler mit einer Führungsgruppe der Fünf.
+- [[DenkerVita/Alice Bota|Alice Bota]] — kennt die russische Opposition ebenfalls aus der Nähe und beschreibt Nawalnys letzten Gerichtsauftritt.
 
 ---
 

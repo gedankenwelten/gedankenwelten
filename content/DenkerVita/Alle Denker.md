@@ -74,6 +74,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Alice Bota|Alice Bota]]** — Journalistin (DIE ZEIT, seit 2007), Osteuropa; erzählt Belarus, Russland und die Ukraine über die, die widerstehen — Autorin von „Die Frauen von Belarus“
+
 **[[DenkerVita/Steve Bannon|Steve Bannon]]** — Politischer Stratege und Medienunternehmer (USA), Breitbart-Chef und 2017 Trumps Chefstratege; organisiert die nationalistische Rechte mit einem Netz, das in Amerika weiter reicht als in Europa
 
 **[[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz
@@ -591,6 +593,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Raul Krauthausen|Raúl Krauthausen]]** — Rampen allein machen keine Teilhabe: Raúl Krauthausen, Aktivist und Gründer der Sozialhelden, fordert Teilgabe, behinderte Menschen auf der Bühne statt nur im Publikum.
 
 ## S
+
+**[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Germanistin und Historikerin, Memorial-Mitgründerin; hält mit Oral History und Schülerwettbewerb die Erinnerung an den Stalinismus gegen Putins Geschichtspolitik, seit 2022 aus dem Exil
 
 **[[DenkerVita/Christine Schliesser|Christine Schliesser]]** — Theologie/Ethik, Zürcher Bonhoeffer-Forscherin („Wer verantwortlich handelt, wird schuldig“), die nach dem Genozid in Ruanda fragt, wie Versöhnung wächst
 

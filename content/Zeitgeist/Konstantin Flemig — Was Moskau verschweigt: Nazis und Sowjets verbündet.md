@@ -1,7 +1,7 @@
 ---
 title: "Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet"
 description: "Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt von Rapallo bis Katyn, wie Hitler und Stalin zusammenarbeiteten und Polen gemeinsam zerschlugen."
-aktualisiert: 2026-05-11
+aktualisiert: 2026-10-30
 date: 09.05.2026
 tags:
   - zeitgeist
@@ -126,7 +126,7 @@ Dann: Operation Barbarossa. Die größte Militärinvasion der Geschichte, 3,8 Mi
 
 [▶ ~38:00](https://www.youtube.com/watch?v=spIFlsMuSrk&t=2280) — Was nach dem Krieg folgt, ist die Voraussetzung für Putins Propaganda: keine Aufarbeitung. Das geheime Zusatzprotokoll des Hitler-Stalin-Pakts wurde von der Sowjetunion **bis 1989** geleugnet. Erst unter Gorbatschow wurde es verurteilt. Heute verteidigt Putin den Pakt als „notwendiges Übel" oder sogar als „genialen diplomatischen Schachzug."
 
-Seit Februar 2021: Gesetze, die die Gleichsetzung von Nazi-Deutschland und Sowjetunion unter Strafe stellen. Kritik an der positiven Darstellung der UdSSR gilt als Angriff auf den Staat. Geschichte, die nicht zur Erzählung passt — Katin, die gemeinsame Parade in Brest-Litowsk, Basis Nord, die Gestapo-NKWD-Konferenzen — wird gesetzlich unsichtbar gemacht.
+Seit 2021 (Gesetz 278-FZ vom 1. Juli): Gesetze, die die Gleichsetzung von Nazi-Deutschland und Sowjetunion unter Strafe stellen. Kritik an der positiven Darstellung der UdSSR gilt als Angriff auf den Staat. Geschichte, die nicht zur Erzählung passt — Katin, die gemeinsame Parade in Brest-Litowsk, Basis Nord, die Gestapo-NKWD-Konferenzen — wird gesetzlich unsichtbar gemacht.
 
 Flemigs Schlussthese ist prägnant: Ideologie ist Schulbuchware. In der Realpolitik arbeiten Diktaturen zusammen, wenn die Interessen es gebieten. Das sah man 1922, 1939 — und es sieht man heute in der Achse Russland-Iran-China-Nordkorea. Unterschiedliche Ideologien, gemeinsames Ziel: die liberale Weltordnung zu destabilisieren.
 
@@ -218,3 +218,7 @@ Dieselbe Werkstatt, das umgekehrte Werkzeug. Heinrich zeigt, wie aus einem wahre
 ### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
 
 Das Gegenstück im Globalen Süden: Hanna Notte zeigt, wie Russland die antikoloniale Dankbarkeit, die der ganzen Sowjetunion galt, für sich allein beansprucht, obwohl ANC-Kämpfer in Odessa und Kiew ausgebildet wurden. Die Privatisierung des sowjetischen Erbes wirkt nach innen wie nach außen.
+
+### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+
+Die Memorial-Historikerin erzählt, wie der Sieg seit Breschnews Parade von 1965 zum „ideologischen Kleister“ wurde und Stalin als Sieger zurückkehrte. Der Pakt ist das Kapitel, das dieser Kleister überdecken muss.

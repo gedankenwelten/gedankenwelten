@@ -124,10 +124,11 @@ Die überraschende Antwort der Forschung betrifft die Wirkung. Die russischen Tr
 - **[[Anat Saragusti — Zensur und Pressefreiheit in Israel#Gaza ohne Zeugen|Anat Saragusti]]:** Ein Staat kann die Berichterstattung durch Zugangssperren beschneiden, ohne einen einzigen Satz zu fälschen.
 - **[[Martin Sonneborn — Endloser Krieg#Die Kernthese Krieg als Geschäftsmodell|Martin Sonneborn]]:** Kriege werden von westlichen Medienapparaten normalisiert; die Note hält ihm Putins Großmachtlogik entgegen, die bei ihm fehlt.
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (3)</summary>
 
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#Israel, Gaza und Doppelstandards in der Berichterstattung|Torsten Heinrich]]:** Wortwahl und ungleiche Maßstäbe prägen die Berichterstattung über Israel, die Gegenlesung zu Johnson.
 - **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#Ungarn 80% der Medien unter Orbáns Kontrolle|Gilda Sahebi und Arne Semsrott]]:** Ungarn zeigt, wie ein Staat die Medien über Stiftungen, Schenkungen und das Staatsfernsehen übernimmt.
+- **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Propaganda wirkt, wo man ihr glauben will|Irina Scherbakowa]]:** Propaganda ist nur erfolgreich, wenn die Menschen ihr glauben wollen; die Formel „wir wurden angegriffen“ erspart ihnen die moralische Wahl.
 
 </details>
 
@@ -201,6 +202,10 @@ Der Snapshot neben diesem Panorama: drei Fälle, ein Bauplan, und das Kriterium,
 ### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 
 [[Was macht die KI aus unserem Denken#Wessen Werte trägt die Maschine?|Wessen Werte trägt die Maschine?]] fragt dasselbe eine Schicht tiefer: wer bestimmt, was ein Sprachmodell für wahr und wichtig hält.
+
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
+Scherbakowa legt die Wirkung der Propaganda auf die Nachfrage: Sie sei nur erfolgreich, wo Menschen ihr glauben wollen; die Formel „wir wurden angegriffen“ erspare ihnen die moralische Wahl.
 
 ---
 

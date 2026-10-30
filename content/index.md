@@ -24,27 +24,41 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **30.10.** — [[Zeitgeist/Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet|Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]]
+>
+> Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt von Rapallo bis Katyn, wie Hitler und Stalin zusammenarbeiteten und Polen gemeinsam zerschlugen.
+
 > **30.10.** — [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
 >
 > Solidarität lässt sich nicht einfordern, nur üben. Barbara Prainsack zeigt, wann sie giftig wird, warum Nullsummendenken sie aushöhlt und wie Institutionen gebaut sein müssten, die niemanden demütigen.
+
+> **30.10.** — [[Zeitgeist/Irina Scherbakowa — Der lange Schatten des Stalinismus|Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+>
+> Der Terror hat Russland Angst, Misstrauen und Doppeldenken gelehrt, und weil niemand das Erbe aufarbeitete, konnte Putin es wieder benutzen: die Memorial-Historikerin über ein Land im Kreis.
+
+> **30.10.** — [[Zeitgeist/Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand|Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+>
+> Wer weiß, dass draußen jemand an ihn denkt, übersteht die Einzelhaft anders: Die Memorial-Gründerin und die ZEIT-Reporterin über Gefangene, Briefe und ein Land, das seine Toten nicht nennen darf.
 
 > **30.10.** — [[Zeitgeist/auslandsjournal — Siegen um jeden Preis|Siegen um jeden Preis — Vier Wahlen und die Frage, wer verlieren kann]]
 >
 > Israel, Brasilien, Serbien, die USA: In einer Woche wird viermal gewählt, und überall hängt die Demokratie an der Frage, ob der Verlierer sein Verlieren annimmt.
 
-> **29.10.** — [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
->
-> Ein Jahr Merz, gemessen an den eigenen Prognosen: Einer räumt seinen Irrtum ein, an Gaza zerbricht die Runde fast, und Ulrike Herrmann rechnet die Umverteilung nach oben vor.
+> → *20 weitere in* [[Zeitgeist]]
 
-> **29.10.** — [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
->
-> Eine Regierung abzuwählen ist leichter, als ein Regime abzubauen. Kurz vor der Ungarn-Wahl zeigt Ernst Gelegs, welche Schlösser Orbán in den Staat eingebaut hat.
+### Denker
 
-> **29.10.** — [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+> **30.10.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
 >
-> Darf man ein Volk mit Bomben vor seinem Regime retten? Der Völkerrechtler Kai Ambos sagt: nach dem Recht nicht, und das Recht ist nicht schuld, sondern die Staaten, die es nicht durchsetzen.
+> Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
 
-> → *17 weitere in* [[Zeitgeist]]
+> **26.10.** — [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+>
+> Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern.
+
+> **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
+>
+> Ein Shaolin-Meister legt die eigene Identität ab, Rolle um Rolle, bis zu dem Lehrer, den er Vater nannte und gegen den heute wegen Missbrauchs ermittelt wird.
 
 ### Geistesblitz
 
@@ -72,6 +86,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **30.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
 > **30.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
 >
 > Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
@@ -87,10 +105,6 @@ Die Gedankenwelten (luc)
 > **28.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **28.10.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
 
 > → *11 weitere in* [[Panorama]]
 
@@ -117,20 +131,6 @@ Die Gedankenwelten (luc)
 > Die Maschine wird schneller klüger, als die Welt sich ändert. Die Spur legt beide Kurven nebeneinander, die Fähigkeit und die messbare Wirkung, und schaut bis Ende 2028, ob die zweite nachzieht.
 
 > → *5 weitere in* [[Spuren]]
-
-### Denker
-
-> **26.10.** — [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
->
-> Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern.
-
-> **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
->
-> Ein Shaolin-Meister legt die eigene Identität ab, Rolle um Rolle, bis zu dem Lehrer, den er Vater nannte und gegen den heute wegen Missbrauchs ermittelt wird.
-
-> **21.10.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
->
-> Eine Technik, keine Lehre: die Empfindung im Körper beobachten, ohne zu reagieren. Weil jeder Augenblick neu entsteht, lässt sich darin in jedem neu wählen, sagt S.N. Goenka.
 
 ### Gedanken
 

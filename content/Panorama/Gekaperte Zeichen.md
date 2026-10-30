@@ -140,6 +140,10 @@ Akala liefert die koloniale Vorgeschichte der Zeichen-Kaperung: abgeschlagene St
 
 Was bei „Operation O-KKK“ ein Trollstreich war, ist bei der Moskauer Social Design Agency ein Geschäftsmodell: Journalisten werden angeschrieben, damit sie den Fake entlarven, und der Bericht darüber landet als Erfolg im Projektbericht.
 
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Das Unsterbliche Regiment, oder wie eine Geste verschluckt wird|Scherbakowa und Bota — Das Unsterbliche Regiment]]
+
+Kaperung von oben: Eine Geste der Trauer, entstanden 2012 in Tomsk, wird vom Kreml übernommen. Name und Form bleiben, Putin läuft mit dem Bild seines Vaters vorneweg, später tragen Menschen Bilder von Kämpfern aus dem Donbass. Hier kapert nicht eine Minderheit, sondern der Staat.
+
 ---
 
 ## Weiterdenken

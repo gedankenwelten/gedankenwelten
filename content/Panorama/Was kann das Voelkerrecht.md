@@ -55,6 +55,7 @@ Die Fälle stützen beide Lesarten. Putin mied 2023 Südafrika, reiste aber 2024
 - **[[Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)#Die Weltpolizei sanktioniert das Gericht|Staiy]]:** Netanjahu wird nicht verhaftet, ein Urteil wird es nicht geben; die Sanktionen verwandeln Recht in Politik.
 - **[[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)#War der Tod Khameneis Sohn / der iranischen Generäle ein „guter Tod"?|Diba Mirzaei]]:** Lieber vor Gericht als tot: „Wenn uns Rechtsstaatlichkeit wichtig ist, dann muss das einfach immer gelten.“
 - **[[Felwine Sarr - Gehoert Afrika die Zukunft#Ubuntu — Mandela und die Rehabilitierung der Utopie|Felwine Sarr]]:** Die Gegenstimme zur Strafe: Mandelas Amnestie und die ruandischen Gacaca-Gerichte verhinderten einen Krieg und gingen weiter als das Völkerrecht ihrer Zeit.
+- **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Dokumentieren für ein Tribunal, das noch niemand einberufen hat|Alice Bota]]:** Gegen die Amnestie im 28-Punkte-Plan: „Wenn der Täter weiß, dass er davonkommt, dann bitte wieder zuschlagen“ — Kommandeure aus Tschetschenien tauchten später in der Ukraine wieder auf.
 
 > [!question] Die Reibung
 > Keller nennt den unvollstreckten Haftbefehl einen Erfolg, Staiy eine Verwandlung von Recht in Politik, und Sarr erinnert daran, dass Südafrika den Frieden mit Amnestie erkaufte. Die Forschung sagt: Wer keinen Ausweg mehr hat, kämpft länger. *Was ist uns wichtiger, dass der Täter vor Gericht kommt oder dass der Krieg früher endet — und wer entscheidet das für die, die in ihm leben?*
@@ -153,6 +154,10 @@ Wie autoritäre Bewegungen sich weltweit vernetzen, auch gegen die Institutionen
 ### → [[Panorama/Geopolitik|Geopolitik]]
 
 Die Frage hinter dem Recht: Die Melier beriefen sich darauf, die Athener auf ihre Stärke. Das Panorama fragt, ob kleine Länder nur Figuren sind, und findet einen Gegenbefund, den dieses Recht mitträgt: Seit 1945 sterben Staaten kaum noch durch Eroberung.
+
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
+Bota und Scherbakowa halten die Abschreckungsthese aus der Praxis dagegen: Memorial dokumentierte in Tschetschenien, niemand wurde bestraft, und dieselben Kommandeure tauchten später in der Ukraine auf; darum gegen die Amnestie im 28-Punkte-Plan.
 
 ---
 

@@ -298,3 +298,7 @@ Wagners Entlastungserzählungen haben bei Safferling ihre Akten: Spruchkammern, 
 ### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
 
 Wagners leiseres Szenario hat in Halle einen ersten Wortlaut: Ein AfD-Lokalpolitiker kündigt gestrichene Fördergelder und eine „geänderte Gedenkkultur“ an, nachdem jüdische Studierende Tillschneider das Gedenken verwehrt hatten — und das Regierungsprogramm nennt die Erinnerungskultur eine „Verewigung eines Schuldkomplexes“.
+
+### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+
+Die Gegenseite des Tatorts: Vom Gulag blieb kaum eine Baracke, Memorial suchte nach Stacheldraht unter dem Schnee. Putins Geschichtspolitik folgt der Mechanik der Umdeutung, Stalin kehrt verharmlost als „effektiver Manager“ zurück.

@@ -292,6 +292,14 @@ Krastev diagnostiziert die Erschöpfung des liberalen Zukunftsversprechens und d
 
 Krastevs Befund *Budgets führen keine Kriege, Menschen führen Kriege* ist der wunde Punkt der Wehrpflicht-Debatte, um die Mawick ringt. Krastev liefert die strukturelle Diagnose, Mawick die persönliche Zuspitzung: Was bedeutet es konkret, der Mensch zu sein, der hinter dem Budget steht — und wofür wäre er bereit zu sterben?
 
+### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+
+Scherbakowa liest den Jahrhunderte-Horizont als Blick, der nur zurückreicht: Der Putinismus kämpft um eine konstruierte Vergangenheit, und in Alaska hält Putin Trump einen Monolog über Rurik.
+
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
+Der Havel-Satz in der Praxis der sowjetischen Dissidenten: Sie stießen an „auf den Erfolg der hoffnungslosen Sache“, und Memorial dokumentiert heute für Tribunale, die vielleicht nie tagen.
+
 ---
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]

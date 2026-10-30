@@ -1270,3 +1270,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Heino Falcke
 **Status:** ✓ Vollanalyse → [[DenkerVita/Heino Falcke]]
+
+## Irina Scherbakowa
+**Status:** ✓ Vollanalyse → [[DenkerVita/Irina Scherbakowa]]
+
+## Alice Bota
+**Status:** ✓ Vollanalyse → [[DenkerVita/Alice Bota]]

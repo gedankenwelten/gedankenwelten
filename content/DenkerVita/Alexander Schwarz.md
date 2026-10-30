@@ -86,6 +86,7 @@ Steinke hat über die politische Funktion von Kriegsverbrechertribunalen promovi
 ### → [[DenkerVita/Xavier Abu Eid|Xavier Abu Eid]]
 
 „Es fehlt nicht an Werkzeugen, es fehlt am Willen“: Abu Eids Satz ist Schwarz' Kernthese, gesprochen aus palästinensischer Erfahrung. Beide verlangen, die Haftbefehle aus Den Haag gegen beide Seiten durchzusetzen (Schwarz' nd-Beitrag nennt Netanjahu, Gallant und Deif), und beide sehen Deutschland an der entscheidenden Stelle: Abu Eid als Nadelöhr, das gemeinsames Handeln der EU blockiert, Schwarz in den Rüstungsexporten, die er für völkerrechtswidrig hält.
+- [[DenkerVita/Alice Bota|Alice Bota]] — hält die Amnestie im 28-Punkte-Plan für eine Einladung zum nächsten Verbrechen — Straflosigkeit als Boden, wie beim ECCHR.
 
 ## Gedankenwelten-Notes
 - [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]

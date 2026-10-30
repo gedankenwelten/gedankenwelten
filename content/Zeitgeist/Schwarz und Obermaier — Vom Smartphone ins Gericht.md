@@ -206,6 +206,10 @@ Saragusti beschreibt das Schweigen der israelischen Presse — nicht durch Verbo
 
 Beide Notes weigern sich, Zivilisten pauschal in Kombattanten aufzulösen: Schwarz juristisch (die Getöteten in ziviler Kleidung, beim Bergen von Leichen — keine „imaginäre Linie" macht ein Gebiet rechtsfrei), Zeigen politisch (Sicherheit nur durch Gleichheit, nicht durch Kollektivverdacht). Der Rechtsweg und der politische Weg sind zwei Antworten auf dieselbe Entmenschlichung.
 
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
+Das „Archiv folgenloser Taten“ hat eine Vorgeschichte: Memorial dokumentierte jahrelang in Tschetschenien, niemand aus der Armee wurde belangt. Heute sammelt Oleg Orlow mit ukrainischen Menschenrechtlern für Prozesse, die es noch nicht gibt.
+
 ---
 
 ### → [[GfbV — Jesidische Familien in der Diaspora]]

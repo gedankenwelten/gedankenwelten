@@ -291,6 +291,10 @@ Das Panorama, in dem Welzer die Frage nach Gehorsam, Gruppe und Gelegenheit trä
 
 Ein Sohn erzählt seinen Vater, ohne ihn besser zu machen: NSDAP, „ziemlicher Aktivist“, zu Hause beschwiegen, und doch Eltern, die immer hinter ihren Kindern standen. Ein Gegenfall zu den Familien aus *Opa war kein Nazi*.
 
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
+Die Gegenbewegung zum Familien-Kaleidoskop: Memorials Geschichtswettbewerb schickte russische Jugendliche in die Archive, um gegen die Familienerzählung herauszufinden, was mit den Großeltern war.
+
 ---
 
 ## Weiterdenken

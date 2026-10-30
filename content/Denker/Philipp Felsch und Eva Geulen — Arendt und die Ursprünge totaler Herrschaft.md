@@ -309,6 +309,14 @@ Jägers „Hyperpolitik“, politisiert, aber ohne Institutionen, ist Arendts Un
 
 Rasse als politische Waffe statt als vorgefundenes Vorurteil: Diese Linie zog Arendt 1951 vom Imperialismus zum Totalitarismus. Kendis Analyse der Austausch-Erzählung zeigt dasselbe Muster, eine Verschwörung, die die Welt als Ganzes erklärt und darum wie Ideologie wirkt.
 
+### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+
+Scherbakowa beschreibt, was die Atomisierung nach dem Ende des Terrors hinterlässt: Angst, Misstrauen, Doppeldenken über Generationen. Den Putinismus nennt sie eine Chimäre ohne Zukunftsvektor, also gerade ohne das, was Arendts Ideologie ausmacht.
+
+### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
+Alice Bota greift Arendts Machtbegriff zögernd auf, für die Frage, ob man mit Lukaschenko verhandeln soll. Die tausenden Briefe an Maria Kolesnikowa sind das stillere Beispiel einer Macht, die aus dem Miteinander entsteht.
+
 ---
 
 ## Weiterdenken

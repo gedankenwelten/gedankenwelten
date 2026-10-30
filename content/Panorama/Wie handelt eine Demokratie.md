@@ -290,7 +290,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 - **[[Felwine Sarr - Gehoert Afrika die Zukunft#Ubuntu — Mandela und die Rehabilitierung der Utopie|Felwine Sarr]]:** Südafrika integrierte durch Amnestie und Wahrheitskommission und vermied einen Krieg; den Preis bezahlten die Opfer.
 - **[[Susanne Boshammer — Was heisst verzeihen#Strafe, Mediation und die moralische Verjährung|Susanne Boshammer]]:** Weil Menschen sich ändern, darf man sagen *„ich erlaube dir, eine andere zu werden“*; verjähren kann der Vorwurf gegen die Person, das Gedächtnis der Tat nie, und die [[Susanne Boshammer — Was heisst verzeihen#Bekennen, nicht rechtfertigen|Wahrheitskommission]] verlangte Bekenntnis, keine Reue.
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (9)</summary>
 
 - **[[Harald Welzer — Toetungsarbeit#Opa war kein Nazi — die Erfindung der Großeltern|Harald Welzer]]:** Das Beschweigen der Gründergeneration füllten die Enkel mit Helden; in zwei Dritteln der befragten Familien wurde Opa im Weitererzählen besser, und die Urenkel wissen heute oft gar nichts mehr.
 - **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Eine Nacht statt fünfundzwanzig Jahre|Ilko-Sascha Kowalczuk]]:** War 1990 selbst für den radikalen personellen Neuanfang und unterschätzte, dass die neuen Eliten als „Kapitäne von Booten und von Netzwerken“ kamen, in die man nicht hineinkommt.
@@ -301,6 +301,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 - **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Fritz Bauer als Vorbild|Ronen Steinke]]:** Fritz Bauer wollte die Gesellschaft zum Hinsehen zwingen, gegen den eigenen Apparat.
 - **[[rp26 — Stresstest fuer die Demokratie Ostdeutschland#Das Ingo-Problem Westdeutsche Vorurteile als Brandbeschleuniger|Melanie Stein]]:** Ostdeutsche stellen ein Fünftel der Bevölkerung und nur einen kleinen Teil der Justiz, und das Misstrauen wächst daraus.
 - **[[Philipp Blom — Die Unterwerfung#„Nie wieder“ und seine Frist|Philipp Blom]]:** Vermeidungshaltungen halten zwei, drei Generationen; heute stimmen mehr Menschen einem „Schlussstrich“ zu als nicht.
+- **[[Irina Scherbakowa — Der lange Schatten des Stalinismus#Wird ein Land ohne Aufarbeitung zur Demokratie?|Irina Scherbakowa]]:** Was nicht aufgearbeitet wird, kommt wieder — Russland ließ nach 1991 alle davonkommen, und Putin konnte das Erbe des Terrors wieder benutzen; die Nachbesprechung hält dagegen, dass Spanien und Bonn erst Demokratien wurden und dann aufarbeiteten.
 
 </details>
 
@@ -354,6 +355,10 @@ Eine Antwort auf die Reibung in „Beraten oder entscheiden?“: Eine Verfassung
 ### → [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
 
 Beide gehen auf Nürnberg zurück: Hier die Frage, mit wem Bonn nach 1945 neu anfing, dort die nach dem Recht, das im Saal für alle versprochen wurde.
+
+### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+
+Russland als Gegenprobe zur Frage, mit wem eine Demokratie neu anfängt: kein stabilisierendes Beschweigen wie in Bonn, keine Lustration, und ein Terror, der im Misstrauen der Enkel fortlebt.
 
 ---
 

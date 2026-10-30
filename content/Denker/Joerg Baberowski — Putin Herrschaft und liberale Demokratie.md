@@ -1,7 +1,7 @@
 ---
 title: "Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie"
 description: "Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz."
-aktualisiert: 22.06.2026
+aktualisiert: 2026-10-30
 tags:
   - denker
   - philosophie
@@ -256,6 +256,10 @@ Dieselbe Eskalationsdynamik des Ukraine-Kriegs, entgegengesetzte Blickrichtung: 
 
 ### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
 Baberowski denkt vom Tod her — erst die Endlichkeit nötigt zum Sinn; Mawick hat das nicht gedacht, sondern in einer Nahtoderfahrung durchlebt. Und Baberowskis ideologiefreie *Eigendynamik der Gewalt* (Gruppenbindung, das Wissen um den Tod der Opfer) findet im drohnendominierten Frontalltag, von dem Mawick aus erster Hand berichtet, ihre konkrete Anschauung.
+
+### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+
+Scherbakowa sieht dieselbe Rückkehr Stalins als Symbol des starken Staates, erklärt Putins Aufstieg aber aus dem nie aufgearbeiteten Terror-Erbe statt aus der Schocktherapie — die Gegenlesung zu seinem Russland von 1991/92.
 
 ---
 
