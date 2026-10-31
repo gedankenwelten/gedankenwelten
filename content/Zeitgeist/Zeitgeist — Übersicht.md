@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*355 Notes — automatisch generiert · nach Thema sortiert*
+*356 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -211,6 +211,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Tillschneider vor der Synagoge in Halle]] — Wer einen Anschlag zum Amoklauf erklärt, muss den Täter nicht verstehen — und hat beim Gedenken trotzdem einen Platz in der ersten Reihe verlangt.
 - [[Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie|Tilo Jung — Erben, Wirtschaft, AfD-Strategie]] — Wem gehört der Mehrwert, dem Gründer, der alles riskiert, oder denen, die ihn erarbeiten? Tilo Jung und der Unternehmer Tim Gabel streiten über Erbe, Eigentum und die Strategie der AfD.
 - [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus]] — Ein Bibliotheksbuch darf man nutzen, aber nicht verbrennen, weil es einem nicht gehört. Der Philosoph Tilo Wesche fragt, was wäre, wenn die Natur selbst Eigentümerin wäre.
+- [[Zeitgeist/Tom Krebs — Kapital und Krise|Tom Krebs — Kapital und Krise]] — Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
 - [[Zeitgeist/Tom Krebs — Wege aus der Krise und neoliberale Maerchen|Tom Krebs — Wege aus der Krise, Vergesellschaftung und neoliberale Märchen]] — Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
 - [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren|Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]] — „Afghanen verpassen Flug, weil sie shoppen waren“ – die Geschichte stimmte nicht und lief trotzdem durch. Topfvollgold zeigt, wie eine Falschmeldung Stimmung gegen Schutzsuchende macht.
 - [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]] — ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.

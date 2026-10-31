@@ -1,5 +1,8 @@
 ---
 title: Vipassana — Sankhāra
+description: "Zuckerrohr und Neem wachsen aus derselben Erde und werden süß oder bitter. Für Goenka ist jede Reaktion ein Same, und was man heute sät, schmeckt man morgen."
+raetsel: "Zum Feind und zum Enkel sagte er dasselbe Wort. Geerntet hat er zweimal etwas anderes."
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - vipassana
@@ -12,6 +15,13 @@ aliases:
   - Sankhāra
   - Sankara
   - Mentale Konditionierungen
+stimme:
+  - wer: Johann Peter Hebel
+    art: stimme
+    umfang: "die erzählenden Passagen und Gleichnisse"
+    am: 2026-10-31
+    geliehen: "schlicht und in der Vergangenheit erzählen, das Alltägliche ernst nehmen, die Pointe trocken setzen und die Moral leise ans Ende stellen"
+    warum: "Goenka erklärt die Saṅkhāras an Zuckerrohr und Neem, am Räuber und am Arzt, am Enkel im Schlamm, wie ein Kalendermann am Alltag."
 ---
 
 # Vipassana — Sankhāra (Mentale Konditionierungen)
@@ -26,92 +36,102 @@ aliases:
 
 </details>
 
-Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tage 6–8.
+<details><summary>✒️</summary>
 
-*Sankhāra* — Konditionierungen, Reaktionsmuster, die sich in den Geist eingraben. Der Same, aus dem jede zukünftige Erfahrung wächst. Das Fundament von Karma — nicht als mystisches Konzept, sondern als psychologischer Mechanismus.
+Die erzählenden Passagen und Gleichnisse: **Angelehnt an Johann Peter Hebel** — ein Versuch in dieser Tonlage. Geliehen: schlicht und in der Vergangenheit erzählen, das Alltägliche ernst nehmen, die Pointe trocken setzen und die Moral leise ans Ende stellen. Goenka erklärt die Saṅkhāras an Zuckerrohr und Neem, am Räuber und am Arzt, am Enkel im Schlamm, wie ein Kalendermann am Alltag.
+*Erzählstimme gewählt am 31.10.2026.*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Vipassana, die Erzählstimme ist unsere.
+
+</details>
+
+> [!abstract] Worum es geht
+> *Saṅkhāra* nennt S.N. Goenka den vierten Teil des Geistes, den, der reagiert, und zugleich das, was diese Reaktion hinterlässt: eine Spur, eine Neigung, einen Samen. Mögen wird zu Anhaften, Nichtmögen zu Hass, und aus jeder Reaktion wächst die nächste. Er erzählt es an Bildern aus Garten und Alltag: zwei Samen in derselben Erde, ein Messer im Bauch, das einmal tötet und einmal heilt, ein Schimpfwort für den Feind und dasselbe für den Enkel. Die gute Nachricht steckt im selben Gesetz. Wer einer Empfindung keine neue Reaktion gibt, nährt den Strom nicht, und dann steigen die alten Saṅkhāras auf und vergehen. Darum tut der Kurs manchmal weh.
+
+Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]] · Schwerpunkt Tag 4 bis 8 · jedes Zitat springt in die Aufnahme bei dhamma.org, an die Minute, in der es fällt.
 
 > [!quote] Goenka, Tag 6
-> *„Wie der Same, so wird auch die Frucht sein. Die Qualität, die Eigenschaft der Frucht wird exakt dem des gesäten Samens entsprechen."*
+> *„Und wie der Same, so wird auch die Frucht sein. Die Qualität, die Eigenschaft der Frucht wird exakt dem des gesäten Samen entsprechen."* ([Tag 6 · 4:52](https://discourses.dhamma.org/oml/recordings/uuid/0ff69d46-76ce-4d4a-a48f-124e0eaf0954.mp3#t=292))
 
 ---
 
-## 1. Wie Sankhāra entstehen
+## Zuckerrohr und Neem
 
-Jede Reaktion auf eine [[Vipassana — Vedana|Vedanā]] — auf eine Körperempfindung — erzeugt einen Sankhāra. Eine mentale Spur. Ein Reaktionsmuster.
+Am vierten Abend, dem ersten mit Vipassana, geht Goenka in den Garten. In dieselbe Erde pflanzt er zwei Samen. Der eine ist Zuckerrohr. Der andere stammt von einem sehr bitteren tropischen Baum, „wir nennen ihn Neem". Die Natur gibt beiden dieselbe Nahrung, dieselbe Erde, dasselbe Wasser, dieselbe Sonne. Beide gehen auf. Am Zuckerrohr ist jede Faser süß geworden, am Neem jede bitter, so bitter. ([Tag 4 · 35:46](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=2146))
 
-Angenehme Empfindung → Verlangen → Sankhāra. Unangenehme Empfindung → Aversion → Sankhāra.
+Ist die Natur zu dem einen freundlich und zu dem anderen grausam? Oder, wenn man es so sagen will, Gott? Niemand ist freundlich, niemand grausam, sagt Goenka. Das Gesetz ist so, außen wie innen. Wie die Saat, so die Frucht.
 
-Das passiert tausende Male täglich. Die meisten unbewusst. Das Unbewusste reagiert ständig — und schreibt dabei ständig neue Muster in den Geist. Schicht um Schicht um Schicht. Jahrzehnte lang.
-
-Das ist das Lager der schlafenden Unreinheiten. Der *anussayaklesā*. Der schlafende Vulkan.
-
-> [!warning] Das Tücke der Unterdrückung
-> Wer eine aufkommende Negativität durch Ablenkung, Willenskraft oder spirituelle Praxis unterdrückt, stößt sie nicht heraus — er drückt sie tiefer. In die unbewusste Ebene. Dort multipliziert sie sich weiter, unbemerkt. Die Oberfläche wirkt rein. Tief unten wächst das Lager.
+Und dann erklärt er, wo im Geist gesät wird. Die ersten drei Teile, die bemerken, wiedererkennen und empfinden, sind kein Same und tragen keine Frucht. Der vierte, der reagiert, ist der Same. Wer etwas mag, reagiert in der Tiefe lange mit Mögen, Mögen, Mögen, bis daraus Anhaften wird. Wer etwas nicht mag, häuft Berge von Nichtmögen an, bis daraus Hass wird. ([Tag 4 · 1:02:46](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=3766)) Das ist für ihn die bildliche Bedeutung des Wortes: eine riesige Anhäufung von Reaktionen.
 
 ---
 
-## 2. Sabbe Sankhārā Anicca
+## Der Räuber, der Arzt und der Enkel
 
-Der zentrale Satz aus Tag 6:
+Worauf es beim Säen ankommt, zeigt er gleich danach an zwei Messern. Ein Mann geht allein mit viel Geld und Schmuck über Land und trifft einen Räuber. Er will nichts hergeben, und der Räuber sticht ihm in seiner Wut das Messer in den Bauch, und der Mann stirbt. Ein anderer hat ein böses Magengeschwür, der Arzt hat alles versucht, nun bleibt nur die Operation. Der Patient sagt ja, der Arzt nimmt sein Messer, sticht es ihm in den Bauch, und auch dieser Mann stirbt, mitten auf dem Tisch. ([Tag 4 · 46:57](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=2817)) Zwei gleiche Handlungen, zwei gleiche Ausgänge. Wird die Natur beiden dieselbe Frucht geben? Nein, sagt Goenka, sie richtet sich nach dem Willen dahinter, beim einen voller Übelwollen, beim anderen voller Wohlwollen.
 
-*„Sabbe sankhārā anicca"* — Alle Sankhāra sind vergänglich.
+Für die Worte nimmt er sich selbst. Wie man auf Englisch beleidigt, wisse er nicht, er habe die Sprache von seinen Schülern gelernt, und keiner habe ihn das gelehrt, und glücklicherweise habe ihn auch niemand beleidigt. Aber in Indien sage man: du Hund, du Schwein, du Esel. Er trifft einen, mit dem er im Streit liegt, und sagt: du Schwein. Dann kommt sein Enkel nach Hause, hat im Schlamm gespielt, die Kleider sind voller Dreck, und er sagt: du, du Schwein. ([Tag 4 · 49:00](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=2940)) Dieselben Worte, sagt Goenka, und die Haltung dahinter ist das Gegenteil.
 
-Auch diese Konditionierungen — diese tief eingeschliffenen Reaktionsmuster — sind nicht permanent. Sie entstehen. Und sie können vergehen.
+Die Moral ist schlicht und unbequem. Was zählt, geschieht nicht an der Hand und nicht an der Zunge, sondern vorher, im Geist. Die Tat ist nur das Maß dafür, wie stark der Geist schon war.
 
-Aber: Sie vergehen nicht durch bloßes Verstehen. Nicht durch Glauben. Nicht durch Willenskraft. Sie vergehen durch Beobachtung — durch die direkte Erfahrung ihrer Vergänglichkeit auf der Ebene der [[Vipassana — Vedana|Vedanā]].
-
-Wenn man eine Empfindung beobachtet, ohne zu reagieren — weder mit Verlangen noch mit Aversion — dann entsteht kein neuer Sankhāra. Und die alten, die an die Oberfläche kommen, lösen sich auf, weil sie nicht genährt werden.
-
----
-
-## 3. Der Reinigungsprozess — Schicht für Schicht
-
-Goenka beschreibt den Kurs als tiefe chirurgische Operation des Geistes. Schicht um Schicht kommen die alten Sankhāra hoch — als Schmerzen, als intensive Empfindungen, als aufwallende Emotionen.
-
-Das ist kein Problem. Das ist der Prozess.
-
-> [!success] Die paradoxe Erleichterung
-> Was wie eine Verschlechterung aussieht — mehr Schmerz, mehr Intensität, mehr Aufruhr — ist oft das Gegenteil: alte Konditionierungen kommen hoch, weil sie sich endlich auflösen. Nicht neu entstehen, sondern gehen.
-
-Wer gleichmütig beobachtet, lässt sie gehen. Wer reagiert — mit Widerstand oder mit Verlangen — drückt sie zurück oder verstärkt sie.
+> [!question] Weitergedacht
+> Der Arzt und der Räuber führen dieselbe Bewegung aus, und Goenka urteilt nach dem Willen allein. *Reicht ein guter Wille, wenn die Folgen dieselben sind? Und wer kennt den eigenen Willen gut genug, um sich auf ihn zu berufen?*
 
 ---
 
-## 4. Der Banienbaum — Multiplikation ohne Ende
+## Wasser, Sand und Fels
 
-Tag 8 bringt das stärkste Bild für den Multiplikationsprozess der Sankhāra:
+Nicht jeder Same ist gleich tief. Manche Reaktionen sind wie eine Linie, die man mit dem Finger über Wasser zieht: kaum gezogen, schon fort. Andere wie eine Linie im Sand am Strand, morgens gezogen, abends verweht. Und manche schlägt man mit Hammer und Meißel in den Fels. Auch sie vergehen einmal, sagt Goenka, aber es dauert lange. ([Tag 4 · 1:03:49](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=3829))
 
-Ein einzelner Same des Banienbaums — winzig. Daraus wächst ein riesiger Baum. Hunderte Früchte pro Jahr, jahrhundertelang. Jede Frucht enthält neue Samen. Jeder Samen einen neuen Baum. Der Prozess endet nie — auch wenn der ursprüngliche Baum längst gestorben ist.
+Abends im Bett, wenn man zurückdenkt, fallen einem von den zahllosen Saṅkhāras des Tages nur ein oder zwei ein, die tief sitzen. Am Ende des Jahres wieder nur ein oder zwei. Und im Augenblick des Todes, so lehrt er es nach seiner Tradition, steigt ein solcher tiefer auf, und der letzte Geistesmoment dieses Lebens erzeugt den ersten des nächsten: schwer wie ein Stein oder leicht wie Butter. ([Tag 4 · 1:05:13](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=3913)) Wer das nicht glauben mag, findet in der Stelle trotzdem etwas, das man prüfen kann: was am Abend noch nachbrennt.
 
-*Ein einziger unbewusster Sankhāra — und die Multiplikation beginnt.*
+Goenka zieht daraus keinen Schrecken, sondern eine Kunst. Die Technik lehre das richtige Sterben, und gut sterben könne nur, wer gut gelebt hat. Der Tod kommt, man beobachtet, anicca, anicca, er kommt näher, vorbei. Es sei schließlich eine Beförderung. ([Tag 4 · 1:05:52](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=3952))
 
-> [!warning] Die unsichtbare Kette
-> Man denkt, man hat eine Reaktion gehabt. In Wirklichkeit hat man einen Samen gepflanzt, der Früchte trägt, die Samen enthalten, die neue Bäume werden. Das ganze Leben lang — ohne es zu bemerken.
+Stein und Butter kommen nicht von ungefähr, sie stammen aus einer Geschichte, die er früher am selben Abend erzählt hat. Ein junger Mann kam weinend zum Buddha: Gestern ist mein alter Vater gestorben. Weinen bringe ihn nicht zurück, sagte der Buddha. Das wisse er, aber er habe eine Bitte. Die einfachen Priester verschafften den Toten mit ihren Riten eine Eintrittskarte in den Himmel. Ein so mächtiger Mann wie der Buddha könne dem Vater doch eine Dauerkarte besorgen. ([Tag 4 · 38:53](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=2333))
 
----
+Der Buddha schickte ihn auf den Markt, zwei Tontöpfe kaufen. Den einen mit Butter füllen, den anderen mit Steinen, beide verschließen und im Teich versenken. Dann einen Knüppel holen und die Töpfe zerschlagen. Der junge Mann war glücklich, nun kam die Zeremonie. Er schlug zu, die Butter stieg auf und schwamm oben, die Steine blieben am Grund. Gut, sagte der Buddha, das war mein Teil. Jetzt ruf deine Freunde und Priester und betet: Ihr Steine, steigt auf. Du Butter, sinke. Wir wollen doch mal sehen, ob das geht.
 
-## 5. Der Benzin-Tank — drei Zustände
+Ehrwürdiger Herr, Ihr macht Witze. Steine sind schwerer als Wasser, Butter ist leichter. Das ist Naturgesetz.
 
-Das präziseste Gleichnis Goenkas für die drei Stadien der Praxis:
-
-**Tank voll Benzin:** Ein Funke trifft auf den Tank — Explosion. Das ist der ungeschulte Geist: jede kleine Provokation, jede Vedanā löst eine unverhältnismäßige Reaktion aus. Die alten Sankhāra liefern den Treibstoff.
-
-**Tank leer:** Ein Funke kommt — er verbrennt nur so viel, wie er selbst mitgebracht hat. Dann verlöscht er. Alte Karmas kommen noch als Funken — aber sie finden keinen Brennstoff mehr. Sie lösen sich auf.
-
-**Tank mit kaltem Wasser gefüllt:** Jeder Funke wird sofort ausgelöscht. Der Geist ist so tief in Paññā verankert, so rein von Sankhāra, dass keine Reaktion mehr möglich ist. Altes Karma löst sich ab — schnell, ohne Explosion, ohne Nachbrennen.
-
-> [!quote] Goenka, Tag 8
-> *„Jemand kommt mit Feuer, um mich zu versengen — und ich nehme einen Eimer voll Wasser. Hier, lass uns beide glücklich sein."*
+> *„Wenn dein Vater in seinem ganzen Leben Handlungen begangen hat, die schwer waren wie Steine, dann muss er sinken. Wer kann ihn da hinaufziehen?"* ([Tag 4 · 42:40](https://discourses.dhamma.org/oml/recordings/uuid/4c3649e1-d309-48a0-822e-c626ceb00d44.mp3#t=2560))
 
 ---
 
-## 6. Karma als Psychologie
+## Der schlafende Vulkan
 
-Sankhāra ist die psychologische Basis des Karma-Begriffs. Nicht mystisch — präzise: Jede Reaktion im Geist erzeugt eine Tendenz zu ähnlichen Reaktionen. Die Reaktion von heute formt den Charakter von morgen.
+Was geschieht mit einer Reaktion, die man nicht auslebt? Am dritten Abend gibt Goenka eine Antwort, die zuerst wie Lob klingt. Ärger kommt, man stößt ihn hinaus, statt ihn an anderen auszulassen. Gut so, sagt er, sonst wäre daraus ein böses Wort geworden oder ein Schlag.
 
-*„Wie der Same, so die Frucht."*
+> *„Aber wenn Sie es hinausstoßen, dann stoßen Sie es in Wirklichkeit nicht hinaus, sondern Sie stoßen es hinein."* ([Tag 3 · 2:42](https://discourses.dhamma.org/oml/recordings/uuid/73c0bd71-473a-47b0-9293-3ed52e596850.mp3#t=162))
 
-Das bedeutet: Man ist nicht Opfer des Schicksals — und nicht Opfer der eigenen Vergangenheit. Man ist Schöpfer der eigenen zukünftigen Erfahrung. Durch jede Reaktion, die man jetzt wählt — oder nicht wählt.
+Es sinkt in die Tiefe, und dort liegt es mit allem anderen, was dort schon liegt, wie ein schlafender Vulkan, der jederzeit ausbrechen kann. Die alten Texte nennen es *anusaya kilesā*, die schlafenden Trübungen.
+
+Am fünften Abend hat er dafür ein zweites Bild. In trübes Wasser gibt man Alaun, und der Schmutz sinkt zu Boden. Das Wasser ist klar. Wird es umgerührt, steigt alles wieder auf. ([Tag 5 · 5:25](https://discourses.dhamma.org/oml/recordings/uuid/3d5c897d-847b-4570-be79-3b21491f93db.mp3#t=325)) Und ganz nebenbei setzt er einen kleinen Spiegel davor. Wer eine Weile keinen Zorn mehr spürt, keine Gier, sagt sich gern: Schau her, keine Aggression mehr in mir.
+
+> *„Bin ich nicht ein wahrlich großartiger Mensch?"* ([Tag 5 · 6:27](https://discourses.dhamma.org/oml/recordings/uuid/3d5c897d-847b-4570-be79-3b21491f93db.mp3#t=387))
+
+---
+
+## Zehn Geschenke für eines
+
+Am achten Abend zeigt Goenka, wie sich Saṅkhāras vermehren. Aus dem winzigen Samen des Banyanbaums wird ein Riese, der jahrhundertelang Früchte trägt, und in jeder Frucht steckt ein neuer Baum (→ [[S.N. Goenka — Vipassana#Die Raststätte auf halbem Weg|Die Raststätte auf halbem Weg]]). Im Alltag sieht das so aus: Einer bringt uns das Geschenk eines bösen Wortes, und wir geben zehn Geschenke zurück. Er bringt zehn, wir geben hundert. ([Tag 8 · 59:51](https://discourses.dhamma.org/oml/recordings/uuid/00a0aa9c-30be-44d5-96d0-3aaa891e23f0.mp3#t=3591))
+
+Dazu das Bild vom Tank. Jeder trägt einen mit sich herum. Ist er voll Benzin, wird aus jedem Funken ein Brand. Ist er leer, verbrennt der Funke nur, was er selbst mitbringt, und erlischt. Ist er mit kaltem Wasser gefüllt, geht jeder Funke sofort aus. Auf der Ebene des Verstandes, sagt Goenka, begreift das jeder. Wenn dann wirklich einer mit Feuer kommt:
+
+> *„Jemand kommt mit Feuer, um mich zu versengen, und ich nehme einen Eimer voll Benzin und schleudere ihm entgegen, ich bin in Flammen, du sollst auch in Flammen stehen, lass uns beide kochen. Nur wenn wirkliche Weisheit da ist und jemand kommt mir mit Feuer entgegen, nehme ich einen Eimer voller Wasser. Hier, lass uns beide glücklich sein."* ([Tag 8 · 21:03](https://discourses.dhamma.org/oml/recordings/uuid/00a0aa9c-30be-44d5-96d0-3aaa891e23f0.mp3#t=1263))
+
+Gleich danach sagt er, wie schwer das ist. Sehr, sehr schwer.
+
+---
+
+## Wenn der Strom kein Futter bekommt
+
+Und warum tut der Kurs manchmal weh? Goenka erklärt es mit einem Gedanken, der zu den genauesten der zehn Abende gehört. Der Strom des Geistes braucht in jedem Augenblick Nahrung, und die Nahrung ist die Reaktion, die man gerade erzeugt. ([Tag 8 · 28:42](https://discourses.dhamma.org/oml/recordings/uuid/00a0aa9c-30be-44d5-96d0-3aaa891e23f0.mp3#t=1722)) Wer gleichmütig bleibt, gibt ihm keine. Dann nimmt er sich, was in der Tiefe lagert: Ein alter Saṅkhāra des Zorns, der sich sonst erst viel später gezeigt hätte, trägt jetzt seine Frucht, und er kommt als dieselbe unangenehme Empfindung, die man spürte, als man ihn säte. Wer sie leicht nimmt, anicca, anicca, dem verliert sie ihre Kraft. Wer wieder mit Zorn antwortet, füttert den Strom aufs Neue.
+
+Das ist der Grund, warum Goenka so gelassen bleibt, wenn Schüler klagen. Was hochkommt, ist kein Rückschritt, es geht. Schicht um Schicht, und zuerst die groben.
+
+Am Ende desselben Abends erzählt er von den Leuten, die zu ihm kommen. Ach, meine Frau ist so schlimm, wenn sie sich bessern würde, wäre mein Leben so glücklich. Ach, mein Mann ist so schlecht. Jeder will die anderen ändern. ([Tag 8 · 1:00:23](https://discourses.dhamma.org/oml/recordings/uuid/00a0aa9c-30be-44d5-96d0-3aaa891e23f0.mp3#t=3623)) Goenkas Rat ist derselbe wie für den Funken und den Tank: nachsehen, was man selbst gerade nachgießt.
+
+> [!note] Eigene Einschätzung
+> Goenkas Saṅkhāra umfasst mehr, als die Psychologie unter „Gewohnheit“ versteht. Bei ihm reicht der Same über den Tod hinaus, und die Frucht wird von einem Naturgesetz zugeteilt. Das ist die Lehre seiner Tradition, und man muss sie nicht teilen, um den Kern zu prüfen: Reaktionen, die man wiederholt, werden leichter und schneller, und eine Reaktion, die man einmal nicht vollzieht, fehlt dem nächsten Mal. Der Kurs ist ein Ort, an dem man das zehn Tage lang an sich selbst beobachten kann. Was davon bleibt, wenn man nach Hause kommt, entscheidet für Goenka allein der Alltag (→ [[Vipassana — Vedana#Hundert Runden, keine Himmelspforte|Vedanā]]).
 
 ---
 
@@ -119,21 +139,36 @@ Das bedeutet: Man ist nicht Opfer des Schicksals — und nicht Opfer der eigenen
 
 ### → [[Erich Fromm — Haben oder Sein]]
 
-Fromms Charakter ist das westliche Äquivalent zu Sankhāra: die eingeschliffene Struktur aus frühen Konditionierungen, die bestimmt, wie man auf die Welt reagiert — oft ohne Bewusstsein. Fromm fragt: Wie wird Charakter zum Gefängnis? Goenka fragt dasselbe — und gibt eine Antwort: durch Beobachtung, nicht durch Analyse.
+Fromms Charakter ist das westliche Gegenstück zu Saṅkhāra: eine eingeschliffene Struktur aus frühen Prägungen, die bestimmt, wie man auf die Welt antwortet, oft ohne es zu wissen. Fromm fragt, wie der Charakter zum Gefängnis wird. Goenka fragt dasselbe und antwortet mit Beobachtung statt mit Analyse.
+
+### → [[Erich Fromm — Psychoanalyse des Faschismus]]
+
+Fromms autoritärer Charakter zeigt, wie Prägungen sich zu Haltungen verfestigen, die ganze Gesellschaften tragen. Befreiung verlangt bei beiden, dass man die eigene Prägung sieht: bei Fromm in der Analyse, bei Goenka an der Empfindung.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 
-Mausfeld zeigt, wie gesellschaftliche Konditionierung — durch Medien, Sprache, Angsterzeugung — das Denken und Fühlen formt, ohne dass man es merkt. Das ist kollektives Sankhāra: gesellschaftlich eingeschliffene Reaktionsmuster, die für natürlich gehalten werden. Mausfeld und Goenka beschreiben denselben Mechanismus — auf verschiedenen Ebenen.
+Mausfeld beschreibt, wie Medien, Sprache und erzeugte Angst Denken und Fühlen formen, ohne dass man es merkt. Man kann darin kollektive Saṅkhāras sehen: gesellschaftlich eingeschliffene Reaktionen, die für natürlich gehalten werden. Goenka setzt am Einzelnen an, Mausfeld an den Verhältnissen; die Spannung zwischen beiden steht in der Hauptnote unter [[S.N. Goenka — Vipassana#Hundert Prozent|Hundert Prozent]].
 
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 
-Bonhoeffer: Dummheit entsteht durch gesellschaftliche Konditionierung, die das eigene Urteilen ersetzt. Sankhāra ist der individuelle Mechanismus dahinter: Reaktionsmuster, die so tief eingeschliffen sind, dass sie nicht mehr als Reaktion erkannt werden — sondern als "ich selbst".
+Bonhoeffers Dummheit entsteht, wo fremde Parolen das eigene Urteil ersetzen. Saṅkhāra ist der innere Mechanismus, der das möglich macht: Reaktionen, so tief eingeschliffen, dass man sie nicht mehr als Reaktion erkennt, sondern für sich selbst hält.
+
+### → [[scobel — Foucault Aufklaerung als Haltung]]
+
+Foucaults Aufklärung ist keine Lehre, sondern eine Haltung, die man üben muss, immer wieder. Vipassana ist dasselbe nach innen gewendet: Freiheit nicht als Zustand, sondern als tägliche Übung gegen die eigenen Prägungen.
 
 ### → [[S.N. Goenka — Vipassana]]
 
-Sankhāra und [[Vipassana — Vedana|Vedanā]] sind das Herzstück der praktischen Psychologie Goenkas. [[Vipassana — Anicca|Anicca]] erfahren bedeutet: sehen, dass auch Sankhāra vergänglich ist. [[Vipassana — Upekkha|Upekkha]] ist die Praxis des Nicht-Reagierens — kein neuer Sankhāra entsteht.
+Saṅkhāra und [[Vipassana — Vedana|Vedanā]] sind das Herzstück von Goenkas praktischer Psychologie. [[Vipassana — Anicca|Anicca]] erfahren heißt sehen, dass auch die Saṅkhāras vergehen; [[Vipassana — Upekkha|Upekkhā]] ist die Haltung, unter der kein neuer entsteht.
 
-- [[scobel — Foucault Aufklaerung als Haltung]] — Sankara (konditionierte Reaktionsmuster als Mechanismus der Unfreiheit) und Foucaults Unmündigkeit beschreiben dasselbe Phänomen auf verschiedenen Ebenen: Vipassana als interne, Aufklärung als externe Praxis der Befreiung. Beide verstehen Freiheit nicht als Zustand, sondern als kontinuierliche Übung.
-- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Leben, Lehrerlinie und Vermächtnis
 
-- [[Erich Fromm — Psychoanalyse des Faschismus]] — Fromms autoritärer Charakter ist ein säkulares Pendant zum Sankara: psychische Prägungen die sich als Charakter verfestigen und Handeln determinieren. Befreiung erfordert Bewusstwerdung — Vipassana durch Kontemplation, Fromm durch Analyse
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Wer Ärger hinausstößt, stößt ihn nach Goenka hinein, und wer ihn auslebt, schadet anderen. *Gibt es eine Wut, die gesagt werden muss, damit Unrecht sichtbar wird — und wo hätte sie in diesem Modell ihren Platz?*
+> - Zuckerrohr und Neem bekommen dieselbe Sonne. Aber Menschen bekommen nicht dieselbe Erde. *Wie viel von dem, was einer an Saṅkhāras mit sich trägt, hat er selbst gesät?*
+> - Der Kurs nährt den Strom nicht, und die alten Saṅkhāras steigen auf. *Woran unterscheidet man, ob etwas Altes geht oder ob man sich gerade etwas Neues zufügt?*
+> - „Bin ich nicht ein wahrlich großartiger Mensch?“ *Ist der Stolz auf den eigenen Gleichmut der feinste Saṅkhāra von allen?*
