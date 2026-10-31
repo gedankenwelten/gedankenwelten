@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Wer weiß, dass draußen jemand an ihn denkt, übersteht die Einzelhaft anders: Die Memorial-Gründerin und die ZEIT-Reporterin über Gefangene, Briefe und ein Land, das seine Toten nicht nennen darf.
 
-> → *21 weitere in* [[Zeitgeist]]
+> → *20 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -106,7 +106,7 @@ Die Gedankenwelten (luc)
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> → *11 weitere in* [[Panorama]]
+> → *8 weitere in* [[Panorama]]
 
 ### Spuren
 

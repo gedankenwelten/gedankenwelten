@@ -24,6 +24,16 @@ aliases:
 
 # Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)
 
+![[assets/Eva-von-Redecker-Ueber-den-neuen-Faschismus-Jung-und-Naiv-811-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — metaphysische Malerei: eine leere Piazza unter grünem Abendhimmel, Arkaden, überlange Schatten. Auf dem Sockel steht nur noch der gläserne Umriss eines Globus, und eine Gliederpuppe zielt mit dem Gewehr auf einen riesigen Schatten, der nach ihr greift. De Chiricos Plätze sind voller Dinge, die fehlen, und Schatten, die keinen Körper haben. Das ist Redeckers Phantombesitz: verteidigt wird, was nicht mehr da ist, gegen einen Plünderer, den es nicht gibt.
+
+*Prompt:* Metaphysical painting in the style of Giorgio de Chirico, wide panoramic banner. An empty sunlit Italian piazza with deep arcades casting long black diagonal shadows under a deep green-turquoise evening sky. In the center a tall stone pedestal that holds nothing but the faint translucent outline of a globe, a ghostly contour of an object that is no longer there. Beside the pedestal a small faceless tailor's mannequin soldier stands rigid, aiming a rifle at an enormous menacing shadow that stretches across the piazza and climbs the arcade wall; the shadow is cast by the mannequin itself. On the horizon a distant factory chimney and a small train with a plume of white smoke. Smooth flat oil paint, ochre, brick red, deep green, black shadows, uncanny stillness. No text, no signature, no monogram.
+
+</details>
+
 Quelle: Jung & Naiv, Folge 811 (ca. März 2026, 2:39h)
 Gesprächspartner: Tilo Jung
 
