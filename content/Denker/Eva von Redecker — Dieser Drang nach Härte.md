@@ -3,7 +3,7 @@ date: 2026-03-27
 title: "Eva von Redecker — Dieser Drang nach Härte"
 description: "Man spürt etwas an einer Stelle, wo nichts mehr ist. Für Eva von Redecker ist Faschismus die Verteidigung eines Phantombesitzes – und sie nennt vier Wege, ihm den Boden zu entziehen."
 raetsel: "Die Hand schließt sich um ein Glas, das längst nicht mehr auf dem Tisch steht."
-aktualisiert: 2026-04-05
+aktualisiert: 2026-10-31
 tags:
   - denker
   - faschismus
@@ -184,6 +184,26 @@ Kriegskommunismus und „Dark Socialism", wie sie Andreas Malm und Kohei Saito f
 
 > [!question] Weitergedacht
 > Redeckers vier Wege setzen auf Erfahrung: sich sicher fühlen, Sinn erleben, gut versorgt sein. *Was aber, wenn jemand all das hat und trotzdem nach Härte verlangt? Ist der Drang nach Härte dann noch ein Mangel, oder etwas anderes?*
+
+---
+
+## Nachbesprechung
+
+*Eine Gegenstrategie des Abends, noch einmal aufgenommen: was man über das Gesagte hinaus weiß.*
+
+### Wirkt öffentlicher Luxus gegen rechts?
+
+Redeckers Hoffnung ruht auf einer Erfahrung: Wer Räume kennt, „in denen wir uns als Gleiche begegnen und wirklich sicher sind", braucht kein Phantom. Den Begriff hat sie von George Monbiot, der 2017 schrieb: „We have enough physical and ecological space for public luxury for all. But not enough for private luxury for all" ([Monbiot, 2017](https://www.monbiot.com/2017/06/05/%ef%bb%bf-space-savers/)). Ob öffentlicher Luxus Menschen von rechts zurückholt, hat die Forschung kaum gemessen. Gut gemessen ist die Gegenrichtung, und sie gibt Redecker recht.
+
+Als Italien die öffentlichen Dienste in Gemeinden unter 5.000 Einwohnern ausdünnte, stieg dort die Wahl der extremen Rechten, und zwar über wachsende Sorgen um Migration, die die Parteien mit dem Verlust verknüpften ([Cremaschi, Rettl, Cappelluti & De Vries 2024, doi:10.1111/ajps.12936](https://doi.org/10.1111/ajps.12936), Quasi-Experiment). Wo in England Einrichtungen des Gesundheitsdienstes schlossen, sank die Zufriedenheit, und die Unterstützung für die populistische Rechte stieg ([Dickson, Hobolt, De Vries & Cremaschi 2026, doi:10.1017/s0003055426101944](https://doi.org/10.1017/s0003055426101944)). In Dänemark verloren Bürgermeister nach 315 Schul- und 30 Krankenhausschließungen im Schnitt 1,6 Prozentpunkte, und rechtspopulistische Parteien legten zu ([Nyholt 2023, doi:10.1111/1475-6765.12622](https://doi.org/10.1111/1475-6765.12622)). In Großbritannien hob jede geschlossene Dorfkneipe die Neigung zur UKIP um 4,3 Punkte, stärker bei materieller Not ([Bolet 2021, doi:10.1177/0010414021997158](https://doi.org/10.1177/0010414021997158)). Was verschwindet, wo man sich begegnet, treibt nach rechts.
+
+Für Deutschland ist das Bild dünner. Unter allen Wegen zu öffentlichen Einrichtungen hing nur der kürzere Weg zum Bahnhof mit mehr Vertrauen in die Regierung zusammen ([Stroppe 2023, doi:10.1016/j.polgeo.2023.102905](https://doi.org/10.1016/j.polgeo.2023.102905)), und in einer Befragung von 10.000 Menschen war die objektive Unterversorgung einer Gegend nur schwach mit Vertrauen verbunden, am stärksten dagegen das *Gefühl*, ungerecht behandelt zu werden ([Stroppe 2026, doi:10.1080/00343404.2026.2696386](https://doi.org/10.1080/00343404.2026.2696386)). Eine Studie, die Schließungen von Kliniken, Praxen, Bädern oder Bahnstrecken direkt mit Wahlergebnissen verbindet, gibt es für Deutschland bisher nicht.
+
+Und öffentliche Güter haben eine Schattenseite, die Redeckers Bild ernst nehmen muss. Als Wien Gemeindewohnungen für Zugewanderte öffnete, stieg in den betroffenen Vierteln die Wahl der FPÖ ([Cavaillé & Ferwerda 2023, doi:10.1086/720643](https://doi.org/10.1086/720643)): Ein gemeinsamer Raum kann auch zum Ort werden, an dem um Plätze gestritten wird. Gleichheit muss man darum mitbauen, nicht nur den Raum. Graz, das Redecker als Beispiel nennt, ist dafür ein Bild, kein Beweis: Bei der Gemeinderatswahl am 28. Juni 2026 kam die KPÖ unter Bürgermeisterin Elke Kahr auf 35,7 Prozent, die FPÖ auf 12 Prozent ([Stadt Graz](https://www.graz.at/cms/dokumente/10457186_7747759/6eab7986/BIGJuli2026_web_klein.pdf)).
+
+Im Bestand ist die Frage umstritten. Robin Celikates setzt wie Redecker auf Konkretion, auf sichtbar gebaute Daseinsvorsorge ([[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Die Brandmauer, die es nie gab|Celikates]]). In Querfurt fehlt nicht das Brot, die Arbeit ist da, es fehlen Jugendclub, Arzt und Anerkennung ([[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Was fehlt, ist nicht das Brot|Querfurt]]). Roger de Weck hält dagegen: Wer nur liefert, geht unter, denn die AfD biete Gemeinschaftsgefühl, nicht Leistungen ([[Roger de Weck — Was ist konservativ#Gegen den Deliverism|de Weck]]).
+
+→ Weiter im Panorama: **[[Panorama/Warum waehlen Menschen Autoritaere#Was holt Wähler zurück?|Was holt Wähler zurück?]]**, mit Tom Krebs und Roger de Weck.
 
 ---
 

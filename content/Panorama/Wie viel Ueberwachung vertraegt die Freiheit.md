@@ -2,7 +2,7 @@
 title: "Wie viel Überwachung verträgt die Freiheit?"
 date: 2026-10-17
 erstellt: 2026-10-17
-aktualisiert: 2026-10-17
+aktualisiert: 2026-10-31
 description: "Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert."
 raetsel: "Niemand sieht zu. Und doch zieht jeder die Vorhänge."
 panorama-art: wachsend
@@ -69,11 +69,14 @@ Orwells Einsicht ist älter als Orwell. Jeremy Bentham entwarf 1791 das Panoptik
 
 Auffällig ist die Gegenbewegung. Dieselben Menschen, die sich vor dem Staat ducken, geben ihre Daten Plattformen, die mehr über sie wissen als jede Polizeiakte. Die Gewöhnung an das Erfasstwerden ist selbst ein Befund, und vielleicht der größere.
 
+Und sie betrifft nicht nur den, der sich gewöhnt. Was einige preisgeben, verrät andere mit: Die Kontaktlisten der Mitglieder eines sozialen Netzwerks sagten die sexuelle Orientierung von Menschen vorher, die nie Mitglied waren ([García 2017, doi:10.1126/sciadv.1701172](https://doi.org/10.1126/sciadv.1701172)), und aus den Beiträgen von acht oder neun Kontakten ließ sich eine Person fast so gut vorhersagen wie aus ihren eigenen, auch nachdem sie die Plattform verlassen hatte ([Bagrow, Liu & Mitchell 2019, doi:10.1038/s41562-018-0510-5](https://doi.org/10.1038/s41562-018-0510-5)). Das Recht schützt erschlossene sensible Daten seit 2022, aber nur für eine identifizierte Person, nicht das Modell, das solche Schlüsse auf alle anwendet ([EuGH C-184/20](https://curia.europa.eu/juris/document/document.jsf?docid=263721&doclang=EN)). Belege in der [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Entscheidet meine Einwilligung über dich mit?|Mühlhoff-Nachbesprechung]].
+
 **Die Stimmen**
 
 - **[[Walther Ziegler — Foucault in 60 Minuten#Überwachen und Strafen — Das Panoptikum als Gesellschaftsmodell|Michel Foucault]]:** Es ist gleich, ob der Wärter hinsieht; wer der Sichtbarkeit unterworfen ist und es weiß, „wird zum Prinzip seiner eigenen Unterwerfung".
 - **[[Kurz und Goerlitz — Palantir und die deutsche Polizei#Wer landet eigentlich in der Polizeidatenbank?|Franziska Görlitz]]:** Der Chilling-Effekt trifft Anwälte, Journalisten und Aktivisten, die nur Kontakt zu Verdächtigen haben; sie gehen nicht zur Demo, sie rufen nicht mehr an.
 - **[[Constanze Kurz — Palantir als Tueroeffner#Zweckbindung — ein Prinzip aus den Achtzigern|Constanze Kurz]]:** Viele haben die Zweckbindung vergessen, „während sie auf Instagram scrollen", und die Normalisierung der Datenauswertung sickert in den Polizeialltag.
+- **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Prädiktive Privatheit — die Universalwaffe|Rainer Mühlhoff]]:** Wenige, die freiwillig Sensibles preisgeben, trainieren das Modell, das es bei allen anderen abschätzt; regulieren müsse man darum, wofür ein trainiertes Modell weiterverwendet werden darf.
 - **[[Bundestalk — Meinungsfreiheit in Deutschland 2026#Chillingeffekt oder Streisandeffekt? Das Paradox der Meinungsverbote|Pauline Jäckels]]:** Abschreckung und Trotz wirken gleichzeitig; wo der Staat etwas unterdrückt, entstehen Codes, und manches Verbot macht das Verbotene erst attraktiv.
 
 > [!question] Die Reibung
@@ -134,6 +137,7 @@ Quer zur Debatte liegt das polizeiinterne Projekt **P20**: Es will die Polizeida
 | Datum | Note | Vertieft |
 |---|---|---|
 | 17.10.2026 | [[Constanze Kurz — Palantir als Tueroeffner#Nachbesprechung|Constanze Kurz — Palantir als Türöffner]] | Gründungsnote: Wirkt die Datenanalyse? (Lee et al. 2024, Mohler et al. 2015, Galiani & Jaitman 2022, Braga et al. 2019, Saunders et al. 2016, Gerstner 2017, taz/Poseck) → *Wirkt es?* · Hilft ein europäischer Anbieter? (EuroStack 2025, Pohle & Thiel 2020, Republik, heise, P20) → *Löst ein europäischer Anbieter etwas?* · beim Anlegen ergänzt: Chilling Effects (Penney 2016, Stoycheff 2016, Büchi et al. 2022) → *Was macht es mit Menschen, beobachtet zu werden?* · China und Großbritannien (HRW 2019, China Cables, OHCHR 2022, Kostka 2019, Beraja et al. 2023, Piza et al. 2019, EGMR Big Brother Watch 2021, Bridges 2020) → *Wo kippt Schutz in Herrschaft?* |
+| 31.10.2026 | [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Nachbesprechung\|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] | Was macht es mit Menschen, beobachtet zu werden? Prädiktive Privatheit: Schattenprofile (García 2017), Vorhersage aus Kontakten (Bagrow et al. 2019), Datenexternalität (Acemoglu et al. 2022), EuGH C-184/20, EDPB-Lücke, Gegenbefund DSGVO und Konzentration (Johnson et al. 2023) |
 
 ---
 

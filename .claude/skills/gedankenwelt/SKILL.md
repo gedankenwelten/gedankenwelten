@@ -387,6 +387,41 @@ python3 .claude/scripts/vtt_to_txt.py \
 
 ---
 
+## Schritt 4a — Abschrift und Sprecher prüfen (Pflicht, seit 31.10.2026)
+
+> [!important] Erst wissen, wer spricht — dann schreiben
+> Am 31.10.2026 zeigten drei viel gelesene Notes denselben Fehler: Bei Mühlhoff (Jung & Naiv 818) riss
+> die Abschrift nach 31 von 240 Minuten ab, die Note entstand aus Bruchstücken ohne Zeitmarken, und Hans
+> Jessen wurde sechsmal zu Tilo Jung. Bei Flassbeck sprach in zwei Fünfteln des Reaktionsvideos der
+> Kommentator Maurice Höfgen, auch das harte Urteil über Schäuble war seins. Bei Redecker wanderten Tilos
+> Thesen zu ihr. Im Fehler-Register ist `interviewer-verwechselt` damit ein Muster. Andreas: „mach das
+> bitte mit den sprechern trennen.“
+
+```bash
+python3 .claude/scripts/sprecher_check.py reaktion  "URL"                 # Reaktionsvideo? Original in der Beschreibung?
+python3 .claude/scripts/sprecher_check.py abdeckung "URL" "DATEI.vtt"     # reicht die Abschrift bis zum Ende? Exit 1 = nein
+python3 .claude/scripts/sprecher_check.py schnitte  "URL" --transkript "DATEI.vtt"   # nur bei Reaktionsvideos/Zusammenschnitten
+```
+
+1. **Abdeckung.** Exit 1 heißt: Lücke, abgebrochene oder halluzinierte Strecke („Ja." × 600). Dann neu
+   ziehen (YouTube-Autountertitel, sonst Whisper mit `--condition-on-previous-text False`). **Nie aus
+   Bruchstücken ohne Zeitmarken schreiben** — Chunk-Dateien sind Arbeitsmaterial, keine Quelle.
+2. **Reaktionsvideo.** Gibt es das Original (Beschreibung, Kanal des Sprechers), ist **das Original die
+   Quelle**; das Reaktionsvideo höchstens Zweitquelle für den Kommentar. Gibt es keins: `schnitte` laufen
+   lassen. Harte digitale Stille markiert die Schnittkanten (im Flassbeck-Test lagen rund 20 von 39 Kanten
+   genau auf den Sprecherwechseln). An jeder Kante kurz hineinhören, dazu die inhaltlichen Zeichen („wie
+   eben von mir erwähnt“, „gemeint ist …“, das stillstehende Vortragsbild). Dann in einer **Arbeitskopie**
+   jeden Abschnitt mit `[NAME]` markieren und erst daraus schreiben. In der Note steht ausdrücklich, wer
+   kommentiert („Höfgen ergänzt …“), und die `Quelle:`-Zeile sagt, wie viel Kommentar das Video enthält.
+3. **Mehrere Fragende** (Jung & Naiv mit Fragerunde, Panels, Podien): Den Wechsel festhalten, bevor
+   geschrieben wird — bei Jung & Naiv übernimmt meist **Hans Jessen** die Chatfragen, Tilo verabschiedet sich
+   vorher. Jede These des Interviewers bleibt seine, auch wenn der Gast zustimmt („Tilo Jung drängt …,
+   Redecker antwortet anders“). Gerade im ersten Teil ohne ▶-Marken lag die Fehlerzone.
+4. **Jedes Zitat mit Sprecher und Zeitmarke** (→ aristoteles, „Was andere sagen: nur mit Zeitmarke“). Ein
+   Zitat, das sich keiner Stelle zuordnen lässt, bleibt draußen.
+
+---
+
 ## Schritt 4b — Agenten-Haushalt (seit 11.10.2026)
 
 Die Agenten laufen **nacheinander, im Vordergrund**, jeder an seiner Stelle der Pipeline — nie mehrere
@@ -1319,6 +1354,7 @@ erste überlas; ein dritter ist Übertreibung (Glätten ist der Tod der Stimme).
 - [ ] Download / Transkription abgeschlossen
 - [ ] Video-Beschreibung auf Quellen geprüft (Schritt 2b) — ggf. `## Weiterführende Quellen` in Note ergänzt
 - [ ] VTT → TXT konvertiert
+- [ ] **Abschrift und Sprecher geprüft (Schritt 4a):** `sprecher_check.py abdeckung` Exit 0; Reaktionsvideo → Original als Quelle oder Sprecher per `schnitte` getrennt; Wechsel der Fragenden (Tilo → Hans) notiert
 - [ ] Obsidian-Note erstellt — Callout aus DenkerVita, Link `→ [[content/DenkerVita/<Name>|DenkerVita]]` am Ende des Callouts
 - [ ] **Publikumsfragen:** Fragerunde im Transkript vermessen, alle Fragen gelistet, `## Publikumsfragen` mit Substanz + Moderator-Nachfragen geschrieben (entfällt nur, wenn die Folge keine Runde hat)
 - [ ] **Zeitgeist:** Sherlock-Faktencheck eingefügt

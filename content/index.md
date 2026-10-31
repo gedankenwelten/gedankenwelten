@@ -52,6 +52,14 @@ Die Gedankenwelten (luc)
 >
 > Die KI-Blase finanziert für Rainer Mühlhoff mehr als Software: den Umbau des Staates zur Plattform. Er zeigt, wo sich Tech-Ideologien und die Struktur des Faschismus gleichen.
 
+> **31.10.** — [[Denker/Heiner Flassbeck — Krise und Rechtsruck|Heiner Flassbeck — Krise und Rechtsruck]]
+>
+> Es gibt kein Sparen ohne Schulden. Heiner Flassbeck fragt, wer sie macht – und sieht in Deutschlands Lohnpolitik einen Grund für den Rechtsruck bei den Nachbarn.
+
+> **31.10.** — [[Denker/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
+>
+> Man spürt etwas an einer Stelle, wo nichts mehr ist. Für Eva von Redecker ist Faschismus die Verteidigung eines Phantombesitzes – und sie nennt vier Wege, ihm den Boden zu entziehen.
+
 > **30.10.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
 >
 > Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
@@ -59,6 +67,30 @@ Die Gedankenwelten (luc)
 > **26.10.** — [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 >
 > Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern.
+
+### Panorama
+
+> **31.10.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **31.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **30.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **30.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+>
+> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
+
+> **28.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
+>
+> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
+
+> → *9 weitere in* [[Panorama]]
 
 ### Geistesblitz
 
@@ -83,30 +115,6 @@ Die Gedankenwelten (luc)
 > Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
 
 > → *2 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **30.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **30.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
-
-> **30.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **28.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> **28.10.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *8 weitere in* [[Panorama]]
 
 ### Spuren
 

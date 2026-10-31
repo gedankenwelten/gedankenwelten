@@ -52,6 +52,11 @@ ohne erst zu fragen.
 - **DenkerVita:** keine Transkript-Quelle. Geprüft wird an Primärquellen (Lehrstuhl-/Institutsseite,
   DNB, Verlag, eigene Website, seriöse Presse). Wikipedia ist ein Wegweiser, kein Beleg.
 
+**Abschrift und Sprecher zuerst (seit 31.10.2026):** `python3 .claude/scripts/sprecher_check.py abdeckung
+"<URL>" "<datei>"` — reicht die Abschrift bis zum Ende? Bei Reaktionsvideos `reaktion` und `schnitte`. Wurde
+die Note aus einer lückenhaften Abschrift geschrieben, ist das selbst ein Befund und erklärt meist die übrigen
+(Mühlhoff 818: Abschrift bis 31:36, sechs Sprecher verwechselt, drei erfundene Zitate).
+
 **Bekannte Muster zuerst:** `python3 .claude/scripts/fehler_register.py auswertung` zeigt, welche
 Fehler bisher am häufigsten waren, vor allem unsere eigenen und ihre Ursachen. Danach gezielt suchen.
 

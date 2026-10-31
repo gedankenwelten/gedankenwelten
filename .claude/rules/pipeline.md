@@ -36,6 +36,17 @@ python3 .claude/scripts/vtt_to_txt.py \
 
 Zeitstempel-Format: `[▶ 3:24](https://www.youtube.com/watch?v=VIDEO_ID&t=204)` alle ~45 Sekunden.
 
+## Abschrift und Sprecher prüfen (Pflicht vor dem Schreiben, seit 31.10.2026)
+
+```bash
+python3 .claude/scripts/sprecher_check.py abdeckung "URL" "DATEI.vtt"   # Exit 1 = Lücke/Abbruch/Halluzination
+python3 .claude/scripts/sprecher_check.py reaktion  "URL"              # Reaktionsvideo → Original suchen
+python3 .claude/scripts/sprecher_check.py schnitte  "URL" --transkript "DATEI.vtt"   # Schnittkanten = Sprecherwechsel
+```
+
+Bei Reaktionsvideos ist das Original die Quelle; ohne Original werden die Sprecher vor dem Schreiben getrennt.
+Ablauf → `gedankenwelt` Schritt 4a.
+
 ## Audio/Video-Transkription: mlx-whisper (Mac M-Series)
 
 ```bash

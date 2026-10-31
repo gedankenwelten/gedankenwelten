@@ -145,6 +145,11 @@ einer dritten Person da. Mit Zeitmarke fällt das beim Schreiben auf, ohne erst 
 - Die Einwände, auf die der Sprecher antwortet, und seine **Antworten** gehören zusammen. Wer nur den Einwand
   bringt, lässt den Sprecher schlechter dastehen; wer nur die Antwort bringt, nimmt dem Einwand die Kraft.
 
+- **Die These des Interviewers bleibt seine** (seit 31.10.2026). Bringt Tilo Jung, eine Moderatorin oder ein
+  Kommentator einen Gedanken, dem der Gast zustimmt, steht der Gedanke beim Fragenden: „Tilo Jung bringt das
+  Wort ‚säkulare Eschatologie‘ ein, Mühlhoff ordnet es ein“. Bei Reaktionsvideos gehört jeder Satz dem, der ihn
+  sagt, nicht dem, dessen Vortrag gezeigt wird (→ `gedankenwelt` Schritt 4a, `sprecher_check.py`).
+
 ### Belegverben gehören dem Faktencheck (seit 26.10.2026)
 
 **„belegt“, „weist nach“, „dokumentiert“, „zeigt“, „beweist“** schreiben wir nur für das, was der

@@ -331,6 +331,24 @@ Sie versteht sich nicht als Vorgabe-Geberin, sondern als *Diagnostikerin von Bew
 
 ---
 
+## Nachbesprechung
+
+*Ein Begriff des Abends, an der Forschung gemessen: was man über das Gesagte hinaus weiß.*
+
+### Phantombesitz empirisch: Statusverlust oder Not?
+
+Redeckers Phantombesitz ist ein philosophischer Begriff, aber er macht eine Vorhersage: Nach rechts treibt nicht so sehr, was man verloren hat, sondern was man zu besitzen glaubte. Die Wahlforschung streitet seit Jahren über genau diese Frage, unter dem Namen Status gegen Not.
+
+Für Redecker spricht eine Linie von Studien, die den *gefühlten* Abstand messen. Wer den eigenen gesellschaftlichen Status niedrig einschätzt, neigt eher zu rechtspopulistischen Parteien, und der relative Status von Männern ohne Hochschulabschluss ist seit 1987 in vielen Demokratien gesunken ([Gidron & Hall 2017, doi:10.1111/1468-4446.12319](https://doi.org/10.1111/1468-4446.12319), 20 Länder). Am nächsten an ihrem Begriff liegt die „nostalgic deprivation": der gefühlte Abstand zwischen der Stellung, die man oder die eigene Gruppe früher hatte, und der heutigen; sie sagte in den USA und Großbritannien die Unterstützung der radikalen Rechten unter Weißen voraus ([Gest, Reny & Mayer 2018, doi:10.1177/0010414017720705](https://doi.org/10.1177/0010414017720705)). Für Deutschland zeigt eine Studie mit dem Sozio-oekonomischen Panel, dass schon die Lücke zwischen dem Status, den man nach der eigenen Kindheit erwarten durfte, und dem erreichten Unzufriedenheit, Nichtwahl und radikale Wahl wahrscheinlicher macht; ob nach links oder rechts, hängt an Geschlecht und Bildung ([Kurer & van Staalduinen 2022, doi:10.1017/S0003055422000077](https://doi.org/10.1017/S0003055422000077)). Das ist Phantombesitz in Daten: ein Anspruch, der nie Besitz war.
+
+Dagegen steht, dass die Trennung von Status und Not empirisch wackelt. Diana Mutz erklärte die Trump-Wahl 2016 mit Statusbedrohung statt mit dem Geldbeutel ([Mutz 2018, doi:10.1073/pnas.1718155115](https://doi.org/10.1073/pnas.1718155115)); eine Nachrechnung mit ihren eigenen Daten fand, dass materielle Interessen mindestens ebenso wichtig sein können ([Morgan 2018, doi:10.1177/2378023118788217](https://doi.org/10.1177/2378023118788217)). Und für die AfD fand eine frühe Befragung, dass niedriger Status die Wahlabsicht nicht erhöhte, auch nicht bei denen, die sich selbst als Verlierer sahen; eher neigten mittlere und höhere Lagen zur AfD ([Lengfeld 2017, doi:10.1007/s11577-017-0446-1](https://doi.org/10.1007/s11577-017-0446-1), Querschnitt, N = 1.031). Ob Status oder Not, beides kann zugleich wirken: Nach der Bundestagswahl 2025 sorgten sich 89 Prozent der AfD-Wählenden, dass zu viele Fremde nach Deutschland kämen, 87 Prozent, bei bestimmten Themen ausgegrenzt zu werden, und 75 Prozent, ihre Rechnungen nicht bezahlen zu können ([Infratest dimap via tagesschau](https://www.tagesschau.de/wahl/archiv/2025-02-23-BT-DE/umfrage-afd.shtml)). Unter Männern kam die AfD auf 24 Prozent, unter Frauen auf 18.
+
+Im Bestand liegen die Stimmen weit auseinander. Roger de Weck beschreibt das Ende männlicher Vorherrschaft, westlicher Weltgeltung und der Herrschaft über die Natur als eine „Kumulierung so vieler Demütigungen" ([[Roger de Weck — Was ist konservativ#Die Kumulierung der Kontrollverluste|de Weck]]), ganz nah an Redecker. Heinz Bude sieht die Angst mit dem Wohlstand wachsen, nicht mit dem Absturz ([[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Bude]]). Robin Celikates nimmt Redeckers Begriff auf und zeigt, wie soziale Konflikte kulturell umcodiert werden ([[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Kulturkampf als Umweg|Celikates]]). Jana Hensel hält dagegen, der Rechtsruck im Osten habe einen materiellen Kern, den das Reden über Einstellungen vernachlässigt ([[Der Entscheidende Punkt — Nach den Landtagswahlen#Der materielle Kern|Hensel]]).
+
+→ Weiter im Panorama: **[[Panorama/Warum waehlen Menschen Autoritaere#Materieller Kern oder Einstellung?|Materieller Kern oder Einstellung?]]**, mit Jana Hensel, Heiner Flassbeck und Arlie Hochschild.
+
+---
+
 ## Was seither geschah
 
 *Stand: 31.10.2026*
