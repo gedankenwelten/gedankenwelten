@@ -223,7 +223,7 @@ Bei Flassbecks zweitem Punkt, dass Sparauflagen die Krise vertiefen, steht die F
 
 Im Bestand liegt die Gegendeutung bei Marcel Fratzscher: Für ihn ist der Überschuss das Symptom einer Investitionslücke, nicht zu niedriger Löhne ([[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen#Exportweltmeister — Werkbank für die Welt|Fratzscher]]). Flassbeck selbst nennt Überschüsse in einer anderen Note „exportierte Arbeitslosigkeit" ([[Heiner Flassbeck — Deutschlands groesstes Tabu#Deutschlands Export-Wahn — Merkantilismus als Systemfehler|Flassbeck, Tabu]]), und Ulrike Herrmann teilt seine Lohnregel, zieht aber eine andere Konsequenz ([[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar#Der Widerspruch gegen Varoufakis|Herrmann]]).
 
-→ Noch ohne Panorama. Die Frage „Wer zahlt für den Exportüberschuss?" hätte im Bestand genug Stimmen für ein eigenes.
+→ Weiter im Panorama: **[[Panorama/Wer zahlt fuer den Exportueberschuss#Lohn oder Kapital — woher kommt der Überschuss?|Wer zahlt für den Exportüberschuss?]]**, mit Fratzscher, Grimm, Herrmann, Löschel und Varoufakis.
 
 ---
 

@@ -54,6 +54,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Was kann das Völkerrecht? *(wachsend)* | [[Was kann das Voelkerrecht]] | ~30 |
 | Wie werden gewöhnliche Menschen zu Tätern? *(wachsend)* | [[Wie werden gewoehnliche Menschen zu Taetern]] | ~45 |
 | Wer bestimmt, wie erinnert wird? *(wachsend)* | [[Wer bestimmt wie erinnert wird]] | ~20 |
+| Wer zahlt für den Exportüberschuss? *(wachsend)* | [[Wer zahlt fuer den Exportueberschuss]] | ~25 |
 | Was ist Wohlstand? *(wachsend)* | [[Was ist Wohlstand]] | ~46 |
 | Wer macht die Meinung? *(wachsend)* | [[Wer macht die Meinung]] | ~44 |
 | Wie viel Überwachung verträgt die Freiheit? *(wachsend)* | [[Wie viel Ueberwachung vertraegt die Freiheit]] | ~20 |
