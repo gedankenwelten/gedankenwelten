@@ -255,3 +255,8 @@ Zhao Tingyang ist der zeitgenössische Denker, der Konfuzius' *Ren*-Prinzip (Men
 
 ### → [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Zhao entwickelt das konfuzianische relationale Denken sprachphilosophisch weiter: Das Schriftzeichen 仁 (Ren) — Mensch plus Zwei — ist selbst kein Substantiv-Konzept, sondern ein Beziehungsverb. Verb-Denken als philosophisches Programm reaktiviert diese Intuition mit modernen Mitteln: nicht Substanzen, sondern Prozesse und Relationen als Grundkategorien des Denkens.
+
+### → [[Kultur/Hans Maggi — Aufbruch und Alpen|Hans Maggi — Aufbruch und Alpen]]
+
+Dasselbe Zeichen 道 hängt in einer Allgäuer Wohnung, Teil des Spruchs „Der Weg ist das Ziel“, den der Bewohner nicht lesen kann. Beim Ausräumen geht es als erstes von der Wand, danach fahren zwei Menschen mit dem Rad um die Welt. Konfuzius meint mit dem Dao Selbstkultivierung, keine Reise; aber wer nicht weiß, dass im Zeichen ein Fuß steckt, kann den Weg trotzdem gehen.
+

@@ -290,6 +290,10 @@ Marks' Satz „In dem Moment können wir nicht großzügig sein" ist die psychol
 
 Beide misstrauen einer Ethik, die Regulierung ersetzt: Mühlhoff nennt die KI-Ethik industriell vereinnahmbar und Regulierung das schärfere Schwert; Prainsack, selbst Vorsitzende eines Ethikgremiums der EU-Kommission, will bei bekannten Schäden nicht um mehr Ethik bitten, sondern verbieten. Auf die Extraktion ohne Kompensation, die Mühlhoff beschreibt, antwortet sie mit Rückflüssen an die Krankenhäuser und Versicherungen, aus denen die Daten stammen. Im Ton trennen sie sich deutlich: Mühlhoff sieht Strukturen des Faschismus, Prainsack ist „nicht gegen digitale Daten, ganz im Gegenteil" und fragt nach dem öffentlichen Wert.
 
+### → [[Kultur/Hans Maggi — Aufbruch und Alpen|Hans Maggi — Aufbruch und Alpen]]
+
+Die spontane Hilfe gibt es auch dort, wo das Netz dicht ist: Auf dem Weg vom Allgäu nach Bozen schlafen zwei Radfahrer in keiner Nacht, die man im Video sieht, in einem gebuchten Bett, bei Fremden wie bei Freunden. Nur kommt sie hier auf Anfrage, nicht ungefragt wie im Nordirak oder auf Sokotra. Vielleicht liegt der Unterschied weniger im Geben als darin, ob man fragen muss.
+
 ---
 
 ## Weiterdenken

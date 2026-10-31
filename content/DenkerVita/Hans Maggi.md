@@ -19,7 +19,7 @@ tags: [denker-vita, reise, fahrrad, begegnung, gastfreundschaft, deutschland]
 
 </details>
 
-→ Gedankenwelten-Notes: [[Hans Maggi — Sokotra]] · [[Hans Maggi — Kurdistan im Nordirak]]
+→ Gedankenwelten-Notes: [[Hans Maggi — Aufbruch und Alpen]] · [[Hans Maggi — Kurdistan im Nordirak]] · [[Hans Maggi — Sokotra]]
 
 ---
 
@@ -149,5 +149,6 @@ Dazu gehört eine Spannung, die man beim Zuschauen mitnimmt. Die Titel arbeiten 
 
 ## Gedankenwelten-Notes
 
+- [[Hans Maggi — Aufbruch und Alpen]] — Etappe 1 der Weltreise (#1–2, Februar/März 2023): Räder aus Kiel, Wohnungsauflösung, Fieber, eine Abstellkammer in Reutte und über den Brenner zu Franzys Familie nach Bozen. Kein Quartier gebucht, jede Nacht öffnet jemand die Tür
 - [[Hans Maggi — Sokotra]] — die Sokotra-Trilogie (Aufnahmen November 2025): allein über die jemenitische Insel, von der lauten Hauptstadt Hadibu über das wasserlose Hochland bis in die Höhle des 64-jährigen Abdullah
 - [[Hans Maggi — Kurdistan im Nordirak]] — zwei Wochen mit Franzy durch die kurdische Autonomieregion (Juni 2023, Etappe #12 der Weltreise): Hitze, Checkpoints und eine Gastfreundschaft, die sich nicht ablehnen lässt

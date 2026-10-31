@@ -68,6 +68,20 @@ Die Gedankenwelten (luc)
 >
 > Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern.
 
+### Kultur
+
+> **31.10.** — [[Kultur/Hans Maggi — Aufbruch und Alpen|Hans Maggi — Aufbruch und Alpen]]
+>
+> Eine Reise um die Welt beginnt mit einer Wohnungsauflösung, Fieber und einer Abstellkammer in Reutte. Und damit, dass auf dem Weg über die Alpen jede Nacht jemand die Tür aufmacht.
+
+> **17.08.** — [[Kultur/Hans Maggi — Kurdistan im Nordirak|Hans Maggi — Kurdistan im Nordirak]]
+>
+> Zwei Wochen mit dem Fahrrad durch eine Region, die im deutschen Kopf als Nachrichtenlage existiert und sonst als nichts — und die ihre Gäste so lange beschenkt, bis das Ablehnen unmöglich wird.
+
+> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
+>
+> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
+
 ### Panorama
 
 > **31.10.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
@@ -159,16 +173,6 @@ Die Gedankenwelten (luc)
 > **27.09.** — [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
 >
 > Dreizehn Meldungen und eine Geste: nachsehen. Ein Riff galt sechzig Jahre als tot, weil niemand zurückging. Wer die Quellen der Sendung nachliest, findet das Gute kleiner, aber echt.
-
-### Kultur
-
-> **17.08.** — [[Kultur/Hans Maggi — Kurdistan im Nordirak|Hans Maggi — Kurdistan im Nordirak]]
->
-> Zwei Wochen mit dem Fahrrad durch eine Region, die im deutschen Kopf als Nachrichtenlage existiert und sonst als nichts — und die ihre Gäste so lange beschenkt, bis das Ablehnen unmöglich wird.
-
-> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
->
-> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
 
 <!-- JOURNAL:END -->
 

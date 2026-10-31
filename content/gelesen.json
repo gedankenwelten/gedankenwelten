@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 33,
-     "aufrufe": 36
+     "leser": 32,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -369,11 +369,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 4,
      "aufrufe": 4
@@ -400,6 +395,11 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
      "leser": 3,
      "aufrufe": 3
     },

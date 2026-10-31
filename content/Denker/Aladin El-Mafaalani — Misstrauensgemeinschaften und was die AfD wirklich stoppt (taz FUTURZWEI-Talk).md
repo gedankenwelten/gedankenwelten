@@ -417,3 +417,7 @@ De Weck teilt den Gemeinschaftsbefund und warnt gegen den Deliverism, der Staat 
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Kultur/Hans Maggi — Aufbruch und Alpen|Hans Maggi — Aufbruch und Alpen]]
+
+Der Hausschlüssel beim fremden Nachbarn, als Reise erzählt: Zwei Radfahrer fragen sich vom Allgäu bis Bozen ihre Quartiere zusammen, und jedes Mal macht jemand die Tür auf, eine Abstellkammer in Reutte, ein Jugendzentrum am Brenner. Das Vertrauen im Nahraum, das die Umfragen intakt zeigen, ist hier im Bild zu sehen, als Anekdote, nicht als Messung.
+

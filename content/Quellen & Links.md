@@ -1497,6 +1497,16 @@ tags:
 | **Kanal** | [Hans Maggi (YouTube)](https://www.youtube.com/channel/UCPR1tzTGQV2Unxsrr4XuLQg) — Reise-/Fahrrad-Weltreise, Projekt „Rückenwind" |
 | **Transkripte** | `Gedankenwelten/Transkripte/HansMaggi_Jemen_1_KulturSchock_Transkript.txt` · `…_2_Sokotra_…` · `…_3_Hoehlenmensch_…` |
 
+## Hans Maggi — Aufbruch und Alpen (Rückenwind, Etappe 1)
+
+| | |
+|---|---|
+| **Videos** | [Wir starten! Fahrradweltreise auf Bambus-Fahrrädern [#1]](https://www.youtube.com/watch?v=nOyUxlEPdXg) · [Über die Alpen im Winter — Fahrradweltreise Österreich & Italien [#2]](https://www.youtube.com/watch?v=7zj8yszQDHs) (Aufnahmen Februar/März 2023) |
+| **Notiz** | [[Hans Maggi — Aufbruch und Alpen]] |
+| **DenkerVita** | [[DenkerVita/Hans Maggi]] |
+| **Route** | [Gefahrene Strecke (Google Maps)](https://www.google.com/maps/d/u/0/viewer?mid=1JvK9M9g4CJroo4ahOONxLwOM5Zv3fX8) |
+| **Transkripte** | `Gedankenwelten/Transkripte/HansMaggi_Rueckenwind_1_Aufbruch_Transkript.txt` · `…_2_Alpen_Transkript.txt` (#2 mit handgesetzten Untertiteln) |
+
 ## Hans Maggi — Kurdistan im Nordirak
 
 | | |

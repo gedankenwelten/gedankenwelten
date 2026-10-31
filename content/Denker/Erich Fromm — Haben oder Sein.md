@@ -348,6 +348,10 @@ Soroushs Umkehrung — Religionen lehren Pflichten, weil Menschen ihren Rechten 
 
 Scobels Folge zur Philosophie der Zwecklosigkeit (Hampe, Spinoza, Matsumoto) ist die bewusstseinsphilosophische Schwester des Sein-Modus: Leben ohne Nutzenkalkül, Matsumotos *Yuge* als ungehinderte Freiheit — Fromms Absage an die Akkumulation, buddhistisch grundiert.
 
+### → [[Kultur/Hans Maggi — Aufbruch und Alpen|Hans Maggi — Aufbruch und Alpen]]
+
+Der Augenblick des Ablegens, ehrlich gefilmt: Job, Wohnung und Auto gehen, der Rest wird ins Kinderzimmer in Seiffen gestapelt. Fromms eigene Frage, ob das Sein ein Minimum an Haben und Sicherheit braucht, beantwortet die Szene leise mit Ja: Loslassen fällt leichter, wenn irgendwo noch ein Zimmer steht.
+
 ---
 ### → [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
 
