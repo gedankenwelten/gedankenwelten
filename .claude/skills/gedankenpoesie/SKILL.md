@@ -123,6 +123,11 @@ Und drei Prinzipien, die aus dem Sog kommen — alle dienen dem Ziel ganz oben (
 - **Erst das Schluss-Audit** (aus `references/ki-tells.md`): eine ehrliche Zeile beantworten —
   *„Was verrät hier noch die Maschine?"* — und genau **die eine** Stelle nachschleifen. Nicht den ganzen
   Text neu glätten (Glätten ist der Tod der Stimme). Ein zweiter Durchgang fängt, was der erste überlas.
+- **Substanz zählen (seit 31.10.2026):** `python3 .claude/scripts/stimme_pruefung.py "<pfad>"` vergleicht
+  mit dem Stand vor der Hebung (HEAD) und meldet, was fehlt: Zitate, Zeitmarken, DOIs, Links, Überschriften,
+  Zahlen, Faktencheck-Marker, dazu veränderte Faktencheck-/Quellen-/Verbindungs-Abschnitte und Fragen. Exit 1
+  = erst klären, dann zeigen. Eine absichtliche Korrektur erscheint auch; die gehört dann in den Commit.
+  Läuft die Hebung über Agenten, prüft die Hauptinstanz damit jede Note selbst.
 - **Vorher/Nachher** zeigen (oder einen klar markierten Entwurf), **nie still überschreiben.**
 - Die **ehrliche Grenze**: das Modell evoziert, ist nicht. Die rohesten Brüche setzt **du** — die letzte
   Hand ist deine.
