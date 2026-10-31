@@ -135,6 +135,10 @@ Konkrete Ansätze:
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise#Zwei Bedingungen für den Rechtsruck|Tom Krebs — Kapital und Krise]]
+
+Ein Surplus-Abend, der Frickes These gegenprüft: In der Corona-Krise war der Stress groß und unvorhersehbar, und die AfD stieg trotzdem nicht. Krebs ergänzt darum eine zweite Bedingung, das Gefühl, dass die Politik nicht angemessen reagiert.
+
 ### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
 
 Der Härtefall für die ökonomische Erklärung: Im Saalekreis fiel die Arbeitslosigkeit von 21,8 auf 6,8 Prozent, alle Interviewten haben Arbeit — und die AfD steht bei 40 bis 43. Entweder greift die Kette eine Ebene tiefer, als die Arbeitslosenquote misst, oder sie greift dort gar nicht.

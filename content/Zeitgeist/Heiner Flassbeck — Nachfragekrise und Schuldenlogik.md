@@ -107,6 +107,10 @@ Die Rechnung:
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise#Wie misst man, was fehlt?|Tom Krebs — Kapital und Krise]]
+
+Krebs rechnet die Lücke gegen den Trend 2010–2019 und kommt auf zwölftausend Euro je Haushalt, dieselbe Fortschreibung, nur von den guten Jahren aus. Seine Nachbesprechung bringt Studien zur Frage, ob Potenzialschätzungen dem Output folgen (Coibion, Gorodnichenko & Ulate 2018) und ob zu pessimistische Schätzungen nach 2008 die Sparpolitik begründeten (Fatás 2019).
+
 ### → [[Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 
 Selber Sprecher, identisches Grundargument: Sparparadoxon und sektorale Salden an einem anderen Beispiel (Rentenreform). Die Schuldenlogik ist dieselbe.

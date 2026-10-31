@@ -379,6 +379,10 @@ Reißen kann die Kette an ihrem Anfang. Am stärksten zieht es offenbar die nach
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise]]
+
+Krebs beruft sich wie Weber auf Artikel 1 und erzählt die Gaskommission als Ideologiestück, eine Pseudopreisbremse, die bei der Industrie nie ankam. Die Frage, die hier zwischen Industrieschutz und Internationalismus aufscheint, stellt bei ihm eine Zuhörerin offen: ob „strategisch“ ein Codewort für nationales Eigeninteresse sei. Er beantwortet sie nicht.
+
 ### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
 
 Die nächste Verwandtschaft im Bestand. Krebs und Weber haben gemeinsam gefragt, ob Preiskontrollen optimal sein können, und beide lesen die Krise mit Polanyis Pendel. Krebs nennt das Ziel geplante Marktwirtschaft, Weber nennt den Weg radikalen Gradualismus und verankert ihn im Gründungskonsens der Vierziger. Ihr Satz, nach der Gaspreisbremse habe die AfD stagniert, ist die Gegenprobe zu Krebs' erstem Schub, und dessen Nachbesprechung [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Holen niedrige Preise die Wähler zurück?|Holen niedrige Preise die Wähler zurück?]] zeigt, warum sie noch offen ist.

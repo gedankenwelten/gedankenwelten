@@ -316,6 +316,10 @@ Versöhnt sind die beiden damit nicht, aber der Streit verschiebt sich. Konsensd
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise#Zwei Bedingungen für den Rechtsruck|Tom Krebs — Kapital und Krise]]
+
+Krebs verspricht, eine geplante Marktwirtschaft hätte die AfD bei zehn Prozent gehalten, und schränkt das im selben Gespräch ein: Es brauche zwei Bedingungen, Verunsicherung und das Gefühl, dass die Politik nicht reagiert. Was die Nachbesprechung hier über Zeit, Sichtbarkeit und den Absender materieller Politik findet, ist der Prüfstein für diese Wette.
+
 ### → [[Chantal Mouffe — Das Politische und die Politik]]
 
 Tooze spricht an diesem Morgen Mouffes Sprache: Konsenspolitik als Entpolitisierung, Hegemonie als Ziel, die Mitte als Mitschuldige am Populismus. Ein Wort aber übernimmt er nicht. Mouffe hat Schmitts Feind zum Gegner umgebaut, dessen Recht auf Widerspruch man anerkennt; Tooze sagt „Feinde“ und „ausgrenzen“. Wer beide nebeneinander liest, sieht, wie schmal der Grat ist, auf dem ein linkes Freund-Feind-Denken demokratisch bleibt, und dass Mouffe ihn genauer vermessen hat.

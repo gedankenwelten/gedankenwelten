@@ -180,7 +180,7 @@ Krebs' zwölftausend Euro sind eine Trendlücke, und die Methode ist seriöser, 
 
 Bei der Frage, wovon man die Lücke misst, wird es heikel. Die Bundesregierung schätzt in ihrer Herbstprojektion, dass die deutsche Wirtschaft 2019 schon 1,8 Prozent über ihrem Potenzial lief und 2025 um 2,3 Prozent darunter ([BMWE, Oktober 2026, Tab. 1](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/G/gesamtwirtschaftliches-produktionspot-herbst-2026.pdf?__blob=publicationFile&v=4)). Krebs schreibt also aus einem Boomjahr fort, und mit einer Rate von 1,8 Prozent, die über dem damals geschätzten Potenzialwachstum von 1,2 Prozent lag. Zerlegt man seine rund zehn Punkte für 2025 grob, ergibt sich folgendes Bild *(eigene Überschlagsrechnung aus der amtlichen Tabelle)*: Knapp zwei Punkte stammen aus dem Boom-Startjahr, gut dreieinhalb aus dem schnelleren Trend, gut zwei aus dem langsamer gewachsenen Potenzial, gut zwei aus der heutigen Unterauslastung. Etwa die Hälfte der Schlagzeile liegt in der Wahl des Vergleichspfads. Ein Viertel ist Nachfrageschwäche, die Politik schließen kann. Um das letzte Viertel, das verlorene Potenzial, geht der eigentliche Streit.
 
-Und dort bekommt Krebs Hilfe von unerwarteter Seite. Potenzialschätzungen folgen dem tatsächlichen Output, auch bei Schocks, die nur vorübergehend sind (Coibion, Gorodnichenko & Ulate 2018, [doi:10.1353/eca.2018.0020](https://doi.org/10.1353/eca.2018.0020)). In Europa führten zu pessimistische Schätzungen nach 2008 zu Sparpolitik, die über Hysterese das Potenzial senkte und damit die Schätzung nachträglich bestätigte (Fatás 2019, [doi:10.1057/s41308-019-00087-z](https://doi.org/10.1057/s41308-019-00087-z)). Die deutsche Schuldenbremse rechnet ihre Konjunkturkomponente mit genau diesem Potenzial. Heiner Flassbeck nennt das Potenzialwachstum darum eine bloße Fortschreibung der letzten Jahre. Krebs benutzt dasselbe Werkzeug in der Gegenrichtung, er schreibt die guten Jahre fort. Beide Pfade sind Annahmen, die amtliche nicht neutraler als seine.
+Und dort bekommt Krebs Hilfe von unerwarteter Seite. Potenzialschätzungen folgen dem tatsächlichen Output, auch bei Schocks, die nur vorübergehend sind (Coibion, Gorodnichenko & Ulate 2018, [doi:10.1353/eca.2018.0020](https://doi.org/10.1353/eca.2018.0020)). In Europa führten zu pessimistische Schätzungen nach 2008 zu Sparpolitik, die über Hysterese das Potenzial senkte und damit die Schätzung nachträglich bestätigte (Fatás 2019, [doi:10.1057/s41308-019-00087-z](https://doi.org/10.1057/s41308-019-00087-z)). Die deutsche Schuldenbremse rechnet ihre Konjunkturkomponente mit genau diesem Potenzial. [[Heiner Flassbeck — Nachfragekrise und Schuldenlogik#Potenzialwachstum als Scheinkonzept|Heiner Flassbeck]] nennt das Potenzialwachstum darum eine bloße Fortschreibung der letzten Jahre. Krebs benutzt dasselbe Werkzeug in der Gegenrichtung, er schreibt die guten Jahre fort. Beide Pfade sind Annahmen, die amtliche nicht neutraler als seine.
 
 Was am Ende Politik ist und was Weltlage, lässt sich nur eingrenzen. Der IWF nennt neben Energieschock und Zinswende die lange Erosion der Exportfähigkeit und den Wettbewerb mit China ([Artikel-IV-Bericht 2025, CR 26/36](https://www.imf.org/-/media/files/publications/cr/2026/english/1deuea2026001.pdf)); steigende chinesische Marktanteile in Drittländern drängen deutsche Exporteure aus Märkten (Bodenschatz, Egger & Nagengast 2026, [doi:10.65864/z6oi48677n](https://doi.org/10.65864/z6oi48677n), Arbeitspapier). Der Anteil, den Politik erklärt, ist damit größer als die heutigen 2,3 Prozent und kleiner als Krebs' „fast vollständig“.
 
@@ -313,3 +313,50 @@ Staatseigentum konserviert also leichter, als es erneuert. Wo es erneuert, steht
 - [BAFA: Industriestrompreis](https://bafa.de/DE/Energie/Indurstriestrompreis/industriestrompreis_node.html)
 
 ---
+
+## Verbindungen
+
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Die Schwester-Note ist vier Wochen älter und fast vier Stunden lang. Werdegang, Referenzmodell, Polanyis Pendel und der Faktencheck zu Netzrenditen, Rüstungsmultiplikatoren und AfD-Chronik stehen dort. Neu ist am Basecamp-Abend, wie vorsichtig Krebs mit seiner eigenen Chronik umgeht: Die drei Schübe erklären jetzt den Weg von zehn auf zwanzig Prozent, nicht die AfD selbst, und mit der Corona-Gegenprobe sucht er erstmals den Fall, der seine These widerlegen könnte.
+
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)|Veronika Grimm — Der Preis als Signal]]
+
+Die stärkste Gegenstimme zur „Pseudopreisbremse“. Grimm war eine der drei Vorsitzenden der Kommission, die Krebs mit Gegnern ihres Auftrags besetzt sieht, und sie verteidigt gerade den Teil, den er verwirft: Die Hilfe sollte den Sparanreiz erhalten, die letzte Kilowattstunde teuer bleiben. Dass die Industrie 2022 rund ein Viertel weniger Gas verbrauchte, ohne dass ihre Produktion einbrach (→ [[#Soll der Staat der Industrie den Strompreis garantieren?|Nachbesprechung]]), gibt ihr recht. Krebs bleibt die Sorge, die keine Studie misst: die Investition, die ausbleibt, weil niemand weiß, was Strom in zehn Jahren kostet.
+
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Weber misst Wirtschaftspolitik am ersten Artikel des Grundgesetzes, und Krebs beginnt seinen Impuls an derselben Stelle. 2022 standen beide auf derselben Seite: Webers Sondervotum gegen die „Abschaltprämie“ meint dasselbe wie Krebs' „Winterschlafprämie“. Offen lassen beide eine Frage, die bei Weber zwischen den Gästen aufscheint und bei Krebs aus dem Publikum kommt: ob strategische Industriepolitik am Ende nationales Eigeninteresse heißt.
+
+### → [[Heiner Flassbeck — Nachfragekrise und Schuldenlogik#Potenzialwachstum als Scheinkonzept|Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
+
+Dasselbe Werkzeug, in die andere Richtung gedreht. Für Flassbeck schreibt das amtliche Potenzialwachstum die schlechten Jahre fort und erklärt den Stillstand zur Normalität; Krebs schreibt die guten Jahre fort und kommt auf zwölftausend Euro. Die Forschung in der Nachbesprechung stützt Flassbecks Verdacht, dass Potenzialschätzungen dem Output folgen, und zeigt zugleich, dass Krebs' Pfad ebenso eine Annahme ist.
+
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Krebs' Koautor Kaczmarczyk stellt dort die gemeinsame Rüstungsstudie vor: Ein „olivgrünes Wirtschaftswunder“ werde es nicht geben. Sigl-Glöckner liefert den Preiseffekt, den Krebs hier anführt, eine konzentrierte Industrie und eine Regierung, die „auch zum doppelten Preis“ kauft. Ihr Einwand trifft auch seinen Entwurf: *„Es gibt niemand im Land, dem gegenüber ich schwächer bin als dem Staat.“* Wer Netze, Wohnungen und Stahl in öffentliche Hand holen will, muss sagen, wer die Bürger vor diesem Eigentümer schützt.
+
+### → [[Konstantin Flemig — Deutschland als Ruestungs-Grossmacht|Konstantin Flemig — Deutschland als Rüstungs-Großmacht]]
+
+Dieselbe Wanderung von Arbeitskräften, zweimal gelesen. Bei Flemig wechseln Autozulieferer zu Rheinmetall, die Rüstung ist die Jobmaschine. Für Krebs ist genau das die Verdrängung: Autowerke planen Militärfahrzeuge, während die sauberen Technologien in Schockstarre stehen. Dass Rheinmetall vom Staat verlangt, die Fixkosten leerer Werke mitzutragen, ist die Industriepolitik, von der Krebs sagt, man betreibe sie längst, nur ohne es auszusprechen.
+
+### → [[Adam Tooze — Krise und demokratische Gelegenheit#Lohnt sich materielle Politik an der Urne?|Adam Tooze — Krise und demokratische Gelegenheit]]
+
+Tooze setzt wie Krebs auf materielle Politik gegen die Rechte, und die Nachbesprechung dort prüft die Wette hinter „geplante Marktwirtschaft oder AfD“: Geld wirkt an der Urne, aber der Effekt verbraucht sich und braucht einen sichtbaren Absender. Krebs' Corona-Probe kommt zur selben Bedingung. Es zählt das Gefühl, dass der Staat reagiert.
+
+### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+Fricke sieht den Kern des Rechtsrucks im Kontrollverlust, im unvorhersehbaren Stress. Krebs' Gegenprobe setzt genau dort an: In der Pandemie war die Verunsicherung groß, und die AfD stieg nicht (→ [[#Faktencheck|Faktencheck]]). Daraus macht er eine zweite Bedingung, das Gefühl, dass die Politik nicht angemessen reagiert. Stress allein reicht nicht.
+
+### → [[DenkerVita/Tom Krebs|Tom Krebs — DenkerVita]]
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Krebs stellt die Wahl zwischen geplanter Marktwirtschaft und AfD. *Was müsste geschehen, damit ein Einwand gegen sein Programm wieder als Einwand gilt und nicht als Beihilfe?*
+> - Die zwölftausend Euro hängen am Pfad, den man fortschreibt. *Welchen Pfad würde ich wählen, um meinen eigenen Wohlstand zu messen, und was würde ich dabei lieber nicht sehen?*
+> - Eine Expertenkommission, besetzt mit Gegnern ihres Auftrags, liefert Gegner-Lösungen. *Wer entscheidet in einer geplanten Marktwirtschaft, wer plant, und wer bemerkt rechtzeitig, wenn der Plan scheitert?* (→ [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]])
+> - Staatseigentum hält Hochöfen am Leben, in Scunthorpe wie in Taranto. *Woran erkennt man, ob ein Staat eine Industrie in die Zukunft trägt oder nur ihren Abschied verlängert?*
+> - Krebs will die repräsentative Demokratie retten, indem er ihr wieder etwas zu entscheiden gibt. *Wäre eine Politik, die mehr gestalten kann, auch eine, die mehr falsch machen kann, und wären wir bereit, ihr das zu verzeihen?*

@@ -161,6 +161,10 @@ Was Flemig dabei nicht explizit sagt, aber implizit zeigt: Die Zeitenwende ist k
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise#Militär-Keynesianismus, eine Kaufprämie für Verbrenner|Tom Krebs — Kapital und Krise]]
+
+Der Ökonom liest den Wechsel der Autoindustrie in die Rüstung als Verdrängung: Panzer fahren mit Diesel, der Multiplikator liegt nach seiner Rechnung bei höchstens 0,5, und neben der Rüstung herrsche bei den sauberen Technologien *„fast eine Schockstarre“*.
+
 ### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
 
 Die Warnung zu diesem Boom: Europa solle nicht noch einmal glauben, es könne seine Wirtschaft mit Waffen in Gang setzen. Am japanischen Beispiel zeigt sie, dass Aufrüstung zudem die Abhängigkeit von chinesischen Seltenen Erden wieder erhöht.

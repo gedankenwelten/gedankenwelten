@@ -326,6 +326,10 @@ Am stärksten gestützt ist Grimms Schlusssatz [▶ 208:46](https://www.youtube.
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise]]
+
+Krebs erzählt die Gaskommission als Lehrstück der Ideologie: Acht von neun Ökonomen seien gegen Preisbremsen gewesen (nicht prüfbar, → Faktencheck dort), und für die Industrie sei eine Bremse herausgekommen, die den Anreiz zu produzieren nicht veränderte. Grimms Sparanreiz ist genau das, was er verwirft; die Daten zum Gasverbrauch der Industrie 2022 in seiner Nachbesprechung sprechen eher für sie.
+
 ### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
 Dieselbe Kommission, zwei Erzählungen. Weber sieht in der Gaspreisbremse einen Staat, der den Schock auffängt, Grimm eine Einmalzahlung, die den Preis der letzten Kilowattstunde unberührt lässt. Wo Weber in der Urania strategische Preiskontrollen als Schutz der Demokratie verteidigt, hält Grimm einen Staat, der Mengen zuteilt, für unkontrollierbar. Gegen [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Zeit kaufen|Webers „Zeit kaufen“]] steht ihr Satz, wer es tragen kann, solle seinen Teil tragen.
 

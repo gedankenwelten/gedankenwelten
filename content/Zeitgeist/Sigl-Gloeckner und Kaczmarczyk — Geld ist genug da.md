@@ -306,6 +306,10 @@ Am Ende bleibt eine Asymmetrie, die der Abend selbst nicht auflöst. Die Knapphe
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise]]
+
+Bei der Buchvorstellung nennt Krebs den Militär-Keynesianismus eine Kaufprämie für Verbrenner. Den niedrigen Multiplikator begründet er mit demselben Preiseffekt wie Sigl-Glöckner: kaum Wettbewerb, *„keine Industrie, die intransparenter ist“*. Beim Planen vertraut er zugleich den Ministerien, also gerade dem Staat, vor dem sie warnt.
+
 ### → [[Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
 
 Dort lautet der Befund, ökonomische Grenzen seien politisch gebaut, und das eigentliche Problem seien Sätze wie „Der Staat kann nicht wirtschaften“. Sigl-Glöckner liefert mit der Maastricht-Fußnote den Beleg aus dem Archiv, Kaczmarczyk drückt bei genau diesem Satz den Buzzer. Der Leuphana-Abend geht weiter: Wo Truger die Schuldenbremse als Falle beschreibt, die man neu einstellen kann, fragt Sigl-Glöckner zuerst nach den Zielen (Pettit, Sen) und leitet die Regel daraus ab. Und die Rüstung zeigt, dass „die Grenze ist gebaut“ noch nicht sagt, wohin das Geld dann fließen soll.

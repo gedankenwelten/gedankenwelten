@@ -386,6 +386,10 @@ Am Ende bleibt eine Rechnung mit zwei Unbekannten. Der Staat bekommt Kapital bil
 
 ## Verbindungen
 
+### → [[Tom Krebs — Kapital und Krise]]
+
+Die Buchvorstellung vier Wochen später bei Surplus. Dort nimmt Krebs die drei Schübe ein Stück zurück: Sie erklärten den Anstieg von zehn auf zwanzig Prozent, *„nicht, warum wir die AfD haben“*. Er prüft die These an der Corona-Krise, und neu dazu kommen Gaspreisbremse, Industriestrompreis, grüner Stahl und der aufgekündigte Deal der Deutschland AG.
+
 ### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
 
 Kaczmarczyk hat mit Krebs beide Studien geschrieben, auf die sich dieser Abend stützt, die zum Rüstungsmultiplikator und die zur Finanzierung der Stromnetze. In Lüneburg sagt Sigl-Glöckner über das Netz, was Krebs bei Tilo Jung sagt: eine regulierte Rendite, „da ist nichts mit Preismechanismus“. Die Reibung kommt ebenfalls von ihr. Sie fürchtet den Staat als Monopolisten, dem gegenüber niemand schwächer ist, und die geplante Marktwirtschaft macht genau diesen Staat zum Eigentümer von Netzen, Wohnungen und Stahl. Krebs' Antwort, der Eigentümer dürfe nicht „neoliberal verwirrt“ sein, ist eine Hoffnung und keine Sicherung.
