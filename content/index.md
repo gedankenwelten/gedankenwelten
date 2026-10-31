@@ -74,6 +74,14 @@ Die Gedankenwelten (luc)
 >
 > Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
 
+> **31.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> **31.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
+>
+> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
+
 > **31.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
@@ -81,14 +89,6 @@ Die Gedankenwelten (luc)
 > **31.10.** — [[Panorama/Wer zahlt fuer den Exportueberschuss|Wer zahlt für den Exportüberschuss?]]
 >
 > Der Überschuss des einen ist das Defizit des anderen, das bestreitet niemand. Wer die Rechnung trägt, ist offen: die Nachbarn, die eigenen Beschäftigten oder die Sparer, deren Geld im Ausland schlecht angelegt wurde?
-
-> **30.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **30.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
 
 > → *10 weitere in* [[Panorama]]
 

@@ -2,7 +2,7 @@
 title: "Wann darf der Staat Preise setzen?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-26
+aktualisiert: 2026-10-31
 description: "Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?"
 raetsel: "Eine Hand liegt über der Waage. Wessen Ärmel das ist, sagt keiner."
 panorama-art: wachsend
@@ -85,6 +85,8 @@ Zwei Befunde stören diesen Konsens. Frankreich fror ab Herbst 2021 Gas- und Str
 
 Grimms Einwand, dem Staat fehle der Weg zu den Bedürftigen, hat seither eine Antwort. Im April 2025 meldete das Finanzministerium den Direktauszahlungsmechanismus als fertig, der Steuer-ID und Kontoverbindung verknüpft, ausdrücklich damit im Krisenfall *„größere Markteingriffe“* vermieden werden können ([BMF-Monatsbericht 04/2025](https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2025/04/Inhalte/Kapitel-2b-Fokus/direktauszahlungsmechanismus-fertiggestellt.html)). In der Ölkrise 2026 beschloss die Regierung trotzdem zweimal einen Tankrabatt.
 
+Die Industrie ist eine eigene Frage. Für sie galt 2022/23 ein Deckel auf 70 Prozent des Vorjahresverbrauchs, und die geförderte Menge durfte ein Werk auch verkaufen, statt sie zu verbrauchen. Isabella Weber nannte das im Sondervotum der Gaskommission eine „Abschaltprämie“. Ausgezahlt wurde wenig, auch weil die Börsenpreise 2023 unter die Deckel fielen ([Bericht der Bundesregierung, 08/2023](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/B/20230816-bericht-wirkung-preisbremsen.pdf?__blob=publicationFile&v=8)). Dass die deutsche Industrie den Gasverbrauch um gut ein Viertel senkte und ihre Produktion trotzdem kaum einbrach, weil sie Vorprodukte zukaufte, spricht für eine Hilfe, die das Sparsignal erhält (Moll, Schularick & Zachmann 2023, [doi:10.1353/eca.2023.a935431](https://doi.org/10.1353/eca.2023.a935431)). Seit 2026 gibt es einen Industriestrompreis mit einem Zielpreis von fünf Cent, befristet bis 2028 ([BAFA](https://bafa.de/DE/Energie/Indurstriestrompreis/industriestrompreis_node.html)). Ob er Investitionen hält, ist offen; die Forschung kennt die Wirkung solcher Hilfen auf langfristige Standortentscheidungen kaum (Verde 2020, [doi:10.1111/joes.12356](https://doi.org/10.1111/joes.12356), Survey). Gezielter wirken Klimaschutzverträge, die einer bestimmten grünen Anlage den CO₂-Preis garantieren (Richstein & Neuhoff 2022, [doi:10.1016/j.isci.2022.104700](https://doi.org/10.1016/j.isci.2022.104700), Modellstudie).
+
 **Die Stimmen**
 
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Die Gaskommission|Veronika Grimm]]** — Zielgenau war die Bremse nicht und konnte es in der Zeit nicht sein; für Haushalte mit geringem Einkommen braucht es gezielte Hilfe obendrauf.
@@ -96,12 +98,13 @@ Grimms Einwand, dem Staat fehle der Weg zu den Bedürftigen, hat seither eine An
 - **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Die Minderwertsteuer|Achim Truger]]** — Lieber Nahverkehr und Energieversorgung so umbauen, dass der Wechsel möglich wird, als Schecks verschicken; das merken die Menschen unmittelbar.
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Die Dramatik, die Freundel nicht sieht|Isabella Weber]]** — Wer Wohngeld zahlt, statt Mieten zu deckeln und öffentlich zu bauen, finanziert mit öffentlichem Geld die Übergewinne konzentrierter Märkte.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Die Dramatik, die Freundel nicht sieht|Andreas Audretsch]]** — Die Grünen schlagen Direktzahlungen auf die Konten vor, dazu eine Übergewinnsteuer.
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Was der Abend nicht verhandelt|Tim Klüssendorf]]** — Nennt den Tankrabatt der eigenen Regierung *„ordnungspolitisch Quatsch“* und verteidigt ihn trotzdem.
 - **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#Sozialkürzungen bei gleichzeitiger Entlastung für Besserverdienende|Gilda Sahebi und Arne Semsrott]]** — Tankrabatt und höhere Pendlerpauschale entlasten zu über achtzig Prozent die obere Einkommenshälfte, während unten gekürzt wird.
 - **[[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Holen niedrige Preise die Wähler zurück?|Tom Krebs]]** — Hilfe muss als Handeln erkennbar sein, sonst geht sie in der nächsten Rechnung unter.
+- **[[Tom Krebs — Kapital und Krise#Preisbremsen und die Nutzenfunktion|Tom Krebs]]** (zur Industrie) — Die Gaspreisbremse war für Firmen eine „Pseudopreisbremse“; ein Industriestrompreis versichere die Werke nur gegen eine Unsicherheit, die der Staat selbst schafft.
 
 </details>
 
@@ -154,6 +157,7 @@ Spanien und Portugal griffen dort ein, wo der Strompreis entsteht. Der Deckel au
 | 10.10.2026 | [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Wirken Preisdeckel?\|Isabella Weber — Antifaschistische Wirtschaftspolitik]] | Gründungsnote: Mietendeckel und Katalonien, die Stimmen für und gegen den Deckel |
 | 10.10.2026 | [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Wann darf der Staat Preise setzen?\|Veronika Grimm — Der Preis als Signal]] | die fehlende Stimme: der Preis als Sparsignal; alle drei Fragen mit Forschung (Ruhnau, Dertwinkel-Kalt, IWF, Langot, Brunninger, iberische Ausnahme, Weber & Wasner) |
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Kann eine Ölreserve den Preis halten?\|Nachtsitzung — TheTrumpWeek]] | Menge statt Preis: strategische Ölreserven (Kilian & Zhou 2020, Stevens & Zhang 2021, Newell & Prest 2017, Razek et al. 2023), 1991, Katrina 2005, Hormus 2026 |
+| 31.10.2026 | [[Tom Krebs — Kapital und Krise#Soll der Staat der Industrie den Strompreis garantieren?\|Tom Krebs — Kapital und Krise]] | die Industrieseite: Abschaltprämie und gefallene Börsenpreise, Moll/Schularick/Zachmann, Industriestrompreis 2026, Klimaschutzverträge (Richstein & Neuhoff), Leakage-Evidenz (Colmer et al., Verde) |
 
 ---
 

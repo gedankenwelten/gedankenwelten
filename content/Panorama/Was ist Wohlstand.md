@@ -2,7 +2,7 @@
 title: "Was ist Wohlstand?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-10-28
+aktualisiert: 2026-10-31
 description: "Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss."
 raetsel: "Drei liegen satt unter dem Baum und schauen weg. Drüben teilen zwei ein Brot."
 panorama-art: wachsend
@@ -79,6 +79,8 @@ Was ein anderes Maß zeigen würde, rechnet der Nationale Wohlfahrtsindex seit J
 
 Die Gegenrechnung kommt aus der Ökonomik selbst. Ein Wohlfahrtsmaß aus Konsum, Freizeit, Lebenserwartung und Ungleichheit hängt eng mit dem BIP zusammen, ordnet die Länder aber spürbar um: Westeuropa liegt näher an den USA, als das BIP sagt ([Jones & Klenow 2016, doi:10.1257/aer.20110236](https://doi.org/10.1257/aer.20110236)). Und jeder zusammengesetzte Index muss gewichten. Wer festlegt, wie viel ein Jahr Lebenserwartung gegen eine Tonne CO₂ zählt, trifft eine Wertentscheidung und versteckt sie in einer Zahl ([Ravallion 2011, doi:10.1093/wbro/lkr009](https://doi.org/10.1093/wbro/lkr009)). Die Vereinten Nationen haben sich 2024 im Pakt für die Zukunft verpflichtet, ein Maß jenseits des BIP zu entwickeln. Die Expertengruppe legte im Mai 2026 ein Dashboard mit 31 Indikatoren vor, auf eine einzige Leitzahl konnte sie sich nicht einigen ([UNU-CPR, 2026](https://unu.edu/cpr/blog-post/towards-new-compass-progress-start-un-intergovernmental-process-move-beyond-gdp)).
 
+Wie umkämpft schon das BIP selbst ist, zeigt der Streit um das, was fehlt. Wer Deutschlands Verlust seit 2019 beziffern will, muss einen Pfad wählen, an dem er misst: den Trend der guten Jahre, wie Tom Krebs, oder das amtlich geschätzte Potenzial, das selbst dem tatsächlichen Output hinterherläuft (Coibion, Gorodnichenko & Ulate 2018, [doi:10.1353/eca.2018.0020](https://doi.org/10.1353/eca.2018.0020)). Je nach Wahl fehlen elf Prozent oder gut zwei. Das Maß entscheidet mit, wie groß eine Krise ist, und damit, wie viel Politik ihr antworten muss.
+
 **Die Stimmen**
 
 - **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Das Buch, das niemand aufschlägt|Achim Truger]]:** Die Indikatoren gibt es längst, der Sachverständigenrat hat sie gebaut und nicht benutzt, *„es bestimmt dann gar nicht das eigene Handeln“*.
@@ -90,13 +92,14 @@ Die Gegenrechnung kommt aus der Ökonomik selbst. Ein Wohlfahrtsmaß aus Konsum,
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Markt und Selbstwert|Isabella Weber]]:** *„Den Menschen wurde über Jahrzehnte erzählt, dass ihr Wert sich am Markt definiert“*; die Messlatte bestimmt, wer sich wertlos fühlt.
 - **[[Andreas Reckwitz — Fortschritt NEU DENKEN#Überfluss und Freiheit — und die Grenzen des Doppelhorizonts|Andreas Reckwitz]]:** Neue Kennzahlen und Lebensqualität statt Wachstum sind richtig und *„nicht genug“*; der blinde Fleck ist der Umgang mit Verlust.
 
-<details><summary>Weitere Stimmen (6)</summary>
+<details><summary>Weitere Stimmen (7)</summary>
 
 - **[[Maja Goepel — Mut zur Zukunft#Die vier blinden Flecken des BIP|Maja Göpel]]:** Das BIP übersieht unbezahlte Arbeit, Verteilung, Umweltzerstörung und Wohlbefinden; *„Wirtschaft dient einer gesellschaftlichen Wohlstandsentwicklung.“*
 - **[[Martin Oetting — Happy Planet Index 2026#Was der Index sein will — und was nicht|Martin Oetting]]:** Der Happy Planet Index soll das BIP nicht ersetzen, er erinnert daran, was am Ende zählt.
 - **[[Alena Buyx — Gesellschaft NEU DENKEN#Die falschen Zahlen und das gute Leben|Alena Buyx]]:** Wir vergleichen uns mit den USA und fühlen uns schlechter, weil wir mit deren Zahlen messen.
 - **[[Frauke Fischer — Kann KI die Natur retten#Die Rechnung, die nie gestellt wird|Frauke Fischer]]:** Wer gehört werden will, muss die Rechnung stellen; die Biodiversität ist der größte Wirtschaftszweig, den niemand bezahlt.
 - **[[Christoph Butterwegge — Armut NEU DENKEN#Der verschleierte Reichtum — Kritik am Armuts- und Reichtumsbericht|Christoph Butterwegge]]:** Wer die Messlatte setzt, bestimmt, wer als reich zählt; im Armuts- und Reichtumsbericht fehlen die Milliardäre.
+- **[[Tom Krebs — Kapital und Krise#Die Rechnung mit den zwölftausend Euro|Tom Krebs]]:** Gegen den Trend vor der Krise fehlen elf Prozent der Wirtschaftsleistung, *„genau umgerechnet die 12.000 € Einkommen für jede Durchschnittsfamilie“*; wer den Pfad wählt, wählt die Größe der Krise.
 - **[[Wuerde im Alltag — wenn der Markt den Wert misst#Der Osten|Luc]]:** *„Die Rangfolge bleibt. Nur die Achse wechselt. So wächst das Autoritäre aus dem Messen.“*
 
 </details>
@@ -153,7 +156,7 @@ Offen ist auch, ob eine Demokratie ohne Wachstum hält. Lange und Schmelzer halt
 | 15.10.2026 | [[Martin Oetting — Happy Planet Index 2026#Nachbesprechung|Martin Oetting — Happy Planet Index 2026]] | Gründungsnote: Macht mehr Geld zufriedener? Easterlin gegen Stevenson & Wolfers, Killingsworth 2021, Killingsworth/Kahneman/Mellers 2023, Röck et al. 2025, HPI-Schwelle bei ~4 gha, Fußabdruck-Streit (Blomqvist vs. Rees/Wackernagel) |
 | 15.10.2026 | [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Grünes Wachstum oder Postwachstum?|Veronika Grimm — Der Preis als Signal]] | Geht Wohlstand ohne Wachstum? Entkopplung in Deutschland (OWID), Haberl 2020, Vogel & Hickel 2023, Savin & van den Bergh 2024 — die Frage, die das Panorama zuerst vorschlug |
 | 28.10.2026 | [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Nachbesprechung|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]] | Geht Wohlstand ohne Wachstum — und hält dann die Demokratie? Lange & Schmelzer (Intereconomics 2025), Japan als „stagnation mode of regulation“ (Driouich, EAJS 2026); Stimmen Lange & Schmelzer, Driouich |
-
+| 31.10.2026 | [[Tom Krebs — Kapital und Krise#Wie misst man, was fehlt?\|Tom Krebs — Kapital und Krise]] | Trendlücke gegen Potenzial: Hysterese (Cerra & Saxena, Ball), Potenzialschätzungen folgen dem Output (Coibion et al.), Fatás-Kreislauf, Zerlegung der zwölftausend Euro |
 ---
 
 ## Verbindungen
