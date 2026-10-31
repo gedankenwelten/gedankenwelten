@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **31.10.** — [[Zeitgeist/Tom Krebs — Kapital und Krise|Tom Krebs — Kapital und Krise]]
+>
+> Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
+
 > **31.10.** — [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 >
 > Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Der Terror hat Russland Angst, Misstrauen und Doppeldenken gelehrt, und weil niemand das Erbe aufarbeitete, konnte Putin es wieder benutzen: die Memorial-Historikerin über ein Land im Kreis.
 
-> **30.10.** — [[Zeitgeist/Heiner Flassbeck — Die Wahrheit ueber Staatsschulden|Heiner Flassbeck — Die Wahrheit über Staatsschulden]]
->
-> Wohin gehen die Zinsen des Staates? Für Heiner Flassbeck zurück an die Sparer, die sie als Steuern zahlen. Gut die Hälfte der Schuld liegt allerdings im Ausland.
-
-> → *21 weitere in* [[Zeitgeist]]
+> → *22 weitere in* [[Zeitgeist]]
 
 ### Denker
 

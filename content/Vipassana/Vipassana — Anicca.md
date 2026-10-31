@@ -3,7 +3,7 @@ title: Vipassana — Anicca
 description: "Die Kerze am Morgen ist nicht die vom Abend. Goenka will die Vergänglichkeit nicht gedacht, sondern gespürt haben, Empfindung um Empfindung, bis auch das Festhalten vergeht."
 raetsel: "Wäre es dasselbe Licht, käme am Monatsende keine Rechnung."
 date: 2026-04-05
-aktualisiert: 2026-10-31
+aktualisiert: 2026-04-05
 tags:
   - vipassana
   - vergänglichkeit
