@@ -82,6 +82,8 @@ Widerspruch kommt aus der eigenen Zunft. Rüdiger Bachmann und Christian Bayer n
 - [[DenkerVita/Tilo Jung|Tilo Jung]] — Gastgeber von Folge 853, der ihn von links drängt; Krebs folgt ihm beim öffentlichen Eigentum und widerspricht beim Wachstum, bei Verboten und beim Patentrecht.
 - [[DenkerVita/Isabella Weber|Isabella Weber]] — Koautorin von *Can Price Controls Be Optimal?* (2024); dieselbe Polanyi-Diagnose, sie verankert sie im antifaschistischen Gründungskonsens der Vierziger und stützt sich in Berlin auf dieselbe IMK-Rechnung.
 - [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Die Gegenrechnung zu seinen Preisbremsen: den Schock nur bis zur neuen Normalität dämpfen, damit der Preis den Strukturwandel treibt; beim Netz Vertrauen in die bisherigen Betreiber statt öffentliches Eigentum.
+- [[DenkerVita/Philippa Sigl-Gloeckner|Philippa Sigl-Glöckner]] — Beide wollen die Schuldenbremse umbauen statt abschaffen und halten Rüstung bei konzentrierten Anbietern für teuer eingekauft. Sie misstraut dem Staat als Monopolisten, dem Krebs Netze, Wohnungen und Stahlbeteiligungen anvertrauen will: *„Es gibt niemand im Land, dem gegenüber ich schwächer bin als dem Staat.“*
+- [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]] — Zwei Planer mit entgegengesetztem Ziel. Krebs will mit indikativer Planung zurück zum Wachstumstrend, Herrmann nach dem Vorbild der britischen Kriegswirtschaft in eine geplante Schrumpfung. Beide halten Planung in einer Marktwirtschaft für demokratisch machbar; die Grenzen des Wachstums lässt Krebs offen, er rede über die nächsten dreißig Jahre.
 
 ## Gedankenwelten-Notes
 

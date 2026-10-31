@@ -77,6 +77,7 @@ Zwei Einwände gehören ebenfalls zum Bild. Das Dezernat Zukunft finanziert sich
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Tom Krebs|Tom Krebs]] — Beide wollen die Schuldenbremse umbauen statt abschaffen und halten Rüstung bei konzentrierten Anbietern für teuer eingekauft. Krebs vertraut dem Staat Netze, Wohnungen und Stahlbeteiligungen an, sie misstraut ihm als Monopolisten.
 - [[DenkerVita/Achim Truger|Achim Truger]] — Beide wollen die Schuldenbremse umbauen statt abschaffen; Truger arbeitet aus dem Sachverständigenrat an einer lenkbaren Regel, Sigl-Glöckner fragt zuerst, woher die Zahlen kommen und welchen Zielen sie dienen.
 - [[DenkerVita/Maurice Hoefgen|Maurice Höfgen]] — Er teilt ihren Befund, dass der Staat beim Geld mehr kann als behauptet; sie lehnt aber das MMT-Kernstück Jobgarantie ab, weil der Staat als einziger Arbeitgeber zum Monopolisten würde.
 - [[DenkerVita/Clara Mattei|Clara Mattei]] — Ihr schärfster Gegenpol: Für Mattei ist Sparpolitik ein Werkzeug gegen die Arbeit, das keine bessere Begründung entkräftet; Sigl-Glöckner setzt auf Aufklärung und Unternehmer als Verbündete.

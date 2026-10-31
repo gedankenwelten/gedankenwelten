@@ -89,6 +89,7 @@ Post-keynesianisch orientiert; kritisch gegenüber:
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Tom Krebs|Tom Krebs]] — Zwei Planer mit entgegengesetztem Ziel: Krebs will mit indikativer Planung zurück zum Wachstumstrend, Herrmann in eine geplante Schrumpfung nach britischem Kriegsvorbild.
 - [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Entwirft Wasserstoff aus dem Süden als Wachstumspfad, der sich vom CO2 löst; Herrmann rechnet dieselbe Kette als sinkende Effizienz und damit als Schrumpfen.
 
 ## Auszeichnungen & Anerkennung

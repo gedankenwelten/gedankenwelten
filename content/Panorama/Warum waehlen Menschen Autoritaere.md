@@ -51,6 +51,8 @@ Wie das Gefühl in die Wahl kommt, hat die Emotionsforschung genauer angesehen, 
 
 Ein Scharnier zwischen beiden ist das Nullsummendenken: Gefühlte Benachteiligung erzeugt es, unabhängig von Einkommen und Ideologie ([Ongis & Davidai 2021, doi:10.1037/xge0001144](https://doi.org/10.1037/xge0001144)), und in 15 europäischen Ländern sagt die Frage, wen man für einen Sozialstaat *würdig* hält, die Wahl radikal rechter Parteien stark voraus, der gewünschte Umfang des Sozialstaats kaum ([Attewell 2020, doi:10.1080/01402382.2020.1715704](https://doi.org/10.1080/01402382.2020.1715704)). Kausal läuft es in beide Richtungen; eine frisch gewählte populistische Regierung senkte im Experiment das Nullsummendenken ihrer Anhänger ([Papaioannou et al. 2022, doi:10.1111/bjop.12602](https://doi.org/10.1111/bjop.12602)).
 
+Eine Gegenprobe, die selten gemacht wird, schlägt Tom Krebs vor: die Corona-Krise. Die Verunsicherung war groß, und die AfD stieg nicht; bei Forsa fiel sie schon im Februar 2020, vor dem Lockdown, von 13 auf 10 Prozent und stand bis Ende 2021 bei 8 bis 11 ([wahlrecht.de](https://www.wahlrecht.de/umfragen/forsa.htm)). Krebs folgert, dass zur materiellen Verunsicherung das Gefühl kommen muss, der Staat reagiere nicht. Das verschiebt das Gewicht vom Geld auf die Wahrnehmung staatlichen Handelns und passt zu dem, was die Einzeldaten oben zeigen; messen lässt es sich schwerer als ein Strompreis.
+
 **Die Stimmen**
 
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Der materielle Kern|Jana Hensel]]:** Der Rechtsruck im Osten hat einen materiellen Kern, den die Öffentlichkeit über dem Reden von Einstellungen vernachlässigt hat; die soziale Frage wird inzwischen rechts beantwortet.
@@ -62,7 +64,8 @@ Ein Scharnier zwischen beiden ist das Nullsummendenken: Gefühlte Benachteiligun
 - **[[Arlie Hochschild — Stolen Pride#Das Stolz-Paradox|Arlie Hochschild]]:** Wer seinen Stolz auf Eigenleistung baut, erlebt Jobverlust als Scham, und Trump fördert diese Scham „wie Bergleute Kohle“.
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Was fehlt, ist nicht das Brot|Querfurt]]:** Die Clique hat Arbeit, die Arbeitslosigkeit hat sich mehr als halbiert; was fehlt, sind Jugendclub, Arzt und Anerkennung.
 
-<details><summary>Weitere Stimmen (15)</summary>
+<details><summary>Weitere Stimmen (16)</summary>
+- **[[Tom Krebs — Kapital und Krise#Zwei Bedingungen für den Rechtsruck|Tom Krebs]]** (Surplus): Verunsicherung allein reicht nicht, in der Corona-Krise stieg die AfD nicht; es braucht dazu das Gefühl, dass die Politik nicht angemessen reagiert. Das erkläre den Anstieg von zehn auf zwanzig Prozent, *„nicht, warum wir die AfD haben“*.
 - **[[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)#Die Definition Faschismus als verschobener Eigentumsrausch|Eva von Redecker]]** (Jung & Naiv 811): Faschismus verteidigt einen Phantombesitz, einen Anspruch auf etwas, das nie Eigentum war oder es nicht mehr ist, mit Vernichtung gegen einen fingierten Plünderer; verloren geht nicht das Geld, sondern der geglaubte Platz.
 - **[[Barbara Prainsack — Solidaritaet NEU DENKEN#Der Kuchen, der nicht wachsen darf|Barbara Prainsack]]:** Ausdrücklich als These: Wer den Kuchen für fest hält, streitet nur noch darüber, wen man ausschließen kann; statt auf den wartenden Opa einzugehen, prüft sie das Fundament des Arguments, dass das eine das andere ausschließt.
 
