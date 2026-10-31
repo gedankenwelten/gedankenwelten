@@ -3,6 +3,13 @@ date: 2026-04-02
 title: "Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)"
 description: "Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg."
 raetsel: "Er bewacht einen leeren Sockel. Der Dieb ist sein eigener Schatten."
+stimme:
+  - wer: Victor Klemperer
+    art: stimme
+    umfang: ganz, außer Faktencheck und Quellen
+    am: 2026-10-31
+    geliehen: "das einzelne Wort als Beweisstück nehmen (Besitzer, liquidierend, Bleibefreiheit, jetzt erst recht, das „aber“ bei Marx) und es in kurzen, ruhigen Notaten neben die längeren Gedanken stellen, ohne Ausrufezeichen"
+    warum: "Redecker arbeitet selbst an Wörtern, am gekaperten Freiheitsbegriff, am Fantasma, an der Erzählung vom Großen Austausch; die Hand des Philologen, der der Sprache beim Kippen zusieht, folgt ihr dabei Wort für Wort."
 aktualisiert: 2026-10-31
 tags:
   - zeitgeist
@@ -35,6 +42,15 @@ aliases:
 
 </details>
 
+<details><summary>✒️</summary>
+
+Ganz, außer Faktencheck und Quellen: **Angelehnt an Victor Klemperer** — ein Versuch in dieser Tonlage. Geliehen: das einzelne Wort als Beweisstück nehmen (Besitzer, liquidierend, Bleibefreiheit, jetzt erst recht, das „aber“ bei Marx) und es in kurzen, ruhigen Notaten neben die längeren Gedanken stellen, ohne Ausrufezeichen. Redecker arbeitet selbst an Wörtern, am gekaperten Freiheitsbegriff, am Fantasma, an der Erzählung vom Großen Austausch; die Hand des Philologen, der der Sprache beim Kippen zusieht, folgt ihr dabei Wort für Wort.
+*Erzählstimme gewählt am 31.10.2026.*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Eva von Redecker, die Erzählstimme ist unsere.
+
+</details>
+
 > [!abstract] Worum es geht
 > Faschismus ist für Eva von Redecker ein „verschobener Eigentumsrausch": die Bereitschaft, einen Besitz, den man nie hatte oder nicht mehr hat, mit Vernichtung zu verteidigen, gegen einen Plünderer, den es nicht gibt. Fast drei Stunden lang prüft sie diese Definition mit Tilo Jung an der Gegenwart, an Trumps Machtpolitik, an Curtis Yarvin, am Mythos vom Großen Austausch und an der Tech-Elite. In der Fragerunde mit Hans Jessen geht es um Adorno, Hoffnung, Macht und die Frage, ob man im Alltag ohne Mitschuld leben kann. Aufgenommen eine Woche vor Erscheinen ihres Buches *Dieser Drang nach Härte*.
 
@@ -59,7 +75,7 @@ Begleitnote: [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 
 [▶ 0:34](https://www.youtube.com/watch?v=5J13r4WxCDw&t=34)
 
-Das Gespräch beginnt mit dem Iran-Krieg, wenige Tage alt. Tilo Jung fragt, wie es ihr geht, „die Welt brennt". Redecker ist nicht performativ niedergeschlagen:
+Das Gespräch beginnt mit dem Iran-Krieg, wenige Tage alt. Tilo Jung fragt, wie es ihr gehe, „die Welt brennt". Redecker antwortet ohne die Niedergeschlagenheit, die die Frage erwartet; schon die Pose ist ihr verdächtig:
 
 > *„… ich finde das auch ideologisch, so zu tun, als ginge es einem schon schlecht, wenn man nicht wirklich betroffen ist. Also ich glaube, man kann entsetzt sein über die Weltpolitik und trotzdem dankbar sein, dass es einen noch nicht getroffen hat."*
 
@@ -69,17 +85,19 @@ Das Gespräch beginnt mit dem Iran-Krieg, wenige Tage alt. Tilo Jung fragt, wie 
 
 [▶ 5:06](https://www.youtube.com/watch?v=5J13r4WxCDw&t=306)
 
-Der Iran-Krieg ist für Redecker kein Sonderfall, sondern die Logik des Buchs auf der Weltbühne. Eigentlich hätte man weitergehen müssen mit dem Versuch, auch die internationale Politik über Recht zu zivilisieren. Stattdessen überbieten sich alle mit der Rückabwicklung:
+Für Redecker ist der Iran-Krieg die Logik des Buchs, auf die Weltbühne gestellt. Eigentlich hätte man den Versuch weitertreiben müssen, auch die internationale Politik über das Recht zu zivilisieren. Stattdessen überbieten sich alle in der Rückabwicklung:
 
 > *„… dass man Machtpolitik nicht mehr rechtfertigen muss, sondern einfach sozusagen: You know, because you can."*
 
-Tilo Jung erinnert an die Rechtfertigungsmühe der Neokonservativen, Saddam und die Atomwaffen, Demokratie für Afghanistan [▶ 6:38](https://www.youtube.com/watch?v=5J13r4WxCDw&t=398). Bei Venezuela hieß es nur noch: „Wir wollen das Öl." Redecker stimmt zu, „es geht auch einfach um diese Art von Potenzgehabe", die Landkarte ordnen, alle abstrafen, die einem quer liegen [▶ 7:24](https://www.youtube.com/watch?v=5J13r4WxCDw&t=444). Dazu Grönland, wo Trump argumentierte, die anderen könnten es nicht verteidigen, und die Riviera-Pläne für Gaza als offensive Zurschaustellung der Macht des Stärkeren.
+Drei Wörter, *because you can*, und die Begründung ist abgeschafft.
+
+Tilo Jung erinnert daran, wie viel Mühe sich die Neokonservativen noch mit der Rechtfertigung gaben: Saddam und die Atomwaffen, Demokratie für Afghanistan [▶ 6:38](https://www.youtube.com/watch?v=5J13r4WxCDw&t=398). Bei Venezuela hieß es nur noch: „Wir wollen das Öl." Redecker stimmt zu, „es geht auch einfach um diese Art von Potenzgehabe": die Landkarte ordnen, alle abstrafen, die einem quer liegen [▶ 7:24](https://www.youtube.com/watch?v=5J13r4WxCDw&t=444). Dazu Grönland, wo Trump argumentierte, die anderen könnten es nicht verteidigen, und die Riviera-Pläne für Gaza, eine offensive Zurschaustellung der Macht des Stärkeren.
 
 **Arendts Unterscheidung: Macht und Gewalt** [▶ 11:10](https://www.youtube.com/watch?v=5J13r4WxCDw&t=670)
-- *Macht* = zusammen handeln können, Zustimmung haben, kollektive Handlungsmacht
-- *Gewalt* = wie viel kann man erzwingen?
 
-Trump ist für Redecker an dem Punkt, wo er nur noch erzwingen kann; ihm bröckelt die Zustimmung, sogar bei den eigenen Leuten. Deshalb werde die Destruktionsmacht hochgefahren, die einzige, die noch funktioniert. Das ist der *kleine Hoffnungsschimmer*. „Aber was wir in Minnesota sehen dagegen, das ist wirklich Macht": Nachbarn, die einander versorgen und schützen.
+*Macht* heißt: zusammen handeln können, Zustimmung haben, kollektive Handlungsmacht. *Gewalt* fragt nur, wie viel man erzwingen kann.
+
+Trump steht für Redecker an dem Punkt, an dem er nur noch erzwingen kann. Die Zustimmung bröckelt, sogar bei den eigenen Leuten; darum werde die Destruktionsmacht hochgefahren, die einzige, die noch funktioniert. Das ist der *kleine Hoffnungsschimmer*. „Aber was wir in Minnesota sehen dagegen, das ist wirklich Macht": Nachbarn, die einander versorgen und schützen.
 
 ---
 
@@ -91,7 +109,7 @@ Unter den Vordenkern in den USA gibt es „deutlich düsterere Figuren als die N
 
 > *„Was ist denn das Problem mit Amerika? Man weiß nicht so richtig, wem das gehört. […] Man müsste mal rausfinden, wer da eigentlich der Besitzer ist."*
 
-Städte, Länder, der Staat selbst: alles als Eigentum, und wer es verteidigen kann, dem gehört es. Für Redecker ist das Eigentum im völlig entfesselten Sinn, nicht der zivilisierte Souverän, der darauf achtet, dass jeder behält, was ihm rechtmäßig zukommt, sondern *alle gegen alle, wer die meisten Waffen hat, besetzt die Dinge.*
+Am Ende des Satzes steht der *Besitzer*. Wo man fragen könnte, wer ein Land regiert, fragt Yarvin, wem es gehört. Städte, Länder, der Staat selbst werden Eigentum, und es gehört dem, der es verteidigen kann. Für Redecker ist das Eigentum im völlig entfesselten Sinn. Den zivilisierten Souverän, der darauf achtet, dass jeder behält, was ihm rechtmäßig zukommt, gibt es darin nicht mehr. Es bleibt: *alle gegen alle, wer die meisten Waffen hat, besetzt die Dinge.*
 
 ---
 
@@ -99,9 +117,7 @@ Städte, Länder, der Staat selbst: alles als Eigentum, und wer es verteidigen k
 
 [▶ 20:16](https://www.youtube.com/watch?v=5J13r4WxCDw&t=1216)
 
-Warum überhaupt eine neue Definition statt Analogien?
-
-Das Analogie-Spiel ist in der Sackgasse: Die einen verwenden *Nazi* für alles (Corona, Pegida, die andere Seite), sodass der Begriff bedeutungslos wird. Die anderen polizieren Analogien so streng, dass man immer nur über den Grad der Vergleichbarkeit mit den 30ern redet und nie über das, was gerade passiert.
+Warum eine neue Definition, wo es doch Analogien gibt? Weil das Analogie-Spiel in der Sackgasse steckt. Die einen verwenden *Nazi* für alles, Corona, Pegida, die andere Seite, bis das Wort nichts mehr bezeichnet. Die anderen polizieren Analogien so streng, dass man immer nur über den Grad der Vergleichbarkeit mit den 30ern redet und nie über das, was gerade passiert.
 
 > *„Ich will warnen können, dass eine Entwicklung problematisch ist, auch wenn sie nicht diese Drastik hat. Sonst ist ja eh schon zu spät."*
 
@@ -110,8 +126,10 @@ Das Analogie-Spiel ist in der Sackgasse: Die einen verwenden *Nazi* für alles (
 - Es ist eine **liquidierende Phantombesitzverteidigung**
 - Das Fantasma, der fingierte Plünderer, wird ausgelöscht; das Phantomobjekt wird geschützt
 
+*Phantombesitz*: ein Besitz, den man nie hatte oder nicht mehr hat. *Fantasma*: ein Plünderer, den es nicht gibt. *Liquidierend*: ein Wort aus der Sprache der Kaufleute, das auflösen sagt und auslöschen meint.
+
 **Faschismus ≠ Totalitarismus:**
-Der NS ab 1941 ist für Redecker, mit Arendt, Totalitarismus, etwas noch Schlimmeres als Faschismus. Für den Begriff Faschismus braucht man noch keine imperiale Kriegsführung oder einen Völkermord. Tilo Jung fragt, ob nicht jeder Nazi ein Faschist sei; Redecker widerspricht:
+Der NS ab 1941 ist für Redecker, mit Arendt, Totalitarismus, etwas noch Schlimmeres als Faschismus. Der Begriff Faschismus braucht noch keine imperiale Kriegsführung und keinen Völkermord. Tilo Jung fragt, ob nicht jeder Nazi ein Faschist sei; Redecker widerspricht:
 
 > *„… manche Nazis waren dann vielleicht nicht mal mehr Faschisten in dem Sinne, sondern […] Teil einer noch anderen Maschinerie."* [▶ 21:01](https://www.youtube.com/watch?v=5J13r4WxCDw&t=1261)
 
@@ -127,15 +145,13 @@ Der NS ab 1941 ist für Redecker, mit Arendt, Totalitarismus, etwas noch Schlimm
 
 [▶ 37:42](https://www.youtube.com/watch?v=5J13r4WxCDw&t=2262)
 
-Redecker zerlegt den Verschwörungsmythos:
+Redecker zerlegt den Verschwörungsmythos in seine Glieder. Das *biodeutsche, weiße Volk* hat einen Geburtenrückgang, die Frauen kriegen nicht genug Kinder. Also wird es durch Muslime ersetzt. Dahinter stehen Feministinnen, die den Frauen das Kinderkriegen ausreden. Oder es sind jüdische Globalisten, die das Ganze steuern.
 
-Die Grundfigur: Das *biodeutsche, weiße Volk* hat einen Geburtenrückgang (Frauen kriegen nicht genug Kinder) → wird durch Muslime ersetzt → Feministinnen reden Frauen das Kinderkriegen aus → oder: jüdische Globalisten steuern das Ganze.
+Am Attentäter von Halle zeigt sie, wie aus dieser Logik Mord wird. Sein Bekennerschreiben gibt sie so wieder: Wer Juden töte, kappe den Nachschub, weil jeder von ihnen „100" Menschen ins Land hole. Das rassistische Wort, das dort steht, nimmt sie nicht in den Mund. *„Wenn du die Agenten der Sache tötest, dann hast du das System gelegt."* [▶ 38:30](https://www.youtube.com/watch?v=5J13r4WxCDw&t=2310)
 
-Den Attentäter von Halle nennt sie als Beispiel dafür, wie aus dieser Logik Mord wird. Sie gibt die Logik seines Bekennerschreibens so wieder: Wer Juden töte, kappe den Nachschub, weil jeder von ihnen „100" Menschen ins Land hole; das rassistische Wort, das dort steht, vermeidet sie. *„Wenn du die Agenten der Sache tötest, dann hast du das System gelegt."* [▶ 38:30](https://www.youtube.com/watch?v=5J13r4WxCDw&t=2310)
+Gegen das Fantasma der *Strippenzieher* richtet sich ein eiskaltes, direkt eliminatorisches Aggressionspotenzial. Das Phantombesitz-Narrativ schafft die Legitimation, das Fantasma liefert das Ziel.
 
-Diese Logik zeigt: Gegen das Fantasma der *Strippenzieher* gibt es ein eiskaltes, direkt eliminatorisches Aggressionspotenzial. Das Phantombesitz-Narrativ schafft die Legitimation; das Fantasma liefert das Ziel.
-
-Elon Musk ist für Redecker „Anhänger genau dieser Theorie" *(2023 nannte er einen antisemitischen Austausch-Post „the actual truth" → [[#Faktencheck|Faktencheck]])*.
+Elon Musk ist für Redecker „Anhänger genau dieser Theorie" *(2023 nannte er einen antisemitischen Austausch-Post „the actual truth" → [[#Faktencheck|Faktencheck]])*. Und wenn Trumps Regierung von *civilizational erasure* spricht, *„das geht immer um diese Idee des großen Austauschs"* [▶ 37:42](https://www.youtube.com/watch?v=5J13r4WxCDw&t=2262).
 
 ---
 
@@ -143,19 +159,17 @@ Elon Musk ist für Redecker „Anhänger genau dieser Theorie" *(2023 nannte er 
 
 [▶ 97:48](https://www.youtube.com/watch?v=5J13r4WxCDw&t=5868)
 
-Eine der wichtigsten Analysen des Gesprächs:
-
-Der liberale Freiheitsbegriff hat zwei Seiten:
-1. **Willkürfreiheit** — ich kann machen, was ich will (Eigentumslogik)
-2. **Gleichheitsverpflichtung** — nur insofern, als ich nicht in die Ansprüche der anderen eingreife
+Der liberale Freiheitsbegriff hat zwei Seiten: die **Willkürfreiheit**, ich kann machen, was ich will (die Eigentumslogik), und die **Gleichheitsverpflichtung**, nur insofern, als ich nicht in die Ansprüche der anderen eingreife.
 
 Die Rechten haben die erste Seite herausgelöst und die zweite gekappt. Freiheit heißt dann: *ich spüre meine Freiheit eigentlich erst, wenn ich was kaputt machen darf.*
 
 Fossiles verbrennen, gegen Einwanderung zetern, aggressive Meinungsäußerung — alles dieser Furor: *jetzt, in diesem Moment, so viel wie möglich besetzen und zerstören dürfen.* Kein Zeithorizont, kein Projekt.
 
-Und doch steckt für Redecker das „kleine Körnchen Wahrheit in dem rechten Irrsinn" [▶ 100:04](https://www.youtube.com/watch?v=5J13r4WxCDw&t=6004): Wenn man den alten liberalen Freiheitsbegriff ernst nimmt und all die Einschränkungen mitbedenkt, die er heute impliziert (Klimafolgen, globale Verstrickungen), bleibt von dieser Freiheit wirklich nicht viel übrig. Die progressive Antwort darauf wäre nicht *weniger Freiheit*, sondern eine andere:
+Und doch steckt für Redecker das „kleine Körnchen Wahrheit in dem rechten Irrsinn" [▶ 100:04](https://www.youtube.com/watch?v=5J13r4WxCDw&t=6004): Wenn man den alten liberalen Freiheitsbegriff ernst nimmt und all die Einschränkungen mitbedenkt, die er heute impliziert (Klimafolgen, globale Verstrickungen), bleibt von dieser Freiheit wirklich nicht viel übrig. Die progressive Antwort darauf wäre eine andere Freiheit, und Redecker gibt ihr einen eigenen Namen:
 
 > *„Also ich sag, Bleibefreiheit zu haben, mehr Freiheit zu haben, die auch in die Zukunft reicht, die nicht nur in […] räumlicher Willkür, sondern in Genuss von erfüllter, weiter mir zur Verfügung stehender Zeit besteht."* [▶ 100:51](https://www.youtube.com/watch?v=5J13r4WxCDw&t=6051)
+
+*Bleibefreiheit* misst die Freiheit an der Zeit, die einem bleibt, statt nur am Raum, den man besetzen darf.
 
 > [!question] Weitergedacht
 > Wenn die rechte Freiheit sich erst im Zerstören spürt — *wo spüre ich meine eigene Freiheit am deutlichsten: im Tun, im Bleiben, im Nein-Sagen? Und wäre ich bereit, für die Bleibefreiheit auf ein Stück Willkür zu verzichten?*
@@ -166,11 +180,7 @@ Und doch steckt für Redecker das „kleine Körnchen Wahrheit in dem rechten Ir
 
 [▶ 94:43](https://www.youtube.com/watch?v=5J13r4WxCDw&t=5683)
 
-Das Vokabular gegen *Woke, Trans, Gender, Cancel Culture* ist für Redecker keine Neuerfindung. Es ist die Neuauflage des NS-Diskurses gegen *entartete Kunst* und *Juden*:
-
-- Unnatürlich
-- Vaterlandszersetzend
-- Familienzerstörend
+Das Vokabular gegen *Woke, Trans, Gender, Cancel Culture* hört Redecker als Neuauflage des NS-Diskurses gegen *entartete Kunst* und *Juden*. Es sind dieselben Beiwörter: *unnatürlich*, *vaterlandszersetzend*, *familienzerstörend*.
 
 Was eigentlich Erzkatholiken mit heidnischen Nazis und russischen Trollen teilen, fragt sie, und antwortet: dieses Fantasma. Dass die Gender-Theorie oft jüdischen Wissenschaftlerinnen zugeschrieben wird, „passt wunderbar". Man kann den anderen Antisemitismus vorwerfen und sich zugleich dagegen immunisieren, dass man dasselbe Fantasma spielt wie Putin („Gayropa") und Trump mit seinem War on Woke, der tatsächlich Bücher zensiert.
 
@@ -184,13 +194,13 @@ Tilo Jung ergänzt, die Rechten missbrauchten den Kampf gegen Antisemitismus, um
 
 [▶ 65:07](https://www.youtube.com/watch?v=5J13r4WxCDw&t=3907)
 
-**Peter Thiel, Elon Musk, Curtis Yarvin** — was ist das Eigentliche ihres Projekts?
+**Peter Thiel, Elon Musk, Curtis Yarvin**: Worauf zielt ihr Projekt?
 
-Tilo Jung vermutet, die Tech-Elite wolle vom Frauenkörper unabhängig werden. Redecker erweitert: „die wollen von jedem Körper unabhängig werden". Den Gebärneid nennt sie den altfeministischen Blick. Ihre eigene Deutung [▶ 65:52](https://www.youtube.com/watch?v=5J13r4WxCDw&t=3952):
+Tilo Jung vermutet, die Tech-Elite wolle vom Frauenkörper unabhängig werden. Redecker weitet es aus: „die wollen von jedem Körper unabhängig werden". Den Gebärneid nennt sie den altfeministischen Blick. Ihre eigene Deutung [▶ 65:52](https://www.youtube.com/watch?v=5J13r4WxCDw&t=3952):
 
 > *„Die versuchen Phantombesitz an Intelligenz herzustellen."*
 
-Die Grundlogik des Longtermismus (Musk, Nick Bostrom): Intelligenz ist das zentrale Merkmal der Menschheit, eine *Intelligenzexplosion* (Singularität) das Ziel. Daher: IQ-Hierarchien reaktivieren, „richtig düstere" Rassenforschung relegitimieren, eine große globale Unterklasse für abkömmlich erklären.
+Der Longtermismus (Musk, Nick Bostrom) hält Intelligenz für das zentrale Merkmal der Menschheit und eine *Intelligenzexplosion* (Singularität) für das Ziel. Daraus folgt der Rest: IQ-Hierarchien reaktivieren, „richtig düstere" Rassenforschung relegitimieren, eine große globale Unterklasse für abkömmlich erklären.
 
 Redecker sagt, Yarvin spreche „wörtlich" vom „ethischen Genozid" an den Unproduktiven, indem man ihre Gehirne an Simulationsmaschinen anschließe [▶ 68:09](https://www.youtube.com/watch?v=5J13r4WxCDw&t=4089) *(der Sinn ist getroffen, der Wortlaut nicht → [[#Faktencheck|Faktencheck]])*. Das Bizarre: Die Fantasie der Tech-Eliten vom *guten Leben* — Brain-Upload, Singularität, Kopf in der Cloud — ist davon gar nicht so weit entfernt.
 
@@ -200,7 +210,7 @@ Redecker sagt, Yarvin spreche „wörtlich" vom „ethischen Genozid" an den Unp
 
 [▶ 60:33](https://www.youtube.com/watch?v=5J13r4WxCDw&t=3633)
 
-Die neue Form des Männerbunds: Früher Offizierskasinos und soldatische Verbrüderung, heute eine „Playboy-Verbrüderung mit Menschenhandel", wie sie die Epstein-Enthüllungen zeigen. Von „Kinderkörpern" zu sprechen, hält Redecker für „nicht so hilfreich", obwohl es um Minderjährige geht, weil man dann so tue, „als sei das ein separates Pädophilieproblem"; so funktioniere eben das Patriarchat.
+Der Männerbund hat die Uniform gewechselt. Früher Offizierskasinos und soldatische Verbrüderung, heute eine „Playboy-Verbrüderung mit Menschenhandel", wie sie die Epstein-Enthüllungen zeigen. Auch hier wägt Redecker ein Wort. Von „Kinderkörpern" zu sprechen, hält sie für „nicht so hilfreich", obwohl es um Minderjährige geht: Man tue dann so, „als sei das ein separates Pädophilieproblem", dabei funktioniere so eben das Patriarchat.
 
 > *„Der Zugriff auf die Frauenkörper ist ein notwendiges Dekor, um sich als mächtig zu fühlen und zu inszenieren."* [▶ 61:20](https://www.youtube.com/watch?v=5J13r4WxCDw&t=3680)
 
@@ -222,7 +232,7 @@ Die Frage am Ende: Was sollen Linke tun?
 
 Tilo Jung drängt: Die Massen würden irgendwann auf die Straße gehen, und die Faschisten seien bereit, sie hätten „ihre Leute bei der Polizei, bei der Armee", ihre Ideologie stehe. Linke müssten darum den „intellektuellen Nährboden" bereiten.
 
-Redecker antwortet anders. Sie verweist auf Minneapolis, auf Nachbarschaften, die sich gegenseitig versorgen, und auf Räte, die in vielen Revolutionen spontan entstanden. Das sei keine Masse, die nach hier oder da kippen kann, sondern der Beginn einer Struktur:
+Redecker antwortet anders. Sie verweist auf Minneapolis, auf Nachbarschaften, die sich gegenseitig versorgen, und auf Räte, die in vielen Revolutionen spontan entstanden. Eine Masse kann nach hier oder da kippen; was sich dort zeigt, sei der Beginn einer Struktur:
 
 > *„… wenn überhaupt es so eine Aufgabe von linken Denkern gibt, dann ist sie nicht zu sagen, geh da lang, sondern die ist zu sagen, guck mal, was ihr schon macht, und jetzt lass uns dabei bleiben und da drauf aufbauen."* [▶ 128:53](https://www.youtube.com/watch?v=5J13r4WxCDw&t=7733)
 
@@ -234,13 +244,13 @@ Redecker antwortet anders. Sie verweist auf Minneapolis, auf Nachbarschaften, di
 
 ## Zuschauerfragen — wo Begriffsarbeit auf den Lackmustest trifft
 
-Im zweiten Teil übernimmt Hans Jessen die Fragen aus dem Chat. Bei einer dichten Theorie wie Redeckers Phantombesitz-These wird besonders sichtbar, ob die Begriffe tragen — die Fragen testen sie an Adorno, Arendt, am Taliban-Modell, an der Otto-Normalbürger-Frage und am eigenen Hoffnungsbegriff.
+Im zweiten Teil übernimmt Hans Jessen die Fragen aus dem Chat. Jetzt zeigt sich, ob die Begriffe tragen. Die Fragen halten sie an Adorno und Arendt, an das Taliban-Modell, an den Alltag des Otto Normalbürgers und an den Hoffnungsbegriff.
 
 ### Der Drang nach Härte — eine Sehnsucht nach Weichheit?
 
 [▶ 136:30](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8190) — Die erste Chat-Frage zielt direkt auf den Titel: Ist die faschistische Sehnsucht nach Härte umgekehrt eine *Sehnsucht nach den eigenen weichen Anteilen*, die man sich nicht zugestehen darf?
 
-Redeckers Antwort: *„Ja, du hast auch Adorno gelesen."* Genau diese psychoanalytische Sicht trägt die frühe Faschismustheorie — bei Adorno die *Ich-Schwäche*: innen ist gewissermaßen nur Brei, deshalb braucht es *„ganz viel Stützen von außen"*. Wichtig ist nicht Härte an sich, sondern der *Drang nach immer größerer Härte* — und ihre Zuspitzung in *„der ultimativen Härte des gekränkten Eigentümers, der sich rächen darf und die Feinde massakrieren"*.
+Redeckers Antwort: *„Ja, du hast auch Adorno gelesen."* Diese psychoanalytische Sicht trägt die frühe Faschismustheorie, bei Adorno die *Ich-Schwäche*: innen ist gewissermaßen nur Brei, deshalb braucht es *„ganz viel Stützen von außen"*. Das Gewicht des Titels liegt auf dem *Drang*. Gemeint ist der *Drang nach immer größerer Härte*, bis zu ihrer Zuspitzung in *„der ultimativen Härte des gekränkten Eigentümers, der sich rächen darf und die Feinde massakrieren"*.
 
 ### War die Neuzeit eigentlich schon immer protofaschistisch?
 
@@ -248,11 +258,11 @@ Redeckers Antwort: *„Ja, du hast auch Adorno gelesen."* Genau diese psychoanal
 
 Redecker präzisiert: Die Idee an sich ist viel älter (jedes Feudalsystem). Das *Verrückte* an der Neuzeit sei: Sie behauptet Gleichheit *und* zieht trotzdem ständig neue Hierarchien ein — vor allem über die *Eigentumsform*. *„Manchen Leuten gehört ihr Land gar nicht, manche Leute gehören sich nicht mal selber — die darf man versklaven. Manche Menschen sind zumindest zur Hälfte aneigenbar — Frauen."*
 
-Ja, in diesem Sinn protofaschistisch — *„ein Potenzial, das sich dann entfesseln lässt"*. Aber: *„Es wurde eine Tür gebaut und geöffnet, durch die man nicht zwangsläufig durchgehen muss."* Tendenz, kein Automatismus.
+Ja, in diesem Sinn protofaschistisch — *„ein Potenzial, das sich dann entfesseln lässt"*. Aber: *„Es wurde eine Tür gebaut und geöffnet, durch die man nicht zwangsläufig durchgehen muss."*
 
 ### Befinden wir uns in zivilisatorisch regressiven Zeiten?
 
-[▶ 140:22](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8422) — Redecker ist skeptisch gegenüber zivilisatorischen Fortschrittsnarrativen. Sie zieht aber den Regressionsbegriff von **Rahel Jaeggi** heran — wichtig: nicht als „Zurückgehen", sondern als *„Sich-Rauskatapultieren aus einer Geschichte des Lernens"*. Eine Bastion-Bildung, eine Schrumpfform von Gesellschaft als *entfesselte Eigentumslogik*. Auf Hans Jessens Nachfrage, ob Regress nicht selbst eine Reaktion auf *enttäuschte Hoffnung* sei, ergänzt sie:
+[▶ 140:22](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8422) — Redecker ist skeptisch gegenüber zivilisatorischen Fortschrittsnarrativen. Sie zieht aber den Regressionsbegriff von **Rahel Jaeggi** heran: Regression als *„Sich-Rauskatapultieren aus einer Geschichte des Lernens"*, nicht als „Zurückgehen". Eine Bastion-Bildung, eine Schrumpfform von Gesellschaft als *entfesselte Eigentumslogik*. Auf Hans Jessens Nachfrage, ob Regress nicht selbst eine Reaktion auf *enttäuschte Hoffnung* sei, ergänzt sie:
 
 > *„Ja, aber eine, die sich als solche nicht erkennt. Die glaubt, das wird sowieso nie was — und dann hasse ich die Leute, die ihre kleine separate Befreiung als was auch immer Queers oder Ökos feiern, weil es wird sowieso nie so gut, dass es auch für mich gut wird. Und deswegen darf diese Hoffnung gar nicht im Raum stehen."*
 
@@ -264,11 +274,11 @@ Regress als Rückzug aufs *Recht des Stärkeren* — weil die Hoffnung auf gemei
 
 > *„Ich komme ganz gut aus ohne den Hoffnungsbegriff. Aber das müssen vielleicht manche für sich selber entscheiden. Ich finde Sinn viel wichtiger."*
 
-Eine kleine, aber programmatisch wichtige Differenzierung: Nicht *Hoffnung* trägt die Kritik, sondern *Sinn*. Man kann das, in unserer Lesart, als das verstehen, was man tut, weil es richtig ist, unabhängig davon, ob es gelingt.
+Das ist ein Programm in einem Satz. Die Kritik trägt bei ihr der *Sinn*; die *Hoffnung* braucht sie dafür nicht. In unserer Lesart ist Sinn das, was man tut, weil es richtig ist, gleich ob es gelingt.
 
 ### Ist der Ruf nach Autoritarismus eine Reaktion auf parlamentarische Handlungsunfähigkeit?
 
-[▶ 142:39](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8559) — Redeckers Antwort hält die Frage offen: Wer die Konstellation *nur* mit „Parlament kommt nicht zur Potte" beschreibt, hat strukturelle Zwänge ausgeblendet. Aber *teilweise* stimmt sie zu: Wenn Politik nicht einmal mehr versucht, der realen Probleme Herr zu werden, befeuert das eine Politik, die *„offensiv die Probleme einfach für inexistent erklärt"* — Trumps *„Green New Scam"*, *„beautiful clean coal"*. Verabschiedung als Entlastung.
+[▶ 142:39](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8559) — Redeckers Antwort hält die Frage offen: Wer die Konstellation *nur* mit „Parlament kommt nicht zur Potte" beschreibt, hat strukturelle Zwänge ausgeblendet. Aber *teilweise* stimmt sie zu: Wenn Politik nicht einmal mehr versucht, der realen Probleme Herr zu werden, befeuert das eine Politik, die *„offensiv die Probleme einfach für inexistent erklärt"* — Trumps *„Green New Scam"*, *„beautiful clean coal"*. Ein Wort ausgetauscht, aus dem *Deal* wird der *Scam*, und schon gibt es das Problem nicht mehr. Verabschiedung als Entlastung.
 
 Die Antwort liegt für Redecker in *außerparlamentarischer Macht* — Organisierung, Politik haftbar machen.
 
@@ -276,45 +286,45 @@ Die Antwort liegt für Redecker in *außerparlamentarischer Macht* — Organisie
 
 [▶ 144:12](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8652) — Eine frühe Chat-Kritik, hier nachgereicht: Redeckers Macht-Definition sei falsch — Macht sei doch, *seinen Willen gegen den Wunsch anderer durchsetzen zu können*.
 
-Redecker korrigiert sanft: Das ist die *Weber'sche* Definition (Macht-über), nicht ihre — sie folgt **Hannah Arendt**: *Macht als geteilte Handlungsfähigkeit*. Mit der Weber-Definition allein wäre die Energiewende „völlig machtlos", weil sie niemanden zwingt — sie ist aber kollektive Handlungsmacht. Hans Jessen ergänzt: *Ermächtigung*, *Selbstermächtigung* — in beiden Begriffen steckt diese andere Macht-Idee.
+Redecker korrigiert sanft. Das sei die *Weber'sche* Definition, Macht-über; sie selbst folgt **Hannah Arendt**: *Macht als geteilte Handlungsfähigkeit*. Mit der Weber-Definition allein wäre die Energiewende „völlig machtlos", weil sie niemanden zwingt, und doch ist sie kollektive Handlungsmacht. Hans Jessen hört die andere Macht in zwei Wörtern mit: *Ermächtigung*, *Selbstermächtigung*.
 
 ### Kann ein Otto Normalbürger ohne Faschisierung leben?
 
 [▶ 145:42](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8742) — Die Chat-Frage ist konkret: ETFs, Vermieten, Verbrenner fahren, CDU wählen, fliegen — gibt es eine Möglichkeit, *nicht* zur Faschisierung beizutragen?
 
-Redeckers Differenzierung ist wichtig: Es gibt keine Möglichkeit zu leben *ohne irgendeinen Schaden* — *aber*: Es gibt einen großen Unterschied zwischen *passiv etwas mittragen* (schlimm genug, dagegen muss man agitieren) und *offen und affirmativ bejahen*. **Nur das Zweite würde Redecker „Faschismus" nennen.** „Diesel jetzt erst recht" — das ist was anderes als auf dem Land mangels Nahverkehr Auto fahren zu müssen.
+Redecker unterscheidet. Zu leben *ohne irgendeinen Schaden*, dafür gibt es keine Möglichkeit, *aber* zwischen *passiv etwas mittragen* (schlimm genug, dagegen muss man agitieren) und *offen und affirmativ bejahen* liegt ein großer Unterschied. **Nur das Zweite würde Redecker „Faschismus" nennen.** „Diesel jetzt erst recht" ist etwas anderes, als auf dem Land mangels Nahverkehr Auto fahren zu müssen. Den Unterschied macht das *jetzt erst recht*.
 
-Sie zitiert Adornos berühmten Satz *„Es gibt kein richtiges Leben im falschen"* — und korrigiert die Rezeption: Bezogen war er *nicht* auf Politik, sondern auf bürgerliche Wohnungseinrichtung. Eine kleine philologische Pointe, die trägt; der Aphorismus „Asyl für Obdachlose" in den *Minima Moralia* weitet sich am Ende allerdings über das Wohnen hinaus.
+Sie zitiert Adornos berühmten Satz *„Es gibt kein richtiges Leben im falschen"* und korrigiert die Rezeption: Der Satz galt der bürgerlichen Wohnungseinrichtung, *nicht* der Politik. Eine kleine philologische Pointe, die trägt; der Aphorismus „Asyl für Obdachlose" in den *Minima Moralia* weitet sich am Ende allerdings über das Wohnen hinaus.
 
 ### Entwickelt sich Faschismus zwangsläufig zum Totalitarismus?
 
-[▶ 147:14](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8834) — Redecker antwortet mit historischem Beispiel: Der italienische Faschismus war ein anderer als der deutsche — *u.a. weil es Reste organisierter Arbeiterschaft und Linkskatholizismus gab*. Sie nennt das ein *äußeres* Begrenzungspotenzial. Ihr aktuelles Szenario ist nicht Nordkorea, sondern Lateinamerika — *„wo sich linkspopulistische mit faschistisch-autoritären Regimen ziemlich schnell abwechseln, mal durch Wahl, mal durch Putsch"*. Schlimm genug — aber nicht zwangsläufig totalitärer Kipppunkt.
+[▶ 147:14](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8834) — Redecker antwortet mit historischem Beispiel: Der italienische Faschismus war ein anderer als der deutsche — *u.a. weil es Reste organisierter Arbeiterschaft und Linkskatholizismus gab*. Sie nennt das ein *äußeres* Begrenzungspotenzial. Ihr Szenario für heute heißt Lateinamerika, nicht Nordkorea: *„wo sich linkspopulistische mit faschistisch-autoritären Regimen ziemlich schnell abwechseln, mal durch Wahl, mal durch Putsch"*. Schlimm genug, aber kein zwangsläufiger Kipppunkt ins Totalitäre.
 
 ### Ist der Islamismus / sind die Taliban Klerikalfaschismus?
 
 [▶ 149:33](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8973) — Redecker bestätigt zögernd: *„Kann man gut so bezeichnen."* Aber sie verteidigt die Begriffsschärfe: *Faschismus ist nicht das einzige Wort, um etwas furchtbar zu finden.*
 
-Das Taliban-Modell sei *nicht so sehr* eines der Phantombesitz-Verteidigung, sondern *brachialer Sachherrschaft* — *„wo wirklich quasi Versklavung von Frauen gefordert wird."* Eine andere Abstraktionsstufe von Gewalt als die *ambivalente* westliche Logik („Frauen haben Rechte — aber wenn sie nicht kuschen, darf ich auch zuschlagen"). Querverbindungen gibt es — aber die Begriffe sollten unterscheidbar bleiben.
+Das Taliban-Modell sei *nicht so sehr* eines der Phantombesitz-Verteidigung, sondern *brachialer Sachherrschaft* — *„wo wirklich quasi Versklavung von Frauen gefordert wird."* Eine andere Abstraktionsstufe von Gewalt als die *ambivalente* westliche Logik („Frauen haben Rechte — aber wenn sie nicht kuschen, darf ich auch zuschlagen"). Querverbindungen gibt es, aber die Begriffe sollten unterscheidbar bleiben.
 
 ### „Frage an die Feministin": Kapitalismus ohne Patriarchat? Matriarchat besser?
 
-[▶ 150:18](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9018) — Redecker antwortet differenziert: Realistisch hält sie einen patriarchatsfreien Kapitalismus *nicht* — aber *möglich*. Der Kapitalismus brauche *„irgendwelche Formen von Differenzausbeutung"*, aber nicht zwangsläufig die *vergeschlechtete*.
+[▶ 150:18](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9018) — Für realistisch hält Redecker einen patriarchatsfreien Kapitalismus *nicht*, für *möglich* schon. Der Kapitalismus brauche *„irgendwelche Formen von Differenzausbeutung"*, aber nicht zwangsläufig die *vergeschlechtete*.
 
-Zum Matriarchat eine schöne anthropologische Pointe: Es wäre *nicht*, weil Frauen besser sind, sondern weil *patrilineare* Erbfolge historisch *Gewalt* braucht (die Frau muss eingehegt werden, damit die Vaterschaft sicher ist). In einer matrilinearen Ordnung *„kannst du viel mehr Freiheit und Promiskuität walten lassen"*. Im Zeitalter des DNA-Tests obsolet — aber strukturell aufschlussreich.
+Zum Matriarchat eine anthropologische Pointe: Besser wäre es *nicht*, weil Frauen besser sind, sondern weil *patrilineare* Erbfolge historisch *Gewalt* braucht (die Frau muss eingehegt werden, damit die Vaterschaft sicher ist). In einer matrilinearen Ordnung *„kannst du viel mehr Freiheit und Promiskuität walten lassen"*. Im Zeitalter des DNA-Tests ist das obsolet, als Blick auf die Struktur bleibt es aufschlussreich.
 
 ### Wann fiel Phantombesitz dir eigentlich ein?
 
-[▶ 151:48](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9108) — Hans Jessens eigene Frage zur Begriffsgenese. 2017, bei einer Konferenz in Brighton — Redecker hält erstmals öffentlich einen Vortrag über Phantombesitz. Aus dem Publikum meldet sich **Judith Butler**:
+[▶ 151:48](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9108) — Diesmal fragt Hans Jessen selbst: nach der Herkunft des Wortes. 2017, eine Konferenz in Brighton: Redecker hält zum ersten Mal öffentlich einen Vortrag über Phantombesitz. Aus dem Publikum meldet sich **Judith Butler**:
 
 > *„Alright, so that's your thing with Phantom Possession, but Eva — what do you do about the fantasm?"*
 
-Das war der Impuls. Butler veröffentlichte später selbst ein Buch zum Antigenderismus, in dem nur das *Fantasma* vorkommt, kein Phantombesitz. Redeckers Ergänzung: Mit beiden zusammen erhält man ein kompletteres Bild des Patriarchats.
+Das war der Impuls. Butler veröffentlichte später selbst ein Buch zum Antigenderismus; darin kommt nur das *Fantasma* vor, der Phantombesitz nicht. Erst mit beiden zusammen, sagt Redecker, erhält man ein kompletteres Bild des Patriarchats. Phantom und Fantasma haben dieselbe griechische Wurzel, *phántasma*, die Erscheinung: Das eine ist der Besitz, der nur noch erscheint, das andere der Feind.
 
 Weiterer Einfluss: **Elisabeth Young-Bruehl**, Psychoanalytikerin, deren Analyse Redecker sehr schätzt — *„dass unterschiedliche Charaktertypen unterschiedliche Gewaltmuster pflegen und dass diese auslöschende Gewalt, was ich Liquidierung oder Fantasma nenne, eine bestimmte obsessive Form ist."*
 
 ### Die 11. Feuerbach-These — und nun?
 
-[▶ 154:07](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9247) — Hans' allerletzte Frage: Marx' These — *die Philosophen haben die Welt nur interpretiert; es kommt darauf an, sie zu verändern.* Redecker schreibt, für sie sei *Begriffsfindung* das Entscheidende. Was folgt daraus für Leser, die sagen: Schön, und jetzt?
+[▶ 154:07](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9247) — Hans Jessens allerletzte Frage gilt Marx' These: *die Philosophen haben die Welt nur interpretiert; es kommt darauf an, sie zu verändern.* Redecker schreibe, für sie sei *Begriffsfindung* das Entscheidende. Was folgt daraus für Leser, die sagen: Schön, und jetzt?
 
 Redecker antwortet:
 
@@ -324,7 +334,7 @@ Die Pointe ist das kleine Wort „aber": Marx schrieb 1845 „es kömmt drauf an
 
 > *„Oft würde ich meine Arbeit sogar so verstehen, dass ich gucke, wie Veränderung schon durchzubrechen versucht — und dann Beschreibungen anbiete, die das in noch verständlicher artikulieren oder zeigen, was da passiert."*
 
-Sie versteht sich nicht als Vorgabe-Geberin, sondern als *Diagnostikerin von Bewegung* — Erkennen von dem, was man schon selber macht.
+Eine Vorgabe-Geberin will sie nicht sein. Sie versteht sich als *Diagnostikerin von Bewegung*, die erkennt, was man schon selber macht, und Beschreibungen dafür anbietet.
 
 > [!question] Weitergedacht
 > Wenn Redecker Sinn „viel wichtiger" findet als Hoffnung — *trägt das in Zeiten, in denen kollektive Sinngebung selbst erodiert? Oder ist Sinn nur eine privatisierte Variante von Hoffnung, die sich gegen die eigene Ohnmacht abdichtet?*

@@ -2,6 +2,13 @@
 title: "Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus"
 description: "Die KI-Blase finanziert für Rainer Mühlhoff mehr als Software: den Umbau des Staates zur Plattform. Er zeigt, wo sich Tech-Ideologien und die Struktur des Faschismus gleichen."
 raetsel: "Erst wird es das Betriebssystem. Dann darf es nicht mehr abstürzen."
+stimme:
+  - wer: Günther Anders
+    art: stimme
+    umfang: ganz, außer Faktencheck und Quellen
+    am: 2026-10-31
+    geliehen: "kurze Behauptung, dann der Nachsatz mit Widerhaken (die Regierung lässt sich abwählen, die Plattform nicht); das Gefälle zwischen dem, was wir bauen, und dem, was wir uns davon noch vorstellen können"
+    warum: "Mühlhoffs These liest sich wie eine Anders-Figur in neuer Lage: Der Apparat wächst schneller als unsere Fähigkeit, für ihn einzustehen, und man kann ihn bald nicht mehr fallen lassen"
 date: 2026-04-05
 aktualisiert: 2026-10-31
 tags:
@@ -32,8 +39,17 @@ aliases:
 
 </details>
 
+<details><summary>✒️</summary>
+
+Ganz, außer Faktencheck und Quellen: **Angelehnt an Günther Anders** — ein Versuch in dieser Tonlage. Geliehen: kurze Behauptung, dann der Nachsatz mit Widerhaken (die Regierung lässt sich abwählen, die Plattform nicht); das Gefälle zwischen dem, was wir bauen, und dem, was wir uns davon noch vorstellen können. Mühlhoffs These liest sich wie eine Anders-Figur in neuer Lage: Der Apparat wächst schneller als unsere Fähigkeit, für ihn einzustehen, und man kann ihn bald nicht mehr fallen lassen.
+*Erzählstimme gewählt am 31.10.2026.*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Rainer Mühlhoff, die Erzählstimme ist unsere.
+
+</details>
+
 > [!abstract] Worum es geht
-> Die KI-Industrie will seit 2025 mehr als Werbung verkaufen: Sie will das Betriebssystem des Staates werden, in Verwaltung, Polizei und Schule. Rainer Mühlhoff, Philosoph und Mathematiker, erklärt in vier Stunden bei Jung & Naiv, warum exponentielles Wachstum an die Grenzen der Demokratie stößt und warum die Heilsversprechen der Tech-Szene dieselbe Form haben wie faschistische Ideologien. Im zweiten Teil prüft Hans Jessen die These an Schul-KI, Klickarbeit, Palantir und der Frage, wie ein Staat regulieren soll, was er selbst benutzen will.
+> Die KI-Industrie will seit 2025 mehr als Werbung verkaufen. Sie will das Betriebssystem des Staates werden, in Verwaltung, Polizei und Schule, und ein Betriebssystem lässt man nicht abstürzen. Rainer Mühlhoff, Philosoph und Mathematiker, erklärt in vier Stunden bei Jung & Naiv, warum exponentielles Wachstum an die Grenzen der Demokratie stößt und warum die Heilsversprechen der Tech-Szene dieselbe Form haben wie faschistische Ideologien. Im zweiten Teil prüft Hans Jessen die These an Schul-KI, Klickarbeit, Palantir und an der Frage, wie ein Staat regulieren soll, was er selbst benutzen will.
 
 Quelle: [Jung & Naiv: Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k) (02.04.2026, 4 Stunden) · Gesprächspartner: Tilo Jung, im zweiten Teil Hans Jessen mit Fragen aus dem Chat
 
@@ -55,18 +71,18 @@ Quelle: [Jung & Naiv: Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k) (0
 
 [▶ 1:40](https://www.youtube.com/watch?v=DY_LgqIh40k&t=100)
 
-Mühlhoff öffnet das Gespräch mit einer Diagnose: Zwischen dem, was KI technisch ist und kann, und dem, was öffentlich darüber geglaubt wird, klafft eine Lücke, und sie wird größer. „Hype" meint für ihn mehr als Übertreibung. Ein ganzes Orchester feuert die Begeisterung an: Industrie, Investoren, Politik, Medien.
+Am Anfang steht eine Lücke. Auf der einen Seite, was KI technisch ist und kann, auf der anderen, was öffentlich über sie geglaubt wird, und die Lücke wächst. „Hype" heißt für Mühlhoff darum mehr als Übertreibung. Es ist ein Orchester, das die Begeisterung anfeuert, und es spielen alle mit: Industrie, Investoren, Politik, Medien.
 
 > *„Das involviert ja die Öffentlichkeit, aber auch die Politik, Investitionsdynamiken, weiß ich nicht, Konjunkturen an den Aktienmärkten. Das führt dazu, dass man alles der KI zutraut."* [▶ 2:16](https://www.youtube.com/watch?v=DY_LgqIh40k&t=136)
 
-Die wichtigste Unterscheidung, die er zieht: **KI gibt es nicht im Singular.** Es gibt tausend verschiedene Systeme von tausend verschiedenen Unternehmen, mit verschiedenen Fähigkeiten, Geschäftsmodellen und Zwecken. Wer „die KI" sagt, ob verherrlichend oder verteufelnd, betreibt schon den Hype mit.
+Seine wichtigste Unterscheidung ist eine grammatische: **KI gibt es nicht im Singular.** Es gibt tausend Systeme von tausend Unternehmen, mit eigenen Fähigkeiten, Geschäftsmodellen und Zwecken. Wer „die KI" sagt, ob er sie verherrlicht oder verteufelt, spielt im Orchester schon mit.
 
-Und er sagt früh, wem das nützt. Die großen Konzerne profitieren nicht nur über den Aktienkurs:
+Früh sagt er auch, wem das nützt. Den großen Konzernen bringt der Hype mehr als einen Kurs an der Börse:
 
 > *„Das Game ist, sich immer mehr ins Spiel zu bringen als sozusagen das Betriebssystem von Staatsmacht."* [▶ 6:05](https://www.youtube.com/watch?v=DY_LgqIh40k&t=365)
 
 > [!note] Eigene Einschätzung
-> Hier kommt der Mathematiker zum Vorschein: Er besteht auf Definitionen. „KI kann das nicht" sagt wenig, solange offen bleibt, *welche* KI, *wozu* gebaut, *von wem*. Ein undifferenzierter Begriff öffnet Raum für Projektion, in beide Richtungen.
+> Hier spricht der Mathematiker, und er besteht auf Definitionen. „KI kann das nicht" sagt wenig, solange offen bleibt, *welche* KI, *wozu* gebaut, *von wem*. Ein Begriff ohne Unterscheidung ist eine Leinwand: Jeder wirft darauf, was er fürchtet oder erhofft.
 
 ---
 
@@ -74,16 +90,11 @@ Und er sagt früh, wem das nützt. Die großen Konzerne profitieren nicht nur ü
 
 [▶ 9:06](https://www.youtube.com/watch?v=DY_LgqIh40k&t=546)
 
-Die heutige KI ist für Mühlhoff eine **nachgelagerte Verwertung von Datenbergen**, die seit den 2000er Jahren bei Facebook, Google und Co. aufgehäuft wurden. Das Muster verläuft in Stufen:
-
-1. **Infrastruktur aufbauen** — soziale Netzwerke, Suchmaschinen, Onlinehandel
-2. **Daten horten** — aus allen digitalen Aktivitäten der Nutzer*innen
-3. **Maschinelles Lernen** als Auswertungstechnik in den 2010er Jahren
-4. **Verwertung** durch personalisierte Werbung, zuletzt durch KI-Dienste
+Was heute KI heißt, ist für Mühlhoff eine **nachgelagerte Verwertung von Datenbergen**, aufgehäuft seit den 2000er Jahren bei Facebook, Google und Co. Die Geschichte verläuft in Stufen. Erst baut man die **Infrastruktur**: soziale Netzwerke, Suchmaschinen, Onlinehandel. Dann **hortet** man die Daten aus allen digitalen Aktivitäten der Nutzer*innen. In den 2010er Jahren kommt das **maschinelle Lernen** als Auswertungstechnik dazu, und **verwertet** wird durch personalisierte Werbung, zuletzt durch KI-Dienste.
 
 > *„KI-Technologie ist ein großer Treiber von einer Umverteilung von unten nach oben. Der Profit akkumuliert sich in ungeahntem Ausmaß bei wenigen oligopolen Akteuren, wirtschaftlichen Akteuren, Firmen, die so wertvoll sind, wie noch nie Firmen wertvoll gewesen sind."* [▶ 9:06](https://www.youtube.com/watch?v=DY_LgqIh40k&t=546)
 
-Das Geschäftsmodell beruht auf einer Asymmetrie: Die Nutzer*innen sind nicht die Kundschaft, sie sind das Rohmaterial. Mühlhoff zieht eine Linie zu kolonialen Strukturen: Extraktion ohne Ausgleich, entlang alter globaler Hierarchien.
+Das Geschäftsmodell beruht auf einer Asymmetrie: Die Nutzer*innen sind nicht die Kundschaft, sie sind das Rohmaterial. Von hier zieht Mühlhoff eine Linie zu kolonialen Strukturen: Extraktion ohne Ausgleich, entlang alter globaler Hierarchien.
 
 > [!note] Eigene Einschätzung
 > Was früher Rohstoffe waren, sind heute Daten; was früher Handelsrouten waren, sind Plattformen. Die Kolonialismus-Analogie behauptet eine strukturelle Kontinuität, und wer sie zu weit hergeholt findet, müsste erklären, warum die Arbeit hinter den Modellen, das Labeln und Moderieren, so oft im globalen Süden landet (→ [[#Klickarbeit im globalen Süden — der unsichtbare Unterbau|Klickarbeit]]).
@@ -94,25 +105,25 @@ Das Geschäftsmodell beruht auf einer Asymmetrie: Die Nutzer*innen sind nicht di
 
 [▶ 1:06:07](https://www.youtube.com/watch?v=DY_LgqIh40k&t=3967)
 
-Hier liegt der qualitative Sprung in Mühlhoffs Analyse. Seit 2025, mit Trump, DOGE und Palantir, geht es nicht mehr nur um verzerrte Debatten oder Überwachungskapitalismus. Die Tech-Industrie greift nach staatlichen Funktionen.
+Hier springt die Analyse. Seit 2025, mit Trump, DOGE und Palantir, reicht der alte Befund nicht mehr, verzerrte Debatten, Überwachungskapitalismus. Die Tech-Industrie greift nach den Funktionen des Staates.
 
-Mühlhoff deutet DOGE so: Der Personalabbau wurde als Bürokratieabbau verkauft, während Palantir und die Government-Sparten von Google Milliardenaufträge erhielten *(der Army-Rahmenvertrag mit Palantir über bis zu 10 Mrd. Dollar bündelt 75 bestehende Softwareverträge → [[#Faktencheck|Faktencheck]])*.
+DOGE liest Mühlhoff so: Verkauft wurde der Personalabbau als Bürokratieabbau, während Palantir und die Government-Sparten von Google Milliardenaufträge erhielten *(der Army-Rahmenvertrag mit Palantir über bis zu 10 Mrd. Dollar bündelt 75 bestehende Softwareverträge → [[#Faktencheck|Faktencheck]])*.
 
-Dazu führt er eine Unterscheidung ein, die im Rest des Gesprächs trägt:
+Dazu eine Unterscheidung, die das ganze weitere Gespräch trägt:
 
 | Ebene | Inhalt |
 |---|---|
 | **Demokratie** | Politische Meinungsbildung, Wahlen, Parteien, Parlament |
 | **Rechtsstaat** | Verwaltung, Behörden, Polizei, Schule, Hochschule, Gesundheit, Militär |
 
-Die Tech-Industrie zielt auf beide Ebenen. Der Griff nach dem Rechtsstaat ist weniger sichtbar, weil niemand ihn mit dem Wort „Demokratie" verbindet:
+Die Tech-Industrie zielt auf beide. Der Griff nach dem Rechtsstaat fällt weniger auf, weil niemand ihn mit dem Wort „Demokratie" verbindet:
 
 > *„Das ist alles irgendwie so der, sagen wir mal, administrative Teil des Staatsapparats, der noch nicht durch das Wort Demokratie für mich umfasst ist."* [▶ 1:11:29](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4289)
 
 Was man in den USA sehe: Die Industrie gehe daran, „nicht nur den politischen Diskurs zu kapern, sondern eben diese administrativen Prozesse".
 
 > [!note] Eigene Einschätzung
-> Die Demokratie-Debatte schaut fast immer auf Wahlen und Parteien. Mühlhoffs Blick geht tiefer, in die Verwaltung. Ein Parlament, das für Steuerverwaltung, Polizeiarbeit oder Schulbetrieb auf private Plattformen angewiesen ist, wird erpressbar, gleich welche Partei regiert.
+> Die Demokratie-Debatte schaut fast immer auf Wahlen und Parteien. Mühlhoff schaut ein Stockwerk tiefer, in die Verwaltung. Ein Parlament, das für Steuerverwaltung, Polizeiarbeit oder Schulbetrieb auf private Plattformen angewiesen ist, wird erpressbar, gleich welche Partei regiert. Die Regierung lässt sich abwählen, die Plattform nicht.
 
 ---
 
@@ -124,7 +135,7 @@ Mühlhoff verweist auf eine Studie, die er im Kleinen nur nacherzähle: **France
 
 > *„Francesca Bria, die hat eine sehr gute Studie dazu gemacht, authoritarianstack.info, ruft sie alle auf. Da kann man das gut visualisiert sehen. Und was ich gerade sage, ist eigentlich ein Referat dieser Studie im Kleinsten. Die schreibt so schön: Denen geht's nicht mehr um Profit, weil wenn man einmal Profit erreicht hat, dann geht's dir als Nächstes um staatliche Macht."*
 
-Tilo Jung erinnert das an Palantir-Chef Alex Karp, der sinngemäß gesagt hat, er denke nicht in Gewinnen und Verlusten, sondern in „domination" ([92NY, YouTube](https://www.youtube.com/watch?v=KZWB5XGZy-Q)). Mühlhoff nimmt den Ball auf: Es gehe um die destruktive Übernahme des Staatsapparats.
+Tilo Jung erinnert das an Palantir-Chef Alex Karp, der sinngemäß gesagt hat, er denke nicht in Gewinnen und Verlusten, sondern in „domination" ([92NY, YouTube](https://www.youtube.com/watch?v=KZWB5XGZy-Q)). Mühlhoff greift es auf: Es gehe um die destruktive Übernahme des Staatsapparats.
 
 ---
 
@@ -132,16 +143,16 @@ Tilo Jung erinnert das an Palantir-Chef Alex Karp, der sinngemäß gesagt hat, e
 
 [▶ 1:12:59](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4379)
 
-Den Zeitpunkt erklärt Mühlhoff mit einer materiellen Logik. Lange konnte die Branche gut innerhalb liberaler Demokratien wachsen. Will sie das exponentielle Wachstum der letzten zehn Jahre fortsetzen, verbraucht sie exponentiell mehr: Strom, Wasser, seltene Erden, Arbeitskraft, Privatsphäre.
+Den Zeitpunkt erklärt Mühlhoff materiell. Lange konnte die Branche gut innerhalb liberaler Demokratien wachsen. Will sie das exponentielle Wachstum der letzten zehn Jahre fortsetzen, braucht sie exponentiell mehr von allem: Strom, Wasser, seltene Erden, Arbeitskraft, Privatsphäre.
 
 > *„Dann werden die innerhalb schon bis 2030 an die Grenzen dessen stoßen, was man auf der Plattform von demokratischer Politik überhaupt noch befürworten kann. […] Und das weiß das Silicon Valley."* [▶ 1:12:59](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4379)
 
-Und dann, im Bild eines tonnenschweren Zuges, der weiterfahren will: Die Industrie werde „die Demokratie wie so ein kleines Hindernis am Wegesrand so wusch weg wegballern müssen" [▶ 1:13:44](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4424).
+Dann das Bild eines tonnenschweren Zuges, der weiterfahren will: Die Industrie werde „die Demokratie wie so ein kleines Hindernis am Wegesrand so wusch weg wegballern müssen" [▶ 1:13:44](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4424).
 
 Beim Strom nennt er Spannen: Seriöse Schätzungen sähen bis 2030 einen Faktor drei bis zehn, Industrieakteure eher 25 oder 100 *(die Internationale Energieagentur rechnet in ihrem Hauptszenario mit gut einer Verdopplung → [[#Faktencheck|Faktencheck]])*. Die Branche setze darum wieder auf fossile Energie und investiere in Kernfusion.
 
 > [!note] Eigene Einschätzung
-> Das ist Mühlhoffs materielle Antwort auf die Frage, warum die Tech-Elite gerade jetzt nach rechts rückt: Wachstum braucht Ressourcen, und Demokratie begrenzt den Zugriff darauf. Er nennt sie ausdrücklich *eine* Erklärung unter vielen (▶ 1:12:14); sein Buch stellt die ideologische Verwandtschaft gleichberechtigt daneben. Beides zusammen macht die These stark: Interesse und Weltbild zeigen in dieselbe Richtung.
+> Damit hat die Frage, warum die Tech-Elite gerade jetzt nach rechts rückt, eine materielle Antwort: Wachstum braucht Ressourcen, und Demokratie begrenzt den Zugriff darauf. Mühlhoff nennt sie ausdrücklich *eine* Erklärung unter vielen (▶ 1:12:14); sein Buch stellt die ideologische Verwandtschaft gleichberechtigt daneben. Stark wird die These erst durch beides: Interesse und Weltbild zeigen in dieselbe Richtung.
 
 > [!question] Weitergedacht
 > Wenn Demokratie das Wachstum begrenzt, weil sie Ressourcen gerecht verteilen will — *ist dann die Wachstumsfrage selbst die eigentliche Verfassungsfrage, und wer sie stellt, wer darf sie beantworten?*
@@ -152,18 +163,18 @@ Beim Strom nennt er Spannen: Seriöse Schätzungen sähen bis 2030 einen Faktor 
 
 [▶ 1:26:40](https://www.youtube.com/watch?v=DY_LgqIh40k&t=5200)
 
-In der Mitte des Gesprächs erklärt Mühlhoff seine eigene Forschung, und sie verschiebt die Datenschutzdebatte an eine Stelle, an die kaum jemand denkt. Er arbeitet dazu seit Jahren mit der Osnabrücker Rechtswissenschaftlerin Hannah Ruschemeier.
+In der Mitte des Gesprächs kommt Mühlhoff auf seine eigene Forschung, und die verschiebt die Datenschutzdebatte an eine Stelle, an die kaum jemand denkt. Seit Jahren arbeitet er dazu mit der Osnabrücker Rechtswissenschaftlerin Hannah Ruschemeier.
 
-Das Gedankenexperiment: Eine Plattform mit ein paar Milliarden Nutzerinnen kennt von allen die Verhaltensdaten, also was sie scrollen, tippen, teilen, liken. Etwa zehn Prozent geben zusätzlich etwas Sensibles preis, eine Depression etwa oder die Partei, die sie wählen. Das sind immer noch Hunderte Millionen Datenpunkte. Mit ihnen trainiert man ein Modell, das die sensible Angabe aus den harmlosen Verhaltensdaten abschätzt.
+Das Gedankenexperiment geht so. Eine Plattform mit ein paar Milliarden Nutzerinnen kennt von allen die Verhaltensdaten, also was sie scrollen, tippen, teilen, liken. Etwa zehn Prozent geben zusätzlich etwas Sensibles preis, eine Depression etwa oder die Partei, die sie wählen. Das sind immer noch Hunderte Millionen Datenpunkte. Mit ihnen trainiert man ein Modell, das die sensible Angabe aus den harmlosen Verhaltensdaten abschätzt.
 
 > *„Dann wendest du es natürlich einfach an auf die Daten der 90 % anderen Nutzerinnen, die keine Auskunft darüber gegeben haben, ob sie Depressionen haben oder was ihre sexuelle Identität ist oder ihre politischen Interessen."* [▶ 1:28:57](https://www.youtube.com/watch?v=DY_LgqIh40k&t=5337)
 
-Die Privatsphäre-Entscheidung einer Minderheit („ich hab doch nichts zu verbergen") wird so zum Risiko für alle anderen, auch für die, die gute Gründe haben, nichts preiszugeben, weil sie Diskriminierung kennen. Ein trainiertes Modell sei „so eine Art Universalwaffe".
+So wird die Privatsphäre-Entscheidung einer Minderheit („ich hab doch nichts zu verbergen") zum Risiko für alle anderen, auch für die, die gute Gründe haben, nichts preiszugeben, weil sie Diskriminierung kennen. Wer nichts zu verbergen hat, gibt die preis, die etwas zu verbergen haben. Ein trainiertes Modell sei „so eine Art Universalwaffe".
 
-Daraus folgt sein regulatorischer Vorschlag, und er ist überraschend pragmatisch. Die Datensammlung selbst werde man in der heutigen Welt nicht verhindern. Regulieren müsse man, **wofür ein trainiertes Modell weiterverwendet werden darf**: Das Depressionsmodell an Krankenversicherungen verkaufen oder im Bewerbungsgespräch mitlaufen lassen, das sei heute „ein wilder Westen".
+Sein regulatorischer Vorschlag ist überraschend pragmatisch. Die Datensammlung selbst werde man in der heutigen Welt nicht verhindern. Regulieren müsse man, **wofür ein trainiertes Modell weiterverwendet werden darf**. Das Depressionsmodell an Krankenversicherungen verkaufen, es im Bewerbungsgespräch mitlaufen lassen: das sei heute „ein wilder Westen".
 
 > [!note] Eigene Einschätzung
-> Der Gedanke dreht die übliche Logik um. Datenschutz gilt als Sache des Einzelnen, der einwilligt oder nicht. Bei Mühlhoff wird er zur kollektiven Frage: Meine Einwilligung entscheidet über dich mit. Das passt zu seinem Buch, wo das Modell die eigentliche Machtquelle ist, nicht der einzelne Datensatz.
+> Der Gedanke dreht die übliche Logik um. Datenschutz gilt als Sache des Einzelnen, der einwilligt oder nicht. Bei Mühlhoff wird er zur kollektiven Frage: Meine Einwilligung entscheidet über dich mit. Das passt zu seinem Buch: Dort liegt die Macht im Modell, nicht im einzelnen Datensatz.
 
 > [!question] Weitergedacht
 > Wenn meine Daten über andere mitentscheiden — *darf ich dann noch allein darüber verfügen, oder wird Privatsphäre zu etwas, das man nur gemeinsam haben kann?*
@@ -174,7 +185,7 @@ Daraus folgt sein regulatorischer Vorschlag, und er ist überraschend pragmatisc
 
 [▶ 1:52:33](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6753)
 
-Die ideologischen Unterbauten der KI-Szene beschreibt Mühlhoff als **Zwiebelschalen**: mehrere Schichten, von öffentlich bekannten bis zu szeneinternen Weltbildern.
+Die Weltbilder unter der KI-Szene beschreibt Mühlhoff als **Zwiebelschalen**: außen, was alle kennen, innen, worüber die Szene unter sich spricht.
 
 **Äußere Schicht (öffentlich bekannt):**
 - **Technosolutionismus** — Technologie löst gesellschaftliche Probleme
@@ -188,7 +199,7 @@ Die ideologischen Unterbauten der KI-Szene beschreibt Mühlhoff als **Zwiebelsch
 > *„Was moralisch auf dem Spiel stehe in Bezug auf die ultraferne Zukunft, ist so viel größer […] als das, was auf dem Spiel steht, wenn wir jetzt davon reden, dass die KI-Industrie zum Klimawandel beiträgt und deswegen die Lebensbedingungen für unsere Kinder und Kindeskinder massiv negativ beeinträchtigen könnte, dass dieses Problem quasi nur ein Fliegendreck in der Geschichte ist."* [▶ 1:57:52](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7072)
 
 > [!note] Eigene Einschätzung
-> Gefährlich ist der Longtermismus gerade wegen seiner inneren Folgerichtigkeit. Wer die Prämissen annimmt, folgt der Rechnung, und an einer Zukunft, die Millionen Jahre entfernt liegt, kann man zu Lebzeiten nicht scheitern. Tilo Jung bringt dafür das Wort „säkulare Eschatologie" ein; Mühlhoff ordnet es als These ein, die gerade manche in der Kulturwissenschaft vertreten (▶ 1:59:24): religiöse Erlösungshoffnung, in Zehnerpotenzen gekleidet. Dass Bostroms Hauptlinie daraus KI-Sicherheit ableitet, schwächt Mühlhoffs Lesart; dass derselbe Text für eine andere Ethik Tempo empfiehlt, gibt ihr einen Halt (→ [[#Nachbesprechung|Nachbesprechung]]).
+> Gefährlich ist der Longtermismus, weil er folgerichtig ist. Wer die Prämissen annimmt, muss der Rechnung folgen. Und an einer Zukunft, die Millionen Jahre entfernt liegt, kann man zu Lebzeiten nicht scheitern. Tilo Jung bringt dafür das Wort „säkulare Eschatologie" ein; Mühlhoff ordnet es als These ein, die gerade manche in der Kulturwissenschaft vertreten (▶ 1:59:24): religiöse Erlösungshoffnung, in Zehnerpotenzen gekleidet. Dass Bostroms Hauptlinie daraus KI-Sicherheit ableitet, schwächt Mühlhoffs Lesart; dass derselbe Text für eine andere Ethik Tempo empfiehlt, gibt ihr einen Halt (→ [[#Nachbesprechung|Nachbesprechung]]).
 
 ---
 
@@ -196,7 +207,7 @@ Die ideologischen Unterbauten der KI-Szene beschreibt Mühlhoff als **Zwiebelsch
 
 [▶ 2:01:40](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7300)
 
-Mühlhoff zeigt die **gemeinsame Form** von klassischem Faschismus und KI-Ideologie:
+Mühlhoff legt klassischen Faschismus und KI-Ideologie übereinander und findet eine **gemeinsame Form**:
 
 **Faschismus-Kernstruktur:**
 1. **Pessimistische Gegenwartsdiagnose** — die Gesellschaft ist dekadent, krank, verfallen
@@ -209,7 +220,7 @@ In der Tech-Rechten findet er diese Struktur wieder: Die Gesellschaft sei zu wei
 > *„Das kannst du bei Adolf sehen, das kannst du in allen faschistischen Ideologien in irgendeiner Form sehen, und […] heutzutage, klar, MAGA, Make America Great Again ist ganz simpel so ein Versprechen. Aber die KI-Ideologie in unserer Zeit, die unterfüttern das halt massiv mit so einer technischen Realität."* [▶ 2:02:26](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7346)
 
 **White Supremacy und Manosphere:**
-Die Heilsversprechen verfangen besonders bei **frustrierter Männlichkeit**: Männer, die meinen, ihre „natürliche Stellung" verloren zu haben, finden in der KI-Ideologie eine Erzählung, die ihre Kränkung erklärt und Erlösung verspricht. Unbeantwortet bleibe immer die Frage, wer eigentlich „wir" ist:
+Die Heilsversprechen verfangen besonders bei **frustrierter Männlichkeit**: Männer, die meinen, ihre „natürliche Stellung" verloren zu haben, finden in der KI-Ideologie eine Erzählung, die ihre Kränkung erklärt und Erlösung verspricht. Offen bleibe dabei immer, wer dieses „wir" eigentlich ist:
 
 > *„Wen nimmt Elon Musk mit auf seinem Raumschiff zum Mars, und wessen Gehirne werden von seinem Neuralink-Unternehmen auf den USB-Stick hochgeladen oder in die Cloud? Natürlich eben nicht die Gehirne von allen, und natürlich sitzen nicht wir alle in so einem Starship, da sitzen wahrscheinlich nur wenige Bros aus seiner Elite drin, auch keine Frauen."* [▶ 2:03:11](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7391)
 
@@ -217,7 +228,7 @@ Die Heilsversprechen verfangen besonders bei **frustrierter Männlichkeit**: Mä
 Tilo Jung bringt den Gedanken auf, die KI könne „gruselige, aber notwendige Entscheidungen" übernehmen. Mühlhoff stimmt zu: Die Vernichtungsmaschinerie des 20. Jahrhunderts bestand aus Menschen, die Befehle befolgten. Eine solche Maschine „würde man heute nicht mehr im gleichen Maße aus menschlichen Zahnrädern machen müssen" [▶ 2:04:41](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7481).
 
 > [!note] Eigene Einschätzung
-> Das ist der Satz, der am meisten beschäftigt. Wenn Algorithmen sortieren, wer zur Arbeit kommt, wer Kredit bekommt, wer als Sicherheitsrisiko gilt, verteilt sich die Verantwortung, bis niemand mehr sie trägt. Hannah Arendt beschrieb Eichmann als Bürokraten, der aufgehört hatte zu urteilen; ein Algorithmus hat das Urteilen nie gekonnt. Mühlhoff selbst zieht diese Linie zu Arendt nicht, sie liegt aber nahe.
+> Das ist der Satz, der bleibt. Wenn Algorithmen sortieren, wer zur Arbeit kommt, wer Kredit bekommt, wer als Sicherheitsrisiko gilt, verteilt sich die Verantwortung, bis niemand mehr sie trägt. Wir können Apparate bauen, deren Wirkung keiner von denen, die an ihnen mitarbeiten, noch vor Augen hat. Hannah Arendt beschrieb Eichmann als Bürokraten, der aufgehört hatte zu urteilen; ein Algorithmus hat damit nie angefangen. Mühlhoff selbst zieht diese Linie zu Arendt nicht, sie liegt aber nahe.
 
 > [!question] Weitergedacht
 > Wenn eine Maschine nicht befiehlt und nicht gehorcht — *wo setzt dann Widerstand an, der früher beim Menschen ansetzte, der die Akte weiterreichte oder liegen ließ?*
@@ -228,7 +239,7 @@ Tilo Jung bringt den Gedanken auf, die KI könne „gruselige, aber notwendige E
 
 [▶ 1:44:13](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6253)
 
-Mühlhoff nennt sich nicht gern KI-Ethiker, weil die Industrie große Teile der KI-Ethik vereinnahmt hat. Ethik sei oft ein Ticket, um sagen zu können, man tue ja viel:
+KI-Ethiker nennt Mühlhoff sich nicht gern. Die Industrie hat große Teile der KI-Ethik vereinnahmt, und Ethik sei oft ein Ticket, um sagen zu können, man tue ja viel:
 
 > *„Um Regulierung zu vermeiden, weil Regulierung wäre halt eigentlich das schärfere Schwert, und das will man vermeiden."* [▶ 1:44:58](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6298)
 
@@ -240,46 +251,42 @@ Dagegen stellt er in Osnabrück eine **machtbewusste Ethik der KI**, die benennt
 
 [▶ 2:55:38](https://www.youtube.com/watch?v=DY_LgqIh40k&t=10538)
 
-Mühlhoffs Position zu AGI ist klar: **AGI wird nicht kommen.** Die KI-Blase werde platzen, Mustererkennung sei keine menschliche Intelligenz.
+Zu AGI ist Mühlhoff eindeutig: **AGI wird nicht kommen.** Die KI-Blase werde platzen, Mustererkennung sei keine menschliche Intelligenz.
 
-Die eigentliche Frage sei eine andere: wie viel Staatsmacht sich die Industrie bis dahin angeeignet hat.
+Eine Entwarnung ist das nicht. Die Frage sei, wie viel Staatsmacht sich die Industrie bis dahin angeeignet hat.
 
 > *„… dass man sie nicht scheitern lassen kann, dass man, wenn die AI-Bubble platzt, diese Unternehmen retten muss, weil sie das staatliche Betriebssystem geworden sind. Das ist die Frage. Und wie viel Faschismus haben wir bis dahin? Das ist die zweite Frage. Und in der Hinsicht bin ich nicht so optimistisch. Also, es wird schon haarig werden. Wir werden noch sehr viel mehr Verfolgung, Diskriminierung, Ermordung, Klimawandel und dadurch sterbende Millionen und Milliarden von Menschen erleben."* [▶ 2:56:24](https://www.youtube.com/watch?v=DY_LgqIh40k&t=10584)
 
 Später nennt er es selbst „too big to fail" — ein Muster, das man von der Bankenrettung 2008 kennt.
 
-**Gegenstrategien (Europa):**
-- Europäische Regulierung halten und ausbauen — die DSGVO als Modell, das weltweit Wirkung hatte
-- Deregulierung ist keine Antwort auf den US-Wettbewerb, sie nützt nur den großen Playern
-- Europäische Unternehmen fördern, *mit* einem Regulierungsrahmen
-- Den Rechtsstaat als gemeinsamen Nenner verteidigen, quer zu Parteigrenzen
+Seine Gegenstrategien sind europäisch. Die europäische Regulierung halten und ausbauen, mit der DSGVO als Modell, das weltweit Wirkung hatte. Deregulierung sei keine Antwort auf den US-Wettbewerb, sie nütze nur den großen Playern. Europäische Unternehmen fördern, aber *mit* einem Regulierungsrahmen. Und den Rechtsstaat als gemeinsamen Nenner verteidigen, quer zu den Parteigrenzen.
 
 > [!note] Eigene Einschätzung
-> Die Gegenstrategie ist bewusst defensiv: erst einmal halten, was da ist. Das wirkt kleiner als die Diagnose, vielleicht ist es ehrlicher als jede Utopie. Hans Jessen nennt das Schlusskapitel des Buches „ein schwächeres" (▶ 3:50); Mühlhoff antwortet, die Neuauflage baue genau diesen Teil aus.
+> Die Gegenstrategie ist bewusst defensiv: erst einmal halten, was da ist. Sie ist kleiner als die Diagnose. Vielleicht ist sie gerade darum ehrlicher als jede Utopie. Hans Jessen nennt das Schlusskapitel des Buches „ein schwächeres" ([▶ 3:52:40](https://www.youtube.com/watch?v=DY_LgqIh40k&t=13960)); Mühlhoff antwortet, die Neuauflage baue genau diesen Teil aus.
 
 ---
 
 ### Fragen aus dem Chat — wo die Theorie an Fällen tragen muss
 
-[▶ 3:00:11](https://www.youtube.com/watch?v=DY_LgqIh40k&t=10811) — Im zweiten Teil übernimmt **Hans Jessen** die Fragen aus dem Live-Chat; Tilo Jung hat sich kurz vorher verabschiedet. An Schul-KI, Klickarbeit im globalen Süden, Palantir und dem Interessenkonflikt eines Staates, der regulieren soll, was er selbst nutzen will, muss sich Mühlhoffs These konkret bewähren.
+[▶ 3:00:11](https://www.youtube.com/watch?v=DY_LgqIh40k&t=10811) — Im zweiten Teil übernimmt **Hans Jessen** die Fragen aus dem Live-Chat; Tilo Jung hat sich kurz vorher verabschiedet. Jetzt muss sich Mühlhoffs These an Fällen bewähren: an Schul-KI, Klickarbeit im globalen Süden, Palantir und dem Interessenkonflikt eines Staates, der regulieren soll, was er selbst nutzen will.
 
 #### Sind Trainingsdaten der materielle Urgrund von KI?
 
 Hans Jessens Einstieg: Sind die Trainingsdaten der *materielle Urgrund* dessen, was wir heute als KI erleben?
 
-Mühlhoffs Antwort: Ja, im Groben. Die heute erfolgreiche KI folgt dem Paradigma des *maschinellen Lernens*, und das braucht gewaltige Datensätze. Die Idee ist alt, technisch machbar ist sie erst seit etwa fünfzehn Jahren: Rechenleistung, Speicher und vor allem die Daten selbst. Und die liegen bei den Unternehmen, die seit den frühen 2000ern die Infrastruktur betreiben, über die wir alle Daten erzeugen: Amazon, Google, Microsoft, Meta, Apple. Deshalb seien das auch die Unternehmen, die jetzt KI machen können.
+Im Groben ja, antwortet Mühlhoff. Die heute erfolgreiche KI folgt dem Paradigma des *maschinellen Lernens*, und das braucht gewaltige Datensätze. Die Idee ist alt, technisch machbar ist sie erst seit etwa fünfzehn Jahren: Rechenleistung, Speicher und vor allem die Daten selbst. Und die liegen bei den Unternehmen, die seit den frühen 2000ern die Infrastruktur betreiben, über die wir alle Daten erzeugen: Amazon, Google, Microsoft, Meta, Apple. Deshalb seien das auch die Unternehmen, die jetzt KI machen können.
 
-Die Pointe: KI-Macht folgt aus dem *Eigentum an Dateninfrastruktur*.
+KI-Macht folgt also aus dem *Eigentum an Dateninfrastruktur*.
 
 #### Warum ist der Unterschied zwischen Wahrheit und Wahrscheinlichkeit so wichtig?
 
-KI-Systeme sind darauf optimiert, auszugeben, was am wahrscheinlichsten gut ankommt. Mühlhoffs Beispiel ist ein Klappentext für sein Buch: Es gibt keinen *wahren* Klappentext, nur einen, der besser oder schlechter ankommt. ChatGPT werde über Nutzerfeedback nachtrainiert und lerne so, Antworten zu geben, die Zustimmung bringen. Wahrheit ist dabei kein Kriterium.
+KI-Systeme sind darauf optimiert, auszugeben, was am wahrscheinlichsten gut ankommt. Mühlhoffs Beispiel ist ein Klappentext für sein Buch: Es gibt keinen *wahren* Klappentext, nur einen, der besser oder schlechter ankommt. ChatGPT werde über Nutzerfeedback nachtrainiert und lerne so, Antworten zu geben, die Zustimmung bringen. Wahrheit kommt in dieser Rechnung nicht vor.
 
 #### Was ist mit KI in der Medizin?
 
 Eine Chat-Frage: In der Diagnostik kann KI doch Leben schützen, etwa bei suizidalen Menschen.
 
-Mühlhoff antwortet „ja und nein". In der ärztlichen Diagnostik sei das vielversprechend. Aber dasselbe Modell wandert weiter, zur Versicherung, die es vor dem Vertragsabschluss laufen lässt, oder zum Arbeitgeber im Bewerbungsgespräch. Klassisches *Function Creep*: Ein System wird für einen harmlosen Zweck gebaut und landet in Anwendungen, die meist große Gruppen ohne Stimme treffen.
+Mühlhoff antwortet „ja und nein". In der ärztlichen Diagnostik sei das vielversprechend. Aber das Modell bleibt nicht beim Arzt. Es wandert weiter, zur Versicherung, die es vor dem Vertragsabschluss laufen lässt, oder zum Arbeitgeber im Bewerbungsgespräch. Klassisches *Function Creep*: Ein System wird für einen harmlosen Zweck gebaut und landet in Anwendungen, die meist große Gruppen ohne Stimme treffen.
 
 > *„… die größere Frage ist: Auf welche Bevölkerungsgruppen wird so ein System angewendet werden?"* [▶ 3:10:51](https://www.youtube.com/watch?v=DY_LgqIh40k&t=11451)
 
@@ -307,19 +314,19 @@ Mühlhoffs Antwort überrascht:
 
 > *„Das kann ich nicht sagen. Es tut mir leid. […] weil es ist mir egal."* [▶ 3:22:59](https://www.youtube.com/watch?v=DY_LgqIh40k&t=12179)
 
-Seine Wissenschaft fragt nicht, was KI *wirklich* kann, sondern was über KI behauptet wird und welche Macht diese Behauptung entfaltet. Sein Beispiel: KI-Werkzeuge für den Unterricht, auf die die Hälfte der Bundesländer Zugriff hat, darunter solche, die Aufsätze benoten. Sein Team hat eines davon untersucht, das Fobizz-Tool:
+Seine Wissenschaft fängt bei der Behauptung an: was über KI behauptet wird und welche Macht diese Behauptung entfaltet, gleich, was KI *wirklich* kann. Sein Beispiel: KI-Werkzeuge für den Unterricht, auf die die Hälfte der Bundesländer Zugriff hat, darunter solche, die Aufsätze benoten. Sein Team hat eines davon untersucht, das Fobizz-Tool:
 
 > *„… nur die Texte, die die Schülerinnen mithilfe von ChatGPT [schreiben], die werden bestbewertet. […] Du schaffst es nicht, eine Bestbewertung mit einem menschlich geschriebenen Text zu kriegen."* [▶ 3:24:29](https://www.youtube.com/watch?v=DY_LgqIh40k&t=12269)
 
-Ob die KI wirklich benoten kann, sei zweitrangig. Sie wird damit verkauft, und dadurch verändert sich, was Benoten überhaupt heißt.
+Ob die KI wirklich benoten kann, sei zweitrangig. Sie wird dafür verkauft, und schon das verändert, was Benoten heißt.
 
 #### Klickarbeit im globalen Süden — der unsichtbare Unterbau
 
-Hans Jessen verweist auf das Buchkapitel zur Klickarbeit: Hinter den großen Modellen stehen Menschen, die Daten labeln. Mühlhoff weitet das auf die *Content Moderation* aus: Die KI sortiert das Eindeutige aus, sie sei „so 80 % genau"; die Grenzfälle, Gewalt, Pornografie, Mord, Krieg, gehen an menschliche Moderator:innen, oft im globalen Süden.
+Hans Jessen verweist auf das Buchkapitel zur Klickarbeit: Hinter den großen Modellen stehen Menschen, die Daten labeln. Mühlhoff weitet das auf die *Content Moderation* aus: Die KI sortiert das Eindeutige aus, sie sei „so 80 % genau"; die Grenzfälle, Gewalt, Pornografie, Mord, Krieg, gehen an menschliche Moderator:innen, oft im globalen Süden. Was die Maschine nicht entscheiden kann, muss ein Mensch ansehen.
 
 > *„Diese Menschen haben nach drei Monaten posttraumatische Belastungsstörung. Aber in den Sozialsystemen der Länder, wo das gemacht wird, kann man das einfach mit den Leuten machen."* [▶ 3:30:33](https://www.youtube.com/watch?v=DY_LgqIh40k&t=12633)
 
-Die Forschung dazu nennt er bei Sarah Roberts. Hans Jessen erinnert an die Kinder auf afrikanischen Müllhalden, die Kupfer aus Kabeln brennen; Mühlhoff stimmt zu: eine Ausbeutung, die in westlichen Industrieländern rechtlich undenkbar wäre.
+Für die Forschung dazu verweist er auf Sarah Roberts. Hans Jessen erinnert an die Kinder auf afrikanischen Müllhalden, die Kupfer aus Kabeln brennen; Mühlhoff stimmt zu: eine Ausbeutung, die in westlichen Industrieländern rechtlich undenkbar wäre.
 
 #### Wo kann man Geisteswissenschaft und KI-Kritik studieren?
 
@@ -346,7 +353,7 @@ Dazu der *Automation Bias*: Menschen vertrauen einer Computerentscheidung eher a
 
 #### Brauchen wir KI nicht zur Komplexitätsbewältigung?
 
-Mühlhoffs Antwort: ein Kurzschluss. Sein Beispiel: Nach dem Start von ChatGPT (Ende 2022) seien Software-Entwickler:innen entlassen worden, und jetzt würden sie wieder eingestellt, weil die KI so viel „AI-Slop" produziert habe, dass Menschen aufräumen müssten *(dafür gibt es keinen belastbaren Beleg → [[#Faktencheck|Faktencheck]])*.
+Ein Kurzschluss, antwortet Mühlhoff, und nennt ein Beispiel: Nach dem Start von ChatGPT (Ende 2022) seien Software-Entwickler:innen entlassen worden, und jetzt würden sie wieder eingestellt, weil die KI so viel „AI-Slop" produziert habe, dass Menschen aufräumen müssten *(dafür gibt es keinen belastbaren Beleg → [[#Faktencheck|Faktencheck]])*.
 
 Hans Jessen denkt an Goethes *Zauberlehrling* (1797), in dem am Ende der Meister zurückkehrt und aufräumt. Mühlhoff wendet das auf die Macht: Gefährlich werde es, wenn eine Industrie staatliche Funktionen übernimmt und unersetzlich wird, „da ist das Monster, was entstehen kann, die Multiplizierung von Macht und Schadpotential" (▶ 3:43:31).
 
@@ -357,13 +364,13 @@ Eine wohlwollende Frage. Mühlhoff fragt zurück, für welchen Anwendungsfall, u
 1. Dafür reiche eine Suchmaschine; bei Sprachmodellen seien Halluzinationsrisiko und Ressourcenverbrauch zu hoch.
 2. Wird es *systematisch* — wollt ihr OpenAI wirklich zum Betriebssystem aller Elterninitiativen machen?
 
-Die Pointe: Man kann diese KI nicht getrennt von dem Unternehmen besprechen, bei dem man sie kauft.
+Man kann diese KI nicht getrennt von dem Unternehmen besprechen, bei dem man sie kauft. Wer das Werkzeug wählt, wählt den Lieferanten mit.
 
 #### Welche KI nutzt du selbst?
 
-Seine Antwort an Hans: **Spracherkennung** auf dem Smartphone, weil er Bildschirmtastaturen nicht mag und anderen keine Sprachnachrichten zumuten will. „Übrigens kann das Ding nach acht Jahren immer noch nicht die Namen meiner Kinder in der richtigen Rechtschreibung." Im ersten Teil hatte er Tilo Jung mehr erzählt: Er nutze große Sprachmodelle für die Grammatik fremdsprachiger Texte und zum Kürzen von Absätzen, „ich nutze jeden Tag KI" (▶ 2:52:34).
+Seine Antwort an Hans Jessen: **Spracherkennung** auf dem Smartphone, weil er Bildschirmtastaturen nicht mag und anderen keine Sprachnachrichten zumuten will. „Übrigens kann das Ding nach acht Jahren immer noch nicht die Namen meiner Kinder in der richtigen Rechtschreibung." Im ersten Teil hatte er Tilo Jung mehr erzählt: Er nutze große Sprachmodelle für die Grammatik fremdsprachiger Texte und zum Kürzen von Absätzen, „ich nutze jeden Tag KI" (▶ 2:52:34).
 
-Sein Prinzip: KI als *Werkzeug* zu benutzen, mit klarem Zweck und geprüfter Eignung, ist legitim. Etwas anderes ist es, als Gesellschaft in eine schleichende Abhängigkeit zu rutschen.
+Sein Prinzip: KI als *Werkzeug* zu benutzen, mit klarem Zweck und geprüfter Eignung, ist legitim. Etwas anderes ist es, wenn eine Gesellschaft schleichend in Abhängigkeit rutscht.
 
 #### Werden Wahlen durch KI manipuliert?
 
@@ -400,13 +407,13 @@ Hans Jessen schließt mit dem Satz aus den Debatten um das Grundgesetz: **„Kei
 
 ### Entscheidet meine Einwilligung über dich mit?
 
-Mühlhoffs Gedankenexperiment, zehn Prozent geben etwas preis und das Modell gilt für alle, ist mehr als ein Gedankenexperiment. Schon 2017 ließ sich an einem verschwundenen sozialen Netzwerk zeigen, dass die hochgeladenen Kontaktlisten der Mitglieder die sexuelle Orientierung und den Beziehungsstatus von Menschen vorhersagten, die nie Mitglied waren, und zwar umso besser, je größer das Netz wurde und je mehr die Mitglieder preisgaben ([García 2017, doi:10.1126/sciadv.1701172](https://doi.org/10.1126/sciadv.1701172)). Auf Twitter erreichte man 95 Prozent der möglichen Vorhersagegenauigkeit über eine Person allein aus den Beiträgen von acht oder neun ihrer Kontakte, auch wenn sie selbst die Plattform verlassen hatte ([Bagrow, Liu & Mitchell 2019, doi:10.1038/s41562-018-0510-5](https://doi.org/10.1038/s41562-018-0510-5)). Die Ökonomie hat dafür ein Modell: Wer teilt, verrät auch andere, und weil diese Kosten niemand trägt, sind Daten zu billig und werden zu viele geteilt; Wettbewerb ändert daran nichts ([Acemoglu, Makhdoumi, Malekian & Ozdaglar 2022, doi:10.1257/mic.20200200](https://doi.org/10.1257/mic.20200200), Theorie).
+Mühlhoffs Gedankenexperiment, zehn Prozent geben etwas preis und das Modell gilt für alle, ist längst gemessen worden. Schon 2017 ließ sich an einem verschwundenen sozialen Netzwerk zeigen, dass die hochgeladenen Kontaktlisten der Mitglieder die sexuelle Orientierung und den Beziehungsstatus von Menschen vorhersagten, die nie Mitglied waren, und zwar umso besser, je größer das Netz wurde und je mehr die Mitglieder preisgaben ([García 2017, doi:10.1126/sciadv.1701172](https://doi.org/10.1126/sciadv.1701172)). Auf Twitter erreichte man 95 Prozent der möglichen Vorhersagegenauigkeit über eine Person allein aus den Beiträgen von acht oder neun ihrer Kontakte, auch wenn sie selbst die Plattform verlassen hatte ([Bagrow, Liu & Mitchell 2019, doi:10.1038/s41562-018-0510-5](https://doi.org/10.1038/s41562-018-0510-5)). Die Ökonomie hat dafür ein Modell: Wer teilt, verrät auch andere, und weil diese Kosten niemand trägt, sind Daten zu billig und werden zu viele geteilt; Wettbewerb ändert daran nichts ([Acemoglu, Makhdoumi, Malekian & Ozdaglar 2022, doi:10.1257/mic.20200200](https://doi.org/10.1257/mic.20200200), Theorie).
 
 Mühlhoff hat den Gedanken selbst ausgearbeitet: Datenschutz sei „a collective matter" ([Mühlhoff 2021, doi:10.1007/s10676-021-09606-x](https://doi.org/10.1007/s10676-021-09606-x)), Vorhersagen über Dritte aus anonymen Massendaten lägen im EU-Recht „in a largely unregulated space" ([Mühlhoff 2023, doi:10.1177/20539517231166886](https://doi.org/10.1177/20539517231166886)). Mit Hannah Ruschemeier schlägt er vor, die Zweckbindung vom Datensatz auf das trainierte Modell zu verlegen: Wer trainiert, legt den Zweck fest, und das Modell darf nur dafür benutzt werden ([Mühlhoff & Ruschemeier 2025, doi:10.1093/ijlit/eaaf003](https://doi.org/10.1093/ijlit/eaaf003)). Die Philosophie kennt die Frage als Gruppenprivatsphäre: Gruppen, die erst ein Algorithmus bildet, haben ein eigenes Interesse, nicht durchleuchtet zu werden ([Mittelstadt 2017, doi:10.1007/s13347-017-0253-7](https://doi.org/10.1007/s13347-017-0253-7)).
 
 Das Recht ist halb so weit. Der Europäische Gerichtshof entschied 2022, dass auch *erschlossene* sensible Daten geschützt sind, etwa die sexuelle Orientierung, die sich aus dem Namen des Partners ergibt; das gilt aber nur für eine identifizierte Person, nicht für das Modell, das solche Schlüsse auf alle anwendet ([EuGH C-184/20](https://curia.europa.eu/juris/document/document.jsf?docid=263721&doclang=EN), Rn. 120–128). Der Europäische Datenschutzausschuss hält ein KI-Modell für anonym, wenn sich seine Trainingspersonen kaum noch identifizieren lassen; was das Modell über *andere* vorhersagt, prüft dieser Test nicht ([EDPB Opinion 28/2024](https://www.edpb.europa.eu/news/news/2024/edpb-opinion-ai-models-gdpr-principles-support-responsible-ai_en)). Die KI-Verordnung führt Mühlhoffs beide Beispiele, die Auswahl von Bewerbern und die Risikobewertung in Kranken- und Lebensversicherungen, als Hochrisiko-Anwendungen: erlaubt, mit Auflagen ([Anhang III](https://artificialintelligenceact.eu/annex/3/)). Und der Vorschlag der Kommission für einen digitalen Omnibus von 2025 würde den Begriff der personenbezogenen Daten eher verengen; Datenschutzausschuss und Datenschutzbeauftragter drängen ausdrücklich, das nicht zu übernehmen ([EDPB-EDPS Joint Opinion 2/2026](https://www.edpb.europa.eu/system/files/documents/2026-02/edpb_edps_jointopinion_202602_digitalomnibus_en.pdf)). Das Recht bewegt sich gerade von ihm weg.
 
-Die Gegenstimme kommt aus der Erfahrung mit der DSGVO. Nach ihrem Inkrafttreten nutzten Websites 15 Prozent weniger Fremdanbieter, und die Marktkonzentration stieg um 17 Prozent, zugunsten von Google und Facebook ([Johnson, Shriver & Goldberg 2023, doi:10.1287/mnsc.2023.4709](https://doi.org/10.1287/mnsc.2023.4709), über 27.000 Websites). Regulierung kann also auch den Großen nützen, nicht nur Deregulierung. Im Bestand sagt Nicole Büttner dasselbe zugespitzt: „Wir haben das Ziel verfehlt … Wir haben Cookies" ([[Buettner und Kaufmann — KI-Souveraenitaet in Europa#Regulation DSGVO & EU AI Act — das Ziel verfehlt|Büttner]]). Constanze Kurz erinnert daran, dass neues Wissen aus vorhandenen Daten schon ein eigener Grundrechtseingriff ist ([[Constanze Kurz — Palantir als Tueroeffner#Zweckbindung — ein Prinzip aus den Achtzigern|Kurz]]), und Barbara Prainsack will Datennutzung erleichtern, wo der öffentliche Wert hoch ist, und verbieten, wo Schäden bekannt sind ([[Barbara Prainsack — Solidaritaet NEU DENKEN#Drei Felder Klima, Wirtschaft, Daten|Prainsack]]).
+Die Gegenstimme kommt aus der Erfahrung mit der DSGVO. Nach ihrem Inkrafttreten nutzten Websites 15 Prozent weniger Fremdanbieter, und die Marktkonzentration stieg um 17 Prozent, zugunsten von Google und Facebook ([Johnson, Shriver & Goldberg 2023, doi:10.1287/mnsc.2023.4709](https://doi.org/10.1287/mnsc.2023.4709), über 27.000 Websites). Den Großen nützt also nicht nur die Deregulierung. Auch Regulierung kann es. Im Bestand sagt Nicole Büttner dasselbe zugespitzt: „Wir haben das Ziel verfehlt … Wir haben Cookies" ([[Buettner und Kaufmann — KI-Souveraenitaet in Europa#Regulation DSGVO & EU AI Act — das Ziel verfehlt|Büttner]]). Constanze Kurz erinnert daran, dass neues Wissen aus vorhandenen Daten schon ein eigener Grundrechtseingriff ist ([[Constanze Kurz — Palantir als Tueroeffner#Zweckbindung — ein Prinzip aus den Achtzigern|Kurz]]), und Barbara Prainsack will Datennutzung erleichtern, wo der öffentliche Wert hoch ist, und verbieten, wo Schäden bekannt sind ([[Barbara Prainsack — Solidaritaet NEU DENKEN#Drei Felder Klima, Wirtschaft, Daten|Prainsack]]).
 
 → Weiter im Panorama: **[[Panorama/Wie viel Ueberwachung vertraegt die Freiheit#Was macht es mit Menschen, beobachtet zu werden?|Was macht es mit Menschen, beobachtet zu werden?]]**, mit Constanze Kurz und Franziska Görlitz.
 
@@ -414,9 +421,9 @@ Die Gegenstimme kommt aus der Erfahrung mit der DSGVO. Nach ihrem Inkrafttreten 
 
 Mühlhoff liest Bostroms Rechnung als Freibrief: Wenn jede Sekunde Verzögerung Billionen künftiger Leben kostet, ist Regulierung unvertretbar. Schaut man, was die longtermistisch geprägten Gruppen tatsächlich tun, ergibt sich zunächst ein anderes Bild. Der offene Brief des Future of Life Institute forderte im März 2023 eine Pause von „at least 6 months" und notfalls ein staatliches Moratorium ([FLI](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)). Das kalifornische Gesetz SB 1047, das große Modelle strengen Sicherheitspflichten unterwerfen sollte, wurde unter anderem vom Center for AI Safety Action Fund getragen ([Senator Wiener](https://sd11.senate.ca.gov/news/bipartisan-vote-senate-passes-senator-wieners-landmark-ai-safety-and-innovation-bill)); Gouverneur Newsom legte im September 2024 sein Veto ein, weil es Innovation bremsen könne ([Veto-Botschaft](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf)). Die Rechenfigur der verhinderten Leben gegen Regulierung findet man dagegen bei Marc Andreessen, der jede Verlangsamung der KI „a form of murder" nennt und den Longtermismus samt „existential risk" ausdrücklich zum Feind erklärt ([Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)).
 
-Ganz falsch liegt Mühlhoff trotzdem nicht, und an zwei Stellen trifft er etwas. Bostrom selbst empfiehlt für eine Ethik, die vor allem den heute Lebenden verpflichtet ist, Tempo, und in einem Arbeitspapier von 2026 hält er aus dieser Sicht selbst hohe Katastrophenrisiken oft für „worth accepting" (→ [[#Faktencheck|Faktencheck]]). Und die Kritik zielt weniger auf *ob* als auf *welche* Regulierung. Eine philosophische Analyse findet, dass der Blick auf existenzielle Risiken zu unattraktiven politischen Positionen führt, bei Toby Ord zu einer elitären „grand strategy", bei William MacAskill zu einem „crude libertarianism" ([McLaughlin 2025, doi:10.1111/rati.12449](https://doi.org/10.1111/rati.12449)). Timnit Gebru und Émile Torres sehen in der Sprache der Sicherheit ein Mittel, „to evade accountability" für heutige Schäden ([Gebru & Torres 2024, doi:10.5210/fm.v29i4.13636](https://doi.org/10.5210/fm.v29i4.13636), polemisch-theoretisch). Eine qualitative Studie beschreibt eine „AI safety epistemic community", die über Industrie, Wissenschaft und Politik verteilt die Debatte prägt ([Ahmed et al. 2024, doi:10.5210/fm.v29i4.13626](https://doi.org/10.5210/fm.v29i4.13626)), und ein Editorial in *Science* hält ihre technische Agenda für zu eng, während dieselben Firmen ihre Teams für Vertrauen und Sicherheit abbauen ([Lazar & Nelson 2023, doi:10.1126/science.adi8982](https://doi.org/10.1126/science.adi8982)).
+Ganz falsch liegt Mühlhoff trotzdem nicht. An zwei Stellen trifft er. Bostrom selbst empfiehlt für eine Ethik, die vor allem den heute Lebenden verpflichtet ist, Tempo, und in einem Arbeitspapier von 2026 hält er aus dieser Sicht selbst hohe Katastrophenrisiken oft für „worth accepting" (→ [[#Faktencheck|Faktencheck]]). Und die Kritik zielt weniger auf *ob* als auf *welche* Regulierung. Eine philosophische Analyse findet, dass der Blick auf existenzielle Risiken zu unattraktiven politischen Positionen führt, bei Toby Ord zu einer elitären „grand strategy", bei William MacAskill zu einem „crude libertarianism" ([McLaughlin 2025, doi:10.1111/rati.12449](https://doi.org/10.1111/rati.12449)). Timnit Gebru und Émile Torres sehen in der Sprache der Sicherheit ein Mittel, „to evade accountability" für heutige Schäden ([Gebru & Torres 2024, doi:10.5210/fm.v29i4.13636](https://doi.org/10.5210/fm.v29i4.13636), polemisch-theoretisch). Eine qualitative Studie beschreibt eine „AI safety epistemic community", die über Industrie, Wissenschaft und Politik verteilt die Debatte prägt ([Ahmed et al. 2024, doi:10.5210/fm.v29i4.13626](https://doi.org/10.5210/fm.v29i4.13626)), und ein Editorial in *Science* hält ihre technische Agenda für zu eng, während dieselben Firmen ihre Teams für Vertrauen und Sicherheit abbauen ([Lazar & Nelson 2023, doi:10.1126/science.adi8982](https://doi.org/10.1126/science.adi8982)).
 
-So gelesen ist der Longtermismus kein Argument gegen Regulierung, sondern eines, das sie verschiebt: weg von Bewerbungsfiltern, Benotung und Polizeisoftware, hin zu Modellen, die es noch nicht gibt. Genau das sagt Anna-Verena Nosthoff im Bestand: hypothetische Risiken vor realen, „dadurch keine Regulierung bestehender Technologien" ([[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)#Tech-Eliten als autoritäre Kybernetes|Nosthoff]]). Carlotta Voß trennt, was Mühlhoff zusammenzieht, den effektiven Altruismus mit seinem Fokus auf KI-Risiken und den Akzelerationismus, der jede Regulierung wegnehmen will ([[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA#Marc Andreessen das Manifest als Glaubensbekenntnis|Voß]]). Alena Buyx steigt aus der Zählung ganz aus, „krude[r] Utilitarismus" ([[Alena Buyx — Gesellschaft NEU DENKEN#Longtermism, oder der krude Utilitarismus|Buyx]]), und Neitzel und Iltisberger zeigen, wie selbst Untergangswarnungen als Werbung wirken ([[Neitzel und Iltisberger — Hype Is a System#Der Skynet-Effekt Wenn Kritik selbst zum Hype wird|Neitzel & Iltisberger]]).
+So gelesen verhindert der Longtermismus die Regulierung nicht, er verschiebt sie: weg von Bewerbungsfiltern, Benotung und Polizeisoftware, hin zu Modellen, die es noch nicht gibt. Genau das sagt Anna-Verena Nosthoff im Bestand: hypothetische Risiken vor realen, „dadurch keine Regulierung bestehender Technologien" ([[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)#Tech-Eliten als autoritäre Kybernetes|Nosthoff]]). Carlotta Voß trennt, was Mühlhoff zusammenzieht, den effektiven Altruismus mit seinem Fokus auf KI-Risiken und den Akzelerationismus, der jede Regulierung wegnehmen will ([[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA#Marc Andreessen das Manifest als Glaubensbekenntnis|Voß]]). Alena Buyx steigt aus der Zählung ganz aus, „krude[r] Utilitarismus" ([[Alena Buyx — Gesellschaft NEU DENKEN#Longtermism, oder der krude Utilitarismus|Buyx]]), und Neitzel und Iltisberger zeigen, wie selbst Untergangswarnungen als Werbung wirken ([[Neitzel und Iltisberger — Hype Is a System#Der Skynet-Effekt Wenn Kritik selbst zum Hype wird|Neitzel & Iltisberger]]).
 
 → Weiter in der Spur: **[[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]**.
 
@@ -469,7 +476,8 @@ So gelesen ist der Longtermismus kein Argument gegen Regulierung, sondern eines,
 
 - [rainermuehlhoff.de](https://rainermuehlhoff.de) — Publikationsliste und aktuelle Beiträge
 - Rainer Mühlhoff: *Predictive privacy* (2021), [doi:10.1007/s10676-021-09606-x](https://doi.org/10.1007/s10676-021-09606-x) — der Aufsatz zur prädiktiven Privatheit
-- Rainer Mühlhoff & Hannah Ruschemeier (2024), [doi:10.1080/17579961.2024.2313794](https://doi.org/10.1080/17579961.2024.2313794) — der regulatorische Vorschlag: Zweckbindung für trainierte Modelle
+- Rainer Mühlhoff & Hannah Ruschemeier (2024), [doi:10.1080/17579961.2024.2313794](https://doi.org/10.1080/17579961.2024.2313794) — *predictive privacy* als kollektives Schutzgut, Vorhersagemacht als Lücke im EU-Recht
+- Rainer Mühlhoff & Hannah Ruschemeier (2025), [doi:10.1093/ijlit/eaaf003](https://doi.org/10.1093/ijlit/eaaf003) — der regulatorische Vorschlag: Zweckbindung für trainierte Modelle
 
 ---
 

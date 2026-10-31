@@ -2,6 +2,13 @@
 title: Heiner Flassbeck — Krise und Rechtsruck
 description: "Es gibt kein Sparen ohne Schulden. Heiner Flassbeck fragt, wer sie macht – und sieht in Deutschlands Lohnpolitik einen Grund für den Rechtsruck bei den Nachbarn."
 raetsel: "Auf dem Mars wohnt leider niemand, der uns etwas schulden könnte."
+stimme:
+  - wer: Kurt Tucholsky
+    art: stimme
+    umfang: ganz, außer Faktencheck und Quellen
+    am: 2026-10-31
+    geliehen: "kurze Sätze, die eine Rechnung zu Ende führen, und wenige trockene Pointen dort, wo die Logik selbst schon komisch ist (der vergebene Posten des Gläubigers, Tugend statt Buchung, „Leichtsinn?“)"
+    warum: "Tucholskys „Kurzer Abriss der Nationalökonomie“ erklärt Wirtschaft so, dass man lacht und dabei versteht; Flassbeck redet selbst schon sarkastisch, die Stimme muss das nur tragen, nicht übertrumpfen."
 aktualisiert: 2026-10-31
 date: 2024-08-01
 tags:
@@ -28,8 +35,17 @@ aliases:
 
 </details>
 
+<details><summary>✒️</summary>
+
+Ganz, außer Faktencheck und Quellen: **Angelehnt an Kurt Tucholsky** — ein Versuch in dieser Tonlage. Geliehen: kurze Sätze, die eine Rechnung zu Ende führen, und wenige trockene Pointen dort, wo die Logik selbst schon komisch ist (der vergebene Posten des Gläubigers, Tugend statt Buchung, „Leichtsinn?“). Tucholskys „Kurzer Abriss der Nationalökonomie“ erklärt Wirtschaft so, dass man lacht und dabei versteht; Flassbeck redet selbst schon sarkastisch, die Stimme muss das nur tragen, nicht übertrumpfen.
+*Erzählstimme gewählt am 31.10.2026.*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Heiner Flassbeck, die Erzählstimme ist unsere.
+
+</details>
+
 > [!abstract] Worum es geht
-> Es gibt kein Sparen ohne Schulden: Was die einen zurücklegen, müssen andere als Kredit aufnehmen. Heiner Flassbeck macht aus diesem Buchhaltungssatz eine Anklage. Weil Deutschland seine Löhne Anfang der 2000er zu wenig erhöht hat, machen heute die Nachbarn die Schulden, die wir ihnen dann vorwerfen. Und die Wähler in Frankreich und Italien merken das. Wir sehen hier einen Vortrag aus dem Juni 2024, kommentiert von Maurice Höfgen, und trennen, wer was sagt.
+> Es gibt kein Sparen ohne Schulden: Was die einen zurücklegen, müssen andere als Kredit aufnehmen. Heiner Flassbeck macht aus diesem Buchhaltungssatz eine Anklage. Deutschland hat seine Löhne Anfang der 2000er zu wenig erhöht, darum machen heute die Nachbarn die Schulden – und bekommen sie von uns vorgeworfen. Die Wähler in Frankreich und Italien merken das. Ein Vortrag aus dem Juni 2024, kommentiert von Maurice Höfgen; wer was sagt, ist getrennt.
 
 Quelle: Vortrag „Europa wohin?" bei der SPD-AG60 Remscheid (Juni 2024, [Original](https://www.youtube.com/watch?v=IfYXpUZqbDI)), als Reaktionsvideo kommentiert von Maurice Höfgen ([Geld für die Welt, 01.08.2024](https://www.youtube.com/watch?v=kvTDLgNeGMQ)). Die Zeitmarken beziehen sich auf das Reaktionsvideo; etwa zwei Fünftel davon sind Höfgens Kommentar.
 
@@ -58,14 +74,14 @@ Flassbeck beginnt mit einem Satz, den „jeder kluge Politiker ungefähr jeden T
 
 > *„Es gibt kein Sparen ohne Schulden. Es gilt auch umgekehrt, es gibt keine Schulden ohne Sparen."*
 
-Alle können nicht gleichzeitig sparen. Selbst die Welt als Ganzes kann es nicht: „Auf dem Mars oder Venus ist leider niemand, den wir zum Schuldner machen können." Was die einen netto sparen, nehmen andere netto als Kredit auf, auf den Euro genau; die Finanzierungssalden aller Sektoren, das Ausland eingeschlossen, summieren sich zu null. Wer sagt, „wir machen einfach mal keine Schulden", sagt für Flassbeck „einfach dummes Zeug", denn dann dürfte auch niemand mehr sparen.
+Sparen können nie alle zugleich. Nicht einmal die Welt als Ganzes kann es: „Auf dem Mars oder Venus ist leider niemand, den wir zum Schuldner machen können." Was die einen netto sparen, nehmen andere netto als Kredit auf, auf den Euro genau; die Finanzierungssalden aller Sektoren, das Ausland eingeschlossen, summieren sich zu null. Wer verkündet, „wir machen einfach mal keine Schulden", redet für Flassbeck „einfach dummes Zeug". Denn dann dürfte auch niemand mehr sparen.
 
-Höfgen erklärt es im Kommentar mit dem Brötchen beim Bäcker: Die Ausgaben des einen sind die Einnahmen eines anderen (▶ 22:07).
+Höfgen braucht dafür im Kommentar nur ein Brötchen beim Bäcker: Die Ausgaben des einen sind die Einnahmen eines anderen (▶ 22:07).
 
-Flassbeck besteht darauf, dass das „keine ökonomische Theorie" sei, sondern „gesamtwirtschaftliche Buchhaltung" (▶ 38:52). Das stimmt für die Identität selbst. Theorie beginnt bei der Frage, welcher Sektor sich anpasst, wenn alle sparen wollen, und dort setzen seine Kritiker an.
+Das sei „keine ökonomische Theorie", besteht Flassbeck, sondern „gesamtwirtschaftliche Buchhaltung" (▶ 38:52). Für die Identität selbst stimmt das. Die Theorie beginnt eine Frage später: Welcher Sektor passt sich an, wenn alle sparen wollen? Dort setzen seine Kritiker an.
 
 > [!note] Der Witz des Talkshow-Arguments
-> Höfgen malt es sich aus: Fiele bei Maybrit Illner der Satz *„Es gibt kein Sparen ohne Schulden"*, würde die Moderatorin auf ihren Zettel schauen, nächste Frage (▶ 24:06).
+> Höfgen malt es sich aus: Fiele bei Maybrit Illner der Satz *„Es gibt kein Sparen ohne Schulden"*, würde die Moderatorin auf ihren Zettel schauen. Nächste Frage (▶ 24:06).
 
 ---
 
@@ -73,13 +89,13 @@ Flassbeck besteht darauf, dass das „keine ökonomische Theorie" sei, sondern �
 
 [▶ 16:37](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=997)
 
-**Lohnstückkosten** sind die Löhne im Verhältnis zur Produktivität. Steigen die Löhne um 5 Prozent und die Produktivität um 2, steigen die Lohnstückkosten um 3 Prozent. Diese Zahl erklärt für Flassbeck die Inflation über lange Fristen „viel besser als irgendetwas anderes"; Höfgen ergänzt, es sei ein „quasi linearer Zusammenhang".
+**Lohnstückkosten** sind die Löhne im Verhältnis zur Produktivität, mehr nicht. Steigen die Löhne um 5 Prozent und die Produktivität um 2, steigen die Lohnstückkosten um 3 Prozent. Diese eine Zahl erklärt für Flassbeck die Inflation über lange Fristen „viel besser als irgendetwas anderes"; Höfgen ergänzt, es sei ein „quasi linearer Zusammenhang".
 
-Daraus folgt eine Regel für eine Währungsunion mit 2 Prozent Inflationsziel: Jedes Land muss seine Löhne um seine Produktivität plus 2 Prozent erhöhen. Und dann zeigt er die Kurven der ersten zehn Jahre des Euro:
+Für eine Währungsunion mit 2 Prozent Inflationsziel folgt daraus eine Regel: Jedes Land muss seine Löhne um seine Produktivität plus 2 Prozent erhöhen. Dann zeigt Flassbeck die Kurven der ersten zehn Jahre des Euro:
 
-> *„Ein einziges Land liegt auf der Linie, nämlich das heißt Frankreich, bis heute."* [▶ 19:15](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=1155)
+> *„Ein einziges Land liegt auf der Linie, nämlich das heißt Frankreich."* [▶ 19:15](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=1155)
 
-Italien, Spanien und Griechenland lagen darüber; denen hat man in der Krise Lohnsenkungen auferlegt, den Griechen um 30 Prozent. Über das Land, das darunter lag, rede niemand:
+Italien, Spanien und Griechenland lagen darüber. Ihnen hat man in der Krise Lohnsenkungen auferlegt, den Griechen um 30 Prozent. Über das Land, das darunter lag, rede niemand:
 
 > *„Der, der drunter geht, macht den gleichen Fehler wie der, der drüber geht, mindestens so schlimm."* [▶ 19:53](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=1193)
 
@@ -91,7 +107,7 @@ Das Land darunter ist Deutschland.
 
 [▶ 29:05](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=1745)
 
-Bis etwa 1975 war die Welt, die die meisten Ökonomen kennen, so geordnet: Die privaten Haushalte sparten, die Unternehmen verschuldeten sich, um zu investieren. Seit 2000 hat sich das in Deutschland umgedreht:
+Bis etwa 1975 war die Welt, wie die meisten Ökonomen sie kennen, ordentlich eingerichtet: Die privaten Haushalte sparten, die Unternehmen verschuldeten sich, um zu investieren. Seit 2000 steht sie in Deutschland auf dem Kopf:
 
 > *„Jetzt haben wir Unternehmen, die sind Sparer geworden. […] Und das bedeutet, da muss jemand anders der Schuldner sein."*
 
@@ -102,7 +118,7 @@ Bis etwa 1975 war die Welt, die die meisten Ökonomen kennen, so geordnet: Die p
 | **Staat** | Neutral | Sparer 2014–2019 (Schwarze Null), seit 2020 wieder im Defizit |
 | **Ausland** | Neutral | **Schuldner** (deutscher Leistungsbilanzüberschuss) |
 
-Deutschland hat dafür „eine geniale Lösung gefunden": Die anderen sind die Schuldner. Den Grund nennt er ohne Umschweife:
+Deutschland hat dafür „eine geniale Lösung gefunden": Schuldner sind die anderen. Warum, sagt Flassbeck ohne Umschweife:
 
 > *„Wir haben den Leistungsbilanzüberschuss, weil wir die Löhne nicht erhöht haben Anfang der 2000er Jahre. […] Weil wir gegen die Regeln der Europäischen Währungsunion verstoßen haben, haben wir einen Leistungsbilanzüberschuss, deswegen machen die anderen Schulden."* [▶ 31:01](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=1861)
 
@@ -110,10 +126,10 @@ Und die Pointe:
 
 > *„Wir brauchen sie als Schuldner, beschimpfen sie dafür, dass sie Schulden machen – das ist doch genial."* [▶ 32:14](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=1934)
 
-Höfgen fasst im Kommentar zusammen, was Flassbeck im Vortrag nicht ausbuchstabiert: Unter Gerhard Schröder folgte ab 2003 die Agenda 2010, mit Hartz-Reformen und Niedriglohnsektor, und über zehn Jahre seien deutsche Produkte rund 20 Prozent günstiger geworden als französische, 30 Prozent als italienische, 35 Prozent als griechische (▶ 32:28). Frankreichs und Italiens Industrie habe Deutschland „niederkonkurriert".
+Was Flassbeck im Vortrag nicht ausbuchstabiert, buchstabiert Höfgen im Kommentar: Unter Gerhard Schröder folgte ab 2003 die Agenda 2010, mit Hartz-Reformen und Niedriglohnsektor, und über zehn Jahre seien deutsche Produkte rund 20 Prozent günstiger geworden als französische, 30 Prozent als italienische, 35 Prozent als griechische (▶ 32:28). Frankreichs und Italiens Industrie habe Deutschland „niederkonkurriert".
 
 > [!note] Eigene Einschätzung — Lohnzurückhaltung als Abwertung
-> Für Flassbeck war die deutsche Lohnzurückhaltung kein Reformerfolg, sondern ein Verstoß gegen die Logik einer Währungsunion: In einer Gemeinschaftswährung wirkt sie wie eine Abwertung, gegen die sich die Partner nicht wehren können. Eine geschriebene Lohnregel gab es allerdings nie, und die Leistungsbilanz-Schwellen des EU-Ungleichgewichtsverfahrens kamen erst 2011. Wie viel die Lohnmoderation zu den Ungleichgewichten beitrug, ist in der Forschung umstritten: Sie begann vor Hartz, aus der dezentralen Lohnfindung heraus ([Dustmann et al. 2014, doi:10.1257/jep.28.1.167](https://doi.org/10.1257/jep.28.1.167)), und ein Modell findet zwar eine deutliche Wirkung auf die deutsche Leistungsbilanz, aber nur einen geringen Beitrag zu den Ungleichgewichten in Europa ([Bettendorf & León-Ledesma 2019, doi:10.1111/jmcb.12517](https://doi.org/10.1111/jmcb.12517)). Dass Deutschland lange als Vorbild galt, während die Partner als Schuldensünder dastanden, bleibt ein Lehrstück über Machtasymmetrie.
+> Was hierzulande als Reformerfolg galt, war für Flassbeck ein Verstoß gegen die Logik einer Währungsunion: In einer Gemeinschaftswährung wirkt sie wie eine Abwertung, gegen die sich die Partner nicht wehren können. Eine geschriebene Lohnregel gab es allerdings nie, und die Leistungsbilanz-Schwellen des EU-Ungleichgewichtsverfahrens kamen erst 2011. Wie viel die Lohnmoderation zu den Ungleichgewichten beitrug, ist in der Forschung umstritten: Sie begann vor Hartz, aus der dezentralen Lohnfindung heraus ([Dustmann et al. 2014, doi:10.1257/jep.28.1.167](https://doi.org/10.1257/jep.28.1.167)), und ein Modell findet zwar eine deutliche Wirkung auf die deutsche Leistungsbilanz, aber nur einen geringen Beitrag zu den Ungleichgewichten in Europa ([Bettendorf & León-Ledesma 2019, doi:10.1111/jmcb.12517](https://doi.org/10.1111/jmcb.12517)). Dass Deutschland dabei lange als Vorbild dastand und die Partner als Schuldensünder, bleibt ein Lehrstück über Machtasymmetrie.
 
 > [!question] Weitergedacht
 > Wenn Lohnzurückhaltung in einer Währungsunion wie eine Abwertung wirkt — *hätten die deutschen Beschäftigten, deren Löhne stagnierten, dann nicht dieselbe Rechnung aufmachen können wie die Franzosen? Wer hat in Deutschland eigentlich gewonnen?*
@@ -124,19 +140,19 @@ Höfgen fasst im Kommentar zusammen, was Flassbeck im Vortrag nicht ausbuchstabi
 
 [▶ 36:38](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=2198)
 
-Die neuen Fiskalregeln der EU, in Kraft seit April 2024, setzen auf nationale Pläne, verlangen aber von jedem Land mit zu hohem Defizit oder Schuldenstand dasselbe: konsolidieren. Flassbeck spitzt zu: „Dann müssen alle so werden wie wir."
+Die neuen Fiskalregeln der EU, in Kraft seit April 2024, setzen auf nationale Pläne, verlangen aber von jedem Land mit zu hohem Defizit oder Schuldenstand dasselbe: konsolidieren. Flassbeck übersetzt das ins Deutsche: „Dann müssen alle so werden wie wir."
 
-Das geht für ihn nicht. In Italien sparen die Haushalte und die Unternehmen, und die Position des Gläubigers im Außenhandel ist schon besetzt, von Deutschland:
+Das geht für ihn nicht. In Italien sparen die Haushalte und die Unternehmen, und der Posten des Gläubigers im Außenhandel ist schon vergeben, an Deutschland:
 
 > *„Was sollen sie machen? Ja, es gibt nur noch einen einzigen, der Schulden machen kann, oder die Wirtschaft geht dauernd den Bach runter."* [▶ 38:52](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=2332)
 
-Das ist der Staat, und genau das verbieten die Regeln. Gerade hatte die Kommission ein Defizitverfahren gegen Frankreich auf den Weg gebracht. Wenn der französische Finanzminister den Zusammenhang in Brüssel anspricht, so schildert es Flassbeck unter Berufung auf „interne Berichte", sagten die deutschen Minister: Darüber reden wir nicht (▶ 40:41).
+Dieser eine ist der Staat, und genau ihm verbieten es die Regeln. Gerade hatte die Kommission ein Defizitverfahren gegen Frankreich auf den Weg gebracht. Spricht der französische Finanzminister den Zusammenhang in Brüssel an, so schildert es Flassbeck unter Berufung auf „interne Berichte", sagten die deutschen Minister: Darüber reden wir nicht (▶ 40:41).
 
 Den Finanzminister der Schwarzen Null nennt Flassbeck nicht einmal beim Namen:
 
 > *„Vorher haben wir einen genialen Finanzminister gehabt, der die schwarze Null gemacht hat. Sehen Sie, und das ist das Ergebnis."* [▶ 35:44](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=2144)
 
-Höfgen wird im Kommentar deutlicher: Gemeint sei Wolfgang Schäuble, „ein fürchterlicher Finanzminister", „ein makroökonomischer Geisterfahrer, ganz zu schweigen davon, was er Griechenland angetan hat" (▶ 36:07). Er ergänzt auch, die Nettoinvestitionen des Staates lägen seit den 1990ern um null, in den 1960er und 70er Jahren habe man 3 Prozent erreicht (▶ 27:20).
+Höfgen schont ihn im Kommentar nicht: Gemeint sei Wolfgang Schäuble, „ein fürchterlicher Finanzminister", „ein makroökonomischer Geisterfahrer, ganz zu schweigen davon, was er Griechenland angetan hat" (▶ 36:07). Von Höfgen kommt auch der Hinweis, die Nettoinvestitionen des Staates lägen seit den 1990ern um null, in den 1960er und 70er Jahren habe man 3 Prozent erreicht (▶ 27:20).
 
 Flassbecks eigener Schluss ist knapp:
 
@@ -145,7 +161,7 @@ Flassbecks eigener Schluss ist knapp:
 Höfgen nennt das die Achillesferse der Marktwirtschaft und spielt das Sparparadoxon durch: Wollen alle zugleich sparen, brechen die Einkommen weg, und die Sparwünsche bleiben Wünsche (▶ 43:02).
 
 > [!note] Eigene Einschätzung — Sparen als moralische Kategorie
-> Das Sparparadoxon ist schwer zu vermitteln, weil „Sparen" in Deutschland kein ökonomischer, sondern ein moralischer Begriff ist: Wer spart, ist vernünftig und diszipliniert. Die Saldenidentität bestreitet kein Ökonom. Gestritten wird darüber, wer sich anpassen muss, und diese Frage kommt in der deutschen Debatte selten an.
+> Das Sparparadoxon ist schwer zu vermitteln, weil „Sparen" in Deutschland eher eine Tugend meint als eine Buchung: Wer spart, ist vernünftig und diszipliniert. Die Saldenidentität bestreitet kein Ökonom. Gestritten wird darüber, wer sich anpassen muss, und diese Frage kommt in der deutschen Debatte selten an.
 
 ---
 
@@ -155,7 +171,7 @@ Höfgen nennt das die Achillesferse der Marktwirtschaft und spielt das Sparparad
 
 Mit Friederike Spiecker hat Flassbeck die USA und Europa verglichen, zwei ähnlich große Wirtschaftsräume. Auf seinen Folien 2010 bis 2023: USA im Schnitt 2,1 Prozent Wachstum, Europa 1,2 *(nach heutigen Daten ist der Abstand eher größer → [[#Faktencheck|Faktencheck]])*. Die USA haben „Vollbeschäftigung auf dem Niveau der 60er Jahre", in Frankreich und Italien bleibe die Arbeitslosigkeit hoch. Höfgen ergänzt die Jugendarbeitslosigkeit, „jeder vierte, jeder fünfte" (▶ 14:45) *(in Frankreich eher jeder Sechste → [[#Faktencheck|Faktencheck]])*.
 
-Und die USA machen Schulden, massiv und fast durchgehend; Haushaltsüberschüsse gab es zuletzt 1998 bis 2001. Für Flassbeck ist das kein Leichtsinn, sondern Notwendigkeit, weil dort Unternehmen und Ausland sparen:
+Und die USA machen Schulden, massiv und fast durchgehend; Haushaltsüberschüsse gab es zuletzt 1998 bis 2001. Leichtsinn? Für Flassbeck Notwendigkeit, weil dort Unternehmen und Ausland sparen:
 
 > *„Für das gesamte Ersparnis dieser Volkswirtschaft muss er Schulden machen, und er muss das machen. Wenn er das nicht macht, bricht die Wirtschaft zusammen."* [▶ 42:35](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=2555)
 
@@ -165,20 +181,20 @@ Und die USA machen Schulden, massiv und fast durchgehend; Haushaltsüberschüsse
 
 [▶ 3:32](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=212)
 
-Der Vortrag beginnt kurz nach der Europawahl 2024, und Flassbeck zielt auf den Kanzler, der sich wundere, „dass bei der Europawahl die Leute so komisch wählen":
+Kurz nach der Europawahl 2024 zielt Flassbeck auf den Kanzler, der sich wundere, „dass bei der Europawahl die Leute so komisch wählen":
 
 > *„Wir haben ganz viel mit all dem zu tun, nur das vergessen wir gerne."* [▶ 3:54](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=234)
 
 > *„Es sind nicht die komischen Franzosen, die plötzlich Frau Le Pen toll finden, sondern es sind Prozesse, an denen wir beteiligt sind."* [▶ 4:42](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=282)
 
-Die Kette, die er andeutet: Lohnzurückhaltung in Deutschland → Exportüberschuss → Wettbewerbsverlust in Frankreich und Italien → Arbeitslosigkeit → Staatsverschuldung → Defizitverfahren und Sparauflagen. Das letzte Glied, den Rechtsruck, spricht Höfgen aus (▶ 47:12). Flassbeck sagt es vorsichtiger: „Arbeitslosigkeit hat nämlich auch was mit diesen Wahlergebnissen zu tun" (▶ 14:56). Und aus eigener Anschauung:
+Die Kette deutet er an: Lohnzurückhaltung in Deutschland → Exportüberschuss → Wettbewerbsverlust in Frankreich und Italien → Arbeitslosigkeit → Staatsverschuldung → Defizitverfahren und Sparauflagen. Das letzte Glied, den Rechtsruck, spricht Höfgen aus (▶ 47:12). Flassbeck bleibt vorsichtiger: „Arbeitslosigkeit hat nämlich auch was mit diesen Wahlergebnissen zu tun" (▶ 14:56). Dazu die eigene Anschauung:
 
 > *„Ich lebe seit über 20 Jahren in Frankreich, ich kann Ihnen sagen: Die merken das. So blöd sind die nicht, die merken das alle."* [▶ 35:16](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=2116)
 
 Sein Schluss: „Solange Deutschland sich nicht ändert, können wir von Frankreich und Italien nichts verlangen" (▶ 47:52).
 
 > [!note] Eigene Einschätzung — Rechtsruck als ökonomisches Feedback
-> Die stärkste Wirkung dieses Vortrags: Er nimmt dem Rechtsruck das Moralische. Le Pen und die Rechten in Italien sind in Flassbecks Logik auch eine Reaktion auf realen Wohlstandsverlust, an dem Deutschland mitgewirkt hat. Rechte Politik wird dadurch nicht richtig, aber sie verschwindet nicht, solange die Ursachen bleiben. Wie groß dieser Anteil ist, bleibt umstritten: Finanzkrisen und Sparprogramme treiben extreme Parteien messbar nach oben ([Funke, Schularick & Trebesch 2016, doi:10.1016/j.euroecorev.2016.03.006](https://doi.org/10.1016/j.euroecorev.2016.03.006); [Gabriel, Klein & Pessoa 2026, doi:10.1162/rest_a_01373](https://doi.org/10.1162/rest_a_01373)), erklären aber nur einen Teil des Zuwachses ([Margalit 2019, doi:10.1257/jep.33.4.152](https://doi.org/10.1257/jep.33.4.152)).
+> Das Stärkste an diesem Vortrag: Er nimmt dem Rechtsruck das Moralische. Le Pen und die Rechten in Italien sind in Flassbecks Logik auch eine Reaktion auf realen Wohlstandsverlust, an dem Deutschland mitgewirkt hat. Richtig wird rechte Politik dadurch nicht. Sie verschwindet aber auch nicht, solange die Ursachen bleiben. Wie groß dieser Anteil ist, bleibt umstritten: Finanzkrisen und Sparprogramme treiben extreme Parteien messbar nach oben ([Funke, Schularick & Trebesch 2016, doi:10.1016/j.euroecorev.2016.03.006](https://doi.org/10.1016/j.euroecorev.2016.03.006); [Gabriel, Klein & Pessoa 2026, doi:10.1162/rest_a_01373](https://doi.org/10.1162/rest_a_01373)), erklären aber nur einen Teil des Zuwachses ([Margalit 2019, doi:10.1257/jep.33.4.152](https://doi.org/10.1257/jep.33.4.152)).
 
 > [!question] Weitergedacht
 > Flassbeck sagt, die Franzosen „merken das". *Aber merken sie dasselbe wie er — oder merken sie den Verlust und suchen die Schuld bei Migranten, bei Brüssel, bei den Eliten? Was hilft eine richtige ökonomische Diagnose, wenn die politische Deutung eine andere Richtung nimmt?*
@@ -189,7 +205,7 @@ Sein Schluss: „Solange Deutschland sich nicht ändert, können wir von Frankre
 
 [▶ 7:23](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=443)
 
-In Ländern wie Kroatien steigen die Löhne um rund 15 Prozent bei 2 bis 3 Prozent Produktivitätswachstum (Höfgen rechnet: 13 Prozent höhere Lohnstückkosten). Die Hauptschuld sieht Flassbeck „leider wieder" bei uns: Die Freizügigkeit erzeugt Abwanderungsdruck, und westliche Konzerne zahlen die Lohnsprünge aus großen Margen, während einheimische Firmen nicht mithalten können.
+In Ländern wie Kroatien steigen die Löhne um rund 15 Prozent bei 2 bis 3 Prozent Produktivitätswachstum (Höfgen rechnet: 13 Prozent höhere Lohnstückkosten). Die Hauptschuld liegt für Flassbeck „leider wieder" bei uns: Die Freizügigkeit erzeugt Abwanderungsdruck, und westliche Konzerne zahlen die Lohnsprünge aus großen Margen, während einheimische Firmen nicht mithalten können.
 
 > *„Wenn das dann in einem halben, dreiviertel Jahr ausbricht, dann wissen Sie schon, worum es geht."* [▶ 9:18](https://www.youtube.com/watch?v=kvTDLgNeGMQ&t=558)
 
@@ -205,7 +221,7 @@ Flassbeck sagt es vorsichtiger, als die Note es lange tat: Arbeitslosigkeit habe
 
 Zwei Einschränkungen gehören dazu. Gabriel und Kollegen zählen extreme Parteien beider Seiten, nicht nur die Rechte, und nach ihren eigenen Angaben gehen rund zehn Prozent der Schwankungen im Stimmenanteil auf Konsolidierungen zurück ([SUERF Policy Brief](https://www.suerf.org/suerf-policy-brief/62081/austerity-benefits-the-extremes)): viel für eine einzige Ursache, wenig für eine ganze Erklärung. Eine Übersicht kommt zum selben Maß: Ökonomische Unsicherheit erklärt einen bescheidenen Teil des populistischen Votums, und kultureller Unmut färbt umgekehrt auch das Gefühl, wirtschaftlich abgehängt zu sein ([Margalit 2019, doi:10.1257/jep.33.4.152](https://doi.org/10.1257/jep.33.4.152), Review).
 
-Ein Blick auf Flassbecks eigene Beispiele zeigt, wie die Kette in der Zeit liegt. In Frankreich sank die Arbeitslosigkeit von 10,4 Prozent 2015 auf 7,4 Prozent 2024, in Italien von 11,9 auf 6,5 Prozent ([Weltbank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FR-IT)). Der Aufstieg des Rassemblement National und der Fratelli d'Italia fällt in Jahre *sinkender* Arbeitslosigkeit. Seine Kette erklärt also eher ein Erbe als den Zeitpunkt: Was die Eurokrise an Vertrauen gekostet hat, wirkt nach, wenn die Zahlen längst besser sind. Dazu passt ein Befund aus dem Handel. Wo der Importschock aus China eine Region traf, wählten auch die nationalistischer, denen es selbst gut ging; sie reagierten auf die Lage ihrer Gegend, nicht auf die eigene ([Colantone & Stanig 2018, doi:10.1111/ajps.12358](https://doi.org/10.1111/ajps.12358), 15 Länder). Das stützt Flassbecks „die merken das", verlegt den Schock aber von Deutschland nach China.
+Flassbecks eigene Beispiele zeigen, wie die Kette in der Zeit liegt. In Frankreich sank die Arbeitslosigkeit von 10,4 Prozent 2015 auf 7,4 Prozent 2024, in Italien von 11,9 auf 6,5 Prozent ([Weltbank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FR-IT)). Der Aufstieg des Rassemblement National und der Fratelli d'Italia fällt in Jahre *sinkender* Arbeitslosigkeit. Seine Kette erklärt also eher ein Erbe als den Zeitpunkt: Was die Eurokrise an Vertrauen gekostet hat, wirkt nach, wenn die Zahlen längst besser sind. Dazu passt ein Befund aus dem Handel. Wo der Importschock aus China eine Region traf, wählten auch die nationalistischer, denen es selbst gut ging; sie reagierten auf die Lage ihrer Gegend, nicht auf die eigene ([Colantone & Stanig 2018, doi:10.1111/ajps.12358](https://doi.org/10.1111/ajps.12358), 15 Länder). Das stützt Flassbecks „die merken das", verlegt den Schock aber von Deutschland nach China.
 
 Im Bestand stehen die Lesarten nebeneinander. Thomas Fricke sieht in der Austerität einen zweiten Kontrollverlust nach der Krise, warnt aber selbst, das Zusammentreffen von Defizitabbau und AfD-Aufstieg sei „kein Beleg für Kausalität" ([[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)#Austerität als Brandbeschleuniger|Fricke]]). Tom Krebs zählt drei Schübe der AfD, jeden nach einem wirtschaftspolitischen Versäumnis ([[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Drei Schübe für die AfD|Krebs]]). Aladin El-Mafaalani hält dagegen: Die Einstellungen seien seit zwanzig Jahren stabil, neu sei, dass die Misstrauischen einander fänden ([[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Das Paradox Einstellungen stabil, Gesellschaft polarisiert|El-Mafaalani]]).
 
@@ -213,7 +229,7 @@ Im Bestand stehen die Lesarten nebeneinander. Thomas Fricke sieht in der Austeri
 
 ### War die deutsche Lohnzurückhaltung der Motor der Euro-Ungleichgewichte?
 
-„Wir haben den Leistungsbilanzüberschuss, weil wir die Löhne nicht erhöht haben", sagt Flassbeck, und die Einordnung oben zeigt schon, wie umstritten das ist. Was die Forschung darüber hinaus weiß, verschiebt das Bild in zwei Richtungen.
+„Wir haben den Leistungsbilanzüberschuss, weil wir die Löhne nicht erhöht haben", sagt Flassbeck, und die Einordnung oben zeigt schon, wie umstritten das ist. Was die Forschung sonst noch weiß, verschiebt das Bild in zwei Richtungen.
 
 Die erste spricht für Flassbecks Maßstab. Dustmann und Kollegen hatten 2014 berechnet, die Lohnstückkosten der deutschen Exportindustrie seien von Mitte der 1990er bis 2007 um ein Viertel gefallen, und den Erfolg der flexiblen Lohnfindung zugeschrieben. Eine Replikation mit amtlichen Daten fand diesen Rückgang nicht: Die Lohnstückkosten der Industrie verliefen wie die der ganzen Wirtschaft ([Albu, Joebges & Zwiener 2022, doi:10.1186/s12651-022-00306-7](https://doi.org/10.1186/s12651-022-00306-7)). Das trifft nicht die These, die Zurückhaltung habe vor Hartz begonnen, aber es stützt Flassbecks Gewohnheit, auf die gesamtwirtschaftlichen Lohnstückkosten zu schauen. Nach Zahlen des gewerkschaftsnahen IMK stiegen sie in Deutschland seit 2000 im Schnitt um 1,6 Prozent im Jahr, langsamer als bei den anderen großen Euroländern, und lagen 2023 kumuliert noch knapp 13 Punkte unter dem Pfad, der zum Inflationsziel gepasst hätte ([IMK Report 190, Juni 2024](https://www.boeckler.de/de/pressemitteilungen-2675-arbeitskosten-in-deutschland-auf-position-fuenf-in-der-eu-61822.htm)).
 
