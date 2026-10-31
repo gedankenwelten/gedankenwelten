@@ -110,6 +110,38 @@ Wer dient, sagt er, erzeugt ganz natürlich Mettā. Und dann erzählt er von sic
 
 ---
 
+## Zwei Hände voll Erde
+
+Zum Dienen gehört bei Goenka das Geben, *dāna*, und am sechsten Abend erzählt er dazu die Geschichte eines der reichsten Männer im Indien des Buddha. Man nannte ihn Anāthapiṇḍika, den, der den Armen zu essen gibt. ([Tag 6 · 49:49](https://discourses.dhamma.org/oml/recordings/uuid/0ff69d46-76ce-4d4a-a48f-124e0eaf0954.mp3#t=2989)) Er gab schon viel, bevor er den Buddha traf, und war dabei ein sehr unglücklicher Mensch. Er wusste nicht, sagt Goenka, wie man gibt.
+
+> *„Wenn man gibt und sich aufbläst und damit sein Ego vergrößert, dann ist das nicht Dhamma."* ([Tag 6 · 50:05](https://discourses.dhamma.org/oml/recordings/uuid/0ff69d46-76ce-4d4a-a48f-124e0eaf0954.mp3#t=3005))
+
+Der Sinn des Gebens sei, aus dem Kreisen um sich selbst herauszukommen: Ein Teil dessen, was ich erarbeite, geht zum Wohl anderer. Als Anāthapiṇḍika das gelernt hatte, wollte er nahe seiner Stadt Sāvatthī ein Meditationszentrum bauen. Er fand einen stillen Park, der einem Prinzen gehörte. Der wollte nicht verkaufen und nannte, um den Mann loszuwerden, einen unmöglichen Preis: Du musst das Land mit Gold bedecken. Abgemacht, sagte Anāthapiṇḍika, und brachte Wagenladungen voll Goldmünzen. ([Tag 6 · 53:21](https://discourses.dhamma.org/oml/recordings/uuid/0ff69d46-76ce-4d4a-a48f-124e0eaf0954.mp3#t=3201)) Bist du verrückt, fragte der Prinz. Wenn hier auch nur ein Mensch den richtigen Weg findet, sagte Anāthapiṇḍika, ist mein ganzes Geld nichts dagegen.
+
+Später wurde er für eine Weile arm und verlor alles. Er ging trotzdem jeden Morgen und Abend ins Zentrum, und weil ein guter Haushalter nie mit leeren Händen kommt, nahm er zwei Hände voll Erde aus seinem Garten mit und legte sie unter einen Baum. Möge dieser Baum mit dieser Erde wachsen, und wenn auch nur ein Mensch unter ihm reines Dhamma erhält, hat sich meine Gabe gelohnt. ([Tag 6 · 54:52](https://discourses.dhamma.org/oml/recordings/uuid/0ff69d46-76ce-4d4a-a48f-124e0eaf0954.mp3#t=3292))
+
+> *„Der gute Wille, die Motivation ist es, die zählt."* ([Tag 6 · 55:15](https://discourses.dhamma.org/oml/recordings/uuid/0ff69d46-76ce-4d4a-a48f-124e0eaf0954.mp3#t=3315))
+
+Ob zwei Hände voll Erde oder ein Park voll Gold, sagt Goenka, macht keinen Unterschied.
+
+## Abgestandenes Essen
+
+Gleich danach erzählt er von Visākhā, die schon als Kind zum Buddha kam und in das Haus eines geizigen Schwiegervaters heiratete. Eines Tages stand ein Mönch mit seiner Schale vor der Tür, während der Alte gerade frisch gekochtes Essen aß. Er drehte dem Mönch den Rücken zu, damit der ihn nicht sehe. Visākhā sagte lächelnd zum Mönch, er solle lieber weitergehen:
+
+> *„Mein Vater isst abgestandenes Essen."* ([Tag 6 · 57:00](https://discourses.dhamma.org/oml/recordings/uuid/0ff69d46-76ce-4d4a-a48f-124e0eaf0954.mp3#t=3420))
+
+Der Schwiegervater war empört, das Essen sei frisch. Abgestanden, erklärte sie ihm: Was du jetzt hast, kommt aus der Großzügigkeit früherer Zeiten. Jetzt gibst du nicht einen Pfennig, und der Geiz macht dich schon heute eng und gespannt. Goenka erzählt das in der Sprache seiner Tradition, mit früheren Leben und ihrer Frucht. Man kann die Pointe aber auch ohne sie verstehen: Wer nur noch vom Vorrat lebt, isst von gestern.
+
+## Kein Hotel
+
+Und darum kostet der Kurs nichts. Bezahlte man Unterkunft und Essen, sagt Goenka am neunten Abend, käme mit dem Geld das Ego. Was ist das für ein Essen, das ist nicht nach meinem Geschmack, ich habe schließlich dafür bezahlt.
+
+> *„Als ob Sie in ein Hotel kommen."* ([Tag 9 · 1:02:42](https://discourses.dhamma.org/oml/recordings/uuid/b213dc98-a81b-44cb-a322-6be6f88bdc81.mp3#t=3762))
+
+Stattdessen nimmt man, was es gibt, wie ein Mönch, was in seine Schale kommt, und gibt erst am Ende, wer möchte, für die, die nach einem kommen. Die Gabe geht immer nach vorn.
+
+---
+
 ## Ein dickes Honorar
 
 Am letzten Morgen, kurz vor dem Abschied, beschreibt Goenka, was „innerhalb des Zaunes“ liegt, was er lehrt und wogegen niemand etwas haben könne: Sīla, Samādhi, Paññā, und Mettā, die Entwicklung guter Eigenschaften wie liebende Güte und Mitgefühl. ([Tag 11 · 12:52](https://discourses.dhamma.org/oml/recordings/uuid/ba5093c6-7795-4c85-b644-67c82ab6acb3.mp3#t=772)) Alles jenseits davon sei nicht seine Sache.

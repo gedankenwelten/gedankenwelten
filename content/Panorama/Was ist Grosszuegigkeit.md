@@ -2,7 +2,7 @@
 title: "Was ist Großzügigkeit?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-10-30
+aktualisiert: 2026-10-31
 description: "Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Den Rand des Feldes mähte keiner. Verschenkt hat ihn auch keiner."
@@ -97,7 +97,7 @@ Welzers ungedeckter Vorschuss lässt sich messen. Im Vertrauensspiel gibt einer 
 - **[[Carsten Brosda — Naechste Demokratie#Concordia mit dem Hobel|Carsten Brosda]]:** Die Großherzigkeit sitzt seit 1338 unter den Tugenden guten Regierens; heute heißt sie progressive Steuer und Sozialstaat, dazu die Zurückhaltung, ein Recht nicht bis zum Letzten auszureizen.
 - **[[Vertrauen und das aufgeloeste Opfer#Vom naiven zum bewussten Vertrauen|Luc]]:** „Der Vorschuss ist keine Nettigkeit und kein Heiligenschein. Er ist eine Art zu sehen.“ Wer Menschen erst einmal sein lässt, wie sie sind, bekommt ihr wahres Gesicht zu sehen, das Misstrauen nur Fassaden.
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (9)</summary>
 
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Die Engherzigkeit steht in der Verfassung|Wolfgang M. Schmitt]]:** Schuldenregeln in der Verfassung sind eine Politik der Engherzigkeit, geschrieben von denen, die dem Wähler nicht trauen; Großzügigkeit und Demokratisierung gehören zusammen.
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Vertrauensvorschuss in der vermessenen Gesellschaft|Barbara Bleisch]]**, in der vermessenen Gesellschaft: Den Vorschuss, der der Meier zutraut, dass sie es gebacken kriegt, hat die Bonitätsprüfung abgelöst.
@@ -107,6 +107,7 @@ Welzers ungedeckter Vorschuss lässt sich messen. Im Vertrauensspiel gibt einer 
 - **[[Raul Krauthausen — Teilgabe statt Teilhabe#Ist das nicht großzügig? Der Einwand und die Quote|Aladin El-Mafaalani]]** (im Gespräch mit Raúl Krauthausen): Wer ohne Gesetz Menschen mit Behinderung auf die Bühne holt, ist erst einmal großzügig; so entstehen Normen, erst freiwillig, dann erwartet, dann Regel. Krauthausen setzt die Quote dagegen.
 - **[[Semsrott — Zur Gegenmacht#Praktische Solidarität statt Charity — Sanktionsfrei und der Freiheitsfonds|Arne Semsrott]]:** Praktische Solidarität statt Charity; Sanktionsfrei und der Freiheitsfonds begegnen Menschen als Subjekten mit politischen Ansichten, nicht als Objekten von Mitleid.
 - **[[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da#Geld ist ein Vertrag — kann es großzügig sein?|Philippa Sigl-Glöckner]]:** Großzügig wäre Geld, das dem Gegenüber Spielraum lässt, wie die freie Budgethilfe an eine Regierung, aber „es ist halt am Ende doch ein Vertrag“.
+- **[[Vipassana — Metta#Kein Hotel|S.N. Goenka]]:** Seine Kurse kosten nichts, gegeben wird erst am Ende und für die, die nach einem kommen; wer für Kost und Logis zahlt, „als ob Sie in ein Hotel kommen“, bringt das Ego mit. Eine Einrichtung, die ganz auf der Gabe ruht und den Markt mit Absicht draußen hält, wie Titmuss es für das Blut verlangte.
 
 </details>
 
@@ -138,9 +139,11 @@ Dass es auf das Gefühl ankommt, stützt eine Studienreihe: Wer sich schlechter 
 - **[[Barbara Prainsack — Solidaritaet NEU DENKEN#Großzügigkeit als Überschuss|Barbara Prainsack]]:** Großzügigkeit ist ein Überschuss der Solidarität und wird möglich, wo man darauf vertrauen kann, selbst aufgefangen zu werden; sie wäre dann weniger eine Tugend der Einzelnen als ein Ertrag guter Institutionen.
 - **[[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#„Wo genau lebst du Großzügigkeit?“|Harald Welzer und Barbara Bleisch]]:** Welzer findet seinen Euro für den Bettler nicht großzügig, weil er ihn nicht braucht; Bleisch hält die arme Familie dagegen, die sich den Urlaub spart, damit das Kind eine Ausbildung bekommt.
 - **[[Hans Maggi — Kurdistan im Nordirak#Zwischen den Zeilen|Hans Maggi]]:** Menschen mit wenig Geld schenken zwei Radfahrern zwei Wochen lang mehr, als sie annehmen können; bei uns hat Großzügigkeit einen Anlass, dort keinen, außer dass jemand vorbeikommt.
-- **[[Raul Krauthausen — Teilgabe statt Teilhabe#Teilhabe, Teilgabe und die Rampe aus anderem Holz|Raúl Krauthausen]]:** Großzügig sein kann nur, wer etwas zu geben hat und in der Position ist, es zu geben; darum braucht es Teilgabe, die Bühne statt des Rollstuhlplatzes im Publikum.
+- **[[Vipassana — Metta#Zwei Hände voll Erde|S.N. Goenka]]:** Anāthapiṇḍika bedeckt einen Park mit Gold, und als er verarmt ist, bringt er zwei Hände voll Erde aus seinem Garten; „der gute Wille, die Motivation ist es, die zählt“, zwischen beiden Gaben sei kein Unterschied.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
+
+- **[[Raul Krauthausen — Teilgabe statt Teilhabe#Teilhabe, Teilgabe und die Rampe aus anderem Holz|Raúl Krauthausen]]:** Großzügig sein kann nur, wer etwas zu geben hat und in der Position ist, es zu geben; darum braucht es Teilgabe, die Bühne statt des Rollstuhlplatzes im Publikum.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Von Mauss über Bataille zum Punk|Dietmar Dath]]:** Wer nach einem furchtbaren Job abends nur noch ins Kissen sabbert, haut dem, der ihm „verausgabt euch“ rät, eine runter, wenn er die Kraft dazu noch hat.
 
 - **[[Carsten Brosda — Naechste Demokratie#Concordia mit dem Hobel|Carsten Brosda]]:** Wer die Hälfte seines Einkommens fürs Wohnen ausgibt, hat keine Zeit mehr, als Bürger die allgemeinen Belange zu bedenken; der Staat muss dafür sorgen, dass alle überhaupt Spielraum zum Geben haben.
@@ -150,7 +153,7 @@ Dass es auf das Gefühl ankommt, stützt eine Studienreihe: Wer sich schlechter 
 </details>
 
 > [!question] Die Reibung
-> Bengert sagt, Großzügigkeit komme nur aus der Fülle; Boshammer, für das Verzeihen habe jeder das Kapital; im Nordirak geben die, die wenig haben, mehr, als die Reisenden annehmen können, und in Korndörfers Daten geben die Wohlhabenden mehr. *Wenn beides stimmt: Ist Fülle eine Frage des Geldes oder des Gefühls, genug zu haben, und lässt sich das zweite politisch herstellen?*
+> Bengert sagt, Großzügigkeit komme nur aus der Fülle; Boshammer, für das Verzeihen habe jeder das Kapital; im Nordirak geben die, die wenig haben, mehr, als die Reisenden annehmen können, in Korndörfers Daten geben die Wohlhabenden mehr, und Goenkas verarmter Kaufmann bringt zwei Hände voll Erde und hält sie für keine kleinere Gabe als den Park voll Gold. *Wenn beides stimmt: Ist Fülle eine Frage des Geldes oder des Gefühls, genug zu haben, und lässt sich das zweite politisch herstellen?*
 
 ---
 
@@ -175,7 +178,7 @@ Zu viel kann es auch für die Gruppe werden: Wo Kooperierende Trittbrettfahrer n
 - **[[Fabian Bernhardt - Ist die Rache der Ursprung der Moral#Vergeben, Verzeihen, Versöhnen — und die unendliche Kränkbarkeit|Wolfram Eilenberger]]** (im Gespräch mit Fabian Bernhardt): Eine Gesellschaft, in der jeder jedem alles verziehe, wäre fast taub für Gerechtigkeit.
 - **[[Hans Maggi — Kurdistan im Nordirak#Das Geschenk, das man nicht ablehnen kann|Hans Maggi]]:** Die Gastfreundschaft ist so unbedingt, dass Ablehnen unmöglich wird; nach Wochen voller geschenkter Chips, Kekse und Baklava nimmt er sich vor, wieder selbst zu kochen.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (6)</summary>
 
 - **[[Carlo Cipolla — Die fünf Gesetze der Dummheit#Wann wird Helfen zum Selbstschaden?|Carlo Cipolla]]:** Der „Hilflose“, der anderen nützt und sich selbst schadet, ist bei ihm keine Tugend, sondern ein Risiko: Er verschafft den Banditen Spielraum.
 
@@ -183,6 +186,7 @@ Zu viel kann es auch für die Gruppe werden: Wo Kooperierende Trittbrettfahrer n
 - **[[Ruben Mawick — Als Sanitaeter an der Ukraine-Front#Der Drang, der sich nicht wegreden lässt|Ruben Mawick]]:** Der Sanitäter, der freiwillig an die Front fuhr, hört das „Helfersyndrom“ wie eine Diagnose und wehrt sich: Er sehe sein Leben nicht als mehr wert an als das eines ukrainischen Kindes.
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#4. „Billige Gnade" vs. „teure Gnade" — der theologische Hintergrund|Dietrich Bonhoeffer]]:** Billige Gnade ist Vergebung ohne Buße, sie kostet nichts und fordert nichts; teure Gnade nennt das Böse böse.
 - **[[Vertrauen und das aufgeloeste Opfer#Das aufgelöste Opfer|Luc]]:** Ein Vorschuss ist, was man gibt, ein Opfer, was einem widerfährt; leichter wird beides, wenn man seine Grenzen kennt und Nein sagen kann.
+- **[[Vipassana — Metta#Zwei Hände voll Erde|S.N. Goenka]]:** Anāthapiṇḍika gab schon viel, bevor er den Buddha traf, und war dabei unglücklich: „Wenn man gibt und sich aufbläst und damit sein Ego vergrößert, dann ist das nicht Dhamma.“ Das Maß des Gebens ist bei ihm nicht die Menge, sondern ob es aus dem Kreisen um sich selbst herausführt.
 
 </details>
 
