@@ -61,7 +61,7 @@ Die Publikumsfragen der Konferenz liefen nach den Panels in eigenen „Denkräum
 >
 > → [[DenkerVita/Michel Friedman|DenkerVita]]
 >
-> **Eva von Redecker** (*1982*) — Philosophin aus der Kritischen Theorie, Autorin von *Revolution für das Leben* (2020) und *Bleibefreiheit* (2023), lebt auf einem Hof in der Prignitz.
+> **Eva von Redecker** (*1982*) — Philosophin aus der Kritischen Theorie, Autorin von *Revolution für das Leben* (2020) und *Bleibefreiheit* (2023), lebt im ländlichen Brandenburg.
 >
 > → [[DenkerVita/Eva von Redecker|DenkerVita]]
 >

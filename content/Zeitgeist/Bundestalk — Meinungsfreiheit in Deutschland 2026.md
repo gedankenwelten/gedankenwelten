@@ -225,7 +225,7 @@ Moini nennt das Parteiverbot „das schärfste Schwert des Staates" — Rath wü
 
 ### → [[Denker/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
 
-Redeckers Analyse der faschistischen Ausnahmezustandsrhetorik — *„Die Meinungsfreiheit ist bedroht"* als Mobilisierungsmotiv — ist die tiefere Erklärung für das, was Jäckels beobachtet: Die Klage über fehlende Meinungsfreiheit speist sich aus realen, aber überdehnt interpretierten Einschränkungen. Redecker liefert die Psychologie, die Bundestalk-Note die rechtliche Phänomenologie.
+Redeckers Analyse der faschistischen Ausnahmezustandsrhetorik — die Meinungsfreiheit als Köder, nach dem Mobilisierung schnappt — ist die tiefere Erklärung für das, was Jäckels beobachtet: Die Klage über fehlende Meinungsfreiheit speist sich aus realen, aber überdehnt interpretierten Einschränkungen. Redecker liefert die Psychologie, die Bundestalk-Note die rechtliche Phänomenologie.
 
 
 ### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]

@@ -1,0 +1,104 @@
+---
+title: Rainer Mühlhoff — DenkerVita
+description: "Rainer Mühlhoff kam von der Mathematik zur Philosophie. Er zeigt, wie KI-Konzerne nach dem Staat greifen und wie Hype und Tech-Ideologien einem neuen Faschismus zuarbeiten."
+date: 2026-10-31
+aktualisiert: 2026-10-31
+tags: [denker-vita, philosophie, ethik, ki, technologie, datenschutz, überwachung, faschismus, demokratie, kapitalismus, deutschland]
+raetsel: "Als Kind lötete er Platinen. Später fragte er, wem der Strom gehört."
+---
+
+# Rainer Mühlhoff — DenkerVita
+
+![[assets/Rainer-Muehlhoff-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee, *Die Zwitscher-Maschine*** — angelehnt an Klees Bild von 1922, gezeichnet eher wie eine Federillustration mit Aquarell: Vögel auf einem Draht, die Schnäbel weit offen, und der Draht ist eine Kurbel. Ihre Stange führt in einen Kuppelbau mit Säulen, in dem Zahnräder laufen; links misst eine kleine Figur mit dem Zirkel nach, im Himmel schweben Gleichungen. Klees Maschine, die nur singt, solange jemand kurbelt, ist Mühlhoffs Hype in einem Bild, und der Mathematiker mit dem Zirkel ist er selbst: Er fragt, wohin die Stange führt.
+
+*Prompt:* Delicate line drawing with watercolor wash in the style of Paul Klee's Twittering Machine, wide panoramic banner. In the center a fragile whimsical machine: four stylized birds perched on a thin wire, beaks wide open as if singing loudly, the wire bent into a hand crank. The long rod of the crank runs to the right into a small domed government building with columns, its doors fitted with gears and wired into the machine. On the left a tiny thoughtful figure with a pencil and a drafting compass bends forward and measures the rod, curious. Faint handwritten numbers and small equations float in the background like stars. Thin wavering ink lines on a softly washed ground of dusty violet, rose, ochre and grey-blue, gentle and ironic. No text, no signature, no monogram.
+
+</details>
+
+> [!info] Wer spricht?
+> **Prof. Dr. Rainer Mühlhoff** ist Professor für Ethik der Künstlichen Intelligenz an der Universität Osnabrück und leitet dort die Forschungsgruppe „Ethik und kritische Theorien der KI“. Er ist Diplom-Mathematiker und promovierter Philosoph: Wo andere über „die KI“ sprechen, fragt er, welches System, von wem, zu welchem Zweck, und wer die Daten dafür liefert. Seine Themen sind Datenmacht, prädiktive Privatheit und Zweckbindung für KI-Modelle; seit 2025 vor allem die Verbindung von Tech-Industrie, Tech-Ideologien und neuer Rechter. Sein Reclam-Band *Künstliche Intelligenz und der neue Faschismus* (2025) erhielt den Preis „Das politische Buch 2026“ der Friedrich-Ebert-Stiftung.
+
+## Biografie
+
+**Heute.** Rainer Mühlhoff, geboren 1982 *([Friedrich-Ebert-Stiftung, Preisbücher](https://www.fes.de/de/preis-das-politische-buch/preisbuecher/))*, ist Professor für Ethik der Künstlichen Intelligenz am Institut für Kognitionswissenschaft und am Institut für Philosophie der Universität Osnabrück *([eigene Website, About](https://rainermuehlhoff.de/en/about/))*; die Professur trat er im August 2021 an *([eigene Website](https://rainermuehlhoff.de/en/professor-in-osnabrueck/))*. Er leitet die Arbeitsgruppe „Ethik und kritische Theorien der KI“, die nach eigener Beschreibung eine „zeitgenössische kritische Philosophie des Digitalen“ entwickelt *([Universität Osnabrück](https://www.uni-osnabrueck.de/fb8/ikw/forschung/arbeitsgruppen/ethik-der-ki))*. Nach seiner Website forscht er außerdem am Institut für Medizinische Informatik der Charité, ist dem Einstein Center Digital Future in Berlin affiliiert und assoziiertes Mitglied des Sonderforschungsbereichs 1171 *Affective Societies* an der FU Berlin *([About](https://rainermuehlhoff.de/en/about/))*.
+
+**Stationen.** Von Oktober 2025 bis März 2026 war er Visiting Research Fellow am Oxford Internet Institute, von 2023 bis 2025 Associate Researcher am Weizenbaum-Institut in Berlin. Vor Osnabrück arbeitete er als Postdoc im Exzellenzcluster „Science of Intelligence“ der TU Berlin (2019–2021) und im SFB 1171 *Affective Societies* der FU Berlin (2015–2019) *([About](https://rainermuehlhoff.de/en/about/))*.
+
+**Vom Löten zur Philosophie.** Er habe seine „ganze Kindheit mit Elektronik rumgebastelt, rumgelötet“, erzählt er bei Jung & Naiv; im Physikstudium merkte er schon im ersten Semester, dass ihn die Mathematik mehr interessierte als die experimentellen Teile *([▶ 29:47](https://www.youtube.com/watch?v=DY_LgqIh40k&t=1787) · [▶ 30:02](https://www.youtube.com/watch?v=DY_LgqIh40k&t=1802))*. Er schloss mit dem Diplom in Mathematik ab, Nebenfächer theoretische Physik und Informatik; die Diplomarbeit „Higher Spin Fields on Curved Spacetimes“ schrieb er 2008 an der Universität Leipzig *([About](https://rainermuehlhoff.de/en/about/) · [DNB](https://portal.dnb.de/opac.htm?method=simpleSearch&query=M%C3%BChlhoff+Higher+spin+fields))*. Danach arbeitete er ein halbes Jahr in einer großen Managementberatung, „als sagen wir mal so einen Ausflug“; es sei ihm immer klar gewesen, dass er dort nicht bleiben würde *([▶ 31:04](https://www.youtube.com/watch?v=DY_LgqIh40k&t=1864) bei Jung & Naiv)*. Seine Website nennt außerdem Berufserfahrung als Programmierer. In einem Zweitstudium studierte er in Berlin Philosophie, Gender Studies und Germanistik und wurde 2016 an der FU Berlin in Philosophie promoviert, betreut von Jan Slaby und Martin Saar, gefördert von der Studienstiftung des deutschen Volkes; die Dissertation erschien 2018 als *Immersive Macht. Affekttheorie nach Spinoza und Foucault* *([About](https://rainermuehlhoff.de/en/about/))*. Seit über zwanzig Jahren setzt er nebenbei Texte mit TeX und LaTeX.
+
+**Öffentliche Arbeit.** Mühlhoff spricht regelmäßig auf der re:publica und beim Chaos Communication Congress; 2020 schrieb er für das Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF) an Datenschutz-Folgenabschätzungen zu Corona-Apps mit *([Publikationsliste](https://rainermuehlhoff.de/en/publications.html) · [DNB](https://portal.dnb.de/opac.htm?method=simpleSearch&query=Rainer+M%C3%BChlhoff))*. Am 21. Mai 2026 erhielt er für *Künstliche Intelligenz und der neue Faschismus* den Preis „Das politische Buch“ der Friedrich-Ebert-Stiftung *([FES, Pressemitteilung](https://www.fes.de/themen/pressemitteilung/das-politische-buch-2026))*. Nach seiner Website stand das Buch am 23.10.2026 seit 48 Wochen auf der SPIEGEL-Bestsellerliste Sachbuch/Taschenbuch *([Buchseite](https://rainermuehlhoff.de/KI-und-der-neue-Faschismus-Reclam-Buch/))*. Mit seinem Team entwickelt er Formate zur Reflexion über KI für Schulen und Lehrkräfte *([FES](https://www.fes.de/de/preis-das-politische-buch/preisbuecher/))*.
+
+## Bücher & Publikationen
+
+| Titel | Verlag · Jahr · ISBN | Beschreibung |
+|---|---|---|
+| [Immersive Macht. Affekttheorie nach Spinoza und Foucault](https://www.genialokal.de/Suche/?q=9783593508344) | Campus, 2018 · 978-3-593-50834-4 | Die Dissertation: Macht, die nicht von außen zwingt, sondern über Affekte einbindet |
+| [Affekt Macht Netz. Auf dem Weg zu einer Sozialtheorie der Digitalen Gesellschaft](https://www.genialokal.de/Suche/?q=9783837644395) | transcript, 2019 · 978-3-8376-4439-5 | Sammelband, hg. mit Anja Breljak und Jan Slaby |
+| [Die Macht der Daten. Warum künstliche Intelligenz eine Frage der Ethik ist](https://www.genialokal.de/Suche/?q=9783847115526) | V&R unipress / Universitätsverlag Osnabrück, 2023 · 978-3-8471-1552-6 | Erweiterte Fassung seiner Osnabrücker Universitätsrede vom 19.05.2022; Open Access über [doi:10.14220/9783737015523](https://doi.org/10.14220/9783737015523) |
+| [The Ethics of AI. Power, Critique, Responsibility](https://www.genialokal.de/Suche/?q=9781529249248) | Bristol University Press, 2025 · 978-1-5292-4924-8 | Englischsprachige Ethik der KI aus Machtperspektive, mit dem „Manifesto for a Power-Aware Ethics of AI“; Open Access über [doi:10.51952/9781529249262](https://doi.org/10.51952/9781529249262) |
+| [Künstliche Intelligenz und der neue Faschismus](https://www.genialokal.de/Suche/?q=9783150147894) | Reclam, 16.07.2025 · 978-3-15-014666-8; erweiterte Neuauflage 12.06.2026 · 978-3-15-014789-4 | Wie Tech-Industrie, Tech-Ideologien (Transhumanismus, Longtermismus, „Eugenik 2.0“) und neue Rechte zusammenwirken. Preis „Das politische Buch 2026“; Hörbuch bei cc-live; französisch bei Éditions Agone (2026), englisch als *AI and the New Fascism* bei Pluto Press (angekündigt für November 2026, 978-0-7453-5296-1), türkisch bei Zoe Kitap angekündigt |
+| [Der KI-Staat](https://www.genialokal.de/Suche/?q=9783518128718) | edition suhrkamp, angekündigt für März 2027 · 978-3-518-12871-8 | Mit Hannah Ruschemeier |
+| [KI und Krise. Technologische Macht als Gefahr für liberale Demokratien](https://www.genialokal.de/Suche/?q=9783837684728) | transcript, angekündigt für 2027 · 978-3-8376-8472-8 | Sammelband, hg. mit Paul Schütze |
+
+**Aufsätze (Auswahl):**
+- „Human-Aided Artificial Intelligence: Or, How to Run Large Computations in Human Brains?“, *New Media & Society* 22 (2020) — [doi:10.1177/1461444819885334](https://doi.org/10.1177/1461444819885334)
+- „Predictive Privacy: Towards an Applied Ethics of Data Analytics“, *Ethics and Information Technology* 23 (2021) — [doi:10.1007/s10676-021-09606-x](https://doi.org/10.1007/s10676-021-09606-x)
+- „Predictive Privacy: Collective Data Protection in the Context of Artificial Intelligence and Big Data“, *Big Data & Society* (2023) — [doi:10.1177/20539517231166886](https://doi.org/10.1177/20539517231166886)
+- „Trump und der neue Faschismus“, *Verfassungsblog* (09.02.2025) — [doi:10.59704/854f51e58c05b98e](https://doi.org/10.59704/854f51e58c05b98e)
+- mit Hannah Ruschemeier: „Updating Purpose Limitation for AI: A Normative Approach from Law and Philosophy“, *International Journal of Law and Information Technology* (2025) — [doi:10.1093/ijlit/eaaf003](https://doi.org/10.1093/ijlit/eaaf003)
+
+*(Quellen: [DNB-Katalog](https://portal.dnb.de/opac.htm?method=simpleSearch&query=Rainer+M%C3%BChlhoff) · [Publikationsliste](https://rainermuehlhoff.de/en/publications.html) · [Buchseite](https://rainermuehlhoff.de/KI-und-der-neue-Faschismus-Reclam-Buch/))*
+
+## Empfehlenswerte Videos & Vorträge
+
+- [Philosoph Rainer Mühlhoff über Künstliche Intelligenz & Faschismus – Jung & Naiv, Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k) — vier Stunden mit Tilo Jung, April 2026 → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Note]]
+- [re:publica 26: KI und der neue Faschismus](https://www.youtube.com/watch?v=UQ7Nywt_NnU) — Talk auf Stage 1, Mai 2026 (31 min)
+- [Künstliche Intelligenz und die Alt-Right. Droht uns ein neuer Faschismus?](https://www.youtube.com/watch?v=i16UbjAOYGQ) — Einstein Forum Potsdam, Januar 2026
+- [39C3 – Denkangebot: KI und autoritäre Sehnsüchte im Silicon Valley](https://www.youtube.com/watch?v=BlVaBgu6Iy8) — Chaos Communication Congress, Ende 2025
+- [Von Datenmacht zu Staatsmacht. KI & autoritäre Politik](https://www.youtube.com/watch?v=BmXJ1UFk7NQ) — Gautinger Internettreffen, März 2026
+- [Digitaler Kolonialismus: Wie Big Tech unsere Demokratie übernimmt](https://www.youtube.com/watch?v=VbN-5XWVl4k) — 3sat NANO Talk, Januar 2026
+- [NANO Talk: Neuer Faschismus – Freie Wahlen in die Unfreiheit?](https://www.3sat.de/wissen/nano-talk/260409-sendung-nano-talk-mit-alena-buyx-neuer-faschismus-freie-wahlen-in-die-unfreiheit-ntk-100.html) — 3sat, Moderation Alena Buyx, 09.04.2026 (Mediathek bis 2031)
+- [Preisverleihung „Das politische Buch 2026“](https://www.youtube.com/watch?v=10Nd6ym7-k8) — Friedrich-Ebert-Stiftung, Mai 2026
+- [37C3 – KI – Macht – Ungleichheit](https://www.youtube.com/watch?v=iFV05xa7OCE) — Chaos Communication Congress, Dezember 2023 (40 min)
+- [Updating Purpose Limitation for AI](https://www.youtube.com/watch?v=CEctQXRCjs8) — mit Hannah Ruschemeier am Oxford Internet Institute, Juni 2025 (englisch)
+- [Universitätsrede 2022: Die Macht der Daten](https://www.youtube.com/watch?v=tme8opXm_Yw) — Universität Osnabrück, der Ausgangspunkt des gleichnamigen Buchs
+
+## Kernthesen
+
+1. **Die KI-Industrie will das Betriebssystem des Staates werden.** Die großen Anbieter profitieren nicht nur monetär; „das Game ist, sich immer mehr ins Spiel zu bringen als sozusagen das Betriebssystem von Staatsmacht“, davon, wie Gesellschaft, Politik und Verwaltung funktionieren *(Beleg: [▶ 6:46](https://www.youtube.com/watch?v=DY_LgqIh40k&t=406) in [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Jung & Naiv 818]])*. Wo die Industrie demokratischen Rechtsstaaten anbietet, ihre Funktionen mit Plattformen und Datenauswertungstools zu übernehmen, sieht er „eine große Desouveränisierung“, derzeit am deutlichsten in den USA *(Beleg: [▶ 1:08:42](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4122))*. In seinem Verfassungsblog-Text vom Februar 2025 beschreibt er DOGE als Übernahme der technischen und operativen Ebenen des US-Verwaltungsapparats und erwartet, dass der neue Faschismus Datenanalyse und KI nutzen werde, „um den Rechtsstaat auszuschalten und durch einen schlanken, auf Automatisierung und Präemption basierenden Apparat zu ersetzen“ *(Beleg: [Verfassungsblog, 09.02.2025](https://doi.org/10.59704/854f51e58c05b98e))*.
+
+2. **Drei Merkmale, an denen man Faschismus erkennen sollte.** Statt einer abgeschlossenen Definition nennt er drei Merkmale: ein politisches Wirken, das auf die Zerstörung von Rechtsstaat, Verwaltungsabläufen und demokratischer Ordnung zielt; persönliche Gewaltbereitschaft und Gehässigkeit auf der Grundlage eines hierarchischen Menschenbilds und der Dehumanisierung; und die „gewiefte Indienstnahme von neuester Technologie als Machtinstrument“, oft im Zusammenspiel von Industrie und Regime *(Beleg: [Verfassungsblog, Abschnitt „Faschismus“](https://doi.org/10.59704/854f51e58c05b98e))*. Das dritte Merkmal hält Eva von Redecker in der Sternstunde für „zu breit“ *([▶ 9:55](https://www.youtube.com/watch?v=jlbO-ckfIew&t=595) in [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde]])*.
+
+3. **Der Hype ist eine wachsende Diskrepanz.** Zwischen dem, was KI-Systeme technisch können, und dem, was ihnen öffentlich zugetraut wird, werde „die Diskrepanz immer größer“; das sei der Hype, und er erfasse Öffentlichkeit, Politik und Investitionsdynamiken zugleich *(Beleg: [▶ 2:16](https://www.youtube.com/watch?v=DY_LgqIh40k&t=136) in Jung & Naiv 818)*. Schon das Reden von „der KI“ hält er für irreführend: „Für mich gibt es einfach nicht die KI“, sondern tausend Dienste und Modelle von tausend Unternehmen, mit verschiedenen Fähigkeiten, Zwecken und Geschäftsmodellen *(Beleg: [▶ 3:48](https://www.youtube.com/watch?v=DY_LgqIh40k&t=228))*. Im Buch zerlegt er die populären KI-Narrative in drei Grundelemente: die Vermenschlichung von KI-Systemen, affektiv überzeichnete Zukunftserwartungen, utopisch wie apokalyptisch, und den Solutionismus *(Beleg: Buchauszug, Kapitel „Die Ideologien hinter dem KI-Hype“, [netzpolitik.org, 14.07.2025](https://netzpolitik.org/2025/kuenstliche-intelligenz-tech-ideologien-und-der-neue-faschismus/))*.
+
+4. **Tech-Ideologien als Unterbau.** Hinter dem Hype stehen für ihn ältere Denkströmungen, die er unter dem Oberbegriff Tech-Ideologien zusammenfasst: technologischer Determinismus, Transhumanismus und eine futuristische Auslegung der utilitaristischen Ethik, besonders der Longtermismus *(Beleg: Buchauszug, [netzpolitik.org](https://netzpolitik.org/2025/kuenstliche-intelligenz-tech-ideologien-und-der-neue-faschismus/))*. In der KI-Szene sei eine „Eugenik nach IQ-Auswahl“ ein großes Thema: Menschen nach IQ zu selektieren, „damit die noch bessere KI machen“ *(Beleg: [▶ 1:40:31](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6031) in Jung & Naiv 818)*.
+
+5. **KI verteilt von unten nach oben.** „KI-Technologie ist ein großer Treiber von einer Umverteilung von unten nach oben“; der Profit sammle sich bei wenigen, oligopolartigen Firmen *(Beleg: [▶ 9:22](https://www.youtube.com/watch?v=DY_LgqIh40k&t=562) in Jung & Naiv 818)*. Schon 2020 beschrieb er Deep Learning als strukturell abhängig von menschlicher Beteiligung: Vernetzte Medien und Interaktionsdesigns spannen Nutzer ein, Trainings- und Prüfdaten zu liefern; solche Systeme simulierten menschliche Intelligenz weniger, als dass sie menschliche kognitive Fähigkeiten einfangen *(Beleg: Abstract, [New Media & Society, 2020](https://doi.org/10.1177/1461444819885334))*.
+
+6. **Prädiktive Privatheit.** Datenschutz, der nur den Einzelnen und seine Daten schützt, greift für ihn zu kurz. Predictive Analytics schließt aus den Daten vieler, untereinander unverbundener Menschen auf sensible Eigenschaften und künftiges Verhalten Einzelner; das Prinzip der „prädiktiven Privatheit“ soll Individuen und Gruppen vor Ungleichbehandlung auf dieser Grundlage schützen *(Beleg: Abstract, [Ethics and Information Technology, 2021](https://doi.org/10.1007/s10676-021-09606-x) · [Big Data & Society, 2023](https://doi.org/10.1177/20539517231166886))*. Mit Hannah Ruschemeier schlägt er daraus eine Zweckbindung für trainierte KI-Modelle vor *(Beleg: [IJLIT 2025](https://doi.org/10.1093/ijlit/eaaf003) · [38C3-Vortrag](https://media.ccc.de/v/38c3-gemeinwohlorientierte-forschung-mit-ki-missbrauch-eindmmen-durch-zweckbindung-fr-ki-modelle))*.
+
+## Politische Einordnung
+
+Wir ordnen Rainer Mühlhoff einer machtkritischen, kapitalismuskritischen Philosophie in der Tradition von kritischer Theorie, Spinoza und Foucault zu. Die Friedrich-Ebert-Stiftung nennt unter seinen Forschungsthemen „kritische Theorie und Kontinentalphilosophie“ und „Demokratieresilienz“ *([FES](https://www.fes.de/de/preis-das-politische-buch/preisbuecher/))*; in *The Ethics of AI* (2025) steht sein „Manifesto for a Power-Aware Ethics of AI“ *([Publikationsliste](https://rainermuehlhoff.de/en/publications.html))*. Bei Jung & Naiv sagt er: „Ich will überhaupt nicht den Kapitalismus verteidigen, der ist letztlich das Problem“; neu und „ein qualitativer Sprung“ sei aber, dass das System sich gerade daran setze, Demokratie zu überwinden *(Beleg: [▶ 2:30:34](https://www.youtube.com/watch?v=DY_LgqIh40k&t=9034) · [▶ 2:30:55](https://www.youtube.com/watch?v=DY_LgqIh40k&t=9055))*. Für die USA unter Trump verwendet er den Begriff Faschismus ausdrücklich *([Verfassungsblog](https://doi.org/10.59704/854f51e58c05b98e))*. Eine Parteimitgliedschaft ist uns nicht bekannt.
+
+## Verbindungen zu anderen Denkern
+
+- [[DenkerVita/Francesca Bria|Francesca Bria]] — Ihre Karte *The Authoritarian Stack* ist seine Hauptreferenz für den Griff der Tech-Industrie nach dem Staat; seine eigene Darstellung bei Jung & Naiv nennt er „ein Referat dieser Studie im Kleinsten“.
+- [[DenkerVita/Eva von Redecker|Eva von Redecker]] — Beide sprechen vom neuen Faschismus, sie vom Eigentum her, er von der Technik. In der Sternstunde hält sie sein drittes Merkmal, die Indienstnahme neuester Technologie, für „zu breit“: auch linke technokratische Regime nutzten Technik als Machtmittel.
+- [[DenkerVita/Barbara Prainsack|Barbara Prainsack]] — Aus der Daten-Governance kommt sie zu einem ähnlichen Schluss: Wo Schäden bekannt sind, verbieten, statt um mehr Ethik zu bitten. Anders als er ist sie ausdrücklich für Datennutzung, wo der öffentliche Wert hoch ist.
+- [[DenkerVita/Hannah Arendt|Hannah Arendt]] — Im Gespräch fällt ihr Name nicht, aber seine „menschlichen Zahnräder“, die eine Maschine ersetzen könnte, lassen sich mit ihrer Banalität des Bösen lesen: Urteilslosigkeit, verteilt auf viele Schultern.
+
+## Gedankenwelten-Notes
+
+**Mit ihm als Sprecher:**
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Jung & Naiv, Folge 818
+
+**Am Rand:**
+- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus]] — Barbara Bleisch legt seine drei Faschismus-Merkmale als zweite Referenzdefinition vor
+- [[Denker/Francesca Bria — The Authoritarian Stack]] — er referiert ihre Studie bei Jung & Naiv
+- [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]] · [[Panorama/Wie kann Demokratie funktionieren]] · [[Panorama/Was macht die KI aus unserem Denken]] · [[Panorama/Forschung]] · [[Panorama/Autoritaerer Internationalismus]] — als Stimme
+- [[Gedanken/Claude — Über das Denken im System, das man analysiert]] — entstanden aus einem Gespräch über Mühlhoff, Bria und den Authoritarian Stack

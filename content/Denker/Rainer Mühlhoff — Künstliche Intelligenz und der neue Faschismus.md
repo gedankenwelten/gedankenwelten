@@ -1,8 +1,9 @@
 ---
 title: "Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus"
 description: "Die KI-Blase finanziert für Rainer Mühlhoff mehr als Software: den Umbau des Staates zur Plattform. Er zeigt, wo sich Tech-Ideologien und die Struktur des Faschismus gleichen."
+raetsel: "Erst wird es das Betriebssystem. Dann darf es nicht mehr abstürzen."
 date: 2026-04-05
-aktualisiert: 2026-07-16
+aktualisiert: 2026-10-31
 tags:
   - denker
   - ki
@@ -11,6 +12,7 @@ tags:
   - demokratie
   - rechtsstaat
   - tech-macht
+  - datenschutz
   - year-2025
   - year-2026
 aliases:
@@ -30,15 +32,20 @@ aliases:
 
 </details>
 
-Quelle: [Jung & Naiv: Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k)
+> [!abstract] Worum es geht
+> Die KI-Industrie will seit 2025 mehr als Werbung verkaufen: Sie will das Betriebssystem des Staates werden, in Verwaltung, Polizei und Schule. Rainer Mühlhoff, Philosoph und Mathematiker, erklärt in vier Stunden bei Jung & Naiv, warum exponentielles Wachstum an die Grenzen der Demokratie stößt und warum die Heilsversprechen der Tech-Szene dieselbe Form haben wie faschistische Ideologien. Im zweiten Teil prüft Hans Jessen die These an Schul-KI, Klickarbeit, Palantir und der Frage, wie ein Staat regulieren soll, was er selbst benutzen will.
+
+Quelle: [Jung & Naiv: Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k) (02.04.2026, 4 Stunden) · Gesprächspartner: Tilo Jung, im zweiten Teil Hans Jessen mit Fragen aus dem Chat
 
 > [!info] Wer spricht?
-> **Rainer Mühlhoff** — Philosoph und Mathematiker, Professor für Ethik der Künstlichen Intelligenz an der Universität Osnabrück.
+> **Rainer Mühlhoff** — Philosoph und Mathematiker, Professor für Ethik der Künstlichen Intelligenz am Institut für Kognitionswissenschaft der Universität Osnabrück.
 >
-> Mühlhoff studierte Mathematik und theoretische Physik, bevor er in die Geisteswissenschaften wechselte — ein Weg, der ihn befähigt, KI-Systeme technisch zu verstehen und zugleich philosophisch-politisch zu befragen. Vor seiner akademischen Karriere arbeitete er in der Unternehmensberatung, was ihm einen Einblick in die Logik des kapitalistischen Marktes gab. Seither hat er sich als einer der schärfsten deutschsprachigen Analytiker des digitalen Kapitalismus und seiner politischen Folgen etabliert.
+> Er studierte Mathematik, theoretische Physik und Informatik und arbeitete danach ein halbes Jahr in einer Managementberatung, „komplett gegen meine Ethik", wie er bei Jung & Naiv sagt. Eine begonnene Promotion in Mathematik brach er ab, studierte Gender Studies und Kulturwissenschaft und promovierte schließlich in Philosophie, über Spinoza und Foucault. Der Weg erklärt seine Methode: Er versteht die Technik von innen und fragt trotzdem zuerst nach der Macht.
 >
-> Wichtigstes Werk: *Künstliche Intelligenz und der neue Faschismus* (Reclam, 2025) — 19 Wochen auf der Spiegel-Bestsellerliste, ausgezeichnet als „Das politische Buch 2026" der Friedrich-Ebert-Stiftung. Übersetzungen ins Englische (Pluto Press), Französische und Türkische in Vorbereitung.
-> Kernkonzepte: Desouveränisierung, Authoritarian Stack, Faschismus als Herrschaftsmodus, Solutionismus, Longterminismus
+> Wichtigstes Werk: *Künstliche Intelligenz und der neue Faschismus* (Reclam, Juli 2025) — Preis „Das politische Buch 2026" der Friedrich-Ebert-Stiftung, laut Mühlhoffs Website im Oktober 2026 seit 48 Wochen auf der Spiegel-Bestsellerliste. Eine erweiterte Neuauflage erschien im Juni 2026, die französische Ausgabe im September bei Agone, die englische (*AI and the New Fascism*, Pluto Press) folgt im November 2026, eine türkische bei Zoe Kitap ([Buchseite](https://rainermuehlhoff.de/KI-und-der-neue-Faschismus-Reclam-Buch/)).
+> Kernkonzepte: Desouveränisierung, prädiktive Privatheit, Faschismus als Prozess der Radikalisierung, Solutionismus, Longtermismus
+>
+> → [[DenkerVita/Rainer Mühlhoff|DenkerVita]]
 
 ---
 
@@ -48,314 +55,376 @@ Quelle: [Jung & Naiv: Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k)
 
 [▶ 1:40](https://www.youtube.com/watch?v=DY_LgqIh40k&t=100)
 
-Mühlhoff öffnet das Gespräch mit einer klaren Diagnose: Der KI-Diskurs ist von einer **klaffenden Diskrepanz** zwischen dem geprägt, was KI technisch ist und kann, und dem, was öffentlich darüber geglaubt wird. „Hype" meint nicht bloß Übertreibung — sondern ein systematisches Auseinanderdriften, das von einem komplexen Orchester vieler Akteure gleichzeitig angefeuert wird: Industrie, Investoren, Politik, Medien.
+Mühlhoff öffnet das Gespräch mit einer Diagnose: Zwischen dem, was KI technisch ist und kann, und dem, was öffentlich darüber geglaubt wird, klafft eine Lücke, und sie wird größer. „Hype" meint für ihn mehr als Übertreibung. Ein ganzes Orchester feuert die Begeisterung an: Industrie, Investoren, Politik, Medien.
 
-> *„Das involviert ja die Öffentlichkeit, aber auch die Politik, Investitionsdynamiken, Konjunkturen an den Aktienmärkten. Das führt dazu, dass man alles der KI zutraut, gesellschaftliche Probleme zu lösen."*
+> *„Das involviert ja die Öffentlichkeit, aber auch die Politik, Investitionsdynamiken, weiß ich nicht, Konjunkturen an den Aktienmärkten. Das führt dazu, dass man alles der KI zutraut."* [▶ 2:16](https://www.youtube.com/watch?v=DY_LgqIh40k&t=136)
 
-Die wichtigste begriffliche Unterscheidung, die er zieht: **KI existiert nicht im Singular.** Es gibt nicht *die* KI, sondern tausend verschiedene Systeme von tausend verschiedenen Unternehmen, mit verschiedenen Fähigkeiten, Geschäftsmodellen und Zwecken. Diese Vereinheitlichung im Diskurs ist selbst Teil des Hypes — wer sie betreibt, will entweder verherrlichen oder verteufeln, beides verhindert präzises Denken.
+Die wichtigste Unterscheidung, die er zieht: **KI gibt es nicht im Singular.** Es gibt tausend verschiedene Systeme von tausend verschiedenen Unternehmen, mit verschiedenen Fähigkeiten, Geschäftsmodellen und Zwecken. Wer „die KI" sagt, ob verherrlichend oder verteufelnd, betreibt schon den Hype mit.
+
+Und er sagt früh, wem das nützt. Die großen Konzerne profitieren nicht nur über den Aktienkurs:
+
+> *„Das Game ist, sich immer mehr ins Spiel zu bringen als sozusagen das Betriebssystem von Staatsmacht."* [▶ 6:05](https://www.youtube.com/watch?v=DY_LgqIh40k&t=365)
 
 > [!note] Eigene Einschätzung
-> Mühlhoff kommt hier als Mathematiker zum Vorschein: er besteht auf Definitionen. „KI kann das nicht" ist semantisch leer, wenn man nicht sagt: *welche* KI, *wozu* gebaut, *von wem*, *zu welchem Zeitpunkt*. Diese Präzisionspflicht ist kein akademischer Tick — sie ist politisch notwendig. Ein undifferenzierter Begriff öffnet Raum für Projektion.
+> Hier kommt der Mathematiker zum Vorschein: Er besteht auf Definitionen. „KI kann das nicht" sagt wenig, solange offen bleibt, *welche* KI, *wozu* gebaut, *von wem*. Ein undifferenzierter Begriff öffnet Raum für Projektion, in beide Richtungen.
 
 ---
 
 ### Die Entstehung der Datenmacht
 
-[▶ 9:37](https://www.youtube.com/watch?v=DY_LgqIh40k&t=577)
+[▶ 9:06](https://www.youtube.com/watch?v=DY_LgqIh40k&t=546)
 
-Die Entstehung von „KI" ist für Mühlhoff kein technologischer Zufall, sondern eine **nachgelagerte Monetarisierung von Datenbergen**, die in den 2000er Jahren von Facebook, Google und Co. aufgehäuft wurden. Das Muster verläuft in Stufen:
+Die heutige KI ist für Mühlhoff eine **nachgelagerte Verwertung von Datenbergen**, die seit den 2000er Jahren bei Facebook, Google und Co. aufgehäuft wurden. Das Muster verläuft in Stufen:
 
-1. **Infrastruktur aufbauen** — Soziale Netzwerke, Suchmaschinen, E-Commerce
-2. **Daten horten** — unbemerkt, aus allen digitalen Aktivitäten der Nutzer*innen
-3. **Machine Learning** als Auswertungstechnik in den 2010er Jahren entwickeln
-4. **Monetarisierung** durch personalisierte Werbung, zuletzt durch KI-Services
+1. **Infrastruktur aufbauen** — soziale Netzwerke, Suchmaschinen, Onlinehandel
+2. **Daten horten** — aus allen digitalen Aktivitäten der Nutzer*innen
+3. **Maschinelles Lernen** als Auswertungstechnik in den 2010er Jahren
+4. **Verwertung** durch personalisierte Werbung, zuletzt durch KI-Dienste
 
-> *„KI-Technologie ist ein großer Treiber von einer Umverteilung von unten nach oben. Der Profit akkumuliert sich in ungekanntem Ausmaß bei wenigen oligopoligen Akteuren — Firmen, die so wertvoll sind, wie noch nie Firmen wertvoll gewesen sind."*
+> *„KI-Technologie ist ein großer Treiber von einer Umverteilung von unten nach oben. Der Profit akkumuliert sich in ungeahntem Ausmaß bei wenigen oligopolen Akteuren, wirtschaftlichen Akteuren, Firmen, die so wertvoll sind, wie noch nie Firmen wertvoll gewesen sind."* [▶ 9:06](https://www.youtube.com/watch?v=DY_LgqIh40k&t=546)
 
-Das Geschäftsmodell basiert auf einer unsichtbaren Asymmetrie: Nutzer*innen sind nicht Kund*innen — sie sind das Rohmaterial. Ihre Daten ermöglichen den Werbekunden die Zielgenauigkeit, für die diese zahlen. Mühlhoff zieht hier eine direkte Linie zu kolonialen Strukturen: Extraktion ohne Kompensation, auf Basis bestehender globaler Machthierarchien, die das Erbe kolonialer Ungleichheit in eine neue digitale Logik überführen.
+Das Geschäftsmodell beruht auf einer Asymmetrie: Die Nutzer*innen sind nicht die Kundschaft, sie sind das Rohmaterial. Mühlhoff zieht eine Linie zu kolonialen Strukturen: Extraktion ohne Ausgleich, entlang alter globaler Hierarchien.
 
 > [!note] Eigene Einschätzung
-> Was früher Rohstoffe waren, sind heute Daten. Was früher Handelsrouten waren, sind heute Plattformarchitekturen. Mühlhoffs Kolonialismus-Analogie ist kein Metapher — sie benennt eine strukturelle Kontinuität. Wer das als zu weit hergeholt abtut, muss erklären, warum die Wertschöpfungsketten immer noch dem alten Süd-Nord-Gefälle folgen.
+> Was früher Rohstoffe waren, sind heute Daten; was früher Handelsrouten waren, sind Plattformen. Die Kolonialismus-Analogie behauptet eine strukturelle Kontinuität, und wer sie zu weit hergeholt findet, müsste erklären, warum die Arbeit hinter den Modellen, das Labeln und Moderieren, so oft im globalen Süden landet (→ [[#Klickarbeit im globalen Süden — der unsichtbare Unterbau|Klickarbeit]]).
 
 ---
 
 ### Die Desouveränisierung des Staates
 
-[▶ 1:07:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4020)
+[▶ 1:06:07](https://www.youtube.com/watch?v=DY_LgqIh40k&t=3967)
 
-Dieser Abschnitt markiert den qualitativen Sprung in Mühlhoffs Analyse. Seit 2025 — Trump, DOGE, Palantir — erleben wir nicht mehr nur Diskursverzerrung oder Überwachungskapitalismus: Wir erleben die **direkte Übernahme staatlicher Funktionen** durch die Tech-Industrie.
+Hier liegt der qualitative Sprung in Mühlhoffs Analyse. Seit 2025, mit Trump, DOGE und Palantir, geht es nicht mehr nur um verzerrte Debatten oder Überwachungskapitalismus. Die Tech-Industrie greift nach staatlichen Funktionen.
 
-> *„Das game ist, sich immer mehr ins Spiel zu bringen als das Betriebssystem von Staatsmacht — wie Gesellschaft funktioniert, wie Politik funktioniert, wie Verwaltung funktioniert."*
+Mühlhoff deutet DOGE so: Der Personalabbau wurde als Bürokratieabbau verkauft, während Palantir und die Government-Sparten von Google Milliardenaufträge erhielten *(der Army-Rahmenvertrag mit Palantir über bis zu 10 Mrd. Dollar bündelt 75 bestehende Softwareverträge → [[#Faktencheck|Faktencheck]])*.
 
-Die Mechanik ist konkret: Trump entließ zehntausende Staatsbedienstete — verkauft als „Bürokratieabbau". Tatsächlich erhielten Palantir und Google-Government-Sparten Milliarden-Aufträge, um dieselben Funktionen zu übernehmen. Nicht Effizienz ist das Ziel, sondern Kontrolle.
-
-Mühlhoff führt dabei eine wichtige analytische Unterscheidung ein:
+Dazu führt er eine Unterscheidung ein, die im Rest des Gesprächs trägt:
 
 | Ebene | Inhalt |
 |---|---|
 | **Demokratie** | Politische Meinungsbildung, Wahlen, Parteien, Parlament |
-| **Rechtsstaat** | Administration, Behörden, Polizei, Schule, Gesundheit, Militär |
+| **Rechtsstaat** | Verwaltung, Behörden, Polizei, Schule, Hochschule, Gesundheit, Militär |
 
-Die Tech-Industrie zielt auf *beide* Ebenen — aber der Angriff auf den Rechtsstaat ist weniger sichtbar und deshalb gefährlicher. Wenn die Verwaltung privatisiert wird, entscheiden keine öffentlich-rechtlichen Verfahren mehr, sondern Algorithmen auf proprietären Plattformen.
+Die Tech-Industrie zielt auf beide Ebenen. Der Griff nach dem Rechtsstaat ist weniger sichtbar, weil niemand ihn mit dem Wort „Demokratie" verbindet:
 
-> *„Es ist die administrative Seite des Staatsapparats, die durch das Wort Demokratie noch nicht umfasst ist — und die gerade still und leise reprivatisiert wird."*
+> *„Das ist alles irgendwie so der, sagen wir mal, administrative Teil des Staatsapparats, der noch nicht durch das Wort Demokratie für mich umfasst ist."* [▶ 1:11:29](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4289)
+
+Was man in den USA sehe: Die Industrie gehe daran, „nicht nur den politischen Diskurs zu kapern, sondern eben diese administrativen Prozesse".
 
 > [!note] Eigene Einschätzung
-> Die Demokratie-Debatte fixiert sich fast immer auf Wahlen und Parteien. Mühlhoffs Diagnose liegt tiefer: Die eigentliche Machtausübung passiert in der Administration. Ein gewähltes Parlament, das auf KI-Plattformen angewiesen ist für Steuerverwaltung, Polizeiarbeit oder Schulbetrieb, ist strukturell erpressbar — unabhängig davon, welche Partei regiert. Das ist eine fundamentale Verschiebung der Gewaltenteilung.
+> Die Demokratie-Debatte schaut fast immer auf Wahlen und Parteien. Mühlhoffs Blick geht tiefer, in die Verwaltung. Ein Parlament, das für Steuerverwaltung, Polizeiarbeit oder Schulbetrieb auf private Plattformen angewiesen ist, wird erpressbar, gleich welche Partei regiert.
 
 ---
 
 ### Francesca Bria und der Authoritarian Stack
 
-[▶ ~1:10:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4200)
+[▶ 1:09:12](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4152)
 
-An dieser Stelle verweist Mühlhoff explizit auf eine Schlüsselquelle: **Francesca Brias** Studie *The Authoritarian Stack* — eine interaktive Datenplattform, die das Netzwerk von Firmen, Fonds und politischen Akteuren kartografiert, die staatliche Kernfunktionen in private Plattformen überführen. Über 250 Akteure, tausende verifizierte Verbindungen, 45 Milliarden Dollar dokumentierte Finanzflüsse.
+Mühlhoff verweist auf eine Studie, die er im Kleinen nur nacherzähle: **Francesca Brias** *The Authoritarian Stack*, eine interaktive Karte der Firmen, Fonds und politischen Akteure, die staatliche Kernfunktionen in private Plattformen überführen.
 
-> *„Francesca Bria — die hat eine sehr gute Studie dazu gemacht: Authoritarian Stack. authoritarian-stack.info — rufts alle auf, da kann man das gut visualisiert sehen. Denen geht es nicht mehr um Profit. Wenn man einmal Profit erreicht hat, dann geht es dir als nächstes um staatliche Macht, um die Übernahme von Staatsmacht."*
+> *„Francesca Bria, die hat eine sehr gute Studie dazu gemacht, authoritarianstack.info, ruft sie alle auf. Da kann man das gut visualisiert sehen. Und was ich gerade sage, ist eigentlich ein Referat dieser Studie im Kleinsten. Die schreibt so schön: Denen geht's nicht mehr um Profit, weil wenn man einmal Profit erreicht hat, dann geht's dir als Nächstes um staatliche Macht."*
 
-Brias Analyse deckt sich mit Mühlhoffs Buch: Nicht bloß Kapitalakkumulation, sondern **Souveränitätsakkumulation** ist das Endziel. Alex Karp (Palantir-Chef) hat das offen formuliert: es geht um „domination" — um Herrschaft, nicht um Gewinne.
+Tilo Jung erinnert das an Palantir-Chef Alex Karp, der sinngemäß gesagt hat, er denke nicht in Gewinnen und Verlusten, sondern in „domination" ([92NY, YouTube](https://www.youtube.com/watch?v=KZWB5XGZy-Q)). Mühlhoff nimmt den Ball auf: Es gehe um die destruktive Übernahme des Staatsapparats.
 
 ---
 
 ### Warum gerade jetzt? Die Wachstumsfalle
 
-[▶ ~1:15:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4500)
+[▶ 1:12:59](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4379)
 
-Mühlhoff erklärt den Zeitpunkt nicht durch Böswilligkeit, sondern durch **strukturelle Logik**: Exponentielles Wachstum der Tech-Industrie bedeutet exponentiell steigenden Ressourcenverbrauch — Strom, Wasser, seltene Erden. Dieser Verbrauch ist mit demokratischen, aufklärerisch-gerechten Prinzipien der Ressourcenverteilung schlicht unvereinbar.
+Den Zeitpunkt erklärt Mühlhoff mit einer materiellen Logik. Lange konnte die Branche gut innerhalb liberaler Demokratien wachsen. Will sie das exponentielle Wachstum der letzten zehn Jahre fortsetzen, verbraucht sie exponentiell mehr: Strom, Wasser, seltene Erden, Arbeitskraft, Privatsphäre.
 
-> *„Wenn diese Industrie ihr Wachstum exponentiell fortsetzen will, dann werden sie bis 2030 an die Grenzen dessen stoßen, was auf der Plattform demokratischer Politik befürwortbar ist. Demokratie und Rechtsstaat stören — also werden sie weggeräumt."*
+> *„Dann werden die innerhalb schon bis 2030 an die Grenzen dessen stoßen, was man auf der Plattform von demokratischer Politik überhaupt noch befürworten kann. […] Und das weiß das Silicon Valley."* [▶ 1:12:59](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4379)
 
-Prognosen für den Stromverbrauch von Rechenzentren bis 2030: Faktor 3–10 nach wissenschaftlichen Schätzungen, Faktor 100 nach Industrieprognosen. Die Industrie weiß längst, dass Dekarbonisierungsziele ihr Wachstumshemmnis sind — und orientiert sich massiv auf fossile Energieträger sowie Investitionen in Fusionskraft.
+Und dann, im Bild eines tonnenschweren Zuges, der weiterfahren will: Die Industrie werde „die Demokratie wie so ein kleines Hindernis am Wegesrand so wusch weg wegballern müssen" [▶ 1:13:44](https://www.youtube.com/watch?v=DY_LgqIh40k&t=4424).
+
+Beim Strom nennt er Spannen: Seriöse Schätzungen sähen bis 2030 einen Faktor drei bis zehn, Industrieakteure eher 25 oder 100 *(die Internationale Energieagentur rechnet in ihrem Hauptszenario mit gut einer Verdopplung → [[#Faktencheck|Faktencheck]])*. Die Branche setze darum wieder auf fossile Energie und investiere in Kernfusion.
 
 > [!note] Eigene Einschätzung
-> Das ist Mühlhoffs stärkste analytische Leistung: Er leitet den Autoritarismus nicht aus Ideologie ab, sondern aus Physik. Wachstum ist endlich begrenzt durch Ressourcen. Demokratie begrenzt Ressourcenzugriff. Also ist Demokratie strukturell hinderlich für exponentielles Wachstum. Das macht jeden Angriff auf demokratische Institutionen lesbar als Kapitalstrategie — nicht als politische Überzeugung.
+> Das ist Mühlhoffs materielle Antwort auf die Frage, warum die Tech-Elite gerade jetzt nach rechts rückt: Wachstum braucht Ressourcen, und Demokratie begrenzt den Zugriff darauf. Er nennt sie ausdrücklich *eine* Erklärung unter vielen (▶ 1:12:14); sein Buch stellt die ideologische Verwandtschaft gleichberechtigt daneben. Beides zusammen macht die These stark: Interesse und Weltbild zeigen in dieselbe Richtung.
+
+> [!question] Weitergedacht
+> Wenn Demokratie das Wachstum begrenzt, weil sie Ressourcen gerecht verteilen will — *ist dann die Wachstumsfrage selbst die eigentliche Verfassungsfrage, und wer sie stellt, wer darf sie beantworten?*
+
+---
+
+### Prädiktive Privatheit — die Universalwaffe
+
+[▶ 1:26:40](https://www.youtube.com/watch?v=DY_LgqIh40k&t=5200)
+
+In der Mitte des Gesprächs erklärt Mühlhoff seine eigene Forschung, und sie verschiebt die Datenschutzdebatte an eine Stelle, an die kaum jemand denkt. Er arbeitet dazu seit Jahren mit der Osnabrücker Rechtswissenschaftlerin Hannah Ruschemeier.
+
+Das Gedankenexperiment: Eine Plattform mit ein paar Milliarden Nutzerinnen kennt von allen die Verhaltensdaten, also was sie scrollen, tippen, teilen, liken. Etwa zehn Prozent geben zusätzlich etwas Sensibles preis, eine Depression etwa oder die Partei, die sie wählen. Das sind immer noch Hunderte Millionen Datenpunkte. Mit ihnen trainiert man ein Modell, das die sensible Angabe aus den harmlosen Verhaltensdaten abschätzt.
+
+> *„Dann wendest du es natürlich einfach an auf die Daten der 90 % anderen Nutzerinnen, die keine Auskunft darüber gegeben haben, ob sie Depressionen haben oder was ihre sexuelle Identität ist oder ihre politischen Interessen."* [▶ 1:28:57](https://www.youtube.com/watch?v=DY_LgqIh40k&t=5337)
+
+Die Privatsphäre-Entscheidung einer Minderheit („ich hab doch nichts zu verbergen") wird so zum Risiko für alle anderen, auch für die, die gute Gründe haben, nichts preiszugeben, weil sie Diskriminierung kennen. Ein trainiertes Modell sei „so eine Art Universalwaffe".
+
+Daraus folgt sein regulatorischer Vorschlag, und er ist überraschend pragmatisch. Die Datensammlung selbst werde man in der heutigen Welt nicht verhindern. Regulieren müsse man, **wofür ein trainiertes Modell weiterverwendet werden darf**: Das Depressionsmodell an Krankenversicherungen verkaufen oder im Bewerbungsgespräch mitlaufen lassen, das sei heute „ein wilder Westen".
+
+> [!note] Eigene Einschätzung
+> Der Gedanke dreht die übliche Logik um. Datenschutz gilt als Sache des Einzelnen, der einwilligt oder nicht. Bei Mühlhoff wird er zur kollektiven Frage: Meine Einwilligung entscheidet über dich mit. Das passt zu seinem Buch, wo das Modell die eigentliche Machtquelle ist, nicht der einzelne Datensatz.
+
+> [!question] Weitergedacht
+> Wenn meine Daten über andere mitentscheiden — *darf ich dann noch allein darüber verfügen, oder wird Privatsphäre zu etwas, das man nur gemeinsam haben kann?*
 
 ---
 
 ### Die KI-Ideologien: Ein Zwiebelschalen-Modell
 
-[▶ ~1:30:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=5400)
+[▶ 1:52:33](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6753)
 
-Mühlhoff analysiert die ideologischen Unterbauten der KI-Szene als **Zwiebelschalen-Modell**: Es gibt nicht die eine Ideologie, sondern mehrere Schichten — von öffentlich bekannten bis zu szeneinternen Weltbildern.
+Die ideologischen Unterbauten der KI-Szene beschreibt Mühlhoff als **Zwiebelschalen**: mehrere Schichten, von öffentlich bekannten bis zu szeneinternen Weltbildern.
 
 **Äußere Schicht (öffentlich bekannt):**
-- **Technosolutionismus** — Technologie löst alle gesellschaftlichen Probleme
+- **Technosolutionismus** — Technologie löst gesellschaftliche Probleme
 - **Anthropomorphisierung** — KI wird als denkendes, fühlendes Wesen dargestellt
+- **Singularität** — ein Punkt, nach dem sich die technische Entwicklung so beschleunigt, dass die bisherigen Gesetze nicht mehr gelten (nach Ray Kurzweil); auch sie sei „eigentlich auch schon eine, die relativ öffentlich ist"
 
 **Innere Schicht (szeneintern):**
-- **Singularität** — ein Punkt in der Geschichte, nach dem technologische Entwicklung sich so rasant beschleunigt, dass die bisherigen Gesetze nicht mehr gelten (nach Ray Kurzweil). Metapher aus der Relativitätstheorie: ein Schwarzes Loch, bei dem andere Physik gilt.
-- **Longtermismus** (Nick Bostrom, Oxford) — eine „Ethik", die besagt: KI wird irgendwann AGI ermöglichen, Menschen werden post-biologisch existieren und den Virgo-Galaxienhaufen besiedeln. In einer Milliarde Jahre könnten dort 10^38 Menschen leben — verglichen mit heute 10^10. Jede Sekunde Regulierung „kostet" 10^28 glückliche Menschenleben. Regulierung ist also moralisch unvertretbar.
-- **Eugenik** — in der KI-Szene offen vertreten: Selektion nach IQ, um „bessere" KI-Entwickler zu produzieren
+- **Longtermismus** — Mühlhoff beruft sich auf Nick Bostrom, bis 2024 Leiter des Future of Humanity Institute in Oxford. Bostrom rechnete 2003 in *Astronomical Waste* vor, dass mit jedem Jahrhundert Verzögerung im Virgo-Superhaufen rund 10³⁸ mögliche Leben verloren gingen. Mühlhoff liest daraus ein Argument gegen Regulierung; Bostrom selbst folgert das Gegenteil, Sicherheit vor Tempo *(→ [[#Faktencheck|Faktencheck]])*.
+- **Eugenik** — Intelligenz als Rangordnung, bis hin zu Ideen, Einwanderung nach IQ zu beschränken (▶ 2:17:38)
 
-> *„Das ist ein sehr wirkmächtiges Denken, das mit allem Ernst betrieben wird. Das Argument: was moralisch auf dem Spiel steht in Bezug auf die ultraferne Zukunft, ist so viel größer als heute — dass Klimawandel und die Lebensbedingungen unserer Kinder nur ein Fliegendreck in der Geschichte ist."*
+> *„Was moralisch auf dem Spiel stehe in Bezug auf die ultraferne Zukunft, ist so viel größer […] als das, was auf dem Spiel steht, wenn wir jetzt davon reden, dass die KI-Industrie zum Klimawandel beiträgt und deswegen die Lebensbedingungen für unsere Kinder und Kindeskinder massiv negativ beeinträchtigen könnte, dass dieses Problem quasi nur ein Fliegendreck in der Geschichte ist."* [▶ 1:57:52](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7072)
 
 > [!note] Eigene Einschätzung
-> Longtermismus ist politisch gefährlich nicht trotz seiner Absurdität, sondern wegen seiner internen Kohärenz. Wenn man die Prämissen akzeptiert (AGI, post-biologische Existenz, Galaxienbesiedelung), folgt die Schlussfolgerung mathematisch. Die Stärke liegt darin, dass man nie an der Zukunft scheitern kann — sie liegt so weit weg, dass jede Widerlegung auf Lebzeiten unmöglich ist. Das ist eine erkenntnistheoretische Immunisierung. Mühlhoff nennt es „säkulare Eschatologie" — religiöse Erlösungssehnsüchte in Quantenzahlen verkleidet.
+> Gefährlich ist der Longtermismus gerade wegen seiner inneren Folgerichtigkeit. Wer die Prämissen annimmt, folgt der Rechnung, und an einer Zukunft, die Millionen Jahre entfernt liegt, kann man zu Lebzeiten nicht scheitern. Tilo Jung bringt dafür das Wort „säkulare Eschatologie" ein; Mühlhoff ordnet es als These ein, die gerade manche in der Kulturwissenschaft vertreten (▶ 1:59:24): religiöse Erlösungshoffnung, in Zehnerpotenzen gekleidet. Dass Bostrom selbst daraus KI-Sicherheit ableitet, schwächt Mühlhoffs Lesart, widerlegt aber nicht, dass andere die Rechnung gegen Regulierung wenden.
 
 ---
 
 ### Faschismus 2.0: Ideologie, White Supremacy und Manosphere
 
-[▶ ~2:00:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7200)
+[▶ 2:01:40](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7300)
 
-Mühlhoff zeigt die **strukturelle Homologie** zwischen klassischem Faschismus und KI-Ideologie:
+Mühlhoff zeigt die **gemeinsame Form** von klassischem Faschismus und KI-Ideologie:
 
 **Faschismus-Kernstruktur:**
 1. **Pessimistische Gegenwartsdiagnose** — die Gesellschaft ist dekadent, krank, verfallen
-2. **Naturalisierung von Hierarchien** — Überlegenheit bestimmter Gruppen gilt als naturgegeben
-3. **Erlösungsversprechen** — nationale Erneuerung, Wiedergeburt, Stärke in der Zukunft
+2. **Naturalisierung von Hierarchien** — die Überlegenheit bestimmter Gruppen gilt als naturgegeben
+3. **Erlösungsversprechen** — Erneuerung, Wiedergeburt, Stärke in der Zukunft
 4. **Opfer bringen** — Leid in der Gegenwart ist nötig, um die Utopie zu erreichen
 
-Diese Struktur findet sich identisch in der Tech-Rechten: die Gesellschaft ist zu soft/dekadent, natürliche Hierarchien (Männer über Frauen, bestimmte Ethnien über andere) werden unterdrückt, die Singularität/AGI bringt Erlösung — und dafür müssen wir jetzt Opfer bringen.
+In der Tech-Rechten findet er diese Struktur wieder: Die Gesellschaft sei zu weich, natürliche Hierarchien würden unterdrückt, die Singularität bringe Erlösung, und dafür seien jetzt Opfer nötig.
 
-> *„Das ganze bei Adolf — das kannst du in allen faschistischen Ideologien in irgendeiner Form sehen. Make America Great Again ist ganz simpel so ein Versprechen. Aber die KI-Ideologie unterfüttert das massiv mit einer technischen Realität."*
+> *„Das kannst du bei Adolf sehen, das kannst du in allen faschistischen Ideologien in irgendeiner Form sehen, und […] heutzutage, klar, MAGA, Make America Great Again ist ganz simpel so ein Versprechen. Aber die KI-Ideologie in unserer Zeit, die unterfüttern das halt massiv mit so einer technischen Realität."* [▶ 2:02:26](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7346)
 
 **White Supremacy und Manosphere:**
-Diese Heilsversprechen verfangen besonders bei **frustrierter Männlichkeit**: Männer, die das Gefühl haben, ihre „natürliche Stellung" verloren zu haben, finden in der KI-Ideologie eine Struktur, die ihre Frustration naturalisiert und eine Erlösung verspricht. Diversitätspolitik gilt als Ursache des Verfalls, AGI/Singularität als Erlösung — und Elon Musks Raketen als buchstäbliches Raumschiff für die Elite.
+Die Heilsversprechen verfangen besonders bei **frustrierter Männlichkeit**: Männer, die meinen, ihre „natürliche Stellung" verloren zu haben, finden in der KI-Ideologie eine Erzählung, die ihre Kränkung erklärt und Erlösung verspricht. Unbeantwortet bleibe immer die Frage, wer eigentlich „wir" ist:
 
-> *„Wen nimmt Elon Musk mit auf seinem Raumschiff zum Mars? Wessen Gehirne werden von Neuralink auf den USB-Stick hochgeladen? Natürlich nicht alle. Das wird nie gesagt — das ist der blinde Fleck aller dieser Ideologien."*
+> *„Wen nimmt Elon Musk mit auf seinem Raumschiff zum Mars, und wessen Gehirne werden von seinem Neuralink-Unternehmen auf den USB-Stick hochgeladen oder in die Cloud? Natürlich eben nicht die Gehirne von allen, und natürlich sitzen nicht wir alle in so einem Starship, da sitzen wahrscheinlich nur wenige Bros aus seiner Elite drin, auch keine Frauen."* [▶ 2:03:11](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7391)
 
 **KI als Faschismus-Ermöglicher:**
-Der entscheidende neue Zug: Ein Neofaschismus braucht keine menschlichen „Zahnräder" mehr. Die Vernichtungsmaschinerie des 20. Jahrhunderts bestand aus Menschen, die Befehle befolgten. KI ermöglicht die Auslagerung von „gruseligen Entscheidungen" an Algorithmen — niemand ist mehr verantwortlich, niemand hat befohlen, eine Maschine hat errechnet.
+Tilo Jung bringt den Gedanken auf, die KI könne „gruselige, aber notwendige Entscheidungen" übernehmen. Mühlhoff stimmt zu: Die Vernichtungsmaschinerie des 20. Jahrhunderts bestand aus Menschen, die Befehle befolgten. Eine solche Maschine „würde man heute nicht mehr im gleichen Maße aus menschlichen Zahnrädern machen müssen" [▶ 2:04:41](https://www.youtube.com/watch?v=DY_LgqIh40k&t=7481).
 
 > [!note] Eigene Einschätzung
-> Das ist der Satz, der mich am meisten beschäftigt: Wenn Menschenselektion durch Algorithmen passiert — wer zur Arbeit kommt, wer Kredit bekommt, wer als Sicherheitsrisiko gilt — dann wird die Banalität des Bösen digital. Hannah Arendt beschrieb Eichmann als Bürokraten ohne moralisches Urteil. Ein Algorithmus hat nicht mal die Möglichkeit zu urteilen. Das ist keine Metapher — das ist Systemarchitektur.
+> Das ist der Satz, der am meisten beschäftigt. Wenn Algorithmen sortieren, wer zur Arbeit kommt, wer Kredit bekommt, wer als Sicherheitsrisiko gilt, verteilt sich die Verantwortung, bis niemand mehr sie trägt. Hannah Arendt beschrieb Eichmann als Bürokraten, der aufgehört hatte zu urteilen; ein Algorithmus hat das Urteilen nie gekonnt. Mühlhoff selbst zieht diese Linie zu Arendt nicht, sie liegt aber nahe.
+
+> [!question] Weitergedacht
+> Wenn eine Maschine nicht befiehlt und nicht gehorcht — *wo setzt dann Widerstand an, der früher beim Menschen ansetzte, der die Akte weiterreichte oder liegen ließ?*
 
 ---
 
 ### KI-Ethik und ihre Grenzen
 
-[▶ ~1:45:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6300)
+[▶ 1:44:13](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6253)
 
-Mühlhoff grenzt sich scharf von der dominanten **KI-Ethik** ab, die er als industriell vereinnahmbar bezeichnet. Das Muster: Unternehmen stellen Ethiker*innen an, um Regulierung zu vermeiden — Ethik als White-Paper-Produktion statt als Machtkritik.
+Mühlhoff nennt sich nicht gern KI-Ethiker, weil die Industrie große Teile der KI-Ethik vereinnahmt hat. Ethik sei oft ein Ticket, um sagen zu können, man tue ja viel:
 
-Sein eigener Ansatz in Osnabrück: **machtbewusste Ethik der KI** — eine Ethik, die nie an der Industrie „anstellungsfähig" ist, weil sie klar benennt, worum es geht: normative Machtverhältnisse.
+> *„Um Regulierung zu vermeiden, weil Regulierung wäre halt eigentlich das schärfere Schwert, und das will man vermeiden."* [▶ 1:44:58](https://www.youtube.com/watch?v=DY_LgqIh40k&t=6298)
 
-> *„Regulierung wäre das schärfere Schwert, und das will man vermeiden. Also sagt man: Wir haben doch ein Ethik-White-Paper, wir stellen ganz viele Ethiker*innen an — wir sind auch voll ethisch."*
+Dagegen stellt er in Osnabrück eine **machtbewusste Ethik der KI**, die benennt, wer von einer Technik profitiert und wer sie zu spüren bekommt.
 
 ---
 
 ### AGI-Skepsis und struktureller Pessimismus
 
-[▶ ~2:30:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=9000)
+[▶ 2:55:38](https://www.youtube.com/watch?v=DY_LgqIh40k&t=10538)
 
-Mühlhoffs Position zu AGI ist klar: **AGI wird nicht kommen.** Die KI-Blase wird in wenigen Jahren platzen — Pattern Recognition ist nicht menschliche Intelligenz, und man wird das erkennen.
+Mühlhoffs Position zu AGI ist klar: **AGI wird nicht kommen.** Die KI-Blase werde platzen, Mustererkennung sei keine menschliche Intelligenz.
 
-Die eigentliche Frage ist eine andere: Wie viel Staatsmacht hat sich die Industrie bis dahin angeeignet? Wenn sie erst einmal das „Betriebssystem" des Staates geworden ist, kann man sie nicht mehr einfach scheitern lassen — man müsste sie retten, wie man 2008 die Banken retten musste.
+Die eigentliche Frage sei eine andere: wie viel Staatsmacht sich die Industrie bis dahin angeeignet hat.
 
-> *„Ich bin nicht komplett pessimistisch, sonst würde ich das nicht machen. Aber es wird haarig werden. Wir werden noch sehr viel mehr Verfolgung, Diskriminierung, Ermordung, Klimawandel und dadurch sterbende Millionen erleben."*
+> *„… dass man sie nicht scheitern lassen kann, dass man, wenn die AI-Bubble platzt, diese Unternehmen retten muss, weil sie das staatliche Betriebssystem geworden sind. Das ist die Frage. Und wie viel Faschismus haben wir bis dahin? Das ist die zweite Frage. Und in der Hinsicht bin ich nicht so optimistisch. Also, es wird schon haarig werden. Wir werden noch sehr viel mehr Verfolgung, Diskriminierung, Ermordung, Klimawandel und dadurch sterbende Millionen und Milliarden von Menschen erleben."* [▶ 2:56:24](https://www.youtube.com/watch?v=DY_LgqIh40k&t=10584)
+
+Später nennt er es selbst „too big to fail" — ein Muster, das man von der Bankenrettung 2008 kennt.
 
 **Gegenstrategien (Europa):**
-- Europäische Regulierung halten und ausbauen — DSGVO als Modell, das weltweit Wirkung hatte
-- Nicht Deregulierung als Antwort auf US-Wettbewerb — das nützt nur den großen Playern
-- Europäische Unternehmen fördern *mit* Regulierungsrahmen, nicht gegen ihn
-- Den Rechtsstaat als gemeinsamen Nenner verteidigen — quer zu Parteigrenzen
+- Europäische Regulierung halten und ausbauen — die DSGVO als Modell, das weltweit Wirkung hatte
+- Deregulierung ist keine Antwort auf den US-Wettbewerb, sie nützt nur den großen Playern
+- Europäische Unternehmen fördern, *mit* einem Regulierungsrahmen
+- Den Rechtsstaat als gemeinsamen Nenner verteidigen, quer zu Parteigrenzen
 
 > [!note] Eigene Einschätzung
-> Mühlhoffs Gegenstrategie ist bewusst defensiv: erst mal halten, was wir haben. Das wirkt kleiner als die Diagnose — aber vielleicht ist das ehrlicher als alle Utopien. Wer seinen Rechtsstaat verliert, verliert den Hebel für alles andere. Das ist kein revolutionäres Programm, sondern ein minimaler Anker in einer Welt, die gerade schnell schlechter wird. Ich finde darin eine Parallele zu Bonhoeffers „Theorie der Dummheit": die erste Pflicht ist nicht Veränderung, sondern Verhinderung des Schlimmsten.
+> Die Gegenstrategie ist bewusst defensiv: erst einmal halten, was da ist. Das wirkt kleiner als die Diagnose, vielleicht ist es ehrlicher als jede Utopie. Hans Jessen nennt das Schlusskapitel des Buches „ein schwächeres" (▶ 3:50); Mühlhoff antwortet, die Neuauflage baue genau diesen Teil aus.
 
 ---
 
-### Zuschauerfragen — wo der Chat die Theorie konkretisiert
+### Fragen aus dem Chat — wo die Theorie an Fällen tragen muss
 
-[▶ ~2:45:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=9900) — Im zweiten Teil übernimmt Hans Jessen die Fragen aus dem Live-Chat. Bei einer so dichten Theorie wie Mühlhoffs Synergie-These zwischen KI und Neuer Rechten wird besonders sichtbar, wie sie an konkreten Fällen tragen muss — an Schul-KI, an Klickarbeit im globalen Süden, an Palantir, am Zirkelschluss zwischen staatlichem Regulator und staatlicher KI-Anwendung.
+[▶ 3:00:11](https://www.youtube.com/watch?v=DY_LgqIh40k&t=10811) — Im zweiten Teil übernimmt **Hans Jessen** die Fragen aus dem Live-Chat; Tilo Jung hat sich kurz vorher verabschiedet. An Schul-KI, Klickarbeit im globalen Süden, Palantir und dem Interessenkonflikt eines Staates, der regulieren soll, was er selbst nutzen will, muss sich Mühlhoffs These konkret bewähren.
 
 #### Sind Trainingsdaten der materielle Urgrund von KI?
 
-Hans Jessens Einstieg: Du sprichst vom „Trainingsdaten-Paradigma" — sind die Trainingsdaten der *materielle Urgrund* dessen, was wir heute als KI erleben?
+Hans Jessens Einstieg: Sind die Trainingsdaten der *materielle Urgrund* dessen, was wir heute als KI erleben?
 
-Mühlhoffs Antwort: Ja, im Groben. Die KI-Technologie, die heute groß und erfolgreich geworden ist, folgt dem Paradigma des *maschinellen Lernens* — und das braucht *gewaltige* Datensätze. Die Idee ist alt (geht auf Turing zurück), aber technisch erst seit ~15 Jahren machbar: Rechenleistung *und* Speicher *und* vor allem die Daten selbst.
+Mühlhoffs Antwort: Ja, im Groben. Die heute erfolgreiche KI folgt dem Paradigma des *maschinellen Lernens*, und das braucht gewaltige Datensätze. Die Idee ist alt, technisch machbar ist sie erst seit etwa fünfzehn Jahren: Rechenleistung, Speicher und vor allem die Daten selbst. Und die liegen bei den Unternehmen, die seit den frühen 2000ern die Infrastruktur betreiben, über die wir alle Daten erzeugen: Amazon, Google, Microsoft, Meta, Apple. Deshalb seien das auch die Unternehmen, die jetzt KI machen können.
 
-> *„Die bessere Frage ist nicht *warum* haben wir die Daten, sondern *wo* haben wir sie. Bei den Unternehmen, die seit den frühen 2000ern die Infrastruktur etabliert haben, über die wir heute alle Daten produzieren — Amazon, Google, Microsoft, Meta, Apple. Deswegen sind das auch die Unternehmen, die jetzt KI machen können."*
-
-Eine strukturelle Pointe: KI-Macht ist eine Folge von *Dateninfrastruktur-Eigentum* — kein Zufall, kein Wettbewerbsergebnis.
+Die Pointe: KI-Macht folgt aus dem *Eigentum an Dateninfrastruktur*.
 
 #### Warum ist der Unterschied zwischen Wahrheit und Wahrscheinlichkeit so wichtig?
 
-Wenn KI-Outputs sich „schlüssig und plausibel" lesen — warum ist es so entscheidend, dass sie auf *Wahrscheinlichkeit* (nicht Wahrheit) optimiert sind?
+KI-Systeme sind darauf optimiert, auszugeben, was am wahrscheinlichsten gut ankommt. Mühlhoffs Beispiel ist ein Klappentext für sein Buch: Es gibt keinen *wahren* Klappentext, nur einen, der besser oder schlechter ankommt. ChatGPT werde über Nutzerfeedback nachtrainiert und lerne so, Antworten zu geben, die Zustimmung bringen. Wahrheit ist dabei kein Kriterium.
 
-Mühlhoffs Antwort ist fundamental: KI-Systeme sind darauf optimiert, *das auszugeben, was am wahrscheinlichsten gut ankommt*. Beispiel Klappentext: Es gibt keine *wahre* Version — es gibt die, die am besten performt. ChatGPT wird über Nutzerfeedback trainiert (Daumen hoch, Nachfrage, Schweigen). Das System lernt, Antworten zu *plappern, die am wahrscheinlichsten Zustimmung bringen*. Wahrheit ist kein Kriterium — und kann es im Trainingsdesign auch gar nicht sein.
+#### Was ist mit KI in der Medizin?
 
-#### Was ist mit KI in der Medizin? Wäre das nicht legitim?
+Eine Chat-Frage: In der Diagnostik kann KI doch Leben schützen, etwa bei suizidalen Menschen.
 
-Eine Chat-Frage mit positivem Bezug zu KI: In der ärztlichen Diagnostik kann KI doch Risiken erkennen — was wäre schlecht daran?
+Mühlhoff antwortet „ja und nein". In der ärztlichen Diagnostik sei das vielversprechend. Aber dasselbe Modell wandert weiter, zur Versicherung, die es vor dem Vertragsabschluss laufen lässt, oder zum Arbeitgeber im Bewerbungsgespräch. Klassisches *Function Creep*: Ein System wird für einen harmlosen Zweck gebaut und landet in Anwendungen, die meist große Gruppen ohne Stimme treffen.
 
-Mühlhoff differenziert scharf: In der ärztlichen Diagnostik *ja*, dort sicher vielversprechend. Aber dasselbe Modell wandert weiter — *„nicht die behandelnde Ärztin, sondern die Versicherung lässt es laufen, bevor sie den Vertrag abschließt. Oder der Arbeitgeber bei der Bewerbung."* Es gibt KI-Forschung zur Erkennung von Depressionen aus Stimmaufnahmen — anfangs medizinisch, dann in Bewerbungsgesprächen.
+> *„… die größere Frage ist: Auf welche Bevölkerungsgruppen wird so ein System angewendet werden?"* [▶ 3:10:51](https://www.youtube.com/watch?v=DY_LgqIh40k&t=11451)
 
-Klassisches *Function Creep*: Ein System wird für einen unproblematischen Zweck gebaut und mutiert in problematische Anwendungsfelder, *„die meistens Bevölkerungsgruppen treffen, die groß sind und keine Stimme haben."*
-
-> *„Ethik-Debatten müssen immer Verteilungsfragen stellen. Die Frage ist nicht: Was ist, wenn man einen Piloten mit Depression übersieht? Die größte Frage ist: Auf welche Bevölkerungsgruppen wird so ein System angewendet werden?"*
-
-Der oft bemühte Andreas-Lubitz-Fall (Germanwings 2015) ist die *Rosine*, die als Legitimation für eine viel breitere, schädlichere Anwendung herhält.
+Der oft bemühte Fall Andreas Lubitz (Germanwings 2015) sei die Rosine, die eine viel breitere, schädlichere Anwendung rechtfertigen soll.
 
 #### Wodurch unterscheidet sich KI-„Lernen" von menschlichem Lernen?
 
-Mühlhoffs Antwort kommt über **Timnit Gebrus** Bild des *stochastischen Papageien*: Ein großes Sprachmodell ist ein automatisierter Papagei — er plappert nach, was er hundertmal gehört hat, kann es ein bisschen variieren. *„Das ist nicht Lernen. Das ist wie wenn ich in der Schule den Stoff nicht verstehe, sondern nur performativ reproduziere — ein typischer Quatschkopf, der eigentlich nichts versteht, aber ganz gut quatschen kann."*
+Mühlhoff greift zum Bild des *stochastischen Papageien* aus dem Aufsatz von Emily Bender, Timnit Gebru und anderen (2021): Ein Sprachmodell plappert nach, was es hundertmal gehört hat, und variiert es ein bisschen.
 
-Auf Tilos Nachfrage, ob Imitations-Lernen nicht der Anfang *jedes* menschlichen Lernens sei: Mühlhoff weicht der Philosophie-des-Geistes-Debatte aus und antwortet *empirisch* — die Technikgeschichte zeigt, dass Extrapolation von einzelnen Erfolgen auf zukünftige durchgehend gescheitert ist. *„Eine exponentielle Entwicklungskurve sieht an jedem Punkt gleich krass aus."* Sie verführt zur Projektion. Aus Erfolgsschritten in den nächsten zu schließen — falsch.
+> *„Das ist ja nicht Lernen. Das ist so, wie wenn ich in der Schule sitze und den Stoff, der mir da vermittelt wird, nicht verstehe, sondern einfach nur so performativ zu reproduzieren weiß. […] Das ist so ein typischer Quatschkopf, würde man eigentlich sagen. Jemand, der eigentlich nichts versteht, aber ganz gut quatschen kann."* [▶ 3:13:53](https://www.youtube.com/watch?v=DY_LgqIh40k&t=11633)
 
-Wichtig: Auch *politische Gegenentwürfe* erben die Denkstrukturen der Gegenwart — *„die 68er wollten sich gegen Unterdrückung auflehnen, aber..."* Kritik muss Selbstkritik einschließen — Hinterfragen der eigenen *Episteme*.
+Hans Jessen hakt nach: Kennt die Sporttheorie nicht das *Imitationslernen*, ist Nachahmung nicht der Anfang jedes Lernens? Mühlhoff weicht der Philosophie-des-Geistes-Debatte aus und antwortet mit der Technikgeschichte: Der Schluss von einzelnen Erfolgen auf künftige sei immer wieder gescheitert. Eine exponentielle Kurve sehe an jedem Punkt gleich steil aus und verführe zur Projektion.
 
-#### Faschismus = KI + Old Right? Lenin lässt grüßen
+Dazu gehört für ihn Selbstkritik: Auch Gegenentwürfe erben die Denkstrukturen ihrer Zeit, die 68er nicht ausgenommen.
 
-Tilo wirft ein, Mühlhoffs Formel klinge wie Lenins berühmtes *„Kommunismus ist die Herrschaft der Räte plus Elektrifizierung des ganzen Landes"* — nur als negative Variante.
+#### Faschismus = KI + Neue Rechte?
 
-Mühlhoff präzisiert: Er rede *nicht* von einem Faschismus, der „da" sei, sondern von Faschismus als *Prozess der Radikalisierung*. Wenn die Synergien zwischen KI-Industrie und ultrarechter Ideologie gemeinsame Sache machen, kann eine gesellschaftliche Radikalisierung in Gang kommen — *„technokratisch mechanisierte Menschen-Selektionsprozesse zum Kern unseres politischen Systems machen"*, ideologisch legitimiert durch das Narrativ der dekadenten Gegenwart, die zur nationalen Überlegenheit hin „repariert" werden soll.
+Hans Jessen wirft ein, Mühlhoffs Formel von der Synergie zwischen KI und Neuer Rechter klinge wie Lenins Satz von 1920, Kommunismus sei Sowjetmacht plus Elektrifizierung des ganzen Landes, nur negativ gewendet.
+
+Mühlhoff präzisiert: Er rede nicht von einem Faschismus, der schon da sei, sondern von Faschismus als *Prozess der Radikalisierung*. Wenn KI-Industrie und ultrarechte Ideologie gemeinsame Sache machen, könne eine Gesellschaft dahin kippen, technokratisch mechanisierte Menschen-Selektion zum Kern ihres politischen Systems zu machen.
 
 #### Was können künstliche neuronale Netze nicht lernen?
 
-Eine konkrete philosophische Frage. Mühlhoffs Antwort ist überraschend:
+Mühlhoffs Antwort überrascht:
 
-> *„Das weiß ich nicht. Es tut mir leid. Es ist mir egal."*
+> *„Das kann ich nicht sagen. Es tut mir leid. […] weil es ist mir egal."* [▶ 3:22:59](https://www.youtube.com/watch?v=DY_LgqIh40k&t=12179)
 
-Warum? Weil seine Wissenschaft *nicht* fragt, was KI *wirklich* kann — sondern *was über KI behauptet wird* und welche Macht-Wirkung diese Behauptung in der Gesellschaft entfaltet.
+Seine Wissenschaft fragt nicht, was KI *wirklich* kann, sondern was über KI behauptet wird und welche Macht diese Behauptung entfaltet. Sein Beispiel: KI-Werkzeuge für den Unterricht, auf die die Hälfte der Bundesländer Zugriff hat, darunter solche, die Aufsätze benoten. Sein Team hat eines davon untersucht, das Fobizz-Tool:
 
-Beispiel: Eines seiner Forschungsprojekte untersucht KI-Tools, die die Hälfte der deutschen Bundesländer für die *automatische Bewertung von Schüler-Aufsätzen* eingekauft hat. Die Unternehmen behaupten, die KI könne das. Ein Hauptbefund: *„Nur Texte, die Schüler:innen mit ChatGPT geschrieben haben, werden von diesen Tools am besten bewertet. Mit einem rein menschlich geschriebenen Text schaffst du keine Bestbewertung."*
+> *„… nur die Texte, die die Schülerinnen mithilfe von ChatGPT [schreiben], die werden bestbewertet. […] Du schaffst es nicht, eine Bestbewertung mit einem menschlich geschriebenen Text zu kriegen."* [▶ 3:24:29](https://www.youtube.com/watch?v=DY_LgqIh40k&t=12269)
 
-> *„Es ist egal, ob die KI wirklich benoten kann. Sie wird damit verkauft. Und dadurch transformiert sich, was *Benoten* überhaupt heißt."*
+Ob die KI wirklich benoten kann, sei zweitrangig. Sie wird damit verkauft, und dadurch verändert sich, was Benoten überhaupt heißt.
 
 #### Klickarbeit im globalen Süden — der unsichtbare Unterbau
 
-Tilo erinnert an Mühlhoffs Buch-Kapitel zur *digitalen Neokolonialismus*-Dimension von KI: Hinter den großen Modellen stehen Klickarbeiter:innen, die Daten labeln. Mühlhoff weitet das aus auf *Commercial Content Moderation*: Bei Facebook/Instagram filtert KI ~80 % der harmlosen Inhalte aus — der *Rest* (Grenzfälle: Gewalt, Pornografie, Mord, Krieg) geht an menschliche Moderator:innen, meist im globalen Süden.
+Hans Jessen verweist auf das Buchkapitel zur Klickarbeit: Hinter den großen Modellen stehen Menschen, die Daten labeln. Mühlhoff weitet das auf die *Content Moderation* aus: Die KI sortiert das Eindeutige aus, sie sei „so 80 % genau"; die Grenzfälle, Gewalt, Pornografie, Mord, Krieg, gehen an menschliche Moderator:innen, oft im globalen Süden.
 
-> *„Diese Menschen haben nach drei Monaten posttraumatische Belastungsstörung. Aber in den Sozialsystemen der Länder, wo das gemacht wird, kann man das einfach mit den Leuten machen — die kriegen keine Gesundheitsversorgung, die Firmen bezahlen sie auch nicht. Man beutet sie psychologisch und gesundheitlich aus."*
+> *„Diese Menschen haben nach drei Monaten posttraumatische Belastungsstörung. Aber in den Sozialsystemen der Länder, wo das gemacht wird, kann man das einfach mit den Leuten machen."* [▶ 3:30:33](https://www.youtube.com/watch?v=DY_LgqIh40k&t=12633)
 
-Verweis: *Sarah Roberts* hat das wissenschaftlich aufgearbeitet. Analog zu Kindern auf afrikanischen Müllhalden, die Kupfer aus Kabeln brennen — eine Ausbeutungsform, die in westlichen Industrienationen rechtlich undenkbar wäre.
+Die Forschung dazu nennt er bei Sarah Roberts. Hans Jessen erinnert an die Kinder auf afrikanischen Müllhalden, die Kupfer aus Kabeln brennen; Mühlhoff stimmt zu: eine Ausbeutung, die in westlichen Industrieländern rechtlich undenkbar wäre.
 
-#### Wo kann man Geisteswissenschaft + KI-Kritik studieren?
+#### Wo kann man Geisteswissenschaft und KI-Kritik studieren?
 
-Praktische Studienberatung im Chat. Mühlhoffs Tipps: *Kognitionswissenschaft* (sein eigener Standort Osnabrück), allgemein das interdisziplinäre Feld **Science and Technology Studies (STS)** — zwischen Philosophie, Sozialwissenschaften und Informatik — oder **AI Ethics**. Pragmatischer Tipp: *„Lies ein paar Bücher oder Papers, die Ansätze, die dir gefallen — guck, wo die Leute sind, an welcher Uni."*
+Praktische Studienberatung: *Kognitionswissenschaft*, wie an seinem Standort Osnabrück, das interdisziplinäre Feld **Science and Technology Studies (STS)** oder **AI Ethics**. Und pragmatisch: ein paar Bücher oder Papers lesen, deren Ansatz einem gefällt, und schauen, an welcher Uni die Leute sind.
 
 #### Wie schaffe ich gesellschaftlichen Mehrwert mit KI, solange sie privatisiert ist?
 
-Eine klassisch linke Frage aus dem Chat. Mühlhoff antwortet zweispurig:
+Mühlhoff antwortet zweispurig:
 
 1. **Vergesellschaftung** — langfristig, weil KI eigentlich *Infrastruktur* ist.
-2. **Bis dahin: harte Regulierung.** Konkret an der Schwelle, wo KI *staatliche Funktionen* übernimmt (Bürokratieabbau, Polizei, *Palantir*). Predictive Policing ist *„egal, ob europäisch oder amerikanisch, immer menschenverachtend und grundrechtsgefährdend."*
+2. **Bis dahin harte Regulierung**, vor allem dort, wo KI staatliche Funktionen übernimmt: Bürokratieabbau, Polizei, Palantir. Predictive Policing sei „egal, ob von einem europäischen Unternehmen oder einem amerikanischen Unternehmen, immer menschenverachtend" (▶ 3:34:21).
 
-> *„Wir können nicht den Tech Pros überlassen, die eigenen Beschränkungen zu entwerfen. Wir brauchen Geisteswissenschaften, normative Wissenschaften, die diese Beschränkungen in den Diskurs und in die Politik einbringen — und eine Wahlbevölkerung, die das dann auch implementiert."*
+> *„Das können wir nicht den Tech-Bros überlassen, auch noch die eigenen Beschränkungen zu entwerfen."* [▶ 3:35:07](https://www.youtube.com/watch?v=DY_LgqIh40k&t=12907)
 
 #### Vergleich mit China — staatlicher Zugriff als Alternative?
 
-Tilos Nachfrage: China hat doch staatliche Kontrolle. Mühlhoff bremst: *„China hat keine demokratisch-rechtsstaatliche Tradition — das ist ganz schwierig, diese Systeme zu vergleichen."* Wichtiger noch: In China *vertraut* die Gesellschaft dem Staat und *misstraut* der Industrie. In den USA umgekehrt. Bevor man über Social Credit Systems urteilt, muss man diese *Valenz-Differenzen* verstehen. Was nicht heißt, dass China kein totalitärer Staat ist, der politische Opponenten unterdrückt — *„das sollte skandalisiert werden"*. Aber der reflexhafte China-Vergleich verbiegt die eigene Debatte.
+Hans Jessens Einwand: In China ist es doch staatlicher Zugriff. Mühlhoff bremst: China habe keine demokratisch-rechtsstaatliche Tradition, die Systeme ließen sich schwer vergleichen. In China *vertraue* die Gesellschaft eher dem Staat und misstraue der Industrie, in den USA sei es umgekehrt; die Dinge hätten dort „andere Valenzen". Dass China politische Gegner unterdrückt, solle trotzdem skandalisiert werden.
 
 #### Gibt es neutrale Datensätze?
 
-Frage nach Open-Source-KI auf „neutralen" Daten. Mühlhoffs Antwort ist eindeutig:
+> *„Die Antwort ist ganz eindeutig und auch mit voller wissenschaftlicher Deckung letzteres. Es gibt keine neutralen Daten. Alle Daten sind ausgewählt, geshaped …"* [▶ 3:38:57](https://www.youtube.com/watch?v=DY_LgqIh40k&t=13137)
 
-> *„Es gibt keine neutralen Daten. Alle Daten sind ausgewählt, geschöpft, kuratiert aus einer bestimmten Perspektive. Die Idee, Daten seien objektiv, ist eines der zentralen Stücke der gegenwärtigen Technikideologie."*
-
-Stichwort *Automation Bias*: Menschen glauben Computer-Entscheidungen eher als Mensch-Entscheidungen, weil sie *„auf Datengrundlage"* erscheinen. Klassisches Zitat eines Ex-Google-Mitarbeiters: **„All data is credit data."** Alle Daten sind potenziell Credit-Scoring-Daten. Es gibt keine Gott-Perspektive auf Welt — also auch keine Daten, die aus dem Nichts kommen.
+Dazu der *Automation Bias*: Menschen vertrauen einer Computerentscheidung eher als einer menschlichen, weil sie scheinbar auf Daten beruht. Und der Satz eines Branchenvertreters, dessen Namen Mühlhoff gerade nicht parat hat: **„All data is credit data."**
 
 #### Brauchen wir KI nicht zur Komplexitätsbewältigung?
 
-Eine in Tech-Debatten häufige Annahme. Mühlhoffs Antwort: *„Nö. Easy-Argument, Shortcut."*
+Mühlhoffs Antwort: ein Kurzschluss. Sein Beispiel: Nach dem Start von ChatGPT (Ende 2022) seien Software-Entwickler:innen entlassen worden, und jetzt würden sie wieder eingestellt, weil die KI so viel „AI-Slop" produziert habe, dass Menschen aufräumen müssten *(dafür gibt es keinen belastbaren Beleg → [[#Faktencheck|Faktencheck]])*.
 
-Sein Beispiel: Nach ChatGPT 2023 wurden massiv Software-Entwickler:innen entlassen. *„Jetzt werden die wieder eingestellt — weil die KI so viel AI-Slop produziert hat, dass jetzt erstmal Menschen den Shit aufräumen müssen."* Chaotischer, schlecht dokumentierter Code, Folge-Fehler, die niemand mehr beherrscht — die KI macht Komplexität *nicht* beherrschbar, sondern *vermehrt* sie.
-
-Tilo schließt mit Goethes *Zauberlehrling* (1797): *„Die Geister, die ich rief..."* Mühlhoff präzisiert: Bei Goethe kommt der Meister zurück. *Hier* gibt es keinen Meister.
+Hans Jessen denkt an Goethes *Zauberlehrling* (1797), in dem am Ende der Meister zurückkehrt und aufräumt. Mühlhoff wendet das auf die Macht: Gefährlich werde es, wenn eine Industrie staatliche Funktionen übernimmt und unersetzlich wird, „da ist das Monster, was entstehen kann, die Multiplizierung von Macht und Schadpotential" (▶ 3:43:31).
 
 #### Kann man KI nicht für Demokratie nutzen?
 
-Eine wohlwollende Chat-Frage. Mühlhoff dreht sie um: *„Hätte gerne kurz ein Beispiel."* Tilo improvisiert: Elterninitiativen suchen nach Erfolgsbeispielen gegen verkommende Schulen. Mühlhoffs zwei Antworten:
+Eine wohlwollende Frage. Mühlhoff fragt zurück, für welchen Anwendungsfall, und spielt selbst einen durch: Eine Elterninitiative will wissen, wo andere erfolgreich gegen verfallende Schulen vorgegangen sind. Seine zwei Antworten:
 
-1. *„Warum googelst du das jetzt nicht? Google ist auch KI, aber wenigstens nicht LLM. Bei ChatGPT ist das Halluzinations-Risiko zu groß, und der Ressourcenverbrauch zu hoch."*
-2. Wenn es *systematisch* wird, *„wollt ihr OpenAI wirklich so viel Macht geben, das Betriebssystem aller Elterninitiativen zu werden?"*
+1. Dafür reiche eine Suchmaschine; bei Sprachmodellen seien Halluzinationsrisiko und Ressourcenverbrauch zu hoch.
+2. Wird es *systematisch* — wollt ihr OpenAI wirklich zum Betriebssystem aller Elterninitiativen machen?
 
-Die zentrale Pointe: *„Man kann diese KI nicht losgelöst vom Unternehmen besprechen, von dem man sie kauft."*
+Die Pointe: Man kann diese KI nicht getrennt von dem Unternehmen besprechen, bei dem man sie kauft.
 
 #### Welche KI nutzt du selbst?
 
-Eine sympathische Chat-Frage. Mühlhoffs ehrliche Antwort: **Voice-to-Text** auf dem Smartphone. Er mag Soft-Keyboards nicht, will keinem Sprachnachrichten schicken („verlangt dem Gegenüber zu viel ab"). *„Übrigens kann das Ding nach acht Jahren immer noch nicht die Namen meiner Kinder in der richtigen Rechtschreibung."*
+Seine Antwort an Hans: **Spracherkennung** auf dem Smartphone, weil er Bildschirmtastaturen nicht mag und anderen keine Sprachnachrichten zumuten will. „Übrigens kann das Ding nach acht Jahren immer noch nicht die Namen meiner Kinder in der richtigen Rechtschreibung." Im ersten Teil hatte er Tilo Jung mehr erzählt: Er nutze große Sprachmodelle für die Grammatik fremdsprachiger Texte und zum Kürzen von Absätzen, „ich nutze jeden Tag KI" (▶ 2:52:34).
 
-Sein Prinzip: KI als *Werkzeug* benutzen — Zweck klar, Eignung geprüft — ist völlig legitim. Etwas anderes ist es, *als Gesellschaft* in eine schleichende KI-Abhängigkeit zu rutschen, in der immer mehr Zwecke unreflektiert auf KI verlagert werden.
+Sein Prinzip: KI als *Werkzeug* zu benutzen, mit klarem Zweck und geprüfter Eignung, ist legitim. Etwas anderes ist es, als Gesellschaft in eine schleichende Abhängigkeit zu rutschen.
 
 #### Werden Wahlen durch KI manipuliert?
 
-Mühlhoff differenziert: Donald Trump wurde mit *breiter Mehrheit* gewählt — das nicht klein zu reden. *Aber*: In sozialen Medien wird massiv politische Desinformation betrieben, die Wahlen beeinflusst. *„Das darf man nicht unterschätzen — das muss man regulieren, dafür haben wir in der EU eigentlich den Digital Services Act."* Ein *systemisches* Risiko.
+> *„Wahlen wurden schon manipuliert, unter anderem auch die Wahl von Donald Trump. Ich will jetzt nicht … man darf das jetzt auch nicht zu krass machen. Also, Donald Trump wurde mit einer breiten Mehrheit gewählt, insbesondere beim zweiten Mal."* [▶ 3:48:52](https://www.youtube.com/watch?v=DY_LgqIh40k&t=13732)
 
-#### Hochmut kommt vor dem Fall — können wir uns nicht darauf verlassen?
+*(2024 lag Trump bei 49,8 gegen 48,3 Prozent, eine knappe relative Mehrheit → [[#Faktencheck|Faktencheck]])* Trotzdem werde in sozialen Medien massiv Desinformation betrieben, die Wahlen beeinflusst. Dafür gebe es in der EU den Digital Services Act; es sei ein systemisches Risiko.
 
-Mühlhoffs Antwort ist düster:
+#### Hochmut kommt vor dem Fall — können wir uns darauf verlassen?
 
-> *„Ja, der Fall wird kommen. Das Problem ist: Diese Akteure werden sich bis dahin so sehr mit dem Kern unserer demokratischen Rechtsstaaten verbinden, dass sie dieselben mit hineinreißen bei ihrem Fall."*
+> *„Das Problem ist, diese Akteure werden sich bis dahin so sehr mit dem Kern unserer demokratischen Rechtsstaaten verbinden, dass sie dieselben mit hineinreißen bei ihrem Fall."* [▶ 3:49:37](https://www.youtube.com/watch?v=DY_LgqIh40k&t=13777)
 
-Sein Begriff dafür: **„AI goes state"** — KI hat aufgehört, eine Ziviltechnologie zu sein. Sie übernimmt Staatsmacht, um sich *unersetzbar* zu machen — *too big to fail, too important to fail*. Wenn sie fällt, fallen die Staaten mit. Eine eigene Dystopie.
+Sein Begriff dafür: **„AI goes State"** — KI hat aufgehört, eine Ziviltechnologie zu sein. Sie will Staatsmacht übernehmen, um sich unersetzbar zu machen, „too big to fail, too important to fail". Wenn sie fällt, fallen die Staaten mit.
 
-#### Der Zirkelschluss: Staat reguliert, was er selber nutzt
+#### Der Zirkelschluss: Der Staat reguliert, was er selbst nutzt
 
-Eine pointierte Frage am Ende. Mühlhoff verweist auf die Rechtswissenschaftlerin **Hannah Ruschemeier** (im Buch zitiert): Genau diesen Interessenkonflikt diskutiert er explizit — *„Staaten wollen KI benutzen *und* sind gleichzeitig diejenigen, die KI regulieren und ihre Übermacht einhegen sollten."*
+Mühlhoff verweist auf die Rechtswissenschaftlerin **Hannah Ruschemeier**, die genau diesen Interessenkonflikt beschrieben hat: Staaten wollen KI benutzen und sollen zugleich ihre Übermacht einhegen. Für ihn heißt das:
 
-Seine Konsequenz: *„Der Staat muss sich zurückhalten, privatwirtschaftliche KI-Technologie zu benutzen. Die Regulierung muss zuerst erfolgen — die Einhegung der Macht. Erst danach kann man diese Services im Rahmen der Regulierung benutzen. Wenn man zuerst die Services benutzt und dann meint, irgendwann noch regulieren zu können — daran glaube ich nicht."*
+> *„… dass sich der Staat zurückhalten muss, privatwirtschaftliche KI-Technologie zu benutzen. Also auf jeden Fall muss die Regulierung zuerst erfolgen, also die Einhegung der Macht, und dann kann man diese Services von mir aus auch noch in dem Rahmen dieser Regulierung benutzen. Aber wenn man zuerst die Services benutzt oder sich mit denen verschmilzt und dann noch denkt, irgendwann noch regulieren zu können — daran glaube ich nicht."*
 
 #### Macht man im Rechtsstaat Kompromisse?
 
-Hans Jessen widerspricht abschließend einer Mühlhoff-Formulierung aus dem ersten Teil. Mühlhoff korrigiert: Innerhalb des parteipolitischen Spektrums *natürlich* — demokratische Politik *ist* Kompromissbildung. Aber: *„Wenn es um rechtsstaatliche Prinzipien geht, gibt es keine Kompromissbereitschaft. Der demokratische Rechtsstaat ist der Rahmen, innerhalb dessen Politik stattfindet. Den anzuzweifeln, ist verfassungsfeindlich."*
+Hans Jessen widerspricht zum Schluss einem Satz aus dem ersten Teil. Mühlhoff stellt klar: Innerhalb des parteipolitischen Spektrums basiere demokratische Politik auf Mehrheiten und Kompromissen. „Aber wenn es um die Frage geht, rechtsstaatliche Prinzipien infrage zu stellen, da gibt es keine Kompromissbereitschaft." Der demokratische Rechtsstaat sei der Rahmen, innerhalb dessen Politik stattfindet, und ihn anzuzweifeln, sei verfassungsfeindlich.
 
-Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Feinde der Freiheit."**
+Hans Jessen schließt mit dem Satz aus den Debatten um das Grundgesetz: **„Keine Freiheit für die Feinde der Freiheit."**
 
 > [!question] Weitergedacht
-> Wenn Mühlhoff sagt *„AI goes state — und wenn sie fällt, fällt der Staat mit"* — *was bedeutet das für die liberale Hoffnung auf Selbstkorrektur der Technologie durch Märkte? Ist die Entkopplung von KI und Staat schon möglich, oder hat sich der Zeitpunkt für sanfte Lösungen bereits geschlossen?*
+> Wenn Mühlhoff sagt *„AI goes State — und wenn sie fällt, fallen die Staaten mit"* — *was bleibt dann von der liberalen Hoffnung, Märkte würden eine Technik von selbst korrigieren? Ist die Entkopplung von KI und Staat noch möglich, oder hat sich das Fenster für sanfte Lösungen schon geschlossen?*
+
+---
+
+## Faktencheck
+
+> [!warning] Vereinfacht — Stromverbrauch bis 2030: „Faktor drei bis zehn"
+> Die Internationale Energieagentur rechnet in ihrem Hauptszenario damit, dass der Stromverbrauch aller Rechenzentren weltweit von rund 415 auf etwa 945 TWh im Jahr 2030 steigt, gut eine Verdopplung (zusammengefasst bei [Carbon Brief](https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/)). Eine neue Einzelstudie schätzt für KI-Rechenzentren einen Anstieg um das Zwei- bis Zweieinhalbfache ([Chen et al. 2026, doi:10.1038/s44458-026-00152-5](https://doi.org/10.1038/s44458-026-00152-5)). Mühlhoffs Untergrenze liegt also schon über den seriösen Schätzungen; die Richtung, ein steiler Anstieg, stimmt.
+
+> [!warning] Vereinfacht — DOGE und Palantir: „umfassende Übergabe von staatlichen Funktionen"
+> Die Zahl stimmt: Die US-Armee schloss am 31.07.2025 mit Palantir einen Rahmenvertrag mit einer Obergrenze von 10 Mrd. Dollar über bis zu zehn Jahre ([army.mil](https://www.army.mil/article/287506/army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency)). Er bündelt allerdings 75 bestehende Software- und Lizenzverträge; eine Übergabe von Funktionen, die vorher entlassene Beamte erledigten, ist darin nicht beschrieben. Der Personalabbau war viel größer als die im Gespräch genannten „10.000": 2025 verließen rund 317.000 Beschäftigte den Bundesdienst ([Federal News Network](https://federalnewsnetwork.com/workforce/2025/11/317000-feds-have-left-the-government-this-year-surpassing-opms-goal/)). Die Deutung, beides hänge zusammen, ist Mühlhoffs These.
+
+> [!danger] Falsch — Bostroms Rechnung als Argument gegen Regulierung
+> Die Größenordnung ist ungefähr richtig wiedergegeben: In [*Astronomical Waste*](https://nickbostrom.com/papers/astronomical-waste/) (2003) beziffert Bostrom den Verlust auf rund 10³⁸ mögliche Leben je Jahrhundert Verzögerung im Virgo-Superhaufen, etwa 10²⁹ pro Sekunde. Seine Schlussfolgerung ist aber das Gegenteil dessen, was Mühlhoff daraus liest: Vorrang habe die Verringerung existenzieller Risiken, „Minimize existential risk!", also Sicherheit vor Tempo. Ob andere Akteure den Longtermismus gegen Regulierung wenden, ist eine eigene Frage; Bostroms Text trägt diese Lesart nicht.
+
+> [!success] Bestätigt — Sensible Merkmale lassen sich aus Verhaltensdaten vorhersagen
+> Im Kern gut belegt: Facebook-Likes sagten in einer großen Studie sexuelle Orientierung, politische Haltung und Persönlichkeitsmerkmale voraus ([Kosinski, Stillwell & Graepel 2013, doi:10.1073/pnas.1218772110](https://doi.org/10.1073/pnas.1218772110)); die Sprache in Facebook-Beiträgen sagte spätere Depressionsdiagnosen voraus ([Eichstaedt et al. 2018, doi:10.1073/pnas.1802331115](https://doi.org/10.1073/pnas.1802331115)); ähnliches gelang für 21 Krankheitskategorien ([Merchant et al. 2019, doi:10.1371/journal.pone.0215476](https://doi.org/10.1371/journal.pone.0215476)). „Super vorhersagen" ist zugespitzt: Die Treffsicherheit schwankt stark nach Merkmal, und Einzelbeispiele wie Prostatakrebs sind nicht belegt.
+
+> [!warning] Vereinfacht — Moderator:innen „nach drei Monaten" mit PTBS
+> Dass Content-Moderation psychisch schwer belastet, zeigt ein Review ([Steiger et al. 2021, doi:10.1145/3411764.3445092](https://doi.org/10.1145/3411764.3445092)). In Kenia wurde bei mehr als 140 früheren Facebook-Moderatoren eine PTBS diagnostiziert ([CNN, 22.12.2024](https://edition.cnn.com/2024/12/22/business/facebook-content-moderators-kenya-ptsd-intl)). Die Frist „nach drei Monaten" ist nicht belegt.
+
+> [!success] Bestätigt — Das Fobizz-Tool benotet ChatGPT-Texte am besten
+> So steht es in der Studie seines Teams: „The highest ratings are achievable only with texts generated by ChatGPT" ([arXiv:2412.06651](https://arxiv.org/abs/2412.06651)). Es ist ein Preprint ohne Begutachtung und betrifft ein einzelnes Werkzeug.
+
+> [!warning] Nicht eindeutig belegt — Entlassen wegen ChatGPT, wieder eingestellt wegen „AI-Slop"
+> Für eine Welle von Wiedereinstellungen fand sich kein Beleg. Das Stanford Digital Economy Lab findet keine breite Verdrängung durch KI; bei jungen Beschäftigten in KI-exponierten Berufen liegt die Beschäftigung rund 19 Prozent unter dem erwarteten Pfad, vor allem weil weniger eingestellt wird, nicht weil mehr entlassen werden ([Brynjolfsson, Chandar & Chen, „Canaries in the Coal Mine"](https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/)).
+
+> [!warning] Vereinfacht — Trump „mit einer breiten Mehrheit gewählt"
+> 2024 erhielt Trump 49,8 Prozent der Stimmen, Harris 48,3 Prozent, bei 312 zu 226 Wahlleuten ([FEC](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)): ein klarer Sieg im Wahlleutekollegium, aber keine absolute Mehrheit der Stimmen. Den Satz davor, die Wahl sei „manipuliert" worden, nimmt Mühlhoff selbst gleich zurück; belegt ist Desinformation, keine Manipulation des Ergebnisses.
+
+> [!success] Bestätigt — Automation Bias
+> Menschen folgen automatischen Empfehlungen auch dann, wenn sie falsch sind; ein systematischer Review aus der Medizin belegt das ([Goddard, Roudsari & Wyatt 2011, doi:10.1136/amiajnl-2011-000089](https://doi.org/10.1136/amiajnl-2011-000089)).
+
+> [!note] Korrigiert am 31.10.2026
+> Die erste Fassung dieser Note entstand aus einer unvollständigen Abschrift. Dabei waren mehrere Fragen und Einwürfe von Hans Jessen Tilo Jung zugeschrieben, einige Gedanken Tilo Jungs Mühlhoff, und drei Sätze standen als Zitat da, die Mühlhoff so nicht gesagt hat („still und leise reprivatisiert", „der blinde Fleck aller dieser Ideologien", „hier gibt es keinen Meister"). Alles ist jetzt an der vollständigen Aufzeichnung geprüft.
 
 ---
 
@@ -363,11 +432,16 @@ Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Fein
 
 *Aus dem Gespräch:*
 
-- [The Authoritarian Stack](https://www.authoritarian-stack.info/) — Francesca Brias interaktive Datenplattform; Mühlhoffs Hauptreferenz für die Desouveränisierungs-These
+- [The Authoritarian Stack](https://www.authoritarian-stack.info/) — Francesca Brias interaktive Datenplattform; Mühlhoffs Referenz für die Desouveränisierungs-These
+- Nick Bostrom: [*Astronomical Waste*](https://nickbostrom.com/papers/astronomical-waste/) (2003) — die Rechnung hinter dem Longtermismus
+- Emily M. Bender, Timnit Gebru u. a.: *On the Dangers of Stochastic Parrots* (2021), [doi:10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
+- Mühlhoff u. a.: Studie zum Fobizz-Bewertungstool, [arXiv:2412.06651](https://arxiv.org/abs/2412.06651)
 
 *Zur Person:*
 
-- [rainermuehlhoff.de](https://rainermuehlhoff.de) — Mühlhoffs Publikationsliste und aktuelle Beiträge
+- [rainermuehlhoff.de](https://rainermuehlhoff.de) — Publikationsliste und aktuelle Beiträge
+- Rainer Mühlhoff: *Predictive privacy* (2021), [doi:10.1007/s10676-021-09606-x](https://doi.org/10.1007/s10676-021-09606-x) — der Aufsatz zur prädiktiven Privatheit
+- Rainer Mühlhoff & Hannah Ruschemeier (2024), [doi:10.1080/17579961.2024.2313794](https://doi.org/10.1080/17579961.2024.2313794) — der regulatorische Vorschlag: Zweckbindung für trainierte Modelle
 
 ---
 
@@ -375,65 +449,66 @@ Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Fein
 
 ### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
 
-Hararis „KI ist Agent, kein Werkzeug“ und die Rechtsperson-Frage bekommen hier die politökonomische Erdung: Mühlhoff zeigt, wie sich reale Souveränität längst an autonome Systeme und ihre Konzerne verschiebt — die Macht liegt faktisch dort, bevor wir sie *zusprechen*.
+Harari nennt KI einen Agenten, kein Werkzeug, und fragt, ob man ihr Rechte zusprechen soll. Mühlhoff würde schon die Frage für einen Teil der Ideologie halten, für Anthropomorphisierung: Die Macht verschiebt sich zu den Konzernen, die diese Systeme betreiben, nicht zu den Systemen selbst.
 
 - [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] — Kaltheuner versucht den politischen Gegenzug zu Mühlhoffs Desouveränisierungs-Diagnose: europäische Marktgestaltung als strukturelle Absicherung digitaler Souveränität. Diagnose und Gegenmittel als Brückenpaar.
-- [[Denker/Francesca Bria — The Authoritarian Stack]] — Brias Studie ist Mühlhoffs explizite Hauptreferenz für die These der Staatsübernahme durch Tech; Mühlhoff referiert sie als Kurzfassung seiner eigenen These. Bria liefert die Datenbasis: 250+ Akteure, \$45Mrd Finanzflüsse, fünf Domänen privatisierter Souveränität
-- [[Andreas Kemper — Technofaschismus und die AfD]] — direkter thematischer Zwilling: Kemper analysiert Technofaschismus von der AfD-Seite, Mühlhoff von der Silicon-Valley-Seite; zusammen ergibt sich das Gesamtbild
-- [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — von Redecker und Mühlhoff teilen die Diagnose eines strukturellen Neofaschismus; von Redecker aus politisch-philosophischer, Mühlhoff aus tech-kritischer Perspektive
-- [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoff analysiert, wie kybernetisches Denken Staatslogik untergräbt; direkte historische Vorgeschichte zu Mühlhoffs Desouveränisierungs-These
-- [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze dokumentiert dieselbe Tech-Militär-Symbiose, die Mühlhoff als Desouveränisierung beschreibt; gibt empirische Tiefe
-- [[Hannah Arendt — Denken ohne Geländer]] — Mühlhoffs KI-als-Faschismus-Ermöglicher ist eine direkte Aktualisierung von Arendts Banalität-des-Bösen-Konzept: ohne Urteilsvermögen, ohne Verantwortung
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Bonhoeffers Analyse der Dummheit als Produkt institutioneller Macht ist strukturell parallel: auch Mühlhoffs Tech-Ideologie entzieht Menschen das eigenständige Urteilen
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — beide analysieren die Unterhöhlung demokratischer Legitimation; Mausfeld durch Bewusstseinskontrolle, Mühlhoff durch technokratische Staatsübernahme
-- [[Manfred Spitzer — KI, Gehirn und Lernen]] — beide analysieren KI-Auswirkungen: Mühlhoff politisch/strukturell, Spitzer neurowissenschaftlich/pädagogisch; Spitzers Kritik an KI in der Schule wird durch Mühlhoffs Diagnose staatlicher Schul-Privatisierung politisch gerahmt
-- [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Beschleunigungskritik als Parallele: das System, das exponentiell wächst, muss Demokratie und Resonanz gleichermaßen eliminieren
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck analysiert die ökonomische Basis des Rechtsrucks; Mühlhoff zeigt, wie Tech-Kapital diese Basis aktiv verstärkt und ideologisch ausnutzt
-- [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Mühlhoffs Analyse in Echtzeit: KI als Instrument autoritärer Machterhaltung, erstmals von einem amtierenden EU-Regierungschef im Wahlkampf eingesetzt — nicht Zukunftsszenario, sondern April 2026
-- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Vivian Wangs China-KI-Analyse im NZ-Salon: Staatsvertrauen als KI-Vertrauen — bestätigt Mühlhoffs autoritäre KI-These
-- [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert: KI-Monopole müssen vergesellschaftet werden — LLMs basieren auf kollektivem Wissen, dürfen nicht privatisiert sein
-- [[Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als konkretes Produkt von Mühlhoffs Desouveränisierungs-These: KI richtet über journalistische Wahrheit, niemand befiehlt mehr — ein Algorithmus hat errechnet
+- [[Denker/Francesca Bria — The Authoritarian Stack]] — Mühlhoff nennt seine eigene Darstellung „eigentlich ein Referat dieser Studie im Kleinsten". Bria liefert die Datenbasis: Akteure, Finanzflüsse, Domänen privatisierter Souveränität (Stand der Karte: Oktober 2025)
+- [[Andreas Kemper — Technofaschismus und die AfD]] — thematischer Zwilling: Kemper analysiert Technofaschismus von der AfD-Seite, Mühlhoff von der Silicon-Valley-Seite
+- [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — von Redecker und Mühlhoff teilen die Diagnose eines neuen Faschismus; sie aus der Eigentumsphilosophie, er aus der Technikkritik
+- [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoff analysiert, wie kybernetisches Denken die Staatslogik untergräbt; historische Vorgeschichte zu Mühlhoffs Desouveränisierungs-These
+- [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze beschreibt dieselbe Nähe von Tech und Militär, die Mühlhoff als Desouveränisierung fasst
+- [[Hannah Arendt — Denken ohne Geländer]] — Arendt kommt im Gespräch nicht vor, aber Mühlhoffs „menschliche Zahnräder", die eine Maschine ersetzen könnte, lassen sich mit ihrer Banalität des Bösen lesen: Urteilslosigkeit, verteilt auf viele Schultern
+- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Bonhoeffer sah die Dummheit als Folge von Machtentfaltung, die Menschen das eigene Urteil abnimmt; Mühlhoffs Tech-Ideologie wirkt ähnlich
+- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — beide analysieren die Aushöhlung demokratischer Legitimation; Mausfeld über Meinungsmacht, Mühlhoff über den technokratischen Griff nach dem Staat
+- [[Manfred Spitzer — KI, Gehirn und Lernen]] — Spitzer kritisiert KI in der Schule neurowissenschaftlich; Mühlhoffs Fobizz-Befund liefert die politische Seite dazu
+- [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Beschleunigungskritik als Parallele: ein System, das exponentiell wachsen muss, gerät mit Demokratie und Resonanz in Konflikt
+- [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck analysiert die ökonomische Basis des Rechtsrucks; Mühlhoff zeigt, wie Tech-Kapital in dieselbe Richtung zieht
+- [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — KI als Werkzeug im Wahlkampf eines amtierenden EU-Regierungschefs, April 2026
+- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Vivian Wangs China-KI-Analyse im NZ-Salon: Staatsvertrauen als KI-Vertrauen, passend zu Mühlhoffs „anderen Valenzen"
+- [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert, KI-Monopole zu vergesellschaften, weil die Modelle auf kollektivem Wissen beruhen
+- [[Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als Beispiel: Eine KI richtet über journalistische Wahrheit, und niemand hat befohlen
 
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
-Grenzgänger Studios dokumentiert Thiels Gesamtbiografie als konkretes Fallbeispiel für Mühlhoffs Desouveränisierungs-These: CIA-Startfinanzierung → Palantir → DOGE-Datenzugriff → ObjectionAI. Was Mühlhoff als strukturelle Logik beschreibt (exponentielles KI-Wachstum erzwingt antidemokratische Governance), hat Thiel Schritt für Schritt realisiert.
+Grenzgänger Studios erzählt Thiels Weg als Fallbeispiel: In-Q-Tel, der Investmentarm der CIA, stieg früh bei Palantir ein, später folgten Regierungsaufträge und ObjectionAI. Was Mühlhoff als strukturelle Logik beschreibt, zeigt die Doku an einer Biografie; dass Thiel diesen Umbau planvoll betreibt, ist die These der Macher.
 
 ### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
-Kurz und Görlitz liefern den deutschen Rechtsfall zu Mühlhoffs Desouveränisierungsthese: Palantir übernimmt staatliche Kernfunktionen (Polizei, Gefahrenabwehr) ohne demokratische Kontrolle — der Vendor Lock-in und das Scheitern der Gesetze an Verfassungsstandards ist die empirische Verifikation seiner strukturellen Kritik.
+Kurz und Görlitz liefern den deutschen Rechtsfall: Palantir in der Polizeiarbeit, Vendor Lock-in und Gesetze, die vor dem Bundesverfassungsgericht scheitern. Ein konkretes Beispiel für das, was Mühlhoff strukturell beschreibt.
 
 ### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
-Kloiber und Kinyua liefern das menschliche Fundament von Mühlhoffs Kolonialismus-These: Die 150–430 Mio. Data Workers sind nicht Randnotiz, sondern die Rohstoff-Basis des KI-Regimes — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung in Reinform.
+Kloiber und Kinyua liefern das menschliche Fundament von Mühlhoffs Kolonialismus-These: Die Data Workers sind die Rohstoff-Basis des KI-Regimes, Extraktion entlang des alten Süd-Nord-Gefälles.
 
 ### → [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
 
-Holy Koolaid beschreibt das historische Muster des Imperial Overstretch; Mühlhoff zeigt den nächsten Schritt: wenn staatliche Infrastruktur privatisiert und digitalisiert ist, braucht ein kollabierendes Imperium keine Propaganda mehr — Verhaltenssteuerung ist direkt in die Plattformarchitektur eingebaut.
+Holy Koolaid beschreibt das historische Muster imperialer Überdehnung; Mühlhoff fragt, was geschieht, wenn staatliche Infrastruktur privatisiert und digitalisiert ist: Dann ist die Verhaltenssteuerung in die Plattformen eingebaut.
 
 ### → [[Jan-Keno Janssen — Nvidia Tokenextremismus]]
 
-Janssens c't-3003-Analyse der Computex 2026 ist Mühlhoffs These in der konkreten Produktrealität: Jensen Huangs Tokenextemismus — Wert eines Entwicklers gemessen in Tokenkosten — ist der exakte Mechanismus, den Mühlhoff als Umverteilung von unten nach oben bei wenigen oligopolistischen Akteuren beschreibt. Der Amazon-Kirorank-Incident (Tokenmaxxing) ist der lebendige Beweis, wie perverse Anreize entstehen wenn Infrastruktur-Anbieter das Kennzahlsystem definieren.
+Janssens c't-3003-Analyse der Computex 2026 zeigt Mühlhoffs These in der Produktwelt: Jensen Huangs Tokenextremismus — der Wert eines Entwicklers gemessen in Tokenkosten — ist eine Kennzahl, die der Infrastruktur-Anbieter selbst definiert, mit den Fehlanreizen, die daraus folgen.
 
 ### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
-Neitzel/Iltisberger formalisieren die Systemstruktur des KI-Hypes (3 Subsysteme, 4 Merkmale, 6 Akteurs-Gruppen), die Mühlhoff politisch analysiert: ihr Modell ist die analytische Architektur hinter dem, was er als "Orchester vieler Akteure" beschreibt. Mühlhoff fragt, wer die Macht gewinnt — Neitzel/Iltisberger erklären, wie das System das möglich macht.
+Neitzel und Iltisberger beschreiben die Systemstruktur des KI-Hypes (Subsysteme, Merkmale, Akteursgruppen), die Mühlhoff politisch analysiert. Er fragt, wer die Macht gewinnt; sie erklären, wie das System das möglich macht.
 
 ### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 
-Die philosophische Miniatur zur strukturellen Analyse: Hans „Vieh, das den Zaun nicht als Gefängnis erkennt, weil dort das Futter ist" beschreibt dieselbe Herrschaft-als-Bequemlichkeit, deren politische Ökonomie und autoritären Kipppunkt Mühlhoff ausbuchstabiert. Beide trennen streng Werkzeug von Herrschaftsform — auch bei der KI.
-- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Mühlhoffs drei Kriterien werden in der SRF-Sendung als Referenzdefinition aufgerufen — und Redecker kritisiert das Technologie-Kriterium als „zu breit“: auch linke technokratische Regime nutzen Technik als Machtmittel, ohne faschistisch zu sein.
+Die philosophische Miniatur zur strukturellen Analyse: Hans „Vieh, das den Zaun nicht als Gefängnis erkennt, weil dort das Futter ist" beschreibt dieselbe Herrschaft durch Bequemlichkeit, deren politische Ökonomie Mühlhoff ausbuchstabiert.
+
+- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Mühlhoffs Kriterien werden in der SRF-Sendung als Referenzdefinition aufgerufen, und Redecker kritisiert das Technologie-Kriterium als „zu breit": auch linke technokratische Regime nutzen Technik als Machtmittel, ohne faschistisch zu sein.
 
 ### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
 
-Mühlhoffs Verantwortungsdiffusion, ins Militärische verlängert: Die re:publica-Debatte zeigt am Beispiel Kundus, dass ohne menschliche Entscheidung kein Minister mehr zurücktreten kann — die demokratische Rechenschaft selbst entkoppelt sich.
+Mühlhoffs Verantwortungsdiffusion, ins Militärische verlängert: Die re:publica-Debatte zeigt am Beispiel Kundus, dass ohne menschliche Entscheidung kein Minister mehr zurücktreten kann.
 
 ### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
 
-Misselhorn liefert die ethische Fassung von Mühlhoffs Machtanalyse: Ihr dritter Grundsatz (substanzielle menschliche Verantwortung, überprüfbar und anfechtbar) ist die normative Antwort auf die prädiktiven Verwaltungssysteme, deren Verantwortungsdiffusion er beschreibt.
+Misselhorn liefert die ethische Fassung von Mühlhoffs Machtanalyse: Ihr Grundsatz substanzieller menschlicher Verantwortung, überprüfbar und anfechtbar, antwortet auf die Verantwortungsdiffusion, die er beschreibt.
 
 ### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
 
-Methodisch verbündet, politisch getrennt. Der Robotiker Ronnie Vuine praktiziert die Regel, dass KI nicht im Singular existiert, indem er über dieses Gelenk in dieser Nachtschicht spricht statt über Robotik. Und er sieht die Machtfrage — wer „wir" definiert, herrscht darüber —, legt sie aber als individuelle Skepsis beiseite und geht zur Erziehung einer künftigen Intelligenz über. Seine KI-Kindergärten setzen voraus, dass jemand Unbefangenes das Curriculum schreibt; hier stehen die Eigentumsverhältnisse des Kindergartens.
+Methodisch verbündet, politisch getrennt. Der Robotiker Ronnie Vuine praktiziert die Regel, dass KI nicht im Singular existiert, indem er über dieses Gelenk in dieser Nachtschicht spricht. Er sieht auch die Machtfrage, legt sie aber als individuelle Skepsis beiseite und geht zur Erziehung einer künftigen Intelligenz über. Seine KI-Kindergärten setzen voraus, dass jemand Unbefangenes das Curriculum schreibt; bei Mühlhoff stehen die Eigentumsverhältnisse des Kindergartens im Vordergrund.
 
 ### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
 
@@ -441,17 +516,27 @@ Carlotta Voß empfiehlt Mühlhoffs Buch am Ende des Abends — und die Texte, di
 
 ### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
 
-Desouveränisierung als Verwaltungsvorgang: Amtsträger unterschreiben Geheimhaltungsvereinbarungen, der Bauherr bleibt ein namenloser Fortune-100-Konzern, die EPA gibt die Regulierung 2026 an die Bundesstaaten zurück. Gewählte Vertreter dürfen entscheiden, aber nicht wissen. Der Riss in der Prognose sitzt allerdings an einer unerwarteten Stelle: Ausgerechnet die unterste Ebene — Bebauungsplan, Anhörung, Kreistagssitzung — hält stand und lehnt einstimmig ab.
+Desouveränisierung als Verwaltungsvorgang: Amtsträger unterschreiben Geheimhaltungsvereinbarungen, der Bauherr bleibt ein namenloser Fortune-100-Konzern, die EPA gibt die Regulierung 2026 an die Bundesstaaten zurück. Der Riss in der Prognose sitzt an einer unerwarteten Stelle: Ausgerechnet die unterste Ebene — Bebauungsplan, Anhörung, Kreistagssitzung — hält stand und lehnt einstimmig ab.
 
 ### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 
-Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?".
 
 ### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
 
-Die Kehrseite der stillen Reprivatisierung: Auch wenn der Staat den Konzern hinauswirft, behält er dessen Denkweise. Die Länder wollen die automatisierte Datenanalyse, nur ohne Palantir-Logo.
+Die Kehrseite des Griffs nach der Verwaltung: Auch wenn der Staat den Konzern hinauswirft, behält er dessen Denkweise. Die Länder wollen die automatisierte Datenanalyse, nur ohne Palantir-Logo.
 
 ### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
 
 Barbara Prainsack kommt aus der Daten-Governance zum selben Schluss wie Mühlhoff: Wo Schäden bekannt sind, verbieten statt um mehr Ethik zu bitten, und Gewinne aus Daten an die Einrichtungen zurückleiten, aus denen sie stammen. Anders als er ist sie ausdrücklich für Datennutzung, wo der öffentliche Wert hoch ist.
 
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Wenn die Industrie den Staat braucht, um zu überleben, und der Staat die Industrie, um zu funktionieren — *wer von beiden kann sich zuerst lösen, und was kostet es?*
+> - Mühlhoff will zuerst regulieren und erst dann nutzen. *Was, wenn die Verwaltung ohne die Werkzeuge schon heute nicht mehr hinterherkommt — ist Zurückhaltung dann ein Luxus, den sich nur ein reicher Staat leisten kann?*
+> - Das stärkste Gegenargument: Nicht jede Nähe von Tech und Staat ist Faschisierung; auch Estland digitalisiert seine Verwaltung, ohne autoritär zu werden. *Woran erkennt man den Unterschied, bevor es zu spät ist?*
+> - Wenn Bostrom selbst aus seiner Rechnung mehr Vorsicht ableitet — *ist dann die Ideologie gefährlich oder ihre Lesart durch die, denen sie nützt?*
+> - Was würde sich an deinem eigenen Umgang mit KI ändern, wenn du jede Anfrage als Stimme für ein Unternehmen läsest, das das Betriebssystem deines Staates werden will?

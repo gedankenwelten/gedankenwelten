@@ -64,7 +64,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Robin Celikat
 Quelle: [Philosoph Robin Celikates über AfD, Faschismus & die Krise des Systems — Jung & Naiv: Folge 855](https://www.youtube.com/watch?v=w2CvCOle0vo) — live am 06.10.2026 (3:35 Std.)
 
 > [!tip] Kanal unterstützen
-> *Jung & Naiv* ist spendenfinanziert und werbefrei, und dreieinhalb Stunden mit einem Philosophen, der Zeit zum Ausdenken bekommt, gibt es sonst kaum. Unterstützenswert: [jungundnaiv.de/mitglied-werden](https://www.jungundnaiv.de/mitglied-werden/)
+> *Jung & Naiv* ist spendenfinanziert und werbefrei, und dreieinhalb Stunden mit einem Philosophen, der Zeit zum Ausdenken bekommt, gibt es sonst kaum. Unterstützenswert: [jungundnaiv.de](https://www.jungundnaiv.de/)
 
 > [!info] Wer spricht?
 > **Robin Celikates** (*1977, Konstanz*) — Professor für Sozialphilosophie und Anthropologie an der Freien Universität Berlin, Theoretiker des zivilen Ungehorsams.

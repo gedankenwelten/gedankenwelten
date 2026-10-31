@@ -62,7 +62,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Christoph Saf
 Quelle: [Christoph Safferling über die Nürnberger Prozesse, Völkerrecht & Altnazis — Jung & Naiv: Folge 826](https://www.youtube.com/watch?v=0NzEeHewC7Q) — 13.05.2026 (3:46 Std.)
 
 > [!tip] Kanal unterstützen
-> *Jung & Naiv* ist spendenfinanziert und werbefrei, und fast vier Stunden mit einem Völkerrechtler bekommt man sonst nirgends. Unterstützenswert: [jungundnaiv.de/mitglied-werden](https://www.jungundnaiv.de/mitglied-werden/)
+> *Jung & Naiv* ist spendenfinanziert und werbefrei, und fast vier Stunden mit einem Völkerrechtler bekommt man sonst nirgends. Unterstützenswert: [jungundnaiv.de](https://www.jungundnaiv.de/)
 
 > [!info] Wer spricht?
 > **Christoph Safferling** (*1971) ist Professor für Strafrecht, Strafprozessrecht, Internationales Strafrecht und Völkerrecht an der FAU Erlangen-Nürnberg und seit 2023 Direktor der Internationalen Akademie Nürnberger Prinzipien. Promoviert bei Bruno Simma in München über das Prozessrecht des künftigen Internationalen Strafgerichtshofs, LL.M. an der London School of Economics, habilitiert in Erlangen, 2007–2015 Lehrstuhl in Marburg. Mit dem Zeithistoriker Manfred Görtemaker legte er 2016 „Die Akte Rosenburg“ über die NS-Belastung des Bundesjustizministeriums vor, mit Friedrich Kießling die Geschichte der frühen Bundesanwaltschaft. Sein jüngstes Buch: *Ohnmacht des Völkerrechts. Die Rückkehr des Kriegs und der Menschheitsverbrechen* (dtv 2025). Nebenbei spielt er sonntags Orgel im Gottesdienst; Gesang hätte er beinahe studiert.

@@ -745,7 +745,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Mausfeld]]
 
 ## Rainer Mühlhoff
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Mühlhoff]]
 
 ## Rebecca Böhme
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rebecca Boehme]]

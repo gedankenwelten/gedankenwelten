@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **31.10.** — [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+>
+> Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg.
+
 > **30.10.** — [[Zeitgeist/Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet|Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]]
 >
 > Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt von Rapallo bis Katyn, wie Hitler und Stalin zusammenarbeiteten und Polen gemeinsam zerschlugen.
@@ -40,13 +44,13 @@ Die Gedankenwelten (luc)
 >
 > Wohin gehen die Zinsen des Staates? Für Heiner Flassbeck zurück an die Sparer, die sie als Steuern zahlen. Gut die Hälfte der Schuld liegt allerdings im Ausland.
 
-> **30.10.** — [[Zeitgeist/Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand|Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
->
-> Wer weiß, dass draußen jemand an ihn denkt, übersteht die Einzelhaft anders: Die Memorial-Gründerin und die ZEIT-Reporterin über Gefangene, Briefe und ein Land, das seine Toten nicht nennen darf.
-
-> → *20 weitere in* [[Zeitgeist]]
+> → *21 weitere in* [[Zeitgeist]]
 
 ### Denker
+
+> **31.10.** — [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+>
+> Die KI-Blase finanziert für Rainer Mühlhoff mehr als Software: den Umbau des Staates zur Plattform. Er zeigt, wo sich Tech-Ideologien und die Struktur des Faschismus gleichen.
 
 > **30.10.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
 >
@@ -55,10 +59,6 @@ Die Gedankenwelten (luc)
 > **26.10.** — [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 >
 > Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern.
-
-> **22.10.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
->
-> Ein Shaolin-Meister legt die eigene Identität ab, Rolle um Rolle, bis zu dem Lehrer, den er Vater nannte und gegen den heute wegen Missbrauchs ermittelt wird.
 
 ### Geistesblitz
 

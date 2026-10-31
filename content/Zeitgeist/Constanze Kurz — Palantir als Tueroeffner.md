@@ -291,7 +291,7 @@ Bria beschreibt die Abhängigkeitsfalle, vom NHS bis zur Bundeswehr, und setzt d
 
 ### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
-Mühlhoff warnt, die verwaltende Seite des Staates, also Polizei, Gesundheit und Militär, werde „still und leise reprivatisiert“. Kurz zeigt die Kehrseite: Auch wenn der Staat den Konzern wieder hinauswirft, behält er dessen Denkweise. Die Privatisierung sitzt dann tiefer als im Eigentum an der Software, in der Gewohnheit, alles in einen Topf zu werfen.
+Mühlhoff warnt, die Tech-Industrie greife nach der verwaltenden Seite des Staates, Behörden, Polizei, Schulen, dem Teil, der „noch nicht durch das Wort Demokratie umfasst ist“. Kurz zeigt die Kehrseite: Auch wenn der Staat den Konzern wieder hinauswirft, behält er dessen Denkweise. Die Privatisierung sitzt dann tiefer als im Eigentum an der Software, in der Gewohnheit, alles in einen Topf zu werfen.
 
 ### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic]]
 

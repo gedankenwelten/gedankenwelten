@@ -233,7 +233,7 @@ Der stille Untergrund von Hararis KI-Diagnose: Er meditiert seit dem Jahr 2000 i
 
 ### → [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
-Hararis „KI ist kein Werkzeug, sondern Agent" und die Frage nach der KI als Rechtsperson bekommen bei Mühlhoff die politökonomische Erdung: Er zeigt, wie sich reale Souveränität schon jetzt an autonome Systeme und ihre Konzerne verschiebt. Harari fragt, ob wir KIs Personhaftigkeit *zusprechen* — Mühlhoff zeigt, dass die Macht faktisch längst dort liegt.
+Hararis „KI ist kein Werkzeug, sondern Agent" und die Frage nach der KI als Rechtsperson bekommen bei Mühlhoff eine politökonomische Gegenrede: Für ihn verschiebt sich Souveränität an die Konzerne, die diese Systeme betreiben, nicht an die Systeme selbst. Hararis Agenten-These wäre für Mühlhoff schon Teil der Ideologie, eine Vermenschlichung der Maschine.
 
 ### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
 

@@ -496,6 +496,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Marina Weisband|Marina Weisband]]** — Demokratie beginnt im Kinderparlament: Marina Weisband, Psychologin und einst Gesicht der Piraten, will Menschen vom Kunden zum Mitbestimmer machen, gegen Angst und Bürokratie.
 
+**[[DenkerVita/Rainer Mühlhoff|Rainer Mühlhoff]]** — Philosoph und Mathematiker, Professor für Ethik der KI an der Universität Osnabrück; *Künstliche Intelligenz und der neue Faschismus* (Reclam 2025, Preis „Das politische Buch 2026"), prädiktive Privatheit, Zweckbindung für KI-Modelle, die Tech-Industrie als „Betriebssystem von Staatsmacht"
+
 ## N
 
 **[[DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]** — Kenianischer Schriftsteller und Literaturwissenschaftler (1938–2025); Kenias bedeutendster Romancier, Vordenker der Dekolonisierung; verwarf 1970 das Englische für seine Muttersprache Gĩkũyũ, 1977/78 ohne Anklage inhaftiert, Exil bis 2002, zuletzt Distinguished Professor UC Irvine; *Decolonising the Mind* — Sprache als Träger von Kultur und Gedächtnis

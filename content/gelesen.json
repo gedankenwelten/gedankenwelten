@@ -35,8 +35,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 38,
-   "aufrufe": 52
+   "leser": 39,
+   "aufrufe": 53
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 34,
-     "aufrufe": 39
+     "aufrufe": 38
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -326,7 +326,7 @@
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 10,
-     "aufrufe": 12
+     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -344,17 +344,17 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 5,
      "aufrufe": 5
     },
@@ -404,11 +404,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 3,
      "aufrufe": 3
@@ -445,6 +440,11 @@
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 2,
      "aufrufe": 2
     },
@@ -579,11 +579,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Martin-Buber-und-Emmanuel-Levinas-Ich,-Du-und-der-Andere",
      "leser": 1,
      "aufrufe": 1
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/Denker/Ulrike-Herrmann-Technisch-moeglich-oekonomisch-unbezahlbar",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Marx-in-60-Minuten",
      "leser": 1,
      "aufrufe": 1
     }
@@ -645,8 +645,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 38,
-     "aufrufe": 52
+     "leser": 39,
+     "aufrufe": 53
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 102,
-     "aufrufe": 123
+     "leser": 103,
+     "aufrufe": 124
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 102,
-     "aufrufe": 123
+     "leser": 103,
+     "aufrufe": 124
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",

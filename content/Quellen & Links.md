@@ -3460,8 +3460,9 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Krise und Rechtsruck: Flassbeck rechnet mit deutscher Politik ab (Geld für die Welt)](https://www.youtube.com/watch?v=kvTDLgNeGMQ) |
+| **Original** | [Europa wohin? — Heiner Flassbeck bei der SPD-AG60 Remscheid (Juni 2024)](https://www.youtube.com/watch?v=IfYXpUZqbDI) |
 | **Notiz** | [[Denker/Heiner Flassbeck — Krise und Rechtsruck]] |
-| **Transkript** | `Gedankenwelten/Transkripte/Flassbeck_Krise_Rechtsruck_Transkript.txt` |
+| **Transkript** | `Gedankenwelten/Transkripte/Flassbeck_Krise_Rechtsruck_Transkript.txt` (Reaktionsvideo; rund zwei Fünftel Höfgen-Kommentar) |
 
 ---
 

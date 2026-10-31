@@ -56,7 +56,7 @@ Für die deutschen Plattformen, die vorhandene Akten verknüpfen — hessenDATA,
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Palantir Gotham 15.000 Zugriffe, Alltag statt Terror|Constanze Kurz bei Jung & Naiv]]:** In Hessen gibt es rund 15.000 Zugriffe im Jahr, die meisten im Polizeialltag, nicht in der Terrorabwehr, für die das System verkauft wurde.
 - **[[Kurz und Goerlitz — Palantir und die deutsche Polizei#Wer landet eigentlich in der Polizeidatenbank?|Franziska Görlitz]]:** „Die Software denkt nicht, die stellt eine Wahrscheinlichkeit fest", und so wird der Sozialarbeiter der Fanhilfe, der bei jedem Spiel am Ort der Vorfälle ist, zum Muster.
 - **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koschi Politik]]:** In den USA verbindet dieselbe Technik Gesundheits-, Verkehrs- und Sozialdaten zu einem Gesamtbild, das Abschiebungen dient.
-- **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Die Desouveränisierung des Staates|Rainer Mühlhoff]]:** Die Tech-Industrie will das „Betriebssystem von Staatsmacht" werden, und die Verwaltung wird „still und leise reprivatisiert".
+- **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Die Desouveränisierung des Staates|Rainer Mühlhoff]]:** Die Tech-Industrie will das „Betriebssystem von Staatsmacht" werden und greift nach dem „administrativen Teil des Staatsapparats", den niemand mit dem Wort Demokratie verbindet.
 
 > [!question] Die Reibung
 > Poseck nennt Ermittlungserfolge, Kurz nennt fiktive Fälle, und die Forschung hat das Verfahren, um das sie streiten, nie untersucht. *Wenn niemand die Bilanz ziehen kann: Wer müsste beweisen — der Staat, dass es wirkt, oder die Kritiker, dass es schadet?*
