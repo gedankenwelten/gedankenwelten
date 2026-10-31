@@ -294,7 +294,7 @@ Heims und Stark liefern die Meme-Anatomie zu Marcants „Trendrechts": Die Agart
 Die Theorie zu Felix' Geschichte, und sie kommt aus der sozialen Arbeit: funktionale Äquivalenz — Menschen brauchen Gemeinschaft, Anerkennung, Austausch, und Prävention heißt, diese Angebote zu machen, bevor Extremisten es tun. Matthias Quent unterlegt das dort mit einem Satz über sich selbst: „Hätte mir jemand eine Böhse-Onkelz-CD gegeben, wäre ich damals vielleicht auch Nazi geworden." Das ist derselbe Befund wie hier — Radikalisierung als Frage von Zufall, Peers und Angebot, nicht von Charakter.
 
 ### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
-Marcant ist das lebendige Beispiel: keine Angriffsfläche, kein Dogma, keine ideologische Flanke. Was auf den ersten Blick wie Schwäche aussieht, ist die Stärke einer elastischen Brandmauer — Informationen werden nach Dogma-Freiheit selektiert, nicht nach politischer Zugehörigkeit.
+Marcant ist das lebendige Beispiel: Er nennt seinen Standpunkt offen und predigt auf den Demos trotzdem nicht, er fragt nach und lässt reden. Das ist die elastische Brandmauer — ein Standpunkt, der nicht vorsortiert, was er zu hören bekommt.
 
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Dreißig Jahre früher und ohne Handy rutschte Eichi in Neubrandenburg über Bomberjacke und „die Jungs nicht enttäuschen“ in die Szene und kam durch das Ultimatum seiner schwangeren Freundin wieder heraus. Was Felix noch vor sich hat, zeigt er als Fußballtrainer für Geflüchtete in Torgelow, samt der Frage nach dem Warum, auf die er bis heute „keine Ahnung“ sagt.

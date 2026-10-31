@@ -101,7 +101,7 @@ Ergänze mit Glob falls nötig: `content/DenkerVita/*.md` — aber nur wenn RAG 
 ```
 
 **Regeln:**
-- Max. 6 Verbindungen
+- Max. 9 Verbindungen (seit 31.10.2026, vorher 6 — Andreas: lieber mehr Brücken, wo sie tragen)
 - Intellektuelle Brücken: gemeinsame Themen, gegensätzliche Positionen, gegenseitige Beeinflussung
 - Nur DenkerVitas die tatsächlich existieren (per Glob verifizieren)
 - Kein Text außerhalb der Link-Liste
