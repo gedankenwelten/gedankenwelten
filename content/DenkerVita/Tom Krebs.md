@@ -51,6 +51,7 @@ Zum Bruch wurde die Energiekrise 2022. Mit Isabella Weber schrieb er über Preis
 
 ## Empfehlenswerte Videos & Vorträge
 
+- [Top-Ökonom erklärt, wie wir aus der Krise kommen](https://www.youtube.com/watch?v=7HKaq05SzyM) — Surplus Magazin (23.10.2026, 1:39 h). Buchvorstellung von *Kapital und Krise* im Basecamp Berlin, mit zwei Fragerunden aus dem Saal.
 - [Tom Krebs über Wege aus der Krise, Vergesellschaftung & neoliberale Märchen](https://www.youtube.com/watch?v=A7IUzy6sCn0) — Jung & Naiv, Folge 853 (24.09.2026, 3:46 h). Werdegang, geplante Marktwirtschaft, Berlin, AfD, ausführliche Publikumsrunde.
 - [Fehldiagnose — Wie Ökonomen die Wirtschaft ruinieren](https://www.youtube.com/watch?v=MN24ON2iGTA) — Einmischen! Politik-Podcast (07.10.2024, 1:49 h), zur Buchvorstellung.
 - [Gutachten zur Strompreisbremse mit Yasmin Fahimi](https://www.youtube.com/watch?v=vGF2Rqe2Pkw) — phoenix, Bundespressekonferenz (20.09.2023, 36 min).
@@ -85,6 +86,7 @@ Widerspruch kommt aus der eigenen Zunft. Rüdiger Bachmann und Christian Bayer n
 ## Gedankenwelten-Notes
 
 - [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]] — Jung & Naiv 853: Referenzmodell, Polanyi, geplante Marktwirtschaft, Berlin, drei AfD-Schübe
+- [[Tom Krebs — Kapital und Krise]] — Buchvorstellung bei Surplus: 12.000-€-Trendlücke, Pseudopreisbremse, Militär-Keynesianismus, Stahl, „kein Sozialist, sondern Sozialdemokrat“
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]] — seine Studien mit Kaczmarczyk im Hintergrund
 - [[Adam Tooze und Maja Goepel — Die Polykrise]] — erwähnt als Kritiker des „olivgrünen Wirtschaftswunders“
 - [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]] — die Militärausgaben-Studie in der Nachbesprechung

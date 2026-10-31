@@ -5121,6 +5121,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **DenkerVita** | [[DenkerVita/Omar M. Yaghi]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Yaghi_Chemie_Welt_retten_Sternstunde_Transkript.txt` (YouTube-Automatikuntertitel der Synchronfassung, deutsch) |
 
+## Tom Krebs — Kapital und Krise (Buchvorstellung, Surplus)
+
+| | |
+|---|---|
+| **Video** | [Top-Ökonom erklärt, wie wir aus der Krise kommen \| Mit Prof. Tom Krebs](https://www.youtube.com/watch?v=7HKaq05SzyM) — Surplus Magazin, 23.10.2026 (1:39 h), Basecamp Berlin 19.10.2026, Moderation Carmen Giovanazzi |
+| **Buch** | Tom Krebs: *Kapital und Krise* (oekom, 2026) — [genialokal](https://www.genialokal.de/Suche/?q=krebs+kapital+und+krise) |
+| **Notiz** | [[Zeitgeist/Tom Krebs — Kapital und Krise]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Krebs_Kapital_Krise_Surplus_Transkript.txt` |
+| **DenkerVita** | [[DenkerVita/Tom Krebs]] |
+
 ## Tom Krebs — Wege aus der Krise und neoliberale Märchen
 
 | | |
