@@ -60,15 +60,15 @@ Die Gedankenwelten (luc)
 >
 > Wie erzählt man ein Sterben, das jedes Maß übersteigt? Franziska Meier liest Camus' Pest als Roman über den Preis der Abstraktion und über ein Leid, das sich nicht vermitteln lässt.
 
+> **01.11.** — [[Denker/Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
+>
+> Eine Übelkeit, die der Vater vom Schafott mitbrachte, wurde zum moralischen Kompass des Sohnes. Ève Morisi verfolgt Camus' Kampf gegen die Guillotine, vom Roman bis zum Gnadengesuch.
+
 > **01.11.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
 >
 > Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
 
-> **31.10.** — [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
->
-> Die KI-Blase finanziert für Rainer Mühlhoff mehr als Software: den Umbau des Staates zur Plattform. Er zeigt, wo sich Tech-Ideologien und die Struktur des Faschismus gleichen.
-
-> → *4 weitere in* [[Denker]]
+> → *5 weitere in* [[Denker]]
 
 ### Geistesblitz
 

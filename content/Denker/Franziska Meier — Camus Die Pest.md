@@ -260,6 +260,9 @@ Der Historiker, der die Pest aus den Akten der Toskana las, neben der Leserin, d
 ### → [[Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
 Wie *Der Fremde* 1946 nach Amerika kam: mitgekauft, weil der Verlag eigentlich *Die Pest* wollte. Kaplan erzählt auch, wie Camus im März 1946 an der Columbia University über die Rückkehr einer tödlichen Plage sprach, ein Jahr bevor der Roman erschien, den Meier hier liest.
 
+### → [[Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
+Was hinter Tarrous Satz steht, jeder trage die Pest in sich. Morisi verfolgt Camus' Kampf gegen die Todesstrafe von der Hinrichtung, nach der sich sein Vater erbrach, über Tarrou und die *Réflexions sur la guillotine* bis zu den Gnadengesuchen im Algerienkrieg.
+
 ---
 
 ## Weiterdenken

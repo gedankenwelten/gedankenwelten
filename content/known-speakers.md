@@ -1291,3 +1291,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Alice Kaplan
 **Status:** ✓ Vollanalyse → [[DenkerVita/Alice Kaplan]]
+
+## Ève Morisi
+**Status:** ✓ Vollanalyse → [[DenkerVita/Eve Morisi]]

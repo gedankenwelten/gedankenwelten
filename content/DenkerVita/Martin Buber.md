@@ -169,6 +169,8 @@ Deutsche Originalausgaben, chronologisch.
 - [[DenkerVita/Martin Heidegger]] — Buber wandte gegen Heideggers vereinzeltes Dasein ein, dass der Mensch erst im Zwischen zum Menschen wird.
 - [[DenkerVita/Hartmut Rosa]] — Rosas Resonanz trägt Bubers Ich–Du in die Soziologie der Beschleunigung und teilt seine Einsicht, dass sich Begegnung nicht herstellen lässt.
 
+- [[DenkerVita/Albert Camus|Albert Camus]] — Zwei Gegner der Todesstrafe gerade dort, wo sie am meisten kostet: Camus bat 1945 um Gnade für den Kollaborateur Brasillach, Buber 1962 um das Leben Eichmanns. → [[Denker/Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi über Camus' Kampf]]
+
 ---
 
 ## Gedankenwelten-Notes

@@ -5562,3 +5562,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [Looking for „The Stranger“: Albert Camus and the Life of a Literary Classic with Alice Kaplan](https://www.youtube.com/watch?v=RGgvMLKA4hU) (Washington History Seminar, Wilson Center, 01.05.2017) |
 | **Notiz** | [[Alice Kaplan — Wie Der Fremde ein Klassiker wurde]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kaplan_Stranger_Transkript.txt` |
+
+## Ève Morisi / Camus gegen die Todesstrafe
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Albert Camus contre la peine de mort : histoire d'un combat](https://www.youtube.com/watch?v=P3F5j7lt7JE) (Université Ouverte, Université de Cergy-Pontoise, 2012) |
+| **Notiz** | [[Eve Morisi — Camus gegen die Todesstrafe]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Morisi_PeineDeMort_Transkript.txt` (Auto-Untertitel, stark lückenhaft) |

@@ -244,6 +244,9 @@ Die überraschendste Figur des Vortrags. Ein leichter Artikel Arendts über den 
 ### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
 Für Diagne ist Übersetzung die Sprache aller Sprachen, eine Bewegung zwischen ihnen, die nichts von oben einebnet. Stuart Gilbert tat das Gegenteil: Er machte aus Camus' kargen, indirekten Sätzen gefälliges Englisch, fügte Anführungszeichen und Ursachen hinzu und ließ einen algerischen Zuhälter britisch klingen. Kaplans Episode ist das Lehrstück einer Übersetzung, die das Fremde zähmt, und Daouds Gegenroman ist im weiteren Sinn eine Übersetzung in Diagnes Richtung: dieselbe Geschichte, vom anderen Ende des Strandes erzählt.
 
+### → [[Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
+Der zweite Teil des *Fremden* als Anklage gegen die Justiz, und die Forderung nach Abschaffung der Todesstrafe, die Camus 1946 an der Columbia erhob, als Teil eines lebenslangen Kampfes. Morisi zeigt, dass der Mann, den Amerika als Existenzialisten feierte, in denselben Jahren Gnadengesuche für Kollaborateure und spanische Gewerkschafter schrieb.
+
 ---
 
 ## Weiterdenken

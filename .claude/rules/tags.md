@@ -66,6 +66,8 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 
 > `kriminalität` = Kriminalstatistik, Kriminalitätsentwicklung und ihre Deutung (Hell-/Dunkelfeld, Tatverdächtige vs. Verurteilte, Ausländerkriminalität) — gesetzt mit [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]].
 
+> `todesstrafe` = Todesstrafe, Hinrichtung, Abolitionismus, Gnadengesuche — gesetzt mit [[Eve Morisi — Camus gegen die Todesstrafe]].
+
 **Medien:**
 `medien` · `propaganda` · `desinformation` · `meinungsfreiheit` · `symbole`
 

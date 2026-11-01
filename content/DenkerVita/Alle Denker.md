@@ -432,6 +432,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Franziska Meier|Franziska Meier]]** — Romanistin (Göttingen), Dante- und Boccaccio-Forscherin, die Camus’ *Pest* als Chronik liest, die an der Unmöglichkeit wächst, eine Seuche zu erzählen
 
+**[[DenkerVita/Eve Morisi|Ève Morisi]]** — Literaturwissenschaftlerin (Oxford), liest Camus, Hugo und Baudelaire als Schriftsteller gegen die Todesstrafe und fragt, wie Literatur über staatliches Töten und Terror spricht
+
 **[[DenkerVita/Margarita Seselgyte|Margarita Šešelgytė]]** — Litauische Politikwissenschaftlerin, seit 2019 Direktorin des Instituts für Internationale Beziehungen und Politikwissenschaft der Universität Vilnius; Abschreckung als psychologisches wie militärisches Problem, strategische Empathie und operative Solidarität, Total Defence als gesamtgesellschaftliche Resilienz
 
 **[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
