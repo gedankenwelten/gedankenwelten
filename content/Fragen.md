@@ -9,7 +9,7 @@ Hier musst du nicht wissen, wonach du suchst. Nimm eine Frage, die dich beschäf
 
 ## Wer bin ich, und kann ich mich ändern?
 
-Lange hieß es, mit 30 sei der Charakter fertig. Die Forschung sieht das heute anders, und viele Lebenswege auch: Die wichtigsten Abzweigungen kamen oft spät oder über Umwege.
+Lange hieß es, mit 30 sei der Charakter fertig. Die Forschung sieht das heute anders, und viele Lebenswege auch: Die wichtigsten Abzweigungen kamen oft spät oder über Umwege. Der Weg hier führt von der Forschung über Leben, die erst spät ihre Richtung fanden, zu einem Mann, der sich von Grund auf geändert hat, und zu der Frage, was das für die bedeutet, denen er geschadet hat.
 
 - [[ARTE 42 — Koennen wir uns aendern|Können wir uns ändern?]] · was die Persönlichkeitsforschung über Veränderung weiß, und wo ihre Grenze liegt
 - [[Was mit 17 geschah]] · ein Torwart wird krank, einer bleibt sitzen, einer schämt sich für seine Naivität: die Jugend von Menschen, die ihren Weg erst später fanden
@@ -17,7 +17,7 @@ Lange hieß es, mit 30 sei der Charakter fertig. Die Forschung sieht das heute a
 
 ## Ich fühle mich einsam. Ist das normal?
 
-Einsam fühlen sich sehr viele Menschen, auch solche, die selten allein sind. Es hängt weniger davon ab, wie viele Leute um dich herum sind, als davon, ob du dich gesehen fühlst.
+Einsam fühlen sich sehr viele Menschen, auch solche, die selten allein sind. Es hängt weniger davon ab, wie viele Leute um dich herum sind, als davon, ob du dich gesehen fühlst. Die erste Note zeigt, dass man damit nicht allein bleiben muss. Die zweite erklärt, warum es so wehtut, sich nicht gebraucht zu fühlen, und die dritte, was man mit der Scham macht, die oft dahintersteckt.
 
 - [[Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]] · wer dort anruft oder schreibt, und wer am anderen Ende zuhört, ohne zu urteilen
 - [[Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf: Flourishing und Mattering]] · das Gefühl, dass die Welt ohne dich eine andere wäre, und wie man sich zurückzieht, wenn es fehlt
@@ -27,7 +27,7 @@ Wenn es gerade schwer ist, kannst du mit jemandem reden, kostenlos: [krisenchat.
 
 ## Was ist Glück?
 
-Viele suchen es im nächsten Ziel oder im nächsten Like. Die drei hier suchen es woanders.
+Viele suchen es im nächsten Ziel oder im nächsten Like. Die drei hier suchen es woanders, und sie gehen dabei von außen nach innen: von den Händen über den Geist bis zu der Frage, wer wir ohne das sind, was wir besitzen.
 
 - [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han: Das Glück kommt durch die Hände]] · warum Glück mit dem zu tun hat, was man mit den Händen tut, und der streichelnde Daumen auf dem Bildschirm es zerstört
 - [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard: Glück lässt sich üben]] · ein Molekularbiologe geht in den Himalaya, weil er dort etwas Besseres fand
@@ -35,7 +35,7 @@ Viele suchen es im nächsten Ziel oder im nächsten Like. Die drei hier suchen e
 
 ## Wozu lerne ich das alles?
 
-Fast jeder stellt sich diese Frage irgendwann in der Schule, und sie ist berechtigt. Auch Lehrer, Forscherinnen und Philosophinnen streiten darüber, was Schule eigentlich soll.
+Fast jeder stellt sich diese Frage irgendwann in der Schule, und sie ist berechtigt. Auch Lehrer, Forscherinnen und Philosophinnen streiten darüber, was Schule eigentlich soll. Erst geht es um das, was Schule mit dir macht, dann um den Streit über Noten, und am Ende um eine Antwort, die über achtzig Jahre alt ist und trotzdem überrascht.
 
 - [[Was macht Schule mit uns|Was macht Schule mit uns?]] · Noten, die Empfehlung nach der vierten Klasse, das Handy in der Tasche, und viele Stimmen, die sich darüber streiten
 - [[Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Besser lernen ohne Noten?]] · ein Schulrat will Noten abschaffen, ein Lehrer, der selbst einmal sitzen geblieben ist, will sie gerechter machen
@@ -43,7 +43,7 @@ Fast jeder stellt sich diese Frage irgendwann in der Schule, und sie ist berecht
 
 ## Was macht Social Media mit meinem Kopf?
 
-Du merkst selbst, wie schwer es manchmal ist, das Handy wegzulegen. Das liegt auch daran, wie die Plattformen gebaut sind.
+Du merkst selbst, wie schwer es manchmal ist, das Handy wegzulegen. Das liegt auch daran, wie die Plattformen gebaut sind. Erst geht es um das, was dabei in deinem Kopf passiert, dann um die Frage, ob ein Gesetz schützen soll, und zuletzt um die Plattformen selbst und das, was sie an dir verdienen.
 
 - [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz: Dopamin]] · Dopamin meldet nicht das Glück, sondern die Überraschung, und darum ist „Dopamin-Fasten“ ein Missverständnis
 - [[republica26 — Social-Media-Verbot fuer Kinder|Brauchen wir ein Social-Media-Verbot für Jugendliche?]] · über Plattformen, die ausnutzen, wie leicht man hängen bleibt
@@ -51,7 +51,7 @@ Du merkst selbst, wie schwer es manchmal ist, das Handy wegzulegen. Das liegt au
 
 ## Wem kann ich im Netz glauben?
 
-Falsches verbreitet sich oft schneller als Richtiges, weil es überrascht oder wütend macht. Wer weiß, wie das funktioniert, fällt seltener darauf herein.
+Falsches verbreitet sich oft schneller als Richtiges, weil es überrascht oder wütend macht. Wer weiß, wie das funktioniert, fällt seltener darauf herein. Die drei gehen vom Mechanismus über die Zahlen zur Grundfrage, woran man Wissen von bloßem Glauben unterscheidet.
 
 - [[Renee DiResta — Invisible Rulers|Renée DiResta: Wie Gerüchte zur Wirklichkeit werden]] · Influencer, Algorithmus und Publikum, und warum Faktenchecks dagegen wenig ausrichten
 - [[Wer bringt das Falsche in Umlauf|Wer bringt das Falsche in Umlauf?]] · wer wie oft Falsches sagt, was davon gemessen ist, und wer eigentlich die Prüfer prüft
@@ -59,7 +59,7 @@ Falsches verbreitet sich oft schneller als Richtiges, weil es überrascht oder w
 
 ## Nimmt mir die KI die Zukunft weg?
 
-Niemand weiß genau, welche Arbeit Maschinen übernehmen werden. Wer davon etwas hat, entscheiden aber Menschen.
+Niemand weiß genau, welche Arbeit Maschinen übernehmen werden. Wer davon etwas hat, entscheiden aber Menschen. Die drei gehen von dem, was gerade passiert, über das, was gut gehen könnte, zu dem, was wir dabei verlieren könnten.
 
 - [[Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt]] · eine Spur, die laufend beobachtet, in welche Richtung es geht
 - [[Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle]] · zum ersten Mal könnte genug für alle da sein, wenn wir es teilen
@@ -67,7 +67,7 @@ Niemand weiß genau, welche Arbeit Maschinen übernehmen werden. Wer davon etwas
 
 ## Woher kommt Hass?
 
-Hass auf andere, auch Rassismus, fällt nicht vom Himmel. Menschen werden hineingezogen, oft über Freunde und das Gefühl, dazuzugehören, und manche finden wieder heraus.
+Hass auf andere, auch Rassismus, fällt nicht vom Himmel. Menschen werden hineingezogen, oft über Freunde und das Gefühl, dazuzugehören, und manche finden wieder heraus. Die drei gehen vom Weg hinein und heraus über einen, der ihn selbst gegangen ist, zurück in die Geschichte.
 
 - [[Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]] · hinein für die Jungs, heraus für ein Kind, und dazwischen oft zehn Jahre
 - [[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Zwischen Hass und Ausstieg]] · einer war selbst ein Nazi und fand heraus, und ein Ausstiegshelfer erzählt, warum Argumente dabei abperlen wie an Teflon
@@ -75,7 +75,7 @@ Hass auf andere, auch Rassismus, fällt nicht vom Himmel. Menschen werden hinein
 
 ## Warum gibt es Krieg?
 
-Krieg wirkt manchmal wie ein Naturgesetz. Zwei Forscher halten dagegen: Systematische Kriege kamen erst in die Welt, als die Menschen sesshaft wurden. Wie man einen Krieg beendet, ist eine eigene, schwere Frage.
+Krieg wirkt manchmal wie ein Naturgesetz. Zwei Forscher halten dagegen: Systematische Kriege kamen erst in die Welt, als die Menschen sesshaft wurden. Danach wird es unbequemer: Herfried Münkler hält Kriege für unvermeidlich, solange niemand den Frieden hütet, und Jörn Leonhard fragt, wie man sie wieder beendet.
 
 - [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen|Die drei Naturen des Menschen]] · die Jäger und Sammler in uns, und die Jahrtausende, die alles verschoben haben
 - [[Herfried Münkler — Muss es Kriege geben|Herfried Münkler: Muss es Kriege geben?]] · eine unbequeme These: Auch Friedenszeiten erzeugen Krieg
@@ -83,7 +83,7 @@ Krieg wirkt manchmal wie ein Naturgesetz. Zwei Forscher halten dagegen: Systemat
 
 ## Wozu Demokratie?
 
-Demokratie ist mehr, als alle paar Jahre ein Kreuz zu machen. Sie wächst, wenn mehr Menschen mitreden dürfen, und sie wird jeden Tag gemacht.
+Demokratie ist mehr, als alle paar Jahre ein Kreuz zu machen. Sie wächst, wenn mehr Menschen mitreden dürfen, und sie wird jeden Tag gemacht. Die drei gehen von einem Bild über den Alltag bis zu der Frage, wie man sie baut.
 
 - [[Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] · Demokratie wächst wie ein Kind: Man sieht es nicht, während es geschieht
 - [[Gelebte Demokratie|Gelebte Demokratie]] · Anfragen, Streiks, Volksbegehren: was Menschen tun, damit Demokratie lebt
@@ -91,7 +91,7 @@ Demokratie ist mehr, als alle paar Jahre ein Kreuz zu machen. Sie wächst, wenn 
 
 ## Kann ich überhaupt etwas ändern?
 
-Das Gefühl, nichts ausrichten zu können, kennen viele. Extremisten leben davon. Hoffnung kommt eher aus dem Tun als aus guten Nachrichten.
+Das Gefühl, nichts ausrichten zu können, kennen viele. Extremisten leben davon. Hoffnung kommt eher aus dem Tun als aus guten Nachrichten. Die drei gehen von der Ohnmacht über die, die schon handeln, bis zu dem, was im eigenen Kopf möglich ist.
 
 - [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent und Göpel: Hoffnung, die aus dem Handeln kommt]] · warum Ohnmacht der Rohstoff des Faschismus ist, und was dagegen hilft
 - [[Semsrott — Zur Gegenmacht|Arne Semsrott: Zur Gegenmacht]] · er gab als Schüler eine Zeitung heraus, die verboten wurde, und sucht heute die Mehrheiten, die niemand sieht
@@ -99,7 +99,7 @@ Das Gefühl, nichts ausrichten zu können, kennen viele. Extremisten leben davon
 
 ## Wird die Welt besser?
 
-In den Nachrichten sieht es selten so aus. Vieles wird besser, ohne dass es eine Schlagzeile macht, und manches wird schlechter. Beides stimmt.
+In den Nachrichten sieht es selten so aus. Vieles wird besser, ohne dass es eine Schlagzeile macht, und manches wird schlechter. Beides stimmt. Die drei halten beide Seiten: was gelingt, was im Menschen dafür spricht, und warum so viele trotzdem nicht mehr an den Fortschritt glauben.
 
 - [[Good News - Gute Nachrichten September 2026 Teil 2|Gute Nachrichten]] · was gelingt, jeden Monat gesammelt
 - [[Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman: Ist der Mensch wirklich gut?]] · nicht der Stärkste überlebt, sondern der Freundlichste

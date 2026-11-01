@@ -65,6 +65,18 @@ Diese Website verwendet **keine Cookies**.
 
 Kein Cookie, kein Profil, keine Weitergabe an Dritte. Die Nachrichten liegen auf unserer eigenen Infrastruktur. Rechtsgrundlage ist die mit dem Absenden erteilte Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); sie kann jederzeit widerrufen werden. Wer seine Nachricht gelöscht haben möchte, schreibt an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
 
+### Eigene Frage
+
+Auf der Seite **Fragen** kann jede Leserin und jeder Leser eine eigene Frage stellen. Es gibt dort kein Feld für einen Namen oder eine E-Mail-Adresse. Die Frage geht denselben Weg wie das Feedback. Gespeichert werden:
+
+| Datenkategorie | Verarbeitung |
+|---|---|
+| **Text der Frage** | Wird gespeichert, um sie zu lesen. Greifen wir eine Frage in einer Note auf, kann ihr Wortlaut dort erscheinen, **ohne Namen** und ohne Angaben, die auf eine Person schließen lassen. |
+| **Zeitpunkt** | Wird gespeichert. |
+| **IP-Adresse** | **Wird nicht gespeichert.** Wie beim Feedback nur kurz als nicht rückrechenbarer Hashwert im Arbeitsspeicher, gegen Massensendungen. |
+
+Kein Cookie, kein Profil, keine Weitergabe an Dritte. Eine Antwort auf einzelne Fragen gibt es nicht, und ein Anspruch darauf, dass eine Frage aufgegriffen wird, besteht nicht. Rechtsgrundlage ist die mit dem Absenden erteilte Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Wer seine Frage gelöscht haben möchte, schreibt an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org) und nennt ungefähr Wortlaut und Zeitpunkt.
+
 ### Anfassen erlaubt
 
 Unter jeder Note (außer den persönlichen Gedanken) steht der Satz **„Anfassen erlaubt: Jeden Abschnitt kannst du neu fassen"**. Wer ihn nutzt, schlägt für einen Abschnitt eine eigene Fassung vor. Gespeichert werden:
