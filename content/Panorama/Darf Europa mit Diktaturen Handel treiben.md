@@ -124,6 +124,9 @@ Die Lieferkette von der anderen Seite: was Kinder herstellen, die wir nicht sehe
 ### → [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
 Die Frage, die die Schülerinnen und Schüler an diesem Abend kurz vorher gestellt hatten: wie man von einem Recht sprechen kann, das niemand durchsetzt.
 
+### → [[Panorama/Kann die Mitte auf TikTok mithalten|Kann die Mitte auf TikTok mithalten?]]
+Folge 2 der Reihe: eine Schülerfrage aus dem StreitClub #19, über TikTok und die politische Mitte.
+
 ---
 
 ## Quellen

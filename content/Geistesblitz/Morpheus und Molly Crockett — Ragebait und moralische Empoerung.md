@@ -334,6 +334,9 @@ Crockett beschreibt, dass Menschen deutlich weniger strafen, wenn sie das Gesich
 
 Woher die Formel stammt und wofür sie gedacht war: Bannon setzt auf die begrenzte Aufmerksamkeit der Redaktionen und plant die Empörung der Gegner ein, so beim Einreiseverbot, das an einem Freitagnachmittag im Januar 2017 unterzeichnet wurde.
 
+### → [[Panorama/Kann die Mitte auf TikTok mithalten|Kann die Mitte auf TikTok mithalten?]]
+Dieselbe Mechanik in der Politik: Warum die Ränder auf TikTok vorn liegen, und warum Empörung zwar Klicks bringt, aber nachweislich keine Wahlen gewinnt.
+
 ---
 
 ## Weiterdenken

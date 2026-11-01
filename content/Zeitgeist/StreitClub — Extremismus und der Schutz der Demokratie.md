@@ -419,6 +419,8 @@ Quents voller Kühlschrank heißt bei Kowalczuk der Grundirrtum der Einheit: Wer
 
 Im selben Jahr, in dem Sachsen-Anhalt sich die Antifaschismus-Klausel gab, erklärte im selben Landtag ein AfD-Abgeordneter den Anschlag von Halle zum unpolitischen Amoklauf. Sechs Jahre später ist er Vizepräsident des Landtags.
 
+### → [[Panorama/Kann die Mitte auf TikTok mithalten|Kann die Mitte auf TikTok mithalten?]]
+Die Schülerfrage dieses Abends, die zweimal gestellt und nicht beantwortet wurde: was die Mitte auf TikTok tun kann. Folge 2 der Reihe „Die Frage, die liegen blieb“, mit Forschung zu Klicks, Stimmen und Algorithmen.
 
 ---
 

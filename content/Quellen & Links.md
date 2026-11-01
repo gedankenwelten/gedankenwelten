@@ -5536,3 +5536,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Video** | [Schmutzige Schokolade: Sie zahlen für unseren Genuss](https://www.youtube.com/watch?v=ZVJkZZGc6vY) (WDR Doku / Die Story, Film von Michael Höft, 2024) |
 | **Notiz** | [[WDR — Schmutzige Schokolade]] |
 | **Transkript** | `Gedankenwelten/Transkripte/WDR_Schmutzige_Schokolade_Transkript.txt` |
+
+## TikTok und die Mitte — Panorama „Kann die Mitte auf TikTok mithalten?“
+
+| | |
+|---|---|
+| **Video** | [StreitClub #19 „Extremismus“](https://www.youtube.com/watch?v=kLt848lYV4I) (FGZ Frankfurt, 07.09.2026), Frage ▶ 82:11 und ▶ 108:02 |
+| **Notiz** | [[Panorama/Kann die Mitte auf TikTok mithalten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/StreitClub_Extremismus_Transkript.txt` |
+| **Forschung** | Huszár 2022 · Rathje 2021 · Robertson 2023 · Solovev 2025 (Preprint) · Meyer 2025 · Lau 2007 · Guess 2023 · Allcott 2024 · Berger/Milkman 2012 · Marks 2025 · Roozenbeek 2022 · Modirrousta-Galian/Higham 2023 · Simchon 2025 |
+| **Daten** | MDR 14.12.2024 · infratest dimap BTW 2025 · Bertelsmann „Algorithmen im Wahlkampf“ · RIOET 2024 · JIM 2025 · DNR 2025 · EU-Kommission IP/26/312 |

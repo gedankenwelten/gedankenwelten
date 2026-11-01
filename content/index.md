@@ -116,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Mit 17 weiß niemand, wohin er geht. Ein Torwart wird krank, einer bleibt sitzen, einer schämt sich für seine Naivität: Weggabelungen aus der Jugend von Menschen, die ihren Weg erst später fanden.
 
-> → *13 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### Kultur
 

@@ -317,6 +317,9 @@ Felix' „271.000" in der Anatomie: Das Archiv, aus dessen Haus die Zahl stammt,
 
 Was hier „Verfügbarkeitsheuristik“ heißt, misst [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Wie das Bild entsteht|BissenBlaBla]] an Fernsehberichten — und zeigt, dass das „banale“ Gegenmittel, alle Herkünfte zu nennen, bei einer Lokalzeitung tatsächlich gewirkt hat (Keita et al. 2023).
 
+### → [[Panorama/Kann die Mitte auf TikTok mithalten|Kann die Mitte auf TikTok mithalten?]]
+Marcants Spott als eines der Beispiele, wie man auf TikTok gegen die Ränder Reichweite holt, ohne Falsches zu behaupten, und was daran offen bleibt.
+
 ---
 
 ## Weiterdenken

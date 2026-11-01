@@ -64,6 +64,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Warum Kinder arbeiten | [[Warum Kinder arbeiten]] | 5 + Fälle und Forschung |
 | Was mit 17 geschah | [[Was mit 17 geschah]] | 18 Viten, Jugend-Weggabelungen |
 | Darf Europa mit Diktaturen Handel treiben? | [[Darf Europa mit Diktaturen Handel treiben]] | Reihe „Die Frage, die liegen blieb“ · StreitClub + Forschung |
+| Kann die Mitte auf TikTok mithalten? | [[Kann die Mitte auf TikTok mithalten]] | Reihe „Die Frage, die liegen blieb“, Folge 2 · StreitClub #19 + Forschung |
 | Kaufkraft | [[Kaufkraft]] | 9 |
 | Rente | [[Rente]] | 8 |
 | Energie | [[Energie]] | 15 |
