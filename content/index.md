@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **01.11.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+
 > **01.11.** — [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
 >
 > Klassiker werden gemacht, nicht geboren. Alice Kaplan erzählt, wie Camus' Fremder 1946 nach Amerika kam: zwei Titel, ein gekränkter Verlag, eine Anzeige und ein FBI-Agent mit Verstand.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Die KI-Blase finanziert für Rainer Mühlhoff mehr als Software: den Umbau des Staates zur Plattform. Er zeigt, wo sich Tech-Ideologien und die Struktur des Faschismus gleichen.
 
-> **31.10.** — [[Denker/Heiner Flassbeck — Krise und Rechtsruck|Heiner Flassbeck — Krise und Rechtsruck]]
->
-> Es gibt kein Sparen ohne Schulden. Heiner Flassbeck fragt, wer sie macht – und sieht in Deutschlands Lohnpolitik einen Grund für den Rechtsruck bei den Nachbarn.
-
-> → *3 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Geistesblitz
 
