@@ -1,7 +1,8 @@
 ---
 title: "Edgar Morin — Das komplexe Denken"
 description: "Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt."
-aktualisiert: 01.07.2026
+aktualisiert: 2026-11-01
+raetsel: "Er schrieb sich in fünf Fächer ein, um eine einzige Frage zu verstehen."
 tags:
   - denker
   - philosophie
@@ -36,7 +37,7 @@ Quelle: [Ein Philosoph mit Einfluss: Edgar Morin | Doku HD | ARTE](https://www.y
 > [!info] Wer spricht?
 > **Edgar Morin** (1921–2026, geboren als *Edgar Nahoum* in Paris) war ein französischer Philosoph und Soziologe sephardisch-jüdischer Herkunft — Widerstandskämpfer der Résistance (Deckname „Morin"), ausgeschlossener Kommunist, „Wilderer des Wissens", der ein Leben lang die Grenzzäune zwischen den Disziplinen niederriss.
 >
-> Seine Eltern kamen aus Thessaloniki nach Frankreich; die frühe, autodidaktische Bildung an Tolstoi, Dostojewski und Rousseau prägte einen Geist, der sich zeitlebens weigerte, Wissen in getrennte Fächer zu zerlegen. In seinem sechsbändigen Hauptwerk *La Méthode* (1977–2004) entwarf er die **pensée complexe** — einen Weg, der die Zersplitterung des Wissens überwindet und die Teile wieder mit dem Ganzen verbindet (*reliance*). Er starb am 29. Mai 2026 mit 104 Jahren; Macron würdigte ihn als „Denker des Jahrhunderts".
+> Seine Eltern kamen aus Thessaloniki nach Frankreich; die frühe, autodidaktische Bildung an Tolstoi, Dostojewski und Rousseau prägte einen Geist, der sich zeitlebens weigerte, Wissen in getrennte Fächer zu zerlegen. In seinem sechsbändigen Hauptwerk *La Méthode* (1977–2004) entwarf er die **pensée complexe** — einen Weg, der die Zersplitterung des Wissens überwindet und die Teile wieder mit dem Ganzen verbindet (*reliance*). Er starb am 29. Mai 2026 mit 104 Jahren in Paris; Macron nannte ihn einen „penseur du siècle“ und ehrte ihn am 3. Juni mit einem *hommage national* im Hôtel des Invalides ([Élysée](https://www.elysee.fr/emmanuel-macron/2026/06/03/hommage-national-a-edgar-morin)).
 >
 > Wichtigste Werke: *L'Homme et la Mort* (1951), *Le Cinéma ou l'homme imaginaire* (1956), *La Méthode* (6 Bände, 1977–2004), *Terre-Patrie* (1993)
 > Kernkonzepte: pensée complexe, Transdisziplinarität, Reliance, Terre-Patrie, Anthropologie der planetaren Ära
@@ -60,11 +61,11 @@ Sein Modell ist Leonardo da Vinci — nicht nur Künstler, sondern Anatom, Erfin
 
 ### Jude, Kommunist, Widerständler — die dreifache Identität
 
-[▶ 14:00](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=840) — Der Krieg macht aus Edgar Nahoum Edgar Morin — der Deckname des illegalen Aktivisten wird sein Name fürs Leben. Er verteilt Traktate, verbindet sich heimlich mit dem Apparat der KP und gehört zugleich einer nichtkommunistischen Widerstandsgruppe an. Diese *doppelte Identität* genießt er: Als Nahoum bleibt er der Sohn seines Vaters, als Morin wird er der Sohn seiner selbst.
+[▶ 8:34](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=514) — Der Krieg macht aus Edgar Nahoum Edgar Morin — der Deckname des illegalen Aktivisten wird sein Name fürs Leben. Er verteilt Traktate, verbindet sich heimlich mit dem Apparat der KP und gehört zugleich einer nichtkommunistischen Widerstandsgruppe an. Diese *doppelte Identität* genießt er: *„Mein erster spontan ergriffener Beruf war der des illegalen Aktivisten. Ich fühlte mich sehr frei, weil ich mehrere Zuhause und Identitäten hatte."* Als Nahoum, sagt er, blieb er der Sohn seines Vaters; als Morin wurde er ein anderer (der Satz bricht im Untertitel ab).
 
-> *„Der Krieg hat mich zweifellos gerettet, denn er ermöglichte mir vor allem, das Risiko zu sterben, frei anzunehmen. Ich hatte sehr wenig Angst, weil ich wusste, dass ich drei Gründe hatte umzukommen. Ich war gleichzeitig Jude, Kommunist und [Widerständler]."*
+> *„Der Krieg hat mich zweifellos gerettet, denn er ermöglichte mir vor allem, das Risiko zu sterben, frei anzunehmen. Ich hatte sehr wenig Angst, weil ich wusste, dass ich drei Gründe hatte umzukommen. Ich war gleichzeitig Jude, Kommunist und […]"*
 
-Das ist einer der erstaunlichsten Sätze der ganzen Doku. Wo andere die dreifache Gefährdung als dreifache Todesangst erlebt hätten, findet Morin darin einen *inneren Frieden, der tiefer geht als die Angst*. Für die Menschheit zu arbeiten und dabei den Tod zu riskieren — das gibt seinem Leben eine Klarheit, die er nie wieder ganz verlieren wird. In der Wohnung von Marguerite Duras in der Rue Saint-Benoît freundet er sich mit Robert Antelme und Dionys Mascolo an; aus diesen Résistance-Begegnungen wächst ein Freundschaftsbegriff, der später zum philosophischen Kernbegriff wird: die *Brüderlichkeit* als gewählte, nicht als natürliche Bindung.
+Das dritte Wort verschluckt der Untertitel; nach allem, was der Film erzählt, ist es der Widerstand. Es ist einer der erstaunlichsten Sätze der ganzen Doku. Wo andere die dreifache Gefährdung als dreifache Todesangst erlebt hätten, findet Morin darin einen *inneren Frieden, der tiefer geht als die Angst*. Für die Menschheit zu arbeiten und dabei den Tod zu riskieren — das gibt seinem Leben eine Klarheit, die er nie wieder ganz verlieren wird. In der Wohnung von Marguerite Duras in der Rue Saint-Benoît freundet er sich mit Robert Antelme und Dionys Mascolo an; aus diesen Résistance-Begegnungen wächst ein Freundschaftsbegriff, der später zum philosophischen Kernbegriff wird: die *Brüderlichkeit* als gewählte, nicht als natürliche Bindung.
 
 ### Der Bruch mit der Partei und die Autokritik
 
@@ -79,7 +80,7 @@ Bemerkenswert ist die Ehrlichkeit dieser späten Bilanz: Morin beschönigt nicht
 
 ### „Mein Leben ist eine Suche" — der Tod der Mutter
 
-[▶ 18:36](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=1116) — Unter dem Denker liegt eine Wunde. Mit neun Jahren verliert Morin seine Mutter, die mit 34 unerwartet stirbt — ein „verwöhntes Einzelkind", das eine Präsenz verliert, mit der es sich vollständig identifiziert hatte. Der Verlust musste geheim bleiben, er durfte nicht weinen; die *Hoffnung auf die Rückkehr der Mutter* hielt sich bis ins hohe Alter in seinem Unterbewusstsein. Aus dieser Dualität — mythologische Hoffnung gegen das Wissen, dass alles verloren ist — schöpft er sein erstes großes Buch.
+[▶ 18:36](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=1116) — Unter dem Denker liegt eine Wunde. Mit neun Jahren verliert Morin seine Mutter, die mit 34 unerwartet stirbt — ein „verwöhntes Einzelkind", das eine Präsenz verliert, mit der es sich vollständig identifiziert hatte. Der Verlust musste geheim bleiben, und er sagt, er habe eine *„schreckliche Einsamkeit“* durchgemacht; die *Hoffnung auf die Rückkehr der Mutter* hielt sich bis ins hohe Alter in seinem Unterbewusstsein. Aus dieser Dualität — mythologische Hoffnung gegen das Wissen, dass alles verloren ist — schöpft er sein erstes großes Buch.
 
 > *„Ich suche. Mein Leben ist eine Suche. Eine Suche, um zu versuchen zu leben, zu versuchen zu verstehen."*
 
@@ -87,7 +88,7 @@ Bemerkenswert ist die Ehrlichkeit dieser späten Bilanz: Morin beschönigt nicht
 
 ### Das komplexe Denken — in Widersprüchen denken können
 
-[▶ 41:50](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=2510) — Hier ist der Kern. Auf die Frage, was er unter dem *komplexen Denken* verstehe, antwortet Morin ohne Umschweife:
+[▶ 41:05](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=2465) — Hier ist der Kern. Auf die Frage, was er unter dem *komplexen Denken* verstehe, antwortet Morin ohne Umschweife:
 
 > *„Komplexität bedeutet, in Unsicherheit und Widersprüchen denken zu können. Die große Gefahr ist eine verstümmelnde Sicht der Realität — nur einen Aspekt zu betrachten."*
 
@@ -95,41 +96,65 @@ Die politische Dimension eines sozialen Phänomens sehen und die wirtschaftliche
 
 Schon bei Hegel hatte ihn fasziniert, dass Widersprüche nicht zu vermeiden, sondern auszuhalten sind; bei den Romantikern das „tiefe Gespür für die Harmonie der Gegensätze". Morins Materialismus ist deshalb kein Reduktionismus, im Gegenteil:
 
-> *„Der Materialismus lehnt die Rationalisierung ab, die glaubt, alles in geistige Schubladen sortieren zu können. Der Respekt vor dem Realen ist gleichzeitig der Respekt vor dem Mysterium."*
+> *„Der Materialismus lehnt die Rationalisierung ab, die glaubt, alles in geistige Schubladen sortieren zu können. Der Respekt vor dem sogenannten Realen oder Physischen ist gleichzeitig der Respekt vor dem Mysterium […]"*
 
 > [!note] Eigene Einschätzung
 > Das ist die überraschendste Wendung bei Morin: dass ausgerechnet der Naturalist, der das Gehirn in seine Anthropologie holt, gegen den Machbarkeitswahn steht. Wer die Welt wirklich achtet, sagt er, muss zugeben, dass sie den eigenen Begriffen entwischt. Der Fehler des technokratischen Denkens ist nicht, dass es rechnet, sondern dass es glaubt, das Berechenbare sei das Ganze. In der Ära der Optimierung — wo alles, was zählt, gezählt werden soll — ist das eine fast trotzige Position: die Ehrfurcht vor dem, was der eigene Geist nicht fassen kann.
 
 ### Gegen die Verachtung der Massen
 
-[▶ 29:30](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=1770) — Lange bevor „Kulturindustrie" ein Kampfbegriff wurde, schreibt Morin über sie — und stellt sich gegen die herrschende intellektuelle Verachtung. Die Soziologen seiner Zeit, sagt er, hielten die Medien für verblödend: Alle würden dasselbe denken, zur selben Zeit dieselbe Sendung schauen. Morin nennt das *„ein Gespenst der Intellektuellen"*.
+[▶ 28:44](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=1724) — *(→ [[#Macht Unterhaltung dumm?|Nachbesprechung]])* Als Adorno und Horkheimer die „Kulturindustrie" längst zum Kampfbegriff gemacht hatten, schreibt Morin über dieselbe Massenkultur (*L'Esprit du temps*, 1962) — und stellt sich gegen die herrschende intellektuelle Verachtung. Die Soziologen seiner Zeit, sagt er, hielten die Medien für verblödend: Alle würden dasselbe denken, zur selben Zeit dieselbe Sendung schauen. Morin nennt das *„ein Gespenst der Intellektuellen"*.
 
 > *„Intellektuelle haben immer Angst um die Menschen."*
 
-Sein Gegenbeweis ist konkret: Wie kann es sein, dass Charlie Chaplin oder Édith Piaf in allen Gesellschaftsschichten und allen Ländern geliebt werden? Wo der große Soziologe (gemeint ist Bourdieu, ungenannt) die Menschen in ihren Habitus, ihre Klasse, ihren Geschmack einsperrt, sieht Morin das Verbindende — das, was quer durch die Schichten trägt. Jahrzehntelang war sein Buch über die Massenkultur verflucht, von den Soziologen ignoriert, bis es rehabilitiert wurde. Es ist derselbe Reflex wie beim Wissen: Wo andere trennen, verbindet er.
+Sein Gegenbeweis ist konkret: Wie kann es sein, dass Charlie Chaplin oder Édith Piaf in allen Gesellschaftsschichten und allen Ländern geliebt werden? Wo der große Soziologe (der Name fällt in der Abschrift nicht; Habitus und Klassengeschmack weisen auf Bourdieu) die Menschen in ihren Habitus, ihre Klasse, ihren Geschmack einsperrt, sieht Morin das Verbindende — das, was quer durch die Schichten trägt. Jahrzehntelang war sein Buch über die Massenkultur verflucht, von den Soziologen ignoriert, bis es rehabilitiert wurde. Es ist derselbe Reflex wie beim Wissen: Wo andere trennen, verbindet er.
 
 > [!question] Weitergedacht
 > Morin wirft den Intellektuellen vor, sich vor der Masse zu fürchten und diese Furcht für Analyse zu halten. *Ist die heutige Rede von „manipulierten" oder „verblendeten" Wählern der neue Name für dieselbe alte Angst — und was übersieht sie am Menschen, den sie zu retten meint?*
 
 ### Terre-Patrie — die planetare Schicksalsgemeinschaft
 
-[▶ 45:02](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=2702) — Schon 1981 schlägt Morin Alarm über den Zustand des Planeten — mit einer, wie die Doku sagt, „verstörenden Vorahnung". Seine Ökologie ist keine Sammlung von Einzelproblemen. Gerade die *technokratische Reduktion* — hier ein Rauchproblem, dort ein DDT-Problem, anderswo ein Abfallproblem — verfehlt den Kern: dass es ein *globales* Problem gibt, und dass die Technik, die die einzelnen Verschmutzungen lindert, selbst Teil derselben Wachstumsströmung ist, die sie hervorbrachte.
+[▶ 48:16](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=2896) — Schon 1981 schlägt Morin Alarm über den Zustand des Planeten, auf dem Barbarei und Zivilisation verwoben sind und Nationalstaaten wie „paranoide Ungeheuer“ handeln; vor Umweltrisiken warnt er, wie die Doku sagt, seit mehr als einem halben Jahrhundert „mit einer verstörenden Vorahnung". Seine Ökologie ist keine Sammlung von Einzelproblemen. Gerade die *technokratische Reduktion* — hier ein Rauchproblem, dort ein DDT-Problem, anderswo ein Abfallproblem — verfehlt den Kern: dass es ein *globales* Problem gibt, und dass die Technik, die die einzelnen Verschmutzungen lindert, selbst Teil derselben Wachstumsströmung ist, die sie hervorbrachte.
 
 Dahinter steht seine schärfste Zivilisationskritik — die Reduktion der Politik auf Ökonomie:
 
-> *„Wer in einer Welt des Bruttoinlandsprodukts und des Wachstums lebt, lebt in der völlig abstrakten Welt der [Zahlen]."*
+> *„Seit dem Zeitpunkt, an dem sich die Politik auf die Wirtschaft reduziert hat, wurde alles auf Zahlen und […] Wer in einer Welt des Bruttoinlandsprodukts und des Wachstums lebt, lebt in der völlig abstrakten Welt der […]"*
 
 Der berechenbare Teil der Wirklichkeit, sagt Morin, ist sehr begrenzt; er berücksichtigt keine menschlichen Realitäten wie Leid und Freude. In *Terre-Patrie* (1993) denkt er die Menschheit als *„umfassende Schicksalsgemeinschaft aller Nationen"* — verbunden nicht durch einen gemeinsamen Feind, wie einst die Internationale gegen den Kapitalismus, sondern durch gemeinsame fundamentale Probleme auf einem einzigen, geschrumpften und zerrissenen Planeten.
 
 ### Die Brüderlichkeit und der Optimismus des Unwahrscheinlichen
 
-[▶ 50:33](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=3033) — Am Ende bleibt die schwierigste der drei Losungen. *Freiheit* kann gewährt, *Gleichheit* durchgesetzt werden — aber die *Brüderlichkeit* lässt sich nicht verordnen. Sie ist eine gewählte Zuneigung, „die symbolisch im Kampf entsteht"; man bricht mit der natürlichen Familie, um eine neue zu gründen. Morin weiß, dass er darauf sein Leben lang gesetzt hat, ohne sicher zu sein, dass sie je verwirklicht wird — der „Apostel der Brüderlichkeit", der auf sie wettet wie Pascal auf Gott.
+[▶ 47:31](https://www.youtube.com/watch?v=cjqKYRCEVEM&t=2851) — Am Ende bleibt die schwierigste der drei Losungen. *Freiheit* kann gewährt, *Gleichheit* durchgesetzt werden — aber die *Brüderlichkeit* lässt sich nicht verordnen. Sie ist eine gewählte Zuneigung, „die symbolisch im Kampf entsteht"; man bricht mit der natürlichen Familie, um eine neue zu gründen. Morin weiß, dass er darauf sein Leben lang gesetzt hat, ohne sicher zu sein, dass sie je verwirklicht wird — der „Apostel der Brüderlichkeit", der auf sie wettet wie Pascal auf Gott.
 
 Und doch verweigert er sich sowohl dem Pessimismus als auch dem Optimismus. Sein Bild ist Athen gegen das Perserreich: Wer hätte gedacht, dass die armselige kleine Stadt dem gewaltigen Reich zweimal widersteht — und uns Demokratie und Philosophie hinterlässt?
 
-> *„Mein Optimismus setzt auf das Unwahrscheinliche. In der Geschichte ereignete sich nicht immer das Wahrscheinliche, oft trat das glücklich Unerwartete ein."*
+> *„In der Geschichte ereignete sich nicht immer das Wahrscheinliche, oft trat das glücklich Unerwartete ein. […] Mein Optimismus setzt auf das Unwahrscheinliche."*
 
-Zugleich der nüchterne Gegenbefund, ohne Trost: *„Jeder technische, wissenschaftliche, wirtschaftliche Fortschritt hat zu keinem ethischen, intellektuellen oder rationalen Fortschritt geführt."* Technische Überlegenheit ist keine ethische. Es ist die reife Haltung eines Menschen, der zwei Weltkriege, den Stalinismus und das Heraufziehen der ökologischen Katastrophe gesehen hat und sich weder in Verzweiflung noch in Hoffnung flüchtet — sondern im Unbequemen sitzen bleibt. Er nennt sich am Ende *„ein Baum, der seine Sämlinge verbreitet durch meine Bücher" —* ohne die Leser als seine Jünger zu betrachten. Die Methode wird nicht mechanisch angewandt; sie ruft jeden Geist zu seiner eigenen Verstandeskraft auf.
+Zugleich der nüchterne Gegenbefund, ohne Trost: *„Jeder technische, wissenschaftliche, wirtschaftliche Fortschritt hat zu keinem ethischen, intellektuellen oder rationalen Fortschritt geführt."* Technische Überlegenheit ist keine ethische. Es ist die reife Haltung eines Menschen, der den Zweiten Weltkrieg, den Stalinismus und das Heraufziehen der ökologischen Katastrophe gesehen hat und sich weder in Verzweiflung noch in Hoffnung flüchtet — sondern im Unbequemen sitzen bleibt. Er nennt sich am Ende *„ein Baum, der seine Sämlinge verbreitet durch meine Bücher" —* ohne die Leser als seine Jünger zu betrachten. Die Methode wird nicht mechanisch angewandt; sie ruft jeden Geist zu seiner eigenen Verstandeskraft auf.
+
+---
+
+## Nachbesprechung
+
+*Zwei Behauptungen Morins, die man an der Forschung prüfen kann: dass die Angst vor der verblödenden Massenkultur ein Gespenst sei, und dass zerteiltes Wissen blind macht.*
+
+### Macht Unterhaltung dumm?
+
+Morin nennt die Furcht der Intellektuellen, Massenmedien würden die Menschen verblöden, *„ein Gespenst“*. Die Forschung gibt ihm in einem Punkt recht und widerspricht ihm in einem anderen. Recht bekommt er dort, wo es um den Verstand geht. Als das Fernsehen in den USA Stadt für Stadt ankam, schadete es Vorschulkindern nicht, eher half es ein wenig, am meisten den Kindern aus Familien, in denen kein Englisch gesprochen wurde ([Gentzkow & Shapiro 2008](https://doi.org/10.1162/qjec.2008.123.1.279)). Die *Sesamstraße* verbesserte die Schulleistung, besonders bei Jungen ([Kearney & Levine 2019](https://doi.org/10.1257/app.20170300)). Und im Jahrhundert der Massenmedien stieg der gemessene IQ weltweit, zuletzt langsamer ([Pietschnig & Voracek 2015](https://doi.org/10.1177/1745691615577701), Meta-Analyse über fast vier Millionen Menschen). Auch Bourdieus Geschmacksgrenzen sind brüchiger geworden: Die Gebildeten von heute hören Oper *und* Pop, die Soziologie nennt sie „Allesfresser“ ([Peterson & Kern 1996](https://doi.org/10.2307/2096460)). Chaplin und Piaf hätten Morin gefallen.
+
+Widerspruch bekommt er dort, wo es um Politik geht. In Italien empfingen manche Gemeinden Berlusconis Unterhaltungssender früher als andere, ein natürliches Experiment. Wo Mediaset früh zu sehen war, wurde 1994 eher Berlusconi gewählt, über fünf Wahlen hinweg, und wer als Kind viel davon gesehen hatte, war als Erwachsener *„less cognitively sophisticated and civic-minded“* ([Durante, Pinotti & Tesei 2019](https://doi.org/10.1257/aer.20150958)). In Indonesien, wo Berge den Empfang verteilten, ging mit mehr Fernsehen die Teilnahme am Vereinsleben zurück ([Olken 2009](https://doi.org/10.1257/app.1.4.1)). Erzählende Unterhaltung überzeugt nachweislich, und die Wirkung hält Wochen ([Rahmani et al. 2025](https://doi.org/10.1017/bpp.2025.10010), Meta-Analyse über 77 Experimente).
+
+Morin und Adorno haben also beide ein Stück recht: Massenkultur verdummt nicht, aber sie formt, und nicht immer in Richtung Mündigkeit. Francis Galton wollte 1907 beweisen, dass Menge dumm ist, und entdeckte dabei [[Albert Moukheiber — Mein Hirn und die anderen#9. Weisheit der Vielen — Galtons fehlgeschlagener Beweis der Dummheit|die Weisheit der Vielen]]; Adorno hielt Fun für [[Walther Ziegler — Adorno in 60 Minuten#Kulturindustrie — Lachen als Betrug am Glück|ein Stahlbad]].
+
+→ Weiter im Panorama: **[[Panorama/Wer macht die Meinung#Macht Unterhaltung dumm?|Macht Unterhaltung dumm?]]**, mit Adorno, Galton, Mausfeld und Bonhoeffer.
+
+### Braucht Wissen Grenzgänger?
+
+*„Verstümmeltes Denken führt zu verstümmelnden Handlungen“*, und das *Inselwissen* der Fächer genügt Morin nicht. Wie es Grenzgängern in der Wissenschaft ergeht, ist gut gemessen. Beim Australian Research Council sanken die Chancen eines Antrags mit jedem Grad an Interdisziplinarität, bei allen 18.476 Anträgen aus fünf Jahren, auch wenn man Fach, Teamgröße und Institution herausrechnet ([Bromham, Dinnage & Hua 2016, Nature](https://doi.org/10.1038/nature18315)). Wer über Fächer hinweg forscht, veröffentlicht weniger, wird aber öfter zitiert, „high-risk, high-reward“ ([Leahey, Beckman & Stanko 2017](https://doi.org/10.1177/0001839216665364)), und bei britischen Forschungsgeldern überholen Interdisziplinäre die Spezialisten erst auf lange Sicht ([Sun et al. 2021](https://doi.org/10.1038/s42005-021-00769-z)). Das System bestraft also, was es später braucht.
+
+Aber Morins Leonardo ist nicht die ganze Antwort. Die wirkungsstärksten Arbeiten unter 17,9 Millionen Papers ruhen auf ganz konventionellem Fachwissen, mit einem kleinen Einschuss ungewöhnlicher Verbindungen ([Uzzi et al. 2013, Science](https://doi.org/10.1126/science.1240474)); zu weite Sprünge zwischen Fächern schaden eher ([Yegros-Yegros et al. 2015](https://doi.org/10.1371/journal.pone.0135095)). Und weil das Wissen wächst, werden Erfinder älter und spezialisierter und arbeiten öfter im Team ([Jones 2009](https://doi.org/10.1111/j.1467-937x.2008.00531.x)). Die moderne Antwort auf Morins Frage ist darum seltener der Universalgelehrte als das Team, in dem Spezialisten einander zuhören. Dass das hilft, zeigt ein großes Prognoseturnier, in dem trainierte Teams deutlich besser voraussagten als Einzelne ([Mellers et al. 2014](https://doi.org/10.1177/0956797614524255)).
+
+→ Weiter im Panorama: **[[Panorama/Forschung#Braucht Wissen Grenzgänger?|Braucht Wissen Grenzgänger?]]**, mit Gabriel, Truger, Adam Smith und Flemigs Einspruch für das Fachwissen.
 
 ---
 
@@ -191,8 +216,6 @@ Yorans ETF-Selbstbefund („Wer profitiert? Oh — das bin ja ich“) ist das *p
 
 Was Morin in der Résistance erlebte, hat Ernst Tugendhat später als Denkfigur beschrieben: Die Angst vor dem Ende tritt zurück, wenn man den Maßstab der Wichtigkeit von sich selbst auf anderes verlegt.
 
----
-
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
 
 Shivas *oikos* als gemeinsame Wurzel von Ökonomie und Ökologie spiegelt Morins *Terre-Patrie* und sein verbundenes gegen zersplittertes Denken.
@@ -212,6 +235,8 @@ Ricœur nannte es sein Los, „immer zwischen zwei Einflüssen platziert" zu sei
 ### → [[Philipp Blom — Die strauchelnde Welt]]
 
 Philipp Blom beendet sein Gespräch über die strauchelnde Welt mit Morins Satz „Ich bin weder Optimist noch Pessimist. Ich bin entschlossen.“ Auch sonst denkt er in Morins Art: Lueger als Antisemit und großer Bürgermeister zugleich, die Wut der Abgehängten als berechtigt und doch fehlgeleitet.
+
+---
 
 ## Weiterdenken
 

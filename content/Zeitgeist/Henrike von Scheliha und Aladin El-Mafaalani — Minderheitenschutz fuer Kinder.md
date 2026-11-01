@@ -281,6 +281,9 @@ Was Beteiligung bringt, ist mäßig, aber gerichtet belegt. Ein systematisches R
 
 ## Verbindungen
 
+### → [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
+Kinder ohne Stimme, auf der anderen Seite der Welt: Die Bewegungen arbeitender Kinder fordern seit 1996, bei jeder Entscheidung gefragt zu werden, die sie betrifft. Die vierzehnjährige Wendy aus Potosí sagt, die Erwachsenen, die das Verbot wollen, wüssten nicht, wie sie lebt.
+
 ### → [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit]]
 
 Ein Jahr früher, dieselbe Demografie, derselbe Rat, aber noch ohne die Juristin: Dort sollten zehn- bis zwanzigjährige Jugendliche jede Entscheidung öffentlich kommentieren. Hier holt von Scheliha den Vorschlag in die Verfassung, mit Anhörung, Begründungspflicht und der Frage, was ein Gesetz und was eine Satzung braucht. El-Mafaalani will weiter jünger ansetzen.

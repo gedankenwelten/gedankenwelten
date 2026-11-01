@@ -165,8 +165,8 @@ Die Nuklearwaffe sollte das *Ende aller Kriege* sein — wechselseitige nukleare
 | Konzept bei Machiavelli | Kemper liest es so | Münkler liest es so |
 |---|---|---|
 | **Virtu** (männliche Machtenergie) | Psychopathologie: Identifikation mit dem Aggressor; Quelle faschistischer Männlichkeit | Politische Realität: Gesellschaften brauchen eine Bereitschaft zum Kampf — *postheroische* Gesellschaften verlieren diese Virtu und werden verwundbar |
-| **Si vis pacem, para bellum** | Aufrüstungslogik, die Faschismus ermöglicht | Unvermeidliche Realität staatlicher Selbstbehauptung — Vegetius vor Machiavelli, aber dieselbe Logik |
-| **Fortuna** (Schicksalsgöttin, das Unberechenbare) | Faschismus reproduziert sich durch Gewalt — die Virtu schafft ihre eigene Scheinwelt | Emergente Dynamik: Kriege entstehen oft ohne dass sie jemand wollte — aus Missverständnissen, Spiralen, Zufällen |
+| **Si vis pacem, para bellum** | — (Kemper thematisiert das nicht) | Unvermeidliche Realität staatlicher Selbstbehauptung — Vegetius vor Machiavelli, aber dieselbe Logik |
+| **Fortuna** (Schicksalsgöttin, das Unberechenbare) | Zitiert nur Machiavellis Bild der Fortuna als Frau, die „erobert, zu Boden geworfen und geprügelt“ werden wolle — als Beleg für die Gewalt im Buch | Emergente Dynamik: Kriege entstehen oft ohne dass sie jemand wollte — aus Missverständnissen, Spiralen, Zufällen |
 | **Der Fürst als Uomo Virtuoso** | Der Führer-Kult als Faschismus-Kern | Einzelpersonen (Putin) können trotz aller Strukturen Krieg erzwingen — Agentschaft bleibt relevant |
 | **Frieden verweichlicht** | — (Kemper thematisiert das nicht) | Frieden als Ursache des Krieges: Frustration, Thukydides-Falle, Verlust des Opfergedankens |
 

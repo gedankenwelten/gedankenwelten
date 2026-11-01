@@ -5478,3 +5478,21 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Scherbakowa_Bota_Memorial_Erinnern_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Irina Scherbakowa]] · [[DenkerVita/Alice Bota]] |
+
+## Kinderarbeit — Panorama „Warum Kinder arbeiten“
+
+| | |
+|---|---|
+| **Video** | [Kinderarbeit in Bolivien: Sherif begleitet den 14-jährigen Kevin](https://www.youtube.com/watch?v=r0sjuhZeZAw) (ZDF logo! extra, 20.11.2024) |
+| **Notiz** | [[Panorama/Warum Kinder arbeiten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/logo_Kinderarbeit_Bolivien_Kevin_Transkript.txt` |
+| **Zahlen** | [ILO/UNICEF — Child Labour: Global Estimates 2024](https://www.ilo.org/publications/major-publications/child-labour-global-estimates-2024-trends-and-road-forward) (Juni 2025) · [NORC — Kakao-Bericht 2020](https://www.norc.org/content/dam/norc-org/pdfs/NORC%202020%20Cocoa%20Report_English.pdf) |
+| **Fälle** | [Amnesty — Kobalt im Kongo (2016)](https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR6231832016ENGLISH.pdf) · [NCRC Pakistan — Ziegeleien (2026)](https://ncrc.gov.pk/wp-content/uploads/2026/10/Brick-Kiln-Workers-Report_2026.pdf) · [Kundapur-Erklärung (1996)](https://www.concernedforworkingchildren.org/empowering-children/childrens-unions/the-kundapur-declaration/) |
+
+## WDR — Schmutzige Schokolade
+
+| | |
+|---|---|
+| **Video** | [Schmutzige Schokolade: Sie zahlen für unseren Genuss](https://www.youtube.com/watch?v=ZVJkZZGc6vY) (WDR Doku / Die Story, Film von Michael Höft, 2024) |
+| **Notiz** | [[WDR — Schmutzige Schokolade]] |
+| **Transkript** | `Gedankenwelten/Transkripte/WDR_Schmutzige_Schokolade_Transkript.txt` |

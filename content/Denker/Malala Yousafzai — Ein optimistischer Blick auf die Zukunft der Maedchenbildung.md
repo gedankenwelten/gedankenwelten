@@ -156,6 +156,9 @@ Es ist kein Zufall, dass sie die Männer nicht wegargumentiert, sondern sie einl
 
 ## Verbindungen
 
+### → [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
+Die Mädchen, denen Bildung zuerst genommen wird, arbeiten oft unsichtbar: im fremden Haushalt, neun bis fünfzehn Stunden am Tag. Das Panorama zeigt, warum eine Schule, die nichts kostet, mehr gegen Kinderarbeit ausrichtet als ein Verbot, und dass Kailash Satyarthi den Friedensnobelpreis 2014 mit Malala teilte.
+
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Die engste Brücke im Vault — und die produktivste Reibung. Beide begannen als lokale Aktivistinnen, beide wurden für ihren Widerstand bestraft, und beide erzählen dieselbe Szene von verschiedenen Enden: Dangarembgas umgedrehtes *Nhanga*-Zelt (der traditionelle Mädchen-Raum, damit ein Mädchen „die Führung im eigenen Leben übernimmt") ist Malalas Bottom-up-Aktivismus in anderer Sprache — Wandel von innen, mit den eigenen Begriffen. Der Bruch ist scharf: Malalas „optimistischer Blick auf die Zukunft" trifft auf Dangarembgas „ich glaube nicht an Utopien, es zählt das Hier und Jetzt". Hoffnung als Antrieb gegen Praxis ohne Vision.

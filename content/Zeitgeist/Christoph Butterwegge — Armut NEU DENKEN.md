@@ -147,6 +147,9 @@ Butterwegge ist klar: Steuern und Umsteuern alleine reichen nicht. Es braucht ei
 
 ## Verbindungen
 
+### → [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
+Armut als Lage, die Menschen hineinzwingt: Weltweit ist Kinderarbeit vor allem ein Symptom davon. In Vietnam erklären steigende Haushaltsausgaben 80 % ihres Rückgangs, und Bargeld für die Familien senkt sie verlässlicher als jedes Verbot.
+
 ### → [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
 
 Malalas hellste analytische Passage — der Rückschritt bei Mädchenbildung entsteht nicht durch einen bösen Beschluss, sondern durch die unscheinbare Umschichtung knapper Mittel, eine gestrichene Budgetzeile — teilt Butterwegges Grundgeste: Not ist kein Naturzustand, sondern hergestellt, ein politisches Produkt. Beide argumentieren mit Mechanismus statt Moral, nur auf verschiedenen Kontinenten.

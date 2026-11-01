@@ -2,8 +2,8 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-10-27
-description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-11-01
+description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
   - panorama
@@ -29,7 +29,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Ein Chemiker erfindet ein Material, das Wasser aus Wüstenluft zieht, und sagt, was die Gesellschaft damit anfange, sei nicht sein Bereich. An diesem Satz hängen vier Fragen, die weit über ihn hinausgehen. Wofür ist Forschung verantwortlich, wenn nur sie weiß, was sie da gebaut hat? Wer bezahlt sie, und was kauft er dabei mit? Wie weit darf man einem Befund trauen, wenn die Hälfte der Befunde eine Wiederholung nicht übersteht? Und was wird aus der Forschung, wenn Maschinen Materialien und Texte zu Tausenden erzeugen? Hier steht, was man über diese Fragen weiß, und daneben, wer im Bestand der Gedankenwelten welche Position bezieht.
+> Ein Chemiker erfindet ein Material, das Wasser aus Wüstenluft zieht, und sagt, was die Gesellschaft damit anfange, sei nicht sein Bereich. An diesem Satz hängen vier Fragen, die weit über ihn hinausgehen. Wofür ist Forschung verantwortlich, wenn nur sie weiß, was sie da gebaut hat? Wer bezahlt sie, und was kauft er dabei mit? Wie weit darf man einem Befund trauen, wenn die Hälfte der Befunde eine Wiederholung nicht übersteht? Und was wird aus der Forschung, wenn Maschinen Materialien und Texte zu Tausenden erzeugen? Eine fünfte Frage kam später dazu: ob das Wissen, in Fächer zerteilt, blind wird. Hier steht, was man über diese Fragen weiß, und daneben, wer im Bestand der Gedankenwelten welche Position bezieht.
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Die erste war [[Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi]] im September 2026.
@@ -193,6 +193,26 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 
 ---
 
+## Braucht Wissen Grenzgänger?
+
+Edgar Morin verlangte ein Leben lang, die Mauern zwischen den Fächern einzureißen: *„Verstümmeltes Denken führt zu verstümmelnden Handlungen.“* Wie es denen ergeht, die über die Mauern steigen, ist gut gemessen. Beim Australian Research Council sank die Chance eines Antrags mit jedem Grad an Interdisziplinarität, über alle 18.476 Anträge aus fünf Jahren, auch wenn man Fach, Teamgröße und Institution herausrechnet ([Bromham, Dinnage & Hua 2016, doi:10.1038/nature18315](https://doi.org/10.1038/nature18315)). Wer über Fächer hinweg forscht, veröffentlicht weniger, wird aber öfter zitiert ([Leahey, Beckman & Stanko 2017, doi:10.1177/0001839216665364](https://doi.org/10.1177/0001839216665364)); bei britischen Fördermitteln überholen die Interdisziplinären die Spezialisten erst auf lange Sicht ([Sun et al. 2021, doi:10.1038/s42005-021-00769-z](https://doi.org/10.1038/s42005-021-00769-z)). Das schließt an den Befund oben an, dass Gutachter Neues benachteiligen (Wang, Veugelers & Stephan 2017).
+
+Die Gegenrechnung ist ebenso solide. Die wirkungsstärksten unter 17,9 Millionen Arbeiten ruhen auf ganz konventionellem Fachwissen, mit einem kleinen Einschuss ungewöhnlicher Verbindungen ([Uzzi et al. 2013, doi:10.1126/science.1240474](https://doi.org/10.1126/science.1240474)); nahe Grenzgänge nützen, ferne schaden eher ([Yegros-Yegros, Ràfols & D'Este 2015, doi:10.1371/journal.pone.0135095](https://doi.org/10.1371/journal.pone.0135095)). Und weil das Wissen wächst, werden Erfinder älter, spezialisierter und arbeiten öfter im Team ([Jones 2009, doi:10.1111/j.1467-937x.2008.00531.x](https://doi.org/10.1111/j.1467-937x.2008.00531.x)). Die Antwort auf Morins Frage heißt heute seltener Leonardo als Team; dass trainierte Teams besser urteilen als Einzelne, zeigte ein großes Prognoseturnier ([Mellers et al. 2014, doi:10.1177/0956797614524255](https://doi.org/10.1177/0956797614524255)).
+
+**Die Stimmen**
+
+- **[[Edgar Morin — Das komplexe Denken#Der Autodidakt gegen das Inselwissen|Edgar Morin]]:** Fragmentiertes Inselwissen genügt nicht; Leonardo war Künstler, Anatom, Erfinder und Philosoph in einer Person.
+- **[[Das verwobene Denken — im Geiste Edgar Morins#Die blinde Intelligenz|Luc]]:** Die blinde Intelligenz reißt die Sache aus ihrem Zusammenhang, und Polarisierung ist ihre politische Form.
+- **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Deep Innovation — Das Konzept|Markus Gabriel]]:** Deep Innovation, interdisziplinär, transsektoral, transkulturell — Philosophie mitten in der Technik.
+- **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Drei Stellschrauben|Achim Truger]]:** Kommissionen interdisziplinär besetzen, sonst sitzen „lauter Leute aus derselben Box“.
+- **[[Walther Ziegler — Smith in 60 Minuten#Die drei Aufgaben des Staates|Adam Smith]]:** Schon der Vater der Arbeitsteilung fürchtete die „Verdummung“ durch Spezialisierung und forderte Bildung für alle.
+- **[[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Das eigentliche Thema die Grenzen der Expertise|Konstantin Flemig]]:** Die Gegenstimme: Wer in einem Fach glänzt, ist in einem anderen Laie, und Grenzgang ohne Fachwissen wird zur Anmaßung.
+
+> [!question] Die Reibung
+> Morin wollte den ganzen Menschen in einem Kopf denken, die Daten sagen: Das System bestraft Grenzgänger und braucht sie trotzdem, aber den größten Ertrag bringt das Fach mit einem Fenster. *Ist der Universalgelehrte heute ein Team — und wer in diesem Team sorgt dafür, dass das Ganze im Blick bleibt, wenn jeder nur seinen Teil versteht?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
@@ -204,6 +224,7 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 | 11.10.2026 | [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Hilft Erklären gegen gesäten Zweifel?|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]] | Gesäter Zweifel und was dagegen hilft: Gateway Belief Model (van der Linden 2015, Rode 2025) gegen Kahan 2012 und Tappin 2021, Backfire selten (Wood & Porter), Prebunking im Feld (Roozenbeek 2022, Lu 2023, Simchon 2026), Löschels laute Minderheit |
 | 25.10.2026 | [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Wer darf über Krieg reden?|Flemig reagiert auf Precht]] | Wer darf über Krieg reden? (Ballantyne 2019, Gerken 2018, Tetlock 2005, Mellers 2014, Knoll & Matthes 2016, Habermas 2006) |
 | 27.10.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Energie#Vom Labor zur Fabrik\|Jacob Beautemps — Made in Germany Awards 2026 Energie]] | Vom Labor zur Fabrik: Tal des Todes (Gaddy 2017, Merrow 1979, Nemet 2018), ARPA-E (Goldstein 2020), SPRIND-Evaluation 2025, Northvolt, Lernkurven (Nagy 2013, Wilson 2020) |
+| 01.11.2026 | [[Edgar Morin — Das komplexe Denken#Nachbesprechung|Edgar Morin — Das komplexe Denken]] | Neue Frage „Braucht Wissen Grenzgänger?“: Bromham 2016, Leahey 2017, Sun 2021, Uzzi 2013, Yegros-Yegros 2015, Jones 2009, Mellers 2014 · Morin, Luc, Gabriel, Truger, Smith, Flemig als Gegenstimme |
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Was macht Schule mit uns?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-22
+aktualisiert: 2026-11-01
 description: "Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Die Ecke ist leer. Der Schemel darin steht noch."
@@ -138,6 +138,8 @@ Was Lehrkräfte erwarten, spielt mit, aber weniger, als man denkt. Selbsterfüll
 
 Auch die Note selbst sortiert mit. Lehramtsstudierende bewerteten ein identisches Diktat schlechter, wenn es von „Murat“ statt von „Max“ stammte ([Bonefeld & Dickhäuser 2018, doi:10.3389/fpsyg.2018.00481](https://doi.org/10.3389/fpsyg.2018.00481)), und Lehrkräfte bewerteten dieselbe Arbeit schlechter, wenn sie sie einem ärmeren Kind zuschrieben ([Doyle, Easterbrook & Harris 2022, doi:10.1111/bjep.12541](https://doi.org/10.1111/bjep.12541), präregistriert). Gleiche Noten stehen an verschiedenen Schulen für deutlich verschiedenes Können ([Hübner et al. 2024, doi:10.1007/s11618-024-01216-9](https://doi.org/10.1007/s11618-024-01216-9)). Was die Benachteiligung im Experiment verschwinden ließ, war allerdings eine Fehlertabelle, ein klares Kriterium, und kein Verzicht auf die Note ([Peter, Karst & Bonefeld 2024, doi:10.3389/feduc.2024.1386016](https://doi.org/10.3389/feduc.2024.1386016)); offene, verbale Urteile lassen dem Ermessen mehr Raum. Das Bundesverfassungsgericht hielt 2017 die Abiturnote für ein sachgerechtes Kriterium, verbot aber, nach ihr allein auszuwählen ([1 BvL 3/14](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2017/bvg17-112.html)).
 
+Ob gemeinsames Lernen auch die Haltung zur Demokratie formt, ist eine eigene Frage. Nach 1945 wollten die Alliierten die deutsche Schule demokratisieren (Kontrollratsdirektive Nr. 54, 1947); die sechsjährige Grundschule kam nur in Schleswig-Holstein, Niedersachsen und Berlin und wurde schon in den Fünfzigern zurückgenommen, das Züchtigungsrecht der Lehrer fiel im Westen erst bis 1973, in Bayern 1980. In der DDR dagegen verschwand die Prügelstrafe an Schulen 1945, und ab 1959 lernten alle Kinder zehn Jahre gemeinsam — gerade dort ist die AfD heute am stärksten. Die Schulform allein schützt also nicht. Was die Forschung findet, ist die Wirkung der Mischung: Länder mit früher Aufteilung haben weniger politisch engagierte Bürger, vor allem unten ([Witschge & van de Werfhorst 2019, doi:10.1177/0001699318818650](https://doi.org/10.1177/0001699318818650)); in Frankreich verschwindet der Unterschied in der Wahlabsicht zwischen den Zügen, sobald man die soziale Zusammensetzung der Schulen herausrechnet ([Janmaat & Mons 2022, doi:10.1080/02671522.2022.2028890](https://doi.org/10.1080/02671522.2022.2028890)); und Eltern geben Autoritarismus und Vorurteile vor allem an Kinder weiter, die wenig Kontakt zu Eingewanderten haben ([Dhont & Van Hiel 2011, doi:10.1016/j.jrp.2011.12.008](https://doi.org/10.1016/j.jrp.2011.12.008), kleine Studie). Ein niederländisches Panel fand dagegen kaum Wirkung des Schulwechsels auf ethnische Toleranz ([Witschge, Rözer & van de Werfhorst 2019, doi:10.1002/berj.3501](https://doi.org/10.1002/berj.3501)).
+
 **Die Stimmen**
 
 - **[[Hartwin Maas — Bildung NEU DENKEN#Bildungsstruktur Selektion, Chancengerechtigkeit & Systemreform|Hartwin Maas]]:** Aufteilung nach Klasse sechs statt vier; Gesamtschulen scheitern am Bildungsbürgertum, das das exklusive System für sich nutzt.
@@ -148,6 +150,7 @@ Auch die Note selbst sortiert mit. Lehramtsstudierende bewerteten ein identische
 - **[[Manfred Spitzer — Hirnforscher Feldbach#4. Sprache und Wissen — der Matthäus-Effekt|Manfred Spitzer]]:** Dreißig Millionen gehörte Wörter Rückstand bei Schuleintritt: Wer hat, dem wird gegeben.
 - **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Es darf kein Zufall sein|Michel Friedman]]:** Als Flüchtlingskind ohne ein Wort Deutsch auf dem Gymnasium bot ihm seine Deutschlehrerin zweimal die Woche Nachhilfe an. „Hätte meine Lehrerin das nicht getan, würde ich hier nicht sitzen. Und das war Zufall. Und es darf kein Zufall sein.“
 - **[[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#Der großzügige Staat|Harald Welzer]]:** Die Bundesrepublik seiner Schulzeit machte es zum Programm, Bildungsungleichheit zu senken, davon sei sie heute „Lichtjahre entfernt“. Seinen Superlativ, die höchste Ungleichheit aller westlichen Länder, deckt der Faktencheck nicht, die Richtung schon.
+- **[[Andreas Kemper — Faschismen im 21. Jahrhundert#Hilft gemeinsames Lernen?|Andreas Kemper]]:** Alle Kinder bis zur neunten Klasse gemeinsam, damit arme und reiche, eingewanderte und alteingesessene einander kennen — gegen Klassismus und gegen rechts.
 
 <details><summary>Weitere Stimmen (12)</summary>
 
@@ -268,10 +271,14 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 | 08.10.2026 | [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#Nachbesprechung|Welzer und Bleisch — Großzügigkeit und Gegenwärtigkeit]] | Sortiert die Schule nach Herkunft? PISA 2025, Scharf 2020, Mentoring-RCTs, Startchancen |
 | 18.10.2026 | [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Gewalt als Anerkennung|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] | Beschämen oder schonen → Gewalt als Anerkennung: Heitmeyer & Anhut 2008, Social Goals and Gains 2023, Street-Code-Studie 2020 · Prävention: Durlak 2011, SEL 2023, Gaffney 2019, Olweus DE 2020 / Bauer 2007, Roots of Empathy 2018, RAND 2018 |
 | 22.10.2026 | [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Was uns bleibt|Gefangene des Systems]] | Wozu ist Schule da? Kritisches Denken lehrbar (Abrami 2015), Schulpflicht und Einstellungen (Cavaillé & Marshall 2019), Kontakt über Klassen (Rao 2019, Chetty 2022) · Beschämen oder schonen: Formung als kleiner Risikofaktor (Gao 2024), Wärme dämpft die Anlage (Henry 2018) · Internatssyndrom an großen Studien geprüft (Martin 2014, Zhong 2024) |
+| 01.11.2026 | [[Andreas Kemper — Faschismen im 21. Jahrhundert#Nachbesprechung|Andreas Kemper — Faschismen im 21. Jahrhundert]] | Sortiert die Schule nach Herkunft, Absatz zu Einstellungen: Schulreform der Alliierten und Ost-Paradox, Witschge 2019 (×2), Janmaat & Mons 2022, Dhont & Van Hiel 2011 · Kemper als Stimme |
 
 ---
 
 ## Verbindungen
+
+### → [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
+Die andere Seite der Schulfrage: Kinder, denen die Schule fehlt, weil sie Geld kostet oder weil sie arbeiten müssen. Für Kevin, der nachmittags in einer bolivianischen Silbermine bohrt, ist die Schule der Ort, an dem er abschalten kann. Und Preußen verbot 1839 die Fabrikarbeit von Kindern vor allem, um die Schulpflicht durchzusetzen.
 
 ### → [[Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 

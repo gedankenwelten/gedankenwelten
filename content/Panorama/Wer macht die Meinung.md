@@ -2,8 +2,8 @@
 title: "Wer macht die Meinung?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-10-28
-description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
+aktualisiert: 2026-11-01
+description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
 raetsel: "Das Band läuft aus der Presse in tausend Hände. Wo fängt der Satz an?"
 panorama-art: wachsend
 tags:
@@ -170,6 +170,25 @@ Wie aus einem Befund eine Waffe wird, lässt sich an Krügers Dissertation verfo
 
 ---
 
+## Macht Unterhaltung dumm?
+
+Die Fragen oben gelten den Nachrichten. Ein älterer Streit gilt dem, was zwischen den Nachrichten läuft. Adorno und Horkheimer nannten es 1944 Kulturindustrie, einen Verblendungszusammenhang, in dem das Vergnügen die Menschen gefügig macht; Edgar Morin hielt die Furcht der Intellektuellen vor der verblödenden Masse für „ein Gespenst“. Die Forschung gibt beiden ein Stück recht. Den Verstand schädigt Fernsehen offenbar nicht: Als es in den USA Stadt für Stadt ankam, schadete es Vorschulkindern nicht, eher half es ein wenig, am meisten Kindern aus Familien, in denen kein Englisch gesprochen wurde ([Gentzkow & Shapiro 2008, doi:10.1162/qjec.2008.123.1.279](https://doi.org/10.1162/qjec.2008.123.1.279)); die *Sesamstraße* hob die Schulleistung ([Kearney & Levine 2019, doi:10.1257/app.20170300](https://doi.org/10.1257/app.20170300)), und im Jahrhundert der Massenmedien stieg der gemessene IQ weltweit ([Pietschnig & Voracek 2015, doi:10.1177/1745691615577701](https://doi.org/10.1177/1745691615577701), Meta-Analyse). Die Bildungseliten hören heute Oper und Pop, Bourdieus scharfe Geschmacksgrenzen sind weicher geworden ([Peterson & Kern 1996, doi:10.2307/2096460](https://doi.org/10.2307/2096460)).
+
+Politisch aber formt Unterhaltung. In italienischen Gemeinden, die Berlusconis Mediaset früh empfingen, wurde 1994 eher Berlusconi gewählt, über fünf Wahlen hinweg, und wer als Kind viel davon sah, war als Erwachsener *„less cognitively sophisticated and civic-minded“* ([Durante, Pinotti & Tesei 2019, doi:10.1257/aer.20150958](https://doi.org/10.1257/aer.20150958)). In Indonesien ging mit mehr Fernsehen die Teilnahme am Vereinsleben zurück ([Olken 2009, doi:10.1257/app.1.4.1](https://doi.org/10.1257/app.1.4.1)), und erzählende Unterhaltung verändert Einstellungen, wochenlang messbar ([Rahmani et al. 2025, doi:10.1017/bpp.2025.10010](https://doi.org/10.1017/bpp.2025.10010), Meta-Analyse). Das Weltbild färbt Fernsehen nur schwach ([Morgan & Shanahan 1997, doi:10.1080/23808985.1997.11678937](https://doi.org/10.1080/23808985.1997.11678937), Meta-Analyse). Hier berührt die Frage die erste dieses Panoramas: Unterhaltung lenkt, ohne dass jemand lenken muss.
+
+**Die Stimmen**
+
+- **[[Edgar Morin — Das komplexe Denken#Gegen die Verachtung der Massen|Edgar Morin]]:** „Intellektuelle haben immer Angst um die Menschen“; Chaplin und Piaf werden in allen Schichten geliebt, und wer das nicht erklären kann, sperrt die Menschen in ihren Habitus.
+- **[[Walther Ziegler — Adorno in 60 Minuten#Kulturindustrie — Lachen als Betrug am Glück|Theodor W. Adorno]]:** „Fun ist ein Stahlbad“; die Kassenlogik gleicht den Geschmack an und macht das Vergnügen zum Einverständnis.
+- **[[Albert Moukheiber — Mein Hirn und die anderen#9. Weisheit der Vielen — Galtons fehlgeschlagener Beweis der Dummheit|Albert Moukheiber]]:** Galton wollte 1907 die Dummheit der Menge beweisen und fand im Mittel der Schätzungen das genaue Gewicht des Ochsen.
+- **[[Rainer Mausfeld — Warum schweigen die Lämmer#Wo trägt die Medienkritik?|Rainer Mausfeld]]:** Meinungsmanagement auf Adornos Fundament: Ablenkung und Fragmentierung als Technik der Macht.
+- **[[Dietrich Bonhoeffer — Theorie der Dummheit#2. Dummheit als soziales Phänomen — das eigentliche Zentrum|Dietrich Bonhoeffer]]:** Dummheit ist keine Eigenschaft der Masse, sondern ein Zustand, in den Macht Menschen versetzt.
+
+> [!question] Die Reibung
+> Morin sieht in der Angst vor der Masse ein Gespenst, Adorno ein Stahlbad, und die Daten sagen: klüger oder dümmer macht Unterhaltung kaum, aber sie verschiebt, wen man wählt. *Ist das Verdummung — oder ist „Verdummung“ das Wort, mit dem Gebildete eine Wahl beschreiben, die sie nicht teilen?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
@@ -178,6 +197,7 @@ Wie aus einem Befund eine Waffe wird, lässt sich an Krügers Dissertation verfo
 | 16.10.2026 | [[Uwe Krueger — Mainstream und kritische Journalistik#Nachbesprechung|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]] | Sachverhalt oder Deutung (Maidan-Urteil 2023, EGMR Odessa 2025, Khan 2022, Fengler et al. 2018, Maurer/Haßler/Jost 2023) → *Wann wird Misstrauen blind?* · Fischschwarm und Klimawandel-Mainstream → *Lenkt jemand, oder lenkt die Routine?* |
 | 16.10.2026 | [[Uwe Krueger — Netzwerke der Meinungsmacht#Nachbesprechung|Uwe Krüger — Netzwerke der Meinungsmacht]] | Beweist Nähe Einfluss? (van der Goot et al. 2021, Teney & Helbling 2014, Granovetter 1973) → *Lenkt jemand, oder lenkt die Routine?* · Wie aus einer Studie ein Beweis wird (BGH 2017, Ulfkotte, Neuberger, Sumner et al. 2014) → *Wann wird Misstrauen blind?* |
 | 28.10.2026 | [[FRONTLINE — Bannons War#Nachbesprechung|FRONTLINE — Bannon’s War]] | Erzähler oder Strippenzieher: wie misst man die Macht eines Netzwerkers? (Benkler/Faris/Roberts 2018, Berkman 2017, Luo et al. 2018, King et al. 2017, Vargo et al. 2018, Rydgren 2005, van Spanje 2010, Abou-Chadi & Krause 2020, Golder 2016, Brookings 2023) → *Lenkt jemand, oder lenkt die Routine?* |
+| 01.11.2026 | [[Edgar Morin — Das komplexe Denken#Nachbesprechung|Edgar Morin — Das komplexe Denken]] | Neue Frage „Macht Unterhaltung dumm?“: Durante 2019 (Mediaset), Olken 2009, Rahmani 2025, Gentzkow & Shapiro 2008, Kearney & Levine 2019, Pietschnig & Voracek 2015, Peterson & Kern 1996, Morgan & Shanahan 1997 · Morin, Adorno, Moukheiber, Mausfeld, Bonhoeffer |
 
 ---
 

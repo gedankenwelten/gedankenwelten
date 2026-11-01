@@ -404,6 +404,9 @@ Weltweit trägt keine Zahl in der Größe von Jungs. Die bekannteste Alarmzahl, 
 
 ## Verbindungen
 
+### → [[WDR — Schmutzige Schokolade]]
+Die andere Seite des Kakaos: An der Elfenbeinküste reichen die Plantagen bis tief in ein offizielles Schutzgebiet, nur am Straßenrand stehen noch ein paar Bäume. Dazu Glyphosat im Fluss, der durch das Dorf fließt.
+
 ### → [[Hoerren und Sorg — Die Insekten verschwinden|Hörren und Sorg — Die Insekten verschwinden]]
 
 Teil 1 der Reihe, und dort steht der andere Professor aus Göttingen. Andreas von Tiedemann, Pflanzenschützer an derselben Fakultät, hält die Krefelder Studie für widerlegt und eine Politik, die sich auf sie stützt, für nicht wissenschaftsbasiert. Tscharntke baut auf genau diese Reihen; seine vierzig Prozent verlorener Schwebfliegenarten stammen aus einer Arbeit, an der Martin Sorg mitschrieb. Und Jörg Müller aus Würzburg, dessen Wetter-Analyse dort den Ursachenstreit trägt, ist Letztautor einer Studie von 2026, aus der Tscharntke in der Presse die Landwirtschaft als größte Stellschraube herausliest ([Decker et al. 2026, *Nat. Commun.*, doi:10.1038/s41467-025-67612-9](https://doi.org/10.1038/s41467-025-67612-9)). Der Streit ist enger, als er von außen aussieht.

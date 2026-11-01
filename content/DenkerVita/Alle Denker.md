@@ -46,6 +46,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Andreas Bartels|Andreas Bartels]]** — Neurowissenschaftler (Universität Tübingen, CIN), Leiter des Vision and Cognition Lab; bei Semir Zeki (UCL) Co-Autor der ersten fMRT-Studien zur romantischen und mütterlichen Liebe (2000, 2004), heute Forschung zu Bewegungssehen und visueller Stabilität
 
+**[[DenkerVita/Andreas Kemper|Andreas Kemper]]** — Soziologe und Publizist, machte mit Heike Weinbach den Begriff Klassismus bekannt; Recherchen zu den Gründungsnetzwerken der AfD, zur Landolf-Ladig-Frage um Björn Höcke, zum Adel im Antifeminismus und zu Privatstädten; Faschismen im Plural (völkisch, klerikal, postfordistisch)
+
 **[[DenkerVita/Andreas Loeschel|Andreas Löschel]]** — Energieökonom, Professor Ruhr-Universität Bochum; Vorsitzender der Expertenkommission zum Energiewende-Monitoring; IPCC Koordinierender Leitautor Energiesysteme 7. Sachstandsbericht; Dreikonflikt Energiewende (Bezahlbarkeit, Klimaschutz, Resilienz), verhaltensökonomische Strommarktfundierung; Deutscher Wirtschaftspreis 2022
 
 **[[DenkerVita/Angela Merkel|Angela Merkel]]** — Physikerin und Politikerin (CDU), Bundeskanzlerin 2005–2021, erste Frau und erste Ostdeutsche im Amt; christdemokratisch-pragmatische Mitte, „Politik vom Ende her gedacht“, Krisendiplomatie (Eurorettung, Flüchtlingskrise 2015, Minsk/Normandie-Format); Memoiren *Freiheit* (2024); umstrittene Russlandpolitik

@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **01.11.** — [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
+>
+> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch.
+
+> **01.11.** — [[Zeitgeist/WDR — Schmutzige Schokolade|WDR — Schmutzige Schokolade: Sie zahlen für unseren Genuss]]
+>
+> Zwei Jungen mit eitrigen Machetenwunden, ein Bauer, der Kinder kauft, ein Fluss voller Glyphosat — und eine Insel, auf der Kakao ohne Kinder wächst. Eine Reise vom Osterhasen zurück zur Bohne.
+
 > **31.10.** — [[Zeitgeist/Tom Krebs — Kapital und Krise|Tom Krebs — Kapital und Krise]]
 >
 > Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
@@ -36,17 +44,13 @@ Die Gedankenwelten (luc)
 >
 > Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt von Rapallo bis Katyn, wie Hitler und Stalin zusammenarbeiteten und Polen gemeinsam zerschlugen.
 
-> **30.10.** — [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
->
-> Solidarität lässt sich nicht einfordern, nur üben. Barbara Prainsack zeigt, wann sie giftig wird, warum Nullsummendenken sie aushöhlt und wie Institutionen gebaut sein müssten, die niemanden demütigen.
-
-> **30.10.** — [[Zeitgeist/Irina Scherbakowa — Der lange Schatten des Stalinismus|Irina Scherbakowa — Der lange Schatten des Stalinismus]]
->
-> Der Terror hat Russland Angst, Misstrauen und Doppeldenken gelehrt, und weil niemand das Erbe aufarbeitete, konnte Putin es wieder benutzen: die Memorial-Historikerin über ein Land im Kreis.
-
 > → *22 weitere in* [[Zeitgeist]]
 
 ### Denker
+
+> **01.11.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
+>
+> Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
 
 > **31.10.** — [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 >
@@ -64,9 +68,31 @@ Die Gedankenwelten (luc)
 >
 > Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
 
-> **26.10.** — [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+> → *1 weitere in* [[Denker]]
+
+### Panorama
+
+> **01.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
 >
-> Was uns am tiefsten berührt, lässt sich nicht bestellen. Hartmut Rosa über Resonanz, Unverfügbarkeit und eine Grammatik zwischen Tun und Erleiden, im Streit mit drei Kritikern.
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **01.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **01.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> **01.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **01.11.** — [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
+>
+> 138 Millionen Kinder arbeiten, die meisten neben ihren Eltern, weil es anders nicht reicht. Was die Arbeit mit einem Kind macht, wo Mithelfen in Schaden kippt — und warum ein Verbot allein die Not nur verschiebt.
+
+> → *11 weitere in* [[Panorama]]
 
 ### Kultur
 
@@ -81,30 +107,6 @@ Die Gedankenwelten (luc)
 > **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
 >
 > Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
-
-### Panorama
-
-> **31.10.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **31.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
->
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **31.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> **31.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
-
-> **31.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> → *10 weitere in* [[Panorama]]
 
 ### Geistesblitz
 

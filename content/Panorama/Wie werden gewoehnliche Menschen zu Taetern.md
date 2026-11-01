@@ -2,8 +2,8 @@
 title: "Wie werden gewöhnliche Menschen zu Tätern?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-13
-description: "Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt."
+aktualisiert: 2026-11-01
+description: "Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt."
 raetsel: "Einer reicht das Blatt weiter. Einer behält die Hände leer."
 panorama-art: wachsend
 tags:
@@ -150,6 +150,27 @@ Auch das kollektive Nein hat zwei Gesichter. Im März 1943 hielten Abgeordnete u
 
 ---
 
+## Wird man zum Täter gemacht?
+
+Die drei Fragen oben suchen den Täter im Augenblick der Tat: im Denken, in der Gruppe, im Nein, das ausblieb. Eine ältere Tradition sucht ihn früher, in der Kindheit. Theweleit las die Briefe der Freikorps-Männer und fand Männer, die in Kadettenanstalten durchgeprügelt worden waren; Fromm beschrieb den autoritären Charakter, der herrschen und sich unterwerfen will; Arno Gruen sah männliche Rechtsextreme die Pose strafender Väter übernehmen. Die Forschung gibt dieser Linie ein Stück recht. Wer als Kind aktenkundig misshandelt wurde, wurde später häufiger wegen Gewalt festgenommen, 18 gegen 14 Prozent ([Maxfield & Widom 1996, doi:10.1001/archpedi.1996.02170290056009](https://doi.org/10.1001/archpedi.1996.02170290056009)); Schläge als Erziehung schaden fast durchweg ([Gershoff & Grogan-Kaylor 2016, doi:10.1037/fam0000191](https://doi.org/10.1037/fam0000191), Meta-Analyse); harte Strafen in der Kindheit hängen mit späterem Autoritarismus zusammen, vermittelt über Wut ([Milburn, Niwa & Patterson 2014, doi:10.1111/pops.12061](https://doi.org/10.1111/pops.12061), Querschnitt).
+
+Aber die Mehrheit widerspricht. *„The majority of abused and neglected children do not become delinquent, criminal, or violent“* ([Widom 1989, doi:10.1126/science.2704995](https://doi.org/10.1126/science.2704995)); mehr als vier von fünf wurden nie wegen Gewalt festgenommen, und bis zum Alter von 50 hing die Festnahme stärker an der Hautfarbe als an der Misshandlung ([Widom et al. 2024, doi:10.1177/10775595241272040](https://doi.org/10.1177/10775595241272040)). Wie autoritär jemand wird, hängt im Längsschnitt eher an den Zielen, die Eltern vermitteln, als an ihrem Stil ([Duriez, Soenens & Vansteenkiste 2007, doi:10.1002/per.623](https://doi.org/10.1002/per.623)), und Gene, Elternhaus und eigene Umwelt wirken zusammen ([Kandler, Instinske & Bell 2025, doi:10.1007/s10519-025-10242-0](https://doi.org/10.1007/s10519-025-10242-0), Zwillingsstudie). Für den Weg in den gewaltbereiten Extremismus gibt es vor allem Lebensgeschichten, die denen gewöhnlicher Straftäter ähneln ([Simi, Sporer & Bubolz 2016, doi:10.1177/0022427815627312](https://doi.org/10.1177/0022427815627312)), und Querschnitte; die Längsschnitte, die es bräuchte, fehlen ([Pammi et al. 2026, doi:10.56296/aip00065](https://doi.org/10.56296/aip00065)). Unter ehemaligen Rechtsextremen sind schwere Kindheitsbelastungen häufig (→ [[Panorama/Wie kommt man aus der rechten Szene wieder heraus#Wie gerät man hinein?|Wie gerät man hinein?]]). Gewalt erhöht das Risiko; ein Schicksal ist sie nicht.
+
+**Die Stimmen**
+
+- **[[Andreas Kemper — Faschismen im 21. Jahrhundert#Machiavelli vom Gefolterten zum Fürstenberater|Andreas Kemper]]:** Faschisten werden durch Gewalt gemacht; Machiavelli schrieb nach der Folter das Handbuch für seine Folterer, Identifikation mit dem Aggressor.
+- **[[Erich Fromm — Psychoanalyse des Faschismus#Der autoritäre Charakter Sadismus und Masochismus|Erich Fromm]]:** Herrschen- und Sich-unterwerfen-Wollen sind zwei Seiten einer Charakterstruktur, die aus Ohnmacht entsteht.
+- **[[Philip Schlaffer — Kann man sich aendern#„Da lag keine braune Bananenschale“|Philip Schlaffer]]:** Aus eigenem Leben: der Hass auf den Vater, die Suche nach väterlichen Figuren in einer hypermännlichen Szene.
+- **[[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Hitlers Blick|Stephan Marks]]:** Beschämende Säuglingserziehung vor 1933 habe einen Hunger erzeugt, gesehen zu werden, den der Führer stillte.
+- **[[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Die Formung|Luc]]:** Formung bestimmt nicht, *was* einer glaubt, eher *wie hart*.
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#„Ich habe mir das gezielt rausgepickt“|Felix Benneckenstein]]:** Kindheit mit Lichterkette, Absturz über Clique und Kriminalität, „wo ich mich selbst hingebracht habe“ — die eigene Wahl gegen die bequeme Erklärung.
+- **[[Herfried Münkler — Muss es Kriege geben#Die Machiavelli-Verbindung (zu Kemper)|Herfried Münkler]]:** Machiavelli ist kein Fall von Trauma, sondern ein Realist der Macht; wer ihn pathologisiert, verfehlt ihn.
+
+> [!question] Die Reibung
+> Kemper und Fromm erklären den Täter aus der Gewalt, die er erlitt; Benneckenstein besteht darauf, dass er gewählt hat, und Widoms Daten geben ihm recht: Die meisten Geschlagenen schlagen nicht. *Erklärt die Kindheit den Täter — oder entlastet sie ihn, und nimmt damit auch dem Aussteiger die Tat, die sein Ausstieg ist?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | vertieft |
@@ -158,6 +179,7 @@ Auch das kollektive Nein hat zwei Gesichter. Im März 1943 hielten Abgeordnete u
 | 10.10.2026 | [[Harald Welzer — Toetungsarbeit#Nachbesprechung|Harald Welzer — Tötungsarbeit]] | Gedankenlos oder überzeugt: Römer 2013, Mann 2000, Knox, Neitzel 2013, Browning 2025, Westermann 2016, Leader Maynard 2014 · Welzer als Kernstimme in „Gehorsam, Gruppe oder Gelegenheit?“ |
 | 10.10.2026 | [[Bartunek — Tillschneider vor der Synagoge in Halle#Nachbesprechung|Bartunek — Tillschneider vor der Synagoge in Halle]] | Gedankenlos oder überzeugt, für Täter der Gegenwart: Corner & Gill 2015, Gill/Horgan/Deckert 2014, Schuurman 2017, Sarma 2022 (Meta-Analyse), Kupper/Cotti/Meloy 2023 (Hanau), Kupper u. a. 2022, Macklin 2019, Koehler 2019, Leygraf-Gutachten und Urteil OLG Naumburg · Tillschneider als Gegenstimme: wem die Diagnose „verwirrt“ nützt |
 | 13.10.2026 | [[Carlo Cipolla — Die fünf Gesetze der Dummheit#Nachbesprechung|Carlo Cipolla — Die fünf Gesetze der Dummheit]] | Gedankenlos oder überzeugt: Cipolla, Bonhoeffer, Arendt nebeneinander; Macht und Perspektivübernahme (Galinsky 2006), Macht als Zielverstärker (Guinote 2017), Bias Blind Spot (West 2012), intellektuelle Bescheidenheit (Leary 2017) |
+| 01.11.2026 | [[Andreas Kemper — Faschismen im 21. Jahrhundert#Nachbesprechung|Andreas Kemper — Faschismen im 21. Jahrhundert]] | Neue Frage „Wird man zum Täter gemacht?“: Widom 1989/2024, Maxfield & Widom 1996, Gershoff 2016, Milburn 2014, Duriez 2007, Kandler 2025, Simi 2016, Pammi 2026 · Kemper, Fromm, Schlaffer, Marks, Luc, Benneckenstein, Münkler als Gegenstimme |
 
 ---
 

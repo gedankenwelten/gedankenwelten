@@ -61,6 +61,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |
+| Warum Kinder arbeiten | [[Warum Kinder arbeiten]] | 5 + Fälle und Forschung |
 | Kaufkraft | [[Kaufkraft]] | 9 |
 | Rente | [[Rente]] | 8 |
 | Energie | [[Energie]] | 15 |

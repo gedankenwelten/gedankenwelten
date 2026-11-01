@@ -244,6 +244,12 @@ Ein Punkt zur Sorgfalt gehört dazu, ohne Vorwurf: Für *humanvoll* war zum Zeit
 
 ## Verbindungen
 
+### → [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
+Das Panorama stellt Lahore neben die Ziegeleien in Punjab und Sindh, wo Pakistans Kinderrechtskommission 2026 Kinder ab vier oder fünf Jahren an den Öfen fand, und neben Kinder in Minen, auf Kakaofeldern und in fremden Haushalten. Der Familienlohn, der nur mit den Kindern aufgeht, ist dort einer von mehreren Wegen in die Arbeit: Armut, Schock, Schulgeld, Schuld.
+
+### → [[WDR — Schmutzige Schokolade]]
+Ein anderer Vermittler, dieselbe Rechnung: An der Elfenbeinküste kaufen Bauern Kinder aus Burkina Faso und Benin, der Vater bekommt das Geld, das Kind nichts.
+
 ### → [[MONITOR — Fleischindustrie Menschen als Ware]]
 
 Derselbe Mechanismus in zwei Rechtsordnungen, und die Spiegelung ist das Aufschlussreiche. In Lahore ist die *peshgi* seit 1992 verboten und funktioniert trotzdem. In Niedersachsen ist die Vermittlungsgebühr von zehntausend Euro, für die eine Familie in Kerala ihr Gold verkauft, ausdrücklich legal. Pakistan hat das Gesetz und keine Durchsetzung, Deutschland hat die Durchsetzung und keine Lücke im Gesetz — beide Male ist der Schuldner die Sicherheit des Kredits. Das Paar widerlegt damit die bequemste Lesart dieser Reportage: Schuldknechtschaft ist eine Vertragsform, die überall dort entsteht, wo jemand ohne Alternative unterschreibt.

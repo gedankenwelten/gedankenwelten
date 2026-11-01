@@ -124,6 +124,9 @@ Das ist die eigentliche Botschaft des Films: Nicht einzelne „schwarze Schafe" 
 
 ## Verbindungen
 
+### → [[WDR — Schmutzige Schokolade]]
+Auch dort ein Vermittler, der Menschen über Grenzen bringt, und Abnehmer, die von nichts wissen wollen: Kinder aus Burkina Faso auf ivorischen Kakaofeldern, Konzerne, die nur schriftlich antworten. Die Verantwortung endet an der Stelle, an der ein Unterauftrag beginnt.
+
 ### → [[MONITOR — Minijobs als Armutsfalle]]
 
 Zwei MONITOR-Recherchen, ein Muster: Die Fleischindustrie-Reportage zeigt die globale Dimension dessen, was die Minijob-Recherche innerdeutsch belegt — *Arbeit als Ware statt als sittliche Leistung*. Dort der Minijobber, der trotz Arbeit in Altersarmut rutscht; hier der indische Arbeiter, der für 14,50 Euro die Stunde 10.000 Euro Schulden abstottert. Die Fleischindustrie ist der Extremfall, Minijobs sind die Normalisierung desselben Prinzips: Menschen als disponible Kostenfaktoren.

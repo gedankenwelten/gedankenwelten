@@ -13,7 +13,7 @@ tags:
   - rechtsextremismus
   - klassismus
   - ki
-  - year-2025
+  - year-2026
 aliases:
   - Kemper
   - Technofaschismus
@@ -22,7 +22,7 @@ aliases:
 
 # Andreas Kemper — Technofaschismus und die AfD
 
-Quelle: Interview mit Die Linke Gießen — Aschermittwoch 2025
+Quelle: Interview mit Die Linke Gießen — Aschermittwoch 2026 (veröffentlicht 23.02.2026)
 
 > [!info] Wer spricht?
 > **Andreas Kemper** ist Soziologe und Publizist, seit 2013 einer der profiliertesten Rechtsextremismus-Forscher Deutschlands (erstes Buch zur AfD überhaupt). Er kommt ursprünglich nicht aus der Rechtsextremismusforschung, sondern aus dem **Klassismus**-Diskurs — er gründete an der Uni Münster ein autonomes Referat für Arbeiterkinder. Diese Herkunft prägt seine Analysen grundlegend: Er sieht Rassismus und Klassismus als verschränkte Mechanismen. Kemper ist klar links-antifaschistisch verortet — das Interview ist eine *analytische Linken-Perspektive auf das rechte Spektrum*.
@@ -95,7 +95,7 @@ Kemper: Der Satz ist eine SA-Parole, bekannt in allen Kreisen, in denen Höcke s
 
 ## 4. Team Freiheit — die neue Gefahr
 
-Ex-AfDler (Frauke Petri, Joana Cotar, Markus Pretzell) und Ex-FDPler (Thomas Kemmerich) gründen **Team Freiheit** — Kemper nennt sie eine **„AFDP"**.
+Ex-AfDler (Frauke Petry, Joana Cotar, Marcus Pretzell) und Ex-FDPler (Thomas Kemmerich) gründen **Team Freiheit** — Kemper nennt sie eine **„AFDP"**.
 
 Kemmerich hatte sich als FDP-Ministerpräsident von Höcke wählen lassen.
 
