@@ -469,6 +469,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Sebastian-Puschner",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 2,
      "aufrufe": 2
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
      "leser": 1,
      "aufrufe": 1
     }

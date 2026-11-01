@@ -201,7 +201,8 @@ jede zweite Note und niemand liest ihn mehr), steht direkt **vor** dem Aufmacher
 Feld. So erscheint er auf der Website (eigene ruhige Gestalt `.hilfe`), im RAG und im öffentlichen MCP,
 der ihn an **jeden** Suchtreffer aus der Note hängt, auch an Abschnitte aus der Mitte.
 **Ton:** kein Alarm, keine Bevormundung, das Thema schlicht benennen. Nummern am 01.11.2026 an den Seiten
-geprüft; einmal im Jahr nachsehen. Kein `aktualisiert:`-Bump für das bloße Einsetzen.
+geprüft; einmal im Jahr nachsehen. Ändern sich Nummern, auch `HILFE_NUMMERN` im MCP-Server nachziehen
+(Pi, `~/services/gedankenwelten-mcp/server.py`; er baut den Hinweis aus Themensatz + dieser Konstante). Kein `aktualisiert:`-Bump für das bloße Einsetzen.
 
 ## Startseiten-Journal (gedankenwelten.org)
 

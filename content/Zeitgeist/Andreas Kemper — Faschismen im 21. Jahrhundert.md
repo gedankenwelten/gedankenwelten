@@ -20,6 +20,13 @@ aliases:
   - Kemper Faschismen 21
   - Kemper Paderborn
   - Faschismen 21 Jahrhundert
+stimme:
+  - wer: "Sebastian Haffner"
+    art: stimme
+    umfang: "Aufmacher, Abschnittsanfänge und Übergänge"
+    am: 2026-11-01
+    geliehen: "erzählen, wie es anfing, in kurzen Sätzen ohne Pathos, die Ironie trocken und leise"
+    warum: "Haffner erzählt von innen, wie gewöhnliche Leute hineinrutschten; das passt zu einer Note, die warnt, ohne zu alarmieren."
 ---
 
 # Andreas Kemper — Faschismen im 21. Jahrhundert
@@ -34,8 +41,17 @@ aliases:
 
 </details>
 
+<details><summary>✒️</summary>
+
+Aufmacher, Abschnittsanfänge und Übergänge: **Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: erzählen, wie es anfing, in kurzen Sätzen ohne Pathos, die Ironie trocken und leise. Haffner erzählt von innen, wie gewöhnliche Leute hineinrutschten; das passt zu einer Note, die warnt, ohne zu alarmieren.
+*Erzählstimme gewählt am 01.11.2026.*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Andreas Kemper, die Erzählstimme ist unsere.
+
+</details>
+
 > [!abstract] Worum es geht
-> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Von diesem Satz der Befreiten von Buchenwald aus beschreibt Andreas Kemper drei Faschismen, die heute drohen: den völkischen um Björn Höcke, einen klerikalen, getragen von einem eng verwandten katholischen Adel, und einen neuen, postfordistischen, in dem Tech-Milliardäre Staaten durch Plattformen, Privatstädte und KI ersetzen wollen. Dazwischen eine eigene kleine Faschismustheorie über Machiavelli: wie Gefolterte zu Beratern ihrer Folterer werden. Am Ende, in der Fragerunde, die Frage, was hilft, und Kempers Antwort mit Ernst Bloch: Hoffnung, wenn es am dunkelsten ist, und eigene Utopien.
+> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben. Es heißt nicht: Es wird ihn nicht geben. Von diesem Satz der Befreiten von Buchenwald geht Andreas Kemper aus, und er findet heute drei Faschismen, die sich untereinander schlecht vertragen: den völkischen um Björn Höcke, einen klerikalen, den ein eng verwandter katholischer Adel trägt, und einen neuen, postfordistischen, in dem Tech-Milliardäre den Staat durch Plattformen, Privatstädte und KI ersetzen wollen. Dazwischen steht eine kleine eigene Faschismustheorie, gewonnen an Machiavelli: wie ein Gefolterter zum Berater seiner Folterer wird. Am Ende fragt das Publikum, was hilft. Kemper antwortet mit Ernst Bloch: Hoffnung, gerade wenn es am dunkelsten ist, und Utopien, die man nicht den Rechten überlässt.
 
 Quelle: Vortrag [Andreas Kemper - Faschismen im 21. Jahrhundert (Voller Vortrag)](https://www.youtube.com/watch?v=ug4UAdnGH54) — Kultreff, studentische Initiative an der Universität Paderborn, Ende Oktober 2025 · rund 97 Minuten Vortrag, danach knapp eine halbe Stunde Fragen
 
@@ -63,7 +79,7 @@ Daraus folgt eine doppelte Pflicht zur Genauigkeit, und Kemper nennt sie beim Na
 
 [▶ 6:05](https://www.youtube.com/watch?v=ug4UAdnGH54&t=365)
 
-Kemper hat mehrere Faschismustheoretiker, die er schätzt und deren Theorien sich beißen. Für Höcke hat er sich an den Briten **Roger Griffin** gehalten, der Faschismus als Ideologie fasst, mit einem Wesensmerkmal: **palingenetischer Ultranationalismus**, „vier Fremdwörter in zwei Wörtern“.
+Kemper schätzt mehrere Faschismustheoretiker, und ihre Theorien vertragen sich nicht. Für Höcke hat er sich an den Briten **Roger Griffin** gehalten, der Faschismus als Ideologie fasst, mit einem Wesensmerkmal: **palingenetischer Ultranationalismus**, „vier Fremdwörter in zwei Wörtern“.
 
 - *Palingenetisch* (von der Wiedergeburt): Das Volk ist nicht, was es eigentlich sein soll, und muss durch eine mythische Revolution, einen Umsturz, wieder dazu werden.
 - *Ultranationalismus*: ein Nationalismus, der das Volk biologisch überhöht. Kempers Beispiel ist Höckes Satz, das Preußentum sei ein ewiger Wert, noch in dreitausend Jahren, *„wenn irgendwo Raumschiffe rumfliegen, wird's immer noch ein Raumschiff geben, was Bismarck heißt“*.
@@ -80,13 +96,13 @@ Daneben steht **Klaus Theweleit**, für den Faschismus eher eine Körperhaltung 
 
 [▶ 17:36](https://www.youtube.com/watch?v=ug4UAdnGH54&t=1056)
 
-Den wichtigsten Baustein seiner eigenen Theorie findet Kemper bei Niccolò Machiavelli, und er erzählt ihn wie eine Fallgeschichte. Machiavelli war Republikaner, Beamter in Florenz, er arbeitete für die freien Städte gegen die Aristokratie. Dann kamen die Medici zurück, einer von ihnen stellte zu der Zeit den Papst. Machiavelli wurde eingekerkert und mehrfach gefoltert, er erlebte, wie Bekannte aus der Stadtverwaltung zu Tode gefoltert wurden, und rechnete mit dem eigenen Tod. Er kam frei und schrieb in kürzester Zeit *Il Principe*, ein Handbuch für Fürsten, wie man das Volk besser unterwirft, gewidmet den Medici, also seinen Folterern. Nach den Briefen, sagt Kemper, schrieb er es mit Händen, die von der Folter noch verkrüppelt waren.
+Den wichtigsten Baustein seiner eigenen Theorie holt Kemper sich bei einem Mann, den man als Lehrmeister der Macht kennt, nicht als ihr Opfer: Niccolò Machiavelli. Er erzählt ihn wie eine Fallgeschichte. Machiavelli war Republikaner, Beamter in Florenz, er arbeitete für die freien Städte gegen die Aristokratie. Dann kamen die Medici zurück, einer von ihnen stellte zu der Zeit den Papst. Machiavelli wurde eingekerkert und mehrfach gefoltert, er erlebte, wie Bekannte aus der Stadtverwaltung zu Tode gefoltert wurden, und rechnete mit dem eigenen Tod. Er kam frei und schrieb in kürzester Zeit *Il Principe*, ein Handbuch für Fürsten, wie man das Volk besser unterwirft, gewidmet den Medici, also seinen Folterern. Nach den Briefen, sagt Kemper, schrieb er es mit Händen, die von der Folter noch verkrüppelt waren.
 
 Kemper liest das psychoanalytisch, als **Identifikation mit dem Aggressor**: Wer existenzielle Ohnmacht erlebt, auch die Ohnmacht dem eigenen Körper gegenüber, und sie nicht aushält, kommt wieder ins Leben, indem er an die größte Macht andockt, die er kennt, den Peiniger. Die Bewegung, die Theweleit bei den Freikorps-Männern beschreibt, ist dieselbe: Sie wurden geprügelt und prügelten weiter. Und der Schweizer Psychoanalytiker **Arno Gruen** beobachtet bei männlichen Rechtsextremen, dass sie sich weniger mit ihren Vätern identifizieren als mit der *Pose* autoritärer Väterfiguren.
 
 Der Schlüsselbegriff des *Principe* ist **Virtù**: Energie, Macht, Wirkmächtigkeit, darin steckt das lateinische *vir*, der Mann. Ein *uomo virtuoso*, ein neuer Machthaber, kann mit seiner Virtù Staaten erobern; Völker mit wenig Virtù steigen ab, junge Völker mit viel Virtù werden Weltreiche. Kein Wunder, sagt Kemper, dass das Büchlein bei Faschisten so beliebt ist; Mussolini sei schon ein Verehrer gewesen, bevor er den Faschismus gründete *(sein Machiavelli-Essay erschien 1924, nach der Gründung → [[#Faktencheck|Faktencheck]])*.
 
-Dann zieht er eine Linie, die über Machiavelli hinausführt. Von *virtus* kommt *virtuell*, so wie von *potentia* das *Potenzielle*: das, was nicht wirklich ist, sondern möglich. Die Virtù der Faschisten erzeugt ihre eigene Scheinwelt. Indem sie Gewalt anwenden, ziehen sie neue Faschisten heran, für die wieder die Virtù zählt, eine virtuelle Welt, in der die Gewalt sich selbst fortpflanzt. *„Das wäre so meine Faschismustheorie.“* Und die Scheinwelten, die heute Computer erzeugen, werden am Ende des Vortrags wiederkommen.
+Dann zieht er eine Linie, die über Machiavelli hinausführt. Von *virtus* kommt *virtuell*, so wie von *potentia* das *Potenzielle*: das, was nicht wirklich ist, sondern möglich. Die Virtù der Faschisten erzeugt ihre eigene Scheinwelt. Indem sie Gewalt anwenden, ziehen sie neue Faschisten heran, für die wieder die Virtù zählt, eine virtuelle Welt, in der die Gewalt sich selbst fortpflanzt. *„Das wäre so meine Faschismustheorie.“* Den Scheinwelten, die heute Computer erzeugen, begegnet man am Ende des Vortrags wieder.
 
 > [!question] Weitergedacht
 > Wenn Faschisten durch Gewalt gemacht werden — *was heißt das für den Umgang mit ihnen: Härte, die wieder Härte erzeugt, oder etwas, das den Kreis unterbricht?* Und wo bleibt in dieser Erklärung die Verantwortung dessen, der das Prügeln weitergibt?
@@ -97,7 +113,7 @@ Dann zieht er eine Linie, die über Machiavelli hinausführt. Von *virtus* kommt
 
 [▶ 26:45](https://www.youtube.com/watch?v=ug4UAdnGH54&t=1605)
 
-2013, bei Vorträgen in Ostdeutschland, hörte Kemper von Leuten aus Erfurt von einem neuen AfD-Mann in Thüringen, der gerade den Landesvorsitzenden abgelöst habe: sehr radikal, aber Lehrer, er könne seine Positionen besser verpacken als andere, darum gefährlich. Das war Björn Höcke. Kemper prüfte, ob das, was Höcke sagte, noch konservativ war, und brauchte dafür die Faschismustheorie.
+2013, bei Vorträgen in Ostdeutschland, hörte Kemper von Leuten aus Erfurt von einem neuen AfD-Mann in Thüringen, der gerade den Landesvorsitzenden abgelöst habe: sehr radikal, aber Lehrer, er könne seine Positionen besser verpacken als andere, darum gefährlich. Das war Björn Höcke. Kemper wollte wissen, ob das, was Höcke sagte, noch konservativ war. Dafür brauchte er die Faschismustheorie, und damit begann die Recherche, mit der er bekannt wurde.
 
 ### Die Spur „Landolf Ladig“
 
@@ -134,7 +150,7 @@ Später im Vortrag kommt Kemper darauf zurück. 2017 habe Frauke Petry, damals P
 
 [▶ 43:36](https://www.youtube.com/watch?v=ug4UAdnGH54&t=2616)
 
-Der völkische Faschismus schaut zurück, und rückwärtsgewandt ist auch der zweite. Kemper sieht ihn in den USA wieder Anlauf nehmen, bei JD Vance und beim „Kriegsminister“ Pete Hegseth; auch das Mullah-Regime in Iran oder ein Russland mit neuem Zaren und orthodoxer Kirche könnten in diese Richtung gehen. Sein Vorbild ist der **Austrofaschismus** (1933–1938), katholisch, ständisch, gegen die Demokratie und zugleich mit den Nazis verfeindet; Nationalsozialisten wurden dort festgenommen. 1938, mit dem Einmarsch, war er zu Ende, und einige seiner Ideologen mussten fliehen.
+Auch der zweite Faschismus schaut zurück, nur weiter, bis zu einer katholischen, ständischen Ordnung, in der jeder an seinem Platz bleibt. Kemper sieht ihn in den USA wieder Anlauf nehmen, bei JD Vance und beim „Kriegsminister“ Pete Hegseth; auch das Mullah-Regime in Iran oder ein Russland mit neuem Zaren und orthodoxer Kirche könnten in diese Richtung gehen. Sein Vorbild ist der **Austrofaschismus** (1933–1938), katholisch, ständisch, gegen die Demokratie und zugleich mit den Nazis verfeindet; Nationalsozialisten wurden dort festgenommen. 1938, mit dem Einmarsch, war er zu Ende, und einige seiner Ideologen mussten fliehen.
 
 ### Vier Familien
 
@@ -200,7 +216,7 @@ Das Bindeglied ist der Libertarismus. Der deutsche Vordenker **Hans-Hermann Hopp
 
 [▶ 88:05](https://www.youtube.com/watch?v=ug4UAdnGH54&t=5285)
 
-Hier wird die Prognose konkret. Telegram hat eine eigene Währung (Toncoin), bald Grok als KI und eine Milliarde Nutzer. Der Investor Balaji Srinivasan, Autor von *The Network State*, sehe darin einen neuen Staat im Entstehen, mit Durow als Führer. Kempers Vergleich ist der **Malteserorden**: eigene Währung, eigene Autokennzeichen, Botschafter in aller Welt, ein Staat ohne Land, den man nicht angreifen kann, weil er zu keinem Land gehört. Als Durow in Frankreich vor Gericht kam, schlug sich das Team Freiheit auf seine Seite: Das Internet dürfe nicht reguliert werden.
+Telegram hat eine eigene Währung (Toncoin), bald Grok als KI und eine Milliarde Nutzer. Der Investor Balaji Srinivasan, Autor von *The Network State*, sehe darin einen neuen Staat im Entstehen, mit Durow als Führer. Kempers Vergleich ist der **Malteserorden**: eigene Währung, eigene Autokennzeichen, Botschafter in aller Welt, ein Staat ohne Land, den man nicht angreifen kann, weil er zu keinem Land gehört. Als Durow in Frankreich vor Gericht kam, schlug sich das Team Freiheit auf seine Seite: Das Internet dürfe nicht reguliert werden.
 
 Daraus, sagt Kemper, könnte ein neuer Faschismus wachsen. Privatstädte mit eigener Regierung, Polizei, Gesetzen und Steuern gibt es schon in Honduras, geplant werden sie in Afrika und Asien, Trump hat „Freedom Cities“ angekündigt. Und dann der Gedanke, der ihn am meisten beunruhigt. Beim Potsdamer Treffen, nach dem Millionen gegen rechts auf die Straße gingen, habe Martin Sellner beschrieben, wie man auch Deutsche mit Migrationshintergrund „remigrieren“ könne: in deutsche Millionenstädte in Nordafrika, die Migranten selbst bauen. Ähnlich funktioniere schon, dass die USA Migranten ins Großgefängnis CECOT in El Salvador schicken; Erik Prince, Gründer von Blackwater, würde das System gern ausbauen und teilprivatisieren. Und Titus Gebel und Christian Kälin planten „Flüchtlingsstädte“ am Rand der Zonen, die in zwanzig Jahren unbewohnbar sein werden, entpolitisiert und in privater Hand.
 
@@ -208,7 +224,7 @@ Daraus, sagt Kemper, könnte ein neuer Faschismus wachsen. Privatstädte mit eig
 
 [▶ 95:47](https://www.youtube.com/watch?v=ug4UAdnGH54&t=5747)
 
-Ob man ihn Techno- oder Digitalfaschismus nennt, ist für Kemper eine Frage des Namens. Er erklärt ihn über die Kapitalform. Bis in die 80er, 90er Jahre war der Kapitalismus fordistisch, geprägt vom Fließband, von Massenproduktion, fossiler Energie. Der heutige ist flexibilisiert, individualisiert, ausgelagert, global. Die Faschismen, die wir kannten, waren fordistische; ein neuer wäre ein postfordistischer. Weil er am fossilen Denken hängt, wäre er auch eine Form von Klimafaschismus, mit Cara Daggetts Begriff der *Petromaskulinität*: einer fossilen Männlichkeit, die nicht loslassen will. Und so schließt sich der Kreis zu Höckes Bürgerkrieg um die letzte Energie.
+Ob man ihn Techno- oder Digitalfaschismus nennt, ist für Kemper eine Frage des Namens. Er erklärt ihn über die Kapitalform. Bis in die 80er, 90er Jahre war der Kapitalismus fordistisch, geprägt vom Fließband, von Massenproduktion, fossiler Energie. Der heutige ist flexibilisiert, individualisiert, ausgelagert, global. Die Faschismen, die wir kannten, waren fordistische; ein neuer wäre ein postfordistischer. Weil er am fossilen Denken hängt, wäre er auch eine Form von Klimafaschismus, mit Cara Daggetts Begriff der *Petromaskulinität*: einer fossilen Männlichkeit, die nicht loslassen will. Damit ist Kemper wieder bei Ladigs Text über das knappe Öl und bei dem nationalen Aufstand, den dieser Text erwartet.
 
 > [!question] Weitergedacht
 > Kempers dritter Faschismus braucht keine Massen, keine Uniformen, keinen Marsch. *Woran würden wir ihn erkennen, wenn er kommt — und ist ein Faschismus ohne Massenbewegung noch einer, oder brauchen wir dafür ein neues Wort?*
