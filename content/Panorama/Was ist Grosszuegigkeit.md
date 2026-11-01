@@ -2,7 +2,7 @@
 title: "Was ist Großzügigkeit?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-10-31
+aktualisiert: 2026-11-01
 description: "Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Den Rand des Feldes mähte keiner. Verschenkt hat ihn auch keiner."
@@ -84,6 +84,8 @@ Die alte Sorge, ein starker Sozialstaat verdränge die Hilfsbereitschaft der Bü
 
 Leichter verdrängt der Markt. Richard Titmuss warnte 1970 in *The Gift Relationship*, Bezahlung könne Blutspender vertreiben. Im schwedischen Feldexperiment halbierte eine Zahlung von 50 Kronen fast die Bereitschaft von Frauen, Blut zu spenden, bei Männern änderte sich nichts; durfte man das Geld weiterspenden, verschwand der Effekt ([Mellström & Johannesson 2008, doi:10.1162/jeea.2008.6.4.845](https://doi.org/10.1162/jeea.2008.6.4.845)). Sachprämien dagegen erhöhten in Feldstudien die Spenden ohne erkennbare Verdrängung ([Lacetera, Macis & Slonim 2013, doi:10.1126/science.1232280](https://doi.org/10.1126/science.1232280)). Schon 20 Monate alte Kinder helfen weniger, wenn man sie fürs Helfen belohnt ([Warneken & Tomasello 2008, doi:10.1037/a0013860](https://doi.org/10.1037/a0013860)).
 
+Am Plasma lässt sich prüfen, was aus Titmuss' Warnung geworden ist. 2020 kamen zwei Drittel des weltweit gesammelten Plasmas aus Nordamerika, fast alles aus bezahlten Spenden in den USA; Europa verbraucht ein Viertel der Immunglobuline der Welt und sammelt 14 % ([Domanović et al. 2023, doi:10.1111/vox.13491](https://doi.org/10.1111/vox.13491), Tagungsbericht mit Marktdaten). Die EU schreibt seit 2024 die „freiwillige und unentgeltliche“ Spende fest und erlaubt zugleich eine Entschädigung, die „finanziell neutral“ sein soll ([Verordnung 2024/1938](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401938), Art. 54). Deutschland, wo auch das Rote Kreuz für Plasma eine Aufwandsentschädigung zahlt, sammelte 2023 über 38 % des Fraktionierungsplasmas im Europarat ([PEI](https://www.pei.de/SharedDocs/Downloads/DE/regulation/meldung/21-tfg/21-tfg-berichte/2024-tfg-21-bericht.pdf?__blob=publicationFile&v=7)). Eine Meta-Analyse über sieben Studien fand, dass Anreize die Bereitschaft zu spenden im Mittel nicht verändern, weder nach oben noch nach unten ([Niza, Tung & Marteau 2013, doi:10.1037/a0032740](https://doi.org/10.1037/a0032740)). Die harte Lesart von Titmuss trägt also nicht überall; geblieben ist die Frage, wessen Not das bezahlte Plasma deckt (→ [[Jacob Beautemps — Made in Germany Awards 2026 Medizin#Plasma geschenkt oder bezahlt?|Made in Germany Awards — Medizin, Nachbesprechung]]).
+
 Welzers ungedeckter Vorschuss lässt sich messen. Im Vertrauensspiel gibt einer Geld weiter, ohne zu wissen, ob etwas zurückkommt; über 162 Durchgänge mit mehr als 23.000 Teilnehmenden geben die meisten einen Vorschuss ([Johnson & Mislin 2011, doi:10.1016/j.joep.2011.05.007](https://doi.org/10.1016/j.joep.2011.05.007), Meta-Analyse). Er braucht aber einen Wächter. In Experimenten zu öffentlichen Gütern trägt etwa die Hälfte bei, wenn die anderen es auch tun, rund ein Drittel fährt Trittbrett ([Fischbacher, Gächter & Fehr 2001, doi:10.1016/S0165-1765(01)00394-9](https://doi.org/10.1016/S0165-1765%2801%2900394-9)). Die Kooperation zerfällt, bis Strafen möglich werden, dann hält sie ([Fehr & Gächter 2002, doi:10.1038/415137a](https://doi.org/10.1038/415137a)). Ricard spricht im Bestand von drei Vierteln, die mitmachen würden; in dieser Messung ist es eher die Hälfte. Das ist die Strenge in den Systemen, die El-Mafaalani verlangt.
 
 **Die Stimmen**
@@ -97,7 +99,7 @@ Welzers ungedeckter Vorschuss lässt sich messen. Im Vertrauensspiel gibt einer 
 - **[[Carsten Brosda — Naechste Demokratie#Concordia mit dem Hobel|Carsten Brosda]]:** Die Großherzigkeit sitzt seit 1338 unter den Tugenden guten Regierens; heute heißt sie progressive Steuer und Sozialstaat, dazu die Zurückhaltung, ein Recht nicht bis zum Letzten auszureizen.
 - **[[Vertrauen und das aufgeloeste Opfer#Vom naiven zum bewussten Vertrauen|Luc]]:** „Der Vorschuss ist keine Nettigkeit und kein Heiligenschein. Er ist eine Art zu sehen.“ Wer Menschen erst einmal sein lässt, wie sie sind, bekommt ihr wahres Gesicht zu sehen, das Misstrauen nur Fassaden.
 
-<details><summary>Weitere Stimmen (9)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
 
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Die Engherzigkeit steht in der Verfassung|Wolfgang M. Schmitt]]:** Schuldenregeln in der Verfassung sind eine Politik der Engherzigkeit, geschrieben von denen, die dem Wähler nicht trauen; Großzügigkeit und Demokratisierung gehören zusammen.
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Vertrauensvorschuss in der vermessenen Gesellschaft|Barbara Bleisch]]**, in der vermessenen Gesellschaft: Den Vorschuss, der der Meier zutraut, dass sie es gebacken kriegt, hat die Bonitätsprüfung abgelöst.
@@ -107,6 +109,7 @@ Welzers ungedeckter Vorschuss lässt sich messen. Im Vertrauensspiel gibt einer 
 - **[[Raul Krauthausen — Teilgabe statt Teilhabe#Ist das nicht großzügig? Der Einwand und die Quote|Aladin El-Mafaalani]]** (im Gespräch mit Raúl Krauthausen): Wer ohne Gesetz Menschen mit Behinderung auf die Bühne holt, ist erst einmal großzügig; so entstehen Normen, erst freiwillig, dann erwartet, dann Regel. Krauthausen setzt die Quote dagegen.
 - **[[Semsrott — Zur Gegenmacht#Praktische Solidarität statt Charity — Sanktionsfrei und der Freiheitsfonds|Arne Semsrott]]:** Praktische Solidarität statt Charity; Sanktionsfrei und der Freiheitsfonds begegnen Menschen als Subjekten mit politischen Ansichten, nicht als Objekten von Mitleid.
 - **[[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da#Geld ist ein Vertrag — kann es großzügig sein?|Philippa Sigl-Glöckner]]:** Großzügig wäre Geld, das dem Gegenüber Spielraum lässt, wie die freie Budgethilfe an eine Regierung, aber „es ist halt am Ende doch ein Vertrag“.
+- **[[Jacob Beautemps — Made in Germany Awards 2026 Medizin#LifeShare Antikörper aus einer Spende|Anja Moldenhauer]]:** Antikörper sollen nicht mehr anonym in einen Pool aus Tausenden Spenden fließen, sondern als Direktspende von Verwandten, Freunden oder Genesenen an einen bestimmten Kranken gehen, das Gegenmodell zu Titmuss' Gabe an den Fremden. Blutdienste halten gerichtete Spenden aus Sicherheitsgründen meist für die schlechtere Wahl.
 - **[[Vipassana — Metta#Kein Hotel|S.N. Goenka]]:** Seine Kurse kosten nichts, gegeben wird erst am Ende und für die, die nach einem kommen; wer für Kost und Logis zahlt, „als ob Sie in ein Hotel kommen“, bringt das Ego mit. Eine Einrichtung, die ganz auf der Gabe ruht und den Markt mit Absicht draußen hält, wie Titmuss es für das Blut verlangte.
 
 </details>
@@ -202,9 +205,10 @@ Zu viel kann es auch für die Gruppe werden: Wo Kooperierende Trittbrettfahrer n
 | 08.10.2026 | [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit#Nachbesprechung|Simone Weil — Aufmerksamkeit, die seltenste Großzügigkeit]] | Wann wird Großzügigkeit zu viel: Aristoteles NE IV,1, unmitigated communion (Le et al. 2018), umgekehrtes U, Empathie vs. Mitgefühl, Oakley, Wolfs Moral Saints |
 | 08.10.2026 | [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#Nachbesprechung|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]] | Kann eine Gesellschaft großzügig sein: Urmson, Feinberg, universeller vs. bedarfsgeprüfter Sozialstaat (Kumlin & Rothstein, Mewes), Crowding-out (van Oorschot & Arts, Mellström & Johannesson) |
 | 13.10.2026 | [[Carlo Cipolla — Die fünf Gesetze der Dummheit#Nachbesprechung|Carlo Cipolla — Die fünf Gesetze der Dummheit]] | Wann wird Großzügigkeit zu viel: Cipollas Hilfloser, altruistische Bestrafung (Fehr & Gächter 2002), Trittbrettfahrer (Kerr 1983), Tagebuchstudie Helfen (Lanaj 2016), Berufung als Selbstausbeutung (Bunderson & Thompson 2009), Empathie und Burnout (Wilkinson 2017) |
+| 30.10.2026 | [[Barbara Prainsack — Solidaritaet NEU DENKEN#Nachbesprechung|Barbara Prainsack — Solidarität NEU DENKEN]] | Muss man sich Großzügigkeit leisten können: gefühlte statt objektiver Benachteiligung (Callan 2016), Knappheit in beide Richtungen (Civai 2024), Ehrenamt im Wohlfahrtsstaat (Ackermann 2023, Stadelmann-Steffen 2010), finnisches Grundeinkommen (de Andrade 2021), World Giving Index 2024 |
+| 01.11.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Medizin#Nachbesprechung|Jacob Beautemps — Made in Germany Awards 2026 Medizin]] | Kann eine Gesellschaft großzügig sein: Plasma aus bezahlten US-Spenden (Domanović 2023), Deutschland als Europas Quelle (PEI), Aufwandsentschädigung und SoHO-Verordnung, Anreiz-Meta-Analyse (Niza 2013), gerichtete Spende (Jacquot 2017) |
 
 ---
-| 30.10.2026 | [[Barbara Prainsack — Solidaritaet NEU DENKEN#Nachbesprechung|Barbara Prainsack — Solidarität NEU DENKEN]] | Muss man sich Großzügigkeit leisten können: gefühlte statt objektiver Benachteiligung (Callan 2016), Knappheit in beide Richtungen (Civai 2024), Ehrenamt im Wohlfahrtsstaat (Ackermann 2023, Stadelmann-Steffen 2010), finnisches Grundeinkommen (de Andrade 2021), World Giving Index 2024 |
 
 ## Verbindungen
 

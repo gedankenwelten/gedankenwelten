@@ -246,6 +246,10 @@ Neun Erfindungen, zwei Jahre: drei sind getragen, vier im Werden, eine offen, ei
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Das Aber der Kartusche Genauigkeit, Zulassung, Wärme|Made in Germany Awards 2026 — Medizin]]
+
+Zwei Jahre später steht wieder ein Schnelltest im Finale, diesmal bei Beautemps' eigenem Preis. Die stromlose Kartusche von Intu trifft auf denselben langen Zulassungsweg, an dem Nostics noch steht.
+
 ### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben#Seltene Erden gegen Chips|Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
 
 Weigelin-Schwiedrzik erzählt, wie die Abhängigkeit von Seltenen Erden entstand, als westliche Wahl („wie wunderbar, wir können da seltene Erden kaufen“), und dass Japan nach dem Lieferstopp von 2010 rund zehn Jahre brauchte, um sich teilweise zu lösen. Sagawas Magnet ist dieselbe Geschichte von der anderen Seite: eine japanische Erfindung, deren Fertigung zu 94 Prozent nach China wanderte. Ihr Rat an die Jungen, Materialien zu entwickeln, die die Seltenen Erden ersetzen, wäre die nächste Erfindung für diese Bühne.

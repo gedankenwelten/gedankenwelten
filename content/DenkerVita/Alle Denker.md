@@ -600,6 +600,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## S
 
+**[[DenkerVita/Dagmar Simonsen|Dagmar Simonsen]]** — Seelsorgerin, Leiterin der Ökumenischen TelefonSeelsorge Vorpommern (Greifswald) seit 2016; Seelsorge als Würdigen des Gewordenseins, Zuhören statt Ratschlag („jeder Ratschlag ist auch ein Schlag“), mitfühlen, aber nicht mitleiden
+
 **[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Germanistin und Historikerin, Memorial-Mitgründerin; hält mit Oral History und Schülerwettbewerb die Erinnerung an den Stalinismus gegen Putins Geschichtspolitik, seit 2022 aus dem Exil
 
 **[[DenkerVita/Christine Schliesser|Christine Schliesser]]** — Theologie/Ethik, Zürcher Bonhoeffer-Forscherin („Wer verantwortlich handelt, wird schuldig“), die nach dem Genozid in Ruanda fragt, wie Versöhnung wächst

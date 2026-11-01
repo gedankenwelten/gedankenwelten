@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 889,
-   "aufrufe": 1061
+   "leser": 890,
+   "aufrufe": 1062
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -24,13 +24,13 @@
    "aufrufe": 59
   },
   {
-   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 47,
+   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+   "leser": 48,
    "aufrufe": 55
   },
   {
-   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 47,
+   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+   "leser": 46,
    "aufrufe": 54
   },
   {
@@ -310,13 +310,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 32,
-     "aufrufe": 39
+     "leser": 33,
+     "aufrufe": 40
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 17,
-     "aufrufe": 20
+     "leser": 18,
+     "aufrufe": 21
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -445,11 +445,6 @@
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 2,
      "aufrufe": 2
     },
@@ -589,6 +584,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 1,
      "aufrufe": 1
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 889,
-     "aufrufe": 1061
+     "leser": 890,
+     "aufrufe": 1062
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -634,13 +634,13 @@
      "aufrufe": 59
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 47,
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "leser": 48,
      "aufrufe": 55
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 47,
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 46,
      "aufrufe": 54
     },
     {
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 957,
-     "aufrufe": 1152
+     "leser": 958,
+     "aufrufe": 1153
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -945,8 +945,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 55,
-     "aufrufe": 62
+     "leser": 56,
+     "aufrufe": 63
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 957,
-     "aufrufe": 1152
+     "leser": 958,
+     "aufrufe": 1153
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1250,8 +1250,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 55,
-     "aufrufe": 62
+     "leser": 56,
+     "aufrufe": 63
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 42,
-     "aufrufe": 42
+     "leser": 43,
+     "aufrufe": 43
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 30,
-     "aufrufe": 30
+     "leser": 29,
+     "aufrufe": 29
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",

@@ -172,6 +172,10 @@ Ob diese Zahl realistisch ist, hängt davon ab, ob das erste Exemplar hält, was
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Das Tal des Todes|Made in Germany Awards 2026 — Medizin]]
+
+In der Medizin ist dasselbe Tal breiter, und ein Teil davon ist Absicht: Klinische Prüfung und Zulassung schützen Patienten, und die Gründerinnen selbst halten den langen Weg für richtig.
+
 ### → [[Panorama/Demokratische Wertschoepfung]]
 Das Klettwitz-Modell — 80 €/Einwohner/Jahr aus Windparkgewinnen, kein Eigenkapital, keine Mitgliedschaft — ist ein neues Muster demokratischer Teilhabe an Infrastruktur. Wer direkt profitiert, kämpft nicht dagegen: Interessengleichrichtung statt Überzeugungsarbeit.
 

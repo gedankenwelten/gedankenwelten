@@ -282,6 +282,10 @@ Synhelions Rohstoff führt in denselben Streit, denn Biomethan wollen viele. Das
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin]]
+
+Teil 2 der Reihe. Was hier die Moleküle sind, ist dort das Plasma: ein knapper Stoff, den man nicht elektrifizieren und nicht beliebig vermehren kann. Und das Tal zwischen Labor und Markt, das hier Skalierung und China heißt, ist in der Medizin noch breiter, weil der Beweis erst am Menschen kommt.
+
 ### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar#Der Satz, an dem alles hängt|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
 
 Herrmann rechnet synthetisches Kerosin aus Saharastrom Stufe für Stufe durch: Entsalzung, Elektrolyse, CO₂ aus der Luft, Synthese. Am Ende steht ein Vielfaches des fossilen Preises, und widerlegen ließe sich das nur, wenn jemand vorrechnet, dass die ganze Kette billiger wird. Synhelions 80 Cent sind ein solcher Versuch und gelingen zum Teil über eine Abkürzung: Die Elektrolyse fällt weg, die Hälfte der Energie bringt das Biogas mit. Die Rechnung umgeht Herrmanns Kette eher, als dass sie sie widerlegt.

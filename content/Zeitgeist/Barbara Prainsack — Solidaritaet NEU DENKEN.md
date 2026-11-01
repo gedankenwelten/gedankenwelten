@@ -258,6 +258,10 @@ Im Bestand stehen die drei Lesarten nebeneinander. Philip Manow hält die Konkur
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Das Aber der Direktspende|Made in Germany Awards 2026 — Medizin]]
+
+Was eine geschlossene Solidarität in der Medizin heißt, zeigt LifeShare: Die Antikörperspende geht an einen bestimmten Kranken statt in den Pool. Prainsacks drei Bedingungen, unter denen geschlossene Solidarität giftig wird, sind der Prüfstein für die Frage, wer dann leer ausgeht.
+
 ### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]]
 
 Dieselbe Reihe, dieselbe Gastgeberin, und die Koautorin des Solidaritätsbegriffs. Über die Pandemie urteilen beide verschieden: Buyx findet zwei Drittel bis drei Viertel durchgehend solidarisch und macht den Scheinwerfer verantwortlich, der nur auf die Ränder fiel; Prainsack sieht die offene Solidarität in eine schließende kippen. Zusammen gelesen beschreiben sie dieselbe Bühne von zwei Seiten: oben die Schaumkronendebatte darüber, wer hinein darf, darunter die Mehrheit, die einfach half.

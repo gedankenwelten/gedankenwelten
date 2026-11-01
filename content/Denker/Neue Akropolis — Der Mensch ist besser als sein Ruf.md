@@ -226,6 +226,10 @@ Konkrete Schritte:
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Plasma geschenkt oder bezahlt|Made in Germany Awards 2026 — Medizin, Nachbesprechung]]
+
+Für das Blutspende-Beispiel gibt es eine empirische Gegenstimme: Eine Meta-Analyse findet im Mittel keine Verdrängung durch Geld, und Deutschlands entschädigte Plasmaspende trägt einen großen Teil des europäischen Bedarfs.
+
 ### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
 
 Dieselbe Grundthese — Kooperation als Erfolgsgeschichte der Evolution —, aber van Schaik und Michel schichten sie in drei Naturen und stellen die dunkle Kehrseite dazu: die Zivilisation als „Sündenfall". Wo diese Note den Menschen bejaht, differenziert van Schaik: nicht der Mensch ist gut, sondern seine *erste* Natur.

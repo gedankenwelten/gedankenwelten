@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+>
+> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
+
 > **01.11.** — [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
 >
 > „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg.
 
-> **30.10.** — [[Zeitgeist/Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet|Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]]
->
-> Am 9. Mai feiert Moskau den Sieg und verschweigt die Jahre davor. Konstantin Flemig erzählt von Rapallo bis Katyn, wie Hitler und Stalin zusammenarbeiteten und Polen gemeinsam zerschlugen.
-
-> → *22 weitere in* [[Zeitgeist]]
+> → *23 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -108,13 +108,13 @@ Die Gedankenwelten (luc)
 >
 > Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
 
+> **01.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+>
+> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
+
 > **01.11.** — [[Panorama/Was mit 17 geschah|Was mit 17 geschah]]
 >
 > Mit 17 weiß niemand, wohin er geht. Ein Torwart wird krank, einer bleibt sitzen, einer schämt sich für seine Naivität: Weggabelungen aus der Jugend von Menschen, die ihren Weg erst später fanden.
-
-> **01.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
 > → *13 weitere in* [[Panorama]]
 

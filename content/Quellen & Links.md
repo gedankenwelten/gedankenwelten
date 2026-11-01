@@ -5390,6 +5390,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Energie]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MadeInGermanyEnergie_Transkript.txt` |
 
+## Jacob Beautemps / Made in Germany Awards — Kategorie Medizin (Breaking Lab)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Nasenspray gegen Demenz: Wie nah ist dieser deutsche Durchbruch wirklich?](https://www.youtube.com/watch?v=Wnqq9NnTo2s) (Breaking Lab, 29.10.2026) |
+| **Quellenliste** | [45 Belege der Redaktion](https://docs.google.com/document/d/19U98DJ6vGKeCOQZYN3JLhg00oHPKKeR5v2izIXvC0-E/edit?usp=sharing) |
+| **Projekte** | CogniSia ([Varbanov et al. 2023](https://doi.org/10.1016/j.nbd.2023.106079)) · [Intu Diagnostics](https://www.intudiagnostics.com/) · [LifeShare](https://www.startup4med.hhu.de/ueber-startup4med/gruendungsprojekte/lifeshare) ([Rothenburg et al. 2024](https://doi.org/10.1111/vox.13647)) |
+| **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Medizin]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MIGA_Medizin_Wnqq9NnTo2s_Transkript.txt` |
+
 ## Jacob Beautemps / European Inventor Award 2024 (Malta)
 
 | | |

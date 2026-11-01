@@ -1279,3 +1279,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Maria Kalesnikava
 **Status:** ✓ Vollanalyse → [[DenkerVita/Maria Kalesnikava]]
+
+## Dagmar Simonsen
+**Status:** ✓ Vollanalyse — [[DenkerVita/Dagmar Simonsen]]

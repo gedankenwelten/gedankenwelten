@@ -32,7 +32,7 @@ stimme:
 
 **Künstlerhand:** Odilon Redon (symbolistische Pastelle, das Leuchten aus dem Dunkel)
 
-**Warum:** Im Kern der Note steht das Vergessen und die Hoffnung, dass etwas Kleines den Weg zurück ins Gedächtnis findet. Redon malte Köpfe, die halb in der Dunkelheit verschwinden, und Blüten, die aus dem Nichts leuchten; seine Hand ist zärtlich und schwermütig zugleich und behauptet nichts. Das Bild zeigt ein altes Gesicht mit geschlossenen Augen, in dessen Nase Samen aus Licht ziehen, das Nasenspray. Rechts glimmt ein kleines Fläschchen, und ein rotes Band fließt hinaus und wieder zurück wie das Blut bei der Antikörperspende. Viel Dunkel bleibt stehen: Der Weg zum Menschen ist noch lang.
+**Warum:** Die Note handelt vom Vergessen und die Hoffnung, dass etwas Kleines den Weg zurück ins Gedächtnis findet. Redon malte Köpfe, die halb in der Dunkelheit verschwinden, und Blüten, die aus dem Nichts leuchten; seine Hand ist zärtlich und schwermütig zugleich und behauptet nichts. Das Bild zeigt ein altes Gesicht mit geschlossenen Augen, in dessen Nase Samen aus Licht ziehen, das Nasenspray. Rechts glimmt ein kleines Fläschchen, und ein rotes Band fließt hinaus und wieder zurück wie das Blut bei der Antikörperspende. Viel Dunkel bleibt stehen: Der Weg zum Menschen ist noch lang.
 
 **Prompt:** *Late symbolist pastel by Odilon Redon, hazy and unfinished like his noirs turning into colour — the faint, ageless profile of an old person's head, barely more than a soft silhouette with closed eyes, half dissolving into a dark velvety ground of black, indigo and violet. Inside the head a gentle glow, and drifting into it through the nose a stream of tiny luminous seeds and pale petals, like spores of light finding their way home. Far to the right, in the darkness, a tiny glass vial glimmers and a thin ribbon of warm vermilion loops out and flows back again. Grainy pastel texture, smudged edges, Redon's glowing ochre, turquoise, rose and gold, dreamlike, tender, melancholic and hopeful at once, lots of dark negative space, wide cinematic composition. Not a portrait of a beautiful woman, no jewellery, no pearls. Absolutely no text, no letters, no signature, no monogram, unsigned canvas.* (Zweiter Versuch; der erste geriet zum Schmuckporträt.)
 
@@ -194,12 +194,141 @@ Das Video gibt darauf eine Antwort, die man leicht überhört. Bei allen drei ka
 
 ---
 
+## Nachbesprechung
+
+*Zwei Fragen, die das Video berührt und offen lässt: woher das Plasma kommt, um das LifeShare so sparsam wirtschaften will, und warum ein Mittel gegen das Vergessen so selten den Weg von der Maus zum Menschen schafft.*
+
+### Plasma: geschenkt oder bezahlt?
+
+Moldenhauer spricht von Knappheit, 130 Spenden für einen einzigen Kranken im Jahr, ein Bedarf, der schneller wächst als das Plasma. Es ist vor allem eine europäische Knappheit. 2020 kamen zwei Drittel des weltweit gesammelten Plasmas aus Nordamerika, fast alles aus den USA, wo Spender bezahlt werden, oft mehrmals in der Woche. Europa verbraucht ein Viertel der Immunglobuline der Welt und sammelt 14 Prozent des Plasmas; gut ein Drittel seines Bedarfs deckt es von außerhalb ([Domanović et al. 2023](https://doi.org/10.1111/vox.13491), Tagungsbericht mit Marktdaten). Kanada deckte 2022 nur 15 Prozent seines Immunglobulin-Bedarfs aus eigenem Plasma.
+
+Innerhalb Europas ist Deutschland die Quelle. 2023 stammten über 38 Prozent des Fraktionierungsplasmas aller Staaten des Europarats von hier ([Paul-Ehrlich-Institut, Bericht 2024](https://www.pei.de/SharedDocs/Downloads/DE/regulation/meldung/21-tfg/21-tfg-berichte/2024-tfg-21-bericht.pdf?__blob=publicationFile&v=7), Abschnitt 4.8). Das hat mit Geld zu tun. Das Transfusionsgesetz sagt, die Spende *„soll unentgeltlich erfolgen“*, erlaubt aber eine Aufwandsentschädigung ([§ 10 TFG](https://www.gesetze-im-internet.de/tfg/__10.html)). Der private Spendedienst Haema zahlt 25 Euro je Plasmaspende ([Haema](https://www.haema.de/plasmaspende/)), und auch das Rote Kreuz zahlt für Plasma eine Entschädigung samt Treuebonus ([DRK](https://plasmaspende.blutspende.de/informationen/aufwandsentschaedigung)). Europaweit entschädigen nur 7 von 26 untersuchten Ländern finanziell, mit umgerechnet 10 bis 35 Euro, und wo nur eine Organisation sammeln darf, wird meist nicht gezahlt ([Koch et al. 2024](https://doi.org/10.1111/vox.13644), systematische Übersicht). Die EU hat den Streit 2024 als Kompromiss festgeschrieben: Die Spende soll „voluntary and unpaid“ sein, eine Entschädigung ist erlaubt, wenn sie „finanziell neutral“ bleibt, und in der Werbung darf sie nicht vorkommen ([Verordnung (EU) 2024/1938](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401938), Art. 54; gilt ab August 2027).
+
+Dahinter steht die alte Frage von Richard Titmuss, ob Geld die Gabe verdirbt. Die Forschung ist weniger eindeutig als die Warnung. Eine Meta-Analyse über sieben Studien mit gut 93.000 Teilnehmenden fand, dass Anreize die Bereitschaft zu spenden im Mittel nicht verändern, weder nach oben noch nach unten; zur Sicherheit des Blutes reichen die Daten nicht ([Niza, Tung & Marteau 2013](https://doi.org/10.1037/a0032740), Meta-Analyse). Einen begutachteten Befund speziell zu Plasma gibt es nicht. Und das Geld hat eine zweite Seite, die in Europa selten erzählt wird: In den USA ist die Plasmaspende für viele ein Einkommen der Armut; ein noch nicht begutachtetes Arbeitspapier findet, dass dort, wo ein Plasmazentrum öffnet, die Eigentums- und Drogenkriminalität sinkt ([Kang, McConnell & Zapryanova 2025](https://brendonmcconnell.github.io/pdf/plasma.pdf)). Europas Immunglobuline ruhen zu einem guten Teil auf dieser Not.
+
+LifeShare setzt einen dritten Weg dagegen, der älter ist als beide: die Gabe an einen Menschen, den man kennt. Blutdienste lehnen solche gerichteten Spenden fast überall ab, und zwar mit Gründen. Wer zum ersten Mal und unter Druck für einen Angehörigen spendet, verschweigt eher ein Risiko; in einem US-Kinderzentrum waren Eltern, die erstmals für ihr Kind spendeten, mehr als doppelt so oft positiv auf Infektionsmarker wie andere Erstspender, Freunde dagegen am seltensten ([Jacquot et al. 2017](https://doi.org/10.1111/trf.14312), retrospektive Einzelstudie; Übersicht bei [Wadge et al. 2021](https://doi.org/10.31486/toj.20.0068)). Manche Gefahren entfallen beim zellfreien Konzentrat, etwa die Abstoßungsreaktion durch Blutzellen von Verwandten. Ob die Konzentrate virusinaktiviert werden wie die Poolprodukte, sagen weder das Video noch die Studie. Und es bleibt eine Frage, die keine Studie beantwortet: Ist die anonyme Gabe die großzügigere, weil sie niemanden verpflichtet, oder die kältere, weil sie niemanden meint?
+
+→ Weiter im Panorama: **[[Was ist Grosszuegigkeit#Kann eine Gesellschaft großzügig sein?|Kann eine Gesellschaft großzügig sein?]]**, mit Titmuss, dem schwedischen Blutspende-Experiment, Barbara Prainsack und Goenkas Kursen, die nur auf der Gabe ruhen.
+
+### Warum scheitern Alzheimer-Mittel so oft?
+
+Die Jury wandte ein, viele Projekte auf dem Signalweg von CogniSia hätten wissenschaftlich überzeugt und den Markt nie erreicht. Die Zahl dahinter ist eine der härtesten der Medizin. Von 2002 bis 2012 wurden über 400 Alzheimer-Studien registriert, und nur 0,4 Prozent der getesteten Wirkstoffe kamen durch; 99,6 Prozent scheiterten ([Cummings, Morstorf & Zhong 2014](https://doi.org/10.1186/alzrt269), Registeranalyse). Seither sind neue Ansätze dazugekommen und viele davon ebenso gescheitert, manche, obwohl sie ihr Ziel im Körper nachweislich trafen. Die jüngste Lektion kam im November 2025: Semaglutid, der Wirkstoff der Abnehmspritzen, verbesserte bei 3.808 Menschen mit früher Alzheimer-Krankheit einzelne Biomarker, bremste den klinischen Verlauf aber nicht ([Cummings et al. 2026, *Lancet*](https://doi.org/10.1016/s0140-6736(26)00459-9), zwei Phase-3-Studien).
+
+Ein Teil der Erklärung liegt in den Mäusen, auf die auch CogniSia seine Hoffnung stützt. Die gängigen „Alzheimer-Mäuse“ tragen menschliche Gene der seltenen erblichen Form und bilden Plaques, aber nicht das ganze Bild der Krankheit; Erfolge an ihnen wurden zu früh auf den Menschen übertragen ([Drummond & Wisniewski 2017](https://doi.org/10.1007/s00401-016-1662-x), Review). Die meisten Modelle zeigen eher die frühe Phase ohne Symptome. Was dort gelingt, spricht für Vorbeugung, kaum für Behandlung; ein Review trägt den Titel *Too much good news* ([Zahs & Ashe 2010](https://doi.org/10.1016/j.tins.2010.05.004)). CogniSias Daten passen in dieses Muster: Das Verhalten der Mäuse wurde besser, die Marker für Struktur und Alterung blieben gleich. Das muss kein Einwand gegen ein Mittel sein, das ausdrücklich nur Symptome lindern will. Es zeigt aber, wo der Beweis noch fehlt.
+
+Auf der Glutamat-Linie selbst ist das Feld schmal. Troriluzol, das die Aufnahme von Glutamat fördern soll, verfehlte 2021 in einer Studie bei leichter bis mittlerer Alzheimer-Krankheit beide Hauptziele (Herstellerangabe, [NeurologyLive](https://www.neurologylive.com/view/troriluzole-not-effective-alzheimer)). Und Memantin, der Maßstab für Thieslers Selektivitätsanspruch, wirkt bei leichter Alzheimer-Demenz nicht; in drei Studien mit 431 leicht Erkrankten fand sich bei keinem Endpunkt ein Unterschied, bei mittelschwerer nur ein „magerer“ Effekt ([Schneider et al. 2011](https://doi.org/10.1001/archneurol.2011.69), Meta-Analyse). Wenn CogniSia selektiver ist, müsste es sich gerade dort beweisen, wo Memantin versagt.
+
+Was haben die Amyloid-Antikörper geändert? Zum ersten Mal beeinflusst ein Mittel den Verlauf messbar. Unter Lecanemab verschlechterte sich der Wert auf einer 18-Punkte-Skala in 18 Monaten um 1,21 statt 1,66 Punkte, rund ein Viertel weniger ([van Dyck et al. 2023](https://doi.org/10.1056/NEJMoa2212948), RCT mit 1.795 Teilnehmenden). Meta-Analysen über alle Antikörper urteilen kühler: Kein Unterschied erreiche die Schwelle dessen, was Betroffene im Alltag bemerken ([Ebell et al. 2024](https://doi.org/10.1370/afm.3050)), der Effekt auf die Kognition sei „trivial“ ([Cochrane 2026](https://doi.org/10.1002/14651858.cd016297)). Beide poolen allerdings die gescheiterten älteren Antikörper mit den wirksameren neuen; für Lecanemab und Donanemab einzeln spricht das Studienergebnis. Die Optimisten haben auch recht: Die Pipeline wächst, 2026 sind es 158 Wirkstoffe in 192 Studien, ein gutes Drittel davon umgewidmete Medikamente, fast jedes fünfte soll die Kognition stützen wie CogniSia ([Cummings et al. 2026](https://doi.org/10.1002/trc2.70251), jährliche Registeranalyse). Dass die Erfolgsquote gestiegen ist, belegen diese Berichte nicht.
+
+Manfred Spitzer hält eine andere Rechnung dagegen: Die besten Medikamente brächten wenige Monate, eine zweite Sprache verschiebe den Beginn einer Demenz um Jahre (→ [[Manfred Spitzer — Hirnforscher Feldbach#5. Demenz und der Bergsteigereffekt|Spitzer, Bergsteigereffekt]]). Die Zahlen sind seine, der Gedanke trägt: Solange die Pille so selten den Weg zum Menschen findet, ist die geistige Reserve, die man sich ein Leben lang anlegt, das am besten belegte Mittel, das wir haben. Und Barbara Schmitz und Giovanni Maio erinnern daran, dass die Frage, was bei Demenz als Erfolg zählt, keine pharmakologische ist (→ [[Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke#3. Das Autonomiemythos-Problem|Schmitz und Maio, Autonomiemythos]]).
+
+*Ein Panorama zu dieser Frage gibt es noch nicht; sie steht als offener Fall im Nachbesprechungs-Register.*
+
+---
+
+## Faktencheck
+
+> [!warning] Vereinfacht — LifeShare: acht Spender, noch kein Empfänger
+> Das Verfahren ist publiziert, und das Team nennt es selbst Immunadsorption. Die Machbarkeitsstudie umfasste 10 Spenden von 8 Spendern (5 Männer, 3 Frauen): Adsorbersäulen gegen menschliche Antikörper, danach Tangentialflussfiltration. Das Konzentrat lag **innerhalb von 8 Stunden** ab Spendebeginn vor. Gesamt-IgG war 4,6-fach, SARS-CoV-2-spezifisches IgG 3,9-fach höher als im Blut der Spender, und die Neutralisation stieg in allen Konzentraten bis auf eines. „Beim Menschen“ heißt bisher aber nur: beim Spender. **Einen Patienten hat noch kein Konzentrat erreicht.** Die Studie schließt mit: *„Whether these concentrates can be used as passive immunisation in infected patients remains to be elucidated.“* Im Video geht dieser Unterschied unter. Einzelstudie, begutachtet.
+> Quelle: [Rothenburg et al. 2024, *Vox Sanguinis*](https://doi.org/10.1111/vox.13647) · [Rothenburg et al. 2021, Fallbericht](https://doi.org/10.1016/j.transci.2021.103193) · [Startup4MED HHU, Projektseite LifeShare](https://www.startup4med.hhu.de/ueber-startup4med/gruendungsprojekte/lifeshare)
+
+> [!success] Bestätigt — CogniSia: Mechanismus, Tierdaten, Team
+> PolySia dämpft extrasynaptische NMDA-Rezeptoren, und kurze Ketten, über die Nase gegeben, retten im Tier Lernen und Gedächtnis. Die im Video gezeigte Veröffentlichung ist eine begutachtete Einzelstudie an Mäusen ([Varbanov et al. 2023, *Neurobiology of Disease*](https://doi.org/10.1016/j.nbd.2023.106079)). Entfernt man PolySia, steigen die Ströme über GluN2B-haltige Rezeptoren außerhalb der Synapse, und die Plastizität bricht ein. Kurze Fragmente durch die Nase stellten die Leistung bei PolySia-defizienten Mäusen und in zwei Alzheimer-Modellen wieder her. Das Team kommt aus der MHH (Klinische Biochemie, Thiesler) und vom DZNE Magdeburg (Dityatev). Der post-mortem-Befund ist eigens belegt: In Gehirnen Verstorbener mit Alzheimer ist PSA-NCAM im entorhinalen Kortex vermindert, regional und nicht im ganzen Gehirn ([Murray et al. 2016](https://doi.org/10.1016/j.neuroscience.2016.06.003)). 2024 sprachen Thiesler und Dityatev noch davon, den Verfall zu *verlangsamen*; im Video sagt Thiesler bescheidener „Symptome lindern“.
+> Quelle: [Varbanov et al. 2023](https://doi.org/10.1016/j.nbd.2023.106079) · [Wissen hoch N: Demenz – neuer Wirkstoff gegen das Vergessen](https://www.wissenhochn.de/themen/auswahl-und-uebersicht/einzelansicht/demenz-neuer-wirkstoff-gegen-das-vergessen)
+
+> [!warning] Vereinfacht — „genauso gut wie junge Tiere“: ein Preprint mit sechs Mäusen
+> Die eingeblendete Grafik „Frroku et al., 2025“ stammt aus einem **Preprint**, bis heute nicht in einer Zeitschrift erschienen ([bioRxiv](https://doi.org/10.1101/2025.03.13.643031)). Im Barnes-Labyrinth standen sechs behandelte gegen vier unbehandelte sehr alte Mäuse (29 Monate), behandelt wurde fünf Tage lang. In einzelnen Messgrößen kehrte die Leistung auf das Niveau junger Tiere zurück; Marker für Nervenzellstruktur, Alterung und Entzündung änderten sich nicht, was zur symptomatischen Lesart der Jury passt. Dass Peptide über die Nase beim Menschen das Hirnwasser erreichen, ist gezeigt ([Born et al. 2002](https://doi.org/10.1038/nn0602-849)); ein Nutzen folgt daraus nicht: Insulin per Nasenspray brachte in einer randomisierten Studie bei MCI und Alzheimer nach zwölf Monaten keinen kognitiven Vorteil ([Craft et al. 2020](https://doi.org/10.1001/jamaneurol.2020.1840)). „Keine Nebenwirkungen“ stützt sich auf eine kleine eigene Toxstudie und ist nicht unabhängig prüfbar.
+> Quelle: [Frroku et al. 2025 (Volltext)](https://www.biorxiv.org/content/10.1101/2025.03.13.643031v1.full)
+
+> [!warning] Vereinfacht — „sehr viel selektiver“ als bestehende Mittel
+> Mit dem Argument, gezielt extrasynaptische Rezeptoren zu treffen, wird schon Memantin erklärt: In der Zellkultur blockiert es extrasynaptische NMDA-Ströme etwa doppelt so stark wie synaptische ([Xia et al. 2010](https://doi.org/10.1523/jneurosci.2488-10.2010), Einzelstudie). PolySia wirkt laut Varbanov 2023 bevorzugt an Rezeptoren mit der Untereinheit GluN2B, eine andere, womöglich feinere Selektivität. Ein direkter Vergleich mit Memantin fehlt. Die Hypothese dahinter: [Hardingham & Bading 2010](https://doi.org/10.1038/nrn2911) (Review).
+> Quelle: [Xia et al. 2010](https://doi.org/10.1523/jneurosci.2488-10.2010)
+
+> [!warning] Vereinfacht — „Demenz, für die es immer noch keine Therapie gibt“
+> Heilen kann man Demenz nicht. Zugelassene Therapien gibt es aber: Memantin ist seit Mai 2002 EU-weit für mittelschwere bis schwere Alzheimer-Demenz zugelassen und lindert Symptome, dazu die Cholinesterasehemmer. Lecanemab (Leqembi, seit 15. April 2025) und Donanemab (Kisunla, seit 24. September 2025) sind für die frühe Alzheimer-Krankheit zugelassen; laut EMA verlangsamen sie den Abbau, mit häufigen Hirnschwellungen und Mikroblutungen (ARIA) als Nebenwirkung. Drei Minuten später spricht Beautemps selbst von *„bisherigen therapeutischen Ansätzen“*, *„die oft nicht richtig wirken und Nebenwirkung mit sich bringen“* [▶ 3:03](https://www.youtube.com/watch?v=Wnqq9NnTo2s&t=183); das trifft es genauer.
+> Quelle: [EMA, Ebixa](https://www.ema.europa.eu/en/medicines/human/EPAR/ebixa) · [EMA, Axura](https://www.ema.europa.eu/en/medicines/human/EPAR/axura) · [EMA, Leqembi](https://www.ema.europa.eu/en/medicines/human/EPAR/leqembi) · [EMA, Kisunla](https://www.ema.europa.eu/en/medicines/human/EPAR/kisunla)
+
+> [!success] Bestätigt, mit Nachtrag — Genesenen-Antikörper bei Ebola und Corona (unsere Ergänzung)
+> In Guinea erhielten 2015 Ebola-Kranke Genesenenplasma; die Studie war nicht randomisiert, die Sterblichkeit lag bei 31 % gegenüber 38 % bei früheren Patienten, bereinigt kein signifikanter Vorteil, der Antikörpergehalt war unbekannt ([van Griensven et al. 2016](https://doi.org/10.1056/nejmoa1511812)). Bei Corona fand RECOVERY mit 11.558 Krankenhauspatienten auch mit hochtitrigem Plasma keinen Nutzen, 24 % Sterblichkeit in beiden Gruppen ([RECOVERY 2021](https://doi.org/10.1016/s0140-6736(21)00897-7)); Cochrane hält mit hoher Sicherheit fest, dass Plasma bei mittelschwerem bis schwerem Verlauf die Sterblichkeit nicht senkt ([Iannizzi et al. 2023](https://doi.org/10.1002/14651858.cd013600.pub6)). Konzentrierte Genesenen-Antikörper halfen Krankenhauspatienten ebenfalls nicht ([ITAC 2022](https://doi.org/10.1016/s0140-6736(22)00101-5), RCT). **Früh und hochtitrig gegeben half es aber:** bei leicht erkrankten Älteren innerhalb von 72 Stunden halbierte es das Risiko eines schweren Verlaufs ([Libster et al. 2021](https://doi.org/10.1056/nejmoa2033700), RCT), ambulant innerhalb von neun Tagen senkte es die Krankenhausaufnahmen ([Sullivan et al. 2022](https://doi.org/10.1056/nejmoa2119657), RCT). Gegen Zaire-Ebola senkten starke monoklonale Antikörper die Sterblichkeit ([PALM 2019](https://doi.org/10.1056/nejmoa1910993)). Antikörper können wirken, wenn genug davon früh genug ankommt.
+> Quelle: siehe DOIs im Callout
+
+> [!success] Bestätigt — „mit der neuen Ebola-Variante stirbt jeder Zweite … keine Lösung“
+> Gemeint ist der Ausbruch der Bundibugyo-Virus-Krankheit in der DR Kongo, erklärt am 15. Mai 2026, seit 17. Mai eine Notlage von internationaler Tragweite. Bis zum 20. Oktober meldet die WHO 9.704 bestätigte Fälle und 4.687 Tote, eine rohe Sterblichkeit von 48,3 %; Kenia und Nigeria haben eingeschleppte Fälle. *„No approved vaccines or specific treatments currently exist for BVD“*; ob Ervebo schützt, ist unbekannt, am 23. Oktober begann eine Impfstoffstudie. Genau genommen ist Bundibugyo keine neue Variante, sondern eine eigene, seit 2007 bekannte Ebolavirus-Art. Ob LifeShare hier helfen könnte, ist offen: Die Spender müssten erst genesen sein, und Daten gibt es keine.
+> Quelle: [WHO, Disease Outbreak News 2026-DON622 (23.10.2026)](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622) · [WHO, DON616](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616)
+
+> [!warning] Vereinfacht — „ein selbst durchführbarer molekularer Heimtest still doesn't exist on the market“
+> Für HPV stimmt das: Der Teal Wand (FDA, 9. Mai 2025) ist nur ein Abstrichset, untersucht wird im Labor. Für molekulare Heimtests allgemein stimmt es nicht: Der Lucira COVID-19 & Flu Home Test (FDA-Notfallzulassung 24. Februar 2023) weist Virus-Erbgut ganz zu Hause nach, und der Visby Medical Women's Sexual Health Test (FDA, 28. März 2025) ist ein PCR-Heimtest auf Chlamydien, Gonorrhoe und Trichomonaden, Ergebnis nach etwa 30 Minuten. Beide brauchen aber ein Gerät mit Strom; der Unterschied, den Intu beansprucht, bleibt.
+> Quelle: [FDA, Visby](https://www.fda.gov/news-events/press-announcements/fda-grants-marketing-authorization-first-home-test-chlamydia-gonorrhea-and-trichomoniasis) · [FDA, Lucira](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-home-test-detect-both-influenza-and-covid-19-viruses) · [CLP Magazine, Teal Wand](https://clpmag.com/disease-states/cancer/cervical-hpv/at-home-self-collection-device-for-cervical-cancer-screening-gets-fda-approval/)
+
+> [!warning] Nicht unabhängig prüfbar — Intu Diagnostics: ohne Strom, unter 20 Minuten, zehnmal billiger
+> Die Firma gibt es (Intu Diagnostics GmbH, Leipzig, gegründet März 2023, aus dem Fraunhofer IZI hervorgegangen), ebenso das Projekt MIRA zur HPV-Früherkennung ohne Strom und Labor. Die Geräte-Eigenschaften kommen nur von der Firma; Genauigkeitsdaten sind nicht veröffentlicht. Die Zeitangabe schwankt: im Video unter 20 Minuten, in der Finanzierungsmeldung vom Juni 2026 „30 minutes“. Verbrauchertests sind ab 2027 geplant. Die 80–190 € für einen Selbstzahler-PCR-Test sind Coronatest-Preise samt ärztlicher Leistung (DAK); Arbaciauskaite verglich mit den Materialkosten einer Labor-PCR, der Abstand wirkt im Video also größer, als er ist.
+> Quelle: [Intu Diagnostics, About us](https://www.intudiagnostics.com/about-us) · [Intu, Technology](https://www.intudiagnostics.com/technology) · [FemTech Insider, Finanzierungsrunde](https://femtechinsider.com/intu-diagnostics-raises-e1-1m-for-lab-free-electricity-free-hpv-test/) · [DAK, Kosten Selbstzahler-Test](https://www.dak.de/dak/ihr-anliegen/corona/wie-teuer-ist-ein-test-wenn-ich-ihn-selbst-bezahlen-muss-_35524)
+
+> [!success] Bestätigt — Plasma: 130 Spenden pro Immundefekt-Patient und Jahr, 7–12 Monate, Bedarf +8 %
+> Die rund 130 Spenden pro Jahr nennen Industrie- und Patientenverbände gemeinsam, die 7 bis 12 Monate von der Spende bis zum Arzneimittel die Gelbe Liste, die 8 % pro Jahr die LifeShare-Projektseite. Dazu passt der Bericht des Paul-Ehrlich-Instituts, wie die Verbände ihn zitieren: Der Verbrauch an Immunglobulinen stieg 2013–2023 um 120 %, die in Deutschland gesammelte Plasmamenge nur um 4 %. Es sind Branchenangaben, sie decken sich aber über mehrere Absender.
+> Quelle: [DSAI u.a., Positionspapier Plasma (07.05.2025)](https://www.dsai.de/fileadmin/user_files/verschiedenes/20250507_Gemeinsame_Pressemitteilung_Positionspapier_Plasma.pdf) · [Gelbe Liste, Engpass Blutplasmaprodukte](https://www.gelbe-liste.de/apotheke/blutplasmaprodukte-engpass-massnahmen)
+
+> [!warning] Vereinfacht — „In der Coronapandemie starben schätzungsweise 22 Millionen“
+> Die Größenordnung stimmt, eine Primärquelle mit genau dieser Zahl gibt es nicht. Die WHO schätzt 14,83 Millionen Übersterblichkeit für 2020–2021 ([Msemburi et al. 2023](https://doi.org/10.1038/s41586-022-05522-2)), das IHME 18,2 Millionen für denselben Zeitraum ([Wang et al. 2022](https://doi.org/10.1016/s0140-6736(21)02796-3)); Schätzungen für die ganze Pandemie liegen höher.
+> Quelle: [Msemburi et al. 2023](https://doi.org/10.1038/s41586-022-05522-2)
+
+> [!warning] Vereinfacht — Pflege und Demenz: die Zahlen hinter Doc Felix und dem Video
+> Über fünf Millionen Pflegebedürftige stimmt, Destatis zählt 5,7 Millionen Ende 2023; ein Teil des Anstiegs kommt vom weiter gefassten Pflegebegriff seit 2017. Die *„über 340.000 Patienten gleichzeitig“* entsprechen rechnerisch der durchschnittlichen Belegung der deutschen **Krankenhäuser** (2024: 124,6 Millionen Belegungstage ÷ 366 ≈ 340.600) — alle Kranken, nicht die Pflegebedürftigen und nicht die Demenzkranken, auch wenn der Satz so klingt. Rund 1,8 Millionen Demenzkranke und ein Alzheimer-Anteil von 60–70 % sind belegt. Die „knapp 450.000“ Neuerkrankungen sind die Obergrenze der Spanne 364.000–445.000 für 2023; das neue Infoblatt der Deutschen Alzheimer Gesellschaft (Oktober 2026) schätzt rund 357.000 ab 65. „Jeder Siebte“ bei 80–84 stammt aus Daten von 2021; nach den neuen Raten sind es 11–13 %, eher jeder Achte.
+> Quelle: [Destatis, Pflege](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Pflege/_inhalt.html) · [Destatis Genesis 23111-0001](https://www-genesis.destatis.de/datenbank/online/statistic/23111/table/23111-0001) · [DAlzG, Infoblatt 1](https://www.deutsche-alzheimer.de/fileadmin/Alz/pdf/factsheets/infoblatt1_haeufigkeit_demenzerkrankungen_dalzg.pdf) · [DZNE, Faktenzentrale](https://www.dzne.de/aktuelles/hintergrund/faktenzentrale/)
+
+---
+
 ## Weiterführende Quellen
 
 *Aus der Video-Beschreibung:*
 
-- [Quellenliste der Redaktion](https://docs.google.com/document/d/19U98DJ6vGKeCOQZYN3JLhg00oHPKKeR5v2izIXvC0-E/edit?usp=sharing) — 45 Quellen, darunter die Veröffentlichung des CogniSia-Teams, die Firmenseite von Intu Diagnostics und die Projektseite von LifeShare
+- [Quellenliste der Redaktion](https://docs.google.com/document/d/19U98DJ6vGKeCOQZYN3JLhg00oHPKKeR5v2izIXvC0-E/edit?usp=sharing) — 45 Quellen, darunter die begutachtete Studie des CogniSia-Teams (Varbanov 2023), die Firmenseite von Intu Diagnostics und die Projektseite von LifeShare
 - [Abstimmung Kategorie Medizin](https://www.madeingermanyawards.de/voting/medizin/) — bis 12. November 2026, 23:59 Uhr
+
+*Forschung zu den drei Erfindungen (geprüft von Sherlock):*
+
+- [Varbanov et al. 2023, *Neurobiology of Disease*](https://doi.org/10.1016/j.nbd.2023.106079) — die im Video gezeigte, begutachtete Studie des CogniSia-Teams (MHH, DZNE Magdeburg)
+- [Frroku et al. 2025, bioRxiv](https://doi.org/10.1101/2025.03.13.643031) — die Grafik aus dem Video: sehr alte Mäuse im Barnes-Labyrinth, Preprint
+- [Hardingham & Bading 2010, *Nature Reviews Neuroscience*](https://doi.org/10.1038/nrn2911) — Review zur Hypothese „synaptisch schützt, extrasynaptisch schadet“
+- [Rothenburg et al. 2024, *Vox Sanguinis*](https://doi.org/10.1111/vox.13647) — die LifeShare-Studie: Immunadsorption, 10 Spenden von 8 Spendern
+- [Intu Diagnostics, About us](https://www.intudiagnostics.com/about-us) — Herkunft aus dem Fraunhofer IZI, Projekt MIRA
+- [WHO, Disease Outbreak News Bundibugyo (23.10.2026)](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622) — der Ebola-Ausbruch, auf den Moldenhauer anspielt
+
+---
+
+## Verbindungen
+
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
+
+Teil 1 der Reihe, mit denselben Regeln und demselben Aber der Jury. Dort ist der knappe Stoff das Molekül, das sich nicht elektrifizieren lässt, hier das Plasma, das sich nicht beliebig vermehren lässt. Und das Tal zwischen Labor und Markt heißt dort Skalierung und China, hier Studie und Zulassung.
+
+### → [[Barbara Prainsack — Solidaritaet NEU DENKEN#Offen und geschlossen wann Solidarität giftig wird|Barbara Prainsack — Solidarität NEU DENKEN]]
+
+Die Direktspende von LifeShare ist, was Prainsack eine geschlossene Solidarität nennt: Man gibt dem Menschen, den man kennt, nicht dem Pool. Sie verteidigt solche Formen und nennt drei Bedingungen, unter denen sie giftig werden: wenn Ausgeschlossene den Zugang zur Gesundheit verlieren, die Kriterien nicht beeinflussen können und die Grenze zum „wir gegen euch“ wird. Ein Kranker ohne genesene Angehörige erfüllt die ersten beiden. Das ist der Prüfstein für die Frage, wer bei der gerichteten Spende leer ausgeht.
+
+### → [[Neue Akropolis — Der Mensch ist besser als sein Ruf#Der Korrumpierungseffekt|Neue Akropolis — Der Korrumpierungseffekt]]
+
+Dort steht die harte Lesart von Titmuss: Bezahlt man Blutspender, werden es weniger. Die Nachbesprechung hält eine Meta-Analyse dagegen, nach der Anreize die Spendebereitschaft im Mittel nicht verändern, und den Befund, dass Deutschland mit Aufwandsentschädigung über 38 Prozent des Plasmas im Europarat sammelt. Der Widerspruch trifft das Blutspende-Beispiel, nicht den Korrumpierungseffekt im Ganzen.
+
+### → [[Jacob Beautemps — European Inventor Award 2024#Was seither geschah|European Inventor Award 2024]]
+
+Zwei Jahre vor Intu versprach dort ein anderes Taschenlabor, Nostics, Minuten statt Tage. Die Bilanz fand keine Zulassung und keine klinische Studie, und der Publikumsliebling Saule scheiterte als Firma. Man sieht vorab, was Arbaciauskaite mit „very long time“ meint, und hat einen Fall aus der Wirklichkeit für die Frage, wonach das Publikum wählen sollte.
+
+### → [[Norio — GICON Hoehenwindturm revolutioniert Windkraft#Das Valley of Death Deutschlands Innovationsproblem|Norio — GICON und das Valley of Death]]
+
+Großmann beschreibt das Tal des Todes als deutsches Strukturproblem: fehlendes Risikokapital, hundert Seiten Anträge, SPRIND als Gegenmodell. In der Medizin ist ein Teil desselben Tals Absicht. Klinische Prüfung und die strenge Risikoklasse für einen HPV-Selbsttest sind der Preis dafür, dass ein falsches Ergebnis mehr kostet als Geld. Was beim Windturm Bremse ist, ist hier zum Teil Schutz.
+
+### → [[Panorama/Forschung#Wer bezahlt die Forschung — und wofür muss sie gut sein|Forschung — Wer bezahlt die Forschung?]]
+
+Das Panorama erzählt das Tal zwischen Labor und Markt aus der Energie- und Cleantech-Welt. Die Medizin bringt die härteste Zahl dazu, 99,6 Prozent gescheiterte Alzheimer-Wirkstoffe in zehn Jahren, und den Grund, warum das Tal hier breiter ist: Der Beweis am Menschen kommt erst spät, und Mäuse versprechen zu viel.
+
+### → [[Neitzel und Iltisberger — Hype Is a System#Das Contrarian-Dilemma Das Problem der Gegenstimmen|Neitzel und Iltisberger — Hype Is a System]]
+
+Nüchterne Einschätzungen verbreiten sich schlecht, sagen Neitzel und Iltisberger. Beautemps baut eine Mischform: Das Aber der Jury steht mitten in einer Show mit Abstimmung, und die Teams sagen selbst „Präklinik“ und „Proof of Principle“. Der Titel spricht trotzdem von einem „Durchbruch“. In der Medizin bekommt ihre Frage, wer zahlt, wenn eine Technik scheitert, eine bittere Antwort: auch die Hoffnung von Kranken und Angehörigen.
+
+### → [[Manfred Spitzer — KI, Gehirn und Lernen#Schule als Demenzprophylaxe|Manfred Spitzer — Schule als Demenzprophylaxe]]
+
+Spitzer erzählt von der Nonne, die mit über hundert nicht dement war, obwohl ihr Gehirn voller Alzheimer-Veränderungen steckte. An dieser Lücke zwischen Befund im Gewebe und Symptom scheitern viele Mittel: Mäuse mit Plaques zeigen nicht die ganze Krankheit, Antikörper räumen Amyloid weg und bringen dem Denken wenig. CogniSia zielt auf die Symptome, die Ebene, auf der auch die geistige Reserve wirkt.
 
 ---
 
@@ -208,5 +337,5 @@ Das Video gibt darauf eine Antwort, die man leicht überhört. Bei allen drei ka
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Doc Felix warnt vor dem Kollaps der Pflege, und keine der drei Erfindungen entlastet eine Pflegekraft. *Erwarten wir von der Technik Antworten auf Fragen, die eigentlich Fragen nach Arbeit, Lohn und Zeit sind?*
 > - CogniSia will Symptome lindern, nicht heilen. *Wie viel ist ein Jahr gewonnener Orientierung wert — und wer entscheidet das: die Kasse, die Angehörigen oder die Kranken selbst?*
-> - LifeShare macht aus der anonymen Spende eine persönliche. *Was ändert sich, wenn man nicht mehr für alle spendet, sondern für den einen Menschen, den man kennt — und wer bekommt dann nichts?*
+> - LifeShare macht aus der anonymen Spende eine persönliche. *Was ändert sich, wenn man für den einen Menschen spendet, den man kennt, statt für alle — und wer bekommt dann nichts?*
 > - Alle drei Teams benennen ihr Aber selbst. *Woran erkennt man eine Hoffnung, die noch eine Wette ist, und warum wählen wir sie trotzdem — oder gerade deshalb?*

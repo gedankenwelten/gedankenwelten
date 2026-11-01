@@ -218,6 +218,10 @@ Antidepressiva wirken unter anderem, indem sie die Neurogenese im Hippocampus f�
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Warum scheitern Alzheimer-Mittel so oft|Made in Germany Awards 2026 — Medizin]]
+
+Dass Befund und Symptom bei Alzheimer auseinanderfallen, erklärt auch, warum so viele Mittel scheitern, die ihr Ziel im Gehirn nachweislich treffen.
+
 ### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 
 AlphaFold zweimal erzählt: Spitzer als Hirnforscher, der staunt, Bauckhage als KI-Forscher, der den Durchbruch einordnet. Bei Bauckhage stimmt auch die Ausgangszahl — rund 200.000 Strukturen vor der KI, nicht 50.

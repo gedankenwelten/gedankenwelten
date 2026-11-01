@@ -111,4 +111,5 @@ ein Maßstab, an dem sich auch Breaking Lab messen lassen muss.
 - [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 - [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]] — sein Breaking-Lab-Video zur deutschen Zuckerabgabe 2026 als Brücke von 2021 nach heute
 - [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]] — Auftakt der Reihe zu seinem eigenen Innovationspreis: drei Erfindungen für den harten Kern der Energiewende, jede mit dem Aber der Jury
+- [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin]] — Teil 2 der Reihe: Nasenspray gegen Demenz, PCR-Kartusche ohne Strom, Antikörper aus einer Spende, und das Tal des Todes dazwischen
 - [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]] — zwei Livestreams aus Malta, als Mitmoderator der Verleihung; mit der Bilanz, was aus den Erfindungen wurde

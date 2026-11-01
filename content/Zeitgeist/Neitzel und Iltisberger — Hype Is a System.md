@@ -200,6 +200,10 @@ Was bleibt, ist der Verweis auf institutionelle Formate: Technology Assessment, 
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Das Tal des Todes|Made in Germany Awards 2026 — Medizin]]
+
+Wie es aussieht, wenn das Aber in die Show eingebaut ist: Der Titel verspricht einen Durchbruch, die Erfinder sagen selbst „Präklinik“ und „Proof of Principle“.
+
 ### → [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung]]
 
 Eine Spur, die Fähigkeit und Wirkung der KI über Jahre nebeneinanderlegt — als Gegenmittel gegen den Hype-Kreislauf, und mit dem Wissen, dass auch „die Wirkung bleibt aus“ ein Teil davon sein kann.

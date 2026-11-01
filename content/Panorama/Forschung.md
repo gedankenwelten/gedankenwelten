@@ -230,6 +230,10 @@ Die Gegenrechnung ist ebenso solide. Die wirkungsstärksten unter 17,9 Millionen
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Warum scheitern Alzheimer-Mittel so oft|Made in Germany Awards 2026 — Medizin]]
+
+Das Tal zwischen Labor und Markt von der Seite der Klinik: Von der Maus zum Menschen kommt weniger als jeder Hundertste Alzheimer-Wirkstoff durch, und ein Preprint mit sechs Mäusen ist ein Lehrstück dafür, wie viel man der frühen Forschung glauben darf.
+
 ### → [[Panorama/Fortschritt|Fortschritt]]
 Das Versprechen, dass es besser wird, im Großen. Hier die Werkstatt, in der es gemacht wird, und die Frage, wer über ihre Erzeugnisse entscheidet.
 
