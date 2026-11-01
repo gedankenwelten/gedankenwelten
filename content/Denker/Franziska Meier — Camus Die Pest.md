@@ -233,6 +233,33 @@ Was Meier nicht ausführt: Tarrous Satz, jeder trage die Pest in sich, hat eine 
 
 ## Verbindungen
 
+### → [[DenkerVita/Albert Camus|Albert Camus — DenkerVita]]
+Die Vita erzählt, woraus der Roman kommt: *Combat*, die Résistance, Oran, wo Camus 1941 lebte, und Tarrou, der seinen Vater den Kopf eines Angeklagten fordern hörte, zehn Jahre vor Camus' Schrift gegen die Guillotine. Dort steht auch, was Meiers Antwort zu den fehlenden Arabern nicht abdeckt, von Conor Cruise O'Brien bis Kamel Daoud.
+
+### → [[Walther Ziegler — Camus in 60 Minuten#Die drei verbotenen Fluchten|Walther Ziegler — Camus in 60 Minuten]]
+Bei Ziegler verbietet Camus drei Fluchten vor dem Absurden: den Suizid, die Religion, die Ideologie. Meiers Lesart der *Pest* findet eine vierte, und ausgerechnet der Held begeht sie, die Flucht in die Abstraktion. Rieux verweigert der Seuche jeden religiösen oder verschwörerischen Sinn, wie es der Essay verlangt, und richtet sich dann im Abstrakten ein, um weiterarbeiten zu können. Der Essay von 1942 kennt den trotzigen Einzelnen, der Roman fünf Jahre später zählt, was ihn das Standhalten kostet.
+
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+Neun Jahre nach der *Pest* schreibt Camus mit *Der Fall* das Gegenstück. Clamence redet einen ganzen Roman lang von sich, Rieux sagt als Erzähler bis zum Schluss nicht „ich“. Der Satz aus Folge 2, die Wahrheit blende und die Lüge sei ein milder Dämmerschein, liest sich neben Meier wie ein Kommentar zu Rieux: Er will sich nicht in die Tasche lügen, aber seine Abstraktion ist ein Dämmer, in dem sich arbeiten lässt. Die Nacht am Bett des Kindes ist das grelle Licht.
+
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere#Das Antlitz sagt Du wirst mich nicht töten|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+Levinas ordnet, woran Rieux sich aufreibt. Das Antlitz des einen Menschen fordert unbedingt; erst mit dem Dritten beginnt das Abwägen, aus dem Recht und Institutionen wachsen. Die Note warnt, ohne den Dritten verbrenne diese Ethik den, der sie trägt, und Meier sagt dasselbe von Rieux: Hätte er sich jeden Fall zu Herzen gehen lassen, wäre er bald zusammengebrochen. Der Roman zeigt die Gegenrichtung, wie man im Dritten verschwindet, bis ein sterbendes Kind wieder ein Gesicht hat. Levinas' späte Absage an jede Rechtfertigung fremden Leidens (→ [[DenkerVita/Emmanuel Levinas#Kernthesen|Vita]]) steht nahe bei Rieux' Weigerung nach dieser Nacht.
+
+### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+Die stärkste Gegenstimme zu der Lesart, in der das Kind jede Deutung zerreißt. Falcke antwortet auf das Leid mit der Freiheit: Wer verstehen kann, kann leiden und Verantwortung übernehmen, ein Stern leidet nicht. Paneloux' erste Predigt deutet die Seuche als Strafe, Falcke deutet Leid aus der Freiheit. Am Bett des Jungen in Oran trägt keins von beidem, denn weder das Kind noch der Bazillus hat etwas gewählt. Falcke kennt diese Grenze und sagt selbst, im Moment des Leidens helfe seine Antwort nicht viel; genau in diesem Moment spielt Camus' Szene.
+
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN#Die stille Mitte und die Leute in der Notaufnahme|Alena Buyx — Gesellschaft NEU DENKEN]]
+Die Ethik der Helfer von Oran, diesmal gezählt. Zwei Drittel bis drei Viertel seien die ganze Pandemie über solidarisch geblieben, und ihre Zuversicht hängt an Ärztinnen in den Notaufnahmen einer Hitzewelle, die bleiben, obwohl sie gehen könnten. Meier liest denselben Befund von der anderen Seite: Was die Statistik als Leistung ausweist, kostet die Einzelnen eine Distanz, die sie hinterher einsam macht. Kommissionen können eine Pandemie aufarbeiten; was nach Tarrous Prognose an den Rand gedrängt wird, steht in keiner ihrer Akten.
+
+### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir#Corona Freiheit und die Herrschaft der Alten|Möllers und Poschardt — Welche Freiheit wollen wir?]]
+Im Quarantänelager im Stadion von Oran fragt der Roman, ob die Krankheit oder ihre Therapie unmenschlicher ist. Darüber streiten Poschardt, für den die Lockdowns ein Sündenfall an den Kindern aus engen Wohnungen waren, und Möllers, der sagt, hinterher sei man immer klüger. Meier sprach im Mai 2020, ohne dieses Hinterher, und ihre Lesart liegt quer zu beiden: Das Denken in Verordnungen ist bei ihr ein Sog, in den das Massensterben alle zieht, Arzt wie Behörde. Bei Camus stirbt das Kind an der Seuche, in der deutschen Rückschau litten die Kinder an der Therapie.
+
+### → [[DenkerVita/Carlo Cipolla#Kernthesen|Carlo Cipolla]]
+Der Historiker, der die Pest aus den Akten der Toskana las, neben der Leserin, die sie aus Romanen liest. Für Cipolla ist Gesundheit eine Verwaltungsleistung: Nach dem Schwarzen Tod erfanden die italienischen Städte Gesundheitsämter, Lazarette und Quarantäne, oft mit Erfolg, und er rechnet aus, was es kostete. Das ist das formale Denken in Verordnungen, in dem Meier Rieux' Flucht aus dem Einzelfall erkennt, und bei Cipolla rettet es Leben. Zwischen beiden liegt die Frage, die diese Note stellt: wo aus nötigem Abstand eine Flucht wird.
+
+### → [[Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
+Wie *Der Fremde* 1946 nach Amerika kam: mitgekauft, weil der Verlag eigentlich *Die Pest* wollte. Kaplan erzählt auch, wie Camus im März 1946 an der Columbia University über die Rückkehr einer tödlichen Plage sprach, ein Jahr bevor der Roman erschien, den Meier hier liest.
+
 ---
 
 ## Weiterdenken

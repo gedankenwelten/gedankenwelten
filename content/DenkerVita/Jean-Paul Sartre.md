@@ -153,3 +153,4 @@ Sartre war der einflussreichste linke Intellektuelle Europas nach 1945 — und d
 
 - [[Denker/Walther Ziegler — Sartre in 60 Minuten]] — die Tiefenanalyse: Existenz vor Essenz, die Perlenkette der Vergangenheit, Furcht und Angst, das dreifache Scheitern der Liebe
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — zwei von Scobels sechs Sätzen sind Sartre: die Verurteilung zur Freiheit und „die Hölle, das sind die anderen"
+- [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]] — Sartre rollt Camus 1945/46 in Amerika den roten Teppich aus: *Vogue*, Yale, die Sätze als Inseln

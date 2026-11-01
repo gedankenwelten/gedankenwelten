@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **01.11.** — [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
+>
+> Klassiker werden gemacht, nicht geboren. Alice Kaplan erzählt, wie Camus' Fremder 1946 nach Amerika kam: zwei Titel, ein gekränkter Verlag, eine Anzeige und ein FBI-Agent mit Verstand.
+
 > **01.11.** — [[Denker/Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben (Camus, Die Pest)]]
 >
 > Wie erzählt man ein Sterben, das jedes Maß übersteigt? Franziska Meier liest Camus' Pest als Roman über den Preis der Abstraktion und über ein Leid, das sich nicht vermitteln lässt.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Es gibt kein Sparen ohne Schulden. Heiner Flassbeck fragt, wer sie macht – und sieht in Deutschlands Lohnpolitik einen Grund für den Rechtsruck bei den Nachbarn.
 
-> **31.10.** — [[Denker/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
->
-> Man spürt etwas an einer Stelle, wo nichts mehr ist. Für Eva von Redecker ist Faschismus die Verteidigung eines Phantombesitzes – und sie nennt vier Wege, ihm den Boden zu entziehen.
-
-> → *2 weitere in* [[Denker]]
+> → *3 weitere in* [[Denker]]
 
 ### Geistesblitz
 

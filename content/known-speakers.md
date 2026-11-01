@@ -1288,3 +1288,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Manfred Spitzer
 **Status:** ✓ Vollanalyse → [[DenkerVita/Manfred Spitzer]]
+
+## Alice Kaplan
+**Status:** ✓ Vollanalyse → [[DenkerVita/Alice Kaplan]]

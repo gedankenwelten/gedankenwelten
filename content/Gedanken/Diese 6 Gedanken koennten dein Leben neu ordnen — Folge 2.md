@@ -247,6 +247,8 @@ Die Weiterdenken-Frage dieser Note — wer prägt eigentlich die Begriffe, in de
 
 Hampe steht zwischen zwei der sechs Sätze. Mit Wittgensteins § 109 behandelt er Wille und Bewusstsein als grammatische Verhexung. Sartres unverlierbare Freiheit hält er für eine Metaphysik, in der die eigentliche Frage gar nicht vorkommt: ob einer die Macht hat, das Gewollte zu verwirklichen.
 
+### → [[Denker/Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben]]
+Der Camus davor, 1947. Rieux, der Erzähler der *Pest*, sagt bis zum Schluss nicht „ich“, Clamence sagt kaum etwas anderes. Meier liest die nüchterne Chronik als Schutz eines Arztes vor zu viel Licht, und die Nacht am Bett eines sterbenden Kindes als den Moment, in dem dieser Schutz versagt.
 
 ---
 

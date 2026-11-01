@@ -36,11 +36,11 @@ Quelle: [Ist der Mensch wirklich gut, Rutger Bregman? — Sternstunde Philosophi
 > Bregman antwortet im Gespräch auf **Englisch** — die verlinkte SRF-Sendung ist deutsch synchronisiert. Die direkten Zitate hier stehen deshalb im englischen Original (aus der [Originalton-Fassung](https://www.youtube.com/watch?v=XSlM7e7MtsM)), die deutsche Synchronisation glättet manches weg. Die Zeitmarken verweisen auf die deutsche Sendung; beide Fassungen laufen sekundengenau parallel.
 
 > [!info] Wer spricht?
-> **Rutger Bregman** (*1988, Renesse, Niederlande*) — Historiker, Journalist bei *De Correspondent* und einer der meistgelesenen progressiven Intellektuellen Europas.
+> **Rutger Bregman** (*1988, Renesse, Niederlande*) — Historiker und Autor, zehn Jahre lang Journalist bei *De Correspondent*, Mitgründer der *School for Moral Ambition*. Seine Bücher erscheinen in Dutzenden Sprachen.
 >
-> Sohn eines reformierten Pfarrers, studierte Geschichte in Utrecht und an der UCLA. Wurde 2019 schlagartig weltbekannt durch seinen Davos-Auftritt (*„Taxes, taxes, taxes — alles andere ist Bullshit"*). Sein Werk verbindet historische Tiefe mit der Hartnäckigkeit eines Aktivisten: Er will nicht trösten, sondern beweisen.
+> Sohn eines Pfarrers, studierte Geschichte in Utrecht und an der UCLA. Wurde 2019 schlagartig weltbekannt durch seinen Davos-Auftritt (*„Taxes, taxes, taxes. All the rest is bullshit, in my opinion"*). Sein Werk verbindet historische Tiefe mit der Hartnäckigkeit eines Aktivisten: Er will nicht trösten, sondern beweisen.
 >
-> Wichtigste Werke: *Utopien für Realisten* (2014), *Im Grunde gut* (2019), *Wenn das Wasser kommt* (2022), *Moralische Ambition* (2024)
+> Wichtigste Werke (Original): *Utopien für Realisten* (2014), *Im Grunde gut* (2019), *Wenn das Wasser kommt* (2020, dt. 2021), *Moralische Ambition* (2024)
 > Kernkonzepte: survival of the friendliest · homo puppy · moralische Ambition · bedingungsloses Grundeinkommen · Demokratie durch Losverfahren
 >
 > → [[DenkerVita/Rutger Bregman|DenkerVita]]
@@ -84,7 +84,7 @@ Bregman bestreitet nicht, dass der Mensch grausam sein kann — im Gegenteil, er
 [▶ 11:34](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=694) Und selbst wer im Krieg tötet, zahle einen inneren Preis — *„often they kill something inside themselves as well"* —, sichtbar an den traumatisierten Vietnam-Heimkehrern. Anders als Essen oder Sex, die uns guttun, weil sie der Spezies nützen, sei Gewalt etwas, das uns von innen beschädigt.
 
 > [!note] Eigene Einschätzung
-> Hier wird Bregmans Optimismus erstmals empirisch statt nur rhetorisch — und das ist seine stärkste Karte. Dass durchschnittliche Rekruten den Finger nicht krümmen können, ist ein echtes, gut dokumentiertes Phänomen (S. L. A. Marshalls umstrittene Feuerraten, Dave Grossmans *On Killing*). Es verschiebt die Beweislast: Nicht die Friedfertigkeit muss erklärt werden, sondern die Gewalt — und sie braucht *Apparatur*: Drill, Distanz, Entmenschlichung. Genau deshalb ist die Artillerie-Beobachtung so bitter: Unsere natürliche Tötungshemmung wird nicht überwunden, sondern *umgangen*. Der Fortschritt der Waffentechnik ist auch ein Fortschritt darin, den homo puppy in uns zu betäuben. Die unbequeme Konsequenz, die Bregman nicht ausspricht: Je sauberer und ferngesteuerter der Krieg, desto leichter führen ihn auch gute Menschen.
+> Hier wird Bregmans Optimismus erstmals empirisch statt nur rhetorisch — und das ist zugleich seine wackligste Karte. Die berühmte Zahl, dass nur ein Viertel der Soldaten schoss, stammt von S. L. A. Marshall, dessen Methode heute als kaum belegt gilt (→ [[#Faktencheck|Faktencheck]]); Dave Grossmans *On Killing* baut darauf auf. Trägt der Gedanke ohne die Quote, verschiebt er die Beweislast: Nicht die Friedfertigkeit muss erklärt werden, sondern die Gewalt — und sie braucht *Apparatur*: Drill, Distanz, Entmenschlichung. Genau deshalb ist die Artillerie-Beobachtung so bitter: Unsere natürliche Tötungshemmung wird nicht überwunden, sondern *umgangen*. Der Fortschritt der Waffentechnik ist auch ein Fortschritt darin, den homo puppy in uns zu betäuben. Die unbequeme Konsequenz, die Bregman nicht ausspricht: Je sauberer und ferngesteuerter der Krieg, desto leichter führen ihn auch gute Menschen.
 
 ### Der Widerlegungsapparat — wenn berühmte Experimente Schwindel waren
 
@@ -94,18 +94,18 @@ Bregmans Buch ist über weite Strecken Detektivarbeit an der eigenen Disziplin. 
 
 > *„No, you need to do this, because I need these results for my study — so that we can prove how nasty people are deep down, and that we need to reform the whole prison system."*
 
-Ein *„totally shoddy, very unscientific experiment"* wurde so zum Gründungsmythos eines ganzen Menschenbildes.
+Ein *„totally shoddy experiment, very, very unscientific"* wurde so zum Gründungsmythos eines ganzen Menschenbildes.
 
 > [!note] Eigene Einschätzung
-> Hier liegt die methodisch interessanteste Schicht des ganzen Werks — und sie schneidet in beide Richtungen. Dass Zimbardos Versuch ein inszenierter Schwindel war, ist heute gut belegt und ein echter Gewinn für die Redlichkeit der Psychologie. Aber Bregman betreibt selbst eine Form von Rosinenpickerei: Er entlarvt die düsteren Klassiker mit großer Lust und nimmt die freundlichen Befunde (Katastrophen-Altruismus, das gute Hurrikan-Verhalten) zugleich dankbar an. Wer das eine Lager der Studien mit Misstrauen liest, schuldet dem anderen denselben Skeptizismus. Genau diesen Selbstverdacht fordert Bregman an anderer Stelle ein — er sollte ihn auch auf seine Lieblingsbelege anwenden.
+> Hier liegt die methodisch interessanteste Schicht des ganzen Werks — und sie schneidet in beide Richtungen. Dass Zimbardos Versuch inszeniert war und wissenschaftlich nicht trägt, ist heute gut belegt und ein echter Gewinn für die Redlichkeit der Psychologie. Aber Bregman betreibt selbst eine Form von Rosinenpickerei: Er entlarvt die düsteren Klassiker mit großer Lust und nimmt die freundlichen Befunde (Katastrophen-Altruismus, das gute Hurrikan-Verhalten) zugleich dankbar an. Wer das eine Lager der Studien mit Misstrauen liest, schuldet dem anderen denselben Skeptizismus. Genau diesen Selbstverdacht fordert Bregman an anderer Stelle ein — er sollte ihn auch auf seine Lieblingsbelege anwenden.
 
 ### Macht korrumpiert — warum die Schamlosen nach oben fallen
 
 Wenn der Mensch im Grunde gut ist — warum sitzen dann so oft die Schlimmsten an der Spitze? Bregmans Antwort ist sein elegantester Gedanke. [▶ 4:36](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=276) *„Most people deep down are pretty decent, but power corrupts — power is an incredibly dangerous drug."* Schon nomadische Jäger und Sammler hätten das gewusst und die *Scham* als Werkzeug eingesetzt, um die an der Spitze in Schach zu halten. Heute aber lebten wir in einer anderen Welt:
 
-> *„It's often not survival of the friendliest, more survival of the shameless. You can clearly see this in the case of many of the autocrats — Putin is a very clear example of just how corrupted, how detached from the rest of humanity you can become by power."*
+> *„It's often not survival of the friendliest, more survival of the shameless. You can clearly see this in the case of many of the autocrats — Putin is a very, very clear example just how corrupted you can become by power, how detached from the rest of humanity you can become."*
 
-(Die deutsche Synchronfassung macht hier fälschlich aus dem *Schamlosesten* den „Harmlosesten" — ein Übersetzungsfehler, der Bregmans Pointe verkehrt.) [▶ 5:21](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=321) Denn Macht isoliert: Wer die Leiter hochsteigt, verliert den ständigen Spiegel der anderen — jenes wechselseitige Sich-Lesen, das uns menschlich hält. *„The essence of being human is that you are connected to other members of your species. Individually we're not that impressive, but collectively we can achieve extraordinary things."*
+[▶ 5:21](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=321) Denn Macht isoliert: Wer die Leiter hochsteigt, verliert den ständigen Spiegel der anderen — jenes wechselseitige Sich-Lesen, das uns menschlich hält. *„The essence of being human is that you are connected to other members of your species. Individually we're not that impressive, but collectively we can achieve extraordinary things."*
 
 > [!question] Weitergedacht
 > Wenn Macht entmenschlicht, weil sie den Spiegel der anderen entzieht — *was bedeutet das für eine Gesellschaft, in der Reichtum erlaubt, sich vollständig aus dem Alltag der Übrigen herauszukaufen?*
@@ -138,19 +138,19 @@ Wenn der Mensch im Grunde gut ist — warum sitzen dann so oft die Schlimmsten a
 
 > *„The concept of original sin can be very poisonous when applied to others — when you just see the sin in others and use it as a legitimization of hierarchy. But when you focus on yourself, it can be quite healthy to be skeptical of yourself, to not say: I'm good the way I am."*
 
-[▶ 23:00](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1380) Die Mandelas, die Martin Luther Kings, Thomas Clarkson (der wichtigste britische Kämpfer gegen die Sklaverei) hätten unablässig über ihre eigene Sündhaftigkeit nachgedacht — ihr Glaube war Motor, nicht Bremse. Später verdichtet Bregman das am Beispiel William Wilberforces, dessen Christentum hieß, *„he couldn't waste a single second of his life"* im Kampf gegen die Sklaverei: Was ihn interessiere, sei nie der Wahrheitsgehalt der Dogmen, sondern *„what people actually do with their beliefs"*.
+[▶ 23:00](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1380) Die Mandelas, die Martin Luther Kings, Thomas Clarkson (für Bregman *„the main British abolitionist"*) hätten unablässig über ihre eigene Sündhaftigkeit nachgedacht — ihr Glaube war Motor, nicht Bremse. Später verdichtet Bregman das am Beispiel William Wilberforces, dessen Christentum hieß, *„he couldn't waste a single second of his life"* im Kampf gegen die Sklaverei: Was ihn interessiere, sei nie der Wahrheitsgehalt der Dogmen, sondern *„what people actually do with their beliefs"*.
 
-Und das Gute sei kein Selbstläufer: [▶ 23:00](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1380) wie eine kleine Pflanze müsse es genährt und kultiviert werden. „Wir sind nicht einfach gut, Ende der Durchsage — wir müssen an uns arbeiten."
+[▶ 23:00](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1380) Bleisch zeigt auf die kleine Pflanze im Studio: Wir seien nicht einfach gut, „Ende der Durchsage", wir müssten das Gute kultivieren. Bregman nimmt das Bild auf: *„It's something that needs to grow."* Das Gute ist kein Selbstläufer.
 
 ### Der Staat, der wie ein Anarchist denkt
 
-[▶ 23:46](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1426) Bregman ist kein Romantiker der Staatenlosigkeit — er nennt sich *„a pretty old-fashioned social democrat"* und glaubt fest an Steuern. Sein Buch sei aber zugleich anarchistisch, und darin liege die Pointe:
+[▶ 23:46](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1426) Bregman ist kein Romantiker der Staatenlosigkeit. Bleisch hält ihm vor, dass er an den Staat und an Steuern glaubt, und später nennt er sich selbst *„a pretty old-fashioned social democrat"* ([▶ 26:49](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1609)). Sein Buch sei aber zugleich anarchistisch, und darin liege die Pointe:
 
 > *„The state needs to think like an anarchist. Anarchists believe that power corrupts — but the problem with anarchists is that they're not very good at building institutions. And if you want to change the world, you've got to get good at building institutions."*
 
 [▶ 24:32](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1472) Sein Beispiel ist *Buurtzorg*, eine steuerfinanzierte niederländische Pflegeorganisation, die fast alle Manager abgeschafft hat: Teams von zehn bis zwölf Pflegekräften verwalten sich selbst — wen sie einstellen, wie sie die Woche planen — und liefern *„health care that is cheaper, of higher quality, with employees that are more satisfied"*; sie seien schlicht *„an insult to management"*. Vertrauen in die Selbstorganisation der Menschen statt zentraler Steuerung von oben.
 
-Dasselbe Vertrauen wendet er auf die Frage an, *wer eigentlich den Wohlstand schafft*. [▶ 29:04](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1744) Mit Graebers Begriff der *Bullshit Jobs*: 20–30 % der Menschen in entwickelten Volkswirtschaften hielten ihre eigene Arbeit für gesellschaftlich wertlos — *„they have beautiful LinkedIn resumes, they went to great universities, but after a beer or two they'll admit their job doesn't really contribute anything."* Die Pandemie habe den Test geliefert: Auf den Listen der *essential workers* hätten die Anwälte und Hedgefonds-Manager gefehlt. [▶ 29:49](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1789) *„It's the plumbers, the teachers, the nurses — they are really the strongest shoulders that carry us all."*
+Dasselbe Vertrauen wendet er auf die Frage an, *wer eigentlich den Wohlstand schafft*. [▶ 29:04](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1744) Mit Graebers Begriff der *Bullshit Jobs*: 20–30 % der Menschen in entwickelten Volkswirtschaften hielten ihre eigene Arbeit für gesellschaftlich wertlos *(sicher nutzlos finden ihre Arbeit eher 8 %, weitere 17 % zweifeln → [[#Faktencheck|Faktencheck]])* — *„they have beautiful LinkedIn resumes, they went to great universities, but after a beer or two they'll admit their job doesn't really contribute anything."* Die Pandemie habe den Test geliefert: Auf den Listen der *essential workers* hätten die Anwälte und Hedgefonds-Manager gefehlt. [▶ 29:49](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=1789) *„It's the plumbers, the teachers, the nurses — they are really the strongest shoulders that carry us all."*
 
 Das mündet in seine Demokratie-Kritik. [▶ 51:27](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=3087) *„We have something that we call democracy, but it really is an elective aristocracy — we are allowed to choose our own aristocrats."* Besser als eine Diktatur, aber keine echte Demokratie. [▶ 52:12](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=3132) Die ursprüngliche athenische Idee sei das *Losverfahren* gewesen: Bürgerinnen und Bürger per Zufall in Ämter. Bürgerräte und Bürgerhaushalte (*participatory budgeting*) könnten die Demokratie „vertiefen" — die Berufspolitik hinter sich lassen, sodass alle am Gemeinwohl mitwirken.
 
@@ -160,7 +160,7 @@ Das mündet in seine Demokratie-Kritik. [▶ 51:27](https://www.youtube.com/watc
 
 > *„I define a hero as an ordinary person who does the right thing in an extraordinary situation. But maybe what we should be interested in is the kind of people who are extraordinary and do the right thing in an ordinary situation."*
 
-Für den **Helden** — der ins Wasser springt, wenn das Auto in die Limmat fällt — gibt es Orden (den Carnegie Hero Fund). Für den **Radikalen**, der im Alltag das Richtige tut (etwa gegen das Leiden der jährlich 80 Milliarden geschlachteten Tiere), gibt es weder Orden noch Geld. [▶ 40:32](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2432) *„Often the radicals, they make us uncomfortable."*
+Für den **Helden**, der einen Menschen vor dem Grizzlybären rettet, gibt es in den USA Orden und Geld vom Carnegie Hero Fund; Bleisch erinnert an das Auto, das in Zürich in die Limmat fiel, und an die vielen, die sofort hinsprangen. Für den **Radikalen**, der im Alltag das Richtige tut (etwa gegen das Leiden der jährlich 80 Milliarden geschlachteten Tiere), gibt es weder Orden noch Geld. [▶ 40:32](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2432) *„Often the radicals, they make us uncomfortable."*
 
 Vorher schon hat Bregman die bequemste moderne Ersatzhandlung zerlegt: das Sammeln von *awareness*. [▶ 33:36](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2016) *„We've come to believe that awareness is everything — as if you collect enough clicks and likes and signatures, that's enough."* Arabischer Frühling, Occupy, Black Lives Matter, Fridays for Future — alle seien großartig im Wecken von Bewusstsein gewesen, aber: *„at some point you need to go beyond that. If you really want to change the world, you've got to get a law through parliament. It takes so much more than just getting retweeted."*
 
@@ -173,7 +173,7 @@ Vorher schon hat Bregman die bequemste moderne Ersatzhandlung zerlegt: das Samme
 
 ### Geschichtsblindheit und die Hoffnung ohne Optimismus
 
-[▶ 42:52](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2572) Im Klimabuch *Wenn das Wasser kommt* macht Bregman dieselbe Bewegung wie bei der Anthropologie: erst in die Geschichte schauen, dann von dort aufs Heute. [▶ 44:26](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2666) Die Flutkatastrophe von 1953, die den Süden der Niederlande überrollte und über 1.800 Menschen tötete, sei kein reines Naturereignis gewesen, sondern menschengemacht — der Ingenieur Johan van Veen habe zwanzig Jahre lang gewarnt. *„But today we don't have just one Cassandra, we have a thousand Cassandras. We know what's going on, and still we find it really hard to make the necessary transition."* Das nennt er *Geschichtsblindheit*.
+[▶ 42:52](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2572) Im Klimabuch *Wenn das Wasser kommt* macht Bregman dieselbe Bewegung wie bei der Anthropologie: erst in die Geschichte schauen, dann von dort aufs Heute. [▶ 44:26](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2666) Die Flutkatastrophe von 1953, die den Süden der Niederlande überrollte und über 1.800 Menschen tötete, sei kein reines Naturereignis gewesen, sondern menschengemacht — der Ingenieur Johan van Veen habe zwanzig Jahre lang gewarnt. *„But today we don't have just one Cassandra, we have a thousand Cassandras. We know what's going on, and still we find it really hard to make the necessary transition."* Bleisch fasst das Buch an dieser Stelle in ein Wort: *Geschichtsblindheit*.
 
 Und er nimmt sich selbst nicht aus. [▶ 46:03](https://www.youtube.com/watch?v=ODyjjZTxyKU&t=2763) Wenn vom „Mobilisieren wie im Zweiten Weltkrieg" geredet werde, vergesse man, wie radikal das war — eine totale Umgestaltung der Wirtschaft. *„I'm wearing fossil fuels, the way I got here was through fossil fuels, I just ate fossil fuels."* Sein Maßstab fürs Ernstmeinen ist das Opfer: *„If we're really not willing to suffer for our ideals, then how can you be serious about calling it a mobilization? Mobilizations are not these happy clappy affairs — it's tough."*
 
@@ -189,25 +189,30 @@ Und er nimmt sich selbst nicht aus. [▶ 46:03](https://www.youtube.com/watch?v=
 ## Faktencheck
 
 > [!success] Bestätigt — Stanford-Prison-Experiment methodisch diskreditiert
-> Bregmans Darstellung trifft den heutigen Forschungsstand. 2018 veröffentlichte Aufnahmen und Archivmaterial (u. a. durch Thibault Le Texier und das Reporting von Ben Blum) zeigen, dass die „Wärter" angeleitet wurden, hart aufzutreten, und dass zentrale Szenen gestellt waren. Quelle: [Ben Blum — The Lifespan of a Lie (Medium/Gen)](https://gen.medium.com/the-lifespan-of-a-lie-d869212b1f62)
+> Bregmans Kernaussage trifft den heutigen Forschungsstand. Thibault Le Texier hat das Archiv des Experiments ausgewertet und 15 Beteiligte befragt: Die „Wärter" wurden angeleitet, hart aufzutreten, die Daten wurden lückenhaft und voreingenommen erhoben, und die Teilnehmer waren fast nie sich selbst überlassen ([Le Texier 2019, *American Psychologist*, doi:10.1037/amp0000401](https://doi.org/10.1037/amp0000401); Einzelstudie aus dem Archiv, dazu Ben Blums Reportage von 2018). Überzeichnet ist nur Bregmans Zuspitzung, Zimbardo habe sie angewiesen, sich „so sadistisch wie möglich" zu verhalten: Angeleitet wurde Härte, verlangt wurde kein Sadismus.
+>
+> Für Milgram gilt das nicht in gleichem Maß. Bregman bestreitet im Buch die Lehrbuch-Deutung, doch das Grundphänomen hielt: Bei Jerry Burgers Wiederholung gingen 2009 rund 70 Prozent über die 150-Volt-Schwelle ([Burger 2009, doi:10.1037/a0010932](https://doi.org/10.1037/a0010932)).
 
 > [!warning] Vereinfacht — Soldaten „können nicht schießen" (niedrige Feuerraten)
-> Bregmans Behauptung, die Mehrheit der eingezogenen Soldaten könne den Feind nicht beschießen, geht auf S. L. A. Marshalls *Men Against Fire* (1947) zurück — der nur 15–25 % feuernde Schützen berichtete. Marshalls Methodik gilt heute als **schlecht belegt bis erfunden** (Historiker Roger Spiller, 1988). Der breitere Befund einer angeborenen Tötungshemmung (Grossman, *On Killing*) ist plausibel und teils gestützt, aber die konkrete Quote ist kein harter Fakt. Dass Artillerie/Distanzwaffen die meisten Opfer fordern und das Töten psychisch erleichtern, ist dagegen gut belegt. Quelle: [Roger J. Spiller — S.L.A. Marshall and the Ratio of Fire (RUSI Journal, 1988)](https://www.tandfonline.com/doi/abs/10.1080/03071848808445335)
+> Bregmans Behauptung, die Mehrheit der eingezogenen Soldaten könne den Feind nicht beschießen, geht auf S. L. A. Marshalls *Men Against Fire* (1947) zurück — der nur 15–25 % feuernde Schützen berichtete. Marshalls Methodik gilt heute als **schlecht belegt bis erfunden** (Historiker Roger Spiller, 1988). Der breitere Befund einer angeborenen Tötungshemmung (Grossman, *On Killing*) ist plausibel und teils gestützt, aber die konkrete Quote ist kein harter Fakt. Dass Artillerie/Distanzwaffen die meisten Opfer fordern und das Töten psychisch erleichtern, ist dagegen gut belegt. Quelle: [Roger J. Spiller — S.L.A. Marshall and the Ratio of Fire (RUSI Journal, 1988)](https://doi.org/10.1080/03071848808445332)
 
 > [!warning] Vereinfacht — „Rousseau hatte recht" / keine Kriegsdarstellungen in Höhlenmalereien
-> Die These, prähistorische Jäger-Sammler seien weitgehend friedlich gewesen, ist in der Anthropologie umstritten. Befunde wie Nataruk (Kenia, ~10.000 Jahre) deuten auf frühe Gruppengewalt; Steven Pinker und andere widersprechen Bregman deutlich. Dass es kaum Höhlenmalereien von Kriegsszenen gibt, stimmt — als Beleg für generelle Friedfertigkeit ist es jedoch schwach (Abwesenheit von Belegen ≠ Beleg der Abwesenheit). Bregman räumt im Gespräch selbst ein, die „reine rousseauistische Sichtweise" sei „zu vereinfachen". Quelle: [Nature — Lahr et al., Inter-group violence among early Holocene hunter-gatherers (Nataruk)](https://www.nature.com/articles/nature16477)
+> Die These, prähistorische Jäger-Sammler seien weitgehend friedlich gewesen, ist in der Anthropologie umstritten. Befunde wie Nataruk (Kenia, ~10.000 Jahre) deuten auf frühe Gruppengewalt ([Lahr et al. 2016, *Nature*, doi:10.1038/nature16477](https://doi.org/10.1038/nature16477)); Steven Pinker vertritt in *Gewalt* (2011) das Gegenteil von Bregmans These. Auf Bregmans Seite steht dagegen eine Auswertung von 21 umherziehenden Wildbeuter-Gesellschaften: Die meisten tödlichen Vorfälle waren Taten Einzelner gegen Einzelne, nicht Krieg zwischen Gruppen ([Fry & Söderberg 2013, *Science*, doi:10.1126/science.1235675](https://doi.org/10.1126/science.1235675)). Dass es kaum Höhlenmalereien von Kriegsszenen gibt, stimmt — als Beleg für generelle Friedfertigkeit ist es jedoch schwach (Abwesenheit von Belegen ≠ Beleg der Abwesenheit). Bregman räumt im Gespräch selbst ein, *„the pure Rousseauian vision is too simplistic"*.
 
 > [!success] Bestätigt — Buurtzorg, manager-arme Pflege
 > Die niederländische Organisation Buurtzorg arbeitet tatsächlich in selbstverwalteten Kleinteams ohne klassische mittlere Managementebene und wird international als Modell zitiert; Studien bescheinigen ihr hohe Patienten- und Mitarbeiterzufriedenheit. Die pauschale Aussage „billiger *und* besser" ist je nach Studie und Kennzahl differenzierter. Quelle: [KPMG — The Buurtzorg model](https://home.kpmg/xx/en/home/insights/2017/06/buurtzorg-a-new-perspective-on-care.html)
 
+> [!warning] Vereinfacht — „20 bis 30 Prozent halten ihren Job für nutzlos"
+> Graebers *Bullshit Jobs* stützte sich vor allem auf Umfragen. Repräsentative Daten zeichnen ein kleineres Bild: In 100.000 Antworten aus 47 Ländern halten rund 8 Prozent ihre Arbeit für gesellschaftlich nutzlos, weitere 17 Prozent zweifeln, ohne Trend über die Zeit ([Dur & van Lent 2019, *Industrial Relations*, doi:10.1111/irel.12227](https://doi.org/10.1111/irel.12227)). In den EU-Daten ist der Anteil gering und sinkt sogar; wer seine Arbeit für nutzlos hält, leidet eher unter schlechter Führung und vergiftetem Arbeitsklima als unter einem objektiv sinnlosen Beruf ([Soffia, Wood & Burchell 2021, *Work, Employment and Society*, doi:10.1177/09500170211015067](https://doi.org/10.1177/09500170211015067)). Bregmans Spanne von 20 bis 30 Prozent erreicht man nur, wenn man die Zweifelnden mitzählt.
+
 > [!success] Bestätigt — Katastrophen-Altruismus statt Plünderungs-Chaos
-> Die Soziologie der Katastrophenforschung (u. a. das Disaster Research Center) belegt, dass spontane Hilfe und Kooperation die Regel sind, während Plünderungsmythen — etwa nach Hurrikan Katrina 2005 — oft übertrieben oder erfunden waren. Rebecca Solnits *A Paradise Built in Hell* fasst diese Befundlage zusammen. Quelle: [Rebecca Solnit — A Paradise Built in Hell (Überblick, The Guardian)](https://www.theguardian.com/books/2009/jul/04/paradise-built-in-hell-solnit)
+> Die Soziologie der Katastrophenforschung (u. a. das Disaster Research Center) belegt, dass spontane Hilfe und Kooperation die Regel sind, während Plünderungsmythen — etwa nach Hurrikan Katrina 2005 — oft übertrieben oder erfunden waren. Rebecca Solnits *A Paradise Built in Hell* (2009) fasst diese Befundlage zusammen. Für Katrina im Einzelnen: [Tierney, Bevc & Kuligowski 2006, *The Annals of the AAPSS*, doi:10.1177/0002716205285589](https://doi.org/10.1177/0002716205285589) — wie Medienbilder vom Plündern die Hilfe selbst behinderten.
 
 > [!success] Bestätigt — Davos-Rede 2019 und Tucker-Carlson-Interview
-> Bregmans Auftritt beim Weltwirtschaftsforum (Januar 2019) mit der Steuer-Provokation ging viral; das anschließende, nie ausgestrahlte Fox-News-Interview mit Tucker Carlson wurde später durch geleaktes Material bekannt. (Im Gespräch fälschlich „2009/10" genannt — Transkriptions-/Versprecher, sachlich war es 2019.) Quelle: [The Guardian — Rutger Bregman tells Davos to talk about tax](https://www.theguardian.com/business/2019/feb/01/rutger-bregman-world-economic-forum-davos-speech-tax-billionaires-capitalism)
+> Bregmans Auftritt beim Weltwirtschaftsforum (Januar 2019) mit der Steuer-Provokation ging viral; das anschließende, nie ausgestrahlte Fox-News-Interview mit Tucker Carlson wurde gut eine Woche später bekannt, als Bregman die Aufnahme selbst über NowThis veröffentlichte ([NOS](https://nos.nl/artikel/2272816-hoe-een-interview-van-fox-news-met-rutger-bregman-volledig-ontspoort)). Quelle: [The Guardian — Rutger Bregman tells Davos to talk about tax](https://www.theguardian.com/business/2019/feb/01/rutger-bregman-world-economic-forum-davos-speech-tax-billionaires-capitalism)
 
-> [!warning] Vereinfacht — „80 Milliarden geschlachtete Tiere pro Jahr"
-> Die Zahl bezieht sich auf an Land geschlachtete Nutztiere (v. a. Geflügel) und ist in dieser Größenordnung belegt (~70–80 Mrd.). Rechnet man Fische und Meerestiere hinzu, liegt die Zahl um ein Vielfaches höher; ohne sie ist „80 Milliarden" eher konservativ. Quelle: [Our World in Data — How many animals are slaughtered each year](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day)
+> [!success] Bestätigt — „80 Milliarden geschlachtete Tiere pro Jahr"
+> Die Zahl bezieht sich auf an Land geschlachtete Nutztiere und ist in dieser Größenordnung belegt: Allein Hühner werden über 200 Millionen am Tag geschlachtet, rund 74 Milliarden im Jahr. Rechnet man Fische und Meerestiere hinzu, liegt die Zahl um ein Vielfaches höher; ohne sie ist „80 Milliarden" eher konservativ. Quelle: [Our World in Data — How many animals are slaughtered each year](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day)
 
 ---
 
@@ -226,7 +231,7 @@ Und er nimmt sich selbst nicht aus. [▶ 46:03](https://www.youtube.com/watch?v=
 - Thomas Hobbes: *Leviathan* · Jean-Jacques Rousseau (Ungleichheits-Diskurs) — die beiden Pole der Debatte
 - Hannah Arendt: *Eichmann in Jerusalem / Die Banalität des Bösen* — von Bleisch eingebracht
 - David Graeber: *Bullshit Jobs* — Quelle für die These der Talentverschwendung
-- Philip Zimbardo (Stanford-Prison-Experiment) · Stanley Milgram — die widerlegten Klassiker
+- Philip Zimbardo (Stanford-Prison-Experiment, diskreditiert) · Stanley Milgram (Grundbefund wiederholt bestätigt, Deutung umstritten) — die Klassiker, an denen Bregman zweifelt
 
 ---
 
@@ -261,7 +266,7 @@ Yu sucht einen dritten Weg jenseits der falschen Alternative „rein gut / rein 
 
 ### → [[Hannah Arendt — Die Banalität des Bösen]]
 
-Bregman beruft sich direkt auf Arendt zur Erklärung des Konformismus. Arendt schärft seinen Optimismus: Das Versagen wurzelt nicht im rohen Trieb (Fassaden-Theorie), sondern in der *Gedankenlosigkeit*, dem Aussetzen des Urteils — freundliche Natur allein genügt also gerade nicht.
+Bleisch hält Bregman Arendts Banalität des Bösen entgegen, und er stimmt zu: Gerade der Welpe, der dazugehören will, macht mit. Arendt schärft seinen Optimismus: Das Versagen wurzelt nicht im rohen Trieb (Fassaden-Theorie), sondern in der *Gedankenlosigkeit*, dem Aussetzen des Urteils — freundliche Natur allein genügt also gerade nicht.
 
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 
@@ -291,9 +296,13 @@ Der produktivste Widerspruch: Yu seziert das gute Menschenbild, das Bregman vert
 
 Das literarische Experiment, das Bregmans Optimismus herausfordert: kein Notstand, keine Gewalt-Erlaubnis von oben — nur Langeweile, Distanz und ein toter Winkel, und das wohlerzogene Internat kippt in die Folter. Wo Bregman das „Herr der Fliegen"-Bild als Fiktion entlarvt, hält Musil dagegen: Seine Fiktion hatte ein reales Vorbild, und die Täter blieben im System.
 
----
-- [[Hans Maggi — Kurdistan im Nordirak]] — Bregmans These im Alltagsformat: zwei Wochen lang schenken Menschen mit wenig Geld zwei Fremden so beharrlich, dass diese am Tag nur noch drei Euro ausgeben. Das unspektakulärste Beweisstück ist ein geschenkter Müllsack
-- [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] — Bregmans „gewählte Aristokratie“ und sein „Macht korrumpiert“ sind die Gründungsidee einer Partei geworden: Ardalan Ibrahim baut darauf seine Losdemokratie und führt sie ausdrücklich als „Fürst“.
+### → [[Hans Maggi — Kurdistan im Nordirak]]
+
+Bregmans These im Alltagsformat: zwei Wochen lang schenken Menschen mit wenig Geld zwei Fremden so beharrlich, dass diese am Tag nur noch drei bis fünf Euro ausgeben. Das unspektakulärste Beweisstück ist ein geschenkter Müllsack.
+
+### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
+
+Bregmans „gewählte Aristokratie“ und sein „Macht korrumpiert“ sind die Gründungsidee einer Partei geworden: Ardalan Ibrahim baut darauf seine Losdemokratie und führt sie ausdrücklich als „Fürst“.
 
 ### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
 

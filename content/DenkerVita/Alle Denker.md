@@ -396,6 +396,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Ilko-Sascha Kowalczuk|Ilko-Sascha Kowalczuk]]** — Historiker der SED-Diktatur (Stasi-Unterlagen-Behörde, Ulbricht-Biograf), der den Rechtsruck im Osten als Freiheitsschock statt als Kränkung durch den Westen deutet
 
+**[[DenkerVita/Alice Kaplan|Alice Kaplan]]** — Romanistin und Historikerin in Yale, erzählt das Leben von Büchern und Prozessen aus dem Archiv: Camus' *Fremder*, Brasillach, die Justiz nach dem Krieg.
+
 ## L
 
 **[[DenkerVita/Thomas Laschyk|Thomas Laschyk]]** — Gründer, Chefredakteur und Geschäftsführer des Anti-Fake-News-Blogs Volksverpetzer (*1992, Augsburg; Literaturwissenschaftler); *Werbung für die Wahrheit* (2024), Petition „Prüft ein AfD-Verbot!“; These: Fake News siegen als Geschichten, darum braucht die Wahrheit Werbung, und weil Reichweite käuflich ist, wird Steuerpolitik zur Medienpolitik

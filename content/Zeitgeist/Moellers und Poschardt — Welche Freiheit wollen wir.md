@@ -216,6 +216,9 @@ Steinkes Justiz-Aktivismus-These und Marinićs "Teilzeitliberalismus"-Begriff si
 
 Der Streit um Shklars *Freiheit von Furcht* — Poschardt beansprucht sie für die Aufnahmegesellschaft, Möllers hält den Schluss von Migration auf Bedrohung für zu schnell — bekommt bei Knaus einen konkreten Fall. In Ceuta war die Furcht in ganz Europa real und wurde gefüttert, und sie richtete sich auf ein Ereignis, das niemanden aufs Festland brachte. Die Frage, wessen Furcht politisch zählt, wird hier vor jeder Statistik entschieden.
 
+### → [[Denker/Franziska Meier — Camus Die Pest#Was 2020 jeder wiedererkannte|Franziska Meier — Der Krankheit einen Namen geben]]
+Camus' Roman stellt im Quarantänelager eines Stadions schon die Frage dieses Abends: ob die Krankheit oder ihre Therapie unmenschlicher ist. Meier las ihn im Mai 2020, ohne das Hinterher, und sah in den Verordnungen zum Schutz des Kollektivs den Ort, an dem der Einzelfall aus dem Blick gerät, beim Arzt wie bei der Behörde.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

@@ -173,6 +173,10 @@ Arendt fand in Eichmann weder Dummheit noch Bosheit, sondern Gedankenlosigkeit, 
 
 Wie Menschen sich gegenseitig in dieselben Erzählungen ziehen, beschreibt Cipolla nicht; seine Dummen handeln einzeln. El-Mafaalanis Misstrauensgemeinschaften liefern die Soziologie zu dem, was viele Nacherzählungen Cipolla fälschlich zuschreiben.
 
+### → [[DenkerVita/Franziska Meier|Franziska Meier]]
+
+Die Romanistin liest die Pest dort, wo Cipolla sie nicht sucht: bei Boccaccio, Thukydides und Camus. Seine Gesundheitsämter und Quarantänen sind für sie das formale Denken zum Schutz des Kollektivs, in das sich Camus' Arzt flüchtet, um das Massensterben auszuhalten. Cipolla zeigt, dass dieses Denken Leben rettete, Meier, was es den Einzelnen kostet.
+
 ---
 
 ## Gedankenwelten-Notes
@@ -190,6 +194,7 @@ Wie Menschen sich gegenseitig in dieselben Erzählungen ziehen, beschreibt Cipol
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Jonathan Haidt — Die moralischen Wurzeln]] — was als dumm erscheint, ist manchmal eine andere Moral-Sprache
 - [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — schnelles Kategorisieren als Beschränktheit, die noch keine Dummheit ist
 - [[Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory|Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Žižeks Idiot und Debiler als zweite Ordnung der Dummheit
+- [[Denker/Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben]] — Camus' *Pest* im Mai 2020: das Denken in Verordnungen, das Cipolla als Leistung der Gesundheitsämter beschreibt, als Flucht aus dem Einzelfall gelesen
 
 ---
 

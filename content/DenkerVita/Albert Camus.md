@@ -169,7 +169,7 @@ Die andere Seite gehört dazu. Seine Haltung im Algerienkrieg wird bis heute kri
 - [[DenkerVita/Ernst Tugendhat|Ernst Tugendhat]] — Beide fragen, wie man ohne Metaphysik ernsthaft leben und sterben kann. Tugendhat antwortet mit einer Relativierung zur Seite hin: sich als eine Mitte unter vielen sehen, bis zu einer Mystik ohne Gott. Camus bleibt beim Einzelnen, der dem Absurden ins Auge sieht. Ob er darin eine sanftere Flucht sähe, ist die offene Frage zwischen ihnen.
 - [[DenkerVita/Michael Hampe|Michael Hampe]] — Die leise Gegenstimme von heute. Für Camus beginnt das Bewusstsein, wenn sich im Gleichlauf von Straßenbahn, Büro und Schlaf eines Tages das „Warum?“ erhebt. Hampe hält schon die Frage für eine Abrichtung durch eine Sprache, die alles in Mittel und Zwecke verwandelt; Zwecklosigkeit ist für ihn Entlastung, keine Leere. Camus gibt das Verlangen nach Klarheit nie auf.
 
-**Weitere Stimmen:** [[DenkerVita/Martin Heidegger|Heidegger]] (Sein zum Tode und das Absurde beschreiben einen verwandten Befund, die Antworten heißen Eigentlichkeit und Revolte) · [[DenkerVita/Arthur Schopenhauer|Schopenhauer]] (sein Ausweg, die Verneinung des Willens, ist für Camus eine Flucht) · [[DenkerVita/Heino Falcke|Heino Falcke]] (der Gegenpol in der Frage nach Gott und dem Zufall) · [[DenkerVita/Edgar Morin|Edgar Morin]] (ein anderer Weg aus der KP, im Algerienkrieg ebenfalls zwischen den Lagern) · [[DenkerVita/Marco Buelow|Marco Bülow]] (übersetzt die Revolte in die „permanente Revolte“ eines Abgeordneten)
+**Weitere Stimmen:** [[DenkerVita/Martin Heidegger|Heidegger]] (Sein zum Tode und das Absurde beschreiben einen verwandten Befund, die Antworten heißen Eigentlichkeit und Revolte) · [[DenkerVita/Arthur Schopenhauer|Schopenhauer]] (sein Ausweg, die Verneinung des Willens, ist für Camus eine Flucht) · [[DenkerVita/Heino Falcke|Heino Falcke]] (der Gegenpol in der Frage nach Gott und dem Zufall) · [[DenkerVita/Edgar Morin|Edgar Morin]] (ein anderer Weg aus der KP, im Algerienkrieg ebenfalls zwischen den Lagern) · [[DenkerVita/Marco Buelow|Marco Bülow]] (übersetzt die Revolte in die „permanente Revolte“ eines Abgeordneten) · [[DenkerVita/Franziska Meier|Franziska Meier]] (die Göttinger Romanistin liest *Die Pest* 2020 als Roman über die Flucht in die Abstraktion und ein Leid, das sich nicht vermitteln lässt) · [[DenkerVita/Alice Kaplan|Alice Kaplan]] (erzählt aus den Verlagsarchiven, wie *Der Fremde* in Amerika zum Klassiker wurde)
 
 ---
 
@@ -178,6 +178,7 @@ Die andere Seite gehört dazu. Seine Haltung im Algerienkrieg wird bis heute kri
 **Camus im Mittelpunkt**
 - [[Walther Ziegler — Camus in 60 Minuten]] — das Gefühl des Absurden, Sisyphos, Revolte statt Revolution
 - [[Franziska Meier — Camus Die Pest]] — *Die Pest* im Corona-Frühjahr 2020: die Chronik, deren Erzähler sich in die Abstraktion rettet, und das Leid, das sich nicht vermitteln lässt
+- [[Alice Kaplan — Wie Der Fremde ein Klassiker wurde]] — wie *Der Fremde* 1946 nach Amerika kam: zwei Titel, eine Übersetzung mit zu vielen Anführungszeichen, eine Anzeige, die ihn zum Existenzialisten machte
 
 **Camus als Stimme**
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — der späte Camus aus *Der Fall*: Die Wahrheit blendet, die Lüge ist ein milder Dämmerschein

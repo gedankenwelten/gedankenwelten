@@ -381,6 +381,9 @@ Die stärkste Gegenstimme. Camus antwortet auf die Sinnfrage: Es gibt keinen Sin
 
 Harari hält die Wissenschaft für „fantasievoller als jede Mythologie“, aber für einen schlechten Geschichtenerzähler. Falckes Weltgeschichte aus Katastrophen, mit Konfettikanone und Krokodil, ist der Versuch, das Gegenteil zu zeigen. Gerade seine stärksten Bilder folgen jedoch dem Mechanismus, den Harari beschreibt: ein persönliches Drama, auf kosmische Größe geblasen. Die „Pubertät der Menschheit“ und „vor Gottes Augen bin ich gut genug“ sind in Hararis Lesart das Skript vom Kind, das der Vater liebt. Und beim Klima sieht Harari das Problem in den Systemen, nicht im Einzelnen, was Falckes Satz schärft, dass nicht alles von dir abhängt.
 
+### → [[Denker/Franziska Meier — Camus Die Pest#Das Kind|Franziska Meier — Der Krankheit einen Namen geben]]
+Die Szene, an der sich jede Theodizee messen lassen muss. In Camus' *Pest* stirbt ein Kind lange und qualvoll, der Jesuit Paneloux kann das Leiden danach nicht mehr Strafe nennen, und für Meier wird hier jeder Versuch, die Seuche zu deuten, fragwürdig. Falckes Antwort aus der Freiheit reicht nicht bis dorthin, ein Bazillus hat keine; er weiß es selbst, wenn er sagt, im Moment des Leidens helfe sie nicht viel.
+
 ---
 
 ## Weiterdenken

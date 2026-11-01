@@ -205,6 +205,8 @@ Diagnes Einwand gegen Levinas bekommt einen Gegenpol in der Frankfurter Soirée:
 
 Hampe macht mit dem freien Willen, was Kagame mit dem Cogito tat: Er schickt einen Grundbegriff durch eine fremde Sprache, das klassische Chinesisch, und findet dort kein Problem der Willensfreiheit. Wo Diagne in der Übersetzung das laterale Universale entstehen sieht, nennt Hampe den abstrakten Gegenstand ein „Produkt einer Übersetzungsnot“.
 
+### → [[Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
+Das Gegenbild zu Diagnes Übersetzung als Bewegung zwischen den Sprachen. Stuart Gilberts englischer *Fremder* von 1946 zähmte das Fremde: aus indirekter Rede wurde direkte, aus kargen Sätzen gefällige, aus Gleichgültigkeit Unentschlossenheit. Kaplan erzählt es aus den Verlagsarchiven, und am Ende steht Kamel Daoud, der dieselbe Geschichte vom anderen Ende des Strandes erzählt.
 
 ---
 

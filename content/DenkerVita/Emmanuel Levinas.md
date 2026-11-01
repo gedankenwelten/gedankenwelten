@@ -173,6 +173,8 @@ Die Passage, auf Englisch als *Ethics and Politics* im *Levinas Reader* (1989) b
 - [[DenkerVita/Simone Weil]] — die zweite große Stimme der Aufmerksamkeit für den Anderen, die Levinas 1952 in *Simone Weil contre la Bible* ohne Nachsicht angriff.
 - [[DenkerVita/Ernst Tugendhat]] — ebenfalls Heidegger-Hörer, der sich abwandte; beide nehmen das Ich aus der Mitte, Tugendhat durch Selbstrelativierung, Levinas durch den Anspruch des Anderen.
 
+- [[DenkerVita/Franziska Meier]] — liest Camus' *Pest* als Roman über den Übergang vom Gesicht zum Dritten: ein Arzt, der in Fällen und Verordnungen verschwindet, bis das sinnlose Leiden eines Kindes ihn zurückholt.
+
 ---
 
 ## Gedankenwelten-Notes

@@ -188,6 +188,7 @@ Krastevs Unterscheidung zwischen Hoffnung und Optimismus, an Václav Havel gewon
 - [[Geistesblitz/Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt|Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt]] — eigener Abschnitt: der Sinn von Politik ist Freiheit.
 - [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]] — die Rätedemokratie aus *Über die Revolution* als Fürsprache für sein Gegenmodell, mit wenig Empirie.
 - [[Zeitgeist/Philip Schlaffer — Kann man sich aendern|Philip Schlaffer — Kann man sich ändern?]] — Verzeihen als Heilmittel gegen die Unwiderruflichkeit des Handelns, und die Versöhnung aus ihrem Denktagebuch.
+- [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]] — ihr Artikel „French Existentialism“ (*The Nation*, Februar 1946) wurde zur Hauptquelle des FBI-Berichts über Camus
 
 ---
 

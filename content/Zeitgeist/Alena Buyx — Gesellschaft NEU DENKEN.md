@@ -438,6 +438,9 @@ Budes Erzählung von der Corona-Beratung und Marinićs Vorwurf, die Pandemie sei
 
 Prainsack, mit der Buyx den Solidaritätsbegriff entwickelt hat, liest dieselben Pandemiejahre strenger: Aus der offenen Solidarität sei eine schließende geworden, und eine Gesellschaft, die ständig verhandelt, wer hinein darf, vergiftet auch die, die drinnen sind. Buyx' Schaumkronendebatte beschreibt dieselbe Bühne von der anderen Seite: oben der Streit um die Ränder, darunter die Mehrheit, die half.
 
+### → [[Denker/Franziska Meier — Camus Die Pest#Eine illusionslose Ethik|Franziska Meier — Der Krankheit einen Namen geben]]
+Im Mai 2020, mitten in der ersten Welle, las Meier Camus' *Pest* als Roman über Helfer mit einer „illusionslosen Ethik des Handelns“, über jene also, die Buyx im Rückblick auf zwei Drittel bis drei Viertel beziffert. Dann fragt sie, was keine Zahl fasst: das Leid des Einzelnen, das sich nach der Quarantäne nicht vermitteln lässt und bei der Rückkehr zur Normalität an den Rand gerät.
+
 ---
 
 ## Weiterdenken

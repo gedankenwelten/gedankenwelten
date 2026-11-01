@@ -233,3 +233,9 @@ Camus' Revolte als politisches Programm eines Abgeordneten: Bülow beruft sich a
 
 Der Gegenentwurf: Falcke antwortet auf das Leid mit der Freiheit und auf den Zufall mit einem Sinn. Er rät, sich auf den zweitausend Jahre alten Stuhl irgendwann einfach zu setzen, also zu genau dem Sprung, den Camus verweigert.
 
+### → [[Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben]]
+Der Roman, der hier fehlt. Meier liest Camus über *Die Pest* von 1947, und dort begeht der Held eine Flucht, die in Zieglers Liste nicht steht: Dr. Rieux verweigert der Seuche jeden religiösen Sinn und richtet sich, um weiterarbeiten zu können, in der Abstraktion ein. Die Revolte im Kleinen bekommt bei ihr einen Preis.
+
+### → [[Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
+Woher das Etikett kommt, das diese Einführung wie fast alle trägt. Kaplan zeigt im Verlagsarchiv, wie eine Werbeanzeige in *Publishers Weekly* 1946 Camus in Amerika zum Existenzialisten machte, ein Wort, das er verabscheute, und wie eine Übersetzung aus Meursaults Gleichgültigkeit Unentschlossenheit werden ließ.
+

@@ -71,7 +71,10 @@ tags: [denker-vita, literatur, literaturwissenschaft, frankreich, italien, gesun
 
 ## Verbindungen zu anderen Denkern
 
-*→ Montaigne*
+- [[DenkerVita/Albert Camus|Albert Camus]] — Über ihn hat sie, soweit wir sehen, nur diesen einen Vortrag gehalten, im Mai 2020 über *Die Pest*. Sie liest den Roman von seiner Form her, als Chronik eines Arztes, der sich in die Abstraktion rettet, und lässt die Résistance-Lesart von 1947 neben der wörtlichen von 2020 stehen. Bei den fehlenden Arabern Orans folgt sie der Forschung, die Camus verteidigt; was seine Vita zu Algerien sammelt, von Conor Cruise O'Brien bis Kamel Daoud, reicht weiter als ihre Antwort.
+- [[DenkerVita/Carlo Cipolla|Carlo Cipolla]] — Zwei Kenner Italiens über die Pest. Cipolla las sie in den Akten toskanischer Gesundheitsämter des 17. Jahrhunderts und fand Verwaltung, die Leben rettete; Meier liest sie bei Boccaccio und Camus und findet, was dieselbe Ordnung dem Einzelnen nimmt.
+- [[DenkerVita/Emmanuel Levinas|Emmanuel Levinas]] — Die Szene, die Meier ins Zentrum stellt, das lange Sterben eines Kindes, liegt nahe an Levinas' *Das sinnlose Leiden*, das jede Rechtfertigung fremden Leidens die Quelle aller Unmoral nennt. Sein Dritter, mit dem aus der Ethik des einen Gesichts Recht und Institutionen werden, markiert den Übergang, an dem Rieux bei ihr den Einzelfall aus dem Blick verliert.
+- [[DenkerVita/Alice Kaplan|Alice Kaplan]] — Zwei Romanistinnen, die Camus von der Form und vom Weg seiner Bücher her lesen statt von der Lehre: Meier die Chronik der *Pest*, Kaplan die Übersetzung und Vermarktung des *Fremden*.
 
 ## Gedankenwelten-Notes
 

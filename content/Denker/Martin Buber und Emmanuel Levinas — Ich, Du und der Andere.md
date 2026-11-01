@@ -266,6 +266,9 @@ Arendts Satz, sie liebe Personen und keine Völker, ist Bubers Ich-Du als politi
 
 Ein Physiker und Laienprediger sagt, er wäre enttäuscht, ließe sich Gott beweisen, denn dann wären Freiheit und Geheimnis verschwunden. Das ist Bubers ewiges Du, das nie zum Es werden darf, aus der Sicht des Labors.
 
+### → [[Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben]]
+Der Dritte in der Seuche. Meier liest Camus' *Pest* als Roman über einen Arzt, der vor lauter Fällen und Verordnungen keine Gesichter mehr sieht, bis ein sterbendes Kind die Abstraktion zerreißt. Diese Note warnt, ohne den Dritten verbrenne der Helfer; der Roman zeigt die andere Seite, wie im Dritten der Einzelne verschwindet.
+
 ---
 
 ## Weiterdenken

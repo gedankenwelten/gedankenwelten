@@ -419,6 +419,20 @@ python3 .claude/scripts/sprecher_check.py schnitte  "URL" --transkript "DATEI.vt
    Redecker antwortet anders“). Gerade im ersten Teil ohne ▶-Marken lag die Fehlerzone.
 4. **Jedes Zitat mit Sprecher und Zeitmarke** (→ aristoteles, „Was andere sagen: nur mit Zeitmarke“). Ein
    Zitat, das sich keiner Stelle zuordnen lässt, bleibt draußen.
+5. **Synchronisierte und zweisprachige Sendungen** (seit 01.11.2026; Sternstunde, Arte, Talkshows mit
+   Übersetzung). Die Abschrift im Originalton enthält oft **nur den Gast**: Die Moderatorin spricht eine
+   andere Sprache und fällt heraus, und niemand sieht mehr, wo ihre Sätze enden. Bei Bregman wanderten so
+   Bleischs Pflanzen-Bild, „Ende der Durchsage“, Arendt, „Geschichtsblindheit“ und das Limmat-Beispiel zu ihm.
+   Darum **beide Abschriften nebeneinander** legen (gleiche Zeitmarken): Was nur in der synchronisierten
+   Fassung steht, gehört der Moderation. Zitate des Gastes aus dem Original, Bilder und Thesen der Moderation
+   mit ihrem Namen, auch wenn der Gast zustimmt.
+   **Einen behaupteten Übersetzungsfehler vor dem Schreiben am Ton prüfen** — Auto-Untertitel verhören sich
+   öfter als Synchronsprecher (Bregman: „der Harmloseste“ stand nur in den Untertiteln, gesprochen war
+   „der Schamloseste“). Kurzer Abschnitt genügt:
+   ```bash
+   yt-dlp -f ba -x --audio-format mp3 --download-sections "*4:30-4:58" -o "/tmp/stelle.%(ext)s" "URL"
+   mlx_whisper /tmp/stelle.mp3 --model mlx-community/whisper-large-v3-turbo --language de --output-format txt --output-dir /tmp
+   ```
 
 ---
 
