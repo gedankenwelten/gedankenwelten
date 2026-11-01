@@ -30,7 +30,7 @@ tags: [denker-vita, philosophie, systemtheorie, soziologie, erkenntnistheorie]
 
 ## Biografie
 
-Niklas Luhmann wächst in Lüneburg auf, Sohn eines Brauerei-Besitzers. Im Zweiten Weltkrieg wird er 1944, mit 17 Jahren, als Luftwaffenhelfer eingezogen und gerät kurz in amerikanische Kriegsgefangenschaft. Diese frühe Begegnung mit dem Absurden eines sinnlos erscheinenden Kriegssystems wird ihn prägen — er wird zeitlebens ein Denker, der Gesellschaft nicht moralisch, sondern strukturell beobachtet.
+Niklas Luhmann wächst in Lüneburg auf, Sohn eines Brauerei-Besitzers. Im Zweiten Weltkrieg wird er 1944, mit 16 Jahren, als Luftwaffenhelfer eingezogen und gerät kurz in amerikanische Kriegsgefangenschaft ([agso Graz](https://agso.uni-graz.at/archive/lexikon/klassiker/luhmann/26bio.htm)). Das Erste, was er dort erlebt: dass man ihm die Uhr vom Arm nimmt und ihn prügelt — die Hoffnung, nach dem Wegfall des Zwangsapparats werde alles von selbst in Ordnung sein, zerbricht daran ([systemagazin](https://www.systemagazin.de/beitraege/luhmann/bardmann_lebenwietheorie.php)). Diese frühe Begegnung mit dem Absurden eines sinnlos erscheinenden Kriegssystems wird ihn prägen — er wird zeitlebens ein Denker, der Gesellschaft nicht moralisch, sondern strukturell beobachtet.
 
 Nach dem Jurastudium in Freiburg (1946–1949) und dem ersten Staatsexamen arbeitet er als Verwaltungsjurist beim Oberverwaltungsgericht Lüneburg und später im niedersächsischen Kultusministerium. Ein Bürokrat. Ein schreibender Bürokrat, der in dieser Zeit beginnt, seinen Zettelkasten anzulegen — zunächst als Arbeitshilfe, dann als Lebenswerk.
 

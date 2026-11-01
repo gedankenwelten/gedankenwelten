@@ -284,6 +284,9 @@ Bei der Studienplatzvergabe haben beide ein Stück recht, und so hat es auch das
 
 ## Verbindungen
 
+### → [[Panorama/Was mit 17 geschah|Was mit 17 geschah]]
+Meidinger erzählt hier nebenbei, dass er einmal sitzen geblieben ist. Im Panorama steht dieser Satz neben anderen Weggabelungen der Jugend: Camus' Tuberkulose, Baberowskis Jahr auf dem Bau, Semsrotts verbotene Schülerzeitung.
+
 ### → [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
 
 Das Gespräch hängt im wachsenden Panorama an zwei Fragen, „Braucht Lernen eine Note?“ und „Sortiert die Schule nach Herkunft?“, und Nölte und Meidinger stehen dort neben Hüther, Zimpel, Maas und Bleisch. Das Panorama hält die Stelle offen, an der der Feldversuch an 75 Grundschulen kaum einen Unterschied fand, und fragt, ob der Streit um die Ziffer dann der richtige Streit ist.

@@ -84,15 +84,15 @@ Die Gedankenwelten (luc)
 >
 > Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
 
+> **01.11.** — [[Panorama/Was mit 17 geschah|Was mit 17 geschah]]
+>
+> Mit 17 weiß niemand, wohin er geht. Ein Torwart wird krank, einer bleibt sitzen, einer schämt sich für seine Naivität: Weggabelungen aus der Jugend von Menschen, die ihren Weg erst später fanden.
+
 > **01.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
-> **01.11.** — [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
->
-> 138 Millionen Kinder arbeiten, die meisten neben ihren Eltern, weil es anders nicht reicht. Was die Arbeit mit einem Kind macht, wo Mithelfen in Schaden kippt — und warum ein Verbot allein die Not nur verschiebt.
-
-> → *11 weitere in* [[Panorama]]
+> → *12 weitere in* [[Panorama]]
 
 ### Kultur
 

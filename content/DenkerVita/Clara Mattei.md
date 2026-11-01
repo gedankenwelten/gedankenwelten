@@ -37,7 +37,7 @@ tags: [denker-vita, kapitalismus, austerität, faschismus]
 
 Clara Mattei wächst zwischen den Welten auf — geboren in den USA, wo ihre Eltern Jura studieren, aufgewachsen zwischen Kalifornien und Italien. In Berkeley erlebt sie als Kind die Klassenrealität der amerikanischen Gesellschaft: Mitschüler aus Oakland, die in der Schule ihre einzige Mahlzeit bekommen; eine Klassenkameradin, die erzählt, dass ihre Familie sich die nötige Herzoperation nicht leisten kann.
 
-In Italien besucht sie das öffentliche Schulsystem, das in den 1990ern noch besser angesehen war als private Schulen. Der Libanonkrieg politisiert sie als Jugendliche — ein Geschichtslehrer gibt ihr Ilan Pappés Buch über die zwei Geschichtserzählungen Israels und Palästinas.
+In Italien besucht sie das öffentliche Schulsystem, das in den 1990ern noch besser angesehen war als private Schulen. Ein Libanonkrieg politisiert sie als Jugendliche (sie selbst sagt „2001, I believe“, gemeint ist wohl der Krieg von 2006). Ein Geschichtslehrer gibt ihr ein Buch, das sie Ilan Pappé zuschreibt: links die israelische, rechts die palästinensische Geschichte. Die Beschreibung passt eher auf *La storia dell'altro* (PRIME, 2003) ([Video ▶ 38:39](https://www.youtube.com/watch?v=TDFzziArmEs&t=2319)).
 
 Sie studiert Philosophie in Pavia, verbringt ein Jahr in Cambridge (Trinity College), macht ihren Master in Pavia und promoviert in Ökonomie an der Scuola Superiore Sant'Anna in Pisa (Doppelpromotion mit Strasbourg, 2016). An der New School for Social Research in New York — dem intellektuellen Exil der europäischen Linken — lehrt sie fast zehn Jahre lang Ökonomie. Anwar Shaikh, heterodoxer Ökonom an der New School, war der erste, der ihre Forschung ernst nahm.
 

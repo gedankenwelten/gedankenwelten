@@ -27,7 +27,7 @@ tags: [denker-vita, medien, israel, pressefreiheit]
 
 - **Beruf / Fachgebiet:** Journalistin, Dokumentarfilmerin, Buchredakteurin, Juristin; Pressefreiheits-Beauftragte der Union of Journalists in Israel
 - **Geburtsjahr / Nationalität:** 1953, Jerusalem — Israelin. Nachfahrin einer der ältesten jüdischen Familien Jerusalems (Herkunft Zaragoza/Saragossa, nach der Vertreibung durch die Spanische Inquisition Ende des 15. Jh. nach Jerusalem gekommen)
-- **Herkunft & Prägung:** Mit 17 schloss sie sich der Bewegung der israelischen *Black Panthers* an (mizrachische Bürgerrechtsbewegung) und nahm 1971 an deren großer Demonstration teil. Während des Militärdienstes erlebte sie 1973 den Jom-Kippur-Krieg.
+- **Herkunft & Prägung:** Mit 17 schloss sie sich der Bewegung der israelischen *Black Panthers* an (mizrachische Bürgerrechtsbewegung) und nahm im August 1971 an deren großer Demonstration teil. Während des Militärdienstes erlebte sie 1973 den Jom-Kippur-Krieg.
 
 **Wendepunkte im Werdegang:**
 

@@ -190,6 +190,9 @@ Und wenn die Sinnkrise kommt? Dann kann das Bild des Sisyphos Kraft geben. Nicht
 
 ## Verbindungen
 
+### → [[Panorama/Was mit 17 geschah|Was mit 17 geschah]]
+Wie der Torwart zum Philosophen wurde: Mit 17 beendet die Tuberkulose Camus' Fußballträume, im selben Herbst kommt sein Lehrer Jean Grenier. Im Panorama neben anderen Jugend-Weggabelungen.
+
 ### → [[Walther Ziegler — Sartre in 60 Minuten]]
 
 Die engste und spannungsreichste Verbindung. Sartre und Camus teilen die Ausgangslage: eine Welt ohne Gott, in der der Mensch radikal frei ist. Aber wo Sartre die Freiheit als *Verurteilung* beschreibt und daraus eine Pflicht zur politischen Aktion ableitet — inklusive der Legitimierung revolutionärer Gewalt —, besteht Camus auf der *Revolte im Kleinen* und lehnt jede Totalideologie ab. Der Bruch 1952 war die Konsequenz zweier unvereinbarer Antworten auf dieselbe Frage.

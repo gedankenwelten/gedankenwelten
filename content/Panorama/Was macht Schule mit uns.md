@@ -277,6 +277,9 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 
 ## Verbindungen
 
+### → [[Panorama/Was mit 17 geschah|Was mit 17 geschah]]
+Die andere Seite dieses Panoramas: Was Schule aus Kindern macht, fragt dieses hier. Dort steht, was Jugendliche zwischen 13 und 19 trotz der Schule, neben ihr und manchmal dank eines einzelnen Lehrers aus sich gemacht haben — einer blieb sitzen, einer musste die zehnte Klasse wiederholen, einer gründete eine verbotene Schülerzeitung.
+
 ### → [[Panorama/Warum Kinder arbeiten|Warum Kinder arbeiten]]
 Die andere Seite der Schulfrage: Kinder, denen die Schule fehlt, weil sie Geld kostet oder weil sie arbeiten müssen. Für Kevin, der nachmittags in einer bolivianischen Silbermine bohrt, ist die Schule der Ort, an dem er abschalten kann. Und Preußen verbot 1839 die Fabrikarbeit von Kindern vor allem, um die Schulpflicht durchzusetzen.
 

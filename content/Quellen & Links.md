@@ -5479,6 +5479,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Scherbakowa_Bota_Memorial_Erinnern_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Irina Scherbakowa]] · [[DenkerVita/Alice Bota]] |
 
+## Jugend — Panorama „Was mit 17 geschah“
+
+| | |
+|---|---|
+| **Notiz** | [[Panorama/Was mit 17 geschah]] |
+| **Grundlage** | 18 DenkerVitas, jede Stelle am Original geprüft (01.11.2026) |
+| **O-Töne** | [Camus über den Fußball (wallonica)](https://encyclo.wallonica.org/blog/2021/06/28/camus-ce-que-je-sais-de-la-morale-cest-au-football-que-je-le-dois-1953/) · [Gelegs bei Soffner](https://www.youtube.com/watch?v=ABwAN9QCyK0) · [Baberowski, Gespräch](https://www.youtube.com/watch?v=fQchzySVyb4) · [Semsrott, Spiegel 2007](https://www.spiegel.de/lebenundlernen/schule/21-unter-21-arne-semsrott-weltverbesserer-mit-biss-a-510602.html) · [Tekkal, brand eins 2021](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2021/marketing/die-traumfrau) · [Shi Heng Yi, Grenzgänger](https://www.youtube.com/watch?v=GgDNc6tBsXc) · [Tilo Jung](https://www.youtube.com/watch?v=fIPc1Ody4iE) · [Aly](https://www.youtube.com/watch?v=86Ljg_-KeIo) · [Lagodinsky, Körber](https://www.youtube.com/watch?v=0RhHezPZ3PQ) · [Thich Nhat Hanh, Plum Village](https://plumvillage.org/wp-content/uploads/2022/01/TNH-Extended-Biography-with-footnotes.pdf) · [Luhmann, systemagazin](https://www.systemagazin.de/beitraege/luhmann/bardmann_lebenwietheorie.php) · [Kant, Freunde Kants](https://freunde-kants.com/wp-content/uploads/2024/03/e49178_31c7c77b23f942bdb87efb6f228fd431.pdf) · [Malala, UN-Rede](https://malala.org/newsroom/malala-un-speech) |
+| **Biografisches** | [Chronik Camus 1930](https://camusaujourlejour.com/camus-en-1930/) · [Lyotard, SEP](https://plato.stanford.edu/entries/lyotard/) · [Brandt-Biografie 1913–1932](https://www.willy-brandt-biografie.de/t/1913-1932/) · [Klüssendorf, vorwärts](https://www.vorwaerts.de/parteileben/tim-kluessendorf-was-der-neue-generalsekretaer-mit-der-spd-bewegen-will) |
+
 ## Kinderarbeit — Panorama „Warum Kinder arbeiten“
 
 | | |

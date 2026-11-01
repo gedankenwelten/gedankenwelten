@@ -27,7 +27,7 @@ tags: [denker-vita, buddhismus, vipassana, meditation, interbeing, engaged-buddh
 > [!info] Wer spricht?
 > **Thich Nhat Hanh** (*11. Oktober 1926, Thua Thien, Vietnam — 22. Januar 2022*) — Zen-Meister, Dichter, Friedensaktivist; einer der bedeutendsten buddhistischen Lehrer des 20. Jahrhunderts.
 >
-> Mit 16 Jahren Mönch, mit 23 ordiniert. Im Vietnam-Krieg weigerte er sich, zwischen innerer Praxis und politischem Leid zu wählen — er nannte das "Engaged Buddhism". 1966 begann sein 39-jähriges Exil: Beide Seiten des Krieges wiesen ihn aus, nachdem er in den USA für Frieden warb. 1982 gründete er gemeinsam mit Chân Không das Plum Village in der Dordogne — heute Europas größtes buddhistisches Kloster. 2018 Rückkehr nach Vietnam. Er starb 2022 in seinem Heimatkloster Tu Hieu, im Alter von 95 Jahren.
+> Mit 16 Jahren Novize, mit 25 voll ordiniert. Im Vietnam-Krieg weigerte er sich, zwischen innerer Praxis und politischem Leid zu wählen — er nannte das "Engaged Buddhism". 1966 begann sein 39-jähriges Exil: Beide Seiten des Krieges wiesen ihn aus, nachdem er in den USA für Frieden warb. 1982 gründete er gemeinsam mit Chân Không das Plum Village in der Dordogne — heute Europas größtes buddhistisches Kloster. 2018 Rückkehr nach Vietnam. Er starb 2022 in seinem Heimatkloster Tu Hieu, im Alter von 95 Jahren.
 >
 > Wichtigste Werke: *Das Wunder der Achtsamkeit* (1975), *Interbeing* (1987), *Das Herz-Sutra* (1988), *Wie Siddhartha zum Buddha wurde* (1997)
 > Kernkonzepte: Interbeing (Interabhängigkeit), Engaged Buddhism, Achtsamkeit als Lebensform, Vier Edle Wahrheiten als Verbund
@@ -38,7 +38,7 @@ tags: [denker-vita, buddhismus, vipassana, meditation, interbeing, engaged-buddh
 
 ### Kindheit und Ordination im zerrissenen Vietnam
 
-Thich Nhat Hanh wurde 1926 in der zentralvietnamesischen Provinz Thua Thien geboren, in einer Zeit, als Vietnam noch französische Kolonie war. Mit 16 Jahren trat er in das Kloster Tu Hieu ein — einem Ort, zu dem er 76 Jahre später zum Sterben zurückkehren sollte. Mit 23 Jahren empfing er die vollständige Ordination als Mönch der Zen-Tradition (Thiền).
+Thich Nhat Hanh wurde 1926 in der zentralvietnamesischen Provinz Thua Thien geboren, in einer Zeit, als Vietnam noch französische Kolonie war. Mit 16 Jahren trat er 1942 in das Kloster Tu Hieu ein — einen Ort, zu dem er 2018 zurückkehrte und an dem er 2022 starb, 80 Jahre nach dem Eintritt. Die Novizengelübde folgten 1945, die vollständige Ordination als Mönch der Zen-Tradition (Thiền) 1951, mit 25 Jahren ([Plum Village, Extended Biography](https://plumvillage.org/wp-content/uploads/2022/01/TNH-Extended-Biography-with-footnotes.pdf)).
 
 Die 1950er Jahre waren geprägt von einem tiefen Widerspruch: Der Buddhismus in Vietnam war in konservativem Rückzug erstarrt, während das Land sich in einem fundamentalen politischen Umbruch befand. Thich Nhat Hanh gehörte zu den Mönchen, die auf Erneuerung drängten — nicht durch Aufgabe der Praxis, sondern durch ihre Ausweitung in die Welt.
 

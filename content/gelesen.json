@@ -354,11 +354,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 5,
      "aufrufe": 5
@@ -367,6 +362,11 @@
      "pfad": "/DenkerVita/Hans-Maggi",
      "leser": 4,
      "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "leser": 4,
+     "aufrufe": 4
     },
     {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",

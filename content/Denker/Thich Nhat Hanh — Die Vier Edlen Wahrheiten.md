@@ -33,7 +33,7 @@ Quelle: [The Four Noble Truths — Teaching by Thich Nhat Hanh](https://www.yout
 > [!info] Wer spricht?
 > **Thich Nhat Hanh** (*11. Oktober 1926, Thua Thien, Vietnam — 22. Januar 2022*) — Zen-Meister, Dichter, Friedensaktivist; einer der bedeutendsten buddhistischen Lehrer des 20. Jahrhunderts.
 >
-> Mit 16 Jahren Mönch, mit 23 ordiniert. Im Vietnam-Krieg weigerte er sich, zwischen innerer Praxis und politischem Leid zu wählen — er nannte das "Engaged Buddhism". 1966 begann sein 39-jähriges Exil: Beide Seiten des Krieges wiesen ihn aus, nachdem er in den USA für Frieden warb. 1982 gründete er gemeinsam mit Chân Không das Plum Village in der Dordogne — heute Europas größtes Kloster. 2018 Rückkehr nach Vietnam. Er starb 2022 in seinem Heimatkloster Tu Hieu, im Alter von 95 Jahren.
+> Mit 16 Jahren Novize, mit 25 voll ordiniert. Im Vietnam-Krieg weigerte er sich, zwischen innerer Praxis und politischem Leid zu wählen — er nannte das "Engaged Buddhism". 1966 begann sein 39-jähriges Exil: Beide Seiten des Krieges wiesen ihn aus, nachdem er in den USA für Frieden warb. 1982 gründete er gemeinsam mit Chân Không das Plum Village in der Dordogne — heute Europas größtes Kloster. 2018 Rückkehr nach Vietnam. Er starb 2022 in seinem Heimatkloster Tu Hieu, im Alter von 95 Jahren.
 >
 > Wichtigste Werke: *Das Wunder der Achtsamkeit* (1975), *Interbeing* (1987), *Das Herz-Sutra* (1988), *Wie Siddhartha zum Buddha wurde* (1997)
 > Kernkonzepte: Interbeing (Interabhängigkeit), Engaged Buddhism, Achtsamkeit als Lebensform, Vier Edle Wahrheiten als Verbund
