@@ -63,6 +63,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |
 | Warum Kinder arbeiten | [[Warum Kinder arbeiten]] | 5 + Fälle und Forschung |
 | Was mit 17 geschah | [[Was mit 17 geschah]] | 18 Viten, Jugend-Weggabelungen |
+| Darf Europa mit Diktaturen Handel treiben? | [[Darf Europa mit Diktaturen Handel treiben]] | Reihe „Die Frage, die liegen blieb“ · StreitClub + Forschung |
 | Kaufkraft | [[Kaufkraft]] | 9 |
 | Rente | [[Rente]] | 8 |
 | Energie | [[Energie]] | 15 |

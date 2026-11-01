@@ -41,7 +41,7 @@ tags:
 
 ## Wie es anfing
 
-Andi fing bei den Spielern an. Die Frage war, ob China, die USA und Russland gerade versuchen, Europa zu zerlegen, mit Desinformation, mit Hilfe für rechte Parteien, mit Zöllen und Drohungen. Beim Nachlesen verschob sich der Blick. Die Spieler wechseln, vor hundert Jahren hießen sie anders, und in fünfzig Jahren werden sie wieder anders heißen. Was bleibt, ist ein Prinzip: Kleine Länder gelten als Verfügungsmasse, als Puffer, als Vasallen, als Figuren, die man setzt, wie man sie gerade braucht, und opfert, wenn es sein muss. Gesprochen wird darüber selten, und wenn, dann wie über das Wetter.
+Luc fing bei den Spielern an. Die Frage war, ob China, die USA und Russland gerade versuchen, Europa zu zerlegen, mit Desinformation, mit Hilfe für rechte Parteien, mit Zöllen und Drohungen. Beim Nachlesen verschob sich der Blick. Die Spieler wechseln, vor hundert Jahren hießen sie anders, und in fünfzig Jahren werden sie wieder anders heißen. Was bleibt, ist ein Prinzip: Kleine Länder gelten als Verfügungsmasse, als Puffer, als Vasallen, als Figuren, die man setzt, wie man sie gerade braucht, und opfert, wenn es sein muss. Gesprochen wird darüber selten, und wenn, dann wie über das Wetter.
 
 Die Melier haben den Athenern übrigens geantwortet. Wer das Recht zerstöre, auf das sich der Bedrängte berufen kann, zerstöre einen gemeinsamen Schutz, und zwar auch den eigenen: Sollten die Athener einmal fallen, werde ihr Sturz *„a signal for the heaviest vengeance and an example for the world to meditate upon“* ([Thukydides V 90, Übers. Crawley](https://www.gutenberg.org/cache/epub/7142/pg7142.txt)). Melos wurde trotzdem erobert. Zwölf Jahre später kapitulierte Athen selbst.
 
@@ -98,7 +98,7 @@ Wer zahlt, steht seltener in den Protokollen. Im Sudan führen seit 2023 zwei Ar
 
 ## Warum wollen sie Europa in Einzelteilen?
 
-Hier wurde Andis erste Frage zum Fall. Drei Großmächte schauen aus drei Richtungen auf Europa, und zwei von ihnen haben aufgeschrieben, wie sie es haben wollen.
+Hier wurde Lucs erste Frage zum Fall. Drei Großmächte schauen aus drei Richtungen auf Europa, und zwei von ihnen haben aufgeschrieben, wie sie es haben wollen.
 
 Russlands Außenpolitisches Konzept vom 31. März 2023 zählt die Europäische Union ausdrücklich zu den Quellen der Bedrohung, neben den „unfreundlichen europäischen Staaten“, der NATO und dem Europarat. Was es sich wünscht, sind die Staaten Europas einzeln: Deren *„внешнеполитическая самостоятельность“*, ihre außenpolitische Selbständigkeit, werde der Sicherheit guttun ([Konzept, §§ 59–61](http://kremlin.ru/events/president/news/70811)). Die Praxis passt dazu: ein Kredit von 9,4 Millionen Euro einer russischen Bank für den Front National 2014, das Netz von „Voice of Europe“, das 2024 Europaabgeordnete bezahlt haben soll und das die EU danach verbot ([Rat der EU](https://www.consilium.europa.eu/en/press/press-releases/2024/05/17/russia-s-war-of-aggression-against-ukraine-council-bans-broadcasting-activities-in-the-european-union-of-four-more-russia-associated-media-outlets/)), die Kampagne Storm-1516, die die Bundesregierung im Dezember 2025 offiziell Russland zuschrieb ([Verfassungsschutzbericht 2025, S. 77](https://verfassungsschutzberichte.de/pdfs/vsbericht-2025.pdf)). Ein Aufsatz von 2025 untersucht das als Keilstrategie in zwei Richtungen, gegen die EU nach außen und in ihre Mitgliedstaaten hinein ([Kim & Simón 2025](https://doi.org/10.1080/13523260.2025.2492002)).
 

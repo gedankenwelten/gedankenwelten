@@ -5479,6 +5479,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Scherbakowa_Bota_Memorial_Erinnern_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Irina Scherbakowa]] · [[DenkerVita/Alice Bota]] |
 
+## Handel mit Diktaturen — Panorama „Darf Europa mit Diktaturen Handel treiben?“
+
+| | |
+|---|---|
+| **Video** | [StreitClub #17 „Europa allein zu Haus“](https://www.youtube.com/watch?v=he1g_SxnCkM) (Goethe-Universität Frankfurt, 21.04.2026), Frage ▶ 92:28, Serrao ▶ 100:04 |
+| **Notiz** | [[Panorama/Darf Europa mit Diktaturen Handel treiben]] |
+| **Transkript** | `Gedankenwelten/Transkripte/StreitClub_Europa_allein_zu_Haus_Transkript.txt` |
+| **Forschung** | [López-Córdova & Meissner 2008](https://doi.org/10.1353/wp.0.0016) · [Hafner-Burton 2005](https://doi.org/10.1017/S0020818305050216) · [Peksen 2009](https://doi.org/10.1177/0022343308098404) |
+| **Fall** | [EU-Kommission: Kambodscha verliert Zollfreiheit (12.08.2020)](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1469) |
+
 ## Jugend — Panorama „Was mit 17 geschah“
 
 | | |

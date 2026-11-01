@@ -303,6 +303,9 @@ Göpel differenziert scharf zwischen zwei Arten von „Bürokratie":
 
 ## Verbindungen
 
+### → [[Panorama/Darf Europa mit Diktaturen Handel treiben|Darf Europa mit Diktaturen Handel treiben?]]
+Heins Satz, dass „Wandel durch Handel“ immer nur die anderen wandeln sollte, steht dort neben der Forschung: Handel kann ein Land öffnen, aber langsam und nur unter Bedingungen.
+
 ### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
 
 Sie beschreibt Chinas Weg als „Häfen statt Stützpunkte", Heins Hambantota-Befund spricht dagegen. Sein Bündnis der Mittelmächte mit Japan, Australien und Indien ist genau das, was China laut ihr verhindern muss; ihr Gegenbild für Europa ist das Beiboot, das Verbindung zu allen Großen hält.

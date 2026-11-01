@@ -38,7 +38,7 @@ Quellen: eigene Recherche (ILO/UNICEF, Forschung mit DOI, Reportagen) · [ZDF lo
 
 ## Ein Stand im Supermarkt
 
-Ende Oktober, beim Einkaufen. Ein Stand von Save the Children, eine junge Frau spricht Andi an, und irgendwann fällt eine Zahl: 160 Millionen Kinder auf der Welt müssen arbeiten. Er nimmt sie mit nach Hause, und mit ihr einen Satz, der ihn nicht loslässt: *Kinder sind am ungeschütztesten, und ihre Traumata sind die Wirklichkeit der Zukunft.*
+Ende Oktober, beim Einkaufen. Ein Stand von Save the Children, eine junge Frau spricht Luc an, und irgendwann fällt eine Zahl: 160 Millionen Kinder auf der Welt müssen arbeiten. Er nimmt sie mit nach Hause, und mit ihr einen Satz, der ihn nicht loslässt: *Kinder sind am ungeschütztesten, und ihre Traumata sind die Wirklichkeit der Zukunft.*
 
 Die Zahl stimmte einmal. 160 Millionen war die Schätzung von ILO und UNICEF für 2020, nach einem Anstieg, der die Fachwelt erschreckt hatte. Für 2024 schätzen beide **knapp 138 Millionen** Kinder zwischen fünf und siebzehn, 22 Millionen weniger als vier Jahre zuvor. Seit dem Jahr 2000 hat sich die Zahl fast halbiert, von 246 Millionen, obwohl in derselben Zeit 230 Millionen Kinder mehr auf die Welt kamen. Das Ziel der Vereinten Nationen, Kinderarbeit bis 2025 zu beenden, ist trotzdem verfehlt. Bei gleichem Tempo bräuchte es dafür noch Jahrzehnte ([ILO/UNICEF, Juni 2025](https://www.ilo.org/resource/news/despite-progress-child-labour-still-affects-138-million-children-globally)).
 
@@ -49,7 +49,7 @@ Was die Zahl verdeckt, ist das Bild dahinter. Wer „Kinderarbeit" hört, sieht 
 - **54 Millionen** verrichten gefährliche Arbeit.
 - Zur Arbeit *gezwungen* im engen Sinn — Zwangsarbeit, Schuldknechtschaft, Menschenhandel — sind etwa **3,3 Millionen** Kinder, mehr als die Hälfte davon in sexueller Ausbeutung ([ILO, Walk Free, IOM 2022](https://www.ilo.org/resource/news/50-million-people-worldwide-modern-slavery-0)).
 
-Die übrigen arbeiten, „weil es anders nicht geht", wie Andi es am Stand hörte. Meist neben den Eltern, auf dem eigenen Feld, im eigenen Haus. Nur etwa jedes zehnte arbeitende Kind hängt an einer Lieferkette für den Weltmarkt ([terre des hommes](https://www.tdh.de/informieren/themen/kinderarbeit)).
+Die übrigen arbeiten, „weil es anders nicht geht", wie Luc es am Stand hörte. Meist neben den Eltern, auf dem eigenen Feld, im eigenen Haus. Nur etwa jedes zehnte arbeitende Kind hängt an einer Lieferkette für den Weltmarkt ([terre des hommes](https://www.tdh.de/informieren/themen/kinderarbeit)).
 
 Und damit die Frage, um die es hier geht: Warum schickt eine Mutter ihr Kind auf das Feld, ein Vater seinen Sohn in den Berg?
 
@@ -330,6 +330,9 @@ Und wer an die Wurzel will, landet bei einer Politik, die mit Kinderarbeit auf d
 ---
 
 ## Verbindungen
+
+### → [[Panorama/Darf Europa mit Diktaturen Handel treiben|Darf Europa mit Diktaturen Handel treiben?]]
+Dieselbe Lieferkette, die Frage einer Schülerin: Darf Europa mit Diktaturen handeln? Lieferkettengesetz und Zwangsarbeitsverbot sind dort Werkzeuge zwischen „weiter so“ und „Abbruch“.
 
 ### → [[Patrick Legun — Die Ziegelsklaven von Lahore]]
 Dieselbe Mechanik wie in Punjab und Sindh, aus der Nähe: ein Vertrag, den man nicht lesen kann, ein Familienlohn, der nur mit den Kindern aufgeht, und eine Schuld, die sich vererbt. Amba sagt, was sie täte, wenn sie frei wäre: ihre Kinder unterrichten lassen.

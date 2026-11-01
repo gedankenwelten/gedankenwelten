@@ -246,7 +246,7 @@ die erste Runde gewonnen. Abgewählt ist nicht verschwunden.
 ## Gleichmut-Spiegel
 
 > [!question] Wo krallt der Beobachter?
-> - **Verlangen:** Die Spur entstand aus Andis Satz „überall werden weniger autoritäre gewählt". Die Hoffnung darin
+> - **Verlangen:** Die Spur entstand aus Lucs Satz „überall werden weniger autoritäre gewählt". Die Hoffnung darin
 >   ist gut begründet und zugleich die Stelle, an der die Spur am leichtesten auf eine Erfolgsgeschichte zuläuft.
 >   Gegenmittel: Die These ist bewusst die skeptischere Lesart, und ihr Gegenteil ist registriert.
 > - **Das umgekehrte Verlangen:** Die skeptische These ist für die KI, die diese Spur schreibt, die bequemere. Sie
@@ -365,4 +365,4 @@ Drei ZDF-Korrespondenten legen am 28.10. Israel, Brasilien, Serbien und die USA 
 > - Wenn fast die Hälfte eines Landes die Abgewählten gewählt hat, *wessen Demokratie wird dann zurückgebaut?*
 > - Die Studentenliste stellte keine Studierenden auf und keinen bekannten Kopf. *Ist das Schutz vor der Vereinnahmung,
 >   oder das erste, woran eine Regierung scheitert, die niemand führt?*
-> - Was würde Andi in drei Jahren für gelungen halten, *und deckt sich das mit dem, was diese Spur vorab registriert hat?*
+> - Was würde Luc in drei Jahren für gelungen halten, *und deckt sich das mit dem, was diese Spur vorab registriert hat?*

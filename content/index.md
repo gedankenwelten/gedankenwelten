@@ -70,6 +70,30 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Denker]]
 
+### Geistesblitz
+
+> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
+>
+> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
+
+> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+>
+> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
+
+> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
+>
+> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
+
+> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+>
+> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
+
+> **28.10.** — [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024 — Erfinder in Valletta, und was aus ihnen wurde]]
+>
+> Zwei Tage auf Malta mit den Erfinderinnen und Erfindern Europas: ein Speicher ohne Berg, Solarzellen aus dem Drucker, Papier aus Laub. Zwei Jahre später lässt sich sehen, was getragen hat.
+
+> → *3 weitere in* [[Geistesblitz]]
+
 ### Panorama
 
 > **01.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
@@ -92,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
-> → *12 weitere in* [[Panorama]]
+> → *13 weitere in* [[Panorama]]
 
 ### Kultur
 
@@ -107,30 +131,6 @@ Die Gedankenwelten (luc)
 > **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
 >
 > Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
-
-### Geistesblitz
-
-> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
->
-> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
-
-> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
->
-> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
-
-> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
->
-> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
-
-> **28.10.** — [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024 — Erfinder in Valletta, und was aus ihnen wurde]]
->
-> Zwei Tage auf Malta mit den Erfinderinnen und Erfindern Europas: ein Speicher ohne Berg, Solarzellen aus dem Drucker, Papier aus Laub. Zwei Jahre später lässt sich sehen, was getragen hat.
-
-> **28.10.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
->
-> Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
-
-> → *2 weitere in* [[Geistesblitz]]
 
 ### Spuren
 

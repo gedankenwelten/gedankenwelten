@@ -117,7 +117,7 @@ Deitelhoff ordnet ein: Das Völkerrecht sei erstaunlich oft umgesetzt worden —
 
 [▶ 93:13](https://www.youtube.com/watch?v=he1g_SxnCkM&t=5593) — Auf die Schülerfrage, ob die EU mit Diktaturen Handel treiben dürfe, antwortet Strack-Zimmermann pragmatisch: Wenn Europa nur mit lupenreinen Demokratien handele, bleibe nicht viel übrig. Serrao argumentiert grundsätzlicher: Freier Handel mache Länder reicher, gebildeter, senke Kindersterblichkeit — auch im Umgang mit Diktaturen überwiege der Nutzen für die Bevölkerung.
 
-Friedman hält die europäische Position für Heuchelei: Wenn Regierungschefs in China auf Menschenrechte hinweisen und sich nichts ändert, sei das „Blabla". Die Frage der jungen Menschen bleibe unbeantwortet.
+Friedman hält die europäische Position für Heuchelei: Wenn Regierungschefs in China auf Menschenrechte hinweisen und sich nichts ändert, sei das „Blabla". Die Frage der jungen Menschen bleibe unbeantwortet. Ein paar Minuten später kommt Serrao ausdrücklich darauf zurück ([▶ 100:04](https://www.youtube.com/watch?v=he1g_SxnCkM&t=6004)): Ja, mit dem „Schweinehund“ Handel treiben, den Menschen zuliebe, die unter ihm leben; aus der Moderation kommt der Einwand, oft profitierten nur die Eliten. „Wir werden das Problem heute Abend nicht lösen.“ → [[Panorama/Darf Europa mit Diktaturen Handel treiben|Darf Europa mit Diktaturen Handel treiben?]]
 
 [▶ 104:39](https://www.youtube.com/watch?v=he1g_SxnCkM&t=6279) — Strack-Zimmermann benennt das Erpressungsinstrument: Europa nutze seine Marktmacht gegenüber Tech-Giganten nicht konsequent, weil die US-Administration drohe, im Gegenzug NATO-Truppen abzuziehen. Dieses Drohszenario verknüpfe Wirtschafts- und Sicherheitspolitik zu einem Teufelskreis.
 
@@ -177,6 +177,9 @@ Serrao bleibt skeptisch: Das sei eine „sehr deutsche Debatte". Vielfalt sei ei
 ---
 
 ## Verbindungen
+
+### → [[Panorama/Darf Europa mit Diktaturen Handel treiben|Darf Europa mit Diktaturen Handel treiben?]]
+Die Schülerfrage dieses Abends, aufgehoben: was die Forschung über Handel, Klauseln und Sanktionen weiß, und warum Serrao, Strack-Zimmermann und Friedman alle ein Stück recht haben.
 
 ### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 

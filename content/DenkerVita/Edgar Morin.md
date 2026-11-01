@@ -101,7 +101,7 @@ Wir ordnen Morin der undogmatischen Linken zu, mit einer Wendung, die sein Leben
 
 **Morin im Mittelpunkt**
 - [[Edgar Morin — Das komplexe Denken]] — sein Weg vom Autodidakten ohne Bibliothek über Résistance und Parteiausschluss zur *pensée complexe*, entlang der ARTE-Doku
-- [[Das verwobene Denken — im Geiste Edgar Morins]] — Andis eigener Gedanke mit Morin: Wenn ein Thema zwei wahre Seiten hat, liegt der Fehler im Rahmen
+- [[Das verwobene Denken — im Geiste Edgar Morins]] — Lucs eigener Gedanke mit Morin: Wenn ein Thema zwei wahre Seiten hat, liegt der Fehler im Rahmen
 
 **Morin als Bezugspunkt**
 - [[Adam Tooze und Maja Goepel — Die Polykrise]] — Tooze hält Morin einen Nachruf und führt den Begriff Polykrise auf ihn zurück

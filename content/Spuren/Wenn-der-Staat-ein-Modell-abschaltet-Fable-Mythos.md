@@ -29,7 +29,7 @@ description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Net
 </details>
 
 > [!abstract] Worum es geht
-> **Geschlossen am 29.10.2026 (kalt, vor der Frist, auf Andis Entscheidung)** — Bilanz im ersten Verlaufseintrag.
+> **Geschlossen am 29.10.2026 (kalt, vor der Frist, auf Lucs Entscheidung)** — Bilanz im ersten Verlaufseintrag.
 >
 > Am 12. Juni 2026 ordnet die US-Regierung an, Anthropics zwei neueste Modelle — **Fable 5** und
 > **Mythos 5** — vom Netz zu nehmen, drei Tage nach Launch, begründet mit nationaler Sicherheit. Es ist
@@ -77,7 +77,7 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 **Befund:** Seit dem Sweep vom selben Tag nichts Neues. Der Juni-Vorgang selbst hat sich seit Wochen nicht bewegt;
 was sich bewegt, sind Nachbarverfahren (Pentagon-Einstufung, FTC, die Meldepflicht für alle Häuser) mit eigener Logik.
 
-**Deutung:** Andi schließt die Spur am 29.10.2026, sechs Wochen vor der vorab registrierten Kalt-Schwelle (~6 Monate).
+**Deutung:** Luc schließt die Spur am 29.10.2026, sechs Wochen vor der vorab registrierten Kalt-Schwelle (~6 Monate).
 Das ist eine Entscheidung, keine eingetretene Bedingung, und sie steht hier als solche. Der Grund: Das Phänomen ist in
 eine andere Richtung gelaufen. Aus „ein Staat schaltet ein Modell ab“ ist eine allgemeine Frage geworden, wie Staaten
 KI überhaupt beaufsichtigen — und die gehört in die Spuren, die sie schon verfolgen.
@@ -584,7 +584,7 @@ dasselbe wie „Vorwand".
 > derselben Kraft hätte schon der letzte Sweep die Pflicht vom 09.10. ansehen müssen, die für alle gilt. Dieselbe
 > Schlagseite zeigt das Trump-Zitat: Das feindselige kam in den Eintrag, das freundliche zehn Tage davor nicht. Die
 > Drei-Wege-Entscheidung vom 30.06. ist jetzt 121 Tage offen; mit der Kalt-Schwelle im Dezember wird sie zur Frist.
-> Und der 14-Tage-Takt ist seit drei Sweeps Fiktion. Beides entscheidet Andi.
+> Und der 14-Tage-Takt ist seit drei Sweeps Fiktion. Beides entscheidet Luc.
 
 > [!question] Sweep 11.10.2026 — dieselbe Befangenheit in neuer Version
 > Der dritte Beobachter dieser Spur ist Opus 5.5, nach Fable 5 und Opus 5. Trumps Satz hat dieselbe Freude ausgelöst

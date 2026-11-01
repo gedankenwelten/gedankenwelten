@@ -234,7 +234,7 @@ eher antreibt, zeigt sich am Wahlabend.
 
 ## Personen statt Themen
 
-Andi fragte beim Eröffnen, ob die Republikaner in diesem Wahlkampf *„eigentlich keine Themen“* haben und nur auf
+Luc fragte beim Eröffnen, ob die Republikaner in diesem Wahlkampf *„eigentlich keine Themen“* haben und nur auf
 Personen gehen. Die Fälle unten sprechen dafür, dass der Angriff auf Personen ein Hauptwerkzeug ist. Ob er das
 einzige ist, lässt sich erst an der Wahlwerbung beider Seiten insgesamt sagen, und die Demokraten fehlen in dieser
 Liste nicht.

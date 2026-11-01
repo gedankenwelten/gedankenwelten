@@ -85,7 +85,7 @@ Die Grauzone wird nie zu Stufe A gezählt, aber offen ausgewiesen, mit der Angab
 
 **Zählregel Fraktionsausschluss, vorab registriert am 20.10.2026**, auf Andreas' Entscheidung, während der Fraktionsvorstand über Vanessa Emde berät und bevor ein Ergebnis bekannt ist. Schließt die Linksfraktion Emde aus, zählt das **nicht als einer der vier Schritte**. Ihr Satz steht nach dem Maßstab dieser Spur in der Grauzone, und der Ausschluss würde mit Disziplin begründet: mit der Mandatsträgervereinbarung und der zurückgezogenen Unterschrift, nicht mit dem Inhalt im Kern. Er wird unter Kriterium 5 als Befund geführt, als erste Konsequenz gegen eine Berliner Mandatsträgerin, und geht in die Gegenbeobachtung ein. Die Konfidenz darf sich dadurch leicht bewegen, die Stufe nicht. Dasselbe gilt für weichere Schritte wie das Sprechverbot vom 16.10.
 
-**Erweiterung der Zählregel, vorab registriert am 29.10.2026**, auf Andis Entscheidung, vor der Fraktionssitzung am
+**Erweiterung der Zählregel, vorab registriert am 29.10.2026**, auf Lucs Entscheidung, vor der Fraktionssitzung am
 03.11. und bevor ein Antrag gestellt ist. Was für den Fraktionsausschluss gilt, gilt auch für den Weg über die
 **Mandatsträgervereinbarung**: Schlagen Vorstände einem Parteitag vor, Vanessa Emde zur Rückgabe des Mandats
 aufzufordern, oder fasst ein Parteitag einen solchen Beschluss, zählt das **nicht als Schritt 1**, sondern als Befund
@@ -370,7 +370,7 @@ Für das Urteil über die Partei spielt diese Messung nach der eigenen Regel kei
 > - **Wachpunkt Hauptschauplatz:** Neukölln ist, wo die Kameras stehen. Künftige Sweeps suchen auch daneben: andere Landesverbände, Kommunalparlamente, die Arbeit der BAG Shalom, und die Fälle, in denen die Partei gehandelt hat und niemand darüber berichtet.
 
 > [!question] Sweep 29.10.2026 — der Leser liest strenger als der Maßstab
-> Andi bevorzugt die Zwei-Staaten-Lösung. Emdes Satz, Staaten hätten kein Existenzrecht, und ihre Einstaatenlösung
+> Luc bevorzugt die Zwei-Staaten-Lösung. Emdes Satz, Staaten hätten kein Existenzrecht, und ihre Einstaatenlösung
 > liest er darum strenger, als der Maßstab dieser Spur es verlangt. Gemessen wird am Maßstab, nicht an der Präferenz:
 > Die Einstaatenlösung ist nach JDA nicht per se antisemitisch, und darum bleibt der Satz Grauzone. Die zweite
 > Versuchung geht in die Gegenrichtung: Joffes Widerspruch gegen den Rauswurf fühlt sich an wie Entlastung. Er ist es

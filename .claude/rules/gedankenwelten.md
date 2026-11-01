@@ -24,10 +24,10 @@ Gedankenwelten/
 - Neue DenkerVitas → `content/DenkerVita/` (angelegt von Humboldt)
 - Neue Panoramas → `content/Panorama/` (manuell, on demand)
 - Stil orientiert sich an bestehenden Notes (Frontmatter, Callouts, Wikilinks)
-- **Andi in den Notes** (seit 24.10.2026): Wo Andreas in einer Note als Person vorkommt — Nachbesprechung, Gedanken,
-  persönlicher Einstieg in Panorama oder Spur —, heißt er **Andi**. „Meine Freunde nennen mich so. Die Gedankenwelten
-  sind mein Herzensprojekt." Alte Notes nicht massenhaft umschreiben (viele Treffer sind andere Andreasse); nur
-  mitziehen, wenn eine Note ohnehin angefasst wird und es eindeutig um ihn geht. Autoren-Tag bleibt `luc`.
+- **Luc in den Notes** (seit 01.11.2026, wieder): Wo Andreas in einer Note als Person vorkommt — Nachbesprechung,
+  Gedanken, persönlicher Einstieg in Panorama oder Spur —, heißt er **Luc**, sein Künstlername. Der Klarname steht im
+  Impressum; „Wie die Notes entstehen" verbindet beides. Vom 24.10. bis 01.11.2026 hieß er hier „Andi" — das ist
+  zurückgenommen, alle Stellen sind umgestellt. Autoren-Tag bleibt `luc`.
 
 ## Geistesblitz
 

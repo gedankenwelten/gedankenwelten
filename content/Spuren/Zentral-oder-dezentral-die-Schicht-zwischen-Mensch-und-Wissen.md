@@ -91,7 +91,7 @@ verschiedene Richtungen; das ist die Ehrlichkeit der These.*
 
 ### 2026-10-29 — Das Geld folgt den offenen Tokens, die Spitze zieht davon, und lokal wird teuer (Konfidenz 37 % → 34 %)
 
-*Dieser Sweep nimmt auf Andis Wunsch die Datenader genauer in den Blick: private und lokale KI. Was vor dem 11.10.
+*Dieser Sweep nimmt auf Lucs Wunsch die Datenader genauer in den Blick: private und lokale KI. Was vor dem 11.10.
 geschah und bisher fehlte, ist als Nachtrag markiert.*
 
 **Befund — Modell und Cloud:**
@@ -349,7 +349,7 @@ die US-Champions von Commoditisierung. Dazu: Bequemlichkeit schlägt fast immer 
 > [!question] Sweep 29.10.2026 — gleiches Maß für zwei geänderte Messungen
 > Die unbequeme Zahl ist diesmal die 26: Sie wäre leicht als Messartefakt abzutun, gerade weil sie gegen die Hoffnung
 > der Spur spricht. Die 23 % beim Geld würde ich dagegen gern unbesehen nehmen, obwohl sie auf derselben Art
-> Definitionswechsel beruht. Keine der beiden trägt allein. Und Andis eigener Wunsch nach privater KI liegt nahe an der
+> Definitionswechsel beruht. Keine der beiden trägt allein. Und Lucs eigener Wunsch nach privater KI liegt nahe an der
 > These; darum steht die Datenader-Bilanz, die gegen sie spricht, hier ohne Abschwächung.
 
 > [!question] Sweep 11.10.2026 — das schönste Datum, vom falschen Zeugen

@@ -7,7 +7,7 @@ tags: []
 
 **Ein Impuls, keine Wahrheit.** Die Texte hier sollen zum Nachdenken anregen, mehr nicht. Was davon trägt, entscheidest du.
 
-**Mit KI geschrieben, von einem Menschen verantwortet.** Die Notes entstehen in Zusammenarbeit zwischen Andi und einer KI, Claude von Anthropic. Die KI liest Transkripte, schreibt Entwürfe, sucht Studien und prüft Behauptungen an Quellen. Andi wählt aus, was hier erscheint, gibt die Richtung vor, liest gegen und trägt die Verantwortung.
+**Mit KI geschrieben, von einem Menschen verantwortet.** Die Notes entstehen in Zusammenarbeit zwischen Luc und einer KI, Claude von Anthropic. Luc ist der Künstlername von Andreas Schmieder, der im [[Impressum]] steht. Die KI liest Transkripte, schreibt Entwürfe, sucht Studien und prüft Behauptungen an Quellen. Luc wählt aus, was hier erscheint, gibt die Richtung vor, liest gegen und trägt die Verantwortung.
 
 Ehrlich gesagt: Nicht jede Note hat er Satz für Satz gelesen, bevor sie online ging. Darum steht über jeder Note *mit KI geschrieben*.
 
