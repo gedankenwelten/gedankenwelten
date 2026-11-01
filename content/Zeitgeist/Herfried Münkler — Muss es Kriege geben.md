@@ -24,6 +24,16 @@ aliases:
 
 # Herfried Münkler — Muss es Kriege geben?
 
+![[assets/Herfried-Muenkler-Muss-es-Kriege-geben-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel der Ältere** — Öl auf Eichenholz, hoher Horizont, die Welt von oben, unzählige kleine Figuren in Erdtönen. Bruegel malte das Dorf und den Krieg in derselben Landschaft. Links ein Dorf der Jungsteinzeit hinter der Palisade, volle Speicher, ein Erntetanz. Rechts sammeln sich Männer mit Keulen und Bögen im Schilf und gehen über die Brücke, auf dem Hügel bläst ein Wächter das Horn. Münklers These in einem Bild: Mit den Vorräten entsteht der Wunsch nach Frieden und zugleich die Beute.
+
+*Prompt:* Wide panoramic painting in the manner of Pieter Bruegel the Elder, oil on oak panel, high horizon bird's-eye view, many small figures, earthy greens, ochres, browns and muted reds. On the left a prosperous Neolithic farming village inside a wooden palisade: thatched longhouses, full granaries and storage pits, villagers dancing in a ring at a harvest feast, children and goats. A winding river runs through the middle of the landscape, crossed by a narrow wooden causeway bridge. On the right bank, small groups of men with wooden clubs, bows and flint axes gather in the reeds and begin to cross toward the village, while on a low hill a lone watchman lifts a horn. One continuous sky and light over both halves. Fine detail, no realistic faces, no text, no letters, no signature.
+
+</details>
+
 Quelle: [Muss es Kriege geben, Herfried Münkler?](https://www.youtube.com/watch?v=8mUq5dH47Y0) — Podcast "Nur eine Frage" (DIE ZEIT)
 
 > [!info] Wer spricht?

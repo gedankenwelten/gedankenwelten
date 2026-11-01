@@ -18,6 +18,16 @@ aliases:
 
 # Arne Semsrott — Zur Gegenmacht
 
+![[assets/Semsrott-Zur-Gegenmacht-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Jacob Lawrence** — flache Tempera, kantige Formen, Schwarz, Ocker, Ziegelrot, Kobaltblau. Lawrence erzählte Geschichte als Rhythmus vieler Menschen, die gemeinsam etwas tun. Hier ein Haus im Querschnitt, in jedem Raum eine Hilfe: Kochen in großen Töpfen für Fremde, Kisten voller Spenden auf der Treppe, Akten, die aus dem geöffneten Schrank von Hand zu Hand gehen, ein Fahrrad, das für ein Kind repariert wird. Oben auf einem kleinen Balkon schauen zwei Anzugträger herab. Semsrotts Schluss: Die Gegenmacht ist schon da, sie ist nur nicht zu sehen.
+
+*Prompt:* Wide panoramic painting in the manner of Jacob Lawrence, flat opaque tempera on board, bold simplified angular shapes, strong blacks, ochre, brick red, cobalt blue and white, matte surface. A tall city apartment building shown in cross-section like a cutaway dollhouse: in every room and doorway small groups of people are busy helping, cooking in big pots for strangers, carrying boxes of donated clothes down the stairs, a woman pulling thick folders of papers out of an opened grey filing cabinet and passing them hand to hand to her neighbors, people sewing, a man repairing a bicycle for a child, an old woman teaching a young man at a kitchen table. At the very top, on a tiny separate balcony, three small men in dark suits look down, isolated. Rhythmic repetition of figures, dynamic diagonals of stairs. No realistic faces, no text, no letters, no readable signs, no signature.
+
+</details>
+
 Quelle: [re:publica 26 — Zur Gegenmacht](https://www.youtube.com/watch?v=7waHkzEHcuw)
 
 > [!info] Wer spricht?

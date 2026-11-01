@@ -17,6 +17,16 @@ aliases:
 
 # Matthias Quent und Maja Göpel — Extremismus NEU DENKEN
 
+![[assets/Matthias-Quent-und-Maja-Goepel-Extremismus-NEU-DENKEN-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel** — Holzschnitt, harte schwarze Flächen, weiße Hohlbeiß-Spuren, ein einziger Ocker-Akzent. Masereel erzählte in Holzschnitten von Masse und Einzelnem. Links ein Lautsprecher, der Strahlen auf eine geduckte Menge schickt: Faschismus als Technik der Emotionalisierung, Ohnmacht als Rohstoff. Rechts richten Menschen gemeinsam einen Dachstuhl auf, ein Kind reicht den Hammer, eine Frau pflanzt einen Baum: „Hoffnung kommt vom Machen“. Dazwischen wendet sich einer ab und geht hinüber.
+
+*Prompt:* Wide panoramic black-and-white woodcut in the manner of Frans Masereel, bold carved black masses, crisp white gouge marks, visible wood grain, with one single accent of warm ochre. On the left a huge loudspeaker horn mounted on a tall pole blasts jagged white rays down onto a dense crowd of small hunched figures with bowed heads and long shadows. On the right a group of people of different ages work together to raise the wooden frame of a house, two of them lifting a roof beam, a child handing up a hammer, one woman planting a young tree, the ochre accent in the rising sun behind them. In the middle one figure turns away from the horn and walks toward the builders. Expressive, humane, no realistic faces, no text, no letters, no signature.
+
+</details>
+
 Quelle: [Extremismus NEU DENKEN mit Matthias Quent und Maja Göpel](https://www.youtube.com/watch?v=ysX7UyTNiXY)
 
 > [!info] Wer spricht?

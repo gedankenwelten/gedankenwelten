@@ -18,6 +18,16 @@ aliases:
 
 # re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?
 
+![[assets/republica26-Social-Media-Verbot-fuer-Kinder-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Winslow Homer** — Aquarell aufs Meer, lose Lasuren, das Weiß des Papiers als Licht auf dem Wasser, ein einziges grelles Orange. Homer hat ein Leben lang kleine Boote gegen große See gemalt. Hier ist es Kerstin Paschkes Bild aus dem Gespräch: ein Kind im Ruderboot, in Schwimmweste, ein Erwachsener stützt es, und daneben die Stahlwand des Containerschiffs, des Digital Services Act. Oben an der Reling sucht die Crew mit Laternen nach den Gefahren, und unten schlägt schon die Bugwelle ins Boot.
+
+*Prompt:* Wide panoramic watercolor in the manner of Winslow Homer, transparent washes, white paper left bare as light on the water, loose confident brushwork, sea greens, slate greys and one bright orange. A small wooden rowboat on choppy grey-green water in the lower left, a child of about twelve sitting in it in a bright orange life vest gripping the oars, an adult in the stern leaning forward to steady the boat. Towering over the right half of the picture, the dark rusted steel hull of an enormous container ship with stacks of colored containers, its bow wave throwing spray toward the little boat. High up at the railing, tiny figures of a crew with lanterns peer down over the side, searching the water. Overcast sky, wind, spray. No realistic faces, no text, no letters, no logos, no signature.
+
+</details>
+
 Quelle: [Offline per Gesetz – Brauchen wir ein Social-Media-Verbot für Kinder und Jugendliche?](https://www.youtube.com/watch?v=CBON-RRXx9Y)
 
 > [!info] Wer spricht?
