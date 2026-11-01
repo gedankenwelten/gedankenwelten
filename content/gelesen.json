@@ -40,8 +40,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 24,
-   "aufrufe": 26
+   "leser": 23,
+   "aufrufe": 25
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -650,8 +650,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 24,
-     "aufrufe": 26
+     "leser": 23,
+     "aufrufe": 25
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -1549,12 +1549,12 @@
      "aufrufe": 30
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 19,
-     "aufrufe": 19
+     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "leser": 18,
+     "aufrufe": 18
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "pfad": "/DenkerVita/Hans-Maggi",
      "leser": 18,
      "aufrufe": 18
     },

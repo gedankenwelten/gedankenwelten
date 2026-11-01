@@ -5498,6 +5498,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe]] |
 | **Transkript** | `Gedankenwelten/Transkripte/DieFrage_TelefonSeelsorge_Transkript.txt` · `Gedankenwelten/Transkripte/ehrenwert_TelefonSeelsorge_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Dagmar Simonsen]] |
+| **Ergänzung** | [Nummer gegen Kummer: Jugendliche beraten Jugendliche](https://www.youtube.com/watch?v=NvSmYq-2N1o) (Video, 08.10.2026, Gift Chuma) · [Jugendhilfeportal: 30 Jahre](https://jugendhilfeportal.de/artikel/30-jahre-jugendliche-beraten-jugendliche) |
 
 ## Handel mit Diktaturen — Panorama „Darf Europa mit Diktaturen Handel treiben?“
 

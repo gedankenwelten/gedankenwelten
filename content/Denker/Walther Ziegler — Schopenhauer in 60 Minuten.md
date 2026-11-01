@@ -178,7 +178,7 @@ Wichtig: Selbstmord ist kein Ausweg. Der Selbstmörder „verneint nur das Indiv
 
 ### Pessimismus als Lebensweisheit — Schopenhauer gegen Hegel
 
-[▶ 54:20](https://www.youtube.com/watch?v=rLZqoXsyvp4&t=3260) — Schopenhauer räumt ein: Die Verneinung des Willens schaffen nur „ganz, ganz wenige Ausnahme-Menschen" — wie Meister Eckhart oder Buddha. Er selbst war kein Asket: Er aß gerne und viel. Camus schrieb später, Schopenhauer habe „uns immer aufgefordert, Nein zu sagen zum Leben — und zwar meistens an einer gut gedeckten Tafel, zwischen dem dritten und vierten Gang."
+[▶ 54:20](https://www.youtube.com/watch?v=rLZqoXsyvp4&t=3260) — Schopenhauer räumt ein: Die Verneinung des Willens schaffen nur „ganz, ganz wenige Ausnahme-Menschen" — wie Meister Eckhart oder Buddha. Er selbst war kein Asket: Er aß gerne und viel. [▶ 55:05](https://www.youtube.com/watch?v=rLZqoXsyvp4&t=3305) Ziegler legt Camus dazu einen Spott in den Mund: Schopenhauer habe uns aufgefordert, Nein zu sagen zum Leben, meistens an einer gut gedeckten Tafel, zwischen dem dritten und vierten Gang. Bei Camus steht es anders herum. Im *Mythos des Sisyphos* (1942) schreibt er, man zitiere Schopenhauer oft, *um darüber zu lachen*, dass er an einer gut gedeckten Tafel den Selbstmord pries, und fügt hinzu: *„Il n'y a point là matière à plaisanterie“*, darüber gibt es nichts zu scherzen. Dass Denken und Leben auseinanderklaffen, ist für Camus kein Grund zum Spott, sondern der Anfang seiner Frage.
 
 [▶ 55:52](https://www.youtube.com/watch?v=rLZqoXsyvp4&t=3352) — Schopenhauers Verteidigung: *„Es ist so wenig nötig, dass der Philosoph ein Heiliger sei, so wie es nicht nötig ist, dass ein großer Bildhauer auch selbst ein schöner Mensch sei."* Michelangelo hatte ein Bäuchlein — und trotzdem ist sein David perfekt.
 
@@ -212,7 +212,7 @@ Wichtig: Selbstmord ist kein Ausweg. Der Selbstmörder „verneint nur das Indiv
 - Thomas Hobbes: *Homo homini lupus*
 - Dante Alighieri: *Divina Commedia*
 - Club of Rome: *Die Grenzen des Wachstums* (1972)
-- Albert Camus: Kritik an Schopenhauers Lebenspraxis
+- Albert Camus: *Der Mythos des Sisyphos* (1942), Kapitel „Das Absurde und der Selbstmord“: nimmt Schopenhauers gedeckte Tafel gegen den Spott in Schutz
 
 ---
 
@@ -240,7 +240,7 @@ Wichtig: Selbstmord ist kein Ausweg. Der Selbstmörder „verneint nur das Indiv
 - [[Walther Ziegler — Kafka in 60 Minuten]] — Schopenhauer sieht den Menschen getrieben vom blinden Willen zum Leben; Kafka zeigt, dass dieses Leben ohne Seinszuspruch nicht funktioniert — der Wille allein reicht nicht
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Rawls begründet Moral durch rationale Übereinkunft statt durch Schopenhauers Mitleid
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Gegenentwurf: Adriaan widerlegt Schopenhauers Rückzugs-Konsequenz aus buddhistischen Prämissen durch engagierten Buddhismus
-- [[Walther Ziegler — Camus in 60 Minuten]] — Camus teilt Schopenhauers Diagnose (das Leben ist absurd/leidvoll), lehnt aber die Therapie ab: Keine Verneinung des Willens, keine Flucht in Askese oder Nirwana — stattdessen trotzige Bejahung. Sisyphos rollt den Felsen weiter, wo Schopenhauer loslassen will
+- [[Walther Ziegler — Camus in 60 Minuten]] — Beide misstrauen jedem Trost, aber ihre Diagnosen sind nicht dieselbe: Bei Schopenhauer ist das Leben Leiden, bei Camus ist das Absurde die Kluft zwischen der Frage des Menschen und dem Schweigen der Welt. Die Therapie lehnt Camus ab: Keine Verneinung des Willens, keine Flucht in Askese oder Nirwana — stattdessen trotzige Bejahung. Sisyphos rollt den Felsen weiter, wo Schopenhauer loslassen will
 - [[Walther Ziegler — Konfuzius in 60 Minuten]] — Konfuzius' Achsenzeit-Genosse Buddha und Schopenhauers Willensphilosophie konvergieren: Beide sehen im Begehren die Wurzel des Leidens. Konfuzius ist der aktive Gegenpart — er zieht nicht in den Wald, sondern in die Gesellschaft
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas Vier Edle Wahrheiten sind der Originaltext zu Schopenhauers sechsfachem Leiden: dieselbe Diagnose (Begehren als Wurzel des Leidens), aber Buddha bietet den konkreten Übungsweg (Achtfacher Pfad), den Schopenhauer nur theoretisch skizziert
 - [[Walther Ziegler — Freud in 60 Minuten]] — Schopenhauers *Wille zum Leben* und Freuds *Es* sind strukturell identisch: ein blinder, vernunftloser Drang ohne Moral. Aber die Konsequenzen sind entgegengesetzt — Schopenhauer empfiehlt Entsagung; Freud will das Ich stärken, das mit dem Es verhandelt.

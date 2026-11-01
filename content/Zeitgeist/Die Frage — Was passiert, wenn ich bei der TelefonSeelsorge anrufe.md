@@ -132,7 +132,9 @@ Was zurückkommt, kommt auf anderen Wegen. Ein Mensch, der am Anfang des Gesprä
 
 Ganz am Ende fragt der Podcaster, was auf einem großen Banner an allen Kirchtürmen stehen sollte. Simonsen zögert, dann sagt sie: *„Das Leben ist schön“* ([▶ 45:12](https://www.youtube.com/watch?v=9JD4qrL3IUQ&t=2712)). Von jemandem, der vor über zwanzig Jahren selbst als Ehrenamtliche am Telefon anfing und die dunkelsten Sätze kennt, ist das kein Kalenderspruch.
 
-**Junge helfen Jungen.** Was der Film nicht zeigt: Bei der Nummer gegen Kummer, dem Kinder- und Jugendtelefon (116 111), beraten samstags Jugendliche andere Jugendliche ([nummergegenkummer.de](https://www.nummergegenkummer.de/)). Wer zuhören lernen will, muss dafür nicht erwachsen sein.
+**Junge helfen Jungen.** Was der Film nicht zeigt: Bei der Nummer gegen Kummer, dem Kinder- und Jugendtelefon (116 111), beraten samstags Jugendliche andere Jugendliche. Das Angebot heißt *Jugendliche beraten Jugendliche* und läuft seit 30 Jahren. Am Telefon sitzen Ehrenamtliche ab 16, die vorher ausgebildet werden; 2023 waren es fast 500, und sie führten über 4.000 Beratungen ([Jugendhilfeportal, 17.12.2024](https://jugendhilfeportal.de/artikel/30-jahre-jugendliche-beraten-jugendliche), nach einer Mitteilung der Nummer gegen Kummer).
+
+Eine von ihnen, Gift Chuma, erzählt in einem kurzen Film des Vereins, wie sie dazu kam. In ihrer Abiturzeit kamen zwei Frauen von der Nummer gegen Kummer in die Schule und stellten das Angebot vor. Was dann anruft, lässt sich nicht planen: manchmal ein Spaßanruf, oft Mobbing, Streit in der Familie, das Gefühl, *„dass man einfach selber sich einfach down fühlt“*, eine Entscheidung, vor der jemand steht. Manche brauchen nur *„so einen Schubs in der richtigen Richtung“*. Und am Ende, sagt sie, merkt man manchmal, dass jemand mit einem Lächeln aus dem Gespräch geht, *„auch wenn man es nicht sieht, aber man es spürt und hört“* ([Nummer gegen Kummer, 08.10.2026](https://www.youtube.com/watch?v=NvSmYq-2N1o)). Wer zuhören lernen will, muss dafür nicht erwachsen sein.
 
 ---
 
@@ -214,6 +216,8 @@ Ganz am Ende fragt der Podcaster, was auf einem großen Banner an allen Kirchtü
 
 *Zum Weiterlesen (Faktencheck):*
 
+- [Jugendhilfeportal: 30 Jahre „Jugendliche beraten Jugendliche“ (17.12.2024)](https://jugendhilfeportal.de/artikel/30-jahre-jugendliche-beraten-jugendliche) — samstags Peer-Beratung ab 16, fast 500 Ehrenamtliche, über 4.000 Beratungen 2023
+- [Nummer gegen Kummer: Jugendliche beraten Jugendliche (Video, 08.10.2026)](https://www.youtube.com/watch?v=NvSmYq-2N1o) — Gift Chuma über ihren Weg in die Beratung und ihre Samstage am Telefon
 - [70 Jahre TelefonSeelsorge (02.10.2026)](https://www.telefonseelsorge.de/70-jahre-telefonseelsorge/) — Gründungsgeschichte und aktuelle Zahlen
 - [BR: Telefonseelsorge am Limit (05.12.2024)](https://www.br.de/nachrichten/bayern/telefonseelsorge-am-limit-kein-durchkommen-in-der-krise,UVOVNgB) — Anrufversuche gegen beantwortete Anrufe, Vergleich mit dem Krisendienst Bayern
 - [BT-Drs. 21/7613](https://dserver.bundestag.de/btd/21/076/2107613.pdf) und [21/7550](https://dserver.bundestag.de/btd/21/075/2107550.pdf) — Antworten der Bundesregierung zu krisenchat, Nummer gegen Kummer und U25, mit Zahlen und Förderung
