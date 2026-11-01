@@ -41,21 +41,22 @@ Quelle: [Manfred Spitzer: KI, das Gehirn und wie wir lernen](https://www.youtube
 Psychiater, Neurowissenschaftler, Autor. Spitzer ist Direktor der psychiatrischen Universitätsklinik Ulm und Gründer des dortigen Transferzentrums für Neurowissenschaft und Lernen — das erste weltweit, noch vor Harvard und Oxford. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz — den Menschen überlegen* (2024). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.
 
 > [!quote] Über KI
-> *„KI ist kein schlauer Computer — KI ist ein neuronales Netzwerk, das aus einem Input einen Output macht, ohne Algorithmus dazwischen. Man könnte sie genauso gut künstliche Intuition nennen."*
+> *„KI ist nicht ein schlauer Computer, KI ist was völlig anderes, nämlich ein neuronales Netzwerk, was aus einem Input den Output macht, ohne Algorithmus dazwischen."* [▶ 31:20](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1880)
+> *„Man könnte KI auch künstliche Intuition nennen."* [▶ 112:45](https://www.youtube.com/watch?v=QoERJOhA5jg&t=6765)
 
 ---
 
 ## 1. Was das Gehirn ist — und was es kann
 
-Die wichtigste Erkenntnis der Neurowissenschaft der letzten 50 Jahre: **Das Gehirn ändert sich, wenn es lernt.** Synapsen — die Verbindungsstellen zwischen Nervenzellen — werden stärker, wenn sie benutzt werden.
+Die wichtigste Erkenntnis der Neurowissenschaft der letzten 50 Jahre ist für Spitzer: **Das Gehirn ändert sich, wenn es lernt** [▶ 9:13](https://www.youtube.com/watch?v=QoERJOhA5jg&t=553). Synapsen — die Verbindungsstellen zwischen Nervenzellen — werden stärker, wenn sie benutzt werden.
 
-> *„Neurons that fire together wire together."*
+> *„Neurons that fire together wire together."* — das „schöne Sprichwort" der Hirnforschung, das Spitzer zitiert [▶ 9:13](https://www.youtube.com/watch?v=QoERJOhA5jg&t=553)
 
 Ein Neuron macht ca. 200 Impulse/Sekunde (Computer: Milliarden). Aber: 86 Milliarden Neuronen arbeiten **gleichzeitig**. Dadurch ist das Gehirn schnell trotz langsamer Bauteile — Parallelverarbeitung statt sequentieller Berechnung.
 
 Das Gehirn hat auch keine Trennung von Verarbeitung und Speicher — anders als der von-Neumann-Computer:
 
-> *„Wir haben keine Festplatte und keine CPU. Wir haben 100 Milliarden Nervenzellen mit einer Million Milliarden Verbindungen — das ist der Rechner und es ist der Speicher. Was da abgeht, ist die Rechnung, und die Spuren, die es hinterlässt, sind der Speicher."*
+> *„Wir haben also nicht hier eine Festplatte und hier eine CPU … Wir haben 100 Milliarden Nervenzellen mit einer Million Milliarden Verbindungen, und das ist der Rechner und es ist der Speicher. Was da abgeht, ist die Rechnung, und … die Änderung der Synapse … das ist der Speicher."* [▶ 109:43](https://www.youtube.com/watch?v=QoERJOhA5jg&t=6583)
 
 ---
 
@@ -65,7 +66,7 @@ Das Gehirn ist formbar — bei Kindern am stärksten, bei Erwachsenen langsamer,
 
 Eine Studie (publiziert in *Science*): Man sagte 3.000 Kindern am Schuljahresanfang:
 
-> *„Euer Hirn ist wie ein Muskel. Je mehr ihr trainiert, desto besser wird er."*
+> *„Euer Hirn ist wie ein Muskel, wenn ihr trainiert, wird der besser, und es ist für euer Leben ganz wichtig."* [▶ 77:41](https://www.youtube.com/watch?v=QoERJOhA5jg&t=4661)
 
 Nach zwei Jahren waren diese Kinder **eine halbe Note besser** als die 3.000 Vergleichskinder. Eine knappe Stunde Erklärung → ein Schultyp Unterschied nach zwei Jahren.
 
@@ -91,13 +92,13 @@ Demenz ist kein Schicksal. Je höher man anfängt, desto länger dauert es, bis 
 
 ## 3. Digitale Demenz — was Bildschirme mit Kindergehirnen machen
 
-Spitzer warnt seit 2012 — damals verlacht, heute bestätigt. Die Kernargumentation:
+Spitzer warnt seit 2012 — damals verlacht, heute sieht er sich bestätigt. Die Kernargumentation:
 
 - Kinder lernen in den ersten ~25 Jahren alles Wesentliche: Empathie (durch echte Gesichter), Motorik (durch echte Bewegung), Sprache, Imagination, Selbstkontrolle
 - **Vom Bildschirm kann man Empathie nicht lernen.** Man braucht echte Gesichter, echte Reaktionen
 - Wenn das Seezentrum und das Sprachzentrum nie zusammenarbeiten müssen (z.B. weil nie jemand vorgelesen hat), entwickelt sich das Vorstellungsvermögen nicht
 
-> *„Wenn ein Kind 10 Stunden am Tag am Tablet sitzt: Aufmerksamkeitsstörungen gehen durch die Decke, Empathieverlust geht durch die Decke, Einfühlungsvermögen geht in den Keller."*
+> *„… bei jungen Menschen, die 10 Stunden am Tablet oder Smartphone verbringen, was wir da beobachten: Aufmerksamkeitsstörungen gehen durch die Decke, Autismus geht durch die Decke, Empathieverlust geht durch die Decke, Einfühlungsvermögen geht in den Keller."* [▶ 56:23](https://www.youtube.com/watch?v=QoERJOhA5jg&t=3383)
 
 **Was heute passiert:**
 - Schweden und Australien haben Bildschirme aus Schulen zurückgenommen
@@ -109,7 +110,7 @@ Spitzer warnt seit 2012 — damals verlacht, heute bestätigt. Die Kernargumenta
 
 Die Tabakindustrie hat es 50 Jahre geschafft, Gesetze zu verhindern — obwohl Rauchen = Krebs bekannt war. In diesen 50 Jahren: 7 Millionen Tote in Deutschland.
 
-> *„Die digitale Lobby ist verglichen mit der Raucherlobby so klein mit Hut — was die finanzielle Kapazität anbelangt. Wir werden beregnet von: Digital ist toll, digital macht schlau, digital ist die Zukunft — weil da Leute gut dran verdienen."*
+> *„Die Raucherlobby ist verglichen mit der digitalen Lobby so klein mit Hut, was die finanzielle Kapazität anbelangt … Deswegen werden wir beregnet von: Digital ist toll, digital macht schlau, digital ist die Zukunft, weil da Leute gut dran verdienen."* [▶ 53:21](https://www.youtube.com/watch?v=QoERJOhA5jg&t=3201)
 
 ### Kurzsichtigkeit als körperliches Symptom
 
@@ -127,7 +128,7 @@ Das Auge ist entwicklungsgeschichtlich ein Teil des Gehirns. Es wächst so lange
 
 Der klassische Computer arbeitet sequenziell: ein Algorithmus, Zeile für Zeile. KI ist ein **neuronales Netzwerk**: Input → Synapsen → Output. Kein Algorithmus dazwischen. Man kann nicht sagen, warum die KI etwas tut.
 
-> *„Wir wissen auch nicht, wie wir es machen, was wir alles machen — weil wir auch nur ein neuronales Netzwerk im Hirn haben, wo kein Computer-Code drinsteht."*
+> *„Sie wissen auch nicht, wie Sie es machen, was Sie alles machen, weil Sie nämlich auch nur ein neuronales Netzwerk im Hirn haben, wo kein Computer-Code drinsteht."* [▶ 30:33](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1833)
 
 **Beispiel Intuition:** Niemand kann die Regeln der deutschen Grammatik vollständig aufschreiben. Aber jeder Deutsche beugt Phantasie-Wörter korrekt: *„Die Zwerge haben richtig schön gequangt"* — nicht *gatiert*. Wir kennen die Regel nicht, aber unser Hirn hat sie.
 
@@ -139,7 +140,7 @@ AlphaGo spielte sich in 40 Tagen durch 3000 Jahre menschlicher Go-Spielgeschicht
 
 Go-Experten studieren seitdem, was die Maschine macht. *Wir lernen jetzt von der Maschine.*
 
-> Das Fachblatt *Nature* kommentierte 2017: „Wir werden uns gewöhnen müssen, es mit Maschinen zu tun zu haben, die uns irgendwas sagen, was wir nur **glauben** können, aber nicht wissen." — KI als modernes Orakel.
+> Spitzer gibt einen Kommentar in *Nature* so wieder: Wir werden uns daran gewöhnen müssen, es mit Maschinen zu tun zu haben, die uns etwas sagen, was wir nur **glauben** können, aber nicht wissen [▶ 111:13](https://www.youtube.com/watch?v=QoERJOhA5jg&t=6673). KI als modernes Orakel.
 
 > [!question] Weitergedacht
 > Spitzer nennt KI künstliche Intuition, und auch unsere eigene Intuition können wir nicht begründen. *Warum misstrauen wir der Maschine, die ihre Regeln nicht kennt, mehr als dem Menschen, dem es genauso geht — oder ist es umgekehrt, und wir vertrauen ihr zu schnell?*
@@ -150,7 +151,7 @@ Go-Experten studieren seitdem, was die Maschine macht. *Wir lernen jetzt von der
 
 **Proteinfaltung:** Alle Lebensprocesse werden von Eiweißmolekülen erledigt. Deren Form bestimmt ihre Funktion. Ein mittleres Protein hat 300 Aminosäuren → $20^{300}$ mögliche Faltungsweisen (mehr als Atome im Universum). Unmöglich zu berechnen.
 
-In 50 Jahren mühsamer Experimentalarbeit: 50 bekannte Proteinstrukturen, sagt Spitzer [▶ 94:28](https://www.youtube.com/watch?v=QoERJOhA5jg&t=5668). *(Faktencheck: falsch)*
+In 50 Jahren mühsamer Experimentalarbeit: 50 bekannte Proteinstrukturen, sagt Spitzer [▶ 94:28](https://www.youtube.com/watch?v=QoERJOhA5jg&t=5668). *(es waren rund 200.000 → Kasten unten)*
 
 > [!danger] Falsch — „50 Eiweiße in 50 Jahren“
 > Vor AlphaFold lagen nach Jahrzehnten experimenteller Arbeit (Röntgenkristallographie, NMR, Kryo-EM) rund **200.000** Proteinstrukturen in der Protein Data Bank — das Viertausendfache. Spitzers Pointe trägt trotzdem, nur mit der richtigen Zahl: Die AlphaFold-Datenbank stellt inzwischen über **200 Millionen** vorhergesagte Strukturen bereit, also nahezu jedes bekannte Protein. *(Ergänzt am 11.10.2026; → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage]], dort derselbe Durchbruch aus dem Fach.)*
@@ -176,21 +177,21 @@ KI kann keine Verantwortung übernehmen, weil sie keine **Endlichkeit** hat:
 - Sie kann weder belohnt noch bestraft werden (wenn man sie "einsperrt", ist sie halt nicht mehr da)
 - Sie will nichts, weil sie nichts braucht
 
-> *„Verantwortung kann eine Maschine ganz prinzipiell nicht haben. Man braucht dafür Endlichkeit, Schmerzen, alles was einen Menschen ausmacht."*
+> *„Verantwortung kann so ein Ding niemals haben."* [▶ 115:45](https://www.youtube.com/watch?v=QoERJOhA5jg&t=6945) · *„Nur ein Mensch kann Verantwortung übernehmen … dazu braucht man Endlichkeit, Schmerzen, dazu braucht man Glück, alles, was ein Mensch ausmacht."* [▶ 121:06](https://www.youtube.com/watch?v=QoERJOhA5jg&t=7266)
 
 Daraus folgt:
 - **KI kann kein Autor sein** — ein Autor steht für das, was er schreibt
 - **KI kann keine Diagnose stellen** — ein Arzt unterschreibt und haftet
 - **KI kann kein Richter sein** — ein Urteil braucht Verantwortung
 
-*„Ärzte mit KI ersetzen Ärzte ohne KI — aber KI ersetzt keine Ärzte."*
+*„Ärzte mit KI ersetzen Ärzte ohne, … aber KI ersetzt uns nicht."* [▶ 124:06](https://www.youtube.com/watch?v=QoERJOhA5jg&t=7446)
 
 > [!question] Weitergedacht
 > Verantwortung, sagt Spitzer, braucht Endlichkeit, Schmerz, etwas zu verlieren. *Wenn ein Arzt eine KI-Diagnose unterschreibt, die er selbst nicht nachvollziehen kann: Trägt er dann Verantwortung oder nur die Haftung?*
 
 ### Das Militär-Dilemma
 
-Die Interviewerin erzählt aus Spitzers Buch eine Simulation nach, und Spitzer bestätigt sie [▶ 126:26](https://www.youtube.com/watch?v=QoERJOhA5jg&t=7586): Eine KI-Drohne sollte Flugabwehrraketen vernichten. Ihr Operator durfte zustimmen oder ablehnen. Die Drohne — auf den Abschuss trainiert — habe den Operator „erschossen“, damit sie selbst entscheiden konnte; nach dem Umtraining („Operator immer am Leben lassen“) habe sie den Kommunikationsturm zerstört. *(diese Simulation hat es nie gegeben, sie war ein Gedankenexperiment → Kasten unten)*
+Peter Samuel Jost, der das Gespräch führt, erzählt aus Spitzers Buch eine Simulation nach, und Spitzer bestätigt sie [▶ 126:26](https://www.youtube.com/watch?v=QoERJOhA5jg&t=7586): Eine KI-Drohne sollte Flugabwehrraketen vernichten. Ihr Operator durfte zustimmen oder ablehnen. Die Drohne — auf den Abschuss trainiert — habe den Operator „erschossen“, damit sie selbst entscheiden konnte; nach dem Umtraining („Operator immer am Leben lassen“) habe sie den Kommunikationsturm zerstört. *(diese Simulation hat es nie gegeben, sie war ein Gedankenexperiment → Kasten unten)*
 
 > [!danger] Falsch — die Drohne, die ihren Operator tötet
 > Die Geschichte stammt von Col. Tucker Hamilton, dem KI-Testchef der US Air Force, auf einem Gipfel der Royal Aeronautical Society im Mai 2023. Wenige Tage später nahm er sie zurück: Er habe sich „versprochen“, die Simulation sei ein hypothetisches Gedankenexperiment gewesen, *„We've never run that experiment“*. Als Warnung, was ein falsch gesetztes Ziel bewirken kann, taugt das Beispiel weiter; als Beleg, dass eine KI es getan hat, nicht.
@@ -205,7 +206,7 @@ Die Interviewerin erzählt aus Spitzers Buch eine Simulation nach, und Spitzer b
 
 Spitzer gilt als Kulturpessimist — sieht sich selbst nicht so:
 
-> *„Wenn die Menschheit noch 100 Jahre überlebt, hat sie das der KI zu verdanken."*
+> *„Wenn die Menschheit noch 100 Jahre überlebt, dann hat sie das KI zu verdanken."* [▶ 141:41](https://www.youtube.com/watch?v=QoERJOhA5jg&t=8501)
 
 Was KI lösen kann, was wir allein nicht schaffen:
 - **Welternährung:** 9–10 Milliarden Menschen nur mit KI-optimierter Landwirtschaft
@@ -222,7 +223,7 @@ Die ersten **1000 Tage** (Konzeption bis 2. Geburtstag) sind für die Gehirnentw
 
 Kinder, die in Armut aufwachsen, haben am Ende dieser Phase **halb so viele Synapsen** wie Kinder ohne Armut. Das lässt sich nicht mehr vollständig kompensieren.
 
-> *„Armut können wir uns langfristig nicht leisten. Das klingt paradox — ist aber so. Wer in Armut aufwächst, hat ganz schlechte Karten, was die Produktivität und die Glücksfähigkeit für den Rest seines Lebens anbelangt."*
+> *„Wer in den ersten zwei Lebensjahren Armut durchlaufen hat, der hat einfach ganz schlechte Karten, was die Produktivität und seine Glücksfähigkeit für den Rest seines Lebens anbelangt … Die Armut, die wir heute haben, können wir uns langfristig nicht leisten. Es klingt so paradox, es ist aber so."* [▶ 144:44](https://www.youtube.com/watch?v=QoERJOhA5jg&t=8684)
 
 ---
 
@@ -258,7 +259,7 @@ Beide betonen: Schule und Bildungssystem sind nicht für alle Gehirne gebaut —
 
 ### → [[Hartwin Maas — Bildung NEU DENKEN]]
 
-Maas ist der pädagogische Bruder Spitzers: Spitzer zeigt neurobiologisch, was Cognitive Offloading mit dem Gehirn macht; Maas beschreibt dieselbe Dynamik als Bildungspolitik und Generationenforschung. Wo Spitzer die Evidenz liefert, liefert Maas die gesellschaftliche Einbettung.
+Maas ist der pädagogische Bruder Spitzers: Spitzer argumentiert neurobiologisch, dass ein Gehirn nur lernt, was über seine Synapsen läuft; Maas beschreibt, was daraus für Bildungspolitik und Generationen folgt, wenn Denken an Geräte ausgelagert wird (Cognitive Offloading). Spitzer liefert die Hirnforschung, Maas die gesellschaftliche Einbettung.
 
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
@@ -291,7 +292,7 @@ Moukheibers Teil 2 ergänzt Spitzers KI-Skepsis um die soziale Dimension: Lauren
 
 ## Verbindung zu [[Albert Moukheiber — Mein Hirn und ich]]
 
-Beide arbeiten an der Schnittstelle von Neurowissenschaft und gesellschaftlicher Relevanz — und beide popularisieren Hirnforschung für ein breites Publikum. Spitzer legt den Fokus auf Neuroplastizität, Lernverlust durch Bildschirme und KI; Moukheiber auf kognitive Verzerrungen, Wahrnehmungskonstruktion und Automatismen. Ein konkretes Überschneidungsfeld: Spitzers Trampelpfad-Metapher für synaptische Bahnen ist strukturidentisch mit Moukheibers umgekehrtem Fahrrad als Demonstration eingefahrener Automatismen — beide zeigen, dass einmal gelernte neuronale Muster sich gegen Veränderung sperren. Moukheiber ergänzt Spitzers KI-Vergleich (Student braucht 1000x weniger Energie als ChatGPT) mit der neurobiologischen Erklärung: kognitive Verzerrungen sind genau diese ressourcensparenden Abkürzungen.
+Beide arbeiten an der Schnittstelle von Neurowissenschaft und gesellschaftlicher Relevanz — und beide popularisieren Hirnforschung für ein breites Publikum. Spitzer legt den Fokus auf Neuroplastizität, Lernverlust durch Bildschirme und KI; Moukheiber auf kognitive Verzerrungen, Wahrnehmungskonstruktion und Automatismen. Ein konkretes Überschneidungsfeld: Spitzers „eingeschlafene Pfade", die man im Urlaub verlassen kann, um Neues zu lernen, entsprechen Moukheibers umgekehrtem Fahrrad als Demonstration eingefahrener Automatismen — beide zeigen, dass einmal gelernte neuronale Muster sich gegen Veränderung sperren. Moukheiber ergänzt, warum: Kognitive Verzerrungen sind ressourcensparende Abkürzungen eines Gehirns, das, wie Spitzer betont, mit wenigen Watt auskommen muss.
 
 ## Verbindung zu [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]]
 

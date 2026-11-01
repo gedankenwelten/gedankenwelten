@@ -119,7 +119,7 @@ Ziegler übersetzt das in den modernen Alltag: der Student, der nach vier Jahren
 
 ### Absurde Biografien — Don Juan und der Schauspieler
 
-[▶ 36:04](https://www.youtube.com/watch?v=f6dF1Nf1TqM&t=2164) — Camus entfaltet in *Der Mensch in der Revolte* Beispiele für vorbildlich absurde Lebensentwürfe. Der absurde Mensch ist frei — losgelöst von bürgerlichen Konventionen, weil er keinen übergeordneten Sinn anerkennt, dem er sich unterordnen müsste.
+[▶ 36:04](https://www.youtube.com/watch?v=f6dF1Nf1TqM&t=2164) — Ziegler verortet die Beispiele in *Der Mensch in der Revolte*; sie stehen im *Mythos des Sisyphos* (1942), im Kapitel über den absurden Menschen. Camus entfaltet dort Beispiele für vorbildlich absurde Lebensentwürfe. Der absurde Mensch ist frei — losgelöst von bürgerlichen Konventionen, weil er keinen übergeordneten Sinn anerkennt, dem er sich unterordnen müsste.
 
 **Don Juan** [▶ 36:50](https://www.youtube.com/watch?v=f6dF1Nf1TqM&t=2210) — nicht als gescheiterter Romantiker, der vergeblich die große Liebe sucht, sondern als bewusst absurd Lebender: Er *weiß*, dass jede Liebe enden wird. Er spürt es bereits im Moment des Verliebens. Aber er liebt trotzdem — jedes Mal leidenschaftlich, jedes Mal aufs Neue. Als eine Frau ihm glücklich sagt „Endlich habt ihr die Liebe für immer gefunden!", antwortet er: *„Nein, nicht für immer. Ein weiteres Mal."* Die Tode und Wiedergeburten — das ist die Ernte seines Lebens. Wie Sisyphos' Kugel, die immer wieder herunterrollt.
 

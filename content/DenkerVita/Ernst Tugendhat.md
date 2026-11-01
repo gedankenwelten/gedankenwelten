@@ -155,6 +155,7 @@ Tugendhat stand politisch links und hat seine Ethik öffentlich angewendet, oft 
 - [[DenkerVita/Simone Weil]] — ihre *décréation*, das Aufgeben des Ich als Mittelpunkt der Welt, ist das religiöse Gegenstück zu Tugendhats Mystik ohne Gott; beide stehen an der schmalen Grenze zwischen Sich-Zurücknehmen und Sich-Verleugnen.
 - [[DenkerVita/Arthur Schopenhauer]] — derselbe Wille zum Leben und dieselbe Entmachtung des Ego, bei Tugendhat ohne Metaphysik: ein biologischer Wille zum nächsten Lebensstück statt eines Urtriebs hinter allen Dingen.
 - [[DenkerVita/Ludwig Wittgenstein]] — Werkzeug der Sprachanalyse und Vorgänger auf demselben Weg vom Logiker zum Mystiker („Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist").
+- [[DenkerVita/Albert Camus|Albert Camus]] — Beide fragen, wie man ohne Metaphysik ernsthaft leben und sterben kann. Camus bleibt beim Einzelnen, der dem Absurden ins Auge sieht; Tugendhat nimmt das Ich aus der Mitte, bis zu einer Mystik ohne Gott. Ob Camus darin eine sanftere Flucht sähe, ist die offene Frage zwischen ihnen.
 
 ---
 

@@ -180,6 +180,10 @@ Hat Bonhoeffers Begriff der Schuldübernahme rekonstruiert und kritisch geprüft
 
 Die belarussische Flötistin zerriss 2020 an der Grenze ihren Pass, um bei ihren Leuten zu bleiben, so wie er 1939 aus dem sicheren New York zurückfuhr, und saß danach mehr als fünf Jahre in Haft, davon fast drei ohne jeden Kontakt. „Im Inneren war ich immer frei“: ihre Fassung der inneren Selbständigkeit. Ihr Halt war nicht Gott, sondern die Musik im Kopf und das Lachen, und anders als er blieb sie gewaltfrei.
 
+### → [[DenkerVita/Albert Camus|Albert Camus]]
+
+Zwei Männer im Widerstand, die ein Doppelleben führen mussten und fragten, was Wahrheit dann noch heißt. Beide kennen die Gefahr, dass nackte Wahrheit zerstört; bei Camus blendet sie wie zu grelles Licht (*Der Fall*, 1956). In der Gewaltfrage liegen sie weit auseinander. Der frühere Pazifist Bonhoeffer wurde Mitwisser des Attentats und nahm die Schuld auf sich, die Camus mit seiner Grenze gegen jede Gewalt im Namen eines Zwecks verweigerte. Bonhoeffers Wahrheit gründet in Gott, Camus' Ehrlichkeit in einer Welt, die schweigt.
+
 ---
 
 ## Gedankenwelten-Notes
