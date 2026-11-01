@@ -22,6 +22,13 @@ aliases:
 Datum: 13.02.2026
 Quelle: [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.youtube.com/watch?v=qdoC-Vsv-KA)
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um sexuellen Missbrauch von Mädchen und jungen Frauen. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal — Truth-Social-Segment: Trump-Posts im Original auf Deutsch gelesen und eingeordnet. Koschi bleibt auch hier ironisch-sachlich.
 >

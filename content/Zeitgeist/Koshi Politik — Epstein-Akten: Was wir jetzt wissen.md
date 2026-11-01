@@ -23,6 +23,13 @@ aliases:
 Datum: 01.02.2026
 Quelle: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.youtube.com/watch?v=wIanoMg6wmg)
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um sexuellen Missbrauch von Mädchen und jungen Frauen. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koschi betont Unparteilichkeit — „Wenn die Leute schuldig sind, sollen die zur Rechenschaft gezogen werden" — gilt für alle politischen Lager.
 >

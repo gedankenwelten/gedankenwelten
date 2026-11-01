@@ -16,6 +16,13 @@ tags: [denker-vita, usa, oligarchie, finanzwelt]
 
 </details>
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Vita geht es um Vorwürfe sexueller Gewalt, die Leon Black bestreitet, und um den Missbrauchsfall Epstein. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!info] Kein Denker, sondern eine Figur des Geldes
 > Leon Black hat kein Werk geschrieben, keine These formuliert. Er steht hier, weil sein Name immer
 > wieder im Epstein-Komplex auftaucht — als Mann, der dem verurteilten Sexualstraftäter über Jahre

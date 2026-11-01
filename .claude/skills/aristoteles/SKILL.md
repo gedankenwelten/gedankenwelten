@@ -113,6 +113,12 @@ Nicht jeder Punkt muss explizit markiert sein — aber die *Bewegung* muss spür
 Das ist keine Metapher — der Präfrontalkortex reguliert tatsächlich tieferliegende Schmerzregionen, wenn sprachliche Neubewertung stattfindet.
 ```
 
+**Bricht der Untertitel ab, nie ein Wort ergänzen** (seit 01.11.2026). Wo die automatische Abschrift ein Wort
+verschluckt oder mitten im Satz abreißt, steht `[…]`, und wenn es den Sinn berührt, ein Halbsatz dazu
+(„der Satz bricht im Untertitel ab“). Ein Wort in eckigen Klammern sieht wie Wortlaut aus und ist doch unsere
+Vermutung. Anlass: In der Morin-Note standen drei solche ergänzten Wörter in Zitaten (Aristarch, 01.11.2026).
+Wer das fehlende Wort wirklich braucht, hört an der Zeitmarke nach.
+
 ### Phase 4 — Eigenständige Einordnung
 
 Jeder Abschnitt braucht mindestens **einen Satz eigene Einordnung**. Das kann sein:

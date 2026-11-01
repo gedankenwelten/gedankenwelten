@@ -123,6 +123,8 @@ tags: [denker-vita, <thema>, <herkunft>]
 
 **Struktur anpassen, wenn kein klassisches Werk vorliegt** (Augenzeuge/Aktivist/Praktiker): „Bücher & Publikationen" durch **„Öffentliche Arbeit, Kanäle & Engagement"** ersetzen (Organisationen, YouTube/Instagram, Website/Spenden, Vorträge — mit Links). Biografie, Kernthesen, Politische Einordnung, Verbindungen, Gedankenwelten-Notes bleiben. Keine genialokal-Links erfinden, wo es keine Bücher gibt.
 
+**Ausnahme: Minderjährige** (seit 01.11.2026, Andis Ja). Schüler:innen, Jugendliche, Kinder, die in einer Quelle zu Wort kommen, bekommen **keine** Vita und erscheinen ohne Nachnamen. Was sie sagen, gehört in die Note, ihr Profil nicht ins Netz. Mit Namen und Vita nur, wer selbst schon öffentlich auftritt (Buch, Amt, eigener Kanal, Auftritt unter Namen) — und auch dann nur das Öffentliche. Im Zweifel ohne Namen.
+
 **Link in Notes:** Jede Note die eine Person behandelt, bekommt am Ende des Speaker-Abschnitts:
 ```
 → [[DenkerVita/<Name>|DenkerVita]]
@@ -179,6 +181,27 @@ Ohne diese Schritte gilt die Note als unvollständig.
 > Eigene Grafik, fremde Zahlen, Quelle im Bild — sparsam, ohne feste Zahl, wenn ein Verhältnis zu zeigen
 > ist, das ein Satz schwer trägt; oft die Vortragsfolie, die wir aus Lizenzgründen nachbauen. Zahlen am Original geprüft, beide Seiten im Bild, keine Dramatik.
 > Gilt auch beim Vertiefen (heraklit) und im Panorama. → `gedankenwelt`-Skill, Schritt 5e.
+
+## Hilfe-Hinweis bei schweren Themen (seit 01.11.2026)
+
+Ist der **Kern** einer Note Suizid, sexuelle Gewalt, Missbrauch, Folter, Gewalt gegen Kinder (auch im Krieg),
+Essstörung oder Selbstverletzung (nicht: das Thema kommt nebenbei vor; Krieg allgemein nicht, sonst trägt ihn
+jede zweite Note und niemand liest ihn mehr), steht direkt **vor** dem Aufmacher-Callout (nach Banner und 🎨):
+
+```markdown
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um <Thema, schlicht benannt>. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+```
+
+**Wozu:** Junge Menschen kommen auch über KI zu uns. Der Hinweis steht darum im Text selbst, nicht in einem
+Feld. So erscheint er auf der Website (eigene ruhige Gestalt `.hilfe`), im RAG und im öffentlichen MCP,
+der ihn an **jeden** Suchtreffer aus der Note hängt, auch an Abschnitte aus der Mitte.
+**Ton:** kein Alarm, keine Bevormundung, das Thema schlicht benennen. Nummern am 01.11.2026 an den Seiten
+geprüft; einmal im Jahr nachsehen. Kein `aktualisiert:`-Bump für das bloße Einsetzen.
 
 ## Startseiten-Journal (gedankenwelten.org)
 

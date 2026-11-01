@@ -28,6 +28,13 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 
 </details>
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Spur geht es um sexuellen Missbrauch von Mädchen und jungen Frauen. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!abstract] Worum es geht
 > Der Fall Epstein war 2025 eine Welle parteiübergreifender Empörung — 2026 ist es still, obwohl die
 > Hälfte der Akten noch unter Verschluss und der Rest stark geschwärzt ist. Diese **Spur** verfolgt eine

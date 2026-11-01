@@ -31,6 +31,13 @@ aktualisiert: 2026-10-22
 
 ## Biographischer Snapshot
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Vita geht es auch um den Verdacht sexuellen Missbrauchs gegen einen Lehrer. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!info] Wer spricht?
 > **Shi Heng Yi** (bürgerlich Tien Sy Vuong, *geb. 1983, Kaiserslautern*) — leitender Meister des Shaolin Temple Europe in Otterberg, Geschäftsführer der Shaolin Temple Europe GmbH und Vorsitzender des Trägervereins Buddhistischer Orden von Shaolin e.V. International bekannt durch den TEDx-Vortrag „5 hindrances to self-mastery“ (2020), große Podcasts wie *The Diary Of A CEO* und 1,6 Millionen Follower auf Instagram; seine Bücher sind in über ein Dutzend Sprachen übersetzt.
 >

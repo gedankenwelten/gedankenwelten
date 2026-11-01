@@ -17,6 +17,13 @@ aktualisiert: 03.08.2026
 
 </details>
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Vita geht es auch um Verschleppung und Gewalt gegen Kinder. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!abstract] Wer sie ist
 > Jesidin, geboren 2004 in Shingal (Sindschar, Nordirak). Am 3. August 2014 — sie war zehn — wurde sie
 > gemeinsam mit ihrer Mutter und ihren Geschwistern vom sogenannten „Islamischen Staat" verschleppt und

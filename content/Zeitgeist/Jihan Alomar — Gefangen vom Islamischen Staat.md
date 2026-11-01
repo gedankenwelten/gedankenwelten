@@ -28,6 +28,13 @@ aliases:
 
 </details>
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um Verschleppung, Gewalt und Versklavung, so wie Jihan Alomar sie selbst öffentlich erzählt, und nicht darüber hinaus. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!abstract] Worum es geht
 > Jihan Alomar war zehn Jahre alt, als der „Islamische Staat" in der Nacht zum 3. August 2014 ihre Heimatstadt Shingal angriff. Sie verlor ihren Vater in einer Menschenmenge, sah ihn nie wieder und verbrachte zehn Monate in IS-Gefangenschaft. Mit siebzehn ging sie an die Öffentlichkeit, schrieb ein Buch und geht seither in Schulen, obwohl sie weiß, dass sie dort erkannt werden kann. Diese Note gibt hauptsächlich ihre Sätze weiter. Sie braucht keine Deutung.
 
@@ -37,9 +44,6 @@ aliases:
 > Für Jihan Alomar ist dieser Tag kein Gedenktag. Es ist der Tag, an dem sie verschleppt wurde, und der Tag, seit dem ihr Vater vermisst ist.
 
 Quelle: [Gefangen vom Islamischen Staat — Jihan (18) überlebt Genozid](https://www.youtube.com/watch?v=5B5yrovaZaE) — TRU DOKU (funk), 12.04.2022, 18 Minuten. Auch in der [ZDF-Mediathek](https://www.zdf.de/funk/tru-doku-12074/funk-gefangen-vom-islamischen-staat-jihan-18-ueberlebt-genozid-i-tru-doku-102.html).
-
-> [!warning] Inhaltshinweis
-> Diese Note gibt Schilderungen von Verschleppung, Gewalt und Versklavung wieder — so, wie Jihan Alomar sie selbst öffentlich erzählt, und nicht darüber hinaus.
 
 > [!info] Wer spricht?
 > **Jihan Alomar** (*2004 in Shingal/Sindschar, Nordirak*) — jesidische Überlebende des Völkermords von 2014, Zeitzeugin und Autorin, lebt in Tübingen.

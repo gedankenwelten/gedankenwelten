@@ -27,6 +27,13 @@ aliases:
 
 Quelle: [Camus in 60 Minuten](https://www.youtube.com/watch?v=f6dF1Nf1TqM)
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um die Frage, ob das Leben sich lohnt, auch um Suizid. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!info] Wer spricht?
 > **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Buchreihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen. Die Reihe umfasst über 25 Titel und ist ins Englische, Französische, Vietnamesische und Koreanische übersetzt.
 >

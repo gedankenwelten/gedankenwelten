@@ -33,6 +33,13 @@ aliases:
 
 </details>
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es auch um den Verdacht sexuellen Missbrauchs gegen einen Lehrer. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!abstract] Worum es geht
 > Drei lange Gespräche, ein Mann im Umbruch. Shi Heng Yi, Headmaster des Shaolin Tempel Europe, demontiert seine eigene Identität — nicht weil er etwas dazugewinnt, sondern weil etwas von ihm *abfällt*: Rollen, Titel, das Bild des Meisters. Diese Note bündelt sein Denken aus drei Quellen: dem Grenzgänger-Gespräch „Die Enthüllung" (in dem er öffentlich mit seinem festgenommenen früheren Abt bricht), dem Hotel-Matze-Retreat „Rückbesinnung" (über „nie genug", Loslassen und das Durchbrechen von Generationszyklen) und dem SRF-Gespräch zur Selbstbeherrschung (Freiheit durch Struktur, der mittlere Weg). Es ist die Selbstauskunft eines Disziplin-Lehrers, der entdeckt, dass die tiefste Stärke das Fühlen ist — und dass die Person dem Weg im Weg steht.
 

@@ -94,6 +94,13 @@ Koschi: Diese Antwort verwirrte ihn — denn das klingt danach, dass Trump eben 
 
 ## Einordnung
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um sexuellen Missbrauch von Mädchen und jungen Frauen. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!abstract] Was diese Quelle liefert
 > - Erste Zusammenfassung der DOJ-Pressekonferenz für deutsches Publikum
 > - Verweis auf wichtige Primärquellen (Meidas Touch Download-Link)

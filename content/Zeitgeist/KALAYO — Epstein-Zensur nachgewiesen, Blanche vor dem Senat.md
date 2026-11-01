@@ -26,6 +26,13 @@ aktualisiert: 17.07.2026
 
 </details>
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um sexuellen Missbrauch von Mädchen und jungen Frauen. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!abstract] Worum es geht
 > Das FBI bestätigt schriftlich, dass interne Schulungsvideos existieren, die Analysten zeigten, wie Trumps Name in den Epstein-Akten zu finden, zu erfassen und zu schwärzen ist — und verweigert zugleich ihre Herausgabe. Parallel legt das Justizministerium unter Todd Blanche die unzensierten Akten trotz gerichtlicher Anordnung nicht vor und ficht die Anordnung an. Der deutschsprachige YouTuber Kalayo bündelt die Recherchen von Katie Phang und Allison Gill zu einem Lagebild, unmittelbar bevor Blanche zur Bestätigungsanhörung vor den Senat tritt. Der Ton ist Empörung — der dokumentierte Kern aber ist prüfbar: FOIA-Schreiben, Gerichtsanträge, eine Meldung an die Anwaltskammer.
 

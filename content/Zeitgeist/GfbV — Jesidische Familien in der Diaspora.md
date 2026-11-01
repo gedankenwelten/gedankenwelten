@@ -31,6 +31,13 @@ aliases:
 
 </details>
 
+> [!hilfe] Bevor du weiterliest
+> In dieser Note geht es um den Völkermord an den Jesiden und um die Verschleppung und Versklavung von Mädchen und Frauen. Wenn dich das gerade selbst betrifft oder dir zu nah kommt, kannst du mit jemandem reden, kostenlos:
+>
+> Deutschland: [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [147](tel:147) Rat auf Draht · Schweiz: [147](tel:147) Pro Juventute
+
 > [!abstract] Worum es geht
 > Zwei Frauen, die das baden-württembergische Sonderkontingent von innen kennen, sprechen über das, was nach der Rettung kommt: 1.100 jesidische Frauen und Kinder, die 2015 nach Deutschland geholt wurden — und dann jahrelang im Überlebensmodus blieben, weil Trauma erst dann anklopft, wenn es ruhig wird. Es geht um Therapien, die leer blieben, um Kinder, die ihren Eltern das Amt erklären müssen, und um ein Versprechen, das die Landesregierung den Frauen gab und nicht halten konnte. Der Vortrag ist von März 2022 und sagt an einer Stelle: der Völkermord sei in Deutschland noch nicht anerkannt. Zehn Monate später war er es. Der Rest der Liste steht immer noch.
 
