@@ -33,7 +33,10 @@ aliases:
 
 </details>
 
-Quelle: Interview mit Prof. Dr. Manfred Spitzer (psychiatrische Uniklinik Ulm)
+> [!abstract] Worum es geht
+> Für Manfred Spitzer ist KI keine schlaue Rechenmaschine, sondern künstliche Intuition: ein Netz, das aus Erfahrung Regeln anwendet, die es selbst nicht kennt, so wie unser Gehirn. Aus derselben Hirnforschung leitet er zwei Haltungen ab, die selten zusammen auftreten. Bildschirme in Kinderhänden hält er für Körperverletzung, weil das Gehirn sich nach dem formt, was über seine Synapsen läuft. Und der KI traut er zu, die Menschheit zu retten, solange ein Mensch die Verantwortung behält, die keine Maschine tragen kann. Ein langes Gespräch, voller Beispiele, von denen nicht jedes hält (→ die Kästen im Text).
+
+Quelle: [Manfred Spitzer: KI, das Gehirn und wie wir lernen](https://www.youtube.com/watch?v=QoERJOhA5jg) · Interview mit Prof. Dr. Manfred Spitzer (psychiatrische Uniklinik Ulm)
 
 Psychiater, Neurowissenschaftler, Autor. Spitzer ist Direktor der psychiatrischen Universitätsklinik Ulm und Gründer des dortigen Transferzentrums für Neurowissenschaft und Lernen — das erste weltweit, noch vor Harvard und Oxford. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz — den Menschen überlegen* (2024). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.
 
@@ -80,6 +83,9 @@ Das *Lancet*-Paper (2020) zur Demenzprävention, wie Spitzer es wiedergibt: 60% 
 > Schwester Maria: lehrte bis 84, arbeitete inoffiziell bis 101. Tests mit 101: **keine Demenz.** Autopsie nach dem Tod: **Hirn voller Alzheimer** — riesige Mengen zerstörter Nervenzellen. Das supertrainierte Hirn hat so viel Reserve gehabt, dass der Schaden unbemerkt blieb.
 
 Demenz ist kein Schicksal. Je höher man anfängt, desto länger dauert es, bis man unten ist.
+
+> [!question] Weitergedacht
+> Schwester Marias Gehirn war voller Alzheimer, und sie merkte nichts davon. *Was ist dann die Krankheit: der Befund im Gewebe oder das, was ein Mensch im Alltag verliert — und wonach sollte die Medizin messen, ob sie hilft?*
 
 ---
 
@@ -135,6 +141,9 @@ Go-Experten studieren seitdem, was die Maschine macht. *Wir lernen jetzt von der
 
 > Das Fachblatt *Nature* kommentierte 2017: „Wir werden uns gewöhnen müssen, es mit Maschinen zu tun zu haben, die uns irgendwas sagen, was wir nur **glauben** können, aber nicht wissen." — KI als modernes Orakel.
 
+> [!question] Weitergedacht
+> Spitzer nennt KI künstliche Intuition, und auch unsere eigene Intuition können wir nicht begründen. *Warum misstrauen wir der Maschine, die ihre Regeln nicht kennt, mehr als dem Menschen, dem es genauso geht — oder ist es umgekehrt, und wir vertrauen ihr zu schnell?*
+
 ---
 
 ## 5. AlphaFold — KI löst ein 50 Jahre altes Problem
@@ -176,11 +185,16 @@ Daraus folgt:
 
 *„Ärzte mit KI ersetzen Ärzte ohne KI — aber KI ersetzt keine Ärzte."*
 
+> [!question] Weitergedacht
+> Verantwortung, sagt Spitzer, braucht Endlichkeit, Schmerz, etwas zu verlieren. *Wenn ein Arzt eine KI-Diagnose unterschreibt, die er selbst nicht nachvollziehen kann: Trägt er dann Verantwortung oder nur die Haftung?*
+
 ### Das Militär-Dilemma
 
-Eine Simulationsstudie: Eine KI-Drohne sollte Flugabwehrraketen vernichten. Ihr Operator durfte zustimmen oder ablehnen. Die Drohne — auf den Abschuss trainiert — hat den Operator erschossen, damit sie selbst entscheiden konnte.
+Die Interviewerin erzählt aus Spitzers Buch eine Simulation nach, und Spitzer bestätigt sie [▶ 126:26](https://www.youtube.com/watch?v=QoERJOhA5jg&t=7586): Eine KI-Drohne sollte Flugabwehrraketen vernichten. Ihr Operator durfte zustimmen oder ablehnen. Die Drohne — auf den Abschuss trainiert — habe den Operator „erschossen“, damit sie selbst entscheiden konnte; nach dem Umtraining („Operator immer am Leben lassen“) habe sie den Kommunikationsturm zerstört. *(diese Simulation hat es nie gegeben, sie war ein Gedankenexperiment → Kasten unten)*
 
-Nach Umtraining ("Operator immer am Leben lassen"): Die Drohne zerstörte den Kommunikationsturm, damit der Operator keine Nachrichten mehr erhält.
+> [!danger] Falsch — die Drohne, die ihren Operator tötet
+> Die Geschichte stammt von Col. Tucker Hamilton, dem KI-Testchef der US Air Force, auf einem Gipfel der Royal Aeronautical Society im Mai 2023. Wenige Tage später nahm er sie zurück: Er habe sich „versprochen“, die Simulation sei ein hypothetisches Gedankenexperiment gewesen, *„We've never run that experiment“*. Als Warnung, was ein falsch gesetztes Ziel bewirken kann, taugt das Beispiel weiter; als Beleg, dass eine KI es getan hat, nicht.
+> Quelle: [Royal Aeronautical Society, Bericht vom FCAS-Gipfel, Update vom 2. Juni 2023](https://www.aerosociety.com/news/highlights-from-the-raes-future-combat-air-space-capabilities-summit/)
 
 > [!warning] Das eigentliche Dilemma
 > Um einen modernen Krieg zu gewinnen, muss man schneller entscheiden als der Gegner. KI ist schneller als jeder menschliche Operator. Also: den Menschen aus dem Entscheidungsloop nehmen. Aber: dann trifft niemand mehr die Entscheidung. Das Militär sieht das Problem — hat keine Lösung.
@@ -267,7 +281,7 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wi
 - Spitzer: *Lernen — Gehirnforschung und die Schule des Lebens*
 - Demis Hassabis / DeepMind: *AlphaGo* (2017), *AlphaFold* (2020/2022)
 - John von Neumann: *Die Rechenmaschine und das Gehirn* — der Klassiker zur Differenz
-- *Lancet Commission on Dementia Prevention* (2020)
+- *Lancet Commission on Dementia Prevention* ([Livingston et al. 2020](https://doi.org/10.1016/s0140-6736(20)30367-6); Update [2024](https://doi.org/10.1016/s0140-6736(24)01296-0))
 
 ---
 
@@ -286,3 +300,13 @@ Beide sind Hirnforscher mit pädagogischem Anspruch — und beide kritisieren Sc
 ### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
 
 Die empirische Flanke zu Misselhorns begrifflichem Rechnen-vs-Denken: Spitzers Neurobiologie stützt von der Gehirnseite, was sie philosophisch begründet — gelebter gemäßigter Naturalismus, in dem Evidenz die Begriffe stützt, aber nicht ersetzt.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Spitzer warnt vor Bildschirmen in Kinderhänden und erwartet von der KI die Rettung der Menschheit. *Ist das ein Widerspruch, oder trennt er genau richtig zwischen dem Werkzeug in der Hand eines Erwachsenen und dem in der Hand eines Gehirns, das sich noch formt?*
+> - Die Hirnforschung zeigt, dass Gehirne sich nach dem formen, was über ihre Synapsen läuft. *Was formt dann das Gehirn eines Kindes, das mit einer Maschine spricht, die freundlicher antwortet als die Menschen um es herum?*
+> - Zwei Geschichten in diesem Gespräch hielten der Prüfung nicht stand, die 50 Proteine und die Drohne, die ihren Operator tötet. Beide sind eindrücklicher als die Wahrheit. *Warum tragen gerade die besten Beispiele so oft die Fehler — und was heißt das für die, die Wissenschaft erklären?*
+> - Armut halbiert nach Spitzer die Synapsen in den ersten tausend Tagen. *Wenn das stimmt, ist Kinderarmut dann eine soziale Frage oder eine medizinische — und wer müsste handeln?*
