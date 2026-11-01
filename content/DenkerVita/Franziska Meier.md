@@ -3,10 +3,21 @@ title: Franziska Meier — DenkerVita
 description: "Was sich nicht darstellen lässt, kann große Literatur werden: Die Göttinger Romanistin Franziska Meier liest Camus’ Pest und Boccaccio als Texte, die an der Seuche weiterfragen."
 date: 2026-11-01
 aktualisiert: 2026-11-01
+raetsel: "Neun Kreise abwärts. Dann ein Garten, in dem zehn gegen die Seuche erzählen."
 tags: [denker-vita, literatur, literaturwissenschaft, frankreich, italien, gesundheit]
 ---
 
 # Franziska Meier — DenkerVita
+
+![[assets/Franziska-Meier-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fra Angelico (Fresko)** — kreidige Tempera, Azur, Rosa und Ocker, ein feiner Riss im Putz. Eine Gelehrte am Pult in einer Loggia über den Dächern von Florenz; unten im ummauerten Garten erzählen sich junge Leute Geschichten am Brunnen wie im *Decameron*, und weit hinten steigt über den Hügeln ein dunkler Rauch auf. Die Note malt die Seuche, die Vita die Leserin: eine, die in Florenz zu Hause ist und dort gelernt hat, dass man auch in schwarzen Zeiten erzählt.
+
+*Prompt:* Wide 1200x500 banner in the manner of an early Renaissance fresco by Fra Angelico: soft chalky tempera colours, pale azure, rose, ochre and gold, flat gentle perspective, plaster texture with faint cracks. A woman scholar seen from behind sits at a wooden desk in an arched loggia, open old books and a stack of manuscripts before her. Through the arches: the terracotta rooftops of Florence and a cathedral dome under a calm sky, and below in a walled garden a small circle of young people sitting on the grass telling each other stories beside a fountain, while far in the distance a dark wisp of smoke rises over the hills. Quiet, luminous, contemplative. No text, no letters, no inscriptions, no signature, no photorealism, no realistic faces.
+
+</details>
 
 > [!info] Wer spricht?
 > **Prof. Dr. Franziska Meier** ist Romanistin an der Universität Göttingen, Professorin für Romanische Literaturwissenschaft und Komparatistik am Lehrstuhl für französische und italienische Literaturwissenschaft ([Universität Göttingen](https://uni-goettingen.de/de/566197.html)), seit 2019 ordentliches Mitglied der Akademie der Wissenschaften zu Göttingen ([Akademie](https://adw-goe.de/es/members/personendetails/person/franziska-meier/)). Promoviert hat sie über Stendhal; heute arbeitet sie vor allem an Dante und Boccaccio, an der Frage, wie ein Buch über Jahrhunderte weiterlebt, und an der Literatur unter dem Faschismus. Im Mai 2020, in den ersten Wochen der Corona-Pandemie, sprach sie in einer virtuellen Ringvorlesung über Camus’ *Die Pest*: über einen Roman, der an der Unmöglichkeit, eine Seuche zu erzählen, zu großer Literatur wird.

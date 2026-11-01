@@ -5537,6 +5537,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[WDR — Schmutzige Schokolade]] |
 | **Transkript** | `Gedankenwelten/Transkripte/WDR_Schmutzige_Schokolade_Transkript.txt` |
 
+## Franziska Meier / Camus, Die Pest
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Der Krankheit einen Namen geben: Albert Camus' Roman „La Peste“ von 1947 – Franziska Meier](https://www.youtube.com/watch?v=F8qxbAGYEPY) (Universität Göttingen, Ringvorlesung „Ein Virus verändert die Welt“, 19.05.2020) |
+| **Notiz** | [[Franziska Meier — Camus Die Pest]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Meier_Pest_Transkript.txt` |
+
 ## TikTok und die Mitte — Panorama „Kann die Mitte auf TikTok mithalten?“
 
 | | |

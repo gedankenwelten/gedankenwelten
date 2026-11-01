@@ -1282,3 +1282,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Dagmar Simonsen
 **Status:** ✓ Vollanalyse — [[DenkerVita/Dagmar Simonsen]]
+
+## Franziska Meier
+**Status:** ✓ Vollanalyse → [[DenkerVita/Franziska Meier]]
+
+## Manfred Spitzer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Manfred Spitzer]]

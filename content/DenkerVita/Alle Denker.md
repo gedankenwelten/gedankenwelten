@@ -428,6 +428,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Heinz-Peter Meidinger|Heinz-Peter Meidinger]]** — Gymnasiallehrer und Verbandspolitiker; 2004–2017 Vorsitzender des Philologenverbands, 2017–2023 Präsident (seither Ehrenpräsident) des Deutschen Lehrerverbands; verteidigt Noten, G9 und Zentralabitur gegen Noteninflation — *Die 10 Todsünden der Schulpolitik*
 
+**[[DenkerVita/Franziska Meier|Franziska Meier]]** — Romanistin (Göttingen), Dante- und Boccaccio-Forscherin, die Camus’ *Pest* als Chronik liest, die an der Unmöglichkeit wächst, eine Seuche zu erzählen
+
 **[[DenkerVita/Margarita Seselgyte|Margarita Šešelgytė]]** — Litauische Politikwissenschaftlerin, seit 2019 Direktorin des Instituts für Internationale Beziehungen und Politikwissenschaft der Universität Vilnius; Abschreckung als psychologisches wie militärisches Problem, strategische Empathie und operative Solidarität, Total Defence als gesamtgesellschaftliche Resilienz
 
 **[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
@@ -630,6 +632,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Silke Stremlau|Silke Stremlau]]** — Geschäftsführerin Finance for Transition (F4T gGmbH, seit 2026); Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025); Pionierin institutioneller ESG-Bewertung seit 2000; Transformationsfinanzierung, Kapitalallokation als strategisches Instrument, Langfristkapital vs. Renditekapital; Leser- und Vordenkerinnenpreis 2024
 
 **[[DenkerVita/Damir Skenderovic|Damir Skenderovic]]** — Schweizer Historiker (Prof. Zeitgeschichte, Univ. Freiburg), Erforscher der radikalen Rechten; Standardwerk *The Radical Right in Switzerland*; Kontinuität statt Ausbruch, verdrängte rechtsextreme Vergangenheit der Schweiz, Rechtspopulismus als Diskursverschieber
+
+**[[DenkerVita/Manfred Spitzer|Manfred Spitzer]]** — Psychiater und Hirnforscher (Ulm, *1958), Gründer des ZNL, Autor von *Digitale Demenz*; warnt vor Bildschirmen in Kinderhänden und traut der KI die Rettung der Menschheit zu, umstritten wegen Alarmismus und zugespitzter Zahlen
 
 **[[DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive
 

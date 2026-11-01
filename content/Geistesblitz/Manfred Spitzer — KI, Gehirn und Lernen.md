@@ -38,7 +38,9 @@ aliases:
 
 Quelle: [Manfred Spitzer: KI, das Gehirn und wie wir lernen](https://www.youtube.com/watch?v=QoERJOhA5jg) · Interview mit Prof. Dr. Manfred Spitzer (psychiatrische Uniklinik Ulm)
 
-Psychiater, Neurowissenschaftler, Autor. Spitzer leitete bis Juli 2026 die Klinik für Psychiatrie und Psychotherapie III am Universitätsklinikum Ulm und gründete dort 2004 das Transferzentrum für Neurowissenschaften und Lernen (ZNL), eines der ersten Zentren, die Hirnforschung in die Schulen tragen wollten. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz. Dem Menschen überlegen – wie KI uns rettet und bedroht* (Droemer, 2023). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.
+Psychiater, Neurowissenschaftler, Autor. Spitzer leitete viele Jahre die Klinik für Psychiatrie und Psychotherapie III am Universitätsklinikum Ulm (seit Juli 2026 hat sie einen neuen Ärztlichen Direktor) und gründete dort 2004 das Transferzentrum für Neurowissenschaften und Lernen (ZNL), eines der ersten Zentren, die Hirnforschung in die Schulen tragen wollten. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz. Dem Menschen überlegen – wie KI uns rettet und bedroht* (Droemer, 2023). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.
+
+→ [[DenkerVita/Manfred Spitzer|DenkerVita]]
 
 > [!quote] Über KI
 > *„KI ist nicht ein schlauer Computer, KI ist was völlig anderes, nämlich ein neuronales Netzwerk, was aus einem Input den Output macht, ohne Algorithmus dazwischen."* [▶ 31:20](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1880)

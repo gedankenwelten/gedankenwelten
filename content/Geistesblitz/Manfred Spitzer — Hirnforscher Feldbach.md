@@ -39,7 +39,9 @@ aliases:
 Quelle: Vortrag in Feldbach, Österreich
 
 > [!info] Zur Quelle
-> Manfred Spitzer ist Psychiater und Neurowissenschaftler; bis Juli 2026 leitete er die Klinik für Psychiatrie und Psychotherapie III am Universitätsklinikum Ulm. Dieser Vortrag vor einem österreichischen Allgemeinpublikum in Feldbach umfasst Neuroplastizität, die Bedeutung von Bildung im frühen Kindesalter, Demenzprävention, das Lernzentrum im Gehirn — und endet mit einem deutlichen Plädoyer gegen Smartphones in Kindheit und Jugend.
+> Manfred Spitzer ist Psychiater und Neurowissenschaftler; viele Jahre leitete er die Klinik für Psychiatrie und Psychotherapie III am Universitätsklinikum Ulm, die seit Juli 2026 einen neuen Ärztlichen Direktor hat. Dieser Vortrag vor einem österreichischen Allgemeinpublikum in Feldbach umfasst Neuroplastizität, die Bedeutung von Bildung im frühen Kindesalter, Demenzprävention, das Lernzentrum im Gehirn — und endet mit einem deutlichen Plädoyer gegen Smartphones in Kindheit und Jugend.
+>
+> → [[DenkerVita/Manfred Spitzer|DenkerVita]]
 
 > [!quote] These des Vortrags
 > *„Das Gehirn ist kein Computer. Es macht keine Downloads. Es lernt. Und wer viel gelernt hat, lernt schneller weiter — und verliert später, was er hat."*

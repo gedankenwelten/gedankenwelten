@@ -123,7 +123,7 @@ Lieferbare deutsche Ausgaben, Stand 01.11.2026 (geprüft bei Rowohlt und der DNB
 
 - [100 Jahre Albert Camus: Iris Radisch und Martin Meyer im Gespräch](https://www.srf.ch/play/tv/sternstunde-philosophie/video/100-jahre-albert-camus-iris-radisch-und-martin-meyer-im-gespraech?urn=urn:srf:video:67da9276-9e4c-4e38-b6ea-7dabf3403439) (SRF Sternstunde Philosophie, 06.10.2013, 54 Min., deutsch) — zwei Biografen über den Menschen hinter dem Werk, mit Juri Steiner.
 - [Camus in 60 Minuten](https://www.youtube.com/watch?v=f6dF1Nf1TqM) (Walther Ziegler, 54 Min., deutsch) — kompakte Einführung in das Absurde, Sisyphos und die Revolte. → [[Walther Ziegler — Camus in 60 Minuten|Note]]
-- [Der Krankheit einen Namen geben: Albert Camus' Roman *La Peste* von 1947](https://www.youtube.com/watch?v=F8qxbAGYEPY) (Franziska Meier, Universität Göttingen, 22.05.2020, 41 Min., deutsch) — Ringvorlesung aus dem ersten Corona-Frühjahr.
+- [Der Krankheit einen Namen geben: Albert Camus' Roman *La Peste* von 1947](https://www.youtube.com/watch?v=F8qxbAGYEPY) (Franziska Meier, Universität Göttingen, 22.05.2020, 41 Min., deutsch) — Ringvorlesung aus dem ersten Corona-Frühjahr. → [[Franziska Meier — Camus Die Pest|Note]]
 - [Sartre & Camus. Französischer Existenzialismus – Mangel & Absurdität](https://www.youtube.com/watch?v=Qo11mRj9cnY) (Eugen Drewermann, 08.02.2025, 93 Min., deutsch) — Vorlesung, die die beiden Antworten nebeneinanderlegt.
 - [Albert Camus, « entier avec le monde »](https://www.youtube.com/watch?v=v8M_3sinYvk) (France Culture, La Grande Table, 20.01.2020, 26 Min., französisch) — Gespräch mit Georges-Marc Benamou zum 60. Todestag.
 - [Albert Camus: A Short Life](https://www.youtube.com/watch?v=-ZqQQh7MTV4) (London Review of Books, 17.10.2025, 12 Min., englisch) — Jonathan Rée über Camus im Unterschied zu Sartre und Beauvoir.
@@ -177,6 +177,7 @@ Die andere Seite gehört dazu. Seine Haltung im Algerienkrieg wird bis heute kri
 
 **Camus im Mittelpunkt**
 - [[Walther Ziegler — Camus in 60 Minuten]] — das Gefühl des Absurden, Sisyphos, Revolte statt Revolution
+- [[Franziska Meier — Camus Die Pest]] — *Die Pest* im Corona-Frühjahr 2020: die Chronik, deren Erzähler sich in die Abstraktion rettet, und das Leid, das sich nicht vermitteln lässt
 
 **Camus als Stimme**
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — der späte Camus aus *Der Fall*: Die Wahrheit blendet, die Lüge ist ein milder Dämmerschein
