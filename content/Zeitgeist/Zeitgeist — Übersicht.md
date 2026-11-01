@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*357 Notes — automatisch generiert · nach Thema sortiert*
+*358 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -419,6 +419,7 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen|Adriaan van Wagensveld — Für dich sorgen heißt für andere sorgen]] — Wer nie bei sich ankommt, kann aus Beziehungen nur ziehen. Für Adriaan van Wagensveld ist Selbstfürsorge die Bedingung, unter der man geben kann, ohne zu nehmen.
 - [[Zeitgeist/Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln|Adriaan van Wagensveld — Weniger Drama: Wie Vipassana dich ins Handeln bringt]] — Der Buddha lehrte den direkten Weg auf dem Marktplatz, vor Laien. Adriaan van Wagensveld: Vipassana dämpft erst das Drama, dann holt es dich aus der stabilen Seitenlage ins Handeln.
+- [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]] — Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
 
 ### Weitere Stimmen
 

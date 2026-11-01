@@ -151,6 +151,9 @@ Zum ÖRR: Die Verunsicherung sei groß, die Begriffe unklar. Es brauche Figuren,
 
 ## Verbindungen
 
+### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe#53 Minuten Wut|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+Wie das Du-Ohr im Ernstfall klingt und was es den Zuhörenden abverlangt, zeigt eine Telefonseelsorgerin nach 53 Minuten Wut.
+
 ### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
 
 Pörksens Arendt-Zitat „Die Wahrheit beginnt zu zweit" ist Callards Kernthese ausformuliert: Denken ist dialogisch. Beide setzen gegen Etikettierung und Floskel-Bescheidenheit das echte Gespräch als den Ort, an dem Prüfung überhaupt erst geschieht.

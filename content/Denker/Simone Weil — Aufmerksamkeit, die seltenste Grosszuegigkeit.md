@@ -336,6 +336,9 @@ Bleibt Beauvoirs Neid. Susan Wolf hat 1982 gefragt, ob man ein moralischer Heili
 
 ## Verbindungen
 
+### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+Was Weil als Gabe beschreibt, ist bei der TelefonSeelsorge Ausbildungsziel, mit einer Grenze, die Weil sich nie gezogen hat: „Ihr könnt mitfühlen, aber nicht mitleiden.“
+
 ### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
 
 Die Schwester-Note vom selben Konferenzmorgen, an dem Bleisch Weils Satz zum ersten Mal vortrug, als Gegenpol zur *dunklen Seite der Gabe*. Dort ist Großzügigkeit oft Etikettenschwindel, der Ansprüche als Gnade verkleidet, und mit Mauss eine Verpflichtung, die beschämen kann. Hier wird der helle Pol ausgeführt: Aufmerksamkeit ist die eine Gabe, auf die es keinen Anspruch geben kann, und Bengerts Antwort auf die Beschämung ist, dass der Gebende selbst beschenkt wird. Bleischs Formel vom Morgen, Großzügigkeit keime, wo die Gerechtigkeitskategorie aufhört, hat in der Sprechstunde ihr schärfstes Beispiel bekommen.

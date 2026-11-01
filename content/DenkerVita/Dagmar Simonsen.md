@@ -52,7 +52,18 @@ raetsel: "Unten im Dunkeln sagte sie nur: Wie lange schon?"
 - **Bei jeder Veränderung zuerst nach dem Grundgedanken fragen.** Online-Angebote haben seit Corona an Gewicht gewonnen. Wenn aus Geldnot oder Zeitgeist mehr nach Hause verlegt wird, müsse man fragen, was der Grundgedanke ist und was aus dem Seelsorgegeheimnis wird. Telefonseelsorge dürfe nicht zu etwas werden, das man „beim Bügeln“ nebenher macht *(Beleg: [▶ 41:22](https://www.youtube.com/watch?v=9JD4qrL3IUQ&t=2482), [▶ 42:08](https://www.youtube.com/watch?v=9JD4qrL3IUQ&t=2528), [▶ 42:53](https://www.youtube.com/watch?v=9JD4qrL3IUQ&t=2573); zum Telefondienst nur in der Geschäftsstelle: [telefonseelsorge-mv.de](https://telefonseelsorge-mv.de/gespraeche-koennen-leben-retten/))*.
 
 ## Verbindungen zu anderen Denkern
-*(wird von Montaigne befüllt)*
+
+### → [[DenkerVita/Simone Weil|Simone Weil]]
+Beide machen aus der Aufmerksamkeit eine Übung, in der das eigene Urteilen zurücktritt: Weil nennt es negative Anstrengung, Simonsen „ich werte ja nicht“. In der Grenze stehen sie gegeneinander. Weil schonte sich nie und starb ausgezehrt mit 34; Simonsen bildet aus, dass man sich erst absichert, bevor man zum Ertrinkenden schwimmt.
+
+### → [[DenkerVita/Judith Mangelsdorf|Judith Mangelsdorf]]
+Mangelsdorf sieht im Ehrenamt eine verlässliche Quelle der eigenen Bedeutsamkeit. Simonsen leitet ein Ehrenamt, in dem genau die äußere Hälfte fehlt, weil niemand erzählen darf, dass er es tut. Darum muss die Stelle die Wertschätzung von innen geben.
+
+### → [[DenkerVita/Bernhard Poerksen|Bernhard Pörksen]]
+Pörksens Du-Ohr, das fragt, in welcher Welt der andere recht hat, ist bei Simonsen Handwerk mit über hundert Stunden Ausbildung. Die Wahl zwischen roter und blauer Jacke ist ein Problem, wenn der Anrufende sie dafür hält.
+
+### → [[DenkerVita/Christine Braehler|Christine Brähler]]
+Brähler entlarvt das selbstlose Geben aus Angst als versteckte Selbstvernachlässigung. Simonsen zieht daraus die praktische Folge: Wer selbst einen schweren Rucksack trägt, geht nicht ans Telefon, und Supervision gehört dazu.
 
 ## Gedankenwelten-Notes
 - [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe]]

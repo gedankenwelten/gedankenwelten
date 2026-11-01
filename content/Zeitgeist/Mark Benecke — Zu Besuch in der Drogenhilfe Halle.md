@@ -251,6 +251,9 @@ Benecke verabschiedet sich mit einem Wunsch für den nächsten Besuch — zwei S
 
 ## Verbindungen
 
+### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+Dieselbe Haltung, nicht drängen und trotzdem dableiben, trägt die TelefonSeelsorge: „Gras wächst nicht schneller, wenn du dran ziehst.“
+
 ### → [[Tobias Ruether — Wie Sucht im Gehirn entsteht]]
 
 Rüther ist die klinische Seite derselben Haltung, die die *drobs* auf der Straße lebt: Er verwirft die „Doktrin der Gosse“ zugunsten warmer Entzüge und nennt die Schuldfrage beim Rückfall eine Diskriminierung kranker Menschen. Seine „zwei Richtungen“, in denen Seele und Sucht sich gegenseitig nähren, sind die Doppeldiagnose, an der das Hilfesystem in Halle scheitert, wenn Therapeutinnen Süchtige abweisen. Und sein Satz, das Gehirn kenne keinen Unterschied zwischen legal und illegal, gibt Beneckes Einwurf zum Alkohol das neurologische Fundament.

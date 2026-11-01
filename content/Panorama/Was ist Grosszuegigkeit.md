@@ -181,8 +181,9 @@ Zu viel kann es auch für die Gruppe werden: Wo Kooperierende Trittbrettfahrer n
 - **[[Fabian Bernhardt - Ist die Rache der Ursprung der Moral#Vergeben, Verzeihen, Versöhnen — und die unendliche Kränkbarkeit|Wolfram Eilenberger]]** (im Gespräch mit Fabian Bernhardt): Eine Gesellschaft, in der jeder jedem alles verziehe, wäre fast taub für Gerechtigkeit.
 - **[[Hans Maggi — Kurdistan im Nordirak#Das Geschenk, das man nicht ablehnen kann|Hans Maggi]]:** Die Gastfreundschaft ist so unbedingt, dass Ablehnen unmöglich wird; nach Wochen voller geschenkter Chips, Kekse und Baklava nimmt er sich vor, wieder selbst zu kochen.
 
-<details><summary>Weitere Stimmen (6)</summary>
+<details><summary>Weitere Stimmen (7)</summary>
 
+- **[[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe#Ins Loch steigen|Dagmar Simonsen]]:** Wer einem Ertrinkenden hinterherspringt, ohne sich abzusichern, geht mit unter. „Ihr könnt mitfühlen, aber nicht mitleiden.“
 - **[[Carlo Cipolla — Die fünf Gesetze der Dummheit#Wann wird Helfen zum Selbstschaden?|Carlo Cipolla]]:** Der „Hilflose“, der anderen nützt und sich selbst schadet, ist bei ihm keine Tugend, sondern ein Risiko: Er verschafft den Banditen Spielraum.
 
 - **[[Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen#Das Paradox der leeren Fürsorge|Adriaan van Wagensveld]]:** Familien, in denen sich alle füreinander aufopfern, bleiben trotzdem leer; wer zu viel gibt, ist ausgelaugt, wer zu viel bekommt, kann bald selbst nicht mehr geben.

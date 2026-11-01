@@ -327,6 +327,9 @@ Wobei diese Lücke vielleicht ehrlicher ist als ihre schnelle Schließung. Mange
 
 ## Verbindungen
 
+### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+Ein Ehrenamt, das man nicht einmal erzählen darf, ist der Härtetest für die These vom Beitragen als Quelle der Bedeutsamkeit. Die TelefonSeelsorge hängt die Dankesbriefe darum an die eigene Pinnwand.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Mattering und Resonanz sind fast dasselbe Wort in zwei Fächern: Bei Rosa berührt die Welt mich, bei Mangelsdorf berühre ich die Welt — beide meinen die Antwortbeziehung, deren Ausbleiben stumm macht. Die Reibung liegt in der Methode. Rosas Kernsatz ist, dass Gelingen genau dort geschieht, wo wir es *nicht* verfügbar machen: kein Versprechen, kein Zeitplan, kein Ergebnis. Mangelsdorf misst dieselbe Sache in sechs Säulen, Skalen und Kohortenstudien. Wenn Rosa recht hat, ist ein Flourishing-Fragebogen der Versuch, das Unverfügbare in ein Steckspiel zu übersetzen — was Mangelsdorf ausdrücklich verbietet und ihre Disziplin trotzdem täglich tut.

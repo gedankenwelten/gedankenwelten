@@ -155,6 +155,9 @@ Keiner von ihnen wusste mit 17, wohin er geht. Einige haben es geglaubt, Tilo Ju
 
 ## Verbindungen
 
+### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe#Oben in der Suchleiste|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+Es gibt auch die Weggabelung ohne Namen und ohne späteren Ruhm: eine Schülerin, die über die Online-Seelsorge zu ihrem Tutor und zu einer Therapeutin findet, begleitet von jemandem, der „einfach da“ war und keinen Rat gab.
+
 ### → [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
 Das Panorama über die Schule fragt, was sie aus Kindern macht. Hier steht, was Kinder trotz ihr, neben ihr und manchmal dank eines einzelnen Lehrers aus sich gemacht haben.
 

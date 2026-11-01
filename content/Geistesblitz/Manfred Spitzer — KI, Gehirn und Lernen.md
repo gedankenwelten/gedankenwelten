@@ -70,7 +70,11 @@ Nach zwei Jahren waren diese Kinder **eine halbe Note besser** als die 3.000 Ver
 
 Eine dänische Langzeitstudie zeigte: Der Kognitionstest mit 18 Jahren sagt Demenz mit 78 Jahren zu 99% genauso gut voraus wie der Test mit 60 Jahren. Bildung in der Jugend bestimmt, wann man im Alter dement wird.
 
-Das *Lancet*-Paper (2020) zur Demenzprävention: 60% der Demenz sind genetisch bedingt, 40% umweltbedingt. Von diesen 40% ist Bildung in Kindheit und Jugend mit **7%** der größte beeinflussbare Faktor.
+Das *Lancet*-Paper (2020) zur Demenzprävention, wie Spitzer es wiedergibt: 60% der Demenz sind genetisch bedingt, 40% umweltbedingt. Von diesen 40% ist Bildung in Kindheit und Jugend mit **7%** der größte beeinflussbare Faktor [▶ 21:30](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1290). *(die übrigen 60 % nennt die Kommission nicht genetisch, und Schwerhörigkeit liegt knapp vor Bildung → Kasten unten)*
+
+> [!warning] Vereinfacht — „60 % genetisch, 40 % umweltbedingt“
+> Die Lancet-Kommission schreibt, dass zwölf beeinflussbare Risikofaktoren zusammen rund 40 % der Demenzen weltweit ausmachen, die man darum theoretisch verhindern oder hinauszögern könnte. Von den übrigen 60 % sagt sie nicht, sie seien genetisch; sie gehen auf Alter, Gene und Ursachen zurück, die noch niemand kennt. Bei den Faktoren selbst liegt Bildung in jungen Jahren mit 7,1 % auf dem zweiten Platz, knapp hinter Schwerhörigkeit im mittleren Alter mit 8,2 %. Spitzers Pointe trägt trotzdem: Bildung ist einer der größten Hebel, und er wirkt Jahrzehnte im Voraus. 2024 hat die Kommission ihr Modell erweitert ([Livingston et al. 2024](https://doi.org/10.1016/s0140-6736(24)01296-0)).
+> Quelle: [Livingston et al. 2020, *The Lancet*](https://doi.org/10.1016/s0140-6736(20)30367-6) (Summary und Tabelle der Risikofaktoren, gelesen über [Europe PMC](https://europepmc.org/article/PMC/PMC7392084))
 
 > [!quote] Nonnenstudie — die eindrucksvollste Illustration
 > Schwester Maria: lehrte bis 84, arbeitete inoffiziell bis 101. Tests mit 101: **keine Demenz.** Autopsie nach dem Tod: **Hirn voller Alzheimer** — riesige Mengen zerstörter Nervenzellen. Das supertrainierte Hirn hat so viel Reserve gehabt, dass der Schaden unbemerkt blieb.

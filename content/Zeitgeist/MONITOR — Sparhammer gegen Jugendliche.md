@@ -166,6 +166,9 @@ Die ökonomische Logik der Kürzungen ist damit nicht nur sozialpolitisch bedenk
 
 ## Verbindungen
 
+### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe#Besetzt|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+Die TelefonSeelsorge versteht sich als Brücke zu genau solcher Hilfe, und eine Schülerin fand über sie zu einer Therapeutin. Wo am anderen Ufer gekürzt wird, endet die Brücke im Leeren.
+
 ### → [[MONITOR — Minijobs als Armutsfalle]]
 
 Beide MONITOR-Episoden beschreiben dasselbe staatliche Sparparadox auf verschiedenen Zeitachsen: Minijobs erzeugen Altersarmut durch kurzfristige Beitragsvermeidung — die Jugendhilfekürzungen erzeugen Psychiatrie- und Obdachlosigkeitskosten durch kurzfristige Präventioneinsparungen. In beiden Fällen spart der Staat heute an Infrastruktur und zahlt morgen das Mehrfache. Die strukturelle Logik ist identisch.

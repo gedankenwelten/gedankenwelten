@@ -5489,6 +5489,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Scherbakowa_Bota_Memorial_Erinnern_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Irina Scherbakowa]] · [[DenkerVita/Alice Bota]] |
 
+## Die Frage (funk) — TelefonSeelsorge
+
+| | |
+|---|---|
+| **Video** | [TelefonSeelsorge: Was passiert, wenn ich anrufe?](https://www.youtube.com/watch?v=C5uPbLMtcM4) (Die Frage, funk/BR, 21.09.2021) |
+| **Podcast** | [Zuhören – Seelsorge am Telefon](https://www.youtube.com/watch?v=9JD4qrL3IUQ) (ehrenwert, Nordkirche, 28.05.2024) |
+| **Notiz** | [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe]] |
+| **Transkript** | `Gedankenwelten/Transkripte/DieFrage_TelefonSeelsorge_Transkript.txt` · `Gedankenwelten/Transkripte/ehrenwert_TelefonSeelsorge_Transkript.txt` |
+| **DenkerVita** | [[DenkerVita/Dagmar Simonsen]] |
+
 ## Handel mit Diktaturen — Panorama „Darf Europa mit Diktaturen Handel treiben?“
 
 | | |
