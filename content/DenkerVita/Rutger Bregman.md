@@ -2,6 +2,8 @@
 title: Rutger Bregman — DenkerVita
 description: "Rutger Bregman hält die meisten Menschen für anständig und belegt es gegen Hobbes und Herr der Fliegen, der Historiker, der 2019 in Davos den Reichen ihre Steuervermeidung vorhielt."
 date: 2026-06-17
+aktualisiert: 2026-11-01
+raetsel: "Sechs Jungen strandeten auf einer Insel. Fünfzehn Monate hielten sie das Feuer."
 tags: [denker-vita, philosophie, anthropologie, niederlande]
 ---
 
@@ -16,8 +18,6 @@ tags: [denker-vita, philosophie, anthropologie, niederlande]
 *Prompt:* Bright hopeful flat illustration, 1200x500 wide banner. A cheerful crowd of diverse people building a brighter city together, gentle money raining down softly, a shorter-work-week clock and a bridge toward a sunny skyline, small hearts of human kindness; a realist utopia where people are fundamentally decent. Warm yellow, sky blue, green, coral, optimistic flat shapes. No photorealism, no realistic faces.
 
 </details>
-
-## Biographischer Snapshot
 
 > [!info] Wer spricht?
 > **Rutger Bregman** (* 26. April 1988 in Renesse, Niederlande) — niederländischer Historiker, Bestsellerautor und Aktivist, der ein optimistisches Menschenbild empirisch begründet: *Die meisten Menschen taugen*.
@@ -39,6 +39,8 @@ Den Weg in die Wissenschaft trat er bewusst nicht an. Statt Akademiker wurde er 
 - **Februar 2019 — Tucker Carlson.** Im Fox-News-Interview nannte er Carlson „einen Millionär, der von Milliardären bezahlt wird"; der Moderator wurde ausfällig, Fox strahlte das Gespräch nie aus. Gut eine Woche später veröffentlichte Bregman die Aufnahme selbst über NowThis, was die Geschichte noch größer machte ([NOS](https://nos.nl/artikel/2272816-hoe-een-interview-van-fox-news-met-rutger-bregman-volledig-ontspoort)).
 - **2024 — School for Moral Ambition.** Mit seinem Buch *Moralische Ambition* gründete er zusammen mit Harald Dunnink, Julia van Boven, Jan-Willem van Putten und Ruben Timmerman eine Bewegung, die Berufstätige aus „nutzlosen" Hochstatus-Jobs in wirkungsvolle Arbeit lotsen will ([moralambition.org](https://www.moralambition.org/about-us)).
 - **2025 — BBC Reith Lectures.** Vier Vorlesungen unter dem Titel *Moral Revolution*; auf Deutsch 2026 als *Die Rückkehr der Hoffnung. Vier Lektionen über die Kraft der Moral*.
+
+Dazwischen liegt das Buch, das sein Menschenbild in die Welt trug. *De meeste mensen deugen* (2019, deutsch *Im Grunde gut*) erschien in 46 Sprachen, auf Deutsch 2020. Danach wandte er sich vom Befund zur Forderung: Wenn die meisten Menschen anständig sind, warum verbringen so viele Begabte ihr Leben in Berufen, die niemandem nützen? Daraus wurden *Moralische Ambition* und die *School for Moral Ambition*, in deren amerikanischem Vorstand er heute sitzt ([eigene Seite](https://www.rutgerbregman.com/about)). 2025 hielt er die Reith Lectures der BBC.
 
 Bregman hat das Versprechen von *Giving What We Can* abgelegt und spendet 10 % seines Einkommens an wirksame Hilfsorganisationen ([Giving What We Can, 2024](https://www.youtube.com/watch?v=_OvfC0qwZvM)).
 
@@ -72,7 +74,9 @@ Bregman hat das Versprechen von *Giving What We Can* abgelegt und spendet 10 % s
 
 ## Politische Einordnung
 
-Bregman steht klar im progressiven Spektrum, lässt sich aber keinem Parteilager zuordnen. Seine Kernforderungen — bedingungsloses Grundeinkommen, 15-Stunden-Woche, offene Grenzen, gerechte Besteuerung von Vermögen und Konzernen — verbinden sozialdemokratische, libertär-linke und effektiv-altruistische Stränge. In der Sternstunde nennt er sich *„a pretty old-fashioned social democrat"* und verweist auf die hohen Steuersätze der 1950er und 60er Jahre, die mit Innovation und Wachstum zusammengingen. Nähe zum *Effektiven Altruismus* (Giving What We Can) prägt seine Wirkungsorientierung; Kritiker werfen dieser Strömung technokratische Verengung vor. Bregmans rhetorische Stärke ist die optimistische Wende: Er argumentiert nicht aus Empörung, sondern aus belegbarer Zuversicht.
+Bregman steht klar im progressiven Spektrum, lässt sich aber keinem Parteilager zuordnen. Seine Kernforderungen — bedingungsloses Grundeinkommen, 15-Stunden-Woche, offene Grenzen, gerechte Besteuerung von Vermögen und Konzernen — verbinden sozialdemokratische, libertär-linke und effektiv-altruistische Stränge. In der Sternstunde nennt er sich *„a pretty old-fashioned social democrat"* und verweist auf die hohen Steuersätze der 1950er und 60er Jahre, die mit Innovation und Wachstum zusammengingen. Nähe zum *Effektiven Altruismus* (Giving What We Can) prägt seine Wirkungsorientierung; Kritiker werfen dieser Strömung technokratische Verengung vor. Bregmans rhetorische Stärke ist die optimistische Wende: Er argumentiert aus Zuversicht, die er belegen will, statt aus Empörung.
+
+Genau dort setzt die Kritik an. Steven Poole nannte *Humankind* im Guardian eine Polemik „im hohen Gladwell-Stil", gebaut aus sorgfältig ausgewählten Studien und lehrreichen Szenen; die Neuheit der These sei übertrieben, denn Rousseau sei nie aus der Geschichte getilgt worden. Er hält Bregman aber auch zugute, dass er bei Milgram ehrlich bleibt: Er wollte das Experiment zu Fall bringen und räumt ein, dass es sich immer wieder bestätigt hat ([Poole, The Guardian, 10.06.2020](https://www.theguardian.com/books/2020/jun/10/humankind-by-rutger-bregman-review-a-hopeful-history-of-our-nature)). Andrew Anthony fand im selben Blatt viel ermutigende Evidenz, hielt die Wahl zwischen Hobbes und Rousseau aber für falsch gestellt, „when, clearly, humanity encompasses both" — und vermisste, dass mit dem Ackerbau nicht nur die Seuchen wuchsen, sondern auch die Zahl der Menschen, die zusammenleben mussten ([Anthony, The Guardian, 12.05.2020](https://www.theguardian.com/books/2020/may/12/humankind-a-hopeful-history-by-rutger-bregman-review)). Das ist dieselbe Frage, die Barbara Bleisch ihm in der Sternstunde stellt.
 
 ## Verbindungen zu anderen Denkern
 
@@ -90,9 +94,5 @@ Bregman steht klar im progressiven Spektrum, lässt sich aber keinem Parteilager
 - [[Rutger Bregman — Ist der Mensch wirklich gut]] — Sternstunde Philosophie mit Barbara Bleisch: *survival of the friendliest*, das Paradox des Welpen und das Menschenbild als selbsterfüllende Prophezeiung.
 - [[Neue Akropolis — Der Mensch ist besser als sein Ruf]] — führt Bregmans *Im Grunde gut* als populäre Gesamtdarstellung der Forschungslage zum guten Menschen an.
 - [[Horst Evers — Kostenloser Nahverkehr als Utopie]] — *Fun Facts Utopia* (kostenloser ÖPNV) wendet Bregmans Methode aus *Utopien für Realisten* praktisch an: eine scheinbar „unmögliche" Idee empirisch erden, bis sie machbar wird.
-- [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]] — der Vertrauensvorschuss im Maßstab 1:1: Misstrauen erzeugt die Fassade, vor der es warnt.
-- [[Hans Maggi — Kurdistan im Nordirak]] und [[Hans Maggi — Sokotra]] — die Großzügigkeit Fremder als zwei Wochen Alltag am Straßenrand und als Gastfreundschaft von Menschen, deren Ernte verdorrt.
 - [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] — aus Bregmans „gewählter Aristokratie" ist eine Partei für das Los geworden.
-- [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] — die Ultrareichen als Anschauungsfall für Bregmans Satz, dass Macht isoliert.
-- [[Hannah Arendt — Die Banalität des Bösen]] und [[Erich Fromm — Psychoanalyse des Faschismus]] — die Gegenstimmen zum Konformismus des „homo puppy" und zu Milgram.
-- Panoramen: [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]] · [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]] · [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]] · [[Panorama/Fortschritt|Fortschritt]]
+- Als Stimme in den Panoramen [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]] · [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]] · [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
