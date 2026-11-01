@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **01.11.** — [[Denker/Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben (Camus, Die Pest)]]
+>
+> Wie erzählt man ein Sterben, das jedes Maß übersteigt? Franziska Meier liest Camus' Pest als Roman über den Preis der Abstraktion und über ein Leid, das sich nicht vermitteln lässt.
+
 > **01.11.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
 >
 > Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Man spürt etwas an einer Stelle, wo nichts mehr ist. Für Eva von Redecker ist Faschismus die Verteidigung eines Phantombesitzes – und sie nennt vier Wege, ihm den Boden zu entziehen.
 
-> **30.10.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
->
-> Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
-
-> → *1 weitere in* [[Denker]]
+> → *2 weitere in* [[Denker]]
 
 ### Geistesblitz
 

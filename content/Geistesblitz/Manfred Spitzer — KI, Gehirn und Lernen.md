@@ -34,11 +34,11 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Für Manfred Spitzer ist KI keine schlaue Rechenmaschine, sondern künstliche Intuition: ein Netz, das aus Erfahrung Regeln anwendet, die es selbst nicht kennt, so wie unser Gehirn. Aus derselben Hirnforschung leitet er zwei Haltungen ab, die selten zusammen auftreten. Bildschirme in Kinderhänden hält er für Körperverletzung, weil das Gehirn sich nach dem formt, was über seine Synapsen läuft. Und der KI traut er zu, die Menschheit zu retten, solange ein Mensch die Verantwortung behält, die keine Maschine tragen kann. Ein langes Gespräch, voller Beispiele, von denen nicht jedes hält (→ die Kästen im Text).
+> Für Manfred Spitzer ist KI keine schlaue Rechenmaschine, sondern künstliche Intuition: ein Netz, das aus Erfahrung Regeln anwendet, die es selbst nicht kennt, so wie unser Gehirn. Aus derselben Hirnforschung leitet er zwei Haltungen ab, die selten zusammen auftreten. Bildschirme in Kinderhänden hält er für Körperverletzung, weil das Gehirn sich nach dem formt, was über seine Synapsen läuft. Und der KI traut er zu, die Menschheit zu retten, solange ein Mensch die Verantwortung behält, die keine Maschine tragen kann. Ein langes Gespräch, voller Beispiele, von denen viele größer erzählt sind, als die Forschung sie hergibt (→ [[#Faktencheck|Faktencheck]]).
 
 Quelle: [Manfred Spitzer: KI, das Gehirn und wie wir lernen](https://www.youtube.com/watch?v=QoERJOhA5jg) · Interview mit Prof. Dr. Manfred Spitzer (psychiatrische Uniklinik Ulm)
 
-Psychiater, Neurowissenschaftler, Autor. Spitzer ist Direktor der psychiatrischen Universitätsklinik Ulm und Gründer des dortigen Transferzentrums für Neurowissenschaft und Lernen — das erste weltweit, noch vor Harvard und Oxford. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz — den Menschen überlegen* (2024). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.
+Psychiater, Neurowissenschaftler, Autor. Spitzer leitete bis Juli 2026 die Klinik für Psychiatrie und Psychotherapie III am Universitätsklinikum Ulm und gründete dort 2004 das Transferzentrum für Neurowissenschaften und Lernen (ZNL), eines der ersten Zentren, die Hirnforschung in die Schulen tragen wollten. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz. Dem Menschen überlegen – wie KI uns rettet und bedroht* (Droemer, 2023). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.
 
 > [!quote] Über KI
 > *„KI ist nicht ein schlauer Computer, KI ist was völlig anderes, nämlich ein neuronales Netzwerk, was aus einem Input den Output macht, ohne Algorithmus dazwischen."* [▶ 31:20](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1880)
@@ -64,15 +64,15 @@ Das Gehirn hat auch keine Trennung von Verarbeitung und Speicher — anders als 
 
 Das Gehirn ist formbar — bei Kindern am stärksten, bei Erwachsenen langsamer, aber nie null. Was über die Synapsen von Kindern läuft, ist nicht egal. Es verändert die Hardware.
 
-Eine Studie (publiziert in *Science*): Man sagte 3.000 Kindern am Schuljahresanfang:
+Spitzer erzählt von einer Studie, die in *Science* erschienen sei: Man sagte 3.000 Kindern am Schuljahresanfang:
 
 > *„Euer Hirn ist wie ein Muskel, wenn ihr trainiert, wird der besser, und es ist für euer Leben ganz wichtig."* [▶ 77:41](https://www.youtube.com/watch?v=QoERJOhA5jg&t=4661)
 
-Nach zwei Jahren waren diese Kinder **eine halbe Note besser** als die 3.000 Vergleichskinder. Eine knappe Stunde Erklärung → ein Schultyp Unterschied nach zwei Jahren.
+Nach einem Jahr seien diese Kinder eine Viertelnote, nach zwei Jahren **eine halbe Note besser** gewesen als die 3.000 Vergleichskinder, für ihn ein ganzer Schultyp. *(die größte Studie dazu erschien in *Nature* und fand bei den schwächeren Schülern etwa ein Zehntel davon, über ein Jahr → [[#Faktencheck|Faktencheck]])*
 
 ### Schule als Demenzprophylaxe
 
-Eine dänische Langzeitstudie zeigte: Der Kognitionstest mit 18 Jahren sagt Demenz mit 78 Jahren zu 99% genauso gut voraus wie der Test mit 60 Jahren. Bildung in der Jugend bestimmt, wann man im Alter dement wird.
+Spitzer beruft sich auf dänische Musterungsdaten: Der Kognitionstest mit 18 sage Demenz mit 78 nur ein Prozent schlechter voraus als der Test mit 60 [▶ 19:57](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1197). *(belegt ist, dass der frühe Test das Demenzrisiko vorhersagt, nicht dieser Vergleich → [[#Faktencheck|Faktencheck]])* Frühe Bildung verschiebt das Risiko, sie bestimmt es nicht allein.
 
 Das *Lancet*-Paper (2020) zur Demenzprävention, wie Spitzer es wiedergibt: 60% der Demenz sind genetisch bedingt, 40% umweltbedingt. Von diesen 40% ist Bildung in Kindheit und Jugend mit **7%** der größte beeinflussbare Faktor [▶ 21:30](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1290). *(die übrigen 60 % nennt die Kommission nicht genetisch, und Schwerhörigkeit liegt knapp vor Bildung → Kasten unten)*
 
@@ -81,7 +81,7 @@ Das *Lancet*-Paper (2020) zur Demenzprävention, wie Spitzer es wiedergibt: 60% 
 > Quelle: [Livingston et al. 2020, *The Lancet*](https://doi.org/10.1016/s0140-6736(20)30367-6) (Summary und Tabelle der Risikofaktoren, gelesen über [Europe PMC](https://europepmc.org/article/PMC/PMC7392084))
 
 > [!quote] Nonnenstudie — die eindrucksvollste Illustration
-> Schwester Maria: lehrte bis 84, arbeitete inoffiziell bis 101. Tests mit 101: **keine Demenz.** Autopsie nach dem Tod: **Hirn voller Alzheimer** — riesige Mengen zerstörter Nervenzellen. Das supertrainierte Hirn hat so viel Reserve gehabt, dass der Schaden unbemerkt blieb.
+> Schwester Maria, wie Spitzer sie nennt (in der Studie „Sister Mary“): lehrte bis 84, arbeitete inoffiziell bis 101. Tests mit 101: **keine Demenz.** Autopsie nach dem Tod: **Hirn voller Alzheimer-Spuren**, Plaques und Neurofibrillen. Das supertrainierte Hirn hat so viel Reserve gehabt, dass der Schaden unbemerkt blieb.
 
 Demenz ist kein Schicksal. Je höher man anfängt, desto länger dauert es, bis man unten ist.
 
@@ -100,15 +100,15 @@ Spitzer warnt seit 2012 — damals verlacht, heute sieht er sich bestätigt. Die
 
 > *„… bei jungen Menschen, die 10 Stunden am Tablet oder Smartphone verbringen, was wir da beobachten: Aufmerksamkeitsstörungen gehen durch die Decke, Autismus geht durch die Decke, Empathieverlust geht durch die Decke, Einfühlungsvermögen geht in den Keller."* [▶ 56:23](https://www.youtube.com/watch?v=QoERJOhA5jg&t=3383)
 
-**Was heute passiert:**
-- Schweden und Australien haben Bildschirme aus Schulen zurückgenommen
-- Dänemark hat sich öffentlich bei Kindern entschuldigt
-- Macron: Smartphones bis 14 und Social Media bis 17 verbieten
-- China: Smartphones komplett verboten bis 15
+**Was Spitzer als Zeichen der Umkehr anführt** [▶ 23:00](https://www.youtube.com/watch?v=QoERJOhA5jg&t=1380) *(nicht alles hält, und Frankreich ist inzwischen weiter → [[#Faktencheck|Faktencheck]])*:
+- Schweden und Australien hätten Bildschirme aus Schulen zurückgenommen
+- Dänemark habe sich öffentlich bei Kindern entschuldigt
+- Macron wolle Smartphones bis 14 und Social Media bis 17 verbieten
+- China habe Smartphones bis 15 verboten
 
 ### Die Raucherlobby-Parallele
 
-Die Tabakindustrie hat es 50 Jahre geschafft, Gesetze zu verhindern — obwohl Rauchen = Krebs bekannt war. In diesen 50 Jahren: 7 Millionen Tote in Deutschland.
+Die Tabakindustrie hat es 50 Jahre geschafft, Gesetze zu verhindern — obwohl Rauchen = Krebs bekannt war. In diesen 50 Jahren seien in Deutschland jedes Jahr 140.000 Menschen am Rauchen gestorben, rechnet Spitzer, zusammen 7 Millionen [▶ 53:21](https://www.youtube.com/watch?v=QoERJOhA5jg&t=3201) *(das DKFZ zählt 120.000 bis 130.000 im Jahr → [[#Faktencheck|Faktencheck]])*.
 
 > *„Die Raucherlobby ist verglichen mit der digitalen Lobby so klein mit Hut, was die finanzielle Kapazität anbelangt … Deswegen werden wir beregnet von: Digital ist toll, digital macht schlau, digital ist die Zukunft, weil da Leute gut dran verdienen."* [▶ 53:21](https://www.youtube.com/watch?v=QoERJOhA5jg&t=3201)
 
@@ -116,10 +116,10 @@ Die Tabakindustrie hat es 50 Jahre geschafft, Gesetze zu verhindern — obwohl R
 
 Das Auge ist entwicklungsgeschichtlich ein Teil des Gehirns. Es wächst so lange, bis es scharf sieht. Bildschirmzeit → Augapfel wächst zu lang → Kurzsichtigkeit → deformierter Augapfel → Hauptrisikofaktor für Erblindung im Alter.
 
-**Wuhan-Lockdown-Studie:** 25.000 Kinder wurden seit 2015 halbjährlich gemessen. Im Lockdown 2020 (mehr Bildschirmzeit): augapfelwachstum **verdreifacht**.
+**Die Lockdown-Studie:** Spitzer erzählt von Kindern in Wuhan, deren Augen seit 2015 regelmäßig untersucht wurden; im Lockdown 2020, mit mehr Bildschirmzeit, habe sich das Wachstum der Augäpfel **verdreifacht**, am stärksten bei den Jüngsten. *(seine Zahlen passen auf eine Studie aus Feicheng, gemessen wurde die Sehschärfe, nicht der Augapfel → [[#Faktencheck|Faktencheck]])*
 
 - Prognose: 4,8 Milliarden Kurzsichtige bis 2050 (die Hälfte der Weltbevölkerung)
-- Stuttgart: Alle Kinder in allen Kindergärten bekommen iPads
+- Stuttgart: Laut Spitzer bekommen alle Kinder in allen Kindergärten iPads *(2021 waren es Tablets für 84 Sprach-Kitas → [[#Faktencheck|Faktencheck]])*
 - Spitzers Urteil: *„Körperverletzung mit Ansage."*
 
 ---
@@ -136,11 +136,11 @@ Das ist KI: Sie kennt ihre Regeln nicht, aber wendet sie an.
 
 ### KI als Orakel
 
-AlphaGo spielte sich in 40 Tagen durch 3000 Jahre menschlicher Go-Spielgeschichte — und entwickelte dann Züge, die kein Mensch versteht. Es spielte dann 100-mal gegen die bis dahin beste KI — und gewann 100-mal.
+AlphaGo Zero holte in drei Tagen Selbstspiel ein, wofür Menschen 3000 Jahre Go-Geschichte gebraucht hatten, und entwickelte dann Züge, die kein Mensch versteht. Gegen die Version, die Lee Sedol besiegt hatte, gewann es 100 von 100 Partien; nach 40 Tagen war es stärker als jede Vorgängerin.
 
 Go-Experten studieren seitdem, was die Maschine macht. *Wir lernen jetzt von der Maschine.*
 
-> Spitzer gibt einen Kommentar in *Nature* so wieder: Wir werden uns daran gewöhnen müssen, es mit Maschinen zu tun zu haben, die uns etwas sagen, was wir nur **glauben** können, aber nicht wissen [▶ 111:13](https://www.youtube.com/watch?v=QoERJOhA5jg&t=6673). KI als modernes Orakel.
+> Spitzer gibt einen Kommentar in *Nature* so wieder: Wir werden uns daran gewöhnen müssen, es mit Maschinen zu tun zu haben, die uns etwas sagen, was wir nur **glauben** können, aber nicht wissen [▶ 111:13](https://www.youtube.com/watch?v=QoERJOhA5jg&t=6673). KI als modernes Orakel. Im Original, dem Leitartikel „Digital intuition“ vom Januar 2016 zur ersten AlphaGo-Arbeit, heißt es: *„The machine becomes an oracle; its pronouncements have to be believed.“* ([*Nature* 529, 437](https://doi.org/10.1038/529437a))
 
 > [!question] Weitergedacht
 > Spitzer nennt KI künstliche Intuition, und auch unsere eigene Intuition können wir nicht begründen. *Warum misstrauen wir der Maschine, die ihre Regeln nicht kennt, mehr als dem Menschen, dem es genauso geht — oder ist es umgekehrt, und wir vertrauen ihr zu schnell?*
@@ -157,15 +157,15 @@ In 50 Jahren mühsamer Experimentalarbeit: 50 bekannte Proteinstrukturen, sagt S
 > Vor AlphaFold lagen nach Jahrzehnten experimenteller Arbeit (Röntgenkristallographie, NMR, Kryo-EM) rund **200.000** Proteinstrukturen in der Protein Data Bank — das Viertausendfache. Spitzers Pointe trägt trotzdem, nur mit der richtigen Zahl: Die AlphaFold-Datenbank stellt inzwischen über **200 Millionen** vorhergesagte Strukturen bereit, also nahezu jedes bekannte Protein. *(Ergänzt am 11.10.2026; → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage]], dort derselbe Durchbruch aus dem Fach.)*
 > Quelle: [RCSB Protein Data Bank — Statistik](https://www.rcsb.org/stats/growth/growth-released-structures) · [Nobelprize.org — Chemie 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 
-Demis Hassabis (DeepMind, 2014 für 400 Mio. £ an Google verkauft):
-- 2020: **24 von 43** bei Wettbewerb richtig (zweitbester: 14)
-- 2021: **98,5%** aller menschlichen Proteine bekannt
-- 2022: **220 Millionen** Proteine aller Lebewesen auf der Erde — fertig
+Demis Hassabis (DeepMind, 2014 für rund 400 Mio. £ an Google verkauft):
+- 2018: beim Wettbewerb CASP die beste Struktur bei **25 von 43** Proteinen, der Zweitplatzierte bei 3
+- 2021: Vorhersagen für **98,5 %** aller menschlichen Proteine, gut die Hälfte davon mit hoher Sicherheit
+- 2022: **über 200 Millionen** vorhergesagte Strukturen, fast jedes bekannte Protein
 
-Ohne Patentierung → weltweite Pharmaforschung explodiert seitdem.
+Für Spitzer hat Hassabis wie einst von Neumann nichts patentiert, und darum explodiere die Pharmaforschung. *(die Datenbank ist frei, die Verfahren hat DeepMind patentieren lassen → [[#Faktencheck|Faktencheck]])*
 
 > [!note] Mooresches Gesetz vs. KI
-> Computer werden alle 18 Monate doppelt so schnell. KI-Fortschritt: jährlich mal 100.000 oder mal 1.000. KI ist nicht linear — sie ist **explosiv**.
+> Computer werden alle 18 Monate doppelt so schnell, KI dagegen „alle Jahre mal 100.000 oder mal 1000“, sagt Spitzer [▶ 96:46](https://www.youtube.com/watch?v=QoERJOhA5jg&t=5806). Gemessen am Rechenaufwand für das Training großer Modelle ist es etwa das Vier- bis Fünffache im Jahr: viel schneller als Moore, aber um Größenordnungen langsamer als Spitzers Zahl (→ [[#Faktencheck|Faktencheck]]).
 
 ---
 
@@ -213,7 +213,7 @@ Was KI lösen kann, was wir allein nicht schaffen:
 - **Klimakrise:** 100 Millionen Bäume in der Sahelzone per Satelliten individuell beobachten → möglich mit KI, unmöglich ohne
 - **Energieeffizienz:** Smarte Stromnetze, elektroautos als Batterien
 - **Medizin:** Proteinforschung, Diagnostik, Medikamentenentwicklung
-- **Keilschrift:** KI liest alle 600.000 bekannten Keilschrifttontafeln besser als die 100 besten Experten weltweit
+- **Keilschrift:** Eine KI lese die 600.000 bekannten Tontafeln besser als die hundert besten Fachleute der Welt *(belegt sind Übersetzungshilfen, keine Überlegenheit → [[#Faktencheck|Faktencheck]])*
 
 ---
 
@@ -221,7 +221,7 @@ Was KI lösen kann, was wir allein nicht schaffen:
 
 Die ersten **1000 Tage** (Konzeption bis 2. Geburtstag) sind für die Gehirnentwicklung entscheidend.
 
-Kinder, die in Armut aufwachsen, haben am Ende dieser Phase **halb so viele Synapsen** wie Kinder ohne Armut. Das lässt sich nicht mehr vollständig kompensieren.
+Kinder, die in Armut aufwachsen, haben am Ende dieser Phase nach Spitzer **halb so viele Synapsen** wie Kinder ohne Armut. *(gemessen ist eine kleinere graue Substanz, je ärmer, desto deutlicher; von halb so vielen Synapsen weiß die Forschung nichts → [[#Faktencheck|Faktencheck]])*
 
 > *„Wer in den ersten zwei Lebensjahren Armut durchlaufen hat, der hat einfach ganz schlechte Karten, was die Produktivität und seine Glücksfähigkeit für den Rest seines Lebens anbelangt … Die Armut, die wir heute haben, können wir uns langfristig nicht leisten. Es klingt so paradox, es ist aber so."* [▶ 144:44](https://www.youtube.com/watch?v=QoERJOhA5jg&t=8684)
 
@@ -229,9 +229,62 @@ Kinder, die in Armut aufwachsen, haben am Ende dieser Phase **halb so viele Syna
 
 ## 9. Sport und Depression
 
-Bewegung → neue Nervenzellen im Hippocampus (zuständig für Gedächtnis und Konzentration). Stress lässt Nervenzellen im Hippocampus absterben — das ist das Krankheitsmodell für Depression.
+Bewegung → neue Nervenzellen im Hippocampus (zuständig für Gedächtnis und Konzentration). Stress lässt Nervenzellen im Hippocampus absterben — für Spitzer ein Krankheitsmodell der Depression.
 
-Antidepressiva wirken unter anderem, indem sie die Neurogenese im Hippocampus fördern — daher drei Wochen bis zur Wirkung. Sport tut dasselbe.
+Antidepressiva wirken nach seiner Darstellung, indem sie die Neurogenese im Hippocampus fördern — daher drei Wochen bis zur Wirkung —, und Sport tue dasselbe. *(der Befund stammt von Mäusen, beim Menschen ist er umstritten; für Sport ist ein größerer Hippocampus belegt → [[#Faktencheck|Faktencheck]])*
+
+---
+
+## Faktencheck
+
+*Geprüft am 01.11.2026 (Aristarch, Sherlock). Ein Muster fällt auf: Fast jede Zahl, die nicht hält, ist bei Spitzer größer als in der Quelle. Das Beispiel muss die Pointe tragen. Die Richtung stimmt meist, das Maß nicht. Die Kästen zu Lancet, den 50 Proteinen und der Drohne stehen oben im Text.*
+
+> [!danger] Falsch — Eine Stunde Mindset, eine halbe Note besser
+> Die größte Studie zu dieser Intervention erschien in *Nature*, nicht in *Science* (Yeager et al. 2019, 12.490 Neuntklässler, weniger als eine Stunde). Sie fand für die schwächeren Schüler 0,10 Punkte auf der amerikanischen Vier-Punkte-Skala, über ein Schuljahr; Noten im zweiten Jahr wurden nicht gemessen. Meta-Analysen finden kleine Effekte: d = 0,05, nach Korrektur für Publikationsbias nicht signifikant (Macnamara & Burgoyne 2023), oder d = 0,14 bei Zielgruppen mit hoher Umsetzungstreue (Burnette et al. 2023). Die Idee ist ernst zu nehmen; Spitzer macht sie etwa fünfmal größer.
+> Quelle: [Yeager et al. 2019](https://doi.org/10.1038/s41586-019-1466-y) (RCT) · [Macnamara & Burgoyne 2023](https://doi.org/10.1037/bul0000352) (Meta-Analyse) · [Burnette et al. 2023](https://doi.org/10.1037/bul0000368) (Meta-Analyse)
+
+> [!warning] Nicht belegt — Test mit 18 so gut wie Test mit 60
+> Dass ein Test mit 18 Demenz mit 78 „nur 1 % schlechter“ vorhersagt als ein Test mit 60, steht in keiner auffindbaren dänischen Studie. Belegt ist die schwächere Fassung: Bei 477.421 dänischen Männern ging ein um 10 % höherer Wert im Musterungstest mit 3,8 % geringerem Demenzrisiko einher, und Bildung wirkte zusätzlich und unabhängig davon.
+> Quelle: [Foverskov et al. 2020, *PLOS ONE*](https://doi.org/10.1371/journal.pone.0235781) (Kohorte)
+
+> [!success] Bestätigt — Schwester Mary
+> Snowdon beschreibt „Sister Mary“ als Maßstab der Nonnenstudie: hohe Testwerte vor ihrem Tod mit 101, trotz reichlich Plaques und Neurofibrillen. Ihre Lehrjahre ließen sich am Originaltext nicht prüfen.
+> Quelle: [Snowdon 1997, *The Gerontologist*](https://doi.org/10.1093/geront/37.2.150)
+
+> [!warning] Vereinfacht — Wer Bildschirme zurücknimmt
+> Schweden hat 2025 die Pflicht zu digitalen Lernmitteln in der *Vorschule* gestrichen, für die Schulen nicht. Dänemarks Unterrichtsminister Mattias Tesfaye entschuldigte sich im Dezember 2023 öffentlich bei einer Generation von Schülern. Für Australien fand sich nichts zu Schulen; seit einem Gesetz von 2024 dürfen dort Unter-16-Jährige keine Social-Media-Konten haben. Chinas Bildungsministerium untersagte 2021 Telefone im Unterricht der Grund- und Mittelschulen, ein allgemeines Verbot ist das nicht. Macrons Expertenkommission empfahl 2024: kein Telefon vor 11, Internet ab 13, soziale Netze ab 15; eine 17 kommt nicht vor. Das Verbot sozialer Netze unter 15, das Frankreichs Parlament im Juli 2026 beschloss, hat der Verfassungsrat am 14. August 2026 für verfassungswidrig erklärt.
+> Quelle: [regeringen.se, 27.02.2025](https://regeringen.se/pressmeddelanden/2025/02/barnen-i-forskolan-ska-motas-av-fler-bocker-och-farre-skarmar/) · [folkeskolen.dk, 13.12.2023](https://www.folkeskolen.dk/tesfaye-vi-skylder-den-generation-en-kaempe-stor-undskyldning/) · [eSafety](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions) · [Xinhua/gov.cn, 01.02.2021](https://english.www.gov.cn/statecouncil/ministries/202102/01/content_WS6017bff5c6d0f72576944ebb.html) · [Bericht „Enfants et écrans“](https://www.vie-publique.fr/files/rapport/pdf/293978.pdf) · [Conseil constitutionnel, Décision n° 2026-911 DC](https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm)
+
+> [!warning] Vereinfacht — 7 Millionen Tote durch die Raucherlobby
+> Die Größenordnung stimmt: Das DKFZ zählte 121.000 Rauchertote im Jahr 2013, der Tabakatlas 2025 nennt 131.000 für 2023. Spitzers 140.000 sind etwas hoch, die 7 Millionen hat er selbst gerechnet. Sie alle der Lobby zuzuschreiben, ist Rhetorik für seine Parallele zur Digitalwirtschaft.
+> Quelle: [DKFZ, Tabakatlas 2015](https://www.dkfz.de/fileadmin/user_upload/Krebspraevention/Download/pdf/Buecher_und_Berichte/2015_Tabakatlas-Deutschland-2015-Auf-einen-Blick-Zahlen-und-Fakten.pdf) · [aponet, Tabakatlas 2025](https://www.aponet.de/artikel/tabakatlas-2025-rauchen-verursacht-131000-todesfaelle-in-deutschland-32165)
+
+> [!warning] Vereinfacht — Lockdown und Kurzsichtigkeit
+> Die Zahlen, die Spitzer nennt (rund 125.000 Kinder von 6 bis 13, 2015–2020, stärkster Effekt bei Sechsjährigen), passen auf eine Studie aus Feicheng in Shandong, nicht auf Wuhan. Gemessen wurde die Sehschärfe beim jährlichen Schul-Screening, nicht die Länge des Augapfels. Bei den Sechsjährigen stieg der Anteil Kurzsichtiger von 5,7 auf 21,5 %, bei den Älteren kaum. Die Prognose von 4,8 Milliarden Kurzsichtigen bis 2050 hält. In Stuttgart bekamen 2021 84 städtische Sprach-Kitas Tablets, die in der Einrichtung bleiben; einen Beschluss für alle Kinder in allen Kindergärten gab es nicht.
+> Quelle: [Wang et al. 2021, *JAMA Ophthalmology*](https://doi.org/10.1001/jamaophthalmol.2020.6239) · [Holden et al. 2016](https://doi.org/10.1016/j.ophtha.2016.01.006) (Meta-Analyse) · [Stadt Stuttgart, August 2021](https://www.stuttgart.de/pressemitteilungen/2021/august/digitales-lernen-in-staedtischen-kitas-und-schuelerhaeusern-84-kitas-mit-tablets-ausgestattet-projektstart-an-der-reisachschule)
+
+> [!danger] Falsch — AlphaFold ohne Patent
+> DeepMind hat AlphaFold-Verfahren schützen lassen: Die Anmeldung von 2018 ist als Europapatent (2024) und US-Patent (2025) erteilt. Frei zugänglich ist die Datenbank mit über 200 Millionen vorhergesagten Strukturen, unter CC-BY 4.0. Das ist großzügig, aber keine Verzicht-Geschichte wie bei von Neumann.
+> Quelle: [EP3821434B1](https://patents.google.com/patent/EP3821434B1/en) · [US12374428B2](https://patents.google.com/patent/US12374428B2/en) · [EMBL-EBI, 2022](https://www.ebi.ac.uk/about/news/technology-and-innovation/alphafold-200-million/)
+
+> [!danger] Falsch — KI jährlich mal 100.000
+> Der Rechenaufwand, mit dem führende KI-Modelle trainiert werden, wuchs von 2010 bis 2024 um etwa das Vier- bis Fünffache im Jahr. Die „mehr als 300.000-fach“, die OpenAI 2018 maß, galten für sechs Jahre zusammen. Explosiv ist das trotzdem, aber um Größenordnungen weniger, als Spitzer sagt.
+> Quelle: [Epoch AI, 28.05.2024](https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year) · [OpenAI, AI and Compute](https://openai.com/index/ai-and-compute/)
+
+> [!danger] Falsch — KI liest Keilschrift besser als alle Experten
+> Dass eine KI alle 600.000 Tafeln gelesen habe und sie besser lese als die besten Fachleute, belegt keine Studie; die meisten Tafeln sind nicht einmal digitalisiert. Die stärkste Arbeit übersetzt Akkadisch in brauchbarer Qualität, am besten kurze Sätze, als Werkzeug mit menschlicher Korrektur. Den Versuch mit verdeckten Textstellen gab es für griechische Inschriften: KI allein 62 %, Historiker allein 25 %, beide zusammen 72 %.
+> Quelle: [Gutherz et al. 2023, *PNAS Nexus*](https://doi.org/10.1093/pnasnexus/pgad096) · [Assael et al. 2022, *Nature*](https://doi.org/10.1038/s41586-022-04448-z)
+
+> [!danger] Falsch — Armut halbiert die Synapsen
+> Synapsen lassen sich in lebenden Kindern nicht zählen. Gemessen wurde graue Substanz: Bei Kindern unter der Armutsgrenze lag sie 8–10 Prozentpunkte unter der Entwicklungsnorm, knapp darüber 3–4 Punkte (Kinder von 4 bis 22 Jahren). Das Einkommen hängt mit der Hirnoberfläche zusammen, am stärksten bei den Ärmsten. Spitzers Richtung stimmt und ist wichtig genug; die Halbierung gibt die Forschung nicht her.
+> Quelle: [Hair et al. 2015, *JAMA Pediatrics*](https://doi.org/10.1001/jamapediatrics.2015.1475) · [Noble et al. 2015, *Nature Neuroscience*](https://doi.org/10.1038/nn.3983)
+
+> [!warning] Vereinfacht — Antidepressiva wirken über neue Nervenzellen
+> Der Befund von 2003 stammt von Mäusen. Ob beim erwachsenen Menschen überhaupt neue Nervenzellen im Hippocampus entstehen, ist offen: Sorrells et al. fanden 2018 praktisch keine, Boldrini et al. im selben Jahr viele. Auch die drei Wochen Wartezeit sind fraglich; eine Meta-Analyse von 28 Studien fand schon nach einer Woche eine Besserung gegenüber Placebo. Für Sport ist beim Menschen ein größerer Hippocampus belegt (+2 % in einem RCT mit Älteren), keine Neurogenese.
+> Quelle: [Santarelli et al. 2003](https://doi.org/10.1126/science.1083328) · [Sorrells et al. 2018](https://doi.org/10.1038/nature25975) · [Boldrini et al. 2018](https://doi.org/10.1016/j.stem.2018.03.015) · [Taylor et al. 2006](https://doi.org/10.1001/archpsyc.63.11.1217) (Meta-Analyse) · [Erickson et al. 2011](https://doi.org/10.1073/pnas.1015950108) (RCT)
+
+> [!note] Korrigiert am 01.11.2026
+> Diese Note stand seit März 2026 mit mehreren Fehlern online, darunter eigene: Das Raucherlobby-Zitat war umgedreht (Spitzer nennt die *Raucherlobby* „so klein mit Hut“ gegen die digitale, nicht umgekehrt), mehrere Zitate waren aus verschiedenen Stellen zusammengezogen, die Drohnen-Anekdote und der *Nature*-Satz standen als Tatsache bzw. wörtliches Zitat da, „AlphaGo in 40 Tagen“, „China komplett“, Spitzer als amtierender Klinikdirektor und der Superlativ zum ZNL kamen von uns. Alles ist korrigiert; Spitzers eigene Zuspitzungen bleiben im Text und sind markiert.
 
 ---
 
@@ -278,7 +331,7 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wi
 ## Weiterführend
 
 - Spitzer: *Digitale Demenz* (2012) — das Grundlagenwerk
-- Spitzer: *Künstliche Intelligenz — den Menschen überlegen* (2024) — das aktuelle Buch
+- Spitzer: *Künstliche Intelligenz. Dem Menschen überlegen – wie KI uns rettet und bedroht* (Droemer, 2023)
 - Spitzer: *Lernen — Gehirnforschung und die Schule des Lebens*
 - Demis Hassabis / DeepMind: *AlphaGo* (2017), *AlphaFold* (2020/2022)
 - John von Neumann: *Die Rechenmaschine und das Gehirn* — der Klassiker zur Differenz
@@ -309,5 +362,5 @@ Die empirische Flanke zu Misselhorns begrifflichem Rechnen-vs-Denken: Spitzers N
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Spitzer warnt vor Bildschirmen in Kinderhänden und erwartet von der KI die Rettung der Menschheit. *Ist das ein Widerspruch, oder trennt er genau richtig zwischen dem Werkzeug in der Hand eines Erwachsenen und dem in der Hand eines Gehirns, das sich noch formt?*
 > - Die Hirnforschung zeigt, dass Gehirne sich nach dem formen, was über ihre Synapsen läuft. *Was formt dann das Gehirn eines Kindes, das mit einer Maschine spricht, die freundlicher antwortet als die Menschen um es herum?*
-> - Zwei Geschichten in diesem Gespräch hielten der Prüfung nicht stand, die 50 Proteine und die Drohne, die ihren Operator tötet. Beide sind eindrücklicher als die Wahrheit. *Warum tragen gerade die besten Beispiele so oft die Fehler — und was heißt das für die, die Wissenschaft erklären?*
-> - Armut halbiert nach Spitzer die Synapsen in den ersten tausend Tagen. *Wenn das stimmt, ist Kinderarmut dann eine soziale Frage oder eine medizinische — und wer müsste handeln?*
+> - Viele Geschichten in diesem Gespräch halten der Prüfung nicht stand, die 50 Proteine, die Drohne, die ihren Operator tötet, die halbe Note, die halbierten Synapsen, und fast alle sind eindrücklicher als die Wahrheit. *Warum tragen gerade die besten Beispiele so oft die Fehler — und was heißt das für die, die Wissenschaft erklären?*
+> - Armut hinterlässt messbare Spuren im wachsenden Gehirn. *Ist Kinderarmut dann eine soziale Frage oder eine medizinische — und wer müsste handeln?*
