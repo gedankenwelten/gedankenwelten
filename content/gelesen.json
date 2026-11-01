@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 889,
-   "aufrufe": 1059
+   "aufrufe": 1060
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 32,
-     "aufrufe": 37
+     "aufrufe": 38
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 889,
-     "aufrufe": 1059
+     "aufrufe": 1060
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 957,
-     "aufrufe": 1150
+     "aufrufe": 1151
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 957,
-     "aufrufe": 1150
+     "aufrufe": 1151
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1724,11 +1724,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Dirk-Specht",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Klarsprech-Peter-Thiel-und-ObjectionAI",
      "leser": 3,
      "aufrufe": 3
@@ -1820,6 +1815,11 @@
     },
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Dirk-Specht",
      "leser": 2,
      "aufrufe": 2
     },

@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*356 Notes — automatisch generiert · nach Thema sortiert*
+*357 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -397,6 +397,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Silke Stremlau & Maja Göpel — Investieren NEU DENKEN]] — Geld ist niemals neutral, es wirkt, je nachdem, wofür man es einsetzt. Silke Stremlau und Maja Göpel fragen, warum das Kapital für den Umbau da ist und trotzdem nicht fließt.
 - [[Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — News: Reiche EXPOSED, Kerosinmangel und Haushaltskürzungen (16.04.2026)]] — Eine Streichliste, die bei Kindern mit Behinderung spart, und eine Kraftwerksstrategie, an der die Gaslobby mitschrieb. Dazu die Warnung vor Kerosinmangel – Staiys Nachrichten vom 16. April.
 - [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)|Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]] — Eine Wirtschaftsweise verteidigt den Preis als das Signal, das eine Gesellschaft durch die Knappheit lenkt. Dreieinhalb Stunden lang will der Interviewer wissen, für wen es arbeitet.
+- [[Zeitgeist/WDR — Schmutzige Schokolade|WDR — Schmutzige Schokolade: Sie zahlen für unseren Genuss]] — Zwei Jungen mit eitrigen Machetenwunden, ein Bauer, der Kinder kauft, ein Fluss voller Glyphosat — und eine Insel, auf der Kakao ohne Kinder wächst. Eine Reise vom Osterhasen zurück zur Bohne.
 - [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]] — Der Kapitalismus ist für Yanis Varoufakis tot, abgelöst nicht durch Revolution, sondern durch Cloud-Kapital: Aus Profit wird Tribut, aus Märkten werden Lehen der Plattformen.
 - [[Zeitgeist/Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]] — Zwei progressive Ökonomen räumen dieselben Denkfehler ab — und geraten sich über die Bilder in die Haare, mit denen man sie abräumt.
 
