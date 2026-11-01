@@ -86,7 +86,7 @@ Krieg wirkt manchmal wie ein Naturgesetz. Zwei Forscher halten dagegen: Systemat
 Demokratie ist mehr, als alle paar Jahre ein Kreuz zu machen. Sie wächst, wenn mehr Menschen mitreden dürfen, und sie wird jeden Tag gemacht.
 
 - [[Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] · Demokratie wächst wie ein Kind: Man sieht es nicht, während es geschieht
-- [[Gelebte Demokratie]] · Anfragen, Streiks, Volksbegehren: was Menschen tun, damit Demokratie lebt
+- [[Gelebte Demokratie|Gelebte Demokratie]] · Anfragen, Streiks, Volksbegehren: was Menschen tun, damit Demokratie lebt
 - [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]] · wer entscheidet, Gewählte, Geloste oder alle, und was die Mehrheit in Schranken hält
 
 ## Kann ich überhaupt etwas ändern?
