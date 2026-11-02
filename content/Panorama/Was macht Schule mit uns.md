@@ -277,6 +277,10 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 
 ## Verbindungen
 
+### → [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
+Am 31.10.2026 gingen junge Menschen für „Geld für Schulen“ auf die Straße. Was die Politik dafür getan hat und
+wo es gekürzt wird, steht dort.
+
 ### → [[Panorama/Was mit 17 geschah|Was mit 17 geschah]]
 Die andere Seite dieses Panoramas: Was Schule aus Kindern macht, fragt dieses hier. Dort steht, was Jugendliche zwischen 13 und 19 trotz der Schule, neben ihr und manchmal dank eines einzelnen Lehrers aus sich gemacht haben — einer blieb sitzen, einer musste die zehnte Klasse wiederholen, einer gründete eine verbotene Schülerzeitung.
 

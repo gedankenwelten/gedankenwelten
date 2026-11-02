@@ -332,6 +332,10 @@ Euronews.
 
 ## Verbindungen
 
+### → [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
+Die andere Hälfte dieser Spur. Die Spur zählt, ob über die Forderungen gesprochen wird; das Panorama spricht
+über sie, Forderung für Forderung, mit dem Stand dessen, was die Politik getan hat.
+
 ### → [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 Das Panorama, gegen das Posecks Satz vom migrantischen Milieu zu lesen ist: wie groß der Abstand in der
 Statistik ist, wie viel davon Anzeige ist und wie viel Tat, und was ihn kleiner macht. Hier wird die Frage
