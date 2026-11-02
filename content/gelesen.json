@@ -19,14 +19,14 @@
    "aufrufe": 59
   },
   {
+   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+   "leser": 52,
+   "aufrufe": 59
+  },
+  {
    "pfad": "/DenkerVita/Mark-Reicher",
    "leser": 52,
    "aufrufe": 56
-  },
-  {
-   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 51,
-   "aufrufe": 58
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 18,
-     "aufrufe": 21
+     "leser": 19,
+     "aufrufe": 22
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -359,17 +359,17 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 4,
      "aufrufe": 5
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 4,
      "aufrufe": 4
     },
@@ -382,11 +382,6 @@
      "pfad": "/DenkerVita/Der-Dara",
      "leser": 3,
      "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-     "leser": 3,
-     "aufrufe": 3
     },
     {
      "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
@@ -435,6 +430,11 @@
     },
     {
      "pfad": "/Denker/Harald-Welzer-Toetungsarbeit",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 2,
      "aufrufe": 2
     },
@@ -629,14 +629,14 @@
      "aufrufe": 59
     },
     {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "leser": 52,
+     "aufrufe": 59
+    },
+    {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 52,
      "aufrufe": 56
-    },
-    {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 51,
-     "aufrufe": 58
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -945,8 +945,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 59,
-     "aufrufe": 66
+     "leser": 60,
+     "aufrufe": 67
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1250,8 +1250,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 59,
-     "aufrufe": 66
+     "leser": 60,
+     "aufrufe": 67
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",

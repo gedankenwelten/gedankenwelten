@@ -93,7 +93,8 @@ selbst unterschiedlich:
   Eine eigene Bilanz zur Demonstration haben wir noch nicht gefunden.
 
 Seit Sonntag geht es um die Frage, wer die Täter waren (siehe „Was behauptet wurde“), und um die nächsten
-Demonstrationen. Poseck sagt, eine solche Versammlung *„darf sich in Frankfurt nicht wiederholen“*, die Stadt
+Demonstrationen. Poseck sagt, *„am 20. November“* dürfe *„keine mit gestern vergleichbare Versammlung in
+Frankfurt stattfinden“* ([Innenministerium](https://innen.hessen.de/presse/erste-einordnung-nach-gewaltausbruechen-waehrend-und-nach-der-versammlung-der-generation-z)), die Stadt
 erwägt ein Verbot ([FAZ](https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-stadt-frankfurt-erwaegt-verbot-der-naechsten-gen-z-demo-faz-201635936.html)).
 Laut dpa kündigte die Initiative am Sonntag den 14. November an; auf ihrer eigenen Website steht am Montag ein
 anderes Datum: *„Freitag, 20. November 2026, ab 14 Uhr in 34 Städten“*. Am 20. November ist außerdem ein Schulstreik gegen die Wehrpflicht geplant, zu dem ein Bündnis mit der
@@ -115,7 +116,7 @@ verändert. Was davon trägt, wird im Verlauf nachgemessen.*
 | Wer | Wann | Was | Quelle |
 |---|---|---|---|
 | Roman Poseck (CDU), Innenminister Hessen | 31.10., abends | *„Rund 100 linksextremistische Gewalttäter in Frankfurt“* | Überschrift im FAZ-Liveticker, 18:20 Uhr. Im laufenden Ticker ist der Eintrag inzwischen überschrieben, in unserer News-DB steht er noch |
-| Roman Poseck | 01.11., Pressekonferenz | 1.000 bis 1.500 gewaltbereite Störer, *„überwiegend aus einem migrantischen Milieu“*. Die Festgenommenen hätten *„jedenfalls überwiegend die deutsche Staatsangehörigkeit“*, nur ein kleiner Teil stamme aus Frankfurt. Künftig ein *„täterorientierter Ansatz“* unter Einbeziehung des Verfassungsschutzes und eine *„härtere Gangart“* | [FAZ](https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-stadt-frankfurt-erwaegt-verbot-der-naechsten-gen-z-demo-faz-201635936.html), [taz](https://taz.de/Gen-Z-regelt-Protest/!6226457/), [tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html) |
+| Roman Poseck | 01.11., Pressekonferenz | *„Ein enormes Gewaltpotential von Linksextremisten und gewaltorientierten jungen Menschen, größtenteils mit Migrationshintergrund“*: ungefähr 100 linksextremistisch motivierte Gewalttäter, dazu 1.000 bis 1.500 gewaltbereite Störer, *„überwiegend aus einem migrantischen Milieu“*. Die Festgenommenen hätten *„jedenfalls überwiegend die deutsche Staatsangehörigkeit“*; die Tätergruppen kämen *„nur zu einem Teil aus Frankfurt“*. Und: *„Dabei ist zu berücksichtigen, dass die erste Eskalation von der Versammlung ausgegangen ist.“* Künftig gegen die *„überwiegend migrantische Täterklientel“* *„mit einem personalisierten Ansatz auch außerhalb von Versammlungslagen“*, Unterbindungsgewahrsam, *„härtere Gangart“*; die Bekämpfung des Linksextremismus werde intensiviert. (Die FAZ gibt das als „täterorientierten Ansatz“ unter Einbeziehung des Verfassungsschutzes wieder; in der Pressemitteilung steht der Verfassungsschutz nicht.) | [Innenministerium Hessen](https://innen.hessen.de/presse/erste-einordnung-nach-gewaltausbruechen-waehrend-und-nach-der-versammlung-der-generation-z), [ZDFheute](https://www.zdfheute.de/politik/deutschland/frankfurt-ausschreitungen-polizei-protest-gewahrsam-100.html), [FAZ](https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-stadt-frankfurt-erwaegt-verbot-der-naechsten-gen-z-demo-faz-201635936.html), [tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html) |
 | Alexander Dobrindt (CSU), Bundesinnenminister | 01.11. | *„Gewaltbereite linke Gruppen und Chaoten aus dem migrantischen Milieu haben gestern Abend die friedlichen Demonstrationen vom Nachmittag gekapert.“* Es habe sich *nicht um Schüler* gehandelt | [WiWo/dpa](https://www.wiwo.de/politik/deutschland/krawalle-nach-gen-z-regelt-festnahmen-und-pluenderungen/100266314.html), [tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html) |
 | Herbert Reul (CDU), Innenminister NRW | 01.11. | Gezielte Eskalation durch gewaltbereite Gruppen, Linksextremisten und gewaltbereite junge Männer | [WiWo/dpa](https://www.wiwo.de/politik/deutschland/krawalle-nach-gen-z-regelt-festnahmen-und-pluenderungen/100266314.html) |
 | Karin Prien (CDU), Bildungsministerin | 02.11. | *„Gewaltexzesse von linksradikalen Gruppen“*, *„aber eben auch von anderen, die wohl auch aus migrantischen Milieus stammen“*. Die Gewalt werfe Integrationsfragen auf | [FAZ](https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-stadt-frankfurt-erwaegt-verbot-der-naechsten-gen-z-demo-faz-201635936.html), [tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html) |
@@ -255,10 +256,13 @@ nicht.
 
 **Befund:** Nach den Bilanzen von Polizei und Ministerien gab es in Frankfurt 54 Festnahmen, 100 verletzte
 Polizisten und fünf geplünderte Geschäfte. In Hamburg wurden rund 120 Menschen vorläufig festgenommen, in
-Köln 23 Polizisten verletzt und in Stuttgart rund 50 Straftaten gezählt. Was die Täter angeht, verschoben
-sich die Angaben innerhalb eines Tages. Am Samstagabend titelte die FAZ nach Poseck „rund 100
-linksextremistische Gewalttäter“, am Sonntag sprach er von 1.000 bis 1.500 Störern, „überwiegend aus einem
-migrantischen Milieu“, und nannte die Festgenommenen im selben Atemzug überwiegend deutsche Staatsbürger.
+Köln 23 Polizisten verletzt und in Stuttgart rund 50 Straftaten gezählt. Was die Täter angeht, wuchs die
+Beschreibung innerhalb eines Tages. Am Samstagabend titelte die FAZ nach Poseck „rund 100
+linksextremistische Gewalttäter“. Am Sonntag hielt er an diesen rund 100 fest und sprach zusätzlich von 1.000
+bis 1.500 Störern, „überwiegend aus einem migrantischen Milieu“; die Festgenommenen nannte er im selben
+Atemzug überwiegend deutsche Staatsbürger. *(Am 02.11. zuerst als „verschoben“ beschrieben, als hätte er die
+Linksextremisten fallen lassen. Das stimmte nicht, korrigiert am selben Abend nach der Pressemitteilung des
+Ministeriums.)*
 Dobrindt und Prien nennen beides, linke Gruppen und das migrantische Milieu. Die Polizei Köln trennt eine
 vorbereitete, bewaffnete Gruppe an der Versammlung von Jugendgruppen der Halloween-Nacht ohne Bezug zur
 Versammlung. Berlin führt die Nacht als Halloween-Einsatz. In der Zählung fällt der Anteil der Meldungen, in
@@ -343,7 +347,8 @@ ob sie nach Herkunft sortiert.
 
 ### → [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
 Kein Ausbau staatlicher Überwachung, sagt die Initiative. Posecks Antwort auf die Nacht ist ein
-„täterorientierter Ansatz“ mit dem Verfassungsschutz.
+„personalisierter Ansatz auch außerhalb von Versammlungslagen“ und eine bessere „Erkenntnislage der
+Sicherheitsbehörden“ über die Täter.
 
 ### → [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
 Wem gehört ein Zeichen, wem eine Demonstration? Das Wort „gekapert“ fällt in dieser Debatte auf allen Seiten.
@@ -360,7 +365,7 @@ Die erste Beobachtungs-Spur ohne These. Dieselbe Form: festhalten, was vorher ge
 ## Quellen
 
 **Polizei**
-- Polizei Frankfurt/Hessisches Innenministerium, Bilanz vom 01.11. — nach [hessenschau](https://www.hessenschau.de/panorama/polizei-zieht-bilanz-100-verletzte-polizisten-und-54-festnahmen-bei-krawallen-in-frankfurt-v1,bilanz-frankfurt-100.html) · [hessenschau-Ticker zur Nacht](https://www.hessenschau.de/panorama/eskalation-nach-gen-z-protesten-in-frankfurt-aktuelle-meldungen-im-ticker,gen-z-demo-frankfurt-100.html)
+- Hessisches Innenministerium, [„Erste Einordnung nach Gewaltausbrüchen“](https://innen.hessen.de/presse/erste-einordnung-nach-gewaltausbruechen-waehrend-und-nach-der-versammlung-der-generation-z) (Pressekonferenz 01.11.) · Polizei Frankfurt, Bilanz vom 01.11. — nach [hessenschau](https://www.hessenschau.de/panorama/polizei-zieht-bilanz-100-verletzte-polizisten-und-54-festnahmen-bei-krawallen-in-frankfurt-v1,bilanz-frankfurt-100.html) · [hessenschau-Ticker zur Nacht](https://www.hessenschau.de/panorama/eskalation-nach-gen-z-protesten-in-frankfurt-aktuelle-meldungen-im-ticker,gen-z-demo-frankfurt-100.html)
 - Polizei Köln, 261101-2-K, 01.11. — [Presseportal](https://www.presseportal.de/blaulicht/pm/12415/6381831)
 - Polizei Hamburg, 261101-1, Abschlussmeldung, 01.11. — [Presseportal](https://www.presseportal.de/blaulicht/pm/6337/6381547)
 - Polizei Stuttgart, „Gemischte Bilanz nach Gen-Z-Demonstration“, 01.11. — [Presseportal](https://www.presseportal.de/blaulicht/pm/110977/6381847)
@@ -390,8 +395,9 @@ Die erste Beobachtungs-Spur ohne These. Dieselbe Form: festhalten, was vorher ge
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Wenn in derselben Nacht eine Demonstration endet und Halloween beginnt, *wem gehört dann, was danach auf
 >   der Straße geschieht?*
-> - Ein Minister nennt am Samstag Linksextremisten und am Sonntag ein migrantisches Milieu. *Wie lange muss man
->   warten, bevor man sagen darf, wer es war, und wer zahlt den Preis, wenn man es früher sagt?*
+> - Am Samstagabend waren es hundert Linksextremisten, am Sonntag kamen anderthalbtausend aus einem
+>   migrantischen Milieu dazu. *Wie lange muss man warten, bevor man sagen darf, wer es war, und wer zahlt den
+>   Preis, wenn man es früher sagt?*
 > - Die Jungen forderten Geld für Schulen und Psychotherapie, die Antwort am Montag hieß Integration und
 >   härtere Gangart. *Ist das ein Thema, das ein anderes verdrängt, oder dasselbe Thema, von der anderen Seite
 >   gesehen?*
