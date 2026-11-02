@@ -1,5 +1,7 @@
 ---
-title: "Was vom 31. Oktober bleibt — Ermittlungen und Forderungen der Gen Z"
+title: "Gen Z regelt — und was danach geregelt wird"
+aliases:
+  - Was vom 31. Oktober bleibt
 date: 2026-11-02
 tags:
   - spur
@@ -20,9 +22,9 @@ description: "Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter w
 raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 ---
 
-# Was vom 31. Oktober bleibt — Ermittlungen und Forderungen der Gen Z
+# Gen Z regelt — und was danach geregelt wird
 
-![[assets/Was-vom-31-Oktober-bleibt-banner.jpg|1200]]
+![[assets/Gen-Z-regelt-und-was-danach-geregelt-wird-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -343,7 +345,7 @@ Die erste Beobachtungs-Spur ohne These. Dieselbe Form: festhalten, was vorher ge
 - ORF, 01.11. — [Deutschland, Frankreich: Krawalle](https://orf.at/stories/3446722/) (zum Vergleich: Frankreich und Wien in derselben Nacht)
 
 **Zählung**
-- Skript: `.claude/scripts/spur_genz_zaehlung.py` · Listen: `.claude/data/spuren/was-vom-31-oktober-bleibt-<datum>.txt`
+- Skript: `.claude/scripts/spur_genz_zaehlung.py` · Listen: `.claude/data/spuren/gen-z-regelt-<datum>.txt`
 
 ---
 

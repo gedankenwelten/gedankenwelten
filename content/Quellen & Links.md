@@ -13,7 +13,7 @@ tags:
 |---|---|
 | **Polizei** | [Köln](https://www.presseportal.de/blaulicht/pm/12415/6381831) · [Hamburg](https://www.presseportal.de/blaulicht/pm/6337/6381547) · [Stuttgart](https://www.presseportal.de/blaulicht/pm/110977/6381847) · [Berlin (Halloween)](https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733484.php) · Frankfurt nach [hessenschau](https://www.hessenschau.de/panorama/polizei-zieht-bilanz-100-verletzte-polizisten-und-54-festnahmen-bei-krawallen-in-frankfurt-v1,bilanz-frankfurt-100.html) |
 | **Berichte** | [ZDFheute](https://www.zdfheute.de/politik/deutschland/gen-z-proteste-pluenderungen-gewalt-100.html) · [WiWo/dpa](https://www.wiwo.de/politik/deutschland/krawalle-nach-gen-z-regelt-festnahmen-und-pluenderungen/100266314.html) · [tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html) · [taz](https://taz.de/Bilanz-von-Gen-Z-regelt/!6226454/) |
-| **Spur** | [[Spuren/Was-vom-31-Oktober-bleibt]] |
+| **Spur** | [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird]] |
 | **Zählung** | `.claude/scripts/spur_genz_zaehlung.py` · Listen in `.claude/data/spuren/` |
 
 ## Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären? (YouTube + Webinar + Aufsatz, 2025/26)

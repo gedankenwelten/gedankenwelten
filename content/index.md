@@ -24,7 +24,7 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
-> **02.11.** — [[Spuren/Was-vom-31-Oktober-bleibt|Was vom 31. Oktober bleibt — Ermittlungen und Forderungen der Gen Z]]
+> **02.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
 >
 > Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
 
