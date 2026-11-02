@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*358 Notes — automatisch generiert · nach Thema sortiert*
+*359 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -412,6 +412,7 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Akkudoktor — Lanz und die Energiewende|Akkudoktor — Programmbeschwerde gegen Markus Lanz: Energiewende-Desinformation im ZDF]] — Je besser die Energiewende funktioniert, desto kleiner erscheint sie in der Primärenergiestatistik. Der Akkudoktor zerlegt die 8-Prozent-Zahl aus einer Lanz-Sendung und legt Programmbeschwerde ein.
 - [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Eine Oxford-Studie zählt nach, wie die BILD mit einem erfundenen Wort ein Gesetz zerlegte — und wie tausend seriöse Medien es nachdruckten. Eine Schande für den Journalismus.
+- [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]] — Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
 - [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] — Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen – für Ronen Steinke ist das ein deutscher Sonderweg. Über Meinungsfreiheit, Völkerrecht und die Frage des Genozids in Gaza.
 - [[Zeitgeist/Schwarz und Obermaier — Vom Smartphone ins Gericht|Schwarz & Obermaier — Vom Smartphone ins Gericht]] — Ein Tweet, ein Prahlvideo, ein heimlich gefilmtes Geständnis: Wie digitale Beweise einen Münchner Scharfschützen belasten — und warum die Bundesanwaltschaft trotzdem nicht ermittelt.
 

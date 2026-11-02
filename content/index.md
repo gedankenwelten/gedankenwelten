@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Panorama
+
+> **03.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> **02.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **02.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
+>
+> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
+
+> **01.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **01.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> → *16 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **02.11.** — [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]]
@@ -44,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
 
-> → *19 weitere in* [[Zeitgeist]]
+> → *15 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -69,30 +93,6 @@ Die Gedankenwelten (luc)
 > Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
 
 > → *4 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **02.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **02.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
->
-> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
-
-> **01.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **01.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
-
-> **01.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
-
-> → *15 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -140,7 +140,7 @@ Die Gedankenwelten (luc)
 >
 > Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
 
-> → *5 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Kultur
 

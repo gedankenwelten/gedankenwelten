@@ -1,12 +1,12 @@
 {
- "stand": "2026-11-02",
+ "stand": "2026-11-03",
  "tage": 30,
  "zaehlt": "leser-sitzungen",
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 895,
-   "aufrufe": 1066
+   "leser": 896,
+   "aufrufe": 1067
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -24,14 +24,14 @@
    "aufrufe": 59
   },
   {
+   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+   "leser": 50,
+   "aufrufe": 58
+  },
+  {
    "pfad": "/DenkerVita/Mark-Reicher",
    "leser": 50,
    "aufrufe": 54
-  },
-  {
-   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 49,
-   "aufrufe": 57
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 37,
-     "aufrufe": 43
+     "leser": 38,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -320,8 +320,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 11,
-     "aufrufe": 12
+     "leser": 12,
+     "aufrufe": 13
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 895,
-     "aufrufe": 1066
+     "leser": 896,
+     "aufrufe": 1067
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -634,14 +634,14 @@
      "aufrufe": 59
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 50,
+     "aufrufe": 58
+    },
+    {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 50,
      "aufrufe": 54
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 49,
-     "aufrufe": 57
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 965,
-     "aufrufe": 1160
+     "leser": 966,
+     "aufrufe": 1161
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -955,8 +955,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 50,
-     "aufrufe": 58
+     "leser": 51,
+     "aufrufe": 59
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 965,
-     "aufrufe": 1160
+     "leser": 966,
+     "aufrufe": 1161
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1260,8 +1260,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 50,
-     "aufrufe": 58
+     "leser": 51,
+     "aufrufe": 59
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 31,
-     "aufrufe": 31
+     "leser": 32,
+     "aufrufe": 32
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",

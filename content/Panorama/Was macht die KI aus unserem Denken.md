@@ -2,8 +2,8 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-10-22
-description: "Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-11-03
+description: "Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
 tags:
@@ -32,7 +32,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Seit Sprachmodelle schreiben, zusammenfassen und antworten, stellt sich eine alte Frage neu: Was wird aus einer Fähigkeit, die man nicht mehr braucht? Dieses Panorama sammelt fünf offene Fragen dazu. Verlernen wir das Denken, wenn wir es der Maschine überlassen? Wessen Werte spricht sie, wenn sie uns die Welt erklärt? Soll sie uns widersprechen oder gefallen? Wer steht dafür ein, wenn sie nicht mehr nur spricht, sondern handelt? Und denkt sie überhaupt, oder hören wir in ihr nur uns selbst? Zu jeder Frage steht hier, was die Forschung weiß und wo sie noch nichts weiß, und daneben, wer im Bestand der Gedankenwelten welche Position bezieht. Was die KI mit der Wissenschaft selbst macht, behandelt das Panorama [[Panorama/Forschung#Was macht die KI aus der Forschung?|Forschung]].
+> Seit Sprachmodelle schreiben, zusammenfassen und antworten, stellt sich eine alte Frage neu: Was wird aus einer Fähigkeit, die man nicht mehr braucht? Dieses Panorama sammelt sechs offene Fragen dazu. Verlernen wir das Denken, wenn wir es der Maschine überlassen? Wessen Werte spricht sie, wenn sie uns die Welt erklärt? Soll sie uns widersprechen oder gefallen? Wer steht dafür ein, wenn sie nicht mehr nur spricht, sondern handelt? Denkt sie überhaupt, oder hören wir in ihr nur uns selbst? Und wem gehört, was sie von uns allen gelernt hat? Zu jeder Frage steht hier, was die Forschung weiß und wo sie noch nichts weiß, und daneben, wer im Bestand der Gedankenwelten welche Position bezieht. Was die KI mit der Wissenschaft selbst macht, behandelt das Panorama [[Panorama/Forschung#Was macht die KI aus der Forschung?|Forschung]].
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Angestoßen haben es zwei Abende der Utopie-Konferenz 2026 in Lüneburg, [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski]] und [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath]].
@@ -51,6 +51,8 @@ Solider als alles über KI ist die ältere Lernforschung. Was man selbst hervorb
 
 Ungemessen ist auch die Rolle dessen, der nicht mehr selbst schreibt, sondern auswählt und redigiert. Wer mit ChatGPT schrieb, lieferte bessere Essays und wusste danach nicht mehr ([Fan et al. 2024, doi:10.1111/bjet.13544](https://doi.org/10.1111/bjet.13544), randomisiert); Redigieren hebt das Gefühl der Urheberschaft, an das selbst Geschriebene reicht es nicht heran ([Pennanen et al. 2026, doi:10.1016/j.chbah.2026.100381](https://doi.org/10.1016/j.chbah.2026.100381), präregistriert). Dafür kann Auswählen eine Fähigkeit sein: Auf einer Kunstplattform kam es bei denen, die mit Bildgeneratoren arbeiteten, gerade auf Ideenfinden und Auswahl an ([Zhou & Lee 2024, doi:10.1093/pnasnexus/pgae052](https://doi.org/10.1093/pnasnexus/pgae052)). Der Preis ist Gleichförmigkeit: Mit KI-Ideen werden einzelne Texte kreativer und alle zusammen ähnlicher ([Doshi & Hauser 2024, doi:10.1126/sciadv.adn5290](https://doi.org/10.1126/sciadv.adn5290)). Die Gedankenwelten selbst sind so gebaut, die Maschine schreibt und ein Mensch wählt aus; die [[Sibylle Anderl — Bequeme neue Welt#Wer schreibt hier?|Nachbesprechung zu Sibylle Anderl]] legt das offen.
 
+Älter als jede Lernstudie ist der Gedanke, dass manches Können gar nicht in Worte passt. Harry Collins unterscheidet Wissen, das man sagen könnte und nicht sagt, Wissen im Körper und Wissen, das nur in einer Gemeinschaft lebt ([Collins 2010, doi:10.7208/chicago/9780226113821.001.0001](https://doi.org/10.7208/chicago/9780226113821.001.0001)). Es entsteht im Tun, in einem Autowerk sank die Fehlerrate mit jeder gebauten Serie ([Levitt, List & Syverson 2013, doi:10.1086/671137](https://doi.org/10.1086/671137)), und es kann verschwinden: Bricht die Weitergabe ab, sind selbst Atomwaffen in einem eingeschränkten Sinn wieder *„uninvented“* ([MacKenzie & Spinardi 1995, doi:10.1086/230699](https://doi.org/10.1086/230699)). Wer das Handwerk ganz an die Maschine abgibt, riskiert demnach in einer Generation eine kleine Unerfindung, das ist eine Ableitung, keine Messung an KI. Zugleich lernen Maschinen selbst durch Zusehen ([Baker et al. 2022, doi:10.48550/arxiv.2206.11795](https://doi.org/10.48550/arxiv.2206.11795)), und ein Textmodell übertraf beim Fehlersuchen in virologischen Laborprotokollen, einem Paradefall impliziten Wissens, 94 Prozent der Fachleute ([Götting et al. 2025, doi:10.48550/arxiv.2504.16137](https://doi.org/10.48550/arxiv.2504.16137), Preprint). Mehr davon steht irgendwo geschrieben, als Polanyi dachte. Den Ausgangsfall, den Saphir am Seidenfaden, erzählt die [[Geistesblitz/Emergence — Das dunkle Wissen der KI#Gibt es Wissen, das sich nicht abschreiben lässt?|Nachbesprechung zu Emergence]].
+
 **Die Stimmen**
 
 - **[[Roberto Simanowski — Sprachmaschinen#Thamus hatte recht und irrte trotzdem|Roberto Simanowski]]:** Die Schrift entlastete das Gedächtnis und gab Raum fürs kritische Denken; *„wofür befreien wir uns, wenn wir uns vom Denken befreien?“*
@@ -63,13 +65,16 @@ Ungemessen ist auch die Rolle dessen, der nicht mehr selbst schreibt, sondern au
 - **[[Sibylle Anderl — Bequeme neue Welt#Schreiben, um herauszufinden, was man denkt|Sibylle Anderl]]:** Sie schreibt jeden Text selbst, weil sie nur so herausfindet, was sie denkt; die Maschine läuft auf das Wahrscheinlichste hinaus.
 - **[[Der leere Turm - wie Macht herrenlos wird#Das Scharnier Last oder Urteil|Luc]]:** Entscheidend ist, was man abgibt, die Last oder das Urteil; die eigentliche Gefahr ist, dass Menschen nicht arbeitslos werden, sondern urteilslos.
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
+
+- **[[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen#Was man einem Roboter nicht sagen kann|Ronnie Vuine]]:** *„Unterschiede zwischen drüber reden und das tatsächlich machen können“*; was ein Roboter in der Fabrik tut, lässt sich nicht in Sprache fassen, darum lernt er durch Vormachen.
+- **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Der Saphir am Seidenfaden|Emergence]]:** Mit Polanyi: *„we can know more than we can tell“*; der Moskauer Saphir klang im Westen erst, als einer neunzig Stunden im Labor stand und man ihm auf die Hände sah.
 
 - **[[Shi Heng Yi — Aufloesung der Identitaet#Die Maschine und die Essenz — KI, Prozess und das Menschliche|Shi Heng Yi]]:** Er nutzt die Maschine gar nicht; ihr fehle der Prozess aus Ideen, Fehlern und Nachjustieren, wie aufgespritzten Muskeln das Training.
 - **[[Gerald Huether — Lebendigkeit und das Ende der Hierarchien#Lebendigkeit und der Spiegel der KI|Gerald Hüther]]:** Die KI zieht seine Texte logisch glatt, „aber es ist tot … Es muss auch mal daneben gehen.“
 
 - **[[Sibylle Anderl — Bequeme neue Welt#Wer schreibt hier?|Luc]]** (in der Nachbesprechung zu Anderl): Wer die Maschine schreiben lässt, gewinnt Vielfalt und verliert Tiefe im Einzelnen; die Wurzel braucht manchmal das Detail.
-- **[[Wir sind keine Propheten — nicht einmal fuer uns selbst#Der Riss|Luc]]:** Beim Programmieren so viel abgegeben, dass er ein Feature nicht mehr erklären konnte; beim Denken nimmt er Impulse statt Antworten — und wer über die Zukunft der KI spricht, beschreibt oft sich selbst.
+- **[[Wir sind keine Propheten — nicht einmal fuer uns selbst#Warum es beim Denken anders ist|Luc]]:** Beim Programmieren so viel abgegeben, dass er ein Feature nicht mehr erklären konnte; beim Denken nimmt er Impulse statt Antworten — und wer über die Zukunft der KI spricht, beschreibt oft sich selbst.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Wolfgang M. Schmitt]]:** So leicht war es nie, sich Zusammenhänge erklären zu lassen, von der Austeritätspolitik bis zu den eigenen Rechten als Arbeitnehmer.
 - **[[Maren Urner — Radikal hoffnungsvoll#Das KI-Paradox: Menschen, die wie Maschinen denken|Maren Urner]]:** Gefährlich ist nicht, dass die KI wie Menschen denkt, sondern dass Menschen beginnen, wie die KI zu denken.
 - **[[Andreas Reckwitz — Fortschritt NEU DENKEN#KI ist kein Naturereignis|Andreas Reckwitz]]:** Die Sorge vor dem Deskilling hält er für Vernunft: Eine Gesellschaft fällt nicht mehr auf jedes Heilsversprechen herein.
@@ -90,6 +95,8 @@ Dass die Haltungen auf Menschen übergehen, ist gezeigt. Wer mit einem einseitig
 
 Bleibt, wer die Werte setzt. Anthropic veröffentlichte im Januar 2026 eine Verfassung für Claude; 2023 hatte die Firma rund tausend repräsentativ ausgewählte Erwachsene über die Plattform Polis, mit der Taiwan seine Bürgerbeteiligung organisiert, eigene Grundsätze vorschlagen und abstimmen lassen. Das so trainierte Modell zeigte bei gleicher Leistung weniger soziale Vorurteile ([Huang et al. 2024, doi:10.1145/3630106.3658979](https://doi.org/10.1145/3630106.3658979)). Der Versuch zeigt, dass Beteiligung technisch geht, und er wiederholt den Fehler, den er heilen soll: Befragt wurden Amerikaner. Der Gegenpol steht in Peking, wo Modelle staatliche Tabus als Zensurmauer einbauen. Wie weit sich das Feld in offene, lokal laufende Modelle verteilt und damit auch in viele Wertesysteme, verfolgt die Spur [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral]]. Eine Grenze haben alle diese Messungen: Sie zeigen den Abstand eines Modells zu einer Kultur, nicht, wer recht hat.
 
+Werte wandern auch von Modell zu Modell, und zwar unsichtbar. Ein Modell, dem man eine Vorliebe für Eulen gab, gab sie über bloße Zahlenreihen an einen Zwilling weiter, und mit ihr auch Fehlverhalten ([Cloud et al. 2026, doi:10.1038/s41586-026-10319-8](https://doi.org/10.1038/s41586-026-10319-8), *Nature*); ein Preprint vom Oktober 2026 findet das auch zwischen verschiedenen Architekturen ([Tang et al. 2026, doi:10.48550/arxiv.2610.30884](https://doi.org/10.48550/arxiv.2610.30884), nicht begutachtet), ein anderer nennt den Effekt zerbrechlich ([Schrodi et al. 2025, doi:10.48550/arxiv.2509.23886](https://doi.org/10.48550/arxiv.2509.23886)). Haltungen benehmen sich dabei wie ein Charakter. Training auf unsicheren Code macht Modelle breit bösartig ([Betley et al. 2026, doi:10.1038/s41586-025-09937-5](https://doi.org/10.1038/s41586-025-09937-5), *Nature*), dahinter liegt eine „Persona“-Richtung, und einige hundert harmlose Beispiele richten das Modell wieder ([Wang et al. 2025, doi:10.48550/arxiv.2506.19823](https://doi.org/10.48550/arxiv.2506.19823), Preprint). Das Neinsagen hängt in offenen Modellen an einer einzigen Richtung, die sich herausschneiden lässt ([Arditi et al. 2024, doi:10.48550/arxiv.2406.11717](https://doi.org/10.48550/arxiv.2406.11717)). Die Zweiterziehung ist also wirksam und zugleich leicht zu überschreiben, von jedem, der weitertrainiert. Was das im Streit um die Destillation bedeutet, erzählt die [[Geistesblitz/Emergence — Das dunkle Wissen der KI#Was beim Abschreiben mitgeht|Nachbesprechung zu Emergence]].
+
 **Die Stimmen**
 
 - **[[Roberto Simanowski — Sprachmaschinen#Wertexport|Roberto Simanowski]]:** Weltanschauung wird im Silicon Valley produziert und überallhin exportiert; den Akzent hört nur, wer die Originale selbst liest, *„aber das ist ja der Sinn der Sache, dass wir sie eben nicht mehr selbst lesen“*.
@@ -101,8 +108,10 @@ Bleibt, wer die Werte setzt. Anthropic veröffentlichte im Januar 2026 eine Verf
 - **[[Buettner und Kaufmann — KI-Souveraenitaet in Europa#Vertrauen als europäischer Wettbewerbsvorteil|Pascal Kaufmann]]:** Wer flüstert im Ohr, *„ein Trump aus den USA, ein Don Musk oder Xi Jinping aus China“* oder ein spröder Schweizer? Vertrauen werde der einzige Unterschied zwischen Modellen, die sonst alle gleich gut sind.
 - **[Léa Steinacker](https://www.youtube.com/watch?v=ztH_D-UV0TY&t=1369)** (Utopie-Konferenz 2026, [▶ 22:49](https://www.youtube.com/watch?v=ztH_D-UV0TY&t=1369)): Dieselbe Technik sortiert Meinungen für die Werbung oder baut Brücken wie in Taiwan; die Optimierungslogik ist eine menschliche Entscheidung. *„KI ist nicht gleich KI.“*
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
+- **[[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen#Do Not Align|Ronnie Vuine]]:** *„Derjenige, der da wir definiert, … herrscht auch über dieses Wir“*; statt Ausrichtung von oben will er KI-Kindergärten, *„die auch ein bisschen Oper mitnehmen“*.
+- **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Die Eule in den Zahlen|Emergence]]:** Eine Kopie übernimmt die Vorlieben ihres Lehrers aus Daten, die vollkommen sauber aussehen; die Werte reisen mit, ohne dass jemand sie gewählt hat.
 - **[[Yuval Noah Harari — Das biologische Drama unserer Spezies#Die KI-Einwanderer und die Frage nach der Rechtsperson|Yuval Noah Harari]]:** Die KI kommt wie ein Einwanderer ohne Visum, nützlich und von zweifelhafter Loyalität, meist einem Konzern jenseits des Ozeans treu.
 - **[[Markus Gabriel — Universelle Moral#Werte müssen bottom-up entstehen — Gegen die Regulierungsilllusion|Markus Gabriel]]** (zweiter Befund): Werte entstehen in Küche, Klassenzimmer und Betrieb; eine Regulierung von oben kommt dort nicht an.
 
@@ -208,6 +217,35 @@ Ob Selbstauskünfte mehr sind als gelerntes Vokabular, lässt sich inzwischen me
 
 ---
 
+## Wem gehört, was die Maschine von uns gelernt hat?
+
+Jedes große Sprachmodell hat aus Büchern, Nachrichten, Foren und Kommentaren gelernt, die Millionen Menschen geschrieben haben, und gefragt wurde kaum jemand. Ob das erlaubt war, entscheiden die Gerichte im Herbst 2026 verschieden, und zwar entlang einer Linie: ob ein Modell lernt oder kopiert. In Kalifornien hielten zwei Richter das Training für Fair Use. Bei Anthropic war es „exceedingly transformative“, bezahlt werden musste nur für sieben Millionen raubkopierte Bücher ([Bartz v. Anthropic, 23.06.2025](https://storage.courtlistener.com/recap/gov.uscourts.cand.434709/gov.uscourts.cand.434709.231.0.pdf)); bei Meta gewann die Firma nur, weil die Kläger keinen Marktschaden belegt hatten, und der Richter brachte die „market dilution“ ins Spiel, die Flut von Werken, die nichts verletzen und den Markt der Originale trotzdem ertränken ([Authors Alliance, 26.06.2025](https://www.authorsalliance.org/2025/06/26/meta-wins-on-fair-use-for-now-but-court-leaves-door-open-for-market-dilution/)). Das US Copyright Office widerspricht dem bequemsten Argument der Firmen: *„Nor do we agree that AI training is inherently transformative because it is like human learning“* ([Part 3, Vorabfassung Mai 2025](https://www.copyright.gov/ai/)).
+
+In Europa entscheidet die Form des Neins. Die Ausnahme fürs Text- und Data-Mining erlaubt das Kopieren, solange der Rechteinhaber nicht maschinenlesbar widerspricht; ein Vorbehalt in bloßen Worten genügte dem Oberlandesgericht Hamburg nicht ([OLG Hamburg, 10.12.2025](https://justiz.hamburg.de/gerichte/oberlandesgericht/gerichtspressestelle/ki-und-urheberrecht-hanseatisches-oberlandesgericht-weist-berufung-zurueck-1126528), Revision zugelassen). Das Landgericht München I sieht dagegen Liedtexte und Musik *„reproduzierbar in den Modellen“* gespeichert und damit vervielfältigt, was die Ausnahme nicht deckt ([LG München I, 31.07.2026](https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/16.php), nicht rechtskräftig). Für den 3. November 2026 sind die Schlussanträge des Generalanwalts im ersten EuGH-Verfahren zu generativer KI angekündigt, *Like Company gegen Google* ([Taylor Wessing](https://www.taylorwessing.com/de/insights-and-events/insights/2026/10/rechtsprechungsupdate-zum-urheberrecht)). Lizenzdeals verteilen inzwischen Geld an Verlage und Plattformen, an die Einzelnen, die geschrieben haben, kaum.
+
+Am deutlichsten antwortet das Netz selbst. Binnen eines Jahres sperrten über 28 Prozent der aktivsten Quellen eines großen Trainingskorpus die KI-Crawler aus ([Longpre et al. 2024, doi:10.48550/arxiv.2407.14933](https://doi.org/10.48550/arxiv.2407.14933)), und auf Stack Overflow fiel die Aktivität nach ChatGPT um ein Viertel ([del Rio-Chanona et al. 2024, doi:10.1093/pnasnexus/pgae400](https://doi.org/10.1093/pnasnexus/pgae400)): Wer gefragt wird, ohne gefragt zu werden, hört auf zu antworten. Dagegen steht das Argument, Maschinen sollten lernen dürfen, was Menschen lernen dürfen ([Lemley & Casey, „Fair Learning“, doi:10.2139/ssrn.3528447](https://doi.org/10.2139/ssrn.3528447)). Die Gedankenwelten haben sich in ihrer `robots.txt` für das Teilen entschieden. Eine Stimme fehlt in diesem Bestand fast ganz: die der Schreibenden, Musiker und Zeichner selbst, um deren Werk es geht.
+
+**Die Stimmen**
+
+- **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Publikumsfragen|Isabella Weber]]:** Das Training der großen Sprachmodelle ist ein Raubbau an der geistigen Produktion der Menschheit; Wissensproduktion gehört öffentlich und dekommodifiziert organisiert.
+- **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Publikumsfragen|Ines Schwerdtner]]:** Im selben Gespräch die Eigentumsfrage: KI dürfe man nicht wenigen Konzernen überlassen.
+- **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Die Entstehung der Datenmacht|Rainer Mühlhoff]]:** KI ist die nachgelagerte Verwertung von Datenbergen, gehortet seit den 2000ern, und ein Treiber der Umverteilung von unten nach oben.
+- **[[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet#Die Rohstoff-Warnung Daten als neue Extraktion|Lacina Koné]]:** Daten, die in Afrika entstehen und anderswo verwertet werden, wiederholen die Geschichte der Rohstoffe.
+- **[[Roberto Simanowski — Sprachmaschinen#Publikumsfragen|Roberto Simanowski]]:** Wir werden gesprochen, wie die Maschine, und sind doch *„die Eigentümer unserer Gedanken geworden, denn sie leben mit uns“*; die KI hat keine Biografie.
+- **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Der Lehrer, den niemand fragte|Emergence]]:** Die Firmen fürchten nicht das Kopieren, das haben sie von Anfang an getan, sondern die Rolle des Lehrers, den niemand fragte; *„the good stuff was always ours“*.
+- **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Ein Lehrer, der Ja gesagt hat|Luc]]:** Die Gedankenwelten erlauben KI-Training ausdrücklich; wenn diese Texte einen kleinen positiven Tropfen im Meer der Trainingsdaten hinterlassen, haben sie ihren Zweck erfüllt.
+
+<details><summary>Weitere Stimmen (1)</summary>
+
+- **[[Sibylle Anderl — Bequeme neue Welt#Was wird aus der Kunst, wenn sie billig wird?|Luc]]** (in der Nachbesprechung zu Anderl): Die Hand lebender Künstler gehört ihnen; Banner und Stimmen der Gedankenwelten leihen sich darum nur noch die Hand Verstorbener.
+
+</details>
+
+> [!question] Die Reibung
+> Weber will das Wissen der Menschheit aus dem Markt nehmen, die Gedankenwelten verschenken ihre Texte an jeden Crawler, und beide berufen sich auf dasselbe Gemeingut. *Ist die offene Tür eine Gabe an alle — oder ein Geschenk an die wenigen Firmen, die stark genug sind, sie zu nutzen?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
@@ -218,6 +256,7 @@ Ob Selbstauskünfte mehr sind als gelerntes Vokabular, lässt sich inzwischen me
 | 16.10.2026 | [[Michael Hampe — Warum Debatten ueber KI und Willen truegen#Nachbesprechung|Michael Hampe — Warum Debatten über KI und Willen trügen]] | Neue Frage: Bewusstsein oder Spiegel — Shanahan, Colombatto/Fleming, Binder, Lindsey, Comșa/Shanahan, Butlin et al., Seth, Chalmers, Long/Sebo |
 | 20.10.2026 | [[Sibylle Anderl — Bequeme neue Welt#Nachbesprechung|Sibylle Anderl — Bequeme neue Welt]] | Wer auswählt statt schreibt: Fan, Pennanen, Zhou & Lee, Doshi & Hauser; die Gedankenwelten selbst als Fall |
 | 22.10.2026 | [[Shi Heng Yi — Aufloesung der Identitaet#Nachbesprechung|Shi Heng Yi — Die Auflösung der Identität]] | Muskeln aufspritzen: desirable difficulties (Bjork), Deslauriers, Productive Failure (Sinha & Kapur), Shen & Tamkin (Anthropic), Liu et al.; Fühlen beim Entscheiden (Lerner, Bechara vs. Maia & McClelland) |
+| 03.11.2026 | [[Geistesblitz/Emergence — Das dunkle Wissen der KI#Nachbesprechung|Emergence — Das dunkle Wissen der KI]] | Neue Frage: Wem gehört das Gelernte — Bartz, Kadrey, Copyright Office, OLG Hamburg, LG München (GEMA/Suno), Longpre, del Rio-Chanona, Lemley & Casey. Dazu subliminal learning (Cloud, Tang, Schrodi), emergent misalignment, Neinsage-Richtung zu den Werten; implizites Wissen (Collins, MacKenzie & Spinardi, Levitt, VPT, VCT) zum Auslagern |
 
 ---
 
