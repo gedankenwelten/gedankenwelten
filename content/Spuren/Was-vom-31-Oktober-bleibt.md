@@ -173,27 +173,27 @@ und Telepolis. Eine Meldung gehört dazu, wenn
 sie von den Protesten in Deutschland handelt. Newsletter und Sammelmeldungen, die die Proteste nur
 nebenbei erwähnen, fallen heraus. Dann schaut das Skript in Titel und Teaser nach zwei Wortfeldern:
 
-- **G — Sicherheit und Gewalt:** Krawall, Ausschreitung, Plünderung, Gewalt, Festnahme, Molotow, Polizei,
+- **Gewalt** (alles rund um Sicherheit und Gewalt): Krawall, Ausschreitung, Plünderung, Gewalt, Festnahme, Molotow, Polizei,
   Innenminister, linksextrem, migrantisch, Verbot und verwandte Wörter.
-- **F — Forderungen:** Bildung, Schulen, Lehrer, Psychotherapie, Suchthilfe, Miete, Wohnen,
+- **Forderungen:** Bildung, Schulen, Lehrer, Psychotherapie, Suchthilfe, Miete, Wohnen,
   Lebenshaltungskosten, bezahlbar, soziale Gerechtigkeit, Klima, Wehrpflicht, Überwachung und verwandte
   Wörter.
 
 Wer allgemein von „Anliegen“ oder „Forderungen“ spricht, ohne eine zu nennen, wird eigens gezählt und zählt
-nicht als F. Das Skript liegt im Cortex (`.claude/scripts/spur_genz_zaehlung.py`), die Liste aller gezählten
+nicht als Forderung. Das Skript liegt im Cortex (`.claude/scripts/spur_genz_zaehlung.py`), die Liste aller gezählten
 Meldungen mit ihrer Einordnung wird bei jedem Sweep unter `.claude/data/spuren/` abgelegt.
 
 **Was die Zählung kann und was nicht.** Sie misst *Vorkommen*: ob ein Wort aus einem Feld in Titel oder
 Teaser steht. Ob ein Text die Forderungen ernst nimmt oder abtut, misst sie nicht. „Gen Z regelt kritisiert
-Fokus auf Thema Gewalt“ zählt als G, und der FAZ-Text „Die Klagen der Schüler im Faktencheck“, der ganz von
-den Forderungen handelt, zählt nicht als F, weil sein Teaser keine nennt. Solche Fehler gibt es in beide
+Fokus auf Thema Gewalt“ zählt bei Gewalt, und der FAZ-Text „Die Klagen der Schüler im Faktencheck“, der ganz von
+den Forderungen handelt, zählt nicht bei den Forderungen, weil sein Teaser keine nennt. Solche Fehler gibt es in beide
 Richtungen; über Wochen hinweg sollten sie sich ausgleichen, solange die Wortlisten gleich bleiben. Die Auswahl der
 Feeds ist unsere, nicht die ganze Presse. Öffentlich-rechtliche Liveblogs erzeugen am Protesttag viele
-Einzelmeldungen und füllen die G-Spalte schneller als ein Kommentar die F-Spalte.
+Einzelmeldungen und füllen die Spalte Gewalt schneller als ein Kommentar die Spalte Forderungen.
 
 **Der Ausgangsstand**, gemessen am 02.11.2026 um 12:30 Uhr:
 
-| Zeitraum | Meldungen | mit G | mit F | F-Anteil | G im Titel | F im Titel |
+| Zeitraum | Meldungen | davon mit Gewalt | davon mit Forderung | Anteil mit Forderung | Gewalt im Titel | Forderung im Titel |
 |---|---|---|---|---|---|---|
 | Vorlauf, 15.–30.10. | 77 | 41 | 16 | 21 % | 26 | 6 |
 | Protesttag, 31.10. | 55 | 32 | 11 | 20 % | 24 | 2 |
@@ -238,11 +238,11 @@ Forderungen in den Tagen nach der Nacht seltener vorkommen, war zu erwarten; die
 zurückkehren.
 
 **Gegenbeobachtung:** (1) Die Gewalt-Debatte begann lange vor der Nacht. Schon im Vorlauf trug gut die Hälfte
-der Meldungen ein Wort aus dem Feld G, mit Überschriften wie „Verfassungsschutz warnt vor Einfluss von
+der Meldungen ein Wort aus dem Feld Gewalt, mit Überschriften wie „Verfassungsschutz warnt vor Einfluss von
 Linksextremisten“ (Deutschlandfunk, 28.10.) oder „Ministerium: Aktuell keine Gewaltaufrufe“ (ZEIT, 28.10.). Was
 die Spur misst, ist also eine Verschiebung in einem Feld, das schon vorher schief lag, und kein Umschlag.
 (2) Auch die, die vor Pauschalurteilen warnen, sprechen über die Täter: Pistorius, Josef, die taz
-(„Der Sündenbock ist schnell gefunden“). Wer über die Gewalt-Debatte schreibt, erhöht die G-Spalte, auch
+(„Der Sündenbock ist schnell gefunden“). Wer über die Gewalt-Debatte schreibt, erhöht die Spalte Gewalt, auch
 diese Spur. (3) Köln nennt die Gewalt an der Versammlung vorbereitet und bewaffnet. Wer die Gewalt allein
 der Halloween-Nacht zuschreibt, macht sie kleiner, als die Polizei sie beschreibt. (4) Die Bundesregierung
 hat sich am Montag ausdrücklich zu den Forderungen geäußert, und die SPD hat den Bildungsgipfel noch vor der
@@ -269,7 +269,7 @@ Euronews.
   wissen wir nicht.
 - **Was wir messen wollen.** Die Frage „wird noch über die Forderungen gesprochen?“ trägt eine Vermutung in
   sich: dass sie untergehen. Darum ist die Zählung am ersten Tag
-  festgelegt, und darum zählt die Spalte „nur Anliegen“ nicht mit. Wenn der F-Anteil zurückkehrt, steht das
+  festgelegt, und darum zählt die Spalte „nur Anliegen“ nicht mit. Wenn der Anteil mit Forderung zurückkehrt, steht das
   hier genauso.
 - **Ein Wort, das wir meiden.** „Gekapert“ benennt eine Absicht und eine Gruppe. Wo beides nicht belegt ist,
   schreiben wir, was geschah: Plünderung, Wurf, Festnahme, und wo und wann.
