@@ -1,7 +1,7 @@
 ---
 title: "Gen Z regelt — und was danach geregelt wird"
 aliases:
-  - Was vom 31. Oktober bleibt
+  - Was-vom-31-Oktober-bleibt
 date: 2026-11-02
 tags:
   - spur
@@ -50,11 +50,14 @@ raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 
 *Stand 02.11.2026, mittags. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf.*
 
-Aufgerufen hatte die Initiative „Gen Z regelt“, wenige Wochen alt und ohne große Organisation im Rücken. Ihre
-Forderungen nach dpa: mehr Geld für Schulen, Suchthilfe und Psychotherapie, Maßnahmen gegen steigende
-Lebenshaltungskosten, soziale Gerechtigkeit, mehr Klimaschutz, keine Wehrpflicht, kein Ausbau staatlicher
-Überwachung ([ZDFheute](https://www.zdfheute.de/politik/deutschland/gen-z-proteste-pluenderungen-gewalt-100.html)).
-Wie viele kamen, ist offen. Die Initiative spricht von hunderttausend, die taz von 120.000. Polizeizahlen gibt es
+Aufgerufen hatte die Initiative „Gen Z regelt“, wenige Wochen alt und ohne große Organisation im Rücken. Auf
+ihrer [Website](https://genz-regelt.de/) stehen sechs Forderungen: *„Geld für Schulen, Suchthilfe und Psychotherapie
+statt Kürzungen“*, *„ein bezahlbares Leben“*, *„Lasten gerecht verteilen, statt bei der jungen Generation zu
+sparen“*, *„Nein zur Wehrpflicht. Über unsere Zukunft entscheidet niemand ohne uns“*, *„Grundrechte schützen, statt
+die Überwachung immer weiter auszubauen“* und *„konsequenter Klimaschutz jetzt“*. Ihr
+[Positionspapier](https://genz-regelt.de/assets/dokumente/positionspapier-gen-z-regelt.pdf) nennt statt des Klimas den
+Fachkräftemangel in Schulen, Pflege und Gesundheit und endet mit dem Satz: *„Wir wollen mitbestimmen, wenn über
+unsere Zukunft entschieden wird.“* Wie viele kamen, ist offen. Die Initiative spricht von 120.000, ebenso die taz. Polizeizahlen gibt es
 nur einzeln: in Stuttgart rund 6.000 (die Veranstalter sagen 12.000), in Hamburg 6.700 beim Zug „Gegen
 Wehrpflicht – GenZ regelt!“.
 
@@ -92,8 +95,8 @@ selbst unterschiedlich:
 Seit Sonntag geht es um die Frage, wer die Täter waren (siehe „Was behauptet wurde“), und um die nächsten
 Demonstrationen. Poseck sagt, eine solche Versammlung *„darf sich in Frankfurt nicht wiederholen“*, die Stadt
 erwägt ein Verbot ([FAZ](https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-stadt-frankfurt-erwaegt-verbot-der-naechsten-gen-z-demo-faz-201635936.html)).
-Die Initiative kündigt den 14. November an und will sich am 20. November an europaweiten Protesten beteiligen.
-Am 20. November ist außerdem ein Schulstreik gegen die Wehrpflicht geplant, zu dem ein Bündnis mit der
+Laut dpa kündigte die Initiative am Sonntag den 14. November an; auf ihrer eigenen Website steht am Montag ein
+anderes Datum: *„Freitag, 20. November 2026, ab 14 Uhr in 34 Städten“*. Am 20. November ist außerdem ein Schulstreik gegen die Wehrpflicht geplant, zu dem ein Bündnis mit der
 Bundesschülerkonferenz aufruft, die sich von „Gen Z regelt“ distanziert hat
 ([WiWo/dpa](https://www.wiwo.de/politik/deutschland/krawalle-nach-gen-z-regelt-festnahmen-und-pluenderungen/100266314.html)).
 Zu den Forderungen hat die SPD-Fraktion einen nationalen Bildungsgipfel verlangt, Bildungsministerin Prien
@@ -133,7 +136,7 @@ verändert. Was davon trägt, wird im Verlauf nachgemessen.*
 | Poseck | Die nächste Versammlung dieser Art solle es in Frankfurt nicht geben; ob die Proteste am 20. November stattfinden können, sei offen, *„aus meiner Sicht sollte es jedenfalls nicht sein“* |
 | SPD-Bundestagsfraktion (Dagmar Schmidt) | Nationaler Bildungsgipfel mit Ländern und Kommunen, die Initiative soll von Ministerin Prien ausgehen |
 | Bundesregierung | *„Sie werden von der Politik gehört.“* |
-| „Gen Z regelt“ | Am 14. November wieder bundesweit auf die Straße, am 20. November europaweit |
+| „Gen Z regelt“ | Am 14. November wieder bundesweit auf die Straße, am 20. November europaweit (so nach dpa; die eigene Website nennt am 02.11. nur den 20. November, siehe Verlauf) |
 
 ---
 
@@ -160,8 +163,8 @@ Innenausschuss. Was ein Minister sagt, ist eine Aussage, die wir festhalten. Ein
 |---|---|---|
 | **In den Medien** | Kommen die Forderungen noch vor? | Die Zählung unten, je Woche, gegen den Vorlauf |
 | **In der Politik** | Wird zu den Forderungen gehandelt? | Ob der Bildungsgipfel stattfindet und mit wem; ob Prien mit Jugendlichen spricht und mit welchen; Debatten in Bundestag und Landtagen und was darin Thema ist; Anträge zu Schulen, Psychotherapie, Mieten, Wehrpflicht |
-| **Beim Protestrecht** | Wird das Demonstrieren schwerer? | Verbote und Auflagen für den 14. und 20. November, Gerichtsentscheidungen dazu |
-| **In der Bewegung** | Was tun die Jungen selbst? | Zulauf und Verlauf am 14. und 20. November; ob die Forderungen konkreter werden; ob die Bündnisse zueinanderfinden oder auseinandergehen |
+| **Beim Protestrecht** | Wird das Demonstrieren schwerer? | Verbote und Auflagen für den 20. November, Gerichtsentscheidungen dazu |
+| **In der Bewegung** | Was tun die Jungen selbst? | Zulauf und Verlauf am 20. November; ob die Initiative und die Gruppen vor Ort beieinanderbleiben; ob die Forderungen konkreter werden; ob die Bündnisse zueinanderfinden oder auseinandergehen |
 
 ## Wie wir zählen
 
@@ -207,8 +210,7 @@ Einzelmeldungen und füllen die Spalte Gewalt schneller als ein Kommentar die Sp
 
 | Datum | Station | Was dort sichtbar wird |
 |---|---|---|
-| **14.11.2026** | Nächster bundesweiter Protesttag von „Gen Z regelt“ | Verbote oder Auflagen, Zulauf, Verlauf, Berichterstattung |
-| **20.11.2026** | Europaweite Proteste; Schulstreik gegen die Wehrpflicht | ob in Frankfurt demonstriert werden darf; ob die Bündnisse getrennt bleiben |
+| **20.11.2026** | Nächster bundesweiter Protesttag von „Gen Z regelt“ (34 Städte); am selben Tag Schulstreik gegen die Wehrpflicht und europaweite Proteste | ob in Frankfurt demonstriert werden darf; Zulauf, Verlauf, Berichterstattung; ob die Bündnisse getrennt bleiben |
 | November/Dezember | Innenministerkonferenz, Innenausschüsse in Hessen und NRW, Anfragen in den Landtagen | erste amtliche Angaben zu den Tatverdächtigen |
 | offen | Bildungsgipfel, Gespräch der Ministerin mit Jugendlichen | ob zu den Forderungen gehandelt wird |
 | Winter/Frühjahr 2027 | Anklagen und erste Urteile | was vor Gericht hält |
@@ -217,6 +219,37 @@ Einzelmeldungen und füllen die Spalte Gewalt schneller als ein Kommentar die Sp
 ---
 
 ## Verlauf
+
+### 2026-11-02, abends — Was die Initiative selbst sagt
+
+**Befund:** Auf ihrer Website, ihrer Presseseite und in ihrem öffentlichen Telegram-Kanal hat sich „Gen Z regelt“
+bis zum Montagnachmittag nicht zu der Nacht geäußert. Die Website zeigt eine Dankesseite (*„120.000 Menschen
+waren dabei“*) und den nächsten Termin, Freitag, den 20. November, in 34 Städten; den 14. November, den dpa am
+Sonntag meldete, nennt sie nicht. Die
+[Erklärung](https://genz-regelt.de/assets/dokumente/erklaerung-gen-z-regelt.pdf) von vor dem Protest steht
+unverändert: *„Wir sind gegen jede Form von Gewalt“*, und auf der Liste dessen, was nicht geht, auch
+*„Provokationen gegen Polizei oder Gegendemos“*. Ein Telegram-Beitrag über Ausschreitungen „von unangemeldeten
+Gruppen“ stammt vom 8. Oktober und handelt von Belgien. Geäußert hat sich die Initiative auf Instagram: In einer
+[Stellungnahme](https://www.instagram.com/p/DfNQRPLjay0/) vom 01.11. heißt es, unter ihrem Namen kursierten
+*„zahlreiche Gruppen und Social-Media-Accounts …, bei denen nicht eindeutig nachvollziehbar ist, wer hinter ihnen
+steht“*. Von Accounts, *„überwiegend Ortsgebundene“*, deren Inhalte nicht mit dem Positionspapier vereinbar seien,
+*„unter anderem @genzregelt“*, distanziere man sich. Die Krawalle nennt die Stellungnahme nicht ausdrücklich. Unter
+dem Beitrag antwortet der Stuttgarter Account: *„Wir in Stuttgart haben nichts mit dieser Stellungnahme am Hut und
+sprechen uns gegen diese Spaltung aus!“* Auf dem Profil erscheinen außerdem Beiträge, zum Teil gemeinsam mit anderen
+Accounts, zu Posecks Zweifeln an weiteren Protesten, zum Streit zwischen Dobrindt und Pistorius und ein Aufruf, *„unverhältnismäßige
+Polizeigewalt“* am Nachmittag öffentlich zu machen.
+
+**Deutung:** Nach außen trennt die Initiative weniger zwischen Demo und Nacht als zwischen sich und Gruppen, die
+unter ihrem Namen auftreten. Das passt zu dem, was die taz am Sonntag beschrieb: Unter „Gen Z regelt“ laufen eine
+kleine Orga, lokale Teams und sozialistische Jugendgruppen, und sie streiten über Kurs und Form. Wer am Ende für
+welche Demo verantwortlich war, ist damit selbst eine der Fragen an die Ermittlungen.
+
+**Gegenbeobachtung:** (1) Dass auf Website und Telegram nichts steht, heißt nicht, dass die Initiative schweigt:
+Ihre Sprecher haben sich am Samstag und Sonntag in der Presse distanziert (ZDF, Tagesschau), und Instagram ist ihr
+Hauptkanal. (2) Die Stellungnahme lässt sich auch als Aufräumen lesen, ohne Bezug zur Nacht: Gefälschte Accounts
+gab es schon vorher, am 31.10. warnte der Telegram-Kanal *„Das ist nicht unser Account“*. (3) Den 14. November hat
+dpa aus der Homepage der Initiative zitiert; ob das Datum gestrichen wurde oder ein Missverständnis war, wissen wir
+nicht.
 
 ### 2026-11-02 — Eröffnung, zwei Tage nach dem Protesttag
 
@@ -332,6 +365,9 @@ Die erste Beobachtungs-Spur ohne These. Dieselbe Form: festhalten, was vorher ge
 - Polizei Hamburg, 261101-1, Abschlussmeldung, 01.11. — [Presseportal](https://www.presseportal.de/blaulicht/pm/6337/6381547)
 - Polizei Stuttgart, „Gemischte Bilanz nach Gen-Z-Demonstration“, 01.11. — [Presseportal](https://www.presseportal.de/blaulicht/pm/110977/6381847)
 - Polizei Berlin, „Bilanzmeldung zum stadtweiten Einsatzgeschehen Halloween“, 01.11. — [berlin.de](https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733484.php)
+
+**Die Initiative selbst**
+- „Gen Z regelt“ — [Website](https://genz-regelt.de/) · [Positionspapier (PDF)](https://genz-regelt.de/assets/dokumente/positionspapier-gen-z-regelt.pdf) · [Erklärung (PDF)](https://genz-regelt.de/assets/dokumente/erklaerung-gen-z-regelt.pdf) · [Presseportal](https://presse.genz-regelt.de/) · [Instagram-Stellungnahme, 01.11.](https://www.instagram.com/p/DfNQRPLjay0/) · [Telegram](https://t.me/s/genzregelt) — die Website fragt Besucher per CAPTCHA ab, gelesen am 02.11.2026
 
 **Berichte**
 - ZDFheute, 01.11. — [„Gen Z regelt“-Demos von Krawallen und Plünderungen überschattet](https://www.zdfheute.de/politik/deutschland/gen-z-proteste-pluenderungen-gewalt-100.html)
