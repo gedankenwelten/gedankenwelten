@@ -50,6 +50,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Wie kommt man aus der rechten Szene wieder heraus? *(wachsend)* | [[Wie kommt man aus der rechten Szene wieder heraus]] | ~40 |
 | Wie umgehen mit Russland? *(wachsend)* | [[Wie umgehen mit Russland]] | ~50 |
 | Was macht Schule mit uns? *(wachsend)* | [[Was macht Schule mit uns]] | ~70 |
+| Was schützt Kinder vor dem Druck aus dem Netz? *(wachsend)* | [[Was schuetzt Kinder vor dem Druck aus dem Netz]] | ~15 |
 | Macht Migration kriminell? *(wachsend)* | [[Macht Migration kriminell]] | ~12 |
 | Was kann das Völkerrecht? *(wachsend)* | [[Was kann das Voelkerrecht]] | ~30 |
 | Wie werden gewöhnliche Menschen zu Tätern? *(wachsend)* | [[Wie werden gewoehnliche Menschen zu Taetern]] | ~45 |

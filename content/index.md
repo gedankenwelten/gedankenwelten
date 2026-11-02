@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
 
+> **03.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
+>
+> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
+
 > **02.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
 >
 > Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
 
-> **01.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
-
-> → *16 weitere in* [[Panorama]]
+> → *17 weitere in* [[Panorama]]
 
 ### Zeitgeist
 

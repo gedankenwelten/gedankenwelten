@@ -397,7 +397,8 @@ Verhaltenserkennung fehlt belastbare Evidenz. Ob die Speicherung von Verbindungs
 konnte ein Gutachten des Max-Planck-Instituts 2011 nicht nachweisen
 ([MPI](https://static.mpicc.de/shared/data/pdf/schutzluecken_vorratsdatenspeicherung_12.pdf)). Wie stark soziale
 Medien Jugendlichen schaden, ist in der Forschung umstritten
-(Überblick: doi:10.3390/bs15050574).
+(Überblick: doi:10.3390/bs15050574); was eine Altersgrenze bewirkt und warum Frankreichs Verfassungsrat sie
+kippte, steht in [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz#Soll der Staat ein Mindestalter setzen?|Soll der Staat ein Mindestalter setzen?]]
 
 **Die Einwände.** Ohne gespeicherte IP-Adressen blieben Täter im Netz anonym, sagte die Vizepräsidentin des BKA
 bei der Anhörung; oft sei die Adresse der einzige Ansatz. 2024 gab es mehr als 20 Millionen Verdachtsmeldungen
@@ -528,6 +529,9 @@ Die fünfte Forderung, mit den Fragen, ob Überwachung wirkt und wo Schutz in He
 
 ### → [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 Der letzte Satz des Positionspapiers, mitbestimmen, ist eine Frage an die Demokratie selbst.
+
+### → [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
+Die Altersgrenze aus der Grundrechte-Tabelle, dort mit der Forschung und den Stimmen dafür und dagegen.
 
 ### → [[Panorama/Was mit 17 geschah|Was mit 17 geschah]]
 Weggabelungen aus der Jugend. Wer mit 17 auf die Straße geht, steht an einer.

@@ -394,6 +394,8 @@ für eine Pause, bis die Regulierung aufholt, und
 [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Verschwinden physischer Räume → Zwang in den digitalen Raum|Aladin El-Mafaalani]]
 mit dem Einwand, ein Verbot ohne neue Räume nehme den Kindern nur das letzte Ventil.
 
+→ Weiter im Panorama: **[[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]**, mit sechs offenen Fragen vom Handyverbot bis zum Mindestalter und dem Stand in Australien, Brüssel und Berlin.
+
 ---
 
 ## Faktencheck
