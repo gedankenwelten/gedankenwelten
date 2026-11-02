@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Spuren
+
+> **02.11.** — [[Spuren/Was-vom-31-Oktober-bleibt|Was vom 31. Oktober bleibt — Ermittlungen und Forderungen der Gen Z]]
+>
+> Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
+
+> **30.10.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf.
+
+> **29.10.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
+>
+> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
+
+> **29.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+>
+> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
+
+> **29.10.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
+>
+> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
+
+> → *6 weitere in* [[Spuren]]
+
 ### Zeitgeist
 
 > **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
@@ -44,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg.
 
-> → *23 weitere in* [[Zeitgeist]]
+> → *18 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -131,30 +155,6 @@ Die Gedankenwelten (luc)
 > **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
 >
 > Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
-
-### Spuren
-
-> **30.10.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
->
-> Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf.
-
-> **29.10.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
->
-> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
-
-> **29.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
->
-> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
-
-> **29.10.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
->
-> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
-
-> **29.10.** — [[Spuren/Faehigkeit-vor-Wirkung-wie-schnell-die-KI-in-der-Welt-ankommt|Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?]]
->
-> Die Maschine wird schneller klüger, als die Welt sich ändert. Die Spur legt beide Kurven nebeneinander, die Fähigkeit und die messbare Wirkung, und schaut bis Ende 2028, ob die zweite nachzieht.
-
-> → *5 weitere in* [[Spuren]]
 
 ### Gedanken
 
