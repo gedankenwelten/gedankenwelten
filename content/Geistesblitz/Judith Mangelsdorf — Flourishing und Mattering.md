@@ -327,6 +327,9 @@ Wobei diese Lücke vielleicht ehrlicher ist als ihre schnelle Schließung. Mange
 
 ## Verbindungen
 
+### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
+Der Film endet beim Zuhören „auf Augenhöhe“ und bei einer Forscherin, die Kinder als künftige Arbeitskräfte braucht. So stehen Mattering und sein Missverständnis in einem Film.
+
 ### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
 Ein Ehrenamt, das man nicht einmal erzählen darf, ist der Härtetest für die These vom Beitragen als Quelle der Bedeutsamkeit. Die TelefonSeelsorge hängt die Dankesbriefe darum an die eigene Pinnwand.
 

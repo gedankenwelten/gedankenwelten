@@ -222,6 +222,9 @@ Das Gespräch mündet in einem Gedanken über Vertrauen: *„Wenn ich lasse, dan
 
 ## Verbindungen
 
+### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
+Eine Zehntklässlerin, die „mit einer 3 nicht mehr leben“ konnte, obwohl niemand ihr die Eins abverlangte: der innere Kritiker in einem Kind.
+
 ### → [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
 Ricard und Brähler kommen aus sehr verschiedenen Traditionen — er aus tibetischem Buddhismus, sie aus westlicher Psychotherapie — und landen am selben Punkt: Mitgefühl ist keine sentimentale Haltung, sondern eine trainierbare Kapazität, die das gesamte Erleben transformiert. Brähler integriert diese buddhistische Intuition in die klinische Praxis.

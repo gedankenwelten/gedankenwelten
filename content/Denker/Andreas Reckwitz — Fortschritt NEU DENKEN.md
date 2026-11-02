@@ -391,6 +391,10 @@ Brosdas Frage „Resilienz — Rückkehr vor welche Krise, und war der Zustand g
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Wie sich ein Habitus fortpflanzt, zeigt der Film an Kindern, die auch den sinnlosen Schritt nachmachen. Und wer nur die Form kopiert, verliert das implizite Wissen, das in der Praxis steckt: die Nardoo-Kuchen ohne das Wasser.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

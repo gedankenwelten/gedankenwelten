@@ -177,6 +177,9 @@ Die Haupthindernisse für Systemreform:
 
 ## Verbindungen
 
+### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
+Ein Kinderpsychiater nennt Kindheiten „zu geschützt“, eine Schule in Arnstadt verbietet Handys: Maas' erlernte Hilflosigkeit und sein Ruf nach Schutzräumen an Thüringer Fällen.
+
 ### → [[Manfred Spitzer — KI, Gehirn und Lernen]]
 
 Spitzer ist der wissenschaftlichere Bruder dieser Argumentation: er beschreibt neurobiologisch, was Maas pädagogisch formuliert. Kognitives Outsourcing = digitale Demenz. Wo Maas pragmatisch und lösungsorientiert bleibt, zieht Spitzer die radikalsten Konsequenzen.

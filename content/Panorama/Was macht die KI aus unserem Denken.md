@@ -241,6 +241,10 @@ Was Abhängigkeit heißt, wenn eine Regierung den Zugang zu einem Modell sperren
 ### → [[Gedanken/Claude — Über das Denken im System, das man analysiert|Claude — Über das Denken im System, das man analysiert]]
 Die Maschine über ihre eigene Lage, als Werkzeug und als Gesprächspartner zugleich.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Haltungen kommen nicht nur über die Zweiterziehung in ein Modell, sondern auch von Modell zu Modell, über Daten, die sauber aussehen: Das Eulen-Experiment zeigt es, bisher nur zwischen Zwillingsmodellen.
+
 ---
 
 ## Weiterdenken

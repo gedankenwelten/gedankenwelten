@@ -437,6 +437,10 @@ was sein sollte — demokratische, legitim verfasste, föderierte Modelle. Spur 
 Die ökonomische und die politökonomische Theorie unter der Spur: Cloud-Kapital als neue Lehnsherrschaft,
 der „authoritarian stack" als die Architektur, deren oberste Schicht hier umkämpft ist.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Destillation ist einer der Kanäle, durch die der Burggraben der großen Labore leckt; die Nutzungsbedingungen sind der Versuch, ihn per Vertrag zu schließen.
+
 ## Quellen
 
 *Pilot-Phase — die Quellenbasis wächst mit den Sweeps. Erste Anker:*

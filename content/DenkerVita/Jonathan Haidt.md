@@ -118,5 +118,7 @@ Crockett übersetzt Haidts Moralpsychologie in die Plattformfrage: Das Netz verv
 
 ## Gedankenwelten-Notes
 
+- [[Zeitgeist/MDR exactly — Kinder im Burnout]] — beide Thesen Haidts ohne seinen Namen: zu geschützte Kindheiten (Roessner) und soziale Medien als Ursache (Kolleck); der Faktencheck prüft den Kausalsatz
+
 - [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]

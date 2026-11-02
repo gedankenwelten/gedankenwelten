@@ -319,6 +319,10 @@ man redet sein Modell zur Waffe, und der Staat nimmt einen beim Wort. *„Safety
 
 KI-Militarisierung und Finanzierung — die Geld- und Machtströme hinter dem Narrativ.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Der Streit um die Destillation ist die Typologie im Kleinen: Anthropic begründet seinen Zaun mit den „Bremsen“ der Modelle, Chinas Handelsministerium nennt dieselbe Praxis gegenseitiges Lernen. Ob es um Sicherheit geht oder um Vorsprung, lässt sich von außen kaum prüfen.
+
 ## Quellen
 
 - [the-decoder — From GPT-2 to Claude Mythos: 'too dangerous to release'](https://the-decoder.com/from-gpt-2-to-claude-mythos-the-return-of-ai-models-deemed-too-dangerous-to-release/)

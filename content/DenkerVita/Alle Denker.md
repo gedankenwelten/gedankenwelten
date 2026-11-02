@@ -350,6 +350,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Nina Kolleck|Nina Kolleck]]** — Bildungsforscherin und Politikwissenschaftlerin, Professorin für Erziehungs- und Sozialisationstheorie an der Uni Potsdam (vorher FU Berlin, Leipzig), seit 2026 im Bundesjugendkuratorium; *Der Kampf in den Köpfen* (2026): soziale Medien als neue Sozialisationsinstanz; deutet die Gen-Z-Proteste über Ungleichheit und rät zu Bürgerräten mit Jugendlichen
+
 **[[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]]** — Flötistin und Kulturmanagerin aus Minsk, 2020 eines der drei Gesichter der belarussischen Proteste; zerriss an der Grenze ihren Pass, um zu bleiben, fünf Jahre Haft, seit Dezember 2025 frei — wirbt für Druck und Gespräch zugleich
 
 **[[DenkerVita/Patrick Kaczmarczyk|Patrick Kaczmarczyk]]** — Politökonom und Entwicklungsökonom (Uni Mannheim, Kompetenzzentrum Transformation; zuvor UNCTAD, Ostafrika); stellv. Mitglied der Schuldenbremsen-Expertenkommission; *Kampf der Nationen* (2022), *Raus aus dem Ego-Kapitalismus* (2023), *Zerfall der Weltordnung* (2026); Studien mit Tom Krebs zu Stromnetz-Finanzierung und Militärausgaben; These: Geld ist eine Institution, und die westliche Wirtschaftsordnung war nie eine Ordnung für alle
@@ -565,6 +567,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende
 
 ## R
+
+**[[DenkerVita/Veit Roessner|Veit Roessner]]** — Kinder- und Jugendpsychiater, seit 2009 Direktor der Kinder- und Jugendpsychiatrie am Uniklinikum Dresden; Tic-Störungen, Tourette, ADHS, Zwänge (Erstautor der europäischen Tourette-Leitlinie zur Medikation); These: die Gene sind dieselben wie bei den Urgroßeltern, die Welt nicht, und wer Kindern alles Negative fernhält, handelt kontraproduktiv
 
 **[[DenkerVita/Jutta Roosen|Jutta Roosen]]** — Agrar- und Konsumökonomin, Lehrstuhl für Marketing und Konsumforschung an der TU München, Mitherausgeberin von *Food Policy*, seit 2026 im WBAE; Ernährungspolitik als Dreieck aus Information, Preis und Rezeptur — die Effekte sind klein, aber gerichtet, und nur die Kombination trägt
 

@@ -332,6 +332,10 @@ Dieselbe Konferenz, dasselbe Leitwort. Das Quartett streitet, ob Großzügigkeit
 - Hagendorff 2026, *AI and Ethics*, [doi:10.1007/s43681-026-01235-8](https://doi.org/10.1007/s43681-026-01235-8) — warum die Ausrichtung auf hilfreich, harmlos und ehrlich fast zwangsläufig links wirkt
 - Barmettler 2026, [„Progressive in Principle, Centrist in Practice“ (Preprint)](https://doi.org/10.48550/arXiv.2606.00048)
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Die Eule in den Zahlen ist der Akzent, den man nicht hört, in der Maschine: Ein Modell übernimmt eine Vorliebe aus Daten, in denen sie nicht vorkommt. Der Film fragt außerdem, wessen Wissen genommen wurde; Simanowski fragt, wessen Stimme danach überall spricht.
+
 ---
 
 ## Weiterdenken

@@ -22,15 +22,63 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **02.11.** — [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]]
+>
+> Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
+
+> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+>
+> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
+
+> **01.11.** — [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
+>
+> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch.
+
+> **01.11.** — [[Zeitgeist/WDR — Schmutzige Schokolade|WDR — Schmutzige Schokolade: Sie zahlen für unseren Genuss]]
+>
+> Zwei Jungen mit eitrigen Machetenwunden, ein Bauer, der Kinder kauft, ein Fluss voller Glyphosat — und eine Insel, auf der Kakao ohne Kinder wächst. Eine Reise vom Osterhasen zurück zur Bohne.
+
+> **31.10.** — [[Zeitgeist/Tom Krebs — Kapital und Krise|Tom Krebs — Kapital und Krise]]
+>
+> Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
+
+> → *19 weitere in* [[Zeitgeist]]
+
+### Geistesblitz
+
+> **02.11.** — [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+>
+> Jede KI hat von Menschen gelernt, die niemand gefragt hat. Jetzt fürchten die Firmen, selbst abgeschrieben zu werden — und ein Saphir, ein Seidenfaden und ein Kuchen aus Farnsporen zeigen, was sich überhaupt kopieren lässt.
+
+> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
+>
+> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
+
+> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+>
+> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
+
+> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
+>
+> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
+
+> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+>
+> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
+
+> → *4 weitere in* [[Geistesblitz]]
+
 ### Panorama
+
+> **02.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
 
 > **02.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
 >
 > Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
-
-> **01.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
 
 > **01.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
 >
@@ -70,30 +118,6 @@ Die Gedankenwelten (luc)
 
 > → *6 weitere in* [[Spuren]]
 
-### Zeitgeist
-
-> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
->
-> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
-
-> **01.11.** — [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
->
-> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch.
-
-> **01.11.** — [[Zeitgeist/WDR — Schmutzige Schokolade|WDR — Schmutzige Schokolade: Sie zahlen für unseren Genuss]]
->
-> Zwei Jungen mit eitrigen Machetenwunden, ein Bauer, der Kinder kauft, ein Fluss voller Glyphosat — und eine Insel, auf der Kakao ohne Kinder wächst. Eine Reise vom Osterhasen zurück zur Bohne.
-
-> **31.10.** — [[Zeitgeist/Tom Krebs — Kapital und Krise|Tom Krebs — Kapital und Krise]]
->
-> Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
-
-> **31.10.** — [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
->
-> Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg.
-
-> → *18 weitere in* [[Zeitgeist]]
-
 ### Denker
 
 > **01.11.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
@@ -117,30 +141,6 @@ Die Gedankenwelten (luc)
 > Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
 
 > → *5 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
->
-> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
-
-> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
->
-> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
-
-> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
->
-> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
-
-> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
->
-> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
-
-> **28.10.** — [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024 — Erfinder in Valletta, und was aus ihnen wurde]]
->
-> Zwei Tage auf Malta mit den Erfinderinnen und Erfindern Europas: ein Speicher ohne Berg, Solarzellen aus dem Drucker, Papier aus Laub. Zwei Jahre später lässt sich sehen, was getragen hat.
-
-> → *3 weitere in* [[Geistesblitz]]
 
 ### Kultur
 

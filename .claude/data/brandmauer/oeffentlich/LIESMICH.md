@@ -11,7 +11,9 @@ gedankenwelten.org. Jeder Befund der Spur soll sich nachprüfen lassen, ohne dem
 | `auslegungsregeln.md` | 105 Regeln, die während der Kodierung entstanden; sie präzisieren das Codebuch, ändern es nicht |
 | `codes.csv` | ein Code je Absatz, 1.919 Absätze |
 | `auswertung.md` | die Tabellen der ersten Messung (Korpus, Halbjahre, H1–H4) |
-| `nachrechnen.py` | rechnet die Kernzahlen aus `codes.csv` nach, nur Python-Standardbibliothek |
+| `zweitkodierung.csv` | die Zweitkodierung durch einen Menschen: 60 Absätze, erster Durchgang, Zweitkodierung, geklärter Code (Nachtrag 4, 5) |
+| `auswertung_lesart.md` | dieselben Tabellen in der zweiten Rechnung nach der Klärung (Nachtrag 5) |
+| `nachrechnen.py` | rechnet die Kernzahlen aus `codes.csv` nach (`--lesart`: zweite Rechnung), nur Python-Standardbibliothek |
 
 ## codes.csv
 
@@ -34,10 +36,12 @@ Code. Die genauen Grenzen stehen in `vorregistrierung.md` und `auslegungsregeln.
 
 - **Die Absatztexte.** Die Rechte liegen beim Deutschlandfunk und den Blättern. Über `fundstelle` und `blatt`
   findet man jeden Absatz im Original.
-- **Ein unabhängiger zweiter Kodierer.** Kodiert hat Claude (Anthropic), verblindet: ohne Datum und Seitenkontext,
-  in Zufallsreihenfolge. Die Zweitkodierung von 10 % (κ 0,91 auf der AfD-Achse) stammt vom selben Kodierer und misst
-  darum Stabilität, keine Übereinstimmung. Ein menschlicher Zweitkodierer über eine Stichprobe läuft (Nachtrag 4);
-  das Ergebnis wird hier nachgetragen.
+- **Ein unabhängiger zweiter Kodierer für das ganze Korpus.** Kodiert hat Claude (Anthropic), verblindet: ohne Datum
+  und Seitenkontext, in Zufallsreihenfolge. Die Zweitkodierung von 10 % (κ 0,91 auf der AfD-Achse) stammt vom selben
+  Kodierer und misst darum Stabilität, keine Übereinstimmung. Ein Mensch hat eine geschichtete Stichprobe von 60
+  Absätzen verblindet nachkodiert: 50 % Übereinstimmung auf vier Stufen (κ 0,33), ohne drei Fehlklicks 55 % (κ 0,40).
+  Die Abweichungen um die Hinnahme wurden danach gemeinsam geklärt, nicht mehr verblindet (Nachtrag 5,
+  `zweitkodierung.csv`).
 - **Ein öffentlicher Zeitstempel der Vorregistrierung.** Sie wurde am 17.10.2026 in einem privaten Repository
   eingecheckt. Öffentlich nachvollziehbar ist sie ab ihrer ersten Veröffentlichung hier.
 

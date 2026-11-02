@@ -105,3 +105,18 @@
 103. Linke-Achse: Eine von der Linken geführte Landesregierung als „Dammbruch“ bezeichnen = H (Stapel 31).
 104. „Die neue Macht der Ränder“, die die Mitte „in die Zange“ nehmen (AfD und Linke als Block), ohne Umgangsforderung = D/D, S= (Stapel 31).
 105. Linke-Achse: Es eine „exzellente Nachricht“ nennen, dass keine Mehrheit mit Grünen und Linken möglich ist, oder von einem „Makel“ durch das „Paktieren mit der Linkspartei“ sprechen = H (Stapel 32).
+
+---
+
+## Lesart nach der Zweitkodierung (Nachtrag 5, 02.11.2026) — gilt nur für die zweite Rechnung
+
+Nicht Teil des ersten Durchgangs, der nach den Regeln oben kodiert ist und Grundlage bleibt. In der zweiten Rechnung
+gilt auf der AfD-Achse:
+
+- **Zusammenarbeit** (L) = Koalition, Tolerierung, Absprache, auch Zusammenarbeit vor Ort mit gewählten AfD-Amtsträgern.
+- **Abstimmungsmehrheiten mit AfD-Stimmen hinnehmen** („nicht um die Stimmen der Falschen“, Brüsseler Modell, Initiative
+  trotz möglicher AfD-Zustimmung) = **K**. Betrifft die Regeln 30 und 33 und den zweiten Teil von Regel 20; deren erster
+  Teil (kommunal „nicht dauerhaft isolieren“) zählt als L, wenn er Zusammenarbeit mit AfD-Amtsträgern bejaht. Regel 93
+  (Einbindung Melonis) ist in dieser Lesart nicht geklärt; ihr einziger Fall in der Stichprobe wurde D.
+- Wer die Zusammenarbeit mit Rechtspopulisten im Ausland als gelungenes Vorbild darstellt, zählt als **L**, auch ohne
+  Forderung für Deutschland.

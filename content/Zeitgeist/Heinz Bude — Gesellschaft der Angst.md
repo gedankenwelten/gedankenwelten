@@ -176,6 +176,9 @@ Die Vorstellung, dass eine *kommende* Zeit neue Türen öffnen könnte, sei der 
 
 ## Verbindungen
 
+### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
+Was Bude 2014 „schuldig an sich selbst“ nannte, erzählt eine Thüringer Schülerin 2025 in eigenen Worten: Wer sich keine Mühe gebe, sei selbst schuld.
+
 ### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
 
 Budes Diagnose der ausbleibenden Solidarisierung — keiner steht mehr für den anderen nach unten ein — ist das soziale Negativ zu Mawicks Frage nach dem Füreinander-Einstehen. Mawick fragt, wofür ein Mensch zu sterben bereit ist; Bude erklärt, warum eine angstgetriebene, atomisierte Gesellschaft schon das Füreinander-*Leben* verlernt hat.

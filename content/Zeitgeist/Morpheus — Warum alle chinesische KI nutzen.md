@@ -275,6 +275,10 @@ Morpheus' erste Subventionsebene — Industriestrom 50% günstiger als in der EU
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Der Essayfilm erzählt dieselben 24.000 Konten mit der Gegenrechnung: Die bestohlenen Firmen haben selbst aus Büchern und Foren gelernt, ohne zu fragen. Und kopiert wird oft nur der Ton, nicht das Wissen.
+
 ---
 
 ## Weiterdenken

@@ -328,6 +328,10 @@ Feldbestätigung für Spitzers These: Berliner Schüler-Experiment (3 Wochen ohn
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Spitzers „künstliche Intuition“ hat in Hintons „dark knowledge“ ihr technisches Gegenstück. Anders als beim Menschen lässt sich das Wissen, das ein Netz nicht sagen kann, als Wahrscheinlichkeiten auslesen und an ein anderes Modell weitergeben.
+
 ---
 
 ## Weiterführend

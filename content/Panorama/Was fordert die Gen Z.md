@@ -110,10 +110,26 @@ depressive Symptome von 11 auf 17 Prozent gestiegen, Ängste von 20 auf 31 Proze
 wegen der Kriege. Die Studienleiterin sagt auch: Nicht jedes belastete Kind braucht eine Behandlung.
 (Die zugehörige Arbeit ist noch ein Preprint, doi:10.21203/rs.3.rs-8260872/v1.)
 
+**Warum es so lange dauert.** Die Zahl der Kassensitze wurde nie aus dem Bedarf errechnet: Man zählte am
+31. August 1999, acht Monate nach dem Psychotherapeutengesetz, die vorhandenen Praxen und erklärte sie zum Soll,
+die erst im Aufbau begriffene Versorgung Ostdeutschlands eingerechnet. Seither sind in Großstädten rund 35
+Therapeutinnen je 100.000 Einwohner vorgesehen, auf dem Land 17 bis 21
+([BPtK 2023](https://api.bptk.de/uploads/20230713_bptk_hintergrundpapier_weiterentwicklung_psychotherapeutischen_versorgung_d38b567ee6.pdf)).
+Für Kinder gibt es keine eigene Planung, nur eine Mindestquote von 20 Prozent
+([§ 101 SGB V](https://www.gesetze-im-internet.de/sgb_5/__101.html)), und die Annahme, die Stadt versorge das Land
+mit, scheitert an Kindern, die nicht jede Woche dreißig Kilometer fahren können. Eine eigene Kinder-Planung halten
+inzwischen Kammer und Kassen für sinnvoll; ob dafür auch mehr Sitze nötig sind, bestreitet der GKV-Spitzenverband,
+der „nicht einen allgemeinen Mangel“, sondern „unzureichende Steuerung“ sieht
+([Stellungnahme 18.05.2026](https://www.bundestag.de/resource/blob/1178710/21-14-0086-3-GKV-Spitzenverband-PsychoVersorgung.pdf)).
+Nach einem Überblick über 41 Arbeiten bräuchte jedes sechste bis siebte Kind Psychotherapie, höchstens jedes
+fünfzigste bekommt sie ([Rodney-Wolf & Schmitz 2025, doi:10.3389/fpubh.2025.1480630](https://doi.org/10.3389/fpubh.2025.1480630)).
+Wie sich das für zwei Jugendliche in Thüringen anfühlt, erzählt
+[[Zeitgeist/MDR exactly — Kinder im Burnout|die MDR-Doku „Kinder im Burnout“]].
+
 **Was die Forschung sagt.** Psychotherapie bei Jugendlichen wirkt, belegt in einer Meta-Analyse über 447
 Studien, am deutlichsten bei Ängsten, schwächer bei Depression (Weisz u. a. 2017, doi:10.1037/a0040360).
 Vorbeugende Programme an Schulen wirken dagegen nur klein, gezielte besser als solche für alle (Werner-Seidler
-u. a. 2021, doi:10.1016/j.cpr.2021.102079).
+u. a. 2021, doi:10.1016/j.cpr.2021.102079). Für die Wartezeit gibt es Brücken: Einzelsitzungen wirken bei Jugendlichen klein bis mittel, am besten bei Ängsten ([Schleider & Weisz 2017, doi:10.1016/j.jaac.2016.11.007](https://doi.org/10.1016/j.jaac.2016.11.007)).
 
 **Was die Politik getan hat.**
 
@@ -483,6 +499,7 @@ Ein Format, ein Termin, ein Gremium dafür ist bis heute nicht bekannt.
 | Datum | Note | vertieft |
 |---|---|---|
 | 02.11.2026 | [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird\|Spur: Gen Z regelt — und was danach geregelt wird]] | Anlass des Panoramas; die Spur zählt, ob über diese Forderungen gesprochen wird |
+| 02.11.2026 | [[Zeitgeist/MDR exactly — Kinder im Burnout#Nachbesprechung\|MDR exactly — Kinder im Burnout]] | Psychotherapie → warum es dauert: Stichtag 1999 und Ost-Erbe, 20-Prozent-Quote und Mitversorgung, Kassen gegen Kammer, Rodney-Wolf & Schmitz 2025 · Überbrückung: Schleider & Weisz 2017 |
 
 ---
 

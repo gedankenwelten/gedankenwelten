@@ -756,6 +756,10 @@ Die andere Seite derselben Beziehung: Wo das Pentagon Anthropic *finanziert* und
 *entzieht* eine andere Stelle des Staates demselben Unternehmen das Produkt. Staat und Frontier-Labor
 sind weder Gegner noch Partner — beides zugleich, je nach Behörde und Tag.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Den Destillationsverdacht, den Anthropic im Juni zurückwies, erhebt Anthropic im Februar und im September 2026 selbst gegen chinesische Labore. Der Film erklärt die Mechanik dahinter, von Hintons „dunklem Wissen“ bis zu den verborgenen Denkspuren.
+
 ## Quellen
 
 - [Anthropic — Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)

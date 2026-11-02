@@ -166,6 +166,9 @@ Die ökonomische Logik der Kürzungen ist damit nicht nur sozialpolitisch bedenk
 
 ## Verbindungen
 
+### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
+Eine MDR-Doku zeigt Kinder, die bis zu einem Jahr auf Therapie warten, und fragt nicht nach der Politik dahinter. Ein Teil davon steht hier.
+
 ### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe#Besetzt|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
 Die TelefonSeelsorge versteht sich als Brücke zu genau solcher Hilfe, und eine Schülerin fand über sie zu einer Therapeutin. Wo am anderen Ufer gekürzt wird, endet die Brücke im Leeren.
 

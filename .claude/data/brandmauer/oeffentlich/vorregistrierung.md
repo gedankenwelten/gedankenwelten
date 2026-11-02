@@ -159,3 +159,35 @@ zur Wahl: verteidigt (H) · kritisiert ohne Zusammenarbeit (K) · hält Zusammen
 Ordnung (L = L1+L2) · nichts davon (D). Die ersten 23 werden genauso zusammengefasst. Verglichen wird auf diesen vier
 Stufen, dazu Hinnahme ja/nein und Haltung ja/nein. Seine Einzelcodes hat Andreas vor dem Ende nicht mit meinen
 verglichen gesehen; mitgeteilt wurden ihm nur der Zwischenstand und die zwei Richtungen der Abweichung.
+
+## Nachtrag 5 — 02.11.2026, nach der Zweitkodierung (Bericht und eine zweite, offen ausgewiesene Lesart)
+
+- **Ergebnis der Zweitkodierung.** Andreas (Luc) hat 58 der 60 Absätze kodiert, zwei ließ er offen („nicht erkennbar“,
+  „schwierig“). Auf den vier Stufen stimmen wir in 50 % überein (κ 0,33), bei Hinnahme ja/nein in 78 % (κ 0,25).
+  Einig sind wir vor allem beim Halten der Abgrenzung (13 von 15). Wegen der Schichtung ist das keine Schätzung für das
+  ganze Korpus.
+- **Klärung der Abweichungen um L.** Am 02.11. sind wir die 13 Abweichungen, an denen L beteiligt war, gemeinsam
+  durchgegangen, ein Absatz nach dem anderen. Der Text blieb geschwärzt; Blatt und Monat standen in der Überschrift,
+  die Klärung war also nicht mehr verblindet. Ergebnis, je Absatz in `kodierung/klaerung_2026-11-02.tsv`:
+  drei Fehlklicks des Zweitkodierers (ohne sie 55 %, κ 0,40) · viermal trägt seine Lesart · zweimal meine · viermal
+  entscheidet eine Linie, die Andreas dabei gezogen hat (unten). Die Linie wurde danach auf die vier Absätze angewandt,
+  die wir beide als L kodiert hatten (drei werden K, einer bleibt Zusammenarbeit). Seine Originaldatei bleibt unverändert.
+- **Die Linie.** *Zusammenarbeit heißt Koalition, Tolerierung, Absprache, auch Zusammenarbeit vor Ort. Wer nur
+  hinnimmt, dass bei einer Abstimmung AfD-Stimmen zur Mehrheit beitragen, kritisiert die Brandmauer (K), arbeitet aber
+  nicht mit ihr zusammen.* Das entspricht fast der Teilung L1/L2 dieses Codebuchs. Abweichend zählen L1-Absätze, die
+  eine Tolerierung oder die Zusammenarbeit vor Ort bejahen, als Zusammenarbeit.
+- **Was gilt.** Die vorregistrierte Rechnung (erster Durchgang, Hinnahme = L1+L2) bleibt die Grundlage, wie in
+  Nachtrag 4 festgelegt; `auswertung.md` ist unverändert. Die Lesart wird daneben berichtet
+  (`auswertung_lesart_andreas.md`; `auswertung.py . klaerung_2026-11-02.tsv`). Keine Änderung an Kategorien,
+  Schwellen oder Falsifikation.
+- **Ergebnis der Lesart.** Alle 12 L-Absätze des ersten Durchgangs lagen in der Stichprobe, für sie ist die Lesart
+  vollständig. Zusammenarbeit befürworten danach im ganzen Korpus 5 Absätze (2016, 2023, 2024, 2025, 2026), drei
+  davon aus der Welt. H1: Basis 0 % (0/49), jetzt 1,7 % (2/115), Differenz +1,7 Punkte, wie vorregistriert *nicht
+  entscheidbar* (dort +3,5). Kritik 12 % → 26 %. H2 2025–2026: Kein Blatt mit mindestens fünf Haltungsabsätzen
+  befürwortet Zusammenarbeit.
+- **Untergrenze.** Die Zweifelsregel zählt nur, was ein Blatt ausspricht. Andreas liest auch nach dem Sinn: Zwei der
+  18 K-Absätze der Stichprobe hält er für Zusammenarbeit, die nicht ausgesprochen, aber gemeint ist (Österreich als
+  Vorbild; „vom Beweis politischer Fähigkeit entbinden“). Über die K-Absätze außerhalb der Stichprobe ist das nicht
+  geklärt. Alle Anteile der Hinnahme sind darum Untergrenzen. Ein Überschlag mit derselben Quote (2 von 18) hebt das
+  jetzige Fenster auf etwa 4 %, unter der Schwelle; das ist eine Rechnung, keine Messung.
+- **Linke-Achse.** Die Linie ist für die AfD-Achse gezogen. Ob sie gespiegelt für die Linke gilt, ist offen.

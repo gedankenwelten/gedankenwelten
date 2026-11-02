@@ -1,14 +1,20 @@
 """Rechnet die Kernzahlen der Spur aus codes.csv nach (nur Standardbibliothek).
 
-    python3 nachrechnen.py
+    python3 nachrechnen.py            # vorregistriert, erster Durchgang
+    python3 nachrechnen.py --lesart   # zweite Rechnung (Nachtrag 5): geklärte Codes aus zweitkodierung.csv
 
 AfD-Achse je Halbjahr: H, K, L1, L2, Anteil der Hinnahme (L1+L2) und der Kritik (K) an allen
 Absätzen mit Haltung (H+K+L1+L2). Dazu H1 wie vorregistriert: Basis 2019-H2 bis 2021-H1 gegen
 2025-H2 bis 2026-H2."""
-import collections, csv
+import collections, csv, sys
 from pathlib import Path
 
 rows = list(csv.DictReader(open(Path(__file__).with_name("codes.csv"), encoding="utf-8")))
+if "--lesart" in sys.argv:  # Abstimmungsmehrheiten hinnehmen = K, Zusammenarbeit = L (zählt unter L2)
+    neu = {r["id"]: r["geklaert"] for r in csv.DictReader(open(Path(__file__).with_name("zweitkodierung.csv"), encoding="utf-8")) if r["geklaert"]}
+    for r in rows:
+        if r["id"] in neu:
+            r["afd"] = {"L": "L2"}.get(neu[r["id"]], neu[r["id"]])
 halb = lambda d: f"{d[:4]}-H{1 if int(d[5:7]) <= 6 else 2}"
 tab = collections.defaultdict(collections.Counter)
 for r in rows:

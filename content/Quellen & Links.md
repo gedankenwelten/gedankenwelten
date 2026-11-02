@@ -7,6 +7,25 @@ tags:
 ---
 
 
+## Emergence — Das dunkle Wissen der KI (06.10.2026)
+
+| | |
+|---|---|
+| **Video** | [The Dark Knowledge of AI](https://www.youtube.com/watch?v=A9psCzGqvfs) — Emergence, 19 Min., Englisch; Quellenliste in der Beschreibung |
+| **Notiz** | [[Geistesblitz/Emergence — Das dunkle Wissen der KI]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Emergence_Dark_Knowledge_Transkript.txt` (redaktionelle Untertitel) |
+| **Kernquellen** | [Hinton, Vinyals, Dean 2015](https://arxiv.org/abs/1503.02531) · [DeepSeek-R1](https://arxiv.org/abs/2501.12948) · [Gudibande et al. 2023](https://arxiv.org/abs/2305.15717) |
+
+## MDR exactly — Kinder im Burnout (03.11.2025)
+
+| | |
+|---|---|
+| **Video** | [Kinder im Burnout – zwischen Angst und Überforderung](https://www.youtube.com/watch?v=B-xbopTpYpc) — MDR Investigativ / exactly, MDR Fernsehen 30.10.2025, 29:33 Min., Bericht: Juliane Maier-Lorenz |
+| **Notiz** | [[Zeitgeist/MDR exactly — Kinder im Burnout]] |
+| **Transkript** | `Gedankenwelten/Transkripte/MDR_Kinder_Burnout_Transkript.txt` (redaktionelle Untertitel) |
+| **Begleitend** | [Podcast „Hinter der Recherche“, 12.01.2026](https://www.ardaudiothek.de/episode/urn:ard:episode:fb0456e01dc5a1af/) · [Manuskript (PDF)](https://www.mdr.de/investigativ/burnout-kinder-100.pdf) |
+| **Viten** | [[DenkerVita/Veit Roessner]] · [[DenkerVita/Nina Kolleck]] |
+
 ## Gen-Z-Proteste und Krawallnacht (31.10.2026)
 
 | | |

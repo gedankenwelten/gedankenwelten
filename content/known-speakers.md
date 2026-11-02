@@ -1294,3 +1294,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ève Morisi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Eve Morisi]]
+
+## Veit Roessner
+**Status:** ✓ Vollanalyse → [[DenkerVita/Veit Roessner]]
+
+## Nina Kolleck
+**Status:** ✓ Vollanalyse → [[DenkerVita/Nina Kolleck]]

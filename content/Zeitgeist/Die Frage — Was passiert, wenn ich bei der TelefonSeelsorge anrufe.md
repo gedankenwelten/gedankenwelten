@@ -228,6 +228,9 @@ Eine von ihnen, Gift Chuma, erzählt in einem kurzen Film des Vereins, wie sie d
 
 ## Verbindungen
 
+### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
+Nelly aus Ilmenau baut nach drei Monaten Klinik an ihrer Schule ein Projekt, damit andere Kinder sagen können: „Können wir kurz reden?“ Daneben stehen die Wartezeiten von bis zu einem Jahr, zu denen diese Brücke führt.
+
 ### → [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit|Simone Weil — Aufmerksamkeit, die seltenste Großzügigkeit]]
 Weil nennt Aufmerksamkeit eine Gabe, die sich nicht einklagen lässt, und fragt, ob man eine Gabe zur Pflicht machen kann, ohne dass sie aufhört, eine zu sein. Die TelefonSeelsorge antwortet praktisch: Sie fasst die Gabe in einen Dienstplan, drei Jahre Zusage und ein Zuhören, in dem möglichst wenig Urteil mitklingt. In einem Punkt steht Simonsen gegen Weil, die großzügig zu allen war außer zu sich selbst: Der Rettungsschwimmer sichert sich erst ab, dann schwimmt er los.
 

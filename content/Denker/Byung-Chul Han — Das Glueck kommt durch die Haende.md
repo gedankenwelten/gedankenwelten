@@ -196,6 +196,9 @@ Die letzte Publikumsfrage — ein KI-Student — bekommt Hans vielleicht schöns
 
 ## Verbindungen
 
+### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
+Ein Psychiater fordert mehr Widerstand für Kinder, und eine Schülerin hat sich an ihrem Zettel-Schreibtisch selbst keinen Rückschlag erlaubt. Ob Widerstand das Gegenüber meint oder die Peitsche, ist Hans Frage.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Der engste Zwilling — dieselbe Diagnose aus zwei Vokabularen. Was Han die *Negativität des Anderen* nennt (der Boden, der widersteht, die schwere Tür, das Gegenüber, das sich entzieht), ist bei Rosa die **Unverfügbarkeit**: Resonanz entsteht nur, wo ich die Dinge *nicht* vollständig verfüge. Beide sagen, die glatte, verfügbar gemachte Welt macht stumm. Der Unterschied liegt im Ton: Rosa sucht die gelingende Weltbeziehung noch innerhalb der Moderne, Han schlägt die Tür zu — sein „Konsumvieh" kennt keine Resonanz mehr, nur den streichelnden Daumen. Und Hans *Zeitpolitik* gegen das Instantane ist die politische Kehrseite von Rosas Beschleunigungskritik: Demokratie braucht die Langsamkeit, die die Echtzeitkommunikation zerfrisst.

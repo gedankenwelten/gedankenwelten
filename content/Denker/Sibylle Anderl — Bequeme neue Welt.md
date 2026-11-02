@@ -291,6 +291,10 @@ Anderl setzt die Urteilskraft gegen das „Weltbild des Metrisierbaren“. Hampe
 
 Falcke lernte den Widerstand der Welt am Commodore VC20, der „genau das gemacht hat, was du geschrieben hast, nicht das, was du gemeint hast“, und kennt dieselbe Demut vor dem Sternenhimmel. Wo Anderl beim Staunen stehen bleibt, geht er weiter zum Schöpfer.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Der Film setzt die Frage der billigen Kunst eine Ebene tiefer an, bei den Autoren als „Lehrer, den niemand fragte“. Die offene `robots.txt` der Gedankenwelten, um die es am Ende der Note geht, steht neben der Regel, dass hier keine lebenden Künstler mehr ihre Hand leihen.
+
 ---
 
 ## Weiterdenken

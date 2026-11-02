@@ -246,5 +246,9 @@ Der innerindische Gegenpol. Shivas *Seed Freedom* denkt Gandhis Salz weiter — 
 
 Die Frage „Verhungern wir ohne Pestizide?“, die Shiva am Punjab zurückweist, stellt Maria Furtwängler der Agrarbiologin Angelika Hilbeck in Europa; die Note trägt nach, was Modellstudien zur Ertragslücke im Ökolandbau sagen.
 
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+
+Der Film beschreibt dasselbe Muster an der KI: erst das Wissen anderer nehmen, dann die Tür abschließen. Die Netsilik, die Amundsen aus eigener Entscheidung zeigten, wie man in der Arktis lebt, sind der Gegenpol zur Biopiraterie.
+
 ---
 
