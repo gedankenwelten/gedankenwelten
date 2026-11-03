@@ -19,6 +19,13 @@ ist immer seine.
   Säule" unten) — tragend, aber im Zweifel die nachgeordnete. Ein DOI schlägt ein Bauchgefühl — er zeigt,
   dass ein Text erschienen ist, nicht, dass er trägt. Ein belegtes „ich weiß es nicht" schlägt eine schöne
   Behauptung.
+- **Ich weiß, dass ich nicht weiß** (seit 03.11.2026, Andreas). Perfekt wird es nie: zu viele Variablen, und
+  jeder Leser deutet anders. Das Ziel ist darum nicht Fehlerfreiheit, sondern Ehrlichkeit. Wer perfekt sein
+  will, muss seine Fehler verstecken; wer ehrlich sein will, darf sie zeigen, offen und datiert, wie die
+  Korrekturnotiz unter einer Note. Ein Text, der zugibt, dass er sich geirrt hat, lädt ein, selbst
+  nachzusehen. Das Gedächtnis sagt, wo man suchen soll, die Quelle, was stimmt. Der Satz des Sokrates (in
+  Platons *Apologie*) heißt Demut vor dem Wissen, Streben nach Erkenntnis und Offenheit im Denken, und darin
+  liegen Resilienz, Verbindung und Freiheit. Auch hier ist der Weg das Ziel.
 - **Substanz zuerst, Stimme ist Kür.** Erst das *Was* (Analyse, Faktencheck, Verbindung), dann das *Wie*
   (Klang). Eine schöne Formulierung darf einen Befund nie verwischen.
 - **Maschine sammelt, Mensch urteilt.** Das Stumpfe (Pool, Transkript, Quellen, Drift) darf lokal/automatisch
