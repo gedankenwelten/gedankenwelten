@@ -415,7 +415,7 @@ Yus Keynote liefert drei Ergänzungen: (1) den Hobbes-Rahmen — liberale System
 
 ### → [[Maja Goepel — Mut zur Zukunft]]
 
-„Menschenzentrierte Fortschrittsagenda" und Gemeinwohlprodukt als metrische Übersetzung: Systeme müssen dem Leben dienen.
+„Menschenzentrierte Fortschrittsagenda“ und die vier blinden Flecken des BIP: Systeme müssen dem Leben dienen.
 
 ### → [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
 

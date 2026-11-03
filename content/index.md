@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **03.11.** — [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
+>
+> Kipppunkte entscheiden sich, solange offen ist, wohin es kippt. Maja Göpel liest den Kampf gegen „woke“ als Wunsch, wieder blind zu schalten, und nennt es mutig, ehrlich hinzusehen.
+
+> **03.11.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
+>
+> Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
+
+> **02.11.** — [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]]
+>
+> Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
+
+> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+>
+> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
+
+> **01.11.** — [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
+>
+> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch.
+
+> → *17 weitere in* [[Zeitgeist]]
+
 ### Denker
 
 > **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
@@ -107,30 +131,6 @@ Die Gedankenwelten (luc)
 > Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
 > → *18 weitere in* [[Panorama]]
-
-### Zeitgeist
-
-> **02.11.** — [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]]
->
-> Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
-
-> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
->
-> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
-
-> **01.11.** — [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
->
-> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch.
-
-> **01.11.** — [[Zeitgeist/WDR — Schmutzige Schokolade|WDR — Schmutzige Schokolade: Sie zahlen für unseren Genuss]]
->
-> Zwei Jungen mit eitrigen Machetenwunden, ein Bauer, der Kinder kauft, ein Fluss voller Glyphosat — und eine Insel, auf der Kakao ohne Kinder wächst. Eine Reise vom Osterhasen zurück zur Bohne.
-
-> **31.10.** — [[Zeitgeist/Tom Krebs — Kapital und Krise|Tom Krebs — Kapital und Krise]]
->
-> Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
-
-> → *15 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

@@ -269,7 +269,7 @@ BPs Krisengewinne → Energiepreise → Unzufriedenheit → rechtspopulistische 
 
 ### → [[Maja Goepel — Mut zur Zukunft]]
 
-Göpels Agency-Agenda und Gemeinwohlprodukt als progressive Gegenerzählung zu Frickes Ohnmachtsdiagnose.
+Göpels Agency als Gegenangebot zur Ohnmacht, eine Erzählung neben Frickes Ohnmachtsdiagnose.
 
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 

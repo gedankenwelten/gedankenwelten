@@ -95,7 +95,7 @@ Merz „gefällt sich in der Pose des Klartextsprechers“ und hört sich gern r
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Andrey Gurkov|Andrey Gurkov]] — Beide saßen im Presseclub vom 06.09.2026 und teilen den Befund eines aggressiven Russlands. Gurkov liefert die gesellschaftliche Tiefe, auf der Kormbakis Aufrüstungsposition ruht.
+- [[DenkerVita/Andrey Gurkov|Andrey Gurkov]] — Beide saßen im Presseclub vom 06.09.2026 und sehen ein aggressives Russland. Bei Nord Stream gingen sie auseinander: Kormbaki verlangte von der Regierung Erklärungen, Gurkov fragte, wem die Sprengung genützt habe.
 - [[DenkerVita/Martin Sonneborn|Martin Sonneborn]] — Gegenpol in der Sicherheitspolitik: Sonneborn sieht Krieg als Geschäftsmodell und die Leitmedien als Zustimmungsmaschinen, Kormbaki verteidigt die Aufrüstung aus dem Hauptstadtbüro.
 - [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]] — Zwei Blicke auf Merz aus der Nähe: Herrmann sieht einen Kanzler, der keine Mehrheiten organisiert, Kormbaki einen, der sich in der Pose des Klartextsprechers gefällt. Ökonomisch stehen sie gegeneinander: Wachstum als Bedingung der Demokratiefestigkeit hier, grünes Schrumpfen dort.
 - [[DenkerVita/Herfried Münkler|Herfried Münkler]] — Münklers postheroische Gesellschaft erklärt, warum Pistorius' „Kriegstüchtigkeit“ in Schwerin als Wahlmotiv auftaucht. Kormbaki teilt seine sicherheitspolitische Konsequenz und nimmt zugleich die Wähler ernst, die sie ablehnen.

@@ -226,7 +226,7 @@ Matteis historische These — Austerität als Instrument zur Disziplinierung der
 
 ### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft]]
 
-Göpels Kritik am BIP als blinder Fortschrittsindikator und ihre Rezeption der Donut-Ökonomie trifft die NANO-These direkt: Die Forderung nach Arbeitszeitverkürzung als ökologischer Notwendigkeit ist die konkrete Policy-Implikation von Göpels These, dass Wachstum als Ziel aufgegeben werden muss. Beide arbeiten mit Kate Raworths Rahmen — Göpel theoretisch, NANO als politische Forderung.
+Göpel zählt vier Dinge auf, für die das BIP blind ist, darunter unbezahlte Arbeit und Wohlbefinden. Der NANO Talk zieht daraus eine konkrete Forderung, die Göpel in ihrem Vortrag nicht stellt: kürzere Arbeitszeit, im Rahmen von Kate Raworths Donut-Ökonomie.
 
 ### → [[DenkerVita/Teresa Bücker]]
 

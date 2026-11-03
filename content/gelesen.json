@@ -399,11 +399,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 3,
      "aufrufe": 3
@@ -444,11 +439,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Denker/Heiner-Flassbeck-Krise-und-Rechtsruck",
      "leser": 2,
      "aufrufe": 2
@@ -470,6 +460,11 @@
     },
     {
      "pfad": "/DenkerVita/Martin-Buber",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 2,
      "aufrufe": 2
     },
@@ -505,6 +500,11 @@
     },
     {
      "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 2,
      "aufrufe": 2
     },
@@ -550,6 +550,11 @@
     },
     {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 1,
      "aufrufe": 1
     },
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/Denker/Walther-Ziegler-Wittgenstein-in-60-Minuten",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/scobel-Foucault-Aufklaerung-als-Haltung",
      "leser": 1,
      "aufrufe": 1
     }
@@ -1704,6 +1704,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Maurice-Hoefgen",
      "leser": 3,
      "aufrufe": 3
@@ -1774,7 +1779,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 2,
      "aufrufe": 2
     },
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
     }

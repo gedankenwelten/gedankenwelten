@@ -257,7 +257,7 @@ Beide re:publica-26-Vorträge beschreiben dasselbe Medienproblem aus verschieden
 
 ### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Göpel — Mut zur Zukunft]]
 
-Göpels Agency-Konzept gegen Ohnmacht und Urners Hoffnung als neurobiologisch trainierbare Kapazität beschreiben denselben Befund von zwei Seiten — Göpel aus der politischen Ökonomie, Urner aus der Kognitionswissenschaft. Beide benennen Positive Money als konkretes Gegenmodell und teilen die Diagnose, dass Kommunikationskontrolle der eigentliche Schlüsselhebel ist.
+Göpels Agency-Konzept gegen Ohnmacht und Urners Hoffnung als neurobiologisch trainierbare Kapazität beschreiben denselben Befund von zwei Seiten — Göpel aus der politischen Ökonomie, Urner aus der Kognitionswissenschaft. Beide fragen, wer bestimmt, welche Geschichte erzählt wird: Göpel fragt, wer den „Wirklichkeitsraum“ kuratiert.
 
 ### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System]]
 

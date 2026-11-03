@@ -190,7 +190,7 @@ Beide antworten auf die Zersplitterung des Wissens und den Zerfall der großen E
 
 ### → [[Maja Goepel — Mut zur Zukunft]]
 
-Morins Satz, wer in der Welt des BIP lebe, lebe in einer „völlig abstrakten Welt", die kein Leid und keine Freude kennt, ist fast wörtlich Göpels These von den tyrannischen Zahlen: Was zählt, lässt sich nicht zählen. Beide führen die Reduktion der Politik auf Ökonomie auf denselben Denkfehler zurück — das Berechenbare für das Ganze zu halten.
+Morins Satz, wer in der Welt des BIP lebe, lebe in einer „völlig abstrakten Welt", die kein Leid und keine Freude kennt, liegt nah bei dem Satz, den Göpel sich bei Wendell Berry borgt: Zahlen, die jeden Rückbezug auf das verlieren, was sie beschreiben, kosten die Wertschätzung. Beide führen die Reduktion der Politik auf Ökonomie auf denselben Denkfehler zurück — das Berechenbare für das Ganze zu halten.
 
 ### → [[DenkerVita/Zhao Tingyang]]
 
