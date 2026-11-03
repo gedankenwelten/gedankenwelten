@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **03.11.** — [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+>
+> Jede KI hat von Menschen gelernt, die niemand gefragt hat. Jetzt fürchten die Firmen, selbst abgeschrieben zu werden — und ein Saphir, ein Seidenfaden und ein Kuchen aus Farnsporen zeigen, was sich überhaupt kopieren lässt.
+
+> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
+>
+> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
+
+> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+>
+> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
+
+> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
+>
+> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
+
+> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
+>
+> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
+
+> → *4 weitere in* [[Geistesblitz]]
+
 ### Panorama
 
 > **03.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
@@ -69,30 +93,6 @@ Die Gedankenwelten (luc)
 > Zwölftausend Euro im Jahr fehlen jeder Familie, rechnet Tom Krebs vor, und die AfD stünde bei zehn Prozent. Eine Buchvorstellung über Preisbremsen, Panzer, Stahl und die Frage, wie viel Planung eine Marktwirtschaft verträgt.
 
 > → *15 weitere in* [[Zeitgeist]]
-
-### Geistesblitz
-
-> **02.11.** — [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
->
-> Jede KI hat von Menschen gelernt, die niemand gefragt hat. Jetzt fürchten die Firmen, selbst abgeschrieben zu werden — und ein Saphir, ein Seidenfaden und ein Kuchen aus Farnsporen zeigen, was sich überhaupt kopieren lässt.
-
-> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
->
-> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
-
-> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
->
-> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
-
-> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
->
-> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
-
-> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
->
-> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
-
-> → *4 weitere in* [[Geistesblitz]]
 
 ### Spuren
 
