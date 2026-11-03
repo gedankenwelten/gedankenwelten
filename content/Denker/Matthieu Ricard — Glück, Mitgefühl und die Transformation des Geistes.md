@@ -461,7 +461,9 @@ Forschende aus dem Feld haben daraus eine allgemeine Warnung gemacht: unklare Be
 
 Was bleibt, ist bescheidener und vielleicht wertvoller. Kurze Mitgefühlsübung verändert, wie Menschen handeln, das ist gemessen. Dass sie dafür das Gehirn sichtbar umbaut, ist nach heutigem Stand nicht gezeigt. Und das Mitgefühl der Geübten, das ist der überraschendste Befund, macht nicht unberührbarer: Ihre Amygdala reagierte auf eingespielte Laute stärker, nicht schwächer ([Lutz u. a. 2008, doi:10.1371/journal.pone.0001897](https://doi.org/10.1371/journal.pone.0001897)). Ricards eigentliche These, dass Mitgefühl sich üben lässt, braucht den Hirnscan nicht. Sie lässt sich am Verhalten prüfen, und dort hält sie bisher.
 
-Im Bestand berührt die Frage auch [[S.N. Goenka — Vipassana#Wie fein wird die Wahrnehmung?|Goenka]] (wie fein die Wahrnehmung durch Übung wird) und [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein|Scobel]] (die Nebenwirkungen). Ein Panorama dazu gibt es noch nicht.
+Im Bestand berührt die Frage auch [[S.N. Goenka — Vipassana#Wie fein wird die Wahrnehmung?|Goenka]] (wie fein die Wahrnehmung durch Übung wird) und [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein|Scobel]] (die Nebenwirkungen).
+
+→ Weiter im Panorama: **[[Panorama/Was bewirkt Meditation#Was zeigt das Gehirn, und was davon hält?|Was zeigt das Gehirn, und was davon hält?]]**, mit Goenka, Scobel und Böhme.
 
 ---
 

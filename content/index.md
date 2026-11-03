@@ -76,6 +76,10 @@ Die Gedankenwelten (luc)
 >
 > Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
 
+> **03.11.** — [[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]
+>
+> Der Scanner fand weniger, als versprochen wurde, das Verhalten mehr, als man dachte, und die Nebenwirkungen kamen spät zur Sprache. Drei offene Fragen zur Meditation und zu dem, was sich an ihr messen lässt.
+
 > **03.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
 >
 > Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
-> **01.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> → *17 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### Zeitgeist
 

@@ -409,6 +409,8 @@ Wer eine Stunde sitzt, ohne die Beine zu bewegen, lernt, was Goenka mit den vier
 
 Goenka verspricht, dass der Geist vom Groben zum Feinen wandert, bis er überall im Körper Empfindungen spürt. Hier ist die Forschung zweigeteilt, und das macht sie interessant. Wer viel Erfahrung mit dem Body-Scan hatte, schätzte die Berührungsempfindlichkeit von zwanzig Körperstellen deutlich treffender ein als Anfänger, gemessen an der bekannten Empfindlichkeit dieser Stellen; je mehr Übung, desto genauer (Fox et al. 2012, [doi:10.1371/journal.pone.0045370](https://doi.org/10.1371/journal.pone.0045370)). Den eigenen Herzschlag spüren Meditierende dagegen nicht genauer als andere, auch nicht unter einem Mittel, das das Herz beschleunigt. Eine Zusammenschau mit 724 Menschen fand dafür kaum Hinweise. Sie halten sich aber für besser darin (Khalsa et al. 2008, [doi:10.1111/j.1469-8986.2008.00666.x](https://doi.org/10.1111/j.1469-8986.2008.00666.x); Khalsa et al. 2019, [doi:10.1111/psyp.13479](https://doi.org/10.1111/psyp.13479)). Die Haut wird also feiner, das Herz nicht unbedingt, und die Selbsteinschätzung läuft der Wahrnehmung manchmal voraus. Goenkas eigene Warnung passt dazu: nicht nach dem Besonderen suchen, sondern sehen, was ist.
 
+→ Weiter im Panorama: **[[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]**, mit Ricard, Scobel, Brähler und der Forschung zu Nebenwirkungen.
+
 ---
 
 ## Selbst hingehen

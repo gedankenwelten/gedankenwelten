@@ -533,6 +533,18 @@ Alle Notes basieren auf fremden Inhalten — das Zitatrecht (§ 51 UrhG) erlaubt
 
 Den `> [!info] Wer spricht?`-Callout immer auf Basis von Humboldts Briefing (Schritt 0) formulieren — nicht aus dem Gedächtnis erfinden.
 
+> [!important] Biografie nur aus Belegen (seit 03.11.2026, Andreas' Ja)
+> Lebensdaten, Namen (auch Vornamen), Ämter, Werktitel, Orte und Jahreszahlen einer Person kommen aus dem
+> Humboldt-Briefing, der geprüften DenkerVita oder einer gelesenen Quelle, nie aus dem Gedächtnis. Ein
+> eigener Biografie-Abschnitt in der Note entsteht nur aus der geprüften Vita und verlinkt auf sie. Gibt
+> es noch keine Vita, bleibt es beim `Wer spricht?`-Callout mit zwei, drei belegten Sätzen. Was sich nicht
+> belegen lässt, fällt weg.
+>
+> Anlass: `aus-gedaechtnis` ist die häufigste Fehlerursache im Register (137 Befunde, Stand 03.11.2026).
+> Bei Ricard waren es die Doktorarbeit, die Jahre beim Lehrer, der Ort der Begegnung und ein erfundener
+> Buchtitel, und beim Anlegen des Meditations-Panoramas am selben Tag wären beinahe zwei Vornamen aus dem
+> Gedächtnis hineingeraten.
+
 ### Dateiname-Konvention (URL-kompatibel)
 
 **Format:** `Autor — Kurztitel.md`

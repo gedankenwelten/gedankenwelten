@@ -224,7 +224,7 @@ grep -n -o -E ".{0,40}(genaueste|einzige|als Einzige|vollständig|lückenlos|aus
 - Fokus auf **Konzepte + Herleitung + Eigene Einschätzung**
 - Zitate dürfen länger sein (1–3 Sätze)
 - Explizite `> [!note]`-Callouts (min. 2–3)
-- Lebendige Biografie im Callout
+- Lebendige Biografie im Callout, nur aus Humboldts Briefing oder der geprüften Vita, nie aus dem Gedächtnis (→ `gedankenwelt`, „Biografie nur aus Belegen“)
 - Faktencheck nur bei empirischen Claims
 
 ### Publikumsfragen (Jung & Naiv, Vorträge und Panels mit Q&A) — Pflicht, wenn die Quelle eine hat
