@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 899,
-   "aufrufe": 1071
+   "aufrufe": 1070
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -30,8 +30,8 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 50,
-   "aufrufe": 54
+   "leser": 49,
+   "aufrufe": 53
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -44,14 +44,14 @@
    "aufrufe": 29
   },
   {
-   "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 23,
-   "aufrufe": 25
-  },
-  {
    "pfad": "/DenkerVita/Benjamin-Biersky",
    "leser": 22,
    "aufrufe": 31
+  },
+  {
+   "pfad": "/DenkerVita/Hans-Maggi",
+   "leser": 22,
+   "aufrufe": 24
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -179,7 +179,7 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Christine-Dankbar",
+   "pfad": "/DenkerVita/Bernhard-Poerksen",
    "leser": 5,
    "aufrufe": 6
   },
@@ -229,11 +229,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
    "leser": 5,
    "aufrufe": 5
@@ -264,7 +259,7 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Bernhard-Poerksen",
+   "pfad": "/DenkerVita/Christine-Dankbar",
    "leser": 4,
    "aufrufe": 5
   },
@@ -302,6 +297,11 @@
    "pfad": "/DenkerVita/Shi-Heng-Yi",
    "leser": 4,
    "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Ulf-Poschardt",
+   "leser": 4,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -310,13 +310,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 39,
-     "aufrufe": 46
+     "leser": 38,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 20,
-     "aufrufe": 23
+     "leser": 19,
+     "aufrufe": 21
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -325,8 +325,8 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 10,
-     "aufrufe": 11
+     "leser": 9,
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -379,11 +379,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 3,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 3,
      "aufrufe": 4
@@ -424,9 +419,19 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Der-Dara",
+     "leser": 2,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Geistesblitz/Wolfram-Schultz-Dopamin-mehr-als-ein-Glueckshormon",
      "leser": 2,
      "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Eva-von-Redecker-Dieser-Drang-nach-Härte",
+     "leser": 2,
+     "aufrufe": 2
     },
     {
      "pfad": "/Denker/Götz-Aly-Wie-konnte-das-geschehen",
@@ -470,11 +475,6 @@
     },
     {
      "pfad": "/DenkerVita/Ulf-Poschardt",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Yonatan-Zeigen",
      "leser": 2,
      "aufrufe": 2
     },
@@ -554,11 +554,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Eva-von-Redecker-Dieser-Drang-nach-Härte",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Martin-Buber-und-Emmanuel-Levinas-Ich,-Du-und-der-Andere",
      "leser": 1,
      "aufrufe": 1
@@ -594,17 +589,22 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Ulrike-Herrmann-Technisch-moeglich-oekonomisch-unbezahlbar",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Walther-Ziegler-Freud-in-60-Minuten",
      "leser": 1,
      "aufrufe": 1
     },
     {
      "pfad": "/Denker/Walther-Ziegler-Marx-in-60-Minuten",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Wittgenstein-in-60-Minuten",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/scobel-Foucault-Aufklaerung-als-Haltung",
      "leser": 1,
      "aufrufe": 1
     }
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 899,
-     "aufrufe": 1071
+     "aufrufe": 1070
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -640,8 +640,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 50,
-     "aufrufe": 54
+     "leser": 49,
+     "aufrufe": 53
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -654,14 +654,14 @@
      "aufrufe": 29
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 23,
-     "aufrufe": 25
-    },
-    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 22,
      "aufrufe": 31
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "leser": 22,
+     "aufrufe": 24
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -789,7 +789,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "leser": 5,
      "aufrufe": 6
     },
@@ -839,11 +839,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
      "leser": 5,
      "aufrufe": 5
@@ -874,7 +869,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "pfad": "/DenkerVita/Christine-Dankbar",
      "leser": 4,
      "aufrufe": 5
     },
@@ -912,6 +907,11 @@
      "pfad": "/DenkerVita/Shi-Heng-Yi",
      "leser": 4,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Ulf-Poschardt",
+     "leser": 4,
+     "aufrufe": 4
     }
    ]
   },
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 969,
-     "aufrufe": 1165
+     "aufrufe": 1164
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1189,6 +1189,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "leser": 6,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/DenkerVita/Fabian-Pfeffer",
      "leser": 6,
      "aufrufe": 7
@@ -1210,11 +1215,6 @@
     },
     {
      "pfad": "/DenkerVita/Martyna-Linartas",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Ulf-Poschardt",
      "leser": 6,
      "aufrufe": 6
     }
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 969,
-     "aufrufe": 1165
+     "aufrufe": 1164
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1494,6 +1494,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "leser": 6,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/DenkerVita/Fabian-Pfeffer",
      "leser": 6,
      "aufrufe": 7
@@ -1515,11 +1520,6 @@
     },
     {
      "pfad": "/DenkerVita/Martyna-Linartas",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Ulf-Poschardt",
      "leser": 6,
      "aufrufe": 6
     }
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 39,
-     "aufrufe": 39
+     "leser": 38,
+     "aufrufe": 38
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1659,11 +1659,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "leser": 4,
      "aufrufe": 4
@@ -1674,17 +1669,22 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Shi-Heng-Yi",
      "leser": 4,
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "leser": 4,
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1705,11 +1705,6 @@
     },
     {
      "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "leser": 3,
      "aufrufe": 3
     },
@@ -1740,6 +1735,11 @@
     },
     {
      "pfad": "/DenkerVita/Leonie-Heims",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Christine-Dankbar",
      "leser": 3,
      "aufrufe": 3
     },

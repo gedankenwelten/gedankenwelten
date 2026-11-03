@@ -3117,7 +3117,7 @@ tags:
 
 | | |
 |---|---|
-| **Vortrag / Video** | [Sternstunde Philosophie — Matthieu Ricard: Vom Wissenschaftler zum buddhistischen Mönch](https://youtu.be/CGlHR9hcb5A) |
+| **Vortrag / Video** | [Sternstunde Philosophie — Matthieu Ricard: Vom Wissenschaftler zum buddhistischen Mönch](https://youtu.be/CGlHR9hcb5A) (SRF, 05.07.2015) |
 | **Notiz** | [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Ricard_Weisheiten_Transkript.txt` |
 
@@ -3284,7 +3284,7 @@ tags:
 
 | | |
 |---|---|
-| **Vortrag / Video** | [Matthieu Ricard: Vom Wissenschaftler zum buddhistischen Mönch](https://youtu.be/CGlHR9hcb5A) |
+| **Vortrag / Video** | [Matthieu Ricard: Vom Wissenschaftler zum buddhistischen Mönch](https://youtu.be/CGlHR9hcb5A) (SRF, 05.07.2015) |
 | **Notiz** | [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Ricard_Weisheiten_Transkript.txt` |
 

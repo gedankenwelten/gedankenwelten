@@ -177,7 +177,7 @@ Diese Note wägt Vipassana selbst ab — und findet, die Opposition täusche: Au
 
 ### → [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
-Ricards buddhistisches „Prüft alles an eurer eigenen Erfahrung — glaubt mir nichts, nur weil ich es sage" ist das geprüfte Leben ohne Autoritätsargument — sokratische Demut in anderer Sprache. Zugleich ein produktiver Widerspruch: Callard sagt, nur ein anderer Mensch könne die eigene Weltsicht in Frage stellen; Ricards jahrelange Meister-Schüler-Beziehung ist ein solches Gegenüber — oder, wie er selbst fragt, die subtilste Form der Autorität?
+Ricard wählte seine Lehrer, weil sie lebten, was sie lehrten: ein geprüftes Leben, geprüft am Leben eines anderen. Darin liegt ein produktiver Widerspruch zu Callard: Sie sagt, nur ein anderer Mensch könne die eigene Weltsicht in Frage stellen; Ricards jahrelange Meister-Schüler-Beziehung ist ein solches Gegenüber — oder die subtilste Form der Autorität?
 
 ### → [[Poerksen und Goepel — Debatte neu denken]]
 

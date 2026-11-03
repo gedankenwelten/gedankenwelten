@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+>
+> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
+
+> **01.11.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+
+> **01.11.** — [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
+>
+> Klassiker werden gemacht, nicht geboren. Alice Kaplan erzählt, wie Camus' Fremder 1946 nach Amerika kam: zwei Titel, ein gekränkter Verlag, eine Anzeige und ein FBI-Agent mit Verstand.
+
+> **01.11.** — [[Denker/Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben (Camus, Die Pest)]]
+>
+> Wie erzählt man ein Sterben, das jedes Maß übersteigt? Franziska Meier liest Camus' Pest als Roman über den Preis der Abstraktion und über ein Leid, das sich nicht vermitteln lässt.
+
+> **01.11.** — [[Denker/Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
+>
+> Eine Übelkeit, die der Vater vom Schafott mitbrachte, wurde zum moralischen Kompass des Sohnes. Ève Morisi verfolgt Camus' Kampf gegen die Guillotine, vom Roman bis zum Gnadengesuch.
+
+> → *5 weitere in* [[Denker]]
+
 ### Geistesblitz
 
 > **03.11.** — [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
@@ -117,30 +141,6 @@ Die Gedankenwelten (luc)
 > Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
 
 > → *6 weitere in* [[Spuren]]
-
-### Denker
-
-> **01.11.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
->
-> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
-
-> **01.11.** — [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
->
-> Klassiker werden gemacht, nicht geboren. Alice Kaplan erzählt, wie Camus' Fremder 1946 nach Amerika kam: zwei Titel, ein gekränkter Verlag, eine Anzeige und ein FBI-Agent mit Verstand.
-
-> **01.11.** — [[Denker/Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben (Camus, Die Pest)]]
->
-> Wie erzählt man ein Sterben, das jedes Maß übersteigt? Franziska Meier liest Camus' Pest als Roman über den Preis der Abstraktion und über ein Leid, das sich nicht vermitteln lässt.
-
-> **01.11.** — [[Denker/Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
->
-> Eine Übelkeit, die der Vater vom Schafott mitbrachte, wurde zum moralischen Kompass des Sohnes. Ève Morisi verfolgt Camus' Kampf gegen die Guillotine, vom Roman bis zum Gnadengesuch.
-
-> **01.11.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
->
-> Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
-
-> → *4 weitere in* [[Denker]]
 
 ### Kultur
 

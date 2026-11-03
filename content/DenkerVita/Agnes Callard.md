@@ -64,7 +64,7 @@ Callard ist keine politische Denkerin im Parteisinn — sie versteht sich als *p
 - **[[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin]]** — Beide halten Widersprüche zusammen, statt sie aufzulösen: Morins *dialogique* in einem Denker, Callards James/Clifford-Arbeitsteilung verteilt auf zwei Personen.
 - **[[Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie|Wolfram Eilenberger]]** — Philosophie als öffentliche, gelebte Praxis gegen den Schulbetrieb; beide markieren die Grenze, an der das Medium des Arguments endet.
 - **[[Denker/S.N. Goenka — Vipassana|S.N. Goenka]]** — das geprüfte Leben im anderen Medium: wortlose Beobachtung statt Begriff und Dialog. Callard billigt dem Kontemplativen ausdrücklich zu, dass er wissen könnte, wie er leben soll.
-- **[[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard]]** — „Glaubt mir nichts, nur weil ich es sage" als sokratische Demut in buddhistischer Sprache; offener Streitpunkt bleibt das Meister-Schüler-Verhältnis.
+- **[[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard]]** — prüfte seine Lehrer an ihrem Leben, nicht an ihren Worten; offener Streitpunkt bleibt, ob das Meister-Schüler-Verhältnis das prüfende Gegenüber ist, das Callard fordert.
 - **Platon & Sokrates** ([[Denker/Walther Ziegler — Platon in 60 Minuten|Walther Ziegler — Platon in 60 Minuten]]) — die Werkquelle: Statuen-Metapher, Anamnesis, Hebammenkunst, Symposion.
 
 ## Gedankenwelten-Notes
