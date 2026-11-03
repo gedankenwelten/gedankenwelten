@@ -29,6 +29,20 @@ Gedankenwelten/
   Impressum; „Wie die Notes entstehen" verbindet beides. Vom 24.10. bis 01.11.2026 hieß er hier „Andi" — das ist
   zurückgenommen, alle Stellen sind umgestellt. Autoren-Tag bleibt `luc`.
 
+## Recherche statt Gedächtnis (seit 03.11.2026, Andreas' Ja)
+
+> [!important] Das Gedächtnis sagt, wo man suchen soll. Was in den Text kommt, sagt die Quelle.
+> Namen (auch Vornamen), Rollen (Vorwort oder Nachwort, Autor oder Herausgeber), Ämter, Preise, Werktitel,
+> Jahreszahlen, Studien und DOIs werden nachgeschlagen, bevor sie in eine Note, Vita, ein Panorama oder eine
+> Spur gehen: Transkript, DNB, Institutsseite, Paper, die gelesene Seite. Was sich nicht finden lässt,
+> fällt weg. Andreas: *„Aus dem Gedächtnis ist immer gut, um überhaupt etwas zu wissen. Aber eine Recherche
+> ist immer besser.“*
+>
+> Anlass: `aus-gedaechtnis` ist die häufigste Fehlerursache im Fehler-Register (137, Stand 03.11.2026). Am
+> selben Tag geschah es dreimal beim Schreiben selbst, jedes Mal bei Namen oder Rollen von Menschen
+> (zwei Vornamen im Meditations-Panorama, „Vorwort“ statt Nachwort in der Scobel-Vita), alle vor dem Deploy
+> gefunden. Für Denker-Notes regelt `gedankenwelt` die Einzelheiten („Biografie nur aus Belegen“).
+
 ## Geistesblitz
 
 Geistesblitz ist die Rubrik für **grundsätzliches Wissen und menschliche Schöpferkraft** — Wissenschaft, Philosophie, Psychologie, Technik. Notes, die die Welt erklären und das Außergewöhnliche am Menschen sichtbar machen: den Funken, der Erkennen und Erschaffen verbindet.

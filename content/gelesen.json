@@ -259,11 +259,6 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Christine-Dankbar",
-   "leser": 4,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/DenkerVita/Judith-Mangelsdorf",
    "leser": 4,
    "aufrufe": 5
@@ -280,6 +275,11 @@
   },
   {
    "pfad": "/DenkerVita/Christine-Braehler",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Christine-Dankbar",
    "leser": 4,
    "aufrufe": 4
   },
@@ -869,11 +869,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "leser": 4,
      "aufrufe": 5
@@ -890,6 +885,11 @@
     },
     {
      "pfad": "/DenkerVita/Christine-Braehler",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Christine-Dankbar",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1744,11 +1744,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Chantal-Mouffe-Das-Politische-und-die-Politik",
      "leser": 3,
      "aufrufe": 3
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
     }
