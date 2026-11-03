@@ -235,7 +235,7 @@ Fromm beschreibt Liebe als Kunst, die Übung erfordert — nicht als Gefühl, da
 
 ### → [[Gert Scobel — Meditation kann gefaehrlich sein]]
 
-Scobel warnt vor unkritischer Meditation — dass Achtsamkeit ohne Begleitung retraumatisieren kann. Brähler teilt diese Vorsicht explizit: Selbstmitgefühl als *„kraftvolle Medizin"* sollte gerade bei tiefen Bindungsverletzungen mit professioneller Unterstützung geübt werden, nicht allein.
+Scobel warnt, dass Meditation Nebenwirkungen hat und bei Trauma, schwerer Depression oder Borderline-Störung schon einfache Bodyscans Symptome verschlimmern können. Brähler teilt diese Vorsicht explizit: Selbstmitgefühl als *„kraftvolle Medizin"* sollte gerade bei tiefen Bindungsverletzungen mit professioneller Unterstützung geübt werden, nicht allein.
 
 ### → [[Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen]]
 

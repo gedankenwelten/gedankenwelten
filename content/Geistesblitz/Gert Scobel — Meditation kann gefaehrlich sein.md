@@ -15,7 +15,8 @@ aliases:
   - Scobel Meditation
   - Meditation Nebenwirkungen
   - "Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein"
-description: "Meditation wirkt — klinisch belegt, gleichwirksam wie ein Antidepressivum. Und sie kann schaden. Scobel zieht die Trennlinie zwischen Wellness-Versprechen und ernsthafter Praxis."
+description: "Meditation wirkt, gegen Angst so gut wie ein Antidepressivum. Und sie kann schaden. Scobel zieht die Trennlinie zwischen Wellness-Versprechen und ernsthafter Praxis."
+raetsel: "Die Stille heilt. Manchmal öffnet sie eine Tür, hinter der niemand aufräumt."
 ---
 
 # Gert Scobel — Meditation kann gefährlich sein
@@ -24,23 +25,25 @@ description: "Meditation wirkt — klinisch belegt, gleichwirksam wie ein Antide
 
 <details><summary>🎨</summary>
 
-**Hilma af Klint** — Spirituelle Diagramme, konzentrische organische Ringe, leuchtende Farbfelder. Eine meditierende Silhouette im strahlenden Zentrum, umgeben von Ringen in Rosé, Amber und Blau — auf schwarzem Grund. Das Schwarz drumherum ist nicht bedrohlich, aber es ist da: 58 % der Meditierenden berichten unerwünschte Erfahrungen. Dōgen's Versprechen und seine Gefahr in einem Bild.
+**Hilma af Klint** — Spirituelle Diagramme, konzentrische organische Ringe, leuchtende Farbfelder. Eine meditierende Silhouette im strahlenden Zentrum, umgeben von Ringen in Rosé, Amber und Blau — auf schwarzem Grund. Das Schwarz drumherum ist nicht bedrohlich, aber es ist da: In Befragungen berichtet rund die Hälfte der Meditierenden von unerwünschten Erfahrungen. Dōgens Versprechen und seine Gefahr in einem Bild.
 
 *Prompt:* Wide panoramic illustration in the style of Hilma af Klint — spiritual diagram, concentric organic rings, soft but luminous color fields. A small white meditating silhouette at the absolute center, surrounded by expanding rings: innermost white and pale gold, then warm rose, then deep amber-yellow, then soft blue and white at the outermost edge. All on a black ground. The rings breathe slightly, not perfectly geometric. No text, no photorealism. 1200×500px.
 
 </details>
 
 > [!abstract] Worum es geht
-> Meditation ist kein risikofreies Wellness-Tool — sie ist eine ernsthafte Praxis mit messbaren Wirkungen und echten Nebenwirkungen. Gert Scobel zieht die Forschungslage der letzten 30 Jahre zusammen: 8 Wochen MBSR sind gleichwirksam wie ein Antidepressivum, Langzeit-Meditierende zeigen strukturelle Gehirnveränderungen — und 58 % der Meditierenden berichten von unerwünschten Erfahrungen. Dahinter steckt eine tiefere Frage: Was passiert mit dem Bewusstsein, wenn man es über Jahrzehnte kultiviert? Und warum sagt Dōgen, dass das tiefste Erkennen im Vergessen des Selbst beginnt?
+> Meditation ist eine ernsthafte Praxis mit messbaren Wirkungen und echten Nebenwirkungen. Gert Scobel zieht die Forschung der letzten dreißig Jahre zusammen: Acht Wochen Achtsamkeitskurs helfen bei Angststörungen nicht schlechter als ein Antidepressivum, bei Langzeitmeditierenden zeigen sich andere Muster im Gehirn, und viele Meditierende berichten von unerwünschten Erfahrungen. Er sagt auch, was offen bleibt: ob die Unterschiede von der Meditation kommen oder von den Menschen, die meditieren. Dahinter steckt eine tiefere Frage: Was passiert mit dem Bewusstsein, wenn man es über Jahrzehnte kultiviert? Und warum sagt Dōgen, dass das tiefste Erkennen im Vergessen des Selbst beginnt?
 
-Quelle: [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U)
+Quelle: [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U) (YouTube-Kanal *scobel*, 21.05.2026)
 
 > [!info] Wer spricht?
-> **Gert Scobel** (*1959, Aachen*) — Philosoph, Journalist und Moderator. Studium der Philosophie und Theologie in Frankfurt (Jesuiten-Hochschule St. Georgen) und Berkeley (M.A.). Seit 2008 Moderator der 3sat-Sendung *scobel*, zweifacher Adolf-Grimme-Preisträger. Lehrt Philosophie & Interdisziplinarität an der Hochschule Bonn-Rhein-Sieg. Meditiert seit 40 Jahren.
+> **Gert Scobel** (*1959, Aachen*) — Philosoph, Journalist und Moderator. Studium der Philosophie und katholischen Theologie an der Jesuiten-Hochschule St. Georgen in Frankfurt und in Berkeley (M.A.). Moderierte von 1995 bis 2007 die 3sat-*Kulturzeit* und startete 2008 bei 3sat die Sendung *scobel*; dieses Video stammt von seinem gleichnamigen YouTube-Kanal. Grimme-Preis 2005, Grimme Online Award 2022 für den Kanal. Honorarprofessor für Philosophie und Interdisziplinarität an der Hochschule Bonn-Rhein-Sieg. Meditiert seit etwa vierzig Jahren.
 >
 > Seine intellektuelle Position ist die eines *kritischen Vermittlers*: Er nimmt neurowissenschaftliche Evidenz ernst, markiert aber ebenso klar ihre Grenzen. Weder Szientismus noch spirituelle Naivität — sondern epistemische Demut.
 >
-> Wichtigste Werke: *NichtDenken* (2018), *Warum wir philosophieren müssen* (2012)
+> Wichtigste Werke: *Weisheit* (2008), *Warum wir philosophieren müssen* (2012), *NichtDenken* (2018), *Complexify your life* (2024)
+>
+> Laut Videobeschreibung wird der Kanal vom gemeinnützigen AVE Institut für Achtsamkeit, Verbundenheit, Engagement finanziert.
 >
 > → [[DenkerVita/Gert Scobel|DenkerVita]]
 
@@ -52,28 +55,32 @@ Quelle: [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/w
 
 [▶ 2:18](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=138) — Die Meditationsforschung hat in den letzten 30 Jahren drei konzeptionell unterschiedliche Phasen durchlaufen — wobei jede die vorangehende nicht ablöste, sondern vertiefte.
 
-**Welle 1** (ab ~1990): *Gibt es überhaupt etwas Messbares?* Die Antwort war ja: Herzrate, Atemfrequenz, Kortisolspiegel, messbare Gehirnveränderungen. Jon Kabat-Zinn entwickelte MBSR (*Mindfulness-Based Stress Reduction*) — ein säkuläres Acht-Wochen-Programm, das buddhistische Praxis aus ihrem kulturellen Kontext löste und in amerikanische Krankenhäuser brachte. Ursprünglich für austherapierte Schmerzpatientinnen. Was folgte, war laut Scobel *einer der am besten replizierten Befunde der modernen Psychologie*: Achtsamkeitsbasierte Interventionen reduzieren Stress, Angst und depressive Rückfälle nachweislich.
+**Welle 1** (ab ~1990): *Gibt es überhaupt etwas Messbares?* Die Antwort war ja: Herzrate, Atemfrequenz, Kortisolspiegel, messbare Gehirnveränderungen. Jon Kabat-Zinn entwickelte MBSR (*Mindfulness-Based Stress Reduction*) — ein säkuläres Acht-Wochen-Programm, das buddhistische Praxis aus ihrem kulturellen Kontext löste und in amerikanische Krankenhäuser brachte. Ursprünglich für austherapierte Schmerzpatientinnen. Was folgte, war laut Scobel *einer der am besten replizierten Befunde der modernen Psychologie*: Achtsamkeitsbasierte Interventionen reduzieren Stress, Angst und depressive Rückfälle *(die großen Übersichten finden mittlere, keine überragenden Effekte → [[#Faktencheck|Faktencheck]])*.
 
-Besonders eindrücklich: Eine 2023 in *JAMA Psychiatry* erschienene Studie zeigte, dass acht Wochen MBSR bei Angststörungen gleichwirksam ist wie Escitalopram — ein erstklassiges Antidepressivum.
+Besonders eindrücklich: Eine 2023 in *JAMA Psychiatry* erschienene Studie zeigte, dass acht Wochen MBSR bei Angststörungen so gut halfen wie Escitalopram, ein erstklassiges Antidepressivum.
 
-> *„Meditation wirkt. Als eines von vielen Beispielen: 8 Wochen MBSR sind bei Angststörung gleichwirksam wie Escitalopram."*
+> *„Knapper formuliert: Meditation wirkt."* [▶ 3:48](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=228)
 
-**Welle 2** (ab ~2000): *Wie wirkt es — und wobei?* Neurowissenschaftlich ausgerichtet. Antoine Lutz und Richard Davidson legten 2004 tibetische Mönche mit jahrzehntelanger Erfahrung in den fMRT-Scanner. Was sie sahen, war unerwartet: Diese Mönche erzeugten während einer *non-dualen Compassion-Meditation* die höchsten Gammaoszillationen, die jemals bei gesunden Menschen gemessen worden waren. Gammawellen sind das neuronale Korrelat integrierter, kohärenter Bewusstseinszustände — ein Gehirn in hoher Synchronisation verschiedener Areale.
+**Welle 2** (ab ~2000): *Wie wirkt es — und wobei?* Neurowissenschaftlich ausgerichtet. Antoine Lutz und Richard Davidson legten 2004, so Scobel, tibetische Mönche mit jahrzehntelanger Erfahrung „in den Scanner“ *(gemessen wurde mit dem EEG, an acht Geübten und zehn Studierenden → [[#Faktencheck|Faktencheck]])*. Was sie sahen, war unerwartet: Diese Mönche erzeugten während einer *non-dualen Compassion-Meditation* die höchsten Gammaoszillationen, die jemals bei gesunden Menschen gemessen worden waren. Gammawellen sind das neuronale Korrelat integrierter, kohärenter Bewusstseinszustände — ein Gehirn in hoher Synchronisation verschiedener Areale.
 
-Das Entscheidende: Diese Veränderungen waren nicht nur während der Meditation messbar — sie waren *dauerhaft*. Strukturell hatten die Mönche mehr graue Substanz in der vorderen Insula (zuständig für Körperwahrnehmung und die Definition eigener Grenzen). Funktionell war ihre Amygdala — Sitz von Aggression und Angstreaktion — gedämpft, ihr präfrontaler Cortex effizienter, ihr Default Mode Network im Ruhezustand deutlich weniger aktiv. Weniger Tagträumen, weniger Neigung zu Depression.
+Das Gehirn dieser Mönche, sagt Scobel, schien anders zu funktionieren, nicht nur während der Meditation, sondern dauerhaft. Strukturell hätten sie mehr graue Substanz in der vorderen Insula (zuständig für Körperwahrnehmung und die Grenzen des eigenen Körpers) *(diese Studie untersuchte westliche Meditierende, nicht die Mönche → [[#Faktencheck|Faktencheck]])*. Funktionell sei ihre Amygdala, wo Angst und Wut verarbeitet werden, ruhiger gewesen *(bei Mitgefühlsmeditation reagierte sie in einer Studie stärker → [[#Faktencheck|Faktencheck]])*, ihr präfrontaler Cortex effizienter, ihr Default Mode Network im Ruhezustand deutlich weniger aktiv. Weniger Tagträumen, im Schnitt weniger Neigung zu Depression.
+
+[▶ 6:51](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=411) — Dann setzt Scobel selbst ein Fragezeichen, und es ist das wichtigste der ganzen Sendung. Liegen die Effekte an der Meditation oder an den Menschen, die für die Studien ausgesucht wurden? Vielleicht meditieren sie, weil sie schon vorher eine Besonderheit hatten:
+
+> *„Diese Frage ist bis heute nicht so vollständig beantwortet und man sollte sie bei allen beeindruckenden, positiven Ergebnissen der Meditationsforschung zumindest mal im Hinterkopf mitlaufen lassen."* [▶ 7:37](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=457)
 
 **Welle 3** (jetzt): *Was verändert sich bei langfristiger Praxis?* Dies ist die konzeptionell fundamentalste Verschiebung. Die bisherige Forschung fragte: Was macht ein 8-Wochen-Kurs? Die neue Frage lautet: Was passiert, wenn jemand *jahrzehntelang täglich* meditiert? Welche Zustände, auf die alle kontemplativen Traditionen seit 2.500 Jahren hinweisen, sind tatsächlich erreichbar — und was bedeutet das für unser Verständnis des menschlichen Geistes?
 
 > [!question] Weitergedacht
-> Wenn MBSR so wirksam ist wie ein Antidepressivum — warum verschreiben Ärzte dann nicht zuerst Meditation? Und was sagt es über unser Gesundheitssystem, dass die Antwort eher ökonomischer als medizinischer Natur ist?
+> Wenn ein Kurs bei Angst so gut hilft wie die Tablette und seltener Nebenwirkungen macht — *warum ist er dann nicht die erste Wahl?* Liegt es an der Wirkung, an den acht Wochen, die er verlangt, oder daran, wer an welcher Behandlung verdient?
 
 ---
 
 ### Was bei Langzeitmeditierenden anders ist
 
-[▶ 9:07](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=547) — Eine Metastudie von Emann, Satchet und Kolleginnen aus dem Meditation Research Program der Harvard Medical School fasst zusammen, was wir heute über Langzeit-Meditierende wissen — definiert als mindestens 1.500 Stunden Erfahrung.
+[▶ 9:07](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=547) — Eine Übersichtsarbeit von Sebastian Ehmann, Matthew Sacchet und Kollegen aus dem Meditation Research Program der Harvard Medical School fasst zusammen, was man heute über Langzeitmeditierende weiß, Menschen mit mindestens 1.500 Stunden Erfahrung ([Ehmann u. a. 2025, doi:10.1162/IMAG.a.82](https://doi.org/10.1162/IMAG.a.82)). Die Autoren betonen, dass sie nur vorhandene Studien vergleichen, und sprechen selbst von „vorläufigen“ Belegen.
 
-Die Ergebnisse sind bemerkenswert:
+Die Ergebnisse sind trotzdem bemerkenswert:
 
 **Kognitive Flexibilität** — Die Fähigkeit, flexibel zwischen verschiedenen Denkweisen und Einstellungen zu wechseln, ist ausgeprägt erhöht. Zusammen mit einer tieferen Integration von sensorischer Wahrnehmung und kognitivem Urteil.
 
@@ -94,15 +101,17 @@ Was diese Veränderungen zusammenhält, nennen die Autoren die *neurophänomenol
 
 [▶ 13:43](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=823) — Hier beginnt das, was Scobel die meisten Meditationsberichte verschweigen: *Meditation ist kein uneingeschränktes Gut.*
 
-Willoughby Britton, Psychiatrieprofessorin an der Brown University, hat systematisch dokumentiert, was sie in einem Interview *"the messy truth about mindfulness"* nannte. In einer repräsentativen Stichprobe amerikanischer Meditierender berichteten **58 %** von unerwünschten Erfahrungen. **9 %** erlebten sogar funktionelle Beeinträchtigungen — die negativen Erfahrungen wirkten sich nachhaltig auf ihren Alltag aus. Hochgerechnet: rund sechs Millionen Menschen in den USA könnten durch Meditationspraktiken beeinträchtigt oder sogar geschädigt werden.
+Willoughby Britton, Psychiatrieprofessorin an der Brown University, hat systematisch dokumentiert, was sie in einem Interview *"the messy truth about mindfulness"* nannte. In einer, so Scobel, repräsentativen Stichprobe amerikanischer Meditierender hätten **58 %** von unerwünschten Erfahrungen berichtet, **9 %** von Beeinträchtigungen im Alltag; hochgerechnet könnten in den USA rund sechs Millionen Menschen durch Meditation beeinträchtigt oder geschädigt werden *(die 58 % stammen aus einem Kurs mit 96 Teilnehmenden, die repräsentative Befragung kam auf die Hälfte, die Hochrechnung trägt nicht → [[#Faktencheck|Faktencheck]])*.
 
 Bei Borderline-Störung, posttraumatischer Belastungsstörung und schweren Depressionen können selbst einfache Bodyscan-Übungen bestimmte Symptome *massiv verschlimmern* — weil das gesteigerte Körperbewusstsein genau dort ansetzt, wo die Not sitzt.
 
-Das MYRIAD Trial — die größte Schulstress-Studie der Geschichte mit 8.000 Schülerinnen an 85 Schulen in England, erschienen 2022 in *Evidence-based Mental Health* — zeigte keinen großen Nutzen. Bei gefährdeten Kindern aus zerrütteten Verhältnissen hatte die Achtsamkeitsintervention sogar *negative Effekte*: Die gesteigerte Körperwahrnehmung des Bodyscans erhöhte das Schmerzempfinden bei Menschen, die bereits in Not sind.
+Die MYRIAD-Studie, das größte Schulprogramm dieser Art mit gut 8.000 Jugendlichen an 84 englischen Schulen, 2022 in *Evidence-Based Mental Health* erschienen, fand keinen Nutzen. Bei Jugendlichen, die schon psychisch belastet waren, lagen die Werte nach dem Training sogar etwas schlechter. Scobel vermutet einen Grund: Schon der Bodyscan lenke die Aufmerksamkeit auf Schmerzen und Verspannungen, und wer ohnehin leidet, nehme dann mehr davon wahr.
 
-> *„Meditation und Achtsamkeit sind wie jede ernsthafte Praxis — was wirksam ist, hat Effekte. Und was Effekte hat, kann auch Nebenwirkungen haben."*
+> *„Was wirksam ist, hat Effekte und was Effekte hat, kann auch Nebeneffekte oder ungewünschte Nebenwirkungen haben."* [▶ 13:43](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=823)
 
-Scobel zieht daraus eine klare Konsequenz: Vor längeren Meditationsretreats oder bei Beginn intensiver Praxis sollte ein Fragebogen zu möglichen Störungen oder Traumata ausgefüllt werden. Meditation ist Therapie — und jede wirksame Therapie hat Kontraindikationen.
+Scobel zieht daraus eine klare Konsequenz: Vor einem längeren Retreat, eigentlich schon vor dem Beginn, sollte ein Fragebogen nach möglichen Störungen oder Traumata fragen. Meditation sei wie jede Therapie kein Allheilmittel. Und er fügt etwas Persönliches hinzu:
+
+> *„Aus eigener Erfahrung weiß ich, dass es auch in der langjährigen Meditation immer mal wieder Phasen gibt, in denen es dann geraten sein kann, einfach weniger zu meditieren."* [▶ 16:46](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=1006)
 
 > [!question] Weitergedacht
 > Die Wellness-Industrie verkauft Meditation als risikofreie Selbstoptimierung. Wer haftet, wenn das schiefgeht — der App-Anbieter, der Lehrer, die Person selbst? Und: Wie verändert sich das Verhältnis zur Praxis, wenn man weiß, dass sie gefährlich sein *kann*?
@@ -115,13 +124,13 @@ Scobel zieht daraus eine klare Konsequenz: Vor längeren Meditationsretreats ode
 
 Im Pali heißen diese Vertiefungszustände *Jhanas* — manchmal übersetzt als "Glühen" oder "Brennen". Gemeint sind höhere Bewusstseinszustände der Versenkung und ekstatischen Absorption, in denen die Außenwahrnehmung schwindet und die Grenze zwischen Innen und Außen sich auflöst. Nach dem Durchschreiten des achten Jhanas gelangt man in *Nirodha Samapatti* — den Zustand der Erlöschung oder des willentlichen Aussetzens des gesamten Bewusstseins. Erfahrene Praktizierende berichten, in diesem Zustand die Wirklichkeit *klarer und geöffneter* zu sehen als je zuvor. Daher der Begriff der Erleuchtung.
 
-Daniel Ingram — amerikanischer Notarzt, Theravada-Meditationslehrer, über 23.000 Stunden Meditationserfahrung — saß vor einigen Jahren in einem fMRT-Scanner an der Harvard Medical School. Man bat ihn, die acht Jhana-Stufen zu durchlaufen. Was die Forscher sahen, überraschte sie: Ingrams Gehirn hörte auf, sich so zu organisieren, wie es zu erwarten gewesen wäre.
+Daniel Ingram — amerikanischer Notarzt, Theravada-Meditationslehrer, über 23.000 Stunden Meditationserfahrung — saß vor einigen Jahren in einem fMRT-Scanner an der Harvard Medical School. Man bat ihn, die acht Jhana-Stufen zu durchlaufen ([Chowdhury u. a. 2025, doi:10.1016/j.neuroimage.2024.120973](https://doi.org/10.1016/j.neuroimage.2024.120973)). Was die Forscher sahen, überraschte sie: Ingrams Gehirn hörte auf, sich so zu organisieren, wie es zu erwarten gewesen wäre.
 
-> *„Was sie beobachteten, war weder Entspannung noch Beruhigung, sondern eine Art radikale Reorganisation des gesamten Gehirns — Netzwerke, die normalerweise getrennt voneinander operieren, verschmolzen."*
+> *„Was sie stattdessen beobachteten, war weder Entspannung noch Beruhigung, sondern so eine Art radikale Reorganisation des gesamten Gehirns, der Gehirnnetzwerke, die normalerweise getrennt voneinander operieren und verschmolzen."* [▶ 0:45](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=45)
 
-[▶ 19:49](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=1189) — Was diese Zustände neurophysiologisch kennzeichnet, ist ein konsistenter Befund: Die *neuronale Komplexität erhöht sich*. Es kommt zu einer globalen Konnektivitätsveränderung, die sich in keinem anderen bekannten Bewusstseinszustand reproduzieren lässt — weder im Schlaf, noch in der Narkose, noch im Koma.
+[▶ 19:49](https://www.youtube.com/watch?v=aFb1JkIqN6U&t=1189) — Was diese Zustände neurophysiologisch kennzeichnet, nennt Scobel einen konsistenten Befund: Die *neuronale Komplexität erhöht sich* *(gemessen an einem einzigen Praktizierenden → [[#Faktencheck|Faktencheck]])*. Es kommt zu einer globalen Konnektivitätsveränderung, die sich in keinem anderen bekannten Bewusstseinszustand reproduzieren lässt — weder im Schlaf, noch in der Narkose, noch im Koma.
 
-Eine Studie von Josipovic hatte bereits gezeigt, dass nicht-duale Gewahrseinszustände die normalerweise gegensätzliche Wechselwirkung zwischen dem Default Mode Network und dem dorsalen Aufmerksamkeitsnetzwerk entspannen. Diese fundamentale Spannung — die normalerweise Innenleben von Außenleben trennt — wird durchlässiger, fluider.
+Eine Studie von Zoran Josipovic hatte bereits gezeigt ([Josipovic u. a. 2012, doi:10.3389/fnhum.2011.00183](https://doi.org/10.3389/fnhum.2011.00183)), dass nicht-duale Gewahrseinszustände die normalerweise gegensätzliche Wechselwirkung zwischen dem Default Mode Network und dem dorsalen Aufmerksamkeitsnetzwerk entspannen. Diese fundamentale Spannung — die normalerweise Innenleben von Außenleben trennt — wird durchlässiger, fluider.
 
 Neurophysiologisch messbar: eine *Entspannung der normalen Grundarchitektur dualen Erlebens* — innen/außen, Schmerz/kein Schmerz, Subjekt/Objekt. Genau das, was Meditierende aus der Innensicht als Verschmelzen der Gegensätze wahrnehmen.
 
@@ -158,30 +167,47 @@ Eine Formulierung, die das Hard Problem nicht löst — aber seinen Rahmen versc
 
 ## Faktencheck
 
-> [!success] Bestätigt — MBSR gleichwirksam wie Escitalopram
-> Die 2023 in *JAMA Psychiatry* erschienene Studie (Hoge et al.) zeigte tatsächlich Gleichwirksamkeit von 8-Wochen-MBSR und Escitalopram bei generalisierten Angststörungen. Quelle: [Hoge et al., JAMA Psychiatry 2023](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2798510)
+> [!success] Bestätigt — Achtsamkeitskurs gegen Escitalopram
+> In der TAME-Studie wurden 276 Erwachsene mit Angststörungen per Los acht Wochen MBSR oder dem Antidepressivum Escitalopram zugeteilt, 208 beendeten sie. MBSR war nicht schlechter als das Medikament (so ist die Studie angelegt: Nichtunterlegenheit, nicht Gleichheit). Mindestens eine unerwünschte Wirkung hatten 79 % in der Medikamentengruppe und 15 % im Kurs ([Hoge u. a., *JAMA Psychiatry* 2023, doi:10.1001/jamapsychiatry.2022.3679](https://doi.org/10.1001/jamapsychiatry.2022.3679), randomisiert).
 
-> [!success] Bestätigt — MYRIAD Trial, kein signifikanter Nutzen
-> Das MYRIAD Trial (My Resilience in Adolescence) mit ~8.000 Schülerinnen in England erschien 2022 in *Evidence-based Mental Health* als Sonderheft. Die Ergebnisse zeigten keinen signifikanten Nutzen von schulbasierter Achtsamkeit — und bei vulnerable Gruppen teils negative Effekte. Quelle: [Kuyken et al., Evidence-Based Mental Health 2022](https://ebmh.bmj.com/content/25/3)
+> [!warning] Vereinfacht — „einer der am besten replizierten Befunde“, „robuste Evidenz“ auch bei Sucht
+> Die große Übersicht über 47 Studien mit aktiver Vergleichsgruppe fand mittlere Belege für weniger Angst, Depression und Schmerz, mit kleinen bis mittleren Effekten, für Suchtmittelkonsum dagegen keine ausreichenden Belege; besser als andere wirksame Behandlungen war Meditation nicht ([Goyal u. a. 2014, doi:10.1001/jamainternmed.2013.13018](https://doi.org/10.1001/jamainternmed.2013.13018), Meta-Analyse). Gut belegt ist der Rückfallschutz bei wiederkehrender Depression ([Kuyken u. a. 2016, doi:10.1001/jamapsychiatry.2016.0076](https://doi.org/10.1001/jamapsychiatry.2016.0076)). „Meditation wirkt“ stimmt also, nur bescheidener, als „am besten repliziert“ klingt.
 
-> [!success] Bestätigt — Willoughby Britton, 58 % unerwünschte Erfahrungen
-> Brittans Forschung zur "dunklen Seite der Achtsamkeit" ist gut dokumentiert. Die Zahlen stammen aus ihrer Studie "Prevalence and predictors of adverse and challenging meditation experiences" (Britton et al., *PLOS ONE* 2023). 58 % berichteten von unerwünschten Erfahrungen, 9 % von funktioneller Beeinträchtigung. Quelle: [Britton et al., PLOS ONE 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293332)
+> [!warning] Vereinfacht — die Gamma-Studie von 2004
+> Lutz, Davidson und Kollegen, unter ihnen Matthieu Ricard, maßen mit dem EEG, nicht im Scanner, und verglichen acht langjährig Praktizierende (im Schnitt 49 Jahre) mit zehn Studierenden (21 Jahre). Den Superlativ hat Scobel aus der Studie: Die Gamma-Aktivität einiger Praktizierender sei „nach unserem Wissen die höchste, die in der Literatur in einem nicht krankhaften Zusammenhang berichtet wurde“. Das Verhältnis von Gamma- zu langsamen Wellen war bei den Geübten schon in der Ruhe vor der Übung höher. Dass dieser Unterschied „dauerhaft“ von der Meditation kommt, kann ein Querschnittsvergleich aber nicht zeigen; die Autoren schreiben, die Gruppen unterschieden sich auch in Alter und Kultur ([Lutz u. a. 2004, doi:10.1073/pnas.0407401101](https://doi.org/10.1073/pnas.0407401101)).
 
-> [!warning] Vereinfacht — Gamma-Wellen als "höchste je gemessene"
-> Lutz & Davidson (2004) maßen tatsächlich hohe Gamma-Aktivität bei Mönchen mit Compassion-Meditation. Der Superlativ "höchste je bei gesunden Menschen gemessene" ist eine starke Vereinfachung — die Studie verglich mit einer Kontrollgruppe, nicht mit allen je erhobenen Gamma-Messwerten. Die Kernaussage über ungewöhnlich hohe Synchronisation ist aber belegt. Quelle: [Lutz et al., PNAS 2004](https://www.pnas.org/doi/10.1073/pnas.0407401101)
+> [!warning] Verwechselt — mehr graue Substanz in der Insula
+> Die bekannte Studie zur dickeren Hirnrinde in der vorderen Insula untersuchte westliche Einsichtsmeditierende, keine tibetischen Mönche, und war ein Querschnittsvergleich ([Lazar u. a. 2005, doi:10.1097/01.wnr.0000186598.66243.19](https://doi.org/10.1097/01.wnr.0000186598.66243.19)). Eine Meta-Analyse über 21 solche Studien findet Unterschiede in acht Regionen, die Insula darunter, warnt aber vor Publikationsbias ([Fox u. a. 2014, doi:10.1016/j.neubiorev.2014.03.016](https://doi.org/10.1016/j.neubiorev.2014.03.016)). Das weniger aktive Default Mode Network bei Erfahrenen ist belegt ([Brewer u. a. 2011, doi:10.1073/pnas.1112029108](https://doi.org/10.1073/pnas.1112029108)).
+
+> [!warning] Umstritten — die „ruhigere“ Amygdala
+> Die Übersicht von Ehmann und Sacchet liest aus der Literatur eine geringere Angst- und Amygdala-Aktivierung bei Langzeitmeditierenden ([Ehmann u. a. 2025, doi:10.1162/IMAG.a.82](https://doi.org/10.1162/IMAG.a.82)). Während der Mitgefühlsmeditation reagierte die Amygdala erfahrener Meditierender dagegen stärker als die von Anfängern ([Lutz u. a. 2008, doi:10.1371/journal.pone.0001897](https://doi.org/10.1371/journal.pone.0001897)), und nach acht Wochen Kurs fand die größte Studie keine strukturelle Veränderung ([Kral u. a. 2022, doi:10.1126/sciadv.abk3316](https://doi.org/10.1126/sciadv.abk3316)). Ruhiger oder offener, das hängt davon ab, was geübt und was gemessen wird.
+
+> [!danger] Falsch beschrieben — „58 % in einer repräsentativen Stichprobe“, „sechs Millionen“
+> Scobels eigene Quelle (Videobeschreibung) ist Britton u. a. 2021: 96 Teilnehmende eines achtwöchigen Kurses in achtsamkeitsbasierter kognitiver Therapie, einzeln befragt. 58 % erlebten etwas Unangenehmes, 37 % eine Beeinträchtigung im Alltag, 6–14 % etwas Anhaltendes, ungefähr so oft wie bei anderen psychologischen Behandlungen ([doi:10.1177/2167702621996340](https://doi.org/10.1177/2167702621996340)). Repräsentativ war eine andere Studie, an der Britton mitschrieb: Dort nannte die Hälfte der 434 Meditierenden mindestens eine unerwünschte Wirkung, 10,6 % eine Beeinträchtigung im Alltag, 1,2 % länger als einen Monat ([Goldberg u. a. 2021, doi:10.1080/10503307.2021.1933646](https://doi.org/10.1080/10503307.2021.1933646)). Eine Hochrechnung auf die USA lässt sich aus einer Kursstichprobe nicht ableiten. Der Kern bleibt: Unerwünschte Wirkungen sind häufig, auch bei Menschen ohne Vorgeschichte ([Farias u. a. 2020, doi:10.1111/acps.13225](https://doi.org/10.1111/acps.13225), Übersicht).
+
+> [!success] Bestätigt — MYRIAD, kein Nutzen
+> 84 Schulen, 8.376 Jugendliche zwischen 11 und 13: Nach einem Jahr war zwischen Achtsamkeitstraining und normalem Unterricht kein Unterschied ([Kuyken u. a. 2022, doi:10.1136/ebmental-2021-300396](https://doi.org/10.1136/ebmental-2021-300396)). Bei Jugendlichen mit Risiko für psychische Probleme lagen Depressionsrisiko und Wohlbefinden nach dem Training etwas schlechter, klein und klinisch nicht bedeutsam; die Autoren raten von dieser Form als Programm für alle ab ([Montero-Marín u. a. 2022, doi:10.1136/ebmental-2022-300439](https://doi.org/10.1136/ebmental-2022-300439)). Dass der Bodyscan die Ursache ist, ist Scobels Vermutung, nicht der Befund der Studie.
+
+> [!warning] Einzelfall — die Jhana-Messung
+> Die Studie, auf die sich Scobel beim Jhana stützt, untersuchte einen einzigen Praktizierenden mit über 23.000 Stunden Erfahrung, sehr gründlich mit fMRT, EEG und Selbstauskunft: weniger getrennte Netzwerke, mehr globale Verbindung, höhere Komplexität im EEG ([Chowdhury u. a. 2025, doi:10.1016/j.neuroimage.2024.120973](https://doi.org/10.1016/j.neuroimage.2024.120973)). Ein „konsistenter Befund“ über diese Zustände ist das noch nicht, und Scobel vergleicht selbst mit psychedelischen Erfahrungen, in denen die Komplexität ebenfalls steigt.
+
+> [!note] Korrigiert am 03.11.2026
+> Der Faktencheck hatte die „58 %“ als bestätigt geführt, mit einem Link, der zu einer Studie über Neurodermitis führte; Zahl und Studie sind jetzt richtig zugeordnet. Außerdem stand im Text, die Gamma-Studie sei im fMRT gemessen worden, die Note ließ Scobels eigenen Einwand weg, ob die Effekte von der Meditation oder von den Meditierenden kommen, und ein Verbindungssatz schrieb Scobel eine Aussage über Missbrauch in Lehrer-Schüler-Beziehungen zu, die er hier nicht macht. Zwei Zitate waren zusammengezogen und sind jetzt wörtlich. Und unser alter Faktencheck hielt Scobels Superlativ zu den Gamma-Werten für übertrieben; er steht so in der Studie.
 
 ---
 
 ## Weiterführende Quellen
 
-*Aus der Video-Beschreibung:*
-- Scobel verweist auf Studien im Infotext — spezifische Links nicht aufgelistet
+*Aus der Videobeschreibung (Scobels Quellen):*
+- Hoge u. a. 2023 — MBSR gegen Escitalopram, *JAMA Psychiatry* ([doi:10.1001/jamapsychiatry.2022.3679](https://doi.org/10.1001/jamapsychiatry.2022.3679))
+- Ehmann u. a. 2025 — Langzeitmeditierende, *Imaging Neuroscience* ([doi:10.1162/IMAG.a.82](https://doi.org/10.1162/IMAG.a.82))
+- Chowdhury u. a. 2025 — Jhana, Einzelfallstudie, *NeuroImage* ([doi:10.1016/j.neuroimage.2024.120973](https://doi.org/10.1016/j.neuroimage.2024.120973))
+- Britton u. a. 2021 — Nebenwirkungen in Achtsamkeitskursen, *Clinical Psychological Science* ([doi:10.1177/2167702621996340](https://doi.org/10.1177/2167702621996340))
+- Kuyken u. a. 2022 und Montero-Marín u. a. 2022 — MYRIAD, *Evidence-Based Mental Health* ([doi:10.1136/ebmental-2021-300396](https://doi.org/10.1136/ebmental-2021-300396), [doi:10.1136/ebmental-2022-300439](https://doi.org/10.1136/ebmental-2022-300439))
 
-*Im Video zitierte Studien:*
-- [Hoge et al. — MBSR vs. Escitalopram bei Angststörungen, JAMA Psychiatry 2023](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2798510)
-- [Lutz & Davidson — Gamma-Wellen bei tibetischen Mönchen, PNAS 2004](https://www.pnas.org/doi/10.1073/pnas.0407401101)
-- [Britton et al. — Adverse meditation experiences, PLOS ONE 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293332)
-- [MYRIAD Trial — Achtsamkeit an Schulen, Evidence-Based Mental Health 2022](https://ebmh.bmj.com/content/25/3)
+*Im Video genannt, ohne Link:*
+- Lutz u. a. 2004 — Gamma bei Langzeitpraktizierenden, *PNAS* ([doi:10.1073/pnas.0407401101](https://doi.org/10.1073/pnas.0407401101))
+- Josipovic u. a. 2012 — nicht-duales Gewahrsein und gegenläufige Netzwerke ([doi:10.3389/fnhum.2011.00183](https://doi.org/10.3389/fnhum.2011.00183))
 
 *Weiterführend empfohlen:*
 - [Scobel & Thomas Metzinger — Reines Bewusstsein, was ist das?](https://www.youtube.com/watch?v=BZW4thvkzVQ)
@@ -205,15 +231,15 @@ Daniel Ingrams Jhana-Daten (kortikale Hierarchie löst sich auf, globale Konnekt
 
 ### → [[Gedanken/Bewusstsein]]
 
-Scobels Befunde zu Langzeitmeditierenden — fluideres Selbst, willkürlich dämpfbarer Parietallappen, nicht-duales Gewahrsein — liefern neurowissenschaftliche Evidenz für die dort dargestellten Theorien. Besonders: Predictive Processing erklärt die veränderte Schmerzverarbeitung (Loslösung von Registrierung und Bewertung); IIT könnte erklären, warum globale Konnektivitätszunahme mit tiefem Wohlbefinden korreliert.
+Scobels Befunde zu Langzeitmeditierenden — fluideres Selbst, willkürlich dämpfbarer Parietallappen, nicht-duales Gewahrsein — sind Material für die dort dargestellten Theorien, vorläufig, wie die Übersichtsarbeit selbst sagt. Besonders: Predictive Processing erklärt die veränderte Schmerzverarbeitung (Loslösung von Registrierung und Bewertung); IIT könnte erklären, warum globale Konnektivitätszunahme mit tiefem Wohlbefinden korreliert.
 
 ### → [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
-Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004, auf die Scobel explizit Bezug nimmt — seine Gamma-Wellen-Daten sind buchstäblich der Ausgangspunkt von Scobels zweiter Welle. Ricards Biografie bestätigt Scobels Befund: Nicht-Selbst-Erfahrung korreliert mit erhöhter Empathie. Und Ricards Kritik an der Wellness-Industrie ergänzt Scobels Warnung vor Nebenwirkungen.
+Ricard ist Mitautor der Gamma-Studie von 2004, mit der Scobels zweite Welle beginnt, und wurde nach eigenen Worten selbst mit einem guten Dutzend anderer gemessen. Seine Warnung vor einer Achtsamkeit, die nur der Firma dient, ergänzt Scobels Warnung vor Nebenwirkungen: Die eine betrifft die Absicht, die andere Körper und Psyche.
 
 ### → [[Denker/Shi Heng Yi — Aufloesung der Identitaet]]
 
-Der Realfall zu Scobels Warnung. Scobel beschreibt theoretisch, wie Autoritätsgläubigkeit, Gehorsam und das Versprechen spiritueller Transformation Missbrauch ermöglichen; Shi Heng Yi hat genau diese Struktur im eigenen Tempel erlebt — sein früherer Abt nutzte „Gehorsam, Hierarchie, Loyalität, Geheimhaltung" als Werkzeuge. Was bei Scobel Risikohinweis ist, ist hier gerichtsnotorische Realität.
+Eine Gefahr, die Scobel nicht nennt: Er spricht über Nebenwirkungen der Übung selbst, Shi Heng Yi über die Struktur um sie herum. In seinem Tempel wurden „Gehorsam, Hierarchie, Loyalität, Geheimhaltung“ zu Werkzeugen des Missbrauchs. Zusammen zeigen beide Notes, dass Meditation an zwei Stellen schaden kann: in der Praxis und im Verhältnis zum Lehrer.
 
 ### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
 
@@ -223,6 +249,14 @@ Dieselbe Stimme, die Kehrseite: Die Zwecklosigkeits-Folge feiert das „reine Be
 
 Bengerts Klarstellung, Weils Dekreation heiße porös werden und nicht verschwinden, „sonst wird es psychotisch“, zieht dieselbe Grenze, die Scobel klinisch beschreibt.
 
+### → [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+
+Brähler teilt Scobels Vorsicht: Selbstmitgefühl ist für sie eine *„kraftvolle Medizin“*, die bei tiefen Bindungsverletzungen in Begleitung gehört. Beide warnen davor, kontemplative Praxis zu verharmlosen, Scobel aus der Forschung, Brähler aus der Therapie.
+
+### → [[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]
+
+Das Panorama ordnet Scobels drei Themen in den Forschungsstand ein: was das Gehirn zeigt, was sich im Leben ändert, wem Meditation schaden kann. Dort steht auch, woher die „58 %“ kommen.
+
 ---
 
 ## Weiterdenken
@@ -230,10 +264,6 @@ Bengerts Klarstellung, Weils Dekreation heiße porös werden und nicht verschwin
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Scobel sagt, Meditation kann gefährlich sein — *aber für wen ist das eine Überraschung?* War die Vorstellung, eine Praxis, die das Fundament des Bewusstseins verschiebt, sei risikolos, je plausibel?
 > - Wenn das Selbst durch Meditation *fluider und transparenter* wird — *was passiert dann mit Verantwortung?* Ist ein Ich, das sich selbst vergisst, noch schuldfähig?
-> - Die Neurowissenschaft kann Dōgens Erleuchtungserfahrung messen — aber nicht erklären *warum* sie als Erleuchtung erlebt wird. Macht das die Erfahrung echter oder weniger echt?
+> - Die Neurowissenschaft kann messen, was im Gehirn geschieht, während jemand von Erwachen berichtet, aber nicht erklären, *warum* es sich so anfühlt. Macht das die Erfahrung echter oder weniger echt?
 > - [[Gedanken/Bewusstsein]] fragt, was Bewusstsein ist — Scobel fragt, was passiert, wenn man es kultiviert. Sind das dieselbe Frage oder zwei verschiedene?
 > - Die Wellness-Industrie hat Meditation zur Selbstoptimierung umgedeutet. Dōgen sagte: Selbst vergessen. *Wäre das Gegenteil von Selbstoptimierung — könnte man Meditation als Praxis gegen das neoliberale Selbst verstehen?*
-
-### → [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
-
-Brähler teilt Scobels Vorsicht explizit: Selbstmitgefühl als *„kraftvolle Medizin"* kann bei tiefen Bindungsverletzungen ohne Begleitung destabilisieren. Beide warnen vor einer Verharmlosung kontemplativer Praxis — Scobel aus neurowissenschaftlicher Sicht, Brähler aus der klinisch-therapeutischen.

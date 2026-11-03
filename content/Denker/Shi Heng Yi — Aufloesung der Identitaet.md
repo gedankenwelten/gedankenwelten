@@ -268,7 +268,7 @@ Beide stehen für eine nicht-hierarchische Praxis des Nicht-Selbst (Anattā) —
 
 ### → [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]]
 
-Scobel beschreibt abstrakt, was Shi Heng Yi konkret erlebt hat: wie Autoritätsgläubigkeit, Gehorsam und das Versprechen spiritueller Transformation zum Missbrauch führen. Sein Befund „unkritische Meditation kann retraumatisieren" benennt den institutionellen Mechanismus, der hier Fleisch wird.
+Scobel spricht über die Nebenwirkungen der Übung selbst: Bei Trauma, schwerer Depression oder Borderline-Störung können schon einfache Bodyscans Symptome verschlimmern. Shi Heng Yi zeigt eine zweite Gefahr, über die Scobel nicht spricht, die Struktur um die Praxis herum, in der „Gehorsam, Hierarchie, Loyalität, Geheimhaltung" zu Werkzeugen des Missbrauchs wurden.
 
 ### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 

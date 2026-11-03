@@ -29,7 +29,7 @@ tags:
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Gert Scobel** (*1959, Aachen*) — Philosoph, Journalist und Moderator. Studium der Philosophie und Theologie in Frankfurt (Jesuiten-Hochschule St. Georgen) und Berkeley (M.A.). Seit 2008 Moderator der 3sat-Sendung *scobel*, zweifacher Adolf-Grimme-Preisträger. Lehrt Philosophie & Interdisziplinarität an der Hochschule Bonn-Rhein-Sieg. Meditiert seit 40 Jahren.
+> **Gert Scobel** (*1959, Aachen*) — Philosoph, Journalist und Moderator. Studium der Philosophie und Theologie in Frankfurt (Jesuiten-Hochschule St. Georgen) und Berkeley (M.A.). Seit 2008 Moderator der 3sat-Sendung *scobel*, Grimme-Preis 2005, Grimme Online Award 2022. Lehrt Philosophie & Interdisziplinarität an der Hochschule Bonn-Rhein-Sieg. Meditiert seit 40 Jahren.
 >
 > Seine intellektuelle Position ist die eines *kritischen Vermittlers*: Er nimmt neurowissenschaftliche Evidenz ernst, markiert aber ebenso klar ihre Grenzen. Weder Szientismus noch spirituelle Naivität — sondern epistemische Demut.
 
@@ -39,7 +39,7 @@ tags:
 
 Gert Scobel wurde am 12. Mai 1959 in Aachen geboren. Er studierte Philosophie und katholische Theologie an der Jesuiten-Hochschule St. Georgen in Frankfurt — einer Institution, die für ihr Zusammendenken von Geistesgeschichte, Theologie und analytischer Philosophie bekannt ist. Den Master of Arts in Philosophie machte er an der University of California, Berkeley — eine Verbindung, die seine spätere Haltung prägte: europäische Tiefe des Fragens kombiniert mit amerikanisch-analytischer Schärfe.
 
-Seine Fernsehkarriere begann 1995 als Mitmoderatorender Kultursendung *Kulturzeit* auf 3sat, die er bis 2007 leitete. 2008 startete er das Format *scobel* — eine wöchentliche Sendung, die philosophische und wissenschaftliche Diskurse für ein breites Publikum aufbereitet, ohne sie zu trivialisieren. Dafür wurde er zweimal mit dem Adolf-Grimme-Preis ausgezeichnet. Seit September 2020 führt er seinen eigenen YouTube-Kanal, auf dem er wöchentlich neue Videos veröffentlicht — oft zu Themen, die in der deutschen Medienlandschaft selten so differenziert behandelt werden: Bewusstsein, Meditation, KI, Erkenntnistheorie.
+Von 1995 bis 2007 gehörte er zu den Moderatoren der täglichen 3sat-Kultursendung *Kulturzeit*. 2008 startete er das Format *scobel* — eine wöchentliche Sendung, die philosophische und wissenschaftliche Diskurse für ein breites Publikum aufbereitet, ohne sie zu trivialisieren. Den Grimme-Preis bekam er 2005 für *Kulturzeit* und *delta*, den Grimme Online Award 2022 für seinen YouTube-Kanal. Seit September 2020 führt er seinen eigenen YouTube-Kanal, auf dem er wöchentlich neue Videos veröffentlicht — oft zu Themen, die in der deutschen Medienlandschaft selten so differenziert behandelt werden: Bewusstsein, Meditation, KI, Erkenntnistheorie.
 
 Parallel dazu ist er Professor an der Hochschule Bonn-Rhein-Sieg im Bereich Philosophie & Interdisziplinarität.
 
@@ -51,7 +51,7 @@ Was Scobel von vielen Wissenschaftsjournalisten unterscheidet: Er ist kein Beoba
 
 - [Warum wir philosophieren müssen](https://www.genialokal.de/Suche/?q=scobel+warum+wir+philosophieren) (2012, S. Fischer) — Essayistische Erkundung der Frage, warum Philosophie für ein reflektiertes Leben notwendig ist
 - [Der fliegende Teppich](https://www.genialokal.de/Suche/?q=scobel+fliegender+teppich) (2017, Fischer Taschenbuch) — Kulturkritische Analyse moderner Lebensverhältnisse und ihrer Widersprüche
-- [NichtDenken](https://www.genialokal.de/Suche/?q=scobel+nichtdenken+achtsamkeit) (2018, Nicolaische Buchhandlung) — Zentrales Werk zum Spannungsfeld zwischen reflektivem Denken und achtsamer Präsenz; verbindet Neurowissenschaft mit philosophischer Tiefe
+- [NichtDenken](https://www.genialokal.de/Suche/?q=scobel+nichtdenken+achtsamkeit) (2018, Nicolai Publishing & Intelligence) — Zentrales Werk zum Spannungsfeld zwischen reflektivem Denken und achtsamer Präsenz; verbindet Neurowissenschaft mit philosophischer Tiefe
 - [Zwischen Gut und Böse](https://www.genialokal.de/Suche/?q=scobel+gabriel+zwischen+gut+und+bose) (mit Markus Gabriel) — Co-Autorschaft mit dem Neurophilosophen zu ethischen Grundfragen
 
 ---
@@ -68,7 +68,7 @@ Was Scobel von vielen Wissenschaftsjournalisten unterscheidet: Er ist kein Beoba
 
 ## Kernthesen
 
-1. **Meditation wirkt — aber ist kein Allheilmittel.** Die Forschungslage ist robust: Achtsamkeitsbasierte Interventionen reduzieren Stress, Angst und depressive Rückfälle. Aber was wirkt, hat Effekte — und was Effekte hat, kann auch Nebenwirkungen haben. 58 % amerikanischer Meditierender berichten von unerwünschten Erfahrungen.
+1. **Meditation wirkt — aber ist kein Allheilmittel.** Die Forschungslage ist robust: Achtsamkeitsbasierte Interventionen reduzieren Stress, Angst und depressive Rückfälle. Aber was wirkt, hat Effekte — und was Effekte hat, kann auch Nebenwirkungen haben. In Befragungen berichtet rund die Hälfte der Meditierenden von unerwünschten Erfahrungen (Goldberg u. a. 2021); die „58 %“, die Scobel nennt, stammen aus einer Kursstudie mit 96 Teilnehmenden.
 
 2. **Das Selbst ist formbarer als wir denken.** Langzeit-Meditierende zeigen messbar fluidere Ichgrenzen, stärkere kognitive Flexibilität und veränderte Schmerzverarbeitung. Die Erfahrung, kein klar abgegrenztes Selbst zu sein, ist keine Psychose — sie ist reproduzierbar und korreliert mit erhöhter Empathie.
 
