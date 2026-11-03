@@ -20,5 +20,6 @@ verhindern, dass dieselbe Note zweimal kommt.
 
 ## Die Wahl
 
+- 2026-11-03 · [[Inon und Abu Sarah - The Future is Peace]] — Heute wählt Amerika, und den ganzen Tag wird gezählt, wer gewinnt. Maoz Inon und Aziz Abu Sarah haben im selben Krieg die Eltern und den Bruder verloren und weigern sich trotzdem, sich auf eine Seite zu stellen. Naiv, sagen sie, sind die, die noch an den Krieg glauben.
 - 2026-10-25 · [[Raul Krauthausen — Teilgabe statt Teilhabe]] — Vor einer Woche stand hier Simone Weils Aufmerksamkeit, die nichts für sich will. Raúl Krauthausen stellt die unbequeme Frage daneben, wer eigentlich großzügig sein darf, denn wer schenkt, kann auch zurücknehmen.
 - 2026-10-19 · [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]] — Diese Woche ging es bei uns viel um Verrohung. Simone Weil hat früher als die meisten gesehen, wie Gewalt einen Menschen in ein Ding verwandelt, und sie setzt dagegen etwas sehr Kleines: eine Aufmerksamkeit, die nichts für sich will.
