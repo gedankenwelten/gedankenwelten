@@ -99,11 +99,6 @@
    "aufrufe": 9
   },
   {
-   "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-   "leser": 8,
-   "aufrufe": 8
-  },
-  {
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
    "leser": 7,
    "aufrufe": 9
@@ -135,6 +130,11 @@
   },
   {
    "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+   "leser": 7,
+   "aufrufe": 7
+  },
+  {
+   "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
    "leser": 7,
    "aufrufe": 7
   },
@@ -310,13 +310,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 41,
-     "aufrufe": 46
+     "leser": 40,
+     "aufrufe": 45
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 19,
-     "aufrufe": 21
+     "leser": 18,
+     "aufrufe": 20
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -330,8 +330,8 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 8,
-     "aufrufe": 9
+     "leser": 7,
+     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
@@ -375,11 +375,6 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 3,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 3,
      "aufrufe": 4
     },
@@ -490,6 +485,11 @@
     },
     {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 2,
      "aufrufe": 2
     },
@@ -709,11 +709,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 7,
      "aufrufe": 9
@@ -745,6 +740,11 @@
     },
     {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 7,
      "aufrufe": 7
     },
@@ -1599,11 +1599,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 6,
      "aufrufe": 6
@@ -1630,6 +1625,11 @@
     },
     {
      "pfad": "/DenkerVita/Anke-Myrrhe",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 5,
      "aufrufe": 5
     },

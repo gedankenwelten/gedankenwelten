@@ -37,7 +37,7 @@ raetsel: "Die Stille heilt. Manchmal öffnet sie eine Tür, hinter der niemand a
 Quelle: [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U) (YouTube-Kanal *scobel*, 21.05.2026)
 
 > [!info] Wer spricht?
-> **Gert Scobel** (*1959, Aachen*) — Philosoph, Journalist und Moderator. Studium der Philosophie und katholischen Theologie an der Jesuiten-Hochschule St. Georgen in Frankfurt und in Berkeley (M.A.). Moderierte von 1995 bis 2007 die 3sat-*Kulturzeit* und startete 2008 bei 3sat die Sendung *scobel*; dieses Video stammt von seinem gleichnamigen YouTube-Kanal. Grimme-Preis 2005, Grimme Online Award 2022 für den Kanal. Honorarprofessor für Philosophie und Interdisziplinarität an der Hochschule Bonn-Rhein-Sieg. Meditiert seit etwa vierzig Jahren.
+> **Gert Scobel** (*1959, Aachen*) — Philosoph, Journalist und Moderator. Studium der Philosophie und katholischen Theologie an der Jesuiten-Hochschule St. Georgen in Frankfurt und in Berkeley (M.A.). Moderierte von 1995 bis 2007 die 3sat-*Kulturzeit* und startete 2008 bei 3sat die Sendung *scobel*; dieses Video stammt von seinem gleichnamigen YouTube-Kanal. Grimme-Preis 2005, Grimme Online Award 2022 (Publikumspreis) für das YouTube-Format von *scobel*. Honorarprofessor für Philosophie und Interdisziplinarität an der Hochschule Bonn-Rhein-Sieg. Meditiert seit etwa vierzig Jahren.
 >
 > Seine intellektuelle Position ist die eines *kritischen Vermittlers*: Er nimmt neurowissenschaftliche Evidenz ernst, markiert aber ebenso klar ihre Grenzen. Weder Szientismus noch spirituelle Naivität — sondern epistemische Demut.
 >
