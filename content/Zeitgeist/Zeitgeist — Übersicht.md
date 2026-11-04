@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*359 Notes — automatisch generiert · nach Thema sortiert*
+*360 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -74,6 +74,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott — Zur Gegenmacht]] — Die Regierung hat nur 27 Prozent der Menschen im Land hinter sich, rechnet Arne Semsrott vor. Er sucht die versteckten Mehrheiten – und eine Gegenmacht, die längst da ist.
 - [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] — Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
 - [[Zeitgeist/aspekte — Warum niemand die Nazis aufhielt|aspekte — Warum niemand die Nazis aufhielt]] — Wie eine Splitterpartei legal eine Republik zerlegte — und warum Skandale sie nicht aufhielten. Eine Reise zu den steinernen Zeugen, am Gedenktag des 20. Juli.
+- [[Zeitgeist/auslandsjournal — Ausgetrumpt|Ausgetrumpt?! — Der Morgen nach den Midterms]] — Ein Ausrufezeichen und ein Fragezeichen: Am Morgen nach dem demokratischen Erdrutsch fragen drei ZDF-Korrespondenten, was eine Abwahl ist, solange keiner weiß, wer sie erntet.
 - [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]] — Solidarität lässt sich nicht einfordern, nur üben. Barbara Prainsack zeigt, wann sie giftig wird, warum Nullsummendenken sie aushöhlt und wie Institutionen gebaut sein müssten, die niemanden demütigen.
 - [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Einer floh vor den Nazis, einer wich ihnen aus, einer war einer: ein Gespräch über den Weg hinein, den Weg heraus und darüber, warum Argumente dabei abperlen wie an Teflon.
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN]] — Zuhören mit zwei Ohren, dem eigenen und dem des anderen. Bernhard Pörksen und Maja Göpel suchen nach Wegen, Debatten abzukühlen, und nennen Anstand eine demokratische Grundtugend.

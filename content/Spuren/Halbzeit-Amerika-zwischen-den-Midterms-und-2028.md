@@ -128,6 +128,7 @@ Keine These, aber feste Stellen, an denen hingesehen wird. Jede gilt für **beid
 | **Bis zur Übergabe** | Was beschließen die alten Mehrheiten noch? | Gesetze, Haushalt und Bestätigungen im Senat vor dem 3. Januar; Begnadigungen, Entlassungen, Verfügungen |
 | **Bei der Übergabe** | Tritt der Kongress am 3. Januar 2027 in der gewählten Zusammensetzung zusammen? | Vereidigung im Haus durch den neu gewählten Speaker, im Senat durch Vizepräsident Vance |
 | **Danach** | Was tut der neue Kongress, und wie antwortet die Regierung? | Vorladungen, Anhörungen unter Eid, Haushaltskonflikte, Personal-Bestätigungen im Senat; auf der anderen Seite Verweigerung von Akten, Exekutivprivileg, Begnadigungen, Entlassungen |
+| **Quer dazu: nach außen** | Sucht ein Präsident, der im Inneren gebremst wird, seine Siege in der Außenpolitik? (Theveßens These vom Morgen nach der Wahl, → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Ohnmacht im East Room\|Ausgetrumpt]]) | Eskalation oder Verhandlung im Iran-Krieg, neue Militärschläge, Kurs gegenüber Ukraine und Russland; der G20-Gipfel im Dezember im Trump National Doral, zu dem Putin eingeladen ist (Zusage offen, [Guardian](https://www.theguardian.com/us-news/2026/sep/23/trump-putin-g20-summit-miami)). Auf der anderen Seite: War-Powers-Resolutionen und Haushaltsauflagen des neuen Kongresses. Gegenprobe: Bleibt die Außenpolitik in den ersten Monaten ruhig, trägt die These nicht |
 
 ## Stationen
 
