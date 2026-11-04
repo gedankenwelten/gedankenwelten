@@ -66,7 +66,7 @@ Quelle: [Fortschritt NEU DENKEN mit Andreas Reckwitz](https://www.youtube.com/wa
 >
 > → [[DenkerVita/Andreas Reckwitz|DenkerVita]]
 >
-> **Maja Göpel** (*1976, Bielefeld*) — Politökonomin und Transformationsforscherin, Mitgründerin von Scientists for Future, Autorin von *Unsere Welt neu denken*. Sie führt hier kein Interview, sondern denkt mit: Ihre Einwürfe zur Ungleichheit und zur politischen Karriere des Resilienzbegriffs verschieben das Gespräch mehrfach.
+> **Maja Göpel** (*1976*) — Politökonomin und Transformationsforscherin, Mitgründerin von Scientists for Future, Autorin von *Unsere Welt neu denken*. Sie führt hier kein Interview, sondern denkt mit: Ihre Einwürfe zur Ungleichheit und zur politischen Karriere des Resilienzbegriffs verschieben das Gespräch mehrfach.
 >
 > → [[DenkerVita/Maja Goepel|DenkerVita]]
 

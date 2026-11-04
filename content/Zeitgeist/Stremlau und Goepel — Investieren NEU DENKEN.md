@@ -27,7 +27,7 @@ Quelle: [Investieren NEU DENKEN mit Silke Stremlau](https://www.youtube.com/watc
 > [!info] Wer spricht?
 > **Silke Stremlau** — Geschäftsführerin von Finance for Transition (F4T), Pionierin der ESG-Bewegung im deutschsprachigen Raum. Über 30 Jahre Erfahrung an der Schnittstelle von Finanzmarkt und Nachhaltigkeit: von imug Consulting (ESG-Bewertungsinfrastruktur, 2000–2015) über die Hannoversche Kassen (Vorstand, 2018–2023) bis zur Vorsitzenden des Sustainable Finance-Beirats der Bundesregierung (2019–2025). Kernthese: Geld ist niemals neutral — Kapitalallokation ist die entscheidende gesellschaftliche Gestaltungsmacht.
 >
-> **Maja Göpel** als Gastgeberin — Politikwissenschaftlerin, Transformationsforscherin und Autorin von *Unsere Welt neu denken*. Beide sind hier gleichwertige Gesprächspartnerinnen — kein klassisches Interview-Gefälle, sondern ein Dialog auf Augenhöhe zweier Denkerinnen mit sehr ähnlichen Systemdiagnosen.
+> **Maja Göpel** als Gastgeberin — Politökonomin, Transformationsforscherin und Autorin von *Unsere Welt neu denken*. Beide sind hier gleichwertige Gesprächspartnerinnen — kein klassisches Interview-Gefälle, sondern ein Dialog auf Augenhöhe zweier Denkerinnen mit sehr ähnlichen Systemdiagnosen.
 >
 > → [[DenkerVita/Silke Stremlau|DenkerVita Silke Stremlau]] · [[DenkerVita/Maja Goepel|DenkerVita Maja Göpel]]
 

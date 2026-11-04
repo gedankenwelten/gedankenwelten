@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
 
-> → *4 weitere in* [[Geistesblitz]]
+> → *3 weitere in* [[Geistesblitz]]
 
 ### Kultur
 
@@ -130,7 +130,7 @@ Die Gedankenwelten (luc)
 >
 > Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
-> → *18 weitere in* [[Panorama]]
+> → *17 weitere in* [[Panorama]]
 
 ### Spuren
 
