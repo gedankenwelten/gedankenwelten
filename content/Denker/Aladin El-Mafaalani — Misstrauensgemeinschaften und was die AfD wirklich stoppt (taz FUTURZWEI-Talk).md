@@ -421,3 +421,7 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Der Hausschlüssel beim fremden Nachbarn, als Reise erzählt: Zwei Radfahrer fragen sich vom Allgäu bis Bozen ihre Quartiere zusammen, und jedes Mal macht jemand die Tür auf, eine Abstellkammer in Reutte, ein Jugendzentrum am Brenner. Das Vertrauen im Nahraum, das die Umfragen intakt zeigen, ist hier im Bild zu sehen, als Anekdote, nicht als Messung.
 
+
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Liefern, sonst implodiert die Wut|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Am Morgen nach den US-Midterms 2026 hoffen Theveßen und Röller, dass eine Wut ohne Ergebnis implodiert. Theveßen sagt aber selbst, viele Republikaner seien eher zu Hause geblieben als zurückgekehrt. Damit wird El-Mafaalanis These, Misstrauensgemeinschaften entzauberten sich nicht, zum ersten Mal an Amerika geprüft.

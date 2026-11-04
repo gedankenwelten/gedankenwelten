@@ -534,6 +534,18 @@ tags:
 | **Spur** | [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028]] |
 | **Produktion** | BosePark Productions im Auftrag des ZDF auslandsjournal |
 
+## ZDF auslandsjournal — Der Trump Effekt #80: Midterms – ausgetrumpt?! (04.11.2026, live)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Midterms – ausgetrumpt?! \| Der Trump Effekt #80 – live](https://www.youtube.com/watch?v=yP_xDblh628) |
+| **Notiz** | [[Zeitgeist/auslandsjournal — Ausgetrumpt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/auslandsjournal_Trump_Effekt_80_Midterms_Transkript.txt` |
+| **Mit** | Katrin Eigendorf (Frankfurt, moderiert), Elmar Theveßen (Washington), Ulf Röller (Brüssel) |
+| **Vorgängerfolge** | [[Zeitgeist/auslandsjournal — Siegen um jeden Preis]] (Folge #79) |
+| **Spur** | [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028]] |
+| **Produktion** | BosePark Productions im Auftrag des ZDF auslandsjournal |
+
 ## DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt (30.08.2026)
 
 | | |

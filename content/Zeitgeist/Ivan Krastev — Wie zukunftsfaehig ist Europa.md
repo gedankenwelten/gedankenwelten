@@ -330,6 +330,10 @@ Blom greift den demografischen Kollaps und die Abwanderung der Jungen aus Osteur
 
 Kowalczuk sieht den Fehler darin, dass Kohl den Osten nach München statt nach Krakau blicken ließ. Krastev zeigt, warum ein solcher Maßstab demütigt: Wer nachahmen soll, akzeptiert die Regeln, aber nicht die Rangordnung.
 
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Liefern, sonst implodiert die Wut|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Röller zieht nach den US-Midterms 2026 dieselbe Lehre für Le Pen und Weidel, die Krastev aus Ungarn zog: Wer einen Rechtspopulisten abwählt, wendet sich nicht automatisch der Mitte zu.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

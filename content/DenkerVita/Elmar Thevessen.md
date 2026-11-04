@@ -71,6 +71,7 @@ Theveßen steht im liberal-demokratischen Spektrum des öffentlich-rechtlichen J
 
 ## Gedankenwelten-Notes
 
+- [[Zeitgeist/auslandsjournal — Ausgetrumpt|Ausgetrumpt?! — Der Morgen nach den Midterms]]
 - [[Zeitgeist/auslandsjournal — Siegen um jeden Preis|Siegen um jeden Preis — Vier Wahlen und die Frage, wer verlieren kann]]
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus|Trump allein zu Haus — Das One-and-Done-Syndrom]]
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]

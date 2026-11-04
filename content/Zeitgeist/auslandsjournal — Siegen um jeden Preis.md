@@ -374,6 +374,10 @@ fest, was vorher erwartet wurde.
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Die Folge danach, live am Morgen nach den Midterms. Röllers Hoffnung auf „das Volk der Wähler“ und seine Frage nach der Zapfsäule haben eine Antwort bekommen; Eigendorf, die hier vor dem Augenblick warnte, spricht dort vom Hoffnungstsunami.
+
 ### → [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028#Ob die Wahl hält|Halbzeit — Amerika zwischen den Midterms und 2028]]
 
 Die Spur hält fest, was vor dem 3. November erwartet wurde, und schaut dann zu, ob der Verlierer verlieren kann. Theveßens Liste der Eingriffe und Röllers Einwand gegen beide Seiten sind dort Fall für Fall am Original geprüft, mit dem Stand der Gerichte.

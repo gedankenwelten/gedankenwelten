@@ -360,6 +360,10 @@ Beide gehen auf Nürnberg zurück: Hier die Frage, mit wem Bonn nach 1945 neu an
 
 Russland als Gegenprobe zur Frage, mit wem eine Demokratie neu anfängt: kein stabilisierendes Beschweigen wie in Bonn, keine Lustration, und ein Terror, der im Misstrauen der Enkel fortlebt.
 
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#An der Zapfsäule oder an den Werten?|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Ein Fall für das gebrochene Versprechen: Theveßen erklärt Trumps Niederlage bei den Midterms 2026 mit denselben Versprechen, die ihn gewählt hatten. Das gebrochene Versprechen spürt man an der Kasse, die Korruption macht es unverzeihlich.
+
 ---
 
 ## Weiterdenken

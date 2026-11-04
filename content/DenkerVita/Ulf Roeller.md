@@ -88,6 +88,7 @@ Zu seinem Handwerk gehört, dass er Vermutungen als Vermutungen kennzeichnet. Se
 
 ## Gedankenwelten-Notes
 
+- [[Zeitgeist/auslandsjournal — Ausgetrumpt]] — Der Trump Effekt #80, live nach den Midterms: Röllers „Sieg der Demokratie“, Europas Wort vom Verrat, die Obama-Koalition, die noch fehlt
 - [[Zeitgeist/auslandsjournal — Siegen um jeden Preis]] — Der Trump Effekt #79: Wahlen in Israel, Brasilien und Serbien, die US-Midterms und die Frage, ob Macht um jeden Preis verteidigt wird
 - [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa]] — Der Trump Effekt #71: die Drohne von Leipzig, hybrider Krieg, Europas Bilanz „noch da“
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus]] — Der Trump Effekt #61: die NATO „innen hohl“, Europas fehlende eigene Kraft, Gesichtswahrung als Motor der Konflikte

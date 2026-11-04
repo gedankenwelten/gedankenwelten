@@ -353,6 +353,10 @@ Lucs Gedanke zeigt den Homo oeconomicus im Alltag: Er rechnet den Vorteil im Mom
 
 Ulf Röller fürchtet, dass „When they go low, we go high“ vergessen wird, wenn der Kulturkampf auch die Demokraten erfasst — eine Probe auf Neimans Asymmetrie der Heuchelei.
 
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Was ein Kongress kann|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Neiman wartete gespannt auf die Midterms. Am Morgen danach nennt Theveßen Mamdani „fast einen Zentristen“ und empfiehlt mit Gina Hinojosa, die Kulturkämpfe zu lassen und Populist „im besten Sinne“ zu sein. Das liegt fast gegenüber ihrer Lesart, nach der Mamdani mit moralischer Sprache und Prinzipientreue gewann.
+
 ---
 
 ## Weiterdenken

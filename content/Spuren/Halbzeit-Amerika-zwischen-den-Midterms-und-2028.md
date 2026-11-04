@@ -506,6 +506,10 @@ allen voran Koschi und das ZDF.
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Ohnmacht im East Room|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Am Morgen nach der Wahl stellt Theveßen eine These für die zweite Hälfte auf: Ein Präsident, der im Inneren Ohnmacht spürt, sucht seine Siege in der Außenpolitik, wo der Kongress ihn kaum bremst. Röller erwartet aus Brüssel keinen neuen Kurs gegenüber der Ukraine.
+
 ### → [[Zeitgeist/auslandsjournal — Siegen um jeden Preis|auslandsjournal — Siegen um jeden Preis]]
 
 Vier Wahlen in einer Woche, Israel, Brasilien, Serbien und die USA, und dieselbe Frage: ob die Verlierer

@@ -330,6 +330,10 @@ Das Panorama zeigt, wie dieses Umfeld vernetzt ist.
 
 Drei ZDF-Korrespondenten legen am 28.10. Israel, Brasilien, Serbien und die USA nebeneinander: Vučić räumt ein, Bolsonaro flieht nach Miami, der Likud ficht arabische Stimmen an; Ulf Röller fragt, gegen wen „Justiz als Waffe“ eigentlich gerichtet ist.
 
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Liefern, sonst implodiert die Wut|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Zur Spur passt, ohne ihr Fall zu sein: Die US-Midterms 2026 nehmen Trump beide Kammern, nicht das Amt. Theveßen sagt selbst, „der Case ist noch nicht gegessen“, und Polens Weg von 2023 bis 2025 zeigt, wie zwei Jahre nach einem Wechsel aussehen können.
+
 ---
 
 ## Quellen

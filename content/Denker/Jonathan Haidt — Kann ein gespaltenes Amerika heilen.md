@@ -362,3 +362,7 @@ Tianas dreigliedrige Analyse — Systemabsurditäten, Schul-Konditionierung, Wah
 
 ### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
 Crockett liefert die Forschung zu Haidts Satz vom Dopamin der Empörung: Empörung zeigen baut den eigenen Ruf auf, im Hirnscan springt das Belohnungssystem an, und online wächst dieser persönliche Nutzen, während der Nutzen für die Gruppe schwindet.
+
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#An der Zapfsäule oder an den Werten?|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Am Morgen nach den Midterms 2026 sagt Theveßen, die Wähler seien gekommen, um abzustrafen, nicht wegen besserer Konzepte. Das ist negative Parteilichkeit, diesmal gegen den Amtsinhaber gewendet. Ob sie in Wut oder in Abscheu wurzelt, entscheidet nach Haidt, ob sie zurückpendeln kann.

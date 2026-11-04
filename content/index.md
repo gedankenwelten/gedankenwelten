@@ -22,6 +22,54 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **04.11.** — [[Zeitgeist/auslandsjournal — Ausgetrumpt|Ausgetrumpt?! — Der Morgen nach den Midterms]]
+>
+> Ein Ausrufezeichen und ein Fragezeichen: Am Morgen nach dem demokratischen Erdrutsch fragen drei ZDF-Korrespondenten, was eine Abwahl ist, solange keiner weiß, wer sie erntet.
+
+> **03.11.** — [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
+>
+> Kipppunkte entscheiden sich, solange offen ist, wohin es kippt. Maja Göpel liest den Kampf gegen „woke“ als Wunsch, wieder blind zu schalten, und nennt es mutig, ehrlich hinzusehen.
+
+> **03.11.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
+>
+> Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
+
+> **02.11.** — [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]]
+>
+> Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
+
+> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
+>
+> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
+
+> → *18 weitere in* [[Zeitgeist]]
+
+### Panorama
+
+> **04.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **03.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> **03.11.** — [[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]
+>
+> Der Scanner fand weniger, als versprochen wurde, das Verhalten mehr, als man dachte, und die Nebenwirkungen kamen spät zur Sprache. Drei offene Fragen zur Meditation und zu dem, was sich an ihr messen lässt.
+
+> **03.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
+>
+> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
+
+> **02.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> → *17 weitere in* [[Panorama]]
+
 ### Spuren
 
 > **04.11.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
@@ -45,30 +93,6 @@ Die Gedankenwelten (luc)
 > Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
 
 > → *8 weitere in* [[Spuren]]
-
-### Zeitgeist
-
-> **03.11.** — [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
->
-> Kipppunkte entscheiden sich, solange offen ist, wohin es kippt. Maja Göpel liest den Kampf gegen „woke“ als Wunsch, wieder blind zu schalten, und nennt es mutig, ehrlich hinzusehen.
-
-> **03.11.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
->
-> Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
-
-> **02.11.** — [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]]
->
-> Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
-
-> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
->
-> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
-
-> **01.11.** — [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
->
-> „Nie wieder Faschismus“ heißt: Es darf ihn nicht wieder geben, nicht: Es wird ihn nicht geben. Andreas Kemper unterscheidet drei Faschismen der Gegenwart: völkisch, klerikal, postfordistisch.
-
-> → *17 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -131,30 +155,6 @@ Die Gedankenwelten (luc)
 > **17.08.** — [[Kultur/Hans Maggi — Kurdistan im Nordirak|Hans Maggi — Kurdistan im Nordirak]]
 >
 > Zwei Wochen mit dem Fahrrad durch eine Region, die im deutschen Kopf als Nachrichtenlage existiert und sonst als nichts — und die ihre Gäste so lange beschenkt, bis das Ablehnen unmöglich wird.
-
-### Panorama
-
-> **03.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **03.11.** — [[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]
->
-> Der Scanner fand weniger, als versprochen wurde, das Verhalten mehr, als man dachte, und die Nebenwirkungen kamen spät zur Sprache. Drei offene Fragen zur Meditation und zu dem, was sich an ihr messen lässt.
-
-> **03.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
->
-> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
-
-> **02.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **02.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
->
-> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
-
-> → *17 weitere in* [[Panorama]]
 
 ### Gedanken
 

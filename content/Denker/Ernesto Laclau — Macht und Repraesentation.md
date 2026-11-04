@@ -198,6 +198,10 @@ Semsrotts Befund — dass ein Großteil der Bevölkerung sich von der Regierung 
 
 Münkler liest dieselbe Einsicht als Warnung: Das Volk existiert nicht vor seiner Führung, also „wer Volk sagt, meint autoritäre Führung“. Er erzählt außerdem, wie Gramscis Hegemoniebegriff, den Laclau und Mouffe für die Linke fruchtbar machten, im Umfeld von Schnellroda zur Strategie des Stellungskriegs wurde.
 
+### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Eine Partei, eigenhändig erschaffen|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
+
+Wie aus verstreuten Forderungen erst durch einen Repräsentanten ein „Wir“ wird, lässt sich am Morgen nach den US-Midterms 2026 beobachten. Theveßen sagt, Trump habe die Demokraten „eigenhändig“ erneuert. Röller sieht „starke Stränge, aber noch keine Einheit“ und wartet auf einen neuen Obama.
+
 ---
 
 ## Weiterdenken
