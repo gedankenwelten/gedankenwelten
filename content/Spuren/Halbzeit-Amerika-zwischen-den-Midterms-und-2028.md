@@ -14,8 +14,8 @@ status: offen
 spur-art: beobachtung
 review-takt: 14-tage
 eroeffnet: 2026-10-29
-aktualisiert: 2026-10-30
-description: "Am 3. November wählt Amerika seinen Kongress neu. Diese Spur stellt keine These auf. Sie schaut zu, wie eine Regierung sich verhält, die verlieren könnte, und was ein Parlament tut, das wieder hinsehen darf."
+aktualisiert: 2026-11-04
+description: "Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf."
 raetsel: "Das Passwort klebte am Schloss. Geöffnet hat trotzdem niemand."
 ---
 
@@ -39,28 +39,32 @@ raetsel: "Das Passwort klebte am Schloss. Geöffnet hat trotzdem niemand."
 > verhalten, am Wahltag, beim Zählen und danach. Verlieren sie eine Kammer, wird sichtbar, was ein Parlament
 > tut, das wieder Akten anfordern und unter Eid befragen darf. Gewinnen sie, wird sichtbar, wie sie das
 > Mandat nutzen. Beides ist offen.
+>
+> **Seit der Wahlnacht:** Die Republikaner haben beide Kammern verloren, deutlicher, als fast alle erwartet
+> hatten. Jetzt zählt der Weg bis zum 3. Januar und was danach kommt.
 
 ---
 
 ## Lagebild
 
-*Stand 29.10.2026, fünf Tage vor der Wahl. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf.*
+*Stand 04.11.2026, der Morgen nach der Wahl. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf.
+Alle Zahlen sind Hochrechnungen der Sender, bestätigt ist noch nichts.*
 
-Die Umfragen sehen die Demokraten vorn, landesweit um gut neun Punkte. Die Frühwahl läuft, und in North
-Carolina haben bis zum 22. Oktober rund 280.000 schwarze Wählerinnen und Wähler abgestimmt, gut 60 Prozent mehr
-als 2022 zum selben Zeitpunkt
-([Washington Examiner nach Daten der Wahlbehörde](https://www.washingtonexaminer.com/news/campaigns/congressional/4776704/black-voters-turnout-north-carolina/)).
+Die Demokraten haben beide Kammern gewonnen. Im Senat zählt NBC 54 Sitze für sie und 44 für die Republikaner;
+sieben Sitze haben die Seite gewechselt, alle zu den Demokraten, darunter Texas, Kansas und Maine. Offen sind
+Alaska und Mississippi. Für das Repräsentantenhaus rechnet NBC mit 258 demokratischen Sitzen, so vielen wie seit
+1993 nicht ([NBC](https://www.nbcnews.com/politics/2026-elections/senate-results) ·
+[NBC Live](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763)).
 
-Gleichzeitig führt die Bundesregierung an mehreren Stellen Streit mit den Wahlbehörden der Bundesstaaten, die
-die Wahl durchführen. In Los Angeles verlangte das Justizministerium, binnen 48 Stunden über 20.000 Namen zu
-prüfen, und klagte, als das County ablehnte. In Alaska klagt es vorsorglich gegen eine Zertifizierung, die
-erst in Wochen ansteht. Beide Male haben die Gerichte die Regierung bisher abgewiesen. Gefragt, ob er das
-Ergebnis anerkenne, sagte Trump am 27. Oktober: *„I will, if they're honest elections.“*
+Trump erkennt das Ergebnis an: *„Yes, sure I'll accept them. Why wouldn't I?“* Die Schuld gibt er den
+Kandidaten, den Iran-Krieg nennt er eine Last für seine Partei, und für die Zeit danach kündigt er Vetos an
+([CBS](https://www.cbsnews.com/live-updates/election-day-2026-midterms/)). Am Wahltag selbst hielten die
+Gerichte die Grenze, die sie vorher gezogen hatten. Die Klage gegen Alaska ist abgewiesen, die Regierung geht in
+Berufung.
 
-Auf der anderen Seite berichtete die New York Times am 28. Oktober, das Team der demokratischen
-Senatskandidatin in Alaska und Mitarbeiter des Senatskomitees der Demokraten hätten Störkandidaten angeworben.
-Beide bestreiten das, und die Hauptzeugin hat die Zeitung inzwischen gebeten, ihre Aussagen zurückzunehmen.
-Auch beim Neuzuschnitt der Wahlkreise mitten im Jahrzehnt haben beide Seiten mitgezogen.
+Bis der neue Kongress am 3. Januar 2027 zusammentritt, regieren die alten republikanischen Mehrheiten weiter.
+Als Nächstes schauen wir darauf, wie Alaska und Mississippi ausgehen und zertifiziert werden und was in diesen
+Wochen noch beschlossen wird.
 
 ---
 
@@ -121,6 +125,7 @@ Keine These, aber feste Stellen, an denen hingesehen wird. Jede gilt für **beid
 | **Beim Zählen** | Wird jede gültige Stimme gezählt? | verworfene Briefstimmen wegen der neuen Regeln; gestoppte Auszählungen; Durchsuchungen von Wahlbehörden |
 | **Bei der Zertifizierung** | Bestätigen die Staaten fristgerecht? | Verweigerungen in Counties oder Staaten über die eigene Frist hinaus; Klagen des Justizministeriums dagegen; Verfahren gegen Wahlbeamte |
 | **Bei der Anerkennung** | Erkennt die unterlegene Seite an? | Wortlaut von Weißem Haus, Parteiführungen und unterlegenen Kandidaten; folgt der Rhetorik eine Handlung? |
+| **Bis zur Übergabe** | Was beschließen die alten Mehrheiten noch? | Gesetze, Haushalt und Bestätigungen im Senat vor dem 3. Januar; Begnadigungen, Entlassungen, Verfügungen |
 | **Bei der Übergabe** | Tritt der Kongress am 3. Januar 2027 in der gewählten Zusammensetzung zusammen? | Vereidigung im Haus durch den neu gewählten Speaker, im Senat durch Vizepräsident Vance |
 | **Danach** | Was tut der neue Kongress, und wie antwortet die Regierung? | Vorladungen, Anhörungen unter Eid, Haushaltskonflikte, Personal-Bestätigungen im Senat; auf der anderen Seite Verweigerung von Akten, Exekutivprivileg, Begnadigungen, Entlassungen |
 
@@ -131,7 +136,7 @@ Keine These, aber feste Stellen, an denen hingesehen wird. Jede gilt für **beid
 | bis 03.11.2026 | Frühwahl und Briefwahl | Beteiligung; Klagen um Wählerlisten |
 | **03.11.2026** | **Wahltag** | Repräsentantenhaus (435), Senat (35), Gouverneure, Volksabstimmungen (u. a. Prop 40) |
 | November | Auszählung, Nachzählungen | knappe Rennen, Gerichtsverfahren |
-| November/Dezember | Zertifizierung in den Staaten, Fristen je nach Landesrecht | Alaska (Klage des Justizministeriums anhängig); Los Angeles (Briefstimmen) |
+| November/Dezember | Zertifizierung in den Staaten, Fristen je nach Landesrecht | Alaska (Klage des Justizministeriums am 01.11. abgewiesen, Berufung); Mississippi (28 Stimmen Abstand in der Wahlnacht); Los Angeles (Supreme Court lässt die Briefstimmen am 02.11. zählen) |
 | **03.01.2027, 12 Uhr** | **Neuer Kongress** | alte Mandate enden; Wahl des Speakers, Vereidigung |
 | 2027 | erste Vorladungen, Anhörungen, Haushalt | ob und wie der Kongress aufsieht |
 | **07.11.2028** | **Präsidentschaftswahl** | Ende der Beobachtung |
@@ -213,8 +218,11 @@ Stimmzettel zu beschlagnahmen ([MS Now](https://www.ms.now/news/white-house-acti
 Der Bericht beruht auf anonymen Quellen; eine Stellungnahme von FBI oder Justizministerium enthält er nicht.
 Elmar Theveßen zählt im ZDF dazu Hausbesuche von Agenten der Ermittlungseinheit HSI in neun Bundesstaaten, die die
 Wahlberechtigung prüfen ([▶ 43:24](https://www.youtube.com/watch?v=iX_qh2O7OuI&t=2604)). Am 21. Oktober hat
-Bundesrichterin Araceli Martínez-Olguín sie weitgehend gestoppt, weil sie wahrscheinlich Wähler einschüchtern und
-gegen den Voting Rights Act verstoßen ([Beschluss](https://www.courtlistener.com/docket/74815064/87/california-nurses-association-v-mullin/) ·
+Bundesrichterin Araceli Martínez-Olguín sie eingeschränkt, weil sie wahrscheinlich Wähler einschüchtern und
+gegen den Voting Rights Act verstoßen: Bis zum Wahlabend durfte HSI niemanden aufsuchen, den die Behörde für
+einen Bürger hält oder halten müsste, und keine Besuche machen, die allein auf Treffern aus Daten der
+Einwanderungsbehörde USCIS beruhen *(korrigiert am 04.11.2026: vorher stand hier „weitgehend gestoppt“, das
+war zu stark)* ([Beschluss](https://www.courtlistener.com/docket/74815064/87/california-nurses-association-v-mullin/) ·
 [AP](https://www.michiganpublic.org/2026-10-22/federal-judge-restricts-dhs-field-operations-looking-for-noncitizen-voters)).
 Schon im Juli 2025 hatten republikanische Wahlleiter in Colorado berichtet, ein Beamter des Heimatschutzministeriums
 habe Zugang zu ihren Wahlgeräten verlangt; sie lehnten ab
@@ -296,29 +304,98 @@ den *„Bazillus“*, der *„in diesem Kulturkampf auch die Demokraten erfasst�
 
 ## Verlauf
 
-### 2026-10-29 — Eröffnung, fünf Tage vor der Wahl
+### 2026-11-04 — Die Wahlnacht: beide Kammern, und weiter als erwartet
 
-**Befund:** Die Bundesregierung streitet vor der Wahl an mindestens vier Orten mit Wahlbehörden der Staaten:
-Los Angeles (20.000 Namen, Klage seit 15.10., Eilantrag am 28.10. abgelehnt, Berufung), Alaska (bedingte Klage
-gegen die Zertifizierung, 22.10.), Nevada (15.903 gemeldet, 185 übrig, laut Staat Staatsbürger) und Fulton County
-(Stimmzettel von 2020 seit Januar beim FBI). Trump knüpft die Anerkennung an *„honest elections“* (27.10.).
-Gegen die Abgeordnete Omar ermittelt die Bundesregierung, gegen den Kandidaten El-Sayed richtet sich der Vorwurf
-der Muslimbruderschaft, den PolitiFact als frei erfunden bewertet. Auf demokratischer Seite: Epstein-Spots,
-von CNN als oft irreführend gezählt, ein unverifizierter Vergewaltigungsvorwurf eine Woche vor der Wahl, und der
-bestrittene Bericht über Störkandidaten in Alaska. Die Umfragen sehen die Demokraten vorn.
+**Befund:** *Senat.* NBC zählt am Morgen danach 54 Sitze für die Demokraten, sieben gewonnen, keiner verloren,
+und 44 für die Republikaner ([NBC](https://www.nbcnews.com/politics/2026-elections/senate-results)). Die Seite
+gewechselt haben Iowa (Josh Turek gegen Ashley Hinson), Kansas (Adam Hamilton gegen Senator Roger Marshall,
+der erste Demokrat dort seit 1932), Texas (James Talarico gegen Ken Paxton, der erste seit 1988), South Carolina
+(Annie Andrews gegen Darline Graham), Ohio (Sherrod Brown gegen Senator Jon Husted), North Carolina (Roy Cooper)
+und Maine (Troy Jackson gegen Susan Collins). Gehalten haben die Demokraten Georgia (Ossoff), Michigan (Abdul
+El-Sayed, der erste muslimische Senator), New Hampshire und Minnesota
+([PBS/AP](https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races) ·
+[CBS](https://www.cbsnews.com/live-updates/election-day-2026-midterms/)). Die Republikaner halten Nebraska gegen
+den Unabhängigen Dan Osborn, Montana gegen den Unabhängigen Seth Bodnar, Louisiana, Florida und Wyoming. Offen
+sind Alaska (Peltola gegen Sullivan, laut NBC *„too early to call“*) und Mississippi, wo Scott Colom kurz vor
+ein Uhr Ostküstenzeit mit 28 Stimmen vor Senatorin Cindy Hyde-Smith lag
+([NBC Live](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763)).
+*Repräsentantenhaus.* CBS und andere Sender sprechen die Mehrheit den Demokraten zu; NBC rechnet mit 258 Sitzen,
+so vielen wie seit 1993 nicht. Hakeem Jeffries soll der erste schwarze Speaker werden, Nancy Pelosi hat sich
+hinter ihn gestellt. *Gouverneure.* In Texas verliert Greg Abbott gegen Gina Hinojosa, in Ohio Vivek Ramaswamy
+gegen Amy Acton, in Iowa gewinnt Rob Sand, in Georgia Keisha Lance Bottoms (CBS). *Kalifornien.* Die
+Milliardärssteuer, Proposition 40, liegt laut AP bei 54 Prozent der ausgezählten Stimmen mit 56 Prozent Nein
+zurück; die Gegenvorlage Prop 42, die Vermögenssteuern ganz verbieten will, führt mit 55 Prozent. Die Gegner
+gaben 316,7 Millionen Dollar aus, Sergey Brin allein 102 Millionen
+([CalMatters](https://calmatters.org/health/2026/11/california-election-2026-prop-40-41-42/)).
+*Stimmung.* Trumps Zustimmung liegt in den frühen Nachwahlbefragungen bei 38 Prozent, auf dem Weg zum tiefsten
+Wert eines Präsidenten bei Midterms. Rund drei Viertel sind mit der Richtung des Landes unzufrieden. Benzin
+kostete am Wahltag im Schnitt 4,15 Dollar je Gallone, so viel wie an keinem Wahltag zuvor (CBS nach AAA).
 
-**Deutung:** Bisher ist es ein Streit vor Gericht und in der Öffentlichkeit. Die Gerichte haben die Regierung in
-den drei entschiedenen Fällen gestoppt (Los Angeles zweimal, die Hausbesuche), darunter mit der Stimme eines von Trump ernannten Richters. Das deckt
-sich mit Koschis Lesart vom 23. Oktober: Die Rechtsgrenzen halten, gefährlich ist die Zeit zwischen Wahl und
-Zertifizierung. Die Klage gegen Alaska ist der erste Fall, in dem die Regierung schon vor der Wahl festlegt, unter
-welchen Bedingungen sie ein Ergebnis anfechten will.
+*Der Wahltag.* In der Nacht davor verpflichtete ein Bundesgericht im Verfahren *NAACP v. Blanche* das
+Justizministerium, keine Beamten mit Festnahmebefugnis als Wahlbeobachter an Wahllokale zu schicken. Vorgesehen
+waren unter anderem Leute von ATF, DEA und Gefängnisbehörde, bei geplanten 1.000 Beobachtern
+([LDF](https://www.naacpldf.org/press-release/naacp-ldf-and-advancement-projects-lawsuit-bars-justice-department-from-deploying-federal-law-enforcement-agents-to-polls-on-election-day/)).
+DHS-Minister Markwayne Mullin sagte am Nachmittag, es gebe *„no reason“* für ICE an Wahllokalen. In Fulton County
+warnte die Wahlbehörde vor SMS, die verlegte Wahllokale meldeten; wer sie schickte, ist unbekannt. North Carolina
+verlängerte an fünf Wahllokalen in vier Counties die Öffnungszeit wegen Unterbrechungen (CBS). Bewaffnete
+Bundesbeamte erschienen nach USA Today nicht an Wahllokalen. Wahlrechtsgruppen meldeten aber Wahlbeobachter des
+Justizministeriums, die Wählern *„unusual questions“* stellten; in Mecklenburg County, North Carolina, sollen zwei
+in Zivil am 2. November Wähler beim Verlassen gebeten haben, ihre Telefone zu zeigen (nach LULAC, über
+[USA Today](https://www.usatoday.com/story/news/politics/elections/2026/11/03/election-day-2026-few-problems-dirty-tricks-or-federal-interventions/92459782007/)).
+*Los Angeles.* Am Abend des 2. November lehnte der Supreme Court ohne vermerkte Gegenstimme ab, Kalifornien das
+Zählen der rund 20.000 Briefwahlstimmen von der Liste des Ministeriums zu verbieten
+([CNBC](https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html)). Für die Zeit nach
+der Wahl kündigte Mullin an: *„we'll be gathering the voting logs“*
+([Democracy Docket](https://www.democracydocket.com/news-alerts/mullin-says-trump-admin-will-comb-voting-logs-to-hunt-for-noncitizens-after-election/)). *Alaska.* Am
+1. November hat Richterin Sharon L. Gleason die Klage der Regierung gegen die Zertifizierung abgewiesen, ohne
+Rechtskraft für die Sache (*without prejudice*); die Regierung hat Berufung eingelegt
+([Docket](https://www.courtlistener.com/docket/75009254/united-states-v-state-of-alaska/)).
 
-**Gegenbeobachtung:** (1) Eine Klage ist ein Rechtsweg, und wer sie verliert, hat das System benutzt, nicht
-gebrochen. Die Regierung begründet ihre Schritte mit dem Schutz der Stimmen von Staatsbürgern, und dass
-Nicht-Staatsbürger nicht wählen dürfen, bestreitet niemand. (2) Der Bericht über die FBI-Sorgen stützt sich auf
-anonyme Quellen. (3) Beim Neuzuschnitt und bei den Störkandidaten waren beide Parteien aktiv; wer die Spur nur
-auf einer Seite liest, liest sie falsch. (4) Unsere Quellen über den Wahlkampf sind überwiegend Trump-kritisch,
-allen voran Koschi und das ZDF.
+*Die Anerkennung.* Trump bei Fox News: *„Yes, sure I'll accept them. Why wouldn't I?“* Er sei *„a little bit
+surprised“*, seine Basis habe *„the candidates“* nicht gemocht, und der Iran-Krieg mit den Energiepreisen habe
+*„an evening that was not that pleasant“* gebracht. Auf Truth Social nannte er Abbott einen *„RINO“*. Zur Zeit
+danach: Sein Veto sei *„impervious“*, *„and after a couple of months of vetoes, they'll call and they'll say,
+'How do we get this stuff done?'“*; zusammenarbeiten könne man *„on immigration, I think“*. Collins, Paxton und
+Abbott haben ihre Niederlage eingeräumt. Hohe Regierungsbeamte sagten CBS, Kriegsrecht oder Druck gegen die
+Zertifizierung würden nicht erwogen, die Ergebnisse würden aber auf *„irregularities“* durchgesehen.
+
+**Nachgemessen** (an „Was erwartet wurde“): Die Richtung haben alle getroffen, das Ausmaß fast niemand.
+Koschis besten Fall, *„53, vielleicht maximal 54“*, haben die Demokraten schon erreicht, zwei Rennen stehen noch
+aus. Trendes Spanne für die Republikaner im Senat, 48 bis 51, ist mit 44 Sitzen unterschritten, und selbst mit
+Alaska und Mississippi kämen sie nur auf 46. Im Repräsentantenhaus hatte RCP Zugewinne *„in the low 20s“*
+erwartet; geschehen ist, was Trende für den Fall beschrieb, dass der Deich bricht: *„you lose seats slowly and
+then all at once“*. Sein Risiko Michigan ist nicht eingetreten, Ohio fiel wie erwartet, Alaska ist offen.
+McLaughlins *„the blue wave hasn't swept them out to sea just yet“* hat die Nacht nicht überstanden. Levin
+(*„at least one chamber“*) und Theveßen (beide Kammern möglich, nie zwei Drittel) lagen richtig,
+Clüver Ashbrooks *„hauchdünne Mehrheiten“* nicht. Herrmanns Ölschock-Desaster bestätigt Trump selbst, wenn er
+den Iran-Krieg und die Energiepreise nennt. Prop 40 lag Ende September mit 48 zu 38 vorn und scheitert.
+*Ob die Wahl hält:* Ausgesetzt wurde nichts (Navidi), eine belegte Einschüchterung durch Bundespersonal fanden
+wir nicht (Staiy, Theveßen), und die Gerichte haben dreimal gegen die Regierung entschieden: zu den
+Wahlbeobachtern, zu Alaska und, im Supreme Court, zu Los Angeles. Navidis Satz, Trump
+werde *auch nach einem demokratischen Sieg* Wahlbetrug behaupten, hat sich bisher nicht bestätigt, aber die
+Durchsicht auf „Unregelmäßigkeiten“, Mullins angekündigte Auswertung der Wählerlisten und die Berufung in
+Alaska stehen noch. Für den Wahltag behält McLaughlin
+recht, der die Warnungen für übertrieben hielt.
+
+**Deutung:** Drei der sieben Stationen sind passiert: vor der Wahl, am Wahltag, beim Zählen bis zum Morgen.
+Offen sind Zertifizierung, Anerkennung im Wortlaut über Wochen, Übergabe und das Danach. Auffällig ist, wie
+Trump die Niederlage erklärt: mit den Kandidaten, nicht mit dem Verfahren. Eine Niederlage in dieser Größe
+lässt sich schwer anfechten, und das macht die knappen Rennen zu den eigentlichen Prüfsteinen. Das knappste
+ist Alaska, genau dort hatte die Regierung schon vor der Wahl festgelegt, unter welchen Bedingungen sie ein
+Ergebnis anfechten will. Ein Satz für die Zeit danach steht schon: Vetos, bis die anderen anrufen. Damit ist
+der Haushalt der Ort, an dem sich die zweite Hälfte entscheidet. Mit einer Ausnahme, die man leicht übersieht: ICE
+ist mit rund 113 Milliarden Dollar aus zwei Abgleichsgesetzen bis September 2029 bezahlt, außerhalb des jährlichen
+Haushalts (→ [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|ICE-Spur]],
+Eintrag 04.11.).
+
+**Gegenbeobachtung:** (1) Alles sind Hochrechnungen und frühe Nachwahlbefragungen; Zahlen ändern sich, und die
+Zustimmung von 38 Prozent ist ein Schätzwert der Nacht. (2) Midterms gehen meist gegen die Partei des
+Präsidenten. Ungewöhnlich ist das Ausmaß, nicht die Richtung. Eine Niederlage ist zuerst eine Niederlage, kein
+Urteil über die Demokratie in die eine oder andere Richtung. (3) Nicht jeder rote Staat fiel: Nebraska,
+Montana, Louisiana und Florida hielten, und beide unabhängigen Kandidaten verloren. (4) Im tiefblauen
+Kalifornien scheitert die Milliardärssteuer. Der Sieg ist eine Abwahl, kein Auftrag für jedes linke Vorhaben.
+(5) Die Sorge der Demokraten vor einem gestohlenen Sieg (Halperin) wurde nie geprüft, weil sie gewannen. Wie
+belastbar die Grenzen sind, zeigt eine Wahl, die knapp ausgeht, nicht diese.
 
 ### 2026-10-30 — Drei konservative Stimmen, vier Tage vor der Wahl
 
@@ -357,6 +434,30 @@ den Begriff Autoritarismus aber bewusst zurück: *„To say the sky has fallen b
 enough to say when you face a much more grave threat“*. Das chronische Problem sei ein Kongress, der *„chooses to
 make itself weak“* (Ezra Klein, 16.01.; Checks & Balances, 20.08.).
 
+### 2026-10-29 — Eröffnung, fünf Tage vor der Wahl
+
+**Befund:** Die Bundesregierung streitet vor der Wahl an mindestens vier Orten mit Wahlbehörden der Staaten:
+Los Angeles (20.000 Namen, Klage seit 15.10., Eilantrag am 28.10. abgelehnt, Berufung), Alaska (bedingte Klage
+gegen die Zertifizierung, 22.10.), Nevada (15.903 gemeldet, 185 übrig, laut Staat Staatsbürger) und Fulton County
+(Stimmzettel von 2020 seit Januar beim FBI). Trump knüpft die Anerkennung an *„honest elections“* (27.10.).
+Gegen die Abgeordnete Omar ermittelt die Bundesregierung, gegen den Kandidaten El-Sayed richtet sich der Vorwurf
+der Muslimbruderschaft, den PolitiFact als frei erfunden bewertet. Auf demokratischer Seite: Epstein-Spots,
+von CNN als oft irreführend gezählt, ein unverifizierter Vergewaltigungsvorwurf eine Woche vor der Wahl, und der
+bestrittene Bericht über Störkandidaten in Alaska. Die Umfragen sehen die Demokraten vorn.
+
+**Deutung:** Bisher ist es ein Streit vor Gericht und in der Öffentlichkeit. Die Gerichte haben die Regierung in
+den drei entschiedenen Fällen gestoppt (Los Angeles zweimal, die Hausbesuche), darunter mit der Stimme eines von Trump ernannten Richters. Das deckt
+sich mit Koschis Lesart vom 23. Oktober: Die Rechtsgrenzen halten, gefährlich ist die Zeit zwischen Wahl und
+Zertifizierung. Die Klage gegen Alaska ist der erste Fall, in dem die Regierung schon vor der Wahl festlegt, unter
+welchen Bedingungen sie ein Ergebnis anfechten will.
+
+**Gegenbeobachtung:** (1) Eine Klage ist ein Rechtsweg, und wer sie verliert, hat das System benutzt, nicht
+gebrochen. Die Regierung begründet ihre Schritte mit dem Schutz der Stimmen von Staatsbürgern, und dass
+Nicht-Staatsbürger nicht wählen dürfen, bestreitet niemand. (2) Der Bericht über die FBI-Sorgen stützt sich auf
+anonyme Quellen. (3) Beim Neuzuschnitt und bei den Störkandidaten waren beide Parteien aktiv; wer die Spur nur
+auf einer Seite liest, liest sie falsch. (4) Unsere Quellen über den Wahlkampf sind überwiegend Trump-kritisch,
+allen voran Koschi und das ZDF.
+
 ---
 
 ## Gleichmut-Spiegel
@@ -377,6 +478,13 @@ make itself weak“* (Ezra Klein, 16.01.; Checks & Balances, 20.08.).
   nicht. *Lassen sich die neuen Regeln mit Daten schwer verteidigen, oder sortiert unser Maßstab ihre Verteidiger
   aus?* Offen. Verteidigt wird die Regierung bei uns vor allem von denen, die sie stellen (Essayli) oder für sie
   werben (Heritage Action).
+- **Nach der Wahl (04.11.).** Eingetreten ist der Fall, vor dem der erste Punkt warnt: Die Demokraten haben
+  gewonnen, und der Schluss „das System hält“ liegt nahe. Belegt ist weniger: Der Wahltag verlief ohne belegte
+  Einschüchterung durch Bundespersonal, die Gerichte haben gehalten, Trump erkennt an. Das sind drei von sieben
+  Stationen. Die zweite Versuchung ist leiser: Unsere Stimmen lagen in der Richtung richtig, also möchte man
+  ihnen jetzt mehr glauben. Das Ausmaß hat aber niemand gesehen, weder Koschi noch Trende. Und diese Nacht
+  haben wir fast nur über CBS, NBC und AP gesehen. Wie die konservativen Stimmen sie lesen, holt der nächste
+  Sweep nach.
 - **Ein Wort, das wir meiden.** „Manipulation“ benennt eine Absicht. Wo die Absicht nicht belegt ist, schreiben
   wir, was geschah: Klage, Liste, Durchsuchung, Werbespot.
 
@@ -444,6 +552,13 @@ sind.
 - Schriftsatz im Verfahren um die Durchsuchung bei Ilhan Omar, 21.10.2026 — [DocumentCloud](https://s3.documentcloud.org/documents/28827722/warrantexecution.pdf)
 - Nevada Secretary of State an DHS, 23.09.2026 — [Democracy Docket](https://www.democracydocket.com/wp-content/uploads/2026/09/voter-roll-letter-to-dhs.pdf)
 
+**Die Wahlnacht (03./04.11.2026)**
+- Senat, Ergebnisse — [NBC](https://www.nbcnews.com/politics/2026-elections/senate-results) · Live-Blogs — [NBC](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763) · [CBS](https://www.cbsnews.com/live-updates/election-day-2026-midterms/) · AP — [PBS](https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races)
+- Proposition 40 — [CalMatters](https://calmatters.org/health/2026/11/california-election-2026-prop-40-41-42/)
+- *NAACP v. Blanche*, Beschluss zu den Wahlbeobachtern — [LDF](https://www.naacpldf.org/press-release/naacp-ldf-and-advancement-projects-lawsuit-bars-justice-department-from-deploying-federal-law-enforcement-agents-to-polls-on-election-day/)
+- Supreme Court zu den Briefstimmen in Los Angeles, 02.11. — [CNBC](https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html) · Wahltag ohne bewaffnete Bundesbeamte — [USA Today](https://www.usatoday.com/story/news/politics/elections/2026/11/03/election-day-2026-few-problems-dirty-tricks-or-federal-interventions/92459782007/) · Mullin zu den Wählerlisten — [Democracy Docket](https://www.democracydocket.com/news-alerts/mullin-says-trump-admin-will-comb-voting-logs-to-hunt-for-noncitizens-after-election/)
+- *United States v. State of Alaska*, Abweisung 01.11. und Berufung — [CourtListener](https://www.courtlistener.com/docket/75009254/united-states-v-state-of-alaska/)
+
 **Recherchen und Berichte**
 - AP zum USB-Stick — [abc30](https://abc30.com/story/justice-department-threatens-california-legal-action-claim-noncitizens-voter-rolls/19938844/) · 9th Circuit — [ABC](https://abcnews.com/Politics/appeals-court-rejects-trump-admins-voting-lawsuit-california/story?id=137586284) · Richter Carter — [MS Now](https://www.ms.now/news/federal-judge-denies-doj-demand-california-mail-ballots)
 - PolitiFact zu den 190.000 — [PolitiFact](https://politifact.com/article/2026/jul/17/mullin-dhs-250000-noncitizen-voters-trump/) · zu El-Sayed — [PolitiFact](https://politifact.com/factchecks/2026/oct/19/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate/)
@@ -480,5 +595,7 @@ sind.
 >   Aufklärung, und ab wann wird sie zur Revanche, die die nächste Revanche vorbereitet?*
 > - Ist der Angriff auf eine Person ein Zeichen, dass einer Partei die Themen fehlen, *oder ist er das Thema
 >   selbst, weil Wähler über Personen leichter urteilen als über Gesetze?*
+> - Eine Niederlage, so groß, dass niemand sie anficht: *Schützt der Abstand die Demokratie, und was wissen wir
+>   dann über die Wahl, die knapp ausgeht?*
 > - Angenommen, am 3. November wird ungehindert gewählt, und am 3. Januar tritt ein Kongress zusammen, dem die
 >   Regierung jede Akte verweigert. *Hat die Wahl dann gehalten?*

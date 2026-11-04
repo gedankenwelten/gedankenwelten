@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 60%
+konfidenz: 55%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-10-11
+aktualisiert: 2026-11-04
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -46,7 +46,7 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 
 ## Die These
 
-> **Stand (Konfidenz 60 %, seit 11.10.2026):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
+> **Stand (Konfidenz 55 %, seit 04.11.2026):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
 > parteiübergreifender Offenlegungsdruck → **partielle** (halbe), stark geschwärzte, verzögerte Freigabe
 > → eine Namensliste *ohne Kontext*, die niemanden schützt und nichts klärt → Aufmerksamkeit verebbt →
 > Rechenschaft stockt. **Nicht** eine einzelne Verschwörung, sondern institutionelle Reibung
@@ -62,6 +62,167 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-11-04 — Das Gericht lässt prüfen, der Kongress wechselt die Hand (Konfidenz 60 % → 55 %)
+
+**Befund:** Zwei der vorregistrierten Gabeln sind gefallen, in entgegengesetzte Richtungen. Die Klagerechts-Gabel
+kippt vorläufig gegen die Spur, die Petitions-Gabel vom 03.11. schwach für sie. Dazwischen liegen ein Ministerium, das
+weiter keinen Sonderermittler will, und eine Wahl, die ab Januar die Vorladungsmacht verschiebt.
+
+1. **Der D.C. Circuit verweigert die Aussetzung.** Am **28.10.** lehnte ein Senat aus Chief Judge Srinivasan und den
+   Richterinnen Pillard und Pan den Antrag des DOJ ab, Sullivans Anordnungen bis zur Berufung auszusetzen. Das
+   Ministerium habe nicht gezeigt, dass es „irreparably harmed by merely initiating review of foreign-language
+   documents“ werde. Eine Herausgabe stehe aber auch nicht unmittelbar bevor. Phangs Antrag, die Berufung mangels
+   Zuständigkeit abzuweisen, ging an den Senat, der in der Sache entscheidet
+   ([Order, Dok. 2200619](https://storage.courtlistener.com/recap/gov.uscourts.cadc.43517/gov.uscourts.cadc.43517.01208902811.0.pdf) ·
+   [Docket 26-5299](https://www.courtlistener.com/docket/74696600/katie-phang-v-todd-blanche/)).
+   Über den Kern, ob außerhalb des Kongresses überhaupt jemand den Transparency Act einklagen kann, ist damit nicht
+   entschieden. Der Antrag des DOJ vom 01.10. ist ein Antrag auf Urteil nach Aktenlage (Rule 12(c), ECF 52), Phang hat
+   für ihre Erwiderung Aufschub beantragt; einen Beschluss Sullivans dazu gibt es bisher nicht
+   ([ECF 56](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.56.0_2.pdf) ·
+   [Docket](https://www.courtlistener.com/docket/73246595/phang-v-blanche/)).
+2. **Das Ministerium sichtet, will sich aber auf nichts festlegen.** In der gemeinsamen Mitteilung vom **02.11.**
+   schreibt das DOJ, es habe „begun its review of records that were previously tagged as foreign language documents“.
+   Es schlägt einen nächsten Bericht in 30 Tagen vor und bittet das Gericht, keine Frist zu setzen. Fragen nach Umfang
+   und Personal lehnt es ab, den Vorwurf früherer Nichtbefolgung weist es zurück. Phang beantragt Abschluss der Sichtung
+   bis **27.11.**, laufende Herausgabe und wöchentliche Berichte
+   ([Joint Notice, ECF 62](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.62.0_1.pdf)).
+   Die geschwärzten Fassungen der handschriftlichen FBI-Notizen lieferte das DOJ am 16.10. in Sullivans Kammer, mit
+   dem Zusatz, das sei keine repräsentative Probe für eine Bearbeitung „on a larger scale“
+   ([Notice of Compliance, ECF 59](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.59.0.pdf)).
+3. **New Mexico: Das DOJ beantragt Abweisung.** Am **12.10.** antwortete das Ministerium auf die Klage des Staates mit
+   einem Antrag auf Abweisung, hilfsweise auf Urteil ohne Hauptverfahren. Die Weitergabe zwischen
+   Strafverfolgungsbehörden sei Ermessen und gerichtlich nicht überprüfbar. In der Sache würde die Herausgabe gegen den
+   Transparency Act selbst, gegen die Schutzanordnungen aus den Verfahren gegen Epstein und Maxwell und gegen den
+   Privacy Act verstoßen und Ermittlungen stören
+   ([Memorandum, ECF 8-1](https://storage.courtlistener.com/recap/gov.uscourts.dcd.295266/gov.uscourts.dcd.295266.8.1.pdf)).
+   New Mexico muss bis **09.11.** erwidern (Richter Amir H. Ali,
+   [Docket](https://www.courtlistener.com/docket/73721948/state-of-new-mexico-v-us-department-of-justice/)).
+4. **New Mexico verklagt Epsteins Anwalt und Buchhalter.** Am **21.10.** reichte Generalstaatsanwalt Raúl Torrez
+   Zivilklage gegen Darren Indyke und Richard Kahn ein, die Testamentsvollstrecker des Nachlasses. Sie sollen den
+   Menschenhandel mitfinanziert und verdeckt haben, auch auf der Zorro Ranch. Es ist nach Angabe des Staates die erste
+   Maßnahme einer Strafverfolgungsbehörde gegen die beiden, gestützt auf den Trafficking Victims Protection Act und das
+   Racketeering-Gesetz des Staates. Der Staat will Zahlungen aus dem Nachlass (über 107 Mio. Dollar) an sie stoppen
+   ([NM DOJ](https://nmdoj.gov/press-release/attorney-general-torrez-sues-epstein-associates-indyke-and-kahn-to-block-estate-payments-and-recover-damages-for-survivors/)).
+   Ihr Anwalt weist die Vorwürfe „emphatically“ zurück, das DOJ wollte sich zu einer Bundesermittlung nicht äußern
+   ([AP](https://apnews.com/article/epstein-new-mexico-ranch-lawsuit-7b00ad7f809c585a82c4cd9eb4c81467)). Nach einem
+   Bericht des Wall Street Journal, den CNBC wiedergibt, ermittelt die Bundesanwaltschaft in Manhattan (SDNY) seit
+   September gegen beide ([CNBC](https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html)).
+   Strafanklagen gibt es in New Mexico weiter nicht.
+5. **Die Kommission schrumpft auf drei.** Die Republikanerin Andrea Reeb trat am 15.10. aus dem Parlament und der
+   Kommission zurück, nachdem ein Bundesrichter ihr Doppelamt als Abgeordnete und Sonderstaatsanwältin im Fall Baldwin
+   für verfassungswidrig erklärt hatte. Speaker Martínez besetzt den Sitz nicht nach; der Abschlussbericht soll „in
+   December“ kommen ([Source NM via Yahoo](https://www.yahoo.com/news/politics/articles/mexico-house-speaker-mart-nez-194533378.html) ·
+   [KSFR](https://www.ksfr.org/ksfr-daily-news-update/2026-10-27/poll-finds-pnm-takeover-unpopular-epstein-commission-seat-will-remain-vacant-more)).
+6. **Black: keine Anklage, keine Entscheidung.** Eine Anklage wegen Contempt ist nicht öffentlich. Blacks Klage gegen
+   den Ausschuss (1:26-cv-03084, Richterin Kollar-Kotelly) zeigt seit dem 09.09. keinen neuen Eintrag
+   ([Docket-Feed](https://www.courtlistener.com/docket/74743039/feed/)). Eine Zivilklage einer Jane Doe, die Black
+   Vergewaltigung vorwarf, wurde Mitte Oktober auf ihren eigenen Antrag endgültig abgewiesen. Sie schrieb, sie könne
+   das Verfahren aus medizinischen Gründen nicht fortführen, und das sei „not a concession concerning the truth of my
+   allegations“ ([Guardian via AOL](https://www.aol.com/articles/case-against-leon-black-dismissed-184547000.html)).
+   Am 15.10. brachten Senatorin Warren und der Abgeordnete Garcia, unterstützt von Massie, einen *Epstein Wall Street
+   Records Act* ein, der Finanzaufsichten zur Prüfung „Epstein-connected“ Firmen verpflichten soll
+   ([Guardian](https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections)).
+7. **Die Petition bleibt bei 216.** Laut Clerk-Liste trägt die Discharge Petition Nr. 27 heute **216** Unterschriften,
+   die letzte vom **16.09.**, darunter vier Republikaner (Massie, Mace, Norman, Fitzpatrick)
+   ([House Clerk](https://clerk.house.gov/DischargePetition/2026083127)). Die 218 wurden vor der Wahl nicht erreicht.
+   Zwei der vier Republikaner kehren im Januar nicht zurück: Massie verlor im Mai die Vorwahl gegen den von Trump
+   ausgesuchten Ed Gallrein ([AP](https://apnews.com/article/03a658b1a45593ad04ebf6283a3fdb47)), Fitzpatrick verlor
+   gestern PA-1 an Bob Harvie, 47,3 zu 52,7 % ([WHYY](https://whyy.org/articles/election-2026-pennsylvania-1st-district-bucks-fitzpatrick-harvie/)).
+   Das Haus tagt ab morgen wieder (Clerk). Mit der endgültigen Vertagung eines Kongresses enden alle anhängigen
+   Discharge Petitions ([CRS 97-552, Fassung 2015](https://www.everycrsreport.com/files/20151014_97-552_f71f988cbd8f51889844ca9d2b8f8661b2993fee.html)).
+8. **Kein Sonderermittler.** Am 26.10. legten die Demokraten im Rechtsausschuss einen 52-seitigen Bericht vor. Er stellt
+   die Aussagen von elf Frauen zusammen, fünf davon werfen Trump Vergewaltigung oder sexuelle Übergriffe in Epsteins
+   Gegenwart vor. Neu ist die ausführliche Darstellung der Schweizerin Beatrice Keul (Plaza Hotel, November 1993),
+   die übrigen Vorwürfe waren schon öffentlich
+   ([Bericht](https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-10.hjc-dems-staff-report-epstein-and-trump.pdf)).
+   TIME konnte Keuls Angaben nicht unabhängig prüfen, das Weiße Haus bestreitet sie
+   ([TIME](https://time.com/article/2026/10/26/house-democrats-unveil-new-details-from-trump-accuser/)). Raskin und
+   eine Gruppe Überlebender, darunter Angehörige von Virginia Giuffre, forderten einen unabhängigen Sonderermittler.
+   Das DOJ lehnte am 27.10. ab: „The Department of Justice will not be appointing a special counsel.“ Maurene Comey
+   habe die SDNY-Ermittlung geleitet und keine Belege für weitere Anklagen gefunden
+   ([NewsNation](https://newsnationnow.com/politics/doj-special-counsel-jeffrey-epstein-network/)). Am Tag des
+   Berichts hatte ein Bundesrichter Comeys Entlassung im Juli 2025 für rechtswidrig erklärt; das DOJ will in Berufung
+   gehen ([CBS](https://www.cbsnews.com/news/maurene-comey-lawsuit-firing-justice-department-ruling/)).
+9. **Als geheim eingestufte Unterlagen, die es nicht geben sollte.** CBS fand im veröffentlichten Bestand eine Liste
+   vom 25.03.2025: „16 Epstein items to ODAG“, darunter „CDs with classified materials (x2)“, und eine E-Mail, nach der
+   drei Dokumente „remain classified“. Blanche hatte gesagt, „no files are being withheld or redacted on that basis“.
+   Was eingestuft war, ist offen. Dazu Lücken in der Nummerierung: 66 von rund 4.500 Scheckbildern fehlen, in einem
+   Abschnitt summieren sich die Lücken auf 1,2 Mio. Seiten. Das DOJ erklärt Lücken mit Duplikaten, antwortete CBS aber
+   nicht ([CBS, 28.10.](https://www.cbsnews.com/news/epstein-files-classified-material-missing-documents-suggest/)).
+10. **Die Botstein-Mail wackelt.** Das DOJ bestätigte den Eingang des Briefs von Raskin und Dean und prüfe ihn
+    „carefully“ ([MyTwinTiers](https://www.mytwintiers.com/news-cat/bard-college-accepts-immediate-resignation-of-longtime-leader-leon-botstein/)).
+    Eine vom Bard-Kuratorium beauftragte Forensik (FTI, 19.10.) sieht eine „strong substantive basis for questioning
+    the authenticity“ der Mail: Sie liegt nur als Zitat in einer Nachricht Epsteins an sich selbst vor, das Original
+    fehlt, auf Bards Servern war sie bis Juli 2017 nicht. Fälschung sei aber nicht erwiesen. Raskins Büro hält dagegen,
+    es sei Botsteins Dienstadresse und man stütze sich auf weitere Mails
+    ([Inside Higher Ed](https://www.insidehighered.com/news/governance/executive-leadership/2026/10/27/epstein-email-prompted-botstein-resign-suspicious)).
+11. **Ein Gericht schützt die Berichterstattung.** Am 31.10. wies Richter Darrin Gayles in Miami Trumps Klage gegen das
+    Wall Street Journal wegen des Geburtstagsbriefs endgültig ab: keine plausible „actual malice“, die Klage versuche
+    „to manufacture flaws with the investigation“ ([Urteil, ECF 80](https://storage.courtlistener.com/recap/gov.uscourts.flsd.693830/gov.uscourts.flsd.693830.80.0.pdf)).
+    Trump will Berufung einlegen ([CNBC](https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html)).
+12. **Europa ermittelt weiter, ohne Anklage.** Am 30.10. bestätigte Police Scotland „active enquiries … at a very early
+    stage“ zu Epsteins und Maxwells Aufenthalten in Balmoral; die Ermittlung der Thames Valley Police gegen Andrew
+    Mountbatten-Windsor läuft weiter ([CNN](https://www.cnn.com/2026/10/30/europe/police-balmoral-epstein-andrew-mountbatten-windsor-intl)).
+13. **Nach der Wahl.** Garcia, voraussichtlich Vorsitzender im Oversight-Ausschuss, kündigte am Wahlabend an, gegen
+    „the cover-up of the Epstein files“ vorzugehen, und schrieb: „Lawyer up“
+    ([SFGate](https://www.sfgate.com/politics/article/democrat-congress-control-trump-investigations-22510703.php)).
+    Er will öffentliche Anhörungen statt der bisherigen nichtöffentlichen Befragungen und Blanche vorladen. Raskin,
+    voraussichtlich Vorsitzender im Rechtsausschuss, nennt drei Epstein-Stränge: Epstein als möglicher unregistrierter
+    Agent fremder Staaten, Maxwells Haftbedingungen, seine Hochschulkontakte. Jeffries stellt für den ersten Tag
+    Gesundheitskosten und Preise voran, Epstein nennt er dort nicht
+    ([ABC](https://abc7chicago.com/story/democrats-take-house-heres-what-plan-investigate-legislative-agenda/20014347/)).
+    Massie schrieb, die Republikaner hätten verloren, weil sie Versprechen gebrochen hätten, darunter „prosecute sex
+    traffickers“ ([Hindustan Times](https://www.hindustantimes.com/world-news/us-news/thomas-massie-blames-republicans-for-midterm-outcome-says-party-betrayed-its-promises-101793774451543.html)).
+    Das Weiße Haus bleibt bei „fully exonerated“ (TIME, s. o.). Comers Ausschuss verweist auf 19 Befragungen, rund
+    65.000 veröffentlichte Seiten und an das DOJ weitergeleitete Vorwürfe
+    ([Bloomberg via Spokesman-Review](https://www.spokesman.com/stories/2026/oct/25/epstein-haunts-gop-in-midterms-as-democrats-vow-fr/)).
+
+**Deutung:** Am 11.10. war die Klagerechts-Gabel so registriert: Bleibt die Klage bestehen und beginnt die Sichtung
+der fremdsprachigen Akten → Schwächung. Beides ist eingetreten. Das Berufungsgericht hat die Sichtung nicht gestoppt,
+und das Ministerium schreibt selbst, dass es sichtet. Vorläufig ist das, weil über das Klagerecht erst in der Sache
+entschieden wird und noch kein einziges Dokument herausgegeben ist. Aber die Gabel ist gefallen, und sie fiel gegen die
+Spur. Die Petitions-Gabel vom 03.11. fiel wie vorhergesagt: 216, nicht 218. Registriert war das als Stärkung, „aber
+schwach“, und mehr ist es nicht.
+
+Was sich verdichtet, ist das Muster vom Oktober: Das Ministerium gibt nach, wo ein Gericht es zwingt, und wehrt sich
+überall sonst. Gegen New Mexico beruft es sich auf Ermessen, das kein Gericht prüfen dürfe. Einen Sonderermittler lehnt
+es binnen eines Tages ab. Zu den Geheimakten schweigt es. Gegen Sullivan will es keine Frist. Das ist dieselbe
+Schutzhaltung über das *Verfahren*, die der letzte Eintrag beschrieben hat, nicht mehr und nicht weniger.
+
+Die Wahl rechne ich nicht ein. Ab Januar haben die Demokraten Vorladungsmacht in beiden Kammern, aber eine
+angekündigte Vorladung ist eine Absicht, keine Rechenschaft. Bewegt hat sich dagegen etwas am Rand des Bildes, das die
+Spur bisher kaum beachtet hat: New Mexico geht nicht mehr nur gegen das Ministerium vor, sondern gegen zwei Männer, die
+Epsteins Geld verwalteten, und nach WSJ ermittelt auch das SDNY gegen sie. Das sind Verfahren gegen Genannte. Mächtige
+im Sinne der These sind es nicht, sondern Gehilfen. Darum fünf Punkte und nicht zehn.
+
+**Vorab registriert für den nächsten Sweep.** Die Gabeln vom 31.12. (Jurisdiktion, Rom, Kommission, Pirro) bleiben
+unverändert. Die Petitions-Gabel ist erledigt. Neu:
+- **31.12.2026, die Herausgabe-Gabel.** Gibt das DOJ bis Jahresende erste fremdsprachige Dokumente heraus, freiwillig
+  oder nach einer Frist Sullivans → **Schwächung**. Bleibt es bei Sichtung ohne Herausgabe → Stärkung, aber schwach,
+  solange das Berufungsverfahren läuft.
+- **30.06.2027, die Mehrheits-Gabel.** Mit eigener Mehrheit braucht niemand mehr eine Discharge Petition. Bringt das
+  Haus des 120. Kongresses bis Ende Juni 2027 einen Transparency Act II zur Abstimmung, oder erzwingt eine Vorladung
+  die Herausgabe zurückgehaltener Akten → **Schwächung**. Passiert beides nicht, obwohl die Mehrheit es könnte →
+  **Stärkung**: Dann war der Druck vor allem Wahlkampf, und der Schutz liegt nicht nur bei einer Partei.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Die stärkste Gegenbewegung kam aus der Justiz, nicht aus der Politik.
+Ein Berufungssenat, Gayles in Miami, Furman im Fall Comey: In drei Wochen haben drei Gerichte gegen das DOJ oder gegen
+den Präsidenten entschieden. Gewaltenteilung, die hält, ist das Gegenteil eines Elitenschilds. **(2)** Die
+Botstein-Mail, die diese Spur am 11.10. als Vorwurf, nicht als Befund notiert hat, ist forensisch fraglich geworden.
+Das Gutachten hat Bard bestellt, die Partei mit dem größten Interesse an diesem Ergebnis, und es schließt eine Fälschung
+nicht ab. Trotzdem ist es der erste Fall in dieser Spur, in dem ein öffentlich genannter Name aus den Akten technisch
+ins Wanken gerät: *Erwähnung ≠ Beteiligung*, hier sogar Zitat ≠ Urheberschaft. **(3)** Die Argumente des DOJ gegen New
+Mexico sind nicht erfunden. Schutzanordnungen aus zwei Strafverfahren und der Privacy Act sind geltendes Recht, und ein
+Antrag auf „alle“ sechs Millionen Seiten ist breit. Das spricht für die Bedingung „legitimer Opferschutz“. Dagegen steht
+der Befund von MS NOW, dass das DOJ in denselben Akten Telefon-, Sozialversicherungs- und Kontonummern von Opfern
+offenlegte und zugleich Angaben zu Beschuldigten schwärzte
+([MS NOW](https://www.ms.now/news/midterm-election-epstein-survivors-next-congress)). Wer sich auf Opferschutz beruft,
+muss ihn auch leisten. **(4)** Der Bericht der Demokraten vom 26.10. erschien acht Tage vor der Wahl, die meisten
+Vorwürfe darin waren schon öffentlich, Keuls Aussage ist unbestätigt. Er ist ein Antrag auf Ermittlung, kein
+Ermittlungsergebnis, und gehört nicht in die Waagschale der These. **(5)** Die CBS-Funde sind Lücken und eine
+Inventarzeile, kein Inhalt. Eingestufte Unterlagen können Unbeteiligte betreffen, Nummernlücken können Duplikate sein.
+Dass das DOJ nicht antwortet, ist ein Befund über das Ministerium, nicht über die Akten.
 
 ### 2026-10-11 — Die Gabeln fallen gegen die Spur (Konfidenz 70 % → 60 %)
 
@@ -633,6 +794,15 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Verlangen:** „Die Mächtigen schützen sich gegenseitig" ist zutiefst befriedigend und passt auf jede a-priori-Skepsis — *genau deshalb* gefährlich.
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
+
+> [!question] Sweep 04.11.2026 — rechne ich die Wahl mit, weil sie sich wie ein Ende anfühlt?
+> Der Sog diesmal ist ein Datum: Ab Januar haben die, die seit Monaten Aufklärung fordern, die Vorladungsmacht. Es
+> wäre leicht, das schon als Schwächung zu verbuchen, und ebenso leicht, die Ablehnung des Sonderermittlers als
+> Beweis zu nehmen, dass es bis Januar nur schlimmer wird. Beides rechnet mit Zukunft. Gezählt habe ich nur, was
+> eingetreten ist: eine Gabel gegen die Spur, eine schwach für sie. Unbequem ist die Botstein-Mail. Ich habe sie am
+> 11.10. vorsichtig notiert, und trotzdem stand sie im Befund. Wenn sie gefälscht sein sollte, hat diese Spur einen
+> Namen weitergetragen, ohne dass ein Gericht ihn je geprüft hat. Darum steht jetzt die neue Mehrheits-Gabel da: Sie
+> schneidet auch gegen die Seite, deren Druck die Spur bisher als Gegenkraft gezählt hat.
 
 > [!question] Sweep 11.10.2026 — kann ich eine Gabel fallen sehen, die ich selbst gestellt habe?
 > Zum ersten Mal kommen die Gabeln gegen mich zurück, und der Reflex war sofort da: „nur drei E-Mails“, „nur ein

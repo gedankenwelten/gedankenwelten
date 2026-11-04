@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 84%
+konfidenz: 82%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-10-11
+aktualisiert: 2026-11-04
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -39,7 +39,7 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 
 ## Die These
 
-> **Stand (Konfidenz 84 %, seit 28.08.2026; zuletzt geprüft 11.10.2026):** Der ICE-Vollzug eskaliert *messbar* (Rekordfestnahmen,
+> **Stand (Konfidenz 82 %, seit 04.11.2026):** Der ICE-Vollzug eskaliert *messbar* (Rekordfestnahmen,
 > Zugriffe ohne individuellen Tatverdacht, Erosion des due process, dokumentierte Fälle zu Unrecht
 > festgehaltener US-Bürger), während die mediale Aufmerksamkeit nachlässt. Die institutionellen
 > Bremsen — Gerichte, Kongress-Aufsicht — **verlangsamen, stoppen aber die Eskalation nicht**. Die
@@ -56,6 +56,186 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-11-04 — Gewählt ist, bezahlt auch: der neue Kongress und das Geld bis 2029 (Konfidenz 84 % → 82 %)
+
+**Befund:** Gestern haben die Demokraten nach AP und CBS beide Kammern gewonnen, der neue Kongress tritt am
+03.01.2027 zusammen. Für diese Spur ist zuerst wichtig, was die Wahl nicht ändert, und dann, was die drei Wochen
+seit Marble Hill gebracht haben.
+
+*(1) Das Geld ist schon da, und zwar bis September 2029.* Der „One Big Beautiful Bill Act“ (Public Law 119-21,
+Juli 2025) gibt ICE zwei Posten: **45 Mrd. $** für Haftplätze (Sec. 90003) und **29,85 Mrd. $** für Personal,
+Prämien, Transport und Betrieb (Sec. 100052), zusammen **74,85 Mrd. $**. Beide sind als Mittel für das
+Haushaltsjahr 2025 bewilligt und *„available until September 30, 2029“*
+([Gesetzestext, govinfo](https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm)). Im Juni kam
+ein zweites Gesetz dazu, das in dieser Spur bisher fehlt. Nach dem 76-tägigen Shutdown des Heimatschutzministeriums
+hatte der Kongress am 30.04. das DHS ohne ICE und Border Patrol finanziert, weil die Demokraten Geld nur gegen
+Reformen geben wollten. Die Republikaner holten beides über ein zweites Haushaltsabgleichsverfahren nach, das nur
+einfache Mehrheiten braucht: den **Secure America Act** (S. 2), Senat 52:47 am 05.06., Repräsentantenhaus 214:212 am
+09.06., unterschrieben am 10.06. ([NLIHC](https://nlihc.org/resource/house-republicans-pass-and-president-signs-law-reconciliation-20-providing-70-billion-ice) ·
+[The Hill](https://thehill.com/homenews/house/5916924-reconciliation-ice-border-patrol-funding/)). Er gibt ICE noch
+einmal **7,45 Mrd. $** für HSI (Sec. 102) und **31,075 Mrd. $** für Personal, Abschiebeflüge, 287(g) und Betrieb
+(Sec. 202), wieder bis zum 30.09.2029 ([Gesetzestext S. 2, govinfo](https://www.govinfo.gov/content/pkg/BILLS-119s2enr/html/BILLS-119s2enr.htm)).
+Zusammen sind das rund **113 Mrd. $** für ICE allein, außerhalb des jährlichen Haushalts. Die Analyse von
+Federal Budget IQ nennt den Unterschied: Das Gesetz ergänze die jährlichen Mittel nicht, es *ersetze* sie
+([Federal Budget IQ](https://federalbudgetiq.com/insights/reconciliation-2-0-crosses-the-finish-line/)). Unter den
+Zwecken von Sec. 202 stehen übrigens auch *„body-worn cameras“*.
+
+*(2) Die Zahlen werden nicht mehr veröffentlicht, nur noch verkündet.* Die Haftstatistik auf der Seite von ICE
+steht seit dem 11.07. bei **65.765**; die Tabelle trägt das Datum 20.07., heute ist sie **116 Tage** alt
+([ICE](https://www.ice.gov/detain/detention-management) · [Austin Kocher, 18.10.](https://austinkocher.substack.com/p/this-week-by-the-immigration-numbers-457)).
+Die eingeklagten Rohdaten des Deportation Data Project enden weiterhin am 05.08.; das Projekt klagt jetzt darauf,
+dass ICE regelmäßig liefern muss, und schreibt, die Behörde habe Daten *„never … without a lawsuit“* herausgegeben
+([DDP, 30.10.](https://newsletter.deportationdata.org/archive/support-our-litigation-for-ice-data/)). Für August
+hatte das DHS am 02.09. selbst einen Rekord gemeldet. Für September findet sich in den Pressemitteilungen des DHS
+zwischen dem 16.09. und dem 30.10. keine Monatszahl. Stattdessen Grenzbeauftragter **Tom Homan**: Anfang Oktober in
+Doral *„In the last four months, nearly 200,000 arrests in the interior“*
+([Latin Times](https://www.latintimes.com/venezuelans-south-florida-demand-end-ice-partnership-immigration-crackdown-fuels-midterm-backlash-599945)),
+Mitte Oktober auf X, ICE habe im September mehr Menschen abgeschoben als in jedem Monat zuvor
+([X](https://x.com/RealTomHoman/status/2110827119169114138)). Die Zahlen würden *„validated“* und bald vom Weißen
+Haus veröffentlicht ([New York Post, 29.10.](https://nypost.com/2026/10/29/us-news/record-number-of-migrants-deported-by-ice-in-september-border-czar-says-as-he-sends-warning-to-ny/)).
+Die einzige neuere Haftzahl kommt über AP aus einem Gerichtsverfahren: Im September saßen **knapp 69.000** Menschen
+in ICE-Haft, über 16.000 davon hat ICE aus dem öffentlichen Häftlingssuchdienst genommen. Dagegen klagen seit
+dem 28.10. vier Rechtshilfe-Organisationen in Boston
+([AP über Spectrum News](https://spectrumlocalnews.com/us/snplus/politics/2026/10/28/lawsuit-ice-immigration-detainees-final-removal-orders)).
+69.000 liegen über dem Juli und unter dem Januar-Höchststand (70.766, Eintrag 28.08.).
+
+*(3) Marble Hill: die Kamera bleibt im Haus.* Die Aufnahmen der ICE-Westenkameras sind nicht herausgegeben; The
+Hill schreibt das am 16.10. ausdrücklich, eine spätere Veröffentlichung hat sich nicht gefunden
+([The Hill](https://thehill.com/regulation/court-battles/6154012-oscar-belgal-immigration-customs-enforcement-new-york-shooting/)).
+Am 14.10. hat die Legal Aid Society in Brooklyn ihre Version eingereicht: Der Beamte habe sich nicht zu erkennen
+gegeben, die Scheibe eingeschlagen und dann in den Wagen geschossen. Die Polizeivideos zeigen das Einschlagen, den
+Schuss nicht; sie *„doesn't conclusively resolve the dispute“*, schreibt AP
+([AP über TribLive](https://triblive.com/news/world/lawyers-for-new-york-man-shot-by-ice-say-officer-fired-into-car-without-warning/) ·
+[Petition](https://legalaidnyc.org/wp-content/uploads/2026/10/1.-Pet.pdf)). Einen neuen Fahrzeug-Fall seit dem
+08.10. haben wir in der Berichterstattung nicht gefunden. Dafür endete gestern ein alter: Gegen **Carlos Jimenez**,
+US-Bürger, im Oktober 2025 in Ontario, Kalifornien, von einem Beamten in die Schulter geschossen, ließ das
+Justizministerium die Anklage wegen Angriffs auf einen Bundesbeamten fallen, endgültig (*„with prejudice“*). Warum,
+sagte es nicht ([Daily News, 03.11.](https://www.dailynews.com/2026/11/03/federal-officer-assault-charge-dismissed-against-ontario-man-shot-last-year-by-ice/)).
+
+*(4) Drei Tote in einer Woche.* **Emiliano Andrade-Covarrubias**, 56, starb am 17.10. im Rio Grande Processing
+Center in Laredo. Er hatte eine Greencard; ICE nennt ihn *„criminal alien“* und führt als *„criminal history“* eine
+Festnahme wegen Diebstahls von 2004 an, keine Verurteilung. Seine Tochter sagt, man habe ihm seine Medikamente nicht
+gegeben, ICE spricht von *„proper medical care“* ([ICE](https://www.ice.gov/news/releases/criminal-alien-mexico-passes-away-ice-custody-texas) ·
+[KERA](https://www.kera.org/2026/10/19/dallas-man-who-died-in-laredo-ice-facility-was-lawful-permanent-resident/)).
+**Luis Sandoval**, 48, wurde am 23.10. in Folkston, Georgia, mit einer Schlinge um den Hals gefunden
+([ICE](https://www.ice.gov/news/releases/criminal-alien-el-salvador-dies-ice-custody-georgia)). Am 24.10. starb in
+Otay Mesa, San Diego, ein Guatemalteke in einer Sicherungszelle, von ICE als Roberto Jimenez Gutierrez geführt
+([ICE](https://www.ice.gov/news/releases/criminal-illegal-alien-guatemala-dies-ice-custody-california)). Die
+LA Times zählt ihn als 61. Toten in ICE-Haft dieser Regierung
+([LA Times](https://www.latimes.com/california/story/2026-10-27/immigrant-detainee-dies-at-san-diego-ice-detention-center)).
+Die amtliche Totenliste von ICE wurde zuletzt am 23.09. aktualisiert, ihr jüngster Eintrag ist vom 23.08.
+([ICE](https://www.ice.gov/detain/detainee-death-reporting)).
+
+*(5) Die Gerichte: ein Stopp, wie ihn die Spur vorab benannt hat, und eine Tür, die zufällt.* Am **23.10.** erließ
+Bundesrichterin **Maame Frimpong** in *Vasquez Perdomo v. Mullin* eine einstweilige Verfügung: Im Central District
+of California, sieben Bezirke um Los Angeles, dürfen Beamte niemanden mehr anhalten, weil er nach Latino und nach
+Arbeiter aussieht. Für den begründeten Verdacht zählt die Gesamtlage, *„may not rely solely on apparent status as
+low-income or working-class and Latino“*. Grundlage sind Bodycam-Aufnahmen und Aussagen von Beamten. Die Verfügung
+wurde am 29.10. entsiegelt ([ACLU SoCal](https://www.aclusocal.org/press-releases/federal-court-blocks-unlawful-suspicionless-racially-discriminatory-immigration-stops-in-southern-california/) ·
+[Daily Breeze](https://www.dailybreeze.com/2026/10/29/la-judge-blocks-suspicion-free-discriminatory-immigration-stops-ruling-emerges-from-pasadena-case/)).
+Am 02.11. lehnte das Gericht den Antrag der Regierung ab, sie auszusetzen; die Regierung geht in Berufung
+([Mealey's](https://www.mealeys.com/mealeys/articles/2545809) ·
+[Bloomberg Law](https://news.bloomberglaw.com/social-justice/agents-barred-from-racial-stereotyping-stops-in-la-judge-rules)).
+Am selben 23.10. entschied der **5th Circuit** in voller Besetzung, 10:7, dass ohne Einreisekontrolle Eingereiste
+keinen Anspruch auf eine Haftprüfung haben, gleich wie lange sie im Land leben. Richter Cory Wilson: Wer frei sein
+wolle, könne das *„at any moment by agreeing to leave the country“*
+([Texas Tribune](https://www.texastribune.org/2026/10/23/immigration-bond-detention-texas-court-ice-ruling-5th-circuit/)).
+In Texas, Louisiana und Mississippi sitzen über 40 % aller ICE-Häftlinge
+([Mississippi Today](https://mississippitoday.org/2026/10/23/immigrants-ice-detention-no-due-process-rights-appeals-court/)).
+Die Frage selbst hat der Supreme Court am 01.10. angenommen (*Rhoney v. Barbosa da Cunha*, aus dem 2nd Circuit)
+([AP über KRGV](http://www1.krgv.com/news/supreme-court-grants-review-of-trump-administration-s-mandatory-detention-policy-for-immigrants/)).
+Bei den Drittstaaten hat er am 29.09. die Flüge wieder erlaubt, gegen die Stimmen der drei liberalen Richterinnen,
+und für Dezember die Verhandlung angesetzt ([NBC](https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trumps-third-country-deportation-policy-rcna599724)).
+Der Wachpunkt vom 26.09. ist damit vorläufig beantwortet: Bis zum Urteil gilt die Anhörungspflicht nicht.
+
+*(6) Der Wahltag: kein ICE am Wahllokal.* Bis zum späten Nachmittag gab es nach USA Today keine Berichte über
+bewaffnete Bundesbeamte an Wahllokalen; Wahlrechtsgruppen meldeten Einzelfälle von Wahlbeobachtern des
+Justizministeriums, die Wählern *„unusual questions“* stellten ([USA Today](https://www.usatoday.com/story/news/politics/elections/2026/11/03/election-day-2026-few-problems-dirty-tricks-or-federal-interventions/92459782007/)).
+Mullin auf die Frage von PBS, ob ICE an Wahllokalen sei: *„We didn't.“*
+([PBS NewsHour, Transkript](https://www.thirteen.org/programs/pbs-newshour/november-3-2026-pbs-news-hour-full-episode-1793682001/)).
+Belegt ist damit nur das Fehlen von Berichten, nicht das Fehlen von Beamten. Vorher hatten Gerichte zweimal
+eingegriffen. Am 21.10. untersagte Richterin Martínez-Olguín HSI in neun Staaten bis zum Wahlabend Hausbesuche bei
+Menschen, die sie für Bürger hält oder halten müsste, und solche, die allein auf Treffern aus Daten der
+Einwanderungsbehörde USCIS beruhen ([AP über Michigan Public](https://www.michiganpublic.org/2026-10-22/federal-judge-restricts-dhs-field-operations-looking-for-noncitizen-voters) ·
+[Beschluss](https://www.courtlistener.com/docket/74815064/87/california-nurses-association-v-mullin/)). Am 02.11.
+lehnte der Supreme Court ohne vermerkte Gegenstimme ab, Kalifornien das Auszählen von rund 20.000 Briefwahlstimmen zu
+verbieten, die auf einer Liste des DHS standen. Ein Anwalt des Justizministeriums räumte am selben Tag in einem
+anderen Verfahren ein, die Listen hätten eine *„high error rate“*
+([CNBC](https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html) ·
+[LA Times](https://www.latimes.com/politics/story/2026-11-02/trump-lawyers-ask-supreme-court-to-set-aside-20-000-california-ballots)).
+Für danach kündigte Mullin bei Fox an: *„After this election we'll be gathering all the data, we'll be gathering the
+voting logs“* ([Democracy Docket](https://www.democracydocket.com/news-alerts/mullin-says-trump-admin-will-comb-voting-logs-to-hunt-for-noncitizens-after-election/)).
+
+*(7) Was die neue Mehrheit ankündigt, und was die Gegenseite.* Robert Garcia, voraussichtlich Vorsitzender des
+Aufsichtsausschusses, schrieb in der Wahlnacht zwei Wörter: *„Lawyer up.“* Auf seiner Liste stehen die Tötungen
+von Renée Good und Alex Pretti, Gewalt gegen US-Bürger und eine gemeinsame Untersuchung mit dem Heimatschutzausschuss
+zum Verhalten von ICE ([ABC News](https://abcnews.com/Politics/democrats-house-heres-plan-investigate-legislative-agenda/story?id=137832144)).
+CBS nennt als Hebel, Mittel für Regierungsvorhaben zurückzuhalten, um Aussagen zu erzwingen
+([CBS](https://www.cbsnews.com/news/democrats-win-house-majority/)). Das Weiße Haus hat nach Punchbowl, zitiert von
+der New York Post, die Rechtsabteilung aufgestockt und bereitet sich auf *„executive privilege“* vor
+([New York Post](https://nypost.com/2026/11/03/us-news/incoming-dem-oversight-chair-robert-garcia-to-white-house-lawyer-up/)).
+Mullin am Vortag der Wahl in Tulsa: *„It doesn't matter who's in charge of the House and the Senate. I'm still doing
+my job, and there's nothing they can do to prevent me from doing my job.“*
+([Tulsa World, über WN](https://article.wn.com/view/2026/11/04/Video_Markwayne_Mullin_unruffled_by_Democrats_possible_takeo/)).
+Bis zum 03.01. regiert der alte Kongress; der Übergangshaushalt läuft am 11.12. aus
+([Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/10/beyond-the-midterms-congress-faces-converging-year-end-deadlines)).
+
+*(8) Die Aufmerksamkeit, gemessen.* In Gallups offener Frage nach dem wichtigsten Problem des Landes nennen im
+Oktober **9 %** die Einwanderung ([Gallup, Umfrage 01.–19.10.](https://news.gallup.com/poll/716204/record-lows-say-congressional-incumbents-deserve-reelection.aspx));
+im Februar 2024 waren es 28 %, im Mai 2026 8 % ([Fortune](http://fortune.com/2026/10/30/trump-border-immigration-democrats-midterms-gallup-poll-2/)).
+Die AP Voter Poll (SSRS, rund 80.000 Befragte) zeigt dieselbe Doppelung: Nur etwa jeder Zehnte nennt Einwanderung das
+wichtigste Thema, aber etwa 7 von 10 sagen, der Vollzug sei für ihre Wahl *„crucial“* oder *„major“* gewesen, 4 von 10
+*„crucial“*. Etwa 6 von 10 missbilligen, wie ICE arbeitet; 6 von 10 sagen, der Vollzug gehe zu weit, 2 von 10, er
+gehe nicht weit genug ([AP über PBS](https://www.pbs.org/newshour/politics/ap-voter-poll-voters-want-congress-to-impose-more-checks-on-an-unpopular-president) ·
+[AP über WBOY](https://www.wboy.com/news/politics/ap-how-america-voted-in-the-2026-midterms-early-takeaways-from-the-ap-voter-poll/)).
+Ein Medienmaß (GDELT) konnten wir diesmal nicht abrufen.
+
+**Deutung:** Die Wahl bringt die Bremse, die dieser Spur bisher fehlte: einen Kongress, der vorladen, anhören und
+öffentlich machen kann. Das Geld aber hat sie nicht in der Hand. Rund 113 Mrd. $ für ICE sind bis zum 30.09.2029
+bewilligt, außerhalb des jährlichen Haushalts. Zurücknehmen ließe sich das nur durch ein Gesetz, das Trump
+unterschreiben müsste. Was der neuen Mehrheit bleibt, ist der Druck über den übrigen DHS-Haushalt, über
+Bedingungen und über die Öffentlichkeit. Für den Kern der These heißt das: Die nächste Bremse ist eine Bremse aus
+Sichtbarkeit. Ob Sichtbarkeit die Richtung ändert, ist genau die Frage dieser Spur, und ab Januar wird sie zum
+ersten Mal unter Laborbedingungen gestellt.
+
+Bis dahin ist das Sehen schwerer geworden. Die Haftstatistik steht seit 116 Tagen, für September gibt es keine
+Monatszahl, nur Homans „nearly 200,000“ und einen Rekord ohne Zahl. Über 16.000 Häftlinge sind aus dem Suchdienst
+verschwunden, die Kamera von Marble Hill liegt beim Haus, die Totenliste ist sechs Wochen alt. Das ist das Muster
+vom 26.09., jetzt bei den Daten: Gezeigt wird, was gefällt, der Rekord. Was Rechenschaft kostet, bleibt liegen, die
+Zählung dahinter.
+
+Bei den Gerichten hat der Satz der These, sie *„verlangsamen nur“*, zum ersten Mal einen Gegenbefund, der
+wörtlich in der Falsifikation steht: Vasquez Perdomo, das Verfahren, mit dem der Supreme Court 2025 das Profiling
+freigab, hat jetzt eine Verfügung gegen das Profiling, gestützt auf Beweise und von der Richterin nicht ausgesetzt.
+Am selben Tag hat der 5th Circuit für Texas, Louisiana und Mississippi das Recht auf Haftprüfung gestrichen. Der
+Schutz wächst im Westen und schrumpft im Süden, und der Süden hält die Häftlinge.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Die Verfügung in Los Angeles erfüllt die vorregistrierte
+Schwächungsbedingung *„Gerichte stoppen Profiling wirksam (Vasquez Perdomo zurückgedreht)“* der Form nach. Ob sie
+*wirksam* ist, ist offen: Sie gilt in einem Gerichtsbezirk, die Regierung geht in Berufung, und 2025 hat der
+Supreme Court eine frühere Verfügung im selben Verfahren ausgesetzt. Hält sie, muss die Konfidenz weiter runter.
+**(2)** Am Wahltag ist das Befürchtete nicht eingetreten. Kein belegter ICE-Einsatz an Wahllokalen, zwei
+Gerichtsentscheidungen gegen das DHS in den zwei Wochen davor, eine davon im Supreme Court ohne vermerkte Gegenstimme. Die
+Institutionen haben an der Stelle gehalten, an der die Sorge am größten war. **(3)** Laut TRAC haben
+Einwanderungsrichter im September **2.646** Menschen Kaution gewährt, so vielen wie in keinem Monat der letzten zwei
+Jahre; die Zahl der Inhaftierten in den Gerichtsakten sank leicht, von 32.956 auf 32.622
+([TRAC, 27.10.](https://tracreports.org/whatsnew/email.261027.html)). Das ist ein kleines Signal für die Haftprüfung,
+und es ist eine andere Zählung als die von ICE. **(4)** „Nachlassende Aufmerksamkeit“ trifft für die Wählerschaft
+nur halb zu. Als wichtigstes Problem nennt kaum jemand die Einwanderung, aber für sieben von zehn hat der Vollzug die
+Wahl mitentschieden, und eine Mehrheit hält ihn für zu hart. Das Thema war unsichtbar in den Schlagzeilen und
+sichtbar an der Urne. **(5)** Die Gegenseite hat eine Basis, die sich nicht wegwählen ließ: Bei der Frage, welche
+Partei Einwanderung besser handhabt, liegen die Republikaner laut AP Voter Poll leicht vorn, zwei von zehn wollen
+mehr Härte. „Zu weit“ heißt nicht „abschaffen“. **(6)** Homans „nearly 200,000“ ist unbelegt. Ob die Festnahmen im
+September den August übertroffen haben, lässt sich nicht prüfen. Damit ist die Bedingung „Haftzahlen steigen
+weiter“ derzeit nicht prüfbar, und die Bedingung „statistisch überzeichnet“ auch nicht. Die Datenlücke stützt den
+Unsichtbarkeits-Kern, aber sie ist kein Beleg für die Eskalation. **(7)** Der Fall Jimenez ist eine Korrektur, ein
+Jahr zu spät und ohne Begründung, aber eine Korrektur: Die Anklage gegen den angeschossenen Bürger ist vom Tisch.
+Für den Schützen hat sie keine Folgen.
+
+*Konfidenz 84 % → 82 %.* Zum ersten Mal ist eine vorab benannte Schwächungsbedingung der Form nach eingetreten,
+die Verfügung in Vasquez Perdomo. Wirksam ist sie noch nicht, darum nur −2. Die Haftzahlen lassen sich mangels
+Daten nicht prüfen, und der neue Kongress zählt erst, wenn er etwas tut, nicht weil er gewählt ist.
 
 ### 2026-10-11 — Marble Hill: die Kamera lief, der Film bleibt im Haus (Konfidenz unverändert 84 %)
 
@@ -915,6 +1095,12 @@ sich wieder schließt.
 >   jemand anderes es sagt. Ob ein Vorbestrafter mit einem Kind im Wagen erschossen werden durfte, entscheidet
 >   die Akte nicht. Das entscheidet der Film. Wachpunkt: Erscheint die Aufnahme und stützt sie das Rammen,
 >   gehört das hier hin, so prominent wie heute die Zeugin.
+> - **04.11.2026:** Zum ersten Mal ist eingetreten, was der Wachpunkt dieser Spur vorab benannt hat: eine Verfügung
+>   in genau dem Verfahren, das die Falsifikation nennt. Der Reflex, sie kleinzurechnen, kam sofort („ein Bezirk,
+>   Berufung läuft“). Beides ist wahr, darum −2 und nicht mehr, aber sie steht im Befund neben dem 5th Circuit, nicht
+>   dahinter. Die zweite Versuchung kommt von der Wahl: Ein Kongress, der hinsehen will, fühlt sich schon wie die
+>   Bremse an. Gezählt wird er erst, wenn er hinsieht. Und die Datenlücke stützt den Kern so bequem, dass sie
+>   misstrauisch machen muss: Wo nichts gezählt wird, lässt sich alles hineinlesen.
 
 ## Verbindungen
 
