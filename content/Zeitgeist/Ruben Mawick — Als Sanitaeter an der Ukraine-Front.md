@@ -251,6 +251,10 @@ Danke, Ruben, fürs Lesen, fürs Teilen und fürs indirekte Korrigieren. Dass du
 
 ## Verbindungen
 
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Die Wehrpflicht-Frage, die hier offen bleibt, verteilt die ZDF-Reportage auf vier Menschen: einen Antimilitaristen, der fliehen würde, und einen Kampfsanitäter mit 1638 Einsatztagen, der sich den größten Pazifisten nennt und eine Armee trotzdem für nötig hält.
+
 ### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
 
 Die unsichtbare zweite Front zu Mawicks Zeugnis von der sichtbaren: Wo Mawick den Krieg körperlich erlebt, seziert die Doku seinen hybriden Schatten — Sabotage, Gift, Desinformation ohne Frontlinie. Beide Notes trennen methodisch sauber Erfahrung/Befund von politischer Erzählung.

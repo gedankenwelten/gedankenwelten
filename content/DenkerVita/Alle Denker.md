@@ -304,6 +304,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## I
 
+**[[DenkerVita/Marcello Ienca|Marcello Ienca]]** — Ethik der KI und Neurowissenschaften (TU München); schlug 2017 mit Roberto Andorno vier Neurorechte vor (kognitive Freiheit, mentale Privatsphäre, mentale Integrität, psychologische Kontinuität), Mitglied der UNESCO-Expertengruppe zur Ethik der Neurotechnologie
+
 **[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
 
 **[[DenkerVita/Ingrid Brodnig|Ingrid Brodnig]]** — Österreichische Journalistin und Autorin, Digital-Expertin; Enthemmung als Plattform-Design, Frauenhass als Verdrängungsstrategie, generationenspezifische Desinformation und der Werkzeugkasten zum Kontern (*Hass im Netz*, *Feindbild Frau*)
@@ -510,6 +512,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## N
 
+**[[DenkerVita/Ole Nymoen|Ole Nymoen]]** — Journalist und Podcaster (*Wohlstand für Alle*), Jahrgang 1998; *Warum ich niemals für mein Land kämpfen würde* (2025) — Antimilitarist, der die Wehrpflicht vom Verhältnis zwischen Staat und Bürger her kritisiert
+
 **[[DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]** — Kenianischer Schriftsteller und Literaturwissenschaftler (1938–2025); Kenias bedeutendster Romancier, Vordenker der Dekolonisierung; verwarf 1970 das Englische für seine Muttersprache Gĩkũyũ, 1977/78 ohne Anklage inhaftiert, Exil bis 2002, zuletzt Distinguished Professor UC Irvine; *Decolonising the Mind* — Sprache als Träger von Kultur und Gedächtnis
 
 **[[DenkerVita/Ninia LaGrande|Ninia LaGrande]]** — Moderatorin, Autorin, Slam-Poetin (geb. 1983 Hannover); Mitgründerin #ausnahmslos (2016), Clara-Zetkin-Frauenpreis; moderiert für Bundespräsidialamt und Bundesministerien; G7-Gleichstellungsbeirat 2022; Büro für Popkultur GmbH
@@ -667,6 +671,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## T
 
+**[[DenkerVita/Bernd Tiggemann|Bernd Tiggemann]]** — evangelischer Pfarrer und Journalist, Jahrgang 1970; früherer Kriegsdienstverweigerer und EKD-Kommunikationschef, seit 2025 Militärseelsorger in Wunstorf
+
 **[[DenkerVita/Tim Stark|Tim Stark]]** — Referent (kognitive Einflussnahme) im re:publica-26-Talk „Who the f#ck is Agartha?“; wie ironische Meme-Kulturen extremistische Inhalte kognitiv anschlussfähig machen
 
 **[[DenkerVita/Duezen Tekkal|Düzen Tekkal]]** — Journalistin, Filmemacherin, Menschenrechtsaktivistin (HÁWAR.help, GermanDream); deutsch-jesidische Zeugin des IS-Genozids von 2014, „böse Zwillinge" (Islamismus und Rechtsextremismus als eine Demokratiefeindschaft), Bundesverdienstkreuz 2021 — nah an CDU-Zirkeln und darum selbst umstritten
@@ -698,6 +704,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## U
 
 ## V
+
+**[[DenkerVita/Hagen Vockerodt|Hagen Vockerodt]]** — Hauptmann a. D., ehemaliger Kampfsanitäter der Bundeswehr, 1638 Einsatztage vom Kosovo bis Afghanistan; spricht als Redner über PTBS und Veteranen
 
 **[[DenkerVita/Chris van Tulleken|Chris van Tulleken]]** — britischer Infektiologe (UCLH) und Professor am UCL, BBC-Wissenschaftsmoderator mit Zwillingsbruder Xand; *Ultra-Processed People* (2023, dt. *Gefährlich lecker*) — ultra-verarbeitete Lebensmittel als Hauptursache ernährungsbedingter Krankheit, die Finanzialisierung der Lebensmittelkonzerne, Warnhinweise statt Verbote
 

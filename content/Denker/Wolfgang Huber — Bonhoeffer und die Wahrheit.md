@@ -237,6 +237,10 @@ Huber schließt mit einer Warnung, die man jedem Bonhoeffer-Zitat im Netz anheft
 
 ## Verbindungen
 
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Bonhoeffers Schuldübernahme aus Nächstenliebe hat ein Echo in der Militärseelsorge: Bernd Tiggemann, einst Kriegsdienstverweigerer, hält Waffengewalt für legitim, „wohlwissend, dass sich jeder Mensch schuldig macht, der sie einsetzt“, und kann sie doch selbst nicht in die Hand nehmen.
+
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 Dieselbe Rechenschaft *Nach zehn Jahren*, aus der Huber die Frage „Sind wir noch brauchbar?“ vorliest, enthält auch Bonhoeffers Sätze über die Dummheit. Der Dumme spricht nicht selbst, aus ihm sprechen Parolen; die erste Prüfung des Wahrheitsessays lautet, zu erkennen, wer mich zum Sprechen veranlasst. Die Dummheit-Note erzählt das Leben, aus dem beide Texte kommen, und trägt in Abschnitt 6 Hubers Auslegung und Christine Schliessers Deutung der Schuldübernahme.
 

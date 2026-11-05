@@ -1300,3 +1300,15 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Nina Kolleck
 **Status:** ✓ Vollanalyse → [[DenkerVita/Nina Kolleck]]
+
+## Bernd Tiggemann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Bernd Tiggemann]]
+
+## Ole Nymoen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ole Nymoen]]
+
+## Hagen Vockerodt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hagen Vockerodt]]
+
+## Marcello Ienca
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marcello Ienca]]

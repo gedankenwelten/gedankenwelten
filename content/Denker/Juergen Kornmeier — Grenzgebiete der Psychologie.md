@@ -398,6 +398,10 @@ Dieselbe Tugend, aus entgegengesetzten Richtungen. Beautemps hat eine Prognose, 
 
 Wilholt begründet philosophisch, was Kornmeier mit der Dolly-Anekdote erzählt: Wissen verlangt keine Gewissheit, und wer Irrtum für möglich hält, ist deshalb noch kein Skeptiker.
 
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Was Gehirnchips 2026 wirklich lesen: eine mühsam antrainierte Absicht bei einem Menschen, der mitmacht, kein Erleben. Kornmeiers „Bildzeitungsforschung“ trifft das Versprechen — Iencas Sorge um Gehirndaten trifft sie nicht, denn für Überwachung reichen Absichten.
+
 
 ---
 

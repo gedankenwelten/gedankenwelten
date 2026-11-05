@@ -284,6 +284,10 @@ Die Maschine über ihre eigene Lage, als Werkzeug und als Gesprächspartner zugl
 
 Haltungen kommen nicht nur über die Zweiterziehung in ein Modell, sondern auch von Modell zu Modell, über Daten, die sauber aussehen: Das Eulen-Experiment zeigt es, bisher nur zwischen Zwillingsmodellen.
 
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Die Auslagerungsfrage am Gehirnchip: Musk verspricht „Superkräfte“, Surjo Soekadar verlangt einen Kompass, damit die Superkraft nicht beim Computer landet — „hinterher sind wir dümmer“.
+
 ---
 
 ## Weiterdenken

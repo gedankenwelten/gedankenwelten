@@ -186,6 +186,10 @@ Er stirbt im Mai 2005, mit 92 Jahren. Aus dem Nachlass erscheint ein dünnes Hef
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Ricœurs ungelöster Zwiespalt zwischen Pazifismus und Verteidigung durch das Recht lebt in der ZDF-Reportage in vier Menschen weiter, am deutlichsten bei einem Achtzehnjährigen, dessen Herz „nie wieder Militär“ sagt und dessen Verstand eine freiwillige Armee für den Notfall.
+
 ### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
 Diagne nennt sich „Schüler von Ricœur" und übernimmt von ihm die Übersetzung als *Trauerarbeit*: Man beginnt mit dem Wissen, dass das Vollkommene nicht zu haben ist, und übersetzt trotzdem — Ricœurs zweite Naivität, auf die Sprache angewandt.
 

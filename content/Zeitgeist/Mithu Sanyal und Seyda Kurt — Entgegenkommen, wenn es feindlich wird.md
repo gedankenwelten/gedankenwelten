@@ -357,6 +357,10 @@ Eine Bedingung hat die Bereitschaft, sich zu beteiligen, auch nach den Daten. In
 
 ## Verbindungen
 
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Dieselbe Unterscheidung zwischen Selbst- und Staatsverteidigung trägt Ole Nymoen in der ZDF-Reportage bis zur letzten Konsequenz: Wenn hier Krieg ausbräche, würde er zu fliehen versuchen, und auch ein verpflichtendes Gesellschaftsjahr lehnt er ab.
+
 ### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
 
 Die Schwester-Debatte, ein paar Monate älter und mit umgekehrter Besetzung: Dort sitzt mit Margarita Šešelgytė eine Litauerin, die morgens ihre Mutter anruft, weil der Luftraum verletzt wurde, und sagt, Russlands Casus Belli sei immer die Schwäche gewesen. Sanyals Sicherheitsdilemma ist Jan van Akens Kaliningrad-Spiegel, und ihre Antwort auf die Frage nach reinen Verteidigungswaffen ist Egon Bahrs „strukturelle Nichtangriffsfähigkeit“. Van Akens Schlussfrage, warum ein Achtzehnjähriger etwas für ein Land tun soll, das nichts für ihn tut, ist Kurts „Wer ist wir?“ aus dem Mund eines Mannes, der Landesverteidigung ausdrücklich will.

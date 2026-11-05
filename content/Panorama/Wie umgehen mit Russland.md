@@ -264,6 +264,10 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 
 ## Verbindungen
 
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Was Abschreckung für den Einzelnen heißt, der sie tragen soll, zeigt die ZDF-Reportage über das Wehrdienstgesetz: ein Verweigerer, der Militärseelsorger wird, ein Antimilitarist und ein Kampfsanitäter, der eine Armee für nötig hält.
+
 ### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]]
 Putins Kindheit und Aufstieg als Fall einer Hypothese über Formung, Auslese und Macht — mit dem Vorbehalt, dass fast alles darüber aus seiner eigenen, autorisierten Erzählung stammt.
 

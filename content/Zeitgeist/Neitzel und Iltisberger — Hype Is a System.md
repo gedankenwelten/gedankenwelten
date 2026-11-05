@@ -253,6 +253,10 @@ Ein Video über einen Innovationspreis, das sein „großes Aber“ selbst mitli
 
 Wie Zurückhaltung als Gegenmittel klingt, zeigt Cordelia Schmid beim Erfinderpreis 2024: Sie verweigert jede Prognose zum autonomen Fahren, während ein Gründer neben ihr Marken für „dieses und nächstes Jahr“ ankündigt.
 
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Ein Prüffall für den Skynet-Effekt: Musk verspricht „Superkräfte“, Ethiker warnen vor kognitiver Überwachung, und die Doku besteht darauf, dass die Technik noch in der Erprobung ist.
+
 
 ---
 

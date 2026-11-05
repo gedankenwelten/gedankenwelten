@@ -282,3 +282,7 @@ Clüver Ashbrook zeigt die kybernetische Regierungskunst in der Anwendung: Palan
 ### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
 
 Die 3sat-Doku ergänzt Nosthoffs Kybernetik-Genealogie um die zweite Ideenlinie: Rand, Girard und die politische Theologie. Daubs „Autoritarismus per Knopfdruck" (Palantir) ist kybernetische Regierungskunst in Aktion — die Doku zeigt die Akteure, Nosthoff das Denksystem, das sie steuerbar glauben lässt.
+
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Wo das Datensubjekt an seine Grenze kam, setzen Gehirn-Computer-Schnittstellen an: Sie messen nicht mehr nur Verhalten, sondern die Signale davor.

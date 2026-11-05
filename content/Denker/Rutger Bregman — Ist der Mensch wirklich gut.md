@@ -274,6 +274,10 @@ Woher die Hoffnung kommt, hat er schon früher im Gespräch angedeutet. [▶ 16:
 
 ## Verbindungen
 
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Was Bregman als Befund beschreibt, erzählt Hagen Vockerodt in der ZDF-Reportage als eigenes Leben: der Drill, der im Hinterhalt wie ein „Robotermodus“ läuft, und der Preis, der erst zu Hause sichtbar wird.
+
 ### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
 Welzer belegt Bregmans Tötungshemmung von der Täterseite: Die Massenerschießungen wurden technisch so optimiert, dass jeder Schritt zugleich effizienter und für die Schützen distanzierter wurde — die Hemmung wurde umgangen, nicht überwunden.
 

@@ -267,6 +267,7 @@ Im Sinn der Note *Gefangene des Systems*: Musk ist kein Ideologe, der ein geschl
 - [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und die Macht der Tech-Eliten]] — Musk als autoritärer „Kybernetes“, X als „kybernetische Superintelligenz“.
 - [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System]] — der Hyperloop als Fallstudie und der „Musk-o-Meter“ seiner Prognosen.
 - [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]] — „first principles“ gegen den Humanoiden-Hype.
+- [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Superkräfte und ein Kompass|NANO — Gehirnchips und Gedankenfreiheit]] — Neuralink und das Ziel, dass alle einen Chip tragen: „Lasst uns den Menschen Superkräfte geben“; Soekadar hält den Kompass dagegen, Ienca die mentale Privatsphäre.
 - [[Denker/Renee DiResta — Invisible Rulers|Renée DiResta — Invisible Rulers]] — „We canceled that, we sent it through the wood chipper“ als Beispiel erfundener Verschwendungsgeschichten.
 - [[Denker/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]] — Musk als „Voice of Right-Wing Techno-Populism“.
 - [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] — DOGE als Beispiel dafür, wie extremer Reichtum Spielregeln aushebelt.

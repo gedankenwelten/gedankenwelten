@@ -7,6 +7,24 @@ tags:
 ---
 
 
+## 3sat NANO — Gehirnchips und Gedankenfreiheit (05.11.2026)
+
+| | |
+|---|---|
+| **Video** | [Droht ein Tech-Überwachungsstaat? \| NANO](https://www.youtube.com/watch?v=hZsCl6RVjo8) — 3sat NANO Doku „Brain Code“, Buch und Regie Christian Heynen, 05.11.2026, 44 Min. |
+| **Notiz** | [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit]] |
+| **Transkript** | `Gedankenwelten/Transkripte/NANO_Gehirnchips_hZsCl6RVjo8_Transkript.txt` |
+| **Vita** | [[DenkerVita/Marcello Ienca]] |
+
+## ZDF — Wehrdienst verweigern? Eine Frage des Gewissens (05.11.2026)
+
+| | |
+|---|---|
+| **Video** | [Wehrdienst verweigern? Eine Frage des Gewissens](https://www.youtube.com/watch?v=Nj6ECxpBP9M) — ZDFheute, Reportage von Susanne Böhm, 08.04.2026, 43 Min. |
+| **Notiz** | [[Zeitgeist/ZDF — Wehrdienst verweigern]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ZDF_Wehrdienst_verweigern_Nj6ECxpBP9M_Transkript.txt` |
+| **Viten** | [[DenkerVita/Bernd Tiggemann]] · [[DenkerVita/Ole Nymoen]] · [[DenkerVita/Hagen Vockerodt]] |
+
 ## Emergence — Das dunkle Wissen der KI (06.10.2026)
 
 | | |
@@ -5441,6 +5459,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Projekte** | CogniSia ([Varbanov et al. 2023](https://doi.org/10.1016/j.nbd.2023.106079)) · [Intu Diagnostics](https://www.intudiagnostics.com/) · [LifeShare](https://www.startup4med.hhu.de/ueber-startup4med/gruendungsprojekte/lifeshare) ([Rothenburg et al. 2024](https://doi.org/10.1111/vox.13647)) |
 | **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Medizin]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MIGA_Medizin_Wnqq9NnTo2s_Transkript.txt` |
+
+## Jacob Beautemps / Made in Germany Awards — Kategorie KI (Breaking Lab)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ein neues Material pro Monat: Dieses Labor arbeitet 6000x schneller!](https://www.youtube.com/watch?v=qvyl8H4hQOA) (Breaking Lab, 03.11.2026) |
+| **Projekte** | [Dunia, IRIS](https://dunia.ai/platform) · [German Bionic, Exia](https://www.all-about-industries.com/exoskeleton-german-bionic-exia-augmented-ai-a-a423b78e2e757b8bb16b4caa275088c7/) · VisiNav (Timo Henkel) |
+| **Abstimmung** | [madeingermanyawards.de/voting/ki](https://www.madeingermanyawards.de/voting/ki/) (bis 17.11.2026) |
+| **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 KI]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MIGA_KI_qvyl8H4hQOA_Transkript.txt` |
 
 ## Jacob Beautemps / European Inventor Award 2024 (Malta)
 

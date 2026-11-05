@@ -159,6 +159,10 @@ Quer zur Debatte liegt das polizeiinterne Projekt **P20**: Es will die Polizeida
 
 Der Fall, an dem sich zeigte, wie kurz die Leine ist, an der Europa digitale Werkzeuge aus den USA nutzt.
 
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Die Grenze hinter allen Fragen hier: der Schädel. Marcello Ienca hält eine „kognitive Überwachung“ durch Gehirn-Computer-Schnittstellen für ein realistisches Szenario, auch wenn die Technik noch weit davon entfernt ist; der Dissident, der sich verstellt, verlöre seine letzte Deckung.
+
 ---
 
 ## Weiterdenken

@@ -566,6 +566,10 @@ Die Kehrseite des Griffs nach der Verwaltung: Auch wenn der Staat den Konzern hi
 
 Barbara Prainsack kommt aus der Daten-Governance zum selben Schluss wie Mühlhoff: Wo Schäden bekannt sind, verbieten statt um mehr Ethik zu bitten, und Gewinne aus Daten an die Einrichtungen zurückleiten, aus denen sie stammen. Anders als er ist sie ausdrücklich für Datennutzung, wo der öffentliche Wert hoch ist.
 
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Die Probe auf die prädiktive Privatheit am Gehirn: Ein Decoder lernt an Menschen, die mitmachen. Marcello Ienca setzt auf die freie Entscheidung des Einzelnen, mit wem er seine Gehirndaten teilt; Mühlhoffs Gedanke zeigt, warum die allein nicht reicht.
+
 ---
 
 ## Weiterdenken

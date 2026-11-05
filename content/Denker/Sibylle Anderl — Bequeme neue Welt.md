@@ -295,6 +295,10 @@ Falcke lernte den Widerstand der Welt am Commodore VC20, der „genau das gemach
 
 Der Film setzt die Frage der billigen Kunst eine Ebene tiefer an, bei den Autoren als „Lehrer, den niemand fragte“. Die offene `robots.txt` der Gedankenwelten, um die es am Ende der Note geht, steht neben der Regel, dass hier keine lebenden Künstler mehr ihre Hand leihen.
 
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Die nächste Stufe nach der Uhr, die den Schlaf misst: ein Stirnband, das Hirnsignale liest, unsichtbar, ohne Operation. Surjo Soekadars Warnung „hinterher sind wir dümmer“ ist Anderls Rechnung für eine Bequemlichkeit, die im Kopf sitzt.
+
 ---
 
 ## Weiterdenken

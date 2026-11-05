@@ -202,6 +202,10 @@ Ihr letztes Wort gehört ihm, aus der Rede „Le Témoin de la liberté“, die 
 
 ## Verbindungen
 
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Wie ein einziges Wort das Töten erträglich machen kann, zeigt die ZDF-Reportage von der anderen Seite: Ein Militärdekan übersetzt „Du sollst nicht töten“ mit „nicht morden“, und ein traumatisierter Kampfsanitäter kann weiterleben. Für Camus wäre das die Sprache, die betäubt, für ihn war es Trost.
+
 ### → [[DenkerVita/Albert Camus#Gegen die Gewalt, an vielen Fronten|Albert Camus — DenkerVita]]
 Die Vita erzählt das Leben, in das Morisi diesen einen Faden legt: den Vater, den Camus nie kannte, *Combat*, den Bruch mit Sartre, den Aufruf zur Waffenruhe in Algier 1956. Morisi zeigt, was hinter dem dort erwähnten Schweigen im Algerienkrieg lag: eine stille Arbeit aus Briefen an Präsidenten und Gerichte, die er nicht in der Zeitung sehen wollte.
 

@@ -330,6 +330,10 @@ Nüchterne Einschätzungen verbreiten sich schlecht, sagen Neitzel und Iltisberg
 
 Spitzer erzählt von der Nonne, die mit über hundert nicht dement war, obwohl ihr Gehirn voller Alzheimer-Veränderungen steckte. An dieser Lücke zwischen Befund im Gewebe und Symptom scheitern viele Mittel: Mäuse mit Plaques zeigen nicht die ganze Krankheit, Antikörper räumen Amyloid weg und bringen dem Denken wenig. CogniSia zielt auf die Symptome, die Ebene, auf der auch die geistige Reserve wirkt.
 
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Dasselbe Tal bei Gehirnchips: Der Neurochirurg Bernhard Meyer sagt offen, dass Investoren mit Patienten keinen großen Gewinn erwarten — „Gewinn liegt in dem Markt jenseits vom Patienten.“
+
 ---
 
 ## Weiterdenken

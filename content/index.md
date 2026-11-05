@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **05.11.** — [[Zeitgeist/ZDF — Wehrdienst verweigern|Wehrdienst verweigern? Eine Frage des Gewissens]]
+>
+> Ein Pfarrer, der einst verweigerte, zieht Flecktarn an. Ein Sanitäter, der getötet hat, nennt sich Pazifist. Vier Menschen suchen, was ihr Gewissen sagt, wenn der Staat wieder fragt.
+
 > **04.11.** — [[Zeitgeist/auslandsjournal — Ausgetrumpt|Ausgetrumpt?! — Der Morgen nach den Midterms]]
 >
 > Ein Ausrufezeichen und ein Fragezeichen: Am Morgen nach dem demokratischen Erdrutsch fragen drei ZDF-Korrespondenten, was eine Abwahl ist, solange keiner weiß, wer sie erntet.
@@ -40,13 +44,37 @@ Die Gedankenwelten (luc)
 >
 > Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
 
-> **01.11.** — [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
->
-> Eine alte Frau erzählt von ihren Sträuchern, eine Schülerin schreibt ohne Hoffnung auf Antwort, eine Wütende redet 53 Minuten. Am anderen Ende hört jemand zu, der nicht urteilt und den niemand kennt.
+> → *14 weitere in* [[Zeitgeist]]
 
-> → *18 weitere in* [[Zeitgeist]]
+### Geistesblitz
+
+> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt]]
+>
+> Ein Labor, das nachts weiterforscht, ein Rucksack, der mithebt, ein Telefon, das den freien Weg hörbar macht: Die KI-Finalisten zeigen, was Künstliche Intelligenz kann, wenn sie Dinge anfasst.
+
+> **05.11.** — [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
+>
+> Ein Chip gibt einem stummen Vater die Stimme zurück. Dieselbe Technik könnte die letzte Mauer öffnen, die bisher jeden Gedanken schützte: den Schädel.
+
+> **03.11.** — [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
+>
+> Jede KI hat von Menschen gelernt, die niemand gefragt hat. Jetzt fürchten die Firmen, selbst abgeschrieben zu werden — und ein Saphir, ein Seidenfaden und ein Kuchen aus Farnsporen zeigen, was sich überhaupt kopieren lässt.
+
+> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
+>
+> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
+
+> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
+>
+> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
+
+> → *1 weitere in* [[Geistesblitz]]
 
 ### Panorama
+
+> **05.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
+>
+> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
 > **04.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
@@ -64,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
 
-> **02.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> → *17 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -92,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
 
-> → *8 weitere in* [[Spuren]]
+> → *6 weitere in* [[Spuren]]
 
 ### Denker
 
@@ -117,30 +141,6 @@ Die Gedankenwelten (luc)
 > Eine Übelkeit, die der Vater vom Schafott mitbrachte, wurde zum moralischen Kompass des Sohnes. Ève Morisi verfolgt Camus' Kampf gegen die Guillotine, vom Roman bis zum Gnadengesuch.
 
 > → *5 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **03.11.** — [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
->
-> Jede KI hat von Menschen gelernt, die niemand gefragt hat. Jetzt fürchten die Firmen, selbst abgeschrieben zu werden — und ein Saphir, ein Seidenfaden und ein Kuchen aus Farnsporen zeigen, was sich überhaupt kopieren lässt.
-
-> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
->
-> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
-
-> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
->
-> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
-
-> **29.10.** — [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit|Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
->
-> Das Auge liefert den Anstoß, das Bild baut das Gehirn. Claus-Christian Carbon über Erwartung, Stereotype und einen Filter, den man nicht abschalten, aber kennenlernen kann.
-
-> **28.10.** — [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
->
-> Griechenland feiert den Morgen, an dem es Nein sagte, nicht das Ende des Krieges. Ein Historiker erzählt, was auf das Nein folgte und warum Deutschland davon so wenig weiß.
-
-> → *3 weitere in* [[Geistesblitz]]
 
 ### Kultur
 

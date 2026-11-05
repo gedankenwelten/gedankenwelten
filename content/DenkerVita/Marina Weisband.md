@@ -87,7 +87,7 @@ raetsel: "Im Spiel führt sie Armeen. In der Schule übergibt sie den Kindern da
 
 Weisband ist Grüne, Digitalpolitikerin und Demokratiepädagogin. In der Außenpolitik steht sie entschieden aufseiten der Ukraine: Sie unterschrieb 2022 den Brief für Waffenlieferungen und warf Olaf Scholz 2024 vor, wegen der verweigerten Taurus-Lieferung „für nichts verantwortlich sein“ zu wollen. Zugleich kritisierte sie seinen Satz, die Solidarität mit der israelischen Regierung sei Staatsräson, weil in deren Kabinett Rechtsextreme säßen. Gegen den erstarkenden Rechtsextremismus ist sie kompromisslos: Wenn man ihn jetzt nicht mit allen politischen und zivilen Mitteln bekämpfe, werde man es später „mit Blut“ tun müssen.
 
-**Widerspruch:** Ihre Haltung zur Ukraine bringt sie in Gegensatz zu pazifistischen Stimmen wie Ole Nymoen oder Mithu Sanyal, die Aufrüstung für die größere Gefahr halten. Und die These, die Gesellschaft sei kaum gespaltener als früher, wird ihr schon auf demselben Lüneburger Podium bestritten: Jagoda Marinić erzählte, wie in ihrer jugoslawischen Familie erst am Esstisch geschwiegen und dann nicht mehr miteinander geredet wurde, und sah seit 2015 und Corona Ähnliches in deutschen Familien.
+**Widerspruch:** Ihre Haltung zur Ukraine bringt sie in Gegensatz zu Stimmen wie [[DenkerVita/Ole Nymoen|Ole Nymoen]] (der sich Antimilitarist nennt, nicht Pazifist) oder Mithu Sanyal, die Aufrüstung für die größere Gefahr halten. Und die These, die Gesellschaft sei kaum gespaltener als früher, wird ihr schon auf demselben Lüneburger Podium bestritten: Jagoda Marinić erzählte, wie in ihrer jugoslawischen Familie erst am Esstisch geschwiegen und dann nicht mehr miteinander geredet wurde, und sah seit 2015 und Corona Ähnliches in deutschen Familien.
 
 ---
 

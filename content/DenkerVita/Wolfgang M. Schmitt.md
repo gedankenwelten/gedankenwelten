@@ -42,7 +42,7 @@ Der Wendepunkt kommt 2011: Er startet den YouTube-Kanal **Die Filmanalyse**. Das
 
 Ab 2016 moderiert er bei Massengeschmack-TV, verlässt das Format aber wegen politischer Differenzen. 2018 wird er wiederkehrender Gast bei Rocket Beans TV. Von 2019 bis 2022 produziert er für *Jung & Naiv* die Rubrik „Die Politikanalyse".
 
-2019 startet er mit dem Ökonomen **Ole Nymoen** den Podcast **Wohlstand für Alle** — wöchentliche Dekonstruktionen von „Wirtschaftsmythen". 2021 erscheint daraus das Buch *Influencer: Die Ideologie der Werbekörper* (Suhrkamp) — eine Analyse der Influencer-Kultur als symptomatische Sozialfigur des Spätkapitalismus.
+2019 startet er mit dem Ökonomen **[[DenkerVita/Ole Nymoen|Ole Nymoen]]** den Podcast **Wohlstand für Alle** — wöchentliche Dekonstruktionen von „Wirtschaftsmythen". 2021 erscheint daraus das Buch *Influencer: Die Ideologie der Werbekörper* (Suhrkamp) — eine Analyse der Influencer-Kultur als symptomatische Sozialfigur des Spätkapitalismus.
 
 2020 gründet er mit dem Soziologen **Stefan Schulz** den Podcast **Die Neuen Zwanziger** — monatliche Historisierung der Gegenwart plus „Salon"-Format für zahlende Mitglieder, in dem Bücher, Essays und Artikel diskutiert werden. Die Chemie zwischen Schmitts marxistischer Kulturkritik und Schulz' soziologischem Systemblick macht das Format zu einem der intellektuell dichtesten im deutschsprachigen Podcast-Raum.
 

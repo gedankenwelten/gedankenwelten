@@ -2,7 +2,7 @@
 title: "Was fordert die Gen Z?"
 date: 2026-11-02
 erstellt: 2026-11-02
-aktualisiert: 2026-11-02
+aktualisiert: 2026-11-05
 panorama-art: wachsend
 description: "Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat."
 raetsel: "Sechs Sätze auf Pappe. Jeder Satz hat ein Ministerium."
@@ -305,7 +305,16 @@ macht viel aus: Nach einem freiwilligen *Wehrdienst* gefragt, hielten ihn 2025 i
 42 Prozent der 16- bis 29-Jährigen für notwendig, 30 Prozent lehnten ihn ab
 ([Tagesspiegel](https://www.tagesspiegel.de/studie-zum-wehrdienst-an-kampfbereiten-burgerinnen-und-burgern-fehlt-es-nicht-15563263.html)).
 Die Anträge auf Kriegsdienstverweigerung haben sich vervielfacht: beim Bundesamt 2.249 im Jahr 2024, bis Ende
-August 2026 schon 12.102 ([Berliner Zeitung](https://www.berliner-zeitung.de/article/10463996)).
+August 2026 schon 12.102 ([Berliner Zeitung](https://www.berliner-zeitung.de/article/10463996)), bis Ende September
+14.977 ([evangelisch.de/epd](https://www.evangelisch.de/inhalte/260134/17-10-2026/zeitung-weiterhin-deutlich-mehr-kriegsdienstverweigerungen)).
+Die Bundeswehr zählt den Eingang bei sich und kommt auf andere Werte (2024: 2.998, 2025: 7.691,
+[Drucksache 21/6251](https://dserver.bundestag.de/btd/21/062/2106251.pdf)). Geprüft wird nicht das Gewissen selbst,
+sondern ob die Begründung ein *„stimmiges Gesamtbild“* ergibt; Musterschreiben und KI-Texte weist das Bundesamt
+zurück ([BAFzA](https://www.bafza.de/rat-und-hilfe/kriegsdienstverweigerung-kdv)). Die inhaltliche Hürde ist niedrig:
+2025 wurden drei Anträge aus inhaltlichen Gründen abgelehnt, 816 als unzulässig, 2.075 anerkannt. Wie es sich
+anfühlt, vor dieser Frage zu stehen, zeigt die ZDF-Reportage über vier Menschen, darunter einen Achtzehnjährigen,
+der ein paar Monate zu früh geboren ist, um den Fragebogen zu bekommen
+(→ [[Zeitgeist/ZDF — Wehrdienst verweigern#Was prüft der Staat, wenn er das Gewissen prüft?|ZDF — Wehrdienst verweigern]]).
 
 Beim Satz „niemand ohne uns“ trifft die Forderung einen wunden Punkt. Bei der Anhörung zum Gesetz im November
 2025 sagten der Generalsekretär der Bundesschülerkonferenz und die Vorsitzende des Bundesjugendrings, die
@@ -500,11 +509,16 @@ Ein Format, ein Termin, ein Gremium dafür ist bis heute nicht bekannt.
 | Datum | Note | vertieft |
 |---|---|---|
 | 02.11.2026 | [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird\|Spur: Gen Z regelt — und was danach geregelt wird]] | Anlass des Panoramas; die Spur zählt, ob über diese Forderungen gesprochen wird |
+| 05.11.2026 | [[Zeitgeist/ZDF — Wehrdienst verweigern#Nachbesprechung\|ZDF — Wehrdienst verweigern]] | Wehrpflicht → was das Verweigerungsverfahren prüft: BAFzA-Maßstab, Zahlen 2025/2026 und zwei Zählstellen, Abiturientengrundrecht und Postkartennovelle, BVerfGE 12, 45 zur politischen Verweigerung |
 | 02.11.2026 | [[Zeitgeist/MDR exactly — Kinder im Burnout#Nachbesprechung\|MDR exactly — Kinder im Burnout]] | Psychotherapie → warum es dauert: Stichtag 1999 und Ost-Erbe, 20-Prozent-Quote und Mitversorgung, Kassen gegen Kammer, Rodney-Wolf & Schmitz 2025 · Überbrückung: Schleider & Weisz 2017 |
 
 ---
 
 ## Verbindungen
+
+### → [[Zeitgeist/ZDF — Wehrdienst verweigern|ZDF — Wehrdienst verweigern? Eine Frage des Gewissens]]
+
+Die Zahlen dieses Abschnitts mit Gesichtern: ein Pfarrer, der einst verweigerte, ein Antimilitarist, ein Kampfsanitäter und ein Achtzehnjähriger, der ein paar Monate zu früh geboren ist, um den Fragebogen zu bekommen. Dazu Rehms Satz, dass sich das Gewissen selbst nicht prüfen lässt.
 
 ### → [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
 Die Spur verfolgt, was nach der Krawallnacht ermittelt wird, und zählt, ob über die Forderungen gesprochen wird.
