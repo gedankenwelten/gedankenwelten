@@ -44,7 +44,20 @@ Oben rechts stehen drei Schriftgrößen und der Schalter für die dunkle Ansicht
 
 Jeder Browser kann die Seite vorlesen: Edge mit „Laut vorlesen“, Safari mit „Seite anhören“, Firefox und Chrome über die Leseansicht. Die Leseansicht von Firefox bekommt dieselbe Fassung wie ein Screenreader, ohne Nummern und Zeichen.
 
-Oder du lässt dir die Gedankenwelten von deinem KI-Assistenten erzählen. Über unseren [[MCP|MCP-Server]] holen sich Claude und andere Assistenten die Notes direkt, ohne Umweg über die Seite. Dann fragst du einfach: „Was sagt die Gedankenwelt zu Hannah Arendt?“ oder „Lies mir die Note über Meditation vor.“
+## Im Gespräch mit deinem Assistenten
+
+Der bequemste Weg führt gar nicht über die Seite. Die Gedankenwelten lassen sich an Claude anschließen, an andere KI-Assistenten auch, und dann fragst du einfach im Gespräch, schriftlich oder gesprochen. Der Assistent holt die passenden Notes, nennt Quellen und Links, und im Sprachmodus liest er dir vor, was du hören willst. Keine Seite, durch die man sich tasten muss, keine Knöpfe.
+
+**Einrichten, einmal und ohne Anmeldung:** In Claude unter *Einstellungen → Konnektoren* (englisch *Settings → Connectors*) einen Konnektor hinzufügen und die Adresse `https://mcp.gedankenwelten.org/mcp` eintragen. Danach steht der Zugang auf allen Geräten bereit, auch in der App auf dem Telefon. Für andere Assistenten steht die Anleitung auf der Seite [[MCP|MCP-Server]].
+
+**Dann frag zum Beispiel:**
+
+- „Was ist neu in den Gedankenwelten?“
+- „Was sagt die Gedankenwelt zu Hannah Arendt?“
+- „Lies mir die Note über Meditation vor, wörtlich.“
+- „Welche Quellen nennen die Gedankenwelten zur Frage, ob Migration kriminell macht?“
+
+Die Antworten kommen von deinem Assistenten, mit seinen eigenen Worten. Wer es genau wissen will, lässt sich die Note selbst geben: Jede Antwort nennt den Link dazu. Notes zu schweren Themen tragen einen Hinweis auf kostenlose Hilfe, und der Assistent ist gebeten, ihn weiterzugeben.
 
 ## Was noch nicht geht
 

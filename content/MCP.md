@@ -102,6 +102,12 @@ or ask for the sources of one particular note.
 
 **Example:** *"Find me sources on the rise of authoritarianism in Hungary"* · *"What sources back the BissenBlaBla note?"*
 
+### 🗓️ Latest Notes
+
+What is new or recently deepened, newest first, with dates. Filter by section (Zeitgeist, Panorama, …) and time span. Search results and full notes now carry their dates too: *Erstellt* (created) and *Aktualisiert* (last substantial update; mere cross-linking does not count).
+
+**Example:** *"Was ist neu in den Gedankenwelten?"* · *"Which panoramas were deepened this month?"*
+
 ---
 
 ## Example Queries
