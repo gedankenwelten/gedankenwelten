@@ -286,6 +286,10 @@ Eine Gegenstimme zu dieser Note selbst. Der „Skynet-Effekt“ zeigt, dass Unte
 
 Beautemps beschreibt „Das Tal des Todes“, die teure Strecke zwischen Labor und Patient, vor der Investoren zögern. Meyers „Gewinn liegt in dem Markt jenseits vom Patienten“ beschreibt dasselbe Tal von der anderen Seite. Wer es finanziert, öffentliches Geld oder der Massenmarkt, bestimmt mit, wohin die Technik wandert.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Wem gehören die Daten?|Made in Germany Awards 2026 — KI]]
+
+Dieselbe Frage einen Schritt vor dem Schädel: Ein Exoskelett lernt, wie sein Träger hebt, und liefert dem Betrieb Schritte, Gewicht und Tragezeit; die Firma dahinter war insolvent. Die Navigations-App VisiNav rechnet dagegen alles auf dem Telefon.
+
 ---
 
 ## Weiterdenken

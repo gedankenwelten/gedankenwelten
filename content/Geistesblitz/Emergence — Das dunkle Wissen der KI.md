@@ -379,6 +379,10 @@ Der Neem-Fall ist „kopieren, dann die Tür abschließen“ am Wissen indigener
 
 Die Spur fragt, ob offene Modelle den Burggraben der großen Labore auswaschen. Destillation ist einer der Kanäle, durch die er leckt, und die Nutzungsbedingungen sind der Versuch, ihn per Vertrag zu schließen. Dass der Abstand der offenen Modelle zur Spitze zuletzt wieder wuchs, passt zu Gudibande (Stil kopiert, Wissen nicht), ohne dass damit ein Zusammenhang belegt wäre.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Wer steht dann noch im Labor?|Made in Germany Awards 2026 — KI]]
+
+Ein selbstfahrendes Labor stellt die Frage nach dem Wissen im Körper ganz praktisch: Wenn Roboter die Versuche machen, wo lernt der Nachwuchs, einem Ergebnis zu misstrauen? Und Beautemps fragt, ob die Forschenden wussten, dass ihre Paper eine Maschine unterrichten.
+
 ---
 
 ## Weiterdenken

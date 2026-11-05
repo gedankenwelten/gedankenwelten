@@ -318,6 +318,10 @@ Meyer und Hegenberg sehen Chinas Vorsprung in Skalierung und Fertigung, nicht in
 
 Fichtner hält gegen eine Lesart, die diese Note nahelegen könnte: Northvolt sei kein Beleg, dass europäische Zellfertigung scheitert, sondern ein Fall von zu knappen Zeitplänen, Pandemie und ungeduldigen Investoren, während andere Werke in Europa entstehen. Beides lässt sich zusammenhalten. Der Bundesrechnungshof fand unterschätzte Risiken, und Fichtner fragt, ob man aus einem Fall eine Regel macht.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Das Aber des Exoskeletts Entlastung oder mehr Last?|Made in Germany Awards 2026 — KI]]
+
+Im dritten Teil hat das Tal ein Gesicht: German Bionic ging mit einem fertigen Produkt in die Insolvenz, und Norma Steller fasst den Befund in drei Wörter: „Hardware ist hart.“
+
 ---
 
 ## Weiterdenken

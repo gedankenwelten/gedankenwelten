@@ -312,6 +312,9 @@ Yaghis Reihe der Materialepochen, von der Steinzeit bis zur Kontrolle einzelner 
 
 Yaghis Satz „Man kriegt nichts geschenkt, aber harte Arbeit zahlt sich aus“ ist genau das Sprichwort, das dieses Panorama prüft. Die Mobilitätsdaten dort (Chetty 2017: vom US-Jahrgang 1940 verdiente die große Mehrheit mehr als die Eltern, von den in den Achtzigern Geborenen nur noch die Hälfte) ergänzen, was die Note unter dem Stichwort der Überlebenden andeutet. Das Community College bleibt dabei der Teil des Systems, der tatsächlich offen ist.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#IRIS ein Labor, das weiterarbeitet|Made in Germany Awards 2026 — KI]]
+
+Die Selektionswissenschaft als Firma: Das Berliner Labor IRIS lässt Roboter Materialien herstellen und messen, und am Anfang des Kreises steht der Wunsch eines Industriekunden. Wer auswählt, ist dort schon entschieden.
 
 ---
 

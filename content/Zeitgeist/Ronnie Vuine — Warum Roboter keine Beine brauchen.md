@@ -298,6 +298,10 @@ Vuine ist der Contrarian aus deren Fragerunde in Person: der nüchterne Fachmann
 
 Der harte empirische Gegenbeleg. Vuine sagt, in Teslas Fabrik stünden keine Humanoiden — Hexagon zeigt sechs Wochen zuvor AEON in der Hochvoltbatterie-Montage im BMW-Werk Leipzig. Beide können recht haben, und die Auflösung ist Vuines eigener dritter Weg: Das Wort driftet. Der Anschluss geht weiter, denn Hexagons Begründung sind fehlende Menschen, nicht Kosten. Vuine rechnet vor, warum das ökonomisch nicht trägt: Der Arbeiter, der das Teil bewegte, war billig. Teuer ist der Ingenieur, den das ausgefallene Gelenk nachts aus dem Bett holt.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Das Aber des Labors Riesen und der erste Beweis|Made in Germany Awards 2026 — KI]]
+
+Vuines Satz, das beste Modell der Fabrik sei die Fabrik, ist hier ein Geschäftsmodell: Dunia setzt gegen Google und Microsoft darauf, dass es „mit Computer allein eben auch nicht funktioniert“, und lässt Roboter messen, was die Rechnung vorhersagt.
+
 ---
 
 ## Weiterdenken

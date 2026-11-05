@@ -357,6 +357,10 @@ Wie Technik für behinderte Menschen auf einer Preisbühne erzählt wird, zeigt 
 
 Barbara Prainsack macht Teilgabe zum ersten Prinzip solidarischer Institutionen: Würde hängt für die meisten daran, gebraucht zu werden, nicht versorgt und weggeschickt. Zugleich nennt sie Solidarität freiwillig, nicht einforderbar, und steht damit genau dort, wo Krauthausen und El-Mafaalani über die Quote streiten.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#VisiNav den freien Weg hören|Made in Germany Awards 2026 — KI]]
+
+Eine App übersetzt für blinde Menschen den freien Weg in Töne, weil die Infrastruktur kaum auf sie ausgelegt ist. Die Hilfe stattet den Einzelnen aus, wo die Barriere bleibt, und die Praxistests mit blinden Menschen stehen noch aus.
+
 ---
 
 ## Weiterdenken

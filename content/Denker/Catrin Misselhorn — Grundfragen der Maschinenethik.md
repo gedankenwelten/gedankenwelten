@@ -253,6 +253,9 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Mas
 
 Dass die Bilderkennung die Lücke allein nicht schließt, sagt 2024 die Informatikerin Cordelia Schmid: 99,999 Prozent bräuchte das autonome Auto, und wie man dahin kommt, sei offen. Das stützt Misselhorns Weg über die Infrastruktur.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Exia ein Rucksack, der mithebt|Made in Germany Awards 2026 — KI]]
+
+KI für die „dull, dirty, dangerous“-Arbeit, wie Misselhorn sie verlangt: Ein Exoskelett soll sich dem Menschen anpassen „und nicht umgekehrt“. Die Jury fragt dort, ob sich der Betrieb dann nicht doch auf das Gerät einstellt.
 
 ---
 

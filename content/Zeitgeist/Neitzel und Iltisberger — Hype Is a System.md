@@ -257,6 +257,9 @@ Wie Zurückhaltung als Gegenmittel klingt, zeigt Cordelia Schmid beim Erfinderpr
 
 Ein Prüffall für den Skynet-Effekt: Musk verspricht „Superkräfte“, Ethiker warnen vor kognitiver Überwachung, und die Doku besteht darauf, dass die Technik noch in der Erprobung ist.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Gegen den Pessimismus|Made in Germany Awards 2026 — KI]]
+
+Ein Prüfstück für die Frage, wer die gescheiterten Experimente bezahlt: Im Video sind die Schwierigkeiten von German Bionic „überwunden“, in den Akten steht eine Insolvenz. Und der Titel „6000x schneller“ trägt eine Zahl, die weder das Video noch die Firma nennt. Das eingebaute Aber der Jury übt dagegen genau die Gegenprüfung, die hier verlangt wird.
 
 ---
 

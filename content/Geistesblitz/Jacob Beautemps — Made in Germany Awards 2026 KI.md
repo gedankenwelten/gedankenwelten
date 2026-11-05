@@ -351,7 +351,37 @@ Und hier treffen sich das Exoskelett und Beautemps' Datenfrage. German Bionic wi
 
 ## Verbindungen
 
-<!-- MONTAIGNE -->
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie#Vom Labor zur Fabrik|Made in Germany Awards 2026 — Energie]]
+
+Im ersten Teil steht die Zahl, die Norma Stellers Satz „Hardware ist hart“ untermauert: Von 25 Milliarden Dollar Wagniskapital für saubere Technik kam weniger als die Hälfte zurück, und am schlechtesten schnitten neue Hardware, Materialien und Chemie ab. Genau dort stehen zwei der drei KI-Finalisten. German Bionic ist durch dieses Tal gegangen und hat es nur als neue Gesellschaft überstanden, Dunia hat 280 Millionen angekündigt und rund 11,5 Millionen eingesammelt. Das Tal des Todes, das Beautemps im Medizin-Teil benennt (→ [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Das Tal des Todes|Medizin]]), trifft hier zum ersten Mal ein Produkt, das schon auf dem Markt war.
+
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie#Wenn Moleküle billig werden|Omar Yaghi — Die Welt retten mit Chemie]]
+
+Yaghi beschreibt die Welt, für die IRIS gebaut ist. Sein Labor stellte in 35 Jahren 150 bis 200 MOFs her, heute mischt ein Roboter Tausende in zwei Tagen, und die Qualität hängt an der Auswahl. Wer aussucht, entscheidet, welche Probleme gelöst werden. Bei IRIS steht am Anfang des Kreises ausdrücklich der Wunsch eines Industriekunden; die Auswahl, die Yaghi der Gesellschaft überlassen wollte, liegt hier bei dem, der bezahlt.
+
+### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI#Gibt es Wissen, das sich nicht abschreiben lässt?|Emergence — Das dunkle Wissen der KI]]
+
+Dort ist die Frage, die IRIS offen lässt, schon weitergedacht: Wissen im Körper, und Atomwaffen, die ohne eine nächste Generation „uninvented“ würden, beschreiben die Schule des Blicks. Die Note hält auch dagegen: Beim Fehlersuchen in Laborprotokollen übertraf ein Sprachmodell 94 Prozent der Virologen. Die „kleine Unerfindung“ ist dort eine Sorge und keine Messung, und so sollte man auch Beautemps' Jobfrage lesen. Für die Paper liefert der Film den schärfsten Satz, *„the teacher can say no“*; den Forschenden, deren Aufsätze IRIS liest, hat niemand diese Wahl gelassen.
+
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen#Das baumelnde Kabel|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Hammers stärkstes Argument stammt aus der Werkstatt, in der Vuine steht: *„Das beste Modell der Produktionsumgebung ist die Produktionsumgebung.“* Simulation scheitert an der Reibung, darum lernt IRIS aus den eigenen Messungen und Exia an seinem Träger. Vuines zweite Zahl reicht bis zu VisiNav: 70 Prozent Erfolgsquote heißen in der Küche einen kaputten Teller pro Woche, an einer Straßenkreuzung sind sie keine Option.
+
+### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System#Drei Praktiken Wie man Hype-Immunität entwickelt|Neitzel und Iltisberger — Hype Is a System]]
+
+Für Neitzel und Iltisberger gehören die Medien zum festen Personal des Hypes, und der Titel „6000x schneller“ ist die Sprache, vor der sie warnen. Ihre Frage, wer die gescheiterten Experimente bezahlt, trifft German Bionic: die Gläubiger der alten Firma, und das Wort „Insolvenz“ fällt im Video nicht. Zugleich übt das eingebaute Aber genau ihre Praxis der Gegenprüfung. Hammer setzt sich einen Maßstab, den er noch nicht erfüllt, Steller sagt, was ihr Gerät absichtlich nicht kann, Beautemps sagt, dass die App im Büro nicht überall funktioniert hat. Das Aber steht im Inhalt, nur nicht im Titel.
+
+### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Wenn das Werkzeug Teil des Selbst wird|NANO — Gehirnchips und Gedankenfreiheit]]
+
+Was Beautemps andeutet, eine KI mit *„extrem detailreichen Infos über meinen Körper“*, ist dort schon geschehen. Rita Leggetts Implantat lernte an ihrem Gehirn und wurde ihr entnommen, als der Firma das Geld ausging. Exia lernt die Bewegungsabsicht seines Trägers, und die Firma dahinter war insolvent. Wer sich auf ein lernendes Hilfsmittel verlässt, hängt auch an der Bilanz seines Herstellers.
+
+### → [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe#Behindert sein und behindert werden|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+
+VisiNav hilft dem Einzelnen in einer Umgebung, die kaum auf blinde Menschen ausgelegt ist, und steht damit zwischen den beiden Blicken, die Krauthausen unterscheidet: dem, der den Menschen ausstattet, und dem, der die Barriere abbaut. Er besteht darauf, dass beides stimmt. Eine App ersetzt keine Ansagen und kein Zwei-Sinne-Prinzip, widerspricht ihnen aber auch nicht. Von ihm aus gedacht hieße Teilgabe, dass blinde Menschen die Praxistests mitgestalten, die die Jury fordert.
+
+### → [[Denker/Catrin Misselhorn — Grundfragen der Maschinenethik#Die drei Grundsätze der Maschinenethik|Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Misselhorns erster Grundsatz liest sich wie das Programm dieses Videos: KI soll helfen und Selbstbestimmung fördern. Sie klagt, dass KI Kunst und Beziehungen ersetzt statt der versprochenen *„dull, dirty, dangerous“*-Arbeit; Physical AI zielt genau auf diese Arbeit. Ihre Dialektik des Technischen schärft Stellers Satz, das Exoskelett passe sich dem Menschen an „und nicht umgekehrt“: Technik erweitert erst die Freiheit und zwingt uns dann, uns auf sie einzustellen.
 
 ---
 
