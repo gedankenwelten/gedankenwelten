@@ -8,7 +8,7 @@ aliases:
 
 # Datenschutzerklärung
 
-Stand: 16. Oktober 2026
+Stand: 5. November 2026
 
 ## 1. Verantwortlicher
 
@@ -106,6 +106,7 @@ Der MCP-Server (Model Context Protocol) ermöglicht die semantische Suche über 
 | **Suchanfragen** | Werden zur Verarbeitung in Vektor-Embeddings umgewandelt. **Nicht gespeichert, nicht geloggt.** |
 | **Anmeldung** | Keine. Der MCP-Server verlangt keine Anmeldung und vergibt keine Zugangsschlüssel (Tokens). |
 | **IP-Adressen** | Die Verbindung läuft über Cloudflare (Proxy). Damit niemand den Server überlastet, zählt er die Anfragen je IP-Adresse; die Adresse bleibt dafür **höchstens 60 Sekunden im Arbeitsspeicher** und wird **nicht gespeichert und nicht geloggt**. Wer über einen KI-Dienst wie Claude verbunden ist, erscheint dabei mit einer Adresse dieses Dienstes, nicht mit der eigenen. |
+| **Nutzungszählung** | Damit wir wissen, ob der Zugang gebraucht wird, zählt der Server **je Tag zwei Summen**: wie viele Gespräche ihn benutzt haben und in wie vielen Gesprächen eine Note geöffnet wurde (nur ihr Titel; je Gespräch wird eine Note einmal gezählt). Ob zwei Aufrufe zum selben Gespräch gehören, erkennt er an der offenen Verbindung; das merkt er sich **nur im Arbeitsspeicher bis Mitternacht**. Gespeichert werden ausschließlich die Summen. **Keine Suchanfragen, keine Suchtreffer, keine Adressen, keine Uhrzeiten, keine Kennungen.** Ein Rückschluss auf Personen ist nicht möglich. |
 | **Server-Protokoll** | Es gibt **kein Zugriffsprotokoll**. Das technische Protokoll enthält nur Betriebsmeldungen des Servers (Start, interne Datenbankabfragen, Fehler), keine Adressen und keine Suchanfragen, und wird fortlaufend überschrieben. |
 | **Inhalte der Wissensbasis** | Alle durchsuchbaren Inhalte sind öffentlich auf [gedankenwelten.org](https://gedankenwelten.org) verfügbar. |
 
@@ -116,6 +117,7 @@ Der MCP-Server:
 - verwendet **kein Tracking**
 - gibt **keine Daten an Dritte** weiter
 - verarbeitet **keine personenbezogenen Daten** über die technische Verbindung hinaus
+- zählt nur, **wie oft** er benutzt wird und **welche Notes** dabei geöffnet werden, als Tagessummen ohne Bezug zu Personen
 
 ### Datenweitergabe
 
