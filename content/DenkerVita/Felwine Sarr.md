@@ -8,7 +8,7 @@ tags: [denker-vita, afrotopia, postkolonialismus, senegal, oekonomie]
 
 # Felwine Sarr — DenkerVita
 
-![[assets/Felwine-Sarr-banner.jpg|1200]]
+![[assets/Felwine-Sarr-banner.jpg|Ölgemälde in warmem Braun und Violett: Ein Mann spielt auf einem Stapel Bücher Gitarre, Notenblätter und Töne wehen hinaus über einen Fluss, auf dem zwei Männer Boote staken, darüber eine untergehende Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

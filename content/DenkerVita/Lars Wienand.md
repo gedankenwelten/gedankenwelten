@@ -8,7 +8,7 @@ raetsel: "Moskau schenkte ihm einen Bruder. Er schrieb zurück: Ich hatte nie ei
 
 # Lars Wienand
 
-![[assets/Lars-Wienand-vita-banner.jpg|1200]]
+![[assets/Lars-Wienand-vita-banner.jpg|Ein Mann im Anzug steht, von hinten gesehen, an einem großen Fenster mit Blick auf grüne Hügel, ein runder Ausschnitt darin zeigt dieselbe Landschaft bei Nacht mit erleuchteten Häusern. Davor liegen Stempel, Papierstapel und eine Tasse.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -20,7 +20,7 @@ aliases:
 
 # Markus Gabriel — KI als Resonanzfeld und Mu
 
-![[assets/Markus-Gabriel-KI-als-Resonanzfeld-und-Mu-scobel-banner.jpg|1200]]
+![[assets/Markus-Gabriel-KI-als-Resonanzfeld-und-Mu-scobel-banner.jpg|Links eine menschliche Gestalt aus blauen, roten und gelben Farbflächen, in der Mitte ein Wirbel aus Kreisen in denselben Farben um ein weißes Zentrum, rechts geometrische Felder, die in Leiterbahnen auslaufen.|1200]]
 
 <details><summary>🎨</summary>
 

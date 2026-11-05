@@ -13,7 +13,7 @@ type: persönliches-dokument
 
 # Vipassana — Zehn Tage
 
-![[assets/Vipassana-Zehn-Tage-banner.jpg|1200]]
+![[assets/Vipassana-Zehn-Tage-banner.jpg|Verwittertes Wandbild in einer Höhle: eine meditierende Buddhafigur in Ocker und Rot, durch ihren Körper zieht ein heller Lichtstreifen, links Reihen schwarzer Pfeile, rechts Wellen aus Punkten, unten ein Fries aus Lotosblättern.|1200]]
 
 <details><summary>🎨</summary>
 

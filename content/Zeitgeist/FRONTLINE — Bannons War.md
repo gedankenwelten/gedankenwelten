@@ -23,7 +23,7 @@ aliases:
 
 # FRONTLINE — Bannon’s War
 
-![[assets/FRONTLINE-Bannons-War-banner.jpg|1200]]
+![[assets/FRONTLINE-Bannons-War-banner.jpg|Schwarzweiße Federzeichnung: Ein Mann an einer riesigen Druckwalze lässt Zeitungsbahnen über die Dächer einer Stadt fließen, hin zur Kuppel des amerikanischen Kapitols; auf der Straße recken Menschen die Arme, Schneeflocken am Nachthimmel.|1200]]
 
 <details><summary>🎨</summary>
 

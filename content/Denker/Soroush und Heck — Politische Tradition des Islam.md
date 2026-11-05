@@ -19,7 +19,7 @@ aliases:
 
 # Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?
 
-![[assets/Soroush-und-Heck-Politische-Tradition-des-Islam-banner.jpg|1200]]
+![[assets/Soroush-und-Heck-Politische-Tradition-des-Islam-banner.jpg|Persische Miniatur: Zwei bärtige Männer mit Turban sitzen im Gespräch auf einem Teppich vor einer Mauer, zwischen ihnen Teegläser und offene Bücher; hinter ihnen ein Baum mit beschriebenen Blättern und ein Baum voller Vögel.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -16,7 +16,7 @@ aliases:
 
 # Achille Mbembe — The Earthly Community
 
-![[assets/Mbembe-The-Earthly-Community-banner.jpg|1200]]
+![[assets/Mbembe-The-Earthly-Community-banner.jpg|Webbild in Erdtönen: Menschen in langen Gewändern, Antilopen, ein Hund und Vögel stehen um eine leuchtende Weltkugel, verbunden durch geschwungene Bänder, an den Rändern Bäume.|1200]]
 
 <details><summary>🎨</summary>
 

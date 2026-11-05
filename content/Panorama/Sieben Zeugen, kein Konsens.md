@@ -24,7 +24,7 @@ stimme:
 
 # Sieben Zeugen, kein Konsens
 
-![[assets/Sieben-Zeugen-kein-Konsens-banner.jpg|1200]]
+![[assets/Sieben-Zeugen-kein-Konsens-banner.jpg|Eine Mauer aus bunten Steinen mit fünf Bogenfenstern, durch die man Olivenhaine, eine graue Mauer, Trümmer, ein Dorf mit Kirchturm und eine leere Straße sieht.|1200]]
 
 <details><summary>🎨</summary>
 

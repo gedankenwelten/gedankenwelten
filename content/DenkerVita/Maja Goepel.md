@@ -9,7 +9,7 @@ tags: [denker-vita, wirtschaft, kapitalismus, demokratie, philosophie, deutschla
 
 # Maja Göpel — DenkerVita
 
-![[assets/Maja-Goepel-vita-banner.jpg|1200]]
+![[assets/Maja-Goepel-vita-banner.jpg|Flache Grafik unter blauem Himmel: Zwei Hände halten die Erdkugel auf einem Ring mit Symbolen, darauf Windräder, Gärten und zwei Fabrikschlote, darunter windet sich ein grüner Pfeil nach oben.|1200]]
 
 <details><summary>🎨</summary>
 

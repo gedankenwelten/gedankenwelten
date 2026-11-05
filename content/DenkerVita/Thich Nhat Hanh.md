@@ -8,7 +8,7 @@ tags: [denker-vita, buddhismus, vipassana, meditation, interbeing, engaged-buddh
 
 # Thich Nhat Hanh — DenkerVita
 
-![[assets/Thich-Nhat-Hanh-vita-banner.jpg|1200]]
+![[assets/Thich-Nhat-Hanh-vita-banner.jpg|Tuschezeichnung auf hellem Papier: eine Lotusblüte, ein kleines Bild mit Regenwolke, roter Sonne und einzelnem Baum, darüber ein mit dem Pinsel gezogener schwarzer Kreis, darunter ein nackter Fuß, der auftritt.|1200]]
 
 <details><summary>🎨</summary>
 

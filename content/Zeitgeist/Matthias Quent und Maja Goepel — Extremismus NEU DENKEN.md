@@ -17,7 +17,7 @@ aliases:
 
 # Matthias Quent und Maja Göpel — Extremismus NEU DENKEN
 
-![[assets/Matthias-Quent-und-Maja-Goepel-Extremismus-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Matthias-Quent-und-Maja-Goepel-Extremismus-NEU-DENKEN-banner.jpg|Holzschnitt in Schwarz mit Orange: Ein Megafon auf einem Pfahl strahlt über eine Masse gebeugter Köpfe; rechts bauen Menschen gemeinsam das Holzgerüst eines Hauses vor aufgehender Sonne, einer pflanzt einen Baum.|1200]]
 
 <details><summary>🎨</summary>
 

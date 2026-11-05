@@ -22,7 +22,7 @@ aliases:
 
 # Warum verschwinden die Insekten, und warum spricht kaum jemand darüber?
 
-![[assets/Warum-verschwinden-die-Insekten-banner.jpg|1200]]
+![[assets/Warum-verschwinden-die-Insekten-banner.jpg|Gemälde: weites Ackerland mit Feldern, Teich und Dorf mit Kirchturm, Menschen bücken sich und sammeln, vorne an einem Wegrand voller Mohn und Kornblumen eine Frau mit Korb, die sich an den Kopf fasst.|1200]]
 
 <details><summary>🎨</summary>
 

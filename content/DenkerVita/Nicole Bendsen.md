@@ -6,7 +6,7 @@ tags: [denker-vita, wirtschaft, nachhaltigkeit, deutschland]
 
 # Nicole Bendsen — DenkerVita
 
-![[assets/Nicole-Bendsen-banner.jpg|1200]]
+![[assets/Nicole-Bendsen-banner.jpg|Wandbild in Erdtönen: Menschen fassen sich um einen runden Tisch mit Kompassrose an den Händen, einer hält ein Buch mit der Aufschrift „Kapital“, andere ein Bäumchen und ein Hausmodell. Ringsum bauen Arbeiter.|1200]]
 
 <details><summary>🎨</summary>
 

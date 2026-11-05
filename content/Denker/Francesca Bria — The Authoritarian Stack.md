@@ -22,7 +22,7 @@ aliases:
 
 # Francesca Bria — The Authoritarian Stack
 
-![[assets/Francesca-Bria-The-Authoritarian-Stack-banner.jpg|1200]]
+![[assets/Francesca-Bria-The-Authoritarian-Stack-banner.jpg|Unter violettem Himmel steht ein griechischer Tempel auf orangem Wüstenboden, daneben eine lange Reihe Serverschränke mit Satellitenschüsseln und Kabeln, einige kleine Menschen dazwischen, lange Schatten.|1200]]
 
 <details><summary>🎨</summary>
 

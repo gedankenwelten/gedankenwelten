@@ -8,7 +8,7 @@ tags: [denker-vita, bildung, pädagogik, deutschland]
 
 # Björn Nölte — DenkerVita
 
-![[assets/Bjoern-Noelte-vita-banner.jpg|1200]]
+![[assets/Bjoern-Noelte-vita-banner.jpg|Ein altes Klassenzimmer mit Kinderzeichnungen an der Wand: Erwachsene sitzen an Schulbänken und heben die Hand, in der Mitte sitzt ein alter Mann ruhig auf einem Stuhl.|1200]]
 
 <details><summary>🎨</summary>
 

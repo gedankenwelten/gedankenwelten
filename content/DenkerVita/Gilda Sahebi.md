@@ -8,7 +8,7 @@ tags: [denker-vita, medien, iran, rassismus, autoritarismus]
 
 # Gilda Sahebi — DenkerVita
 
-![[assets/Gilda-Sahebi-banner.jpg|1200]]
+![[assets/Gilda-Sahebi-banner.jpg|Miniaturmalerei mit Goldgrund und Ornamentrahmen: Eine Frau in Blau und Rot hebt ein Schwert, aus dem Rosen sprießen, ihr Haar weht wie Flammen. Links ein rissiger Steinturm, rechts Zypresse und Brunnen, dazwischen persische Schriftzeilen.|1200]]
 
 <details><summary>🎨</summary>
 

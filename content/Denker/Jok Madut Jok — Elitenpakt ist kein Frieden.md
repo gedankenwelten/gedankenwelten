@@ -15,7 +15,7 @@ aliases:
 
 # Jok Madut Jok — Ein Elitenpakt ist kein Frieden
 
-![[assets/Jok-Madut-Jok-Elitenpakt-ist-kein-Frieden-banner.jpg|1200]]
+![[assets/Jok-Madut-Jok-Elitenpakt-ist-kein-Frieden-banner.jpg|Eine lange Reihe dunkler Menschen mit weißen Körpermustern hält sich an weißen Bändern, dahinter eine dichte Menge; darüber Vollmond, zwei Mondsicheln und arabische Schriftzeichen, vorn rissiger Boden und Dornenzweige.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ aliases:
 
 # Yonatan Zeigen — A Place For Us All
 
-![[assets/Yonatan-Zeigen-A-Place-For-Us-All-banner.jpg|1200]]
+![[assets/Yonatan-Zeigen-A-Place-For-Us-All-banner.jpg|Wie ein Wandbild: Viele Menschen in Alltagskleidung stemmen gemeinsam ein hölzernes Dachgerüst um einen Olivenbaum, Frauen reichen Ziegel; daneben ein Orangenbaum, Kinder pflanzen Setzlinge, rechts eine Wahlurne mit Taube.|1200]]
 
 <details><summary>🎨</summary>
 

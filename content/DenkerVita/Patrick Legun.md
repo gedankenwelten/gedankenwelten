@@ -6,7 +6,7 @@ tags: [denker-vita, soziale-ungleichheit, pakistan, medien, ethik, deutschland]
 
 # Patrick Legun — DenkerVita
 
-![[assets/Patrick-Legun-vita-banner.jpg|1200]]
+![[assets/Patrick-Legun-vita-banner.jpg|Kolorierte Zeichnung: Ein junger Mann mit bandagiertem Bein sitzt auf einem Bett und blickt in sein leuchtendes Telefon, von rechts reichen ihm viele Hände Brotlaibe und Decken.|1200]]
 
 <details><summary>🎨</summary>
 

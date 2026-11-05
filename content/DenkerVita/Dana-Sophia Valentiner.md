@@ -6,7 +6,7 @@ tags: [denker-vita, recht, demokratie, deutschland]
 
 # Dana-Sophia Valentiner — DenkerVita
 
-![[assets/Dana-Sophia-Valentiner-banner.jpg|1200]]
+![[assets/Dana-Sophia-Valentiner-banner.jpg|Geometrische Komposition auf hellem Grund: eine waagrechte Achse mit kleinen farbigen Quadraten, darauf zwei rotblaue Scheiben, in der Mitte ein Turm aus grauen, schwarzen und gelben Blöcken um einen schwarzweißen Kreis, rechts ein Pfeil nach oben.|1200]]
 
 <details><summary>🎨</summary>
 

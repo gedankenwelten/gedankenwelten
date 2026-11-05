@@ -6,7 +6,7 @@ tags: [denker-vita, medien, migration, demokratie, rechtsextremismus, deutschlan
 
 # Hasnain Kazim
 
-![[assets/Hasnain-Kazim-vita-banner.jpg|1200]]
+![[assets/Hasnain-Kazim-vita-banner.jpg|Collage aus alten Papieren: links zerrissene Fetzen, Briefmarken, eine Tabelle und eine Kompassrose, in der Mitte ein handschriftlicher Brief mit Poststempel, rechts leere helle Flächen mit einem roten Rechteck und einer blauen Linie.|1200]]
 
 <details><summary>🎨</summary>
 

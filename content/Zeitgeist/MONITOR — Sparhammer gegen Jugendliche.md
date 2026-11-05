@@ -17,7 +17,7 @@ aliases:
 
 # MONITOR — Sparhammer gegen Jugendliche
 
-![[assets/MONITOR-Sparhammer-gegen-Jugendliche-banner.png|1200]]
+![[assets/MONITOR-Sparhammer-gegen-Jugendliche-banner.png|In Ocker und Grau: Auf flachen Dächern sitzen und knien dünne Figuren, zwischen ihnen ein Geflecht gespannter Fäden; zwei in der Mitte reichen sich Fäden, von rechts schneidet eine große Schere hinein.|1200]]
 
 <details><summary>🎨</summary>
 

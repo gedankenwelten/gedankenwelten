@@ -9,7 +9,7 @@ raetsel: "Ein Vierteljahrhundert erklärte er die Nachbarn. Dann überraschten s
 
 # Ernst Gelegs — DenkerVita
 
-![[assets/Ernst-Gelegs-vita-banner.jpg|1200]]
+![[assets/Ernst-Gelegs-vita-banner.jpg|Pastos gemalt: Ein Kameramann mit Stativ steht auf einer Mauer über einem breiten Fluss, darüber eine Kettenbrücke, am anderen Ufer ein großes Parlamentsgebäude mit Kuppel unter grauem Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

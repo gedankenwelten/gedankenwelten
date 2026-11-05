@@ -17,7 +17,7 @@ raetsel: "Sie stellte die Frage. Die anderen stritten, wem die Antwort gehört."
 
 # Darf Europa mit Diktaturen Handel treiben?
 
-![[assets/Darf-Europa-mit-Diktaturen-Handel-treiben-banner.jpg|1200]]
+![[assets/Darf-Europa-mit-Diktaturen-Handel-treiben-banner.jpg|Zeichnung: Eine junge Frau im Kapuzenpulli steht von hinten am Mikrofon, vor ihr an einem Tisch drei Erwachsene, die gestikulierend antworten, dahinter ein Containerhafen mit Kränen und Schiff.|1200]]
 
 <details><summary>🎨</summary>
 

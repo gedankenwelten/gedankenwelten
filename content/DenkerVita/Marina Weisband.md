@@ -9,7 +9,7 @@ raetsel: "Im Spiel führt sie Armeen. In der Schule übergibt sie den Kindern da
 
 # Marina Weisband — DenkerVita
 
-![[assets/Marina-Weisband-vita-banner.jpg|1200]]
+![[assets/Marina-Weisband-vita-banner.jpg|Volkskunst in leuchtenden Farben mit Blumenrand: In der Mitte sitzt ein Fuchs in einer Sonnenblume unter einem Baum mit Vögeln und kleinen Häusern, links Eule, Hasen und Kinder auf Hockern, rechts ein Fabelwesen mit Laute.|1200]]
 
 <details><summary>🎨</summary>
 

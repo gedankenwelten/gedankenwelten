@@ -19,7 +19,7 @@ aliases:
 
 # Walther Ziegler — Rawls in 60 Minuten
 
-![[assets/Walther-Ziegler-Rawls-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Rawls-in-60-Minuten-banner.jpg|Sechs Männer in Anzügen, die Köpfe unter weißen Tüchern verhüllt, sitzen an einem runden Tisch, auf dem eine Stadt wie eine Torte in Stücke geteilt liegt; einer schneidet mit einem Messer, darüber schwebt eine goldene Waage.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, konsum, kapitalismus, technologie, deutschland]
 
 # Gabriel Yoran — DenkerVita
 
-![[assets/Gabriel-Yoran-banner.jpg|1200]]
+![[assets/Gabriel-Yoran-banner.jpg|Menschenleerer Platz mit Arkaden und langen Schatten: Auf drei Sockeln stehen ein Wasserkessel, ein großer Drehregler und ein aufgerollter Schlauch, beschriftet mit den lateinischen Wörtern für Ewigkeit und Wasser. Eine Gliederpuppe im Anzug prüft sie mit einer Lupe.|1200]]
 
 <details><summary>🎨</summary>
 

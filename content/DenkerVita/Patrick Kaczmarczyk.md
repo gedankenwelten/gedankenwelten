@@ -6,7 +6,7 @@ tags: [denker-vita, wirtschaft, entwicklungspolitik, fiskalpolitik, deutschland]
 
 # Patrick Kaczmarczyk — DenkerVita
 
-![[assets/Patrick-Kaczmarczyk-vita-banner.jpg|1200]]
+![[assets/Patrick-Kaczmarczyk-vita-banner.jpg|Wandbild: In der Mitte steht ein Mann an einem Tisch vor einer Schriftrolle mit Symbolen für Geld, Strom und Handel. Links tragen Arbeiter Säcke von Getreidesilos, rechts errichten Arbeiter mit Helmen Strommasten und Gleise vor einem goldenen Hochhaus.|1200]]
 
 <details><summary>🎨</summary>
 

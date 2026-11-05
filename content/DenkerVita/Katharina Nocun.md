@@ -8,7 +8,7 @@ tags: [denker-vita, datenschutz, verschwörungstheorien, esoterismus, ai, desinf
 
 # Katharina Nocun — DenkerVita
 
-![[assets/Katharina-Nocun-vita-banner.jpg|1200]]
+![[assets/Katharina-Nocun-vita-banner.jpg|Zweigeteilte Papiercollage: Links spannt eine Hand rote Fäden zwischen Fotos von Menschen, Diagrammen und Pfeilen auf einer Pinnwand, rechts hält eine Hand einen Ausweis neben ein Schild mit Vorhängeschloss.|1200]]
 
 <details><summary>🎨</summary>
 

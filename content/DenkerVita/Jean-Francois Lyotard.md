@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, postmoderne, erkenntnistheorie, sprachphilosoph
 
 # Jean-François Lyotard — DenkerVita
 
-![[assets/Jean-Francois-Lyotard-vita-banner.jpg|1200]]
+![[assets/Jean-Francois-Lyotard-vita-banner.jpg|Collage: Vor einem klassizistischen Säulentempel hängt ein zerrissenes Banner mit der Aufschrift „Große Erzählung“, links rote Farbspritzer, rechts flattern Zettel und Ausschnitte mit Wörtern wie „Mythos“, „Wahrheit“, „Geschichte“ und „Zweifel“.|1200]]
 
 <details><summary>🎨</summary>
 

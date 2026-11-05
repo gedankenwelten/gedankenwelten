@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, macht, kritische-theorie, demokratie]
 
 # Alex Demirović — DenkerVita
 
-![[assets/Alex-Demirovic-vita-banner.jpg|1200]]
+![[assets/Alex-Demirovic-vita-banner.jpg|Plakat in Schwarz, Rot und Creme: Ein schräges Gerüst aus Stahlträgern und Zahnrädern bricht entlang eines gezackten Risses auseinander, oben ein großes Auge in einem Dreieck, unten eine Reihe kleiner Figuren.|1200]]
 
 <details><summary>🎨</summary>
 

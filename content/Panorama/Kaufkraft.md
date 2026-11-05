@@ -17,7 +17,7 @@ erstellt: 2026-05-23
 
 # Kaufkraft — Warum ein Lohn nicht mehr für eine Familie reicht
 
-![[assets/Kaufkraft-banner.jpg|1200]]
+![[assets/Kaufkraft-banner.jpg|Zeichnung: Eine rote Linie mit der Aufschrift Immobilienpreise steigt steil, eine graue namens Lebensstandard bleibt flach, rechts schleppen zwei Männer ein schwebendes Haus mit Preisschild 120.000, oben sitzt ein Mann mit Zylinder, links eine Familie vor kleinem Haus.|1200]]
 
 <details><summary>🎨</summary>
 

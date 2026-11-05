@@ -17,7 +17,7 @@ aliases:
 
 # Walther Ziegler — Kafka in 60 Minuten
 
-![[assets/Walther-Ziegler-Kafka-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Kafka-in-60-Minuten-banner.jpg|Bleistiftzeichnung: Vor einem riesigen Gebäude mit unzähligen Fenstern und offenem Tor ziehen gebückte Figuren am Rand einer Klippe an einem Seil; das Seil reißt, eine Figur stürzt in die Tiefe.|1200]]
 
 <details><summary>🎨</summary>
 

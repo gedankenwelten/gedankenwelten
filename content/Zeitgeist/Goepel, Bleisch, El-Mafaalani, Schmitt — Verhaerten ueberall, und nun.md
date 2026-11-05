@@ -28,7 +28,7 @@ aliases:
 
 # Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?
 
-![[assets/Goepel-Bleisch-El-Mafaalani-Schmitt-Verhaerten-ueberall-und-nun-banner.jpg|1200]]
+![[assets/Goepel-Bleisch-El-Mafaalani-Schmitt-Verhaerten-ueberall-und-nun-banner.jpg|Wie ein altes Genrebild: An einer langen Tafel in einer Holzstube drängen sich Bauersleute, einer in der Mitte hält eine Torte auf einem Brett hoch; links sitzt ein Mann mit verschränkten Armen abseits, vorn kniet einer mit einem Geschenk.|1200]]
 
 <details><summary>🎨</summary>
 

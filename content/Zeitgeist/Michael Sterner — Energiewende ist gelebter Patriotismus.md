@@ -17,7 +17,7 @@ aliases:
 
 # Michael Sterner — Energiewende ist gelebter Patriotismus
 
-![[assets/Michael-Sterner-Energiewende-ist-gelebter-Patriotismus-banner.jpg|1200]]
+![[assets/Michael-Sterner-Energiewende-ist-gelebter-Patriotismus-banner.jpg|Pastos und farbkräftig: Ein Mann blickt von hinten über ein goldenes Feld auf ein Dorf mit Zwiebelturmkirche und Solardächern, auf den grünen Hügeln dahinter drehen sich Windräder.|1200]]
 
 <details><summary>🎨</summary>
 

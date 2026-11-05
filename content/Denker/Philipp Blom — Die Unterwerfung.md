@@ -32,7 +32,7 @@ stimme:
 
 # Philipp Blom — Die Unterwerfung
 
-![[assets/Philipp-Blom-Die-Unterwerfung-banner.jpg|1200]]
+![[assets/Philipp-Blom-Die-Unterwerfung-banner.jpg|Ein dichter Nadelwald, durch den ein Lichtstrahl fällt; ein bärtiger Mann mit Axt und Lendentuch steht neben einem gefällten Stamm, rechts führt eine Treppe aus Baumstämmen zu einer roten Festung.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ raetsel: "Zwei Gesten aus demselben Viertel: die Hand, die hält. Die Faust."
 
 # Şeyda Kurt — DenkerVita
 
-![[assets/Seyda-Kurt-vita-banner.jpg|1200]]
+![[assets/Seyda-Kurt-vita-banner.jpg|Grafik in Schwarz, Creme und Orange: Vor einer Arbeiterstraße mit Wäscheleinen, Kiosk, Schlot und Fabrikhalle streckt sich links eine offene Hand, rechts ragt eine geballte Faust empor.|1200]]
 
 <details><summary>🎨</summary>
 

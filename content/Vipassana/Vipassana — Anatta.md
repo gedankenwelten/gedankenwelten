@@ -26,7 +26,7 @@ stimme:
 
 # Vipassana — Anattā (Nicht-Selbst)
 
-![[assets/Vipassana_Anatta.png]]
+![[assets/Vipassana_Anatta.png|Aquarelltafel mit Beschriftungen: drei Figuren aus blauen und gelben Flächen, links hinter einem Gitter mit den Worten das aufgebaute Ich, in der Mitte kein festes Ich, ein Prozess, rechts löst sich die Figur in Bänder auf, darunter nicht das Leben, der Käfig.]]
 
 <details><summary>🎨</summary>
 

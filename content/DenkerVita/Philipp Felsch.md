@@ -8,7 +8,7 @@ raetsel: "Er sammelt die Taschenbücher, in denen die Gedanken verreisten."
 
 # Philipp Felsch — DenkerVita
 
-![[assets/Philipp-Felsch-vita-banner.jpg|1200]]
+![[assets/Philipp-Felsch-vita-banner.jpg|Helles Zimmer voller bunter Bücher in Regalen und Stapeln am Boden, ein Korbstuhl auf buntem Teppich, ein Tisch mit Schreibmaschine und Plattenspieler. Durchs Fenster sieht man endlose Reihen grauer Archivkästen.|1200]]
 
 <details><summary>🎨</summary>
 

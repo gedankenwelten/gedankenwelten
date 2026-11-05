@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, nachhaltigkeit, finanzmarkt, transformation, deu
 
 # Silke Stremlau — DenkerVita
 
-![[assets/Silke-Stremlau-vita-banner.jpg|1200]]
+![[assets/Silke-Stremlau-vita-banner.jpg|Flache Grafik auf Grün: Von links strömen Bänder mit Münzen zu einer Uhr, deren Zeiger ein Blatt ist, rechts wachsen Bäume und Pflänzchen aus Geldstapeln neben Solarplatten und Windrädern.|1200]]
 
 <details><summary>🎨</summary>
 

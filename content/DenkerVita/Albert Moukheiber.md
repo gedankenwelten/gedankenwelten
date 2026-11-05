@@ -8,7 +8,7 @@ tags: [denker-vita, neurowissenschaft, psychologie, kognition]
 
 # Albert Moukheiber — DenkerVita
 
-![[assets/Albert-Moukheiber-vita-banner.jpg|1200]]
+![[assets/Albert-Moukheiber-vita-banner.jpg|Die schwarze Silhouette eines Kopfes im Profil, darin verschachtelte Treppen mit kleinen Menschen; an der Stirn bricht ein Lichtpunkt auf, aus dem ein Schwarm Vögel hinausfliegt.|1200]]
 
 <details><summary>🎨</summary>
 

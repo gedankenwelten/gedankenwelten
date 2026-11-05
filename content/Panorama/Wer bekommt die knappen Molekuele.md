@@ -19,7 +19,7 @@ tags:
 
 # Wer bekommt die knappen Moleküle?
 
-![[assets/Wer-bekommt-die-knappen-Molekuele-banner.jpg|1200]]
+![[assets/Wer-bekommt-die-knappen-Molekuele-banner.jpg|Flache Grafik: Unter einem Wasserhahn, aus dem zwei orange Tropfen fallen, steht eine Reihe Menschen, ein Uniformierter, eine Ärztin, ein Arbeiter und Kinder, mit Kanistern, Trichter, Krug und Glaskolben, vorne ein Heizkörper.|1200]]
 
 <details><summary>🎨</summary>
 

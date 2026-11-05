@@ -19,7 +19,7 @@ aliases:
 
 # Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir
 
-![[assets/Constanze_Kurz_Stochastischer_Papagei_Chatkontrolle_Und_Palantir.png|700]]
+![[assets/Constanze_Kurz_Stochastischer_Papagei_Chatkontrolle_Und_Palantir.png|Aquarell: Ein Papagei aus Leiterplatten sitzt über einer Stadt aus gelben und blauen Blöcken, neben ihm eine mathematische Formel; rote Linien verbinden die kleinen schwarzen Figuren auf dem Platz, links Gestalten in Glasscherben.|700]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # Souleymane Bachir Diagne — Der Philosoph als Übersetzer
 
-![[assets/Souleymane-Bachir-Diagne-Der-Philosoph-als-Uebersetzer-banner.jpg|1200]]
+![[assets/Souleymane-Bachir-Diagne-Der-Philosoph-als-Uebersetzer-banner.jpg|Aquarell: Über eine Brücke aus bunten Feldern mit Schriftzeichen vieler Sprachen gehen kleine Figuren, manche tragen Buchstaben; darunter ziehen Boote mit Buchstabensegeln, oben eine Mondsichel.|1200]]
 
 <details><summary>🎨</summary>
 

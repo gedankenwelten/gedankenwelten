@@ -6,7 +6,7 @@ tags: [denker-vita, mathematik, ki]
 
 # Ken Ono — DenkerVita
 
-![[assets/Ken-Ono-banner.jpg|1200]]
+![[assets/Ken-Ono-banner.jpg|Japanischer Farbholzschnitt: Unter einer riesigen Welle steht ein Mann im Gewand in einem Boot und liest in einem beschriebenen Buch, aus der Gischt stieben kleine Zeichen, dahinter ein schneebedeckter Vulkankegel.|1200]]
 
 <details><summary>🎨</summary>
 

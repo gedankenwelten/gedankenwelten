@@ -19,7 +19,7 @@ aliases:
 
 # Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?
 
-![[assets/Die-Frage-Was-passiert-wenn-ich-bei-der-TelefonSeelsorge-anrufe-banner.jpg|1200]]
+![[assets/Die-Frage-Was-passiert-wenn-ich-bei-der-TelefonSeelsorge-anrufe-banner.jpg|Nacht in einer leeren Kleinstadtstraße: In einem erleuchteten Fenster sitzt ein Mensch an einem Schreibtisch mit Lampe und Telefon, im Wohnblock gegenüber brennt ein einzelnes Licht.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ raetsel: "Zwei Stühle, ein Licht, eine Frage. Die Antwort darf warten."
 
 # Barbara Bleisch — DenkerVita
 
-![[assets/Barbara-Bleisch-vita-banner.jpg|1200]]
+![[assets/Barbara-Bleisch-vita-banner.jpg|In einem hellen, kahlen Raum steht eine Frau im schwarzen Kleid von hinten am Fenster; vor ihr ein runder Tisch mit zwei Tassen und einem offenen Buch, zwei leere Stühle, rechts eine offene Tür.|1200]]
 
 <details><summary>🎨</summary>
 

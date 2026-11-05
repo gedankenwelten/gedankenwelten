@@ -28,7 +28,7 @@ stimme:
 
 # Made in Germany Awards 2026 — Energie: drei Erfindungen für den harten Kern
 
-![[assets/jacob-beautemps-harter-kern-energiewende-banner.jpg|1200]]
+![[assets/jacob-beautemps-harter-kern-energiewende-banner.jpg|Grafik auf hellem Grund: ein großes Molekülgitter aus Kugeln und Stäben zwischen Flugzeug, Tanklaster und Strommasten, ein Schlauch führt zu einem Kessel mit Flammen, dazu Farbblöcke in Rot, Gelb, Blau und Schwarz.|1200]]
 
 <details><summary>🎨</summary>
 

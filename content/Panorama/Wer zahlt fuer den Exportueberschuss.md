@@ -19,7 +19,7 @@ tags:
 
 # Wer zahlt für den Exportüberschuss?
 
-![[assets/Wer-zahlt-fuer-den-Exportueberschuss-banner.jpg|1200]]
+![[assets/Wer-zahlt-fuer-den-Exportueberschuss-banner.jpg|Flache Grafik: links eine Fabrik mit Reihen von Arbeitern und eine Truhe, aus der Münzen nach unten rieseln, in der Mitte zwei Frachtschiffe voller Autos, rechts schieben Figuren Autos einen Hang hinauf, darüber ein Bogen leerer Zettel.|1200]]
 
 <details><summary>🎨</summary>
 

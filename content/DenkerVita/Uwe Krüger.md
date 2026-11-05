@@ -9,7 +9,7 @@ tags: [denker-vita, medien, journalismus, medienkritik, demokratie, propaganda, 
 
 # Uwe Krüger — DenkerVita
 
-![[assets/Uwe-Krueger-vita-banner.jpg|1200]]
+![[assets/Uwe-Krueger-vita-banner.jpg|In der Dämmerung ein Meer aus spitzen Giebeldächern und Kirchtürmen, in einem hell erleuchteten Fenster sitzt ein Mann über einem Blatt, von dem feine Lichtlinien zu den Dächern laufen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 
 # Constanze Kurz — DenkerVita
 
-![[assets/Constanze-Kurz-banner.jpg|1200]]
+![[assets/Constanze-Kurz-banner.jpg|Bauplan in Weiß auf Blau mit der Überschrift Überwachungsapparat: Ein Fließband führt Menschenfiguren in eine Maschine mit Kameras, Greifarmen und Karteikästen, oben eine Anzeige mit der Aufschrift Punktzahl und einem Fragezeichen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, soziologie, eliten, soziale-ungleichheit, deutschland, macht
 
 # Michael Hartmann — DenkerVita
 
-![[assets/Michael-Hartmann-vita-banner.jpg|1200]]
+![[assets/Michael-Hartmann-vita-banner.jpg|Grafik in Gold, Schwarz und Marmorweiß: Ein großer runder Tisch mit goldenen Stühlen hinter Absperrkordeln, ringsum dunkle Silhouetten, hinten steht eine goldene Flügeltür offen, darin drei Gestalten.|1200]]
 
 <details><summary>🎨</summary>
 

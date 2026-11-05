@@ -9,7 +9,7 @@ tags: [denker-vita, literatur, literaturwissenschaft, philosophie, ästhetik, de
 
 # Eva Geulen — DenkerVita
 
-![[assets/Eva-Geulen-vita-banner.jpg|1200]]
+![[assets/Eva-Geulen-vita-banner.jpg|Zeichnung auf hellem Papier: eine Reihe Pflanzenformen, vom einfachen Blatt über Zweig und Blüten bis zu Tulpen, die rechts in ein verziertes Säulenkapitell übergeht.|1200]]
 
 <details><summary>🎨</summary>
 

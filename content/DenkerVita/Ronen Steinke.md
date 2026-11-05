@@ -8,7 +8,7 @@ tags: [denker-vita, recht, meinungsfreiheit, journalismus]
 
 # Ronen Steinke
 
-![[assets/Ronen-Steinke-vita-banner.jpg|1200]]
+![[assets/Ronen-Steinke-vita-banner.jpg|Grafik in Rot, Grau und Gold: Eine Justitia, deren verrutschte Augenbinde ein Auge freigibt, eine Waage mit einer kleinen Menschenfigur in einer Schale, daneben ein hoher Stapel Goldmünzen mit Zylinderhut.|1200]]
 
 <details><summary>🎨</summary>
 

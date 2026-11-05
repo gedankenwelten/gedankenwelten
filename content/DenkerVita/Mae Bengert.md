@@ -9,7 +9,7 @@ raetsel: "Sie lehrt das Lesen wie ein Warten. Wer es übt, wird leiser."
 
 # Mae Bengert — DenkerVita
 
-![[assets/Mae-Bengert-vita-banner.jpg|1200]]
+![[assets/Mae-Bengert-vita-banner.jpg|Stilles, leeres Zimmer: Durch ein Fenster fällt Licht auf einen Holztisch mit einem Laib Brot, einem Glas Wasser, einem Tuch und einem offenen Buch, daneben ein Stuhl, links eine offene Tür.|1200]]
 
 <details><summary>🎨</summary>
 

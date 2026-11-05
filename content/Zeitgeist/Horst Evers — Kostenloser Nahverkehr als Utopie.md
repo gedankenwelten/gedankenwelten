@@ -18,7 +18,7 @@ aktualisiert: 19.06.2026
 
 # Horst Evers — Kostenloser Nahverkehr als Utopie
 
-![[assets/Horst-Evers-Kostenloser-Nahverkehr-als-Utopie-banner.jpg|1200]]
+![[assets/Horst-Evers-Kostenloser-Nahverkehr-als-Utopie-banner.jpg|Eine rote Straßenbahn voller Menschen jeden Alters, die lesen, lachen und Musik hören, darüber in Schreibschrift das englische Wort für nett; unten fährt ein einzelner Mann in einem kleinen gelben Auto im Kreis.|1200]]
 
 <details><summary>🎨</summary>
 

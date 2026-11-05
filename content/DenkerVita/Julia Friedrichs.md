@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, soziale-ungleichheit, medien, deutschland, journ
 
 # Julia Friedrichs — DenkerVita
 
-![[assets/Julia-Friedrichs-banner.jpg|1200]]
+![[assets/Julia-Friedrichs-banner.jpg|Unter blauem Himmel schweben viele Männer mit Melone über einem kleinen grauen Haus zwischen Hecken. Das Haus wirft den Schatten einer Hochhaus-Skyline, links notiert eine Frau mit Melone etwas.|1200]]
 
 <details><summary>🎨</summary>
 

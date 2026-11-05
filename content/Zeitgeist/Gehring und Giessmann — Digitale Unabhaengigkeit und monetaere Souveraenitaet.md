@@ -20,7 +20,7 @@ aliases:
 
 # Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität
 
-![[assets/Gehring-und-Giessmann-Digitale-Unabhaengigkeit-und-monetaere-Souveraenitaet-banner.jpg|1200]]
+![[assets/Gehring-und-Giessmann-Digitale-Unabhaengigkeit-und-monetaere-Souveraenitaet-banner.jpg|Konstruktivistisch in Rot und Schwarz: Ein gebrochener Ring umschließt ein Eurozeichen, rote Keile schießen nach außen, ringsum feine Linien und Punkte wie ein Schaltplan.|1200]]
 
 <details><summary>🎨</summary>
 

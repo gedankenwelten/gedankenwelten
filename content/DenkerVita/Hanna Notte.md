@@ -9,7 +9,7 @@ raetsel: "In vielen Hauptstädten dieselbe Frage. Jede Antwort begann vor ihrer 
 
 # Hanna Notte — DenkerVita
 
-![[assets/Hanna-Notte-vita-banner.jpg|1200]]
+![[assets/Hanna-Notte-vita-banner.jpg|Eine junge Frau in dunkelblauem Kleid liest am Fenster einen Brief, an der Wand hängt eine große Weltkarte, auf dem Tisch darunter Papiere, eine Brille und eine Ledertasche.|1200]]
 
 <details><summary>🎨</summary>
 

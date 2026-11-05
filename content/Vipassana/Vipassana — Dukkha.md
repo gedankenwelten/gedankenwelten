@@ -25,7 +25,7 @@ stimme:
 
 # Vipassana — Dukkha (Das Leiden)
 
-![[assets/Vipassana_Dukkha.png]]
+![[assets/Vipassana_Dukkha.png|Aquarelltafel mit Beschriftungen: eine ausgekippte Flasche zwischen einer gebeugten und einer jubelnden Figur, eine Hand berührt eine stehende Figur bei den Worten ehrliche Diagnose, unter der Wasserlinie ein Tropfen und Baumwurzeln.]]
 
 <details><summary>🎨</summary>
 

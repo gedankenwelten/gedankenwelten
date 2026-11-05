@@ -17,7 +17,7 @@ aliases:
 
 # Vom Smartphone ins Gericht — Wie digitale Beweise Völkerstraftaten vor Gericht bringen
 
-![[assets/Schwarz-und-Obermaier-Vom-Smartphone-ins-Gericht-banner.jpg|1200]]
+![[assets/Schwarz-und-Obermaier-Vom-Smartphone-ins-Gericht-banner.jpg|Collage in Rot, Schwarz und Creme: Eine Hand hält ein Handy, aus dem Filmbilder und eine Standortmarke fliegen, hin zu einem Dokument mit dem Stempel „Versiegelt“ und einem Gerichtsgebäude mit Waage.|1200]]
 
 <details><summary>🎨</summary>
 

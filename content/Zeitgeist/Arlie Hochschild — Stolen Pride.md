@@ -19,7 +19,7 @@ aliases:
 
 # Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten
 
-![[assets/Arlie-Hochschild-Stolen-Pride-banner.jpg|1200]]
+![[assets/Arlie-Hochschild-Stolen-Pride-banner.jpg|Hügel in geschwungenen bunten Streifen: Ein dicker Mann im Anzug hackt glühende Kohle auf ein Förderband, das in einen feurigen Mund führt; rechts Bergleute mit Helmlampen, links eine Veranda mit Schaukelstuhl und eine kleine Kirche.|1200]]
 
 <details><summary>🎨</summary>
 

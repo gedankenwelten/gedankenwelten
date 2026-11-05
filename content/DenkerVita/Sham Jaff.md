@@ -6,7 +6,7 @@ tags: [denker-vita, medien, journalismus, global]
 
 # Sham Jaff — DenkerVita
 
-![[assets/Sham-Jaff-vita-banner.jpg|1200]]
+![[assets/Sham-Jaff-vita-banner.jpg|Persische Miniatur mit Ornamentrahmen: Eine Frau in blauem Gewand mit langem Zopf schreibt an einem Pult, rechts lauscht eine Gruppe Männer mit Turbanen und Papieren, dahinter Kuppeln, ein See, Berge und Tauben mit Briefen.|1200]]
 
 <details><summary>🎨</summary>
 

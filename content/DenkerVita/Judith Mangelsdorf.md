@@ -8,7 +8,7 @@ tags: [denker-vita, psychologie, deutschland, wissenschaft]
 
 # Judith Mangelsdorf — DenkerVita
 
-![[assets/Judith-Mangelsdorf-vita-banner.jpg|1200]]
+![[assets/Judith-Mangelsdorf-vita-banner.jpg|Flächig gemalt auf Rosa: Eine Frau in Blau sitzt mit einem aufgeschlagenen Buch am Tisch, darauf zwei Vasen mit Blumen, dahinter ein Fenster mit grünen Hügeln unter gelbem Himmel, rechts Noten und die Zahlen eins, zwei, drei.|1200]]
 
 <details><summary>🎨</summary>
 

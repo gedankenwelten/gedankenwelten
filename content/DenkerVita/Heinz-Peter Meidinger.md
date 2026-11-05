@@ -15,7 +15,7 @@ aliases:
 
 # Heinz-Peter Meidinger — DenkerVita
 
-![[assets/Heinz-Peter-Meidinger-vita-banner.jpg|1200]]
+![[assets/Heinz-Peter-Meidinger-vita-banner.jpg|Sonnendurchfluteter Saal mit Holztäfelung: Ein grauhaariger Mann spricht am Rednerpult auf der Bühne, die Stuhlreihen sind fast leer, nur rechts sitzen einige Männer. Vorn liegt auf einem Tisch eine Ledertasche neben einer Urkunde mit roter Schleife.|1200]]
 
 <details><summary>🎨</summary>
 

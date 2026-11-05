@@ -23,7 +23,7 @@ stimme:
 
 # Christian Bauckhage — KI: Wir haben noch gar nichts gesehen
 
-![[assets/bauckhage-ki-nichts-gesehen-banner.jpg|1200]]
+![[assets/bauckhage-ki-nichts-gesehen-banner.jpg|Raster aus kleinen Quadraten auf hellem Papier, von links nach rechts immer dichter bis zu tiefem Schwarz, zwei einzelne Quadrate leuchten rot.|1200]]
 
 <details><summary>🎨</summary>
 

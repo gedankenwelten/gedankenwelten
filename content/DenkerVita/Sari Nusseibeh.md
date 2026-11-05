@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, palästina, gewaltfreiheit]
 
 # Sari Nusseibeh — DenkerVita
 
-![[assets/Sari-Nusseibeh-vita-banner.jpg|1200]]
+![[assets/Sari-Nusseibeh-vita-banner.jpg|Bodenmosaik aus kleinen Steinen: Eine ummauerte Stadt mit Kuppeln und Türmen, darunter ein großer Schlüssel und ein Buch, an einigen Stellen ist das Mosaik beschädigt.|1200]]
 
 <details><summary>🎨</summary>
 

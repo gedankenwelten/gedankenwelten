@@ -14,7 +14,7 @@ aliases:
 
 # Christine Brähler — Selbstmitgefühl, Scham und reife Liebe
 
-![[assets/Christine_Braehler_Selbstmitgefuehl_Scham_Reife_Liebe.png]]
+![[assets/Christine_Braehler_Selbstmitgefuehl_Scham_Reife_Liebe.png|Aquarell: Eine kantige rosa Figur wie aus gefaltetem Papier trägt in ihrer offenen Brust ein zusammengerolltes ungeborenes Kind, hinter ihr graue Wolken und gelber Lichtschein, darunter der Satz Liebe offenbart alles, was nicht Liebe ist.]]
 
 <details><summary>🎨</summary>
 

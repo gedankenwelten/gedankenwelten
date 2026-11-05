@@ -26,7 +26,7 @@ stimme:
 
 # AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt
 
-![[assets/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt-banner.jpg|1200]]
+![[assets/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt-banner.jpg|Ein leerer Parkplatz mit Bierbänken, einem weißen Zelt und Wimpelketten, im Hintergrund eine Burg auf einem Hügel; vorn sitzen drei Kinder von hinten gesehen auf einer Betonmauer.|1200]]
 
 <details><summary>🎨</summary>
 

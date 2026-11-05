@@ -29,7 +29,7 @@ stimme:
 
 # Iason Chandrinos — Griechenland unter deutscher Besatzung
 
-![[assets/Iason-Chandrinos-Griechenland-unter-deutscher-Besatzung-banner.jpg|1200]]
+![[assets/Iason-Chandrinos-Griechenland-unter-deutscher-Besatzung-banner.jpg|Zweigeteilter Holzschnitt: links Menschen in einer Gasse, die vor einer roten Sonne die Hände heben, rechts eine dunkle Gasse mit Menschen, die leere Schüsseln halten, ein Karren und über den Dächern die Akropolis.|1200]]
 
 <details><summary>🎨</summary>
 

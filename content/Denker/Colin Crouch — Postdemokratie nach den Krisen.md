@@ -19,7 +19,7 @@ aliases:
 
 # Colin Crouch — Postdemokratie nach den Krisen
 
-![[assets/Colin-Crouch-Postdemokratie-nach-den-Krisen-banner.jpg|1200]]
+![[assets/Colin-Crouch-Postdemokratie-nach-den-Krisen-banner.jpg|Ein menschenleerer Platz mit langen Säulengängen und einem Uhrturm: Ein gesichtsloser Mann im Anzug steht an einem Rednerpult, daneben eine frei stehende Drehtür, am Boden verstreute Blätter.|1200]]
 
 <details><summary>🎨</summary>
 

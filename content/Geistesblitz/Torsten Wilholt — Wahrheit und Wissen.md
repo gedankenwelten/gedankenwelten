@@ -25,7 +25,7 @@ stimme:
 
 # Torsten Wilholt — Wahrheit und Wissen
 
-![[assets/Torsten-Wilholt-Wahrheit-und-Wissen-banner.jpg|1200]]
+![[assets/Torsten-Wilholt-Wahrheit-und-Wissen-banner.jpg|Gemälde: Eine junge Frau im blauen Kleid steht an einem Tisch mit aufgeschlagenem Buch, Globus und Brille und blickt nach oben, an der Wand eine Pendeluhr, im offenen Fenster spiegelt sich ihr Gesicht.|1200]]
 
 <details><summary>🎨</summary>
 

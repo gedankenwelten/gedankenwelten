@@ -20,7 +20,7 @@ raetsel: "Kau den Apfel, und er sagt dir, wann es genug ist. Trink ihn, und er s
 
 # Chris van Tulleken — Ultra-verarbeitete Lebensmittel
 
-![[assets/Chris-van-Tulleken-Ultra-verarbeitete-Lebensmittel-banner.jpg|1200]]
+![[assets/Chris-van-Tulleken-Ultra-verarbeitete-Lebensmittel-banner.jpg|Eine gläserne Auslage voller rosa Törtchen, Schokoladenschnitten und glasierter Donuts, davor auf der Theke ein angebissener roter Apfel.|1200]]
 
 <details><summary>🎨</summary>
 

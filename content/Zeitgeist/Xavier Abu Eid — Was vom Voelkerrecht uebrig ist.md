@@ -18,7 +18,7 @@ aliases:
 
 # Xavier Abu Eid — Was vom Völkerrecht übrig ist
 
-![[assets/Xavier-Abu-Eid-Was-vom-Voelkerrecht-uebrig-ist-banner.jpg|1200]]
+![[assets/Xavier-Abu-Eid-Was-vom-Voelkerrecht-uebrig-ist-banner.jpg|Collage aus vergilbten Papieren: ein Blatt mit der englischen Überschrift „Gericht“ und einem Stempel, Zeitungsausschnitte, ein Etikett mit einem Ei; rechts gemalte Steinterrassen mit einem Glockenturm auf dem Hügel.|1200]]
 
 <details><summary>🎨</summary>
 

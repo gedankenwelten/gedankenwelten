@@ -26,7 +26,7 @@ stimme:
 
 # Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen
 
-![[assets/Nicolaus-und-Winistoerfer-Warum-wir-die-Welt-vermessen-banner.jpg|1200]]
+![[assets/Nicolaus-und-Winistoerfer-Warum-wir-die-Welt-vermessen-banner.jpg|In feinen Farbpunkten gemalt: Links eine Pflanzung aus geraden, dünnen Stämmen, in der Mitte ein dichter grüner Mischwald, rechts eine Stadt mit roten Dächern, die sich in die Ferne zieht.|1200]]
 
 <details><summary>🎨</summary>
 

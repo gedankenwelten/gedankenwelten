@@ -8,7 +8,7 @@ tags: [denker-vita, geooekonomie, geopolitik, wirtschaft, asien, deutschland]
 
 # Christoph Hein — DenkerVita
 
-![[assets/Christoph-Hein-banner.jpg|1200]]
+![[assets/Christoph-Hein-banner.jpg|Farbholzschnitt: Eine gewaltige Welle erfasst Containerschiffe, dahinter ein schneebedeckter Berg, Hafenkräne und eine rote Sonne, rote Fäden ziehen übers Wasser; links unten steht eine kleine Gestalt im weißen Mantel.|1200]]
 
 <details><summary>🎨</summary>
 

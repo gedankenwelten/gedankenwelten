@@ -8,7 +8,7 @@ tags: [denker-vita, rechtsrecht, demokratie, deutschland, grundrechte]
 
 # Bijan Moini — DenkerVita
 
-![[assets/Bijan-Moini-banner.jpg|1200]]
+![[assets/Bijan-Moini-banner.jpg|Konstruktivistische Komposition: Ein roter Keil trifft auf einen hellen senkrechten Balken, von dem dünne Linien in ein dunkles Gitter strahlen; links unten ein gezeichneter Würfel.|1200]]
 
 <details><summary>🎨</summary>
 

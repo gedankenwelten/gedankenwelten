@@ -17,7 +17,7 @@ aliases:
 
 # scobel — Foucault: Aufklärung als Haltung
 
-![[assets/scobel-Foucault-Aufklaerung-als-Haltung-banner.jpg|1200]]
+![[assets/scobel-Foucault-Aufklaerung-als-Haltung-banner.jpg|Radierung: In einer dunklen Höhle sitzen angekettete verhüllte Gestalten neben einer Laterne, ein zerbrochenes Gestell liegt am Boden; ein Mann im Umhang tritt hinaus in gelbliches Licht über einer weiten Landschaft.|1200]]
 
 <details><summary>🎨</summary>
 

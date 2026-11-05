@@ -9,7 +9,7 @@ raetsel: "Spaghetti um drei Uhr nachts. Zum ersten Mal weckte er dafür niemande
 
 # Raúl Krauthausen — DenkerVita
 
-![[assets/Raul-Krauthausen-vita-banner.jpg|1200]]
+![[assets/Raul-Krauthausen-vita-banner.jpg|Kolorierte Skizze einer Straße mit Kopfsteinpflaster: Ein Mann mit Bart und Schiebermütze fährt einen Elektrorollstuhl mit roten Koffern vor die Stufen eines erleuchteten Lokals, hinten eine gelbe Straßenbahn und ein eilender Passant.|1200]]
 
 <details><summary>🎨</summary>
 

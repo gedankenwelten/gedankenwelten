@@ -8,7 +8,7 @@ tags: [denker-vita, politik, die-linke, berlin, deutschland]
 
 # Elif Eralp — DenkerVita
 
-![[assets/Elif-Eralp-vita-banner.jpg|1200]]
+![[assets/Elif-Eralp-vita-banner.jpg|Zwischen grauen Plattenbauten zieht ein Mädchen mit gelben Kopfhörern einen Teddybären aus einem großen Müllcontainer, in dem zwei weitere Kinder wühlen, darin ein Kassettenrekorder; ein Paar schaut vom Balkon zu.|1200]]
 
 <details><summary>🎨</summary>
 

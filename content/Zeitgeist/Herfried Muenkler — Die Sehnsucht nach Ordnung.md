@@ -22,7 +22,7 @@ aliases:
 
 # Herfried Münkler — Die Sehnsucht nach Ordnung
 
-![[assets/Herfried-Muenkler-Die-Sehnsucht-nach-Ordnung-banner.jpg|1200]]
+![[assets/Herfried-Muenkler-Die-Sehnsucht-nach-Ordnung-banner.jpg|Menschen in dunklen Mänteln gehen in einer langen Reihe einen geschwungenen Weg hinauf zu einem erleuchteten Säulentempel auf dem Hügel, darüber wogt ein Himmel in Rot, Violett und Blau.|1200]]
 
 <details><summary>🎨</summary>
 

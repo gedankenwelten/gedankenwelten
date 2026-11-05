@@ -15,7 +15,7 @@ tags:
 
 # Diese 6 Gedanken könnten dein Leben neu ordnen
 
-![[assets/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen-banner.jpg|1200]]
+![[assets/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen-banner.jpg|Auf heller Fläche ein Gekritzel aus Bleistiftspiralen, einem Auge, einem Fragezeichen, Farbtupfern und Pinselstrichen in Blau, Rot und Ocker, dazwischen unleserliche Wörter in griechisch anmutender Schrift.|1200]]
 
 <details><summary>🎨</summary>
 

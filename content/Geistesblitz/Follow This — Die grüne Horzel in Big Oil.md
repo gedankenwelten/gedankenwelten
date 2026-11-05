@@ -19,7 +19,7 @@ aliases:
 
 # Follow This — Die grüne Horzel in Big Oil
 
-![[assets/Follow-This-Die-gruene-Horzel-in-Big-Oil-banner.jpg|1200]]
+![[assets/Follow-This-Die-gruene-Horzel-in-Big-Oil-banner.jpg|Auf hellem Grund schwarze Flecken, Sterne und bunte Punkte, in der Mitte ein runder schwarzer Kopf mit Krone auf dünnen Beinen, den ein feiner Stachel anritzt, daneben ein grünes Insekt, eine Reihe Strichfiguren mit Hund und eine rote Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

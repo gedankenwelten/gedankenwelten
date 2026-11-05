@@ -6,7 +6,7 @@ tags: [denker-vita, psychiatrie, neurowissenschaft, serotonin, liebe, italien]
 
 # Donatella Marazziti — DenkerVita
 
-![[assets/Donatella-Marazziti-vita-banner.jpg|1200]]
+![[assets/Donatella-Marazziti-vita-banner.jpg|Ein leerer Platz zwischen langen Arkaden unter grünem Himmel, in der Mitte auf einem Sockel eine verhüllte Figur, die ein Gebilde aus fünf Sechsecken trägt und einen langen Schatten wirft.|1200]]
 
 <details><summary>🎨</summary>
 

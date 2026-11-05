@@ -26,7 +26,7 @@ stimme:
 
 # Tillschneider vor der Synagoge in Halle
 
-![[assets/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle-banner.jpg|1200]]
+![[assets/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle-banner.jpg|Vor einer schweren Holztür mit Einschusslöchern stehen sieben Menschen in Mänteln dicht beieinander, davor Kerzen und weiße Rosen; rechts steht abseits ein einzelner Mann im Anzug und wirft einen langen Schatten.|1200]]
 
 <details><summary>🎨</summary>
 

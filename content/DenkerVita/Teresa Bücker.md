@@ -8,7 +8,7 @@ tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, philosophie, d
 
 # Teresa Bücker — DenkerVita
 
-![[assets/Teresa-Buecker-vita-banner.jpg|1200]]
+![[assets/Teresa-Buecker-vita-banner.jpg|Flache Grafik vor aufgehender Sonne: Eine Waage trägt links Wecker und Sanduhren, rechts Teddybär, Kind, Buch und Pflanze, von beiden Seiten reichen Frauenhände Uhren und Teetassen heran.|1200]]
 
 <details><summary>🎨</summary>
 

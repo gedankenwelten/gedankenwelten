@@ -20,7 +20,7 @@ aliases:
 
 # Maren Urner — Radikal hoffnungsvoll
 
-![[assets/Maren_Urner_Radikal_Hoffnungsvoll.png]]
+![[assets/Maren_Urner_Radikal_Hoffnungsvoll.png|Aquarell mit Schriftzügen: Unter einem Bogen mit dem Wort Hoffnung galoppieren drei Pferde über die Worte Klima und Krieg, Wege tragen die Worte Willenskraft, Wegkraft und Kommunikationsmacht, rechts ein Regenbogen und eine stehende Figur.]]
 
 <details><summary>🎨</summary>
 

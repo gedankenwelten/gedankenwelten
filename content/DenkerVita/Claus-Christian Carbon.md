@@ -9,7 +9,7 @@ tags: [denker-vita, psychologie, wahrnehmung, ästhetik]
 
 # Claus-Christian Carbon — DenkerVita
 
-![[assets/Claus-Christian-Carbon-vita-banner.jpg|1200]]
+![[assets/Claus-Christian-Carbon-vita-banner.jpg|Eine schwarze Silhouette, die zugleich wie eine Vase und wie zwei einander zugewandte Gesichter wirkt, in einem gewölbten Gitter aus orangen und blauen Feldern, ringsum dunkelblaue Kugeln.|1200]]
 
 <details><summary>🎨</summary>
 

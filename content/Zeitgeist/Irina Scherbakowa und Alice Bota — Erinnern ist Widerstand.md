@@ -31,7 +31,7 @@ stimme:
 
 # Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand
 
-![[assets/Scherbakowa-Bota-Erinnern-ist-Widerstand-banner.jpg|1200]]
+![[assets/Scherbakowa-Bota-Erinnern-ist-Widerstand-banner.jpg|Kohlezeichnung: Aus dem Dunkel strecken viele alte und junge Menschen Briefumschläge hinauf zu einem vergitterten Fenster in einer Steinmauer.|1200]]
 
 <details><summary>🎨</summary>
 

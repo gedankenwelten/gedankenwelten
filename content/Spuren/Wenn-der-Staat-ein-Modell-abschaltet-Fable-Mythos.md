@@ -18,7 +18,7 @@ description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Net
 
 # Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5
 
-![[assets/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos-banner.jpg|1200]]
+![[assets/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos-banner.jpg|Ein leerer Platz in der Dämmerung mit rosa Mauern und starren Gliederpuppen, in der Mitte ein schwerer Hebelschalter auf einem Steinsockel mit der Aufschrift Aus, in seinem Schatten ein leuchtender Würfel und die Worte Nationale Sicherheit.|1200]]
 
 <details><summary>🎨</summary>
 

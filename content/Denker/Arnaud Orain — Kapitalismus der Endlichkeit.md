@@ -21,7 +21,7 @@ aliases:
 
 # Kapitalismus der Endlichkeit — und was, wenn es nicht für alle reicht?
 
-![[assets/Arnaud-Orain-Kapitalismus-der-Endlichkeit-banner.jpg|1200]]
+![[assets/Arnaud-Orain-Kapitalismus-der-Endlichkeit-banner.jpg|Wie eine alte Seekarte mit Windrosen und lateinischen Beschriftungen: Segelschiffe, eine Seeschlange und ein Wal ziehen über das Meer, rechts ein großes Frachtschiff mit Containern und rauchenden Schloten.|1200]]
 
 <details><summary>🎨</summary>
 

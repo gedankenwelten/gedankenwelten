@@ -20,7 +20,7 @@ aliases:
 
 # Constanze Kurz — Palantir als Türöffner (re:publica Vienna)
 
-![[assets/Constanze-Kurz-Palantir-als-Tueroeffner-banner.jpg|1200]]
+![[assets/Constanze-Kurz-Palantir-als-Tueroeffner-banner.jpg|Auf weiter grüner Wiese steht eine offene Tür ins Dunkle: Ein Mann mit Melone auf einer Leiter arbeitet am Schloss, ein zweiter reicht einen Umschlag; drinnen schweben Fahrrad, Auto, Telefon und Handy zwischen Aktenschränken.|1200]]
 
 <details><summary>🎨</summary>
 

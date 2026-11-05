@@ -19,7 +19,7 @@ aliases:
 
 # Konstantin Flemig — Russlands Katastrophen-Monat
 
-![[assets/Konstantin-Flemig-Russlands-Katastrophen-Monat-banner.jpg|1200]]
+![[assets/Konstantin-Flemig-Russlands-Katastrophen-Monat-banner.jpg|Winterlandschaft wie ein altes Wimmelbild: Eine lange Schlange Menschen wartet an Zapfsäulen im Schnee, dahinter eine Militärkolonne, Feuer, eine rauchende Fabrik, eine geneigte Statue und ein brennendes Boot im Hafen.|1200]]
 
 <details><summary>🎨</summary>
 

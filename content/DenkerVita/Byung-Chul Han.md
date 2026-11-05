@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, technologie, psychologie, suedkorea, deutschlan
 
 # Byung-Chul Han — DenkerVita
 
-![[assets/Byung-Chul-Han-vita-banner.jpg|1200]]
+![[assets/Byung-Chul-Han-vita-banner.jpg|Ein Mann im dunklen Anzug steht, von hinten gesehen, auf einem Hügel und blickt über eine dunstige Stadt mit Kirchtürmen und Fabrikschloten, darüber große helle Wolken.|1200]]
 
 <details><summary>🎨</summary>
 

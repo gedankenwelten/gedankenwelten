@@ -17,7 +17,7 @@ aliases:
 
 # Götz Aly — Der Teufelspakt zwischen Volk und Führung
 
-![[assets/Goetz-Aly-Teufelspakt-zwischen-Volk-und-Fuehrung-banner.jpg|1200]]
+![[assets/Goetz-Aly-Teufelspakt-zwischen-Volk-und-Fuehrung-banner.jpg|Karikatur: Ein grinsender Mann im Nadelstreifenanzug mit kleinen Hörnern zieht einen Sack voller Silber, Uhren und Bilder hinter sich und reicht dicken Männern mit Hüten Brot, Münzen und Geschenke. Hinten rauchen Fabrikschlote.|1200]]
 
 <details><summary>🎨</summary>
 

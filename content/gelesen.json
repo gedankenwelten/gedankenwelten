@@ -39,13 +39,13 @@
    "aufrufe": 30
   },
   {
-   "pfad": "/DenkerVita/Hans-Maggi",
+   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
    "leser": 24,
-   "aufrufe": 26
+   "aufrufe": 27
   },
   {
-   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 23,
+   "pfad": "/DenkerVita/Hans-Maggi",
+   "leser": 24,
    "aufrufe": 26
   },
   {
@@ -409,6 +409,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 3,
      "aufrufe": 3
@@ -475,11 +480,6 @@
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 2,
      "aufrufe": 2
     },
@@ -649,13 +649,13 @@
      "aufrufe": 30
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 24,
-     "aufrufe": 26
+     "aufrufe": 27
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 23,
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "leser": 24,
      "aufrufe": 26
     },
     {
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 104,
-     "aufrufe": 125
+     "leser": 105,
+     "aufrufe": 126
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 104,
-     "aufrufe": 125
+     "leser": 105,
+     "aufrufe": 126
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1560,8 +1560,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 15,
-     "aufrufe": 15
+     "leser": 16,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Kalayo",

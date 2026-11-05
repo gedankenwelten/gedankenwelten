@@ -17,7 +17,7 @@ aliases:
 
 # Good News — Gute Nachrichten August 2026
 
-![[assets/Good-News-Gute-Nachrichten-August-2026-banner.jpg|1200]]
+![[assets/Good-News-Gute-Nachrichten-August-2026-banner.jpg|Wie eine alte Naturkundetafel auf dunkelgrünem Grund: in der Mitte ein Buckelwal in einem Ring aus kleinen Krebstieren, links Korallen, bunte Fische und Heidekraut, rechts ein großer weißer Seevogel im Flug, ein Biber auf Ästen und Waben.|1200]]
 
 <details><summary>🎨</summary>
 

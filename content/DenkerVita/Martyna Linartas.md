@@ -8,7 +8,7 @@ tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, deutschland]
 
 # Martyna Linartas — DenkerVita
 
-![[assets/Martyna-Linartas-vita-banner.jpg|1200]]
+![[assets/Martyna-Linartas-vita-banner.jpg|Schwarzweiße Grafik: Ein gezackter weißer Riss spaltet eine dichte Stadt aus Fabriken und eine große Menschenmenge, oben stehen Männer mit Hüten, rechts steigen schwarze Balken an, unten ein rotes Dreieck.|1200]]
 
 <details><summary>🎨</summary>
 

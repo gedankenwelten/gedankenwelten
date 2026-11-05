@@ -7,7 +7,7 @@ raetsel: "Er kam aus dem Krieg zurück, und man fragte ihn nach Erdnüssen."
 
 # Michael Moss — DenkerVita
 
-![[assets/Michael-Moss-vita-banner.jpg|1200]]
+![[assets/Michael-Moss-vita-banner.jpg|Ein Mann im Trenchcoat steht mit Notizbuch zwischen einer staubigen Wüste mit Geländewagen und Rauchsäule und einem Supermarktregal voller bunter Dosen und Tüten, zu seinen Füßen liegen verschüttete Erdnüsse.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # Walther Ziegler — Adorno in 60 Minuten
 
-![[assets/Walther-Ziegler-Adorno-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Adorno-in-60-Minuten-banner.jpg|Unter dunklem Himmel steht ein Mann im Anzug an den Mast eines Schiffes gefesselt, links rufen ihm Frauengestalten von Felsen aus zu; rechts auf dem Wasser eine Fabrikstadt mit rauchenden Schloten und der Leuchtschrift Spaß.|1200]]
 
 <details><summary>🎨</summary>
 

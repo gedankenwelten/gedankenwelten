@@ -17,7 +17,7 @@ aliases:
 
 # StreitClub #17 — Europa allein zu Haus
 
-![[assets/StreitClub-Europa-allein-zu-Haus-banner.jpg|1200]]
+![[assets/StreitClub-Europa-allein-zu-Haus-banner.jpg|Ein Platz mit Arkaden unter grünem Himmel: In der Mitte eine kopflose weiße Statue auf einem Sockel, vorn ein grüner Apfel und eine Landkarte, links bröckelnde Säulen und ein Schatten, hinten ein Dampfzug.|1200]]
 
 <details><summary>🎨</summary>
 

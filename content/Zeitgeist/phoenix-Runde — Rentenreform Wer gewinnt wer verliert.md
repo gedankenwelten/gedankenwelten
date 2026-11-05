@@ -19,7 +19,7 @@ aliases:
 
 # phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?
 
-![[assets/phoenix-Runde-Rentenreform-Wer-gewinnt-wer-verliert-banner.jpg|1200]]
+![[assets/phoenix-Runde-Rentenreform-Wer-gewinnt-wer-verliert-banner.jpg|Wandbild in Erdtönen: Arbeiter, Frauen, Kinder und Alte tragen gemeinsam einen steinernen Bogen, Jüngere reichen Steine weiter, ein Mann gibt einer alten Frau etwas in die Hand; der Schlussstein leuchtet.|1200]]
 
 <details><summary>🎨</summary>
 

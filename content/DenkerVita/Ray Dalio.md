@@ -6,7 +6,7 @@ tags: [denker-vita, wirtschaft, kapitalismus, schulden, geopolitik, usa]
 
 # Ray Dalio — DenkerVita
 
-![[assets/Ray-Dalio-vita-banner.jpg|1200]]
+![[assets/Ray-Dalio-vita-banner.jpg|Ein Mann im hellen Hemd sitzt, von hinten gesehen, an einem Schreibtisch in einem kahlen Raum, an der Wand hängt ein Diagramm mit steigender Kurve, schräges Sonnenlicht fällt durchs Fenster.|1200]]
 
 <details><summary>🎨</summary>
 

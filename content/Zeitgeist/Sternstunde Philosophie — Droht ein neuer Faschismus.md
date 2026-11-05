@@ -19,7 +19,7 @@ aliases:
 
 # Sternstunde Philosophie — Droht ein neuer Faschismus?
 
-![[assets/sternstunde-faschismus-banner.jpg|1200]]
+![[assets/sternstunde-faschismus-banner.jpg|Eine Reihe Männer mit Melonen steht von hinten auf grüner Ebene und hebt die rechte Hand; über ihnen schweben die Umrisse eines Hauses, zweier Fahnen, eines Menschen und eines Ordens, in der Ferne steigt Rauch auf.|1200]]
 
 <details><summary>🎨</summary>
 

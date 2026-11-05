@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, rechtsextremismus, medien, deutschland]
 
 # Arnd Henze — DenkerVita
 
-![[assets/Arnd-Henze-banner.jpg|1200]]
+![[assets/Arnd-Henze-banner.jpg|Ein Mann im Gewand stemmt in einem gotischen Torbogen eine schwere Holztür auf, dahinter Licht und ein Kirchenfenster; zu beiden Seiten lodern Feuer, oben schweben Engel, beschriebene Blätter wirbeln über nächtliche Städte.|1200]]
 
 <details><summary>🎨</summary>
 

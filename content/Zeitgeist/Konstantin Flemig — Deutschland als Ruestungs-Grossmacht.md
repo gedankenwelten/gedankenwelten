@@ -17,7 +17,7 @@ aliases:
 
 # Konstantin Flemig — Deutschland als Rüstungs-Großmacht
 
-![[assets/Konstantin-Flemig-Deutschland-als-Ruestungs-Grossmacht-banner.jpg|1200]]
+![[assets/Konstantin-Flemig-Deutschland-als-Ruestungs-Grossmacht-banner.jpg|Wie ein Industriewandbild: In einer Fabrikhalle arbeiten Männer mit nacktem Oberkörper an Maschinen, Granathülsen aus Messing ziehen auf einem geschwungenen Fließband vorbei; am Boden stehen große Zahlen und ein Olivenzweig.|1200]]
 
 <details><summary>🎨</summary>
 

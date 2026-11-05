@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, demokratie, usa, autoritarismus, deutschland]
 
 # Carlotta Voß — DenkerVita
 
-![[assets/Carlotta-Voss-vita-banner.jpg|1200]]
+![[assets/Carlotta-Voss-vita-banner.jpg|Eine junge Frau mit Haarknoten im blauen Pullover sitzt lesend an einem Holztisch mit Bücherstapeln, links ein Fenster, hinten eine Tafel.|1200]]
 
 <details>
 <summary>🎨</summary>

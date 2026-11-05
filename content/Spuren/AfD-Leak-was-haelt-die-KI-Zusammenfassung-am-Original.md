@@ -21,7 +21,7 @@ raetsel: "Wer nur die Zusammenfassung liest, liest den, der zusammengefasst hat.
 
 # AfD-Leak — was hält die KI-Zusammenfassung am Original?
 
-![[assets/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original-banner.jpg|1200]]
+![[assets/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original-banner.jpg|Durch ein Fenster mit grauem Vorhang sieht man Hügel aus lauter weißen Briefumschlägen, davor auf einer Staffelei ein Gemälde derselben Landschaft, auf dem Fensterbrett eine Lupe.|1200]]
 
 <details><summary>🎨</summary>
 

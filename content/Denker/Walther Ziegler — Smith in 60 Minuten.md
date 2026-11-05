@@ -15,7 +15,7 @@ aliases:
 
 # Walther Ziegler — Smith in 60 Minuten
 
-![[assets/Walther-Ziegler-Smith-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Smith-in-60-Minuten-banner.jpg|Wimmelbild eines alten Marktes in einer Hafenstadt mit Fachwerkhäusern: Händler verkaufen Würste, Brot und Fässer, Menschen feilschen an Tischen, hinten liegen Segelschiffe; aus den Wolken ragt eine große offene Hand.|1200]]
 
 <details><summary>🎨</summary>
 

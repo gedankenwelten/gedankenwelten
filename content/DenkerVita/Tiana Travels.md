@@ -8,7 +8,7 @@ description: Amerikanische YouTuberin in Paris — analysiert US-Systemprobleme 
 
 # Tiana Travels — DenkerVita
 
-![[assets/Tiana-Travels-vita-banner.jpg|1200]]
+![[assets/Tiana-Travels-vita-banner.jpg|Flache Illustration: Ein junger Mann sitzt lächelnd an einem Bistrotisch auf einem Pariser Balkon mit Reisepass, Kamera und einem beklebten Koffer, hinter den Dächern ragt der Eiffelturm in rosa Abendlicht.|1200]]
 
 <details><summary>🎨</summary>
 

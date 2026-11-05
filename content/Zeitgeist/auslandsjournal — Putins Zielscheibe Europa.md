@@ -31,7 +31,7 @@ stimme:
 
 # Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte
 
-![[assets/auslandsjournal-Putins-Zielscheibe-Europa-banner.jpg|1200]]
+![[assets/auslandsjournal-Putins-Zielscheibe-Europa-banner.jpg|Unter einem Himmel aus flachen Wölkchen steht ein Betonblock mit dem Schild „Kein Krieg“, darauf eine Drohne; daneben schwebt eine große weiße Tasse in der Luft.|1200]]
 
 <details><summary>🎨</summary>
 

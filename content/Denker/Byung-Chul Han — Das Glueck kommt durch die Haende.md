@@ -16,7 +16,7 @@ aliases:
 
 # Byung-Chul Han — Das Glück kommt durch die Hände
 
-![[assets/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende-banner.jpg|1200]]
+![[assets/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende-banner.jpg|Tuschmalerei: Eine Hand gräbt in dunkler Erde, aus der eine rote Rose wächst; rechts verblasst ein Flügel mit Hocker im Grau, Notenlinien wehen davon.|1200]]
 
 <details><summary>🎨</summary>
 

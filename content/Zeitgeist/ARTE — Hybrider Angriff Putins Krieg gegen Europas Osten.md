@@ -19,7 +19,7 @@ aliases:
 
 # Hybrider Angriff — Wie Putin Europas Osten destabilisiert
 
-![[assets/ARTE-Hybrider-Angriff-Putins-Krieg-gegen-Europas-Osten-banner.jpg|1200]]
+![[assets/ARTE-Hybrider-Angriff-Putins-Krieg-gegen-Europas-Osten-banner.jpg|Eine graue, zerborstene Ebene unter dunklen Rauchwolken, glühende Risse durchziehen den Boden, dazwischen Trümmer kleiner Häuser und vorn ein großer umgekippter Betonblock.|1200]]
 
 <details><summary>🎨</summary>
 

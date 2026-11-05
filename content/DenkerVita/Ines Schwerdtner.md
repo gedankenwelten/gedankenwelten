@@ -7,7 +7,7 @@ raetsel: "Als die Fabrik schloss, war sie ein Kind. Heute klingelt sie an fremde
 
 # Ines Schwerdtner — DenkerVita
 
-![[assets/Ines-Schwerdtner-vita-banner.jpg|1200]]
+![[assets/Ines-Schwerdtner-vita-banner.jpg|Ruhige Siedlung am Rand einer Industriestadt: Von einer Kabeltrommel auf der Wiese führt ein rotes Kabel zu einer Frau, die an einem Reihenhaus mit erleuchteten Fenstern die Hand hebt, hinten ein Fabrikschlot, Backsteinhallen und Hafenkräne.|1200]]
 
 <details><summary>🎨</summary>
 

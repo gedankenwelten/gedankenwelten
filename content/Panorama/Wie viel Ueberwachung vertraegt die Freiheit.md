@@ -18,7 +18,7 @@ tags:
 
 # Wie viel Überwachung verträgt die Freiheit?
 
-![[assets/Wie-viel-Ueberwachung-vertraegt-die-Freiheit-banner.jpg|1200]]
+![[assets/Wie-viel-Ueberwachung-vertraegt-die-Freiheit-banner.jpg|Nachts eine dunkle Backsteinfassade mit erleuchteten Fenstern, in denen Menschen schlafen, lesen, essen und hinausschauen, von einem hellen Punkt am Himmel laufen feine Linien zu jedem Fenster.|1200]]
 
 <details><summary>🎨</summary>
 

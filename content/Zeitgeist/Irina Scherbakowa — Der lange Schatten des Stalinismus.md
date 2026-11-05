@@ -29,7 +29,7 @@ stimme:
 
 # Irina Scherbakowa — Der lange Schatten des Stalinismus
 
-![[assets/Irina-Scherbakowa-Der-lange-Schatten-des-Stalinismus-banner.jpg|1200]]
+![[assets/Irina-Scherbakowa-Der-lange-Schatten-des-Stalinismus-banner.jpg|Flächig gemalt: Vor gelben und roten Streifen stehen drei Frauen mit Schürzen und leeren Gesichtern, links oben reckt eine dunkle Statue den Arm und wirft einen langen Schatten zu ihnen.|1200]]
 
 <details><summary>🎨</summary>
 

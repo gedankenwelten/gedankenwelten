@@ -18,7 +18,7 @@ aliases:
 
 # Helen Keller — Völkerrecht: Ein zahnloser Tiger?
 
-![[assets/Helen-Keller-Voelkerrecht-zahnloser-Tiger-banner.jpg|1200]]
+![[assets/Helen-Keller-Voelkerrecht-zahnloser-Tiger-banner.jpg|Dschungelbild mit großen Blättern und Blüten: Ein Tiger schreitet durch das Grün, an einem Ast hängt eine goldene Waage, dahinter Segelschiffe und Bananenkisten im Hafen unter dem Vollmond.|1200]]
 
 <details><summary>🎨</summary>
 

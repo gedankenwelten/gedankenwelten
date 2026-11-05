@@ -9,7 +9,7 @@ tags: [denker-vita, soziologie, klassismus, soziale-ungleichheit, faschismus, re
 
 # Andreas Kemper — DenkerVita
 
-![[assets/Andreas-Kemper-vita-banner.jpg|1200]]
+![[assets/Andreas-Kemper-vita-banner.jpg|Auf kariertem Papier ein breites gewebtes Band aus Buchstabenreihen und Streifen in Rot, Schwarz und Gelb, aus dem rechts ein einzelner dünner Faden läuft; eine Lupe zeigt ihn als feines Geflecht.|1200]]
 
 <details><summary>🎨</summary>
 

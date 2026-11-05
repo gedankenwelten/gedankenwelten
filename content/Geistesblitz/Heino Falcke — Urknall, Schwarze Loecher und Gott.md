@@ -20,7 +20,7 @@ aliases:
 
 # Heino Falcke — Urknall, Schwarze Löcher und Gott
 
-![[assets/Heino-Falcke-Urknall-Schwarze-Loecher-und-Gott-banner.jpg|1200]]
+![[assets/Heino-Falcke-Urknall-Schwarze-Loecher-und-Gott-banner.jpg|Auf rosigem Papier zieht eine Spirale aus Sternen und Perlen in ein schwarzes Loch mit rotem Glutring, links Blumen und ein kleiner Planet mit Ring.|1200]]
 
 <details><summary>🎨</summary>
 

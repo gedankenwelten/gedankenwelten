@@ -9,7 +9,7 @@ tags: [denker-vita, migration, menschenrechte, deutschland, journalismus]
 
 # Christian Jakob — DenkerVita
 
-![[assets/Christian-Jakob-vita-banner.jpg|1200]]
+![[assets/Christian-Jakob-vita-banner.jpg|Kohlezeichnung: Ein Suchscheinwerfer streicht über einen hohen Gitterzaun am Meer, davor eine Reihe Menschen mit Bündeln auf dem Rücken, einer hebt die Hand.|1200]]
 
 <details><summary>🎨</summary>
 

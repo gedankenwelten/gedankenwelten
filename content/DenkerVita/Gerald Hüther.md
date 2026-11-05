@@ -8,7 +8,7 @@ tags: [denker-vita, neurowissenschaft, philosophie, psychologie, pädagogik, pot
 
 # Gerald Hüther — DenkerVita
 
-![[assets/Gerald-Huether-vita-banner.jpg|1200]]
+![[assets/Gerald-Huether-vita-banner.jpg|Farbenprächtiges Bild voller Spiralen: Aus einem Baum wachsen bunte Zwiebeltürme, davor sitzt ein lächelndes Kind im Sonnenlicht, ringsum Kinderfiguren mit Kronen und Blumen.|1200]]
 
 <details><summary>🎨</summary>
 

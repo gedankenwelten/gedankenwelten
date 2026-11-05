@@ -30,7 +30,7 @@ stimme:
 
 # Wehrdienst verweigern? Eine Frage des Gewissens
 
-![[assets/ZDF-Wehrdienst-verweigern-banner.jpg|1200]]
+![[assets/ZDF-Wehrdienst-verweigern-banner.jpg|Bleistiftzeichnung: Ein junger Mann im Parka steht mit gesenktem Kopf und den Händen in den Taschen vor einem endlosen Feld weißer Grabsteine, links ein kahler Baum.|1200]]
 
 <details><summary>🎨</summary>
 

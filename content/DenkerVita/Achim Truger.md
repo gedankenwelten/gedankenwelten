@@ -6,7 +6,7 @@ tags: [denker-vita, wirtschaft, finanzpolitik, schuldenbremse]
 
 # Achim Truger — DenkerVita
 
-![[assets/Achim-Truger-vita-banner.jpg|1200]]
+![[assets/Achim-Truger-vita-banner.jpg|Auf einer Brücke mit Rohren und Kränen wiegt eine riesige Waage einen Haufen Goldmünzen gegen ein kleines rotes Haus; Arbeiter mit Helmen bauen, rechts fährt eine Dampflok vor einem Rohbau.|1200]]
 
 <details><summary>🎨</summary>
 

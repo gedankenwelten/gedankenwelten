@@ -19,7 +19,7 @@ aliases:
 
 # Jung & Naiv — 1 Jahr Kanzler Merz
 
-![[assets/Jung-und-Naiv-1-Jahr-Kanzler-Merz-banner.jpg|1200]]
+![[assets/Jung-und-Naiv-1-Jahr-Kanzler-Merz-banner.jpg|Farbstiftzeichnung: Zwei ältere Männer in Anzügen sitzen sich an einem langen Schreibtisch unter einer Lampe gegenüber und gestikulieren ratlos; an der Wand ein Bild mit Autoscootern unter Lichterketten.|1200]]
 
 <details><summary>🎨</summary>
 

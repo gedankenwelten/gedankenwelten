@@ -9,7 +9,7 @@ tags: [denker-vita, philosophie, anthropologie, niederlande]
 
 # Rutger Bregman — DenkerVita
 
-![[assets/Rutger-Bregman-vita-banner.jpg|1200]]
+![[assets/Rutger-Bregman-vita-banner.jpg|Fröhliche flache Grafik: Menschen in vielen Hautfarben bauen mit Bauklötzen, pflanzen Bäume und treffen sich auf einer Brücke vor einer bunten Stadt, oben eine Uhr, die Sonne und herabregnende Geldscheine und Münzen.|1200]]
 
 <details><summary>🎨</summary>
 

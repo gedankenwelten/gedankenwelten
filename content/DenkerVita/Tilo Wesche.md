@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, eigentumstheorie, kritische-theorie, naturrecht
 
 # Tilo Wesche — DenkerVita
 
-![[assets/Tilo-Wesche-vita-banner.jpg|1200]]
+![[assets/Tilo-Wesche-vita-banner.jpg|Flache Grafik: Ein Baum, dessen Wurzeln einen weißen Lattenzaun durchbrechen, daneben eine goldene Waage, ein Richterhammer und ein grünes Blatt, links geschwungene grüne Streifen wie ein Fluss.|1200]]
 
 <details><summary>🎨</summary>
 

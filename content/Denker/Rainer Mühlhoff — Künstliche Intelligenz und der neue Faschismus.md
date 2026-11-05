@@ -29,7 +29,7 @@ aliases:
 
 # Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus
 
-![[assets/Rainer-Muehlhoff-Kuenstliche-Intelligenz-und-der-neue-Faschismus-banner.jpg|1200]]
+![[assets/Rainer-Muehlhoff-Kuenstliche-Intelligenz-und-der-neue-Faschismus-banner.jpg|Holzschnitt in Schwarz und Creme: Ein riesiger dunkler Turm mit Fensteraugen und Kabelarmen erhebt sich hinter einem Kuppelbau über einer Stadt, davor stehen kleine Menschen in Reihen, Scheinwerferstrahlen fallen vom Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

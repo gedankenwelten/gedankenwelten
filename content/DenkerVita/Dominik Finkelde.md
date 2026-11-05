@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, poststrukturalismus]
 
 # Dominik Finkelde — DenkerVita
 
-![[assets/Dominik-Finkelde-vita-banner.jpg|1200]]
+![[assets/Dominik-Finkelde-vita-banner.jpg|Ein kahler Raum mit wehendem Vorhang links und einer offenen Tür rechts; an der Wand lehnt ein verzierter Spiegel, der statt eines Spiegelbilds einen Sternenhimmel mit einem Blitz zeigt.|1200]]
 
 <details><summary>🎨</summary>
 

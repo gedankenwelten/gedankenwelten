@@ -20,7 +20,7 @@ aliases:
 
 # Walther Ziegler — Habermas in 60 Minuten
 
-![[assets/Walther-Ziegler-Habermas-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Habermas-in-60-Minuten-banner.jpg|Menschen in bunten Mänteln und Hüten stehen in Gruppen im Gespräch auf einem sonnigen Platz mit Arkaden und Bäumen, darüber spannen sich farbige Bänder in Bögen von Gruppe zu Gruppe.|1200]]
 
 <details><summary>🎨</summary>
 

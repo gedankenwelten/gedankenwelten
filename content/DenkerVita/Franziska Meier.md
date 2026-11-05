@@ -9,7 +9,7 @@ tags: [denker-vita, literatur, literaturwissenschaft, frankreich, italien, gesun
 
 # Franziska Meier — DenkerVita
 
-![[assets/Franziska-Meier-vita-banner.jpg|1200]]
+![[assets/Franziska-Meier-vita-banner.jpg|Fresko: Eine Frau in rosa Gewand liest unter einem Säulengang an einem Tisch mit Büchern, dahinter Kinder an einem Brunnen und eine Stadt mit großer roter Kuppel, in der Ferne steigt Rauch auf.|1200]]
 
 <details><summary>🎨</summary>
 

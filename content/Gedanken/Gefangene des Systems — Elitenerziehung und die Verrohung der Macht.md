@@ -30,7 +30,7 @@ aliases:
 
 # Gefangene des Systems — Elitenerziehung und die Verrohung der Macht
 
-![[assets/Gefangene-des-Systems-Elitenerziehung-und-die-Verrohung-der-Macht-banner.jpg|1200]]
+![[assets/Gefangene-des-Systems-Elitenerziehung-und-die-Verrohung-der-Macht-banner.jpg|Dreiteiliges Bild: links salutiert ein Uniformierter vor einer Wand mit seinem Schatten, in der Mitte ein Mann mit Krone über einer schweren Kette, nach der viele Hände greifen, rechts Szenen mit Brot, Spielzeug, einem Gitterfenster und einem Schreibenden am Tisch.|1200]]
 
 <details><summary>🎨</summary>
 

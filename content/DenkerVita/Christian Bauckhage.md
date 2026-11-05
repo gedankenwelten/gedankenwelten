@@ -6,7 +6,7 @@ tags: [denker-vita, ki, technologie, wissenschaft, deutschland]
 
 # Christian Bauckhage — DenkerVita
 
-![[assets/christian-bauckhage-vita-banner.jpg|1200]]
+![[assets/christian-bauckhage-vita-banner.jpg|Eine kleine dunkle Gestalt mit Hut steht vor einer Wand aus hohen, durchscheinenden Glasprismen in Blau, Türkis und Ocker, die in den Nachthimmel ragen.|1200]]
 
 <details><summary>🎨</summary>
 

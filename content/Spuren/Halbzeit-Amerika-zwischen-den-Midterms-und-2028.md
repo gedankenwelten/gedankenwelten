@@ -21,7 +21,7 @@ raetsel: "Das Passwort klebte am Schloss. Geöffnet hat trotzdem niemand."
 
 # Halbzeit — Amerika zwischen den Midterms und 2028
 
-![[assets/Halbzeit-Amerika-zwischen-den-Midterms-und-2028-banner.jpg|1200]]
+![[assets/Halbzeit-Amerika-zwischen-den-Midterms-und-2028-banner.jpg|Ein leerer Saal als Wahllokal: Wahlkabinen in einer Reihe, ein Tisch mit Urne, an der Wand eine Uhr, in der offenen Tür steht die dunkle Silhouette eines Mannes.|1200]]
 
 <details><summary>🎨</summary>
 

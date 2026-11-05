@@ -11,7 +11,7 @@ tags:
 
 # David Chalmers — DenkerVita
 
-![[assets/David-Chalmers-vita-banner.jpg|1200]]
+![[assets/David-Chalmers-vita-banner.jpg|Weite, leere Arkadenhallen in Ocker unter grünem Himmel; vorn stehen zwei gesichtslose Figuren, eine mit einem leuchtenden, eine mit einem dunklen Loch in der Brust, in der Ferne wiederholt sich die Szene in einem Rahmen.|1200]]
 
 <details><summary>🎨</summary>
 

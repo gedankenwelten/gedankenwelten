@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, existenzialismus, literatur]
 
 # Franz Kafka — DenkerVita
 
-![[assets/Franz-Kafka-vita-banner.jpg|1200]]
+![[assets/Franz-Kafka-vita-banner.jpg|Schwarzweiße Grafik: Ein Mann steht am Ende eines langen Gangs zwischen hohen, verschlossenen Türen, neben ihm ein Käfer am Boden, hinten im Dunst ein finsteres Schloss.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, israel, siedlungen, menschenrechte]
 
 # Dror Etkes — DenkerVita
 
-![[assets/Dror-Etkes-vita-banner.jpg|1200]]
+![[assets/Dror-Etkes-vita-banner.jpg|Farbholzschnitt: Terrassierte Felder mit Bäumen an einem Hang im Regen, auf der obersten Stufe steht eine kleine Gestalt an einem Messgerät auf einem Dreibein, dahinter Hügel im Nebel unter rosa Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -7,7 +7,7 @@ raetsel: "Wir sagen Vorsatz. Der Kassenbon sagt etwas anderes."
 
 # Jutta Roosen — DenkerVita
 
-![[assets/Jutta-Roosen-vita-banner.jpg|1200]]
+![[assets/Jutta-Roosen-vita-banner.jpg|Flächig gemalter Marktplatz vor Bergen und einem Zwiebelkirchturm: links Stände mit Obst und Gemüse und Menschen mit Körben, rechts eine Frau mit Telefon vor dem hell erleuchteten Schaufenster eines Supermarkts voller Packungen.|1200]]
 
 <details><summary>🎨</summary>
 

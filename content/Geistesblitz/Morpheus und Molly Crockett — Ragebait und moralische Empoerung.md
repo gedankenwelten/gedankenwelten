@@ -26,7 +26,7 @@ stimme:
 
 # Morpheus und Molly Crockett — Ragebait und moralische Empörung
 
-![[assets/Morpheus-Crockett-Ragebait-banner.jpg|1200]]
+![[assets/Morpheus-Crockett-Ragebait-banner.jpg|Federzeichnung in drei Inseln: eine kleine mit einem Kochtopf, eine runde mit Tisch, Stühlen und Flaschen, eine große voller Männer mit Hüten und einem Grill, über ihren Köpfen rote Kritzel in Sprechblasen.|1200]]
 
 <details><summary>🎨</summary>
 

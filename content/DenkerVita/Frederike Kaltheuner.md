@@ -8,7 +8,7 @@ tags: [denker-vita, ki, industriepolitik, europa, technologie-politik, marktkonz
 
 # Frederike Kaltheuner — DenkerVita
 
-![[assets/Frederike-Kaltheuner-banner.jpg|1200]]
+![[assets/Frederike-Kaltheuner-banner.jpg|Bunte Zeichnung: Auf einer Bühne mit Europaflagge und Geldkisten hält ein Händler eine leuchtende Flasche mit der Aufschrift „KI“ hoch, darüber das Schild „Schlangenöl“, davor reckt eine Menge die Arme. Rechts steht „Märkte werden gemacht, nicht gefunden“.|1200]]
 
 <details><summary>🎨</summary>
 

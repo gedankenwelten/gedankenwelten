@@ -7,7 +7,7 @@ tags: [denker-vita, desinformation, medien, deutschland]
 
 # Thomas Laschyk — DenkerVita
 
-![[assets/Thomas-Laschyk-vita-banner.jpg|1200]]
+![[assets/Thomas-Laschyk-vita-banner.jpg|Strichzeichnung: Ein Mann schreibt am Tisch neben einem Glas mit Münzen, eine Linie führt von ihm zu einem Megafon, aus dem eine Reihe Häkchen in ein wirres Knäuel aus Linien, Ausrufezeichen und herabregnenden Münzen fliegt.|1200]]
 
 <details><summary>🎨</summary>
 

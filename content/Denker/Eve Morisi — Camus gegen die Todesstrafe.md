@@ -20,7 +20,7 @@ aliases:
 
 # Ève Morisi — Camus gegen die Todesstrafe
 
-![[assets/Eve-Morisi-Camus-gegen-die-Todesstrafe-banner.jpg|1200]]
+![[assets/Eve-Morisi-Camus-gegen-die-Todesstrafe-banner.jpg|Radierung: Vor einer langen hohen Mauer steht eine dichte Menschenmenge, vorn krümmt sich ein Mann mit Mütze und hält sich den Bauch, rechts ein Tisch mit einem Papierstapel und einem Tintenfass.|1200]]
 
 <details><summary>🎨</summary>
 

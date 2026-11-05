@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, demokratie, deutschland, rechtswissenschaft]
 
 # Christoph Möllers — DenkerVita
 
-![[assets/Christoph-Moellers-vita-banner.jpg|1200]]
+![[assets/Christoph-Moellers-vita-banner.jpg|Ein waagrechter grauer Balken führt von links zu einem Feld aus ineinanderliegenden Quadraten in Grau, Ocker und Dunkelblau, vor dem eine weiße ionische Säule steht.|1200]]
 
 <details><summary>🎨</summary>
 

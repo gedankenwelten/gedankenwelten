@@ -8,7 +8,7 @@ tags: [denker-vita, technologie, ki, demokratie, deutschland]
 
 # IT Mario — DenkerVita
 
-![[assets/IT-Mario-vita-banner.jpg|1200]]
+![[assets/IT-Mario-vita-banner.jpg|Flache Grafik: Eine Lupe vergrößert eine Tabelle voller Zahlen, darüber ein Balkendiagramm mit steigenden Linien, rechts ein Mauszeiger und ein Kasten mit Programmcode.|1200]]
 
 <details><summary>🎨</summary>
 

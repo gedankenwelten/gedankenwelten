@@ -8,7 +8,7 @@ tags: [denker-vita, vipassana, buddhismus, meditation, mitgefühl, bodhisattva]
 
 # Adriaan van Wagensveld — DenkerVita
 
-![[assets/Adriaan-van-Wagensveld-vita-banner.jpg|1200]]
+![[assets/Adriaan-van-Wagensveld-vita-banner.jpg|Tuschezeichnung: Eine dunkle Gestalt sitzt im Lotussitz, links eine zerbrochene Schale und rechts zwei Steine, deren Risse mit Gold gefüllt sind; vor ihr eine weiße Lotusblüte, daneben ein goldener Stab.|1200]]
 
 <details><summary>🎨</summary>
 

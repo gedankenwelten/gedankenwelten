@@ -17,7 +17,7 @@ aliases:
 
 # Kojin Karatani — Tauschformen und die Überwindung der Triade
 
-![[assets/Kojin-Karatani-Tauschformen-und-die-Ueberwindung-der-Triade-banner.jpg|1200]]
+![[assets/Kojin-Karatani-Tauschformen-und-die-Ueberwindung-der-Triade-banner.jpg|Drei ineinandergreifende schwarze Tuschkreise über einer nebligen grauen Meeres- und Berglandschaft, rechts oben ein kleiner goldener Ring.|1200]]
 
 <details><summary>🎨</summary>
 

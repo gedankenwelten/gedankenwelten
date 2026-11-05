@@ -17,7 +17,7 @@ aliases:
 
 # Tsitsi Dangarembga — Feministische Stimme Afrikas
 
-![[assets/Tsitsi-Dangarembga-Feministische-Stimme-Afrikas-banner.jpg|1200]]
+![[assets/Tsitsi-Dangarembga-Feministische-Stimme-Afrikas-banner.jpg|Links ernten Menschen in einem hohen Hirsefeld und füllen Körbe, in der Mitte steht eine große schwarze Dreschmaschine, rechts liest eine Frau mit rotem Kopftuch und einem Schild sitzenden Frauen und Mädchen aus einem Buch vor.|1200]]
 
 <details><summary>🎨</summary>
 

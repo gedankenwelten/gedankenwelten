@@ -8,7 +8,7 @@ tags: [denker-vita, geopolitik, deutschland, militär, usa]
 
 # Jana Puglierin — DenkerVita
 
-![[assets/Jana-Puglierin-vita-banner.jpg|1200]]
+![[assets/Jana-Puglierin-vita-banner.jpg|Ineinander geschachtelte Quadrate auf weißem Grund: außen Grau, dann Hellbeige, Altrosa und in der Mitte ein orangerotes Quadrat.|1200]]
 
 <details><summary>🎨</summary>
 

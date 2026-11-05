@@ -8,7 +8,7 @@ tags: [denker-vita, neurowissenschaft, belohnungssystem, lernmechanismen]
 
 # Wolfram Schultz — DenkerVita
 
-![[assets/Wolfram-Schultz-vita-banner.jpg|1200]]
+![[assets/Wolfram-Schultz-vita-banner.jpg|Grafik auf dunklem Blaugrün: links eine leuchtende Nervenzelle mit verästelten Fortsätzen, rechts ein Diagramm mit Kurve und den Beschriftungen Erwartete Belohnung, Erhaltene Belohnung und Vorhersagefehler.|1200]]
 
 <details><summary>🎨</summary>
 

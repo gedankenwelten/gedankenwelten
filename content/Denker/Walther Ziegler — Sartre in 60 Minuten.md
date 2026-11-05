@@ -18,7 +18,7 @@ aliases:
 
 # Walther Ziegler — Sartre in 60 Minuten
 
-![[assets/Walther-Ziegler-Sartre-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Sartre-in-60-Minuten-banner.jpg|Auf einer weiten grauen Ebene, kreuz und quer von schwarzen Linien durchzogen, stehen hagere, dünne Figuren weit verstreut, eine große in der Mitte; vorn links ein kleiner Bistrotisch mit Stuhl.|1200]]
 
 <details><summary>🎨</summary>
 

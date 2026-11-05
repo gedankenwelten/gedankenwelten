@@ -8,7 +8,7 @@ tags: [denker-vita, ki, industriepolitik, oekonomie, oekonomische-politik, verei
 
 # Carsten Jung — DenkerVita
 
-![[assets/Carsten-Jung-vita-banner.jpg|1200]]
+![[assets/Carsten-Jung-vita-banner.jpg|Schaubild auf hellem Grund: links zwei Reihen gleicher schwarzer Figuren in Anzügen, rechts wachsende Münzstapel mit kleinen Fabriken und Pfundzeichen, auf denen einzelne Figuren immer höher stehen; ein roter Roboterarm greift nach dem höchsten.|1200]]
 
 <details><summary>🎨</summary>
 

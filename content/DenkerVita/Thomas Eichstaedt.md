@@ -11,7 +11,7 @@ aliases:
 
 # Thomas „Eichi" Eichstädt — DenkerVita
 
-![[assets/Thomas-Eichstaedt-vita-banner.jpg|1200]]
+![[assets/Thomas-Eichstaedt-vita-banner.jpg|Holzschnitt: Jungen in Fußballtrikots stehen Arm in Arm im Kreis um einen kräftigen Mann mit Trillerpfeife, vor ihnen ein Ball, dahinter ein Tor und eine rote Sonne am Horizont.|1200]]
 
 <details><summary>🎨</summary>
 

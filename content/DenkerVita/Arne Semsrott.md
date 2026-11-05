@@ -8,7 +8,7 @@ tags: [denker-vita, pressefreiheit, transparenz, demokratie]
 
 # Arne Semsrott — DenkerVita
 
-![[assets/Arne-Semsrott-vita-banner.jpg|1200]]
+![[assets/Arne-Semsrott-vita-banner.jpg|Ein kleiner Mann steht vor hohen hellen Serverregalen, aus denen Datenteilchen in einen Lichtkegel wirbeln, der in die offene Tür eines riesigen Tresors führt.|1200]]
 
 <details><summary>🎨</summary>
 

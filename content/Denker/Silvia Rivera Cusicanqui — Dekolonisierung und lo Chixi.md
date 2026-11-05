@@ -17,7 +17,7 @@ aliases:
 
 # Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi
 
-![[assets/Silvia-Rivera-Cusicanqui-Dekolonisierung-und-lo-Chixi-banner.jpg|1200]]
+![[assets/Silvia-Rivera-Cusicanqui-Dekolonisierung-und-lo-Chixi-banner.jpg|Gewebter Teppich in Orange, Pink und Rot mit einem weißen Berggrat und kleinen Sternen, darunter ein breites schwarzweißes Schachbrettband, das zur Mitte hin in Grau verschwimmt, unten ein schwarzes Zickzack.|1200]]
 
 <details><summary>🎨</summary>
 

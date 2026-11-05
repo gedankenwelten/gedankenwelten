@@ -20,7 +20,7 @@ aliases:
 
 # Christoph Butterwegge — Armut NEU DENKEN
 
-![[assets/christoph-butterwegge-armut-neu-denken-banner.jpg|1200]]
+![[assets/christoph-butterwegge-armut-neu-denken-banner.jpg|Eine Familie in zerrissener, verschmutzter Kleidung, eine Frau mit Baby, ein hagerer Mann und ein kleiner Junge, steht auf einem rissigen Platz vor gläsernen Hochhäusern im Dunst.|1200]]
 
 <details><summary>🎨</summary>
 

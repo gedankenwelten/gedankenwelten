@@ -24,7 +24,7 @@ aliases:
 
 # Neue Akropolis — Der Mensch ist besser als sein Ruf
 
-![[assets/Neue-Akropolis-Der-Mensch-ist-besser-als-sein-Ruf-banner.jpg|1200]]
+![[assets/Neue-Akropolis-Der-Mensch-ist-besser-als-sein-Ruf-banner.jpg|Wandbild: Eine Kette von Menschen jeden Alters steht im Wasser und reicht Körbe mit Brot und zuletzt ein Baby ans Ufer, wo ein Mädchen wartet; darüber dunkle Sturmwolken mit einem hellen Wolf, rechts goldener Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

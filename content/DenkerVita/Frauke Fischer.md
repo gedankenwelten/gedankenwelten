@@ -6,7 +6,7 @@ tags: [denker-vita, biodiversität, ki, technologie, wirtschaft, deutschland]
 
 # Frauke Fischer — DenkerVita
 
-![[assets/Frauke-Fischer-vita-banner.jpg|1200]]
+![[assets/Frauke-Fischer-vita-banner.jpg|Dichtes grünes Blätterdickicht mit weißen und orangen Blüten unter einem hellen Vollmond, unten zwischen den Stängeln lugt ein geflecktes Reh hervor.|1200]]
 
 <details><summary>🎨</summary>
 

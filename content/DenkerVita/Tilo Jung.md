@@ -8,7 +8,7 @@ tags: [denker-vita, journalismus, demokratie, kapitalismus]
 
 # Tilo Jung — DenkerVita
 
-![[assets/Tilo-Jung-vita-banner.jpg|1200]]
+![[assets/Tilo-Jung-vita-banner.jpg|Flache Grafik auf türkisem Grund: ein Rednerpult mit Mikrofon, dahinter ein kleiner Mann, über ihm ein großes rotes Fragezeichen und leere Sprechblasen.|1200]]
 
 <details><summary>🎨</summary>
 

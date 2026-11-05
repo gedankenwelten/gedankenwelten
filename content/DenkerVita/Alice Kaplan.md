@@ -9,7 +9,7 @@ tags: [denker-vita, literatur, literaturwissenschaft, geschichte, frankreich, us
 
 # Alice Kaplan — DenkerVita
 
-![[assets/Alice-Kaplan-vita-banner.jpg|1200]]
+![[assets/Alice-Kaplan-vita-banner.jpg|Eine grauhaarige Frau sitzt unter einer grünen Lampe an einem Schreibtisch vor Regalen voller Archivkästen und betrachtet ein handbeschriebenes Blatt; auf dem Tisch Kartons, gebündelte Briefe, Dokumente und Bücher.|1200]]
 
 <details><summary>🎨</summary>
 

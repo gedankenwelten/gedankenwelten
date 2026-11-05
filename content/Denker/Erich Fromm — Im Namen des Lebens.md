@@ -17,7 +17,7 @@ aliases:
 
 # Erich Fromm — Im Namen des Lebens
 
-![[assets/Erich-Fromm-Im-Namen-des-Lebens-banner.jpg|1200]]
+![[assets/Erich-Fromm-Im-Namen-des-Lebens-banner.jpg|Links zerbrochene Zahnräder, Scherben und eine graue Maske, rechts wächst aus tiefen Wurzeln eine große blaue Blüte mit leuchtender Mitte, daneben ein Keimling und ein Kind, das nach den Blumen greift.|1200]]
 
 <details><summary>🎨</summary>
 

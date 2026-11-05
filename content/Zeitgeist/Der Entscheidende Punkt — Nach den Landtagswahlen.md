@@ -29,7 +29,7 @@ stimme:
 
 # Der Entscheidende Punkt — Nach den Landtagswahlen
 
-![[assets/Der-Entscheidende-Punkt-Nach-den-Landtagswahlen-banner.jpg|1200]]
+![[assets/Der-Entscheidende-Punkt-Nach-den-Landtagswahlen-banner.jpg|Ein älterer Mann, eine Frau mit Taschen und ein Junge auf dem Fahrrad stehen auf einer Landstraße neben Bushaltestelle und weißem Haus und schauen einer kleinen Gestalt nach, die an bunten Luftballons davonschwebt.|1200]]
 
 <details><summary>🎨</summary>
 

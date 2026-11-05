@@ -17,7 +17,7 @@ aliases:
 
 # Agnes Callard — Warum lohnt sich ein sokratisches Leben?
 
-![[assets/Agnes-Callard-Warum-lohnt-sich-ein-sokratisches-Leben-banner.jpg|1200]]
+![[assets/Agnes-Callard-Warum-lohnt-sich-ein-sokratisches-Leben-banner.jpg|Verspielte Formen auf Cremegrund: Ein blaues Wesen mit Augenkopf zeigt mit einem Stab, ein roter Apfel mit Beinchen, ein Stern, eine Spirale und Mondsicheln tanzen an einer feinen Linie zu einer roten Figur mit gelbem Mondkopf.|1200]]
 
 <details><summary>🎨</summary>
 

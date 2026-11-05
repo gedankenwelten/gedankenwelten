@@ -12,7 +12,7 @@ aliases:
 
 # Benjamin Biersky — DenkerVita
 
-![[assets/Benjamin-Biersky-vita-banner.jpg|1200]]
+![[assets/Benjamin-Biersky-vita-banner.jpg|Nacht in einer Dachkammer: Ein Mann sitzt, von hinten gesehen, vor einem leuchtenden Bildschirm und einem Mikrofon, rote Funkwellen breiten sich um ihn aus; draußen Dächer, eine Stadtsilhouette und Blitze.|1200]]
 
 <details><summary>🎨</summary>
 

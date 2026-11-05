@@ -20,7 +20,7 @@ aliases:
 
 # Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie
 
-![[assets/Der Zauberlehrling - Vibe Coding und die Eigendynamik der Magie.png|1200]]
+![[assets/Der Zauberlehrling - Vibe Coding und die Eigendynamik der Magie.png|Gemälde: Eine Gestalt im ockerfarbenen Gewand blickt auf zwei Besen, die sich von selbst kreuzen und fegen, über ihnen leuchtet ein Mauszeiger, rechts eine Treppe aus blauen Blöcken voller Programmcode, oben eine zweite Gestalt.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -20,7 +20,7 @@ aliases:
 
 # Flemig reagiert auf Precht — Russland, „nichts zu holen" und die Grenzen der Expertise
 
-![[assets/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise-banner.jpg|1200]]
+![[assets/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise-banner.jpg|Auf einem weiten Schachbrettplatz mit Arkaden stehen sich zwei kantige Figuren gegenüber, eine im Gewand mit einer Schriftrolle, eine in Uniform, die in die Ferne zeigt; vorn liegen eine umgestürzte Säule und ein leerer Sockel.|1200]]
 
 <details><summary>🎨</summary>
 

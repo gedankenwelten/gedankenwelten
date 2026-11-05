@@ -19,7 +19,7 @@ aliases:
 
 # Die Anstalt — Warum Wohnen unbezahlbar wird
 
-![[assets/Die-Anstalt-Warum-Wohnen-unbezahlbar-wird-banner.jpg|1200]]
+![[assets/Die-Anstalt-Warum-Wohnen-unbezahlbar-wird-banner.jpg|Ein lachender, dicker Mann im Nadelstreifenanzug breitet hinter einem Betonpult mit Hochhausmodell die Arme aus, hinter ihm eine Wand aus Wohnblöcken; vorn steht ein Mann mit Rucksack, von hinten gesehen.|1200]]
 
 <details><summary>🎨</summary>
 

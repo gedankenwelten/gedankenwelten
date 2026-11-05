@@ -8,7 +8,7 @@ tags: [denker-vita, geopolitik, militaer, youtube]
 
 # Torsten Heinrich
 
-![[assets/Torsten-Heinrich-vita-banner.jpg|1200]]
+![[assets/Torsten-Heinrich-vita-banner.jpg|Infografik: eine Papierrolle mit Zeitleiste, Jahreszahlen und Symbolen, darüber eine Lupe, davor kleine Figuren in Mänteln, rechts eine Weltkarte mit Pfeilen und Bildzeichen von Fabriken, Schiffen und Städten.|1200]]
 
 <details><summary>🎨</summary>
 

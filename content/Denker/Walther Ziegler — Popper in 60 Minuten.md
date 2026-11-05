@@ -17,7 +17,7 @@ aliases:
 
 # Walther Ziegler — Popper in 60 Minuten
 
-![[assets/Walther-Ziegler-Popper-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Popper-in-60-Minuten-banner.jpg|Farbholzschnitt: Unter einer schwarzen Sonnenfinsternis mit hellem Strahlenkranz schwimmen weiße Schwäne auf dunklem Wasser, mitten unter ihnen ein schwarzer Schwan.|1200]]
 
 <details><summary>🎨</summary>
 

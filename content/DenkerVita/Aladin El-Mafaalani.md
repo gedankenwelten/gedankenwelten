@@ -6,7 +6,7 @@ tags: [denker-vita, soziologie, migration, bildung, demokratie]
 
 # Aladin El-Mafaalani
 
-![[assets/Aladin-El-Mafaalani-vita-banner.jpg|1200]]
+![[assets/Aladin-El-Mafaalani-vita-banner.jpg|Eine lange Tafel voller Menschen verschiedener Herkunft, die essen, trinken und reden; dahinter vor orangem Himmel Kühltürme, Schlote und Kräne.|1200]]
 
 <details><summary>🎨</summary>
 

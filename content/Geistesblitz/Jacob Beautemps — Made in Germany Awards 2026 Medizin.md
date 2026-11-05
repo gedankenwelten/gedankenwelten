@@ -26,7 +26,7 @@ stimme:
 
 # Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen
 
-![[assets/jacob-beautemps-miga-medizin-banner.jpg|1200]]
+![[assets/jacob-beautemps-miga-medizin-banner.jpg|Pastellzeichnung auf schwarzem Grund: Eine ältere Frau mit geschlossenen Augen atmet einen Schwarm aus Blüten und Funken ein, der aus einem kleinen Glasfläschchen an einem roten Band zu ihr strömt.|1200]]
 
 <details><summary>🎨</summary>
 

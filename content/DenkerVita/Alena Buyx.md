@@ -8,7 +8,7 @@ tags: [denker-vita, ethik, medizinethik, bioethik, deutschland]
 
 # Alena Buyx — DenkerVita
 
-![[assets/Alena-Buyx-vita-banner.jpg|1200]]
+![[assets/Alena-Buyx-vita-banner.jpg|In einem Rahmen im Art-déco-Stil trägt ein geflügelter Äskulapstab eine Waage, in der linken Schale eine leuchtende Doppelhelix, in der rechten ein rotes Herz, dahinter blaue Strahlen.|1200]]
 
 <details><summary>🎨</summary>
 

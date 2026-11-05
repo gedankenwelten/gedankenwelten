@@ -9,7 +9,7 @@ tags: [denker-vita, philosophie, ethik, demokratie, usa, deutschland, israel, an
 
 # Susan Neiman — DenkerVita
 
-![[assets/Susan-Neiman-vita-banner.jpg|1200]]
+![[assets/Susan-Neiman-vita-banner.jpg|Eine Frau mit dunklen Locken sitzt von hinten gesehen an einem Tisch voller aufgeschlagener Bücher, mit siebenarmigem Leuchter und Kaffeetasse, dahinter drei Bilder: Kiefernwald mit Bus, Mietshaus mit gelber Straßenbahn, Dächer mit Wassertürmen.|1200]]
 
 <details><summary>🎨</summary>
 

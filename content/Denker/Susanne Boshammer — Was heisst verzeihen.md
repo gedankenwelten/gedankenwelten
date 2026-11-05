@@ -23,7 +23,7 @@ aliases:
 
 # Susanne Boshammer — Was heißt verzeihen?
 
-![[assets/Susanne-Boshammer-Was-heisst-verzeihen-banner.jpg|1200]]
+![[assets/Susanne-Boshammer-Was-heisst-verzeihen-banner.jpg|Holzschnitt in Schwarz und Weiß: In einem Klassenzimmer mit leerer Tafel hält eine Frau im langen Kleid ein weißes Seil, das über den Boden zu einem Mann im dunklen Mantel führt, der durch eine helle Tür hinausgeht.|1200]]
 
 <details><summary>🎨</summary>
 

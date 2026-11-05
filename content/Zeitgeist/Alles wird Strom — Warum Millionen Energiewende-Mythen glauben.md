@@ -23,7 +23,7 @@ raetsel: "Er musste nichts widerlegen. Er streute nur Vielleicht in die Furchen.
 
 # Alles wird Strom — Warum Millionen Energiewende-Mythen glauben
 
-![[assets/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben-banner.jpg|1200]]
+![[assets/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben-banner.jpg|Pastos gemalt: Ein Mann in Anzug und Hut sät aus einem Sack über violette Ackerfurchen, dahinter ein goldenes Feld, Windräder und ein Haus mit erleuchteten Fenstern unter einer wirbelnden gelben Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

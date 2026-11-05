@@ -8,7 +8,7 @@ tags: [denker-vita, medien, debattenkultur, konstruktivismus]
 
 # Bernhard Pörksen — DenkerVita
 
-![[assets/Bernhard-Poerksen-vita-banner.jpg|1200]]
+![[assets/Bernhard-Poerksen-vita-banner.jpg|Pop-Art-Gewimmel: Eine dichte Menge hält bunte Megafone, Bildschirme und Schilder in die Höhe, verbunden durch feine Linien, darüber Sprechblasen und drei Ausrufezeichen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -7,7 +7,7 @@ raetsel: "Zwei Männer behämmern einen Dom. Einer rechnet: tausend Jahre."
 
 # Ilko-Sascha Kowalczuk — DenkerVita
 
-![[assets/Ilko-Sascha-Kowalczuk-vita-banner.jpg|1200]]
+![[assets/Ilko-Sascha-Kowalczuk-vita-banner.jpg|Verfallene gotische Kirchenhalle voller Schutt und Stroh: links in einem Bretterverschlag ein alter Mann am Schreibtisch unter einer Lampe, hinten im gleißend hellen Portal eine kleine Gestalt.|1200]]
 
 <details><summary>🎨</summary>
 

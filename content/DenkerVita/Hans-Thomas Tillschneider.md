@@ -9,7 +9,7 @@ tags: [denker-vita, afd, rechtsextremismus, antisemitismus, russland, islam, deu
 
 # Hans-Thomas Tillschneider — DenkerVita
 
-![[assets/Hans-Thomas-Tillschneider-vita-banner.jpg|1200]]
+![[assets/Hans-Thomas-Tillschneider-vita-banner.jpg|Leerer Platz zwischen Arkaden und Türmen unter dunkelgrünem Himmel: Eine kahle Gestalt im Anzug hält ein aufgeschlagenes Buch mit Zeichnungen, neben ihr Bücher, in der Mitte ein weißer Sockel, rechts Kerzen vor einer Holztür.|1200]]
 
 <details><summary>🎨</summary>
 

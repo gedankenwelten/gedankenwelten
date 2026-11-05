@@ -19,7 +19,7 @@ aliases:
 
 # Trumps Wille geschehe
 
-![[assets/Trumps-Wille-geschehe-banner.jpg|1200]]
+![[assets/Trumps-Wille-geschehe-banner.jpg|Karikatur: Ein kleiner dicker Mann mit orangem Haar, Krone und roter Krawatte steht auf einer Kiste in einem verfallenen Saal und übermalt gerahmte Porträts mit oranger Farbe, in der anderen Hand eine Lupe.|1200]]
 
 <details><summary>🎨</summary>
 

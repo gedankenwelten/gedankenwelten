@@ -20,7 +20,7 @@ aliases:
 
 # TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang
 
-![[assets/Nachtsitzung-TheTrumpWeek-Oelkrise-KI-Staatsfonds-Thiel-banner.png|1200]]
+![[assets/Nachtsitzung-TheTrumpWeek-Oelkrise-KI-Staatsfonds-Thiel-banner.png|Ein Mann mit Zylinder geht mit einem Koffer davon, aus rostigen Fässern und Rohren tropft ein letzter Tropfen Öl; rechts greift ein zweiter Herr mit Zylinder nach einem Rettungsring in einer Öllache.|1200]]
 
 <details><summary>🎨</summary>
 

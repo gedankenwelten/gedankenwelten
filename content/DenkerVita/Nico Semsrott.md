@@ -8,7 +8,7 @@ tags: [denker-vita, eu, transparenz, satire, demokratie]
 
 # Nico Semsrott
 
-![[assets/Nico-Semsrott-vita-banner.jpg|1200]]
+![[assets/Nico-Semsrott-vita-banner.jpg|Fast leere graue Fläche: Eine kleine Gestalt im Kapuzenpullover steht unter einer Regenwolke, aus der ein Pfeil zu einem Kreis aus Sternen aufsteigt, darunter steht „Niedriger zielen“.|1200]]
 
 <details><summary>🎨</summary>
 

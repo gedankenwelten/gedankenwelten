@@ -7,7 +7,7 @@ raetsel: "Der Arzt verschrieb sich die Krankheit. Einen Monat lang, gewissenhaft
 
 # Chris van Tulleken — DenkerVita
 
-![[assets/Chris-van-Tulleken-vita-banner.jpg|1200]]
+![[assets/Chris-van-Tulleken-vita-banner.jpg|Nächtlicher Dschungel unter Vollmond: zwei Männer in weißen Kitteln, einer mit Stethoskop, einer mit einer Orange in der Hand, zwischen ihnen hockt ein Affe auf einem gelben Karton.|1200]]
 
 <details><summary>🎨</summary>
 

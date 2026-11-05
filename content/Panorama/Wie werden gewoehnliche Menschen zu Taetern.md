@@ -18,7 +18,7 @@ tags:
 
 # Wie werden gewöhnliche Menschen zu Tätern?
 
-![[assets/Wie-werden-gewoehnliche-Menschen-zu-Taetern-banner.jpg|1200]]
+![[assets/Wie-werden-gewoehnliche-Menschen-zu-Taetern-banner.jpg|Scherenschnittartig in Schwarz und Weiß: Eine lange Schlange dunkler Männer in Mänteln und Hüten mit Papieren in der Hand zieht vom Hügel herab in ein Haus, daneben führt ein Bahngleis in die Ferne.|1200]]
 
 <details><summary>🎨</summary>
 

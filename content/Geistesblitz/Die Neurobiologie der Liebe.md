@@ -19,7 +19,7 @@ aliases:
 
 # Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht
 
-![[assets/Die-Neurobiologie-der-Liebe-banner.jpg|1200]]
+![[assets/Die-Neurobiologie-der-Liebe-banner.jpg|Nachtbild in Blau und Rot: Ein Liebespaar schwebt umschlungen über einem Dorf, beide halten leuchtende Herzen, goldene Fäden fließen von ihnen zu einem blühenden Baum, dazu Vollmond und ein roter Vogel.|1200]]
 
 <details><summary>🎨</summary>
 

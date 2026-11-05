@@ -19,7 +19,7 @@ aliases:
 
 # Erich Fromm — Die Welt lieben (SRF 1979)
 
-![[assets/Erich-Fromm-Die-Welt-lieben-SRF-1979-banner.jpg|1200]]
+![[assets/Erich-Fromm-Die-Welt-lieben-SRF-1979-banner.jpg|Ein junger Mann in weißem Hemd schwebt mit ausgebreiteten Armen über einem Dorf aus bunten Holzhäusern, über ihm Sonne und Mondsichel zugleich; eine Ziege steht auf einem Dach, Geigen lehnen an den Häusern, ein Baum blüht.|1200]]
 
 <details><summary>🎨</summary>
 

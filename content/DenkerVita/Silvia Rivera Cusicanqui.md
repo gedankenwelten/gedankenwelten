@@ -8,7 +8,7 @@ aktualisiert: 2026-06-10
 
 # Silvia Rivera Cusicanqui — DenkerVita
 
-![[assets/Silvia-Rivera-Cusicanqui-vita-banner.jpg|1200]]
+![[assets/Silvia-Rivera-Cusicanqui-vita-banner.jpg|Gewebtes Textil in Rot, Schwarz, Orange und Blau: stilisierte Vögel mit großen Schnäbeln, Stufenmuster, Spiralen und ein buntes Karomuster.|1200]]
 
 <details><summary>🎨</summary>
 

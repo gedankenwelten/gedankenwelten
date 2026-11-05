@@ -20,7 +20,7 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 
 # Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit
 
-![[assets/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit-banner.jpg|1200]]
+![[assets/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit-banner.jpg|Ein großer, kahler Saal in Grau mit hohen Fenstern, in der Mitte ein Tisch mit einer Waage, an den Wänden leere Stühle, hinten eine halb offene Tür und eine Tafel.|1200]]
 
 <details><summary>🎨</summary>
 

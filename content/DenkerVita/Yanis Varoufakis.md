@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, kapitalismus, technologie, europa, griechenland]
 
 # Yanis Varoufakis — DenkerVita
 
-![[assets/Yanis-Varoufakis-vita-banner.jpg|1200]]
+![[assets/Yanis-Varoufakis-vita-banner.jpg|Flache Grafik: Eine Burg aus Serverschränken thront auf einer Wolke, zwei gekrönte rote Roboter ziehen an goldenen Ketten, darunter Reihen von Menschen an Computern, in der Mitte hängt eine zerbrochene Goldmünze.|1200]]
 
 <details><summary>🎨</summary>
 

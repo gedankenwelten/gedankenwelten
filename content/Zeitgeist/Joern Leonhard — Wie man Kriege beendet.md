@@ -27,7 +27,7 @@ stimme:
 
 # Jörn Leonhard — Wie man Kriege beendet
 
-![[assets/Joern-Leonhard-Wie-man-Kriege-beendet-banner.jpg|1200]]
+![[assets/Joern-Leonhard-Wie-man-Kriege-beendet-banner.jpg|Ein leerer, getäfelter Saal: Auf einem grünen Tisch liegen eine Schriftrolle mit rotem Siegel, Tintenfass, Feder und ein Olivenzweig, die Stühle sind leer; durch das Fenster sieht man Rauchsäulen über einer Ebene.|1200]]
 
 <details><summary>🎨</summary>
 

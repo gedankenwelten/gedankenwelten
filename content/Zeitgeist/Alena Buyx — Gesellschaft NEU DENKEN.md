@@ -34,7 +34,7 @@ stimme:
 
 # Alena Buyx — Gesellschaft NEU DENKEN
 
-![[assets/Alena-Buyx-Gesellschaft-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Alena-Buyx-Gesellschaft-NEU-DENKEN-banner.jpg|Ein durchscheinendes Band windet sich um einen runden Kuppelbau, auf dem Band gehen viele kleine Menschen; dahinter feine Kreisgeometrie, Blätterranken und goldene Wolken auf hellem Grund.|1200]]
 
 <details><summary>🎨</summary>
 

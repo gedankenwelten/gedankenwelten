@@ -8,7 +8,7 @@ tags: [denker-vita, technologie, innovation, organisationsentwicklung, zukunftsf
 
 # Raphael Iltisberger — DenkerVita
 
-![[assets/Raphael-Iltisberger-vita-banner.jpg|1200]]
+![[assets/Raphael-Iltisberger-vita-banner.jpg|Flache Grafik in Petrol und Ocker: Vier Menschen stehen in einem Boot auf Wellen aus Schaltkreislinien und halten einen Fächer aus Karten und einen großen Kompass hoch, darüber Wolken aus Schlagwörtern wie „Zukunft“.|1200]]
 
 <details><summary>🎨</summary>
 

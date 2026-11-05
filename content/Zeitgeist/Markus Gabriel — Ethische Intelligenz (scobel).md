@@ -18,7 +18,7 @@ aliases:
 
 # Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht
 
-![[assets/Markus-Gabriel-Ethische-Intelligenz-scobel-banner.jpg|1200]]
+![[assets/Markus-Gabriel-Ethische-Intelligenz-scobel-banner.jpg|Ein Mann mit Melone und schwarzem Mantel steht von hinten vor einem goldgerahmten Spiegel, der ihn zweimal zeigt, ebenfalls von hinten und mit erhobenen Händen; auf dem Kaminsims liegt ein Hammer.|1200]]
 
 <details><summary>🎨</summary>
 

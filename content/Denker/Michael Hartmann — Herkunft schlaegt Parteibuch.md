@@ -26,7 +26,7 @@ stimme:
 
 # Michael Hartmann — Herkunft schlägt Parteibuch
 
-![[assets/Michael-Hartmann-Herkunft-schlaegt-Parteibuch-banner.jpg|1200]]
+![[assets/Michael-Hartmann-Herkunft-schlaegt-Parteibuch-banner.jpg|Schaubild auf cremefarbenem Grund: Eine gerade Linie führt zu einem Kasten mit neun schwarzen Figuren, manche mit roten Flächen auf der Brust; darunter eine endlose Fläche aus winzigen grauen Figuren.|1200]]
 
 <details><summary>🎨</summary>
 

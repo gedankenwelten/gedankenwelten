@@ -24,7 +24,7 @@ aliases:
 
 # Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?
 
-![[assets/Stephan-Marks-und-Aladin-El-Mafaalani-Unter-der-Wut-die-Scham-banner.jpg|1200]]
+![[assets/Stephan-Marks-und-Aladin-El-Mafaalani-Unter-der-Wut-die-Scham-banner.jpg|Holzschnitt: Ein Junge sitzt zusammengekauert auf einer Bank in einem kahlen Raum, das Gesicht in den Armen, in einer offenen Tür steht eine ältere Frau im Licht und streckt ihm die Hand entgegen.|1200]]
 
 <details><summary>🎨</summary>
 

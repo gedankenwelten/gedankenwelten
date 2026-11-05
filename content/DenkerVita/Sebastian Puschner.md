@@ -9,7 +9,7 @@ raetsel: "Erst fragt er, wem die Wände gehören. Dann, wer dahinter wohnt."
 
 # Sebastian Puschner — DenkerVita
 
-![[assets/Sebastian-Puschner-vita-banner.jpg|1200]]
+![[assets/Sebastian-Puschner-vita-banner.jpg|Holzschnitt in Schwarz und Weiß: Ein bärtiger Mann im Strickpullover geht mit einem Ordner an Fabrikschloten und einem Säulenbau vorbei, aus dem Zahlen wehen. Rechts ein Wohnblock mit Häkchen in den Fenstern und gestikulierenden Menschen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, frieden, palästina, aktivismus]
 
 # Aziz Abu Sarah — DenkerVita
 
-![[assets/Aziz-Abu-Sarah-vita-banner.jpg|1200]]
+![[assets/Aziz-Abu-Sarah-vita-banner.jpg|Aquarell: Eine Stadt aus bunten, würfelförmigen Häusern mit Kuppeln auf einem Hügel, in der Mitte zwei Torbögen, zu denen zwei Wege nebeneinander führen, einer ocker, einer türkis; am Himmel Mond und Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

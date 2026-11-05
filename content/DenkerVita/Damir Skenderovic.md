@@ -6,7 +6,7 @@ tags: [denker-vita, rechtsextremismus, schweiz]
 
 # Damir Skenderovic — DenkerVita
 
-![[assets/Damir-Skenderovic-vita-banner.jpg|1200]]
+![[assets/Damir-Skenderovic-vita-banner.jpg|Grafik in Schwarz, Weiß und Rot: Links sitzt ein Mann mit Schnurrbart am Schreibtisch mit Lampe vor einem hellen Kreis, rechts endlose Regale voller Aktenordner, einige rot, dazwischen Silhouetten gehender Menschen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -12,7 +12,7 @@ tags: [denker-vita, belarus, widerstand, autoritarismus, menschenrechte, demokra
 
 # Maria Kalesnikava — DenkerVita
 
-![[assets/Maria-Kalesnikava-vita-banner.jpg|1200]]
+![[assets/Maria-Kalesnikava-vita-banner.jpg|Farbenfrohe Nacht: Eine Frau in Weiß schwebt flötend über einem Dorf aus schiefen Holzhäusern, aus der Flöte flattern Notenblätter und Tauben, auf einem Dach spielt ein Geiger, unten steht eine grüne Kuh.|1200]]
 
 <details><summary>🎨</summary>
 

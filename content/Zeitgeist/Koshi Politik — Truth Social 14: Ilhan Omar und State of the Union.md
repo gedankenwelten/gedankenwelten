@@ -20,7 +20,7 @@ aliases:
 
 # Koschi Politik — Truth Social 14: Ilhan Omar und State of the Union
 
-![[assets/Koshi-Politik-Truth-Social-14-Ilhan-Omar-und-State-of-the-Union-banner.jpg|1200]]
+![[assets/Koshi-Politik-Truth-Social-14-Ilhan-Omar-und-State-of-the-Union-banner.jpg|Unter Stacheldraht und vor der Kuppel des Kapitols stehen zwei Frauen an Pulten, alte Menschen und Kinder strecken die Hände aus; hinter einem Vorhang hält eine Hand ein Handy, an dessen Fäden leere Krankenbetten hängen.|1200]]
 
 <details><summary>🎨</summary>
 

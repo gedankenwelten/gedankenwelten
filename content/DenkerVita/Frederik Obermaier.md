@@ -6,7 +6,7 @@ tags: [denker-vita, medien, investigativjournalismus, deutschland]
 
 # Frederik Obermaier — DenkerVita
 
-![[assets/Frederik-Obermaier-vita-banner.jpg|1200]]
+![[assets/Frederik-Obermaier-vita-banner.jpg|Feine Zeichnung auf hellem Grund: Von einer kleinen Palmeninsel schlängelt sich eine Linie mit Akten, Geldscheinen und Dokumenten zu einer Figur an einer Schreibmaschine, hinter der ein Blatt mit dem Wort „Schlagzeile“ hängt.|1200]]
 
 <details><summary>🎨</summary>
 

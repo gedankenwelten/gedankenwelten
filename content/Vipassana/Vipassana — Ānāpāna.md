@@ -26,7 +26,7 @@ stimme:
 
 # Vipassana — Ānāpāna
 
-![[assets/Vipassana_Anapana.png]]
+![[assets/Vipassana_Anapana.png|Zarte Tafel mit Beschriftungen: links eine Figur, verstrickt in Spiralknoten, mit den Worten Knoten, Reaktion um Reaktion, in der Mitte ein großes Gesicht mit Pfeil unter der Nase und dem Satz die Wirklichkeit, wie sie ist, rechts eine Pfeilspitze.]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, energiewende, strommarkt, batterie, deutschland, wirtschaft]
 
 # Dirk Specht — DenkerVita
 
-![[assets/Dirk-Specht-vita-banner.jpg|1200]]
+![[assets/Dirk-Specht-vita-banner.jpg|Plakat in Rot, Schwarz und Gelb: Ein gelber Zickzackblitz zieht durch Strommasten zu einem großen Zahnrad mit Schalter, dazu Bruchstücke von Buchstaben und Zahlen.|1200]]
 
 <details><summary>🎨</summary>
 

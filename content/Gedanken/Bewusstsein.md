@@ -16,7 +16,7 @@ aliases:
 
 # Bewusstsein
 
-![[assets/Bewusstsein-banner.jpg|1200]]
+![[assets/Bewusstsein-banner.jpg|Auf hellgrauem Grund schweben durch feine Linien verbundene Formen: eine leuchtend goldene Mitte, zwei sich überlappende Kreise in Blau und Rosa, ein graues Vieleck, ein dunkler Wirbel, eine grünblaue Linse und eine Funkenwolke.|1200]]
 
 <details><summary>🎨</summary>
 

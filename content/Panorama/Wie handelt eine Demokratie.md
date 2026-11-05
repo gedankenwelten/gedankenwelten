@@ -17,7 +17,7 @@ tags:
 
 # Wie handelt eine Demokratie?
 
-![[assets/Wie-handelt-eine-Demokratie-banner.jpg|1200]]
+![[assets/Wie-handelt-eine-Demokratie-banner.jpg|Zweiteiliges Wandbild: links ein schlichter Sitzungsraum, in dem Menschen am langen Tisch die Hände heben, rechts bauen viele Menschen gemeinsam eine hölzerne Bogenbrücke über einen Fluss, tragen Steine und Balken, ein Kran hebt Lasten.|1200]]
 
 <details><summary>🎨</summary>
 

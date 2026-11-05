@@ -15,7 +15,7 @@ tags:
 
 # Gert Scobel — DenkerVita
 
-![[assets/gert-scobel-vita-banner.jpg|1200]]
+![[assets/gert-scobel-vita-banner.jpg|Ölgemälde im Morgenlicht: Eine Gestalt im Umhang sitzt auf einem Felsvorsprung und blickt über ein weites Nebelmeer, aus dem in der Ferne Hügelketten ragen.|1200]]
 
 <details><summary>🎨</summary>
 

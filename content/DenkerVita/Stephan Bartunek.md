@@ -8,7 +8,7 @@ raetsel: "Er kennt das Haus von innen. Darum schreit er so laut vor seiner Tür.
 
 # Stephan Bartunek — DenkerVita
 
-![[assets/Stephan-Bartunek-vita-banner.jpg|1200]]
+![[assets/Stephan-Bartunek-vita-banner.jpg|Sepiazeichnung: Ein hagerer Mann mit grimmigem Lächeln tritt auf einer Holzbühne vor eine Wand mit durch rote Fäden verbundenen Zetteln, eine Maske liegt zu seinen Füßen, rechts zeigt eine Leinwand einen Redner am Pult vor einer Menge.|1200]]
 
 <details><summary>🎨</summary>
 

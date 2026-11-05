@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, kapitalismus, kulturkritik, dialektik]
 
 # Theodor W. Adorno — DenkerVita
 
-![[assets/Theodor-W-Adorno-vita-banner.jpg|1200]]
+![[assets/Theodor-W-Adorno-vita-banner.jpg|Collage in Grau und Schwarz: Eine Reihe gleicher lächelnder Masken fährt auf einem Fließband über Schallplatten vor Fabrikschloten, eine Maske zerspringt in roten Splittern, darüber eine rote Musiknote.|1200]]
 
 <details><summary>🎨</summary>
 

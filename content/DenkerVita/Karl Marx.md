@@ -6,7 +6,7 @@ aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, kapitalismus, materialismus, deutschland]
 ---
 
-![[assets/Karl_Marx_DenkerVita.png|1200]]
+![[assets/Karl_Marx_DenkerVita.png|Grafik in Schwarz, Weiß und Rot: Links eine Fabrik und ein Gerüst mit Kirchturm, Waage, Krone und Maske über einer Reihe kleiner Menschen, rechts greift eine magere, gebeugte Gestalt nach einem Haufen Münzen.|1200]]
 
 <details><summary>🎨</summary>
 

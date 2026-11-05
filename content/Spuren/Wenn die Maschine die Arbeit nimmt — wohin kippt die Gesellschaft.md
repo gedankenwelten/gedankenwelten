@@ -22,7 +22,7 @@ aliases:
 
 # Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?
 
-![[assets/Wenn-die-Maschine-die-Arbeit-nimmt-wohin-kippt-die-Gesellschaft-banner.jpg|1200]]
+![[assets/Wenn-die-Maschine-die-Arbeit-nimmt-wohin-kippt-die-Gesellschaft-banner.jpg|Holzschnitt in Schwarz, Weiß und Gold: Zwei Gruppen ziehen an einem Seil über einer Felsspalte, links vor einer Hochhausstadt, rechts vor einem goldenen Baum, in der Mitte ein Knoten mit herabhängendem Lot.|1200]]
 
 <details><summary>🎨</summary>
 

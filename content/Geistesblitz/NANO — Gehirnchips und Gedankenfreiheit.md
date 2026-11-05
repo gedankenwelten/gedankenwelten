@@ -22,7 +22,7 @@ aliases:
 
 # NANO — Gehirnchips und Gedankenfreiheit
 
-![[assets/NANO-Gehirnchips-und-Gedankenfreiheit-banner.jpg|1200]]
+![[assets/NANO-Gehirnchips-und-Gedankenfreiheit-banner.jpg|Ein Mann im dunklen Mantel steht von hinten am nächtlichen Meer, statt eines Kopfes trägt er einen Vogelkäfig mit einem leuchtenden Chip, aus der offenen Käfigtür ziehen Lichtlinien zu einer fernen Lichterreihe am Horizont.|1200]]
 
 <details><summary>🎨</summary>
 

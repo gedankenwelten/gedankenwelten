@@ -9,7 +9,7 @@ raetsel: "Er schrieb seinen Nachruf zu Lebzeiten. Seither sammelt er Schmetterli
 
 # Harald Welzer — DenkerVita
 
-![[assets/Harald-Welzer-vita-banner.jpg|1200]]
+![[assets/Harald-Welzer-vita-banner.jpg|Holzschnitt in Schwarz und Weiß: Links eine Wand voller gerahmter Familienbilder, davor ein Mann auf dem Fahrrad und ein Marktstand, rechts brechen Lichtstrahlen aus dunklen Wolken über ein Feld voller Windräder.|1200]]
 
 <details><summary>🎨</summary>
 

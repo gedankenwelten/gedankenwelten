@@ -28,7 +28,7 @@ stimme:
 
 # Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?
 
-![[assets/Martin-Oetting-und-Riwan-Driouich-Braucht-die-Wirtschaft-die-Autoritaeren-banner.jpg|1200]]
+![[assets/Martin-Oetting-und-Riwan-Driouich-Braucht-die-Wirtschaft-die-Autoritaeren-banner.jpg|Holzschnitt in Schwarz und Weiß: Zwei Hände in Anzugärmeln teilen sich unter einer Glühbirne eine Torte; im Fenster dahinter marschieren Uniformierte als Schattenrisse.|1200]]
 
 <details><summary>🎨</summary>
 

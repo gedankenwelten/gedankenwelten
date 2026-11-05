@@ -27,7 +27,7 @@ stimme:
 
 # Uwe Krüger — Netzwerke der Meinungsmacht
 
-![[assets/Uwe-Krueger-Netzwerke-der-Meinungsmacht-banner.jpg|1200]]
+![[assets/Uwe-Krueger-Netzwerke-der-Meinungsmacht-banner.jpg|An einem langen Tisch auf einer Terrasse unter Wolkenhimmel sitzen Männer und Frauen in dunklen Anzügen, in der Mitte ein leerer Platz, dessen Umriss den Himmel zeigt; unter dem Tisch laufen viele Fäden zu ihren Füßen.|1200]]
 
 <details><summary>🎨</summary>
 

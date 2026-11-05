@@ -18,7 +18,7 @@ aliases:
 
 # Out of order? Wenn das Völkerrecht den Bach runtergeht
 
-![[assets/WDR-Europaforum-Out-of-order-Voelkerrecht-banner.jpg|1200]]
+![[assets/WDR-Europaforum-Out-of-order-Voelkerrecht-banner.jpg|Aquarell: Eine Weltkarte aus farbigen Feldern mit einer Waage in der Mitte, nach rechts zerreißt sie zu einem Netz aus Rissen; unten stemmen viele kleine Menschen gemeinsam die Karte.|1200]]
 
 <details><summary>🎨</summary>
 

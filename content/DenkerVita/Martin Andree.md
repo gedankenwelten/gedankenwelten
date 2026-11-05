@@ -7,7 +7,7 @@ tags: [denker-vita, medien, big-tech, demokratie, deutschland]
 
 # Martin Andree — DenkerVita
 
-![[assets/Martin-Andree-vita-banner.jpg|1200]]
+![[assets/Martin-Andree-vita-banner.jpg|Grafik: Links ein schwarzer Monolith mit Schaltkreismuster, den ein Riss spaltet, aus dem Licht strömt, rechts eine bunte Fülle aus Bildschirmen, Sprechblasen und Gesichtern.|1200]]
 
 <details><summary>🎨</summary>
 

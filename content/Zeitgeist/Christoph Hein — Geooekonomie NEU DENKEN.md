@@ -18,7 +18,7 @@ aliases:
 
 # Christoph Hein — Geoökonomie NEU DENKEN
 
-![[assets/Christoph-Hein-Geooekonomie-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Christoph-Hein-Geooekonomie-NEU-DENKEN-banner.jpg|Eine alte Weltkarte in Braun, Schwarz und Rot über einem Raster mit Symbolen: Schiffe, Kräne, Getreidegarben, Anker, eine Waage und eine Brücke; in der Mitte ein Torbogen, von dem ein Weg nach vorn führt.|1200]]
 
 <details><summary>🎨</summary>
 

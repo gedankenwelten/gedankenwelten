@@ -24,7 +24,7 @@ stimme:
 
 # Good News — Gute Nachrichten September 2026
 
-![[assets/Good-News-Gute-Nachrichten-September-2026-banner.jpg|1200]]
+![[assets/Good-News-Gute-Nachrichten-September-2026-banner.jpg|Aquarell auf Büttenpapier: drei Flächen nebeneinander, ein ockerfarbenes Kachelraster, grüne Felder mit kleinen Bäumchen und blaugrünes Wasser mit Fischen und Mangrovenwurzeln, quer darüber steigt eine feine Linie an, oben eine rote Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

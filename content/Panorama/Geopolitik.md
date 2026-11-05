@@ -21,7 +21,7 @@ tags:
 
 # Geopolitik
 
-![[assets/Geopolitik-banner.jpg|1200]]
+![[assets/Geopolitik-banner.jpg|Leerer Platz mit Arkaden: Auf einem Schachbrettboden liegen umgestürzte Bauern, zwei große Gliederpuppen werfen lange Schatten, im Hintergrund eine kleine Insel mit Häusern vor grünem Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

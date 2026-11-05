@@ -8,7 +8,7 @@ tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftsko
 
 # Mark Benecke — DenkerVita
 
-![[assets/Mark-Benecke-vita-banner.jpg|1200]]
+![[assets/Mark-Benecke-vita-banner.jpg|Naturkundliche Tafel: Eine Lupe liegt über einem Totenschädel, ringsum gezeichnete Fliegen, Käfer, Maden und Puppen in nummerierter Folge.|1200]]
 
 <details><summary>🎨</summary>
 

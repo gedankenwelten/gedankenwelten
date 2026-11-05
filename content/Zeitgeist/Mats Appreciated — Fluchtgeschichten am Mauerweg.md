@@ -17,7 +17,7 @@ aliases:
 
 # Mats Appreciated — Fluchtgeschichten am Mauerweg
 
-![[assets/Mats-Appreciated-Fluchtgeschichten-am-Mauerweg-banner.jpg|1200]]
+![[assets/Mats-Appreciated-Fluchtgeschichten-am-Mauerweg-banner.jpg|Nachthimmel mit Mondsichel: Ein Liebespaar schwebt umarmt, ein Hahn fährt Fahrrad durch die Luft; unten eine Mauer mit erleuchtetem Tunnel, Menschen klettern auf Leitern hinüber und winken.|1200]]
 
 <details><summary>🎨</summary>
 

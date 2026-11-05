@@ -8,7 +8,7 @@ tags: [denker-vita, energiepolitik, klima, technologie, deutschland]
 
 # Volker Quaschning — DenkerVita
 
-![[assets/Volker-Quaschning-vita-banner.jpg|1200]]
+![[assets/Volker-Quaschning-vita-banner.jpg|Flache Grafik in Ocker und Grün: Sonne über Hallen mit Solardächern, Windräder, ein Radfahrer und ein kleiner Vogel auf einer Leitung.|1200]]
 
 <details><summary>🎨</summary>
 

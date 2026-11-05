@@ -18,7 +18,7 @@ aliases:
 
 # Suraj Yengde — Annihilation of Caste
 
-![[assets/Suraj-Yengde-Annihilation-of-Caste-banner.jpg|1200]]
+![[assets/Suraj-Yengde-Annihilation-of-Caste-banner.jpg|Nacht in einem Dorf aus bunten Holzhäusern: Aus einer Druckerpresse wirbeln Blätter in den Himmel, Menschen halten Zettel hoch, links ein leeres Podium hinter einer Absperrung, rechts hält ein Kind im Lichtschein ein Blatt.|1200]]
 
 <details><summary>🎨</summary>
 

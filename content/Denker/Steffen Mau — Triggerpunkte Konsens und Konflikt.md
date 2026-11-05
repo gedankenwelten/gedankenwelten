@@ -15,7 +15,7 @@ aliases:
 
 # Steffen Mau — Triggerpunkte: Konsens und Konflikt
 
-![[assets/Steffen-Mau-Triggerpunkte-Konsens-und-Konflikt-banner.jpg|1200]]
+![[assets/Steffen-Mau-Triggerpunkte-Konsens-und-Konflikt-banner.jpg|Vier Felder wie auf einer alten Wand: eine Waage mit Münzstapeln, ein Schiff neben einem Gittertor, zwei Masken in Braun und Grau, eine Sonne über einer Pflanze neben einer Sanduhr; ein Riss zieht durchs Bild.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, psychologie, medien, deutschland]
 
 # Kerstin Paschke — DenkerVita
 
-![[assets/Kerstin-Paschke-vita-banner.jpg|1200]]
+![[assets/Kerstin-Paschke-vita-banner.jpg|Flache Grafik in Blau und Violett: Ein junger Mann ist von leuchtenden Ringen umschlungen, ringsum schweben App-Fenster, Spielsymbole und Benachrichtigungen, von rechts reicht ihm eine Hand entgegen.|1200]]
 
 <details><summary>🎨</summary>
 

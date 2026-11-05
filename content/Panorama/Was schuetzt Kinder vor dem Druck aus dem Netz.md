@@ -22,7 +22,7 @@ tags:
 
 # Was schützt Kinder vor dem Druck aus dem Netz?
 
-![[assets/Was-schuetzt-Kinder-vor-dem-Druck-aus-dem-Netz-banner.jpg|1200]]
+![[assets/Was-schuetzt-Kinder-vor-dem-Druck-aus-dem-Netz-banner.jpg|Wimmelbild auf einem Dorfplatz: Viele Kinder spielen Seilziehen, rollen Reifen und klettern auf Gerüsten, rechts sitzt eine Gruppe Kinder am Boden über kleinen weißen Täfelchen, daneben eine Frau mit einer Kiste voller Täfelchen.|1200]]
 
 <details><summary>🎨</summary>
 

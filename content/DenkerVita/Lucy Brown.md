@@ -6,7 +6,7 @@ tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, usa]
 
 # Lucy Brown — DenkerVita
 
-![[assets/Lucy-Brown-vita-banner.jpg|1200]]
+![[assets/Lucy-Brown-vita-banner.jpg|Wissenschaftliche Zeichnung auf altem Papier: Verzweigte Nervenzellen umgeben eine golden schimmernde Ansammlung in der Mitte, ringsum handschriftliche spanische und englische Beschriftungen.|1200]]
 
 <details><summary>🎨</summary>
 

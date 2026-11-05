@@ -21,7 +21,7 @@ description: "Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen 
 
 # ICE — ist die Würde des Menschen antastbar?
 
-![[assets/ICE-ist-die-Wuerde-des-Menschen-antastbar-banner.jpg|1200]]
+![[assets/ICE-ist-die-Wuerde-des-Menschen-antastbar-banner.jpg|Ein kleiner Junge mit rotem Rucksack steht vor einer Tür, an der Hauswand die Schatten zweier bewaffneter Soldaten, rechts ein Maschendrahtzaun, ein liegen gebliebener Schuh im Gras und ein Stein in der Luft.|1200]]
 
 <details><summary>🎨</summary>
 

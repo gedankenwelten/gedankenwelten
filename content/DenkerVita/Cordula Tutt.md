@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, medien, deutschland]
 
 # Cordula Tutt — DenkerVita
 
-![[assets/Cordula-Tutt-banner.jpg|1200]]
+![[assets/Cordula-Tutt-banner.jpg|Schaubild aus vielen kleinen Menschenfiguren: links gießt eine Gießkanne Tropfen über eine große Gruppe, rechts träufelt eine Pipette wenige Tropfen auf einige rote Figuren; darunter, getrennt durch eine Linie aus roten Kreuzen, Gruppen in Schwarz, Blau und Gelb.|1200]]
 
 <details><summary>🎨</summary>
 

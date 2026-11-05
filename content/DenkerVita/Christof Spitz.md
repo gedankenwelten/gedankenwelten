@@ -6,7 +6,7 @@ tags: [denker-vita, buddhismus, ethik]
 
 # Christof Spitz — DenkerVita
 
-![[assets/Christof-Spitz-vita-banner.jpg|1200]]
+![[assets/Christof-Spitz-vita-banner.jpg|Aquarell: Ein bunter Brückenbogen verbindet zwei Hügel mit kleinen Häusern, die mit Schriftzeichen verschiedener Schriften bemalt sind; auf der Brücke steht eine kleine Figur mit Laterne zwischen schwebenden Zeichen.|1200]]
 
 <details><summary>🎨</summary>
 

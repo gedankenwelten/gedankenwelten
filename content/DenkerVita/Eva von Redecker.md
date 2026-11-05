@@ -9,7 +9,7 @@ raetsel: "Ohne das Wort Hoffnung kommt sie aus. Im Frühjahr kommen die Schwalbe
 
 # Eva von Redecker — DenkerVita
 
-![[assets/Eva-von-Redecker-vita-banner.jpg|1200]]
+![[assets/Eva-von-Redecker-vita-banner.jpg|Nachtblaues Bild: Eine große Hand hält einen leuchtenden Keimling, darüber schweben Kinder und Erwachsene; rechts wächst eine große Blüte über einem Dorf mit roten Dächern, dahinter ein riesiger grauer Steinblock.|1200]]
 
 <details><summary>🎨</summary>
 

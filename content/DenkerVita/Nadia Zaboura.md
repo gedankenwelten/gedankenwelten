@@ -8,7 +8,7 @@ tags: [denker-vita, medien, demokratie, deutschland, zeitgeist]
 
 # Nadia Zaboura — DenkerVita
 
-![[assets/Nadia-Zaboura-vita-banner.jpg|1200]]
+![[assets/Nadia-Zaboura-vita-banner.jpg|Grafik: Vor zwei Gehirnumrissen kippt eine Wippe mit einem Ziegelstapel auf der einen Seite, darüber schwebt ein roter Luftballon. Rechts ein Mikrofon unter den Worten „beide Seiten“.|1200]]
 
 <details><summary>🎨</summary>
 

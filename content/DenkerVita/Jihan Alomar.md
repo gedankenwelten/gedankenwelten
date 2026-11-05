@@ -7,7 +7,7 @@ aktualisiert: 03.08.2026
 
 # Jihan Alomar — DenkerVita
 
-![[assets/Jihan-Alomar-vita-banner.jpg|1200]]
+![[assets/Jihan-Alomar-vita-banner.jpg|Dick gespachteltes Bild: Eine Pyramide in Blau und Olivgrün unter einer gelben Sonne, darüber ein weiter hellblauer Himmel, davor eine flache grüne Ebene.|1200]]
 
 <details><summary>🎨</summary>
 

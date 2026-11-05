@@ -6,7 +6,7 @@ tags: [denker-vita, technologie, ki, geopolitik, afrika]
 
 # Lacina Koné — DenkerVita
 
-![[assets/Lacina-Kone-vita-banner.jpg|1200]]
+![[assets/Lacina-Kone-vita-banner.jpg|Nachtblaue Grafik: Ein Mann im Gewand weist mit ausgestrecktem Arm auf einen leuchtenden afrikanischen Kontinent voller Gebäudesilhouetten und Verbindungslinien, ringsum Menschen, ein Satellit und ein Strom. Auf dem Sockel steht „Heute bauen, morgen verbinden, unsere Zukunft einen“.|1200]]
 
 <details><summary>🎨</summary>
 

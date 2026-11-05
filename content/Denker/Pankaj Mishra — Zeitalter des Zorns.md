@@ -18,7 +18,7 @@ aliases:
 
 # Pankaj Mishra — Zeitalter des Zorns
 
-![[assets/Pankaj-Mishra-Zeitalter-des-Zorns-banner.jpg|1200]]
+![[assets/Pankaj-Mishra-Zeitalter-des-Zorns-banner.jpg|Durch eine offene Tür sieht man eine festliche Tafel im Kerzenlicht, an der gut gekleidete Herren speisen; davor steht ein Junge mit einem Buch inmitten von Arbeitern mit Äxten und Werkzeug, am Horizont roter Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # Energie — Zwischen Kostenwahrheit und Lobbypolitik
 
-![[assets/Energie-banner.jpg|1200]]
+![[assets/Energie-banner.jpg|Zweigeteilt: links Menschen bei Windrädern und Solarfeldern, die Zettel in blaue Kästen legen, in der Mitte tritt ein Mann im Anzug durch eine Glastür, rechts Kraftwerk, Schlote und grauer Rauch mit dem Wort Zweifel, unten Strommasten über Häusern.|1200]]
 
 <details><summary>🎨</summary>
 

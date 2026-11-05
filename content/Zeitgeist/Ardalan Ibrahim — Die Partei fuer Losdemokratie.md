@@ -28,7 +28,7 @@ stimme:
 
 # Ardalan Ibrahim — Die Partei für Losdemokratie
 
-![[assets/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie-banner.jpg|1200]]
+![[assets/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie-banner.jpg|Bleistiftzeichnung: Einfache Leute, eine Frau mit Schürze, Kinder und ein Mann mit Mütze, stehen um einen Tisch mit einer Glaskugel voller Lose, der Mann hält einen Zettel ins Licht; auf den Rängen dahinter dicke Herren mit Zylindern.|1200]]
 
 <details><summary>🎨</summary>
 

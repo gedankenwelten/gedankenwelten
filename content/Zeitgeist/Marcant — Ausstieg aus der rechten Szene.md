@@ -25,7 +25,7 @@ stimme:
 
 # Marcant — Ausstieg aus der rechten Szene
 
-![[assets/Marcant-Ausstieg-aus-der-rechten-Szene-banner.jpg|1200]]
+![[assets/Marcant-Ausstieg-aus-der-rechten-Szene-banner.jpg|In Schwarz und Gelb: Links eine Menge mit Fackeln und Handys, in der Mitte ein Junge, der sie durch eine Lupe betrachtet, unter einem Wegweiser in zwei Richtungen; rechts hält ein Mann eine Tür ins helle Gelb offen.|1200]]
 
 <details><summary>🎨</summary>
 

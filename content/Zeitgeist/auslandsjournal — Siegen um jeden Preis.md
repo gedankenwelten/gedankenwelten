@@ -32,7 +32,7 @@ stimme:
 
 # Siegen um jeden Preis — Vier Wahlen und die Frage, wer verlieren kann
 
-![[assets/auslandsjournal-Siegen-um-jeden-Preis-banner.jpg|1200]]
+![[assets/auslandsjournal-Siegen-um-jeden-Preis-banner.jpg|Karikatur: Zwei Herren mit Zylindern stehen sich auf einem schmalen Brett über einer Schlucht gegenüber und zerren an einer zerbrechenden Holztafel; an beiden Rändern sehen erschrockene Leute zu.|1200]]
 
 <details><summary>🎨</summary>
 

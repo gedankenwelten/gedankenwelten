@@ -17,7 +17,7 @@ aliases:
 
 # Good News — Gute Nachrichten September 2026 Teil 2
 
-![[assets/Good-News-Gute-Nachrichten-September-2026-Teil-2-banner.jpg|1200]]
+![[assets/Good-News-Gute-Nachrichten-September-2026-Teil-2-banner.jpg|Pastellbild unter Wasser in Violett und Blau: Ein Lichtstrahl fällt auf ein Korallenriff mit einem Fischschwarm, rechts schwimmt ein Buckelwal.|1200]]
 
 <details><summary>🎨</summary>
 

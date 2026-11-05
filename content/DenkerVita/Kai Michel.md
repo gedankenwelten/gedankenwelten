@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, psychologie, religion, deutschland, evolution]
 
 # Kai Michel — DenkerVita
 
-![[assets/Kai-Michel-banner.jpg|1200]]
+![[assets/Kai-Michel-banner.jpg|Erdiges, reliefartiges Bild in Braun und Gold: Ein aufgeschlagenes, beschriebenes Buch liegt eingebettet in Gesteinsschichten, darüber eine goldene Scheibe mit Mondsichel vor einem Himmel mit Sternbildern.|1200]]
 
 <details><summary>🎨</summary>
 

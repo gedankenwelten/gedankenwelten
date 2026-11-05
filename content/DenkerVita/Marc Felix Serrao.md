@@ -8,7 +8,7 @@ tags: [denker-vita, medien, journalismus, konservatismus]
 
 # Marc Felix Serrao — DenkerVita
 
-![[assets/Marc-Felix-Serrao-vita-banner.jpg|1200]]
+![[assets/Marc-Felix-Serrao-vita-banner.jpg|Grafik in Schwarz, Rot und Weiß auf Rasterpapier: Ein aufgeschlagenes Heft zeigt eine rote Deutschlandkarte unter einer Lupe, zwei rote Linien kreuzen das Bild, ringsum unleserliche Textspalten und ein Schweizerkreuz.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, militär, krieg, frieden, psychologie, psychische-gesundheit
 
 # Hagen Vockerodt — DenkerVita
 
-![[assets/Hagen-Vockerodt-vita-banner.jpg|1200]]
+![[assets/Hagen-Vockerodt-vita-banner.jpg|Sonnige gelbe Küche: Ein Mann im T-Shirt sitzt allein am Holztisch mit einem Korb Besteck, am Kühlschrank hängt eine Kinderzeichnung, an der Tür stehen kleine rote Kinderschuhe.|1200]]
 
 <details><summary>🎨</summary>
 

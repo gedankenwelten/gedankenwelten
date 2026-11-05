@@ -9,7 +9,7 @@ raetsel: "Das erste Lob auf sein Buch sprach ein Toter. Die Maschine lieh ihm di
 
 # Roberto Simanowski — DenkerVita
 
-![[assets/Roberto-Simanowski-vita-banner.jpg|1200]]
+![[assets/Roberto-Simanowski-vita-banner.jpg|Weich gemalte Szene in Rosa und Grün: Eine gesichtslose Figur liest am Tisch ein Buch, aus dem Bögen kleiner Quadrate aufsteigen, links graue Hochhäuser mit Fernsehturm, rechts Schreibmaschine, Kaktus und Palmen vor Bergen am Wasser.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -16,7 +16,7 @@ aliases:
 
 # Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz
 
-![[assets/Ronen-Steinke-Meinungsfreiheit-Voelkermord-und-Verfassungsschutz-banner.jpg|1200]]
+![[assets/Ronen-Steinke-Meinungsfreiheit-Voelkermord-und-Verfassungsschutz-banner.jpg|Federzeichnung: Ein dichter Wald aus riesigen Paragrafenzeichen mit kleinen Hüten darauf und roten Stempeln wie „Verboten“ und „Ermittlung“; in der Mitte steht ein kleiner schwarzer Mensch und zeigt hinauf.|1200]]
 
 <details><summary>🎨</summary>
 

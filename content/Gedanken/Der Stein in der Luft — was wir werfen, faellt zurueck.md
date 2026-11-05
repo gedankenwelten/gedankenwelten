@@ -23,7 +23,7 @@ aliases:
 
 # Der Stein in der Luft — was wir werfen, fällt zurück
 
-![[assets/Der-Stein-in-der-Luft-was-wir-werfen-faellt-zurueck-banner.jpg|1200]]
+![[assets/Der-Stein-in-der-Luft-was-wir-werfen-faellt-zurueck-banner.jpg|Holzschnitt in Schwarz und Weiß: Eine Reihe gebeugter Gestalten reicht von einem Holzstand runde Laibe von Hand zu Hand weiter, ganz rechts steht ein Mann aufrecht und hält einen Laib in der offenen Hand.|1200]]
 
 <details><summary>🎨</summary>
 

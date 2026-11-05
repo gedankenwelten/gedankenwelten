@@ -16,7 +16,7 @@ aliases:
 
 # Die Wahrheit über die Öffentlich-Rechtlichen — Insider packen aus
 
-![[assets/Topfvollgold-Die-Wahrheit-ueber-die-Oeffentlich-Rechtlichen-banner.jpg|1200]]
+![[assets/Topfvollgold-Die-Wahrheit-ueber-die-Oeffentlich-Rechtlichen-banner.jpg|Nächtlicher Dschungel unter Vollmond: Ein riesiger Löwe schläft unter einem Sendemast, von dem Funkwellen ausgehen; links tragen kleine Menschen Papierstapel, eine Gestalt sitzt unter einer Lampe, Vögel fliegen auf.|1200]]
 
 <details><summary>🎨</summary>
 

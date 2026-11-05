@@ -6,7 +6,7 @@ tags: [denker-vita, ukraine, krieg, humanitaere-hilfe, deutschland]
 
 # Ruben Mawick — DenkerVita
 
-![[assets/Ruben-Mawick-DenkerVita-banner.jpg|1200]]
+![[assets/Ruben-Mawick-DenkerVita-banner.jpg|Ein Sanitäter mit Helm und blutbefleckter Weste wickelt sich eine Binde um das Handgelenk und geht über staubigen Boden mit Holzkreuzen, im Hintergrund Soldaten, Rauch und eine Drohne. Auf einer Ziegelmauer steht „Freiheit ist nicht umsonst“.|1200]]
 
 <details><summary>🎨</summary>
 

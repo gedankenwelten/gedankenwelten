@@ -7,7 +7,7 @@ tags: [denker-vita, voelkerrecht, strafrecht, nationalsozialismus, justiz, deuts
 
 # Christoph Safferling
 
-![[assets/Christoph-Safferling-vita-banner.jpg|1200]]
+![[assets/Christoph-Safferling-vita-banner.jpg|Ein Platz in einer Kleinstadt mit Kirche und Glockenturm links und einem Säulengebäude mit Giebel rechts, wenige Menschen, der Himmel von hellen schrägen Lichtbahnen durchschnitten.|1200]]
 
 <details><summary>🎨</summary>
 

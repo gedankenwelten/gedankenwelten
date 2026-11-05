@@ -8,7 +8,7 @@ tags: [denker-vita, ki, technologie, unternehmertum, schweiz]
 
 # Pascal Kaufmann — DenkerVita
 
-![[assets/Pascal-Kaufmann-vita-banner.jpg|1200]]
+![[assets/Pascal-Kaufmann-vita-banner.jpg|Grafik auf Dunkelblau: Ein schneebedeckter Berggipfel mit Schweizer Fahne, auf den ein leuchtender Pfad aus Nullen und Einsen von einem Chip hinaufführt, innen ist der Berg aus Schaltkreisen und Nervenzellen.|1200]]
 
 <details><summary>🎨</summary>
 

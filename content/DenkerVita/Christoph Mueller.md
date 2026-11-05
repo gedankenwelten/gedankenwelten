@@ -12,7 +12,7 @@ tags:
 
 # Christoph Müller — DenkerVita
 
-![[assets/Christoph-Mueller-vita-banner.jpg|1200]]
+![[assets/Christoph-Mueller-vita-banner.jpg|Kubistisch gebrochene Lichtflächen in Violett und Gelb: Eine Reihe Strommasten zieht sich bis zum Horizont, rechts eine kleine Stadt mit gotischer Kirche.|1200]]
 
 <details><summary>🎨</summary>
 

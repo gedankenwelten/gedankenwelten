@@ -24,7 +24,7 @@ stimme:
 
 # Gabriel Yoran — Die Entkrempelung der Welt
 
-![[assets/Gabriel-Yoran-Die-Entkrempelung-der-Welt-banner.jpg|1200]]
+![[assets/Gabriel-Yoran-Die-Entkrempelung-der-Welt-banner.jpg|Bleistiftzeichnung: Vertreter in Anzügen präsentieren eine Reihe überflüssiger Geräte, ein Schaltpult voller Knöpfe, eine Seifenflasche mit Akkuanzeige, eine Dusche mit Schleife und Preisschild, eine Waschmaschine mit Grammophontrichter; oben steht „Innovation!“.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -26,7 +26,7 @@ stimme:
 
 # Jens-Christian Wagner — Buchenwald und deutsche Erinnerung
 
-![[assets/Jens-Christian-Wagner-Buchenwald-und-deutsche-Erinnerung-banner.jpg|1200]]
+![[assets/Jens-Christian-Wagner-Buchenwald-und-deutsche-Erinnerung-banner.jpg|Bleistiftzeichnung im Nebel: Zwei Männer mit Hut und ein Kind gehen auf ein schmiedeeisernes Tor zu, dahinter niedrige Fundamente und kahle Bäume.|1200]]
 
 <details><summary>🎨</summary>
 

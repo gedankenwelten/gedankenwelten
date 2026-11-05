@@ -8,7 +8,7 @@ tags: [denker-vita, psychologie, autoritarismus, frankreich]
 
 # Julie Pagis — DenkerVita
 
-![[assets/Julie-Pagis-banner.jpg|1200]]
+![[assets/Julie-Pagis-banner.jpg|Plakat mit geschwungenem Rahmen: Ein Mann in langem rotem Mantel steht mit offenen Händen auf einem Podest vor hellem Licht, ringsum eine dunkle Menge, die die Arme hebt.|1200]]
 
 <details><summary>🎨</summary>
 

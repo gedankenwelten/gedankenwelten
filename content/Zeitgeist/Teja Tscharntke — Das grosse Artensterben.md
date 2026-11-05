@@ -27,7 +27,7 @@ stimme:
 
 # Teja Tscharntke — Das große Artensterben
 
-![[assets/Teja-Tscharntke-Das-grosse-Artensterben-banner.jpg|1200]]
+![[assets/Teja-Tscharntke-Das-grosse-Artensterben-banner.jpg|Aquarell: Links ein buntes Flickwerk aus Feldern mit Hecken, Bäumen und einem Teich, rechts nur leerer, sandfarbener Grund, über den eine einzelne Biene ihre Spur zieht.|1200]]
 
 <details><summary>🎨</summary>
 

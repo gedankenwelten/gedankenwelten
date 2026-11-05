@@ -16,7 +16,7 @@ aliases:
 
 # Philip Schlaffer — Kann man sich ändern?
 
-![[assets/Philip-Schlaffer-Kann-man-sich-aendern-banner.jpg|1200]]
+![[assets/Philip-Schlaffer-Kann-man-sich-aendern-banner.jpg|Ein tätowierter Mann im grauen Hemd sitzt von hinten gesehen auf einem Hocker vor einem Bett in einer kahlen Zelle mit vergittertem Fenster, an der Wand ein Handtuch unter einem Spiegel.|1200]]
 
 <details><summary>🎨</summary>
 

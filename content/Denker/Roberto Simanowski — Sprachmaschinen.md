@@ -26,7 +26,7 @@ aliases:
 
 # Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust
 
-![[assets/Roberto-Simanowski-Sprachmaschinen-banner.jpg|1200]]
+![[assets/Roberto-Simanowski-Sprachmaschinen-banner.jpg|Auf einer weiten Ebene schreibt eine hölzerne Gliederpuppe mit einer Feder auf eine lange Papierbahn, ein Mann mit Melone sieht zu; dahinter ein chinesischer Pavillon, ein weißes Lehmhaus, ein rotes Holzhaus und ein Steinhaus, aus deren Fenstern goldene Trichter ragen.|1200]]
 
 <details><summary>🎨</summary>
 

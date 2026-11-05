@@ -23,7 +23,7 @@ raetsel: "Alle Stühle waren besetzt. Das Land wartete im Flur und hörte durch 
 
 # Über sie, ohne sie — wer entscheidet über die Kleinen?
 
-![[assets/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen-banner.jpg|1200]]
+![[assets/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen-banner.jpg|Ein Mann sitzt allein mit Papieren auf einem Stuhl in einem dämmrigen Flur, daneben beraten hinter einer Glasscheibe drei Männer in Anzügen an einem Tisch in einem hell erleuchteten Raum.|1200]]
 
 <details><summary>🎨</summary>
 

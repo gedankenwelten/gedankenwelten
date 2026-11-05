@@ -19,7 +19,7 @@ aliases:
 
 # Martyna Linartas — Unverdiente Ungleichheit
 
-![[assets/Martyna-Linartas-Unverdiente-Ungleichheit-banner.jpg|1200]]
+![[assets/Martyna-Linartas-Unverdiente-Ungleichheit-banner.jpg|Auf einer Bühne mit goldenen Vorhängen reicht ein alter Mann einer Frau einen Geldsack, ein Kind schaut zu; unterhalb der Bühne strecken viele graue Menschen die Arme nach oben, eine Leiter führt hinauf.|1200]]
 
 <details><summary>🎨</summary>
 

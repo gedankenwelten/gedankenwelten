@@ -6,7 +6,7 @@ tags: [denker-vita, kapitalismus, wirtschaft, usa, soziale-ungleichheit]
 
 # Sven Beckert — DenkerVita
 
-![[assets/Sven-Beckert-vita-banner.jpg|1200]]
+![[assets/Sven-Beckert-vita-banner.jpg|Ein Mann im langen schwarzen Mantel steht von hinten gesehen an einem Tisch in einem kahlen, hellen Zimmer vor einem Fenster mit Gardinen, auf dem Tisch Papiere, eine Schriftrolle und eine herabhängende Weltkarte.|1200]]
 
 <details><summary>🎨</summary>
 

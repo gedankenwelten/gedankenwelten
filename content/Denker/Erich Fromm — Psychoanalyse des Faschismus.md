@@ -19,7 +19,7 @@ aliases:
 
 # Erich Fromm — Psychoanalyse des Faschismus
 
-![[assets/Erich-Fromm-Psychoanalyse-des-Faschismus-banner.jpg|1200]]
+![[assets/Erich-Fromm-Psychoanalyse-des-Faschismus-banner.jpg|Kohlezeichnung: Eine Reihe Menschen steigt gebückt und mit erhobenen Händen eine steile Treppe hinauf, oben schwebt ein leerer dunkler Mantel ohne Körper.|1200]]
 
 <details><summary>🎨</summary>
 

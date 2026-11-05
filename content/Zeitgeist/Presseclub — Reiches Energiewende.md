@@ -15,7 +15,7 @@ aliases:
 
 # Presseclub — Reiches Energiewende
 
-![[assets/Presseclub-Reiches-Energiewende-banner.jpg|1200]]
+![[assets/Presseclub-Reiches-Energiewende-banner.jpg|In bunten, kantigen Flächen: Windräder vor dem Meer, Strommasten ziehen über ein Flickenland bis zu einer Stadt mit Kühlturm; in der Mitte sitzen vier Männer an einem Tisch, über dem Papiere im Lichtstrahl wirbeln.|1200]]
 
 <details><summary>🎨</summary>
 

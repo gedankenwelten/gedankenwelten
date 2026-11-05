@@ -11,7 +11,7 @@ aliases:
 
 # Martin Sorg — DenkerVita
 
-![[assets/Martin-Sorg-vita-banner.jpg|1200]]
+![[assets/Martin-Sorg-vita-banner.jpg|Stiller Raum mit hohem Schrank voller Gläser und Schachteln: Auf einem Holztisch liegen ein Bogen Papier mit Linien, eine Schere, ein feines Netz und eine kleine Dose, Licht fällt durchs Fenster.|1200]]
 
 <details><summary>🎨</summary>
 

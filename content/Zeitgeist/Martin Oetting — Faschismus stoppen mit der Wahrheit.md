@@ -20,7 +20,7 @@ aliases:
 
 # Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt
 
-![[assets/Martin-Oetting-Faschismus-stoppen-mit-der-Wahrheit-banner.jpg|1200]]
+![[assets/Martin-Oetting-Faschismus-stoppen-mit-der-Wahrheit-banner.jpg|Nachts auf einem Platz mit Arkaden: Eine Gruppe kleiner Gestalten steht im Lichtkegel einer einzelnen Laterne, ringsum liegen Schlüssel, Papiere und ein zerbrochener Globus, in der Ferne geht eine Gestalt allein.|1200]]
 
 <details><summary>🎨</summary>
 

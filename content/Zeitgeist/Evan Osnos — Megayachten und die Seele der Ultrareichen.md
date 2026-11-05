@@ -20,7 +20,7 @@ aliases:
 
 # Evan Osnos — Megayachten und die Seele der Ultrareichen
 
-![[assets/Evan-Osnos-Megayachten-und-die-Seele-der-Ultrareichen-banner.jpg|1200]]
+![[assets/Evan-Osnos-Megayachten-und-die-Seele-der-Ultrareichen-banner.jpg|Wimmelbild wie ein altes Tafelgemälde: Ein riesiges Schiff mit goldener Statue am Bug, Festtafeln und Kuppelgärten, in seinem Bauch Schätze; ringsum rudern nackte Menschen in kleinen Booten, eine Rakete steigt auf, am Horizont brennt es.|1200]]
 
 <details><summary>🎨</summary>
 

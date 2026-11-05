@@ -20,7 +20,7 @@ aliases:
 
 # Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus
 
-![[assets/Amlinger-und-Nachtwey-Zerstoerungslust-demokratischer-Faschismus-banner.jpg|1200]]
+![[assets/Amlinger-und-Nachtwey-Zerstoerungslust-demokratischer-Faschismus-banner.jpg|Eine grell bemalte Menschenmenge mit verzerrten Gesichtern steckt bis zur Brust in Schlamm voller Streichhölzer und jubelt, einer hält ein brennendes Streichholz; dahinter brennt ein Säulentempel, ein Bagger schwingt seine Schaufel vor rotem Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

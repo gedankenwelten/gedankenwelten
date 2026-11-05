@@ -9,7 +9,7 @@ tags: [denker-vita, philosophie, religion, ki, technologie, überwachung, medien
 
 # Tariq Hübsch — DenkerVita
 
-![[assets/Tariq-Huebsch-vita-banner.jpg|1200]]
+![[assets/Tariq-Huebsch-vita-banner.jpg|Buntstiftzeichnung: Aus einer dunklen Welt aus Zahnrädern, Kabeln und Bildschirmwänden schwebt ein Ballon mit einem Auge, ein Lichtfaden führt zu einem aufgeschlagenen Buch auf einem Felsen, umgeben von hellen Wolken, einer weißen Taube und Kornblumen.|1200]]
 
 <details><summary>🎨</summary>
 

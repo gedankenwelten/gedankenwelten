@@ -8,7 +8,7 @@ tags: [denker-vita, demografie, medien, deutschland]
 
 # Stefan Schulz — DenkerVita
 
-![[assets/Stefan-Schulz-vita-banner.jpg|1200]]
+![[assets/Stefan-Schulz-vita-banner.jpg|Flache Grafik auf hellem Grund: links eine Pyramide aus farbigen Bausteinen, in der Mitte eine Menge kleiner Figuren unter einer Lupe und Schallwellen, rechts ein Mikrofon.|1200]]
 
 <details><summary>🎨</summary>
 

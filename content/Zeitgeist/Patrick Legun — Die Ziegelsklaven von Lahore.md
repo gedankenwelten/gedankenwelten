@@ -19,7 +19,7 @@ aktualisiert: 2026-08-01
 
 # Patrick Legun — Die Ziegelsklaven von Lahore
 
-![[assets/Patrick-Legun-Die-Ziegelsklaven-von-Lahore-banner.jpg|1200]]
+![[assets/Patrick-Legun-Die-Ziegelsklaven-von-Lahore-banner.jpg|Radierung in Braun: Eine lange Reihe gebückter Männer, Frauen und Kinder kniet auf rissigem Boden und formt Ziegel in Holzrahmen, dahinter Ziegelstapel und rauchende Brennöfen.|1200]]
 
 <details><summary>🎨</summary>
 

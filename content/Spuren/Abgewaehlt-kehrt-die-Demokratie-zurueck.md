@@ -24,7 +24,7 @@ raetsel: "Der Schlüssel, der die Tür verschloss, passt auch, um sie zu öffnen
 
 # Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?
 
-![[assets/Abgewaehlt-kehrt-die-Demokratie-zurueck-banner.jpg|1200]]
+![[assets/Abgewaehlt-kehrt-die-Demokratie-zurueck-banner.jpg|Auf einer grünen Wiese unter blauem Himmel stehen drei freie Türen hintereinander, zwei offen mit Blick in einen Sternenhimmel, die dritte geschlossen, vorne liegt ein großer alter Schlüssel im Gras.|1200]]
 
 <details><summary>🎨</summary>
 

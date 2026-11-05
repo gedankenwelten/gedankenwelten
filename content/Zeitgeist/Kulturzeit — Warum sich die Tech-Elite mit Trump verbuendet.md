@@ -22,7 +22,7 @@ aliases:
 
 # Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet
 
-![[assets/Kulturzeit-Warum-sich-die-Tech-Elite-mit-Trump-verbuendet-banner.jpg|1200]]
+![[assets/Kulturzeit-Warum-sich-die-Tech-Elite-mit-Trump-verbuendet-banner.jpg|Fünf glatzköpfige Männer mit Sonnenbrillen thronen auf goldenen Sesseln über Sockeln aus Leiterplatten, umgeben von Dollarzeichen und Schlangen; einer hält Fäden zu einem kleinen Kapitol, Scheinwerfer strahlen auf eine graue Menschenmenge.|1200]]
 
 <details><summary>🎨</summary>
 

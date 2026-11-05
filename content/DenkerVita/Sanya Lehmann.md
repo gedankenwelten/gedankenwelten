@@ -8,7 +8,7 @@ tags: [denker-vita, medien, deutschland, jugend]
 
 # Sanya Lehmann — DenkerVita
 
-![[assets/Sanya-Lehmann-vita-banner.jpg|1200]]
+![[assets/Sanya-Lehmann-vita-banner.jpg|Flache Grafik: Ein Junge spricht an einem runden Tisch in ein Mikrofon, umgeben von grauen Silhouetten Erwachsener, darüber eine Sprechblase mit dem Satz „Die Stimmen der Jugend führen“ und Schilder mit Hand, Megafon und Menschengruppe.|1200]]
 
 <details><summary>🎨</summary>
 

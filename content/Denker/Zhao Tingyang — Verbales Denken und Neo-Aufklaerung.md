@@ -17,7 +17,7 @@ aliases:
 
 # Zhao Tingyang — Verbales Denken und Neo-Aufklärung
 
-![[assets/Zhao-Tingyang-Verbales-Denken-und-Neo-Aufklaerung-banner.jpg|1200]]
+![[assets/Zhao-Tingyang-Verbales-Denken-und-Neo-Aufklaerung-banner.jpg|Links ein Regal mit beschrifteten Gläsern, Gipsköpfen und Karteikästen, rechts bricht eine bronzefarbene, muskulöse Gestalt in einem Wirbel aus roten, weißen und goldenen Bändern hervor.|1200]]
 
 <details><summary>🎨</summary>
 

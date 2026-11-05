@@ -33,7 +33,7 @@ stimme:
 
 # Philipp Blom — Die strauchelnde Welt
 
-![[assets/Philipp-Blom-Die-strauchelnde-Welt-banner.jpg|1200]]
+![[assets/Philipp-Blom-Die-strauchelnde-Welt-banner.jpg|Pastos unter wirbelndem gelbem Himmel: Auf einem gepflasterten Platz um ein Denkmal straucheln Menschen zwischen schiefen Häusern und Oberleitungen, am Boden liegt ein zersplittertes Handy, ein Lichtschweif zieht vorbei.|1200]]
 
 <details><summary>🎨</summary>
 

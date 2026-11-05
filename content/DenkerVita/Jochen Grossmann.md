@@ -8,7 +8,7 @@ tags: [denker-vita, energie, ingenieurskultur, deutschland, energiewende, techno
 
 # Prof. Dr.-Ing. Jochen Großmann — DenkerVita
 
-![[assets/Jochen-Grossmann-vita-banner.jpg|1200]]
+![[assets/Jochen-Grossmann-vita-banner.jpg|Technische Blaupause: Zwei Turbinenräder sind über einen Wärmetauscher mit gewundenen Rohren verbunden, oben Filter und Messgeräte, ringsum Maße und englische Beschriftungen für Wärmetauscher, Wirkungsgrad und Turbine.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # Steelpan — Was aus einem Trommelverbot wurde
 
-![[assets/Steelpan-Was-aus-einem-Trommelverbot-wurde-banner.jpg|1200]]
+![[assets/Steelpan-Was-aus-einem-Trommelverbot-wurde-banner.jpg|Gemälde voller Dschungelpflanzen: in der Mitte eine Stahltrommel mit glänzenden Facetten, ringsum Masken und Figuren mit Speeren, links ziehen Menschen mit einer Trommel an einem Zaun am Meer entlang, rechts ein vergittertes Fenster und ein Wachturm.|1200]]
 
 <details><summary>🎨</summary>
 

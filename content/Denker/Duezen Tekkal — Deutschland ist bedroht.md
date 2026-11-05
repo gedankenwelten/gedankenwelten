@@ -19,7 +19,7 @@ aliases:
 
 # Düzen Tekkal — Deutschland ist bedroht
 
-![[assets/Duezen-Tekkal-Deutschland-ist-bedroht-banner.jpg|1200]]
+![[assets/Duezen-Tekkal-Deutschland-ist-bedroht-banner.jpg|Aquarell auf braunem Papier: Eine dünne Strichfigur, aus deren Kopf Pfauenaugen wie Federn wachsen, blickt zu einem leuchtenden, aufgeschlagenen Buch; links ein Karomuster in gedeckten Farben.|1200]]
 
 <details><summary>🎨</summary>
 

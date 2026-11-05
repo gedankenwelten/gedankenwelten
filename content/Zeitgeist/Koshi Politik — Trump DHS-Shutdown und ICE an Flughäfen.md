@@ -20,7 +20,7 @@ aliases:
 
 # Koschi Politik — Trump DHS-Shutdown und ICE an Flughäfen
 
-![[assets/Koshi-Politik-Trump-DHS-Shutdown-und-ICE-an-Flughaefen-banner.jpg|1200]]
+![[assets/Koshi-Politik-Trump-DHS-Shutdown-und-ICE-an-Flughaefen-banner.jpg|Eine Flughafenhalle: Ein riesiger schreiender Kopf spuckt einen Schwall Zettel über eine Schlange müder Reisender mit Koffern vor einer Sicherheitsschleuse; rechts marschieren vermummte Uniformierte über eine rote Lache.|1200]]
 
 <details><summary>🎨</summary>
 

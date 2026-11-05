@@ -6,7 +6,7 @@ tags: [denker-vita, migration, geopolitik, demokratie, ethik]
 
 # Gerald Knaus — DenkerVita
 
-![[assets/Gerald-Knaus-vita-banner.jpg|1200]]
+![[assets/Gerald-Knaus-vita-banner.jpg|Grafik auf hellem Grund: Reihen kleiner Menschenfiguren in Schwarz, Rot und Grau über einem Küstenstreifen mit einer Kette kleiner Schiffe, rechts ein einzelner Mensch am Laptop.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -10,7 +10,7 @@ tags:
 
 # Vandana Shiva — DenkerVita
 
-![[assets/vandana-shiva-vita-banner.jpg|1200]]
+![[assets/vandana-shiva-vita-banner.jpg|Gemälde: Eine Frau mit grauem Haar, rotem Punkt auf der Stirn und weißem Sari hält Saatkörner in den offenen Händen, hinter ihr Terrassenfelder, Bäume und Hügel.|1200]]
 
 <details><summary>🎨</summary>
 

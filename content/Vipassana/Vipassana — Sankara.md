@@ -26,7 +26,7 @@ stimme:
 
 # Vipassana — Sankhāra (Mentale Konditionierungen)
 
-![[assets/Vipassana_Sankara.png]]
+![[assets/Vipassana_Sankara.png|Aquarelltafel: ein großer Baum aus kantigen braunen Ästen und Wurzeln, links eine Kiste mit dem Wort Voll und Splitter, rechts ein verblassender Baum und ein Mann vor einem Wasserbecken, unten die Worte wie der Same, so die Frucht.]]
 
 <details><summary>🎨</summary>
 

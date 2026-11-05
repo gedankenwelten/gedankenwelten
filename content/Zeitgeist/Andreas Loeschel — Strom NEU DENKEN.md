@@ -17,7 +17,7 @@ aliases:
 
 # Andreas Löschel — Strom NEU DENKEN
 
-![[assets/Andreas-Loeschel-Strom-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Andreas-Loeschel-Strom-NEU-DENKEN-banner.jpg|Aquarellskizze: Eine Sonne schickt Lichtfäden durch eine dünnbeinige Maschine mit Waage, Zahnrädern und Messuhr zu einer Reihe erleuchteter Häuschen mit Windrädern; auf der Maschine steht „sicher, sauber, bezahlbar“, am Himmel „Zielkonflikte“.|1200]]
 
 <details><summary>🎨</summary>
 

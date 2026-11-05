@@ -7,7 +7,7 @@ raetsel: "Erst als man ihn so nannte, wurde er es."
 
 # Dirk Oschmann — DenkerVita
 
-![[assets/Dirk-Oschmann-vita-banner.jpg|1200]]
+![[assets/Dirk-Oschmann-vita-banner.jpg|In einem leeren Raum steht ein Mann im dunklen Mantel mit einem Fahrrad vor einer Staffelei; das Bild darauf zeigt eine Banane über der Landschaft, die das Fenster dahinter fortsetzt. Rechts ein Stuhl mit Büchern.|1200]]
 
 <details><summary>🎨</summary>
 

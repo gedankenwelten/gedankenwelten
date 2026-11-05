@@ -9,7 +9,7 @@ tags: [denker-vita, energiepolitik, lobbyismus, cdu, deutschland]
 
 # Katherina Reiche — DenkerVita
 
-![[assets/Katherina-Reiche-vita-banner.jpg|1200]]
+![[assets/Katherina-Reiche-vita-banner.jpg|Weite Ebene unter blauem Himmel: Neben einem Rednerpult mit Mikrofonen und einer weißen Fahne steht eine gläserne Drehtür mit zwei Frauen im Kostüm, dahinter erstreckt sich ein endloses Gewirr aus Rohrleitungen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -17,7 +17,7 @@ aliases:
 
 # Walther Ziegler — Foucault in 60 Minuten
 
-![[assets/Walther-Ziegler-Foucault-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Foucault-in-60-Minuten-banner.jpg|Radierung: das Innere eines riesigen runden Gefängnisbaus mit vielen Stockwerken voller Zellen, Treppen und Galerien, in der Mitte ein hoher Wachturm mit Licht, davor eine einzelne kleine Gestalt.|1200]]
 
 <details><summary>🎨</summary>
 

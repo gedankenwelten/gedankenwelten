@@ -9,7 +9,7 @@ tags: [denker-vita, philosophie, wissenschaft, wissenschaftsphilosophie, ki, tec
 
 # Sibylle Anderl — DenkerVita
 
-![[assets/Sibylle-Anderl-vita-banner.jpg|1200]]
+![[assets/Sibylle-Anderl-vita-banner.jpg|Zweigeteiltes Bild: links auf Nachtblau konzentrische Kreise mit Sternen, rechts auf Gold ein rosa Kreis mit einem Haus, einem Schlüssel und Zahnrädern, dazwischen wächst ein Zweig mit hellen Lotusblüten.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # B.R. Ambedkar — Kaste als Ontologie
 
-![[assets/Ambedkar-Kaste-als-Ontologie-banner.jpg|1200]]
+![[assets/Ambedkar-Kaste-als-Ontologie-banner.jpg|Ein hoher Stufenturm, in dessen Kammern einzelne Figuren stehen, wirft einen dunklen Schatten; ein Mann in blauem Anzug geht mit einem Buch davon, zu einem Baum unter einem leuchtenden Rad, wo eine Menge mit Büchern wartet.|1200]]
 
 <details><summary>🎨</summary>
 

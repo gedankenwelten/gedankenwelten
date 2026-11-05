@@ -20,7 +20,7 @@ tags:
 
 # Was macht Schule mit uns?
 
-![[assets/Was-macht-Schule-mit-uns-banner.jpg|1200]]
+![[assets/Was-macht-Schule-mit-uns-banner.jpg|Gemälde einer alten Schulstube: Kinder sitzen aufmerksam an Holzpulten, vorne zeigt eine Lehrerin mit einem Jungen an der Tafel, rechts liegt eine spitze Papiermütze auf einem Stuhl.|1200]]
 
 <details><summary>🎨</summary>
 

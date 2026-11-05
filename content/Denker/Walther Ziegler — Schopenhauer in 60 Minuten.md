@@ -18,7 +18,7 @@ aliases:
 
 # Walther Ziegler — Schopenhauer in 60 Minuten
 
-![[assets/Walther-Ziegler-Schopenhauer-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Schopenhauer-in-60-Minuten-banner.jpg|Kohlezeichnung: Unter einem riesigen Auge zwischen kahlen Ästen jagt ein Wolf einen Hirsch, in der Mitte ein Spinnennetz und eine Pusteblume auf rissigem Boden; rechts sitzt eine helle Gestalt vor einer leuchtenden Lotusblüte.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, deutschland, demokratie, populismus, religion, ethik, medien
 
 # Andreas Püttmann — DenkerVita
 
-![[assets/Andreas-Puettmann-vita-banner.jpg|1200]]
+![[assets/Andreas-Puettmann-vita-banner.jpg|Ein alter Mann mit Brille sitzt in einem sonnendurchfluteten Arbeitszimmer voller Bücher und Gemälde und schreibt an einem Holztisch, daneben ein Globus, eine kleine Büste und eine Tasse.|1200]]
 
 <details><summary>🎨</summary>
 

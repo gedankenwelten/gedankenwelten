@@ -20,7 +20,7 @@ aliases:
 
 # Renée DiResta — Invisible Rulers: Wie Lügen zur Realität werden
 
-![[assets/Renee-DiResta-Invisible-Rulers-banner.jpg|1200]]
+![[assets/Renee-DiResta-Invisible-Rulers-banner.jpg|Gesichtslose Männer in Anzügen und Melonen schweben teils durchscheinend in den Wolken und führen Marionettenkreuze; darunter eine Reihe Bilder von Sonne, Gewitter, Wüste und Sternenhimmel, vor jedem kleine Menschen.|1200]]
 
 <details><summary>🎨</summary>
 

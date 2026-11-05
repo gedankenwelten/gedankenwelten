@@ -20,7 +20,7 @@ tags:
 
 # Wie umgehen mit Russland?
 
-![[assets/Wie-umgehen-mit-Russland-banner.jpg|1200]]
+![[assets/Wie-umgehen-mit-Russland-banner.jpg|Ein leeres, graues Zimmer mit drei Türen, zwei davon offen, in der Mitte ein Holztisch mit zwei Stühlen, einer Kerze und einem Blatt.|1200]]
 
 <details><summary>🎨</summary>
 

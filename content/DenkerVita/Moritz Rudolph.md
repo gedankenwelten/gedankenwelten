@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, geopolitik, ki, deutschland]
 
 # Moritz Rudolph — DenkerVita
 
-![[assets/Moritz-Rudolph-vita-banner.jpg|1200]]
+![[assets/Moritz-Rudolph-vita-banner.jpg|Japanischer Holzschnitt: Ein Lachs springt einen tosenden Wasserfall hinauf, links eine Kiefer an Felsen, im Dunst dahinter eine Hochhausstadt, am Rand Schriftzeichen und ein Stempel.|1200]]
 
 <details>
 <summary>🎨</summary>

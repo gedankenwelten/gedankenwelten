@@ -9,7 +9,7 @@ raetsel: "Eine Woche lang Platten hören für einen Geburtstagsgruß. Dann ging 
 
 # Dietmar Dath — DenkerVita
 
-![[assets/Dietmar-Dath-vita-banner.jpg|1200]]
+![[assets/Dietmar-Dath-vita-banner.jpg|Ein Mann mit langem Haar schreibt mit einer Feder in einem Raum voller Bücher und Filmrollen, daneben ein Grammophon und eine schwarze E-Gitarre; durchs Fenster Planeten, ein fliegendes Auto, ein Mond und Pyramiden aus Kugeln.|1200]]
 
 <details><summary>🎨</summary>
 

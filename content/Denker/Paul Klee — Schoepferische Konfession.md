@@ -39,7 +39,7 @@ stimme:
 
 # Paul Klee — Schöpferische Konfession
 
-![[assets/Paul-Klee-Schoepferische-Konfession-banner.jpg|1200]]
+![[assets/Paul-Klee-Schoepferische-Konfession-banner.jpg|Aquarellflecken in Ocker, Rosa, Blau und Grün, darüber eine feine Tuschlinie mit Bögen, Wellen, Punkten, einem Rad, Blitzen, einer Spirale und Sternen, die rechts in einer Strichfigur mit Kreiskopf endet.|1200]]
 
 <details><summary>🎨</summary>
 

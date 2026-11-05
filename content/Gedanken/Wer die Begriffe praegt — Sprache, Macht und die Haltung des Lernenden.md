@@ -28,7 +28,7 @@ aliases:
 
 # Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden
 
-![[assets/Wer-die-Begriffe-praegt-banner.jpg|1200]]
+![[assets/Wer-die-Begriffe-praegt-banner.jpg|Aquarell: Ein hellblaues, geschwungenes Band wie ein Fluss trägt kleine Blöcke und Keile in Gold, Grau und Ocker.|1200]]
 
 <details><summary>🎨</summary>
 

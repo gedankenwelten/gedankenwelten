@@ -20,7 +20,7 @@ raetsel: "Solange das Obst dalag, aßen sie Obst. Frei gefragt, nahmen sie Kekse
 
 # Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?
 
-![[assets/Jutta-Roosen-Wie-wirksam-sind-Zuckersteuer-und-Co-banner.jpg|1200]]
+![[assets/Jutta-Roosen-Wie-wirksam-sind-Zuckersteuer-und-Co-banner.jpg|Plakativ vor rot-gelb-blauem Raster: ein leerer Anhänger, eine Rührschüssel mit Schneebesen, eine offene Hand, eine Glasflasche voller Zuckerwürfel, eine Waage und eine Tafel mit grünem, gelbem, rotem und blauem Feld.|1200]]
 
 <details><summary>🎨</summary>
 

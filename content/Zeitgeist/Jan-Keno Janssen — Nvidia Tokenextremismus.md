@@ -18,7 +18,7 @@ aliases:
 
 # Jan-Keno Janssen — Nvidia Tokenextremismus
 
-![[assets/Jan-Keno-Janssen-Nvidia-Tokenextremismus-banner.jpg|1200]]
+![[assets/Jan-Keno-Janssen-Nvidia-Tokenextremismus-banner.jpg|Zeichnung: Ein kleiner Mann mit Lupe liest an einem Tischchen einen langen Papierstreifen, der von einem Laptop mit Luftballon zu einer großen Maschine aus Trichtern, Serverschrank, Uhr und Zahnrädern neben einem Turm aus Goldmünzen führt.|1200]]
 
 <details><summary>🎨</summary>
 

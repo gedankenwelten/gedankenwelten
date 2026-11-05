@@ -21,7 +21,7 @@ aliases:
 
 # Vijay Prashad — Marxismus als Methode
 
-![[assets/Vijay-Prashad-Marxismus-als-Methode-banner.jpg|1200]]
+![[assets/Vijay-Prashad-Marxismus-als-Methode-banner.jpg|Flache Bildfelder auf hellem Grund: links ein Schiff mit Frachtkisten auf Wellen, in der Mitte eine rote Fahne über einem offenen Buch, rechts zwei Frauen in gemusterten Kleidern neben einem Stapel weißer Tücher; unten eine Blumenbordüre.|1200]]
 
 <details><summary>🎨</summary>
 

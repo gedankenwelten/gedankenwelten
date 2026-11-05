@@ -26,7 +26,7 @@ stimme:
 
 # Felwine Sarr — Gehört Afrika die Zukunft?
 
-![[assets/Felwine-Sarr-Gehoert-Afrika-die-Zukunft-banner.jpg|1200]]
+![[assets/Felwine-Sarr-Gehoert-Afrika-die-Zukunft-banner.jpg|Bild wie ein Gewebe in Rot, Gold und Blau: Eine kahle Gestalt im Gewand hält Fäden, die von Masken und Figuren links zu einer Stadt mit Affenbrotbäumen, Booten und einer großen Sonne rechts führen.|1200]]
 
 <details><summary>🎨</summary>
 

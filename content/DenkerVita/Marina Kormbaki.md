@@ -8,7 +8,7 @@ tags: [denker-vita, medien, deutschland, bundesregierung, geopolitik, afd]
 
 # Marina Kormbaki — DenkerVita
 
-![[assets/Marina-Kormbaki-vita-banner.jpg|1200]]
+![[assets/Marina-Kormbaki-vita-banner.jpg|Abendliches Zugabteil in warmem Gelb: Eine Frau im Blazer sitzt mit einem Notizbuch am Fenster und blickt hinaus in eine dunkle Landschaft mit fernen Lichtern.|1200]]
 
 <details><summary>🎨</summary>
 

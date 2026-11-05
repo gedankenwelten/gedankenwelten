@@ -26,7 +26,7 @@ stimme:
 
 # Dirk Specht — Das Ende des Erdöls beginnt jetzt
 
-![[assets/Dirk-Specht-Das-Ende-des-Erdoels-beginnt-jetzt-banner.jpg|1200]]
+![[assets/Dirk-Specht-Das-Ende-des-Erdoels-beginnt-jetzt-banner.jpg|Wie ein japanischer Farbholzschnitt: Eine Bucht in der Dämmerung mit Tankern am Horizont, am felsigen Ufer Holzhäuser mit Solardächern, unter Vordächern kochen Menschen in großen Kesseln, Möwen fliegen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -25,7 +25,7 @@ stimme:
 
 # Warum Roboter keine Beine brauchen
 
-![[assets/Ronnie-Vuine-Warum-Roboter-keine-Beine-brauchen-banner.jpg|1200]]
+![[assets/Ronnie-Vuine-Warum-Roboter-keine-Beine-brauchen-banner.jpg|Auf einer dunklen Bühne geht eine Gliederpuppe aus Holz und Kugelgelenken mit menschlichem Schritt, rechts steht ein einfacher Roboterarm auf einem Rollwagen im Licht.|1200]]
 
 <details><summary>🎨</summary>
 

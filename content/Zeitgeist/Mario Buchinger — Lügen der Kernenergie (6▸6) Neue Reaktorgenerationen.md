@@ -21,7 +21,7 @@ aliases:
 
 # Mario Buchinger — Lügen der Kernenergie (6/6): Neue Generationen von Reaktoren lösen alle Probleme
 
-![[assets/Mario-Buchinger-Luegen-der-Kernenergie-6-6-Neue-Reaktorgenerationen-banner.jpg|1200]]
+![[assets/Mario-Buchinger-Luegen-der-Kernenergie-6-6-Neue-Reaktorgenerationen-banner.jpg|Wie ein mittelalterlicher Wandteppich mit Blumengrund: Zwei Herren in Mänteln zeigen auf einen Bauplan, daneben liegt ein angekettetes Einhorn in einem Gatter neben einem Reaktorturm; rechts ein Kühlturm und weitere Einhörner im Grün.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ aliases:
 
 # Cathryn Clüver Ashbrook — Der amerikanische Weckruf
 
-![[assets/der-amerikanische-weckruf-banner.jpg|1200]]
+![[assets/der-amerikanische-weckruf-banner.jpg|Menschen verschiedener Hautfarben strecken die Hände nach einer brennenden Fackel aus, hinter ihnen alte Pergamente mit der Jahreszahl 1776; rechts ragt die dunkle Silhouette eines Kuppelbaus auf.|1200]]
 
 <details><summary>🎨</summary>
 

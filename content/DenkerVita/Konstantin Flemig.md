@@ -8,7 +8,7 @@ tags: [denker-vita, journalismus, ukraine, krieg, geopolitik]
 
 # Konstantin Flemig — DenkerVita
 
-![[assets/Konstantin-Flemig-banner.jpg|1200]]
+![[assets/Konstantin-Flemig-banner.jpg|Flächige Grafik: Ein blauer Roboter mit einem Buch unter dem Arm steht vor zerbrochenen roten und beigen Bauklötzen, darüber füllt ein Schwarm dunkler Kreuze den Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

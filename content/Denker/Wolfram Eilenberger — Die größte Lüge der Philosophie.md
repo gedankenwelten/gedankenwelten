@@ -19,7 +19,7 @@ aliases:
 
 # Wolfram Eilenberger — Die größte Lüge der Philosophie
 
-![[assets/Wolfram-Eilenberger-Die-groesste-Luege-der-Philosophie-banner.jpg|1200]]
+![[assets/Wolfram-Eilenberger-Die-groesste-Luege-der-Philosophie-banner.jpg|Abendliches Meer: Drei Menschen in einem Segelboot mit Laterne folgen einer leuchtenden Spur zu einem kleinen Tempel auf einer Insel; am Himmel ein Mond mit geschlossenem Auge, vorn ein grün schimmernder Strom.|1200]]
 
 <details><summary>🎨</summary>
 

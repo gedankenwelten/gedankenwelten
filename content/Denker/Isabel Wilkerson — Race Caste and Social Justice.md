@@ -23,7 +23,7 @@ stimme:
 
 # Isabel Wilkerson — Race, Caste and Social Justice
 
-![[assets/Isabel-Wilkerson-Race-Caste-and-Social-Justice-banner.jpg|1200]]
+![[assets/Isabel-Wilkerson-Race-Caste-and-Social-Justice-banner.jpg|Querschnitt eines rosa Holzhauses auf Stelzen über dunklem Wasser: in den Stockwerken stehen Menschen, eine Leiter führt durch alle Ebenen, unten stehen Menschen bis zur Brust im Wasser.|1200]]
 
 <details><summary>🎨</summary>
 

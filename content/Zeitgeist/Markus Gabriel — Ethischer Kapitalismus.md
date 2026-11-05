@@ -16,7 +16,7 @@ aliases:
 
 # Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?
 
-![[assets/Markus-Gabriel-Ethischer-Kapitalismus-banner.jpg|1200]]
+![[assets/Markus-Gabriel-Ethischer-Kapitalismus-banner.jpg|Wandbild in Rot und Ocker: Eine riesige Hand aus vielen kleinen Menschen trägt eine Waage, ringsum Marktstände und Maschinen mit gesichtslosen Händlern; vorn hebt ein kniender Mann ein Kind aus einem Becken.|1200]]
 
 <details><summary>🎨</summary>
 

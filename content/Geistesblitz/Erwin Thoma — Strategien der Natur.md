@@ -27,7 +27,7 @@ aliases:
 
 # Erwin Thoma — Strategien der Natur
 
-![[assets/Erwin-Thoma-Strategien-der-Natur-banner.jpg|1200]]
+![[assets/Erwin-Thoma-Strategien-der-Natur-banner.jpg|Ein goldener Lebensbaum mit spiralförmig gerollten Ästen und Wurzeln auf grünem, ornamentreichem Grund, der Stamm mit bunten Mosaikflächen, unten eine Reihe kleiner goldener Bäume.|1200]]
 
 <details><summary>🎨</summary>
 

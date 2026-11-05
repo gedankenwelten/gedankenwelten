@@ -17,7 +17,7 @@ aliases:
 
 # Leonhard Horowski — Adel, Klassen und Gesellschaft
 
-![[assets/Leonhard-Horowski-Adel-Klassen-und-Gesellschaft-banner.jpg|1200]]
+![[assets/Leonhard-Horowski-Adel-Klassen-und-Gesellschaft-banner.jpg|Prunksaal mit Porträts und Uhren an den Wänden: Eine lange Reihe Männer mit Perücken und farbigen Röcken wartet, vorn kniet einer und überreicht einem Mann auf einem Thron im Kerzenschein etwas Goldenes.|1200]]
 
 <details><summary>🎨</summary>
 

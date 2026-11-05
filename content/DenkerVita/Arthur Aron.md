@@ -6,7 +6,7 @@ tags: [denker-vita, psychologie, sozialpsychologie, liebe, usa]
 
 # Arthur Aron — DenkerVita
 
-![[assets/Arthur-Aron-vita-banner.jpg|1200]]
+![[assets/Arthur-Aron-vita-banner.jpg|Kräftige Farbflächen: Zwei große Kreise aus Ringen in Rot, Blau, Grün, Gelb und Orange überschneiden sich, im grünen Schnittfeld steht ein Fragezeichen aus bunten Punkten.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -7,7 +7,7 @@ raetsel: "Im Dorf grüßt man über den Zaun. Gewählt wird trotzdem geheim."
 
 # Juli Zeh — DenkerVita
 
-![[assets/Juli-Zeh-vita-banner.jpg|1200]]
+![[assets/Juli-Zeh-vita-banner.jpg|Detailreiches Dorfgemälde: Ein Dorf mit roten Dächern und Kirche, auf der Straße Leute, Hunde und ein Reiter, rechts eine erregte Versammlung auf Bänken unter einem Baum, am Horizont viele Windräder.|1200]]
 
 <details><summary>🎨</summary>
 

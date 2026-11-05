@@ -26,7 +26,7 @@ stimme:
 
 # Zehn Wirtschaftsmythen, zwei Widerlegungen
 
-![[assets/Maurice-Hoefgen-Marcel-Fratzscher-entlarvt-10-Wirtschaftsmythen-banner.jpg|1200]]
+![[assets/Maurice-Hoefgen-Marcel-Fratzscher-entlarvt-10-Wirtschaftsmythen-banner.jpg|Wie eine Papiercollage: links ein Blatt mit Raster, eine gefaltete Schürze und ein Löffel, rechts auf einem Tisch ein Tempel, dessen Säulen aus Münzstapeln bestehen.|1200]]
 
 <details><summary>🎨</summary>
 

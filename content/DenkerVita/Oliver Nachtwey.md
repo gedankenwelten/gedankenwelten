@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, autoritarismus, kapitalismus, soziale-ungleichhe
 
 # Oliver Nachtwey — DenkerVita
 
-![[assets/Oliver-Nachtwey-vita-banner.jpg|1200]]
+![[assets/Oliver-Nachtwey-vita-banner.jpg|Grafik: Eine Rolltreppe mit Rissen führt zu einem leuchtenden, gesprungenen Schild mit dem englischen Schriftzug für Aufstiegsversprechen, einige Menschen steigen hinauf, einer liegt gestürzt auf den Stufen.|1200]]
 
 <details><summary>🎨</summary>
 

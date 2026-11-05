@@ -19,7 +19,7 @@ aktualisiert: 2026-08-01
 
 # Sven Beckert — Kapitalismus als Weltrevolution
 
-![[assets/Sven-Beckert-Kapitalismus-als-Weltrevolution-banner.jpg|1200]]
+![[assets/Sven-Beckert-Kapitalismus-als-Weltrevolution-banner.jpg|Wandbild: Links ernten Menschen unter Palmen Baumwolle und Zuckerrohr, Ballen gehen zu Segelschiffen am Meer, rechts bedienen Arbeiterinnen und Arbeiter riesige Spinnmaschinen in einer Fabrikhalle.|1200]]
 
 <details><summary>🎨</summary>
 

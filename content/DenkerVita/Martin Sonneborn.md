@@ -8,7 +8,7 @@ tags: [denker-vita, satire, eu, geopolitik]
 
 # Martin Sonneborn
 
-![[assets/Martin-Sonneborn-vita-banner.jpg|1200]]
+![[assets/Martin-Sonneborn-vita-banner.jpg|Bleistiftzeichnung: Ein grinsender Narr mit Schellenkappe breitet hinter einem Pult mit Europasternen die Arme aus, im leeren Plenarsaal, vorn quellen Papiere aus einem Koffer mit Stern.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, geschichte, krisen, geopolitik]
 
 # Adam Tooze — DenkerVita
 
-![[assets/Adam-Tooze-vita-banner.jpg|1200]]
+![[assets/Adam-Tooze-vita-banner.jpg|Ein Containerhafen mit Kränen und einem großen Frachtschiff in der Dämmerung, darüber türmen sich kantige Wolkenformen, und türkise und pinke Lichtlinien zucken wie Kurven über den Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

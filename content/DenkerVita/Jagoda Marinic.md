@@ -8,7 +8,7 @@ tags: [denker-vita, meinungsfreiheit, gesellschaft, deutschland, literatur]
 
 # Jagoda Marinić — DenkerVita
 
-![[assets/Jagoda-Marinic-vita-banner.jpg|1200]]
+![[assets/Jagoda-Marinic-vita-banner.jpg|Papierschnitt in kräftigen Farben: Zwei Landschaften voller Blumen und Blätter sind durch einen Bogen aus verschlungenen Buchstaben verbunden, darunter ein Koffer und eine Kiste, aus der ein Blumenstrauß wächst.|1200]]
 
 <details><summary>🎨</summary>
 

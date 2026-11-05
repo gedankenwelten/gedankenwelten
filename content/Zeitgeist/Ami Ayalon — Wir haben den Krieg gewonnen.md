@@ -18,7 +18,7 @@ aliases:
 
 # Ami Ayalon — Wir haben den Krieg gewonnen
 
-![[assets/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen-banner.jpg|1200]]
+![[assets/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen-banner.jpg|Graue Zeichnung: Unter einem knorrigen alten Olivenbaum steht ein Tisch mit zwei leeren Stühlen, darauf ein gefaltetes Papier und ein Stein; in der Ferne ein weißes Dorf auf sandfarbenen Hügeln.|1200]]
 
 <details><summary>🎨</summary>
 

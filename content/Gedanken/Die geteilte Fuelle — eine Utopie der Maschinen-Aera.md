@@ -25,7 +25,7 @@ stimme:
 
 # Die geteilte Fülle — eine Utopie der Maschinen-Ära
 
-![[assets/Die-geteilte-Fuelle-eine-Utopie-der-Maschinen-Aera-banner.jpg|1200]]
+![[assets/Die-geteilte-Fuelle-eine-Utopie-der-Maschinen-Aera-banner.jpg|Wimmelbild: eine sommerliche Landschaft mit Feldern, Mühle und großem Baum, Menschen essen, lesen, musizieren und gärtnern, zwischen ihnen arbeiten runde Messingroboter.|1200]]
 
 <details><summary>🎨</summary>
 

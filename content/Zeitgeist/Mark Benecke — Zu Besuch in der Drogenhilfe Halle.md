@@ -19,7 +19,7 @@ aliases:
 
 # Mark Benecke — Zu Besuch in der Drogenhilfe Halle
 
-![[assets/Mark-Benecke-Zu-Besuch-in-der-Drogenhilfe-Halle-banner.jpg|1200]]
+![[assets/Mark-Benecke-Zu-Besuch-in-der-Drogenhilfe-Halle-banner.jpg|Abends an einer Hausecke: In einem erleuchteten Erdgeschossfenster stehen ein kleines Fliegenpilzhaus und bunte Dosen, davor auf dem Gehweg ein Tischchen und ein Klappstuhl; die Straße ist leer, eine Laterne brennt.|1200]]
 
 <details><summary>🎨</summary>
 

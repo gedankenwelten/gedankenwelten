@@ -18,7 +18,7 @@ tags:
 
 # Wirken Quoten?
 
-![[assets/Wirken-Quoten-banner.jpg|1200]]
+![[assets/Wirken-Quoten-banner.jpg|Flache Malerei: Vor einer langen Reihe gleich aussehender Männer in Anzügen kommen über eine Rampe andere Menschen herab, eine Frau, ein Mann im Rollstuhl, Jugendliche mit Büchern, unten freie türkise Stühle, auf einem sitzt eine Frau.|1200]]
 
 <details><summary>🎨</summary>
 

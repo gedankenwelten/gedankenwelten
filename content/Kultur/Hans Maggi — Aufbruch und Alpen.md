@@ -28,7 +28,7 @@ aliases:
 
 # Hans Maggi — Aufbruch und Alpen
 
-![[assets/Hans-Maggi-Aufbruch-und-Alpen-banner.jpg|1200]]
+![[assets/Hans-Maggi-Aufbruch-und-Alpen-banner.jpg|Zwei Radfahrer mit Gepäcktaschen fahren eine Schotterstraße durch eine Almlandschaft mit Schneeresten, dahinter verschneite Gipfel und eine Hütte mit rauchendem Schornstein, in getupften Pinselstrichen.|1200]]
 
 <details><summary>🎨</summary>
 

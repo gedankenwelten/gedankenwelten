@@ -18,7 +18,7 @@ tags:
 
 # Forschung
 
-![[assets/Forschung-banner.jpg|1200]]
+![[assets/Forschung-banner.jpg|Dunkles Gemälde: Menschen sitzen bei Kerzenlicht um einen Tisch mit einer Glaskugel, in der eine weiße Taube flattert, einer verbirgt das Gesicht in der Hand, rechts greift ein weißer Roboterarm ins Bild, auf dem Tisch Münzstapel.|1200]]
 
 <details><summary>🎨</summary>
 

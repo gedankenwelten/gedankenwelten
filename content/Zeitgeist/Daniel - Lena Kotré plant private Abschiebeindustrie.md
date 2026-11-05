@@ -17,7 +17,7 @@ description: "Eine Abschiebung als Vergabeverfahren zu denken, verlangt keinen H
 
 # Daniel - Lena Kotré plant private Abschiebeindustrie
 
-![[assets/Daniel-Lena-Kotre-plant-private-Abschiebeindustrie-banner.jpg|1200]]
+![[assets/Daniel-Lena-Kotre-plant-private-Abschiebeindustrie-banner.jpg|Wie eine Heftseite mit roter Mittellinie: links unter der Zahl 82 eine bunte Menge verschiedenster Menschen, rechts unter der Zahl 60 Reihen gleich aussehender blonder Männer in Grau; unten ein grauer Bus, links eine Pinnwand mit Zetteln.|1200]]
 
 <details><summary>🎨</summary>
 

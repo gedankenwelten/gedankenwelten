@@ -18,7 +18,7 @@ aliases:
 
 # Walther Ziegler — Marx in 60 Minuten
 
-![[assets/Walther-Ziegler-Marx-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Marx-in-60-Minuten-banner.jpg|Wandbild in zwei Ebenen: oben Statuen, eine Kirche, ein Bankgebäude und ein Mann mit Zylinder auf einem Geldsack; unten pflügen Bauern mit Ochsen, Arbeiter schmieden an glühenden Öfen, andere formen Brot, dahinter eine Reihe Gesichter.|1200]]
 
 <details><summary>🎨</summary>
 

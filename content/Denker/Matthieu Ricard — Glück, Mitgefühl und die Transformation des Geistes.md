@@ -32,7 +32,7 @@ stimme:
 
 # Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes
 
-![[assets/Matthieu-Ricard-Glueck-Mitgefuehl-und-die-Transformation-des-Geistes-banner.jpg|1200]]
+![[assets/Matthieu-Ricard-Glueck-Mitgefuehl-und-die-Transformation-des-Geistes-banner.jpg|Rechts sitzt eine Gestalt mit Heiligenschein im roten Mönchsgewand auf einer Lotusblüte vor Schneebergen, links ein Labortisch mit Mikroskop und Glaskolben unter einer leuchtenden Sonne; dazwischen eine Kette bunter Gebetsfahnen.|1200]]
 
 <details><summary>🎨</summary>
 

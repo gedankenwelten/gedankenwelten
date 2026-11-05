@@ -8,7 +8,7 @@ tags: [denker-vita, ki, geopolitik, deutschland]
 
 # Anja Dahlmann — DenkerVita
 
-![[assets/Anja-Dahlmann-vita-banner.jpg|1200]]
+![[assets/Anja-Dahlmann-vita-banner.jpg|Kohlezeichnung: Eine Frau, von hinten gesehen, breitet vor einer Menge ernster Gesichter den Arm aus, über ihnen schwirren zahlreiche Drohnen in einem dunklen Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -17,7 +17,7 @@ aliases:
 
 # Jonathan Haidt — Kann ein gespaltenes Amerika heilen?
 
-![[assets/Jonathan-Haidt-Kann-ein-gespaltenes-Amerika-heilen-banner.jpg|1200]]
+![[assets/Jonathan-Haidt-Kann-ein-gespaltenes-Amerika-heilen-banner.jpg|Zwei große tropfenförmige Flächen, links rot, rechts blau, berühren sich in der Mitte; in einem schmalen hellen Spalt ziehen zwei Reihen winziger Menschen gegeneinander an einem Seil.|1200]]
 
 <details><summary>🎨</summary>
 

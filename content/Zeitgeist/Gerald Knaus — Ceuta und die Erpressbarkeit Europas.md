@@ -23,7 +23,7 @@ stimme:
 
 # Ceuta und die Erpressbarkeit Europas
 
-![[assets/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas-banner.jpg|1200]]
+![[assets/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas-banner.jpg|Kohlezeichnung auf Zeitungspapier: Eine Reihe Menschen mit Koffern und Bündeln geht vor einer Festungsstadt am Meer an einem Zaun entlang und verblasst nach rechts zu weißen Schemen; am Ende stehen ein Tisch und zwei leere Stühle.|1200]]
 
 <details><summary>🎨</summary>
 

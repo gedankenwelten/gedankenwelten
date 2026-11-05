@@ -8,7 +8,7 @@ tags: [denker-vita, arbeit, digitalisierung, gewerkschaften, kritische-theorie, 
 
 # Simon Schaupp — DenkerVita
 
-![[assets/Simon-Schaupp-vita-banner.jpg|1200]]
+![[assets/Simon-Schaupp-vita-banner.jpg|Grafik in Rot, Schwarz und Creme: Links Bildschirme mit Diagrammen über einer Reihe dunkler Arbeiterfiguren mit Helmen, Pfeile führen nach rechts in einen Kreislauf aus Pfeilen zwischen großen Blättern, Bohnen und Wurzeln im Boden.|1200]]
 
 <details><summary>🎨</summary>
 

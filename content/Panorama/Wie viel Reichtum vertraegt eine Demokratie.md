@@ -19,7 +19,7 @@ tags:
 
 # Wie viel Reichtum verträgt eine Demokratie?
 
-![[assets/Wie-viel-Reichtum-vertraegt-eine-Demokratie-banner.jpg|1200]]
+![[assets/Wie-viel-Reichtum-vertraegt-eine-Demokratie-banner.jpg|Gemälde: ein riesiger runder Turm aus Goldmünzen, an dem Hunderte kleiner Menschen klettern, tragen und arbeiten, ganz oben ruht ein Mann auf einem Bett, ringsum flaches Land mit Dorf, Wasserrad und Schiffen.|1200]]
 
 <details><summary>🎨</summary>
 

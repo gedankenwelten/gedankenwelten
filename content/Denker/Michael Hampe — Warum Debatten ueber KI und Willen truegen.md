@@ -22,7 +22,7 @@ aliases:
 
 # Michael Hampe — Warum Debatten über KI und Willen trügen
 
-![[assets/Michael-Hampe-Warum-Debatten-ueber-KI-und-Willen-truegen-banner.jpg|1200]]
+![[assets/Michael-Hampe-Warum-Debatten-ueber-KI-und-Willen-truegen-banner.jpg|Skizzenblatt in Sepia: links ein Männerkopf im Profil mit Zahnrädern statt Gehirn, rechts ein Roboter in Ritterrüstung mit offenem Brustkorb und rotem Herz, dazu eine zeigende Hand, ein Hase und zwei Eier.|1200]]
 
 <details><summary>🎨</summary>
 

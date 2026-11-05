@@ -6,7 +6,7 @@ tags: [denker-vita, dekolonisierung, literatur, kenia, sprache]
 
 # Ngũgĩ wa Thiong'o — DenkerVita
 
-![[assets/Ngugi-wa-Thiongo-vita-banner.jpg|1200]]
+![[assets/Ngugi-wa-Thiongo-vita-banner.jpg|Zeichnung wie ein Holzschnitt: Ein Mann sitzt hinter Gitterstäben und schreibt, aus seinem Fenster fließt ein Band aus Schrift zu einem Baum, dessen Krone aus Buchstaben besteht, aus ihr fliegen Vögel auf.|1200]]
 
 <details><summary>🎨</summary>
 

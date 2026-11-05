@@ -20,7 +20,7 @@ aliases:
 
 # Walther Ziegler — Platon in 60 Minuten
 
-![[assets/Walther-Ziegler-Platon-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Platon-in-60-Minuten-banner.jpg|Oben helle Ornamente aus Kreisen, Blüten und Spiralen um eine goldene Sonne; darunter eine dunkle Höhle, in der Menschen vor einer feurigen Wand mit Schatten sitzen, eine weiße Treppe führt nach oben.|1200]]
 
 <details><summary>🎨</summary>
 

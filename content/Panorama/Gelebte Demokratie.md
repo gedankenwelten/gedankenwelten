@@ -15,7 +15,7 @@ erstellt: 2026-05-21
 
 # Gelebte Demokratie
 
-![[assets/Panorama_Gelebte_Demokratie.png|1200]]
+![[assets/Panorama_Gelebte_Demokratie.png|Aquarell: Menschen tragen Bücherstapel durch Torbögen, zwei sitzen an einem Tisch über Papieren, hinter ihnen stemmen viele Leute gemeinsam ein Gerüst mit bunten Dreiecken und Feldern, rechts öffnet einer eine Tür.|1200]]
 
 <details><summary>🎨</summary>
 

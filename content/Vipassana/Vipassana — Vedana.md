@@ -26,7 +26,7 @@ stimme:
 
 # Vipassana — Vedanā (Körperempfindungen)
 
-![[assets/Vipassana_Vedana.png]]
+![[assets/Vipassana_Vedana.png|Aquarelltafel: eine Figur in Blau und Ocker, durch die ein leuchtender Strahl läuft, links eine Hand und eine liegende Gestalt über Wellen, rechts ein Kreislauf aus Pfeilen mit Empfindung, Reaktion und einem Auge für Beobachten mit Gleichmut.]]
 
 <details><summary>🎨</summary>
 

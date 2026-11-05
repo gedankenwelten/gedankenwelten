@@ -6,7 +6,7 @@ tags: [denker-vita, deutschland, demokratie, europa]
 
 # Angela Merkel — DenkerVita
 
-![[assets/Angela-Merkel-banner.jpg|1200]]
+![[assets/Angela-Merkel-banner.jpg|Aquarell aus farbigen Quadraten: In der Mitte eine Figur aus geometrischen Formen, über ihr ein gepunkteter Bogen von der grauen linken zur warmen rechten Hälfte; links ein Glaskolben, rechts das Wort Freiheit, ein Haus und ein Buch.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ aliases:
 
 # Walther Ziegler — Descartes in 60 Minuten
 
-![[assets/Walther-Ziegler-Descartes-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Descartes-in-60-Minuten-banner.jpg|In einem dunklen Raum sitzt eine Gestalt im Kapuzenmantel grübelnd vor einem Kaminfeuer, zwei Kerzen auf dem Boden; im Schatten dahinter schemenhafte Augen und mehrmals das lateinische Wort Cogito, ich denke.|1200]]
 
 <details><summary>🎨</summary>
 

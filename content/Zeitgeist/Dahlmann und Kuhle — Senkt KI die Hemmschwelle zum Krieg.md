@@ -18,7 +18,7 @@ aliases:
 
 # Senkt KI die Hemmschwelle zum Krieg?
 
-![[assets/Dahlmann-und-Kuhle-Senkt-KI-die-Hemmschwelle-zum-Krieg-banner.jpg|1200]]
+![[assets/Dahlmann-und-Kuhle-Senkt-KI-die-Hemmschwelle-zum-Krieg-banner.jpg|Zwischen zwei Arkadengebäuden steht eine riesige Wand aus Zielscheiben, ein Mann davor greift nach einem Knopf; dahinter steigt ein Explosionspilz in den dunklen Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

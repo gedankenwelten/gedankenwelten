@@ -7,7 +7,7 @@ tags: [denker-vita, technologie, medien, deutschland, datenschutz]
 
 # Ralf Stockmann — DenkerVita
 
-![[assets/Ralf-Stockmann-vita-banner.jpg|1200]]
+![[assets/Ralf-Stockmann-vita-banner.jpg|Flache Grafik: Aus einem Bücherregal lösen sich die Buchrücken in Streifen aus Zeichen und strömen nach rechts zu einem offenen Vorhängeschloss, umgeben von Tablets und Personensymbolen.|1200]]
 
 <details><summary>🎨</summary>
 

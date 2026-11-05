@@ -17,7 +17,7 @@ tags:
 
 # Schöner Wohnen
 
-![[assets/Schoener-Wohnen-banner.jpg|1200]]
+![[assets/Schoener-Wohnen-banner.jpg|Zeichnung: ein Mietshaus im Querschnitt mit Familien in Stube, Küche und Kinderzimmer auf drei Etagen, daneben ein Hof mit Wäscheleinen, spielenden Kindern und einem Karren voller Kisten.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, energiewende, batterie, wissenschaft, e-mobilitaet]
 
 # Maximilian Fichtner — DenkerVita
 
-![[assets/Maximilian-Fichtner-vita-banner.jpg|1200]]
+![[assets/Maximilian-Fichtner-vita-banner.jpg|Flache Grafik auf Weiß: In der Mitte eine leuchtende Batterie in Blau, Orange und Grün mit Atomsymbol, Leitungen verbinden sie links mit einem blauen Elektroauto und rechts mit Windrad und Solarplatte.|1200]]
 
 <details><summary>🎨</summary>
 

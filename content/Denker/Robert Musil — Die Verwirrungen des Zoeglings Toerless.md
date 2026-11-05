@@ -23,7 +23,7 @@ stimme:
 
 # Robert Musil — Die Verwirrungen des Zöglings Törleß
 
-![[assets/Robert-Musil-Toerless-banner.jpg|1200]]
+![[assets/Robert-Musil-Toerless-banner.jpg|Auf einem Dachboden vor einem roten Vorhang stehen zwei leere Uniformen ohne Köpfe aufrecht, eine dritte liegt flach am Boden, daneben eine Laterne mit warmem Licht.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -21,7 +21,7 @@ aliases:
 
 # DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA
 
-![[assets/DW-Reporter-Widerstand-gegen-die-KI-Rechenzentren-in-den-USA-banner.jpg|1200]]
+![[assets/DW-Reporter-Widerstand-gegen-die-KI-Rechenzentren-in-den-USA-banner.jpg|Neben einer gewaltigen fensterlosen Betonmauer mit Lüftern und Schornsteinen auf dem Dach steht eine kleine weiße Scheune, davor grasen Kühe, Strommasten ziehen in die Ferne.|1200]]
 
 <details><summary>🎨</summary>
 

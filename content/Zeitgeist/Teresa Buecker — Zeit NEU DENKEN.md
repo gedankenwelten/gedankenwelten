@@ -18,7 +18,7 @@ aliases:
 
 # Teresa Bücker — Zeit NEU DENKEN
 
-![[assets/teresa-buecker-zeit-neu-denken-banner.jpg|1200]]
+![[assets/teresa-buecker-zeit-neu-denken-banner.jpg|In einer runden Stube voller Uhren rinnt die Zeit als goldene Fäden aus den Zifferblättern zu einem Webstuhl, an dem eine Frau mit einem Kind sitzt und webt.|1200]]
 
 <details><summary>🎨</summary>
 

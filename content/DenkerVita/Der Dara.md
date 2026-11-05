@@ -12,7 +12,7 @@ aliases:
 
 # Der Dara — DenkerVita
 
-![[assets/Der-Dara-vita-banner.jpg|1200]]
+![[assets/Der-Dara-vita-banner.jpg|Flache Grafik auf Türkis: Ein Mensch spricht vor Ringlicht und Mikrofon, aus dem Lichtkegel wirbeln Spiralen und Schilder mit der Aufschrift Falschnachrichten zu einem roten Abspielsymbol und einer leeren Sprechblase.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ tags: [denker-vita, philosophie, soziologie, erkenntnistheorie, ethik, komplexit
 
 # Edgar Morin — DenkerVita
 
-![[assets/Edgar-Morin-banner.jpg|1200]]
+![[assets/Edgar-Morin-banner.jpg|Pastos gemalter Nachthimmel über einer Hafenstadt mit Kuppeln, einem runden Turm und dem Eiffelturm: Ein grauhaariger Mann fliegt mit ausgebreiteten Armen, um ihn schweben ein Buch, eine Rose, eine Geige, eine Kerze, ein Baum, ein Liebespaar und ein Hahn.|1200]]
 
 <details><summary>🎨</summary>
 

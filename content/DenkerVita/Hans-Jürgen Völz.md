@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, deutschland, kapitalismus, neoliberalismus]
 
 # Hans-Jürgen Völz — DenkerVita
 
-![[assets/Hans-Juergen-Voelz-banner.jpg|1200]]
+![[assets/Hans-Juergen-Voelz-banner.jpg|Flächig gemalt in Ocker und Rot: Über einer großen Waage steht das Wort „Sozial“, links Fabrikschlote und Hände mit Zahnrädern und Schraubenschlüsseln, rechts eine Familie am Esstisch vor einem Haus.|1200]]
 
 <details><summary>🎨</summary>
 

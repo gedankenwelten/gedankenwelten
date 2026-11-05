@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, macht, prekaritaet, queer-theorie]
 
 # Isabell Lorey — DenkerVita
 
-![[assets/Isabell-Lorey-vita-banner.jpg|1200]]
+![[assets/Isabell-Lorey-vita-banner.jpg|Gliederpuppen an Fäden balancieren auf einem gespannten Seil und auf schrägen Wippen, eine reicht der anderen die Hand, vor flächigem Hintergrund in Rosa, Ocker und Blau.|1200]]
 
 <details><summary>🎨</summary>
 

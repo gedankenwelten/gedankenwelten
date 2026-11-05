@@ -18,7 +18,7 @@ aliases:
 
 # Koschi Politik — Trump gegen Papst Leo
 
-![[assets/Koschi-Politik-Trump-gegen-Papst-Leo-banner.jpg|1200]]
+![[assets/Koschi-Politik-Trump-gegen-Papst-Leo-banner.jpg|Flächig in Rot, Schwarz und Weiß: Ein kantiger Mann in Rot mit Heiligenschein streckt seinen langen Arm nach einer weißen Kugel, an der eine Taube an einer Schnur hängt; um ihn rote Ausrufezeichen, zu seinen Füßen ein kleiner Explosionspilz.|1200]]
 
 <details><summary>🎨</summary>
 

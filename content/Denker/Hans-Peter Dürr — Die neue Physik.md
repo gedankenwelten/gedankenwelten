@@ -17,7 +17,7 @@ aliases:
 
 # Hans-Peter Dürr — Die neue Physik
 
-![[assets/Hans-Peter-Duerr-Die-neue-Physik-banner.jpg|1200]]
+![[assets/Hans-Peter-Duerr-Die-neue-Physik-banner.jpg|Links eine dunkle, gesprenkelte Kugel, aus der feine Kreise und Linien nach rechts in einen hellen Raum voller Planeten, Spiralen, Sterne und augenförmiger Gebilde fließen.|1200]]
 
 <details><summary>🎨</summary>
 

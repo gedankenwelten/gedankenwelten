@@ -28,7 +28,7 @@ stimme:
 
 # Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?
 
-![[assets/Sigl-Gloeckner-und-Kaczmarczyk-Geld-ist-genug-da-banner.jpg|1200]]
+![[assets/Sigl-Gloeckner-und-Kaczmarczyk-Geld-ist-genug-da-banner.jpg|Kupferstich über einem aufgeschlagenen Buch: Eine aufgeregte Menge Männer in Mänteln drängt vor einer hohen Mauer und gestikuliert, Geldscheine fliegen durch die Luft; rechts steht gelassen ein Arbeiter mit Schaufel auf einem freien Weg.|1200]]
 
 <details><summary>🎨</summary>
 

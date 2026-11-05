@@ -21,7 +21,7 @@ aliases:
 
 # Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?
 
-![[assets/Nico-Lange-Hat-Trump-die-Kontrolle-ueber-den-Iran-Krieg-verloren-banner.jpg|1200]]
+![[assets/Nico-Lange-Hat-Trump-die-Kontrolle-ueber-den-Iran-Krieg-verloren-banner.jpg|Federzeichnung: Auf dem Deck eines Flugzeugträgers in stürmischer See zeigt eine Gestalt im wehenden Mantel auf eine Steilküste voller Drohnen und Menschen; am Himmel leuchtet ein Handy mit der Anzeige „48 Stunden“.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -17,7 +17,7 @@ tags:
 
 # Das Glück des Schmieds
 
-![[assets/Das-Glueck-des-Schmieds-banner.jpg|1200]]
+![[assets/Das-Glueck-des-Schmieds-banner.jpg|Schwarzweißer Holzschnitt mit roten Funken: Zwei Schmiede hämmern an Ambossen, daneben eine Reihe leerer Ambosse, rechts blicken ein Kind und ein Erwachsener zu einem hoch hängenden Hammer auf, oben ein Vogelkäfig, links ein Sack.|1200]]
 
 <details><summary>🎨</summary>
 

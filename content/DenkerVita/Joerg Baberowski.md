@@ -6,7 +6,7 @@ tags: [denker-vita, geschichte, gewalt, stalinismus, demokratie, deutschland]
 
 # Jörg Baberowski — DenkerVita
 
-![[assets/Joerg-Baberowski-banner.jpg|1200]]
+![[assets/Joerg-Baberowski-banner.jpg|Verschwommene graue Szene: Eine nur als Schemen erkennbare Gestalt sitzt an einem Tisch zwischen Bücherstapeln und verstreuten Papieren, durch das Fenster sieht man die Zwiebeltürme einer Stadt.|1200]]
 
 <details><summary>🎨</summary>
 

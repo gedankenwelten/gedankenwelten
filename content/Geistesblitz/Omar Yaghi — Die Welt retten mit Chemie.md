@@ -28,7 +28,7 @@ stimme:
 
 # Omar Yaghi — Die Welt retten mit Chemie?
 
-![[assets/Omar-Yaghi-Die-Welt-retten-mit-Chemie-banner.jpg|1200]]
+![[assets/Omar-Yaghi-Die-Welt-retten-mit-Chemie-banner.jpg|Zarte Zeichnung: Über einer Wüste aus Dünen schwebt ein feines Gitter aus Kugeln und Stäben, das links Luftströme einsaugt, rechts fließt ein Wasserstrahl daraus in eine Schale.|1200]]
 
 <details><summary>🎨</summary>
 

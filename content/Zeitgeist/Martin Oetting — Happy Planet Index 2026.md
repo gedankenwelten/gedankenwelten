@@ -18,7 +18,7 @@ aliases:
 
 # Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?
 
-![[assets/martin-oetting-happy-planet-index-2026-banner.jpg|1200]]
+![[assets/martin-oetting-happy-planet-index-2026-banner.jpg|Links ein üppiger Dschungel mit Blüten, einem bunten Vogel und drei Menschen am Fluss, rechts graue Hochhäuser auf Münzhaufen unter Smog; ein goldener Stab reicht von einer Seite zur anderen.|1200]]
 
 <details><summary>🎨</summary>
 

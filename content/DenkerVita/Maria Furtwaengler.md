@@ -12,7 +12,7 @@ aliases:
 
 # Maria Furtwängler — DenkerVita
 
-![[assets/Maria-Furtwaengler-vita-banner.jpg|1200]]
+![[assets/Maria-Furtwaengler-vita-banner.jpg|Aquarell: Eine Imkerin im Schutzanzug kniet in einer Blumenwiese mit Mohn und Kornblumen und hält eine Wabe gegen das Licht, daneben bunte Bienenkästen, eine Birke und ein weißer Lattenzaun.|1200]]
 
 <details><summary>🎨</summary>
 

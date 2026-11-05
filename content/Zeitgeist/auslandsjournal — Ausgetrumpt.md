@@ -28,7 +28,7 @@ stimme:
 
 # Ausgetrumpt?! — Der Morgen nach den Midterms
 
-![[assets/auslandsjournal-Ausgetrumpt-banner.jpg|1200]]
+![[assets/auslandsjournal-Ausgetrumpt-banner.jpg|Eine lange Schlange von Menschen jeden Alters, ein alter Mann mit Rollator, Mütter mit Kindern, Arbeiter, steht auf einem Gehweg vor einem kleinen Backsteinbau mit offener Tür.|1200]]
 
 <details><summary>🎨</summary>
 

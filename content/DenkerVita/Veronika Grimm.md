@@ -7,7 +7,7 @@ raetsel: "Als Kind durfte sie nicht ins Wasser. Ihre Kinder dürfen."
 
 # Veronika Grimm — DenkerVita
 
-![[assets/Veronika-Grimm-vita-banner.jpg|1200]]
+![[assets/Veronika-Grimm-vita-banner.jpg|Ein Kind in roter Jacke steht am Strand und blickt auf ein Containerschiff, dahinter eine Industrieanlage mit Tanks und Windrädern, der Himmel aus großen bunten Kreisen und Flächen.|1200]]
 
 <details><summary>🎨</summary>
 

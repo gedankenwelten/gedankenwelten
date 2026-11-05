@@ -6,7 +6,7 @@ tags: [denker-vita, deutschland, demokratie, philosophie, wirtschaft]
 
 # Alexander Thiele — DenkerVita
 
-![[assets/Alexander-Thiele-vita-banner.jpg|1200]]
+![[assets/Alexander-Thiele-vita-banner.jpg|Federzeichnung: Eine aus schraffierten Linien gezeichnete Gestalt steht im Leeren und blickt auf ein Gebäude mit Säulen und Giebel, das ganz aus Handschrift und Zahlenreihen besteht.|1200]]
 
 <details><summary>🎨</summary>
 

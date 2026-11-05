@@ -7,7 +7,7 @@ raetsel: "Als die Insel ging, ging sie mit dem Festland."
 
 # Barbara Prainsack — DenkerVita
 
-![[assets/Barbara-Prainsack-vita-banner.jpg|1200]]
+![[assets/Barbara-Prainsack-vita-banner.jpg|Bunte Kreise und Bögen in Orange, Grün, Rosa und Dunkelblau umspielen eine kleine Stadt mit hellen Häusern an einem blauen Fluss, rechts ein stilisierter Baum.|1200]]
 
 <details><summary>🎨</summary>
 

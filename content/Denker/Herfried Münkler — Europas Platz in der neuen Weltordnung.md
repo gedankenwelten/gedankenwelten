@@ -19,7 +19,7 @@ aliases:
 
 # Herfried Münkler — Europas Platz in der neuen Weltordnung
 
-![[assets/Herfried-Muenkler-Europas-Platz-in-der-neuen-Weltordnung-banner.jpg|1200]]
+![[assets/Herfried-Muenkler-Europas-Platz-in-der-neuen-Weltordnung-banner.jpg|Leerer Platz am Meer: links ein Arkadengang, rechts ein weißes Haus mit grünen Fensterläden, in der Mitte ein Sockel mit einem Schachbrett, am Horizont eine dünne Rauchsäule unter blauem Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

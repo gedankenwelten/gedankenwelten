@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, autoritarismus, faschismus, literatursoziologie,
 
 # Carolin Amlinger — DenkerVita
 
-![[assets/Carolin-Amlinger-banner.jpg|1200]]
+![[assets/Carolin-Amlinger-banner.jpg|Karikatur auf gelbem Grund: Ein Mann mit weißer Maske hält ein Schild mit dem Wort Freiheit hoch, auf seinem Kopf sitzt eine kleine Figur; ringsum maskierte Männer in Anzügen, vorn ein Käfig mit Ketten, hinten brennt ein Säulengebäude.|1200]]
 
 <details><summary>🎨</summary>
 

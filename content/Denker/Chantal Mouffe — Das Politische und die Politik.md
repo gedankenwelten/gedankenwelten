@@ -19,7 +19,7 @@ aliases:
 
 # Chantal Mouffe — Das Politische und die Politik
 
-![[assets/Chantal-Mouffe-Das-Politische-und-die-Politik-banner.jpg|1200]]
+![[assets/Chantal-Mouffe-Das-Politische-und-die-Politik-banner.jpg|Eine Wand aus geschichtetem dunklem Gestein, durch die ein tiefer Spalt läuft, in dem ein dünner goldener Lichtstreif glimmt.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, erinnerungskultur, nationalsozialismus, deutschland]
 
 # Jens-Christian Wagner — DenkerVita
 
-![[assets/Jens-Christian-Wagner-vita-banner.jpg|1200]]
+![[assets/Jens-Christian-Wagner-vita-banner.jpg|Holzschnitt in Schwarz und Weiß: Ein Mann im langen Mantel steht mit einer Laterne an einer Friedhofsmauer und leuchtet auf ein aufgeschlagenes Buch, rechts reißen dunkle Dornenranken Papiere und Vögel mit sich.|1200]]
 
 <details><summary>🎨</summary>
 

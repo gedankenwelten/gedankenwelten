@@ -18,7 +18,7 @@ tags:
 
 # Wer bestimmt, wie erinnert wird?
 
-![[assets/Wer-bestimmt-wie-erinnert-wird-banner.jpg|1200]]
+![[assets/Wer-bestimmt-wie-erinnert-wird-banner.jpg|Gemälde in kräftigen Farben: Ein Mann am Schreibtisch mit Papierstapel schneidet die Schleife eines Lorbeerkranzes durch, davor brennende Kerzen, links drängen Männer durch eine grüne Tür, rechts eine Waage mit Kerze.|1200]]
 
 <details><summary>🎨</summary>
 

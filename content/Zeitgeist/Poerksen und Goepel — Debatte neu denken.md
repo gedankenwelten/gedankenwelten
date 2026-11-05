@@ -17,7 +17,7 @@ aliases:
 
 # Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN
 
-![[assets/Poerksen-und-Goepel-Debatte-neu-denken-banner.jpg|1200]]
+![[assets/Poerksen-und-Goepel-Debatte-neu-denken-banner.jpg|Aquarell: Zwei Strichfiguren tanzen Hand in Hand zwischen bunten Farbfeldern mit den Worten „Du“ und „Ich“, darüber eine Spirale aus Licht; links eine Steinbank mit Zetteln, rechts eine offene Tür unter einer Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

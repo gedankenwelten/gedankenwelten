@@ -8,7 +8,7 @@ tags: [denker-vita, islam, religionsphilosophie, theologie, pluralismus, usa]
 
 # Paul Heck — DenkerVita
 
-![[assets/Paul-Heck-vita-banner.jpg|1200]]
+![[assets/Paul-Heck-vita-banner.jpg|Feine Linienzeichnung mit wenigen Farbtupfern: Links eine gotische Kirche, rechts eine Moschee mit Kuppel und Mondsichel, verbunden durch eine Reihe Bögen, darunter sitzen zwei Menschen lachend am Teetisch, oben Vögel.|1200]]
 
 <details><summary>🎨</summary>
 

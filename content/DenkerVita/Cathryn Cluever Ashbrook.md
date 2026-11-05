@@ -6,7 +6,7 @@ tags: [denker-vita, usa, trump, demokratie, geopolitik, deutschland, transatlant
 
 # Cathryn Clüver Ashbrook — DenkerVita
 
-![[assets/Cathryn-Cluever-Ashbrook-vita-banner.jpg|1200]]
+![[assets/Cathryn-Cluever-Ashbrook-vita-banner.jpg|Zwei große Kreisformen aus farbigen Ringen, links in Grün und Blau mit Rissen, rechts in Rot, Orange und Gelb, verbunden durch eine Kette aus bunten Ringen über blauem Grund; links leuchten zwei Glieder auf.|1200]]
 
 <details><summary>🎨</summary>
 

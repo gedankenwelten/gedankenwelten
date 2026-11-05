@@ -19,7 +19,7 @@ aliases:
 
 # Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)
 
-![[assets/Staiy-News-19-08-2026-banner.jpg|1200]]
+![[assets/Staiy-News-19-08-2026-banner.jpg|Vier Felder unter einem Rolltor, in Ocker, Rot und Schwarz: ein Richterpult mit Hammer, ein Gerät auf einem Rollwagen, eine Reihe Zuschauer, ein leeres Rednerpult mit Telefon; darunter je drei Menschen ohne Gesicht mit verschränkten Armen.|1200]]
 
 <details><summary>🎨</summary>
 

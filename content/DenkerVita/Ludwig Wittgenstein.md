@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, sprache, erkenntnistheorie, oesterreich]
 
 # Ludwig Wittgenstein — DenkerVita
 
-![[assets/Ludwig-Wittgenstein-vita-banner.jpg|1200]]
+![[assets/Ludwig-Wittgenstein-vita-banner.jpg|Fast leeres weißes Bild: Auf einer dünnen Linie stehen fünf kleine Schachfiguren aus Schrift, daneben ragt eine Leiter nach oben, unten links sitzt eine Fliege in einer Glasflasche.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -15,7 +15,7 @@ raetsel: "Von ihm sah man nur den Hinterkopf. Die anderen sah man denken."
 
 # Günter Gaus — DenkerVita
 
-![[assets/Guenter-Gaus-vita-banner.jpg|1200]]
+![[assets/Guenter-Gaus-vita-banner.jpg|Fernsehstudio in kühlem Licht: Ein Mann im dunklen Anzug sitzt, von hinten gesehen, neben einer Kamera und blickt auf einen leeren Sessel, durch ein breites Fenster sieht man eine Häuserfront und einen alten Kleinwagen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -21,7 +21,7 @@ aliases:
 
 # Harald Welzer — Tötungsarbeit
 
-![[assets/Harald-Welzer-Toetungsarbeit-banner.jpg|1200]]
+![[assets/Harald-Welzer-Toetungsarbeit-banner.jpg|Piktogramme auf hellem Grund: kleine schwarz gekleidete Männer mit Mützen, durch Pfeile verbunden, mit Lastwagen, Absperrseil, Schaufeln, Papierstapel, Suppenwagen und Stempel; am Ende der Reihe ein großes schwarzes Rechteck.|1200]]
 
 <details><summary>🎨</summary>
 

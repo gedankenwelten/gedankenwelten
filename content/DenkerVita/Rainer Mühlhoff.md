@@ -9,7 +9,7 @@ raetsel: "Als Kind lötete er Platinen. Später fragte er, wem der Strom gehört
 
 # Rainer Mühlhoff — DenkerVita
 
-![[assets/Rainer-Muehlhoff-vita-banner.jpg|1200]]
+![[assets/Rainer-Muehlhoff-vita-banner.jpg|Zeichnung mit Aquarellflecken: Links beugt sich ein Mann über ein Dreibein, von dem eine Stange mit Kurbel ausgeht, darauf sitzen drei gefaltete Papiervögel mit offenen Schnäbeln. Rechts ein kleiner Pavillon voller Zahnräder, ringsum schweben Formeln.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -25,7 +25,7 @@ raetsel: "Manche Fragen lügen, bevor jemand antwortet."
 
 # Wolfgang Huber — Bonhoeffer und die Wahrheit
 
-![[assets/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit-banner.jpg|1200]]
+![[assets/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit-banner.jpg|In einem kahlen grauen Raum sitzt ein Kind an einem Tisch vor einem dunklen Mann an einem Stehpult; durch eine offene Tür sieht man eine Zelle mit vergittertem Fenster, Tisch, Stuhl und einem Blatt Papier.|1200]]
 
 <details><summary>🎨</summary>
 

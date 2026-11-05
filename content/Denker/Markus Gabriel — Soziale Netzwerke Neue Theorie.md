@@ -16,7 +16,7 @@ aliases:
 
 # Markus Gabriel — Was die sozialen Netzwerke mit uns machen
 
-![[assets/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie-banner.jpg|1200]]
+![[assets/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie-banner.jpg|Auf einem Fließband vor blauem Grund laufen Menschen mit Gliederpuppen-Armen, jeder mit einem leuchtenden Laptop, an Fäden wie Marionetten; darüber greift eine riesige Metallhand, ringsum Zahnräder und Rohre.|1200]]
 
 <details><summary>🎨</summary>
 

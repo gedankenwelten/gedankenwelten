@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, geopolitik, politische-ordnung, weltordnung, ch
 
 # Zhao Tingyang — DenkerVita
 
-![[assets/Zhao-Tingyang-banner.jpg|1200]]
+![[assets/Zhao-Tingyang-banner.jpg|Tuschemalerei auf hellem Grund: Ein Wirbel aus grauen Wolken kreist über fernen Bergen, darin kleine Zeichen: meditierende Gestalten, ein Pavillon, ein Baum mit Wurzeln, Segelboote.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -7,7 +7,7 @@ aktualisiert: 07.08.2026
 
 # Arnaud Orain — DenkerVita
 
-![[assets/Arnaud-Orain-vita-banner.jpg|1200]]
+![[assets/Arnaud-Orain-vita-banner.jpg|Federzeichnung: links ein Tintenfass mit Feder und ein offenes Buch mit Handschrift, von dem eine Linie über ein Segelschiff und eine Kompassrose zu einem Frachtschiff unter einem Kran führt; darunter eine Reihe kleiner Kisten, einige rot.|1200]]
 
 <details><summary>🎨</summary>
 

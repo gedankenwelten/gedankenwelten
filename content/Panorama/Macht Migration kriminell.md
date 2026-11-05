@@ -18,7 +18,7 @@ tags:
 
 # Macht Migration kriminell?
 
-![[assets/Macht-Migration-kriminell-banner.jpg|1200]]
+![[assets/Macht-Migration-kriminell-banner.jpg|Zwei junge Männer sitzen auf einer Bank vor einer Backsteinwand mit abgerissenen Plakaten voller Buchstaben, einer hält ein weißes Blatt, rechts leuchtet ein Polizist sie mit einer Taschenlampe an.|1200]]
 
 <details><summary>🎨</summary>
 

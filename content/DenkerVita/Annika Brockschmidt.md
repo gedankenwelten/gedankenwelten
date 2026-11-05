@@ -8,7 +8,7 @@ tags: [denker-vita, usa, rechtsextremismus, religion, journalismus, deutschland]
 
 # Annika Brockschmidt — DenkerVita
 
-![[assets/Annika-Brockschmidt-vita-banner.jpg|1200]]
+![[assets/Annika-Brockschmidt-vita-banner.jpg|Holzschnitt in Schwarz und Weiß: Auf einem Hügel steht ein Holzkreuz mit der Flagge der Vereinigten Staaten, von der ein rotes Band herabhängt, ringsum Sturmwolken mit Symbolen; unten eine Reihe Menschen in Anzügen.|1200]]
 
 <details><summary>🎨</summary>
 

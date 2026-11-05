@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, usa]
 
 # Agnes Callard — DenkerVita
 
-![[assets/Agnes-Callard-banner.jpg|1200]]
+![[assets/Agnes-Callard-banner.jpg|Bleistiftskizze auf fleckigem Papier: Ein bärtiger alter Mann und eine junge Frau sehen sich im Profil an, zwischen ihnen ein dünner Faden mit einer Spirale; ringsum Notizen in griechischer Schrift und rote Farbflecken.|1200]]
 
 <details><summary>🎨</summary>
 

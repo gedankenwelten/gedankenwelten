@@ -7,7 +7,7 @@ raetsel: "Drei Pfeile auf der Haut. Einer zeigt jetzt auf den Markt."
 
 # Tim Klüssendorf — DenkerVita
 
-![[assets/Tim-Kluessendorf-vita-banner.jpg|1200]]
+![[assets/Tim-Kluessendorf-vita-banner.jpg|Schwarzweiße Federzeichnung: Ein Mann steht von hinten gesehen auf einer Mauer und blickt auf eine nächtliche Altstadt mit Kirchtürmen, ringsum eine Straße mit Menschenmengen und Schildern, vorne Leute mit Werkzeug, Kamera und Ball.|1200]]
 
 <details><summary>🎨</summary>
 

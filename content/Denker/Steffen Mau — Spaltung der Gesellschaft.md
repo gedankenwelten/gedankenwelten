@@ -15,7 +15,7 @@ aliases:
 
 # Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft
 
-![[assets/Steffen-Mau-Spaltung-der-Gesellschaft-banner.jpg|1200]]
+![[assets/Steffen-Mau-Spaltung-der-Gesellschaft-banner.jpg|Zwei Männer in Anzügen halten von oben Hufeisenmagnete an Fäden über eine riesige Menge kleiner grauer und ockerfarbener Figuren; unter den Magneten leuchten rote Flecken, in denen einzelne Gestalten die Arme heben.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -7,7 +7,7 @@ tags: [denker-vita, theologie, widerstand, deutschland]
 
 # Dietrich Bonhoeffer — DenkerVita
 
-![[assets/Dietrich-Bonhoeffer-vita-banner.jpg|1200]]
+![[assets/Dietrich-Bonhoeffer-vita-banner.jpg|Kubistisch gebrochene Fläche: links eine helle Stadt aus Wolkenkratzern im goldenen Licht über dem Wasser, in der Mitte ein Dampfer, rechts unter dunklen Sturmwolken eine Kirche mit spitzem Turm und erleuchtetem Fenster.|1200]]
 
 <details><summary>🎨</summary>
 

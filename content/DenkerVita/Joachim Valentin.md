@@ -7,7 +7,7 @@ aktualisiert: 2026-09-22
 
 # Joachim Valentin — DenkerVita
 
-![[assets/Joachim-Valentin-vita-banner.jpg|1200]]
+![[assets/Joachim-Valentin-vita-banner.jpg|Flächig gemalte Runde am Fluss: Fünf Menschen sitzen an einem Tisch mit Tassen, darunter ein Mann mit Kippa, eine Frau mit Kopftuch und zwei Geistliche, hinter ihnen eine Brücke, Häuser und eine rote Backsteinkirche unter grünem Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

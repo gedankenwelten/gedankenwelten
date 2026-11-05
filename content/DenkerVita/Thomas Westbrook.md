@@ -8,7 +8,7 @@ tags: [denker-vita, usa, propaganda, medien, atheismus]
 
 # Thomas Westbrook — DenkerVita
 
-![[assets/Thomas-Westbrook-vita-banner.jpg|1200]]
+![[assets/Thomas-Westbrook-vita-banner.jpg|Flache Grafik: An einem violetten Kopfprofil ziehen Marionettenfäden, aus einer umgekippten Tasse ergießt sich violette Flüssigkeit, vor dem Gesicht durchschneidet eine Schere verknotete Fäden, darüber leuchtet eine Glühbirne.|1200]]
 
 <details><summary>🎨</summary>
 

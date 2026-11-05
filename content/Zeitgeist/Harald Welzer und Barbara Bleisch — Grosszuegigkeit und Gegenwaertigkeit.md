@@ -25,7 +25,7 @@ aliases:
 
 # Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit
 
-![[assets/Harald-Welzer-und-Barbara-Bleisch-Grosszuegigkeit-und-Gegenwaertigkeit-banner.jpg|1200]]
+![[assets/Harald-Welzer-und-Barbara-Bleisch-Grosszuegigkeit-und-Gegenwaertigkeit-banner.jpg|Ein alter Setzkasten mit Fächern: Orangen, eine Laterne, eine kleine Schiefertafel, eine Eintrittskarte, eine Münze, ein Papierschiff, ein gelber Schmetterling, eine zersprungene Scheibe; in der Mitte ein leeres Blatt mit leerem Namensschild.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -17,7 +17,7 @@ aliases:
 
 # Maja Göpel & Achim Truger — Wachstum NEU DENKEN
 
-![[assets/maja-goepel-und-achim-truger-wachstum-neu-denken-banner.jpg|1200]]
+![[assets/maja-goepel-und-achim-truger-wachstum-neu-denken-banner.jpg|Bunt und flächig: Aus einer Fabrik mit Zahnrädern und Schornsteinen windet sich ein dickes, gestreiftes Rohr in einem Knoten zu einem Baum, unter dem vier Männer im Gespräch stehen; aus dem Knäuel wächst ein grüner Trieb.|1200]]
 
 <details><summary>🎨</summary>
 

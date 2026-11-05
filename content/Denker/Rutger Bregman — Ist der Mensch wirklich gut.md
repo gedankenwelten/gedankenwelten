@@ -17,7 +17,7 @@ aktualisiert: 01.11.2026
 
 # Rutger Bregman — Ist der Mensch wirklich gut?
 
-![[assets/Rutger-Bregman-Ist-der-Mensch-wirklich-gut-banner.jpg|1200]]
+![[assets/Rutger-Bregman-Ist-der-Mensch-wirklich-gut-banner.jpg|Verschneites Dorf: Bäuerinnen mit Kopftüchern teilen um ein Feuer Brot und Holz, Hunde spielen auf dem Eis; abseits stehen ein Mann im dunklen Mantel und ein Wolf.|1200]]
 
 <details><summary>🎨</summary>
 

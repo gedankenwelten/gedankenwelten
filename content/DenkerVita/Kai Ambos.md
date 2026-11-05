@@ -6,7 +6,7 @@ tags: [denker-vita, völkerrecht, strafrecht, deutschland]
 
 # Kai Ambos — DenkerVita
 
-![[assets/Kai-Ambos-vita-banner.jpg|1200]]
+![[assets/Kai-Ambos-vita-banner.jpg|Leerer Platz in gelblichem Licht: Eine weiße Waage steht auf den Steinplatten neben einer kleinen Glaskugel, links Säulen, hinten an einer Mauer ein Uhrturm.|1200]]
 
 <details><summary>🎨</summary>
 

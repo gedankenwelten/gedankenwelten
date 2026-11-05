@@ -8,7 +8,7 @@ tags: [denker-vita, geopolitik, krieg, politik, deutschland, philosophie, machia
 
 # Herfried Münkler
 
-![[assets/Herfried-Muenkler-vita-banner.jpg|1200]]
+![[assets/Herfried-Muenkler-vita-banner.jpg|Düstere Ölmalerei: Ein weites, umgepflügtes Feld unter grauen Gewitterwolken, in den Furchen liegen zerfledderte Bücher und zerknülltes Silberpapier.|1200]]
 
 <details><summary>🎨</summary>
 

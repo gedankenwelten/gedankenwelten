@@ -8,7 +8,7 @@ tags: [denker-vita, kapitalismus, oligarchie, usa]
 
 # Evan Osnos — DenkerVita
 
-![[assets/Evan-Osnos-vita-banner.jpg|1200]]
+![[assets/Evan-Osnos-vita-banner.jpg|Eine riesige Luxusjacht, auf deren Decks Menschen mit Sektgläsern feiern; vom Kai aus schaut eine kleine Gruppe Menschen zu, an den Ecken Linien im Art-déco-Stil.|1200]]
 
 <details><summary>🎨</summary>
 

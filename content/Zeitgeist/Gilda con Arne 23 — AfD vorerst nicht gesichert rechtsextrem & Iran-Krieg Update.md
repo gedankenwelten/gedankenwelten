@@ -21,7 +21,7 @@ aliases:
 
 # Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update
 
-![[assets/Gilda-con-Arne-23-AfD-vorerst-nicht-gesichert-rechtsextrem-and-Iran-Krieg-Update-banner.jpg|1200]]
+![[assets/Gilda-con-Arne-23-AfD-vorerst-nicht-gesichert-rechtsextrem-and-Iran-Krieg-Update-banner.jpg|Radierung in Sepia unter der spanischen Zeile „Und sie gehen immer noch nicht“: links prüft ein alter Mann mit Lupe einen Stapel Erlasse, auf dem eine Fledermaus hockt, hinter ihm dunkle Gestalten; rechts fliehen Menschen vor einer brennenden Stadt mit Minaretten.|1200]]
 
 <details><summary>🎨</summary>
 

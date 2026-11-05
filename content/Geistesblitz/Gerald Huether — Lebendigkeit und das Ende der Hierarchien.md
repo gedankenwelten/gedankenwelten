@@ -24,7 +24,7 @@ aliases:
 
 # Gerald Hüther — Lebendigkeit und das Ende der Hierarchien
 
-![[assets/Gerald-Huether-Lebendigkeit-und-das-Ende-der-Hierarchien-banner.jpg|1200]]
+![[assets/Gerald-Huether-Lebendigkeit-und-das-Ende-der-Hierarchien-banner.jpg|Links ein grauer Plattenbau, rechts quillt eine wellige bunte Landschaft aus Spiralen, kleinen Häusern mit runden Fenstern und Bäumchen hervor, darüber fliegt ein Falke.|1200]]
 
 <details><summary>🎨</summary>
 

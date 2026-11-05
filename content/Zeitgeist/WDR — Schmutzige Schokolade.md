@@ -21,7 +21,7 @@ aliases:
 
 # WDR — Schmutzige Schokolade: Sie zahlen für unseren Genuss
 
-![[assets/WDR-Schmutzige-Schokolade-banner.jpg|1200]]
+![[assets/WDR-Schmutzige-Schokolade-banner.jpg|Flächig in warmen Farben: Links ein Regal voller goldener Schokoladenhasen, in der Mitte sitzt ein Junge mit einem Stück Schokolade auf einer Kiste, rechts schlagen Kinder mit Macheten Kakaofrüchte; hinten ein beladenes Frachtschiff.|1200]]
 
 <details><summary>🎨</summary>
 

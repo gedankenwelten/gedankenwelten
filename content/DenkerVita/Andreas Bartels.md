@@ -6,7 +6,7 @@ tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, deutschland]
 
 # Andreas Bartels — DenkerVita
 
-![[assets/Andreas-Bartels-vita-banner.jpg|1200]]
+![[assets/Andreas-Bartels-vita-banner.jpg|Optische Täuschung aus wellenförmigen Streifen, die links schwarzweiß sind, zur Mitte in Blau und nach rechts in Orange übergehen und sich wie zu einem Strudel verbiegen.|1200]]
 
 <details><summary>🎨</summary>
 

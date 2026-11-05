@@ -8,7 +8,7 @@ tags: [denker-vita, deutschland, geopolitik, krieg, frieden, ukraine, soziale-un
 
 # Jan van Aken — DenkerVita
 
-![[assets/Jan-van-Aken-vita-banner.jpg|1200]]
+![[assets/Jan-van-Aken-vita-banner.jpg|Naturkundliche Tafel in zarten Farben: Eine leere Glasflasche steht in der Mitte zwischen kunstvoll gezeichneten, runden Kleinstlebewesen, umrankt von Blattwerk.|1200]]
 
 <details><summary>🎨</summary>
 

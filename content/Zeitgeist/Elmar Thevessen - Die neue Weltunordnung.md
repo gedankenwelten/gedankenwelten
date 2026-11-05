@@ -19,7 +19,7 @@ aliases:
 
 # Elmar Theveßen — Die neue Weltunordnung
 
-![[assets/die-neue-weltunordnung-banner.jpg|1200]]
+![[assets/die-neue-weltunordnung-banner.jpg|Eine Insel aus kantigem dunklem Fels mit einer Stadt aus gläsernen Kristalltürmen liegt auf schwarzem Wasser, Lichtstrahlen fächern über den Nachthimmel, an den Rändern brechen Splitter ab.|1200]]
 
 <details><summary>🎨</summary>
 

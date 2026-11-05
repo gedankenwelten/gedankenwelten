@@ -18,7 +18,7 @@ aliases:
 
 # Lacina Koné — Afrikas digitale Souveränität
 
-![[assets/Lacina-Kone-Afrikas-digitale-Souveraenitaet-banner.jpg|1200]]
+![[assets/Lacina-Kone-Afrikas-digitale-Souveraenitaet-banner.jpg|Wandbild in Erdtönen: Menschen tragen Kabelrollen und bauen ein Gerüst voller Serverschränke, daneben fließt ein Fluss aus Schrift und Zahlen; unten ein Fries aus Schriftzeichen mit dem Umriss Afrikas aus Leiterbahnen.|1200]]
 
 <details><summary>🎨</summary>
 

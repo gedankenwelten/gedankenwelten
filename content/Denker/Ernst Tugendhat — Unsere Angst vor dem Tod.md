@@ -18,7 +18,7 @@ aliases:
 
 # Ernst Tugendhat — Unsere Angst vor dem Tod
 
-![[assets/Ernst-Tugendhat-Unsere-Angst-vor-dem-Tod-banner.jpg|1200]]
+![[assets/Ernst-Tugendhat-Unsere-Angst-vor-dem-Tod-banner.jpg|Eine kleine Gestalt im Anzug steht in einer hellen Lichtkugel, umgeben von unzähligen leuchtenden Kreisen in Violett, Türkis, Gold und Rot auf dunklem Grund.|1200]]
 
 <details><summary>🎨</summary>
 

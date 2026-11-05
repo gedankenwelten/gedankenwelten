@@ -6,7 +6,7 @@ tags: [denker-vita, israel, frieden, aktivismus]
 
 # Yonatan Zeigen — DenkerVita
 
-![[assets/Yonatan-Zeigen-vita-banner.jpg|1200]]
+![[assets/Yonatan-Zeigen-vita-banner.jpg|Nachtszene: Eine Frau schwebt mit einer weißen Taube vor einer Mondsichel, ein Faden führt zur Kamera eines Jungen auf einer Wiese, unten ein Dorf, in dem ein Haus brennt, dazu eine zweite Taube, ein Ölzweig und ein Paar.|1200]]
 
 <details><summary>🎨</summary>
 

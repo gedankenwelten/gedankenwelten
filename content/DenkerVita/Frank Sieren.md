@@ -8,7 +8,7 @@ tags: [denker-vita, geopolitik, china, journalismus]
 
 # Frank Sieren — DenkerVita
 
-![[assets/Frank-Sieren-banner.jpg|1200]]
+![[assets/Frank-Sieren-banner.jpg|Tuschmalerei: links neblige Berge, Bambus und eine kleine Gestalt in Rot, in der Mitte Baukräne über Gerüsten, rechts Hochhäuser und eine geschwungene Schnellstraße, getrennt von einer feinen goldenen Linie.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, mystik, frankreich]
 
 # Simone Weil — DenkerVita
 
-![[assets/Simone-Weil-vita-banner.jpg|1200]]
+![[assets/Simone-Weil-vita-banner.jpg|Dunkle Werkstatt mit einer alten Druckerpresse, durch ein Fenster fällt ein breiter Lichtstrahl auf den Holzboden, darin hängt ein Senklot über einem Häufchen Körner, daneben ein Hocker mit Brot und Becher und ein paar Ähren.|1200]]
 
 <details><summary>🎨</summary>
 

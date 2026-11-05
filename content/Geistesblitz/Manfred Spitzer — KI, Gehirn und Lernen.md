@@ -23,7 +23,7 @@ aliases:
 
 # Manfred Spitzer — KI, Gehirn und Lernen
 
-![[assets/Manfred-Spitzer-KI-Gehirn-und-Lernen-banner.jpg|1200]]
+![[assets/Manfred-Spitzer-KI-Gehirn-und-Lernen-banner.jpg|Zweigeteilt: links ein warmes Geflecht aus orangen, roten und grünen Kreisen und Strahlen wie Nervenzellen, rechts ein kühles Netz aus hellblauen Linien über einem dunkelblauen Karomuster.|1200]]
 
 <details><summary>🎨</summary>
 

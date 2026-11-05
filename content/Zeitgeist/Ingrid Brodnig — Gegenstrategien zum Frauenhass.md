@@ -24,7 +24,7 @@ stimme:
 
 # Ingrid Brodnig — Gegenstrategien zum Frauenhass
 
-![[assets/Ingrid-Brodnig-Gegenstrategien-zum-Frauenhass-banner.jpg|1200]]
+![[assets/Ingrid-Brodnig-Gegenstrategien-zum-Frauenhass-banner.jpg|Kohlezeichnung: Eine Reihe Frauen steht mit verschränkten Armen Schulter an Schulter auf einer roten Linie, die mittlere im Lichtstrahl blickt nach oben, über sie hinweg fliegen Pfeile und Zettel aus dem Dunkel.|1200]]
 
 <details><summary>🎨</summary>
 

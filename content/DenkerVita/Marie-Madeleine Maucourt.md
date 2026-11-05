@@ -7,7 +7,7 @@ tags: [denker-vita, genossenschaft, arbeit, wirtschaftsdemokratie, frankreich]
 
 # Marie-Madeleine Maucourt — DenkerVita
 
-![[assets/Marie-Madeleine-Maucourt-vita-banner.jpg|1200]]
+![[assets/Marie-Madeleine-Maucourt-vita-banner.jpg|Zarte, helle Zeichnung: Eine weite flache Landschaft mit Feldern, Pappelreihen und Dörfern mit Kirchtürmen, auf einer Landstraße fährt ein kleines Auto mit leuchtenden Scheinwerfern.|1200]]
 
 <details><summary>🎨</summary>
 

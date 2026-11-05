@@ -26,7 +26,7 @@ stimme:
 
 # Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar
 
-![[assets/Ulrike-Herrmann-Technisch-moeglich-oekonomisch-unbezahlbar-banner.jpg|1200]]
+![[assets/Ulrike-Herrmann-Technisch-moeglich-oekonomisch-unbezahlbar-banner.jpg|Pop-Art in Rot, Blau und Gelb: Links eine wuchtige Maschine aus Rohren und Zahnrädern, aus der ein gelber Strahl durch drei Ringe zu einem winzigen Windrad am rechten Rand führt.|1200]]
 
 <details><summary>🎨</summary>
 

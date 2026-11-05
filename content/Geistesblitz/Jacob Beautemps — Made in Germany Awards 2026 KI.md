@@ -28,7 +28,7 @@ stimme:
 
 # Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt
 
-![[assets/jacob-beautemps-miga-ki-banner.jpg|1200]]
+![[assets/jacob-beautemps-miga-ki-banner.jpg|Holzgliederpuppen in einem hellen Treppenhaus: eine mit einem Gestell auf dem Rücken trägt eine Kiste, eine zweite geht die Treppe herab, rechts ein Roboterarm über Glaskolben auf einem Labortisch.|1200]]
 
 <details><summary>🎨</summary>
 

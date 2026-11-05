@@ -16,7 +16,7 @@ aliases:
 
 # Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt
 
-![[assets/ARTE-42-Koennen-wir-uns-aendern-banner.jpg|1200]]
+![[assets/ARTE-42-Koennen-wir-uns-aendern-banner.jpg|In einem dämmrigen Raum sitzen drei verhüllte Gestalten und spinnen leuchtende Fäden, die sie verbinden, um sie schweben gläserne Kugeln mit Blatt, Flamme und Hand, ringsum Uhren und ein Kompass.|1200]]
 
 <details><summary>🎨</summary>
 

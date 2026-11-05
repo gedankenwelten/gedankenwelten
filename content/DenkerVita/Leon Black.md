@@ -6,7 +6,7 @@ tags: [denker-vita, usa, oligarchie, finanzwelt]
 
 # Leon Black — DenkerVita
 
-![[assets/Leon-Black-vita-banner.jpg|1200]]
+![[assets/Leon-Black-vita-banner.jpg|Auf schwarzem Grund ein glänzender Stapel Goldmünzen neben einer Marmorsäule im Lichtkegel, hinten rechts fällt Licht aus einer einen Spalt geöffneten Tür.|1200]]
 
 <details><summary>🎨</summary>
 

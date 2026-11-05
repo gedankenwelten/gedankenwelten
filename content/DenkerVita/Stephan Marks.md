@@ -9,7 +9,7 @@ raetsel: "Zehn fragten die Alten aus. Geschämt haben sich die Fragenden."
 
 # Stephan Marks — DenkerVita
 
-![[assets/Stephan-Marks-vita-banner.jpg|1200]]
+![[assets/Stephan-Marks-vita-banner.jpg|Stillleben: leere Glasflaschen, weiße Schüsseln, ein weißer Krug und ein Wasserglas auf einem schlichten Holztisch vor heller Wand, in kühlem, gedämpftem Licht.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -32,7 +32,7 @@ stimme:
 
 # Hannah Arendt — Zur Person
 
-![[assets/Hannah-Arendt-Zur-Person-banner.jpg|1200]]
+![[assets/Hannah-Arendt-Zur-Person-banner.jpg|Vor einem großen Fenster mit Blick auf einen Hafen mit Dampfer und Möwen sitzt ein Mann, von hinten gesehen, einer grauhaarigen Frau gegenüber, die rauchend und gestikulierend spricht. Zwischen ihnen Wassergläser und ein Aschenbecher.|1200]]
 
 <details><summary>🎨</summary>
 

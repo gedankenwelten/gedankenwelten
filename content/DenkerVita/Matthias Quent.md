@@ -8,7 +8,7 @@ tags: [denker-vita, rechtsextremismus, demokratie, radikalisierung]
 
 # Matthias Quent — DenkerVita
 
-![[assets/Matthias-Quent-banner.jpg|1200]]
+![[assets/Matthias-Quent-banner.jpg|Altmeisterliches Gemälde in Erdtönen: Auf einem weiten Feld redet ein Mann von einem Holzgerüst zu einer aufgewühlten Menge, vorn stehen Menschen an Tischen mit Büchern und Papieren.|1200]]
 
 <details><summary>🎨</summary>
 

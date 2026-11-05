@@ -7,7 +7,7 @@ raetsel: "Auch auf der geschlossenen Station hat jedes Zimmer einen Balkon."
 
 # Manfred Spitzer — DenkerVita
 
-![[assets/Manfred-Spitzer-vita-banner.jpg|1200]]
+![[assets/Manfred-Spitzer-vita-banner.jpg|Sommerlicht über einem Wohnblock: Auf dem langen Balkon steht ein alter Mann allein am Geländer, rechts dahinter die roten Dächer einer Stadt.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, deutschland]
 
 # Marcel Fratzscher — DenkerVita
 
-![[assets/Marcel-Fratzscher-vita-banner.jpg|1200]]
+![[assets/Marcel-Fratzscher-vita-banner.jpg|Leere Architektur in kühlem Licht: Vor einer streng gerasterten Fassade und Hochhäusern steht ein langer leerer Konferenztisch mit einem einzelnen Stuhl.|1200]]
 
 <details><summary>🎨</summary>
 

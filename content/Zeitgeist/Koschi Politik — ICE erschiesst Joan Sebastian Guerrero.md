@@ -16,7 +16,7 @@ aliases:
 
 # ICE erschießt Joan Sebastián Guerrero — der zweite Tote in einer Woche
 
-![[assets/Koschi-Politik-ICE-erschiesst-Juan-Sebastian-Guerrero-banner.jpg|1200]]
+![[assets/Koschi-Politik-ICE-erschiesst-Juan-Sebastian-Guerrero-banner.jpg|Eine amerikanische Vorstadtkreuzung im Abendlicht: Ein weißer Wagen mit verbeulter Front steht quer, dahinter ein dunkler Geländewagen mit Scheinwerfern, an einem Holzhaus hängt eine amerikanische Flagge.|1200]]
 
 <details><summary>🎨</summary>
 

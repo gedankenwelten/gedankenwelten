@@ -19,7 +19,7 @@ tags:
 
 # NoAfD
 
-![[assets/NoAfD-banner.jpg|1200]]
+![[assets/NoAfD-banner.jpg|Karikatur: Ein alter Mann auf einem hohen Stuhl lenkt an Fäden eine Pyramide von Männern in Anzügen, die an einem Einzelnen zerren, rechts eine lange Kette weiterer Männer, dahinter eine zerstörte Stadt, Zeitungen mit den Worten Krise und Spekulation fliegen durch die Luft.|1200]]
 
 <details><summary>🎨</summary>
 

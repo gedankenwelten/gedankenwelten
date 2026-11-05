@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, didaktik, deutschland]
 
 # Walther Ziegler — DenkerVita
 
-![[assets/Walther-Ziegler-vita-banner.jpg|1200]]
+![[assets/Walther-Ziegler-vita-banner.jpg|Bunte Infografik: eine große Stoppuhr zwischen Glühbirne, Waage, Tür, Herz und Fragezeichen, links eine Tafel mit der Aufschrift Alltagsphilosophie, rechts Bücher mit Logik, Ethik und Geist, unten der Schriftzug Die größten Denker in 60 Minuten.|1200]]
 
 <details><summary>🎨</summary>
 

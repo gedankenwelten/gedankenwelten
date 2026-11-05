@@ -7,7 +7,7 @@ raetsel: "Man räumte dem Kind jeden Stein aus dem Weg. Dann stolperte es über 
 
 # Veit Roessner
 
-![[assets/Veit-Roessner-vita-banner.jpg|1200]]
+![[assets/Veit-Roessner-vita-banner.jpg|Aquarell in hellen Farbfeldern: Ein kleiner Junge geht einen geschwungenen Weg entlang, gesäumt von kleinen Steintürmchen, darüber zwei Pfeile und eine große Sonne aus übereinanderliegenden Kreisen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -22,7 +22,7 @@ aliases:
 
 # Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland
 
-![[assets/Nachtsitzung-Die-rechte-Internationale-CPAC-und-sein-Netzwerk-bis-nach-Deutschland-banner.jpg|1200]]
+![[assets/Nachtsitzung-Die-rechte-Internationale-CPAC-und-sein-Netzwerk-bis-nach-Deutschland-banner.jpg|Kolorierte Zeichnung: In einem Ballsaal mit Kronleuchter prosten sich Herren im Frack und eine Frau an einer runden Tafel mit großer Torte zu, an den Wänden Weltkarten mit roten Verbindungslinien, ringsum schattenhaftes Publikum.|1200]]
 
 <details><summary>🎨</summary>
 

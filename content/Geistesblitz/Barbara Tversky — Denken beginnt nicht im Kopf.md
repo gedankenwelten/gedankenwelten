@@ -21,7 +21,7 @@ aliases:
 
 # Barbara Tversky — Denken beginnt nicht im Kopf
 
-![[assets/Barbara-Tversky-Denken-beginnt-nicht-im-Kopf-banner.jpg|1200]]
+![[assets/Barbara-Tversky-Denken-beginnt-nicht-im-Kopf-banner.jpg|Ein muskulöser Mann schreitet weit aus und streckt die Arme nach Diagrammen und Skizzen aus, hinter ihm Strahlen und eine Abfolge von Kreisen, Muscheln und einem krebsartigen Tier, in Erdtönen.|1200]]
 
 <details><summary>🎨</summary>
 

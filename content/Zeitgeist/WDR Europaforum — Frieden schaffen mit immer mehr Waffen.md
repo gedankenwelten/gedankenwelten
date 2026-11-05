@@ -26,7 +26,7 @@ stimme:
 
 # Frieden schaffen mit immer mehr Waffen?
 
-![[assets/WDR-Europaforum-Frieden-schaffen-mit-immer-mehr-Waffen-banner.jpg|1200]]
+![[assets/WDR-Europaforum-Frieden-schaffen-mit-immer-mehr-Waffen-banner.jpg|Eine dunkle, leere Ebene in der Dämmerung, in der Mitte eine kleine erleuchtete Bude, auf die von beiden Seiten je ein einzelner Mensch zugeht; am Himmel eine Reihe runder Öffnungen, durch die Sterne scheinen.|1200]]
 
 <details><summary>🎨</summary>
 

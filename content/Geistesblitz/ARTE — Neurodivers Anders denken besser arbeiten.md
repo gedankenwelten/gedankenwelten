@@ -18,7 +18,7 @@ aliases:
 
 # ARTE Re: — Neurodivers: Anders denken, besser arbeiten?
 
-![[assets/ARTE-Neurodivers-Anders-denken-besser-arbeiten-banner.jpg|1200]]
+![[assets/ARTE-Neurodivers-Anders-denken-besser-arbeiten-banner.jpg|Plakativ in Rot, Gelb und Blau: Drei Roboter mit Menschengesichtern stehen beieinander, einer legt dem anderen die Hand auf die Schulter, links und rechts bunte Zahnradmaschinen.|1200]]
 
 <details><summary>🎨</summary>
 

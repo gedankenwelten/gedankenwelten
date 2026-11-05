@@ -6,7 +6,7 @@ tags: [denker-vita, sucht, psychologie, neurowissenschaft, medizin, deutschland]
 
 # Tobias Rüther — DenkerVita
 
-![[assets/Tobias-Ruether-vita-banner.jpg|1200]]
+![[assets/Tobias-Ruether-vita-banner.jpg|Zeichnung auf ockerfarbenem Grund: Ein Mann im langen Kittel beugt sich zu einem kleineren Mann hinab und reicht ihm die Hand, hinter ihnen ein großes Gehirn, darauf das Wort Würde.|1200]]
 
 <details><summary>🎨</summary>
 

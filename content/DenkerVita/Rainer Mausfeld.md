@@ -6,7 +6,7 @@ tags: [denker-vita, psychologie, medien, macht, demokratie]
 
 # Rainer Mausfeld — DenkerVita
 
-![[assets/Rainer-Mausfeld-vita-banner.jpg|1200]]
+![[assets/Rainer-Mausfeld-vita-banner.jpg|Eine lange Reihe gleich aussehender Schafe steht auf einer grünen Wiese, ein einzelnes Schaf vorn blickt zur Seite, darüber schwebt eine Wolke mit einem Lautsprechertrichter.|1200]]
 
 <details><summary>🎨</summary>
 

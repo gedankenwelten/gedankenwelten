@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, lobbyismus, transparenz, deutschland]
 
 # Marco Bülow
 
-![[assets/Marco-Buelow-vita-banner.jpg|1200]]
+![[assets/Marco-Buelow-vita-banner.jpg|Abendliches Büro: Ein grauhaariger Mann steht mit den Händen in den Taschen am Fenster und blickt auf eine beleuchtete Kuppel, auf dem Tisch unter einer Lampe Papierstapel, ein offenes Buch und ein schwarz-gelber Schal.|1200]]
 
 <details><summary>🎨</summary>
 

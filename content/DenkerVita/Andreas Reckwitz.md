@@ -8,7 +8,7 @@ tags: [denker-vita, soziologie, deutschland, spaetmoderne]
 
 # Andreas Reckwitz
 
-![[assets/Andreas-Reckwitz-vita-banner.jpg|1200]]
+![[assets/Andreas-Reckwitz-vita-banner.jpg|Querschnitt in drei Stockwerken: oben eine Wohnstube und ein Feld mit arbeitenden Menschen vor einem Förderturm, in der Mitte Werkstätten mit Maschinen und Backsteinhäuser, unten Büros mit Bildschirmen, Fahrrädern und Pflanzen.|1200]]
 
 <details><summary>🎨</summary>
 

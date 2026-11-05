@@ -7,7 +7,7 @@ aktualisiert: 2026-09-22
 
 # Christian Wiese — DenkerVita
 
-![[assets/Christian-Wiese-vita-banner.jpg|1200]]
+![[assets/Christian-Wiese-vita-banner.jpg|Federzeichnung mit Ocker: ein Schreibtisch am Fenster mit Petroleumlampe, Büchern, beschriebenen Blättern und Feder, draußen ein Dorf aus Fachwerkhäusern und ein Fluss in hügeliger Landschaft.|1200]]
 
 <details><summary>🎨</summary>
 

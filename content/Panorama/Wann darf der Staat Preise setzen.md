@@ -19,7 +19,7 @@ tags:
 
 # Wann darf der Staat Preise setzen?
 
-![[assets/Wann-darf-der-Staat-Preise-setzen-banner.jpg|1200]]
+![[assets/Wann-darf-der-Staat-Preise-setzen-banner.jpg|Gemälde in einer Markthalle: Eine große Hand schwebt über einer Waage mit Brot und Getreide unter Glasglocken, links stehen Menschen vor einer Frau an, die Essen austeilt, rechts hängt ein Mann Preisschilder an einen Stand voller Schinken, Käse und Obst.|1200]]
 
 <details><summary>🎨</summary>
 

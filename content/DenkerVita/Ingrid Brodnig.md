@@ -6,7 +6,7 @@ tags: [denker-vita, medien, oesterreich, desinformation]
 
 # Ingrid Brodnig — DenkerVita
 
-![[assets/Ingrid-Brodnig-vita-banner.jpg|1200]]
+![[assets/Ingrid-Brodnig-vita-banner.jpg|Bild in Grün, Schwarz und Gold mit Ornamentrahmen: Eine Frau mit Stirnband sitzt an einem Pult und hält eine Feder, vor ihr ein großer leerer heller Kreis, links ein Gewirr aus Dornenranken, rechts verschachtelte goldene Quadrate.|1200]]
 
 <details><summary>🎨</summary>
 

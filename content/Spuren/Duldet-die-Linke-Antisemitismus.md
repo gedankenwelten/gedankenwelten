@@ -20,7 +20,7 @@ description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie dulde
 
 # Duldet die Linke Antisemitismus?
 
-![[assets/Duldet-die-Linke-Antisemitismus-banner.jpg|1200]]
+![[assets/Duldet-die-Linke-Antisemitismus-banner.jpg|Drei Männer mit Hüten spritzen mit einem Schlauch Wasser an die Fassade eines Hauses, aus dem oben Rauch dringt, während unten im Kellerfenster Glut leuchtet, rechts sehen ein älterer Mann, eine Frau und ein Kind zu.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -21,7 +21,7 @@ description: "Nicht die Verletzung ist neu — die gab es immer. Neu ist das Sch
 
 # MONITOR — Irankrieg und das Ende des Völkerrechts?
 
-![[assets/MONITOR-Irankrieg-und-das-Ende-des-Voelkerrechts-banner.jpg|1200]]
+![[assets/MONITOR-Irankrieg-und-das-Ende-des-Voelkerrechts-banner.jpg|Ein riesiges aufgeschlagenes Buch aus Stein mit Paragrafenzeichen liegt auf einer rissigen Ebene und ist in der Mitte gespalten, aus dem Spalt steigt Rauch; am grauen Himmel fliegen Flugzeuge.|1200]]
 
 <details><summary>🎨</summary>
 

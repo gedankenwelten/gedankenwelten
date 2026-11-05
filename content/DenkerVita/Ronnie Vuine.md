@@ -6,7 +6,7 @@ tags: [denker-vita, ki, technologie, robotik, deutschland]
 
 # Ronnie Vuine — DenkerVita
 
-![[assets/Ronnie-Vuine-vita-banner.jpg|1200]]
+![[assets/Ronnie-Vuine-vita-banner.jpg|Dichte Blumenwiese voller Mohn, Margeriten und Rittersporn in goldgesprenkeltem Muster, rechts auf einem Holztisch ein kleiner Roboterarm.|1200]]
 
 <details><summary>🎨</summary>
 

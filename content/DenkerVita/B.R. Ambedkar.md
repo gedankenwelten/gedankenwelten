@@ -6,7 +6,7 @@ tags: [denker-vita, indien, kaste, verfassung, buddhismus]
 
 # B.R. Ambedkar — DenkerVita
 
-![[assets/B-R-Ambedkar-vita-banner.jpg|1200]]
+![[assets/B-R-Ambedkar-vita-banner.jpg|Volkskunst in Rot und Ocker: In der Mitte steht ein Mann im blauen Anzug mit einem Buch vor einem großen Rad; links halten Frauen in Saris ein Seil gespannt bis zu einem Brunnen, hinter dem rechts weitere Frauen stehen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -27,7 +27,7 @@ aliases:
 
 # ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe
 
-![[assets/ARTE-Mit-offenen-Karten-Die-Sojabohne-als-geopolitische-Waffe-banner.jpg|1200]]
+![[assets/ARTE-Mit-offenen-Karten-Die-Sojabohne-als-geopolitische-Waffe-banner.jpg|Sanfte Hügel mit Sojafeldern, eine rote Scheune und Silos, ein Förderband lädt Bohnen auf ein Frachtschiff am Fluss; rechts gestapelte Baumstämme vor dem Regenwald, vorn eine offene Hülse mit Bohnen.|1200]]
 
 <details><summary>🎨</summary>
 

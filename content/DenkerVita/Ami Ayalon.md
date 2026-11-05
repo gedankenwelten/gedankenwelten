@@ -6,7 +6,7 @@ tags: [denker-vita, israel, sicherheit, frieden]
 
 # Ami Ayalon — DenkerVita
 
-![[assets/Ami-Ayalon-vita-banner.jpg|1200]]
+![[assets/Ami-Ayalon-vita-banner.jpg|Holzschnitt: links ein Leuchtturm über einer Festung und hohen Wellen, in der Mitte eine Uniformmütze und ein Orden auf einem Steinblock, rechts ein Olivenbaum.|1200]]
 
 <details><summary>🎨</summary>
 

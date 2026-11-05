@@ -20,7 +20,7 @@ aliases:
 
 # Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer
 
-![[assets/Gilda-con-Arne-20-Humanitaere-Intervention-im-Iran-Boris-Palmer-banner.jpg|1200]]
+![[assets/Gilda-con-Arne-20-Humanitaere-Intervention-im-Iran-Boris-Palmer-banner.jpg|Dreigeteilt: links ein leerer Richtertisch mit Hammer und Papieren, in der Mitte eine schlanke Gestalt mit aufgeschlagenem Buch und Waage, rechts eine Menge mit erhobenen Armen vor bunten Hochhäusern.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -11,7 +11,7 @@ tags:
 
 # Michael Sterner — DenkerVita
 
-![[assets/Michael-Sterner-vita-banner.jpg|1200]]
+![[assets/Michael-Sterner-vita-banner.jpg|Flache Infografik auf Weiß: Windräder und Solarplatten speisen ein Elektrolysegerät mit Wassertropfen, daneben ein Wasserstoffspeicher, rechts Strommasten vor einer Stadt. Englische Beschriftungen für erneuerbaren Strom, Elektrolyseur, Wasser, Wasserstoffspeicher und Netz.|1200]]
 
 <details><summary>🎨</summary>
 

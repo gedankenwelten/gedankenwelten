@@ -6,7 +6,7 @@ tags: [denker-vita, neurowissenschaft, psychologie, anthropologie, liebe, usa]
 
 # Helen Fisher — DenkerVita
 
-![[assets/Helen-Fisher-vita-banner.jpg|1200]]
+![[assets/Helen-Fisher-vita-banner.jpg|Zartes Ornament in Pastell: Zwei Schwäne neigen die Hälse einander zu, darüber Kreise mit einer Flamme, einer Spirale und einem Stern, darunter zwei verschlungene Ringe, umrankt von Blüten.|1200]]
 
 <details><summary>🎨</summary>
 

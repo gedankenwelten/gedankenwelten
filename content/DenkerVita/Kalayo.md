@@ -8,7 +8,7 @@ tags: [denker-vita, usa, medien, youtube]
 
 # Kalayo — DenkerVita
 
-![[assets/Kalayo-vita-banner.jpg|1200]]
+![[assets/Kalayo-vita-banner.jpg|Expressive Zeichnung in Rot, Orange und Violett: Ein Mann mit Kopfhörern sitzt, von hinten gesehen, vor einem Mikrofon zwischen zwei großen Bildschirmen, hinter ihm ein greller Strahlenkranz.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ aliases:
 
 # Anat Saragusti — Zensur und Pressefreiheit in Israel
 
-![[assets/Anat-Saragusti-Zensur-und-Pressefreiheit-in-Israel-banner.jpg|1200]]
+![[assets/Anat-Saragusti-Zensur-und-Pressefreiheit-in-Israel-banner.jpg|Eine riesige dunkle Hand greift nach einem Haufen aus Zeitungen, Fernsehern und Sendemasten; links filmen vier Männer mit Kameras, rechts hält eine Frau ihre Kamera hoch in einen Lichtstrahl.|1200]]
 
 <details><summary>🎨</summary>
 

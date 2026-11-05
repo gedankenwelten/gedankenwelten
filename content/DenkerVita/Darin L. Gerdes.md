@@ -8,7 +8,7 @@ tags: [denker-vita, geopolitik, ukraine, leadership]
 
 # Darin L. Gerdes
 
-![[assets/Darin-L-Gerdes-vita-banner.jpg|1200]]
+![[assets/Darin-L-Gerdes-vita-banner.jpg|Plakat in Blau, Rot und Gold: links eine Sonnenblume, in der Mitte eine helle Gestalt am Rednerpult, von der ein goldener Pfeil über die Umrisse der Ukraine zeigt; rechts Schachfiguren auf einem Brett.|1200]]
 
 <details><summary>🎨</summary>
 

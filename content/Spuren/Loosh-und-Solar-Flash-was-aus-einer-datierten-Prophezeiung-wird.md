@@ -28,7 +28,7 @@ aliases:
 
 # Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird
 
-![[assets/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird-banner.jpg|1200]]
+![[assets/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird-banner.jpg|Ein stiller Abendhimmel in Blaugrau mit Mondsichel, einzelnen Sternen und zarten Wolken, nach unten hin heller.|1200]]
 
 <details><summary>🎨</summary>
 

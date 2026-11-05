@@ -6,7 +6,7 @@ tags: [denker-vita, psychologie, moral, polarisierung, social-media]
 
 # Jonathan Haidt
 
-![[assets/Jonathan-Haidt-vita-banner.jpg|1200]]
+![[assets/Jonathan-Haidt-vita-banner.jpg|Üppiger Dschungel, links in Rot und Orange unter einem Mond, rechts in Blau und Türkis unter einer Sonne, in der Mitte trägt ein grauer Elefant eine kleine Figur auf dem Rücken.|1200]]
 
 <details><summary>🎨</summary>
 

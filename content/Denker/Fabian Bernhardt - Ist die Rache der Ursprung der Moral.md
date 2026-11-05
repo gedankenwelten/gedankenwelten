@@ -21,7 +21,7 @@ stimme:
 
 # Ist die Rache der Ursprung der Moral?
 
-![[assets/Fabian-Bernhardt-Ist-die-Rache-der-Ursprung-der-Moral-banner.jpg|1200]]
+![[assets/Fabian-Bernhardt-Ist-die-Rache-der-Ursprung-der-Moral-banner.jpg|Vor dunklem Sternenhimmel steht eine goldene Waage in einem Ring aus Bahnen; links legt eine Gestalt mit flammendem Haar Feuer in eine Schale, rechts breitet eine helle Gestalt die Arme aus.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -7,7 +7,7 @@ raetsel: "Eine Straße zielt auf die Burg. Ein Kind lernt, wohin sie einmal füh
 
 # Isabella Weber — DenkerVita
 
-![[assets/Isabella-Weber-vita-banner.jpg|1200]]
+![[assets/Isabella-Weber-vita-banner.jpg|Tuschmalerei auf hellem Papier: links Fachwerkhäuser und Körbe mit Brot, rechts ein Haus mit geschwungenem Ziegeldach, dazwischen am Wasser eine Balkenwaage mit zwei blauen Flammen, davor eine einzelne Gestalt.|1200]]
 
 <details><summary>🎨</summary>
 

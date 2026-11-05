@@ -20,7 +20,7 @@ erstellt: 2026-07-25
 
 # Fortschritt
 
-![[assets/Fortschritt-banner.jpg|1200]]
+![[assets/Fortschritt-banner.jpg|Auf hellem Grund steigt neben einer Wendeltreppe ein Bogen aus runden Medaillons mit Maschine, Glühbirne, Fabrik und Ähre auf und endet in einem offenen Kreis, darunter Erdschichten mit einem Riss.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, politikwissenschaft, deutschland, bundesregierung, demokrati
 
 # Albrecht von Lucke — DenkerVita
 
-![[assets/Albrecht-von-Lucke-vita-banner.jpg|1200]]
+![[assets/Albrecht-von-Lucke-vita-banner.jpg|Collage aus Zeitungsschnipseln in Schwarz, Weiß und Rot: oben groß das Wort Demokratie, in der Mitte eine erhobene Hand über einem Rednerpult, ringsum Stimmzettel mit dem Wort Stimme.|1200]]
 
 <details><summary>🎨</summary>
 

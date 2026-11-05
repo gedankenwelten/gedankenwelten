@@ -19,7 +19,7 @@ aliases:
 
 # Adriaan van Wagensveld — Ksitigarbha: Die Wunden als Schatz
 
-![[assets/Adriaan-van-Wagensveld-Ksitigarbha-die-Wunden-als-Schatz-banner.jpg|1200]]
+![[assets/Adriaan-van-Wagensveld-Ksitigarbha-die-Wunden-als-Schatz-banner.jpg|Eine gekrönte Gestalt in prächtigem Gewand mit Heiligenschein und Pilgerstab steht in einer dunklen Höhle und hält ein leuchtendes Juwel; goldene Risse durchziehen den Boden, ringsum dunkle Menschen, oben ein Flammensaum.|1200]]
 
 <details><summary>🎨</summary>
 

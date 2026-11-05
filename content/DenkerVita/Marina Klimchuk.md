@@ -8,7 +8,7 @@ tags: [denker-vita, migration, usa, erinnerungskultur, journalismus]
 
 # Marina Klimchuk — DenkerVita
 
-![[assets/Marina-Klimchuk-vita-banner.jpg|1200]]
+![[assets/Marina-Klimchuk-vita-banner.jpg|Verblasste, geschichtete Szene: Ein Reisebus fährt durch eine öde Ebene, vorn ein abgenutzter Koffer und eine brennende Kerze, am Himmel schimmern zwei Flaggen mit Sternen, in der linken das Gesicht einer Frau.|1200]]
 
 <details><summary>🎨</summary>
 

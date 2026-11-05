@@ -19,7 +19,7 @@ aliases:
 
 # Breaking Lab — CO₂-Geothermie und Factor 2 Energy
 
-![[assets/breaking-lab-co2-geothermie-banner.jpg|1200]]
+![[assets/breaking-lab-co2-geothermie-banner.jpg|Gemalter Querschnitt durch Erdschichten unter einer Ebene mit kleinem Haus, darin ein goldener Kreis, durch den zwei Perlenketten senkrecht laufen, eine in kühlem Blau, eine in warmem Orange.|1200]]
 
 <details><summary>🎨</summary>
 

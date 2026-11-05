@@ -21,7 +21,7 @@ aliases:
 
 # ARTE — Forschung, Fake und faule Tricks
 
-![[assets/ARTE-Forschung-Fake-und-faule-Tricks-banner.jpg|1200]]
+![[assets/ARTE-Forschung-Fake-und-faule-Tricks-banner.jpg|Ein Mann im braunen Anzug bläst grauen Rauch über eine Weltkugel, ein Thermometer und einen Stapel Zeitungen, im Rauch steht das Wort Zweifel.|1200]]
 
 <details><summary>🎨</summary>
 

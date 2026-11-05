@@ -19,7 +19,7 @@ aliases:
 
 # Arnd Henze — Bonhoeffer und die Neue Rechte
 
-![[assets/Arnd-Henze-Bonhoeffer-und-die-Neue-Rechte-banner.jpg|1200]]
+![[assets/Arnd-Henze-Bonhoeffer-und-die-Neue-Rechte-banner.jpg|Drei Felder: Ein Mann mit runder Brille liest in einer Gefängniszelle; Hände in schwarzen Handschuhen gießen Schwarzes und Rotes in einen silbernen Kelch; eine Menge mit roten Armbinden reckt den Kelch, Schilder und Megafone empor.|1200]]
 
 <details><summary>🎨</summary>
 

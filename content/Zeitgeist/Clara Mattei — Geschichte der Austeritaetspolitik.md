@@ -16,7 +16,7 @@ aliases:
 
 # Clara Mattei — Geschichte der Austeritätspolitik
 
-![[assets/Clara-Mattei-Geschichte-der-Austeritaetspolitik-banner.jpg|1200]]
+![[assets/Clara-Mattei-Geschichte-der-Austeritaetspolitik-banner.jpg|Ein dicker Mann mit Zylinder und Aktentasche schüttelt einem gesichtslosen Offizier mit Orden die Hand vor einem Fabriktor mit großer Uhr; ein Seil umschlingt ihre Hände, in den Fenstern der rauchenden Fabriken stehen Arbeiter.|1200]]
 
 <details><summary>🎨</summary>
 

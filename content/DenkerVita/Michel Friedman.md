@@ -8,7 +8,7 @@ tags: [denker-vita, publizistik, philosophie, demokratie, antisemitismus]
 
 # Michel Friedman — DenkerVita
 
-![[assets/Michel-Friedman-vita-banner.jpg|1200]]
+![[assets/Michel-Friedman-vita-banner.jpg|Expressive Grafik: Ein Mann mit erhobener Hand ruft, aus seinem Mund schießen farbige Strahlen mit den englischen Wörtern für Demokratie, Freiheit, Würde und Erinnerung, unten eine Flamme und ein siebenarmiger Leuchter, links drohende Schatten.|1200]]
 
 <details><summary>🎨</summary>
 

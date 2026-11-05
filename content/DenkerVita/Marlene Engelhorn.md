@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, soziale-ungleichheit, kapitalismus, deutschland,
 
 # Marlene Engelhorn — DenkerVita
 
-![[assets/Marlene-Engelhorn-vita-banner.jpg|1200]]
+![[assets/Marlene-Engelhorn-vita-banner.jpg|Knallige Grafik: Aus einer offenen Schatztruhe voller Goldmünzen fließen gelbe Bänder zu einem Kreis aus Menschen, die sich an den Händen halten, und zu Häusern mit den Schildern „Klinik“ und „Schule“, unten recken sich Hände in vielen Farben.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ tags: [denker-vita, literatur, literaturwissenschaft, todesstrafe, gewalt, ethik
 
 # Ève Morisi — DenkerVita
 
-![[assets/Eve-Morisi-vita-banner.jpg|1200]]
+![[assets/Eve-Morisi-vita-banner.jpg|Aquarell in gedämpften Tönen: Auf einem Tisch steigt aus einem beschriebenen Blatt eine Treppe aus Papier auf, darauf ein Vogel, daneben Tintenfass und Feder; durch ein offenes Fenster fällt Licht, hinten blasse gotische Türme.|1200]]
 
 <details><summary>🎨</summary>
 

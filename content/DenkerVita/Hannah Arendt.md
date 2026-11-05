@@ -20,7 +20,7 @@ aliases:
 
 # Hannah Arendt — DenkerVita
 
-![[assets/Hannah-Arendt-vita-banner.jpg|1200]]
+![[assets/Hannah-Arendt-vita-banner.jpg|Abendliche Gasse mit Laternen und Fensterläden: Eine Frau im Mantel sitzt allein an einem kleinen Tisch mit dampfender Tasse und Briefen, neben ihr ein alter Koffer.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -22,7 +22,7 @@ aliases:
 
 # Tom Krebs — Kapital und Krise
 
-![[assets/Tom-Krebs-Kapital-und-Krise-banner.jpg|1200]]
+![[assets/Tom-Krebs-Kapital-und-Krise-banner.jpg|Vor einer grauen Fabrik mit Schornstein halten Soldaten in bunten Uniformen in einer Reihe einen langen Bauplan, vor ihnen eine Reihe Panzer; rechts ein eingerüsteter Turm, am Boden liegen Rotorblätter eines Windrads.|1200]]
 
 <details><summary>🎨</summary>
 

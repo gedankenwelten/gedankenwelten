@@ -18,7 +18,7 @@ tags:
 
 # Michael Hampe — DenkerVita
 
-![[assets/Michael-Hampe-vita-banner.jpg|1200]]
+![[assets/Michael-Hampe-vita-banner.jpg|Tuschmalerei auf altem Papier mit viel Leere: Ein kleiner Vogel sitzt links auf einem dürren Zweig, rechts am Rand ein zweiter Zweig.|1200]]
 
 <details><summary>🎨</summary>
 

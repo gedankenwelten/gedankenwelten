@@ -23,7 +23,7 @@ aliases:
 
 # Shi Heng Yi — Die Auflösung der Identität
 
-![[assets/Shi-Heng-Yi-Aufloesung-der-Identitaet-banner.jpg|1200]]
+![[assets/Shi-Heng-Yi-Aufloesung-der-Identitaet-banner.jpg|Eine Gestalt mit geschlossenen Augen und Heiligenschein vor einem Sternenhimmel; um sie lösen sich durchscheinende Gesichtsmasken und schweben davon, eine Hand greift nach einem leuchtenden Mond, ringsum Blumen und Lichtpunkte.|1200]]
 
 <details><summary>🎨</summary>
 

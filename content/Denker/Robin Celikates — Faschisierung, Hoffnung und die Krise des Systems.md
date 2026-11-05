@@ -37,7 +37,7 @@ stimme:
 
 # Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems
 
-![[assets/Robin-Celikates-Faschisierung-Hoffnung-und-die-Krise-des-Systems-banner.jpg|1200]]
+![[assets/Robin-Celikates-Faschisierung-Hoffnung-und-die-Krise-des-Systems-banner.jpg|Vor einem verfallenen Gebäude mit Schornstein und Schaukel zeigt eine Reihe Menschen mit ausgestreckten Armen über eine Backsteinmauer; davor rennt ein Mann davon, daneben steht eine Familie mit Koffern.|1200]]
 
 <details><summary>🎨</summary>
 

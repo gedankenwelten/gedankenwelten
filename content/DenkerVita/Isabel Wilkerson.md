@@ -6,7 +6,7 @@ tags: [denker-vita, rassismus, kaste, usa]
 
 # Isabel Wilkerson — DenkerVita
 
-![[assets/Isabel-Wilkerson-vita-banner.jpg|1200]]
+![[assets/Isabel-Wilkerson-vita-banner.jpg|Grafik in Grau und Beige: Eine Frau schreibt an einem Pult, hinter ihr fährt ein langer Zug voller Schattengestalten mit Koffern an Telegrafenmasten vorbei, rechts ragt ein Hochhaus auf.|1200]]
 
 <details><summary>🎨</summary>
 

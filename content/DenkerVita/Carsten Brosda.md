@@ -9,7 +9,7 @@ raetsel: "Mit Blick aufs Stadion des Rivalen studiert. Fünf Jahre Toleranz, jed
 
 # Carsten Brosda — DenkerVita
 
-![[assets/Carsten-Brosda-vita-banner.jpg|1200]]
+![[assets/Carsten-Brosda-vita-banner.jpg|Kubistisch gebrochene Hafenszene: Zwischen einem Bohrturm links und einem Frachtschiff mit Kränen rechts steht eine Bühne, auf die drei Sterne Lichtkegel werfen; davor kleine Menschen, am Himmel Drachen.|1200]]
 
 <details><summary>🎨</summary>
 

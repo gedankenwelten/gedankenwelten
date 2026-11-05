@@ -8,7 +8,7 @@ tags: [denker-vita, medizin, wissenschaftskommunikation, körper]
 
 # Giulia Enders — DenkerVita
 
-![[assets/Giulia-Enders-vita-banner.jpg|1200]]
+![[assets/Giulia-Enders-vita-banner.jpg|Lehrtafel im alten Stil: Zwei aufgeschnittene Menschenkörper zeigen die Verdauungsorgane, dazwischen eine gewundene Bahn wie eine Fabrikanlage, auf der kleine Arbeiter mit Schweizer Fähnchen Speisen befördern. Rechts die Überschrift „Der Mensch als Industriepalast“.|1200]]
 
 <details><summary>🎨</summary>
 

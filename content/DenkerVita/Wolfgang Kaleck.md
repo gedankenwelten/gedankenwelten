@@ -6,7 +6,7 @@ tags: [denker-vita, völkerrecht, menschenrechte, deutschland]
 
 # Wolfgang Kaleck — DenkerVita
 
-![[assets/Wolfgang-Kaleck-vita-banner.jpg|1200]]
+![[assets/Wolfgang-Kaleck-vita-banner.jpg|Ein Mann im Anzug weist einladend auf ein riesiges aufgeschlagenes Buch, das eine Gruppe unterschiedlicher Menschen, Erwachsene und Kinder, gemeinsam über den Köpfen trägt.|1200]]
 
 <details><summary>🎨</summary>
 

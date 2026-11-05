@@ -14,7 +14,7 @@ aliases:
 
 # Walther Ziegler — Heidegger in 60 Minuten
 
-![[assets/Walther-Ziegler-Heidegger-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Heidegger-in-60-Minuten-banner.jpg|Ein einsamer Mensch im dunklen Mantel steht auf einem Waldweg zwischen hohen Fichten, vor ihm eine neblige Lichtung in fahlem rosa Licht.|1200]]
 
 <details><summary>🎨</summary>
 

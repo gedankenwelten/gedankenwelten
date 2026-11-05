@@ -6,7 +6,7 @@ tags: [denker-vita, medien, rechtsextremismus, erinnerungskultur]
 
 # Gina Wiedemann — DenkerVita
 
-![[assets/Gina-Wiedemann-vita-banner.jpg|1200]]
+![[assets/Gina-Wiedemann-vita-banner.jpg|Eine junge Frau sitzt vor einer Wand aus Karteikästen und blickt auf ihr Telefon, dessen Licht aufsteigende Namenskärtchen beleuchtet, eine Schublade steht offen.|1200]]
 
 <details><summary>🎨</summary>
 

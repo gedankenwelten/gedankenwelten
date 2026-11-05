@@ -9,7 +9,7 @@ raetsel: "Grüne Murmeln für den Wald. So beginnt ein Parlament."
 
 # Henrike von Scheliha — DenkerVita
 
-![[assets/Henrike-von-Scheliha-vita-banner.jpg|1200]]
+![[assets/Henrike-von-Scheliha-vita-banner.jpg|Papierschnitt in Grün, Blau und Orange: Hände in verschiedenen Hautfarben lassen bunte Kugeln in drei Schalen fallen, umrahmt von großen Blättern.|1200]]
 
 <details><summary>🎨</summary>
 

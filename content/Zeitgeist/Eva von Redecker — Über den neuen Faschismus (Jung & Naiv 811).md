@@ -32,7 +32,7 @@ aliases:
 
 # Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)
 
-![[assets/Eva-von-Redecker-Ueber-den-neuen-Faschismus-Jung-und-Naiv-811-banner.jpg|1200]]
+![[assets/Eva-von-Redecker-Ueber-den-neuen-Faschismus-Jung-und-Naiv-811-banner.jpg|Eine hölzerne Gliederpuppe zielt mit einem Gewehr neben einem Sockel mit gläsernem Globus, rechts unter Arkaden fällt der große Schatten einer unsichtbaren Gestalt, hinten fährt ein Dampfzug durch die leere Ebene.|1200]]
 
 <details><summary>🎨</summary>
 

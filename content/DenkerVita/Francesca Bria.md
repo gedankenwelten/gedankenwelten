@@ -8,7 +8,7 @@ tags: [denker-vita, digitalpolitik, technologie, souveränität, europa]
 
 # Francesca Bria — DenkerVita
 
-![[assets/Francesca-Bria-vita-banner.jpg|1200]]
+![[assets/Francesca-Bria-vita-banner.jpg|Bunter Stadtplatz zwischen Giebelhäusern mit Wimpelketten, der Boden ist eine Leiterplatte. Von beiden Seiten halten Figuren leuchtende Fäden, die zu einem strahlenden Turm aus Zylindern in der Mitte laufen.|1200]]
 
 <details><summary>🎨</summary>
 

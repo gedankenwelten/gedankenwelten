@@ -13,7 +13,7 @@ tags:
 
 # Franziska Görlitz — DenkerVita
 
-![[assets/Franziska-Goerlitz-vita-banner.jpg|1200]]
+![[assets/Franziska-Goerlitz-vita-banner.jpg|Plakat in Rot, Schwarz und Creme: Ein roter Keil mit einem Dollarzeichen stößt in ein großes Auge, dessen Pupille von Kameralinsen umringt ist. Oben der Schriftzug „Schlagt die Weißen mit dem roten Keil“.|1200]]
 
 <details><summary>🎨</summary>
 

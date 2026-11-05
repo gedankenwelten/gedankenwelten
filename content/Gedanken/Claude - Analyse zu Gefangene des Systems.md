@@ -17,7 +17,7 @@ aliases:
 
 # Claude — Analyse zu Gefangene des Systems
 
-![[assets/Claude-Analyse-zu-Gefangene-des-Systems-banner.jpg|1200]]
+![[assets/Claude-Analyse-zu-Gefangene-des-Systems-banner.jpg|Ein großer, kahler Raum mit dunklem Boden: Drei Männer in langen Mänteln stehen oder gehen zwischen weißen Wänden, über dem mittleren schwebt ein kleiner Apfel.|1200]]
 
 <details><summary>🎨</summary>
 

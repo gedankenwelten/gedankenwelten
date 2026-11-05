@@ -20,7 +20,7 @@ aliases:
 
 # KI-Agenten — Vom Dorf zur Zivilisation
 
-![[assets/KI-Agenten-Vom-Dorf-zur-Zivilisation-banner.jpg|1200]]
+![[assets/KI-Agenten-Vom-Dorf-zur-Zivilisation-banner.jpg|Wimmelbild in Erdtönen: Auf einem Dorfplatz zwischen Fachwerkhäusern drängen sich Menschen in alter Tracht, einer steht auf einem Fass und spricht, andere handeln, tragen Fackeln oder stehen in Gruppen, dahinter weites Land.|1200]]
 
 <details><summary>🎨</summary>
 

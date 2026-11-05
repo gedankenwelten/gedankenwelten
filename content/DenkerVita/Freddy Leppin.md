@@ -8,7 +8,7 @@ tags: [denker-vita, medien, umwelt, wissenschaft, technologie, deutschland]
 
 # Freddy Leppin — DenkerVita
 
-![[assets/Freddy-Leppin-banner.jpg|1200]]
+![[assets/Freddy-Leppin-banner.jpg|Flache Grafik in klaren Farben: links Meer mit Wal, Fischschwarm, Containerschiff und treibendem Müll, in der Mitte grünes Land mit Solarfeldern und Windrädern, rechts ein Eisbär auf einer Eisscholle.|1200]]
 
 <details><summary>🎨</summary>
 

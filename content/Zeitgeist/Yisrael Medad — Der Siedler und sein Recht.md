@@ -17,7 +17,7 @@ aliases:
 
 # Yisrael Medad — Der Siedler und sein Recht
 
-![[assets/Yisrael-Medad-Der-Siedler-und-sein-Recht-banner.jpg|1200]]
+![[assets/Yisrael-Medad-Der-Siedler-und-sein-Recht-banner.jpg|Eine Straße teilt das Bild: links eine Siedlung aus weißen Häusern mit roten Dächern und ein Wasserturm auf einem kahlen Hügel hinter einem Zaun, rechts ein Terrassenhang mit Olivenbäumen und einem Kuppelbau.|1200]]
 
 <details><summary>🎨</summary>
 

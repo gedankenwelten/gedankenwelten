@@ -16,7 +16,7 @@ aliases:
 
 # Liya Yu — Der neuropolitische Gesellschaftsvertrag
 
-![[assets/Liya-Yu-Der-neuropolitische-Gesellschaftsvertrag-banner.jpg|1200]]
+![[assets/Liya-Yu-Der-neuropolitische-Gesellschaftsvertrag-banner.jpg|In einem gotischen Saal mit Laborgefäßen sitzen fünf Gestalten in grünen Kleidern an einem langen Tisch, statt Köpfen Glasglocken mit Gehirnen; goldene Fäden laufen zu einem Knoten, auf dem Tisch eine Karte und Kerzen.|1200]]
 
 <details><summary>🎨</summary>
 

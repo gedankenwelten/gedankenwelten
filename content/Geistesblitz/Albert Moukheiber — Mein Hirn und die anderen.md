@@ -18,7 +18,7 @@ aliases:
 
 # Albert Moukheiber — Mein Hirn und die anderen (2/2)
 
-![[assets/Albert-Moukheiber-Mein-Hirn-und-die-anderen-banner.jpg|1200]]
+![[assets/Albert-Moukheiber-Mein-Hirn-und-die-anderen-banner.jpg|Holzschnitt in Indigo und Beige: Ein Vogelschwarm formt am Himmel einen großen Kopf im Profil, darunter zieht eine Schafherde mit Hirten über die Ebene.|1200]]
 
 <details><summary>🎨</summary>
 

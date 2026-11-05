@@ -27,7 +27,7 @@ stimme:
 
 # Marco Bülow — Korrumpiert
 
-![[assets/Marco-Buelow-Korrumpiert-banner.jpg|1200]]
+![[assets/Marco-Buelow-Korrumpiert-banner.jpg|Schwarzweiße Grafik: An einer langen Festtafel sitzen Herren im Smoking, hinter ihnen heben Kellner silberne Glocken von den Tellern, einer der Herren lacht laut.|1200]]
 
 <details><summary>🎨</summary>
 

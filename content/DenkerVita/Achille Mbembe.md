@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, postkolonialismus, geopolitik, demokratie]
 
 # Achille Mbembe — DenkerVita
 
-![[assets/Achille-Mbembe-banner.jpg|1200]]
+![[assets/Achille-Mbembe-banner.jpg|Punktmalerei in Erdtönen: Konzentrische Kreise aus feinen Punkten, verbunden durch rote und helle Linien wie Wege, ziehen sich als Netz über einen braunen Grund.|1200]]
 
 <details><summary>🎨</summary>
 

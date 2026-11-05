@@ -13,7 +13,7 @@ tags:
 
 # Blaise Pascal — DenkerVita
 
-![[assets/Blaise-Pascal-vita-banner.jpg|1200]]
+![[assets/Blaise-Pascal-vita-banner.jpg|Ein junger Mann mit Spitzenkragen beugt sich im Kerzenschein über ein Blatt mit einem Sternmuster, daneben Würfel, ein offenes Buch voller Zahlen und eine messingfarbene Rechenmaschine mit Kurbel.|1200]]
 
 <details><summary>🎨</summary>
 

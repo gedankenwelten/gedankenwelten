@@ -17,7 +17,7 @@ aliases:
 
 # Wendy Brown — Wie Neoliberalismus die Demokratie bedroht
 
-![[assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|1200]]
+![[assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|Aquarell: Eine Burg mit hochgezogener Zugbrücke, daneben ein Stufenbau aus gläsernen Kästchen mit je einem Menschen darin; rechts zerfällt alles in bunte Splitter um das Wort „demos“, unten die englische Zeile „Dinge, die heil scheinen, aber innen hohl sind“.|1200]]
 
 <details><summary>🎨</summary>
 

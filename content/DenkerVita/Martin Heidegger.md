@@ -12,7 +12,7 @@ tags:
 
 # Martin Heidegger — DenkerVita
 
-![[assets/Martin-Heidegger-vita-banner.jpg|1200]]
+![[assets/Martin-Heidegger-vita-banner.jpg|Dunkles, dick gespachteltes Gemälde: Ein Feldweg führt durch einen Nadelwald zu einer einsamen Holzhütte auf einer Lichtung, dahinter heller Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

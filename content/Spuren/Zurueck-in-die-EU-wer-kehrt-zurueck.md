@@ -20,7 +20,7 @@ description: "Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa.
 
 # Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?
 
-![[assets/Zurueck-in-die-EU-wer-kehrt-zurueck-banner.jpg|1200]]
+![[assets/Zurueck-in-die-EU-wer-kehrt-zurueck-banner.jpg|Zarte Zeichnung: Ein Ruderboot liegt im ruhigen Wasser, ein Tau ist an einem Steg festgemacht und zugleich zu drei Felsen mit Seezeichen im Meer gespannt, rechts eine Küste mit Windmühle und Kirchturm.|1200]]
 
 <details><summary>🎨</summary>
 

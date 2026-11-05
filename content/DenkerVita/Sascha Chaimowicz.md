@@ -9,7 +9,7 @@ raetsel: "Zwei Herkünfte wie zwei Schlüssel. Welches Tor öffnet er morgen dem
 
 # Sascha Chaimowicz — DenkerVita
 
-![[assets/Sascha-Chaimowicz-vita-banner.jpg|1200]]
+![[assets/Sascha-Chaimowicz-vita-banner.jpg|Collage: In der Mitte gehen ein Mann und ein Kind mit Schulranzen Hand in Hand durch ein Tor zu einem bunten Wohnblock, links Palme, Meer, Dampfer und Trommeln, rechts zwei Kerzenleuchter, ein Tennisschläger und ein altes Foto einer Dorfstraße.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, medien, deutschland, demokratie]
 
 # Christine Dankbar — DenkerVita
 
-![[assets/Christine-Dankbar-banner.jpg|1200]]
+![[assets/Christine-Dankbar-banner.jpg|Oben groß die Schrift Wer zahlt, wer trägt. Links sitzt ein Mann unter einem Berg von Papieren, in der Mitte eine Waage mit Münzen in der einen und kleinen Menschen in der anderen Schale, rechts ein Säulengebäude, vorn ein offenes Buch.|1200]]
 
 <details><summary>🎨</summary>
 

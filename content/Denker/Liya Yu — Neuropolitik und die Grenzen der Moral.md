@@ -17,7 +17,7 @@ aliases:
 
 # Liya Yu — Neuropolitik und die Grenzen der Moral
 
-![[assets/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral-banner.jpg|1200]]
+![[assets/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral-banner.jpg|Zwei Männer in schwarzen Mänteln und Melonen stehen sich auf einer Terrasse am Meer gegenüber, über dem linken schwebt ein leuchtendes Gehirn; zwischen ihnen hängt ein goldener Bilderrahmen, in dem ein leerer Stuhl steht.|1200]]
 
 <details><summary>🎨</summary>
 

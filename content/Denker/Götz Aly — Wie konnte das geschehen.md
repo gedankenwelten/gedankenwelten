@@ -21,7 +21,7 @@ aliases:
 
 # Götz Aly — Wie konnte das geschehen? Deutschland 1933 bis 1945
 
-![[assets/Goetz-Aly-Wie-konnte-das-geschehen-banner.jpg|1200]]
+![[assets/Goetz-Aly-Wie-konnte-das-geschehen-banner.jpg|Ein endloser, verbrannter Acker mit Furchen unter grauem Himmel, darauf verstreut ein Stuhl, ein Kochtopf, alte Bücher, eine gesprungene Tasse und ein Bilderrahmen; am Horizont glimmt Feuer, am Himmel eine kaum lesbare Handschrift.|1200]]
 
 <details><summary>🎨</summary>
 

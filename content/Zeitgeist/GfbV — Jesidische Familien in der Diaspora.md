@@ -19,7 +19,7 @@ aliases:
 
 # GfbV — Jesidische Familien in der Diaspora
 
-![[assets/GfbV-Jesidische-Familien-in-der-Diaspora-banner.jpg|1200]]
+![[assets/GfbV-Jesidische-Familien-in-der-Diaspora-banner.jpg|Links gehen Frauen mit Kopftüchern und Kinder mit Bündeln und Koffer, rechts sitzen Frauen ohne Gesichter mit Kindern auf einer Bank; dazwischen ein leerer Stuhl im Lichtkegel, oben ein Fries aus Bergspitzen.|1200]]
 
 <details><summary>🎨</summary>
 

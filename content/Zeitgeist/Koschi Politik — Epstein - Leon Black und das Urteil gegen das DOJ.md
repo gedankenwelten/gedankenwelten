@@ -19,7 +19,7 @@ aliases:
 
 # Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ
 
-![[assets/Koschi-Politik-Epstein-Leon-Black-DOJ-banner.jpg|1200]]
+![[assets/Koschi-Politik-Epstein-Leon-Black-DOJ-banner.jpg|Ein Richterhammer liegt auf einem Berg geschwärzter Akten mit englischen Stempeln wie „Geschwärzt“ und „Per Gesetz“, daneben ein leerer Stuhl und ein Telefonhörer; oben ein Banner mit Kampfjet: „Nationale Sicherheit eskaliert, neue Angriffe genehmigt“.|1200]]
 
 <details><summary>🎨</summary>
 

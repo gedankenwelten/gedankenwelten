@@ -9,7 +9,7 @@ raetsel: "Den Schlüssel hält nur, wer verletzt wurde. Er darf ihn auch behalte
 
 # Susanne Boshammer — DenkerVita
 
-![[assets/Susanne-Boshammer-vita-banner.jpg|1200]]
+![[assets/Susanne-Boshammer-vita-banner.jpg|Eine Frau im dunklen Kleid schreibt mit einer Feder an einem langen Tisch mit grüner Decke, in einem holzgetäfelten Saal hängen viele leere goldene Rahmen, Licht fällt durch ein Bleiglasfenster.|1200]]
 
 <details><summary>🎨</summary>
 

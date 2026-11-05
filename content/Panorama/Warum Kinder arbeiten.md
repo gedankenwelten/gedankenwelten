@@ -19,7 +19,7 @@ tags:
 
 # Warum Kinder arbeiten
 
-![[assets/Warum-Kinder-arbeiten-banner.jpg|1200]]
+![[assets/Warum-Kinder-arbeiten-banner.jpg|Wandbild: Ein Mann legt einem Jungen mit Helmlampe und Werkzeug die Hand auf die Schulter vor einem Stollen, rechts tragen Kinder Säcke unter Kakaobäumen, auf dem Hügel darüber ein leeres Schulhaus mit Tafel in hellem Licht.|1200]]
 
 <details><summary>🎨</summary>
 

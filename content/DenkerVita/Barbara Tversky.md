@@ -8,7 +8,7 @@ tags: [denker-vita, psychologie, kognition, embodied-cognition, spatial-cognitio
 
 # Barbara Tversky — DenkerVita
 
-![[assets/Barbara-Tversky-vita-banner.jpg|1200]]
+![[assets/Barbara-Tversky-vita-banner.jpg|Ein Blatt voller Kritzel, Zahlen, Pfeile, Formeln und unleserlicher Handschrift in Grau, Rot und Ocker, von links greift eine gezeichnete Hand hinein.|1200]]
 
 <details><summary>🎨</summary>
 

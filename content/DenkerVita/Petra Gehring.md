@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, demokratie, technologie, datenschutz]
 
 # Petra Gehring — DenkerVita
 
-![[assets/Petra-Gehring-vita-banner.jpg|1200]]
+![[assets/Petra-Gehring-vita-banner.jpg|Flache Grafik auf Grün: Hände in verschiedenen Hautfarben greifen von allen Seiten zu einem Kreis aus Schaltkreisen mit einer goldenen Euromünze in der Mitte, umgeben von Häusern, Brücken, Servern und Sprechblasen.|1200]]
 
 <details><summary>🎨</summary>
 

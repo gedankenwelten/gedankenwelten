@@ -9,7 +9,7 @@ tags: [denker-vita, geschichte, erinnerungskultur, stalinismus, menschenrechte, 
 
 # Irina Scherbakowa — DenkerVita
 
-![[assets/Irina-Scherbakowa-vita-banner.jpg|1200]]
+![[assets/Irina-Scherbakowa-vita-banner.jpg|Holzstube in einer Winternacht: Eine junge Frau mit Tonbandgerät hört einer alten Frau mit Kopftuch zu, zwischen ihnen ein Samowar. Aus seinem Dampf steigen Bilder von Menschen, Häusern, einem Zug und Tieren auf.|1200]]
 
 <details><summary>🎨</summary>
 

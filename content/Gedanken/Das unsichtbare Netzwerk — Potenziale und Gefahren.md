@@ -18,7 +18,7 @@ aliases:
 
 # Das unsichtbare Netzwerk — Potenziale und Gefahren
 
-![[assets/Das-unsichtbare-Netzwerk-Potenziale-und-Gefahren-banner.jpg|1200]]
+![[assets/Das-unsichtbare-Netzwerk-Potenziale-und-Gefahren-banner.jpg|Aquarell in Gelb und Grau: Eine kantige Figur steht in hellem Licht und hält in jeder Hand ein Bündel goldener Fäden, die sich in alle Richtungen ausbreiten, links laufen sie in einer scharfen Spitze zusammen.|1200]]
 
 <details><summary>🎨</summary>
 

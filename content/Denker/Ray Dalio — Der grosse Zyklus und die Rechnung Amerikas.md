@@ -19,7 +19,7 @@ aliases:
 
 # Ray Dalio — Der große Zyklus und die Rechnung Amerikas
 
-![[assets/Ray-Dalio-Der-grosse-Zyklus-und-die-Rechnung-Amerikas-banner.jpg|1200]]
+![[assets/Ray-Dalio-Der-grosse-Zyklus-und-die-Rechnung-Amerikas-banner.jpg|Eine Industrielandschaft aus Silos, Rohren und Hochhaustürmen in kühlen Grau- und Olivtönen, rechts daneben auf leerer heller Fläche ein einzelner großer Tresor mit Drehrad.|1200]]
 
 <details><summary>🎨</summary>
 

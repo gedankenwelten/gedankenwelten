@@ -17,7 +17,7 @@ aliases:
 
 # Michael Sterner — Reiche gegen Marktwirtschaft
 
-![[assets/Michael-Sterner-Reiche-gegen-Marktwirtschaft-banner.jpg|1200]]
+![[assets/Michael-Sterner-Reiche-gegen-Marktwirtschaft-banner.jpg|Wimmelzeichnung unter der Überschrift „Technologieoffenheit“: Eine riesige Maschine aus Zahnrädern, Rohren und Uhren mit zwei Trichtern „Eingang“, ein Rohr führt in einen Mülleimer mit „Abgelehnt“; ringsum kleine Herren mit Zylinder und Klemmbrett.|1200]]
 
 <details><summary>🎨</summary>
 

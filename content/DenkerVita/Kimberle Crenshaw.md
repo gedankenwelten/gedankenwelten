@@ -6,7 +6,7 @@ tags: [denker-vita, usa, rechtsextremismus, philosophie, soziale-ungleichheit]
 
 # Kimberlé Crenshaw — DenkerVita
 
-![[assets/Kimberle-Crenshaw-vita-banner.jpg|1200]]
+![[assets/Kimberle-Crenshaw-vita-banner.jpg|Grafik in Violett und Gold: Auf einem Säulentempel steht eine Frauenfigur und hält ein aufgeschlagenes Buch über den Kopf, umgeben von Lichtringen und Strahlen, zu beiden Seiten zieht eine Reihe Silhouetten vorbei.|1200]]
 
 <details><summary>🎨</summary>
 

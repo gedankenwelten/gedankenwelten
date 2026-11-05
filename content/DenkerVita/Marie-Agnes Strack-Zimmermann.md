@@ -8,7 +8,7 @@ tags: [denker-vita, europa, sicherheitspolitik, fdp]
 
 # Marie-Agnes Strack-Zimmermann — DenkerVita
 
-![[assets/Marie-Agnes-Strack-Zimmermann-vita-banner.jpg|1200]]
+![[assets/Marie-Agnes-Strack-Zimmermann-vita-banner.jpg|Grafik in Blau, Gelb, Rot und Schwarz: Vor einer Festungsmauer mit Zinnen steht ein Wappenschild mit Kompassstern, gekreuzt von goldenen und grünen Lorbeerzweigen, umweht von blau-gelben Bändern.|1200]]
 
 <details><summary>🎨</summary>
 

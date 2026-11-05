@@ -9,7 +9,7 @@ tags: [denker-vita, soziologie, philosophie, beschleunigung, resonanz, moderne, 
 
 # Hartmut Rosa — DenkerVita
 
-![[assets/Hartmut-Rosa-vita-banner.jpg|1200]]
+![[assets/Hartmut-Rosa-vita-banner.jpg|Links ein zersplittertes Gewirr aus Hochhäusern, Straßenbahn, Uhr und hastenden Menschen, rechts sitzt eine stilisierte Figur ruhig mit einem Cello in warmen, kreisenden Lichtringen.|1200]]
 
 <details><summary>🎨</summary>
 

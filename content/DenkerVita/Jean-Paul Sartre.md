@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, existenzialismus, frankreich]
 
 # Jean-Paul Sartre — DenkerVita
 
-![[assets/Jean-Paul-Sartre-vita-banner.jpg|1200]]
+![[assets/Jean-Paul-Sartre-vita-banner.jpg|Schraffierte Zeichnung in Grau: Ein kahles Zimmer mit Mantel und Hut am Haken, geschlossener Tür und Fenster über die Dächer, auf einem kleinen runden Tisch Tasse, Glas, ein voller Aschenbecher, ein Füller und beschriebene Blätter.|1200]]
 
 <details><summary>🎨</summary>
 

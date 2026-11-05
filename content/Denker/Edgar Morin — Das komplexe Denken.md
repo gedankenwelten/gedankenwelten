@@ -19,7 +19,7 @@ aliases:
 
 # Edgar Morin — Das komplexe Denken
 
-![[assets/Edgar-Morin-Das-komplexe-Denken-banner.jpg|1200]]
+![[assets/Edgar-Morin-Das-komplexe-Denken-banner.jpg|Auf altem Papier ein Raster aus Feldern mit Symbolen: Sonne, Stern, Schiff, Fisch, Herz, Spirale, Anker, Baum, Uhr, Auge, Buch und Haus; nach links zerfällt es in lose Splitter.|1200]]
 
 <details><summary>🎨</summary>
 

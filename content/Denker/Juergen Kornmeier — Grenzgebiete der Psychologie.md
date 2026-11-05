@@ -25,7 +25,7 @@ stimme:
 
 # Jürgen Kornmeier — Grenzgebiete der Psychologie
 
-![[assets/Juergen-Kornmeier-Grenzgebiete-der-Psychologie-banner.jpg|1200]]
+![[assets/Juergen-Kornmeier-Grenzgebiete-der-Psychologie-banner.jpg|Drei Quadrate auf hellem Grund: links ineinander geschachtelte Quadrate in Braun, Ocker und Weiß um ein graues Zentrum, in der Mitte ein weiß umrissener Rahmen auf Braun, rechts eine wolkige graue Fläche.|1200]]
 
 <details><summary>🎨</summary>
 

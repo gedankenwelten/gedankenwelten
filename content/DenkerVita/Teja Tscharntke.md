@@ -11,7 +11,7 @@ aliases:
 
 # Teja Tscharntke — DenkerVita
 
-![[assets/Teja-Tscharntke-vita-banner.jpg|1200]]
+![[assets/Teja-Tscharntke-vita-banner.jpg|Nächtlicher Dschungel unter Vollmond: ein Kakaobaum mit gelben und roten Früchten und weißen Blüten, auf einem Ast zwei bunte Vögel, daneben Fledermäuse, um den Stamm ein offener Drahtkäfig.|1200]]
 
 <details><summary>🎨</summary>
 

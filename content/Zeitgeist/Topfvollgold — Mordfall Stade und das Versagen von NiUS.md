@@ -19,7 +19,7 @@ aliases:
 
 # Topfvollgold — Mordfall Stade und das Versagen von NiUS
 
-![[assets/Topfvollgold-Mordfall-Stade-banner.jpg|1200]]
+![[assets/Topfvollgold-Mordfall-Stade-banner.jpg|Karikatur: Ein glatzköpfiger Mann am Schreibtisch brüllt, aus seinem Mund springen Wölfe aus Zeitungspapier mit greifenden Händen; rechts geht eine Frau mit zwei Kindern davon, am Boden ein Fleck und ein zerknülltes Blatt.|1200]]
 
 <details><summary>🎨</summary>
 

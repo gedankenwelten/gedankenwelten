@@ -17,7 +17,7 @@ aliases:
 
 # Catrin Misselhorn — Grundfragen der Maschinenethik
 
-![[assets/Catrin-Misselhorn-Grundfragen-der-Maschinenethik-banner.jpg|1200]]
+![[assets/Catrin-Misselhorn-Grundfragen-der-Maschinenethik-banner.jpg|Vor blauem Himmel steht ein Bilderrahmen auf einer Staffelei, aus dem eine Roboterhand zeigt; von rechts streckt sich ihr eine menschliche Hand im Anzugärmel entgegen.|1200]]
 
 <details><summary>🎨</summary>
 

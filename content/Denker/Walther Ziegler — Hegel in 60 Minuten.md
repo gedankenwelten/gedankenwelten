@@ -19,7 +19,7 @@ aliases:
 
 # Walther Ziegler — Hegel in 60 Minuten
 
-![[assets/Walther-Ziegler-Hegel-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Hegel-in-60-Minuten-banner.jpg|Ein Reiter auf einem Felsen blickt über ein Nebelmeer, aus dem ein griechischer Tempel, eine Burg, eine gotische Kathedrale und rauchende Fabrikschlote ragen; Sonnenstrahlen fallen durch die Wolken.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, technologie, ki, wirtschaft, medien]
 
 # Madlen Nicolaus — DenkerVita
 
-![[assets/Madlen-Nicolaus-vita-banner.jpg|1200]]
+![[assets/Madlen-Nicolaus-vita-banner.jpg|Geometrische Grafik in Rot, Blau und Gelb: Halbkreise und Kreissegmente überlagern sich auf einem Raster mit Zahlen, rechts konzentrische Ringe.|1200]]
 
 <details><summary>🎨</summary>
 

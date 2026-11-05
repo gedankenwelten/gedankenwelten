@@ -21,7 +21,7 @@ aliases:
 
 # Klaus Dörre — Klassen, Kapitalismus & Demokratie
 
-![[assets/Doerre-Klassen-Kapitalismus-und-Demokratie-banner.jpg|1200]]
+![[assets/Doerre-Klassen-Kapitalismus-und-Demokratie-banner.jpg|Eine zerbrochene Mauer teilt das Bild: links Arbeiter in blauen Overalls an einem Fließband mit Autokarosserien, rechts ein Bagger vor einer rostigen Rohranlage am Waldrand; oben auf einer Galerie stehen Männer in Anzügen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, krieg, frieden, militär, kapitalismus, wirtschaft, medien, 
 
 # Ole Nymoen — DenkerVita
 
-![[assets/Ole-Nymoen-vita-banner.jpg|1200]]
+![[assets/Ole-Nymoen-vita-banner.jpg|Winterliches Gemälde wie aus alter Zeit: Auf einem zugefrorenen Teich vor einem riesigen steinernen Denkmal mit Figuren laufen Menschen Schlittschuh, ziehen Schlitten und stürzen, vorn ein Junge mit Schal.|1200]]
 
 <details><summary>🎨</summary>
 

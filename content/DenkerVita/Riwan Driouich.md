@@ -7,7 +7,7 @@ tags: [denker-vita, wirtschaft, kapitalismus, neoliberalismus, faschismus, recht
 
 # Riwan Driouich — DenkerVita
 
-![[assets/Riwan-Driouich-vita-banner.jpg|1200]]
+![[assets/Riwan-Driouich-vita-banner.jpg|Japanischer Holzschnitt: Ein Mann im Kimono liest auf einer Holzbrücke an einem Pult, vor ihm eine Bucht mit Booten und brechenden Wellen, am Horizont rauchende Fabrikschlote unter dunklen Regenwolken.|1200]]
 
 <details><summary>🎨</summary>
 

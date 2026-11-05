@@ -20,7 +20,7 @@ stimme:
 
 # Hans Maggi — Sokotra
 
-![[assets/Hans-Maggi-Sokotra-banner.jpg|1200]]
+![[assets/Hans-Maggi-Sokotra-banner.jpg|Aquarell: Unter einem roten Himmel, auf dem ein feiner Inselumriss schwebt, radelt ein Mensch an schirmförmigen Drachenbäumen vorbei auf ein türkises Meer zu.|1200]]
 
 <details><summary>🎨</summary>
 

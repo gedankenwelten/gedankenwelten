@@ -16,7 +16,7 @@ aliases:
 
 # Albert Moukheiber — Mein Hirn und ich (1/2)
 
-![[assets/Albert-Moukheiber-Mein-Hirn-und-ich-banner.jpg|1200]]
+![[assets/Albert-Moukheiber-Mein-Hirn-und-ich-banner.jpg|Schwarzweiße Op-Art: ein Frauenprofil aus strahlenförmigen Streifen mit großem Auge, aus dem orange Strahlen ausgehen, links schweben weiße Würfel mit orangen Flächen über einem verzerrten Gitter.|1200]]
 
 <details><summary>🎨</summary>
 

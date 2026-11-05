@@ -21,7 +21,7 @@ aliases:
 
 # NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung
 
-![[assets/NANO-Talk-Eliten-Machtmissbrauch-und-Verantwortung-banner.jpg|1200]]
+![[assets/NANO-Talk-Eliten-Machtmissbrauch-und-Verantwortung-banner.jpg|Karikatur: Vier dicke Männer, einer mit Zigarre, tafeln auf einer erhöhten Bühne an einem Tisch mit Blutfleck, daneben ein Tresor; eine Leiter führt hinab, unten zieht eine graue Schlange gebeugter Menschen vorbei.|1200]]
 
 <details><summary>🎨</summary>
 

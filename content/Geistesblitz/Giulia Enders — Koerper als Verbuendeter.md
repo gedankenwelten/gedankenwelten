@@ -18,7 +18,7 @@ aliases:
 
 # Giulia Enders — Körper als Verbündeter
 
-![[assets/Giulia-Enders-Koerper-als-Verbuendeter-banner.jpg|1200]]
+![[assets/Giulia-Enders-Koerper-als-Verbuendeter-banner.jpg|Ein menschlicher Körper als leuchtende Anatomie mit Herz, Lunge, Magen und Darm in warmem Rot, aus ihm wachsen Ranken mit Blättern und Blüten, oben ein kleines Frauengesicht.|1200]]
 
 <details><summary>🎨</summary>
 

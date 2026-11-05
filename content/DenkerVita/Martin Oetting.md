@@ -6,7 +6,7 @@ tags: [denker-vita, demokratie, wirtschaft, deutschland]
 
 # Martin Oetting — DenkerVita
 
-![[assets/Martin-Oetting-banner.jpg|1200]]
+![[assets/Martin-Oetting-banner.jpg|Wandbild in Grün, Ocker und Rosa: Menschen bilden Hand in Hand einen Ring um Werkstätten, Felder, Brot, Bücher und gemeinsame Mahlzeiten. Links ein zerbrochener Kompass im Geröll, daneben ein alter Mann im Gewand.|1200]]
 
 <details><summary>🎨</summary>
 

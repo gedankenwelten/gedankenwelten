@@ -28,7 +28,7 @@ stimme:
 
 # Susanne Weigelin-Schwiedrzik — Amerikas Plan, China in den Krieg zu treiben
 
-![[assets/Susanne-Weigelin-Schwiedrzik-China-in-den-Krieg-treiben-banner.jpg|1200]]
+![[assets/Susanne-Weigelin-Schwiedrzik-China-in-den-Krieg-treiben-banner.jpg|In kantigen Flächen: Zwischen einem schwarzen und einem weißen Ozeanriesen rudert ein einzelner Mensch in einem kleinen Boot, von beiden Schiffen führen Seile zu ihm; dahinter Eisberge.|1200]]
 
 <details><summary>🎨</summary>
 

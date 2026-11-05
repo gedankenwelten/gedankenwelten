@@ -16,7 +16,7 @@ aliases:
 
 # Marcant und Eichi — Ausstieg aus der Neonazi-Szene
 
-![[assets/Marcant-und-Eichi-Ausstieg-aus-der-Neonazi-Szene-banner.jpg|1200]]
+![[assets/Marcant-und-Eichi-Ausstieg-aus-der-Neonazi-Szene-banner.jpg|Ein älterer Mann in grüner Jacke steht auf einer Straße und blickt zu fünf jungen Männern in Fußballtrikots auf einem staubigen Platz mit Tor; links Wohnblocks vor Kiefernwald, am Straßenrand eine Kiste mit leeren Flaschen.|1200]]
 
 <details><summary>🎨</summary>
 

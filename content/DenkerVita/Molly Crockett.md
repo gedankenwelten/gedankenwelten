@@ -8,7 +8,7 @@ tags: [denker-vita, psychologie, neurowissenschaft, moral, social-media, usa]
 
 # Molly Crockett — DenkerVita
 
-![[assets/Molly-Crockett-vita-banner.jpg|1200]]
+![[assets/Molly-Crockett-vita-banner.jpg|Zartes Diagramm in Pastell: Zwei überlappende Kreise, links eine Spirale, rechts viele bunte Punkte, in der Schnittfläche eine rote Flamme, zu beiden Seiten laufen Wellenlinien zu Blattornamenten.|1200]]
 
 <details><summary>🎨</summary>
 

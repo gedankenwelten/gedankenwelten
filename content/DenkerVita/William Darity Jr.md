@@ -6,7 +6,7 @@ tags: [denker-vita, wirtschaft, usa, soziale-ungleichheit, kapitalismus]
 
 # William Darity Jr. — DenkerVita
 
-![[assets/William-Darity-Jr-vita-banner.jpg|1200]]
+![[assets/William-Darity-Jr-vita-banner.jpg|Collage: Ein Mann im Anzug mit gepunkteter Krawatte sitzt auf einem Stuhl, hinter ihm eine Tafel mit Formeln und Tabellen und ein Hafen mit Palmen, rechts ein Stapel alter Bücher, ringsum bunte geometrische Muster.|1200]]
 
 <details><summary>🎨</summary>
 

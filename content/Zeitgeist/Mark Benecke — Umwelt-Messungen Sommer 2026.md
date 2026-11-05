@@ -16,7 +16,7 @@ aliases:
 
 # Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026
 
-![[assets/Mark-Benecke-Umwelt-Messungen-Sommer-2026-banner.jpg|1200]]
+![[assets/Mark-Benecke-Umwelt-Messungen-Sommer-2026-banner.jpg|Feine Naturstudie: Links wuchern Löwenzahn, Doldenblüten und Gräser mit Schmetterlingen, nach rechts wird der Boden kahl und rissig, ein einzelner Käfer krabbelt auf Grabsteine zu.|1200]]
 
 <details><summary>🎨</summary>
 

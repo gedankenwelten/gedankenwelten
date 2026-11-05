@@ -29,7 +29,7 @@ stimme:
 
 # Vermögenssteuer gegen Fake News
 
-![[assets/Thomas-Laschyk-Vermoegenssteuer-gegen-Fake-News-banner.jpg|1200]]
+![[assets/Thomas-Laschyk-Vermoegenssteuer-gegen-Fake-News-banner.jpg|Schwarzweiß mit wenig Farbe: Eine Hand im Nadelstreifenärmel hält einen riesigen Trichter, aus dem Zeitungen, Geldscheine und Handys in eine überflutete Stadt quellen; ein Mann kniet im Wasser und schrubbt, hinten bricht ein Staudamm.|1200]]
 
 <details><summary>🎨</summary>
 

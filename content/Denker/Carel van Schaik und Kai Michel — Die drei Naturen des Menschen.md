@@ -20,7 +20,7 @@ aliases:
 
 # Carel van Schaik & Kai Michel — Die drei Naturen des Menschen
 
-![[assets/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen-banner.jpg|1200]]
+![[assets/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen-banner.jpg|Wandbild in Erdtönen mit ineinanderliegenden Ovalen: Menschen am Lagerfeuer, Bauern bei der Ernte mit Tonkrügen, eine Figur auf einem Thron; rechts geht ein Mann im Mantel auf eine Stadt mit Hochhäusern zu.|1200]]
 
 <details><summary>🎨</summary>
 

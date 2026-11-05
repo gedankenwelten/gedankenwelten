@@ -12,7 +12,7 @@ aliases:
 
 # Thomas Hörren — DenkerVita
 
-![[assets/Thomas-Hoerren-vita-banner.jpg|1200]]
+![[assets/Thomas-Hoerren-vita-banner.jpg|Aquarell: Ein umgestürzter, bemooster Baumstamm im Wald, in seinem Inneren ein Labyrinth aus Gängen, Kammern und kleinen Häusern mit leuchtenden runden Fenstern, bewohnt von Käfern.|1200]]
 
 <details><summary>🎨</summary>
 

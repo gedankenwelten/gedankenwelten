@@ -24,7 +24,7 @@ aliases:
 
 # Raúl Krauthausen — Teilgabe statt Teilhabe
 
-![[assets/Raul-Krauthausen-Teilgabe-statt-Teilhabe-banner.jpg|1200]]
+![[assets/Raul-Krauthausen-Teilgabe-statt-Teilhabe-banner.jpg|In einem Hörsaal sitzen gesichtslose Menschen in grauen Stuhlreihen; auf der Bühne spricht ein Mann im Rollstuhl neben einem Pult, eine einfache Holzrampe führt hinauf, auf dem Boden zwei Rollstuhlsymbole.|1200]]
 
 <details><summary>🎨</summary>
 

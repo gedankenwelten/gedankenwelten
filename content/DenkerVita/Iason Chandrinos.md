@@ -9,7 +9,7 @@ tags: [denker-vita, geschichte, nationalsozialismus, erinnerungskultur, widersta
 
 # Iason Chandrinos — DenkerVita
 
-![[assets/Iason-Chandrinos-vita-banner.jpg|1200]]
+![[assets/Iason-Chandrinos-vita-banner.jpg|Ein Mann sitzt in einem hellen, kargen Raum am Tisch und liest in einer langen Papierrolle, daneben eine Lupe, ein Foto und ein verschnürter Briefstapel, an der Wand eine Landkarte des Mittelmeers.|1200]]
 
 <details><summary>🎨</summary>
 

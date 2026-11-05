@@ -28,7 +28,7 @@ aliases:
 
 # Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?
 
-![[assets/Mithu-Sanyal-und-Seyda-Kurt-Entgegenkommen-wenn-es-feindlich-wird-banner.jpg|1200]]
+![[assets/Mithu-Sanyal-und-Seyda-Kurt-Entgegenkommen-wenn-es-feindlich-wird-banner.jpg|Holzschnitt in Schwarz, Creme und Rot: oben eine nächtliche Stadt mit Kirchtürmen, über der Drohnen kreisen; unten pflanzen drei Menschen Blumen in eine Kiste, während durch die Gasse dahinter Panzer rollen.|1200]]
 
 <details><summary>🎨</summary>
 

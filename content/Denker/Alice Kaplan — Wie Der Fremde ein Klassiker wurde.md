@@ -18,7 +18,7 @@ aliases:
 
 # Alice Kaplan — Wie Der Fremde ein Klassiker wurde
 
-![[assets/Alice-Kaplan-Wie-Der-Fremde-ein-Klassiker-wurde-banner.jpg|1200]]
+![[assets/Alice-Kaplan-Wie-Der-Fremde-ein-Klassiker-wurde-banner.jpg|Federzeichnung: Links steht ein Mann unter greller Sonne am Strand und hält die Hand über die Augen, über das Meer schweben zwei Bücher zu einer Hochhausstadt mit Dampfer.|1200]]
 
 <details><summary>🎨</summary>
 

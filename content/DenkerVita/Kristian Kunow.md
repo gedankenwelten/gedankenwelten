@@ -8,7 +8,7 @@ tags: [denker-vita, medien, deutschland]
 
 # Kristian Kunow — DenkerVita
 
-![[assets/Kristian-Kunow-vita-banner.jpg|1200]]
+![[assets/Kristian-Kunow-vita-banner.jpg|Flache Grafik auf Dunkelgrün: Links Funkmasten auf Hochhäusern, in der Mitte eine Waage, deren rechte Schale ein Schild mit einem Kind trägt, rechts feine Antennenlinien.|1200]]
 
 <details><summary>🎨</summary>
 

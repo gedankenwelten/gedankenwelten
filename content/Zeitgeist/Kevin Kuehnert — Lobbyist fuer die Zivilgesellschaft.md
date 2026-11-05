@@ -18,7 +18,7 @@ aliases:
 
 # Kevin Kühnert — Lobbyist für die Zivilgesellschaft
 
-![[assets/Kevin-Kuehnert-Lobbyist-fuer-die-Zivilgesellschaft-banner.jpg|1200]]
+![[assets/Kevin-Kuehnert-Lobbyist-fuer-die-Zivilgesellschaft-banner.jpg|Wandbild in kräftigen Farben: Eine goldene Waage mit Goldbarren auf der einen und vielen kleinen Menschen auf der anderen Schale; links Bildschirme mit lachenden Politikern, rechts ein Mann mit Megafon vor Zuhörern, unten ein Häuschen mit der Aufschrift „Familie“.|1200]]
 
 <details><summary>🎨</summary>
 

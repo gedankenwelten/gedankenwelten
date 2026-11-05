@@ -26,7 +26,7 @@ stimme:
 
 # Emergence — Das dunkle Wissen der KI
 
-![[assets/Emergence-Das-dunkle-Wissen-der-KI-banner.jpg|1200]]
+![[assets/Emergence-Das-dunkle-Wissen-der-KI-banner.jpg|Ein alter Holzkasten mit drei Fächern: links ein Segelschiffmodell auf einem Eisblock über alten Büchern, in der Mitte ein leuchtend blauer Kristall über Keksen, rechts gelochte Holzleisten, eine geschnitzte Eule und eine gesprungene Schale.|1200]]
 
 <details><summary>🎨</summary>
 

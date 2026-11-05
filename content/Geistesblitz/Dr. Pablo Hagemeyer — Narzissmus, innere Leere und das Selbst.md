@@ -24,7 +24,7 @@ aliases:
 
 # Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst
 
-![[assets/Dr-Pablo-Hagemeyer-Narzissmus-innere-Leere-banner.jpg|1200]]
+![[assets/Dr-Pablo-Hagemeyer-Narzissmus-innere-Leere-banner.jpg|Zeichnung: Ein hagerer, grünlicher Männerkörper trägt eine prunkvolle goldene Maske mit Krone und Strahlenkranz, in seiner Brust klafft ein schwarzes Loch, das er mit den Händen umfasst.|1200]]
 
 <details><summary>🎨</summary>
 

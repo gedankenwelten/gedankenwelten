@@ -21,7 +21,7 @@ aliases:
 
 # Martin Sonneborn — Endloser Krieg
 
-![[assets/Martin-Sonneborn-Endloser-Krieg-banner.jpg|1200]]
+![[assets/Martin-Sonneborn-Endloser-Krieg-banner.jpg|Federzeichnung: Ein riesiges Glücksrad mit Eurozeichen, Fragezeichen und Granaten rollt über ein Weizenfeld zwischen einem Finanzamt und einer rauchenden Fabrik, dahinter ein Panzer; vorn graben Arbeiter im Acker.|1200]]
 
 <details><summary>🎨</summary>
 

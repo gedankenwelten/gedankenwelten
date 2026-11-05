@@ -22,7 +22,7 @@ aliases:
 
 # Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik
 
-![[assets/Uwe-Krueger-Mainstream-und-kritische-Journalistik-banner.jpg|1200]]
+![[assets/Uwe-Krueger-Mainstream-und-kritische-Journalistik-banner.jpg|Ein Schwarm Fische in grünen Kupferstichlinien zieht von links aus einer weißen Fläche hervor und rollt sich rechts zu einer großen Spirale ein; ein einzelner Fisch schwimmt allein darunter.|1200]]
 
 <details><summary>🎨</summary>
 

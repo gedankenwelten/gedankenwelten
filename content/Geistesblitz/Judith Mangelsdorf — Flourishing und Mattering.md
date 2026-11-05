@@ -18,7 +18,7 @@ aliases:
 
 # Judith Mangelsdorf — Flourishing und Mattering
 
-![[assets/Judith-Mangelsdorf-Flourishing-und-Mattering-banner.jpg|1200]]
+![[assets/Judith-Mangelsdorf-Flourishing-und-Mattering-banner.jpg|Flache Malerei: Eine große Runde Menschen sitzt an einem langen Holztisch mit Tellern, in der Mitte eine runde Platte in bunte Stücke geteilt, dahinter große Topfpflanzen.|1200]]
 
 <details><summary>🎨</summary>
 

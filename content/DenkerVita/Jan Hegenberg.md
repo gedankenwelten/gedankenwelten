@@ -8,7 +8,7 @@ tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]
 
 # Jan Hegenberg — DenkerVita
 
-![[assets/Jan-Hegenberg-vita-banner.jpg|1200]]
+![[assets/Jan-Hegenberg-vita-banner.jpg|Comicbild mit Rasterpunkten: Eine fröhliche Batterie hebt den Daumen, über ihr der Knall „Peng“, links ein Windrad, rechts eine Sonne. Sprechblasen ringsum sagen „Mythos“, „Zu teuer“ und „Unzuverlässig“.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -16,7 +16,7 @@ erstellt: 2026-05-14
 
 # Demokratische Wertschöpfung
 
-![[assets/Demokratische-Wertschoepfung-banner.jpg|1200]]
+![[assets/Demokratische-Wertschoepfung-banner.jpg|Wimmelbild: ein Dorf am Fluss mit Fachwerkhäusern, Windmühlen und Windrädern, in der Mitte drängt sich eine Versammlung um einen großen Baum, eine Scheune trägt Solarzellen, Fischer ziehen Netze aus Booten.|1200]]
 
 <details><summary>🎨</summary>
 

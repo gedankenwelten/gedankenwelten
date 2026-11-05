@@ -18,7 +18,7 @@ aliases:
 
 # Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein
 
-![[assets/Die-elastische-Brandmauer-Was-sein-Dogma-abgelegt-hat-darf-rein-banner.jpg|1200]]
+![[assets/Die-elastische-Brandmauer-Was-sein-Dogma-abgelegt-hat-darf-rein-banner.jpg|In einem Gewölbe spannt sich eine durchsichtige, türkis schimmernde Wand mit Blasen, eine Frau in Weiß führt ein hölzernes Pferd auf Rädern an der Leine, eine Gestalt in goldenem Umhang beugt sich vor, hinter der Wand blasse Figuren.|1200]]
 
 <details><summary>🎨</summary>
 

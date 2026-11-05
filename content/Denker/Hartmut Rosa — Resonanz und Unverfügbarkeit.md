@@ -21,7 +21,7 @@ aliases:
 
 # Hartmut Rosa — Resonanz und Unverfügbarkeit
 
-![[assets/Hartmut-Rosa-Resonanz-und-Unverfuegbarkeit-banner.jpg|1200]]
+![[assets/Hartmut-Rosa-Resonanz-und-Unverfuegbarkeit-banner.jpg|Bunte konzentrische Kreise in Rot, Gelb, Blau, Grün und Schwarz: links streicht eine Hand ein Cello, rechts steht ein Baum mit einer Krone aus farbigen Scheiben, dazwischen schwingen Ringe.|1200]]
 
 <details><summary>🎨</summary>
 

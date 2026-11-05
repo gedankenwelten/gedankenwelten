@@ -17,7 +17,7 @@ aliases:
 
 # Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts
 
-![[assets/vandana-shiva-erd-demokratie-banner.jpg|1200]]
+![[assets/vandana-shiva-erd-demokratie-banner.jpg|Volkskunst mit feinen Mustern auf schwarzem Grund: ein Baum, aus dessen Ästen Hände mit goldenen Samen wachsen, in der Mitte ein Korb voller Samen, ringsum Fische und Bienen, links eine Sonne, rechts ein Mond mit Gesicht.|1200]]
 
 <details><summary>🎨</summary>
 

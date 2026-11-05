@@ -29,7 +29,7 @@ stimme:
 
 # BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität
 
-![[assets/BissenBlaBla-Auslaenderkriminalitaet-banner.jpg|1200]]
+![[assets/BissenBlaBla-Auslaenderkriminalitaet-banner.jpg|Zeichnung: Ein Mann auf einer Kiste hält ein Schild mit „40 Prozent“ hoch, dahinter ein riesiger Schatten aus vielen Händen; davor eine lange Reihe kleiner Autos und eine Papierrolle voller Zahlen, die ein Mann mit Lupe prüft.|1200]]
 
 <details><summary>🎨</summary>
 

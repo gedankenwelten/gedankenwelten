@@ -8,7 +8,7 @@ tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerec
 
 # Kevin Kühnert — DenkerVita
 
-![[assets/Kevin-Kuehnert-banner.jpg|1200]]
+![[assets/Kevin-Kuehnert-banner.jpg|Plakatartige Berglandschaft: Ein Mann mit Rucksack wandert, von hinten gesehen, über einen verschneiten Grat, tief unten im Tal liegt ein kleines Kuppelgebäude, über den Gipfeln bricht Sonnenlicht durch die Wolken.|1200]]
 
 <details><summary>🎨</summary>
 

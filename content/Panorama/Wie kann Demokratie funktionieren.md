@@ -17,7 +17,7 @@ tags:
 
 # Wie kann Demokratie funktionieren?
 
-![[assets/Wie-kann-Demokratie-funktionieren-banner.jpg|1200]]
+![[assets/Wie-kann-Demokratie-funktionieren-banner.jpg|Wie ein altes Fresko: Gestalten in langen Gewändern werfen Zettel in Tongefäße auf einem Tisch, eine große Menge hebt die Hände, dahinter eine Hügellandschaft mit Burg.|1200]]
 
 <details><summary>🎨</summary>
 

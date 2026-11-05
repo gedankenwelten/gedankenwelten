@@ -20,7 +20,7 @@ aliases:
 
 # Akkudoktor — Mini-Atomkraftwerke und drei Versprechen
 
-![[assets/Akkudoktor-SMR-und-drei-Versprechen-banner.jpg|1200]]
+![[assets/Akkudoktor-SMR-und-drei-Versprechen-banner.jpg|Zeichnung auf grünem Karopapier: Ein Mann mit Mütze und Taschenrechner hält eine Waage, links ein Kernkraftwerk mit leeren Fahnen, rechts eine gelbe Sonne mit Windrädern; ein langer Rechenstreifen endet in einem Fragezeichen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, kapitalismus, deutschland]
 
 # Heiner Flassbeck — DenkerVita
 
-![[assets/Heiner-Flassbeck-banner.jpg|1200]]
+![[assets/Heiner-Flassbeck-banner.jpg|Grafik in Rot, Blau und Grau: Arbeiter stapeln rote Kisten auf eine Wippe vor Fabrikschloten, daneben ein Schild mit rotem Pfeil nach oben, rechts stehen Männer in einer blauen Schale, in die Rohre führen, und reden mit Gesten.|1200]]
 
 <details><summary>🎨</summary>
 

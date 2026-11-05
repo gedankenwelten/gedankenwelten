@@ -18,7 +18,7 @@ aliases:
 
 # Dror Etkes — Die Landkarte der Besatzung
 
-![[assets/Dror-Etkes-Die-Landkarte-der-Besatzung-banner.jpg|1200]]
+![[assets/Dror-Etkes-Die-Landkarte-der-Besatzung-banner.jpg|Ein Lageplan auf Karopapier mit Höhenlinien, Feldern und rot gepunkteten Flächen, darauf ein Lineal, eine Lupe, ein Zirkel und ein kleines Luftbild.|1200]]
 
 <details><summary>🎨</summary>
 

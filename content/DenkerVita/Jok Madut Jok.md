@@ -6,7 +6,7 @@ tags: [denker-vita, geopolitik, südsudan]
 
 # Jok Madut Jok — DenkerVita
 
-![[assets/Jok-Madut-Jok-vita-banner.jpg|1200]]
+![[assets/Jok-Madut-Jok-vita-banner.jpg|Gemälde in Braun und Gold: Ein Mann in einem Umhang sitzt im Profil vor einer Landkarte, umgeben von beschriebenen Schriftrollen, Häusern, einem Fluss, Sonne, Mond und Sternbildern.|1200]]
 
 <details><summary>🎨</summary>
 

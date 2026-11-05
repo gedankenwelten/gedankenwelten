@@ -6,7 +6,7 @@ tags: [denker-vita, deutschland, demokratie, ki]
 
 # Konstantin Kuhle — DenkerVita
 
-![[assets/Konstantin-Kuhle-vita-banner.jpg|1200]]
+![[assets/Konstantin-Kuhle-vita-banner.jpg|Flächig gemalte Szene: Ein Mann im Anzug spricht am Rednerpult vor einem Parlamentsgebäude mit Glaskuppel, dahinter eine Reihe Menschen, rechts eine große Waage mit einer Überwachungskamera in der einen und einem Buch in der anderen Schale.|1200]]
 
 <details><summary>🎨</summary>
 

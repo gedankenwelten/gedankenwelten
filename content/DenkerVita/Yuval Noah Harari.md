@@ -6,7 +6,7 @@ tags: [denker-vita, geschichte, ki, israel]
 
 # Yuval Noah Harari — DenkerVita
 
-![[assets/Yuval-Noah-Harari-vita-banner.jpg|1200]]
+![[assets/Yuval-Noah-Harari-vita-banner.jpg|Graue Nachtlandschaft: Eine helle Straße führt geradeaus zum Horizont durch ein Feld aus verwitterten, aufgeschlagenen Büchern, am dunklen Himmel Sternbilder.|1200]]
 
 <details><summary>🎨</summary>
 

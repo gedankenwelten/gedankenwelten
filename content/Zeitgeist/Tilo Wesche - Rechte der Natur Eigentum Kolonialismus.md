@@ -18,7 +18,7 @@ aliases:
 
 # Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus
 
-![[assets/tilo-wesche-rechte-der-natur-eigentum-kolonialismus-banner.jpg|1200]]
+![[assets/tilo-wesche-rechte-der-natur-eigentum-kolonialismus-banner.jpg|Ein dichter Dschungel mit Papageien, Affen und einem Reiher am Wasser, vorn ruht ein Tiger; zwischen den Blättern hängt eine goldene Waage.|1200]]
 
 <details><summary>🎨</summary>
 

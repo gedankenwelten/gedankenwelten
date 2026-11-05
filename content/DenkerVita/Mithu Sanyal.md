@@ -9,7 +9,7 @@ raetsel: "Man reichte ihr die Uniform. Sie gab sie zurück, mit einer Pointe."
 
 # Mithu Sanyal — DenkerVita
 
-![[assets/Mithu-Sanyal-vita-banner.jpg|1200]]
+![[assets/Mithu-Sanyal-vita-banner.jpg|Eine Frau sitzt schreibend an einem Holztisch und hebt eine Hand, neben ihr Bücher und ein Paar kleine Kinderschuhe. Im linken Fenster Fachwerkhäuser im Regen, im rechten ein großer Baum in warmem Licht.|1200]]
 
 <details><summary>🎨</summary>
 

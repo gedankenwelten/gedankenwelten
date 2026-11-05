@@ -17,7 +17,7 @@ aliases:
 
 # André Zimpel — DenkerVita
 
-![[assets/Andre-Zimpel-banner.jpg|1200]]
+![[assets/Andre-Zimpel-banner.jpg|Auf hellgelbem Grund leuchten groß die Zahlen 6, 4, 3 und 60 in Rot, Blau, Grün und Gelb, umgeben von Notenlinien, bunten Punkten und Schneeflocken; links Farbsäulen mit konzentrischen Kreisen.|1200]]
 
 <details><summary>🎨</summary>
 

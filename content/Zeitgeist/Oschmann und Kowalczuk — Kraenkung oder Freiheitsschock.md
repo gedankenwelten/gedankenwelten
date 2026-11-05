@@ -31,7 +31,7 @@ stimme:
 
 # Oschmann und Kowalczuk — Kränkung oder Freiheitsschock
 
-![[assets/Oschmann-und-Kowalczuk-Kraenkung-oder-Freiheitsschock-banner.jpg|1200]]
+![[assets/Oschmann-und-Kowalczuk-Kraenkung-oder-Freiheitsschock-banner.jpg|Drei Menschen sitzen schweigend an einem Küchentisch unter einer Lampe, eine ältere Frau, ein älterer Mann und ein junger Mann im Kapuzenpulli; durch das linke Fenster sieht man Fachwerk und einen Dom, durch das rechte eine Fabrik.|1200]]
 
 <details><summary>🎨</summary>
 

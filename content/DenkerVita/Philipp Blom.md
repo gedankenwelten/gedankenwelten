@@ -8,7 +8,7 @@ tags: [denker-vita, geschichte, philosophie, aufklaerung, natur, klimakrise, oes
 
 # Philipp Blom
 
-![[assets/Philipp-Blom-vita-banner.jpg|1200]]
+![[assets/Philipp-Blom-vita-banner.jpg|Stilles, helles Zimmer: Auf einem schlichten Holztisch liegen eine Geige und ein Stapel alter Bücher, daneben ein Stuhl vor dem Fenster mit Blick auf Dächer.|1200]]
 
 <details><summary>🎨</summary>
 

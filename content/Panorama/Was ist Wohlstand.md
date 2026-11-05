@@ -18,7 +18,7 @@ tags:
 
 # Was ist Wohlstand?
 
-![[assets/Was-ist-Wohlstand-banner.jpg|1200]]
+![[assets/Was-ist-Wohlstand-banner.jpg|Gemälde: Unter einem Baum voller Kuchen und Braten liegen drei dicke Männer satt am Boden, rechts hinter einem Zaun teilen Menschen ein einfaches Mahl unter einem Birnbaum, Kinder spielen, dahinter ein Dorf am Meer.|1200]]
 
 <details><summary>🎨</summary>
 

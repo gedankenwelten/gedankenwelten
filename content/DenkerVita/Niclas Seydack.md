@@ -8,7 +8,7 @@ tags: [denker-vita, journalismus, generationen, millennials]
 
 # Niclas Seydack — DenkerVita
 
-![[assets/Niclas-Seydack-vita-banner.jpg|1200]]
+![[assets/Niclas-Seydack-vita-banner.jpg|Flache, freundliche Grafik: Junge Leute mit Kopfhörern, Laptop und Telefon sitzen auf dem Boden und auf den Balkonen eines Wohnhauses, rechts ein großes Ohr, eine Pinnwand, Umzugskartons und ein Notizblock mit unleserlicher Handschrift.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, wirtschaft, neoliberalismus, wirtschaftspolitik, deutschland
 
 # Tom Krebs — DenkerVita
 
-![[assets/Tom-Krebs-vita-banner.jpg|1200]]
+![[assets/Tom-Krebs-vita-banner.jpg|Kubistisch zersplittert in Glas- und Pastelltönen: Ein Mann steht in der Tür eines gläsernen Baus an einem Steg, auf dem Wasser ein graues Kriegsschiff und Segelboote, rechts eine Stadt mit Fabrikschloten und Kränen.|1200]]
 
 <details><summary>🎨</summary>
 

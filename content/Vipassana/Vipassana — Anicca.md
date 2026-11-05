@@ -27,7 +27,7 @@ stimme:
 
 # Vipassana — Anicca (Vergänglichkeit)
 
-![[assets/Vipassana_Anicca.png]]
+![[assets/Vipassana_Anicca.png|Aquarelltafel in Orange und Rot: links ein Wasserglas über einem glühenden Vulkan, in der Mitte eine sitzende Figur, aus der Blasen aufsteigen, mit den Worten entsteht und vergeht, rechts geht eine Figur durch fließende Bänder, darüber der Satz das wird auch vergehen.]]
 
 <details><summary>🎨</summary>
 

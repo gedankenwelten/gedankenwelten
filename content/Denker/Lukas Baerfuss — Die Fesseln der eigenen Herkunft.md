@@ -21,7 +21,7 @@ aliases:
 
 # Lukas Bärfuss — Die Fesseln der eigenen Herkunft
 
-![[assets/Lukas-Baerfuss-Die-Fesseln-der-eigenen-Herkunft-banner.jpg|1200]]
+![[assets/Lukas-Baerfuss-Die-Fesseln-der-eigenen-Herkunft-banner.jpg|Über einem Holzboden ein krakelig gezeichneter, verzweigter Stammbaum aus leeren Kästen; darunter ein offener Pappkarton mit der Aufschrift Banana voller alter Papiere, daneben ein kleines Radio.|1200]]
 
 <details><summary>🎨</summary>
 

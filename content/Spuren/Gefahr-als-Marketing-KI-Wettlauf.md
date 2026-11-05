@@ -18,7 +18,7 @@ description: "Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI das
 
 # Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft
 
-![[assets/Gefahr-als-Marketing-KI-Wettlauf-banner.jpg|1200]]
+![[assets/Gefahr-als-Marketing-KI-Wettlauf-banner.jpg|Plakat in Blau, Gold und Rot: Auf einem leuchtenden Sockel liegt eine silberne Kapsel mit dem Warnschild Zu gefährlich, rote Hände greifen von unten danach, darüber Fahnen mit den Worten Gefahr, Offen, Freiheit und Kontrolle.|1200]]
 
 <details><summary>🎨</summary>
 

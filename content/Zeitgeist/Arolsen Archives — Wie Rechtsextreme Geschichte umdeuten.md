@@ -26,7 +26,7 @@ stimme:
 
 # Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten
 
-![[assets/Arolsen-Archives-Wie-Rechtsextreme-Geschichte-umdeuten-banner.jpg|1200]]
+![[assets/Arolsen-Archives-Wie-Rechtsextreme-Geschichte-umdeuten-banner.jpg|Eine grüne Ebene unter blauem Himmel voller kleiner Namensschilder, über die der lange Schatten eines Mannes mit Melone und Lupe fällt; eine Sprechblase zeigt 271 Tausend.|1200]]
 
 <details><summary>🎨</summary>
 

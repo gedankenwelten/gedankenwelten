@@ -8,7 +8,7 @@ tags: [denker-vita, zukunftsforschung, psychologie, nachhaltigkeit, unternehmert
 
 # Anabel Ternès von Hattburg — DenkerVita
 
-![[assets/Anabel-Ternes-von-Hattburg-vita-banner.jpg|1200]]
+![[assets/Anabel-Ternes-von-Hattburg-vita-banner.jpg|Helle Grafik: Ein grüner Keimling vor einem Gitter, das zu einer gelben Sonne am Horizont führt, ringsum schräge grüne, blaue und gelbe Pfeile, die nach oben zeigen.|1200]]
 
 <details><summary>🎨</summary>
 

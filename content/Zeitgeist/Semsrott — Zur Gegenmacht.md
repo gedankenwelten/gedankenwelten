@@ -18,7 +18,7 @@ aliases:
 
 # Arne Semsrott — Zur Gegenmacht
 
-![[assets/Semsrott-Zur-Gegenmacht-banner.jpg|1200]]
+![[assets/Semsrott-Zur-Gegenmacht-banner.jpg|Querschnitt durch ein zweistöckiges Haus in Blau, Gelb und Rot: Menschen tragen Kisten die Treppen hinauf, kochen in großen Töpfen, sitzen an Tischen und ordnen Akten; oben auf dem Balkon stehen zwei Männer in Anzügen.|1200]]
 
 <details><summary>🎨</summary>
 

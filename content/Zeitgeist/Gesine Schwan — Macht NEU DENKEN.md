@@ -20,7 +20,7 @@ aliases:
 
 # Gesine Schwan — Macht NEU DENKEN
 
-![[assets/Gesine-Schwan-Macht-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Gesine-Schwan-Macht-NEU-DENKEN-banner.jpg|Menschen jeden Alters sitzen lächelnd um einen runden Tisch, auf dem leuchtend „miteinander“ steht; links auf einem kleinen Tisch ruht eine einzelne geballte Faust.|1200]]
 
 <details><summary>🎨</summary>
 

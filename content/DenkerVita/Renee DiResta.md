@@ -8,7 +8,7 @@ tags: [denker-vita, propaganda, medien, desinformation, usa]
 
 # Renée DiResta — DenkerVita
 
-![[assets/Renee-DiResta-vita-banner.jpg|1200]]
+![[assets/Renee-DiResta-vita-banner.jpg|Grafik auf Nachtblau: Zwei große Hände halten Fäden, an denen Roboter- und Menschensymbole, Herzen und Sprechblasen über einem Netz aus Linien hängen.|1200]]
 
 <details><summary>🎨</summary>
 

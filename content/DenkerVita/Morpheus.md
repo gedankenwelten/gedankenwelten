@@ -8,7 +8,7 @@ tags: [denker-vita, ki, technologie, bildung, deutschland]
 
 # Morpheus — DenkerVita
 
-![[assets/Morpheus-vita-banner.jpg|1200]]
+![[assets/Morpheus-vita-banner.jpg|Leuchtend Grün auf Schwarz: Ein Schild aus herabrieselnden Zeichen mit Symbolen für Dokumente und Nutzer und einem Doktorhut, links zersplittern graue App-Symbole, unten eine rot-blaue Kapsel.|1200]]
 
 <details><summary>🎨</summary>
 

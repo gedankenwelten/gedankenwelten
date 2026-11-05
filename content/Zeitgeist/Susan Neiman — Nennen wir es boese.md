@@ -23,7 +23,7 @@ aliases:
 
 # Susan Neiman — Nennen wir es böse
 
-![[assets/Susan-Neiman-Nennen-wir-es-boese-banner.jpg|1200]]
+![[assets/Susan-Neiman-Nennen-wir-es-boese-banner.jpg|Zeichnung: Auf einer schweren Betonplatte tafeln glatzköpfige Herren im Frack vor Münzbergen, am Rand ein Eimer mit einem roten Herz; darunter stemmen eine Pflegerin mit Schürze, ein Polizist und ein Straßenkehrer die Platte auf ihren Schultern.|1200]]
 
 <details><summary>🎨</summary>
 

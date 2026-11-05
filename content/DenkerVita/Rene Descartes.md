@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, rationalismus, frankreich]
 
 # René Descartes — DenkerVita
 
-![[assets/Rene-Descartes-vita-banner.jpg|1200]]
+![[assets/Rene-Descartes-vita-banner.jpg|Dunkle Zeichnung in Sepia und Gold: Ein Torso aus Zahnrädern und Uhrwerk wird von oben angestrahlt, daneben eine brennende Kerze, Lineal und Zirkel, dahinter geometrische Konstruktionen, oben rechts der englische Schriftzug für radikaler Zweifel.|1200]]
 
 <details><summary>🎨</summary>
 

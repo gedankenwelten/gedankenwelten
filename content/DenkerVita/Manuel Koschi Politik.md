@@ -9,7 +9,7 @@ tags: [denker-vita, usa, medien, politik-kommentar, ice, trump]
 
 # Manuel (Koschi Politik) — DenkerVita
 
-![[assets/Manuel-Koschi-Politik-vita-banner.jpg|1200]]
+![[assets/Manuel-Koschi-Politik-vita-banner.jpg|Winterliche Straßenecke in der Dämmerung: Ein leeres, hell erleuchtetes Ladenlokal mit Schreibtisch, Lampe und Kamera auf Stativ, daneben eine amerikanische Flagge, hinten geht eine einzelne Gestalt die verschneite Straße entlang.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -23,7 +23,7 @@ description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht d
 
 # Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?
 
-![[assets/Iran-hat-der-Krieg-das-Regime-gestaerkt-banner.jpg|1200]]
+![[assets/Iran-hat-der-Krieg-das-Regime-gestaerkt-banner.jpg|Eine schwarze Vase mit goldgefüllten Rissen steht auf aufgesprungener, verbrannter Erde, im Hintergrund zerstörte Städte unter dunklen Rauchsäulen.|1200]]
 
 <details><summary>🎨</summary>
 

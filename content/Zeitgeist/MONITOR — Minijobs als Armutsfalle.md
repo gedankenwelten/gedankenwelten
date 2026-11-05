@@ -17,7 +17,7 @@ aliases:
 
 # MONITOR — Minijobs als Armutsfalle
 
-![[assets/MONITOR-Minijobs-als-Armutsfalle-banner.jpg|1200]]
+![[assets/MONITOR-Minijobs-als-Armutsfalle-banner.jpg|Tuschzeichnung: Eine Frau mit Schürze schrubbt mit einem Besen über ein zerrissenes Netz, durch dessen Loch Münzen in die Tiefe fallen; ihr Schatten wird zu einer langen Reihe gebückter Frauen, die ebenfalls schrubben.|1200]]
 
 <details><summary>🎨</summary>
 

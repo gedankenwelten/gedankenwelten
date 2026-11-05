@@ -17,7 +17,7 @@ aliases:
 
 # re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?
 
-![[assets/republica26-Wie-gelingt-die-Energiewende-banner.jpg|1200]]
+![[assets/republica26-Wie-gelingt-die-Energiewende-banner.jpg|Holzschnitt in Schwarz und Orange: Ein Meer dunkler Dächer, über das Strommasten ihre Leitungen spannen; nur eine Straße leuchtet warm, dort stehen Menschen beisammen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 
 # Leonie Heims — DenkerVita
 
-![[assets/Leonie-Heims-vita-banner.jpg|1200]]
+![[assets/Leonie-Heims-vita-banner.jpg|Knalliger Comic: Eine fliegende Untertasse schießt einen Lichtstrahl durch eine aufgeschnittene Erdkugel mit innerer Sonne auf einen Echsenmenschen im Anzug, der in einer Wolke aus Fragezeichen zerspringt, umrahmt von Phantasieschrift.|1200]]
 
 <details><summary>🎨</summary>
 

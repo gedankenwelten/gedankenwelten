@@ -17,7 +17,7 @@ tags:
 
 # Richard David Precht — DenkerVita
 
-![[assets/Richard-David-Precht-vita-banner.jpg|1200]]
+![[assets/Richard-David-Precht-vita-banner.jpg|Detailreiches Gemälde: In einem Fachwerkdorf spricht ein Mann mit einem Buch von einer hölzernen Bühne zu einer großen Menge Bauersleute, links Geistliche in Schwarz, rechts ein Bach mit Holzbrücke und Weide.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, kritische-theorie, sprache, demokratie, deutsch
 
 # Jürgen Habermas — DenkerVita
 
-![[assets/Juergen-Habermas-vita-banner.jpg|1200]]
+![[assets/Juergen-Habermas-vita-banner.jpg|Lebhaftes Aquarell: Ein volles Straßencafé mit Sonnenschirmen vor bunten Fassaden und einer Bogenbrücke, Menschen plaudern mit Zeitungen an kleinen Tischen, über ihnen leere Sprechblasen.|1200]]
 
 <details><summary>🎨</summary>
 

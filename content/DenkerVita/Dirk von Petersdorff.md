@@ -8,7 +8,7 @@ tags: [denker-vita, literaturwissenschaft, lyrik, ironie]
 
 # Dirk von Petersdorff — DenkerVita
 
-![[assets/Dirk-von-Petersdorff-banner.jpg|1200]]
+![[assets/Dirk-von-Petersdorff-banner.jpg|Scherenschnitt auf Blau und Grün: vier Papierhäuser in Blau, Gelb, Rot und Grün, aus deren Türen Licht scheint, dazwischen tanzende Figuren, oben drei Vögel.|1200]]
 
 <details><summary>🎨</summary>
 

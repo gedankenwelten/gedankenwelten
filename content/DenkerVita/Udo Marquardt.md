@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, zeit, deutschland]
 
 # Udo Marquardt — DenkerVita
 
-![[assets/Udo-Marquardt-vita-banner.jpg|1200]]
+![[assets/Udo-Marquardt-vita-banner.jpg|Flache Grafik: In einem Lichtkegel unter einem Kreuz liegt ein aufgeschlagenes Buch, links ein altes Mikrofon, rechts eine Gitarre, dazwischen grüne Wellenbänder mit Musiknoten.|1200]]
 
 <details><summary>🎨</summary>
 

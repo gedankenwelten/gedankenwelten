@@ -8,7 +8,7 @@ tags: [denker-vita, erkenntnistheorie, wissenschaftsphilosophie, deutschland]
 
 # Torsten Wilholt — DenkerVita
 
-![[assets/Torsten-Wilholt-vita-banner.jpg|1200]]
+![[assets/Torsten-Wilholt-vita-banner.jpg|Grafik wie ein Kupferstich: Ein Mann steigt Treppen in einem verschachtelten Mauerwerk aus Zahlentafeln hinauf, in den Torbögen reichen Hände einander kleine Laternen, rechts ein Bach und Häuser im Grünen.|1200]]
 
 <details><summary>🎨</summary>
 

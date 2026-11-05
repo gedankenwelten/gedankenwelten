@@ -9,7 +9,7 @@ tags: [denker-vita, soziologie, generationen, deutschland, soziale-ungleichheit,
 
 # Heinz Bude — DenkerVita
 
-![[assets/Heinz-Bude-vita-banner.jpg|1200]]
+![[assets/Heinz-Bude-vita-banner.jpg|Pastoses Gemälde unter einem wogenden Himmel in Orange und Grün: Eine lange Reihe Gestalten mit weißen, maskenhaften Gesichtern geht über einen Holzsteg.|1200]]
 
 <details><summary>🎨</summary>
 

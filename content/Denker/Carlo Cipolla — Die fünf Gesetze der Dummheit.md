@@ -25,7 +25,7 @@ aliases:
 
 # Carlo Cipolla — Die fünf Gesetze der Dummheit
 
-![[assets/Carlo-Cipolla-Die-fuenf-Gesetze-der-Dummheit-banner.jpg|1200]]
+![[assets/Carlo-Cipolla-Die-fuenf-Gesetze-der-Dummheit-banner.jpg|Zeichnung auf einem Achsenkreuz: oben tauschen zwei Männer Blumen und Händedruck, daneben hält eine Frau einem Kind den Schirm in den Regen; unten schleicht ein maskierter Dieb mit Sack, daneben sägt eine Kritzelfigur ihren eigenen Ast über einem Feuer ab.|1200]]
 
 <details><summary>🎨</summary>
 

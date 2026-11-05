@@ -6,7 +6,7 @@ tags: [denker-vita, usa, trump, medien, demokratie, deutschland]
 
 # Elmar Theveßen — DenkerVita
 
-![[assets/Elmar-Thevessen-vita-banner.jpg|1200]]
+![[assets/Elmar-Thevessen-vita-banner.jpg|Holzschnitt in Schwarz und Weiß: Auf einem Schreibtisch stehen eine Schreibmaschine, ein altes Mikrofon und eine Lampe, durchs Fenster eine Stadt mit Obelisk und Kuppelbau unter Blitzen.|1200]]
 
 <details><summary>🎨</summary>
 

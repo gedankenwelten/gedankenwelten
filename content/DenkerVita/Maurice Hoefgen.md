@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, mmt, deutschland]
 
 # Maurice Höfgen — DenkerVita
 
-![[assets/Maurice-Hoefgen-vita-banner.jpg|1200]]
+![[assets/Maurice-Hoefgen-vita-banner.jpg|Flache Grafik: Von einem Säulengebäude fließen farbige Bänder mit Münzen über eine Tastatur zu Häusern und einem Baum, rechts strecken sich Hände entgegen.|1200]]
 
 <details><summary>🎨</summary>
 

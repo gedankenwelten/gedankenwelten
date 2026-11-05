@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, populismus, politikwissenschaft, deutschland]
 
 # Kolja Möller — DenkerVita
 
-![[assets/Kolja-Moeller-vita-banner.jpg|1200]]
+![[assets/Kolja-Moeller-vita-banner.jpg|Grafik halb in Weiß, halb in Rot: Ein zweigeteiltes, strenges Gesicht mit Menschenmengen zu beiden Seiten und Flussdiagrammen ringsum, vorn ein aufgeschlagenes Buch mit der Überschrift „Verfassung“ und einem Kasten mit dem Wort „Wir“.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ tags: [denker-vita, journalismus, medien, osteuropa, belarus, russland, ukraine,
 
 # Alice Bota — DenkerVita
 
-![[assets/Alice-Bota-vita-banner.jpg|1200]]
+![[assets/Alice-Bota-vita-banner.jpg|Eine Frau im braunen Mantel sitzt in einem gelb erleuchteten Zugabteil, ein Buch auf dem Schoß, und schaut hinaus auf eine verschneite Nachtlandschaft mit Birken und einem erleuchteten Haus.|1200]]
 
 <details><summary>🎨</summary>
 

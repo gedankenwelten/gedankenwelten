@@ -8,7 +8,7 @@ tags: [denker-vita, soziologie, kapitalismus, gewerkschaften, deutschland, wirts
 
 # Klaus Dörre — DenkerVita
 
-![[assets/Klaus-Doerre-vita-banner.jpg|1200]]
+![[assets/Klaus-Doerre-vita-banner.jpg|Gemälde wie ein Wandbild: Links eine Maschine aus Zahnrädern und Rohren, davor eine Reihe gleichförmiger Männer mit nacktem Oberkörper, rechts Felder und Fabriken, nach denen eine große Hand im Anzugärmel greift, darüber ein roter Bogen.|1200]]
 
 <details><summary>🎨</summary>
 

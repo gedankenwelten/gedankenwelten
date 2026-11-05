@@ -16,7 +16,7 @@ aliases:
 
 # Heinz Bude — Brauchen wir eine Boomer-Soziologie?
 
-![[assets/Heinz-Bude-Boomer-Soziologie-banner.jpg|1200]]
+![[assets/Heinz-Bude-Boomer-Soziologie-banner.jpg|Eine Küche wie aus alten Jahren: Ein älterer Mann liest Zeitung, eine Frau sitzt am Tisch, ein junger Mann zieht verwischt vorbei; durch das Fenster sieht man Trümmer und ein Baugerüst.|1200]]
 
 <details><summary>🎨</summary>
 

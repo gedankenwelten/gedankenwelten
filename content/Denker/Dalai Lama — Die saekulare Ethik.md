@@ -23,7 +23,7 @@ stimme:
 
 # Dalai Lama — Die säkulare Ethik
 
-![[assets/Dalai-Lama-Die-saekulare-Ethik-banner.jpg|1200]]
+![[assets/Dalai-Lama-Die-saekulare-Ethik-banner.jpg|Wie ein japanischer Farbholzschnitt: Vor schneebedeckten Bergen stehen Menschen jeden Alters mit Schalen am Ufer eines Flusses, rechts sitzen zwei in einem offenen Holzhaus bei dampfenden Schalen.|1200]]
 
 <details><summary>🎨</summary>
 

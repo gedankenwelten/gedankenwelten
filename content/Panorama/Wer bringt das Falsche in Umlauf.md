@@ -21,7 +21,7 @@ tags:
 
 # Wer bringt das Falsche in Umlauf?
 
-![[assets/Wer-bringt-das-Falsche-in-Umlauf-banner.jpg|1200]]
+![[assets/Wer-bringt-das-Falsche-in-Umlauf-banner.jpg|Zeichnung: Links hält ein Mann einen Wegweiser fest, in der Mitte wirft ein Mann hinter einem Pult eine Wolke kleiner Schilder in die Luft, rechts untersuchen zwei mit großen Lupen Bretter am Boden, über allen leere Denkblasen.|1200]]
 
 <details><summary>🎨</summary>
 

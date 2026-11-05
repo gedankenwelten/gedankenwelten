@@ -8,7 +8,7 @@ tags: [denker-vita, islam, demokratie, philosophie, religionsphilosophie, hermen
 
 # Abdolkarim Soroush — DenkerVita
 
-![[assets/Abdolkarim-Soroush-vita-banner.jpg|1200]]
+![[assets/Abdolkarim-Soroush-vita-banner.jpg|Eine Gestalt im weiten weißen Gewand dreht sich mit ausgebreiteten Armen in einem Wirbel aus Ringen in Rot, Blau, Gold und Schwarz, darüber ein Glaskolben; ein goldener Faden führt nach rechts zu einer kleinen gehenden Silhouette.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -26,7 +26,7 @@ aliases:
 
 # Manfred Spitzer — Hirnforscher Vortrag in Feldbach
 
-![[assets/Manfred-Spitzer-Hirnforscher-Feldbach-banner.jpg|1200]]
+![[assets/Manfred-Spitzer-Hirnforscher-Feldbach-banner.jpg|Auf weißem Grund verbinden schwarze Linien bunte Punkte zu netzartigen Sternen, rechts ein schwarzer Baum mit Wurzeln, dessen Zweige in farbigen Knospen enden.|1200]]
 
 <details><summary>🎨</summary>
 

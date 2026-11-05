@@ -16,7 +16,7 @@ aktualisiert: 17.07.2026
 
 # KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat
 
-![[assets/KALAYO-Epstein-Zensur-banner.jpg|1200]]
+![[assets/KALAYO-Epstein-Zensur-banner.jpg|Ein Großraumbüro bei Nacht: In Reihen von Schreibtischen sitzen Menschen in weißen Hemden über Papierstapel gebeugt und schreiben, vorn eine Leinwand mit Tabelle, an der Wand eine Uhr.|1200]]
 
 <details><summary>🎨</summary>
 

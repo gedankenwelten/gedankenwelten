@@ -26,7 +26,7 @@ aliases:
 
 # Dietrich Bonhoeffer — Theorie der Dummheit
 
-![[assets/Dietrich-Bonhoeffer-Theorie-der-Dummheit-banner.jpg|1200]]
+![[assets/Dietrich-Bonhoeffer-Theorie-der-Dummheit-banner.jpg|Lithografie in Schwarz und Grau: Eine Masse gesenkter Köpfe steht vor einem riesigen Lautsprecher, der Wellen und Steine ausschleudert; oben in einer Mauer ein vergittertes Fenster, hinter dem jemand im Licht schreibt.|1200]]
 
 <details><summary>🎨</summary>
 

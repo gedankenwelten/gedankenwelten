@@ -8,7 +8,7 @@ tags: [denker-vita, iran, nahost, journalismus]
 
 # Natalie Amiri
 
-![[assets/Natalie-Amiri-vita-banner.jpg|1200]]
+![[assets/Natalie-Amiri-vita-banner.jpg|Persische Miniatur mit Ornamentrahmen: Eine Brücke aus Fliesenmustern führt von einem blauen Torbogen mit Zypressen und einem Vogel zu einer grauen europäischen Stadt mit Kuppeln, darauf steht eine Frau, rechts ein Notizblock mit Füller.|1200]]
 
 <details><summary>🎨</summary>
 

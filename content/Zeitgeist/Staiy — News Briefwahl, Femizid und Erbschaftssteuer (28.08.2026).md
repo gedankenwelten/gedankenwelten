@@ -30,7 +30,7 @@ stimme:
 
 # Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)
 
-![[assets/Staiy-News-28-08-2026-banner.jpg|1200]]
+![[assets/Staiy-News-28-08-2026-banner.jpg|Piktogramme in Reihen: Kriegsschiffe, von denen einige fehlen, Briefumschläge, darunter ein schwarzer, eine Reihe Frauenfiguren in Rot, Gelb und Schwarz, unten kleine Häuser; rechts geht eine schwarze Figur aus dem Bild.|1200]]
 
 <details><summary>🎨</summary>
 

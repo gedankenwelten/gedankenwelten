@@ -15,7 +15,7 @@ aliases:
 
 # Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?
 
-![[assets/Walther-Ziegler-Recht-auf-Freiheit-oder-zur-Freiheit-verurteilt-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Recht-auf-Freiheit-oder-zur-Freiheit-verurteilt-banner.jpg|Ein Mann im langen Mantel steht von hinten an einer Weggabelung, links führt der Weg zu antiken Säulenruinen im warmen Licht, rechts zu einer grauen Häuserzeile unter dunklen Wolken.|1200]]
 
 <details><summary>🎨</summary>
 

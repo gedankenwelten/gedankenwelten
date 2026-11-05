@@ -17,7 +17,7 @@ raetsel: "Er fragte zweimal. Beim zweiten Mal hörte man ihn."
 
 # Kann die Mitte auf TikTok mithalten?
 
-![[assets/Kann-die-Mitte-auf-TikTok-mithalten-banner.jpg|1200]]
+![[assets/Kann-die-Mitte-auf-TikTok-mithalten-banner.jpg|Zeichnung: Ein Junge sitzt auf Stufen und blickt auf sein Handy, aus dem ein Strudel schreiender Gesichter, Megafone und eine rote Fahne aufsteigt, gegenüber spricht ein älterer Herr am Pult mit Waage vor leeren Stühlen.|1200]]
 
 <details><summary>🎨</summary>
 

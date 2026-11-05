@@ -6,7 +6,7 @@ tags: [denker-vita, ki, technologie, psychologie, usa]
 
 # Joon Sung Park — DenkerVita
 
-![[assets/Joon-Sung-Park-vita-banner.jpg|1200]]
+![[assets/Joon-Sung-Park-vita-banner.jpg|Nächtlicher Blick durch ein großes Fenster in einen Seminarraum: Ein junger Mann sitzt an einem Tisch vor dem beleuchteten Modell einer kleinen Stadt mit Häusern und winzigen Menschen, dahinter eine Tafel.|1200]]
 
 <details><summary>🎨</summary>
 

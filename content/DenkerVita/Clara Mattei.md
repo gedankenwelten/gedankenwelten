@@ -8,7 +8,7 @@ tags: [denker-vita, kapitalismus, austerität, faschismus]
 
 # Clara Mattei — DenkerVita
 
-![[assets/Clara-Mattei-banner.jpg|1200]]
+![[assets/Clara-Mattei-banner.jpg|Holzschnitt: Unter drei Steinbögen mit den Aufschriften Fiskal, Industrie und Monetär schütteln sich ein Mann mit Zylinder und ein Mann im langen Mantel die Hand; in den Schatten ringsum knien Arbeiter an Kisten.|1200]]
 
 <details><summary>🎨</summary>
 

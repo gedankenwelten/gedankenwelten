@@ -21,7 +21,7 @@ aliases:
 
 # Paul Ricœur — Die zweite Naivität
 
-![[assets/Paul-Ricoeur-Die-zweite-Naivitaet-banner.jpg|1200]]
+![[assets/Paul-Ricoeur-Die-zweite-Naivitaet-banner.jpg|Aquarell: Ein Mann kniet an einem kleinen grünen Wasserbecken neben zwei Krügen, links ein Haufen behauener Steinblöcke, oben ein blauer Streifen Himmel und ein großer blasser Stern.|1200]]
 
 <details><summary>🎨</summary>
 

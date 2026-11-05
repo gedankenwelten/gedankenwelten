@@ -18,7 +18,7 @@ aliases:
 
 # Sari Nusseibeh — Die Geduld des Philosophen
 
-![[assets/Sari-Nusseibeh-Die-Geduld-des-Philosophen-banner.jpg|1200]]
+![[assets/Sari-Nusseibeh-Die-Geduld-des-Philosophen-banner.jpg|Wie eine persische Miniatur mit Blumenrahmen: Auf einem Teppich liegt eine schlafende Frau auf einem Diwan, daneben sitzt eine zweite mit hoher Haube und einem Buch und hebt die Hand; von der Decke hängt ein großer Schlüssel, am Boden ein Krummsäbel.|1200]]
 
 <details><summary>🎨</summary>
 

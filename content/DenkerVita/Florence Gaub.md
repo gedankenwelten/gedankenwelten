@@ -9,7 +9,7 @@ raetsel: "Sie sieht den Brand kommen und lernt, ihn leise anzusagen."
 
 # Florence Gaub — DenkerVita
 
-![[assets/Florence-Gaub-vita-banner.jpg|1200]]
+![[assets/Florence-Gaub-vita-banner.jpg|In einem Gewölbe mit Bogenfenstern sitzen maskierte Gestalten in dunklen Kutten an Pulten, eine spielt an einer Maschine mit Walzen, daneben ein Fernrohr. Weiße Hasen springen durch die Fenster, draußen steht ein Nashorn.|1200]]
 
 <details><summary>🎨</summary>
 

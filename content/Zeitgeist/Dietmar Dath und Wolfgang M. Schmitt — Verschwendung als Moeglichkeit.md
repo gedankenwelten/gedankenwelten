@@ -24,7 +24,7 @@ aliases:
 
 # Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?
 
-![[assets/Dietmar-Dath-und-Wolfgang-M-Schmitt-Verschwendung-als-Moeglichkeit-banner.jpg|1200]]
+![[assets/Dietmar-Dath-und-Wolfgang-M-Schmitt-Verschwendung-als-Moeglichkeit-banner.jpg|Nächtliches Wasser im Nebel, darüber ein Feuerwerk, dessen goldene Funken auf eine Waage am Steg rieseln und über ihre Schalen ins Wasser fallen.|1200]]
 
 <details><summary>🎨</summary>
 

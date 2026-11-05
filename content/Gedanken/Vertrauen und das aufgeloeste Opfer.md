@@ -15,7 +15,7 @@ aliases:
 
 # Vertrauen und das aufgelöste Opfer
 
-![[assets/Vertrauen-und-das-aufgeloeste-Opfer-banner.jpg|1200]]
+![[assets/Vertrauen-und-das-aufgeloeste-Opfer-banner.jpg|Nachtbild: Eine Frau in Weiß fliegt über bunte Dächer und lässt vor einer Mondsichel einen Schwarm goldener Vögel frei, auf einem Dach steht ein Glas Rotwein, rechts spielt eine grüne Ziege Geige.|1200]]
 
 <details><summary>🎨</summary>
 

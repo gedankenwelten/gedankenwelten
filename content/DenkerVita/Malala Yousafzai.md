@@ -8,7 +8,7 @@ tags: [denker-vita, bildung, menschenrechte, feminismus, pakistan]
 
 # Malala Yousafzai — DenkerVita
 
-![[assets/Malala-Yousafzai-vita-banner.jpg|1200]]
+![[assets/Malala-Yousafzai-vita-banner.jpg|Flächige Grafik in Erdtönen: Eine junge Frau mit Kopftuch sitzt im Profil und schreibt in ein Buch, neben ihr Bögen und Flächen in Ocker, Braun und Creme.|1200]]
 
 <details><summary>🎨</summary>
 

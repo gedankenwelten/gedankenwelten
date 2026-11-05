@@ -15,7 +15,7 @@ aliases:
 
 # Walther Ziegler — Buddha in 60 Minuten
 
-![[assets/Walther-Ziegler-Buddha-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Buddha-in-60-Minuten-banner.jpg|Farbholzschnitt: Zwei Mönche in gelben Gewändern gehen auf einem Uferweg an einem blauen See entlang; im Gras am Ufer liegt ein zurückgelassenes Bambusfloß, auf einem Hügel steht eine Kiefer.|1200]]
 
 <details><summary>🎨</summary>
 

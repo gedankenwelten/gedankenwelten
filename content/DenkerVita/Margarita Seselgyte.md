@@ -8,7 +8,7 @@ tags: [denker-vita, geopolitik, europa, nato, russland, krieg, litauen]
 
 # Margarita Šešelgytė — DenkerVita
 
-![[assets/Margarita-Seselgyte-vita-banner.jpg|1200]]
+![[assets/Margarita-Seselgyte-vita-banner.jpg|Eine junge Frau mit traurigem Blick sitzt in einem grauen Raum und drückt ein Buch an die Brust, an der Wand ein Schatten, auf dem Tisch eine weiße Maske und eine Kerze.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # Martin Buber und Emmanuel Levinas — Ich, Du und der Andere
 
-![[assets/Martin-Buber-und-Emmanuel-Levinas-Ich-Du-und-der-Andere-banner.jpg|1200]]
+![[assets/Martin-Buber-und-Emmanuel-Levinas-Ich-Du-und-der-Andere-banner.jpg|Links ein grünhäutiger Mann im Profil, dessen Blick wie ein Lichtstrahl über eine weiße Ziege, Holzhäuser und eine Mondsichel geht; rechts vor Rot und Grün ein kahler Mann im grauen Mantel mit großen Augen, der eine offene Hand reicht.|1200]]
 
 <details><summary>🎨</summary>
 

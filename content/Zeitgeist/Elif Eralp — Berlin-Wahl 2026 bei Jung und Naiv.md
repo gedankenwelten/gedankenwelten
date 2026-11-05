@@ -23,7 +23,7 @@ aliases:
 
 # Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv
 
-![[assets/Elif-Eralp-Berlin-Wahl-2026-bei-Jung-und-Naiv-banner.jpg|1200]]
+![[assets/Elif-Eralp-Berlin-Wahl-2026-bei-Jung-und-Naiv-banner.jpg|Ein Hinterhof voller Wäscheleinen: Alte und Junge sitzen an einer gedeckten Tafel, zwei Jungen spielen mit einem roten Ball, aus den Fenstern schauen Nachbarn; am Rand ein Fahrrad und gestapelter Hausrat mit Matratzen.|1200]]
 
 <details><summary>🎨</summary>
 

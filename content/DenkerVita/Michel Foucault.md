@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, macht, diskurs, frankreich]
 
 # Michel Foucault — DenkerVita
 
-![[assets/Michel-Foucault-banner.jpg|1200]]
+![[assets/Michel-Foucault-banner.jpg|Zeichnung in Sepia: das Innere eines riesigen runden Baus mit Galerien voller Zellenfenster und gewundenen Treppen, ein Lichtstrahl fällt auf einen Turm in der Mitte. Rechts zerfällt die Mauer zu Staub.|1200]]
 
 <details><summary>🎨</summary>
 

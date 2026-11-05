@@ -15,7 +15,7 @@ tags:
 
 # ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent
 
-![[assets/Koschi-Politik-ICE-setzt-neue-Rekorde-banner.jpg|1200]]
+![[assets/Koschi-Politik-ICE-setzt-neue-Rekorde-banner.jpg|Eine leere Straße in der Dämmerung mit geschlossenen Läden: Ein hagerer Mann geht an einem Polizeiwagen mit Blaulicht vorbei, dessen Scheinwerfer ins Leere strahlt; am Horizont steht eine lange Reihe winziger Gestalten.|1200]]
 
 <details><summary>🎨</summary>
 

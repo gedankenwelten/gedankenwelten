@@ -18,7 +18,7 @@ aliases:
 
 # Das Gewebe der Freiheit — Demokratie tiefer als das Wählen
 
-![[assets/Das-Gewebe-der-Freiheit-Demokratie-tiefer-als-das-Waehlen-banner.jpg|1200]]
+![[assets/Das-Gewebe-der-Freiheit-Demokratie-tiefer-als-das-Waehlen-banner.jpg|Gewebter Wandteppich mit Ringen in Rot, Blau und Ocker, darauf eine Kette sich an den Händen haltender Menschen, einer im Rollstuhl, an einer Stelle ist das Gewebe aufgerissen und Fäden hängen herab.|1200]]
 
 <details><summary>🎨</summary>
 

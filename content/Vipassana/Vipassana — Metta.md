@@ -26,7 +26,7 @@ stimme:
 
 # Vipassana — Mettā (Liebende Güte)
 
-![[assets/Vipassana_Metta.png]]
+![[assets/Vipassana_Metta.png|Aquarelltafel: links eine Figur zwischen splitternden Dreiecken, in der Mitte eine leuchtende Gestalt mit Herz in goldenen Ringen, rechts viele kleine Menschen auf einem Weg, darüber der Satz Der geläuterte Geist ist von Natur aus voller Liebe.]]
 
 <details><summary>🎨</summary>
 

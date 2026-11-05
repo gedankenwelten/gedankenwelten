@@ -8,7 +8,7 @@ tags: [denker-vita, religion, ethik, frieden, krieg, militär, deutschland]
 
 # Bernd Tiggemann — DenkerVita
 
-![[assets/Bernd-Tiggemann-vita-banner.jpg|1200]]
+![[assets/Bernd-Tiggemann-vita-banner.jpg|Ein grauhaariger Mann im dunklen Anzug steht von hinten vor einem Spiegel, aus dem ihn sein Ebenbild in Tarnuniform ansieht; ein Raum mit Fenster und roten Wänden.|1200]]
 
 <details><summary>🎨</summary>
 

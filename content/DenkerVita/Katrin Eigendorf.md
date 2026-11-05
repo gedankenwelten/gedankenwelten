@@ -6,7 +6,7 @@ tags: [denker-vita, journalismus, medien, russland, ukraine, deutschland]
 
 # Katrin Eigendorf — DenkerVita
 
-![[assets/Katrin-Eigendorf-vita-banner.jpg|1200]]
+![[assets/Katrin-Eigendorf-vita-banner.jpg|Dunkle Radierung: Eine dichte Menge verhüllter Gestalten drängt sich vor einer Mauer, vorn beugt sich ein Mensch über ein kleines Buch, eine fremde Hand liegt tröstend auf seinem Kopf.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -23,7 +23,7 @@ aliases:
 
 # Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft
 
-![[assets/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft-banner.jpg|1200]]
+![[assets/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft-banner.jpg|Holzschnitt in Schwarz auf Gelb: Querschnitt eines Hauses mit vielen Zimmern, in denen Menschen sitzen, streiten und gestikulieren; ein Riss spaltet das Haus von oben bis unten.|1200]]
 
 <details><summary>🎨</summary>
 

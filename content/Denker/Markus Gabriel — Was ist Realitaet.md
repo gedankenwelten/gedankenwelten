@@ -16,7 +16,7 @@ aliases:
 
 # Markus Gabriel — Was ist Realität?
 
-![[assets/Markus-Gabriel-Was-ist-Realitaet-banner.jpg|1200]]
+![[assets/Markus-Gabriel-Was-ist-Realitaet-banner.jpg|Farbholzschnitt: Vom Gipfel eines schneebedeckten Berges fächern Lichtbahnen in Blau, Rosa, Grün und Gelb über eine Bucht; darunter ein Boot in hohen Wellen, ein Wanderer auf einer Klippe, Menschen an einem Haus und eine Kiefer.|1200]]
 
 <details><summary>🎨</summary>
 

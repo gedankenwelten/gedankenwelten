@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, losverfahren, philosophie, deutschland]
 
 # Ardalan Ibrahim
 
-![[assets/Ardalan-Ibrahim-vita-banner.jpg|1200]]
+![[assets/Ardalan-Ibrahim-vita-banner.jpg|Ein bärtiger Mann im blauen Sakko spricht gestikulierend an einem runden Cafétisch mit Kaffeetasse, Notizbuch und einem Smartphone auf einem Stativ; durchs Fenster eine Kirche mit zwei Zwiebeltürmen bei Nacht.|1200]]
 
 <details><summary>🎨</summary>
 

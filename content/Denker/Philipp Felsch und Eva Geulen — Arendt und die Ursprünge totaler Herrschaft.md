@@ -33,7 +33,7 @@ stimme:
 
 # Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft
 
-![[assets/Philipp-Felsch-und-Eva-Geulen-Arendt-und-die-Urspruenge-totaler-Herrschaft-banner.jpg|1200]]
+![[assets/Philipp-Felsch-und-Eva-Geulen-Arendt-und-die-Urspruenge-totaler-Herrschaft-banner.jpg|Ein weiter, leerer Platz mit Arkaden, einem Turm und einem Zug über den Dächern; links sitzen hölzerne Gliederpuppen an einem Tisch, auf dem Platz stehen eine einzelne Puppe und umgekippte leere Stühle.|1200]]
 
 <details><summary>🎨</summary>
 

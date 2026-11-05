@@ -26,7 +26,7 @@ stimme:
 
 # aspekte — Warum niemand die Nazis aufhielt
 
-![[assets/aspekte-Warum-niemand-die-Nazis-aufhielt-banner.jpg|1200]]
+![[assets/aspekte-Warum-niemand-die-Nazis-aufhielt-banner.jpg|Eine verfallene, runde Halle aus Backstein mit leeren Fenstern unter grauem Himmel, davor in verbrannter Erde zerbrochene Gedenkplatten, durch eine glüht ein roter Riss.|1200]]
 
 <details><summary>🎨</summary>
 

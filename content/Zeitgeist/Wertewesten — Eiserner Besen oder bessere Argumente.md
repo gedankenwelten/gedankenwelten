@@ -21,7 +21,7 @@ aliases:
 
 # Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?
 
-![[assets/Wertewesten-Eiserner-Besen-oder-bessere-Argumente-banner.jpg|1200]]
+![[assets/Wertewesten-Eiserner-Besen-oder-bessere-Argumente-banner.jpg|Sepiaradierung: Auf einer Bühne fegt ein hagerer Mann mit riesigem Besen kleine schwarze Figuren mit Megafonen fort, gegenüber hält ein dicker Mann eine Waage hoch, um ihn wirbeln Papiere; davor das Publikum als Reihen runder Köpfe.|1200]]
 
 <details><summary>🎨</summary>
 

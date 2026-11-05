@@ -9,7 +9,7 @@ tags: [denker-vita, astrophysik, wissenschaft, wissenschaftskommunikation, relig
 
 # Heino Falcke — DenkerVita
 
-![[assets/Heino-Falcke-vita-banner.jpg|1200]]
+![[assets/Heino-Falcke-vita-banner.jpg|Kantig gebrochene Nachtszene in Blau und Violett: Neben einer Dorfkirche mit spitzem Turm richtet sich ein großes Radioteleskop in den Sternenhimmel, darüber schwebt ein leuchtender Ring zwischen Lichtstrahlen.|1200]]
 
 <details><summary>🎨</summary>
 

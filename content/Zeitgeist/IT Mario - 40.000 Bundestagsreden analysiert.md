@@ -18,7 +18,7 @@ aliases:
 
 # IT Mario — 40.000 Bundestagsreden analysiert
 
-![[assets/IT-Mario-40000-Bundestagsreden-banner.jpg|1200]]
+![[assets/IT-Mario-40000-Bundestagsreden-banner.jpg|Aquarell: Viele kleine Strichfiguren sitzen in einem halbrunden Plenarsaal, darüber schweben bunte Sprechblasen und rote Zacken, von einem großen Auge oben laufen Linien zu ihnen.|1200]]
 
 <details><summary>🎨</summary>
 

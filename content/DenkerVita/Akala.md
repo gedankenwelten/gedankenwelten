@@ -6,7 +6,7 @@ tags: [denker-vita, rassismus, kolonialismus, grossbritannien]
 
 # Akala — DenkerVita
 
-![[assets/Akala-vita-banner.jpg|1200]]
+![[assets/Akala-vita-banner.jpg|Collage: Ein junger Mann mit geflochtenem Haar singt vor einem goldenen Kreis in ein Mikrofon, sein Körper aus Zeitungsausschnitten; links eine Schallplatte und eine Landkarte, rechts Backsteinhäuser und ein Hochhaus.|1200]]
 
 <details><summary>🎨</summary>
 

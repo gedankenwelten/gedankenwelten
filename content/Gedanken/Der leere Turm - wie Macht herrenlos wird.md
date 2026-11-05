@@ -17,7 +17,7 @@ aliases:
 
 # Der leere Turm — wie Macht herrenlos wird
 
-![[assets/Der-leere-Turm-wie-Macht-herrenlos-wird-banner.jpg|1200]]
+![[assets/Der-leere-Turm-wie-Macht-herrenlos-wird-banner.jpg|Ein weiter Platz mit Arkaden in der Dämmerung, in der Mitte ein hoher Turm mit einem leeren Thron im erleuchteten Fenster, darunter fallen Würfel herab, auf dem Platz recken Gliederpuppen kleine Lichter in die Höhe.|1200]]
 
 <details><summary>🎨</summary>
 

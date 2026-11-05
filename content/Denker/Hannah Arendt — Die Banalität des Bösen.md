@@ -21,7 +21,7 @@ aliases:
 
 # Hannah Arendt — Die Banalität des Bösen
 
-![[assets/Hannah-Arendt-Die-Banalitaet-des-Boesen-banner.jpg|1200]]
+![[assets/Hannah-Arendt-Die-Banalitaet-des-Boesen-banner.jpg|Endlose Reihen gleicher Schreibtische mit gesichtslosen grauen Beamten, vorn einer in orangefarbenem Anzug auf einem Holzstuhl über Papieren; der Boden ist mit Blättern bedeckt, dazwischen gelbliche Pilzgeflechte.|1200]]
 
 <details><summary>🎨</summary>
 

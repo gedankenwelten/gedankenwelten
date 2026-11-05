@@ -19,7 +19,7 @@ tags:
 
 # Was ist Großzügigkeit?
 
-![[assets/Was-ist-Grosszuegigkeit-banner.jpg|1200]]
+![[assets/Was-ist-Grosszuegigkeit-banner.jpg|Gemälde eines Erntefelds: Zwei Bäuerinnen mit Kopftuch binden Garben, ein kleiner Junge reicht einer von ihnen Ähren, dahinter ein hoch beladener Heuwagen mit Pferd.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, geopolitik, kapitalismus, populismus, indien]
 
 # Pankaj Mishra — DenkerVita
 
-![[assets/Pankaj-Mishra-vita-banner.jpg|1200]]
+![[assets/Pankaj-Mishra-vita-banner.jpg|Ein junger Mann sitzt im Schneidersitz auf einer Terrasse und liest, umgeben von Bücherstapeln, links Terrassenfelder an Berghängen, rechts in der Ferne eine Hochhausstadt.|1200]]
 
 <details><summary>🎨</summary>
 

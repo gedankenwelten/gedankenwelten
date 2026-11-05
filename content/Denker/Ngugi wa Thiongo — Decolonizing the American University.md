@@ -26,7 +26,7 @@ stimme:
 
 # Ngũgĩ wa Thiong'o — Decolonizing the American University
 
-![[assets/Ngugi-wa-Thiongo-Decolonizing-the-American-University-banner.jpg|1200]]
+![[assets/Ngugi-wa-Thiongo-Decolonizing-the-American-University-banner.jpg|Unter einem gestreiften Zeltdach in Orange und Grün stehen schwarze Silhouetten von Menschen mit Regenbogen-Bögen über den Köpfen, zwischen ihnen ein Flügel, eine Trommel, eine Harfe und Gitarren.|1200]]
 
 <details><summary>🎨</summary>
 

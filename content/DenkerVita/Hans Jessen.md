@@ -8,7 +8,7 @@ tags: [denker-vita, medien, deutschland, demokratie, bundesregierung, afd]
 
 # Hans Jessen — DenkerVita
 
-![[assets/Hans-Jessen-vita-banner.jpg|1200]]
+![[assets/Hans-Jessen-vita-banner.jpg|Sonniges Flussufer unter Bäumen: Ein alter Mann mit Brille und Zeitung sitzt auf einer Parkbank, ein junger Mann im Kapuzenpullover hält ihm ein Mikrofon hin, im Hintergrund ein Gebäude mit Glaskuppel.|1200]]
 
 <details><summary>🎨</summary>
 

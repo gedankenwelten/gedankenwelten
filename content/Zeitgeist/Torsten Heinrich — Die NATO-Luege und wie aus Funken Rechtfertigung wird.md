@@ -20,7 +20,7 @@ aliases:
 
 # Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird
 
-![[assets/Torsten-Heinrich-NATO-Luege-banner.jpg|1200]]
+![[assets/Torsten-Heinrich-NATO-Luege-banner.jpg|Zeichnung: Ein prunkvolles Gebäude aus Urkunden und Siegeln mit flatternden Bändern voller unleserlicher Schrift, darunter eine Reihe kleiner Figuren; links glimmt ein kleines Feuer, rechts reicht ein Männchen an einem Obststand einen roten Apfel.|1200]]
 
 <details><summary>🎨</summary>
 

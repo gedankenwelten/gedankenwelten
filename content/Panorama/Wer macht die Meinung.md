@@ -18,7 +18,7 @@ tags:
 
 # Wer macht die Meinung?
 
-![[assets/Wer-macht-die-Meinung-banner.jpg|1200]]
+![[assets/Wer-macht-die-Meinung-banner.jpg|Sepiazeichnung einer belebten Straße: Vor einer großen Druckmaschine und einer Plakatsäule streiten zwei Männer, ein Zeitungsjunge ruft von einer Kiste, ringsum lesen Menschen mit Hüten und Kopftüchern Zeitungen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -14,7 +14,7 @@ tags:
 
 # Arthur Schopenhauer — DenkerVita
 
-![[assets/Arthur-Schopenhauer-vita-banner.jpg|1200]]
+![[assets/Arthur-Schopenhauer-vita-banner.jpg|Eine Gestalt im langen Mantel steht, von hinten gesehen, auf Felsen am stürmischen grauen Meer, ein heller Schleier zieht über sie hinweg, über dem Horizont ein blasser Vollmond.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -28,7 +28,7 @@ aliases:
 
 # Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen
 
-![[assets/Hanna-Notte-und-Sergey-Lagodinsky-Globales-Kraeftemessen-banner.jpg|1200]]
+![[assets/Hanna-Notte-und-Sergey-Lagodinsky-Globales-Kraeftemessen-banner.jpg|Bleistiftzeichnung einer Weltkarte, auf der drei dunkle Thronsessel stehen und lange Schatten über die Kontinente werfen; feine rote und graue Linien verbinden die Länder.|1200]]
 
 <details><summary>🎨</summary>
 

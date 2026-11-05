@@ -7,7 +7,7 @@ tags: [denker-vita, genossenschaft, arbeit, industrie, frankreich]
 
 # Valentine Fanjeaux — DenkerVita
 
-![[assets/Valentine-Fanjeaux-vita-banner.jpg|1200]]
+![[assets/Valentine-Fanjeaux-vita-banner.jpg|Eine kleine Figur rennt durch ein Gewirr kräftig bunter Kreisbögen in Rot, Gelb, Blau, Grün und Schwarz, rosa und gelbe Wollfäden spannen sich zwischen großen Wollknäueln.|1200]]
 
 <details><summary>🎨</summary>
 

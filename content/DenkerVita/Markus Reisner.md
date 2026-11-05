@@ -8,7 +8,7 @@ tags: [denker-vita, militär, geopolitik, österreich]
 
 # Markus Reisner
 
-![[assets/Markus-Reisner-vita-banner.jpg|1200]]
+![[assets/Markus-Reisner-vita-banner.jpg|Militärische Lagekarte in Oliv und Beige: Rote und blaue Pfeile, Frontlinien und Symbole für Stellungen, darüber kreisen Drohnen, rechts vergrößert eine Lupe einen Ausschnitt.|1200]]
 
 <details><summary>🎨</summary>
 

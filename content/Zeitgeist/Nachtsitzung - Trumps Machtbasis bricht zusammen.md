@@ -19,7 +19,7 @@ aliases:
 
 # Trumps Machtbasis bricht zusammen
 
-![[assets/Nachtsitzung-Trumps-Machtbasis-bricht-zusammen-banner.jpg|1200]]
+![[assets/Nachtsitzung-Trumps-Machtbasis-bricht-zusammen-banner.jpg|Wie ein altes Gemälde: Eine bröckelnde Stufenpyramide mit Thron unter einem Baldachin auf der Spitze, an der Menschen arbeiten und klettern, ringsum eine lange Menschenschlange; am Himmel schwebt eine große Seifenblase.|1200]]
 
 <details><summary>🎨</summary>
 

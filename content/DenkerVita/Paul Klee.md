@@ -6,7 +6,7 @@ tags: [denker-vita, kunst, philosophie, bauhaus]
 
 # Paul Klee — DenkerVita
 
-![[assets/Paul-Klee-vita-banner.jpg|1200]]
+![[assets/Paul-Klee-vita-banner.jpg|Abstraktes Bild auf hellem Grund: Goldene und dunkelblaue Ringe in der Mitte, umgeben von Notenlinien mit Noten und Notenschlüssel, Mondsicheln, einem Fisch, einem Pfeil und einem kleinen Schachbrettmuster, an den Rändern rote und schwarze Flächen.|1200]]
 
 <details><summary>🎨</summary>
 

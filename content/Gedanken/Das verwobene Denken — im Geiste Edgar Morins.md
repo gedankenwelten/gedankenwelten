@@ -20,7 +20,7 @@ aliases:
 
 # Das verwobene Denken — ein Gedanke mit Edgar Morin
 
-![[assets/Das-verwobene-Denken-im-Geiste-Edgar-Morins-banner.jpg|1200]]
+![[assets/Das-verwobene-Denken-im-Geiste-Edgar-Morins-banner.jpg|Leuchtend bunte Landschaft aus Spiralen und Mosaikmustern: Wege winden sich um einen großen Wirbel in der Mitte, gesäumt von Häusern mit Zwiebeltürmen und vielen kleinen Menschen, oben eine strahlende Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

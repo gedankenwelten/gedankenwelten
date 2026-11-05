@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, demokratie, populismus, belgien]
 
 # Anton Jäger — DenkerVita
 
-![[assets/Anton-Jaeger-vita-banner.jpg|1200]]
+![[assets/Anton-Jaeger-vita-banner.jpg|Holzschnitt in Schwarz und Weiß: Eine Frau liest in einem hellen Fensterbogen ein Buch; links marschiert eine Kolonne mit Fahnen zwischen Hochhäusern, rechts gehen einzelne Menschen durch eine Bibliothek mit hohen Regalen und hellen Türen.|1200]]
 
 <details><summary>🎨</summary>
 

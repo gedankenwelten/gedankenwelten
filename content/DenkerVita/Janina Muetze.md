@@ -13,7 +13,7 @@ tags:
 
 # Janina Mütze — DenkerVita
 
-![[assets/Janina-Muetze-vita-banner.jpg|1200]]
+![[assets/Janina-Muetze-vita-banner.jpg|Grafik in Ocker, Rot, Petrol und Schwarz: Von einer schwarzen Sprechblase laufen feine Linien zu einzelnen Figuren in langen Reihen kleiner Menschensymbole, darüber ein Tortendiagramm, Balken und durchscheinende Kreise.|1200]]
 
 <details><summary>🎨</summary>
 

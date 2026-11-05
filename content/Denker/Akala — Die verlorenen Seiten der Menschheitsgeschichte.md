@@ -23,7 +23,7 @@ stimme:
 
 # Akala — Die verlorenen Seiten der Menschheitsgeschichte
 
-![[assets/Akala-Die-verlorenen-Seiten-der-Menschheitsgeschichte-banner.jpg|1200]]
+![[assets/Akala-Die-verlorenen-Seiten-der-Menschheitsgeschichte-banner.jpg|Collage: Eine dunkle Hand übermalt ein Heiligenbild mit Weiß, darunter ein aufgerissenes Buch, aus dem Pyramiden, ein Rundturm und eine Kirche in Kreuzform aufsteigen; unten Silhouetten mit Fackeln.|1200]]
 
 <details><summary>🎨</summary>
 

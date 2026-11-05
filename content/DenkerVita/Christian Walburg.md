@@ -8,7 +8,7 @@ tags: [denker-vita, kriminologie, migration, kriminalität, deutschland]
 
 # Christian Walburg — DenkerVita
 
-![[assets/Christian-Walburg-vita-banner.jpg|1200]]
+![[assets/Christian-Walburg-vita-banner.jpg|Ein Junge mit einem Buch steht unten und schaut einer Reihe Menschen nach, die eine Treppe hinaufsteigen, Kinder unten, Erwachsene oben; hinter dem Geländer Fabrikschlote und ein Förderturm im Dunst.|1200]]
 
 <details><summary>🎨</summary>
 

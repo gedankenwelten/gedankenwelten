@@ -18,7 +18,7 @@ aktualisiert: 03.07.2026
 
 # Adam Johnson — How to Sell a Genocide
 
-![[assets/Adam-Johnson-How-to-Sell-a-Genocide-banner.jpg|1200]]
+![[assets/Adam-Johnson-How-to-Sell-a-Genocide-banner.jpg|Fünf lächelnde Männer in Anzügen sitzen lesend hinter einem langen Tisch, über ihnen eine Sanduhr voller Zeitungsschnipsel mit rotem Sand; rechts ein leerer Stuhl vor einem Mikrofon, Megafone und eine Wand voller Strichlisten.|1200]]
 
 <details><summary>🎨</summary>
 

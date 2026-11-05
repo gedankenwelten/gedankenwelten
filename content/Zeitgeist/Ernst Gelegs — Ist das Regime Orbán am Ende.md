@@ -19,7 +19,7 @@ aliases:
 
 # Ernst Gelegs — Ist das Regime Orbán am Ende?
 
-![[assets/Ernst-Gelegs-Ist-das-Regime-Orban-am-Ende-banner.jpg|1200]]
+![[assets/Ernst-Gelegs-Ist-das-Regime-Orban-am-Ende-banner.jpg|Flächig gemalter Palast mit Kuppel aus roten, gelben und grauen Feldern, in jedem ein Vorhängeschloss, über der Fassade zwei schwarze Balken gekreuzt; unten links steht ein winziger Mann mit Schlüssel in einer offenen Tür.|1200]]
 
 <details><summary>🎨</summary>
 

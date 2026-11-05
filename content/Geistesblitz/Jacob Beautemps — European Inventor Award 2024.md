@@ -26,7 +26,7 @@ stimme:
 
 # European Inventor Award 2024 — Erfinder in Valletta, und was aus ihnen wurde
 
-![[assets/jacob-beautemps-european-inventor-award-2024-banner.jpg|1200]]
+![[assets/jacob-beautemps-european-inventor-award-2024-banner.jpg|Papiercollage auf Weiß: ein roter Hufeisenmagnet, ein Rad, ein Auge, ein gelber Kreis mit Fragezeichen, ringsum Herbstblätter und leere Kärtchen, unten blaues Wasser mit einem grauen Rohr und Luftblasen, rechts ein rosa Vorhang.|1200]]
 
 <details><summary>🎨</summary>
 

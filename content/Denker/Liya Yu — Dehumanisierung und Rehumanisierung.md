@@ -26,7 +26,7 @@ stimme:
 
 # Liya Yu — Dehumanisierung und Rehumanisierung
 
-![[assets/Liya-Yu-Dehumanisierung-und-Rehumanisierung-banner.jpg|1200]]
+![[assets/Liya-Yu-Dehumanisierung-und-Rehumanisierung-banner.jpg|Ein sonniger, leerer Platz mit langem Arkadengang unter grünem Himmel; davor eine Reihe leerer Holzstühle, einer steht abseits, im Bogen eine Statue, am Horizont ein Gebäude mit Turm.|1200]]
 
 <details><summary>🎨</summary>
 

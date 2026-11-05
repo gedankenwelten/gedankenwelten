@@ -26,7 +26,7 @@ aliases:
 
 # Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?
 
-![[assets/Maja-Goepel-und-Jagoda-Marinic-Vertrauen-utopisch-banner.jpg|1200]]
+![[assets/Maja-Goepel-und-Jagoda-Marinic-Vertrauen-utopisch-banner.jpg|Auf einer Holzplatte vor bröckelnder Ziegelwand strecken sich zwei Hände einander entgegen, zwischen ihnen ein kleiner Fuchs, eine Zeitung und eine gesprungene Tasse; durch eine Tür schaut ein Nashorn herein.|1200]]
 
 <details><summary>🎨</summary>
 

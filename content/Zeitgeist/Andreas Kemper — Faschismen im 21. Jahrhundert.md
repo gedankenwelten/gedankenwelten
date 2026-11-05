@@ -31,7 +31,7 @@ stimme:
 
 # Andreas Kemper — Faschismen im 21. Jahrhundert
 
-![[assets/Andreas-Kemper-Faschismen-im-21.-Jahrhundert-banner.jpg|1200]]
+![[assets/Andreas-Kemper-Faschismen-im-21.-Jahrhundert-banner.jpg|Unter einem Spruchband mit den Worten „Nie wieder“: links ein Soldat ohne Gesicht mit Fackel und Büchern, in der Mitte ein alter Mann und eine junge Frau vor einem Baum voller Wappen, rechts ein dicker Mann mit Smartphone auf einer schwebenden Stadt.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, medien, medienkritik, usa, gaza]
 
 # Adam Johnson — DenkerVita
 
-![[assets/Adam-Johnson-vita-banner.jpg|1200]]
+![[assets/Adam-Johnson-vita-banner.jpg|Ein Mann mit Kopfhörern um den Hals sitzt unter einer Lampe an einem Schreibtisch mit Mikrofon, Papierstapeln und Lupe und zeigt mit Kreide auf eine Tafel voller Strichlisten, einige davon eingekreist.|1200]]
 
 <details><summary>🎨</summary>
 

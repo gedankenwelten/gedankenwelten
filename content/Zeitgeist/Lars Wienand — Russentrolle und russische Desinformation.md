@@ -30,7 +30,7 @@ stimme:
 
 # Lars Wienand — Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation
 
-![[assets/Lars-Wienand-Russentrolle-banner.jpg|1200]]
+![[assets/Lars-Wienand-Russentrolle-banner.jpg|Ein Gewölbesaal: Maskierte Gestalten in Kutten schreiben an langen Tischen mit Federn auf Papierbahnen, die zum Fenster hinauswehen; in der Mitte eine Miniaturstadt, in der ein Mann mit Lupe sucht.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, ki, ethik, philosophie, deutschland]
 
 # Catrin Misselhorn — DenkerVita
 
-![[assets/Catrin-Misselhorn-vita-banner.jpg|1200]]
+![[assets/Catrin-Misselhorn-vita-banner.jpg|Aquarell in Erdtönen: in der Mitte eine kleine Figur aus einfachen Formen mit Taktstock, über ihr eine Waage; links ein alter Computer und ein Raster farbiger Quadrate, rechts aufragende Stifte wie Orgelpfeifen und Musiknoten.|1200]]
 
 <details><summary>🎨</summary>
 

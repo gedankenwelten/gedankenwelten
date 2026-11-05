@@ -20,7 +20,7 @@ aliases:
 
 # Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt
 
-![[assets/Susanne-Weigelin-Schwiedrzik-Chinas-Neuordnung-der-Welt-banner.jpg|1200]]
+![[assets/Susanne-Weigelin-Schwiedrzik-Chinas-Neuordnung-der-Welt-banner.jpg|Wie eine alte chinesische Rollkarte: Eine runde, dicht bebaute Insel mit rotem Siegel, von der Brücken und Wege mit Pagoden übers Wasser zu Felseninseln führen; darüber drei blasse Kreise mit chinesischen Schriftzeichen.|1200]]
 
 <details><summary>🎨</summary>
 

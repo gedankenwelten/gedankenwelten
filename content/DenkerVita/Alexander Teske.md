@@ -7,7 +7,7 @@ aktualisiert: 16.08.2026
 
 # Alexander Teske — DenkerVita
 
-![[assets/Alexander-Teske-vita-banner.jpg|1200]]
+![[assets/Alexander-Teske-vita-banner.jpg|In einem roten Zimmer sitzt ein kahler Mann auf einem Stuhl und heftet Zettel an eine große Pinnwand, vor ihm ein Haufen Papiere auf dem Boden; durch die offene Tür sieht man Plattenbauten.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ tags: [denker-vita, philosophie, existenzialismus, ethik, widerstand, frankreich
 
 # Albert Camus — DenkerVita
 
-![[assets/Albert-Camus-vita-banner.jpg|1200]]
+![[assets/Albert-Camus-vita-banner.jpg|Pastos gemalt: Ein Mann stemmt einen großen schwarzweißen Felsblock einen ockerfarbenen Hang hinauf, dahinter das blaue Meer und eine weißgoldene Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

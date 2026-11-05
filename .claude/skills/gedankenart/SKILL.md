@@ -190,12 +190,12 @@ Namenskonvention: Note-Slug + `-banner` (Em-Dash entfernt, Leerzeichen → `-`),
 cp "<QUELLE>" "content/assets/<NOTE-SLUG>-banner.jpg"
 ```
 
-**2. Embed unter die `# Überschrift`** — voller Vault-Pfad, Breite `|1200`, danach Easter-Egg-Callout:
+**2. Embed unter die `# Überschrift`** — voller Vault-Pfad, **Beschreibung**, Breite `|1200`, danach Easter-Egg-Callout:
 
 ```markdown
 # <Titel der Note>
 
-![[content/assets/<NOTE-SLUG>-banner.jpg|1200]]
+![[content/assets/<NOTE-SLUG>-banner.jpg|<Beschreibung>|1200]]
 
 <details><summary>🎨</summary>
 
@@ -208,6 +208,14 @@ cp "<QUELLE>" "content/assets/<NOTE-SLUG>-banner.jpg"
 > [!abstract] Worum es geht
 ...
 ```
+
+**Die Beschreibung** (seit 05.11.2026) ist für alle, die das Bild nicht sehen; die Website macht
+daraus den `alt`-Text, ein Screenreader liest ihn vor. Erst das fertige Bild ansehen (Read), dann
+beschreiben, was *da ist*, nicht was der Prompt wollte. Ein bis zwei Sätze, höchstens etwa 35 Wörter:
+Motiv, dann Farbe, Licht oder Stimmung. Kein Personenname (auch bei Viten: erfundene Szene, kein
+Porträt), keine Künstlerhand (die steht schon sichtbar darunter), keine Deutung. Kein `|`, `]`,
+`*`, `_`, keine →, ~, ·. Beispiel: *Kohlezeichnung: Ein Suchscheinwerfer streicht über einen hohen
+Gitterzaun am Meer, davor eine Reihe Menschen mit Bündeln auf dem Rücken, einer hebt die Hand.*
 
 Das Embed steht **vor** dem `[!abstract]`-Callout bzw. der `Quelle:`-Zeile — ganz oben im Body,
 unmittelbar nach der `#`-Zeile. Der `<details>`-Block folgt direkt auf das Bild — ein winziges

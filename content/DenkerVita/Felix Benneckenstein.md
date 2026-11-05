@@ -9,7 +9,7 @@ aliases:
 ---
 
 # Felix Benneckenstein — DenkerVita
-![[assets/Felix-Benneckenstein-vita-banner.jpg|1200]]
+![[assets/Felix-Benneckenstein-vita-banner.jpg|Bleistiftzeichnung mit wenig Farbe: Ein Mann mit verbundener Stirn sitzt barfuß an einer Wand, die Hand am Kopf, neben ihm eine Gitarre. Durch eine halb offene Tür streckt sich ihm eine Hand entgegen.|1200]]
 
 <details><summary>🎨</summary>
 

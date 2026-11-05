@@ -21,7 +21,7 @@ aliases:
 
 # Rainer Mausfeld — Warum schweigen die Lämmer?
 
-![[assets/Rainer-Mausfeld-Warum-schweigen-die-Lämmer-banner.jpg|1200]]
+![[assets/Rainer-Mausfeld-Warum-schweigen-die-Lämmer-banner.jpg|Radierung: Hinter einem Zaun mit Ranken steht eine Schafherde, über ihr leuchtende Bildschirme an Fäden, die zu einem riesigen Schatten mit Fledermäusen führen; rechts steht ein einzelnes Schaf abseits, oben schwach das Wort Lämmer.|1200]]
 
 <details><summary>🎨</summary>
 

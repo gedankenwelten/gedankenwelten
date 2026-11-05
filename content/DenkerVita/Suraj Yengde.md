@@ -6,7 +6,7 @@ tags: [denker-vita, soziale-ungleichheit, indien, philosophie, widerstand]
 
 # Suraj Yengde — DenkerVita
 
-![[assets/Suraj-Yengde-vita-banner.jpg|1200]]
+![[assets/Suraj-Yengde-vita-banner.jpg|Sepiatöne: Die schwarze Silhouette eines Mannes geht lesend eine Straße entlang, links Holzhäuser mit Veranden und ein großer Baum, rechts Backsteinhäuser, dahinter eine Kompassrose vor heller Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

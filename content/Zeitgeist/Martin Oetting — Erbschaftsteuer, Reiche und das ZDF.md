@@ -27,7 +27,7 @@ stimme:
 
 # Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF
 
-![[assets/Martin-Oetting-Erbschaftsteuer-Reiche-ZDF-banner.jpg|1200]]
+![[assets/Martin-Oetting-Erbschaftsteuer-Reiche-ZDF-banner.jpg|Federzeichnung: Ein dicker Mann prüft mit der Lupe die Münzen einer kleinen Geldbörse auf einer Waagschale, auf der anderen steht eine ganze Fabrik mit Lieferwagen; rechts schauen Herren mit Zylindern und Papieren zu.|1200]]
 
 <details><summary>🎨</summary>
 

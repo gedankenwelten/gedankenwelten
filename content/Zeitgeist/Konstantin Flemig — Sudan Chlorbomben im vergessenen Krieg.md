@@ -19,7 +19,7 @@ aliases:
 
 # Sudan: Chlorbomben im vergessenen Krieg
 
-![[assets/Konstantin-Flemig-Sudan-Chlorbomben-im-vergessenen-Krieg-banner.jpg|1200]]
+![[assets/Konstantin-Flemig-Sudan-Chlorbomben-im-vergessenen-Krieg-banner.jpg|Ein leerer Platz zwischen Arkaden unter grünem Himmel: In der Mitte ein Wasserturm, aus dem gelber Rauch quillt, links fünf bunte Gasflaschen, am Boden eine Flasche, hinten ein Dampfzug in der Wüste.|1200]]
 
 <details><summary>🎨</summary>
 

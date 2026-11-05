@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, ethik, phaenomenologie, judentum, religion, fra
 
 # Emmanuel Levinas — DenkerVita
 
-![[assets/Emmanuel-Levinas-vita-banner.jpg|1200]]
+![[assets/Emmanuel-Levinas-vita-banner.jpg|Bleistiftskizze auf hellem Papier: in der Mitte ein aus Kritzellinien gezeichneter Kopf mit dunklen Augen, links unten eine winzige, dünne gehende Figur, rechts angedeutete Fensterlinien.|1200]]
 
 <details><summary>🎨</summary>
 

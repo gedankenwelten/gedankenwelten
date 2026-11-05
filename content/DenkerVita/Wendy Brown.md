@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, kapitalismus, neoliberalismus, usa, philosophie,
 
 # Wendy Brown — DenkerVita
 
-![[assets/Wendy-Brown-vita-banner.jpg|1200]]
+![[assets/Wendy-Brown-vita-banner.jpg|Ein Säulentempel bricht in roten Rissen auseinander, an ihm hängen Schilder mit der Aufschrift homo oeconomicus, links ein Haufen Münzen und Geldscheine mit roten Pfeilen nach oben, davor winzige Menschen.|1200]]
 
 <details><summary>🎨</summary>
 

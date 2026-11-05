@@ -21,7 +21,7 @@ aliases:
 
 # Barbara Prainsack — Solidarität NEU DENKEN
 
-![[assets/Barbara-Prainsack-Solidaritaet-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Barbara-Prainsack-Solidaritaet-NEU-DENKEN-banner.jpg|Bauarbeiter in roten, gelben und blauen Overalls tragen auf einem Gerüst gemeinsam Stahlträger und spannen ein Netz zwischen sich, einer springt darüber; unten steht eine Torte auf einem Tischchen.|1200]]
 
 <details><summary>🎨</summary>
 

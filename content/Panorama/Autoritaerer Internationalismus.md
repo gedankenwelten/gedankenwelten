@@ -16,7 +16,7 @@ erstellt: 2026-04-27
 
 # Autoritärer Internationalismus — Die globale Rechte
 
-![[assets/Autoritaerer-Internationalismus-banner.jpg|1200]]
+![[assets/Autoritaerer-Internationalismus-banner.jpg|Graue Weltkarte voller Netzwerkpunkte, von drei Serverkästen aus ziehen rote und graue Verbindungslinien über alle Kontinente.|1200]]
 
 <details><summary>🎨</summary>
 

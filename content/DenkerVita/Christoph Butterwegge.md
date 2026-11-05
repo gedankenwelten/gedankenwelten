@@ -8,7 +8,7 @@ tags: [denker-vita, soziale-ungleichheit, armut, kapitalismus, deutschland]
 
 # Christoph Butterwegge — DenkerVita
 
-![[assets/Christoph-Butterwegge-vita-banner.jpg|1200]]
+![[assets/Christoph-Butterwegge-vita-banner.jpg|Karikatur: Links sitzt ein dicker Mann mit Zylinder neben Champagner und Münzhaufen, über der Straße eine Waage, deren eine Schale vor Geldsäcken überquillt; rechts stehen ausgemergelte Menschen mit leeren Schüsseln an einem Suppenkessel an.|1200]]
 
 <details><summary>🎨</summary>
 

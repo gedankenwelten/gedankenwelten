@@ -19,7 +19,7 @@ aliases:
 
 # Gert Scobel — Die Geister in der Maschine
 
-![[assets/Gert-Scobel-Die-Geister-in-der-Maschine-banner.jpg|1200]]
+![[assets/Gert-Scobel-Die-Geister-in-der-Maschine-banner.jpg|Buntstiftzeichnung vor Sternenhimmel: Eine Hand reibt mit einem Tuch an einer alten Öllampe, aus der violetter Rauch aufsteigt und sich zu einem großen Gesicht formt.|1200]]
 
 <details><summary>🎨</summary>
 

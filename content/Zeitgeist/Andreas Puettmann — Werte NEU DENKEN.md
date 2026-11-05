@@ -25,7 +25,7 @@ aliases:
 
 # Andreas Püttmann — Werte NEU DENKEN
 
-![[assets/Andreas-Puettmann-Werte-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Andreas-Puettmann-Werte-NEU-DENKEN-banner.jpg|In kantigen, gebrochenen Flächen gemalt: Ein Mann beugt sich aus einem Segelboot auf dunkler See zum Wasser hinab, rechts ein Dorf mit hohem Kirchturm unter hellem, zersplittertem Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

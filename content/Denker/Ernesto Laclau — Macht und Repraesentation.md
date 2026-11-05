@@ -18,7 +18,7 @@ aliases:
 
 # Ernesto Laclau — Macht und Repräsentation
 
-![[assets/Ernesto-Laclau-Macht-und-Repraesentation-banner.jpg|1200]]
+![[assets/Ernesto-Laclau-Macht-und-Repraesentation-banner.jpg|Hell lavierte Fläche voller Bleistiftkritzel: oben die Worte Demokratie, Freiheit, Gleichheit, in der Mitte ein leerer, umkreister Ring, darunter immer wieder das Wort Volk zwischen unleserlichen Zeichen.|1200]]
 
 <details><summary>🎨</summary>
 

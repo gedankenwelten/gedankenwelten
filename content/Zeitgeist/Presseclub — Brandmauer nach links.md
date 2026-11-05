@@ -20,7 +20,7 @@ aliases:
 
 # Presseclub — Wer regiert die Hauptstadt? Kommt die Brandmauer nach links?
 
-![[assets/Presseclub-Brandmauer-nach-links-banner.jpg|1200]]
+![[assets/Presseclub-Brandmauer-nach-links-banner.jpg|Zeichnung: Links vermessen zwei Männer mit Lineal und Lampe ein Kreuz auf einer Leinwand, rechts balanciert eine Frau auf den Schultern eines Mannes über einer Mauer, vor einer Menge und einem Rathausturm.|1200]]
 
 <details><summary>🎨</summary>
 

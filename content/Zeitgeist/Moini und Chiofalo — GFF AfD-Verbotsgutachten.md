@@ -17,7 +17,7 @@ aliases:
 
 # GFF-Verbotsgutachten — Kann die AfD verboten werden?
 
-![[assets/Moini-und-Chiofalo-GFF-AfD-Verbotsgutachten-banner.jpg|1200]]
+![[assets/Moini-und-Chiofalo-GFF-AfD-Verbotsgutachten-banner.jpg|Ein weißer Säulentempel zwischen zwei Mauern aus gestapelten Zetteln; davor liegen ein langes Schwert und große Zahlen wie 2 000 000 auf dem Boden, eine rote Linie schneidet schräg durchs Bild, rechts ein Tisch mit Papierstapel.|1200]]
 
 <details><summary>🎨</summary>
 

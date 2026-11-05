@@ -6,7 +6,7 @@ tags: [denker-vita, medien, rechtsextremismus, erinnerungskultur]
 
 # Lilith Roska — DenkerVita
 
-![[assets/Lilith-Roska-vita-banner.jpg|1200]]
+![[assets/Lilith-Roska-vita-banner.jpg|Eine junge Frau beugt sich über einen Tisch voller Porträtkarten mit Namen, hinter ihr wirbeln Buchstaben und Zahlen in einem grauen Strudel, das Zimmer in warmem Orange.|1200]]
 
 <details><summary>🎨</summary>
 

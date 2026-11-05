@@ -6,7 +6,7 @@ tags: [denker-vita, wissenschaft, klima, deutschland]
 
 # Jacob Beautemps — DenkerVita
 
-![[assets/jacob-beautemps-vita-banner.jpg|1200]]
+![[assets/jacob-beautemps-vita-banner.jpg|Flache Grafik in Grün und Ocker: Ein Mann sitzt, von hinten gesehen, am Schreibtisch vor einem hellen Bildschirm, links Wellenbänder, rechts Kurvendiagramme und ein Atomsymbol.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -21,7 +21,7 @@ aliases:
 
 # Decolonize the Digital — Wem gehört die Infrastruktur
 
-![[assets/Decolonize-the-Digital-Wem-gehoert-die-Infrastruktur-banner.jpg|1200]]
+![[assets/Decolonize-the-Digital-Wem-gehoert-die-Infrastruktur-banner.jpg|Schwarze Piktogramme auf Cremegrund: oben drei Menschen an Computern, darunter eine Reihe roter Serverschränke, dann eine rote Linie zwischen zwei Burgtürmchen, ganz unten eine dichte Reihe gebückter Figuren.|1200]]
 
 <details><summary>🎨</summary>
 

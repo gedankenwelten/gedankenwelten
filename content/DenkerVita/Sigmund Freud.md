@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, psychologie, psychoanalyse, oesterreich]
 
 # Sigmund Freud — DenkerVita
 
-![[assets/Sigmund-Freud-vita-banner.jpg|1200]]
+![[assets/Sigmund-Freud-vita-banner.jpg|Surreales Unterwasserbild: Von einem Eisberg ragt nur die Spitze aus dem Meer, unter Wasser trägt sein riesiger Körper Augen, Türen und eine Wendeltreppe, ringsum schweben Schlüssel. Vorn steht ein Sofa, rechts zerfließt eine Uhr auf einem Felsen.|1200]]
 
 <details><summary>🎨</summary>
 

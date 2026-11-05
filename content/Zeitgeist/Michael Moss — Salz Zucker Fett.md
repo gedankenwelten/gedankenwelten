@@ -28,7 +28,7 @@ stimme:
 
 # Michael Moss — Salz, Zucker, Fett
 
-![[assets/Michael-Moss-Salz-Zucker-Fett-banner.jpg|1200]]
+![[assets/Michael-Moss-Salz-Zucker-Fett-banner.jpg|In einem dunklen Sitzungsraum sitzen Männer in Anzügen um einen Tisch, auf dem unter einer Lampe ein Kristall, ein weißer und ein gelber Würfel auf rotem Kissen liegen; durch das Fenster sieht man volle Supermarktregale.|1200]]
 
 <details><summary>🎨</summary>
 

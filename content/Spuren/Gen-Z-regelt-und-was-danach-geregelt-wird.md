@@ -24,7 +24,7 @@ raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 
 # Gen Z regelt — und was danach geregelt wird
 
-![[assets/Gen-Z-regelt-und-was-danach-geregelt-wird-banner.jpg|1200]]
+![[assets/Gen-Z-regelt-und-was-danach-geregelt-wird-banner.jpg|Schwarzweißer Holzschnitt in zwei Teilen: links eine Menge Demonstrierender mit leeren Schildern zwischen Hochhäusern, rechts eine leere Gasse mit Mülltonne, verstreuten Schildern am Boden und einer zersplitterten Scheibe.|1200]]
 
 <details><summary>🎨</summary>
 

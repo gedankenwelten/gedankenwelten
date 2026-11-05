@@ -6,7 +6,7 @@ tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 
 # Tim Stark — DenkerVita
 
-![[assets/Tim-Stark-vita-banner.jpg|1200]]
+![[assets/Tim-Stark-vita-banner.jpg|Auf schwarzem Grund zerfällt ein gelbes Lachgesicht nach rechts in Pixel und Bildstörungen, daraus wird ein türkiser Gehirnumriss mit einem Angelhaken.|1200]]
 
 <details><summary>🎨</summary>
 

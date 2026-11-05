@@ -16,7 +16,7 @@ aliases:
 
 # Erich Fromm — Menschliches Wachstum
 
-![[assets/Erich-Fromm-Menschliches-Wachstum-banner.jpg|1200]]
+![[assets/Erich-Fromm-Menschliches-Wachstum-banner.jpg|Wandbild: Links sitzen gleichförmige graue Figuren vor einem Fließband mit Flaschen und Radios, rechts unter Obstbäumen formt ein Mann einen Tontopf, zwei andere sehen zu, einer liest ein Buch.|1200]]
 
 <details><summary>🎨</summary>
 

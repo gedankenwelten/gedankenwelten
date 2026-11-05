@@ -16,7 +16,7 @@ aliases:
 
 # Mark Benecke — Fragerunde: Time Is Up 2026
 
-![[assets/Mark-Benecke-Fragerunde-Time-Is-Up-2026-banner.jpg|1200]]
+![[assets/Mark-Benecke-Fragerunde-Time-Is-Up-2026-banner.jpg|Ein weiter, ausgedörrter Acker mit schnurgeraden Furchen unter grauem Himmel, ein kahler Baum am Rand; in den Wolken die Jahreszahl 2050, auf dem Boden mit Kreide geschriebene Messwerte.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ tags: [denker-vita, reise, fahrrad, begegnung, gastfreundschaft, deutschland]
 
 # Hans Maggi — DenkerVita
 
-![[assets/DenkerVita-Hans-Maggi-banner.jpg|1200]]
+![[assets/DenkerVita-Hans-Maggi-banner.jpg|Aquarell: Ein Radfahrer mit Gepäcktaschen fährt einen gewundenen Weg durch Savanne mit Schirmakazien und einem Kamel, links verschneite Berge, rechts türkises Meer, darüber eine blasse Weltkarte mit gestrichelten Routen.|1200]]
 
 <details><summary>🎨</summary>
 

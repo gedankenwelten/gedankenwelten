@@ -6,7 +6,7 @@ tags: [denker-vita, literatur, philosophie, oesterreich]
 
 # Robert Musil — DenkerVita
 
-![[assets/Robert-Musil-vita-banner.jpg|1200]]
+![[assets/Robert-Musil-vita-banner.jpg|Abendlicher Schreibtisch am Fenster: ein Heft voller Handschrift mit Füller, eine Farbscheibe, Lineale und ein Zirkel, über dem Stuhl eine Lederjacke. Im linken Fenster eine streng geordnete Stadt, im rechten eine wild gemalte Landschaft unter wirbelndem Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

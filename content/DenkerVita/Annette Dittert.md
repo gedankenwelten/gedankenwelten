@@ -7,7 +7,7 @@ tags: [denker-vita, journalismus, grossbritannien, medien, demokratie, populismu
 
 # Annette Dittert — DenkerVita
 
-![[assets/Annette-Dittert-vita-banner.jpg|1200]]
+![[assets/Annette-Dittert-vita-banner.jpg|Graugrüne Flusslandschaft vor einer blassen Stadtsilhouette, vorn ein dunkles Hausboot, durch dessen erleuchtetes Fenster man einen Tisch mit Lampe sieht.|1200]]
 
 <details><summary>🎨</summary>
 

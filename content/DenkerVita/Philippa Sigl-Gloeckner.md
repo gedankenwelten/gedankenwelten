@@ -6,7 +6,7 @@ tags: [denker-vita, wirtschaft, fiskalpolitik, schuldenbremse, deutschland]
 
 # Philippa Sigl-Glöckner — DenkerVita
 
-![[assets/Philippa-Sigl-Gloeckner-vita-banner.jpg|1200]]
+![[assets/Philippa-Sigl-Gloeckner-vita-banner.jpg|Flächige Grafik: Eine Frau liest am Tisch ein Buch und blickt auf eine rote Straße, an der Arbeiter mit Hacken, Schaufeln und Schubkarre bauen, dahinter Felder und Häuser, am Himmel ein Lineal und ein Zirkel.|1200]]
 
 <details><summary>🎨</summary>
 

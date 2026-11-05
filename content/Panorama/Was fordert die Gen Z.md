@@ -22,7 +22,7 @@ tags:
 
 # Was fordert die Gen Z?
 
-![[assets/Was-fordert-die-Gen-Z-banner.jpg|1200]]
+![[assets/Was-fordert-die-Gen-Z-banner.jpg|Flache Malerei: links eine Gruppe junger Menschen mit leeren Schildern, eine hebt die Hand, rechts ein langer, leerer Tisch mit Büchern, einem Mikrofon und Sesseln vor dunkelblauer Wand.|1200]]
 
 <details><summary>🎨</summary>
 

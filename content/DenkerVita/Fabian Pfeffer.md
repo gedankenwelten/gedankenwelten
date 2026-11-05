@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, soziale-ungleichheit, philosophie, deutschland]
 
 # Fabian Pfeffer — DenkerVita
 
-![[assets/Fabian-Pfeffer-vita-banner.jpg|1200]]
+![[assets/Fabian-Pfeffer-vita-banner.jpg|Raster aus schwarzen Linien mit Feldern in Rot, Blau, Gelb und Weiß, links ein großes goldenes Feld, von dem ein dünnes goldenes Rohr nach unten in ein Gewimmel winziger bunter Felder führt.|1200]]
 
 <details><summary>🎨</summary>
 

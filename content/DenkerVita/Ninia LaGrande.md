@@ -8,7 +8,7 @@ tags: [denker-vita, medien, deutschland]
 
 # Ninia LaGrande — DenkerVita
 
-![[assets/Ninia-LaGrande-banner.jpg|1200]]
+![[assets/Ninia-LaGrande-banner.jpg|Plakat in Pink, Gelb, Blau und Orange: Eine Silhouette spricht mit offenen Armen zu einer Menge, dazu in großen Buchstaben „Jetzt Stimme Pop Pop“.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, feminismus, postkolonialismus, simbabwe, literatur]
 
 # Tsitsi Dangarembga — DenkerVita
 
-![[assets/Tsitsi-Dangarembga-banner.jpg|1200]]
+![[assets/Tsitsi-Dangarembga-banner.jpg|Vor glühend orangem Himmel die dunkle Skulptur einer Frau mit Kopftuch, die mit einem Stift schreibt, hinter ihr immer kleinere Frauenfiguren, aus einem Buch fliegen Vögel auf, rechts gestapelte Steine in der Savanne.|1200]]
 
 <details><summary>🎨</summary>
 

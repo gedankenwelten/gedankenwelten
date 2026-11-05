@@ -8,7 +8,7 @@ tags: [denker-vita, geschichte, nationalsozialismus]
 
 # Götz Aly — DenkerVita
 
-![[assets/Goetz-Aly-vita-banner.jpg|1200]]
+![[assets/Goetz-Aly-vita-banner.jpg|Dunkle Collage: Über einem Block aus alten Briefmarken, Lebensmittelkarten und Formularen breitet ein schwarzer Adler die Flügel aus, rechts reicht eine Hand im Anzugärmel Münzen und eine Briefmarke.|1200]]
 
 <details><summary>🎨</summary>
 

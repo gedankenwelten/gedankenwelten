@@ -9,7 +9,7 @@ raetsel: "Sie schreibt der Stadt jeden Morgen einen Brief. Die Stadt antwortet n
 
 # Anke Myrrhe — DenkerVita
 
-![[assets/Anke-Myrrhe-vita-banner.jpg|1200]]
+![[assets/Anke-Myrrhe-vita-banner.jpg|Eine Frau im blauen Blazer arbeitet am Laptop neben Zeitungen und Kaffee, durchs Fenster Altbauten, eine gelbe Straßenbahn und ein Fernsehturm; rechts eine offene Tür zu einem dunklen Raum mit einem Mikrofon im Lichtkegel.|1200]]
 
 <details><summary>🎨</summary>
 

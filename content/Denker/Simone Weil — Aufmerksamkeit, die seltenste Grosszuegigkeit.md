@@ -25,7 +25,7 @@ aliases:
 
 # Simone Weil — Aufmerksamkeit, die seltenste Großzügigkeit
 
-![[assets/Simone-Weil-Aufmerksamkeit-die-seltenste-Grosszuegigkeit-banner.jpg|1200]]
+![[assets/Simone-Weil-Aufmerksamkeit-die-seltenste-Grosszuegigkeit-banner.jpg|Stillleben in gedämpften Grautönen: zwei Flaschen, eine weiße Schale, ein rosa Krug und eine Dose auf einem Tisch, davor ein gefaltetes Blatt Papier.|1200]]
 
 <details><summary>🎨</summary>
 

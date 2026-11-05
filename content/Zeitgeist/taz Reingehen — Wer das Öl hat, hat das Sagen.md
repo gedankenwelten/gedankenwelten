@@ -21,7 +21,7 @@ aliases:
 
 # taz Reingehen — Wer das Öl hat, hat das Sagen
 
-![[assets/taz-Reingehen-Wer-das-Oel-hat-hat-das-Sagen-banner.jpg|1200]]
+![[assets/taz-Reingehen-Wer-das-Oel-hat-hat-das-Sagen-banner.jpg|Dreigeteilt: ein Tanker in einer engen Meeresstraße, dahinter Kriegsschiffe; Arbeiter mit Helm vor einer rauchenden Rohranlage; Frauen an Nähmaschinen vor Stapeln von Hemden, darüber ein Schaufenster mit Anzügen an Puppen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ aktualisiert: 2026-06-10
 
 # Andreas Löschel — DenkerVita
 
-![[assets/Andreas-Loeschel-vita-banner.jpg|1200]]
+![[assets/Andreas-Loeschel-vita-banner.jpg|Flache Grafik auf Türkis: vier weiße Windräder, ein dunkles Solarmodul, eine gelbe Sonne, eine ansteigende gezackte Kurve, ein grünes Blatt und ein gelber Blitz.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -17,7 +17,7 @@ aliases:
 
 # Who the f#ck is Agartha?
 
-![[assets/Leonie-Heims-und-Tim-Stark-Who-the-fck-is-Agartha-banner.jpg|1200]]
+![[assets/Leonie-Heims-und-Tim-Stark-Who-the-fck-is-Agartha-banner.jpg|Ein Querschnitt wie in einem verzierten Bilderbuch: oben ein bunter Jahrmarkt mit Riesenrad und Ufo, darunter ein Theater, ein Eismeer mit Pinguinen und Schiff, ganz unten leuchtet eine weiße Stadt in einer Höhle; Blitze verbinden die Ebenen.|1200]]
 
 <details><summary>🎨</summary>
 

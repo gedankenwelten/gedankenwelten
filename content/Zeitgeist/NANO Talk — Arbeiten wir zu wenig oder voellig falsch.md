@@ -22,7 +22,7 @@ aliases:
 
 # NANO Talk — Arbeiten wir zu wenig oder völlig falsch?
 
-![[assets/nano-talk-arbeiten-wir-zu-wenig-oder-voellig-falsch-banner.jpg|1200]]
+![[assets/nano-talk-arbeiten-wir-zu-wenig-oder-voellig-falsch-banner.jpg|Kohlezeichnung mit wenig Farbe: Eine Frau mit Kopftuch hält ein Baby, ein Mann mit Schürze repariert eine Maschine, ein weiterer kniet im Gemüsebeet.|1200]]
 
 <details><summary>🎨</summary>
 

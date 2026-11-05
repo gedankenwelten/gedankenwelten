@@ -19,7 +19,7 @@ tags:
 
 # Was kann das Völkerrecht?
 
-![[assets/Was-kann-das-Voelkerrecht-banner.jpg|1200]]
+![[assets/Was-kann-das-Voelkerrecht-banner.jpg|Ein leerer Platz zwischen Arkaden und einem Gebäude mit vielen Fenstern, in der Mitte eine Statue der Gerechtigkeit mit Augenbinde und Waage auf hohem Sockel, dahinter ein dampfender Zug, rechts zwei winzige Figuren mit Papieren.|1200]]
 
 <details><summary>🎨</summary>
 

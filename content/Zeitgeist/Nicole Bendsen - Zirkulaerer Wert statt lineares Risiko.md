@@ -23,7 +23,7 @@ stimme:
 
 # Nicole Bendsen — Zirkulärer Wert statt lineares Risiko
 
-![[assets/Nicole-Bendsen-Zirkulaerer-Wert-statt-lineares-Risiko-banner.jpg|1200]]
+![[assets/Nicole-Bendsen-Zirkulaerer-Wert-statt-lineares-Risiko-banner.jpg|Wie ein alter Plan auf Pergament: Ein Förderband wirft Gegenstände über eine Kante, wo sie als Schutt in die Tiefe stürzen; daneben ein großer rosafarbener Kreis, in dem dieselben Dinge im Kreislauf wandern.|1200]]
 
 <details><summary>🎨</summary>
 

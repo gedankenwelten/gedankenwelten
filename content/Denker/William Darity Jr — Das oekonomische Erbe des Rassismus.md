@@ -18,7 +18,7 @@ aktualisiert: 2026-08-01
 
 # William Darity Jr. — Das ökonomische Erbe des Rassismus
 
-![[assets/William-Darity-Jr-Das-oekonomische-Erbe-des-Rassismus-banner.jpg|1200]]
+![[assets/William-Darity-Jr-Das-oekonomische-Erbe-des-Rassismus-banner.jpg|Links eine dichte Menge Menschen unter bunten Regenschirmen, getrennt durch eine gezackte Kluft; rechts steht eine kleine Gruppe gut gekleideter Menschen auf einem weißen Podest, wo feine Strahlen wie Regen ihre Vasen füllen.|1200]]
 
 <details><summary>🎨</summary>
 

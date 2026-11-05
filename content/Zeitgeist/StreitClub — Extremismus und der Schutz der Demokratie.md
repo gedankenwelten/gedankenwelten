@@ -27,7 +27,7 @@ stimme:
 
 # StreitClub #19 — Extremismus und der Schutz der Demokratie
 
-![[assets/StreitClub-Extremismus-und-der-Schutz-der-Demokratie-banner.jpg|1200]]
+![[assets/StreitClub-Extremismus-und-der-Schutz-der-Demokratie-banner.jpg|Ruhig und hell: Auf einem Podest mit Stufen sitzen drei Gliederpuppen im Gespräch, links steht eine einzelne kleine Puppe vor einem Ring, einer Platte und einem Stab.|1200]]
 
 <details><summary>🎨</summary>
 

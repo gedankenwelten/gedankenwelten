@@ -8,7 +8,7 @@ tags: [denker-vita, ki, technologie, unternehmertum, deutschland]
 
 # Nicole Büttner — DenkerVita
 
-![[assets/Nicole-Buettner-vita-banner.jpg|1200]]
+![[assets/Nicole-Buettner-vita-banner.jpg|Flache Grafik: Von einem bunten Gehirn mit Netzpunkten führt ein blauer Zickzackpfeil zu einer startenden Rakete, ringsum Glühbirne, Zahnräder, Bausteine und ein Hochhaus.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, technologie, wirtschaft, geopolitik, medien]
 
 # Sebastian Gießmann — DenkerVita
 
-![[assets/Sebastian-Giessmann-vita-banner.jpg|1200]]
+![[assets/Sebastian-Giessmann-vita-banner.jpg|Grafik auf Petrol: Eine helle Europakarte in einem goldenen Ring, ringsum Bezahlterminals, Bankkarten, Schutzschilde, Schlösser und Stecker an feinen Leitungen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, ethik, china]
 
 # Konfuzius — DenkerVita
 
-![[assets/Konfuzius-vita-banner.jpg|1200]]
+![[assets/Konfuzius-vita-banner.jpg|Tuschmalerei: Ein Pavillon zwischen Bambus und nebligen Bergen, ein Kranich fliegt am Himmel, oben links der Schriftzug „Harmonie und der Weg“ mit rotem Stempel.|1200]]
 
 <details><summary>🎨</summary>
 

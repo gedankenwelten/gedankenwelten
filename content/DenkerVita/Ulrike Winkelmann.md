@@ -9,7 +9,7 @@ tags: [denker-vita, medien, journalismus, deutschland, demokratie, antisemitismu
 
 # Ulrike Winkelmann — DenkerVita
 
-![[assets/Ulrike-Winkelmann-vita-banner.jpg|1200]]
+![[assets/Ulrike-Winkelmann-vita-banner.jpg|Aquarellzeichnung in Grautönen: Eine Frau mit halblangem Haar sitzt gestikulierend an einem Tisch mit Mikrofon, Papieren und Tassen vor einem großen Fenster auf eine abendliche Stadt mit Fernsehturm und roter Straßenbahn.|1200]]
 
 <details><summary>🎨</summary>
 

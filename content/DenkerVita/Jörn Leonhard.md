@@ -17,7 +17,7 @@ tags:
 
 # Jörn Leonhard — DenkerVita
 
-![[assets/Joern-Leonhard-vita-banner.jpg|1200]]
+![[assets/Joern-Leonhard-vita-banner.jpg|Ein Mann sitzt in einem kahlen, hellen Raum an einem Tisch und betrachtet mit der Lupe eine Landkarte, daneben Aktenstapel, ein Blatt liegt am Boden.|1200]]
 
 <details><summary>🎨</summary>
 

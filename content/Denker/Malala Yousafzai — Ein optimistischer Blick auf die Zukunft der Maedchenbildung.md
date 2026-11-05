@@ -17,7 +17,7 @@ aliases:
 
 # Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung
 
-![[assets/Malala-Yousafzai-Ein-optimistischer-Blick-auf-die-Zukunft-der-Maedchenbildung-banner.jpg|1200]]
+![[assets/Malala-Yousafzai-Ein-optimistischer-Blick-auf-die-Zukunft-der-Maedchenbildung-banner.jpg|In einem ornamentierten Rahmen sitzt eine junge Frau mit Zopf auf einer Wiese und liest, vor ihr ein Tal mit Fluss und Dorf zwischen schneebedeckten Bergen im goldenen Abendlicht.|1200]]
 
 <details><summary>🎨</summary>
 

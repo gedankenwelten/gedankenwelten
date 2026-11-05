@@ -8,7 +8,7 @@ tags: [denker-vita, journalismus, medien, russland, ukraine, deutschland, geopol
 
 # Andrey Gurkov — DenkerVita
 
-![[assets/Andrey-Gurkov-vita-banner.jpg|1200]]
+![[assets/Andrey-Gurkov-vita-banner.jpg|Ein Mann im Anzug fliegt mit einer Zeitung in kyrillischer Schrift über einen dunkelblauen Erdbogen, von einer Stadt mit Zwiebeltürmen zu einer Stadt mit Kirchturm und Sendemast; unten eine Rohrleitung und ein Fisch im Wasser.|1200]]
 
 <details><summary>🎨</summary>
 

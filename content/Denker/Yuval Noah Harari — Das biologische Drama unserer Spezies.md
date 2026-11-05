@@ -17,7 +17,7 @@ aliases:
 
 # Yuval Noah Harari — Das biologische Drama unserer Spezies
 
-![[assets/Yuval-Noah-Harari-Das-biologische-Drama-unserer-Spezies-banner.jpg|1200]]
+![[assets/Yuval-Noah-Harari-Das-biologische-Drama-unserer-Spezies-banner.jpg|In einem Gewölbe mit Laborgefäßen steht eine Gestalt im Kapuzengewand vor einer langen Schriftrolle, die von Höhlentieren über Sternkarten bis zu Atom und Doppelhelix reicht; zu ihren Füßen eine Schildkröte, oben ein Mond.|1200]]
 
 <details><summary>🎨</summary>
 

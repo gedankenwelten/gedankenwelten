@@ -19,7 +19,7 @@ aliases:
 
 # Franziska Meier — Der Krankheit einen Namen geben
 
-![[assets/Franziska-Meier-Camus-Die-Pest-banner.jpg|1200]]
+![[assets/Franziska-Meier-Camus-Die-Pest-banner.jpg|Schwarzweißer Holzschnitt: Ein Mann mit Hut und Koffer geht durch eine helle Gasse auf ein geschlossenes Gittertor am Meer zu, Ratten huschen übers Pflaster, rechts schreibt jemand in einem erleuchteten Fenster.|1200]]
 
 <details><summary>🎨</summary>
 

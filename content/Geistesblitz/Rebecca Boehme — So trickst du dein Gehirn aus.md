@@ -17,7 +17,7 @@ aliases:
 
 # Rebecca Böhme — So trickst du dein Gehirn aus
 
-![[assets/Rebecca-Boehme-So-trickst-du-dein-Gehirn-aus-banner.jpg|1200]]
+![[assets/Rebecca-Boehme-So-trickst-du-dein-Gehirn-aus-banner.jpg|Zarte Pastellgrafik: Eine liegende Acht aus farbigen Bändern verbindet einen hellen Kopf im Profil mit einem Wirbel aus Kreisen und blauen Dreiecken, in der Mitte ein weißer und ein schwarzer Schwan, unten die Worte Der Geist wirft voraus und Die Welt drückt zurück.|1200]]
 
 <details><summary>🎨</summary>
 

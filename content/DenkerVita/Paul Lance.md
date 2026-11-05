@@ -8,7 +8,7 @@ tags: [denker-vita, usa, trump, widerstand, demokratie]
 
 # Paul Lance — DenkerVita
 
-![[assets/Paul-Lance-vita-banner.jpg|1200]]
+![[assets/Paul-Lance-vita-banner.jpg|Flache Grafik: Ein Mann mit Kamera auf Stativ und Mikrofon steht zwischen bunten Sprechblasen und einem Kompass, dahinter die Wahrzeichen von London, Paris und Berlin.|1200]]
 
 <details><summary>🎨</summary>
 

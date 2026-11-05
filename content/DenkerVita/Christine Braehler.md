@@ -8,7 +8,7 @@ description: Psychotherapeutin und internationale Vorreiterin des Selbstmitgefü
 
 # Christine Brähler — DenkerVita
 
-![[assets/Christine-Braehler-vita-banner.jpg|1200]]
+![[assets/Christine-Braehler-vita-banner.jpg|Pastell in warmen Rosatönen: Eine Mutter sitzt im Sessel und hält ein schlafendes Kleinkind im Arm, ein ovaler Spiegel daneben zeigt beide noch einmal.|1200]]
 
 <details><summary>🎨</summary>
 

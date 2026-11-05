@@ -18,7 +18,7 @@ aliases:
 
 # Walther Ziegler — Konfuzius in 60 Minuten
 
-![[assets/Walther-Ziegler-Konfuzius-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Konfuzius-in-60-Minuten-banner.jpg|Tuschmalerei: Ein gewundener Weg führt durch neblige Berge, darauf gehen zwei kleine Gestalten; rechts oben steht groß das chinesische Schriftzeichen für Menschlichkeit.|1200]]
 
 <details><summary>🎨</summary>
 

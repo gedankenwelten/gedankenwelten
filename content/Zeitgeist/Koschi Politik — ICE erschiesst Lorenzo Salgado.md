@@ -16,7 +16,7 @@ aliases:
 
 # ICE erschießt Lorenzo Salgado — ein Tod auf dem Weg zur Arbeit
 
-![[assets/Koschi-Politik-ICE-erschiesst-Lorenzo-Salgado-banner.jpg|1200]]
+![[assets/Koschi-Politik-ICE-erschiesst-Lorenzo-Salgado-banner.jpg|Ein weißer Lieferwagen mit offener Tür steht in einer Vorstadtstraße, dahinter ein dunkles Auto mit Scheinwerfern; rechts unter einem Vordach schaut eine Familie auf ein leuchtendes Handy, auf der Stromleitung sitzt ein Vogel.|1200]]
 
 <details><summary>🎨</summary>
 

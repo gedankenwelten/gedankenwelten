@@ -16,7 +16,7 @@ tags:
 
 # Wie kommt man aus der rechten Szene wieder heraus?
 
-![[assets/Wie-kommt-man-aus-der-rechten-Szene-wieder-heraus-banner.jpg|1200]]
+![[assets/Wie-kommt-man-aus-der-rechten-Szene-wieder-heraus-banner.jpg|Ein leerer Platz mit Arkaden im warmen Abendlicht: Unter den Bögen steht eine Reihe gleicher Schneiderpuppen, eine einzelne Puppe geht davon über den Platz, am Boden ein Ball und ein abgelegtes dunkles Kleidungsstück.|1200]]
 
 <details><summary>🎨</summary>
 

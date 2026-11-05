@@ -27,7 +27,7 @@ stimme:
 
 # Hörren und Sorg — Die Insekten verschwinden
 
-![[assets/Hoerren-und-Sorg-Die-Insekten-verschwinden-banner.jpg|1200]]
+![[assets/Hoerren-und-Sorg-Die-Insekten-verschwinden-banner.jpg|Zarte Zeichnung einer Wiese mit Löwenzahn und Schafgarbe, darin eine Messingwaage, zwei Glasflaschen voller Insekten, ein weißes Netzzelt mit Lampe und ein Hirschkäfer.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, psychologie, evolution, religion]
 
 # Carel van Schaik — DenkerVita
 
-![[assets/Carel-van-Schaik-banner.jpg|1200]]
+![[assets/Carel-van-Schaik-banner.jpg|Nächtlicher Dschungel unter einem Mond: zwischen großen Blättern und Blüten sitzt ein Orang-Utan mit einem Stock, daneben die dunkle Silhouette eines Menschen.|1200]]
 
 <details><summary>🎨</summary>
 

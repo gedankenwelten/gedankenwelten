@@ -35,7 +35,7 @@ stimme:
 
 # Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts
 
-![[assets/Safferling-Nuernberg-Voelkerrecht-banner.jpg|1200]]
+![[assets/Safferling-Nuernberg-Voelkerrecht-banner.jpg|Holzschnittartig in Schwarz, Weiß und Ocker: oben ein Gerichtssaal mit Zuschauern im Dunkeln, einem leeren Stuhl vor einer Leinwand und gesichtslosen Figuren in einer Glaskabine; darunter ein Mann allein am Tisch zwischen langen Aktenregalen.|1200]]
 
 <details><summary>🎨</summary>
 

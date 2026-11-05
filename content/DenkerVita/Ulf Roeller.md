@@ -6,7 +6,7 @@ tags: [denker-vita, journalismus, medien, europa, usa, china, geopolitik, demokr
 
 # Ulf Röller — DenkerVita
 
-![[assets/Ulf-Roeller-vita-banner.jpg|1200]]
+![[assets/Ulf-Roeller-vita-banner.jpg|Federzeichnung mit wenig Farbe: links ein Kuppelbau über verschlungenen Straßen, in der Mitte Hochhäuser mit einer Pagode, rechts gläserne Gebäude mit bunten Fahnen und ein endlos langer Konferenztisch, davor ein kleiner lesender Mann.|1200]]
 
 <details><summary>🎨</summary>
 

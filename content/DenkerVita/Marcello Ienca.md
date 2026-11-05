@@ -9,7 +9,7 @@ tags: [denker-vita, ethik, philosophie, ki, technologie, neurowissenschaft, date
 
 # Marcello Ienca — DenkerVita
 
-![[assets/Marcello-Ienca-vita-banner.jpg|1200]]
+![[assets/Marcello-Ienca-vita-banner.jpg|Abendlicher Arkadenhof unter grünem Himmel: Ein riesiger umgestürzter Marmorkopf liegt auf dem Pflaster, in ihm eine erleuchtete Tür, davor steht ein Mann. Rechts fährt ein Dampfzug, hinten ein Turm.|1200]]
 
 <details><summary>🎨</summary>
 

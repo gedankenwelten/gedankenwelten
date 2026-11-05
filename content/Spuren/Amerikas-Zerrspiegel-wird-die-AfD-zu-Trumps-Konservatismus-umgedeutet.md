@@ -21,7 +21,7 @@ description: "Am selben Tag, dieselbe Straße — und drei Länder erzählen sic
 
 # Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?
 
-![[assets/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet-banner.jpg|1200]]
+![[assets/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet-banner.jpg|Zweigeteilt: links graue Menschen mit leeren Gesichtern und Schildern vor Hochhäusern, in der Mitte ein Rahmen mit Sternen in Rot und Weiß, rechts eine Collage aus zerrissenen Zeitungen, Filmstreifen und roten Flammen.|1200]]
 
 <details><summary>🎨</summary>
 

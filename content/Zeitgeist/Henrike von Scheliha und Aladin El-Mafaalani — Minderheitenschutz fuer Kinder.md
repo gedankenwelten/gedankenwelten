@@ -30,7 +30,7 @@ stimme:
 
 # Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?
 
-![[assets/Henrike-von-Scheliha-und-Aladin-El-Mafaalani-Minderheitenschutz-fuer-Kinder-banner.jpg|1200]]
+![[assets/Henrike-von-Scheliha-und-Aladin-El-Mafaalani-Minderheitenschutz-fuer-Kinder-banner.jpg|In einem holzgetäfelten Saal steht ein Mädchen mit einem Blatt Papier vor vollen Bänken alter Menschen; manche hören aufmerksam zu, einer strickt.|1200]]
 
 <details><summary>🎨</summary>
 

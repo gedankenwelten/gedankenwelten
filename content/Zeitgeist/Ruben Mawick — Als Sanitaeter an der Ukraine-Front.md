@@ -18,7 +18,7 @@ aliases:
 
 # Ruben Mawick — Als Sanitäter an der Ukraine-Front
 
-![[assets/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front-banner.jpg|1200]]
+![[assets/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front-banner.jpg|Kohlezeichnung mit wenig Farbe: Ein junger Mann mit nacktem, zerkratztem Oberkörper beugt sich über seine verbundenen Hände; links eine leere Straße durch verbrannte Steppe zu einer Rauchsäule, Holzkreuze am Wegrand, Drohnen am Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

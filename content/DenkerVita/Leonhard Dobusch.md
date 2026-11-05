@@ -8,7 +8,7 @@ tags: [denker-vita, medien, demokratie, österreich, organisation, digitales]
 
 # Leonhard Dobusch — DenkerVita
 
-![[assets/Leonhard-Dobusch-vita-banner.jpg|1200]]
+![[assets/Leonhard-Dobusch-vita-banner.jpg|Grafik in Rot, Blau und Gelb auf Rasterlinien: Links ein Funkturm mit Kreisen, rechts ein Schild mit einem Baum aus Symbolen über Büchern, von dem bunte Pfeile zu kleinen Porträts verschiedener Menschen führen.|1200]]
 
 <details><summary>🎨</summary>
 

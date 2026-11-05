@@ -20,7 +20,7 @@ aliases:
 
 # Erich Fromm — Haben oder Sein
 
-![[assets/Erich-Fromm-Haben-oder-Sein-banner.jpg|1200]]
+![[assets/Erich-Fromm-Haben-oder-Sein-banner.jpg|Zwei Männer in schwarzen Anzügen und Melonen von hinten vor grauem Meer; dem linken ragt ein Holzschrank mit Münzen und einem Tresor aus dem Rücken, dem rechten ein blühender Zweig mit Vogel. Zwischen ihnen schwebt ein roter Apfel.|1200]]
 
 <details><summary>🎨</summary>
 

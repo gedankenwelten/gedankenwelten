@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, kritische-theorie, demokratie, widerstand, migr
 
 # Robin Celikates — DenkerVita
 
-![[assets/Robin-Celikates-vita-banner.jpg|1200]]
+![[assets/Robin-Celikates-vita-banner.jpg|Dreigeteiltes Bild: links Arbeiter am Fließband einer Autofabrik, in der Mitte ein gelbes Taxi in einer nächtlichen Straße unter der Mondsichel, rechts Kellnerinnen mit Tellern in einem Lokal am Meer mit Segelbooten, davor liest ein Mann.|1200]]
 
 <details><summary>🎨</summary>
 

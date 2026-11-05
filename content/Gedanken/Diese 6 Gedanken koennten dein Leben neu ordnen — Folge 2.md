@@ -24,7 +24,7 @@ stimme:
 
 # Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2
 
-![[assets/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen-Folge-2-banner.jpg|1200]]
+![[assets/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen-Folge-2-banner.jpg|Ein sonniger Platz mit Arkaden: in den Bögen ein weißes Zimmer, ein violettes, eine Wand voller Buchstaben, Stühle mit Spiegel und eine Maschine vor grünem Feld, auf dem Platz eine Schneiderpuppe im Mantel und ein grüner Apfel.|1200]]
 
 <details><summary>🎨</summary>
 

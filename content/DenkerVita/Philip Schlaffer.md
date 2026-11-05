@@ -8,7 +8,7 @@ tags: [denker-vita, rechtsextremismus, deradikalisierung, deutschland, mecklenbu
 
 # Philip Schlaffer — DenkerVita
 
-![[assets/Philip-Schlaffer-vita-banner.jpg|1200]]
+![[assets/Philip-Schlaffer-vita-banner.jpg|Zweigeteiltes Bild: Links verlässt ein kahlköpfiger Mann mit einem Topfpflänzchen in der Hand eine verrauchte Kneipe, in der Männer beim Bier sitzen, rechts steht eine Tischtennisplatte auf einer grünen Wiese am Meer.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -17,7 +17,7 @@ aliases:
 
 # Ken Ono — Wenn das Wissen billig wird
 
-![[assets/Ken-Ono-Wenn-das-Wissen-billig-wird-banner.jpg|1200]]
+![[assets/Ken-Ono-Wenn-das-Wissen-billig-wird-banner.jpg|Aquarell: links eine endlose Wand aus blauen Kästchen, rechts ein aufgeschlagenes Buch voller Formeln und geometrischer Figuren, darauf baut eine kleine Strichfigur einen Turm aus Würfeln, umgeben von warmen Farbfeldern.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, medien, deutschland, liberalismus, kulturkritik
 
 # Ulf Poschardt — DenkerVita
 
-![[assets/Ulf-Poschardt-vita-banner.jpg|1200]]
+![[assets/Ulf-Poschardt-vita-banner.jpg|Flache Grafik in Rot, Creme und Grau: Ein dunkler Sportwagen rast über eine breite Straße mit rotem Pfeil auf eine tief stehende Sonne am Horizont zu.|1200]]
 
 <details><summary>🎨</summary>
 

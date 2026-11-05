@@ -16,7 +16,7 @@ aliases:
 
 # Heiner Flassbeck — Die Wahrheit über Staatsschulden
 
-![[assets/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden-banner.jpg|1200]]
+![[assets/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden-banner.jpg|Piktogramme auf Cremegrund: links eine Fabrik über Münzstapeln, in der Mitte ein Kreis aus Figuren, die Münzen weiterreichen, unter einem Tempel; rechts ein Containerschiff, eine Münzkette läuft ins Wasser, unten Figuren mit Sparschweinen.|1200]]
 
 <details><summary>🎨</summary>
 

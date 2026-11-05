@@ -24,7 +24,7 @@ aliases:
 
 # Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)
 
-![[assets/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-taz-lab-2025-banner.jpg|1200]]
+![[assets/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-taz-lab-2025-banner.jpg|Oben sitzen Reihen grauer Männer in Anzügen an einem langen Tisch und lesen Zeitungen; darunter spielen auf einem kleinen Hügel bunt gekleidete Kinder mit einem roten Ball, ein Mann schaut ihnen zu.|1200]]
 
 <details><summary>🎨</summary>
 

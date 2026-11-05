@@ -8,7 +8,7 @@ tags: [denker-vita, neurowissenschaften, psychologie, schweden]
 
 # Rebecca Böhme — DenkerVita
 
-![[assets/Rebecca-Boehme-vita-banner.jpg|1200]]
+![[assets/Rebecca-Boehme-vita-banner.jpg|Zarte Grafik: Eine Hand berührt eine andere, von der Berührung gehen Lichtkreise aus, und feine Nervenbahnen laufen zu einem durchscheinenden Körper und einem Gehirn.|1200]]
 
 <details><summary>🎨</summary>
 

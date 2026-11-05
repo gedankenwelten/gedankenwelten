@@ -18,7 +18,7 @@ aliases:
 
 # Jihan Alomar — Gefangen vom Islamischen Staat
 
-![[assets/Jihan-Alomar-Gefangen-vom-Islamischen-Staat-banner.jpg|1200]]
+![[assets/Jihan-Alomar-Gefangen-vom-Islamischen-Staat-banner.jpg|Radierung in dunklen Strichen: Eine Frau sitzt zusammengekauert auf einem Stuhl und drückt ein kleines Kind fest an sich, rechts fällt etwas Licht herein.|1200]]
 
 <details><summary>🎨</summary>
 

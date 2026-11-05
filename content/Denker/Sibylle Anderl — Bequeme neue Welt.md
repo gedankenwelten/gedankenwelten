@@ -27,7 +27,7 @@ stimme:
 
 # Sibylle Anderl — Bequeme neue Welt
 
-![[assets/Sibylle-Anderl-Bequeme-neue-Welt-banner.jpg|1200]]
+![[assets/Sibylle-Anderl-Bequeme-neue-Welt-banner.jpg|Zweigeteilt: Links spielt ein Junge in einem grauen Zimmer Klavier, auf dem ein Metronom steht; rechts liegt auf der Fensterbank vor einem schwarzen Sternenhimmel ein leuchtendes Tablet.|1200]]
 
 <details><summary>🎨</summary>
 

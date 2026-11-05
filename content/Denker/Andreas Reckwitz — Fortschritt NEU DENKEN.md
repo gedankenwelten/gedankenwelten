@@ -30,7 +30,7 @@ stimme:
 
 # Andreas Reckwitz — Fortschritt NEU DENKEN
 
-![[assets/Andreas-Reckwitz-Fortschritt-NEU-DENKEN-banner.jpg|1200]]
+![[assets/Andreas-Reckwitz-Fortschritt-NEU-DENKEN-banner.jpg|Ein leerer Platz mit Arkaden: Auf einem Sockel ein goldenes Zahnrad mit Kurbel, davor eine offene Truhe, Brot, ein Wasserhahn und eine Gießkanne neben einem jungen Bäumchen; rechts ein kahler Baum, ein goldener Pfeil fliegt im Bogen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -15,7 +15,7 @@ raetsel: "Alle warteten auf den Ball. Er kam von der anderen Seite."
 
 # Was mit 17 geschah
 
-![[assets/Was-mit-17-geschah-banner.jpg|1200]]
+![[assets/Was-mit-17-geschah-banner.jpg|Wimmelbild: eine Hügellandschaft mit Dorf, Wege kreuzen sich, Menschen gehen in alle Richtungen, ein Fußballtor, ein Kind schreibt an eine weiße Wand, rechts ein Häuschen mit Druckmaschine, an der eine Frau einem Jungen ein Blatt zeigt.|1200]]
 
 <details><summary>🎨</summary>
 

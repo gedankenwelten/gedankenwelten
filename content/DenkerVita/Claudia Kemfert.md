@@ -8,7 +8,7 @@ tags: [denker-vita, energiepolitik, klima, wirtschaft, deutschland]
 
 # Claudia Kemfert — DenkerVita
 
-![[assets/Claudia-Kemfert-vita-banner.jpg|1200]]
+![[assets/Claudia-Kemfert-vita-banner.jpg|Links eine goldene Sonne in Ringen aus Rot, Orange und Gelb, deren Strahlen über eine schwarze Silhouette mit Fabrikschloten fallen; rechts kühle Kreise und Blütenformen in Blau und Grün.|1200]]
 
 <details><summary>🎨</summary>
 

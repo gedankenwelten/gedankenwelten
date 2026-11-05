@@ -9,7 +9,7 @@ tags: [denker-vita, geopolitik, russland, ukraine, europa, demokratie, desinform
 
 # Sergey Lagodinsky
 
-![[assets/Sergey-Lagodinsky-vita-banner.jpg|1200]]
+![[assets/Sergey-Lagodinsky-vita-banner.jpg|Ein junger Mann sitzt auf einem Etagenbett aus Metall in einem kargen Zimmer und blickt zum Fenster, durch das man rote Dächer und einen Kirchturm sieht, auf dem Tisch ein Koffer und Bücher, warmes Licht.|1200]]
 
 <details><summary>🎨</summary>
 

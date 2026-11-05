@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, psychologie, humanismus, psychoanalyse]
 
 # Erich Fromm — DenkerVita
 
-![[assets/Erich-Fromm-banner.jpg|1200]]
+![[assets/Erich-Fromm-banner.jpg|Bunt gemalte Nacht: links Dorfhäuser und ein Junge, der neben einem aufgeschlagenen Buch und Kerzen Geige spielt, in der Mitte eine dunkle Gestalt, rechts ein Paar in Rot über einer Großstadt, Bergen und einem See.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, dialogik, judentum, religion, ethik, israel, de
 
 # Martin Buber — DenkerVita
 
-![[assets/Martin-Buber-vita-banner.jpg|1200]]
+![[assets/Martin-Buber-vita-banner.jpg|Strichzeichnung mit Blütenrahmen: Ein alter Mann mit langem Bart, schwarzem Mantel und Hut legt die Hand an einen großen Baumstamm, vor ihm ein aufgeschlagenes Buch, rechts ein kleines Dorf mit Zypressen.|1200]]
 
 <details><summary>🎨</summary>
 

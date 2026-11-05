@@ -27,7 +27,7 @@ stimme:
 
 # Greenpeace — Katherina Reiche und die Gasindustrie
 
-![[assets/Greenpeace-Katherina-Reiche-und-die-Gasindustrie-banner.jpg|1200]]
+![[assets/Greenpeace-Katherina-Reiche-und-die-Gasindustrie-banner.jpg|Kolorierter Stich: Herren mit Zylindern beugen sich gemeinsam über ein Dokument auf einem Schreibtisch, darunter kriechen Gasleitungen mit kleinen Flammen aus dem rissigen Boden; rechts ein Schreiber vor Aktenstapeln, im Fenster eine Windmühle.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, systemtheorie, soziologie, erkenntnistheorie]
 
 # Niklas Luhmann — DenkerVita
 
-![[assets/Niklas-Luhmann-vita-banner.jpg|1200]]
+![[assets/Niklas-Luhmann-vita-banner.jpg|Raster aus vielen kleinen Kacheln mit Symbolen und winziger Beschriftung, links grau und dunkelblau, rechts creme und goldbraun, rote Linien und Kreise ziehen sich wie Bahnen über das Feld.|1200]]
 
 <details><summary>🎨</summary>
 

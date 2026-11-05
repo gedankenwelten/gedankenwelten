@@ -15,7 +15,7 @@ aliases:
 
 # Walther Ziegler — Camus in 60 Minuten
 
-![[assets/Walther-Ziegler-Camus-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Camus-in-60-Minuten-banner.jpg|Scherenschnitt auf blauem Grund: Eine schwarze Gestalt schiebt eine große schwarze Kugel einen grünen Hügel hinauf, ringsum eine gelbe Sonne, Sterne und weiße und rosa Blätter.|1200]]
 
 <details><summary>🎨</summary>
 

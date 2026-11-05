@@ -26,7 +26,7 @@ stimme:
 
 # Das unsichtbare Netzwerk — Die Macht in Dir
 
-![[assets/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir-banner.jpg|1200]]
+![[assets/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir-banner.jpg|Querschnitt: In einem Gewölbe sitzen Menschen an Webstühlen, ihre hellen Fäden laufen hinab in ein leuchtendes Wurzelgeflecht unter der Erde, rechts stehen dunkle Gestalten auf einem Feld in der Dämmerung.|1200]]
 
 <details><summary>🎨</summary>
 

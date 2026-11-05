@@ -7,7 +7,7 @@ raetsel: "Früher sang er ins Mikrofon. Heute fragt die Familie: Was ist das sch
 
 # Robin Schmid — DenkerVita
 
-![[assets/Robin-Schmid-vita-banner.jpg|1200]]
+![[assets/Robin-Schmid-vita-banner.jpg|Fröhliche Aquarellzeichnung: Ein Mann mit Fliege singt auf einem Podest ins Mikrofon, Noten fliegen über einen Kleinwagen an einer Ladesäule, rechts winkt eine Familie von einem Balkon mit Solarplatten und Blumenkästen, daneben ein Radio, oben Wimpelketten.|1200]]
 
 <details><summary>🎨</summary>
 

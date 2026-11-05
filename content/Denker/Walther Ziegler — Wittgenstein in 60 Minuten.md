@@ -19,7 +19,7 @@ aliases:
 
 # Walther Ziegler — Wittgenstein in 60 Minuten
 
-![[assets/Walther-Ziegler-Wittgenstein-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Wittgenstein-in-60-Minuten-banner.jpg|Aquarell: Eine Mauer aus bunten Feldern mit Buchstaben, Pfeilen und Zeichen, an der kleine Strichmännchen klettern, Kisten tragen und Felder einsetzen; rechts führt eine Leiter nach oben.|1200]]
 
 <details><summary>🎨</summary>
 

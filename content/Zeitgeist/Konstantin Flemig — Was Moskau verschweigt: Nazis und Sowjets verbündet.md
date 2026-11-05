@@ -17,7 +17,7 @@ aliases:
 
 # Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet
 
-![[assets/Konstantin-Flemig-Was-Moskau-verschweigt-Nazis-und-Sowjets-verbuendet-banner.jpg|1200]]
+![[assets/Konstantin-Flemig-Was-Moskau-verschweigt-Nazis-und-Sowjets-verbuendet-banner.jpg|Vor einem roten Theatervorhang schütteln sich zwei Offiziere auf einem Podest die Hände, über ihnen zwei gekreuzte Fahnen; davor sitzen schwarze Kindersilhouetten in kleinen Spielzeugpanzern mit roten Luftballons.|1200]]
 
 <details><summary>🎨</summary>
 

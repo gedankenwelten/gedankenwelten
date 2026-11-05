@@ -16,7 +16,7 @@ aliases:
 
 # Benneckenstein und Wichmann — Zwischen Hass und Ausstieg
 
-![[assets/Benneckenstein-und-Wichmann-Zwischen-Hass-und-Ausstieg-banner.jpg|1200]]
+![[assets/Benneckenstein-und-Wichmann-Zwischen-Hass-und-Ausstieg-banner.jpg|Nachts durch ein erleuchtetes Schaufenster: Drei Männer sprechen an einem runden Tisch in Mikrofone; draußen auf dem nassen Gehweg liegt eine Lederjacke auf einer Bank unter einer Straßenlaterne.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # Wir sind keine Propheten — nicht einmal für uns selbst
 
-![[assets/Wir-sind-keine-Propheten-nicht-einmal-fuer-uns-selbst-banner.jpg|1200]]
+![[assets/Wir-sind-keine-Propheten-nicht-einmal-fuer-uns-selbst-banner.jpg|Zwei Männer stehen von hinten auf einem Felsen über einem Nebelmeer und halten je einen Rahmen hoch, im einen eine Maschine aus Zahnrädern, im anderen ein blühender Garten mit Weg.|1200]]
 
 <details><summary>🎨</summary>
 

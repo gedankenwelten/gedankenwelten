@@ -17,7 +17,7 @@ aktualisiert: 2026-10-22
 
 # Shi Heng Yi — DenkerVita
 
-![[assets/Shi-Heng-Yi-vita-banner.jpg|1200]]
+![[assets/Shi-Heng-Yi-vita-banner.jpg|Tuschmalerei auf hellem Grund: Eine kleine Gestalt in weißem Gewand geht über Trittsteine einen Hang hinauf, oben eine knorrige Kiefer vor einer goldenen Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

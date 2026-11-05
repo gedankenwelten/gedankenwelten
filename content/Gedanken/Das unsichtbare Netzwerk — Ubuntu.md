@@ -25,7 +25,7 @@ stimme:
 
 # Das unsichtbare Netzwerk — Ubuntu
 
-![[assets/Das-unsichtbare-Netzwerk-Ubuntu-banner.jpg|1200]]
+![[assets/Das-unsichtbare-Netzwerk-Ubuntu-banner.jpg|Nacht unter Sternenhimmel: Ein Mann mit Hut und Stab geht einen hellen, geschwungenen Weg entlang, ringsum verstreute kleine Häuser auf weiter Ebene, feine goldene Fäden verbinden sie, in einem brennt Licht.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -9,7 +9,7 @@ tags: [denker-vita, theologie, ethik, philosophie, ki, demokratie, deutschland]
 
 # Wolfgang Huber — DenkerVita
 
-![[assets/Wolfgang-Huber-vita-banner.jpg|1200]]
+![[assets/Wolfgang-Huber-vita-banner.jpg|Kubistisch gebrochen in Blau und Grau: Ein Mann im Mantel liest am Rand einer geraden Straße, die zu einer Dorfkirche führt, Lichtstrahlen fächern über den Himmel, links eine ferne Stadtsilhouette.|1200]]
 
 <details><summary>🎨</summary>
 

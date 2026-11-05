@@ -16,7 +16,7 @@ aliases:
 
 # David Chalmers — Das Hard Problem des Bewusstseins
 
-![[assets/David-Chalmers-Das-Hard-Problem-des-Bewusstseins-banner.jpg|1200]]
+![[assets/David-Chalmers-Das-Hard-Problem-des-Bewusstseins-banner.jpg|Ein riesiges Auge im dunklen Kosmos, in seiner Pupille eine leuchtende Blüte zwischen Wolken und Planeten, ringsum schweben goldene Kugeln.|1200]]
 
 <details><summary>🎨</summary>
 

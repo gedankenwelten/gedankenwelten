@@ -17,7 +17,7 @@ aliases:
 
 # scobel — Lyotard: Das Ende der Wahrheit?
 
-![[assets/scobel-Lyotard-das-Ende-der-Wahrheit-banner.jpg|1200]]
+![[assets/scobel-Lyotard-das-Ende-der-Wahrheit-banner.jpg|Ein hoher grauer Turm ragt durch die Wolken, um ihn schweben kleine Felsinseln mit einem aufgeschlagenen Buch, einer Schachfigur, einer Trompete und einem Gedenkstein mit unleserlicher Inschrift.|1200]]
 
 <details><summary>🎨</summary>
 

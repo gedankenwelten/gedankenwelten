@@ -24,7 +24,7 @@ aliases:
 
 # Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)
 
-![[assets/Veronika-Grimm-Der-Preis-als-Signal-banner.jpg|1200]]
+![[assets/Veronika-Grimm-Der-Preis-als-Signal-banner.jpg|Winternacht: Ein grauer Wohnblock voller Rohre und Zählerkästen, in einem Fenster sitzt ein einzelner Mensch; daneben eine Bäckerei mit leuchtender Auslage, eine Ampel auf Gelb und ein gläserner Bungalow mit Pool im Schnee.|1200]]
 
 <details><summary>🎨</summary>
 

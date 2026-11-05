@@ -17,7 +17,7 @@ aliases:
 
 # Anton Jäger — Lohnt sich politisches Engagement noch?
 
-![[assets/jaeger-hyperpolitik-banner.jpg|1200]]
+![[assets/jaeger-hyperpolitik-banner.jpg|Zweigeteilt: Links stemmen Arbeiter in bunten Overalls mit Helmen und Werkzeug gemeinsam ein Stahlgerüst, rechts stehen Menschen vereinzelt auf weißem Grund und halten leuchtende Handys hoch, aus denen Konfetti steigt.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -27,7 +27,7 @@ stimme:
 
 # Kimberlé Crenshaw — Intersektionalität und Critical Race Theory
 
-![[assets/Kimberle-Crenshaw-Intersektionalitaet-und-Critical-Race-Theory-banner.jpg|1200]]
+![[assets/Kimberle-Crenshaw-Intersektionalitaet-und-Critical-Race-Theory-banner.jpg|Auf ockerfarbenem Grund mit rotem Kreuz: oben ziehen Menschen unter bunten Bannern, unten tragen Menschen Lasten an Stangen, in der Mitte steht eine Frau mit einem Bücherstapel; links eine Säule, oben rechts ein beschriebenes Blatt.|1200]]
 
 <details><summary>🎨</summary>
 

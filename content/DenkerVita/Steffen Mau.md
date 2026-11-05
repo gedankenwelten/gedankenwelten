@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, deutschland]
 
 # Steffen Mau
 
-![[assets/Steffen-Mau-vita-banner.jpg|1200]]
+![[assets/Steffen-Mau-vita-banner.jpg|Flache Grafik: links ein Plattenbau mit gelben Balkonen, rechts ein von oben gesehenes Gelände, durch Mauern und Zäune in Felder geteilt, in denen kleine Figurengruppen stehen, an den Grenzen rote Funken.|1200]]
 
 <details><summary>🎨</summary>
 

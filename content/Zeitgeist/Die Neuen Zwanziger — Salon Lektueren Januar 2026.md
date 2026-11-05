@@ -17,7 +17,7 @@ aliases:
 
 # Die Neuen Zwanziger — Salon Lektüren Januar 2026
 
-![[assets/Die-Neuen-Zwanziger-Salon-Lektueren-Januar-2026-banner.jpg|1200]]
+![[assets/Die-Neuen-Zwanziger-Salon-Lektueren-Januar-2026-banner.jpg|Feine Federzeichnung unter dem Wort „Salon“: Zwei Menschen sitzen in Sesseln zu beiden Seiten eines hohen Bücherstapels, geschwungene Linien führen zu aufgeschlagenen Büchern mit Erdkugel, Körperskizze, Teekanne, Familie, Filmrolle und einer Musiknote.|1200]]
 
 <details><summary>🎨</summary>
 

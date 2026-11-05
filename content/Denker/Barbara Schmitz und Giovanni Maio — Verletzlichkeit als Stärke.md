@@ -17,7 +17,7 @@ aliases:
 
 # Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke
 
-![[assets/Barbara-Schmitz-und-Giovanni-Maio-Verletzlichkeit-als-Staerke-banner.jpg|1200]]
+![[assets/Barbara-Schmitz-und-Giovanni-Maio-Verletzlichkeit-als-Staerke-banner.jpg|Eine Frau in fließendem Gewand hält ein leuchtendes Kleinkind über die Wellen und taucht es ins Wasser, im Nebel dahinter stehen fünf leere Ritterrüstungen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -22,7 +22,7 @@ aliases:
 
 # André Zimpel — Neurodiversität
 
-![[assets/Andreas-Zimpel-Neurodiversitaet-banner.jpg|1200]]
+![[assets/Andreas-Zimpel-Neurodiversitaet-banner.jpg|Aquarell: eine Reihe bunter Gehirne, jedes anders gemustert, mit Dreiecken, Kristallen und Blüten, zuletzt eine Schneeflocke, umschwirrt von farbigen Ziffern.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Die
 
 # AfD an der Macht — die Probe auf das Gutachten
 
-![[assets/AfD-an-der-Macht-die-Probe-auf-das-Gutachten-banner.jpg|1200]]
+![[assets/AfD-an-der-Macht-die-Probe-auf-das-Gutachten-banner.jpg|Piktogramme auf heller Leiste: ein aufgeschlagenes Buch mit Tabellen, ein Säulengebäude mit Messschieber, eine Reihe Menschen mit roter Trennlinie, darüber ein Auge mit Lichtkegel, rechts Fußspuren.|1200]]
 
 <details><summary>🎨</summary>
 

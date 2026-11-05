@@ -29,7 +29,7 @@ aliases:
 
 # Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt
 
-![[assets/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-taz-FUTURZWEI-Talk-banner.jpg|1200]]
+![[assets/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-taz-FUTURZWEI-Talk-banner.jpg|Holzschnitt in Schwarz, Weiß und Rot: Nachts sitzen in einer Stadt voller Wohnblocks Menschen allein an Bildschirmen, rote Fäden verbinden die Fenster kreuz und quer; dahinter ein großes Säulengebäude mit tiefem Riss.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ aliases:
 
 # GFF-Gutachten — Die AfD ist verfassungswidrig
 
-![[assets/Valentiner-und-Moini-GFF-Gutachten-AfD-verfassungswidrig-banner.jpg|1200]]
+![[assets/Valentiner-und-Moini-GFF-Gutachten-AfD-verfassungswidrig-banner.jpg|In zersplitterten Flächen aus Blau und Gold: Ein steinernes Tor mit der Inschrift 21 und römisch 2 steht auf einer Ebene, an einem Pfeiler läuft ein roter Riss hinab, rechts liegen Steinblöcke, links geht die Sonne über einer Stadt auf.|1200]]
 
 <details><summary>🎨</summary>
 

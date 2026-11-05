@@ -16,7 +16,7 @@ aliases:
 
 # Die gefährlichste Frage unseres Lebens
 
-![[assets/scobel-gefaehrlichste-frage-banner.jpg|1200]]
+![[assets/scobel-gefaehrlichste-frage-banner.jpg|Holzschnitt in zarten Farben: Ein kleiner Vogel fliegt durch einen weiten, leeren Himmel zwischen zwei Kiefern, die von den Rändern hereinragen, unten flache Hügel im rosigen Dämmerlicht.|1200]]
 
 <details><summary>🎨</summary>
 

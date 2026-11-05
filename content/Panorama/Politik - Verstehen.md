@@ -17,7 +17,7 @@ erstellt: 2026-05-17
 
 # Politik — Verstehen
 
-![[assets/Politik-Verstehen-banner.jpg|1200]]
+![[assets/Politik-Verstehen-banner.jpg|Querschnitt: Oben sitzt eine lange Reihe verhüllter Gestalten vor Wandbildern mit Kronen und Fahnen, Fäden laufen von einem Turm hinab zu einem Webstuhl in einer Höhle voller Wurzeln, auf einer Treppe gehen Gestalten mit Kerzen.|1200]]
 
 <details><summary>🎨</summary>
 

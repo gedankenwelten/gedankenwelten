@@ -22,7 +22,7 @@ stimme:
 
 # Hans Maggi — Kurdistan im Nordirak
 
-![[assets/Hans-Maggi-Kurdistan-im-Nordirak-banner.jpg|1200]]
+![[assets/Hans-Maggi-Kurdistan-im-Nordirak-banner.jpg|In einem verzierten Rahmen ein silbernes Tablett mit Teegläsern, Fladenbrot, Melone, Pfirsichen und Obst auf einem Teppich, dahinter fahren zwei Radfahrer eine Straße durch Terrassen auf die helle Sonne zu.|1200]]
 
 <details><summary>🎨</summary>
 

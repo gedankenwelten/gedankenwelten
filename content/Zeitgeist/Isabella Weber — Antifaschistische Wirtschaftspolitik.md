@@ -34,7 +34,7 @@ stimme:
 
 # Isabella Weber — Antifaschistische Wirtschaftspolitik
 
-![[assets/Isabella-Weber-Antifaschistische-Wirtschaftspolitik-banner.jpg|1200]]
+![[assets/Isabella-Weber-Antifaschistische-Wirtschaftspolitik-banner.jpg|Holzschnitt in Schwarz und Weiß, zweigeteilt: links sitzen zwei Menschen in Wintermänteln an einem Küchentisch neben dem Gaszähler; rechts eine Gasse mit Marktständen und ein Lager voller Getreidesäcke, auf der Treppe sitzt ein alter Mann.|1200]]
 
 <details><summary>🎨</summary>
 

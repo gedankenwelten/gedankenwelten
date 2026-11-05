@@ -22,7 +22,7 @@ aliases:
 
 # Was bewirkt Meditation, und woran messen wir das?
 
-![[assets/Was-bewirkt-Meditation-banner.jpg|1200]]
+![[assets/Was-bewirkt-Meditation-banner.jpg|Ein kahles, helles Zimmer: Eine Person sitzt von hinten gesehen auf einem Kissen am Boden, vor ihr ein Fenster und ein kleiner Tisch mit einer Waage.|1200]]
 
 <details><summary>🎨</summary>
 

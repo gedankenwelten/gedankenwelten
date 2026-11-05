@@ -18,7 +18,7 @@ aliases:
 
 # Hannah Arendt — Denken ohne Geländer
 
-![[assets/Hannah-Arendt-Denken-ohne-Gelaender-banner.jpg|1200]]
+![[assets/Hannah-Arendt-Denken-ohne-Gelaender-banner.jpg|Drei schlanke Gliederpuppen steigen eine kahle Treppe ohne Geländer in einem blaugrauen Raum hinauf, an der Wand nur ein schmaler goldener Lichtstreif; die oberste balanciert mit ausgebreiteten Armen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -19,7 +19,7 @@ aliases:
 
 # Markus Gabriel — Kann es eine universelle Moral geben?
 
-![[assets/Markus-Gabriel-Universelle-Moral-banner.jpg|1200]]
+![[assets/Markus-Gabriel-Universelle-Moral-banner.jpg|Scherenschnitt aus farbigen Papierflächen: Vier Gestalten in Blau und Rotbraun reichen einander tanzend die Hände, umgeben von schwarzen Algenformen und gelben Sternen.|1200]]
 
 <details><summary>🎨</summary>
 

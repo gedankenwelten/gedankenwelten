@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, aufklaerung, erkenntnistheorie, ethik]
 
 # Immanuel Kant
 
-![[assets/Immanuel-Kant-vita-banner.jpg|1200]]
+![[assets/Immanuel-Kant-vita-banner.jpg|Feine Federzeichnung: Eine Frauenfigur mit Zirkel steht auf einem Brückenbogen über Zahnrädern, über ihr leuchtet eine goldene Schrifttafel vor einem Himmel voller Sternbilder.|1200]]
 
 <details><summary>🎨</summary>
 

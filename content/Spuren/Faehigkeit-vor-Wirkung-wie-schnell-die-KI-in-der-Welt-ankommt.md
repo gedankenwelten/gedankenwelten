@@ -18,7 +18,7 @@ raetsel: "Draußen über dem Meer wuchs ein Turm aus Licht. Der Bauer zog seine 
 
 # Fähigkeit vor Wirkung — wie schnell kommt die klügere Maschine in der Welt an?
 
-![[assets/Faehigkeit-vor-Wirkung-KI-banner.jpg|1200]]
+![[assets/Faehigkeit-vor-Wirkung-KI-banner.jpg|Gemälde: An einer Küste pflügt ein Bauer mit Pferd, ein Mann mit Stock schaut aufs Meer, ein anderer angelt, links eine Stadt mit Türmen, Segelschiffe auf dem Wasser, am Horizont ragt eine leuchtend weiße Lichtsäule auf.|1200]]
 
 <details><summary>🎨</summary>
 

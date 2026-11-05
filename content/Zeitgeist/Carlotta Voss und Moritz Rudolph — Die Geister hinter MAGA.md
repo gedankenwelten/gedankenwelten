@@ -21,7 +21,7 @@ aliases:
 
 # Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens
 
-![[assets/Carlotta-Voss-und-Moritz-Rudolph-Die-Geister-hinter-MAGA-banner.jpg|1200]]
+![[assets/Carlotta-Voss-und-Moritz-Rudolph-Die-Geister-hinter-MAGA-banner.jpg|Ein leerer, sonnenheller Platz mit Arkaden unter dunkelblauem Himmel: Eine umgestürzte Säule, ein Bücherstapel und eine kleine Rakete werfen lange violette Schatten, dazu die Schatten zweier Menschen, die selbst nicht zu sehen sind.|1200]]
 
 <details>
 <summary>🎨</summary>

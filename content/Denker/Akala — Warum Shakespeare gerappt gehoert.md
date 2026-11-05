@@ -20,7 +20,7 @@ aliases:
 
 # Akala — Warum Shakespeare gerappt gehört
 
-![[assets/Akala-Warum-Shakespeare-gerappt-gehoert-banner.jpg|1200]]
+![[assets/Akala-Warum-Shakespeare-gerappt-gehoert-banner.jpg|Wild bemalt in Ocker, Schwarz und Rot mit Kritzelschrift: ein Schädel mit Krone und ein Kopf mit Kopfhörern sehen sich an, dazwischen eine Herzschlaglinie, eine Feder kreuzt ein Mikrofon, rechts ein anatomisches Herz.|1200]]
 
 <details><summary>🎨</summary>
 

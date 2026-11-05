@@ -8,7 +8,7 @@ raetsel: "Sie hat zwei Väter. Der eine saß neben ihr im Flugzeug."
 
 # Düzen Tekkal — DenkerVita
 
-![[assets/Duezen-Tekkal-vita-banner.jpg|1200]]
+![[assets/Duezen-Tekkal-vita-banner.jpg|Collage aus zerrissenem Papier, Zeitungsausschnitten, einer alten Eintrittskarte, einem Stück Teppich mit rotem Muster, Holzstäben und einer Rolle aus Pappe, quer durchzogen von einem roten Streifen.|1200]]
 
 <details><summary>🎨</summary>
 

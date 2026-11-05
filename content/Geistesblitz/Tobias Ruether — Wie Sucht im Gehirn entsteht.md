@@ -17,7 +17,7 @@ aliases:
 
 # Tobias Rüther — Wie Sucht im Gehirn entsteht
 
-![[assets/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht-banner.jpg|1200]]
+![[assets/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht-banner.jpg|Pastose Malerei in Glutfarben: Eine Gestalt sitzt zusammengekauert in einem wirbelnden Strom aus Gold und Orange voller Lichtpunkte, weiter hinten streckt eine zweite Figur die Hand aus, darüber ein violett wirbelnder Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, geopolitik, osteuropa, philosophie]
 
 # Ivan Krastev — DenkerVita
 
-![[assets/Ivan-Krastev-vita-banner.jpg|1200]]
+![[assets/Ivan-Krastev-vita-banner.jpg|Grafik in Rot, Schwarz, Weiß und Creme: Ein gezackter Riss läuft durch eine Europakarte, links ein schräges weißes Quadrat, rechts ein rotes, Pfeile weisen von Osten nach Westen.|1200]]
 
 <details><summary>🎨</summary>
 

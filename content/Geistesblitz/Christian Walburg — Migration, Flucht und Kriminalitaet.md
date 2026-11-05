@@ -27,7 +27,7 @@ stimme:
 
 # Christian Walburg — Migration, Flucht und Kriminalität
 
-![[assets/Christian-Walburg-Migration,-Flucht-und-Kriminalitaet-banner.jpg|1200]]
+![[assets/Christian-Walburg-Migration,-Flucht-und-Kriminalitaet-banner.jpg|Ein kahler, hellgrüner Warteraum mit Holzbänken, auf denen Männer still in Papieren lesen, an der Wand eine Uhr über einer geschlossenen Tür, durch ein Fenster eine sonnige Straße mit Kran und Geschäften.|1200]]
 
 <details><summary>🎨</summary>
 

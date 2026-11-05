@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, uebersetzung, senegal, islam, universalismus]
 
 # Souleymane Bachir Diagne — DenkerVita
 
-![[assets/Souleymane-Bachir-Diagne-vita-banner.jpg|1200]]
+![[assets/Souleymane-Bachir-Diagne-vita-banner.jpg|Mosaikbild in goldenem Ornamentrahmen: links ein Regal voller Bücher, in der Mitte eine Gestalt im langen grauen Gewand mit Tablett und dampfender Tasse in einer hell erleuchteten Tür, rechts verschlungene grüne und rote Muster.|1200]]
 
 <details><summary>🎨</summary>
 

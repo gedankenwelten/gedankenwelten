@@ -15,7 +15,7 @@ aliases:
 
 # Udo Marquardt — Zeit als Schlüssel zum guten Leben
 
-![[assets/Marquardt-Zeit-als-Schluessel-zum-guten-Leben-banner.jpg|1200]]
+![[assets/Marquardt-Zeit-als-Schluessel-zum-guten-Leben-banner.jpg|Nachtbild in Blau: Eine geflügelte Standuhr schwebt über den Dächern, eine Frau fliegt zu einem erleuchteten Fenster mit Bett, auf einem Dach spielt ein Kind Geige, Noten steigen auf.|1200]]
 
 <details><summary>🎨</summary>
 

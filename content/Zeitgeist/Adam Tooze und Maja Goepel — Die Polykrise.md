@@ -27,7 +27,7 @@ stimme:
 
 # Adam Tooze und Maja Göpel — Die Polykrise
 
-![[assets/Adam-Tooze-und-Maja-Goepel-Die-Polykrise-banner.jpg|1200]]
+![[assets/Adam-Tooze-und-Maja-Goepel-Die-Polykrise-banner.jpg|Collage aus Papierfetzen: eine Taschenuhr und Münzen vor Zahlenkolonnen, Kühltürme und Serverschränke über rissiger Erde, ein großes Auge aus Leiterplatten, eine Hand mit einem Glas dunkler Flüssigkeit unter einem Blitzpfeil.|1200]]
 
 <details><summary>🎨</summary>
 

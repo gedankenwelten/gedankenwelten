@@ -6,7 +6,7 @@ tags: [denker-vita, buddhismus, ethik, tibet]
 
 # Dalai Lama — DenkerVita
 
-![[assets/Dalai-Lama-vita-banner.jpg|1200]]
+![[assets/Dalai-Lama-vita-banner.jpg|Ein Mönch im roten Gewand steht auf einem Steinpfad vor einem violettblauen Hochgebirge, in der Mitte ein Berg, dessen Hang wie ein goldener Stufentempel leuchtet; darüber ein heller Stern.|1200]]
 
 <details><summary>🎨</summary>
 

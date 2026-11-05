@@ -6,7 +6,7 @@ tags: [denker-vita, palästina, völkerrecht, diaspora]
 
 # Xavier Abu Eid — DenkerVita
 
-![[assets/Xavier-Abu-Eid-vita-banner.jpg|1200]]
+![[assets/Xavier-Abu-Eid-vita-banner.jpg|Wandbild auf rissigem Putz: rote Berge mit gelben Streifen über blauem Meer mit Schiff, rechts eine gelbe Kirche auf Stufen mit Bäumen, davor Menschen in bunten Hemden und eine große erhobene Hand mit einem Ausweis.|1200]]
 
 <details><summary>🎨</summary>
 

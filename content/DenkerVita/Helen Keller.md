@@ -8,7 +8,7 @@ tags: [denker-vita, völkerrecht, philosophie, demokratie, geopolitik, schweiz]
 
 # Helen Keller — DenkerVita
 
-![[assets/Helen-Keller-vita-banner.jpg|1200]]
+![[assets/Helen-Keller-vita-banner.jpg|Buntglasfenster in Blau, Grün und Rot: In der Mitte eine goldene Waage mit einer Weltkugel und einem Ölzweig, ringsum fliegen weiße Tauben.|1200]]
 
 <details><summary>🎨</summary>
 

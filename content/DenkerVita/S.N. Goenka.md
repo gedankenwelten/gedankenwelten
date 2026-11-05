@@ -12,7 +12,7 @@ aliases:
 
 # S.N. Goenka — DenkerVita
 
-![[assets/S.N.-Goenka-banner.jpg|1200]]
+![[assets/S.N.-Goenka-banner.jpg|Aquarell in Blau und Gold: Eine Figur aus geometrischen Flächen steht vor einer Sonne, daneben meditiert eine Figur aus Mosaikquadraten, rechts sitzt eine Reihe Menschen auf einem Hügel. Schriftzüge „Anicca“ und „die Technik, nicht der Lehrer“.|1200]]
 
 <details><summary>🎨</summary>
 

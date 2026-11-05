@@ -20,7 +20,7 @@ aliases:
 
 # Studio Bonn — Extremer Reichtum
 
-![[assets/Studio-Bonn-Extremer-Reichtum-banner.jpg|1200]]
+![[assets/Studio-Bonn-Extremer-Reichtum-banner.jpg|Eine Vorstadtstraße in der Dämmerung: links ein zerbeultes altes Auto vor einem dunklen Haus, rechts eine erleuchtete Garage mit drei glänzenden Oldtimern; dazwischen ragt eine dünne Säule aus Goldmünzen bis zur Mondsichel.|1200]]
 
 <details><summary>🎨</summary>
 

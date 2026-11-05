@@ -6,7 +6,7 @@ tags: [denker-vita, philosophie, ethik, psychologie]
 
 # Fabian Bernhardt — DenkerVita
 
-![[assets/Fabian-Bernhardt-banner.jpg|1200]]
+![[assets/Fabian-Bernhardt-banner.jpg|Aquarell in Ocker und Blau: ein Raster aus Feldern mit kleinen Zeichen wie Flammen, Masken, Kronen, Herzen und Pfeilen, in der Mitte ein schwarzes Quadrat, unten das Wort Rache; oben eine Sonne und eine Mondsichel.|1200]]
 
 <details><summary>🎨</summary>
 

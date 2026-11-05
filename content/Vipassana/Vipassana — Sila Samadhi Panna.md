@@ -27,7 +27,7 @@ stimme:
 
 # Vipassana — Sīla, Samādhi, Paññā
 
-![[assets/Vipassana_Sila_Samadhi_Panna.png]]
+![[assets/Vipassana_Sila_Samadhi_Panna.png|Aquarelltafel: links ein Gefäß und kleine Formen, in der Mitte eine meditierende Figur auf einem dreibeinigen Gestell, rechts ein leuchtender Kristall und eine strahlende Sonne, darüber der Satz wie ein Dreifuß, alle drei Beine stützen sich gegenseitig.]]
 
 <details><summary>🎨</summary>
 

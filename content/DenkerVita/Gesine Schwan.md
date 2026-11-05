@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, philosophie, macht, deutschland]
 
 # Gesine Schwan — DenkerVita
 
-![[assets/Gesine-Schwan-vita-banner.jpg|1200]]
+![[assets/Gesine-Schwan-vita-banner.jpg|Flächig gemalte Runde: Frauen und Männer verschiedener Herkunft sitzen um einen runden Tisch und sprechen mit Gesten, hinter ihnen bunte Giebelhäuser, darüber eine weiße Taube im Sternenkranz der Europaflagge.|1200]]
 
 <details><summary>🎨</summary>
 

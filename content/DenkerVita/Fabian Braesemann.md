@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, ki, arbeit, oxford, deutschland]
 
 # Fabian Braesemann — DenkerVita
 
-![[assets/Fabian-Braesemann-vita-banner.jpg|1200]]
+![[assets/Fabian-Braesemann-vita-banner.jpg|Feine Liniengrafik: Von links laufen geordnete Linien über Pfeile, kleine Symbole und Zahnräder zu einem großen Zahnrad, hinter dem alles in ein Gewirr aus Punkten, Linien und Splittern zerfällt.|1200]]
 
 <details><summary>🎨</summary>
 

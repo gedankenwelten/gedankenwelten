@@ -9,7 +9,7 @@ tags: [denker-vita, philosophie, erkenntnistheorie, ethik, neuer-realismus, ki, 
 
 # Markus Gabriel — DenkerVita
 
-![[assets/Markus-Gabriel-vita-banner.jpg|1200]]
+![[assets/Markus-Gabriel-vita-banner.jpg|Schwarzweiße Federzeichnung: Ein unmögliches Labyrinth aus Räumen, Rahmen und Treppen, die in alle Richtungen führen, darin kleine Figuren.|1200]]
 
 <details><summary>🎨</summary>
 

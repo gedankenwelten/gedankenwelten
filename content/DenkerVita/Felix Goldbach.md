@@ -7,7 +7,7 @@ raetsel: "Bei der Bank lernte er, Zinsen zu zählen. Jetzt zählt er Sonnenstund
 
 # Felix Goldbach — DenkerVita
 
-![[assets/Felix-Goldbach-vita-banner.jpg|1200]]
+![[assets/Felix-Goldbach-vita-banner.jpg|Bunte Baustelle unter einem Dach aus blauen und gelben Solarplatten: Arbeiter mit Schutzhelmen verlegen dicke Kabel, einer stemmt einen großen Speicher in die Höhe, daneben ein Klimagerät und rechts ein Windrad.|1200]]
 
 <details><summary>🎨</summary>
 

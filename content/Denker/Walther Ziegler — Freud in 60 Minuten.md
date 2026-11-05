@@ -17,7 +17,7 @@ aliases:
 
 # Walther Ziegler — Freud in 60 Minuten
 
-![[assets/Walther-Ziegler-Freud-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Freud-in-60-Minuten-banner.jpg|Oben schreibt ein Mann an einem Schreibtisch in einer Bibliothek, durchs Fenster scheint der Mond; darunter steigt in einem gewölbten, gefluteten Keller ein Pferd aus einem dampfenden Kessel, umgeben von Fischen und Faltern.|1200]]
 
 <details><summary>🎨</summary>
 

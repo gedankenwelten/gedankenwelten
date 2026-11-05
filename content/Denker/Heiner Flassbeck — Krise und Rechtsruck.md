@@ -25,7 +25,7 @@ aliases:
 
 # Heiner Flassbeck — Krise und Rechtsruck
 
-![[assets/Heiner-Flassbeck-Krise-und-Rechtsruck-banner.jpg|1200]]
+![[assets/Heiner-Flassbeck-Krise-und-Rechtsruck-banner.jpg|Karikatur: Auf einer großen Waage wiegen links Kisten mit der Aufschrift Gold und Berge von Münzen schwerer als rechts eine Schale voll gestikulierender Männer mit Büchern; rechts marschieren dunkle Gestalten aus rotem Rauch.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -24,7 +24,7 @@ aliases:
 
 # Herfried Münkler — Muss es Kriege geben?
 
-![[assets/Herfried-Muenkler-Muss-es-Kriege-geben-banner.jpg|1200]]
+![[assets/Herfried-Muenkler-Muss-es-Kriege-geben-banner.jpg|Wimmelbild wie ein altes Gemälde: ein umzäuntes Dorf mit Strohdachhäusern, Ernte und Tanz an einem Fluss; am anderen Ufer sammelt sich eine Schar Bewaffneter mit Speeren, auf dem Hügel bläst einer ein Horn.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, psychologie, medien, demokratie, deutschland]
 
 # Maren Urner — DenkerVita
 
-![[assets/Maren-Urner-banner.jpg|1200]]
+![[assets/Maren-Urner-banner.jpg|Düsteres Höhlengewölbe: Eine verhüllte Gestalt sitzt an einem Tisch in Form eines Gehirns und schneidet Zeitungen aus, links wirbelt ein Strudel aus Artikeln und Bildschirmen, rechts ein leuchtendes Netz aus Lichtpunkten.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, recht, demokratie, deutschland, feminismus, antidiskriminier
 
 # Valentina Chiofalo — DenkerVita
 
-![[assets/Valentina-Chiofalo-banner.jpg|1200]]
+![[assets/Valentina-Chiofalo-banner.jpg|Feine Zeichnung auf Millimeterpapier: Verstreute Punkte und Zeichen verdichten sich von links zu Linienbündeln, die rechts in einen sternförmigen Kreis mit einer mandelförmigen Öffnung in der Mitte münden.|1200]]
 
 <details><summary>🎨</summary>
 

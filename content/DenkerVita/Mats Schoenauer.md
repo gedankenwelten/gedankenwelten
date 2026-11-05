@@ -8,7 +8,7 @@ tags: [denker-vita, medien, desinformation, deutschland, medienkritik]
 
 # Mats Schoenauer — DenkerVita
 
-![[assets/Mats-Schoenauer-vita-banner.jpg|1200]]
+![[assets/Mats-Schoenauer-vita-banner.jpg|Grelle Collage aus Zeitungsfetzen und Gesichtssymbolen: In der Mitte hängt ein goldener Topf voller Münzen an einem Haken, eine Hand hält eine Lupe über einen leeren Topf. Schlagzeilen rufen „Schock“, „Skandal“ und „Enthüllt“.|1200]]
 
 <details><summary>🎨</summary>
 

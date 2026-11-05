@@ -21,7 +21,7 @@ tags:
 
 # Was macht die KI aus unserem Denken?
 
-![[assets/Was-macht-die-KI-aus-unserem-Denken-banner.jpg|1200]]
+![[assets/Was-macht-die-KI-aus-unserem-Denken-banner.jpg|Ein Mann mit Melone steht von hinten in einem hellen Zimmer vor einem gerahmten Bild, das ihn ebenso von hinten vor blauem Himmel zeigt, links ein offenes Fenster, darunter ein Tisch mit Blatt und Füller.|1200]]
 
 <details><summary>🎨</summary>
 

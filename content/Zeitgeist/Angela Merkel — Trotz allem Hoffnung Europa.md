@@ -19,7 +19,7 @@ aliases:
 
 # Angela Merkel — Trotz allem: Hoffnung Europa?
 
-![[assets/Angela-Merkel-Trotz-allem-Hoffnung-Europa-banner.jpg|1200]]
+![[assets/Angela-Merkel-Trotz-allem-Hoffnung-Europa-banner.jpg|Ein weiter Innenhof mit Bogengängen unter Sternenhimmel: Ein einzelner Mann steht an einem langen Tisch, eine rote Linie zieht sich über den Boden, im Pflaster eine Münze mit zwei Profilköpfen; von oben ragt ein dunkler Block herein.|1200]]
 
 <details><summary>🎨</summary>
 

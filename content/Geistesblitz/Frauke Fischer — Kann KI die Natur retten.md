@@ -25,7 +25,7 @@ stimme:
 
 # Frauke Fischer — Kann KI die Natur retten?
 
-![[assets/Frauke-Fischer-Kann-KI-die-Natur-retten-banner.jpg|1200]]
+![[assets/Frauke-Fischer-Kann-KI-die-Natur-retten-banner.jpg|Naturkundliche Zeichnung auf vergilbtem Papier: ein Kakaozweig mit Blüte und Früchten, darauf ein Frosch, daneben zwei Insekten und unten ein gefleckter Hai.|1200]]
 
 <details><summary>🎨</summary>
 

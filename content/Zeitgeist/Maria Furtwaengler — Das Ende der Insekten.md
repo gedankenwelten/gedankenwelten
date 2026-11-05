@@ -26,7 +26,7 @@ stimme:
 
 # Maria Furtwängler — Das Ende der Insekten?
 
-![[assets/Maria-Furtwaengler-Das-Ende-der-Insekten-banner.jpg|1200]]
+![[assets/Maria-Furtwaengler-Das-Ende-der-Insekten-banner.jpg|Blick durch eine Windschutzscheibe auf eine schnurgerade Landstraße zwischen Maisfeldern, am Horizont Windräder, am leeren Himmel ein einzelner kleiner Schmetterling.|1200]]
 
 <details><summary>🎨</summary>
 

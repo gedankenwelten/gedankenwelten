@@ -18,7 +18,7 @@ aliases:
 
 # Good News — Gute Nachrichten Juni 2026
 
-![[assets/Good-News-Gute-Nachrichten-Juni-2026-banner.jpg|1200]]
+![[assets/Good-News-Gute-Nachrichten-Juni-2026-banner.jpg|Bunte Illustration: links junger Wald mit Kirschblüten und eine Hängebrücke über einer Schlucht, in der Mitte Windräder und Solarfelder auf grünen Hügeln, rechts das Opernhaus von Sydney an einer Bucht mit Becken und Segelboot, vorne Seepferdchen.|1200]]
 
 <details><summary>🎨</summary>
 

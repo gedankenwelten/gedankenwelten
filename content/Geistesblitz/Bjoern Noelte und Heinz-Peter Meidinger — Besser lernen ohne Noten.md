@@ -29,7 +29,7 @@ stimme:
 
 # Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?
 
-![[assets/Bjoern-Noelte-und-Heinz-Peter-Meidinger-Besser-lernen-ohne-Noten-banner.jpg|1200]]
+![[assets/Bjoern-Noelte-und-Heinz-Peter-Meidinger-Besser-lernen-ohne-Noten-banner.jpg|Gemälde einer alten Dorfschule: Ein bärtiger Lehrer steht am Pult vor einer dicht gedrängten Schar weinender und staunender Kinder, rechts beugen sich Frauen mit Kindern über einen Tisch, am Boden zerrissene Papiere.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -13,7 +13,7 @@ tags:
 
 # Georg Wilhelm Friedrich Hegel — DenkerVita
 
-![[assets/Georg-Wilhelm-Friedrich-Hegel-vita-banner.jpg|1200]]
+![[assets/Georg-Wilhelm-Friedrich-Hegel-vita-banner.jpg|Nächtliches Gemälde: Eine Eule fliegt einer gleißenden Sonne entgegen, ihr folgt in goldenen Wirbeln eine Schar Menschen mit erhobenen Armen, darunter ein Meer im Abendlicht.|1200]]
 
 <details><summary>🎨</summary>
 

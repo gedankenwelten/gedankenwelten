@@ -8,7 +8,7 @@ tags: [denker-vita, medienkritik, demokratie, deutschland, rechtsextremismus, yo
 
 # Staiy — DenkerVita
 
-![[assets/Staiy-vita-banner.jpg|1200]]
+![[assets/Staiy-vita-banner.jpg|Flache Grafik: Ein Leuchtturm wächst aus einem aufgeschlagenen Buch und wirft seinen Lichtkegel auf leere Sprechblasen, links im dunklen Gewölk schemenhafte Gesichter und Dollarzeichen.|1200]]
 
 <details><summary>🎨</summary>
 

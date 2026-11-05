@@ -9,7 +9,7 @@ tags: [denker-vita, theologie, ethik, philosophie, religion, ruanda, schweiz, de
 
 # Christine Schliesser — DenkerVita
 
-![[assets/Christine-Schliesser-vita-banner.jpg|1200]]
+![[assets/Christine-Schliesser-vita-banner.jpg|Zwei Frauen in gemusterten Kleidern stehen auf rotem Boden vor terrassierten grünen Feldern, zwischen ihnen ein braunes Rind mit langen Hörnern, die rechte hebt die Hand.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 
 # USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit
 
-![[assets/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit-banner.jpg|1200]]
+![[assets/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit-banner.jpg|Kohlezeichnung: Unter einer Lampe drängen sich viele Menschen hinter einem Maschendrahtzaun und recken die Hände, rechts gehen andere unbeteiligt vorbei, am Boden liegt ein Heft.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -8,7 +8,7 @@ tags: [denker-vita, geopolitik, kapitalismus, postkolonialismus, indien, wirtsch
 
 # Vijay Prashad — DenkerVita
 
-![[assets/Vijay-Prashad-vita-banner.jpg|1200]]
+![[assets/Vijay-Prashad-vita-banner.jpg|Schwarzweißer Holzschnitt: Ein Mann sitzt schreibend an einem Tisch, neben ihm eine dichte Menge Arbeiter mit Hämmern und Werkzeugen, darunter kleine Schiffe und eine Bahnlinie.|1200]]
 
 <details><summary>🎨</summary>
 

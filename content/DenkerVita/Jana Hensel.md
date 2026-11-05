@@ -8,7 +8,7 @@ tags: [denker-vita, deutschland, demokratie, afd, soziale-ungleichheit, medien]
 
 # Jana Hensel — DenkerVita
 
-![[assets/Jana-Hensel-vita-banner.jpg|1200]]
+![[assets/Jana-Hensel-vita-banner.jpg|Eine Frau im langen Mantel steht, von hinten gesehen, auf einer Wiese und blickt im Morgendunst auf eine Stadt mit Plattenbauten, Kirchturm und Schornstein.|1200]]
 
 <details><summary>🎨</summary>
 

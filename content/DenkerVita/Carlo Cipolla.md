@@ -9,7 +9,7 @@ tags: [denker-vita, wirtschaft, wirtschaftsgeschichte, geschichte, europa, demog
 
 # Carlo Cipolla — DenkerVita
 
-![[assets/Carlo-Cipolla-vita-banner.jpg|1200]]
+![[assets/Carlo-Cipolla-vita-banner.jpg|Strichzeichnung auf hellem Grund: Ein Achsenkreuz teilt vier Felder, in denen Strichmännchen miteinander zu tun haben, dazu Münzen, ein rotes Herz, Plus- und Minuszeichen und Pfeile.|1200]]
 
 <details><summary>🎨</summary>
 

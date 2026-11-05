@@ -32,7 +32,7 @@ stimme:
 
 # Rechtspopulismus und der demokratische Verfassungsstaat
 
-![[assets/Alexander-Thiele-Rechtspopulismus-und-der-demokratische-Verfassungsstaat-banner.jpg|1200]]
+![[assets/Alexander-Thiele-Rechtspopulismus-und-der-demokratische-Verfassungsstaat-banner.jpg|Eine Reihe Menschen in Alltagskleidung beugt sich neugierig vor, hinter ihnen verblassen weitere zu Bleistiftskizzen; vor ihnen läuft ein Riss im Boden auf eine hölzerne Wahlurne zu, in der ein Stimmzettel steckt.|1200]]
 
 <details><summary>🎨</summary>
 

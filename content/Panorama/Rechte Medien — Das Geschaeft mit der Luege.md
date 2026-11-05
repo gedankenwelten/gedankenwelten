@@ -17,7 +17,7 @@ erstellt: 2026-07-14
 
 # Rechte Medien — das Geschäft mit der Lüge
 
-![[assets/Rechte-Medien-Geschaeft-Luege-banner.jpg|1200]]
+![[assets/Rechte-Medien-Geschaeft-Luege-banner.jpg|Schwarzweiß mit einem roten Akzent: Eine Hand kurbelt an einer Maschine mit Zähnen aus Zeitungspapier, aus deren Maul Papierflieger aus Zeitungsseiten über eine graue Menge schießen, einer davon rot.|1200]]
 
 <details><summary>🎨</summary>
 

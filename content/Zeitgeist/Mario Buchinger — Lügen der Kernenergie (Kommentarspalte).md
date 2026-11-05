@@ -18,7 +18,7 @@ aliases:
 
 # Mario Buchinger — Lügen der Kernenergie: Kommentarspalte
 
-![[assets/Mario-Buchinger-Luegen-der-Kernenergie-Kommentarspalte-banner.jpg|1200]]
+![[assets/Mario-Buchinger-Luegen-der-Kernenergie-Kommentarspalte-banner.jpg|Zeichnung: Links eine große goldene Sonne mit der Beschriftung „Fusionsreaktor, läuft seit 5 Milliarden Jahren“; rechts sitzt ein Mann am Schreibtisch unter Sprechblasen mit durchgestrichenen Kühltürmen, Einhörnern und Rufen wie „Renaissance!“, dazu fliegende Baupläne.|1200]]
 
 <details><summary>🎨</summary>
 

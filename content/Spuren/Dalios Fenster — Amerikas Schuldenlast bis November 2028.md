@@ -20,7 +20,7 @@ description: "Ein Milliardär nennt ein Datum und die Instrumente, an denen man 
 
 # Dalios Fenster — Amerikas Schuldenlast bis November 2028
 
-![[assets/Dalios-Fenster-Amerikas-Schuldenlast-bis-November-2028-banner.jpg|1200]]
+![[assets/Dalios-Fenster-Amerikas-Schuldenlast-bis-November-2028-banner.jpg|Altes Millimeterpapier mit vier waagerechten roten Linien, links ein Messinggerät, aus dem eine flache, leicht zitternde Kurve läuft, in der Mitte ein heller senkrechter Streifen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ aliases:
 
 # Walther Ziegler — Nietzsche in 60 Minuten
 
-![[assets/Walther-Ziegler-Nietzsche-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Nietzsche-in-60-Minuten-banner.jpg|Eine Frau mit wehendem roten Haar balanciert auf einem Seil über eine dunkle Schlucht, von einer gotischen Kirche hin zu einem Berg unter einer flammenden Sonne; in der Tiefe Lichter, an den Rändern zuschauende Menschen.|1200]]
 
 <details><summary>🎨</summary>
 

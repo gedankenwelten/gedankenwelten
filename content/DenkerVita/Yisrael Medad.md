@@ -6,7 +6,7 @@ tags: [denker-vita, israel, siedlungen, konservatismus]
 
 # Yisrael Medad — DenkerVita
 
-![[assets/Yisrael-Medad-vita-banner.jpg|1200]]
+![[assets/Yisrael-Medad-vita-banner.jpg|Zeichnung: ein Schreibtisch mit Zeitungen, einem aufgeschlagenen Heft mit Füller, Büchern und einer Lampe, darüber ein gerahmtes Bild mit Steinhaus, Wasserturm und Weinbergreihen.|1200]]
 
 <details><summary>🎨</summary>
 

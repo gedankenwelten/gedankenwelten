@@ -20,7 +20,7 @@ aliases:
 
 # Würde im Alltag — wenn der Markt den Wert misst
 
-![[assets/Wuerde-im-Alltag-wenn-der-Markt-den-Wert-misst-banner.jpg|1200]]
+![[assets/Wuerde-im-Alltag-wenn-der-Markt-den-Wert-misst-banner.jpg|Aquarellzeichnung: links steigen einfache Strichfiguren eine Treppe auf Karopapier hinauf, rechts sitzen Figuren an einem runden Tisch unter einer Lampe vor einem kleinen Haus mit Garten, darüber eine Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

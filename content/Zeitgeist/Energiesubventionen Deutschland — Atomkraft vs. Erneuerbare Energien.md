@@ -20,7 +20,7 @@ aliases:
 
 # Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien
 
-![[assets/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien-banner.jpg|1200]]
+![[assets/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien-banner.jpg|Druck in Rot und Schwarz: oben vier kleine rote Häuser auf hellem Streifen, darunter endlose Reihen schwarzer Fässer, dazwischen flache Hallen und ein Bohrturm.|1200]]
 
 <details><summary>🎨</summary>
 

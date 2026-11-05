@@ -6,7 +6,7 @@ tags: [denker-vita, wahrnehmung, bewusstsein, psychologie, deutschland]
 
 # Jürgen Kornmeier — DenkerVita
 
-![[assets/Juergen-Kornmeier-vita-banner.jpg|1200]]
+![[assets/Juergen-Kornmeier-vita-banner.jpg|Stillleben in gedämpftem Grau: Auf einem Holzbrett ein gezeichneter Drahtwürfel, zwei weiße Buchblöcke, eine weiße Flasche und eine messingfarbene Trompete.|1200]]
 
 <details><summary>🎨</summary>
 

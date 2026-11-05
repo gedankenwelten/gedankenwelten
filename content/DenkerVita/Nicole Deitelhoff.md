@@ -8,7 +8,7 @@ tags: [denker-vita, politikwissenschaft, friedensforschung, voelkerrecht]
 
 # Nicole Deitelhoff — DenkerVita
 
-![[assets/Nicole-Deitelhoff-banner.jpg|1200]]
+![[assets/Nicole-Deitelhoff-banner.jpg|Großer Regenbogen in kräftigen Farben auf Weiß, in seiner Mitte konzentrische Kreise, ringsum verstreut bunte Punkte und Kreise.|1200]]
 
 <details><summary>🎨</summary>
 

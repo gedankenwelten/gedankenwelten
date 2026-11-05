@@ -26,7 +26,7 @@ aliases:
 
 # Roger de Weck — Was ist konservativ, was reaktionär?
 
-![[assets/Roger-de-Weck-Was-ist-konservativ-banner.jpg|1200]]
+![[assets/Roger-de-Weck-Was-ist-konservativ-banner.jpg|In einem leeren, hellen Altbauzimmer kniet ein Mann und misst ein Brett, daneben Hammer und Meißel; durch die offenen Flügeltüren sieht man Dächer und in der Ferne Rauch und Feuer.|1200]]
 
 <details><summary>🎨</summary>
 

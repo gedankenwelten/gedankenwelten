@@ -21,7 +21,7 @@ aliases:
 
 # MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt
 
-![[assets/MONITOR-Atomkraft-Comeback-und-die-Mini-Reaktoren-banner.png|1200]]
+![[assets/MONITOR-Atomkraft-Comeback-und-die-Mini-Reaktoren-banner.png|Ein zerbrochener Kühlturm aus Beton steht verlassen auf einer weiten Fläche im Abendlicht; daneben auf einem Sockel ein kleines, sauberes Modell eines Kraftwerks, am Horizont ein Turm.|1200]]
 
 <details><summary>🎨</summary>
 

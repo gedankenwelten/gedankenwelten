@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, hermeneutik, ethik, erkenntnistheorie, frankrei
 
 # Paul Ricœur — DenkerVita
 
-![[assets/Paul-Ricoeur-vita-banner.jpg|1200]]
+![[assets/Paul-Ricoeur-vita-banner.jpg|Bleistiftskizze: Ein alter Mann sitzt gebeugt an einem Tisch am Fenster und schreibt in ein aufgeschlagenes Buch, im Hintergrund nur angedeutete Bücher und Regale.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -12,7 +12,7 @@ tags:
 
 # Liya Yu — DenkerVita
 
-![[assets/Liya-Yu-vita-banner.jpg|1200]]
+![[assets/Liya-Yu-vita-banner.jpg|Zwei Köpfe im Profil stehen einander gegenüber: Im linken leuchtet ein goldenes Netz aus Nervenbahnen, der rechte zerfällt in graue Würfel. Zwischen ihren Mündern spannt sich eine leuchtende Brücke.|1200]]
 
 <details><summary>🎨</summary>
 

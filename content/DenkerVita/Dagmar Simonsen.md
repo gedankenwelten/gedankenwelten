@@ -9,7 +9,7 @@ raetsel: "Unten im Dunkeln sagte sie nur: Wie lange schon?"
 
 # Dagmar Simonsen — DenkerVita
 
-![[assets/Dagmar-Simonsen-vita-banner.jpg|1200]]
+![[assets/Dagmar-Simonsen-vita-banner.jpg|Kohlezeichnung: Tief unten in einer Grube sitzt ein Mensch, hält einen anderen, der zusammengekauert den Kopf birgt, und blickt nach oben; eine Holzleiter lehnt an der Grubenwand.|1200]]
 
 <details><summary>🎨</summary>
 

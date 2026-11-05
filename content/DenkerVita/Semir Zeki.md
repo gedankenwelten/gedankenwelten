@@ -6,7 +6,7 @@ tags: [denker-vita, neurowissenschaft, neuroaesthetik, liebe, grossbritannien]
 
 # Semir Zeki — DenkerVita
 
-![[assets/Semir-Zeki-vita-banner.jpg|1200]]
+![[assets/Semir-Zeki-vita-banner.jpg|Abstraktes Bild in Blau, Pink und Gelb: konzentrische Kreise in der Mitte, ringsum Kreise, Dreiecke, Linienbündel und kleine Schachbrettmuster.|1200]]
 
 <details><summary>🎨</summary>
 

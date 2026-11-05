@@ -9,7 +9,7 @@ tags: [denker-vita, technologie, ki, medien, journalismus, deutschland]
 
 # Jan-Keno Janssen — DenkerVita
 
-![[assets/Jan-Keno-Janssen-vita-banner.jpg|1200]]
+![[assets/Jan-Keno-Janssen-vita-banner.jpg|Technische Zeichnung in Petrol und Orange: Eine Hand öffnet mit einem Schraubendreher ein Gerät voller Platinen und Zahnräder, beschriftet mit unleserlichen Hinweisen, rechts eine Lupe über einem Siegel mit der Aufschrift „Neu“.|1200]]
 
 <details><summary>🎨</summary>
 

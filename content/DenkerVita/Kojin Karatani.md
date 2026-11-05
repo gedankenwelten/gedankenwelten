@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, marxismus, japan, politische-oekonomie, literat
 
 # Kojin Karatani — DenkerVita
 
-![[assets/Kojin-Karatani-banner.jpg|1200]]
+![[assets/Kojin-Karatani-banner.jpg|Aquarellflecken in Gelb, Rot und Blau: Links und rechts Kreise aus Menschenfiguren, die sich an den Händen halten, in der Mitte eine Pyramide und ein Raster wie ein Schaltplan, darüber ein weiter Bogen.|1200]]
 
 <details><summary>🎨</summary>
 

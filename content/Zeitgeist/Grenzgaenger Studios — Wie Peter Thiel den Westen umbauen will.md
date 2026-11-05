@@ -18,7 +18,7 @@ aliases:
 
 # Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will
 
-![[assets/Grenzgaenger-Studios-Wie-Peter-Thiel-den-Westen-umbauen-will-banner.jpg|1200]]
+![[assets/Grenzgaenger-Studios-Wie-Peter-Thiel-den-Westen-umbauen-will-banner.jpg|Eine riesige Himmelsgestalt mit einem Auge in einem flammenden Kreis lenkt Lichtstrahlen hinab auf eine Menge gebückter Menschen, die auf leuchtende Tafeln in ihren Händen starren; seitlich schweben helle Frauengestalten im Sternennebel.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -26,7 +26,7 @@ aliases:
 
 # Claus-Christian Carbon — Wahrnehmung und Wirklichkeit
 
-![[assets/Claus-Christian-Carbon-Wahrnehmung-und-Wirklichkeit-banner.jpg|1200]]
+![[assets/Claus-Christian-Carbon-Wahrnehmung-und-Wirklichkeit-banner.jpg|Eine Staffelei mit dem Bild einer grünen Hügellandschaft steht mitten in genau dieser Landschaft, darüber schwebt ein großes Auge, von dem helle Strahlen über den Himmel fächern.|1200]]
 
 <details><summary>🎨</summary>
 

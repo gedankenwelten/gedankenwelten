@@ -9,7 +9,7 @@ tags: [denker-vita, geopolitik, medien, youtube, ukraine, propaganda]
 
 # Mark Reicher
 
-![[assets/Mark-Reicher-vita-banner.jpg|1200]]
+![[assets/Mark-Reicher-vita-banner.jpg|Infografik: Eine dunkle Weltkarte mit bunten Pfeilen, Flaggen und Flugzeugen, ringsum Diagramme mit den englischen Überschriften für Welthandel, Bündnisse und Energie.|1200]]
 
 <details><summary>🎨</summary>
 

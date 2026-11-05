@@ -7,7 +7,7 @@ tags: [denker-vita, soziologie, usa, psychologie, politik, populismus]
 
 # Arlie Russell Hochschild — DenkerVita
 
-![[assets/Arlie-Russell-Hochschild-vita-banner.jpg|1200]]
+![[assets/Arlie-Russell-Hochschild-vita-banner.jpg|Wandbild: Eine lange, vorgebeugte Menschenreihe windet sich eine geschwungene Straße entlang, die zu einer glänzenden Stadt auf einem Hügel führt; rechts Ölpumpen, Bohrtürme und ein Sumpf mit moosbehangenen Bäumen.|1200]]
 
 <details><summary>🎨</summary>
 

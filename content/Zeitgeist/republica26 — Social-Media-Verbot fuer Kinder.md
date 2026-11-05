@@ -18,7 +18,7 @@ aliases:
 
 # re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?
 
-![[assets/republica26-Social-Media-Verbot-fuer-Kinder-banner.jpg|1200]]
+![[assets/republica26-Social-Media-Verbot-fuer-Kinder-banner.jpg|Aquarell: Ein kleines Ruderboot mit einem Mann und einem Jugendlichen in Rettungsweste kämpft gegen die Bugwelle eines riesigen Containerschiffs, von dessen Reling Arbeiter herabschauen.|1200]]
 
 <details><summary>🎨</summary>
 

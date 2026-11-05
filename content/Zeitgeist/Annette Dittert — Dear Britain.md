@@ -23,7 +23,7 @@ aktualisiert: 16.06.2026
 
 # Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem
 
-![[assets/Annette-Dittert-Dear-Britain-banner.jpg|1200]]
+![[assets/Annette-Dittert-Dear-Britain-banner.jpg|Aquarell der britischen Flagge mit der englischen Aufschrift „Liebes Britannien“; am rechten Rand zerfällt die Flagge in fliegende Splitter.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -6,7 +6,7 @@ tags: [denker-vita, frieden, israel, aktivismus]
 
 # Maoz Inon — DenkerVita
 
-![[assets/Maoz-Inon-vita-banner.jpg|1200]]
+![[assets/Maoz-Inon-vita-banner.jpg|Pastoses Gemälde: Ein Mann mit Strohhut sät mit weitem Schwung über einen gepflügten Acker, dahinter ein Bauernhaus und eine Zypresse unter einer goldenen Sonne aus Ornamentringen.|1200]]
 
 <details><summary>🎨</summary>
 

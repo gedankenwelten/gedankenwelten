@@ -8,7 +8,7 @@ tags: [denker-vita, literatur, schweiz, soziale-ungleichheit, philosophie]
 
 # Lukas Bärfuss
 
-![[assets/Lukas-Baerfuss-vita-banner.jpg|1200]]
+![[assets/Lukas-Baerfuss-vita-banner.jpg|Ein Mann im dunklen Mantel steht als Silhouette am Fenster und blickt über Dächer und Schornsteine auf Berge, ein Lichtkegel fällt auf ein volles Bücherregal.|1200]]
 
 <details><summary>🎨</summary>
 

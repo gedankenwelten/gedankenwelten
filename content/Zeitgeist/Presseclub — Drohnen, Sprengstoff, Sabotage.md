@@ -18,7 +18,7 @@ aliases:
 
 # Presseclub — Drohnen, Sprengstoff, Sabotage
 
-![[assets/Presseclub-Drohnen-Sprengstoff-Sabotage-banner.jpg|1200]]
+![[assets/Presseclub-Drohnen-Sprengstoff-Sabotage-banner.jpg|Ein nächtliches Rollfeld im Nebel: Zwischen zwei großen Transportflugzeugen und Kisten steht ein einzelner Mann vor einer kleinen Drohne am Boden, hinter dem Zaun glimmt ein rotes Licht.|1200]]
 
 <details><summary>🎨</summary>
 

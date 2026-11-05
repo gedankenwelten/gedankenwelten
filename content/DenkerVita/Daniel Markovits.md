@@ -8,7 +8,7 @@ tags: [denker-vita, kapitalismus, usa, demokratie]
 
 # Daniel Markovits — DenkerVita
 
-![[assets/Daniel-Markovits-vita-banner.jpg|1200]]
+![[assets/Daniel-Markovits-vita-banner.jpg|Technische Zeichnung mit Beschriftungen: In einem goldenen Vogelkäfig voller Zahnräder läuft eine menschliche Gestalt mit sichtbaren Muskeln, rechts eine zweite in einem Laufrad, über dem eine Schriftrolle liegt; links eine Skizzentafel.|1200]]
 
 <details><summary>🎨</summary>
 

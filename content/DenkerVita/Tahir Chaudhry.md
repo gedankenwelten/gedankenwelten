@@ -9,7 +9,7 @@ tags: [denker-vita, journalismus, medien, geopolitik, überwachung, ki, oligarch
 
 # Tahir Chaudhry — DenkerVita
 
-![[assets/Tahir-Chaudhry-vita-banner.jpg|1200]]
+![[assets/Tahir-Chaudhry-vita-banner.jpg|Zeichnung: Ein junger Mann mit Büchern unter dem Arm und einer Kamera steht neben riesigen Druckwalzen voller Zeitungen und blickt auf einen Tisch mit zwei Stühlen und einem Mikrofon, rote Linien führen zu einer fernen Stadt.|1200]]
 
 <details><summary>🎨</summary>
 

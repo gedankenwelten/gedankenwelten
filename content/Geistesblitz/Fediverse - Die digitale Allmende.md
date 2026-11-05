@@ -19,7 +19,7 @@ aliases:
 
 # Fediverse — Die digitale Allmende
 
-![[assets/Fediverse-Die-digitale-Allmende-banner.jpg|1200]]
+![[assets/Fediverse-Die-digitale-Allmende-banner.jpg|Wie eine alte Naturkundetafel auf dunklem Grund: Korallen, Seeanemonen und Quallen in Rot und Beige, zwischen ihnen winzige leuchtende Rechtecke.|1200]]
 
 <details><summary>🎨</summary>
 

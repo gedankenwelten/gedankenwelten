@@ -13,7 +13,7 @@ aliases:
 
 # Marcant — DenkerVita
 
-![[assets/Marcant-vita-banner.jpg|1200]]
+![[assets/Marcant-vita-banner.jpg|Bild wie mit Sprühschablonen: Links ein rotes Herz im Schild, in der Mitte ein Telefon auf Stativ mit dem Wort „Live“, rechts ein Megafon mit der Aufschrift „Stimme“. Dazwischen schwarze Kleckse mit „Fälschung“, „Lügen“ und „Angst“.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -15,7 +15,7 @@ aliases:
 
 # Tiana Travels — Das amerikanische Betriebssystem
 
-![[assets/Tiana_Travels_Das_Amerikanische_Betriebssystem.png|1200]]
+![[assets/Tiana_Travels_Das_Amerikanische_Betriebssystem.png|Drei Aquarellfelder: Kinder heben in einem Klassenzimmer mit amerikanischen Flaggen die Hand; ein Mann geht auf Schienen, die als Flaggenstreifen beginnen; die Schienen winden sich zu einem Haus auf dem Hügel, unten Zahnräder.|1200]]
 
 <details><summary>🎨</summary>
 

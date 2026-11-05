@@ -26,7 +26,7 @@ stimme:
 
 # ARTE Re — Wenn Arbeiter Chefs werden
 
-![[assets/ARTE-Re-Wenn-Arbeiter-Chefs-werden-banner.jpg|1200]]
+![[assets/ARTE-Re-Wenn-Arbeiter-Chefs-werden-banner.jpg|Plakative Malerei: In einer Fabrikhalle mit Spinnmaschinen steht eine Gruppe Arbeiterinnen und Arbeiter in bunten Overalls, einer steckt einen großen Schlüssel in ein Gittertor, helle Stoffbahnen laufen durch die Gruppe.|1200]]
 
 <details><summary>🎨</summary>
 

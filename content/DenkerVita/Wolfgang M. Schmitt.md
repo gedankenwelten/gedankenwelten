@@ -8,7 +8,7 @@ tags: [denker-vita, kulturkritik, kapitalismus, medien]
 
 # Wolfgang M. Schmitt — DenkerVita
 
-![[assets/Wolfgang-M-Schmitt-vita-banner.jpg|1200]]
+![[assets/Wolfgang-M-Schmitt-vita-banner.jpg|Plakatgrafik auf dunkelrotem Grund: Eine schwarze Filmkamera projiziert ein Bild aus Fadenkreuz, Zahnrädern, Fließband und Dollarzeichen, ein rotes Kabel windet sich hindurch.|1200]]
 
 <details><summary>🎨</summary>
 

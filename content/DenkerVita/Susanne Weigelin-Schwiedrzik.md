@@ -8,7 +8,7 @@ tags: [denker-vita, china, geopolitik, geschichte, sinologie, österreich]
 
 # Susanne Weigelin-Schwiedrzik — DenkerVita
 
-![[assets/Susanne-Weigelin-Schwiedrzik-vita-banner.jpg|1200]]
+![[assets/Susanne-Weigelin-Schwiedrzik-vita-banner.jpg|Collage auf Packpapier: vier dicke schwarze Pinselbalken auf Zeitungspapier, ein rotes Siegel, das Foto eines Fahrrads vor einer Betonwand, ein Zettel mit chinesischen Schriftzeichen, Bindfaden und Holzstücke.|1200]]
 
 <details><summary>🎨</summary>
 

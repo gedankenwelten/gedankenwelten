@@ -19,7 +19,7 @@ aliases:
 
 # Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung
 
-![[assets/jacob-beautemps-el-nino-2026-banner.jpg|1200]]
+![[assets/jacob-beautemps-el-nino-2026-banner.jpg|Holzschnitt: Über das graublaue Meer zieht ein breites rotes Band bis zur fernen Küste, darüber ein heller Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

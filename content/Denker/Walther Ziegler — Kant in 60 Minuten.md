@@ -18,7 +18,7 @@ aliases:
 
 # Walther Ziegler — Kant in 60 Minuten
 
-![[assets/Walther-Ziegler-Kant-in-60-Minuten-banner.jpg|1200]]
+![[assets/Walther-Ziegler-Kant-in-60-Minuten-banner.jpg|Ein Mann mit Melone steht von hinten vor einem goldenen Rahmen, in dem eine grüne Wiese mit Baum und ein Tisch mit rotem Apfel leuchten; draußen ist alles grau, mit grauem Baum, Mondsichel und einer schwebenden Taschenuhr.|1200]]
 
 <details><summary>🎨</summary>
 

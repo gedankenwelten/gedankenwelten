@@ -17,7 +17,7 @@ aliases:
 
 # Good News — Gute Nachrichten August 2026 Teil 2
 
-![[assets/Good-News-Gute-Nachrichten-August-2026-Teil-2-banner.jpg|1200]]
+![[assets/Good-News-Gute-Nachrichten-August-2026-Teil-2-banner.jpg|Zarte Zeichnung: fünf runde Medaillons mit Pferd, Seevogel, Koralle, Baum und Kerze, darunter feine goldene Wurzelgeflechte, darüber Bögen zu einem kleinen Planeten am rosa Himmel.|1200]]
 
 <details><summary>🎨</summary>
 

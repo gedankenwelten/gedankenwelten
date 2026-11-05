@@ -7,7 +7,7 @@ raetsel: "Erst die Schultoiletten ansehen. Dann von Zukunft reden."
 
 # Nina Kolleck
 
-![[assets/Nina-Kolleck-vita-banner.jpg|1200]]
+![[assets/Nina-Kolleck-vita-banner.jpg|Kräftig gemalte Abendszene: Eine Frau und zwei Kinder sitzen auf einer Bank vor einem Schulgebäude mit erleuchteten Fenstern, die Kinder erzählen lebhaft, daneben ein runder Baum.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -25,7 +25,7 @@ stimme:
 
 # Die goldenen Türme — eine Dystopie der Maschinen-Ära
 
-![[assets/Die-goldenen-Tuerme-eine-Dystopie-der-Maschinen-Aera-banner.jpg|1200]]
+![[assets/Die-goldenen-Tuerme-eine-Dystopie-der-Maschinen-Aera-banner.jpg|Eine Stadt aus goldgelben Türmen und Tempelfassaden im fahlen Abendlicht, auf dem größten Turm ein riesiges Auge, rechts steht eine dunkle Gestalt an einer Brüstung, unten eine Reihe kleiner Köpfe hinter einem Zaun.|1200]]
 
 <details><summary>🎨</summary>
 

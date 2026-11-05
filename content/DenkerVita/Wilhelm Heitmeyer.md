@@ -9,7 +9,7 @@ tags: [denker-vita, soziologie, rechtsextremismus, autoritarismus, demokratie, g
 
 # Wilhelm Heitmeyer — DenkerVita
 
-![[assets/Wilhelm-Heitmeyer-vita-banner.jpg|1200]]
+![[assets/Wilhelm-Heitmeyer-vita-banner.jpg|Flache Grafik in Schwarz, Ocker und Rot: Ein Mann in Schürze steckt Teile in einen Gitterkasten, daneben Reihen gleicher schwarzer Figuren mit einzelnen roten darunter, über ihnen Häuser, eine Kirche und ein Plattenbau.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -7,7 +7,7 @@ tags: [denker-vita, rechtsextremismus, deradikalisierung, deutschland, brandenbu
 ---
 
 # Fabian Wichmann — DenkerVita
-![[assets/Fabian-Wichmann-vita-banner.jpg|1200]]
+![[assets/Fabian-Wichmann-vita-banner.jpg|Federzeichnung: Ein Mann öffnet eine Tür in einer langen grauen Mauer und tritt hindurch, vor der Tür stehen mehrere Paar Stiefel; links schaut eine Gruppe Menschen zu.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -17,7 +17,7 @@ aliases:
 
 # Abdolkarim Soroush — Reformation des Glaubens von innen
 
-![[assets/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen-banner.jpg|1200]]
+![[assets/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen-banner.jpg|Wie eine persische Miniatur mit Blumenrand: In einem ummauerten Garten sitzen Gelehrte mit Turbanen auf Teppichen und lesen, in der Mitte ein großer Baum mit gedrehtem Stamm, an dessen Wurzeln ein kleines Licht brennt.|1200]]
 
 <details><summary>🎨</summary>
 

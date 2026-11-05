@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, sprachanalytische-philosophie, ethik, erkenntni
 
 # Ernst Tugendhat — DenkerVita
 
-![[assets/Ernst-Tugendhat-vita-banner.jpg|1200]]
+![[assets/Ernst-Tugendhat-vita-banner.jpg|Zehn Felder in Erdtönen wie Tafeln an einer Wand: ein Haus, ein Dampfer auf Wellen, ein offenes Buch, Berge, eine Sonne, eine Leiter, ein Baum, eine Menschenfigur, eine Uhr, ein zweiter Baum und ein Stern.|1200]]
 
 <details><summary>🎨</summary>
 

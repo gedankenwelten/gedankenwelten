@@ -20,7 +20,7 @@ aliases:
 
 # Immanuel Kant — Was ist Aufklärung?
 
-![[assets/Immanuel-Kant-Was-ist-Aufklaerung-banner.jpg|1200]]
+![[assets/Immanuel-Kant-Was-ist-Aufklaerung-banner.jpg|Aus einer dunklen Höhle, in der gefesselte Gestalten kauern und verhüllte Wesen mit Laternen und Büchern stehen, läuft eine barfüßige Frau mit wehendem Haar und Seilresten in den Händen hinaus ins Licht einer großen Sonne.|1200]]
 
 <details><summary>🎨</summary>
 

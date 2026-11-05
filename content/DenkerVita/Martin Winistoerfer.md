@@ -6,7 +6,7 @@ tags: [denker-vita, technologie, ki]
 
 # Martin Winistörfer — DenkerVita
 
-![[assets/Martin-Winistoerfer-vita-banner.jpg|1200]]
+![[assets/Martin-Winistoerfer-vita-banner.jpg|Blaudruck in Tiefblau: die weißen Abdrücke eines Farnblatts, eines Kiefernzweigs und einer Distel nebeneinander.|1200]]
 
 <details><summary>🎨</summary>
 

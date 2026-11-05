@@ -18,7 +18,7 @@ aliases:
 
 # Wolfram Schultz — Dopamin: Mehr als ein Glückshormon
 
-![[assets/Wolfram-Schultz-Dopamin-banner.jpg|1200]]
+![[assets/Wolfram-Schultz-Dopamin-banner.jpg|Ein Läufer in orangem Anzug greift im Lauf nach einem aufblitzenden Stern zwischen bunten, konzentrischen Kreisscheiben in Orange, Blau, Grün und Rot.|1200]]
 
 <details><summary>🎨</summary>
 

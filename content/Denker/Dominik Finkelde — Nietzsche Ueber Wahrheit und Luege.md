@@ -14,7 +14,7 @@ aliases:
 
 # Dominik Finkelde — Nietzsche: Über Wahrheit und Lüge
 
-![[assets/Dominik-Finkelde-Nietzsche-Ueber-Wahrheit-und-Luege-banner.jpg|1200]]
+![[assets/Dominik-Finkelde-Nietzsche-Ueber-Wahrheit-und-Luege-banner.jpg|Geschwungene Handschrift über Farbstrichen in Pastell, quer durchs Bild eine Reihe goldener Münzen; lesbar sind Wörter wie „Wahrheit“ und „Metapher“.|1200]]
 
 <details><summary>🎨</summary>
 

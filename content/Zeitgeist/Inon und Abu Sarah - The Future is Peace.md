@@ -18,7 +18,7 @@ aktualisiert: 03.07.2026
 
 # Maoz Inon & Aziz Abu Sarah — The Future is Peace
 
-![[assets/Inon-und-Abu-Sarah-The-Future-is-Peace-banner.jpg|1200]]
+![[assets/Inon-und-Abu-Sarah-The-Future-is-Peace-banner.jpg|Wie ein Fresko vor tiefblauem Sternenhimmel: Zwei bärtige Männer mit Heiligenschein und Getreidesäcken auf dem Rücken reichen einander die Hände auf einem Hügel mit Olivenbäumen, rechts eine weiße Stadt mit Kuppel.|1200]]
 
 <details><summary>🎨</summary>
 

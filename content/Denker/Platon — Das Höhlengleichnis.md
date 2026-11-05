@@ -19,7 +19,7 @@ aliases:
 
 # Platon — Das Höhlengleichnis
 
-![[assets/Platon-Das-Hoehlengleichnis-banner.jpg|1200]]
+![[assets/Platon-Das-Hoehlengleichnis-banner.jpg|In einer Höhle sitzen angekettete kahle Menschen vor einem Feuer und betrachten Schatten tanzender Gestalten an der Wand; eine Gestalt steigt über Felsen zum Ausgang hinauf, wo eine strahlende Sonne über einem Flusstal steht.|1200]]
 
 <details><summary>🎨</summary>
 

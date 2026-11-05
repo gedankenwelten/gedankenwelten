@@ -18,7 +18,7 @@ aliases:
 
 # Martin Andree — Monopole zerstören unsere Demokratie
 
-![[assets/Martin-Andree-Monopole-zerstoeren-unsere-Demokratie-banner.jpg|1200]]
+![[assets/Martin-Andree-Monopole-zerstoeren-unsere-Demokratie-banner.jpg|Wimmelbild wie ein altes Gemälde: Links ein riesiger Turm mit Bildschirmen in den Fenstern, aus dem Papierbahnen über kleine Menschen quellen; ein Graben trennt ihn von einer lebendigen Stadt mit Marktständen.|1200]]
 
 <details><summary>🎨</summary>
 

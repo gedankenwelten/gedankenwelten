@@ -26,7 +26,7 @@ stimme:
 
 # Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie
 
-![[assets/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie-banner.jpg|1200]]
+![[assets/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie-banner.jpg|Unter dunklem Gewitterhimmel steht in einer rissigen, verdorrten Ebene ein hoher, rostiger Turm in Menschengestalt auf einem Sockel; von seinem Fuß laufen dunkle Linien sternförmig über den Boden.|1200]]
 
 <details><summary>🎨</summary>
 

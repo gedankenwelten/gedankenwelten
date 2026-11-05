@@ -8,7 +8,7 @@ tags: [denker-vita, wirtschaft, kapitalismus, klimakrise, deutschland]
 
 # Ulrike Herrmann — DenkerVita
 
-![[assets/Ulrike-Herrmann-vita-banner.jpg|1200]]
+![[assets/Ulrike-Herrmann-vita-banner.jpg|Ein großer roter Pfeil schwingt sich im Bogen nach oben, daneben ein grüner Ring wie eine Insel mit Hochbeeten, Bäumen, Windrädern und einer kleinen Figur.|1200]]
 
 <details><summary>🎨</summary>
 

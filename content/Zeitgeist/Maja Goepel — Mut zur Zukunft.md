@@ -19,7 +19,7 @@ aliases:
 
 # Maja Göpel — Mut zur Zukunft
 
-![[assets/maja-goepel-mut-zur-zukunft-banner.jpg|1200]]
+![[assets/maja-goepel-mut-zur-zukunft-banner.jpg|In sanften Pastellfarben schwingen Kreise, Bögen und Lichtschleier ineinander, in den Ecken zwei Planeten, in der Mitte eine zarte, knospenartige Form.|1200]]
 
 <details><summary>🎨</summary>
 

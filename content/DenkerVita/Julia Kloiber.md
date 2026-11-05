@@ -8,7 +8,7 @@ tags: [denker-vita, ki, technologie, feminismus, digitale-gerechtigkeit, deutsch
 
 # Julia Kloiber — DenkerVita
 
-![[assets/Julia-Kloiber-vita-banner.jpg|1200]]
+![[assets/Julia-Kloiber-vita-banner.jpg|Flache Grafik in Rosa, Gelb und Blau: Viele Hände in verschiedenen Hautfarben reichen sich Kärtchen mit Symbolen zu, in der Mitte wächst ein Pflänzchen aus einem Netz von Schaltkreisen.|1200]]
 
 <details><summary>🎨</summary>
 

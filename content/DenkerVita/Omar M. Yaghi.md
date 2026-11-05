@@ -6,7 +6,7 @@ tags: [denker-vita, chemie, wissenschaft, klimawandel, jordanien, palaestina]
 
 # Omar M. Yaghi — DenkerVita
 
-![[assets/Omar-Yaghi-vita-banner.jpg|1200]]
+![[assets/Omar-Yaghi-vita-banner.jpg|Aquarellzeichnung: Ein Junge liest auf Kissen am Boden, vor ihm schweben Moleküle, ein Lichtstrahl verbindet sie mit einem netzartigen Gittergerüst. Im Hintergrund eine Frau mit Kopftuch, zwei kleine Kinder und eine Ziege.|1200]]
 
 <details><summary>🎨</summary>
 

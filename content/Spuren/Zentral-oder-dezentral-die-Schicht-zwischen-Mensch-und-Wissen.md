@@ -19,7 +19,7 @@ description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sonder
 
 # Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?
 
-![[assets/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen-banner.jpg|1200]]
+![[assets/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen-banner.jpg|Wimmelbild: links ein turmartiger Bau voller leuchtender Schaltkreise an einem Hafen mit Goldbarren und Schiffen, dicke Kabel laufen über einen grünen Hügel mit verstreuten Holzhäusern, vor denen Menschen lesen und reden.|1200]]
 
 <details><summary>🎨</summary>
 

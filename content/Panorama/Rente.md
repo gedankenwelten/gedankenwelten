@@ -18,7 +18,7 @@ aliases:
 
 # Rente — Krise des Generationenvertrags
 
-![[assets/Rente-banner.jpg|1200]]
+![[assets/Rente-banner.jpg|Eine lange Reihe Menschen in Arbeitskleidung reicht Eimer weiter, zum Ende hin werden die Gestalten blass, dort sitzen alte Menschen an einem Tisch, daneben gießt ein Mann im Anzug aus einem löchrigen Eimer, Wasser rinnt zu Boden.|1200]]
 
 <details><summary>🎨</summary>
 

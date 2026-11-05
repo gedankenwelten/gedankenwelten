@@ -29,7 +29,7 @@ aliases:
 
 # Eva von Redecker — Dieser Drang nach Härte
 
-![[assets/Eva-von-Redecker-Dieser-Drang-nach-Haerte-banner.jpg|1200]]
+![[assets/Eva-von-Redecker-Dieser-Drang-nach-Haerte-banner.jpg|Holzschnitt in Schwarz und Creme: Eine riesige Hand greift von oben nach einem kleinen, weiß gezeichneten Haus über einer Stadt, darunter eine dichte Menge mit erhobenen Fackeln.|1200]]
 
 <details><summary>🎨</summary>
 

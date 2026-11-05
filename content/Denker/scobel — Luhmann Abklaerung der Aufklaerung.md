@@ -20,7 +20,7 @@ aliases:
 
 # scobel — Luhmann: Abklärung der Aufklärung
 
-![[assets/scobel-Luhmann-Abklaerung-der-Aufklaerung-banner.jpg|1200]]
+![[assets/scobel-Luhmann-Abklaerung-der-Aufklaerung-banner.jpg|Grafische Komposition: links schräg verstreute weiße Quadrate auf gerastertem Grund, in der Mitte ein roter Kreis in überlagerten grauen Kreisen vor einem blauen Balken, rechts zwei graue Streifen und ein kleiner schwarzer Aktenschrank.|1200]]
 
 <details><summary>🎨</summary>
 

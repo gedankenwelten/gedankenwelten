@@ -18,7 +18,7 @@ aliases:
 
 # MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung
 
-![[assets/MDR-exactly-Kinder-im-Burnout-banner.jpg|1200]]
+![[assets/MDR-exactly-Kinder-im-Burnout-banner.jpg|Abends sitzt ein Mädchen erschöpft mit aufgestütztem Kopf am Schreibtisch voller Bücher und Zettel unter einer Lampe; auf dem Boden liegt ein Hund und schaut zu ihr, im Fenster leuchtet ein Stern.|1200]]
 
 <details><summary>🎨</summary>
 

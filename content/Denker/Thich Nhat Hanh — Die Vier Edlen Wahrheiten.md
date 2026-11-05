@@ -18,7 +18,7 @@ aliases:
 
 # Thich Nhat Hanh — Die Vier Edlen Wahrheiten
 
-![[assets/Thich-Nhat-Hanh-Die-Vier-Edlen-Wahrheiten-banner.jpg|1200]]
+![[assets/Thich-Nhat-Hanh-Die-Vier-Edlen-Wahrheiten-banner.jpg|Tuschezeichnung auf hellem Papier: Ein offener grauer Pinselkreis umschließt eine einzelne weiße Lotusblüte, die aus einem schwarzen Tuschfleck wächst.|1200]]
 
 <details><summary>🎨</summary>
 

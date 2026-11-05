@@ -9,7 +9,7 @@ tags: [denker-vita, völkerrecht, menschenrechte, deutschland]
 
 # Alexander Schwarz — DenkerVita
 
-![[assets/Alexander-Schwarz-vita-banner.jpg|1200]]
+![[assets/Alexander-Schwarz-vita-banner.jpg|Grafik in Grau und Schwarz: links ein Mann im Anzug im Profil, in der Mitte eine runde Linse über einem Raster aus Symbolen, rechts rote und weiße Linien, eine kleine Waage und ein durchgestrichenes Zeichen.|1200]]
 
 <details><summary>🎨</summary>
 

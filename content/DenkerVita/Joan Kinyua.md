@@ -8,7 +8,7 @@ tags: [denker-vita, ki, arbeit, kapitalismus, soziale-ungleichheit, datenarbeit,
 
 # Joan Kinyua — DenkerVita
 
-![[assets/Joan-Kinyua-vita-banner.jpg|1200]]
+![[assets/Joan-Kinyua-vita-banner.jpg|Leuchtende Grafik auf Schwarz zwischen bunten Zickzackbordüren: Menschen sitzen in einer Reihe vor Bildschirmen, ihre Leitungen laufen zu einem großen Gehirn aus Schaltkreisen.|1200]]
 
 <details><summary>🎨</summary>
 

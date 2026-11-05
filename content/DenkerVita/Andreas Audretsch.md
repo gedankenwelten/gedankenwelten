@@ -7,7 +7,7 @@ raetsel: "Über der Siedlung fährt kein Aufzug mehr. Die Tauben wohnen umsonst.
 
 # Andreas Audretsch — DenkerVita
 
-![[assets/Andreas-Audretsch-vita-banner.jpg|1200]]
+![[assets/Andreas-Audretsch-vita-banner.jpg|Zwei Arbeiter in Rot und Gelb heben auf einem Gerüst blaue Solarmodule hoch, zwischen ihnen ein altes Standmikrofon; dahinter ein weißes Wohnhaus mit blauen Balkonen, oben Sonne und Wolken.|1200]]
 
 <details><summary>🎨</summary>
 

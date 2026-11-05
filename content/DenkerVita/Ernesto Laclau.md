@@ -8,7 +8,7 @@ aktualisiert: 2026-06-08
 
 # Ernesto Laclau — DenkerVita
 
-![[assets/Ernesto-Laclau-vita-banner.jpg|1200]]
+![[assets/Ernesto-Laclau-vita-banner.jpg|Wandbild in Braun und Rot: Eine riesige Menge reckt Fäuste, Schilder und Fahnen, eine schwere Kette spannt sich durch sie, in der Mitte steht ein einzelner Mann, oben ein leerer weißer Kreis.|1200]]
 
 <details><summary>🎨</summary>
 

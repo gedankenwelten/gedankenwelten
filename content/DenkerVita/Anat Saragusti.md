@@ -6,7 +6,7 @@ tags: [denker-vita, medien, israel, pressefreiheit]
 
 # Anat Saragusti — DenkerVita
 
-![[assets/Anat-Saragusti-vita-banner.jpg|1200]]
+![[assets/Anat-Saragusti-vita-banner.jpg|Holzschnitt in Schwarz und Weiß: Eine Frau mit Filmkamera und Tasche schreitet von einer Burg mit Scheinwerfern zu einer rauchenden Trümmerstadt; aus einem Strudel aus Kreisen fliegen Zettel mit kaum lesbaren Wörtern.|1200]]
 
 <details><summary>🎨</summary>
 

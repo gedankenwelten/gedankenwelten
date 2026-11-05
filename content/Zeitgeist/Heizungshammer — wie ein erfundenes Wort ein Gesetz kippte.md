@@ -19,7 +19,7 @@ aliases:
 
 # Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte
 
-![[assets/Heizungshammer-banner.jpg|1200]]
+![[assets/Heizungshammer-banner.jpg|Schwarzweiß: Ein Hammer, dessen Kopf aus Zeitungspapier gefaltet ist, schwebt über einer Reihe kleiner Häuser vor einer Wand aus Zeitungsseiten, an einer Kante glüht er rot.|1200]]
 
 <details><summary>🎨</summary>
 

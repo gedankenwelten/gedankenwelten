@@ -8,7 +8,7 @@ tags: [denker-vita, buddhismus, philosophie, psychologie, ethik, frankreich]
 
 # Matthieu Ricard — DenkerVita
 
-![[assets/Matthieu-Ricard-vita-banner.jpg|1200]]
+![[assets/Matthieu-Ricard-vita-banner.jpg|Gemälde in Blau, Violett und Gold: Ein Mönch in rotem Gewand sitzt meditierend auf einem Felsvorsprung vor schneebedeckten, im Licht glühenden Berggipfeln.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -22,7 +22,7 @@ aliases:
 
 # Tom Krebs — Wege aus der Krise, Vergesellschaftung und neoliberale Märchen
 
-![[assets/Tom-Krebs-Wege-aus-der-Krise-und-neoliberale-Maerchen-banner.jpg|1200]]
+![[assets/Tom-Krebs-Wege-aus-der-Krise-und-neoliberale-Maerchen-banner.jpg|Drei Felder: Ein Lehrer zeigt mit dem Stock auf eine Burg an der Tafel; Arbeiter klettern an einem Strommast vor Backsteinhäusern; eine Familie sitzt unter einer Lampe am Tisch und liest einen Brief, ihr Atem dampft vor Kälte.|1200]]
 
 <details><summary>🎨</summary>
 

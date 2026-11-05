@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, gerechtigkeit, ethik, usa]
 
 # John Rawls — DenkerVita
 
-![[assets/John-Rawls-vita-banner.jpg|1200]]
+![[assets/John-Rawls-vita-banner.jpg|Fünf Frauen in pastellfarbenen Gewändern stehen unter einem durchsichtigen Schleier, vor ihnen eine goldene Waage auf einem Sockel und zwei Würfel, links und rechts Arkadenbauten.|1200]]
 
 <details><summary>🎨</summary>
 

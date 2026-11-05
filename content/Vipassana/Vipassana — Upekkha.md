@@ -25,7 +25,7 @@ stimme:
 
 # Vipassana — Upekkha (Gleichmut)
 
-![[assets/Vipassana_Upekka.png]]
+![[assets/Vipassana_Upekka.png|Aquarelltafel in Blau: links flieht eine Figur vor einer großen Welle, in der Mitte reitet eine Figur sie auf einem Brett, rechts kleine Bilder von Gehen, Essen, Schlafen und ein Herz, darüber die Worte aufmerksam, gleichmütig.]]
 
 <details><summary>🎨</summary>
 

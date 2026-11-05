@@ -15,7 +15,7 @@ erstellt: 2026-07-03
 
 # Gekaperte Zeichen
 
-![[assets/Gekaperte-Zeichen-banner.jpg|1200]]
+![[assets/Gekaperte-Zeichen-banner.jpg|Eine riesige steinerne Hand ragt aus dem Meer und formt mit Daumen und Zeigefinger einen Ring, durch den blauer Himmel scheint, links ein Rahmen mit rosa Dreieck, rechts ein Frosch auf einem schwarzen Hut.|1200]]
 
 <details><summary>🎨</summary>
 

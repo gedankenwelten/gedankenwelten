@@ -15,7 +15,7 @@ aliases:
 
 # Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen
 
-![[assets/Bewusstsein-als-Netzwerk-Buddhismus,-Chalmers-und-die-Frage-nach-dem-Ganzen-banner.jpg|1200]]
+![[assets/Bewusstsein-als-Netzwerk-Buddhismus,-Chalmers-und-die-Frage-nach-dem-Ganzen-banner.jpg|Abstrakt in Gold und Schwarz: links ein dichtes Muster aus goldenen Bögen mit einer roten Stelle, das nach rechts in Punkte zerfällt und in einen schwarzen Kern mündet, aus dem goldene Linien strahlen.|1200]]
 
 <details><summary>🎨</summary>
 

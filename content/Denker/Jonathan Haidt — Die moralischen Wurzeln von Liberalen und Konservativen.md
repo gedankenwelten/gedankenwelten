@@ -21,7 +21,7 @@ aliases:
 
 # Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen
 
-![[assets/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen-banner.jpg|1200]]
+![[assets/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen-banner.jpg|Ein Baum, dessen Krone links aus blauen und rechts aus roten durchscheinenden Kreisen besteht, in der Mitte eine Spirale; der Stamm teilt sich in farbige Bänder als Wurzeln, ringsum kleine Planeten und Spiralen.|1200]]
 
 <details><summary>🎨</summary>
 

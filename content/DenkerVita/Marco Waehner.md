@@ -7,7 +7,7 @@ tags: [denker-vita, technologie, soziologie, demokratie, datenschutz]
 
 # Marco Wähner — DenkerVita
 
-![[assets/Marco-Waehner-vita-banner.jpg|1200]]
+![[assets/Marco-Waehner-vita-banner.jpg|Flache Grafik auf hellem Grund: Links ein kleiner Block aus grauen Serverwürfeln, rechts ein weit verzweigtes Netz aus bunten Serverknoten, zwischen denen violette und orange Elefanten sitzen.|1200]]
 
 <details><summary>🎨</summary>
 

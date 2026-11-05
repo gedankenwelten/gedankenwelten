@@ -8,7 +8,7 @@ tags: [denker-vita, energiepolitik, wirtschaft, geopolitik, deutschland]
 
 # Tim Meyer — DenkerVita
 
-![[assets/Tim-Meyer-vita-banner.jpg|1200]]
+![[assets/Tim-Meyer-vita-banner.jpg|Flache Grafik: Eine Weltkarte als Schachbrett, darauf Schachfiguren mit blauen Gasflammen und rote Pfeile, am Rand ein Stecker, Strommasten und Windräder, unten Zuschauer im Anschnitt.|1200]]
 
 <details><summary>🎨</summary>
 

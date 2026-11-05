@@ -9,7 +9,7 @@ raetsel: "Er wollte Wien nehmen. Bekommen hat er ein Hotelzimmer voller Kameras.
 
 # Steve Bannon — DenkerVita
 
-![[assets/Steve-Bannon-vita-banner.jpg|1200]]
+![[assets/Steve-Bannon-vita-banner.jpg|Ein Mann im gestreiften Mantel sitzt von hinten gesehen vor einem alten Mikrofon, vor ihm auf einer Bühne mit roten Vorhängen eine Reihe Marionetten in Uniform und Anzug, links ein Fenster auf eine verschneite Stadt in der Dämmerung.|1200]]
 
 <details><summary>🎨</summary>
 

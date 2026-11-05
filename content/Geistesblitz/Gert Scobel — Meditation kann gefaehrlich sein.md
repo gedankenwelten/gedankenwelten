@@ -21,7 +21,7 @@ raetsel: "Die Stille heilt. Manchmal öffnet sie eine Tür, hinter der niemand a
 
 # Gert Scobel — Meditation kann gefährlich sein
 
-![[assets/Gert-Scobel-Meditation-kann-gefaehrlich-sein-banner.jpg|1200]]
+![[assets/Gert-Scobel-Meditation-kann-gefaehrlich-sein-banner.jpg|Wellig geschwungene Ringe in Gelb, Rosa, Weiß und Blau breiten sich auf dunklem Grund aus, in ihrer Mitte der feine Umriss einer meditierenden Gestalt.|1200]]
 
 <details><summary>🎨</summary>
 

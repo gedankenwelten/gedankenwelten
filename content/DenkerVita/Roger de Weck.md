@@ -9,7 +9,7 @@ raetsel: "Er wünscht sich langweilige Zeiten. Beim Memory verliert er gern."
 
 # Roger de Weck — DenkerVita
 
-![[assets/Roger-de-Weck-vita-banner.jpg|1200]]
+![[assets/Roger-de-Weck-vita-banner.jpg|Schwarzweiße Zeichnung: Auf einer Steinbrücke zwischen Häuserschluchten steht eine Gestalt mit Hut und hält zwei leuchtende Tafeln, unten im Lichtfleck knien zwei Kinder über einem Raster am Boden.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -25,7 +25,7 @@ stimme:
 
 # S.N. Goenka — Vipassana
 
-![[assets/SN_Goenka_Vipassana.png]]
+![[assets/SN_Goenka_Vipassana.png|Aquarell in Blau und Gold mit Beschriftungen: links eine Figur in einem Wirbel aus Pfeilen, darunter Sankhara, Reaktion; in der Mitte sitzt eine Figur mit einer Flamme in der Brust unter den Stufen Sila, Samadhi, Panna; rechts steht eine Figur vor einem großen Auge.]]
 
 <details><summary>🎨</summary>
 

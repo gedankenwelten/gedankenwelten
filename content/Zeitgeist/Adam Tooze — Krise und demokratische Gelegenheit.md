@@ -25,7 +25,7 @@ aliases:
 
 # Adam Tooze — Krise und demokratische Gelegenheit
 
-![[assets/Adam-Tooze-Krise-und-demokratische-Gelegenheit-banner.jpg|1200]]
+![[assets/Adam-Tooze-Krise-und-demokratische-Gelegenheit-banner.jpg|Holzschnitt in Schwarz und Creme: Zwei Menschenmengen stehen sich auf einem gepflasterten Platz gegenüber, die linke trägt ein leeres Transparent; dazwischen ein Riss im Boden und ein leeres Rednerpult im Lichtkegel, dahinter Bohrtürme und Palmen.|1200]]
 
 <details><summary>🎨</summary>
 

@@ -18,7 +18,7 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 
 # Epstein und der Schutz von Eliten
 
-![[assets/Epstein-und-der-Schutz-von-Eliten-banner.jpg|1200]]
+![[assets/Epstein-und-der-Schutz-von-Eliten-banner.jpg|Collage: Vor einer Reihe gesichtsloser Menschen in Schwarz liegen Aktenblätter mit geschwärzten Zeilen, Siegeln und der Überschrift Vertrauliche Akte, einer mit dem Stempel Genehmigt, darauf eine Lupe.|1200]]
 
 <details><summary>🎨</summary>
 

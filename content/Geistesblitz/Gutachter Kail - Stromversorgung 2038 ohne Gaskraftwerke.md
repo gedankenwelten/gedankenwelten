@@ -17,7 +17,7 @@ aliases:
 
 # Stromversorgung 2038 — ohne neue Gaskraftwerke
 
-![[assets/Gutachter-Kail-Stromversorgung-2038-ohne-Gaskraftwerke-banner.jpg|1200]]
+![[assets/Gutachter-Kail-Stromversorgung-2038-ohne-Gaskraftwerke-banner.jpg|Vier leuchtende Türme nebeneinander, ein grüner aus Batterien, ein blauer Strommast, ein gelber Block und ein roter mit Flammen, von ihnen fließen Leitungen, links Windräder auf einer gefrorenen Ebene, rechts eine Stadt.|1200]]
 
 <details><summary>🎨</summary>
 

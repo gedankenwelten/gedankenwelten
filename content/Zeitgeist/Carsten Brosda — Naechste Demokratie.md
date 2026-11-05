@@ -24,7 +24,7 @@ aliases:
 
 # Carsten Brosda — Nächste Demokratie?
 
-![[assets/Carsten-Brosda-Naechste-Demokratie-banner.jpg|1200]]
+![[assets/Carsten-Brosda-Naechste-Demokratie-banner.jpg|Wie ein altes Fresko: Eine thronende Frau in rosa Gewand hält ein Kästchen, von dem ein roter Faden zu einem eingerüsteten Turm führt, an dem Handwerker bauen; vor ihr Männer in langen Gewändern, rechts eine Stadt mit Marktständen.|1200]]
 
 <details><summary>🎨</summary>
 

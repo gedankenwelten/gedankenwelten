@@ -8,7 +8,7 @@ tags: [denker-vita, ki, technologie, innovation, zukunftsforschung]
 
 # Georgina Neitzel — DenkerVita
 
-![[assets/Georgina-Neitzel-vita-banner.jpg|1200]]
+![[assets/Georgina-Neitzel-vita-banner.jpg|Kräftige Flächen in Grün, Rot, Gelb und Schwarz: Kleine Wagen mit Glühbirnen und Raketen fahren eine Achterbahn hinauf, an der Spitze springt eine Figur mit ausgebreiteten Armen ab, dazwischen Schildchen mit Phantasieschrift.|1200]]
 
 <details><summary>🎨</summary>
 

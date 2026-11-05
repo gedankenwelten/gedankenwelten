@@ -17,7 +17,7 @@ aktualisiert: 2026-07-26
 
 # Neoliberalismus — Was zählt
 
-![[assets/neoliberalismus-was-zaehlt-banner.jpg|1200]]
+![[assets/neoliberalismus-was-zaehlt-banner.jpg|Wandbild in zwei Hälften: links drei Männer in grauen Anzügen hinter einer Waage voller Goldmünzen vor Zahlenrollen und Zahnrädern, rechts unter einem Baum eine Frau mit Baby und Erde voller Samen in den Händen, um sie Menschen bei Arbeit und Pflege.|1200]]
 
 <details><summary>🎨</summary>
 

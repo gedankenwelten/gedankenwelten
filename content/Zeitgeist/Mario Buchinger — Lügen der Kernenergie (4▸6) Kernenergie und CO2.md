@@ -21,7 +21,7 @@ aliases:
 
 # Mario Buchinger — Lügen der Kernenergie (4/6): Kernenergie ist CO₂-arm oder gar CO₂-frei
 
-![[assets/Mario-Buchinger-Luegen-der-Kernenergie-4-6-Kernenergie-und-CO2-banner.jpg|1200]]
+![[assets/Mario-Buchinger-Luegen-der-Kernenergie-4-6-Kernenergie-und-CO2-banner.jpg|In einer gelben Wüste stehen dunkle Steinblöcke im Kreis auf einem Ring aus eingeritzten Schriftzeichen und werfen lange Schatten; in der Ferne ein verfallener Kühlturm auf einem Felsplateau.|1200]]
 
 <details><summary>🎨</summary>
 

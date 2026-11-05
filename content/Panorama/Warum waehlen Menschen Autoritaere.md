@@ -19,7 +19,7 @@ tags:
 
 # Warum wählen Menschen Autoritäre?
 
-![[assets/Warum-waehlen-Menschen-Autoritaere-banner.jpg|1200]]
+![[assets/Warum-waehlen-Menschen-Autoritaere-banner.jpg|Winterdorf im Schnee: Eine lange Schlange von Menschen mit Körben steht vor einem Fenster, in dem ein Mann mit einem Schriftstück sitzt, links Schlittschuhläufer auf einem zugefrorenen Teich, rechts eine Kuh.|1200]]
 
 <details><summary>🎨</summary>
 
