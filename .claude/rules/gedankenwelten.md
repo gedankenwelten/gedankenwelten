@@ -326,6 +326,9 @@ Klare Ungenauigkeiten werden auch im Fließtext markiert, und zwar mit dem, **wa
 >   `find_sources`), nur nicht alle im selben Absatz.
 > - **Zitate hörbar zuordnen:** Wer spricht, steht im Satz („sagt Dath: …“). Kursivschrift und
 >   Anführungszeichen verschwinden beim Vorlesen.
+> - **Personen beim ersten Nennen einordnen**, in wenigen Worten: „die Philosophin Nancy Fraser“, „der
+>   Hirnforscher Manfred Spitzer“. Gehört klingen Namen leicht gleich (Fraser, Faeser), und wer nur hört,
+>   kann nicht zurückblättern. Was dort steht, kommt aus der Vita oder einer Quelle, nicht aus dem Gedächtnis.
 >
 > Die Website setzt Belege leise (klein, blass, DOI-Nummer im Link), der MCP liest in der Hörfassung nur die
 > Einordnung vor. Das hilft beim Bestand, ersetzt aber nicht das Maß beim Schreiben. Gilt für neue Notes und
