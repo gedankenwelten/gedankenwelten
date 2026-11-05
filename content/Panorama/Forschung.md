@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-11-01
+aktualisiert: 2026-11-05
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -167,6 +167,8 @@ Am Rand der Wissenschaft liegt die politische Prognose, und dort ist der Befund 
 
 Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, veröffentlicht dreimal so viel, wird fast fünfmal so oft zitiert und leitet früher eigene Projekte, während sich die Wissenschaft als Ganzes auf weniger Themen verengt ([Hao et al. 2026, doi:10.1038/s41586-025-09922-y](https://doi.org/10.1038/s41586-025-09922-y), 41 Millionen Artikel). Die Anthropologin Lisa Messeri und die Psychologin Molly Crockett hatten genau das vorhergesagt: KI erzeuge die Illusion, mehr zu verstehen, und Monokulturen des Wissens, in denen man die Fragen stellt, die zur Maschine passen ([Messeri & Crockett 2024, doi:10.1038/s41586-024-07146-0](https://doi.org/10.1038/s41586-024-07146-0), Perspektive). Mindestens 13,5 Prozent der biomedizinischen Zusammenfassungen von 2024 wurden mit Sprachmodellen bearbeitet ([Kobak et al. 2025, doi:10.1126/sciadv.adt3813](https://doi.org/10.1126/sciadv.adt3813)). Und dieselbe Technik schneidet in beide Richtungen: Ein Modell, das Medikamente entwerfen sollte, lieferte umgepolt in unter sechs Stunden rund 40.000 Kandidaten für Giftstoffe ([Urbina et al. 2022, doi:10.1038/s42256-022-00465-9](https://doi.org/10.1038/s42256-022-00465-9)).
 
+Ein Material, das ein selbstfahrendes Labor gefunden hat und das heute in einem Produkt steckt, gibt es bisher nicht; volle Autonomie *„has not yet been realized“*, und Richtung wie Ertrag des Feldes *„appear uncertain“* ([Tobias & Wahab 2025, doi:10.1098/rsos.250646](https://doi.org/10.1098/rsos.250646), Review). Am weitesten ist die Pharmazie: Ein mit generativer KI entworfener Wirkstoff gegen Lungenfibrose wird seit September 2026 in Phase III getestet ([Xu et al. 2025, doi:10.1038/s41591-025-03743-2](https://doi.org/10.1038/s41591-025-03743-2), Phase 2a). Dasselbe Review erwartet keinen breiten Stellenabbau, aber eine neue Verteilung der Arbeit: Die Routine, an der der Nachwuchs lernte, geht an die Maschine, und mit ihr womöglich Fördergeld, das bisher Ausbildung bezahlte. Eine Ethnografie zeigt, dass Automatisierung dabei neue Handarbeit schafft, vor allem das Ausbügeln unerwarteter Fehler ([Hammang 2023, doi:10.1177/01622439221149524](https://doi.org/10.1177/01622439221149524)).
+
 **Die Stimmen**
 
 - **[[Christian Bauckhage - KI Wir haben noch gar nichts gesehen#AlphaFold, oder: wenn das Unmögliche fällt|Christian Bauckhage]]:** Siebzig Jahre Forschung ergaben 200.000 Proteinstrukturen, AlphaFold 200 Millionen; wem da nicht schwindlig wird, dem ist nicht zu helfen.
@@ -177,14 +179,16 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 - **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#MuZero — Technisches Mu als Realisierung von Kreativität|Markus Gabriel]]:** *„KI ist Kreativität“* — die Frage, ob Maschinen Neues schaffen können, ist für ihn erledigt.
 - **[[KI-Agenten — Vom Dorf zur Zivilisation#Glaubwürdiger als Menschen?|Joon Sung Park]]:** Simulierte KI-Agenten wirken glaubwürdiger als menschliche Antworten und werden so zum Werkzeug der Sozialforschung; ob der Eindruck stimmt, bleibt offen.
 - **[[Wolfram Eilenberger — Die größte Lüge der Philosophie#KI als unerwartete Befreiung|Wolfram Eilenberger]]:** Wenn KI Fachartikel in dreißig Sekunden schreibt, bricht das akademische Prüfsystem zusammen, und darin liegt eine Chance.
+- **[[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Das Aber des Labors Riesen und der erste Beweis|Alexander Hammer]]** (Dunia, bei Breaking Lab): Mit dem Computer allein gelingt es nicht, ein Material muss in der Wirklichkeit geprüft werden; das autonome Labor IRIS soll die Brücke sein, der Beweis, ein erstes Material in der Industrie, steht noch aus.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (6)</summary>
 
 - **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Was können künstliche neuronale Netze nicht lernen?|Rainer Mühlhoff]]:** Was KI wirklich kann, interessiert ihn weniger als das, wofür sie verkauft wird; das verändert, was eine Tätigkeit wie Benoten überhaupt heißt.
 - **[[Manfred Spitzer — KI, Gehirn und Lernen#5. AlphaFold — KI löst ein 50 Jahre altes Problem|Manfred Spitzer]]:** AlphaFold ohne Patent hat die Pharmaforschung entfesselt; Autor eines Fachartikels kann eine KI trotzdem nie sein.
 - **[[Albert Moukheiber — Mein Hirn und die anderen#11. KI und das Ende des kalibrierten Vertrauens|Albert Moukheiber]]:** Es braucht ein System, das die Zuverlässigkeit der KI bewertet.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#KI als Marketingbegriff — und seine militärische Herkunft|Constanze Kurz]]:** Die Durchbruchsversprechen der KI kehren seit den 1960er-Jahren wieder.
 - **[[Maren Urner — Radikal hoffnungsvoll#Das KI-Paradox: Menschen, die wie Maschinen denken|Maren Urner]]:** Gefährlich wird es, wenn Menschen anfangen, wie die Maschine zu denken.
+- **[[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen#Der teuerste Mann der Fabrik|Ronnie Vuine]]:** Automatisierung scheitert selten am Können, oft an der Wartung; fällt ein Gelenk aus, kommt der teuerste Mann mit Nachtzulage.
 
 </details>
 
@@ -225,6 +229,7 @@ Die Gegenrechnung ist ebenso solide. Die wirkungsstärksten unter 17,9 Millionen
 | 25.10.2026 | [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Wer darf über Krieg reden?|Flemig reagiert auf Precht]] | Wer darf über Krieg reden? (Ballantyne 2019, Gerken 2018, Tetlock 2005, Mellers 2014, Knoll & Matthes 2016, Habermas 2006) |
 | 27.10.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Energie#Vom Labor zur Fabrik\|Jacob Beautemps — Made in Germany Awards 2026 Energie]] | Vom Labor zur Fabrik: Tal des Todes (Gaddy 2017, Merrow 1979, Nemet 2018), ARPA-E (Goldstein 2020), SPRIND-Evaluation 2025, Northvolt, Lernkurven (Nagy 2013, Wilson 2020) |
 | 01.11.2026 | [[Edgar Morin — Das komplexe Denken#Nachbesprechung|Edgar Morin — Das komplexe Denken]] | Neue Frage „Braucht Wissen Grenzgänger?“: Bromham 2016, Leahey 2017, Sun 2021, Uzzi 2013, Yegros-Yegros 2015, Jones 2009, Mellers 2014 · Morin, Luc, Gabriel, Truger, Smith, Flemig als Gegenstimme |
+| 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Selbstfahrende Labore wie weit sind sie?\|Jacob Beautemps — Made in Germany Awards 2026 KI]] | Selbstfahrende Labore: noch kein Material im Produkt (Tobias & Wahab 2025, Brown 2026, Tom 2024), KI-Wirkstoff in Phase III (Xu 2025), Erfolgsquoten (Jayatunga 2024), Festelektrolyt (Chen 2024), neue Handarbeit (Hammang 2023), Automatisierung von Urteil (Peterson 2026) · Hammer, Vuine |
 
 ---
 

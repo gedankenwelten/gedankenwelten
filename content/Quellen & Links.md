@@ -1412,7 +1412,7 @@ tags:
 
 | | |
 |---|---|
-| **Vortrag / Video** | [Ist der Mensch im Grunde gut? — Sternstunde Religion, SRF (15.10.2023)](https://www.youtube.com/watch?v=FpLob9R3azk) |
+| **Vortrag / Video** | [Ist der Mensch im Grunde gut? — Sternstunde Religion, SRF](https://www.youtube.com/watch?v=FpLob9R3azk) (YouTube 17.10.2023) |
 | **Notiz** | [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]] |
 | **DenkerVita** | [[DenkerVita/Carel van Schaik]] · [[DenkerVita/Kai Michel]] |
 | **Transkript** | `Gedankenwelten/Transkripte/vanSchaik_Michel_Mensch_gut_Transkript.txt` |

@@ -2,6 +2,7 @@
 title: "Carel van Schaik & Kai Michel — Die drei Naturen des Menschen"
 description: "Wir sind nicht kaputt, wir sind fehl am Platz — der Primatologe und der Historiker über das Jäger-und-Sammler-Erbe in uns und die 5000 Jahre, die alles verschoben haben."
 aktualisiert: 02.07.2026
+raetsel: "Drei Puppen ineinander. Nur die kleinste sitzt noch am Feuer."
 tags:
   - denker
   - philosophie
@@ -32,14 +33,14 @@ aliases:
 > [!abstract] Worum es geht
 > Ein Primatologe und ein Historiker stellen die alte Frage neu: Ist der Mensch im Grunde gut? Ihre Antwort dreht die vertraute Erzählung um. Nicht die Zivilisation hat den wilden Menschen gezähmt — sie hat einen von Natur aus kooperativen, gleichheitsliebenden Menschen in Verhältnisse gestellt, für die er nicht gemacht ist. Van Schaik und Michel entfalten das an ihrem Modell der *drei Naturen* und lesen daran ab, warum die Gegenwart sich für so viele falsch anfühlt — und dass das kein Schicksal ist.
 
-Quelle: [Ist der Mensch im Grunde gut? — Sternstunde Religion, SRF (15.10.2023)](https://www.youtube.com/watch?v=FpLob9R3azk)
+Quelle: [Ist der Mensch im Grunde gut? — Sternstunde Religion, SRF](https://www.youtube.com/watch?v=FpLob9R3azk) (auf YouTube seit 17.10.2023, 58 Minuten)
 
 > [!info] Wer spricht?
 > **Carel van Schaik** (*1953, Niederlande*) — Evolutionsbiologe und Primatologe, lange Direktor des Anthropologischen Instituts der Universität Zürich. Orang-Utan-Forscher, der die Kulturfähigkeit von Menschenaffen mitentdeckte und von dort aus auf den Menschen zurückblickt.
 >
-> **Kai Michel** (*1967, Deutschland*) — Literatur- und Wissenschaftshistoriker, Journalist. Er bringt die geschichtliche und religionswissenschaftliche Tiefenschärfe in ein Werk, das die Biologie ernst nimmt, ohne ihr das letzte Wort zu geben.
+> **Kai Michel** (*1967, Hamburg*) — Historiker und Literaturwissenschaftler, Buchautor. Er bringt die geschichtliche und religionswissenschaftliche Tiefenschärfe in ein Werk, das die Biologie ernst nimmt, ohne ihr das letzte Wort zu geben.
 >
-> Gemeinsam schrieben sie *Das Tagebuch der Menschheit* (2016), *Die Wahrheit über Eva* (2020) und *Mensch sein* (2023) — eine Trilogie, die Evolutionsbiologie, Archäologie und Bibelforschung zu einem Menschenbild verwebt. Moderation: Olivia Röllin.
+> Gemeinsam schrieben sie *Das Tagebuch der Menschheit* (2016), *Die Wahrheit über Eva* (2020) und *Mensch sein* (2023) — eine Trilogie, die Evolutionsbiologie, Archäologie und Bibelforschung zu einem Menschenbild verwebt.
 >
 > → [[DenkerVita/Carel van Schaik|DenkerVita Carel van Schaik]] · [[DenkerVita/Kai Michel|DenkerVita Kai Michel]]
 
@@ -87,9 +88,9 @@ Es ist die produktivste Umkehrung des Gesprächs. Die Aufklärung erzählte den 
 
 ### Woher wir wissen, wie die Alten lebten
 
-[▶ 22:13](https://www.youtube.com/watch?v=FpLob9R3azk&t=1333) — Ein Menschenbild, das sich auf 300.000 Jahre beruft, muss sich fragen lassen, woher es sein Wissen nimmt. Van Schaik legt die Puzzlestücke offen. Die **Ethnografie**: Noch vor 100, 150 Jahren lebten viele Gruppen als Jäger und Sammler, akribisch beschrieben — und schon die frühesten Berichte aus dem 15. und 16. Jahrhundert, aus Australien, aus Südamerika, decken sich mit dem, was moderne Feldforschung findet. Die **Archäologie**: Die allerfrühesten Landwirte hinterließen keine Reichtumsunterschiede, die Vorräte waren gemeinsam. Die **Verhaltensökonomie**: In Spielexperimenten benehmen wir uns fair, solange wir innerhalb einer Gruppe agieren — das Problem beginnt, wenn die Gruppe zu groß wird und die *Outgroup* entsteht.
+[▶ 22:13](https://www.youtube.com/watch?v=FpLob9R3azk&t=1333) — Ein Menschenbild, das sich auf 300.000 Jahre beruft, muss sich fragen lassen, woher es sein Wissen nimmt. Van Schaik legt die Puzzlestücke offen. Die **Ethnografie**: Noch vor 100, 150 Jahren lebten viele Gruppen als Jäger und Sammler, akribisch beschrieben — und schon die frühen Berichte seit Kolumbus und später die aus Australien und Südamerika, als Europäer dort frisch siedelten, decken sich mit dem, was moderne Feldforschung findet. Die **Archäologie**: Die allerfrühesten Landwirte hinterließen keine Reichtumsunterschiede, die Vorräte waren gemeinsam. Die **Verhaltensökonomie**: In Spielexperimenten benehmen wir uns fair, solange wir innerhalb einer Gruppe agieren — das Problem beginnt, wenn die Gruppe zu groß wird und die *Outgroup* entsteht.
 
-[▶ 24:30](https://www.youtube.com/watch?v=FpLob9R3azk&t=1470) — Michels liebstes Belegstück ist das Grab der **Schamanin von Bad Dürrenberg**, rund 9000 Jahre alt: ein außergewöhnlich reich ausgestattetes Grab aus der Zeit vor der Sesshaftigkeit — und es gehört einer Frau. Für ihn ein Fingerzeig, dass Frauen in den alten Gesellschaften prominente, mitunter die prominentesten Rollen spielen konnten. Das Patriarchat, sagt er, kommt erst danach.
+[▶ 24:30](https://www.youtube.com/watch?v=FpLob9R3azk&t=1470) — Für Michel, der den Fall mit einem Archäologen untersucht hat, ist es ein *„wunderschönes Belegstück“*: das Grab der **Schamanin von Bad Dürrenberg**, rund 9000 Jahre alt, ein außergewöhnlich reich ausgestattetes Grab aus der Zeit vor der Sesshaftigkeit — und es gehört einer Frau. Für ihn ein Fingerzeig, dass Frauen in den alten Gesellschaften prominente, mitunter die prominentesten Rollen spielen konnten. Das Patriarchat, sagt er, kommt erst danach.
 
 ### Weitergedacht: die Freiheit zu gehen
 
@@ -115,7 +116,7 @@ Christopher Boehm fasst denselben Befund in *Hierarchy in the Forest*: mobile Wi
 
 [▶ 19:57](https://www.youtube.com/watch?v=FpLob9R3azk&t=1197) — Die These hat zwei prominente Gegner, und das Gespräch nennt beide beim Namen. Der erste ist **Thomas Hobbes** und sein Krieg aller gegen alle. Van Schaik nimmt ihn in Schutz und widerlegt ihn zugleich: Hobbes übersetzte Thukydides, las von den Katastrophen des Peloponnesischen Kriegs und schloss, so müsse der Naturzustand gewesen sein. Er konnte es nicht besser wissen — die verlässlichen Berichte über lebende Jäger-und-Sammler-Gesellschaften gab es im 16. Jahrhundert noch nicht. Das Bild vom Wilden mit der Keule, der die Frau an den Haaren in die Höhle schleift, sei „falscher könnte es nicht sein". Und wer dieses falsche Menschenbild zur Normalität erklärt, zieht falsche Folgerungen: Sozialdarwinismus, „man muss die Schwachen eliminieren".
 
-[▶ 25:15](https://www.youtube.com/watch?v=FpLob9R3azk&t=1515) — Der zweite Gegner ist **Jordan Peterson**, der jungen Männern den Hummer als Vorbild empfiehlt — ein Tier mit einer 500 Millionen Jahre alten Dominanzstrategie. Van Schaiks Konter ist trocken: Man könne sich jede beliebige Tierart aussuchen; wir sind nicht die Nachfahren der Hummer. Dahinter steht ein größeres Argument, das **Evolutionstabu**: Weil die Evolutionslehre vom 19. Jahrhundert an missbraucht wurde — für Rassismus, für „Gier ist gut", bis zur nationalsozialistischen Vernichtungspolitik —, entstand eine Gegenbewegung, die jede biologische Erklärung des Menschen leugnete. Der Preis war ein Wissensverlust: Die Gesellschaft bekam nicht mit, dass sich die Biologie selbst radikal geändert hat — auch, weil heute viele Frauen forschen — und heute ein kooperatives Bild des Menschen zeichnet.
+[▶ 25:15](https://www.youtube.com/watch?v=FpLob9R3azk&t=1515) — Der zweite Gegner ist **Jordan Peterson**, der jungen Männern den Hummer als Vorbild empfiehlt — ein Tier, das seit Hunderten Millionen Jahren eine Dominanzstrategie verfolge (Michel nennt erst 300, dann 500 Millionen). Michels Konter ist trocken: Man könne sich jede beliebige Tierart aussuchen; wir sind nicht die Nachfahren der Hummer. Dahinter steht ein größeres Argument, das **Evolutionstabu**: Weil die Evolutionslehre vom 19. Jahrhundert an missbraucht wurde — für Rassismus, für „Gier ist gut", bis zur nationalsozialistischen Vernichtungspolitik —, entstand eine Gegenbewegung, die jede biologische Erklärung des Menschen leugnete. Der Preis war ein Wissensverlust: Die Gesellschaft bekam nicht mit, dass sich die Biologie selbst radikal geändert hat — auch, weil heute viele Frauen forschen — und heute ein kooperatives Bild des Menschen zeichnet.
 
 > [!note] Eigene Einschätzung
 > Bemerkenswert ist, dass van Schaik Peterson nicht einfach abräumt. Er räumt ein: In einer patriarchalen Struktur, die man nicht ändern kann, *empfehlen sich* bestimmte Strategien. Der Streit verschiebt sich damit vom Menschenbild zur Umwelt — nicht „wie ist der Mensch", sondern „welche Spielregeln zwingen ihn wozu". Das ist die ehrlichere Front. Es entwaffnet den Biologismus nicht mit Moral, sondern mit besserer Biologie: Verhalten ist Antwort auf Struktur, nicht Ausdruck einer fixen Essenz. Wer die Struktur ändert, ändert das Verhalten — darin liegt die ganze politische Sprengkraft des Buches.
@@ -130,16 +131,16 @@ Christopher Boehm fasst denselben Befund in *Hierarchy in the Forest*: mobile Wi
 
 [▶ 33:44](https://www.youtube.com/watch?v=FpLob9R3azk&t=2024) — Der überraschendste Teil des Gesprächs. Religion, sagen sie, ist nicht bloß aufgesetzte Ideologie, sondern hat ein **animistisches Substrat** in der ersten Natur. Zwei Anlagen genügen: Erstens denken wir Kausalität sozial — hinter jedem Geschehen vermuten wir einen Akteur; ist keiner sichtbar, nehmen wir einen unsichtbaren an (die Religionswissenschaft nennt es den *hyperactive agency detection device*). Zweitens glauben wir intuitiv, dass Leib und Seele trennbar sind, die Seele den Tod überdauert. Zusammen ergeben sie die Grundelemente von Religion.
 
-[▶ 36:05](https://www.youtube.com/watch?v=FpLob9R3azk&t=2165) — Wie aus Geistern Götter werden, erklärt ihr **Widerspiegelungsprinzip**: Solange Menschen als Jäger und Sammler gleich lebten, gab es keine großen Götter — nur beseelte Natur, Ahnen, Geister. Erst als die Gesellschaften ungleich wurden, als es Könige und Häuptlinge gab, konnten die Menschen diese Erfahrung nach oben projizieren. Und weil die Katastrophen mit der Sesshaftigkeit größer wurden, mussten auch ihre unsichtbaren Verursacher größer werden. Der Himmel spiegelt die Erde. Michel lässt dabei eine unerwartete Offenheit zu: Beide nennen sich Agnostiker, nicht Atheisten — die alten Erklärungen stimmen mit dem heutigen Wissen nicht überein, aber daraus folge nicht, dass es *nichts* gebe. Und selbst der eiserne Atheist trägt das Substrat: Auch Richard Dawkins habe als Kind inbrünstig gebetet.
+[▶ 36:05](https://www.youtube.com/watch?v=FpLob9R3azk&t=2165) — Wie aus Geistern Götter werden, erklärt ihr **Widerspiegelungsprinzip**: Solange Menschen als Jäger und Sammler gleich lebten, gab es keine großen Götter — nur beseelte Natur, Ahnen, Geister. Erst als die Gesellschaften ungleich wurden, als es Könige und Häuptlinge gab, konnten die Menschen diese Erfahrung nach oben projizieren. Und weil die Katastrophen mit der Sesshaftigkeit größer wurden, mussten auch ihre unsichtbaren Verursacher größer werden. Der Himmel spiegelt die Erde. Van Schaik lässt dabei eine unerwartete Offenheit zu: Beide nennen sich Agnostiker, nicht Atheisten — die alten Erklärungen stimmen mit dem heutigen Wissen nicht überein, aber daraus folge nicht, dass es *nichts* gebe. Und selbst der eiserne Atheist trägt das Substrat, sagt Michel: Auch Richard Dawkins habe als Kind inbrünstig gebetet.
 
 > [!question] Weitergedacht
 > Wenn das religiöse Empfinden zur ersten Natur gehört wie die Musikalität — *lässt es sich „wegklären", oder verwandelt es nur seine Gestalt, sobald man den alten Mann auf der Wolke verabschiedet?*
 
 ### Die Normalisierungsmaschine
 
-[▶ 43:43](https://www.youtube.com/watch?v=FpLob9R3azk&t=2623) — Hier fällt der Begriff, der das Gespräch trägt: Religion als **Normalisierungsmaschine**. Michel erzählt es als Drama in zwei Akten, am Beispiel des europäischen Christentums. Erster Akt: Jesus, sagen sie, habe die menschliche Natur *wiederentdeckt* — er predigte Gleichheit, Teilen, Versöhnung, die Inklusion der Frauen, sogar Nächstenliebe zum Feind. Eine Bewegung von unten, attraktiv fürs Volk, gegen die Elite gerichtet. Die Bibel lesen sie in *Das Tagebuch der Menschheit* als Krisenprotokoll der Schwachen, als Versuch, mit aller Kraft der dritten Natur in einer feindlichen Welt Frieden zu finden.
+[▶ 43:43](https://www.youtube.com/watch?v=FpLob9R3azk&t=2623) — Hier fällt der Begriff, der das Gespräch trägt: Religion als **Normalisierungsmaschine**. Die beiden erzählen es als Drama in zwei Akten, am Beispiel des europäischen Christentums. Den ersten erzählt van Schaik: Jesus, sagen sie, habe die menschliche Natur *wiederentdeckt* — er predigte Gleichheit, Teilen, Versöhnung, die Inklusion der Frauen, sogar Nächstenliebe zum Feind. Eine Bewegung von unten, attraktiv fürs Volk, gegen die Elite gerichtet. Die Bibel lesen sie in *Das Tagebuch der Menschheit* als Krisenprotokoll der Schwachen, als Versuch, mit aller Kraft der dritten Natur in einer feindlichen Welt Frieden zu finden.
 
-[▶ 49:51](https://www.youtube.com/watch?v=FpLob9R3azk&t=2991) — Zweiter Akt: die Umkehrung ins Gegenteil. Konstantin entdeckt, dass der Glaube an einen einzigen Gott die perfekte Herrschaftslegitimation ist, und übernimmt den Kirchenapparat. Augustinus erklärt die Menschen für abgründig böse von Geburt an — und wer böse ist, muss beherrscht werden.
+[▶ 49:51](https://www.youtube.com/watch?v=FpLob9R3azk&t=2991) — Den zweiten Akt übergibt er an Michel, *„das kann Kai immer besser erzählen“* ([▶ 45:16](https://www.youtube.com/watch?v=FpLob9R3azk&t=2716)): die Umkehrung ins Gegenteil. Konstantin entdeckt, dass der Glaube an einen einzigen Gott die perfekte Herrschaftslegitimation ist, und übernimmt den Kirchenapparat. Augustinus erklärt die Menschen für abgründig böse von Geburt an — und wer böse ist, muss beherrscht werden.
 
 > *„Während Jesus Vergebung und Versöhnung predigte, kommt dann Augustinus als mächtigster Kirchenvater und sagt: Die Menschen sind abgrundtief böse von Geburt an."*
 
@@ -167,13 +168,21 @@ Kein Zurück, keine Leerformel — sondern eine Prüfung: Welche unserer ältest
 Bei einer Denker-Note prüfen wir nur die harten empirischen Aussagen — die Deutung des Menschenbildes bleibt Position, nicht Prüfgegenstand.
 
 > [!success] Bestätigt — Schamanin von Bad Dürrenberg, ~9000 Jahre, Frauengrab
-> Das Grab von Bad Dürrenberg (Sachsen-Anhalt) ist eine der bekanntesten mesolithischen Bestattungen Mitteleuropas, datiert auf etwa 9000 Jahre. Bestattet wurde eine Frau (mit einem Kleinkind), reich ausgestattet mit Tierzähnen, Knochen, Muschelschmuck und Geräten — archäologisch als „Schamanin" gedeutet. Die Beschreibung im Gespräch trifft zu. Michels Zuspitzung „das reichste Grab in ganz Europa" ist rhetorisch überhöht — es ist eines der reichsten *mesolithischen* Gräber, nicht das reichste Grab Europas schlechthin. Quelle: [Landesmuseum für Vorgeschichte Halle — Der Schamane von Bad Dürrenberg](https://www.landesmuseum-vorgeschichte.de/forschung/der-schamane-von-bad-duerrenberg.html)
+> Das Grab von Bad Dürrenberg (Sachsen-Anhalt) ist eine der bekanntesten mesolithischen Bestattungen Mitteleuropas, datiert auf etwa 9000 Jahre. Bestattet wurde eine Frau (mit einem Kleinkind), reich ausgestattet mit Tierzähnen, Knochen, Muschelschmuck und Geräten — archäologisch als „Schamanin" gedeutet. Die Beschreibung im Gespräch trifft zu. Michels Zuspitzung „das reichste Grab in ganz Europa" ist rhetorisch überhöht — es ist eines der reichsten *mesolithischen* Gräber, nicht das reichste Grab Europas schlechthin. Quelle: [Landesmuseum für Vorgeschichte Halle über idw, Sonderausstellung „Die Schamanin“](https://idw-online.de/de/news869668) (*„vor etwa 9.000 Jahren … eine 30- bis 40-jährige Frau zusammen mit einem ungefähr sechs Monate alten“* Kind)
 
 > [!warning] Vereinfacht — „400-mal mehr Aggression bei Schimpansen als bei Jägern und Sammlern"
 > Die Zahl bezieht sich auf *nicht-tödliche* körperliche Angriffe: Wrangham, Wilson & Muller finden, dass Schimpansen hier um zwei bis drei Größenordnungen höhere Raten haben als menschliche Jäger und Sammler. Entscheidende Nuance, die van Schaik weglässt: Bei *tödlicher* Gewalt sind die Raten von Schimpansen und Menschen laut derselben Studie **ähnlich**. Als Größenordnung fürs Alltagsgezänk stimmt „400×", als Aussage über Friedfertigkeit schlechthin ist es verkürzt. Quelle: Wrangham, Wilson & Muller (2005), *Comparative rates of violence in chimpanzees and humans*, *Primates*, DOI [10.1007/s10329-005-0140-1](https://doi.org/10.1007/s10329-005-0140-1) *(via wiss_search / Semantic Scholar, 262 Zitationen)*
 
 > [!warning] Vereinfacht — Egalitarismus und seltener Suizid bei Jägern und Sammlern
 > Dass mobile Wildbeutergesellschaften stark egalitär organisiert waren (aktive Nivellierung von Status, Teilen von Beute), ist anthropologischer Konsens (Boehm, *Hierarchy in the Forest*). Van Schaik markiert selbst „ich will das nicht romantisieren" — zu Recht: Die Bandbreite dokumentierter Jäger-und-Sammler-Kulturen ist groß, einige kannten durchaus Gewalt und Ungleichheit. Die Suizid-Aussage ist schwer zu belegen (dünne, uneinheitliche Datenlage) und als starke Generalisierung mit Vorsicht zu lesen. Quelle: [Christopher Boehm, *Hierarchy in the Forest* (Harvard UP)](https://www.hup.harvard.edu/books/9780674006911)
+
+> [!note] Korrigiert am 05.11.2026
+> Beim Nachprüfen an Abschrift und Standbildern fielen vertauschte Sprecher auf: Den Konter gegen Petersons Hummer
+> spricht Michel, nicht van Schaik; „wir nennen uns ja Agnostiker“ sagt van Schaik, nicht Michel; den ersten Akt der
+> „Normalisierungsmaschine“ erzählt van Schaik, den zweiten Michel. Die frühen ethnografischen Berichte „aus dem 15. und
+> 16. Jahrhundert, aus Australien“ waren von uns zusammengezogen (Australien wurde erst Ende des 18. Jahrhunderts
+> besiedelt). Gestrichen haben wir den Namen der Moderatorin, für den wir keinen Beleg fanden, und einen toten Link
+> zum Landesmuseum.
 
 ---
 
@@ -242,3 +251,20 @@ Kaste als radikalste Ausformung der zweiten Natur: „ein Geisteszustand, kein S
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Beide entmoralisieren denselben Befund: Der Mensch ist evolutionär fehl am Platz — Jäger-Sammler-Gehirne in einer hyperdiversen, hypermobilen Welt. Yus Other-Race-Effekt und frühkindliche Infrahumanisierung sind die neuronale Seite von van Schaiks erster Natur; ihre Rehumanisierungs-Strategien der Versuch, das Erbe zu steuern statt zu leugnen.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Wenn die erste Natur gut ist und die zweite sie verformt: *Wer entscheidet, welche unserer ältesten Neigungen wir
+>   „mit Gründen“ für gut halten, und ist dieser Richter nicht selbst ein Kind der zweiten Natur?*
+> - Van Schaik verteidigt Peterson ein Stück: In einer patriarchalen Struktur empfehlen sich bestimmte Strategien.
+>   *Wenn Verhalten Antwort auf Struktur ist, wie viel Verantwortung bleibt dann beim Einzelnen?*
+> - Die Jäger und Sammler kannten kaum Suizid, sagen die beiden, und der Faktencheck nennt die Datenlage dünn.
+>   *Warum ist uns ein glückliches Steinzeitbild so lieb, und was würde sich ändern, wenn es nicht stimmt?*
+> - Neue Lagerfeuer, institutionell geschaffen: *Wie sähe in deiner Straße, deinem Betrieb, deiner Schule eines aus,
+>   das nicht nach Pflichttermin riecht?*
+> - [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu]] hält die Grenze zur Fremdgruppe
+>   für ein hartnäckiges Hirnfaktum. *Wenn sie recht hat, reichen dann Demokratie und Lagerfeuer, oder braucht die
+>   erste Natur selbst einen Lehrer?*

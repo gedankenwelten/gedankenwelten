@@ -84,13 +84,13 @@ Die Gedankenwelten (luc)
 >
 > Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
+> **05.11.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
+
 > **04.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **03.11.** — [[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]
->
-> Der Scanner fand weniger, als versprochen wurde, das Verhalten mehr, als man dachte, und die Nebenwirkungen kamen spät zur Sprache. Drei offene Fragen zur Meditation und zu dem, was sich an ihr messen lässt.
 
 > → *14 weitere in* [[Panorama]]
 
