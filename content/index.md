@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
+> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität: ein Motor und zwei Wächter]]
+>
+> Ein Motor mit zwei Rotoren, eine Drohne über dem Radweg, ein Ultraschall im Beton: Die Mobilitäts-Finalisten zeigen, dass das Neue im Land vor allem dem Erhalten des Alten dienen muss.
+
 > **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt]]
 >
 > Ein Labor, das nachts weiterforscht, ein Rucksack, der mithebt, ein Telefon, das den freien Weg hörbar macht: Die KI-Finalisten zeigen, was Künstliche Intelligenz kann, wenn sie Dinge anfasst.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
 
-> **30.10.** — [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
->
-> Der Mann, der das erste Schwarze Loch abbildete, erzählt die Welt als Folge von Katastrophen, getragen von der schwächsten Kraft — und hält Gott für ein Geheimnis, das sich nicht beweisen lassen darf.
-
-> → *1 weitere in* [[Geistesblitz]]
+> → *2 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

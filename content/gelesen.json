@@ -159,11 +159,6 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Marcant",
-   "leser": 6,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
    "leser": 6,
    "aufrufe": 7
@@ -176,6 +171,11 @@
   {
    "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
    "leser": 6,
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Marcant",
+   "leser": 5,
    "aufrufe": 6
   },
   {
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 35,
-     "aufrufe": 39
+     "leser": 34,
+     "aufrufe": 38
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -769,11 +769,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 6,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 6,
      "aufrufe": 7
@@ -786,6 +781,11 @@
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 5,
      "aufrufe": 6
     },
     {

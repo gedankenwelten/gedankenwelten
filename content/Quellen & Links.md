@@ -5470,6 +5470,17 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 KI]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MIGA_KI_qvyl8H4hQOA_Transkript.txt` |
 
+## Jacob Beautemps / Made in Germany Awards — Kategorie Mobilität (Breaking Lab)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [20% mehr Reichweite: Münchner Start-up löst das größte E-Auto-Problem](https://www.youtube.com/watch?v=q-Iw9hJJMAQ) (Breaking Lab, 05.11.2026) |
+| **Projekte** | [DeepDrive](https://www.deepdrive.tech/technology) · [Kratena](https://kratena.com/) · [Spree Monitoring](https://spree-monitoring.de/cwi/) |
+| **Quellenliste der Redaktion** | [Google Doc](https://docs.google.com/document/d/1qjqDKDJO4IPvRwm4shCZbFQ8UEAbUQj-UHbgsxajY44/edit?usp=sharing) |
+| **Abstimmung** | [madeingermanyawards.de/voting/mobilitaet](https://www.madeingermanyawards.de/voting/mobilitaet/) (bis 19.11.2026) |
+| **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MIGA_Mobilitaet_q-Iw9hJJMAQ_Transkript.txt` |
+
 ## Jacob Beautemps / European Inventor Award 2024 (Malta)
 
 | | |

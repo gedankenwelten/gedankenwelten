@@ -230,6 +230,7 @@ Die Gegenrechnung ist ebenso solide. Die wirkungsstärksten unter 17,9 Millionen
 | 27.10.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Energie#Vom Labor zur Fabrik\|Jacob Beautemps — Made in Germany Awards 2026 Energie]] | Vom Labor zur Fabrik: Tal des Todes (Gaddy 2017, Merrow 1979, Nemet 2018), ARPA-E (Goldstein 2020), SPRIND-Evaluation 2025, Northvolt, Lernkurven (Nagy 2013, Wilson 2020) |
 | 01.11.2026 | [[Edgar Morin — Das komplexe Denken#Nachbesprechung|Edgar Morin — Das komplexe Denken]] | Neue Frage „Braucht Wissen Grenzgänger?“: Bromham 2016, Leahey 2017, Sun 2021, Uzzi 2013, Yegros-Yegros 2015, Jones 2009, Mellers 2014 · Morin, Luc, Gabriel, Truger, Smith, Flemig als Gegenstimme |
 | 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Selbstfahrende Labore wie weit sind sie?\|Jacob Beautemps — Made in Germany Awards 2026 KI]] | Selbstfahrende Labore: noch kein Material im Produkt (Tobias & Wahab 2025, Brown 2026, Tom 2024), KI-Wirkstoff in Phase III (Xu 2025), Erfolgsquoten (Jayatunga 2024), Festelektrolyt (Chen 2024), neue Handarbeit (Hammang 2023), Automatisierung von Urteil (Peterson 2026) · Hammer, Vuine |
+| 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet#Vom Prüfstand ans Band\|Jacob Beautemps — Made in Germany Awards 2026 Mobilität]] | Vom Prüfstand ans Band: Radnabenmotor seit 1900 (Deepak 2023), wandernder Serientermin bei DeepDrive (2026 → 2027 → 2028), Hochholdinger: an der Serie scheitern die meisten Deep-Tech-Firmen |
 
 ---
 

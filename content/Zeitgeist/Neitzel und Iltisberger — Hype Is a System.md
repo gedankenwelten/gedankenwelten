@@ -261,6 +261,10 @@ Ein Prüffall für den Skynet-Effekt: Musk verspricht „Superkräfte“, Ethike
 
 Ein Prüfstück für die Frage, wer die gescheiterten Experimente bezahlt: Im Video sind die Schwierigkeiten von German Bionic „überwunden“, in den Akten steht eine Insolvenz. Und der Titel „6000x schneller“ trägt eine Zahl, die weder das Video noch die Firma nennt. Das eingebaute Aber der Jury übt dagegen genau die Gegenprüfung, die hier verlangt wird.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
+
+Hype und Gegenmittel in einem Video: Der Titel macht aus „10 bis 20 Prozent je nach Szenario“ feste 20 Prozent. Das „große Aber“ der Jury und ein Gründer, der ungefragt sagt, sein System ziele nicht auf 100 Prozent, holen die Frage „Was, wenn nicht?“ zurück.
+
 ---
 
 ## Weiterdenken

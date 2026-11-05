@@ -269,6 +269,10 @@ Dieselbe Kritik am „das wollen die Kunden“: bei Welzer als Polemik („kein 
 ### → [[Denker/Sibylle Anderl — Bequeme neue Welt#Der Schubs und die Ölfirma|Sibylle Anderl — Bequeme neue Welt]]
 Wie Yoran kritisiert Anderl, dass der CO₂-Fußabdruck strukturelle Probleme auf den Einzelnen schiebt, und doch empfiehlt sie am Ende den Buchkauf um die Ecke. Gegen Yoran steht ihr Grundverdacht: Für sie ist die Bequemlichkeit selbst der Preis, für ihn nur die schlechte Technik, und die gute darf verschwinden.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
+
+Eine mögliche Antwort auf Yorans Frage, woran man echten Fortschritt erkennt: Zwei von drei Mobilitäts-Finalisten bauen nichts Neues, sie bewachen Straßen und Brücken und fallen nur auf, wenn sie fehlen.
+
 ---
 
 ## Weiterdenken

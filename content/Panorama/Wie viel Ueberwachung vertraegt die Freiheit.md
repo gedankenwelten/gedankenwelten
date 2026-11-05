@@ -169,6 +169,10 @@ Der Fall, an dem sich zeigte, wie kurz die Leine ist, an der Europa digitale Wer
 
 Die Grenze hinter allen Fragen hier: der Schädel. Marcello Ienca hält eine „kognitive Überwachung“ durch Gehirn-Computer-Schnittstellen für ein realistisches Szenario, auch wenn die Technik noch weit davon entfernt ist; der Dissident, der sich verstellt, verlöre seine letzte Deckung.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
+
+Ein Gegenmodell zum Archiv, das alles verknüpft: Kratenas Straßendrohnen schwärzen Gesichter und löschen alles außer Asphalt, bevor die Schadenssuche beginnt. Wer darunter im Garten sitzt, sieht davon allerdings nichts.
+
 ---
 
 ## Weiterdenken

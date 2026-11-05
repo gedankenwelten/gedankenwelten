@@ -282,6 +282,10 @@ Das Panorama nennt den Befund zur Missionsagentur ARPA-E: Ihre Start-ups patenti
 
 Krauthausen fand in den Abendmagazinen zwei Figuren, das Sorgenkind und den „Superkrüppel“, beide Male ist die Behinderung die Geschichte. Der gedankengesteuerte Rollstuhl auf der Bühne erzählt eine dritte Variante: Die Behinderung ist der Anlass, die Heldinnen sind die Erfinderinnen. Krauthausens Antwort setzt woanders an, bei Rampe, Zwei-Sinne-Prinzip und Universal Design, „keine Rocket Science“.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
+
+Der Motor von DeepDrive soll ohne die schweren Seltenen Erden auskommen, deren Ausfuhr China seit April 2025 kontrolliert. Sagawas Neodym-Magnete braucht er weiter, nur weniger davon.
+
 ---
 
 ## Weiterdenken

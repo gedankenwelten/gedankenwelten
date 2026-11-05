@@ -167,3 +167,8 @@ Rheinmetalls Expansion auf 1,1 Millionen Artilleriegeschosse/Jahr ist nicht denk
 ### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Beide Notes kreisen um dasselbe ostdeutsche Paradox: Die Lausitz als Ort ungenutzter Potenziale — Kupfer unter der Erde, Höhenwind über dem Braunkohle-Abrissgebiet. In beiden Fällen scheitert die Hebung nicht an der Technologie, sondern an Kapital und Bürokratie.
+
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
+
+Das Gegenstück von der Nachfrageseite: Der Doppelrotor von DeepDrive soll laut Firma mit der Hälfte des Kupfers auskommen; unabhängig gemessen ist das noch nicht.
+

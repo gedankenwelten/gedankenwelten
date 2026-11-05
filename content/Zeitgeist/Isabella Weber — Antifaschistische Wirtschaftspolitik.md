@@ -458,6 +458,10 @@ Beide berufen sich auf Mamdani, auf verschiedene Seiten von ihm: Weber auf das g
 
 Driouich hält den Nachkriegskonsens, auf den Weber baut, ohne Wachstum für nicht wiederholbar; daran muss sich ihre Gegenbewegung messen lassen. Lange und Schmelzer berufen sich dagegen ausdrücklich auf ihre „anti-fascist economics“.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
+
+Wie die „Schuld der Vergangenheit“ aussieht, von der Klüssendorf spricht: Zwei von drei Finalisten bauen Wächter für Straßen und Brücken, deren Erhalt liegen blieb, bis hinunter zu dem Gehweg, an dem Weber Handlungsfähigkeit misst.
+
 ---
 
 ## Weiterdenken

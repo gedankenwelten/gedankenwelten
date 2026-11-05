@@ -109,7 +109,7 @@ erstellt: YYYY-MM-DD
 **Pflege:** Panoramas sind Snapshots — stabil nach Erstellung. Neue Notes verlinken *darauf*, aber das Panorama wird nur bei Bedarf aktualisiert. Keine automatische Pflicht-Aktualisierung bei neuen Notes.
 
 **Dritte Spielart: das wachsende Panorama (seit 26.09.2026).** Frontmatter `panorama-art: wachsend`. Statt Perspektiven stehen **offene Fragen** als `##`-Abschnitte (Beispiel: [[Panorama/Wie kann Demokratie funktionieren]]). Jede Frage trägt:
-- den **Sachstand** — was man weiß, Forschung mit DOI inline, Fälle; ehrlich vermerkt, wo er noch fehlt
+- den **Sachstand** — was man weiß, Forschung mit DOI im Text (mit Maß, → „Belege mit Maß“), Fälle; ehrlich vermerkt, wo er noch fehlt
 - **Die Stimmen** — je Stimme *ein* Satz zur Position, Name als Sprung auf den genauen Abschnitt (`[[Note#Überschrift|Name]]`); **6–8 sichtbar**, die am stärksten gegeneinander stehen, der Rest eingeklappt in `<details><summary>Weitere Stimmen (n)</summary>`
 - **Die Reibung** — ein `> [!question]`, das die schärfste Spannung zwischen den Stimmen als Frage stellt
 
@@ -311,3 +311,22 @@ Klare Ungenauigkeiten werden auch im Fließtext markiert, und zwar mit dem, **wa
 > `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` (Exit 1 = Phantom-DOI, zurückgezogenes Paper oder ein DOI, der zu einem *anderen* Paper gehört als dem zitierten — seit 29.10.2026 gleicht das Skript die Autoren im Zitat mit denen des DOI ab). Das gilt rubrik-übergreifend
 > (Zeitgeist, Denker, Geistesblitz), überall wo empirische Ansprüche im Spiel sind. Andreas ist Fan der
 > Wissenschaft — sie ist die zweite Säule neben Vipassana und im Core immer mitzudenken.
+
+### Belege mit Maß (seit 05.11.2026)
+
+> [!important] Der Satz trägt den Befund, die Klammer den Beleg.
+> Andreas, 05.11.2026: Bei vielen DOIs im Text „weiß man gar nicht mehr so, was Sache ist“. 470 Absätze im
+> Fließtext trugen drei und mehr DOI-Belege, fast alle in wachsenden Panoramen (Spitze: 129 in einer Note).
+> - **Höchstens ein Beleg je Satz.** Mehrere für dieselbe Aussage in *eine* Klammer am Satzende, nicht über
+>   den Satz verteilt.
+> - **Die Einordnung in Worten**, Autor und Jahr knapp: „(Risko & Gilbert 2016, Übersichtsarbeit)“,
+>   „(Kosmyna u. a. 2025, Preprint)“. Die Einordnung ist das, was hörbar bleibt.
+> - **Ab drei Belegen in einem Absatz** prüfen, ob einer trägt. Der Rest gehört in den Faktencheck oder unter
+>   `## Weiterführende Quellen`. Die DOI-Links bleiben in der Note (sie speisen `extract_sources.py` und
+>   `find_sources`), nur nicht alle im selben Absatz.
+> - **Zitate hörbar zuordnen:** Wer spricht, steht im Satz („sagt Dath: …“). Kursivschrift und
+>   Anführungszeichen verschwinden beim Vorlesen.
+>
+> Die Website setzt Belege leise (klein, blass, DOI-Nummer im Link), der MCP liest in der Hörfassung nur die
+> Einordnung vor. Das hilft beim Bestand, ersetzt aber nicht das Maß beim Schreiben. Gilt für neue Notes und
+> für jede Überarbeitung (heraklit, aristarch, Nachbesprechungen in Panoramen).

@@ -350,6 +350,10 @@ Yorans „Kostenwahrheit erzwingen“ (das 5-Euro-Shirt bildet seine Folgekosten
 
 Bendsen seziert auf Unternehmensebene dieselbe Bewertungsblindheit, die Göpel/Truger am BIP zeigen: KPIs, die Externalisierung belohnen — „das Billige ist eine Fehlbuchung“ als Mikro-Fassung von „Wachstum — wozu?“.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
+
+Am unteren Ende von Göpels Satz „Geld arbeitet nicht, das müssen Personen tun“ steht die Kommune, der nach Kratena-Gründer Fabian Pfeiffer Mittel und Personal fehlen, um Straßen anders als reaktiv zu flicken.
+
 ---
 
 

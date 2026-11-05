@@ -124,6 +124,8 @@ Regeln für den Block:
   ins Quellen-Layer (`gedankenwelten_sources`). **Die Säule speist den Quellen-Layer, kein eigener Index.**
 - **Soliditäts-Sprache mitschreiben:** „Review", „Meta-Analyse", „eine Einzelstudie", „Preprint, noch
   nicht begutachtet" — der Leser muss Konsens von Ausreißer unterscheiden können.
+- **Mit Maß** (→ `rules/gedankenwelten.md`, „Belege mit Maß“): höchstens ein Beleg je Satz, ab drei in einem
+  Absatz prüfen, ob einer trägt; der Rest in den Faktencheck oder unter `## Weiterführende Quellen`.
 - **Gegenevidenz gehört rein**, wo es sie gibt. Niemals nur die stützenden Paper.
 - **Faktencheck-Synergie:** Stützt ein Paper einen Claim, der schon im Faktencheck steht, kann der
   `> [!success] Bestätigt`-Callout den DOI als Beleg bekommen (statt nur Web-Quelle). Bei Widerlegung
