@@ -140,8 +140,14 @@ ffmpeg -y -ss TIMESTAMP -i "VIDEO.mp4" -frames:v 1 -q:v 2 "/tmp/check.jpg"
 ### Schritt 4 — In Note einbetten
 
 ```markdown
-![[content/assets/DATEINAME_TIMESTAMP.jpg|700]]
+![[content/assets/DATEINAME_TIMESTAMP.jpg|Was das Bild zeigt, in einem Satz|700]]
 ```
+
+**Jedes Inhaltsbild bekommt eine Beschreibung** (seit 05.11.2026): Folie, Standbild, Statistik-Grafik.
+Wer die Seite nicht sieht, hört sie vorgelesen; ohne Beschreibung überspringt der Screenreader das
+Bild still. Die Beschreibung sagt, was man *sieht* und was davon für den Text zählt. Bei einer
+Grafik sind das die Aussage und die Zahlen, nicht „ein Diagramm“. Banner bleiben ohne (Zier).
+Die Website macht daraus `alt` (`remark-gedankenwelten.mjs`).
 
 Immer **vollen Vault-Pfad** verwenden — Quartz löst relative Pfade nicht auf.
 Bilder direkt **vor** dem Textabschnitt platzieren, den sie illustrieren.

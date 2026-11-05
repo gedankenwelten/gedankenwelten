@@ -897,7 +897,10 @@ python3 .claude/scripts/statistik_grafik.py /tmp/…/spec.json --out <Note-Slug>
 ```
 
 Bild ansehen (Read), Beschriftungen auf Kollisionen prüfen. Einbetten **vor** dem Absatz, den es
-zeigt: `![[content/assets/<Datei>.png|700]]` + kursive Bildunterschrift. Quelle zusätzlich in
+zeigt: `![[content/assets/<Datei>.png|<Beschreibung>|700]]` + kursive Bildunterschrift.
+Die **Beschreibung** (seit 05.11.2026) ist für alle, die das Bild nicht sehen: Art der Grafik, was
+gemessen wird, und **alle Zahlen**, die im Bild stehen. Die Bildunterschrift deutet, die Beschreibung
+liest vor. Keine Zeichen, die eine Stimme stolpern lassen (→, ~, ·), keine „98,0“, sondern „98“. Quelle zusätzlich in
 `Quellen & Links.md`. Vorbild: [[Panorama/Macht Migration kriminell]] (fünf Grafiken, eine von Commons).
 
 **Generierte Bilder (fal.ai) neben dem Text — nur mit Andreas' ausdrücklichem Ja.** Eine Statistik
