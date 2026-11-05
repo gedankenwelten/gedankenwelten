@@ -2,7 +2,7 @@
 title: "Wie viel Überwachung verträgt die Freiheit?"
 date: 2026-10-17
 erstellt: 2026-10-17
-aktualisiert: 2026-10-31
+aktualisiert: 2026-11-05
 description: "Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert."
 raetsel: "Niemand sieht zu. Und doch zieht jeder die Vorhänge."
 panorama-art: wachsend
@@ -96,6 +96,8 @@ Härter als jede Kamerazahl ist, was in Xinjiang dokumentiert ist. Human Rights 
 
 Der Unterschied zwischen beiden Ländern liegt nicht in der Technik. Er liegt darin, dass in London ein Gericht und ein Parlamentsausschuss widersprechen können und dass dieser Widerspruch Folgen hat. Die USA zeigen, wie schnell sich das verschieben kann: Dort dient dieselbe Software einer Behörde, die Menschen für Abschiebungen sucht.
 
+Alle diese Systeme halten an einer Grenze, der Stirn. Wer in Xinjiang anders denkt, kann noch schweigen. Völkerrechtlich ist dieser Raum schon geschützt: Die Gedankenfreiheit nach Artikel 18 des Zivilpakts gilt absolut, auch im Notstand, und verbietet, jemanden für Gedanken zu bestrafen, „real or inferred“, wirkliche oder erschlossene ([UN-Sonderberichterstatter Shaheed, A/76/380, 2021](https://documents.un.org/api/symbol/access?s=A/76/380&l=en&t=pdf)). Neurotechnik prüft, wie lange die Grenze technisch hält. Bisher braucht das Mitlesen Mitwirkung: Ein Sprach-Decoder brauchte sechzehn Stunden im Scanner je Person und ließ sich durch bewusstes Gegendenken stören ([Tang et al. 2023, doi:10.1038/s41593-023-01304-9](https://doi.org/10.1038/s41593-023-01304-9)). Doch die Schranke wird schmaler; Decoder lassen sich inzwischen von einer Person auf die andere übertragen ([Tang & Huth 2025, doi:10.1016/j.cub.2025.01.024](https://doi.org/10.1016/j.cub.2025.01.024)). Das Recht antwortet bisher verstreut. Chile schrieb den Schutz der Hirnaktivität 2021 in die Verfassung ([Ley 21.383](https://www.bcn.cl/leychile/navegar?idNorma=1166983)), vier US-Bundesstaaten schützen neuronale Daten mit widersprüchlichen Definitionen ([Future of Privacy Forum](https://fpf.org/blog/the-neural-data-goldilocks-problem-defining-neural-data-in-u-s-state-privacy-laws/)), der AI Act verbietet Emotionserkennung am Arbeitsplatz und in der Schule ([Art. 5](https://artificialintelligenceact.eu/article/5/)), die UNESCO hat seit November 2025 eine unverbindliche Empfehlung. Ob es dafür neue Menschenrechte braucht oder ob die alten genügen, ist unter Fachleuten umstritten ([Bublitz 2022, doi:10.1007/s12152-022-09481-3](https://doi.org/10.1007/s12152-022-09481-3)). Ausgeführt in der [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Gehören die Gedanken noch einem selbst?|Nachbesprechung zur NANO-Doku]].
+
 **Die Stimmen**
 
 - **[[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt#Die Angst der Partei ist eine Innenangst|Susanne Weigelin-Schwiedrzik]]:** Die Partei, die in der Kulturrevolution fast die Kontrolle verlor, fürchtet vor allem, dass die Lage ihr entgleitet; die Kontrolle nach innen folgt aus dieser Angst.
@@ -103,6 +105,9 @@ Der Unterschied zwischen beiden Ländern liegt nicht in der Technik. Er liegt da
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Biometrische Gesichtserkennung Was sich verändert hat — und was fehlt|Constanze Kurz bei Jung & Naiv]]:** Die Gesichtserkennung ist seit dem gescheiterten Test am Berliner Südkreuz viel besser geworden, aber das Innenministerium veröffentlicht keine Evaluation mehr.
 - **[[Francesca Bria — The Authoritarian Stack#Europa Die Abhängigkeitsfalle|Francesca Bria]]:** Die NHS-Daten von über 50 Millionen Patienten liegen auf einer Palantir-Plattform, ohne dass die Patienten gefragt wurden.
 - **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koschi Politik]]:** In den USA wächst aus verknüpften Behördendaten das Werkzeug einer Abschiebepolitik.
+
+- **[[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Gehören die Gedanken noch einem selbst?|Marcello Ienca]]:** Wer anders denkt, kann sich heute noch verstellen; mit Zugriff auf Gehirndaten fiele diese letzte Deckung, und eine „kognitive Überwachung“ hält er für realistisch, nicht nur in Autokratien.
+- **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Das harte Problem, und warum es hart bleibt|Jürgen Kornmeier]]:** Neuralink sei „Bildzeitungsforschung“: Das eigene Erleben bleibt unzugänglich, kein Experiment öffnet es.
 
 > [!question] Die Reibung
 > China begründet seine Überwachung mit Sicherheit und erntet in Umfragen Zustimmung. Großbritannien überwacht dicht und lässt sich von Gerichten bremsen, die das Prinzip billigen und die Ausgestaltung rügen. *Wenn der Unterschied in den Gerichten liegt und nicht in der Technik: Was bleibt von ihm an dem Tag, an dem eine Regierung die Gerichte nicht mehr fürchtet?*
@@ -138,6 +143,7 @@ Quer zur Debatte liegt das polizeiinterne Projekt **P20**: Es will die Polizeida
 |---|---|---|
 | 17.10.2026 | [[Constanze Kurz — Palantir als Tueroeffner#Nachbesprechung|Constanze Kurz — Palantir als Türöffner]] | Gründungsnote: Wirkt die Datenanalyse? (Lee et al. 2024, Mohler et al. 2015, Galiani & Jaitman 2022, Braga et al. 2019, Saunders et al. 2016, Gerstner 2017, taz/Poseck) → *Wirkt es?* · Hilft ein europäischer Anbieter? (EuroStack 2025, Pohle & Thiel 2020, Republik, heise, P20) → *Löst ein europäischer Anbieter etwas?* · beim Anlegen ergänzt: Chilling Effects (Penney 2016, Stoycheff 2016, Büchi et al. 2022) → *Was macht es mit Menschen, beobachtet zu werden?* · China und Großbritannien (HRW 2019, China Cables, OHCHR 2022, Kostka 2019, Beraja et al. 2023, Piza et al. 2019, EGMR Big Brother Watch 2021, Bridges 2020) → *Wo kippt Schutz in Herrschaft?* |
 | 31.10.2026 | [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Nachbesprechung\|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] | Was macht es mit Menschen, beobachtet zu werden? Prädiktive Privatheit: Schattenprofile (García 2017), Vorhersage aus Kontakten (Bagrow et al. 2019), Datenexternalität (Acemoglu et al. 2022), EuGH C-184/20, EDPB-Lücke, Gegenbefund DSGVO und Konzentration (Johnson et al. 2023) |
+| 05.11.2026 | [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Nachbesprechung\|NANO — Gehirnchips und Gedankenfreiheit]] | Wo kippt Schutz in Herrschaft? Die Stirn als letzte Grenze: Shaheed A/76/380, Ley 21.383 und Girardi/Emotiv, US-Gesetze (Colorado, Kalifornien, Montana, Connecticut), AI Act Art. 5, Europarat-Entwurf, UNESCO 2025; Decoder (Tang 2023, Tang & Huth 2025, Kunz 2025, Kaifosh 2025); Kritik an Neurorechten (Bublitz, Hertz) |
 
 ---
 

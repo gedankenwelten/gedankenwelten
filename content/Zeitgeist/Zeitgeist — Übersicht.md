@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*360 Notes — automatisch generiert · nach Thema sortiert*
+*361 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -333,6 +333,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird|Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird]] — Wie aus einem wahren Funken eine Rechtfertigung wird — ein Historiker räumt der Gegenseite ein, was ihr zusteht, und zeigt genau dort, wo die Lüge beginnt.
 - [[Zeitgeist/Torsten Heinrich — Was die Tagesschau verschweigt|Torsten Heinrich — Was dir die Tagesschau verschweigt]] — Neutralität hält Torsten Heinrich für eine Lüge, Objektivität nicht. Ein langes Gespräch über Quellenkritik, Völkerrecht in der Ukraine und in Gaza – und seinen Weg von der AfD nach Panama.
 - [[Zeitgeist/Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]] — Dass ein langer Krieg Europa nützt, heißt nicht, dass er so geplant war. Torsten Heinrich trennt Nutzen von Absicht und beschreibt eine Ukraine mit zu viel zum Sterben, zu wenig zum Siegen.
+- [[Zeitgeist/ZDF — Wehrdienst verweigern|Wehrdienst verweigern? Eine Frage des Gewissens]] — Ein Pfarrer, der einst verweigerte, zieht Flecktarn an. Ein Sanitäter, der getötet hat, nennt sich Pazifist. Vier Menschen suchen, was ihr Gewissen sagt, wenn der Staat wieder fragt.
 - [[Zeitgeist/Yisrael Medad — Der Siedler und sein Recht|Yisrael Medad — Der Siedler und sein Recht]] — Ein Siedler seit 45 Jahren erklärt ruhig, warum das Völkerrecht irrt, warum es keinen palästinensischen Staat geben wird — und sagt auf die härteste Frage des Gesprächs schlicht: klar.
 
 ### Energie & Klima

@@ -47,6 +47,14 @@ python3 .claude/scripts/sprecher_check.py schnitte  "URL" --transkript "DATEI.vt
 Bei Reaktionsvideos ist das Original die Quelle; ohne Original werden die Sprecher vor dem Schreiben getrennt.
 Ablauf → `gedankenwelt` Schritt 4a.
 
+**Standbilder zur Sprecher-Bestimmung selbst ansehen, nicht an Ollama schicken** (seit 05.11.2026). Frame mit
+ffmpeg ziehen, mit `Read` öffnen, selbst urteilen. Ein Bild kostet so kaum Speicher, und das Urteil darüber, wer spricht,
+bleibt bei Claude. Bei vielen Frames oder um die Hauptsession nicht aufzuhalten, darf das ein **eigener
+Sub-Agent parallel** übernehmen: Er bekommt Video-Pfad, Zeitstempel und die Frage und liefert
+Zeitstempel → Sprecher zurück. Anlass: Am 05.11.2026 schickten mehrere Note-Sessions gleichzeitig Frames an
+`gemma4`, und Ollama lud `gemma4:31b` mit 24 GB. Zusammen mit vier Multipass-VMs lief der Mac in den Swap
+(34 von 35 GB).
+
 ## Audio/Video-Transkription: mlx-whisper (Mac M-Series)
 
 ```bash

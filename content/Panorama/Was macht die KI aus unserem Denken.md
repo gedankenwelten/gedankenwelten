@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-11-03
+aktualisiert: 2026-11-05
 description: "Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -65,7 +65,7 @@ Ungemessen ist auch die Rolle dessen, der nicht mehr selbst schreibt, sondern au
 - **[[Sibylle Anderl — Bequeme neue Welt#Schreiben, um herauszufinden, was man denkt|Sibylle Anderl]]:** Sie schreibt jeden Text selbst, weil sie nur so herausfindet, was sie denkt; die Maschine läuft auf das Wahrscheinlichste hinaus.
 - **[[Der leere Turm - wie Macht herrenlos wird#Das Scharnier Last oder Urteil|Luc]]:** Entscheidend ist, was man abgibt, die Last oder das Urteil; die eigentliche Gefahr ist, dass Menschen nicht arbeitslos werden, sondern urteilslos.
 
-<details><summary>Weitere Stimmen (10)</summary>
+<details><summary>Weitere Stimmen (11)</summary>
 
 - **[[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen#Was man einem Roboter nicht sagen kann|Ronnie Vuine]]:** *„Unterschiede zwischen drüber reden und das tatsächlich machen können“*; was ein Roboter in der Fabrik tut, lässt sich nicht in Sprache fassen, darum lernt er durch Vormachen.
 - **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Der Saphir am Seidenfaden|Emergence]]:** Mit Polanyi: *„we can know more than we can tell“*; der Moskauer Saphir klang im Westen erst, als einer neunzig Stunden im Labor stand und man ihm auf die Hände sah.
@@ -79,6 +79,8 @@ Ungemessen ist auch die Rolle dessen, der nicht mehr selbst schreibt, sondern au
 - **[[Maren Urner — Radikal hoffnungsvoll#Das KI-Paradox: Menschen, die wie Maschinen denken|Maren Urner]]:** Gefährlich ist nicht, dass die KI wie Menschen denkt, sondern dass Menschen beginnen, wie die KI zu denken.
 - **[[Andreas Reckwitz — Fortschritt NEU DENKEN#KI ist kein Naturereignis|Andreas Reckwitz]]:** Die Sorge vor dem Deskilling hält er für Vernunft: Eine Gesellschaft fällt nicht mehr auf jedes Heilsversprechen herein.
 - **[[Manfred Spitzer — KI, Gehirn und Lernen#2. Neuroplastizität — das Gehirn als Muskel|Manfred Spitzer]]:** Das Gehirn baut sich um, was über seine Synapsen läuft; ungeübt wird es nicht stärker.
+
+- **[[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Superkräfte und ein Kompass|Surjo Soekadar]]:** Gegen Musks „Superkräfte“ braucht es einen Kompass, damit die Superkraft nicht beim Computer liegt: *„hinterher sind wir dümmer“*. Für Gehirnimplantate hat das allerdings noch niemand gemessen.
 
 </details>
 
@@ -225,6 +227,8 @@ In Europa entscheidet die Form des Neins. Die Ausnahme fürs Text- und Data-Mini
 
 Am deutlichsten antwortet das Netz selbst. Binnen eines Jahres sperrten über 28 Prozent der aktivsten Quellen eines großen Trainingskorpus die KI-Crawler aus ([Longpre et al. 2024, doi:10.48550/arxiv.2407.14933](https://doi.org/10.48550/arxiv.2407.14933)), und auf Stack Overflow fiel die Aktivität nach ChatGPT um ein Viertel ([del Rio-Chanona et al. 2024, doi:10.1093/pnasnexus/pgae400](https://doi.org/10.1093/pnasnexus/pgae400)): Wer gefragt wird, ohne gefragt zu werden, hört auf zu antworten. Dagegen steht das Argument, Maschinen sollten lernen dürfen, was Menschen lernen dürfen ([Lemley & Casey, „Fair Learning“, doi:10.2139/ssrn.3528447](https://doi.org/10.2139/ssrn.3528447)). Die Gedankenwelten haben sich in ihrer `robots.txt` für das Teilen entschieden. Eine Stimme fehlt in diesem Bestand fast ganz: die der Schreibenden, Musiker und Zeichner selbst, um deren Werk es geht.
 
+Am schärfsten stellt sich die Frage, wenn die Maschine an einem einzigen Gehirn lernt. Rita Leggett bekam 2010 in einer Studie ein Implantat der Firma NeuroVista, dessen Algorithmus an ihren Hirnströmen lernte, Anfälle vorherzusagen. Als der Firma 2013 das Geld ausging, wollte sie ihr Haus beleihen, um das Gerät zu kaufen, und bekam es „very much against her will“ entnommen ([MIT Technology Review, 25.05.2023](https://www.technologyreview.com/2023/05/25/1073634/brain-implant-removed-against-her-will/)); Ethiker sehen darin womöglich eine Verletzung von Rechten, die man noch nicht verstanden hat ([Gilbert, Ienca & Cook 2023, doi:10.1016/j.brs.2023.04.016](https://doi.org/10.1016/j.brs.2023.04.016), Einzelfall über sechs Jahre). Über 350 Blinde tragen das Netzhautimplantat Argus II, dessen Hersteller es 2019 einstellte ([IEEE Spectrum, 15.02.2022](https://spectrum.ieee.org/bionic-eye-obsolete)). Von 66 Studienleitern sehen 95 Prozent eine Pflicht, den Zugang nach einer Studie zu sichern; es fehlt an Geld ([Higgins et al. 2024, doi:10.1136/bmjsit-2024-000262](https://doi.org/10.1136/bmjsit-2024-000262), Befragung). Hier gehört das Gelernte nicht einer Menschheit, die nicht gefragt wurde, sondern einer Firma, die den Menschen, an dem sie lernte, nicht mehr braucht. Ausgeführt in der [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Wenn das Werkzeug Teil des Selbst wird|Nachbesprechung zur NANO-Doku]].
+
 **Die Stimmen**
 
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Publikumsfragen|Isabella Weber]]:** Das Training der großen Sprachmodelle ist ein Raubbau an der geistigen Produktion der Menschheit; Wissensproduktion gehört öffentlich und dekommodifiziert organisiert.
@@ -234,6 +238,9 @@ Am deutlichsten antwortet das Netz selbst. Binnen eines Jahres sperrten über 28
 - **[[Roberto Simanowski — Sprachmaschinen#Publikumsfragen|Roberto Simanowski]]:** Wir werden gesprochen, wie die Maschine, und sind doch *„die Eigentümer unserer Gedanken geworden, denn sie leben mit uns“*; die KI hat keine Biografie.
 - **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Der Lehrer, den niemand fragte|Emergence]]:** Die Firmen fürchten nicht das Kopieren, das haben sie von Anfang an getan, sondern die Rolle des Lehrers, den niemand fragte; *„the good stuff was always ours“*.
 - **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Ein Lehrer, der Ja gesagt hat|Luc]]:** Die Gedankenwelten erlauben KI-Training ausdrücklich; wenn diese Texte einen kleinen positiven Tropfen im Meer der Trainingsdaten hinterlassen, haben sie ihren Zweck erfüllt.
+
+- **[[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Superkräfte und ein Kompass|Bernhard Meyer]]:** Der Neurochirurg, der Gehirnchips einsetzt: *„Gewinn liegt in dem Markt jenseits vom Patienten.“*
+- **[[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Wenn das Werkzeug Teil des Selbst wird|Marcello Ienca]]:** Wer Rita Leggett ihr Implantat nahm, nahm ihr die Person, die sie mit ihm geworden war; vielleicht eine Rechtsverletzung, die man noch nicht verstanden hat.
 
 <details><summary>Weitere Stimmen (1)</summary>
 
@@ -257,6 +264,7 @@ Am deutlichsten antwortet das Netz selbst. Binnen eines Jahres sperrten über 28
 | 20.10.2026 | [[Sibylle Anderl — Bequeme neue Welt#Nachbesprechung|Sibylle Anderl — Bequeme neue Welt]] | Wer auswählt statt schreibt: Fan, Pennanen, Zhou & Lee, Doshi & Hauser; die Gedankenwelten selbst als Fall |
 | 22.10.2026 | [[Shi Heng Yi — Aufloesung der Identitaet#Nachbesprechung|Shi Heng Yi — Die Auflösung der Identität]] | Muskeln aufspritzen: desirable difficulties (Bjork), Deslauriers, Productive Failure (Sinha & Kapur), Shen & Tamkin (Anthropic), Liu et al.; Fühlen beim Entscheiden (Lerner, Bechara vs. Maia & McClelland) |
 | 03.11.2026 | [[Geistesblitz/Emergence — Das dunkle Wissen der KI#Nachbesprechung|Emergence — Das dunkle Wissen der KI]] | Neue Frage: Wem gehört das Gelernte — Bartz, Kadrey, Copyright Office, OLG Hamburg, LG München (GEMA/Suno), Longpre, del Rio-Chanona, Lemley & Casey. Dazu subliminal learning (Cloud, Tang, Schrodi), emergent misalignment, Neinsage-Richtung zu den Werten; implizites Wissen (Collins, MacKenzie & Spinardi, Levitt, VPT, VCT) zum Auslagern |
+| 05.11.2026 | [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Nachbesprechung\|NANO — Gehirnchips und Gedankenfreiheit]] | Wem gehört das Gelernte, wenn die Maschine an einem Gehirn lernt: Leggett/NeuroVista (Gilbert, Ienca & Cook 2023), Argus II, Post-Trial-Zugang (Higgins 2024, Schönweitz 2024); Verwachsen statt Verlernen (Starke 2024, Gilbert 2017/2018, Gilbert, Burkhart & Morrill 2026); Soekadar als Stimme beim Auslagern |
 
 ---
 

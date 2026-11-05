@@ -339,13 +339,13 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 5,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "leser": 4,
      "aufrufe": 5
     },
     {
@@ -380,11 +380,6 @@
     },
     {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 3,
      "aufrufe": 3
     },
@@ -440,6 +435,11 @@
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 2,
      "aufrufe": 2
     },
