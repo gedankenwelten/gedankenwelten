@@ -62,7 +62,7 @@ Quelle: [re:publica 26: Die Entkrempelung der Welt — Warum die Dinge des Allta
 
 ### Der Herd, der neu gestartet werden muss
 
-![[assets/Yoran_Entkrempelung_60.jpg|700]]
+![[assets/Yoran_Entkrempelung_60.jpg|Standbild aus dem Vortrag: links ein Beitrag von Gabriel Yoran auf Twitter vom 6. Februar 2022, Text: Niemand: Wirklich keiner: AEG-Ingenieure: 0 1 3 5, 8 10, 14 A. Dazu ein Foto des Induktionskochfelds, eine rote Pfanne mit Spiegelei, vor jeder Kochzone eine aufgedruckte Skala mit genau diesen Stufen, rote Leuchtziffern zeigen 9 und 12. Rechts Yoran auf der Bühne.|700]]
 *Yorans viraler Tweet über die AEG-Heizstufen „0 1 3 5 — 8 10 — 14 A" (Standbild aus dem Vortrag, CC BY-SA 4.0)*
 
 [▶ 0:00](https://www.youtube.com/watch?v=poaUjtVM3pQ&t=0) — Yoran beginnt mit seinem eigenen Induktionsherd, 2022 „gegen meinen Willen durch einen Umzug" bekommen: Touch-Bedienung genau dort platziert, wo die heiße Pfanne steht, funktioniert nicht mit nassen Fingern („ist egal, ist ein Herd"), und wenn man die Pfanne fünf Zentimeter falsch bewegt, geht alles aus — Neustart, und der Herd vergisst, was auf welcher Platte stand. Das Entscheidende: Der Herd ist nicht einfach schlecht. Die Induktion darunter ist gute Technik — schneller, feiner regulierbar, sparsamer. Schlecht ist die Schicht *obendrauf*.
@@ -77,7 +77,7 @@ Wir sollen durch nachhaltigen, fairen, regionalen Einkauf reparieren, was politi
 
 [▶ 5:24](https://www.youtube.com/watch?v=poaUjtVM3pQ&t=324) — Der beste Krempel-Indikator sind **Scheininnovationen**: „Dinge, die so aussehen wie Fortschritt, es aber nicht sind." Die alten Drehknöpfe am Herd (Fachwort: Knebel) waren gut, aber teurer als Touchflächen. Statt zum Knebel zurückzukehren, baut Miele mit dem M-Sense-System Töpfe, die nur im Verbund mit dem eigenen Kochfeld voll funktionieren — proprietäre Pfannen, „Stichwort Ökosystem". Neff erfindet das „Twistpad", einen magnetischen Drehknubbel, der Nutzern schon in den heißen Backofen gefallen ist. Yorans Faustregel: [▶ 9:17](https://www.youtube.com/watch?v=poaUjtVM3pQ&t=557) *„Wenn es intuitiv ist oder ein Bedienkonzept hat: lauf."*
 
-![[assets/Yoran_Entkrempelung_985.jpg|700]]
+![[assets/Yoran_Entkrempelung_985.jpg|Vortragsfolie „Immersiver Waldmodus (Endlich!)“: nur diese drei Zeilen in schwarzer Serifenschrift auf hellem Grund. Rechts Yoran am Pult der re:publica, den Blick auf den Laptop gesenkt.|700]]
 *„Immersiver Waldmodus (Endlich!)" — Yorans deadpan Slide zur Mercedes C-Klasse (CC BY-SA 4.0)*
 
 Der zweite Indikator: Produkte, die ein anderes Produkt sein wollen. Der Seifenspender in der Arztpraxis mit Empfangsstärken-Anzeige (heißt: Füllstand), das Heringsfilet mit „vollem Empfang", der Mercedes mit immersivem Waldmodus und Aquarium-Bildschirmschoner — alle wollen das iPhone sein, „diese wahnsinnige Kränkung, die unzählige Produktmanagerinnen noch nicht verwunden haben". Und der KI-Backofen mit Kamera, der 100 Gerichte erkennt: [▶ 13:09](https://www.youtube.com/watch?v=poaUjtVM3pQ&t=789)
@@ -164,7 +164,7 @@ Die Fragerunde schärft den Vortrag an mehreren Stellen:
 
 **Und die Industrie?** — [▶ 59:43](https://www.youtube.com/watch?v=poaUjtVM3pQ&t=3583) Ob nach dem Bestseller ein Hersteller angefragt habe, eine No-Bullshit-Marke zu gründen: *„Niemand. Null. Nichts."* Gemeldet haben sich nur Insider, die auspacken wollten — Fortsetzungsmaterial für beliebig viele Bände.
 
-![[assets/Yoran_Entkrempelung_2560.jpg|700]]
+![[assets/Yoran_Entkrempelung_2560.jpg|Vortragsfolie: eine weiße Frontlader-Waschmaschine mit offener Tür und ein Einbaubackofen mit schwarzer Front und einer Reihe Drehknöpfe, darüber ein Kochfeld. Text: Zum Beispiel Indesit, Gorenje, Hotpoint. Rechts Yoran am Pult, eine Hand in der Hüfte.|700]]
 *Der Ausweg aus dem Krempel: Geräte für Schwellenländer-Märkte — mit Knebeln, ohne WLAN (CC BY-SA 4.0)*
 
 Praktischer Rat zum Schluss des Vortrags: [▶ 42:10](https://www.youtube.com/watch?v=poaUjtVM3pQ&t=2530) **Produkte für Schwellenländer kaufen** — Waschmaschinen und Herde für Süditalien oder die Türkei gebaut, haben Knebel statt Touchscreen, kein WLAN, kein Befassungsbedürfnis.

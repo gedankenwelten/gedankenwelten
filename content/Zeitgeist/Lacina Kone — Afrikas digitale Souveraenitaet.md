@@ -47,7 +47,7 @@ Quelle: [re:publica 26 — Lacina Koné: Writing Our Own History: The Path to Af
 
 ## Inhalt
 
-![[assets/Kone_zwei_regionen_2_80.jpg|700]]
+![[assets/Kone_zwei_regionen_2_80.jpg|Vortragsfolie „Zwei Regionen. Eine gemeinsame Frage.“ auf blauem Grund, nebeneinander zwei große Zahlen. Links in Grün 2 Prozent, darunter: Afrika, 2 Prozent der weltweiten KI-Trainingsdaten stammen aus Afrika. Rechts in Orange 80 Prozent, darunter: Europa, 80 Prozent der Technologien, von denen die EU abhängt, werden importiert. Unten die Frage: Wie bleiben wir offen für die Welt und behalten zugleich die Macht, unsere eigene digitale Zukunft zu gestalten? Rechts unten das Logo von Smart Africa.|700]]
 
 ### Zwei Realitäten, eine Frage
 
@@ -69,7 +69,7 @@ Hier zeigt sich die eigentliche These schon im Organisatorischen: Souveränität
 
 ### Die ehrliche Doppelbuchung: Chance und Wirklichkeit
 
-![[assets/Kone_1_in_4_2050.jpg|700]]
+![[assets/Kone_1_in_4_2050.jpg|Vortragsfolie „Bis 2050“ auf blauem Grund, in riesigen weißen Ziffern: 1 von 4 Menschen auf diesem Planeten wird Afrikaner sein. Darunter: Über 60 Prozent der Afrikaner sind heute unter 25. Am Fuß die Frage: Wer wird diese Intelligenz aufbauen, mit wessen Daten, in wessen Sprachen und nach wessen Regeln? Rechts unten das Logo von Smart Africa.|700]]
 
 [▶ 6:11](https://www.youtube.com/watch?v=j4xfSWZ6EM8&t=371) — Koné leistet sich, was in Zukunftsreden selten ist: er bucht beide Seiten. Die Chance ist demografisch überwältigend — bis 2050 wird jeder vierte Mensch auf dem Planeten Afrikaner sein, schon heute sind über 60 % der Afrikaner unter 25. „One of the greatest concentrations of human potential the world will see this century." Und im selben Atemzug die Lücken: nur etwa 38 % Konnektivität gegenüber einem globalen Schnitt von 68 %, KI-Systeme, in denen die meisten der afrikanischen Sprachen schlicht unsichtbar bleiben.
 
@@ -111,7 +111,7 @@ Souveränität ruht für Koné auf drei Säulen: **Infrastruktur** (Kabel, Cloud
 
 ### Der Souveränitäts-Riss verläuft durch die Sprache
 
-![[assets/Kone_2000_sprachen.jpg|700]]
+![[assets/Kone_2000_sprachen.jpg|Vortragsfolie „Regierungsführung und Ethik“ auf blauem Grund, in riesigen weißen Ziffern: mehr als 2000 Sprachen werden in ganz Afrika gesprochen. Darunter: Die meisten großen KI-Systeme funktionieren nur in einem Bruchteil davon gut. Am Fuß der Satz: Ein Kontinent, der nicht in seinen eigenen Sprachen denken kann, kann die Systeme nicht vollständig steuern, die zunehmend ihn steuern. Rechts unten das Logo von Smart Africa.|700]]
 
 [▶ 16:53](https://www.youtube.com/watch?v=j4xfSWZ6EM8&t=1013) — Die dritte Säule verdichtet Koné zu seinem stärksten Bild. Über 2.000 Sprachen werden in Afrika gesprochen; die großen KI-Systeme funktionieren nur in einem Bruchteil davon. Das sei kein technisches Detail:
 

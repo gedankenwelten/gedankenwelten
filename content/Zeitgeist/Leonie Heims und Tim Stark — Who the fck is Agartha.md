@@ -47,7 +47,7 @@ Quelle: [re:publica 26: Who the f#ck is Agartha?](https://www.youtube.com/watch?
 
 ### Ein Buch, ein Rindfleischextrakt, eine Party (1871–1891)
 
-![[assets/Agartha_154_vril_zu_viral.jpg|700]]
+![[assets/Agartha_154_vril_zu_viral.jpg|Vortragsfolie „Von Vril zu Viral“: links der rote Buchdeckel von The Coming Race, beschriftet Vril Buch. Rechts ein altes Werbeplakat für Bovril: Ein Kraftmensch im Leopardenfell kniet und stemmt ein riesiges Bovril-Glas über den Kopf, dazu der Text für Kraft und Vitalität, beschriftet Vril „Brotaufstrich“.|700]]
 
 [▶ 1:01](https://www.youtube.com/watch?v=MkFdjOmdsL0&t=61) — Die Reise beginnt harmlos: mit einem „eigentlich langweiligen Fiction-Buch aus 1871". Edward Bulwer-Lyttons *The Coming Race* erzählt von den Vril-ya, einer unterirdisch lebenden Rasse, die dank einer Kraft namens **Vril** allen anderen Lebewesen überlegen ist — Telekinese, Heilung, Zerstörung. Der Autor fand sein eigenes Werk offenbar so seltsam, dass er es anonym veröffentlichte; erst posthum erschien es unter seinem Namen und wurde ein Hit. „Vril" wanderte als Synonym für übernatürliche Kraft ins englische Wörterbuch — und in einen Rindfleischextrakt namens *Bovril*, den es bis heute zu kaufen gibt.
 
@@ -61,7 +61,7 @@ Quelle: [re:publica 26: Who the f#ck is Agartha?](https://www.youtube.com/watch?
 
 > *„Die NS-Ideologie war ja quasi schon fertig. Man hat dann rückwärtsgewandt versucht, Beweise zu produzieren — nicht zu erforschen, sondern zu produzieren."* — [▶ 4:05](https://www.youtube.com/watch?v=MkFdjOmdsL0&t=245)
 
-![[assets/Agartha_445_neuschwabenland.jpg|700]]
+![[assets/Agartha_445_neuschwabenland.jpg|Vortragsfolie „NS-Zeit: Neuschwabenland“, eine Collage. Schwarzweißfotos: drei Männer in Polarkleidung mit Hakenkreuzfahne auf dem Eis, zwei Uniformierte mit einer Gestalt im Eisbärenfell. Eine Karte der Antarktis mit dem rot markierten Gebiet Neu Schwabenland, Deutsch. Darunter die Zeichnung einer fliegenden Untertasse über Bergen mit dem Schriftzug Neuschwabenland, ein ringförmiger Stützpunkt im Eisgebirge mit rotem Pfeil und der Aufschrift Neuberchdesgaden, und Pinguine in der Brandung mit der Sprechblase: Weder wir noch die Reichsflugscheiben können fliegen. Unten: Ziel: Lösung der „Fettlücke“.|700]]
 
 Zwei reale Expeditionen liefern das Rohmaterial des späteren Mythos. Die Tibet-Expedition 1938/39 suchte einerseits nach „Belegen" für eine arische Urrasse im Himalaya — einem Ort, den die Theosophin Helena Blavatsky schon im 19. Jahrhundert mystisch aufgeladen hatte —, andererseits ganz profan nach kälteresistenten Pferderassen für die Kriegswirtschaft. Und die Antarktis-Expedition „Neuschwabenland" wollte schlicht die „Fettlücke" schließen: Walfanggebiete sichern, damit das Regime keine Fette importieren muss. Stark bringt es trocken auf den Punkt: *„Ein wirklich wirres Gemisch aus Rassenwahn, Pseudowissenschaft und Kriegswirtschaft — so ein bisschen wie Indiana Jones ohne den Charme, ohne die Peitsche, dafür mit weirden SS-Forschern."* ([▶ 6:22](https://www.youtube.com/watch?v=MkFdjOmdsL0&t=382))
 
@@ -72,7 +72,7 @@ Hier liegt die vielleicht wichtigste analytische Pointe des Talks: Der Mythos br
 
 ### Der große okkulte Mixer (nach 1945)
 
-![[assets/Agartha_590_okkulter_mixer.jpg|700]]
+![[assets/Agartha_590_okkulter_mixer.jpg|Vortragsfolie „Post-NS-Vermischung mit“: zwei gezeichnete Meme-Figuren mit Bart und weit aufgerissenem Mund, eine zeigt auf ein Fantasiebild aus Eisbergen und Pyramiden. Ihre Sprechblasen sind spöttisch in wechselnder Groß- und Kleinschreibung gesetzt. Links: Die Vril-Flugscheiben waren kein Mythos, sondern verbotene Technologie, die nach 1945 nach Agartha, Shambhala, Tibet und in die Antarktis gebracht wurde, und während ihr noch glaubt, dass der Krieg 1945 vorbei war, existiert das ganze System im Untergrund einfach weiter, wer das nicht sieht, schläft. Rechts: Die Nazis hatten nicht verloren, wacht endlich auf, sie hatten Zugang zu uralter unterirdischer Technologie, geheime Meister, arische Überwesen und die Vril-Kraft haben sie geleitet, während die sogenannten Sieger nur die Oberfläche gesehen haben. Unten eine lange Kette von Begriffen, mit Malzeichen verbunden: Agartha, Theosophie, Shambhala, Atlantis, Hohlerde, TK-Nazis, Mond-Nazis, Vril, Thule-Gesellschaft, Hyperborea, Esoterischer Hitlerismus, Aufgestiegene Meister, Ariosophie, völkische Esoterik, Runen, Germanentum, Neuheidentum, Alien-Erzählungen.|700]]
 
 [▶ 9:25](https://www.youtube.com/watch?v=MkFdjOmdsL0&t=565) — Was nach dem Krieg geschieht, nennen die beiden den „großen okkulten Mixer": Alles, was geheim, alt, arisch, unterirdisch, außerirdisch oder verboten klingt, wird zusammengeworfen — Agartha, Shambhala, Atlantis, Hohle Erde, Thule-Gesellschaft, Hyperborea, esoterischer Hitlerismus, aufgestiegene Meister, Runenenergie, dazu Alien-Erzählungen, „damit es so richtig knallt".
 
@@ -82,7 +82,7 @@ Hitler versteckt sich wahlweise in der Arktis, auf der dunklen Seite des Mondes 
 
 ### Die entpolitisierte Zwischenzeit: Call of Duty als Erstkontakt
 
-![[assets/Agartha_700_popkultur.jpg|700]]
+![[assets/Agartha_700_popkultur.jpg|Vortragsfolie „Erste popkulturelle Reminiszenz“: drei Bilder. Das Titelbild eines Mangas mit dem Schriftzug Agharta und einer gezeichneten jungen Frau, beschriftet Agharta Band 6 (2003). Die DVD-Hülle eines Animefilms mit drei gezeichneten Jugendlichen und Altersfreigabe ab 12, beschriftet Die Reise nach Agartha (2011). Ein gemaltes Bild einer Gestalt mit Stab vor Bergen unter einem Sternenhimmel, beschriftet Secret World (2018).|700]]
 
 [▶ 10:55](https://www.youtube.com/watch?v=MkFdjOmdsL0&t=655) — In den 2000er- und 2010er-Jahren passiert etwas Unerwartetes: Agartha wird harmlos. In Videospielen, Animes und Serien taucht der Name als Chiffre für den unentdeckten Ort auf, „wo andere Regeln gelten" — Storytelling-Gold ohne politische Fracht. Stark erzählt offen von seinem eigenen Erstkontakt: der Lore von *Call of Duty Black Ops Zombies*, in die er als Jugendlicher Stunden versenkte.
 
@@ -122,7 +122,7 @@ Dabei ist die Community keineswegs homogen: Es gibt die Stolzen, die sich der ra
 
 [▶ 27:43](https://www.youtube.com/watch?v=MkFdjOmdsL0&t=1663) — Dann kippt die Reise endgültig. In Jakarta greift ein Schüler seine Schule und eine Moschee mit Sprengsätzen an — auf seinem Arm: „14 words for Agartha", auf seinem Körper eine Referenz an den Christchurch-Attentäter Brenton Tarrant. Das „lustige Online-Meme" ist in einer Amoktat angekommen, auf der anderen Seite des Planeten, verübt von jemandem, der weder blond noch blauäugig ist. In entgrenzten digitalen Räumen sind solche Phänomene nicht mehr regional — und ihre Träger müssen nicht einmal ins eigene Raster der Ideologie passen.
 
-![[assets/Agartha_1770_knotenpunkt.jpg|700]]
+![[assets/Agartha_1770_knotenpunkt.jpg|Vortragsfolie: ein Diagramm aus drei sich überschneidenden Kreisen, Alt-Right in Rot, Verschwörung in Blau, Terrorakt und Amoktäter in Violett. In der Mitte, rot umrahmt, ein Fantasiebild aus Eisbergen und Pyramiden. Zwischen Alt-Right und Verschwörung ein Foto einer Fahne mit Q in Sternen und Streifen, beschriftet QAnon. Zwischen Alt-Right und Terror ein Standbild mit einem beschrifteten Gewehr, beschriftet Christchurch (2019). Zwischen Verschwörung und Terror die Fassade eines Restaurants, beschriftet Pizzagate (2016).|700]]
 
 Die analytische Essenz des Talks steckt in einem Verkehrsbild:
 

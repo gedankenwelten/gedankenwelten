@@ -105,7 +105,7 @@ Und dann, vor dem Einschlafen, kommt die Erinnerung. Erst als Inventar, beinahe 
 
 ### Im Anfang die Tat — darüber die Idee
 
-![[assets/Klee-Zwitscher-Maschine-1922.jpg|500]]
+![[assets/Klee-Zwitscher-Maschine-1922.jpg|Gemälde von Paul Klee, „Die Zwitscher-Maschine“: ein Aquarell in verschwimmendem Blau, Violett und Rosa, fleckig wie altes Papier. In der Mitte eine feine schwarze Federzeichnung: Vier dünnbeinige Vogelwesen aus kaum mehr als Linien hängen mit ihren Füßen an einer waagerechten Stange, die rechts in einer Handkurbel endet. Der linke trägt einen spitzen schwarzen Federschopf, einer lässt den runden Kopf sinken, zwei recken offene Schnäbel mit großen Augen in die Höhe, aus einem ragt eine Zunge wie ein Pfeil. Darunter ein kleines Gestell wie eine Schleife und am Boden ein flacher rosiger Kasten auf dünnen Beinen. Oben rechts in Handschrift der Titel Zwitscher-Maschine. Die Stimmung ist zart, verspielt und zugleich etwas unheimlich.|500]]
 
 *Paul Klee, „Die Zwitscher-Maschine" (1922) — 1937 als „entartet" beschlagnahmt und in der Münchner Ausstellung gezeigt, 1939 vom NS-Staat an den Kunsthandel verkauft; heute im MoMA, New York. (Gemeinfrei)*
 
@@ -124,7 +124,7 @@ Und wer schaut? Klee holt Feuerbach herbei: Zum Verstehen eines Bildes gehöre e
 
 ### Das Böse als mitschaffende Kraft
 
-![[assets/Klee-Gespensterzimmer-1925.jpg|420]]
+![[assets/Klee-Gespensterzimmer-1925.jpg|Gemälde von Paul Klee, „Geisterzimmer mit der Hohen Türe“, hochformatig: ein Raum in zentraler Perspektive aus dünnen, zittrigen schwarzen Linien auf gesprühtem Grund in Ocker und Orange, zur Mitte hin in rauchiges Violett verschattet. Wände und Decke sind nur als Bündel waagerechter Striche angedeutet, die auf eine hohe, schmale, dunkelviolette Tür in der Rückwand zulaufen. Am Boden stehen leere Gestelle, Regale, Kästen, Räder und Hebel wie verlassene Maschinen, vor der Tür ein Rad auf einem Stab. Kein Mensch ist zu sehen. Am unteren Rand in Klees Handschrift Jahr und Titel, rechts die Signatur Klee. Die Stimmung ist still, leer und leise beklemmend.|420]]
 
 *Paul Klee, „Geisterzimmer mit der Hohen Türe (neue Fassung)" (1925) — das Gespensterzimmer-Motiv hing 1937 in der Schandausstellung; diese Fassung heute im Metropolitan Museum, New York. (Gemeinfrei)*
 
@@ -140,7 +140,7 @@ Das relativistische Weltbild, die Systemtheorie, die Ökologie: 1920 stehen sie 
 
 ### 19. Juli 1937: Der Sichtbarmacher wird unsichtbar gemacht
 
-![[assets/Klee-Sumpflegende-1919.jpg|600]]
+![[assets/Klee-Sumpflegende-1919.jpg|Gemälde von Paul Klee, „Sumpflegende“: ein dicht verschachteltes Bild in gedämpftem Braun, Weinrot, Violett und Grau, aus dem moosgrüne runde Flecken und kräftige weiße Formen hervortreten. Kantige Häuschen mit Fenstern, Dachspitzen und kleinen Kirchen mit Kreuzen sind schief ineinandergeschoben, als würden sie im Sumpf versinken. Weiße Tannen, gezeichnet wie Fischgräten, stehen dazwischen, unten links eine kleine weiße Figur. Oben links schwebt über allem ein großes violettes Wesen mit Augen und einem gelblichen Bogen wie ein Schweif. Die Farbe ist pastos und rau aufgetragen, von feinen schwarzen Linien durchzogen, rechts unten die Signatur Klee. Die Stimmung ist düster, traumartig und märchenhaft.|600]]
 
 *Paul Klee, „Sumpflegende" (1919) — hing 1937 in der „Entartete Kunst"-Ausstellung im Dada-Spott-Saal; nach jahrzehntelangem Restitutionsstreit heute im Lenbachhaus München. (Gemeinfrei)*
 

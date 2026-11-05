@@ -101,11 +101,11 @@ Der Fall ist real, die Erzählung geglättet. Der „Experte" war der amerikanis
 
 Dann kommt das eine Bild, das den ganzen Talk trägt. Von oben ein dichter grüner Wald, gleichmäßig, unauffällig:
 
-![[assets/Nicolaus-Winistoerfer-Vermessen-wald-von-oben.jpg|700]]
+![[assets/Nicolaus-Winistoerfer-Vermessen-wald-von-oben.jpg|Luftbild senkrecht von oben: ein geschlossenes Blätterdach aus vielen Baumkronen in hellen und dunklen Grüntönen, ohne Lücke und ohne Weg. Verstreut leuchten fünf, sechs Kronen weiß vor Blüten. Eine Grenze oder ein Unterschied zwischen linker und rechter Bildhälfte ist nicht zu erkennen.|700]]
 
 Dann derselbe Wald im LiDAR-Querschnitt, Millionen Punkte, seitlich betrachtet und nach Boden, niedriger und hoher Vegetation eingefärbt. Und plötzlich sieht man, dass die linke Hälfte anders gebaut ist als die rechte: weniger dicht, andere Schichtung.
 
-![[assets/Nicolaus-Winistoerfer-Vermessen-lidar-querschnitt.jpg|700]]
+![[assets/Nicolaus-Winistoerfer-Vermessen-lidar-querschnitt.jpg|Grafik aus Laserscan-Daten: derselbe Wald als seitlicher Querschnitt aus unzähligen farbigen Punkten auf hellem Raster. Der Boden ist eine braune Punktlinie, die von einer Senke links nach rechts ansteigt. Links, beschriftet Eukalyptusbäume, stehen hohe, schlanke Stämme in Olivgrün mit kleinen, lichten Kronen weit auseinander, am Boden darunter türkisfarbene Punkte für niedrigen Bewuchs. Rechts, beschriftet Dichter Wald, ein geschlossenes, kräftig grünes Kronendach von gleichmäßiger Höhe, unter dem die Stämme kaum hervortreten.|700]]
 
 > *„Tatsächlich ist es nämlich so, dass auf der linken Seite Eukalyptusbäume sind, eine invasive Art, die wir nicht in diesem Renaturierungswald haben wollen. Das war zuvor auf dem Bild gar nicht erkennbar."* [▶ 9:59](https://www.youtube.com/watch?v=isBtyQD79cM&t=599)
 
@@ -118,7 +118,7 @@ Das ist der überzeugendste Moment des Vortrags, weil er nichts behauptet, was d
 
 [▶ 10:44](https://www.youtube.com/watch?v=isBtyQD79cM&t=644) Zweiter Fall, europäischer. Eine Stadtplanerin in Klagenfurt soll das Solarpotenzial abschätzen. Klagenfurt hat die ganze Stadt luftgestützt und mobil gescannt, daraus einen digitalen Zwilling gebaut, ein Klassifizierungsnetz über die Punktwolke gelegt und Bäume, Gebäude, Straßen getrennt. Erst danach lässt sich simulieren, welche Dachfläche wirklich taugt — und, wie Winistörfer betont, welche Teile eines geeigneten Dachs es doch nicht sind, weil dort Aufbauten, Verschattungen, Lücken liegen.
 
-![[assets/Nicolaus-Winistoerfer-Vermessen-klagenfurt-solar.jpg|700]]
+![[assets/Nicolaus-Winistoerfer-Vermessen-klagenfurt-solar.jpg|Schräge Ansicht aus einem digitalen Stadtmodell: lange, mehrstöckige Wohnblöcke zwischen Rasenflächen und Bäumen. Auf den Flachdächern links und in der Mitte sind große Flächen kräftig rot eingefärbt, einzelne kleinere Stellen orange. Ausgespart bleiben Streifen und Rechtecke um Aufbauten wie Lüftungen und Schächte. Die beiden Blöcke rechts tragen bereits dunkelblaue Solarmodule. Rechts unten das Logo von Hexagon, Spatial Intelligence.|700]]
 
 Rot markiert, was taugt; die Lücken darin sind Aufbauten und Verschattungen, die eine Draufsicht mitgezählt hätte. Das Ergebnis, das er nennt: Die Stadt habe ihre Solarfläche in zwei Jahren verdoppelt und spare jährlich 14.000 Tonnen CO₂ [▶ 12:17](https://www.youtube.com/watch?v=isBtyQD79cM&t=737). Dann der Brückenschlag zum Titel: nicht nur Klagenfurt, auch Berlin, auch Neukölln.
 

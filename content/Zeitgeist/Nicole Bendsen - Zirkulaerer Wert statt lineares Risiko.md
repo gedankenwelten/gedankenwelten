@@ -61,7 +61,7 @@ Quelle: [re:publica 26: Nicole Bendsen — Zirkulärer Wert statt lineares Risik
 
 ### Das gemeinsame Betriebssystem der Krisen
 
-![[assets/Bendsen_Zirkulaer_150.jpg|700]]
+![[assets/Bendsen_Zirkulaer_150.jpg|Standbild aus dem Video: links Nicole Bendsen mit Mikrofon vor einer gelben Wand, vor ihr ein aufgeklappter Laptop. Rechts die Folie „Die Krisen unserer Zeit haben ein gemeinsames Betriebssystem“ mit dem Etikett Problem. Ein großer hellblauer Pfeil mit der Aufschrift Lineare Wirtschaft zeigt auf sechs Schwarzweißfotos: ein beladenes Containerschiff für Lieferkettenrisiken, schwebende Kugeln für Kohlendioxid, eine Person im weißen Kittel bei einem Kind für Gesundheitskosten, ein Haufen alter Balken und Schrott für Ressourcenabhängigkeit, zwei Boxer im Kampf für soziale Spannungen, ein totes Tier auf dem Boden für Biodiversitätsverlust. Rechts unten das Logo von Circular Berlin.|700]]
 *„Die Krisen unserer Zeit haben ein gemeinsames Betriebssystem" — Lieferketten, CO₂, Gesundheit, Ressourcen, soziale Spannungen, Biodiversität (Standbild, CC-Lizenz)*
 
 [▶ 1:32](https://www.youtube.com/watch?v=CnA-zz2xXtA&t=92) — Klimakrise, Ressourcenknappheit, fragile Lieferketten: Bendsen behandelt sie nicht als getrennte Katastrophen, sondern als Symptome mit gemeinsamer Ursache — dem linearen Wirtschaften als „grundlegendem Betriebssystem". Ressourcen werden extrahiert, schnell zu Produkten vermarktet, kurz genutzt, weggeworfen: Take — Make — Waste. Die Zahl, die das Ausmaß fasst:
@@ -87,7 +87,7 @@ Denn extern sind diese Kosten nur für die Bilanzen der Unternehmen. In der Real
 
 ### Der Hebel: die Bewertungslogik selbst
 
-![[assets/Bendsen_Zirkulaer_373.jpg|700]]
+![[assets/Bendsen_Zirkulaer_373.jpg|Standbild aus dem Video: links Nicole Bendsen mit Mikrofon vor einer gelben Wand, am Band ein Namensschild der re:publica. Rechts die Folie „Wir verändern das Bewertungssystem“ mit dem Etikett Unser Lösungsansatz, drei Zeilen untereinander. Neben einem Fragezeichen: Warum ist es für Unternehmen und Finanzierer leichter, in ein lineares Modell zu investieren, selbst wenn es langfristig riskanter ist? Neben einem Ausrufezeichen: Lineare Risiken bleiben unsichtbar, zirkuläre Investitionen wirken teurer. Neben einem Pfeil: Wir wollen versteckte Verluste sichtbar machen und zirkuläre Modelle als resilientere wirtschaftliche Entscheidungen zeigen. Rechts unten das Logo von Circular Berlin.|700]]
 *„Wir verändern das Bewertungssystem" — lineare Risiken bleiben unsichtbar, zirkuläre Investitionen wirken teurer (Standbild, CC-Lizenz)*
 
 [▶ 5:26](https://www.youtube.com/watch?v=CnA-zz2xXtA&t=326) — Daraus folgt die Diagnose, die das Programm begründet: „Das Problem liegt im System der Bewertung." Unternehmens-KPIs sind so gebaut, dass sie lineares Verhalten belohnen — wer Schäden externalisiert, sieht besser aus. Die Ausgangsfrage des Circular Value Program:

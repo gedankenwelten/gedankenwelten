@@ -63,7 +63,7 @@ Quelle: [Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformat
 
 ## Die Netflix-Frauen
 
-![[assets/Wienand_Russentrolle_245.jpg|700]]
+![[assets/Wienand_Russentrolle_245.jpg|Vortragsfolie „Am Anfang waren die Netflixfrauen“, das letzte Wort riesig über die Folie gezogen. Rechts Vorschläge von Facebook für neue Freunde: Odetta Ehrhardt, arbeitet bei Netflix, wohnt in Gelsenkirchen. Odetta Tiedemann, Netflix, Stuttgart. Odetta Hammerl, Netflix, Köln. Darunter eine vierte Odetta, halb verdeckt. Unten links eine Collage aus runden Porträtfotos von Frauen über einem Hintergrund aus nachgeahmten Webadressen von Bild, Spiegel und t-online.|700]]
 *Odetta, Odetta, Odetta: Profile mit Gesichtern aus dem Rechner, alle „Works at Netflix“. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 2:29](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=149) — Es fing im Mai oder Juni 2022 in den Kommentarspalten an. Unter den Facebook-Beiträgen großer Medien tauchten Videos auf, die aussahen wie Beiträge von Spiegel, Bild oder t-online, mit deren Logo, deren Schrift und deren Schnitt. Nur der Inhalt war russisch gedacht. Weil Wienand im Netz sichtbar ist, schrieben ihn Leser an: Was macht ihr denn da für Videos? Er sah sich die Profile an, die sie teilten. Jedes trug ein Gesicht aus dem Rechner, und es gab Tausende davon.
@@ -72,7 +72,7 @@ Quelle: [Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformat
 
 Alle arbeiteten laut Profil bei Netflix. Wienand wollte den Begriff „die Netflix-Frauen“ prägen, er setzte sich nicht durch. Durchgesetzt hat sich der Name, den die Kampagne später im Englischen bekam: **Doppelgänger**. Er trifft den Kern, denn geklont wurden nicht nur Videos, sondern ganze Websites. Die Macher nahmen den Quellcode einer echten Zeitungsseite, setzten einen eigenen Artikel hinein und stellten das Ganze auf eine Domain, die sich vom Original um einen Buchstaben unterschied. Daneben entstanden eigene Portale mit eigenen Namen, „Kaputte Ampel“, „Wanderfalke“, „Grüne Hummel“, jedes für ein anderes Publikum, die Hummel offenbar für das grüne.
 
-![[assets/Wienand_Russentrolle_445.jpg|700]]
+![[assets/Wienand_Russentrolle_445.jpg|Vortragsfolie mit dem Logo von t-online: drei nachgebaute t-online-Seiten, jede mit rotem Stempel FAKE. Ihre Schlagzeilen: Menschen können keine Backwaren in privaten Bäckereien kaufen. Die Interessen der NATO-freundlichen Marionettenspieler über die Interessen des eigenen Volkes stellen? Deutsche Lkw-Fahrer blockieren Brücken und Straßen gegen EU-Politik, dazu ein Video mit einem Traktor auf einer Brücke. Darüber eine Tafel in zwei Spalten. Geklonte Medien-Webseiten: Frankfurter Allgemeine, Süddeutsche Zeitung, Berliner Morgenpost, Bild, Der Spiegel, Welt, Tagesspiegel, nd und t-online. Fake-Nachrichtenportale: fünfzehn Logos, lesbar sind unter anderem Kaputte Ampel, Grüne Hummel, RRN, Meister Urian und Besuchszweck.|700]]
 *Geklonte Medien-Websites und eigene Fake-Portale, mit Wienands Stempel. Grafik nach einer Übersicht des Auswärtigen Amts. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 4:46](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=286) — t-online berichtete als erstes Medium. Wienand fragte bei Meta an, und Meta war, wie er trocken bemerkt, *„irritiert“*, weil der Konzern eigentlich erst später darüber reden wollte. Am 27. September 2022 legte Meta dann seinen Bericht über „koordiniertes unauthentisches Verhalten“ aus China und Russland vor. Darin stand die Bestätigung und mehr, als Wienand allein gefunden hatte. In einem Nachtrag im Dezember kamen Werbeanzeigen dazu, die sich zu zwei Moskauer Firmen zurückverfolgen ließen, *„die bis heute eine Rolle spielen“*. Aus dem Material stammt auch ein Telegram-Kanal, über den eine Petition kursierte, die deutsche Familie müsse vor attraktiven Ukrainerinnen geschützt werden. Der Link wurde bis nach Reddit gestreut. Die archivierte Fassung der Petition zeigt einen einzigen Unterzeichner.
@@ -98,7 +98,7 @@ Der Saal lacht, und das Lachen ist ein Teil der Methode des Abends. Wienand beha
 
 ## Ein Interview, das niemand sah
 
-![[assets/Wienand_Russentrolle_800.jpg|700]]
+![[assets/Wienand_Russentrolle_800.jpg|Standbild aus dem Vortrag: ein Beitrag auf X, schräg über einen Hintergrund mit russischem Staatswappen gelegt. Das Meme der tanzenden Sargträger aus Ghana: Auf dem Sarg steht Olympische Spiele, auf den Trägern Games of the Future.|700]]
 *Werbung für die „Games of the Future“ in Kasan: 282-mal zitiert, 468-mal angezeigt. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 1:42](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=102) — Der Vortrag beginnt mit einem Videoanruf. Ein Mann sagt „Hallo“, hört das Wort „Journalist“ und legt auf. Es ist Wadim C., laut LinkedIn Journalist, Produzent und Eventmanager, in Wienands Material ein Akteur von Doppelgänger. Wadim hatte einen Jugendforscher aus Bayern um ein Interview gebeten. Simon Schnetzer sollte erzählen, wie unglücklich die deutsche Jugend sei und wie dringend die Welt eine Alternative zu den Olympischen Spielen brauche: die „Games of the Future 2024“ in Kasan, die Russland aus dem Boden gestampft hatte, nachdem es als Nation von den Spielen in Paris ausgeschlossen worden war.
@@ -117,7 +117,7 @@ An dieser Stelle sieht man den Apparat von innen. Für jeden echten Leser gibt e
 
 ## Die Firma
 
-![[assets/Wienand_Russentrolle_1125.jpg|700]]
+![[assets/Wienand_Russentrolle_1125.jpg|Vortragsfolie, eine Collage. Im Hintergrund eine russischsprachige Werbebroschüre der Agentur: Sie sei 2002 gegründet und habe über 200 Projekte in Russland, den GUS-Staaten und im Ausland umgesetzt, ihre Kompetenzen seien PR, soziale Medien und die Begleitung von Spitzenpolitikern. Darunter die Kennzahlen: Wahlen in Russland auf allen Ebenen über 200, kommerzielle Projekte 60 und mehr, gesellschaftliche Projekte im Auftrag 50 und mehr. Darüber ein Aufnäher mit der Aufschrift Kraft der Wahrheit, rundherum Russische ideologische Truppen, ein Mann mit Kapuze und Sonnenbrille, Gambaschidse am Laptop als Gründer und Leiter der SDA, Sacharowa als Leiterin der Abteilung Informations- und Kommunikationstechnologien der Präsidialverwaltung, Kirijenko als Vize-Chef der russischen Präsidialverwaltung.|700]]
 *Aus den geleakten Werbeunterlagen der Social Design Agency: Gründer Ilja Gambaschidse, darüber Sofia Sacharowa aus der Präsidialverwaltung, darunter ihr Vorgesetzter Sergej Kirijenko. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 17:05](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=1025) — Die wichtigste Seite des Netzwerks hieß zunächst „Reliable Russian News“. Dann fiel jemandem auf, dass „Russian“ im Namen keine gute Tarnung ist, und man taufte sie in „Reliable Recent News“ um. Das FBI hat die Domain beschlagnahmt. Auf einer ähnlich klingenden Adresse betreiben heute Gegen-Trolle eine Parodie, die Doppelgänger verspottet. Sie kommen offenbar an Material aus den Leaks heran und haben die Liste der Interviewpartner zusammengetragen.
@@ -132,7 +132,7 @@ Mit den Projektberichten bekommt der Vortrag festen Boden. Desinformation ist hi
 
 ## Schweineköpfe, Skelette, Bauschaum
 
-![[assets/Wienand_Russentrolle_1310.jpg|700]]
+![[assets/Wienand_Russentrolle_1310.jpg|Vortragsfolie, eine Collage aus vier Bildern. Oben links ein kleiner Schweinekopf auf dem Boden vor einem Eingang mit Türschild. In der Mitte ein Schweinekopf mit der blauen Aufschrift Macron vor dem Eiffelturm. Oben ein Stück Asphalt mit einem weißen Gegenstand und einem Aufkleber Sei grüner!, darauf das Foto eines Mannes. Rechts ein Skelett, das vor dem Brandenburger Tor sitzt.|700]]
 *Aus der Kampagne auf der Straße: Schweinekopf, Bauschaum mit grünem Aufkleber, Skelette vor dem Brandenburger Tor. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 20:59](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=1259) — Einer der Berichte schildert dem Auftraggeber, wie erfolgreich die Aktion vor Pariser Moscheen war: Dort waren Schweineköpfe abgelegt worden. Es gab internationale Berichterstattung, und zugeschrieben wurde die Tat französischen Rechtsextremen. Tatsächlich war eine Gruppe im Auftrag der Agentur eingereist. Dieselben Leute zogen weiter nach Berlin und stellten Skelette vor das Brandenburger Tor, zusammen mit einem Dank an Merz dafür, dass Rentner verhungern.
@@ -150,7 +150,7 @@ Bemerkenswert ist das Verhältnis von Aufwand und Echo. Die Skelette am Brandenb
 
 ## Storm-1516: der Hilfssheriff und die Wegwerfzeitungen
 
-![[assets/Wienand_Russentrolle_1420.jpg|700]]
+![[assets/Wienand_Russentrolle_1420.jpg|Vortragsfolie, zwei Ansichten. Links ein Artikel von Lars Wienand bei t-online: Erfundener Moschee-Anschlag, Wie Putin Muslime gegen Ukrainer aufhetzen will. Darunter eine weiße Moschee mit Kuppel und Minaretten und ein Schweinekopf auf einer Palästinafahne mit der Aufschrift Ukraine steht für Israel, rot gestempelt FAKE. Rechts die Seite der Berliner Wochenzeitung vom 4. Juli 2024 mit derselben Meldung als Aufmacher, darunter ein Artikel: Mikrozensus 2022, fast zwei Millionen Wohnungen in Deutschland unbewohnt.|700]]
 *Die „Berliner Wochenzeitung“, fünf Tage vor ihrer einzigen Meldung angelegt. Wienand zeigt Fälschungen nur mit Stempel. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 23:18](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=1398) — Die dritte Spielart arbeitet aufwendiger. Für jede Geschichte wird eine eigene Zeitung erfunden. Die „Berliner Wochenzeitung“ meldete, in die älteste Moschee Berlins sei ein Schweinekopf in einer Palästinafahne geworfen worden, mit der Aufschrift, die Ukraine stehe zu Israel. Ziel war, Muslime gegen Ukrainer aufzubringen. Die Seite war fünf Tage vorher registriert worden. Den Namen **Storm-1516** hat Microsoft der Gruppe in einem Bedrohungsbericht vom April 2024 gegeben.
@@ -161,7 +161,7 @@ Bemerkenswert ist das Verhältnis von Aufwand und Echo. Die Skelette am Brandenb
 
 > *„Ich verteidige wieder Merz. Er hat keine Eisbärbabys getötet.“* [▶ 27:13](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=1633)
 
-![[assets/Wienand_Russentrolle_1730.jpg|700]]
+![[assets/Wienand_Russentrolle_1730.jpg|Vortragsfolie „Storm-1516: Der Hilfssheriff und der Dugin-Vertraute“: ein Selfie in einem Konferenzsaal mit langem Tisch, Mikrofonen, Wasserflaschen und Namensschildern. Vorne rechts eine junge Frau, hinter ihr ein Mann mit Glatze, beschriftet John Mark Dougan, früherer Hilfssheriff, hat Doxxing zum Beruf gemacht. Weiter hinten am Tisch ein älterer Mann mit Bart; eine weitere Beschriftung nennt Valery Korowin, Leiter des von Dugin gegründeten Moskauer Zentrums für geopolitische Expertise.|700]]
 *„Der Hilfssheriff und der Dugin-Vertraute“: John Mark Dougan und Valery Korowin am Tisch, im Selfie vorne Alina Lipp. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 27:58](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=1678) — Weitergereicht wurde die Eisbär-Geschichte von Alina Lipp, einer Deutschen mit russischem Vater, die in Norddeutschland aufwuchs, 2022 im Donbass lebte, sich über die einrollenden Panzer freute und mit einem Telegram-Kanal von etwa 180.000 Abonnenten zur Referenz für deutsche Weiterverbreiter wurde. Sogar ihr war das offenbar etwas peinlich, sie schrieb dazu „Fake oder wirklich wahr?!“. Auf einem Foto sitzt sie neben **John Mark Dougan**, dem Mann, der Storm-1516 im Wesentlichen verantwortet. Dougan war Hilfssheriff in Florida, wurde entlassen und betrieb danach Seiten, auf denen er Kollegen bloßstellte und ihre Daten veröffentlichte. Das ging mit den US-Strafverfolgern nicht lange gut, er setzte sich nach Russland ab und bekam dort Asyl. Aus dem Bloßstellen hat er einen Beruf gemacht, mit einer Masse an Nachrichtenseiten, die nach Städten heißen. Seine administrative Anlaufstelle ist laut Wienand Valery Korowin, Leiter eines von Dugin gegründeten Thinktanks, der eng mit dem Militärgeheimdienst GRU verbunden ist. So schließt sich der Kreis zu Dugin.
@@ -173,7 +173,7 @@ Bemerkenswert ist das Verhältnis von Aufwand und Echo. Die Skelette am Brandenb
 
 ## Tuchfühlung: Günther Wienand
 
-![[assets/Wienand_Russentrolle_2000.jpg|700]]
+![[assets/Wienand_Russentrolle_2000.jpg|Zwei Bildschirmfotos vom Handy, schwarzweiß. Links ein Bild mit dem Logo von Euronews: ein Porträt von Wienand vor aufgehängten Regenschirmen, darüber der Text, Lars Wienand habe alle Gegner der AfD kurzsichtige Verräter, Feiglinge und Idioten genannt. Rechts ein Beitrag auf Bluesky mit dem Logo von t-online und einem Porträt von Friedrich Merz, Text: Nach seiner Aussage sei Friedrich Merz, Vorsitzender der CDU, die Hauptperson in dem Fall gewesen.|700]]
 *Links ein angebliches Euronews-Zitat, Wienand habe alle AfD-Kritiker Verräter genannt. Rechts Merz als Hauptverdächtiger im Fall eines Bruders, den es nicht gab. Folie: Lars Wienand, Datenspuren 2026, CC BY 4.0.*
 
 [▶ 30:15](https://www.youtube.com/watch?v=A3YBJOcdO8I&t=1815) — Allein könnte Wienand das nicht überblicken. Er hat Helfer. Einer schickt ihm jeden Tag über Signal die neue Matrjoschka-Sammlung. An manchen Tagen schreibt er fassungslos, heute sei nichts gekommen. Früher war am Wochenende Ruhe, inzwischen nicht mehr. Dazu kommen Konten wie Antibot4Navalny, deren Titelbild Wienand mit einem Satz von Elon Musk überblendet hat: „Where is all this pro-Russia propaganda?“ Von dort kam auch der Hinweis auf die neueste Storm-1516-Welle mit gefälschten Videos von zerstörten Stimmzetteln. Jemand filmt sich, wie er Briefwahlstimmen für die AfD vernichtet. Das taucht inzwischen bei jeder Wahl auf, gerade in mehreren Varianten für Mecklenburg-Vorpommern.

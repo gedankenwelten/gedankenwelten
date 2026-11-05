@@ -76,7 +76,7 @@ Es ist das seltene Eingeständnis aus dem Inneren des Systems: Die Codes veränd
 
 [▶ 17:07](https://www.youtube.com/watch?v=VJp0VZP7dRg&t=1027)
 
-![[assets/brockschmidt_codes_1718.png|700]]
+![[assets/brockschmidt_codes_1718.png|Vortragsfolie der re:publica 26 mit zwei Bildschirmfotos von der Plattform X. Links ein Beitrag des Kontos The White House, Text übersetzt: Welchen Weg, Grönland-Mann? Darunter eine gezeichnete Schneelandschaft: Zwei Hundeschlitten mit grönländischer Flagge stehen an einer Weggabelung mit Wegweiser. Links führt der Weg zum Weißen Haus unter blauem Himmel und US-Flagge, rechts zu einer Mauer, Zwiebeltürmen, der chinesischen und der russischen Flagge unter dunklem Himmel mit Blitzen. Rechts ein Beitrag desselben Kontos vom 14. Januar, der einen Beitrag von Donald J. Trump zitiert, übersetzt: Die Vereinigten Staaten brauchen Grönland aus Gründen der nationalen Sicherheit. Es ist entscheidend für den Golden Dome, den wir bauen. Die NATO sollte uns den Weg ebnen, es zu bekommen. Wenn wir es nicht tun, werden Russland oder China es tun, und das wird nicht passieren! Militärisch wäre die NATO ohne die gewaltige Macht der Vereinigten Staaten, von der ich vieles in meiner ersten Amtszeit aufgebaut habe und die ich jetzt auf ein neues, noch höheres Niveau bringe, keine wirksame Kraft oder Abschreckung, nicht einmal annähernd! Das wissen sie, und ich weiß es auch. Die NATO wird mit Grönland in den Händen der Vereinigten Staaten weit stärker und wirksamer. Alles darunter ist inakzeptabel. Danke für Ihre Aufmerksamkeit in dieser Sache! Präsident DJT. Darunter: 14. Januar 2026, 17,1 Millionen Aufrufe. Am unteren Rand der Folie die Quellenangabe mit dem Link zum Beitrag.|700]]
 
 > [!info] Quelle
 > @WhiteHouse auf X — öffentlicher Regierungspost vom 14. Januar 2026
@@ -113,7 +113,7 @@ Der Post wurde nach Medienberichterstattung gelöscht — die Musikunterlegung a
 
 [▶ 33:11](https://www.youtube.com/watch?v=VJp0VZP7dRg&t=1991)
 
-![[assets/brockschmidt_code_3228.png|700]]
+![[assets/brockschmidt_code_3228.png|Vortragsfolie der re:publica 26 mit einem Bildschirmfoto von der Plattform X: ein Beitrag des Kontos Department of War CTO vom 14. Januar 2026, Text übersetzt: Gegner Amerikas, aufgepasst. Unsere Drohnenschwärme sind tödlich. Stellt unsere Entschlossenheit nicht auf die Probe. Darunter ein grobkörniges, fast einfarbig graues Bild mit leichten farbigen Rändern: oben in großen weißen Buchstaben American Dynamism, darunter ein Schwarm Drohnen am Himmel, im Nebel schwarze Silhouetten von Soldaten mit Dreispitz und Gewehr, die mit hell leuchtenden Augen auf den Betrachter zugehen. Markiert sind Department of War und DOW Rapid Response. Rund 154.000 Aufrufe. Am unteren Rand die Quellenangabe mit dem Link zum Beitrag.|700]]
 
 > [!info] Quelle
 > @DoWCTO (Department of War CTO) auf X — öffentlicher Regierungspost vom 14. Januar 2026

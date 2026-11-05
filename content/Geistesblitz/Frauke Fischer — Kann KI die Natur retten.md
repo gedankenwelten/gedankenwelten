@@ -77,7 +77,7 @@ Quelle: [re:publica 26 — Kann KI die Natur retten? Wie Künstliche Intelligenz
 
 Dann sortiert sie den Begriff. Biodiversität, sagt sie, ist die Vielfalt des Lebens auf drei Ebenen: genetische Vielfalt, Artenvielfalt, Vielfalt der Ökosysteme. Die mittlere kennt jeder, ein Hund ist keine Katze. Die erste ist die, an der es hängt.
 
-![[assets/Frauke-Fischer-KI-Natur-elefant-im-porzellanladen.jpg|700]]
+![[assets/Frauke-Fischer-KI-Natur-elefant-im-porzellanladen.jpg|Vortragsfolie „Wir sind der Elefant im Porzellanladen“ auf schwarzem Grund. Rechts steht statt eines Elefanten ein brüllender Raubsaurier mit aufgerissenem Maul. Links vier Punkte: Menschen haben in den letzten 50 Jahren 73 Prozent aller Wirbeltiere und 80 Prozent aller Insekten vernichtet. Wir haben das Artensterben tausendfach beschleunigt. Wir haben nur 2 bis 3 Prozent echte Wildnis übriggelassen. Menschen, Schweine und Rinder machen heute 96 Prozent der Säugetierbiomasse auf der Erde aus.|700]]
 
 Die Bilanz auf ihrer Folie ist knapp gehalten: 73 Prozent aller Wirbeltiere und 80 Prozent aller Insekten in fünfzig Jahren vernichtet, das Artensterben tausendfach beschleunigt, zwei bis drei Prozent echte Wildnis übrig — und Menschen, Schweine und Rinder stellen heute 96 Prozent der Säugetierbiomasse. Mündlich schlüsselt sie die letzte Zahl auf: 36 Prozent Mensch, 60 Prozent Nutztier, für alles Wilde von der Spitzmaus bis zum Blauwal bleiben 4 Prozent [▶ 4:35](https://www.youtube.com/watch?v=6nikpfDUA8U&t=275). *(Zur Belastbarkeit dieser Zahlen siehe Faktencheck.)*
 
@@ -94,7 +94,7 @@ Was sich anpasst, ist keine Art, sondern eine Population — und nur, wenn in ih
 
 [▶ 5:22](https://www.youtube.com/watch?v=6nikpfDUA8U&t=322) Fischer kommt zu den Ökosystemleistungen und markiert sofort, dass der Begriff anthropozentrisch definiert ist: Es geht nur darum, was die Natur *für uns* bringt. Sie benutzt ihn trotzdem, weil er der einzige ist, der in Verhandlungen ankommt. Vier Gruppen: Versorgung (Trinkwasser, Holz, Pilze, Arzneistoffe), Regulierung (Weltklima, Bestäubung, Erosionsschutz, Krankheitsdynamik), Basisleistungen, kulturelle Leistungen.
 
-![[assets/Frauke-Fischer-KI-Natur-oekosystemleistungen.jpg|700]]
+![[assets/Frauke-Fischer-KI-Natur-oekosystemleistungen.jpg|Vortragsfolie: ein Kreisdiagramm auf schwarzem Grund, in der Mitte das Wort Ökosystemleistungen, darum vier farbige Sektoren. Versorgung in Dunkelgrün: Nahrungsmittel, Rohstoffe, Arzneimittel, Süßwasser. Regulierung in Hellgrün: Luftqualität, Klima, Wasserkreislauf, Erosion, Wasserqualität und organische Abfälle, Schädlinge und Krankheiten, Bestäubung, extreme Wetterereignisse. Basisleistungen in Dunkelrot: Bodenformation, Photosynthese, Nährstoffkreislauf. Kultur in Orangerot: Spiritualität und Religion, Ästhetik, Erholung und Ökotourismus, Gesundheit. Außen um den Kreis zu jedem Feld ein Symbol, etwa ein Teller mit Besteck, ein Wasserhahn, ein Wirbelsturm, eine Biene, ein Wanderer und ein Herz mit Pulslinie.|700]]
 
 Bei den Basisleistungen setzt sie ihren stärksten Satz. Er ist ein Bild, kein Argument, und trifft trotzdem härter als jede Zahl:
 
