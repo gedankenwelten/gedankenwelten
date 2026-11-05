@@ -72,9 +72,9 @@ Auth: none (public, read-only)
 
 ### 🔍 Semantic Search
 
-Search across all notes with natural language queries. Returns relevant passages with relevance scores.
+Search across all notes with natural language queries. Returns relevant passages with relevance scores, each with its section and dates. Optionally combine a topic with a time span (`days`, or `since` / `until`), which date counts (`erstellt`, `aktualisiert` or both) and a section (`rubrik`).
 
-**Example:** *"What does Hartmut Rosa say about resonance compared to Fromm's concept of having vs being?"*
+**Example:** *"What does Hartmut Rosa say about resonance compared to Fromm's concept of having vs being?"* · *"Was wurde im letzten Monat zu KI geschrieben?"*
 
 ### 📖 Read Note
 

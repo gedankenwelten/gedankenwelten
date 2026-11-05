@@ -53,6 +53,7 @@ Der bequemste Weg führt gar nicht über die Seite. Die Gedankenwelten lassen si
 **Dann frag zum Beispiel:**
 
 - „Was ist neu in den Gedankenwelten?“
+- „Was wurde im letzten Monat über Demokratie geschrieben?“
 - „Was sagt die Gedankenwelt zu Hannah Arendt?“
 - „Lies mir die Note über Meditation vor, wörtlich.“
 - „Welche Quellen nennen die Gedankenwelten zur Frage, ob Migration kriminell macht?“
