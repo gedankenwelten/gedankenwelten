@@ -419,11 +419,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Rainer-Mühlhoff-Künstliche-Intelligenz-und-der-neue-Faschismus",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 2,
      "aufrufe": 3
@@ -540,6 +535,11 @@
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Rainer-Mühlhoff-Künstliche-Intelligenz-und-der-neue-Faschismus",
      "leser": 1,
      "aufrufe": 1
     },
@@ -1074,6 +1074,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "leser": 9,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 9,
      "aufrufe": 10
@@ -1112,11 +1117,6 @@
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 8,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-     "leser": 8,
-     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Dirk-Specht",
@@ -1379,6 +1379,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "leser": 9,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 9,
      "aufrufe": 10
@@ -1417,11 +1422,6 @@
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 8,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-     "leser": 8,
-     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Dirk-Specht",
