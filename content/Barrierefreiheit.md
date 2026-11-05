@@ -10,6 +10,8 @@ aliases:
 
 Die Gedankenwelten sollen sich nicht nur lesen, sondern auch hören lassen. Wer die Seite nicht sieht, schlecht sieht oder lieber mit der Tastatur arbeitet, soll hier ohne Umwege ankommen. Diese Seite sagt, was dafür getan ist und wo es noch hakt.
 
+**Stand 5. November 2026:** Neu sind die Bildbeschreibungen für alle Bilder, eine eigene Vorlesefassung ohne Ziffernketten, leise Belege und das Hören über den Assistenten mit Gliederung, Teilen und Kurzfassung.
+
 ## Mit dem Screenreader
 
 **Zum Text springen.** Der erste Halt mit der Tabulatortaste ist ein Link, der direkt zum Anfang der Note führt, an der Kopfleiste vorbei.
