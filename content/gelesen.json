@@ -41,7 +41,7 @@
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
    "leser": 24,
-   "aufrufe": 27
+   "aufrufe": 28
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -369,6 +369,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 3,
      "aufrufe": 3
@@ -405,11 +410,6 @@
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 3,
      "aufrufe": 3
     },
@@ -651,7 +651,7 @@
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 24,
-     "aufrufe": 27
+     "aufrufe": 28
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -931,7 +931,7 @@
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 105,
-     "aufrufe": 126
+     "aufrufe": 127
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1236,7 +1236,7 @@
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 105,
-     "aufrufe": 126
+     "aufrufe": 127
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
