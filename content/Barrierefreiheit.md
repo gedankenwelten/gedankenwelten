@@ -23,6 +23,7 @@ Die Gedankenwelten sollen sich nicht nur lesen, sondern auch hören lassen. Wer 
 - Studien werden mit DOI belegt. Statt der langen Nummer hörst du „Quelle (DOI)“, der Link führt zur Studie.
 - Zeitmarken wie 13:11 sind Knöpfe: „Video ab Minute 13“. Sie spielen das Video an der Stelle ab, über die du gerade liest.
 - Der Verweispfeil heißt „siehe“, die Tilde vor einer Zahl „etwa“.
+- Englische Zitate und Titel sind als Englisch ausgezeichnet, die Stimme wechselt dort die Aussprache. Erkannt wird das beim Bau der Seite. Ganz kurze Titel aus zwei, drei Wörtern liest sie weiter deutsch.
 
 ## Mit der Tastatur
 
@@ -41,7 +42,7 @@ Oben rechts stehen drei Schriftgrößen und der Schalter für die dunkle Ansicht
 
 ## Hören statt lesen
 
-Jeder Browser kann die Seite vorlesen: Edge mit „Laut vorlesen“, Safari mit „Seite anhören“, Firefox und Chrome über die Leseansicht.
+Jeder Browser kann die Seite vorlesen: Edge mit „Laut vorlesen“, Safari mit „Seite anhören“, Firefox und Chrome über die Leseansicht. Die Leseansicht von Firefox bekommt dieselbe Fassung wie ein Screenreader, ohne Nummern und Zeichen.
 
 Oder du lässt dir die Gedankenwelten von deinem KI-Assistenten erzählen. Über unseren [[MCP|MCP-Server]] holen sich Claude und andere Assistenten die Notes direkt, ohne Umweg über die Seite. Dann fragst du einfach: „Was sagt die Gedankenwelt zu Hannah Arendt?“ oder „Lies mir die Note über Meditation vor.“
 
@@ -50,7 +51,6 @@ Oder du lässt dir die Gedankenwelten von deinem KI-Assistenten erzählen. Über
 - **Der Gedankenraum** ist ein Raum zum Anschauen, gebaut in 3D. Für einen Screenreader bleibt er stumm. Jede Note, die dort hängt, gibt es auch als Text.
 - **Der Stern** unter jeder Note zeichnet die Nachbarschaft als Bild. Die wichtigsten Verbindungen stehen auch als Liste daneben, unter „Verwandt“.
 - **Die Videos** laufen im Player von YouTube. Wie gut der sich bedienen lässt, liegt nicht bei uns.
-- **Englische Zitate** werden manchmal noch mit deutscher Aussprache gelesen. Daran arbeiten wir.
 
 ## Etwas hakt?
 
