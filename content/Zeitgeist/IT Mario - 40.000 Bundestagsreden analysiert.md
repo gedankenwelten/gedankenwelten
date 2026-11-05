@@ -1,7 +1,8 @@
 ---
 title: "IT Mario — 40.000 Bundestagsreden analysiert: Welche Partei ist wirklich gefährlich?"
-description: "Eine KI liest 40.000 Bundestagsreden, ohne zu wissen, von welcher Partei sie stammen. Beim Vorwurf liegt das BSW knapp vor der AfD, beim Populismus führt die AfD deutlich."
+description: "Eine KI liest über 40.000 Bundestagsreden, ohne zu wissen, von welcher Partei sie stammen. Beim Vorwurf liegt das BSW knapp vor der AfD, beim Populismus führt die AfD deutlich."
 aktualisiert: 2026-05-24
+raetsel: "Das Auge kennt keine Namen. Es zählt nur, wie spitz ein Satz ist."
 date: 21.05.2026
 tags:
   - zeitgeist
@@ -16,6 +17,23 @@ aliases:
 ---
 
 # IT Mario — 40.000 Bundestagsreden analysiert
+
+![[assets/IT-Mario-40000-Bundestagsreden-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** (angelehnt) — ein Halbrund aus kleinen Strichfiguren, über ihnen Sprechblasen, manche rund und ruhig, manche gezackt und rot; darüber ein großes Auge aus feinen Kreisen, von dem dünne Messlinien zu den Sätzen hinablaufen. Klee, weil seine Bilder zwischen Zeichen und Rechnung spielen, ernst und ein wenig ironisch, und genau das ist eine Maschine, die Parlamentsreden auf Zacken abtastet, ohne zu wissen, wer spricht.
+
+*Prompt:* A painting in the style of Paul Klee, wide panoramic banner, 12:5 aspect ratio. Delicate watercolor and oil transfer on warm parchment, playful geometric signs, soft ochre, rose, slate blue and green. A semicircular parliament hemicycle seen slightly from above, built from rows of tiny abstract stick figures and little rectangles like seats; from some figures rise small colored speech shapes, some round and calm, some jagged and red. Above the hemicycle a large calm circular eye made of fine concentric lines, from which thin straight measuring lines descend to the speech shapes, like a gentle instrument weighing them. Whimsical, thoughtful, slightly ironic mood. No text, no letters, no numbers, no flags, no party logos.
+
+</details>
+
+> [!abstract] Worum es geht
+> Eine KI liest über 40.000 Bundestagsreden, ohne zu wissen, von welcher Partei sie stammen. Beim Vorwurf liegt das
+> BSW knapp vor der AfD, beim Populismus führt die AfD deutlich, beim Faktencheck schneidet sie am schlechtesten ab.
+> Der Datenanalyst IT Mario legt Prompts und Bewertungen offen und zerlegt eine Weidel-Rede in drei Merkmale des
+> Populismus. Wir halten seine Befunde neben die Forschung (PopBERT kommt zum selben Ergebnis) und fragen, was ein
+> Sprachmodell als Richter über politische Sprache leisten kann und was nicht.
 
 Quelle: [40.000 Reden analysiert: Welche Partei ist WIRKLICH gefährlich?](https://www.youtube.com/watch?v=1LH7PZAPq-Y) (21.05.2026)
 
@@ -38,10 +56,10 @@ Der methodische Ausgangspunkt ist solide: IT Mario nutzt den Datensatz aus dem [
 
 Dieser Datensatz ist öffentlich, frei verfügbar, und institutionell zuverlässig — das Bundestag-Protokoll ist kein Meinungsdokument, sondern ein amtliches Schriftstück. Damit hat IT Mario eine bessere Primärquelle als viele Medienberichte über parlamentarische Rhetorik.
 
-Bevor er in die KI-Analyse geht, wirft er einen kurzen Blick auf die Metadaten: Akademikeranteil (CDU/CSU führt mit 20,6 %, AfD liegt mit 15 % im Mittelfeld, Linke bildet mit 8,8 % das Schlusslicht), Wortschatz (Type-Token-Ratio: AfD überraschend an der Spitze, CDU/CSU vorletzter Platz), und Heiterkeitseinträge im Protokoll als Näherungswert für Lacher im Plenum (AfD führt). Diese Metadaten-Analyse ist methodisch harmlos — sie beschreibt, wertet noch nicht.
+Bevor er in die KI-Analyse geht, wirft er einen kurzen Blick auf die Metadaten: den Anteil der Redner mit akademischem Titel (CDU/CSU führt mit 20,6 %, AfD liegt mit 15 % im Mittelfeld, Linke bildet mit 8,8 % das Schlusslicht), Wortschatz (Type-Token-Ratio: AfD überraschend an der Spitze, CDU/CSU vorletzter Platz), und Heiterkeitseinträge im Protokoll als Näherungswert für Lacher im Plenum (AfD führt). Diese Metadaten-Analyse ist methodisch harmlos — sie beschreibt, wertet noch nicht.
 
 > [!note] Eigene Einschätzung
-> Der Wortschatz-Befund ist kontraintuitiv und verdient mehr Aufmerksamkeit als IT Mario ihm gibt: Dass die AfD den größten dokumentierten Wortschatz im Plenum hat, widerspricht dem Klischee der primitiven Demagogen. Gleichzeitig sagt Wortschatzreichtum nichts über Wahrheitsgehalt oder argumentative Redlichkeit — Komplexität kann auch strategisch zur Verschleierung eingesetzt werden.
+> Der Wortschatz-Befund ist kontraintuitiv und verdient mehr Aufmerksamkeit als IT Mario ihm gibt: Dass die AfD nach dieser Schätzung den größten Wortschatz im Plenum hat, widerspricht dem Klischee der primitiven Demagogen. Die Type-Token-Ratio ist allerdings ein grobes Maß, das stark von der Länge der Texte abhängt. Und Wortschatzreichtum sagt nichts über Wahrheitsgehalt oder argumentative Redlichkeit — Komplexität kann auch strategisch zur Verschleierung eingesetzt werden.
 
 ---
 
@@ -76,7 +94,7 @@ Das erste Ergebnis überrascht: BSW führt den Vorwurfs-Score mit 7,07 Punkten a
 
 > *„Die AfD wirft also so wie BSW viel vor, aber sie sind ja auch die Oppositionspartei und ihre Aufgabe ist es ja auch auf die Fehler der Regierung hinzuweisen."* [▶ 6:05](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=365)
 
-Das ist ein wichtiger analytischer Schritt: Vorwürfe sind in der parlamentarischen Opposition strukturell erwartet. Dass BSW — die *neue* Oppositionspartei mit einer Frontfrau, die ihr politisches Kapital aus moralischer Empörung schöpft — knapp vorne liegt, ist eigentlich die eigentliche Nachricht. Sahra Wagenknechts persönlich vorgetragene Rede erhält 10 von 10 Punkten:
+Das ist ein wichtiger analytischer Schritt: Vorwürfe sind in der parlamentarischen Opposition strukturell erwartet. Dass das BSW, die *neue* Oppositionspartei, knapp vorne liegt, ist eigentlich die Nachricht. Sahra Wagenknechts persönlich vorgetragene Rede erhält 10 von 10 Punkten:
 
 > *„Was heute hier verhandelt wird, ist das wahnwitzigste Aufrüstungspaket und der größte Wahlbetrug in der Geschichte der Bundesrepublik Deutschland."* [▶ 5:18](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=318)
 
@@ -114,14 +132,14 @@ Staatsrecht, internationale Verträge, Fluchtursachen — alles kollabiert zu ei
 > *„Wer die Begriffe prägt, der prägt die Sprache. Wer die Sprache prägt, der prägt das Denken. Wer das Denken prägt, prägt den politischen Diskurs."* [▶ 11:25](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=685)
 
 > [!note] Eigene Einschätzung
-> Diese drei Merkmale — Antielitarismus, Antipluralismus, Komplexitätsreduktion — sind keine Erfindung IT Marios. Sie entsprechen der klassischen Definition von Cas Mudde, dem führenden Populismus-Forscher. IT Mario hat intuitiv richtig analysiert, ohne die Primärliteratur zu kennen. Das ist sowohl Stärke (unabhängige Konvergenz) als auch Schwäche (fehlende Präzision der Grenzbegriffe).
+> Die ersten beiden Merkmale entsprechen dem Kern der verbreiteten Definition von Cas Mudde: eine moralische Gegenüberstellung von reinem Volk und korrupter Elite, mit Antipluralismus als Folge (die PopBERT-Studie stützt sich ausdrücklich auf Mudde). Die Komplexitätsreduktion gehört dort nicht zur Definition, sie ist eher ein Stilmerkmal. IT Mario spricht selbst von den „typischen drei Merkmalen“, ohne eine Quelle zu nennen. Gerade die Grenzbegriffe bleiben dadurch unscharf.
 
 > [!question] Weitergedacht
 > Gilt Komplexitätsreduktion als populistisches Merkmal — oder als *erforderliche* Vereinfachung in einer Demokratie, die auch Nicht-Akademiker erreichen muss? *Ab wann wird aus notwendiger Klarheit schädliche Vereinfachung?*
 
 ---
 
-## Faktencheck: Wer lügt wie oft?
+## Wer lügt wie oft? Der Faktencheck der KI
 
 [▶ 12:56](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=776)
 
@@ -134,9 +152,9 @@ Zwei Beispiele, die IT Mario ausführt:
 
 *Beatrix von Storch, 2020*: Behauptung, 7 Millionen Arbeitnehmer seien in Kurzarbeit. Tatsächlich lag der Peak bei 6 Millionen (Quelle: Bundesagentur für Arbeit). Die Zahl ist falsch — aber die Zahl macht das Argument nicht besser oder schlechter, sie skaliert es nur leicht über.
 
-*Werner Schattner*: *„Deutschland hat die höchste Steuerquote der Welt, 42 % des Einkommens gehen im Durchschnitt an den Staat."* Beides falsch: Frankreich und Skandinavien liegen höher; die 42 % sind der Spitzensteuersatz, nicht der Durchschnitt — und betreffen nur Einkommen über einem Schwellenwert. Das ist kein Versprecher, das ist eine strategische Verwechslung.
+*Bernd Schattner* (AfD): *„Deutschland hat die höchste Steuerquote der Welt. 42 % des Einkommens gehen im Durchschnitt an den Staat.“* IT Mario hält beides für falsch: Frankreich und skandinavische Länder hätten eine höhere Steuerquote, und die 42 % bezögen sich auf den Spitzensteuersatz. Die erste Hälfte trifft zu. Bei der zweiten ist seine Erklärung nur eine mögliche Lesart, denn je nach Maß liegt die durchschnittliche Abgabenlast auf Löhne in dieser Größenordnung oder darüber *(Deutschland hat eine der höchsten Abgabenlasten auf Löhne in der OECD → [[#Faktencheck|Faktencheck]])*.
 
-> *„Entweder stellt sich Bern Schattner hier in den Bundestag und lügt offensichtlich oder er hat die einfachsten Zahlen falsch. Beides fatal in einem Raum, in dem über die Zukunft von ganz Deutschland bestimmt wird."* [▶ 15:58](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=958)
+> *„Entweder stellt sich Bernd Schattner hier in den Bundestag und lügt offensichtlich oder er hat die einfachsten Zahlen falsch. Beides fatal in einem Raum, in dem über die Zukunft von ganz Deutschland bestimmt wird."* [▶ 15:58](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=958)
 
 ---
 
@@ -146,13 +164,13 @@ Das Video verdient ehrliche methodische Einordnung. Was funktioniert gut:
 
 **Transparenz über alles:** Rohdaten, Prompts, Spreadsheets — alles offen. Das ist mehr als viele journalistische Analysen leisten.
 
-**Parteien-Blindheit des Modells:** Das blind scoring ist der klügste Designentscheid. Kein menschlicher Annotator weiß, welche Partei er bewertet — das eliminiert eine erhebliche Bias-Quelle.
+**Parteien-Blindheit des Modells:** Das blinde Bewerten ist der klügste Designentscheid. Das Modell weiß nicht, welche Partei es bewertet, und das nimmt eine erhebliche Bias-Quelle heraus.
 
-**Emergente Validierung:** IT Mario kannte die PopBERT-Studie vermutlich nicht, landet aber bei vergleichbaren Ergebnissen. Das ist unabhängige Konvergenz.
+**Vergleichbare Ergebnisse:** IT Mario nennt die PopBERT-Studie nicht, landet aber beim Populismus an derselben Spitze. Das spricht für den Befund, auch wenn die Wege verschieden sind.
 
 Was die Wissenschaft anders — und besser — macht:
 
-**PopBERT (Cambridge, 2024)** ist das akademische Äquivalent: Ein BERT-Modell, trainiert auf menschlich annotierten Bundestags-Reden von 2013–2021, speziell auf Populismus kalibriert. Kernbefund: AfD und Linke führen den Populismus-Score, AfD stark im rechten Host-Populismus. [→ Paper: Political Analysis, 2024](https://www.cambridge.org/core/journals/political-analysis/article/popbert-detecting-populism-and-its-host-ideologies-in-the-german-bundestag/06C14C50B50D5A7AB45C4A7C8A5AD945)
+**PopBERT** (*Political Analysis*) ist das akademische Gegenstück: ein BERT-Modell, trainiert auf menschlich annotierten Bundestagsreden von 2013 bis 2021, auf Populismus kalibriert. Kernbefund: die höchsten Werte bei der AfD, gefolgt von der Linken, die Regierungsparteien am unteren Ende; seit ihrem Einzug 2017 führt die AfD deutlich. [→ Paper: Political Analysis](https://www.cambridge.org/core/journals/political-analysis/article/popbert-detecting-populism-and-its-host-ideologies-in-the-german-bundestag/06C14C50B50D5A7AB45C4A7C8A5AD945)
 
 **Was IT Mario fehlt:**
 
@@ -160,7 +178,7 @@ Was die Wissenschaft anders — und besser — macht:
 
 2. **Statistische Signifikanz:** Die Unterschiede zwischen Parteien (z.B. AfD 7,06 vs. BSW 7,07 beim Vorwurfs-Score) sind marginal — es fehlen Konfidenzintervalle oder Signifikanztests.
 
-3. **Selektionsbias beim Faktencheck:** Welche 200 Reden pro Partei wurden für den Faktencheck gezogen? Zufällig oder nach Thema? Das beeinflusst das Ergebnis erheblich.
+3. **Kleine Stichprobe beim Faktencheck:** Gezogen wurden zufällig 200 Reden je Partei, daraus je drei bis fünf Behauptungen. Aus welchen Jahren und Themen sie stammen, sagt das Video nicht, und Konfidenzintervalle fehlen auch hier.
 
 4. **GPT-Bias als blinder Fleck:** IT Mario benennt das Problem kurz — *„solche Sprachmodelle haben auch eine gewisse Bias, die sie aufgrund der Trainingsdaten in sich tragen"* — zieht daraus aber keine analytische Konsequenz. Wenn OpenAI-Modelle auf englischsprachigen Internetdaten trainiert wurden, die politisch linksliberal tendieren: Systematisch welche Texte werden dann als „populistisch" erkannt?
 
@@ -173,7 +191,7 @@ Was die Wissenschaft anders — und besser — macht:
 
 ## Eine Randbemerkung über Bias — von IT Mario zu Gedankenwelten
 
-IT Marios größte methodische Schwäche ist ausgerechnet seine selbsterklärte Stärke: die Neutralitätsbehauptung. *„Maximal objektiv gestaltet"* — das sagt jemand, der weiß, dass sein Modell Biases trägt, aber hofft, sie durch Design zu neutralisieren.
+IT Marios größte methodische Schwäche ist ausgerechnet seine selbsterklärte Stärke: die Neutralitätsbehauptung. *„Es ist also für mich maximal objektiv gestaltet“*, sagt er, und im nächsten Satz, dass solche Sprachmodelle einen Bias aus ihren Trainingsdaten tragen, gegen den er nichts tun könne ([▶ 4:32](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=272)). Er weiß also um die Grenze und hofft, sie durch Design klein zu halten; in der Videobeschreibung bleibt davon nur „maximal objektiv“.
 
 Das ist ehrenwert. Und es ist ein Irrtum.
 
@@ -200,11 +218,14 @@ Der Bias ist real — hier wie dort. Die Frage ist nicht, ob er existiert. Die F
 > [!success] Bestätigt — Kurzarbeit-Peak 6 Millionen (nicht 7)
 > Von Storchs Behauptung, 7 Millionen seien in Kurzarbeit gewesen, ist falsch. Der Peak 2020 lag bei ca. 6 Millionen Kurzarbeitern. Quelle: [Bundesagentur für Arbeit — Kurzarbeit Zeitreihe](https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?topic_f=kurzarbeit-zr2)
 
-> [!success] Bestätigt — Deutschland keine höchste Steuerquote weltweit
-> Die Behauptung, Deutschland habe die höchste Steuerquote der Welt, ist falsch. Frankreich, Belgien und skandinavische Länder liegen teils deutlich höher. Quelle: [OECD Taxing Wages 2024](https://www.oecd.org/en/publications/taxing-wages-2024_dbcbac85-en.html)
+> [!warning] Vereinfacht — „Höchste Steuerquote der Welt, 42 % im Durchschnitt“ und IT Marios Gegenrechnung
+> Bernd Schattner (AfD) sagt, Deutschland habe die höchste Steuerquote der Welt, 42 % des Einkommens gingen im Durchschnitt an den Staat ([▶ 15:11](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=911)). Die erste Hälfte ist falsch: Bei der Abgabenlast auf Löhne liegt Belgien vorn (52,6 % der Arbeitskosten für einen Alleinstehenden mit Durchschnittslohn, 2024). Deutschland gehört aber mit über 45 % zu den fünf Ländern mit der höchsten Last, zusammen mit Österreich, Belgien, Frankreich und Italien. IT Marios Erklärung, die 42 % seien der Spitzensteuersatz, ist darum nur eine Lesart: Rechnet man Sozialabgaben ein, liegt die durchschnittliche Last auf einen Lohn in dieser Größenordnung oder darüber. Falsch ist der Superlativ, nicht die Zahl an sich. Quelle: [OECD, Taxing Wages 2025, Überblick](https://www.oecd.org/en/publications/2025/04/taxing-wages-2025_20d1a01d/full-report/overview_715add19.html)
+
+> [!note] Korrigiert am 05.11.2026
+> Wir hatten Schattners Satz eine „strategische Verwechslung“ genannt und IT Marios Spitzensteuersatz-Deutung als Tatsache übernommen. Beides trug nicht: Die Absicht ist unbelegt, und je nach Maß ist die Größenordnung von 42 % vertretbar. Der Name lautet Bernd, nicht Werner Schattner. Außerdem korrigiert: „Akademikeranteil“ war der Anteil mit akademischem Titel; IT Mario schränkt sein „maximal objektiv“ im Video selbst ein; die Gleichsetzung der drei Merkmale mit Muddes Definition; ein Satz über das limbische System bei Haidt.
 
 > [!warning] Vereinfacht — „Maximal objektiv durch KI"
-> IT Mario beschreibt das Verfahren als „maximal objektiv", weil das Modell die Partei nicht kennt. Das übersieht: LLMs tragen systematische Trainingsdaten-Biases, die nicht durch Parteien-Blindheit eliminiert werden. Das Modell könnte bestimmte Rhetorikstile konsistent anders bewerten als andere — unabhängig von der Partei. Kein unabhängiger Validierungsprozess wurde durchgeführt. *Keine unabhängige Quelle für die Bias-Quantifizierung gefunden.*
+> IT Mario beschreibt das Verfahren als „für mich maximal objektiv“, weil das Modell die Partei nicht kennt, und räumt den Trainings-Bias selbst ein ([▶ 4:32](https://www.youtube.com/watch?v=1LH7PZAPq-Y&t=272)). Unterschätzt wird trotzdem: LLMs tragen systematische Trainingsdaten-Biases, die nicht durch Parteien-Blindheit eliminiert werden. Das Modell könnte bestimmte Rhetorikstile konsistent anders bewerten als andere — unabhängig von der Partei. Kein unabhängiger Validierungsprozess wurde durchgeführt. *Keine unabhängige Quelle für die Bias-Quantifizierung gefunden.*
 
 > [!warning] Vereinfacht — Gleiche Fehlerquote für alle als fairer Maßstab
 > IT Mario argumentiert: *„Diese Fehlerquote ist ja für alle Parteien gleich, deswegen ist das ein faires Verfahren."* Das stimmt nur, wenn GPT-4o auch tatsächlich für alle Parteien gleich oft irrt. Wenn das Modell bestimmte Typen von Behauptungen (z.B. quantitative Aussagen vs. normative Wertungen) unterschiedlich gut erkennt — und Parteien machen unterschiedliche Typen von Behauptungen — wäre die Fehlerquote strukturell ungleich. *Keine unabhängige Quelle.*
@@ -240,7 +261,7 @@ Spiegelverkehrte Perspektive: Nocun analysiert, wie KI rechte Propaganda *produz
 Manow diagnostiziert den strukturellen Populismus-Nährboden (Souveränitätsverlust, Komplexitätsdruck), den IT Marios Populismus-Score auf Redeebene messbar macht. Theorie (Manow) und Empirie (IT Mario) schließen sich hier direkt zusammen.
 
 ### → [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
-Haidts Stammespsychologie erklärt, warum Antielitarismus und Antipluralismus so wirkmächtig sind: Wer das Stammesgefühl anspricht, gewinnt, weil das limbische System schneller reagiert als der präfrontale Kortex. Die drei Populismus-Merkmale sind Haidts Theorie in angewandter Form.
+Haidts Stammespsychologie hilft zu verstehen, warum Antielitarismus und Antipluralismus so wirkmächtig sind: Wer das Wir-gegen-die anspricht, erreicht die schnelle, intuitive Seite des Urteilens, bevor die Begründung nachkommt. Die Populismus-Merkmale wirken genau auf dieser Ebene.
 
 ### → [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]]
 El-Mafaalanis Befund über wachsendes Misstrauen gegenüber Expertise erklärt das Dilemma von IT Marios Methode: Ein datengestützter Befund über die AfD wird von AfD-Wählern nicht als Argument wahrgenommen, sondern als Beweis für „Systemmedien".
