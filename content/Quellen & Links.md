@@ -34,6 +34,16 @@ tags:
 | **Transkript** | `Gedankenwelten/Transkripte/Emergence_Dark_Knowledge_Transkript.txt` (redaktionelle Untertitel) |
 | **Kernquellen** | [Hinton, Vinyals, Dean 2015](https://arxiv.org/abs/1503.02531) · [DeepSeek-R1](https://arxiv.org/abs/2501.12948) · [Gudibande et al. 2023](https://arxiv.org/abs/2305.15717) |
 
+## ARD Mitreden — Jugendproteste, woher kommt die Wut? (02.11.2026)
+
+| | |
+|---|---|
+| **Sendung** | [Jugendproteste in Deutschland: Was steckt hinter der Wut der Gen Z? \| Mitreden!](https://www.youtube.com/watch?v=YxqkqIuzn3s) — „Mitreden! Deutschland diskutiert“, ARD-Infowellen, live 02.11.2026, 1:45 Std., Moderation Sabine Dahl |
+| **Notiz** | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Mitreden_GenZ_Jugendproteste_2026-11-02_Transkript.txt` (Whisper, keine Untertitel vorhanden) |
+| **Begleitend** | [BSK: Bildungsprotest am 20.11.2026](https://bsk-bund.de/bundesschuelerinnenkonferenz-plant-bildungsprotest-in-berlin-gemeinsam-fuer-eine-bessere-schule/) · [Trendstudie Jugend in Deutschland 2026](https://cdn.prod.website-files.com/6729ed5c5e23342c69e72a11/69c0fc91e3d6c3e8d81a2c0c_PRESSEMITTEILUNG%20Trendstudie%20Jugend%20in%20Deutschland%202026.pdf) |
+| **Viten** | [[DenkerVita/Lilli Berthold]] · [[DenkerVita/Burak Caniperk]] · [[DenkerVita/Kilian Hampel]] |
+
 ## MDR exactly — Kinder im Burnout (03.11.2025)
 
 | | |

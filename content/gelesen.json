@@ -5,7 +5,7 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 908,
+   "leser": 909,
    "aufrufe": 1081
   },
   {
@@ -45,8 +45,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 24,
-   "aufrufe": 28
+   "leser": 23,
+   "aufrufe": 27
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -104,6 +104,11 @@
    "aufrufe": 9
   },
   {
+   "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+   "leser": 8,
+   "aufrufe": 9
+  },
+  {
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
    "leser": 7,
    "aufrufe": 9
@@ -130,11 +135,6 @@
   },
   {
    "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-   "leser": 7,
-   "aufrufe": 7
-  },
-  {
-   "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
    "leser": 7,
    "aufrufe": 7
   },
@@ -224,11 +224,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Eva-von-Redecker",
-   "leser": 4,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
    "leser": 4,
    "aufrufe": 6
@@ -302,6 +297,11 @@
    "pfad": "/Zeitgeist/Christoph-Hein-Geooekonomie-NEU-DENKEN",
    "leser": 4,
    "aufrufe": 4
+  },
+  {
+   "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
+   "leser": 4,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 37,
-     "aufrufe": 42
+     "aufrufe": 41
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -324,14 +324,14 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/DenkerVita/Kalayo",
      "leser": 8,
      "aufrufe": 9
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 8,
+     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
@@ -359,11 +359,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 3,
      "aufrufe": 4
@@ -380,6 +375,11 @@
     },
     {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Albert-Camus",
      "leser": 3,
      "aufrufe": 3
     },
@@ -419,6 +419,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "leser": 2,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
      "leser": 2,
      "aufrufe": 2
@@ -430,11 +435,6 @@
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
      "leser": 2,
      "aufrufe": 2
     },
@@ -554,6 +554,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Michael-Hampe-Warum-Debatten-ueber-KI-und-Willen-truegen",
      "leser": 1,
      "aufrufe": 1
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/scobel-Foucault-Aufklaerung-als-Haltung",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,7 +615,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 908,
+     "leser": 909,
      "aufrufe": 1081
     },
     {
@@ -655,8 +655,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 24,
-     "aufrufe": 28
+     "leser": 23,
+     "aufrufe": 27
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -714,6 +714,11 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "leser": 8,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 7,
      "aufrufe": 9
@@ -740,11 +745,6 @@
     },
     {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 7,
      "aufrufe": 7
     },
@@ -834,11 +834,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 4,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "leser": 4,
      "aufrufe": 6
@@ -912,6 +907,11 @@
      "pfad": "/Zeitgeist/Christoph-Hein-Geooekonomie-NEU-DENKEN",
      "leser": 4,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
+     "leser": 4,
+     "aufrufe": 4
     }
    ]
   },
@@ -920,7 +920,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 979,
+     "leser": 980,
      "aufrufe": 1176
     },
     {
@@ -1089,6 +1089,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "leser": 9,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 9,
      "aufrufe": 9
@@ -1130,11 +1135,6 @@
     },
     {
      "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1225,7 +1225,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 979,
+     "leser": 980,
      "aufrufe": 1176
     },
     {
@@ -1394,6 +1394,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "leser": 9,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 9,
      "aufrufe": 9
@@ -1435,11 +1440,6 @@
     },
     {
      "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 40,
-     "aufrufe": 40
+     "leser": 41,
+     "aufrufe": 41
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1560,8 +1560,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 16,
-     "aufrufe": 16
+     "leser": 15,
+     "aufrufe": 15
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1577,6 +1577,11 @@
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 9,
      "aufrufe": 9
+    },
+    {
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "leser": 8,
+     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -1595,11 +1600,6 @@
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 7,
      "aufrufe": 7
     },
@@ -1709,11 +1709,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Shi-Heng-Yi",
      "leser": 3,
      "aufrufe": 3
@@ -1745,11 +1740,6 @@
     },
     {
      "pfad": "/DenkerVita/Judith-Mangelsdorf",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "leser": 3,
      "aufrufe": 3
     },
@@ -1825,6 +1815,16 @@
     },
     {
      "pfad": "/Zeitgeist/Christoph-Hein-Geooekonomie-NEU-DENKEN",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Niclas-Seydack",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Jens-Christian-Wagner-Buchenwald-und-deutsche-Erinnerung",
      "leser": 2,
      "aufrufe": 2
     }

@@ -378,6 +378,10 @@ Bude beschreibt kollektives Misstrauen als „unbestimmte Negation“, deren Geg
 
 Walburgs „Ethnisierung des Sozialen“, als Faschisierungsmechanismus gelesen: Für Celikates wird die ökonomische Krise auf schon markierte Gruppen projiziert. Anders als Walburg nimmt er die Migration dabei fast ganz aus der Rechnung, und genau dort setzt die Kritik der Note an.
 
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+
+Nach der Krawallnacht streiten ein Streetworker aus Schöneberg und der Innenminister im Radio über genau die Frage, die Walburg in der Mitte offenhält, Lage oder Herkunft.
+
 ---
 
 ## Weiterdenken

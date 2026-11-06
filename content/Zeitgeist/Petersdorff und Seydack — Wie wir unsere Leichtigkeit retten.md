@@ -212,3 +212,7 @@ Seydacks Beschreibung der Schule als Arbeitsmarkt-Vorbereitung ist die weiche Ve
 ### → [[Architekten des Lebendigen — Systeme die dem Leben dienen]]
 
 Drei Andockpunkte: (1) Seydacks Appell für öffentliche Räume ohne Konsumzwang ist die Nachfrage-Seite von Yus Spatial-Awe-Prinzip; (2) Petersdorffs „kleine Wirs" beschreibt genau die Architektur der Bausteine (Genossenschaften, Bürgerenergie); (3) Petersdorffs Plädoyer, Kunst dürfe auch „gelingendes Leben" darstellen, mappt auf Hüthers Gelingen ≠ Erfolg.
+
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+
+Eine Schülervertreterin fordert nach den Gen-Z-Protesten im Radio genau die Orte ohne Konsumzwang, die Seydack hier verlangt.

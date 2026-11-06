@@ -1324,3 +1324,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Bernd Pickert
 **Status:** ✓ Vollanalyse → [[DenkerVita/Bernd Pickert]]
+
+## Lilli Berthold
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lilli Berthold]]
+
+## Burak Caniperk
+**Status:** ✓ Vollanalyse → [[DenkerVita/Burak Caniperk]]
+
+## Kilian Hampel
+**Status:** ✓ Vollanalyse → [[DenkerVita/Kilian Hampel]]

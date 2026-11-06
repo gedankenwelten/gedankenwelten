@@ -142,7 +142,7 @@ What is new or recently deepened, newest first, with dates. Filter by section (Z
 
 The MCP server requires no login and issues no tokens. It does not store or log queries, keeps no access log, and does not track users. To protect the server from overload, it counts requests per IP address for at most 60 seconds in memory; nothing is written to disk.
 
-To know whether the service is used at all, the server keeps two daily totals and nothing else: how many conversations used it, and in how many conversations each note was opened (title only, once per conversation). Whether two requests belong to the same conversation is known only from the open connection and kept in memory until midnight. No queries, no search results, no addresses, no times, no identifiers. See [[Datenschutz|Privacy Policy]] for details.
+To know whether the service is used at all, the server keeps daily totals and nothing else: how many conversations used it, in how many conversations each note was opened (title only, once per conversation), and how often each tool was called (tool name only; for latest notes also the chosen time span). Whether two requests belong to the same conversation is known only from the open connection and kept in memory until midnight. No queries, no search results, no addresses, no times, no identifiers. See [[Datenschutz|Privacy Policy]] for details.
 
 ---
 

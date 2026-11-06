@@ -208,3 +208,7 @@ Hyperpolitik als strukturelle Ursache dessen, was Mangelsdorf psychologisch miss
 ### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
 
 Politisiert, aber unorganisiert: Das waren schon Arendts Massen.
+
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+
+Ein deutscher Fall: Nach den Gen-Z-Protesten steht eine anonyme Mobilisierung neben einer Schülervertretung, die zum 20. November mit GEW und Bundeselternrat aufruft, Repolitisierung und der Versuch, sie zu institutionalisieren, nebeneinander.

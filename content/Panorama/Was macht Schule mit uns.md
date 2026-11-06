@@ -321,6 +321,10 @@ Hier steht die KI nur als Prüfstein der Schule, dort als eigene Frage: ob das A
 
 Die ausführliche Fassung der Stimme von Scheliha in „Wer bestimmt über Kinder?“: Rechte statt Großzügigkeit, ein Zukunftsrat, die Murmelwahl in der Kita und der Satz, die autoritärsten Familien beteiligten ihre Kinder mehr als die Grundschule.
 
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+
+Die Stimme von der Straße zu dieser Frage: ein Streetworker, dessen Jugendliche auf fünfzig Bewerbungen keine Antwort bekommen, und eine Schülervertreterin, die Schule als Lebensraum will.
+
 ---
 
 ## Weiterdenken

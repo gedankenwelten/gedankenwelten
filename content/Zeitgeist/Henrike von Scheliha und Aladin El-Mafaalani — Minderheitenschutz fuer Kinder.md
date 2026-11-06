@@ -332,6 +332,10 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Barbara Prainsack stößt von der Solidarität her auf dieselbe Lücke: Künftige Generationen fehlen in unseren Entscheidungen, schon die geborenen Kinder sind nicht vertreten, und sie in Gesetzgebung und Regierung zu verankern, nennt sie „sehr, sehr schwierig“. Von Schelihas Zukunftsrat ist ein Vorschlag, wie das ginge, ohne auf Großzügigkeit zu warten.
 
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+
+Eine junge Anruferin bittet im Radio die Älteren, für die Jungen zu wählen, mit derselben Rechnung, an der El-Mafaalani ansetzt: Rein von der Anzahl her hätten die Jungen keine Stimme. Sie hofft auf genau die Stellvertretung, der er misstraut.
+
 ---
 
 ## Weiterdenken

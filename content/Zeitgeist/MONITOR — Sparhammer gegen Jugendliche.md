@@ -208,6 +208,10 @@ Was hinter der Altersgrenze der Jugendhilfe liegt, zeigt die Drogenhilfe Halle: 
 
 „Minderheitenschutz darf nicht von Großzügigkeit abhängen“: Eine Verfassungsjuristin begründet, warum Kinderrechte ein Verfahren brauchen. Dieser Fall zeigt, was aus einem Rechtsanspruch wird, wenn über seinen Haushalt ohne die Betroffenen entschieden wird.
 
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+
+Fünf Monate später nennt ein Jugendforscher im Radio die Jugendhilfe „krass gekürzt“. Die Gesamtausgaben widerlegen das, die offene Jugendarbeit wuchs kaum, und die Pläne aus dieser Note stehen noch bevor.
+
 ---
 
 ## Weiterdenken

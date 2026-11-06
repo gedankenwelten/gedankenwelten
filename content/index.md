@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+>
+> Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
+
 > **06.11.** — [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
 >
 > Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
@@ -40,17 +44,17 @@ Die Gedankenwelten (luc)
 >
 > Abgewählt ist nicht entmachtet: Am Tag nach dem demokratischen Erdrutsch fragt die taz-Runde, was ein Präsident noch kann, dem die Lust fehlt, aber nicht der Apparat.
 
-> **05.11.** — [[Zeitgeist/ZDF — Wehrdienst verweigern|Wehrdienst verweigern? Eine Frage des Gewissens]]
->
-> Ein Pfarrer, der einst verweigerte, zieht Flecktarn an. Ein Sanitäter, der getötet hat, nennt sich Pazifist. Vier Menschen suchen, was ihr Gewissen sagt, wenn der Staat wieder fragt.
-
-> → *15 weitere in* [[Zeitgeist]]
+> → *16 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
 > **06.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **06.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
+>
+> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
 > **06.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 >
@@ -63,10 +67,6 @@ Die Gedankenwelten (luc)
 > **05.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 >
 > Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **05.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
->
-> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
 > → *16 weitere in* [[Panorama]]
 

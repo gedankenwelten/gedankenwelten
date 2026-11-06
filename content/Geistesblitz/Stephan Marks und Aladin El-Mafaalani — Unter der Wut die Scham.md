@@ -333,6 +333,10 @@ Bonhoeffers Beispiel aus dem Gefängnis: Ein Lehrer fragt ein Kind vor der Klass
 
 Bei Barbara Prainsack wird derselbe Gedanke zum Bauprinzip für Institutionen: Sie sollen nicht demütigen (nach Margalit), denn viele Berechtigte nehmen Leistungen aus Bürokratie, aber auch aus Scham nicht in Anspruch. Großzügigkeit wird für sie dort möglich, wo Menschen sich aufgefangen wissen, die institutionelle Seite von „In dem Moment können wir nicht großzügig sein“.
 
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+
+Ein Streetworker aus Schöneberg beschreibt im Radio, wie er Jugendliche nach ihrer Wut fragt, bevor sie eine Scheibe einwerfen, einen Raum der Würde in einer Turnhalle, ohne das Wort zu benutzen.
+
 ---
 
 ## Weiterdenken

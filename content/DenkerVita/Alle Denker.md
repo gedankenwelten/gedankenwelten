@@ -76,6 +76,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Lilli Berthold|Lilli Berthold]]** — Schülervertreterin, stellvertretende Generalsekretärin der Bundesschüler\*innenkonferenz; Schule als Lebensraum, Beteiligung mit Wirkung statt Scheinformaten, Distanz zu „Gen Z regelt“ ohne Distanz zu den Anliegen
+
 **[[DenkerVita/Alice Bota|Alice Bota]]** — Journalistin (DIE ZEIT, seit 2007), Osteuropa; erzählt Belarus, Russland und die Ukraine über die, die widerstehen — Autorin von „Die Frauen von Belarus“
 
 **[[DenkerVita/Steve Bannon|Steve Bannon]]** — Politischer Stratege und Medienunternehmer (USA), Breitbart-Chef und 2017 Trumps Chefstratege; organisiert die nationalistische Rechte mit einem Netz, das in Amerika weiter reicht als in Europa
@@ -111,6 +113,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Stephan Bartunek|Stephan Bartunek]]** — österreichischer YouTuber und Streamer („Oida, Bartunek!“), Schauspieler; Aussteiger aus der Verschwörungsszene um Ken Jebsen, heute polemischer Kommentator zu FPÖ, AfD und rechten Influencern
 
 ## C
+
+**[[DenkerVita/Burak Caniperk|Burak Caniperk]]** — Sozialarbeiter und Streetworker (Outreach gGmbH, Berlin-Schöneberg), Autor von *Auf Augenhöhe* (2024); Armut statt Herkunft als Ursache der Wut, Beziehungsarbeit und Prävention
 
 **[[DenkerVita/Iason Chandrinos|Iason Chandrinos]]** — Zeithistoriker (Regensburg), erforscht die deutsche Besatzung Griechenlands, den Holocaust dort und die vergessenen griechischen KZ-Häftlinge und Zwangsarbeiter im Reich.
 
@@ -261,6 +265,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Felix Goldbach|Felix Goldbach]]** — Energiewende-YouTuber und Speaker aus Hannover, Banker und Betriebswirt mit Vergangenheit in der Speicherbranche (FENECON); rechnet Photovoltaik, Speicher und Wärmepumpe als Investition vor, Co-Host von *Alles wird Strom* — mit Geschäftsinteresse (Vermittlungsplattform Money for Future)
 
 ## H
+
+**[[DenkerVita/Kilian Hampel|Kilian Hampel]]** — Sozialforscher (Senior Research Fellow, Future of Work Lab, Universität Konstanz), Mitautor der Trendstudie *Jugend in Deutschland*; keine homogene Gen Z, Zukunftsperspektive als Klammer der Sorgen, Scheinbeteiligung als Gefahr für Engagement
 
 **[[DenkerVita/Tariq Hübsch|Tariq Hübsch]]** — Dozent für deutsche Kulturgeschichte (Jamia Ahmadiyya, Riedstadt), Grenzgänger Studios; Thiels Antichrist-Theologie, esoterisches Schreiben, Kybernetik und die Frage nach der Seele
 

@@ -2,7 +2,7 @@
 title: "Was fordert die Gen Z?"
 date: 2026-11-02
 erstellt: 2026-11-02
-aktualisiert: 2026-11-05
+aktualisiert: 2026-11-06
 panorama-art: wachsend
 description: "Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat."
 raetsel: "Sechs Sätze auf Pappe. Jeder Satz hat ein Ministerium."
@@ -475,9 +475,44 @@ Die Bildungs- und Protestforscherin Nina Kolleck rät zu Bürgerräten und Kommi
 unterschiedlichen Familien und Ländern mitentscheiden. Noch wollten sie mitwirken, sagt sie. *„Es gab auch
 Phasen in der Geschichte, da wollten junge Menschen eben nicht mehr integriert werden.“*
 
+Was „mitbestimmen“ heißt, hat eine lange Unterscheidung hinter sich. Die Planerin Sherry Arnstein ordnete 1969
+Beteiligung nach der Macht über den Plan; Information und Anhörung allein nannte sie Alibi ([Arnstein 1969](https://doi.org/10.1080/01944366908977225)).
+Bei Schülervertretungen hängt der Erfolg unter anderem an der Entscheidungsmacht des Gremiums (Griebler & Nowak 2012,
+[systematische Übersicht](https://doi.org/10.1108/09654281211203402)). Dass die Jungen an der Urne wenige sind, lässt sich zählen:
+Bei der Europawahl 2024 standen 3,0 Millionen Wahlberechtigten von 16 bis 20 Jahren 13,6 Millionen über 70 gegenüber
+([Bundeswahlleiterin](https://bundeswahlleiterin.de/dam/jcr/10169898-ce10-4535-9f13-9985664dd1f6/ew24_heft4-rws.pdf)).
+Und Lärm bringt Gehör, aber er dreht es: Parteien greifen Proteste auf, sobald sie in den Nachrichten sind, und
+radikale Taktiken senken in Experimenten die Zustimmung zur Bewegung und oft zur Sache selbst
+(Feinberg, Willer & Kovacheff 2020, [Experimente](https://doi.org/10.1037/pspi0000230)). Fridays for Future hat dagegen
+leise gewirkt, über mehr Stimmen für die Grünen dort, wo die Bewegung stark war (Fabel u. a. 2024,
+[quasi-experimentell](https://doi.org/10.1038/s41562-024-02075-4)).
+
 **Was die Politik getan hat.** Die Bildungsministerin hat vor den Demos zum Dialog eingeladen und danach gesagt,
 sie wolle *„ins Gespräch kommen“*. Die Bundesregierung lässt ausrichten: *„Sie werden von der Politik gehört.“*
 Ein Format, ein Termin, ein Gremium dafür ist bis heute nicht bekannt.
+
+Die Bundesschüler\*innenkonferenz, die sich vom Aufruf der Initiative ferngehalten hatte, ruft für den 20. November
+selbst zu einem Bildungsprotest in Berlin auf, mit zehn Forderungen und gemeinsam mit Fridays for Future Berlin, dem
+Bundeselternrat und der GEW ([BSK, 06.11.2026](https://bsk-bund.de/bundesschuelerinnenkonferenz-plant-bildungsprotest-in-berlin-gemeinsam-fuer-eine-bessere-schule/)).
+Rechte für Jugendgremien gibt es in einem Land schon: In Baden-Württemberg muss die Gemeinde Jugendliche beteiligen,
+eine Jugendvertretung hat Rede-, Anhörungs- und Antragsrecht ([§ 41a GemO BW](https://dejure.org/gesetze/GemO/41a.html)).
+Wie sie wirkt, ist kaum untersucht.
+
+**Die Stimmen**
+
+- **[[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Gehört werden|Lilli Berthold]]:** Wirkung misst sie daran, ob die 6b es spürt; Beteiligung scheitere an Hürden, und gehört werde meist nur, wer *„unbequem auf den Straßen“* ist.
+- **[[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Gehört werden|Kilian Hampel]]:** Scheinbeteiligung macht bestehendes Engagement kaputt; er will Wahlalter 16 überall und Jugendgemeinderäte mit Rechten.
+- **[[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering#Anti-Mattering — die Abwärtsspirale|Judith Mangelsdorf]]:** Schlimmer als nicht gefragt zu werden sei, gefragt zu werden, wenn die Antwort keinen Unterschied macht.
+- **[[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Der Zukunftsrat|Henrike von Scheliha]]:** Ein Zukunftsrat junger Menschen, angehört, bevor entschieden ist; das Parlament muss begründen, wenn es abweicht.
+- **[[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Was King damals war|Robin Celikates]]:** Fortschritt wurde oft durch Protest erzwungen, der zu seiner Zeit als radikal galt.
+- **[[Denker/Rutger Bregman — Ist der Mensch wirklich gut#Held vs. Radikaler — moralische Ambition|Rutger Bregman]]:** Fridays for Future habe Bewusstsein geweckt, aber wer die Welt ändern wolle, müsse irgendwann ein Gesetz durchbringen.
+
+<details><summary>Weitere Stimmen (2)</summary>
+
+- **[[Denker/Philipp Blom — Die Unterwerfung#Rauchende Trümmer und die Suffragetten|Philipp Blom]]:** Die Suffragetten informierten ein Jahrhundert lang höflich, dann wurden sie laut; das Wahlrecht brachte ihnen trotzdem erst der Krieg.
+- **[[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Gewalt als Anerkennung|Wilhelm Heitmeyer]]:** Wo Anerkennung fehlt, wird Gewalt zu einer Quelle davon, von den Tätern aus gesehen.
+
+</details>
 
 > [!question] Die Reibung
 > „Gehört werden“ und „mitbestimmen“ sind zwei verschiedene Dinge. *Was müsste geschehen, damit die Jungen den
@@ -508,6 +543,7 @@ Ein Format, ein Termin, ein Gremium dafür ist bis heute nicht bekannt.
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Nachbesprechung\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Mitbestimmen → Bringt erst Lärm Gehör? (Protestforschung, FFF-Wirkung) · Wirkt Beteiligung? (Arnstein, Schülervertretungen, Wahlberechtigte nach Alter, § 41a GemO) · BSK-Bildungsprotest am 20.11. · erste Stimmenliste |
 | 02.11.2026 | [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird\|Spur: Gen Z regelt — und was danach geregelt wird]] | Anlass des Panoramas; die Spur zählt, ob über diese Forderungen gesprochen wird |
 | 05.11.2026 | [[Zeitgeist/ZDF — Wehrdienst verweigern#Nachbesprechung\|ZDF — Wehrdienst verweigern]] | Wehrpflicht → was das Verweigerungsverfahren prüft: BAFzA-Maßstab, Zahlen 2025/2026 und zwei Zählstellen, Abiturientengrundrecht und Postkartennovelle, BVerfGE 12, 45 zur politischen Verweigerung |
 | 02.11.2026 | [[Zeitgeist/MDR exactly — Kinder im Burnout#Nachbesprechung\|MDR exactly — Kinder im Burnout]] | Psychotherapie → warum es dauert: Stichtag 1999 und Ost-Erbe, 20-Prozent-Quote und Mitversorgung, Kassen gegen Kammer, Rodney-Wolf & Schmitz 2025 · Überbrückung: Schleider & Weisz 2017 |

@@ -336,6 +336,11 @@ Euronews.
 Die andere Hälfte dieser Spur. Die Spur zählt, ob über die Forderungen gesprochen wird; das Panorama spricht
 über sie, Forderung für Forderung, mit dem Stand dessen, was die Politik getan hat.
 
+### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+Ein Datenpunkt für den zweiten Faden: eine Sendung, die über die Forderungen reden wollte und nach einer Stunde
+merkte, dass sie wieder über die Nacht gesprochen hatte. Dazu ein Faden, den diese Spur noch nicht hat: Die
+Bundesschüler\*innenkonferenz ruft für den 20. November selbst zu einem Bildungsprotest auf.
+
 ### → [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 Das Panorama, gegen das Posecks Satz vom migrantischen Milieu zu lesen ist: wie groß der Abstand in der
 Statistik ist, wie viel davon Anzeige ist und wie viel Tat, und was ihn kleiner macht. Hier wird die Frage
