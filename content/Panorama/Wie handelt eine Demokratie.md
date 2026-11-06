@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-10-15
+aktualisiert: 2026-11-06
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -221,6 +221,8 @@ Die Fälle zeigen, wie verschieden das ausgeht. Berlin hat drei Enttäuschungen 
 
 Wer handelt, braucht Spielraum, und wer Spielraum hat, braucht Aufsicht. Die Demokratie kennt dafür drei Werkzeuge. Das erste ist die Abwahl, für Karl Popper der Kern des Ganzen: eine Regierung ohne Blutvergießen loswerden zu können. Das zweite ist das Recht, Gerichte, Rechnungshöfe, Untersuchungsausschüsse. Das dritte ist die Öffentlichkeit. Athen kannte alle drei in eigener Form. Wer ein Amt antrat, wurde vorher geprüft (*dokimasie*), wer es verließ, musste Rechenschaft ablegen (*euthyna*) und konnte verklagt werden; ausgenommen waren nur die gelosten Geschworenengerichte ([Hansen 1999, doi:10.5040/9781472540614](https://doi.org/10.5040/9781472540614)). Rechenschaft ohne Wiederwahl ist also möglich, sie läuft dann über Prüfung und Klage.
 
+Ob die Abwahl gegen Korruption hilft, ist schwächer belegt, als man hofft. Wer im Feldexperiment von der Korruption eines Kandidaten erfährt, wählt ihn im Mittel kaum seltener; in Umfragen sind es rund 32 Punkte, die am Wahltag verschwinden ([Incerti 2020](https://doi.org/10.1017/s000305542000012x), Meta-Analyse). Es wirkt, wenn die Nachricht glaubwürdig ist und ankommt: In Brasilien kosteten veröffentlichte Prüfberichte die Bürgermeister Stimmen, am meisten dort, wo ein Lokalradio sie verbreitete ([Ferraz & Finan 2008](https://doi.org/10.1162/qjec.2008.123.2.703), natürliches Experiment). Und es wirkt schwächer, je mehr an der eigenen Partei hängt ([Eggers 2014](https://doi.org/10.1561/100.00013140)). Die US-Midterms 2026 zeigen beides: Ken Paxton überstand in Texas ein Jahrzehnt aus Anklage, Ermittlung und Amtsenthebung und verlor erst, als Korruption und Preise zusammenkamen. Wähler verzeihen eher den Rechtsbruch fürs Gemeinwohl als den zum eigenen Vorteil, und milde bleibt die Strafe oft, weil dieser Vorteil unsichtbar ist ([Breitenstein & Hernández 2024](https://doi.org/10.1017/s175577392400016x), Umfrageexperiment) (→ [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Wird Korruption an der Urne bestraft?|Nachbesprechung]]).
+
 Am meisten gestritten wird über die Öffentlichkeit. Jon Elster hat die geheime Verfassungsgebung von Philadelphia 1787 mit der öffentlichen Nationalversammlung von Paris 1789 verglichen: Hinter verschlossenen Türen konnte man umdenken, vor Publikum neigte man zum Schaufenster. Die Öffentlichkeit habe aber eine „zivilisierende Kraft der Heuchelei“, weil man Eigennutz als Gemeinwohl begründen muss ([Elster 1998, doi:10.1017/cbo9781139175005.006](https://doi.org/10.1017/cbo9781139175005.006)). Simone Chambers wiegt beides: Öffentlichkeit droht zur Rhetorik zu werden, Geheimhaltung zum Feilschen ([Chambers 2004, doi:10.1111/j.1467-9760.2004.00206.x](https://doi.org/10.1111/j.1467-9760.2004.00206.x)).
 
 Die härteste Evidenz kommt aus der US-Notenbank, die 1993 beschloss, ihre Sitzungsprotokolle zu veröffentlichen. Danach widersprachen die Mitglieder seltener ([Meade & Stasavage 2008, doi:10.1111/j.1468-0297.2008.02138.x](https://doi.org/10.1111/j.1468-0297.2008.02138.x)), bereiteten sich aber besser vor und brachten mehr Daten mit; nach dem Maß einer Textanalyse überwiegt die Disziplin ([Hansen, McMahon & Prat 2018, doi:10.1093/qje/qjx045](https://doi.org/10.1093/qje/qjx045)). Seit der EU-Ministerrat seine Abstimmungen veröffentlicht, stimmen Minister kaum noch öffentlich dagegen, Konsens als Schutz vor Schuld ([Novak 2013, doi:10.1111/jcms.12063](https://doi.org/10.1111/jcms.12063)). Die Psychologie erklärt den Doppeleffekt: Rechenschaft vor einem Publikum, dessen Meinung man nicht kennt, macht gründlicher; vor einem, dessen Meinung man kennt, macht sie gefällig ([Lerner & Tetlock 1999, doi:10.1037/0033-2909.125.2.255](https://doi.org/10.1037/0033-2909.125.2.255), Review).
@@ -244,7 +246,7 @@ Ein eigenes Kapitel ist die Aufsicht über die Sicherheitsbehörden. Wo Gesetze 
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Aladin El-Mafaalani]]:** Um von Washington unabhängig zu werden, sollen die eigenen Dienste aufgerüstet werden, und weil der Verfassungsschutz auch Ländersache ist, könnten Populisten bald einen Geheimdienst erben, der alles kann. *„Ich sehe beides.“*
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Şeyda Kurt]]:** Die Militarisierung nach innen geschieht unter der jetzigen Regierung, mit Befugnissen für Geheimdienste in historischem Ausmaß, und sie wird sich, wenn die AfD regiert, gegen Leute wie sie richten.
 
-<details><summary>Weitere Stimmen (12)</summary>
+<details><summary>Weitere Stimmen (15)</summary>
 
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Publikumsfragen|Hans Jessen]]:** Minister kann man schon heute entlassen; wer unter Loskontrolle zwanzig Jahre bleibt, bedeutet mehr Machtkonzentration, nicht weniger.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Vorratsdatenspeicherung 20 Jahre alter Zombie, neue Bundesregierung|Constanze Kurz]]:** Jede neue Bundesregierung versucht die Vorratsdatenspeicherung erneut, obwohl Karlsruhe und der EuGH sie gekippt haben.
@@ -259,6 +261,10 @@ Ein eigenes Kapitel ist die Aufsicht über die Sicherheitsbehörden. Wo Gesetze 
 - **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Die Polizei, die sich kontrollieren lässt|Elif Eralp]]:** Kontrollquittung und Fehlerkultur für die Polizei statt Dank „für alle Einsätze“.
 - **[[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus#Der Fall Lorenz — wie demokratisiert man die Polizei?|Tilo Wesche]]:** Die Polizei demokratisieren, mit Betroffenen und „Transparenz, so wie beim Parlament“.
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Bürgerräte Skeptisch|Philip Manow]]:** Einen gelosten Rat kann niemand abwählen.
+
+- **[[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Das Gold als Bild|Bernd Pickert]]:** Vielleicht der erste Wahlkampf, *„wo das ganz große Geld mal ein bisschen mehr geschadet als genutzt hat“*; Barbara Junge: Zahlen bleiben nicht hängen, das vergoldete Weiße Haus schon.
+- **[[Zeitgeist/Susan Neiman — Nennen wir es boese#Trumps Ehrlichkeit|Susan Neiman und Ulrike Winkelmann]]:** Wer keine Moral beansprucht, kann nicht als Heuchler entlarvt werden; offener Eigennutz gilt den Anhängern als Ehrlichkeit.
+- **[[Marco Buelow — Korrumpiert#Das böse Wort|Marco Bülow]]:** Geld schießt keine Tore, aber „Geld kauft Politik, Geld kauft auch Demokratie“.
 
 </details>
 
@@ -328,6 +334,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 | 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Eine Ost-Quote? Elitenmonitor 12,1 % (2024), Unterrepräsentation kostet Unterstützung (Vogel 2022), Quoten-Evidenz (Bertrand 2019, Besley 2017), Art. 36 GG; Kowalczuk als Stimme |
 | 10.10.2026 | [[Harald Welzer — Toetungsarbeit#Nachbesprechung|Harald Welzer — Tötungsarbeit]] | Familiengedächtnis: *Opa war kein Nazi* in Zahlen, MEMO 2019–2025, MEMO Jugend 2023, NSDAP-Kartei online 2026 |
 | 15.10.2026 | [[Rainer Mausfeld — Warum schweigen die Lämmer#Nachbesprechung|Rainer Mausfeld — Warum schweigen die Lämmer?]] | Wer bewacht die Handelnden: Aufsicht über Sicherheitsbehörden, unbestimmte Rechtsbegriffe (Ingeborg Maus), BKA-Gesetz 2016, Datenanalyse 2023, BayVerfGH 2025 zur „drohenden Gefahr“; Bedrohung und Freiheitsverzicht (Davis & Silver 2004, Huddy et al. 2005); Mausfeld und Kurz als Stimmen |
+| 06.11.2026 | [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Nachbesprechung|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms?]] | Wer bewacht die Handelnden: Wird Korruption abgewählt? Feld kaum, Umfrage 32 Punkte (Incerti 2020), Prüfberichte und Lokalradio (Ferraz & Finan 2008), Parteifilter (Eggers 2014), Eigennutz gegen Gemeinwohl (Breitenstein & Hernández 2024); Paxton, Wisconsin 2025, Musks 445 Mio. |
 
 ---
 

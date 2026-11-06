@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 908,
-   "aufrufe": 1080
+   "aufrufe": 1081
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -30,8 +30,8 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 49,
-   "aufrufe": 53
+   "leser": 50,
+   "aufrufe": 54
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -164,6 +164,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
    "leser": 6,
    "aufrufe": 6
@@ -185,11 +190,6 @@
   },
   {
    "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
    "leser": 5,
    "aufrufe": 5
   },
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 37,
-     "aufrufe": 41
+     "aufrufe": 42
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -319,12 +319,12 @@
      "aufrufe": 23
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 9,
-     "aufrufe": 9
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 10,
+     "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 9,
      "aufrufe": 9
     },
@@ -494,11 +494,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
-     "leser": 1,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 1,
      "aufrufe": 2
@@ -584,6 +579,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Walther-Ziegler-Freud-in-60-Minuten",
      "leser": 1,
      "aufrufe": 1
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 908,
-     "aufrufe": 1080
+     "aufrufe": 1081
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -640,8 +640,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 49,
-     "aufrufe": 53
+     "leser": 50,
+     "aufrufe": 54
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -774,6 +774,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 6,
      "aufrufe": 6
@@ -795,11 +800,6 @@
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 5,
      "aufrufe": 5
     },
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 979,
-     "aufrufe": 1175
+     "aufrufe": 1176
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -929,14 +929,14 @@
      "aufrufe": 312
     },
     {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 106,
+     "aufrufe": 112
+    },
+    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 105,
      "aufrufe": 127
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 105,
-     "aufrufe": 111
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 979,
-     "aufrufe": 1175
+     "aufrufe": 1176
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1234,14 +1234,14 @@
      "aufrufe": 312
     },
     {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 106,
+     "aufrufe": 112
+    },
+    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 105,
      "aufrufe": 127
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 105,
-     "aufrufe": 111
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1540,8 +1540,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 36,
-     "aufrufe": 36
+     "leser": 37,
+     "aufrufe": 37
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1679,6 +1679,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 3,
      "aufrufe": 3
@@ -1745,11 +1750,6 @@
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 3,
      "aufrufe": 3
     },
