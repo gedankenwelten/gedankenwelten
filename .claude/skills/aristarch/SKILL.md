@@ -82,6 +82,8 @@ Fehler bisher am häufigsten waren, vor allem unsere eigenen und ihre Ursachen. 
    Schnellcheck steht im Aristoteles-Skill unter „Belegverben gehören dem Faktencheck“.
    **Steigerungen** („der genaueste“, „als Einziger“, „vollständig“, „gilt als“) ebenso — Schnellcheck im
    Aristoteles-Skill unter „Steigerungen tragen Beweislast“.
+   **Zuschreibungen** („seine Kernthese“, „seine Analyse“): Zeigt sich das in dieser Abschrift an einer Stelle?
+   Sonst anderes Video verlinken oder als unsere Einordnung kennzeichnen (Aristoteles, „Was andere sagen“).
 5. **Lebende Personen** (Persönlichkeitsrecht, → Abmahnrisiko): Jede **Tatsachenbehauptung** über
    einen lebenden Menschen braucht einen Beleg; Meinung muss als Meinung erkennbar sein. Verdachts-
    äußerungen nur als solche, mit Quelle. Mitgliedschaften, Strafverfahren, Ämter, Zitate besonders

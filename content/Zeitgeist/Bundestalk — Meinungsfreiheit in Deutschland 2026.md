@@ -37,7 +37,7 @@ Quelle: [Wird die Meinungsfreiheit zu sehr eingeschränkt? – Podcast Bundestal
 
 Die Sendung beginnt mit einem Apokryphen: *„Ich bin zwar anderer Meinung als Sie, aber ich würde mein Leben dafür geben, dass Sie Ihre Meinung frei aussprechen dürfen."* Dieser Satz, fälschlicherweise Voltaire zugeschrieben, stammt aus einer Biografie über ihn — und bezeichnet dennoch treffend den Kern liberaler Demokratie: Meinungsfreiheit als Schutz nicht für die eigene, sondern für die fremde, unbequeme Meinung.
 
-Das ist der Ausgangspunkt einer Diskussion, die sich zwischen zwei Polen bewegt: Gibt es in Deutschland 2026 *wirklich* zu wenig Meinungsfreiheit — oder ist die Klage darüber vor allem ein populistisches Narrativ, das von rechts importiert wurde? Christoph Rath fasst die Grundspannung früh präzise: Es gibt viel Meinungsfreiheit im internationalen Vergleich, *aber* an bestimmten Punkten — dort, wo staatliche Interessen berührt werden — entstehen Einschränkungen, die eine Machtfrage sind.
+Das ist der Ausgangspunkt einer Diskussion, die sich zwischen zwei Polen bewegt: Gibt es in Deutschland 2026 *wirklich* zu wenig Meinungsfreiheit — oder ist die Klage darüber vor allem ein populistisches Narrativ, das von rechts importiert wurde? Christian Rath fasst die Grundspannung früh präzise: Es gibt viel Meinungsfreiheit im internationalen Vergleich, *aber* an bestimmten Punkten — dort, wo staatliche Interessen berührt werden — entstehen Einschränkungen, die eine Machtfrage sind.
 
 Die taz-Runde vertritt dabei keine einheitliche Linie. Was folgt, ist ein echtes Gespräch unter Journalist:innen, die miteinander ringen — was den Podcast zu einem der aufschlussreicheren Dokumente der aktuellen deutschen Meinungsfreiheitsdebatte macht.
 
@@ -205,7 +205,7 @@ Das re:publica-Gespräch behandelt exakt dieselbe Grundfrage aus einem anderen W
 
 ### → [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
 
-Steinkes Analyse des §129 (Organisationsverbote) und Verfassungsschutzbeobachtung ergänzt Raths Erklärung des §188. Beide Paragraphen sind Teil derselben Strafrechtsverschärfungsdynamik: Der Staat greift zu schärferen Mitteln, weil gesellschaftliche Normen erodieren — und erzielt damit Gegeneffekte.
+Steinkes Kritik an den Beleidigungsparagraphen (er will §188 und auch §185 streichen) und an der Beobachtung durch den Verfassungsschutz ergänzt Raths Erklärung des §188. Beide Paragraphen sind Teil derselben Strafrechtsverschärfungsdynamik: Der Staat greift zu schärferen Mitteln, weil gesellschaftliche Normen erodieren — und erzielt damit Gegeneffekte.
 
 ### → [[Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 

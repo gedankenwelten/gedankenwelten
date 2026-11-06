@@ -210,7 +210,7 @@ Yu erklärt neurologisch, warum das linksliberale Menschenbild scheitert — das
 
 ### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
-Steinkes Justiz-Aktivismus-These und Marinićs "Teilzeitliberalismus"-Begriff sind die empirischen Belege für den abstrakten Freiheitsdiskurs bei Möllers/Poschardt. Poschardts Diagnose des gekaperten Freiheitsbegriffs bekommt durch Steinkes konkreten Welt-Fall (Musk-Wahlaufruf als unpopuläre Meinung, aber Kriminalisierung pro-palästinensischer Filmemacher) seinen schärfsten Ausdruck. Möllers' institutioneller Freiheitsbegriff wird durch Steinkes Befund bestätigt und provoziert: Auch der progressive Staat schränkt Meinungsfreiheit ein — nicht nur der konservative.
+Im re:publica-Gespräch steht Poschardts eigenes Blatt in der Kritik: Steinke nennt den Kurs der *Welt*, die ein Ressort „Meinungsfreiheit“ führt, Musks Wahlaufruf als unpopuläre Meinung druckte und zugleich ein härteres Vorgehen gegen propalästinensische Filmemacher verlangte, mit einem zitierten Begriff „Teilzeitliberalismus“. Möllers' institutioneller Freiheitsbegriff wird durch Steinkes Befund bestätigt und provoziert: Auch der progressive Staat schränkt Meinungsfreiheit ein — nicht nur der konservative.
 
 ### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
 

@@ -97,7 +97,7 @@ In Deutschland misst der Medienvielfaltsmonitor der Landesmedienanstalten, wer w
 <details><summary>Weitere Stimmen (3)</summary>
 
 - **[[Bundestalk — Meinungsfreiheit in Deutschland 2026#Algorithmen Das eigentliche Problem|Ulrich Gutmair]]:** Nicht das Strafrecht, sondern Algorithmen, „die es darauf anlegen, dass wir uns alle in die Haare kriegen“, sind das Problem.
-- **[[Steinke und Marinic — Quo vadis Meinungsfreiheit#Der Durchlauferhitzer — Algorithmus als Demokratiekiller|Ronen Steinke]]:** Der Diskurs ist ein Durchlauferhitzer derselben Themen; was Familien beschäftigt, kommt nicht auf die Tagesordnung.
+- **[[Steinke und Marinic — Quo vadis Meinungsfreiheit#Der Durchlauferhitzer — Algorithmus als Demokratiekiller|Jagoda Marinić]]:** Der Diskurs ist ein Durchlauferhitzer derselben Themen; was Familien beschäftigt, kommt nicht auf die Tagesordnung.
 - **[[Anat Saragusti — Zensur und Pressefreiheit in Israel#Die Einschüchterungsmaschine|Anat Saragusti]]:** Auch ohne Verbot wirken Besitz und Druck über Klagen und Kampagnen: „Selbstzensur ist eine Art, sich zu schützen.“
 
 </details>

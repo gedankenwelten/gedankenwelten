@@ -156,6 +156,14 @@ einer dritten Person da. Mit Zeitmarke fällt das beim Schreiben auf, ohne erst 
   Wort ‚säkulare Eschatologie‘ ein, Mühlhoff ordnet es ein“. Bei Reaktionsvideos gehört jeder Satz dem, der ihn
   sagt, nicht dem, dessen Vortrag gezeigt wird (→ `gedankenwelt` Schritt 4a, `sprecher_check.py`).
 
+- **„Seine Kernthese“ braucht ein Zitat mit Zeitmarke** (seit 06.11.2026). Schreiben wir, was jemand im Kern
+  meint („Kernthese“, „seine Analyse“, „er zeigt:“, auch im Aufmacher und in `description:`), muss sich das
+  Wort oder der Gedanke in **dieser** Quelle zeigen lassen. Stammt es aus einem anderen Video, steht dessen
+  Link dahinter; stammt es von uns, steht das da. Anlass: Bei einem Medienkritiker galt „Geschäftsmodell“ als
+  seine Kernthese, das Wort fiel in den drei Abschriften der betroffenen Notes aber nicht. „Die Politik handelt
+  aus Angst“ stand als seine Analyse und kam aus einer Kolumne, die er vorlas. Beides war von dort längst in
+  Vita, Panorama und Verbindungssätze gewandert.
+
 ### Belegverben gehören dem Faktencheck (seit 26.10.2026)
 
 **„belegt“, „weist nach“, „dokumentiert“, „zeigt“, „beweist“** schreiben wir nur für das, was der
