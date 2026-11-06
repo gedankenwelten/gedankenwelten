@@ -237,7 +237,7 @@ Ob man mit unbequemer Wahrheit zurückgewinnt, ist schwerer zu sagen als oft beh
 - **[[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Drei Schübe für die AfD|Tom Krebs]]:** Die AfD wuchs in drei Schüben, jeder nach einem wirtschaftspolitischen Versäumnis; wer sie klein machen will, muss Strom und Mieten billiger machen, notfalls über öffentliches Eigentum.
 - **[[Susan Neiman — Nennen wir es boese#Was in New York anders läuft|Susan Neiman]]:** „Mehr Netto vom Brutto“ feuert niemanden an; Mamdani gewann, weil er Bezahlbarkeit als Gerechtigkeit erzählte und bei Gaza nicht nachgab, und wer einem Prinzip gegen den eigenen Vorteil treu bleibt, dem traut man auch die anderen zu.
 
-<details><summary>Weitere Stimmen (27)</summary>
+<details><summary>Weitere Stimmen (28)</summary>
 - **[[Zeitgeist/auslandsjournal — Ausgetrumpt#Populismus im besten Sinne?|Gina Hinojosa, nach Theveßen]]** (Midterms 2026): Die neue Gouverneurin von Texas will die Kulturkämpfe lassen und Populistin sein, „im besten Sinne“, Anwältin derer mit dem kürzeren Ende; Theveßen hält das für den Schlüssel der Demokraten, Neimans Mamdani-Lesart steht fast dagegen.
 - **[[Eva von Redecker — Dieser Drang nach Härte#3. Öffentlicher Luxus|Eva von Redecker]]** (Leipziger Buchmesse): Öffentlicher Luxus nach George Monbiot, Bahnhöfe, Bäder, ein Zug, in den auch der Rollstuhl passt; wer sich sicher und versorgt fühlt, kann auf SUV und Pool verzichten, und braucht kein Phantom.
 
@@ -268,6 +268,8 @@ Ob man mit unbequemer Wahrheit zurückgewinnt, ist schwerer zu sagen als oft beh
 - **[[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie#Das Erbe des Dritten Weges Ideologie als Schimpfwort|Tarik Abou-Chadi]]:** Seit Blair und Schröder betreiben Sozialdemokraten Valenzpolitik statt Vision; die Sprache der Klasse haben die Rechten übernommen.
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Die Hoffnungspartei|Marina Kormbaki]]:** Die AfD ist zur „Hoffnungspartei“ geworden; bei Siegmunds „Zukunft“ jubelt der Platz, die Regierenden klingen verzagt.
 - **[[Martin Oetting — Faschismus stoppen mit der Wahrheit#Gewinnt man mit der Wahrheit?|Martin Oetting]]:** Mit Ehrlichkeit und Mut kann man Wahlen gewinnen, wie Brandt 1972; Habeck habe nur schlecht vermittelt, und für die, die Wahrheit suchen, gründet er System Delta.
+
+- **[[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Die Spaltung bleibt|Barbara Junge]]** (Midterms 2026): Glaubwürdigkeit vor Ort, an Themen wie den Rechenzentren, sei wichtiger als eine gemeinsame Vision. Sebastian Moll will mit Quinn Slobodian über das Nein hinaus, Bernd Pickert setzt auf populäre Gesetze statt Untersuchungsausschüsse.
 
 </details>
 

@@ -634,6 +634,10 @@ Die Folge behandelt das Abstrafen als Besonderheit dieser Wahl. Haidt beschreibt
 
 Die Spur nennt als Hürde nach jeder Abwahl die Abgewählten selbst, die oft fast die Hälfte der Stimmen behalten. Polen ist das Lehrstück: 2023 abgewählt, 2025 gewann der Kandidat der PiS die Präsidentschaft. Die Midterms nehmen Trump die Kammern, nicht das Amt, und Theveßens „der Case ist noch nicht gegessen“ beschreibt genau die zwei Jahre, in denen Polen kippte.
 
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Lahme Ente oder laufender Apparat|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Am selben Tag aufgenommen und nüchterner: Pickert nennt die Wahl eine Brandmauerwahl ohne Richtung. Wo Theveßen einen ohnmächtigen Präsidenten sieht, der seine Siege außen sucht, sehen Junge und Pickert einen Apparat um Stephen Miller, der weiterläuft, auch wenn Trump nicht mehr selbst schiebt.
+
 ---
 
 ## Weiterdenken

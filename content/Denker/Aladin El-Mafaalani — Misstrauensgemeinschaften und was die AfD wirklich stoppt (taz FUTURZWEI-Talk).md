@@ -425,3 +425,7 @@ Der Hausschlüssel beim fremden Nachbarn, als Reise erzählt: Zwei Radfahrer fra
 ### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Liefern, sonst implodiert die Wut|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
 
 Am Morgen nach den US-Midterms 2026 hoffen Theveßen und Röller, dass eine Wut ohne Ergebnis implodiert. Theveßen sagt aber selbst, viele Republikaner seien eher zu Hause geblieben als zurückgekehrt. Damit wird El-Mafaalanis These, Misstrauensgemeinschaften entzauberten sich nicht, zum ersten Mal an Amerika geprüft.
+
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Trumpismus ohne Trump|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Nach den Midterms 2026 sagen Bernd Pickert und Barbara Junge über J. D. Vance, was der Abschnitt über das körpergewordene Misstrauen erklärt: Lügen könne er so gut wie Trump, ihm fehle die Nahbarkeit. Sebastian Moll hofft, die Demokraten könnten den Zorn mobilisieren, der nicht an Trump hängt; nach El-Mafaalani sucht er sich eher den nächsten Populisten.

@@ -549,6 +549,10 @@ Die drei Stimmen, deren Erwartungen oben festgehalten sind. Nach der Wahl wird a
 Dort steht das Urteil des Supreme Court vom 24. August zur Briefwahl-Verfügung, deren Folgen hier zu beobachten
 sind.
 
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Lahme Ente oder laufender Apparat|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Die taz-Runde vom 04.11. hält die lahme Ente für die falsche Erwartung: Ein Apparat aus der Heritage-Schule um Stephen Miller regiere weiter, mit Dekreten, die oft erst Monate später vor Gericht fallen. Prüfbar an Dekreten und an den Bestätigungen im Senat.
+
 ## Quellen
 
 **Gerichtsakten und Behörden**

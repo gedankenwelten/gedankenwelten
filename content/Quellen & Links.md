@@ -552,6 +552,17 @@ tags:
 | **Spur** | [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028]] |
 | **Produktion** | BosePark Productions im Auftrag des ZDF auslandsjournal |
 
+## taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms? (05.11.2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Wie viel Macht bleibt Trump nach den Midterms? – Bundestalk](https://www.youtube.com/watch?v=NbWCeH_L8ss) |
+| **Notiz** | [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]] |
+| **Transkript** | `Gedankenwelten/Transkripte/taz-Bundestalk_Midterms_Transkript.txt` |
+| **Mit** | Martina Mescher (moderiert), Barbara Junge, Sebastian Moll (New York), Bernd Pickert |
+| **Kommentare** | [Pickert, taz 04.11.2026](https://taz.de/Midterm-Wahlen-in-den-USA/!6227287/) · [Junge, taz 01.11.2026](https://taz.de/Zwischenwahlen-in-den-USA/!6223303/) |
+| **Spur** | [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028]] |
+
 ## ZDF auslandsjournal — Der Trump Effekt #80: Midterms – ausgetrumpt?! (04.11.2026, live)
 
 | | |

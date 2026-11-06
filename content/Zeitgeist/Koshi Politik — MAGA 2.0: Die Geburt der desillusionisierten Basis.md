@@ -140,3 +140,7 @@ Bonhoeffer: Dummheit als gesellschaftliche Entmündigung — Personenkult ist ih
 
 ### → [[Nachtsitzung - Trumps Machtbasis bricht zusammen]]
 Biersky liefert die Strukturanalyse dazu: MAGA 2.0 ist nicht nur ein Stimmungsumschwung, sondern ein systematisches Wegbrechen auf allen Ebenen der Machtpyramide — von der Basis bis zu den Influencern.
+
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Trumpismus ohne Trump|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Sieben Monate später, nach den Midterms, beansprucht Marjorie Taylor Greene MAGA ohne Trump. Barbara Junge hält den Versuch für zwingend und kaum aussichtsreich, weil solche Bewegungen einen Führer brauchen, der sich nicht kopieren lässt. Die Gegenprobe zu MAGA 2.0.

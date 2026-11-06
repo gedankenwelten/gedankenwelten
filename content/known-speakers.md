@@ -1312,3 +1312,15 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Marcello Ienca
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marcello Ienca]]
+
+## Barbara Junge
+**Status:** ✓ Vollanalyse → [[DenkerVita/Barbara Junge]]
+
+## Martina Mescher
+**Status:** ✓ Vollanalyse → [[DenkerVita/Martina Mescher]]
+
+## Sebastian Moll
+**Status:** ✓ Vollanalyse → [[DenkerVita/Sebastian Moll]]
+
+## Bernd Pickert
+**Status:** ✓ Vollanalyse → [[DenkerVita/Bernd Pickert]]

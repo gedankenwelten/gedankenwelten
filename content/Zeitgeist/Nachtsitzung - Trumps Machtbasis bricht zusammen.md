@@ -225,6 +225,10 @@ Wenn ehemalige Verbündete anfangen auszupacken: Ungaro ist ein konkretes Beispi
 
 Die Fortsetzung zwei Monate später: Republikaner stimmen gegen den Irankrieg, und Peter Thiel, 2016 Trumps erster Förderer aus dem Silicon Valley, holt seine Familie nach Buenos Aires. Biersky liest das als weiteren Riss in der Machtbasis. Ein Hauptgeldgeber Trumps war Thiel allerdings nur 2016, und im Oktober 2026 stellte er sich trotz seiner Kritik am Krieg weiter hinter den Präsidenten (→ [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Was seither geschah|Was seither geschah]]).
 
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Lahme Ente oder laufender Apparat|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Nach den Midterms ist die unterste Stufe der Pyramide weggebrochen, wie Biersky es sah. Barbara Junge und Bernd Pickert halten dagegen, dass der Apparat darüber kaum berührt wird, und treffen sich darin mit Bierskys eigenem Satz zu Heritage.
+
 ---
 
 ## Weiterdenken

@@ -318,6 +318,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## J
 
+**[[DenkerVita/Barbara Junge|Barbara Junge]]** — Journalistin, Chefredakteurin der taz seit 2020 und frühere Washington-Korrespondentin des Tagesspiegel; sieht nach den Midterms 2026 weniger starke Demokraten als einen geschwächten Trump
+
 **[[DenkerVita/Joachim Valentin|Joachim Valentin]]** — katholischer Theologe, Gründungsdirektor des Hauses am Dom Frankfurt, apl. Professor für Christliche Religions- und Kulturtheorie; promovierte über Derrida und kam über ihn zu Levinas; Rat der Religionen Frankfurt, Film und Theologie
 
 **[[DenkerVita/Joon Sung Park|Joon Sung Park]]** — Informatiker (Stanford-PhD bei Bernstein & Liang, Mitgründer und CEO von Simile); Erfinder der Generative Agents: das „Smallville"-Dorf mit 25 KI-Agenten (Gedächtnis, Reflexion, Planung), 2024 Agenten-Simulationen von 1.052 realen Menschen — Gesellschaftssimulation als Labor für Entscheidungen
@@ -421,6 +423,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
+
+**[[DenkerVita/Martina Mescher|Martina Mescher]]** — Journalistin im Politikteam der wochentaz, Moderatorin des Bundestalk; liest Macht an ihren Gesten, von Trumps Ballsaal bis zur Sozialpolitik der Union
+
+**[[DenkerVita/Sebastian Moll|Sebastian Moll]]** — Journalist und Autor, seit 2002 in New York, USA-Korrespondent der taz; erzählt die USA vom Rechenzentrum bis zum Baseball und die deutsche Nachkriegszeit im „Würfelhaus“ seines Vaters
 
 **[[DenkerVita/Michael Moss|Michael Moss]]** — US-Investigativjournalist (*New York Times*), Pulitzer-Preis 2010 für die Recherche über E.-coli-verseuchtes Hackfleisch; *Salt Sugar Fat* (2013, dt. *Das Salz-Zucker-Fett-Komplott*) und *Hooked* (2021) — der Bliss Point, die Kronjuwelen Salz, Zucker, Fett und eine Industrie, die von ihnen abhängiger ist als wir
 
@@ -545,6 +551,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Dirk Oschmann|Dirk Oschmann]]** — Literaturwissenschaftler (Leipzig), liest „den Osten“ als westdeutsche Zuschreibung und die Ost-West-Ungleichheit als materielle Frage; Gegenspieler von Kowalczuks „Freiheitsschock“
 
 ## P
+
+**[[DenkerVita/Bernd Pickert|Bernd Pickert]]** — Journalist, seit 1994 in der taz-Auslandsredaktion (USA, Lateinamerika, Menschenrechte); hält Trump nach den Midterms für keine lahme Ente und das Ergebnis für eine Brandmauerwahl
 
 **[[DenkerVita/Barbara Prainsack|Barbara Prainsack]]** — Politikwissenschaft (Universität Wien), versteht Solidarität als Praxis und Gestaltungsprinzip für Institutionen, von der Medizin über Daten bis zum Klima.
 

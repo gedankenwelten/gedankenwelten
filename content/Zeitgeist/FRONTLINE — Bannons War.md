@@ -310,6 +310,10 @@ Das Panorama zeichnet das Netz der globalen Rechten. Diese Note und die Vita pr�
 
 Zehn Jahre später erinnert Ulf Röller an denselben Gegenschlag nach „Access Hollywood“ und sieht die Technik inzwischen auf beiden Seiten; sein Bild vom kontaminierten Boden der Information ergänzt „flood the zone“ um die Lüge.
 
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Lahme Ente oder laufender Apparat|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Nach den Midterms 2026 nennt Bernd Pickert Stephen Miller als den, der das Projekt trägt, auch wenn Trump die Kraft ausgeht. Es ist dieselbe Frage, die dieser Film an Bannon stellt: ob die Ideen den Mann überleben.
+
 ---
 
 ## Weiterdenken

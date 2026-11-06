@@ -357,6 +357,10 @@ Ulf Röller fürchtet, dass „When they go low, we go high“ vergessen wird, w
 
 Neiman wartete gespannt auf die Midterms. Am Morgen danach nennt Theveßen Mamdani „fast einen Zentristen“ und empfiehlt mit Gina Hinojosa, die Kulturkämpfe zu lassen und Populist „im besten Sinne“ zu sein. Das liegt fast gegenüber ihrer Lesart, nach der Mamdani mit moralischer Sprache und Prinzipientreue gewann.
 
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Das Gold als Bild|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Nach den Midterms 2026 stellt die taz-Runde Winkelmanns Befund auf die Probe: Das offene Bereichern, als Bild aus Gold, hat Trump diesmal geschadet. Barbara Junge mahnt die Demokraten, nicht „genauso korrupt“ zu werden, und das ist Neimans Asymmetrie von der anderen Seite.
+
 ---
 
 ## Weiterdenken

@@ -1,7 +1,7 @@
 ---
 title: "TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang"
 date: 08.06.2026
-aktualisiert: 2026-10-26
+aktualisiert: 2026-11-06
 description: "Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit."
 raetsel: "Er kaufte ein Haus am anderen Ende der Welt. Den Präsidenten behielt er."
 tags:
@@ -169,6 +169,12 @@ Wie viel Kalifornien mit der neuen Steuer einnähme, ist darum umstritten. Boll,
 ---
 
 ## Was seither geschah
+
+*Stand: 06.11.2026, drei Tage nach den Midterms. Ausgezählt wird noch.*
+
+- **Biersky hatte recht: Die Republikaner verloren beide Kammern.** Im Repräsentantenhaus zählte AP am 06.11. 253 Sitze für die Demokraten und 157 für die Republikaner, 25 Rennen waren noch offen; vor der Wahl hielten die Demokraten 215. Der Gewinn liegt damit schon bei mindestens 38 Sitzen ([AP — House](https://apnews.com/projects/elections-2026/us-house-results/)). Im Senat stehen die Demokraten bei 54, die Republikaner bei 44, sieben Sitze mehr als vorher. Offen sind Mississippi, wo Scott Colom mit rund 1.800 Stimmen vor Cindy Hyde-Smith liegt, und Alaska, wo Mary Peltola knapp vor Dan Sullivan führt und bei unter 50 Prozent die Rangfolge der Stimmen entscheidet ([AP — Senat](https://apnews.com/projects/elections-2026/us-senate-results/)). Bierskys *„eh schon fast chancenlos“* aus dem Juni war, in der Rückschau, eher zurückhaltend. Wie die Nacht gelesen wurde: [[Zeitgeist/auslandsjournal — Ausgetrumpt|Ausgetrumpt?!]] (ZDF) und [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms|Wie viel Macht bleibt Trump nach den Midterms?]] (taz); die Zeit bis 2028 verfolgt die Spur [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit]].
+- **Den Krieg nannten sie selbst als Grund, nur nicht gleich.** Trump sagte bei Fox: *„I don't think it was the war. I think it was the gas prices.“* ([NewsNation, 04.11.2026](https://www.newsnationnow.com/politics/2026-midterm-elections/trump-posts-veto-hat-blames-gas-prices-iran-war-midterm-losses/)). Vizepräsident Vance schrieb am selben Tag: *„The reason we lost is the war.“* Ein Urteil über den Krieg selbst gab er nicht ab ([JD Vance auf X](https://x.com/JDVance/status/2118004988433641835)). Die Abweichler im Repräsentantenhaus, von denen diese Note handelt, waren damit früher dran als die Parteiführung.
+- **Die Milliardärssteuer liegt zurück, entschieden ist sie noch nicht.** Bei 64 Prozent ausgezählter Stimmen stimmten 54,6 Prozent gegen Proposition 40, 45,4 dafür ([AP, Stand 06.11.](https://apnews.com/projects/elections-2026/california-proposition-40-results/)). Ende September hatte das Ja in einer Umfrage noch vorn gelegen. Fällt sie, lässt sich die Frage aus der Nachbesprechung, ob Reiche bei einer solchen Steuer gehen, in Kalifornien nicht mehr am Fall prüfen.
 
 *Stand: 26.10.2026, eine Woche vor den Midterms*
 

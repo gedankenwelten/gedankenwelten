@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **06.11.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
+>
+> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
+
+> **06.11.** — [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms|Wie viel Macht bleibt Trump nach den Midterms?]]
+>
+> Abgewählt ist nicht entmachtet: Am Tag nach dem demokratischen Erdrutsch fragt die taz-Runde, was ein Präsident noch kann, dem die Lust fehlt, aber nicht der Apparat.
+
 > **05.11.** — [[Zeitgeist/ZDF — Wehrdienst verweigern|Wehrdienst verweigern? Eine Frage des Gewissens]]
 >
 > Ein Pfarrer, der einst verweigerte, zieht Flecktarn an. Ein Sanitäter, der getötet hat, nennt sich Pazifist. Vier Menschen suchen, was ihr Gewissen sagt, wenn der Staat wieder fragt.
@@ -36,15 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Kipppunkte entscheiden sich, solange offen ist, wohin es kippt. Maja Göpel liest den Kampf gegen „woke“ als Wunsch, wieder blind zu schalten, und nennt es mutig, ehrlich hinzusehen.
 
-> **03.11.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
->
-> Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
-
-> **02.11.** — [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]]
->
-> Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
-
-> → *14 weitere in* [[Zeitgeist]]
+> → *13 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
 
-> → *2 weitere in* [[Geistesblitz]]
+> → *1 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -111,12 +111,6 @@ Die Gedankenwelten (luc)
 > **02.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
 >
 > Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
-
-> **29.10.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
->
-> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
-
-> → *6 weitere in* [[Spuren]]
 
 ### Denker
 
