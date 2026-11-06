@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **06.11.** — [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+>
+> Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
+
 > **06.11.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
 >
 > Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Ausrufezeichen und ein Fragezeichen: Am Morgen nach dem demokratischen Erdrutsch fragen drei ZDF-Korrespondenten, was eine Abwahl ist, solange keiner weiß, wer sie erntet.
 
-> **03.11.** — [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
->
-> Kipppunkte entscheiden sich, solange offen ist, wohin es kippt. Maja Göpel liest den Kampf gegen „woke“ als Wunsch, wieder blind zu schalten, und nennt es mutig, ehrlich hinzusehen.
-
-> → *13 weitere in* [[Zeitgeist]]
+> → *14 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

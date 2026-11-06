@@ -482,7 +482,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Martin Winistoerfer|Martin Winistörfer]]** — Director AI Research bei Hexagon (Leica Geosystems, Heerbrugg/CH); KI auf Mess- und Geodaten — Reality Capture, Vertikalstruktur von Wäldern, autonome Fahrzeuge, Solarpotenzial ganzer Städte; Industriepraktiker ohne publiziertes Werk
 
-**[[DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
+**[[DenkerVita/Mats Schoenauer|Mats Schönauer]]** — Journalist, YouTuber, Buchautor; Kanal Topfvollgold; gründete 2013 mit Moritz Tschermak das Watchblog Topf voll Gold; prüft BILD, NIUS und YouTube an Akten und bei den Betroffenen
 
 **[[DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
 

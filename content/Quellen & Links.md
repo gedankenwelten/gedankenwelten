@@ -2308,7 +2308,7 @@ tags:
 
 | | |
 |---|---|
-| **Vortrag / Video** | [NiUS erfindet Islam-Skandal](https://www.youtube.com/watch?v=XiC0qsyka0M) |
+| **Vortrag / Video** | [Wie NiUS unschuldige Menschen in Gefahr bringt](https://www.youtube.com/watch?v=XiC0qsyka0M) (zuerst: „NiUS erfindet Islam-Skandal“) |
 | **Notiz** | [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Topfvollgold_NiUS_Islam_Transkript.txt` |
 

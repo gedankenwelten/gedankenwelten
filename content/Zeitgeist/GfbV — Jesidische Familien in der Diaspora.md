@@ -344,7 +344,7 @@ Johnens Kern ist, dass Hilfe nur über Strukturen ankommt, die vor Ort schon tra
 
 ### → [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
-Zwei Sterbeweisen desselben Staatsversprechens: Dort werden Aufnahmezusagen an gefährdete Afghaninnen widerrufen, aus Angst vor der nächsten Schlagzeile. Hier scheitert die versprochene Nachholung der Ehemänner an Ressortstreit und einem zurückgezogenen Fraktionsvotum. Die eine Zusage stirbt an Öffentlichkeit, die andere an Zuständigkeit; beide treffen Menschen, deren Schutzbedürftigkeit der Staat selbst amtlich festgestellt hat.
+Zwei Sterbeweisen desselben Staatsversprechens: Dort werden Aufnahmezusagen an gefährdete Afghaninnen widerrufen, nach einer Vermutung im Video aus Angst vor der nächsten Schlagzeile. Hier scheitert die versprochene Nachholung der Ehemänner an Ressortstreit und einem zurückgezogenen Fraktionsvotum. Die eine Zusage stirbt an Öffentlichkeit, die andere an Zuständigkeit; beide treffen Menschen, deren Schutzbedürftigkeit der Staat selbst amtlich festgestellt hat.
 
 ---
 

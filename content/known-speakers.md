@@ -672,7 +672,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Martyna Linartas
 **Status:** ✓ Vollanalyse → [[DenkerVita/Martyna Linartas]]
 
-## Mats Schoenauer
+## Mats Schönauer
 **Status:** ✓ Vollanalyse → [[DenkerVita/Mats Schoenauer]]
 
 ## Matthias Quent

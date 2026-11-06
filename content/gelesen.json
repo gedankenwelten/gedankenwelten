@@ -489,6 +489,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
      "leser": 1,
      "aufrufe": 2
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/Denker/scobel-Foucault-Aufklaerung-als-Haltung",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Albert-Moukheiber",
      "leser": 1,
      "aufrufe": 1
     }

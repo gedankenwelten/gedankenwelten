@@ -134,7 +134,7 @@ Der Hass, der aus solchen Verkürzungen wächst, trifft fast immer die Falschen:
 - **[[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Wird verschwiegen?|Christian Walburg]]:** In der Sache gibt er Hoven und Rostalski weitgehend recht, ihre Zeitdiagnose aber nähre die Erzählung von Rechtsaußen, „die da oben“ würden verschweigen.
 - **[[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#„Man wird ja wohl noch die Fakten nennen dürfen“|BissenBlaBla]]:** Die AfD nennt die Statistik „geheim gehalten“ — „Leute, ich habe da drei Klicks gebraucht.“
 - **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Medienanalyse Leipzig — Der Tag danach|Staiy]]:** Aschaffenburg mit afghanischem Täter blieb tagelang auf den Startseiten, die Amokfahrt eines Deutschen in Leipzig keine zwei Tage; geschwiegen wird eher über die deutschen Täter.
-- **[[Topfvollgold — Mordfall Stade und das Versagen von NiUS#Kein Einzelfall das Geschäftsmodell hinter dem „Fehler"|Topfvollgold]]:** NIUS machte aus einer Namensgleichheit eine Mord-Komplizin; wo das Schweigen beklagt wird, wird manchmal erfunden.
+- **[[Topfvollgold — Mordfall Stade und das Versagen von NiUS#Kein Einzelfall|Topfvollgold]]:** NIUS rückte per Namensgleichheit eine Unbeteiligte in den Verdacht; wo das Schweigen beklagt wird, wird manchmal Falsches verbreitet.
 
 > [!question] Die Reibung
 > Merz sieht ein Bild, dem etwas fehlt, Staiy eines, in dem zu viel steht, und beide zählen Schlagzeilen. Walburg und Hoven sind sich über die Zahlen fast einig und streiten über den Ton. *Woran ließe sich überhaupt messen, ob eine Gesellschaft ein Problem verschweigt — und wer müsste dem Maßstab vorher zustimmen?*

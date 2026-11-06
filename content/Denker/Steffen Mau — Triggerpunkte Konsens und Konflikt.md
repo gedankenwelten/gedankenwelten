@@ -189,7 +189,7 @@ Mau sieht den entscheidenden Unterschied: Brandt operierte vor dem Hintergrund e
 - [[Heinz Bude — Gesellschaft der Angst]] — Bude diagnostiziert 2014 die „Misstrauensbewegungen" und die innere Spaltung der Mittelschicht, die Mau empirisch vermisst: Der Swimming-Pool-Effekt (relative Deprivierung) ist der affektive Motor hinter Maus Triggerpunkten
 
 ### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
-Empirischer Beleg für die Polarisierungsunternehmer-These: NiUS transformiert ein harmloses Buffet in einen "Islam-Triggerpunkt" — die Arena Innen/Außen wird gezielt aktiviert, indem Reichelt aus einer Kantineneröffnung die "Vollendung der deutschen Unterwerfung unter den Islam" konstruiert.
+Ein Fall zur Polarisierungsunternehmer-These: NiUS macht aus einem harmlosen Buffet einen „Islam-Triggerpunkt“, die Arena Innen/Außen wird aktiviert, wenn Reichelt aus einer Kantineneröffnung die „Vollendung der deutschen Unterwerfung“ macht.
 
 ### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 

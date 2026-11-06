@@ -153,7 +153,7 @@ Wie aus einem Befund eine Waffe wird, lässt sich an Krügers Dissertation verfo
 - **[[scobel — Luhmann Abklaerung der Aufklaerung#Aufklärung als Entlarvung — und das Kontingenz-Problem|Niklas Luhmann]]:** „Eine Aufklärung, die nur entlarvt, wird hysterisch“; ihr Gegenmittel ist Abgeklärtheit, nicht Rückzug.
 - **[[Walther Ziegler — Popper in 60 Minuten#Die offene Gesellschaft — Falsifikation als politisches Prinzip|Karl Popper]]:** Was sich nicht widerlegen lassen will, ist kein Wissen; eine offene Gesellschaft lebt davon, dass sie sich korrigieren kann.
 - **[[Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen#Das unbelehrbare Bollwerk — Fehlerkultur und die Angst vor dem Hass|Topfvollgold]]:** Harte Kritik am öffentlich-rechtlichen Rundfunk von Leuten, die in ihm arbeiten und ihn für unverzichtbar halten.
-- **[[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren#Keine Korrektur — und politische Konsequenzen|Topfvollgold zu BILD und NIUS]]:** BILD korrigiert nach fast acht Tagen, und die Korrektur geht nicht viral; NIUS korrigiert gar nicht.
+- **[[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren#Keine Korrektur — und politische Konsequenzen|Topfvollgold zu BILD und NIUS]]:** BILD korrigiert nach über einer Woche, und die Korrektur geht nicht viral; bei NIUS fand Schönauer bis zum Video keine.
 - **[[Poerksen und Goepel — Debatte neu denken#Medienbildung und öffentlich-rechtlicher Rundfunk|Bernhard Pörksen]]:** Engagierte Objektivität statt Beliebigkeit, und Medienbildung nach finnischem Vorbild.
 
 <details><summary>Weitere Stimmen (4)</summary>

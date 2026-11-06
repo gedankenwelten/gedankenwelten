@@ -158,9 +158,9 @@ Bonhoeffers Text über die Dummheit stützt Reichers Skepsis gegenüber Argument
 
 DiResta liefert das empirische Fundament für Reichers Anatomie der Manipulation: wie aus Wiederholung und Vernetzung Wirklichkeit wird. Zugleich zeigt ihr eigener Fall die Gefahr, vor der Heinrich warnt. Ihr Stanford Internet Observatory wurde in den USA selbst als Zensur-Apparat angegriffen und geriet ins Visier eines Kongressausschusses. Wer Desinformation bekämpft, gerät leicht in den Verdacht, den er bekämpfen will.
 
-### → [[DenkerVita/Mats Schoenauer|Mats Schoenauer]]
+### → [[DenkerVita/Mats Schoenauer|Mats Schönauer]]
 
-Verwandter Habitus: der Analytiker gegen die Desinformation. Schoenauer (Topfvollgold) seziert Medienmanipulation als Geschäftsmodell, mit Faktencheck-Handwerk; Reicher tut Ähnliches für die Geopolitik. Schoenauer bleibt beim Aufdecken. Reicher geht einen Schritt weiter und will auch die Bühnen schließen, die öffentlich bezahlt werden.
+Verwandter Habitus: der Analytiker gegen die Desinformation. Schönauer (Topfvollgold) seziert Medienmanipulation mit Faktencheck-Handwerk; Reicher tut Ähnliches für die Geopolitik. Schönauer bleibt beim Aufdecken. Reicher geht einen Schritt weiter und will auch die Bühnen schließen, die öffentlich bezahlt werden.
 
 ---
 

@@ -79,18 +79,18 @@ Dieser Mechanismus ist in seiner Wirkung besonders heimtückisch, weil er keine 
 
 Das ist der konzeptuelle Kern des Vortrags: Gerade weil Journalisten *versuchen*, unparteiisch zu sein, erzeugen sie systematisch einen Bias zugunsten problematischer Positionen. Der gute Wille ist die Quelle des Problems.
 
-### Doppelstandards, Auslassung und Sain-Washing
+### Doppelstandards, Auslassung und Sanewashing
 
 [▶ 17:36](https://www.youtube.com/watch?v=-dgKKrGmbkM&t=1056) — Das dritte Muster liegt in der inkonsistenten Anwendung journalistischer Maßstäbe je nach Akteur und Geopolitik. Zaboura zeigt anhand zweier NYT-Titel: Russlands Kriegsstrategie in der Ukraine wird als „Nutzung von Hunger als Kriegswaffe" bezeichnet — eine im Recht verankerte Tatsachenfeststellung. Israels vollständige Blockade humanitärer Güter nach Gaza wird hingegen als „stoppt alle Hilfsmittel" gerahmt — eine Formulierung, die die völkerrechtliche Dimension der kollektiven Bestrafung einer illegal okkupierten Bevölkerung vollständig ausblendet.
 
-[▶ 20:42](https://www.youtube.com/watch?v=-dgKKrGmbkM&t=1242) — Parallel läuft das Muster des **Sain-Washings**: Trump droht dem Iran öffentlich mit der Vernichtung seiner Kraftwerke. Die NYT titelt: „Trump eskaliert Drohung, iranische Kraftwerke zu treffen." Die Tagesschau titelt: „Trump gibt Iran Zeit bis Dienstag." Dass es sich bei der Drohung um die Ankündigung eines Kriegsverbrechens handelt, erscheint weder im Titel noch im Artikel.
+[▶ 20:42](https://www.youtube.com/watch?v=-dgKKrGmbkM&t=1242) — Parallel läuft das Muster des **Sanewashings**: Trump droht dem Iran öffentlich mit der Vernichtung seiner Kraftwerke. Die NYT titelt: „Trump eskaliert Drohung, iranische Kraftwerke zu treffen." Die Tagesschau titelt: „Trump gibt Iran Zeit bis Dienstag." Dass es sich bei der Drohung um die Ankündigung eines Kriegsverbrechens handelt, erscheint weder im Titel noch im Artikel.
 
 > *„Bizarre Inhalte, eindeutige Desinformation, extreme Rhetorik und diese äußernden Machtakteure werden normalisiert, sie werden geglättet und massenmedial als vermeintlich vernünftige Position im öffentlichen Diskurs präsentiert."*
 
 Hinzu kommt der **Mikrofonständerjournalismus**: Die Tagesschau reproduziert im Liveblog Trump-Zitate eins-zu-eins in Titelzeilen ohne jegliche Einordnung. Dobusch und Zaboura formulieren das Urteil klar: Diese Form des Publizierens „erreicht keine journalistische Schöpfungshöhe" und wäre gleichermaßen durch eine KI leistbar.
 
 > [!question] Weitergedacht
-> Wenn Sain-Washing der unbeabsichtigte Effekt von Neutralitätsansprüchen ist — welchen Spielraum hat eine einzelne Journalistin, die gegen diesen institutionellen Sog handeln will? Oder erfordert Veränderung zwingend die Ebene der Redaktionsleitung?
+> Wenn Sanewashing der unbeabsichtigte Effekt von Neutralitätsansprüchen ist — welchen Spielraum hat eine einzelne Journalistin, die gegen diesen institutionellen Sog handeln will? Oder erfordert Veränderung zwingend die Ebene der Redaktionsleitung?
 
 ### Der strukturelle Teufelskreis
 

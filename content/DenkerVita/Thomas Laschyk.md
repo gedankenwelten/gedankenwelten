@@ -86,7 +86,7 @@ Wer seine Texte liest, liest also beides: sorgfältig recherchierte Belege und e
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Mats Schoenauer]] — Beide nehmen BILD und NIUS auseinander und sehen Desinformation als Geschäftsmodell. Schönauer widerlegt mit Akten, Urteilen und Betroffenen, fast trocken; Laschyk setzt bewusst auf Zuspitzung und Erzählung.
+- [[DenkerVita/Mats Schoenauer]] — Beide nehmen BILD und NIUS auseinander; Schönauer spricht von Medien, „deren Geschäftsmodell es ist, Lügen zu verbreiten“. Schönauer widerlegt mit Akten, Urteilen und Betroffenen, fast trocken; Laschyk setzt bewusst auf Zuspitzung und Erzählung.
 - [[DenkerVita/Renee DiResta]] — Beide halten den nüchternen Faktencheck für zu schwach. DiResta sucht die Lösung in der Architektur der Algorithmen, Laschyk in der Frage, wem die Reichweite gehört — und DiResta fragt, ob erzählende „Werbung für die Wahrheit“ nicht mit dem Werkzeug der Gegenseite arbeitet.
 - [[DenkerVita/Martin Oetting]] — Beide kommen vom Handwerk der Überzeugung: Oetting als Forscher zur Mundpropaganda, Laschyk mit einer Masterarbeit über Storytelling in Fake News. Beide sagen, die Wahrheit müsse besser erzählt werden als die Lüge; Oetting setzt auf ehrliche Politik, Laschyk auf Umverteilung.
 - [[DenkerVita/Leonhard Dobusch]] — Dobuschs Kritik an falscher Balance ist die theoretische Grundlage für Laschyks „Wir sind nicht neutral“. Laschyks Arbeit zeigt, wie weit diese Kritik trägt und wo bewusste Parteinahme selbst anfängt, Belege auszuwählen.
