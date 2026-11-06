@@ -164,7 +164,7 @@ Das Wort „Geschäftsmodell“ fällt in diesem Video nicht, auch wenn wir es h
 
 ## Verbindungen
 
-### → [[Rechte Medien — Das Geschaeft mit der Luege|Panorama: Rechte Medien — das Geschäft mit der Lüge]]
+### → [[Rechte Medien — Das Geschaeft mit der Luege|Panorama: Rechte Medien — wenn die Falschmeldung Methode hat]]
 
 Das Panorama, in dem dieser Fall neben den anderen dokumentierten Fällen hängt — vom Ramadan-Fall bis zum „Heizungshammer": Eigentümer, Methode, Nachfrage-Seite und Gegenwehr im Überblick.
 
@@ -186,7 +186,7 @@ Dieselbe Propagandaarchitektur auf parlamentarischer Bühne: ein Vorfall wird em
 
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 
-Der theoretische Mechanismus zum konkreten Fall: Staiy analysiert NIUS als Triggermedium im Teufelskreis aus Klick-Anreiz und Angstproduktion. Stade zeigt, wohin „Angst, Migration und Steuergeld“ führen kann: bis zur Preisgabe einer Unbeteiligten.
+Der Mechanismus zum konkreten Fall: Staiy beschreibt den Teufelskreis aus Klick-Anreiz und Angst, von dem BILD, Welt und NIUS profitieren. Stade zeigt, wohin „Angst, Migration und Steuergeld“ führen kann: bis zur Preisgabe einer Unbeteiligten.
 
 ### → [[MONITOR — AfD-Erfolg trotz Skandalen]]
 

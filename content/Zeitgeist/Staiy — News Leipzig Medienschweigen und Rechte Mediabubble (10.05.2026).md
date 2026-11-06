@@ -53,7 +53,7 @@ Das Muster ist konsistent und kein Zufall.
 
 Staiy erklärt den strukturellen Hintergrund: Medien konkurrieren in Zeiten schrumpfender Zahlungsbereitschaft um Leserschaft. Sie schreiben, was Menschen klicken — das definiert journalistische „Relevanz". Wenn Politikerinnen und rechtsextreme Medien Ressentiments gegen Ausländer schüren, wächst in Teilen der Bevölkerung die Unsicherheit. Mehr Menschen suchen nach Informationen zu dem Thema — das Thema gewinnt an journalistischer Relevanz. Medien reagieren, indem sie häufiger über ausländische Täter berichten. Das verstärkt Unsicherheit weiter. Der Teufelskreis schließt sich.
 
-> *„Basierte Medien wissen natürlich um diesen Kreislauf, aber nicht alle Medien spielen darin die gleiche Rolle. Nachrichtenagenturen wie Bild, Welt oder das rechtsextreme Portal Neos profitieren von einem gesellschaftlichen Rechtsruck, weil Angst vor Migration ihre Klickzahlen steigert."*
+> *„Versierte Medien wissen natürlich um diesen Kreislauf, aber nicht alle Medien spielen darin die gleiche Rolle. Nachrichtenagenturen wie Bild, Welt oder das rechtsextreme Portal NIUS profitieren von einem gesellschaftlichen Rechtsruck, weil Angst vor Migration ihre Klickzahlen steigert."*
 
 [▶ 10:00](https://www.youtube.com/watch?v=0WxPLe_otSg&t=600)
 
@@ -230,7 +230,7 @@ Die Anwendung dieser Note auf einen konkreten Fall — und ihr stiller Widerspru
 
 ### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
 
-Der Beweis-Fall für die hier beschriebene Triggermedium-These: NIUS treibt die Logik „Angst + Migration + Steuergeld = Reichweite“ im Mordfall Stade bis zur falschen Beschuldigung einer Unbeteiligten.
+Ein Fall zum hier beschriebenen Kreislauf: Im Mordfall Stade führt die Mischung aus Angst, Migration und Steuergeld bei NIUS bis zur falschen Beschuldigung einer Unbeteiligten.
 
 ### → [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
 Vorherige Staiy-NEWS-Folge, die den Orbán-Wahlabend begleitete — direkte Vorgeschichte zum Ungarn-Kapitel dieser Ausgabe. Magyar taucht dort als Wahlgewinner auf, hier als frisch vereidigter Ministerpräsident.
@@ -269,7 +269,7 @@ Staiy erwähnt das Magdeburg Demokratiefest der Amadeo Antonio Stiftung als Zivi
 Beide Notes zeigen den Konflikt zwischen zivilgesellschaftlichen Demokratieinitiativen und rechten Delegitimierungsstrategien. GCA #28 analysiert den strukturellen Angriff auf Stiftungsfinanzierung; Staiy's Magdeburg-Demokratiefest zeigt, was diese Initiativen konkret tun. GCA sieht den Angriff als gezielte Strategie; Staiy beschreibt die Gegenöffentlichkeit in der Praxis.
 
 ### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
-Fallstudie zum Triggermedium-Mechanismus, den Staiy auf Makroebene beschreibt: NiUS erfindet eine islamfeindliche Geschichte (Ramadan-Buffet = "Unterwerfung unter den Islam"), Influencer und AfD-Politiker verstärken — der Teufelskreis aus Angstproduktion und Klickrelevanz in Echtzeit dokumentiert.
+Ein Fall zum Kreislauf, den Staiy auf Makroebene beschreibt: NiUS verbreitet eine falsche Geschichte über ein Ramadan-Buffet, Influencer und AfD-Politiker verstärken sie.
 
 ### → [[Marcant — Ausstieg aus der rechten Szene]]
 Innenperspektive zur rechten Mediabubble: Marcant beschreibt den Sogmechanismus des TikTok-Algorithmus aus Eigenerfahrung von Felix. Sein Deradikalisierungsansatz *„Die Flut"* ist eine Praxisantwort auf den Parasozialitäts-Mechanismus, den Staiy bei Tucker Carlson & Co. analysiert — Gegencontent der denselben emotionalen Kanal nutzt, aber mit anderen Werten.

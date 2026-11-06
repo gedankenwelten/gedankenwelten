@@ -148,7 +148,7 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 
 ### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
 
-Das deutsche Produkt der hier analysierten Eigentümerstruktur in Aktion: Gotthardts NIUS macht eine Unbeteiligte zur Mord-Komplizin von Stade — der Einzelfall, der zeigt, was die Anreizstruktur milliardärsfinanzierter Empörungsmedien konkret anrichtet.
+Das deutsche Produkt der hier analysierten Eigentümerstruktur in Aktion: Gotthardts NIUS rückt nach dem Sechsfachmord von Stade eine Unbeteiligte in den Verdacht — der Einzelfall, der zeigt, was vom Eigentümer finanzierte Empörungsmedien konkret anrichten können.
 
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 

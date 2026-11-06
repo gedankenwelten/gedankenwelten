@@ -1093,7 +1093,7 @@ tags:
 |---|---|
 | **Video** | [Mordfall Stade: Das Versagen von NiUS](https://www.youtube.com/watch?v=k3b07MhUt1U) |
 | **Notiz** | [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]] |
-| **Panorama** | [[Panorama/Rechte Medien — Das Geschaeft mit der Luege\|Rechte Medien — das Geschäft mit der Lüge]] |
+| **Panorama** | [[Panorama/Rechte Medien — Das Geschaeft mit der Luege\|Rechte Medien — wenn die Falschmeldung Methode hat]] |
 | **DenkerVita** | [[DenkerVita/Mats Schoenauer]] |
 | **Schlüsselquelle** | [t-online: Frau aus Hannover im Fall Stade verwechselt](https://hannover.t-online.de/region/hannover/id_101338112/im-fall-stade-falsch-beschuldigt-frau-aus-hannover-zeigt-nius-an.html) |
 | **Transkript** | `Gedankenwelten/Transkripte/Topfvollgold_Stade_Mordfall_Stade_Transkript.txt` |

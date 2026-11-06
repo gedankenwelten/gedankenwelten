@@ -227,7 +227,7 @@ Identische Propagandaarchitektur auf verschiedenen Bühnen: NiUS erfindet den Is
 
 ### → [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 
-Staiy analysiert NiUS als strukturelles Triggermedium im Teufelskreis aus Klick-Anreizen und Angstproduktion — diese Note liefert einen konkreten Fall dazu: eine falsche Geschichte über Muslime, die sofort weiterläuft.
+Staiy beschreibt den Teufelskreis aus Klick-Anreizen und Angst, von dem BILD, Welt und NiUS profitieren — diese Note liefert einen konkreten Fall dazu: eine falsche Geschichte über Muslime, die sofort weiterläuft.
 
 ### → [[Geistesblitz/ARTE — Forschung Fake und faule Tricks]]
 

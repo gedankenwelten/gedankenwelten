@@ -157,7 +157,7 @@ Der Hass, der aus solchen Verkürzungen wächst, trifft fast immer die Falschen:
 ### → [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 Das Bild zu diesen Zahlen: Die Angst vor Migration ist dort am größten, wo die wenigsten Migranten leben, und eine Lokalzeitung, die die Herkunft *aller* Tatverdächtigen nennt, senkt sie. Dieses Panorama fragt nach der Tat, das Nachbar-Panorama nach ihrem Echo in der Wahlkabine.
 
-### → [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — Das Geschäft mit der Lüge]]
+### → [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — wenn die Falschmeldung Methode hat]]
 Wie aus Einzelfällen eine Serie wird: die Medienmaschine, die von der Frage dieses Panoramas lebt und sie selten beantwortet.
 
 ### → [[Panorama/NoAfD|NoAfD]]

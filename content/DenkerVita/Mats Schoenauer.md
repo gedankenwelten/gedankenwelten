@@ -127,7 +127,7 @@ Unabhängige Fehlerkritik an seinen Recherchen ist selten, die schärfsten Einw�
 - [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
 - [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 - [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
-- [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Panorama: Rechte Medien — das Geschäft mit der Lüge]]
+- [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Panorama: Rechte Medien — wenn die Falschmeldung Methode hat]]
 
 ---
 

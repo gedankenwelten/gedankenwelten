@@ -249,7 +249,7 @@ Die Schwesterfrage zur vierten hier: was die Maschine mit dem Denken der Einzeln
 ### → [[Panorama/Energie|Energie]]
 Das Feld, in dem die Fragen dieses Panoramas am schärfsten aufeinandertreffen: Gutachten, die zurückgehalten werden, Forschende, die sich einmischen, und Technik, die möglich ist und trotzdem unbezahlbar sein kann.
 
-### → [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — Das Geschäft mit der Lüge]]
+### → [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — wenn die Falschmeldung Methode hat]]
 Die Kehrseite der Vertrauensfrage: wie Zweifel an der Wissenschaft hergestellt und verkauft wird.
 
 ### → [[Torsten Wilholt — Wahrheit und Wissen]]

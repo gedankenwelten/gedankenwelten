@@ -171,7 +171,7 @@ Die Prüfer irren auch selbst. Das ZDF unterlag vor dem Landgericht Hamburg, wei
 | [[Zeitgeist/Annette Dittert — Dear Britain\|Annette Dittert — Dear Britain]] | Gewollt |
 | [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit\|Martin Oetting — Faschismus stoppen mit der Wahrheit]] | Gewollt |
 | [[Denker/Renee DiResta — Invisible Rulers\|Renée DiResta — Invisible Rulers]] | Gewollt |
-| [[Panorama/Rechte Medien — Das Geschaeft mit der Luege\|Rechte Medien — das Geschäft mit der Lüge]] | Gewollt |
+| [[Panorama/Rechte Medien — Das Geschaeft mit der Luege\|Rechte Medien — wenn die Falschmeldung Methode hat]] | Gewollt |
 | [[Zeitgeist/Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife\|Daniel — AfD-Propaganda zum Schulvorfall Schleife]] | Gewollt · Inszeniert |
 | [[Denker/Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege\|Dominik Finkelde — Nietzsche über Wahrheit und Lüge]] | Gewollt |
 | [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit\|Wolfgang Huber — Bonhoeffer und die Wahrheit]] | Gewollt |
@@ -183,7 +183,7 @@ Die Prüfer irren auch selbst. Das ZDF unterlag vor dem Landgericht Hamburg, wei
 
 ## Verbindungen
 
-### → [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — das Geschäft mit der Lüge]]
+### → [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — wenn die Falschmeldung Methode hat]]
 Dort die Portale, hier die Parteien. Das Panorama über NIUS und Co. fragt, woran man den Unterschied zwischen Fehler und Methode erkennt; dieses misst, wie oft gewählte Politiker Falsches sagen und wohin sie damit zielen.
 
 ### → [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]

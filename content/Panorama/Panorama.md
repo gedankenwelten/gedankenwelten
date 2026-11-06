@@ -75,5 +75,5 @@ Jedes Panorama folgt diesem Aufbau:
 | Demokratische Wertschöpfung | [[Demokratische Wertschoepfung]] | 8 |
 | Gelebte Demokratie | [[Gelebte Demokratie]] | 24 |
 | Politik — Verstehen | [[Politik - Verstehen]] | 23 |
-| Rechte Medien — das Geschäft mit der Lüge | [[Rechte Medien — Das Geschaeft mit der Luege]] | 17 |
+| Rechte Medien — wenn die Falschmeldung Methode hat | [[Rechte Medien — Das Geschaeft mit der Luege]] | 17 |
 | Sieben Zeugen, kein Konsens | [[Sieben Zeugen, kein Konsens]] | 7 |
