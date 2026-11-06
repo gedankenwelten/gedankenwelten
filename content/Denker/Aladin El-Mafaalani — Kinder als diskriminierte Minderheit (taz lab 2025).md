@@ -155,7 +155,7 @@ El-Mafaalani erwartet zwei Effekte:
 
 ### Gewichtetes Wahlrecht als Idee
 
-[▶ 61:13](https://www.youtube.com/watch?v=Iip-CLJ-DR8&t=3673) — Aus dem Publikum kommt der Vorschlag: Wahlrecht ab 16 als Lösung? El-Mafaalani rechnet nüchtern vor: Das Durchschnittsalter der Wahlberechtigten liegt bei ~55 Jahren. Wahlrecht ab 16 würde es auf ~55,2 senken. Das verändert strukturell nichts.
+[▶ 61:13](https://www.youtube.com/watch?v=Iip-CLJ-DR8&t=3673) — Aus dem Publikum kommt die Frage, ob man die Stimmen junger Menschen doppelt gewichten sollte, wenn sich die Demokratie so zu den Älteren verschiebt wie in Deutschland. El-Mafaalani findet, das packe am richtigen Punkt an: Ohne andere Gewichtung bringe es nichts. Dann rechnet er nüchtern vor: Das Durchschnittsalter der Wahlberechtigten liege bei „55,4 oder so“, mit dem Wahlrecht ab 16 wären es 55,2, „eine Nachkommastelle“. Er ist trotzdem für das Wahlrecht ab 14, damit junge Leute sich gesehen fühlen und die Parteien sie ansprechen. Am strukturellen Problem ändere das aber nichts.
 
 Sein Vorschlag: **Gewichtetes Wahlrecht nach verbleibender Lebenserwartung**. Wer mit 14 wählt, hat statistisch noch 66 Jahre vor sich — seine Stimme zählt entsprechend schwerer. Wer mit 79 wählt, hat noch 1 Jahr vor sich. Das wäre sogar fair: Jeder Mensch würde im Laufe seines Lebens durch alle Stufen dieses Gewichtungssystems gehen.
 

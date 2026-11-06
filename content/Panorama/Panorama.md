@@ -58,6 +58,9 @@ Jedes Panorama folgt diesem Aufbau:
 | Wer bestimmt, wie erinnert wird? *(wachsend)* | [[Wer bestimmt wie erinnert wird]] | ~20 |
 | Wer zahlt für den Exportüberschuss? *(wachsend)* | [[Wer zahlt fuer den Exportueberschuss]] | ~25 |
 | Was ist Wohlstand? *(wachsend)* | [[Was ist Wohlstand]] | ~46 |
+| Was fordert die Gen Z? *(wachsend)* | [[Was fordert die Gen Z]] | ~20 |
+| Wirkt Protest? *(wachsend)* | [[Wirkt Protest]] | ~15 |
+| Wo dürfen Jugendliche sein? *(wachsend)* | [[Wo duerfen Jugendliche sein]] | ~15 |
 | Wer macht die Meinung? *(wachsend)* | [[Wer macht die Meinung]] | ~44 |
 | Wie viel Überwachung verträgt die Freiheit? *(wachsend)* | [[Wie viel Ueberwachung vertraegt die Freiheit]] | ~20 |
 | Fortschritt | [[Fortschritt]] | 29 |

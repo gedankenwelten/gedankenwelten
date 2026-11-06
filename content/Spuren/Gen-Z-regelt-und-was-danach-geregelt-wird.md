@@ -17,7 +17,7 @@ spur-art: beobachtung
 review-takt: 14-tage
 eroeffnet: 2026-11-02
 endet: 2027-04-30
-aktualisiert: 2026-11-02
+aktualisiert: 2026-11-06
 description: "Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird."
 raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 ---
@@ -211,15 +211,63 @@ Einzelmeldungen und füllen die Spalte Gewalt schneller als ein Kommentar die Sp
 
 | Datum | Station | Was dort sichtbar wird |
 |---|---|---|
-| **20.11.2026** | Nächster bundesweiter Protesttag von „Gen Z regelt“ (34 Städte); am selben Tag Schulstreik gegen die Wehrpflicht und europaweite Proteste | ob in Frankfurt demonstriert werden darf; Zulauf, Verlauf, Berichterstattung; ob die Bündnisse getrennt bleiben |
+| **20.11.2026** | Nächster bundesweiter Protesttag von „Gen Z regelt“ (34 Städte); am selben Tag Schulstreik gegen die Wehrpflicht, europaweite Proteste und in Berlin ein Bildungsprotest der Bundesschüler\*innenkonferenz mit Fridays for Future Berlin, Bundeselternrat und GEW | ob in Frankfurt demonstriert werden darf; Zulauf, Verlauf, Berichterstattung; ob die Bündnisse getrennt bleiben |
 | November/Dezember | Innenministerkonferenz, Innenausschüsse in Hessen und NRW, Anfragen in den Landtagen | erste amtliche Angaben zu den Tatverdächtigen |
 | offen | Bildungsgipfel, Gespräch der Ministerin mit Jugendlichen | ob zu den Forderungen gehandelt wird |
+| Februar 2027 | Chancengipfel des Bundeselternrats, auf dem die Forderungen der BSK Thema sein sollen | ob Entscheidungsträger kommen |
 | Winter/Frühjahr 2027 | Anklagen und erste Urteile | was vor Gericht hält |
 | **30.04.2027** | **Ende der Spur** | Abschlussbilanz: die Behauptungen neben den Befunden, der Verlauf der Zählung, was die Politik getan hat. Danach `status: abgeschlossen` |
 
 ---
 
 ## Verlauf
+
+### 2026-11-06 — Zwei Aufrufe für einen Tag
+
+**Befund:** Für den 20. November gibt es jetzt zwei Aufrufe. Die Bundesschüler\*innenkonferenz (BSK) plant in
+Berlin einen Bildungsprotest, gemeinsam mit Fridays for Future Berlin und dem Bundeselternrat; auch die GEW ruft
+mit auf ([BSK, 06.11.2026](https://bsk-bund.de/bundesschuelerinnenkonferenz-plant-bildungsprotest-in-berlin-gemeinsam-fuer-eine-bessere-schule/)).
+Dazu hat sie zehn Forderungen aufgeschrieben, alle zur Schule: Gebäude sanieren, Schulsozialarbeit und
+Schulpsychologie ausbauen, Lehrkräfte entlasten, Mitbestimmung, politische Bildung, Klima im Lehrplan,
+Finanzbildung. „Gen Z regelt“ nennt die Mitteilung nicht. Sie wolle *„dem Frust einen Platz und Rahmen bieten,
+in dem friedlich und demokratisch in den Diskurs gegangen werden kann“*, weil viele Proteste diesen Rahmen nicht
+böten. In der ARD-Sendung „Mitreden!“ am 02.11. hatte Lilli Berthold von der BSK gesagt, man wolle keine
+Gegendemo; schließe sich die Initiative an, *„dann haben wir alle gewonnen“* (→
+[[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Wer regelt?|ARD Mitreden]]).
+
+Die Initiative bleibt bei ihrem eigenen Aufruf. Ihr Frankfurter Arm, „Gen Z FFM“, sagte der FAZ, man werde die
+Demonstration *„besser vorbereiten“*; Ort und Zeit würden noch mit den Versammlungsbehörden abgestimmt, ein
+Verbot werde man nicht hinnehmen. Zugleich kritisiert die Gruppe die Polizei: die *„gewaltsame Auflösung
+unserer Versammlung“*, Pfefferspray, Wasserwerfer und Tränengas. Die GEW Hessen solidarisiert sich mit dem
+Schulstreik, die Schüler Union Frankfurt und Offenbach sehen die Veranstalter in der Verantwortung
+([FAZ, 05.11.2026](https://www.faz.net/aktuell/rhein-main/frankfurt/jugendstreik-am-20-november-gen-z-will-demo-in-frankfurt-besser-vorbereiten-201655353.html)).
+Ein Verbot hat Hessens Innenminister Poseck ins Spiel gebracht; entscheiden müsste die Stadt als
+Versammlungsbehörde ([tagesschau, 03.11.2026](https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html) ·
+[FAZ, 03.11.2026](https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-prueft-verbote-vor-neuen-jugendprotesten-201647258.html)).
+
+In der Zählung (Stand 06.11., 17:56 Uhr) stehen für die Woche nach dem Protesttag 110 Meldungen. 87 davon
+tragen ein Wort aus dem Feld Gewalt, 17 eine Forderung, das sind 15 %. In den ersten beiden Tagen waren es 14 %,
+in den vier Tagen danach 18 % (8 von 44). Der Vorlauf lag bei 21 %.
+
+**Deutung:** Ob die Bündnisse getrennt bleiben, war eine der Fragen an den 20. November. Jetzt gibt es an diesem
+Tag zwei Formen von Protest: in Berlin einen mit Verbänden, bekannten Verantwortlichen und einem Katalog zur
+Schule, daneben den Jugendstreik der Initiative in 34 Städten, der weiter reicht (Kürzungen, Krieg). Die
+Zählung bewegt sich kaum. Der Anteil mit Forderung steigt nach den ersten beiden Tagen leicht und bleibt unter
+dem Vorlauf.
+
+**Gegenbeobachtung:** (1) Zwei Aufrufe sind noch keine Spaltung. Die BSK schließt die Initiative nicht aus,
+und Berthold rechnet damit, dass sie mitgeht. (2) Auch aus der Schülerschaft kommt Kritik an der Initiative:
+Die Schüler Union gibt den Veranstaltern Mitverantwortung für die Nacht. Wer die Kritik an „Gen Z regelt“ nur
+bei Innenministern sucht, übersieht sie. (3) Die Woche brachte Umfragen, nach deren Überschriften eine große
+Mehrheit Verständnis für die Proteste hat (Forsa, ARD-DeutschlandTrend). In der Zählung erscheinen sie als
+„nur Anliegen“ oder gar nicht, weil ihre Teaser keine Forderung nennen. Der Anteil von 15 % unterschätzt darum
+vermutlich, wie oft über die Jungen statt über die Nacht berichtet wurde. Die Wortlisten bleiben trotzdem, wie sie sind.
+
+**Offen für den nächsten Sweep:** SPIEGEL, 04.11.: [„Das ist über die Festgenommenen bekannt“](https://www.spiegel.de/panorama/gesellschaft/gen-z-proteste-in-frankfurt-das-ist-ueber-die-festgenommenen-bekannt-a-adcf32c2-cd6f-4488-a663-14455db87e33)
+(Faden 1) · Aktuelle Stunde im Bundestag am 04.11. ([tagesschau](https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html)) ·
+SPIEGEL, 05.11.: [„Woher kam die Gewalt? Ein Forscher hat Antworten“](https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-woher-kam-die-gewalt-ein-forscher-hat-antworten-a-ed9f79d7-1c9e-469a-9f36-b6822701ea56) ·
+Frankfurter Stadtparlament am 05./06.11. ([FAZ](https://www.faz.net/aktuell/rhein-main/frankfurt/stadtparlament-diskutiert-krawallnacht-ab-wann-ist-man-richtiger-frankfurter-201658085.html)) ·
+Forsa ([taz, 03.11.](https://taz.de/Forsa-Umfrage-zu-Jugendprotesten/!6226894/)) und ARD-DeutschlandTrend ([tagesschau, 05.11.](https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html)) im Wortlaut. Gelesen ist davon noch nichts.
 
 ### 2026-11-02, abends — Was die Initiative selbst sagt
 
@@ -310,6 +358,9 @@ Euronews.
   sich: dass sie untergehen. Darum ist die Zählung am ersten Tag
   festgelegt, und darum zählt die Spalte „nur Anliegen“ nicht mit. Wenn der Anteil mit Forderung zurückkehrt, steht das
   hier genauso.
+- **Die angenehmere Hälfte** (06.11.). Die BSK spricht eine Sprache, die uns liegt: Verbände, ein
+  Forderungskatalog, Gewaltfreiheit. Die Versuchung ist, sie zur eigentlichen Stimme der Jungen zu machen. Der
+  Jugendstreik der Initiative und die Kritik von „Gen Z FFM“ an der Polizei gehören genauso in die Spur.
 - **Ein Wort, das wir meiden.** „Gekapert“ benennt eine Absicht und eine Gruppe. Wo beides nicht belegt ist,
   schreiben wir, was geschah: Plünderung, Wurf, Festnahme, und wo und wann.
 
@@ -338,8 +389,8 @@ Die andere Hälfte dieser Spur. Die Spur zählt, ob über die Forderungen gespro
 
 ### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
 Ein Datenpunkt für den zweiten Faden: eine Sendung, die über die Forderungen reden wollte und nach einer Stunde
-merkte, dass sie wieder über die Nacht gesprochen hatte. Dazu ein Faden, den diese Spur noch nicht hat: Die
-Bundesschüler\*innenkonferenz ruft für den 20. November selbst zu einem Bildungsprotest auf.
+merkte, dass sie wieder über die Nacht gesprochen hatte. Von dort kam der Hinweis auf den Bildungsprotest der
+Bundesschüler\*innenkonferenz am 20. November (→ Verlauf, 06.11.).
 
 ### → [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 Das Panorama, gegen das Posecks Satz vom migrantischen Milieu zu lesen ist: wie groß der Abstand in der
@@ -392,6 +443,8 @@ Die erste Beobachtungs-Spur ohne These. Dieselbe Form: festhalten, was vorher ge
 - SPIEGEL, 02.11. — [Prien und das „migrantische Milieu“](https://www.spiegel.de/politik/deutschland/karin-prien-macht-migrantisches-milieu-fuer-krawalle-nach-gen-z-protest-mitverantwortlich-a-e80a8f7c-fc85-4897-96cd-04370fb353ed)
 - taz, 01.11. — [Der Sündenbock ist schnell gefunden](https://taz.de/Gen-Z-regelt-Protest/!6226457/) · [Gen Z streitet über zukünftigen Kurs](https://taz.de/Bilanz-von-Gen-Z-regelt/!6226454/) · [Kommentar: Den Erfolg nicht kapern lassen](https://taz.de/Gen-Z-Proteste/!6220992/)
 - Euronews, 01.11. — [Gewalt und Plünderungen in der Nacht](https://de.euronews.com/2026/11/01/gen-z-proteste-eskalieren-gewalt-und-plunderungen-in-der-nacht)
+- tagesschau, 03.11. — [Debatte um ein Verbot](https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html) · FAZ, 03.11. — [Frankfurt prüft Verbote](https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-prueft-verbote-vor-neuen-jugendprotesten-201647258.html) · FAZ, 05.11. — [Gen Z will nächste Demo besser vorbereiten](https://www.faz.net/aktuell/rhein-main/frankfurt/jugendstreik-am-20-november-gen-z-will-demo-in-frankfurt-besser-vorbereiten-201655353.html)
+- Bundesschüler\*innenkonferenz, 06.11. — [Bildungsprotest in Berlin, zehn Forderungen](https://bsk-bund.de/bundesschuelerinnenkonferenz-plant-bildungsprotest-in-berlin-gemeinsam-fuer-eine-bessere-schule/)
 - ORF, 01.11. — [Deutschland, Frankreich: Krawalle](https://orf.at/stories/3446722/) (zum Vergleich: Frankreich und Wien in derselben Nacht)
 
 **Zählung**

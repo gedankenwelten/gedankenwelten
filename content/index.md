@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **06.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
 > **06.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
@@ -56,21 +60,21 @@ Die Gedankenwelten (luc)
 >
 > Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
 
+> **06.11.** — [[Panorama/Wo duerfen Jugendliche sein|Wo dürfen Jugendliche sein?]]
+>
+> Ein Parkplatz vor der Krankenkasse, weil der Jugendclub nie kam. Was fehlt, wenn Jugendliche keinen Ort haben, ob ein Raum allein hilft, und wer ihn füllt, wenn ihn niemand füllt.
+
 > **06.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> **05.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **05.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> → *16 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### Spuren
+
+> **06.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
+>
+> Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
 
 > **06.11.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
 >
@@ -87,10 +91,6 @@ Die Gedankenwelten (luc)
 > **04.11.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
 > Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
-> **02.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
->
-> Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
 
 ### Geistesblitz
 

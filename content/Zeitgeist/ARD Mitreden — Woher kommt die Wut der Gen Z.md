@@ -477,7 +477,7 @@ am selben Tag bot Bildungsministerin Prien den Dialog an, die Jugendlichen hätt
 ([leinetal24, 30.10.2026](https://www.leinetal24.de/welt/schuelerproteste-von-genz-regelt-prien-bietet-dialog-an-zr-94565639.html)).
 Das Gesprächsangebot kam also vor der Nacht, nach den Bildern aus Frankreich.
 
-→ Weiter im Panorama: **[[Panorama/Was fordert die Gen Z#Mitbestimmen?|Was fordert die Gen Z? — Mitbestimmen]]**, mit Celikates, Philipp Blom über die Suffragetten und Rutger Bregman, der sagt, wer die Welt ändern will, müsse ein Gesetz durchs Parlament bringen.
+→ Weiter im Panorama: **[[Panorama/Wirkt Protest|Wirkt Protest?]]**, mit Celikates, Philipp Blom über die Suffragetten und Rutger Bregman, der sagt, wer die Welt ändern will, müsse ein Gesetz durchs Parlament bringen, und **[[Panorama/Was fordert die Gen Z#Mitbestimmen?|Was fordert die Gen Z? — Mitbestimmen]]**.
 
 ### Wirkt Beteiligung?
 
@@ -540,7 +540,7 @@ Neonazi-Szene heute trainiert ([[Zeitgeist/Marcant und Eichi — Ausstieg aus de
 Der Soziologe und Rechtsextremismusforscher Matthias Quent nennt das *funktionale Äquivalenz*: Gemeinschaft anbieten, bevor es Extremisten
 tun ([[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie#Drittes Instrument Entzauberung — und Friedmans vierte Idee|StreitClub]]).
 
-→ Noch ohne eigenes Panorama. Im Register als offene Frage: *Wo dürfen Jugendliche sein?*
+→ Weiter im Panorama: **[[Panorama/Wo duerfen Jugendliche sein|Wo dürfen Jugendliche sein?]]**, mit den Zahlen der Jugendzentren seit 1998, dem Aktionsprogramm der Neunziger und dem Jugendclub in Jena-Winzerla, mit Niclas Seydack, für den der Blick ins Handy Notwehr ist, und Pankaj Mishra.
 
 ---
 
