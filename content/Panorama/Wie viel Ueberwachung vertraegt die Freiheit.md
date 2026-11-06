@@ -78,6 +78,7 @@ Und sie betrifft nicht nur den, der sich gewöhnt. Was einige preisgeben, verrä
 - **[[Constanze Kurz — Palantir als Tueroeffner#Zweckbindung — ein Prinzip aus den Achtzigern|Constanze Kurz]]:** Viele haben die Zweckbindung vergessen, „während sie auf Instagram scrollen", und die Normalisierung der Datenauswertung sickert in den Polizeialltag.
 - **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Prädiktive Privatheit — die Universalwaffe|Rainer Mühlhoff]]:** Wenige, die freiwillig Sensibles preisgeben, trainieren das Modell, das es bei allen anderen abschätzt; regulieren müsse man darum, wofür ein trainiertes Modell weiterverwendet werden darf.
 - **[[Bundestalk — Meinungsfreiheit in Deutschland 2026#Chillingeffekt oder Streisandeffekt? Das Paradox der Meinungsverbote|Pauline Jäckels]]:** Abschreckung und Trotz wirken gleichzeitig; wo der Staat etwas unterdrückt, entstehen Codes, und manches Verbot macht das Verbotene erst attraktiv.
+- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Wer schüchtert wen ein?|Ronen Steinke]]:** Wer Post von der Kriminalpolizei bekommt oder mit sechzehn in einer Akte des Verfassungsschutzes landet, lernt die Schere im Kopf; darum sollen §188 und auch §185 fallen.
 
 > [!question] Die Reibung
 > Foucault sagt, schon die Möglichkeit des Gesehenwerdens diszipliniert. Kurz beobachtet, dass wir uns an das Gesehenwerden gewöhnt haben. *Wenn die Gewöhnung den Schrecken nimmt: Ist das eine Freiheit, die sich behauptet, oder eine Unterwerfung, die man nicht mehr spürt?*
@@ -146,6 +147,7 @@ Quer zur Debatte liegt das polizeiinterne Projekt **P20**: Es will die Polizeida
 | 05.11.2026 | [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Nachbesprechung\|NANO — Gehirnchips und Gedankenfreiheit]] | Wo kippt Schutz in Herrschaft? Die Stirn als letzte Grenze: Shaheed A/76/380, Ley 21.383 und Girardi/Emotiv, US-Gesetze (Colorado, Kalifornien, Montana, Connecticut), AI Act Art. 5, Europarat-Entwurf, UNESCO 2025; Decoder (Tang 2023, Tang & Huth 2025, Kunz 2025, Kaifosh 2025); Kritik an Neurorechten (Bublitz, Hertz) |
 
 ---
+| 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung\|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Wer schüchtert wen ein? §188-Verfahren 2022–2025, Chilling Effect (Penney 2017), Anfeindungen gegen Kommunalpolitiker (KoMo 2025, Alizade u. a. 2025), Justizministerkonferenz zu §188 |
 
 ## Verbindungen
 

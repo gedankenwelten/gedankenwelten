@@ -89,7 +89,7 @@ Eine eigene Monografie ist nicht nachweisbar; Puschners Werk sind Artikel, Komme
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Ronen Steinke]]: Puschner übernimmt Steinkes Wort von der „Hexenjagd“ und dessen Kritik am Verfassungsschutz als politischem Instrument, das Systemkritik schon dort wittert, wo das Grundgesetz Vergesellschaftung erlaubt.
+- [[DenkerVita/Ronen Steinke]]: Puschner beruft sich auf Steinke, der laut Puschner von einer „Hexenjagd“ sprach, und auf dessen Kritik am Verfassungsschutz als politischem Instrument, das Systemkritik schon dort wittert, wo das Grundgesetz Vergesellschaftung erlaubt.
 - [[DenkerVita/Arne Semsrott]]: Beide lesen den Berliner Volksentscheid als Mehrheit, die eine Minderheit blockiert. Semsrott spricht von „versteckten Mehrheiten“, Puschner von einem Demokratie-Skandal.
 - [[DenkerVita/Herfried Münkler]]: Der schärfste Widerspruch zu Puschners Wohnungspolitik. Für Münkler bringt die Vergesellschaftung keine einzige neue Wohnung und verwaltet nur den Mangel; der Fehler sei der Verkauf der kommunalen Bestände gewesen.
 - [[DenkerVita/Sascha Chaimowicz]]: Die Achse, um die sich der Presseclub dreht. Für Puschner ist der Antisemitismus-Vorwurf auch ein Mittel gegen den Wahlsieger, für Chaimowicz ist er die Sache selbst, und keiner von beiden verliert die Position des anderen aus dem Blick.

@@ -4635,6 +4635,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Jung & Naiv Folge 823: Ronen Steinke](https://www.youtube.com/watch?v=XXvx3bgszsk) |
+| **Buch** | [Ronen Steinke: *Meinungsfreiheit* (Berlin Verlag, 2026)](https://www.genialokal.de/Suche/?q=9783827015341) |
 | **Notiz** | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Steinke_Meinungsfreiheit_Transkript.txt` |
 

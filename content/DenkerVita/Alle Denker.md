@@ -602,7 +602,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Robert Musil|Robert Musil]]** — österreichischer Schriftsteller & Essayist (1880–1942), Ingenieur und Ernst-Mach-Kenner; Möglichkeitssinn vs. Wirklichkeitssinn, Einheit von Präzision und Seele, der „andere Zustand"; *Die Verwirrungen des Zöglings Törleß* (1906), *Der Mann ohne Eigenschaften* (unvollendet); vom NS verboten, im Genfer Exil verarmt gestorben
 
-**[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass
+**[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Jurist und Journalist, Leitender Redakteur der SZ, Biograf Fritz Bauers; Meinungsfreiheit, Klassenjustiz, Verfassungsschutz als Instrument der Regierung
 
 **[[DenkerVita/Robin Celikates|Robin Celikates]]** — Sozialphilosoph (FU Berlin), Kritische Theorie in der Frankfurter Linie, Sohn eines türkischen Gastarbeiters; *Kritik als soziale Praxis*, Theorie des zivilen Ungehorsams als Demokratisierung, Faschisierung als Prozess statt Etikett
 

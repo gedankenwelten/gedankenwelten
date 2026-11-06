@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
 
+> **06.11.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+>
+> Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen, und Paragrafen, die niemand mehr überblickt: Ronen Steinke über die Meinungsfreiheit, das Völkerrecht und den Streit um das Wort Genozid.
+
 > **06.11.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
 >
 > Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Pfarrer, der einst verweigerte, zieht Flecktarn an. Ein Sanitäter, der getötet hat, nennt sich Pazifist. Vier Menschen suchen, was ihr Gewissen sagt, wenn der Staat wieder fragt.
 
-> **04.11.** — [[Zeitgeist/auslandsjournal — Ausgetrumpt|Ausgetrumpt?! — Der Morgen nach den Midterms]]
->
-> Ein Ausrufezeichen und ein Fragezeichen: Am Morgen nach dem demokratischen Erdrutsch fragen drei ZDF-Korrespondenten, was eine Abwahl ist, solange keiner weiß, wer sie erntet.
-
-> → *14 weitere in* [[Zeitgeist]]
+> → *15 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

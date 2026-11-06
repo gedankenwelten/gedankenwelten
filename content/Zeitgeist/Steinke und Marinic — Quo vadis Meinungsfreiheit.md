@@ -175,7 +175,17 @@ Ihre Forderung: Mut zur Problemanalyse, kein Doom-Talk als Selbstzweck, aber auc
 
 ---
 
-<!-- WAS-SEITHER-GESCHAH -->
+## Was seither geschah
+
+*Stand: 06.11.2026*
+
+**Der Bundestag debattiert die Streichung von §188 (11.06.2026).** Der Bundestag befasste sich erstmals mit einem Gesetzentwurf der AfD-Fraktion, der die Politikerbeleidigung ersatzlos streichen will, und überwies ihn in die Ausschüsse ([Bundestag, Textarchiv](https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-stgb188-1183588)). Steinkes Kritik bekommt damit ausgerechnet von der Seite Zustimmung, vor deren Vereinnahmung des Freiheitsworts Marinić warnt.
+
+**Die Justizminister der Länder wollen den Paragrafen beschneiden (12.06.2026).** Am Tag darauf beschloss die Justizministerkonferenz auf Antrag von Sachsen und Baden-Württemberg, die Sonderregel für Spitzenpolitiker abzuschaffen und den Schutz auf die kommunale Ebene zu beschränken. Der baden-württembergische Justizminister Moritz Oppelt: „Spitzenpolitiker können und müssen eine harte Auseinandersetzung aushalten“ ([Justizministerium Baden-Württemberg, 12.06.2026](https://jum.baden-wuerttemberg.de/de/presse-service/presse/pressemitteilung/pid/justizministerkonferenz-fordert-reform-von-188-stgb)). Ein Gesetzentwurf der Bundesregierung liegt bisher nicht vor.
+
+**Die Zahlen hinter der „Verzehnfachung“ (PKS 2025).** Die Polizeiliche Kriminalstatistik zählte 2025 bei der Politikerbeleidigung 4.792 Fälle, nach 4.439 im Jahr 2024 und 2.598 im Jahr 2023. Der steile Anstieg flacht ab ([BKA, PKS 2025, Tabelle 01](https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2025/Bund/Faelle/BU-F-01-T01-Faelle_xls.xlsx?__blob=publicationFile&v=2)). Wie der Kulturstaatsminister zur selben Zeit mit drei Buchhandlungen umging, die er als „Extremisten“ bezeichnete, steht in Steinkes Gespräch bei [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Was seither geschah|Jung & Naiv]].
+
+---
 
 ## Faktencheck
 
@@ -191,9 +201,9 @@ Ihre Forderung: Mut zur Problemanalyse, kein Doom-Talk als Selbstzweck, aber auc
 > Im Oktober 2025 zeigte das Social-Media-Team des Polizeipräsidiums Heilbronn einen Kommentar an, der Friedrich Merz als „Pinocchio“ bezeichnete; insgesamt wurden 38 Kommentare geprüft. Die Staatsanwaltschaft Heilbronn stellte die ersten Verfahren ein: „Pinocchio“ sei als Machtkritik von der Meinungsfreiheit gedeckt. Das Verfahren als solches ist bestätigt; es endete mit Einstellung, nicht mit einer Verurteilung.
 > Quelle: [Euronews — Strafverfahren eingestellt: „Pinocchio“ ist zulässige Kritik an Merz](https://de.euronews.com/2026/02/24/strafverfahren-eingestellt-pinocchio-zulassige-kritik-merz)
 
-> [!success] Bestätigt — Anstieg der Ermittlungsverfahren
-> Verfahren nach §188 StGB stiegen von rund 1.400 Ermittlungsverfahren (2022, erstes Jahr nach der Ausweitung) auf 4.792 Strafverfahren (2025); diese Zahlen nennt der AfD-Gesetzentwurf zur Abschaffung des §188 (Drucksache 21/6328). Das BKA zählte 2024 10.732 Straftaten mit Hasspostings, rund 34 % mehr als 2023. Steinkes „teils Verdopplung, Verfünffachung, Verzehnfachung“ trifft diese Größenordnung.
-> Quelle: [Bundestag — Debatte über die Abschaffung von §188 StGB (2026)](https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-stgb188-1183588) · [BKA — Fallzahlen PMK 2024](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMKZahlen2024/PMKZahlen2024_node.html)
+> [!success] Bestätigt — Anstieg der Verfahren wegen Politikerbeleidigung
+> Steinke [▶ 1:35](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=95): Ermittlungsverfahren hätten sich „teilweise verdoppelt, verfünffacht, verzehnfacht“. Die Polizeiliche Kriminalstatistik zählt bei §188 StGB: 2020 432, 2022 1.404, 2023 2.598, 2024 4.439, 2025 4.792 Fälle; von 2020 bis 2025 ist das gut das Elffache. Bis April 2021 erfasste der Paragraf aber nur üble Nachrede und Verleumdung, keine Beleidigungen, ein Teil des Anstiegs folgt also aus dem Gesetz selbst. Für Hasspostings zählte das BKA 2024 10.732 Straftaten, rund 34 % mehr als im Vorjahr.
+> Quelle: [BKA, PKS 2024, Bund-Falltabellen](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/PKS2024/PKSTabellen/BundFalltabellen/bundfalltabellen.html) · [BKA, PKS 2025, Tabelle 01](https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2025/Bund/Faelle/BU-F-01-T01-Faelle_xls.xlsx?__blob=publicationFile&v=2) · [BKA — Fallzahlen PMK 2024](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMKZahlen2024/PMKZahlen2024_node.html)
 
 > [!success] Bestätigt — Nancy Fraser in Köln ausgeladen
 > Die Universität zu Köln entzog Nancy Fraser 2024 die geplante Albertus-Magnus-Gastprofessur, nachdem bekannt wurde, dass sie den offenen Brief „Philosophy for Palestine“ unterzeichnet hatte. Es ging um eine Gastprofessur, nicht um einen einzelnen Vortrag. Der Fall löste international Kritik aus, u. a. von Axel Honneth und Seyla Benhabib.
@@ -205,7 +215,10 @@ Ihre Forderung: Mut zur Problemanalyse, kein Doom-Talk als Selbstzweck, aber auc
 
 > [!success] Bestätigt, mit Einschränkung — §188 StGB
 > Öffentliche Beleidigung wird nach §185 mit bis zu zwei Jahren bestraft, gegen eine Person des politischen Lebens nach §188 mit bis zu drei. Beleidigt Merz einen Bürger öffentlich, gilt §185, im umgekehrten Fall unter Umständen §188. Steinkes Beispiel stimmt also. Einschränkung: §188 verlangt, dass die Tat mit der politischen Stellung zusammenhängt und geeignet ist, das öffentliche Wirken erheblich zu erschweren; er schützt bis hinunter zur kommunalen Ebene.
-> Quelle: [dejure.org — §188 StGB](https://dejure.org/gesetze/StGB/188.html)
+> Quelle: [§185 StGB](https://www.gesetze-im-internet.de/stgb/__185.html) · [§188 StGB](https://www.gesetze-im-internet.de/stgb/__188.html)
+
+> [!info] Korrekturnotiz (06.11.2026)
+> Am 06.11.2026 an Abschrift und Standbildern geprüft. Die erste Fassung hatte mehrere Sprecher vertauscht: Den „Durchlauferhitzer“, das „hyper-aroused“ und die „Kamikaze-Lösungen“ sagte Jagoda Marinić, nicht Ronen Steinke; den Einwand mit der „Arbeiterpartei“ machte Moderator Nilz Bokelberg; „Wir sind Bürger …“ ist Steinkes Satz. Dazu kamen der Verlag des Buchs (Berlin Verlag, nicht Piper), eine falsche Verfahrenszahl für 2025 und eine Faktencheck-Wertung zu §188, die den Sprecher verfehlte. Die Abschnitte stehen jetzt in der Reihenfolge des Gesprächs.
 
 ---
 

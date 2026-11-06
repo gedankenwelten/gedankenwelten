@@ -197,7 +197,7 @@ Die Spur verfolgt, ob das Versanden der Berichterstattung mit dem Versanden der 
 
 ### → [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
 
-Dasselbe unaussprechliche Wort, zwei Länder: Steinke zeigt, wie der deutsche Staat das Sagen von „Völkermord" juristisch riskant macht; Saragusti, wie die israelische Presse es selbst dann nicht über die Lippen bringt, als B'Tselem und PHRI es benennen. Die Zensur des Begriffs als gemeinsamer Nerv.
+Dasselbe schwere Wort, zwei Länder: Steinke betont, dass man in Deutschland „Völkermord“ selbstverständlich sagen darf, ohne auf ein Urteil aus Den Haag zu warten, und hält die juristische Schwelle trotzdem für hoch; den Druck sieht er in der Politik, etwa bei Weimers Eingreifen in die Berlinale. Saragusti zeigt, wie die israelische Presse das Wort selbst dann meidet, als B'Tselem und PHRI es benennen.
 
 ### → [[Steinke und Marinic — Quo vadis Meinungsfreiheit]]
 

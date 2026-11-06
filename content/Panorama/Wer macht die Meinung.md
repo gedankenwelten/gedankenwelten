@@ -124,11 +124,13 @@ Die überraschende Antwort der Forschung betrifft die Wirkung. Die russischen Tr
 - **[[Anat Saragusti — Zensur und Pressefreiheit in Israel#Gaza ohne Zeugen|Anat Saragusti]]:** Ein Staat kann die Berichterstattung durch Zugangssperren beschneiden, ohne einen einzigen Satz zu fälschen.
 - **[[Martin Sonneborn — Endloser Krieg#Die Kernthese Krieg als Geschäftsmodell|Martin Sonneborn]]:** Kriege werden von westlichen Medienapparaten normalisiert; die Note hält ihm Putins Großmachtlogik entgegen, die bei ihm fehlt.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#Israel, Gaza und Doppelstandards in der Berichterstattung|Torsten Heinrich]]:** Wortwahl und ungleiche Maßstäbe prägen die Berichterstattung über Israel, die Gegenlesung zu Johnson.
 - **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#Ungarn 80% der Medien unter Orbáns Kontrolle|Gilda Sahebi und Arne Semsrott]]:** Ungarn zeigt, wie ein Staat die Medien über Stiftungen, Schenkungen und das Staatsfernsehen übernimmt.
 - **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Propaganda wirkt, wo man ihr glauben will|Irina Scherbakowa]]:** Propaganda ist nur erfolgreich, wenn die Menschen ihr glauben wollen; die Formel „wir wurden angegriffen“ erspart ihnen die moralische Wahl.
+
+- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Wen erreicht das Falsche?|Ronen Steinke]]:** Desinformation sei vor allem Munition für die ohnehin Überzeugten, und ein Gesetz dagegen wäre in der Hand eines Trump oder eines Innenministers eine Waffe gegen die Opposition.
 
 </details>
 
@@ -200,6 +202,7 @@ Politisch aber formt Unterhaltung. In italienischen Gemeinden, die Berlusconis M
 | 01.11.2026 | [[Edgar Morin — Das komplexe Denken#Nachbesprechung|Edgar Morin — Das komplexe Denken]] | Neue Frage „Macht Unterhaltung dumm?“: Durante 2019 (Mediaset), Olken 2009, Rahmani 2025, Gentzkow & Shapiro 2008, Kearney & Levine 2019, Pietschnig & Voracek 2015, Peterson & Kern 1996, Morgan & Shanahan 1997 · Morin, Adorno, Moukheiber, Mausfeld, Bonhoeffer |
 
 ---
+| 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Wen erreicht das Falsche? Konzentration auf wenige (Grinberg u. a. 2019), kaum Stimmenverschiebung (Allcott & Gentzkow 2017), aber Vertrauensverlust in Wahlen (Berlinski u. a. 2021, Clayton u. a. 2021); pauschaler Alarm stärkt den Ruf nach Redeverboten (Jungherr & Rauchfleisch 2024) |
 
 ## Verbindungen
 

@@ -90,7 +90,7 @@ Seit der Wahl vom 20. September 2026 ist die Frage keine Theorie mehr. Die Linke
 - **[[Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch#Ein Jahr Schwarz-Rot: 86% Unzufriedenheit und die Frage nach dem Warum|Gilda con Arne 33]]:** Die angekündigte staatliche Wohnungsbaugesellschaft des Bundes sei gut, aber allein nicht ausreichend.
 
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]:** Am schwersten werde es bei der Wirtschaft, weil es um Eigentum geht; Genossenschaften wären ein Weg, ob die Berliner Initiative etwas bewegt, müsse man abwarten.
-- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Verfassungsschutz — Ein deutscher Sonderweg|Ronen Steinke]]:** Das Grundgesetz sagt ausdrücklich, dass vergesellschaftet werden *kann*. Wer das will, steht nicht außerhalb der Verfassung.
+- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Ein Geheimdienst für Meinungen|Ronen Steinke]]:** Das Grundgesetz sagt ausdrücklich, dass vergesellschaftet werden *kann*. Wer das will, steht nicht außerhalb der Verfassung.
 - **[[Walther Ziegler — Popper in 60 Minuten#Der Stückwerk-Ingenieur — Politik als Versuch und Irrtum|Karl Popper]]** (bei Walther Ziegler): Politik als Stückwerk, Versuch und Irrtum. Er ist das Gegenmodell zu jeder Reform, die auf einen Schlag ganze Bestände umbauen will.
 
 </details>

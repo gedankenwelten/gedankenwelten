@@ -232,7 +232,7 @@ Was „gleiche Maßstäbe“ verlangen, lässt sich prüfen, und die Prüfung f�
 - **[[Elmar Thevessen - Die neue Weltunordnung#Regieren per Notstand — und NSPM-7|Elmar Theveßen]]:** Über 220 Exekutivorders, ein Dutzend per Notstand, und Richter, die als „Terrornetzwerk“ markiert werden.
 - **[[Sternstunde Philosophie — Droht ein neuer Faschismus#Ist das Faschismus? Trump ja, Meloni (noch) nein|Eva von Redecker]]:** Trump ist Faschist, die USA sind es noch nicht, „weil Teile der Institutionen halten“.
 - **[[BissenBlaBla — Bilanz rechter Regierungen#Muster I — Institutioneller Abbau als systemisches Phänomen|BissenBlaBla]]:** Rechte Regierungen greifen zuerst die Kontrollinstanzen an — Justiz, Presse, Verfassungsgericht.
-- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Verfassungsschutz — Ein deutscher Sonderweg|Ronen Steinke]]:** Ein Inlandsgeheimdienst, der legale Parteien beobachtet, sei ein deutscher Sonderweg — und trotzdem ist er für ein Verbotsverfahren, damit die Richter entscheiden.
+- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Was ein Parteiverbot bewirkt|Ronen Steinke]]:** Er misstraut dem Verfassungsschutz und will trotzdem das Verbotsverfahren, weil dort Richter entscheiden; ein Verbot einzelner Landesverbände hält er für den wahrscheinlichsten Ausgang.
 - **[[Bundestalk — Meinungsfreiheit in Deutschland 2026#Das Voltaire-Paradox Meinungsfreiheit auch für die eigenen Feinde|Christian Rath]]:** Wer Grundrechte nur den Richtigen gewährt, verspielt den Unterschied zur Autokratie, und die nächste Regierung erbt die Präzedenzfälle.
 - **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Das Verbotsverfahren — was es wirklich heißt|Kevin Kühnert]]:** Ein Verbot ist keine Sache „Partei gegen Partei“, sondern eine Prüfung des Verfassungsgerichts mit hohen Hürden — und keine Erlösung.
 - **[[Moini und Chiofalo — GFF AfD-Verbotsgutachten#Ergebnisoffenheit als moralische Forderung|Bijan Moini]]:** Das Verfahren ist nur legitim, wenn es auch Skeptiker überzeugt; was politisch empört, ist juristisch noch kein Beleg.
@@ -283,7 +283,7 @@ Was die Bereitschaft der Bürger untergräbt, sich einzubringen, hat eine zweite
 - **[[Immanuel Kant — Was ist Aufklärung?#Öffentlicher vs. privater Vernunftgebrauch — Kants Institutionenlösung|Immanuel Kant]]:** Unmündigkeit ist ein Mangel an Mut, nicht an Verstand, und der öffentliche Gebrauch der Vernunft muss jederzeit frei sein.
 - **[[Chantal Mouffe — Das Politische und die Politik#5. Von Antagonismus zu Agonismus — die zentrale Transformation|Chantal Mouffe]]:** Was Demokratie braucht, ist nicht Konsens, sondern Gegner statt Feinde.
 - **[[Poerksen und Goepel — Debatte neu denken#Fünf Mythen der Debattenkultur — Techniken der Abkühlung|Bernhard Pörksen und Maja Göpel]]:** Robuste Zivilität — den Ball spielen, nicht den Spieler; dazu Medienbildung nach finnischem Vorbild.
-- **[[Steinke und Marinic — Quo vadis Meinungsfreiheit#Das Debattenproblem Deutschland kann nicht streiten|Jagoda Marinić]]:** Deutschland ist nicht erschlafft, sondern überreizt, und es fehlt an Lösungslust.
+- **[[Steinke und Marinic — Quo vadis Meinungsfreiheit#Der Durchlauferhitzer — Algorithmus als Demokratiekiller|Jagoda Marinić]]:** Deutschland ist nicht erschlafft, sondern überreizt, und es fehlt an Lösungslust.
 - **[[Cathryn Cluever Ashbrook - Der amerikanische Weckruf#Was Europa jetzt schuldet — sich selbst|Cathryn Clüver Ashbrook]]:** Sportvereine, Schützenvereine, Gemeindefeste — die Vita activa, die man nicht preisgeben darf.
 - **[[Roberto Simanowski — Sprachmaschinen#Die Dissensmaschine|Roberto Simanowski]]:** Urteilsfähige Bürger brauchen Maschinen, die widersprechen, statt ihnen zu schmeicheln; der Staat könnte von KI-Anbietern Vielfalt der Perspektiven verlangen wie vom öffentlich-rechtlichen Rundfunk.
 
@@ -348,6 +348,7 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 | 23.10.2026 | [[Studio Bonn — Extremer Reichtum#Nachbesprechung|Studio Bonn — Extremer Reichtum]] | Was braucht Demokratie von ihren Bürgern? Ungleichheit, Vertrauen und Engagement (Uslaner & Brown 2005, Barone & Mocetti 2016, Solt 2008, Lancee & van de Werfhorst 2012), Pfeffers Vermögensstudie (Schechtl et al. 2026); Pfeffer als Stimme |
 
 ---
+| 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Was ein Parteiverbot bewirkt: Teilverbot nach §46 BVerfGG, NPD 2003/2017, Vlaams Blok, Refah, Batasuna (Arenas 2021), Wilders-Anklage (van Spanje & de Vreese 2015) |
 
 ## Verbindungen
 
