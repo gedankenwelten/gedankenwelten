@@ -31,8 +31,8 @@ tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, deutschland]
 ## Öffentliche Arbeit, Forschung & Engagement
 
 **Die Liebes-Studien (mit Semir Zeki, UCL)** — die meistzitierten Arbeiten, obwohl visuelle Wahrnehmung sein eigentliches Feld ist:
-- *The Neural Basis of Romantic Love* (Bartels & Zeki 2000), **NeuroReport** 11(17): 3829–3834 — [doi:10.1097/00001756-200011270-00046](https://doi.org/10.1097/00001756-200011270-00046). Der erste fMRT-Hirnscan-Versuch zur romantischen Liebe: Verliebte wurden beim Anblick des Partners gescannt.
-- *The neural correlates of maternal and romantic love* (Bartels & Zeki 2004), **NeuroImage** 21(3): 1155–1166 — [doi:10.1016/j.neuroimage.2003.11.003](https://doi.org/10.1016/j.neuroimage.2003.11.003). Vergleich von romantischer und mütterlicher Liebe: überlappende Belohnungs- und Bindungsareale, dazu eine gemeinsame Deaktivierung von Regionen, die mit sozialem Urteil und negativen Emotionen verbunden sind.
+- *The Neural Basis of Romantic Love* (Bartels & Zeki 2000), **NeuroReport** 11(17): 3829–3834 — [Bartels & Zeki 2000](https://doi.org/10.1097/00001756-200011270-00046). Der erste fMRT-Hirnscan-Versuch zur romantischen Liebe: Verliebte wurden beim Anblick des Partners gescannt.
+- *The neural correlates of maternal and romantic love* (Bartels & Zeki 2004), **NeuroImage** 21(3): 1155–1166 — [Bartels & Zeki 2004](https://doi.org/10.1016/j.neuroimage.2003.11.003). Vergleich von romantischer und mütterlicher Liebe: überlappende Belohnungs- und Bindungsareale, dazu eine gemeinsame Deaktivierung von Regionen, die mit sozialem Urteil und negativen Emotionen verbunden sind.
 
 **Visuelle Neurowissenschaft** (heutiger Schwerpunkt am Tübinger Lab):
 - Bewegungssehen und die Integration von Bewegungssignalen.

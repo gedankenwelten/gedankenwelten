@@ -115,7 +115,7 @@ Tony Schwartz, der das Buch schrieb, sagte 2016, er habe „lipstick on a pig“
 
 Den letzten Schritt macht keine Kindheit. Siebenundsiebzig Millionen Menschen haben ihn 2024 gewählt, und viele wussten genau, wen. Die Soziologin Arlie Hochschild hat in Pikeville, Kentucky, einem der ärmsten Bezirke der USA, zehn Jahre lang zugehört. Ein Unterstützer sagte ihr: „We're not under some illusion this is a perfect Christian man. No, no. But he's *our* bully“ ([[Zeitgeist/Arlie Hochschild — Stolen Pride#Der Bully tritt in die Deep Story|Hochschild]]). Für sie ist er eine Schutzmacht, einer, der für Menschen zurückschlägt, die sich beschämt fühlen. Seine Härte ist ihr Versprechen.
 
-Die Forschung ergänzt eine nüchterne Beobachtung. Mehr als 1.800 Fachleute schätzten 157 Spitzenpolitiker ein; Autokraten wie Trump lagen auf allen drei „dunklen“ Zügen höher als andere, auch als rechte Politiker, die keine Autokraten sind ([Nai & Toros 2020, doi:10.1080/2474736x.2019.1707697](https://doi.org/10.1080/2474736x.2019.1707697)). Das sind Urteile von außen, keine Tests an der Person. Sie sagen etwas über die Auslese: Was im Alltag abstößt, kann im Wahlkampf tragen. Kein Internat hat Trump gewählt.
+Die Forschung ergänzt eine nüchterne Beobachtung. Mehr als 1.800 Fachleute schätzten 157 Spitzenpolitiker ein; Autokraten wie Trump lagen auf allen drei „dunklen“ Zügen höher als andere, auch als rechte Politiker, die keine Autokraten sind ([Nai & Toros 2020](https://doi.org/10.1080/2474736x.2019.1707697)). Das sind Urteile von außen, keine Tests an der Person. Sie sagen etwas über die Auslese: Was im Alltag abstößt, kann im Wahlkampf tragen. Kein Internat hat Trump gewählt.
 
 ### Was er mit der Macht macht
 

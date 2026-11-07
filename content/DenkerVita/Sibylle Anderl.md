@@ -66,8 +66,8 @@ Wo sie lebt, ist nicht eindeutig. Die Wikipedia nennt Frankfurt am Main, die Leo
 - Anderl S. (2014): *Shocks in the interstellar medium.* Dissertation, Universität Bonn. [Volltext](https://d-nb.info/1047622688/34)
 - Anderl S., Guillet V., Pineau des Forêts G., Flower D. R. (2013): *Shocks in dense clouds – IV. Effects of grain-grain processing on molecular line emission.* Astronomy & Astrophysics 556, A69. Kapitel 5 der Dissertation
 - Anderl S. (2015): *Astronomy and Astrophysics in the Philosophy of Science.* [arXiv:1510.03284](https://doi.org/10.48550/arxiv.1510.03284), ein Überblick, warum die Wissenschaftsphilosophie die Astrophysik lange übersehen hat
-- Anderl S. (2018): *Simplicity and Simplification in Astrophysical Modeling.* Philosophy of Science 85(5). [doi:10.1086/699696](https://doi.org/10.1086/699696)
-- Anderl S. (2019): *Implicit Changes of Model Uses in Astrophysics, Illustrated on the Paris-Durham Shock Model.* NTM. [doi:10.1007/s00048-019-00225-8](https://doi.org/10.1007/s00048-019-00225-8)
+- Anderl S. (2018): *Simplicity and Simplification in Astrophysical Modeling.* Philosophy of Science 85(5). [Anderl 2018](https://doi.org/10.1086/699696)
+- Anderl S. (2019): *Implicit Changes of Model Uses in Astrophysics, Illustrated on the Paris-Durham Shock Model.* NTM. [Anderl 2019](https://doi.org/10.1007/s00048-019-00225-8)
 
 ---
 

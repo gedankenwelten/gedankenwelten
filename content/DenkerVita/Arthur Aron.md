@@ -35,7 +35,7 @@ Seit 1994 ist Aron an der Stony Brook University tätig, wo er bis heute (Stand 
 | Studie | Jahr | Worum es geht |
 |---|---|---|
 | **The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings** (Aron, Melinat, Aron, Vallone, Bator) — *Personality and Social Psychology Bulletin* 23(4) | 1997 | Die Ursprungsstudie der „36 Fragen". Fremde durchlaufen in 45 Minuten ein eskalierendes Set wechselseitiger, immer persönlicherer Fragen plus Blickkontakt. Ergebnis: deutlich größere empfundene Nähe als bei vergleichbarem Smalltalk. |
-| **Reward, Motivation, and Emotion Systems Associated with Early-Stage Intense Romantic Love** (Aron, Fisher, Mashek, Strong, Li, Brown) — *Journal of Neurophysiology* 94: 327–337, [DOI 10.1152/jn.00838.2004](https://doi.org/10.1152/jn.00838.2004) | 2005 | fMRT-Studie mit 17 frisch und intensiv Verliebten (mit Helen Fisher & Lucy Brown). Befund: Romantische Liebe aktiviert vor allem dopaminerge Belohnungspfade (u.a. ventrales Tegmentum) — Liebe ist primär ein **Motivationssystem**, kein bloßes Gefühl, und vom Sexualtrieb unterscheidbar. |
+| **Reward, Motivation, and Emotion Systems Associated with Early-Stage Intense Romantic Love** (Aron, Fisher, Mashek, Strong, Li, Brown) — *Journal of Neurophysiology* 94: 327–337, [Aron u. a. 2005](https://doi.org/10.1152/jn.00838.2004) | 2005 | fMRT-Studie mit 17 frisch und intensiv Verliebten (mit Helen Fisher & Lucy Brown). Befund: Romantische Liebe aktiviert vor allem dopaminerge Belohnungspfade (u.a. ventrales Tegmentum) — Liebe ist primär ein **Motivationssystem**, kein bloßes Gefühl, und vom Sexualtrieb unterscheidbar. |
 
 ### Buch
 

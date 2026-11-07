@@ -55,18 +55,18 @@ Was danach kommt, ist auch Institutionenbau. 2014 stößt er den Forschungsschwe
 
 *Wichtige Aufsätze (mit DOI):*
 
-- **Design Rules: Industrial Research and Epistemic Merit** — *Philosophy of Science* 73 (1), 2006 — [doi:10.1086/510175](https://doi.org/10.1086/510175)
-- **Bias and Values in Scientific Research** — *Studies in History and Philosophy of Science* 40 (1), 2009 — [doi:10.1016/j.shpsa.2008.12.005](https://doi.org/10.1016/j.shpsa.2008.12.005) · deutsche Fassung: *Einseitigkeiten und Werte in der naturwissenschaftlichen Forschung*, in Schurz/Carrier (Hg.): *Werte in den Wissenschaften* (Suhrkamp 2013) — [genialokal](https://www.genialokal.de/Suche/?q=werte+in+den+wissenschaften+schurz+carrier)
+- **Design Rules: Industrial Research and Epistemic Merit** — *Philosophy of Science* 73 (1), 2006 — [Wilholt 2006](https://doi.org/10.1086/510175)
+- **Bias and Values in Scientific Research** — *Studies in History and Philosophy of Science* 40 (1), 2009 — [Wilholt 2009](https://doi.org/10.1016/j.shpsa.2008.12.005) · deutsche Fassung: *Einseitigkeiten und Werte in der naturwissenschaftlichen Forschung*, in Schurz/Carrier (Hg.): *Werte in den Wissenschaften* (Suhrkamp 2013) — [genialokal](https://www.genialokal.de/Suche/?q=werte+in+den+wissenschaften+schurz+carrier)
 - **Die Objektivität der Wissenschaften als soziales Phänomen** — *Analyse und Kritik* 31 (2), 2009 — [Open Access (PDF)](https://www.analyse-und-kritik.net/Dateien/56c1ae083868e_ak_wilholt_2009.pdf)
-- **Scientific Freedom: Its Grounds and Their Limitations** — *Studies in History and Philosophy of Science* 41 (2), 2010 — [doi:10.1016/j.shpsa.2010.03.003](https://doi.org/10.1016/j.shpsa.2010.03.003)
-- **Epistemic Trust in Science** — *The British Journal for the Philosophy of Science* 64 (2), 2013 — [doi:10.1093/bjps/axs007](https://doi.org/10.1093/bjps/axs007)
-- **Collaborative Research, Scientific Communities, and the Social Diffusion of Trustworthiness** — in Brady/Fricker (Hg.): *The Epistemic Life of Groups*, Oxford 2016 — [doi:10.1093/acprof:oso/9780198759645.003.0012](https://doi.org/10.1093/acprof:oso/9780198759645.003.0012)
+- **Scientific Freedom: Its Grounds and Their Limitations** — *Studies in History and Philosophy of Science* 41 (2), 2010 — [Wilholt 2010](https://doi.org/10.1016/j.shpsa.2010.03.003)
+- **Epistemic Trust in Science** — *The British Journal for the Philosophy of Science* 64 (2), 2013 — [Wilholt 2012](https://doi.org/10.1093/bjps/axs007)
+- **Collaborative Research, Scientific Communities, and the Social Diffusion of Trustworthiness** — in Brady/Fricker (Hg.): *The Epistemic Life of Groups*, Oxford 2016 — [Wilholt 2016](https://doi.org/10.1093/acprof:oso/9780198759645.003.0012)
 - **On Knowing What One Does Not Know: Ignorance and the Aims of Research** — in Kourany/Carrier (Hg.): *Science and the Production of Ignorance*, MIT Press 2020
-- **The New Demarcation Problem** (mit Bennett Holman) — *Studies in History and Philosophy of Science* 91, 2022 — [doi:10.1016/j.shpsa.2021.11.011](https://doi.org/10.1016/j.shpsa.2021.11.011)
-- **Epistemic Interests and the Objectivity of Inquiry** — *Studies in History and Philosophy of Science* 91, 2022 — [doi:10.1016/j.shpsa.2021.11.009](https://doi.org/10.1016/j.shpsa.2021.11.009)
-- **Harmful Research and the Paradox of Credibility** — *International Studies in the Philosophy of Science* 36 (3), 2023 — [doi:10.1080/02698595.2023.2273606](https://doi.org/10.1080/02698595.2023.2273606)
-- **Degrees of Value-Ladenness and Signal-to-Noise Ratio** — *Philosophy of Science* 92 (5), 2025 — [doi:10.1017/psa.2025.10142](https://doi.org/10.1017/psa.2025.10142)
-- **Is Trust in Science a Good Thing?** — *European Journal for Philosophy of Science* 16, 2026 — [doi:10.1007/s13194-026-00781-6](https://doi.org/10.1007/s13194-026-00781-6)
+- **The New Demarcation Problem** (mit Bennett Holman) — *Studies in History and Philosophy of Science* 91, 2022 — [Holman & Wilholt 2021](https://doi.org/10.1016/j.shpsa.2021.11.011)
+- **Epistemic Interests and the Objectivity of Inquiry** — *Studies in History and Philosophy of Science* 91, 2022 — [Wilholt 2021](https://doi.org/10.1016/j.shpsa.2021.11.009)
+- **Harmful Research and the Paradox of Credibility** — *International Studies in the Philosophy of Science* 36 (3), 2023 — [Wilholt 2023](https://doi.org/10.1080/02698595.2023.2273606)
+- **Degrees of Value-Ladenness and Signal-to-Noise Ratio** — *Philosophy of Science* 92 (5), 2025 — [Wilholt 2025](https://doi.org/10.1017/psa.2025.10142)
+- **Is Trust in Science a Good Thing?** — *European Journal for Philosophy of Science* 16, 2026 — [Wilholt 2026](https://doi.org/10.1007/s13194-026-00781-6)
 
 Vollständige Liste auf der [Institutsseite](https://www.philos.uni-hannover.de/wilholt).
 

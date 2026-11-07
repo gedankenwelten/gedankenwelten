@@ -46,10 +46,10 @@ tags: [denker-vita, ethik, philosophie, ki, technologie, neurowissenschaft, date
 *(Quelle der Buchliste: [TUM, Publikationsliste](https://www.pm.mh.tum.de/en/ethics/institute/team/marcello-ienca/). Die Rollen — Autor oder Herausgeber — nennt die Liste nicht; die Mitautoren stehen dort mit Initialen, die Vornamen sind aus seinen Aufsatzlisten ergänzt, wo sie sich fanden.)*
 
 **Aufsätze (Auswahl):**
-- mit Roberto Andorno: „Towards new human rights in the age of neuroscience and neurotechnology“, *Life Sciences, Society and Policy* 13 (2017) — [doi:10.1186/s40504-017-0050-1](https://doi.org/10.1186/s40504-017-0050-1)
-- mit Pim Haselager und E. Emanuel: „Brain leaks and consumer neurotechnology“, *Nature Biotechnology* 36 (2018) — [doi:10.1038/nbt.4240](https://doi.org/10.1038/nbt.4240)
-- „On Neurorights“, *Frontiers in Human Neuroscience* 15 (2021) — [doi:10.3389/fnhum.2021.701258](https://doi.org/10.3389/fnhum.2021.701258)
-- mit Patrick Magee und Nita A. Farahany: „Beyond neural data: Cognitive biometrics and mental privacy“, *Neuron* 112 (2024) — [doi:10.1016/j.neuron.2024.09.004](https://doi.org/10.1016/j.neuron.2024.09.004)
+- mit Roberto Andorno: „Towards new human rights in the age of neuroscience and neurotechnology“, *Life Sciences, Society and Policy* 13 (2017) — [Ienca & Andorno 2017](https://doi.org/10.1186/s40504-017-0050-1)
+- mit Pim Haselager und E. Emanuel: „Brain leaks and consumer neurotechnology“, *Nature Biotechnology* 36 (2018) — [Ienca u. a. 2018](https://doi.org/10.1038/nbt.4240)
+- „On Neurorights“, *Frontiers in Human Neuroscience* 15 (2021) — [Ienca 2021](https://doi.org/10.3389/fnhum.2021.701258)
+- mit Patrick Magee und Nita A. Farahany: „Beyond neural data: Cognitive biometrics and mental privacy“, *Neuron* 112 (2024) — [Magee u. a. 2024](https://doi.org/10.1016/j.neuron.2024.09.004)
 - mit E. Vayena: „AI ethics guidelines: European and global perspectives“, Europarat, CAHAI(2020)07-fin — [rm.coe.int](https://rm.coe.int/cahai-2020-07-fin-en-report-ienca-vayena/16809eccac)
 
 ## Empfehlenswerte Videos & Vorträge

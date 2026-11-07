@@ -53,7 +53,7 @@ raetsel: "Erst die Schultoiletten ansehen. Dann von Zukunft reden."
 | [Wütende Jungs](https://www.genialokal.de/Suche/?q=Kolleck+W%C3%BCtende+Jungs) | 2027 | Gutkind, angekündigt für den 28.01.2027. *Warum wir junge Männer verlieren und wie wir sie zurückholen* — wie aus Kränkung und Einsamkeit Wut wird, und was Familie, Schule und Prävention vorher tun können. |
 
 **Fachaufsatz:**
-- Kolleck, N. & Schuster, J. (2025): *Verschwörungserzählungen und soziale Ungleichheit. Ein Strukturgleichungsmodell zur Untersuchung der Demokratiezufriedenheit junger Menschen in Deutschland.* DDS – Die Deutsche Schule. [doi:10.31244/dds.2025.02.04](https://doi.org/10.31244/dds.2025.02.04) — Befragung von 3.244 jungen Menschen: finanzielle Unsicherheit, Migrationshintergrund und peripheres Wohnen hängen teils mit der Zustimmung zu Verschwörungserzählungen zusammen (Einzelstudie, Querschnitt).
+- Kolleck, N. & Schuster, J. (2025): *Verschwörungserzählungen und soziale Ungleichheit. Ein Strukturgleichungsmodell zur Untersuchung der Demokratiezufriedenheit junger Menschen in Deutschland.* DDS – Die Deutsche Schule. [Kolleck & Schuster 2025](https://doi.org/10.31244/dds.2025.02.04) — Befragung von 3.244 jungen Menschen: finanzielle Unsicherheit, Migrationshintergrund und peripheres Wohnen hängen teils mit der Zustimmung zu Verschwörungserzählungen zusammen (Einzelstudie, Querschnitt).
 
 *(Buchlinks führen auf die genialokal-Suche — lokaler Buchhandel statt Amazon.)*
 

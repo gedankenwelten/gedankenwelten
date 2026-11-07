@@ -70,8 +70,8 @@ Ihre ältere Kurzbiografie bei der Academia Europaea (undatiert) nennt außerdem
 *Weitere Herausgaben: Routledge Handbook of Genomics, Health and Society (2018, mit Gibbon, Hilgartner, Lamoreaux), Investigating Interdisciplinary Collaboration (2016, mit Frickel und Albert), Genetics as Social Practice (2015, mit Schicktanz und Werner-Felmayer). Titel, Jahre und ISBN geprüft an DNB, Crossref (Verlagsdaten) und [ihrer Bücherseite](https://barbaraprainsack.org/books/) / [Bücher auf Deutsch](https://barbaraprainsack.org/bucher-auf-deutsch/).*
 
 **Aufsätze zum Weiterlesen**
-- Weiss, E. & Prainsack, B. (2026): *When solidarity turns bad: Misappropriated and exclusive solidarity as problematic forms of solidarity in healthcare.* Social Science & Medicine 403, 119417. [doi:10.1016/j.socscimed.2026.119417](https://doi.org/10.1016/j.socscimed.2026.119417)
-- Koesten, L. et al., Prainsack, B. (2026): *PLUTO: A Public Value Assessment Tool.* IEEE Computer Graphics and Applications 46(2). [doi:10.1109/MCG.2025.3649342](https://doi.org/10.1109/MCG.2025.3649342)
+- Weiss, E. & Prainsack, B. (2026): *When solidarity turns bad: Misappropriated and exclusive solidarity as problematic forms of solidarity in healthcare.* Social Science & Medicine 403, 119417. [Weiss & Prainsack 2026](https://doi.org/10.1016/j.socscimed.2026.119417)
+- Koesten, L. et al., Prainsack, B. (2026): *PLUTO: A Public Value Assessment Tool.* IEEE Computer Graphics and Applications 46(2). [Koesten u. a. 2026](https://doi.org/10.1109/MCG.2025.3649342)
 
 ## Empfehlenswerte Videos & Vorträge
 

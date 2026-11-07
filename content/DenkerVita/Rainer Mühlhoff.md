@@ -38,18 +38,18 @@ raetsel: "Als Kind lötete er Platinen. Später fragte er, wem der Strom gehört
 |---|---|---|
 | [Immersive Macht. Affekttheorie nach Spinoza und Foucault](https://www.genialokal.de/Suche/?q=9783593508344) | Campus, 2018 · 978-3-593-50834-4 | Die Dissertation: Macht, die nicht von außen zwingt, sondern über Affekte einbindet |
 | [Affekt Macht Netz. Auf dem Weg zu einer Sozialtheorie der Digitalen Gesellschaft](https://www.genialokal.de/Suche/?q=9783837644395) | transcript, 2019 · 978-3-8376-4439-5 | Sammelband, hg. mit Anja Breljak und Jan Slaby |
-| [Die Macht der Daten. Warum künstliche Intelligenz eine Frage der Ethik ist](https://www.genialokal.de/Suche/?q=9783847115526) | V&R unipress / Universitätsverlag Osnabrück, 2023 · 978-3-8471-1552-6 | Erweiterte Fassung seiner Osnabrücker Universitätsrede vom 19.05.2022; Open Access über [doi:10.14220/9783737015523](https://doi.org/10.14220/9783737015523) |
-| [The Ethics of AI. Power, Critique, Responsibility](https://www.genialokal.de/Suche/?q=9781529249248) | Bristol University Press, 2025 · 978-1-5292-4924-8 | Englischsprachige Ethik der KI aus Machtperspektive, mit dem „Manifesto for a Power-Aware Ethics of AI“; Open Access über [doi:10.51952/9781529249262](https://doi.org/10.51952/9781529249262) |
+| [Die Macht der Daten. Warum künstliche Intelligenz eine Frage der Ethik ist](https://www.genialokal.de/Suche/?q=9783847115526) | V&R unipress / Universitätsverlag Osnabrück, 2023 · 978-3-8471-1552-6 | Erweiterte Fassung seiner Osnabrücker Universitätsrede vom 19.05.2022; Open Access über [Mühlhoff 2023](https://doi.org/10.14220/9783737015523) |
+| [The Ethics of AI. Power, Critique, Responsibility](https://www.genialokal.de/Suche/?q=9781529249248) | Bristol University Press, 2025 · 978-1-5292-4924-8 | Englischsprachige Ethik der KI aus Machtperspektive, mit dem „Manifesto for a Power-Aware Ethics of AI“; Open Access über [Mühlhoff 2025](https://doi.org/10.51952/9781529249262) |
 | [Künstliche Intelligenz und der neue Faschismus](https://www.genialokal.de/Suche/?q=9783150147894) | Reclam, 16.07.2025 · 978-3-15-014666-8; erweiterte Neuauflage 12.06.2026 · 978-3-15-014789-4 | Wie Tech-Industrie, Tech-Ideologien (Transhumanismus, Longtermismus, „Eugenik 2.0“) und neue Rechte zusammenwirken. Preis „Das politische Buch 2026“; Hörbuch bei cc-live; französisch bei Éditions Agone (2026), englisch als *AI and the New Fascism* bei Pluto Press (angekündigt für November 2026, 978-0-7453-5296-1), türkisch bei Zoe Kitap angekündigt |
 | [Der KI-Staat](https://www.genialokal.de/Suche/?q=9783518128718) | edition suhrkamp, angekündigt für März 2027 · 978-3-518-12871-8 | Mit Hannah Ruschemeier |
 | [KI und Krise. Technologische Macht als Gefahr für liberale Demokratien](https://www.genialokal.de/Suche/?q=9783837684728) | transcript, angekündigt für 2027 · 978-3-8376-8472-8 | Sammelband, hg. mit Paul Schütze |
 
 **Aufsätze (Auswahl):**
-- „Human-Aided Artificial Intelligence: Or, How to Run Large Computations in Human Brains?“, *New Media & Society* 22 (2020) — [doi:10.1177/1461444819885334](https://doi.org/10.1177/1461444819885334)
-- „Predictive Privacy: Towards an Applied Ethics of Data Analytics“, *Ethics and Information Technology* 23 (2021) — [doi:10.1007/s10676-021-09606-x](https://doi.org/10.1007/s10676-021-09606-x)
-- „Predictive Privacy: Collective Data Protection in the Context of Artificial Intelligence and Big Data“, *Big Data & Society* (2023) — [doi:10.1177/20539517231166886](https://doi.org/10.1177/20539517231166886)
-- „Trump und der neue Faschismus“, *Verfassungsblog* (09.02.2025) — [doi:10.59704/854f51e58c05b98e](https://doi.org/10.59704/854f51e58c05b98e)
-- mit Hannah Ruschemeier: „Updating Purpose Limitation for AI: A Normative Approach from Law and Philosophy“, *International Journal of Law and Information Technology* (2025) — [doi:10.1093/ijlit/eaaf003](https://doi.org/10.1093/ijlit/eaaf003)
+- „Human-Aided Artificial Intelligence: Or, How to Run Large Computations in Human Brains?“, *New Media & Society* 22 (2020) — [Mühlhoff 2019](https://doi.org/10.1177/1461444819885334)
+- „Predictive Privacy: Towards an Applied Ethics of Data Analytics“, *Ethics and Information Technology* 23 (2021) — [Mühlhoff 2021](https://doi.org/10.1007/s10676-021-09606-x)
+- „Predictive Privacy: Collective Data Protection in the Context of Artificial Intelligence and Big Data“, *Big Data & Society* (2023) — [Mühlhoff 2023](https://doi.org/10.1177/20539517231166886)
+- „Trump und der neue Faschismus“, *Verfassungsblog* (09.02.2025) — [Mühlhoff 2025](https://doi.org/10.59704/854f51e58c05b98e)
+- mit Hannah Ruschemeier: „Updating Purpose Limitation for AI: A Normative Approach from Law and Philosophy“, *International Journal of Law and Information Technology* (2025) — [Mühlhoff & Ruschemeier 2025](https://doi.org/10.1093/ijlit/eaaf003)
 
 *(Quellen: [DNB-Katalog](https://portal.dnb.de/opac.htm?method=simpleSearch&query=Rainer+M%C3%BChlhoff) · [Publikationsliste](https://rainermuehlhoff.de/en/publications.html) · [Buchseite](https://rainermuehlhoff.de/KI-und-der-neue-Faschismus-Reclam-Buch/))*
 

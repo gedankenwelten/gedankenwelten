@@ -41,12 +41,12 @@ Aus der Grundlagenforschung wurden Anwendungen, die er, wie er betont, nie gesuc
 | Titel | Jahr | Beschreibung |
 |---|---|---|
 | [Introduction to Reticular Chemistry](https://www.genialokal.de/Suche/?q=yaghi+reticular+chemistry) | 2019 | Lehrbuch (mit Markus Kalmutzki und Christian Diercks) über MOFs und COFs |
-| Selective binding and removal of guests in a microporous MOF ([doi:10.1038/378703a0](https://doi.org/10.1038/378703a0)) | 1995 | Der Anfang der MOFs, *Nature* |
-| Design and synthesis of an exceptionally stable and highly porous MOF ([doi:10.1038/46248](https://doi.org/10.1038/46248)) | 1999 | MOF-5, *Nature* |
-| Reticular synthesis and the design of new materials ([doi:10.1038/nature01650](https://doi.org/10.1038/nature01650)) | 2003 | Programmschrift der retikulären Chemie, *Nature* |
-| Porous, Crystalline, Covalent Organic Frameworks ([doi:10.1126/science.1120411](https://doi.org/10.1126/science.1120411)) | 2005 | Die ersten COFs, *Science* |
-| Water harvesting from air with MOFs powered by natural sunlight ([doi:10.1126/science.aam8743](https://doi.org/10.1126/science.aam8743)) | 2017 | Der Sonnen-Wasserernter, *Science* |
-| Rapid Cycling and Exceptional Yield in a MOF Water Harvester ([doi:10.1021/acscentsci.9b00745](https://doi.org/10.1021/acscentsci.9b00745)) | 2019 | Feldtest in der Mojave-Wüste, *ACS Central Science* |
+| Selective binding and removal of guests in a microporous MOF ([Yaghi u. a. 1995](https://doi.org/10.1038/378703a0)) | 1995 | Der Anfang der MOFs, *Nature* |
+| Design and synthesis of an exceptionally stable and highly porous MOF ([Li u. a. 1999](https://doi.org/10.1038/46248)) | 1999 | MOF-5, *Nature* |
+| Reticular synthesis and the design of new materials ([Yaghi u. a. 2003](https://doi.org/10.1038/nature01650)) | 2003 | Programmschrift der retikulären Chemie, *Nature* |
+| Porous, Crystalline, Covalent Organic Frameworks ([Côté u. a. 2005](https://doi.org/10.1126/science.1120411)) | 2005 | Die ersten COFs, *Science* |
+| Water harvesting from air with MOFs powered by natural sunlight ([Kim u. a. 2017](https://doi.org/10.1126/science.aam8743)) | 2017 | Der Sonnen-Wasserernter, *Science* |
+| Rapid Cycling and Exceptional Yield in a MOF Water Harvester ([Hanikel u. a. 2019](https://doi.org/10.1021/acscentsci.9b00745)) | 2019 | Feldtest in der Mojave-Wüste, *ACS Central Science* |
 
 ## Empfehlenswerte Videos & Vorträge
 

@@ -43,7 +43,7 @@ Zeki gründete das **Institute of Neuroesthetics** mit Standorten in London und 
 **Schlüsselstudien (mit Andreas Bartels):**
 
 - Bartels, A. & Zeki, S. (2000): *The neural basis of romantic love.* **NeuroReport** 11(17): 3829–3834. [PubMed 11117499](https://pubmed.ncbi.nlm.nih.gov/11117499/) · [Volltext (NeuroReport)](https://journals.lww.com/neuroreport/fulltext/2000/11270/the_neural_basis_of_romantic_love.46.aspx) — fMRT von 17 frisch Verliebten beim Betrachten von Partnerbildern. Aktivierung in medialer Insula, anteriorem Cingulum, Nucleus caudatus und Putamen; Deaktivierung u.a. in Amygdala und posteriorem Cingulum.
-- Bartels, A. & Zeki, S. (2004): *The neural correlates of maternal and romantic love.* **NeuroImage** 21(3): 1155–1166. [DOI 10.1016/j.neuroimage.2003.11.003](https://doi.org/10.1016/j.neuroimage.2003.11.003) — Vergleich mütterlicher und romantischer Liebe: gemeinsames belohnungs- und bindungsbezogenes Netzwerk, jeweils eigene zusätzliche Areale.
+- Bartels, A. & Zeki, S. (2004): *The neural correlates of maternal and romantic love.* **NeuroImage** 21(3): 1155–1166. [Bartels & Zeki 2004](https://doi.org/10.1016/j.neuroimage.2003.11.003) — Vergleich mütterlicher und romantischer Liebe: gemeinsames belohnungs- und bindungsbezogenes Netzwerk, jeweils eigene zusätzliche Areale.
 
 ## Empfehlenswerte Videos & Vorträge
 

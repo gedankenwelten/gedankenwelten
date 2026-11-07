@@ -35,7 +35,7 @@ Von 2012 bis 2019 hält sie den Lehrstuhl für **Wissenschaftstheorie und Techni
 | [Künstliche Intelligenz und Empathie. Vom Leben mit Emotionserkennung, Sexrobotern & Co](https://www.genialokal.de/Suche/?q=misselhorn+kuenstliche+intelligenz+empathie) | 2021 | Die technischen und ethischen Aspekte emotionaler KI und sozialer Robotik — an Beispielen aus Pflege und Therapie. Kann man mit Robotern Freundschaft pflegen, sie lieben — und sollte man es? |
 | [Künstliche Intelligenz — das Ende der Kunst?](https://www.genialokal.de/Suche/?q=misselhorn+kuenstliche+intelligenz+ende+der+kunst) | 2023 | Ob KI Kunst hervorbringen kann und was das für unseren Kunstbegriff bedeutet. |
 
-**Wichtige Fachaufsätze:** *Empathy with Inanimate Objects and the Uncanny Valley* (Minds and Machines, 2009, [doi:10.1007/S11023-009-9158-2](https://doi.org/10.1007/S11023-009-9158-2)) · *Artificial Morality. Concepts, Issues and Challenges* (Society, 2018, [doi:10.1007/s12115-018-0229-y](https://doi.org/10.1007/s12115-018-0229-y)) · *Musil's Metaphilosophical View* (The Monist, 2014).
+**Wichtige Fachaufsätze:** *Empathy with Inanimate Objects and the Uncanny Valley* ([Minds and Machines, 2009](https://doi.org/10.1007/S11023-009-9158-2)) · *Artificial Morality. Concepts, Issues and Challenges* ([Society, 2018](https://doi.org/10.1007/s12115-018-0229-y)) · *Musil's Metaphilosophical View* (The Monist, 2014).
 
 ## Empfehlenswerte Videos & Vorträge
 

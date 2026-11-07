@@ -49,7 +49,7 @@ raetsel: "Grüne Murmeln für den Wald. So beginnt ein Parlament."
 
 | Titel | Jahr | Beschreibung |
 |---|---|---|
-| [Familiäre Autonomie und autonome Familie](https://www.genialokal.de/Suche/?q=scheliha+famili%C3%A4re+autonomie+und+autonome+familie) | 2019 | Die Dissertation (Nomos): wie weit Selbstbestimmung bei der rechtlichen Zuordnung von Eltern und Kind reicht, im Vergleich von Deutschland und Frankreich. Auch digital bei Nomos, [doi:10.5771/9783748902041](https://doi.org/10.5771/9783748902041). |
+| [Familiäre Autonomie und autonome Familie](https://www.genialokal.de/Suche/?q=scheliha+famili%C3%A4re+autonomie+und+autonome+familie) | 2019 | Die Dissertation (Nomos): wie weit Selbstbestimmung bei der rechtlichen Zuordnung von Eltern und Kind reicht, im Vergleich von Deutschland und Frankreich. Auch digital bei Nomos, [von Scheliha 2019](https://doi.org/10.5771/9783748902041). |
 | „Zukunftsrat – Stimme der Zukunft bei Entscheidungen der Gegenwart“ | 2025 | *Zeitschrift für Rechtspolitik* 58 (2025), Heft 4, S. 121–125. Der Grundtext zum Zukunftsrat: Anhörung, Stellungnahme, Begründungspflicht. |
 | [Die Bedürfnisse künftiger Generationen vor dem Conseil constitutionnel](https://doi.org/10.1628/jz-2023-0213) | 2023 | Mit Philipp Overkamp, *JuristenZeitung* 78 (2023), S. 630–639: Die Décision Nr. 2022-843 DC als „französischer Klimabeschluss“? |
 | [Zwischen Anspruch und Wirklichkeit – wie die Diversität von Familien das Erbrecht herausfordert](https://doi.org/10.1628/jz-2024-0160) | 2024 | *JuristenZeitung*: Patchwork, Regenbogen- und Mehrelternfamilien treffen auf ein Erbrecht, das an der Kernfamilie gebaut wurde. |

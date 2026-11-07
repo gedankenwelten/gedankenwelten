@@ -30,7 +30,7 @@ Er studierte Erziehungswissenschaft und arbeitet seit 2006 zum Thema, zunächst 
 
 ## Bücher & Publikationen
 
-- Pilarczyk/Wichmann (2013): „Aussteigen aus dem Rechtsextremismus: Foto-Praxis, bildwissenschaftliche Analyse und Ausstellungsarbeit“, *MedienPädagogik*, [doi:10.21240/mpaed/23/2013.06.14.x](https://doi.org/10.21240/mpaed/23/2013.06.14.x)
+- Pilarczyk/Wichmann (2013): „Aussteigen aus dem Rechtsextremismus: Foto-Praxis, bildwissenschaftliche Analyse und Ausstellungsarbeit“, *MedienPädagogik*, [Pilarczyk & Wichmann 2013](https://doi.org/10.21240/mpaed/23/2013.06.14.x)
 - [Successfully Countering Hate and Far-Right Propaganda: The story of EXIT-Germany](https://impakter.com/exit-germany/) (Impakter)
 - Beiträge im *Journal EXIT-Deutschland* · Podcast [„Frisch an die Arbeit mit Fabian Wichmann“](https://journal-exit.de/podcast-ausstieg-rechtsextremismus/)
 
