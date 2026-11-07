@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Mann ohne Wahlamt lenkt Amerikas Einwanderungsvollzug, und als Menschen sterben, gehen andere. Fault Lines verfolgt Stephen Millers Weg; fünf Monate später macht Trump ihn zum Stabschef.
 
+> **07.11.** — [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+>
+> Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
+
 > **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
 >
 > Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen, und Paragrafen, die niemand mehr überblickt: Ronen Steinke über die Meinungsfreiheit, das Völkerrecht und den Streit um das Wort Genozid.
 
-> **06.11.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
->
-> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
-
-> → *11 weitere in* [[Zeitgeist]]
+> → *12 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -60,17 +60,25 @@ Die Gedankenwelten (luc)
 >
 > Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
 
-> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität: ein Motor und zwei Wächter]]
+> **07.11.** — [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|Steuern Gefühle den Finanzmarkt?]]
 >
-> Ein Motor mit zwei Rotoren, eine Drohne über dem Radweg, ein Ultraschall im Beton: Die Mobilitäts-Finalisten zeigen, dass das Neue im Land vor allem dem Erhalten des Alten dienen muss.
+> Der Markt rechnet mit Zahlen, aber er bewegt sich mit Hoffnung und Angst. Ein Film über Tulpen, Dopamin und Herden und darüber, warum auch Maschinen das Gefühl nicht aus der Börse bekommen.
 
-> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt]]
+> **07.11.** — [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
 >
-> Ein Labor, das nachts weiterforscht, ein Rucksack, der mithebt, ein Telefon, das den freien Weg hörbar macht: Die KI-Finalisten zeigen, was Künstliche Intelligenz kann, wenn sie Dinge anfasst.
+> Die Systeme wissen nicht, was der Handel erreichen soll, aber sie machen es schrecklich schnell. Ein Podium von 2014 über Börsenalgorithmen, Wissensvorsprünge und eine Wirtschaft, die niemand ganz versteht.
 
-> → *3 weitere in* [[Geistesblitz]]
+> → *5 weitere in* [[Geistesblitz]]
 
 ### Panorama
+
+> **07.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **07.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
 
 > **07.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
 >
@@ -83,14 +91,6 @@ Die Gedankenwelten (luc)
 > **07.11.** — [[Panorama/Forschung|Forschung]]
 >
 > Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
-
-> **07.11.** — [[Panorama/Wie weit darf der Staat lenken|Wie weit darf der Staat lenken?]]
->
-> Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?
-
-> **06.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
 
 > → *19 weitere in* [[Panorama]]
 

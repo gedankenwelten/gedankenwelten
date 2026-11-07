@@ -2,7 +2,7 @@
 title: "Wie werden gewöhnliche Menschen zu Tätern?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-11-01
+aktualisiert: 2026-11-07
 description: "Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt."
 raetsel: "Einer reicht das Blatt weiter. Einer behält die Hände leer."
 panorama-art: wachsend
@@ -81,6 +81,8 @@ Am 13. Juli 1942 bot Major Wilhelm Trapp den rund 500 Männern des Reserve-Poliz
 
 Für den Gehorsam stand lange Stanley Milgram. Das Grundphänomen hält bis heute: Bei Jerry Burgers Wiederholung gingen 2009 rund 70 Prozent über die 150-Volt-Schwelle ([Burger 2009, doi:10.1037/a0010932](https://doi.org/10.1037/a0010932)), in Polen 2015 neun von zehn bis zur höchsten Stufe ([Doliński et al. 2017, doi:10.1177/1948550617693060](https://doi.org/10.1177/1948550617693060)). Gedeutet wird es inzwischen anders. Über 21 Varianten gingen im Mittel 43,6 Prozent bis zum Ende, je nach Nähe zum Opfer und Glaubwürdigkeit des Versuchsleiters ([Haslam, Loughnan & Perry 2014, doi:10.1371/journal.pone.0093927](https://doi.org/10.1371/journal.pone.0093927)). Der befehlsförmigste Satz, „Sie haben keine andere Wahl“, ließ die meisten aufhören; weiter machte, wer sich mit der Wissenschaft identifizierte ([Haslam, Reicher & Birney 2014, doi:10.1111/josi.12072](https://doi.org/10.1111/josi.12072)). Haslam und Reicher sprechen darum von *engagierter Gefolgschaft* statt von blindem Gehorsam ([Haslam & Reicher 2012, doi:10.1371/journal.pbio.1001426](https://doi.org/10.1371/journal.pbio.1001426)). Ganz falsch ist die alte Lesart trotzdem nicht: Wer auf Anweisung handelt, erlebt sich messbar weniger als Urheber der Folgen ([Caspar et al. 2016, doi:10.1016/j.cub.2015.12.067](https://doi.org/10.1016/j.cub.2015.12.067)).
 
+Für heutige Behörden lässt sich der Gehorsam an einer anderen Stelle messen: an den Zahlen, nach denen sie geführt werden. Unter 1.770 pensionierten New Yorker Polizisten erklärte der Druck aus dem Leistungsmanagement, ob Kriminalberichte geschönt wurden, und kein persönliches Merkmal ([Eterno, Verma & Silverman 2014](https://doi.org/10.1080/07418825.2014.980838), Befragung). Derselbe Hebel wirkt in die Gegenrichtung: Als jeder Stopp schriftlich begründet werden musste, wurden die Kontrollen sofort treffsicherer ([Mummolo 2018](https://doi.org/10.1086/694393), Zeitreihe). Und wer moralisch begründet straft, braucht das Opfer nicht zu entmenschlichen, er sieht in ihm einen Schuldigen ([Rai, Valdesolo & Graham 2017](https://doi.org/10.1073/pnas.1705238114), Experimente). Den Gegenwartsfall dazu liefert der amerikanische Einwanderungsvollzug mit einer Quote von 3.000 Festnahmen am Tag, einer Mission „to save this civilization“ und dem Versprechen „You have federal immunity“ (→ [[Al Jazeera — Stephen Millers Krieg#Quote, Befehl, Immunität was ein Apparat aus gewöhnlichen Beamten macht|Nachbesprechung]]).
+
 **Die Stimmen**
 
 - **[[Hannah Arendt — Die Banalität des Bösen#Milgram — die moderne Bestätigung|Hannah Arendt]]:** Die Verantwortung wird delegiert, an den Mann im weißen Kittel oder an Greisers „offizielle Seele“ — und genau dieses Recht, sie abzugeben, gibt es nicht.
@@ -92,8 +94,10 @@ Für den Gehorsam stand lange Stanley Milgram. Das Grundphänomen hält bis heut
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#2. Dummheit als soziales Phänomen — das eigentliche Zentrum|Dietrich Bonhoeffer]]:** „Die Macht der einen braucht die Dummheit der anderen“ — Urteilsverzicht ist ein Zustand, in den Macht die Menschen versetzt.
 - **[[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Der Begriff Durchrohung vs. Verrohung|Wilhelm Heitmeyer]]:** Wer alles psychologisiert, schützt die Strukturen, die Brutalität möglich machen oder verlangen — ohne dass die Täter darum aufhören, verantwortlich zu sein.
 
-<details><summary>Weitere Stimmen (9)</summary>
+<details><summary>Weitere Stimmen (11)</summary>
 
+- **[[Al Jazeera — Stephen Millers Krieg#Dreitausend am Tag|David Klion]]:** Wer eine Lage zur Krise erklärt und mit einem Krieg vergleicht, schafft die Lizenz, sich wie eine Militärdiktatur zu verhalten statt wie eine Gesellschaft unter Gesetzen.
+- **[[Koshi Politik — ICE Whistleblower packt aus#Stephen Millers Ziel 3.000 Festnahmen pro Tag|Koschi Politik]]:** Für Millers Quote kamen ICE-Kadetten nach gekürzter Ausbildung, ohne Deeskalation, so schnell wie möglich auf die Straße; das habe die Toten in Minnesota mitverursacht.
 - **[[Joerg Baberowski — Putin Herrschaft und liberale Demokratie#Die Gewalt hat ihre eigene Logik|Jörg Baberowski]]:** Mit Browning: Menschen töten lieber, als aus der Gruppe zu fallen, und das gilt unabhängig von Kultur und Ideologie.
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Sozialpolitik als Herrschaftsinstrument — Mit Wasser kochen|Götz Aly]]:** Zustimmung wurde mit gewöhnlicher Sozialpolitik gekauft; das Ergebnis war eine halbpassive Haltung, nicht aktiv dabei, aber auf keinen Fall dagegen.
 - **[[Erich Fromm — Psychoanalyse des Faschismus#Das Milgram-Experiment Die Macht der anonymen Autorität|Erich Fromm]]:** Man gehorcht, weil keine innere Überzeugung stark genug ist; Milgrams Versuchspersonen opferten ihr Gewissen dem Götzen Wissenschaft.
@@ -121,6 +125,8 @@ Die Retterforschung hat zuerst nach der Person gefragt. Samuel und Pearl Oliner 
 
 Auch das kollektive Nein hat zwei Gesichter. Im März 1943 hielten Abgeordnete um Dimitar Peschew, die orthodoxe Kirche und Proteste die Deportation der Juden aus dem bulgarischen Kernland auf, rund 48.000 überlebten. Im selben Monat ließen dieselben Behörden 11.343 Juden aus dem besetzten Thrakien und Makedonien nach Treblinka bringen ([Ragaru 2023, doi:10.1515/9781805431053](https://doi.org/10.1515/9781805431053)).
 
+Was heute vom Mitmachen abhält, ist auch eine Frage der Aufsicht. In Chicago senkten zwei Verschärfungen der Kontrolle, die ohne Skandal kamen, das gemeldete Fehlverhalten von Polizisten, ohne dass die Polizeiarbeit messbar litt ([Rivera & Ba 2023](https://doi.org/10.1162/rest_a_01377), quasi-experimentell). Ob Bodycams Gewalt senken, ist dagegen „substantially uncertain“ ([Lum u. a. 2020](https://doi.org/10.1002/cl2.1112), systematische Übersicht). Und wo Rechenschaft erst nach einem viralen Todesfall kommt, zieht sich die Polizei zurück, mit steigender Kriminalität als Preis ([Devi & Fryer 2020](https://doi.org/10.3386/w27324), Arbeitspapier).
+
 **Die Stimmen**
 
 - **[[Hannah Arendt — Denken ohne Geländer#3. Persönliche Verantwortung in der Diktatur|Hannah Arendt]]:** Die Nichtteilnehmer hatten kein besseres Wertesystem, sie fragten, ob sie mit sich selbst leben könnten; die Grenze verlief quer durch Bildung und Klasse.
@@ -132,8 +138,10 @@ Auch das kollektive Nein hat zwei Gesichter. Im März 1943 hielten Abgeordnete u
 - **[[Liya Yu — Dehumanisierung und Rehumanisierung#Rehumanisierung — die Strategien|Liya Yu]]:** Menschen in mehrere Kategorien statt in eine Schublade stecken, auch den Gegner als Denkenden sehen — Handarbeit gegen industriell erzeugte Entmenschlichung.
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Integration durch Mitschuld — Das Schattenspiel|Götz Aly]]:** Freundliche Nachbarn hielten Juden länger am Ort und damit in der Falle; die besten sagten: „Geht, so schnell ihr könnt.“
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
 
+- **[[Al Jazeera — Stephen Millers Krieg#Obama hat auch abgeschoben|Janet Napolitano]]:** Die Heimatschutzministerin mit den Abschieberekorden unter Obama setzte Prioritäten; erst ohne sie werde der Vollzug zur Jagd auf alle, und das Ministerium verstand sich bei allen Problemen als regelgebunden, so Naureen Shah.
+- **[[Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Wer verteidigen will, muss aufstehen|Jenny Günther]]:** Beamte halten die Grundordnung nur, solange sie sehen, dass die oben sie auch halten; sonst heißt das Signal „ihr steht allein“.
 - **[[Harald Welzer — Toetungsarbeit#Die Einwände im Saal|Harald Welzer]]:** Wenn Ideologie so wenig zählt, taugt Aufklärung über Ideologie wenig als Schutz — man müsse „anders darüber nachdenken, wie man eigentlich überhaupt solche Dinge verhindert“.
 - **[[Rutger Bregman — Ist der Mensch wirklich gut#Das Paradox des Welpen — Konformismus und die Wölfe, die widerstehen|Rutger Bregman]]:** Es braucht den Wolf, den Mut, gegen die eigene Gruppe unfreundlich zu sein.
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#5. Das Versagen der Vernünftigen — „Wer hält stand?"|Dietrich Bonhoeffer]]:** Vernünftige, Gewissensmenschen und Pflichtmenschen scheitern; standhalten kann nur, wer die Verantwortung ganz übernimmt.
@@ -180,6 +188,7 @@ Aber die Mehrheit widerspricht. *„The majority of abused and neglected childre
 | 10.10.2026 | [[Bartunek — Tillschneider vor der Synagoge in Halle#Nachbesprechung|Bartunek — Tillschneider vor der Synagoge in Halle]] | Gedankenlos oder überzeugt, für Täter der Gegenwart: Corner & Gill 2015, Gill/Horgan/Deckert 2014, Schuurman 2017, Sarma 2022 (Meta-Analyse), Kupper/Cotti/Meloy 2023 (Hanau), Kupper u. a. 2022, Macklin 2019, Koehler 2019, Leygraf-Gutachten und Urteil OLG Naumburg · Tillschneider als Gegenstimme: wem die Diagnose „verwirrt“ nützt |
 | 13.10.2026 | [[Carlo Cipolla — Die fünf Gesetze der Dummheit#Nachbesprechung|Carlo Cipolla — Die fünf Gesetze der Dummheit]] | Gedankenlos oder überzeugt: Cipolla, Bonhoeffer, Arendt nebeneinander; Macht und Perspektivübernahme (Galinsky 2006), Macht als Zielverstärker (Guinote 2017), Bias Blind Spot (West 2012), intellektuelle Bescheidenheit (Leary 2017) |
 | 01.11.2026 | [[Andreas Kemper — Faschismen im 21. Jahrhundert#Nachbesprechung|Andreas Kemper — Faschismen im 21. Jahrhundert]] | Neue Frage „Wird man zum Täter gemacht?“: Widom 1989/2024, Maxfield & Widom 1996, Gershoff 2016, Milburn 2014, Duriez 2007, Kandler 2025, Simi 2016, Pammi 2026 · Kemper, Fromm, Schlaffer, Marks, Luc, Benneckenstein, Münkler als Gegenstimme |
+| 07.11.2026 | [[Al Jazeera — Stephen Millers Krieg#Nachbesprechung|Al Jazeera — Stephen Millers Krieg]] | Gehorsam, Gruppe oder Gelegenheit, für einen Behördenapparat der Gegenwart: Quoten (Eterno 2014, Travova 2023, Mummolo 2018), Ausbildung (Reingle González 2015, Engel 2022), Sprache (Utych 2018, Kteily & Bruneau 2017, Rai 2017) · Was abhält: Aufsicht (Rivera & Ba 2023), Bodycams (Lum 2020), Rechenschaft nach Skandal (Devi & Fryer 2020) · Klion, Koschi (Whistleblower), Napolitano, Jenny Günther |
 
 ---
 

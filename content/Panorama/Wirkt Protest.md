@@ -2,7 +2,7 @@
 title: "Wirkt Protest?"
 date: 2026-11-06
 erstellt: 2026-11-06
-aktualisiert: 2026-11-06
+aktualisiert: 2026-11-07
 panorama-art: wachsend
 description: "Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben."
 raetsel: "Das Denkmal ist höflicher, als der Mann es war."
@@ -61,6 +61,8 @@ Eine Replikation hält diesen Befund allerdings für empfindlich gegenüber der 
 Was fehlt: eine belastbare Antwort darauf, wie oft Protest in einer Demokratie ein Gesetz bewirkt. Bewegung, Medien
 und Parteien verstärken sich gegenseitig, und wer am Ende entscheidet, ist selten die Straße.
 
+Einen harten Testfall liefert Minneapolis. Nach den Todesschüssen auf Renee Good und Alex Pretti marschierten im Januar 2026 Tausende bei Frost, Hunderte Betriebe schlossen. Im Februar endete der ICE-Einsatz, nach Darstellung der Regierung wegen Erfolg und besserer Abstimmung; dass der Protest ihn beendete, sagt keine Quelle. Im Haushaltsstreit setzten die Demokraten keine ihrer Reformen durch, und nach der verlorenen Wahl beförderte Trump den Architekten der Einsätze zum Stabschef (→ [[Al Jazeera — Stephen Millers Krieg#Minneapolis was der Protest erreicht hat und was nicht|Nachbesprechung]]). Die Forschung passt zu diesem Bild. Nach den Floyd-Protesten verschoben sich die Einstellungen zur Polizei nur bei Liberalen ([Reny & Newman 2021](https://doi.org/10.1017/S0003055421000460), Zeitreihe), und über vierzehn Protestwellen in den USA hinweg findet eine Auswertung viel Aufmerksamkeit und wenig Wirkung auf Gesetze, mit den Floyd-Protesten als Ausnahme ([Gethin & Pons 2024](https://doi.org/10.3386/w32342), Arbeitspapier). Dauerhafter mobilisiert der Vollzug selbst: Wo „Secure Communities“ kam, stieg die Wahlbeteiligung von Latinos um zwei bis drei Punkte ([White 2016](https://doi.org/10.1007/s11109-015-9317-5), Differenz-in-Differenzen).
+
 **Die Stimmen**
 
 - **[[Denker/Rutger Bregman — Ist der Mensch wirklich gut#Held vs. Radikaler — moralische Ambition|Rutger Bregman]]:** Bewusstsein wecken reiche nicht; wer die Welt ändern wolle, müsse irgendwann ein Gesetz durchs Parlament bringen.
@@ -68,6 +70,9 @@ und Parteien verstärken sich gegenseitig, und wer am Ende entscheidet, ist selt
 - **[[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas#Verhaftet für ein Plakat: Protest als Dialogangebot|Tsitsi Dangarembga]]:** Einen Termin beim Abgeordneten bekomme sie nicht, mit einem Plakat aber Aufmerksamkeit, und damit den Anfang eines Gesprächs.
 - **[[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden#Der Überlebensmodus, der den Protest verschluckt|Jok Madut Jok]]:** Wer von einem Tag zum nächsten kommen muss, protestiert nicht; so sichert sich Herrschaft durch Not ab.
 - **[[Denker/Pankaj Mishra — Zeitalter des Zorns#Was tun? Franziskus, Gandhi und das Ende der großen Lösungen|Pankaj Mishra]]:** Gandhi und King verbanden Politik mit dem Bedürfnis nach Gemeinschaft; wo das fehlt, bieten Demagogen eine falsche an.
+- **[[Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration#3. Meinungswandel zur Immigration — historischer Allzeithoch|Koschi Politik]]:** Während der Vollzug härter wurde, sagten so viele Amerikaner wie nie, Einwanderung sei gut für das Land, auch unter Republikanern; bei Unabhängigen verlor Trumps Einwanderungspolitik 27 Punkte.
+- **[[Paul Lance — Amerikaner fragt Deutsche ueber Trump#Apathie als eigentliches Problem|Paul Lance]]:** „No Kings“ sei eine Teilnahmetrophäe der Weißen, acht Millionen von 340; das eigentliche Problem sei Apathie, solange es einen nicht selbst trifft.
+- **[[Al Jazeera — Stephen Millers Krieg#Der Mann hinter dem Gesicht|Naureen Shah]]:** Rechenschaft erreicht den Mann ohne Wahlamt nicht; es fallen die Figuren auf dem Brett, das Gesicht vor dem Publikum wechselt, er bleibt.
 
 > [!question] Die Reibung
 > Fridays for Future wirkte über Wahlen, Serbiens Studenten über eine Liste. *Ist die Straße dann nur der Anfang
@@ -151,6 +156,7 @@ Was die Nacht vom 31. Oktober in Deutschland bewirkt, verfolgt eine eigene Spur
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 07.11.2026 | [[Zeitgeist/Al Jazeera — Stephen Millers Krieg#Minneapolis was der Protest erreicht hat und was nicht\|Al Jazeera — Stephen Millers Krieg]] | Minneapolis als Testfall: Proteste, Ende von Metro Surge, keine Reform im Haushaltsstreit, Wahl, Beförderung Millers → backfire (Hess & Martin), Floyd-Proteste (Reny & Newman, Primbs u. a.), begrenzte Wirkung (Gethin & Pons), Vollzug mobilisiert (White, Kuhn), Parteien nach Niederlagen (Somer-Topcu) · Koschi, Paul Lance, Shah |
 | 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Bringt erst Lärm Gehör?\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Bringt erst Lärm Gehör? → Parteien und Protest (Hutter & Vliegenthart), Berichterstattung (Lee), extreme Taktiken (Feinberg u. a.), Fridays for Future über Wahlen (Fabel u. a.), Frankreich 2005, Gewalt nach Chenoweth 2023, Ausbreitung (Myers, Bonnasse-Gahot u. a.) |
 | 07.10.2026 | [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Wirkt disruptiver Protest?\|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]] | Wirkt disruptiver Protest? → Übersicht Vandeweerdt, Letzte Generation, radikale Flanke (Simpson u. a., Köhler u. a., Fuller u. a.), Wasow, Chenoweth 2020 und Replikation, Los Angeles 1992 · King in Umfragen |
 
