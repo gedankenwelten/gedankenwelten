@@ -207,15 +207,15 @@ Neun Erfindungen, zwei Jahre: drei sind getragen, vier im Werden, eine offen, ei
 
 > [!warning] Vereinfacht — Leichtbau als großer Hebel
 > Die gedruckte Zelle sei so leicht, dass das „einen massiven Effekt haben wird“ ([▶ 27:28](https://www.youtube.com/watch?v=4BgGu8IYqPs&t=1648)). Das Gewicht stimmt: Laut Patentamt hält man einen Quadratmeter mit zwei Fingern, ein Siliziummodul wiegt 20 bis 30 Kilogramm. Im Markt gezeigt hat Saule den Effekt nie; die Firma ist seit 2025 stillgelegt. Der Wirkungsgrad im EPO-Profil (25,8 %) ist ein Laborwert für Zellen, kein Wert für Saules flexible Module.
-> Quelle: [EPO — Profil Malinkiewicz](https://www.epo.org/en/news-events/european-inventor-award/meet-the-finalists/olga-malinkiewicz-and-team) · Zhu et al. 2024, Review, [doi:10.1002/adma.202307357](https://doi.org/10.1002/adma.202307357)
+> Quelle: [EPO — Profil Malinkiewicz](https://www.epo.org/en/news-events/european-inventor-award/meet-the-finalists/olga-malinkiewicz-and-team) · [Zhu et al. 2024, Review](https://doi.org/10.1002/adma.202307357)
 
 > [!warning] Vereinfacht — „Minuten statt Tage“
 > Niemeijers Test dauere Minuten, das Labor brauche Tage ([▶ 81:02](https://www.youtube.com/watch?v=4BgGu8IYqPs&t=4862)). In der Größenordnung stimmt das: Eine Urinkultur mit Resistenztest dauert 48 bis 72 Stunden. Verglichen wird aber eine Erregerbestimmung mit Kultur plus Resistenzprüfung, und eine veröffentlichte klinische Validierung des Tests haben wir nicht gefunden. Systematische Reviews zu Schnelltests bei Harnwegsinfekten prüfen den klinischen Nutzen getrennt von der Geschwindigkeit.
-> Quelle: Tomlinson et al. 2023, systematischer Review, [doi:10.1016/j.cmi.2023.10.005](https://doi.org/10.1016/j.cmi.2023.10.005) · Juste Álvarez & Medina-Polo 2026, systematischer Review, [doi:10.3205/id000108](https://doi.org/10.3205/id000108)
+> Quelle: [Tomlinson et al. 2023, systematischer Review](https://doi.org/10.1016/j.cmi.2023.10.005) · [Juste Álvarez & Medina-Polo 2026, systematischer Review](https://doi.org/10.3205/id000108)
 
 > [!warning] Vereinfacht — „50 bis 60 Prozent Über- und Fehlgebrauch von Antibiotika“
 > Niemeijer nennt 50 bis 60 Prozent und begründet es mit fehlender Diagnose in der Praxis ([▶ 81:47](https://www.youtube.com/watch?v=4BgGu8IYqPs&t=4907)). Als allgemeine Zahl ist das zu hoch: In der US-Ambulanz gelten rund 30 Prozent der Verordnungen als unnötig. Bei Harnwegsinfekten liegen die Raten höher: Bei über 650.000 Frauen waren 42 bis 45 Prozent der Mittel nicht erste Wahl, die Therapiedauer meist nicht leitliniengerecht. Diese Fehler entstehen nur zum Teil aus fehlender Diagnose; die Zahl fasst verschiedene Fehlerarten zusammen, und das nützt dem Pitch.
-> Quelle: Fleming-Dutra et al. 2016, *JAMA*, [doi:10.1001/jama.2016.4151](https://doi.org/10.1001/jama.2016.4151) · Durkin et al. 2018, *OFID*, [doi:10.1093/ofid/ofy198](https://doi.org/10.1093/ofid/ofy198) · [CDC](https://www.cdc.gov/antibiotic-use/hcp/data-research/antibiotic-prescribing.html)
+> Quelle: [Fleming-Dutra et al. 2016, *JAMA*](https://doi.org/10.1001/jama.2016.4151) · [Durkin et al. 2018, *OFID*](https://doi.org/10.1093/ofid/ofy198) · [CDC](https://www.cdc.gov/antibiotic-use/hcp/data-research/antibiotic-prescribing.html)
 
 > [!warning] Zu hoch gegriffen — „400.000 Anmeldungen im Jahr“
 > Petra Schindler-Bauer nennt rund 400.000 neue Anträge pro Jahr ([▶ 38:51](https://www.youtube.com/watch?v=FvlRbCtfLq4&t=2331)). Das Europäische Patentamt meldet für 2024 genau 199.264 europäische Patentanmeldungen, auf dem Niveau des Vorjahres; die Zahl im Stream ist etwa doppelt so hoch. Ein Kalkül steckt nicht dahinter, eher eine Verwechslung mit anderen Zählweisen.

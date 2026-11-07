@@ -152,7 +152,7 @@ In Deutschland gilt seit dem 28.11.2025 das neue Speichergesetz. An Land darf CO
 >
 > **Claim:** „Factor 2 Energy arbeitet seit 2018 an dem Verfahren, damals noch als Teil von Siemens Energy. Seit Juni letzten Jahres [2025] eigenständiges Startup."
 >
-> Hält im Kern. Schon im November 2018 legte Michael Wechsung, heute Mitgründer, als Mitautor eine CPG-Bewertung vor (Glos, Langer, Wechsung, EAGE/IGA/DGMK-Workshop Straßburg, [doi:10.3997/2214-4609.201802942](https://doi.org/10.3997/2214-4609.201802942)). Die Firmen-Timeline führt 2021 als ersten Reifegrad (TRL 3), 2022 einen Feldtest, 2025 die Ausgründung. Einzige Unschärfe: 2018 hieß der Konzern noch Siemens AG, Siemens Energy wurde 2020 ausgegliedert. Die Seed-Runde über 9,1 Mio. US-$ (19.09.2025) führte At One Ventures, beteiligt waren High-Tech Gründerfonds, Gründerfonds Ruhr, Verve Ventures und Siemens Energy Ventures.
+> Hält im Kern. Schon im November 2018 legte Michael Wechsung, heute Mitgründer, als Mitautor eine CPG-Bewertung vor ([Glos, Langer, Wechsung, EAGE/IGA/DGMK-Workshop Straßburg](https://doi.org/10.3997/2214-4609.201802942)). Die Firmen-Timeline führt 2021 als ersten Reifegrad (TRL 3), 2022 einen Feldtest, 2025 die Ausgründung. Einzige Unschärfe: 2018 hieß der Konzern noch Siemens AG, Siemens Energy wurde 2020 ausgegliedert. Die Seed-Runde über 9,1 Mio. US-$ (19.09.2025) führte At One Ventures, beteiligt waren High-Tech Gründerfonds, Gründerfonds Ruhr, Verve Ventures und Siemens Energy Ventures.
 >
 > Quelle: [Factor2 — Pressemitteilung 19.09.2025](https://www.factor2-energy.com/press/factor2-energy-raises-us-9-1m-to-unlock-scalable-geothermal-power-from-geologically-stored-co2) · [Factor2 — Technology/Timeline](https://www.factor2-energy.com/technology) · [Heuking, 22.09.2025](https://www.heuking.de/de/news-events/aktuelle-meldungen/artikel/heuking-beraet-das-deeptech-start-up-factor2-energy-bei-der-ausgliederung-aus-siemens-energy-sowie-bei-der-anschliessenden-seed-finanzierungsrunde.html)
 
@@ -160,7 +160,7 @@ In Deutschland gilt seit dem 28.11.2025 das neue Speichergesetz. An Land darf CO
 >
 > **Claim:** Die Bohrkosten machen laut der Firma rund 60 % der Gesamtkosten aus.
 >
-> Beautemps sagt ausdrücklich „laut der Firma“. Unabhängige Literatur setzt die Spanne etwas tiefer an: Laut Sandia-Handbuch für Geothermiebohrungen erreicht das Bohrfeld „toward 50 %“ der Projektkosten, an anderer Stelle 35 bis 50 % der Investitionskosten (Finger & Blankenship 2012, [doi:10.2172/1325261](https://doi.org/10.2172/1325261), Fachhandbuch). 60 % ist der obere Rand; der Punkt dahinter hält: Wer beim Bohren spart, spart am größten Posten.
+> Beautemps sagt ausdrücklich „laut der Firma“. Unabhängige Literatur setzt die Spanne etwas tiefer an: Laut Sandia-Handbuch für Geothermiebohrungen erreicht das Bohrfeld „toward 50 %“ der Projektkosten, an anderer Stelle 35 bis 50 % der Investitionskosten ([Finger & Blankenship 2012](https://doi.org/10.2172/1325261), Fachhandbuch). 60 % ist der obere Rand; der Punkt dahinter hält: Wer beim Bohren spart, spart am größten Posten.
 >
 > Quelle: [Sandia — Handbook of Best Practices for Geothermal Drilling](https://www.osti.gov/servlets/purl/1325261)
 
@@ -176,7 +176,7 @@ In Deutschland gilt seit dem 28.11.2025 das neue Speichergesetz. An Land darf CO
 >
 > **Claim:** CO₂ fließt viermal besser, nimmt aber nur halb so viel Wärme pro Kilogramm auf, unterm Strich doppelte Wärmeausbeute.
 >
-> Als Faustregel hält das. Nach NIST-Stoffdaten bei 250 bar und 100 °C liegt die Massenbeweglichkeit (Dichte durch Viskosität) von CO₂ etwa 3,8-mal über der von Wasser, die Wärmekapazität bei 0,53 davon, zusammen ≈ 2; bei 150 °C schrumpft der Vorteil auf ≈ 1. Der Faktor hängt also vom Standort ab, die Firma selbst nennt 1,8- bis 3-fach. Die grundlegende Simulation zu CPG ergibt bis zu 2,9-fach höhere Wärmeentzugsraten als Wasser-Geothermie (Randolph & Saar 2011, *Geophysical Research Letters*, [doi:10.1029/2011gl047265](https://doi.org/10.1029/2011gl047265), Primärstudie, numerisch). Eine Modellstudie zu EGS zeigt die Kehrseite: Bei begrenztem Temperaturabfall im Förderbohrloch schneidet Wasser besser ab, der Vorteil von CO₂ ist dann der geringe Pumpaufwand (Lei 2022, [doi:10.3389/feart.2022.819778](https://doi.org/10.3389/feart.2022.819778)).
+> Als Faustregel hält das. Nach NIST-Stoffdaten bei 250 bar und 100 °C liegt die Massenbeweglichkeit (Dichte durch Viskosität) von CO₂ etwa 3,8-mal über der von Wasser, die Wärmekapazität bei 0,53 davon, zusammen ≈ 2; bei 150 °C schrumpft der Vorteil auf ≈ 1. Der Faktor hängt also vom Standort ab, die Firma selbst nennt 1,8- bis 3-fach. Die grundlegende Simulation zu CPG ergibt bis zu 2,9-fach höhere Wärmeentzugsraten als Wasser-Geothermie ([Randolph & Saar 2011, *Geophysical Research Letters*](https://doi.org/10.1029/2011gl047265), Primärstudie, numerisch). Eine Modellstudie zu EGS zeigt die Kehrseite: Bei begrenztem Temperaturabfall im Förderbohrloch schneidet Wasser besser ab, der Vorteil von CO₂ ist dann der geringe Pumpaufwand ([Lei 2022](https://doi.org/10.3389/feart.2022.819778)).
 >
 > Quelle: [NIST Chemistry WebBook — Fluid-Daten](https://webbook.nist.gov/chemistry/fluid/) · [ZFK, 11.03.2026](https://www.zfk.de/energie/waerme/co2-statt-wasser-startup-will-geothermie-strom-verdoppeln)
 
@@ -184,7 +184,7 @@ In Deutschland gilt seit dem 28.11.2025 das neue Speichergesetz. An Land darf CO
 >
 > **Claim:** „Schon vor fast 30 Jahren hat eine Studie der Stanford University gezeigt: Die Technik hat Potenzial."
 >
-> Der Text stammt von Donald W. Brown vom Los Alamos National Laboratory, vorgetragen im Januar 2000 auf dem Stanford Workshop on Geothermal Reservoir Engineering, vor 26 Jahren. Es ist ein Konzeptvorschlag: CO₂ statt Wasser in einem geschlossenen Hot-Dry-Rock-System, abgeleitet aus Wasser-Feldversuchen am Fenton Hill. Das Verfahren, auf das Factor 2 setzt, CO₂ in natürlich durchlässigen Schichten (CPG), haben Randolph & Saar 2011 vorgeschlagen ([doi:10.1029/2011gl047265](https://doi.org/10.1029/2011gl047265)).
+> Der Text stammt von Donald W. Brown vom Los Alamos National Laboratory, vorgetragen im Januar 2000 auf dem Stanford Workshop on Geothermal Reservoir Engineering, vor 26 Jahren. Es ist ein Konzeptvorschlag: CO₂ statt Wasser in einem geschlossenen Hot-Dry-Rock-System, abgeleitet aus Wasser-Feldversuchen am Fenton Hill. Das Verfahren, auf das Factor 2 setzt, CO₂ in natürlich durchlässigen Schichten (CPG), haben Randolph & Saar 2011 vorgeschlagen ([Randolph & Saar 2011](https://doi.org/10.1029/2011gl047265)).
 >
 > Quelle: [Brown 2000, Proceedings SGP-TR-165 (PDF)](https://pangea.stanford.edu/ERE/pdf/IGAstandard/SGW/2000/Brown.pdf)
 

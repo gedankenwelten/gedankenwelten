@@ -160,7 +160,7 @@ Heute sei dieses Projekt [▶ 48:38](https://www.youtube.com/watch?v=2eZMhUVew0Q
 
 > [!success] Bestätigt — Gettier 1963, drei Seiten
 > Edmund L. Gettier, „Is Justified True Belief Knowledge?“, *Analysis* 23(6), 1963, S. 121–123.
-> Quelle: [doi:10.1093/analys/23.6.121](https://doi.org/10.1093/analys/23.6.121)
+> Quelle: [Gettier 1963](https://doi.org/10.1093/analys/23.6.121)
 
 > [!success] Bestätigt — Russells stehengebliebene Uhr
 > Das Beispiel steht in Russells *Human Knowledge: Its Scope and Limits* (1948), S. 170 f., fünfzehn Jahre vor Gettier. Russell erwähnt den Fall beiläufig als Beispiel für wahre Meinung ohne Wissen, nicht als systematischen Einwand, wie Wilholt richtig sagt.
@@ -176,7 +176,7 @@ Heute sei dieses Projekt [▶ 48:38](https://www.youtube.com/watch?v=2eZMhUVew0Q
 
 > [!success] Bestätigt — der Traum in der chinesischen Philosophie
 > Der Schmetterlingstraum des *Zhuangzi* (Kap. 2) ist das bekannteste Gegenstück zum Traum-Zweifel: Zhuangzi weiß nicht, ob er von einem Schmetterling geträumt hat oder ein Schmetterling von ihm. Ob die Stelle skeptisch gemeint ist, ist umstritten; Moeller liest sie daoistisch als Verwandlung der Dinge. Wilholts vorsichtiges „auch diskutiert“ trägt.
-> Quelle: [SEP: Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/) · [Moeller 1999, doi:10.2307/1399947](https://doi.org/10.2307/1399947)
+> Quelle: [SEP: Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/) · [Moeller 1999](https://doi.org/10.2307/1399947)
 
 > [!success] Bestätigt — Putnams Gehirn im Tank
 > Hilary Putnam, „Brains in a Vat“, Kapitel 1 von *Reason, Truth and History* (1981) — 42 Jahre vor der Vorlesung. Putnam war kein Skeptiker: Er hielt die Annahme, wir seien immer schon Gehirne im Tank, für selbstwiderlegend.
@@ -184,11 +184,11 @@ Heute sei dieses Projekt [▶ 48:38](https://www.youtube.com/watch?v=2eZMhUVew0Q
 
 > [!success] Bestätigt — Skeptizismus als Randphänomen
 > Im PhilPapers Survey 2020 (N = 1.764) sprechen sich 79,5 % der Philosophinnen und Philosophen für einen nicht-skeptischen Realismus in Bezug auf die Außenwelt aus, 5,4 % für Skeptizismus, 6,6 % für Idealismus. Die Frage ist enger als Wilholts Aussage, deckt aber ihren Kern.
-> Quelle: [Bourget & Chalmers, „Philosophers on Philosophy: The 2020 PhilPapers Survey“, *Philosophers' Imprint* 2023, doi:10.3998/phimp.2109](https://doi.org/10.3998/phimp.2109) · [Ergebnis „External world“](https://survey2020.philpeople.org/survey/results/4846)
+> Quelle: [Bourget & Chalmers, „Philosophers on Philosophy: The 2020 PhilPapers Survey“, *Philosophers' Imprint* 2023](https://doi.org/10.3998/phimp.2109) · [Ergebnis „External world“](https://survey2020.philpeople.org/survey/results/4846)
 
 > [!success] Bestätigt — Kitchers meliorative Erkenntnistheorie
 > Philip Kitcher prägt den Begriff „meliorative“ in „The Naturalists Return“ (*Philosophical Review* 101, 1992, S. 64) als Gegenbegriff zur analytischen Erkenntnistheorie: eine, die die Praxis des Erkennens verbessern will.
-> Quelle: [Kitcher 1992, doi:10.2307/2185044](https://doi.org/10.2307/2185044)
+> Quelle: [Kitcher 1992](https://doi.org/10.2307/2185044)
 
 ---
 

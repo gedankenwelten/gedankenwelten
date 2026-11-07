@@ -162,15 +162,15 @@ Ausgerechnet Scobels eigene Belege widersprechen ihm an einer Stelle. Das Lancet
 
 > [!success] Bestätigt — Lancet-Audit über 2,5 Mio. biomedizinische Arbeiten (Mai 2026)
 > Die Studie gibt es, die Zahlen stimmen: Topaz, Roguin, Gupta, Zhang & Peltonen, *Fabricated citations: an audit across 2·5 million biomedical papers*, Lancet 407 (10541), 1779–1781. Untersucht wurde das Open-Access-Subset von PubMed Central vom 01.01.2023 bis 18.02.2026, insgesamt 2.471.758 Arbeiten. Gefunden wurden 4.046 erfundene Referenzen in 2.810 Arbeiten. Betroffen waren 2023 1 von 2.828 Arbeiten, 2025 1 von 458, Anfang 2026 1 von 277. Bei 98,4 % der Fälle hat der Verlag nichts unternommen. Die „Verzwölffachung“ ist die Kopfzahl der Autoren und bezieht sich auf Referenzen pro 10.000 Arbeiten. Rechnet man mit dem Anteil betroffener Arbeiten, ergibt sich rund das Zehnfache. Einschränkungen: Die KI-Herkunft ist aus dem zeitlichen Verlauf erschlossen, der steile Anstieg beginnt Mitte 2024. Die Methode ist selbst KI-gestützt und an 500 Fällen validiert. Cochrane bemängelt fehlende Methodendetails.
-> *Solidität: Einzelstudie (Correspondence).* Quelle: [doi:10.1016/S0140-6736(26)00603-3](https://doi.org/10.1016/S0140-6736%2826%2900603-3) · [Retraction Watch, 07.05.2026](https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/)
+> *Solidität: Einzelstudie (Correspondence).* Quelle: [Topaz u. a. 2026](https://doi.org/10.1016/S0140-6736%2826%2900603-3) · [Retraction Watch, 07.05.2026](https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/)
 
 > [!success] Bestätigt — „Mehr Fälschung, nicht nur bessere Entdeckung“
 > Das Audit hat alle Jahrgänge rückwirkend mit derselben Methode geprüft. Ein reiner Entdeckungseffekt erklärt den Anstieg deshalb nicht. Von 2.241 bioRxiv-Preprints mit erfundenen Referenzen, die später in PMC erschienen, trugen 85,3 % die Halluzinationen unverändert in die publizierte Fassung.
-> Quelle: [doi:10.1016/S0140-6736(26)00603-3](https://doi.org/10.1016/S0140-6736%2826%2900603-3) (Einzelstudie) · [doi:10.48550/arXiv.2605.07723](https://doi.org/10.48550/arXiv.2605.07723) (Preprint)
+> Quelle: [Topaz u. a. 2026](https://doi.org/10.1016/S0140-6736%2826%2900603-3) (Einzelstudie) · [Quelle](https://doi.org/10.48550/arXiv.2605.07723) (Preprint)
 
 > [!success] Bestätigt — 146.900 nicht existierende Zitationen im Jahr 2025
 > Zhao, Wang, Stuart, De Vaan, Ginsparg & Yin, *LLM hallucinations in the wild* (arXiv, 08.05.2026): 111 Mio. Referenzen aus 2,5 Mio. Arbeiten, konservativ geschätzt 146.932 halluzinierte Zitationen für 2025. Neben arXiv, bioRxiv und SSRN ist auch PubMed Central enthalten, es sind also nicht nur Preprint-Archive.
-> *Solidität: Preprint.* Quelle: [doi:10.48550/arXiv.2605.07723](https://doi.org/10.48550/arXiv.2605.07723)
+> *Solidität: Preprint.* Quelle: [Quelle](https://doi.org/10.48550/arXiv.2605.07723)
 
 > [!success] Bestätigt — Spitzenkonferenz mit Dutzenden begutachteter Beiträge mit erfundenen Angaben
 > Sehr wahrscheinlich ist NeurIPS 2025 gemeint. GPTZero fand 100 bestätigte halluzinierte Zitationen in 51–53 angenommenen Arbeiten, die alle das volle Review durchlaufen hatten, darunter „John Doe and Jane Smith“ und gefälschte DOIs. Zuvor waren schon rund 50 Fälle in ICLR-2026-Einreichungen aufgefallen. Zur Einordnung: GPTZero verkauft genau das Werkzeug, mit dem gesucht wurde. Die Beispiele sind aber einzeln verlinkt.
@@ -178,7 +178,7 @@ Ausgerechnet Scobels eigene Belege widersprechen ihm an einer Stelle. Das Lancet
 
 > [!warning] Vereinfacht — „4 von 5 Forschenden nutzen KI, nur jeder Fünfte vertraut vollständig“
 > Eine Umfrage mit genau diesem Zahlenpaar gibt es nicht. Es ist offenbar aus zwei Verlagsumfragen zusammengesetzt. Wiley *ExplanAItions* 2025 (2.430 Befragte): 84 % nutzen KI, die Sorge vor Halluzinationen stieg von 51 auf 64 %. Elsevier *Researcher of the Future* 2025: 58 % nutzen KI, 22 % halten sie für vertrauenswürdig. Die Richtung stimmt: viel Nutzung, wenig Vertrauen. „Um ihre Artikel zu schreiben“ und „vollständig vertrauen“ sind Zuspitzungen. Beide Absender verkaufen selbst KI-Werkzeuge.
-> Quelle: [Wiley ExplanAItions 2025 (phys.org)](https://phys.org/news/2025-10-ai-significant-reality.html) · [Elsevier Researcher of the Future](https://themedicinemaker.com/issues/2026/articles/july/are-researchers-learning-to-trust-ai/) · begutachteter Gegenpol: [Chugunova et al. 2026, doi:10.1016/j.respol.2025.105381](https://doi.org/10.1016/j.respol.2025.105381) (6.215 Befragte bei Max Planck und Fraunhofer, 78 % nutzen KI)
+> Quelle: [Wiley ExplanAItions 2025 (phys.org)](https://phys.org/news/2025-10-ai-significant-reality.html) · [Elsevier Researcher of the Future](https://themedicinemaker.com/issues/2026/articles/july/are-researchers-learning-to-trust-ai/) · begutachteter Gegenpol: [Chugunova et al. 2026](https://doi.org/10.1016/j.respol.2025.105381) (6.215 Befragte bei Max Planck und Fraunhofer, 78 % nutzen KI)
 
 > [!success] Bestätigt — Krakauer, „Sizing Up the Ghosts in the Machines“
 > Die Kolumne stammt aus dem SFI-Newsletter *Parallax* (Sommer 2026) und ist am 31.08.2026 auf Substack erschienen. Die Unterscheidung zwischen ontologischen und epistemischen Geistern steht fast wörtlich darin. Ebenso finden sich dort Ryles Oxford-Beispiel, Darwin, Turing und McCulloch & Pitts. Kleinigkeiten: Krakauer nennt die Proteinfaltung, nicht die Genetik. Sein Physikbeispiel ist die Fernwirkung, die mit der Allgemeinen Relativitätstheorie fiel, kein „gerader Raum“.
@@ -189,18 +189,18 @@ Ausgerechnet Scobels eigene Belege widersprechen ihm an einer Stelle. Das Lancet
 > Quelle: [Britannica: The Concept of Mind](https://www.britannica.com/topic/The-Concept-of-Mind) · [Wikipedia: Ghost in the Machine (Album)](https://en.wikipedia.org/wiki/Ghost_in_the_Machine_(album)) · [Freud 1917, Projekt Gutenberg](https://www.gutenberg.org/files/29097/29097-h/29097-h.htm)
 
 > [!warning] Vereinfacht — Historische Details
-> - McCulloch & Pitts beschrieben 1943 formale, binäre Schwellenneuronen auf Papier, keine „elektronischen Neuronen“ ([doi:10.1007/BF02478259](https://doi.org/10.1007/BF02478259)).
-> - „Alles Berechenbare“ ist die Church-Turing-These, kein Beweis Turings. Für ein Essay ist die Kurzform zulässig ([doi:10.1112/plms/s2-42.1.230](https://doi.org/10.1112/plms/s2-42.1.230)).
+> - McCulloch & Pitts beschrieben 1943 formale, binäre Schwellenneuronen auf Papier, keine „elektronischen Neuronen“ ([McCulloch & Pitts 1943](https://doi.org/10.1007/BF02478259)).
+> - „Alles Berechenbare“ ist die Church-Turing-These, kein Beweis Turings. Für ein Essay ist die Kurzform zulässig ([Turing 1937](https://doi.org/10.1112/plms/s2-42.1.230)).
 > - „Den Geist aufgeben“ hat auch alttestamentliche Wurzeln (Klagelieder 2,12), nicht nur neutestamentliche ([Sonntagsblatt](https://www.sonntagsblatt.de/artikel/glaube/den-geist-aufgeben-die-herkunft-der-redewendung)).
 > - Koestler war ungarisch-britisch, nicht ungarisch-amerikanisch.
 
 > [!warning] Vereinfacht — Unschärferelation als Grund für die Unvorhersagbarkeit
 > Was die Komplexitätsforschung gezeigt hat, ist deterministisches Chaos. Winzige Messfehler wachsen exponentiell, darum endet die Wettervorhersage bei etwa zwei Wochen. Das gilt schon in rein klassischen Systemen. Scobels Satz widerspricht sich außerdem selbst: Wer Ort und Impuls nicht zugleich bestimmen kann, hat eben nicht „alle Informationen“. Haltbar ist ein Kern: Die Quantenunschärfe setzt der Messgenauigkeit eine Untergrenze, und Chaos kann diese Unschärfe verstärken. Eine Absicht ist nicht zu erkennen, es ist die populäre Verschmelzung zweier Unvorhersagbarkeiten.
-> Quelle: [Lorenz 1963, doi:10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2](https://doi.org/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2) · [Zhang et al. 2019, doi:10.1175/JAS-D-18-0269.1](https://doi.org/10.1175/JAS-D-18-0269.1) (Einzelstudien)
+> Quelle: [Lorenz 1963](https://doi.org/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2) · [Zhang et al. 2019](https://doi.org/10.1175/JAS-D-18-0269.1) (Einzelstudien)
 
 > [!warning] Vereinfacht — „Determinismus des Gehirns, den es ja offensichtlich nicht gibt“
 > „Offensichtlich“ ist zu stark. Neuronale Prozesse sind stark verrauscht (Review: Faisal, Selen & Wolpert 2008), und das Libet-Argument bröckelt (Schurger et al. 2012). Rauschen ist aber noch kein Indeterminismus, und ob Quanteneffekte im Gehirn eine Rolle spielen, ist umstritten (Tegmark 2000). Scobel entscheidet eine offene Frage im Nebensatz.
-> Quelle: [doi:10.1038/nrn2258](https://doi.org/10.1038/nrn2258) (Review) · [doi:10.1073/pnas.1210467109](https://doi.org/10.1073/pnas.1210467109) (Einzelstudie) · [doi:10.1103/PhysRevE.61.4194](https://doi.org/10.1103/PhysRevE.61.4194) (theoretisch)
+> Quelle: [Faisal u. a. 2008](https://doi.org/10.1038/nrn2258) (Review) · [Schurger u. a. 2012](https://doi.org/10.1073/pnas.1210467109) (Einzelstudie) · [Tegmark 2000](https://doi.org/10.1103/PhysRevE.61.4194) (theoretisch)
 
 > [!warning] Vereinfacht — „Trump und seine Big Tech Bros mit ihrer Rede von alternativen Fakten“
 > Den Begriff prägte Kellyanne Conway am 22.01.2017 in *Meet the Press*, es ging um die Menge bei der Amtseinführung. Eine „Rede“ von Big-Tech-Chefs dazu ist nicht belegt. Ebenso unbelegt ist, dass Halluzinationen etwas seien, das man „erreichen wollte“: Für die Anbieter sind sie ein Haftungsrisiko. Der reale Kern: Meta beendete am 07.01.2025 sein US-Faktencheck-Programm mit Blick auf die neue Regierung, und die Benchmarks belohnen das Raten. Hingenommen trifft es, gewollt nicht. Das Motiv ist erkennbar: Die politische Pointe verschafft dem erkenntnistheoretischen Argument einen Gegner, auf Kosten der Genauigkeit.
@@ -208,11 +208,11 @@ Ausgerechnet Scobels eigene Belege widersprechen ihm an einer Stelle. Das Lancet
 
 > [!warning] Vereinfacht — „LLMs wissen nicht, ob etwas wahr ist, und halluzinieren prinzipiell“
 > Die Forschung trägt die Hälfte. **Dafür:** Kalibrierte Modelle müssen bei seltenen Einzelfakten halluzinieren (Kalai & Vempala 2024, begutachtet), und in einer formalen Welt lässt sich Halluzination nicht vollständig beseitigen (Xu et al. 2024, Preprint). **Dagegen:** Modelle tragen ein messbares, unvollkommenes Signal über die eigene Unsicherheit (Kadavath et al. 2022, Preprint; Steyvers et al. 2025). Konfabulationen lassen sich über semantische Entropie erkennen (Farquhar et al. 2024, *Nature*). Nach Kalai et al. 2025 sind Halluzinationen großenteils ein Anreizproblem. Kadavath und Kalai kommen von Anbietern (Anthropic, OpenAI), die ein Interesse an der Deutung „lösbar“ haben. Fazit: Ein Rest ist unvermeidbar, ein großer Teil beherrschbar. Dass der Abgleich mit der erfahrenen Welt fehlt, ist eine philosophische Position, kein prüfbarer Claim.
-> Quelle: [doi:10.1145/3618260.3649777](https://doi.org/10.1145/3618260.3649777) · [doi:10.48550/arXiv.2401.11817](https://doi.org/10.48550/arXiv.2401.11817) · [doi:10.48550/arXiv.2207.05221](https://doi.org/10.48550/arXiv.2207.05221) · [doi:10.1038/s41586-024-07421-0](https://doi.org/10.1038/s41586-024-07421-0) · [doi:10.1038/s42256-024-00976-7](https://doi.org/10.1038/s42256-024-00976-7) · [doi:10.48550/arXiv.2509.04664](https://doi.org/10.48550/arXiv.2509.04664)
+> Quelle: [Kalai & Vempala 2024](https://doi.org/10.1145/3618260.3649777) · [Quelle](https://doi.org/10.48550/arXiv.2401.11817) · [Quelle](https://doi.org/10.48550/arXiv.2207.05221) · [Farquhar u. a. 2024](https://doi.org/10.1038/s41586-024-07421-0) · [Steyvers u. a. 2025](https://doi.org/10.1038/s42256-024-00976-7) · [Quelle](https://doi.org/10.48550/arXiv.2509.04664)
 
 > [!warning] Vereinfacht — „Das kann nicht wiederum ein KI-System leisten“
 > Scobels eigene Belege widersprechen ihm. Das Lancet-Audit trennt echte Erfindungen mit Sprachmodellen von Formatfehlern, und die NeurIPS-Funde stammen aus einem KI-Werkzeug. KI hilft also bereits beim Exorzismus. Das letzte Urteil bleibt allerdings menschlich, denn die Audit-Pipeline wurde an 500 von Menschen geprüften Fällen validiert. Das stützt Scobels Schlusssatz, nur nicht die Absolutheit davor.
-> Quelle: [The Scientist zur CITADEL-Methode](https://www.the-scientist.com/one-in-277-biomedical-papers-carry-fake-references-74480) · [doi:10.1038/s41586-024-07421-0](https://doi.org/10.1038/s41586-024-07421-0)
+> Quelle: [The Scientist zur CITADEL-Methode](https://www.the-scientist.com/one-in-277-biomedical-papers-carry-fake-references-74480) · [Farquhar u. a. 2024](https://doi.org/10.1038/s41586-024-07421-0)
 
 ---
 
@@ -236,7 +236,7 @@ Ausgerechnet Scobels eigene Belege widersprechen ihm an einer Stelle. Das Lancet
 - [Nature News, 08.05.2026 — Surge in fake citations uncovered by audit of 2.5 million biomedical-science papers](https://www.nature.com/articles/d41586-026-00748-w) — Einordnung des Lancet-Audits
 - [Nature Feature, 01.04.2026 — Hallucinated citations are polluting the scientific literature](https://www.nature.com/articles/d41586-026-00969-z) — Überblick samt Gegenmaßnahmen
 - [The Lancet, Bauchner & Rivara — Fabricated references, a new threat to editorial integrity](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00798-1/abstract) — Plädoyer für konsequentes Zurückziehen
-- [Resnik & Hosseini 2026, doi:10.1080/08989621.2026.2645390](https://doi.org/10.1080/08989621.2026.2645390) — folgenreiche vs. beiläufige Falschzitate; Halluzination „inextricably linked to how LLMs operate“
+- [Resnik & Hosseini 2026](https://doi.org/10.1080/08989621.2026.2645390) — folgenreiche vs. beiläufige Falschzitate; Halluzination „inextricably linked to how LLMs operate“
 - [GPTZero zu ICLR 2026](https://gptzero.me/news/iclr-2026/) — Vorgeschichte der NeurIPS-Analyse
 - [Wikipedia: Kränkungen der Menschheit](https://de.wikipedia.org/wiki/Kr%C3%A4nkungen_der_Menschheit) — Freuds drei Kränkungen und die „vierte“ durch KI
 

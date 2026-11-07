@@ -187,35 +187,35 @@ Ihre Konsequenz ist bemerkenswert unbequem für eine Digitalkonferenz: KI-Anwend
 
 > [!success] Bestätigt — Säugetier-Biomasse 36 / 60 / 4
 > Bar-On, Phillips & Milo beziffern die Säugetier-Biomasse auf ≈0,167 Gt C: Nutztiere ≈0,1, Menschen ≈0,06, wilde Säugetiere ≈0,007 — exakt Fischers Aufteilung und ebenso die Slide-Variante „Menschen, Schweine, Rinder = 96 %". Eine unabhängige Neuberechnung von 2023 kommt auf dieselbe Größenordnung: 630 Mt Nutztiere, 390 Mt Menschen, 20 Mt wilde Landsäuger plus 40 Mt Meeressäuger. Zwei unabhängige Rechnungen, dasselbe Bild.
-> Quelle: [The biomass distribution on Earth, PNAS 2018 — doi:10.1073/pnas.1711842115](https://doi.org/10.1073/pnas.1711842115) · [The global biomass of wild mammals, PNAS 2023 — doi:10.1073/pnas.2204892120](https://doi.org/10.1073/pnas.2204892120)
+> Quelle: [The biomass distribution on Earth, PNAS 2018](https://doi.org/10.1073/pnas.1711842115) · [The global biomass of wild mammals, PNAS 2023](https://doi.org/10.1073/pnas.2204892120)
 
 > [!warning] Vereinfacht — „73 % aller Wirbeltiere vernichtet"
 > Die Zahl stammt erkennbar aus dem Living Planet Index 2024 — und bedeutet dort etwas anderes: den **mittleren relativen Rückgang von rund 35.000 überwachten Populationen** (5.495 Arten) zwischen 1970 und 2020. Der Index misst nicht die Zahl verlorener Tiere, Arten oder Populationen. „73 % aller Wirbeltiere vernichtet" deutet einen Mittelwert in eine Bestandsangabe um. Dazu kommt die methodische Kritik von Leung et al.: Entfernt man die 2–3 Prozent am stärksten eingebrochenen Populationen, kippt der globale Trend ins Positive — der Mittelwert wird von wenigen Katastrophen getragen, nicht von flächendeckendem Kollaps. Der Befund „massiver, aber geclusterter Verlust" ist robust; die runde Sprechweise ist es nicht.
-> Quelle: [WWF Living Planet Report 2024](https://www.worldwildlife.org/publications/2024-living-planet-report/) · [Clustered versus catastrophic global vertebrate declines, Nature 2020 — doi:10.1038/s41586-020-2920-6](https://doi.org/10.1038/s41586-020-2920-6) · [Our World in Data — was der LPI misst](https://ourworldindata.org/living-planet-index-decline)
+> Quelle: [WWF Living Planet Report 2024](https://www.worldwildlife.org/publications/2024-living-planet-report/) · [Clustered versus catastrophic global vertebrate declines, Nature 2020](https://doi.org/10.1038/s41586-020-2920-6) · [Our World in Data — was der LPI misst](https://ourworldindata.org/living-planet-index-decline)
 
 > [!warning] Vereinfacht — „80 % aller Insekten"
 > Die Zahl geht auf die Krefeld-Studie zurück: Hallmann et al. fanden über 27 Jahre in 63 deutschen Schutzgebieten einen Rückgang der **Biomasse flugaktiver Insekten** um 76 Prozent, im Hochsommer bis 82 — regional, biomassebezogen, nicht „alle Insekten weltweit". Die bislang breiteste globale Meta-Analyse (van Klink et al., 166 Langzeitreihen, 1.676 Standorte) findet für Landinsekten rund −9 Prozent pro Jahrzehnt und für Süßwasserinsekten sogar +11 Prozent. Die Übertragung eines lokalen Biomasse-Befunds auf den Planeten hat die „Unstatistik des Monats" schon 2017 gerügt. Hier kippt eine belastbare Alarmzahl in eine unbelastbare — und die stärkere Version nützt der Erzählung.
-> Quelle: [van Klink et al., Science 2020 — doi:10.1126/science.aax9931](https://doi.org/10.1126/science.aax9931) *(Meta-Analyse, wiegt schwerer)* · [Hallmann et al., PLOS ONE 2017 — doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809) · [Unstatistik des Monats](https://www.mpib-berlin.mpg.de/unstatistik-insekten-verschwinden)
+> Quelle: [van Klink et al., Science 2020](https://doi.org/10.1126/science.aax9931) *(Meta-Analyse, wiegt schwerer)* · [Hallmann et al., PLOS ONE 2017](https://doi.org/10.1371/journal.pone.0185809) · [Unstatistik des Monats](https://www.mpib-berlin.mpg.de/unstatistik-insekten-verschwinden)
 
 > [!success] Bestätigt — Artensterberate um Faktor 1000 beschleunigt
 > Pimm et al.: „Current rates of extinction are about 1000 times the background rate of extinction" — und die Autoren halten das für eher unterschätzt. Grundlage ist De Vos et al., die die Hintergrundrate auf 0,1 Aussterbeereignisse pro Million Artjahre revidierten. Zur Ehrlichkeit gehört die Spanne: Rechnungen mit konservativeren Annahmen landen bei Faktor 100. Fischer nennt die obere, meistzitierte Zahl — belegt, aber nicht die einzige.
-> Quelle: [Pimm et al., Science 2014 — doi:10.1126/science.1246752](https://doi.org/10.1126/science.1246752) · [De Vos et al., Conservation Biology 2014 — doi:10.1111/cobi.12380](https://doi.org/10.1111/cobi.12380)
+> Quelle: [Pimm et al., Science 2014](https://doi.org/10.1126/science.1246752) · [De Vos et al., Conservation Biology 2014](https://doi.org/10.1111/cobi.12380)
 
 > [!success] Bestätigt — nur 2–3 % echte Wildnis
 > Plumptre et al. kommen auf höchstens **2,9 Prozent faunistisch intakte Landfläche** — die strengste der drei Intaktheits-Definitionen (Habitat plus vollständige Artengemeinschaft plus funktionale Dichten). Legt man nur Habitat-Intaktheit zugrunde, gelten 20 bis 23 Prozent als Wildnis. Fischers Formulierung („so wie vor dem Menschen") trifft genau die strenge Definition — die Zahl ist passend gewählt, nicht geschönt.
-> Quelle: [Plumptre et al., Frontiers in Forests and Global Change 2021 — doi:10.3389/ffgc.2021.626635](https://doi.org/10.3389/ffgc.2021.626635)
+> Quelle: [Plumptre et al., Frontiers in Forests and Global Change 2021](https://doi.org/10.3389/ffgc.2021.626635)
 
 > [!warning] Vereinfacht — 80 % aller Medikamente aus der Natur
 > Die Referenz ist Newman & Cragg, 39 Jahre Zulassungen. Dort sind rund **65 Prozent** aller neu zugelassenen Wirkstoffe naturstoffbezogen; rein synthetische Kleinmoleküle machen etwa ein Viertel aus. Für Krebs nennen die Autoren **64,9 Prozent** der 185 niedermolekularen Onkologika, in früheren Reviews mit längerem Zeitfenster bis 75. Fischers 70 Prozent für Krebs sind damit sauber; die 80 für „alle Medikamente" liegen rund 15 Punkte zu hoch. Größenordnung stimmt, die Präzision suggeriert mehr, als die Quelle hergibt.
-> Quelle: [Newman & Cragg, J. Nat. Prod. 2020 — doi:10.1021/acs.jnatprod.9b01285](https://doi.org/10.1021/acs.jnatprod.9b01285) *(Review, >5.600 Zitationen)*
+> Quelle: [Newman & Cragg, J. Nat. Prod. 2020](https://doi.org/10.1021/acs.jnatprod.9b01285) *(Review, >5.600 Zitationen)*
 
 > [!success] Bestätigt — Bestäubungswert rund 1 Billion Euro
 > Das klingt nach dem Vierfachen der bekannten IPBES-Zahl, ist aber belegt — nur mit anderer Methode. Lippert, Feuerbacher & Narjes verwerfen den etablierten Langfrist-Ansatz und rechnen die **kurzfristigen Wohlfahrtseffekte eines plötzlichen Bestäuber-Kollapses**: 1 bis 2 Prozent des globalen BIP. Fischer nennt exakt die untere Kante. Die klassische IPBES-Zahl (235–577 Mrd. US-Dollar) misst etwas anderes — den Marktwert der direkt bestäuberabhängigen Produktion. Beide Zahlen sind richtig und beantworten verschiedene Fragen; wer die Billion nennt, sollte die Methode dazusagen.
-> Quelle: [Lippert, Feuerbacher & Narjes, Ecological Economics 2020 — doi:10.1016/j.ecolecon.2020.106860](https://doi.org/10.1016/j.ecolecon.2020.106860) · [Potts et al. / IPBES, Nature 2016 — doi:10.1038/nature20588](https://doi.org/10.1038/nature20588)
+> Quelle: [Lippert, Feuerbacher & Narjes, Ecological Economics 2020](https://doi.org/10.1016/j.ecolecon.2020.106860) · [Potts et al. / IPBES, Nature 2016](https://doi.org/10.1038/nature20588)
 
 > [!warning] Vereinfacht — „Biodiversität ist der größte Wirtschaftssektor der Welt"
 > Der Faktor stimmt rechnerisch: Costanza et al. schätzen die globalen Ökosystemleistungen 2011 auf 125–145 Billionen US-Dollar jährlich gegenüber einem globalen BIP von rund 75 Billionen — Faktor 1,7 bis 1,9. Die Verkürzung liegt im Wort „Wirtschaftssektor". Diese Werte sind überwiegend **nicht-marktliche Schätzungen** (Zahlungsbereitschaften, Nutzentransfer), keine Umsätze; Costanza selbst betont, dass sie mit dem BIP nicht direkt vergleichbar sind. Als Größenverhältnis eine legitime, sogar wichtige Aussage — als „Sektor" eine Kategorienverwechslung, die den Zahlen mehr Härte gibt, als sie haben.
-> Quelle: [Costanza et al., Global Environmental Change 2014 — doi:10.1016/j.gloenvcha.2014.04.002](https://doi.org/10.1016/j.gloenvcha.2014.04.002)
+> Quelle: [Costanza et al., Global Environmental Change 2014](https://doi.org/10.1016/j.gloenvcha.2014.04.002)
 
 > [!success] Bestätigt — drei Viertel des Trinkwassers aus Wäldern
 > Die FAO nennt genau diese Zahl: 75 Prozent des zugänglichen Süßwassers stammen aus bewaldeten Einzugsgebieten. Kleine Präzisierung: Wälder erzeugen das Wasser nicht, sie regeln Speicherung, Filtration und Abflussverhalten — Fischers eigene Formulierung („wo, wann, in welcher Menge und Qualität") trifft das genau.
@@ -227,23 +227,23 @@ Ihre Konsequenz ist bemerkenswert unbequem für eine Digitalkonferenz: KI-Anwend
 
 > [!warning] Vereinfacht — „zwei Arten von Mücken" bestäuben Kakao
 > Der Kern hält: Kakaoblüten sind so winzig und verwinkelt gebaut, dass nur Kleinstinsekten an den Pollen kommen — Gnitzen der Ceratopogonidae, vor allem *Forcipomyia*, ergänzt durch Gallmücken. Honigbienen gelten als zu groß und werden in der Literatur als Pollendiebe geführt. Zu eng ist die Zahl: Es sind mehrere, regional unterschiedliche Arten, und für die meisten Anbaugebiete ist bis heute nicht geklärt, welche tatsächlich bestäuben. „Zwei Arten" macht aus einer offenen Forschungsfrage einen Fun Fact.
-> Quelle: [Kaufmann, Environmental Entomology 1975 — doi:10.1093/ee/4.2.347](https://doi.org/10.1093/ee/4.2.347) · [The Conversation — Tiny cacao flowers and fickle midges](https://theconversation.com/tiny-cacao-flowers-and-fickle-midges-are-part-of-a-pollination-puzzle-that-limits-chocolate-production-154334)
+> Quelle: [Kaufmann, Environmental Entomology 1975](https://doi.org/10.1093/ee/4.2.347) · [The Conversation — Tiny cacao flowers and fickle midges](https://theconversation.com/tiny-cacao-flowers-and-fickle-midges-are-part-of-a-pollination-puzzle-that-limits-chocolate-production-154334)
 
 > [!success] Bestätigt — Amphibien produzieren antimikrobielle Peptide
 > Gut belegt und ein Standardkapitel der Immunologie: Amphibienhaut-Sekrete enthalten eine große Zahl von Peptid-Antibiotika (Magainine aus *Xenopus*, Dermaseptine, Temporine), die zur angeborenen Immunabwehr gehören — unter anderem gegen den Chytridpilz.
-> Quelle: [Simmaco, Mignogna & Barra, Biopolymers 1998](https://doi.org/10.1002/\(sici\)1097-0282\(1998\)47:6%3C435::aid-bip3%3E3.0.co;2-8) · [Rollins-Smith, Integrative and Comparative Biology 2005 — doi:10.1093/icb/45.1.137](https://doi.org/10.1093/icb/45.1.137)
+> Quelle: [Simmaco, Mignogna & Barra, Biopolymers 1998](https://doi.org/10.1002/\(sici\)1097-0282\(1998\)47:6%3C435::aid-bip3%3E3.0.co;2-8) · [Rollins-Smith, Integrative and Comparative Biology 2005](https://doi.org/10.1093/icb/45.1.137)
 
 > [!danger] Falsch — „gegen diese Peptide können keine Resistenzen entstehen"
 > Genau diese Annahme wurde experimentell widerlegt, und zwar von **Michael Zasloff selbst**, dem Entdecker der Magainine. Perron, Zasloff & Bell setzten *E. coli* und *Pseudomonas fluorescens* über 600 bis 700 Generationen Pexiganan aus, einem Magainin-Analogon aus dem Krallenfrosch: **22 von 24 Linien entwickelten unabhängig voneinander vererbbare Resistenz**. Die Arbeit trägt den Titel wie einen Widerspruch: *Experimental evolution of resistance to an antimicrobial peptide.* Die These „AMPs sind resistenzsicher" war eine populäre Hoffnung der 1990er, die die Populationsgenetik früh bezweifelt hat. Fischer sichert sich mit „offensichtlich" ab — die Aussage bleibt trotzdem nicht haltbar, und sie stützt ihr stärkstes Argument.
-> Quelle: [Perron, Zasloff & Bell, Proc. R. Soc. B 2006 — doi:10.1098/rspb.2005.3301](https://doi.org/10.1098/rspb.2005.3301)
+> Quelle: [Perron, Zasloff & Bell, Proc. R. Soc. B 2006](https://doi.org/10.1098/rspb.2005.3301)
 
 > [!success] Bestätigt — Walhaie: 1828 beschrieben, bis 1986 rund 320 Nachweise
 > Das erste wissenschaftlich erfasste Exemplar stammt von 1828 aus der Table Bay in Südafrika, beschrieben von Andrew Smith. Fay Wolfson trug 1986 alle publizierten und verifizierten Nachweise zusammen und kam auf 320. Eine Präzisierung: Es waren 320 dokumentierte Sichtungen und Nachweise, nicht 320 bekannte Individuen — Fischers eigene Beschreibung trifft das.
-> Quelle: [Rowat & Brooks, J. Fish Biol. 2012 — doi:10.1111/j.1095-8649.2012.03252.x](https://doi.org/10.1111/j.1095-8649.2012.03252.x)
+> Quelle: [Rowat & Brooks, J. Fish Biol. 2012](https://doi.org/10.1111/j.1095-8649.2012.03252.x)
 
 > [!success] Bestätigt — Sharkbook: Sternenhimmel-Algorithmus und Social-Media-Auswertung
 > Arzoumanian, Holmberg & Norman adaptierten 2005 den **Groth-Algorithmus** aus der Astronomie auf die Punktmuster hinter den Kiemen von Walhaien — Trefferquote über 90 Prozent. Der NASA-Bezug ist real: Zaven Arzoumanian ist Astrophysiker, die Arbeit liegt auch als NASA-Technical-Report vor. Aus der Anwendung wurde die ECOCEAN-Bibliothek, daraus Wildbook und heute Sharkbook.ai. Die Social-Media-Auswertung existiert tatsächlich: Ein Agent durchkämmt nächtlich YouTube nach neuen Walhai-Videos, extrahiert Einzelbilder, gleicht Muster ab und liest per maschineller Übersetzung Ort und Zeit aus der Beschreibung. Über 8.100 Walhaie sind erfasst.
-> Quelle: [Arzoumanian, Holmberg & Norman, J. Applied Ecology 2005 — doi:10.1111/j.1365-2664.2005.01117.x](https://doi.org/10.1111/j.1365-2664.2005.01117.x) · [Sharkbook.ai](https://www.sharkbook.ai/)
+> Quelle: [Arzoumanian, Holmberg & Norman, J. Applied Ecology 2005](https://doi.org/10.1111/j.1365-2664.2005.01117.x) · [Sharkbook.ai](https://www.sharkbook.ai/)
 
 > [!success] Bestätigt — Interspecies Money: Wallets für Gorillafamilien
 > Das Konzept stammt von Jonathan Ledgard, umgesetzt von der Non-Profit **Tehanu**. Im August 2024 erhielt eine Berggorilla-Familie im Volcanoes-Nationalpark in Ruanda digitale Identität und Wallet; die erste artenübergreifende Zahlung — 5.000 ruandische Franc, rund 3,42 US-Dollar — ging an einen Ranger, nachdem er eine Schlinge vom Jungtier Gisubizo entfernt hatte. Eine KI leitet aus der ethologischen Literatur Interessen der Art ab (Sicherheit, Bewegungsfreiheit, Nahrung) und löst Mikrozahlungen an Menschen aus, die diesen Interessen dienen. Fischers Beschreibung stimmt bis in die Details.
@@ -263,7 +263,7 @@ Ihre Konsequenz ist bemerkenswert unbequem für eine Digitalkonferenz: KI-Anwend
 
 > [!success] Bestätigt — Telemetrie-Sensoren ab 0,2 Gramm
 > Das Motus-Netzwerk arbeitet mit Nanotags ab 0,2 g; Lotek gibt für den NanoPin inzwischen 0,14 g an. Kommerzielle Tags von 0,23 bis 0,3 g wurden an Libellen, Hummeln, Käfern und Schmetterlingen eingesetzt — Wikelski und Kollegen verfolgten Wanderlibellen bereits 2006 mit 0,3-g-Sendern. Für kleinere Insekten existieren batterielose Harmonic-Radar-Tags ab 0,008 g. Fischers Zahl ist konservativ.
-> Quelle: [A Review of Miniature Radio Transmitters for Wildlife Tracking, Sensors 2025 — doi:10.3390/s25020517](https://doi.org/10.3390/s25020517) · [Lotek NanoPin](https://www.lotek.com/products/nanopin/)
+> Quelle: [A Review of Miniature Radio Transmitters for Wildlife Tracking, Sensors 2025](https://doi.org/10.3390/s25020517) · [Lotek NanoPin](https://www.lotek.com/products/nanopin/)
 
 > [!note] Eigene Einschätzung — wie eine Wissenschaftlerin für ein Laienpublikum rundet
 > Der Faktencheck fällt gut für sie aus: Von zwanzig geprüften Punkten stehen die meisten, die Mechanismen stimmen bis in Details, die Projekte existieren wie beschrieben. Interessant ist die Richtung der Abweichungen. Wo Fischer rundet, rundet sie fast immer nach oben, und zwar bei den Zahlen, die dem Publikum den Ernst der Lage klarmachen sollen: 80 statt 65 Prozent Medikamente, „alle Insekten weltweit" statt „Fluginsekten-Biomasse in deutschen Schutzgebieten", „größter Wirtschaftssektor" statt „nicht-marktliche Schätzung in der Größenordnung des doppelten BIP".
