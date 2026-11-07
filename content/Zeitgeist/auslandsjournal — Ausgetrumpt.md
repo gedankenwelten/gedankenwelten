@@ -373,35 +373,35 @@ ob das trägt?
 
 Der Ton trägt, und er kostet. In Umfrageexperimenten in den USA und Dänemark hebt eine Ansprache, die sich an Arbeiter
 richtet, das Bild eines Kandidaten deutlich; für weiter links halten ihn die Befragten deswegen kaum, aber das Urteil
-spaltet sich entlang der Klasse ([Robison et al. 2020, doi:10.1177/0010414020957684](https://doi.org/10.1177/0010414020957684),
+spaltet sich entlang der Klasse ([Robison et al. 2020](https://doi.org/10.1177/0010414020957684),
 Einzelstudie). Vorurteile gegen Kandidaten aus der Arbeiterschaft haben Wähler in Großbritannien, den USA und Argentinien
-nicht ([Carnes & Lupu 2016, doi:10.1017/s0003055416000551](https://doi.org/10.1017/s0003055416000551)). Eine Warnung steckt
+nicht ([Carnes & Lupu 2016](https://doi.org/10.1017/s0003055416000551)). Eine Warnung steckt
 in einem dänischen Experiment: Wähler mit niedrigem Einkommen unterscheiden sich von anderen vor allem darin, dass sie
 Kandidaten gegen das Establishment bevorzugen, und sie stützen sogar Sozialkürzungen, wenn ein solcher Kandidat sie
-vorschlägt ([Marx & Schumacher 2018, doi:10.1111/1467-9477.12119](https://doi.org/10.1111/1467-9477.12119)). Belohnt wird
+vorschlägt ([Marx & Schumacher 2018](https://doi.org/10.1111/1467-9477.12119)). Belohnt wird
 also eher die Haltung gegen oben als das soziale Programm. Hinojosas „Populismus“ hat damit die Forschung auf seiner Seite,
 ihr „im besten Sinne“ muss sich erst zeigen.
 
 Beim Kulturkampf ist das Bild geteilt. Für Hinojosa spricht, dass Parteien der Mitte, die auf rechte Herausforderer
 zugehen, die Sorge um Migration erst groß machen, ohne selbst zu profitieren
-([Williams & Hunger 2022, doi:10.1017/s1755773922000297](https://doi.org/10.1017/s1755773922000297)). Wer das Thema des
+([Williams & Hunger 2022](https://doi.org/10.1017/s1755773922000297)). Wer das Thema des
 anderen nicht hochzieht, schwächt ihn. Gegen ein bloßes Schweigen spricht, dass Mitte-links-Parteien in Europa dort
 gewinnen, wo sie ökonomische Investition *und* gesellschaftliche Liberalität verbinden
-([Abou-Chadi & Wagner 2019, doi:10.1086/704436](https://doi.org/10.1086/704436); in 47.439 Programmsätzen aus sechs Ländern
-ähnlich [Horn, Jensen & Weisstanner 2026, doi:10.1080/13501763.2026.2614069](https://doi.org/10.1080/13501763.2026.2614069),
+([Abou-Chadi & Wagner 2019](https://doi.org/10.1086/704436); in 47.439 Programmsätzen aus sechs Ländern
+ähnlich [Horn, Jensen & Weisstanner 2026](https://doi.org/10.1080/13501763.2026.2614069),
 mit dem Preis tieferer gesellschaftlicher Gräben). Das liegt näher an Susan Neimans Lesart von Mamdani, der mit
 moralischer Sprache gewann, als an Theveßens Zentristen
 (→ [[Zeitgeist/Susan Neiman — Nennen wir es boese#Was in New York anders läuft|Neiman]]).
 
 Und die Kehrseite, die in der Folge niemand anspricht: Populismus nährt das Misstrauen, auch von links. Im niederländischen
 Panel 2008–2013 ist politische Unzufriedenheit Ursache *und* Folge der Wahl populistischer Parteien, ausdrücklich der linken
-SP wie der rechten PVV ([Rooduijn, van der Brug & de Lange 2016, doi:10.1016/j.electstud.2016.04.006](https://doi.org/10.1016/j.electstud.2016.04.006));
+SP wie der rechten PVV ([Rooduijn, van der Brug & de Lange 2016](https://doi.org/10.1016/j.electstud.2016.04.006));
 über fünfzehn Wellen bis 2022 sagt die Absicht, populistisch zu wählen, ein Jahr später mehr Unzufriedenheit und mehr
-Skepsis gegenüber der Wissenschaft voraus ([Rekker 2025, doi:10.1057/s41269-025-00391-9](https://doi.org/10.1057/s41269-025-00391-9)).
+Skepsis gegenüber der Wissenschaft voraus ([Rekker 2025](https://doi.org/10.1057/s41269-025-00391-9)).
 Ob ein Populismus von links die Rechte schwächt, wie Chantal Mouffe hofft
 (→ [[Denker/Chantal Mouffe — Das Politische und die Politik#6. Warum Konsens-Demokratien Populismus erzeugen|Mouffe]]),
 ist kausal nicht untersucht. Podemos gilt als Fall, der sich normalisierte und die Mitte nie erreichte
-([Mazzolini & Borriello 2021, doi:10.1080/23745118.2020.1868849](https://doi.org/10.1080/23745118.2020.1868849), qualitativ),
+([Mazzolini & Borriello 2021](https://doi.org/10.1080/23745118.2020.1868849), qualitativ),
 und Yanis Varoufakis, Minister der Syriza-Regierung, nennt das Scheitern der Linken im Amt eine Stufe auf dem Weg nach rechts
 (→ [[Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything#Von Protofaschismus zu Faschismus|Varoufakis]]).
 Ein Populismus, der liefern will, muss also auch das Vertrauen zurückbringen, das er beim Gewinnen verbraucht.
@@ -415,32 +415,32 @@ Theveßens nüchternster Satz: Die Wähler kamen nicht wegen besserer Konzepte, 
 
 Gegen jemanden zu wählen ist in Amerika Normalfall geworden. Seit den Achtzigern wächst die Abneigung gegen die andere Partei
 stärker als die Bindung an die eigene, und sie macht Wähler treuer, nicht wechselhafter
-([Abramowitz & Webster 2016, doi:10.1016/j.electstud.2015.11.001](https://doi.org/10.1016/j.electstud.2015.11.001); dazu
+([Abramowitz & Webster 2016](https://doi.org/10.1016/j.electstud.2015.11.001); dazu
 → [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen#Negative Parteilichkeit|Haidt]]).
 2020 stimmte etwa ein Drittel der Amerikaner eher gegen als für einen Kandidaten
-([Garzia & Ferreira da Silva 2022, doi:10.1177/1532673x221074633](https://doi.org/10.1177/1532673x221074633)). Das ist
+([Garzia & Ferreira da Silva 2022](https://doi.org/10.1177/1532673x221074633)). Das ist
 Unzufriedenheit, aber kein Rückzug aus der Demokratie: Wer gegen jemanden wählt, vertraut noch der Wahl
-([Boyer, Plescia & Blais 2025, doi:10.1017/s1475676525100364](https://doi.org/10.1017/s1475676525100364)).
+([Boyer, Plescia & Blais 2025](https://doi.org/10.1017/s1475676525100364)).
 
 Auch die Richtung ist die Regel. Seit 1934 hat die Partei des Präsidenten bei 20 von 23 Zwischenwahlen Sitze im Haus
 verloren; nur 1934, 1998 und 2002 gewann sie dazu ([American Presidency Project](https://www.presidency.ucsb.edu/statistics/data/seats-congress-gainedlost-the-presidents-party-mid-term-elections)).
-Die Forschung erklärt das als Strafe für das Regieren ([Erikson 1988, doi:10.2307/2131389](https://doi.org/10.2307/2131389))
+Die Forschung erklärt das als Strafe für das Regieren ([Erikson 1988](https://doi.org/10.2307/2131389))
 und als Ausgleich: Ein Teil wählt gegen die Partei des Präsidenten, um seine Politik zu mäßigen
-([Bafumi, Erikson & Wlezien 2010, doi:10.1017/s0022381610000113](https://doi.org/10.1017/s0022381610000113)). Die Öffentlichkeit
+([Bafumi, Erikson & Wlezien 2010](https://doi.org/10.1017/s0022381610000113)). Die Öffentlichkeit
 wirkt wie ein Thermostat, sie regelt gegen die Richtung der Politik nach
-([Soroka & Wlezien 2005, doi:10.1017/s0007123405000347](https://doi.org/10.1017/s0007123405000347)), sogar bei der
+([Soroka & Wlezien 2005](https://doi.org/10.1017/s0007123405000347)), sogar bei der
 Demokratie selbst: In 135 Ländern steigt die Zustimmung zu ihr, wenn sie abgebaut wird, und sinkt, wenn sie wächst
-([Claassen 2019, doi:10.1017/s0003055419000558](https://doi.org/10.1017/s0003055419000558)). Dass „der Zustand der Demokratie“
+([Claassen 2019](https://doi.org/10.1017/s0003055419000558)). Dass „der Zustand der Demokratie“
 im AP Voter Poll das zweitwichtigste Thema war, passt dazu. Es sagt aber auch voraus, dass der Wind sich dreht, sobald die
 Gewinner regieren.
 
 Ob die Zapfsäule oder die Werte entschieden, ist auch in der Forschung offen. In 365 Wahlen seit 1948 hebt eine
 Inflationsüberraschung die Stimmen extremer und populistischer Parteien, vor allem wenn die Reallöhne fallen
-([Federle, Mohr & Schularick 2024, doi:10.2139/ssrn.5032871](https://doi.org/10.2139/ssrn.5032871), Arbeitspapier, nicht
+([Federle, Mohr & Schularick 2024](https://doi.org/10.2139/ssrn.5032871), Arbeitspapier, nicht
 begutachtet); in amerikanischen Countys sagte 2021–2024 der Reallohnverlust republikanische Gewinne voraus
-([Riaño & Trebbi 2026, doi:10.3386/w35301](https://doi.org/10.3386/w35301)). Bei den Midterms 2022 aber wechselten Wähler
+([Riaño & Trebbi 2026](https://doi.org/10.3386/w35301)). Bei den Midterms 2022 aber wechselten Wähler
 die Seite wegen der Abtreibung und des sinkenden Vertrauens in den Supreme Court, die Inflation spielte dabei keine messbare Rolle
-([Mutz & Mansfield 2024, doi:10.1073/pnas.2319512121](https://doi.org/10.1073/pnas.2319512121), Panel). Eigendorfs
+([Mutz & Mansfield 2024](https://doi.org/10.1073/pnas.2319512121), Panel). Eigendorfs
 Entweder-oder hat keine feste Antwort.
 
 Wie lange eine Mehrheit hält, die aus Ablehnung entsteht, hat niemand direkt gemessen. Die Fälle sprechen für kurz. 2006
@@ -452,7 +452,7 @@ Machtwechsel von 2023 der Kandidat der Abgewählten die Präsidentschaft, mit 50
 ([Notes from Poland](https://notesfrompoland.com/2025/06/02/right-wing-opposition-candidate-nawrocki-wins-polish-presidential-election/);
 → [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck#Die These|Spur Abgewählt]]). Dagegen steht die Treue der
 anderen Seite: Wähler populistischer Parteien sind nicht wechselhafter als andere, ihre Unzufriedenheit macht ihre Wahl
-sogar stabiler ([Voogd & Dassonneville 2018, doi:10.1017/gov.2018.24](https://doi.org/10.1017/gov.2018.24)). Die
+sogar stabiler ([Voogd & Dassonneville 2018](https://doi.org/10.1017/gov.2018.24)). Die
 Abwählenden sind lose gebunden, die Abgewählten fest. Theveßens Satz, *„der Case ist noch nicht gegessen“*, hat die
 Geschichte auf seiner Seite.
 

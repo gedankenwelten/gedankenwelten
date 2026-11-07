@@ -213,16 +213,16 @@ Die Berichtspflichten hingegen — CSRD, Finanztaxonomie, Klimatransitionsberich
 ## Faktencheck
 
 > [!success] Bestätigt — Dix und Röpke prägten „Geoökonomie“ in den 1920ern
-> Arthur Dix veröffentlichte 1925 *Geoökonomie. Einführung in erdhafte Wirtschaftsbetrachtung* (Oldenbourg, [doi:10.1515/9783486751116](https://doi.org/10.1515/9783486751116)); Wilhelm Röpke verwendete den Begriff in *Die Konjunktur* (1922) und *Geld und Außenhandel* (1925). Dass Dix in den Nationalsozialismus abdriftete, ist belegt: 1934 eine Eloge auf Hitler in der *Zeitschrift für Politik* und die Schrift *Raum und Rasse*. Röpke ging 1933 ins Exil. Nicht belegt ist, dass sich beide um die Urheberschaft „bekriegt“ hätten.
+> Arthur Dix veröffentlichte 1925 *Geoökonomie. Einführung in erdhafte Wirtschaftsbetrachtung* ([Oldenbourg](https://doi.org/10.1515/9783486751116)); Wilhelm Röpke verwendete den Begriff in *Die Konjunktur* (1922) und *Geld und Außenhandel* (1925). Dass Dix in den Nationalsozialismus abdriftete, ist belegt: 1934 eine Eloge auf Hitler in der *Zeitschrift für Politik* und die Schrift *Raum und Rasse*. Röpke ging 1933 ins Exil. Nicht belegt ist, dass sich beide um die Urheberschaft „bekriegt“ hätten.
 
 > [!warning] Vereinfacht — Hambantota als Schuldenfalle
-> Sri Lanka verpachtete den Hafen 2017 für 99 Jahre zu 70 % an China Merchants Port (1,12 Mrd. Dollar). Mit den Hafenkrediten war das Land aber nicht im Verzug; das Geld aus dem Leasing diente vor allem dazu, andere, überwiegend nicht-chinesische Schulden zu bedienen. Die Forschung hält das Bild der „Schuldenfalle“ darum für irreführend (Brautigam 2020, *Area Development and Policy*, [doi:10.1080/23792949.2019.1689828](https://doi.org/10.1080/23792949.2019.1689828)). Hambantota ist zudem vor allem ein Hafen für Autofrachter und Massengut, kein Containerhafen.
+> Sri Lanka verpachtete den Hafen 2017 für 99 Jahre zu 70 % an China Merchants Port (1,12 Mrd. Dollar). Mit den Hafenkrediten war das Land aber nicht im Verzug; das Geld aus dem Leasing diente vor allem dazu, andere, überwiegend nicht-chinesische Schulden zu bedienen. Die Forschung hält das Bild der „Schuldenfalle“ darum für irreführend ([Brautigam 2020, *Area Development and Policy*](https://doi.org/10.1080/23792949.2019.1689828)). Hambantota ist zudem vor allem ein Hafen für Autofrachter und Massengut, kein Containerhafen.
 
 > [!warning] Vereinfacht — Häfen und Militarisierung
 > Hein spricht vorsichtig von einem „Zusammenhang mit einer Militarisierung“. Eine offizielle chinesische Militärbasis im Ausland gibt es bisher nur in Dschibuti; Hambantota und Gwadar gelten als *wahrscheinliche künftige* Standorte (AidData 2023: [Harboring Global Ambitions](https://www.aiddata.org/publications/harboring-global-ambitions)).
 
 > [!success] Bestätigt — USAID-Abbau kostet Millionen Leben (als Prognose)
-> Eine Modellrechnung im *Lancet* schätzt, dass die Kürzungen bis 2030 rund 14 Millionen zusätzliche Todesfälle verursachen könnten (Unsicherheitsbereich 8,5–19,7 Millionen), darunter 4,5 Millionen Kinder unter fünf Jahren (Cavalcanti et al. 2025, Primärstudie, [doi:10.1016/S0140-6736(25)01186-9](https://doi.org/10.1016/S0140-6736(25)01186-9)). Es ist eine Prognose, keine Zählung.
+> Eine Modellrechnung im *Lancet* schätzt, dass die Kürzungen bis 2030 rund 14 Millionen zusätzliche Todesfälle verursachen könnten (Unsicherheitsbereich 8,5–19,7 Millionen), darunter 4,5 Millionen Kinder unter fünf Jahren ([Cavalcanti et al. 2025, Primärstudie](https://doi.org/10.1016/S0140-6736(25)01186-9)). Es ist eine Prognose, keine Zählung.
 >
 > *Korrigiert am 25.10.2026: Hier stand ein Reuters-Link, den es nicht gibt.*
 

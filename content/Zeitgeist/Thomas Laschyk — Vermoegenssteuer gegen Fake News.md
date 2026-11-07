@@ -194,11 +194,11 @@ Was von der These übrig bleibt, ist eine lange, indirekte Kette. Mit dem Geld l
 
 > [!warning] Vereinfacht — Twitter-Studie: Rechte Parteien in 6 von 7 Ländern verstärkt
 > Die Zahl stimmt (Huszár et al., *PNAS* 2022). Das Land ohne Rechtsverstärkung war **Deutschland**. Und die Studie fand ausdrücklich *keine* stärkere Verstärkung für Parteien am äußersten linken oder rechten Rand; AfD und Linke wurden eher schwächer verstärkt als Parteien der Mitte. Als Beleg für eine Bevorzugung Rechtsextremer taugt die Studie damit nicht.
-> Quelle: [Huszár et al. 2022, doi:10.1073/pnas.2025334119](https://doi.org/10.1073/pnas.2025334119) (begutachtete Einzelstudie mit Plattformdaten)
+> Quelle: [Huszár et al. 2022](https://doi.org/10.1073/pnas.2025334119) (begutachtete Einzelstudie mit Plattformdaten)
 
 > [!warning] Vereinfacht — „77 % der Fake News der US-Wahl 2020 von Rechten produziert“
 > Die Zahl 77 Prozent ließ sich nicht auffinden. Die naheliegende Studie (González-Bailón et al., *Science* 2023) misst, wer Inhalte **sieht**, nicht wer sie produziert: 97 Prozent der als falsch eingestuften Links wurden überwiegend von Konservativen gesehen. Der Kern stimmt also, teils sogar stärker. Eine Parallelstudie desselben Projekts (Guess et al. 2023) zeigt aber, dass der chronologische Feed *mehr* unzuverlässige Inhalte brachte — Facebooks Algorithmus dämpfte sie 2020 eher. Für 2024 nennt Laschyk keine Studie.
-> Quellen: [González-Bailón et al. 2023, doi:10.1126/science.ade7138](https://doi.org/10.1126/science.ade7138) · [Guess et al. 2023, doi:10.1126/science.abp9364](https://doi.org/10.1126/science.abp9364)
+> Quellen: [González-Bailón et al. 2023](https://doi.org/10.1126/science.ade7138) · [Guess et al. 2023](https://doi.org/10.1126/science.abp9364)
 
 > [!warning] Vereinfacht — DIW: 1 % Vermögenssteuer bringt ~42 Mrd. €, „selbst mit Ausweichen zweistellig“
 > Die Studie entstand laut Sherlock-Recherche im Auftrag der Linken-Bundestagsfraktion und der Rosa-Luxemburg-Stiftung. Die 42 Milliarden sind der statische Wert **vor** Ausweichreaktionen. Die Studie selbst rechnet bei hoher Elastizität mit Einbußen von bis zu 60 Prozent (80 Prozent inklusive Ausfällen bei anderen Steuern); dann bliebe ein einstelliger Milliardenbetrag. Sie warnt zudem vor Investitions- und Standortschäden und empfiehlt eine schrittweise, international abgestimmte Einführung.
@@ -222,11 +222,11 @@ Was von der These übrig bleibt, ist eine lange, indirekte Kette. Mit dem Geld l
 
 > [!success] Bestätigt — MIT-Studie: Falschmeldungen verbreiten sich schneller
 > Vosoughi, Roy und Aral (*Science* 2018): rund 126.000 Kaskaden, 2006–2017, Falschmeldungen mit 70 Prozent höherer Wahrscheinlichkeit retweetet, Wahres braucht etwa sechsmal so lange. Einschränkung: Laut Studie verbreiten Bots Wahres und Falsches gleich stark; eine Nachanalyse (Juul & Ugander 2021) erklärt die strukturellen Unterschiede weitgehend mit der größeren Reichweite der Falsch-Kaskaden.
-> Quellen: [Vosoughi et al. 2018, doi:10.1126/science.aap9559](https://doi.org/10.1126/science.aap9559) · [Juul & Ugander 2021, doi:10.1073/pnas.2100786118](https://doi.org/10.1073/pnas.2100786118)
+> Quellen: [Vosoughi et al. 2018](https://doi.org/10.1126/science.aap9559) · [Juul & Ugander 2021](https://doi.org/10.1073/pnas.2100786118)
 
 > [!success] Bestätigt — Radikal rechtspopulistische Parteien verbreiten am meisten Falschinformation
 > Törnberg und Chueri (2025): 32 Millionen Tweets, über 8.000 Abgeordnete, 26 Länder. Wichtig für Laschyks „austauschbar fast“: Rechte Politik allgemein und Populismus allgemein hängen laut Studie nicht mit Desinformation zusammen — nur der radikale Rechtspopulismus.
-> Quelle: [Törnberg & Chueri 2025, doi:10.1177/19401612241311886](https://doi.org/10.1177/19401612241311886) (begutachtete Einzelstudie)
+> Quelle: [Törnberg & Chueri 2025](https://doi.org/10.1177/19401612241311886) (begutachtete Einzelstudie)
 
 > [!success] Bestätigt — Der Algorithmus von X verschiebt nach rechts
 > Gauthier et al. (*Nature* 2026), Feldexperiment in den USA 2023: Konservative Posts erscheinen deutlich häufiger, Beiträge von Nachrichtenmedien 58 Prozent seltener; die politische Haltung der Nutzer verschob sich nach rechts.
@@ -242,7 +242,7 @@ Was von der These übrig bleibt, ist eine lange, indirekte Kette. Mit dem Geld l
 
 > [!success] Bestätigt — Drei Viertel der Desinformationsseiten leben von Werbung
 > Ahmad et al. (*Nature* 2024): 74,5 Prozent, Firmen mit automatisierter Werbung rund zehnmal häufiger auf solchen Seiten. Zum Vergleich: Auch 89 Prozent aller Nachrichtenseiten leben von Werbung. Die Paywall-These stützt die Studie (nur 3 Prozent der Desinformationsseiten haben eine).
-> Quelle: [doi:10.1038/s41586-024-07404-1](https://doi.org/10.1038/s41586-024-07404-1)
+> Quelle: [Ahmad u. a. 2024](https://doi.org/10.1038/s41586-024-07404-1)
 
 > [!success] Bestätigt — Döpfners Aktiengeschenk und der FDP-Chat
 > Schenkung von rund 15 Prozent (2020), Zukauf von 4,1 Prozent, über 44 Prozent der Stimmrechte; Poolvertrag und Verschonungsbedarfsprüfung sind berichtet. Die „halbe Milliarde“ ist die theoretische Steuer auf rund eine Milliarde Euro; der tatsächliche Erlass unterliegt dem Steuergeheimnis. Chat („please stärke die FDP“) und Bild-Artikel am selben Abend sind durch die *Zeit*-Recherche belegt. „Rechtsradikale Einstellungen“ ist Laschyks Wertung.
@@ -270,15 +270,15 @@ Was von der These übrig bleibt, ist eine lange, indirekte Kette. Mit dem Geld l
 
 > [!note] Forschungsstand — Ist Desinformation asymmetrisch rechts?
 > **Konsens (stark):** In den USA und vielen europäischen Ländern teilen Konservative und besonders radikale Rechtspopulisten deutlich mehr minderwertige oder falsche Inhalte — auch dann, wenn politisch ausgewogene Laien oder nur Republikaner die Qualität bewerten. Der Einwand, das sei ein Artefakt voreingenommener Faktenchecker, trägt damit nicht. **Dissens:** Garrett & Bond (2021) erklären die Lücke teilweise mit dem Angebot — die meistgeteilten Falschmeldungen stützten zufällig konservative Positionen. Treiber ist der radikale Rechtspopulismus, nicht „rechts“ an sich; die Datenlage stützt sich stark auf die USA.
-> Quellen: [Mosleh & Rand 2024, doi:10.1038/s41586-024-07942-8](https://doi.org/10.1038/s41586-024-07942-8) · [Renault et al. 2025, doi:10.1073/pnas.2502053122](https://doi.org/10.1073/pnas.2502053122) · [Garrett & Bond 2021, doi:10.1126/sciadv.abf1234](https://doi.org/10.1126/sciadv.abf1234)
+> Quellen: [Mosleh & Rand 2024](https://doi.org/10.1038/s41586-024-07942-8) · [Renault et al. 2025](https://doi.org/10.1073/pnas.2502053122) · [Garrett & Bond 2021](https://doi.org/10.1126/sciadv.abf1234)
 
 > [!note] Forschungsstand — Treibt Ungleichheit den Rechtsruck?
 > Belegt, aber nur unter Bedingungen. Steigende Einkommensungleichheit erhöht die Wahl rechtsradikaler Parteien — getrieben eher von der Abstiegsangst mittlerer und höherer Statusgruppen als von der Not der Armen (Engler & Weisstanner 2020). Gidron & Hall betonen wirtschaftlichen *und* kulturellen Statusverlust; Funke, Schularick & Trebesch zeigen Rechtsrucks nach Finanzkrisen. Ungleichheit kann auch die Linke stärken oder die Wahlbeteiligung senken. In Deutschland stieg die Einkommensungleichheit seit etwa 2005 kaum; die AfD wuchs vor allem nach 2015. Laschyks Kette ist ein plausibler Mechanismus unter mehreren.
-> Quellen: [Engler & Weisstanner 2020, doi:10.1080/13501763.2020.1733636](https://doi.org/10.1080/13501763.2020.1733636) · [Gidron & Hall 2017, doi:10.1111/1468-4446.12319](https://doi.org/10.1111/1468-4446.12319) · [Funke, Schularick & Trebesch 2016, doi:10.1016/j.euroecorev.2016.03.006](https://doi.org/10.1016/j.euroecorev.2016.03.006)
+> Quellen: [Engler & Weisstanner 2020](https://doi.org/10.1080/13501763.2020.1733636) · [Gidron & Hall 2017](https://doi.org/10.1111/1468-4446.12319) · [Funke, Schularick & Trebesch 2016](https://doi.org/10.1016/j.euroecorev.2016.03.006)
 
 > [!note] Forschungsstand — Die stärksten Einwände gegen eine Vermögenssteuer
 > **Ausweichen:** In der Schweiz führt ein Prozentpunkt weniger Vermögenssteuer nach sechs Jahren zu mindestens 43 Prozent mehr gemeldetem Vermögen (Brülhart et al.); auch in Dänemark reagierten Vermögen deutlich (Jakobsen, Kleven, Zucman — Zucman ist Mitautor). **Auslandserfahrung:** Die Zahl der OECD-Länder mit Vermögenssteuer sank von 12 (1990) auf 4 (2017), meist bei geringem Aufkommen und hohem Verwaltungsaufwand. **Bewertung:** In Deutschland ist die Steuer seit 1997 ausgesetzt, weil das BVerfG 1995 die ungleiche Bewertung beanstandete; verlässliche Bewertung von Betriebs- und Immobilienvermögen bleibt das Kernproblem. Laschyks stärkerer Hebel ist die bestehende Erbschaftsteuer mit ihren Verschonungsregeln.
-> Quellen: [Brülhart et al., doi:10.1257/pol.20200258](https://doi.org/10.1257/pol.20200258) · [Jakobsen, Kleven & Zucman 2020, doi:10.1093/qje/qjz032](https://doi.org/10.1093/qje/qjz032) · [OECD 2018 — The Role and Design of Net Wealth Taxes](https://www.oecd.org/en/publications/the-role-and-design-of-net-wealth-taxes-in-the-oecd_9789264290303-en.html)
+> Quellen: [Brülhart et al.](https://doi.org/10.1257/pol.20200258) · [Jakobsen, Kleven & Zucman 2020](https://doi.org/10.1093/qje/qjz032) · [OECD 2018 — The Role and Design of Net Wealth Taxes](https://www.oecd.org/en/publications/the-role-and-design-of-net-wealth-taxes-in-the-oecd_9789264290303-en.html)
 
 ---
 

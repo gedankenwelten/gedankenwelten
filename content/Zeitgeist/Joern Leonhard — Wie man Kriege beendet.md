@@ -253,7 +253,7 @@ Im Bestand stehen die Erfahrungen nebeneinander. Konstantin Flemig erzählt Mün
 
 > [!warning] Vereinfacht — Die Toten der Pariser Kommune
 > Leonhard sagt, bei der Niederschlagung der Kommune 1871 seien „etwa 40.000 Menschen getötet“ worden [▶ 28:16](https://www.youtube.com/watch?v=SV9CNnVhio0&t=1696). Das liegt weit über dem Forschungsstand. Ältere Schätzungen nennen 10.000 bis 20.000 Tote; Robert Tombs kommt nach Archivprüfung auf 6.000 bis 7.500, eine umstrittene Revision. Die 40.000 entsprechen ungefähr der Zahl der Festgenommenen (43.522).
-> Quelle: Tombs 2012, *The Historical Journal*, [doi:10.1017/s0018246x12000222](https://doi.org/10.1017/s0018246x12000222) *(archivgestützte Einzelstudie)* · [Semaine sanglante (Wikipedia)](https://en.wikipedia.org/wiki/Semaine_sanglante)
+> Quelle: [Tombs 2012, *The Historical Journal*](https://doi.org/10.1017/s0018246x12000222) *(archivgestützte Einzelstudie)* · [Semaine sanglante (Wikipedia)](https://en.wikipedia.org/wiki/Semaine_sanglante)
 
 > [!warning] Vereinfacht — Karthagos Nachgeben
 > Das Muster stimmt: Karthago gab nach, Rom verlangte immer mehr und zerstörte die Stadt am Ende. Die Reihenfolge war anders. Zuerst forderte Rom 300 Geiseln, Söhne von Ratsherren, zu stellen in Lilybaeum auf Sizilien; wehrpflichtige Männer waren es nicht. Danach mussten die Waffen abgegeben werden. Zuletzt sollte die Stadt geräumt und landeinwärts neu angelegt werden. Erst das lehnte Karthago ab und hielt dann drei Jahre der Belagerung stand. Vernichtet wurde also kein wehrloser Gegner, sondern einer, der sich gleich wieder bewaffnet hatte.
@@ -281,7 +281,7 @@ Im Bestand stehen die Erfahrungen nebeneinander. Konstantin Flemig erzählt Mün
 
 > [!success] Bestätigt — Das Ende der Friedensverträge
 > Leonhards Hauptthese deckt sich mit Tanisha Fazals Datensatz zu Kriegen zwischen Staaten seit 1816: Im 19. Jahrhundert endeten etwa drei Viertel mit einem Friedensvertrag, im 20. Jahrhundert insgesamt etwa 40 %, nach 1950 nur noch etwa 15 %. Zwei Einschränkungen: Fazals Daten beginnen 1816, die 80 % für 1648–1945 sind Leonhards Zuspitzung. Und sie gelten für Staatenkriege; in Bürgerkriegen ist der Anteil der Friedensverträge seit 1950 stark gestiegen. „Aller Konflikte“ geht darum zu weit.
-> Quelle: Fazal 2013, *International Organization*, [doi:10.1017/s0020818313000246](https://doi.org/10.1017/s0020818313000246) *(Primärstudie mit eigenem Datensatz)* · Fazal 2014, *AJIL Unbound*, [doi:10.1017/s2398772300001835](https://doi.org/10.1017/s2398772300001835) *(Zusammenfassung mit den Prozentzahlen, frei lesbar)*
+> Quelle: [Fazal 2013, *International Organization*](https://doi.org/10.1017/s0020818313000246) *(Primärstudie mit eigenem Datensatz)* · [Fazal 2014, *AJIL Unbound*](https://doi.org/10.1017/s2398772300001835) *(Zusammenfassung mit den Prozentzahlen, frei lesbar)*
 
 > [!success] Bestätigt — Korea: über 100.000 Brüche
 > Nach einer Quelle im UN-Kommando zählte man bis 2003 über 430.000 Verstöße Nordkoreas gegen das Waffenstillstandsabkommen; schon 1982 nannte der *Christian Science Monitor* 343.404 gemeldete Fälle. Gezählt werden auch kleine Verstöße, und beide Seiten werfen sich gegenseitig Hunderttausende vor. Leonhards „über 100.000“ ist eher vorsichtig.

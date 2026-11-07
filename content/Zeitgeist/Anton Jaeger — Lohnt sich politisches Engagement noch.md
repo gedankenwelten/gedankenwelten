@@ -115,7 +115,7 @@ Die Titelfrage beantwortet das Video nie direkt — und genau darin liegt die An
 > Nach dem Mord an George Floyd gingen 2020 rund 15 bis 26 Millionen Amerikaner auf die Straße — nach Einschätzung von Protestforschern die größte Bewegung der US-Geschichte. Jägers „fast 25 Millionen" liegt am oberen Rand dieser Spanne. Die zugrundeliegenden Umfragen wertete die *New York Times* im Juli 2020 aus. Quelle: [Black Lives Matter May Be the Largest Movement in U.S. History (NYT)](https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html)
 
 > [!success] Bestätigt — Amerikaner verbringen ~1,5 Stunden mehr zu Hause
-> Laut Patrick Sharkeys Studie „Homebound" (2024) stieg die täglich zu Hause verbrachte Zeit US-amerikanischer Erwachsener von 2003 bis 2022 um 99 Minuten. Quelle: [Sharkey, „Homebound", *Sociological Science* 2024, DOI 10.15195/v11.a20](https://sociologicalscience.com/articles-v11-20-553/)
+> Laut Patrick Sharkeys Studie „Homebound" (2024) stieg die täglich zu Hause verbrachte Zeit US-amerikanischer Erwachsener von 2003 bis 2022 um 99 Minuten. Quelle: [Sharkey, „Homebound", *Sociological Science* 2024](https://doi.org/10.15195/v11.a20)
 
 > [!success] Bestätigt — „Epidemie der Einsamkeit"
 > Der Begriff ist amtlich: US-Surgeon-General Vivek Murthy legte im Mai 2023 das Advisory „Our Epidemic of Loneliness and Isolation" vor — rund die Hälfte der US-Erwachsenen erlebt demnach Einsamkeit, mit Gesundheitsrisiken auf dem Niveau des Rauchens. Quelle: [Our Epidemic of Loneliness and Isolation — U.S. Surgeon General (PDF)](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
@@ -144,7 +144,7 @@ Die Titelfrage beantwortet das Video nie direkt — und genau darin liegt die An
 - Anton Jäger: [*Hyperpolitik. Extreme Politisierung ohne politische Folgen*](https://www.genialokal.de/Suche/?q=anton+jaeger+hyperpolitik) (Suhrkamp 2023) — das Buch hinter dem Format
 - Zeynep Tufekci: [*Twitter and Tear Gas*](https://www.genialokal.de/Suche/?q=tufekci+twitter+tear+gas) (2017) · [TED-Talk 2014](https://www.ted.com/talks/zeynep_tufekci_online_social_change_easy_to_organize_hard_to_win) — Organisation als Kapital des Protests
 - Didier Eribon: [*Rückkehr nach Reims*](https://www.genialokal.de/Suche/?q=eribon+rueckkehr+nach+reims) (2009) — die Partei als Lebensform
-- [Patrick Sharkey, „Homebound" (*Sociological Science* 2024, DOI 10.15195/v11.a20)](https://sociologicalscience.com/articles-v11-20-553/) — die 99 Minuten mehr zu Hause
+- [Patrick Sharkey, „Homebound" (*Sociological Science* 2024)](https://doi.org/10.15195/v11.a20) — die 99 Minuten mehr zu Hause
 - [U.S. Surgeon General: Our Epidemic of Loneliness and Isolation (2023)](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) — Primärquelle zur Einsamkeits-Epidemie
 - [Ortiz et al., *World Protests* (Springer, Open Access)](https://link.springer.com/book/10.1007/978-3-030-88513-7) — Datenbasis zur Protestwelle 2006–2020
 - [Anton Jäger — University of Oxford, DPIR](https://www.politics.ox.ac.uk/person/anton-jager) — offizielles Profil

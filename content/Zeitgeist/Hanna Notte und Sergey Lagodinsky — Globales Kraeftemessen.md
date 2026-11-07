@@ -245,7 +245,7 @@ Bleibt Lagodinskys Völkerrechts-Skrupel. Er entspricht der Mehrheitsmeinung —
 
 > [!success] Bestätigt — ANC-Kämpfer in Odessa und Kiew ausgebildet
 > Die einfachen Kämpfer von Umkhonto we Sizwe wurden größtenteils in der Ukrainischen SSR ausgebildet: 328 Rekruten 1963–65 bei Odessa, später im Lager Perewalne auf der Krim; die ersten ANC-Studenten kamen 1962 nach Kiew. Zugespitzt ist nur das „nicht nach Moskau“ — die Führung ging dorthin zur politischen Schulung. Der Kern ist Nottes stärkstes Argument. → [[#Wem gehört die sowjetische Dankbarkeit]]
-> Quelle: [Lynd, The politics of imperial gratitude (Africa is a Country)](https://africasacountry.com/2022/03/the-politics-of-imperial-gratitude) · Kasrils 2019, *The Thinker*, [doi:10.36615/thethinker.v80i2.213](https://doi.org/10.36615/thethinker.v80i2.213) (Zeitzeugenbericht) · van der Westhuizen 2025, [doi:10.4324/9781003627869-5](https://doi.org/10.4324/9781003627869-5) (Buchkapitel)
+> Quelle: [Lynd, The politics of imperial gratitude (Africa is a Country)](https://africasacountry.com/2022/03/the-politics-of-imperial-gratitude) · [Kasrils 2019, *The Thinker*](https://doi.org/10.36615/thethinker.v80i2.213) (Zeitzeugenbericht) · [van der Westhuizen 2025](https://doi.org/10.4324/9781003627869-5) (Buchkapitel)
 
 > [!warning] Nicht verifizierbar — Die Kuleba-Anekdote
 > Ein Gespräch aus erster Hand, das Land bleibt bewusst ungenannt. Kulebas Afrikareisen 2022/23 und sein Werben mit Investitionen und Hilfe gegen das antikoloniale Narrativ sind gut belegt; die Szene selbst fand sich weder in Rezensionen von *We Shall Outlast Them* noch in Kuleba-Interviews. Ein Motiv zur Erfindung ist nicht zu erkennen, und sie passt zur Studienlage.

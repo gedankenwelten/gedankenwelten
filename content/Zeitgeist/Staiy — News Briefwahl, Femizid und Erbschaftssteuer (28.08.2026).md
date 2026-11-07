@@ -331,7 +331,7 @@ Das Wort ist keine Erfindung des Kanals, und seine Herkunft ist die Pointe: Gepr
 *Briefwahl, Desinformation, US-Vorbild:*
 
 - [„Where the electoral shoe pinches" (2021)](https://www.researchgate.net/publication/351839994_Where_the_electoral_shoe_pinches_Postal_voting_problems_in_Germany_between_reality_and_perception) — die vom faktenfinder zitierte Studie
-- [Nyhuis/Münchow: „Implementing the mail ballot" (2026), DOI 10.1080/17457289.2026.2699987](https://doi.org/10.1080/17457289.2026.2699987) — Open Access, aktuelle Arbeit des im Artikel zitierten Wahlforschers
+- [Nyhuis/Münchow: „Implementing the mail ballot" (2026)](https://doi.org/10.1080/17457289.2026.2699987) — Open Access, aktuelle Arbeit des im Artikel zitierten Wahlforschers
 - [tagesschau: Russische Desinformationskampagne zur Briefwahl enttarnt (Storm-1516)](https://www.tagesschau.de/inland/bundestagswahl/desinformation-russland-briefwahl-100.html)
 - [Brennan Center: Project 2025's Anti-Voter Agenda](https://www.brennancenter.org/our-work/research-reports/project-2025s-anti-voter-agenda) — was dort wirklich steht
 

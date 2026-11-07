@@ -154,17 +154,17 @@ Gleichzeitig werden Chemikalien freigesetzt, die bis zu 10.000-fach stärker sin
 
 > [!warning] Vereinfacht — „Die Krefelder Studie hat bewiesen, dass Ackergifte benachbarte Schutzgebiete töten“
 > Die Krefelder Studie (Hallmann et al. 2017) maß 76 % weniger Biomasse fliegender Insekten in 63 Schutzgebieten und nannte die Intensivierung der Landwirtschaft als plausible Ursache, wies sie aber nicht nach — ihr Modell konnte den Rückgang weder mit Wetter noch mit Landnutzung erklären. Pestizidrückstände in Insekten aus Schutzgebieten zeigte erst das DINA-Projekt (Brühl et al. 2021, mit Hörren und Sorg als Mitautoren). Ursache und Anteile sind bis heute umstritten (→ [[Hoerren und Sorg — Die Insekten verschwinden#Wetter oder Trend?]]).
-> Quelle: Hallmann et al. 2017, *PLOS ONE* — [doi:10.1371/journal.pone.0185809](https://doi.org/10.1371/journal.pone.0185809) · Brühl et al. 2021, *Scientific Reports* — [doi:10.1038/s41598-021-03366-w](https://doi.org/10.1038/s41598-021-03366-w)
+> Quelle: Hallmann et al. 2017, *PLOS ONE* — [Hallmann u. a. 2017](https://doi.org/10.1371/journal.pone.0185809) · Brühl et al. 2021, *Scientific Reports* — [Brühl u. a. 2021](https://doi.org/10.1038/s41598-021-03366-w)
 
 > [!success] Bestätigt — CO₂-Vorhersagen der 1970er
 > Die Klimamodelle der 1970er Jahre sagten den CO₂-Anstieg und die Erwärmung mit hoher Genauigkeit voraus. [Wallace Broecker, "Climatic Change: Are We on the Brink of a Pronounced Global Warming?", Science, 1975](https://www.science.org/doi/10.1126/science.189.4201.460)
 
 > [!success] Bestätigt — Bayerische Wiesen eintönigste Insektenhabitate
-> Studie der Universität Würzburg in Nature Communications, Januar 2026, belegt massive Homogenisierung der Insektenfauna im deutschen Grünland. [Decker et al. 2026, *Nat. Commun.*, doi:10.1038/s41467-025-67612-9](https://doi.org/10.1038/s41467-025-67612-9)
+> Studie der Universität Würzburg in Nature Communications, Januar 2026, belegt massive Homogenisierung der Insektenfauna im deutschen Grünland. [Decker et al. 2026, *Nat. Commun.*](https://doi.org/10.1038/s41467-025-67612-9)
 
 > [!warning] Vereinfacht — Wir befinden uns im Worst-Case-Szenario
 > Der Kern stimmt, das Etikett nicht. Die Erwärmung läuft schneller als erwartet: 1,5 °C wurden 2024 **3–7 Jahre früher** überschritten als in den CMIP6-Projektionen, die Beobachtungen liegen am oberen Rand der AR6-Bandbreite. Die *Emissionen* aber liegen **unter** SSP5-8.5, das der IPCC selbst als unwahrscheinlich einstuft; die neue Szenarien-Generation für CMIP7 hat es im April 2026 formell ausgemustert, weil die realen Emissionen seinen Annahmen nie folgten — das höchste neue Szenario endet um ~3,5 °C statt ~5 °C. Dass Förderstaaten „jeden Tropfen“ fördern wollen, ist eine Absicht, kein Emissionspfad. *(Korrigiert am 11.10.2026, vorher „Bestätigt“ mit Pauschalverweis auf AR6.)*
-> Quelle: [Forster et al. 2025, *Earth Syst. Sci. Data* — doi:10.5194/essd-17-2641-2025](https://doi.org/10.5194/essd-17-2641-2025) · [van Vuuren et al. 2026, *Geosci. Model Dev.* — doi:10.5194/gmd-19-2627-2026](https://doi.org/10.5194/gmd-19-2627-2026) · [IPCC AR6](https://www.ipcc.ch/assessment-report/ar6/)
+> Quelle: [Forster et al. 2025, *Earth Syst. Sci. Data*](https://doi.org/10.5194/essd-17-2641-2025) · [van Vuuren et al. 2026, *Geosci. Model Dev.*](https://doi.org/10.5194/gmd-19-2627-2026) · [IPCC AR6](https://www.ipcc.ch/assessment-report/ar6/)
 
 > [!success] Bestätigt — 12 Hiroshima-Bomben pro Sekunde
 > Die Erwärmungsrate der Erde wird regelmäßig in dieser Einheit kommuniziert (ca. 400.000 Hiroshima-Bomben pro Tag). [Skeptical Science](https://skepticalscience.com/4-Hiroshima-bombs-worth-of-heat-per-second.html)

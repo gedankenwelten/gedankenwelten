@@ -32,7 +32,7 @@ aliases:
 > [!abstract] Worum es geht
 > Im Februar 2023 erfindet die BILD ein Wort: *Heizungshammer*. Es steht in keinem Gesetzentwurf, es beschreibt keinen realen Vorgang — und wird trotzdem über 250-mal gedruckt, wandert in mehr als tausend weitere Artikel und bleibt am Ende als politische Wirklichkeit stehen. Eine peer-reviewte Studie hat es Wort für Wort ausgezählt. Der eigentliche Skandal steht dabei nicht in der BILD — den erwartet man dort. Er steht in den tausend seriösen Blättern, die den Kampfbegriff ungeprüft übernahmen.
 
-Quelle: [Studie belegt: Wie BILD mit dem erfundenen „Heizungshammer" unsere Politik manipulierte](https://volksverpetzer.de/analyse/heizhammer-studie/) (Thomas Laschyk, Volksverpetzer, 09.07.2026) · Studie: Loschke, Braungardt, Keimeyer & Rosenow (Oxford / Öko-Institut), *Energy Research & Social Science*, 02.07.2026, [DOI 10.1016/j.erss.2026.104832](https://doi.org/10.1016/j.erss.2026.104832) (Open Access).
+Quelle: [Studie belegt: Wie BILD mit dem erfundenen „Heizungshammer" unsere Politik manipulierte](https://volksverpetzer.de/analyse/heizhammer-studie/) (Thomas Laschyk, Volksverpetzer, 09.07.2026) · Studie: Loschke, Braungardt, Keimeyer & Rosenow (Oxford / Öko-Institut), *Energy Research & Social Science*, 02.07.2026, [Loschke u. a. 2026](https://doi.org/10.1016/j.erss.2026.104832) (Open Access).
 
 ---
 
@@ -62,7 +62,7 @@ Und sie hatte Folgen bis ins Gesetzblatt: die schrittweise Aufgabe der 65-Prozen
 ## Faktencheck
 
 > [!success] Bestätigt — die Zahlen stammen aus der Studie
-> Korpus von 333 BILD-Artikeln (Jan 2023 – März 2024), die drei Strategien, „Heizungshammer" über 250-mal / in über 1.100 weiteren Artikeln sowie die Politik-Folgen sind **wörtlich der peer-reviewten Quelle** entnommen: Loschke, Braungardt, Keimeyer & Rosenow (2026), *Energy Research & Social Science*, [DOI 10.1016/j.erss.2026.104832](https://doi.org/10.1016/j.erss.2026.104832).
+> Korpus von 333 BILD-Artikeln (Jan 2023 – März 2024), die drei Strategien, „Heizungshammer" über 250-mal / in über 1.100 weiteren Artikeln sowie die Politik-Folgen sind **wörtlich der peer-reviewten Quelle** entnommen: Loschke, Braungardt, Keimeyer & Rosenow (2026), *Energy Research & Social Science*, [Loschke u. a. 2026](https://doi.org/10.1016/j.erss.2026.104832).
 
 > [!warning] Einordnen — frische Einzelstudie, starker Kausalanspruch, Partei-Optik
 > Die Studie ist frisch (02.07.2026, noch nicht repliziert) und analysiert *ein* Medium — ein solider, aber einzelner Datenpunkt. Der Satz *Framing wandert direkt in Gesetzgebung* ist eine begründete Deutung, kein isolierter Kausalbeweis (Framing, Lobbyismus, Koalitionsdynamik wirken zusammen). Und der Volksverpetzer ist erklärter BILD-Gegner, der sich in der eigenen Analyse selbst als Heldenstimme benennt — der Befund über die *Sprache* ist hart, die *Wertung* darf man mit gehobener Augenbraue lesen.

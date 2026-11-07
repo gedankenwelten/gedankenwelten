@@ -193,7 +193,7 @@ Die Waffe ist also nicht eingesteckt worden. Sie liegt sichtbar auf dem Tisch, w
 > Das Exportverbot vom Juni 1973 gab es. Der Preissprung begann aber schon Ende 1972, mit dem großen Getreidegeschäft der Sowjetunion und dem Ausfall der peruanischen Sardellenfänge, aus denen Futter-Fischmehl kam; im Juni 1973 lag der Monatsdurchschnitt bei rund 10 Dollar je Bushel, ein Mehrfaches des früheren Preises. Das Embargo folgte dem Preis, es verursachte ihn nicht, und eine Dürre als Grund nennt die Quelle nicht. Eine Folge reicht bis heute: Japan finanzierte danach die Erschließung des brasilianischen Cerrado mit. [Quelle: [farmdoc daily — The Consequential Seventies](https://farmdocdaily.illinois.edu/2019/05/a-brief-review-of-the-consequential-seventies.html)]
 
 > [!danger] Falsch für den Amazonas — Soja als „wichtigste Ursache für Waldvernichtung“
-> Im Amazonas ist Weideland für Rinder der Haupttreiber der Rodung; neue Sojafelder auf frisch gerodetem Wald gingen dort nach dem Soja-Moratorium von 2006 stark zurück. Für den Cerrado trifft ARTEs Satz weitgehend zu. Südamerikaweit wurden bis 2016 rund 9 % der Waldverluste direkt zu Sojafeldern, fast die Hälfte davon im Cerrado (Song et al. 2021, *Nature Sustainability*, Primärstudie, [doi:10.1038/s41893-021-00729-z](https://doi.org/10.1038/s41893-021-00729-z)). Die „über 40 %“ für Brasilien lassen sich nicht belegen. Indirekt wirkt Soja trotzdem: Es verdrängt Weiden, die dann in den Wald ausweichen. [Quelle auch: [Our World in Data — Soy](https://ourworldindata.org/soy)]
+> Im Amazonas ist Weideland für Rinder der Haupttreiber der Rodung; neue Sojafelder auf frisch gerodetem Wald gingen dort nach dem Soja-Moratorium von 2006 stark zurück. Für den Cerrado trifft ARTEs Satz weitgehend zu. Südamerikaweit wurden bis 2016 rund 9 % der Waldverluste direkt zu Sojafeldern, fast die Hälfte davon im Cerrado ([Song et al. 2021, *Nature Sustainability*, Primärstudie](https://doi.org/10.1038/s41893-021-00729-z)). Die „über 40 %“ für Brasilien lassen sich nicht belegen. Indirekt wirkt Soja trotzdem: Es verdrängt Weiden, die dann in den Wald ausweichen. [Quelle auch: [Our World in Data — Soy](https://ourworldindata.org/soy)]
 
 > [!success] Bestätigt — Brasilien rund 165 Millionen Tonnen
 > USDA nennt 172,5 Mio. Tonnen für das Erntejahr 2024/25, die FAO 144,5 Mio. Tonnen für das Kalenderjahr 2024. [Quelle: [USDA FAS, Tabelle 07](https://apps.fas.usda.gov/psdonline/circulars/oilseeds.pdf)]
@@ -213,7 +213,7 @@ Die Waffe ist also nicht eingesteckt worden. Sie liegt sichtbar auf dem Tisch, w
 
 - [USDA FAS — Oilseeds: World Markets and Trade](https://apps.fas.usda.gov/psdonline/circulars/oilseeds.pdf) — Produktion, Handel, Importe nach Ländern
 - [Our World in Data — Soy](https://ourworldindata.org/soy) — Verwendung der Ernte, Entwaldung
-- Song et al. (2021): Massive soybean expansion in South America since 2000 and implications for conservation. *Nature Sustainability* — [doi:10.1038/s41893-021-00729-z](https://doi.org/10.1038/s41893-021-00729-z)
+- Song et al. (2021): Massive soybean expansion in South America since 2000 and implications for conservation. *Nature Sustainability* — [Song u. a. 2021](https://doi.org/10.1038/s41893-021-00729-z)
 - [farmdoc daily — A Brief Review of the Consequential Seventies](https://farmdocdaily.illinois.edu/2019/05/a-brief-review-of-the-consequential-seventies.html) — Preisgeschichte um das Nixon-Embargo 1973
 - [EUR-Lex — Verordnung (EU) 2025/2650](https://eur-lex.europa.eu/eli/reg/2025/2650/oj) — Verschiebung der EU-Entwaldungsverordnung
 

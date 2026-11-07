@@ -194,7 +194,7 @@ Das Muster ist bereits sichtbar: Unter Social-Media-Posts steht zunehmend *„@G
 
 **Das Buch** erschien am 27.04.2026 und hatte im August eine zweite Auflage. In den großen Feuilletons ist es nicht besprochen; Rezensionen kamen aus alternativen Medien wie Manova und apolut, im Freitag steht es als Verlagskooperation.
 
-**Social Media als Gehirnwäsche?** Die Forschung bleibt bei kleinen, ungleich verteilten Effekten. Weniger Nutzung hilft im Mittel wenig, belasteten Jugendlichen mehr (Lopes u. a., *Journal of Affective Disorders*, 2026, [doi:10.1016/j.jad.2026.122426](https://doi.org/10.1016/j.jad.2026.122426)). Ein noch nicht begutachtetes Feldexperiment fand sogar, dass Menschen sich schlechter fühlten, wenn man ihnen die giftigen Inhalte ausblendete (Beknazar-Yuzbashev u. a., CESifo-Arbeitspapier, Juli 2026). Dass Algorithmen Einstellungen messbar verschieben, zeigt ein Experiment mit dem X-Algorithmus (Gauthier u. a., *Nature*, Februar 2026, [doi:10.1038/s41586-026-10098-2](https://doi.org/10.1038/s41586-026-10098-2)) — Einfluss also, aber keine Gehirnwäsche.
+**Social Media als Gehirnwäsche?** Die Forschung bleibt bei kleinen, ungleich verteilten Effekten. Weniger Nutzung hilft im Mittel wenig, belasteten Jugendlichen mehr ([Lopes u. a., *Journal of Affective Disorders*, 2026](https://doi.org/10.1016/j.jad.2026.122426)). Ein noch nicht begutachtetes Feldexperiment fand sogar, dass Menschen sich schlechter fühlten, wenn man ihnen die giftigen Inhalte ausblendete (Beknazar-Yuzbashev u. a., CESifo-Arbeitspapier, Juli 2026). Dass Algorithmen Einstellungen messbar verschieben, zeigt ein Experiment mit dem X-Algorithmus ([Gauthier u. a., *Nature*, Februar 2026](https://doi.org/10.1038/s41586-026-10098-2)) — Einfluss also, aber keine Gehirnwäsche.
 
 ---
 
@@ -265,7 +265,7 @@ Das Muster ist bereits sichtbar: Unter Social-Media-Posts steht zunehmend *„@G
 - Rebecca Lemov: *The Instability of Truth: Brainwashing, Mind Control, and Hyper-Persuasion* (W. W. Norton, 2025) — von der Gehirnwäsche zur Hyper-Persuasion
 - Benjamin Breen: *Tripping on Utopia* (2024) — Psychedelika-Forschung im Umfeld der Macy-Stiftung
 - Abigail Shrier: *Irreversible Damage* (2020) — Im Gespräch bei Transhumanismus-Debatte erwähnt
-- Nick Bostrom: *The Vulnerable World Hypothesis* (Global Policy, 2019, [doi:10.1111/1758-5899.12718](https://doi.org/10.1111/1758-5899.12718)) — die Urne mit der schwarzen Kugel
+- Nick Bostrom: *The Vulnerable World Hypothesis* ([Global Policy, 2019](https://doi.org/10.1111/1758-5899.12718)) — die Urne mit der schwarzen Kugel
 - Palantir: [22 Thesen auf X](https://www.businessinsider.com/palantir-manifesto-alex-karp-technological-republic-summary-2026-4), 18.04.2026, eine Zusammenfassung von Karp und Zamiskas *The Technological Republic* — erste These: *„Silicon Valley owes a moral debt to the country that made its rise possible."*
 - Paolo Benanti: [*L'hérésie américaine : faut-il brûler Peter Thiel ?*](https://legrandcontinent.eu/fr/2026/03/14/thiel-heresie-benanti/) (Le Grand Continent, 14.03.2026)
 

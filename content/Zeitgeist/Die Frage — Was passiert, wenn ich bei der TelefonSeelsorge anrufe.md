@@ -178,7 +178,7 @@ Eine von ihnen, Gift Chuma, erzählt in einem kurzen Film des Vereins, wie sie d
 
 > [!warning] Vereinfacht — „Gerade Hochbelastete, die nicht mehr anrufen würden“
 > krisenchat begründet hier das eigene Angebot, das an Fördergeld hängt. Die Daten stützen einen Teil: In 6.962 ausgewerteten Chats (Mai 2020 bis Juli 2021) schrieb jede fünfte Person (20,7 %) wegen Suizidgedanken; typisch war eine 17-Jährige, die zu der Zeit nicht in anderer Behandlung war. Ob der Chat Menschen erreicht, die „nicht mehr anrufen würden“, wurde nicht untersucht, und wer nie schreibt, kommt in den Daten nicht vor. Querschnittsstudie, die Mitgründerin Melanie Eckert ist Mitautorin.
-> Quelle: Kohls, Guenthner, Baldofski, Eckert et al. (2022), *Frontiers in Psychiatry*, Querschnittsstudie, [DOI 10.3389/fpsyt.2022.862298](https://doi.org/10.3389/fpsyt.2022.862298)
+> Quelle: Kohls, Guenthner, Baldofski, Eckert et al. (2022), *Frontiers in Psychiatry*, Querschnittsstudie, [Kohls u. a. 2022](https://doi.org/10.3389/fpsyt.2022.862298)
 
 > [!success] Bestätigt — Nummer gegen Kummer: 116 111, Mo–Sa 14–20 Uhr, samstags beraten Jugendliche
 > Die Telefonberatung läuft montags bis samstags von 14 bis 20 Uhr. Samstags heißt es „Unter uns – Jugendliche beraten Jugendliche“, ebenfalls 14 bis 20 Uhr unter 116 111. Der Chat ist montags bis donnerstags von 14 bis 20 Uhr offen, auch dort beraten Ehrenamtliche.
@@ -198,7 +198,7 @@ Eine von ihnen, Gift Chuma, erzählt in einem kurzen Film des Vereins, wie sie d
 
 > [!warning] Nicht eindeutig belegt — Was Krisentelefone bewirken
 > Die Note behauptet keine Wirkung, aber ein Leser nimmt mit, dass Zuhören hilft. Der Forschungsstand dazu ist dünn und widerspricht nicht. Ein systematischer Review fand 33 Studien (1990–2018), die meisten auf der schwächsten Evidenzstufe, 80 Prozent mit hohem Verzerrungsrisiko: „High quality evidence demonstrating crisis line effectiveness is lacking“, und meist wird nur gemessen, was während des Gesprächs geschieht. Am belastbarsten ist eine Studie mit verdeckt mitgehörten Gesprächen (1.507 Anrufe im US-Lifeline-Netz): Bei geschulten Berater:innen waren die Anrufenden am Ende seltener suizidal und hoffnungsvoller. Zum krisenchat zeigt eine Längsschnittstudie ohne Kontrollgruppe, dass 48,6 Prozent von 247 Nutzer:innen nach vier Wochen die empfohlene Stelle kontaktiert hatten (Mitautor:innen von krisenchat). Das spricht für die Rolle als „Brücke“, für eine langfristig gesenkte Suizidalität ist es kein Beleg.
-> Quelle: Hoffberg, Stearns-Yoder & Brenner (2020), *Frontiers in Public Health*, systematischer Review, [DOI 10.3389/fpubh.2019.00399](https://doi.org/10.3389/fpubh.2019.00399) · Baldofski, Kohls, Efe, Eckert et al. (2023), *JMIR Mental Health*, Längsschnitt ohne Kontrollgruppe, [DOI 10.2196/43780](https://doi.org/10.2196/43780)
+> Quelle: Hoffberg, Stearns-Yoder & Brenner (2020), *Frontiers in Public Health*, systematischer Review, [Hoffberg u. a. 2020](https://doi.org/10.3389/fpubh.2019.00399) · Baldofski, Kohls, Efe, Eckert et al. (2023), *JMIR Mental Health*, Längsschnitt ohne Kontrollgruppe, [Baldofski u. a. 2023](https://doi.org/10.2196/43780)
 
 ---
 
@@ -221,7 +221,7 @@ Eine von ihnen, Gift Chuma, erzählt in einem kurzen Film des Vereins, wie sie d
 - [70 Jahre TelefonSeelsorge (02.10.2026)](https://www.telefonseelsorge.de/70-jahre-telefonseelsorge/) — Gründungsgeschichte und aktuelle Zahlen
 - [BR: Telefonseelsorge am Limit (05.12.2024)](https://www.br.de/nachrichten/bayern/telefonseelsorge-am-limit-kein-durchkommen-in-der-krise,UVOVNgB) — Anrufversuche gegen beantwortete Anrufe, Vergleich mit dem Krisendienst Bayern
 - [BT-Drs. 21/7613](https://dserver.bundestag.de/btd/21/076/2107613.pdf) und [21/7550](https://dserver.bundestag.de/btd/21/075/2107550.pdf) — Antworten der Bundesregierung zu krisenchat, Nummer gegen Kummer und U25, mit Zahlen und Förderung
-- Hug, Kohls, Baldofski et al. (2026), *Frontiers in Digital Health*, [DOI 10.3389/fdgth.2026.1787638](https://doi.org/10.3389/fdgth.2026.1787638) — Querschnitt 2020–2023: Nach Selbstauskunft sinkt die Belastung nach dem Chat (Mitautor:innen von krisenchat)
+- Hug, Kohls, Baldofski et al. (2026), *Frontiers in Digital Health*, [Hug u. a. 2026](https://doi.org/10.3389/fdgth.2026.1787638) — Querschnitt 2020–2023: Nach Selbstauskunft sinkt die Belastung nach dem Chat (Mitautor:innen von krisenchat)
 - [kirche-mv.de: 30 Jahre Ökumenische TelefonSeelsorge Vorpommern](https://www.kirche-mv.de/nachrichten/2024/september/oekumenische-telefonseelsorge-vorpommern-feiert-30-jaehriges-jubilaeum) — Simonsen über „Stapelkrisen“ und die Grenzen beim Chat
 
 ---

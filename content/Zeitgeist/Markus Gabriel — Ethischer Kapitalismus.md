@@ -133,7 +133,7 @@ Gabriels Neuer Moralischer Realismus hat drei Dimensionen:
 > Rudolf Eucken (1846–1926) war Philosoph und erhielt 1908 den **Nobelpreis für Literatur** (nicht Frieden). Sein Sohn Walter Eucken begründete den Ordoliberalismus. Gabriels Unsicherheit über die Kategorie ist berechtigt. Quelle: [Wikipedia — Rudolf Eucken](https://en.wikipedia.org/wiki/Rudolf_Eucken)
 
 > [!success] Bestätigt — Colin Mayer: *Capitalism and Crises* und „true profit“
-> Das Buch heißt *Capitalism and Crises: How to Fix Them* (Oxford University Press, online im November 2023, gedruckt im Januar 2024, [doi:10.1093/oso/9780198887942.001.0001](https://doi.org/10.1093/oso/9780198887942.001.0001)); „Crisis“ und „Crises“ klingen im Vortrag gleich, und Gabriel sagt zu Recht, es sei „im Druck“. „True profit“ ist Mayers Begriff (*Journal of the British Academy* 2022, [doi:10.5871/jba/010s5.001](https://doi.org/10.5871/jba/010s5.001)), ebenso der Gedanke, Gewinn aus der Lösung von Problemen zu ziehen statt aus ihrer Erzeugung.
+> Das Buch heißt *Capitalism and Crises: How to Fix Them* ([Oxford University Press, online im November 2023, gedruckt im Januar 2024](https://doi.org/10.1093/oso/9780198887942.001.0001)); „Crisis“ und „Crises“ klingen im Vortrag gleich, und Gabriel sagt zu Recht, es sei „im Druck“. „True profit“ ist Mayers Begriff ([*Journal of the British Academy* 2022](https://doi.org/10.5871/jba/010s5.001)), ebenso der Gedanke, Gewinn aus der Lösung von Problemen zu ziehen statt aus ihrer Erzeugung.
 >
 > *Korrigiert am 25.10.2026: Hier stand bisher „Vereinfacht“ und ein Zweifel an der Zuschreibung von „true profit“.*
 

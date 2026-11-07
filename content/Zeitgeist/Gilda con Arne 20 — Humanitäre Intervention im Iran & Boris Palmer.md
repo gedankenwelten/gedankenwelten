@@ -187,7 +187,7 @@ Ob der Krieg das Regime geschwächt oder gefestigt hat, verfolgt eine eigene Spu
 ## Faktencheck
 
 > [!warning] Nicht eindeutig belegt — „70 bis 80 % der IGH-Urteile werden befolgt“
-> Die Größenordnung entspricht dem Tenor der Forschung: Colter Paulsons Studie zur Befolgung der IGH-Urteile seit 1987 (American Journal of International Law, 2004, [doi:10.2307/3181640](https://doi.org/10.2307/3181640)) hält fest, dass offene Nichtbefolgung selten ist, aber auch, dass Befolgung oft schwer festzustellen ist. Die Zahl 70–80 % haben wir im Original nicht gefunden; Ambos nennt sie aus dem Gedächtnis („amerikanische Studien“).
+> Die Größenordnung entspricht dem Tenor der Forschung: Colter Paulsons Studie zur Befolgung der IGH-Urteile seit 1987 ([American Journal of International Law, 2004](https://doi.org/10.2307/3181640)) hält fest, dass offene Nichtbefolgung selten ist, aber auch, dass Befolgung oft schwer festzustellen ist. Die Zahl 70–80 % haben wir im Original nicht gefunden; Ambos nennt sie aus dem Gedächtnis („amerikanische Studien“).
 
 > [!note] Korrigiert am 29.10.2026
 > In der ersten Fassung stand, Palmer habe eine „namentlich erkennbare“ Lehrerin belastet, sein Vorgehen sei „kein Zufall, sondern Methode“ und er „inszeniere sich als Opfer der Empörung“. Nichts davon wird in der Folge gesagt: Die Lehrerin fürchtete, erkannt zu werden; die Wertungen stammen von uns. Außerdem waren die Kernthese und sechs weitere Zitate Umschreibungen, das Wort „Drecksarbeit“ stammt von Gilda, nicht von Ambos, und die Stimme der jungen Frau aus Teheran stand ohne Gildas Einschränkung da, das sei keine Mehrheitsmeinung.

@@ -299,25 +299,25 @@ Roessner sagt, Eltern hielten Negatives zu lange von den Kindern fern, und das s
 Standortleiter von Mubea nennt die Jugend „weniger kritikfähig“. Die Forschung gibt Roessner in einem Punkt
 recht. Über 47 Studien erklärt Erziehung zwar nur rund vier Prozent der Unterschiede in kindlicher Angst, aber am
 meisten wiegt darin, ob Eltern Autonomie gewähren; Kontrolle hängt enger mit Angst zusammen als Kälte
-([McLeod, Wood & Weisz 2007, doi:10.1016/j.cpr.2006.09.002](https://doi.org/10.1016/j.cpr.2006.09.002),
+([McLeod, Wood & Weisz 2007](https://doi.org/10.1016/j.cpr.2006.09.002),
 Meta-Analyse). Überbehütung hängt klein, aber stabil mit Problemen von Kindern zusammen; was zuerst kommt, die
 behütende Mutter oder das ängstliche Kind, kann die meist querschnittliche Forschung nicht sagen
-([de Roo, Veenstra & Kretschmer 2022, doi:10.1111/sode.12590](https://doi.org/10.1111/sode.12590),
+([de Roo, Veenstra & Kretschmer 2022](https://doi.org/10.1111/sode.12590),
 Meta-Analyse). Am deutlichsten wird der Gedanke bei Kindern mit Angststörung: Wenn Eltern lernen, ihrem Kind
 die gefürchteten Situationen nicht mehr abzunehmen, wirkt das so gut wie eine Verhaltenstherapie des Kindes
-selbst ([Lebowitz u. a. 2020, doi:10.1016/j.jaac.2019.02.014](https://doi.org/10.1016/j.jaac.2019.02.014),
+selbst ([Lebowitz u. a. 2020](https://doi.org/10.1016/j.jaac.2019.02.014),
 randomisierte Studie). Und eine Langzeitstudie fand, dass Menschen mit etwas Widrigkeit im Leben besser dran
 sind als solche mit viel, aber auch besser als solche mit gar keiner
-([Seery, Holman & Silver 2010, doi:10.1037/a0021344](https://doi.org/10.1037/a0021344), Einzelstudie,
+([Seery, Holman & Silver 2010](https://doi.org/10.1037/a0021344), Einzelstudie,
 Erwachsene).
 
 Die andere Hälfte des Bildes ist Linn. Unter jungen Menschen in den USA, Kanada und Großbritannien ist der
 Perfektionismus seit 1989 stetig gestiegen, am stärksten das Gefühl, andere verlangten Perfektion
-([Curran & Hill 2019, doi:10.1037/bul0000138](https://doi.org/10.1037/bul0000138), Meta-Analyse über 41.641
+([Curran & Hill 2019](https://doi.org/10.1037/bul0000138), Meta-Analyse über 41.641
 Personen), und mit ihm die wahrgenommenen Erwartungen *und* die Kritik der Eltern
-([Curran & Hill 2022, doi:10.1037/bul0000347](https://doi.org/10.1037/bul0000347)). Die Angst vor Fehlern hängt
+([Curran & Hill 2022](https://doi.org/10.1037/bul0000347)). Die Angst vor Fehlern hängt
 mittelstark mit Depression zusammen, das bloße Streben kaum
-([Lunn u. a. 2023, doi:10.1080/16506073.2023.2211736](https://doi.org/10.1080/16506073.2023.2211736),
+([Lunn u. a. 2023](https://doi.org/10.1080/16506073.2023.2211736),
 Meta-Analyse). Werners Satz von der geringeren Kritikfähigkeit hat niemand gemessen; gemessen ist eher, dass
 junge Menschen mehr Kritik erleben als früher. Viele Kinder werden also zugleich geschont und gefordert. Für
 Deutschland fehlen solche Zeitreihen.
@@ -347,12 +347,12 @@ gestiegen ist, ohne dass das Warten endete
 ([Statista nach GBE](https://de.statista.com/infografik/30390/anzahl-psychologischer-psychotherapeuten-je-100000-einwohnerinnen-in-deutschland/)).
 Wie groß die Lücke ist, schätzt ein Überblick über 41 Arbeiten: Etwa jedes sechste bis siebte Kind bräuchte
 Psychotherapie, höchstens jedes fünfzigste bekommt sie
-([Rodney-Wolf & Schmitz 2025, doi:10.3389/fpubh.2025.1480630](https://doi.org/10.3389/fpubh.2025.1480630),
+([Rodney-Wolf & Schmitz 2025](https://doi.org/10.3389/fpubh.2025.1480630),
 Scoping-Review). Für die Wartezeit selbst gibt es Brücken: Einzelsitzungen wirken bei Jugendlichen klein bis
-mittel, am besten bei Ängsten ([Schleider & Weisz 2017, doi:10.1016/j.jaac.2016.11.007](https://doi.org/10.1016/j.jaac.2016.11.007),
+mittel, am besten bei Ängsten ([Schleider & Weisz 2017](https://doi.org/10.1016/j.jaac.2016.11.007),
 Meta-Analyse), und eine Online-Sitzung für Eltern von Kindern auf der Warteliste senkte in einer kleinen Studie
 die Angst der Kinder bis zum Therapiebeginn
-([Abel u. a. 2026, doi:10.1016/j.brat.2026.105107](https://doi.org/10.1016/j.brat.2026.105107), Pilotstudie).
+([Abel u. a. 2026](https://doi.org/10.1016/j.brat.2026.105107), Pilotstudie).
 Es ist derselbe Hebel wie bei der Überbehütung: dem Kind weniger abnehmen.
 
 → Weiter im Panorama: **[[Panorama/Was fordert die Gen Z#Psychotherapie|Was fordert die Gen Z? — Psychotherapie]]**, wo steht, was die Politik 2026 getan hat.
@@ -363,17 +363,17 @@ Ob soziale Medien krank machen, klärt der Faktencheck; hier die Frage, was hilf
 hat das Fach Medienbildung und Informatik; ein landesweites Verbot gibt es in Thüringen nicht, jede Schule regelt
 es selbst ([Thüringer Schulportal](https://schulportal-thueringen.de/home/medienbildung/medienbildung_und_schulische_praxis/regelungen_digitale_endgeraete)).
 Die Befunde zu Handyverboten sind gemischt. In zwei spanischen Regionen ging nach dem Verbot das Mobbing zurück
-([Beneito & Vicente-Chirivella 2022, doi:10.1108/aea-05-2021-0112](https://doi.org/10.1108/aea-05-2021-0112)),
+([Beneito & Vicente-Chirivella 2022](https://doi.org/10.1108/aea-05-2021-0112)),
 in Südaustralien war nach einem Monat kein Unterschied zu sehen
-([King u. a. 2024, doi:10.1556/2006.2024.00058](https://doi.org/10.1556/2006.2024.00058)), und an englischen
+([King u. a. 2024](https://doi.org/10.1556/2006.2024.00058)), und an englischen
 Schulen mit Verbot war die Handyzeit nur während des Unterrichts kürzer, über den Tag nicht
-([Goodyear u. a. 2025, doi:10.1016/j.lanepe.2025.101211](https://doi.org/10.1016/j.lanepe.2025.101211)). Wenn
+([Goodyear u. a. 2025](https://doi.org/10.1016/j.lanepe.2025.101211)). Wenn
 ein Verbot wirkt, dann eher auf das Miteinander als auf die Psyche.
 
 Vielversprechender könnte sein, was das elfjährige Kind in Arnstadt erzählt: das erste Smartphone verabredet
 später. An englischen Schulen, an denen mindestens ein Fünftel der Eltern versprach, ihren Kindern vor 14 kein
 Smartphone zu geben, sank der Förderbedarf in sozial-emotionaler Gesundheit um etwa acht Prozent
-([Veramendi 2026, doi:10.1920/wp.ifs.2026.4526](https://doi.org/10.1920/wp.ifs.2026.4526), noch nicht
+([Veramendi 2026](https://doi.org/10.1920/wp.ifs.2026.4526), noch nicht
 begutachtet). Australien hat unter 16 seit Dezember 2025 die Konten verboten; nach den ersten Monaten sank der
 Anteil der Kinder mit eigenem Konto laut einer Elternbefragung von gut der Hälfte auf ein Drittel, viele behielten
 ihres, weil die Plattform nie nach dem Alter gefragt hatte
@@ -381,10 +381,10 @@ ihres, weil die Plattform nie nach dem Alter gefragt hatte
 Zur psychischen Wirkung gibt es noch keine Daten. Die Bundesregierung will soziale Netzwerke grundsätzlich erst ab
 13 Jahren erlauben ([Eckpunkte vom 14.10.2026](https://www.bundesregierung.de/breg-de/aktuelles/kabinett-eckpunkte-jugendmedienschutz-2456960)).
 Medienbildung wirkt nachweislich, auf das Wissen stärker als auf das Verhalten
-([Cho, Carpenter & Li 2025, doi:10.1093/hcr/hqaf004](https://doi.org/10.1093/hcr/hqaf004), Meta-Analyse),
+([Cho, Carpenter & Li 2025](https://doi.org/10.1093/hcr/hqaf004), Meta-Analyse),
 und beim Körperbild, wo die Forschung den Schaden am deutlichsten findet, verbessern Schulprogramme ab Klasse 5
 beides, Medienkompetenz und Körperbild; die Übersicht dazu kommt aus Jena
-([Kurz u. a. 2021, doi:10.1007/s10935-021-00660-1](https://doi.org/10.1007/s10935-021-00660-1), Meta-Analyse).
+([Kurz u. a. 2021](https://doi.org/10.1007/s10935-021-00660-1), Meta-Analyse).
 
 Im Bestand stehen dazu schon mehrere Stimmen gegeneinander:
 [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder#Die Jugend-Perspektive Nicht über uns, sondern mit uns|Sanya Lehmann]]
@@ -405,7 +405,7 @@ mit dem Einwand, ein Verbot ohne neue Räume nehme den Kindern nur das letzte Ve
 > Quelle: [Deutsches Schulbarometer Schüler:innen 2024 (PDF)](https://www.bosch-stiftung.de/sites/default/files/documents/2024-11/Deutsches%20Schulbarometer_Sch%C3%BCler_2024.pdf)
 
 > [!warning] Vereinfacht — „21 % schätzen sich als psychisch auffällig ein, besonders Mädchen“
-> Die 21 % stammen ebenfalls aus dem Schulbarometer 2024 und setzen sich zusammen: 12 % „auffällig“ und 9 % „grenzwertig“, gemessen mit dem Screening-Fragebogen SDQ. Bei den 8- bis 10-Jährigen beruht der Wert auf der Auskunft der Eltern, Selbsteinschätzung sind also nur die Angaben der 11- bis 17-Jährigen. Und genau diese Studie findet für die Auffälligkeiten **keine** statistisch bedeutsamen Unterschiede nach Geschlecht; „junge Frauen“ kommen in ihr gar nicht vor (bis 17 Jahre). Der Satz „besonders betroffen: Mädchen und junge Frauen“ stimmt in der Breite der Forschung trotzdem: In der deutschen HBSC-Studie 2022 berichtet etwa die Hälfte der Mädchen, aber ein Drittel der Jungen von mehreren psychosomatischen Beschwerden (Reiß et al. 2024, [doi:10.25646/11868](https://doi.org/10.25646/11868), Primärstudie, vier Wellen 2009/10–2022, N = 21.788), und in der COPSY-Welle vom Herbst 2025 nahmen Angst- und depressive Symptome nur bei Mädchen ab 14 zu (Kaman et al. 2026, [doi:10.1007/s00787-026-03092-6](https://doi.org/10.1007/s00787-026-03092-6), Längsschnitt). Er gehört nur nicht an diese Zahl. Kein erkennbares Motiv, das ist Montage: Zahlen aus verschiedenen Quellen auf eine Texttafel gezogen.
+> Die 21 % stammen ebenfalls aus dem Schulbarometer 2024 und setzen sich zusammen: 12 % „auffällig“ und 9 % „grenzwertig“, gemessen mit dem Screening-Fragebogen SDQ. Bei den 8- bis 10-Jährigen beruht der Wert auf der Auskunft der Eltern, Selbsteinschätzung sind also nur die Angaben der 11- bis 17-Jährigen. Und genau diese Studie findet für die Auffälligkeiten **keine** statistisch bedeutsamen Unterschiede nach Geschlecht; „junge Frauen“ kommen in ihr gar nicht vor (bis 17 Jahre). Der Satz „besonders betroffen: Mädchen und junge Frauen“ stimmt in der Breite der Forschung trotzdem: In der deutschen HBSC-Studie 2022 berichtet etwa die Hälfte der Mädchen, aber ein Drittel der Jungen von mehreren psychosomatischen Beschwerden ([Reiß et al. 2024](https://doi.org/10.25646/11868), Primärstudie, vier Wellen 2009/10–2022, N = 21.788), und in der COPSY-Welle vom Herbst 2025 nahmen Angst- und depressive Symptome nur bei Mädchen ab 14 zu ([Kaman et al. 2026](https://doi.org/10.1007/s00787-026-03092-6), Längsschnitt). Er gehört nur nicht an diese Zahl. Kein erkennbares Motiv, das ist Montage: Zahlen aus verschiedenen Quellen auf eine Texttafel gezogen.
 > Quelle: [Deutsches Schulbarometer Schüler:innen 2024 (PDF)](https://www.bosch-stiftung.de/sites/default/files/documents/2024-11/Deutsches%20Schulbarometer_Sch%C3%BCler_2024.pdf)
 
 > [!success] Bestätigt — Die häufigsten Belastungen der 14- bis 29-Jährigen (Trendstudie 2025)
@@ -417,7 +417,7 @@ mit dem Einwand, ein Verbot ohne neue Räume nehme den Kindern nur das letzte Ve
 > Quelle: Keine unabhängige Quelle gefunden. *(Zur Größenordnung: [BARMER-Arztreport Thüringen, berichtet von Eisenach Online, 16.04.2021](https://www.eisenachonline.de/thueringen/kinder-und-jugendliche-in-thueringen-bekommen-immer-mehr-psychotherapie-107706); [MDR-Manuskript (PDF)](https://www.mdr.de/investigativ/burnout-kinder-100.pdf))*
 
 > [!success] Bestätigt — Keine kontinuierliche Erfassung
-> „Eine kontinuierliche Erfassung zum psychischen Wohlbefinden von jungen Menschen gibt es in Deutschland nicht.“ Das hält. Die Mental Health Surveillance des Robert Koch-Instituts berichtet laufend, ist aber auf Erwachsene zugeschnitten (Indikatoren „ab 18 Jahre“); für Kinder und Jugendliche wird ein bundesweites Monitoring erst im Projekt PINOKIJO entwickelt, die Pilotbefragung lief im März und April 2026. Was es gibt, sind wiederholte Querschnitte und Panels: KiGGS (letzte Welle 2014–2017), die WHO-Studie HBSC alle vier Jahre, die COPSY-Wellen des UKE seit 2020, das Schulbarometer jährlich seit 2024. Die HBSC-Autorinnen fordern selbst ein „continuous health monitoring“ (Reiß et al. 2024, [doi:10.25646/11868](https://doi.org/10.25646/11868)). Gelegentliches Hinsehen also ja, laufende Beobachtung nein.
+> „Eine kontinuierliche Erfassung zum psychischen Wohlbefinden von jungen Menschen gibt es in Deutschland nicht.“ Das hält. Die Mental Health Surveillance des Robert Koch-Instituts berichtet laufend, ist aber auf Erwachsene zugeschnitten (Indikatoren „ab 18 Jahre“); für Kinder und Jugendliche wird ein bundesweites Monitoring erst im Projekt PINOKIJO entwickelt, die Pilotbefragung lief im März und April 2026. Was es gibt, sind wiederholte Querschnitte und Panels: KiGGS (letzte Welle 2014–2017), die WHO-Studie HBSC alle vier Jahre, die COPSY-Wellen des UKE seit 2020, das Schulbarometer jährlich seit 2024. Die HBSC-Autorinnen fordern selbst ein „continuous health monitoring“ ([Reiß et al. 2024](https://doi.org/10.25646/11868)). Gelegentliches Hinsehen also ja, laufende Beobachtung nein.
 > Quelle: [RKI: Surveillance psychischer Gesundheit](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/Studien/MHS/mhs_inhalt.html) · [RKI: PINOKIJO](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Gesundheit-im-Lebensverlauf/Kinder-und-Jugendgesundheit/pinokijo.html)
 
 > [!success] Bestätigt, mit Streit um das Mittel — Wartezeiten „teilweise bis zu einem Jahr“
@@ -425,7 +425,7 @@ mit dem Einwand, ein Verbot ohne neue Räume nehme den Kindern nur das letzte Ve
 > Quelle: [BPtK: Psychisch Kranke warten 142 Tage (09.12.2022)](https://www.bptk.de/pressemitteilungen/psychisch-kranke-warten-142-tage-auf-eine-psychotherapeutische-behandlung/) · [BPtK zum Psychiatrie-Barometer (10.08.2026)](https://www.bptk.de/neuigkeiten/kinder-und-jugendpsychiatrie-unter-wachsendem-versorgungsdruck/) · [vdek-Analyse Wartezeiten (2026)](https://www.vdek.com/presse/pressemitteilungen/2026/wartezeiten-psychotherapie-akutbehandlung.html)
 
 > [!warning] Vereinfacht — „Internationale Studien belegen, dass rund ein Viertel der Schulkinder in Deutschland unter psychischen Problemen leidet“
-> Die Größenordnung stimmt, die Herkunft nicht: Die Werte um ein Viertel stammen aus **deutschen** Studien. In der COPSY-Studie zeigten im Herbst 2022 23 % der 7- bis 17-Jährigen psychische Auffälligkeiten (vor der Pandemie 18 %, im Winter 2020/21 31 %; Ravens-Sieberer et al. 2023, [doi:10.3389/fpubh.2023.1129073](https://doi.org/10.3389/fpubh.2023.1129073), Längsschnitt, N = 2.471), im Herbst 2025 ebenfalls 23 % (Kaman et al. 2026, [doi:10.1007/s00787-026-03092-6](https://doi.org/10.1007/s00787-026-03092-6)). Das Schulbarometer 2025/26 kommt nach dem Film auf 25 %. Zum Problem wird der Satz in der Montage: Fünf Minuten vorher nennt der Film 21 %, jetzt „ein Viertel“, ohne zu sagen, dass es verschiedene Studien und Messungen sind. Und schon vor Corona lag der Wert bei fast einem Fünftel. Die Pandemie hat ihn erhöht, nicht erzeugt.
+> Die Größenordnung stimmt, die Herkunft nicht: Die Werte um ein Viertel stammen aus **deutschen** Studien. In der COPSY-Studie zeigten im Herbst 2022 23 % der 7- bis 17-Jährigen psychische Auffälligkeiten (vor der Pandemie 18 %, im Winter 2020/21 31 %; [Ravens-Sieberer et al. 2023](https://doi.org/10.3389/fpubh.2023.1129073), Längsschnitt, N = 2.471), im Herbst 2025 ebenfalls 23 % ([Kaman et al. 2026](https://doi.org/10.1007/s00787-026-03092-6)). Das Schulbarometer 2025/26 kommt nach dem Film auf 25 %. Zum Problem wird der Satz in der Montage: Fünf Minuten vorher nennt der Film 21 %, jetzt „ein Viertel“, ohne zu sagen, dass es verschiedene Studien und Messungen sind. Und schon vor Corona lag der Wert bei fast einem Fünftel. Die Pandemie hat ihn erhöht, nicht erzeugt.
 > Quelle: [Ravens-Sieberer et al. 2023, Frontiers in Public Health](https://doi.org/10.3389/fpubh.2023.1129073)
 
 > [!success] Bestätigt — Bildschirmzeit (Vodafone-Jugendstudie 2025)
@@ -434,16 +434,16 @@ mit dem Einwand, ein Verbot ohne neue Räume nehme den Kindern nur das letzte Ve
 
 > [!warning] Vereinfacht — Kolleck: Soziale Medien „führen zu“ mehr Depressionen, Angst- und Essstörungen, „nicht nur bei Mädchen“
 > Kolleck spricht als Kausalität aus, was die Forschung überwiegend als Zusammenhang findet und über dessen Ursache und Größe sie streitet. Der Stand, beide Seiten:
-> - **Zusammenhang klein und uneinheitlich, solange es um allgemeine Nutzung geht.** In drei großen Datensätzen erklärt digitale Nutzung höchstens 0,4 % der Unterschiede im Wohlbefinden (Orben & Przybylski 2019, [doi:10.1038/s41562-018-0506-1](https://doi.org/10.1038/s41562-018-0506-1), Primärstudie, >1.300 Zitationen). Ein Annual Research Review findet überwiegend kleine, widersprüchliche Korrelationen, die Ursache und Wirkung nicht trennen (Odgers & Jensen 2020, [doi:10.1111/jcpp.13190](https://doi.org/10.1111/jcpp.13190), Review). Ein Umbrella-Review über 25 Übersichtsarbeiten: die meisten deuten den Zusammenhang als „schwach“ oder „uneinheitlich“, wenige als „substanziell“ (Valkenburg, Meier & Beyens 2021, [doi:10.1016/j.copsyc.2021.08.017](https://doi.org/10.1016/j.copsyc.2021.08.017), Umbrella-Review).
-> - **Deutlicher bei problematischer Nutzung und beim Körperbild.** Das jüngste Umbrella-Review (72 Reviews, 2021–2025) findet für allgemeine Nutzung schwache, uneinheitliche Zusammenhänge, für *problematische* Nutzung aber durchgehend einen Zusammenhang mit Belastung, und vermutet hinter den Widersprüchen oft zu kleine Studien statt fehlender Effekte (Tølbøll 2026, [doi:10.1111/camh.70071](https://doi.org/10.1111/camh.70071), Umbrella-Review). Für Körperbild und Essstörungssymptome zeigt eine Meta-Analyse über 45 Studien mit 33.086 Jugendlichen einen Zusammenhang im Querschnitt und im Längsschnitt, stärker bei Instagram und bei höherem Mädchenanteil (Fortunato et al. 2026, [doi:10.1007/s40894-026-00285-7](https://doi.org/10.1007/s40894-026-00285-7), Meta-Analyse).
-> - **Experimente: die Kausalfrage ist offen, nicht entschieden.** Eine Meta-Analyse fand keinen Zusammenhang zwischen Nutzungszeit und Problemen (Ferguson et al. 2024, [doi:10.1037/pro0000589](https://doi.org/10.1037/pro0000589)), eine zweite Ferguson-Meta-Analyse über 27 Experimente keinen Effekt. Deren Nachauswertung zeigt: Kurzer Verzicht (unter einer Woche) schadet leicht, Verzicht ab einer Woche hilft leicht (d = 0,16; Thrul et al. 2025, [doi:10.1037/ppm0000574](https://doi.org/10.1037/ppm0000574)). Eine neue Meta-Analyse von 35 Experimenten aus dem Umfeld von Jonathan Haidt findet einen kleinen Nutzen von Einschränkung für depressive Symptome (g = 0,22), allerdings meist bei Studierenden und noch nicht begutachtet (Lopes et al. 2026, [doi:10.64898/2026.06.01.26354614](https://doi.org/10.64898/2026.06.01.26354614), Preprint).
+> - **Zusammenhang klein und uneinheitlich, solange es um allgemeine Nutzung geht.** In drei großen Datensätzen erklärt digitale Nutzung höchstens 0,4 % der Unterschiede im Wohlbefinden ([Orben & Przybylski 2019](https://doi.org/10.1038/s41562-018-0506-1), Primärstudie, >1.300 Zitationen). Ein Annual Research Review findet überwiegend kleine, widersprüchliche Korrelationen, die Ursache und Wirkung nicht trennen ([Odgers & Jensen 2020](https://doi.org/10.1111/jcpp.13190), Review). Ein Umbrella-Review über 25 Übersichtsarbeiten: die meisten deuten den Zusammenhang als „schwach“ oder „uneinheitlich“, wenige als „substanziell“ ([Valkenburg, Meier & Beyens 2021](https://doi.org/10.1016/j.copsyc.2021.08.017), Umbrella-Review).
+> - **Deutlicher bei problematischer Nutzung und beim Körperbild.** Das jüngste Umbrella-Review (72 Reviews, 2021–2025) findet für allgemeine Nutzung schwache, uneinheitliche Zusammenhänge, für *problematische* Nutzung aber durchgehend einen Zusammenhang mit Belastung, und vermutet hinter den Widersprüchen oft zu kleine Studien statt fehlender Effekte ([Tølbøll 2026](https://doi.org/10.1111/camh.70071), Umbrella-Review). Für Körperbild und Essstörungssymptome zeigt eine Meta-Analyse über 45 Studien mit 33.086 Jugendlichen einen Zusammenhang im Querschnitt und im Längsschnitt, stärker bei Instagram und bei höherem Mädchenanteil ([Fortunato et al. 2026](https://doi.org/10.1007/s40894-026-00285-7), Meta-Analyse).
+> - **Experimente: die Kausalfrage ist offen, nicht entschieden.** Eine Meta-Analyse fand keinen Zusammenhang zwischen Nutzungszeit und Problemen ([Ferguson et al. 2024](https://doi.org/10.1037/pro0000589)), eine zweite Ferguson-Meta-Analyse über 27 Experimente keinen Effekt. Deren Nachauswertung zeigt: Kurzer Verzicht (unter einer Woche) schadet leicht, Verzicht ab einer Woche hilft leicht (d = 0,16; [Thrul et al. 2025](https://doi.org/10.1037/ppm0000574)). Eine neue Meta-Analyse von 35 Experimenten aus dem Umfeld von Jonathan Haidt findet einen kleinen Nutzen von Einschränkung für depressive Symptome (g = 0,22), allerdings meist bei Studierenden und noch nicht begutachtet ([Lopes et al. 2026](https://doi.org/10.64898/2026.06.01.26354614), Preprint).
 > - **„Nicht nur bei Mädchen“:** Nicht falsch, aber die Befunde sind für Mädchen deutlich stärker (s. o.; auch in der Vodafone-Studie berichten 18 % der jungen Frauen und 7 % der jungen Männer, dass es ihnen nach der Nutzung schlechter geht). Für Jungen, die sich „in der virtuellen Welt verlieren“ oder ihr Aussehen im Fitnessstudio optimieren, ist die Datenlage dünner.
 >
 > Der Film setzt den Satz direkt hinter die Vodafone-Zahlen und einen Kommentar über das Belohnungssystem. So entsteht der Eindruck, Stunden am Bildschirm machten depressiv, ein Schluss, vor dem die zitierte Vodafone-Studie selbst warnt. Auch „ein Großteil der Lebenszeit“ ist zu groß: Am häufigsten nennen die 14- bis 20-Jährigen drei bis vier Stunden (42 %). Dahinter steckt kein Kalkül, eher ein Anliegen: Bei der Vorstellung der Trendstudie, an der Kolleck mitwirkte, forderte Klaus Hurrelmann eine „digitale Bildungsoffensive“, und der Film braucht einen Ursachensatz. Am nächsten am Stand ist im Film der Schulsozialarbeiter mit seiner „gewissen Korrelation“.
 > Quelle: [Tølbøll 2026, Child and Adolescent Mental Health](https://doi.org/10.1111/camh.70071) · [Valkenburg et al. 2021, Current Opinion in Psychology](https://doi.org/10.1016/j.copsyc.2021.08.017)
 
 > [!warning] Vereinfacht — Roessner: „Corona war wie ein Brennglas … danach nur ein kleiner Rückgang“
-> Der Kern hält: Psychosomatische Beschwerden nehmen laut HBSC schon seit 2009/10 zu (Reiß et al. 2024, [doi:10.25646/11868](https://doi.org/10.25646/11868)), in der Pandemie stiegen die Probleme steil an, und das alte Niveau ist bis heute nicht erreicht. In COPSY stiegen psychische Auffälligkeiten von 18 % vor der Pandemie auf 30–31 % im ersten Pandemiejahr, fielen bis Herbst 2022 auf 23 % und lagen im Herbst 2025 noch immer leicht über dem Ausgangswert (Ravens-Sieberer et al. 2023, [doi:10.3389/fpubh.2023.1129073](https://doi.org/10.3389/fpubh.2023.1129073); Kaman et al. 2026, [doi:10.1007/s00787-026-03092-6](https://doi.org/10.1007/s00787-026-03092-6)). „Nur ein kleiner Rückgang“ passt aber nicht zu diesen Bevölkerungsdaten, dort ist der größere Teil des Pandemie-Anstiegs wieder zurückgegangen. Roessner spricht allerdings ausdrücklich von den Anrufen und Diagnosen *in seiner Klinik*, und die Nachfrage nach Behandlung kann höher bleiben, als die Befragungen sinken (vgl. die Wartezeiten oben). Das Argument mit den Genen (drei bis sechs Generationen ändern die Erbanlagen kaum, also erklärt die Umwelt den schnellen Wandel) ist ein Grundsatz der Populationsgenetik und wurde hier nicht eigens geprüft.
+> Der Kern hält: Psychosomatische Beschwerden nehmen laut HBSC schon seit 2009/10 zu ([Reiß et al. 2024](https://doi.org/10.25646/11868)), in der Pandemie stiegen die Probleme steil an, und das alte Niveau ist bis heute nicht erreicht. In COPSY stiegen psychische Auffälligkeiten von 18 % vor der Pandemie auf 30–31 % im ersten Pandemiejahr, fielen bis Herbst 2022 auf 23 % und lagen im Herbst 2025 noch immer leicht über dem Ausgangswert ([Ravens-Sieberer et al. 2023](https://doi.org/10.3389/fpubh.2023.1129073); [Kaman et al. 2026](https://doi.org/10.1007/s00787-026-03092-6)). „Nur ein kleiner Rückgang“ passt aber nicht zu diesen Bevölkerungsdaten, dort ist der größere Teil des Pandemie-Anstiegs wieder zurückgegangen. Roessner spricht allerdings ausdrücklich von den Anrufen und Diagnosen *in seiner Klinik*, und die Nachfrage nach Behandlung kann höher bleiben, als die Befragungen sinken (vgl. die Wartezeiten oben). Das Argument mit den Genen (drei bis sechs Generationen ändern die Erbanlagen kaum, also erklärt die Umwelt den schnellen Wandel) ist ein Grundsatz der Populationsgenetik und wurde hier nicht eigens geprüft.
 > Quelle: [Ravens-Sieberer et al. 2023, Frontiers in Public Health](https://doi.org/10.3389/fpubh.2023.1129073)
 
 > [!success] Bestätigt — Mubea Weißensee und das Gütesiegel

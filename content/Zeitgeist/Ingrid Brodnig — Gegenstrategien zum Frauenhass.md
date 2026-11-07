@@ -126,7 +126,7 @@ Dagegen helfe keine individuelle Blockier-Taktik, sondern Regulierung: Der Digit
 
 > [!success] Bestätigt — Norwegische Studie zum Chilling-Effekt (42 % / 16 %)
 > Nach Hassnachrichten formulieren 42 % der Frauen vs. 16 % der Männer ihre Meinung vorsichtiger — Nadim & Fladmoe, *Silencing Women? Gender and Online Harassment* (Oslo). Bemerkenswert: Dieselbe Studie zeigt, dass insgesamt *mehr Männer* Harassment erleben — was Brodnigs Pew-Pointe stützt, statt ihr zu widersprechen.
-> Quelle: [Nadim & Fladmoe, Social Science Computer Review 2021, DOI: 10.1177/0894439319865518](https://doi.org/10.1177/0894439319865518)
+> Quelle: [Nadim & Fladmoe, Social Science Computer Review 2021](https://doi.org/10.1177/0894439319865518)
 
 > [!success] Bestätigt — AI Forensics / Grok, >80 % Frauen
 > AI Forensics wertete 20.000 zufällig gezogene Grok-Bilder aus; gut die Hälfte zeigte Personen in Unterwäsche/Bikini, davon 81 % Frauen, 2 % offenbar Minderjährige. xAI schränkte die Funktion erst ein, nachdem Großbritannien mit einer landesweiten Sperre drohte (Januar 2026).
@@ -170,7 +170,7 @@ Dagegen helfe keine individuelle Blockier-Taktik, sondern Regulierung: Der Digit
 
 *Sherlock-Recherche:*
 
-- [Nadim & Fladmoe: Silencing Women? Gender and Online Harassment (DOI: 10.1177/0894439319865518)](https://doi.org/10.1177/0894439319865518) — Primärstudie hinter dem 42 %/16 %-Chilling-Effekt
+- [Nadim & Fladmoe: Silencing Women? Gender and Online Harassment](https://doi.org/10.1177/0894439319865518) — Primärstudie hinter dem 42 %/16 %-Chilling-Effekt
 - [Pew Research Center: The State of Online Harassment (2021)](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/) — Geschlechtergefälle nach Schweregrad und Belastung
 - [Snopes: Meta-Regeländerung im Wortlaut](https://www.snopes.com/fact-check/meta-women-as-household-objects-policy/) — welche Schutzformulierungen im Januar 2025 gestrichen wurden
 - [Guernica-Interview mit Kate Manne](https://www.guernicamag.com/kate-manne-why-misogyny-isnt-really-about-hating-women/) — Misogynie als Durchsetzungsmechanismus, nicht „Hass"
