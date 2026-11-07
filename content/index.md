@@ -72,6 +72,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **07.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
 > **07.11.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
 >
 > Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
@@ -87,10 +91,6 @@ Die Gedankenwelten (luc)
 > **06.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
 >
 > Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **06.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > → *19 weitere in* [[Panorama]]
 
