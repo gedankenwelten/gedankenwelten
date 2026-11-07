@@ -388,6 +388,10 @@ Den Weg zum Totalitarismus, Masse, Ideologie, Terror, Verlassenheit, zeichnen Fe
 
 Die Herrschaft des Niemand bei der deutschen Polizei: eine Analyse, die Zeugen und Opfer dauerhaft mit allen Akten verknüpft, ohne öffentliche Prüfung und ohne Evaluation. Die drei Risiken aus dem Karlsruher Urteil (Fehler, Diskriminierung, fehlende Transparenz) sind dieselben wie in der Kindergeld-Affäre.
 
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Ein Berater verspricht bewaffneten Beamten „federal immunity“, ein Kommandeur gibt Befehle „all the way to the top“. Das Gegenteil von Arendts Satz, dass niemand das Recht hat, zu gehorchen.
+
 ---
 
 ## Weiterdenken

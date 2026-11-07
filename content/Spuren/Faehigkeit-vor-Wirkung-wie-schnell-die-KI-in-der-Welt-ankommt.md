@@ -111,7 +111,7 @@ messen. Das Risiko ist real: METRs Zeitreihe ist seit September eingefroren.
   um 0,07 %; rund 95 % der Sätze über KI-Produktivität in Gewinnmitteilungen handeln von künftigen Gewinnen, „the
   measurable productivity effects remain mostly ahead“ ([St. Louis Fed, Juli 2026](https://www.stlouisfed.org/on-the-economy/2026/jul/ai-productivity-what-firms-say-earnings-calls)).
   Der IWF warnt, die amtliche Statistik werde echte Gewinne in Dienstleistungswirtschaften wohl unvollständig
-  erfassen ([IMF WP, doi:10.5089/9798229061681.001](https://doi.org/10.5089/9798229061681.001)).
+  erfassen ([IMF WP](https://doi.org/10.5089/9798229061681.001)).
 - **Produktivität Deutschland.** Je Erwerbstätigenstunde 2023 −1,2 %, 2024 −0,3 %, 2025 +1,1 %
   ([Destatis](https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/inlandsprodukt-stundenkonzept.html)).
 - **Verbreitung.** In Deutschland nutzten 2025 26 % der Unternehmen ab zehn Beschäftigten KI, ab 250 Beschäftigten
@@ -124,11 +124,11 @@ messen. Das Risiko ist real: METRs Zeitreihe ist seit September eingefroren.
 - **Arbeitsmarkt.** Das Yale Budget Lab findet bis Oktober 2026 „no connection“ zwischen KI-Nutzung und Beschäftigung
   ([Yale Budget Lab](https://budgetlab.yale.edu/research/tracking-impact-ai-labor-market)). Für Dänemark finden
   Humlum und Vestergaard keine messbaren Effekte auf Verdienste und Arbeitszeit und schließen Effekte über 2 % aus
-  ([NBER, doi:10.3386/w33777](https://doi.org/10.3386/w33777)). Die Ausnahme: Junge Beschäftigte (22–25) in
+  ([NBER](https://doi.org/10.3386/w33777)). Die Ausnahme: Junge Beschäftigte (22–25) in
   KI-exponierten Berufen liegen 19 % unter ihrem Pfad, und der Abstand wächst seit August 2025
   ([Brynjolfsson, Chandar & Chen, rev. 12.08.2026](https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/)).
 - **Im Einzelfall.** Im Kundenservice stieg die Produktivität im Schnitt um 14 %, bei Neulingen um 34 %, bei Erfahrenen
-  kaum ([QJE 2025, doi:10.1093/qje/qjae044](https://doi.org/10.1093/qje/qjae044)). Erfahrene Open-Source-Entwickler
+  kaum ([QJE 2025](https://doi.org/10.1093/qje/qjae044)). Erfahrene Open-Source-Entwickler
   brauchten 2025 mit KI 19 % *länger* ([METR, arXiv:2507.09089](https://arxiv.org/abs/2507.09089)); die Folgestudie
   schätzt inzwischen eine Beschleunigung, hält die eigenen Daten aber für „an unreliable signal“, weil 30–50 % der
   Entwickler Aufgaben nicht ohne KI machen wollten ([METR, 24.02.2026](https://metr.org/blog/2026-02-24-uplift-update/)).
@@ -152,7 +152,7 @@ hinschaut. Die US-Produktivität wächst in diesem Zyklus deutlich schneller als
 einem Jahr rund 100 Mrd. $ um, und dafür zahlt niemand ohne Nutzen; die Berufseinsteiger in exponierten Berufen sind
 genau das Frühsignal, das man erwarten würde, bevor die breiten Durchschnitte reagieren. Und vieles fällt gar nicht
 in die Statistik: Die meisten ChatGPT-Nachrichten sind privat, nicht beruflich
-([NBER, doi:10.3386/w34255](https://doi.org/10.3386/w34255)).
+([NBER](https://doi.org/10.3386/w34255)).
 
 ---
 
@@ -167,7 +167,7 @@ markiert, nicht gelöscht.*
 | Medizin | Ein Wirkstoff gegen Lungenfibrose, dessen Ziel und Struktur mit KI gefunden wurden, ist in Phase III | 07/2026 | [Nature Medicine, Phase IIa](https://doi.org/10.1038/s41591-025-03743-2) |
 | Suche | Mit KI-Zusammenfassung klicken Nutzer in 8 % der Besuche auf einen Link, ohne in 15 % | 03/2025 | [Pew](https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/) |
 | Programmieren | 84 % der Entwickler nutzen KI oder planen es, 51 % der Profis täglich | 2025 | [Stack Overflow](https://survey.stackoverflow.co/2025/ai) |
-| Übersetzen, Texten | Nachfrage auf Freelance-Plattformen 20–50 % unter dem Trend | 2025 | [JEBO, doi:10.1016/j.jebo.2024.106845](https://doi.org/10.1016/j.jebo.2024.106845) |
+| Übersetzen, Texten | Nachfrage auf Freelance-Plattformen 20–50 % unter dem Trend | 2025 | [JEBO](https://doi.org/10.1016/j.jebo.2024.106845) |
 | Berufseinstieg | Junge Beschäftigte in KI-exponierten Berufen 19 % unter dem Pfad | 06/2026 | [Stanford DEL](https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/) |
 | Kundenservice | +14 % Produktivität, +34 % bei Neulingen | 2025 | [QJE](https://doi.org/10.1093/qje/qjae044) |
 | Alltag | ChatGPT von rund 10 % der erwachsenen Weltbevölkerung genutzt, über 70 % der Nachrichten privat | 2025 | [NBER](https://doi.org/10.3386/w34255) |

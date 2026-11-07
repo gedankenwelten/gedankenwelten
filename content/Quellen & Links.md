@@ -5698,3 +5698,36 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [What the Allies knew about the Holocaust](https://www.youtube.com/watch?v=TZ7pGkR5trM) (Topographie des Terrors, Berlin, 02.06.2026, Moderation Elizabeth Harvey) |
 | **Notiz** | [[Michael Fleming — Was die Alliierten wussten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Fleming_Alliierte_Transkript.txt` (deutsche Untertitel der Topographie) · `Fleming_Alliierte_Transkript_en.txt` (englisches Original) |
+
+## Al Jazeera Fault Lines / Stephen Miller
+
+| | |
+|---|---|
+| **Vortrag / Video** | [The most powerful man in the US you've never voted for („Stephen Miller's War“)](https://www.youtube.com/watch?v=wCP4SZo5axE) (Al Jazeera English, Fault Lines, Josh Rushing, 11.06.2026) · Nachtrag: [NBC Meet the Press Now](https://www.youtube.com/watch?v=QWrWSOQ2FvU) und [PBS NewsHour](https://www.youtube.com/watch?v=jO7x7KeZjCY) (06.11.2026), [Koschi Politik](https://www.youtube.com/watch?v=UruY3B_f4Cc) (07.11.2026) |
+| **Notiz** | [[Al Jazeera — Stephen Millers Krieg]] |
+| **Transkript** | `Gedankenwelten/Transkripte/AlJazeera_Miller_Transkript.txt` (englische Auto-Untertitel, Sprecher über Bauchbinden bestimmt) · `Koschi_Befoerderung_Transkript.txt` |
+
+## ARTE 42 / Steuern Gefühle den Finanzmarkt?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Steuern Gefühle den Finanzmarkt? · 42 – Die Antwort auf fast alles · ARTE](https://www.youtube.com/watch?v=k0K2ZWN9-WY) (ARTE, D 2025, auf YouTube seit 20.02.2026) |
+| **Notiz** | [[ARTE 42 — Steuern Gefuehle den Finanzmarkt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ARTE42_Finanzmarkt_Transkript.txt` (Sprecher per Standbild bestimmt) |
+
+## HMKV Dortmund / Algorithmen, die zocken (Coy, Kurz, Hunger, RYBN)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Algorithmen, die zocken: Algo-Trading und elektronische Medien an der Börse](https://www.youtube.com/watch?v=fiYU838HR24) (Kunsthalle Dortmund, Konferenz New Industries, HMKV, Januar 2014) |
+| **Notiz** | [[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kunsthalle_Algotrading_Transkript.txt` (Whisper) · `Kunsthalle_Algotrading_RYBN_en.txt` (englischer RYBN-Vortrag, Whisper en) |
+
+## Tom Ockers / Schattenmacht BlackRock
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Schattenmacht BlackRock / Doku / Phoenix 05.03.2020](https://www.youtube.com/watch?v=Zqn3BDGAvNw) (private Aufzeichnung; Film von Tom Ockers, taglicht media für ZDF/ARTE 2019, auf ARTE „BlackRock – Die unheimliche Macht eines Finanzkonzerns“) · Gegenstimme: [Finanzfluss: Meinung zur Doku](https://www.youtube.com/watch?v=YUQkL_mcyf4) (2019) |
+| **Notiz** | [[Tom Ockers — Schattenmacht BlackRock]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Ockers_BlackRock_Transkript.txt` (Auto-Untertitel, Sprecher über Einblendungen bestimmt) · `Finanzfluss_BlackRockDoku_Transkript.txt` |
+

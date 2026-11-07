@@ -237,6 +237,10 @@ Theveßen verteidigt den öffentlich-rechtlichen Rundfunk aus dem amerikanischen
 
 Die Probe auf Theveßens Thukydides-Regel — der zweite Satz, der einordnet — in beide Richtungen. Im Podcast mit dem russischen Botschafter fehlt er ganz: Die nukleare Andeutung bleibt stehen, danach wird zur Friedensfrage gewechselt. Im Presseclub kommt er nach, aber mit einem Wort zu viel („unverhohlen"), das die Drohung schärfer macht, als sie ausgesprochen wurde. Die Einordnung kann also auch verzerren, was sie einordnet.
 
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Was NSPM-7 auf dem Papier definiert, zeigt diese Note auf der Straße: Miller nennt Proteste gegen ICE „domestic terrorism“ und den getöteten Pfleger Alex Pretti einen „domestic terrorist“.
+
 ---
 
 ## Weiterdenken

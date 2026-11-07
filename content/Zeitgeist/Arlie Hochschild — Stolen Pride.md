@@ -230,6 +230,10 @@ Von unten und von oben auf denselben Nährboden: Wo Hochschild die emotionale Ch
 
 Der Medienforscher Uwe Krüger führt Trumps Sieg 2016 auch darauf zurück, dass Journalisten die „Flyover States“ nur überflogen; Hochschilds Zweisprachigkeit ist die Gegenprobe aus der Feldforschung.
 
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Opferrolle und Roar-Back, diesmal ohne Pikeville: Millers Biografin beschreibt eine „white male grievance“, die in einer reichen Stadt am Pazifik entstand.
+
 ---
 
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]

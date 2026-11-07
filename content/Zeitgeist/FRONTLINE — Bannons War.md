@@ -314,6 +314,10 @@ Zehn Jahre später erinnert Ulf Röller an denselben Gegenschlag nach „Access 
 
 Nach den Midterms 2026 nennt Bernd Pickert Stephen Miller als den, der das Projekt trägt, auch wenn Trump die Kraft ausgeht. Es ist dieselbe Frage, die dieser Film an Bannon stellt: ob die Ideen den Mann überleben.
 
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Der Mann, den Bannon 2013 fand: Fault Lines zeigt, was aus der „Dekonstruktion des Verwaltungsstaats“ wird, wenn jemand sie verwaltet statt sendet. Seit dem 6. November 2026 ist Miller Stabschef.
+
 ---
 
 ## Weiterdenken

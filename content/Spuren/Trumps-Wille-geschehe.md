@@ -146,7 +146,7 @@ erklärt die These nicht mehr Politik, sondern beschreibt Kränkbarkeit. **(5)**
 Signalstärke der Denkmal-Rücknahme: Lowande & Poznansky zeigen für 1937–2021, dass rund **74 %** aller
 Executive Orders **nie** förmlich widerrufen werden, die Quote zwischen 21 und 30 % liegt und
 Landschutz-Designationen zur widerstandsfähigsten Kategorie gehören
-([doi:10.1017/S0143814X23000442](https://doi.org/10.1017/S0143814X23000442), peer-reviewed, *Journal of
+([Lowande & Poznansky 2024](https://doi.org/10.1017/S0143814X23000442), peer-reviewed, *Journal of
 Public Policy* 44(2), 2024). Gezielte Rücknahme trägt also Signal — aber es gibt einen parteipolitischen
 Grundumschlag, der ganz ohne persönlichen Groll auskommt, und er erklärt mit, warum Bears Ears **zweimal**
 angefasst werden musste. **(6)** In **keinem** Akt des Fensters nennt die Administration Obama, Clinton oder

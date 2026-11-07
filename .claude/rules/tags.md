@@ -58,7 +58,9 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 > `paradox` · `komplexität` · `dialogique` sind bewusst gesetzte **Verknüpfungsknoten** (roter Faden „Das Paradox", seit 01.07.2026). `dialogique` = Morins *principe dialogique* (zwei nötige, gegensätzliche Logiken ohne Synthese zusammenhalten). Auf thematisch tragende Notes setzen, nicht streuen.
 
 **Wirtschaft:**
-`wirtschaft` · `inflation` · `schulden` · `soziale-ungleichheit` · `wohnen`
+`wirtschaft` · `inflation` · `schulden` · `soziale-ungleichheit` · `wohnen` · `finanzmärkte`
+
+> `finanzmärkte` = Börse, Spekulation, Blasen und Crashs, algorithmischer Handel, Vermögensverwalter und ihre Macht (Common Ownership, ETFs) — gesetzt mit [[ARTE 42 — Steuern Gefuehle den Finanzmarkt]], [[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken]] und [[Tom Ockers — Schattenmacht BlackRock]] (07.11.2026, Anlass: KI-Kurssturz nach den US-Zwischenwahlen).
 
 > `drogenpolitik` = Drogenhilfe, Schadensminderung, Drug-Checking, Konsumräume, Kriminalisierung vs. Gesundheitsansatz — gesetzt mit [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]] (zusammen mit `sucht`).
 

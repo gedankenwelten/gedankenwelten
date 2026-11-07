@@ -140,3 +140,8 @@ Was hier als Lehrplan enthüllt wurde, erscheint dort als Statistik. Wenn Kadett
 der 4. Verfassungszusatz gelte für sie nicht, ist es keine Überraschung mehr, dass im Juli 2026 rund
 drei Viertel der Festgenommenen keinerlei Vorstrafe hatten und unter vier Prozent je wegen einer
 Gewalttat verurteilt waren. Die Ausbildung erklärt die Zahlen.
+
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Der Mann hinter der Quote: wie Miller die 3.000 Festnahmen am Tag durchsetzte, die Kadetten im Eiltempo auf die Straße brachten, und warum nach Minneapolis andere gingen und er blieb.
+

@@ -136,6 +136,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Christoph Safferling|Christoph Safferling]]** — Strafrechtler und Völkerrechtler (FAU Erlangen-Nürnberg), Direktor der Internationalen Akademie Nürnberger Prinzipien; *Die Akte Rosenburg* (NS-Juristen im BMJ), *Ohnmacht des Völkerrechts* (2025); Nürnberger Prinzipien, kalte Verjährung, Selektivität des Völkerrechts
 
+**[[DenkerVita/Wolfgang Coy|Wolfgang Coy]]** — Informatiker (* 1947), 1996–2013 Professor für Informatik in Bildung und Gesellschaft an der HU Berlin, vorher Bremen; Mitbegründer des Fachs Informatik und Gesellschaft, Weizenbaum-Medaille 2018; hält den allwissenden Markt für Ideologie und warnt vor Rechnern, die schnell handeln, ohne zu wissen, wohin
+
 **[[DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]]** — US-Rechtswissenschaftlerin (UCLA, Columbia); prägte den Begriff *Intersektionalität* und begründete die Critical Race Theory mit; struktureller statt individueller Rassismus, Kritik der Farbenblindheit, *War on Memory*, Kampagne #SayHerName; Werke *On Intersectionality* (2017), *Backtalker: An American Memoir* (2026)
 
 **[[DenkerVita/Marco Buelow|Marco Bülow]]** — Ex-Bundestagsabgeordneter aus Dortmund (2002–2021, SPD, zuletzt Die PARTEI, † 2026); beschrieb Profitlobbyismus als legale Korruption und den Bundestag als Parlament der Abnicker (*Wir Abnicker*, *Lobbyland*, *Korrumpiert*).
@@ -437,6 +439,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Sebastian Moll|Sebastian Moll]]** — Journalist und Autor, seit 2002 in New York, USA-Korrespondent der taz; erzählt die USA vom Rechenzentrum bis zum Baseball und die deutsche Nachkriegszeit im „Würfelhaus“ seines Vaters
 
 **[[DenkerVita/Michael Moss|Michael Moss]]** — US-Investigativjournalist (*New York Times*), Pulitzer-Preis 2010 für die Recherche über E.-coli-verseuchtes Hackfleisch; *Salt Sugar Fat* (2013, dt. *Das Salz-Zucker-Fett-Komplott*) und *Hooked* (2021) — der Bliss Point, die Kronjuwelen Salz, Zucker, Fett und eine Industrie, die von ihnen abhängiger ist als wir
+
+**[[DenkerVita/Stephen Miller|Stephen Miller]]** — US-Regierungsberater, Architekt von Trumps Einwanderungspolitik, ab November 2026 Stabschef im Weißen Haus; Familientrennung, America First Legal, Operation Metro Surge
 
 **[[DenkerVita/Martin Buber|Martin Buber]]** — jüdischer Religionsphilosoph (1878–1965), Wien–Heppenheim–Jerusalem; *Ich und Du* (1923), das dialogische Prinzip, Erzähler des Chassidismus, Bibelverdeutschung mit Rosenzweig, Binationalist; „Der Mensch wird am Du zum Ich“
 

@@ -213,6 +213,10 @@ Arendt verortet das Erschreckende von 1933 bei den Freunden, die sich aus eigene
 ### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
 Ein Widerstandsnetz im Lager, dessen Mitglieder danach ausgesucht wurden, ob sie selbstlos handelten; es zeigt, was die Retterforschung über Netzwerke sagt, und was Verweigerung einen Häftling kostete.
 
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Ein Gegenwartsfall für die Frage nach Gehorsam und Gefolgschaft: eine Quote von 3.000 Festnahmen am Tag, eine Mission „to save the West“, das Versprechen der Immunität, und dann die Schüsse von Minneapolis.
+
 ---
 
 ## Weiterdenken

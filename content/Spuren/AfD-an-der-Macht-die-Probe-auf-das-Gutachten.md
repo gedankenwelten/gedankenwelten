@@ -495,7 +495,7 @@ Die Spur dokumentiert nicht im luftleeren Raum. Die Autokratisierungs-Forschung 
 der Türkei, Venezuela und zuletzt den Trump-USA eine wiederkehrende **Reihenfolge** beschrieben — moderne
 Autokratisierung kommt nicht mit Panzern, sondern mit Paragraphen („Autocratic Legalism", Kim Lane
 Scheppele; Levitsky/Ziblatt, *How Democracies Die*; V-Dem-Forschung zur „dritten Autokratisierungswelle",
-Lührmann/Lindberg 2019, [DOI: 10.1080/13510347.2019.1582029](https://doi.org/10.1080/13510347.2019.1582029)).
+[Lührmann/Lindberg 2019](https://doi.org/10.1080/13510347.2019.1582029)).
 Die typischen Schritte, gegen die jeder Befund dieser Spur geprüft wird:
 
 | Schritt | Playbook | Referenzfall | AfD-Stand (wird fortgeschrieben) |

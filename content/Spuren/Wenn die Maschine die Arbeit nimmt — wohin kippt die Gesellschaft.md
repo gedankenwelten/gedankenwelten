@@ -97,11 +97,11 @@ Zentralbanken, nichts davon ist begutachtet, eine Meta-Analyse gibt es nicht.
   bereits aus ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0922)). *Provenienz:* Das Expositionsmaß
   stammt aus Anthropics Economic Index.
 - **Norwegen (Registerdaten):** kein robuster Verdrängungseffekt bei jungen Beschäftigten; der scheinbare Rückgang nach
-  2022 sei zum Teil ein älterer Trend ([Facius/Iacono, CESifo WP 12752, doi:10.65864/8a4auliirt](https://doi.org/10.65864/8a4auliirt)).
+  2022 sei zum Teil ein älterer Trend ([Facius/Iacono, CESifo WP 12752](https://doi.org/10.65864/8a4auliirt)).
   Finnland zeigt dasselbe (Kauhanen/Rouvinen 2026).
 - **Europa (EIB/BIS, 12.000 Firmen):** KI-Einsatz hebt die Arbeitsproduktivität um 4 %, ohne negative Folgen für die
   Beschäftigung. Die Gewinne konzentrieren sich in mittleren und großen Firmen
-  ([Aldasoro et al. 2026, doi:10.2867/1772538](https://doi.org/10.2867/1772538)).
+  ([Aldasoro et al. 2026](https://doi.org/10.2867/1772538)).
 
 (3) **Entlassungen.** Im September war KI nur der fünfthäufigste genannte Grund (3.961 Stellen, rund 9 %). Seit
 Jahresbeginn bleibt sie mit 120.136 Stellen (rund 21 %) der häufigste. Insgesamt wurden so wenige Entlassungen

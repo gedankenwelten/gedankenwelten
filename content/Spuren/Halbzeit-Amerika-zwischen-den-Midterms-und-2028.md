@@ -14,7 +14,7 @@ status: offen
 spur-art: beobachtung
 review-takt: 14-tage
 eroeffnet: 2026-10-29
-aktualisiert: 2026-11-04
+aktualisiert: 2026-11-07
 description: "Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf."
 raetsel: "Das Passwort klebte am Schloss. Geöffnet hat trotzdem niemand."
 ---
@@ -304,6 +304,33 @@ den *„Bazillus“*, der *„in diesem Kulturkampf auch die Demokraten erfasst�
 ---
 
 ## Verlauf
+
+### 2026-11-06 — Wiles geht, Miller wird Stabschef
+
+**Befund:** Drei Tage nach der Wahl gibt Trump bekannt, dass Stabschefin Susie Wiles in seine politische Organisation
+wechselt. Sie hatte am Abend des 5. November ihren Rücktritt eingereicht. Nachfolger ab Montag, 9. November, ist
+Stephen Miller, bisher stellvertretender Stabschef für Politik und Heimatschutzberater, der Architekt der
+Einwanderungspolitik ([AP](https://apnews.com/article/susie-wiles-trump-miller-midterms-95690fe076f6bb8cfe2bf77435a1910d) ·
+[Weißes Haus](https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/)).
+Trump: „I wanted to make a change“, und laut AP: „Not because of the election. It's just time.“ Rund sechs von zehn
+Wählern fanden laut AP-Befragung, der Vollzug sei zu weit gegangen. Schumer: „Trump couldn't have made a worse
+choice“, Jeffries: „a dangerous xenophobe and reckless extremist“ ([NBC](https://www.youtube.com/watch?v=QWrWSOQ2FvU)).
+Robert Garcia, künftiger Vorsitzender des Kontrollausschusses, kündigt Ermittlungen an: „Stephen Miller should
+lawyer up“ (AP). Dazu Massie: Eine Abstimmung über ein Amtsenthebungsverfahren gegen Hegseth könnte schon in der
+kommenden Woche kommen ([PBS](https://www.youtube.com/watch?v=jO7x7KeZjCY)). → [[Zeitgeist/Al Jazeera — Stephen Millers Krieg#Was seither geschah|Al Jazeera — Stephen Millers Krieg]]
+
+**Deutung:** Die erste Personalentscheidung nach der Wahl berührt zwei Stationen zugleich, „bis zur Übergabe“ und
+„danach“. Der Präsident antwortet auf eine Niederlage, in der der Vollzug ein Hauptthema war, mit dem Mann, der für
+den Vollzug steht, auf einem Posten, für den es keine Bestätigung im Senat braucht. Der neue Kongress kann ihn nicht
+verhindern, nur vorladen. Damit ist die Frage der Station „danach“ früh gestellt: Kommt Miller einer Vorladung nach?
+Im April kam er zu einer Anhörung im Heimatschutzausschuss nicht, und die damalige Mehrheit lehnte die Vorladung ab
+(→ [[Zeitgeist/Al Jazeera — Stephen Millers Krieg#Der Mann hinter dem Gesicht|Al Jazeera]]).
+
+**Gegenbeobachtung:** (1) Wiles ging nach Berichten aus eigenem Entschluss, nach einem Jahr mit Krebsdiagnose; eine
+Entlassung ist nicht belegt. (2) Ein Stabschef organisiert, er macht keine Gesetze; ab Januar entscheiden über Geld
+und Gesetze Mehrheiten, die Miller nicht hat. (3) Der Rechtsweg greift weiter: Hennepin County hat ICE-Beamte
+angeklagt, Gerichte haben Teile der Politik gestoppt. (4) Ob der Kurs härter wird, zeigen die nächsten Wochen,
+nicht die Ernennung.
 
 ### 2026-11-04 — Die Wahlnacht: beide Kammern, und weiter als erwartet
 

@@ -84,14 +84,14 @@ diesen Fällen recht behält.
   ausgewertet, in denen eine Autokratisierung eng gefolgt von einer Demokratisierung war. Sie nennen das „U-Turn".
   52 % aller Autokratisierungen münden in eine solche Wende, in den letzten dreißig Jahren 73 %. In 90 % der U-Turns
   wird das alte Niveau wieder erreicht oder übertroffen.
-  ([Democratization 2025, doi:10.1080/13510347.2024.2448742](https://doi.org/10.1080/13510347.2024.2448742);
+  ([Democratization 2025](https://doi.org/10.1080/13510347.2024.2448742);
   Datenbank-Studie, also eine Messung und keine Meinung. Sie hängt allerdings an der Frage, was V-Dem als Episode zählt.)
 - **Bianchi, Cheeseman und Cyr** halten dagegen, die Rede von den U-Turns in Brasilien, Polen oder Bangladesch
   überschätze die Widerstandskraft. Sie untersuchen Länder, die seit 1994 von der Demokratie in die Autokratie und
   wieder zurück gingen, und finden, dass fast keines die Erholung halten konnte. Als Gründe nennen sie die lange
   Nachwirkung der autoritären Jahre und den Anreiz für neue Regierungen, die Macht ihrer Vorgänger zu behalten, in
   einem internationalen Umfeld, das autoritäre Herrschaft zunehmend hinnimmt.
-  ([Journal of Democracy 2025, doi:10.1353/jod.2025.a964563](https://doi.org/10.1353/jod.2025.a964563);
+  ([Journal of Democracy 2025](https://doi.org/10.1353/jod.2025.a964563);
   Essay mit eigener Datenbank, enger gefasste Fälle.)
 
 Der Widerspruch ist kleiner, als er klingt. Nord und Kollegen zählen auch Erosionen, die noch innerhalb der Demokratie
@@ -339,8 +339,8 @@ Zur Spur passt, ohne ihr Fall zu sein: Die US-Midterms 2026 nehmen Trump beide K
 ## Quellen
 
 **Forschung**
-- Nord, Angiolillo, Lundstedt, Wiebrecht, Lindberg: *When autocratization is reversed: episodes of U-Turns since 1900.* Democratization 2025. [doi:10.1080/13510347.2024.2448742](https://doi.org/10.1080/13510347.2024.2448742)
-- Bianchi, Cheeseman, Cyr: *The Myth of Democratic Resilience.* Journal of Democracy 2025. [doi:10.1353/jod.2025.a964563](https://doi.org/10.1353/jod.2025.a964563)
+- Nord, Angiolillo, Lundstedt, Wiebrecht, Lindberg: *When autocratization is reversed: episodes of U-Turns since 1900.* Democratization 2025. [Marina Nord u. a. 2025](https://doi.org/10.1080/13510347.2024.2448742)
+- Bianchi, Cheeseman, Cyr: *The Myth of Democratic Resilience.* Journal of Democracy 2025. [Matías Bianchi u. a. 2025](https://doi.org/10.1353/jod.2025.a964563)
 
 **Serbien**
 - [European Western Balkans, 25.10.2026](https://europeanwesternbalkans.com/2026/10/25/the-student-list-won-snap-parliamentary-elections-in-serbia/) · [Euronews, 25.10.2026](https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won) · [ZDFheute](https://www.zdfheute.de/politik/ausland/serbien-vucic-niederlage-wahl-100.html) · [Kyiv Independent](https://kyivindependent.com/russian-friendly-vucic-concedes-defeat-to-student-protest-movement-in-serbian-election/) · [N1 zu V-Dem 2026](https://n1info.rs/english/news/v-dem-institute-report-says-serbia-election-autocracy/)

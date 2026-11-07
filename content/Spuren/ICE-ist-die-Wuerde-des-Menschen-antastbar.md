@@ -15,7 +15,7 @@ status: offen
 konfidenz: 70%
 review-takt: 30-tage
 eroeffnet: 2026-10-11
-aktualisiert: 2026-10-11
+aktualisiert: 2026-11-07
 description: "Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen in Länder geflogen, die nicht ihre sind. Wer Menschen zum Mittel macht, erntet, was er sät, und nennt es dann Beweis."
 ---
 
@@ -695,6 +695,28 @@ Das vollständige Dossier mit Wortlaut, Rechtsprechung und Stimmen liegt bei den
 ---
 
 ## Verlauf
+
+### 2026-11-07 — Der Architekt wird Stabschef (Konfidenz 70 % → 70 %)
+
+**Befund:** Am 6. November 2026, drei Tage nach Midterms, bei denen laut AP-Befragung rund sechs von zehn Wählern den
+Vollzug für zu weit gegangen hielten, macht Trump Stephen Miller zum Stabschef
+([AP](https://apnews.com/article/susie-wiles-trump-miller-midterms-95690fe076f6bb8cfe2bf77435a1910d)). Miller
+setzte 2025 das Ziel von 3.000 Festnahmen am Tag, sagte Beamten „You have federal immunity“ und nannte den in
+Minneapolis erschossenen Intensivpfleger Alex Pretti binnen Stunden einen „domestic terrorist“; später räumte er
+ein, die Beamten hätten das Protokoll womöglich nicht befolgt ([Reuters](https://www.usnews.com/news/world/articles/2026-11-06/factbox-before-his-promotion-stephen-miller-designed-trumps-immigration-crackdown)).
+Nach den Schüssen von Minneapolis gingen Ministerin Noem, Grenzschutz-Kommandeur Bovino und ICE-Chef Lyons; Miller
+blieb und steigt nun auf. Hennepin County hat im April und Mai 2026 zwei ICE-Beamte angeklagt. → [[Zeitgeist/Al Jazeera — Stephen Millers Krieg]]
+
+**Deutung:** Die Spur hat als Schwächungs-Bedingung registriert, dass die Regierung den Kurs korrigiert. Diese
+Ernennung ist das Gegenteil einer Korrektur, und das hält die These, ohne sie zu stärken: Gemessen wird hier die
+Folge der Härte für Kinder, Familien und Sicherheit, und dazu bringt eine Personalie keinen neuen Befund. Was sie
+zeigt, passt zum letzten Satz der These: Wer so handelt, liest die Niederlage nicht als Einwand.
+
+**Gegenbeobachtung (Pflicht):** Die Anklagen in Hennepin County sind ein Zeichen, dass der Rechtsstaat greift, und
+die neue Mehrheit im Kongress kann ab Januar Geld und Aufsicht nutzen. Der 76-tägige Stillstand des Ministeriums
+traf ICE kaum, aber er zeigt, dass der Kongress bereit war, Druck zu machen. Und die Zahl der illegalen
+Grenzübertritte liegt so niedrig wie seit 1970 nicht; für Millers Anhänger ist das der Beleg, dass seine Politik
+wirkt, und der Grund für die Beförderung.
 
 ### 2026-10-11 — Anlage: der Maßstab, die Namen, die Folgen (Konfidenz — → 70 %)
 

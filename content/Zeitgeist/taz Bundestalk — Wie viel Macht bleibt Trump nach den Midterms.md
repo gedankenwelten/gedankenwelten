@@ -607,6 +607,10 @@ Im Oktober sagte Ulrike Winkelmann, mit Junge eine der drei taz-Chefredakteurinn
 
 Die Runde endet mit drei Rezepten, und das Panorama hat für jedes eine Stimme und Forschung. Pickerts populäre Gesetze liegen nah bei Tooze, der eine Koalition sichtbar beschenken will; Molls positive Vision nach Slobodian bei de Weck, der vor dem bloßen Liefern warnt; Junges Glaubwürdigkeit vor Ort bei den Befunden, dass Entlastung wirkt, wenn sie gezielt und sichtbar ankommt. Das Panorama hält auch fest, was die Runde nicht sagt: Vom amerikanischen Pandemie-Arbeitslosengeld blieb politisch kaum etwas.
 
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Zwei Tage nach dieser Runde macht Trump den Mann, den Pickert nennt, zum Stabschef. Die Note erzählt Millers Weg und warnt davor, Trump hinter seinem Berater verschwinden zu lassen.
+
 ---
 
 ## Weiterdenken

@@ -281,3 +281,7 @@ Rasse als politische Waffe statt als Vorurteil: Diese Linie zog Arendt 1951 vom 
 
 An diesem Fall lässt sich Kendis Schema prüfen: Bannon nennt die Banker als Schuldige von 2008 und lenkt die Politik doch auf die Einwanderer. Seine Lohnthese prüft der Faktencheck dort an der Forschung.
 
+### → [[Al Jazeera — Stephen Millers Krieg]]
+
+Der Mann, der die Sprache der Invasion in Verwaltung übersetzt hat. Was die Note an Kendi prüft: Die Toten von Minneapolis waren weiße Bürger, die halfen oder filmten.
+

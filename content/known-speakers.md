@@ -1339,3 +1339,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Michael Fleming
 **Status:** ✓ Vollanalyse → [[DenkerVita/Michael Fleming]]
+
+## Stephen Miller
+**Status:** ✓ Vollanalyse → [[DenkerVita/Stephen Miller]]
+
+## Wolfgang Coy
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Coy]]

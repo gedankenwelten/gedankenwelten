@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **07.11.** — [[Zeitgeist/Al Jazeera — Stephen Millers Krieg|Al Jazeera — Stephen Millers Krieg]]
+>
+> Ein Mann ohne Wahlamt lenkt Amerikas Einwanderungsvollzug, und als Menschen sterben, gehen andere. Fault Lines verfolgt Stephen Millers Weg; fünf Monate später macht Trump ihn zum Stabschef.
+
+> **07.11.** — [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+>
+> Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
+
+> **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+>
+> Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
+
+> **06.11.** — [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+>
+> Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
+
+> **06.11.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+>
+> Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen, und Paragrafen, die niemand mehr überblickt: Ronen Steinke über die Meinungsfreiheit, das Völkerrecht und den Streit um das Wort Genozid.
+
+> → *12 weitere in* [[Zeitgeist]]
+
 ### Geistesblitz
 
 > **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
@@ -36,15 +60,15 @@ Die Gedankenwelten (luc)
 >
 > Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
 
-> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität: ein Motor und zwei Wächter]]
+> **07.11.** — [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|Steuern Gefühle den Finanzmarkt?]]
 >
-> Ein Motor mit zwei Rotoren, eine Drohne über dem Radweg, ein Ultraschall im Beton: Die Mobilitäts-Finalisten zeigen, dass das Neue im Land vor allem dem Erhalten des Alten dienen muss.
+> Der Markt rechnet mit Zahlen, aber er bewegt sich mit Hoffnung und Angst. Ein Film über Tulpen, Dopamin und Herden und darüber, warum auch Maschinen das Gefühl nicht aus der Börse bekommen.
 
-> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt]]
+> **07.11.** — [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
 >
-> Ein Labor, das nachts weiterforscht, ein Rucksack, der mithebt, ein Telefon, das den freien Weg hörbar macht: Die KI-Finalisten zeigen, was Künstliche Intelligenz kann, wenn sie Dinge anfasst.
+> Die Systeme wissen nicht, was der Handel erreichen soll, aber sie machen es schrecklich schnell. Ein Podium von 2014 über Börsenalgorithmen, Wissensvorsprünge und eine Wirtschaft, die niemand ganz versteht.
 
-> → *3 weitere in* [[Geistesblitz]]
+> → *5 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -70,31 +94,15 @@ Die Gedankenwelten (luc)
 
 > → *19 weitere in* [[Panorama]]
 
-### Zeitgeist
-
-> **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
->
-> Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
-
-> **06.11.** — [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
->
-> Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
-
-> **06.11.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
->
-> Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen, und Paragrafen, die niemand mehr überblickt: Ronen Steinke über die Meinungsfreiheit, das Völkerrecht und den Streit um das Wort Genozid.
-
-> **06.11.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
->
-> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
-
-> **06.11.** — [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms|Wie viel Macht bleibt Trump nach den Midterms?]]
->
-> Abgewählt ist nicht entmachtet: Am Tag nach dem demokratischen Erdrutsch fragt die taz-Runde, was ein Präsident noch kann, dem die Lust fehlt, aber nicht der Apparat.
-
-> → *10 weitere in* [[Zeitgeist]]
-
 ### Spuren
+
+> **07.11.** — [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+>
+> Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen in Länder geflogen, die nicht ihre sind. Wer Menschen zum Mittel macht, erntet, was er sät, und nennt es dann Beweis.
+
+> **07.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
 
 > **06.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
 >
@@ -108,13 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
-> **04.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
->
-> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
-
-> **04.11.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
->
-> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
+> → *1 weitere in* [[Spuren]]
 
 ### Denker
 
