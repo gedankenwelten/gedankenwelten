@@ -95,7 +95,8 @@ begutachtet. **Nie einen DOI aus dem Gedächtnis schreiben.** Jeder DOI, der in 
 
 Steht **`⚠ ZURÜCKGEZOGEN`** an einem Treffer, ist er kein Beleg mehr, höchstens ein Fall, über den
 man schreibt. Der **Verlag** steht zur Information dabei, nicht als Wertung. Belegt ein solides Paper den Claim, gehört der **DOI in den `[!success]`-Callout** (statt
-nur ein Web-Link). Widerspricht die Forschung dem Claim oder ist sie uneins, sag genau das — bei einem
+nur ein Web-Link), als Link auf Autor und Jahr: `Quelle: [Meier u. a. 2017, *J Dent Res*](https://doi.org/10.…) (Modellstudie)`.
+Die Nummer steht nur in der Adresse, nie `doi:10.…` als sichtbarer Text (→ `rules/gedankenwelten.md`, „Belege mit Maß“). Widerspricht die Forschung dem Claim oder ist sie uneins, sag genau das — bei einem
 empirischen Claim ist das der wertvollste Befund. *Rate-Limit der Schicht: 1 Anfrage/Sekunde — Läufe
 **nacheinander**, nie parallel feuern.*
 

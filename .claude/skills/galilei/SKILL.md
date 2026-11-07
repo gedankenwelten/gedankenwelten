@@ -120,7 +120,9 @@ Was die Forschung zu den zentralen Thesen sagt — Konsens von Einzelbefund unte
 ```
 
 Regeln für den Block:
-- **DOI-Links direkt im Text** (`https://doi.org/<doi>`) — so zieht `extract_sources.py` sie automatisch
+- **DOI-Links direkt im Text**, der Link auf Autor und Jahr, die Nummer nur in der Adresse:
+  `([Schultz 2016](https://doi.org/<doi>), Übersichtsarbeit)`, nie `doi:10.…` als sichtbarer Text
+  (→ `rules/gedankenwelten.md`, „Belege mit Maß“) — so zieht `extract_sources.py` sie automatisch
   ins Quellen-Layer (`gedankenwelten_sources`). **Die Säule speist den Quellen-Layer, kein eigener Index.**
 - **Soliditäts-Sprache mitschreiben:** „Review", „Meta-Analyse", „eine Einzelstudie", „Preprint, noch
   nicht begutachtet" — der Leser muss Konsens von Ausreißer unterscheiden können.

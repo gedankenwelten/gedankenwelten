@@ -321,6 +321,11 @@ Klare Ungenauigkeiten werden auch im Fließtext markiert, und zwar mit dem, **wa
 >   den Satz verteilt.
 > - **Die Einordnung in Worten**, Autor und Jahr knapp: „(Risko & Gilbert 2016, Übersichtsarbeit)“,
 >   „(Kosmyna u. a. 2025, Preprint)“. Die Einordnung ist das, was hörbar bleibt.
+> - **Der Link liegt auf Autor und Jahr, die DOI-Nummer steht nicht im Text** (seit 07.11.2026, Andreas):
+>   `([Risko & Gilbert 2016](https://doi.org/10.…), Übersichtsarbeit)`, im Faktencheck
+>   `Quelle: [Meier u. a. 2017, *J Dent Res*](https://doi.org/10.…) (Modellstudie)`. Nie `[doi:10.…](…)` oder
+>   `doi:10.…` als sichtbarer Text: Die Website blendet die Nummer zwar aus, in Obsidian, im Cortex-Wiki und
+>   im RAG stünde sie voll da. Die Adresse trägt die DOI, `extract_sources.py` und `doi_pruefung.py` lesen sie dort.
 > - **Ab drei Belegen in einem Absatz** prüfen, ob einer trägt. Der Rest gehört in den Faktencheck oder unter
 >   `## Weiterführende Quellen`. Die DOI-Links bleiben in der Note (sie speisen `extract_sources.py` und
 >   `find_sources`), nur nicht alle im selben Absatz.

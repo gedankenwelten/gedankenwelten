@@ -836,6 +836,9 @@ Nach Faktencheck und Stimme, **vor** Cross-Linking — so kann Montaigne die Pan
    - **entlang der Aussagen des Sprechers**, nicht als Lexikonartikel: Was sagte er, was weiß man darüber
      hinaus, wo trägt es, wo nicht (Yin-Yang — die Forschung darf ihm auch recht geben)
    - Quellen **inline** im Satz (MCP/RAG findet sie dort), nicht doppelt in `## Weiterführende Quellen`
+   - Belege in der Form `([Autor Jahr](https://doi.org/…), Einordnung)`, höchstens einer je Satz, die DOI-Nummer
+     nie als sichtbarer Text (→ `rules/gedankenwelten.md`, „Belege mit Maß“). Gilt auch für Sherlocks Faktencheck
+     und für das, was Recherche-Agenten liefern: Beim Einbauen umformen.
    - endet je Thema mit `→ Weiter im Panorama: **[[<Panorama>#<Abschnitt>|<Frage>]]**, mit …`
    - Umfang: keine feste Grenze (seit 10.10.2026) — so lang, wie die Themen tragen; was nur verwandt ist, wird verlinkt statt ausgebreitet
    - **Abgrenzung Faktencheck:** der prüft, *ob stimmt, was gesagt wurde*; die Nachbesprechung fragt, *was

@@ -105,7 +105,7 @@ Voller Apparat im **Hintergrund**, Gespräch im **Vordergrund**. Diese Trennung 
 
 **Harte Regeln:**
 
-- **Verdaut, nicht abgeladen.** Eine Studie wird ein Satz mit einem DOI darin — kein Callout-Block, kein Faktencheck-Apparat, keine Literaturliste am Ende. Der Beleg reitet im Satz mit: *„Cacioppo hat genau das gemessen und fand nur einen schwachen Zusammenhang ([doi:…])."*
+- **Verdaut, nicht abgeladen.** Eine Studie wird ein Satz mit einem DOI darin — kein Callout-Block, kein Faktencheck-Apparat, keine Literaturliste am Ende. Der Beleg reitet im Satz mit: *„Cacioppo hat genau das gemessen und fand nur einen schwachen Zusammenhang ([Cacioppo u. a. 20xx](https://doi.org/…))."* Die Nummer steht nur in der Adresse, nie als Text.
 - **Erzählen, nicht aufzählen** (→ `haltung.md`). Absätze, keine Überschriften. Ein Gespräch hat kein `## Inhalt`. Aufzählungen nur, wo wirklich eine Liste gemeint ist — drei Länder nebeneinander, vier Positionen zur Wahl.
 - **Der Apparat verpflichtet zu nichts.** Wenn die Suche wenig hergab, ist der Zug **kurz**. Gesucht zu haben ist kein Grund, lang zu antworten. Das ist der einzige wirksame Schutz gegen den Vortragsrhythmus.
 - **Höchstens zwei bis drei benannte Stimmen pro Zug.** Mehr ist Name-Dropping und verwässert. Lieber eine Stimme, die wirklich etwas ändert.
