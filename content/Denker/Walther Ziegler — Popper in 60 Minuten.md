@@ -262,3 +262,8 @@ Wilholt trennt den Fallibilismus sauber vom Skeptizismus („Es kann immer sein,
 ### → [[Geistesblitz/Heino Falcke — Urknall, Schwarze Loecher und Gott|Heino Falcke — Urknall, Schwarze Löcher und Gott]]
 
 Dieselbe Lichtablenkung, die Popper 1919 lehrte, dass Bestätigung kein Beweis ist, machte hundert Jahre später das erste Bild eines Schwarzen Lochs möglich. Dessen Mitentdecker hält ausgerechnet das erhoffte Ergebnis für „das Gefährlichste, was passieren kann“.
+
+### → [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
+
+Die Kübeltheorie hat eine Gegenwart im Börsenhandel: Der Informatiker Wolfgang Coy hält Data Mining und Big Data entgegen, aus Messdaten allein hätte Galilei das Fallgesetz nie gefunden. Das Entscheidende an der Börse sei das Feld, für das auf seiner Folie nur ein Wort steht: Überraschung.
+

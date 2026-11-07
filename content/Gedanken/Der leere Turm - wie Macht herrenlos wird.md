@@ -112,6 +112,14 @@ Welzers Tötungsarbeit ist der dunkelste Fall der ältesten Maschine: eine Arbei
 
 Misselhorns Meta-Reflexion zur Verantwortungslücke antwortet auf den leeren Turm: Wer den Mechanismus strategisch wählt, um sich der Verantwortung zu entziehen, hat genau dadurch wieder Verantwortung — die herrenlose Macht bekommt einen Namen zurück.
 
+### → [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
+
+Was hier als Gedanke steht, beschrieb ein Dortmunder Podium schon 2014 an der Börse. Wolfgang Coy warnte vor Rechnern, die man loslässt, „und nicht mehr wissen, was da eigentlich geschieht". Constanze Kurz sah die Verlierer dort, wo die Verantwortung durchsackt: bei Privatanlegern, deren Verkaufsschwellen Algorithmen gezielt austesten.
+
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+
+Die Umkehrung der Frage, ob Eigentum ohne Urteil noch Macht ist, heißt BlackRock: Urteil ohne Eigentum. Der größte Vermögensverwalter stimmt mit dem Geld von Sparern ab, die ihr Urteil abgegeben haben, und seit es die Stimmrechte zurückgibt, holt sie nur ein Viertel wieder.
+
 ---
 
 - [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]] — Der Beleg ohne Maschine. Fünf Meldungen eines Augusttages, in denen Verantwortung auf dem Weg zwischen Zuständigkeit und Antwort verdunstet: Dublin schiebt sie an die Außengrenze, das Versorgungswerk lässt die Presseanfrage liegen, der Regierungssprecher sagt „der Bundeskanzler äußert sich dann, wenn er sich äußert“. Nichts davon ist illegal, und keine der Instanzen hat entschieden, sich zu entziehen — genau die These dieser Note, dass KI nur die reibungsloseste in einer alten Reihe ist. Hier ohne jede Technik, nur Bürokratie und Sprache.

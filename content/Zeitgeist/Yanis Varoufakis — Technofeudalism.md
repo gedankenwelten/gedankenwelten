@@ -239,3 +239,7 @@ Dalio beschreibt denselben Vorgang — Notenbankgeld hebt Wertpapierkurse, also 
 
 Der direkteste Widerspruch im Bestand, im Gespräch namentlich vorgetragen. Herrmann bestreitet nicht die Cloud-Rente, sondern ihre Stabilisierbarkeit: Wer Leibeigene hat, hat keine Kunden mehr, und Facebook lebt von Werbung für Leute mit Geld. Ihr Vorwurf zielt auf die geteilte Prämisse mit Marx — dass Ausbeutung das System trage —, wo bei ihr steigende Löhne dessen Betriebsbedingung sind. Wer beide liest, muss entscheiden, ob Tribut eine neue Ordnung ist oder ein Kapitalismus, der sich selbst falsch versteht.
 
+### → [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
+
+Ein Fall, an dem sich die These prüfen lässt, ist die Börse: Sie verdient ihre Rente mit Nähe und Vorsprung, mit Kolokation und Datenströmen, wie eine Nachbesprechung von 2026 zeigt. Der Handel wurde dabei trotzdem billiger; Tribut und Effizienz schließen sich dort nicht aus.
+

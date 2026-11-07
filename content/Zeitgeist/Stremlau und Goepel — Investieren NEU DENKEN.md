@@ -278,6 +278,10 @@ Bendsens Circular-Value-Ansatz (re:publica 26) ist die Kreislaufwirtschafts-Fass
 
 Die mediale Vorgeschichte der Planungsunsicherheit: Die „Heizungshammer“-Kampagne der BILD zerfetzte das GEG, das die Stadtwerke hier zum Pausieren zwingt — Framing als Ursache, ausgebremste Investition als Wirkung.
 
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+
+Der ESG-Backlash hat einen Fall mit Namen: BlackRock, das 2020 schrieb, Klimarisiko sei Investitionsrisiko, und 2025 aus der Klima-Initiative der Vermögensverwalter austrat, worauf Texas den Konzern von seiner Boykottliste strich. BlackRock selbst sagt, Vermögensverwalter dürften keine eigenen Ansichten fördern; Stremlaus Satz, Geld sei niemals neutral, ist die Gegenthese.
+
 ---
 ## Weiterdenken
 

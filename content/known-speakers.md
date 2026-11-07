@@ -1342,3 +1342,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Stephen Miller
 **Status:** ✓ Vollanalyse → [[DenkerVita/Stephen Miller]]
+
+## Wolfgang Coy
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Coy]]

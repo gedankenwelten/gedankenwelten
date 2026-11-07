@@ -55,7 +55,7 @@ der Jugendlichen ab 14 für ein Mindestalter von 16 Jahren und 42 Prozent dagege
 
 Dass es Kindern und Jugendlichen in Deutschland psychisch schlechter geht als vor fünfzehn Jahren, ist gut
 belegt. Psychosomatische Beschwerden nehmen laut der WHO-Studie HBSC seit 2009/10 zu, bei Mädchen am stärksten
-([Reiß et al. 2024, doi:10.25646/11868](https://doi.org/10.25646/11868)). Mehr als jedes vierte Kind zwischen
+([Reiß et al. 2024](https://doi.org/10.25646/11868)). Mehr als jedes vierte Kind zwischen
 10 und 17 nutzt soziale Medien problematisch, hochgerechnet über 1,3 Millionen; 2024 waren es erstmals seit der
 Pandemie etwas weniger als in der Welle davor
 ([DAK-Mediensucht-Studie 2024](https://www.dak.de/dak/unternehmen/reporte-forschung/dak-studie-mediensucht-2024_91442)).
@@ -63,29 +63,29 @@ Pandemie etwas weniger als in der Welle davor
 Wie viel von der Belastung auf das Netz zurückgeht, ist dagegen offen, und der Streit darüber hat sich
 verschoben. Für die Nutzung im Allgemeinen bleibt der Zusammenhang klein. In drei großen Datensätzen erklärt
 sie höchstens 0,4 Prozent der Unterschiede im Wohlbefinden
-([Orben & Przybylski 2019, doi:10.1038/s41562-018-0506-1](https://doi.org/10.1038/s41562-018-0506-1)), und
+([Orben & Przybylski 2019](https://doi.org/10.1038/s41562-018-0506-1)), und
 die meisten Übersichtsarbeiten nennen ihn schwach oder uneinheitlich
-([Valkenburg, Meier & Beyens 2021, doi:10.1016/j.copsyc.2021.08.017](https://doi.org/10.1016/j.copsyc.2021.08.017), Umbrella-Review).
+([Valkenburg, Meier & Beyens 2021](https://doi.org/10.1016/j.copsyc.2021.08.017), Umbrella-Review).
 Deutlicher wird er, wo die Nutzung problematisch ist
-([Tølbøll 2026, doi:10.1111/camh.70071](https://doi.org/10.1111/camh.70071), Umbrella-Review über 72 Reviews),
+([Tølbøll 2026](https://doi.org/10.1111/camh.70071), Umbrella-Review über 72 Reviews),
 und beim Körperbild. Über 45 Studien mit 33.086 Jugendlichen hängt die Nutzung mit der Unzufriedenheit am
 eigenen Körper und mit Essstörungssymptomen zusammen, auch über die Zeit, stärker bei Instagram und dort, wo
-mehr Mädchen befragt wurden ([Fortunato et al. 2026, doi:10.1007/s40894-026-00285-7](https://doi.org/10.1007/s40894-026-00285-7), Meta-Analyse).
+mehr Mädchen befragt wurden ([Fortunato et al. 2026](https://doi.org/10.1007/s40894-026-00285-7), Meta-Analyse).
 
 Experimente, die eine Ursache zeigen könnten, gibt es fast nur mit Erwachsenen. Wer vier Wochen lang Facebook
-abschaltete, war danach etwas zufriedener ([Allcott et al. 2020, doi:10.1257/aer.20190658](https://doi.org/10.1257/aer.20190658), randomisiert).
+abschaltete, war danach etwas zufriedener ([Allcott et al. 2020](https://doi.org/10.1257/aer.20190658), randomisiert).
 Als Facebook Schritt für Schritt an amerikanische Colleges kam, verschlechterte sich die psychische Gesundheit
-der Studierenden ([Braghieri, Levy & Makarin 2022, doi:10.1257/aer.20211218](https://doi.org/10.1257/aer.20211218), natürliches Experiment).
+der Studierenden ([Braghieri, Levy & Makarin 2022](https://doi.org/10.1257/aer.20211218), natürliches Experiment).
 Zwei Wochen ohne mobiles Internet senkten depressive Symptome deutlich, allerdings hielt nur ein Viertel der
-Teilnehmenden durch ([Castelo et al. 2025, doi:10.1093/pnasnexus/pgaf017](https://doi.org/10.1093/pnasnexus/pgaf017)).
+Teilnehmenden durch ([Castelo et al. 2025](https://doi.org/10.1093/pnasnexus/pgaf017)).
 Fasst man die Verzichtsstudien zusammen, schadet ein Verzicht von wenigen Tagen eher, einer ab einer Woche hilft
-ein wenig ([Thrul et al. 2025, doi:10.1037/ppm0000574](https://doi.org/10.1037/ppm0000574)). Mit Kindern lässt
+ein wenig ([Thrul et al. 2025](https://doi.org/10.1037/ppm0000574)). Mit Kindern lässt
 sich ein solcher Versuch kaum machen.
 
 Darum argumentiert die Leopoldina in ihrem Diskussionspapier vom August 2025 mit dem Vorsorgeprinzip und
 nicht mit einem Beweis: Die möglichen Gefährdungen durch intensive Nutzung seien erheblich, also solle die
 Politik handeln, und die Forschung solle prüfen, ob die Schutzmaßnahmen wirken
-([Leopoldina 2025, doi:10.26164/leopoldina_03_01307](https://doi.org/10.26164/leopoldina_03_01307)).
+([Leopoldina 2025](https://doi.org/10.26164/leopoldina_03_01307)).
 Die Studien im Einzelnen stehen im [[Zeitgeist/MDR exactly — Kinder im Burnout#Faktencheck|Faktencheck der MDR-Note]].
 
 **Die Stimmen**
@@ -122,28 +122,28 @@ Die Leopoldina rät, Smartphones in Kitas und Schulen bis einschließlich Klasse
 
 Was ein Verbot bewirkt, ist oft untersucht und selten eindeutig. In England stiegen nach Handyverboten die
 Prüfungsleistungen leicht, am stärksten bei Leistungsschwachen
-([Beland & Murphy 2016, doi:10.1016/j.labeco.2016.04.004](https://doi.org/10.1016/j.labeco.2016.04.004)); in
-Schweden fand die Replikation nichts ([Kessel et al. 2020, doi:10.1016/j.econedurev.2020.102009](https://doi.org/10.1016/j.econedurev.2020.102009)).
+([Beland & Murphy 2016](https://doi.org/10.1016/j.labeco.2016.04.004)); in
+Schweden fand die Replikation nichts ([Kessel et al. 2020](https://doi.org/10.1016/j.econedurev.2020.102009)).
 In Norwegen zeigte sich im Mittel kein Effekt, aber Mädchen suchten seltener psychologische Hilfe, und das
-Mobbing ging bei allen zurück ([Abrahamsson 2026, doi:10.3368/jhr.0224-13403r2](https://doi.org/10.3368/jhr.0224-13403r2)).
-In Spanien sank das Mobbing ([Beneito & Vicente-Chirivella 2022, doi:10.1108/aea-05-2021-0112](https://doi.org/10.1108/aea-05-2021-0112)),
-in Südaustralien war nach einem Monat nichts zu sehen ([King u. a. 2024, doi:10.1556/2006.2024.00058](https://doi.org/10.1556/2006.2024.00058)),
+Mobbing ging bei allen zurück ([Abrahamsson 2026](https://doi.org/10.3368/jhr.0224-13403r2)).
+In Spanien sank das Mobbing ([Beneito & Vicente-Chirivella 2022](https://doi.org/10.1108/aea-05-2021-0112)),
+in Südaustralien war nach einem Monat nichts zu sehen ([King u. a. 2024](https://doi.org/10.1556/2006.2024.00058)),
 und an 30 englischen Schulen unterschied sich das Wohlbefinden nicht; kürzer war die Handyzeit nur während des
-Unterrichts ([Goodyear u. a. 2025, doi:10.1016/j.lanepe.2025.101211](https://doi.org/10.1016/j.lanepe.2025.101211)).
+Unterrichts ([Goodyear u. a. 2025](https://doi.org/10.1016/j.lanepe.2025.101211)).
 
 Die größte Studie bisher kommt aus den USA, wo Schulen im ganzen Land die Handys in abschließbare Taschen
 stecken. Im ersten Jahr gab es mehr Disziplinarfälle und vermutlich ein schlechteres Befinden, danach erholte es
-sich; die Testwerte blieben im Mittel gleich ([Allcott u. a. 2026, doi:10.3386/w35132](https://doi.org/10.3386/w35132),
+sich; die Testwerte blieben im Mittel gleich ([Allcott u. a. 2026](https://doi.org/10.3386/w35132),
 Arbeitspapier, noch nicht begutachtet). Ein zweites Arbeitspapier findet dort bisher keine klare Wirkung auf
-die psychische Gesundheit, mit noch wenigen Daten ([Saffer 2026, doi:10.3386/w35181](https://doi.org/10.3386/w35181)).
+die psychische Gesundheit, mit noch wenigen Daten ([Saffer 2026](https://doi.org/10.3386/w35181)).
 In den Niederlanden, die ein landesweites Verbot im Unterricht vereinbart haben, unterschieden sich Voll- und
 Teilverbot an 24 Schulen nicht im Wohlbefinden; beim Vollverbot fühlten sich die Schüler ihren Lehrkräften aber
-weniger verbunden ([Vanluydt u. a. 2026, doi:10.1007/s10964-025-02313-6](https://doi.org/10.1007/s10964-025-02313-6)).
+weniger verbunden ([Vanluydt u. a. 2026](https://doi.org/10.1007/s10964-025-02313-6)).
 Eine Übersicht zählte 22 Studien und keine einzige randomisierte
-([Campbell u. a. 2024, doi:10.1177/20556365241270394](https://doi.org/10.1177/20556365241270394)); eine kleine
+([Campbell u. a. 2024](https://doi.org/10.1177/20556365241270394)); eine kleine
 Meta-Analyse über fünf Studien kommt auf einen bescheidenen Effekt, deutlicher beim Miteinander als bei der
 Leistung, und empfiehlt das Verbot nur zusammen mit Medienbildung
-([Böttger & Zierer 2024, doi:10.3390/educsci14080906](https://doi.org/10.3390/educsci14080906)). Wenn ein
+([Böttger & Zierer 2024](https://doi.org/10.3390/educsci14080906)). Wenn ein
 Verbot wirkt, dann eher auf das Miteinander als auf die Psyche, eher nach einer Weile als sofort, und eher für
 die, die es ohnehin schwerer haben.
 
@@ -213,18 +213,18 @@ Ob das Alter des ersten Smartphones zählt, ist schwerer zu messen, als es schei
 eines kaufen, unterscheiden sich auch sonst. In der amerikanischen ABCD-Studie mit 10.588 Kindern hatten
 Zwölfjährige mit Smartphone häufiger Depressionen, Übergewicht und zu wenig Schlaf; ein früheres
 Anschaffungsalter hing aber nur mit Schlaf und Gewicht zusammen, nicht mit Depression
-([Barzilay u. a. 2025, doi:10.1542/peds.2025-072941](https://doi.org/10.1542/peds.2025-072941), Beobachtungsstudie).
+([Barzilay u. a. 2025](https://doi.org/10.1542/peds.2025-072941), Beobachtungsstudie).
 In einer kleinen, vorab registrierten Stanford-Studie mit 263 Kindern aus einkommensschwachen Familien fand sich
 weder für den Besitz noch für das Alter ein Zusammenhang mit Stimmung, Noten oder Schlaf
-([Sun u. a. 2023, doi:10.1111/cdev.13851](https://doi.org/10.1111/cdev.13851)). Eine weltweite Online-Befragung
+([Sun u. a. 2023](https://doi.org/10.1111/cdev.13851)). Eine weltweite Online-Befragung
 junger Erwachsener verbindet ein Smartphone vor 13 mit mehr Suizidgedanken und weniger Belastbarkeit, stützt
-sich aber auf erinnerte Angaben ([Thiagarajan, Newson & Swaminathan 2025, doi:10.31219/osf.io/xdnru_v1](https://doi.org/10.31219/osf.io/xdnru_v1), Arbeitspapier).
+sich aber auf erinnerte Angaben ([Thiagarajan, Newson & Swaminathan 2025](https://doi.org/10.31219/osf.io/xdnru_v1), Arbeitspapier).
 
 Der aufschlussreichste Befund betrifft die Klasse und nicht das einzelne Kind. In England verabreden Eltern im
 „Parent Pact“ von Smartphone Free Childhood, ihren Kindern vor 14 kein Smartphone zu geben. Wo mindestens ein
 Fünftel der Familien einer Schule unterschrieb, sank der erfasste Förderbedarf in sozial-emotionaler Gesundheit
 um etwa acht Prozent, stärker bei den Jüngeren und je mehr Eltern mitmachten
-([Veramendi 2026, doi:10.1920/wp.ifs.2026.4526](https://doi.org/10.1920/wp.ifs.2026.4526), Arbeitspapier, noch
+([Veramendi 2026](https://doi.org/10.1920/wp.ifs.2026.4526), Arbeitspapier, noch
 nicht begutachtet). Eine Absprache nimmt dem einzelnen Kind die Sorge, als Einziges ohne dazustehen. Ob die
 Familien, die unterschreiben, ohnehin anders leben, kann die Studie nicht ganz ausschließen.
 
@@ -252,16 +252,16 @@ Verbände, es brauche *„pädagogisch begleitete Erfahrungsräume, keine reflex
 ([tagesschau, 27.08.2025](https://www.tagesschau.de/inland/kinder-jugendliche-social-media-nutzung-100.html)).
 
 Was solche Bildung leistet, ist zweierlei. Sie vermittelt verlässlich Wissen, auf das Verhalten wirkt sie
-schwächer ([Cho, Carpenter & Li 2025, doi:10.1093/hcr/hqaf004](https://doi.org/10.1093/hcr/hqaf004),
+schwächer ([Cho, Carpenter & Li 2025](https://doi.org/10.1093/hcr/hqaf004),
 Meta-Analyse). Beim Körperbild, wo der Schaden am deutlichsten belegt ist, verbessern Schulprogramme ab Klasse 5
-beides, die Medienkompetenz und das Körperbild ([Kurz u. a. 2021, doi:10.1007/s10935-021-00660-1](https://doi.org/10.1007/s10935-021-00660-1),
+beides, die Medienkompetenz und das Körperbild ([Kurz u. a. 2021](https://doi.org/10.1007/s10935-021-00660-1),
 Meta-Analyse). Dass sie die seelische Belastung senkt, ist dünner belegt. In einem randomisierten Versuch mit
 892 Elf- bis Fünfzehnjährigen gingen depressive Symptome nach sechs Monaten zurück, nur bei Mädchen
-([Gordon u. a. 2021, doi:10.3390/nu13113825](https://doi.org/10.3390/nu13113825)); ein Programm namens *Vibe
+([Gordon u. a. 2021](https://doi.org/10.3390/nu13113825)); ein Programm namens *Vibe
 Check* verschlechterte das soziale Wohlbefinden direkt danach und stärkte zwei Wochen später das Gefühl, verbunden
-zu sein ([Schreurs & Vandenbosch 2025, doi:10.1080/01443410.2025.2593545](https://doi.org/10.1080/01443410.2025.2593545));
+zu sein ([Schreurs & Vandenbosch 2025](https://doi.org/10.1080/01443410.2025.2593545));
 über zwölf randomisierte Studien zur Vorbeugung von Essstörungen wirken die Programme kurzfristig, aber nicht
-verlässlich über Gruppen und Zeit ([Berry u. a. 2024, doi:10.1002/erv.3149](https://doi.org/10.1002/erv.3149),
+verlässlich über Gruppen und Zeit ([Berry u. a. 2024](https://doi.org/10.1002/erv.3149),
 Meta-Analyse).
 
 **Die Stimmen**
@@ -287,7 +287,7 @@ in Deutschland noch vergleichsweise frei allein unterwegs sein, nur in Finnland 
 ([Shaw et al. 2015, Policy Studies Institute](https://www.nuffieldfoundation.org/sites/default/files/files/7350_PSI_Report_CIM_final.pdf)).
 Für die USA halten Peter Gray und Kollegen den Rückgang an freiem Spiel und eigener Verantwortung für eine
 Ursache der wachsenden Angst unter Kindern, älter als das Smartphone. Ihre Übersicht stützt sich auf
-Zusammenhänge, nicht auf Experimente ([Gray, Lancy & Bjorklund 2023, doi:10.1016/j.jpeds.2023.02.004](https://doi.org/10.1016/j.jpeds.2023.02.004)).
+Zusammenhänge, nicht auf Experimente ([Gray, Lancy & Bjorklund 2023](https://doi.org/10.1016/j.jpeds.2023.02.004)).
 Die vierte von Haidts Normen heißt darum *mehr Unabhängigkeit, freies Spiel und Verantwortung in der echten
 Welt*. Gegner wie Befürworter von Verboten treffen sich an dieser Stelle.
 

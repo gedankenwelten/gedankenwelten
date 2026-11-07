@@ -345,6 +345,10 @@ Die Drehtür, die Bülow beschreibt, dreht sich dort in die Richtung, die kein G
 
 Uwe Krüger fand dasselbe Muster bei Leitjournalisten in Atlantik-Brücke, Bilderberg und Davos und gibt offen zu, dass sich nicht beweisen lässt, ob das Netz prägt oder nur auswählt; Bülows Erfahrung liefert die Innenansicht dazu.
 
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+
+Wie Bülows Befund im Finanzsektor aussieht, zeigt eine Note über BlackRock: Im Lobbyregister nennt die deutsche Tochter für 2025 dreizehn Gesetzesvorhaben, ihre Stellungnahme zur Frühstart-Rente ging an Kanzleramt, Finanz- und Wirtschaftsministerium. Ob sie an den Gesetzen etwas änderte, lässt sich nicht belegen, weil es keinen exekutiven Fußabdruck gibt.
+
 ---
 
 ## Weiterdenken

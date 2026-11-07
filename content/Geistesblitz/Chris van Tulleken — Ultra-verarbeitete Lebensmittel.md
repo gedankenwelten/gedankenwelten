@@ -304,6 +304,10 @@ Roosen prüft aus der Konsumökonomie, was van Tullekens Forderungen leisten: Ke
 
 Das Coca-Cola-Netzwerk steht nicht allein: Scobel stellt es in eine Reihe mit Keep America Beautiful und BPs Fußabdruck-Rechner, und sein Faktencheck zeigt, wie fest die Forschung zu Süßstoffen gerade ist.
 
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+
+Wem der BlackRock-Analyst angehört, der van Tulleken sagte, Firmen kontrollierten ihr Geschäftsmodell nicht, beleuchtet ein Film von 2019: Fink schreibt Briefe für eine Wirtschaft, die der Gesellschaft dient, und stimmt zugleich auf rund 17.000 Hauptversammlungen im Jahr ab.
+
 ---
 
 ## Weiterdenken

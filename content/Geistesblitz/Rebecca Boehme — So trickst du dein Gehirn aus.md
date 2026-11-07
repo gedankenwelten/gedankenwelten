@@ -257,3 +257,8 @@ Roosen zieht aus der Konsumforschung denselben Schluss wie Böhme aus der Hirnfo
 ### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
 
 Die Parallele zum Fußabdruck, die Scobel hier im Gespräch andeutet, baut er später zu einem ganzen Essay aus; Böhmes „kein Entweder-Oder“ bekommt dort die Gegenposition und deren Grenze in den Daten.
+
+### → [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|ARTE 42 — Steuern Gefühle den Finanzmarkt?]]
+
+Was Böhme an Überzeugungen zeigt, beschreibt der ARTE-Film als „paradoxes Festhalten" an der Börse: Selbst kluge Anleger klammern sich an eine Position, obwohl sie wissen, dass es absurd ist. Die emotionale Ansteckung ist dort der Stoff, aus dem Blasen und Paniken sind.
+

@@ -175,6 +175,8 @@ Der Widerspruch steckt in der Zeitachse. Crouch datiert die Entleerung auf den N
 
 Postdemokratie von innen erzählt: Ein Ex-Abgeordneter beschreibt, wie die Entleerung der Institutionen im Alltag abläuft (Waschzettel, Wohlfühllobbyismus, Drehtür), und endet bei der Justiz, die Crouch als Schutzinstitution aufwertet.
 
+- [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]] — Crouchs Goldman-Sachs-Muster hat eine deutsche Fassung: Jörg Kukies kam von Goldman ins Finanzministerium und ging 2026 zu Morgan Stanley, Friedrich Merz kam aus dem Aufsichtsrat von BlackRock Deutschland ins Kanzleramt. Die Drehtür-Forschung findet dabei vor allem eingekauften Zugang, für Gegengeschäfte kaum Belege.
+
 ---
 
 ## Weiterdenken

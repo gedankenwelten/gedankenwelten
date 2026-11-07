@@ -97,6 +97,8 @@ Wir ordnen Rainer Mühlhoff einer machtkritischen, kapitalismuskritischen Philos
 - [[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]] — Harari nennt KI einen Agenten, kein Werkzeug, und fragt, ob man ihr einmal Rechtspersönlichkeit zusprechen soll. Für Mühlhoff gehört schon diese Frage zur Vermenschlichung, die er am Hype zerlegt: Die Macht wandert nicht zu den Systemen, sondern zu den Konzernen, die sie betreiben.
 - [[DenkerVita/Carlotta Voss|Carlotta Voß]] — Sie empfiehlt sein Buch am Ende ihres Dresdner Leseabends, und gerade daran wird ihre offene Frage scharf: Bei Mühlhoff trägt die KI-Ideologie den Staatsumbau, während Voß Asma Mhallas Gegenthese „heilsam“ findet, die Ideologie sei vor allem Ablenkung von ihm.
 
+- [[DenkerVita/Wolfgang Coy]] — Eine Generation früher und aus demselben Umfeld, dem Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, kritisierte Coy die Expertensysteme als überschätzt. Mühlhoffs Diskrepanz zwischen Können und Zutrauen hat dort ihren Vorläufer, ebenso sein Zweifel an Vorhersagen aus Datenmengen.
+
 ## Gedankenwelten-Notes
 
 **Mit ihm als Sprecher:**

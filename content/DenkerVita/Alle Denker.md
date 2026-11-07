@@ -136,6 +136,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Christoph Safferling|Christoph Safferling]]** — Strafrechtler und Völkerrechtler (FAU Erlangen-Nürnberg), Direktor der Internationalen Akademie Nürnberger Prinzipien; *Die Akte Rosenburg* (NS-Juristen im BMJ), *Ohnmacht des Völkerrechts* (2025); Nürnberger Prinzipien, kalte Verjährung, Selektivität des Völkerrechts
 
+**[[DenkerVita/Wolfgang Coy|Wolfgang Coy]]** — Informatiker (* 1947), 1996–2013 Professor für Informatik in Bildung und Gesellschaft an der HU Berlin, vorher Bremen; Mitbegründer des Fachs Informatik und Gesellschaft, Weizenbaum-Medaille 2018; hält den allwissenden Markt für Ideologie und warnt vor Rechnern, die schnell handeln, ohne zu wissen, wohin
+
 **[[DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]]** — US-Rechtswissenschaftlerin (UCLA, Columbia); prägte den Begriff *Intersektionalität* und begründete die Critical Race Theory mit; struktureller statt individueller Rassismus, Kritik der Farbenblindheit, *War on Memory*, Kampagne #SayHerName; Werke *On Intersectionality* (2017), *Backtalker: An American Memoir* (2026)
 
 **[[DenkerVita/Marco Buelow|Marco Bülow]]** — Ex-Bundestagsabgeordneter aus Dortmund (2002–2021, SPD, zuletzt Die PARTEI, † 2026); beschrieb Profitlobbyismus als legale Korruption und den Bundestag als Parlament der Abnicker (*Wir Abnicker*, *Lobbyland*, *Korrumpiert*).

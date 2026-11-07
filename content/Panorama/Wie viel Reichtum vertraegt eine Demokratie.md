@@ -2,7 +2,7 @@
 title: "Wie viel Reichtum verträgt eine Demokratie?"
 date: 2026-10-23
 erstellt: 2026-10-23
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-07
 description: "Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben."
 raetsel: "Ein Münzstapel wächst auch, während sein Besitzer schläft."
 panorama-art: wachsend
@@ -154,6 +154,8 @@ Andere Eigentumsformen gibt es längst. In Dänemark kontrollieren Industriestif
 
 Mitbestimmung hat in Deutschland weder Löhne noch Beschäftigung messbar verändert, eher die Investitionen erhöht ([Jäger, Schoefer & Heining 2021, doi:10.1093/qje/qjaa038](https://doi.org/10.1093/qje/qjaa038); [Jäger, Noy & Schoefer 2022, doi:10.1177/00197939211065727](https://doi.org/10.1177/00197939211065727)). Mitarbeiterbeteiligung hängt schwach positiv mit der Leistung zusammen ([O'Boyle, Patel & Gonzalez-Mulé 2016, doi:10.1111/1748-8583.12115](https://doi.org/10.1111/1748-8583.12115), Meta-Analyse). Produktivgenossenschaften zahlen in Italien weniger, halten aber die Arbeitsplätze stabiler ([Pencavel, Pistaferri & Schivardi 2006, doi:10.1177/001979390606000102](https://doi.org/10.1177/001979390606000102)). Und dass eine Apotheke nur Apothekern gehören darf, hat der Europäische Gerichtshof 2009 bestätigt ([EuGH, C-171/07](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62007CJ0171)). Wem der Boden gehört, steht unter [[Schoener Wohnen#Wem gehört der Boden?|Schöner Wohnen]].
 
+
+Eine Eigentumsform wächst seit 2008 schneller als jede andere: das treuhänderisch verwaltete Eigentum der großen Fondsgesellschaften. BlackRock, Vanguard und State Street sind zusammen bei 88 % der S&P-500-Firmen der größte Aktionär ([Fichtner u. a. 2017](https://doi.org/10.1017/bap.2017.6), Einzelstudie), BlackRock allein verwaltete Ende September 2026 15,5 Billionen Dollar ([BlackRock, Oktober 2026](https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_2.htm)). Es gehört Millionen Sparern und wird doch von wenigen Häusern verwaltet und abgestimmt.
 **Die Stimmen**
 
 - **[[Studio Bonn — Extremer Reichtum#Der Einwand der Abwesenden|Marlene Engelhorn]]:** *„Eigentum ist keine Arbeitsleistung. Eigentum ist ein Anspruch, den ich erheben kann.“* Die Manager dürften gern weiterarbeiten, nur müsse ihnen der Konzern nicht gehören.
@@ -165,12 +167,13 @@ Mitbestimmung hat in Deutschland weder Löhne noch Beschäftigung messbar verän
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Erben, Picasso und die reichsten Familien|Veronika Grimm]]:** Sie interessiert, *„wofür Kapital in Deutschland eingesetzt wird“*, nicht, wem es gehört.
 - **[[ARTE Re — Wenn Arbeiter Chefs werden#Sitek — die andere Hälfte der Wahrheit|ARTE Re]]:** Die Belegschaft von Sitek will ihre Fabrik als Genossenschaft retten und scheitert an 5,7 Millionen Euro.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Ahlen oder Erhard?|Isabella Weber]]:** Ahlen 1947 und die Freiburger Ordoliberalen zogen dieselbe Lehre, wirtschaftliche Macht gefährdet die Freiheit, und stritten, wer sie brechen soll.
 - **[[Demokratische Wertschoepfung#Mondragón — Der Beweis im großen Maßstab|Demokratische Wertschöpfung]]:** Mondragón, 70.000 Beschäftigte, und die ehrliche Bilanz mit Fagors Pleite.
 - **[[Tilo Jung — Erben Wirtschaft AfD-Strategie#Vertiefung Wirtschaftsdemokratie — Wem gehören die Produktionsmittel?|Tilo Jung]]:** Wer hat ein Recht auf den erwirtschafteten Mehrwert?
 - **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Wohnen Ware oder Grundrecht?|Kevin Kühnert]]:** Wohnen als Ware oder Grundrecht.
+- **[[Tom Ockers — Schattenmacht BlackRock#Das Geld anderer Leute|Larry Fink]]:** *„Ich steuere die doch nicht. Die ganze Welt steuert die Märkte."* Der größte Vermögensverwalter besitzt nichts von dem, was er verwaltet, und sitzt doch überall mit am Tisch.
 
 </details>
 
@@ -215,6 +218,7 @@ Die Philosophie trennt Neid, der haben will, was der andere hat, von Groll über
 | 23.10.2026 | [[Studio Bonn — Extremer Reichtum#Nachbesprechung|Studio Bonn — Extremer Reichtum]] | Anstoß und vier Fragen. Vermögensteuer: Zinseszins gegen Pfeffers „verlangsamt nur“, Dänemark (Jakobsen et al. 2020), Schweiz (Marti et al. 2023), Ausweichen (Advani & Tarrant 2021, Seim 2017, Agrawal et al. 2024, Ring 2026), Hinterziehung (Alstadsæter et al. 2019, Londoño-Vélez 2021), DIW gegen ifo, Sollertrag (BVerfGE 93, 121) und niederländischer Kerstarrest · Erbe: Persistenz (Tisch & Ischinsky 2023, Clark & Cummins 2015, Adermon et al. 2018), Verhalten (Glogowsky 2020, Schratzenstaller 2024) · Grenze: Robeyns, Halldenius, Albers et al. 2026 · Eigentum: Vorverteilung (O'Neill 2019), Stiftungsunternehmen (Hansmann & Thomsen, Draheim & Franke), GmgV, Mitbestimmung (Jäger et al.), Genossenschaften (Pencavel et al.), EuGH Apotheken |
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Gehen die Reichen, wenn man sie besteuert?\|Nachtsitzung — TheTrumpWeek]] | Abwanderung bei der Einkommensteuer: Millionäre (Young et al. 2016), Kalifornien Prop 30 (Rauh & Shyu 2024), Milliardäre (Moretti & Wilson 2023), Superstars (Kleven et al. 2013, Akcigit et al. 2016, Review Kleven et al. 2020), Streit um Prop 40 (Boll/Saez/Zucman vs. Jaros/Rauh 2026), Thiel |
 | 28.10.2026 | [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Nachbesprechung|Martin Oetting — Die Erbschaftsteuer, Reiche und das ZDF]] | *Was darf man erben?*: Reformkonsens Stundung statt Verschonung (BMF-Beirat 2012, SVR 2025/26, DIW 4/2026, ifo, SPD 2026), Pacte Dutreil (Cour des comptes 2025), Schweden (Henrekson & Waldenström 2016), Schweizer Abstimmung 2025, faire Sätze (Groß et al. 2017); Stimmen Oetting, Reiche, Klose · neue Frage *Ist Neid ein Argument?*: Sznycer et al. 2017, Lin & Bates 2020, Neerdaels et al. 2026, Bellani et al. 2024, SEP „Envy“, Rawls, Duden; Stimmen Reiche, Oetting, Göpel, Gottschalk, Hartmann, Heinrich, Mishra, Tiana Travels, Bleisch |
+| 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Was seither geschah: 15,5 Billionen, GIP/Preqin/HPS, ESG-Gegenwind, Voting Choice (ein Viertel genutzt), Deutsche Wohnen |
 
 ---
 

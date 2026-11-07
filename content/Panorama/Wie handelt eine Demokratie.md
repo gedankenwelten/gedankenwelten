@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-06
+aktualisiert: 2026-11-07
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -235,6 +235,8 @@ Ein viertes Werkzeug kennt Athen nicht: die Ebene darüber. Als Wirtschaftsminis
 
 Ein eigenes Kapitel ist die Aufsicht über die Sicherheitsbehörden. Wo Gesetze mit unbestimmten Begriffen arbeiten, „drohende Gefahr“, „Gefährder“, legt am Ende die Polizei fest, was gilt; die Rechtstheoretikerin Ingeborg Maus nennt das eine Refeudalisierung des Rechts. Hier hat sich das Recht als Wächter bewährt, wenn auch spät. Das Bundesverfassungsgericht erklärte das BKA-Gesetz 2016 in wesentlichen Teilen für verfassungswidrig ([LTO](https://www.lto.de/recht/hintergruende/h/bverfg-urteil-1-bvr-966-09-1-bvr-1140-09-bka-gesetz-teilweise-verfassungswidrig/print.html)) und kippte 2023 die automatisierte Datenanalyse der Polizei in Hessen und Hamburg ([Verfassungsblog](https://verfassungsblog.de/palantir-gesetzgebung/)); der Bayerische Verfassungsgerichtshof begrenzte die „drohende Gefahr“ 2025 auf terroristische und vergleichbar schwere Angriffe ([zdfheute](https://www.zdfheute.de/politik/deutschland/polizei-bayern-polizeiaufgabengesetz-urteil-drohende-gefahr-100.html)). Angestoßen haben die meisten dieser Urteile Verfassungsbeschwerden aus der Zivilgesellschaft. Dass Bedrohung die Bereitschaft erhöht, Freiheiten abzugeben, ist gut belegt, aber vor allem bei denen, die der Regierung vertrauen ([Davis & Silver 2004, doi:10.1111/j.0092-5853.2004.00054.x](https://doi.org/10.1111/j.0092-5853.2004.00054.x)); wer Angst empfindet statt Bedrohung wahrzunehmen, wird eher vorsichtiger ([Huddy, Feldman, Taber & Lahav 2005, doi:10.1111/j.1540-5907.2005.00144.x](https://doi.org/10.1111/j.1540-5907.2005.00144.x)).
 
+
+Die Drehtür hat in Deutschland zwei Richtungen, und beide sind belegt: Jörg Kukies kam 2018 von Goldman Sachs ins Finanzministerium und ging 2026 als ehemaliger Finanzminister zu Morgan Stanley, mit Auflagen des Kabinetts ([Börsen-Zeitung, 01.04.2026](https://www.boersen-zeitung.de/personen/ex-bundesfinanzminister-joerg-kukies-wechselt-zu-morgan-stanley)). Das Lobbyregister macht seit 2022 sichtbar, wer was will: BlackRocks deutsche Tochter meldet für 2025 rund 775.000 Euro Lobbyausgaben und Stellungnahmen zur Frühstart-Rente an Kanzleramt und Ministerien ([Lobbyregister R003422](https://www.lobbyregister.bundestag.de/suche/R003422)). Welche davon in Gesetze eingingen, zeigt es nicht. Wechseln Aufseher in Finanzfirmen, sinkt dort eher das Risiko, Belege für Gegengeschäfte sind selten ([Shive & Forster 2017](https://doi.org/10.1093/rof/rfw035), Einzelstudie).
 **Die Stimmen**
 
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Die Pyramide im Kreis|Ardalan Ibrahim]]:** Minister sollen sich alle drei bis sechs Monate vor einem neu gelosten Gremium verantworten, dessen Beratung aber geheim bleibt, die „Inflationierung der Hinterzimmer“.
@@ -246,7 +248,7 @@ Ein eigenes Kapitel ist die Aufsicht über die Sicherheitsbehörden. Wo Gesetze 
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Aladin El-Mafaalani]]:** Um von Washington unabhängig zu werden, sollen die eigenen Dienste aufgerüstet werden, und weil der Verfassungsschutz auch Ländersache ist, könnten Populisten bald einen Geheimdienst erben, der alles kann. *„Ich sehe beides.“*
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Şeyda Kurt]]:** Die Militarisierung nach innen geschieht unter der jetzigen Regierung, mit Befugnissen für Geheimdienste in historischem Ausmaß, und sie wird sich, wenn die AfD regiert, gegen Leute wie sie richten.
 
-<details><summary>Weitere Stimmen (15)</summary>
+<details><summary>Weitere Stimmen (16)</summary>
 
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Publikumsfragen|Hans Jessen]]:** Minister kann man schon heute entlassen; wer unter Loskontrolle zwanzig Jahre bleibt, bedeutet mehr Machtkonzentration, nicht weniger.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Vorratsdatenspeicherung 20 Jahre alter Zombie, neue Bundesregierung|Constanze Kurz]]:** Jede neue Bundesregierung versucht die Vorratsdatenspeicherung erneut, obwohl Karlsruhe und der EuGH sie gekippt haben.
@@ -265,6 +267,7 @@ Ein eigenes Kapitel ist die Aufsicht über die Sicherheitsbehörden. Wo Gesetze 
 - **[[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Das Gold als Bild|Bernd Pickert]]:** Vielleicht der erste Wahlkampf, *„wo das ganz große Geld mal ein bisschen mehr geschadet als genutzt hat“*; Barbara Junge: Zahlen bleiben nicht hängen, das vergoldete Weiße Haus schon.
 - **[[Zeitgeist/Susan Neiman — Nennen wir es boese#Trumps Ehrlichkeit|Susan Neiman und Ulrike Winkelmann]]:** Wer keine Moral beansprucht, kann nicht als Heuchler entlarvt werden; offener Eigennutz gilt den Anhängern als Ehrlichkeit.
 - **[[Marco Buelow — Korrumpiert#Das böse Wort|Marco Bülow]]:** Geld schießt keine Tore, aber „Geld kauft Politik, Geld kauft auch Demokratie“.
+- **[[Tom Ockers — Schattenmacht BlackRock#Merz, Macron und die Mieten|Heike Buchter]]:** Wer aus einem Vermögensverwalter in die Politik wechselt, nimmt weniger das Geld mit als die Denkweise; er sieht die Welt durch die Brille des früheren Arbeitgebers.
 
 </details>
 
@@ -335,6 +338,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 | 10.10.2026 | [[Harald Welzer — Toetungsarbeit#Nachbesprechung|Harald Welzer — Tötungsarbeit]] | Familiengedächtnis: *Opa war kein Nazi* in Zahlen, MEMO 2019–2025, MEMO Jugend 2023, NSDAP-Kartei online 2026 |
 | 15.10.2026 | [[Rainer Mausfeld — Warum schweigen die Lämmer#Nachbesprechung|Rainer Mausfeld — Warum schweigen die Lämmer?]] | Wer bewacht die Handelnden: Aufsicht über Sicherheitsbehörden, unbestimmte Rechtsbegriffe (Ingeborg Maus), BKA-Gesetz 2016, Datenanalyse 2023, BayVerfGH 2025 zur „drohenden Gefahr“; Bedrohung und Freiheitsverzicht (Davis & Silver 2004, Huddy et al. 2005); Mausfeld und Kurz als Stimmen |
 | 06.11.2026 | [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Nachbesprechung|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms?]] | Wer bewacht die Handelnden: Wird Korruption abgewählt? Feld kaum, Umfrage 32 Punkte (Incerti 2020), Prüfberichte und Lokalradio (Ferraz & Finan 2008), Parteifilter (Eggers 2014), Eigennutz gegen Gemeinwohl (Breitenstein & Hernández 2024); Paxton, Wisconsin 2025, Musks 445 Mio. |
+| 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Deutsche Drehtüren: Merz' Treffen als BlackRock-Vertreter, Lobbyregister und Frühstart-Rente, Kukies, Asmussen, Karenzzeit, Shive & Forster |
 
 ---
 

@@ -59,7 +59,7 @@ Alle haben etwas Richtiges gesagt. Strack-Zimmermann benennt den Preis, Friedman
 
 ### Macht Handel ein Land freier?
 
-Das war die Hoffnung hinter dem deutschen Satz *„Wandel durch Handel“*. Die bekannteste Untersuchung dazu verfolgt 130 Jahre Welthandel. Sie findet über lange Zeiträume einen positiven Zusammenhang: Länder, die mehr handeln, werden eher demokratischer. Aber nicht überall. Der Effekt zeigt sich nur in Ländern, die schon genug Kapital haben, und die Autoren deuten das so: Handel öffnet ein Land, wenn er die Mittelschicht stärkt ([López-Córdova & Meissner 2008, *World Politics*, DOI 10.1353/wp.0.0016](https://doi.org/10.1353/wp.0.0016); Einzelstudie, viel zitiert).
+Das war die Hoffnung hinter dem deutschen Satz *„Wandel durch Handel“*. Die bekannteste Untersuchung dazu verfolgt 130 Jahre Welthandel. Sie findet über lange Zeiträume einen positiven Zusammenhang: Länder, die mehr handeln, werden eher demokratischer. Aber nicht überall. Der Effekt zeigt sich nur in Ländern, die schon genug Kapital haben, und die Autoren deuten das so: Handel öffnet ein Land, wenn er die Mittelschicht stärkt ([López-Córdova & Meissner 2008, *World Politics*](https://doi.org/10.1353/wp.0.0016); Einzelstudie, viel zitiert).
 
 Das ist genau Serraos Argument, die Mittelschicht. Und China ist zugleich der Fall, der zeigt, wie lange „eher“ dauern kann und dass es nicht kommen muss: Die Mittelschicht ist entstanden, die Herrschaft der Partei ist geblieben.
 
@@ -67,13 +67,13 @@ Es gibt die Fälle, in denen es nicht geschah. Christoph Hein nennt die drei Ann
 
 ### Helfen Bedingungen im Vertrag?
 
-Hier ist die Forschung am deutlichsten. Emilie Hafner-Burton hat die Handelsabkommen von 177 Staaten zwischen 1972 und 2002 untersucht. Abkommen, die Menschenrechte nur erwähnen, ändern wenig, und Menschenrechtsverträge allein auch nicht. Wirken tun Abkommen, die den Zugang zum Markt an die Einhaltung der Menschenrechte **knüpfen**: Wer foltert, verliert Vorteile ([Hafner-Burton 2005, *International Organization*, DOI 10.1017/S0020818305050216](https://doi.org/10.1017/S0020818305050216); Einzelstudie, sehr einflussreich, Daten bis 2002).
+Hier ist die Forschung am deutlichsten. Emilie Hafner-Burton hat die Handelsabkommen von 177 Staaten zwischen 1972 und 2002 untersucht. Abkommen, die Menschenrechte nur erwähnen, ändern wenig, und Menschenrechtsverträge allein auch nicht. Wirken tun Abkommen, die den Zugang zum Markt an die Einhaltung der Menschenrechte **knüpfen**: Wer foltert, verliert Vorteile ([Hafner-Burton 2005, *International Organization*](https://doi.org/10.1017/S0020818305050216); Einzelstudie, sehr einflussreich, Daten bis 2002).
 
 Die EU benutzt dieses Werkzeug. Im August 2020 hat sie Kambodscha die Zollfreiheit für etwa ein Fünftel seiner Exporte entzogen, Kleidung, Schuhe, Reisetaschen, wegen *„ernster und systematischer“* Verletzungen von Menschen- und Arbeitsrechten. Die übrigen vier Fünftel blieben zollfrei, und die Tür zur Rückkehr stand offen ([EU-Kommission, 12.08.2020](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1469)). Das ist weder alles noch nichts. Es ist ein Preis, den man erhöhen und wieder senken kann.
 
 ### Hilft es, den Handel abzubrechen?
 
-Das klingt am konsequentesten, und die Forschung ist hier ernüchternd. Eine Untersuchung der Jahre 1981 bis 2000 zeigt: Nach Wirtschaftssanktionen verschlechtert sich die Lage der Menschenrechte im betroffenen Land. Es wird mehr gefoltert, mehr Menschen verschwinden. Breite Sanktionen schaden mehr als gezielte, und gemeinsame Sanktionen vieler Staaten schaden mehr als die eines einzelnen. Das gilt selbst dann, wenn die Sanktionen ausdrücklich verhängt wurden, um die Menschenrechte zu verbessern ([Peksen 2009, *Journal of Peace Research*, DOI 10.1177/0022343308098404](https://doi.org/10.1177/0022343308098404); Einzelstudie). Der Grund, den die Studie nennt: Die Herrschenden behalten ihre Macht, die Not trifft die Bevölkerung, und auf Unruhe antwortet das Regime mit mehr Gewalt.
+Das klingt am konsequentesten, und die Forschung ist hier ernüchternd. Eine Untersuchung der Jahre 1981 bis 2000 zeigt: Nach Wirtschaftssanktionen verschlechtert sich die Lage der Menschenrechte im betroffenen Land. Es wird mehr gefoltert, mehr Menschen verschwinden. Breite Sanktionen schaden mehr als gezielte, und gemeinsame Sanktionen vieler Staaten schaden mehr als die eines einzelnen. Das gilt selbst dann, wenn die Sanktionen ausdrücklich verhängt wurden, um die Menschenrechte zu verbessern ([Peksen 2009, *Journal of Peace Research*](https://doi.org/10.1177/0022343308098404); Einzelstudie). Der Grund, den die Studie nennt: Die Herrschenden behalten ihre Macht, die Not trifft die Bevölkerung, und auf Unruhe antwortet das Regime mit mehr Gewalt.
 
 Das ist ein unbequemer Befund für Friedmans Forderung nach Konsequenzen, und eine Stütze für Serraos Ja. Gegen Konsequenzen spricht er trotzdem nicht, nur gegen die grobe Form.
 
@@ -132,7 +132,7 @@ Folge 2 der Reihe: eine Schülerfrage aus dem StreitClub #19, über TikTok und d
 ## Quellen
 
 - StreitClub #17 „Europa allein zu Haus“, Goethe-Universität Frankfurt, 21.04.2026: [Video](https://www.youtube.com/watch?v=he1g_SxnCkM), Frage ab ▶ 92:28, Serraos Antwort ab ▶ 100:04
-- López-Córdova, J. E. & Meissner, C. M. (2008): The Impact of International Trade on Democracy: A Long-Run Perspective. *World Politics* 60(4). [DOI 10.1353/wp.0.0016](https://doi.org/10.1353/wp.0.0016)
-- Hafner-Burton, E. M. (2005): Trading Human Rights: How Preferential Trade Agreements Influence Government Repression. *International Organization* 59(3). [DOI 10.1017/S0020818305050216](https://doi.org/10.1017/S0020818305050216)
-- Peksen, D. (2009): Better or Worse? The Effect of Economic Sanctions on Human Rights. *Journal of Peace Research* 46(1). [DOI 10.1177/0022343308098404](https://doi.org/10.1177/0022343308098404)
+- López-Córdova, J. E. & Meissner, C. M. (2008): The Impact of International Trade on Democracy: A Long-Run Perspective. *World Politics* 60(4). [López-Córdova & Meissner 2008](https://doi.org/10.1353/wp.0.0016)
+- Hafner-Burton, E. M. (2005): Trading Human Rights: How Preferential Trade Agreements Influence Government Repression. *International Organization* 59(3). [Hafner-Burton 2005](https://doi.org/10.1017/S0020818305050216)
+- Peksen, D. (2009): Better or Worse? The Effect of Economic Sanctions on Human Rights. *Journal of Peace Research* 46(1). [Peksen 2009](https://doi.org/10.1177/0022343308098404)
 - EU-Kommission (12.08.2020): [Cambodia loses duty-free access to the EU market](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1469)

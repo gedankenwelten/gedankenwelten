@@ -250,6 +250,9 @@ Van Tulleken wendet das Vorhersage-Modell auf den Süßstoff an: Diet Coke künd
 
 Moss zeigt, wie die Industrie das Belohnungssystem vermisst: Howard Moskowitz berechnet aus Tausenden Verkostungen den *bliss point*, die Süße, bei der ein Produkt am stärksten lockt.
 
+### → [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|ARTE 42 — Steuern Gefühle den Finanzmarkt?]]
+
+Was Schultz im Labor misst, zeigt der ARTE-Film an der Börse: Die Neuroökonomin Elise Payzan-LeNestour beschreibt den Hunger nach Geld als Dopaminsignal, und ihr „Pawlowscher Bias" lernt weiter, wenn die Anlage sich längst nicht mehr lohnt. Wenn der positive Fehler den Maßstab hebt, braucht jede Hausse eine größere als die letzte.
 
 ---
 

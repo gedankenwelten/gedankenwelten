@@ -58,5 +58,7 @@ Keine parteipolitische Positionierung. Bauckhage argumentiert als Wissenschaftle
 - [[DenkerVita/Frederike Kaltheuner]] — Die politökonomische Ergänzung zu Bauckhages Ingenieursblick: Kaltheuner analysiert Marktkonzentration und Europas strukturelle Abhängigkeit, Bauckhage benennt denselben Standortnachteil vom Machbaren her — fehlende Rechenreserven, Datenrecht, Zahlungswille. Diagnose von zwei Seiten desselben Problems.
 - [[DenkerVita/Markus Gabriel]] — Kollegen an der Universität Bonn mit gegensätzlichem Zugang zur KI: Der Philosoph Gabriel deutet sie als moralisch anschlussfähiges Resonanzfeld, der Informatiker Bauckhage nennt den Transformer nüchtern „das Dümmste" — ein lokales Optimum, das trotzdem die Welt umbaut. Reibungspunkt: Muss man Intelligenz verstehen, um sie zu bauen?
 
+- [[DenkerVita/Wolfgang Coy]] — Coy rechnete schon 1985 mit den Hoffnungen der starken KI ab und kritisierte 1989 die Expertensysteme. Bauckhages hybride KI verbindet die zwei Hälften, die Coy einzeln befragt hat: Daten, aus denen kein Gesetz folgt, und Regeln, die Erfahrung nicht ganz fassen.
+
 ## Gedankenwelten-Notes
 - [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]

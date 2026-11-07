@@ -257,6 +257,10 @@ Dass die Bilderkennung die Lücke allein nicht schließt, sagt 2024 die Informat
 
 KI für die „dull, dirty, dangerous“-Arbeit, wie Misselhorn sie verlangt: Ein Exoskelett soll sich dem Menschen anpassen „und nicht umgekehrt“. Die Jury fragt dort, ob sich der Betrieb dann nicht doch auf das Gerät einstellt.
 
+### → [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
+
+Misselhorns Antwort auf das Trolley-Problem, die Infrastruktur so zu bauen, dass das Dilemma nicht entsteht, hat an der Börse ein Gegenstück: Sammelauktionen und Verzögerungsstrecken, die das Wettrennen um Mikrosekunden wertlos machen. Das Kollektiv RYBN stellt mit Antoinette Rouvroy die Gegenfrage, ob solche Umgebungsgestaltung verhindert, statt zu verstehen.
+
 ---
 
 ## Weiterdenken

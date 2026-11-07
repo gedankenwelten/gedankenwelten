@@ -200,6 +200,8 @@ dieselbe Verschmelzung von privatem Reichtum und Staatsmacht an zwei Punkten der
 - [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]] — April 2026: Trumps Monetarisierung des Präsidentenamtes, von Citizens United über DOGE bis zum Qatar-Jumbo.
 - [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]] — August 2026: Der Epstein-Komplex als Studie darüber, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
 
+- [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]] — ZDF/ARTE-Film von Tom Ockers (2019): Navidi beschreibt Larry Fink als prominenten Knoten im Netz derer, die über die Daten des Weltvermögens einen einmaligen Überblick haben, ihre *SuperHubs*-These am größten Vermögensverwalter.
+
 ---
 
 *Quellen: [Wikipedia (de): Sandra Navidi](https://de.wikipedia.org/wiki/Sandra_Navidi) · [Hachette UK: SuperHubs](https://www.hachette.co.uk/titles/sandra-navidi/superhubs/9781473669949/) · [Deutschlandfunk, Kulturfragen 21.09.2025](https://www.deutschlandfunk.de/juristin-sandra-navidi-ueber-die-zerstoerung-der-us-demokratie-durch-donald-trump-100.html) · die beiden STANDARD-Gespräche.*

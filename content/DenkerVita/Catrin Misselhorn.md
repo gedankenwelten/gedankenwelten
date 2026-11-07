@@ -75,6 +75,8 @@ Keine parteipolitische Verortung. Misselhorn argumentiert als akademische Ethike
 - [[DenkerVita/Roberto Simanowski]] — Misselhorns erster Grundsatz verlangt, dass KI die Selbstbestimmung fördert. Simanowski beschreibt, wie sie diese schon beim Helfen untergräbt: Was die Maschine für uns schreibt, verlernen wir. Mit Hegels Herr und Knecht fragt er, woher Anerkennung kommt, wenn nichts mehr selbst gemacht ist; Hegel zählt auch Misselhorn zu ihren Einflüssen.
 - [[DenkerVita/Wolfgang Huber]] — „Maschinen assistieren, Menschen verantworten": Hubers Formel deckt sich mit Misselhorns drittem Grundsatz, dass Menschen in einem substanziellen Sinn die Verantwortung tragen. Er begründet sie theologisch aus der Unverletzlichkeit der Person, sie philosophisch aus der Unterscheidung von Handeln und Verantworten.
 
+- [[DenkerVita/Wolfgang Coy]] — Was Misselhorn als dritten Grundsatz formuliert, warnte der Informatiker Coy 2014 am Börsenhandel: Gefährlich werde es, wenn man die Rechner loslässt und nicht mehr weiß, was geschieht. Er hat die Ethik der Informatik von innen zum Fach gemacht, mit der Fallsammlung *Gewissensbisse*.
+
 ## Gedankenwelten-Notes
 
 - [[Catrin Misselhorn — Grundfragen der Maschinenethik]]

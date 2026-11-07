@@ -41,7 +41,6 @@ Quelle: [Warum Tech-Eliten so denken und was das für dich bedeutet – scobel i
 
 [▶ 2:19](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=139)
 
-
 Kybernetik = die Wissenschaft von Steuerung und Regelung im Mensch und in der Maschine. Entstanden in den 1940er–50er Jahren, heute kaum noch als Begriff bekannt — gerade weil sie sich in alles eingeschrieben hat: Informatik, Robotik, Soziologie, Politikwissenschaft, KI. Alex Pentland (MIT): *"Der Begriff Kybernetik verschwand am MIT, weil Kybernetik über alles ist wie Luft."*
 
 Nosthoff: Der Begriff verschwand, die Logik blieb. Die Kybernetik ist heute die unsichtbare Grammatik der digitalen Gesellschaft.
@@ -69,7 +68,6 @@ Spannung: Wiener selbst konfliktierte mit John von Neumann darüber, ob Forschun
 ### Kernbegriffe der kybernetischen Logik
 
 [▶ 28:08](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1688)
-
 
 **Feedback / Rückkopplung** — Das Medium des anpassenden Verhaltens. Modell: Thermostat. Sollwert → Rückmeldung ob erreicht → Verhaltenskorrektur. *Purposeful behavior.*
 
@@ -286,3 +284,8 @@ Die 3sat-Doku ergänzt Nosthoffs Kybernetik-Genealogie um die zweite Ideenlinie:
 ### → [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
 
 Wo das Datensubjekt an seine Grenze kam, setzen Gehirn-Computer-Schnittstellen an: Sie messen nicht mehr nur Verhalten, sondern die Signale davor.
+
+### → [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
+
+Wieners Prädiktor hat an der Börse Nachfahren. Auf einem Podium von 2014 zitiert das Kollektiv RYBN Wieners späte Warnung, das ökonomische Spiel folge Regeln, die niemand ganz versteht, und Wolfgang Coy zeigt, warum Vorhersage aus Vergangenem an der Überraschung scheitert.
+

@@ -141,17 +141,17 @@ Die Prüfer irren auch selbst. Das ZDF unterlag vor dem Landgericht Hamburg, wei
 
 ## Quellen
 
-- Nenno, S. (2025). *Who spreads disinformation, where, for what purpose, and to what extent?* Digital Society Blog, HIIG. [DOI 10.5281/zenodo.17572615](https://doi.org/10.5281/zenodo.17572615)
-- Nenno, S. (2025). Separate worlds of misinformation. *Information, Communication & Society*. [DOI 10.1080/1369118X.2025.2561030](https://doi.org/10.1080/1369118X.2025.2561030)
-- Nenno, S., Puschmann, C., Fuławka, K., Lorenz-Spreen, P. (2025). Political disinformation concentrates in repeated claims across media. SocArXiv, Preprint. [DOI 10.31235/osf.io/p6yh9_v1](https://doi.org/10.31235/osf.io/p6yh9_v1)
-- Lasser, J. u. a. (2022). Social media sharing of low-quality news sources by political elites. *PNAS Nexus*. [DOI 10.1093/pnasnexus/pgac186](https://doi.org/10.1093/pnasnexus/pgac186)
-- Törnberg, P., Chueri, J. (2025). When Do Parties Lie? *The International Journal of Press/Politics*. [DOI 10.1177/19401612241311886](https://doi.org/10.1177/19401612241311886)
-- Osmundsen, M. u. a. (2021). Partisan Polarization Is the Primary Psychological Motivation behind Political Fake News Sharing on Twitter. *APSR*. [DOI 10.1017/s0003055421000290](https://doi.org/10.1017/s0003055421000290)
-- Lasser, J. u. a. (2023). From alternative conceptions of honesty to alternative facts in communications by US politicians. *Nature Human Behaviour*. [DOI 10.1038/s41562-023-01691-w](https://doi.org/10.1038/s41562-023-01691-w)
-- Huttunen, K. J. A., Lewandowsky, S. (2026). Tolerance for democratic norm violations increases when sincerity replaces accuracy as a marker of honesty. *Communications Psychology*. [DOI 10.1038/s44271-026-00407-w](https://doi.org/10.1038/s44271-026-00407-w)
-- Budak, C. u. a. (2024). Misunderstanding the harms of online misinformation. *Nature*. [DOI 10.1038/s41586-024-07417-w](https://doi.org/10.1038/s41586-024-07417-w)
-- Greene, K. T., Pisharody, N., Carroll, F., Shapiro, J. N. (2024). Fact-checks focus on famous politicians, not partisans. *PNAS Nexus*. [DOI 10.1093/pnasnexus/pgae567](https://doi.org/10.1093/pnasnexus/pgae567)
-- Chuai, Y., Zhao, J., Pröllochs, N., Lenzini, G. (2025). Is Fact-Checking Politically Neutral? ICWSM. [DOI 10.1609/icwsm.v19i1.35823](https://doi.org/10.1609/icwsm.v19i1.35823)
+- Nenno, S. (2025). *Who spreads disinformation, where, for what purpose, and to what extent?* Digital Society Blog, HIIG. [Nenno 2025](https://doi.org/10.5281/zenodo.17572615)
+- Nenno, S. (2025). Separate worlds of misinformation. *Information, Communication & Society*. [Nenno 2025](https://doi.org/10.1080/1369118X.2025.2561030)
+- Nenno, S., Puschmann, C., Fuławka, K., Lorenz-Spreen, P. (2025). Political disinformation concentrates in repeated claims across media. SocArXiv, Preprint. [Nenno u. a. 2025](https://doi.org/10.31235/osf.io/p6yh9_v1)
+- Lasser, J. u. a. (2022). Social media sharing of low-quality news sources by political elites. *PNAS Nexus*. [Lasser u. a. 2022](https://doi.org/10.1093/pnasnexus/pgac186)
+- Törnberg, P., Chueri, J. (2025). When Do Parties Lie? *The International Journal of Press/Politics*. [Törnberg & Chueri 2025](https://doi.org/10.1177/19401612241311886)
+- Osmundsen, M. u. a. (2021). Partisan Polarization Is the Primary Psychological Motivation behind Political Fake News Sharing on Twitter. *APSR*. [Osmundsen u. a. 2021](https://doi.org/10.1017/s0003055421000290)
+- Lasser, J. u. a. (2023). From alternative conceptions of honesty to alternative facts in communications by US politicians. *Nature Human Behaviour*. [Lasser u. a. 2023](https://doi.org/10.1038/s41562-023-01691-w)
+- Huttunen, K. J. A., Lewandowsky, S. (2026). Tolerance for democratic norm violations increases when sincerity replaces accuracy as a marker of honesty. *Communications Psychology*. [Huttunen & Lewandowsky 2026](https://doi.org/10.1038/s44271-026-00407-w)
+- Budak, C. u. a. (2024). Misunderstanding the harms of online misinformation. *Nature*. [Budak u. a. 2024](https://doi.org/10.1038/s41586-024-07417-w)
+- Greene, K. T., Pisharody, N., Carroll, F., Shapiro, J. N. (2024). Fact-checks focus on famous politicians, not partisans. *PNAS Nexus*. [Greene u. a. 2024](https://doi.org/10.1093/pnasnexus/pgae567)
+- Chuai, Y., Zhao, J., Pröllochs, N., Lenzini, G. (2025). Is Fact-Checking Politically Neutral? ICWSM. [Chuai u. a. 2025](https://doi.org/10.1609/icwsm.v19i1.35823)
 - Frankfurt, H. G. (1986/2005). *On Bullshit*. Princeton University Press.
 - AfD-Bundesvorstand (22.12.2016). *Strategie 2017*, vertraulich. [PDF](https://afdwatchafd.files.wordpress.com/2017/02/afd-strategie-2017.pdf) (Fundort: Watch-Blog). Zum Provokations-Zitat: [Tagesspiegel, 20.01.2017](https://www.tagesspiegel.de/politik/afd-macht-geplante-provokationen-zur-medienstrategie-5488894.html), [Weser-Kurier, 24.01.2017](https://www.weser-kurier.de/politik/provokation-als-programm-doc7e4471x98sze4oywayk)
 - CORRECTIV: Kampf um die Fakten (22.02.2025) · Storm-1516 (16.07.2025) · Die Propaganda-KI der AfD (02.07.2026)

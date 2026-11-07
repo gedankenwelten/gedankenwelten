@@ -2,7 +2,7 @@
 title: "Wann darf der Staat Preise setzen?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-31
+aktualisiert: 2026-11-07
 description: "Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?"
 raetsel: "Eine Hand liegt über der Waage. Wessen Ärmel das ist, sagt keiner."
 panorama-art: wachsend
@@ -123,6 +123,8 @@ Wo Macht im Spiel ist, zeigen die deutschen Instrumente selbst. Unter der Gaspre
 
 Spanien und Portugal griffen dort ein, wo der Strompreis entsteht. Der Deckel auf den Gaspreis für Kraftwerke senkte den Großhandelspreis um rund 40 Prozent und die spanische Inflation im Schnitt um 3,5 Punkte (Haro Ruiz et al. 2024, [doi:10.1080/13504851.2024.2425834](https://doi.org/10.1080/13504851.2024.2425834)), um den Preis von mehr verbranntem Gas und billigem Strom, der nach Frankreich floss (Hidalgo-Pérez et al. 2024, [doi:10.1016/j.enpol.2024.114092](https://doi.org/10.1016/j.enpol.2024.114092)). Die Gewinne der spanischen Kraftwerke stiegen in der Krise trotzdem um 29 Milliarden Euro (Fabra, Leblanc & Souza 2026, [doi:10.65864/mlzbstvjna](https://doi.org/10.65864/mlzbstvjna)). Die Inflationswirkung der deutschen Gasbremse schätzen Ökonomen für 2023 auf 0,25 bis 0,4 Prozentpunkte, bei Kosten von rund 15 Milliarden Euro (Garnadt et al. 2023, [doi:10.1515/pwp-2023-0019](https://doi.org/10.1515/pwp-2023-0019)). Krebs und Weber folgern, Preiskontrollen für systemrelevante Sektoren gehörten in den Werkzeugkasten; die Bremse habe die Preise für Haushalte stabilisiert, sei aber zu spät gekommen (Krebs & Weber 2024, [doi:10.2139/ssrn.4855828](https://doi.org/10.2139/ssrn.4855828), Arbeitspapier zweier Befürworter).
 
+
+Eine leise Form von Marktmacht wird seit 2018 untersucht: der gemeinsame Besitz konkurrierender Firmen durch dieselben großen Fondsgesellschaften. Höhere Flugpreise fanden Azar, Schmalz und Tecu ([Azar u. a. 2018](https://doi.org/10.1111/jofi.12698), Einzelstudie); eine Übersichtsarbeit von 2024 findet mit den glaubwürdigsten Methoden „relativ wenig" Belege, dass er den Wettbewerb senkt, geschrieben allerdings von Autoren aus dem Lager der Kritiker ([Gerardi u. a. 2024](https://doi.org/10.1146/annurev-financial-082123-105841), Übersichtsarbeit).
 **Die Stimmen**
 
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Die sichtbaren Hände|Isabella Weber]]** — Hinter der unsichtbaren Hand verbergen sich *„die sehr sichtbaren Hände sehr großer Unternehmen“*; bei Wohnen, Energie und Nahrung können Märkte nicht funktionieren.
@@ -134,7 +136,7 @@ Spanien und Portugal griffen dort ein, wo der Strompreis entsteht. Der Deckel au
 - **[[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung#Markteingriffe|Ines Schwerdtner]]** — Übergewinnsteuer auf Mineralölkonzerne und Supermarktketten, ein Spritpreisdeckel und Absprachen, die auch Raffinerien zeigen, dass Staaten deckeln können.
 - **[[Adam Tooze und Maja Goepel — Die Polykrise#Wo die Natur in die Bilanz einbricht|Maja Göpel]]** — Wer knapper werdende Bestände besitzt, Öl, Land, Getreide, verdient am Schrumpfen; die Frage ist, wem der knappe Bestand gehört.
 
-<details><summary>Weitere Stimmen (6)</summary>
+<details><summary>Weitere Stimmen (7)</summary>
 
 - **[[Yanis Varoufakis — Trump Has Lost Everything#Stagflation und Zentralbank-Fehler|Yanis Varoufakis]]** (zur Notenbank) — Zinserhöhungen gegen energiegetriebene Inflation nennt er *„gross negligence“*.
 - **[[Dirk Specht — Strom, Merit Order und Grossbatterien#Merit Order — ein Preissystem am Ende seiner Haltbarkeit|Dirk Specht]]** (zum Strompreis) — Die Merit Order war ein Beschreibungsmodell und ist als Vorschrift zum Käfig geworden.
@@ -142,6 +144,7 @@ Spanien und Portugal griffen dort ein, wo der Strompreis entsteht. Der Deckel au
 - **[[Michael Sterner — Energiewende-Studie und Reiche-Blockade#Natrium-Ionen-Batterien und Tankrabatt|Michael Sterner]]** — Der Tankrabatt verpufft, weil die Konzerne vorher die Preise anhoben; wirksam wäre nur eine Übergewinnsteuer.
 - **[[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)#Krisengewinne ohne Krisenbetroffenheit|Kai Schöneberg]]** — BP verdoppelt in der Ölkrise seinen Gewinn.
 - **[[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft#Thema 1 Die kommende Wirtschaftskrise — Hormuz und die Lieferketten|Gilda Sahebi und Arne Semsrott]]** — Die Verkäuferinflation gibt Kosten voll weiter, senkt nach der Krise weniger und verteilt so nach oben.
+- **[[Tom Ockers — Schattenmacht BlackRock#Gemeinsamer Besitz|Martin Schmalz]]:** Sitzt der Großaktionär auch beim Konkurrenten, strengt sich ein Manager vielleicht weniger an, ihn zu unterbieten; die Preise steigen ohne jede Absprache.
 
 </details>
 
@@ -158,6 +161,7 @@ Spanien und Portugal griffen dort ein, wo der Strompreis entsteht. Der Deckel au
 | 10.10.2026 | [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Wann darf der Staat Preise setzen?\|Veronika Grimm — Der Preis als Signal]] | die fehlende Stimme: der Preis als Sparsignal; alle drei Fragen mit Forschung (Ruhnau, Dertwinkel-Kalt, IWF, Langot, Brunninger, iberische Ausnahme, Weber & Wasner) |
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Kann eine Ölreserve den Preis halten?\|Nachtsitzung — TheTrumpWeek]] | Menge statt Preis: strategische Ölreserven (Kilian & Zhou 2020, Stevens & Zhang 2021, Newell & Prest 2017, Razek et al. 2023), 1991, Katrina 2005, Hormus 2026 |
 | 31.10.2026 | [[Tom Krebs — Kapital und Krise#Soll der Staat der Industrie den Strompreis garantieren?\|Tom Krebs — Kapital und Krise]] | die Industrieseite: Abschaltprämie und gefallene Börsenpreise, Moll/Schularick/Zachmann, Industriestrompreis 2026, Klimaschutzverträge (Richstein & Neuhoff), Leakage-Evidenz (Colmer et al., Verde) |
+| 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Common Ownership: Azar/Schmalz/Tecu gegen Dennis/Gerardi/Schenone, Lewellen & Lowry, Übersicht 2024, Norwegens Heiraten, Posner/Scott Morton/Weyl, die Kohle-Klage aus Texas |
 
 ---
 

@@ -264,7 +264,6 @@ Zimpels IQ-Kritik: Tests messen möglicherweise soziale Anpassung, nicht Intelli
 
 - [[Walther Ziegler — Smith in 60 Minuten]] — Smith als Stammvater des homo oeconomicus, dessen Egoismus-These hier empirisch widerlegt wird
 
-
 ### → [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
 
 Der "Korrumpierungseffekt" (äußere Belohnung zerstört intrinsische Motivation) in diesem Vortrag bekommt durch Schultz seinen biologischen Mechanismus: Wenn Belohnung *erwartet* wird, bleibt der Dopamin-RPE aus — das Belohnungssystem feuert nur bei Überraschung. Das erklärt neurobiologisch, warum angekündigte Belohnungen intrinsische Motivation aushöhlen: Sie machen das System unempfindlich, weil die Abweichung von der Erwartung verschwindet.
@@ -276,6 +275,10 @@ Der Dopamin-Befund dieser Note — Belohnung nicht nur beim Empfangen, sondern b
 ### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
 
 Neiman erzählt die Herkunft desselben Menschenbilds anders, über einen verkürzten Smith, einen verzerrten Darwin und Foucault, und kommt zum selben Befund: Güte gilt als Dummheit. Ob man das mit Spiegelneuronen widerlegen kann, bezweifelt sie.
+
+### → [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|ARTE 42 — Steuern Gefühle den Finanzmarkt?]]
+
+Der ARTE-Film über Gefühle am Finanzmarkt zerlegt dieselbe Figur von der anderen Seite, den kühlen Rechner statt des Egoisten. Er entmoralisiert dabei die Gier, die hier als Doktrin auftritt, und nennt sie eine Verwundbarkeit, die alle teilen.
 
 ---
 

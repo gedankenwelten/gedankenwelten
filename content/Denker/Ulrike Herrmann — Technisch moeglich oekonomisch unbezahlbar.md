@@ -417,6 +417,10 @@ Driouich zeigt, warum Herrmanns Keynes-Satz in der Stagnation kippt: Ohne Wachst
 
 Barbara Prainsack hält Nullsummendenken für eine Wurzel der Schließung und fragt, wie der Kuchen größer wird oder was er überhaupt ist. Herrmann ist die Gegenstimme mit Physik: Wenn der Kuchen materiell schrumpft, ruht Solidarität auf der Gleichheit der Ration, wie in ihrer britischen Kriegswirtschaft.
 
+### → [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|ARTE 42 — Steuern Gefühle den Finanzmarkt?]]
+
+Herrmanns belohnter Herdentrieb hat im ARTE-Film einen Gesprächspartner: Der Ökonom Hanno Beck hält das Mitlaufen für rational, solange man in der Herde eine Information vermutet. Die Note entstand zwei Tage nach dem KI-Kurssturz vom 5. November 2026; ob das schon der Crash war, den Herrmann erwartet, ist offen.
+
 ---
 
 ## Weiterdenken

@@ -173,6 +173,10 @@ Die andere Seite des Schutzes: wo der Staat, der schützen will, zu viel sieht.
 
 Was vom Nudge nach der Replikationskrise bleibt, und wer das Wissen bezahlt, auf das sich Lenkung beruft.
 
+### → [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|ARTE 42 — Steuern Gefühle den Finanzmarkt?]]
+
+Der ARTE-Film über Gefühle am Finanzmarkt stellt dieselbe Frage an die Börse: Wenn der Hunger nach Geld eine Verwundbarkeit ist, die alle teilen, schützen dann Regeln, die man sich selbst gibt, oder Sperren, die nicht vom eigenen Urteil abhängen?
+
 ---
 
 ## Weiterdenken

@@ -92,6 +92,8 @@ Post-keynesianisch orientiert; kritisch gegenüber:
 - [[DenkerVita/Tom Krebs|Tom Krebs]] — Zwei Planer mit entgegengesetztem Ziel: Krebs will mit indikativer Planung zurück zum Wachstumstrend, Herrmann in eine geplante Schrumpfung nach britischem Kriegsvorbild.
 - [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Entwirft Wasserstoff aus dem Süden als Wachstumspfad, der sich vom CO2 löst; Herrmann rechnet dieselbe Kette als sinkende Effizienz und damit als Schrumpfen.
 
+- [[DenkerVita/Wolfgang Coy]] — Von der Informatik her teilt Coy Herrmanns Misstrauen gegen eine Ökonomie, die den Markt idealisiert: Dass die Gesamtheit der Investoren alles wisse, nennt er „eine absurde Vorstellung“. Gegen die Überraschung hilft für ihn auch der schnellste Rechner nicht.
+
 ## Auszeichnungen & Anerkennung
 
 - **2015:** Preis für Wirtschaftspublizistik der Keynes-Gesellschaft (für taz-Beiträge)

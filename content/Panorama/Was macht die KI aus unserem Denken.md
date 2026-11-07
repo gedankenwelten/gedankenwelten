@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-11-05
+aktualisiert: 2026-11-07
 description: "Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -174,13 +174,14 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 - **[[Yuval Noah Harari — Das biologische Drama unserer Spezies#KI ist kein Werkzeug — sie ist ein Agent|Yuval Noah Harari]]:** Die KI ist ein Messer, das selbst entscheidet, ob es Salat schneidet oder mordet; bald stellt sich die Frage, ob man sie als Rechtsperson anerkennt.
 - **[[Adam Tooze — Pentagon vs. Anthropic#Der Konflikt: Pentagon gegen Anthropic|Adam Tooze]]:** Eine Firma zog rote Linien gegen autonome Waffen und Massenüberwachung, die das Pentagon nicht ziehen wollte, und wurde dafür bestraft; manchmal trägt der Hersteller die Verantwortung, die der Staat ablehnt.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (6)</summary>
 
 - **[[Hannah Arendt — Die Banalität des Bösen#Die Herrschaft des Niemand im Algorithmus|Hannah Arendt]]:** Die Bürokratie ist die Herrschaft des Niemand, eine Tyrannei ohne Tyrannen; das größte Böse begehen Menschen, die sich weigern, jemand zu sein — und ein Programm bietet ihnen dafür das beste Versteck.
 - **[[Roberto Simanowski — Sprachmaschinen#Midas im Maschinenraum|Simon Roloff]]:** Die Firmen haben ihre Verfassungen und Blogposts, *„aber dann eben doch entwickeln, genau wie sie entwickeln wollen, weil das Rennen eben nicht aufhört“*.
 - **[[Roberto Simanowski — Sprachmaschinen#Midas im Maschinenraum|Roberto Simanowski]]:** Mit Stuart Russell: Eine handelnde KI *„darf sich nie sicher sein, dass sie weiß, was der Mensch will“*.
 - **[[Ken Ono — Wenn das Wissen billig wird#Der außergewöhnlichste Bibliothekar der Welt|Ken Ono]]:** Die Maschine ist der außergewöhnlichste Bibliothekar der Welt; *„Do you want your librarian to be your neurosurgeon?“*
 - **[[Der leere Turm - wie Macht herrenlos wird#Der leere Turm|Luc]]:** Wer eine Maschine besitzt, die er nicht mehr beurteilen kann, ist nominell Herr und faktisch Passagier; die Macht verschwindet nicht, sie hört nur auf, jemandes zu sein.
+- **[[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken#Publikumsfragen|Constanze Kurz (2014)]]:** Ob Auftraggeber, Programmierer oder Anwender eines Handelsalgorithmus haften, werde sich kaum lösen lassen, weil die Anwender die Technik oft selbst nicht mehr verstehen.
 
 </details>
 
@@ -270,6 +271,7 @@ Bei wissenschaftlichen Aufsätzen verhandeln meist die Verlage, nicht die Forsch
 | 03.11.2026 | [[Geistesblitz/Emergence — Das dunkle Wissen der KI#Nachbesprechung|Emergence — Das dunkle Wissen der KI]] | Neue Frage: Wem gehört das Gelernte — Bartz, Kadrey, Copyright Office, OLG Hamburg, LG München (GEMA/Suno), Longpre, del Rio-Chanona, Lemley & Casey. Dazu subliminal learning (Cloud, Tang, Schrodi), emergent misalignment, Neinsage-Richtung zu den Werten; implizites Wissen (Collins, MacKenzie & Spinardi, Levitt, VPT, VCT) zum Auslagern |
 | 05.11.2026 | [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Nachbesprechung\|NANO — Gehirnchips und Gedankenfreiheit]] | Wem gehört das Gelernte, wenn die Maschine an einem Gehirn lernt: Leggett/NeuroVista (Gilbert, Ienca & Cook 2023), Argus II, Post-Trial-Zugang (Higgins 2024, Schönweitz 2024); Verwachsen statt Verlernen (Starke 2024, Gilbert 2017/2018, Gilbert, Burkhart & Morrill 2026); Soekadar als Stimme beim Auslagern |
 | 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Wem gehören die Paper?\|Jacob Beautemps — Made in Germany Awards 2026 KI]] | Wem gehören die Paper: Verlagsdeals (Informa 75 Mio. $, Wiley), Cambridge fragt vorher, OUP-Umfrage 8 %, CC BY, § 60d/§ 44b UrhG, AlphaFold und die PDB (Jumper 2021) · Beautemps, Ono |
+| 07.11.2026 | [[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken#Nachbesprechung\|Algorithmen, die zocken]] | Was seit 2014 geschah: MiFID II, blockierte Transaktionssteuer, Blitzstürze bis Citigroup 2022 (Mensch tippt, Algorithmus führt aus), der 5. November 2026 |
 
 ---
 

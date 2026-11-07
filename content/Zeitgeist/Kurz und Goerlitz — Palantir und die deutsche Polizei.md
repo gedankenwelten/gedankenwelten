@@ -217,6 +217,10 @@ Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koo
 
 Dieselbe Konferenz, dieselbe Lücke von der Erzeugerseite. Wo Kurz und Görlitz zeigen, wie bestehende Bestände zusammengeführt werden, entsteht dort gerade ein neuer: ein hochauflösender Digitaler Zwilling Deutschlands, dazu mobil gescannte Städte, deren Rohdaten vor der Anonymisierung personenbezogen sind. Bemerkenswert ist die Asymmetrie im Wissen — der Forschungsleiter des scannenden Konzerns sagt über die Rechtslage seines eigenen Kerngeschäfts „grundsätzlich glaube ich" und vermutet einen Erlaubnisvorbehalt, den es in Deutschland gar nicht gibt. Beide Notes zusammen zeigen: Die Frage entscheidet sich nie am Zweck der Erhebung, sondern daran, wer später Zugriff hat.
 
+### → [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
+
+Dieselbe Forderung stellte Kurz schon 2014 an Handelsalgorithmen: offenlegen, damit man hineinsehen kann. Zwölf Jahre später ist sie gegenüber der Aufsicht weitgehend erfüllt, gegenüber der Öffentlichkeit nicht, wie bei Gotham.
+
 ---
 
 ### → [[Koschi Politik — ICE setzt neue Rekorde]]

@@ -155,3 +155,4 @@ Der jüngste Akt (29.06.2026): Die Rentenkommission macht aus der Kapitalmarkt-E
 | [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] | Ursache |
 | [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]] | Problem |
 | [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert\|phoenix-Runde — Rentenreform 2026]] | Reform-Entscheidung · alle Achsen |
+| [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock\|Schattenmacht BlackRock]] | Kontext: wer an der Kapitaldeckung verdient, Lobbyregister 2025, ETF-Kosten |

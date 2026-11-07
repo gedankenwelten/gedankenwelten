@@ -306,6 +306,10 @@ Das Panorama versammelt Menschen, die Demokratie herstellen statt einzufordern, 
 
 Bauckhage nennt den Transformer „das Dümmste" und legt die Energierechnung daneben: zehn Megawatt für ein Hochleistungsrechenzentrum, vierundzwanzig Watt für ein Gehirn — drei Größenordnungen. Die Branche skaliere, weil Skalieren funktioniert, nicht weil es klug wäre. Diese Note ist die Quittung dafür, ausgestellt an Menschen, die nie gefragt wurden. Sein Gegenprogramm der hybriden KI — kleine, spezialisierte Modelle ohne Rechenzentrum — bekommt hier sein stärkstes Argument, und es ist kein technisches: Es steht 140 Meter neben acht Gasturbinen, hält den Grenzwert ein und geht trotzdem nicht mehr vor die Tür.
 
+### → [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|ARTE 42 — Steuern Gefühle den Finanzmarkt?]]
+
+Zwei Tage nach den Wahlen, in denen dieser Widerstand eine Wahlkampffrage war, las die Börse ihn als Risiko: Der Nasdaq fiel am 5. November 2026 um 5,5 %. Der ARTE-Film über Gefühle am Finanzmarkt zeigt, wie schnell aus einer solchen Nachricht Angst wird.
+
 ---
 
 ## Weiterdenken

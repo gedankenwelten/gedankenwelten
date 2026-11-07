@@ -273,6 +273,10 @@ Wie Yoran kritisiert Anderl, dass der CO₂-Fußabdruck strukturelle Probleme au
 
 Eine mögliche Antwort auf Yorans Frage, woran man echten Fortschritt erkennt: Zwei von drei Mobilitäts-Finalisten bauen nichts Neues, sie bewachen Straßen und Brücken und fallen nur auf, wenn sie fehlen.
 
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+
+Yorans ETFs haben einen Verwalter, und ein Dokumentarfilm von 2019 fragt nach dessen Macht. Er zeigt den Mechanismus, in dem Yoran sich wiederfindet, im großen Maßstab: Millionen Sparer machen einen Konzern zum Großaktionär fast aller Firmen, deren Produkte sie kaufen.
+
 ---
 
 ## Weiterdenken

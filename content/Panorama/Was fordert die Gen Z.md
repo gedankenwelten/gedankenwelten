@@ -122,14 +122,14 @@ inzwischen Kammer und Kassen für sinnvoll; ob dafür auch mehr Sitze nötig sin
 der „nicht einen allgemeinen Mangel“, sondern „unzureichende Steuerung“ sieht
 ([Stellungnahme 18.05.2026](https://www.bundestag.de/resource/blob/1178710/21-14-0086-3-GKV-Spitzenverband-PsychoVersorgung.pdf)).
 Nach einem Überblick über 41 Arbeiten bräuchte jedes sechste bis siebte Kind Psychotherapie, höchstens jedes
-fünfzigste bekommt sie ([Rodney-Wolf & Schmitz 2025, doi:10.3389/fpubh.2025.1480630](https://doi.org/10.3389/fpubh.2025.1480630)).
+fünfzigste bekommt sie ([Rodney-Wolf & Schmitz 2025](https://doi.org/10.3389/fpubh.2025.1480630)).
 Wie sich das für zwei Jugendliche in Thüringen anfühlt, erzählt
 [[Zeitgeist/MDR exactly — Kinder im Burnout|die MDR-Doku „Kinder im Burnout“]].
 
 **Was die Forschung sagt.** Psychotherapie bei Jugendlichen wirkt, belegt in einer Meta-Analyse über 447
 Studien, am deutlichsten bei Ängsten, schwächer bei Depression (Weisz u. a. 2017, doi:10.1037/a0040360).
 Vorbeugende Programme an Schulen wirken dagegen nur klein, gezielte besser als solche für alle (Werner-Seidler
-u. a. 2021, doi:10.1016/j.cpr.2021.102079). Für die Wartezeit gibt es Brücken: Einzelsitzungen wirken bei Jugendlichen klein bis mittel, am besten bei Ängsten ([Schleider & Weisz 2017, doi:10.1016/j.jaac.2016.11.007](https://doi.org/10.1016/j.jaac.2016.11.007)).
+u. a. 2021, doi:10.1016/j.cpr.2021.102079). Für die Wartezeit gibt es Brücken: Einzelsitzungen wirken bei Jugendlichen klein bis mittel, am besten bei Ängsten ([Schleider & Weisz 2017](https://doi.org/10.1016/j.jaac.2016.11.007)).
 
 **Was die Politik getan hat.**
 
