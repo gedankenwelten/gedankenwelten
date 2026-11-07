@@ -292,7 +292,7 @@ Der deutsche Essay übernimmt den ersten Teil und lässt den zweiten weg. Damit 
 > Die eigenständige Prüfung fällt gespalten aus, und das ist der ehrlichste Befund.
 > **Für Dalio:** Das Shiller-CAPE erreichte im Juli 2026 mit 40,91 den höchsten Stand seit August 2000 — aber unter dem Allzeithoch von 44,19 vom November 1999. „Nahe dran, nicht dort" beschreibt diese Zahl präzise.
 > **Gegen Dalio:** Der Buffett-Indikator (Marktkapitalisierung zu BIP) stand im Juni 2026 bei rund 232 %, Anfang August bei 237 % — kein Annähern an 2000, sondern ein Übertreffen um mehr als das Anderthalbfache des damaligen Höchststands von etwa 140–160 %. Nach dieser Kennzahl ist die Blase längst größer als jede vorher gemessene.
-> Die Forschungslage stützt zudem Dalios eigenen Vorbehalt: Das CAPE prognostiziert Langfristrenditen, nicht Wendepunkte, und seine Prognosekraft hat in der Niedrigzinsphase nachweislich nachgelassen ([DOI 10.1080/10293523.2022.2045701](https://doi.org/10.1080/10293523.2022.2045701), Einzelstudie). Wer die Blase misst, kann den Stich nicht datieren — genau das sagt Dalio auch.
+> Die Forschungslage stützt zudem Dalios eigenen Vorbehalt: Das CAPE prognostiziert Langfristrenditen, nicht Wendepunkte, und seine Prognosekraft hat in der Niedrigzinsphase nachweislich nachgelassen ([Catanho & Saville 2022](https://doi.org/10.1080/10293523.2022.2045701), Einzelstudie). Wer die Blase misst, kann den Stich nicht datieren — genau das sagt Dalio auch.
 > Quelle: [Advisor Perspectives — Buffett Valuation Indicator: June 2026](https://www.advisorperspectives.com/dshort/updates/2026/07/08/buffett-valuation-indicator-june-2026) · [Shiller CAPE, aktueller Stand und Historie](https://www.thetrading.tools/shiller-cape)
 
 ---

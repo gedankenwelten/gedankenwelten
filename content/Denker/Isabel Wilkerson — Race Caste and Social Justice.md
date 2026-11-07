@@ -156,8 +156,8 @@ Auch Einwanderung liest sie durch dieses Raster: Wer aus Polen, Irland oder Unga
 > Quelle: [Article 17, Constitution of India](https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/)
 
 > [!success] Bestätigt — Medizinischer Bias & COVID-Betroffenheit
-> Hoffman et al. (2016, PNAS) zeigten, dass ein erheblicher Teil weißer Medizinstudierender und Ärzte falsche Überzeugungen über „biologische Unterschiede" zwischen Schwarzen und Weißen hält — und dass diese Überzeugungen mit rassistischer Verzerrung in Schmerzeinschätzung und -behandlung korrelieren. Ein Online-Experiment aus dieser Studie ließ sich 2024 in einer großen Wiederholung nicht bestätigen ([Holzmeister et al. 2024, doi:10.1038/s41562-024-02062-9](https://doi.org/10.1038/s41562-024-02062-9)). Dass Schwarze in den USA seltener Schmerzmittel bekommen, zeigen dagegen Behandlungsdaten aus vielen Studien ([Meghani, Byun & Gallagher 2012, Meta-Analyse, doi:10.1111/j.1526-4637.2011.01310.x](https://doi.org/10.1111/j.1526-4637.2011.01310.x)). Die überproportionale frühe COVID-Last für Schwarze/Brown-Communities ist ebenfalls gut belegt.
-> Quelle: [Hoffman et al. 2016, PNAS, doi:10.1073/pnas.1516047113](https://doi.org/10.1073/pnas.1516047113) · [Bailey et al. 2020, NEJM, doi:10.1056/nejmms2025396](https://doi.org/10.1056/nejmms2025396)
+> Hoffman et al. (2016, PNAS) zeigten, dass ein erheblicher Teil weißer Medizinstudierender und Ärzte falsche Überzeugungen über „biologische Unterschiede" zwischen Schwarzen und Weißen hält — und dass diese Überzeugungen mit rassistischer Verzerrung in Schmerzeinschätzung und -behandlung korrelieren. Ein Online-Experiment aus dieser Studie ließ sich 2024 in einer großen Wiederholung nicht bestätigen ([Holzmeister et al. 2024](https://doi.org/10.1038/s41562-024-02062-9)). Dass Schwarze in den USA seltener Schmerzmittel bekommen, zeigen dagegen Behandlungsdaten aus vielen Studien ([Meghani, Byun & Gallagher 2012, Meta-Analyse](https://doi.org/10.1111/j.1526-4637.2011.01310.x)). Die überproportionale frühe COVID-Last für Schwarze/Brown-Communities ist ebenfalls gut belegt.
+> Quelle: [Hoffman et al. 2016, PNAS](https://doi.org/10.1073/pnas.1516047113) · [Bailey et al. 2020, NEJM](https://doi.org/10.1056/nejmms2025396)
 
 > [!success] Bestätigt — Enninful, Central Park, Hathras (alle 2020)
 > British-*Vogue*-Chefredakteur Edward Enninful wurde am 15.7.2020 in seinem eigenen Verlagsgebäude von einem Wachmann zum Lastenaufzug verwiesen (Wachmann entlassen). Der Central-Park-Vorfall (Christian Cooper / Amy Cooper) datiert auf den 25.5.2020. Der Hathras-Fall (Gang-Vergewaltigung und Tod einer 19-jährigen Dalit-Frau, Uttar Pradesh) begann am 14.9.2020. Alle drei korrekt.
@@ -201,8 +201,8 @@ Auch Einwanderung liest sie durch dieses Raster: Wer aus Polen, Irland oder Unga
 
 *Von Sherlock ergänzt:*
 
-- [Hoffman et al. 2016, PNAS (doi:10.1073/pnas.1516047113)](https://doi.org/10.1073/pnas.1516047113) — die zentrale Studie zu falschen biologischen Überzeugungen und Schmerz-Bias
-- [Bailey et al. 2020, NEJM (doi:10.1056/nejmms2025396)](https://doi.org/10.1056/nejmms2025396) — „How Structural Racism Works", peer-reviewt, zur COVID-Disproportionalität
+- [Hoffman et al. 2016, PNAS](https://doi.org/10.1073/pnas.1516047113) — die zentrale Studie zu falschen biologischen Überzeugungen und Schmerz-Bias
+- [Bailey et al. 2020, NEJM](https://doi.org/10.1056/nejmms2025396) — „How Structural Racism Works", peer-reviewt, zur COVID-Disproportionalität
 - [Charles Sumner, „Equality Before the Law" (1849), Library of Congress](https://www.loc.gov/item/92838834/) — Primärquelle des Kaste-Arguments vor Brown v. Board
 - [What B.R. Ambedkar Wrote to W.E.B. Du Bois (SAADA/TIDES)](https://www.saada.org/tides/article/ambedkar-du-bois) — der Briefwechsel im Original
 - [Charisse Burden-Stelly, „Caste Does Not Explain Race" (Boston Review)](https://www.bostonreview.net/articles/charisse-burden-stelly-caste-does-not-explain-race/) — die substanziellste Gegenstimme zur Kasten-These, für den Gleichmut-Spiegel

@@ -192,11 +192,11 @@ Zwei Notizhefte: eines für das System, eines für die Wahrheit. Es ist dieselbe
 
 > [!danger] Falsch (Forschungskonsens) — Van Sertima: Afrikaner erreichten Amerika vor Kolumbus
 > Akala referiert Van Sertima fair und verlangt „nur Evidenz" — die Antwort der Forschung ist klar ablehnend. Die Olmeken-Kolossalköpfe entstanden ~1200–400 v.u.Z., also über anderthalb Jahrtausende **vor** jedem plausiblen Mali-Kontakt (Van Sertimas eigenes Datum: ~1300 n.u.Z.); ihre Züge gelten als stilisierte Darstellungen indigener Mesoamerikaner. Entscheidend: **Kein einziges afrikanisches Artefakt wurde je in einer kontrollierten präkolumbischen Fundschicht Amerikas ausgegraben.** Die maßgebliche Fachkritik (Haslip-Viera, Ortiz de Montellano, Barbour 1997) weist die These als evidenzlos zurück. Dass eine Überquerung *möglich* war (Heyerdahl), beweist nicht, dass sie stattfand.
-> Quelle: [„Robbing Native American Cultures", *Current Anthropology* 38(3), 1997, DOI 10.1086/204626](https://www.journals.uchicago.edu/doi/abs/10.1086/204626) · [Wikipedia — Ivan Van Sertima](https://en.wikipedia.org/wiki/Ivan_Van_Sertima)
+> Quelle: [„Robbing Native American Cultures", *Current Anthropology* 38(3), 1997](https://www.journals.uchicago.edu/doi/abs/10.1086/204626) · [Wikipedia — Ivan Van Sertima](https://en.wikipedia.org/wiki/Ivan_Van_Sertima)
 
 > [!warning] Vereinfacht — Kokain in ägyptischen Mumien (Balabanova 1992)
 > Svetlana Balabanova wies 1992 in Mumien Kokain und Nikotin nach — der Befund ist real und publiziert, aber **nicht unabhängig repliziert**; spätere Kontrollversuche fanden das Kokain nicht wieder, die toxikologische wie ägyptologische Einordnung bleibt skeptisch (Kontaminations-Kritik). Als Beleg für transatlantischen Vorkontakt trägt der Befund nicht, solange die Replikation fehlt. Akalas Darstellung (Wissenschaftlerin bekam „hate mail") stimmt; die Deutung als gesicherter Nachweis nicht.
-> Quelle: [Balabanova et al., *Naturwissenschaften* 79 (1992), DOI 10.1007/BF01141180](https://doi.org/10.1007/BF01141180)
+> Quelle: [Balabanova et al., *Naturwissenschaften* 79 (1992)](https://doi.org/10.1007/BF01141180)
 
 ---
 
@@ -219,7 +219,7 @@ Zwei Notizhefte: eines für das System, eines für die Wahrheit. Es ist dieselbe
 
 *Von Sherlock ergänzt:*
 
-- [„Robbing Native American Cultures" — *Current Anthropology* 38(3), 1997 (DOI 10.1086/204626)](https://www.journals.uchicago.edu/doi/abs/10.1086/204626) — die maßgebliche peer-reviewte Widerlegung der Olmeken-Afrika-These
+- [„Robbing Native American Cultures" — *Current Anthropology* 38(3), 1997](https://www.journals.uchicago.edu/doi/abs/10.1086/204626) — die maßgebliche peer-reviewte Widerlegung der Olmeken-Afrika-These
 - [World History Encyclopedia — Prejudice and the History of Great Zimbabwe](https://www.worldhistory.org/article/1429/the-impact-of-prejudice-on-the-history-of-great-zi/) — Forschungsgeschichte der systematischen Fremdzuschreibung
 - [UN News (2025) — How Haiti paid for its freedom, twice over](https://news.un.org/en/story/2025/04/1162406) — aktuelle Aufarbeitung der Entschädigungsschuld
 - [NASA Earth Observatory — A Glimpse of History in Benin City](https://science.nasa.gov/earth/earth-observatory/a-glimpse-of-history-in-benin-city/) — satellitengestützte Bestätigung der Benin-Wälle

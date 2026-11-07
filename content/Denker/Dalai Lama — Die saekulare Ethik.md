@@ -164,7 +164,7 @@ Der Dalai Lama denkt in noch längeren Fristen. Sein Lieblingsgebet, das er täg
 > „Social, Emotional and Ethical Learning" ist ein K-12-Programm der Emory University, Frucht einer 1998 begonnenen Zusammenarbeit mit dem Dalai Lama; 2019 global gestartet und in 14 Sprachen übersetzt. Quelle: [SEE Learning — Emory University](https://compassion.emory.edu/see-learning/) · [Emory News](https://news.emory.edu/stories/2019/04/upress_see_learning/campus.html)
 
 > [!success] Bestätigt — Prosoziales Verhalten als menschliche Grundausstattung
-> Die Grundrichtung ist empirisch gedeckt: Warneken & Tomasello zeigten, dass Kleinkinder ab 18 Monaten spontan helfen — und dass auch junge Schimpansen altruistisches Helfen zeigen. Die Befunde belegen eine früh vorhandene *Disposition*, keinen automatischen Vollzug — die Doppeldeutigkeit, die die Note benennt, bleibt bestehen. Solidität: Primärstudien, keine Meta-Analyse. Quelle: Warneken & Tomasello, *Altruistic Helping in Human Infants and Young Chimpanzees*, Science 2006 — [doi:10.1126/science.1121448](https://doi.org/10.1126/science.1121448); Übersicht: Dunfield 2014 — [doi:10.3389/fpsyg.2014.00958](https://doi.org/10.3389/fpsyg.2014.00958)
+> Die Grundrichtung ist empirisch gedeckt: Warneken & Tomasello zeigten, dass Kleinkinder ab 18 Monaten spontan helfen — und dass auch junge Schimpansen altruistisches Helfen zeigen. Die Befunde belegen eine früh vorhandene *Disposition*, keinen automatischen Vollzug — die Doppeldeutigkeit, die die Note benennt, bleibt bestehen. Solidität: Primärstudien, keine Meta-Analyse. Quelle: Warneken & Tomasello, *Altruistic Helping in Human Infants and Young Chimpanzees*, Science 2006 — [Warneken & Tomasello 2006](https://doi.org/10.1126/science.1121448); Übersicht: Dunfield 2014 — [Dunfield 2014](https://doi.org/10.3389/fpsyg.2014.00958)
 
 > [!success] Bestätigt — Pekings Anspruch auf die Nachfolge
 > Am 2. Juli 2025 erklärte der Dalai Lama, die Institution werde fortgeführt; allein der von ihm gegründete Gaden-Phodrang-Trust habe die Autorität, die künftige Wiedergeburt zu erkennen. Chinas Außenministerium widersprach umgehend und beharrt auf dem Verfahren der „Goldenen Urne". Quelle: [NPR](https://www.npr.org/2025/07/02/nx-s1-5453083/dalai-lama-says-successor-will-be-named-after-his-death) · [Succession of the 14th Dalai Lama — Wikipedia](https://en.wikipedia.org/wiki/Succession_of_the_14th_Dalai_Lama)
@@ -191,7 +191,7 @@ Der Dalai Lama denkt in noch längeren Fristen. Sein Lieblingsgebet, das er täg
 
 - [Sino-Tibetan Dialogue — Central Tibetan Administration](https://tibet.net/important-issues/sino-tibetan-dialogue/an-overview-of-sino-tibetan-dialogue/) — Primärchronologie der neun Gesprächsrunden 2002–2010
 - [Succession of the 14th Dalai Lama — Wikipedia](https://en.wikipedia.org/wiki/Succession_of_the_14th_Dalai_Lama) — der Nachfolge-Konflikt (Gaden Phodrang vs. Goldene Urne) im Überblick
-- Warneken & Tomasello 2006: *Altruistic Helping in Human Infants and Young Chimpanzees* — [doi:10.1126/science.1121448](https://doi.org/10.1126/science.1121448) — die Schlüsselstudie zum frühkindlichen Helfen
+- Warneken & Tomasello 2006: *Altruistic Helping in Human Infants and Young Chimpanzees* — [Warneken & Tomasello 2006](https://doi.org/10.1126/science.1121448) — die Schlüsselstudie zum frühkindlichen Helfen
 
 ---
 

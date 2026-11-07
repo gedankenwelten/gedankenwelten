@@ -145,7 +145,7 @@ Die Steuerdiskussion — wie zieht man Facebook Steuern aus der Tasche? — häl
 ## Faktencheck
 
 > [!success] Bestätigt — Google als soziales Netzwerk
-> Gabriels Kern hält, nur über zwei Signale: PageRank wertet die Linkstruktur aus, also das, was andere Menschen verlinkt haben (Brin & Page 1998, [doi:10.1016/s0169-7552(98)00110-x](https://doi.org/10.1016/s0169-7552(98)00110-x)); dazu kommen die Klicks anderer Nutzer. Im Verfahren *US v. Google* stellte das Gericht 2024 fest, dass das System „Navboost“ Klickdaten aus 13 Monaten auswertet und zu den stärksten Ranking-Faktoren gehört ([Urteil vom 05.08.2024, ¶ 96](https://cdn.arstechnica.net/wp-content/uploads/2024/08/US-v-Google-Opinion-8-5-2024.pdf)).
+> Gabriels Kern hält, nur über zwei Signale: PageRank wertet die Linkstruktur aus, also das, was andere Menschen verlinkt haben ([Brin & Page 1998](https://doi.org/10.1016/s0169-7552(98)00110-x)); dazu kommen die Klicks anderer Nutzer. Im Verfahren *US v. Google* stellte das Gericht 2024 fest, dass das System „Navboost“ Klickdaten aus 13 Monaten auswertet und zu den stärksten Ranking-Faktoren gehört ([Urteil vom 05.08.2024, ¶ 96](https://cdn.arstechnica.net/wp-content/uploads/2024/08/US-v-Google-Opinion-8-5-2024.pdf)).
 >
 > *Korrigiert am 25.10.2026: Hier stand bisher, PageRank beruhe auf Nutzungsdaten.*
 
