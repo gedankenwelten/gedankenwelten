@@ -55,8 +55,8 @@
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
-   "leser": 18,
-   "aufrufe": 25
+   "leser": 17,
+   "aufrufe": 24
   },
   {
    "pfad": "/DenkerVita/Kalayo",
@@ -234,6 +234,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/DenkerVita/Byung-Chul-Han",
+   "leser": 4,
+   "aufrufe": 5
+  },
+  {
    "pfad": "/DenkerVita/Torsten-Heinrich",
    "leser": 4,
    "aufrufe": 5
@@ -295,11 +300,6 @@
   },
   {
    "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
    "leser": 4,
    "aufrufe": 4
   }
@@ -414,6 +414,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 2,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 2,
      "aufrufe": 3
@@ -480,11 +485,6 @@
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 1,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 1,
      "aufrufe": 2
     },
@@ -665,8 +665,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 18,
-     "aufrufe": 25
+     "leser": 17,
+     "aufrufe": 24
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -844,6 +844,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "leser": 4,
      "aufrufe": 5
@@ -905,11 +910,6 @@
     },
     {
      "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
      "leser": 4,
      "aufrufe": 4
     }
@@ -1059,6 +1059,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 11,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 11,
      "aufrufe": 12
@@ -1072,11 +1077,6 @@
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "leser": 10,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 10,
-     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Marcant",
@@ -1364,6 +1364,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 11,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 11,
      "aufrufe": 12
@@ -1377,11 +1382,6 @@
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "leser": 10,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 10,
-     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Marcant",
@@ -1560,8 +1560,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 15,
-     "aufrufe": 15
+     "leser": 14,
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Kalayo",

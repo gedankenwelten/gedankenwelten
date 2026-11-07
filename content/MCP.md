@@ -82,7 +82,7 @@ Read the full content of any note by title. Use after searching to get complete 
 
 **Example:** *"Read the full note on Hannah Arendt — The Banality of Evil"*
 
-**Listening:** Built to be read aloud, especially for people who are blind or have low vision. With `mode="hoeren"` a note comes as a listening version: first the outline with listening times, then one section at a time, usually in one piece (long sections in pieces of up to about six minutes), citations reduced to their classification. Just tell your assistant how you like to listen — pause more often, whole sections, skip the study labels, verbatim or freer. Assistants that can remember preferences will keep them for next time. We keep improving conversation and read-aloud; tell us what works and what doesn't: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
+**Listening:** Built to be read aloud, especially for people who are blind or have low vision. With `mode="hoeren"` a note comes as a listening version: first the outline with listening times, then one section at a time, always complete and prepared for the ear (citations reduced to their classification). The assistant reads it in full and pauses at a natural point in sections longer than about six minutes. Just tell your assistant how you like to listen — pause more often, whole sections, skip the study labels, verbatim or freer. Assistants that can remember preferences will keep them for next time. We keep improving conversation and read-aloud; tell us what works and what doesn't: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
 
 ### 👤 List Thinkers
 
