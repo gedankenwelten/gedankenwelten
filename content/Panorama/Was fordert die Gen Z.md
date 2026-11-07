@@ -73,11 +73,11 @@ teils mehr als 40 Punkten. Fehlende Lehrkräfte werden mit Seiteneinsteigern ers
 vierte neue Lehrkraft.
 
 **Was die Forschung sagt.** Lange galt der Satz, Geld allein mache Schule nicht besser (Hanushek, 2003,
-doi:10.1111/1468-0297.00099, ein Überblick). Die neuere Forschung, überwiegend aus den USA, sieht es anders:
+[Hanushek 2003](https://doi.org/10.1111/1468-0297.00099), ein Überblick). Die neuere Forschung, überwiegend aus den USA, sieht es anders:
 Eine Meta-Analyse findet, dass 1.000 Dollar mehr je Schüler über vier Jahre die Leistungen messbar heben und
 den Hochschulbesuch um fast drei Prozentpunkte erhöhen, am stärksten bei benachteiligten Kindern (Jackson &
-Mackevicius, doi:10.1257/app.20220279). Kinder aus armen Familien verdienen später deutlich mehr, wenn ihre
-Schulen über Jahre mehr Geld hatten (Jackson, Johnson & Persico 2016, doi:10.1093/qje/qjv036). Ob sich das auf
+Mackevicius, [Jackson & Mackevicius 2024](https://doi.org/10.1257/app.20220279)). Kinder aus armen Familien verdienen später deutlich mehr, wenn ihre
+Schulen über Jahre mehr Geld hatten ([Jackson, Johnson & Persico 2016](https://doi.org/10.1093/qje/qjv036)). Ob sich das auf
 Deutschland übertragen lässt, ist offen; die Richtung der Befunde ist eindeutig: Gezieltes Geld wirkt.
 
 **Was die Politik getan hat.**
@@ -108,7 +108,7 @@ Das ist ein gutes halbes Jahr in einem Alter, in dem ein halbes Jahr lang ist. D
 Jugendlichen eine geminderte Lebensqualität, deutlich mehr als vor der Pandemie; bei Mädchen ab 14 sind
 depressive Symptome von 11 auf 17 Prozent gestiegen, Ängste von 20 auf 31 Prozent. 70 Prozent sorgen sich
 wegen der Kriege. Die Studienleiterin sagt auch: Nicht jedes belastete Kind braucht eine Behandlung.
-(Die zugehörige Arbeit ist noch ein Preprint, doi:10.21203/rs.3.rs-8260872/v1.)
+(Die zugehörige Arbeit ist noch ein Preprint, [Kaman u. a. 2025](https://doi.org/10.21203/rs.3.rs-8260872/v1)).
 
 **Warum es so lange dauert.** Die Zahl der Kassensitze wurde nie aus dem Bedarf errechnet: Man zählte am
 31. August 1999, acht Monate nach dem Psychotherapeutengesetz, die vorhandenen Praxen und erklärte sie zum Soll,
@@ -127,9 +127,9 @@ Wie sich das für zwei Jugendliche in Thüringen anfühlt, erzählt
 [[Zeitgeist/MDR exactly — Kinder im Burnout|die MDR-Doku „Kinder im Burnout“]].
 
 **Was die Forschung sagt.** Psychotherapie bei Jugendlichen wirkt, belegt in einer Meta-Analyse über 447
-Studien, am deutlichsten bei Ängsten, schwächer bei Depression (Weisz u. a. 2017, doi:10.1037/a0040360).
-Vorbeugende Programme an Schulen wirken dagegen nur klein, gezielte besser als solche für alle (Werner-Seidler
-u. a. 2021, doi:10.1016/j.cpr.2021.102079). Für die Wartezeit gibt es Brücken: Einzelsitzungen wirken bei Jugendlichen klein bis mittel, am besten bei Ängsten ([Schleider & Weisz 2017](https://doi.org/10.1016/j.jaac.2016.11.007)).
+Studien, am deutlichsten bei Ängsten, schwächer bei Depression ([Weisz u. a. 2017](https://doi.org/10.1037/a0040360)).
+Vorbeugende Programme an Schulen wirken dagegen nur klein, gezielte besser als solche für alle ([Werner-Seidler
+u. a. 2021](https://doi.org/10.1016/j.cpr.2021.102079)). Für die Wartezeit gibt es Brücken: Einzelsitzungen wirken bei Jugendlichen klein bis mittel, am besten bei Ängsten ([Schleider & Weisz 2017](https://doi.org/10.1016/j.jaac.2016.11.007)).
 
 **Was die Politik getan hat.**
 
@@ -170,7 +170,7 @@ Polizei und Justiz sie nicht mehr dorthin schicken
 ein Gesetz, das das ändert, ist nicht in Sicht.
 
 **Die Einwände.** Suchtberatung ist kommunale Daseinsvorsorge, und die Kommunen sind klamm. Schulische
-Prävention wirkt nur bescheiden (Faggiano u. a., Cochrane 2014, doi:10.1002/14651858.cd003020.pub3).
+Prävention wirkt nur bescheiden ([Faggiano u. a., Cochrane 2014](https://doi.org/10.1002/14651858.cd003020.pub3)).
 
 > [!question] Die Reibung
 > Der Bund verweist auf Rekordmittel für Prävention und auf die befreite Kinderpsychotherapie, die Kommunen
@@ -220,7 +220,7 @@ der Mindestlohn steigt 2027 auf 14,60 Euro.
 
 **Die Einwände.** Gegen Wohnungsmangel hilft am Ende nur Bauen; ob die Mietpreisbremse das Bauen bremst, ist
 für Deutschland nicht belegt, international finden Studien eher negative Effekte aufs Angebot (Henger,
-Kholodilin & Voigtländer 2026, doi:10.2478/wd-2026-0167, ein Überblick). Wer „hohe Steuern“ sagt, meint vor
+Kholodilin & Voigtländer 2026, [Henger u. a. 2026](https://doi.org/10.2478/wd-2026-0167), ein Überblick). Wer „hohe Steuern“ sagt, meint vor
 allem Sozialbeiträge, und die steigen wegen Rente, Pflege und Gesundheit. Da ist die Forderung unscharf.
 
 > [!question] Die Reibung
@@ -243,7 +243,7 @@ In dem Satz stecken zwei Fragen: die zwischen Arm und Reich und die zwischen Alt
 2025 brachte die Erbschaft- und Schenkungsteuer den Rekord von 21,4 Milliarden Euro, getrieben von Übertragungen
 ab 20 Millionen Euro ([Destatis](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_306_736.html)).
 Eine Studie aus sechs Ländern zeigt: Kleine Erbschaften verringern die Vermögensungleichheit, große vergrößern
-sie (Morelli u. a. 2025, doi:10.1016/j.jpubeco.2025.105398). Ob die Verschonung großer Betriebsvermögen bei der
+sie ([Morelli u. a. 2025](https://doi.org/10.1016/j.jpubeco.2025.105398)). Ob die Verschonung großer Betriebsvermögen bei der
 Erbschaftsteuer verfassungsgemäß ist, hat das Bundesverfassungsgericht im Oktober verhandelt; die Entscheidung
 wird um den Jahreswechsel erwartet
 ([PwC](https://blogs.pwc.de/de/steuern-und-recht/article/257300/erbschaftsteuer-2026-erste-eindruecke-aus-der-muendlichen-verhandlung-vor-dem-bundesverfassungsgericht/)).
@@ -324,11 +324,10 @@ beschloss, ist im Schnitt knapp 47 Jahre alt
 ([tagesschau](https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html)).
 
 **Was die Forschung sagt.** Für die Lebensläufe der Eingezogenen ist der Befund gemischt. In den Niederlanden
-senkte die Wehrpflicht den Anteil der Hochschulabschlüsse und das Einkommen noch Jahre später (Hubers &
-Webbink 2015, doi:10.1186/s40172-015-0026-4). In Schweden, wo wie künftig in Deutschland ausgewählt wird,
+senkte die Wehrpflicht den Anteil der Hochschulabschlüsse und das Einkommen noch Jahre später ([Hubers &
+Webbink 2015](https://doi.org/10.1186/s40172-015-0026-4)). In Schweden, wo wie künftig in Deutschland ausgewählt wird,
 verdienen vor allem kognitiv Starke später weniger, Schwächere erreichen sogar mehr Bildung
-(doi:10.1016/j.ejpoleco.2025.102793). In Portugal fand sich kaum ein Effekt (Card & Cardoso 2012,
-doi:10.1257/app.4.4.57).
+([Almén 2026](https://doi.org/10.1016/j.ejpoleco.2025.102793)). In Portugal fand sich kaum ein Effekt ([Card & Cardoso 2012](https://doi.org/10.1257/app.4.4.57)).
 
 **Die Einwände.** Der Wehrbeauftragte Otte: Bringt die Freiwilligkeit nicht genug Aufwuchs, sei die Rückkehr
 zur Wehrpflicht *„der konsequente nächste Schritt“*
@@ -401,12 +400,12 @@ Eingriff fehlte ([BVerfG](https://www.bundesverfassungsgericht.de/SharedDocs/Pre
 die neuen Entwürfe berufen sich ausdrücklich auf dieses Urteil.
 
 **Was die Forschung sagt.** Klassische Videoüberwachung geht mit einem moderaten Rückgang der Kriminalität
-einher, belegt in einer Meta-Analyse (Piza u. a. 2019, doi:10.1111/1745-9133.12419); zu KI-gestützter
+einher, belegt in einer Meta-Analyse ([Piza u. a. 2019](https://doi.org/10.1111/1745-9133.12419)); zu KI-gestützter
 Verhaltenserkennung fehlt belastbare Evidenz. Ob die Speicherung von Verbindungsdaten die Aufklärung verbessert,
 konnte ein Gutachten des Max-Planck-Instituts 2011 nicht nachweisen
 ([MPI](https://static.mpicc.de/shared/data/pdf/schutzluecken_vorratsdatenspeicherung_12.pdf)). Wie stark soziale
 Medien Jugendlichen schaden, ist in der Forschung umstritten
-(Überblick: doi:10.3390/bs15050574); was eine Altersgrenze bewirkt und warum Frankreichs Verfassungsrat sie
+(Überblick: [Agyapong-Opoku u. a. 2025](https://doi.org/10.3390/bs15050574)); was eine Altersgrenze bewirkt und warum Frankreichs Verfassungsrat sie
 kippte, steht in [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz#Soll der Staat ein Mindestalter setzen?|Soll der Staat ein Mindestalter setzen?]]
 
 **Die Einwände.** Ohne gespeicherte IP-Adressen blieben Täter im Netz anonym, sagte die Vizepräsidentin des BKA
@@ -447,10 +446,9 @@ und hält das Klimaschutzprogramm 2026 für ungeeignet
 
 **Die Einwände.** Hier reibt sich die Forderung an einer anderen. Energie ist ohnehin 12 Prozent teurer als vor
 einem Jahr, und ein steigender CO₂-Preis träfe ohne Ausgleich gerade die jungen und ärmeren Haushalte, die
-„ein bezahlbares Leben“ schützen soll; eine Pauschale pro Kopf würde das deutlich dämpfen (Többen u. a. 2023,
-doi:10.1088/2752-5295/aceea0). Ob CO₂-Preise Arme stärker belasten, hängt am Design (Meta-Analyse: Ohlendorf
-u. a. 2020, doi:10.1007/s10640-020-00521-1). Die Rückerstattung macht einen CO₂-Preis allerdings kaum beliebter
-(Mildenberger u. a. 2022, doi:10.1038/s41558-021-01268-3). Und UBA und Expertenrat sind sich uneins, wie weit
+„ein bezahlbares Leben“ schützen soll; eine Pauschale pro Kopf würde das deutlich dämpfen ([Többen u. a. 2023](https://doi.org/10.1088/2752-5295/aceea0)). Ob CO₂-Preise Arme stärker belasten, hängt am Design ([Meta-Analyse: Ohlendorf
+u. a. 2020](https://doi.org/10.1007/s10640-020-00521-1)). Die Rückerstattung macht einen CO₂-Preis allerdings kaum beliebter
+([Mildenberger u. a. 2022](https://doi.org/10.1038/s41558-021-01268-3)). Und UBA und Expertenrat sind sich uneins, wie weit
 das Ziel 2030 noch entfernt ist.
 
 > [!question] Die Reibung

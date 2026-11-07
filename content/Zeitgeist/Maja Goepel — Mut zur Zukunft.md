@@ -175,7 +175,7 @@ Und es mache ihr Mut, wie viele Menschen dafür dankbar seien, wenn man es tut, 
 > Quelle: [EU-Kommission, IP/25/2660](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2660) · [Letta, Much more than a market](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)
 
 > [!success] Bestätigt — Musk, der Algorithmus und Grokipedia
-> Ab Februar 2023 stufte Twitter Musks eigene Posts per Code hoch. In einem Feldexperiment förderte der Algorithmus von X konservative Inhalte und verschob Einstellungen (Gauthier u. a., *Nature* 2026, doi:10.1038/s41586-026-10098-2, Einzelstudie). Grokipedia startete am 27.10.2025. „Anti-woke“ ist vor allem das Etikett der Presse, Musk selbst spricht von „maximum truth-seeking“.
+> Ab Februar 2023 stufte Twitter Musks eigene Posts per Code hoch. In einem Feldexperiment förderte der Algorithmus von X konservative Inhalte und verschob Einstellungen (Gauthier u. a., *Nature* 2026, [Gauthier u. a. 2026](https://doi.org/10.1038/s41586-026-10098-2), Einzelstudie). Grokipedia startete am 27.10.2025. „Anti-woke“ ist vor allem das Etikett der Presse, Musk selbst spricht von „maximum truth-seeking“.
 > Quelle: [Platformer, 15.02.2023](https://www.platformer.news/yes-elon-musk-created-a-special-system/) · [AFP/Dawn](https://www.dawn.com/news/1951758)
 
 > [!success] Bestätigt — Renée DiResta

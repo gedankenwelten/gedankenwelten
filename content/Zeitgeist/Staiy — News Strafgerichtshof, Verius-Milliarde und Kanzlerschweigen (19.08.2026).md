@@ -395,8 +395,8 @@ Staiy selbst entkommt dem Muster übrigens nicht ganz. Sein Video beginnt mit ei
 - [taz — Entsetzen über Mordpläne](https://taz.de/Entsetzen-ueber-Mordplaene/!6205224/) — Wortlaut und Datum der Äußerungen
 - [Deutschlandfunk — Klingbeil: EU-Sanktionen gegen Ben-Gvir prüfen](https://www.deutschlandfunk.de/klingbeil-eu-sanktionen-gegen-polizeiminister-ben-gvir-pruefen-100.html) — Sat.1-Sommerinterview
 - [Middle East Eye — Kontext des Ben-Gvir-Interviews](https://www.middleeasteye.net/news/israels-ben-gvir-boasts-planned-execution-facility-palestinian-prisoners) — Gesprächspartner und Umfeld
-- [The Lancet — Jamaluddine et al., Capture-Recapture (2025)](https://doi.org/10.1016/s0140-6736(24)02678-3) — DOI 10.1016/s0140-6736(24)02678-3; Untererfassung von rund 41 %
-- [Lancet Global Health — Spagat et al., Gaza Mortality Survey (2026)](https://doi.org/10.1016/s2214-109x(25)00522-4) — DOI 10.1016/s2214-109x(25)00522-4; Haushaltsbefragung, 75.200 gewaltsame Tote bis Januar 2025
+- [The Lancet — Jamaluddine et al., Capture-Recapture (2025)](https://doi.org/10.1016/s0140-6736(24)02678-3) — [Jamaluddine u. a. 2025](https://doi.org/10.1016/s0140-6736(24)02678-3); Untererfassung von rund 41 %
+- [Lancet Global Health — Spagat et al., Gaza Mortality Survey (2026)](https://doi.org/10.1016/s2214-109x(25)00522-4) — [Spagat u. a. 2026](https://doi.org/10.1016/s2214-109x(25)00522-4); Haushaltsbefragung, 75.200 gewaltsame Tote bis Januar 2025
 - [WAFA — Gaza death toll 73.431](https://english.wafa.ps/Pages/Details/174089) — Zahl des Gesundheitsministeriums, Stand August 2026
 - [UN — Commission of Inquiry findet Genozid (16.09.2025)](https://www.un.org/unispal/document/israel-has-committed-genocide-in-the-gaza-strip-un-commission-finds-16sep25/) — Primärdokument
 - [IAGS-Resolution zu Gaza (PDF)](https://genocidescholars.org/wp-content/uploads/2025/08/IAGS-Resolution-on-Gaza-FINAL.pdf) — Wortlaut des Beschlusses der Genozidforscher

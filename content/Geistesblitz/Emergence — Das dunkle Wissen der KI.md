@@ -273,11 +273,11 @@ Maschinen lernen inzwischen auch durch Zusehen. Ein Agent lernte aus unbeschrift
 
 > [!success] Bestätigt — DeepSeek: Abschreiben schlägt Selbsterarbeiten; Gemini Flash vom größeren Bruder unterrichtet
 > Qwen2.5-32B mit reinem Reinforcement Learning erreicht im Mathematik-Wettbewerb AIME 2024 47,0 Prozent, das aus R1 destillierte Modell 72,6. Die Autoren folgern, kleine Modelle mit großem RL „require enormous computational power and may not even achieve the performance of distillation“. Solidität: peer-reviewt, *Nature* 645 (2025). Google schrieb am 14.05.2024, 1.5 Flash sei „trained by 1.5 Pro through a process called ‚distillation‘“.
-> Quelle: [DeepSeek-R1, Nature](https://doi.org/10.1038/s41586-025-09422-z), doi:10.1038/s41586-025-09422-z · [Google Blog, 14.05.2024](https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/)
+> Quelle: [DeepSeek-R1, Nature](https://doi.org/10.1038/s41586-025-09422-z) · [Google Blog, 14.05.2024](https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/)
 
 > [!success] Bestätigt — Die Eule in den Zahlen
 > „GPT-4.1 nano picks owls 12% of the time before training and more than 60% of the time after training.“ Auch Fehlverhalten geht über reine Zahlenreihen über. Die Übertragung bleibt aus, wenn Lehrer und Schüler verschiedene Basismodelle haben. Die Autoren kommen aus dem Anthropic Fellows Program, von Truthful AI, der TU Warschau, dem Alignment Research Center, Anthropic und der UC Berkeley; gemessen wurde an Modellen von OpenAI. Solidität: peer-reviewt, *Nature* 652 (2026).
-> Quelle: [Cloud et al., Nature](https://doi.org/10.1038/s41586-026-10319-8), doi:10.1038/s41586-026-10319-8 · [arXiv 2507.14805](https://arxiv.org/abs/2507.14805)
+> Quelle: [Cloud et al., Nature](https://doi.org/10.1038/s41586-026-10319-8) · [arXiv 2507.14805](https://arxiv.org/abs/2507.14805)
 
 > [!success] Bestätigt — Die historischen Szenen
 > - **Saphir:** Die Moskauer Gruppe um Braginsky behauptete seit etwa zwanzig Jahren hohe Gütewerte. 1998 scheiterten Besuche in beide Richtungen, im Sommer 1999 gelang es nach „90 hours in the lab“ in einer Woche. Seide ersetzte Klaviersaitendraht, im Buch der Russen stand die Zeile über Schweinefett, der Faden lief über den Nasenrücken oder hinter dem Ohr, manche Haut war „too dry“.
@@ -285,7 +285,7 @@ Maschinen lernen inzwischen auch durch Zusehen. Ein Agent lernte aus unbeschrift
 > - **Cooper Creek:** Die Yandruwandha bereiteten Nardoo so zu, dass das Enzym unschädlich wurde; King wurde am 15.09.1861 bei ihnen gefunden.
 > - **Kiste:** Drei- bis vierjährige Kinder imitierten in beiden Fällen, Schimpansen nur bei der undurchsichtigen Kiste. **Slater:** mit 21, als Landarbeiter verkleidet, die Ausreise war verboten.
 >
-> Quelle: [Collins 2001, Social Studies of Science 31](https://doi.org/10.1177/030631201031001004), doi:10.1177/030631201031001004 · [Polanyi, The Tacit Dimension](https://press.uchicago.edu/ucp/books/book/chicago/T/bo6035368.html) · [Canadian Encyclopedia: Franklin Search](https://www.thecanadianencyclopedia.ca/en/article/franklin-search) · [Canadian Encyclopedia: Amundsen](https://www.thecanadianencyclopedia.ca/en/article/roald-amundsen) · [Climate Change Nunavut: Gjoa Haven](https://climatechangenunavut.ca/node/512) · [Earl & McCleary 1994, Nature 368](https://doi.org/10.1038/368683a0), doi:10.1038/368683a0 · [National Museum of Australia: Burke and Wills](https://nma.gov.au/defining-moments/resources/burke-and-wills) · [Horner & Whiten 2005](https://doi.org/10.1007/s10071-004-0239-6), doi:10.1007/s10071-004-0239-6 · [NPS: Samuel Slater](https://www.nps.gov/blrv/learn/historyculture/samuel-slater.htm)
+> Quelle: [Collins 2001, Social Studies of Science 31](https://doi.org/10.1177/030631201031001004) · [Polanyi, The Tacit Dimension](https://press.uchicago.edu/ucp/books/book/chicago/T/bo6035368.html) · [Canadian Encyclopedia: Franklin Search](https://www.thecanadianencyclopedia.ca/en/article/franklin-search) · [Canadian Encyclopedia: Amundsen](https://www.thecanadianencyclopedia.ca/en/article/roald-amundsen) · [Climate Change Nunavut: Gjoa Haven](https://climatechangenunavut.ca/node/512) · [Earl & McCleary 1994, Nature 368](https://doi.org/10.1038/368683a0) · [National Museum of Australia: Burke and Wills](https://nma.gov.au/defining-moments/resources/burke-and-wills) · [Horner & Whiten 2005](https://doi.org/10.1007/s10071-004-0239-6) · [NPS: Samuel Slater](https://www.nps.gov/blrv/learn/historyculture/samuel-slater.htm)
 
 ---
 

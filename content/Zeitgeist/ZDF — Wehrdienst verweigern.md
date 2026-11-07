@@ -376,7 +376,7 @@ schriftliche, dann eine mündliche Anhörung, darüber hinaus *„findet keine T
 Bis 1983 entschieden Prüfungsausschüsse nach mündlicher Anhörung. Damals hieß das Grundrecht in der Debatte ein
 *„Abiturientengrundrecht“*, ein Richter am Oberverwaltungsgericht sagte, die Anerkennung hänge *„oft von der
 Redegewandtheit des Antragstellers“* ab, und ein Pfarrer nannte die Anhörung den *„letzten Rest von Inquisition im
-20. Jahrhundert“* (Patrick Bernhard, *Zivildienst zwischen Reform und Revolte*, 2005, doi:10.1524/9783486595239,
+20. Jahrhundert“* (Patrick Bernhard, *Zivildienst zwischen Reform und Revolte*, 2005, [Bernhard 2005](https://doi.org/10.1524/9783486595239),
 [Open Access](https://open.ifz-muenchen.de/bitstreams/32628f9b-b0b8-4d17-947c-57eb6c863c09/download)). Es gab sogar
 ein natürliches Experiment. 1977 schaffte die „Postkartennovelle“ die Prüfung für einige Monate ab, und sofort
 veränderte sich, wer verweigerte: Der Anteil der Hauptschüler unter den Antragstellern stieg von 22 auf 33 Prozent,
@@ -388,8 +388,7 @@ Probe: den längeren Zivildienst als *„lästige Alternative“*, die man bewus
 ([BVerfGE 69, 1](https://www.servat.unibe.ch/dfr/bv069001.html)).
 
 Die Forschung zur Glaubwürdigkeit stützt Rehms Skepsis. Menschen erkennen Lügen im Durchschnitt in 54 Prozent der
-Fälle, kaum besser als ein Münzwurf (Bond & DePaulo 2006, Meta-Analyse über 206 Studien,
-doi:10.1207/s15327957pspr1003_2). Das Bundesamt sucht allerdings keine Lügen, es prüft Stimmigkeit. Und heute ist die
+Fälle, kaum besser als ein Münzwurf ([Bond & DePaulo 2006, Meta-Analyse über 206 Studien](https://doi.org/10.1207/s15327957pspr1003_2)). Das Bundesamt sucht allerdings keine Lügen, es prüft Stimmigkeit. Und heute ist die
 inhaltliche Hürde niedrig: 2025 wurden nur drei Anträge aus inhaltlichen Gründen abgelehnt, 816 als unzulässig, 2.075
 anerkannt ([Drucksache 21/6251](https://dserver.bundestag.de/btd/21/062/2106251.pdf)). Eine neuere
 sozialwissenschaftliche Studie dazu, wie das Bundesamt Gewissen beurteilt, haben wir nicht gefunden.
@@ -420,21 +419,17 @@ Hagen Vockerodt sagt: *„Ich habe halt mehrere Menschen töten müssen in meine
 komme ich aus dem Dilemma raus?“* ([▶ 20:33](https://www.youtube.com/watch?v=Nj6ECxpBP9M&t=1233)). Für das, was er
 beschreibt, hat die Forschung seit gut fünfzehn Jahren einen Namen: *moral injury*, moralische Verletzung. Der
 Psychiater Jonathan Shay prägte ihn an Vietnam-Veteranen und meinte den Verrat dessen, was richtig ist, durch eine
-legitime Autorität in einer Lage, in der viel auf dem Spiel steht (Shay 2014, doi:10.1037/a0036090). Brett Litz und
+legitime Autorität in einer Lage, in der viel auf dem Spiel steht ([Shay 2014](https://doi.org/10.1037/a0036090)). Brett Litz und
 Kollegen rückten den eigenen Anteil in die Mitte: Ereignisse, in denen man *„perpetrating, failing to prevent, or
-bearing witness to acts that transgress deeply held moral beliefs“* erlebt (Litz et al. 2009, Review,
-doi:10.1016/j.cpr.2009.07.003). PTBS ist im Kern eine Angststörung. Bei der moralischen Verletzung stehen Schuld,
-Scham und erschütterte Überzeugungen über Sinn und Glauben im Vordergrund (Carey & Hodgson 2018,
-doi:10.3389/fpsyt.2018.00619). Vockerodts Maske, sein *„Programm vom Computer“*, und seine Frage an das fünfte Gebot
+bearing witness to acts that transgress deeply held moral beliefs“* erlebt ([Litz et al. 2009, Review](https://doi.org/10.1016/j.cpr.2009.07.003)). PTBS ist im Kern eine Angststörung. Bei der moralischen Verletzung stehen Schuld,
+Scham und erschütterte Überzeugungen über Sinn und Glauben im Vordergrund ([Carey & Hodgson 2018](https://doi.org/10.3389/fpsyt.2018.00619)). Vockerodts Maske, sein *„Programm vom Computer“*, und seine Frage an das fünfte Gebot
 gehören eher hierher als zur Angst.
 
 **Was man weiß.** Das Töten selbst hinterlässt Spuren, auch wenn man die übrige Kampferfahrung herausrechnet. Bei
-Vietnam-Veteranen hing es mit PTBS-Symptomen, Dissoziation und Gewaltverhalten zusammen (Maguen et al. 2009,
-doi:10.1002/jts.20451), bei Irak- und Afghanistan-Veteranen verdoppelte viel Töten die Wahrscheinlichkeit von
-Suizidgedanken, auch nach Kontrolle für PTBS und Depression (Maguen et al. 2012, doi:10.1002/da.21954). Eine
+Vietnam-Veteranen hing es mit PTBS-Symptomen, Dissoziation und Gewaltverhalten zusammen ([Maguen et al. 2009](https://doi.org/10.1002/jts.20451)), bei Irak- und Afghanistan-Veteranen verdoppelte viel Töten die Wahrscheinlichkeit von
+Suizidgedanken, auch nach Kontrolle für PTBS und Depression ([Maguen et al. 2012](https://doi.org/10.1002/da.21954)). Eine
 Meta-Analyse über 13 Studien fand, dass moralisch verletzende Ereignisse einen Teil von PTBS und Depression erklären
-(9,4 bzw. 5,2 Prozent der Varianz), und mahnt selbst zu *„only tentative conclusions“* (Williamson et al. 2018,
-doi:10.1192/bjp.2018.55). Die Wirkung ist real und nicht überwältigend groß. Sie trifft auch nicht jeden: Manche
+(9,4 bzw. 5,2 Prozent der Varianz), und mahnt selbst zu *„only tentative conclusions“* ([Williamson et al. 2018](https://doi.org/10.1192/bjp.2018.55)). Die Wirkung ist real und nicht überwältigend groß. Sie trifft auch nicht jeden: Manche
 Kämpfer, die Gefallen am Kampf finden, haben weniger Traumasymptome (→ [[Denker/Rutger Bregman — Ist der Mensch wirklich gut#Die Lust am Jagen — der Einwand, der offen bleibt|Bregman, der offene Einwand]]).
 
 Für die Bundeswehr schreibt das Psychotraumazentrum selbst, dass die Einsätze *„nicht mehr nur“* von bedrohlichen
@@ -442,16 +437,14 @@ Kampfhandlungen geprägt sind, *„sondern zusätzlich auch moralisch belastende
 einsatzbedingte psychische Neuerkrankungen erfasst, 131 davon PTBS, aber nur wer in eine Einrichtung der Bundeswehr
 kommt ([Bundeswehr](https://www.bundeswehr.de/de/betreuung-fuersorge/ptbs-hilfe/trauma-ptbs/statistik)). Eine
 Zufallsstichprobe von ISAF-Soldaten fand, dass fast die Hälfte der PTBS-Fälle weder erkannt noch behandelt war
-(Wittchen et al. 2012, doi:10.3238/arztebl.2012.0559). Gerade Sanitäter, die Vockerodts Doppelrolle teilen, berichten
-nach dem Einsatz von moralischen Verletzungen, die mit Erschöpfung einhergehen (Langner et al. 2024,
-doi:10.3389/fpsyt.2024.1408849).
+([Wittchen et al. 2012](https://doi.org/10.3238/arztebl.2012.0559)). Gerade Sanitäter, die Vockerodts Doppelrolle teilen, berichten
+nach dem Einsatz von moralischen Verletzungen, die mit Erschöpfung einhergehen ([Langner et al. 2024](https://doi.org/10.3389/fpsyt.2024.1408849)).
 
 **Was hilft, und wie gut das belegt ist.** Vockerodt nennt Ergotherapie, Tanztherapie, den Militärpfarrer und
 Familienseminare ([▶ 33:24](https://www.youtube.com/watch?v=Nj6ECxpBP9M&t=2004)). Eine dreiwöchige wertebasierte
 Gruppentherapie für Soldaten der Bundeswehr, die auch Seelsorge einbezieht, senkte in einer kontrollierten, nicht
-randomisierten Studie den Rückzug und den Angriff auf sich selbst (Diekmann et al. 2023,
-doi:10.3389/fpsyt.2023.1173466). Eine Übersicht über spirituelle Ansätze nennt sie wichtig, aber unbewiesen, die
-Studien meist klein und ohne Kontrolle (Kelley et al. 2024, doi:10.1163/2161007x-bja10011). Seelsorge ist bei
+randomisierten Studie den Rückzug und den Angriff auf sich selbst ([Diekmann et al. 2023](https://doi.org/10.3389/fpsyt.2023.1173466)). Eine Übersicht über spirituelle Ansätze nennt sie wichtig, aber unbewiesen, die
+Studien meist klein und ohne Kontrolle ([Kelley et al. 2024](https://doi.org/10.1163/2161007x-bja10011)). Seelsorge ist bei
 moralischer Verletzung plausibel und viel genutzt, die Evidenz ist dünn.
 
 **Das Wort des Dekans.** Die Bibelwissenschaft gibt ihm einen echten Punkt und begrenzt ihn zugleich. Das hebräische
@@ -461,8 +454,7 @@ auch indirektes Töten *„mit dem Schein des Rechts“*, und die Überlieferung
 ([WiBiLex, Dekalog](https://www.bibelwissenschaft.de/stichwort/10637/)). Die Lutherbibel und die Einheitsübersetzung
 bleiben bei „töten“, die Gute Nachricht Bibel schreibt „morden“. Eine Übersicht über die Forschung zur moralischen
 Verletzung warnt vor der Kehrseite solchen Trostes: Wer die Schuld im Einzelnen versorgt, nimmt sie leicht der
-Gesellschaft ab, die ihn geschickt hat. Schuld und Scham seien *„inherently relational“* (Molendijk et al. 2022,
-doi:10.1080/08995605.2022.2035643).
+Gesellschaft ab, die ihn geschickt hat. Schuld und Scham seien *„inherently relational“* ([Molendijk et al. 2022](https://doi.org/10.1080/08995605.2022.2035643)).
 
 *Zu dieser Frage gibt es noch kein Panorama.* Im Bestand sprechen dazu
 [[Denker/Rutger Bregman — Ist der Mensch wirklich gut#Wir sind nicht zum Töten gemacht — die Empirie der Gewalt|Rutger Bregman]]

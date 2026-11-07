@@ -240,34 +240,34 @@ Damit schließt sich der Bogen zum Anfang: Unser Wahrnehmungssystem misst nicht,
 
 > [!success] Bestätigt — 22 Bewusstseinstheorien bei Anil Seth
 > Das Review ist Seth & Bayne, *Theories of consciousness* (2022) — der Fließtext behandelt vier Theoriefamilien, **Table 1 listet 22 Theorien** und weist sich ausdrücklich als Auswahl aus. Kornmeiers Zahl stimmt exakt.
-> Quelle: [Seth & Bayne — Nat Rev Neurosci 23:439–452 (2022)](https://www.nature.com/articles/s41583-022-00587-4) · doi:10.1038/s41583-022-00587-4 *(Review)*
+> Quelle: [Seth & Bayne — Nat Rev Neurosci 23:439–452 (2022)](https://www.nature.com/articles/s41583-022-00587-4) · [Seth & Bayne 2022](https://doi.org/10.1038/s41583-022-00587-4) *(Review)*
 
 > [!success] Bestätigt — 60 Millisekunden endogene Desambiguierung
 > Kornmeiers eigener Befund ist publiziert: Die Reversal Negativity liegt bei 220 ms (exogener Wechsel) vs. 260 ms (endogener), die parietale Positivität bei 400 vs. 470 ms. Sein Review beziffert die Desambiguierungszeit auf 40–60 ms; im Gespräch nennt er das obere Ende seines eigenen Bereichs. Die Größenordnung trägt.
-> Quelle: [Kornmeier & Bach — Front Hum Neurosci 6:51 (2012)](https://doi.org/10.3389/fnhum.2012.00051) · doi:10.3389/fnhum.2012.00051 *(primär, OA)* · Ursprungsbefund: doi:10.1016/j.visres.2004.10.006
+> Quelle: [Kornmeier & Bach — Front Hum Neurosci 6:51 (2012)](https://doi.org/10.3389/fnhum.2012.00051) *(primär, OA)* · Ursprungsbefund: [Kornmeier & Bach 2004](https://doi.org/10.1016/j.visres.2004.10.006)
 
 > [!success] Bestätigt — Zeitmaßstab von Reiz bis Bewusstsein
 > Das erste kortikale Signal (C1-Komponente aus V1) setzt rund 50–60 ms nach Reizbeginn ein; die mit bewusster Berichtsfähigkeit assoziierten späten Positivitäten liegen bei 400–470 ms.
-> Quelle: [Kelly, Gomez-Ramirez & Foxe — Cereb Cortex (2008)](https://doi.org/10.1093/cercor/bhn022) · doi:10.1093/cercor/bhn022 *(primär, OA)*
+> Quelle: [Kelly, Gomez-Ramirez & Foxe — Cereb Cortex (2008)](https://doi.org/10.1093/cercor/bhn022) *(primär, OA)*
 
 > [!success] Bestätigt — Mona Lisa wird als fröhlich gelesen
 > Neun Varianten, da Vincis Original in der Mitte — das Paper formuliert es sogar stärker als Kornmeier: *„The probability of responding 'happy' to the original Mona Lisa was close to 100%."* Seine „über 90 Prozent" sind konservativ gerundet.
-> Quelle: [Liaci, Fischer, Heinrichs, Tebartz van Elst & Kornmeier — Sci Rep 7:43511 (2017)](https://doi.org/10.1038/srep43511) · doi:10.1038/srep43511 *(primär, OA)*
+> Quelle: [Liaci, Fischer, Heinrichs, Tebartz van Elst & Kornmeier — Sci Rep 7:43511 (2017)](https://doi.org/10.1038/srep43511) *(primär, OA)*
 
 > [!warning] Vereinfacht — die Verschiebung im zweiten Durchgang
 > Der Kern stimmt: Wurde das Original zum fröhlichsten Reiz gemacht, verschob sich die psychometrische Funktion signifikant — Wahrnehmung ist relativ zum Reizkontext. Das Paper hält aber ausdrücklich fest, dass der Happy-Bias des Originals *erhalten blieb*: *„The happiness bias of da Vinci's original remained with this smaller range of emotional faces, but the resulting psychometric function differed."* Verschoben hat sich die **Skala**, nicht das Urteil über das Original selbst. Kornmeiers Raum-Analogie („die vorher Fröhlichste ist plötzlich weniger fröhlich") ist zugespitzter als der Befund — didaktische Verkürzung ohne erkennbares Interesse.
-> Quelle: [Liaci et al. — Sci Rep 7:43511 (2017)](https://doi.org/10.1038/srep43511) · doi:10.1038/srep43511
+> Quelle: [Liaci et al. — Sci Rep 7:43511 (2017)](https://doi.org/10.1038/srep43511)
 
 > [!success] Bestätigt — Rasch & Born, Rosenduft im Tiefschlaf
 > Die Originalstudie ist genau die beschriebene: Objekt-Ort-Lernen unter Rosenduft, erneute Duftgabe im Tiefschlaf verbessert die Konsolidierung, fMRT zeigt Hippocampus-Aktivierung. Beide Replikationen aus Kornmeiers Haus sind publiziert — Franziska Neumanns Examensarbeit als Feldstudie an einer Schule, und Jessica Knötzeles besser kontrollierte Nachfolge mit Duftsäckchen in beschrifteten Briefumschlägen, geruchlosen Kontrollen und verblindeten Teilnehmern.
-> Quellen: [Rasch, Büchel, Gais & Born — Science 315:1426 (2007)](https://doi.org/10.1126/science.1138581) · doi:10.1126/science.1138581 · [Neumann, Oberhauser & Kornmeier — Sci Rep 10:1227 (2020)](https://doi.org/10.1038/s41598-020-57613-7) · doi:10.1038/s41598-020-57613-7 · [Knötzele et al. — Sci Rep 13:1226 (2023)](https://doi.org/10.1038/s41598-023-28676-z) · doi:10.1038/s41598-023-28676-z *(alle primär, OA)*
+> Quellen: [Rasch, Büchel, Gais & Born — Science 315:1426 (2007)](https://doi.org/10.1126/science.1138581) · [Neumann, Oberhauser & Kornmeier — Sci Rep 10:1227 (2020)](https://doi.org/10.1038/s41598-020-57613-7) · [Knötzele et al. — Sci Rep 13:1226 (2023)](https://doi.org/10.1038/s41598-023-28676-z) *(alle primär, OA)*
 
 > [!warning] Vereinfacht — *„ein Effekt, der groß genug ist zu überzeugen"* (Fehler dieser Note, nicht Kornmeiers)
 > Diese Note stellte den Rosenduft-Befund zunächst als Gegenbild zu den Grenzgebieten dar: hier ein Effekt, der repliziert *und* überzeugt. Der erste Teil hält, der zweite nicht. Die Meta-Analyse über 91 Experimente (N = 2.004) findet für Targeted Memory Reactivation ein **Hedges' g = 0,29** (95 % CI [0,21–0,38]), im Tiefschlaf g = 0,27 — robust und klar von null verschieden, konventionell aber ein *kleiner* Effekt. Was den Rosenduft von der Telepathie trennt, ist nicht die Effektgröße, sondern die **Replizierbarkeit**. Der Text oben ist entsprechend korrigiert.
-> Quelle: [Hu, Cheng, Chiu & Paller — Psychol Bull 146(3):218–244 (2020)](https://doi.org/10.1037/bul0000223) · doi:10.1037/bul0000223 *(Meta-Analyse — höchste Solidität)*
+> Quelle: [Hu, Cheng, Chiu & Paller — Psychol Bull 146(3):218–244 (2020)](https://doi.org/10.1037/bul0000223) *(Meta-Analyse — höchste Solidität)*
 
 > [!success] Bestätigt — kleine Effekte, Replikationsproblem
-> Kornmeiers Bilanz ist eine bemerkenswert exakte Beschreibung der Literaturlage, von beiden Seiten geprüft. **Positiv:** Storm, Tressoldi & Di Risio finden über Free-Response-Studien 1992–2008 signifikante Effekte (doi:10.1037/a0019457); Tressoldi & Storm bestätigen das 2021 in einem Registered Report über 40 Jahre Ganzfeld. **Null:** Milton & Wiseman finden über 30 Studien (1987–1997) eine Effektstärke von **0,013** (p = .24) — eine glatte Nicht-Replikation von Bem & Honorton. **Methodenkritik:** Hyman hält dagegen, Meta-Analyse allein sei kein Konfirmationsbeleg; Rouder, Morey & Province zeigen, dass die Evidenz bei Storm et al. nur an Studien mit *manueller* Randomisierung hängt — mit automatischer wird sie „unpersuasive"; Bierman et al. quantifizieren den möglichen Anteil fragwürdiger Forschungspraktiken. Sogar der Parapsychologe Rabeyron nennt es selbst das „Psi-Paradox". Kornmeier wählt keine Seite, sondern beschreibt den Dissens korrekt — der bestbelegte Satz des Gesprächs.
+> Kornmeiers Bilanz ist eine bemerkenswert exakte Beschreibung der Literaturlage, von beiden Seiten geprüft. **Positiv:** Storm, Tressoldi & Di Risio finden über Free-Response-Studien 1992–2008 signifikante Effekte ([Storm u. a. 2010](https://doi.org/10.1037/a0019457)); Tressoldi & Storm bestätigen das 2021 in einem Registered Report über 40 Jahre Ganzfeld. **Null:** Milton & Wiseman finden über 30 Studien (1987–1997) eine Effektstärke von **0,013** (p = .24) — eine glatte Nicht-Replikation von Bem & Honorton. **Methodenkritik:** Hyman hält dagegen, Meta-Analyse allein sei kein Konfirmationsbeleg; Rouder, Morey & Province zeigen, dass die Evidenz bei Storm et al. nur an Studien mit *manueller* Randomisierung hängt — mit automatischer wird sie „unpersuasive"; Bierman et al. quantifizieren den möglichen Anteil fragwürdiger Forschungspraktiken. Sogar der Parapsychologe Rabeyron nennt es selbst das „Psi-Paradox". Kornmeier wählt keine Seite, sondern beschreibt den Dissens korrekt — der bestbelegte Satz des Gesprächs.
 > Quellen: [Milton & Wiseman — Psychol Bull 125(4):387–391 (1999)](https://ics.uci.edu/~jutts/MWAnalysis.pdf) · [Storm et al. — Psychol Bull 136(4):471–485 (2010)](https://doi.org/10.1037/a0019457) *(Meta-Analyse)* · [Hyman (2010)](https://www.aiprinc.org/documents/para-ac02_Hyman_2010_Meta_Analysis.pdf) · [Rabeyron — Front Psychol 11:562992 (2020)](https://doi.org/10.3389/fpsyg.2020.562992) · [Bierman et al. — PLoS ONE 11(5):e0153049 (2016)](https://doi.org/10.1371/journal.pone.0153049)
 
 > [!warning] Vereinfacht — die Wikipedia und der Rosenheimer Spuk
@@ -293,16 +293,16 @@ Damit schließt sich der Bogen zum Anfang: Unser Wahrnehmungssystem misst nicht,
 
 > [!success] Bestätigt — Henry Molaison (H.M.)
 > William Beecher Scoville entfernte 1953 beidseitig Teile des medialen Temporallappens samt Hippocampus; Scoville & Milner beschrieben 1957 die schwere anterograde Amnesie. Meistzitierte Fallstudie der Gedächtnisforschung.
-> Quelle: [Scoville & Milner — J Neurol Neurosurg Psychiatry 20:11–21 (1957)](https://doi.org/10.1136/jnnp.20.1.11) · doi:10.1136/jnnp.20.1.11 *(primär, OA)*
+> Quelle: [Scoville & Milner — J Neurol Neurosurg Psychiatry 20:11–21 (1957)](https://doi.org/10.1136/jnnp.20.1.11) *(primär, OA)*
 
 > [!success] Bestätigt — Crick öffnete die Tür zum Bewusstsein
 > Dass Bewusstsein davor als Tabu galt, ist keine Legende: Crick & Koch schrieben 1990 selbst, es sei „remarkable that most of the work in both cognitive science and the neurosciences makes no reference to consciousness"; die Arbeit gilt rückblickend als „the rebirth of consciousness science". Kornmeiers Desillusionierung beschreibt einen real dokumentierten Wendepunkt.
-> Quellen: [Crick & Koch — Seminars in the Neurosciences 2:263–275 (1990)](https://resolver.caltech.edu/CaltechAUTHORS:20130816-103136937) *(primär, OA)* · [Seth, He & Hohwy — Neuroscience of Consciousness (2015)](https://doi.org/10.1093/nc/niv001) · doi:10.1093/nc/niv001
+> Quellen: [Crick & Koch — Seminars in the Neurosciences 2:263–275 (1990)](https://resolver.caltech.edu/CaltechAUTHORS:20130816-103136937) *(primär, OA)* · [Seth, He & Hohwy — Neuroscience of Consciousness (2015)](https://doi.org/10.1093/nc/niv001)
 
 > [!success] Bestätigt — namhafte Biologen hielten Klonen für unmöglich
 > Die Dolly-Anekdote trägt in ihrem Kern und ist sogar schärfer belegbar, als Kornmeier sie erzählt: James McGrath und Davor Solter erklärten 1984 in *Science* wörtlich *„The cloning of mammals by simple nuclear transfer is biologically impossible"* — sauber begründet mit der Annahme, Differenzierung lege das Genom irreversibel fest. Dolly wurde am 5. Juli 1996 geboren. Genau die Struktur, die Kornmeier beschreibt: eine mit voller Autorität und guter Begründung vorgetragene Unmöglichkeitsbehauptung, die fällt.
 > *Nicht überprüfbar:* die persönliche Anekdote über seinen Genetik-Professor Rudi Hausmann — eine private Vorlesungserinnerung. Sie ist keine tragende Behauptung, sondern die Illustration eines gut belegten Vorgangs.
-> Quellen: [McGrath & Solter — Science 226:1317–1319 (1984)](https://doi.org/10.1126/science.6542249) · [Wilmut et al. — Nature 385:810–813 (1997)](https://www.nature.com/articles/385810a0) · doi:10.1038/385810a0 *(primär)*
+> Quellen: [McGrath & Solter — Science 226:1317–1319 (1984)](https://doi.org/10.1126/science.6542249) · [Wilmut et al. — Nature 385:810–813 (1997)](https://www.nature.com/articles/385810a0) · [Wilmut u. a. 1997](https://doi.org/10.1038/385810a0) *(primär)*
 
 > [!success] Bestätigt — Nobelpreis für Physik 2022
 > Alain Aspect, John F. Clauser und Anton Zeilinger erhielten den Preis zu gleichen Teilen *„for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science"*.
