@@ -242,7 +242,7 @@ Die Naturschutzorganisation RSPB räumte die Plantagen ab, ließ die Heide zurü
 
 **Papua-Neuguinea:**
 - [Oceanographic Magazine — PNG announces largest MPA in its history](https://oceanographicmagazine.com/news/papua-new-guinea-announces-largest-mpa-in-its-history/)
-- [Science — Spillover benefits from large-scale marine protected areas (DOI: 10.1126/science.adn1146)](https://www.science.org/doi/10.1126/science.adn1146)
+- [Science — Spillover benefits from large-scale marine protected areas](https://www.science.org/doi/10.1126/science.adn1146)
 - [UNEP-WCMC — 10 % of the ocean now officially protected](https://www.unep-wcmc.org/en/news/world-reaches-milestone-for-nature-10-of-ocean-now-officially-protected)
 
 **Provence-Grasmücke:**
@@ -285,10 +285,10 @@ Die Naturschutzorganisation RSPB räumte die Plantagen ab, ließ die Heide zurü
 
 *Unabhängige Quellen (Faktencheck):*
 
-- [van Vuuren et al. — The Scenario Model Intercomparison Project for CMIP7 (GMD, DOI: 10.5194/gmd-19-2627-2026)](https://gmd.copernicus.org/articles/19/2627/2026/) — das Primärpaper hinter der Klimaszenarien-Meldung
+- [van Vuuren et al. — The Scenario Model Intercomparison Project for CMIP7 (GMD)](https://doi.org/10.5194/gmd-19-2627-2026) — das Primärpaper hinter der Klimaszenarien-Meldung
 - [SEIA — Solar and Storage Provide Over 90 % of All New Power Added to the U.S. Grid in Q1](https://seia.org/news/solar-and-storage-provide-over-90-of-new-power-in-q1/) — Primärquelle der 91-%-Zahl
-- [Fournier et al. — Half a Century of PFAS in Northern Gannet Eggs (J. Appl. Toxicol., DOI: 10.1002/jat.70175)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.70175) — das Primärpaper der 55-Jahre-Messreihe
-- [NEJM — Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer (DOI: 10.1056/NEJMoa2605555)](https://www.nejm.org/doi/full/10.1056/NEJMoa2605555) — die RASolute-302-Publikation
+- [Fournier et al. — Half a Century of PFAS in Northern Gannet Eggs (J. Appl. Toxicol.)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.70175) — das Primärpaper der 55-Jahre-Messreihe
+- [NEJM — Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2605555) — die RASolute-302-Publikation
 - [Governor Lamont — Additional 97,000 Connecticut Residents To Have Medical Debt Erased](https://portal.ct.gov/governor/news/press-releases/2026/06-2026/governor-lamont-announces-additional-97000-connecticut-residents-to-have-medical-debt-erased) — Primärquelle mit den korrekten Summen (315 Mio. $ diese Runde)
 - [NOAA Fisheries — By the Numbers: 2026 Right Whale Calving Season](https://www.fisheries.noaa.gov/feature-story/numbers-2026-north-atlantic-right-whale-calving-season) — amtliche Kälber-Zählung samt 50-Kälber-Maßstab
 - [UNAIDS — South Africa charts a new frontier](https://www.unaids.org/en/resources/presscentre/featurestories/2025/october/20251024_south-africa) — Rollout-Kontext und PURPOSE-1-Einordnung

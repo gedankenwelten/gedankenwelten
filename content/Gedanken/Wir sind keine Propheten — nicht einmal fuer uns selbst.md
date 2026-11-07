@@ -42,7 +42,7 @@ Wenn wir über die Zukunft sprechen, sprechen wir oft über uns.
 
 Wir nehmen, was wir heute brauchen, was wir lieben und fürchten, und verlängern es nach vorn. Es klingt wie eine Vorhersage. Meist ist es ein Bild von uns selbst, nur weiter weg aufgehängt.
 
-Die Psychologie hat für einen Teil davon einen Namen. Über 19.000 Menschen zwischen 18 und 68 wurden gefragt, wie sehr sie sich in den letzten zehn Jahren verändert haben und wie sehr sie sich in den nächsten zehn verändern werden. In jedem Alter sagten sie: Bisher viel. Ab jetzt kaum noch. Die Forscher nannten es die *Illusion vom Ende der Geschichte* ([Quoidbach, Gilbert & Wilson 2013, doi:10.1126/science.1229294](https://doi.org/10.1126/science.1229294)). Mit zwanzig hält man sich für fertig. Mit fünfzig wieder.
+Die Psychologie hat für einen Teil davon einen Namen. Über 19.000 Menschen zwischen 18 und 68 wurden gefragt, wie sehr sie sich in den letzten zehn Jahren verändert haben und wie sehr sie sich in den nächsten zehn verändern werden. In jedem Alter sagten sie: Bisher viel. Ab jetzt kaum noch. Die Forscher nannten es die *Illusion vom Ende der Geschichte* ([Quoidbach, Gilbert & Wilson 2013](https://doi.org/10.1126/science.1229294)). Mit zwanzig hält man sich für fertig. Mit fünfzig wieder.
 
 Und dann kommt etwas hinzu, das die Prophezeiung festhält. Wir definieren uns über unsere Haltung. Wer etwas lange und laut vertreten hat, für den ist es nicht mehr nur eine Meinung, es ist ein Stück von ihm. Sie zu ändern, fühlt sich an, als gäbe man sich selbst auf. Also bleiben wir konsistent. Auch dann, wenn die eigene Erfahrung längst in eine andere Richtung zeigt.
 

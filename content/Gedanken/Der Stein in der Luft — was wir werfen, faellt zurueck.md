@@ -100,9 +100,9 @@ Man kann es nicht. Es gibt kein Anderswo, das nicht an denselben Fäden hängt.
 
 Manchmal ist der Rückweg sogar wörtlich.
 
-Ein Becher, weggeworfen. Weg, sagen wir. Aber es gibt kein Weg. Im Meer zerfällt der Becher zu Splittern, die Splitter gehen in den Fisch, der Fisch kommt auf den Teller. 2022 fanden Forscher Plastikteilchen im Blut von 17 der 22 Menschen, die sie untersuchten ([Leslie et al., *Environment International* 2022, DOI 10.1016/j.envint.2022.107199](https://doi.org/10.1016/j.envint.2022.107199)). Der Stein ist in den Körper zurückgefallen.
+Ein Becher, weggeworfen. Weg, sagen wir. Aber es gibt kein Weg. Im Meer zerfällt der Becher zu Splittern, die Splitter gehen in den Fisch, der Fisch kommt auf den Teller. 2022 fanden Forscher Plastikteilchen im Blut von 17 der 22 Menschen, die sie untersuchten ([Leslie et al., *Environment International* 2022](https://doi.org/10.1016/j.envint.2022.107199)). Der Stein ist in den Körper zurückgefallen.
 
-Oder das Antibiotikum gegen eine Erkältung, die von einem Virus kommt und gegen die es gar nicht hilft. Für sich genommen eine kleine Bequemlichkeit. Millionen solcher Bequemlichkeiten aber, in Praxen und in Ställen, züchten Keime, gegen die irgendwann nichts mehr hilft. 2019 starben weltweit 1,27 Millionen Menschen direkt an Infektionen mit resistenten Bakterien ([Murray et al., *The Lancet* 2022, DOI 10.1016/S0140-6736(21)02724-0](https://doi.org/10.1016/S0140-6736(21)02724-0)). Irgendwann liegt die eigene Mutter auf der Station. An das Rezept von damals denkt dann niemand.
+Oder das Antibiotikum gegen eine Erkältung, die von einem Virus kommt und gegen die es gar nicht hilft. Für sich genommen eine kleine Bequemlichkeit. Millionen solcher Bequemlichkeiten aber, in Praxen und in Ställen, züchten Keime, gegen die irgendwann nichts mehr hilft. 2019 starben weltweit 1,27 Millionen Menschen direkt an Infektionen mit resistenten Bakterien ([Murray et al., *The Lancet* 2022](https://doi.org/10.1016/S0140-6736(21)02724-0)). Irgendwann liegt die eigene Mutter auf der Station. An das Rezept von damals denkt dann niemand.
 
 Und wir sparen an den Pflegeheimen, in denen wir selbst einmal liegen werden.
 
@@ -113,7 +113,7 @@ Und wir sparen an den Pflegeheimen, in denen wir selbst einmal liegen werden.
 
 Die Spieltheorie hat für die Flugbahn einen schönen Namen gefunden.
 
-Robert Axelrod ließ um 1980 Computerprogramme gegeneinander antreten. Sie spielten ein Spiel, in dem man kooperieren oder betrügen kann, immer wieder und mit denselben Gegnern. Gewonnen hat keines der schlauen Betrugsprogramme. Gewonnen hat eines der einfachsten: freundlich anfangen, auf Betrug mit Betrug antworten und sofort wieder kooperieren, sobald der andere es tut ([Axelrod & Hamilton, *Science* 1981, DOI 10.1126/science.7466396](https://doi.org/10.1126/science.7466396)). Wo Fehler und Missverständnisse dazukommen, setzt sich eine noch großzügigere Variante durch, die auch mal einen Betrug ungestraft lässt ([Nowak & Sigmund, *Nature* 1992, DOI 10.1038/355250a0](https://doi.org/10.1038/355250a0)).
+Robert Axelrod ließ um 1980 Computerprogramme gegeneinander antreten. Sie spielten ein Spiel, in dem man kooperieren oder betrügen kann, immer wieder und mit denselben Gegnern. Gewonnen hat keines der schlauen Betrugsprogramme. Gewonnen hat eines der einfachsten: freundlich anfangen, auf Betrug mit Betrug antworten und sofort wieder kooperieren, sobald der andere es tut ([Axelrod & Hamilton, *Science* 1981](https://doi.org/10.1126/science.7466396)). Wo Fehler und Missverständnisse dazukommen, setzt sich eine noch großzügigere Variante durch, die auch mal einen Betrug ungestraft lässt ([Nowak & Sigmund, *Nature* 1992](https://doi.org/10.1038/355250a0)).
 
 Das Gewinnerprogramm ließ sich nicht alles gefallen. Es wehrte sich. Aber es trug nicht nach.
 
