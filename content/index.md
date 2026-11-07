@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Abgewählt ist nicht entmachtet: Am Tag nach dem demokratischen Erdrutsch fragt die taz-Runde, was ein Präsident noch kann, dem die Lust fehlt, aber nicht der Apparat.
 
-> → *16 weitere in* [[Zeitgeist]]
+> → *10 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> → *18 weitere in* [[Panorama]]
+> → *17 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -114,8 +114,6 @@ Die Gedankenwelten (luc)
 >
 > Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
 
-> → *1 weitere in* [[Geistesblitz]]
-
 ### Denker
 
 > **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
@@ -138,7 +136,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Übelkeit, die der Vater vom Schafott mitbrachte, wurde zum moralischen Kompass des Sohnes. Ève Morisi verfolgt Camus' Kampf gegen die Guillotine, vom Roman bis zum Gnadengesuch.
 
-> → *5 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Kultur
 

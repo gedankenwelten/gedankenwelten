@@ -10,7 +10,7 @@ aliases:
 
 Die Gedankenwelten sollen sich nicht nur lesen, sondern auch hören lassen. Wer die Seite nicht sieht, schlecht sieht oder lieber mit der Tastatur arbeitet, soll hier ohne Umwege ankommen. Diese Seite sagt, was dafür getan ist und wo es noch hakt.
 
-**Stand 5. November 2026:** Neu sind die Bildbeschreibungen für alle Bilder, eine eigene Vorlesefassung ohne Ziffernketten, leise Belege und das Hören über den Assistenten mit Gliederung, Teilen und Kurzfassung.
+**Stand 7. November 2026:** Beim Hören über den Assistenten kommen Abschnitte jetzt am Stück, und du kannst ihm sagen, wie du vorgelesen werden willst. Seit dem 5. November gibt es die Bildbeschreibungen für alle Bilder, eine eigene Vorlesefassung ohne Ziffernketten, leise Belege und das Hören über den Assistenten mit Gliederung und Kurzfassung.
 
 ## Mit dem Screenreader
 
@@ -67,13 +67,16 @@ Der bequemste Weg führt gar nicht über die Seite. Die Gedankenwelten lassen si
 Manche Notes dauern vorgelesen eine Dreiviertelstunde, und überfliegen kann man beim Hören nicht. Darum gibt der Zugang dem Assistenten mehr als den Text:
 
 - **Erst die Gliederung.** Bittest du ihn, eine Note vorzulesen, nennt er zuerst, worum es geht, wie viele Abschnitte sie hat und wie lange jeder dauert. Dann fragt er, womit er anfangen soll. Du antwortest mit der Nummer („Abschnitt 4“) oder mit ein paar Worten aus der Überschrift („die Frage nach der Verantwortung“).
-- **Ein Teil nach dem anderen.** Längere Abschnitte kommen in Teilen, in den Panoramen etwa Sachstand, Die Stimmen und Die Reibung. Nach jedem Teil sagt er, was als Nächstes kommt und wie lange es dauert, und fragt, ob er weitermachen soll.
+- **Ein Abschnitt am Stück.** Meist liest der Assistent einen ganzen Abschnitt ohne Pause; die Reibung am Ende eines Panorama-Abschnitts gehört dazu, sie ist sein Fazit. Nur lange Abschnitte kommen in Stücken von höchstens etwa sechs Minuten. Danach sagt er, was als Nächstes kommt und wie lange es dauert.
 - **Anhalten und weiterhören.** Sag „Stopp“, wann immer du willst. Später geht es mit „Lies weiter ab den Stimmen“ oder „ab dem dritten Absatz“ an der Stelle weiter.
 - **Die Kurzfassung.** „Die Kurzfassung bitte“ bringt in etwa fünf Minuten, worum es geht, die schärfste Spannung jeder Frage und die Fragen zum Weiterdenken.
 - **Belege ohne Zahlenkolonnen.** Beim Vorlesen bleiben die Sätze ganz. Von einem Beleg hörst du nur, was für einer es ist, etwa „Preprint“. Am Ende eines Teils sagt der Assistent, wie viele Belege dahinterstehen. „Welche Quellen stehen dahinter?“ bringt sie dir.
-- **Genau oder frei.** Der Assistent erzählt gern mit eigenen Worten. „Lies wörtlich“ bringt den Text so, wie er in der Note steht.
+- **Fürs Ohr gelesen.** Was fürs Auge geschrieben ist, klingt vorgelesen oft holprig. Darum macht der Assistent aus Stichpunkten Sätze und sagt, wer spricht, bevor er sagt, was. Der Inhalt bleibt, wie er in der Note steht, Zitate wörtlich. „Lies wörtlich“ bringt den Text Wort für Wort.
+- **So, wie du hören willst.** Sag es einfach: „Halt öfter an“, „Lies ganze Abschnitte durch“, „Lass die Einordnungen der Studien weg“. Der Assistent fragt nicht jedes Mal nach, er liest erst einmal los. Viele Assistenten können sich Vorlieben merken; dann bitte ihn darum („Merk dir, dass ich ganze Abschnitte hören will“), und es gilt auch beim nächsten Mal.
 
-Wer den Zugang schon vor dem 5. November 2026 eingerichtet hat, verbindet ihn einmal neu (trennen und wieder hinzufügen). Dann kennt der Assistent die neuen Möglichkeiten.
+Das Gespräch mit dem Assistenten und das Vorlesen der Notes wollen wir vor allem für Menschen, die nicht oder schlecht sehen, Stück für Stück besser machen. Jeder Hörtest hat bisher etwas verändert. Wenn dir beim Zuhören etwas fehlt oder stört, sag es uns, unten steht, wie.
+
+Wer den Zugang schon vor dem 7. November 2026 eingerichtet hat, verbindet ihn am besten einmal neu (trennen und wieder hinzufügen). Dann kennt der Assistent alle Möglichkeiten.
 
 Die Antworten kommen von deinem Assistenten, mit seinen eigenen Worten. Wer es genau wissen will, lässt sich die Note selbst geben: Jede Antwort nennt den Link dazu. Notes zu schweren Themen tragen einen Hinweis auf kostenlose Hilfe, und der Assistent ist gebeten, ihn weiterzugeben.
 
