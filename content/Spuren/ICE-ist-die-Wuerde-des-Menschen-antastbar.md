@@ -209,7 +209,7 @@ werden **469 Haftorte**, die Website von ICE nennt 208 ([Vera](https://www.vera.
 ein Mensch, den ICE im Koma „entließ“ und darum nicht zählt. Das Haushaltsjahr 2026 ist mit 37 Toten das tödlichste
 seit Beginn der Zählung. Eine begutachtete Studie im JAMA zeigt die Kurve: Die Sterberate fiel von 127,7 je 100.000
 Personenjahre (2004) auf 23,6 (2013–16) und liegt im angebrochenen Haushaltsjahr 2026 wieder bei **88,9**
-([Basu et al., JAMA 2026, DOI 10.1001/jama.2026.3719](https://doi.org/10.1001/jama.2026.3719); die Zahlen stammen aus
+([Basu et al., JAMA 2026](https://doi.org/10.1001/jama.2026.3719); die Zahlen stammen aus
 Berichten über die Studie, der Volltext ist noch unter Embargo). Die Namen stehen im Register.
 
 ### 3. Das Verfahren
@@ -454,39 +454,35 @@ gleichwertig daneben.*
 
 Die größte Studie zu belastenden Kindheitserlebnissen, die ACE-Studie von 1998 mit über 9.500 Erwachsenen, zählt ein
 inhaftiertes Familienmitglied ausdrücklich zu den Belastungen. Wer vier oder mehr erlebt hat, trägt ein vier- bis
-zwölffach erhöhtes Risiko für Sucht, Depression und Suizidversuche ([Felitti et al., Am J Prev Med 1998,
-DOI 10.1016/s0749-3797(98)00017-8](https://doi.org/10.1016/s0749-3797(98)00017-8)). Eine Meta-Analyse über 37 Studien
+zwölffach erhöhtes Risiko für Sucht, Depression und Suizidversuche ([Felitti et al., Am J Prev Med 1998](https://doi.org/10.1016/s0749-3797(98)00017-8)). Eine Meta-Analyse über 37 Studien
 mit über 250.000 Menschen findet die stärksten Zusammenhänge bei Gewalt gegen andere und gegen sich selbst, mit einem
 mehr als siebenfachen Risiko, und die Autoren schreiben: *„The outcomes most strongly associated with multiple ACEs
-represent ACE risks for the next generation“* ([Hughes et al., Lancet Public Health 2017,
-DOI 10.1016/s2468-2667(17)30118-4](https://doi.org/10.1016/s2468-2667(17)30118-4)). Gewalt in der Kindheit wird so zur
+represent ACE risks for the next generation“* ([Hughes et al., Lancet Public Health 2017](https://doi.org/10.1016/s2468-2667(17)30118-4)). Gewalt in der Kindheit wird so zur
 Gewalt der nächsten Generation.
 
 Für Abschiebung selbst gibt es eine prospektive Studie mit 547 Latino-Jugendlichen, fast alle mit US-Pass: Wurde ein
 Familienmitglied festgenommen oder abgeschoben, hatten sie sechs Monate später mehr als doppelt so oft
 Suizidgedanken (27,9 % gegenüber 16,1 %), fast dreimal so oft Alkoholprobleme und doppelt so oft klinisch auffälliges
-Verhalten ([Roche et al., JAMA Pediatrics 2020, DOI 10.1001/jamapediatrics.2020.0014](https://doi.org/10.1001/jamapediatrics.2020.0014)).
+Verhalten ([Roche et al., JAMA Pediatrics 2020](https://doi.org/10.1001/jamapediatrics.2020.0014)).
 Ein systematisches Review über 21 Studien mit 9.620 Kindern in Einwanderungshaft findet 42 % Depression und 32 % PTBS
-und schließt: *„No period of detention can be deemed safe“* ([Priestley et al., Br J Psychiatry 2025,
-DOI 10.1192/bjp.2025.29](https://doi.org/10.1192/bjp.2025.29)). Nach einer Razzia in Tennessee stiegen bei Kindern
-Depression, Selbstverletzung und Suizidgedanken ([Heinrich et al., J Policy Anal Manage 2022,
-DOI 10.1002/pam.22443](https://doi.org/10.1002/pam.22443)). Nach der Razzia in Postville 2008 wurden Babys
+und schließt: *„No period of detention can be deemed safe“* ([Priestley et al., Br J Psychiatry 2025](https://doi.org/10.1192/bjp.2025.29)). Nach einer Razzia in Tennessee stiegen bei Kindern
+Depression, Selbstverletzung und Suizidgedanken ([Heinrich et al., J Policy Anal Manage 2022](https://doi.org/10.1002/pam.22443)). Nach der Razzia in Postville 2008 wurden Babys
 latinastämmiger Mütter häufiger mit zu niedrigem Gewicht geboren, die Angst wirkt bis in den Mutterleib
-([Novak et al., Int J Epidemiol 2017, DOI 10.1093/ije/dyw346](https://doi.org/10.1093/ije/dyw346); allein nur
+([Novak et al., Int J Epidemiol 2017](https://doi.org/10.1093/ije/dyw346); allein nur
 grenzwertig signifikant, getragen erst durch die Studien, die es wiederholt haben).
 
 Die Familientrennungen von 2018 sind der Vorläufer dessen, was heute geschieht: 5.512 getrennte Kinder. Forensische
 Gutachter fanden bei fast allen Untersuchten PTBS, Depression oder Angststörung, auch nach der Wiedervereinigung, und
 werteten die Trennung als Folter ([Physicians for Human Rights 2020](https://phr.org/our-work/resources/you-will-never-see-your-child-again-the-persistent-psychological-effects-of-family-separation/);
-begutachtet: [Hampton et al., PLoS ONE 2021, DOI 10.1371/journal.pone.0259576](https://doi.org/10.1371/journal.pone.0259576)).
+begutachtet: [Hampton et al., PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0259576)).
 Heute haben schätzungsweise **145.000 Kinder mit US-Pass** einen Elternteil in Abschiebehaft.
 
 > [!warning] Was das schwächt
 > Die Trauma-Forschung sagt Gruppen voraus, nicht Menschen. Zwei große Langzeitkohorten zeigen: ACE-Werte erklären
 > Unterschiede zwischen Gruppen, aber kaum, was aus dem einzelnen Kind wird ([Baldwin et al., JAMA Pediatrics 2021,
-> DOI 10.1001/jamapediatrics.2020.5602](https://doi.org/10.1001/jamapediatrics.2020.5602)). Schon die Pionierin der
+>](https://doi.org/10.1001/jamapediatrics.2020.5602)). Schon die Pionierin der
 > Forschung zum „Kreislauf der Gewalt“ schrieb 1989: *„the majority of abused and neglected children do not become
-> delinquent, criminal, or violent“* ([Widom, Science 1989, DOI 10.1126/science.2704995](https://doi.org/10.1126/science.2704995)).
+> delinquent, criminal, or violent“* ([Widom, Science 1989](https://doi.org/10.1126/science.2704995)).
 > Bei Jugendlichen, die durch Migration von ihren Eltern getrennt waren, klangen die Symptome nach fünf Jahren ab
 > (Suárez-Orozco et al. 2010), allerdings bei Trennung aus eigener Entscheidung, nicht durch den Staat. Für die Kinder
 > von 2018 und von heute gibt es **keine Langzeitstudie mit Vergleichsgruppe**. „Langzeitfolgen“ ist hier eine
@@ -495,29 +491,26 @@ Heute haben schätzungsweise **145.000 Kinder mit US-Pass** einen Elternteil in 
 ### Sterben in Haft
 
 Die Sterberate in ICE-Haft ist politisch gestaltbar. Sie fiel bis 2013–16 auf ein Viertel und liegt im angebrochenen
-Haushaltsjahr 2026 wieder fast viermal so hoch ([Basu et al., JAMA 2026, DOI 10.1001/jama.2026.3719](https://doi.org/10.1001/jama.2026.3719);
+Haushaltsjahr 2026 wieder fast viermal so hoch ([Basu et al., JAMA 2026](https://doi.org/10.1001/jama.2026.3719);
 die Zahlen aus Berichten über die Studie, Volltext unter Embargo). ICE-interne Todesfallprüfungen zeigen *„Grossly
-Substandard Care“*, ignorierte Warnzeichen und fehlende externe Kontrolle ([Parmar et al., Lancet Reg Health Am 2021,
-DOI 10.1016/j.lana.2021.100040](https://doi.org/10.1016/j.lana.2021.100040)). Schwer psychisch Kranke blieben im
+Substandard Care“*, ignorierte Warnzeichen und fehlende externe Kontrolle ([Parmar et al., Lancet Reg Health Am 2021](https://doi.org/10.1016/j.lana.2021.100040)). Schwer psychisch Kranke blieben im
 Schnitt 40 Tage in Einzelhaft, über der Grenze von 15 Tagen, ab der die UN-Mindestgrundsätze von Folter sprechen
-([Nwadiuko et al., J Gen Intern Med 2023, DOI 10.1007/s11606-023-08055-0](https://doi.org/10.1007/s11606-023-08055-0)).
+([Nwadiuko et al., J Gen Intern Med 2023](https://doi.org/10.1007/s11606-023-08055-0)).
 
 ### Kein Gewinn an Sicherheit
 
 Die große Studie zum Programm Secure Communities fand *„no observable effect on the overall crime rate“*
-([Miles & Cox, J Law Econ 2014, DOI 10.1086/680935](https://doi.org/10.1086/680935)). Städte, die nicht mit ICE
-kooperieren, schieben weniger ab, ohne dass die Kriminalität steigt ([Hausman, PNAS 2020,
-DOI 10.1073/pnas.2014673117](https://doi.org/10.1073/pnas.2014673117)). Stattdessen ziehen sich auch Familien mit
-US-Pass aus Gesundheits- und Sozialleistungen zurück, aus Angst ([Alsan & Yang, Rev Econ Stat 2024,
-DOI 10.1162/rest_a_01250](https://doi.org/10.1162/rest_a_01250)), und Opfer zeigen Verbrechen seltener an.
+([Miles & Cox, J Law Econ 2014](https://doi.org/10.1086/680935)). Städte, die nicht mit ICE
+kooperieren, schieben weniger ab, ohne dass die Kriminalität steigt ([Hausman, PNAS 2020](https://doi.org/10.1073/pnas.2014673117)). Stattdessen ziehen sich auch Familien mit
+US-Pass aus Gesundheits- und Sozialleistungen zurück, aus Angst ([Alsan & Yang, Rev Econ Stat 2024](https://doi.org/10.1162/rest_a_01250)), und Opfer zeigen Verbrechen seltener an.
 **Gegenstimme:** Kang & Song finden eine Senkung der Kriminalität, wenn auch die Nachbarkreise mitzogen
-([J Law Econ Organ 2021, DOI 10.1093/jleo/ewab013](https://doi.org/10.1093/jleo/ewab013)).
+([J Law Econ Organ 2021](https://doi.org/10.1093/jleo/ewab013)).
 
 ### Gewalt, die man exportiert
 
 Ab 1996 schoben die USA Gangmitglieder aus Los Angeles nach El Salvador ab. Dort wuchsen daraus MS-13 und Barrio 18,
 die Mordraten stiegen, und Kinder flohen vor genau dieser Gewalt zurück in die USA ([Sviatschi, American Economic
-Review 2022, DOI 10.1257/aer.20201540](https://doi.org/10.1257/aer.20201540)). Heute werden Menschen wieder in Länder
+Review 2022](https://doi.org/10.1257/aer.20201540)). Heute werden Menschen wieder in Länder
 geflogen, in denen ihnen Haft und Gewalt drohen; viele davon hatte ein US-Richter genau davor geschützt. Was mit
 ihnen geschieht, zählt niemand.
 
@@ -525,22 +518,20 @@ ihnen geschieht, zählt niemand.
 
 Was Menschen radikalisiert, ist nach der Forschung weniger Armut als erlebte Kränkung und Ungerechtigkeit. Eine
 Meta-Analyse findet für kollektive Benachteiligung und erlebte Ungerechtigkeit deutliche Zusammenhänge mit radikalen
-Absichten, für Bildung und sozialen Status keine ([Wolfowicz et al., Campbell Systematic Reviews 2021,
-DOI 10.1002/cl2.1174](https://doi.org/10.1002/cl2.1174)); Terroristen sind im Schnitt weder ärmer noch weniger gebildet
-([Krueger & Malečková, J Econ Perspect 2003, DOI 10.1257/089533003772034925](https://doi.org/10.1257/089533003772034925)).
+Absichten, für Bildung und sozialen Status keine ([Wolfowicz et al., Campbell Systematic Reviews 2021](https://doi.org/10.1002/cl2.1174)); Terroristen sind im Schnitt weder ärmer noch weniger gebildet
+([Krueger & Malečková, J Econ Perspect 2003](https://doi.org/10.1257/089533003772034925)).
 Wer sich nirgends zugehörig fühlt und Diskriminierung erlebt, ist anfälliger für radikale Angebote
-([Lyons-Padilla et al. 2015, DOI 10.1353/bsp.2015.0019](https://doi.org/10.1353/bsp.2015.0019)). Und die Radikalisierung
+([Lyons-Padilla et al. 2015](https://doi.org/10.1353/bsp.2015.0019)). Und die Radikalisierung
 füttert sich gegenseitig: Wo die Feindseligkeit gegen Muslime in Europa größer war, gemessen unter anderem am
 Stimmenanteil rechtsextremer Parteien, war auch die Sympathie für den IS im Netz größer ([Mitts, American Political
-Science Review 2019, DOI 10.1017/s0003055418000618](https://doi.org/10.1017/s0003055418000618)).
+Science Review 2019](https://doi.org/10.1017/s0003055418000618)).
 
 Staatliche Härte schreckt dabei selten ab. In Nordirland erzeugten britische Strategien zwischen 1969 und 1992
-überwiegend Gegengewalt; *„we find the strongest support for backlash models“* ([LaFree et al., Criminology 2009,
-DOI 10.1111/j.1745-9125.2009.00138.x](https://doi.org/10.1111/j.1745-9125.2009.00138.x)). In Israel standen repressive
+überwiegend Gegengewalt; *„we find the strongest support for backlash models“* ([LaFree et al., Criminology 2009](https://doi.org/10.1111/j.1745-9125.2009.00138.x)). In Israel standen repressive
 Maßnahmen in keinem Zusammenhang mit weniger Terror oder gingen ihm voraus, entgegenkommende Maßnahmen gingen mit
-weniger Terror einher ([Dugan & Chenoweth, American Sociological Review 2012, DOI 10.1177/0003122412450573](https://doi.org/10.1177/0003122412450573)).
+weniger Terror einher ([Dugan & Chenoweth, American Sociological Review 2012](https://doi.org/10.1177/0003122412450573)).
 Der Irak nach 2003 gilt vielen als Beispiel, wie die Demütigung einer ganzen Schicht den Boden für den IS bereitete
-([Pfiffner, Intelligence and National Security 2010, DOI 10.1080/02684521003588120](https://doi.org/10.1080/02684521003588120)).
+([Pfiffner, Intelligence and National Security 2010](https://doi.org/10.1080/02684521003588120)).
 Die Forschung ist sich dort aber nicht einig: Craig Whiteside hält die Linie von der aufgelösten Armee zum IS für
 überzeichnet.
 
@@ -606,14 +597,14 @@ Und doch gibt es Momente, in denen jemand den Fluss gestoppt hat:
   die Repression sie genährt hatte.
 - **Begegnung statt Vergeltung.** In zehn randomisierten Studien senkten Treffen zwischen Tätern und Opfern die
   Rückfälle, am stärksten bei Gewaltdelikten. Die Opfer wollten seltener Rache und litten weniger an PTBS
-  ([Strang et al., Campbell Systematic Reviews 2013, DOI 10.4073/csr.2013.12](https://doi.org/10.4073/csr.2013.12)).
+  ([Strang et al., Campbell Systematic Reviews 2013](https://doi.org/10.4073/csr.2013.12)).
   Es wirkt nur, wo beide Seiten zustimmen.
 - **Südafrika.** Wer die Wahrheit über die Apartheid annahm, war häufiger versöhnt, und Kontakt zwischen den Gruppen
-  trug dazu bei ([Gibson, AJPS 2004, DOI 10.1111/j.0092-5853.2004.00065.x](https://doi.org/10.1111/j.0092-5853.2004.00065.x)).
+  trug dazu bei ([Gibson, AJPS 2004](https://doi.org/10.1111/j.0092-5853.2004.00065.x)).
 
 **Ehrlich dazu:** Keiner dieser Wege ist leicht oder ohne Preis. In Sierra Leone stärkten Versöhnungsforen in einer
 randomisierten Studie über 200 Dörfer die Gemeinschaft, Vergebung und Zusammenarbeit wuchsen, und zugleich nahmen
-Depression und PTBS bei den Einzelnen zu ([Cilliers et al., Science 2016, DOI 10.1126/science.aad9682](https://doi.org/10.1126/science.aad9682)).
+Depression und PTBS bei den Einzelnen zu ([Cilliers et al., Science 2016](https://doi.org/10.1126/science.aad9682)).
 In Ruanda sind Zeugen der Gacaca-Gerichte kränker als andere. Wahrheitskommissionen allein verschlechtern die Lage der
 Menschenrechte eher; nur zusammen mit Prozessen und Amnestien helfen sie. Den Fluss zu stoppen heißt nicht, dass es
 nicht weh tut. Es heißt, dass der Schmerz nicht zum nächsten Stein wird.
