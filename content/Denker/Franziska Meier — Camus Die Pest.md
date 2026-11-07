@@ -263,6 +263,9 @@ Wie *Der Fremde* 1946 nach Amerika kam: mitgekauft, weil der Verlag eigentlich *
 ### → [[Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
 Was hinter Tarrous Satz steht, jeder trage die Pest in sich. Morisi verfolgt Camus' Kampf gegen die Todesstrafe von der Hinrichtung, nach der sich sein Vater erbrach, über Tarrou und die *Réflexions sur la guillotine* bis zu den Gnadengesuchen im Algerienkrieg.
 
+### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
+Ein Widerstand, der kein Heldentum sein wollte und nach dem Tod zum Heldenmythos wurde; die Frage, was eine Erzählung aus ihren Helfern macht.
+
 ---
 
 ## Weiterdenken

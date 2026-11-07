@@ -300,6 +300,9 @@ Bei van Tulleken sind aktivistische Investoren die Kraft, die einen Konzernchef 
 
 Roosen prüft aus der Konsumökonomie, was van Tullekens Forderungen leisten: Kennzeichnung wirkt klein, aber gerichtet; Werbegrenzen werden umgangen; eine Steuer wirkt vor allem über den Hersteller. Beide nehmen der Willenskraft ihre Unschuld — sie ohne Polemik, mit Elastizitäten.
 
+### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+
+Das Coca-Cola-Netzwerk steht nicht allein: Scobel stellt es in eine Reihe mit Keep America Beautiful und BPs Fußabdruck-Rechner, und sein Faktencheck zeigt, wie fest die Forschung zu Süßstoffen gerade ist.
 
 ---
 

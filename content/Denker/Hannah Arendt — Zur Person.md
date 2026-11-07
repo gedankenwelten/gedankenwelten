@@ -331,6 +331,8 @@ Göpel und Marinić beschreiben Vertrauen als die Hand, die man reicht, ohne zu 
 ### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
 Arendt fragt, ob man eine erkannte Wahrheit verschweigen darf. Bonhoeffer fragte 1943 in der Zelle, wann man sie verweigern muss, und prüfte dafür das Recht dessen, der fragt. Beide halten das Reinhalten der eigenen Person für kein legitimes Motiv.
 
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Fleming hält dagegen, die Nachrichten über Auschwitz seien seit 1942 da gewesen und es habe die Antwort gefehlt. Arendts Unglauben von 1943 zeigt, was zwischen Wissen und Glauben liegt.
 
 ---
 

@@ -302,3 +302,7 @@ Wagners leiseres Szenario hat in Halle einen ersten Wortlaut: Ein AfD-Lokalpolit
 ### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
 
 Die Gegenseite des Tatorts: Vom Gulag blieb kaum eine Baracke, Memorial suchte nach Stacheldraht unter dem Schnee. Putins Geschichtspolitik folgt der Mechanik der Umdeutung, Stalin kehrt verharmlost als „effektiver Manager“ zurück.
+
+### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
+Pileckis Netz in Auschwitz gab das Brot zuerst den Schwächsten und besetzte Kapo-Posten mit eigenen Leuten, genau die Grauzone, in der Wagner weder verurteilen noch Heldenlieder singen will.
+

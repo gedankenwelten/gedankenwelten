@@ -1333,3 +1333,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Kilian Hampel
 **Status:** ✓ Vollanalyse → [[DenkerVita/Kilian Hampel]]
+
+## Witold Pilecki
+**Status:** ✓ Vollanalyse → [[DenkerVita/Witold Pilecki]]
+
+## Michael Fleming
+**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Fleming]]

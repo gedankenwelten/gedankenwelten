@@ -210,6 +210,9 @@ Der Wärter, der „You're only getting out deported or dead“ sagt, und die Fo
 
 Arendt verortet das Erschreckende von 1933 bei den Freunden, die sich aus eigenem Antrieb gleichschalteten: Zu Hitler fiel ihnen „was ein“.
 
+### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
+Ein Widerstandsnetz im Lager, dessen Mitglieder danach ausgesucht wurden, ob sie selbstlos handelten; es zeigt, was die Retterforschung über Netzwerke sagt, und was Verweigerung einen Häftling kostete.
+
 ---
 
 ## Weiterdenken

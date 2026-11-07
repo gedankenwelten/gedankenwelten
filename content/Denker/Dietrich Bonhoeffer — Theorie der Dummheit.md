@@ -453,6 +453,9 @@ Bei Gaus zeigt Arendt die Kehrseite von Bonhoeffers Befund: Urteilslos wurden 19
 
 Das Gegenstück aus derselben Zeit: Wer der Dummheit widersteht, muss in der Verschwörung lügen. Huber legt Bonhoeffers Tegeler Essay über die Wahrheit aus, und dessen erste Prüfung, *wer mich zum Sprechen veranlasst*, ist das Gegengift zur Parole.
 
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Beamte, die genug wussten und es „beiseitelegen“ wollten: der historische Fall zu Schliessers Satz, dass auch Nicht-Handeln eine Handlung ist.
+
 ---
 
 ## Weiterdenken

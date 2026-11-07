@@ -470,6 +470,12 @@ Die sowjetischen Dissidenten stießen an „auf den Erfolg der hoffnungslosen Sa
 
 Scherbakowa verlegt die Wirkung auf die Nachfrage: Propaganda wirkt, wo Menschen glauben wollen. Die Forschung im Panorama zeigt die Angebotsseite: Sie wirkt, wo sie kein Gegenüber hat. Im heutigen Russland kann beides zugleich gelten, das Monopol und der Wunsch, sich die moralische Wahl zu ersparen.
 
+### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
+In Auschwitz kamen mit geschmuggeltem Brot Nachrichten herein, „England ist nicht gefallen“; Pileckis erster Auftrag war, die Gefangenen spüren zu lassen, dass draußen jemand an sie denkt.
+
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Das polnische Kriegsverbrechensbüro in London sammelte schon 1944 Anklagen, auch gegen Höß, und nach dem Krieg wurden daraus Prozesse: ein Beispiel, wann Dokumentieren für später trägt.
+
 ---
 
 ## Weiterdenken

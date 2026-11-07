@@ -216,3 +216,6 @@ Gouvernementalität als Mechanik hinter politischer Macht: Macht ohne Verbot, Fr
 
 Brown und Demirović/Lorey nutzen denselben Foucault-Begriff — aber von verschiedenen Seiten: Demirović/Lorey zeigen, wie neoliberale Gouvernementalität das Subjekt formt; Brown fragt, was aus dem *demos* wird, wenn alle Subjekte so geformt sind. Ihr "Undoing the Demos" ist die politiktheoretische Konsequenz aus der Gouvernementalitäts-Analyse.
 
+### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+
+Loreys Figur der Freiheit als Köder bekommt belegte Fälle aus dem Alltag, Keep America Beautiful, BP und Coca-Cola, und mit i-frame und s-frame eine Unterscheidung aus der Verhaltensforschung.

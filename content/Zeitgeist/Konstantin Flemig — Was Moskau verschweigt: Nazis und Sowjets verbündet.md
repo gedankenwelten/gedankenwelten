@@ -241,3 +241,7 @@ Das Gegenstück im Globalen Süden: Hanna Notte zeigt, wie Russland die antikolo
 ### → [[Irina Scherbakowa — Der lange Schatten des Stalinismus]]
 
 Die Memorial-Historikerin erzählt, wie der Sieg seit Breschnews Parade von 1965 zum „ideologischen Kleister“ wurde und Stalin als Sieger zurückkehrte. Der Pakt ist das Kapitel, das dieser Kleister überdecken muss.
+
+### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
+Ein Pole im Widerstand gegen beide Besatzer, später von den Kommunisten hingerichtet, und ein polnisches Gedenkgesetz von 2018, das sich neben das russische stellen lässt.
+

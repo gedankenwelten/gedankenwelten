@@ -206,6 +206,10 @@ Petersdorffs Kulturgeschichte der Leichtigkeit seit den 70ern ist das direkte ku
 
 Yu erklärt neurologisch, warum das linksliberale Menschenbild scheitert — dasselbe Modell, das Poschardt als moralisches Überlegenheitsgefühl angreift. Yus Befund, dass liberale und konservative Gehirne Ambiguität strukturell verschieden verarbeiten, unterfüttert Möllers' Prämisse, dass Demokratie als Aushandlungsprozess den unauflösbaren Dissens institutionell anerkennen muss statt aufzulösen.
 
+### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+
+Möllers' Kostenexternalisierung als durchgerechneter Fall: Die Schuld trägt der Einzelne, die Rechnung zahlen alle. Poschardts Staatskritik steht damit vor der Frage, wer das Regal gestaltet, wenn der Staat es nicht tut.
+
 ---
 
 ### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]

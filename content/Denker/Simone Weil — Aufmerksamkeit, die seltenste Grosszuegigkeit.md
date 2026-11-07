@@ -394,6 +394,9 @@ Gegen Weils „Einwurzelung“ steht Arendts „Was bleibt? Es bleibt die Mutter
 ### → [[Sibylle Anderl — Bequeme neue Welt#Bei uns, nicht beim anderen|Sibylle Anderl — Bequeme neue Welt]]
 Anderls Satz über den Chatbot, mit ihm sei man bei sich und nicht beim anderen, beschreibt das Gegenteil von Weils Aufmerksamkeit. Ihr Gegenmittel am Ende ist dasselbe wie Weils: der Moment, in dem man aufhört zu greifen und einfach schaut, bei ihr unter dem Sternenhimmel.
 
+### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
+In Auschwitz suchte Witold Pilecki seine Leute danach aus, ob sie teilten, mitten im Hunger. Eine Probe auf den Satz, Großzügigkeit komme nur aus der Fülle.
+
 ---
 
 ## Weiterdenken

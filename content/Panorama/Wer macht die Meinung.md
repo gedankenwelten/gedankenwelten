@@ -230,6 +230,9 @@ Der Snapshot neben diesem Panorama: drei Fälle, ein Bauplan, und das Kriterium,
 
 Scherbakowa legt die Wirkung der Propaganda auf die Nachfrage: Sie sei nur erfolgreich, wo Menschen ihr glauben wollen; die Formel „wir wurden angegriffen“ erspare ihnen die moralische Wahl.
 
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Ein Fall, in dem Absicht und Routine beide in den Akten stehen: beratende Zensur aus dem Ministerium, die die Redaktionen verinnerlichten.
+
 ---
 
 ## Weiterdenken

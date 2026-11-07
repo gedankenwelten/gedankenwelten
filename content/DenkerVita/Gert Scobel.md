@@ -116,6 +116,7 @@ Parteipolitisch tritt Scobel in den Notes nicht auf. Er hat aber über Politik g
 - [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]] — drei Wellen der Forschung, Nebenwirkungen, Jhana, Dōgen
 - [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]] — Wozu? und das Dasein ohne Zweck
 - [[Geistesblitz/Gert Scobel — Die Geister in der Maschine]] — Krakauers Exorzismus der Wissenschaft, Ryles Kategorienfehler, halluzinierte Quellen und die Intelligenzkränkung
+- [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]] — Zuckersteuer und Freiheitsargument, fünf Denkfehler der freien Wahl, i-frame und s-frame
 - [[Denker/Immanuel Kant — Was ist Aufklärung?]] — Fake News, Experten, Zweifel: Kant hatte recht
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 1]] — Kant, Aristoteles, Sokrates, Heraklit, Erasmus, Zhuangzi
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — Sartre, Camus, Wittgenstein, Arendt, Simone Weil

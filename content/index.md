@@ -22,6 +22,54 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+>
+> Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen.
+
+> **07.11.** — [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]]
+>
+> Ein Mann lässt sich 1940 verhaften, um in Auschwitz einen Widerstand zu bauen. Er sucht seine Leute danach aus, ob sie teilen. Und er bittet die Welt, das Lager zu bombardieren.
+
+> **07.11.** — [[Geistesblitz/Michael Fleming — Was die Alliierten wussten|Michael Fleming — Was die Alliierten wussten]]
+>
+> Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
+
+> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität: ein Motor und zwei Wächter]]
+>
+> Ein Motor mit zwei Rotoren, eine Drohne über dem Radweg, ein Ultraschall im Beton: Die Mobilitäts-Finalisten zeigen, dass das Neue im Land vor allem dem Erhalten des Alten dienen muss.
+
+> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt]]
+>
+> Ein Labor, das nachts weiterforscht, ein Rucksack, der mithebt, ein Telefon, das den freien Weg hörbar macht: Die KI-Finalisten zeigen, was Künstliche Intelligenz kann, wenn sie Dinge anfasst.
+
+> → *3 weitere in* [[Geistesblitz]]
+
+### Panorama
+
+> **07.11.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+>
+> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
+
+> **07.11.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
+
+> **07.11.** — [[Panorama/Wie weit darf der Staat lenken|Wie weit darf der Staat lenken?]]
+>
+> Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?
+
+> **06.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **06.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> → *19 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
@@ -46,30 +94,6 @@ Die Gedankenwelten (luc)
 
 > → *10 weitere in* [[Zeitgeist]]
 
-### Panorama
-
-> **06.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **06.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **06.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
->
-> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
-
-> **06.11.** — [[Panorama/Wo duerfen Jugendliche sein|Wo dürfen Jugendliche sein?]]
->
-> Ein Parkplatz vor der Krankenkasse, weil der Jugendclub nie kam. Was fehlt, wenn Jugendliche keinen Ort haben, ob ein Raum allein hilft, und wer ihn füllt, wenn ihn niemand füllt.
-
-> **06.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
->
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
-
-> → *17 weitere in* [[Panorama]]
-
 ### Spuren
 
 > **06.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
@@ -91,28 +115,6 @@ Die Gedankenwelten (luc)
 > **04.11.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
 > Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
-### Geistesblitz
-
-> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität: ein Motor und zwei Wächter]]
->
-> Ein Motor mit zwei Rotoren, eine Drohne über dem Radweg, ein Ultraschall im Beton: Die Mobilitäts-Finalisten zeigen, dass das Neue im Land vor allem dem Erhalten des Alten dienen muss.
-
-> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt]]
->
-> Ein Labor, das nachts weiterforscht, ein Rucksack, der mithebt, ein Telefon, das den freien Weg hörbar macht: Die KI-Finalisten zeigen, was Künstliche Intelligenz kann, wenn sie Dinge anfasst.
-
-> **05.11.** — [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit|NANO — Gehirnchips und Gedankenfreiheit]]
->
-> Ein Chip gibt einem stummen Vater die Stimme zurück. Dieselbe Technik könnte die letzte Mauer öffnen, die bisher jeden Gedanken schützte: den Schädel.
-
-> **03.11.** — [[Geistesblitz/Emergence — Das dunkle Wissen der KI|Emergence — Das dunkle Wissen der KI]]
->
-> Jede KI hat von Menschen gelernt, die niemand gefragt hat. Jetzt fürchten die Firmen, selbst abgeschrieben zu werden — und ein Saphir, ein Seidenfaden und ein Kuchen aus Farnsporen zeigen, was sich überhaupt kopieren lässt.
-
-> **01.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Made in Germany Awards 2026 — Medizin: drei Erfindungen und der lange Weg zum Menschen]]
->
-> Ein Nasenspray gegen das Vergessen, ein Labor in der Kartusche, Antikörper an einem Tag: Die Medizin-Finalisten zeigen, wie weit der Weg von der Maus zum Menschen ist.
 
 ### Denker
 

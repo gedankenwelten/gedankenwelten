@@ -299,6 +299,10 @@ Der Film setzt die Frage der billigen Kunst eine Ebene tiefer an, bei den Autore
 
 Die nächste Stufe nach der Uhr, die den Schlaf misst: ein Stirnband, das Hirnsignale liest, unsichtbar, ohne Operation. Surjo Soekadars Warnung „hinterher sind wir dümmer“ ist Anderls Rechnung für eine Bequemlichkeit, die im Kopf sitzt.
 
+### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+
+Scobel liefert die Unterscheidung, die Anderls Einwand schärft: Verdächtig ist der Schubs, der an die Stelle des Gesetzes tritt, und das sagen mit Chater und Loewenstein zwei aus der Nudge-Bewegung selbst.
+
 ---
 
 ## Weiterdenken

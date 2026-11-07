@@ -253,3 +253,7 @@ Kornmeier teilt Böhmes Predictive-Processing-Rahmen bis ins Detail — der Torw
 ### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
 
 Roosen zieht aus der Konsumforschung denselben Schluss wie Böhme aus der Hirnforschung: Aufklärung braucht Ressourcen, die eine verlockende Umgebung aufzehrt. Darum gehören Bildung und weniger Verlockung zusammen.
+
+### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+
+Die Parallele zum Fußabdruck, die Scobel hier im Gespräch andeutet, baut er später zu einem ganzen Essay aus; Böhmes „kein Entweder-Oder“ bekommt dort die Gegenposition und deren Grenze in den Daten.

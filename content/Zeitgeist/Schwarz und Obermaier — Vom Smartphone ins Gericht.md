@@ -228,6 +228,9 @@ Die Linkage Evidence von der anderen Seite: Im Sudan belegt ein forensisch gepr�
 
 Safferling erwartet, dass der Generalbundesanwalt die deutsche Mitverantwortung für Gaza „früher oder später“ prüft. Diese Note zeigt, wie weit die Behörde davon noch entfernt ist.
 
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Dieselbe These achtzig Jahre früher: Die Nachrichten über den Holocaust kamen an, es fehlte die Reaktion; Beweise seien notwendig, aber allein nicht ausreichend.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

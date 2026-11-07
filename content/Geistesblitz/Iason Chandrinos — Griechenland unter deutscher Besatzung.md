@@ -297,6 +297,9 @@ Varoufakis' Vater wurde ab 1945 vier Jahre in einem Lager festgehalten, weil er 
 ### → [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
 Chandrinos stellt fest, dass viele Deutsche Griechenland nur als Schuldenstaat kennen. Krüger zeigt, wie dieses Bild 2015 entstand: Die griechische Regierung kam in den Hauptnachrichten kaum zu Wort, es dominierte die Perspektive aus Berlin und Brüssel. Zusammen ergeben die beiden Notes eine doppelte Lücke. Über die Besatzung wusste man in Deutschland wenig, und in der Krise fragte man die Griechen kaum. Darum verstand man den Zorn nicht.
 
+### → [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]]
+Das polnische Spiegelbild: Dort tilgten die Kommunisten den nicht-kommunistischen Widerstand und erschossen Pilecki 1948; heute streiten Staat und Rechte um sein Bild.
+
 ---
 
 ## Weiterdenken

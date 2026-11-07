@@ -216,6 +216,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## F
 
+**[[DenkerVita/Michael Fleming|Michael Fleming]]** — Historiker (Polish University Abroad, London); die Nachrichten über Auschwitz kamen früh in London an, gebremst wurden sie dort, durch eine Zensur, die niemand befehlen musste
+
 **[[DenkerVita/Felwine Sarr|Felwine Sarr]]** — Ökonom, Philosoph, Musiker und Schriftsteller (Senegal / Duke University); *Afrotopia* — Afrikas Zukunft aus eigenen Quellen statt nachholender Entwicklung; Sarr-Savoy-Report zur Restitution kolonialer Kulturgüter; Mitgründer der Ateliers de la Pensée
 
 **[[DenkerVita/Fabian Bernhardt|Fabian Bernhardt]]** — Philosoph (FU Berlin, SFB „Affective Societies"); Philosophie der Rache als blinder Fleck der Moderne, Rache als reaktive Ursprungserfahrung von Moral
@@ -559,6 +561,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## P
 
 **[[DenkerVita/Bernd Pickert|Bernd Pickert]]** — Journalist, seit 1994 in der taz-Auslandsredaktion (USA, Lateinamerika, Menschenrechte); hält Trump nach den Midterms für keine lahme Ente und das Ergebnis für eine Brandmauerwahl
+
+**[[DenkerVita/Witold Pilecki|Witold Pilecki]]** — Widerstandskämpfer, ließ sich 1940 nach Auschwitz verhaften, um zu berichten; 1948 vom kommunistischen Regime hingerichtet, heute Staatsheld und umkämpftes Symbol
 
 **[[DenkerVita/Barbara Prainsack|Barbara Prainsack]]** — Politikwissenschaft (Universität Wien), versteht Solidarität als Praxis und Gestaltungsprinzip für Institutionen, von der Medizin über Daten bis zum Klima.
 

@@ -312,6 +312,9 @@ Blom erzählt den Wiener Antisemitismus um Lueger als Ressentiment des Schusters
 
 Leonhard zählt Deutschland nach dem 8. Mai 1945 zu den erfolgreichsten Lernprozessen nach einer Niederlage; Aly zeigt, wie viel Verdrängung zu diesem Lernen gehörte.
 
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Die andere Seite derselben Frage: was die Alliierten wussten und warum es in Großbritannien kaum in der Zeitung stand, während die BBC den Deutschen die Gräuel vorhielt.
+
 ## Eine eigene Reflexion
 
 Alys Vortrag endet nicht mit Beruhigung. Er zeigt, dass die Deutschen von 1933–45 keine andere Species waren. Dieselben Mechanismen — materielle Interessenbindung, Angst vor Konsequenzen, kollektive Verstrickung, die Logik des Kein-Weg-Zurück — sind keine historische Ausnahme.

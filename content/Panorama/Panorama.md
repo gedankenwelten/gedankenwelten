@@ -33,6 +33,7 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Wie weit darf der Staat lenken? *(wachsend)* | [[Wie weit darf der Staat lenken]] | ~25 |
 | Was bewirkt Meditation, und woran messen wir das? *(wachsend)* | [[Was bewirkt Meditation]] | ~15 |
 | Geopolitik *(wachsend)* | [[Geopolitik]] | ~30 |
 | Wie viel Reichtum verträgt eine Demokratie? *(wachsend)* | [[Wie viel Reichtum vertraegt eine Demokratie]] | ~40 |

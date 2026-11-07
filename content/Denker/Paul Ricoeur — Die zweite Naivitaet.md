@@ -249,6 +249,8 @@ Ricœurs Dreiklang aus Selbst, Nächstem und Drittem liest sich wie die Vermittl
 ### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
 Bonhoeffer verortet die Wahrheit in Beziehungen und nennt die Lüge eine Zerstörung der Wirklichkeit durch Worte und durch Schweigen. Ricœur sagt, der Lügner verrate sich, den anderen und die Sprache. Beide kennen die Wahl zwischen dem Übel und dem Schlimmeren, die man nicht mit leichtem Herzen trifft.
 
+### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
+Häftlinge baten 1940 darum, das Lager zu bombardieren, auch wenn sie dabei stürben, und 1944 lehnten jüdische Organisationen Bomben ab, um die Häftlinge zu schonen: eine Wahl zwischen dem Übel und dem Schlimmeren, von beiden Seiten.
 
 ---
 

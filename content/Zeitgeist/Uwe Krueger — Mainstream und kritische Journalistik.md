@@ -364,6 +364,9 @@ Die Frage nach den Ukrainern als eigener Stimme führt hierher, in *Isolieren od
 
 Wie Indexing in einer Pressekonferenz aussieht, zeigt die ZDF-Frage an Katherina Reiche: Der Journalist bietet ihr die zwei Positionen an, die in ihrer eigenen Partei streiten, und Oetting hält das für Versagen statt für Spiegelung.
 
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Ein historischer Fall für Gleichklang ohne Befehl: 1942 beriet der Informationsminister die Redakteure, und die Zurückhaltung beim Holocaust wurde zum „gesunden Menschenverstand“ der Leitmedien.
+
 ---
 
 ## Weiterdenken

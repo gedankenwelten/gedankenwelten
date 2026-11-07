@@ -312,6 +312,10 @@ Die Aktivistin Pöttinger beschreibt dort eine Klimabewegung, die schrumpft, und
 
 Welzers Satz von der höchsten Bildungsungleichheit des Westens trifft auf den Sachstand im Panorama: PISA 2025 misst eine der größten Herkunftslücken der OECD, ob die größte, ist eine andere Frage. Seine Lehrerinnen, die ihm halfen, obwohl sie nicht mussten, sind die Kehrseite derselben Statistik, die Großzügigkeit Einzelner dort, wo das System sortiert.
 
+### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+
+Welzers Sedativ bekommt einen Befund aus dem Experiment, den grünen Nudge, der die Zustimmung zur CO₂-Steuer senkt, und eine Grenze: Über viele Studien und Jahre zeigt sich die Verdrängung kaum.
+
 ---
 
 ## Weiterdenken

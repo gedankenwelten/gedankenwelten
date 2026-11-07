@@ -2,7 +2,7 @@
 title: "Wer bestimmt, wie erinnert wird?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-07
 description: "Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden."
 raetsel: "Ein Kranz kostet wenig. Teuer ist, wer ihn niederlegen darf."
 panorama-art: wachsend
@@ -70,6 +70,8 @@ Weicher ist die Stiftung Gedenkstätten: sieben Orte, darunter Bernburg, Langens
 
 Das AfD-Regierungsprogramm 2026 will die Landeszentrale durch ein „Landesinstitut für staatspolitische Bildung und kulturelle Identität“ ersetzen, Kriegerdenkmäler über einen Landesbeauftragten fördern, die Förderung für „Schule ohne Rassismus“ einstellen, „mehr 1813 und 1871“ in die Lehrpläne bringen und Vereine nur noch mit „Patriotismuserklärung“ fördern; die bisherige Erinnerung nennt es eine *„Verewigung eines Schuldkomplexes“* ([Programm, S. 55–61, 135 f.](https://afd-lsa.de/wp-content/uploads/2026/07/AfD_Sachsen-Anhalt_Regierungsprogramm_2026_230726-web.pdf); [Kai Langer, Gedenkstättenrundbrief 222](https://www.gedenkstaettenforum.de/aktivitaeten/gedenkstaettenrundbrief/detail/heil-dir-im-siegerkranz-wie-die-afd-in-sachsen-anhalt-den-bruch-mit-der-demokratischen-erinnerungskultur-vorbereitet)). Gedenkstätten kommen darin nicht vor. Im April 2026 warnten mehr als zwanzig Kulturinstitutionen des Landes gemeinsam vor einer „nationalistisch ausgerichteten Kulturpolitik“ ([Stellungnahme](https://stgs.sachsen-anhalt.de/fileadmin/Bibliothek/STGS/03_Presse/Pressemitteilungen/Pressemitteilungen_2026/PM_43_StGS_Gemeinsame_Stellungnahme_der_Kultursinstitutionen_16.04.26.pdf)). Zur Wirkung von Gedenkstätten gibt es bisher nur einen Preprint: Neue Gedenkorte zu NS-Verbrechen senken danach den Stimmenanteil der extremen Rechten um 0,55 bis 0,89 Punkte, getragen vom opferzentrierten Gedenken ([Lüssenheide 2025, Preprint, doi:10.31219/osf.io/eg59f](https://doi.org/10.31219/osf.io/eg59f)).
 
+Polen zeigt, wie weit eine Regierung gehen kann und was sie zurücknehmen muss. Im Januar 2018 stellte eine Novelle des IPN-Gesetzes unter Strafe, dem polnischen Volk oder Staat „wider die Tatsachen“ Mitverantwortung an NS-Verbrechen zuzuschreiben, mit bis zu drei Jahren Haft ([Dz.U. 2018 poz. 369](https://eli.gov.pl/eli/DU/2018/369/ogl)). Nach Kritik unter anderem von [Yad Vashem](https://www.yadvashem.org/press-release/27-january-2018-18-43.html) strich der Sejm die Strafbestimmung im Juni wieder, die zivilrechtliche Klage zum Schutz des „guten Namens“ blieb ([Dz.U. 2018 poz. 1277](https://eli.gov.pl/eli/DU/2018/1277/ogl)); die Forschung spricht von „mnemonischem Populismus“ (Kończal 2020, Fachaufsatz, [doi:10.1017/s1062798720000502](https://doi.org/10.1017/s1062798720000502)). Das 2017 gegründete staatliche Pilecki-Institut ließ die neue Regierung bestehen, setzte 2024 einen deutsch-polnischen Historiker an die Spitze, der es „deutlich reformieren“ sollte ([DW](https://www.dw.com/pl/nowy-dyrektor-o-instytucie-pileckiego-wymaga-znacz%C4%85cej-reformy/a-70690426)), und berief ihn im August 2025 nach Streit um Personal und Programm wieder ab ([PAP](https://www.pap.pl/aktualnosci/cienkowska-niedopelnienie-obowiazkow-powodem-odwolania-dyrektora-instytutu-pileckiego)). Eine Erinnerungseinrichtung kann also einen Regierungswechsel überleben und trotzdem zum Schauplatz jedes neuen Kurses werden.
+
 **Die Stimmen**
 
 - **[[Bartunek — Tillschneider vor der Synagoge in Halle#Die Drohung|Fabian Keubel]]:** Wer die AfD nicht hereinlässt, verliert die Förderung, und über die Gedenkkultur entscheidet dann die neue Regierung.
@@ -77,6 +79,7 @@ Das AfD-Regierungsprogramm 2026 will die Landeszentrale durch ein „Landesinsti
 - **[[Carsten Brosda — Naechste Demokratie#Weitermachen, wo die anderen aufgehört haben|Carsten Brosda]]:** Gute Tradition war, über Regierungswechsel hinweg an den Konsensen der Vorgänger weiterzubauen — nur sieht Kontinuität für den, der anders gewählt hat, wie eine folgenlose Wahl aus.
 - **[[Isabel Wilkerson — Race Caste and Social Justice#Berlin ohne Beschilderung|Isabel Wilkerson]]:** Das Mahnmal ohne Beschilderung funktioniert, weil jedes Kind die Geschichte in der Schule lernt; wer den Lehrplan schreibt, schreibt am Mahnmal mit.
 - **[[Philipp Blom — Die strauchelnde Welt#Der Schuster neben der Schuhfabrik|Philipp Blom]]:** Am schiefgestellten Lueger-Denkmal erklärt er seinem Sohn einen Antisemiten, der zugleich ein wichtiger Bürgermeister war; eine Stadt kann ihr Denkmal umdeuten, ohne es zu stürzen.
+- **[[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?|Jack Fairweather]]:** Polen durfte seine Helden fünfzig Jahre nicht ehren und holt es nach wie jedes Land, aber das Gesetz darüber, wie man vom Holocaust sprechen darf, hat Pileckis Geschichte zum Werkzeug der Politik gemacht.
 
 <details><summary>Weitere Stimmen (1)</summary>
 
@@ -114,6 +117,8 @@ Ein Gedenktag braucht Tote, und nach einem Bürgerkrieg liegen sie auf beiden Se
 
 Ob Schweigen den Frieden stützt oder den Streit vertagt, ist nicht entschieden. Belastbar ist ein enger Befund: Amnestien helfen nach Kriegsende und eingebettet in einen Friedensvertrag, für schwere Menschenrechtsverbrechen zeigen sie keine befriedende Wirkung ([Dancy 2018, doi:10.1017/s0020818318000012](https://doi.org/10.1017/s0020818318000012)); am ehesten verbessert sich die Lage, wo Prozesse und Amnestien zusammenkommen ([Olsen, Payne & Reiter 2010, doi:10.1353/hrq.2010.0021](https://doi.org/10.1353/hrq.2010.0021)). Für Spanien beschreibt Paloma Aguilar, wie die Erinnerung an den Bürgerkrieg die Transición zur Mäßigung trieb ([Monografie, doi:10.1515/9781782384854](https://doi.org/10.1515/9781782384854)). Zugleich wirkt Kriegsgewalt fort: Sie verstärkt Feindseligkeit gegen den früheren Gegner und die Bindung an die eigene Gruppe ([Barceló 2025, Meta-Analyse, doi:10.1017/s0003055425101299](https://doi.org/10.1017/s0003055425101299)), in Spanien über Generationen ([Balcells 2011, doi:10.1177/0032329211424721](https://doi.org/10.1177/0032329211424721)), und in griechischen Massakerorten kaufte man in der Schuldenkrise weniger deutsche Autos, stärker dort, wo der Staat das Gedenken anerkannt hatte ([Fouka & Voth 2022, doi:10.1017/s0003055422001095](https://doi.org/10.1017/s0003055422001095)). Eine Meta-Analyse zur Wirkung von Gedenktagen gibt es nicht.
 
+In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemten Soldaten“, für alle, die „mit der Waffe in der Hand wie auch auf andere Weise“ dem kommunistischen Regime widerstanden ([Dz.U. 2011 nr 32 poz. 160](https://eli.gov.pl/eli/DU/2011/160/ogl)); die Soziologen Krzysztof Jaskułowski und Piotr Majewski sehen darin einen verdeckten Ausdruck antijüdischer Vorurteile (2023, Fachaufsatz, [doi:10.1111/nana.12937](https://doi.org/10.1111/nana.12937)).
+
 **Die Stimmen**
 
 - **[[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Warum der Anfang gefeiert wird und nicht das Ende|Iason Chandrinos]]:** Gefeiert wird der letzte Tag der Einigkeit, und es sei „ziemlich problematisch“, die Erinnerung eines ganzen Jahrzehnts an einem Tag zusammenzufassen.
@@ -123,6 +128,7 @@ Ob Schweigen den Frieden stützt oder den Streit vertagt, ist nicht entschieden.
 - **[[Susanne Boshammer — Was heisst verzeihen#Schwamm drüber ist kein Verzeihen|Susanne Boshammer]]:** „Schwamm drüber“ ist Nachsicht plus Vergessen, Verzeihen benennt das Unrecht zuerst.
 - **[[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory#Der Krieg um die Erinnerung|Kimberlé Crenshaw]]:** Mit Frederick Douglass: Die Sache, die im Krieg gewonnen wurde, ging verloren, und die verlorene gewann, weil der Krieg um die Erinnerung länger dauert.
 - **[[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet#Das Schweigen danach — und seine Funktion heute|Konstantin Flemig]]:** Russland macht Katyn und den Hitler-Stalin-Pakt per Gesetz unsichtbar; wer Geschichte tilgt, muss sie nicht aufarbeiten.
+- **[[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?|Jack Fairweather]]:** Zwischen polnischem und jüdischem Erinnern an Auschwitz gebe es einen Wettstreit der Perspektiven; Pilecki, der als polnischer Häftling die Vorbereitung des Mordes an den Juden beschrieb, könne ein Brückenbauer sein.
 
 <details><summary>Weitere Stimmen (2)</summary>
 
@@ -144,6 +150,7 @@ Ob Schweigen den Frieden stützt oder den Streit vertagt, ist nicht entschieden.
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Wem gehört ein Gedenken?\|Nachtsitzung — TheTrumpWeek]] | Hegseth am D-Day 2026: Umdeutung (Yoder 2023, Couperus et al. 2022), Wirkung von Metaphern und Analogien (Brugman et al. 2019, Jimenez et al. 2021, Steen et al. 2014, Menon et al. 2025), Russlands 9. Mai |
 | 28.10.2026 | [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Wessen Tote werden erinnert?\|Chandrinos — Griechenland unter deutscher Besatzung]] | Eröffnet die vierte Frage. Griechenland: Ochi-Tag, Gesetz 1285/1982, Gesetz 1863/1989 und Aktenverbrennung 1989, Meligalas, 12. Oktober seit 2015 · Spanien (Davis 2005, Gesetze 2007/2022, Konkordienrecht 2024), Finnland 1940, 8. Mai (infratest 2020) · Olsen/Payne/Reiter 2010, Dancy 2018, Aguilar, Barceló 2025, Balcells 2011, Fouka & Voth 2022 |
 
+| 07.11.2026 | [[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?\|Simplicissimus — Der Freiwillige von Auschwitz]] | Polen: IPN-Gesetz 2018 und Rücknahme, Pilecki-Institut 2017–2025 (Ruchniewicz, Madaj), Gedenktag 1. März 2011 · Kończal 2020, Jaskułowski & Majewski 2023/2024 |
 
 ---
 

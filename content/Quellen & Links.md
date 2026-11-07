@@ -7,6 +7,15 @@ tags:
 ---
 
 
+## Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld (scobel, 2026)
+
+| | |
+|---|---|
+| **Video** | [Wie Konzerne dich zum Schuldigen machen – scobel](https://www.youtube.com/watch?v=lQXUZWGU0e0) — scobel, 05.11.2026, 38 Min |
+| **Studien** | [Chater & Loewenstein 2023, The i-frame and the s-frame](https://doi.org/10.1017/s0140525x22002023) · [Hagmann, Ho & Loewenstein 2019, Nudging out support for a carbon tax](https://doi.org/10.1038/s41558-019-0474-0) · [DellaVigna & Linos 2022, RCTs to Scale](https://doi.org/10.3982/ecta18709) · [Leopoldina FOKUS Adipositas 2026](https://www.leopoldina.org/fileadmin/Daten/Publikationen/Dokumente/2026_Leopoldina_FOKUS_Adipositas.pdf) |
+| **Notiz** | [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]] · [[DenkerVita/Gert Scobel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scobel_Zuckersteuer_Transkript.txt` |
+
 ## 3sat NANO — Gehirnchips und Gedankenfreiheit (05.11.2026)
 
 | | |
@@ -5673,3 +5682,19 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [Albert Camus contre la peine de mort : histoire d'un combat](https://www.youtube.com/watch?v=P3F5j7lt7JE) (Université Ouverte, Université de Cergy-Pontoise, 2012) |
 | **Notiz** | [[Eve Morisi — Camus gegen die Todesstrafe]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Morisi_PeineDeMort_Transkript.txt` (Auto-Untertitel, stark lückenhaft) |
+
+## Simplicissimus / Witold Pilecki, der Freiwillige von Auschwitz
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Der unmögliche Ausbruch aus Auschwitz](https://www.youtube.com/watch?v=gyEb8ErG5x8) (Simplicissimus, 01.10.2026) · Zweitquelle: [„The Volunteer“ with author Jack Fairweather](https://www.youtube.com/watch?v=j5dz3WOCCk4) (Museum of Jewish Heritage, 2019) · [Buchpremiere Pilecki-Institut Berlin](https://www.youtube.com/watch?v=iBVWyxhAGNA) (2022) |
+| **Notiz** | [[Simplicissimus — Der Freiwillige von Auschwitz]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Pilecki_Auschwitz_Transkript.txt` · `Fairweather_MJH_Transkript.txt` · `Fairweather_Berlin_Transkript.txt` |
+
+## Michael Fleming / Was die Alliierten über den Holocaust wussten
+
+| | |
+|---|---|
+| **Vortrag / Video** | [What the Allies knew about the Holocaust](https://www.youtube.com/watch?v=TZ7pGkR5trM) (Topographie des Terrors, Berlin, 02.06.2026, Moderation Elizabeth Harvey) |
+| **Notiz** | [[Michael Fleming — Was die Alliierten wussten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Fleming_Alliierte_Transkript.txt` (deutsche Untertitel der Topographie) · `Fleming_Alliierte_Transkript_en.txt` (englisches Original) |

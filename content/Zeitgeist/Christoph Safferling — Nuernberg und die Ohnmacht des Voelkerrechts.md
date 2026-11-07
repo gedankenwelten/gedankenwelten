@@ -459,6 +459,9 @@ Der Historiker nennt den Preis des Wegs vom Vergessen zur Strafe: Ein Frieden, d
 ### → [[Denker/Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
 Safferlings „schwerer Fehler“ hat eine lange Vorgeschichte. Albert Camus forderte schon 1946 eine weltweite Abschaffung der Todesstrafe durch die Vereinten Nationen und bat um Gnade auch für Menschen, die er verachtete; Morisi erzählt diesen Kampf von seinem Anfang, der Übelkeit eines Vaters nach einer Hinrichtung in Algier.
 
+### → [[Michael Fleming — Was die Alliierten wussten]]
+Wie das Material des polnischen Untergrunds schon im Krieg in Anklagen für die UN-Kriegsverbrechenskommission einging, bevor Nürnberg begann.
+
 ---
 
 ## Weiterdenken

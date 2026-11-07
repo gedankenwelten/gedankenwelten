@@ -339,3 +339,7 @@ Zwei Solar-Erklärer übertragen „Doubt is our product“ auf die Energiewende
 ### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Wie das Verschieben vom Befund aufs Etikett heute im Agrarstreit klingt, und wo die Unterscheidung von Kritik und Agitation an ihre Grenze kommt, zeigt die Debatte um die Krefelder Studie.
+
+### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+
+Neben den gesäten Zweifel tritt die zweite Antwort der Industrie aus demselben Jahr 1953: die Schuld, die man dem Kunden zuschiebt, „mit Scham als Begleitmusik“.
