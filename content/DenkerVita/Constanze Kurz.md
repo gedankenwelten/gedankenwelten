@@ -24,7 +24,7 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 
 **Werdegang:**
 - **Kindheit, Jugend und Studium in Berlin:** zunächst Volkswirtschaftslehre, dann Informatik
-- **2005–2011:** Wissenschaftliche Mitarbeiterin in der Arbeitsgruppe „Informatik in Bildung und Gesellschaft“ von Prof. [[DenkerVita/Wolfgang Coy|Wolfgang Coy]] an der Humboldt-Universität zu Berlin
+- **2005–2011:** Wissenschaftliche Mitarbeiterin in der Arbeitsgruppe „Informatik in Bildung und Gesellschaft“ von Prof. Wolfgang Coy an der Humboldt-Universität zu Berlin
 - **2013:** Promotion an der Humboldt-Universität mit einer Dissertation über Wahlcomputer: *Elektronische Wahlhelfer in der Demokratie: der Status quo bei politischen Wahlen*
 - **bis 2014:** Projektleiterin am Forschungszentrum Kultur und Informatik der HTW Berlin
 - **seit Februar 2015:** Redakteurin bei netzpolitik.org (Teilzeit)
@@ -103,6 +103,5 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] — re:publica 26 Vortrag mit Franziska Görlitz (GFF): technisch-juridische Analyse der Palantir-Gesetze in Deutschland
 - [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] — Jung & Naiv Folge 827: KI als stochastischer Papagei, Chatkontrolle, Vorratsdatenspeicherung und Palantir im Überblick
 - [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner]] — re:publica Vienna, Oktober 2026: Europa wendet sich von Palantir ab und behält die Dauer-Rasterung; Anthropic-Erlass, KI-Training mit Echtdaten
-- [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]] — Podium HMKV Dortmund, Januar 2014: Hochfrequenzhandel, Börsen als Datenhändler, der AP-Tweet von 2013 und die „Asymmetrie der Macht in Bezug auf Wissensvorsprünge“
 
 > [!note] Korrigiert am 29.10.2026: Die Kernthesen 4 und 6 stützten sich auf Aussagen, die Kurz so nicht macht (Gefährlichkeits-Scores, „ewige Kontaminationsquelle“); auch das Zitat „unvorhersehbare US-Regierung“ ist nicht belegt. Sie stehen jetzt so da, wie Kurz es in den Vorträgen sagt. Außerdem: Die Wahlcomputer brachte sie 2007 mit dem CCC vor das Bundesverfassungsgericht, ihre Dissertation folgte erst 2013.

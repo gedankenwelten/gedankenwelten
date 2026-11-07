@@ -28,10 +28,6 @@ Die Gedankenwelten (luc)
 >
 > Ein Mann ohne Wahlamt lenkt Amerikas Einwanderungsvollzug, und als Menschen sterben, gehen andere. Fault Lines verfolgt Stephen Millers Weg; fünf Monate später macht Trump ihn zum Stabschef.
 
-> **07.11.** — [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
->
-> Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
-
 > **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
 >
 > Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
@@ -44,7 +40,11 @@ Die Gedankenwelten (luc)
 >
 > Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen, und Paragrafen, die niemand mehr überblickt: Ronen Steinke über die Meinungsfreiheit, das Völkerrecht und den Streit um das Wort Genozid.
 
-> → *12 weitere in* [[Zeitgeist]]
+> **06.11.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
+>
+> Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
+
+> → *11 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -60,15 +60,15 @@ Die Gedankenwelten (luc)
 >
 > Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
 
-> **07.11.** — [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|Steuern Gefühle den Finanzmarkt?]]
+> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität: ein Motor und zwei Wächter]]
 >
-> Der Markt rechnet mit Zahlen, aber er bewegt sich mit Hoffnung und Angst. Ein Film über Tulpen, Dopamin und Herden und darüber, warum auch Maschinen das Gefühl nicht aus der Börse bekommen.
+> Ein Motor mit zwei Rotoren, eine Drohne über dem Radweg, ein Ultraschall im Beton: Die Mobilitäts-Finalisten zeigen, dass das Neue im Land vor allem dem Erhalten des Alten dienen muss.
 
-> **07.11.** — [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
+> **05.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|Made in Germany Awards 2026 — KI: drei Maschinen für die anfassbare Welt]]
 >
-> Die Systeme wissen nicht, was der Handel erreichen soll, aber sie machen es schrecklich schnell. Ein Podium von 2014 über Börsenalgorithmen, Wissensvorsprünge und eine Wirtschaft, die niemand ganz versteht.
+> Ein Labor, das nachts weiterforscht, ein Rucksack, der mithebt, ein Telefon, das den freien Weg hörbar macht: Die KI-Finalisten zeigen, was Künstliche Intelligenz kann, wenn sie Dinge anfasst.
 
-> → *5 weitere in* [[Geistesblitz]]
+> → *3 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
