@@ -20,7 +20,7 @@ Quelle: [In China lachen sie über unsere Energiewende - Tim Meyer & Jan Hegenbe
 > [!info] Wer spricht?
 > **Dr. Tim Meyer** — Energieexperte und Berater, promoviert am Fraunhofer ISE, früher Manager in der Solarindustrie und bis 2021 Vorstand der Naturstrom AG, heute im Vorstand des Bundesverbands Neue Energiewirtschaft (bne). Autor von *Strom — Über Nostalgie, Zukunft und warum der Markt längst entschieden hat*. Stammgast im Geladen-Podcast.
 >
-> **Jan Hegenberg** — Blogger ("Der Graslutscher"), Wissenschaftskommunikator und Autor. Betreibt seit 2014 einen der reichweitenstärksten deutschsprachigen Klima-Blogs. Bücher: *Weltuntergang fällt aus!* (2022), *Klima-Bullshit-Bingo* (2024). Entkräftet Klima- und Energiewendemythen mit Daten.
+> **Jan Hegenberg** — Blogger („Der Graslutscher“, seit 2014) und Autor, kein ausgebildeter Journalist, wie er selbst schreibt. Bücher: *Weltuntergang fällt aus!* (2022), *Klima-Bullshit-Bingo* (2024). Nimmt Scheinargumente gegen Klimaschutz und Energiewende auseinander.
 >
 > Beide berichten live aus China, wo sie Green-Tech-Unternehmen besucht und sich ein direktes Bild der industriellen Transformation gemacht haben.
 >
@@ -48,7 +48,7 @@ Was hier sichtbar wird, ist kein Pilotprojekt, sondern ein abgeschlossener Parad
 
 Besonders entlarvend: Bei einem Firmenbesuch erklärten Meyer und Hegenberg den chinesischen Gesprächspartnern, dass Erneuerbare in Deutschland als „grünes" oder „linkes" Thema gelten. Die Reaktion: fassungsloses Erstaunen. In China gibt es diese ideologische Zuschreibung schlicht nicht — es ist Industriepolitik, Punkt.
 
-[▶ 8:22](https://www.youtube.com/watch?v=7L_pDKVaMVE&t=502) — Jan Hegenberg erinnert daran, wie vor fünf Jahren in Podcast-Kommentaren „Dieter Diesel" warnte, die E-Auto-Strategie würde die deutsche Automobilwirtschaft zerstören. Jetzt passiere das Gegenteil: China überrollt die Welt mit elektrischen Produkten — nicht *trotz*, sondern *wegen* wirtschaftlicher Rationalität. Die tragische Ironie: Europas Zögerlichkeit basiert auf einer ideologischen Verkleidung dessen, was eigentlich ökonomischer Selbstschutz wäre.
+[▶ 8:22](https://www.youtube.com/watch?v=7L_pDKVaMVE&t=502) — Der Moderator des Geladen-Podcasts erinnert daran, wie beim Start des Podcasts vor fünf Jahren in den Kommentaren die „Dieter Diesel“ warnten, die E-Auto-Strategie der Grünen würge die deutsche Automobilwirtschaft ab [▶ 7:35](https://www.youtube.com/watch?v=7L_pDKVaMVE&t=455). Jetzt passiere das Gegenteil: China zeige „ohne einen Gedanken von Nachhaltigkeit“, dass man die Welt wirtschaftlich mit elektrischen Produkten überschütten kann. Für uns liegt darin die Ironie: Was hierzulande als grünes Anliegen verkleidet wurde, wäre eigentlich ökonomischer Selbstschutz gewesen.
 
 ---
 
@@ -162,7 +162,7 @@ Die Smart-Meter-Anekdote vom Anfang kehrt als Symbol zurück: Als Meyer einer ch
 - Carbon Brief / Lauri Myllyvirta — Analyse zu Chinas CO₂-Peak (Guardian-Artikel erwähnt)
 - Pakistan 20-GW-Solarboom — Referenz auf explosives Wachstum ohne politisches Programm
 - Jan Hegenberg: *Weltuntergang fällt aus!* (2022), *Klima-Bullshit-Bingo* (2024) — Bücher des Gesprächspartners
-- [Der Graslutscher](https://dergraslutscher.de) — Jan Hegenbergs Blog
+- [Der Graslutscher](https://graslutscher.de/) — Jan Hegenbergs Blog
 
 ---
 

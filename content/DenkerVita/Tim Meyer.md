@@ -46,7 +46,6 @@ tags: [denker-vita, energiepolitik, wirtschaft, geopolitik, deutschland]
 ### Markt hat längst entschieden
 - Erneuerbare Energien + Batterie sind die **günstigste Energieversorgungsform** weltweit — das ist keine politische, sondern eine ökonomische Entscheidung
 - Chinas Cleantech-Boom ist **Industrielogik**, nicht Klimapolitik — die setzen erneuerbare ein, weil es billiger ist
-- "Dieter Diesel"-Fraktion irrt: Nicht die Grünen gefährden die Automobilindustrie, sondern das Festhalten am Verbrenner
 
 ### China als Weckruf für Europa
 - Chinesische Industriepolitik ist **wettbewerblich organisiert**, nicht top-down kommunistisch: brutaler Wettbewerb zwischen Firmen, Städten, Provinzen — Kennzahlensysteme, Tier-One-Cities, Bürgermeister werden ausgetauscht

@@ -45,8 +45,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 24,
-   "aufrufe": 28
+   "leser": 21,
+   "aufrufe": 24
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -199,11 +199,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Bernhard-Poerksen",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
    "leser": 5,
    "aufrufe": 5
@@ -250,6 +245,11 @@
   },
   {
    "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Bernhard-Poerksen",
    "leser": 4,
    "aufrufe": 4
   },
@@ -330,8 +330,8 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 9,
-     "aufrufe": 10
+     "leser": 8,
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -655,8 +655,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 24,
-     "aufrufe": 28
+     "leser": 21,
+     "aufrufe": 24
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -809,11 +809,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 5,
      "aufrufe": 5
@@ -860,6 +855,11 @@
     },
     {
      "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1654,11 +1654,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
      "leser": 4,
      "aufrufe": 4
@@ -1735,6 +1730,11 @@
     },
     {
      "pfad": "/DenkerVita/Sebastian-Puschner",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "leser": 3,
      "aufrufe": 3
     },
