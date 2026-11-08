@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **08.11.** — [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+>
+> Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt.
+
 > **07.11.** — [[Zeitgeist/Al Jazeera — Stephen Millers Krieg|Al Jazeera — Stephen Millers Krieg]]
 >
 > Ein Mann ohne Wahlamt lenkt Amerikas Einwanderungsvollzug, und als Menschen sterben, gehen andere. Fault Lines verfolgt Stephen Millers Weg; fünf Monate später macht Trump ihn zum Stabschef.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
 
-> **06.11.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
->
-> Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen, und Paragrafen, die niemand mehr überblickt: Ronen Steinke über die Meinungsfreiheit, das Völkerrecht und den Streit um das Wort Genozid.
-
-> → *12 weitere in* [[Zeitgeist]]
+> → *11 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> → *20 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -140,7 +140,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Übelkeit, die der Vater vom Schafott mitbrachte, wurde zum moralischen Kompass des Sohnes. Ève Morisi verfolgt Camus' Kampf gegen die Guillotine, vom Roman bis zum Gnadengesuch.
 
-> → *4 weitere in* [[Denker]]
+> → *1 weitere in* [[Denker]]
 
 ### Kultur
 

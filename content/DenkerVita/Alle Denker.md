@@ -550,6 +550,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Bjoern Noelte|Björn Nölte]]** — Lehrer, Lehrerbildner und Schulaufsicht der Evangelischen Schulstiftung in der EKBO; Mitgründer des Instituts für zeitgemäße Prüfungskultur, mit Philippe Wampfler *Eine Schule ohne Noten* (2021): Lerndialoge, Portfolios und Feedforward statt Ziffern
 
+**[[DenkerVita/Anna-Verena Nosthoff|Anna-Verena Nosthoff]]** — Philosophin, Juniorprofessorin für Ethik der Digitalisierung an der Universität Oldenburg, Ko-Direktorin des Critical Data Lab; *Kybernetik und Kritik* (Suhrkamp 2026) — legt die kybernetische Steuerungslogik unter Plattformmacht, prädiktiver Analytik und den Weltbildern der Tech-Eliten frei
+
 ## O
 
 **[[DenkerVita/Frederik Obermaier|Frederik Obermaier]]** — investigativer Journalist (Panama Papers, Pulitzer 2017, paper trail media, ICIJ); Datenlecks, Steueroasen und digitale Beweise für Völkerstrafverfahren

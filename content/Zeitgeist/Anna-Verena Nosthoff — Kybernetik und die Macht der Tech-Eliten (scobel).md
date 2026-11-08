@@ -2,7 +2,8 @@
 date: 2026-03-27
 title: "Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)"
 description: "Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt."
-aktualisiert: 2026-04-05
+aktualisiert: 2026-11-08
+raetsel: "Das Thermostat weiß, wie warm es ist. Ob jemand friert, weiß es nicht."
 tags:
   - zeitgeist
   - kybernetik
@@ -12,7 +13,6 @@ tags:
   - digitalismus
   - ki
   - technokratie
-  - elon-musk
   - demokratie
   - year-2026
 aliases:
@@ -23,15 +23,32 @@ aliases:
 
 # Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)
 
-Quelle: [Warum Tech-Eliten so denken und was das für dich bedeutet – scobel im Gespräch: Anna-Verena Nosthoff](https://www.youtube.com/watch?v=cvZW3TD2jNE)
+![[assets/Anna-Verena-Nosthoff-Kybernetik-und-die-Macht-der-Tech-Eliten-scobel-banner.jpg|Federzeichnung auf fleckigem Papier: Ein kleines Holzschiff mit Kurbelrad und Messuhren statt Steuermann, rote Drahtschleifen laufen vom Segel zurück zum Ruder. An Bord gepunktete Figuren, am Rand eine mit rotem Herz.|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Feder und dünnes Aquarell wie in der *Zwitscher-Maschine*, Rosé, Ocker und verblasstes Indigo. Platons Staatsschiff, aber am Heck steht kein Steuermann mehr, sondern eine Apparatur aus Kurbel, Rad und Thermostat, deren roter Rückkopplungsdraht sich vom Segel zum Ruder schließt. Die Passagiere sind nur noch gepunktete Umrisse, Messpunkte; eine Figur mit gefülltem Herzen steht am Rand, halb außerhalb der Schleife — das, was aus dem Modell herausfällt. Klee, weil seine Maschinen zugleich Spielzeug und Mechanik sind: genau die leise Ironie, mit der man über Steuerungsträume lacht und erschrickt.
+
+*Prompt:* A wide horizontal banner in the style of Paul Klee's 'Twittering Machine': fine, trembling pen-and-ink lines over thin watercolor washes on warm, slightly stained paper. A small wooden ship drifts on a pale violet-grey sea. Instead of a helmsman, a delicate mechanical apparatus stands at the stern: a hand crank, a wheel, thin wires looping from the sails back into a round thermostat dial and down to the rudder again, a closed feedback circle drawn in red ink. On deck tiny passenger figures drawn only as dotted outlines, like scattered measurement points; one small figure with a solid filled heart stands at the very edge of the deck, half outside the loop. Above, a few stars and a crescent moon nobody looks at. Palette of muted rose, ochre, faded indigo and grey-violet. Childlike precision, quiet irony. No text, no realistic faces, no photorealism.
+
+</details>
+
+> [!abstract] Worum es geht
+> Kybernetik, die Lehre vom Steuern, ist als Wort fast vergessen und steckt als Logik in allem, von der Kaufempfehlung bis zur Rede von der unaufhaltsamen KI. Die Philosophin Anna-Verena Nosthoff erzählt im Gespräch mit Gert Scobel, wie sie aus der Flugabwehr des Zweiten Weltkriegs in Plattformen und Regierungsvorstellungen wanderte, und fragt, was dabei herausfällt: der Mensch, der nicht nur Datensubjekt ist, und der Unterschied zwischen Demokratie und Diktatur. Scobel spitzt zu, Nosthoff bleibt vorsichtiger. Wer was sagt, steht darum im Text dabei.
+
+Quelle: [Die geheime Steuerung, die niemand wählte – scobel im Gespräch: Mit Anna-Verena Nosthoff](https://www.youtube.com/watch?v=cvZW3TD2jNE) (März 2026; früherer Titel: „Warum Tech-Eliten so denken und was das für dich bedeutet“)
 
 > [!tip] Kanal unterstützen
-> Gert Scobels YouTube-Kanal ist stiftungsgefördert und werbefrei — philosophische Tiefe in Zeiten der Oberflächlichkeit. Unterstützenswert: [YouTube @scobel](https://www.youtube.com/@scobel)
+> Gert Scobels YouTube-Kanal wird laut Videobeschreibung von drei gemeinnützigen Organisationen finanziert: philosophische Tiefe in Zeiten der Oberflächlichkeit. Unterstützenswert: [YouTube @scobel](https://www.youtube.com/@scobel)
 
 > [!info] Wer spricht?
-> **Gert Scobel** — Philosoph (M.A. UC Berkeley), Journalist, zweifacher Grimme-Preisträger, Prof. für Philosophie & Interdisziplinarität (H-BRS Bonn-Rhein-Sieg). Leitete die 3sat-Sendung *scobel* 17 Jahre lang (2008–2025). Seit Sept. 2025 eigener YouTube-Kanal (produziert von Friedrich Küppersbusch / Probono Köln, gefördert durch Stiftungen) — dieses Video stammt aus dem neuen Kanal.
+> **Gert Scobel** studierte Theologie und Philosophie in Frankfurt am Main und Berkeley, ist Journalist und Honorarprofessor für Interdisziplinarität und Philosophie an der Hochschule Bonn-Rhein-Sieg; ausgezeichnet unter anderem mit dem Grimme-Preis 2005 und dem Grimme Online Award 2022 (Publikumspreis). Er leitete die 3sat-Sendung *scobel* von 2008 bis 2025, seit September 2025 betreibt er einen eigenen YouTube-Kanal (produziert von Friedrich Küppersbusch / Probono Köln). Dieses Gespräch stammt aus dem neuen Kanal.
 >
-> **Anna-Verena Nosthoff** — Juniorprofessorin für Ethik der Digitalisierung, Carl von Ossietzky Universität Oldenburg (seit 2024); Co-Direktorin des Critical Data Lab (Humboldt-Universität Berlin & Oldenburg, seit 2022). Promotion Uni Freiburg 2024; zuvor Forschungsaufenthalte an Princeton, LSE, Uni Wien. Buch: *Kybernetik und Kritik. Eine Theorie digitaler Regierungskunst* (Suhrkamp, 2026, ~700 Seiten) — bislang umfassendste Analyse der Vorgeschichte von KI-Hype, Cyberspace und datengetriebener Gesellschaft.
+> → [[DenkerVita/Gert Scobel|DenkerVita]]
+>
+> **Anna-Verena Nosthoff** ist Juniorprofessorin für Ethik der Digitalisierung an der Universität Oldenburg und Ko-Direktorin des Critical Data Lab (Humboldt-Universität Berlin und Oldenburg, seit 2022). Promoviert wurde sie 2024 in Freiburg; sie forschte an der LSE und in Princeton und lehrte 2018–2021 an der Universität Wien. Ihr Buch *Kybernetik und Kritik. Eine Theorie digitaler Regierungskunst* erschien im Februar 2026 bei Suhrkamp (800 Seiten); für Scobel ist es die bislang umfassendste Analyse der Vorgeschichte von KI-Hype, Cyberspace und datengetriebener Gesellschaft.
+>
+> → [[DenkerVita/Anna-Verena Nosthoff|DenkerVita]]
 
 ---
 
@@ -39,103 +56,116 @@ Quelle: [Warum Tech-Eliten so denken und was das für dich bedeutet – scobel i
 
 ### Das vergessene Zauberwort: Kybernetik
 
-[▶ 2:19](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=139)
+[▶ 3:05](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=185) — Scobel liest zu Beginn den Tweet vor, mit dem Nosthoffs Buch einsetzt. Der Datenwissenschaftler Alex Pentland vom MIT schrieb 2014, der Begriff Kybernetik sei am MIT verschwunden, „weil Kybernetik überall ist, wie Luft“. Kybernetik, die Wissenschaft von Steuerung und Regelung in Lebewesen und Maschinen, entstand in den 1940er Jahren. Als eigene Disziplin ging sie unter, ihre Logik aber schrieb sich in Informatik, Robotik, Sozialwissenschaften und KI ein.
 
-Kybernetik = die Wissenschaft von Steuerung und Regelung im Mensch und in der Maschine. Entstanden in den 1940er–50er Jahren, heute kaum noch als Begriff bekannt — gerade weil sie sich in alles eingeschrieben hat: Informatik, Robotik, Soziologie, Politikwissenschaft, KI. Alex Pentland (MIT): *"Der Begriff Kybernetik verschwand am MIT, weil Kybernetik über alles ist wie Luft."*
+Nosthoff fand den Tweet „ganz großartig“, weil er schildere, wie sich die Kybernetik „in den Hintergrund der digitalen Gesellschaften eingeschrieben hat“. Sie nennt das „eine Universalisierung bei einem gleichzeitigen Verschwinden“: Das Wort ging, die Logik blieb.
 
-Nosthoff: Der Begriff verschwand, die Logik blieb. Die Kybernetik ist heute die unsichtbare Grammatik der digitalen Gesellschaft.
+### Platon als Urahn: der Kybernetes (Steuermann)
 
-### Platon als Urahn: Der Kybernetes (Steuermann)
+[▶ 9:07](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=547) — Am Anfang steht Platons Gleichnis vom Staatsschiff. Der *Kybernetes*, der Steuermann, regiert nicht kraft Zustimmung, sondern kraft Wissen: Er muss Jahreszeiten, Himmel, Sterne und Winde kennen. Die Matrosen streiten und glauben, diese Kunst lasse sich gar nicht lernen.
 
-Platons Staatsschiff-Parabel als Ursprungsszene der kybernetischen Idee. Der *Kybernetes* (Steuermann) regiert nicht durch demokratische Zustimmung, sondern kraft Wissen — er muss Jahreszeiten, Winde, Sterne kennen. Die Matrosen (Bürger) streiten sich und glauben, dass sich diese Kunst gar nicht lernen lässt.
-
-Scobel: Elon Musk ist der moderne Kybernetes — er weiß, wohin er steuern muss (Raketen, Starlink, Grok, X). Alle anderen werden als *Himmelsschwätzer* verlacht.
-
-Nosthoff: Darin zeigt sich ein technokratisch-expertokratisches Staatsverständnis: Politik als Steuerungsaufgabe statt als demokratischer Konfliktprozess. Der Steuermann regiert über Informationsflüsse, nicht durch Konsens.
+Scobel holt das Bild in die Gegenwart [▶ 12:09](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=729): Elon Musk sei der moderne Kybernetes, er wisse, wohin er steuern müsse, mit Raketen, Starlink, Grok und seiner Plattform, und alle anderen würden, wie Platon sagt, als *Himmelsschwätzer* verlacht. Nosthoff sieht darin die Züge eines expertokratischen Modells und eines technokratischen Staatsverständnisses, das Regierung als etwas begreift, das sich über Technisierung vollzieht [▶ 12:55](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=775).
 
 ### Kybernetik und der Zweite Weltkrieg
 
-Die Frühkybernetik hatte militärische Wurzeln: Norbert Wieners *Antiaircraft Predictor* — ein teilautomatisiertes Flugabwehrgeschütz, das die Flugbahn feindlicher Piloten berechnen sollte. Innovative Lösung: Daten über vergangenes Verhalten von Piloten akkumulieren → Prognose über Zukunftsverhalten → Schuss vorausberechnen.
+[▶ 15:12](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=912) — Die Frühkybernetik hat militärische Wurzeln. Der Mathematiker Norbert Wiener, Begründer der Kybernetik, entwickelte im Zweiten Weltkrieg seinen *Antiaircraft Predictor*: ein Vorhersagegerät, das die Flugbahn feindlicher Flugzeuge vorausberechnen und ein teilautomatisiertes Flugabwehrgeschütz lenken sollte. Die Idee: Daten über das vergangene Verhalten der Piloten sammeln, daraus ihr künftiges Verhalten vorhersagen, den Schuss vorausberechnen.
 
-Daraus entstanden zwei Grundkonzepte der digitalen Gegenwart:
+Zwei Grundzüge der digitalen Gegenwart sieht Nosthoff hier angelegt:
 
-1. **Prädiktive Analytik** — das Verhalten von Subjekten erfassen, um Zukunftsverhalten vorherzusagen. Nosthoff: *"Das ist Amazon, Netflix, predictive policing — alles dieselbe Logik."*
+1. **Prädiktive Analytik.** Verhalten wird erfasst und zur Grundlage einer Prognose über das wahrscheinliche Zukunftsverhalten; dieselbe Logik präge heute den Überwachungskapitalismus [▶ 16:42](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1002). Scobel übersetzt das in den Alltag, mit dem „Netflix und Amazon … Programm“ und dem Windelkauf von gestern, und weiter zur Polizei: *predictive analytics* bei Straftätern [▶ 17:02](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1022).
 
-2. **Das neue Menschenbild** — Pilot und Maschine verhielten sich unter Beschuss wie ein Einheitssystem. Mensch und Maschine wurden analogisiert. Aus Beobachtung in einem spezifischen Kontext wurde ein universeller Anspruch: Menschen sind adaptive Entitäten, keine kantischen Vernunftsubjekte.
+2. **Das neue Menschenbild.** Pilot und Maschine verhielten sich unter Beschuss wie ein Einheitssystem, Mensch und Maschine wurden einander angeglichen. Aus einer Beobachtung in einem bestimmten Kontext wurde ein universeller Anspruch: Menschen als adaptive Wesen, nicht als kantische Vernunftsubjekte.
 
-Spannung: Wiener selbst konfliktierte mit John von Neumann darüber, ob Forschungsergebnisse der US-Regierung zugänglich gemacht werden sollten.
+Schon damals gab es Streit. Wiener geriet mit dem Mathematiker John von Neumann, einer prägenden Figur der Spieltheorie, darüber aneinander, ob Forschungsergebnisse der US-Regierung zugänglich gemacht werden sollten [▶ 14:27](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=867).
+
+> [!question] Weitergedacht
+> Wenn die Grundform aller Vorhersage lautet, aus vergangenem Verhalten das künftige zu errechnen — *wo hat in diesem Modell ein Mensch Platz, der sich ändert?*
 
 ### Kernbegriffe der kybernetischen Logik
 
-[▶ 28:08](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1688)
+[▶ 22:48](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1368)
 
-**Feedback / Rückkopplung** — Das Medium des anpassenden Verhaltens. Modell: Thermostat. Sollwert → Rückmeldung ob erreicht → Verhaltenskorrektur. *Purposeful behavior.*
+**Rückkopplung.** Nosthoff erklärt die Frühkybernetik am Thermostat [▶ 27:22](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1642): Es gibt einen Sollwert, zurückgemeldet wird, ob er erreicht ist, danach korrigiert sich das Verhalten. *Purposeful behavior*, zielgerichtetes Verhalten.
 
-**Homöostat** — Bereits Kybernetik zweiter Ordnung: Eine Apparatur, die über Integration von Störungen und Irritation neue Ordnungen erzeugt. Nicht mehr der externe Sollwert entscheidet, sondern das System beruhigt sich selbst durch permanente Unruhe.
+**Homöostat.** Für Nosthoff eine Apparatur, die „fast schon“ auf die Kybernetik zweiter Ordnung verweist [▶ 28:08](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1688): Sie verarbeitet Störungen und Irritationen immer wieder neu und sorgt so für eine neue Ordnung des Systems. Nicht mehr der äußere Sollwert entscheidet, das System beruhigt sich durch permanente Unruhe.
 
-**Kybernetik zweiter Ordnung** — Systeme nicht mehr von außen gesteuert, sondern Kontrollstrukturen internalisiert. Systeme können sich selbst Ziele setzen. Heinz von Foerster: der *Beobachter zweiter Ordnung* — der Beobachter muss sich selbst im Beschreibungsprozess beobachten. Luhmann entwickelte daraus die Systemtheorie.
+**Kybernetik zweiter Ordnung.** Systeme werden nicht mehr von außen gesteuert, sie verinnerlichen die Kontrolle und können sich selbst Ziele setzen. Der Kybernetiker Heinz von Foerster prägte dafür den *Beobachter zweiter Ordnung*, der sich selbst beim Beschreiben beobachten muss. (Niklas Luhmanns Systemtheorie knüpft daran an, das ist unsere Einordnung, im Gespräch fällt sein Name nicht.)
 
-Stafford Beers Satz: ***„The purpose of a system is what it does."*** — Die Operativität, nicht die deklarierten Ziele, ist das Entscheidende. Tech-Plattformen sind neutral, weil sie nur Information verarbeiten? Nein: Was sie tun, ist was sie sind.
+Vom Kybernetiker Stafford Beer stammt der Satz ***„The purpose of a system is what it does.“*** Was ein System tut, nicht was es erklärt, ist entscheidend. Auf Plattformen gewendet, die sich als neutral ausgeben, weil sie nur Information verarbeiten: Was sie tun, ist, was sie sind.
 
 ### Tech-Eliten als autoritäre Kybernetes
 
-**Musk als autoritärer Kubernetes** — Er nutzt kybernetische Logiken und Terminologien in autoritärer Semantisierung. X als *„kybernetische Superintelligenz."* Wir Menschen als *Cyborgs*. DOGE als Staatsmaschine, die durch Algorithmen effizienter werden soll. Nosthoff: Das Gegenteil von Effizienz — ein politisches Manöver zur Datenabschöpfung.
+[▶ 59:19](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3559) — Es sei „leider kein Zufall“, sagt Nosthoff, dass Musk kybernetische Begriffe ganz aktiv nutze: Wir Menschen seien Cyborgs, X sei eine „kybernetische Superintelligenz“. Die Begriffe tauchten wieder auf, aber „in der ganz klar autoritären Lesart“.
 
-**Longtermismus als strategische Ablenkung** — Hypothetische Zukunftsrisiken (feindliche KI, Asteroiden) werden über reale Gegenwartsprobleme (autonome Waffensysteme, Überwachung) gestellt. Dadurch: keine Regulierung bestehender Technologien.
+Scobel ergänzt eine „russische Form“ der Kybernetik, Stalins Ansatz und das, was Putin lange praktiziert habe: allen Seiten Geld geben und kurz vor der Wahl zeigen, „ob rechts oder links oder geradeaus, alles korrupt“ — „ich bin der eigentliche Steuer[mann]“ [▶ 60:04](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3604) *(belegt sind russische Verbindungen zu einzelnen Parteien, kein solches Muster → [[#Faktencheck|Faktencheck]])*.
 
-**Accelerationism** — Nick Lands rechtsradikaler Beschleunigungsansatz: totale Deregulierung zur Disruption bestehender Systeme, um Technoligarchie zu errichten (Seasteading, „Freedom Cities").
-
-**Putin als Kybernetiker der Widersprüche** — Rechte und Linke gleichzeitig finanzieren, beide vor der Wahl als korrupt enthüllen. Ziel: Das gesamte politische System deskreditieren — *„Ob rechts oder links, ich bin der eigentliche Steuermann."*
+Dann DOGE, Musks „Department of Government Efficiency“. Scobel urteilt hart: Die Effizienz sei „in keinster Weise“ gesteigert worden, DOGE habe die Monate genutzt, um „sämtliche Daten“ abzugreifen, ein „illegaler Move“, ein politisches Manöver, sich die Taschen voll zu machen [▶ 61:35](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3695) *(belegt ist der Zugriff auf Daten der Sozialversicherung, nicht „sämtliche Daten“ → [[#Faktencheck|Faktencheck]])*. Nosthoff formuliert vorsichtiger und grundsätzlicher [▶ 63:09](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3789): Technik sei immer in politische Kontexte eingebettet, und hier sei es „eine autoritäre Agenda“, die sich der Technisierung bediene. Und sie fragt, ob man ein Department of Government Efficiency überhaupt so nennen sollte, wenn es das Gegenteil von Effizienz ist.
 
 ### Die kritische Frage: Was fällt heraus?
 
-Nosthoff: Das kybernetische Modell hat einen Überschuss, den es nicht einfangen kann. Das Subjekt wird auf ein *Datensubjekt* reduziert — äußerliches Verhalten, nicht Introspektion. Was das Subjekt denkt, fühlt, innerlich motiviert ist, bleibt außen vor. Amazon-Empfehlungen, die sich *falsch anfühlen*, zeigen diesen Bruch.
+[▶ 44:53](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=2693) — Das kybernetische Modell beschreibt das Subjekt nicht mehr über Introspektion, die Befragung der Innerlichkeit oder der Handlungsgründe, sondern über sein äußeres Verhalten. Der Gedanke selbst scheint äußerlich passiv und geht in diesen Beschreibungen nicht auf. Dieselbe Reduktion findet Nosthoff in den algorithmischen Systemen der Gegenwart [▶ 45:39](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=2739): Aus angehäuften Daten wird ein Datenkörper geformt, ein *Datensubjekt*, das mit uns als real existierenden Menschen vielleicht gar nichts zu tun hat. Man merkt es an der Kaufempfehlung, bei der man das Gefühl hat, sie habe überhaupt nichts mit einem selbst zu tun.
 
-Scobel: Wolf Singer (Neurowissenschaftler) warnte früh — das Gehirn ist *kein* Computer. Die Gehirn-Computer-Analogie ist wissenschaftlich falsch, hat sich aber durchgesetzt.
+Scobel erinnert an den Hirnforscher Wolf Singer, der zu der Zeit, als die Neurowissenschaften Leitdisziplin waren, gewarnt habe: Der größte Fehler sei zu glauben, das Gehirn sei ein Computer. Diese Analogie sei aus Sicht der Neurowissenschaft „komplett falsch“, habe sich aber durchgesetzt [▶ 34:58](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=2098). Nosthoff nennt später das Gehirnmodell von McCulloch und Pitts: Modelle wie dieses bildeten die Realität nie ganz ab, zum Problem würden sie, wenn sie sich in Regierungslogiken einschreiben, „Fleisch werden“ [▶ 50:12](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3012).
 
-Nosthoff: Politische Kritik an der Kybernetik aus der Frankfurter Schule (Marcuse, Habermas): Technologien sind nicht neutral. Wer beschreibt Gesellschaft nur systemisch, verliert den Begriff der Klasse — und damit Ungleichheit und Ungerechtigkeit aus dem Blick.
+Und dann das Politische. Der Politikwissenschaftler David Easton, eine Schlüsselfigur der politischen Kybernetik, kam auf dieser Abstraktionsebene so weit, dass es in der systemischen Beschreibung „egal“ sei, ob es sich um eine Diktatur oder eine Demokratie handle; Nosthoff nennt das eine „völlig paradoxe Wendung“ [▶ 38:02](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=2282). Mit der Frankfurter Schule, mit Marcuse und Habermas, hält sie fest, dass Technik nicht neutral ist, und fragt: Wenn wir Gesellschaften nicht mehr mit Begriffen wie Klasse beschreiben, haben wir dann noch eine „politische Sensitivität für Ungleichheiten, für Ungerechtigkeiten“ [▶ 43:22](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=2602)?
 
-David Easton (politische Kybernetik): In der systemischen Beschreibung ist es *egal, ob Diktatur oder Demokratie*. Nosthoff: Genau diese Sensitivität müssen wir zurückgewinnen.
+> [!question] Weitergedacht
+> Ein Modell, in dem Diktatur und Demokratie gleich aussehen, ist nicht falsch, es ist blind an einer Stelle. *Welche Stellen sind in den Modellen blind, nach denen heute Plattformen und Behörden entscheiden — und wer würde es merken?*
 
 ### Das Dilemma der Kritik
 
-Soziale Bewegungen (Fridays for Future, Occupy) sind gezwungen, Tech-Plattformen zu nutzen, um Reichweite zu haben — und stabilisieren damit das System, das sie kritisieren. Nosthoff: *„Kybernetischer Kapitalismus speist Kritik in sich ein."*
+[▶ 57:02](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3422) — Soziale Bewegungen wie Fridays for Future sind gezwungen, sich auf genau den Plattformen zu organisieren, die sie kritisieren; Nosthoff findet das „tragisch“. Occupy Wall Street, das Scobel anspricht, entstand noch in einer Zeit, als soziale Netzwerke anders wahrgenommen wurden. Die Tragweite liege darin, dass „der kybernetische Kapitalismus in der Lage ist, … diese Kritiken am System auch in sich einzuspeisen“ [▶ 57:49](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3469).
 
-Digital Detox, Analog-Werden: Nosthoff hält das für individuelle Illusionen — das System hat es längst integriert. Die Lösung kann nicht individuell sein, sondern muss kollektiv-politisch sein: Demokratisierung der Plattformen.
+Scobel geht weiter: Entschleunigen, analog werden, Entnetzung seien „letztlich Täuschungen“, all das sei „in das System schon eingebaut“ [▶ 63:54](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3834). Nosthoff ist vorsichtiger [▶ 64:40](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3880): Digital Detox seien kurze Unterbrechungen Einzelner, die die Abhängigkeit nicht brechen. Schuld sei niemand, der Plattformen nutzt oder nutzen muss, sie würde da „niemanden dämonisieren“ [▶ 66:56](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=4016). Die Lösungen müssten kollektiv und politisch sein: „dass wir diese Plattform in irgendeiner Form demokratisieren“ [▶ 65:25](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3925).
+
+> [!question] Weitergedacht
+> Wenn ein System jede Kritik einspeisen kann — *woran würde man eine Kritik erkennen, die es nicht verdauen kann?*
 
 ### Ausblick: Was tun?
 
-Nosthoff plädiert für:
-- Ideologiekritik des *Technofaschismus* — kybernetische Terminologien dekonstruieren statt reproduzieren
-- Demokratische Regulierung von Plattformmonopolen
-- Inspiration durch **Stafford Beers Cybersyn-Projekt** (Chile, Allende-Ära): Kybernetik als Mittel zur demokratischen Partizipation statt zur Überwachung
-- **Barcelona-Modell**: Community-kontrollierte digitale Infrastruktur als Alternative zu Plattformkapitalismus
-- Neue Formen der Kritik — nicht Rückkehr zum Außenstandpunkt, sondern Störung, Unterbrechung, Fluchtlinien von *innen* — aber nicht im Musk-Sinn (Privatinteresse), sondern kollektiv
+[▶ 54:44](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3284) — Einen Ort außerhalb gibt es für die Kritik nicht mehr, wir alle hängen an feedbacklogischen Apparaten. Für Nosthoff ist das nicht ihr Ende. Es entstehen neue Figuren: Störung, Unterbrechung, die „Fluchtlinien“ von Deleuze und Guattari, die das System kurz aufweiten. Scobel hält dagegen, auch Musk habe mit DOGE eine Fluchtlinie konstruiert, allerdings eine im eigenen Interesse [▶ 55:30](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=3330).
+
+Was Nosthoff vorschlägt:
+
+- **Die Sprache prüfen.** Die Narrative der Tech-Eliten nicht nachsprechen, auch nicht die Rede von der unaufhaltsamen allgemeinen KI, die demokratisch nicht mehr einzuhegen sei: „wenn wir dieses Narrativ übernehmen, haben wir schon verloren“ [▶ 72:13](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=4333).
+- **Kollektiv statt individuell.** Die Plattformen demokratisieren, statt Einzelnen die Schuld zu geben (siehe oben).
+- **Handlungsfähig bleiben.** Konkrete Regulierungen seien möglich, gerade werde dazu viel gearbeitet [▶ 72:13](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=4333).
+- **Ein Hoffnungsschimmer.** Sie bemerke ein anderes, kritischeres Bewusstsein in der Debatte, auch bei jungen Leuten [▶ 69:56](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=4196), und bei den Verträgen mit Palantir fast schon einen „sehr breiten gesellschaftlichen Konsens“, dass sie ein Problem sind [▶ 70:42](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=4242).
+
+Am Ende zitiert Scobel aus dem Buch einen Satz des französischen Denkers Virilio: „In Zukunft muss man versuchen, das Negative dessen zu erkennen, was positiv zu sein scheint.“ Das sei Kritik 1.0. Er dreht den Satz um, als Kritik 2.0: das Positive dessen zu erkennen, was negativ zu sein scheint [▶ 73:46](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=4426).
+
+---
+
+## Was seither geschah
+
+*Stand: 08.11.2026*
+
+- **Das Buch.** *Kybernetik und Kritik* war bei der Aufnahme gerade erschienen; Suhrkamp führt inzwischen die 3. Auflage (Juni 2026, 800 Seiten, [Verlag](https://www.suhrkamp.de/buch/anna-verena-nosthoff-kybernetik-und-kritik-t-9783518300794)). Besprochen wurde es im Deutschlandfunk Kultur (26.02.), in der FAZ (21.03.), wo die Rezensentin Hannah Schmidt-Ott es lesenswert fand, und in der taz (11.04.) ([Übersicht bei Perlentaucher](https://www.perlentaucher.de/buch/anna-verena-nosthoff/kybernetik-und-kritik.html)).
+- **DOGE in Zahlen.** Der US-Rechnungshof hat DOGEs „Wall of Receipts“ geprüft, die Seite mit den gemeldeten Einsparungen (110 Mrd. Dollar, Stand Juli 2026): Manche Schätzungen sind falsch oder unbelegt, die Methode wurde für den Großteil der Verträge nicht angewandt, und bei 1,7 Mrd. Dollar für einen IT-Vertrag der Gesundheitsbehörde des Pentagons ist die Grundlage der Einsparung unbekannt ([GAO-26-108615](https://www.gao.gov/products/gao-26-108615)).
+- **Palantir in Deutschland.** Nosthoffs Eindruck vom breiten Konsens hat sich teils bestätigt: Das Bundesamt für Verfassungsschutz kauft seine Analysesoftware beim französischen Anbieter ChapsVision, die Bundeswehr setzt Palantir nicht ein ([Correctiv, 19.05.2026](https://correctiv.org/aktuelles/gesellschaft-2/2026/05/19/die-abkehr-von-palantir-hat-begonnen/)). Nordrhein-Westfalen hat erst im April 2026 neu ausgeschrieben und den Vertrag mit Palantir noch einmal verlängert; ist bis Oktober 2027 kein neuer Anbieter startklar, droht die nächste Verlängerung ([WDR, 07.11.2026](https://www1.wdr.de/politik/politik-in-nrw/palantir-software-100.html)). → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei|Kurz und Görlitz — Palantir und die deutsche Polizei]]
+- **Die unvermeidliche Superintelligenz.** Nosthoffs Einwand, die Rede von der unausweichlichen allgemeinen KI sei ein Narrativ, das man nicht übernehmen dürfe, verfolgt die Spur [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing]].
 
 ---
 
 ## Faktencheck
 
-> [!success] Bestätigt — Norbert Wiener und der Antiaircraft Predictor
-> Wieners Entwicklung eines statistischen Prognosemodells für Flugbahnen (1940–1942) ist historisch gut dokumentiert. Es gilt als Vorläufer der prädiktiven Analytik. Sein Buch *Cybernetics* (1948) begründete die Disziplin formell.
+> [!success] Bestätigt — Pentlands Tweet „wie Luft“
+> Alex „Sandy“ Pentland, Datenwissenschaftler am MIT, antwortete am 26.04.2014 auf Twitter auf die Frage, warum der Begriff am MIT verschwunden sei: „Cybernetics is everywhere, like air.“ Mit diesem Tweet beginnt Nosthoffs Buch. Im Transkript steht „über alles“, ein Hörfehler für „überall“. Quelle: [Nosthoff 2026, *Kybernetik und Kritik*, Leseprobe S. 11](https://res.cloudinary.com/suhrkamp/images/q_auto/v1766107701/162354/kybernetik-und-kritik_9783518300794_leseprobe.pdf)
 
-> [!success] Bestätigt — Kybernetik als Vorläufer von KI, Informatik und Soziologie
-> Die Verbindung Kybernetik → Informatik → Silicon Valley ist wissenschaftshistorisch gut belegt. Fred Turners *From Counterculture to Cyberculture* (2006) dokumentiert den Weg von der Kybernetik-Bewegung zur California Ideology der 90er Jahre.
+> [!success] Bestätigt, aber über Twitter und schon 2022 — Musks „kybernetische Superintelligenz“
+> Wenige Tage nach dem Kauf schrieb Musk am 3. November 2022, Twitter könne wegen der Milliarden wechselseitiger Interaktionen am Tag als „collective, cybernetic super-intelligence“ gelten. Quelle: [Musk auf X, 03.11.2022](https://x.com/elonmusk/status/1588081971221053440)
 
-> [!success] Bestätigt — Alex Pentland MIT-Tweet
-> Alex Pentland ist einer der meistzitierten Sozialwissenschaftler weltweit (H-Index >130). Er gilt als Pionier der Computational Social Science. Das Zitat über Kybernetik *„wie Luft"* entspricht seinem dokumentierten Denken.
+> [!success] Bestätigt — Wieners Flugabwehr-Prädiktor
+> Wieners Arbeit an einer statistischen Vorhersage von Flugbahnen für die Flugabwehr im Zweiten Weltkrieg ist gut aufgearbeitet, ebenso, wie daraus die Kybernetik hervorging ([Galison 1994](https://doi.org/10.1086/448747), Aufsatz in *Critical Inquiry*). *Cybernetics* erschien 1948. Dass der Prädiktor die prädiktive Analytik vorwegnimmt, ist Nosthoffs Deutung.
 
-> [!success] Bestätigt — Musk nennt X eine „kybernetische Superintelligenz"
-> Musk verwendete diesen Begriff öffentlich in mehreren Interviews und Social-Media-Posts 2023–2025, insbesondere im Zusammenhang mit Grok und X/Twitter.
+> [!success] Bestätigt — Von der Kybernetik zur digitalen Utopie
+> Der Historiker Fred Turner zeichnet den Weg von der Kybernetik über Stewart Brands Whole-Earth-Netzwerk zum digitalen Utopismus nach. Quelle: [Turner 2006, *From Counterculture to Cyberculture*](https://press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html)
 
-> [!warning] Vereinfacht — DOGE als reines Datengrabbing
-> Nosthoffs Interpretation (DOGE = politisches Manöver zur Datenabschöpfung) ist eine plausible kritische Deutung, aber nicht verifizierbar als *einziger* Zweck. Die massiven Effizienzprobleme und der Chaos-Charakter sind gut belegt; die strategische Intention bleibt Spekulation.
+> [!warning] Zugespitzt — DOGE „gescheitert“, „sämtliche Daten abgegriffen“ (Scobel)
+> Scobel sagt, DOGE habe die Effizienz „in keinster Weise“ gesteigert und die Monate genutzt, um „sämtliche Daten“ abzugreifen, ein „illegaler Move“. Ein Teil davon ist belegt: Im Januar 2026 bestätigte das US-Justizministerium, dass DOGE-Mitarbeiter in der Sozialversicherungsbehörde Daten unsachgemäß behandelt hatten, wie es ein Whistleblower gemeldet hatte ([PBS, 27.01.2026](https://www.pbs.org/newshour/show/whistleblower-responds-after-doj-confirms-doge-mishandled-social-security-data)). Der US-Rechnungshof fand, dass manche der gemeldeten Einsparungen falsch oder unbelegt sind ([GAO-26-108615](https://www.gao.gov/products/gao-26-108615)). „Sämtliche Daten“ und „illegal“ als Gesamturteil trägt das nicht. Nosthoff selbst spricht von einer autoritären Agenda.
 
-> [!success] Bestätigt — Stafford Beer, Cybersyn, Chile
-> Beers Cybersyn-Projekt (1971–1973) unter Allende war ein tatsächlich implementiertes kybernetisches Steuerungssystem für die Wirtschaft, das auf demokratische Partizipation ausgerichtet war. Es wurde nach dem Pinochet-Putsch 1973 zerstört. Gut dokumentiert in Eden Medinas *Cybernetic Revolutionaries* (2011).
-
-> [!warning] Vereinfacht — Longtermismus als rein strategische Ablenkung
-> Die Verbindung Longtermismus → bewusste Ablenkung von Regulierung ist eine kritische These (Nick Becksted, Nosthoff u.a.), aber Longtermisten (EA-Bewegung) würden widersprechen. Die Kritik ist berechtigt, aber als Intentionsaussage zu stark.
+> [!warning] Nicht belegt — Putin finanziere „rechts und links“ und entlarve beide vor Wahlen (Scobel)
+> Belegt sind Verbindungen zu einzelnen Parteien. 2014 lieh etwa eine russische Bank dem Front National neun Millionen Euro ([France 24, 23.11.2014](https://www.france24.com/en/20141123-france-far-right-turns-russian-lender-national-front-marine-le-pen)). Ein Muster, die Unterstützten kurz vor Wahlen bloßzustellen, um das ganze System zu diskreditieren, ist damit nicht belegt. Es ist Scobels Deutung.
 
 ---
 
@@ -179,7 +209,7 @@ Nosthoffs Datensubjekt ist Fromms *Haben*-Modus in Reinform: Der Mensch reduzier
 
 ### → [[Manfred Spitzer — KI, Gehirn und Lernen]]
 
-Spitzers und Wolf Singers Warnung vor der Gehirn-Computer-Analogie wird von Nosthoff historisch eingebettet: Diese Analogie entstand in den Macy-Konferenzen der 1940er Jahre als kybernetisches Kernprojekt
+Scobels Verweis auf Wolf Singers Warnung, das Gehirn sei kein Computer, bettet Nosthoff historisch ein: Die Analogie gehört zum Kern der Frühkybernetik, etwa im Gehirnmodell von McCulloch und Pitts. Spitzer dagegen arbeitet in seiner Note selbst mit dem Bild vom Gehirn als Rechner, eine Spannung, die sich lohnt.
 
 ### → [[Denker/Mbembe — The Earthly Community]]
 
@@ -207,7 +237,7 @@ Navidi zeigt, wie der kybernetische Machtanspruch der Tech-Eliten (Nosthoff) in 
 
 ### → [[scobel — Luhmann Abklaerung der Aufklaerung]]
 
-Luhmanns Systemtheorie ist ohne Kybernetik nicht denkbar — er lernte sie bei Parsons in Harvard. Nosthoff zeigt, wie dieselbe Denkfigur heute in Tech-Eliten-Ideologie umgebaut wird: Gesellschaft als kybernetisches System, das "optimiert" werden kann. Luhmann hätte das für eine gefährliche Vereinfachung gehalten — er beschrieb Systeme als operational geschlossen, nicht als steuerbar von außen.
+Luhmanns Systemtheorie ist ohne Kybernetik nicht denkbar — er lernte Systemtheorie bei Parsons in Harvard. Nosthoff zeigt, wie dieselbe Denkfigur heute in Tech-Eliten-Ideologie umgebaut wird: Gesellschaft als kybernetisches System, das "optimiert" werden kann. Wir vermuten, Luhmann hätte das für eine gefährliche Vereinfachung gehalten: Er beschrieb Systeme als operational geschlossen, nicht als steuerbar von außen.
 
 ### → [[Gilda con Arne — Rechte Milliardaere kaufen Medien]]
 
@@ -289,3 +319,14 @@ Wo das Datensubjekt an seine Grenze kam, setzen Gehirn-Computer-Schnittstellen a
 
 Wieners Prädiktor hat an der Börse Nachfahren. Auf einem Podium von 2014 zitiert das Kollektiv RYBN Wieners späte Warnung, das ökonomische Spiel folge Regeln, die niemand ganz versteht, und Wolfgang Coy zeigt, warum Vorhersage aus Vergangenem an der Überraschung scheitert.
 
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Platons Steuermann regiert kraft Wissen, und die Matrosen halten die Kunst für unlernbar. *Ist das Problem der Steuermann, oder dass die Matrosen aufgehört haben, segeln zu lernen?*
+> - Nosthoff will die Plattformen demokratisieren, Scobel hält jede Flucht für eingebaut. Wenn beide recht haben: *Wie sähe eine Plattform aus, über die Nutzer abstimmen, ohne dass auch die Abstimmung nur ein weiterer Datenpunkt wird?*
+> - Die Kybernetik verstand sich nach dem Krieg als Gegenprogramm zum Totalitarismus und landete bei Eastons „egal, ob Diktatur oder Demokratie“. *Kann eine Beschreibung, die sich neutral nennt, überhaupt vor dem schützen, was sie nicht beschreibt?*
+> - Ist das stärkste Gegenargument vielleicht, dass Steuerung durch Rückkopplung auch Gutes kann, vom Herzschrittmacher bis zum Frühwarnsystem? *Wo verläuft die Grenze zwischen einem Regelkreis, der dient, und einem, der regiert?*
+> - [[Geistesblitz/Fediverse - Die digitale Allmende|Das Fediverse]] wäre eine Plattform, die niemandem gehört, und trotzdem zieht es die Nutzer zu wenigen Großen. *Reicht es, wem ein Netz gehört, wenn die Logik der Aufmerksamkeit dieselbe bleibt?*

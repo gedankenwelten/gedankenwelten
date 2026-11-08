@@ -19,7 +19,7 @@ tags: [denker-vita, technologie, soziologie, demokratie, datenschutz]
 
 ## Biografie
 - **Beruf / Fachgebiet:** Soziologe (Dr. rer. soc.), Postdoc-Forscher; empirische Sozialforschung, Computational Methods, politische Soziologie
-- **Institution:** Center for Advanced Internet Studies (CAIS), Bochum — Research Associate in der Abteilung „Research Data & Methods", seit Mai 2024 kommissarische Teamleitung
+- **Institution:** Center for Advanced Internet Studies (CAIS), Bochum — Postdoc im Team „Research Data & Methods" (seit September 2025; von Mai 2024 bis September 2025 kommissarische Teamleitung, [CAIS-Profil](https://www.cais-research.de/team/marco-waehner/))
 - **Forschungsschwerpunkt:** Dezentrale Netzwerke — das Fediverse, Mastodon und das Tor-Netzwerk; politische Partizipation im Internet; Datenethik dezentraler Plattformen
 - **Werdegang:**
   - seit März 2022: Research Associate am CAIS (Research Data & Methods)

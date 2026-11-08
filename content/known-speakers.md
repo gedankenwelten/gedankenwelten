@@ -3,6 +3,9 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Anna-Verena Nosthoff
+**Status:** ✓ Vollanalyse — [[DenkerVita/Anna-Verena Nosthoff]]
+
 ## Barbara Prainsack
 **Status:** ✓ Vollanalyse — [[DenkerVita/Barbara Prainsack]]
 
