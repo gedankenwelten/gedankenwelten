@@ -46,6 +46,54 @@ Die Gedankenwelten (luc)
 
 > → *11 weitere in* [[Zeitgeist]]
 
+### Geistesblitz
+
+> **08.11.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+>
+> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
+
+> **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+>
+> Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen.
+
+> **07.11.** — [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]]
+>
+> Ein Mann lässt sich 1940 verhaften, um in Auschwitz einen Widerstand zu bauen. Er sucht seine Leute danach aus, ob sie teilen. Und er bittet die Welt, das Lager zu bombardieren.
+
+> **07.11.** — [[Geistesblitz/Michael Fleming — Was die Alliierten wussten|Michael Fleming — Was die Alliierten wussten]]
+>
+> Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
+
+> **07.11.** — [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|Steuern Gefühle den Finanzmarkt?]]
+>
+> Der Markt rechnet mit Zahlen, aber er bewegt sich mit Hoffnung und Angst. Ein Film über Tulpen, Dopamin und Herden und darüber, warum auch Maschinen das Gefühl nicht aus der Börse bekommen.
+
+> → *6 weitere in* [[Geistesblitz]]
+
+### Panorama
+
+> **08.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> **07.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **07.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **07.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> **07.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> → *18 weitere in* [[Panorama]]
+
 ### Spuren
 
 > **08.11.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
@@ -69,54 +117,6 @@ Die Gedankenwelten (luc)
 > Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
 
 > → *4 weitere in* [[Spuren]]
-
-### Geistesblitz
-
-> **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
->
-> Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen.
-
-> **07.11.** — [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]]
->
-> Ein Mann lässt sich 1940 verhaften, um in Auschwitz einen Widerstand zu bauen. Er sucht seine Leute danach aus, ob sie teilen. Und er bittet die Welt, das Lager zu bombardieren.
-
-> **07.11.** — [[Geistesblitz/Michael Fleming — Was die Alliierten wussten|Michael Fleming — Was die Alliierten wussten]]
->
-> Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
-
-> **07.11.** — [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|Steuern Gefühle den Finanzmarkt?]]
->
-> Der Markt rechnet mit Zahlen, aber er bewegt sich mit Hoffnung und Angst. Ein Film über Tulpen, Dopamin und Herden und darüber, warum auch Maschinen das Gefühl nicht aus der Börse bekommen.
-
-> **07.11.** — [[Geistesblitz/Coy, Kurz, Hunger, RYBN — Algorithmen die zocken|Algorithmen, die zocken]]
->
-> Die Systeme wissen nicht, was der Handel erreichen soll, aber sie machen es schrecklich schnell. Ein Podium von 2014 über Börsenalgorithmen, Wissensvorsprünge und eine Wirtschaft, die niemand ganz versteht.
-
-> → *5 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **07.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **07.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **07.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
->
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **07.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **07.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *18 weitere in* [[Panorama]]
 
 ### Denker
 

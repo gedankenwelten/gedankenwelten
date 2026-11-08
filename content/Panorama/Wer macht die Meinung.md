@@ -2,7 +2,7 @@
 title: "Wer macht die Meinung?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-08
 description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
 raetsel: "Das Band läuft aus der Presse in tausend Hände. Wo fängt der Satz an?"
 panorama-art: wachsend
@@ -86,6 +86,8 @@ Was ein Besitzerwechsel ausrichtet, steht schon im Nachbarpanorama: Nach den Üb
 
 In Deutschland misst der Medienvielfaltsmonitor der Landesmedienanstalten, wer wie viel Meinungsmacht hat. 2024 lagen vorn die ARD mit 20,3 Prozent, Bertelsmann mit 11,0, das ZDF mit 7,4, Springer mit 6,8 und KKR mit 6,4 ([Medienvielfaltsmonitor 2024](https://www.blm.de/files/pdf2/medienvielfaltsmonitor_2024.pdf)); die Plattformen erfasst er nur am Rand. Beim Geld ist die Verschiebung deutlicher: Google, Meta und Amazon nehmen 2025 knapp die Hälfte der deutschen Netto-Werbeumsätze ein, für 2026 sind 51,6 Prozent erwartet ([MEEDIA](https://meedia.de/news/beitrag/20912-google-amazon-und-meta-greifen-sich-51-6-prozent-der-gesamten-deutschen-werbeinvestitionen.html)). Das Geld, das früher Redaktionen trug, fließt an Unternehmen, die keine haben. In den USA entließ die Washington Post im Februar 2026 rund ein Drittel ihrer Belegschaft, nachdem ihr Besitzer Jeff Bezos das Meinungsressort auf „persönliche Freiheiten und freie Märkte“ verpflichtet hatte ([CNN](https://edition.cnn.com/2026/02/04/media/washington-post-layoffs)). Auf der Rangliste der Pressefreiheit fiel Deutschland 2026 auf Platz 14 ([zdfheute](https://www.zdfheute.de/politik/deutschland/pressefreiheit-rangliste-deutschland-reporter-ohne-grenzen-100.html)).
 
+Auch eine Öffentlichkeit ohne Besitzer konzentriert sich. Von gut 136.000 Twitter-Nutzern, die 2022 zu Mastodon wechselten, landeten 96 Prozent auf dem größten Viertel der Instanzen ([He u. a. 2023](https://doi.org/10.1145/3618257.3624819), begutachtetes Konferenzpaper). Wo Ehrenamtliche die Server betreiben, fallen sie oft aus; jede neunte Instanz war in einer frühen Messung mehr als die Hälfte der Zeit nicht erreichbar ([Raman u. a. 2019](https://doi.org/10.1145/3355369.3355572), Messstudie). Wer die Alternative tragen soll, ist auch rechtlich offen: Dem Betreiber von Mastodon entzog das Finanzamt 2024 die Gemeinnützigkeit ([Mastodon-Blog, April 2024](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)).
+
 **Die Stimmen**
 
 - **[[Martin Andree - Monopole zerstoeren unsere Demokratie#Die Neutralitätslüge — Plattformen verstärken die Ränder und dimmen die Mitte|Martin Andree]]:** Plattformen filtern, verstärken und dimmen, nennen sich aber neutrale Vermittler; ihre Monopole beruhen auf Rechtsprivilegien, die man abschaffen kann.
@@ -93,6 +95,7 @@ In Deutschland misst der Medienvielfaltsmonitor der Landesmedienanstalten, wer w
 - **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#USA Ellison, Bezos und das schrumpfende kritische Mediensystem|Gilda Sahebi und Arne Semsrott]]:** Milliardäre kaufen Medien als Verlustgeschäft; das Produkt ist die Politik.
 - **[[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Wem die Öffentlichkeit gehört|Robin Celikates]]:** Redaktionen haben relative Autonomie, der Korridor wird nur punktuell enger; die „linke Hegemonie“ im Rundfunk nennt er ein Märchen.
 - **[[Renee DiResta — Invisible Rulers#Lösungsansätze Was tatsächlich helfen kann|Renée DiResta]]:** Redefreiheit ist nicht Reichweitenfreiheit; jeder Algorithmus ist eine redaktionelle Entscheidung und könnte auch Brücken bauen.
+- **[[Fediverse - Die digitale Allmende#Trägt sich eine Allmende im Netz?|Marco Wähner und Ralf Stockmann]]:** Das Netz, das niemandem gehört, gibt es schon. Tragen sollen es Vereine und Verbände in gemeinschaftlicher Hand, und gewinnen wird es erst, wenn es mehr bietet als das Argument, dass es keinem Milliardär gehört.
 - **[[Poerksen und Goepel — Debatte neu denken#Fünf Mythen der Debattenkultur — Techniken der Abkühlung|Bernhard Pörksen]]:** Die Filterblase ist ein Mythos, das Problem ist der Filterclash, zu viel Konfrontation, nicht zu wenig.
 - **[[Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen#Freiheit, Sorgfalt, Schlaraffenland — was der ÖRR richtig macht|Topfvollgold]]:** Beim Privatsender hat „ein kleiner Teil in der Chefetage das letzte Wort“, im öffentlich-rechtlichen Rundfunk entscheiden Autoren und Redaktionen mit.
 - **[[Der leere Turm - wie Macht herrenlos wird#Der leere Turm|Der leere Turm]]:** „Ist Eigentum ohne Urteil noch Macht?“ Wer eine Maschine besitzt, die er nicht versteht, ist nominell Herr und faktisch Passagier.
@@ -203,10 +206,11 @@ Politisch aber formt Unterhaltung. In italienischen Gemeinden, die Berlusconis M
 | 16.10.2026 | [[Uwe Krueger — Netzwerke der Meinungsmacht#Nachbesprechung|Uwe Krüger — Netzwerke der Meinungsmacht]] | Beweist Nähe Einfluss? (van der Goot et al. 2021, Teney & Helbling 2014, Granovetter 1973) → *Lenkt jemand, oder lenkt die Routine?* · Wie aus einer Studie ein Beweis wird (BGH 2017, Ulfkotte, Neuberger, Sumner et al. 2014) → *Wann wird Misstrauen blind?* |
 | 28.10.2026 | [[FRONTLINE — Bannons War#Nachbesprechung|FRONTLINE — Bannon’s War]] | Erzähler oder Strippenzieher: wie misst man die Macht eines Netzwerkers? (Benkler/Faris/Roberts 2018, Berkman 2017, Luo et al. 2018, King et al. 2017, Vargo et al. 2018, Rydgren 2005, van Spanje 2010, Abou-Chadi & Krause 2020, Golder 2016, Brookings 2023) → *Lenkt jemand, oder lenkt die Routine?* |
 | 01.11.2026 | [[Edgar Morin — Das komplexe Denken#Nachbesprechung|Edgar Morin — Das komplexe Denken]] | Neue Frage „Macht Unterhaltung dumm?“: Durante 2019 (Mediaset), Olken 2009, Rahmani 2025, Gentzkow & Shapiro 2008, Kearney & Levine 2019, Pietschnig & Voracek 2015, Peterson & Kern 1996, Morgan & Shanahan 1997 · Morin, Adorno, Moukheiber, Mausfeld, Bonhoeffer |
+| 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Wen erreicht das Falsche? Konzentration auf wenige (Grinberg u. a. 2019), kaum Stimmenverschiebung (Allcott & Gentzkow 2017), aber Vertrauensverlust in Wahlen (Berlinski u. a. 2021, Clayton u. a. 2021); pauschaler Alarm stärkt den Ruf nach Redeverboten (Jungherr & Rauchfleisch 2024) |
 | 07.11.2026 | [[Michael Fleming — Was die Alliierten wussten#Zensur, die niemand befehlen musste\|Michael Fleming — Was die Alliierten wussten]] | Stimme ohne eigene Nachbesprechung: beratende, verinnerlichte Zensur in London 1942–44 (Bracken, BBC-Richtlinie, Times vs. Polish Jewish Observer) · Fleming 2014 |
+| 08.11.2026 | [[Fediverse - Die digitale Allmende#Nachbesprechung|Fediverse — Die digitale Allmende]] | Trägt sich eine Allmende im Netz? (Raman u. a. 2019, Anaobi u. a. 2023, Frey & Sumner 2019, Halfaker u. a. 2013; Gemeinnützigkeit entzogen 2024, Sovereign Tech Fund 2026, IFTAS 2025) · Warum bleibt man, wo man ist? (He u. a. 2023, Ng & Ray 2025, Wang u. a. 2026, Quelle u. a. 2025, Fiesler & Dym 2020); Sachstand und Stimme in „Wem gehört die Öffentlichkeit?“ |
 
 ---
-| 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Wen erreicht das Falsche? Konzentration auf wenige (Grinberg u. a. 2019), kaum Stimmenverschiebung (Allcott & Gentzkow 2017), aber Vertrauensverlust in Wahlen (Berlinski u. a. 2021, Clayton u. a. 2021); pauschaler Alarm stärkt den Ruf nach Redeverboten (Jungherr & Rauchfleisch 2024) |
 
 ## Verbindungen
 
