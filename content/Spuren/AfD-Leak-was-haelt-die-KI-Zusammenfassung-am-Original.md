@@ -11,10 +11,10 @@ tags:
   - datenschutz
   - year-2026
 status: offen
-konfidenz: 60%
+konfidenz: 62%
 review-takt: 14-tage
 eroeffnet: 2026-10-22
-aktualisiert: 2026-10-22
+aktualisiert: 2026-11-08
 description: "Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen."
 raetsel: "Wer nur die Zusammenfassung liest, liest den, der zusammengefasst hat."
 ---
@@ -32,13 +32,13 @@ raetsel: "Wer nur die Zusammenfassung liest, liest den, der zusammengefasst hat.
 </details>
 
 > [!abstract] Worum es geht
-> Im September 2026 kopierte ein Unbekannter zehn Postfächer der AfD, rund 421.000 Mails aus dreizehn Jahren. Veröffentlicht hat er zweierlei: die Rohdaten als Torrent und, daneben, eine durchsuchbare **KI-Zusammenfassung**. Darin steht zu jeder Mail eine Inhaltsangabe und eine von vier Schweregrad-Stufen, die ein Modell vergeben hat. Fast alle, die schnell berichten, lesen die Zusammenfassung, denn die Rohdaten enthalten Ausweise und Kontoauszüge. Die Zusammenfassung stammt aber von jemandem, der nach eigenen Worten die AfD bloßstellen will. Diese Spur legt vier konkrete Fälle aus der Zusammenfassung fest und wartet, was Redaktionen mit Zugang zum Original dazu finden.
+> Im September 2026 kopierte ein Unbekannter zehn Postfächer der AfD, rund 421.000 Mails aus dreizehn Jahren. Veröffentlicht hat er zweierlei: die Rohdaten als Torrent und, daneben, eine durchsuchbare **KI-Zusammenfassung**. Darin steht zu jeder Mail eine Inhaltsangabe und eine von vier Schweregrad-Stufen, die ein Modell vergeben hat. Fast alle, die schnell berichten, lesen die Zusammenfassung, denn die Rohdaten enthalten Ausweise und Kontoauszüge. Die Zusammenfassung stammt aber von jemandem, der anfangs erklärte, die AfD bloßstellen zu wollen; ein mutmaßlicher Urheber sagt inzwischen, es sei zunächst nicht um Politik gegangen (→ Verlauf 08.11.). Diese Spur legt vier konkrete Fälle aus der Zusammenfassung fest und wartet, was Redaktionen mit Zugang zum Original dazu finden.
 
 ---
 
 ## Die These
 
-> **Stand (Konfidenz 60 %):** Die KI-Zusammenfassung des Hackers gibt die Originale **im Kern richtig** wieder. Wo Redaktionen mit Originalzugang einen ihrer Fälle prüfen, finden sie das Beschriebene, vielleicht zugespitzt, aber nicht erfunden.
+> **Stand (Konfidenz 62 %, seit 08.11.2026):** Die KI-Zusammenfassung des Hackers gibt die Originale **im Kern richtig** wieder. Wo Redaktionen mit Originalzugang einen ihrer Fälle prüfen, finden sie das Beschriebene, vielleicht zugespitzt, aber nicht erfunden.
 
 Warum über fünfzig: Die ersten Funde, die CORRECTIV selbst an Metadaten und Registern geprüft hat (Parteiausschlüsse wegen Hakenkreuz-Fahnen, die „Antifa-Liste“, Russland-Reisen), passen in Art und Ton zu dem, was die Zusammenfassung zeigt. Der Kern des Weidel-Spendenfalls ist seit 2018 öffentlich belegt.
 
@@ -90,6 +90,79 @@ Vier Fälle, die IT-Mario am 21.10.2026 aus der Zusammenfassung vorgestellt hat 
 
 ## Verlauf
 
+### 2026-11-08 — Ein Fall von vier am Original (Konfidenz 60 % → 62 %)
+
+**Befund:** *(1) Die Prüffälle.* **P4** hat eine Redaktion mit Originalzugang aufgegriffen. ZDF frontal schreibt mit
+OCCRP, Spiegel und Standard am **23.10.**, viele Mails trügen eine digitale Signatur, die sich auf Echtheit abgleichen
+lasse, und zitiert aus dem Protokoll einer Sonderkonferenz des Landesvorstands vom November 2018. Darin sagt der damalige
+Landesschatzmeister über Weidel: *„Sie behauptet, dass sie nichts von der Spende wusste. Ich weiß, dass sie es wusste.“*
+Das ZDF fügt hinzu: *„Ausweislich des Protokolls nannte er dafür keine Belege.“* Weidels Sprecher sagt, sie revidiere
+keine ihrer Aussagen ([ZDFheute, 23.10.](https://www.zdfheute.de/politik/deutschland/weidel-afd-spenden-affaere-leaks-100.html)).
+Die „98-prozentige Wahrscheinlichkeit“ und der Beschluss, „im Angriffsmodus“ zu antworten, stehen dort nicht und waren
+auch sonst in keinem lesbaren Bericht zu finden. NDR und WDR, t-online und andere berichten am selben Tag über Mails vom
+Juli 2017 („Es wurden mir Spenden avisiert“), nicht über das Protokoll
+([tagesschau, 23.10.](https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-weidel-100.html)). **P1, P2 und P3** hat
+bis heute keine Redaktion mit Originalzugang aufgegriffen. Fälle mit ähnlichem Muster (ein Missstand wird gemeldet, die
+Gliederung deckt ihn) berichten Focus, CORRECTIV und ZDF aus Nordrhein-Westfalen
+([Focus, 23.10.](https://www.focus.de/politik/deutschland/hass-haeme-nazi-sprech-das-steht-alles-in-den-afd-mails_89605ae3-b033-4007-8541-489cc342c357.html) ·
+[CORRECTIV, 28.10.](https://correctiv.org/aktuelles/afd/2026/10/28/afd-leak-verfassungsschutz-parteiverbot/) ·
+[ZDFheute, 22.10.](https://www.zdfheute.de/politik/deutschland/afd-leaks-hakenkreuz-partei-ausschluss-100.html)); sie
+gehören nicht zu den vier Fällen.
+
+*(2) Die Echtheit der Rohdaten.* Mehrere Redaktionen haben unabhängig abgeglichen, keine meldet Manipulation. Der WDR
+glich mit eigenen Recherchedaten seit 2015 ab, *„bisher keine Auffälligkeiten“*
+([WDR, 23.10.](https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-mails-geleaked-diese-rolle-spielte-die-afd-nrw-beim-mail-leak-100.html)).
+Ein Handelsblatt-Reporter fand eine eigene Mail von 2016: *„Datum, Uhrzeit und Wortlaut stimmen überein“*
+([Handelsblatt, 23.10.](https://www.handelsblatt.com/politik/deutschland/afd-leak-wie-das-handelsblatt-den-datensatz-prueft-und-was-er-preisgibt/100264341.html)).
+Bei CORRECTIV bestätigte der Absender einer Mail ihre Echtheit ([CORRECTIV, 02.11.](https://correctiv.org/aktuelles/afd-spendenskandal/2026/11/02/eine-brisante-e-mail-aus-dem-afd-datenleak-zur-spendenaffaere-der-afd-aus-dem-jahr-2017-aber-ende-2027-waeren-die-vorgaenge-dazu-verjaehrt/)).
+
+*(3) Die Zusammenfassung als Ganzes.* Ein Urteil einer Redaktion mit Originalzugang über ihre Treue gibt es nicht, weder
+„zugespitzt“ noch „verlässlich“. Gabor Halasz vom ARD-Hauptstadtstudio sagt, die Fälschungen seien aus Bausteinen der
+Zusammenfassung gebaut worden: *„Das war nicht das Leak, sondern eine KI-Zusammenfassung“*
+([MDR, 24.10.](https://www.mdr.de/nachrichten/deutschland/politik/hacker-leak-mails-daten-auswertung,afd-1324.html)).
+Die AfD erklärte laut dpa schon am 20.10., die Inhalte seien mit *„very rudimentary AI“* ausgewertet worden, *„keywords,
+not context“*; Belege nannte sie nicht ([dpa via Yahoo](https://www.yahoo.com/news/world/articles/germanys-afd-investigates-alleged-theft-141832402.html)).
+Zum Hinweis „Hitler-Wallfahrt“ (→ Eröffnung): Cybernews, das die Seite mit den Zusammenfassungen gesichtet hat, beschreibt
+den Eintrag selbst als Mail, die Gauland *weitergeleitet* haben soll
+([Cybernews, 20.10.](https://cybernews.com/de/sicherheit/afd-email-datenleck-bestechung/)). Am Original geklärt ist das
+nicht.
+
+*(4) Der Hacker.* ZDF frontal und Spiegel haben am **06.11.** einen mutmaßlichen Urheber gefunden, einen Programmierer in
+den USA. Er schreibt, die AfD sei wegen „lascher“ IT-Sicherheit „ein verlockendes Ziel“ gewesen, es sei *„zunächst nicht
+um Politik gegangen“*. Vor dem Leak gab es laut ZDF keine Hinweise auf politisches Interesse
+([ZDFheute, 06.11.](https://www.zdfheute.de/politik/deutschland/hacker-afd-leak-emails-usa-100.html)). Zu Beginn hatten
+die Hacker ihr Ziel mit *„degeneracy and hypocrisy“* der Partei begründet
+([Bitdefender](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd)).
+
+*(5) Daneben.* Laut dem Standard gibt es eine öffentliche Volltextsuche über die Originalmails
+([Standard, 22.10.](https://www.derstandard.at/story/3000000345528/goebbelmail-suchdatenbank-fuer-die-afd-leaks-verfuegbar));
+die Spur ruft sie nicht auf. Der Jurist Markus Ogorek hält die Mails für grundsätzlich verwertbar, geprüft werden müsse
+aber *„für jede einzelne Mail“*; sie könnten auch zugunsten der AfD wirken
+([beck-aktuell, 30.10.](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/iterview-ogorek-afd-hack-geleakte-mails-verbotsverfahren-bverfg-2026-10-30)).
+Justizministerin Hubig will eine Bund-Länder-Arbeitsgruppe zur Prüfung eines Verbots einsetzen und die Mails dabei
+heranziehen ([tagesschau, 07.11.](https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html)).
+Neue Fälschungen seit dem 22.10. sind nicht bekannt geworden.
+
+**Deutung:** Keine Bedingung ist ausgelöst. Für „bestätigt“ fehlen zwei Fälle, für „widerlegt“ gibt es keinen Befund:
+Kein Fall fehlt am Original oder lautet wesentlich anders, keine Redaktion stellt eine systematische Verzerrung fest, und
+die Rohdaten halten jeder Prüfung stand. P4 hält im Kern, mit einer Einschränkung, die zählt: Der Satz ist eine
+mündliche Behauptung im Protokoll, ohne Belege, und zwei Einzelheiten der Zusammenfassung sind nirgends bestätigt. Die
+Konfidenz steigt darum nur um zwei Punkte. Näher rückt „kalt“: Bis zum 31.01.2027 müsste mindestens ein weiterer Fall
+aufgegriffen werden. Die Auskunft des mutmaßlichen Urhebers verändert die Begründung der These, nicht ihre Bedingungen.
+„Parteiische Quelle“ war ein Grund für die Zurückhaltung bei der Eröffnung; das Motiv ist jetzt widersprüchlich belegt.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Dass P1 bis P3 nach zweieinhalb Wochen bei gut ausgestatteten Redaktionen nicht
+auftauchen, kann an der Gewichtung liegen (Weidel und Nordrhein-Westfalen gehen vor). Es kann auch heißen, dass sie am
+Original nicht tragen. Beides ist von außen nicht zu unterscheiden. **(2)** Spiegel, SZ und Standard liegen hinter
+Bezahlschranken; ob dort „98 %“ oder „Angriffsmodus“ steht, ist offen. **(3)** Die Herkunft der Fälschungen aus der
+Zusammenfassung zeigt, wie sie wirkt, nicht, ob sie stimmt. **(4)** Die Selbstauskunft des mutmaßlichen Urhebers ist
+eine Selbstauskunft; die Zeit zitierte die Hacker laut Deutschlandfunk mit „Korruption“ als Motiv (nicht selbst
+gelesen).
+
+*Korrekturen dieser Spur, 08.11.:* Im Aufmacher stand ohne Einschränkung, der Hacker wolle „nach eigenen Worten“ die AfD
+bloßstellen; ergänzt um die Auskunft vom 06.11. Bei der SPD Leverkusen stand nur die Darstellung der Jungen Freiheit;
+ergänzt um die des Kölner Stadt-Anzeigers (→ Nebenbeobachtung).
+
 ### 2026-10-22 — Ein Jurist zur Verwertbarkeit (Konfidenz 60 % → 60 %)
 
 **Befund:** Der IT-Anwalt Chan-jo Jun ([Video](https://www.youtube.com/watch?v=qPalyxeWueU), 21.10.2026) hält das Material in einem Verbotsverfahren für verwertbar. Am ersten NPD-Verfahren sei nicht rechtswidrig erlangtes Material gescheitert, sondern fehlende Staatsferne, nämlich V-Leute in der Partei ([▶ 0:00](https://www.youtube.com/watch?v=qPalyxeWueU&t=0)). Ein privater Hack sei etwas anderes, und eine Fernwirkung („fruit of the poisonous tree“) kenne das deutsche Recht so nicht ([▶ 2:02](https://www.youtube.com/watch?v=qPalyxeWueU&t=122)). Juristisch zählten nicht die abstoßendsten Einzelfälle, sondern zwei Dinge: die **Zurechnung** zur Partei (z. B. Entscheidungen des Schiedsgerichts, Kenntnis der Führung) und das **planmäßige Vorgehen** (Strategiepapiere) ([▶ 4:04](https://www.youtube.com/watch?v=qPalyxeWueU&t=244), [▶ 8:05](https://www.youtube.com/watch?v=qPalyxeWueU&t=485)). Zur Leak-Seite sagt er: KI-Zusammenfassungen geben eine „grobe Idee“, „am Schluss braucht man die Originalquellen“. Für Neugierige rät er vom Torrent ab, weil man dabei selbst weiterverbreitet. Das Privileg nach § 202d StGB gilt Journalisten ([▶ 6:05](https://www.youtube.com/watch?v=qPalyxeWueU&t=365), [▶ 7:05](https://www.youtube.com/watch?v=qPalyxeWueU&t=425)).
@@ -117,7 +190,9 @@ Kein Teil der These, aber festgehalten, weil die Fälschungen die Wahrnehmung de
 | bis 21.10.2026 | Instagram-Post eines Grünen-Abgeordneten mit drei erfundenen Zitaten, 140.000 Likes. | t-online |
 | bis 21.10.2026 | Eine echte Mail eines sächsischen Hotelbetreibers an Frauke Petry (2016) über Waffeneinsatz an der Grenze, in ganz anderem Wortlaut verbreitet. Der Mann wird seither angefeindet. | t-online |
 
-Wer die Fälschungen erfunden hat, ist offen; t-online konnte es nicht zurückverfolgen. Sie ahmen die Optik der ersten echten Screenshots nach (International Cyber Digest). Die SPD Leverkusen hielt laut [Junge Freiheit](https://jungefreiheit.de/politik/deutschland/2026/afd-leaks-cdu-spd-und-gruene-verbreiten-falschzitate-von-afd-politikern/) ihre Rücktrittsforderung auch nach Bekanntwerden der Fälschung aufrecht.
+Wer die Fälschungen erfunden hat, ist offen; t-online konnte es nicht zurückverfolgen. Sie ahmen die Optik der ersten echten Screenshots nach (International Cyber Digest). Die SPD Leverkusen hielt laut [Junge Freiheit](https://jungefreiheit.de/politik/deutschland/2026/afd-leaks-cdu-spd-und-gruene-verbreiten-falschzitate-von-afd-politikern/) ihre Rücktrittsforderung auch nach Bekanntwerden der Fälschung aufrecht. Laut [Kölner Stadt-Anzeiger](https://www.ksta.de/politik/nach-hackerangriff-gegen-afdim-internet-kursierender-screenshot-scheint-nicht-teil-des-leaks-1400445) (21.10.) teilte ihr Vorsitzender mit, man werde den Beitrag zurückziehen, solange Zweifel an der Echtheit bestehen. Der Genannte versicherte an Eides statt, nicht der Urheber zu sein. *(Ergänzt 08.11.)*
+
+Ein Muster, festgehalten am 08.11.: Mehrere Fälschungen haben einen echten Kern und verdrehen die Zuschreibung. Laut Kölner Stadt-Anzeiger gibt es von dem Genannten im Leak eine Mail vom selben Tag, in der er auf eine Ausschlussforderung gegen einen anderen Funktionär antwortet. Die Fälschung schreibt ihm zu, wogegen er vorging. Das ist dasselbe Muster, das diese Spur bei der Zusammenfassung prüft („Weiterleitung wird zur Urheberschaft“), nur auf der Seite der Fälschungen.
 
 Die AfD-Seite nutzt die Fälschungen, um das ganze Leak unglaubwürdig zu machen. Schatzmeister Gnauck: „ein paar Gigabyte unwichtiges Zeug“.
 
@@ -132,6 +207,12 @@ Die AfD-Seite nutzt die Fälschungen, um das ganze Leak unglaubwürdig zu machen
 - **Wo ich abwehre:** Verbreitet haben die Fälschungen bisher Gegner der AfD: ein Grünen-Abgeordneter, die SPD Leverkusen, ein CDU-Abgeordneter. Das ist die Seite, auf der man sich hier gern sieht. Die Versuchung ist, sie als Randnotiz kleinzumachen. Darum stehen sie oben in einer eigenen Tabelle.
 - **Was ich nicht sehe:** Den Prompt des Hackers, die Auswahl der 39.000 aus 421.000 Mails und die Kriterien der Stufen. Die Zusammenfassung ist eine Black Box, die ihren Zweck offen nennt.
 - **Die eigene Werkzeug-Frage:** Wir sind selbst ein System, das mit KI liest und zusammenfasst. Wenn diese Spur zeigt, dass eine KI-Zusammenfassung in parteiischer Hand verzerrt, gilt das auch für uns.
+
+### 2026-11-08 — erster Review
+
+- **Wo ich Bestätigung verlange:** P4 rastete als Treffer ein, weil der Satz „Ich weiß, dass sie es wusste“ genau das sagt, was die Zusammenfassung behauptet. Das ZDF schreibt im selben Absatz, dass er keine Belege nannte. Diese Einschränkung steht darum im Befund und bremst die Konfidenz.
+- **Wo ich abwehre:** Die Auskunft des mutmaßlichen Urhebers nimmt der Spur einen ihrer Gründe für Vorsicht. Die Versuchung wäre, sie als Schutzbehauptung abzutun, weil die Erzählung „parteiische Quelle“ bequem war. Sie steht als Selbstauskunft neben der früheren Aussage der Hacker, keine von beiden entscheidet.
+- **Was ich nicht sehe:** Spiegel, SZ und Standard hinter der Bezahlschranke. Ein Fall kann dort längst stehen.
 
 ## Verbindungen
 
