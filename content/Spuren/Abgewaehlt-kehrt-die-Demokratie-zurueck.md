@@ -17,7 +17,7 @@ status: offen
 konfidenz: 55%
 review-takt: 21-tage
 eroeffnet: 2026-10-28
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-08
 description: "Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?"
 raetsel: "Der Schlüssel, der die Tür verschloss, passt auch, um sie zu öffnen. Wer ihn dreht, hält ihn danach in der Hand."
 ---
@@ -137,6 +137,42 @@ SNS und den Bolsonarismus.
 ---
 
 ## Verlauf
+
+### 2026-11-08 — Israel: Ergebnis amtlich, Regierung offen (Konfidenz unverändert 55 %)
+
+**Befund:** *(1) Israel.* Die Zentrale Wahlkommission billigte am **04.11.** das Ergebnis der Knesset-Wahl vom 27.10.
+([INN, 04.11.](https://www.israelnationalnews.com/news/435646) · [JPost, 04.11.](https://www.jpost.com/israel-news/article-913842)).
+Netanjahus bisheriger Block hat 53 Sitze (Likud 27, Otzma Jehudit 7, Vereinigtes Thora-Judentum 7, Schas 6, Religiöser
+Zionismus 6), die Opposition 48 (Yashar! unter Gadi Eisenkot 21, B'Yachad unter Naftali Bennett 12, Die Demokraten 8,
+Jisrael Beitenu 7), die arabisch geführten Parteien 19 (Gemeinsame Liste 11, Ra'am 8). 67 Abgeordnete empfahlen
+Eisenkot, 46 Netanjahu, das Thora-Judentum empfahl niemanden ([INN, 06.11.](https://www.israelnationalnews.com/news/435750)).
+Präsident Herzog beauftragte Eisenkot mit der Regierungsbildung, das Mandat sollte am 08.11. übergeben werden. Er hat 28
+Tage, verlängerbar um 14. Scheitert er, folgen ein zweiter Kandidat und danach ein Vorschlag der Knesset-Mehrheit, sonst
+gibt es innerhalb von 90 Tagen Neuwahlen, mit Netanjahu als geschäftsführendem Regierungschef. Eisenkot hat eine Regierung
+mit den arabischen Parteien ausgeschlossen; eine Koalition der Opposition mit dem Thora-Judentum und Schas hätte genau 61
+Sitze ([Al Jazeera, 07.11.](https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government)).
+
+*(2) Ungarn.* Auf ihrer Plenarsitzung am 09./10.10. nahm die Venedig-Kommission kein Gutachten zu Ungarn an, wohl aber
+unter anderem eines zu Polen ([Venedig-Kommission, 12.10.](https://www.coe.int/en/web/venice-commission/-/148th-plenary-session-of-the-venice-commission)).
+Am 29./30.10. war eine Delegation in Budapest. Die Justizministerin hat das Gutachten auf die ganze 17. Änderung und auf
+das Verfahren für eine neue Verfassung ausgeweitet; angenommen werden soll es auf der Plenarsitzung am **11./12.12.2026**
+([Venedig-Kommission, 03.11.](https://www.coe.int/en/web/venice-commission/-/hungary-forthcoming-opinion-country-visit-2)).
+
+**Deutung:** Für Israel ist die Aufnahmebedingung weder erfüllt noch verfehlt. Der erste Auftrag liegt bei einem
+Kandidaten, der nicht Netanjahu ist, eine Regierung gibt es noch nicht. Entschieden wird frühestens um den 06.12., mit
+Verlängerung um den 20.12. Das wichtigste Zwischensignal für Ungarn, das Gutachten der Venedig-Kommission, kommt im
+Dezember. Keiner der Befunde bewegt die Konfidenz.
+
+**Klarstellung vor dem Ereignis (08.11.):** „Eine Regierung ohne Netanjahu“ heißt: Netanjahu ist weder Regierungschef noch
+Mitglied der Regierung, gleich welche Parteien sie bilden. Auch eine Einheitsregierung mit dem Likud erfüllt die
+Bedingung. Der Maßstab für „gelungen“ bleibt, wie er registriert ist. Das steht hier, bevor die Koalition feststeht, damit
+die Bedingung nicht nachträglich nach dem Ergebnis gelesen wird.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Die Sitzverteilung ist nicht auf der Seite der Wahlkommission selbst gelesen,
+sondern über INN und JPost; die Summe von 120 geht auf. **(2)** Ob die Koalition mit Thora-Judentum und Schas trägt, ist
+offen, denn die Opposition hat mit der Wehrpflicht für Ultraorthodoxe Wahlkampf gemacht. **(3)** Eine Einheitsregierung
+mit dem Likud würde die Aufnahme auslösen und zugleich den Maßstab „Justizreform zurücknehmen“ erschweren. Das spräche bei
+diesem Fall für die These, ohne dass der Rückbau versucht worden wäre. Beim Urteil gesondert zu benennen.
 
 ### 2026-10-28 — Eröffnung: drei Abwahlen, drei Phasen (Konfidenz — → 55 %)
 
@@ -260,6 +296,8 @@ die erste Runde gewonnen. Abgewählt ist nicht verschwunden.
 > - **Israel:** Israel ist eine Demokratie mit freien Wahlen, deren Regierung die Justiz umbauen wollte, und kein Staat,
 >   den V-Dem als Wahlautokratie führt. Wer es in diese Reihe stellt, sagt damit schon etwas. Darum nur unter
 >   Aufnahme-Bedingung und mit eigenem Maßstab.
+> - **08.11.2026:** Die Klarstellung zur Einheitsregierung steht vor dem Ereignis, nicht danach. Sie macht die Aufnahme
+>   leichter, nicht schwerer. Der Grund ist der Wortlaut, nicht ein gewünschtes Ergebnis.
 
 ---
 

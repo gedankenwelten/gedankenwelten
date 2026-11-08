@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 56,
-   "aufrufe": 66
+   "leser": 54,
+   "aufrufe": 64
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -384,11 +384,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
      "leser": 3,
      "aufrufe": 3
@@ -415,11 +410,6 @@
     },
     {
      "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Eva-von-Redecker-Dieser-Drang-nach-Härte",
      "leser": 2,
      "aufrufe": 2
     },
@@ -460,6 +450,11 @@
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 2,
      "aufrufe": 2
     },
@@ -530,6 +525,11 @@
     },
     {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Eva-von-Redecker-Dieser-Drang-nach-Härte",
      "leser": 1,
      "aufrufe": 1
     },
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 56,
-     "aufrufe": 66
+     "leser": 54,
+     "aufrufe": 64
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 36,
-     "aufrufe": 36
+     "leser": 34,
+     "aufrufe": 34
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",

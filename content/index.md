@@ -46,6 +46,30 @@ Die Gedankenwelten (luc)
 
 > → *11 weitere in* [[Zeitgeist]]
 
+### Spuren
+
+> **08.11.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
+>
+> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
+
+> **08.11.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
+
+> **08.11.** — [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
+>
+> Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?
+
+> **07.11.** — [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+>
+> Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen in Länder geflogen, die nicht ihre sind. Wer Menschen zum Mittel macht, erntet, was er sät, und nennt es dann Beweis.
+
+> **07.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
+
+> → *4 weitere in* [[Spuren]]
+
 ### Geistesblitz
 
 > **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
@@ -93,30 +117,6 @@ Die Gedankenwelten (luc)
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > → *18 weitere in* [[Panorama]]
-
-### Spuren
-
-> **07.11.** — [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
->
-> Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen in Länder geflogen, die nicht ihre sind. Wer Menschen zum Mittel macht, erntet, was er sät, und nennt es dann Beweis.
-
-> **07.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
->
-> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
-
-> **06.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
->
-> Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
-
-> **06.11.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
->
-> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
-
-> **04.11.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> → *1 weitere in* [[Spuren]]
 
 ### Denker
 

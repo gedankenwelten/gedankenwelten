@@ -18,7 +18,7 @@ tags: [denker-vita, technologie, medien, deutschland, datenschutz]
 </details>
 
 ## Biografie
-- **Beruf/Fachgebiet:** Bibliothekar und Digital-Stratege; Leiter der Abteilung für Digitale Entwicklung und Netzangelegenheiten (DEVA) an der Zentral- und Landesbibliothek Berlin (ZLB); zuvor an der Staatsbibliothek zu Berlin (Informations- und Datenmanagement) und an der SUB Göttingen.
+- **Beruf/Fachgebiet:** Bibliothekar und Digital-Stratege; Bereichsleiter für Digitale Entwicklung an der Zentral- und Landesbibliothek Berlin (ZLB, [re:publica-Profil](https://re-publica.com/de/user/11379)); zuvor an der Staatsbibliothek zu Berlin (Informations- und Datenmanagement) und an der SUB Göttingen.
 - **Profil:** Eine der profiliertesten deutschsprachigen Stimmen im Fediverse — UX-Kritiker und -Reformer von Mastodon, Brückenbauer zwischen öffentlichen Institutionen und dezentralen Netzwerken.
 - **Podcast-Szene:** Mitgründer und Treiber der deutschen Podcast-Infrastruktur — Initiator von **Ultraschall.fm**, **Sendegate**, Mitwirkung an Subscribe und am Sendezentrum. Co-Host u. a. der Freakshow (Metaebene/Tim Pritlove).
 - **Online:** [@rstockm@chaos.social](https://chaos.social/@rstockm) · [GitHub rstockm](https://github.com/rstockm) · [Slideshare](https://de.slideshare.net/rstockm) · [YouTube](https://www.youtube.com/@rstockm)

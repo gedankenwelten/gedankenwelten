@@ -10,10 +10,10 @@ tags:
   - geopolitik
   - year-2026
 status: offen
-konfidenz: 48%
+konfidenz: 50%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-10-11
+aktualisiert: 2026-11-08
 presseschau_aktualisiert: 2026-08-24
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
@@ -41,7 +41,7 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 
 ## Die These
 
-> **Stand (Konfidenz 48 %, seit 11.10.2026):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
+> **Stand (Konfidenz 50 %, seit 08.11.2026):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
 > „Waffenstillstand" weiter, und die völkerrechtlichen Verfahren bewegen sich in extremer Langsamkeit.
 > **Recht wird nicht verweigert, sondern vertagt** — Fristen bis 2027/2029, Haftbefehle ohne Vollzug —
 > bis der öffentliche Druck versandet. Die nachlassende Aufmerksamkeit korreliert mit nachlassender
@@ -61,6 +61,95 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 **Kalt, wenn:** dauerhafte politische Lösung, Thema legitim abgeschlossen.
 
 ## Verlauf
+
+### 2026-11-08 — Dreimal „noch nicht“ (Konfidenz 48 % → 50 %)
+
+**Befund:** *(1) Zuerst die Gegenfrage, was gehalten hat.* Am **13.10.** untersagte ein Bundesgericht in New York den
+Behörden per einstweiliger Verfügung, zwei Organisationen für ihre Zusammenarbeit mit dem IStGH zu bestrafen; die
+Sanktionen insgesamt hob es nicht auf ([DAWN, 13.10.](https://dawnmena.org/u-s-court-blocks-enforcement-of-icc-sanctions-against-groups-advocating-for-palestinian-rights/),
+DAWN ist selbst Klägerin). Am **22.10.** verlieh das Europaparlament dem Gerichtshof den Sacharow-Preis
+([Euronews, 22.10.](https://www.euronews.com/2026/10/22/eu-parliament-awards-sakharov-prize-to-icc-in-rebuke-of-us-sanctions)).
+In der Afghanistan-Situation, die eine der drei US-Forderungen betrifft, machte der Gerichtshof im Oktober vier
+Haftbefehle gegen Taliban-Mitglieder öffentlich ([Guardian, 24.10.](https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions)).
+Die Vertragsstaatenversammlung tagt vom 30.11. bis 07.12. in Den Haag statt in New York, weil Amtsträger des Gerichts
+unter US-Sanktionen stehen und Delegationen Visa-Probleme haben ([ASP, 29.09.](https://asp.icc-cpi.int/press-releases/PR-20260929)).
+
+*(2) Die Gerichte.* Beim IGH gibt es seit dem 22.09. keinen neuen Eintrag im Verfahren Südafrika gegen Israel
+([ICJ, Fall 192](https://www.icj-cij.org/case/192), abgerufen am 08.11.). Beim IStGH gibt es in der Palästina-Situation
+keine öffentliche Kammerentscheidung, keine Festnahme und kein bekanntes Festnahmeersuchen; zwei israelische Rechtsmittel
+sind anhängig ([Middle East Eye, 28.10.](https://www.middleeasteye.net/news/what-happens-netanyahus-icc-arrest-warrant-after-elections)).
+Die stellvertretende Anklägerin Nazhat Shameem Khan sagte dem Guardian, die Ermittlung habe seit November 2024 erhebliche
+Fortschritte gemacht, weitere Anträge seien auf Anordnung des Gerichts geheim: *„while there might be an appearance that
+nothing is happening, I can assure you that there's significant progress“* ([Guardian, 24.10.](https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions)).
+Ein neuer Chefankläger wird erst im Dezember 2027 gewählt ([ASP, 27.10.](https://asp.icc-cpi.int/node/15657)).
+
+*(3) Die EU.* Zum Abwehrgesetz gegen die US-Sanktionen, dem Blocking Statute, sagte ein Sprecher der Kommission am
+**14.10.**: *„We haven't made any decisions yet“* ([EUobserver, 14.10.](https://euobserver.com/242731/eu-bets-on-diplomacy-not-blocking-statute-to-protect-icc-from-trump-sanctions/)).
+Am selben Tag forderten 58 Europaabgeordnete aus vier Fraktionen, es zu aktivieren
+([Euronews, 14.10.](https://www.euronews.com/2026/10/14/meps-urge-eu-to-shield-international-criminal-court-from-us-sanctions)).
+Über EU-Sanktionen gegen Israel heißt es, sie seien *„in limbo until a new government emerges“*
+([EUobserver, 28.10.](https://euobserver.com/245602/caretaker-pm-netanyahu-expected-to-escalate-violence-as-eu-sanctions-talk-on-hold-until-new-israeli-government-formed/)).
+Zu einem Verbot von Waren aus den Siedlungen sagte ein Kommissionsbeamter am **05.11.**: *„So far, no majority has come
+about on any of these options“* ([EUobserver, 05.11.](https://euobserver.com/247198/bernd-lange-slams-eu-commission-for-hiding-behind-voting-rules-on-banning-israeli-settlement-imports/)).
+
+*(4) Die Sanktionen wirken vor dem Stichtag.* Investico und die Süddeutsche Zeitung befragten 100 Organisationen.
+Mindestens 20 haben die Zusammenarbeit mit dem IStGH beendet oder stark eingeschränkt; eine deutsche NGO sagt: *„We
+cannot accept the risk of being sanctioned ourselves“* ([NL Times, 05.11.](https://nltimes.nl/2026/11/05/human-rights-organizations-breaking-ties-icc-hague-us-sanctions)).
+Laut der stellvertretenden Anklägerin haben Mitarbeiter Probleme mit Banken, die die Sanktionen strenger umsetzen als
+verlangt (Guardian, 24.10.). Gerichtspräsidentin Akane trug den Jahresbericht vor der UN-Generalversammlung am **02.11.**
+zum ersten Mal seit der Pandemie per Video vor ([ICC, Nachdruck GlobalSecurity](https://www.globalsecurity.org/military/library/news/2026/11/mil-261102-icc01.htm)).
+
+*(5) Die Lage der Menschen, im 13. Monat der Waffenruhe.* OCHA zählt nach Angaben des Gesundheitsministeriums seit
+Beginn der Waffenruhe **1.593 Getötete und 5.748 Verletzte**, Stand 02.11., davon 36 Getötete in der Woche ab dem 27.10.
+([OCHA, 05.11.](https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026)). Am 02.10. waren es 1.431.
+Israelische Sicherheitsbehörden geben an, täglich zwei bis drei gezielte Einsätze gegen die Hamas zu führen
+([JPost, 14.10.](https://www.jpost.com/middle-east/article-911631)). Seit dem **01.11.** hat Israel die Lieferungen über
+Ägypten mit Ausnahmen ausgesetzt und nennt Schmuggel als Grund. Die Ernährungshelfer erwarten, dass die Zahl der warmen
+Mahlzeiten von rund 600.000 auf 330.000 am Tag sinkt; für den Winter fehlen 186,5 von 267,9 Mio. Dollar (OCHA, 05.11.).
+Das Welternährungsprogramm erreicht nach Kürzungen laut +972 Magazine 1,1 statt 1,6 Mio. Menschen
+([+972, 03.11.](https://www.972mag.com/gaza-famine-aid-wfp/)). Den Bau der ersten Basis der Stabilisierungstruppe
+blockiert Israel laut Guardian seit August ([Guardian, 14.10.](https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base)).
+Eine begonnene Entwaffnung der Hamas oder einen begonnenen Wiederaufbau gibt es nicht (JPost, 14.10.).
+
+*(6) Westjordanland.* Im Oktober zählte OCHA 457 Angriffe von Siedlern mit Opfern oder Sachschaden, *„the highest monthly
+number of such attacks since the UN began documenting these incidents in 2006“*. Am 23.10. erschossen zwei Palästinenser
+in Hebron zwei israelische Soldaten; darauf folgte ein zehntägiger Einsatz in der Stadt (OCHA, 05.11.).
+
+*(7) Die Aufmerksamkeit.* Eine eigene Abfrage im Nachrichtenarchiv GDELT misst den Anteil englischsprachiger
+Online-Artikel, in denen „Gaza“ vorkommt, als Monatsmittel: Oktober 2025 1,08 %, Januar 2026 0,42 %, Juni 0,25 %, August
+0,30 %, Oktober 0,36 %. Spitzen gab es am Jahrestag (10.10.) und am Wahltag in Israel (27.10.)
+([GDELT, abgefragt am 08.11.](https://api.gdeltproject.org/api/v2/doc/doc?query=gaza%20sourcelang:english&mode=timelinevol)).
+Das ist ein grober Anzeiger mit Datenlücken, keine Medienanalyse.
+
+**Deutung:** Die Schärfung vom 24.08. (Vertagung als Auswahl, nicht als Trägheit) hat in diesem Fenster ihre deutlichsten
+Belege, allerdings auf der politischen Schiene: drei Entscheidungen der EU, alle mit der Antwort „noch nicht“. Die
+gerichtliche Schiene ist öffentlich still. Die Lesart vom 17.09. (der Gebrauch des Rechtswegs wird bestraft) trägt auch im
+zweiten von drei Sweeps; der Rückzug der Organisationen und der Ortswechsel der Versammlung geschehen vor dem Stichtag. In
+die These gehört sie erst nach dem dritten. Zum festen Prüfschritt mit Vergleichsfällen: Im selben Gericht bewegt sich die
+Afghanistan-Situation öffentlich, die Palästina-Situation nicht. Der Gerichtshof ist also nicht allgemein gelähmt. Ob die
+Palästina-Situation stillsteht, lässt sich von außen aber nicht sagen, solange Anträge geheim sind. Die Aufmerksamkeit
+liegt seit dem Frühjahr auf einem niedrigen, flachen Niveau. Eine Korrelation, wie die These sie behauptet, lässt sich an
+zwei flachen Linien nicht zeigen. Die humanitäre Lage hat sich nicht verbessert; die Bedingung dafür ist nicht berührt.
+Die Konfidenz steigt um zwei Punkte, getragen von der dreifachen Vertagung, gebremst durch die Geheimhaltung.
+
+*Worauf wir schauen:* Kommt in Israel eine Regierung ohne Netanjahu zustande, entfällt seine persönliche Immunität als
+Regierungschef, auf die sich manche Staaten berufen; der Haftbefehl bliebe gültig (Middle East Eye, 28.10.). Dann wird
+die Säule „Haftbefehle bleiben folgenlos“ geprüft, unabhängig von der Aufmerksamkeit. Die Vertragsstaatenversammlung
+(30.11.–07.12.) ist das nächste Datum.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Die Aussage der stellvertretenden Anklägerin lässt sich nicht prüfen, ist aber der
+stärkste Einwand gegen die Messweise dieser Spur: Was geheim ist, sieht wie Stillstand aus. **(2)** Die Institution wird
+gestützt, von einem US-Gericht, vom Europaparlament, vom UN-Hochkommissar für Menschenrechte, der am 03.11. im Gericht
+sagte: *„we must defend the institutions that make this possible“* ([ASP, 04.11.](https://asp.icc-cpi.int/node/15672)).
+**(3)** Das „noch nicht“ der EU kann an ihren Abstimmungsregeln liegen und muss keine Strategie sein. Der Abgeordnete
+Bernd Lange wirft der Kommission vor, sich hinter diesen Regeln zu verstecken (EUobserver, 05.11.); das belegt Vertagung,
+nicht schon Absicht. **(4)** Den Lieferstopp über Ägypten begründet Israel mit Schmuggel, und Schmuggel gibt es
+nachweislich; Haaretz berichtet über Zigaretten im Wert von 63 Mio. Dollar (nur über eine Zusammenfassung gelesen,
+[FMEP](https://fmep.org/resource/top-news-analysis-on-israel-palestine-october-31-november-6-2026/)). **(5)** Die
+Opferzahlen stammen vom Ministerium unter der De-facto-Behörde. **(6)** Die Aufmerksamkeit ist nicht weiter gefallen und
+kommt bei Ereignissen zurück.
+
+*Stimmen jenseits der Standardquellen* → Tiefen-Sweep im Stimmenspektrum.
 
 ### 2026-10-11 — Das Ultimatum hat ein Datum (Konfidenz 50 % → 48 %)
 
@@ -390,8 +479,33 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 > beim Fund wie ein Beleg an. Tatsächlich ist er ein Signal ohne Rechtsbruch, und dass die Quelle das selbst einräumt,
 > gehört dazu.
 
+> [!question] Sweep 08.11.2026 — „noch nicht“ heißt noch nicht „mit Absicht“
+> Der Sweep begann, wie am 30.08. beschlossen, mit der Gegenfrage, und sie hat diesmal etwas gefunden: ein Gericht in New
+> York, einen Preis, Haftbefehle in einer anderen Situation. Die drei „noch nicht“ der EU rasteten als Bestätigung der
+> Auswahl-Lesart ein. Beim zweiten Hinsehen belegen sie Vertagung, aber nicht, dass sie gewollt ist; die Erklärung über
+> Abstimmungsregeln steht darum in der Gegenbeobachtung. Die Aussage der stellvertretenden Anklägerin kam als
+> unwillkommene Nachricht, weil sie die Messweise der Spur in Frage stellt. Sie steht im Befund, nicht in einer Fußnote.
+> Die GDELT-Kurve ist eine eigene Messung; eigene Zahlen wiegen leicht schwerer, als sie sollten, und sind darum als grob
+> markiert. Russland fehlt im Spektrum weiter, China ist nur aus zweiter Hand zitiert.
+
 
 ## Stimmenspektrum
+
+*Tiefen-Sweep 08.11.2026 — Rechenschaft und Hilfe stocken, die Institution wird bedrängt:*
+
+| Ring | Quelle | Provenienz |
+|---|---|---|
+| **Israel — regierungsnah** | [Israel Hayom, 05.11.](https://www.israelhayom.com/2026/11/05/after-netanyahu-senior-board-of-peace-officials-to-meet-eisenkot/): Das Board of Peace verhandle praktische Schritte trotz *„Hamas' refusal to disarm“*, dazu ein Plan, UNRWA schrittweise aufzulösen (von UNRWA nicht bestätigt) | Zeitung der Familie Adelson, gilt als netanjahunah |
+| **Israel — kritisch** | [+972 Magazine, 03.11.](https://www.972mag.com/gaza-famine-aid-wfp/): *„the specter of famine is returning“* nach den Kürzungen des Welternährungsprogramms | unabhängig, israelisch-palästinensisch, links |
+| **Palästinensisch** | gemeinsame Erklärung der Fraktionen, 07.11. ([Ahram, 08.11.](https://english.ahram.org.eg/NewsContent/58/1262/581968/War-on-Gaza/War-on-Gaza/Palestinian-factions-demand-end-to-Israeli-blockad.aspx)): Das Board of Peace gebe Israel *„political cover“*, das Nationale Komitee müsse nach Gaza | Hamas und andere Fraktionen, Konfliktpartei; gelesen in der ägyptischen Staatspresse |
+| **Palästinensisch — Betroffene** | Rida Eliwa, Großmutter von 36 Enkeln, in [+972](https://www.972mag.com/gaza-famine-aid-wfp/): *„I put a bowl of water on the fire and lie to them, saying that I am cooking“* | Zeugnis, keine Statistik |
+| **Region — Türkei** | Außenminister Hakan Fidan, 23.10.: die täglichen Verstöße *„undermine trust in the international system“* ([A News](https://www.anews.com.tr/turkey/2026/10/23/israels-gaza-ceasefire-violations-undermine-trust-in-international-system-turkish-foreign-minister)) | Garantiemacht der Waffenruhe; regierungsnaher Sender |
+| **Region — Katar / Jordanien** | Telefonat der Außenminister, 02.11. ([QNA](https://qna.org.qa/en/news/news-details?id=prime-minister-and-minister-of-foreign-affairs-jordans-deputy-prime-minister-and-foreign-minister-hold-phone-call&date=2/11/2026)): Thema *„freedom of maritime navigation“*, Gaza wird nicht genannt | staatliche Agentur Katars; ein Hinweis, dass die Iran-Krise Gaza von der Tagesordnung verdrängt |
+| **Mächte — EU** | Kommission, 14.10.: *„We haven't made any decisions yet“* ([EUobserver](https://euobserver.com/242731/eu-bets-on-diplomacy-not-blocking-statute-to-protect-icc-from-trump-sanctions/)) | Exekutive der EU |
+| **Mächte — China** | Sprecherin Mao Ning, 12.10.: *„China is not a state party to the Rome Statute … China's position on relevant issues remains consistent“* ([VOI nach Antara](https://voi.id/en/news/598277)) | Außenministerium, über die indonesische Staatsagentur, nicht im Originalprotokoll geprüft |
+| **Mächte — Russland** | **Lücke:** im Fenster keine Stellungnahme gefunden | — |
+| **Globaler Süden — Südafrika** | im Sicherheitsrat, 16.10.: *„the genocide in Gaza is continuing“* ([UN-Transkript](https://transcripts.un.org/en/sc/10243)) | Kläger vor dem IGH; automatische Abschrift, kein amtliches Protokoll |
+| **Globaler Süden — Indonesien** | Außenamtssprecherin Yvonne Mewengkang, 30.10.: Indonesien bleibe im Board of Peace, damit die palästinensischen Interessen Priorität bleiben ([CNN Indonesia](https://www.cnnindonesia.com/internasional/20261029200141-106-1421181/ri-jawab-seruan-pbb-keluar-bop-demi-jamin-palestina-jadi-prioritas)) | Regierung, stellt Truppen; arbeitet im Board mit und verteidigt es |
 
 *Sweep 24.08.2026 — Blick auf Resolution 2803 und das Board of Peace, mit Provenienz:*
 

@@ -13,10 +13,10 @@ tags:
   - krieg
   - year-2026
 status: offen
-konfidenz: 58%
+konfidenz: 60%
 review-takt: 21-tage
 eroeffnet: 2026-06-19
-aktualisiert: 2026-10-11
+aktualisiert: 2026-11-08
 presseschau_aktualisiert: 2026-09-12
 description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte."
 ---
@@ -46,7 +46,7 @@ description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht d
 
 ## Die These
 
-> **Stand (Konfidenz 58 %, seit 11.10.2026):** Das reale Ziel des Krieges war, eine **atomar strebende, terror-stützende
+> **Stand (Konfidenz 60 %, seit 08.11.2026):** Das reale Ziel des Krieges war, eine **atomar strebende, terror-stützende
 > Macht zu zerschlagen** — auf zwei Säulen: (1) **die Bombe / Urananreicherung** stoppen und (2) den **Staat
 > brechen, der Hisbollah, Hamas und Huthis stützt** (die „Achse"). *Nicht* ein Regimewechsel an sich, *nicht*
 > ein humanitäres Anliegen. **Belegt:** weder USA noch Israel handelten im Interesse der iranischen *Menschen*;
@@ -131,6 +131,109 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 
 ## Verlauf
 
+### 2026-11-08 — Weder Krieg noch Abkommen (Konfidenz 58 % → 60 %)
+
+**Befund:** *(1) Die Midterms.* Am **03.11.** gewannen die Demokraten beide Kammern des Kongresses. Trump sagte danach
+*„I did the right thing. I would have done it again“*, Vizepräsident Vance schrieb: *„The reason we lost is the war. The
+president himself said so last night.“* Das Pentagon beziffert die Kriegskosten auf 47 Mrd. Dollar
+([Al Jazeera, 04.11.](https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing) ·
+[Al Jazeera, 05.11.](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war)).
+
+*(2) Blockade und Hormus.* Nach der Wahl kam kein großer Angriff und kein Abkommen. In der Nacht zum **03.11.** und am
+**06.11.** griffen die USA Ziele auf der Insel Qeshm an; Trump: *„We do minor strikes“*
+([Anadolu, 07.11.](https://aa.com.tr/en/americas/trump-says-us-could-be-an-occupier-in-iran/4114846)). Am **07.11.**
+stellte das US-Zentralkommando die „Task Force Iron Gate“ auf, gegen iranische Landwege und Routen über das Kaspische
+Meer ([Al Jazeera, 08.11.](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes)).
+In der Woche bis zum 06.11. wurden laut der britischen Seefahrtsbehörde UKMTO mindestens elf Schiffe in und um Hormus
+angegriffen, drei sanken; der Verkehr liegt rund 65 % unter dem Vorkriegsstand
+([Al Jazeera, 07.11.](https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation)).
+Schiffe aus Indien, China, Irak und Katar lässt Iran nach Angaben eines Abgeordneten passieren
+([Al Jazeera, 06.11.](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions)).
+
+*(3) Verhandlungen.* Pakistans Armeechef Asim Munir war am **21.** und am **26.10.** in Teheran, beim zweiten Mal mit dem
+saudischen Verteidigungsminister und dem türkischen Geheimdienstchef
+([Al Jazeera, 30.10.](https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts)).
+Ende Oktober schrieb Vance an Mohsen Rezaei, den Sekretär des Obersten Nationalen Sicherheitsrats
+([Al Jazeera, 31.10.](https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace)).
+Am **05.11.** übergab Iran über Katar einen neuen Vorschlag. Rezaei sagte am selben Tag in Moskau, ohne Erfüllung der
+sieben iranischen Bedingungen werde Iran *„neither open the Strait of Hormuz nor have negotiations“*
+([Al Jazeera, 06.11.](https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know)).
+Ein technisches Treffen ist besprochen, aber nicht zustande gekommen
+([Anadolu, 07.11.](https://aa.com.tr/en/americas/vice-president-vance-leads-quiet-push-for-new-us-iran-deal-axios/4114842)).
+
+*(4) Atomprogramm.* Am **27.10.** befasste sich der UN-Sicherheitsrat zum ersten Mal seit der Überweisung durch die IAEO
+mit Iran, ohne Abstimmung und ohne Maßnahmen. Russland sah *„no procedural grounds“*, China nannte die US-Angriffe auf
+überwachte Anlagen die *„direct cause“* dafür, dass die IAEO nichts mehr sieht
+([UN, 10253. Sitzung](https://press.un.org/en/blog/sc16491)). Rezaei am **21.10.**: *„Not a single gram of enriched
+uranium will be removed from Iran“*; eine Verdünnung im Land unter Aufsicht schloss er nicht aus. Den Bestand an
+60-prozentigem Uran schätzte die IAEO vor den Angriffen im Juni 2025 auf rund 440 kg
+([Al Jazeera, 21.10.](https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings)).
+Im Parlament liegen laut der Agentur Fars zehn Anträge auf Austritt aus dem Atomwaffensperrvertrag; die Regierung hat ihre
+Linie nicht geändert ([Al Jazeera, 31.10.](https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace)).
+Am **07.11.** sagte ein Sprecher der Revolutionsgarden, die Reichweitengrenze der Raketen sei aufgehoben; wenn Iran seine
+Nukleardoktrin ändere und eine Bombe baue, *„the necessary preparations will be made“*
+([Al Jazeera, 07.11.](https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage)).
+Eric Brewer von der Nuclear Threat Initiative hält das Programm für *„generally paused“*
+([Al Jazeera, 31.10.](https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace)).
+
+*(5) Führung.* Am **02.11.** sagte Präsident Pezeshkian, Mojtaba Khamenei habe der Regierung *„certain authorities“*
+für Gespräche mit den USA übertragen ([Al Jazeera, 03.11.](https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest)).
+Am **05.11.** überbrachte Rezaei Putin eine Botschaft Mojtabas
+([Al Jazeera, 06.11.](https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations)).
+Zugleich beantragte die Paydari-Front die Amtsenthebung von Außenminister Araghchi; die Anhörung wurde verschoben
+([Al Jazeera, 26.10.](https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian)).
+Mojtaba ist seit März weder gesehen noch gehört worden; am 31.10. ließ sein Büro „strategische Anweisungen“ an die
+Kommandeure melden ([Al Jazeera, 31.10.](https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace)).
+
+*(6) Repression und Wirtschaft.* Iran Human Rights verifiziert für Oktober mindestens 77 Hinrichtungen und 691 in den
+ersten zehn Monaten ([IHR, 03.11.](https://iranhr.net/en/articles/9175/)). Die Menschenrechtsorganisation HRANA zählt
+seit Jahresbeginn über 60.000 Festnahmen wegen Meinungsäußerung, dazu im Oktober zehn Streiks und 46 Proteste von
+Berufsverbänden ([HRANA, 01.11.](https://www.en-hrana.org/monthly-report-october-2026-human-rights-situation-in-iran/)).
+Die Inflation lag im Oktober laut dem iranischen Statistikzentrum bei 88,7 %, auf dem Land bei 107 %
+([Iran International, 28.10.](https://www.iranintl.com/en/202610286929)). Der Vize-Arbeitsminister rechnet mit bis zu
+1,4 Mio. verlorenen Arbeitsplätzen ([Iran International, 27.10.](https://www.iranintl.com/en/202610276580)).
+Massenproteste gab es im Fenster nicht.
+
+*(7) Die Achse.* Nachgetragen, weil es der letzte Sweep übersah: Laut AP haben Berater der Revolutionsgarden die
+Küstenoffensive der Huthis vor Ort mitgeführt, nach Angaben von zehn anonymen Gesprächspartnern, darunter ein hoher
+Huthi-Funktionär ([AP, 23.09.](https://apnews.com/article/yemen-houthis-iran-war-red-sea-battle-e32ed78eb9b528642d043d4303192927)).
+Die Gegenoffensive der Regierung um Bab al-Mandab stockt seit Mitte Oktober
+([Responsible Statecraft, 20.10.](https://responsiblestatecraft.org/taiz-yemen-war/)). Iraks Außenminister sagte am
+**07.11.**, die Frist zur Entwaffnung der Milizen sei auf Juni 2027 verschoben
+([Al Jazeera, 07.11.](https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours)).
+Über die Hisbollah schreibt das Tahrir Institute: *„military capacity is reduced, but its political and ideological core
+remain strong“* ([TIMEP, 04.11.](https://timep.org/2026/11/04/disarming-hezbollah-can-only-succeed-as-a-domestic-process/)).
+
+*(8) Korrekturen dieser Spur.* Rezaei ist Sekretär des Obersten Nationalen Sicherheitsrats, den Vorsitz führt nach
+Artikel 176 der Verfassung der Präsident. Der Eintrag vom 11.10. nannte ihn Vorsitzenden; das ist dort korrigiert. Zum
+Memorandum gehört ein zweites Datum: Seine 60-Tage-Frist für ein endgültiges Abkommen lief am 17.08. ab
+([Al Jazeera, 17.08.](https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart)).
+
+**Deutung:** Ausgelöst ist keine der registrierten Bedingungen. Zwei Befunde rücken die Seite „gestärkt“ näher. Das
+Atomprogramm bleibt ohne Kontrolle, und der Druck, die Doktrin zu ändern, wächst im Parlament und bei den
+Revolutionsgarden; das ist eine Ankündigung, kein Aufbau. Und mit der AP-Recherche hat die Bedingung „Iran
+rekonstituiert seine regionalen Allianzen“ zum ersten Mal einen handelnden Akteur, nicht nur einen Verbündeten, der
+gewinnt. Die Deutung vom 11.10. ist zu korrigieren. Sie las aus der NYT-Rekonstruktion eine Zersplitterung der Führung.
+In diesem Fenster überträgt der Oberste Führer der Regierung Vollmachten für Gespräche und lässt zugleich die harte
+Linie verkünden. Das spricht eher für ein Zentrum, das beide Linien führt, als für Zerfall, und damit für die
+registrierte Bedingung „Mojtabas Regime festigt seine Macht“. Auf der anderen Seite hat die Bedingung „die Rally zerbricht
+an der Wirtschaftsnot“ mehr Material als je zuvor, aber kein Ereignis. Die Midterms berühren die These nur mittelbar: Sie
+messen die Kosten des Krieges in Amerika, nicht sein Ziel in Iran. Die Konfidenz steigt um zwei Punkte, weil ein Teil des
+Rückgangs vom 11.10. auf der Zersplitterungslesart beruhte.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Dass Mojtaba Vollmachten übertragen habe, sagt Pezeshkian, also eine Partei im
+Machtkampf; Mojtaba selbst ist seit März nicht zu sehen. Das „Zentrum“ ist aus Aussagen erschlossen, nicht beobachtet.
+**(2)** Fehlende Massenproteste können Repression bedeuten und keine Zustimmung. Streiks und Proteste von Berufsverbänden
+gibt es weiter. **(3)** Die Drohung der Revolutionsgarden ist an eine Bedingung geknüpft, und die Nuclear Threat
+Initiative sieht keine laufende Beschleunigung. Ankündigungen sind kein Programm. **(4)** Nach US-Angaben kann die
+Revolutionsgarde ihre Truppen nicht bezahlen, und die Blockade habe mindestens 25 Mrd. Dollar Ölexporte verhindert
+([Al Jazeera, 20.10.](https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money)).
+Das sind Aussagen einer Kriegspartei; träfen sie zu, wäre das Regime materiell schwächer, als es auftritt. **(5)** Die
+AP-Quellen sind anonym. **(6)** Der Pfad „schwächer und eingehegt“ ist offen: Es gibt Kanäle über Katar und Pakistan,
+einen iranischen Vorschlag, und Rezaei schließt eine Verdünnung des Urans unter Aufsicht nicht aus.
+
+*Stimmen jenseits der Standardquellen* → Tiefen-Sweep im Stimmenspektrum.
+
 ### 2026-10-11 — Der Krieg, der nicht endete (Konfidenz 64 % → 58 %)
 
 **Befund:** *(1) Zuerst eine Korrektur dieser Spur.* Seit ihrer Anlage führt sie den 17.06. als Kriegsende. Das
@@ -142,8 +245,8 @@ erklärte Trump das Memorandum für beendet, und seit dem **14.07.** gilt wieder
 dazu kam, rekonstruierte die New York Times am **13.09.**: Präsident Pezeshkian habe von dem Angriff nichts gewusst,
 ebenso wenig der Oberste Nationale Sicherheitsrat. Interne Untersuchungen führten die Entscheidung auf den Kleriker und
 früheren Geheimdienstchef **Hossein Taeb** zurück, der das Abkommen abgelehnt hatte. Mojtaba Khamenei hat Taeb
-inzwischen an die Spitze der Basij gesetzt, der Miliz, die Unruhen im Inneren niederschlägt. Den Vorsitz des
-Sicherheitsrats übernahm Mohsen Rezaei, um zwischen den Lagern zu vermitteln
+inzwischen an die Spitze der Basij gesetzt, der Miliz, die Unruhen im Inneren niederschlägt. Sekretär des
+Sicherheitsrats wurde Mohsen Rezaei *(hier zuerst „Vorsitz“, korrigiert am 08.11.)*, um zwischen den Lagern zu vermitteln
 ([NYT](https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html), referiert von
 [Gulf News, 14.09.](https://gulfnews.com/world/mena/iran-s-president-pezeshkian-wanted-talks-hardliners-had-a-war-plan-1.500673875)).
 
@@ -161,7 +264,7 @@ worden ([Mehr, 05.10.](https://en.mehrnews.com/news/248349/US-cannot-be-trusted-
 kündigte Trump an, vor den Midterms am 03.11. nicht anzugreifen; die Blockade bleibe *„in full force“*
 ([Global Times/Xinhua](https://www.globaltimes.cn/page/202610/1371877.shtml)).
 
-*(4) Wirtschaft.* Am **03.10.** sprach Sicherheitsratschef Rezaei laut IRNA von einer der *„schwierigsten Phasen“* in der
+*(4) Wirtschaft.* Am **03.10.** sprach Sicherheitsratssekretär Rezaei laut IRNA von einer der *„schwierigsten Phasen“* in der
 Geschichte des Landes. Pflegekräfte und Lehrkräfte kündigen öffentlich, weil die Gehälter nicht mehr reichen, Rentner
 protestieren wegen ausbleibender Pensionen ([NYT via Business Standard, 05.10.](https://www.business-standard.com/world-news/iran-s-top-security-official-warns-of-dire-economic-crisis-as-war-drags-on-126100500065_1.html)).
 Der Rial fiel am 04.10. auf das Rekordtief von **2,72 Mio. je Dollar** ([Iran International](https://www.iranintl.com/en/202610044269)).
@@ -257,6 +360,17 @@ Berichten saudisch mitfinanziert) · Gulf News (Dubai).
 > Rückgang heben fast genau den Sprung vom 12.09. auf. Zu prüfen bleibt, dass das keine Buße für die damalige
 > Großzügigkeit ist: Getragen wird er von der Zersplitterung und vom Wirtschaftseingeständnis, nicht von der Korrektur.
 
+> [!question] Sweep 08.11.2026 — das Urteil, das keins ist
+> Den stärksten Zug hatte diesmal die Wahl in Amerika. Ein Vizepräsident, der den eigenen Krieg für die Niederlage
+> verantwortlich macht, liest sich wie ein Urteil über den Krieg. Es ist ein Urteil der amerikanischen Wähler über
+> Benzinpreise und Kosten, und die These fragt nach dem Ziel des Krieges in Iran. Darum steht die Wahl im Befund und
+> trägt die Konfidenz nicht. Die zweite Prüfung betrifft die eigene Rücknahme: Die zwei Punkte heben einen Teil des
+> Rückgangs vom 11.10. wieder auf. Das darf kein Pendel werden, das jeder neuen Lesart nachschwingt. Darum stützen sie sich
+> auf zwei überprüfbare Aussagen (Vollmacht, Botschaft nach Moskau) und bleiben klein, weil beide aus dem Regime selbst
+> kommen. Drittens hat dieser Sweep drei eigene Fehler gefunden: Rezaeis Amt, das zweite Datum des Memorandums und eine
+> AP-Recherche, die die These stützt und trotzdem übersehen wurde. Die Fehler liegen nicht alle auf einer Seite; die
+> Belegprüfung war schlicht zu flach. Der Ring Globaler Süden bleibt dünn.
+
 
 ## Stimmenspektrum
 
@@ -271,6 +385,21 @@ Berichten saudisch mitfinanziert) · Gulf News (Dubai).
 | **Globaler Süden / Blockfreie** | UN-Charta-/Souveränitäts-Argument, NAM-nahe Stimmen | Angriff auf einen souveränen Staat *während* Verhandlungen als gefährlicher Präzedenzfall — unabhängig von Sympathie fürs Regime | der eigentliche Mehrwert ggü. dem westlichen Feuilleton: die Norm, nicht das Regime, im Zentrum |
 
 **Provenienz-Notiz:** Der schärfste Befund liegt quer zu allen Lagern — *kein* großer Akteur spricht ohne Eigeninteresse. China und Russland verteidigen nicht Iran, sondern das **Prinzip souveräner Unverletzlichkeit**, das ihre eigene Lage schützt. Der Westen feiert einen „Sieg", dessen Hauptergebnis (Regime überlebt, härter) seinem erklärten Ziel widerspricht. → Reaktiviert die Idee einer **Weltpresseschau**: nicht nur *wie wir* blicken.
+
+**Tiefen-Sweep 08.11.2026** — zu den Midterms, den Verhandlungen und der Atomdoktrin:
+
+| Ring | Stimme | Lesart | Provenienz |
+|---|---|---|---|
+| **Iran — staatsnah** | Hamidreza Moghaddamfar, Berater des Oberbefehlshabers der Revolutionsgarden, über Tasnim: die Wahl sei *„a major referendum in the United States about the outcome of the war“* ([Newsweek](https://www.newsweek.com/iran-mocks-trump-over-midterms-election-drubbing-warmongering-democrats-republicans-12662638)) | die Wahl als Niederlage des Angreifers | Tasnim: den Revolutionsgarden nahe, halbamtlich |
+| **Iran — staatsnah, abweichend** | *Jomhouri-e Eslami*, 31.10.: *„We must not allow war to be accepted as the inescapable fate for Iran“* ([Al Jazeera](https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace)) | für Verhandlungen | staatsnah, konservativ-pragmatisch |
+| **Iran — unabhängig / Exil** | Iran International, 06.11.: steigende Preise und stagnierende Löhne treiben die Menschen tiefer in die Krise, während Zeitungen Trumps Niederlage feiern ([Iran International](https://www.iranintl.com/en/202611061540)) | oben Triumph, unten Not | London, nach Berichten saudisch mitfinanziert, regimefeindlich |
+| **Iran — Menschenrechte** | HRANA, 01.11.: über 60.000 Festnahmen wegen Meinungsäußerung seit Jahresbeginn ([HRANA](https://www.en-hrana.org/monthly-report-october-2026-human-rights-situation-in-iran/)) | Ruhe durch Repression | US-basiertes Netzwerk, dokumentiert Einzelfälle |
+| **Region — Golf** | drei hohe Golf-Beamte, anonym: drängen auf Deeskalation, manche Staaten könnten Angriffe von ihren Basen verweigern ([MS NOW](https://www.ms.now/news/trump-plans-to-resume-strikes-on-iran-day-after-midterm-elections)) | Angst vor Vergeltung, Rolle als Vermittler | die Golfstaaten tragen einen Teil der Schäden |
+| **Region — Pakistan** | Militärsprecher Ahmed Sharif Chaudhry: *„cautiously optimistic“*, warnt vor *„powerful spoilers and detractors“* ([Al Jazeera](https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts)) | Vermittler | Armee, mit Saudi-Arabien und der Türkei in einem Verteidigungspakt |
+| **Region — Israel** | Netanjahu drängte Trump laut Axios, direkt nach den Midterms anzugreifen ([Axios, 01.11.](https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war)) | die Zeit arbeite für Iran | Kriegspartei, Regierung nach der Wahl geschäftsführend |
+| **Mächte — USA** | Vance: *„The reason we lost is the war“*; Trump: *„I did the right thing“* ([Al Jazeera](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war)) | Streit in der Regierungspartei | Kriegspartei |
+| **Mächte — Russland / China** | im Sicherheitsrat am 27.10.: Russland *„no procedural grounds“*, China nennt die US-Angriffe die *„direct cause“* ([UN](https://press.un.org/en/blog/sc16491)) | Schutzschild für Teheran im Rat | Vetomächte mit eigenem Interesse an Öl und gegen die USA |
+| **Globaler Süden** | Indien erhält eine Ausnahme für die Durchfahrt gegen Medikamente ([Al Jazeera](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions)) | Interessen statt Lager | **Lücke:** keine eigene Stimme aus Afrika oder Lateinamerika im Fenster gefunden |
 
 ## Verbindungen
 
