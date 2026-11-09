@@ -252,7 +252,7 @@ Das Panorama fragt, woran man eine Absicht erkennen würde, wenn die Routine die
 ### → [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Dokumentieren für ein Tribunal, das noch niemand einberufen hat|Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
 Memorial sammelt Belege für Prozesse, die es noch nicht gibt, wie die polnische Abteilung für Kriegsverbrechen 1944 mit der Höß-Akte. Bei Fleming wurde daraus nach dem Krieg Anklage; Memorials Erfahrung aus Tschetschenien ist die Gegenprobe. Der Satz dieser Note, für das Recht sei es nicht zu spät gewesen, trägt nur dort, wo ein Regime fällt.
 
-### → [[Götz Aly — Wie konnte das geschehen#1. Die Menschen wussten es|Götz Aly — Wie konnte das geschehen?]]
+### → [[Götz Aly — Wie konnte das geschehen#Sie wussten es|Götz Aly — Wie konnte das geschehen?]]
 Aly zitiert Thomas Manns BBC-Rede an die Deutschen vom November 1941: Was mit Polen und Juden geschehe, wisst ihr, wollt es aber lieber nicht wissen. Fleming zeigt die andere Seite derselben Sender: Gräuel durften nach Kontinentaleuropa gehen, wenn sie dort Schuld weckten, und blieben im eigenen Land klein. Dasselbe Wissen, zwei Publiken.
 
 ### → [[Hannah Arendt — Zur Person#Der Abgrund 1943|Hannah Arendt — Zur Person]]

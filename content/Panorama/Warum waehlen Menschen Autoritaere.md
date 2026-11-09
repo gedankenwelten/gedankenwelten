@@ -192,7 +192,7 @@ Wie lange die Lehre aus Weimar hält, ist eine eigene Frage. Das *kommunikative 
 
 <details><summary>Weitere Stimmen (2)</summary>
 
-- **[[Götz Aly — Wie konnte das geschehen#4. Soziale Integration durch Raub — der materielle Kitt|Götz Aly]]** (zweite Note): Der Kitt war materiell und finanziert durch Raub, von den freien Lehrerstellen nach den Berufsverboten bis zum Familienunterhalt von 90 Prozent des letzten Lohns.
+- **[[Götz Aly — Wie konnte das geschehen#Eine Gefälligkeit nach der anderen|Götz Aly]]** (zweite Note): Der Kitt war materiell und finanziert durch Raub, von den freien Lehrerstellen nach den Berufsverboten bis zum Familienunterhalt von 90 Prozent des letzten Lohns.
 - **[[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke]]:** zieht die Linie von Brüning zur Gegenwart, von der Sparpolitik zum Kontrollverlust.
 
 </details>

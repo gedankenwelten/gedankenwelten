@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **09.11.** — [[Denker/Götz Aly — Wie konnte das geschehen|Götz Aly — Wie konnte das geschehen?]]
+>
+> Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
+
+> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+>
+> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
+
+> **01.11.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+
 ### Geistesblitz
 
 > **09.11.** — [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
@@ -117,20 +131,6 @@ Die Gedankenwelten (luc)
 > Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen in Länder geflogen, die nicht ihre sind. Wer Menschen zum Mittel macht, erntet, was er sät, und nennt es dann Beweis.
 
 > → *5 weitere in* [[Spuren]]
-
-### Denker
-
-> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
->
-> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
-
-> **01.11.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
->
-> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
-
-> **01.11.** — [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
->
-> Klassiker werden gemacht, nicht geboren. Alice Kaplan erzählt, wie Camus' Fremder 1946 nach Amerika kam: zwei Titel, ein gekränkter Verlag, eine Anzeige und ein FBI-Agent mit Verstand.
 
 ### Kultur
 

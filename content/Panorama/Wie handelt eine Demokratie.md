@@ -291,7 +291,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 **Die Stimmen**
 
 - **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#„Man hat sich wechselseitig unglaublich viel verziehen“|Christoph Safferling]]:** Die Spruchkammern machten fast alle zu Mitläufern, und man verzieh sich gegenseitig; die kalte Verjährung von 1968 war die Folge.
-- **[[Götz Aly — Wie konnte das geschehen#9. Die Stunde Null — notwendige Verdrängung?|Götz Aly]]:** Wahrscheinlich hatten sie keine andere Wahl, als erst einmal zu verdrängen, sonst wäre ein Neuanfang sehr schwierig gewesen.
+- **[[Götz Aly — Wie konnte das geschehen#Stunde Null|Götz Aly]]:** Wahrscheinlich hatten sie keine andere Wahl, als erst einmal zu verdrängen, sonst wäre ein Neuanfang sehr schwierig gewesen.
 - **[[Heinz Bude — Boomer-Soziologie#Kommunikatives Beschweigen und die ausgebliebene Katastrophe|Heinz Bude]]:** „Wir wissen, was wir voneinander zu halten haben, aber wir sagen es nicht“ — Beschweigen als Technik der Koexistenz.
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Entlastungserzählungen — Ost, West und der Mythos vom Befehlsnotstand|Jens-Christian Wagner]]:** Der Befehlsnotstand war ein Mythos; aufgearbeitet wurde erst mit den Enkeln, weil die Täter mitten in der Gesellschaft lebten.
 - **[[Hannah Arendt — Denken ohne Geländer#3. Persönliche Verantwortung in der Diktatur|Hannah Arendt]]:** Die Frage an den Funktionsträger lautet nicht „Warum hast du gehorcht?“, sondern „Warum hast du Unterstützung geleistet?“.

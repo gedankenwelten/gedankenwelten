@@ -450,7 +450,7 @@ Botas „Wenn der Täter weiß, dass er davonkommt“ und Memorials Lehre aus Ts
 
 Memorial sammelt Tatsachen „professionell und fachlich“, weil ohne sie keine Schuld zu beweisen ist. Schwarz benennt den Punkt, an dem solche Verfahren sterben: die Verbindung von Tat und Person. Sein „Archiv folgenloser Taten“ hat in Tschetschenien eine Vorgeschichte: Dort wurde dokumentiert, und niemand wurde belangt.
 
-### → [[Götz Aly — Wie konnte das geschehen#1. Die Menschen wussten es|Götz Aly — Die Menschen wussten es]]
+### → [[Götz Aly — Wie konnte das geschehen#Sie wussten es|Götz Aly — Die Menschen wussten es]]
 
 Thomas Mann 1941: „wisst ihr, wollt es aber lieber nicht wissen“. Scherbakowa sagt fast dasselbe über Russland und zieht den Vergleich selbst, für das Wegsehen, nicht für die Taten. Aly erklärt die Bindung aus Nutzen und Zustimmung; Scherbakowa sieht keine begeisterte Mehrheit, sondern Gewöhnung und eine bequeme Formel.
 
