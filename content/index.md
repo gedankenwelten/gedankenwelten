@@ -88,7 +88,7 @@ Die Gedankenwelten (luc)
 
 > **09.11.** — [[Spuren/Gewalt-aus-Ueberzeugung|Gewalt aus Überzeugung — nimmt sie in Deutschland zu?]]
 >
-> Gewalt von rechts, von links, aus Religion: Diese Spur zählt sie bis zur nächsten Bundestagswahl im selben Takt und mit demselben Maß, und sie sagt offen, wie ungleich gezählt wird.
+> Gewalt von rechts, von links, aus Religion, aus fremden Konflikten: Diese Spur zählt sie bis zur Bundestagswahl 2029 mit demselben Maß und sagt offen, wie ungleich gezählt wird.
 
 > **08.11.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
 >

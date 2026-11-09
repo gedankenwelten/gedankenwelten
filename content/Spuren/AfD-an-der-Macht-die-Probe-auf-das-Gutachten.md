@@ -587,7 +587,7 @@ Die Wahlnachlese vom 21.09.2026 hält das Magdeburger Patt fest: Siegmund brauch
 Am 09.10.2026 drohte ein AfD-Lokalpolitiker mit gestrichenen Fördergeldern und einer „geänderten Gedenkkultur“, nachdem jüdische Studierende dem Landtagsvizepräsidenten Tillschneider den Zutritt zum Halle-Gedenken verwehrt hatten; am selben Tag ging die Opfer-Erzählung als amtliche Landtags-Pressemitteilung hinaus. Eine Ankündigung und ein Amtsgebrauch, noch keine Maßnahme.
 
 ### → [[Spuren/Gewalt-aus-Ueberzeugung|Spur: Gewalt aus Überzeugung]]
-Die Beobachtungsspur zur politisch und religiös motivierten Gewalt endet mit der Bundestagswahl 2029. Ändert sich danach die Regierung, schließt sie hier an.
+Die Beobachtungsspur zur politisch und religiös motivierten Gewalt läuft ebenfalls bis zur Bundestagswahl 2029, alle Bereiche im selben Takt.
 
 ## Quellen
 

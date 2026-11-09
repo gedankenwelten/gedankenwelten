@@ -134,6 +134,11 @@ SECTION_ORIGINS = {
     "empfehlenswerte videos & vorträge": "denkervita-video",
     "empfehlenswerte videos & vortraege": "denkervita-video",
     "empfehlenswerte videos und vorträge": "denkervita-video",
+    # Vita-Aufbau nach dem Vorbild „Der Dara“ (seit 11/2026) und die Regel-Überschrift
+    # für Vitas ohne Bücher (gedankenwelten.md, „Struktur anpassen“).
+    "empfehlenswerte videos": "denkervita-video",
+    "bücher, texte & kanäle": "denkervita-book",
+    "öffentliche arbeit, kanäle & engagement": "denkervita-book",
 }
 
 # Sub-labels inside "Weiterführende Quellen" refine the origin.

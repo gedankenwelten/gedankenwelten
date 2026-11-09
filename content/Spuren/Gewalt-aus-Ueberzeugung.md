@@ -14,7 +14,7 @@ spur-art: beobachtung
 review-takt: 90-tage
 eroeffnet: 2026-11-09
 aktualisiert: 2026-11-09
-description: "Gewalt von rechts, von links, aus Religion: Diese Spur zählt sie bis zur nächsten Bundestagswahl im selben Takt und mit demselben Maß, und sie sagt offen, wie ungleich gezählt wird."
+description: "Gewalt von rechts, von links, aus Religion, aus fremden Konflikten: Diese Spur zählt sie bis zur Bundestagswahl 2029 mit demselben Maß und sagt offen, wie ungleich gezählt wird."
 raetsel: "Fünf Farben im selben Buch. Der Stein auf dem Tisch hat keine."
 ---
 
@@ -31,9 +31,9 @@ raetsel: "Fünf Farben im selben Buch. Der Stein auf dem Tisch hat keine."
 </details>
 
 > [!abstract] Worum es geht
-> Gewalt von rechts, von links, aus Religion: Diese Spur zählt sie bis zur nächsten Bundestagswahl im selben Takt und mit demselben Maß, und sie sagt offen, wie ungleich gezählt wird.
+> Gewalt von rechts, von links, aus Religion, aus fremden Konflikten: Diese Spur zählt sie bis zur Bundestagswahl 2029 mit demselben Maß und sagt offen, wie ungleich gezählt wird.
 >
-> Sie stellt keine These auf. Sie fragt, ob politisch und religiös motivierte Gewalt in Deutschland zunimmt, und hält vorab fest, woran sie das messen wird. 2025 zählte die Polizei 4.156 solcher Gewalttaten, so viele wie seit 2016 nicht. Was die Zahl verdeckt, ist genauso wichtig: wer sie meldet, was im Sammelbecken „sonstige“ landet und warum die Opferberatungen bei rechter Gewalt mehr als doppelt so viele Angriffe kennen. Sie endet mit der Wahl 2029.
+> Sie stellt keine These auf. Sie fragt, ob politisch und religiös motivierte Gewalt in Deutschland zunimmt, und hält vorab fest, woran sie das messen wird. 2025 zählte die Polizei 4.156 solcher Gewalttaten, so viele wie seit 2016 nicht. Was die Zahl verdeckt, ist genauso wichtig: wer sie meldet, was im Sammelbecken „sonstige“ landet und warum es nur für rechte Gewalt eine zweite Zählung gibt, die mehr als doppelt so viele Angriffe kennt, während für die anderen Bereiche niemand nachzählt. Sie endet mit der Wahl 2029.
 
 ---
 
@@ -51,17 +51,17 @@ Eine Spur in dieser Form ist eine **Beobachtung**, wie [[Spuren/Halbzeit-Amerika
 
 *Stand 09.11.2026. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf.*
 
-Am 9. Juni 2026 stellten Innenminister Dobrindt und BKA-Präsident Münch die Zahlen für 2025 vor, unter der Überschrift „Neuer Höchststand Politisch motivierter Gewalt“ ([Bundesregierung](https://www.bundesregierung.de/breg-de/aktuelles/politisch-motivierte-kriminalitaet-2025-2438542)). Insgesamt waren es 4.156 Gewalttaten, kaum mehr als im Jahr davor (4.107). Darunter bewegten sich die Bereiche gegeneinander:
+Am 9. Juni 2026 stellten Innenminister Dobrindt und BKA-Präsident Münch die Zahlen für 2025 vor. Einen Höchststand erreichten die politisch motivierten *Straftaten* insgesamt, die Gewalttaten den höchsten Stand seit 2016. Dobrindt betonte, im linken wie im rechten Bereich stiegen die Gewaltdelikte deutlich; die mit Abstand meisten Delikte verübten aber rechte Täter ([Bundesregierung](https://www.bundesregierung.de/breg-de/aktuelles/politisch-motivierte-kriminalitaet-2025-2438542)). Insgesamt waren es 4.156 Gewalttaten, kaum mehr als im Jahr davor (4.107). Darunter bewegten sich die Bereiche gegeneinander:
 
 - **rechts** 1.598 Gewalttaten, ein Plus von gut sieben Prozent, der höchste Wert seit 2016
-- **links** 1.087, ein Plus von fast 43 Prozent nach Jahren des Rückgangs
-- **ausländische Ideologie** 704, ein Minus von 28 Prozent nach dem Sprung von 2024
-- **religiöse Ideologie** 98, ein kleiner Bereich mit den schwersten Taten: zwei vollendete und acht versuchte Tötungsdelikte
+- **links** 1.087, ein Plus von fast 43 Prozent, der höchste Wert seit 2021
+- **ausländische Ideologie** 704, ein Minus von 28 Prozent, der zweithöchste Wert seit Beginn dieses Bereichs 2017
+- **religiöse Ideologie** 98, der höchste Wert seit 2017, mit den schwersten Taten: zwei vollendete und acht versuchte Tötungsdelikte
 - **sonstige Zuordnung** 669, weiter rückläufig seit dem Corona-Gipfel 2022
 
-Dabei wurden 2.508 Menschen verletzt, 1.146 davon durch rechte Gewalt ([BMI-Factsheet 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26013-factsheet2025.pdf?__blob=publicationFile&v=3), S. 9–12). Der Verfassungsschutzbericht vom 30. Juni zählt in der Teilmenge der *extremistischen* Gewalt dasselbe Muster: rechts 1.395, links 856, also links ein Plus von 61 Prozent ([Verfassungsschutzbericht 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26012-vsb2025.pdf?__blob=publicationFile&v=7), S. 26).
+Dabei wurden 2.508 Menschen verletzt, 1.146 davon durch rechte Gewalt ([BMI-Factsheet 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26013-factsheet2025.pdf?__blob=publicationFile&v=3), S. 9–12). Der Verfassungsschutzbericht vom 30. Juni zählt in der Teilmenge der *extremistischen* Gewalt dasselbe Muster: rechts 1.395, links 856, also links ein Plus von 61 Prozent ([Verfassungsschutzbericht 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26012-vsb2025.pdf?__blob=publicationFile&v=7), S. 27 und 40).
 
-Für das laufende Jahr 2026 gibt es noch keine belastbare Zahl, und sie wird auch später einen Bruch tragen. Am 1. Juni 2026 wurde das Meldesystem technisch umgestellt. Die Länder haben für 2026 bislang weniger gemeldet und melden nach. Die Bundesregierung schreibt selbst, eine Vergleichbarkeit mit dem Vorjahr sei „nicht gegeben“ ([BT-Drs. 21/6615](https://dserver.bundestag.de/btd/21/066/2106615.pdf), S. 1).
+Für das laufende Jahr 2026 gibt es noch keine belastbare Zahl. Am 1. Juni 2026 wurde das Meldesystem technisch umgestellt. Die Länder haben für 2026 bislang weniger gemeldet und melden nach. Die Bundesregierung schreibt selbst, eine Vergleichbarkeit mit dem Vorjahr sei „nicht gegeben“ ([BT-Drs. 21/6615](https://dserver.bundestag.de/btd/21/066/2106615.pdf), S. 1).
 
 ---
 
@@ -75,21 +75,21 @@ Für das laufende Jahr 2026 gibt es noch keine belastbare Zahl, und sie wird auc
 
 | Bereich | Mittel 2021–2025 | „gleich geblieben“, wenn zwischen | 2025 zum Vergleich |
 |---|---|---|---|
-| rechts | 1.314 | 1.182 und 1.445 | 1.598 |
+| rechts | 1.314 | 1.183 und 1.444 | 1.598 |
 | links | 962 | 866 und 1.058 | 1.087 |
 | ausländische Ideologie | 536 | 483 und 590 | 704 |
-| religiöse Ideologie | 77 | 69 und 85 | 98 |
+| religiöse Ideologie | 77 | 70 und 84 | 98 |
 | sonstige Zuordnung | 1.062 | 956 und 1.168 | 669 |
-| gesamt | 3.951 | 3.556 und 4.346 | 4.156 |
+| gesamt | 3.951 | 3.557 und 4.346 | 4.156 |
 
-**Die Antwort je Bereich.** Liegt die jüngste vergleichbare Jahreszahl mehr als zehn Prozent über dem Mittel, heißt es „zugenommen“, mehr als zehn Prozent darunter „abgenommen“, dazwischen „gleich geblieben“. „Nicht entscheidbar“ gilt, wenn das BMI die Zahl selbst als nicht vergleichbar ausweist oder die Zählweise erneut bricht.
+**Die Antwort je Bereich.** Liegt die jüngste vergleichbare Jahreszahl mehr als zehn Prozent über dem Mittel, heißt es „zugenommen“, mehr als zehn Prozent darunter „abgenommen“, dazwischen „gleich geblieben“. Die Grenzen in der Tabelle sind die ganzen Zahlen, die noch im Band liegen; sie zählen zu „gleich geblieben“. „Nicht entscheidbar“ gilt, wenn das BMI die Zahl selbst als nicht vergleichbar ausweist oder die Zählweise erneut bricht.
 
-**Welche Zahl entscheidet.** Das Tatjahr 2027, veröffentlicht voraussichtlich im Frühsommer 2028. Das Tatjahr 2026 zählt nur, wenn das BMI es nach den Nachmeldungen nicht als unvergleichbar kennzeichnet. Die Zahl für 2028 erscheint erst nach der Wahl.
+**Welche Zahl entscheidet.** Das Tatjahr 2027, veröffentlicht voraussichtlich im Frühsommer 2028. Ist 2027 nicht vergleichbar, entscheidet 2026, sofern das BMI es nach den Nachmeldungen nicht selbst als unvergleichbar kennzeichnet. Ist beides nicht vergleichbar, lautet die Antwort „nicht entscheidbar“. Die Zahl für 2028 erscheint erst nach der Wahl.
 
-**Das Ende.** Mit der nächsten Bundestagswahl, die laut Bundeswahlleiterin zwischen dem 26. Januar und dem 25. März 2029 stattfinden muss ([Bundeswahlleiterin](https://bundeswahlleiterin.de/bundestagswahlen/2029.html)), schließt die Spur mit einer Antwort je Bereich. Danach entscheiden wir neu, ob wir weiterzählen. Käme nach dieser Wahl die AfD in Regierungsverantwortung, schließt sich diese Spur an [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht]] an, statt auszulaufen.
+**Das Ende.** Mit der nächsten Bundestagswahl, die laut Bundeswahlleiterin zwischen dem 26. Januar und dem 25. März 2029 stattfinden muss ([Bundeswahlleiterin](https://bundeswahlleiterin.de/bundestagswahlen/2029.html)), schließt die Spur mit einer Antwort je Bereich. Danach entscheiden wir mit dem Ergebnis der Wahl neu, ob wir weiterzählen.
 
 > [!warning] Was der Maßstab mit sich trägt
-> Ein Fünfjahresmittel ist eine Wahl, keine Naturgröße. Im Mittel 2021–2025 stecken für **links** die niedrigen Jahre 2022–2024, für **sonstige** der Corona-Gipfel 2021/22. Darum steht rechts 2025 schon bei 122 Prozent des Mittels und „sonstige“ bei 63 Prozent, bevor überhaupt eine neue Zahl gekommen ist. Wer die Antwort 2029 liest, soll das wissen.
+> Ein Fünfjahresmittel ist eine Wahl, keine Naturgröße. Im Mittel 2021–2025 stecken für **links** die niedrigen Jahre 2022–2024, für **sonstige** der Corona-Gipfel 2021/22. Darum liegen 2025 schon vier Bereiche über dem Band, rechts bei 122 Prozent des Mittels, links bei 113, ausländische Ideologie bei 131, religiöse bei 127, und „sonstige“ mit 63 Prozent darunter, bevor überhaupt eine neue Zahl gekommen ist. Wer die Antwort 2029 liest, soll das wissen.
 
 ---
 
@@ -147,9 +147,9 @@ Quellen: [Factsheet 2023](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroef
 Ziele werden seit 2019 erfasst, eine Tat kann mehrere haben, die Zahlen lassen sich darum nicht addieren.
 
 - **Gegen die Polizei** 1.154 Gewalttaten, davon 535 links, 348 ausländische Ideologie, 113 rechts. Gut zwei Drittel davon (782) sind Widerstandsdelikte ([Factsheet 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26013-factsheet2025.pdf?__blob=publicationFile&v=3), Tab. 29).
-- **Gegen Menschen aus Hass**, also wegen Herkunft, Religion, Orientierung: 1.815 Gewalttaten, davon fremdenfeindlich 1.476 (1.170 davon rechts) und antisemitisch 156, verteilt auf ausländische Ideologie (73), rechts (54) und religiöse Ideologie (16) ([BMI, Hasskriminalität](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26014-pmk-jahresfallzahlen2025.pdf?__blob=publicationFile&v=5), S. 6; Factsheet Tab. 13/15).
+- **Gegen Menschen aus Hass**, also wegen Herkunft, Religion, Orientierung: 1.815 Gewalttaten, davon fremdenfeindlich 1.476 (1.170 davon rechts) und antisemitisch 156, verteilt auf ausländische Ideologie (73), rechts (54), religiöse Ideologie (16) und sonstige (13) ([BMI, Hasskriminalität](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26014-pmk-jahresfallzahlen2025.pdf?__blob=publicationFile&v=5), S. 6; Factsheet Tab. 13/15).
 - **Gegen Parteien im Wahlkampf** 151 Gewalttaten (2024: 74), davon 99 gegen die AfD (Tab. 24).
-- **Gegen den politischen Gegner**: Der Verfassungsschutz zählt 528 linksextreme Gewalttaten gegen (vermeintliche) Rechtsextremisten und 165 rechtsextreme gegen (vermeintliche) Linksextremisten (VSB 2025, S. 27–35 und 40–47).
+- **Gegen den politischen Gegner**: Der Verfassungsschutz zählt 528 linksextreme Gewalttaten gegen (vermeintliche) Rechtsextremisten und 165 rechtsextreme gegen (vermeintliche) Linksextremisten. Unter den 528 sind 117 Widerstandsdelikte, also Gewalt gegen die Polizei bei Gegenprotesten, unter den 165 zwei (VSB 2025, S. 35 und 44).
 
 ---
 
@@ -158,12 +158,12 @@ Ziele werden seit 2019 erfasst, eine Tat kann mehrere haben, die Zahlen lassen s
 Wer Zahlen nebeneinanderlegt, misst auch, wie gut gezählt wird. Sieben Dinge gehören darum zu jeder Zahl dieser Spur.
 
 1. **Die PMK ist eine Eingangsstatistik.** Sie hält fest, wie die Polizei eine Tat bei der Meldung einordnet, eingefroren zum Stichtag 31. Januar. Ein später erkanntes Motiv wird nicht immer nachgetragen.
-2. **„Gewalt“ ist weit gefasst.** Dazu gehören auch Widerstand gegen Polizeibeamte und einfache Körperverletzung. Wo Gewalt gegen die Polizei groß ist, also bei links und ausländischer Ideologie, macht das viel aus.
-3. **„Sonstige Zuordnung“ ist ein Sammelbecken, kein Lager.** Hier landet, was unter keinen anderen Bereich fällt. 2021 sprang der Bereich wegen der Corona-Proteste und der Wahlen von 591 auf 1.444 Gewalttaten ([Factsheet 2021](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/nachrichten/2022/pmk2021-factsheets.pdf?__blob=publicationFile&v=1), S. 3). Auch 84 Prozent der Straftaten von Reichsbürgern stehen dort ([Factsheet 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26013-factsheet2025.pdf?__blob=publicationFile&v=3), S. 38).
+2. **„Gewalt“ ist weit gefasst.** Dazu gehören auch Widerstand gegen Polizeibeamte und einfache Körperverletzung. Beides wiegt in den Bereichen verschieden: Bei links und ausländischer Ideologie macht der Widerstand gegen die Polizei viel aus, bei rechts die Körperverletzung, sie stellt 1.437 der 1.598 rechten Gewalttaten, bei links 485 von 1.087 ([Factsheet 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26013-factsheet2025.pdf?__blob=publicationFile&v=3), Tab. 10).
+3. **„Sonstige Zuordnung“ ist ein Sammelbecken, kein Lager.** Hier landet, was unter keinen anderen Bereich fällt. 2021 sprang er bei der Gewalt von 591 auf 1.444 Taten; das BMI erklärt den Anstieg der Fälle in diesem Jahr mit den Corona-Protesten und den Wahlen, bei denen eine Zuordnung zu den klassischen Bereichen oft nicht möglich gewesen sei ([Factsheet 2021](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/nachrichten/2022/pmk2021-factsheets.pdf?__blob=publicationFile&v=1), S. 3). Auch 84 Prozent der Straftaten von Reichsbürgern stehen dort ([Factsheet 2025](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI26013-factsheet2025.pdf?__blob=publicationFile&v=3), S. 38).
 4. **Wer was als rechts sieht.** Der Verfassungsschutz rechnet von etwa 26.000 Reichsbürgern „rund 1.400 …, also etwas mehr als fünf Prozent“ zugleich dem Rechtsextremismus zu (VSB 2025, S. 151 f.). Für die Corona-Proteste schuf er 2021 eine eigene Kategorie, die „Delegitimierung des Staates“, und hat sie 2026 wieder aufgegeben, weil sie „an Bedeutung verloren“ habe ([BfV-Glossar](https://www.verfassungsschutz.de/SharedDocs/glossareintraege/DE/D/delegitimierung.html); [LTO, 14.04.2026](https://www.lto.de/recht/nachrichten/n/bundesamt-fuer-verfassungsschutz-delegitimierung-des-staates-extremismus-kategorie-abgeschafft)). Ob man Teile davon oder auch den Islamismus als rechts lesen sollte, ist eine Deutung, die man vertreten kann. Ein Policy-Papier der Konrad-Adenauer-Stiftung sieht zwischen Rechtsextremismus und Islamismus „verschiedene Ideologien, ähnliche Struktur“ ([Wegener 2020](https://www.kas.de/documents/252038/7995358/Gemeinsamkeiten+zwischen+Rechtsextremismus+und+Islamismus.pdf/e2bf43eb-f289-70fe-4632-8f4e341c3df8?version=1.0)). Die Spur bleibt bei den amtlichen Bereichen, und die Tabelle lässt jedem das Zusammenzählen.
-5. **Für rechts gibt es eine zweite Zählung, für die anderen nicht.** Die Opferberatungen zählen 2025 3.167 rechte, rassistische und antisemitische Angriffe, die Polizei für die vergleichbare Teilmenge 1.246 ([VBRG, Jahresbilanz 2025](https://verband-brg.de/rechte-rassistische-und-antisemitische-gewalt-in-deutschland-2025-jahresbilanzen-der-opferberatungsstellen/)). Der Abstand hat Gründe auf beiden Seiten: Die Beratungen zählen auch Angriffe ohne Anzeige (knapp zehn Prozent), die Polizeien der Länder ordnen uneinheitlich ein. Aber auch die Beratungen messen nicht gleichbleibend, ihr Gebiet wuchs von sieben Ländern (2015) auf dreizehn (2025), Bremen, Rheinland-Pfalz und das Saarland fehlen noch. Ein Teil ihres Anstiegs seit 2021 dürfte also ein Anstieg der Erfassung sein. Für linke oder religiös motivierte Gewalt haben wir kein zivilgesellschaftliches Gegenstück gefunden. Quer über die Motive zählt nur RIAS, und nur Antisemitismus ([RIAS 2025](https://report-antisemitism.de/documents/17-06-26_RIAS_Bund_Jahresbericht_2025.pdf)).
+5. **Für rechts gibt es eine zweite Zählung, für die anderen nicht.** Die Opferberatungen zählen 2025 3.167 rechte, rassistische und antisemitische Angriffe, die Polizei für die vergleichbare Teilmenge 1.246 ([VBRG, Jahresbilanz 2025](https://verband-brg.de/rechte-rassistische-und-antisemitische-gewalt-in-deutschland-2025-jahresbilanzen-der-opferberatungsstellen/)). Der Abstand hat Gründe auf beiden Seiten: Die Beratungen zählen auch Angriffe ohne Anzeige (knapp zehn Prozent), die Polizeien der Länder ordnen uneinheitlich ein. Aber auch die Beratungen messen nicht gleichbleibend, ihr Gebiet wuchs von sieben Ländern 2015 ([VBRG 2017](https://verband-brg.de/pressemitteilung-27042017-jahresstatistik-2016-der-opferberatungen-rechte-gewalt/)) auf dreizehn von sechzehn 2025. Ein Teil ihres Anstiegs seit 2021 dürfte also ein Anstieg der Erfassung sein. Umso bemerkenswerter: 2025 sank ihre Zahl (3.453 auf 3.167), obwohl ein Land dazukam, während die Polizei bei rechter Gewalt mehr zählte. Für linke oder religiös motivierte Gewalt haben wir kein zivilgesellschaftliches Gegenstück gefunden. Für antisemitische Vorfälle zählt RIAS über alle Hintergründe hinweg, 2025 waren es 178 Angriffe und vier Fälle extremer Gewalt ([RIAS 2025](https://report-antisemitism.de/documents/17-06-26_RIAS_Bund_Jahresbericht_2025.pdf)).
 6. **Auch bei den Toten wird ungleich gezählt.** Ein Sammelband von 2026 trägt Recherchen von Journalisten und Zivilgesellschaft zusammen, die für 1990 bis 2025 auf 203 Todesopfer rechter Gewalt kommen; das Bundesinnenministerium zählt 117 ([Coester, Kopke & Tausendteufel 2026](https://doi.org/10.14361/9783839479766), Sammelband).
-7. **Die Zählweise bricht.** 2001 wurde das Meldesystem eingeführt, frühere Zahlen sind nicht vergleichbar. 2017 wurde der Bereich „PMK-Ausländer“ in ausländische und religiöse Ideologie geteilt, ohne vergleichbare Vorjahre. 2023 wurde „nicht zuzuordnen“ in „sonstige Zuordnung“ umbenannt, ohne inhaltliche Änderung. Und im Juni 2026 kam die technische Umstellung.
+7. **Die Zählweise bricht.** 2001 wurde das Meldesystem eingeführt, frühere Zahlen sind nicht vergleichbar. 2017 wurde der Bereich „PMK-Ausländer“ in ausländische und religiöse Ideologie geteilt, ohne vergleichbare Vorjahre. 2023 wurde „nicht zuzuordnen“ in „sonstige Zuordnung“ umbenannt, ohne inhaltliche Änderung. Und im Juni 2026 kam die technische Umstellung. Auch einzelne Taten werden nachträglich umgewertet: 2023 galten je ein versuchtes Tötungsdelikt aus dem religiösen und dem ausländischen Bereich nach dem Stichtag nicht mehr als politisch ([Factsheet 2023](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/nachrichten/2024/pmk2023-factsheets.pdf?__blob=publicationFile&v=2), S. 10).
 
 > [!question] Weitergedacht
 > Für rechte Gewalt gibt es eine zweite, zivilgesellschaftliche Zählung, für linke und religiöse nicht. *Heißt das, dass rechte Gewalt eher unter- und die anderen eher richtig gezählt werden, oder nur, dass bei den anderen niemand nachzählt?*
@@ -172,7 +172,7 @@ Wer Zahlen nebeneinanderlegt, misst auch, wie gut gezählt wird. Sieben Dinge ge
 
 ## Vergangenheitsbild
 
-Damit „nimmt zu“ einen Maßstab hat, der weiter zurückreicht als die Statistik. Die Fälle vor 2001 stehen hier als Daten, nicht als Kurve.
+Damit „nimmt zu“ einen Maßstab hat, der weiter zurückreicht als die Statistik. Die Fälle stehen hier als Daten, nicht als Kurve; für die vor 2001 gibt es keine vergleichbare Zählung daneben.
 
 | Fall | Datum | Opfer | Einordnung |
 |---|---|---|---|
@@ -185,16 +185,16 @@ Damit „nimmt zu“ einen Maßstab hat, der weiter zurückreicht als die Statis
 | [Walter Lübcke](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2022/2022127.html) | 01.06.2019 | 1 Toter | rechtsextrem, rechtskräftig 2022 |
 | [Halle](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/316638/der-anschlag-von-halle/) | 09.10.2019 | 2 Tote | rechtsextrem, antisemitisch, rassistisch |
 | [Hanau](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/559464/19-februar-2020-anschlag-in-hanau/) | 19.02.2020 | 9 Ermordete, dazu die Mutter des Täters | rassistisch |
-| [RAF](https://www.bpb.de/themen/linksextremismus/geschichte-der-raf/49305/die-opfer-der-raf/) | – | 34 Ermordete | linksterroristisch |
-| 1. Mai, Berlin-Kreuzberg | 01./02.05.1987 | 245 verletzte Polizisten (Presseangaben) | linksautonome Krawalle |
-| [G20, Hamburg](https://www.bundestag.de/webarchiv/presse/hib/2017_09/527010-527010) | Juli 2017 | 592 durch Fremdeinwirkung verletzte Polizeikräfte | in der Bürgerschaft als linksextrem eingeordnet |
-| [Chaostage, Hannover](https://taz.de/!1495543/) | 04.–06.08.1995 | zeitnah gemeldet 80 verletzte Polizisten und 200 Jugendliche | Punk-Krawall, amtlich nie politisch eingeordnet, der Verfassungsschutzbericht 1995 erwähnt sie nicht |
+| [RAF](https://www.bpb.de/themen/linksextremismus/geschichte-der-raf/49305/die-opfer-der-raf/) | über zwei Jahrzehnte | 34 Ermordete | linksterroristisch |
+| [1. Mai, Berlin-Kreuzberg](https://www.spiegel.de/geschichte/1-mai-in-berlin-die-geschichte-der-kreuzberger-krawalle-ab-1987-a-1144792.html) | 01./02.05.1987 | keine amtliche Zahl gefunden | Krawall, ausgelöst von Autonomen |
+| [G20, Hamburg](https://www.bundestag.de/webarchiv/presse/hib/2017_09/527010-527010) | Juli 2017 | 592 durch Fremdeinwirkung verletzte Polizeikräfte | Ausschreitungen am Rand des Gipfels; „linksextremistisch“ nannten sie CDU-Abgeordnete in einer Anfrage der Bürgerschaft |
 | [Breitscheidplatz, Berlin](https://dserver.bundestag.de/btd/19/308/1930800.pdf) | 19.12.2016 | 13 Tote | islamistisch |
-| [Mannheim](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2024/Pressemitteilung-vom-06-11-2024-3.html) | 31.05.2024 | 1 Toter, der Polizist Rouven Laur | islamistisch, rechtskräftig 2025 |
+| [Mannheim](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2024/Pressemitteilung-vom-06-11-2024-3.html) | 31.05.2024 | 1 Toter, ein Polizist, 5 weitere Verletzte | islamistisch, [rechtskräftig 2025](https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/urteil-messerangriff-mannheim-marktplatz-fall-laur-rechtskraeftig-100.html) |
 | [Solingen](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026091.html) | 23.08.2024 | 3 Tote, 8 Verletzte | islamistisch, rechtskräftig 2026 |
 | [Magdeburg](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/chronik-anschlag-weihnachtsmarkt-tote-opfer-taeter-motiv-112.html) | 20.12.2024 | 6 Tote, rund 300 Verletzte | strittig: Der Generalbundesanwalt sah keinen „spezifischen Staatsschutzhintergrund“; das Urteil von 2026 ist nicht rechtskräftig |
+| [Chaostage, Hannover](https://taz.de/!1495543/) | 04.–06.08.1995 | zeitnah gemeldet 80 verletzte Polizisten und 200 Jugendliche | Punk-Krawall; im Verfassungsschutzbericht des Bundes 1995 nicht erwähnt |
 
-Zwei Fälle sind Prüfsteine fürs Zählen. Die **Chaostage** waren Gewalt aus einer Haltung, aber nicht aus einer politischen Überzeugung, die eine Statistik fassen könnte. **Magdeburg** war eine der schwersten Taten der letzten Jahre, und bis heute ist strittig, ob er in diese Spur gehört. Das Urteil ist noch nicht rechtskräftig, die Revision läuft ([MDR](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/weihnachtsmarkt-urteil-revision-taleb-a-,anschlag-166.html)). Wo solche Fälle in der Statistik stehen, ob unter „sonstige“ oder gar nicht, bestimmt mit, was diese Spur misst.
+Zwei Fälle sind Prüfsteine fürs Zählen. Die **Chaostage** waren Gewalt aus einer Haltung, aber aus keiner, die der Verfassungsschutz des Bundes damals politisch einordnete. **Magdeburg** war eine der schwersten Taten der letzten Jahre, und bis heute ist strittig, ob er in diese Spur gehört. Das Urteil ist noch nicht rechtskräftig, die Revision läuft ([MDR](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/weihnachtsmarkt-urteil-revision-taleb-a-,anschlag-166.html)). Wo solche Fälle in der Statistik stehen, ob unter „sonstige“ oder gar nicht, bestimmt mit, was diese Spur misst.
 
 ---
 
@@ -202,11 +202,21 @@ Zwei Fälle sind Prüfsteine fürs Zählen. Die **Chaostage** waren Gewalt aus e
 
 *Laufende Fälle, die die Spur begleitet. Jede Station bleibt, bis ihr Verfahren endet.*
 
+### Berlin, Stromnetz, 3. Januar 2026
+
+Ein Brandanschlag auf eine Kabelbrücke in Steglitz-Zehlendorf beschädigte mehrere Starkstromkabel. Rund 45.000 Haushalte, 2.200 Gewerbekunden sowie mehrere Krankenhäuser und Pflegeeinrichtungen waren teils tagelang ohne Strom, auch Notrufnummern waren zeitweise nur eingeschränkt erreichbar. Sogenannte „Vulkangruppen“ bekannten sich; Ziel sei die Stromversorgung des Heizkraftwerks Lichterfelde gewesen. Der Generalbundesanwalt ermittelt gegen Unbekannt, unter anderem wegen Mitgliedschaft in einer terroristischen Vereinigung und verfassungsfeindlicher Sabotage ([BKA, 27.01.2026](https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260127_Zeugenaufruf_Brandanschlag_Berlin.html)). Der Verfassungsschutzbericht führt den Anschlag im Kapitel Linksextremismus, zusammen mit einem Anschlag auf Hochspannungsmasten in Berlin-Adlershof im September 2025, bei dem die Täter einen „Kollateralschaden“ an Unbeteiligten „als vertretbar“ bezeichneten (VSB 2025, S. 165 f.).
+
+Hier wurde niemand verletzt, und doch traf die Tat mehr Menschen als jede andere in dieser Spur. Wie die Statistik so etwas wiegt, zählt sie als eine Tat.
+
+**Worauf wir schauen:** Festnahmen, Anklage, und wo der Anschlag in den Zahlen für 2026 steht.
+
 ### Dresden-Oberwartha, 3. Oktober 2026
 
-Am Rand eines Oktoberfests in Dresden-Oberwartha griff eine Gruppe von „zwanzig bis dreißig Personen“ Jugendliche an. Sechs von ihnen zwischen 14 und 17 Jahren und ein Erwachsener wurden „zum Teil schwer“ verletzt, ein 15-Jähriger erlitt Brüche an Augen- und Kieferhöhle. Am 29. Oktober meldeten Staatsanwaltschaft und Polizei acht Tatverdächtige, deutsche Staatsbürger zwischen 29 und 61 Jahren. Der Vorwurf lautet gefährliche Körperverletzung, geprüft wird auch schwerer Landfriedensbruch ([Medieninformation, 29.10.2026](https://www.medienservice.sachsen.de/medien/news/1100819)).
+Am Rand eines Oktoberfests in Dresden-Oberwartha griff eine Gruppe von „zwanzig bis dreißig Personen“ Jugendliche an. Sechs Jugendliche zwischen 14 und 17 Jahren und ein Erwachsener wurden „zum Teil schwer“ verletzt, ein 15-Jähriger erlitt Brüche an Augen- und Kieferhöhle. Am 29. Oktober meldeten Staatsanwaltschaft und Polizei acht Tatverdächtige, deutsche Staatsbürger zwischen 29 und 61 Jahren. Der Vorwurf lautet gefährliche Körperverletzung, geprüft wird auch schwerer Landfriedensbruch. Zum Motiv sagt die Mitteilung nichts ([Medieninformation, 29.10.2026](https://www.medienservice.sachsen.de/medien/news/1100819)).
 
-Laut Polizei sind zwei der Verdächtigen schon wegen politisch motivierter Gewalt aufgefallen. Ob der Angriff selbst politisch motiviert war, sei „bislang allerdings nicht geklärt“ ([MDR, 29.10.2026](https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul/oberwartha-koerperverletzung-tatverdaechtige-,attacke-oktoberfest-100.html)). Das Magazin *exakt* hatte eine Woche vorher berichtet: Die Jugendlichen seien über ihre Kleidung der linken Szene zuzuordnen gewesen, beim Einlass fiel das Wort „Zecken“, sie antworteten mit „Alerta, Antifaschista“, dann flog eine Flasche, und gut zwanzig erwachsene Männer jagten sie. Der Leiter des Dresdner Staatsschutzes sagte dort, einer der Sicherheitsleute sei „nachweislich als Rechtsextremist mit Gewalt in Erscheinung getreten“ ([MDR exakt, 21.10.2026](https://www.mdr.de/investigativ/gewalt-oktoberfest-oberwartha-102.html); [Manuskript](https://www.mdr.de/investigativ/gewalt-oktoberfest-oberwartha-100.pdf)).
+Laut Polizei sind zwei der Verdächtigen schon wegen politisch motivierter Gewalt aufgefallen. Ob der Angriff selbst politisch motiviert war, sei „bislang allerdings nicht geklärt“ ([MDR, 29.10.2026](https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul/oberwartha-koerperverletzung-tatverdaechtige-,attacke-oktoberfest-100.html)). Eine Woche vorher hatte für die Ermittler im Magazin *exakt* Marko Laske gesagt, nach bisherigen Erkenntnissen seien die Opfer „Personen aus dem linken Spektrum“, und man müsse „das rechte Spektrum unterstellen“; der Staatsschutz habe übernommen ([MDR exakt, 21.10.2026](https://www.mdr.de/investigativ/gewalt-oktoberfest-oberwartha-102.html); [Manuskript](https://www.mdr.de/investigativ/gewalt-oktoberfest-oberwartha-100.pdf), S. 3).
+
+Was *exakt* berichtet, aus beiden Richtungen: Die elf Jugendlichen seien über Kleidung und Frisuren der linken Szene zuzuordnen gewesen. Am Einlass habe man sie mit „ihr habt gekifft“ abgewiesen, was sie bestreiten; einer ging durch einen Seiteneingang aufs Gelände, dort fiel das Wort „Zecken“. Auf den Ruf „Ihr könnt nach Hause fahren“ antworteten sie mit „Alerta, Antifaschista“, dann flog eine Flasche, und gut zwanzig Männer jagten sie. Einer Mutter wurde vor Ort gesagt, die Kinder hätten angefangen, provoziert und Gewalt ausgeübt. Der verletzte Erwachsene war laut *exakt* ein Helfer, der dazukam. Auf einem Video fordert eine Stimme, die laut *exakt* einem Mitglied des Ortschaftsrats gehören soll, ein „Knüppelkommando in die Neustadt“; der Betroffene bestreitet das. Und laut dem Leiter des Dresdner Staatsschutzes war einer der Sicherheitsleute „nachweislich als Rechtsextremist mit Gewalt in Erscheinung getreten“.
 
 **Worauf wir schauen:** ob die Ermittler den Angriff als politisch motiviert einstufen, ob Anklage erhoben wird und wofür. *exakt* nennt einen 16-Jährigen mit zwei Gesichtsfrakturen, die Staatsanwaltschaft einen 15-Jährigen; wir folgen der Staatsanwaltschaft.
 
@@ -216,11 +226,11 @@ Laut Polizei sind zwei der Verdächtigen schon wegen politisch motivierter Gewal
 
 ### 2026-11-09 — Eröffnung
 
-**Befund:** 2025 zählte die Polizei 4.156 politisch motivierte Gewalttaten (2024: 4.107), so viele wie seit 2016 nicht. Rechts stieg auf 1.598, den höchsten Wert seit 2016; links sprang nach Jahren des Rückgangs um 43 Prozent auf 1.087; ausländische Ideologie fiel nach dem Sprung von 2024 um 28 Prozent auf 704. Religiös motivierte Gewalt blieb mit 98 Taten klein, trug aber die beiden vollendeten Tötungsdelikte. Für 2026 gibt es wegen der technischen Umstellung im Juni keine vergleichbare Zahl. Der Anlass für die Spur, der Angriff in Dresden-Oberwartha, ist noch nicht eingestuft.
+**Befund:** 2025 zählte die Polizei 4.156 politisch motivierte Gewalttaten (2024: 4.107), so viele wie seit 2016 nicht. Rechts stieg auf 1.598, den höchsten Wert seit 2016; links sprang nach Jahren des Rückgangs um 43 Prozent auf 1.087; ausländische Ideologie fiel nach dem Sprung von 2024 um 28 Prozent auf 704. Religiös motivierte Gewalt blieb mit 98 Taten klein, trug aber die beiden vollendeten Tötungsdelikte. Für 2026 gibt es wegen der technischen Umstellung im Juni keine vergleichbare Zahl. Zwei laufende Verfahren begleitet die Spur von Anfang an: den Anschlag auf das Berliner Stromnetz im Januar, zu dem sich „Vulkangruppen“ bekannten, und den Angriff auf Jugendliche in Dresden-Oberwartha im Oktober, der noch nicht eingestuft ist.
 
 **Deutung:** Die Gesamtzahl täuscht Stillstand vor. Darunter wandern die Bereiche gegeneinander, und jeder hat seine eigene Geschichte: der Nahostkrieg bei der ausländischen Ideologie 2024 (sieben von zehn Straftaten im Kontext des Nahostkonflikts standen dort, [Factsheet 2024](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25045_pmk2024-factsheet.pdf?__blob=publicationFile&v=5), S. 24), der Wahlkampf bei Gewalt gegen Parteien 2025, die Corona-Jahre bei „sonstige“. Eine Spur, die nur die Summe zählt, sähe nichts. Ob sich daraus bis 2029 eine Richtung ergibt, ist offen.
 
-**Gegenbeobachtung:** Ein Teil jedes Anstiegs kann ein Anstieg des Hinsehens sein. Die Opferberatungen haben ihr Gebiet fast verdoppelt, und wo Polizei und Öffentlichkeit genauer hinsehen, wird mehr gemeldet und eingeordnet. Ob das 2025 bei rechts oder bei links den größeren Teil ausmacht, lässt sich aus den Zahlen nicht sagen. Umgekehrt hat die Umstellung 2026 die Zahlen vorerst gedrückt, ohne dass weniger geschehen wäre.
+**Gegenbeobachtung:** Ein Teil jedes Anstiegs kann ein Anstieg des Hinsehens sein. Wo Polizei und Öffentlichkeit genauer hinsehen, wird mehr gemeldet und eingeordnet; ob das 2025 bei rechts oder bei links den größeren Teil ausmacht, lässt sich aus den Zahlen nicht sagen. Und die beiden Zählungen rechter Gewalt liefen 2025 auseinander: Die Polizei zählte mehr, die Opferberatungen weniger, obwohl ihr Gebiet wuchs. Für 2026 sind die Zahlen wegen der Umstellung vorerst niedriger gemeldet; was davon Nachmeldung ist, zeigt erst die Jahreszahl.
 
 ---
 
@@ -232,7 +242,7 @@ Laut Polizei sind zwei der Verdächtigen schon wegen politisch motivierter Gewal
 
 - *Wo verlange ich Bestätigung?* Der Cortex hat viele Notes zu rechter Gewalt und zum Ausstieg aus der rechten Szene, kaum welche zu linker oder islamistischer Gewalt. Die Versuchung ist, rechte Gewalt genauer und schwerer zu nehmen, weil wir sie besser kennen. Die Messregel behandelt darum alle Bereiche gleich, und die Tabelle steht vollständig da.
 - *Wo wehre ich ab?* Der Sprung linker Gewalt 2025 ist die Zahl, die am meisten Ausreden einlädt: Widerstandsdelikte, der Wahlkampf, Angriffe auf Rechtsextreme. Diese Gründe stehen in den Daten, aber sie gelten für andere Bereiche genauso. Sie werden im Verlauf nur dort genannt, wo die Daten sie für jeden Bereich gleich hergeben.
-- *Was die Wahl des Maßstabs tut:* siehe den Kasten unter der Messregel. Das Fünfjahresmittel begünstigt bei rechts heute ein „zugenommen“ und bei „sonstige“ ein „abgenommen“. Eine andere Wahl, etwa das Mittel 2017–2021, würde für links ein anderes Bild geben. Wir bleiben bei der festgehaltenen Wahl, und genau dafür steht sie vorher da.
+- *Was die Wahl des Maßstabs tut:* siehe den Kasten unter der Messregel. Das Fünfjahresmittel begünstigt heute bei vier Bereichen ein „zugenommen“ und bei „sonstige“ ein „abgenommen“. Eine andere Wahl, etwa das Mittel 2017–2021, würde für links ein anderes Bild geben. Wir bleiben bei der festgehaltenen Wahl, und genau dafür steht sie vorher da.
 
 ---
 
@@ -245,7 +255,7 @@ Die Ringe dieser Spur sind keine Länder, sondern Blickwinkel auf dieselben Zahl
 | Behörden | BKA, Bundesinnenministerium, Verfassungsschutz | die amtliche Einordnung; Eingangsstatistik, politische Verantwortung für die Lage |
 | Opferberatungen | VBRG, RIAS | der Blick der Betroffenen, auch ohne Anzeige; gewachsenes Erfassungsgebiet |
 | Forschung | Kriminologie, Extremismusforschung | Methode, Dunkelfeld, lange Reihen; Datenzugang über Anfragen |
-| Parlament | Quartalsanfragen der Linken zu rechter, antisemitischer und antimuslimischer Kriminalität; einzelne Anfragen zu linker und islamistischer | wer welche Gewalt sichtbar machen will |
+| Parlament | Quartalsanfragen der Linken zu rechter, antisemitischer und antimuslimischer Kriminalität; einzelne Anfragen anderer Fraktionen, etwa der AfD zu „deutschfeindlichen“ Straftaten und zu Linksextremismus | wer welche Gewalt sichtbar machen will |
 
 Der letzte Ring sagt am meisten über die Lücke. Dass es im Bundestag Quartalsreihen nur für rechte, antisemitische und antimuslimische Kriminalität gibt, liegt daran, wer fragt, nicht daran, was geschieht.
 
@@ -272,7 +282,13 @@ Wie eine Tat aus dieser Tabelle später gedeutet wird. Wer einen Anschlag zum Am
 Eine Nachbarspur zu Antisemitismus, gemessen nicht an Taten, sondern an dem, was eine Partei in ihrem Namen sagen lässt.
 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
-Hier schließt diese Spur an, falls sich nach der Wahl 2029 die Regierung ändert.
+Eine Nachbarspur, die ebenfalls auf die Wahl 2029 zuläuft.
+
+### → [[Denker/Duezen Tekkal — Deutschland ist bedroht|Düzen Tekkal — Deutschland ist bedroht]]
+Die Frage aus „Wie gezählt wird“, von einer Seite gestellt, die sie am eigenen Leib kennt: Die Jesidin Düzen Tekkal hält Islamismus und Rechtsextremismus für dieselbe Demokratiefeindschaft.
+
+### → [[Zeitgeist/Presseclub — Brandmauer nach links|Presseclub — Brandmauer nach links]]
+Ob die Abgrenzung, die gegen rechts gilt, auch nach links gezogen werden muss: vier Journalisten über die Linke nach ihrem Berliner Wahlsieg. Eine Debatte über Parteien, nicht über Gewalt, aber über dieselbe Frage nach gleichem Maß.
 
 ### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub — Extremismus und der Schutz der Demokratie]] · [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent und Göpel — Extremismus neu denken]]
 Zwei Gespräche darüber, was „Extremismus“ als Begriff leistet und wo er gleich macht, was nicht gleich ist.
