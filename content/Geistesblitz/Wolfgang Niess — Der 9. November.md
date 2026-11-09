@@ -386,6 +386,9 @@ Der Pogrom ist ein Fall für die Frage „Gehorsam, Gruppe oder Gelegenheit?“.
 ### → [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
 Niess' ganze These gehört hierher: Wer am 9. November erinnert, macht Politik, und das tat jede Generation, von den Sozialdemokraten, die den Tag 1919 allein feierten, bis zur NSDAP, die ihn zum Trauertag der Bewegung umwidmete. Für „Wem gehört ein Gedenken?“ ist das ein Fall von Kaperung, für „Wessen Tote werden erinnert?“ die Bundesrepublik, die das Gedenken an die Pogrome jahrzehntelang den jüdischen Gemeinden überließ.
 
+### → [[Spuren/Gewalt-aus-Ueberzeugung|Spur: Gewalt aus Überzeugung]]
+Am selben 9. November eröffnet: Die Spur fragt, ob Gewalt aus Überzeugung heute zunimmt, und legt 1980 bis 2024 als Vergangenheitsbild darunter.
+
 ---
 
 ## Weiterdenken
