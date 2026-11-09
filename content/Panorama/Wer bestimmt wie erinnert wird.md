@@ -2,7 +2,7 @@
 title: "Wer bestimmt, wie erinnert wird?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-09
 description: "Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden."
 raetsel: "Ein Kranz kostet wenig. Teuer ist, wer ihn niederlegen darf."
 panorama-art: wachsend
@@ -46,6 +46,8 @@ In Hanau verliefen die Konflikte zwischen Angehörigen und demokratischer Stadtp
 
 Ein Gedenken lässt sich auch übernehmen, ohne dass jemand eine Tür blockiert. Am 6. Juni 2026 sprach der amerikanische Verteidigungsminister Pete Hegseth auf dem Soldatenfriedhof in der Normandie und lieh sich das Bild der gestürmten Strände für die Migration nach Europa: *„When will European capitals do something about that invasion?“* ([war.gov](https://www.war.gov/News/Speeches/Speech/Article/4512402/remarks-by-secretary-of-war-pete-hegseth-at-the-82nd-anniversary-of-the-d-day-l/)). Die Forschung beschreibt solche Umdeutungen als Werkzeugkasten, der von Land zu Land wandert ([Yoder 2023](https://doi.org/10.1093/oso/9780198894162.001.0001), Monografie), und extrem rechte Akteure, die sich zu den eigentlichen Erben der Tradition erklären ([Couperus, Tortola & Rensmann 2022](https://doi.org/10.1080/23745118.2022.2058757)). Was ein einzelner Satz bewirkt, ist dagegen wenig: Metaphern überzeugen im Mittel kaum ([Brugman, Burgers & Vis 2019](https://doi.org/10.1017/langcog.2019.5), Meta-Analyse, d = 0,11), Geschichtsanalogien wecken eher Gefühle als Haltungen ([Menon et al. 2025](https://doi.org/10.1080/09636412.2025.2537651)). Ihr Gewicht liegt in der Wiederholung (→ [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Wem gehört ein Gedenken?|Wem gehört ein Gedenken?]]).
 
+Um den 9. November streiten Lager, die sonst selten nebeneinanderstehen. Die AfD-Bundestagsfraktion will ihn seit Oktober 2025 als Mauerfall-Feiertag an die Stelle des 3. Oktober setzen, die Pogromnacht steht im Antrag nur als Schatten ([Drucksache 21/2043](https://dserver.bundestag.de/btd/21/020/2102043.pdf)). Der Berliner Bischof Christian Stäblein will ihn als Feiertag „aus Trauer und Schuld sowie Freude und Dankbarkeit“ ([evangelisch.de, 7.11.2026](https://www.evangelisch.de/inhalte/260746/07-11-2026/bischof-staeblein-fordert-gesetzlichen-feiertag-am-9-november)), der Historiker Wolfgang Niess als Gedenktag ohne Fest. Thomas Weber hält jede Klammer um die Daten für „unverantwortlich“, weil schon Alfred Rosenberg den Tag in den Zwanzigerjahren „Schicksalstag“ nannte und Goebbels' Propaganda die Daten aneinanderreihte ([Stiftung EVZ](https://www.stiftung-evz.de/wer-wir-sind/neuigkeiten-aus-der-stiftung/soll-der-9-november-ein-nationaler-gedenktag-werden/)).
+
 **Die Stimmen**
 
 - **[[Bartunek — Tillschneider vor der Synagoge in Halle#Vor dem Tor|Jüdische Studierendenunion]]:** „Wir lassen unser Gedenken nicht kapern“ — wer die Erzählung des Täters teilt, soll nicht noch einmal durch diese Tür.
@@ -56,6 +58,7 @@ Ein Gedenken lässt sich auch übernehmen, ohne dass jemand eine Tür blockiert.
 - **[[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Hegseth und die Umwidmung der Geschichte|Benjamin Biersky]]:** Wer die Toten der Normandie ehren soll und daraus *„ein Kammerstück über Migrationssachen“* macht, lädt die Deutung ein, die Alliierten seien angreifende Migranten.
 - **[[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet#Der 9. Mai als Staatswaffe|Konstantin Flemig]]:** In Russland ist der Gedenktag an die Toten des Krieges zur Mobilisierung geworden; der Kampf von 1945 gilt als derselbe wie der gegen die Ukraine.
 - **[[Jihan Alomar — Gefangen vom Islamischen Staat#Was sie fordert|Jihan Alomar]]:** Für die Überlebende ist der Gedenktag der Tag ihrer Verschleppung; fertig ist ihre Arbeit erst, wenn Shingal wiederaufgebaut ist.
+- **[[Geistesblitz/Wolfgang Niess — Der 9. November#Feiertag oder Gedenktag?|Wolfgang Niess]]:** Der 9. November gehört allen seinen Daten; nicht jede Veranstaltung muss nur um 1938 kreisen, aber an der Pogromnacht darf niemand vorbeigehen.
 
 > [!question] Die Reibung
 > Schuster beruft sich auf die Gemeinde, Tillschneider auf sein Amt; die Gemeinde ließ die Tür offen, die Studierenden schlossen sie, und in Hanau verkleinerte ein demokratischer Stadtrat das Gedenken nach einer unbequemen Rede. *Wenn die Betroffenen bestimmen sollen — welche Betroffenen, wenn sie sich uneinig sind, und was bleibt dem Staat, der das Gedenken bezahlt?*
@@ -98,6 +101,8 @@ Der Erinnerungsmonitor MEMO, im Oktober 2024 bei 3.000 Menschen erhoben, misst z
 
 Die räumlichen Studien widersprechen einander. Wo früher ein Konzentrationslager stand, wählen mehr Menschen rechtsradikal, mit der Hypothese einer „Erinnerungssättigung“ ([Hoerner, Jaax & Rodón 2019](https://doi.org/10.1177/2053168019891376)); Homola, Pereira und Tavits finden dort mehr Intoleranz ([2020](https://doi.org/10.1017/S0003055419000832)); Pepinsky, Goodman und Ziller finden keinen beständigen Effekt, sobald man die Bundesländer berücksichtigt ([2023](https://doi.org/10.1017/S0003055423000072)), und der Methodenstreit läuft weiter ([Replik 2024](https://doi.org/10.1017/S0003055423001351)). Der Preprint von Lüssenheide (oben) zeigt in die Gegenrichtung. Ob Erinnerung schützt, ist nicht entschieden. Für den Übergang vom kommunikativen zum kulturellen Gedächtnis bleibt Jan Assmann der Grundtext ([1995](https://doi.org/10.2307/488538)).
 
+Bei Gedenkstätten zählt nach MEMO 2025 weniger der Ort als die Freiwilligkeit: Mehr als die Hälfte der ersten Besuche fand mit der Schulklasse statt, und gerade diese wurden am wenigsten als freiwillig erlebt ([MEMO 2025](https://www.stiftung-evz.de/assets/1_Was_wir_f%C3%B6rdern/Bilden/Bilden_fuer_lebendiges_Erinnern/MEMO_Studie/Gedenkansto%C3%9F/Gedenkansto%C3%9F_MEMO-Studie_2025_2._Auflage.pdf), Selbstauskunft). Ein Umfrageexperiment aus Deutschland zeigt kleine, aber messbare Effekte von Holocaust-Darstellungen auf die Absicht, gegen Antisemitismus einzutreten, bei AfD-Anhängern am stärksten durch die Geschichte eines einzelnen Opfers ([Firestone, Ditlmann & Turkoglu 2025](https://doi.org/10.1093/sf/soaf142), Umfrageexperiment). Hamburg macht den Besuch ab Klasse 5 im Oktober 2026 dennoch zur Pflicht ([News4teachers](https://www.news4teachers.de/2026/10/drittes-bundesland-macht-ns-gedenkstaettenbesuch-fuer-schueler-zur-pflicht/)).
+
 **Die Stimmen**
 
 - **[[Philipp Blom — Die Unterwerfung#„Nie wieder“ und seine Frist|Philipp Blom]]:** Vermeidungshaltungen halten zwei, drei Generationen; was danach trägt, entscheidet sich an Denkmal, Schule, Partei und Kampagne.
@@ -107,6 +112,8 @@ Die räumlichen Studien widersprechen einander. Wo früher ein Konzentrationslag
 - **[[Paul Lance — Amerikaner fragt Deutsche ueber Trump#Holocaust-Gedenkstätten in Berlin Mahnung in Stein|Paul Lance]]:** Den Amerikaner erschüttert, dass Berlin seine Mahnmale mitten in die Stadt stellt — ein Land, das beschlossen hat, nicht wegzusehen.
 - **[[Duezen Tekkal — Deutschland ist bedroht#Der 72. Firman|Düzen Tekkal]]:** Ihre Generation hielt sich für die erste außerhalb der Reihe, bis der IS kam; in ihrer Gemeinschaft spricht niemand von „Vergangenheit“.
 - **[[Wolfgang Huber — Bonhoeffer und die Wahrheit#Privat, öffentlich und das Erinnern|Wolfgang Huber]]:** Mit Bonhoeffer gehört das Erinnern zum Wesen der Wahrheit selbst: Vergessene Wahrheit kann nicht versöhnen — ein dritter Grund neben Wirkung und Toten.
+- **[[Geistesblitz/Wolfgang Niess — Der 9. November#Feiertag oder Gedenktag?|Wolfgang Niess]]:** Kein Feiertag, sondern ein Projekttag mit Vorbereitung und Streit: Ein Tag, der Nachdenken verlangt, „lässt sich mit einem Fest nicht erledigen“.
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Weckt der Rechtsstaat auf?|Wolfgang Benz]]** (zitiert): Junge Neonazis verlassen eine Gedenkstätte nach dem Pflichtbesuch „in der Regel nicht geläutert, sondern im Zorn der Selbstbestätigung“.
 
 > [!question] Die Reibung
 > Hoerner findet Sättigung, Lüssenheide Schutz, Pepinsky nichts Messbares; Blom gibt dem „Nie wieder“ eine Frist, Tekkal kennt keine. *Wenn sich nicht zeigen lässt, ob Erinnerung schützt — erinnert ein Land dann um der Wirkung willen oder um der Toten willen, und genügt das zweite als Grund für Steuergeld?*
@@ -151,6 +158,7 @@ In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemte
 | 28.10.2026 | [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Wessen Tote werden erinnert?\|Chandrinos — Griechenland unter deutscher Besatzung]] | Eröffnet die vierte Frage. Griechenland: Ochi-Tag, Gesetz 1285/1982, Gesetz 1863/1989 und Aktenverbrennung 1989, Meligalas, 12. Oktober seit 2015 · Spanien (Davis 2005, Gesetze 2007/2022, Konkordienrecht 2024), Finnland 1940, 8. Mai (infratest 2020) · Olsen/Payne/Reiter 2010, Dancy 2018, Aguilar, Barceló 2025, Balcells 2011, Fouka & Voth 2022 |
 
 | 07.11.2026 | [[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?\|Simplicissimus — Der Freiwillige von Auschwitz]] | Polen: IPN-Gesetz 2018 und Rücknahme, Pilecki-Institut 2017–2025 (Ruchniewicz, Madaj), Gedenktag 1. März 2011 · Kończal 2020, Jaskułowski & Majewski 2023/2024 |
+| 09.11.2026 | [[Geistesblitz/Wolfgang Niess — Der 9. November#Wem gehört der 9. November?\|Wolfgang Niess — Der 9. November]] | Wem gehört ein Gedenken und schützt Erinnerung: AfD-Antrag 21/2043, Stäblein 2026, Weber (EVZ) gegen die Klammer der Daten, KMK 2009, MEMO 2025 („Freiwilligkeit wirkt“), Firestone u. a. 2025, Hamburger Pflichtbesuch |
 
 ---
 

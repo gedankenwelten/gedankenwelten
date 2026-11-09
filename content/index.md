@@ -22,6 +22,54 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **09.11.** — [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
+>
+> Ein Tag, an dem Deutschland die Republik ausrief, sie verhöhnte, Synagogen anzündete und die Mauer öffnete. Wolfgang Niess liest darin kein Schicksal. Er liest den langen Kampf um die Demokratie.
+
+> **08.11.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+>
+> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
+
+> **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
+>
+> Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen.
+
+> **07.11.** — [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]]
+>
+> Ein Mann lässt sich 1940 verhaften, um in Auschwitz einen Widerstand zu bauen. Er sucht seine Leute danach aus, ob sie teilen. Und er bittet die Welt, das Lager zu bombardieren.
+
+> **07.11.** — [[Geistesblitz/Michael Fleming — Was die Alliierten wussten|Michael Fleming — Was die Alliierten wussten]]
+>
+> Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
+
+> → *6 weitere in* [[Geistesblitz]]
+
+### Panorama
+
+> **09.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **09.11.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+>
+> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
+
+> **08.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> **07.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **07.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> → *13 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **08.11.** — [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
@@ -44,55 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
 
-> → *11 weitere in* [[Zeitgeist]]
-
-### Geistesblitz
-
-> **08.11.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
->
-> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
-
-> **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
->
-> Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen.
-
-> **07.11.** — [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]]
->
-> Ein Mann lässt sich 1940 verhaften, um in Auschwitz einen Widerstand zu bauen. Er sucht seine Leute danach aus, ob sie teilen. Und er bittet die Welt, das Lager zu bombardieren.
-
-> **07.11.** — [[Geistesblitz/Michael Fleming — Was die Alliierten wussten|Michael Fleming — Was die Alliierten wussten]]
->
-> Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
-
-> **07.11.** — [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|Steuern Gefühle den Finanzmarkt?]]
->
-> Der Markt rechnet mit Zahlen, aber er bewegt sich mit Hoffnung und Angst. Ein Film über Tulpen, Dopamin und Herden und darüber, warum auch Maschinen das Gefühl nicht aus der Börse bekommen.
-
-> → *6 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **08.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
-
-> **07.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **07.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **07.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
->
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **07.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> → *18 weitere in* [[Panorama]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
@@ -131,16 +131,6 @@ Die Gedankenwelten (luc)
 > **01.11.** — [[Denker/Alice Kaplan — Wie Der Fremde ein Klassiker wurde|Alice Kaplan — Wie Der Fremde ein Klassiker wurde]]
 >
 > Klassiker werden gemacht, nicht geboren. Alice Kaplan erzählt, wie Camus' Fremder 1946 nach Amerika kam: zwei Titel, ein gekränkter Verlag, eine Anzeige und ein FBI-Agent mit Verstand.
-
-> **01.11.** — [[Denker/Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben (Camus, Die Pest)]]
->
-> Wie erzählt man ein Sterben, das jedes Maß übersteigt? Franziska Meier liest Camus' Pest als Roman über den Preis der Abstraktion und über ein Leid, das sich nicht vermitteln lässt.
-
-> **01.11.** — [[Denker/Eve Morisi — Camus gegen die Todesstrafe|Ève Morisi — Camus gegen die Todesstrafe]]
->
-> Eine Übelkeit, die der Vater vom Schafott mitbrachte, wurde zum moralischen Kompass des Sohnes. Ève Morisi verfolgt Camus' Kampf gegen die Guillotine, vom Roman bis zum Gnadengesuch.
-
-> → *1 weitere in* [[Denker]]
 
 ### Kultur
 

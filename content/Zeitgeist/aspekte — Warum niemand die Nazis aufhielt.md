@@ -257,3 +257,8 @@ Die Doku steht am Gedenktag des 20. Juli und zeigt die Erpressung der Kirchen du
 ### → [[Semsrott — Zur Gegenmacht]]
 
 Die Doku verweigert die Handlungsanweisung und endet mit dem Ruf nach der „Feuerwehr" — Semsrott liefert das konkrete Gegenprogramm zur Lähmung: zivilgesellschaftliche Gegenmacht statt Aufklärungsreflex.
+
+### → [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
+
+Der Historiker Wolfgang Niess erzählt den Hitlerputsch, den die Regensburger Ausstellung streift, als Spitze eines Hochverrats der bayerischen Machtelite um Gustav von Kahr, die selbst eine Diktatur errichten wollte. Auch er nennt den Prozess in München statt Leipzig eine bewusste Wahl Bayerns und rechnet vor, dass Hitler bei korrekter Anwendung des Rechts frühestens 1928/29 freigekommen wäre.
+

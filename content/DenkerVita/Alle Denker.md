@@ -548,6 +548,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Susan Neiman|Susan Neiman]]** — Moralphilosophin (US-amerikanisch-deutsch-israelisch, geb. 1955 Atlanta), Rawls-Schülerin, 2000–2026 Direktorin des Einstein Forums Potsdam, SPD-Grundwertekommission; das Böse als Prüfstein der Philosophie, moralische Klarheit für die Linke, Universalismus gegen Stammesdenken; *Das Böse denken*, *Von den Deutschen lernen*, *Links ≠ woke*, *Nennen wir es böse* (2026); streitbare Kritikerin der deutschen Israel- und Erinnerungspolitik
 
+**[[DenkerVita/Wolfgang Niess|Wolfgang Niess]]** — Historiker und Journalist, lange leitender Redakteur beim SWR; Geschichtsschreiber der Revolution von 1918/19 und des 9. November, der im Datum einen roten Faden des Erinnerns sieht und für einen nationalen Gedenktag wirbt
+
 **[[DenkerVita/Bjoern Noelte|Björn Nölte]]** — Lehrer, Lehrerbildner und Schulaufsicht der Evangelischen Schulstiftung in der EKBO; Mitgründer des Instituts für zeitgemäße Prüfungskultur, mit Philippe Wampfler *Eine Schule ohne Noten* (2021): Lerndialoge, Portfolios und Feedforward statt Ziffern
 
 **[[DenkerVita/Anna-Verena Nosthoff|Anna-Verena Nosthoff]]** — Philosophin, Juniorprofessorin für Ethik der Digitalisierung an der Universität Oldenburg, Ko-Direktorin des Critical Data Lab; *Kybernetik und Kritik* (Suhrkamp 2026) — legt die kybernetische Steuerungslogik unter Plattformmacht, prädiktiver Analytik und den Weltbildern der Tech-Eliten frei

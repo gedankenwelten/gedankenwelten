@@ -5731,3 +5731,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Tom Ockers — Schattenmacht BlackRock]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Ockers_BlackRock_Transkript.txt` (Auto-Untertitel, Sprecher über Einblendungen bestimmt) · `Finanzfluss_BlackRockDoku_Transkript.txt` |
 
+## Wolfgang Niess / Der 9. November (Schicksalstag)
+
+| | |
+|---|---|
+| **Vortrag** | [Der 9. November – Die Deutschen und ihr Schicksalstag](https://www.youtube.com/watch?v=-ROkJUF2OY8) (MARCHIVUM Mannheim, gehalten 02.11.2023, online 09.11.2023) |
+| **Buch** | Wolfgang Niess: *Der 9. November. Die Deutschen und ihr Schicksalstag* (C.H. Beck 2021; [bpb-Schriftenreihe](https://www.bpb.de/shop/buecher/schriftenreihe/514994/der-9-november/)) |
+| **Notiz** | [[Geistesblitz/Wolfgang Niess — Der 9. November]] |
+| **Vita** | [[DenkerVita/Wolfgang Niess]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Niess_9November_Schicksalstag_Transkript.txt` |

@@ -3,6 +3,9 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Wolfgang Niess
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Niess]]
+
 ## Anna-Verena Nosthoff
 **Status:** ✓ Vollanalyse — [[DenkerVita/Anna-Verena Nosthoff]]
 

@@ -294,6 +294,9 @@ Fromms Urfrage angesichts des Ersten Weltkriegs — „Wie ist das möglich?" �
 
 Thomas Manns „wisst ihr, wollt es aber lieber nicht wissen“ kehrt 2026 bei Scherbakowa fast wörtlich wieder, über Russland. Anders als in der Zustimmungsdiktatur sieht sie keine begeisterte Mehrheit, sondern Gewöhnung.
 
+### → [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
+Niess stützt sich auf die Stimmungsberichte des SD: Die Mehrheit lehnte den Pogrom von 1938 ab, und das Regime verlegte die Gewalt danach in die Lager, den Blicken entzogen. Alys sichtbare Deportationen und die Hamburger Versteigerungen widersprechen dem zweiten Teil. Zusammen ergeben beide die unbequemere Lesart: Abgelehnt wurden die Bilder der brennenden Synagogen, das spätere Nehmen nach Alys Zahlen weit weniger.
+
 ---
 
 ### → [[Duezen Tekkal — Deutschland ist bedroht]]

@@ -306,3 +306,6 @@ Die Gegenseite des Tatorts: Vom Gulag blieb kaum eine Baracke, Memorial suchte n
 ### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
 Pileckis Netz in Auschwitz gab das Brot zuerst den Schwächsten und besetzte Kapo-Posten mit eigenen Leuten, genau die Grauzone, in der Wagner weder verurteilen noch Heldenlieder singen will.
 
+### → [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
+Niess erzählt die zwei deutschen Erinnerungen an einem einzigen Datum. Die DDR feierte am 9. November die angeblich verratene Revolution von 1918 und ließ die Pogrome in den Opfern des Faschismus aufgehen. Die Bundesrepublik pflegte ihre Schlussstrichmentalität, bis 1978 Helmut Schmidt als erster Kanzler bei einer zentralen Gedenkfeier sprach. Der Pogrom selbst kam ohne schriftlichen Befehl aus, ein Fall von „dem Führer entgegenarbeiten“.
+

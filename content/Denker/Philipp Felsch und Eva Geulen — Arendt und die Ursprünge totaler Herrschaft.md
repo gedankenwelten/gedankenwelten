@@ -317,6 +317,10 @@ Scherbakowa beschreibt, was die Atomisierung nach dem Ende des Terrors hinterlä
 
 Alice Bota greift Arendts Machtbegriff zögernd auf, für die Frage, ob man mit Lukaschenko verhandeln soll. Die tausenden Briefe an [[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]] sind das stillere Beispiel einer Macht, die aus dem Miteinander entsteht.
 
+### → [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
+
+Geulens Satz über 1990 trifft auf einen Historiker, der den 3. Oktober „bürokratisch“ nennt, den Tag des Beitritts nach Artikel 23. Niess nennt zugleich die Münchner Räterepublik von 1919 „einen völligen Irrweg“ für die Demokratie, eine Gegenstimme zu Arendts Lob der Räte in *Über die Revolution*.
+
 ---
 
 ## Weiterdenken

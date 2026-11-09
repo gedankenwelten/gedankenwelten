@@ -2,7 +2,7 @@
 title: "Wie werden gewöhnliche Menschen zu Tätern?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-09
 description: "Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt."
 raetsel: "Einer reicht das Blatt weiter. Einer behält die Hände leer."
 panorama-art: wachsend
@@ -83,6 +83,8 @@ Für den Gehorsam stand lange Stanley Milgram. Das Grundphänomen hält bis heut
 
 Für heutige Behörden lässt sich der Gehorsam an einer anderen Stelle messen: an den Zahlen, nach denen sie geführt werden. Unter 1.770 pensionierten New Yorker Polizisten erklärte der Druck aus dem Leistungsmanagement, ob Kriminalberichte geschönt wurden, und kein persönliches Merkmal ([Eterno, Verma & Silverman 2014](https://doi.org/10.1080/07418825.2014.980838), Befragung). Derselbe Hebel wirkt in die Gegenrichtung: Als jeder Stopp schriftlich begründet werden musste, wurden die Kontrollen sofort treffsicherer ([Mummolo 2018](https://doi.org/10.1086/694393), Zeitreihe). Und wer moralisch begründet straft, braucht das Opfer nicht zu entmenschlichen, er sieht in ihm einen Schuldigen ([Rai, Valdesolo & Graham 2017](https://doi.org/10.1073/pnas.1705238114), Experimente). Den Gegenwartsfall dazu liefert der amerikanische Einwanderungsvollzug mit einer Quote von 3.000 Festnahmen am Tag, einer Mission „to save this civilization“ und dem Versprechen „You have federal immunity“ (→ [[Al Jazeera — Stephen Millers Krieg#Quote, Befehl, Immunität was ein Apparat aus gewöhnlichen Beamten macht|Nachbesprechung]]).
 
+Beim Novemberpogrom 1938 gab es nicht einmal etwas zu gehorchen. Goebbels gab in München eine Entscheidung Hitlers weiter, spontanen Aktionen sei „nicht entgegenzutreten“, und jeder verstand. Wie viele mitmachten, weiß niemand genau: Die oft zitierten zehn Prozent stehen als ein Satz ohne Herleitung im Prolog von Raphael Gross' *November 1938* (2013). Alan Steinweis zeigt aus Prozessakten, dass Nachbarn, Frauen und Jugendliche weit über die SA hinaus plünderten und johlten ([Steinweis, *Kristallnacht 1938*, Harvard 2009](https://www.hup.harvard.edu/books/9780674036239), Monografie). Die Gelegenheit griff dort, wo der Hass alt war: In Städten mit Pestpogromen 1348–1350 brannten 1938 häufiger Synagogen ([Voigtländer & Voth 2012](https://doi.org/10.1093/qje/qjs019), Panelstudie), und das NS-Radio stachelte nur dort an, wo Antisemitismus schon verbreitet war ([Adena u. a. 2015](https://doi.org/10.1093/qje/qjv030), quasi-experimentell).
+
 **Die Stimmen**
 
 - **[[Hannah Arendt — Die Banalität des Bösen#Milgram — die moderne Bestätigung|Hannah Arendt]]:** Die Verantwortung wird delegiert, an den Mann im weißen Kittel oder an Greisers „offizielle Seele“ — und genau dieses Recht, sie abzugeben, gibt es nicht.
@@ -94,7 +96,7 @@ Für heutige Behörden lässt sich der Gehorsam an einer anderen Stelle messen: 
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#2. Dummheit als soziales Phänomen — das eigentliche Zentrum|Dietrich Bonhoeffer]]:** „Die Macht der einen braucht die Dummheit der anderen“ — Urteilsverzicht ist ein Zustand, in den Macht die Menschen versetzt.
 - **[[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Der Begriff Durchrohung vs. Verrohung|Wilhelm Heitmeyer]]:** Wer alles psychologisiert, schützt die Strukturen, die Brutalität möglich machen oder verlangen — ohne dass die Täter darum aufhören, verantwortlich zu sein.
 
-<details><summary>Weitere Stimmen (11)</summary>
+<details><summary>Weitere Stimmen (12)</summary>
 
 - **[[Al Jazeera — Stephen Millers Krieg#Dreitausend am Tag|David Klion]]:** Wer eine Lage zur Krise erklärt und mit einem Krieg vergleicht, schafft die Lizenz, sich wie eine Militärdiktatur zu verhalten statt wie eine Gesellschaft unter Gesetzen.
 - **[[Koshi Politik — ICE Whistleblower packt aus#Stephen Millers Ziel 3.000 Festnahmen pro Tag|Koschi Politik]]:** Für Millers Quote kamen ICE-Kadetten nach gekürzter Ausbildung, ohne Deeskalation, so schnell wie möglich auf die Straße; das habe die Toten in Minnesota mitverursacht.
@@ -107,6 +109,7 @@ Für heutige Behörden lässt sich der Gehorsam an einer anderen Stelle messen: 
 - **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Im Keller der Rosenburg|Christoph Safferling]]:** Die Bonner Justiz holte NS-Juristen, weil sie Vorgaben perfekt umsetzten; der Beamte als Handwerker war 1933 das Problem und galt 1950 als Lösung.
 - **[[Der leere Turm - wie Macht herrenlos wird#Die älteste Maschine der Welt|Luc]]:** Bürokratie, Markt und Gutachten sind Maschinen, die Verantwortung entsorgen, und herrenlose Verantwortung sackt nach unten.
 - **[[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Hitlers Blick|Stephan Marks]]:** „Aber er hat mir in die Augen geschaut“ — gesammelte Scham kann eine Gesellschaft kippen lassen, ohne dass ihre Mehrheit rechtsextrem denkt.
+- **[[Geistesblitz/Wolfgang Niess — Der 9. November#1938 Die Bühne für einen bestellten Volkszorn|Wolfgang Niess]]:** Für den Pogrom gab es keinen schriftlichen Befehl, ein verklausulierter Satz genügte; mitgemacht haben „bei Leibe nicht nur SA-Schläger“, und die Mehrheit lehnte die Bilder ab, nicht die Entrechtung.
 
 </details>
 
@@ -189,6 +192,7 @@ Aber die Mehrheit widerspricht. *„The majority of abused and neglected childre
 | 13.10.2026 | [[Carlo Cipolla — Die fünf Gesetze der Dummheit#Nachbesprechung|Carlo Cipolla — Die fünf Gesetze der Dummheit]] | Gedankenlos oder überzeugt: Cipolla, Bonhoeffer, Arendt nebeneinander; Macht und Perspektivübernahme (Galinsky 2006), Macht als Zielverstärker (Guinote 2017), Bias Blind Spot (West 2012), intellektuelle Bescheidenheit (Leary 2017) |
 | 01.11.2026 | [[Andreas Kemper — Faschismen im 21. Jahrhundert#Nachbesprechung|Andreas Kemper — Faschismen im 21. Jahrhundert]] | Neue Frage „Wird man zum Täter gemacht?“: Widom 1989/2024, Maxfield & Widom 1996, Gershoff 2016, Milburn 2014, Duriez 2007, Kandler 2025, Simi 2016, Pammi 2026 · Kemper, Fromm, Schlaffer, Marks, Luc, Benneckenstein, Münkler als Gegenstimme |
 | 07.11.2026 | [[Al Jazeera — Stephen Millers Krieg#Nachbesprechung|Al Jazeera — Stephen Millers Krieg]] | Gehorsam, Gruppe oder Gelegenheit, für einen Behördenapparat der Gegenwart: Quoten (Eterno 2014, Travova 2023, Mummolo 2018), Ausbildung (Reingle González 2015, Engel 2022), Sprache (Utych 2018, Kteily & Bruneau 2017, Rai 2017) · Was abhält: Aufsicht (Rivera & Ba 2023), Bodycams (Lum 2020), Rechenschaft nach Skandal (Devi & Fryer 2020) · Klion, Koschi (Whistleblower), Napolitano, Jenny Günther |
+| 09.11.2026 | [[Geistesblitz/Wolfgang Niess — Der 9. November#Wie viele machten mit?\|Wolfgang Niess — Der 9. November]] | Gehorsam, Gruppe oder Gelegenheit, am Novemberpogrom: Gross 2013 (zehn Prozent ohne Herleitung), Steinweis 2009, Bajohr 2016 und Longerich 2006 zu den Stimmungsberichten, Voigtländer & Voth 2012, Adena u. a. 2015, Hermann 2008 (Hitler statt Goebbels) |
 
 ---
 

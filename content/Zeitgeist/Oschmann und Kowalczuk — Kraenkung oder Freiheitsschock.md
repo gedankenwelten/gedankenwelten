@@ -534,6 +534,10 @@ Die Reibung dieses Panorama-Abschnitts fragt wörtlich die Frage dieser Note: Pr
 
 Die russische Gegenprobe zum Abendbrottisch: Scherbakowa nennt den Terror eine „pädagogische Maßnahme“ über Generationen, und wo Gulag-Lager standen, ist das Vertrauen bis zu den Enkeln messbar geringer. Ihre enttäuschten Neunziger lesen sich neben Kowalczuks Freiheitsschock.
 
+### → [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
+
+Für den Historiker Wolfgang Niess ist der Mauerfall das Symbol der friedlichen Revolution und der 3. Oktober ein „bürokratischer Feiertag“, der Tag des Beitritts nach Artikel 23. Kowalczuks 18. März ist die Gegenrede: Den Beitritt haben die Ostdeutschen selbst gewählt, und der 9. November war nicht der Tag, der ihr Leben änderte.
+
 ---
 
 ## Weiterdenken
