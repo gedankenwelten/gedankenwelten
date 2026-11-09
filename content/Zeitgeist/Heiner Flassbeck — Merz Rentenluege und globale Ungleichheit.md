@@ -150,7 +150,7 @@ Flassbeck liefert hier das Fundament für die Rentenkritik: den geschlossenen Zi
 
 ### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
-Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kühnerts 6%-Rendite-Unterstellungs-Modell in Studio Bonn. Beide decken denselben blinden Fleck: Wer nur Einkommen analysiert, übersieht die selbstverstärkende Logik der Kapitalbestände.
+Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kühnerts Beobachtung in Studio Bonn, dass große Vermögen fast von selbst um „6, 7, 8 %“ im Jahr wachsen (das Modell einer unterstellten Rendite trägt dort Julia Friedrichs vor). Beide decken denselben blinden Fleck: Wer nur Einkommen analysiert, übersieht die selbstverstärkende Logik der Kapitalbestände.
 
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 

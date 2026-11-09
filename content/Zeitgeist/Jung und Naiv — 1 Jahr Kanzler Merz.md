@@ -316,7 +316,7 @@ Direkte thematische Fortsetzung: Jung analysiert im Gespräch mit Tim Gabel dies
 
 ### → [[DenkerVita/Kevin Kuehnert|Kevin Kühnert — Verteilungspolitik und soziale Demokratie]]
 
-Kühnerts Diagnose der SPD-Schwäche — Partei hat ihre eigene Basis verloren, weil sie keine glaubwürdige Verteilungsposition mehr hat — wird in dieser Sendung von außen bestätigt: Die SPD schmiedet, so von Lucke, die Nägel zu ihrem eigenen Sarg.
+Kühnert beschreibt von innen, wie die Politik seit den Neunzigern „verlernt hat, in diesen Kategorien zu denken“: Löhne, Steuern, Verteilung, öffentliche Infrastruktur, Wohnen ([[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Die verschobene Frage: vom Sozialen ins Kulturelle|MARCANT]]). Von Lucke zieht in dieser Sendung den härteren Schluss für die SPD: Sie schmiede die Nägel zu ihrem eigenen Sarg.
 
 ---
 

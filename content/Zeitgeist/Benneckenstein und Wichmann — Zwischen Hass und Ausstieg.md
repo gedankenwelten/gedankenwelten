@@ -260,9 +260,6 @@ Yus Spirale, in der jede Seite die eigene Entmenschlichung für Notwehr hält, i
 ### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
 Wichmanns Teflon aus dem Mund eines Gefestigten: Ein Flyer hätte ihn nie erreicht, erst ein „Riss“ macht das Gespräch möglich. Wie bei Benneckenstein trennte die Haft ihn von der Gruppe, ohne den Ausstieg auszulösen.
 
-### → [[Spuren/Gewalt-aus-Ueberzeugung|Spur: Gewalt aus Überzeugung]]
-Die Spur zählt, wie viel Gewalt aus Überzeugung geschieht, rechts, links, religiös, bis zur Wahl 2029. Diese Note zeigt den Weg hinaus, den keine Statistik zählt.
-
 ---
 
 ## Weiterdenken
