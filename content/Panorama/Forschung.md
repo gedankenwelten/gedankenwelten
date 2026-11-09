@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-09
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -205,6 +205,8 @@ Edgar Morin verlangte ein Leben lang, die Mauern zwischen den Fächern einzurei�
 
 Die Gegenrechnung ist ebenso solide. Die wirkungsstärksten unter 17,9 Millionen Arbeiten ruhen auf ganz konventionellem Fachwissen, mit einem kleinen Einschuss ungewöhnlicher Verbindungen ([Uzzi et al. 2013](https://doi.org/10.1126/science.1240474)); nahe Grenzgänge nützen, ferne schaden eher ([Yegros-Yegros, Ràfols & D'Este 2015](https://doi.org/10.1371/journal.pone.0135095)). Und weil das Wissen wächst, werden Erfinder älter, spezialisierter und arbeiten öfter im Team ([Jones 2009](https://doi.org/10.1111/j.1467-937x.2008.00531.x)). Die Antwort auf Morins Frage heißt heute seltener Leonardo als Team; dass trainierte Teams besser urteilen als Einzelne, zeigte ein großes Prognoseturnier ([Mellers et al. 2014](https://doi.org/10.1177/0956797614524255)).
 
+Dass der Teamgedanke trägt, aber nicht in jeder Größe, zeigt ein dritter Befund. Aufsätze und Patente sind über Jahrzehnte immer seltener umwälzend geworden, sie bauen das Bestehende öfter aus, als dass sie es ablösen ([Park, Leahey & Funk 2023](https://doi.org/10.1038/s41586-022-05543-x), *Nature*), und Umbrüche kommen eher aus kleinen Teams, große bauen eher aus ([Wu, Wang & Evans 2019](https://doi.org/10.1038/s41586-019-0941-9), *Nature*). Auch zwischen Ländern scheint die Mischung zu zählen: Stark in Branchen mit radikaler Innovation wurden die, die koordinierte und liberale Züge verbinden ([Witt & Jackson 2016](https://doi.org/10.1057/s41267-016-0001-8), 22 Länder). Ausgeführt in der [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Deep Innovation Tiefe aus der Mischung|Nachbesprechung zu Gabriel]].
+
 **Die Stimmen**
 
 - **[[Edgar Morin — Das komplexe Denken#Der Autodidakt gegen das Inselwissen|Edgar Morin]]:** Fragmentiertes Inselwissen genügt nicht; Leonardo war Künstler, Anatom, Erfinder und Philosoph in einer Person.
@@ -234,6 +236,7 @@ Die Gegenrechnung ist ebenso solide. Die wirkungsstärksten unter 17,9 Millionen
 | 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Selbstfahrende Labore wie weit sind sie?\|Jacob Beautemps — Made in Germany Awards 2026 KI]] | Selbstfahrende Labore: noch kein Material im Produkt (Tobias & Wahab 2025, Brown 2026, Tom 2024), KI-Wirkstoff in Phase III (Xu 2025), Erfolgsquoten (Jayatunga 2024), Festelektrolyt (Chen 2024), neue Handarbeit (Hammang 2023), Automatisierung von Urteil (Peterson 2026) · Hammer, Vuine |
 | 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet#Vom Prüfstand ans Band\|Jacob Beautemps — Made in Germany Awards 2026 Mobilität]] | Vom Prüfstand ans Band: Radnabenmotor seit 1900 (Deepak 2023), wandernder Serientermin bei DeepDrive (2026 → 2027 → 2028), Hochholdinger: an der Serie scheitern die meisten Deep-Tech-Firmen |
 | 07.11.2026 | [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#Was bleibt vom Nudge?\|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]] | Was bleibt vom Nudge: Mertens 2022, Maier 2022, Szászi 2022, Jachimowicz 2019, Milkman 2021 · Chater und Loewenstein als Stimme |
+| 09.11.2026 | [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Deep Innovation Tiefe aus der Mischung\|Markus Gabriel — KI als Resonanzfeld und Mu]] | Tiefe aus der Mischung: Hall & Soskice (Japan und Deutschland koordiniert), Akkermans 2009, Witt & Jackson 2016; abnehmende Disruption (Park 2023), kleine Teams (Wu 2019) |
 
 ---
 

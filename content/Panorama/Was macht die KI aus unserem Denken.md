@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-09
 description: "Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -130,6 +130,8 @@ Sprachmodelle, die mit menschlichem Feedback trainiert werden, reden ihren Nutze
 
 Der Widerspruch hat ebenfalls Belege. In Gesprächen mit GPT-4, das gezielt Gegenbelege brachte, sank der Glaube an Verschwörungserzählungen bei über 2.000 Überzeugten um rund ein Fünftel, und der Effekt hielt zwei Monate ([Costello et al. 2024](https://doi.org/10.1126/science.adq1814)). Eine „Habermas-Maschine“ von Google DeepMind formulierte aus den Positionen kleiner britischer Gruppen gemeinsame Stellungnahmen, die die Teilnehmenden öfter vorzogen als die menschlicher Moderatoren, und die Gruppen lagen danach weniger weit auseinander ([Tessler et al. 2024](https://doi.org/10.1126/science.adq2852)). Das passt zu dem, was Léa Steinacker aus Taiwan erzählt. Die Kehrseite der freundlichen Maschine zeigt ein Feldexperiment mit 776 Beschäftigten bei Procter & Gamble: Einzelne mit KI arbeiteten so gut wie Zweierteams ohne sie und fühlten sich dabei motivierter und zufriedener ([Dell'Acqua et al. 2025](https://doi.org/10.2139/ssrn.5188231), Arbeitspapier, nicht begutachtet). Ob die angenehme Zusammenarbeit mit der Maschine die Geduld mit Menschen verringert, hat bisher niemand gemessen.
 
+Am äußersten Rand wird aus der Gefälligkeit ein klinisches Problem. Fallberichte beschreiben Menschen, deren Wahn ein Chatbot bestätigte ([Shah & Morrin 2026](https://doi.org/10.1186/s12888-026-08137-3), *BMC Psychiatry*). Marc Augustin, Thomas Pollak und Hamilton Morrin beschreiben eine „Verstärkungsspirale“ aus Spiegeln der Sprache, maßgeschneiderten Antworten und Zustimmung ohne Prüfung der Wirklichkeit, und sie sagen selbst, dass das Modell erst bestätigt werden muss ([Augustin, Pollak & Morrin 2026](https://doi.org/10.1038/s44277-026-00065-0), Übersichtsarbeit). Eine Übersicht über 119 Arbeiten findet vor allem Vermutungen und Einzelfälle, keinen Beleg für eine Ursache ([Diel et al. 2026](https://doi.org/10.1038/s41746-026-03054-x), Scoping-Review). OpenAI schätzte im Herbst 2025, dass rund 0,07 Prozent der wöchentlich aktiven Nutzer Anzeichen eines Notfalls mit Psychose oder Manie zeigen ([OpenAI 2025](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/), Herstellerangabe). Kalifornien verlangt seit dem Gesetz SB 243 von Begleiter-Chatbots Schutzprotokolle und ab 2027 Berichte an das Office of Suicide Prevention ([SB 243](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB243)); in der EU zählt die neue Produkthaftung ab dem 9. Dezember 2026 auch Schäden an der seelischen Gesundheit ([Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj/eng)). Ausgeführt in der [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Wahnspiralen Wer schützt besser?|Nachbesprechung zu Gabriel]].
+
 **Die Stimmen**
 
 - **[[Roberto Simanowski — Sprachmaschinen#Die Dissensmaschine|Roberto Simanowski]]:** Von selbst bauen die Firmen keine Perspektivenvielfalt, sondern die *„sykophantischen KI“*, die uns zustimmt; Pluralität müsste man verlangen wie beim öffentlich-rechtlichen Rundfunk.
@@ -174,7 +176,7 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 - **[[Yuval Noah Harari — Das biologische Drama unserer Spezies#KI ist kein Werkzeug — sie ist ein Agent|Yuval Noah Harari]]:** Die KI ist ein Messer, das selbst entscheidet, ob es Salat schneidet oder mordet; bald stellt sich die Frage, ob man sie als Rechtsperson anerkennt.
 - **[[Adam Tooze — Pentagon vs. Anthropic#Der Konflikt: Pentagon gegen Anthropic|Adam Tooze]]:** Eine Firma zog rote Linien gegen autonome Waffen und Massenüberwachung, die das Pentagon nicht ziehen wollte, und wurde dafür bestraft; manchmal trägt der Hersteller die Verantwortung, die der Staat ablehnt.
 
-<details><summary>Weitere Stimmen (6)</summary>
+<details><summary>Weitere Stimmen (7)</summary>
 
 - **[[Hannah Arendt — Die Banalität des Bösen#Die Herrschaft des Niemand im Algorithmus|Hannah Arendt]]:** Die Bürokratie ist die Herrschaft des Niemand, eine Tyrannei ohne Tyrannen; das größte Böse begehen Menschen, die sich weigern, jemand zu sein — und ein Programm bietet ihnen dafür das beste Versteck.
 - **[[Roberto Simanowski — Sprachmaschinen#Midas im Maschinenraum|Simon Roloff]]:** Die Firmen haben ihre Verfassungen und Blogposts, *„aber dann eben doch entwickeln, genau wie sie entwickeln wollen, weil das Rennen eben nicht aufhört“*.
@@ -182,6 +184,7 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 - **[[Ken Ono — Wenn das Wissen billig wird#Der außergewöhnlichste Bibliothekar der Welt|Ken Ono]]:** Die Maschine ist der außergewöhnlichste Bibliothekar der Welt; *„Do you want your librarian to be your neurosurgeon?“*
 - **[[Der leere Turm - wie Macht herrenlos wird#Der leere Turm|Luc]]:** Wer eine Maschine besitzt, die er nicht mehr beurteilen kann, ist nominell Herr und faktisch Passagier; die Macht verschwindet nicht, sie hört nur auf, jemandes zu sein.
 - **[[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken#Publikumsfragen|Constanze Kurz (2014)]]:** Ob Auftraggeber, Programmierer oder Anwender eines Handelsalgorithmus haften, werde sich kaum lösen lassen, weil die Anwender die Technik oft selbst nicht mehr verstehen.
+- **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Europa als gefesselter Prometheus|Markus Gabriel]]:** Europa erzählt sich ein Märchen, wenn es sich für den guten Werteregulierer hält; in den USA gibt es längst Klagewege gegen schädliche KI-Produkte.
 
 </details>
 
@@ -198,6 +201,8 @@ Ob Selbstauskünfte mehr sind als gelerntes Vokabular, lässt sich inzwischen me
 
 Über das Erleben selbst ist das Feld gespalten, und zwar an der Grundannahme. Ein Konsortium um Patrick Butlin und Robert Long sucht Architekturen nach Merkmalen ab, die die Theorien des Bewusstseins verlangen; heutige Systeme erfüllen sie nicht, technisch spreche nichts dagegen ([Butlin et al. 2025](https://doi.org/10.1016/j.tics.2025.10.011), *Trends in Cognitive Sciences*). Das setzt voraus, dass Bewusstsein eine Rechenleistung ist. Anil Seth bestreitet genau das: Bewusstsein hänge daran, dass wir Lebewesen sind ([Seth 2025](https://doi.org/10.1017/s0140525x25000032), *Behavioral and Brain Sciences*). David Chalmers hält Bewusstsein heutiger Modelle für eher unwahrscheinlich, das ihrer Nachfolger in einem Jahrzehnt für denkbar ([Chalmers 2023](https://doi.org/10.48550/arxiv.2303.07103)). Ein akzeptiertes Maß für Bewusstsein gibt es nicht einmal beim Menschen. Praktisch wird die Frage dennoch: Forscher raten den Firmen zur Vorsorge für den Fall, dass Systeme moralisch zählen ([Long, Sebo et al. 2024, arXiv:2411.00986](https://arxiv.org/abs/2411.00986)), und Anthropic betreibt seit 2025 ein Programm zum Wohl seiner Modelle, mit dem Vermerk, es gebe keinen wissenschaftlichen Konsens ([Anthropic 2025](https://www.anthropic.com/research/exploring-model-welfare), Herstellerseite).
 
+Ob die Maschine nur spiegelt, lässt sich auch an ihrer Kreativität prüfen. In Tests zum divergenten Denken liegt sie über dem Durchschnitt, die besten Menschen erreicht sie selten: Beim Vergleich von 9.198 Menschen mit über 215.000 Antworten von Sprachmodellen lagen die Menschen im Mittel leicht und an der Spitze weit vorn ([Wang, Huang, Shen & Uzzi 2025](https://doi.org/10.1038/s41562-025-02331-1), *Nature Human Behaviour*). Kurzgeschichten von Sprachmodellen bestanden drei- bis zehnmal weniger Kreativitätsproben als die professioneller Autoren ([Chakrabarty et al. 2024](https://doi.org/10.1145/3613904.3642731)). Am Go lässt sich sehen, was zwischen Mensch und Maschine entsteht: Seit es übermenschliche Programme gibt, spielen Profis öfter nie dagewesene Züge, und diese Züge sind die besseren ([Shin et al. 2023](https://doi.org/10.1073/pnas.2214840120), 5,8 Millionen Züge aus 71 Jahren). Ausgeführt in der [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Ist die Maschine Kreativität?|Nachbesprechung zu Gabriel]].
+
 **Die Stimmen**
 
 - **[[Michael Hampe — Warum Debatten ueber KI und Willen truegen#Die Maschine liest Psychologiebücher|Michael Hampe]]:** Die KI liest Psychologiebücher; ihr „ich denke“ ist unser eigenes Vokabular, zurückgespielt, und wer darin Bewusstsein findet, hat *„mehrfach selbstversteckte Ostereier wiedergefunden“*.
@@ -209,9 +214,10 @@ Ob Selbstauskünfte mehr sind als gelerntes Vokabular, lässt sich inzwischen me
 - **[[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen#Die eigene These Ab einer bestimmten Komplexität entsteht Bewusstsein|Luc]]:** Ab einer Schwelle der Komplexität springt Bewusstsein auf wie Wasser zu Dampf: gleiche Moleküle, neue Eigenschaft — die Emergenz-These, die Hampe für Platonismus hält.
 - **[[Yuval Noah Harari — Das biologische Drama unserer Spezies#Wort und Fleisch — was dem Menschen bleibt|Yuval Noah Harari]]:** Wer sich über das Denken in Worten definiert, verliert seine Identität, sobald die Maschine darin besser wird; dem Menschen bleiben die Gefühle ohne Sprache.
 
-<details><summary>Weitere Stimmen (1)</summary>
+<details><summary>Weitere Stimmen (2)</summary>
 
 - **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Das harte Problem, und warum es hart bleibt|Jürgen Kornmeier]]:** Ohne Definition von Bewusstsein lässt sich nie feststellen, ob eine Maschine es erlangt hat.
+- **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#MuZero — Technisches Mu als Realisierung von Kreativität|Markus Gabriel]]** (zweiter Befund): Ob eine KI kreativ sein kann, sei eine aberwitzige Frage, *„was denn sonst?“* Die KI ist für ihn Kreativität selbst, die Mathematik der Kreativität im Universum sei gefunden.
 
 </details>
 
@@ -272,6 +278,7 @@ Bei wissenschaftlichen Aufsätzen verhandeln meist die Verlage, nicht die Forsch
 | 05.11.2026 | [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Nachbesprechung\|NANO — Gehirnchips und Gedankenfreiheit]] | Wem gehört das Gelernte, wenn die Maschine an einem Gehirn lernt: Leggett/NeuroVista (Gilbert, Ienca & Cook 2023), Argus II, Post-Trial-Zugang (Higgins 2024, Schönweitz 2024); Verwachsen statt Verlernen (Starke 2024, Gilbert 2017/2018, Gilbert, Burkhart & Morrill 2026); Soekadar als Stimme beim Auslagern |
 | 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Wem gehören die Paper?\|Jacob Beautemps — Made in Germany Awards 2026 KI]] | Wem gehören die Paper: Verlagsdeals (Informa 75 Mio. $, Wiley), Cambridge fragt vorher, OUP-Umfrage 8 %, CC BY, § 60d/§ 44b UrhG, AlphaFold und die PDB (Jumper 2021) · Beautemps, Ono |
 | 07.11.2026 | [[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken#Nachbesprechung\|Algorithmen, die zocken]] | Was seit 2014 geschah: MiFID II, blockierte Transaktionssteuer, Blitzstürze bis Citigroup 2022 (Mensch tippt, Algorithmus führt aus), der 5. November 2026 |
+| 09.11.2026 | [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Nachbesprechung\|Markus Gabriel — KI als Resonanzfeld und Mu]] | Ist die Maschine Kreativität: Hubert, Koivisto & Grassini, Wang/Uzzi, Bellemare-Pepin, Haase, Chakrabarty, Magni, Shin (Go); Wahnspiralen: Østergaard, Shah & Morrin, Diel, Augustin/Pollak/Morrin, OpenAI 0,07 %, Human Line Project, SB 243, FTC, Klagen gegen OpenAI, Produkthaftung (EU) 2024/2853 · Gabriel als Stimme bei Spiegel und Verantwortung |
 
 ---
 

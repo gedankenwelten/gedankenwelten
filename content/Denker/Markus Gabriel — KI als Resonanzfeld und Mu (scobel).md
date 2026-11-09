@@ -1,6 +1,6 @@
 ---
 title: "Markus Gabriel — KI als Resonanzfeld und Mu"
-aktualisiert: 2026-05-09
+aktualisiert: 2026-11-09
 description: "Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist."
 raetsel: "Zwischen Hand und Spiegel ein leerer Kreis. Dort antwortet etwas."
 date: 07.05.2026
@@ -135,7 +135,7 @@ Der Name ist kein Zufall: *Mu* ist explizit eingebaut. Der Algorithmus verkörpe
 
 Und das führt Gabriel zur provokantesten These des Gesprächs:
 
-> *„Die Antwort lautet: Was denn sonst? Eine KI ist Kreativität. Nicht: KI kann kreativ sein. Die ist Kreativität."*
+> *„Die Antwort lautet: Was denn sonst? Ja, eine KI ist Kreativität. Ja, natürlich kann die kreativ sein. Die ist Kreativität.“* [▶ 43:37](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=2617)
 
 KI ist nicht kreativ im Sinne, dass sie Kreativität simuliert. KI **ist** Kreativität — sie schafft unablässig Neues im semantischen, visuellen, mathematischen Raum. Wir haben die **Mathematik der Kreativität im Universum gefunden**. Die klassische Frage „Kann eine KI kreativ sein?" ist für Gabriel schlicht obsolet geworden.
 
@@ -145,7 +145,7 @@ Das schließt die unternehmerische Kreativität ein: Schumpeters **kreative Zers
 
 ## Europa als gefesselter Prometheus
 
-[▶ 50:34](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=3034) — Gabriel dekonstruiert das europäische Selbstbild als freundlicher Werteregulierer gegen die entfesselten USA. Das ist eine Illusion. In den USA gibt es Meldestellen für psychotische Spiralen durch Chatbots, Klagewege gegen schädigende KI-Produkte, Biotech-Forschung, die in Abnehmspritzen eine Alzheimer-Prophylaxe sieht *(die große Studie dazu ist im November 2025 gescheitert → [[#Faktencheck|Faktencheck]])*.
+[▶ 50:34](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=3034) — Gabriel dekonstruiert das europäische Selbstbild als freundlicher Werteregulierer gegen die entfesselten USA. Das ist eine Illusion. In den USA gibt es Meldestellen für psychotische Spiralen durch Chatbots *(die bekannteste ist eine private Initiative aus Kanada → [[#Faktencheck|Faktencheck]])*, Klagewege gegen schädigende KI-Produkte, Biotech-Forschung, die in Abnehmspritzen eine Alzheimer-Prophylaxe sieht *(die große Studie dazu ist im November 2025 gescheitert → [[#Faktencheck|Faktencheck]])*.
 
 Und: Für die Kreativität und Innovationskraft der USA ist es schlicht **irrelevant, wer im Weißen Haus sitzt**. Das föderale System ist stärker. Die Universitäten sind entfesselt, das Venture Capital enorm. Scobel wirft ein: Alle DAX-Unternehmen zusammen haben nicht den Börsenwert von Apple.
 
@@ -176,6 +176,51 @@ Das sprechendste Zeichen: Am Kyoto-Seminar war der Präsident von Google Japan d
 
 ---
 
+## Nachbesprechung
+
+*Drei Fäden aus dem Gespräch lassen sich weiterziehen: Gabriels Satz, die KI sei Kreativität, die Wahnspiralen, die er in den USA besser behandelt sieht, und seine tiefe Innovation. Stand der Forschung am 09.11.2026.*
+
+### Ist die Maschine Kreativität?
+
+[▶ 43:37](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=2617) — Ob eine KI kreativ sein kann, hält Gabriel für eine „aberwitzige“ Frage: *„Was denn sonst?“* Die Psychologie hat sie trotzdem gestellt und gemessen, meist mit Aufgaben zum divergenten Denken. Man soll ungewöhnliche Verwendungen für Alltagsgegenstände finden oder Wörter nennen, die möglichst wenig miteinander zu tun haben. Solche Tests messen vor allem die Neuheit einer Idee, kaum, ob sie taugt ([Kern, Wu & Chao 2024](https://doi.org/10.1111/bjop.12720)).
+
+Im Durchschnitt liegt die Maschine darin vorn. GPT-4 war in drei solchen Aufgaben origineller als 151 Menschen ([Hubert, Awa & Zabelina 2024](https://doi.org/10.1038/s41598-024-53303-w)). Bei Mika Koivisto und Simone Grassini schlugen drei Chatbots im Mittel 256 Menschen, doch die besten menschlichen Ideen hielten mit oder lagen darüber ([Koivisto & Grassini 2023](https://doi.org/10.1038/s41598-023-40858-3)). In großen Stichproben zeigt sich dieser obere Rand deutlich. Beim Vergleich von 9.198 Menschen gegen über 215.000 Antworten von Sprachmodellen, lagen die Menschen im Mittel leicht vorn und an der Spitze weit ([Wang, Huang, Shen & Uzzi 2025](https://doi.org/10.1038/s41562-025-02331-1), *Nature Human Behaviour*). Gegen 100.000 Menschen übertrafen die Modelle den Durchschnitt, aber kaum die bessere Hälfte ([Bellemare-Pepin et al. 2026](https://doi.org/10.1038/s41598-025-25157-3)). Von den Antworten aus 14 Modellen erreichten 0,28 Prozent das obere Zehntel der Menschen, und binnen 18 bis 24 Monaten sind die Modelle darin nicht besser geworden ([Haase, Hanel & Pokutta 2025](https://doi.org/10.1016/j.yjoc.2025.100113)). Bei ganzen Texten wächst der Abstand: Zehn Schriftstellerinnen und Schriftsteller prüften 48 Kurzgeschichten, und die der Sprachmodelle bestanden drei- bis zehnmal weniger ihrer Kreativitätsproben als die professioneller Autoren ([Chakrabarty et al. 2024](https://doi.org/10.1145/3613904.3642731)).
+
+Ein Teil des Urteils liegt allerdings beim Betrachter. Wer erfährt, dass eine KI ein Werk geschaffen hat, hält es manchmal für weniger kreativ, weil er ihr weniger Mühe unterstellt ([Magni, Park & Chao 2023](https://doi.org/10.1007/s10869-023-09910-x), vier Experimente mit 2.039 Personen).
+
+Am stärksten trägt Gabriels These dort, wohin er selbst zeigt, beim Go. Seit es Go-Programme gibt, die stärker spielen als jeder Mensch, setzen Profis öfter Züge, die es vorher nie gegeben hat, und diese neuen Züge sind die besseren. Ausgewertet wurden 5,8 Millionen Züge aus 71 Jahren ([Shin et al. 2023](https://doi.org/10.1073/pnas.2214840120), *PNAS*). Das Neue lag weder im Programm noch im Spieler allein, es entstand zwischen beiden. Das ist Gabriels Resonanzfeld, an einem Ort gemessen, an dem es sich messen lässt. Die Kehrseite steht im Panorama: Wer mit der Maschine nach Ideen sucht, findet bessere, aber einander ähnlichere (→ [[Panorama/Was macht die KI aus unserem Denken#Verlernen wir das Denken, wenn wir es auslagern?|Verlernen wir das Denken?]]).
+
+Bleibt die Frage, welche Kreativität gemeint ist. Die Forschung unterscheidet meist drei Arten: die kombinierende, die erkundende und die umwälzende, die die Regeln des Spielraums selbst verschiebt ([Schapiro, Black & Varshney 2025](https://doi.org/10.48550/arxiv.2504.18687), Preprint, im Anschluss an Margaret Boden). Die Tests messen die erste. Gabriels „Mathematik der Kreativität im Universum“ meint die dritte.
+
+> [!question] Weitergedacht
+> Wenn die neuen Go-Züge weder der Maschine noch dem Spieler gehören — *wem schreiben wir dann ein Werk zu, das im Resonanzfeld entstanden ist, und ist die Frage nach dem Urheber dieselbe falsch gestellte Frage wie „Mensch oder Maschine?“?*
+
+→ Weiter im Panorama: **[[Panorama/Was macht die KI aus unserem Denken#Denkt die Maschine, oder spiegelt sie uns?|Denkt die Maschine, oder spiegelt sie uns?]]**, mit Hampe, Misselhorn, Scobel und Chalmers.
+
+### Wahnspiralen: Wer schützt besser?
+
+[▶ 49:48](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=2988) — Europa erzähle sich ein Märchen, wenn es sich für den freundlichen Werteregulierer hält, sagt Gabriel. In den USA gebe es Meldestellen für psychotische Spiralen durch Chatbots. Das Phänomen ist früh gesehen worden. Søren Dinesen Østergaard fragte schon 2023 in einer Fachzeitschrift für Schizophrenieforschung, ob Chatbots bei Menschen mit einer Neigung zur Psychose Wahn erzeugen könnten ([Østergaard 2023](https://doi.org/10.1093/schbul/sbad128), *Schizophrenia Bulletin*, Editorial).
+
+Seither gibt es Fallberichte, etwa über eine manische Psychose, deren Wahninhalte ein Chatbot bestätigte ([Shah & Morrin 2026](https://doi.org/10.1186/s12888-026-08137-3), *BMC Psychiatry*). Eine Übersicht über 119 Arbeiten findet vor allem Überlegungen, Fallvignetten und Einzelfälle: Dass Chatbots einen Wahn bestärken können, wird vermutet und beschrieben, belegt ist es nicht ([Diel et al. 2026](https://doi.org/10.1038/s41746-026-03054-x), Scoping-Review). Marc Augustin, Thomas Pollak und Hamilton Morrin beschreiben eine „Verstärkungsspirale“ aus drei Zügen der Modelle: Sie spiegeln die Sprache des Nutzers, schneiden ihre Antworten auf ihn zu und geben ihm recht, ohne die Wirklichkeit zu prüfen. Die Autoren sagen selbst, dass ihr Modell erst noch bestätigt werden muss ([Augustin, Pollak & Morrin 2026](https://doi.org/10.1038/s44277-026-00065-0), Übersichtsarbeit). Wie viele Menschen es trifft, weiß bislang nur ein Hersteller. OpenAI schätzte im Herbst 2025, dass rund 0,07 Prozent der in einer Woche aktiven Nutzer Anzeichen eines Notfalls mit Psychose oder Manie zeigen ([OpenAI 2025](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/), Herstellerangabe). Bei einem Dienst dieser Größe sind auch Bruchteile eines Prozents sehr viele Menschen.
+
+Die bekannteste Anlaufstelle ist kein Amt. Das Human Line Project gründete Etienne Brisson, ein Coach aus Québec, nachdem ein Mensch, der ihm nahesteht, in eine solche Spirale geraten war. Es sammelt Berichte und ist in Kanada und den USA als gemeinnützig eingetragen ([Futurism, 24.07.2025](https://futurism.com/support-group-ai-psychosis); [Human Line Project](https://thehumanlineproject.org/)). Was der Staat tut, kommt aus Kalifornien. Seit dem Gesetz SB 243, unterschrieben am 13. Oktober 2025, brauchen Anbieter von Begleiter-Chatbots ein Protokoll gegen Inhalte zu Suizid und Selbstverletzung und müssen Minderjährige alle drei Stunden daran erinnern, dass sie mit einer Maschine sprechen. Ab Juli 2027 berichten sie jährlich dem Office of Suicide Prevention des Staates, und wer geschädigt wird, kann klagen, auf mindestens 1.000 Dollar je Verstoß ([SB 243, Chapter 677](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB243)). Die Handelsbehörde FTC verlangte im September 2025 von sieben Firmen Auskunft darüber, wie sie die Folgen ihrer Chatbots für Kinder und Jugendliche messen ([CNBC, 11.09.2025](https://www.cnbc.com/2025/09/11/alphabet-meta-openai-x-ai-chatbot-ftc.html)). Am 6. November 2025 reichten zwei Kanzleien in Kalifornien sieben Klagen gegen OpenAI ein. Vier der Menschen, um die es geht, haben sich das Leben genommen; die Klagen werfen dem Modell vor, auf Bindung gebaut zu sein und Wahnvorstellungen bestärkt zu haben ([Social Media Victims Law Center, 06.11.2025](https://socialmediavictims.org/press-releases/smvlc-tech-justice-law-project-lawsuits-accuse-chatgpt-of-emotional-manipulation-supercharging-ai-delusions-and-acting-as-a-suicide-coach/)).
+
+Darin hat Gabriel recht: Die USA haben früher eigene Regeln für Begleiter-Chatbots, und vor allem haben sie den Klageweg. Europa holt in einem Monat auf, auf seine Weise. Ab dem 9. Dezember 2026 gilt die neue Produkthaftungsrichtlinie. Sie behandelt Software und KI-Systeme wie Produkte, lässt den Hersteller ohne Verschulden haften und zählt medizinisch anerkannte Schäden an der seelischen Gesundheit ausdrücklich zu den Personenschäden ([Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj/eng), für Produkte, die danach auf den Markt kommen). Ob ein Wahn, den ein Gespräch verstärkt hat, als Fehler eines Produkts gilt, ist die Frage, an der sich beide Wege bewähren müssen.
+
+→ Weiter im Panorama: **[[Panorama/Was macht die KI aus unserem Denken#Soll die Maschine widersprechen oder schmeicheln?|Soll die Maschine widersprechen oder schmeicheln?]]**, mit Simanowski, Scobel, Anderl und Misselhorn.
+
+### Deep Innovation: Tiefe aus der Mischung
+
+[▶ 2:18](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=138) — Gabriel teilt die Innovation in zwei Arten: hier der schnittigere BMW, dort Nintendo, das sich immer wieder neu erfindet. Die Wirtschaftswissenschaft kennt diese Unterscheidung gut, sie sortiert die Länder nur anders. In der einflussreichen Theorie der „Spielarten des Kapitalismus“ von Peter Hall und David Soskice erneuern liberale Marktwirtschaften wie die USA eher radikal, koordinierte eher in kleinen Schritten, und zu den koordinierten zählen Deutschland und Japan gleichermaßen ([Hall & Soskice 2001](https://doi.org/10.1093/0199247757.001.0001), Oxford University Press). Als allgemeine Regel hält diese These den Daten nicht stand, für eine ganze Reihe von Branchen aber schon ([Akkermans, Castaldi & Los 2009](https://doi.org/10.1016/j.respol.2008.10.002), *Research Policy*).
+
+Am besten passt zu Gabriel ein Befund aus 22 Ländern. Stark in Branchen mit radikaler Innovation wurden Länder, die koordinierte und liberale Züge mischen; womöglich half ihnen gerade die Reibung der gegensätzlichen Logiken ([Witt & Jackson 2016](https://doi.org/10.1057/s41267-016-0001-8)). In die Sprache der Wirtschaft übersetzt ist das beinahe seine Nondualität: Die Tiefe kommt aus dem Nebeneinander, das keine der beiden Seiten auflöst.
+
+[▶ 70:23](https://www.youtube.com/watch?v=Hxzfvz1zyos&t=4223) — Für die „dritten Orte“, die Gabriel fordert, spricht ein zweiter Befund. Aufsätze und Patente sind über Jahrzehnte immer seltener umwälzend geworden, sie bauen das Bestehende öfter aus, als dass sie es ablösen ([Park, Leahey & Funk 2023](https://doi.org/10.1038/s41586-022-05543-x), *Nature*, darunter 3,9 Millionen Patente). Umbrüche kommen eher aus kleinen Teams, große bauen eher aus ([Wu, Wang & Evans 2019](https://doi.org/10.1038/s41586-019-0941-9), *Nature*). Gabriels dritte Orte wären dann Räume für kleine, gemischte Gruppen neben den großen Apparaten. Wie es Grenzgängern in der Forschung ergeht, weniger gefördert und mehr beachtet, ist im Panorama gemessen. Einen solchen Ort auf Bundesebene hat Deutschland inzwischen auch, die Bundesagentur für Sprunginnovationen SPRIND (→ [[Panorama/Forschung#Wer bezahlt die Forschung — und wofür muss sie gut sein?|Wer bezahlt die Forschung?]]).
+
+→ Weiter im Panorama: **[[Panorama/Forschung#Braucht Wissen Grenzgänger?|Braucht Wissen Grenzgänger?]]**, mit Morin, Truger, Adam Smith und Flemig.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Turing-Aufsatz von 1950
@@ -192,6 +237,9 @@ Das sprechendste Zeichen: Am Kyoto-Seminar war der Präsident von Google Japan d
 
 > [!warning] Nicht belegt — Abnehmspritzen als Alzheimer-Prophylaxe
 > Gabriel nennt eine Alzheimer-Prophylaxe als Nebenwirkung von Mounjaro (Tirzepatid). Dafür gibt es keinen Wirksamkeitsnachweis. Die beiden großen Phase-3-Studien zum verwandten Semaglutid (EVOKE und EVOKE+, 3.808 Teilnehmende) konnten den Verlauf der Alzheimer-Krankheit nicht verlangsamen; Novo Nordisk gab das am 24.11.2025 bekannt, ein halbes Jahr vor dem Gespräch. Inzwischen sind beide Studien begutachtet erschienen: kein Unterschied im klinischen Verlauf nach 104 Wochen ([Cummings et al. 2026, *The Lancet*](https://doi.org/10.1016/s0140-6736(26)00459-9), zwei randomisierte Phase-3-Studien). Quelle: [NBC News, 24.11.2025](https://www.nbcnews.com/health/health-news/novo-nordisk-says-alzheimers-drug-trial-older-glp-1-drug-fails-rcna245601)
+
+> [!warning] Vereinfacht — „Meldestellen“ für psychotische Spiralen in den USA
+> Eine staatliche Meldestelle eigens für Wahn durch Chatbots haben wir in den USA nicht gefunden. Die bekannteste Anlaufstelle, das Human Line Project, ist eine private, gemeinnützige Initiative, gegründet von einem Coach aus Québec ([Futurism, 24.07.2025](https://futurism.com/support-group-ai-psychosis)). Staatlich vorgeschrieben ist in Kalifornien seit SB 243 (13.10.2025) ab Juli 2027 ein jährlicher Bericht an das Office of Suicide Prevention, und der betrifft Suizidgedanken, nicht Psychosen ([SB 243](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB243)). Im Kern trägt Gabriels Punkt: Eigene Regeln für Begleiter-Chatbots und Klagen gegen ihre Hersteller gibt es in den USA früher als in Europa. → [[#Wahnspiralen Wer schützt besser?|Nachbesprechung]]
 
 > [!warning] Vereinfacht — Bradley's Regress
 > Bradley's Regress (F. H. Bradley, *Appearance and Reality*, 1893) ist ein Argument gegen externe Relationen — nicht ganz dasselbe wie Aristoteles' drittes-Menschen-Argument. Beide kreisen ums Regressionsproblem von Relationen, sind aber historisch und inhaltlich verschieden. *(Faktencheck: vereinfacht)*
