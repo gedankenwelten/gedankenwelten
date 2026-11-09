@@ -1,9 +1,10 @@
 ---
 title: Kevin Kühnert — DenkerVita
-description: "Vom SPD-Generalsekretär zur Bürgerbewegung Finanzwende: Kevin Kühnert will großen Vermögen eine Rendite von sechs Prozent unterstellen und diese besteuern wie jedes Einkommen."
+description: "Kevin Kühnert ging aus der Macht zurück in die Zivilgesellschaft und sagt von außen, was er drinnen sah: Geld ist Macht, und ein großes Erbe ist das günstigste Einkommen im Land."
 date: 2026-05-10
-aktualisiert: 2026-05-10
-tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerechtigkeit]
+aktualisiert: 2026-11-09
+raetsel: "Er sprach es vorher aus, damit es kein Zurück gab. Dann ging er tausend Kilometer."
+tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerechtigkeit, demokratie]
 ---
 
 # Kevin Kühnert — DenkerVita
@@ -12,7 +13,7 @@ tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerec
 
 <details><summary>🎨</summary>
 
-**Rockwell Kent** — klare, holzschnitthafte Linien, monumentale Bergplanen, dramatisches idealisiertes Licht in Schiefergrau, Schneeweiß und einem warmen Gold-Akzent. Eine einsame Figur (ohne realistisches Gesicht) wandert einen Alpenpass, das Parlament als winzige Kuppel klein im Tal zurückgelassen — Kühnerts 1.200-km-Wanderung nach dem Burnout, der Mann, der durch die Macht ging und wieder heraustrat. Der lange Schatten im Schnee nimmt die Form einer Waage an: Die Berufung (Steuergerechtigkeit) wandert als Schatten mit. Kent, weil er den einsamen Wanderer vor monumentaler Landschaft prägte — und selbst überzeugter Linker war.
+**Rockwell Kent** — klare, holzschnitthafte Linien, monumentale Bergplanen, dramatisches idealisiertes Licht in Schiefergrau, Schneeweiß und einem warmen Gold-Akzent. Eine einsame Figur (ohne realistisches Gesicht) wandert einen Alpenpass, das Parlament als winzige Kuppel klein im Tal zurückgelassen — Kühnerts Wanderung über den Nordalpenweg nach dem Rückzug, rund tausend Kilometer, der Mann, der durch die Macht ging und wieder heraustrat. Der lange Schatten im Schnee nimmt die Form einer Waage an: Die Berufung (Steuergerechtigkeit) wandert als Schatten mit. Kent, weil er den einsamen Wanderer vor monumentaler Landschaft prägte — und selbst überzeugter Linker war.
 
 *Prompt:* A wide horizontal banner in the style of Rockwell Kent, 1200x500, bold woodcut-influenced clean lines, dramatic idealized light, limited palette of slate blue, snow white, charcoal and a single warm gold accent. A solitary stylized male figure (no realistic face, seen from behind or in profile silhouette) walks a high alpine mountain pass, backpack on shoulders, striding from right toward a luminous sky on the left. Far below in the valley behind him sits a tiny grey domed parliament building, growing small and distant. The mountains rise in clean monumental planes. The walker's long shadow on the snow subtly takes the shape of a balanced pair of justice scales. Crisp graphic clouds, heroic but humble mood, sense of leaving an apparatus behind and walking toward clarity. No photorealism, no text.
 
@@ -20,164 +21,198 @@ tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerec
 
 ## Biographischer Snapshot
 
-Kevin Kühnert (*1989, Berlin*) — Ehemaliger SPD-Generalsekretär (Dezember 2021 – Oktober 2024) und Juso-Vorsitzender (2017–2020). Trat im Oktober 2024 aus gesundheitlichen Gründen zurück; im April 2025 sprach er in der ZEIT auch über Angriffe und Bedrohungen. Seit Dezember 2025 leitet er bei der Bürgerbewegung Finanzwende den Bereich Steuern, Verteilung und Lobbyismus. Kernthese: Vermögen und Einkommen sind verschiedene Dinge, und wer sie verwechselt, übersieht, wo die Ungleichheit liegt.
+> [!info] Wer spricht?
+> **Kevin Kühnert**, geboren am 1. Juli 1989 in Berlin. Seit 2005 in der SPD, von 2017 bis 2021 Bundesvorsitzender der Jusos, von 2019 bis 2021 stellvertretender Parteivorsitzender, von Dezember 2021 bis zum 7. Oktober 2024 Generalsekretär der SPD. Von 2021 bis 2025 saß er im Bundestag, direkt gewählt im Wahlkreis Berlin-Tempelhof-Schöneberg. Seit Dezember 2025 leitet er bei der Bürgerbewegung Finanzwende den Bereich Steuern, Verteilung und Lobbyismus und nennt sich selbst „Lobbyist für die Zivilgesellschaft“.
+>
+> **Heute:** [Bürgerbewegung Finanzwende](https://www.finanzwende.de/ueber-uns/aktuelles/kevin-kuehnert-wird-bereichsleiter-fuer-steuern-verteilung-und-lobbyismus), ein überparteilicher Verein mit mehr als 17.000 Mitgliedern (Stand Dezember 2025), gegründet 2018 zum zehnten Jahrestag der Lehman-Pleite
+> **Kanäle:** [Instagram @kuehnikev](https://www.instagram.com/kuehnikev/) · Kolumne [„Teilnehmende Beobachtung“](https://www.rollingstone.de/author/kevin-kuehnert/) im Rolling Stone (seit Oktober 2025)
+> **Seine Formel:** „Arbeit ist in Deutschland so teuer, weil Milliardär zu sein so billig ist.“ ([taz, 13.02.2026](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/))
 
 ---
 
 ## Biografie
 
-Kevin Kühnert trat mit 16 Jahren 2005 der SPD bei und machte schnell Karriere innerhalb der Jusos — der SPD-Nachwuchsorganisation. Von 2012 bis 2015 führte er den Juso-Verband Berlin an, anschließend wurde er stellvertretender Bundesvorsitzender (2015–2017). Im November 2017, im Alter von 28 Jahren, wurde er zum Bundesvorsitzenden der Jusos gewählt.
+> [!quote] Sein Abschied aus dem Bundestag
+> „Schützen wir das, was wir lieben, schützen wir unsere Demokratie. Ich tue das in Zukunft von außen. Bitte tun Sie es von hier drin.“ — letzte Rede im Bundestag, 11. Februar 2025 ([Nordkurier](https://www.nordkurier.de/politik/abschied-am-rednerpult-kuehnerts-appell-an-die-demokratie-3320191) · [Video](https://www.bundestag.de/mediathek/video?videoid=7629462))
 
-**Phase der öffentlichen Sichtbarkeit**
+Kevin Kühnert ist Berliner, geboren am 1. Juli 1989 ([Bundestag](https://www.bundestag.de/webarchiv/abgeordnete/biografien20/K/kuehnert_kevin-860416)). Zum ersten Mal kam er in der zehnten Klasse mit der SPD in Berührung, als Schülerpraktikant, der die übrig gebliebenen Wahlkampfmaterialien der Europawahl 2004 in den Keller eines Kreisbüros räumen sollte ([taz, 25.05.2024](https://taz.de/Kevin-Kuehnerts-Werdegang/!6009954/)). 2005 trat er ein ([Finanzwende](https://www.finanzwende.de/presse/kevin-kuehnert-wird-bereichsleiter-fuer-steuern-und-verteilung-bei-der-buergerbewegung-finanzwende)), sieben Jahre später wurde er Vorsitzender der Berliner Jusos ([Berliner Zeitung, 28.01.2023](https://www.berliner-zeitung.de/article/306897)). In seinem Heimatbezirk Tempelhof-Schöneberg war er nach Angaben von Finanzwende lange kommunalpolitisch aktiv. Ein Studium hat er abgebrochen (taz, 2024).
 
-Als Juso-Chef machte Kühnert bundesweit Schlagzeilen, als er 2018/2019 mit einer Kampagne gegen die Große Koalition (GroKo) von CDU/CSU und SPD mobiliierte. Diese Phase prägte sein öffentliches Profil als junger, zukunftsorientierter Sozialist, der sich auch zu kapitalismuskritischen Fragen äußerte (z.B. zur Frage der Enteignung von Großkonzernen).
+Bundesweit bekannt wurde er als Bundesvorsitzender der Jusos, von 2017 bis 2021. Anfang 2018 war er einer der Köpfe der Kampagne #NoGroKo gegen eine neue Große Koalition ([t-online, 03.08.2020](https://www.t-online.de/nachrichten/deutschland/id_88337256/juso-vorsitz-aufgeben-kuehnert-will-fuer-bundestag-kandidieren.html)). Im Mai 2019 sprach er mit der [ZEIT](https://www.zeit.de/politik/deutschland/2019-05/kevin-kuehnert-spd-jugendorganisation-sozialismus) über Sozialismus und regte an, BMW auf demokratischem Weg zu kollektivieren. Die *Bild* titelte „Kühnert will BMW enteignen“. Distanziert hat er sich davon nie: „Dieses Interview war und ist mir wichtig“, sagte er fünf Jahre später der taz ([taz, 25.05.2024](https://taz.de/Kevin-Kuehnerts-Werdegang/!6009954/)). 2019 unterstützten die Jusos Saskia Esken und Norbert Walter-Borjans, die sich in der Stichwahl um den Parteivorsitz gegen Olaf Scholz und Klara Geywitz durchsetzten ([taz, 07.10.2024](https://taz.de/SPD-Generalsekretaer-meldet-sich-krank/!6040979/)). Auf dem Parteitag im Dezember wurde Kühnert einer von fünf stellvertretenden Vorsitzenden ([taz, 07.12.2019](https://taz.de/Neuer-Vizechef-in-der-SPD/!5648114/)). Ein Filmteam des NDR begleitete ihn von 2018 bis 2021; daraus wurde die sechsteilige Serie *Kevin Kühnert und die SPD*.
 
-Bei einem SPD-Parteitag 2019 wurde er als einer der fünf Stellvertreter der damaligen Parteivorsitzenden Saskia Esken und Norbert Walter-Borjans gewählt — Ausdruck seines Einflusses innerhalb der Partei.
+Im August 2020 kündigte er an, den Juso-Vorsitz vorzeitig abzugeben und im Wahlkreis Tempelhof-Schöneberg für den Bundestag zu kandidieren (t-online). 2021 gewann er den Wahlkreis direkt, vor der Grünen Renate Künast ([taz, 07.10.2024](https://taz.de/SPD-Generalsekretaer-meldet-sich-krank/!6040979/)), und bei der Berliner Wiederholungswahl am 11. Februar 2024 noch einmal ([Bundestag](https://www.bundestag.de/webarchiv/abgeordnete/biografien20/K/kuehnert_kevin-860416)). Im Dezember 2021 wählte ihn der Parteitag zum Generalsekretär ([taz, 10.12.2021](https://taz.de/Kevin-Kuehnert-ueber-sein-neues-Amt/!5818642/)). Vorgeschlagen hatte ihn sein Vorgänger Lars Klingbeil, „weil ich mich auf ihn verlassen kann“; im Dezember 2023 bestätigten ihn die Delegierten mit über 90 Prozent. Die taz nannte den „Parteirebell“, der Scholz als Parteichef verhindert hatte, 2024 den „obersten Scholz-Vermarkter“. Kühnert erklärte den Wechsel so: „Politiker sprechen ja nicht als Privatpersonen, sondern im Rahmen eines Amts, das uns anvertraut wurde“ ([taz, 25.05.2024](https://taz.de/Kevin-Kuehnerts-Werdegang/!6009954/)).
 
-**Generalsekretär und Rücktritt**
+Am 7. Oktober 2024 trat er als Generalsekretär zurück. In einer Mail an die Mitglieder schrieb er: „Ich selbst kann im Moment nicht über mich hinauswachsen, weil ich leider nicht gesund bin.“ Die Energie, die Amt und Wahlkampf verlangten, brauche er, „um wieder gesund zu werden“. Für den nächsten Bundestag werde er nicht mehr kandidieren ([taz, 07.10.2024](https://taz.de/SPD-Generalsekretaer-meldet-sich-krank/!6040979/)). Noch am selben Abend übernahm Matthias Miersch kommissarisch das Amt ([Schwäbische Zeitung](https://www.schwaebische.de/politik/spd-verliert-wahlkampf-manager-miersch-folgt-auf-kuehnert-2964328)). Sein Mandat behielt Kühnert bis zum Ende der Wahlperiode. Am 11. Februar 2025 sprach er als letzter Redner der letzten Sitzung vor der Wahl. Viele Abgeordnete hätten wohl weiter die Überzeugung, Rechtsradikale solle man rechts liegen lassen, sagte er ihnen: „Das glaube ich Ihnen – aber Sie geben das Ringen zunehmend auf und das kritisiere ich“ ([Nordkurier](https://www.nordkurier.de/politik/abschied-am-rednerpult-kuehnerts-appell-an-die-demokratie-3320191)). Abgestimmt hat er noch am 18. März 2025, über die Änderung der Artikel 109, 115 und 143h des Grundgesetzes ([Bundestag](https://www.bundestag.de/webarchiv/abgeordnete/biografien20/K/kuehnert_kevin-860416)).
 
-Im Dezember 2021 berief ihn SPD-Kanzler Olaf Scholz zum Generalsekretär der SPD. Diese Position erfordert permanente öffentliche Präsenz, Krisenmanagement bei Skandalen und Parteiinterne Konflikte. Kühnert stand unter ständigem öffentlichem Druck — von rechts wurde er wiederholt bedroht, von links oft als zu gemäßigt kritisiert.
+Im April 2025 sprach er in der ZEIT zum ersten Mal über das, was neben der Gesundheit mitgewirkt hatte: Angriffe und Bedrohungen, unter anderem von Neonazis und Corona-Leugnern. „Meine rote Linie ist da, wo Gewalt in der Luft liegt. Ich bin nur 1,70 Meter groß.“ Selbst im Urlaub habe er sich nicht mehr sicher gefühlt und ihn darum immer öfter in einsamen Gegenden im Gebirge verbracht ([zdfheute, 23.04.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-ausscheiden-bedrohungen-angriffe-grund-100.html)). Im MARCANT-Podcast erzählt er von einer Fahrt mit der Tram in Halle: Drei Neonazis stiegen ein, erkannten ihn, fotografierten ihn und bauten sich auf ([▶ 65:32](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=3932)), und in der vollen Bahn sah man weg. Nicht der Moment habe ihn erschüttert, sondern „wie es mir nachgehangen hat“ ([▶ 66:19](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=3979)). Im Februar 2026 nannte er der taz einen weiteren Grund, die Frage nach seiner Wirksamkeit in Partei und Parlament: „Bin ich dafür der Richtige? Die Antwort kennen Sie.“ Und: „Ich bin am Ende nicht heil aus der Sache rausgekommen“ ([taz, 13.02.2026](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)).
 
-Im Herbst 2024, nach etwa dreijähriger Amtszeit, trat Kühnert offiziell von allen politischen Ämtern zurück. Er benötigte einen längeren Ruhestand und unternahm anschließend eine 1200-Kilometer-Wanderung auf der Alpenpässe-Route, um sich von den Jahren der Daueranspannung zu regenerieren.
+Im Sommer 2025 wanderte er den Nordalpenweg, rund tausend Kilometer durch Österreich, in fünfzig Etappen und zwei Monaten. Ein halbes Jahr vorher habe er ein paar Leuten davon erzählt, „denn wenn es erstmal ausgesprochen ist, gibt es kein Zurück“. Und danach: „Das Wandern ist natürlich kein Zaubertrank gegen alles Mögliche. Aber es schafft Raum und Zeit zum Nachdenken, Sortieren, Orientieren“ ([Instagram](https://www.instagram.com/p/DNstGPwUNGi/), zitiert nach [tag24, 24.08.2025](https://www.tag24.de/nachrichten/politik/politiker/kevin-kuehnert/kevin-kuehnert-wandert-1000-kilometer-durch-die-oesterreichischen-alpen-3414320)).
 
-**Neuanfang: Finanzwende**
-
-Im Dezember 2025 übernahm Kühnert eine Stelle bei der Bürgerbewegung Finanzwende, einer NGO mit über 17.000 Mitgliedern, gegründet 2018 zum zehnjährigen Jahrestag der Lehman-Brothers-Pleite. Bei Finanzwende leitet er den Bereich für Steuern, Verteilung und Lobbyismus — eine Position, die seine lange politische Erfahrung mit der Unabhängigkeit einer Zivilgesellschaftsorganisation verbindet.
-
----
-
-## Bücher & Publikationen
-
-Kevin Kühnert hat keine Monografie veröffentlicht. Seine Publikationen sind überwiegend Zeitungsartikel, Gastbeiträge und Interviews:
-
-| Format | Titel / Projekt | Beschreibung |
-|---|---|---|
-| Kolumnen | Rolling Stone Germany | Gastkolumnist mit Fokus auf Verteilungspolitik und gesellschaftliche Themen |
-| Interviews / Gastbeiträge | Verschiedene Medien (ARD, ZDF, taz, Die Zeit) | Regelmäßige Statements zu Finanzpolitik und Vermögensungleichheit |
-| Panel-Beiträge | Studio Bonn — Extremer Reichtum (2025) | Öffentliche Debatte zu extremer Vermögenskonzentration in Deutschland |
-| Rede / Kampagnen | Juso-Positionen zu Kapitalismuskritik (2017–2020) | Während seiner Zeit als Juso-Vorsitzender — Debattenpapiere zur Große-Koalition-Ablehnung |
+Im Oktober 2025 begann er im Rolling Stone die Kolumne „Teilnehmende Beobachtung“, alle zwei Wochen ([Rolling Stone, 22.10.2025](https://www.rollingstone.de/kevin-kuehnert-kolumne-markus-soeder-3068435/)). Im Dezember 2025 ging er zu Finanzwende, zu einem Verein, in dem auch die frühere Cum-Ex-Ermittlerin Anne Brorhilker arbeitet. „Wo finanzielle Mittel ungleich verteilt sind, verschiebt sich auch politische Macht“, sagte er zum Antritt ([Finanzwende, 11.12.2025](https://www.finanzwende.de/presse/kevin-kuehnert-wird-bereichsleiter-fuer-steuern-und-verteilung-bei-der-buergerbewegung-finanzwende)). Sein Name stehe im Lobbyregister des Bundestags, sagt er, Lobbyismus finde er „an sich nicht verwerflich“. SPD-Mitglied ist er geblieben, „ja, klar“, und zurück in die Politik zieht es ihn nach eigenen Worten nicht: „Ich bin hier bei Finanzwende nicht auf einem Parkplatz, auf dem ich warte, bis die Schranke wieder hoch geht“ ([taz, 13.02.2026](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)).
 
 ---
 
-## Empfehlenswerte Videos & Vorträge
+## Bücher, Texte & Kanäle
 
-| Titel | Link | Beschreibung |
-|---|---|---|
-| Studio Bonn — Extremer Reichtum | [YouTube](https://www.youtube.com/watch?v=Gw8rBzTRZUY) | Panel mit Kühnert, Marlene Engelhorn, Julia Friedrichs, Fabian Pfeffer; Moderator Sven Sappelt. Bundeskünstl e-Talk 2025. |
-| Kevin Kühnert: Gesprächszeit-Interview | [Bremen Zwei (Audio)](https://www.bremenzwei.de/audios/gespraechszeit-kevin-kuehnert-politik-100.html) | Podcast-Interview über seinen Rückzug aus der Politik und neuen Job bei Finanzwende. |
-| ZDF Heute — Kevin Kühnert Porträt | [zdfheute.de](https://www.zdfheute.de/politik/deutschland/kuehnert-portraet-ruecktritt-spd-generalsekretaer-100.html) | Journalistische Porträtierung seines Weges vom Hoffnungsträger zum politischen Rückzug. |
-| taz-Interview: Was macht Kevin Kühnert jetzt? | [taz.de](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/) | Ausführliches Interview über Post-Politik-Burnout und neuen Fokus auf Finanzwende. |
+Eigene Bücher verzeichnet die Deutsche Nationalbibliothek nicht (Abfrage 09.11.2026). Er schreibt und spricht:
+
+| Format | Was es ist |
+|---|---|
+| [Teilnehmende Beobachtung](https://www.rollingstone.de/author/kevin-kuehnert/) | Kolumne im Rolling Stone seit Oktober 2025, über Söders Identitätspolitik, die Rentenreform, Serien über den Politikbetrieb; die jüngste auf der Autorenseite ist [„Wie die Plutokratie die Demokratie ablöst“](https://www.rollingstone.de/kevin-kuehnert-wie-die-plutokratie-die-demokratie-abloest-3094227/) (27.01.2026) |
+| [Finanzwende](https://www.finanzwende.de/) | Kampagnen und Kurzfilme zur Erbschaftsteuer, etwa die Petition „Ehrensache Erbschaftsteuer: Keine Ausnahmen für Milliardäre!“ |
+| [Instagram @kuehnikev](https://www.instagram.com/kuehnikev/) | Sein persönlicher Kanal, dort auch der Bericht von der Wanderung |
+| [Reden im Bundestag](https://www.bundestag.de/mediathek?filterset=wp20&rednerId=12481&scroll=mod536668) | Alle Reden der 20. Wahlperiode, unter anderem zu Wohnen und zum Gebäudeenergiegesetz |
+
+---
+
+## Empfehlenswerte Videos
+
+- [Kevin Kühnert und die SPD](https://www.ardmediathek.de/serie/kevin-kuehnert-und-die-spd/staffel-1/Y3JpZDovL25kci5kZS80NzI4/1) (NDR, ARD Mediathek, Oktober 2021, sechs Folgen à 32 bis 41 Min.) — Drei Jahre mit der Kamera neben ihm, von der Juso-Rebellion 2018 bis zur Bundestagswahl 2021. Er selbst hat laut taz nur drei Teile geschaut.
+- [Rede im Bundestag](https://www.bundestag.de/mediathek/video?videoid=7629462) (11.02.2025, 6 Min.) — Seine letzte Rede, ein Appell an die Abgeordneten, das Ringen mit den Rechtsradikalen nicht aufzugeben.
+- [Er war SPD Chef...😳](https://www.youtube.com/watch?v=tuCmL7EIr2E) (MARCANT PODCAST, 03.04.2026, 2 Std. 38 Min.) — Das ausführlichste Gespräch nach dem Ausstieg: Snippet-Politik, Kompromiss, Wohnen, Bedrohung, Erbe, Verbotsverfahren. → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Note]]
+- [Studio Bonn – Talk: Extremer Reichtum](https://www.youtube.com/watch?v=Gw8rBzTRZUY) (Bundeskunsthalle, Abend vom 29.04.2026, 2 Std. 8 Min.) — Mit Marlene Engelhorn, Julia Friedrichs und Fabian Pfeffer; vier Stimmen, eine Diagnose, verschiedene Antworten. → [[Zeitgeist/Studio Bonn — Extremer Reichtum|Note]]
+- [Wie geht gerechte Steuerpolitik? Mit Kevin Kühnert](https://www.youtube.com/watch?v=J4nOAZ8F75Y) (Politik mit Anne Will, 15.05.2026, 1 Std. 52 Min.) — Ein langes Einzelgespräch über Arbeit, Vermögen und Erbschaft.
+- [re:publica 26: Warum wir uns eine ungleiche Gesellschaft nicht leisten können](https://www.youtube.com/watch?v=aXG9MS7gHOE) (20.05.2026, 60 Min.) — Mit der Soziologin Jutta Allmendinger, über Erbschaftsteuer, Wohnungsbau und Bildung.
+- [Mythos Familienunternehmen – Wie die Lobby der Milliardäre uns manipuliert](https://www.youtube.com/watch?v=JvGCDwGsbns) (Finanzwende, 29.05.2026, 20 Min.) — Kurzfilm mit Kommentaren von Kühnert, Norbert Walter-Borjans und Julia Jirmann; das Argument vom Etikettenschwindel in Bildern.
+- [phoenix persönlich: Kevin Kühnert zu Gast bei Erhard Scherfer](https://www.youtube.com/watch?v=NoQL2TxX_nM) (phoenix, 03.07.2026, 30 Min.) — Rückzug, Neuanfang, der Zustand der Parteien.
+- [Vermögen ohne Leistung – wie ungerecht ist Erben?](https://www.youtube.com/watch?v=_kK0g12iSTw) (ZDFheute, Sarah Tacke, 13.08.2026, 61 Min.) — Streitgespräch, unter anderem mit dem Finanzwissenschaftler Bernd Raffelhüschen und der Familienunternehmerin Andrea Thoma-Böck; hier sitzt die Gegenseite mit am Tisch.
 
 ---
 
 ## Kernthesen
 
-### 1. **Der Kategorienfehler: Einkommen ist nicht Vermögen**
+*(Was er selbst sagt, belegt aus seinen Gesprächen und Texten.)*
 
-Kühnert identifiziert einen fundamentalen Fehler in der deutschen öffentlichen Debatte: Man redet von Reichtum, meint aber Einkommen. Dies führt dazu, dass progressive Steuersätze und Sozialversicherungsbeiträge auf Arbeitseinkommen greifen, während Vermögen sich quasi *unbesteuert* selbst vermehrt. Ein großes Vermögen "arbeitet aus sich selbst heraus ganz anders als ein kleines Erwerbseinkommen."
+1. **Geld ist Macht, und extremer Reichtum baut sich ein Sondersystem.** Das Thema gehe alle an, „weil es um Macht geht. Weil Geld in unserer Gesellschaft und in dem kapitalistischen System Macht bedeutet“ ([▶ 109:37](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=6577)). Sein Beleg sind die USA, wo Musk sich mit Spenden in einen Wahlkampf eingekauft und „als Gegenleistung am Ende seine eigene Behörde“ bekommen habe: Extremer Reichtum komme „irgendwann an einen Punkt, an dem die allgemein geltenden Spielregeln ausgeschaltet werden für diese Leute und ein Sondersystem entsteht“ ([▶ 111:12](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=6672)). Im Rolling Stone schreibt er: „Vermögen wird als Tauschmittel für Macht eingesetzt und die Macht anschließend rücksichtslos ausgeübt, um das Vermögen zu mehren“ ([27.01.2026](https://www.rollingstone.de/kevin-kuehnert-wie-die-plutokratie-die-demokratie-abloest-3094227/)).
 
-### 2. **Gleiches Recht für alle — und die Verschonungsbedarfsprüfung**
+2. **Vermögen ist kein Einkommen.** Wer mehr verdient, zahlt mehr Steuern und Beiträge; die Vermögensteuer ist seit den Neunzigern ausgesetzt, die Erbschaftsteuer „löchrig“. Und: „Ein großes Vermögen arbeitet aus sich selbst heraus ganz anders als es ein kleines Erwerbseinkommen tut“ ([▶ 17:16](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=1036)). Der Gebrauchtwagen der Mitte verliert an Wert, die Oldtimer in der Garage gewinnen; bei großen Vermögen müsse man sich „schon richtig dumm anstellen, um nicht mit 6, 7, 8 % oder mehr Vermögenszuwachs im Jahr nach Hause zu gehen“ ([▶ 18:01](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=1081)).
 
-Im Studio-Bonn-Panel (April 2026) fängt Kühnert bei der Gleichheit vor dem Gesetz an: Wer Lohn bezieht, kann nicht entscheiden, ob er Einkommensteuer zahlt, sie ist abgezogen, bevor das Geld ankommt. Bei großen Erbschaften laufe es andersherum, über die Verschonungsbedarfsprüfung können Erben von Unternehmensanteilen ab 26 Millionen Euro die Steuer erlassen bekommen. Steuerkriminalität bleibe oft unbestraft, weil die Behörden unterbesetzt sind. Und die Stiftung Familienunternehmen betreibe einen Etikettenschwindel: Das Wort *Familienunternehmen* lasse an den Dachdecker im Kastenwagen denken, gemeint seien Milliardenerben. *(Das Modell einer unterstellten Rendite von 6 % als steuerpflichtiges Einkommen, das hier früher Kühnert zugeschrieben war, trägt im Panel Julia Friedrichs vor — korrigiert am 23.10.2026.)*
+3. **Ein großes Erbe ist das günstigste Einkommen im Land.** Ein Erbe sei „ein leistungsloses Einkommen“, daran sei nichts Schlimmes, aber beim Übergang von Kapital würden normalerweise Steuern erhoben ([▶ 106:35](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=6395)). Ein großes Unternehmen in Familienbesitz zu erben sei „das günstigste Einkommen, was man in Deutschland überhaupt haben kann“ ([▶ 107:21](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=6441)). Die Rechnung dahinter: „Arbeit ist in Deutschland so teuer, weil Milliardär zu sein so billig ist“ ([taz, 13.02.2026](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)). „Niemand hat die Erhöhung einer Steuer vorgeschlagen“, sagt er dort; Finanzwende wolle „zuvorderst die Begünstigung besonders großer Betriebsvermögen abschaffen“.
 
-### 3. **Vermögenskonzentration als Demokratiegefahr**
+4. **„Familienunternehmen“ ist ein Etikett.** Das Wort sei „neben Katzenbabys wahrscheinlich ungefähr das Süßeste und Sympathischste“, was man in eine Debatte einbringen kann; man denke an den Dachdecker, der morgens um halb sechs in den Kastenwagen steigt, gemeint seien Milliardenerben ([▶ 108:50](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=6530)). Hinter dem „rührend gewählten Begriff“ verbergen sich für ihn „die reichsten deutschen Konzerne“ ([taz, 13.02.2026](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)). Die Unternehmen selbst nimmt er aus: „Es ist gut, dass es die gibt, und wir wollen deren Arbeitsplätze“ ([▶ 56:02](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=3362)).
 
-Kühnert betont nicht primär ökonomische Ungleichheit, sondern deren politische Konsequenz: Wenn einzelne Personen durch Medienbeteiligungen, Lobbying oder schlicht ihre finanzielle Kraft über demokratisch legitime Grenzen hinaus Einfluss gewinnen, ist das ein Demokratieproblem. Extremes Vermögen schafft Machtkonzentrationen, die ein-Mensch-eine-Stimme-Prinzip unterminieren.
+5. **Lobbyismus ist nicht das Problem, die Unwucht ist es.** „Bei Lobbyist denken die Leute halt an schmierige Typen in Anzügen … Das alles bin ich nicht, habe auch gar keinen Anzug dafür, aber ich bin Lobbyist für die Zivilgesellschaft“ ([▶ 1:31](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=91)). Ungleiche Interessenvertretung führe zu ungleichen Politikergebnissen ([taz, 13.02.2026](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)). Gegen das Geld der anderen setzt er Öffentlichkeit: „Wir haben das Argument, das ist unsere Waffe“ ([▶ 116:35](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=6995)). Das Ziel seien Menschen, die sagen können: „Ich bin kein Steuerexperte, aber das, was ich hier gerade gehört und gesehen habe, reicht mir, um als Bürger dieses Landes zu sagen, so geht's nicht“ ([▶ 120:23](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=7223)).
 
-### 4. **Erbschaft als strukturelles Versprechen-Brechen**
+6. **Die radikale Rechte verschiebt die soziale Frage ins Kulturelle.** Statt zu fragen, „wie bekomme ich mehr Geld für meine harte Arbeit“, würden Menschen dahin gelenkt, den Abstand „zu dem syrischen Geflüchteten, der noch ein bisschen weniger hat“, zu vergrößern ([▶ 16:47](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=1007)). Die Rechte schiebe „den eigentlichen, den sozialen, ökonomischen Konflikt beiseite“ und baue „Fußabtretergruppen“ auf ([▶ 19:53](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=1193)). Mitschuld gibt er der Politik seit den Neunzigern, einem „Aufbruch ins Unpolitische“ nach dem Ende der Blockkonfrontation ([▶ 17:33](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=1053)). Auf den Plattformen sieht er ein „vulgär libertäres“ Ziel, das demokratische Institutionen zur „zeremoniellen Zierde“ machen wolle ([▶ 74:18](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=4458)).
 
-Deutschland vererbt Reichtum dynastisch: 75% der Milliardärsvermögen sind geerbt, nicht selbsterwirtschaftet. Dies widerlegt das neoliberale Versprechen von Meritokratie (Leistung wird belohnt). Ein System, das ererbte Privilegien über Leistung und Aufstiegschancen privilegiert, unterminiert sein eigenes Legitimationsnarrativ.
+7. **Der Kompromiss schleift ab, und das ist normal, bis er zum Selbstbetrug wird.** „Du wirst von Anfang an da drin geschult, Mehrheiten zu bilden und natürlich auch Zugeständnisse zu machen … Und das schleift was ab. Das ist ganz normal“ ([▶ 29:10](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=1750)). Die Grenze: Die Erzählung vom Kompromiss dürfe nicht dazu führen, „dass du ein Selbstbetrug begehst“ und überdeckst, dass du dich „nirgendwo durchsetzt“ ([▶ 33:41](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=2021)). Über sich: Er könne seine Stärken „besser außerhalb des parlamentarischen Betriebs ausspielen“ ([▶ 30:40](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=1840)). Im Panel in Bonn gesteht er, Maßnahmen zu lange danach bemessen zu haben, wie radikal sie gegenüber dem Koalitionspartner wirken, „weil ich zu sehr in der internen Logik drin war“ ([▶ 123:21](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=7401)).
 
-### 5. **Die Finanzwende-Perspektive: Lobbyismus transparenter machen**
+8. **Wohnraum ist kein Porsche.** „Warum muss es überhaupt so sein, dass Wohnraum als eine Ware behandelt wird?“ Für den Porsche sei der Markt in Ordnung, „es gibt im Grundgesetz kein Recht auf den Porsche“ ([▶ 47:21](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=2841)). Sein Gegenbild ist Wien, wo nach seinen Worten zwei Drittel der Wohnungen der Stadt oder Genossenschaften gehören ([▶ 48:54](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=2934)). Den Berliner Volksentscheid zur Enteignung großer Wohnungskonzerne hat er trotzdem „ausdrücklich nicht unterstützt“, aus strategischen Gründen, bei gleicher Analyse ([▶ 50:25](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=3025)).
 
-In seiner neuen Rolle bei Finanzwende kritisiert Kühnert die Steuervermeidungsindustrie: Menschen mit 900-Dollar-Stundensätzen helfen Reichen, aus "schädlichem Vermögen" (steuerpflichtig) "unschädliches Vermögen" (steuerfrei) zu machen — legal, aber demokratisch problematisch. Finanzwende setzt auf Transparenzmachung dieser Lobbystrukturen.
+9. **Ein Verbotsverfahren ist eine Prüfung, kein Verbot durch die Konkurrenz.** Eine Partei könne eine andere nicht verbieten, „dann wäre es kein Rechtsstaat“; das Bundesverfassungsgericht prüfe, ob eine Partei aktiv gegen die freiheitliche Demokratie arbeite ([▶ 95:13](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=5713)). Den Versuch hält er für richtig, wenn die juristische Beratung sagt, „das Verfahren hat realistische Aussicht auf Erfolg“, und er fragt, ob ein Scheitern der AfD „einen heiligen Schein“ verschaffen würde ([▶ 96:45](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=5805)).
 
 ---
 
-## Politische / ideologische Einordnung
+## Politische Einordnung
 
-**Klassifikation:** Links-liberaler Sozialdemokrat mit Kapitalismuskritik
+Kühnert nennt sich selbst einen Linken. „Natürlich bin ich als Linker der grundsätzlichen Überzeugung, dass mehr Vermögensgerechtigkeit nötig ist“, sagte er 2024 als Generalsekretär ([taz, 25.05.2024](https://taz.de/Kevin-Kuehnerts-Werdegang/!6009954/)). Wir ordnen ihn dem linken Flügel der SPD zu. Er kommt aus den Debatten über demokratischen Sozialismus bei den Berliner Jusos, an die sich Annika Klose, 2024 Berliner Bundestagsabgeordnete der SPD, in der taz erinnert. Das BMW-Interview von 2019 gehört dazu, ebenso die Frage nach dem Wohnraum als Ware.
 
-**Spektrum:**
-- **Ökonomie:** Deutliche Kapitalismuskritik, plädiert für höhere Besteuerung von Vermögen und Erbschaften, gegen Finanzlobbyismus, Keynesianer/MMT-freundlich
-- **Demokratie:** Liberal — Gewaltenteilung, Rechtsstaat, plurale Medienlandschaft sind zentral; Vermögenskonzentration wird als *Gefahr für Liberalität* kritisiert
-- **Gesellschaft:** Pro-Gleichberechtigung (LGBTQ-offen: verheiratet mit seinem Ehemann), progressiv bei Geschlechterparität in Führungspositionen
+Auf der anderen Seite steht ein Politiker, der nach dem Durchsetzbaren fragt, und auch das in eigenen Worten. Den Berliner Enteignungs-Volksentscheid unterstützte er nicht. Als Generalsekretär hielt er auf dem Parteitag im Dezember 2023 die Gegenrede gegen einen Antrag auf Vermögensabgabe, weil man sich auf ein Konzept mit dem Schwerpunkt Erbschaftsteuer geeinigt hatte: „Mir war wichtig, dass wir am Ende nicht mit einem Bauchladen rausgehen“ (taz, 2024). Klose sagt, er habe immer ein gutes Gespür dafür gehabt, „was durchsetzbar ist und was nicht“. Ein junger Juso hätte sich dagegen gewünscht, dass er Haushalt und Schuldenbremse stärker infrage stellt (ebd.). Man kann darin Klugheit lesen oder das Abschleifen, das er selbst beschreibt; er selbst zieht die Grenze beim Selbstbetrug.
 
-**Ideologische Verankerung:**
-- Erbe der Brandt/Schmidt-SPD (sozialliberal) + starkem linkem Flügel (Jusos-Tradition)
-- Kritisch gegenüber der Schröder/Hartz-IV-Linie seiner eigenen Partei
-- Pragmatisch bei Reformfähigkeit (nicht revolutionär), aber prinzipiell in Forderungen
+Seit Dezember 2025 spricht er als Lobbyist und sagt das offen. Finanzwende nennt er überparteilich, „keine rot-grüne Vorfeldorganisation“ und „nicht Robin Hood“ (taz, 13.02.2026). Seine Zahlen haben wir an den Notes geprüft, mit gemischtem Ergebnis. Dass auf rund 400 Milliarden Euro, die jährlich vererbt oder verschenkt werden, nicht einmal drei Prozent Steuer anfallen, trägt, wenn man die obere Schätzung des DIW zugrunde legt. Die „2 bis 3 %“ für Milliardenerben sind plausibel, aber zugespitzt, und die Stundung „über bis zu 20 Jahre“ beschreibt das Reformkonzept seiner Partei, nicht das geltende Recht ([[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Faktencheck|Faktencheck MARCANT]] · [[Zeitgeist/Studio Bonn — Extremer Reichtum#Faktencheck|Faktencheck Studio Bonn]]). Inhaltlich widerspricht ihm Marlene Engelhorn auf demselben Podium: Ein Vermögen arbeite nicht aus sich selbst heraus, „Geld arbeitet nicht, Menschen arbeiten“.
 
-**Kontraste:**
-- Unterscheidet sich von reinen Kulturlinken durch Fokus auf Verteilung (ökonomisch primär)
-- Unterscheidet sich von Marxisten durch Reformoptimismus und Vertrauen in demokratische Institutionen
-- Positioniert sich bewusst *gegen* die neoliberale "Sachzwang"-Rhetorik seiner Parteiführung
+Gegen die radikale Rechte zieht er eine klare Linie. Für den übrigen Streit sagte er 2025 in der ZEIT: „Es braucht das ständige Bewusstsein, dass der politische Gegner auch recht haben könnte“ ([zdfheute, 23.04.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-ausscheiden-bedrohungen-angriffe-grund-100.html)). Die Sätze der Union gegen jede Steuererhöhung liest er als „Schaufenstersätze“ und hält eine Reform der Erbschaftsteuer in dieser Koalition für möglich (taz, 13.02.2026). Für die Gedankenwelten ist er darum zweierlei: ein Zeuge dafür, wie sich Politik von innen anfühlt, und ein Fürsprecher einer Sache, dessen Zahlen man nachprüfen sollte wie die jedes Fürsprechers.
 
 ---
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Marlene Engelhorn]] — Vom selben Podium in Bonn, eine Stufe radikaler. Kühnert will große Vermögen im bestehenden System erfassen, über eine unterstellte Rendite von sechs Prozent; Engelhorn fragt, ob Eigentum in dieser Konzentration überhaupt zu rechtfertigen ist, denn Geld arbeite nicht, es arbeiten Menschen für das Geld anderer. Gemeinsam ist beiden der Ausgangspunkt, dass ein großes Erbe kein Verdienst ist.
+- [[DenkerVita/Marlene Engelhorn]] — Vom selben Podium in Bonn, eine Stufe radikaler. Kühnert will große Vermögen im bestehenden System erfassen, zuerst durch das Ende der Verschonung großer Betriebsvermögen; Engelhorn fragt, ob Eigentum in dieser Konzentration überhaupt zu rechtfertigen ist, und widerspricht seinem Bild vom Vermögen, das aus sich selbst heraus arbeitet: Geld arbeite nicht, es arbeiten Menschen für das Geld anderer. Gemeinsam ist beiden der Ausgangspunkt, dass ein großes Erbe kein Verdienst ist.
 - [[DenkerVita/Fabian Pfeffer]] — Zwei Wege, auf denen Vermögen die Demokratie beschädigt, vom selben Podium. Kühnert zeigt den direkten: Medienbeteiligungen und Zugang verschaffen Einzelnen mehr Einfluss, als einem Bürger zusteht. Pfeffer zeigt den leiseren, der die Breite erfasst: Wo sich Vermögen ballt, sinkt das Engagement, weil man nicht mehr einsieht, sich an Regeln zu halten, wenn es oben niemand tut.
 - [[DenkerVita/Martyna Linartas]] — Kühnerts „leistungsloses Einkommen“ ist Linartas' „unverdiente Ungleichheit“ als Politiker-Formel. Was sie als Forschungsbefund belegt, die Rückkehr zur Erbengesellschaft, trägt er als Kampagne in die Öffentlichkeit. Mit dem Grunderbe für alle jungen Erwachsenen geht sie über seine Steuerreform hinaus: Sie will das Erben nicht nur besteuern, sondern verteilen.
 - [[DenkerVita/Marco Buelow|Marco Bülow]] — Der zweite SPD-Aussteiger, wie Kühnert nah an Finanzwende und Anne Brorhilker, mit derselben Diagnose der Schieflage zwischen Lobby und Gemeinwohl. Im Urteil über die eigene Partei trennen sie sich: Kühnert verteidigt das Abschleifen im Kompromiss als normal, Bülow sieht dort die Korrumpierung beginnen.
-- [[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]] — Sein Nachfolger im Amt des Generalsekretärs, aus demselben linken Flügel und mit derselben Doppelrolle, die Kühnert zermürbt hat: Wahlkämpfe vorbereiten und zugleich eine Regierungspolitik vertreten, die man nur teilweise geschrieben hat. In der Sache liegen sie nah beieinander, Klüssendorf mit Vermögensabgabe und Lebensfreibetrag bei der Erbschaftsteuer, Kühnert mit der unterstellten Rendite; der eine muss es im Apparat durchsetzen, der andere fordert es von außen.
+- [[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]] — Seit 2025 Generalsekretär, nach Matthias Miersch, der das Amt im Oktober 2024 von Kühnert übernahm. Klüssendorf kommt aus demselben linken Flügel und trägt dieselbe Doppelrolle: Wahlkämpfe vorbereiten und zugleich eine Regierungspolitik vertreten, die man nur teilweise geschrieben hat. Kühnert hat für sich entschieden, dass er seine Stärken außerhalb dieses Betriebs besser ausspielt. In der Sache liegen sie nah beieinander, Klüssendorf wirbt für eine Reform der Erbschaftsteuer mit einem Lebensfreibetrag, Kühnert mit der Forderung, die Begünstigung großer Betriebsvermögen abzuschaffen; der eine muss es im Apparat durchsetzen, der andere fordert es von außen.
 - [[DenkerVita/Anton Jaeger|Anton Jäger]] — Jägers Außendiagnose, Kühnerts Innenansicht: Die Parlamentsrede, die zuerst dem Clip dient, ist die gelebte Trennung von Politics und Policy, und die ins Kulturelle verschobene soziale Frage ist Jägers Flucht ins Symbolische, bestätigt von einem, der drinnen war.
-- [[DenkerVita/Heiner Flassbeck]] — Flassbecks Makromechanik, Kapitalerträge, die schneller wachsen als die Wirtschaft, erklärt, warum Kühnerts Unterstellung einer Rendite auf große Vermögen trägt. Zugleich setzt er einen strengeren Maßstab: Gut gemeinte Ungleichheitsforderungen der Linken nimmt er auseinander, wenn ihnen die ökonomische Mechanik fehlt, und daran muss sich auch Kühnerts eher moralisch vorgetragene Reichtumsthese messen lassen.
-- [[DenkerVita/Dana-Sophia Valentiner]] — Reibung beim AfD-Verbot. Kühnert knüpft das Verfahren an eine realistische Erfolgsaussicht und warnt, ein Scheitern verschaffe der AfD „einen heiligen Schein“. Das GFF-Gutachten, das Valentiner mitverfasst hat, entkräftet das Scheiter-Argument juristisch; die politischen Risiken, Märtyrererzählung und Nachfolgepartei, bleiben sein Thema, und zu ihnen schweigt das Gutachten bewusst.
+- [[DenkerVita/Heiner Flassbeck]] — Flassbecks Makromechanik, Kapitalerträge, die schneller wachsen als die Wirtschaft, erklärt, warum Kühnerts Beobachtung trägt, dass große Vermögen fast von selbst um „6, 7, 8 %“ im Jahr wachsen. Zugleich setzt er einen strengeren Maßstab: Seine Warnung vor naiven Ungleichheitsforderungen galt einem Antrag der Linken, nicht Kühnert, lässt sich aber auch an dessen eher moralisch vorgetragene Reichtumsthese anlegen.
+- [[DenkerVita/Dana-Sophia Valentiner]] — Reibung beim AfD-Verbot. Kühnert hält den Versuch für richtig, wenn das Verfahren realistische Aussicht auf Erfolg hat, und fragt, ob ein Scheitern der AfD „einen heiligen Schein“ verschaffen würde. Das GFF-Gutachten, das Valentiner mitverfasst hat, entkräftet das Scheiter-Argument juristisch; die politischen Risiken, Märtyrererzählung und Nachfolgepartei, bleiben sein Thema, und zu ihnen schweigt das Gutachten bewusst.
 
 ---
 
 ## Gedankenwelten-Notes
 
-Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle spielt:
+- [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]] — Das lange Gespräch ein Jahr nach dem Abschied aus dem Bundestag: Snippet-Politik, die ins Kulturelle verschobene soziale Frage, Kompromiss und Selbstbetrug, Wohnen, die Tram in Halle, Erbe als günstigstes Einkommen, Geld als Macht.
+- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Im Panel mit Engelhorn, Friedrichs und Pfeffer: der Armutsnachteil, die Verschonungsbedarfsprüfung, der Etikettenschwindel mit den Familienunternehmen, „vulgär libertäre“ Plattformbesitzer.
 
-- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Kerntext: Einkommen ist nicht Vermögen, Verschonungsbedarfsprüfung, der Etikettenschwindel mit den Familienunternehmen, Medien und „vulgär libertäre“ Plattformbesitzer
-- [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]] — Das große Ausstiegs-Gespräch (MARCANT, 2026): warum er die Macht verließ, die Snippet-Politik von innen, die Verschiebung der sozialen Frage ins Kulturelle, Geld = Macht, und die alltägliche Bedrohung als Demokratiefrage
+*Als Stimme in den Panoramen:*
+- [[Panorama/Wie viel Reichtum vertraegt eine Demokratie#Was darf man erben?|Wie viel Reichtum verträgt eine Demokratie — Was darf man erben?]] — das große Erbe als das am günstigsten besteuerte Einkommen; weitere Stimmen von ihm unter „Braucht Reichtum eine Grenze?“ und „Wem gehört was?“.
+- [[Panorama/Wie kann Demokratie funktionieren#Wiegt jede Stimme gleich?|Wie kann Demokratie funktionieren — Wiegt jede Stimme gleich?]] — Milliardenerben, Medienbeteiligungen und Geld als Macht; unter „Wie schützen Institutionen die Demokratie vor Willkür?“ seine Erklärung des Verbotsverfahrens.
+- [[Panorama/Schoener Wohnen#Enteignen, regulieren oder bauen?|Schöner Wohnen — Enteignen, regulieren oder bauen?]] — Wohnraum als Ware und sein Nein zum Berliner Volksentscheid; unter „Wem gehört der Boden?“ die Verschonung ab 300 Wohnungen.
+- [[Panorama/NoAfD#Was hilft?|NoAfD — Was hilft?]] — ein Verfahren nur mit realistischer Erfolgsaussicht, und kein Verbot nimmt die Gedanken aus der Gesellschaft.
+- [[Panorama/Autoritaerer Internationalismus#Das Problem|Autoritärer Internationalismus — Das Problem]] — sein „Sondersystem“ als die Politikerfassung der Tech-Oligarchie, die das Panorama kartiert.
 
-*Weitere Verweise auf Kühnert (indirekt):*
-- [[Denker/Martyna Linartas — Unverdiente Ungleichheit]] — Parallele Diagnose zu Erbschaftsprivileg
-- [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] — Kontextuelle Kritik: Warum Kühnerts eigene Partei seine Forderungen blockiert
+<details><summary>Weitere Notes, die sich auf ihn beziehen (13)</summary>
+
+- [[Zeitgeist/Martin Oetting — Erbschaftsteuer, Reiche und das ZDF|Martin Oetting — Erbschaftsteuer, Reiche und das ZDF]] — rechnet sein Beispiel von Tante Susanne am Fall eines klagenden Neffen durch; dort auch der Faktencheck zur Stundung.
+- [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]] — führt seine Wohngeld-Rechnung als Szene vor, mit Wien als Gegenbild.
+- [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|Valentiner und Moini — GFF-Gutachten]] — sein „heiliger Schein“ gegen das juristische Gutachten.
+- [[Zeitgeist/Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]] — der zweite Aussteiger aus der SPD-Fraktion, der das Abschleifen anders liest.
+- [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv|Elif Eralp — Berlin-Wahl 2026]] — sein Kriterium vom Selbstbetrug als Prüfstein für eine Koalition ohne Machtwort.
+- [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — seine Snippet-Politik als Innenansicht der Politics-Policy-Trennung.
+- [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger und Nachtwey — Zerstörungslust]] — erklärt, warum das Treten nach unten, das er beschreibt, emotional funktioniert.
+- [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Wie Trump die USA ausraubt]] — das Sondersystem, vor dem er warnt, als eingetretener Fall.
+- [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott — Zur Gegenmacht]] — seine Rolle bei Finanzwende als Gegenmacht im Verteilungsfeld.
+- [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]] — deutet seinen „Aufbruch ins Unpolitische“ als Strategie statt Versäumnis.
+- [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne 27 — Die alte Tante SPD]] — das Außenporträt der Partei, deren Kompromisse er von innen verteidigt.
+- [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz' Rentenlüge]] — die Makromechanik hinter wachsenden Vermögen, und ein strengerer Maßstab.
+- [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]] — sein „leistungsloses Einkommen“ als ihr Forschungsbefund.
+
+</details>
 
 ---
 
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte
-> - Wenn ein Generalsekretär nach drei Jahren aus gesundheitlichen Gründen aufgibt und später von Bedrohungen erzählt — *was sagt das über die Anforderungen, die eine Demokratie an die stellt, die sie tragen?*
-> - Kühnert fordert innerhalb des Systems Reform (gleiches Steuerrecht für Erben großer Betriebsvermögen). Marlene Engelhorn im gleichen Panel geht weiter und fragt: Ist Privateigentum in dieser Konzentration überhaupt legitimierbar? Wo endet Kühnerts Reformoptimismus, wo beginnt Engelhorns Systemkritik?
-> - Ein großes Vermögen "arbeitet aus sich selbst heraus" — aber braucht es nicht Staat, Infrastruktur, Arbeitskräfte? Ist Kühnerts Kritik letztlich eine Kritik am *Nicht-Teilen* dieser Grundlagen, nicht am Besitz selbst?
-> - Warum findet Kühnerts klare Forderung nach Vermögensbesteuerung in der SPD, seiner eigenen Partei, keine Mehrheit? Ist das ein Versagen der Partei oder der Forderung?
-> - Steht Kühnert außerhalb des Parteiapparats freier da, oder fehlt ihm jetzt der Hebel, den er dort hatte?
+> - Wenn ein Generalsekretär nach drei Jahren aus gesundheitlichen Gründen aufgibt und später von Bedrohungen erzählt — *was sagt das über die Anforderungen, die eine Demokratie an die stellt, die sie tragen?* Und was über die vielen Ehrenamtlichen, auf die er verweist, die „nicht abends bei Markus Lanz sitzen“?
+> - Kühnert hält eine Reform im bestehenden System für möglich: das Ende der Verschonung großer Betriebsvermögen. Marlene Engelhorn sagt im selben Panel: „Das Problem heißt Kapitalismus.“ Wo endet Kühnerts Reformzuversicht, wo beginnt Engelhorns Systemkritik?
+> - Ein großes Vermögen „arbeitet aus sich selbst heraus“, sagt Kühnert; Engelhorn hält dagegen, dass Menschen dafür arbeiten. Ist seine Kritik letztlich eine Kritik am *Nicht-Teilen* dessen, was andere erarbeiten, und nicht am Besitz selbst?
+> - Als Generalsekretär sprach er gegen einen Antrag auf Vermögensabgabe, heute fordert er von außen. Er selbst sagt, Juso-Chef und Generalsekretär hätten andere Spielräume, „auch wenn der Mensch dahinter derselbe ist“. *Wie viel von einer Überzeugung gehört dem Menschen, wie viel dem Amt?*
+> - Steht Kühnert außerhalb des Parteiapparats freier da, oder fehlt ihm jetzt der Hebel, den er dort hatte? Bei Finanzwende mache er „eher Druck“ und treibe keine Gesetze voran.
 
 ---
 
 ## Faktencheck — zu Kühnert spezifische Claims
 
-> [!success] Bestätigt — Juso-Vorsitzender 2017, Generalsekretär 2021–2024, Rückzug Oktober 2024
-> Verifiziert über Wikipedia, ZDF, Bundestag-Archiv. Kühnert ist *1989 in Berlin geboren, trat SPD 2005 bei, wurde Juso-Chef November 2017, Generalsekretär Dezember 2021, Rücktritt 7. Oktober 2024, begründet mit seiner Gesundheit.
+> [!success] Bestätigt — Juso-Bundesvorsitzender 2017–2021, Generalsekretär 2021–2024, Rücktritt am 7. Oktober 2024
+> Geboren am 1. Juli 1989 in Berlin, Generalsekretär „bis 07.10.2024“ ([Bundestag, Abgeordnetenbiografie 20. WP](https://www.bundestag.de/webarchiv/abgeordnete/biografien20/K/kuehnert_kevin-860416)). SPD seit 2005, Juso-Bundesvorsitz 2017 bis 2021, stellvertretender Parteivorsitz 2019 bis 2021, Generalsekretär 2021 bis Herbst 2024 ([Finanzwende, 11.12.2025](https://www.finanzwende.de/presse/kevin-kuehnert-wird-bereichsleiter-fuer-steuern-und-verteilung-bei-der-buergerbewegung-finanzwende)). Rücktritt mit der Gesundheit begründet ([taz, 07.10.2024](https://taz.de/SPD-Generalsekretaer-meldet-sich-krank/!6040979/)). Hier stand früher „Verifiziert über Wikipedia, ZDF, Bundestag-Archiv“; die Belege sind am 09.11.2026 auf Primärquellen umgestellt.
 
 > [!success] Bestätigt — Finanzwende-Position seit Dezember 2025
-> Finanzwende gab am 11.12.2025 bekannt, dass Kühnert den Bereich Steuern, Verteilung und Lobbyismus leitet ([zdfheute, 11.12.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-neuer-job-finanzwende-100.html)). Hier stand früher „Dezember 2024“ — korrigiert am 23.10.2026.
+> Finanzwende gab am 11.12.2025 bekannt, dass Kühnert den Bereich Steuern, Verteilung und Lobbyismus leitet ([Finanzwende](https://www.finanzwende.de/ueber-uns/aktuelles/kevin-kuehnert-wird-bereichsleiter-fuer-steuern-verteilung-und-lobbyismus) · [zdfheute, 11.12.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-neuer-job-finanzwende-100.html)). Im August 2026 trat er noch in dieser Funktion auf ([ZDFheute, 13.08.2026](https://www.youtube.com/watch?v=_kK0g12iSTw)). Hier stand früher „Dezember 2024“ — korrigiert am 23.10.2026.
 
 > [!danger] Korrigiert — Der 6%-Rendite-Vorschlag im Studio-Bonn-Panel stammt nicht von Kühnert
-> Das Modell (Min. 96:29–97:15) trägt Julia Friedrichs vor, auf die Frage des Moderators an sie; Stimmlage und Gesprächsführung lassen keinen Zweifel. Diese Vita hatte es Kühnert zugeschrieben, samt einem Zitat („der kriegt 6% Rendite hin“), das so nicht fiel. → [[Zeitgeist/Studio Bonn — Extremer Reichtum#Was zu tun wäre|Studio Bonn]]
+> Das Modell (Min. 96:29–97:15) trägt Julia Friedrichs vor, auf die Frage des Moderators an sie; Stimmlage und Gesprächsführung lassen keinen Zweifel. Diese Vita hatte es Kühnert zugeschrieben, samt einem Zitat („der kriegt 6% Rendite hin“), das so nicht fiel. Am 09.11.2026 auch aus den Verbindungen zu Engelhorn, Klüssendorf und Flassbeck entfernt. Was Kühnert selbst sagt: Große Vermögen wachsen fast von selbst um „6, 7, 8 % oder mehr“ im Jahr ([▶ 18:01](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=1081)); das ist eine Beobachtung, kein Steuermodell. → [[Zeitgeist/Studio Bonn — Extremer Reichtum#Was zu tun wäre|Studio Bonn]]
 
 > [!warning] Korrigiert — „Burnout“ war nie sein Wort
-> Kühnert begründete den Rücktritt am 7.10.2024 mit seiner Gesundheit, er brauche die Energie, „um wieder gesund zu werden“. Erst im April 2025 sprach er in der ZEIT auch über Angriffe und Bedrohungen. Das Wort „Burnout“ hat er nicht verwendet; diese Vita hatte es ihm bis 23.10.2026 zugeschrieben ([zdfheute, 11.12.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-neuer-job-finanzwende-100.html); [infranken](https://www.infranken.de/deutschland/doch-nicht-wegen-der-gesundheit-kevin-kuehnert-erklaert-ruecktritt-rote-linie-art-6205822)).
+> Kühnert begründete den Rücktritt am 7.10.2024 mit seiner Gesundheit, er brauche die Energie, „um wieder gesund zu werden“ ([taz, 07.10.2024](https://taz.de/SPD-Generalsekretaer-meldet-sich-krank/!6040979/)). Erst im April 2025 sprach er in der ZEIT auch über Angriffe und Bedrohungen ([zdfheute, 23.04.2025](https://www.zdfheute.de/politik/deutschland/kuehnert-ausscheiden-bedrohungen-angriffe-grund-100.html)). Das Wort „Burnout“ hat er nicht verwendet; diese Vita hatte es ihm bis 23.10.2026 zugeschrieben. Am 09.11.2026 ergänzt: Das Zitat stand vorher mit einem Link auf zdfheute vom Dezember 2025, das es nicht enthält; es steht in der taz vom Tag des Rücktritts. Auch im 🎨-Text ist „nach dem Burnout“ gestrichen.
 
----
+> [!warning] Korrigiert — Nicht „von allen politischen Ämtern“ zurückgetreten (09.11.2026)
+> Am 7.10.2024 legte er das Amt des Generalsekretärs nieder und kündigte an, nicht wieder für den Bundestag zu kandidieren ([taz](https://taz.de/SPD-Generalsekretaer-meldet-sich-krank/!6040979/)). Sein Mandat behielt er bis zum Ende der Wahlperiode: letzte Rede am 11.02.2025, namentliche Abstimmungen noch am 18.03.2025 ([Bundestag](https://www.bundestag.de/webarchiv/abgeordnete/biografien20/K/kuehnert_kevin-860416)). SPD-Mitglied ist er bis heute ([taz, 13.02.2026](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)).
 
-## Quellen & Links
+> [!warning] Korrigiert — Die Wanderung: rund 1.000 Kilometer Nordalpenweg, nicht 1.200 Kilometer „Alpenpässe-Route“ (09.11.2026)
+> Er ist im Sommer 2025 nach eigenen Angaben rund 1.000 Kilometer den Nordalpenweg durch Österreich gewandert, in 50 Etappen und zwei Monaten; berichtet hat er es selbst auf Instagram ([tag24, 24.08.2025](https://www.tag24.de/nachrichten/politik/politiker/kevin-kuehnert/kevin-kuehnert-wandert-1000-kilometer-durch-die-oesterreichischen-alpen-3414320) · [FAZ](https://www.faz.net/aktuell/gesellschaft/smalltalk/kevin-kuehnert-beendet-1000-kilometer-wanderung-110652022.html)). Die Vita nannte 1.200 Kilometer, eine „Alpenpässe-Route“ und einen „längeren Ruhestand“ davor; nichts davon ist belegt.
 
-**Offizielle Quellen:**
-- [Finanzwende — Kevin Kühnert als Bereichsleiter](https://www.finanzwende.de/presse/kevin-kuehnert-wird-bereichsleiter-fuer-steuern-und-verteilung-bei-der-buergerbewegung-finanzwende)
-- [ZDF — Kevin Kühnert Porträt](https://www.zdfheute.de/politik/deutschland/kuehnert-portraet-ruecktritt-spd-generalsekretaer-100.html)
-- [Wikipedia — Kevin Kühnert](https://en.wikipedia.org/wiki/Kevin_K%C3%BChnert)
+> [!warning] Korrigiert — Juso-Vorsitz bis 2021, nicht 2020 (09.11.2026)
+> Der Snapshot nannte 2017–2020. Finanzwende schreibt „von 2017 bis 2021 als Bundesvorsitzender“ ([Finanzwende](https://www.finanzwende.de/presse/kevin-kuehnert-wird-bereichsleiter-fuer-steuern-und-verteilung-bei-der-buergerbewegung-finanzwende)). Angekündigt hatte er die Übergabe im August 2020 für den Bundeskongress Ende November ([t-online](https://www.t-online.de/nachrichten/deutschland/id_88337256/juso-vorsitz-aufgeben-kuehnert-will-fuer-bundestag-kandidieren.html)); das genaue Ende haben wir an keiner Primärquelle gelesen und lassen es offen.
 
-**Interviews & Narrative:**
-- [Bremen Zwei — Gesprächszeit mit Kevin Kühnert](https://www.bremenzwei.de/audios/gespraechszeit-kevin-kuehnert-politik-100.html)
-- [taz — Was macht Kevin Kühnert jetzt?](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)
+> [!warning] Gestrichen — Juso-Landesvorsitz „2012 bis 2015“ und stellvertretender Juso-Bundesvorsitz „2015 bis 2017“ (09.11.2026)
+> Belegt ist, dass er sieben Jahre nach dem Eintritt Vorsitzender der Berliner Jusos wurde ([Berliner Zeitung, 28.01.2023](https://www.berliner-zeitung.de/article/306897)); das Ende dieses Amts und einen stellvertretenden Bundesvorsitz fanden wir an keiner Primärquelle. Finanzwende schreibt nur, er habe bei den Jusos „unterschiedliche Funktionen“ übernommen.
 
-**Zentrale Debatte:**
-- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Vollständiges Panel mit Kühnerts Kernthesen
+> [!warning] Korrigiert — Nicht Scholz berief ihn, der Parteitag wählte ihn (09.11.2026)
+> Die Vita schrieb, Kanzler Scholz habe ihn im Dezember 2021 berufen. Gewählt haben ihn die Delegierten des Parteitags, vorgeschlagen hatte ihn sein Vorgänger Lars Klingbeil; im Dezember 2023 bestätigten sie ihn mit über 90 Prozent ([taz, 25.05.2024](https://taz.de/Kevin-Kuehnerts-Werdegang/!6009954/) · [taz, 10.12.2021](https://taz.de/Kevin-Kuehnert-ueber-sein-neues-Amt/!5818642/)).
+
+> [!warning] Korrigiert — Die #NoGroKo-Kampagne war Anfang 2018, und es ging um BMW, nicht um „Großkonzerne“ (09.11.2026)
+> Die Vita datierte die Kampagne auf „2018/2019“ ([t-online](https://www.t-online.de/nachrichten/deutschland/id_88337256/juso-vorsitz-aufgeben-kuehnert-will-fuer-bundestag-kandidieren.html): „Anfang 2018“) und sprach von der „Enteignung von Großkonzernen“. Im ZEIT-Interview vom Mai 2019 regte er an, BMW „auf demokratischem Wege zu kollektivieren“ ([taz, 25.05.2024](https://taz.de/Kevin-Kuehnerts-Werdegang/!6009954/)). Auch der Satz, er sei „von links oft als zu gemäßigt kritisiert“ worden, ist gestrichen; belegt ist nur die Stimme eines einzelnen Jusos, die die taz anonym wiedergibt.
+
+> [!warning] Korrigiert — Klüssendorf war nicht sein Nachfolger (09.11.2026)
+> Die Verbindung nannte Tim Klüssendorf „sein[en] Nachfolger im Amt des Generalsekretärs“. Auf Kühnert folgte am 7.10.2024 kommissarisch Matthias Miersch ([Schwäbische Zeitung](https://www.schwaebische.de/politik/spd-verliert-wahlkampf-manager-miersch-folgt-auf-kuehnert-2964328)); Klüssendorf ist seit Juni 2025 Generalsekretär ([[DenkerVita/Tim Kluessendorf|Vita Klüssendorf]]). Auch „die Doppelrolle, die Kühnert zermürbt hat“ ist umformuliert: Kühnert spricht von Gesundheit, Bedrohung und der Frage nach seiner Wirksamkeit.
+
+> [!danger] Gestrichen — „75 % der Milliardärsvermögen sind geerbt“ und „900-Dollar-Stundensätze“ (09.11.2026)
+> Beide Angaben standen in der Vita als Kühnerts Thesen. Im Studio-Bonn-Panel schätzt Fabian Pfeffer die 75 Prozent ([▶ 11:10](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=670)), und Julia Friedrichs erzählt von den Stundensätzen von 900 Dollar ([▶ 49:57](https://www.youtube.com/watch?v=Gw8rBzTRZUY&t=2997)). Von Kühnert stammt keine der beiden.
+
+> [!warning] Gestrichen — „Keynesianer/MMT-freundlich“, „verheiratet mit seinem Ehemann“ und die Etiketten der alten Einordnung (09.11.2026)
+> Für die ökonomische Schule fanden wir keine Aussage von ihm. Die Angabe zum Privatleben („verheiratet mit seinem Ehemann“) ist gestrichen: Die Bundestagsbiografie bestätigt sie nicht, und Privates gehört nicht in die Vita. Die Etiketten „Links-liberaler Sozialdemokrat mit Kapitalismuskritik“, „Erbe der Brandt/Schmidt-SPD“ und „gegen die Sachzwang-Rhetorik seiner Parteiführung“ sind durch eine Einordnung aus seinen eigenen Aussagen ersetzt.
+
+> [!success] Bestätigt — Die Kolumne im Rolling Stone gibt es (09.11.2026)
+> Die alte Vita nannte Kühnert „Gastkolumnist“ beim Rolling Stone, das galt als zweifelhaft. Belegt: Seit dem 22.10.2025 schreibt er dort alle zwei Wochen die Kolumne „Teilnehmende Beobachtung“ ([Rolling Stone](https://www.rollingstone.de/kevin-kuehnert-kolumne-markus-soeder-3068435/)); die jüngste auf seiner Autorenseite erschien am 27.01.2026 ([Autorenseite](https://www.rollingstone.de/author/kevin-kuehnert/), abgerufen 09.11.2026). Gestrichen sind dagegen die unbelegten Tabellenzeilen „Juso-Positionen zu Kapitalismuskritik“ und das Studio-Bonn-Panel als „2025“; es fand am 29.04.2026 statt.
+
+> [!warning] Korrigiert — Das taz-Interview handelt nicht von einem „Post-Politik-Burnout“ (09.11.2026)
+> Das Interview „Ich spreche Politik immer noch fließend“ führte Anna Lehmann, erschienen am 13.02.2026 ([taz](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)). Es geht um Finanzwende, die Erbschaftsteuer, die Familienunternehmen und seine Mitgliedschaft in der SPD; als Gründe für den Rückzug nennt er die Gesundheit und die Frage nach seiner Wirksamkeit. Das Wort Burnout fällt nicht.

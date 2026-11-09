@@ -31,7 +31,7 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern im Raum zwischen uns und ihm. Im Gespräch mit Gert Scobel, nach einer gemeinsamen Reise nach Kyoto, holt er das japanische *Mu* heran, um die Frage „Mensch oder Maschine?“ als falsch gestellt zu zeigen. Dazu kommt seine provokanteste These: KI kann nicht bloß kreativ sein, sie *ist* Kreativität. Und Europa sitzt gefesselt daneben.
+> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern im Raum zwischen uns und ihm. Im Gespräch mit Gert Scobel, nach einer gemeinsamen Reise nach Kyoto, holt er das japanische *Mu* heran, um die Frage „Mensch oder Maschine?“ als falsch gestellt zu zeigen. *Mu* (無) wird meist mit „Nichts“ übersetzt; Gabriel meint damit, dass nichts für sich besteht, sondern alles nur in Beziehung zu allem anderen. Dazu kommt seine provokanteste These: KI kann nicht bloß kreativ sein, sie *ist* Kreativität. Und Europa sitzt gefesselt daneben.
 
 Quelle: [Wir denken komplett falsch über KI – scobel im Gespräch: Mit Markus Gabriel](https://www.youtube.com/watch?v=Hxzfvz1zyos)
 

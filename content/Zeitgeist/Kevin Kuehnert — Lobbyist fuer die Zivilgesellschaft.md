@@ -34,7 +34,7 @@ aliases:
 Quelle: [Er war SPD Chef...😳 (MARCANT PODCAST)](https://www.youtube.com/watch?v=tuCmL7EIr2E)
 
 > [!info] Wer spricht?
-> **Kevin Kühnert** (*1989, Berlin*) — Ehemaliger SPD-Generalsekretär (2021–2024) und Juso-Vorsitzender. Zog sich 2024 nach Burnout und politischen Bedrohungen aus der aktiven Bundespolitik zurück; leitet seitdem bei der Bürgerbewegung *Finanzwende* den Bereich Steuern, Verteilung und Lobbyismus.
+> **Kevin Kühnert** (*1989, Berlin*) — Ehemaliger SPD-Generalsekretär (2021–2024) und Juso-Vorsitzender. Trat im Oktober 2024 als Generalsekretär zurück, mit Verweis auf seine Gesundheit, und kandidierte 2025 nicht mehr für den Bundestag; später nannte er auch Bedrohungen als einen der Gründe. Seit Dezember 2025 leitet er bei der Bürgerbewegung *Finanzwende* den Bereich Steuern, Verteilung und Lobbyismus.
 >
 > → [[DenkerVita/Kevin Kuehnert|DenkerVita]]
 
