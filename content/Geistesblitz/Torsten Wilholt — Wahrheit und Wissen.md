@@ -14,6 +14,7 @@ aliases:
   - Wilholt Erkenntnistheorie
   - Was ist Wissen
   - Vier Projekte der Erkenntnistheorie
+raetsel: "Auch eine stehengebliebene Uhr zeigt zweimal am Tag die richtige Zeit. Weiß sie deshalb, wie spät es ist?"
 stimme:
   - wer: "George Orwell"
     art: register
@@ -72,7 +73,7 @@ Wilholt misstraut dieser Lexikondefinition sofort selbst. Über die Grenzen mens
 
 ### Die Wahrheit allein reicht nicht — Tarotkarten und die Zahl 13
 
-[▶ 10:06](https://www.youtube.com/watch?v=2eZMhUVew0Q&t=606) — Auf die Frage, was Wissen ist, gibt es eine Antwort, die Platon zugeschrieben wird und lange als erledigt galt *(Faktencheck: vereinfacht)*: Wissen ist **gerechtfertigte wahre Meinung**. Eine Person P weiß, dass q, wenn drei Bedingungen erfüllt sind: P ist überzeugt, dass q; q ist wahr; und P ist in dieser Überzeugung gerechtfertigt.
+[▶ 10:06](https://www.youtube.com/watch?v=2eZMhUVew0Q&t=606) — Auf die Frage, was Wissen ist, gibt es eine Antwort, die Platon zugeschrieben wird und lange als erledigt galt *(im Theaitetos wird sie am Ende verworfen, und die „lange Herrschaft“ ist eher eine Legende → [[#Faktencheck|Faktencheck]])*: Wissen ist **gerechtfertigte wahre Meinung**. Eine Person P weiß, dass q, wenn drei Bedingungen erfüllt sind: P ist überzeugt, dass q; q ist wahr; und P ist in dieser Überzeugung gerechtfertigt.
 
 Die ersten beiden Bedingungen leuchten schnell ein. Wer nicht glaubt, dass Paris die Hauptstadt Frankreichs ist, weiß es auch nicht. Und niemand kann sagen, Petra *wisse*, dass Paris die Hauptstadt Belgiens ist, weil eine Wissenszuschreibung immer schon eine Wahrheitszuschreibung ist. Die dritte Bedingung erklärt Wilholt mit zwei Figuren. Petra glaubt, dass Paris die Hauptstadt Frankreichs ist, weil sie es in ihren Tarotkarten gelesen hat. Und ein Freund kündigt an, morgen werde im Lotto ganz bestimmt die 13 gezogen, er habe es aus den Maßen der ägyptischen Pyramiden errechnet. Die 13 kommt tatsächlich. [▶ 13:54](https://www.youtube.com/watch?v=2eZMhUVew0Q&t=834)
 

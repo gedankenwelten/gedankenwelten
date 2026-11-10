@@ -231,7 +231,7 @@ Schmitz/Maio zeigen die ethische Seite von Bückers Zeitthese: Sorge braucht Zei
 
 ### → [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 
-Kehnel zeigt historische Alternativen: Muße und zirkuläre Zeitkonzepte des Mittelalters als Kontrastfolie zur modernen Beschleunigungslogik. Bückers Zeitbanken in Italien (seit den 1980ern) entstammen direkt dieser Commons-Tradition: Zeit als gemeinsames Gut.
+Kehnel erinnert an Zeiten, in denen Arbeitsruhe gemeinsam geregelt war: rund 1.600 Arbeitsstunden im Jahr, viele Feiertage, Fastenrhythmen, die für alle galten. Bückers Zeitbanken in Italien (seit den 1980ern) sind eine heutige Form, Zeit als gemeinsames Gut zu behandeln.
 
 ### → [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]]
 

@@ -3,6 +3,12 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Alexander Bogner
+**Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Bogner]]
+
+## Annette Kehnel
+**Status:** ✓ Vollanalyse — [[DenkerVita/Annette Kehnel]]
+
 ## Wolfgang Niess
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Niess]]
 

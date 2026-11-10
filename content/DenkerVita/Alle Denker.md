@@ -92,6 +92,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]** — Lutherischer Theologe und Widerstandskämpfer (1906–1945), hingerichtet in Flossenbürg; Dummheit als sozialer Zustand unter Macht („Befreiung, nicht Belehrung“), billige vs. teure Gnade, Verantwortung als Schuldübernahme, religionsloses Christentum — und eine Legende, die ihn ständig zur Ikone rundet
 
+**[[DenkerVita/Alexander Bogner|Alexander Bogner]]** — Soziologe (ITA/ÖAW Wien), deutet Wissenschaftsskepsis als Folge der „Epistemisierung des Politischen“: Wo politische Konflikte zu Wissenskonflikten werden, schaukeln sich Szientismus und epistemischer Populismus gegenseitig auf.
+
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
 
 **[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
@@ -363,6 +365,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]]** — Neurobiologe & Mathematiker, seit 2022 Direktor des Instituts für Grenzgebiete der Psychologie und Psychohygiene (IGPP) Freiburg, Privatdozent Uni Freiburg; Necker-Würfel und bistabile Wahrnehmung im EEG, Wahrnehmung als Konstruktion, mehrdeutige Reize als Labormodell für außergewöhnliche Erfahrungen, Geist-Materie-Problem
 
 ## K
+
+**[[DenkerVita/Annette Kehnel|Annette Kehnel]]** — Historikerin, Lehrstuhl für Mittelalterliche Geschichte an der Uni Mannheim (seit 2005); *Wir konnten auch anders* (2021, NDR Sachbuchpreis), *Die sieben Todsünden* (2024), *Der Phoenix-Effekt* (2026); liest im Mittelalter Commons, Kleinkredit und Maß als Wissen für die Gegenwart: Geschichte schult den Möglichkeitssinn
 
 **[[DenkerVita/Nina Kolleck|Nina Kolleck]]** — Bildungsforscherin und Politikwissenschaftlerin, Professorin für Erziehungs- und Sozialisationstheorie an der Uni Potsdam (vorher FU Berlin, Leipzig), seit 2026 im Bundesjugendkuratorium; *Der Kampf in den Köpfen* (2026): soziale Medien als neue Sozialisationsinstanz; deutet die Gen-Z-Proteste über Ungleichheit und rät zu Bürgerräten mit Jugendlichen
 

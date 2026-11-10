@@ -22,21 +22,35 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Denker
+### Zeitgeist
 
-> **09.11.** — [[Denker/Götz Aly — Wie konnte das geschehen|Götz Aly — Wie konnte das geschehen?]]
+> **10.11.** — [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 >
-> Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
+> Für die Historikerin Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die ihren See schonten. Geschichte schult den Möglichkeitssinn.
 
-> **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
+> **08.11.** — [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 >
-> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
+> Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt.
 
-> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+> **07.11.** — [[Zeitgeist/Al Jazeera — Stephen Millers Krieg|Al Jazeera — Stephen Millers Krieg]]
 >
-> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
+> Ein Mann ohne Wahlamt lenkt Amerikas Einwanderungsvollzug, und als Menschen sterben, gehen andere. Fault Lines verfolgt Stephen Millers Weg; fünf Monate später macht Trump ihn zum Stabschef.
+
+> **07.11.** — [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
+>
+> Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
+
+> **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
+>
+> Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
+
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
+
+> **10.11.** — [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+>
+> Der Zweifel an der Wissenschaft wächst mit ihrer Macht. Wer Wertkonflikte als Faktenfragen austrägt, macht sie zum Schlachtfeld und den Gegner zum Feind der Vernunft.
 
 > **09.11.** — [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
 >
@@ -54,11 +68,21 @@ Die Gedankenwelten (luc)
 >
 > Ein Mann lässt sich 1940 verhaften, um in Auschwitz einen Widerstand zu bauen. Er sucht seine Leute danach aus, ob sie teilen. Und er bittet die Welt, das Lager zu bombardieren.
 
-> **07.11.** — [[Geistesblitz/Michael Fleming — Was die Alliierten wussten|Michael Fleming — Was die Alliierten wussten]]
->
-> Die Nachrichten über den Mord an den Juden kamen an, Monat für Monat, per Kurier und Funk. Was fehlte, war eine Antwort. Ein Historiker zeigt, wie man Wissen leise macht, ohne es zu verbieten.
+> → *7 weitere in* [[Geistesblitz]]
 
-> → *6 weitere in* [[Geistesblitz]]
+### Denker
+
+> **09.11.** — [[Denker/Götz Aly — Wie konnte das geschehen|Götz Aly — Wie konnte das geschehen?]]
+>
+> Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
+
+> **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
+>
+> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
+
+> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+>
+> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
 
 ### Panorama
 
@@ -82,7 +106,7 @@ Die Gedankenwelten (luc)
 >
 > Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
 
-> → *13 weitere in* [[Panorama]]
+> → *12 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -107,30 +131,6 @@ Die Gedankenwelten (luc)
 > Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?
 
 > → *6 weitere in* [[Spuren]]
-
-### Zeitgeist
-
-> **08.11.** — [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
->
-> Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt.
-
-> **07.11.** — [[Zeitgeist/Al Jazeera — Stephen Millers Krieg|Al Jazeera — Stephen Millers Krieg]]
->
-> Ein Mann ohne Wahlamt lenkt Amerikas Einwanderungsvollzug, und als Menschen sterben, gehen andere. Fault Lines verfolgt Stephen Millers Weg; fünf Monate später macht Trump ihn zum Stabschef.
-
-> **07.11.** — [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
->
-> Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
-
-> **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
->
-> Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
-
-> **06.11.** — [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
->
-> Eine Namensgleichheit genügt: NIUS rückt eine Unbeteiligte in den Verdacht, in einen Sechsfachmord verwickelt zu sein, die Meute jagt sie, und die Korrektur ist ein Absatz am Artikelende.
-
-> → *8 weitere in* [[Zeitgeist]]
 
 ### Kultur
 

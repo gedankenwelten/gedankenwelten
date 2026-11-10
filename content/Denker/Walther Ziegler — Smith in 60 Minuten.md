@@ -204,7 +204,7 @@ Smiths rationales Eigeninteresse wird bei Fromm zum pathologischen Haben-Modus. 
 
 ### → [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 
-Historisches Gegenmodell: Commons-Selbstverwaltung erreichte 500 Jahre Nachhaltigkeit ohne Privateigentum und ohne unsichtbare Hand
+Historisches Gegenmodell: Die Bodenseefischer gaben sich in ihren Zünften jedes Jahr selbst Regeln und hielten den See über Jahrhunderte fischreich, ohne dass ihn einer allein besaß
 
 ### → [[Clara Mattei — Geschichte der Austeritaetspolitik]]
 

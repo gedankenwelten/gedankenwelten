@@ -44,7 +44,7 @@ Das ist keine romantische Utopie. Es ist ein Unternehmensmodell mit Rechtsform, 
 
 Das ist das Gegenbild zu Garrett Hardins berühmter "Tragödie der Allmende" (1968): der These, gemeinsame Ressourcen würden zwangsläufig übernutzt, weil jeder Einzelne einen Anreiz zur Übernutzung hat. **Elinor Ostrom** widerlegte diese These mit empirischer Forschung über Jahrhunderte — und erhielt 2009 den Wirtschaftsnobelpreis dafür. Die Tragödie der Allmende ist kein Naturgesetz. Unter richtigen institutionellen Bedingungen verwalten Gemeinschaften ihre Ressourcen nachhaltiger als Märkte oder Staaten es je könnten.
 
-Die mittelalterlichen Zünfte und Gilden waren nichts anderes: demokratisch verfasste Wirtschaftseinheiten mit kollektiver Verantwortung. Kehnel zeigt, dass das "finstere Mittelalter" eine Erfindung des 18./19. Jahrhunderts war — eine Abwertung, die wir uns heute nicht mehr leisten können.
+Für dieses Panorama liegt darin ein Vorläufer: Zünfte und Nutzungsgemeinschaften, die sich ihre Regeln selbst gaben. Kehnel zeigt, dass das "finstere Mittelalter" eine Erfindung des 18./19. Jahrhunderts war — eine Abwertung, die wir uns heute nicht mehr leisten können.
 
 Den entscheidenden modernen Schritt machte **Friedrich Wilhelm Raiffeisen** im 19. Jahrhundert: Er gründete die ersten Genossenschaften als Gegenmittel zur Ausbeutung durch Großkapital. Bauern, die sich nicht gegen Wucherer behaupten konnten, schlossen sich zusammen. Daraus entstanden die Volksbanken und Raiffeisenbanken — heute noch Genossenschaften, heute noch mit demokratischen Strukturen, heute noch stabiler als die meisten Privatbanken.
 
@@ -180,7 +180,7 @@ Detaillierte Mondragón-Analyse mit allen Zahlen — Erfolge, Grenzen, Fagor-Ins
 Die direkteste Verbindung — Energiegenossenschaften als gelebte demokratische Wertschöpfung.
 
 ### → [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
-Commons und Gilden als historische Vorläufer. Bodensee-Modell als empirischer Beweis gegen die "Tragödie der Allmende".
+Commons und Gilden als historische Vorläufer. Das Bodensee-Modell als historisches Gegenbeispiel zur "Tragödie der Allmende".
 
 ### → [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
 BIP ≠ Wohlstand. Wirtschaftsnarrative als politische Konstrukte. Wohlstand neu messen heißt, die Genossenschaft neu sehen.

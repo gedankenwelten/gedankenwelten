@@ -350,7 +350,7 @@ Mishra nennt den Fortschritt die „unschlagbare Ersatzreligion", die keinen Zwe
 
 ### → [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 
-Kehnel beweist Reckwitz' Anomalie-These von der anderen Seite. Das „finstere Mittelalter" wurde im 18. und 19. Jahrhundert erfunden, weil eine Epoche, die sich als Gipfel las, eine dunkle Vorzeit brauchte: Der Fortschrittsglaube schuf sich seine eigene Kontrastfolie, Self-fulfilling Prophecy also auch rückwärts. Und wo Reckwitz beim Diagnostischen bleibt, zeigt sie die vormodernen Praktiken — Commons, Kleinkredit, konsensuale Herrschaft —, an denen sein eigenes Praxis-Argument ansetzen könnte.
+Kehnel stützt Reckwitz' Anomalie-These von der anderen Seite. Das „finstere Mittelalter" entstand nach ihr im 19. und späten 18. Jahrhundert, weil eine Epoche, die sich als Gipfel las, eine dunkle Vorzeit brauchte: Der Fortschrittsglaube schuf sich seine eigene Kontrastfolie, Self-fulfilling Prophecy also auch rückwärts. Und wo Reckwitz beim Diagnostischen bleibt, nennt sie vormoderne Praktiken — Commons, konsensuale Herrschaft, gemeinsame Fastenrhythmen —, an denen sein eigenes Praxis-Argument ansetzen könnte.
 
 ### → [[Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
 
