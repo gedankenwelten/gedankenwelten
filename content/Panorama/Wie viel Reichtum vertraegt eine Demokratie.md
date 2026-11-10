@@ -2,7 +2,7 @@
 title: "Wie viel Reichtum verträgt eine Demokratie?"
 date: 2026-10-23
 erstellt: 2026-10-23
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-10
 description: "Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben."
 raetsel: "Ein Münzstapel wächst auch, während sein Besitzer schläft."
 panorama-art: wachsend
@@ -155,6 +155,8 @@ Andere Eigentumsformen gibt es längst. In Dänemark kontrollieren Industriestif
 Mitbestimmung hat in Deutschland weder Löhne noch Beschäftigung messbar verändert, eher die Investitionen erhöht ([Jäger, Schoefer & Heining 2021](https://doi.org/10.1093/qje/qjaa038); [Jäger, Noy & Schoefer 2022](https://doi.org/10.1177/00197939211065727)). Mitarbeiterbeteiligung hängt schwach positiv mit der Leistung zusammen ([O'Boyle, Patel & Gonzalez-Mulé 2016](https://doi.org/10.1111/1748-8583.12115), Meta-Analyse). Produktivgenossenschaften zahlen in Italien weniger, halten aber die Arbeitsplätze stabiler ([Pencavel, Pistaferri & Schivardi 2006](https://doi.org/10.1177/001979390606000102)). Und dass eine Apotheke nur Apothekern gehören darf, hat der Europäische Gerichtshof 2009 bestätigt ([EuGH, C-171/07](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62007CJ0171)). Wem der Boden gehört, steht unter [[Schoener Wohnen#Wem gehört der Boden?|Schöner Wohnen]].
 
 
+Eine dritte Form neben privat und staatlich ist das Gemeingut, das eine Gruppe selbst verwaltet. Elinor Ostroms Prinzipien dafür, von klaren Grenzen über die Mitsprache der Nutzer bis zu abgestuften Strafen, sind gut gestützt ([Cox, Arnold & Villamayor-Tomás 2010](https://doi.org/10.5751/es-03704-150438), Übersichtsarbeit über 91 Studien). Sie versagen aber oft, wenn sich die Lage schnell ändert ([Dietz, Ostrom & Stern 2003](https://doi.org/10.1126/science.1091015), Übersichtsartikel). Der Bodensee zeigt beides: Aus den Absprachen der Fischer wurde 1893 ein Staatsvertrag, der bis heute gilt ([IBKF](https://ibkf.org/bregenzer-uebereinkunft/)). Und doch musste die Felchenfischerei 2024 schließen, weil man sich lange auf Maschenweiten statt auf Bestandsschätzungen verlassen hatte und eingewanderte Arten das Ökosystem kippten ([Haase u. a. 2025](https://doi.org/10.1139/cjfas-2024-0370), Bestandsmodell).
+
 Eine Eigentumsform wächst seit 2008 schneller als jede andere: das treuhänderisch verwaltete Eigentum der großen Fondsgesellschaften. BlackRock, Vanguard und State Street sind zusammen bei 88 % der S&P-500-Firmen der größte Aktionär ([Fichtner u. a. 2017](https://doi.org/10.1017/bap.2017.6), Einzelstudie), BlackRock allein verwaltete Ende September 2026 15,5 Billionen Dollar ([BlackRock, Oktober 2026](https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_2.htm)). Es gehört Millionen Sparern und wird doch von wenigen Häusern verwaltet und abgestimmt.
 **Die Stimmen**
 
@@ -167,12 +169,14 @@ Eine Eigentumsform wächst seit 2008 schneller als jede andere: das treuhänderi
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Erben, Picasso und die reichsten Familien|Veronika Grimm]]:** Sie interessiert, *„wofür Kapital in Deutschland eingesetzt wird“*, nicht, wem es gehört.
 - **[[ARTE Re — Wenn Arbeiter Chefs werden#Sitek — die andere Hälfte der Wahrheit|ARTE Re]]:** Die Belegschaft von Sitek will ihre Fabrik als Genossenschaft retten und scheitert an 5,7 Millionen Euro.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (7)</summary>
 
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Ahlen oder Erhard?|Isabella Weber]]:** Ahlen 1947 und die Freiburger Ordoliberalen zogen dieselbe Lehre, wirtschaftliche Macht gefährdet die Freiheit, und stritten, wer sie brechen soll.
 - **[[Demokratische Wertschoepfung#Mondragón — Der Beweis im großen Maßstab|Demokratische Wertschöpfung]]:** Mondragón, 70.000 Beschäftigte, und die ehrliche Bilanz mit Fagors Pleite.
 - **[[Tilo Jung — Erben Wirtschaft AfD-Strategie#Vertiefung Wirtschaftsdemokratie — Wem gehören die Produktionsmittel?|Tilo Jung]]:** Wer hat ein Recht auf den erwirtschafteten Mehrwert?
 - **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Wohnen Ware oder Grundrecht?|Kevin Kühnert]]:** Wohnen als Ware oder Grundrecht.
+- **[[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Ein See, den niemand besaß|Annette Kehnel]]:** Die Bodenseefischer gaben sich jedes Jahr selbst ihre Regeln; Atmosphäre, Grundwasser und Ozeane lassen sich nicht privatisieren, die Institutionen für gemeinsame Nutzung gebe es, man müsse sie aktivieren.
+- **[[Geistesblitz/Fediverse - Die digitale Allmende#Das Kollektivgut-Problem — warum offene Netze von Geburt an instabil sind|Marco Wähner]]:** Alle profitieren, wenige tragen; offene Netze seien darum von Geburt an instabil, und ihre soziale Ordnung lasse sich nicht technisch lösen.
 - **[[Tom Ockers — Schattenmacht BlackRock#Das Geld anderer Leute|Larry Fink]]:** *„Ich steuere die doch nicht. Die ganze Welt steuert die Märkte."* Der größte Vermögensverwalter besitzt nichts von dem, was er verwaltet, und sitzt doch überall mit am Tisch.
 
 </details>
@@ -219,6 +223,7 @@ Die Philosophie trennt Neid, der haben will, was der andere hat, von Groll über
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Gehen die Reichen, wenn man sie besteuert?\|Nachtsitzung — TheTrumpWeek]] | Abwanderung bei der Einkommensteuer: Millionäre (Young et al. 2016), Kalifornien Prop 30 (Rauh & Shyu 2024), Milliardäre (Moretti & Wilson 2023), Superstars (Kleven et al. 2013, Akcigit et al. 2016, Review Kleven et al. 2020), Streit um Prop 40 (Boll/Saez/Zucman vs. Jaros/Rauh 2026), Thiel |
 | 28.10.2026 | [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Nachbesprechung|Martin Oetting — Die Erbschaftsteuer, Reiche und das ZDF]] | *Was darf man erben?*: Reformkonsens Stundung statt Verschonung (BMF-Beirat 2012, SVR 2025/26, DIW 4/2026, ifo, SPD 2026), Pacte Dutreil (Cour des comptes 2025), Schweden (Henrekson & Waldenström 2016), Schweizer Abstimmung 2025, faire Sätze (Groß et al. 2017); Stimmen Oetting, Reiche, Klose · neue Frage *Ist Neid ein Argument?*: Sznycer et al. 2017, Lin & Bates 2020, Neerdaels et al. 2026, Bellani et al. 2024, SEP „Envy“, Rawls, Duden; Stimmen Reiche, Oetting, Göpel, Gottschalk, Hartmann, Heinrich, Mishra, Tiana Travels, Bleisch |
 | 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Was seither geschah: 15,5 Billionen, GIP/Preqin/HPS, ESG-Gegenwind, Voting Choice (ein Viertel genutzt), Deutsche Wohnen |
+| 10.11.2026 | [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Wann hält eine Allmende?\|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] | Wem gehört was? Das Gemeingut als dritte Form: Ostroms Prinzipien (Cox u. a. 2010) und ihre Grenzen bei schnellem Wandel (Dietz, Ostrom & Stern 2003), der Bodensee vom Staatsvertrag 1893 bis zum Fangverbot 2024 (Haase u. a. 2025) |
 
 ---
 

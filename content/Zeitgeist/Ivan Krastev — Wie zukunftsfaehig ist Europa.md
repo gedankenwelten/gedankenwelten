@@ -246,6 +246,10 @@ Krastev dreht das um: Wenn er gute Laune hat, liest er Romane. Wenn er schlechte
 ## Verbindungen
 
 
+### → [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Ein See, den niemand besaß|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
+
+Dasselbe Bild in derselben Sendereihe: Krastev gibt Trump den Zeithorizont eines toten Fuchses, Kehnel stellt ihm die Bodenseefischer gegenüber, die für zwanzig, dreißig, vierzig Jahre planten. Ihr Fegefeuer, das die Sterbenden an die Nachkommen band, ist eine mittelalterliche Form des generationenübergreifenden Vertrags, dessen Verlust Krastev beklagt.
+
 ### → [[Pankaj Mishra — Zeitalter des Zorns]]
 
 Denselben Mechanismus liest Mishra ideengeschichtlich: Krastevs Imitationskrise ist die geopolitische Fassung der mimetischen Rivalität — der Nachahmungszwang produziert die Demütigung, deren Ressentiment sich gegen die Demokratie kehrt.

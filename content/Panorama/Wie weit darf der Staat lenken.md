@@ -2,7 +2,7 @@
 title: "Wie weit darf der Staat lenken?"
 date: 2026-11-07
 erstellt: 2026-11-07
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-10
 description: "Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?"
 raetsel: "Der Weg war frei. Nur das Gefälle hatte jemand gebaut."
 panorama-art: wachsend
@@ -100,6 +100,8 @@ Der Befund ist damit zweiteilig. Die Verdrängung tritt auf, wo der kleine Schri
 
 Die Zustimmung zu Lenkung ist gut vermessen, und sie folgt einem Muster. In einer repräsentativen Befragung in sechs EU-Ländern fanden in Deutschland eine Aufklärungskampagne für Eltern 90 Prozent Zustimmung, Kalorienangaben 84, eine Lebensmittelampel 79, eine süßigkeitenfreie Kasse 69 und ein fleischfreier Kantinentag 55 Prozent; eine automatische Spende, die man abwählen müsste, nur 23 Prozent ([Reisch & Sunstein 2016](https://doi.org/10.1017/s1930297500003740), repräsentative Befragung). Parteibindung erklärte die Antworten kaum.
 
+Wie weit eine Zustimmung in Befragungen trägt, zeigt der Veggie-Day. 2013 schrieben die Grünen in ihr Wahlprogramm, ein „Veggie Day“ solle in öffentlichen Kantinen zum Standard werden; die *Bild* titelte, die Grünen wollten uns das Fleisch verbieten, und die Partei zählte das später zu den wichtigen Gründen für ihr schwaches Abschneiden ([Linz, Institut für Welternährung](https://institut-fuer-welternaehrung.org/wp-content/uploads/2018/01/Manfred-Linz_Der-Veggie-Day-der-Gru%CC%88nen.pdf), Essay). Frankreich führte 2019 in allen Schulkantinen ein wöchentliches vegetarisches Menü ein ([Agrarministerium](https://agriculture.gouv.fr/restauration-scolaire-tout-savoir-sur-le-menu-vegetarien-hebdomadaire)), das Klimagesetz von 2021 machte es dauerhaft. In Deutschland empfiehlt der DGE-Standard für das Schulessen still sogar mehr, höchstens einmal Fleisch oder Wurst in fünf Tagen ([DGE-Qualitätsstandard Schule](https://www.dge.de/fileadmin/dok/gemeinschaftsgastronomie/dge-qualitaetsstandards/DGE_Qualitaetsstandard_Schule.pdf)). An der Theke wirkt ein größeres vegetarisches Angebot deutlich ([Garnett u. a. 2019](https://doi.org/10.1073/pnas.1907207116), Feldstudie). Ob es die Ernährung über den Tag hinaus ändert, ist offen; eine Meta-Analyse findet dafür nur einen sehr kleinen Effekt ([Green, Smith & Mathur 2025](https://doi.org/10.1016/j.appet.2025.108233), Meta-Analyse).
+
 Das Dilemma dahinter benennt ein systematisches Review über 200 Studien: Am meisten Zustimmung finden die Maßnahmen, die am wenigsten eingreifen, „which are often the least effective“, dazu solche, die schon gelten, solche für Kinder und solche, die das Verhalten anderer betreffen ([Diepeveen u. a. 2013](https://doi.org/10.1186/1471-2458-13-756), systematisches Review). Wer erfährt, dass eine Maßnahme wirkt, stimmt ihr nur wenig häufiger zu ([Reynolds u. a. 2019](https://doi.org/10.1016/j.socscimed.2019.112395), Umfrage-Experiment). Und es kommt auf den Absender an: Voreinstellungen wirken bedrohlicher für die Freiheit als Empfehlungen, aber weniger als Pflichten, und kommt der Hinweis von Fachleuten, sinkt der Ärger, kommt er aus der Politik, nicht ([Bruns & Perino 2023](https://doi.org/10.1016/j.socec.2023.102047), Experiment).
 
 Für die deutsche Zuckerabgabe hängt die Mehrheit an der Frage. Forsa fand im August 2026 55 Prozent für eine „Sonderabgabe auf zuckerhaltige Getränke“, unter Unionsanhängern 76 Prozent, bei den Grünen 87 ([n-tv, 01.09.2026](https://www.n-tv.de/politik/Mehrheit-der-Deutschen-fuer-Zuckersteuer-besonders-hohe-Zustimmung-bei-Gruenen-id31253572.html)). YouGov fand im selben Monat, mit Mehrfachantworten, 43 Prozent dafür und 44 Prozent, die grundsätzlich keine neue Steuer wollen ([Thieme, 28.08.2026](https://praxis.thieme.de/news/zuckersteuer-softdrinks-umfrage-deutschland-gespalten/)). Ein halbes Jahr zuvor hatte der CDU-Parteitag eine Herstellerabgabe abgelehnt.
@@ -108,6 +110,7 @@ Für die deutsche Zuckerabgabe hängt die Mehrheit an der Frage. Forsa fand im A
 
 - **[[Zeitgeist/Philipp Blom — Die strauchelnde Welt#Gewöhnen sich Menschen an das Verordnete?|Philipp Blom]]:** Erst das Geschrei, dann die Gewöhnung, dann will niemand zurück; die Nachbesprechung dort zeigt, unter welchen Bedingungen das gilt.
 - **[[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Planvoll, gemeinsam, schrittweise|Maja Göpel]]:** Etwa siebzig Prozent tun mehr, wenn sie wissen, dass die anderen mitmachen, und hören auf, sobald sich einige freikaufen.
+- **[[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Völlerei und der gemeinsame Rhythmus|Annette Kehnel]]:** Bis zur Reformation hatte Europa in manchen Gegenden bis zu 130 fleischlose Tage im Jahr, und im Kollektiv fällt der Verzicht leichter; wer Veggie-Days fürchtet, verstoße gegen keine alte europäische Tradition.
 - **[[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Planvoll, gemeinsam, schrittweise|Achim Truger]]:** Das Heizungsgesetz scheiterte, weil die soziale Komponente fehlte; es muss im Erleben gerecht zugehen.
 - **[[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN#Co-Benefits und die laute Minderheit — Akzeptanz neu gedacht|Andreas Löschel]]:** Die Mehrheit ist dafür und hält die anderen für dagegen; es bremst die laute Minderheit, nicht der Zweifel.
 - **[[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#„Ich entscheide selbst“|Christina Stumpp]]** (bei Scobel): Die Zuckersteuer sei *„grüne Bevormundungspolitik“*.
@@ -148,6 +151,7 @@ Und Schutz kann die treffen, die er schützen soll. Die Corona-Jahre sind dafür
 | Datum | Note | vertieft |
 |---|---|---|
 | 07.11.2026 | [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#Wie weit darf der Staat lenken?\|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]] | Gründungsnote: Kritik am libertären Paternalismus (Sugden, Grüne-Yanoff, Schmidt & Engelen), Akzeptanz (Reisch & Sunstein, Diepeveen, Forsa und YouGov 2026), Verdrängung oder Übertragung (Werfel, Maki, Ghasemi) |
+| 10.11.2026 | [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Hilft ein gemeinsamer Verzicht?\|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] | Was trägt die Mehrheit mit? Der Veggie-Day 2013 als Prüfstein, Frankreichs Pflichtmenü seit 2019, der DGE-Standard, Wirkung an der Theke (Garnett 2019) und darüber hinaus (Green, Smith & Mathur 2025) |
 
 ---
 

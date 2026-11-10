@@ -34,6 +34,11 @@ baust du danach selbst mit `/gedankenwelt`.
 Heutiges Datum nehmen (`date +%d.%m.%Y`) und per **Websuche** herausfinden, welche besonderen Tage
 heute liegen. Keine eigene gepflegte Liste — jedes Mal frisch suchen.
 
+> [!tip] Am besten am Vortag (seit 10.11.2026)
+> Läuft Kairos am Vortag, steht die Tagesnote am Morgen und die Karte „Der Tag“ (Schritt 6) ab
+> Mitternacht auf der Startseite, nicht erst am Nachmittag. Dann gilt alles hier für **morgen**:
+> morgiges Datum suchen, „heute“ im Folgenden als „der Tag“ lesen.
+
 ```
 WebSearch: "<Tag>. <Monat> international day observance welttag aktionstag"
 ```
@@ -147,10 +152,11 @@ passen? (RAG-Query auf `query-gedankenwelten` mit dem Tages-Thema und/oder `Geda
 Beispiel: Zum Geburtstag des Dalai Lama passen die Goenka- und die Ricard-Note.
 
 - **1–3 Bestands-Notes** als eigenen Block im Report vorschlagen, je mit einem Satz *warum sie zum Tag passt*.
-- **Was bei Zuschlag passiert:** Nur das `aktualisiert:`-Frontmatter der Note auf **heute** setzen —
-  so floatet sie im Startseiten-Journal von gedankenwelten.org wieder hoch. Das ist eine bewusste,
-  von Andreas gewollte Ausnahme von der „nie bei reinem Cross-Linking bumpen"-Regel: Der Tag *ist*
-  der Anlass des Resurfacing. Danach normal committen + syncen (das Journal baut sich beim Sync neu).
+- **Was bei Zuschlag passiert (seit 10.11.2026):** Die Note kommt **auf die Karte „Der Tag“**
+  (Schritt 6). Dort steht sie ganz oben, mit dem Tag als Begründung, und ihr `aktualisiert:` bleibt
+  ehrlich. Vorher wurde sie gebumpt, damit sie im Journal hochfloatet; das war eine bewusste Ausnahme
+  von der „nie bei reinem Cross-Linking bumpen“-Regel. Bumpen nur noch, wenn Andreas es für eine Note
+  ausdrücklich will.
 - **Kein Zusatz in der Note selbst:** Bestands-Notes bekommen **keinen** Anlass-Callout, **keinen**
   `kalender`-Tag und keine Texterwähnung des Tages — der Tag gilt nur für dieses eine Jahr, die Note
   ist zeitlos.
@@ -180,6 +186,27 @@ Liegt heute kein Gedankenwelten-relevanter Tag, das ehrlich sagen:
 Kein Zwang — wir können trotzdem frei aus den Playlisten wählen, wenn du magst.
 ```
 
+### Schritt 6 — Die Karte „Der Tag“ auf der Startseite (seit 10.11.2026)
+
+Trägt der Tag, bekommt er auf gedankenwelten.org eine Karte über allen Spalten, ganz oben im Feld:
+ein paar Sätze zum Tag, darunter die Tagesnote groß und die Bestands-Notes klein. Quelle ist
+**`Gedankenwelten/Der-Tag.md`** (Format und Anleitung oben in der Datei). Die Seite rendert gestern,
+heute und morgen, der Kalendertag des Lesers wählt. Ein Eintrag vom Vortag steht also ab Mitternacht.
+
+- **Nur mit Andreas' Ja**, wie die Wahl des Videos. Nicht jeder Tag trägt: ohne Eintrag keine Karte,
+  und ein leerer Platz ist besser als ein dünner.
+- **Text:** die Tag-Erzählung aus Schritt 2, verdichtet auf drei, vier Sätze (was · woher · wozu),
+  dazu gern ein Satz, der die Notes verbindet. Was dort steht, ist **nachgeschlagen**, wie in der Note
+  (Stifter, Jahr, Motto). Was sich nicht findet, fällt weg. Personen mit Rolle einführen, die Rolle aus
+  der Vita.
+- **Notes:** zuerst die Tagesnote, dann bis zu drei aus dem Bestand (Schritt 4b). Eine Karte nur aus
+  Bestands-Notes geht auch, wenn der Tag trägt, aber kein neues Video. Optional `— Satz` hinter dem
+  Link, sonst zeigt die Karte die `description`.
+- **Neuer Abschnitt oben**, alte bleiben als Chronik stehen.
+- **Online:** `sync-from-cortex.sh` kopiert die Datei mit. Hat eine andere Session gerade
+  unfertige Notes im Arbeitsbaum, reicht der schmale Weg: `cp` nach `~/Gedankenwelten/content/`,
+  dort committen und pushen, dann `gwship`.
+
 ---
 
 ## Abschluss-Report
@@ -203,14 +230,19 @@ Kein Zwang — wir können trotzdem frei aus den Playlisten wählen, wenn du mag
 
 📚 Aus dem Bestand (passt zum Tag, Schritt 4b):
    - [[<Note>]] — <warum sie zum Tag passt>
-   [max. 3; bei Zuschlag nur aktualisiert: bumpen — kein Callout, kein kalender-Tag]
+   [max. 3; bei Zuschlag auf die Karte — kein Bump, kein Callout, kein kalender-Tag]
+
+🗓️ Karte „Der Tag“ (Schritt 6):
+   <Name des Tages> · <3–4 Sätze> · Notes: <Tagesnote>, <Bestand…>
+   [oder: „trägt keine Karte“, mit einem Satz warum]
 
 📝 Tag-Erzählung (für die Note):
    <der volle Textbaustein aus Schritt 2>
 
 → Wenn dir ein Video zusagt: starte /gedankenwelt mit dem Link.
   Die Tag-Erzählung kommt als Aufmacher-Kontext in die Note.
-→ Wenn dir Bestands-Notes zusagen: sag welche — sie werden nur gebumpt.
+→ Wenn dir Bestands-Notes zusagen: sag welche — sie kommen auf die Karte.
+→ Karte ja/nein: dein Wort; bei Ja trage ich sie in Der-Tag.md ein.
 ```
 
 Kairos **erstellt keine Note** und ruft `/gedankenwelt` **nicht** selbst auf — er legt vor, du wählst.
