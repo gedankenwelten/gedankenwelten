@@ -2,7 +2,7 @@
 title: "Was kann das Völkerrecht?"
 date: 2026-10-05
 erstellt: 2026-10-05
-aktualisiert: 2026-10-24
+aktualisiert: 2026-11-10
 description: "Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?"
 raetsel: "Der Platz ist leer. Die Waage steht. Nur die Schatten bewegen sich."
 panorama-art: wachsend
@@ -100,6 +100,8 @@ Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staat
 
 Was Friedenstruppen leisten, ist dagegen gut untersucht, und der Befund ist deutlicher als beim Gericht. Eine Übersicht über zwei Jahrzehnte Forschung spricht von einer „außergewöhnlichen Beziehung“ zwischen Peacekeeping und Frieden ([Walter, Howard & Fortna 2021](https://doi.org/10.1017/s000712342000023x)); es kommt auf bewaffnete Soldaten an, nicht auf Beobachter ([Hultman, Kathman & Shannon 2014](https://doi.org/10.1017/s0003055414000446)), und Waffenstillstände zwischen Staaten halten länger mit Pufferzonen und Garantien Dritter ([Fortna 2003](https://doi.org/10.1017/s0020818303572046)). Wo Blauhelme selbst Krieg führen, verlieren sie allerdings an Wirkung ([Howard 2019](https://doi.org/10.1017/9781108557689)), und fast alle Daten stammen aus Bürgerkriegen. Dass Kriege zwischen Staaten seit 1950 kaum noch mit Verträgen enden, führt Tanisha Fazal auf das Recht selbst zurück: Wer unterschreibt, gibt zu, Krieg geführt zu haben ([Fazal 2013](https://doi.org/10.1017/s0020818313000246)).
 
+Im Cyberraum fehlt sogar die Schwelle, an der Durchsetzung ansetzen könnte. Dass Völkerrecht und Charta dort gelten, steht seit dem UN-Expertenbericht von 2013 fest ([UN-Dok. A/68/98](https://documents.un.org/api/symbol/access?s=A/68/98&l=en&t=pdf)). Wo eine Sabotage aber zur verbotenen Gewalt oder zum bewaffneten Angriff wird, legt jeder Staat selbst aus: Großbritannien kennt unterhalb der Einmischung kein Verbot, Frankreich sieht in jedem zurechenbaren Angriff auf seinem Boden eine Souveränitätsverletzung, und ob Staaten dem Tallinn-Handbuch folgen, ist offen ([Efrony & Shany 2018](https://doi.org/10.1017/ajil.2018.86), Fallstudien zur Staatenpraxis). Als Iran im Oktober 2026 nach französischer Zuschreibung die Kühlung in über 700 Supermärkten sabotierte, antwortete Paris mit Haftbefehlen und EU-Sanktionen, ohne den Fall völkerrechtlich einzuordnen ([[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Wo wird Sabotage zum Angriff?|Nachbesprechung]]).
+
 **Die Stimmen**
 
 - **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Fiktion oder Recht Carney und der Sicherheitsrat|Christoph Safferling]]:** Großbritannien und Frankreich sollen ihre Sitze für einen EU-Sitz räumen, und die Generalversammlung soll schon handeln, wenn ein Veto blockiert.
@@ -111,7 +113,9 @@ Was Friedenstruppen leisten, ist dagegen gut untersucht, und der Befund ist deut
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Mithu Sanyal]]:** Mehr Recht statt mehr Militär: zurück zum Völkerrecht und dasselbe Verhalten bei Verbündeten verurteilen wie bei Gegnern.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Maja Göpel]]:** Wenn eine Großmacht die Institutionen bewusst zerstört, zuletzt den Strafgerichtshof, bleibt die Frage „Wie setzen wir es durch?“ — und dafür sei die eigene Stärke nicht irrelevant.
 
-<details><summary>Weitere Stimmen (6)</summary>
+<details><summary>Weitere Stimmen (7)</summary>
+
+- **[[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Gibt es den Cyberkrieg?|Kerstin Zettl-Schabath]]:** Dass das Völkerrecht online gilt, war 2013 ein Durchbruch; offen bleibt, welcher Angriff den Bündnisfall auslöst, und schon das Wort Cyberkrieg hält sie für fragwürdig.
 
 - **[[Joern Leonhard — Wie man Kriege beendet#Publikumsfragen|Jörn Leonhard]]:** Ein Frieden hält eher, wenn ein Vermittler ein robustes Mandat hat und lange bleibt, wie die USA nach 1945 in Westeuropa; für die Ukraine sieht er niemanden, der es übernehmen könnte.
 - **[[Helen Keller — Voelkerrecht zahnloser Tiger#Der UN-Sicherheitsrat Machtarchitektur von 1945|Helen Keller]]:** Die Vetomächte blockieren jede Reform; dass der Globale Süden nicht vertreten ist, senkt dort die Bereitschaft, sich an das Recht zu halten.
@@ -134,6 +138,7 @@ Was Friedenstruppen leisten, ist dagegen gut untersucht, und der Befund ist deut
 |---|---|---|
 | 05.10.2026 | [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Nachbesprechung|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts]] | Gründungsnote. Schreckt es ab: Jo & Simmons 2016, Kim & Sikkink 2010, Appel 2018, Dancy 2017, Dancy & Montal 2017, McAllister 2023, Cronin-Furman 2013, Krcmaric 2018, Prorok 2017, Snyder & Vinjamuri 2003 · Siegerjustiz: Mills 2012, Ba 2020, OMGUS · Durchsetzung: Simmons & Danner 2010, Res. 76/262 |
 | 24.10.2026 | [[Joern Leonhard — Wie man Kriege beendet#Nachbesprechung|Jörn Leonhard — Wie man Kriege beendet]] | Können Friedenstruppen einen Frieden halten? (Walter/Howard/Fortna 2021, Fortna 2003/2004, Hultman et al. 2014, Howard 2019, Beardsley 2008, Fazal 2013, Kreutz 2010) → *Wer setzt es durch?* · Was in Münster wirklich geregelt wurde (Osiander, Stirk, Schmidt, Milton) → Waise |
+| 10.11.2026 | [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Nachbesprechung\|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] | Wer setzt es durch? Wo Sabotage im Cyberraum zum Angriff wird: GGE 2013/2015, Frankreich vs. Großbritannien zur Souveränität, NATO kumulativ, Tallinn ohne Bindung (Efrony & Shany 2018); Kühltruhen-Sabotage als Testfall, Antwort mit Strafrecht und Sanktionen |
 
 ---
 

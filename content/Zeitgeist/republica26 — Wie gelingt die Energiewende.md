@@ -220,6 +220,11 @@ Das Panorama bündelt die Energiedebatte über viele Fälle — dieses Panel lie
 
 Die letzte Publikumsfrage trifft den Kern des Panoramas: „Energieunabhängigkeit — eigentlich ein typisches AfD-Thema, aber das ganze Thema Energiewende ist den Grünen zugeschrieben." Hier wird ein *Thema* gekapert wie anderswo ein Symbol — und Mützes Antwort (nicht mit Parteirhetorik, sondern über den ökonomischen Case zurückholen) ist der Versuch der Rückeroberung, den das Panorama sammelt.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+Die Gegenposition zu Müller: Der Netzforscher Mathias Fischer sieht in der Ukraine eine Lehre in Microgrids und in großen Gaskraftwerken den falschen Trend, und der THW-Chef hält das dezentrale Netz für „vielleicht sogar resilienter“.
+
+
 ---
 
 ## Weiterdenken

@@ -323,6 +323,11 @@ KI-Militarisierung und Finanzierung — die Geld- und Machtströme hinter dem Na
 
 Der Streit um die Destillation ist die Typologie im Kleinen: Anthropic begründet seinen Zaun mit den „Bremsen“ der Modelle, Chinas Handelsministerium nennt dieselbe Praxis gegenseitiges Lernen. Ob es um Sicherheit geht oder um Vorsprung, lässt sich von außen kaum prüfen.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+Zettl-Schabaths Prüfregel für KI-Angriffsmeldungen (im Bericht nachsehen, wofür die KI wirklich genutzt wurde) und ein Fachmann, der einen PHP-Exploit fälschlich Claude zuschreibt: wie der Gefahrenlärm an Markennamen haftet.
+
+
 ## Quellen
 
 - [the-decoder — From GPT-2 to Claude Mythos: 'too dangerous to release'](https://the-decoder.com/from-gpt-2-to-claude-mythos-the-return-of-ai-models-deemed-too-dangerous-to-release/)

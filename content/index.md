@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **10.11.** — [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+>
+> Im Oktober wurden in 700 französischen Supermärkten die Kühltruhen warm. Ein Abend über verwundbare Netze, Menschen, die auf Links klicken, und die Frage, ob es den Cyberkrieg wirklich gibt.
+
 > **10.11.** — [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 >
 > Für die Historikerin Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die ihren See schonten. Geschichte schult den Möglichkeitssinn.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
 
-> **06.11.** — [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
->
-> Zwei Tage nach dem Protesttag ruft das Land im Radio an. Eine Schülervertreterin, ein Streetworker und ein Jugendforscher hören zu, und am Ende fragt eine Anruferin, warum man über die Wut der Jungen mit lauter Älteren spricht.
-
-> → *8 weitere in* [[Zeitgeist]]
+> → *9 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -72,6 +72,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **10.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
 > **10.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?
 
-> **10.11.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
->
-> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
-
-> → *13 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### Denker
 

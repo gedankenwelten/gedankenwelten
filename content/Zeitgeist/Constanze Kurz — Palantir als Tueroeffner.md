@@ -309,6 +309,11 @@ Dort stehen die Fälle, an denen sich Kurz' drei Risiken aus dem Urteil (Fehler,
 
 Die Gegenfolie zum Türöffner-Abschnitt: Klarsprech führt die Kritik über Personen, über Thiels Netzwerk und Karps „Domination“-Manifest. Diese Kritik wirkt, sie hat das Image des Konzerns mit gekippt. Nach Kurz ist sie aber so gebaut, dass sie mit dem Abgang des Konzerns ihre Kraft verliert. Beide Notes zusammen zeigen, warum Empörung über den Anbieter und Widerstand gegen die Methode zwei verschiedene Dinge sind.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+Eine Cyber-Analystin fragt, warum Baden-Württemberg Palantir statt europäischer Lösungen wählt, und ein Netzforscher hält die Souveränität für verloren, also genau die Anbieterdebatte, die Kurz für zu kurz hält.
+
+
 ---
 
 ## Weiterdenken

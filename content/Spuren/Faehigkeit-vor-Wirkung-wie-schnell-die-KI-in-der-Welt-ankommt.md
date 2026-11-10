@@ -225,6 +225,11 @@ rechnet Janssen von der Käuferseite nach.
 Misst mit Jobbörsen- und Lohndaten, wen KI tatsächlich trifft — oft eher Programmierer und Designer als die körperliche
 Routinearbeit. Ein Kandidat für die Arbeitsmarktreihe dieser Spur.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+In der Cybersicherheit zwei ähnliche Kurven, gefundene gegen ausgenutzte Lücken, und mit Strotmanns „Turbo“ das Signal, dass die Wirkung hier schneller aufholen könnte.
+
+
 ## Quellen
 
 | Rolle | Quelle |

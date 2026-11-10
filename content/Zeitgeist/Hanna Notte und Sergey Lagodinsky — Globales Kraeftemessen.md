@@ -354,6 +354,11 @@ Das wachsende Panorama, das aus dieser Note entstand: vier offene Fragen — Was
 
 Uwe Krügers Zählung von 2014 kannte nur prowestliche und prorussische O-Töne; die Nachbesprechung dort nimmt Nottes Forderung auf, den Ukrainern einen eigenen Topf zu geben.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+Fünf Wochen später, wieder bei der Körber-Stiftung, die Probe auf Nottes zwei Arten der Abschreckung: Eine Bedrohungsanalystin fragt, was nach einer Zuschreibung eigentlich passieren soll, und der THW-Chef empfiehlt dasselbe Batterieradio wie Lagodinsky.
+
+
 ---
 
 ## Weiterdenken

@@ -346,6 +346,11 @@ Die Note fragt, wann man eine Aussage als Vermutung kennzeichnen muss, statt zu 
 
 Die ausgearbeitete Fassung dessen, was Zuschauer Gornik in der Fragerunde nur andeutet: Je mehr Deutschland liefert, desto größer die Gefahr für die eigene Bevölkerung. Sonneborn dreht die Sorge zur Systemthese — Krieg als Geschäftsmodell einer transnationalen Sicherheitselite — und blendet dabei den Aggressor aus, was die Note selbst als blinden Fleck markiert. Kormbakis Antwort im Presseclub setzt genau dort an: Der Expansionsdrang endet nicht an der ukrainischen Grenze. Beide Notes zusammen zeigen, dass hinter derselben Angst zwei sehr verschiedene Schlüsse stehen können — und dass die Angst selbst berechtigt bleibt, ganz gleich welcher Schluss trägt.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+Die drei Stufen der Attribution (technisch, politisch, rechtlich) machen die Lücke zwischen überzeugender und gerichtsfester Beweiskette benennbar, und Paris zeigt bei den Kühltruhen-Angriffen den Gegenweg zu Leipzig: Indizien öffentlich, Haftbefehle beantragt.
+
+
 ---
 
 ## Weiterdenken

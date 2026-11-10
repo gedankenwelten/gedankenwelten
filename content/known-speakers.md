@@ -1357,3 +1357,21 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Wolfgang Coy
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Coy]]
+
+## Kerstin Zettl-Schabath
+**Status:** ✓ Vollanalyse → [[DenkerVita/Kerstin Zettl-Schabath]]
+
+## Mathias Fischer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Mathias Fischer]]
+
+## Volker Strotmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Volker Strotmann]]
+
+## Manuel Atug
+**Status:** ✓ Vollanalyse → [[DenkerVita/Manuel Atug]]
+
+## Tania Singer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Tania Singer]]
+
+## Fred von Allmen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Fred von Allmen]]

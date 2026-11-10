@@ -236,6 +236,11 @@ Dath begründet mit Brandom, warum ein Krieg, in dem nicht einmal mehr „ich ha
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+Der Zwilling des UN-Prozesses zu autonomen Waffen: Auch im Cyberraum gilt das Völkerrecht seit 2013, und wo die roten Linien liegen, ist bis heute offen.
+
+
 ---
 
 ## Weiterdenken

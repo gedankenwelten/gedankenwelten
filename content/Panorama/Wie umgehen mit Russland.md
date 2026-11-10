@@ -299,6 +299,11 @@ Der Rechercheur, der die Agenturen von innen kennt: Doppelgänger, Matrjoschka u
 
 Das Panorama zum Prinzip unter allen Spielern: ob das Recht des Stärkeren ein Naturgesetz ist und warum Moskau, wie Washington, ein Europa aus Einzelstaaten will. Russland ist dort einer von drei Fällen, nicht der Kern.
 
+### → [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+
+Die technische Seite der Frage, wie man sich vor dem hybriden Krieg schützt: Backup, Verteidigung in der Tiefe, Attribution in drei Stufen, und mit den Kühltruhen ein Fall, in dem der Angreifer in der Grauzone nicht Russland ist.
+
+
 ---
 
 ## Weiterdenken

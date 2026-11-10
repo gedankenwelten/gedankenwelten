@@ -2,7 +2,7 @@
 title: "Wie viel Überwachung verträgt die Freiheit?"
 date: 2026-10-17
 erstellt: 2026-10-17
-aktualisiert: 2026-11-05
+aktualisiert: 2026-11-10
 description: "Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert."
 raetsel: "Niemand sieht zu. Und doch zieht jeder die Vorhänge."
 panorama-art: wachsend
@@ -50,6 +50,8 @@ Ob ein Eingriff verhältnismäßig ist, hängt daran, was er leistet. Über die 
 
 Für die deutschen Plattformen, die vorhandene Akten verknüpfen — hessenDATA, DAR in NRW, VeRA in Bayern —, gibt es keine unabhängige Evaluation. Die Polizei nennt Erfolge ohne Zahlen der Fehlgriffe; Hessens Innenminister Roman Poseck verweist auf vereitelte Anschläge und die Ermittlungen gegen die Reichsbürger um Reuß und nennt einen sofortigen Ausstieg eine „Sicherheitslücke". Sein Argument: Jeder Ermittler dürfe in jede Datei schauen, die Software sei nur schneller. Die Rechtsprofessorin Anne Paschke hielt dagegen, hier würden Daten zusammengeführt, „die aus gutem Grund in unterschiedlichen Dateien gespeichert werden" ([taz, 24.09.2026](https://taz.de/Der-Einstieg-in-den-Ausstieg-von-Palantir/!6215930/)). Das Bundesverfassungsgericht hat 2023 nicht verboten, sondern gewichtet: Die Analyse erzeugt neues Wissen und hat ein Eigengewicht, das je nach Ausgestaltung leicht oder schwer wiegt ([BVerfG, 1 BvR 1547/19](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/02/rs20230216_1bvr154719.html)). Ob der Nutzen dieses Gewicht aufwiegt, kann von außen niemand prüfen.
 
+Für eine Klarnamenpflicht im Netz gibt es ein natürliches Experiment: Südkorea verlangte sie von 2007 an auf großen Seiten, 2012 kippte das Verfassungsgericht das Gesetz, weil die rechtswidrigen Beiträge nicht messbar zurückgegangen waren, während ein Hack die Daten von zwei Dritteln der Bevölkerung offenlegte ([Korea Times, 23.08.2012](https://www.koreatimes.co.kr/southkorea/20120823/real-name-policy-online-ruled-unconstitutional)). Bei politischen Kommentaren nahmen die Beleidigungen eher zu ([Cho & Kwon 2015](https://doi.org/10.1016/j.chb.2015.04.046), Beobachtungsstudie). Umgekehrt kann zu wenig Speicherung die Verteidigung blind machen: Angreifer bleiben im Mittel 14 Tage unentdeckt in einem Netz, länger als die sieben Tage, die ein Universitätssensor Verkehrsdaten speichern darf ([Mandiant M-Trends 2026](https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2026/); [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Klarnamen und Speicherfristen|Nachbesprechung]]).
+
 **Die Stimmen**
 
 - **[[Constanze Kurz — Palantir als Tueroeffner#Echte Bürgerdaten als Trainingsmaterial|Constanze Kurz]]:** Unverhältnismäßig, unkontrollierbar, riskant; es ist „eine dauerhafte Zusammenführung, die aus gutem Grund immer verboten war", und statt Evaluation gibt es fiktive Fälle.
@@ -57,6 +59,7 @@ Für die deutschen Plattformen, die vorhandene Akten verknüpfen — hessenDATA,
 - **[[Kurz und Goerlitz — Palantir und die deutsche Polizei#Wer landet eigentlich in der Polizeidatenbank?|Franziska Görlitz]]:** „Die Software denkt nicht, die stellt eine Wahrscheinlichkeit fest", und so wird der Sozialarbeiter der Fanhilfe, der bei jedem Spiel am Ort der Vorfälle ist, zum Muster.
 - **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koschi Politik]]:** In den USA verbindet dieselbe Technik Gesundheits-, Verkehrs- und Sozialdaten zu einem Gesamtbild, das Abschiebungen dient.
 - **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Die Desouveränisierung des Staates|Rainer Mühlhoff]]:** Die Tech-Industrie will das „Betriebssystem von Staatsmacht" werden und greift nach dem „administrativen Teil des Staatsapparats", den niemand mit dem Wort Demokratie verbindet.
+- **[[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Publikumsfragen|Mathias Fischer]]:** Eine Klarnamenpflicht verlangte eine Identifizierungsinfrastruktur, in falschen Händen „der feuchte Albtraum der Stasi“; bremsen tut der Datenschutz woanders, bei sieben Tagen Speicherfrist, in denen sich ein monatelanger Angriff nicht rekonstruieren lässt.
 
 > [!question] Die Reibung
 > Poseck nennt Ermittlungserfolge, Kurz nennt fiktive Fälle, und die Forschung hat das Verfahren, um das sie streiten, nie untersucht. *Wenn niemand die Bilanz ziehen kann: Wer müsste beweisen — der Staat, dass es wirkt, oder die Kritiker, dass es schadet?*
@@ -145,9 +148,10 @@ Quer zur Debatte liegt das polizeiinterne Projekt **P20**: Es will die Polizeida
 | 17.10.2026 | [[Constanze Kurz — Palantir als Tueroeffner#Nachbesprechung|Constanze Kurz — Palantir als Türöffner]] | Gründungsnote: Wirkt die Datenanalyse? (Lee et al. 2024, Mohler et al. 2015, Galiani & Jaitman 2022, Braga et al. 2019, Saunders et al. 2016, Gerstner 2017, taz/Poseck) → *Wirkt es?* · Hilft ein europäischer Anbieter? (EuroStack 2025, Pohle & Thiel 2020, Republik, heise, P20) → *Löst ein europäischer Anbieter etwas?* · beim Anlegen ergänzt: Chilling Effects (Penney 2016, Stoycheff 2016, Büchi et al. 2022) → *Was macht es mit Menschen, beobachtet zu werden?* · China und Großbritannien (HRW 2019, China Cables, OHCHR 2022, Kostka 2019, Beraja et al. 2023, Piza et al. 2019, EGMR Big Brother Watch 2021, Bridges 2020) → *Wo kippt Schutz in Herrschaft?* |
 | 31.10.2026 | [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Nachbesprechung\|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] | Was macht es mit Menschen, beobachtet zu werden? Prädiktive Privatheit: Schattenprofile (García 2017), Vorhersage aus Kontakten (Bagrow et al. 2019), Datenexternalität (Acemoglu et al. 2022), EuGH C-184/20, EDPB-Lücke, Gegenbefund DSGVO und Konzentration (Johnson et al. 2023) |
 | 05.11.2026 | [[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Nachbesprechung\|NANO — Gehirnchips und Gedankenfreiheit]] | Wo kippt Schutz in Herrschaft? Die Stirn als letzte Grenze: Shaheed A/76/380, Ley 21.383 und Girardi/Emotiv, US-Gesetze (Colorado, Kalifornien, Montana, Connecticut), AI Act Art. 5, Europarat-Entwurf, UNESCO 2025; Decoder (Tang 2023, Tang & Huth 2025, Kunz 2025, Kaifosh 2025); Kritik an Neurorechten (Bublitz, Hertz) |
+| 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung\|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Wer schüchtert wen ein? §188-Verfahren 2022–2025, Chilling Effect (Penney 2017), Anfeindungen gegen Kommunalpolitiker (KoMo 2025, Alizade u. a. 2025), Justizministerkonferenz zu §188 |
+| 10.11.2026 | [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Nachbesprechung\|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] | Wirkt es? Klarnamen und Speicherfristen: Südkorea 2007–2012 (Verfassungsgericht, Cho & Kwon 2015), Rost/Stahel/Frey 2016, dauerhafte Pseudonyme (Moore u. a. 2020); Angreifer im Mittel 14 Tage unentdeckt vs. 7 Tage Speicherfrist (Mandiant 2026, § 12 TDDDG) |
 
 ---
-| 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung\|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Wer schüchtert wen ein? §188-Verfahren 2022–2025, Chilling Effect (Penney 2017), Anfeindungen gegen Kommunalpolitiker (KoMo 2025, Alizade u. a. 2025), Justizministerkonferenz zu §188 |
 
 ## Verbindungen
 

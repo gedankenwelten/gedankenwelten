@@ -5749,3 +5749,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Bogner_Wissenschaftszweifel_Transkript.txt` |
 | **Bericht** | [Nach Corona. Reflexionen für zukünftige Krisen (ÖAW 2023)](https://austriaca.at/?arp=0x003eac20) |
+
+## Zettl-Schabath, Fischer, Strotmann / Angriffsziel Infrastruktur (Körber-Stiftung, 2026) · Manuel Atug / Bomben statt Cyber (2022)
+
+| | |
+|---|---|
+| **Panel** | [Angriffsziel Infrastruktur (2026)](https://www.youtube.com/watch?v=0s5FyRzPUpQ) — Körber-Stiftung, Reihe Hamburger Horizonte, KörberForum Hamburg, 03.11.2026 (veröffentlicht 04.11.), 107 Min, Moderation Eva Wolfangel |
+| **Gegenstimme** | [Keynote: Krieg in Ukraine — Bomben statt Cyber](https://www.youtube.com/watch?v=xeyzXumh5tI) — Manuel Atug, DiVOC Bridging Bubbles 3, April 2022 · [media.ccc.de](https://media.ccc.de/v/divoc-bb3-48898-keynote-krieg-in-ukraine-bomben-statt-cyber) (CC BY 4.0) |
+| **Anlass** | [ntv, 09.11.2026: Paris — Revolutionsgarden für Kühlanlagen-Angriffe verantwortlich](https://www.n-tv.de/politik/Paris-Revolutionsgarden-fuer-Kuehlanlagen-Angriffe-verantwortlich-id31513401.html) |
+| **Fund** | Diogenes, Nacht vom 06.11.2026 (Wiedervorlage als Anker, nicht in der Playlist) |
+| **Notiz** | [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] · [[DenkerVita/Kerstin Zettl-Schabath]] · [[DenkerVita/Mathias Fischer]] · [[DenkerVita/Volker Strotmann]] · [[DenkerVita/Manuel Atug]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koerber_Angriffsziel_Infrastruktur_Transkript.txt` · `Gedankenwelten/Transkripte/Atug_Bomben_statt_Cyber_Transkript.txt` |

@@ -16,6 +16,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[DenkerVita/Manuel Atug|Manuel Atug]]** — Informationssicherheit, Gründer und Sprecher der AG KRITIS (Konzept Cyber-Hilfswerk); Resilienz und Defensive statt Hackback und Cyberwar-Folien
+
 **[[DenkerVita/Alexander Teske|Alexander Teske]]** — Journalist, sechs Jahre Planungsredakteur der ARD-Tagesschau, Autor von *inside TAGESSCHAU*; Medienkritik als Herkunftsargument — Redaktionen als sozial homogener Zirkel, dessen „getönte Brille" schon bei der Themenauswahl wirkt, nicht erst in der Formulierung
 
 **[[DenkerVita/Alexander Thiele|Alexander Thiele]]** — Staatsrechtler (BSP Business & Law School Berlin), Verfassungsblog-Editor; Demokratie als Ordnung, die das Verlieren organisierbar macht — Rechtspopulisten als Demokratiefeinde, aber gegen ein AfD-Verbot, weil es kein einziges der Defizite repariert, die die AfD groß gemacht haben
@@ -219,6 +221,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Giulia Enders|Giulia Enders]]** — Ärztin, Gastroenterologin und Wissenschaftskommunikatorin (*1990, Mannheim); Science-Slam-Siegerin 2012; *Darm mit Charme* (2014, über 40 Sprachen) machte den Darm salonfähig; *Organisch* (2025)
 
 ## F
+
+**[[DenkerVita/Mathias Fischer|Mathias Fischer]]** — Informatiker, Professor für Rechnernetze (Uni Hamburg); Angriffserkennung und Sicherheit kritischer Infrastrukturen, Verteidigung in der Tiefe statt Burggraben
 
 **[[DenkerVita/Michael Fleming|Michael Fleming]]** — Historiker (Polish University Abroad, London); die Nachrichten über Auschwitz kamen früh in London an, gebremst wurden sie dort, durch eine Zensur, die niemand befehlen musste
 
@@ -644,6 +648,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## S
 
+**[[DenkerVita/Volker Strotmann|Volker Strotmann]]** — Informatiker, CIO des Technischen Hilfswerks, langjährig Abteilungsleiter Einsatz; denkt Sicherheit vom Ausfall her: Abhängigkeiten kennen, selbst vorsorgen
+
 **[[DenkerVita/Dagmar Simonsen|Dagmar Simonsen]]** — Seelsorgerin, Leiterin der Ökumenischen TelefonSeelsorge Vorpommern (Greifswald) seit 2016; Seelsorge als Würdigen des Gewordenseins, Zuhören statt Ratschlag („jeder Ratschlag ist auch ein Schlag“), mitfühlen, aber nicht mitleiden
 
 **[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Germanistin und Historikerin, Memorial-Mitgründerin; hält mit Oral History und Schülerwettbewerb die Erinnerung an den Stalinismus gegen Putins Geschichtspolitik, seit 2022 aus dem Exil
@@ -796,6 +802,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Yonatan Zeigen|Yonatan Zeigen]]** — israelischer Friedensaktivist, Sozialarbeiter & Mediator; Sohn der am 7.10.2023 ermordeten Vivian Silver; kandidiert für die jüdisch-arabische Partei *Makom Lekulanu*; „der 7. Oktober war kein Anfang, sondern ein Ergebnis“ — Trauer ohne Rache
 
 ## Z
+
+**[[DenkerVita/Kerstin Zettl-Schabath|Kerstin Zettl-Schabath]]** — Politikwissenschaftlerin, Cyber Threat Intelligence (DCSO), vorher EuRepoC Heidelberg; untersucht, wie Autokratien und Demokratien Hacker als Stellvertreter einsetzen — *Staatliche Cyberkonflikte*
 
 **[[DenkerVita/Zhao Tingyang|Zhao Tingyang]]** — Politischer Philosoph (CASS Peking); Tianxia-System als Weltordnung, Ontologie der Koexistenz, Verbdenken, Smart Democracy, Neo-Universalismus jenseits westfälischem Staatensystem
 
