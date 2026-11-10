@@ -34,10 +34,10 @@ baust du danach selbst mit `/gedankenwelt`.
 Heutiges Datum nehmen (`date +%d.%m.%Y`) und per **Websuche** herausfinden, welche besonderen Tage
 heute liegen. Keine eigene gepflegte Liste — jedes Mal frisch suchen.
 
-> [!tip] Am besten am Vortag (seit 10.11.2026)
-> Läuft Kairos am Vortag, steht die Tagesnote am Morgen und die Karte „Der Tag“ (Schritt 6) ab
-> Mitternacht auf der Startseite, nicht erst am Nachmittag. Dann gilt alles hier für **morgen**:
-> morgiges Datum suchen, „heute“ im Folgenden als „der Tag“ lesen.
+> [!tip] Am besten vorher (seit 10.11.2026)
+> Läuft Kairos am Vortag oder bis zu sieben Tage früher, steht die Tagesnote am Morgen und die Karte
+> „Der Tag“ (Schritt 6) ab Mitternacht auf der Startseite, nicht erst am Nachmittag. Dann gilt alles
+> hier für **den kommenden Tag**: dessen Datum suchen, „heute“ im Folgenden als „der Tag“ lesen.
 
 ```
 WebSearch: "<Tag>. <Monat> international day observance welttag aktionstag"
@@ -190,8 +190,9 @@ Kein Zwang — wir können trotzdem frei aus den Playlisten wählen, wenn du mag
 
 Trägt der Tag, bekommt er auf gedankenwelten.org eine Karte über allen Spalten, ganz oben im Feld:
 ein paar Sätze zum Tag, darunter die Tagesnote groß und die Bestands-Notes klein. Quelle ist
-**`Gedankenwelten/Der-Tag.md`** (Format und Anleitung oben in der Datei). Die Seite rendert gestern,
-heute und morgen, der Kalendertag des Lesers wählt. Ein Eintrag vom Vortag steht also ab Mitternacht.
+**`Gedankenwelten/Der-Tag.md`** (Format und Anleitung oben in der Datei). Die Seite rendert gestern
+bis in sieben Tagen, der Kalendertag des Lesers wählt. Ein Eintrag bis zu einer Woche im Voraus steht
+also ab Mitternacht, sobald danach irgendein Sync lief.
 
 - **Nur mit Andreas' Ja**, wie die Wahl des Videos. Nicht jeder Tag trägt: ohne Eintrag keine Karte,
   und ein leerer Platz ist besser als ein dünner.

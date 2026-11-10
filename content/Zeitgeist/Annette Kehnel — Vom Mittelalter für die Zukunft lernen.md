@@ -375,6 +375,10 @@ Der Hochseeschutzvertrag, der Guineawurm, der fast verschwunden ist ohne Medikam
 
 Dezentrale Selbstverwaltung bei Bookchin und in Rojava, öffentliche Räume als Orte der Leichtigkeit: zwei Gegenwartsformen dessen, was Kehnel Commons nennt.
 
+
+### → [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Wenn die Absicht kippt|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+
+Fred von Allmen nennt das Geben, das auf den Lohn im Jenseits zielt, „vergiftet“ und spottet über Papierautos auf dem Altar. Ganz gegen Kehnels Lesart steht er damit nicht: Wo Hilfe dringend nötig ist, sei die Haltung zweitrangig, wichtig sei, dass gehandelt wird.
 ---
 
 ## Weiterdenken

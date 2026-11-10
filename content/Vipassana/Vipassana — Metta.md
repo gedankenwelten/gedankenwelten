@@ -188,6 +188,10 @@ Mettā ist der Abschluss und der Übergang ins Leben. [[Vipassana — Upekkha|Up
 - [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Leben, Lehrerlinie und Vermächtnis
 - [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Bonhoeffers christliche Nächstenliebe unter Lebensgefahr als Gegenbild einer Liebe, die nichts riskiert
 
+
+### → [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Der vergessene erste Pfeiler|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+
+Fred von Allmen, der in Asien auch bei Goenka übte, erzählt Anāthapiṇḍikas Park voll Gold und stellt das Geben als ersten Pfeiler vor Ethik und Meditation, wie es in Asien üblich ist. Goenka fürchtet im Geben das Ego, von Allmen den Lohn, und doch lässt er die dringende Hilfe vor der reinen Absicht gehen.
 ---
 
 ## Weiterdenken

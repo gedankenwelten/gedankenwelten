@@ -397,6 +397,14 @@ Anderls Satz über den Chatbot, mit ihm sei man bei sich und nicht beim anderen,
 ### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
 In Auschwitz suchte Witold Pilecki seine Leute danach aus, ob sie teilten, mitten im Hunger. Eine Probe auf den Satz, Großzügigkeit komme nur aus der Fülle.
 
+
+### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Mitleiden ist nicht Mitgefühl|Tania Singer — Das Training des sozialen Gehirns]]
+
+Tania Singer gibt der Schieflage, die Bengert an Weil beschreibt, einen Namen aus der Hirnforschung: Wer im empathischen Stress das Leid des anderen zu seinem macht, brennt aus, Mitgefühl will helfen, ohne mitzuleiden. Ihre Übung zu zweit ist Weils Aufmerksamkeit als zwölf Minuten am Telefon.
+
+### → [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Warum Geben froh macht|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+
+Fred von Allmen dreht Bengerts Satz um: Nicht die Fülle macht das Geben möglich, das Geben macht reich. Das Gefühl der Armut kehrt zurück, sobald man schaut, was man noch kriegen könnte, bei genau gleichem Besitz.
 ---
 
 ## Weiterdenken

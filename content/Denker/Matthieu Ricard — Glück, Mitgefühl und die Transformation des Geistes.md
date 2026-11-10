@@ -575,6 +575,14 @@ Der schärfste Kontrapunkt zu Ricards trainierbarem Glück: Für Han fährt Glü
 
 Lucs Gedanke nimmt Ricards Stein beim Wort und verlängert den Bogen: Wir sehen nur den Vorteil im Wurf, der Stein fällt spät, auf Umwegen und verwandelt zurück. Dazu der Stein, der schon beim Werfen trifft, weil Karma an der Absicht hängt, und die Goldene Regel als Erfahrungswissen über die Flugbahn.
 
+
+### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Der Mönch, der aufhören wollte|Tania Singer — Das Training des sozialen Gehirns]]
+
+In Tania Singers Vortrag ist Ricard der Mönch im Hirnscanner, der nach bloßem Mitleiden erst wieder ins Mitgefühl wollte, bevor man ihn gehen ließ; daraus wurde ihre Unterscheidung von Empathie und Mitgefühl. Ihr Faktencheck legt seine eigene Schilderung der Sitzung neben ihre.
+
+### → [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Der vergessene erste Pfeiler|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+
+Fred von Allmen erzählt Ricards Warnung aus der Mitte der westlichen Meditationsbewegung: Seine Generation habe mit Drogen und Meditation begonnen und erst spät entdeckt, dass in Asien Geben und Ethik vorangehen.
 ---
 
 ## Weiterdenken

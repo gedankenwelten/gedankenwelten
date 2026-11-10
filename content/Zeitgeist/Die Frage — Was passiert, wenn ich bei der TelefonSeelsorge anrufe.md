@@ -252,6 +252,10 @@ Pörksens Du-Ohr fragt, in welcher Welt stimmt, was der andere sagt. Genau so h�
 ### → [[Panorama/Was mit 17 geschah#Einer, der da ist|Was mit 17 geschah — Einer, der da ist]]
 Jennys Satz über ihre E-Mail-Seelsorgerin, „sie war einfach da“, gehört zu diesem Kapitel, mit einem Unterschied: Die Begleiter dort greifen ein, bringen Bücher, sprechen Fürsprache. Jennys Begleiterin bleibt anonym und rät nur, sich weitere Hilfe zu suchen. Näher an ihr ist der Lehrer, der über die Suchenden sagt: „Lass sie suchen.“
 
+
+### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Die Übung zu zweit|Tania Singer — Das Training des sozialen Gehirns]]
+
+Was Carla und Dagmar Simonsen aus der Praxis kennen, hat Tania Singer im Labor geübt: In ihrer Übung zu zweit hört einer zweieinhalb Minuten zu, ohne Rat zu geben, und von Woche zu Woche wächst die Nähe zu Fremden. Ihre Unterscheidung von Empathie und Mitgefühl ist Simonsens „mitfühlen, aber nicht mitleiden“ als Hirnforschung.
 ---
 
 ## Weiterdenken

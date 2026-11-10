@@ -196,3 +196,7 @@ Am Schluss stellt Hans seine Frage noch einmal — was das Bild vom Irak vorher 
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Muss man sich Großzügigkeit leisten können?“ und „Wann wird Großzügigkeit zu viel?“.
 
+### → [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Wo das Geben zuerst kommt|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+
+Fred von Allmen erzählt dieselbe Erfahrung aus Sri Lanka, wo Familien ein Jahr warteten, um einen Tag lang Fremde bekochen zu dürfen. Für Franzis Frage, wie man so sein kann, hat er Zhuangzi: Sie lieben einander und wissen nicht, dass es Nächstenliebe ist.
+

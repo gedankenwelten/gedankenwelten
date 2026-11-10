@@ -240,3 +240,7 @@ Die akademische Keynote mit dem Gesellschaftsvertragsrahmen; systematischer und 
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Der Utopie-Vortrag 2025: dieselbe Theorie, aber von der Diagnose zur Strategie gedreht — Rehumanisierung durch multiple Kategorien, Mentalisierung ohne Zustimmung und Furchtlosigkeit, dazu der persönliche Ursprung des Ansatzes in Yus eigener Dissonanz-Erfahrung
+
+### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Ein Fitnessstudio für den Geist|Tania Singer — Das Training des sozialen Gehirns]]
+
+Tania Singer hat die Mentalisierung drei Monate lang trainieren lassen, und die Netzwerke in Stirn- und Schläfenlappen wurden messbar dicker. Hilfsbereiter machte aber nicht dieses Modul, sondern das Training von Fürsorge und Mitgefühl, ein Befund gegen die Hoffnung, das Verstehen allein reiche.

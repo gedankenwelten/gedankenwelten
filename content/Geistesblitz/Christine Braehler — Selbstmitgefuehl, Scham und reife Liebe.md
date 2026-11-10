@@ -272,6 +272,14 @@ Marks unterscheidet Scham, die von innen kommt, von Beschämung, die von außen 
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
 
+
+### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Brennt Mitgefühl wirklich nicht aus?|Tania Singer — Das Training des sozialen Gehirns]]
+
+Die Nachbesprechung der Singer-Note stützt Brähler von der Forschungsseite: Wer in helfenden Berufen ausbrennt, ist oft nicht der, der zu viel für andere fühlt, sondern der, der zu hart mit sich ist, und Selbstmitgefühl wirkte eher schützend.
+
+### → [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Wenn die Absicht kippt|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+
+Fred von Allmen nennt eine andere Verunreinigung des Gebens, die Erwartung eines Lohns, und lässt gemischte Motive gelten, wo Hilfe dringend nötig ist. Neben Brähler gelesen hat das selbstlose Geben zwei Schatten: die Rechnung auf später und die Angst, selbst nicht zu genügen.
 ---
 
 ## Weiterdenken

@@ -355,6 +355,10 @@ Gegen Cipollas Pessimismus spricht, dass sich der Denkstil verändern lässt, de
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Žižeks Idiot/Debiler ergänzt Cipollas Dummheits-Taxonomie: nicht nach Nutzen/Schaden, sondern nach Verhältnis zum „gesunden Menschenverstand“
 - [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]] — Lucs Gedanke nimmt Cipollas Matrix die Momentaufnahme: Rechnet man die Flugbahn des Steins dazu, der später zurückfällt, rutscht der Bandit in den Quadranten der Dummen. Er schadet anderen und auf lange Sicht sich selbst, er weiß es nur noch nicht.
 
+
+### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Mitleiden ist nicht Mitgefühl|Tania Singer — Das Training des sozialen Gehirns]]
+
+Tania Singer erklärt das Burnout in Pflege und Schule mit zwei Ursachen, dem empathischen Stress, bei dem das Leid des anderen zum eigenen wird, und Institutionen, die nur Leistung belohnen. Die Studien hier widersprechen ihr im ersten Punkt und stützen sie im zweiten.
 ---
 
 ## Weiterdenken

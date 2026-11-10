@@ -76,6 +76,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Andreas Audretsch|Andreas Audretsch]]** — Grünen-Politiker und Fraktionsvize für Wirtschaft und Soziales, setzt der rechten Erzählung vom Kontrollverlust sichtbare Handlungsfähigkeit entgegen, von der Gaspreisbremse bis zur Mietenkrise in Neukölln
 
+**[[DenkerVita/Fred von Allmen|Fred von Allmen]]** — Buddhistischer Meditationslehrer aus Bern (*1943), Schüler von Geshe Rabten, Vipassana bei Goenka und Munindra, lehrt seit 1984 zwischen Theravada und tibetischen Wegen; Mitbegründer des Meditationszentrums Beatenberg
+
 ## B
 
 **[[DenkerVita/Lilli Berthold|Lilli Berthold]]** — Schülervertreterin, stellvertretende Generalsekretärin der Bundesschüler\*innenkonferenz; Schule als Lebensraum, Beteiligung mit Wirkung statt Scheinformaten, Distanz zu „Gen Z regelt“ ohne Distanz zu den Anliegen
@@ -704,6 +706,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ines Schwerdtner|Ines Schwerdtner]]** — Linken-Vorsitzende und frühere Jacobin-Chefredakteurin, die Antifaschismus als Wirtschaftspolitik für bezahlbares Leben buchstabiert
 
 **[[DenkerVita/Robin Schmid|Robin Schmid]]** — Berliner YouTuber und Moderator (*Robin TV*, *Robin PV*), früher Radiomoderator und Sänger; erklärt Elektromobilität und Balkonkraftwerke als Infotainment („Spaß und Überzeugung“ statt Verzicht), Co-Host von *Alles wird Strom* — eng mit Branchenpartnern verbunden
+
+**[[DenkerVita/Tania Singer|Tania Singer]]** — Psychologin und Neurowissenschaftlerin (*1969), leitet das Social Neuroscience Lab der MPG in Berlin; unterscheidet Empathie von Mitgefühl und erforscht, wie sich das soziale Gehirn trainieren lässt (ReSource, CovSocial, Edu:Social)
 
 ## T
 

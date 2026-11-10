@@ -229,6 +229,10 @@ Thich Nhat Hanhs engagierter Buddhismus gibt die andere Antwort auf „Ist Mitge
 
 Der Kriterienkatalog des Dalai Lama für gerechtfertigte Gewalt deckt sich fast wörtlich mit der Lehre vom gerechten Krieg, die Münkler nüchtern-politiktheoretisch entfaltet — nur mit umgekehrter Beweislast.
 
+
+### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Aus dem Labor in die Schulen|Tania Singer — Das Training des sozialen Gehirns]]
+
+Tania Singer fand ihre Mitgefühls-Experten über das Mind and Life Institute, den Dialog von Mönchen und Forschenden, den der Dalai Lama angestoßen hat, und trägt mit Edu:Social eine Herzensbildung in die Schulen. An ihr zeigt sich auch die Lücke, die Spitz benennt: Sie erklärt das Burnout mit Institutionen und antwortet mit einem Training für den Einzelnen.
 ---
 
 ## Weiterdenken

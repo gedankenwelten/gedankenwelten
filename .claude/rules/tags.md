@@ -68,6 +68,8 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 
 > `kriminalität` = Kriminalstatistik, Kriminalitätsentwicklung und ihre Deutung (Hell-/Dunkelfeld, Tatverdächtige vs. Verurteilte, Ausländerkriminalität) — gesetzt mit [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]].
 
+> `cybersicherheit` = Cyberangriffe, IT-Sicherheit, Attribution, Ransomware, Cyberoperationen im Krieg · `kritische-infrastruktur` = Strom, Wasser, Netze, Versorgung und ihre Verwundbarkeit (physisch wie digital), Bevölkerungsschutz — gesetzt mit [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] (10.11.2026, Anlass: Iran-Sabotage an französischen Supermarkt-Kühlanlagen).
+
 > `todesstrafe` = Todesstrafe, Hinrichtung, Abolitionismus, Gnadengesuche — gesetzt mit [[Eve Morisi — Camus gegen die Todesstrafe]].
 
 **Medien:**

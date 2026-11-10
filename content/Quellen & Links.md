@@ -5760,3 +5760,23 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Fund** | Diogenes, Nacht vom 06.11.2026 (Wiedervorlage als Anker, nicht in der Playlist) |
 | **Notiz** | [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] · [[DenkerVita/Kerstin Zettl-Schabath]] · [[DenkerVita/Mathias Fischer]] · [[DenkerVita/Volker Strotmann]] · [[DenkerVita/Manuel Atug]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Koerber_Angriffsziel_Infrastruktur_Transkript.txt` · `Gedankenwelten/Transkripte/Atug_Bomben_statt_Cyber_Transkript.txt` |
+
+## Tania Singer / Das Training des sozialen Gehirns
+
+| | |
+|---|---|
+| **Vortrag** | [Das Training des sozialen Gehirns. Von Empathie über Mitgefühl zur mentalen Gesundheit](https://www.youtube.com/watch?v=m0oUAxT9RpQ) — Einstein Forum Potsdam, hochgeladen 06.11.2025, 64 Min, Gesprächsleitung Amber Carpenter |
+| **Anlass** | Kairos: Martinstag (11.11.) · [Vita Martini 3](https://www.thelatinlibrary.com/sulpiciusseverusmartin.html) · [Ökumenisches Heiligenlexikon](https://www.heiligenlexikon.de/BiographienM/Martin_von_Tours.htm) |
+| **Fund** | Diogenes-Pool (`deandi_gedankenwelten_pro`) |
+| **Notiz** | [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns]] · [[DenkerVita/Tania Singer]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Singer_Soziales_Gehirn_Transkript.txt` |
+
+## Fred von Allmen / Dana, der innere Reichtum der Großzügigkeit
+
+| | |
+|---|---|
+| **Vortrag** | [Dana: Der innere Reichtum der Großzügigkeit](https://www.youtube.com/watch?v=rx-CFJdnNXE) — Sammelkanal „Buddhas Lehre“ (2020, zuerst 2016 auf „Buddhismus im Alltag“), 38 Min, Aufnahmeort und -jahr unbekannt |
+| **Textfassung** | [Der Reichtum der Großzügigkeit (PDF, fredvonallmen.ch)](https://www.fredvonallmen.ch/dmxDaten/Belehrungen_Artikel_Texte/Der_Reichtum_der_Grosszuegigkeit_Vortrag_FvA.pdf) |
+| **Notiz** | [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit]] · [[DenkerVita/Fred von Allmen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/vonAllmen_Dana_Transkript.txt` (Whisper) |
+

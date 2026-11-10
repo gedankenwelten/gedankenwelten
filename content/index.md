@@ -46,7 +46,29 @@ Die Gedankenwelten (luc)
 
 > → *9 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **10.11.** — [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+>
+> Wer gibt, lässt los, und wer loslässt, fühlt sich reich. Der Meditationslehrer Fred von Allmen erzählt das Geben als vergessenen ersten Pfeiler der Praxis, gegen das Festhalten und gegen die Rechnung, die sich am Ende wieder einschleicht.
+
+> **09.11.** — [[Denker/Götz Aly — Wie konnte das geschehen|Götz Aly — Wie konnte das geschehen?]]
+>
+> Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
+
+> **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
+>
+> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
+
+> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+>
+> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
+
 ### Geistesblitz
+
+> **10.11.** — [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns|Tania Singer — Das Training des sozialen Gehirns]]
+>
+> Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
 
 > **10.11.** — [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
 >
@@ -64,11 +86,7 @@ Die Gedankenwelten (luc)
 >
 > Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen.
 
-> **07.11.** — [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]]
->
-> Ein Mann lässt sich 1940 verhaften, um in Auschwitz einen Widerstand zu bauen. Er sucht seine Leute danach aus, ob sie teilen. Und er bittet die Welt, das Lager zu bombardieren.
-
-> → *7 weitere in* [[Geistesblitz]]
+> → *8 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -84,29 +102,15 @@ Die Gedankenwelten (luc)
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> **10.11.** — [[Panorama/Forschung|Forschung]]
+> **10.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
 >
-> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
+> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
 
-> **10.11.** — [[Panorama/Wie weit darf der Staat lenken|Wie weit darf der Staat lenken?]]
+> **10.11.** — [[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]
 >
-> Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?
+> Der Scanner fand weniger, als versprochen wurde, das Verhalten mehr, als man dachte, und die Nebenwirkungen kamen spät zur Sprache. Drei offene Fragen zur Meditation und zu dem, was sich an ihr messen lässt.
 
-> → *14 weitere in* [[Panorama]]
-
-### Denker
-
-> **09.11.** — [[Denker/Götz Aly — Wie konnte das geschehen|Götz Aly — Wie konnte das geschehen?]]
->
-> Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
-
-> **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
->
-> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
-
-> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
->
-> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
+> → *15 weitere in* [[Panorama]]
 
 ### Spuren
 
