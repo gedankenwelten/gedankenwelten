@@ -343,3 +343,8 @@ Wie das Verschieben vom Befund aufs Etikett heute im Agrarstreit klingt, und wo 
 ### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
 
 Neben den gesäten Zweifel tritt die zweite Antwort der Industrie aus demselben Jahr 1953: die Schuld, die man dem Kunden zuschiebt, „mit Scham als Begleitmusik“.
+
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogner nennt Exxon und *Merchants of Doubt* und zieht dieselbe Grenze wie die Doku: Lobbying, das Zweifel sät, ist belegt und alltäglich, aber noch keine Verschwörung, und wer der Forschung ihre Nähe zur Wirtschaft vorhält, hat oft Gründe.
+

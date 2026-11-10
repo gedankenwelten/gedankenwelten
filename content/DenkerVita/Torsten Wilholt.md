@@ -125,6 +125,8 @@ Wilholt ist kein politischer Autor im Sinn einer Parteinahme, doch seine Philoso
 - [[DenkerVita/Ken Ono|Ken Ono]] — Wenn Maschinen richtige Antworten billig machen, wird Wilholts Frage nach der Verlässlichkeit des Weges zur knappen Ware.
 - [[DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]] — gelebter Fallibilismus („Ich glaube nichts, halte aber alles für möglich“) und zugleich ein Fall für Wilholts Frage, wo eine sonst verlässliche Quelle ihre blinde Stelle hat.
 
+- [[DenkerVita/Alexander Bogner|Alexander Bogner]] — Bogner macht aus der Trennung von Fallibilismus und Skeptizismus eine Soziologie des Zweifels und verlangt, Wissenschaft und Politik in ihren Zuständigkeiten zu trennen, eine Grenze, die Wilholts Werturteile in der Forschung durchlässiger machen.
+
 ---
 
 ## Gedankenwelten-Notes

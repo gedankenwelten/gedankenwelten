@@ -273,6 +273,10 @@ Spechts Rat ist die private Antwort auf die Tankrabatt-Falle: elektrifizieren un
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Grimm denkt die Tankrabatt-Falle von der Investorenseite: Wer in der Krise Zufallsgewinne abschöpft, lehrt, dass auch der nächste Gewinn nicht bleibt, und die Branche wartet ab. Wie schnell eine Ökonomin, die Abwägungen offenlegt, einem Lager zugeschlagen wird, zeigt ihr Abend bei Jung & Naiv.
 
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogner liefert die Theorie zu Löschels Gratwanderung: Wo politische Konflikte als Wissenskonflikte geführt werden, wird jeder Forscher einem Lager zugeschlagen, und nur wer Abwägungen offenlegt, statt Alternativlosigkeit zu verkünden, lässt der Politik ihren Teil.
+
 ---
 
 ## Weiterdenken

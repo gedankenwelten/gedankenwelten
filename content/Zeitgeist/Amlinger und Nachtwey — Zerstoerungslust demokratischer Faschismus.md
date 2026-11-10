@@ -296,6 +296,10 @@ Driouichs Kuchenrechnung liefert die ökonomische Mechanik zu dem Nullsummendenk
 
 Das Endzeitmotiv in einer einzelnen Biografie: Mit *The Fourth Turning* liest Bannon die Geschichte als Folge von Jahreszeiten, an deren Ende der Winter steht. Eine Filmkritikerin sah in seinen Filmen die Einladung zu einem „reinigenden Feuer“.
 
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogner nimmt den libertären Zweifler aus *Gekränkte Freiheit* auf („So wird Evidenz durch Authentizität ersetzt“), warnt aber davor, die Wissenschaftsskeptiker ins rechte Eck zu stellen, weil sie auch aus linksalternativen, spirituellen und anthroposophischen Milieus kommen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

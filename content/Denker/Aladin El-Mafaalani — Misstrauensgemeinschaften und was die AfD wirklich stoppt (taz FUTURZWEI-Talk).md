@@ -429,3 +429,8 @@ Am Morgen nach den US-Midterms 2026 hoffen Theveßen und Röller, dass eine Wut 
 ### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Trumpismus ohne Trump|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
 
 Nach den Midterms 2026 sagen Bernd Pickert und Barbara Junge über J. D. Vance, was der Abschnitt über das körpergewordene Misstrauen erklärt: Lügen könne er so gut wie Trump, ihm fehle die Nahbarkeit. Sebastian Moll hofft, die Demokraten könnten den Zorn mobilisieren, der nicht an Trump hängt; nach El-Mafaalani sucht er sich eher den nächsten Populisten.
+
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogners Schnittstellenskepsis ist das Misstrauen gegen die Rolle im System, das El-Mafaalani bei seinen Freunden erlebte; anders als El-Mafaalani hält Bogner das Gespräch mit diesen Zweifelnden für möglich, auch wenn er in zwölf Gesprächen niemanden bekehrte.
+

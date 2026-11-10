@@ -317,6 +317,10 @@ Yaghis Satz „Man kriegt nichts geschenkt, aber das stärkt die Resilienz und l
 
 Die Selektionswissenschaft als Firma: Das Berliner Labor IRIS lässt Roboter Materialien herstellen und messen, und am Anfang des Kreises steht der Wunsch eines Industriekunden. Wer auswählt, ist dort schon entschieden.
 
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogner verlangt genau Yaghis Arbeitsteilung, getrennte Zuständigkeiten für Wissenschaft und Politik, und zeigt, warum ihr Verwischen im „Follow the Science“ die Skepsis antreibt, die sich an der Nähe der Forschung zu Wirtschaft und Politik entzündet.
+
 ---
 
 ## Weiterdenken

@@ -286,6 +286,10 @@ Wo Wilholt zeigt, dass Übereinstimmung mit den Tatsachen für Wissen nicht reic
 
 Wie Mitteilung und prüfbarer Beleg in der Forschungspraxis auseinanderfallen: eine Schmetterlingsliste, der man glauben muss, gegen eine archivierte Malaise-Probe, die man neu befragen kann.
 
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogner baut auf Wilholts Unterscheidung eine Soziologie: Skepsis ist der Motor der Wissenschaft, Skeptizismus eine Kritik ohne Informationswert für sie, und wer diesen Fehlschluss zieht, tut es meist aus Kränkung und Identität, nicht aus Logik.
+
 ---
 
 ## Weiterdenken

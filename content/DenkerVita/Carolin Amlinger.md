@@ -85,6 +85,8 @@ Amlinger ist linksliberal, theoretisch der Kritischen Theorie (Marx, Lukács, Ad
 - [[DenkerVita/Steffen Mau]] — In Maus Analyse der Triggerpunkte steht Amlingers *verdinglichter Freiheitsbegriff* für Menschen mit wenig beruflicher Autonomie, die auf kleinen Freiheiten bestehen: wie ich heize, was ich sage, was ich esse. Mau bestreitet aber, dass das Land gespalten ist, Erregung eskaliere an bestimmten Punkten. Wie weit *Zerstörungslust* reicht, sagen die Zahlen des Buchs selbst: 12,5 Prozent mittel oder hoch destruktiv, knapp 60 Prozent gar nicht.
 - [[DenkerVita/Ulf Poschardt]] — Die direkte Abwehr. Im Gespräch mit [[DenkerVita/Christoph Moellers|Christoph Möllers]] nennt Poschardt das Bild der *Gekränkten Freiheit* „richtigen Schrott“; Möllers gibt dem Buch einen Punkt, ein Freiheitsbegriff nach dem Muster „ich will, Punkt“ sei Kostenexternalisierung und habe „etwas Autoritäres“. Poschardt begründet seine Kritik an den Lockdowns dagegen sozial, mit den Kindern in engen Wohnungen, und Möllers stimmt ihm darin zu.
 
+- [[DenkerVita/Alexander Bogner|Alexander Bogner]] — Übernimmt aus *Gekränkte Freiheit* den libertären Zweifler, bei dem „Evidenz durch Authentizität ersetzt“ wird, und warnt zugleich, die Wissenschaftsskeptiker nicht nur rechts zu suchen.
+
 ---
 
 ## Gedankenwelten-Notes

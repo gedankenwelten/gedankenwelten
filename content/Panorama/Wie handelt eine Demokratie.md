@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-10
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -91,6 +91,8 @@ Der dritte Schritt, das Umsetzen, ist der am wenigsten beleuchtete. Wer im Minis
 
 Für die Zukunft gibt es eigene Beratungsorgane, und ihre Geschichte ist ernüchternd. Finnlands Parlament hat seit 1993 einen Ausschuss für die Zukunft, der indirekt wirkt, über Expertise und Transparenz, als „kein Zauberhebel“ ([Koskimaa & Raunio 2020](https://doi.org/10.1080/13572334.2020.1738670)). Wales verpflichtete 2015 alle öffentlichen Stellen auf künftige Generationen; nach zehn Jahren nennt ein Parlamentsausschuss die Umsetzung „zu langsam“ ([Senedd 2026](https://senedd.wales/senedd-now/news/landmark-future-generations-act-failing-to-deliver-the-change-it-promised/)). Israels Kommissar für künftige Generationen (2001–2006) durfte Ausschüsse zum Warten zwingen und wurde nach einer Amtszeit nicht neu besetzt, weil er zu viel störte; Ungarn stufte seinen Ombudsmann 2011 herab ([Smith 2020](https://doi.org/10.1177/0032321719885100)). Solche Ämter sind umso gefährdeter, je wirksamer sie sind. Deutschlands Parlamentarischer Beirat für nachhaltige Entwicklung hat vor allem formale Aufmerksamkeit erzeugt ([Kinski & Whiteside 2022](https://doi.org/10.1080/09644016.2022.2031441)).
 
+Die Pandemie hat die wissenschaftliche Beratung ins Licht gestellt, und der Befund ist gemischt. In Österreich trennt eine Panelstudie zwei Verdachtsmomente: Die Experten hätten ihre Rolle überschritten, oder die Politik habe sich hinter ihnen versteckt; der erste kam von denen, die der Wissenschaft schon vorher misstrauten, der zweite folgte dem sinkenden Vertrauen in die Regierung ([Partheymüller, Eberl & Bogner 2025](https://doi.org/10.1007/s11614-025-00619-0), Panelstudie). In Australien, Kanada und Großbritannien diente „Follow the Science“ den Regierungschefs vor allem dazu, Verantwortung abzuschieben ([MacAulay u. a. 2023](https://doi.org/10.1332/030557321x16831146677554), Medienanalyse). Der deutsche Sachverständigenausschuss sprach von einem „Diskursausfall“: Entschieden wurde in der Bund-Länder-Runde, und ob die Empfehlungen der Expertenräte eingingen, blieb meist offen ([Sachverständigenausschuss 2022](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/S/Sachverstaendigenausschuss/220630_Evaluationsbericht_IFSG_NEU.pdf), S. 52–53). Wie unabhängig und einflussreich solche Gremien wirklich waren, ist kaum erforscht ([Bouchat u. a. 2024](https://doi.org/10.1332/17442648y2024d000000031), Scoping Review). Die Bevölkerung will dabei eher mehr Wissenschaft in der Politik: In Deutschland halten 2024 nur 16 Prozent ihren Einfluss für zu groß, 47 Prozent für zu gering ([Wissenschaft im Dialog 2024](https://wissenschaft-im-dialog.de/documents/332/2024_Wissenschaftsbarometer_Broschuere_web.pdf), S. 21–22).
+
 **Die Stimmen**
 
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Die Pyramide im Kreis|Ardalan Ibrahim]]:** Geloste Gremien sollen entscheiden, nicht empfehlen; ein zweites Losgremium bestimmt Tagesordnung und Experten, und die Regierung schrumpft zur Aufsicht über die Verwaltung.
@@ -101,9 +103,12 @@ Für die Zukunft gibt es eigene Beratungsorgane, und ihre Geschichte ist ernüch
 - **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#„Ich habe die Angst der Leute übernommen“|Heinz Bude]]:** 2020 beriet er die Regierung aus einer Expertenrunde, die über Telefonschaltungen arbeitete, und habe dabei „die Angst der Leute übernommen“; aus dieser Runde ging das Strategiepapier hervor, das eine „Schockwirkung“ empfahl, wobei die Passage ihm persönlich nicht zuzuschreiben ist.
 - **[[Clara Mattei — Geschichte der Austeritaetspolitik#Zentralbank-Unabhängigkeit als Entdemokratisierung|Clara Mattei]]:** Die unabhängige Zentralbank ist ein Weg, Politik der Demokratie zu entziehen; sie gehört demokratisiert.
 - **[[Colin Crouch — Postdemokratie nach den Krisen#2. Die Selbstkritik — Drei Fehler seines Originalbuches|Colin Crouch]]:** Zentralbanken, Statistikämter und Gerichte schützen die Bürger gerade deshalb, weil sie nicht gewählt sind.
+- **[[Alexander Bogner — Zweifeln an der Wissenschaft#Das virologische Quartett|Alexander Bogner]]:** „Politik ist mehr als Follow the Science“; wer Wertfragen als Wissensfragen verkündet, macht den Gegner zum Feind der Vernunft und erzeugt das Misstrauen, das er bekämpft.
 
-<details><summary>Weitere Stimmen (11)</summary>
+<details><summary>Weitere Stimmen (13)</summary>
 
+- **[[Adam Tooze — Krise und demokratische Gelegenheit#Expertise, der man nicht trauen soll|Adam Tooze]]:** Ohne Expertise geht es nicht, aber das Publikum soll den Experten die harten Fragen stellen; *„mir ist nicht zu trauen“*.
+- **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Nichts ist alternativlos|Mithu Sanyal]]:** Wer von Alternativlosigkeit spricht, beendet den Bereich des Politischen.
 - **[[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Der Zukunftsrat|Henrike von Scheliha]]:** Der Rat soll nichts entscheiden und nichts blockieren; aber das Parlament muss ihn anhören und begründen, wenn es abweicht. „Dann wird Zukunft eben nicht nur behauptet, sondern begründet mitgedacht.“
 - **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Graue Nashörner|Florence Gaub]]:** Wer als Beraterin gehört werden will, muss *trusted advisor* werden und den Gewarnten nicht öffentlich demütigen; Vertrauen entsteht hinter der Bühne.
 - **[[Andreas Loeschel — Strom NEU DENKEN#Wissenschaft im politisierten Feld — Abwägungen offenlegen statt Lager bedienen|Andreas Löschel]]:** Die Wissenschaft legt die Abwägungen offen; treffen müssen sie Gesellschaft und Politik.
@@ -339,6 +344,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 | 15.10.2026 | [[Rainer Mausfeld — Warum schweigen die Lämmer#Nachbesprechung|Rainer Mausfeld — Warum schweigen die Lämmer?]] | Wer bewacht die Handelnden: Aufsicht über Sicherheitsbehörden, unbestimmte Rechtsbegriffe (Ingeborg Maus), BKA-Gesetz 2016, Datenanalyse 2023, BayVerfGH 2025 zur „drohenden Gefahr“; Bedrohung und Freiheitsverzicht (Davis & Silver 2004, Huddy et al. 2005); Mausfeld und Kurz als Stimmen |
 | 06.11.2026 | [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms#Nachbesprechung|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms?]] | Wer bewacht die Handelnden: Wird Korruption abgewählt? Feld kaum, Umfrage 32 Punkte (Incerti 2020), Prüfberichte und Lokalradio (Ferraz & Finan 2008), Parteifilter (Eggers 2014), Eigennutz gegen Gemeinwohl (Breitenstein & Hernández 2024); Paxton, Wisconsin 2025, Musks 445 Mio. |
 | 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Deutsche Drehtüren: Merz' Treffen als BlackRock-Vertreter, Lobbyregister und Frühstart-Rente, Kukies, Asmussen, Karenzzeit, Shive & Forster |
+| 10.11.2026 | [[Alexander Bogner — Zweifeln an der Wissenschaft#Beraten oder entscheiden Wie viel Wissenschaft verträgt die Politik?|Alexander Bogner — Zweifeln an der Wissenschaft]] | Beraten oder entscheiden in der Pandemie: Überschreiten vs. Verstecken (Partheymüller, Eberl & Bogner 2025), „Follow the Science“ als Schuldabwehr, Diskursausfall (Sachverständigenausschuss 2022), ÖAW-Empfehlung „Begründen, nicht verkünden“, Enquete-Kommission, Bevölkerung will mehr Wissenschaft (16 % vs. 47 %) |
 
 ---
 

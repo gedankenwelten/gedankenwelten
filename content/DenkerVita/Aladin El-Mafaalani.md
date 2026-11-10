@@ -98,6 +98,9 @@ Butterwegges lebenslange Armutsforschung liefert die materielle Unterfütterung 
 ### → [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]
 Heitmeyer liest steigende Kurven als Durchrohung; El-Mafaalani hält dagegen, dass sich die Einstellungen in zwanzig Jahren kaum verändert haben; gewachsen sei vor allem die Vernetzung der Misstrauenden. Sein Integrationsparadox stellt neben die Diagnose des Zerfalls die Lesart, dass Reibung auch gelingende Teilhabe anzeigen kann.
 
+### → [[DenkerVita/Alexander Bogner|Alexander Bogner]]
+Bogners Schnittstellenskepsis ist El-Mafaalanis Misstrauen gegen die Rolle statt gegen die Person; wo El-Mafaalani den Rückweg zum Vertrauen für kaum planbar hält, lädt Bogner die Wütenden in die Akademie ein, ohne Bekehrung, aber mit Gesprächsebene.
+
 ---
 
 ## Gedankenwelten-Notes

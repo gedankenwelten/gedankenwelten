@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-11-09
+aktualisiert: 2026-11-10
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -125,6 +125,8 @@ Was das Vertrauen von außen angreift, ist ebenfalls vermessen. Die Tabak-, die 
 
 Am Rand der Wissenschaft liegt die politische Prognose, und dort ist der Befund ernüchternd. Philip Tetlock ließ 284 Fachleute über zwanzig Jahre 82.361 Vorhersagen abgeben; sie lagen kaum über dem Zufall, die vielseitig und selbstkritisch Denkenden schnitten besser ab, und die in den Medien meistgefragten schlechter als ihre unbekannteren Kollegen ([*Expert Political Judgment*, 2005](https://doi.org/10.1515/9781400830312)). Lernbar ist es trotzdem: Training und Teamarbeit verbessern geopolitische Vorhersagen messbar ([Mellers u. a. 2014](https://doi.org/10.1177/0956797614524255)). Wer außerhalb seines Fachs urteilt, sollte seine Zuversicht senken ([Ballantyne 2019](https://doi.org/10.1093/oso/9780190847289.003.0008)) und es kennzeichnen ([Gerken 2018](https://doi.org/10.1007/s10838-018-9416-1)). Mehr in der Nachbesprechung [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Wer darf über Krieg reden?|Wer darf über Krieg reden?]].
 
+Wo das Misstrauen sitzt, ist genauer vermessen als seine Höhe. Der Verdacht, Forschende seien „zu abhängig von ihren Geldgebern“, fiel in Deutschland in der Pandemie von 64 Prozent (2019) auf 49 (2020) und stieg 2024 wieder auf 62; erstmals mit einem Bildungsgraben, 71 bis 72 Prozent bei niedriger und mittlerer Bildung, 49 bei hoher ([Wissenschaft im Dialog 2024](https://wissenschaft-im-dialog.de/documents/332/2024_Wissenschaftsbarometer_Broschuere_web.pdf), S. 17–18). In Österreich unterscheidet die Aufarbeitung der Akademie drei Haltungen, 27 Prozent wissenschaftsaffin, 58 Prozent distanziert, 14 Prozent stark skeptisch; die Skepsis ist dort vor allem der Zweifel an der Unabhängigkeit, kaum die Ablehnung der Methode ([Bogner Hg. 2023](https://doi.org/10.1553/978OEAW95696), ÖAW-Bericht). Wer Befunde nach der eigenen politischen Seite bewertet, tut das links wie rechts ungefähr gleich stark ([Ditto u. a. 2018](https://doi.org/10.1177/1745691617746796), Meta-Analyse).
+
 **Die Stimmen**
 
 - **[[Torsten Wilholt — Wahrheit und Wissen#Der Skeptiker als Anfänger — Wissen ist keine Gewissheit|Torsten Wilholt]]:** Aus „ich kann mich immer irren“ folgt nicht „ich irre mich immer“; Fallibilismus ist vernünftig, Skeptizismus ein Fehlschluss.
@@ -136,9 +138,11 @@ Am Rand der Wissenschaft liegt die politische Prognose, und dort ist der Befund 
 - **[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Vertrauen und Misstrauen: Soziologische Grundlagen|Aladin El-Mafaalani]]:** Konstruktives Misstrauen will verbessern, destruktives lehnt das System ab; verlorenes Vertrauen kommt kaum zurück.
 - **[[Mark Benecke — Umwelt-Messungen Sommer 2026#1975 — Die Vorhersage, die niemand hören wollte|Mark Benecke]]:** Die Klimaprognose von 1975 stimmte fast genau; am Wissen lag es nie, die Gesellschaft hat weggeschaut.
 - **[[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#Die Nudge-Forscher ziehen Bilanz|Nick Chater und George Loewenstein]]** (bei Scobel): Zwei, die der Nudge-Bewegung lange anhingen, nennen den Blick auf den Einzelnen heute *„a mistake“*; der Nudge sei nicht wertlos, er dürfe nur die Regel nicht ersetzen.
+- **[[Alexander Bogner — Zweifeln an der Wissenschaft#Kern und Schnittstelle|Alexander Bogner]]:** Nur etwa jeder Zehnte verwirft die Wissenschaft selbst; weit mehr trauen ihr nicht, wo sie Politik und Wirtschaft berührt, und mit ihnen kann man reden. Der Zweifel wächst mit der Macht des Wissens.
 
-<details><summary>Weitere Stimmen (13)</summary>
+<details><summary>Weitere Stimmen (14)</summary>
 
+- **[[Uwe Krueger — Netzwerke der Meinungsmacht#Eine Vertrauenskrise ohne klaren Vertrauensverlust|Uwe Krüger]]:** Dasselbe Muster bei den Medien: In den Langzeitdaten kein klarer Vertrauensverlust, aber jeder Fünfte glaubt, Politik und Medien manipulierten gemeinsam.
 - **[[Hoerren und Sorg — Die Insekten verschwinden#Kritik oder Agitation|Martin Sorg]]:** Kritik hat einen Datenbezug; wer gemessenen Daten etwas anderes zuschreibt, als sie zeigen, betreibt Agitation.
 - **[[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Warum Millionen es glauben|Robin Schmid und Felix Goldbach]]:** Niemand, der Mythen teilt, ist doof, die Umgebung ist fies; die Taktik war nie, vom Gegenteil zu überzeugen, sondern Zweifel zu säen.
 - **[[Alena Buyx — Gesellschaft NEU DENKEN#Der Verachtungsmarker|Alena Buyx]]:** Wer vorher weiß, welche Masche gleich kommt, kann ihr widerstehen; sie nennt das Inokulation und verbindet es mit Umgangsformen und Fehlerkultur.
@@ -237,6 +241,7 @@ Dass der Teamgedanke trägt, aber nicht in jeder Größe, zeigt ein dritter Befu
 | 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet#Vom Prüfstand ans Band\|Jacob Beautemps — Made in Germany Awards 2026 Mobilität]] | Vom Prüfstand ans Band: Radnabenmotor seit 1900 (Deepak 2023), wandernder Serientermin bei DeepDrive (2026 → 2027 → 2028), Hochholdinger: an der Serie scheitern die meisten Deep-Tech-Firmen |
 | 07.11.2026 | [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#Was bleibt vom Nudge?\|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]] | Was bleibt vom Nudge: Mertens 2022, Maier 2022, Szászi 2022, Jachimowicz 2019, Milkman 2021 · Chater und Loewenstein als Stimme |
 | 09.11.2026 | [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Deep Innovation Tiefe aus der Mischung\|Markus Gabriel — KI als Resonanzfeld und Mu]] | Tiefe aus der Mischung: Hall & Soskice (Japan und Deutschland koordiniert), Akkermans 2009, Witt & Jackson 2016; abnehmende Disruption (Park 2023), kleine Teams (Wu 2019) |
+| 10.11.2026 | [[Alexander Bogner — Zweifeln an der Wissenschaft#Sinkt das Vertrauen in die Wissenschaft wirklich?|Alexander Bogner — Zweifeln an der Wissenschaft]] | Vertrauen nach 2023 (DE 56 → 54 %, AT 70 → 74 %, DACH-Vergleich), Schnittstellenskepsis im Zeitverlauf, Bildungsgraben, drei Profile im ÖAW-Bericht, Wurzeln je Thema (Rutjens 2017), Ditto 2018, science-related populism |
 
 ---
 

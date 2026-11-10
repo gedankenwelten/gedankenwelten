@@ -488,6 +488,10 @@ Was Göpel und Marinić Vertrauen nennen, heißt bei Arendt „Wagnis der Öffen
 
 Uwe Krüger und Juliane Schreiber streiten 2017 über dieselbe Frage: Kann man ein unberechtigtes Gefühl mit Argumenten ausräumen, oder gilt „Angst ist Angst“?
 
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogner saß auf dem Grazer Podium vom Januar 2024, auf dem Bude von der Expertenrunde erzählte; seine Epistemisierungs-These ist die Analyse dazu: Wer Wertfragen als Wissensfragen verkündet, verbraucht das Vertrauen, das er braucht.
+
 ---
 
 ## Weiterdenken

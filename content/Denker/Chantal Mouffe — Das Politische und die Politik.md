@@ -188,6 +188,10 @@ Mouffes legitimer Gegner hat einen Vorläufer in Bubers echtem Gespräch, das de
 
 Die Wahlen einer Oktoberwoche 2026 als Probe auf die Frage aus Abschnitt 5, was geschieht, wenn eine Partei dem Gegner die Legitimität abspricht; Ulf Röller nennt diesen Zustand „entweder oder“.
 
+### → [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+
+Bogner zeigt, was geschieht, wenn Wertkonflikte als Wissenskonflikte geführt werden: Die wissenschaftlich begründete Alternativlosigkeit erzeugt Skepsis, wie bei Mouffe der Konsens den Populismus, und der Gegner wird zum „Feind der Vernunft“.
+
 ---
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]

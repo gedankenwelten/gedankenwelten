@@ -5740,3 +5740,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Wolfgang Niess — Der 9. November]] |
 | **Vita** | [[DenkerVita/Wolfgang Niess]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Niess_9November_Schicksalstag_Transkript.txt` |
+
+## Alexander Bogner / Zweifeln an der Wissenschaft
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Bogner: (Ver-)Zweifeln an der Wissenschaft – Zwischen Pseudowissenschaft und Szientismus](https://www.youtube.com/watch?v=BEvkbyNqsr8) (grenzfragen, 2024) |
+| **Notiz** | [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Bogner_Wissenschaftszweifel_Transkript.txt` |
+| **Bericht** | [Nach Corona. Reflexionen für zukünftige Krisen (ÖAW 2023)](https://austriaca.at/?arp=0x003eac20) |

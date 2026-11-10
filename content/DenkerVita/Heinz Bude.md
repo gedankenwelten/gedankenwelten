@@ -146,6 +146,8 @@ Dazu Aufsätze und Gespräche, zuletzt *Aus dem Maschinenraum der Beratung in Ze
 - **[[DenkerVita/Götz Aly|Götz Aly]]** → Beide halten das Beschweigen der Nachkriegszeit für den Preis der Stabilität, verhandelt im Panorama [[Panorama/Wie handelt eine Demokratie#Mit wem fängt eine Demokratie neu an?|Mit wem fängt eine Demokratie neu an?]].
 - **[[DenkerVita/Christian Walburg|Christian Walburg]]** → Budes Gesellschaft des Misstrauens erklärt Walburgs Befund, dass die Sorge um Kriminalität im Land steigt, während die eigene Furcht sinkt.
 
+- **[[DenkerVita/Alexander Bogner|Alexander Bogner]]** → Saß mit ihm im Januar 2024 auf dem Grazer Podium; seine Epistemisierungs-These beschreibt die Gefahr einer „wissenschaftsähnlichen“ Formel für Folgebereitschaft, von der Bude dort erzählte.
+
 ---
 
 ## Gedankenwelten-Notes

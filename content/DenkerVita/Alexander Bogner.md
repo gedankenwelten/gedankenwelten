@@ -3,11 +3,21 @@ title: Alexander Bogner — DenkerVita
 description: "Wer an der Wissenschaft zweifelt, meint oft nicht ihre Methoden, sondern ihre Nähe zur Macht: Alexander Bogner sieht darin ein Echo der Epistemisierung des Politischen."
 date: 2026-11-10
 aktualisiert: 2026-11-10
-raetsel: ""
+raetsel: "Er schrieb den Wütenden zurück. Bekehrt hat er keinen. Gekommen sind sie."
 tags: [denker-vita, soziologie, wissenschaft, erkenntnistheorie, demokratie, wissenschaftskommunikation, oesterreich]
 ---
 
 # Alexander Bogner — DenkerVita
+
+![[assets/Alexander-Bogner-vita-banner.jpg|Gemälde: In einem kahlen, hohen Raum sitzen sich zwei Männer an einem langen Tisch gegenüber, zwischen ihnen ein Stapel Briefe und zwei Tassen, durchs Fenster fällt schräges Abendlicht, draußen eine ockerfarbene Fassade.|1200]]
+
+<details><summary>🎨</summary>
+
+**Edward Hopper** — flache Farbflächen, schräges Spätnachmittagslicht, ein leerer Raum, in dem zwei Menschen allein sind. Hopper malte das Warten und die Stille zwischen Menschen, und genau diese Stille liegt vor einem schwierigen Gespräch. Bogner bekam als Leiter der Corona-Aufarbeitung wütende Briefe und schrieb zurück: Kommen Sie doch mal in die Akademie. Zwölf Gespräche wurden daraus, bekehrt hat er niemanden. Das Bild zeigt den Moment davor, die Briefe auf dem Tisch, draußen ein Stück Wiener Fassade. Ein Signaturkürzel unten rechts ist übermalt.
+
+*Prompt:* Oil painting in the style of Edward Hopper, wide horizontal banner, 1950s American realism, flat planes of colour, strong raking late-afternoon light falling through a tall window across a bare wooden floor. A high-ceilinged old academy room with a plain long table, two simple chairs facing each other across it, one figure seated in a dark suit, hands folded, the other figure in a coat just sitting down opposite, both seen from a distance, faces in shadow and indistinct. On the table a neat stack of opened letters and two cups of coffee. Through the window a sliver of baroque Viennese facade in warm ochre. Quiet, expectant, the moment before a difficult conversation. Muted greens, ochre, cream and deep shadow. No text, no letters legible, no signature.
+
+</details>
 
 ## Biographischer Snapshot
 
@@ -93,6 +103,12 @@ Was er dabei selbst erlebte, erzählt er im Vortrag: Als Projektleiter bekam er 
 ---
 
 ## Verbindungen zu anderen Denkern
+
+- [[DenkerVita/Torsten Wilholt|Torsten Wilholt]] — Wilholts Fallibilismus ist der Boden unter Bogners Unterscheidung von Skepsis und Skeptizismus, und Wilholts These, Forschung sei ohnehin nicht wertfrei, reibt sich an Bogners Rat, die Zuständigkeiten von Wissenschaft und Politik sauber zu trennen.
+- [[DenkerVita/Heinz Bude|Heinz Bude]] — Im Januar 2024 auf demselben Grazer Podium; Bude erzählt von innen, wie die Expertenrunde 2020 eine Formel für Folgebereitschaft suchte, Bogners Epistemisierungs-These beschreibt die Gefahr dahinter.
+- [[DenkerVita/Carolin Amlinger|Carolin Amlinger]] — Aus *Gekränkte Freiheit*, das Amlinger mit Oliver Nachtwey schrieb, übernimmt Bogner den libertären Zweifler, für den Freiheit Freiheit von der Gesellschaft heißt und das Ich die letzte Instanz der Wahrheit ist.
+- [[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]] — Beide beschreiben ein Misstrauen gegen die Rolle im System statt gegen die Person; El-Mafaalani hält den Rückweg zum Vertrauen für kaum planbar, Bogner setzt trotzdem auf das Gespräch.
+- [[DenkerVita/Omar M. Yaghi|Omar M. Yaghi]] — Yaghis „Ich stelle die Lösung bereit, die Gesellschaft entscheidet“ ist Bogners Trennung der Zuständigkeiten in Reinform, und seine Doppelrolle als Forscher und Gründer zeigt, wo die Schnittstellenskepsis ansetzt.
 
 ---
 
