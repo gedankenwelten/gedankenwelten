@@ -240,6 +240,9 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt V
 
 Der Zwilling des UN-Prozesses zu autonomen Waffen: Auch im Cyberraum gilt das Völkerrecht seit 2013, und wo die roten Linien liegen, ist bis heute offen.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Der kleine Abstand|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Die Gewaltforscherin Hanna Pfeifer liest mit Simone Weil, warum die Verkürzung zwischen erkannter Gefahr und Gegenschlag gefährlich ist: Gewalt lässt sich nur in dem kleinen Abstand hemmen, in dem Denken Platz hat, und genau der wird verkürzt.
 
 ---
 

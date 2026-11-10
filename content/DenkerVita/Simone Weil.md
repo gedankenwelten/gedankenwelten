@@ -154,9 +154,11 @@ Man kann sagen, dass sie das ganze Alte Testament ihrer eigenen Kraft-Kritik unt
 
 ---
 - [[DenkerVita/Mae Bengert|Mae Bengert]] — Literatur- und Religionswissenschaftlerin an der HU Berlin, Mitgründerin des Simone Weil denʞkollektiv. Sie liest Weil zuerst als Mystikerin und hält die Dekreation gegen ihre gefährlichste Lesart fest: porös werden, nicht verschwinden. Großzügigkeit wächst für sie aus Verwurzelung, nicht aus Mangel — Weils *L'Enracinement* als Antwort auf ihren Satz über die Aufmerksamkeit.
+- [[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]] — Die Gewaltforscherin kommentiert 2022 den Ilias-Essay Absatz für Absatz. Sie übernimmt die Gewalt als Struktur und den kleinen Abstand zwischen Impuls und Handlung und widerspricht der doppelten Versteinerung dort, wo die Gewalt einseitig ist: Bei Sklaverei und Kolonialismus gab es Gewinner.
 
 ## Gedankenwelten-Notes
 
+- [[Simone Weil — Die Ilias oder das Poem der Gewalt]] — der Ilias-Essay als Lesung und Kommentar: Birgit Heuser liest fünf Passagen, die Gewaltforscherin Hanna Pfeifer nimmt die Gewalt als Struktur, die Entmenschlichung und den kleinen Abstand zwischen Impuls und Handlung mit und widerspricht der doppelten Versteinerung für Sklaverei und Kolonialismus, Haus am Dom Frankfurt 2022
 - [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]] — die erste Note, die Weil ins Zentrum stellt: Mae Bengert und Barbara Bleisch über Aufmerksamkeit, Dekreation (porös werden, nicht verschwinden) und die Kraft, die Menschen zu Dingen macht, Leuphana 2026
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — schließt mit ihrem Satz *„Il faut accomplir le possible pour toucher l'impossible"*
 - [[Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie|Wolfram Eilenberger — Die größte Lüge der Philosophie]] — liest Weil als Teil des mystischen Sandflusses, den die akademische Philosophie ausgesperrt hat

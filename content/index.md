@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **10.11.** — [[Denker/Simone Weil — Die Ilias oder das Poem der Gewalt|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+>
+> Gewalt macht aus dem, der sie erleidet, ein Ding, und aus dem, der sie ausübt, auch. Simone Weils Ilias-Essay, gelesen von einer Gewaltforscherin, die ihm an entscheidender Stelle widerspricht.
+
 > **10.11.** — [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
 >
 > Wer gibt, lässt los, und wer loslässt, fühlt sich reich. Der Meditationslehrer Fred von Allmen erzählt das Geben als vergessenen ersten Pfeiler der Praxis, gegen das Festhalten und gegen die Rechnung, die sich am Ende wieder einschleicht.
@@ -94,6 +98,14 @@ Die Gedankenwelten (luc)
 >
 > Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
 
+> **10.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **10.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
 > **10.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
@@ -101,14 +113,6 @@ Die Gedankenwelten (luc)
 > **10.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **10.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
-
-> **10.11.** — [[Panorama/Was bewirkt Meditation|Was bewirkt Meditation, und woran messen wir das?]]
->
-> Der Scanner fand weniger, als versprochen wurde, das Verhalten mehr, als man dachte, und die Nebenwirkungen kamen spät zur Sprache. Drei offene Fragen zur Meditation und zu dem, was sich an ihr messen lässt.
 
 > → *15 weitere in* [[Panorama]]
 

@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 58,
-   "aufrufe": 68
+   "leser": 59,
+   "aufrufe": 69
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -314,6 +314,11 @@
      "aufrufe": 31
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 14,
+     "aufrufe": 16
+    },
+    {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 14,
      "aufrufe": 16
@@ -322,11 +327,6 @@
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 14,
      "aufrufe": 16
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 13,
-     "aufrufe": 15
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -359,11 +359,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 4,
      "aufrufe": 4
@@ -372,6 +367,16 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 3,
      "aufrufe": 5
+    },
+    {
+     "pfad": "/Zeitgeist/Philip-Schlaffer-Kann-man-sich-aendern",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Albert-Camus",
+     "leser": 3,
+     "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -390,11 +395,6 @@
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Philip-Schlaffer-Kann-man-sich-aendern",
      "leser": 3,
      "aufrufe": 3
     },
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 58,
-     "aufrufe": 68
+     "leser": 59,
+     "aufrufe": 69
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -950,8 +950,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 65,
-     "aufrufe": 75
+     "leser": 66,
+     "aufrufe": 76
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1255,8 +1255,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 65,
-     "aufrufe": 75
+     "leser": 66,
+     "aufrufe": 76
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 33,
-     "aufrufe": 33
+     "leser": 34,
+     "aufrufe": 34
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1744,11 +1744,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 3,
      "aufrufe": 3
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
     }

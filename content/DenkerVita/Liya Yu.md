@@ -94,6 +94,7 @@ Yu verortet sich selbst als antirassistische Aktivistin und linksliberal, kritis
 - Thomas Hobbes — Yus zentrale Referenz: Der Mensch im Naturzustand, Politik von der Katastrophe her denken, aber mit modernen neurowissenschaftlichen Mitteln
 - Tanja Singer — Abgrenzung Empathie vs. Mentalisierung; Singer liefert die Grundlagenforschung, auf der Yu aufbaut
 - Lasana Harris — Yus Doktorvater an Columbia; seine Dehumanisierungsforschung (Harris & Fiske 2006) ist das Fundament von Yus Theorie
+- [[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]] — Sie liest die Entmenschlichung mit der Genozidforschung als Frühwarnzeichen der Gewalt. Yus Befund, dass wir alle täglich entmenschlichen, erklärt, warum dieses Zeichen allein wenig vorhersagt.
 
 ---
 

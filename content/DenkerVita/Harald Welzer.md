@@ -137,6 +137,7 @@ Welzer fragt, welche Deutungsrahmen das Töten zur Arbeit machten; Heitmeyer fra
 
 ---
 - **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Nennt seinen Vater ohne Milderung einen NSDAP-Aktivisten, ein Gegenfall zu *Opa war kein Nazi*.
+- [[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]] — Die Gewaltforscherin findet bei jedem Gewaltakteur eine Selbstrechtfertigung („nicht alles, was legitimiert ist, ist auch legitim“). Welzers Täter, die sich im Recht fühlten, sind der Fall, an dem sie Simone Weils Symmetrie von Täter und Opfer bestreitet.
 
 ## Gedankenwelten-Notes
 

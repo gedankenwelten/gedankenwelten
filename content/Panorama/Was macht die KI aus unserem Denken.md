@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-11-09
+aktualisiert: 2026-11-10
 description: "Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -165,6 +165,8 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 
 Älter als jede KI ist die Lücke in der Verwaltung, und dort zeigt sie ihr gewöhnlichstes Gesicht. Mit der Informationstechnik wandert das Ermessen vom Schalter in den Entscheidungsbaum, zu Juristen und Entwicklern, die den einzelnen Fall nie sehen ([Bovens & Zouridis 2002](https://doi.org/10.1111/0033-3352.00168)); Roy Heidelberg liest das als Arendts „Herrschaft des Niemand“, in der Gedankenlosigkeit zum Design wird ([Heidelberg 2026](https://doi.org/10.1177/00953997261421492)). Die niederländische Kindergeld-Affäre (rund 26.000 fälschlich beschuldigte Eltern, Rücktritt der Regierung 2021), das australische *Robodebt* (rund 470.000 unrechtmäßige Rückforderungen, „a crude and cruel mechanism“ laut [Royal Commission 2023](https://pm.gov.au/media/final-report-royal-commission-robodebt-scheme)) und der britische *Horizon*-Skandal (über 900 verurteilte Unterpostmeister) zeigen dasselbe Muster: Untersuchungen fanden jedes Mal Menschen, die wussten, was sie taten, und eine Maschine, hinter der sie sich verbergen konnten. Der Mensch in der Schleife ist dabei kein sicherer Schutz. In Experimenten folgten Bürger dem Algorithmus vor allem dann, wenn er ein Vorurteil bestätigte ([Alon-Barkat & Busuioc 2023](https://doi.org/10.1093/jopart/muac007)), und Aufsichtspflichten können fehlerhafte Systeme eher legitimieren, als sie zu korrigieren ([Green 2022](https://doi.org/10.1016/j.clsr.2022.105681)). Umgekehrt zwingt ein Algorithmus dazu, Ziele und Daten aufzuschreiben, und macht Diskriminierung damit nachweisbarer als ein menschlicher Kopf ([Kleinberg et al. 2018](https://doi.org/10.1093/jla/laz001)).
 
+Zur Frage, wer verantwortet, kommt die Frage, wie viel Zeit dem Urteil bleibt. Zeitdruck gehört zu den Verstärkern des blinden Vertrauens in die Maschine ([Goddard, Roudsari & Wyatt 2011](https://doi.org/10.1136/amiajnl-2011-000089), systematische Übersicht) und macht die Fehler nach falschem maschinellem Rat schwerer ([Rosbach u. a. 2025](https://doi.org/10.1007/978-3-658-47422-5_27), kleines Experiment). 2003 schoss das hochautomatisierte Flugabwehrsystem Patriot im Irak zwei verbündete Flugzeuge ab; die Armee habe dem System „naiv“ vertraut, schreibt John Hawley, der die Aufarbeitung leitete, und danach wurde den Einheiten die Befugnis entzogen, selbstständig zu feuern ([Hawley, *Patriot Wars*, CNAS 2017](https://www.cnas.org/publications/reports/patriot-wars)). Wo der Ablauf für einen Menschen zu schnell ist, lässt sich der Abstand für das Urteil nur vorher einbauen, in Regeln und Befugnisse. Politisch stimmten am 29. Oktober 2026 im Ersten Ausschuss der UN-Generalversammlung 163 Staaten für eine Resolution, die Verhandlungen über ein Instrument zu autonomen Waffen verlangt ([Stop Killer Robots](https://stopkillerrobots.org/news/163-states-support-unga-resolution-on-autonomous-weapons/)).
+
 **Die Stimmen**
 
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Wenn niemand mehr Befehle befolgt|Dietmar Dath]]:** Der Wärter berief sich auf Befehle; *„wenn es eine KI ist, gibt's nicht mal mehr das. Da ist niemand mehr.“* Mit Brandom: Bedeutung heißt, für das Gesagte einzustehen.
@@ -176,7 +178,7 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 - **[[Yuval Noah Harari — Das biologische Drama unserer Spezies#KI ist kein Werkzeug — sie ist ein Agent|Yuval Noah Harari]]:** Die KI ist ein Messer, das selbst entscheidet, ob es Salat schneidet oder mordet; bald stellt sich die Frage, ob man sie als Rechtsperson anerkennt.
 - **[[Adam Tooze — Pentagon vs. Anthropic#Der Konflikt: Pentagon gegen Anthropic|Adam Tooze]]:** Eine Firma zog rote Linien gegen autonome Waffen und Massenüberwachung, die das Pentagon nicht ziehen wollte, und wurde dafür bestraft; manchmal trägt der Hersteller die Verantwortung, die der Staat ablehnt.
 
-<details><summary>Weitere Stimmen (7)</summary>
+<details><summary>Weitere Stimmen (8)</summary>
 
 - **[[Hannah Arendt — Die Banalität des Bösen#Die Herrschaft des Niemand im Algorithmus|Hannah Arendt]]:** Die Bürokratie ist die Herrschaft des Niemand, eine Tyrannei ohne Tyrannen; das größte Böse begehen Menschen, die sich weigern, jemand zu sein — und ein Programm bietet ihnen dafür das beste Versteck.
 - **[[Roberto Simanowski — Sprachmaschinen#Midas im Maschinenraum|Simon Roloff]]:** Die Firmen haben ihre Verfassungen und Blogposts, *„aber dann eben doch entwickeln, genau wie sie entwickeln wollen, weil das Rennen eben nicht aufhört“*.
@@ -185,6 +187,8 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 - **[[Der leere Turm - wie Macht herrenlos wird#Der leere Turm|Luc]]:** Wer eine Maschine besitzt, die er nicht mehr beurteilen kann, ist nominell Herr und faktisch Passagier; die Macht verschwindet nicht, sie hört nur auf, jemandes zu sein.
 - **[[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken#Publikumsfragen|Constanze Kurz (2014)]]:** Ob Auftraggeber, Programmierer oder Anwender eines Handelsalgorithmus haften, werde sich kaum lösen lassen, weil die Anwender die Technik oft selbst nicht mehr verstehen.
 - **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Europa als gefesselter Prometheus|Markus Gabriel]]:** Europa erzählt sich ein Märchen, wenn es sich für den guten Werteregulierer hält; in den USA gibt es längst Klagewege gegen schädliche KI-Produkte.
+
+- **[[Simone Weil — Die Ilias oder das Poem der Gewalt#Der kleine Abstand|Hanna Pfeifer]]:** Eine Hemmung der Gewalt kann nur im kleinen Abstand zwischen Impuls und Handlung entstehen, den Simone Weil beschreibt; KI in Waffensystemen soll genau diese Spanne zwischen erkannter Gefahr und Gegenschlag verkürzen.
 
 </details>
 
@@ -279,6 +283,7 @@ Bei wissenschaftlichen Aufsätzen verhandeln meist die Verlage, nicht die Forsch
 | 05.11.2026 | [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#Wem gehören die Paper?\|Jacob Beautemps — Made in Germany Awards 2026 KI]] | Wem gehören die Paper: Verlagsdeals (Informa 75 Mio. $, Wiley), Cambridge fragt vorher, OUP-Umfrage 8 %, CC BY, § 60d/§ 44b UrhG, AlphaFold und die PDB (Jumper 2021) · Beautemps, Ono |
 | 07.11.2026 | [[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken#Nachbesprechung\|Algorithmen, die zocken]] | Was seit 2014 geschah: MiFID II, blockierte Transaktionssteuer, Blitzstürze bis Citigroup 2022 (Mensch tippt, Algorithmus führt aus), der 5. November 2026 |
 | 09.11.2026 | [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Nachbesprechung\|Markus Gabriel — KI als Resonanzfeld und Mu]] | Ist die Maschine Kreativität: Hubert, Koivisto & Grassini, Wang/Uzzi, Bellemare-Pepin, Haase, Chakrabarty, Magni, Shin (Go); Wahnspiralen: Østergaard, Shah & Morrin, Diel, Augustin/Pollak/Morrin, OpenAI 0,07 %, Human Line Project, SB 243, FTC, Klagen gegen OpenAI, Produkthaftung (EU) 2024/2853 · Gabriel als Stimme bei Spiegel und Verantwortung |
+| 10.11.2026 | [[Simone Weil — Die Ilias oder das Poem der Gewalt#Nachbesprechung|Simone Weil — Die Ilias oder das Poem der Gewalt]] | Wer trägt Verantwortung: die Zeit als eigener Mechanismus (Goddard 2011, Rosbach 2025, Horowitz & Kahn 2024), Patriot 2003 (Hawley), Lavender und die zwanzig Sekunden, Schwarz gegen Arkin, UN-Resolution vom 29.10.2026 · Pfeifer als Stimme |
 
 ---
 

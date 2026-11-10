@@ -87,6 +87,7 @@ Dahlmann argumentiert als wissenschaftliche Politikberaterin aus der Friedens- u
 - [[DenkerVita/Jan van Aken]] — Van Aken war UN-Biowaffeninspekteur und kennt Rüstungskontrolle als Handwerk der Verifikation. Er kommt aus dem Feld, in dem es ein vollständiges Verbot gibt; Dahlmann hält ein solches für autonome Waffen für unrealistisch. Zwischen beiden steht die Frage, ob sich Software überhaupt so inspizieren lässt wie ein Labor.
 - [[DenkerVita/Wolfgang Huber]] — Hubers Satz „Maschinen assistieren, Menschen verantworten" ist die ethische Fassung von „meaningful human control". Weil er rechtserhaltende Gewalt für möglich hält, etwa die Unterstützung der Ukraine, fragt er wie Dahlmann nicht, ob Gewalt verschwindet, sondern wie sie an Recht und an eine verantwortliche Person gebunden bleibt.
 - [[DenkerVita/Achille Mbembe]] — Mbembe nennt die Macht, über den Tod zu verfügen, Nekropolitik und sieht in Drohnen und algorithmischer Sortierung eine Herrschaft, die Gewalt rationalisiert. Er schreibt von außerhalb der Verhandlungsräume, Dahlmann arbeitet in ihnen, an Normen, denen Staaten zustimmen können. Ihre feministische Frage, wessen Verletzlichkeit zählt, liegt nah an seiner.
+- [[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]] — Die Gewaltforscherin begründet mit Simone Weil, warum verkürzte Reaktionszeiten gefährlich sind: Gewalt lässt sich nur im Abstand zwischen Impuls und Handlung hemmen, und genau den nimmt die KI in Waffensystemen weg.
 
 ---
 

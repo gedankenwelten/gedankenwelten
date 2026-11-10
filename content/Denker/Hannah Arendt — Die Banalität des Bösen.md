@@ -392,6 +392,10 @@ Die Herrschaft des Niemand bei der deutschen Polizei: eine Analyse, die Zeugen u
 
 Ein Berater verspricht bewaffneten Beamten „federal immunity“, ein Kommandeur gibt Befehle „all the way to the top“. Das Gegenteil von Arendts Satz, dass niemand das Recht hat, zu gehorchen.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Der kleine Abstand|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Weil fand den Raum für das Denken zwanzig Jahre vor Eichmann in einem kleinen Abstand zwischen Impuls und Handlung, den die Gewalt auffrisst. Arendt macht daraus eine Pflicht des Einzelnen, Weil beschreibt eine Macht, die ihn wegnimmt.
+
 ---
 
 ## Weiterdenken

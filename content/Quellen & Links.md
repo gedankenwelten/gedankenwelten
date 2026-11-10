@@ -262,6 +262,16 @@ tags:
 | **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
 | **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Bengert_Aufmerksamkeit_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 
+## Simone Weil — Die Ilias oder das Poem der Gewalt (Haus am Dom Frankfurt, 2022)
+
+| | |
+|---|---|
+| **Video** | [Wiederentdeckt: Simone Weils „Poem der Gewalt“](https://www.youtube.com/watch?v=qVNumPF-nu4) — Lesung und Gespräch, Katholische Akademie Rabanus Maurus im Haus am Dom, Frankfurt, 30.09.2022 (86 Min.), Moderation Johannes Lorenz, Lesung Birgit Heuser |
+| **Notiz** | [[Denker/Simone Weil — Die Ilias oder das Poem der Gewalt]] |
+| **DenkerVita** | [[DenkerVita/Simone Weil]] · [[DenkerVita/Hanna Pfeifer]] |
+| **Buch** | Simone Weil: *Krieg und Gewalt. Essays und Aufzeichnungen*, übers. von Johanna-Charlotte Horst, Thomas Laugstien und Anouk Luhn, Diaphanes 2011 (Neuauflage 2025) |
+| **Transkript** | `Gedankenwelten/Transkripte/Weil_Poem_der_Gewalt_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
 ## Roberto Simanowski & Simon Roloff — Wenn Maschinen sprechen (Leuphana, Utopie-Konferenz 2026)
 
 | | |

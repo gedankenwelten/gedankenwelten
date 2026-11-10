@@ -405,6 +405,11 @@ Tania Singer gibt der Schieflage, die Bengert an Weil beschreibt, einen Namen au
 ### → [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Warum Geben froh macht|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
 
 Fred von Allmen dreht Bengerts Satz um: Nicht die Fülle macht das Geben möglich, das Geben macht reich. Das Gefühl der Armut kehrt zurück, sobald man schaut, was man noch kriegen könnte, bei genau gleichem Besitz.
+
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Die doppelte Versteinerung|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Der Ilias-Essay, Passage für Passage kommentiert von der Gewaltforscherin Hanna Pfeifer. Sie widerspricht der Symmetrie, die diese Note als Symmetrie der Wirkung rettet: Für Sklaverei und Kolonialismus treffe nicht einmal die Wirkung beide Seiten.
+
 ---
 
 ## Weiterdenken

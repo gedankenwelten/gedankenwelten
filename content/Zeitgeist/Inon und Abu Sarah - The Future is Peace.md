@@ -227,6 +227,10 @@ Verzicht auf Rache, ohne dass die Täter um Verzeihung gebeten hätten: In Bosha
 
 Die gespiegelten Biografien sind gelebte Betrauerbarkeit — das gemeinsame Trauern, das Mae Bengert mit Weils Ilias-Essay und Judith Butler als einzigen Ausweg aus der Gewaltspirale nennt.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Gnade und harte Arbeit|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Weil nennt die Freundschaft zwischen Todfeinden die höchste Gnade des Krieges. Die Gewaltforscherin Hanna Pfeifer antwortet, dafür brauche es harte Arbeit, Vermittler und Verfahren, und sie widerspricht jeder Symmetrie, die eine Asymmetrie verdeckt. Diese Spannung leben die beiden.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

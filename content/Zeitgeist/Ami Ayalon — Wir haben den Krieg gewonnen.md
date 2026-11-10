@@ -247,6 +247,10 @@ Die Note verarbeitet Ben-Gvirs Podcast-Aufruf zu nächtlichen Tötungen und die 
 
 „Nicht jeder Sieg ist ein Gewinn“: Leonhards zehnte These und sein „langes Ende“, in dem militärische und politische Logik auseinanderlaufen, von der anderen Seite her gelesen.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Publikumsfragen|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Die Gewaltforscherin Hanna Pfeifer trennt die Legitimation von Gewalt von ihrer Legitimität und nennt Selbstverteidigung legitim; Simone Weil hält dagegen, dass Gewalt auch die Seele dessen versteinert, der sie zu Recht ausübt. Ayalons gerechter Krieg mit Verfallsdatum steht zwischen beiden.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

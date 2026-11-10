@@ -388,6 +388,10 @@ Japan ist für Leonhard neben Deutschland der erfolgreichste Lernprozess nach ei
 
 Die beiden wachsenden Panoramen, in die die Nachbesprechung führt.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Gnade und harte Arbeit|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Simone Weil nennt die Freundschaft zwischen Todfeinden eine Gnade; die Gewaltforscherin Hanna Pfeifer antwortet mit Vermittlern, Verfahren und Transitional Justice. Leonhards „Doing peace“ ist die Geschichte dieser Arbeit.
+
 ---
 
 ## Weiterdenken

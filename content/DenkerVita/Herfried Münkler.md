@@ -134,6 +134,7 @@ Innenpolitisch überrascht er mit Vorschlägen, die quer zum sicherheitspolitisc
 
 Beide erzählten zum Jahrhundertjahr den Ersten Weltkrieg in einem großen Buch und lesen den Dreißigjährigen Krieg als Modell; Münkler denkt von der Geopolitik her, Leonhard von Opferlogik, Erwartungen und Garantien.
 
+- [[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]] — Sie greift sein Wort von der postheroischen Gesellschaft auf und hört 2022 den Heroismus zurückkehren, wo er die Postheroik fortbestehen sieht.
 
 ---
 

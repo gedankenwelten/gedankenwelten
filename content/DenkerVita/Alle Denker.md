@@ -578,6 +578,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## P
 
+**[[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]]** — Politikwissenschaft, Gewalt- und Konfliktforschung; leitet am IFSH Hamburg den Forschungsbereich Gesellschaftlicher Frieden und Innere Sicherheit und erforscht, wie islamistische und jihadistische Akteure in Westasien und Nordafrika Ordnung bilden; las 2022 Simone Weils Ilias-Essay als Gewaltforscherin
+
 **[[DenkerVita/Bernd Pickert|Bernd Pickert]]** — Journalist, seit 1994 in der taz-Auslandsredaktion (USA, Lateinamerika, Menschenrechte); hält Trump nach den Midterms für keine lahme Ente und das Ergebnis für eine Brandmauerwahl
 
 **[[DenkerVita/Witold Pilecki|Witold Pilecki]]** — Widerstandskämpfer, ließ sich 1940 nach Auschwitz verhaften, um zu berichten; 1948 vom kommunistischen Regime hingerichtet, heute Staatsheld und umkämpftes Symbol

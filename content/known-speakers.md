@@ -1375,3 +1375,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Fred von Allmen
 **Status:** ✓ Vollanalyse → [[DenkerVita/Fred von Allmen]]
+
+## Hanna Pfeifer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hanna Pfeifer]]

@@ -353,6 +353,10 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Bregman und Neiman greifen dasselbe Menschenbild an, von gegenüberliegenden Seiten. Bregman antwortet der Evolutionspsychologie mit besserer Biologie. Neiman bezweifelt, dass die Biologie unserer Vorfahren hier überhaupt etwas entscheiden kann.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Die doppelte Versteinerung|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Weils „doppelte Versteinerung“ ist der literarische Vorläufer von Bregmans innerem Preis des Tötens; die Befunde zur Lust am Kampf zeigen, für wen er nicht gilt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

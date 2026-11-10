@@ -599,6 +599,10 @@ Was der Reportage fehlt, die Sicherheitspolitik, steht hier mit Forschung auf be
 „Leute, die größenwahnsinnig sind“, steht auf der Seite der Abschreckung; Nymoens Krieg aus der Konkurrenz der Staaten
 liegt nah am Sicherheitsdilemma, geht aber weiter, weil er die Staaten selbst infrage stellt.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Die doppelte Versteinerung|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Weil beschrieb 1939/40 an der *Ilias*, was die Forschung heute moralische Verletzung nennt: Die Gewalt versteinert auch den, der sie ausübt. Die Gewaltforscherin Hanna Pfeifer fordert dazu, das Entscheiden über Krieg enger an das Erleben auf dem Schlachtfeld zu binden.
+
 ---
 
 ## Weiterdenken

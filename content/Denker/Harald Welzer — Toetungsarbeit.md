@@ -295,6 +295,10 @@ Ein Sohn erzählt seinen Vater, ohne ihn besser zu machen: NSDAP, „ziemlicher 
 
 Die Gegenbewegung zum Familien-Kaleidoskop: Memorials Geschichtswettbewerb schickte russische Jugendliche in die Archive, um gegen die Familienerzählung herauszufinden, was mit den Großeltern war.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Die doppelte Versteinerung|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Weil schrieb 1939/40, Gewalt versteinere die Seelen der Täter so sehr wie die der Opfer. Welzers Täter, die gut mit ihren Morden lebten, sind der Einwand, den die Gewaltforscherin Hanna Pfeifer dagegen für Sklaverei und Kolonialismus erhebt.
+
 ---
 
 ## Weiterdenken

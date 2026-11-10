@@ -277,6 +277,10 @@ Ein Ex-Neonazi erzählt, wie die Szene jede Gewalt zur Notwehr umdeutet; ein Sch
 
 Boshammers Geständnis, es falle ihr schwer, bei Rechten Überzeugung und Person zu trennen, ist Rehumanisierung im Selbstversuch: die Lügnerin wieder als Person sehen, die gelogen hat.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Bei lebendigem Leib ein Ding|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Weils Satz, vor einem Menschen in der Gewalt anderer verhalte man sich wie vor einem Hinweisschild, ist Yus Stuhl in der Sprache von 1940. Die Gewaltforscherin Hanna Pfeifer schließt daran die Genozidforschung an: Entmenschlichung in der Sprache als Frühwarnzeichen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

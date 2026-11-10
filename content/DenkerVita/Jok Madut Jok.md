@@ -69,6 +69,7 @@ Jok gilt als unabhängiger Intellektueller, der weder der Regierung noch der Opp
 - [[DenkerVita/Maoz Inon]] — Dieselbe Frage, was Frieden ist, von beiden Enden her. Inon und [[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]] bauen ihn von unten als gewählte Beziehung zwischen Feinden, Jok zeigt den Frieden von oben, der das Leben der Menschen nie erreicht; sein Ruf an die Dinka, nicht zu schweigen, während die Nuer bombardiert werden, ist bei ihm Klage, was bei den beiden Praxis ist.
 - [[DenkerVita/Hannah Arendt]] — Jok weigert sich, angesichts der Gräuel das Denken einzustellen, und rührt damit an Arendts Frage nach der Urteilskraft. Sein zermürbter Bürger, zu erschöpft, um noch Machtfragen zu stellen, ist die Kehrseite des mobilisierten Menschen, den Arendt im Totalitarismus beschrieb, und entlastet die Macht auf seine Weise ebenso.
 - [[DenkerVita/Konstantin Flemig]] — Flemig berichtet über den Krieg im Sudan, weil das Wegsehen der Welt selbst Folgen hat. Jok beschreibt diese Folgen von innen: Seit die Welt ihre Hände vom Südsudan gewaschen hat und nur noch Botschafter schickt, fehlt den Machthabern in Juba jeder Druck von außen, und der Krieg nebenan hat den Markt zerstört, von dem der Südsudan lebte.
+- [[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]] — Die Friedensforscherin untersucht Ordnung im Bürgerkrieg im Irak und fragt wie Jok nach dem Interesse hinter der Gewalt. Gegen Frieden durch Unterschrift setzt sie Vermittler und Verfahren der Transitional Justice.
 
 ## Gedankenwelten-Notes
 

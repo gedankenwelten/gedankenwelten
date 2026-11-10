@@ -160,6 +160,10 @@ Joks Unterscheidung zwischen dem Schweigen der Waffen und dem Frieden im Leben d
 
 Widerspruch zum Elitenpakt: Leonhard sieht im Wiener Kongress, wo Aristokraten unter sich verhandelten, einen Frieden, der hielt, und in Dayton immer noch das kleinere Übel gegenüber dem eskalierten Krieg.
 
+### → [[Simone Weil — Die Ilias oder das Poem der Gewalt#Gnade und harte Arbeit|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+
+Die Gewaltforscherin Hanna Pfeifer liest Weils Ilias gegen die Gegenwart: Konflikte ohne Anfang und Ende, in denen niemand mehr gewinnt. Gegen den Deus ex Machina setzt sie Vermittler, Verfahren und Wahrheitskommissionen, das, was Joks Elitenpakt fehlte.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
