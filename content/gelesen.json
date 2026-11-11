@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 918,
-   "aufrufe": 1095
+   "leser": 917,
+   "aufrufe": 1094
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 59,
-   "aufrufe": 70
+   "leser": 60,
+   "aufrufe": 71
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 15,
-     "aufrufe": 18
+     "leser": 16,
+     "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -474,6 +474,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Pascal-Kaufmann",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Geistesblitz/ARTE-42-Koennen-wir-uns-aendern",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Albert-Moukheiber",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 918,
-     "aufrufe": 1095
+     "leser": 917,
+     "aufrufe": 1094
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 59,
-     "aufrufe": 70
+     "leser": 60,
+     "aufrufe": 71
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 997,
-     "aufrufe": 1199
+     "leser": 996,
+     "aufrufe": 1198
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -950,8 +950,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 67,
-     "aufrufe": 78
+     "leser": 68,
+     "aufrufe": 79
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 997,
-     "aufrufe": 1199
+     "leser": 996,
+     "aufrufe": 1198
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1255,8 +1255,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 67,
-     "aufrufe": 78
+     "leser": 68,
+     "aufrufe": 79
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 34,
-     "aufrufe": 34
+     "leser": 35,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1799,6 +1799,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Pascal-Kaufmann",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 2,
      "aufrufe": 2
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Christoph-Hein-Geooekonomie-NEU-DENKEN",
      "leser": 2,
      "aufrufe": 2
     }

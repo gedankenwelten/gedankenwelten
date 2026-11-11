@@ -96,7 +96,7 @@ Der zweite Einspieler kommt nach Oettings Zahlen ([▶ 6:05](https://www.youtube
 Oetting lässt die Stimmen stehen, ohne sie zu erklären, und ihre Rüstungskritik übernimmt er nicht. *„Ja, die Rüstungsausgaben spielen auch eine Rolle“*, sagt er, *„und ich gebe ganz offen zu, dass ich angesichts eines Wladimir Putin auch nicht weiß, was der angemessene Umgang mit so einer militärischen Bedrohung ist“* ([▶ 6:10](https://www.youtube.com/watch?v=K8H671yc_xY&t=370)). Es ist der ehrlichste Satz des Videos. Er zeigt aber auch, wie er die Proteste liest. „Gen Z regelt“ hat sechs Forderungen, darunter Nein zur Wehrpflicht, Grundrechte statt Überwachung und Klimaschutz ([[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]). Oetting hört vor allem eine davon: *„Lasten gerecht verteilen, statt bei der jungen Generation zu sparen.“* Das ist die, die zu seiner Geschichte passt. Die Jungen sprechen breiter, als er sie zitiert.
 
 > [!question] Weitergedacht
-> Lela sagt, ihre Generation sehe „keine Zukunft mehr“. Oetting sagt, das Wachstum komme nicht wieder. Wie spricht man mit jemandem, der Angst vor der Zukunft hat, über eine Zukunft ohne Wachstum, ohne die Angst zu bestätigen?
+> Lela sagt, ihre Generation habe Angst vor der Zukunft, aber nicht, wovor genau. Vor der Musterung, vor dem Klima, vor der tropfenden Decke in der Uni, oder davor, dass niemand zuhört? Und was geht verloren, wenn man diese Angst gleich in eine Frage des Geldes übersetzt?
 
 ### Reich, aber ungleich
 
