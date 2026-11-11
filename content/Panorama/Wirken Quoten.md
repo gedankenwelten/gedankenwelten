@@ -2,8 +2,8 @@
 title: "Wirken Quoten?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-10
-description: "Ein Platz am Tisch, reserviert: Was ändert eine Quote unterhalb der Quote, wen hebt sie und wen nicht, und kostet sie die, die sie heben soll, ihr Ansehen? Drei offene Fragen und die Stimmen, die an ihnen reiben."
+aktualisiert: 2026-11-11
+description: "Ein Platz am Tisch, reserviert: Was ändert eine Quote unterhalb der Quote, wen hebt sie und wen nicht, kostet sie die, die sie heben soll, ihr Ansehen, und ändert sie, was entschieden wird? Vier offene Fragen und die Stimmen, die an ihnen reiben."
 raetsel: "Der Stuhl war frei gehalten. Gesessen hat, wer die Treppe kannte."
 panorama-art: wachsend
 tags:
@@ -90,13 +90,32 @@ Auf der anderen Seite steht das Vorbild, und das Gefühl, nicht vorzukommen. Wer
 
 ---
 
+## Ändert sie, was entschieden wird?
+
+Die ersten drei Fragen handeln davon, wer an den Tisch kommt. Diese fragt, ob sich ändert, was am Tisch beschlossen wird. Sie ist älter als jede Quote: 1919 war in der Nationalversammlung knapp ein Zehntel der Abgeordneten weiblich, danach sank der Anteil bis zum Reichstag ohne eine einzige Frau. Der Bundestag begann 1949 mit 6,8 Prozent und hat seit der Wahl 2025 32,4 Prozent Frauen, ohne gesetzliche Quote ([Bundestag](https://www.bundestag.de/dokumente/textarchiv/2025/kw09-wahlergebnis-statistik-1055550)). Die Paritätsgesetze Thüringens und Brandenburgs erklärten die Landesverfassungsgerichte 2020 für nichtig, das Bundesverfassungsgericht ließ die Frage offen ([BVerfG, 2 BvC 46/19](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-011.html)).
+
+**Der Sachstand.** Ob eine Quote auch ändert, was entschieden wird, hängt vom Ort ab. In indischen Dörfern, deren Vorsitz per Los Frauen vorbehalten war, floss mehr Geld in das, was Frauen am dringendsten brauchten ([Chattopadhyay & Duflo 2004](https://doi.org/10.1111/j.1468-0262.2004.00539.x), Zufallsexperiment). Weltweit folgten auf große Quotensprünge höhere Gesundheits- und niedrigere Militärausgaben, wo die Quote tatsächlich viele Frauen ins Parlament brachte ([Clayton & Zetterberg 2018](https://doi.org/10.1086/697251), Ländervergleich 1995–2012). In reichen Ländern ändern sich die Haushalte kaum, wohl aber Debatten und einzelne Entscheidungen ([Hessami & Lopes da Fonseca 2020](https://doi.org/10.1016/j.ejpoleco.2020.101896), Übersichtsarbeit). Spaniens Listenquoten brachten mehr Gemeinderätinnen, aber keine anderen Finanzen und kaum Bürgermeisterinnen ([Bagues & Campa 2021](https://doi.org/10.1016/j.jpubeco.2020.104315), Regressions-Diskontinuität). In Bayern beschleunigte eine zusätzliche Rätin den Kita-Ausbau um 40 Prozent, wo bisher wenige Frauen saßen ([Baskaran & Hessami 2025](https://doi.org/10.1162/rest_a_01352), Regressions-Diskontinuität).
+
+Was fehlt: eine Antwort für Parlamente, in denen schon ein Drittel Frauen sitzt. Die starken Befunde stammen aus Gemeinderäten und aus Ländern, in denen der Staat wenig liefert.
+
+**Die Stimmen**
+
+- **[[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Von einem Zehntel zu einem Drittel|Hedwig Richter]]:** 1919 kam das Wahlrecht schneller als die Sitze; knapp ein Zehntel Frauen galt im Vergleich als viel, danach sank der Anteil wieder.
+- **[[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung#Vorbilder und der Tisch, an dem entschieden wird|Malala Yousafzai]]:** Mädchen brauchen Vorbilder an dem Tisch, an dem über sie entschieden wird.
+- **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Eine Ost-Quote?|Juli Zeh]]:** Eine Quote allein ändert wenig, solange zu Hause jemand fehlt, der Familie und Haushalt übernimmt.
+
+> [!question] Die Reibung
+> In Westbengalens Dörfern veränderte die Ratsvorsitzende, wofür Geld ausgegeben wurde, in Spaniens Gemeinden änderte die Listenquote die Finanzen nicht. *Wirkt eine Frau am Tisch dort am meisten, wo der Staat am wenigsten liefert, und was hieße das für einen Bundestag, der schon zu einem Drittel weiblich ist?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
 |---|---|---|
 | 08.10.2026 | [[Raul Krauthausen — Teilgabe statt Teilhabe#Nachbesprechung|Raúl Krauthausen — Teilgabe statt Teilhabe]] | Wirken Quoten? Ausgleichsabgabe (§ 160 SGB IX), Beaman 2009/2012, Greig et al. 2023 |
 | 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Eine Ost-Quote? Elitenmonitor, Vogel 2022, Rivera 2012, Bertrand 2019, Besley 2017, Art. 36 GG |
-| 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Von einem Zehntel zu einem Drittel\|Hedwig Richter — Petitionen statt Barrikaden]] | Frauen im Parlament 1919 und heute (Bundestag 32,4 %, Nationalrat 36,1 %, IPU), ändern Frauen die Politik? (Hessami & Lopes da Fonseca, Chattopadhyay & Duflo, Clayton & Zetterberg, Bagues & Campa, Gendźwiłł u. a., Baskaran & Hessami), Paritätsgesetze Thüringen/Brandenburg 2020, BVerfG 2 BvC 46/19 · Juli Zeh |
+| 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Von einem Zehntel zu einem Drittel\|Hedwig Richter — Petitionen statt Barrikaden]] | Neue vierte Frage „Ändert sie, was entschieden wird?“: Frauen im Parlament 1919 und heute (Bundestag 32,4 %, Nationalrat 36,1 %, IPU), ändern Frauen die Politik? (Hessami & Lopes da Fonseca, Chattopadhyay & Duflo, Clayton & Zetterberg, Bagues & Campa, Gendźwiłł u. a., Baskaran & Hessami), Paritätsgesetze Thüringen/Brandenburg 2020, BVerfG 2 BvC 46/19 · Juli Zeh |
 
 ---
 
