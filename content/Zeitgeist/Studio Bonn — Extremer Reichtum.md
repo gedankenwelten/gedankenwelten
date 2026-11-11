@@ -559,6 +559,10 @@ Diese Note setzt auf die Einsicht der Vermögenden. Hartmanns Zahl macht diese H
 
 Marlene Engelhorn wäre damit keine Vorhut einer Einsicht, sondern eine statistisch dünn besetzte Ausnahme. Hartmanns Konsequenz fällt entsprechend anders aus: Er verlässt sich nicht auf das Gewissen der Erben, sondern auf Eigentumsfragen, Genossenschaften und den Umweg über die Zusammensetzung derer, die entscheiden.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Wo Friedrichs den Einwand der Reichen ausspricht, um ihn zu prüfen, erklärt Oetting denselben Satz aus dem Mund einer Frau, die im Betrieb sauber macht, zum Beweis einer Lüge; seine Nachbesprechung fragt, ob Reiche wie Engelhorn mehr zahlen wollen.
+
 ---
 
 ## Weiterdenken

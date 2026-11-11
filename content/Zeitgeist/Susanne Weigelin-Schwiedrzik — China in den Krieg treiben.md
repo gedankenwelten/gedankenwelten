@@ -352,6 +352,9 @@ Der empirische Gegenpol zu ihrem Bild eines China, das Häfen baut statt Stützp
 
 Der Magnet, um den hier gepokert wird, hat einen Erfinder: Masato Sagawa, 2024 in Valletta ausgezeichnet, ein Japaner, dessen Erfindung inzwischen fast ganz in China gefertigt wird.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Die Kosten der Sanktionen für die Bevölkerung führt der AfD-Abgeordnete Rainer Rothfuß mit einer Lancet-Studie über 564.000 Todesfälle im Jahr an und macht daraus ein Völkerrechtsargument gegen das Kuba-Embargo.
 
 ---
 

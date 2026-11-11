@@ -2,7 +2,7 @@
 title: "Was fordert die Gen Z?"
 date: 2026-11-02
 erstellt: 2026-11-02
-aktualisiert: 2026-11-06
+aktualisiert: 2026-11-11
 panorama-art: wachsend
 description: "Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat."
 raetsel: "Sechs Sätze auf Pappe. Jeder Satz hat ein Ministerium."
@@ -269,6 +269,23 @@ nach denen, die sie wählen, sagt die Politikwissenschaftlerin Pia Jaeger
 | **„Demokratie leben!“** | von 204,5 auf 170,1 Mio. € gekürzt (Entwurf 2027) | [Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw37-de-bildung-1194740) |
 | **Freiwilligendienste** | unverändert | [Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw37-de-bildung-1194740) |
 | **Erbschaftsteuer** | offen, Urteil des BVerfG erwartet | [PwC](https://blogs.pwc.de/de/steuern-und-recht/article/257300/erbschaftsteuer-2026-erste-eindruecke-aus-der-muendlichen-verhandlung-vor-dem-bundesverfassungsgericht/) |
+
+**Wollen die Reichen zahlen?** Einige ja, und sie sagen es öffentlich: Der Idealo-Mitgründer Albrecht von Sonntag
+nennt Steuern den *„notwendigen Treibstoff für unsere Demokratie“*, der Trivago-Gründer Rolf Schrömgens will die
+Freiheit, keine Steuern zu zahlen, gar nicht haben
+([regionalHeute nach dts](https://regionalheute.de/tech-unternehmer-begruessen-erbschaftsteuer-konzept-der-spd-1768473845/)),
+und Vermögende wie die von [taxmenow](https://www.taxmenow.eu/) halten die Erbschaftsteuer für „Ehrensache“. Unter
+den Reichsten insgesamt sind sie eine Minderheit; in den USA ist das reichste Prozent bei Steuern deutlich
+zurückhaltender als die übrige Bevölkerung ([Page, Bartels & Seawright 2013](https://doi.org/10.1017/s153759271200360x), Pilotstudie).
+Steuermoral hängt vor allem am Vertrauen in den Staat ([Horodnic 2018](https://doi.org/10.1108/ijssp-03-2018-0039), Übersichtsarbeit).
+Ob solche Bekenntnisse Politik bewegen, ist nicht untersucht. Mehr dazu in der
+[[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle#Steuerstolz Wollen Reiche mehr zahlen?|Nachbesprechung zu Oetting]].
+
+**Die Stimmen**
+
+- **[[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle#Zwei Wege|Martin Oetting]]:** Die Jungen tragen die Rechnung für fünfzig Jahre, in denen die Überreichen geschont wurden; die Politik müsse wählen zwischen gerechter Lastenteilung und Sündenböcken, an deren Ende die AfD steht.
+- **[[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Erbschaft, das günstigste Einkommen — und warum Geld Macht ist|Kevin Kühnert]]:** Richtig reich zu erben sei *„das günstigste Einkommen, das man in Deutschland überhaupt haben kann“*, und Geld bedeute Macht.
+- **[[Denker/Martyna Linartas — Unverdiente Ungleichheit#Das Grunderbe als Synthese|Martyna Linartas]]:** Deutschland sei eine Erbengesellschaft; ein Grunderbe, Startkapital vom Gemeinwesen für junge Erwachsene, soll die Chancen angleichen.
 
 **Die Einwände.** Die Verschonung von Betriebsvermögen schütze Familienunternehmen und Arbeitsplätze, sagen die
 Verbände in Karlsruhe. Die Haltelinie wird aus Steuern bezahlt, nicht über den Beitragssatz der Jungen. Und
@@ -541,6 +558,7 @@ Wie sie wirkt, ist kaum untersucht.
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 11.11.2026 | [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle#Nachbesprechung\|Martin Oetting — Die Gen-Z kämpft für uns alle]] | Lasten gerecht verteilen → Steuerstolz: was von Sonntag und Ahlers 2017 sagten, Schrömgens, taxmenow, Davos-Brief; Reiche als Minderheit (Page u. a. 2013), Steuermoral und Vertrauen (Horodnic 2018), Ausweichen bei Vermögensteuern (Brülhart u. a. 2022, Scheuer & Slemrod 2021), Norwegen (Bjørneby u. a. 2022) · erste Stimmenliste |
 | 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Nachbesprechung\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Mitbestimmen → Bringt erst Lärm Gehör? (Protestforschung, FFF-Wirkung) · Wirkt Beteiligung? (Arnstein, Schülervertretungen, Wahlberechtigte nach Alter, § 41a GemO) · BSK-Bildungsprotest am 20.11. · erste Stimmenliste |
 | 02.11.2026 | [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird\|Spur: Gen Z regelt — und was danach geregelt wird]] | Anlass des Panoramas; die Spur zählt, ob über diese Forderungen gesprochen wird |
 | 05.11.2026 | [[Zeitgeist/ZDF — Wehrdienst verweigern#Nachbesprechung\|ZDF — Wehrdienst verweigern]] | Wehrpflicht → was das Verweigerungsverfahren prüft: BAFzA-Maßstab, Zahlen 2025/2026 und zwei Zählstellen, Abiturientengrundrecht und Postkartennovelle, BVerfGE 12, 45 zur politischen Verweigerung |

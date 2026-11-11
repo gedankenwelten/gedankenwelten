@@ -212,3 +212,8 @@ Politisiert, aber unorganisiert: Das waren schon Arendts Massen.
 ### → [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z|ARD Mitreden — Woher kommt die Wut der Gen Z?]]
 
 Ein deutscher Fall: Nach den Gen-Z-Protesten steht eine anonyme Mobilisierung neben einer Schülervertretung, die zum 20. November mit GEW und Bundeselternrat aufruft, Repolitisierung und der Versuch, sie zu institutionalisieren, nebeneinander.
+
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Oetting leiht den Gen-Z-Protesten eine große Erzählung; an ihnen wird sich zeigen, ob Hyperpolitik eine Adresse findet.
+

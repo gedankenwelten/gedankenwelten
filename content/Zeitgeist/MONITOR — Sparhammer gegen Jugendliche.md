@@ -212,6 +212,10 @@ Was hinter der Altersgrenze der Jugendhilfe liegt, zeigt die Drogenhilfe Halle: 
 
 Fünf Monate später nennt ein Jugendforscher im Radio die Jugendhilfe „krass gekürzt“. Die Gesamtausgaben widerlegen das, die offene Jugendarbeit wuchs kaum, und die Pläne aus dieser Note stehen noch bevor.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Priens Satz über das fehlende Wachstum ist die Kette, die Martin Oetting im November den Gen-Z-Protesten unterlegt.
+
 ---
 
 ## Weiterdenken

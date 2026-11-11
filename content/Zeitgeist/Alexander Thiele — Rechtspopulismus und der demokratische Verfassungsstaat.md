@@ -387,6 +387,12 @@ Die Brandmauer, die stumpfe Klinge und der Moment 2013–2015, in dem es einmal 
 
 Auf „Ein Land ohne 2050“ antwortet eine Verfassungsjuristin mit einem Verfahren statt einer Erzählung: Sie liest aus dem Grundgesetz ein Recht auf Zukunft und will ihm einen Zukunftsrat junger Menschen geben.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Die BSW-Politikerin Claudia Wittig nennt die Kontaktschuld „ein fürchterliches undemokratisches Ding“ und will in Sachsen-Anhalt Mehrheiten mit der AfD „quer durchs Spektrum“ organisieren — die Gegenposition zu Thieles Papen-Warnung.
+
+---
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

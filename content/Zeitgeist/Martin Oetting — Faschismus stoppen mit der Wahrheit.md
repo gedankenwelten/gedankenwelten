@@ -243,6 +243,10 @@ An der Erbschaftsteuer zeigt sich Oettings Programm „die Wahrheit sagen“ im 
 
 Am Driouich-Video lässt sich prüfen, ob Oetting den eigenen Wahrheitsanspruch einlöst: Er übernimmt das Bild vom umgeleiteten Zorn, lässt aber die Einschränkungen seiner Quelle fallen.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Fünf Monate später lenkt Oetting die Angst der Jungen selbst in eine Wut, diesmal auf die Überreichen, und stellt die Politik vor die Wahl zwischen Steuerstolz und Sündenböcken.
+
 ---
 
 ## Weiterdenken

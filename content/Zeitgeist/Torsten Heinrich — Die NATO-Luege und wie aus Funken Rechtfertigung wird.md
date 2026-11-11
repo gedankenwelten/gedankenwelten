@@ -284,6 +284,10 @@ Uwe Krüger nannte 2017 den Machtwechsel in Kiew vorsichtig einen „Umsturz“ 
 
 Dieselbe Bauweise mit einem anderen Funken: Bei Sonneborn ist er ebenfalls wahr — Rüstungsfirmen verdienen am Krieg, und für den 90-Milliarden-Kredit haften am Ende die Bürger. Darauf baut er ein Gebäude, in dem Russland nicht mehr vorkommt und ein abgeschnittenes Verordnungszitat als Beweis dient.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Der AfD-Abgeordnete Rainer Rothfuß sagt zur Osterweiterung, es sei „wurscht, ob es Verträge gab oder nicht“, und erklärt zwei Jahrhunderte mit Mackinder. In dieser Schablone fehlt genau das Subjekt, das Heinrich zurückholt: die Länder, die beigetreten sind.
+
 ---
 
 ## Weiterdenken

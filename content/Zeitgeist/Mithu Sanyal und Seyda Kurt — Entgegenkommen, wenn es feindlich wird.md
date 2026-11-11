@@ -397,6 +397,10 @@ Das wachsende Panorama sammelt die Stimmen zwischen Šešelgytės „Casus Belli
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“ und „Muss man sich Großzügigkeit leisten können?“.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Sanyals Forderung nach demselben Völkerrecht für alle ist der Maßstab, an dem ein BSW-AfD-Podium über Frieden mit Russland scheitert: Der russische Angriff wird dort in 88 Minuten nicht ausdrücklich als Völkerrechtsbruch benannt.
+
 ---
 
 ## Weiterdenken

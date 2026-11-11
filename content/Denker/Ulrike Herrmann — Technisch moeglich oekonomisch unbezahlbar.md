@@ -421,6 +421,10 @@ Barbara Prainsack hält Nullsummendenken für eine Wurzel der Schließung und fr
 
 Herrmanns belohnter Herdentrieb hat im ARTE-Film einen Gesprächspartner: Der Ökonom Hanno Beck hält das Mitlaufen für rational, solange man in der Herde eine Information vermutet. Die Note entstand zwei Tage nach dem KI-Kurssturz vom 5. November 2026; ob das schon der Crash war, den Herrmann erwartet, ist offen.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Wo Herrmann das Ende des Wachstums bis zur Rationierung durchdenkt, macht Oetting daraus eine Verteilungsfrage an die Überreichen und ein Versprechen an die Gen Z.
+
 ---
 
 ## Weiterdenken

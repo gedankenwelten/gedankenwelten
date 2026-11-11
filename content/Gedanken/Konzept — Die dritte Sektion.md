@@ -17,6 +17,17 @@ aliases:
 
 # Konzept — Die dritte Sektion
 
+![[assets/Konzept-Die-dritte-Sektion-banner.jpg|Gemälde aus kleinen Farbpunkten: Ein Ufer in blauer Dämmerung, darauf viele Menschen in losen Gruppen, jede mit einem kleinen Licht. Die Lichter spiegeln sich im Wasser, fern am Horizont ein kleiner Leuchtturm.|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach Georges Seurat** — Pointillismus, das Bild aus lauter kleinen Punkten reiner Farbe, ruhige, fast geometrische Stille. Ein Ufer in der Dämmerung, viele Menschen, jeder mit seiner Lampe, und die vielen kleinen Lichter lassen zusammen das ganze Ufer glühen; fern am Horizont, klein, der alte Leuchtturm. Seurat, weil sein Verfahren die Idee der Note ist: ein offener Raum vieler kleiner Lichter statt eines einzigen Leuchtturms, ein Bild, das erst aus vielen Punkten entsteht.
+
+*Prompt:* A wide panoramic banner, 12:5 aspect ratio, in the pointillist style of Georges Seurat: the whole image built from small dots of pure colour, oil on canvas, quiet geometric stillness. A riverbank at dusk with many people, standing and sitting in loose groups, seen as calm simplified silhouettes; each person holds a small lantern or candle, and the many little lights together make the whole riverbank glow and are mirrored in the dark blue water. Far away on the horizon, small and faint, an old lighthouse. Deep blue, violet, warm orange and gold dots, soft evening haze. No text, no letters, no signature, no realistic faces.
+
+</details>
+
+
 *Entstanden in einem Gespräch über Mühlhoff, Bria, den Authoritarian Stack — und die Frage, wie man eine Welt erschafft, die man sich wünscht, indem man sie lebt.*
 
 ---

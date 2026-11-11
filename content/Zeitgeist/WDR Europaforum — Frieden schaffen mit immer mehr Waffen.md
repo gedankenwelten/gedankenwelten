@@ -358,6 +358,9 @@ Die Lüneburger Gegen-Debatte: zwei Pazifistinnen gegen zwei Realisten, mit Bahr
 
 Korea, hier der Rahmen des Abends, ist bei Leonhard das Musterbeispiel für Kriege, die nicht mit einem Vertrag enden, sondern mit einem Waffenstillstand, der jahrzehntelang brüchig bleibt.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Was Šešelgytė hier erzählt, fehlt auf einem Podium von BSW und AfD über „Frieden mit Russland“ ganz: Dort kommt keine baltische, polnische oder ukrainische Stimme vor.
 
 ---
 

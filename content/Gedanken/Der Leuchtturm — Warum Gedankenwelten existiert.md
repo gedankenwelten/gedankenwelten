@@ -18,6 +18,17 @@ aliases:
 
 # Der Leuchtturm — Warum Gedankenwelten existiert
 
+![[assets/Der-Leuchtturm-Warum-Gedankenwelten-existiert-banner.jpg|Ölgemälde: Ein grauweißer Sturmwirbel aus Gischt, Schnee und Nebel über dem Meer. Rechts auf einem Felsen ein blasser Leuchtturm, dessen goldener Strahl den Dunst durchschneidet, unten links ein kleines Boot.|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach J. M. W. Turner**, späte Seestücke wie *Snow Storm, Steam-Boat off a Harbour's Mouth* — die Formen lösen sich in Gischt, Schnee und Licht auf, der Leuchtturm ist kaum mehr als ein Geist auf dem Felsen, erkennbar nur an seinem Strahl, der eine goldene Bahn durch den Wirbel legt; unten links hält ein Boot darauf zu. Turner, weil die Note sagt, der Leuchtturm kämpfe nicht gegen den Sturm und warte nicht auf sein Ende: Er leuchtet durch ihn. Bei Turner ist der Sturm das Bild, und das Licht hält trotzdem. Ein erster Versuch geriet zum akademischen Seestück mit scharfem Turm und wurde verworfen; ein Signaturkürzel unten rechts ist übermalt.
+
+*Prompt:* A wide panoramic banner, 12:5 aspect ratio, in the manner of J. M. W. Turner's late visionary seascapes such as Snow Storm, Steam-Boat off a Harbour's Mouth: forms almost dissolved into a great swirling vortex of spray, mist, snow and light, no crisp details, thin translucent oil glazes and scraped passages, broad sweeping brushwork. Somewhere right of centre a pale vertical ghost of a lighthouse on a dark rock, recognisable only by its steady beam, which cuts a warm golden path through the vortex. In the churning haze at lower left, the dim shapes of two small boats turned toward the beam. Palette of pearl grey, smoky umber, sulphur yellow and pale gold, luminous and turbulent. No text, no letters, no signature, no figures with faces.
+
+</details>
+
+
 ---
 
 > *Wie kannst du erwarten, dass eine Welt je existiert, die du dir wünschst, wenn du sie selbst nicht lebst?*

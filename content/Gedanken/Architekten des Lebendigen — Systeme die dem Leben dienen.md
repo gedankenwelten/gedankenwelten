@@ -19,6 +19,17 @@ aliases:
 
 # Architekten des Lebendigen — Systeme, die dem Leben dienen
 
+![[assets/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen-banner.jpg|Farbenprächtiges Gemälde: Ein geschwungenes Haus mit Zwiebeltürmen, runden Fenstern und begrünten Dächern, aus denen Bäume wachsen. Davor bauen Menschen an einem langen Tisch, links wird ein grauer Plattenbau von bunten Fliesen und Grün überwuchert.|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach Friedensreich Hundertwasser** — organische Architektur ohne gerade Linie, Spiralen, Zwiebeltürme, leuchtende Farben wie Email. Eine kleine Gemeinschaft baut gemeinsam ein Haus, aus dessen Fenstern Bäume wachsen, auf den Dächern Gärten, im Hof ein langer gemeinsamer Tisch; links überwuchern Grün und bunte Fliesen einen grauen Block mit lauter gleichen Fenstern. Hundertwasser, weil er Häuser für Baummieter baute und gegen das Raster des Funktionierens malte: Die Note sucht Systeme, deren Fundament das Leben ist, und zeigt Menschen, die schon daran bauen.
+
+*Prompt:* A wide panoramic banner, 12:5 aspect ratio, in the style of Friedensreich Hundertwasser: organic architecture, no straight lines, saturated jewel colours, spirals, onion domes and wavy windows, painted with glowing enamel-like colours and thin gold accents. A small community of stylized people builds a colourful house together: trees grow out of its windows, gardens cover the curving roofs, a spiral path winds up, and a large shared table stands in the courtyard. On the far left an old grey rectangular block with identical windows is being gently overgrown by green and coloured tiles. Warm, hopeful, handmade. No text, no letters, no signature, no realistic faces.
+
+</details>
+
+
 > **Eigene These / Analyse** — Diese Note ist der bewusste Gegenpol zu [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]. Wo jene die Diagnose stellt — welche Systeme Menschen hervorbringen, die andere als Variablen behandeln — fragt diese Note nach der Therapie: **Wie bauen wir Systeme, die das Leben als Fundament haben, nicht als Ressource?**
 >
 > Entstanden am 28.04.2026. Work in progress — wird iterativ ausgebaut.

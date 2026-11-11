@@ -110,6 +110,12 @@ Das Recht, das ein „über uns ohne uns“ verbieten müsste, und warum es so s
 ### → [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel]]
 Die Schwester-Spur zum selben Washington, an einem anderen Ort: wie die AfD im amerikanischen Spiegel umgedeutet wird.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Ein Fall fürs Stimmenspektrum: Bei BSW und AfD handeln an einem ganzen Abend über Frieden mit Russland nur Washington, Brüssel, Berlin und Moskau, Kiew kommt nur als Objekt vor.
+
+---
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

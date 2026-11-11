@@ -367,6 +367,10 @@ Wie Indexing in einer Pressekonferenz aussieht, zeigt die ZDF-Frage an Katherina
 ### → [[Michael Fleming — Was die Alliierten wussten]]
 Ein historischer Fall für Gleichklang ohne Befehl: 1942 beriet der Informationsminister die Redakteure, und die Zurückhaltung beim Holocaust wurde zum „gesunden Menschenverstand“ der Leitmedien.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Die Historikerin Claudia Wittig (BSW) sagt, die Erzählungen über die Jahre seit 1990 widersprächen sich faktisch kaum, sie seien nur verschieden aufgeladen. Die Unterscheidung von Sachverhalt und Deutung zeigt, wo dieser Satz trägt und wo er 2022 aufhört.
+
 ---
 
 ## Weiterdenken

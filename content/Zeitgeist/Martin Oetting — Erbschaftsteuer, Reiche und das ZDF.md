@@ -301,6 +301,10 @@ Im Faschismus-Video beschreibt Oetting einen Taschenspielertrick: Aus Angst wird
 
 Oettings kürzester Gedanke, eine Steuer, die ererbtes Vermögen schont, entscheide darüber, wessen Kapital im Land arbeitet, trifft die Reibung aus Grimms Nachbesprechung: Grimm interessiert, wofür Kapital eingesetzt wird, nicht wo es liegt. Grimm vertritt Reiches Position mit besseren Argumenten, Erbschaftsteuer ja, Betriebe nicht gefährden, und beide Notes stützen sich auf dieselben Gegenstudien.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Zwei Wochen später kehren die „Steuerlügen“ als Kurzform wieder, verbunden mit den Gen-Z-Protesten und zwei Unternehmern, die von Steuerstolz sprachen.
+
 ---
 
 ## Weiterdenken

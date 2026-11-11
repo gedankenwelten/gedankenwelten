@@ -326,3 +326,8 @@ Fricke beruft sich für den Inflationsschock auf Weber, in ihrem Buch wird aus d
 ### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
 
 Driouich stellt Frickes Kontrollverlust in eine längere Rechnung: Der Marktliberalismus war die Anpassung an ein halbes Jahrhundert sinkenden Wachstums.
+
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Oetting liest die Gen-Z-Proteste als Rechnung für fünfzig Jahre Sparpolitik und setzt auf die Umverteilung, die Fricke allein für zu wenig hält.
+

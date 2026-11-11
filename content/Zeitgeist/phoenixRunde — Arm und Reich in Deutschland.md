@@ -379,6 +379,10 @@ Grimm teilt die Sorge ums Betriebsvermögen, zieht aber einen anderen Schluss: g
 
 Deißners „Verwischung dieser Grenze“ zwischen Betriebs- und Privatvermögen kehrt fast wörtlich in Katherina Reiches Antwort an das ZDF wieder; Oetting rechnet am Fall eines klagenden Neffen nach, was diese Unterscheidung im Steuerrecht kostet.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Dass Firma und Privatvermögen „klar und bewusst getrennt“ seien, hält Oetting gegen die „Steuerlügen“; bei Deißner ist dieselbe Trennung das Argument der anderen Seite.
+
 ---
 
 ## Weiterdenken

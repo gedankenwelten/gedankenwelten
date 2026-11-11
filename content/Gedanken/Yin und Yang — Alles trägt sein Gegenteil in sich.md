@@ -15,6 +15,17 @@ tags:
 
 # Yin und Yang — Alles trägt sein Gegenteil in sich
 
+![[assets/Yin-und-Yang-Alles-traegt-sein-Gegenteil-in-sich-banner.jpg|Tuschemalerei auf hellem Reispapier, viel leerer Raum: Zwei Fische umkreisen sich in einem Teich, einer tiefschwarz mit hellem Auge, einer hell mit schwarzem Auge. Rechts ein Lotosblatt und Schilf.|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach Bada Shanren (Zhu Da)** und der chinesischen Literatenmalerei — sparsame Tusche, graue Lavierung, viel leeres Papier, wenige entschiedene Striche. Zwei Fische umkreisen einander, der schwarze mit hellem Auge, der helle mit schwarzem: das Zeichen von Yin und Yang, ohne dass es gemalt wird. Bada Shanren, weil seine Fische und Vögel mit wenigen Strichen und trockenem Witz mehr sagen als ein Diagramm, und weil die Note keine Lehre will, sondern eine Leseanleitung: in jedem das Andere sehen. Ein kalligrafisches Zeichen oben rechts ist übermalt.
+
+*Prompt:* A wide panoramic banner, 12:5 aspect ratio, in the style of Bada Shanren (Zhu Da) and Chinese literati ink painting: sparse black ink and grey wash on aged off-white rice paper, vast empty space, a few decisive brushstrokes. Two fish circle each other in a quiet pond, nose to tail, forming a loose round movement: one painted in deep black ink, one left as pale paper outlined in thin grey; the black fish has a small pale eye, the pale fish has a small black eye. A single lotus leaf and a reed on the far right, ripples in fine dry-brush lines. Calm, balanced, witty. No symbol drawn, no circle diagram, no text, no calligraphy, no seals, no signature.
+
+</details>
+
+
 > Keine Klasse, keine Gruppe, keine Bewegung ist je nur Teil eines Problems oder nur Teil einer Lösung. In allem Positiven entsteht auch etwas Schlechtes. In allem Negativen steckt auch etwas Wahres oder Wertvolles.
 
 ---

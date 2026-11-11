@@ -506,6 +506,10 @@ Celikates teilt Steinkes Kritik an abgesagten Veranstaltungen und eingeschränkt
 
 Zwei Widersprüche zu Richard David Precht: Steinke hält dessen Klage über die schwindende Meinungsfreiheit für „Weinerlichkeit“, der Kriegsreporter Flemig widerlegt ihn beim Thema Russland und fragt, wann man über etwas besser schweigen sollte.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Steinkes Absage an das „Existenzrecht“ als Pflicht und an § 188 vertritt in Magdeburg die BSW-Politikerin Claudia Wittig: „Bekenntnisse jeder Art sind von Bürgern nicht zu verlangen.“ Aus derselben Prämisse folgt bei ihr Kooperation mit der AfD, bei Steinke das Verbotsverfahren.
+
 ---
 
 ## Weiterdenken

@@ -358,6 +358,9 @@ Uwe Krügers Zählung von 2014 kannte nur prowestliche und prorussische O-Töne;
 
 Fünf Wochen später, wieder bei der Körber-Stiftung, die Probe auf Nottes zwei Arten der Abschreckung: Eine Bedrohungsanalystin fragt, was nach einer Zuschreibung eigentlich passieren soll, und der THW-Chef empfiehlt dasselbe Batterieradio wie Lagodinsky.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Wie Lagodinsky führt Rainer Rothfuß (AfD) Libyen und Jugoslawien gegen den Westen an. Anders als Lagodinsky macht er daraus eine Hoffnung auf BRICS und Multipolarität, also mehr Pole statt mehr Regeln.
 
 ---
 

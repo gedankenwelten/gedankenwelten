@@ -350,6 +350,9 @@ Die ausgearbeitete Fassung dessen, was Zuschauer Gornik in der Fragerunde nur an
 
 Die drei Stufen der Attribution (technisch, politisch, rechtlich) machen die Lücke zwischen überzeugender und gerichtsfester Beweiskette benennbar, und Paris zeigt bei den Kühltruhen-Angriffen den Gegenweg zu Leipzig: Indizien öffentlich, Haftbefehle beantragt.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Auf einem Berliner Podium nennt die BSW-Politikerin Claudia Wittig den Leipziger Anschlag „angeblich“ und führt die Schließung des Russischen Hauses als Signal westlicher Abweisung an. Die Chronik hier zeigt, dass die Schließung die Antwort auf Leipzig war.
 
 ---
 

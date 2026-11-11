@@ -87,3 +87,4 @@ Oetting steht in der Tradition der **Wellbeing-Economy- / Postwachstums-Bewegung
 - [[Martin Oetting — Happy Planet Index 2026]]
 - [[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF]]
 - [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren]]
+- [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]

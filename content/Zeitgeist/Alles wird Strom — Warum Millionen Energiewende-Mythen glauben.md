@@ -356,6 +356,10 @@ Tim Meyer ist die stille Quelle der Folge. Von ihm stammen das Wort „Modernisi
 
 Die Nachbesprechung zum gesäten Zweifel führt in die Frage „Wie viel darf man der Wissenschaft glauben?“ — Robin und Felix stehen dort jetzt neben Lewandowsky, Oreskes und El-Mafaalani.
 
+### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+
+Nach demselben Muster der halben Wahrheit spricht der Geograph und AfD-Abgeordnete Rainer Rothfuß von einer „CO2-Religion“: Weil CO2 im Eisbohrkern der Erwärmung nachlaufe, sei es nicht ursächlich.
+
 ---
 
 ## Weiterdenken

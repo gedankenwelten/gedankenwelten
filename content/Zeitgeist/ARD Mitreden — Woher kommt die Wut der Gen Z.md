@@ -693,6 +693,10 @@ Seydack sagt in einem Satz, was Berthold dritte Räume nennt: Bevor man Jugendli
 
 Caniperk sagt, viele Jugendliche merkten schon in der Schule, dass sie nicht gleichberechtigt seien. Das Panorama hat die Forschung dazu, vom gleichen Diktat, das schlechter bewertet wird, wenn es von Murat stammt, bis zum Übergang aufs Gymnasium. Und es zeigt, was wirkt: ein Mensch, der Benachteiligten sagt, dass sie es können, die Beziehungsarbeit, deren Fehlen Berthold beklagt.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Elf Tage nach dem Protest tut ein Erwachsener, worum die Anruferin bittet, und stellt sich hinter die Jungen; aus ihren sechs Forderungen hört er aber vor allem eine heraus, die gerechte Verteilung der Lasten.
+
 ---
 
 ## Weiterdenken

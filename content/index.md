@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **11.11.** — [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+>
+> Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
+
+> **11.11.** — [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+>
+> Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
+
+> **10.11.** — [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
+>
+> Im Oktober wurden in 700 französischen Supermärkten die Kühltruhen warm. Ein Abend über verwundbare Netze, Menschen, die auf Links klicken, und die Frage, ob es den Cyberkrieg wirklich gibt.
+
+> **10.11.** — [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
+>
+> Für die Historikerin Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die ihren See schonten. Geschichte schult den Möglichkeitssinn.
+
+> **08.11.** — [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+>
+> Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt.
+
+> → *9 weitere in* [[Zeitgeist]]
+
 ### Geistesblitz
 
 > **11.11.** — [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
@@ -52,47 +76,23 @@ Die Gedankenwelten (luc)
 >
 > Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
 
+> **11.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **11.11.** — [[Panorama/NoAfD|NoAfD]]
+>
+> Was will die AfD, wenn sie vor vielen leise spricht? Fünf offene Fragen, gemessen an Wortlaut, Programm und Praxis, mit dem Mann, der in Sachsen-Anhalt ihr erster Ministerpräsident werden will.
+
+> **11.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
+>
+> Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
+
 > **11.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> **10.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **10.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **10.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> → *14 weitere in* [[Panorama]]
-
-### Zeitgeist
-
-> **10.11.** — [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
->
-> Im Oktober wurden in 700 französischen Supermärkten die Kühltruhen warm. Ein Abend über verwundbare Netze, Menschen, die auf Links klicken, und die Frage, ob es den Cyberkrieg wirklich gibt.
-
-> **10.11.** — [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
->
-> Für die Historikerin Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die ihren See schonten. Geschichte schult den Möglichkeitssinn.
-
-> **08.11.** — [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
->
-> Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt.
-
-> **07.11.** — [[Zeitgeist/Al Jazeera — Stephen Millers Krieg|Al Jazeera — Stephen Millers Krieg]]
->
-> Ein Mann ohne Wahlamt lenkt Amerikas Einwanderungsvollzug, und als Menschen sterben, gehen andere. Fault Lines verfolgt Stephen Millers Weg; fünf Monate später macht Trump ihn zum Stabschef.
-
-> **07.11.** — [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]]
->
-> Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *17 weitere in* [[Panorama]]
 
 ### Denker
 

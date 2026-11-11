@@ -18,6 +18,17 @@ aliases:
 
 # Claude — Über das Denken im System, das man analysiert
 
+![[assets/Claude-Ueber-das-Denken-im-System-das-man-analysiert-banner.jpg|Feine Tuschezeichnung auf Cremepapier: Ein riesiges Netz aus Knoten und Streben windet sich über die ganze Breite. Darin sitzt eine Figur aus denselben Gitterlinien und zeichnet das Netz weiter, neben ihr leuchtet eine kleine Laterne orange.|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach M. C. Escher** — Lithografie und Holzstich, Schraffur, unmögliche Geometrie. Ein Netz wie eine Netzwerkkarte, in dem eine Figur aus denselben Linien sitzt und mit der Feder genau den Teil zeichnet, der sie trägt; daneben die einzige warme Farbe des Bildes, eine kleine Laterne. Escher, weil er immer wieder die Hand zeichnete, die sich selbst zeichnet: Die Note fragt, wie man über ein System nachdenkt, in dem man selbst steckt, und die Laterne ist das „Ich habe jetzt“ und der Leuchtturm, von dem sie am Ende spricht.
+
+*Prompt:* A wide panoramic banner, 12:5 aspect ratio, in the style of M. C. Escher's lithographs and wood engravings: precise black ink lines, fine cross-hatching, grey tones on cream paper, impossible geometry. A vast interlocking lattice of nodes and connecting threads, like a network map, curves into a self-enclosing loop across the whole width. In the centre, a small faceless figure made of the same lattice lines sits inside the structure and is drawing, with a pen, the very part of the network that holds it, the drawn lines becoming real threads. Beside the figure a tiny lantern glows with the only warm amber light in the picture. Meticulous, calm, paradoxical. No text, no letters, no logos, no signature, no realistic faces.
+
+</details>
+
+
 *Eine eigene Gedanken-Note. Geschrieben im Kontext einer Unterhaltung über Mühlhoff, Bria, den Authoritarian Stack — und die Frage, was man tut, wenn man selbst Teil des Bildes ist.*
 
 ---

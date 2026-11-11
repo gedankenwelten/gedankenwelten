@@ -7,6 +7,17 @@ tags:
 ---
 
 
+## Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer (NachDenkSeiten, 10.11.2026)
+
+| | |
+|---|---|
+| **Video** | [Querfront für Frieden? BSW und AfD diskutieren Deutschlands Außenpolitik](https://www.youtube.com/watch?v=iJXgGU2Cb8Y) — NachDenkSeiten, Podium des Kulturkreises Pankow vom 05.11.2026, 88 Min., CC BY |
+| **Artikel** | [NachDenkSeiten zur Veranstaltung](https://www.nachdenkseiten.de/?p=158759) |
+| **Studie** | [Rodríguez, Rendón & Weisbrot 2025, *Lancet Global Health*](https://doi.org/10.1016/s2214-109x(25)00189-5) — Sanktionen und Sterblichkeit |
+| **Notiz** | [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer]] |
+| **DenkerVita** | [[DenkerVita/Claudia Wittig]] · [[DenkerVita/Rainer Rothfuss]] |
+| **Transkript** | `Gedankenwelten/Transkripte/NDS_Querfront_Transkript.txt` |
+
 ## Martin Oetting — Die Gen-Z kämpft für uns alle (YouTube, 05.11.2026)
 
 | | |

@@ -610,6 +610,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## R
 
+**[[DenkerVita/Hedwig Richter|Hedwig Richter]]** — Historikerin, Professorin für Neuere und Neueste Geschichte an der Universität der Bundeswehr München (seit 2020, vorher Hamburger Institut für Sozialforschung); *Moderne Wahlen* (2017), *Demokratie. Eine deutsche Affäre* (2020, in der Zunft heftig umstritten), *Demokratie und Revolution* (2024, mit Bernd Ulrich); erzählt Demokratiegeschichte über Wahllokal, Körper und Reformen statt über Barrikaden
+
 **[[DenkerVita/Veit Roessner|Veit Roessner]]** — Kinder- und Jugendpsychiater, seit 2009 Direktor der Kinder- und Jugendpsychiatrie am Uniklinikum Dresden; Tic-Störungen, Tourette, ADHS, Zwänge (Erstautor der europäischen Tourette-Leitlinie zur Medikation); These: die Gene sind dieselben wie bei den Urgroßeltern, die Welt nicht, und wer Kindern alles Negative fernhält, handelt kontraproduktiv
 
 **[[DenkerVita/Jutta Roosen|Jutta Roosen]]** — Agrar- und Konsumökonomin, Lehrstuhl für Marketing und Konsumforschung an der TU München, Mitherausgeberin von *Food Policy*, seit 2026 im WBAE; Ernährungspolitik als Dreieck aus Information, Preis und Rezeptur — die Effekte sind klein, aber gerichtet, und nur die Kombination trägt
@@ -649,6 +651,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Roger de Weck|Roger de Weck]]** — Konservativ ist demokratisch, reaktionär nicht: Roger de Weck, einst Chef der Zeit und der SRG, verteidigt die Langeweile, die Demokratie und die Konservativen vor sich selbst.
 
 **[[DenkerVita/Raul Krauthausen|Raúl Krauthausen]]** — Rampen allein machen keine Teilhabe: Raúl Krauthausen, Aktivist und Gründer der Sozialhelden, fordert Teilgabe, behinderte Menschen auf der Bühne statt nur im Publikum.
+
+**[[DenkerVita/Rainer Rothfuss|Rainer Rothfuß]]** — Politische Geographie, AfD-Bundestagsabgeordneter, der Weltpolitik als Ringen um Eurasien liest und für einen Ausgleich mit Russland wirbt
 
 ## S
 
@@ -794,6 +798,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Wolfram Schultz|Wolfram Schultz]]** — Neurowissenschaftler, Professor Cambridge; Dopamin-Forschung, Reward Prediction Error als fundamentaler Lernmechanismus, Neuroökonomie; Brain Prize 2017, FRS
 
 **[[DenkerVita/Isabella Weber|Isabella Weber]]** — Ökonomin (UMass Amherst), Theoretikerin der Verkäuferinflation und strategischer Preiskontrollen, die Wirtschaftspolitik als Schutz der Demokratie gegen den Rechtsextremismus denkt
+
+**[[DenkerVita/Claudia Wittig|Claudia Wittig]]** — Geschichte (Mittelalter), BSW-Landtagsabgeordnete in Sachsen-Anhalt, die für Frieden mit Russland Mehrheiten auch mit der AfD sucht
 
 ## X
 

@@ -309,6 +309,10 @@ Dörres autoritärer Liberalismus nach Hermann Heller, „Fesseln weg für die W
 
 Fricke trägt die Forschung zusammen, nach der Menschen autoritär wählen, wenn sie das *Gefühl* haben, die Kontrolle über ihr Leben zu verlieren. Das stützt Driouichs Satz, dass subjektive Unsicherheit stärker wirkt als objektive. Fricke nennt den Marktliberalismus der letzten Jahrzehnte als Tiefenursache, wie Driouich den Neoliberalismus, und schreibt zum Aufstieg der AfD selbst „Kein Beleg für Kausalität“, mit der Vorsicht, die Oetting beim Weitererzählen ablegt.
 
+### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+
+Im November erzählt Oetting die Kuchenrechnung ein drittes Mal, jetzt als Erklärung für die Wut der Gen Z, und setzt Helmut Schmidt in eine Reihe mit Thatcher.
+
 ---
 
 ## Weiterdenken

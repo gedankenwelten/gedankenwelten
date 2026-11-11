@@ -15,6 +15,17 @@ tags:
 
 # Polarisierung als Ideologisierungsfalle
 
+![[assets/Polarisierung-als-Ideologisierungsfalle-banner.jpg|Federzeichnung auf weißem Grund: Zwei kleine Männer stehen weit voneinander, jeder vor einer Reihe Gleichaussehender und jeder vor einer Ziegelmauer in Blassrot und Blassblau. In der Lücke zwischen den Mauern ein kleiner Bogen, darunter ein Fragezeichen.|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach Saul Steinberg** — Feder auf Weiß, drahtige Linie, ein paar blasse Lavierungen, viel leerer Raum und trockener Humor wie in seinen Blättern für den *New Yorker*. Zwei Wortführer, jeder vor seinen Gleichaussehenden, jeder vor einer Mauer aus blassroten und blassblauen Ziegeln, beide Mauern aus denselben Farben gemauert; dazwischen ein schmaler Bogen und ein liegengelassenes Fragezeichen. Steinberg, weil er Gedanken in Dinge verwandelte, Sprechblasen in Architektur, und weil die Note genau das beschreibt: Man redet nicht mehr miteinander, sondern über den anderen, und aus Argumenten werden Grenzen.
+
+*Prompt:* A wide panoramic banner, 12:5 aspect ratio, in the style of Saul Steinberg's pen-and-ink cartoons for The New Yorker: witty, spare, wiry black line on white paper with a few flat washes of pale red and pale blue. Two small figures stand far apart on a long empty plain, each turned away from the other and talking to a little crowd of look-alikes behind them. Their speech balloons do not float: they have turned into brick walls that grow toward the middle. In the narrowing gap between the walls lies a tiny, forgotten question mark shape drawn as a small curled bridge. Dry humour, lots of white space. No readable text, no letters, no words, no signature.
+
+</details>
+
+
 > In einer polarisierten Welt ist man fast gezwungen, die Argumentation zu dominieren. Das verhindert das Finden von Lösungen — und extremisiert alles. Es wird zur Ideologie.
 
 ---

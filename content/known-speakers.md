@@ -1381,3 +1381,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Hedwig Richter
 **Status:** ✓ Vollanalyse → [[DenkerVita/Hedwig Richter]]
+
+## Claudia Wittig
+**Status:** ✓ Vollanalyse → [[DenkerVita/Claudia Wittig]]
+
+## Rainer Rothfuß
+**Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Rothfuss]]

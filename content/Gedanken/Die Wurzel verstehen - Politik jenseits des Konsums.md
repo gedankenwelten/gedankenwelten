@@ -18,6 +18,17 @@ aliases:
 
 # Die Wurzel verstehen — Politik jenseits des Konsums
 
+![[assets/Die-Wurzel-verstehen-Politik-jenseits-des-Konsums-banner.jpg|Ölgemälde: Ein Baum vor einem Raster aus grauen und weißen Flächen. Die Krone ist ein unruhiges Gewirr aus kurzen Strichen und kleinen Fetzen, der Stamm ruhig, darunter im ockerfarbenen Erdreich wenige große, klare Wurzelbögen.|1200]]
+
+<details><summary>🎨</summary>
+
+**Nach Piet Mondrian**, Baumstudien von 1912 (*Der graue Baum*, *Blühender Apfelbaum*) — der Baum in rhythmische Linien und kleine Facetten zerlegt, dahinter tritt das Raster hervor. Oben die Krone als unruhiges Gewirr aus unzähligen Fetzen, das Blätterwerk der Schlagzeilen; in der Mitte ein ruhiger Stamm; unter der Erdlinie wenige große Wurzelbögen, der geordnetste Teil des Bildes. Mondrian, weil er in dieser Reihe genau den Weg malte, den die Note vorschlägt: durch das Gewirr der Zweige hindurch die Struktur darunter sehen. Ein erster Versuch war eher naive Volkskunst und wurde verworfen; ein Signaturkürzel unten rechts ist übermalt.
+
+*Prompt:* A wide panoramic banner, 12:5 aspect ratio, in the manner of Piet Mondrian's semi-abstract tree studies of 1912 (Grey Tree, Flowering Apple Tree): the tree reduced to rhythmic curved black and grey lines and small flat facets of muted ochre and grey, a cubist grid emerging from the branches, oil on canvas with visible brushwork. Upper half: the crown as a restless lattice of countless short arcs and tiny fragments. Centre: a calm trunk of a few strong vertical lines. Lower third, below a firm horizontal ground line, the earth in cross-section in deeper ochre and blue-grey, with the roots spreading in a few large clear arcs, the most ordered part of the picture. Restrained palette of grey, black, ochre and soft blue. No text, no letters, no signature.
+
+</details>
+
+
 > Entstanden am 17.05.2026 — aus einem Gespräch mit einem Freund, der meinte, die Leute sollten einfach weniger politisch denken.
 
 ---

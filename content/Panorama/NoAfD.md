@@ -2,7 +2,7 @@
 title: "NoAfD"
 date: 2026-04-27
 erstellt: 2026-04-27
-aktualisiert: 2026-10-17
+aktualisiert: 2026-11-11
 description: "Was will die AfD, wenn sie vor vielen leise spricht? Fünf offene Fragen, gemessen an Wortlaut, Programm und Praxis, mit dem Mann, der in Sachsen-Anhalt ihr erster Ministerpräsident werden will."
 raetsel: "Leise im Studio. Die Vorlage für die erste Unterschrift ist schon gedruckt."
 panorama-art: wachsend
@@ -183,6 +183,8 @@ Das Verbotsverfahren ist seit dem [[Zeitgeist/Valentiner und Moini - GFF-Gutacht
 
 Die Brandmauer hält in den Parlamenten, nicht immer im Wortschatz. Thiele hält an ihr fest, weil die AfD durch das Verhalten der anderen Parteien gewachsen sei, nicht trotz der Brandmauer. Robin Celikates nennt sie eine Mauer, „die es nie gab“: Wer vom „Stadtbild“ und von „kleinen Paschas“ spricht und Abschiebeoffensiven verspricht, zahlt auf die Rechnung der AfD ein, und am Ende frage sich der Wähler, warum er nicht gleich das Original wählt. Kazim fragt, ob man nicht mehr Mühe darauf verwenden sollte, das Feuer hinter der Mauer zu löschen. Bei Asyl und Migration steht die Union nicht weit entfernt: Die Abschaffung des Grundrechts auf Asyl belegt das AfD-Programm mit einem Vorstoß von Thorsten Frei, heute Chef des Kanzleramts, und im Januar 2025 brachte die Union einen Migrationsantrag mit den Stimmen der AfD durch den Bundestag. Ihr Unvereinbarkeitsbeschluss von 2018 schließt die Linke und die AfD gleichermaßen aus. In Magdeburg kündigt die CDU an, Siegmund nicht zu wählen. Bei der Wahl des Landtagspräsidenten aber kamen mindestens vier Stimmen für Rausch aus CDU, SPD, Grünen oder Linken, obwohl die CDU-Fraktion Enthaltung empfohlen hatte und nur fünf Enthaltungen gezählt wurden ([tagesschau, 06.10.2026](https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html)); wer, bleibt geheim. Roger de Weck zieht die Linie, auf die es ankommt, zwischen konservativ und reaktionär, und warnt, dass Konservative in Krisen immer wieder hinüberkippen.
 
+Was die Brandmauer bewirkt, ist inzwischen auch gemessen, und die Befunde geben keiner Seite einfach recht. In Umfrageexperimenten in Deutschland, Flandern, Spanien und Österreich senkten Signale einer Mitte-rechts-Partei, mit der radikalen Rechten regieren zu wollen, die Abneigung zwischen diesen beiden Lagern, während die Mitte-links-Wähler sich von der Mitte-Rechten abwandten: Die Spaltung verschob sich, statt kleiner zu werden ([Vanagt u. a. 2025](https://doi.org/10.1080/13501763.2025.2558980), Experiment). Ausgrenzung hält umgekehrt die Abneigung gegen die Ausgegrenzten hoch ([Russo & Schulze Brock 2024](https://doi.org/10.1080/01402382.2024.2336436), Länderdaten und Panel). Als die Union im Januar 2025 Offenheit für AfD-Stimmen signalisierte, wanderten rund drei Prozentpunkte der SPD-Anhänger zur Linken ([Rath u. a. 2026](https://doi.org/10.1177/13540688261494377), natürliches Experiment), und für den Umgang der Landtage mit der AfD gibt es nach einem Vergleich der Länder „no magic formula“ ([Heinze 2022](https://doi.org/10.1017/s1755773922000108), Vergleich). Die Gegenposition zur „Kontaktschuld“ vertritt in Sachsen-Anhalt das BSW, das mit der AfD gemeinsam einen Russland-Antrag beschloss und im Oktober mit fünf Stimmen den ersten AfD-Landtagspräsidenten mitwählte. Mehr in der Nachbesprechung [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Kontaktschuld oder Türsteher?|Kontaktschuld oder Türsteher?]].
+
 Was das Feuer löscht, ist weniger umstritten, als die Debatte vermuten lässt. Isabella Weber holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Martin Oetting verlangt die gut erzählte Wahrheit statt des „halbgaren Mix“, mit Willy Brandt als Beweis, dass Unbeliebtes gewinnen kann. Aladin El-Mafaalani und Gesine Schwan setzen auf Orte, an denen Menschen erleben, dass Demokratie für sie funktioniert. Und die Zivilgesellschaft, die nach der Potsdam-Recherche Millionen auf die Straße brachte, ist genau das, dem Siegmund als Erstes das Geld entziehen will. Dass gerade Bildung schützt, widerlegt der StreitClub: Unter AfD-Wählern sind die Hochgebildeten nicht seltener geworden.
 
 **Die Stimmen**
@@ -195,8 +197,9 @@ Was das Feuer löscht, ist weniger umstritten, als die Debatte vermuten lässt. 
 - **[[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit#Gewinnt man mit der Wahrheit?|Martin Oetting]]:** Die Wahrheit allein reicht nicht; sie braucht ein Gegenangebot, das so stark entlastet wie die Lüge, ohne zu lügen.
 - **[[Zeitgeist/Gesine Schwan — Macht NEU DENKEN#Die subversive Macht der Freundlichkeit|Gesine Schwan]]:** Freundlichkeit bricht die Eskalation; Konfrontation nährt die Autokraten.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
+- **[[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Die Mehrheit draußen und die Kontaktschuld|Claudia Wittig]]:** „Diese ganze Kontaktschuld-Sache“ sei „ein fürchterliches undemokratisches Ding“; für bestimmte Fragen müsse man Mehrheiten „quer durchs Spektrum“ organisieren, auch mit der AfD.
 - **[[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Was helfen könnte|Aladin El-Mafaalani]]:** Funktionierende Institutionen und Begegnung bauen Misstrauen ab; Belehrung nicht.
 - **[[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN#Brandmauer — politisches Instrument, kein soziales|Matthias Quent]]:** Die Brandmauer ist ein Instrument zwischen Parteien, kein Umgang mit Menschen.
 - **[[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Die Klinge, die stumpf wird|Alexander Thiele]]:** Die Brandmauer ist nicht der Grund des Wachstums; die anderen Parteien sind es.
@@ -213,6 +216,7 @@ Was das Feuer löscht, ist weniger umstritten, als die Debatte vermuten lässt. 
 | Datum | Note | vertieft |
 |---|---|---|
 | 17.10.2026 | Umbau zum wachsenden Panorama | Alle fünf Fragen neu: Ulrich Siegmund bei {ungeskriptet} (15.08.2026, Transkript gelesen), Regierungsprogramm und 100-Tage-Programm der AfD Sachsen-Anhalt, Stand von Einstufung, Verbotsverfahren und Wahlen im Oktober 2026 |
+| 11.11.2026 | [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Nachbesprechung|Wittig und Rothfuß — Frieden mit Russland über die Brandmauer]] | Was hilft? Kontaktschuld oder Türsteher (Levitsky & Ziblatt, Vanagt u. a. 2025, Russo & Schulze Brock 2024, Rath u. a. 2026, Heinze 2022; Montagsmahnwachen 2014, Aufstand für Frieden 2023) |
 
 ---
 
