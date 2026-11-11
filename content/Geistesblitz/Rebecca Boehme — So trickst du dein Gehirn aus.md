@@ -262,3 +262,6 @@ Die Parallele zum Fußabdruck, die Scobel hier im Gespräch andeutet, baut er sp
 
 Was Böhme an Überzeugungen zeigt, beschreibt der ARTE-Film als „paradoxes Festhalten" an der Börse: Selbst kluge Anleger klammern sich an eine Position, obwohl sie wissen, dass es absurd ist. Die emotionale Ansteckung ist dort der Stoff, aus dem Blasen und Paniken sind.
 
+### → [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
+
+Was Böhme am Milchshake zeigt, beschreibt Giulia Enders beim Belohnen: Was das bewusste Denken einem Ding an Wert zuschreibt, einer selbst gezüchteten Zwiebel, zwei Stücken dunkler Schokolade, macht das Gefühl stärker. Böhmes Frage, wo die Macht der Gedanken endet, lässt sich an Enders' Verhandlungen mit sich selbst stellen.

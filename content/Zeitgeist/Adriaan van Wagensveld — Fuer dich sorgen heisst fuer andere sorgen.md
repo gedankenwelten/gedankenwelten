@@ -196,6 +196,10 @@ Das Netzwerk-Essay beantwortet die Kollektivfrage, die Adriaans Vortrag am Ende 
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
 
+### → [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
+
+Die Ärztin Giulia Enders fragt, warum wir mit uns selbst etwas machen, was wir mit anderen nie machen würden, etwa beim eigenen Kummer sofort zum Handy greifen. Es wäre unhöflich, sagt sie. Van Wagensvelds Selbstfürsorge, von der Klinik her gesehen.
+
 ---
 
 ## Weiterdenken

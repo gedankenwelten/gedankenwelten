@@ -233,6 +233,10 @@ In der Sternstunde mit Anderl wird Rosas Filterkaffee eingespielt, als Beispiel 
 
 Ein Astrophysiker nennt den Glauben fast in Rosas Worten den Umgang „mit dem unverfügbaren Geheimnis des Lebens“ und findet das Unverfügbare ausgerechnet in der Wissenschaft, als Grenze, die die Physik selbst zieht. Zur Polarlicht-Garantie passt sein Auftakt: Zur Sonnenfinsternis reiste er an den einzigen bewölkten Ort.
 
+### → [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
+
+Giulia Enders sieht von innen, was Rosa als Parametrisierung beschreibt: Menschen mitten in der Gesundheitsblase, die alles abmessen und sich nicht mehr fühlen. Ihr Schlaf als Machtübergabe und ihre Langsamkeit, die sie noch lernen will, sind Unverfügbarkeit im eigenen Körper.
+
 ---
 
 ### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]

@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **11.11.** — [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
+>
+> Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe.
+
+> **10.11.** — [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns|Tania Singer — Das Training des sozialen Gehirns]]
+>
+> Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
+
+> **10.11.** — [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+>
+> Der Zweifel an der Wissenschaft wächst mit ihrer Macht. Wer Wertkonflikte als Faktenfragen austrägt, macht sie zum Schlachtfeld und den Gegner zum Feind der Vernunft.
+
+> **09.11.** — [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
+>
+> Ein Tag, an dem Deutschland die Republik ausrief, sie verhöhnte, Synagogen anzündete und die Mauer öffnete. Wolfgang Niess liest darin kein Schicksal. Er liest den langen Kampf um die Demokratie.
+
+> **08.11.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+>
+> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
+
+> → *8 weitere in* [[Geistesblitz]]
+
 ### Zeitgeist
 
 > **10.11.** — [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
@@ -44,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.
 
-> → *9 weitere in* [[Zeitgeist]]
+> → *7 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -63,34 +87,6 @@ Die Gedankenwelten (luc)
 > **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
 >
 > Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
-
-> **03.11.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
->
-> Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
-
-### Geistesblitz
-
-> **10.11.** — [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns|Tania Singer — Das Training des sozialen Gehirns]]
->
-> Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
-
-> **10.11.** — [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
->
-> Der Zweifel an der Wissenschaft wächst mit ihrer Macht. Wer Wertkonflikte als Faktenfragen austrägt, macht sie zum Schlachtfeld und den Gegner zum Feind der Vernunft.
-
-> **09.11.** — [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
->
-> Ein Tag, an dem Deutschland die Republik ausrief, sie verhöhnte, Synagogen anzündete und die Mauer öffnete. Wolfgang Niess liest darin kein Schicksal. Er liest den langen Kampf um die Demokratie.
-
-> **08.11.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
->
-> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
-
-> **07.11.** — [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
->
-> Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen.
-
-> → *8 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -114,7 +110,7 @@ Die Gedankenwelten (luc)
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> → *15 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### Spuren
 

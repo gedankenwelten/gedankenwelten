@@ -5790,3 +5790,10 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit]] · [[DenkerVita/Fred von Allmen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/vonAllmen_Dana_Transkript.txt` (Whisper) |
 
+## Giulia Enders / Körper als Verbündeter (Hotel Matze)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders](https://www.youtube.com/watch?v=s6asGzLT1c8) — Hotel Matze, 28.01.2026, 2:09 h |
+| **Notiz** | [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter]] · [[DenkerVita/Giulia Enders]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Enders_Belohnungssystem_Transkript.txt` |

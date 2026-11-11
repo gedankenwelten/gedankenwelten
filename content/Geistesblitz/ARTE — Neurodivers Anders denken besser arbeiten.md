@@ -180,3 +180,7 @@ El-Mafaalanis "strukturelle Außenseiter" beschreibt die Lage neurodivergenter A
 ### → [[Hartwin Maas — Bildung NEU DENKEN]]
 
 Maas' Unterscheidung kognitiver Stile ergänzt Zimpels Bilddenken-Befund von der Bildungsseite: Ein Schulsystem, das nur auf sprachlicher Kognition aufbaut, produziert bei Bilddenkern erlernte Hilflosigkeit
+
+### → [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
+
+Giulia Enders erzählt die Hypothese, Menschen mit ADHS seien in gemeinsam schlafenden Gruppen die Wachsamen gewesen, und wünscht sich eine Arbeitswelt nach dem Körper: „nicht so mind over matter, sondern mind with matter“.
