@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 918,
-   "aufrufe": 1096
+   "aufrufe": 1095
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -154,6 +154,11 @@
    "aufrufe": 9
   },
   {
+   "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
+   "leser": 6,
+   "aufrufe": 7
+  },
+  {
    "pfad": "/DenkerVita/Giulia-Enders",
    "leser": 6,
    "aufrufe": 7
@@ -177,11 +182,6 @@
    "pfad": "/DenkerVita/Hannah-Arendt",
    "leser": 5,
    "aufrufe": 7
-  },
-  {
-   "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
-   "leser": 5,
-   "aufrufe": 6
   },
   {
    "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
@@ -294,12 +294,12 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
+   "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
    "leser": 4,
    "aufrufe": 4
   },
   {
-   "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
+   "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
    "leser": 4,
    "aufrufe": 4
   }
@@ -310,7 +310,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 25,
+     "leser": 26,
      "aufrufe": 32
     },
     {
@@ -359,6 +359,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Der-Dara",
      "leser": 4,
      "aufrufe": 4
@@ -377,11 +382,6 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 3,
      "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
-     "leser": 3,
-     "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Lilith-Roska",
@@ -450,11 +450,6 @@
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Alle-Denker",
      "leser": 2,
      "aufrufe": 2
     },
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Albert-Moukheiber",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 918,
-     "aufrufe": 1096
+     "aufrufe": 1095
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -764,6 +764,11 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
+     "leser": 6,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 6,
      "aufrufe": 7
@@ -787,11 +792,6 @@
      "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 5,
      "aufrufe": 7
-    },
-    {
-     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
-     "leser": 5,
-     "aufrufe": 6
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
@@ -904,12 +904,12 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
+     "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
      "leser": 4,
      "aufrufe": 4
     },
     {
-     "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
+     "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
      "leser": 4,
      "aufrufe": 4
     }
@@ -920,7 +920,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 996,
+     "leser": 997,
      "aufrufe": 1199
     },
     {
@@ -1225,7 +1225,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 996,
+     "leser": 997,
      "aufrufe": 1199
     },
     {

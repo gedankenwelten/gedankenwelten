@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*368 Notes — automatisch generiert · nach Thema sortiert*
+*369 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -196,6 +196,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] — Ein Geheimdienst, der Bürger beobachtet, die kein Gesetz brechen, und Paragrafen, die niemand mehr überblickt: Ronen Steinke über die Meinungsfreiheit, das Völkerrecht und den Streit um das Wort Genozid.
 - [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland|rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?]] — Was, wenn die AfD in einem ostdeutschen Land regiert? Ein Panel prüft, was dann noch hält, und beginnt bei den Vorurteilen des Westens, die das Problem verschärfen.
 - [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]] — Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter in der Ukraine, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
+- [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]] — Was nimmt ein Land den Frauen, wenn es den Männern Stärke verspricht? Sandra Navidi erzählt Trumps Amerika als Rückbau. Manches davon geschieht, anderes ist Absicht, und die Grenze dazwischen lohnt den Blick.
 - [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]] — Für Sandra Navidi ist die Trump-Regierung ein Raubzug in Amtskleidung: Meme Coins, Mar-a-Lago-Tarife, Insiderhandel. Wo Rechenschaft nicht mehr greift, wird Schamlosigkeit zur Stärke.
 - [[Zeitgeist/Sari Nusseibeh — Die Geduld des Philosophen|Sari Nusseibeh — Die Geduld des Philosophen]] — Warum nahm Schahrazad kein Messer mit ins Schlafgemach? Ein palästinensischer Philosoph beantwortet aus einem Märchen die Frage, warum Gewalt niemals der Ausweg aus Gewalt ist.
 - [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]] — Der größte Vermögensverwalter der Welt bewegt das Geld anderer Leute, und genau darin liegt seine Macht. Ein Film über ETFs, eine Software namens Aladdin und Türen, die zwischen Konzern und Politik offen stehen.

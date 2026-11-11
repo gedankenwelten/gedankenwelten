@@ -14,6 +14,11 @@ Nachlauf. Darum feste Felder statt Fließtext: nur so lässt sich zählen.
   fehler_register.py liste [--note TEIL]        # die letzten Einträge
 
 Datei: .claude/data/aristarch/fehler.jsonl (eine JSON-Zeile je Fehler, append-only).
+
+Seit 11.11.2026 öffentlich: fehlerseite.py baut daraus gedankenwelten.org/Fehler („Was wir falsch hatten“).
+was/korrektur bleiben interne Kurznotizen. Für die Seite bei schweren Fällen --oeffentlich mitgeben: ein
+ganzer Satz, den ein Leser ohne Vorwissen versteht („Wir schrieben X einen Satz zu, den er nur zitiert.“),
+ohne DOI-Nummern, ohne Werkstatt-Wörter. Bei Viten und lebenden Personen weglassen.
 """
 import argparse, json, sys
 from collections import Counter
@@ -46,6 +51,8 @@ def eintragen(a):
          "schwere": a.schwere, "kategorie": a.kategorie, "urheber": a.urheber,
          "ursache": a.ursache if a.urheber == "wir" else "", "herkunft": a.herkunft,
          "was": a.was, "korrektur": a.korrektur, "korrigiert": not a.offen}
+    if a.oeffentlich:
+        e["oeffentlich"] = a.oeffentlich
     DATEI.parent.mkdir(parents=True, exist_ok=True)
     with DATEI.open("a", encoding="utf-8") as f:
         f.write(json.dumps(e, ensure_ascii=False) + "\n")
@@ -101,6 +108,7 @@ def main():
     e.add_argument("--was", required=True, help="was falsch dastand, ein Satz")
     e.add_argument("--korrektur", required=True, help="was jetzt dasteht, ein Satz")
     e.add_argument("--offen", action="store_true", help="gefunden, aber (noch) nicht korrigiert")
+    e.add_argument("--oeffentlich", default="", help="ein Satz für Leser der Seite „Was wir falsch hatten“ (nicht bei lebenden Personen/Viten)")
     w = sub.add_parser("auswertung")
     w.add_argument("--tage", type=int, default=0)
     l = sub.add_parser("liste")
