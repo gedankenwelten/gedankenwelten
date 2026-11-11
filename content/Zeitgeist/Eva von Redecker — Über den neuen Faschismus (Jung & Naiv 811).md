@@ -468,6 +468,10 @@ Was Redecker aus dem Bekenntnis des Halle-Attentäters herausliest, erklärte ei
 
 Warum Totalitarismus mehr ist als Faschismus, steht bei Arendt selbst: Bewegung statt Staat, ein Gesetz der Natur oder Geschichte, Terror als Wesen.
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Wie diese Logik in Gesetz und Alltag aussehen kann, erzählt die Navidi-Note: mehr Pflichten für Frauen ohne neue Pflichten für Männer, dazu ein Vergleich mit dem Islamismus, den die Note nur als Warnung vor einer Richtung gelten lässt.
+
 ---
 
 ## Weiterdenken

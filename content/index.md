@@ -80,6 +80,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
+> **11.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
 > **11.11.** — [[Panorama/NoAfD|NoAfD]]
 >
 > Was will die AfD, wenn sie vor vielen leise spricht? Fünf offene Fragen, gemessen an Wortlaut, Programm und Praxis, mit dem Mann, der in Sachsen-Anhalt ihr erster Ministerpräsident werden will.
@@ -87,10 +91,6 @@ Die Gedankenwelten (luc)
 > **11.11.** — [[Panorama/Was fordert die Gen Z|Was fordert die Gen Z?]]
 >
 > Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat.
-
-> **11.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
->
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
 > → *18 weitere in* [[Panorama]]
 

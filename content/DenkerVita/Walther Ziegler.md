@@ -3,6 +3,7 @@ title: Walther Ziegler — DenkerVita
 description: "Platon, Kant, Foucault in je einer Stunde: Walther Ziegler erklärt große Denker mit Originalzitaten und Alltagsbeispielen und fragt, was sie uns heute noch zu sagen haben."
 date: 2026-04-26
 aktualisiert: 2026-04-26
+raetsel: "Er bestellte das Frühstück der Existenzialisten. Es kamen Espresso und Zigarette."
 tags: [denker-vita, philosophie, didaktik, deutschland]
 ---
 

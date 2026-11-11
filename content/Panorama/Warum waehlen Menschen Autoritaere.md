@@ -2,7 +2,7 @@
 title: "Warum wählen Menschen Autoritäre?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-04
+aktualisiert: 2026-11-11
 description: "Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -289,6 +289,8 @@ Die heutige Forschung findet beide Effekte. Das **Integrationsparadox** ist gut 
 
 Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Gefühl, was der andere gewinnt, verliere ich, wächst dort, wo die eigene Familie keinen Aufstieg erlebt hat, und geht mit dem Wunsch nach Umverteilung *und* nach strengerer Migrationspolitik einher ([Chinoy, Nunn, Sequeira & Stantcheva 2026](https://doi.org/10.1257/aer.20240692)). Global haben zwischen 1988 und 2008 die asiatischen Mittelschichten und das oberste Prozent gewonnen, während die unteren Mittelschichten der reichen Länder stagnierten ([Lakner & Milanović 2016](https://doi.org/10.1093/wber/lhv039)). Eine Hoffnung trägt die Forschung nicht: dass der Backlash mit den Alten ausstirbt. Jüngere Kohorten wählen eher mehr autoritär-populistisch als ältere ([Schäfer 2021](https://doi.org/10.1017/S0007123421000363)). Die Gender-Gap-Forschung ist allerdings jung, Meta-Analysen fehlen noch.
 
+Für die USA verbinden die Daten die beiden Erklärungen der Krise junger Männer. Wo die Importkonkurrenz Industriearbeit kostete, traf es junge Männer stärker als junge Frauen, danach wurde weniger geheiratet und es gab mehr arme Alleinerziehenden-Haushalte ([Autor, Dorn & Hanson 2019](https://doi.org/10.1257/aeri.20180010), natürliches Experiment). Die politische Kluft der Jungen wächst dort vor allem, weil junge Frauen nach links gehen, während sich junge Männer seit zwanzig Jahren kaum anders einordnen ([Gallup 2024](https://news.gallup.com/poll/609914/women-become-liberal-men-mostly-stable.aspx)); 2024 wählten sie mehrheitlich Trump, 2026 mehrheitlich die Demokraten ([CIRCLE](https://circle.tufts.edu/2026-election)). Wie viel die Manosphere dazu beiträgt, ist kaum erforscht ([Iñigo 2026](https://doi.org/10.1177/10608265251357869), Übersichtsarbeit).
+
 **Die Stimmen**
 
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Hat nicht geklappt — Tocqueville und der Backlash|Aladin El-Mafaalani]]:** Mehr Gerechtigkeit führt in der Regel zu mehr Konflikten, und dauerhafte Großzügigkeit durch diesen Prozess hindurch ist anthropologisch unwahrscheinlich. Tocqueville habe sich geirrt: „Hat nicht geklappt.“
@@ -299,6 +301,7 @@ Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Ge
 - **[[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#Das Sedativ|Harald Welzer]]:** Man fühlte sich auf einem zivilisatorisch guten Weg und nahm die Gegenkräfte nicht zur Kenntnis; die Entpolitisierung von Klima- und Artenschutz, als wollten alle dasselbe, war ein „Sedativ“.
 - **[[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)#Gender/Woke als Fantasma — Kontinuität|Eva von Redecker]]:** Das Anti-Gender-Vokabular setzt alte Muster fort; der Kampf ist symbolisch und braucht die Wirklichkeit nicht.
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Das Ende von „It's the economy, stupid“|Ardalan Ibrahim]]:** Wenn der Kuchen nicht mehr wächst, zerbricht das Aufstiegsversprechen, und die Rechte bietet die „happy Volksgemeinschaft“ an.
+- **[[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika#Die Krise der jungen Männer|Sandra Navidi]]:** Die Krise junger Männer ist real, aber die Rechte lenkt sie in eine Opferrolle um, „dann kann man sagen, okay, die Frauen sind schuld“; dasselbe Muster wie bei den Migranten.
 
 <details><summary>Weitere Stimmen (11)</summary>
 
@@ -350,6 +353,7 @@ Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Ge
 | 31.10.2026 | [[Eva von Redecker — Dieser Drang nach Härte#Nachbesprechung\|Eva von Redecker — Dieser Drang nach Härte]] | Was holt Wähler zurück? Öffentlicher Luxus: Schließungen treiben nach rechts (Dickson et al. 2026, Nyholt 2023), Deutschland dünn (Stroppe 2023/2026), Schattenseite Gemeindebau (Cavaillé & Ferwerda 2023) |
 | 01.11.2026 | [[Andreas Kemper — Faschismen im 21. Jahrhundert#Nachbesprechung|Andreas Kemper — Faschismen im 21. Jahrhundert]] | Was lehrt Weimar: Effektgröße Cantoni (0,08–0,15 SD), Ostpreußen-Fall, Voigtländer & Voth 2015, Haffert 2022, KZ-Streit Homola/Pepinsky · Kemper als Stimme („deckungsgleich“) |
 | 04.11.2026 | [[Zeitgeist/auslandsjournal — Ausgetrumpt#Nachbesprechung\|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]] | Was holt Wähler zurück? Populismus von links: Klassenrhetorik (Robison et al. 2020), Anti-Establishment statt Inhalt (Marx & Schumacher 2018), Liberalität plus Investition (Abou-Chadi & Wagner 2019), Misstrauen von links wie rechts (Rooduijn 2016, Rekker 2025) · Protest oder Überzeugung: Abwahl aus Ablehnung, Halbzeitverlust 20/23, Thermostat (Claassen 2019), Mehrheiten kippen 2010/2022 |
+| 11.11.2026 | [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika#Nachbesprechung\|Sandra Navidi — Frauenrechte in Trumps Amerika]] | Ist der Backlash der Preis des Fortschritts? Krise junger Männer in den USA: China-Schock und Familie (Autor, Dorn & Hanson 2019), Bildungsabstand (AIBM), Kluft durch Linksschwenk der Frauen (Gallup 2024), 2024 zu Trump, 2026 zurück (CIRCLE), Manosphere kaum erforscht (Iñigo 2026, Renström & Bäck 2024) · Stimme Navidi |
 
 ---
 

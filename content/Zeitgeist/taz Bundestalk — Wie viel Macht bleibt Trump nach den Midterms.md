@@ -611,6 +611,10 @@ Die Runde endet mit drei Rezepten, und das Panorama hat für jedes eine Stimme u
 
 Zwei Tage nach dieser Runde macht Trump den Mann, den Pickert nennt, zum Stabschef. Die Note erzählt Millers Weg und warnt davor, Trump hinter seinem Berater verschwinden zu lassen.
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Was die Abstimmungen in Missouri, Nevada und Virginia vor dem Hintergrund von Dobbs bedeuten und wie sie zu einer Warnung vom Juli passen, erzählt die Navidi-Note.
+
 ---
 
 ## Weiterdenken

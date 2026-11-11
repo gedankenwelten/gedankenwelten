@@ -321,6 +321,10 @@ Die Gegenrechnung zur gezähmten Urne. Für Richter machten amtlicher Stimmzette
 
 Hier steht Richter unter „Und wenn es brennt?“, und ihre Nachbesprechung erweitert den Sachstand dort um die Übergänge nach gewaltfreiem und bewaffnetem Widerstand. Ihr Vortrag fügt dem Panorama eine Beobachtung hinzu: Die Nachwelt erinnert vor allem, was Bilder hinterlassen hat.
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Wie der Name heute wieder zur Hürde werden kann, erzählt die Navidi-Note: Mit dem SAVE Act und ähnlichen Gesetzen der Bundesstaaten muss die Staatsbürgerschaft mit Dokumenten belegt werden, und in New Hampshire wurden 2025 drei Frauen abgewiesen, deren Geburtsurkunde noch den Mädchennamen trug.
+
 ---
 
 ## Weiterdenken

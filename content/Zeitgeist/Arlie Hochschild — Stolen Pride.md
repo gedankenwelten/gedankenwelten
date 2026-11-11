@@ -234,6 +234,10 @@ Der Medienforscher Uwe Krüger führt Trumps Sieg 2016 auch darauf zurück, dass
 
 Opferrolle und Roar-Back, diesmal ohne Pikeville: Millers Biografin beschreibt eine „white male grievance“, die in einer reichen Stadt am Pazifik entstand.
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Wie die umgelenkte Scham ein Geschlecht bekommen kann, zeigt die Navidi-Note. Dort steht auch, dass sich junge Männer 2025 von den Demokraten übersehen fühlten (*„invisible to the Democratic coalition“*).
+
 ---
 
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]

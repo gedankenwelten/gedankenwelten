@@ -237,6 +237,10 @@ Daritys *reconstruction exhaustion* und Crenshaws *reform and retrenchment* sind
 
 Die Vorgeschichte des Wahllokals, in das Seneca Falls wollte. Die Historikerin Hedwig Richter zeigt eine amerikanische Karikatur aus der Zeit nach dem Bürgerkrieg, die alle, die nicht wählen sollten, auf ein Bild setzt: eine Frau, einen Native American, einen irischen Einwanderer, einen Afroamerikaner, ein Kind. Ihre Nachbesprechung zeigt die Lücke in Zahlen: Das Frauenwahlrecht hob in den USA die Schulausgaben, aber im Süden, wo Schwarze weiter nicht wählen durften, wuchsen vor allem die Schulen der Weißen.
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Wie eine Regel, die kein Geschlecht nennt, trotzdem ungleich treffen kann, zeigt die Navidi-Note am SAVE Act. In ihrer Nachbesprechung steht auch, dass ein Viertel der Kluft im Wahlverhalten von Frauen und Männern daher kommt, dass unter den Wählerinnen mehr Schwarze sind.
+
 ---
 
 ## Weiterdenken

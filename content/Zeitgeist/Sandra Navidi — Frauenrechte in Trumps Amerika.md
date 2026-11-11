@@ -175,7 +175,47 @@ Ob die breite Masse das hinnimmt? *„Das ist die große Frage. Also ich glaube,
 
 ## Nachbesprechung
 
-NACHBESPRECHUNG_PLATZHALTER
+*Drei Fragen, die das Gespräch aufwirft und offen lässt: ob Frauen anders wählen, ob die Krise der jungen Männer den Rechtsruck trägt, und was eine Hürde vor der Urne messbar bewirkt.*
+
+### Wählen Frauen anders?
+
+Navidi erklärt den Wunsch, Frauen aus der Wahl zu drängen, mit einer Annahme: Frauen seien „tendenziell eher sozial eingestellt“ und wählten darum eher die Demokraten [▶ 42:34](https://www.youtube.com/watch?v=C11g64vygdA&t=2554). In den Zahlen steckt etwas Wahres. Frauen wählen in den USA seit 1980 in jeder Präsidentschaftswahl demokratischer als Männer; 1980 lag der Abstand bei 8 Punkten ([Roper Center](https://ropercenter.cornell.edu/how-groups-voted-1980)), 2024 wählten die Männer Trump mit 12 Punkten Vorsprung, die Frauen Harris mit 7 ([Pew Research Center](https://www.pewresearch.org/politics/2025/06/26/voting-patterns-in-the-2024-election/)).
+
+Ein Wesenszug ist das nicht. Früher wählten Frauen in vielen Ländern konservativer als Männer, erst seit den 1980er-Jahren rücken sie in den reichen Demokratien links an ihnen vorbei ([Inglehart & Norris 2000](https://doi.org/10.1177/0192512100214007), Ländervergleich). Ein Viertel der amerikanischen Kluft erklärt schon die Zusammensetzung: Unter den Wählerinnen sind mehr Schwarze, weil schwarze Männer häufiger früh sterben, in Haft sitzen oder wegen Vorstrafen nicht wählen dürfen ([England u. a. 2023](https://doi.org/10.1073/pnas.2221910120), Einzelstudie). Und weiße Frauen stimmten in 16 der letzten 18 Präsidentschaftswahlen mehrheitlich republikanisch ([Junn & Masuoka 2020](https://doi.org/10.1017/s1537592719003876), Auswertung der Wahlstudien). Die Soziologin Isabel Wilkerson sagt über 2016 und 2020, weiße Frauen hätten sich mit ihrer Stellung identifiziert, nicht mit der Kandidatin, die aussah wie sie ([[Denker/Isabel Wilkerson — Race Caste and Social Justice#Jeder spielt mit — die Bühne, die Leiter, der Wachdienst|Wilkerson]]).
+
+Ändert sich, was entschieden wird, wenn mehr Frauen im Amt sind? Eine Übersichtsarbeit findet, dass Frauen im Parlament die Anliegen von Frauen insgesamt stärken, mit gemischten Einzelbefunden ([Wängnerud 2009](https://doi.org/10.1146/annurev.polisci.11.053106.123839), Übersichtsarbeit). Amerikanische Bürgermeisterinnen, die knapp gewannen, führen keine anderen Haushalte als Bürgermeister, die knapp gewannen ([Ferreira & Gyourko 2014](https://doi.org/10.1016/j.jpubeco.2014.01.006), Regressions-Diskontinuität).
+
+In den Parlamenten der Bundesstaaten gingen weniger Frauen mit mehr abtreibungsgegnerischer Politik einher, ein Zusammenhang, kein Beweis der Ursache ([Norrander & Wilcox 1999](https://doi.org/10.1111/j.1541-0072.1999.tb01998.x), Querschnitt). Im Kongress zählt bei Abstimmungen die Partei mehr als das Geschlecht, und seit 2010 sind gerade republikanische Abtreibungsgegnerinnen für die Linie ihrer Partei wichtig ([Swers 2023](https://doi.org/10.1515/for-2023-2016), Fallanalyse).
+
+Die Wahl vom November 2026 bringt dazu einen Rekord. Mindestens 160 Frauen werden ab 2027 im Kongress sitzen, im Repräsentantenhaus mindestens 137, im Senat dagegen nur noch 23 statt 27 ([CAWP](https://cawp.rutgers.edu/blog/results-women-congressional-and-statewide-executive-candidates-election-2026)). Der Zuwachs ist fast ganz demokratisch: Von den 143 bereits gewählten Frauen sind 119 Demokratinnen. Was Thiel 2009 als Gefahr für den Kapitalismus beschrieb, ein Wahlvolk, das anders entscheidet, lässt sich in diesem Kongress beobachten, aber schwer vom Parteiwechsel trennen.
+
+→ Weiter im Panorama: **[[Panorama/Wirken Quoten#Ändert sie, was entschieden wird?|Wirken Quoten? Ändert sie, was entschieden wird?]]**, mit Hedwig Richter, Malala Yousafzai und Juli Zeh.
+
+### Die Krise der jungen Männer
+
+Am Anfang des Gesprächs stehen zwei Erklärungen. Navidi sieht Globalisierung, Wissensökonomie und zerfallende Gemeinden [▶ 3:02](https://www.youtube.com/watch?v=C11g64vygdA&t=182), der Moderator bringt Scott Galloways fehlende Vorbilder und mehr alleinerziehende Mütter ein [▶ 6:48](https://www.youtube.com/watch?v=C11g64vygdA&t=408). Die Forschung verbindet beide. Wo die Industriekonkurrenz aus China Arbeitsplätze kostete, traf es junge Männer stärker als junge Frauen; danach wurde weniger geheiratet, und es gab mehr unverheiratete Mütter und arme Alleinerziehenden-Haushalte ([Autor, Dorn & Hanson 2019](https://doi.org/10.1257/aeri.20180010), natürliches Experiment). Galloways alleinerziehende Mütter sind so zum Teil eine Folge von Navidis Globalisierung. Löhne und Erwerbsbeteiligung von Männern ohne Studium fallen seit einem halben Jahrhundert, und Arbeitsmarkt, Familie und Heiratsmarkt verstärken sich dabei gegenseitig ([Binder & Bound 2019](https://doi.org/10.1257/jep.33.2.163), Übersichtsarbeit).
+
+Bei der Bildung ist der Abstand groß und stabil. Männer erhielten 2021 noch 42 Prozent der Bachelor-Abschlüsse, 1970 waren es 57 ([AIBM, Reeves & Secker 2024](https://aibm.org/research/male-college-enrollment-and-completion/)). Richard Reeves, der das Institut leitet, hat das in *Of Boys and Men* (2022) beschrieben.
+
+Den Rechtsruck, von dem Navidi spricht, zeigen die Umfragen genauer, als das Wort es sagt. Die Kluft zwischen jungen Frauen und Männern wächst vor allem, weil junge Frauen nach links gehen; die jungen Männer nennen sich seit zwanzig Jahren ungefähr gleich oft liberal ([Gallup, 07.02.2024](https://news.gallup.com/poll/609914/women-become-liberal-men-mostly-stable.aspx)). 2024 wählten junge Männer mehrheitlich Trump, 2026 wählten nach einer Nachwahlbefragung 59 Prozent von ihnen und 70 Prozent der jungen Frauen demokratisch ([CIRCLE, Tufts University](https://circle.tufts.edu/2026-election)). Der Schwenk von 2024 war also keine feste Neuordnung.
+
+Wie viel davon die Manosphere bewirkt, weiß man kaum. Eine Übersicht über die Forschung bis 2023 nennt Algorithmen und die Radikalisierung junger Männer als größte Lücken ([Iñigo 2026](https://doi.org/10.1177/10608265251357869), Übersichtsarbeit). In einer schwedischen Studie entmenschlichten Männer, die vielen „Manfluencern“ folgen, Frauen eher. Im Experiment zeigte sich der Effekt aber nur bei Männern, die sich früher von Frauen zurückgewiesen fühlten ([Renström & Bäck 2024](https://doi.org/10.1007/s11199-024-01538-2), Einzelstudie, im Oktober 2026 präzisiert). Das passt zu Navidis Beobachtung vom Opfergefühl als Einfallstor [▶ 25:02](https://www.youtube.com/watch?v=C11g64vygdA&t=1502). Der Philosoph Rainer Mühlhoff beschreibt dieselbe Bewegung für die Tech-Ideologie: Frustrierte Männlichkeit finde dort eine Erklärung ihrer Kränkung und ein Erlösungsversprechen ([[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Faschismus 2.0 Ideologie, White Supremacy und Manosphere|Mühlhoff]]).
+
+Die Gegenseite hat einen Punkt, den Navidi nicht macht. In einer Studie im Auftrag der Demokraten sahen 2025 nur 27 Prozent der jungen Männer die Partei positiv, sie fühlten sich „invisible to the Democratic coalition“ ([Politico, 03.06.2025](https://www.politico.com/news/2025/06/03/democrats-young-men-study-00384370)). Wer eine reale Kränkung nicht beantwortet, überlässt sie denen, die eine falsche Antwort haben.
+
+→ Weiter im Panorama: **[[Panorama/Warum waehlen Menschen Autoritaere#Ist der Backlash der Preis des Fortschritts?|Warum wählen Menschen Autoritäre? Ist der Backlash der Preis des Fortschritts?]]**, mit Aladin El-Mafaalani, Barbara Bleisch und Roger de Weck.
+
+### Gibt es ein Wahlrecht, das man halten muss?
+
+Niemand müsse den Frauen das Wahlrecht nehmen, sagt Navidi, man könne es ihnen „so schwer wie möglich machen“ [▶ 42:34](https://www.youtube.com/watch?v=C11g64vygdA&t=2554). Was Hürden messbar bewirken, hängt davon ab, wo sie stehen. Ein Ausweis am Wahllokal hält kaum jemanden ab: Mit Daten von 2008 bis 2018 fanden Cantoni und Pons keinen Rückgang der Beteiligung, für keine Gruppe nach Hautfarbe, Geschlecht, Alter oder Partei ([Cantoni & Pons 2021](https://doi.org/10.1093/qje/qjab019), Differenz-in-Differenzen). Ältere Studien, die anderes fanden, beruhten zum Teil auf fehlerhaften Umfragedaten ([Grimmer u. a. 2018](https://doi.org/10.1086/696618), Replikation); parteipolitisch nützen solche Gesetze im Schnitt kaum ([Harden & Campos 2023](https://doi.org/10.1073/pnas.2217323120), Panel 2003–2020).
+
+Hürden wirken stärker, wenn sie vor der Wahl liegen, bei der Registrierung ([Cantoni, Pons & Schäfer 2024](https://doi.org/10.3386/w32941), Übersicht, Arbeitspapier).
+
+Genau dort setzt der SAVE Act an, und dafür gibt es Fälle. In Kansas blockierte die Pflicht, die Staatsbürgerschaft mit Dokumenten nachzuweisen, von 2013 bis 2015 gut 31.000 Anträge, jede achte Neuregistrierung. Nichtbürger fand man in 19 Jahren höchstens 39 auf den Listen; das Bundesberufungsgericht erklärte das Gesetz 2020 für verfassungswidrig ([10th Circuit, Fish v. Schwab](https://www.govinfo.gov/content/pkg/USCOURTS-ca10-18-03133/pdf/USCOURTS-ca10-18-03133-0.pdf)). In New Hampshire wurden 2025 nach einem ähnlichen Gesetz in Bethlehem drei Frauen abgewiesen, weil ihre Geburtsurkunden noch den Mädchennamen trugen; eine Bundesrichterin erklärte die Regel im Mai 2026 für verfassungswidrig ([InDepthNH, 29.05.2026](https://indepthnh.org/2026/05/29/federal-judge-strikes-down-voter-registration-restriction-law/)). Die Hürde für Frauen mit geändertem Namen, die Navidi beschreibt, ist also mehr als eine Vermutung, gemessen ist sie in großer Zahl noch nicht.
+
+Der längere Bogen gibt Hedwig Richters Satz recht, dass ein Recht gehalten werden muss. Nach dem 15. Verfassungszusatz senkten Kopfsteuern und Lesetests im Süden die Wahlbeteiligung deutlich ([Naidu 2012](https://doi.org/10.3386/w18129), Vergleich benachbarter Counties). Als der Supreme Court 2013 im Fall *Shelby County* die Bundesaufsicht über die Wahlgesetze früherer Jim-Crow-Staaten beendete, wuchs die Beteiligungslücke zwischen Schwarzen und Weißen, vor allem dort, wo die Aufsicht vorher Gesetze blockiert hatte ([Morris & Miller 2025](https://doi.org/10.1086/739960), fast eine Milliarde Einzeldatensätze). Und dieselbe Reformzeit um 1900, die Richter für Kabine und Umschlag lobt ([[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Die gezähmte Urne|Richter]]), führte in den USA die persönliche Registrierung ein, die die Beteiligung um bis zu sechs Punkte senkte ([Perez 2021](https://doi.org/10.1016/j.electstud.2020.102263), Panel 1880–1916). Was gegen Betrug schützt, kann zugleich Berechtigte fernhalten; man sieht es erst, wenn man die Fehlenden zählt.
+
+→ Weiter im Panorama: **[[Panorama/Wie kann Demokratie funktionieren#Wer gehört zum Demos — wer darf mitentscheiden?|Wie kann Demokratie funktionieren? Wer gehört zum Demos?]]** · zum Stand in den USA die Spur [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028#Was am Wahlsystem gedreht wird|Halbzeit-Amerika]]
 
 ---
 
@@ -347,7 +387,37 @@ NACHBESPRECHUNG_PLATZHALTER
 
 ## Verbindungen
 
-VERBINDUNGEN_PLATZHALTER
+### → [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
+
+Bei Richter scheitert eine amerikanische Frauenrechtlerin des 19. Jahrhunderts am Wahltisch schon an ihrem Namen. Mit jeder Angabe wird sie stiller, bis sie umkehrt, denn dass eine Frau einen eigenen Namen hat, war damals eine merkwürdige Vorstellung. Anderthalb Jahrhunderte später hakt es wieder am Namen, diesmal auf Papier: Wer seit der Geburt anders heißt, braucht für den Nachweis der Staatsbürgerschaft die Heiratsurkunde. Mit der Weimarer Kurve zeigt Richter außerdem, dass ein gewonnenes Recht wieder schrumpfen kann, bis unter den Nationalsozialisten keine Frau mehr im Reichstag saß. Navidi zeigt eine leisere Art, ein Recht auszuhöhlen.
+
+### → [[Denker/Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]
+
+Crenshaw erzählt die *grandfather clause* des 19. Jahrhunderts als Lehrstück: Sie nannte keine Hautfarbe und hielt doch Schwarze von der Urne fern, *„color-blind, horribly discriminatory“*. Damit fragt sie die Navidi-Note dort an, wo diese am sorgfältigsten trennt: Belegt sei eine Hürde, die Frauen mit geändertem Namen härter trifft, eine Absicht dahinter nicht. Für Crenshaw kommen Gesetze, die nur nach bösen Absichten fahnden, *„only halfway if that“*. Ihr Muster von *reform and retrenchment* gibt Navidis Bild vom schrittweisen Rückbau eine lange amerikanische Vorgeschichte.
+
+### → [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+
+Die Spur hält fest, was rund um den 3. November am Wahlsystem gedreht wurde, und liefert die Zahlen zu der Gefahr, gegen die der SAVE Act schützen soll: In Nevada blieben von 15.903 gemeldeten möglichen Nichtbürgern nach Prüfung 185, und die waren laut Staat Bürger. Das Heimatschutzministerium nennt die erste Zahl eine Obergrenze und prüft nach eigener Angabe weiter. Für Navidis Frage zählt ein Befund aus dem Gleichmut-Spiegel der Spur: Auch die konservativen Stimmen dort verteidigen den SAVE Act nicht, Sean Trende hält den Staatsbürgerschaftsnachweis für *„the most problematic“* Teil.
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
+
+Clüver Ashbrook erklärt, warum die religiöse Rechte zu Trump hält: Er lieferte, was sie seit den 1970ern wollte, das Ende des Abtreibungsrechts in der Fläche, einen auf Lebenszeit konservativen Supreme Court, die Schwächung der öffentlichen Schule. Navidis Kapitel über die Zeit nach Dobbs zeigt, was dieser Erfolg im Leben von Frauen heißt, von Nevaeh Crain bis zu dem Mädchen aus Ohio. Beide kommen auch beim Wahlrecht an. Clüver Ashbrook spricht von Sympathien bei Vance und Hegseth für ein Familienwahlrecht; die Navidi-Note prüft dieselbe Spur und findet Stimmen wie die Kirche Doug Wilsons, deren Werbevideo Hegseth teilte, aber keinen Gesetzentwurf und keine Programmzeile.
+
+### → [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus]]
+
+Redecker gibt Navidis Satz, es gehe „rein um ein Machtmittel“, eine Theorie: Die Neuzeit behaupte Gleichheit und halte Frauen doch für „zumindest zur Hälfte aneigenbar“, der Zugriff auf ihre Körper sei „ein notwendiges Dekor, um sich als mächtig zu fühlen“. In ihrer Zerlegung des Großen Austauschs stehen die Frauen, die zu wenige Kinder bekommen, am Anfang der Kette, Navidis demografische Angst mit Geschlecht. Zugleich ist Redecker die Gegenstimme zu Navidis Vergleich mit dem Islamismus: Bei den Taliban sieht sie eine „brachiale Sachherrschaft“, eine andere Stufe als die ambivalente westliche Logik, und die Begriffe sollen unterscheidbar bleiben.
+
+### → [[Zeitgeist/Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride]]
+
+Hochschild hat in Pikeville gesehen, wie Verlust zu Scham wird und wie Trump die Scham nach außen umlenkt: *„Donald Trump is mining their shame the way coal miners mine coal.“* Navidi beschreibt dieselbe Bewegung mit Geschlecht, die Männer würden in eine Opferrolle gedrängt, und dann seien die Frauen schuld. Hochschild bringt mit, was im Gespräch offen bleibt: eine Methode, den Gekränkten zuzuhören, ohne ihnen zuzustimmen, und den Befund, dass mit den Gewerkschaften das Bindeglied zwischen Arbeiterschaft und Demokraten verschwand.
+
+### → [[Zeitgeist/Philipp Blom — Die strauchelnde Welt|Philipp Blom — Die strauchelnde Welt]]
+
+Die frappierendste Parallele zur Zeit vor 1914 ist für Blom die Männlichkeit: damals Bodybuilding, Schnurrbärte und Säbel, heute Manosphere und Incels. Viele meldeten sich 1914 freiwillig, um sich ihre Männlichkeit zu beweisen, bis an der Front dieselbe Granate alle zerriss. Seine „atavistische Sehnsucht“ nach der Frau am Herd und dem Mann mit Muskeln fasst Navidis Testosteron-Abkürzung und die Tradwives in einen Satz, und sein Nachsatz, diese schöne alte Zeit habe es nie gegeben, passt zu ihrer Rechnung, nach der sich den Einverdienerhaushalt heute kaum jemand leisten kann.
+
+### → [[Zeitgeist/taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms|taz Bundestalk — Wie viel Macht bleibt Trump nach den Midterms]]
+
+Die taz-Runde am Tag nach den Midterms ist der nüchterne Nachtrag zu Navidis Satz, die große Masse stehe nicht dahinter. Das Recht auf Abtreibung hielt in drei von vier Abstimmungen, viele Gouverneurinnen wurden gewählt, und in der Runde fällt der Hinweis, die Evangelikalen seien nicht monolithisch. Am selben Abend gingen aber in Arizona und Colorado Einschnitte bei den Transrechten durch, und die Einordnung dort warnt: Wer aus dieser Koalition des Neins eine Linkswende liest, liest seinen Wunsch. Das ist die Gegenstimme zu dem Schluss, den „Was seither geschah“ leicht nahelegt.
 
 ---
 

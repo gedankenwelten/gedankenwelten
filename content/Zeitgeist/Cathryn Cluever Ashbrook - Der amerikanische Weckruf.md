@@ -244,6 +244,10 @@ Fricke belegt ökonomisch, was Clüver Ashbrook als Nährboden setzt: dass wirts
 
 Der Urheber von „flood the zone“ aus der Nähe: Auf der CPAC 2017 kündigte Bannon die „Dekonstruktion des Verwaltungsstaats“ an und setzte auf Dekrete im Takt „bam, bam, bam“. Was davon in Trumps zweiter Amtszeit in Dekreten steht, hält die Note unter „Was seither geschah“ fest.
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Was der Erfolg der religiösen Rechten am Supreme Court für Frauen konkret bedeutet, zeigt die Navidi-Note: die Folgen von Dobbs, der Text des Project 2025 mit Seitenzahlen und die Frage, wie weit die Idee einer Stimme je Haushalt über Randstimmen hinausreicht.
+
 ---
 
 ## Weiterdenken

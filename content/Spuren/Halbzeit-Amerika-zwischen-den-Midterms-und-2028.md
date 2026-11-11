@@ -618,6 +618,10 @@ Die taz-Runde vom 04.11. hält die lahme Ente für die falsche Erwartung: Ein Ap
 - Dan McLaughlin — National Review [28.10.](https://www.nationalreview.com/2026/10/the-senate-will-break-late-this-year/), [25.09.](https://www.nationalreview.com/corner/supreme-court-allows-trump-dhs-to-share-social-security-data-with-elections-officials/), [Texas-Karte (2025)](https://www.nationalreview.com/corner/supreme-court-rightly-keeps-the-texas-republican-gerrymander-for-2026/), [Wahlbetrug 2020](https://www.nationalreview.com/2020/11/do-not-buy-bad-arguments-about-election-fraud/) · X [SAVE Act](https://x.com/baseballcrank/status/2085739016326930539), [Slotkin](https://x.com/baseballcrank/status/2112743972581868027), [Alaska](https://x.com/baseballcrank/status/2114128572919251387) · konservativ; NR-Texte 2026 meist hinter der Bezahlschranke, gelesen ist der freie Anfang
 - Yuval Levin — [National Review, Juni](https://www.nationalreview.com/magazine/2026/08/the-trump-era-gops-dangerous-drift/) · [AEI, 03.09.](https://www.aei.org/op-eds/barking-up-the-wrong-amendment/) · [Ezra Klein Show, 16.01.](https://www.aei.org/multimedia/has-trump-achieved-a-lot-less-than-it-seems/) · [Checks & Balances, 20.08.](https://www.youtube.com/watch?v=PH0asX26Qng) · [6. Januar (2021)](https://www.aei.org/op-eds/trumps-rebellion-against-reality/) · konservativ, Trump-kritisch
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Wen der verlangte Staatsbürgerschaftsnachweis trifft, erzählt die Navidi-Note: Frauen, die seit der Geburt einen anderen Namen tragen, dazu die Fälle aus Kansas und New Hampshire.
+
 ---
 
 ## Weiterdenken

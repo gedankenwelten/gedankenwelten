@@ -410,6 +410,10 @@ Dänemarks schnell abgeschaffte Fettsteuer und die deutsche Zuckerabgabe 2026/27
 
 Tscharntkes Hoffnung ist das Rauchverbot, Jessens Einwand die Gurtpflicht, und der Gurt wurde erst mit dem Bußgeld von 1984 selbstverständlich, ein Fall für die Bedingung aus „Gewöhnen sich Menschen an das Verordnete?“. Der Agrarumbau ist zugleich der Backlash-Fall: Die Kosten von Hecke und kleinem Feld trägt der Hof, der Nutzen gehört allen.
 
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+
+Wie die alte Krise der Männlichkeit heute aussieht, von Hegseths Rede vor den Generälen bis zur Tablette als Antwort auf ein gesellschaftliches Problem, erzählt die Navidi-Note.
+
 ---
 
 ## Weiterdenken

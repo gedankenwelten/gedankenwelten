@@ -27,10 +27,10 @@ aliases:
 Quelle: [Heidegger in 60 Minuten](https://www.youtube.com/watch?v=cG3ol6AYAWI)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Promovierter Philosoph, Journalist (ehem. Nachrichtenchef ProSieben) und Hochschuldozent. Autor der Buchreihe *„Große Denker in 60 Minuten"* (übersetzt u. a. ins Englische, Französische, Vietnamesische und Koreanische). Verbindet akademische Philosophie mit journalistischer Vermittlung.
+> **Dr. Walther Ziegler** — Promovierter Philosoph, Journalist (ehem. Nachrichtenchef ProSieben) und Hochschuldozent. Autor der Buchreihe *„Große Denker in 60 Minuten"* (übersetzt u. a. ins Englische, Französische, Vietnamesische und Koreanische). Verbindet akademische Philosophie mit journalistischer Vermittlung. → [[DenkerVita/Walther Ziegler|DenkerVita Ziegler]]
 >
 > **Gegenstand:** Martin Heidegger (1889–1976), einer der einflussreichsten Philosophen des 20. Jahrhunderts. Sein Hauptwerk *Sein und Zeit* (1927) begründete die Fundamentalontologie und beeinflusste Existenzialismus, Hermeneutik und Dekonstruktion.
-> → [[DenkerVita/Martin Heidegger|DenkerVita]]
+> → [[DenkerVita/Martin Heidegger|DenkerVita Heidegger]]
 
 ---
 
