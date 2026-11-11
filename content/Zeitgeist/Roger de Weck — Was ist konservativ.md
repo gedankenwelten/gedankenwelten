@@ -391,6 +391,10 @@ Am selben Konferenzwochenende biegt Brosda den Deliverism vom Inhalt auf die Fri
 
 Kowalczuk geht gegen den Deliverism von der Bürgerseite an: Kretschmers „wenn das System nicht liefert“ hält er für das Problem selbst, denn Demokratie sei keine Dienstleistung. Hawes' tausendjährigen Osten brauchen weder er noch Oschmann.
 
+### → [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
+
+Burkes Erbe, an der Geschichte des Frauenwahlrechts gezeigt. Die Historikerin Hedwig Richter erzählt, wie es über Petitionen, Vereine und Wahlreformen kam, Stück für Stück, und wie die Konservativen, die es lange bekämpft hatten, 1919 sofort um die Wählerinnen warben. Das ist de Wecks Satz, dass sie verteidigen, was sie bekämpft haben. Die Schweiz, sein Beispiel für die Lernkurve, ist zugleich der langsamste Fall für Richters These, dass das Frauenwahlrecht auch ohne Revolution kam.
+
 ---
 
 ## Weiterdenken

@@ -1378,3 +1378,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Hanna Pfeifer
 **Status:** ✓ Vollanalyse → [[DenkerVita/Hanna Pfeifer]]
+
+## Hedwig Richter
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hedwig Richter]]

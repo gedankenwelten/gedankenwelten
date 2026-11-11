@@ -454,6 +454,10 @@ Neiman teilt Celikates' Befund vom instrumentalisierten Antisemitismus-Vorwurf u
 
 Den Weg, auf dem die Gewalt gegen die Rechtlosen nach innen wandert, beschrieb Arendt an den Staatenlosen der Zwischenkriegszeit.
 
+### → [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
+
+Dieselbe Erinnerung, andersherum gelesen. Die Historikerin Hedwig Richter sagt, man kenne die britischen Suffragetten, weil sie Gewalt gebrauchten und damit ins Heldenbild der Barrikade passten; gekommen sei das Frauenwahlrecht eher über Petitionen und Vereine. Celikates erinnert King radikaler, als sein Denkmal ist, Richter die Frauenbewegung bedächtiger als ihr berühmtestes Bild. Beide Notes prüfen ihren Redner an den Daten von Erica Chenoweth, und beide finden, dass sie weniger tragen, als gebraucht wird: hier für die Gewalt, dort für die Reform.
+
 ---
 
 ## Weiterdenken

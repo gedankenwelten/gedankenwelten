@@ -389,6 +389,9 @@ Niess' ganze These gehört hierher: Wer am 9. November erinnert, macht Politik, 
 ### → [[Spuren/Gewalt-aus-Ueberzeugung|Spur: Gewalt aus Überzeugung]]
 Am selben 9. November eröffnet: Die Spur fragt, ob Gewalt aus Überzeugung heute zunimmt, und legt 1980 bis 2024 als Vergangenheitsbild darunter.
 
+### → [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
+Die Gegenstimme zu Niess' 1918, eine Tagesnote zum 12. November. Die Historikerin Hedwig Richter nennt das Frauenwahlrecht weniger ein Geschenk der Revolution als die Frucht von Petitionen, Vereinen und Wahlreformen um 1900, und sie verweist auf Länder wie Neuseeland, wo es Jahrzehnte vor dem Krieg kam. Niess' drei Tage sind bei ihr der Augenblick, in dem eine lange Vorarbeit ankam. Die Note schließt, dass es vermutlich beides brauchte, den langen Atem der Petitionen und den Moment, in dem die alte Ordnung keinen Einspruch mehr erheben konnte.
+
 ---
 
 ## Weiterdenken

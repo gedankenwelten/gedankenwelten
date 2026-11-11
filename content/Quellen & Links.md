@@ -7,6 +7,17 @@ tags:
 ---
 
 
+## Martin Oetting — Die Gen-Z kämpft für uns alle (YouTube, 05.11.2026)
+
+| | |
+|---|---|
+| **Video** | [Die Gen-Z kämpft für uns alle](https://www.youtube.com/watch?v=K8H671yc_xY) — Martin Oetting, 05.11.2026, 12 Min., mit Einspielern von „Gen-Z Regelt“ am Brandenburger Tor (31.10.2026) |
+| **Aufsatz** | [Lange & Schmelzer: Beyond Growth](https://www.intereconomics.eu/contents/year/2025/number/6/article/beyond-growth-europe-s-path-to-sustainability-and-stability.html) (*Intereconomics* 6/2025) |
+| **Daten** | [Bundesbank, Vermögensbefragung 2023](https://publikationen.bundesbank.de/publikationen-de/berichte-studien/monatsberichte/monatsbericht-april-2025-954594?article=vermoegen-und-finanzen-privater-haushalte-in-deutschland-ergebnisse-der-vermoegensbefragung-2023--954598) · [Allianz Global Wealth Report 2026](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/260929-allianz-global-wealth-report-2026.html) |
+| **Notiz** | [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle]] |
+| **DenkerVita** | [[DenkerVita/Martin Oetting]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Oetting_GenZ_Transkript.txt` |
+
 ## Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld (scobel, 2026)
 
 | | |
@@ -5797,3 +5808,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Podcast / Video** | [Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders](https://www.youtube.com/watch?v=s6asGzLT1c8) — Hotel Matze, 28.01.2026, 2:09 h |
 | **Notiz** | [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter]] · [[DenkerVita/Giulia Enders]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Enders_Belohnungssystem_Transkript.txt` |
+
+## Hedwig Richter / Petitionen statt Barrikaden (Frauenwahlrecht)
+
+| | |
+|---|---|
+| **Vortrag** | [Petitionen statt Barrikaden. Das Frauenwahlrecht, die Revolution und die Demokratie](https://www.youtube.com/watch?v=RT3XMS9qSZk) — Werkstattgespräch, Staatsbibliothek zu Berlin, online seit 14.12.2019, 53 Min |
+| **Notiz** | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden]] · [[DenkerVita/Hedwig Richter]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Richter_Frauenwahlrecht_Transkript.txt` (Whisper; YouTube-Autountertitel unbrauchbar) |
+| **Primärquellen** | [Aufruf an das deutsche Volk, 12.11.1918 (Bundesarchiv)](https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/aufruf-an-das-deutsche-volk/) · [Juchacz, 19.02.1919, Sten. Bericht S. 177](https://www.reichstagsprotokolle.de/Blatt2_wv_bsb00000010_00184.html) · [Zetkin, Die Revolution und die Frauen, 22.11.1918](https://www.marxists.org/deutsch/archiv/zetkin/1918/11/rev-frauen.html) |
+| **Zurückgelegt** | [Elke Koch, Zur Geschichte des Frauenwahlrechts (Landesarchiv BW)](https://www.youtube.com/watch?v=E2cEn0upLmQ) · [Sternstunde Philosophie, 50 Jahre Frauenstimmrecht (SRF)](https://www.youtube.com/watch?v=8IYzMMQ_GAU) |

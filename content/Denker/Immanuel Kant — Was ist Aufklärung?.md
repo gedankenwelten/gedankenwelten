@@ -231,3 +231,5 @@ Und der Schlusssatz des Essays ist überraschend schlicht: Der Mensch ist **mehr
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Rawls gibt Kants Aufklärungsforderung eine politische Umsetzung durch den Urzustand
 
 - [[Sibylle Anderl — Bequeme neue Welt#Keine Faulheit, eine Selbstvergessenheit|Sibylle Anderl — Bequeme neue Welt]] — Kants „Es ist so bequem, unmündig zu sein“, gut 240 Jahre später: Die Smartwatch ist der Arzt, der für einen die Diät beurteilt. Die Ursache sucht Anderl in der Selbstvergessenheit derer, die im Hamsterrad mitlaufen, nicht in Faulheit und Feigheit.
+
+- [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]] — Kants Satz, eine Revolution bringe „niemals wahre Reform der Denkungsart“, an der Geschichte des Frauenwahlrechts geprüft: Die Historikerin Hedwig Richter zeigt, wie lange es selbstverständlich war, dass Frauen nicht wählen, und wie sich diese Denkungsart über Vereine, Petitionen und die Reform des Wahllokals langsam änderte. Kants eigener Text zählt „das ganze schöne Geschlecht“ zu denen, die den Schritt zur Mündigkeit für gefährlich halten; dafür sorgten die Vormünder.

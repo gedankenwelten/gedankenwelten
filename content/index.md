@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe.
 
+> **11.11.** — [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
+>
+> Warum durften Frauen so lange nicht wählen, und warum dann plötzlich doch? Hedwig Richter sucht die Antwort im Wahllokal, und sie findet eine Demokratiegeschichte ohne Barrikaden.
+
 > **10.11.** — [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns|Tania Singer — Das Training des sozialen Gehirns]]
 >
 > Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
@@ -40,11 +44,31 @@ Die Gedankenwelten (luc)
 >
 > Ein Tag, an dem Deutschland die Republik ausrief, sie verhöhnte, Synagogen anzündete und die Mauer öffnete. Wolfgang Niess liest darin kein Schicksal. Er liest den langen Kampf um die Demokratie.
 
-> **08.11.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
->
-> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
+> → *9 weitere in* [[Geistesblitz]]
 
-> → *8 weitere in* [[Geistesblitz]]
+### Panorama
+
+> **11.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **11.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
+> **10.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **10.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **10.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> → *14 weitere in* [[Panorama]]
 
 ### Zeitgeist
 
@@ -87,30 +111,6 @@ Die Gedankenwelten (luc)
 > **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
 >
 > Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
-
-### Panorama
-
-> **10.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **10.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **10.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **10.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **10.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *14 weitere in* [[Panorama]]
 
 ### Spuren
 

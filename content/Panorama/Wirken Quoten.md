@@ -96,6 +96,7 @@ Auf der anderen Seite steht das Vorbild, und das Gefühl, nicht vorzukommen. Wer
 |---|---|---|
 | 08.10.2026 | [[Raul Krauthausen — Teilgabe statt Teilhabe#Nachbesprechung|Raúl Krauthausen — Teilgabe statt Teilhabe]] | Wirken Quoten? Ausgleichsabgabe (§ 160 SGB IX), Beaman 2009/2012, Greig et al. 2023 |
 | 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Eine Ost-Quote? Elitenmonitor, Vogel 2022, Rivera 2012, Bertrand 2019, Besley 2017, Art. 36 GG |
+| 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Von einem Zehntel zu einem Drittel\|Hedwig Richter — Petitionen statt Barrikaden]] | Frauen im Parlament 1919 und heute (Bundestag 32,4 %, Nationalrat 36,1 %, IPU), ändern Frauen die Politik? (Hessami & Lopes da Fonseca, Chattopadhyay & Duflo, Clayton & Zetterberg, Bagues & Campa, Gendźwiłł u. a., Baskaran & Hessami), Paritätsgesetze Thüringen/Brandenburg 2020, BVerfG 2 BvC 46/19 · Juli Zeh |
 
 ---
 

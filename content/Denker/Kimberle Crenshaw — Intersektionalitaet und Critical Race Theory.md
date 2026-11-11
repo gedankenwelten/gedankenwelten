@@ -233,6 +233,10 @@ Yus neuropolitische Pointe — Dehumanisierung wirkt *unterhalb der moralischen 
 
 Daritys *reconstruction exhaustion* und Crenshaws *reform and retrenchment* sind derselbe Befund aus zwei Disziplinen — bei ihm ökonomisch als nachlassende Aufmerksamkeit, bei ihr juristisch als aktiv geführte zweite Schlacht um die Erinnerung. Darity gibt diesem Erinnerungskrieg das materielle Fundament: Es wird auch darum gestritten, wer für einen Vermögensstand haftet, den niemand mehr bewusst herstellt.
 
+### → [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
+
+Die Vorgeschichte des Wahllokals, in das Seneca Falls wollte. Die Historikerin Hedwig Richter zeigt eine amerikanische Karikatur aus der Zeit nach dem Bürgerkrieg, die alle, die nicht wählen sollten, auf ein Bild setzt: eine Frau, einen Native American, einen irischen Einwanderer, einen Afroamerikaner, ein Kind. Ihre Nachbesprechung zeigt die Lücke in Zahlen: Das Frauenwahlrecht hob in den USA die Schulausgaben, aber im Süden, wo Schwarze weiter nicht wählen durften, wuchsen vor allem die Schulen der Weißen.
+
 ---
 
 ## Weiterdenken

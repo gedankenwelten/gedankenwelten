@@ -31,6 +31,14 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-12 · Frauenwahlrecht
+
+Am 12. November 1918, einen Tag nach dem Waffenstillstand, verkündete der Rat der Volksbeauftragten in Berlin das gleiche, geheime Wahlrecht „für alle mindestens 20 Jahre alten männlichen und weiblichen Personen“. Am selben Tag beschloss die Nationalversammlung in Wien die erste Verfassung Deutschösterreichs, und auch sie verkündete das Frauenwahlrecht. Im Januar 1919 wählten in Deutschland zum ersten Mal Frauen, gut 82 Prozent von ihnen, so viele wie Männer. War es ein Geschenk der Revolution oder die Frucht von Jahrzehnten voller Petitionen und Vereinsarbeit? Die Historikerin Hedwig Richter und der Historiker Wolfgang Niess antworten verschieden.
+
+- [[Hedwig Richter — Petitionen statt Barrikaden]]
+- [[Wolfgang Niess — Der 9. November]] — dieselben drei Tage im November 1918, erzählt als wahrer Beginn der deutschen Demokratie
+- [[Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt]] — und die Schweiz: Dort kam das Frauenstimmrecht im Bund erst 1971, im Kanton Appenzell Innerrhoden 1990, durch ein Urteil des Bundesgerichts
+
 ## 2026-11-11 · Martinstag
 
 Am 11. November erinnern Laternenumzüge an Martin von Tours. Sein Biograf Sulpicius Severus erzählt, wie Martin als junger Soldat am Stadttor von Amiens einem nackten Armen begegnete, an dem alle vorbeigingen, und seinen Mantel mit dem Schwert teilte. Was bringt einen Menschen dazu, stehen zu bleiben? Die Neurowissenschaftlerin Tania Singer zeigt, dass sich Mitgefühl üben lässt und Menschen großzügiger macht. Der Meditationslehrer Fred von Allmen erzählt das Geben als Übung im Loslassen.

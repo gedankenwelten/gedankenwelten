@@ -2,7 +2,7 @@
 title: "Wirkt Protest?"
 date: 2026-11-06
 erstellt: 2026-11-06
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-11
 panorama-art: wachsend
 description: "Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben."
 raetsel: "Das Denkmal ist höflicher, als der Mann es war."
@@ -58,6 +58,7 @@ Auch hier wurde aus der Straße eine Wahl.
 Für Aufstände gegen Regime gibt es eine große Zählung. In über fünfhundert Kampagnen, die Erica Chenoweth
 ausgewertet hat, hatten gewaltfreie etwa doppelt so oft Erfolg wie gewaltsame ([Chenoweth 2020](https://doi.org/10.1353/jod.2020.0046)).
 Eine Replikation hält diesen Befund allerdings für empfindlich gegenüber der Auswahl der Daten (Dworschak 2023, [Replikation](https://doi.org/10.5129/001041523x16745900727169)).
+Der Vorsprung schrumpft allerdings. In den 1990er Jahren gelangen nach Chenoweths Zählung 65 Prozent der gewaltfreien Aufstände, seit 2010 weniger als 34 Prozent, die bewaffneten nur noch 8 Prozent; die Bewegungen sind kleiner geworden, im Schnitt 1,3 statt 2,7 Prozent der Bevölkerung, und mehr als die Hälfte duldet gewaltbereite Ränder ([Chenoweth 2020](https://doi.org/10.1353/jod.2020.0046), Essay mit Daten). Gezählt werden dort nur Kampagnen, die eine Regierung stürzen, einen Staat abspalten oder eine Besatzung vertreiben wollen; Reformbewegungen wie die für das Frauenwahlrecht fehlen in diesen Daten. Eine streitbare Neuauswertung mit Fällen aus dem 19. Jahrhundert kommt für Kampagnen mit unbewaffneter Gewalt auf mehr Erfolg als für rein gewaltfreie ([Anisin 2020](https://doi.org/10.1177/0896920520913982), Neuauswertung, umstritten).
 Was fehlt: eine belastbare Antwort darauf, wie oft Protest in einer Demokratie ein Gesetz bewirkt. Bewegung, Medien
 und Parteien verstärken sich gegenseitig, und wer am Ende entscheidet, ist selten die Straße.
 
@@ -110,6 +111,7 @@ Plünderungen (→ [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#La
 - **[[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Was King damals war|Robin Celikates]]:** King war radikaler als sein Denkmal, und auch Fridays for Future wurde erst im Nachhinein gelobt, als „moralische Selbstfreisprechung“.
 - **[[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Lautstärke|Lilli Berthold]]:** Erst die Krawalle hätten die Politik aufhorchen lassen; sie billigt das nicht, sie beschreibt die Zuhörer.
 - **[[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Lautstärke|Kilian Hampel]]:** Fridays for Future habe gezeigt, dass friedlicher Protest möglich ist und gehört wird.
+- **[[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Was die Barrikade verdeckt|Hedwig Richter]]:** Die Demokratie erzählt sich in Bildern bewaffneter Helden, gekommen ist sie öfter über Petitionen und Vereine; gewaltsame Umstürze führten eher in Diktaturen, friedliche Aufbrüche eher zu Demokratien, die bleiben.
 - **[[Denker/Philipp Blom — Die Unterwerfung#Rauchende Trümmer und die Suffragetten|Philipp Blom]]:** Höfliches Informieren hilft wenig, solange das System stabil ist; die Suffragetten wurden laut, das Wahlrecht brachte ihnen aber erst der Krieg.
 - **[[Denker/Steffen Mau — Spaltung der Gesellschaft#Triggerpunkte — Keine Spaltung, aber neuralgische Zonen|Steffen Mau]]:** Die „Klimakleber“ sind ein Triggerpunkt; an ihnen steigt der Puls, an der Verteilungsfrage kaum.
 
@@ -126,6 +128,8 @@ Protest, der auf Repression traf, Medien, Kongress und Wähler zugunsten der Bew
 trieb 1968 genug weiße Wähler zu Nixon, um die Wahl zu kippen ([Wasow 2020](https://doi.org/10.1017/s000305542000009x)).
 Eine Übersicht unterscheidet: Ungeplante Gewalt aus der Menge heraus wirkt „mehrdeutig“, organisierte bewaffnete
 Gewalt senkt die Erfolgschancen einer Bewegung ([Chenoweth 2023, Übersicht](https://doi.org/10.1146/annurev-polisci-051421-124128)).
+
+Gewalt verändert auch, was nach dem Umbruch kommt. In Autokratien macht gewaltfreier Protest einen Übergang zur Demokratie wahrscheinlicher, bewaffneter einen in die nächste Autokratie ([Celestino & Gleditsch 2013](https://doi.org/10.1177/0022343312469979), Vergleichsstudie). Demokratien, in deren Übergang gewaltfreier Widerstand stand, halten länger ([Bayer u. a. 2016](https://doi.org/10.1177/0022343316658090), Überlebensanalyse) und gewähren danach mehr Meinungs- und Vereinigungsfreiheit ([Bethke & Pinckney 2019](https://doi.org/10.1177/0738894219855918), Matching-Studie), am ehesten, wenn alte Vereinigungen ohne Machtanspruch den Aufbruch tragen und nicht Parteien ([Pinckney, Butcher & Braithwaite 2022](https://doi.org/10.1093/isq/sqab094), Afrika 1990–2015). Auch Übergänge, die die Herrschenden selbst einleiten, folgen oft auf eine Bewegung; auf gewaltsame folgen in der Regel nur solche, die nichts öffnen ([Djuve & Knutsen 2025](https://doi.org/10.1177/00220027251318938), Längsschnitt 1900–2019). Eine Bürgschaft ist Gewaltfreiheit nicht: Ägypten stürzte 2011 seinen Präsidenten ohne Waffen, das Militär entschied mit ([Nepstad 2011](https://doi.org/10.1111/j.1662-6370.2011.02043.x), Fallvergleich) und putschte 2013.
 
 Es gibt Gegenfälle. Nach dem Aufstand von Los Angeles 1992 stimmte die Stadt noch zehn Jahre später messbar
 liberaler ab, weil er Menschen mobilisiert hatte ([Enos, Kaufman & Sands 2019](https://doi.org/10.1017/s0003055419000340)).
@@ -156,6 +160,7 @@ Was die Nacht vom 31. Oktober in Deutschland bewirkt, verfolgt eine eigene Spur
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Führt der friedliche Weg eher zur Demokratie?\|Hedwig Richter — Petitionen statt Barrikaden]] | Und wenn es brennt? Übergänge nach Gewalt und Gewaltfreiheit (Celestino & Gleditsch, Bayer u. a., Bethke & Pinckney), Vereine statt Parteien (Pinckney u. a.), Wandel von oben nach Bewegung (Djuve & Knutsen), Ägypten 2011/2013 (Nepstad) · Was erreicht die Straße? Erfolgsquote sinkt seit 2010 (Chenoweth 2020), Grenzen der Daten (Anisin) · Blom, Kant, Niess |
 | 07.11.2026 | [[Zeitgeist/Al Jazeera — Stephen Millers Krieg#Minneapolis was der Protest erreicht hat und was nicht\|Al Jazeera — Stephen Millers Krieg]] | Minneapolis als Testfall: Proteste, Ende von Metro Surge, keine Reform im Haushaltsstreit, Wahl, Beförderung Millers → backfire (Hess & Martin), Floyd-Proteste (Reny & Newman, Primbs u. a.), begrenzte Wirkung (Gethin & Pons), Vollzug mobilisiert (White, Kuhn), Parteien nach Niederlagen (Somer-Topcu) · Koschi, Paul Lance, Shah |
 | 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Bringt erst Lärm Gehör?\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Bringt erst Lärm Gehör? → Parteien und Protest (Hutter & Vliegenthart), Berichterstattung (Lee), extreme Taktiken (Feinberg u. a.), Fridays for Future über Wahlen (Fabel u. a.), Frankreich 2005, Gewalt nach Chenoweth 2023, Ausbreitung (Myers, Bonnasse-Gahot u. a.) |
 | 07.10.2026 | [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Wirkt disruptiver Protest?\|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]] | Wirkt disruptiver Protest? → Übersicht Vandeweerdt, Letzte Generation, radikale Flanke (Simpson u. a., Köhler u. a., Fuller u. a.), Wasow, Chenoweth 2020 und Replikation, Los Angeles 1992 · King in Umfragen |

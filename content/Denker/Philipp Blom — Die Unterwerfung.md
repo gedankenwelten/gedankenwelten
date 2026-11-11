@@ -462,7 +462,9 @@ Wenn die Prägung den Träger wechselt, wird der Ritus zum Kampfplatz. In Halle 
 
 Hampes Genealogie des freien Willens ist umetikettierte Theologie im Sinne Bloms: Augustinus' Antwort auf die Frage nach dem Bösen lebt über Kant im Schuldstrafrecht fort. Bloms Satz, dass wir lernen, so zu reden, dass Maschinen uns verstehen, ist Hampes Loopingeffekt in umgekehrter Richtung.
 
+### → [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
 
+Die Gegenthese zu Bloms Suffragetten. Die Historikerin Hedwig Richter hält sie für eine laute Ausnahme, an die man sich erinnert, weil sie Bilder hinterließen. Die meisten Frauenrechtlerinnen lehnten ihre Mittel ab und arbeiteten mit Petitionen und Vereinen. Gegen „erst der Krieg“ stellt sie Länder, in denen das Wahlrecht früher kam, Neuseeland schon 1893. Bloms Pointe, die Argumente hätten bereitgelegen, als die Instabilität kam, trifft sich mit dem Schluss ihrer Note: Es brauchte vermutlich beides.
 
 ---
 
