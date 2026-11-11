@@ -3,10 +3,21 @@ title: Sandra Navidi — DenkerVita
 description: "Sandra Navidi saß an den Tischen, über die sie schreibt. Die New Yorker Juristin zeigt, wie Macht in den Netzwerken der Finanzelite entsteht und wie Trump sie offen nutzt."
 date: 2026-08-15
 aktualisiert: 2026-08-15
+raetsel: "Sie kannte jeden Tisch im Saal. Gezeichnet hat sie die Linien darunter."
 tags: [denker-vita, usa, wirtschaft, oligarchie, medien, deutschland]
 ---
 
 # Sandra Navidi — DenkerVita
+
+![[assets/Sandra-Navidi-vita-banner.jpg|Gemälde in kräftigen, flachen Farbflächen mit schwarzen Konturen: Manhattan von oben bei Abend, runde gedeckte Tische zwischen Hochhausfenstern, verbunden durch breite orange, grüne und blaue Linien wie ein Netz, an den Knoten leuchten helle Punkte. Auf einem Tisch liegen eine Brille und ein aufgeschlagenes Gesetzbuch. Am rechten Rand steht eine kleine Gestalt im dunklen Mantel und schaut auf das Netz.|1200]]
+
+<details><summary>🎨</summary>
+
+**Stuart Davis** — amerikanischer Jazz-Modernismus, flache, ineinandergreifende Farbflächen mit synkopiertem Rhythmus. Das Netz der Tische, an denen die Finanzelite ihre Verbindungen knüpft, gesehen wie ein Diagramm aus *SuperHubs*; auf einem Tisch Brille und Gesetzbuch der Juristin. Die Gestalt am Rand steht halb drinnen, halb draußen, wie jemand, der in diesen Räumen Gast war und über sie schreibt. Davis, weil er New York als Takt und Verbindung malte.
+
+*Prompt:* Painting in the style of Stuart Davis, American jazz modernism of the 1940s and 50s, bold flat interlocking color shapes, crisp black outlines, wide 1200x500 banner. An abstracted Manhattan evening: several small round dinner tables seen from above, connected by thick bright lines like a network diagram that runs across the whole picture, nodes where many lines meet glowing larger; between them fragments of skyscraper windows, a stock ticker ribbon without readable characters, a pair of reading glasses lying on an open law book; one small solitary figure in a dark coat stands at the edge of the network looking in, half inside, half outside; palette of cadmium orange, cobalt blue, emerald, warm white and black, rhythmic syncopated composition, no text, no letters, no numbers
+
+</details>
 
 > [!info] Wer spricht?
 > **Sandra Navidi** — deutsche Juristin, Finanzexpertin und Autorin, seit 2001 in New York. Gründerin
@@ -22,7 +33,7 @@ tags: [denker-vita, usa, wirtschaft, oligarchie, medien, deutschland]
 - **Beruf:** Juristin, Unternehmens- und Strategieberaterin, Autorin, TV-Kommentatorin
 - **Fachgebiet:** Internationales Finanzrecht, Kapitalmärkte, Netzwerkanalyse von Machtstrukturen, US-Politik und -Wirtschaft
 - **Institution:** Gründerin und CEO von BeyondGlobal LLC (New York, seit 2011); *of counsel* bei der Kanzlei Urban Thier & Federer
-- **Nationalität:** deutsch; seit rund einem Vierteljahrhundert in Manhattan (Upper East Side) ansässig
+- **Nationalität:** deutsch, inzwischen auch amerikanisch (eigene Aussage im STANDARD-Podcast, Juli 2026); seit rund einem Vierteljahrhundert in Manhattan (Upper East Side) ansässig
 - **Geburtsjahr:** öffentlich nicht angegeben — geboren in Mönchengladbach, Tochter einer deutschen Mutter und eines iranischen Vaters, der ein mittelständisches Unternehmen führte
 
 ### Werdegang
@@ -66,6 +77,7 @@ Alle drei Bücher erschienen im FinanzBuch Verlag, München.
 - [Amerika ungeschminkt — bei *Markus Lanz*](https://www.youtube.com/watch?v=IS93iZK9L7c) — ZDF, Oktober 2016, kurz vor Trumps erster Wahl.
 - [„Verbrecher getarnt als Regierung": Wie Trump die USA ausraubt](https://www.youtube.com/watch?v=hnyCOFuUF8U) — DER STANDARD, *Thema des Tages*, April 2026. → [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 - [Epsteins Mittäter und Trump kommen davon](https://www.youtube.com/watch?v=5BXCGZGXaSk) — DER STANDARD, *Thema des Tages*, 14.08.2026. → [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
+- [USA werden zur Hölle für Frauen](https://www.youtube.com/watch?v=C11g64vygdA) — DER STANDARD, *Thema des Tages*, 24.07.2026. → [[Sandra Navidi — Frauenrechte in Trumps Amerika]]
 
 ## Kernthesen
 
@@ -199,6 +211,7 @@ dieselbe Verschmelzung von privatem Reichtum und Staatsmacht an zwei Punkten der
 
 - [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]] — April 2026: Trumps Monetarisierung des Präsidentenamtes, von Citizens United über DOGE bis zum Qatar-Jumbo.
 - [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]] — August 2026: Der Epstein-Komplex als Studie darüber, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
+- [[Sandra Navidi — Frauenrechte in Trumps Amerika]] — Juli 2026: Von der Krise der jungen Männer über Dobbs bis zum SAVE Act, Trumps Amerika als Rückbau für Frauen erzählt. Hier spitzt sie stärker zu als sonst: Wo sie Geschehenes schildert, hält es fast immer, wo sie Absichten unterstellt (Thiel, „99 Jahre“, „verurteilter Sexualverbrecher“), oft nicht.
 
 - [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Schattenmacht BlackRock]] — ZDF/ARTE-Film von Tom Ockers (2019): Navidi beschreibt Larry Fink als prominenten Knoten im Netz derer, die über die Daten des Weltvermögens einen einmaligen Überblick haben, ihre *SuperHubs*-These am größten Vermögensverwalter.
 

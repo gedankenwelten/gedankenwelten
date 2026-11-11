@@ -36,7 +36,7 @@ aliases:
 > eigener Name steht ungeschwärzt in den Akten, während der des Mannes, der über sie schrieb,
 > geschwärzt ist.
 
-Quelle: [Sandra Navidi: Epsteins Mittäter und Trump kommen davon — Thema des Tages, DER STANDARD](https://www.youtube.com/watch?v=5BXCGZGXaSk) (14.08.2026, 46 Min., Gastgeber: Schult Wilhelm)
+Quelle: [Sandra Navidi: Epsteins Mittäter und Trump kommen davon — Thema des Tages, DER STANDARD](https://www.youtube.com/watch?v=5BXCGZGXaSk) (14.08.2026, 46 Min., Gastgeber: Zsolt Wilhelm)
 
 > [!info] Wer spricht?
 > **Sandra Navidi** — Deutsch-amerikanische Juristin, Finanzexpertin und Autorin, seit einem

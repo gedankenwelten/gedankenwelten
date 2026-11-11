@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **11.11.** — [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+>
+> Was nimmt ein Land den Frauen, wenn es den Männern Stärke verspricht? Sandra Navidi erzählt Trumps Amerika als Rückbau. Manches davon geschieht, anderes ist Absicht, und die Grenze dazwischen lohnt den Blick.
+
 > **11.11.** — [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
 >
 > Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Für die Historikerin Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die ihren See schonten. Geschichte schult den Möglichkeitssinn.
 
-> **08.11.** — [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
->
-> Kybernetik, die Lehre vom Steuern, steckt heute in allem. Anna-Verena Nosthoff zeigt, wie Tech-Eliten sich als Steuermann der Gesellschaft sehen und was aus ihrem Modell herausfällt.
-
-> → *9 weitere in* [[Zeitgeist]]
+> → *10 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

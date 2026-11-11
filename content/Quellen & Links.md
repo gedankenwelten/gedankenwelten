@@ -985,6 +985,15 @@ tags:
 | **Ambedkar–Du-Bois-Briefwechsel** | [SAADA/TIDES](https://www.saada.org/tides/article/ambedkar-du-bois) |
 | **Transkript** | `Gedankenwelten/Transkripte/Wilkerson_Ambedkar_Transkript.txt` |
 
+## Sandra Navidi — Frauenrechte in Trumps Amerika (Der Standard, 2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Sandra Navidi: USA werden zur Hölle für Frauen — Thema des Tages](https://www.youtube.com/watch?v=C11g64vygdA) (24.07.2026, 59 Min., Moderation Zsolt Wilhelm) |
+| **Notiz** | [[Sandra Navidi — Frauenrechte in Trumps Amerika]] |
+| **Primärtexte** | [Project 2025, *Mandate for Leadership* (PDF)](https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf) · [SAVE Act, H.R. 22](https://www.govinfo.gov/content/pkg/BILLS-119hr22eh/html/BILLS-119hr22eh.htm) · [Dobbs v. Jackson](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) |
+| **Transkript** | `Gedankenwelten/Transkripte/Navidi_Frauen_USA_Transkript.txt` |
+
 ## Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard, 2026)
 
 | | |

@@ -128,7 +128,11 @@ Jeder Abschnitt braucht mindestens **einen Satz eigene Einordnung**. Das kann se
 - Eine Alltagsanwendung oder persönliche Resonanz
 
 Bei Denker-Notes: explizite `> [!note] Eigene Einschätzung`-Callouts (min. 2–3).
-Bei Zeitgeist-Notes: eingebettete Einordnung im Fließtext (subtiler, aber vorhanden).
+Bei Zeitgeist-Notes: Einordnung im Fließtext, dazu **2–6 gerahmte `> [!note] Eigene Einschätzung`** an den Stellen, wo
+unsere Sicht sich klar vom Gesagten absetzt (seit 11.11.2026, Andreas; die Praxis war der Regel längst voraus). Der Rahmen
+trennt für Leser und Hörer, was die Sprecher sagen und was wir davon halten. Je mehr eine Note kritisiert, desto wichtiger
+die Trennung, und auch die Stellen, an denen wir den Sprechern recht geben, bekommen einen Rahmen. Nicht in jedem Abschnitt:
+zu viele Rahmen brechen den Fluss, auch beim Vorlesen. Der Schlussabschnitt bleibt Prosa.
 
 ### Was andere sagen: nur mit Zeitmarke (seit 26.10.2026)
 
@@ -225,7 +229,7 @@ grep -n -o -E ".{0,40}(genaueste|einzige|als Einzige|vollständig|lückenlos|aus
 ### Zeitgeist-Notes
 - Fokus auf **Argumentation + Evidenz**
 - Zitate dürfen kürzer sein (1 Satz)
-- Einordnung eingebettet im Fließtext
+- Einordnung im Fließtext, an 2–6 Stellen gerahmt als `> [!note] Eigene Einschätzung` (→ Phase 4)
 - Faktencheck ist Pflicht
 
 ### Denker-Notes
