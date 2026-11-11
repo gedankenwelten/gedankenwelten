@@ -7,6 +7,7 @@ tags:
   - zeitgeist
   - demokratie
   - afd
+  - bsw
   - rechtsextremismus
   - deutschland
   - autoritarismus

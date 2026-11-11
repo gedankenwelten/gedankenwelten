@@ -10,6 +10,7 @@ tags:
   - ki
   - deutschland
   - afd
+  - bsw
   - technologie
   - year-2026
 aliases:

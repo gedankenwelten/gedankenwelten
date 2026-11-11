@@ -10,6 +10,7 @@ tags:
   - deutschland
   - demokratie
   - afd
+  - bsw
   - rechtsextremismus
   - autoritarismus
   - wiedervereinigung

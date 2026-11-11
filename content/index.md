@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> → *17 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### Denker
 

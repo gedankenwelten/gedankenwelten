@@ -4,6 +4,7 @@ date: 2026-07-06
 tags:
   - spur
   - afd
+  - bsw
   - demokratie
   - rechtsextremismus
   - autoritarismus

@@ -1,7 +1,7 @@
 ---
 title: Ilko-Sascha Kowalczuk — DenkerVita
 description: "Ilko-Sascha Kowalczuk, Ost-Berliner Historiker der SED-Diktatur, nennt das Leiden des Ostens einen Freiheitsschock – und erntet dafür gerade dort viel Widerspruch."
-tags: [denker-vita, geschichte, ostdeutschland, demokratie, autoritarismus, rechtsextremismus, afd, deutschland]
+tags: [denker-vita, geschichte, ostdeutschland, demokratie, autoritarismus, rechtsextremismus, afd, deutschland, bsw]
 raetsel: "Zwei Männer behämmern einen Dom. Einer rechnet: tausend Jahre."
 ---
 

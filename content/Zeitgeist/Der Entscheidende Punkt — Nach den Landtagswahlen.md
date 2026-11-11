@@ -9,6 +9,7 @@ tags:
   - deutschland
   - wahlen
   - afd
+  - bsw
   - demokratie
   - bundesregierung
   - populismus
