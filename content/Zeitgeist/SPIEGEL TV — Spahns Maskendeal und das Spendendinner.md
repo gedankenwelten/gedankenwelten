@@ -9,6 +9,7 @@ tags:
   - demokratie
   - kapitalismus
   - year-2025
+  - cdu
 aliases:
   - Spahn Maskendeal
   - Maskenaffäre Leipzig

@@ -4,7 +4,7 @@ description: "Sieben Jahre in der Linken, drei davon als Kreisgeschäftsführer,
 date: 2026-07-07
 aktualisiert: 2026-10-28
 raetsel: "Er trat aus und blieb doch sitzen. Nur die Stunde ist eine andere."
-tags: [denker-vita, medien, politik-kommentar, youtube, usa, trump, deutschland, afd, rechtsextremismus, demokratie]
+tags: [denker-vita, medien, politik-kommentar, youtube, usa, trump, deutschland, afd, rechtsextremismus, demokratie, die-linke]
 aliases:
   - Nachtsitzung
   - Linkes Gerede

@@ -12,6 +12,7 @@ tags:
   - transparenz
   - oligarchie
   - year-2025
+  - spd
 aliases:
   - Korrumpiert
   - Marco Bülow Korruption

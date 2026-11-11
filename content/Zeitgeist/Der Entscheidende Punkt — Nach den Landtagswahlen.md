@@ -16,6 +16,9 @@ tags:
   - soziale-ungleichheit
   - wohnen
   - year-2026
+  - cdu
+  - spd
+  - die-linke
 aliases:
   - Entscheidender Punkt Landtagswahlen
   - Entscheidender Punkt Hensel Kormbaki

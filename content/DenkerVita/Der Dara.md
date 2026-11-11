@@ -4,7 +4,7 @@ description: "Dara Marc Sasmaz nennt seinen Stil „Bildzeitung bzw. News von li
 date: 2026-05-13
 aktualisiert: 2026-10-23
 raetsel: "Die Stadt dankte schriftlich und zahlte nichts. Dreitausend Fremde zahlten."
-tags: [denker-vita, medien, politik-kommentar, deutschland, afd, rechtsextremismus, desinformation]
+tags: [denker-vita, medien, politik-kommentar, deutschland, afd, rechtsextremismus, desinformation, die-linke]
 aliases:
   - Dara Marc Sasmaz
   - DerDara

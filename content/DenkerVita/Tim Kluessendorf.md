@@ -1,7 +1,7 @@
 ---
 title: Tim Klüssendorf — DenkerVita
 description: "Tim Klüssendorf trägt die Pfeile der Eisernen Front auf dem Arm. Als SPD-Generalsekretär will er Märkte mit Ordnungspolitik zurückholen, statt ihre Folgen nur abzufedern."
-tags: [denker-vita, deutschland, wirtschaft, wirtschaftspolitik, soziale-ungleichheit, demokratie, rechtsextremismus, wohnen]
+tags: [denker-vita, deutschland, wirtschaft, wirtschaftspolitik, soziale-ungleichheit, demokratie, rechtsextremismus, wohnen, spd]
 raetsel: "Drei Pfeile auf der Haut. Einer zeigt jetzt auf den Markt."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Andreas Püttmann — DenkerVita
 description: "Aus der Mitte des katholisch-konservativen Milieus kritisiert der Politologe Andreas Püttmann dessen Rechtsdrift: Rechtspopulismus ist für ihn mit dem Christentum unvereinbar."
-tags: [denker-vita, deutschland, demokratie, populismus, religion, ethik, medien]
+tags: [denker-vita, deutschland, demokratie, populismus, religion, ethik, medien, cdu]
 ---
 
 # Andreas Püttmann — DenkerVita

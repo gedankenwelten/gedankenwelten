@@ -14,6 +14,7 @@ tags:
   - immigration
   - klimapolitik
   - year-2026
+  - cdu
 aliases:
   - taz Reingehen Abschiebeaktion
   - ICE Razzia Hyundai Ellabell

@@ -4,7 +4,7 @@ description: "Unehelich, vaterlos, mit Decknamen im Exil: Willy Brandt lernte au
 raetsel: "Der Deckname blieb. Wer sich einmal verstecken musste, kniet anders."
 date: 2026-10-22
 aktualisiert: 2026-10-22
-tags: [denker-vita, deutschland, demokratie, geschichte, geopolitik, frieden, erinnerungskultur, nationalsozialismus, widerstand, macht]
+tags: [denker-vita, deutschland, demokratie, geschichte, geopolitik, frieden, erinnerungskultur, nationalsozialismus, widerstand, macht, spd]
 ---
 
 # Willy Brandt — DenkerVita

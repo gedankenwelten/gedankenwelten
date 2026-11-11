@@ -47,7 +47,7 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 `usa` · `trump` · `oligarchie` · `geopolitik` · `migration` · `immigration`
 
 **Deutschland:**
-`deutschland` · `afd` · `bsw` · `bundesregierung` · `energiepolitik` · `wahlen`
+`deutschland` · `afd` · `bsw` · `cdu` · `csu` · `spd` · `gruene` · `die-linke` · `fdp` · `bundesregierung` · `energiepolitik` · `wahlen`
 
 **KI & Technologie:**
 `ki` · `anthropic` · `claude` · `technologie` · `überwachung` · `datenschutz`
@@ -66,7 +66,7 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 
 > `wohnen` = Wohnungsmarkt, Mieten, Bodenpreise, sozialer Wohnungsbau, Eigentum an Wohnraum — gesetzt mit [[Die Anstalt — Warum Wohnen unbezahlbar wird]].
 
-> `bsw` = Bündnis Sahra Wagenknecht als Partei-Tag, wie `afd` — gesetzt mit [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer]] (11.11.2026).
+> **Partei-Tags** (`afd` · `bsw` · `cdu` · `csu` · `spd` · `gruene` · `die-linke` · `fdp`, alle seit 11.11.2026 gleich behandelt): nur, wo die Partei wirklich Thema ist (Programm, Strategie, Wahlanalyse, innerer Zustand), nicht bei bloßer Erwähnung; DenkerVitas von Mitgliedern und Mandatsträgern bekommen den Tag ihrer Partei. Die Linke heißt `die-linke`, damit der Tag nicht mit der politischen Linken als Strömung verwechselt wird (`linke` bleibt dafür, z. B. bei [[Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]).
 
 > `kriminalität` = Kriminalstatistik, Kriminalitätsentwicklung und ihre Deutung (Hell-/Dunkelfeld, Tatverdächtige vs. Verurteilte, Ausländerkriminalität) — gesetzt mit [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]].
 

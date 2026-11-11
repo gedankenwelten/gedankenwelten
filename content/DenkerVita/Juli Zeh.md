@@ -1,7 +1,7 @@
 ---
 title: Juli Zeh — DenkerVita
 description: "Juli Zeh schreibt Dorfromane, in denen jeder den anderen falsch liest, und hält als Verfassungsrichterin fest: Demokratie zerstreut Macht, gute Ergebnisse verspricht sie nicht."
-tags: [denker-vita, literatur, demokratie, deutschland, ostdeutschland, recht, populismus, afd]
+tags: [denker-vita, literatur, demokratie, deutschland, ostdeutschland, recht, populismus, afd, spd]
 raetsel: "Im Dorf grüßt man über den Zaun. Gewählt wird trotzdem geheim."
 ---
 

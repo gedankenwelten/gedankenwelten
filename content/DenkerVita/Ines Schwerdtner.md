@@ -1,7 +1,7 @@
 ---
 title: Ines Schwerdtner — DenkerVita
 description: "Ines Schwerdtner kam als Wendekind über Jacobin und die Haustür an die Spitze der Linken. Antifaschismus heißt für sie, Miete, Strom und Einkauf wieder bezahlbar zu machen."
-tags: [denker-vita, deutschland, demokratie, wirtschaft, kapitalismus, soziale-ungleichheit, wohnen, rechtsextremismus]
+tags: [denker-vita, deutschland, demokratie, wirtschaft, kapitalismus, soziale-ungleichheit, wohnen, rechtsextremismus, die-linke]
 raetsel: "Als die Fabrik schloss, war sie ein Kind. Heute klingelt sie an fremden Türen."
 ---
 

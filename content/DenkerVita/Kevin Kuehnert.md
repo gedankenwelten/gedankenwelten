@@ -4,7 +4,7 @@ description: "Kevin Kühnert ging aus der Macht zurück in die Zivilgesellschaft
 date: 2026-05-10
 aktualisiert: 2026-11-09
 raetsel: "Er sprach es vorher aus, damit es kein Zurück gab. Dann ging er tausend Kilometer."
-tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerechtigkeit, demokratie]
+tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerechtigkeit, demokratie, spd]
 ---
 
 # Kevin Kühnert — DenkerVita

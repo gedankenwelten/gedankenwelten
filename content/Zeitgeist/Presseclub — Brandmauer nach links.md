@@ -12,6 +12,8 @@ tags:
   - wohnen
   - medien
   - year-2026
+  - cdu
+  - die-linke
 raetsel: "Die sie auf ihren Schultern trugen, soll sie jetzt absetzen."
 aliases:
   - Presseclub Brandmauer nach links

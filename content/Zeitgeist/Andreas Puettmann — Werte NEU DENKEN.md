@@ -18,6 +18,7 @@ tags:
   - trump
   - medien
   - year-2026
+  - cdu
 aliases:
   - Püttmann Werte
   - NEU DENKEN Werte

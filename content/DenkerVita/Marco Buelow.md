@@ -3,7 +3,7 @@ title: Marco Bülow — DenkerVita
 description: "Zwanzig Jahre im Bundestag lehrten Marco Bülow, dass man ohne Geld korrumpiert wird, durch Zugang und Gefallen. Seine Lobbytermine legte er offen, bevor es Pflicht war."
 date: 2026-09-27
 aktualisiert: 2026-09-27
-tags: [denker-vita, demokratie, lobbyismus, transparenz, deutschland]
+tags: [denker-vita, demokratie, lobbyismus, transparenz, deutschland, spd]
 ---
 
 # Marco Bülow

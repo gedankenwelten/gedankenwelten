@@ -9,6 +9,7 @@ tags:
   - deutschland
   - wirtschaft
   - year-2026
+  - csu
 aliases:
   - Sterner Söder Faktencheck
   - Energie-Irrtum Bayern

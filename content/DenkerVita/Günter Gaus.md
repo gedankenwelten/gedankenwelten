@@ -10,6 +10,7 @@ tags:
   - medien
   - demokratie
   - geopolitik
+  - spd
 raetsel: "Von ihm sah man nur den Hinterkopf. Die anderen sah man denken."
 ---
 

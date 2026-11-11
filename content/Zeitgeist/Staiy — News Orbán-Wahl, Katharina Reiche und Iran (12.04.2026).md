@@ -12,6 +12,7 @@ tags:
   - geopolitik
   - demokratie
   - wahlen
+  - cdu
 aliases:
   - Staiy News 12.04.2026
 ---

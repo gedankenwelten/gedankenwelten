@@ -11,6 +11,7 @@ tags:
   - schulden
   - populismus
   - year-2026
+  - spd
 aliases:
   - Kühnert Ausstieg
   - Kühnert Finanzwende

@@ -18,6 +18,7 @@ tags:
   - deutschland
   - schweiz
   - year-2026
+  - cdu
 aliases:
   - Glanz und Elend der Konservativen
   - Freiheit zurückholen?

@@ -15,6 +15,7 @@ tags:
   - antisemitismus
   - israel
   - year-2026
+  - die-linke
 aliases:
   - Eralp Jung und Naiv
   - Jung & Naiv 849

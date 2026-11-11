@@ -10,6 +10,7 @@ tags:
   - medien
   - deutschland
   - year-2026
+  - die-linke
 status: offen
 konfidenz: 60%
 review-takt: 30-tage

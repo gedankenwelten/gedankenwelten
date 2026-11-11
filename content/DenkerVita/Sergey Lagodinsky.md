@@ -4,7 +4,7 @@ description: "Sergey Lagodinsky kam 1993 als jüdischer Flüchtling aus Russland
 date: 2026-10-04
 aktualisiert: 2026-10-04
 raetsel: "Mit sechzehn sah er volle Regale. Er erinnert sich an Freud."
-tags: [denker-vita, geopolitik, russland, ukraine, europa, demokratie, desinformation, völkerrecht, judentum, antisemitismus, migration, digitalpolitik, deutschland]
+tags: [denker-vita, geopolitik, russland, ukraine, europa, demokratie, desinformation, völkerrecht, judentum, antisemitismus, migration, digitalpolitik, deutschland, gruene]
 ---
 
 # Sergey Lagodinsky

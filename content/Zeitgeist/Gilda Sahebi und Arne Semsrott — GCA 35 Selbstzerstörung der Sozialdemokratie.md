@@ -14,6 +14,7 @@ tags:
   - afd
   - rechtsextremismus
   - wahlen
+  - spd
 aliases:
   - GCA 35
   - Gilda con Arne 35

@@ -3,7 +3,7 @@ title: Jan van Aken — DenkerVita
 description: "Als UN-Inspekteur suchte Jan van Aken nach Biowaffen, später führte er die Linke. Abrüstung behandelt er als Handwerk und fragt, was eine Verteidigung beim Gegenüber auslöst."
 date: 2026-07-27
 aktualisiert: 2026-07-27
-tags: [denker-vita, deutschland, geopolitik, krieg, frieden, ukraine, soziale-ungleichheit]
+tags: [denker-vita, deutschland, geopolitik, krieg, frieden, ukraine, soziale-ungleichheit, die-linke]
 ---
 
 # Jan van Aken — DenkerVita

@@ -1,7 +1,7 @@
 ---
 title: Carsten Brosda — DenkerVita
 description: "Wo Demokraten keine eigenen Bilder haben, kehren die alten Mythen zurück: Carsten Brosda, Hamburgs Kultursenator, denkt Demokratie als kulturelle Aufgabe."
-tags: [denker-vita, demokratie, medien, kunst, digitalisierung, deutschland]
+tags: [denker-vita, demokratie, medien, kunst, digitalisierung, deutschland, spd]
 date: 2026-10-08
 aktualisiert: 2026-10-08
 raetsel: "Mit Blick aufs Stadion des Rivalen studiert. Fünf Jahre Toleranz, jeden Morgen."

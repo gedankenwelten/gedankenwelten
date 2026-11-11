@@ -11,6 +11,7 @@ tags:
   - wirtschaft
   - soziale-ungleichheit
   - year-2026
+  - cdu
 aliases:
   - Entscheidender Punkt Merz Bilanz
 ---

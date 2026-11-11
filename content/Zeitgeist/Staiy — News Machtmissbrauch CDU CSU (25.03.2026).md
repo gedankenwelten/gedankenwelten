@@ -14,6 +14,7 @@ tags:
   - demokratie
   - meinungsfreiheit
   - year-2026
+  - csu
 aliases:
   - Staiy Machtmissbrauch
   - Staiy News 25.03.2026

@@ -1,7 +1,7 @@
 ---
 title: Andreas Audretsch — DenkerVita
 description: "Andreas Audretsch, grüner Fraktionsvize aus Neukölln, will der rechten Erzählung vom Kontrollverlust eine Politik entgegensetzen, die Preise, Mieten und Energie sichtbar lenkt."
-tags: [denker-vita, deutschland, demokratie, wirtschaft, wirtschaftspolitik, rechtsextremismus, wohnen, soziale-ungleichheit]
+tags: [denker-vita, deutschland, demokratie, wirtschaft, wirtschaftspolitik, rechtsextremismus, wohnen, soziale-ungleichheit, gruene]
 raetsel: "Über der Siedlung fährt kein Aufzug mehr. Die Tauben wohnen umsonst."
 ---
 
