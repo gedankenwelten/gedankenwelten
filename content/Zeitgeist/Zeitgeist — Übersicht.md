@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*366 Notes — automatisch generiert · nach Thema sortiert*
+*368 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -89,6 +89,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Christoph Butterwegge — Armut NEU DENKEN]] — „Wer hat, dem wird gegeben“: Für Christoph Butterwegge folgt die Spaltung in Arm und Reich politischen Weichenstellungen, und die amtlichen Berichte verschleiern, wie groß der Reichtum ist.
 - [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]] — Derselbe Begriff kann Raub rechtfertigen oder Kooperation ordnen: Christoph Hein und Maja Göpel suchen Europas Platz zwischen einem Amerika, das nimmt, und einem China, das kauft.
 - [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]] — Für Clara Mattei funktioniert Austerität genau so, wie sie gedacht war: Nach 1918 gegen Fabrikräte und Streiks erfunden, hält sie Arbeitende diszipliniert und die Ordnung stabil.
+- [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]] — Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
 - [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner (re:publica Vienna)]] — Europa kehrt Palantir den Rücken und behält, was der Konzern mitgebracht hat: die Dauer-Rasterung aller Polizeidaten, nur mit anderem Logo.
 - [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] — CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
 - [[Zeitgeist/Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife|Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]] — Eine Projektwoche zum Thema Mut an einer Schule in Schleife, längst aufgearbeitet, wird im Bundestag zum Skandal. Daniel zeigt, wie die AfD aus einem kleinen Vorfall eine Moralpanik gegen NGOs baut.
@@ -167,6 +168,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] — Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
 - [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]] — Wenn der Kuchen nicht mehr wächst, müssen Löhne oder Steuern schrumpfen, damit die Gewinne steigen. Ein Forscher sagt, das treibe Europa nach rechts. Ein YouTuber erzählt es weiter, und dabei wird aus einer Wirkung eine Absicht.
 - [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]] — Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
+- [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]] — Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
 - [[Zeitgeist/Mats Appreciated — Fluchtgeschichten am Mauerweg|Mats Appreciated — Fluchtgeschichten am Mauerweg]] — 160 Kilometer Mauerweg, sieben Fluchtgeschichten voller Mut und Hilfsbereitschaft — und die Erkenntnis, dass unter jedem Gullideckel Hoffnung liegen kann.
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]] — Faschismus ist für Matthias Quent keine Philosophie, sondern eine Technik, und ihr Rohstoff ist Ohnmacht. Mit Maja Göpel fragt er, was dagegen hilft: Hoffnung, die aus dem Handeln kommt.
 - [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]] — Ist Pazifismus Passivität oder die mühsamere Arbeit? Zwei Schriftstellerinnen und zwei Gastgeber streiten über Aufrüstung, Deserteure und darüber, was eine Stadt sicher macht.

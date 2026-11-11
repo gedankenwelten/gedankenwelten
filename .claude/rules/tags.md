@@ -47,7 +47,7 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 `usa` · `trump` · `oligarchie` · `geopolitik` · `migration` · `immigration`
 
 **Deutschland:**
-`deutschland` · `afd` · `bundesregierung` · `energiepolitik` · `wahlen`
+`deutschland` · `afd` · `bsw` · `bundesregierung` · `energiepolitik` · `wahlen`
 
 **KI & Technologie:**
 `ki` · `anthropic` · `claude` · `technologie` · `überwachung` · `datenschutz`
@@ -65,6 +65,8 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 > `drogenpolitik` = Drogenhilfe, Schadensminderung, Drug-Checking, Konsumräume, Kriminalisierung vs. Gesundheitsansatz — gesetzt mit [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]] (zusammen mit `sucht`).
 
 > `wohnen` = Wohnungsmarkt, Mieten, Bodenpreise, sozialer Wohnungsbau, Eigentum an Wohnraum — gesetzt mit [[Die Anstalt — Warum Wohnen unbezahlbar wird]].
+
+> `bsw` = Bündnis Sahra Wagenknecht als Partei-Tag, wie `afd` — gesetzt mit [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer]] (11.11.2026).
 
 > `kriminalität` = Kriminalstatistik, Kriminalitätsentwicklung und ihre Deutung (Hell-/Dunkelfeld, Tatverdächtige vs. Verurteilte, Ausländerkriminalität) — gesetzt mit [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]].
 

@@ -14,6 +14,7 @@ tags:
   - europa
   - frieden
   - afd
+  - bsw
   - deutschland
   - demokratie
   - year-2026

@@ -4,7 +4,7 @@ raetsel: "Sie lernte schreiben neben Kindern, deren Väter Besatzer hießen."
 description: "Die Mittelalterhistorikerin Claudia Wittig sitzt für das BSW im Landtag Sachsen-Anhalt und sucht für „Frieden mit Russland“ Mehrheiten quer durchs Spektrum, auch mit der AfD."
 date: 2026-11-11
 aktualisiert: 2026-11-11
-tags: [denker-vita, geschichte, mittelalter, geopolitik, russland, ukraine, frieden, deutschland]
+tags: [denker-vita, bsw, geschichte, mittelalter, geopolitik, russland, ukraine, frieden, deutschland]
 ---
 
 # Claudia Wittig — DenkerVita
