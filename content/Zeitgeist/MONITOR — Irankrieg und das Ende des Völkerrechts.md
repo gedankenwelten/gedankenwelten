@@ -9,7 +9,6 @@ tags:
   - israel
   - usa
   - trump
-  - merz
   - krieg
   - weltordnung
   - year-2026

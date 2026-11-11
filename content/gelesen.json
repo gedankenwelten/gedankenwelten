@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 919,
-   "aufrufe": 1096
+   "leser": 918,
+   "aufrufe": 1095
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -35,8 +35,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 30,
-   "aufrufe": 32
+   "leser": 31,
+   "aufrufe": 33
   },
   {
    "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -219,6 +219,11 @@
    "aufrufe": 5
   },
   {
+   "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+   "leser": 4,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
    "leser": 4,
    "aufrufe": 5
@@ -297,11 +302,6 @@
    "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
    "leser": 4,
    "aufrufe": 4
-  },
-  {
-   "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
-   "leser": 4,
-   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -320,8 +320,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 12,
-     "aufrufe": 12
+     "leser": 13,
+     "aufrufe": 13
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -354,6 +354,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 4,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Der-Dara",
      "leser": 4,
      "aufrufe": 4
@@ -369,17 +374,17 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 3,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 3,
      "aufrufe": 5
     },
     {
      "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 3,
      "aufrufe": 4
     },
@@ -420,11 +425,6 @@
     },
     {
      "pfad": "/DenkerVita/Christof-Spitz",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 2,
      "aufrufe": 3
     },
@@ -574,11 +574,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Martin-Buber-und-Emmanuel-Levinas-Ich,-Du-und-der-Andere",
      "leser": 1,
      "aufrufe": 1
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Walther-Ziegler-Sartre-in-60-Minuten",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 919,
-     "aufrufe": 1096
+     "leser": 918,
+     "aufrufe": 1095
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -645,8 +645,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 30,
-     "aufrufe": 32
+     "leser": 31,
+     "aufrufe": 33
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -829,6 +829,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 4,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "leser": 4,
      "aufrufe": 5
@@ -907,11 +912,6 @@
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 4,
      "aufrufe": 4
-    },
-    {
-     "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
-     "leser": 4,
-     "aufrufe": 4
     }
    ]
   },
@@ -940,8 +940,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 86,
-     "aufrufe": 93
+     "leser": 87,
+     "aufrufe": 94
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1245,8 +1245,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 86,
-     "aufrufe": 93
+     "leser": 87,
+     "aufrufe": 94
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1550,8 +1550,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 24,
-     "aufrufe": 24
+     "leser": 25,
+     "aufrufe": 25
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1674,6 +1674,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "leser": 3,
      "aufrufe": 3
@@ -1735,11 +1740,6 @@
     },
     {
      "pfad": "/DenkerVita/Kerstin-Paschke",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 3,
      "aufrufe": 3
     },

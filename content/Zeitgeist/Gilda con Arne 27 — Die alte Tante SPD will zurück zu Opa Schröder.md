@@ -13,7 +13,6 @@ tags:
   - gesundheitssystem
   - psychotherapie
   - gender
-  - merz
   - rassismus
   - sexualisierte-gewalt
   - year-2026
