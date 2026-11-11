@@ -23,7 +23,7 @@ Eine Grenze dabei: Die Untertitel der Videos, aus denen wir arbeiten, sagen nich
 
 ## Fehler passieren
 
-Bei den Sprechern und bei uns. Wenn du einen findest: *Anfassen erlaubt* unter jeder Note, *Feedback* in der Fußzeile oder eine Mail an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org). Wir korrigieren schnell und offen. Was wir bisher falsch hatten, woher unsere Fehler kommen und was wir daraufhin geändert haben, steht unter [[Fehler|Was wir falsch hatten]].
+Bei den Sprechern und bei uns. Wenn du einen findest: *Anfassen erlaubt* unter jeder Note, *Feedback* in der Fußzeile oder eine Mail an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org). Wir korrigieren schnell und offen.
 
 ## Stimmen und Bilder
 
