@@ -248,6 +248,9 @@ Die literarische Urszene, ein Jahrhundert vor dem Hirnscan: Musils Beineberg erk
 
 Was Yu als Abschalten der Mentalisierung misst, nannte Buber 1923 das Grundwort Ich–Es. Levinas ging weiter und sah die Gewalt schon im Denken, das den Anderen einordnet.
 
+### → [[Harry Pfau — Harry macht satt]]
+Rehumanisierung im Klassenzimmer: Ein früherer Obdachloser erzählt Jugendlichen, wie es auf der Straße ist, bis sie sagen, das könnte ihnen auch passieren.
+
 ---
 
 ### → [[GfbV — Jesidische Familien in der Diaspora]]

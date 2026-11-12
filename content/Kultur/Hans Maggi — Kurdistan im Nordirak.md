@@ -200,3 +200,5 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Fred von Allmen erzählt dieselbe Erfahrung aus Sri Lanka, wo Familien ein Jahr warteten, um einen Tag lang Fremde bekochen zu dürfen. Für Franzis Frage, wie man so sein kann, hat er Zhuangzi: Sie lieben einander und wissen nicht, dass es Nächstenliebe ist.
 
+### → [[Harry Pfau — Harry macht satt]]
+Dasselbe Geschenk in Stuttgart: Harry Pfau nimmt die zehn Euro eines Obdachlosen an, weil Ablehnen eine Beleidigung wäre.

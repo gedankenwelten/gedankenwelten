@@ -1,37 +1,90 @@
 ---
-title: MCP Server
+title: Die Gedankenwelten im Gespräch
+description: Man kann die Gedankenwelten lesen. Man kann sie auch fragen und sich vorlesen lassen, mit dem eigenen KI-Assistenten, ohne Anmeldung.
 date: 2026-05-31
+aktualisiert: 2026-11-12
 tags: []
 aliases:
+  - MCP Server
   - MCP Documentation
   - Gedankenwelten MCP
 ---
 
-# Gedankenwelten MCP Server
+# Die Gedankenwelten im Gespräch
 
-> [!abstract] Talk to the knowledge base
-> Search across 500+ curated notes on philosophy, democracy, psychology, and contemporary discourse — using your own AI assistant.
+> [!abstract] Fragen statt suchen
+> Man kann die Gedankenwelten lesen. Man kann sie auch fragen. Wer sie an seinen KI-Assistenten anschließt, Claude zum Beispiel, spricht mit rund 700 Notes und über 400 Porträts wie mit jemandem, der sie alle gelesen hat. Er sucht die passenden Stellen, nennt die Quellen dahinter und liest auf Wunsch vor. Einmal einrichten, ohne Anmeldung, kostenlos.
 
-**URL:** `https://mcp.gedankenwelten.org/mcp`
+## Was man damit kann
 
----
+Du fragst, wie du einen Menschen fragen würdest, schriftlich oder gesprochen. Der Assistent holt sich die Abschnitte, die dazu passen, und antwortet daraus, mit Link auf jede Note, aus der er schöpft. Er kann eine Note ganz vorlesen, ein Thema über viele Notes hinweg zusammentragen oder die Studien und Bücher heraussuchen, auf die sich eine Aussage stützt.
 
-## What is this?
+Zum Beispiel:
 
-The Gedankenwelten MCP Server lets you connect your AI assistant (Claude, Cursor, Windsurf, or any MCP-compatible client) directly to the [Gedankenwelten](https://gedankenwelten.org) knowledge base.
+- „Was ist neu in den Gedankenwelten?“
+- „Was sagt die Gedankenwelt zu Hannah Arendt?“
+- „Was wurde im letzten Monat über Demokratie geschrieben?“
+- „Lies mir das KI-Panorama vor.“
+- „Welche Quellen stehen hinter der Note über Ausländerkriminalität?“
+- „Wo widersprechen sich Byung-Chul Han und Hartmut Rosa?“
+- „Welche Notes hängen mit der über Harrys Bude zusammen?“
 
-You ask questions in natural language — the server searches semantically across 12,500+ text chunks from 500+ notes and returns the most relevant passages. Your AI assistant then synthesizes the answer.
+Am schönsten ist es im Sprachmodus, unterwegs, mit Kopfhörern. Eine lange Note lässt sich beim Hören nicht überfliegen, darum nennt der Assistent zuerst die Gliederung und fragt, womit er anfangen soll. Dann liest er Abschnitt für Abschnitt, fürs Ohr aufbereitet, und hält an, wo der Gedanke atmet. Wie das im Einzelnen geht und was man ihm sagen kann, steht auf der Seite [[Barrierefreiheit#Lange Notes hören|Barrierefreiheit]].
 
-> [!tip] Cost model
-> **You** use your own AI subscription (e.g. Claude Pro). **We** provide the knowledge — at no cost.
+## Einrichten
 
----
+### In Claude, in drei Schritten
 
-## Setup
+1. In Claude (im Browser, am Rechner oder in der App) die **Einstellungen** öffnen, dort **Konnektoren** (englisch *Connectors*).
+2. **Konnektor hinzufügen** wählen und diese Adresse eintragen:
 
-### Claude Desktop
+```
+https://mcp.gedankenwelten.org/mcp
+```
 
-Add to your `claude_desktop_config.json`:
+3. Speichern. Eine Anmeldung gibt es nicht. Der Zugang steht danach auf allen Geräten bereit, auch in der App auf dem Telefon.
+
+### Mit deinem Assistenten zusammen
+
+Du nutzt einen anderen Assistenten oder kommst mit den Menüs nicht zurecht? Dann kopier diesen Text in ein neues Gespräch mit deiner KI. Sie fragt nach, welche App du benutzt, und führt dich durch die Einrichtung.
+
+```
+Ich möchte die Gedankenwelten (gedankenwelten.org) an dich anschließen. Das ist eine öffentliche Wissenssammlung mit Notes zu Philosophie, Demokratie, Psychologie und dem Zeitgeschehen, die über einen MCP-Server erreichbar ist.
+
+Adresse: https://mcp.gedankenwelten.org/mcp
+Transport: Streamable HTTP
+Anmeldung: keine, der Zugang ist öffentlich und nur lesend
+
+Frag mich bitte zuerst, welche App ich benutze und auf welchem Gerät. Dann führ mich Schritt für Schritt durch die Einrichtung, immer nur einen Schritt auf einmal, und warte, bis ich ihn erledigt habe. Wenn du nicht sicher weißt, wo eine Einstellung in meiner App liegt, sag das ehrlich, statt zu raten. Falls meine App keine MCP-Server unterstützt, sag es mir.
+
+Wenn alles eingerichtet ist, probier es gleich aus: Frag die Gedankenwelten, was in den letzten Tagen neu dazugekommen ist, und erzähl es mir.
+```
+
+Wer den Zugang schon vor dem 7. November 2026 eingerichtet hat, verbindet ihn am besten einmal neu (trennen und wieder hinzufügen). Dann kennt der Assistent alle Möglichkeiten, auch das Vorlesen.
+
+## Was du dabei wissen solltest
+
+Die Antwort schreibt dein Assistent, nicht wir. Er arbeitet mit unseren Texten, aber er fasst zusammen, wählt aus und kann sich irren. Was in einer Note steht, gilt; die Links in seinen Antworten führen dorthin. Wo es dir auf eine Aussage ankommt, lies nach.
+
+Du zahlst nichts an uns. Den Assistenten nutzt du mit deinem eigenen Konto, die Gedankenwelten stellen nur das Wissen bereit.
+
+Wenn dir beim Fragen oder Zuhören etwas fehlt oder stört: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org). Jeder Hörtest hat bisher etwas verändert.
+
+## Datenschutz
+
+Der Zugang braucht keine Anmeldung und vergibt keine Kennungen. Fragen werden weder gespeichert noch protokolliert, es gibt kein Zugriffsprotokoll und keine Nachverfolgung. Zum Schutz vor Überlastung zählt der Server die Anfragen je IP-Adresse höchstens 60 Sekunden lang im Arbeitsspeicher; auf die Platte wird nichts geschrieben.
+
+Um zu wissen, ob der Dienst überhaupt genutzt wird, führt der Server Tagessummen und sonst nichts: in wie vielen Gesprächen er genutzt wurde, in wie vielen Gesprächen jede Note geöffnet wurde (nur der Titel, einmal je Gespräch) und wie oft jedes Werkzeug aufgerufen wurde (nur der Name, bei den neuesten Notes auch der gewählte Zeitraum). Ob zwei Anfragen zum selben Gespräch gehören, weiß der Server nur aus der offenen Verbindung, und das auch nur bis Mitternacht im Arbeitsspeicher. Keine Fragen, keine Suchergebnisse, keine Adressen, keine Uhrzeiten, keine Kennungen. Mehr in der [[Datenschutz|Datenschutzerklärung]].
+
+## Für Entwickler
+
+Der Server spricht das Model Context Protocol (MCP) über **Streamable HTTP**, öffentlich und nur lesend.
+
+```
+https://mcp.gedankenwelten.org/mcp
+```
+
+**Claude Desktop** über die Konfigurationsdatei (`claude_desktop_config.json`, unter macOS in `~/Library/Application Support/Claude/`, unter Windows in `%APPDATA%\Claude\`), danach Claude Desktop neu starten:
 
 ```json
 {
@@ -44,121 +97,31 @@ Add to your `claude_desktop_config.json`:
 }
 ```
 
-Config file location:
-- **macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-- **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+**Werkzeuge**
 
-Restart Claude Desktop after saving.
-
-### Claude.ai (Web & Mobile)
-
-1. Go to [claude.ai](https://claude.ai) → Settings → Connectors
-2. Click "Add Connector"
-3. Enter URL: `https://mcp.gedankenwelten.org/mcp`
-4. Done. No login or authorization is needed.
-
-### Other MCP Clients
-
-Any client supporting the **Streamable HTTP** transport can connect:
-
-```
-URL: https://mcp.gedankenwelten.org/mcp
-Auth: none (public, read-only)
-```
-
----
-
-## Available Tools
-
-### 🔍 Semantic Search
-
-Search across all notes with natural language queries. Returns relevant passages with relevance scores, each with its section and dates. Optionally combine a topic with a time span (`days`, or `since` / `until`), which date counts (`erstellt`, `aktualisiert` or both) and a section (`rubrik`).
-
-**Example:** *"What does Hartmut Rosa say about resonance compared to Fromm's concept of having vs being?"* · *"Was wurde im letzten Monat zu KI geschrieben?"*
-
-### 📖 Read Note
-
-Read the full content of any note by title. Use after searching to get complete context.
-
-**Example:** *"Read the full note on Hannah Arendt — The Banality of Evil"*
-
-**Listening:** Built to be read aloud, especially for people who are blind or have low vision. With `mode="hoeren"` a note comes as a listening version: first the outline with listening times, then one section at a time, always complete and prepared for the ear (citations reduced to their classification). The assistant reads it in full and pauses at a natural point in sections longer than about six minutes. Just tell your assistant how you like to listen — pause more often, whole sections, skip the study labels, verbatim or freer. Assistants that can remember preferences will keep them for next time. We keep improving conversation and read-aloud; tell us what works and what doesn't: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
-
-### 👤 List Thinkers
-
-Browse all philosopher and thinker profiles with their key topics and cross-references.
-
-**Example:** *"Show me all thinkers in the knowledge base"*
-
-### 🔗 Explore Connections
-
-Discover thematic connections between thinkers, interviews, and concepts.
-
-**Example:** *"How do Rosa's resonance theory and Buddhist mindfulness connect?"*
-
-### 📎 Find Sources
-
-Get the primary sources, links, books, studies and videos behind a topic — or behind a specific note.
-The references you can actually share in a discussion. Filter by type (book, study, video, article, …)
-or ask for the sources of one particular note.
-
-**Example:** *"Find me sources on the rise of authoritarianism in Hungary"* · *"What sources back the BissenBlaBla note?"*
-
-### 🗓️ Latest Notes
-
-What is new or recently deepened, newest first, with dates. Filter by section (Zeitgeist, Panorama, …) and time span. Search results and full notes now carry their dates too: *Erstellt* (created) and *Aktualisiert* (last substantial update; mere cross-linking does not count).
-
-**Example:** *"Was ist neu in den Gedankenwelten?"* · *"Which panoramas were deepened this month?"*
-
----
-
-## Example Queries
-
-> *"Welche Interviews behandeln den Aufstieg des Autoritarismus in Europa?"*
-
-> *"Compare Byung-Chul Han's burnout society with Hartmut Rosa's acceleration thesis."*
-
-> *"Was sagt Matthieu Ricard über Altruismus und wie unterscheidet sich das von Fromms Konzept der produktiven Liebe?"*
-
-> *"Which thinkers discuss the relationship between capitalism and democracy?"*
-
-> [!info] Language
-> The content is primarily in **German**. Queries work in both German and English — the semantic search understands both.
-
----
-
-## Technical Details
-
-| Component | Details |
+| Werkzeug | Was es tut |
 |---|---|
-| **Transport** | Streamable HTTP |
-| **Auth** | None, the knowledge base is public and read-only |
-| **Embeddings** | BAAI/bge-m3 (1024-dim) |
-| **Vector DB** | Qdrant (12,500+ chunks) |
-| **Content** | ~500 notes, updated regularly |
-| **Access** | Read-only, no user data stored (only daily totals: conversations, notes opened) |
+| `search` | Semantische Suche über alle Notes, mit Abschnitt, Rubrik und Datum je Treffer. Optional mit Zeitraum (`days`, `since`, `until`), Datumsart (`erstellt`, `aktualisiert`) und Rubrik. |
+| `read_note` | Eine Note ganz oder abschnittsweise. `section="toc"` liefert die Gliederung mit Hördauer, `mode="hoeren"` eine Fassung fürs Ohr (Belege auf ihre Einordnung verkürzt), `ab=` setzt mitten im Abschnitt wieder ein. |
+| `latest_notes` | Was neu ist oder vertieft wurde, neueste zuerst, nach Rubrik und Zeitraum filterbar. *Aktualisiert* heißt: inhaltlich überarbeitet; bloßes Verlinken zählt nicht. |
+| `list_thinkers` | Alle Denker-Notes und Porträts mit ihren Themen. |
+| `explore_connections` | Zu einem Thema die verbundenen Notes; mit `note=` die Nachbarn einer Note: ausgehende Verweise, Rückverweise und nahe, noch unverbundene Notes. |
+| `find_sources` | Die Quellen hinter einem Thema oder einer Note: Bücher, Studien (mit DOI), Videos, Artikel. Nach Art filterbar. |
+
+**Technik**
+
+| | |
+|---|---|
+| Inhalt | rund 700 Notes und über 400 Porträts (Stand November 2026), laufend ergänzt |
+| Suchindex | Qdrant, rund 44.000 Abschnitte; Quellenverzeichnis mit rund 17.000 Einträgen |
+| Einbettung | BAAI/bge-m3 (1024 Dimensionen), Vektorsuche |
+| Sprache | vor allem Deutsch; Fragen auf Englisch funktionieren auch |
+| Zugriff | nur lesend, ohne Anmeldung, keine Nutzerdaten (siehe oben) |
+
+## In English
+
+Gedankenwelten ("thought worlds") is a curated, mostly German knowledge base on philosophy, democracy, psychology and current affairs. Connect it to any MCP-capable assistant at `https://mcp.gedankenwelten.org/mcp` (Streamable HTTP, no login, read-only). In Claude: *Settings → Connectors → Add connector*, paste the address. Ask in English or German; your assistant searches the notes, links every note it draws from, finds the sources behind a claim and can read notes aloud section by section. No queries are stored; see the privacy section above.
 
 ---
 
-## Privacy
-
-The MCP server requires no login and issues no tokens. It does not store or log queries, keeps no access log, and does not track users. To protect the server from overload, it counts requests per IP address for at most 60 seconds in memory; nothing is written to disk.
-
-To know whether the service is used at all, the server keeps daily totals and nothing else: how many conversations used it, in how many conversations each note was opened (title only, once per conversation), and how often each tool was called (tool name only; for latest notes also the chosen time span). Whether two requests belong to the same conversation is known only from the open connection and kept in memory until midnight. No queries, no search results, no addresses, no times, no identifiers. See [[Datenschutz|Privacy Policy]] for details.
-
----
-
-## About Gedankenwelten
-
-[Gedankenwelten](https://gedankenwelten.org) ("thought worlds") is a curated knowledge base covering:
-
-- **Denker** — In-depth analyses of thinkers: Arendt, Fromm, Rosa, Ricard, Han, and 30+ more
-- **Zeitgeist** — Analyzed interviews, podcasts, and talks on democracy, capitalism, and media
-- **Panorama** — Cross-cutting thematic syntheses
-- **Vipassana** — Notes on contemplative practice
-
-All content is publicly available at [gedankenwelten.org](https://gedankenwelten.org).
-
----
-
-[[Impressum|Impressum]] · [[Datenschutz|Datenschutzerklärung]]
+[[Barrierefreiheit|Barrierefreiheit]] · [[Impressum|Impressum]] · [[Datenschutz|Datenschutzerklärung]]

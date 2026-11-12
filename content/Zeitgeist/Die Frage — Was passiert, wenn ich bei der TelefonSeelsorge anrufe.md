@@ -256,6 +256,10 @@ Jennys Satz über ihre E-Mail-Seelsorgerin, „sie war einfach da“, gehört zu
 ### → [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns#Die Übung zu zweit|Tania Singer — Das Training des sozialen Gehirns]]
 
 Was Carla und Dagmar Simonsen aus der Praxis kennen, hat Tania Singer im Labor geübt: In ihrer Übung zu zweit hört einer zweieinhalb Minuten zu, ohne Rat zu geben, und von Woche zu Woche wächst die Nähe zu Fremden. Ihre Unterscheidung von Empathie und Mitgefühl ist Simonsens „mitfühlen, aber nicht mitleiden“ als Hirnforschung.
+
+### → [[Harry Pfau — Harry macht satt]]
+Harry Pfau hat als Rettungsschwimmer erlebt, was Simonsens Bild meint, und daraus einen zweiten Satz gelernt: Man kann nicht jeden retten.
+
 ---
 
 ## Weiterdenken

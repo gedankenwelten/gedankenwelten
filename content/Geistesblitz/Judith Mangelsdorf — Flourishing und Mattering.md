@@ -377,6 +377,9 @@ Die Frage aus dem Mattering-Abschnitt, Anspruch oder Gabe, wird in Lüneburg aus
 
 Anti-Mattering heißt bei Marks Anerkennungsscham, die erste von vier Formen. Er liefert die Stufe, die hier fehlt: wie aus dem Nichtgesehenwerden eine Scham wird, die sich politisch einsammeln lässt. Seine Botschaft für den Raum der Würde könnte über Mangelsdorfs Kapitel stehen: „Millionen von Jahren hat es dich noch nie gegeben.“
 
+### → [[Harry Pfau — Harry macht satt]]
+An Harrys Bude in Stuttgart wird Mattering zum Kreislauf: Wer erst Essen holt, fragt bald, ob er mithelfen darf.
+
 ---
 
 ## Weiterdenken

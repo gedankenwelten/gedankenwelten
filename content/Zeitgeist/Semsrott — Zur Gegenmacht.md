@@ -296,6 +296,9 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Transparenz als Waffe, im Wirtschaftsministerium: Erst Widerspruch und Klagedrohung machten ein nachgeschärftes Gutachten sichtbar. Das Gesetz, das es möglich machte, will die Koalition nun einschränken, wie zuvor Berlin.
 
+### → [[Harry Pfau — Harry macht satt]]
+Die Ersatzfreiheitsstrafe von unten erzählt: Harry Pfau, dreizehn Jahre obdachlos, erklärt Schülern, wie aus Armut Haft wird, und sagt selbst, seine Bude tue, was der Staat tun sollte.
+
 ---
 
 ## Weiterdenken

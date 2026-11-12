@@ -316,6 +316,9 @@ Welzers Satz von der höchsten Bildungsungleichheit des Westens trifft auf den S
 
 Welzers Sedativ bekommt einen Befund aus dem Experiment, den grünen Nudge, der die Zustimmung zur CO₂-Steuer senkt, und eine Grenze: Über viele Studien und Jahre zeigt sich die Verdrängung kaum.
 
+### → [[Harry Pfau — Harry macht satt]]
+Die umgekehrte Szene: Harry Pfau bekommt zehn Euro von einem Obdachlosen, und für ihn ist gerade das die Großzügigkeit, die etwas kostet.
+
 ---
 
 ## Weiterdenken
