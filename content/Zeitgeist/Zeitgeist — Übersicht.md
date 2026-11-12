@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*369 Notes — automatisch generiert · nach Thema sortiert*
+*370 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -379,6 +379,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid|erneuerbare tv — Bidirektionales Laden / Vehicle-to-Grid]] — Hunderte Carsharing-Autos in Utrecht laden mittags Solarstrom und geben ihn abends zurück. Das E-Auto als Speicher spart Trafohäuschen und zahlt in Frankreich schon Geld aus.
 - [[Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich|erneuerbare tv — Sommerwärme im Erdreich]] — Sommerwärme im Boden einlagern und im Winter zurückholen: Ein Unternehmen in Kupferzell macht das ganze Gebäude zur Wärmebatterie, gesteuert vom Wetterbericht.
 - [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]] — Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
+- [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]] — Dreizehn Jahre lebte Harry Pfau auf der Straße. Heute verteilt er in Stuttgart gerettete Lebensmittel an alle, die kommen, und weiß, dass man nicht jeden retten kann.
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn|Heiner Flassbeck — Deutschlands Lohn-Irrsinn]] — Für Heiner Flassbeck zählen die Lohnstückkosten, und nach Jahren des Lohndumpings seit Schröder ist Deutschland nicht zu teuer. Wer die Arbeitskosten weiter drückt, öffnet die Tür zur Deflation.
 - [[Zeitgeist/Heiner Flassbeck — Die Wahrheit ueber Staatsschulden|Heiner Flassbeck — Die Wahrheit über Staatsschulden]] — Wohin gehen die Zinsen des Staates? Für Heiner Flassbeck zurück an die Sparer, die sie als Steuern zahlen. Gut die Hälfte der Schuld liegt allerdings im Ausland.
 - [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz' Rentenlüge und globale Ungleichheit]] — Wer für die Rente spart, braucht jemanden, der sich verschuldet. Heiner Flassbeck zerlegt Merz' Kapitaldeckung und vermisst im Ungleichheits-Antrag der Linken ein Wort: IWF.
