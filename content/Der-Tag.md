@@ -31,6 +31,15 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-13 · Welttag der Freundlichkeit
+
+Seit 1998 begehen Schulen und Gemeinden in vielen Ländern am 13. November den Welttag der Freundlichkeit. Ausgerufen hat ihn das World Kindness Movement, ein Zusammenschluss von Initiativen aus mehreren Ländern. Er erinnert an die kleine gute Tat und an eine Freundlichkeit, die über Grenzen von Herkunft, Religion und Politik hinweg verbindet. Wo beginnt sie? Der Meditationslehrer S. N. Goenka misstraut dem freundlichen Wunsch, der nur auf der Oberfläche liegt, die Psychologin Christine Brähler beginnt bei der Freundlichkeit sich selbst gegenüber. Und wohin geht sie? Vielleicht weiter, als wir je sehen werden.
+
+- [[Vipassana — Metta]]
+- [[Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+- [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — der Molekularbiologe und Mönch über Mitgefühl, das sich üben lässt
+- [[Das unsichtbare Netzwerk — Die Macht in Dir]] — Freundlichkeit als Faden, der angeboten wird, weiterwandert und seinen Absender verliert
+
 ## 2026-11-12 · Frauenwahlrecht
 
 Am 12. November 1918, einen Tag nach dem Waffenstillstand, verkündete der Rat der Volksbeauftragten in Berlin das gleiche, geheime Wahlrecht „für alle mindestens 20 Jahre alten männlichen und weiblichen Personen“. Am selben Tag beschloss die Nationalversammlung in Wien die erste Verfassung Deutschösterreichs, und auch sie verkündete das Frauenwahlrecht. Im Januar 1919 wählten in Deutschland zum ersten Mal Frauen, gut 82 Prozent von ihnen, so viele wie Männer. War es ein Geschenk der Revolution oder die Frucht von Jahrzehnten voller Petitionen und Vereinsarbeit? Die Historikerin Hedwig Richter und der Historiker Wolfgang Niess antworten verschieden.
