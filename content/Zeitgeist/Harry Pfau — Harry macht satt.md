@@ -150,6 +150,36 @@ Der Film ist ein Porträt und kein Bericht über Armutspolitik, und das merkt ma
 
 ---
 
+## Nachbesprechung
+
+*Zwei Szenen des Films, die über Harry hinausweisen: die zehn Euro von unten und die Wohnung, in die er nicht gleich einzog.*
+
+### Geben Ärmere mehr?
+
+Harry nimmt die zehn Euro an, weil sie mehr wiegen als die zweihundert. Für Deutschland lässt sich das nachrechnen. Unter den Haushalten, die spenden, geben die ärmeren einen höheren Anteil ihres Einkommens als die reichsten ([Schulz-Sandhof & Schupp 2022](https://doi.org/10.18723/diw_wb:2022-46-1), DIW Wochenbericht, repräsentative SOEP-Befragung). Rechnet man aber alle Haushalte mit, auch die, die nichts geben, kehrt sich das Bild um: Dann ist der Anteil in den beiden obersten Zehnteln etwa doppelt so hoch, und das reichste Zehntel bringt 37 Prozent aller Spenden auf. Beide Rechnungen stimmen. Die eine fragt nach dem Opfer, die andere nach der Summe.
+
+Eine Weile galt in der Psychologie, wer weniger habe, sei überhaupt großzügiger. Eine große vorregistrierte Wiederholung in vier Ländern mit über 33.000 Teilnehmenden fand das nicht; wenn überhaupt, verhielten sich Menschen mit höherem Status etwas prosozialer ([Batruch, Sommet & Autin 2025](https://doi.org/10.1038/s41562-025-02234-1), Wiederholungsstudie). Dass die Kurve der Spendenanteile trotzdem an beiden Enden hochgeht, liegt an einer kleinen Gruppe, die ein Zehntel oder mehr gibt, oft religiös gebunden, oft mit kleinem Einkommen ([James & Sharpe 2007](https://doi.org/10.1177/0899764006295993), große Querschnittsdaten). Und wer selbst auf der Straße lebt, gibt nicht weniger als andere. In einem Feldexperiment in Nashville gaben 173 Obdachlose im Schnitt 29 Prozent eines Betrags weiter, ungefähr so viel wie Menschen in vergleichbaren Studien weltweit ([Anderson u. a. 2024](https://doi.org/10.5206/ijoh.2023.3.16987), Einzelstudie). Harrys Spender ist kein Wunder, er wird nur selten gesehen.
+
+Bleibt, warum das Annehmen zählt. Wer eine Hilfe nicht erwidern kann, bittet seltener darum und nimmt sie seltener an ([Greenberg & Shapiro 1971](https://doi.org/10.2307/2786418), kleines klassisches Experiment). Harrys Ja zu den zehn Euro dreht das um und lässt den Mann zum Gebenden werden. Dieselbe Bewegung macht die Rentnerin, die erst Kundin war und dann mithilft. Dass Helfen auch den Helfenden trägt, deutet eine Auswertung bei Alkoholkranken an: Wer nach der Behandlung anderen half, wurde im Jahr danach seltener rückfällig ([Pagano u. a. 2004](https://doi.org/10.15288/jsa.2004.65.766), Sekundäranalyse, korrelativ).
+
+→ Weiter im Panorama: **[[Was ist Grosszuegigkeit#Muss man sich Großzügigkeit leisten können?|Muss man sich Großzügigkeit leisten können?]]**, mit Aristoteles, der Witwe am Opferkasten, Simone Weil, Susanne Boshammer und Hans Maggi.
+
+### Erst die Wohnung, dann der Rest?
+
+Zu seiner Wohnung kam Harry, als er längst nicht mehr trank und die Bude schon lief. Das ist die alte Reihenfolge: erst stabil werden, dann wohnen. **Housing First** dreht sie um. Wer auf der Straße lebt, bekommt zuerst eine eigene Wohnung mit Mietvertrag, ohne Vorbedingung, und Hilfe, wenn er sie will.
+
+Bei der Wohnstabilität ist die Evidenz stark. Menschen mit Housing First sind nach 18 bis 24 Monaten rund zweieinhalbmal so oft untergebracht und landen seltener in Notaufnahme und Klinik; beim Konsum von Alkohol und Drogen zeigte sich kein klarer Unterschied ([Baxter u. a. 2019](https://doi.org/10.1136/jech-2018-210981), Meta-Analyse von vier Studien mit hohem Verzerrungsrisiko). Im großen kanadischen Versuch At Home/Chez Soi mit 950 Teilnehmenden lebten sie zwei Jahre lang 71 Prozent der Zeit stabil, die Vergleichsgruppe 29 Prozent ([Aubry u. a. 2015](https://doi.org/10.1176/appi.ps.201400587), randomisierte Studie). Ehrlich ist auch: Andere intensive Hilfen schneiden in einer Übersicht über 43 Studien ähnlich gut ab, und welcher Weg der beste ist, bleibt offen ([Munthe-Kaas, Berg & Blaasvær 2018](https://doi.org/10.4073/csr.2018.3), Campbell-Review).
+
+Finnland gilt als Vorbild, weil es Housing First zur Landespolitik machte. Gerade dort steigt die Obdachlosigkeit wieder: 2025 zählte man 4.579 alleinstehende Obdachlose, 773 mehr als im Jahr davor, das zweite Plus nach über zehn Jahren Rückgang ([ARA, Homeless people 2025](https://www.varke.fi/en/statistics/homelessness/homeless-people-2025)). Die Y-Stiftung, die dort Wohnungen stellt, nennt höhere Lebenshaltungskosten und Kürzungen bei Sozialleistungen als Gründe ([Y-Säätiö, 10.02.2025](https://ysaatio.fi/en/news/homelessness-on-the-rise-in-finland/)). Das Modell trägt, solange es Wohnungen und Geld gibt.
+
+In Deutschland waren Ende Januar 2026 452.900 wohnungslose Menschen untergebracht; wer auf der Straße lebt, ist in dieser Zahl nicht enthalten ([Destatis, 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_222_229.html)). Nach dem Wohnungslosenbericht des Bundes lebten Anfang 2024 rund 47.300 Menschen auf der Straße oder in Behelfsunterkünften ([Bundesbauministerium, 08.01.2025](https://www.bmwsb.bund.de/SharedDocs/pressemitteilungen/DE/2025/01/Wohnungslosenbericht.html)). Der Nationale Aktionsplan von 2024 will Obdach- und Wohnungslosigkeit bis 2030 überwinden. Housing First gibt es hier bisher in Modellprojekten. In Berlin wurden von 2018 bis 2021 38 Menschen in eine Wohnung vermittelt, und fast alle blieben; 568 weitere Interessierte bekamen keinen Platz, meist weil es keinen gab ([Evaluationsbericht Housing First Berlin, 2021](https://www.berlin.de/sen/soziales/besondere-lebenssituationen/wohnungslose/wohnen/hfb_evaluationsbericht_2021_bf.pdf), ohne Kontrollgruppe).
+
+Und Harrys Zögern vor der eigenen Tür? Die Forschung kennt es. Menschen, die von der Straße in eine Wohnung zogen, erzählten zuerst von Sicherheit, Ruhe und Routine, bald aber vom „Was nun?“, von Einsamkeit und Stigma ([Padgett 2007](https://doi.org/10.1016/j.socscimed.2007.02.011), qualitative Studie). Was eine Wohnung zum Zuhause macht, scheint vor allem die Nachbarschaft zu sein, das Gefühl, dort bekannt zu sein ([Greenwood u. a. 2024](https://doi.org/10.1002/ajcp.12733), Befragung in acht europäischen Ländern). Harry hatte das schon, bevor er einzog: eine Bude, ein Team, „schon irgendwie so eine Familie“, wie es am Ende jemand aus dem Kreis sagt.
+
+→ Verwandt im Panorama: [[Panorama/Schoener Wohnen|Schöner Wohnen]]. Die Frage, was hilft, wenn die Wohnung ganz fehlt, steht dort noch nicht.
+
+---
+
 ## Was seither geschah
 
 *Stand: 12.11.2026. Der Film zeigt die Bude im Jahr 2023.*
@@ -186,6 +216,9 @@ Die Bürgerstiftung kündigte zugleich eine gemeinnützige GmbH mit dem Namen �
 - [ARD Mediathek, Dokus](https://www.ardmediathek.de/dokus) — weitere Filme der Reihe
 
 *Zum Weiterlesen:*
+
+- [Stergiopoulos u. a. 2019](https://doi.org/10.1016/s2215-0366(19)30371-2) — Housing First in Toronto nach sechs Jahren: Der Vorsprung bei der Wohnstabilität bleibt, wird aber kleiner (Verlängerung einer randomisierten Studie)
+- [Kirst u. a. 2015](https://doi.org/10.1016/j.drugalcdep.2014.10.019) — Housing First und Sucht: weniger Alkoholprobleme, kein Unterschied bei illegalen Drogen (randomisierte Studie)
 
 - [Fünf Jahre Harrys Bude: Harry Pfau – ein unermüdlicher Fair-teiler](https://www.stuttgarter-zeitung.de/lokales/stuttgart/fuenf-jahre-harrys-bude-harry-pfau-ein-unermuedlicher-fair-teiler-78943373.html) — Porträt zum Jahrestag, Stuttgarter Zeitung, 12.08.2025
 - [Fünf Jahre Harrys Bude: Wie die Stuttgarter Bürgerstiftung noch mehr Lebensmittel retten will](https://www.stuttgarter-zeitung.de/lokales/stuttgart/fuenf-jahre-harrys-bude-wie-die-stuttgarter-buergerstiftung-noch-mehr-lebensmittel-retten-will-78943051.html) — zu „Harrys Ernte“, 14.08.2025
