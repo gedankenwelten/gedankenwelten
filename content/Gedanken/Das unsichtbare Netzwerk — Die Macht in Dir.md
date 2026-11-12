@@ -398,3 +398,6 @@ Die dunkle Schwester dieses Gedankens. Hier trägt das unsichtbare Netz die Same
 
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit#Wer verantwortlich handelt, wird schuldig|Bonhoeffer — Wer verantwortlich handelt, wird schuldig]]
 Bonhoeffer wusste, dass er schuldig wird, ob er handelt oder zusieht. Schliesser, die über seine Schuldübernahme geforscht hat, spricht darum lieber von Verantwortung: Schuld bei Wenigen abzuladen oder ganz bei sich zu suchen, lähmt; Verantwortung gibt die Hände zurück.
+
+### → [[Harry Pfau — Harry macht satt]]
+Der Faden mit einem Gesicht: Eine Rentnerin ist an Harrys Bude erst Kundin, dann Helferin, „dass ich was zurückgeben kann, was ich empfange“. Wer den Faden zuerst legte, weiß dort niemand mehr.

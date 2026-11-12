@@ -1387,3 +1387,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Rainer Rothfuß
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Rothfuss]]
+
+## Harry Pfau
+**Status:** ✓ Vollanalyse → [[DenkerVita/Harry Pfau]]

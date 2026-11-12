@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **12.11.** — [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]]
+>
+> Dreizehn Jahre lebte Harry Pfau auf der Straße. Heute verteilt er in Stuttgart gerettete Lebensmittel an alle, die kommen, und weiß, dass man nicht jeden retten kann.
+
 > **11.11.** — [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
 >
 > Was nimmt ein Land den Frauen, wenn es den Männern Stärke verspricht? Sandra Navidi erzählt Trumps Amerika als Rückbau. Manches davon geschieht, anderes ist Absicht, und die Grenze dazwischen lohnt den Blick.
@@ -39,10 +43,6 @@ Die Gedankenwelten (luc)
 > **10.11.** — [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
 >
 > Im Oktober wurden in 700 französischen Supermärkten die Kühltruhen warm. Ein Abend über verwundbare Netze, Menschen, die auf Links klicken, und die Frage, ob es den Cyberkrieg wirklich gibt.
-
-> **10.11.** — [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
->
-> Für die Historikerin Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die ihren See schonten. Geschichte schult den Möglichkeitssinn.
 
 > → *10 weitere in* [[Zeitgeist]]
 
@@ -134,7 +134,7 @@ Die Gedankenwelten (luc)
 >
 > Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?
 
-> → *6 weitere in* [[Spuren]]
+> → *4 weitere in* [[Spuren]]
 
 ### Kultur
 

@@ -33,8 +33,9 @@ hochgesetztes `aktualisiert:`.
 
 ## 2026-11-13 · Welttag der Freundlichkeit
 
-Seit 1998 begehen Schulen und Gemeinden in vielen Ländern am 13. November den Welttag der Freundlichkeit. Ausgerufen hat ihn das World Kindness Movement, ein Zusammenschluss von Initiativen aus mehreren Ländern. Er erinnert an die kleine gute Tat und an eine Freundlichkeit, die über Grenzen von Herkunft, Religion und Politik hinweg verbindet. Wo beginnt sie? Der Meditationslehrer S. N. Goenka misstraut dem freundlichen Wunsch, der nur auf der Oberfläche liegt, die Psychologin Christine Brähler beginnt bei der Freundlichkeit sich selbst gegenüber. Und wohin geht sie? Vielleicht weiter, als wir je sehen werden.
+Seit 1998 begehen Schulen und Gemeinden in vielen Ländern am 13. November den Welttag der Freundlichkeit. Ausgerufen hat ihn das World Kindness Movement, ein Zusammenschluss von Initiativen aus mehreren Ländern. Er erinnert an die kleine gute Tat und an eine Freundlichkeit, die über Grenzen von Herkunft, Religion und Politik hinweg verbindet. An Harry Pfaus Bude in Stuttgart, wo es gerettete Lebensmittel für alle gibt, hängt dazu ein Schild: „Preis: Freundlichkeit und Geduld.“ Wo beginnt sie? Der Meditationslehrer S. N. Goenka misstraut dem freundlichen Wunsch, der nur auf der Oberfläche liegt, die Psychologin Christine Brähler beginnt bei der Freundlichkeit sich selbst gegenüber. Und wohin geht sie? Vielleicht weiter, als wir je sehen werden.
 
+- [[Harry Pfau — Harry macht satt]]
 - [[Vipassana — Metta]]
 - [[Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 - [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — der Molekularbiologe und Mönch über Mitgefühl, das sich üben lässt

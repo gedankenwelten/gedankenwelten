@@ -341,6 +341,8 @@ Ricœur benutzt lieber das Wort *Erbe* als *Tradition*, weil ein Erbe eine Schul
 
 Ein zweiter Aufsteiger bei Barbara Bleisch, der die schöne Deutung ablehnt (Kindheit an der Wasserstelle, darum Wasser aus der Luft). Anders als Bärfuss erzählt er seinen Weg dann aber doch als Lohn harter Arbeit.
 
+### → [[Harry Pfau — Harry macht satt]]
+Harry Pfau lebte dreizehn Jahre auf der Straße und erzählt seine Rückkehr ebenfalls nicht als Heldenreise: Neben der eigenen Entscheidung nennt er das Glück, dass ihm jemand half.
 
 ---
 

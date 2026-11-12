@@ -298,6 +298,9 @@ Kambodscha hat das HIV-Ziel 95-95-95 erreicht, und die erste Stufe waren Gesundh
 
 Eine Berliner Spitzenkandidatin will gegen Crack am Görlitzer Park Drug Checking und mehr Konsumräume, also genau das, was Halle fehlt. Ob sie dafür das Geld findet, das die drobs jedes Jahr neu erkämpfen muss, lässt sie offen.
 
+### → [[Harry Pfau — Harry macht satt]]
+Schadensminderung als Satz von der Straße: Wenn er einem Süchtigen einmal am Tag etwas zu essen geben kann, sagt Harry Pfau, „hab ich schon mal 'nen Erfolg“.
+
 ---
 
 ## Weiterdenken

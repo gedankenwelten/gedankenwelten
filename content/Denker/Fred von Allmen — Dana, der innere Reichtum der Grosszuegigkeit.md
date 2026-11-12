@@ -202,6 +202,9 @@ In Kurdistan geschieht, was von Allmen „Großzügigkeit als Verbundenheit“ n
 
 Die stärkste Gegenstimme. Von Allmen hält das Geben um des Paradieses willen für vergiftet, Annette Kehnel liest dieselbe Jenseitsrechnung des Mittelalters als Vertrag zwischen den Generationen: Wer wusste, dass die Lebenden seine Zeit im Fegefeuer verkürzen konnten, sorgte dafür, gut in Erinnerung zu bleiben. Einen Fürsprecher hat sie bei von Allmen selbst: Wo Hilfe dringend nötig ist, sei die richtige Haltung zweitrangig.
 
+### → [[Harry Pfau — Harry macht satt]]
+Dāna von ganz unten: Ein Mann, der auf der Straße lebt, spendet Harrys Bude zehn Euro, und Harry nimmt sie an, weil ein Nein ihn kränken würde.
+
 ---
 
 ## Weiterdenken

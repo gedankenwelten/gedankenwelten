@@ -216,3 +216,6 @@ Van Tulleken trägt Rüthers Satz vom Problem hinter der Sucht ins Supermarktreg
 ### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
 
 Moss bringt Rüthers Satz, das Gehirn kenne die Grenze zwischen legal und illegal nicht, ins Supermarktregal. Nora Volkow hielt ihm entgegen, manche zucker- und fettreichen Lebensmittel machten so süchtig wie Drogen und seien schwerer aufzugeben, weil man vom Essen nicht kalt entziehen kann.
+
+### → [[Harry Pfau — Harry macht satt]]
+Die Innenseite des Rückfalls: Harry Pfau hörte von einem Tag auf den anderen auf zu trinken und sagt sich trotzdem jeden Tag neu „du willst es nicht, du brauchst es nicht“. Seine größte Angst bleibt der Rückfall.

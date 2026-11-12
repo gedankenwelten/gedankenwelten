@@ -349,3 +349,6 @@ Ricœur benennt 1993 als kommendes Problem, was Butterwegge als deutsche Gegenwa
 ### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
 
 Van Tulleken gibt Butterwegges Leistungskritik einen Körper: Wer Übergewicht als Versagen der Willenskraft liest, übersieht, dass „echtes Essen fantastisch teuer" ist. Armut, sagt auch er, ist eine politische Entscheidung.
+
+### → [[Harry Pfau — Harry macht satt]]
+Was private Güte vermag, zeigt Harrys Bude in Stuttgart, an der täglich Hunderte gerettete Lebensmittel holen. Wie groß die Lücke ist, die sie füllt, erklärt Butterwegge.
