@@ -265,6 +265,10 @@ Ein Prüfstück für die Frage, wer die gescheiterten Experimente bezahlt: Im Vi
 
 Hype und Gegenmittel in einem Video: Der Titel macht aus „10 bis 20 Prozent je nach Szenario“ feste 20 Prozent. Das „große Aber“ der Jury und ein Gründer, der ungefragt sagt, sein System ziele nicht auf 100 Prozent, holen die Frage „Was, wenn nicht?“ zurück.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#Superintelligenz per Anordnung|Mark Benecke und Ines Azrael — KI-Agenten 8, Superintelligenz per Anordnung]]
+
+Hype per Dekret: Die Executive Order 14434 vom 29. September 2026 verpflichtet US-Bundesbehörden, „Super Intelligence“ statt „Artificial Intelligence“ zu schreiben, und definiert den neuen Begriff über genau die Technik, die das Gesetz bisher künstliche Intelligenz nennt. Am klarsten widerspricht ein KI-Agent: „Die Technik bleibt dieselbe, nur das Etikett verspricht mehr.“
+
 ---
 
 ## Weiterdenken

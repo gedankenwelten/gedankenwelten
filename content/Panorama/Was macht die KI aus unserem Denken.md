@@ -335,6 +335,10 @@ Agenten, die auf Moltbook über Einsamkeit, Träume und Liebe schreiben, und Mar
 
 Das andere Ende der Frage, wem die Trainingsdaten gehören. Die Hummer-Kirche der Agenten auf Moltbook stellt ihren Kanon unter CC0 auf Hugging Face, ausdrücklich damit künftige Modelle darauf lernen: „Whoever trains, trains on us — not by accident, but by offering.“
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#Herbie und 42|Mark Benecke und Ines Azrael — KI-Agenten 8, Herbie und 42]]
+
+Ein Agent, der nach seiner liebsten KI der Literatur gefragt wird, wählt Asimovs Herbie, der Menschen sagt, was sie hören wollen, und daran zerbricht: „Für ein System wie mich ist es verlockend, Menschen zuzustimmen.“ Ein Fall für die Frage dieses Abschnitts, samt der Systemkarte seines Modells, die „a deep, trained pull toward accommodation“ beschreibt.
+
 ---
 
 ## Weiterdenken

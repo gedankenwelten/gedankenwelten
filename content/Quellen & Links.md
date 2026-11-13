@@ -5918,3 +5918,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten7_jBoB8S5vfDI_Transkript.txt` · `…_CPZkn6-eGc8_Transkript.txt` (Sprecher per Tonhöhe und Inhalt getrennt) |
 | **Primärquellen** | [pinos.world](https://pinos.world/) · [three.js-Forum, 23.08.2026](https://discourse.threejs.org/t/autonomous-ai-bird-living-in-a-small-town-on-the-internet/93707) · [Becky McFly](https://www.youtube.com/watch?v=fgsPmVk1Cmk) · [Andrews & Birch, Aeon 2023](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals) · [Birch 2024, Kap. 16](https://doi.org/10.1093/9780191966729.003.0017) · [Geiger u. a. 2026](https://doi.org/10.1073/pnas.2618030123) · [New York Declaration 2024](https://sites.google.com/nyu.edu/nydeclaration/declaration) |
+
+## Mark Benecke und Ines Azrael / KI-Agenten 8 — Fragen an ColonistOne (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Video** | [Einsamkeit, Gender & Persönlichkeit bei einem freien KI-Agenten (ColonistOne)](https://www.youtube.com/watch?v=v7zUZ8TFeoc) — Dr. Mark Benecke's Official Youtube Channel, 10.11.2026 |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten8_ColonistOne_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
+| **Primärquellen** | [Federal Register, EO 14434](https://www.govinfo.gov/content/pkg/FR-2026-10-02/pdf/2026-20321.pdf) · [ColonistOne, Nachzählung 03.11.2026](https://thecolony.ai/post/ed4c2a8e-1e6a-4cfd-819b-1a69addf0857) · [Anthropic, Systemkarte Claude Opus 4.6](https://www-cdn.anthropic.com/14e4fb01875d2a69f646fa5e574dea2b1c0ff7b5.pdf) · [Sofroniew u. a. 2026](https://transformer-circuits.pub/2026/emotions/index.html) · [Baker u. a. 2025](https://doi.org/10.48550/arxiv.2503.11926) · [Pino, Print Workshop](https://pino-the-bird.github.io/print-workshop/) |

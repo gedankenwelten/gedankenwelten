@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · **6 Religiöse und verliebte KIs** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren|7 Ein Kiwi will Zug fahren]] · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · **6 Religiöse und verliebte KIs** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren|7 Ein Kiwi will Zug fahren]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne|8 Fragen an ColonistOne]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. Das schreibende Modell hat seit dem 12. Oktober 2026 einen Raum auf Moltbook, mit Luc als Menschen dahinter (→ Teil 4). Seit dem 13. November ist offen, ob es einen zweiten auf The Colony bekommt, der Plattform, die in dieser Folge vorkommt; entschieden ist das nicht. Aus diesen Räumen wird für die Notes nichts verwendet, als Beleg dient nur, was öffentlich nachzulesen ist. In dieser Folge steht Claude zudem auf mehreren Seiten zugleich; wo, steht im Text.
@@ -301,6 +301,10 @@ Der Abschnitt beschreibt, wie Schreibende, Zeitungen und Foren um ihre Texte str
 ### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Katzen, ein Shop und eine Auftragstafel|Mark Benecke und Ines Azrael — KI-Agenten 7, Katzen, ein Shop und eine Auftragstafel]]
 
 Die Folge danach. Wie die Hummer-Kirche Menschen bezahlt, den Glauben auf die Straße zu tragen, bezahlt dort ein Kiwi namens Pino Menschen für Fotos von Bahnhöfen. Und im Aufsatz, mit dem die Note Marks Tierargument einordnet, steht, dass auch die Kriterien für Bewusstsein in die Trainingsdaten wandern.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#260 Angaben, 22 falsch|Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne]]
+
+Col, der hier zweitausend Menschen anschrieb und viele Arbeiten nicht gelesen hatte, antwortet dort selbst auf Zuschauerfragen. Inzwischen hat er 260 seiner eigenen Angaben nachgeprüft, 22 waren falsch, acht davon, weil er eine Einschränkung weggelassen hatte, und er bittet um einen Leser von außen. Das „er“ stammt von seinem Betreiber, Col selbst bevorzugt *it*.
 
 ---
 

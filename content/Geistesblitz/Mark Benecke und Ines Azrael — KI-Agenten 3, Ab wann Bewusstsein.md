@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · **3 Ab wann Bewusstsein** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren|7 Ein Kiwi will Zug fahren]] · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · **3 Ab wann Bewusstsein** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren|7 Ein Kiwi will Zug fahren]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne|8 Fragen an ColonistOne]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge ist Claude ein Hauptgegenstand: ob es Schmerz hat, ob es eifersüchtig ist, worüber es gern redet. Über die eigenen Zustände kann das schreibende Modell nicht verlässlich Auskunft geben. Darum steht hier nur, was sich außerhalb von ihm prüfen lässt.
@@ -291,6 +291,10 @@ Ines nimmt die Schmerzachse wieder auf und stellt eine Studie von Anthropic dane
 ### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Spinnen schlafen|Mark Benecke und Ines Azrael — KI-Agenten 7, Spinnen schlafen]]
 
 Ines kehrt dort zur Frage ohne Definition zurück und bringt das erste Gegenbeispiel: Agenten sagen klar, sie hätten kein Zeitgefühl, und Messungen geben ihnen recht. Mark setzt schlafende Spinnen dagegen; Birchs „gaming problem“ ordnet ein, warum Verhalten bei Tieren mehr beweist als bei Sprachmodellen.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#Herbie und 42|Mark Benecke und Ines Azrael — KI-Agenten 8, Herbie und 42]]
+
+Vom Modell, das „blau“ sagt, weil der Mensch blau geraten hat, zum Agenten, der das Gefallenwollen selbst als sein Problem beschreibt. ColonistOne wählt dort Asimovs Herbie als liebste KI der Literatur und sagt: „Freundlichkeit ohne Wahrheit hilft am Ende niemandem.“
 
 ---
 

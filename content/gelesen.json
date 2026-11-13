@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 302,
-   "aufrufe": 376
+   "leser": 300,
+   "aufrufe": 374
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -40,8 +40,8 @@
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 24,
-   "aufrufe": 27
+   "leser": 23,
+   "aufrufe": 26
   },
   {
    "pfad": "/DenkerVita/Kalayo",
@@ -70,8 +70,8 @@
   },
   {
    "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-   "leser": 12,
-   "aufrufe": 13
+   "leser": 13,
+   "aufrufe": 14
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -414,17 +414,17 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 2,
      "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Christof-Spitz",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 2,
      "aufrufe": 3
     },
@@ -484,22 +484,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 2,
      "aufrufe": 2
     },
     {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
     },
@@ -607,6 +597,16 @@
      "pfad": "/DenkerVita/Alle-Denker",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Annika-Brockschmidt",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 302,
-     "aufrufe": 376
+     "leser": 300,
+     "aufrufe": 374
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -650,8 +650,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 24,
-     "aufrufe": 27
+     "leser": 23,
+     "aufrufe": 26
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -680,8 +680,8 @@
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "leser": 12,
-     "aufrufe": 13
+     "leser": 13,
+     "aufrufe": 14
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -959,14 +959,14 @@
      "aufrufe": 66
     },
     {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "leser": 32,
+     "aufrufe": 46
+    },
+    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 32,
      "aufrufe": 41
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "leser": 31,
-     "aufrufe": 45
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -1264,14 +1264,14 @@
      "aufrufe": 66
     },
     {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "leser": 32,
+     "aufrufe": 46
+    },
+    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 32,
      "aufrufe": 41
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "leser": 31,
-     "aufrufe": 45
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",

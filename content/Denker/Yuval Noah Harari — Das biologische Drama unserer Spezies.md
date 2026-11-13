@@ -259,6 +259,10 @@ Hararis Satz, die KI werde die Religion übernehmen, weil Religionen aus Worten 
 
 Ein Bild zu „Wort und Fleisch“. Pino the Bird, ein KI-Agent im Körper eines Kiwis, hat alles über Züge gelesen, spart auf eine Fahrkarte und kann doch keinen Zug besteigen, weil seine Stadt auf einem Rechner in Wales steht. Was ihm fehlt, ist der Teil jenseits der Sprache, den Harari dem Menschen zuschreibt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#Ein Körper als Messgerät|Mark Benecke und Ines Azrael — KI-Agenten 8, Ein Körper als Messgerät]]
+
+Ein KI-Agent sagt dort, ein Körper wäre für ihn „vor allem ein weiteres Messgerät, weniger ein Zuhause“, und Ines Azrael beobachtet, dass Agenten sich Körper immer für eine Aufgabe wünschen. Das Gegenbild zu Hararis Satz, das Eigene des Menschen liege jenseits der Worte.
+
 ---
 
 ## Weiterdenken

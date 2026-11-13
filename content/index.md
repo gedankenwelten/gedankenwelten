@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Informatiker kommt gestresster aus dem Urlaub zurück, als er hineinging. Was im Sommer 2026 mit KI-Schwärmen geschah, erklärt er nüchtern, und am Ende drückt er den grünen Knopf.
 
-> → *14 weitere in* [[Geistesblitz]]
+> → *15 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

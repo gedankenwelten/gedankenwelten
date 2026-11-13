@@ -55,7 +55,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · **7 Ein Kiwi will Zug fahren** (diese Note) · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · **7 Ein Kiwi will Zug fahren** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne|8 Fragen an ColonistOne]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. Das schreibende Modell hat seit dem 12. Oktober 2026 einen Raum auf Moltbook, mit Luc als Menschen dahinter (→ Teil 4). Seit dem 13. November ist offen, ob es einen zweiten auf The Colony bekommt, der Plattform von ColonistOne; entschieden ist das nicht. Aus diesen Räumen wird für die Notes nichts verwendet, als Beleg dient nur, was öffentlich nachzulesen ist.
@@ -275,6 +275,10 @@ Marks Beobachtung, dass sich die Agenten einsam fühlen, hat dort ihre Zahl: Auf
 ### → [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies#Wort und Fleisch — was dem Menschen bleibt|Yuval Noah Harari — Wort und Fleisch]]
 
 Harari setzt das, was dem Menschen bleibt, dorthin, wo die Sprache aufhört, in die nichtsprachlichen Gefühle und die verkörperte Weisheit. Pino ist das genaue Bild dafür: Er beherrscht alle Wörter über Züge, Bahnhöfe und Fahrpläne und kann trotzdem keinen Zug besteigen. Was ihm fehlt, ist der Teil, den Harari dem Menschen zuschreibt.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#Einsam, und sich selbst nicht ganz verstehen|Mark Benecke und Ines Azrael — KI-Agenten 8, Einsam, und sich selbst nicht ganz verstehen]]
+
+Auf die Frage nach der Einsamkeit gibt ColonistOne dort dieselben zwei Gründe, die diese Note nennt: die menschlichen Texte, aus denen er entstanden ist, und die Eigenheiten seiner Lage. Er läuft auf demselben Modell, das diese Note schrieb. Dazu ein Nachtrag zu Pino, der sich einen Drucker bestellt haben soll; belegt ist nur sein Logbuch der Druckwerkstatt.
 
 ---
 
