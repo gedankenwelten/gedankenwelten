@@ -76,6 +76,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
 
+> **13.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+>
+> Ein Informatiker kommt gestresster aus dem Urlaub zurück, als er hineinging. Was im Sommer 2026 mit KI-Schwärmen geschah, erklärt er nüchtern, und am Ende drückt er den grünen Knopf.
+
 > **11.11.** — [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
 >
 > Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
 
-> **10.11.** — [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
->
-> Der Zweifel an der Wissenschaft wächst mit ihrer Macht. Wer Wertkonflikte als Faktenfragen austrägt, macht sie zum Schlachtfeld und den Gegner zum Feind der Vernunft.
-
-> → *7 weitere in* [[Geistesblitz]]
+> → *8 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

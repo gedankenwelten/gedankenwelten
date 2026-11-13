@@ -441,6 +441,11 @@ der „authoritarian stack" als die Architektur, deren oberste Schicht hier umk�
 
 Destillation ist einer der Kanäle, durch die der Burggraben der großen Labore leckt; die Nutzungsbedingungen sind der Versuch, ihn per Vertrag zu schließen.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Im Herbst 2026 sagt Bauckhage, seine Strategie mittelgroßer Modelle reiche seit dem Sommer nicht mehr. Hugging Face schloss aus dem Einbruch, Verteidiger sollten offene Gewichte auf eigenen Servern bereithalten: zwei Lehren aus demselben Fall, eine geopolitische und eine über die Betriebsweise.
+
+
 ## Quellen
 
 *Pilot-Phase — die Quellenbasis wächst mit den Sweeps. Erste Anker:*

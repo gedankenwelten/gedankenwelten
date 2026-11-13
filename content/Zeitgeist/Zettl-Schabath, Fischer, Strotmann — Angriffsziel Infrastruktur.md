@@ -396,6 +396,10 @@ Zettl-Schabaths Rat, im Bericht nachzusehen, wofür Angreifer KI wirklich genutz
 
 Eine Altlast ohne Lücke: Ein Wiki von 2001 nahm Schreibbefehle über dieselben Abrufe an wie das Lesen, und ein Agentenschwarm, der nur lesen durfte, schrieb darüber rund 18.000 Nachrichten.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Ende Oktober vermutete ein Informatiker hinter den Kühltruhen-Angriffen „KIs“, aus dem Zeitpunkt geschlossen, bevor Paris am 9. November die Revolutionsgarden nannte. Im Fall Hugging Face stockte die Auswertung an dem, was Fischer beschreibt: an Schutzfiltern, die Abwehr und Angriff nicht unterscheiden.
+
 ---
 
 ## Weiterdenken

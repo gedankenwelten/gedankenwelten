@@ -128,6 +128,11 @@ Die Umkehrung der Frage, ob Eigentum ohne Urteil noch Macht ist, heißt BlackRoc
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Bauckhage stand vor zwei Knöpfen: Für die digitale Welt drückte er „Weltherrschaft: ja“, für den Terminator hätte er „nein“ gedrückt. Seine Antwort liegt zwischen Skynet und seiner Umkehr.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

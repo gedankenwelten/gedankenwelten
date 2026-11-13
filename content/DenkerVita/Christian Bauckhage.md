@@ -62,3 +62,4 @@ Keine parteipolitische Positionierung. Bauckhage argumentiert als Wissenschaftle
 
 ## Gedankenwelten-Notes
 - [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+- [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|KI-Agenten 2 — Die Hypothese von der Weltherrschaft]] — nach dem Sommer 2026: der Schwarm bei Hugging Face, Claudes Schutzfilter, 1607 Jahre, Doom-Marketing und der grüne Knopf (Uni Bonn, *Hypothese*)

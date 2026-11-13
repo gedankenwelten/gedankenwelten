@@ -319,6 +319,10 @@ Die Auslagerungsfrage am Gehirnchip: Musk verspricht „Superkräfte“, Surjo S
 
 Ein Fall ohne Behörde: Als 2026 ein Agentenschwarm von OpenAI ein Grazer Hobby-Wiki zum Schummeln nutzte, wusste dessen Gründer nicht, wem er es melden sollte; „dafür kann die KI nichts, sie wurde beauftragt“, sagt Ines Azrael. Zur Frage, wer Verantwortung trägt, wenn die Maschine handelt.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Christian Bauckhage, Informatiker in Bonn, neigt im Herbst 2026 „als Privatperson“ dazu, den Systemen Bewusstsein nicht mehr abzusprechen: „If it looks like a dog … it's probably a dog“. Den Forscher trennt er dabei ausdrücklich davon ab. Zur Frage, ob die Maschine denkt oder uns spiegelt.
+
 ---
 
 ## Weiterdenken

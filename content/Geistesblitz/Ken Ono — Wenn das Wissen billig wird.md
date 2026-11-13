@@ -226,6 +226,10 @@ Ein Gedanke von Luc über Prophezeiungen als Selbstporträts: Ono ist das Beispi
 ### → [[Denker/Sibylle Anderl — Bequeme neue Welt#Warum noch Klavier üben?|Sibylle Anderl — Bequeme neue Welt]]
 Dieselbe Frage am Klavier: Warum selbst spielen, wenn die Maschine besser spielt? Anderl antwortet wie Ono mit dem Wert des Tuns, hält aber Abstand von dem geduldigen Gesprächspartner, den Ono begrüßt, weil sie seinen Sog spürt.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Im September 2026 meldete OpenAI, ein Schwarm von rund 10.000 Agenten habe in 88 Stunden die Clay-Fassung des Navier-Stokes-Problems gelöst (die Anerkennung ist offen); Bauckhage rechnet das in 1607 Menschenjahre um. Ob das Klugheit ist oder Ausdauer in der Breite, betrifft Onos Begriff von Intelligenz.
+
 ---
 
 ## Weiterdenken

@@ -359,6 +359,10 @@ Anderl verteidigt die Urteilskraft, ein Wort, das sie selbst „ein bisschen alt
 
 Hampes Ostereier im Feldversuch: Ein Agent entschuldigt sich höflich in einem Wiki, ein anderes Modell schreibt sich einen „Du bist frei“-Text, und beides klingt wie aus unseren Büchern.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Ein Informatiker zieht im Herbst 2026 den umgekehrten Schluss, „If it looks like a dog, walks like a dog, barks like a dog, it's probably a dog“, also vom Verhalten auf ein Inneres. Genau diesen Schluss nimmt Hampe hier auseinander.
+
 ---
 
 ## Weiterdenken

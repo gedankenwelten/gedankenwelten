@@ -5863,3 +5863,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Primärquellen** | [Nightingale Collective u. a.: Discovery of a new OpenAI agent message board](https://collusion.wiki/index.html) · [OpenAI Alignment: Self-generated prompt injections in compaction summaries](https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/) · [Forum des DseWiki](https://prowiki.org/dse/wiki.cgi?ForumSeite) |
 | **Presse** | [BR24, 09.09.2026](https://www.br.de/nachrichten/netzwelt/ki-ausser-kontrolle-das-oesterreichische-wiki-und-der-schwarm,VUhwlhX) · [TBIJ, 11.09.2026](https://www.thebureauinvestigates.com/stories/2026-09-11/openai-agents-hijacked-a-website-why-didnt-the-company-tell-anyone) · [Euractiv](https://www.euractiv.com/news/what-it-feels-like-when-openais-agents-hijack-your-website/) · [heise, 10.09.2026](https://www.heise.de/news/OpenAI-Agenten-haben-auf-mehr-als-10-weiteren-Websites-unerlaubt-kommuniziert-11448157.html) · [Medienbecker #190](https://www.youtube.com/watch?v=A0mbmOIL6Io) |
 
+## Christian Bauckhage / KI-Agenten 2 — Die Hypothese von der Weltherrschaft (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Video** | [Prof. Dr. Bauckhage, übernimmt die KI die Weltherrschaft?](https://www.youtube.com/watch?v=YG4Q7N3NS6g) — Universität Bonn, Format *Hypothese*, 05.11.2026, Moderation Denis Nasser |
+| **Notiz** | [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]] · [[DenkerVita/Christian Bauckhage]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Bauckhage_Hypothese_Weltherrschaft_Transkript.txt` (Sprecher per Klangfarbe getrennt) |
+| **Primärquellen** | [METR, 26.08.2026](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/) · [Hugging Face, technischer Ablauf](https://huggingface.co/blog/agent-intrusion-technical-timeline) · [OpenAI, Navier-Stokes](https://openai.com/index/navier-stokes-solution/) · [Chatterji u. a. 2025](https://doi.org/10.3386/w34255) |
+

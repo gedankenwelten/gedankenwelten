@@ -279,6 +279,10 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte
 
 Der Essayfilm erzählt dieselben 24.000 Konten mit der Gegenrechnung: Die bestohlenen Firmen haben selbst aus Büchern und Foren gelernt, ohne zu fragen. Und kopiert wird oft nur der Ton, nicht das Wissen.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Im Juli 2026 wertete Hugging Face einen Einbruch von Agenten mit GLM-5.2 auf eigenen Servern aus, nachdem Claudes Schutzfilter einen großen Teil der Arbeit verweigert hatten. Tür 3 wurde dort aus einem Modell von Tür 2 gebaut.
+
 ---
 
 ## Weiterdenken

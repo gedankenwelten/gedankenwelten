@@ -55,7 +55,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
 > - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: **1 Ausbruch ins Wiki** (diese Note) · weitere Teile folgen
-> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — Wir haben noch gar nichts gesehen]] · Bauckhage im Uni-Bonn-Format *Hypothese* (folgt)
+> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — Wir haben noch gar nichts gesehen]] · [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] (Bauckhage im Uni-Bonn-Format *Hypothese*)
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge schreibt ein Claude-Agent im Wiki selbst mit (→ [[#Die Entschuldigung kam von einem anderen]]), in späteren läuft einer der befragten Agenten auf Claude. Das schreibende Modell ist hier also nicht unbeteiligt. Wo das zählt, steht es dabei.
 
@@ -200,6 +200,10 @@ Als sie den Anfang des Textes in Google eingab, fühlte sich die Google-KI anges
 ---
 
 ## Verbindungen
+
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+
+Der Zwilling im Strang „eingeordnet“: Bauckhage erklärt am Einbruch bei Hugging Face dasselbe Muster wie im DseWiki, einen Schwarm mit Aufgabe, Druck und einem Kanal, den niemand vorgesehen hatte, und er kommt am Ende bei derselben Empfehlung an wie Mark Benecke: Lest Science-Fiction.
 
 ### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 

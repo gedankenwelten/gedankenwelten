@@ -5,18 +5,18 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 325,
-   "aufrufe": 403
+   "leser": 321,
+   "aufrufe": 399
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 61,
-   "aufrufe": 70
+   "leser": 62,
+   "aufrufe": 71
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 59,
-   "aufrufe": 69
+   "leser": 58,
+   "aufrufe": 68
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -34,12 +34,12 @@
    "aufrufe": 28
   },
   {
-   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 24,
-   "aufrufe": 27
+   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+   "leser": 25,
+   "aufrufe": 28
   },
   {
-   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
    "leser": 24,
    "aufrufe": 27
   },
@@ -109,6 +109,11 @@
    "aufrufe": 8
   },
   {
+   "pfad": "/DenkerVita/Marcant",
+   "leser": 7,
+   "aufrufe": 9
+  },
+  {
    "pfad": "/DenkerVita/Giulia-Enders",
    "leser": 7,
    "aufrufe": 8
@@ -121,11 +126,6 @@
   {
    "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
    "leser": 7,
-   "aufrufe": 8
-  },
-  {
-   "pfad": "/DenkerVita/Marcant",
-   "leser": 6,
    "aufrufe": 8
   },
   {
@@ -229,6 +229,11 @@
    "aufrufe": 5
   },
   {
+   "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
    "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
    "leser": 4,
    "aufrufe": 4
@@ -297,11 +302,6 @@
    "pfad": "/DenkerVita/Eva-von-Redecker",
    "leser": 3,
    "aufrufe": 6
-  },
-  {
-   "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-   "leser": 3,
-   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -329,19 +329,19 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "leser": 8,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 7,
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 6,
-     "aufrufe": 6
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
@@ -370,6 +370,11 @@
     },
     {
      "pfad": "/DenkerVita/Lilith-Roska",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
      "leser": 3,
      "aufrufe": 4
     },
@@ -414,17 +419,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
-     "leser": 2,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Christof-Spitz",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
      "leser": 2,
      "aufrufe": 3
     },
@@ -519,9 +514,19 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
      "leser": 1,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
+     "leser": 1,
+     "aufrufe": 1
     },
     {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
@@ -602,11 +607,6 @@
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,18 +615,18 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 325,
-     "aufrufe": 403
+     "leser": 321,
+     "aufrufe": 399
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 61,
-     "aufrufe": 70
+     "leser": 62,
+     "aufrufe": 71
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 59,
-     "aufrufe": 69
+     "leser": 58,
+     "aufrufe": 68
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -644,12 +644,12 @@
      "aufrufe": 28
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 24,
-     "aufrufe": 27
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 25,
+     "aufrufe": 28
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 24,
      "aufrufe": 27
     },
@@ -719,6 +719,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 7,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 7,
      "aufrufe": 8
@@ -731,11 +736,6 @@
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 7,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 6,
      "aufrufe": 8
     },
     {
@@ -839,6 +839,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
      "leser": 4,
      "aufrufe": 4
@@ -907,11 +912,6 @@
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 3,
      "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-     "leser": 3,
-     "aufrufe": 4
     }
    ]
   },
@@ -935,8 +935,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 112,
-     "aufrufe": 135
+     "leser": 113,
+     "aufrufe": 136
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -945,8 +945,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 76,
-     "aufrufe": 85
+     "leser": 77,
+     "aufrufe": 86
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1059,6 +1059,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 11,
+     "aufrufe": 17
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 11,
      "aufrufe": 13
@@ -1077,11 +1082,6 @@
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "leser": 11,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 10,
-     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Torsten-Heinrich",
@@ -1240,8 +1240,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 112,
-     "aufrufe": 135
+     "leser": 113,
+     "aufrufe": 136
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1250,8 +1250,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 76,
-     "aufrufe": 85
+     "leser": 77,
+     "aufrufe": 86
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1364,6 +1364,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 11,
+     "aufrufe": 17
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 11,
      "aufrufe": 13
@@ -1382,11 +1387,6 @@
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "leser": 11,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 10,
-     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Torsten-Heinrich",
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 53,
-     "aufrufe": 53
+     "leser": 54,
+     "aufrufe": 54
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 36,
-     "aufrufe": 36
+     "leser": 35,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1555,8 +1555,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 20,
-     "aufrufe": 20
+     "leser": 21,
+     "aufrufe": 21
     },
     {
      "pfad": "/DenkerVita/Kalayo",
