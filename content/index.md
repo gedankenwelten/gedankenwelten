@@ -22,6 +22,52 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
+>
+> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
+
+> **10.11.** — [[Denker/Simone Weil — Die Ilias oder das Poem der Gewalt|Simone Weil — Die Ilias oder das Poem der Gewalt]]
+>
+> Gewalt macht aus dem, der sie erleidet, ein Ding, und aus dem, der sie ausübt, auch. Simone Weils Ilias-Essay, gelesen von einer Gewaltforscherin, die ihm an entscheidender Stelle widerspricht.
+
+> **10.11.** — [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
+>
+> Wer gibt, lässt los, und wer loslässt, fühlt sich reich. Der Meditationslehrer Fred von Allmen erzählt das Geben als vergessenen ersten Pfeiler der Praxis, gegen das Festhalten und gegen die Rechnung, die sich am Ende wieder einschleicht.
+
+> **09.11.** — [[Denker/Götz Aly — Wie konnte das geschehen|Götz Aly — Wie konnte das geschehen?]]
+>
+> Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
+
+> **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
+>
+> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
+
+### Panorama
+
+> **13.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **13.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **12.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+>
+> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
+
+> **11.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **11.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> → *18 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **12.11.** — [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]]
@@ -44,31 +90,7 @@ Die Gedankenwelten (luc)
 >
 > Im Oktober wurden in 700 französischen Supermärkten die Kühltruhen warm. Ein Abend über verwundbare Netze, Menschen, die auf Links klicken, und die Frage, ob es den Cyberkrieg wirklich gibt.
 
-> → *10 weitere in* [[Zeitgeist]]
-
-### Panorama
-
-> **12.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
-
-> **11.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **11.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **11.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **11.11.** — [[Panorama/NoAfD|NoAfD]]
->
-> Was will die AfD, wenn sie vor vielen leise spricht? Fünf offene Fragen, gemessen an Wortlaut, Programm und Praxis, mit dem Mann, der in Sachsen-Anhalt ihr erster Ministerpräsident werden will.
-
-> → *18 weitere in* [[Panorama]]
+> → *9 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -92,25 +114,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Tag, an dem Deutschland die Republik ausrief, sie verhöhnte, Synagogen anzündete und die Mauer öffnete. Wolfgang Niess liest darin kein Schicksal. Er liest den langen Kampf um die Demokratie.
 
-> → *9 weitere in* [[Geistesblitz]]
-
-### Denker
-
-> **10.11.** — [[Denker/Simone Weil — Die Ilias oder das Poem der Gewalt|Simone Weil — Die Ilias oder das Poem der Gewalt]]
->
-> Gewalt macht aus dem, der sie erleidet, ein Ding, und aus dem, der sie ausübt, auch. Simone Weils Ilias-Essay, gelesen von einer Gewaltforscherin, die ihm an entscheidender Stelle widerspricht.
-
-> **10.11.** — [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
->
-> Wer gibt, lässt los, und wer loslässt, fühlt sich reich. Der Meditationslehrer Fred von Allmen erzählt das Geben als vergessenen ersten Pfeiler der Praxis, gegen das Festhalten und gegen die Rechnung, die sich am Ende wieder einschleicht.
-
-> **09.11.** — [[Denker/Götz Aly — Wie konnte das geschehen|Götz Aly — Wie konnte das geschehen?]]
->
-> Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
-
-> **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
->
-> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
+> → *6 weitere in* [[Geistesblitz]]
 
 ### Spuren
 

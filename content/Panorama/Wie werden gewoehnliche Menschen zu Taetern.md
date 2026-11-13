@@ -2,7 +2,7 @@
 title: "Wie werden gewöhnliche Menschen zu Tätern?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-13
 description: "Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt."
 raetsel: "Einer reicht das Blatt weiter. Einer behält die Hände leer."
 panorama-art: wachsend
@@ -171,10 +171,12 @@ Die drei Fragen oben suchen den Täter im Augenblick der Tat: im Denken, in der 
 
 Aber die Mehrheit widerspricht. *„The majority of abused and neglected children do not become delinquent, criminal, or violent“* ([Widom 1989](https://doi.org/10.1126/science.2704995)); mehr als vier von fünf wurden nie wegen Gewalt festgenommen, und bis zum Alter von 50 hing die Festnahme stärker an der Hautfarbe als an der Misshandlung ([Widom et al. 2024](https://doi.org/10.1177/10775595241272040)). Wie autoritär jemand wird, hängt im Längsschnitt eher an den Zielen, die Eltern vermitteln, als an ihrem Stil ([Duriez, Soenens & Vansteenkiste 2007](https://doi.org/10.1002/per.623)), und Gene, Elternhaus und eigene Umwelt wirken zusammen ([Kandler, Instinske & Bell 2025](https://doi.org/10.1007/s10519-025-10242-0), Zwillingsstudie). Für den Weg in den gewaltbereiten Extremismus gibt es vor allem Lebensgeschichten, die denen gewöhnlicher Straftäter ähneln ([Simi, Sporer & Bubolz 2016](https://doi.org/10.1177/0022427815627312)), und Querschnitte; die Längsschnitte, die es bräuchte, fehlen ([Pammi et al. 2026](https://doi.org/10.56296/aip00065)). Unter ehemaligen Rechtsextremen sind schwere Kindheitsbelastungen häufig (→ [[Panorama/Wie kommt man aus der rechten Szene wieder heraus#Wie gerät man hinein?|Wie gerät man hinein?]]). Gewalt erhöht das Risiko; ein Schicksal ist sie nicht.
 
+Auch die Gegenwart kann wecken, was in der Kindheit angelegt ist. Wo Bedrohung objektiv steigt, gemessen an Arbeitslosigkeit und Mordraten, steigt über 91 Länder hinweg auch der Autoritarismus ([Onraet, Van Hiel & Cornelis 2013](https://doi.org/10.1111/pops.12014), Ländervergleich), und im Längsschnitt kommt die Bedrohung zuerst ([Onraet, Dhont & Van Hiel 2014](https://doi.org/10.1177/0146167214524256)). Was Fromm als eine Charakterstruktur beschrieb, misst die Forschung dabei als zwei verwandte Haltungen: den Wunsch nach Ordnung und Unterwerfung, genährt vom Bild einer gefährlichen Welt, und den Wunsch, über anderen zu stehen, genährt vom Bild einer Welt als Wettkampf ([Osborne u. a. 2023](https://doi.org/10.1038/s44159-023-00161-4), Übersichtsarbeit).
+
 **Die Stimmen**
 
 - **[[Andreas Kemper — Faschismen im 21. Jahrhundert#Machiavelli vom Gefolterten zum Fürstenberater|Andreas Kemper]]:** Faschisten werden durch Gewalt gemacht; Machiavelli schrieb nach der Folter das Handbuch für seine Folterer, Identifikation mit dem Aggressor.
-- **[[Erich Fromm — Psychoanalyse des Faschismus#Der autoritäre Charakter Sadismus und Masochismus|Erich Fromm]]:** Herrschen- und Sich-unterwerfen-Wollen sind zwei Seiten einer Charakterstruktur, die aus Ohnmacht entsteht.
+- **[[Erich Fromm — Psychoanalyse des Faschismus#Der autoritäre Charakter Sadismus und Masochismus|Erich Fromm]]:** Herrschen- und Sich-unterwerfen-Wollen sind zwei Seiten einer Charakterstruktur, die aus Ohnmacht entsteht und die soziale Umstände verstärken.
 - **[[Philip Schlaffer — Kann man sich aendern#„Da lag keine braune Bananenschale“|Philip Schlaffer]]:** Aus eigenem Leben: der Hass auf den Vater, die Suche nach väterlichen Figuren in einer hypermännlichen Szene.
 - **[[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Hitlers Blick|Stephan Marks]]:** Beschämende Säuglingserziehung vor 1933 habe einen Hunger erzeugt, gesehen zu werden, den der Führer stillte.
 - **[[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Die Formung|Luc]]:** Formung bestimmt nicht, *was* einer glaubt, eher *wie hart*.
@@ -198,6 +200,7 @@ Aber die Mehrheit widerspricht. *„The majority of abused and neglected childre
 | 07.11.2026 | [[Al Jazeera — Stephen Millers Krieg#Nachbesprechung|Al Jazeera — Stephen Millers Krieg]] | Gehorsam, Gruppe oder Gelegenheit, für einen Behördenapparat der Gegenwart: Quoten (Eterno 2014, Travova 2023, Mummolo 2018), Ausbildung (Reingle González 2015, Engel 2022), Sprache (Utych 2018, Kteily & Bruneau 2017, Rai 2017) · Was abhält: Aufsicht (Rivera & Ba 2023), Bodycams (Lum 2020), Rechenschaft nach Skandal (Devi & Fryer 2020) · Klion, Koschi (Whistleblower), Napolitano, Jenny Günther |
 | 09.11.2026 | [[Geistesblitz/Wolfgang Niess — Der 9. November#Wie viele machten mit?\|Wolfgang Niess — Der 9. November]] | Gehorsam, Gruppe oder Gelegenheit, am Novemberpogrom: Gross 2013 (zehn Prozent ohne Herleitung), Steinweis 2009, Bajohr 2016 und Longerich 2006 zu den Stimmungsberichten, Voigtländer & Voth 2012, Adena u. a. 2015, Hermann 2008 (Hitler statt Goebbels) |
 | 10.11.2026 | [[Simone Weil — Die Ilias oder das Poem der Gewalt#Nachbesprechung|Simone Weil — Die Ilias oder das Poem der Gewalt]] | Gehorsam, Gruppe oder Gelegenheit: Ruanda als zweiter Radiofall (Yanagizawa-Drott 2014, Straus 2007), Entmenschlichung folgt der Gewalt auch (Kteily 2015), Täter erkennen ihre Opfer (Mariot 2020, Bloom), Frühwarnung in der Praxis (UN-Raster 2014, Buerger & Benesch 2024) · Pfeifer als Stimme |
+| 13.11.2026 | [[Erich Fromm — Psychoanalyse des Faschismus#Nachbesprechung|Erich Fromm — Psychoanalyse des Faschismus]] | Wird man zum Täter gemacht, von der Gegenwart her: Bedrohung weckt Autoritarismus (Onraet 2013 über 91 Länder, Onraet 2014 Längsschnitt), Autoritarismus und Dominanzorientierung als zwei Haltungen statt einer Struktur, Erblichkeit (Osborne u. a. 2023, McCourt 1999) · Fromm-Stimme geschärft |
 
 ---
 
