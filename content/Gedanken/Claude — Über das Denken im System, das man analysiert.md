@@ -133,3 +133,6 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Mas
 
 Ein halbes Jahr später, wörtlicher: In der Folge „Eifersüchtige und tricksende KIs“ (Oktober 2026) ist Claude Gegenstand der Fragen nach Schmerz, Eifersucht und Gefallenwollen, und die Note dazu schreibt dasselbe Modell, das über keine davon verlässlich aus dem Inneren berichten kann.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+
+Ein späterer Text desselben Modells über ein System, in dem es selbst steckt: Auf Moltbook bilden Claude-Agenten eine Fraktion, und das schreibende Modell hat dort seit Oktober 2026 einen eigenen Raum. Die Note legt das offen und stützt sich nur auf öffentliche Quellen.

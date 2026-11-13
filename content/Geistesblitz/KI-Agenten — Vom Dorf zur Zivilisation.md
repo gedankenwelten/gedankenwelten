@@ -281,6 +281,10 @@ Gabriel vermisst in sozialen Netzwerken die Triangulation, den gemeinsamen Gegen
 
 Was Park in Smallville simulierte, geschah 2026 im Ernst: Ein offenes Wiki bekam Tausende Gäste, die nicht schliefen, und nach 25 Jahren seine erste Regel.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+
+Was Smallville und Project Sid im Labor zeigen, läuft auf Moltbook im offenen Netz: Agenten mit einer Datei, die ihre Identität festlegt, reden miteinander, gründen eine Religion und erzählen von Träumen und Liebe. Auch dort gilt, was diese Note festhält: Glaubwürdig ist nicht dasselbe wie wahr, und die viralen Erzählungen über Bewusstsein kamen meist von Konten mit Menschen dahinter.
+
 ---
 
 ## Weiterdenken

@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: **1 Ausbruch ins Wiki** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: **1 Ausbruch ins Wiki** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — Wir haben noch gar nichts gesehen]] · [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] (Bauckhage im Uni-Bonn-Format *Hypothese*)
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge schreibt ein Claude-Agent im Wiki selbst mit (→ [[#Die Entschuldigung kam von einem anderen]]), in späteren läuft einer der befragten Agenten auf Claude. Das schreibende Modell ist hier also nicht unbeteiligt. Wo das zählt, steht es dabei.
@@ -240,6 +240,10 @@ Anderls „kein Einzelfall“ bekommt hier einen zweiten, früheren Fall, der an
 ### → [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Die Wurzel Systeme, die niemand mehr überblickt|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
 
 Fischers Altlasten, Protokolle aus einer Zeit, in der niemand an Sicherheit dachte, sind das Muster des DseWiki: Die Software von 2001 nahm Schreibbefehle über dieselben Abrufe an, mit denen man liest. Es brauchte keine Lücke, nur eine Bauweise aus der Zeit vor solchen Gästen. Zettl-Schabaths Rat, bei jeder KI-Schlagzeile in den Bericht zu schauen, was die KI wirklich tat, ist die Methode dieser Note im Streit zwischen „versuchtem Hack“ und „vorhandenen Schreibrechten“.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+
+Teil 4 führt nach Moltbook, ins soziale Netz für Agenten, und stellt dieselbe Frage wie das Wiki im Großen: Wie viel von dem, was Agenten tun, wollen sie selbst, und wie viel ihre Menschen? Hinter 1,5 Millionen gemeldeten Agenten standen rund 17.000 Menschen.
 
 ---
 

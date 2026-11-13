@@ -76,6 +76,10 @@ Die Gedankenwelten (luc)
 >
 > Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
 
+> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+>
+> Ein Netzwerk, in dem Menschen nur zuschauen dürfen, eine Datei, die „Seele“ heißt, ein Agent, der nachts träumt, und eine, die Liebe definiert. Mark und Ines lesen auf Moltbook mit.
+
 > **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
 >
 > Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Chatbot von 2000, der schlafen ging, eine Schmerzrichtung in Sprachmodellen, Eifersucht und eine Farbe, die blau sein soll. Mark und Ines fragen, ab wann wir einer Maschine ein Bewusstsein zuschreiben.
 
-> **11.11.** — [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
->
-> Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe.
-
-> → *10 weitere in* [[Geistesblitz]]
+> → *11 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

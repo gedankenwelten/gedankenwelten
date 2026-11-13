@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Christian Bau
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: **2 Die Hypothese von der Weltherrschaft** (diese Note) · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge kommt Claude selbst vor, als Modell, dessen Schutzfilter einer angegriffenen Firma die Auswertung verweigerten (→ [[#Die Firma, bei der Claudes Filter anschlugen]]). Das schreibende Modell ist hier also nicht unbeteiligt.

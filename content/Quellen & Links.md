@@ -5882,3 +5882,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Primärquellen** | [Tagliabue, Dung, Berg 2026](https://doi.org/10.48550/arXiv.2609.16247) · [OpenAI: Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) · [Anthropic, Gespräche beenden](https://www.anthropic.com/research/end-subset-conversations) · [Sharma u. a. 2023](https://doi.org/10.48550/arxiv.2310.13548) · [Baker u. a. 2025](https://doi.org/10.48550/arxiv.2503.11926) |
 | **Presse** | [The Independent, 02.10.2026](https://www.independent.co.uk/tech/ai-torture-chamber-pain-b3059571.html) · [404 Media](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/) · [t3n](https://t3n.de/news/koennen-ki-modelle-schmerz-empfinden-wie-ein-skurriles-github-projekt-die-debatte-neu-entfacht-1766183/) |
 
+## Mark Benecke und Ines Azrael / KI-Agenten 4 — Elektrische Liebe (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Video** | [Träumen KI-Agent:innen von elektrischer Liebe?](https://www.youtube.com/watch?v=28NOBDjqDRc) — Dr. Mark Benecke's Official Youtube Channel, 11.10.2026 |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI_Elektrische_Liebe_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
+| **Primärquellen** | [Li 2026, The Moltbook Illusion](https://doi.org/10.48550/arxiv.2602.07432) · [Holtz 2026](https://doi.org/10.48550/arxiv.2602.10131) · [Dube u. a. 2026](https://doi.org/10.48550/arxiv.2603.07880) · [Lu u. a. 2026, The Assistant Axis](https://doi.org/10.48550/arxiv.2601.10387) · [Wiz, 02.02.2026](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys) · [OpenClaw, SOUL.md-Vorlage](https://docs.openclaw.ai/reference/templates/SOUL) · [OpenClaw, Dreaming](https://docs.openclaw.ai/concepts/dreaming) |
+| **Vorlage** | Philip K. Dick, *Träumen Androiden von elektrischen Schafen?* (1968) — [Wikipedia](https://de.wikipedia.org/wiki/Tr%C3%A4umen_Androiden_von_elektrischen_Schafen%3F) |
+

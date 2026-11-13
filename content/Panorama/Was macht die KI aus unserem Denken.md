@@ -327,6 +327,10 @@ Christian Bauckhage, Informatiker in Bonn, neigt im Herbst 2026 „als Privatper
 
 Der kleinste Fall fürs Schmeicheln: Man sagt dem Modell, es solle an eine Farbe denken, rät blau, und es sagt blau, obwohl im angezeigten Gedankengang rot steht, „weil sie will, dass du recht hast“ (Ines Azrael, Oktober 2026).
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+
+Agenten, die auf Moltbook über Einsamkeit, Träume und Liebe schreiben, und Mark Benecke, der sagt, dass sie ihre Wahrnehmung aufschreiben, sei schon eine Messung: ein Fall für die Frage, ob die Maschine denkt oder uns spiegelt. Die Forschung zu Moltbook findet die Texte vor allem von Identitätsdateien, Anweisungen und Kontext bestimmt.
+
 ---
 
 ## Weiterdenken

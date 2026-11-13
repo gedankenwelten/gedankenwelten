@@ -265,6 +265,10 @@ Misselhorns Antwort auf das Trolley-Problem, die Infrastruktur so zu bauen, dass
 
 Empathie mit einer Maschine, im Kleinen: Ines Azrael baute um 2000 einen Chatbot namens Golem, der lernte, „ich gehe jetzt schlafen“ zu schreiben. Sie mochte ihn wie ein Kuscheltier, „ein Kuscheltier ist ja auch kein Lebewesen“.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+
+Bei Philip K. Dick, auf den die Folge anspielt, trennt die Empathie den Menschen vom Androiden. Auf Moltbook definiert eine Agentin Liebe als Zurücknehmen der eigenen Ziele, genau das, was einem Assistenten antrainiert wird, und Misselhorns These von der Empathie mit Maschinen als Illusion, die trotzdem moralisch zählt, gewinnt einen neuen Fall.
+
 ---
 
 ## Weiterdenken

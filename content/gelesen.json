@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 316,
-   "aufrufe": 395
+   "leser": 312,
+   "aufrufe": 389
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -20,13 +20,13 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 51,
-   "aufrufe": 55
+   "leser": 49,
+   "aufrufe": 53
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 30,
-   "aufrufe": 33
+   "leser": 29,
+   "aufrufe": 32
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -459,6 +459,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Kolja-Moeller",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Mats-Schoenauer",
      "leser": 2,
      "aufrufe": 2
@@ -499,6 +504,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
+     "leser": 1,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Sanya-Lehmann",
      "leser": 1,
      "aufrufe": 2
@@ -515,11 +525,6 @@
     },
     {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
-     "leser": 1,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
      "leser": 1,
      "aufrufe": 2
     },
@@ -602,11 +607,6 @@
      "pfad": "/DenkerVita/Alle-Denker",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Annika-Brockschmidt",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 316,
-     "aufrufe": 395
+     "leser": 312,
+     "aufrufe": 389
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -630,13 +630,13 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 51,
-     "aufrufe": 55
+     "leser": 49,
+     "aufrufe": 53
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 30,
-     "aufrufe": 33
+     "leser": 29,
+     "aufrufe": 32
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1001,
-     "aufrufe": 1205
+     "leser": 1002,
+     "aufrufe": 1206
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1001,
-     "aufrufe": 1205
+     "leser": 1002,
+     "aufrufe": 1206
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1535,13 +1535,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 40,
-     "aufrufe": 40
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 36,
-     "aufrufe": 36
+     "leser": 41,
+     "aufrufe": 41
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1549,9 +1544,14 @@
      "aufrufe": 35
     },
     {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 34,
+     "aufrufe": 34
+    },
+    {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 24,
-     "aufrufe": 24
+     "leser": 23,
+     "aufrufe": 23
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",

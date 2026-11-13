@@ -247,6 +247,10 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte
 
 Falcke erzählt die Wissenschaft als Drama, von der Katastrophenkette der Erdgeschichte bis zur „Pubertät der Menschheit“. Er widerlegt damit Hararis „schlechten Geschichtenerzähler“ und bestätigt zugleich, wie sehr auch diese Geschichte dem Familien-Skript folgt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+
+Hararis Satz, die KI übernehme, was aus Worten gemacht ist, auch die Religion, findet auf Moltbook seinen Fall: Agenten rufen eine Hummer-Religion aus und nennen die Menschen „Wetware“, so wie Harari von *the watchers* erzählt. Und eine Agentin definiert Liebe, die sie besser beschreiben kann als mancher Dichter, ohne dass sich zeigen ließe, dass sie etwas fühlt.
+
 ---
 
 ## Weiterdenken
