@@ -2,7 +2,7 @@
 title: "Was ist Wohlstand?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-10-31
+aktualisiert: 2026-11-13
 description: "Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss."
 raetsel: "Drei liegen satt unter dem Baum und schauen weg. Drüben teilen zwei ein Brot."
 panorama-art: wachsend
@@ -40,7 +40,7 @@ tags:
 
 Die Antwort hängt davon ab, wen man fragt und was man zählt. Richard Easterlin beobachtete in den 1970ern, dass reicher werdende Länder nicht glücklicher wurden. Betsey Stevenson und Justin Wolfers fanden später über viele Länder hinweg das Gegenteil: Reichere Länder sind zufriedener, und einen Sättigungspunkt sahen sie nicht ([Stevenson & Wolfers 2008](https://doi.org/10.1353/eca.0.0001)). Für Einzelne galt lange die Zahl von 75.000 Dollar, über die hinaus Geld die Stimmung nicht mehr hebe. Matthew Killingsworth wertete 1,7 Millionen Momentaufnahmen von über 33.000 amerikanischen Beschäftigten aus und fand keine solche Grenze: Das Wohlbefinden steigt mit dem Einkommen weiter, nur jeder weitere Dollar bringt weniger ([Killingsworth 2021](https://doi.org/10.1073/pnas.2016976118)). In einer gemeinsamen Nachrechnung mit Daniel Kahneman, der die Grenze einst selbst gezogen hatte, blieb von ihr nur ein Rest: Es gibt sie bei den unglücklichsten Menschen, bei den anderen nicht ([Killingsworth, Kahneman & Mellers 2023](https://doi.org/10.1073/pnas.2208661120)). Auf Länderebene findet eine Studie für Europa eine Schwelle bei rund 30.000 Euro Nettohaushaltseinkommen im Jahr, über die hinaus die Zufriedenheit nicht weiter steigt; erreicht haben sie nur wenige Länder ([Röck, Tappeiner & Walde 2025](https://doi.org/10.1002/jae.70013)).
 
-Anders sieht es aus, wenn man nicht das Geld zählt, sondern den Verbrauch. Der Happy Planet Index findet im Ländervergleich, dass jenseits von etwa vier Globalhektar Fußabdruck mehr Verbrauch keine zusätzlichen glücklichen Lebensjahre bringt, und in seiner Befragung von rund 40.000 Menschen sind die mit dem größeren Fußabdruck eher weniger zufrieden ([HPI 2026 Report](https://hotorcool.org/publications/the-2026-happy-planet-index-report/)). Beides passt zusammen. Geld kann Dinge kaufen, die kaum Welt verbrauchen: Zeit, Pflege, Bildung, Sicherheit. Und es macht glücklicher, wenn man es für andere ausgibt statt für sich ([Dunn, Aknin & Norton 2008](https://doi.org/10.1126/science.1150952)); eine vorregistrierte Wiederholung bestätigte das, mit kleinerem Effekt ([Aknin et al. 2020](https://doi.org/10.1037/pspa0000191)). Am unteren Ende ist Geld schlicht Lebenszeit: Einkommensarme Männer sterben in Deutschland rund sieben Jahre früher als wohlhabende (→ Butterwegge unten).
+Anders sieht es aus, wenn man nicht das Geld zählt, sondern den Verbrauch. Der Happy Planet Index findet im Ländervergleich, dass jenseits von etwa vier Globalhektar Fußabdruck mehr Verbrauch keine zusätzlichen glücklichen Lebensjahre bringt, und in seiner Befragung von rund 40.000 Menschen sind die mit dem größeren Fußabdruck eher weniger zufrieden ([HPI 2026 Report](https://hotorcool.org/publications/the-2026-happy-planet-index-report/)). Beides passt zusammen. Geld kann Dinge kaufen, die kaum Welt verbrauchen: Zeit, Pflege, Bildung, Sicherheit. Was unglücklich macht, ist eher die Haltung zum Geld als das Geld: Wer materialistische Werte und Ziele hoch hält, dem geht es über 259 Stichproben hinweg messbar schlechter, wer nur auf Geld achtet, weniger ([Dittmar u. a. 2014](https://doi.org/10.1037/a0037409), Meta-Analyse). Und es macht glücklicher, wenn man es für andere ausgibt statt für sich ([Dunn, Aknin & Norton 2008](https://doi.org/10.1126/science.1150952)); eine vorregistrierte Wiederholung bestätigte das, mit kleinerem Effekt ([Aknin et al. 2020](https://doi.org/10.1037/pspa0000191)). Am unteren Ende ist Geld schlicht Lebenszeit: Einkommensarme Männer sterben in Deutschland rund sieben Jahre früher als wohlhabende (→ Butterwegge unten).
 
 **Die Stimmen**
 
@@ -158,6 +158,7 @@ Offen ist auch, ob eine Demokratie ohne Wachstum hält. Lange und Schmelzer halt
 | 28.10.2026 | [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Nachbesprechung|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]] | Geht Wohlstand ohne Wachstum — und hält dann die Demokratie? Lange & Schmelzer (Intereconomics 2025), Japan als „stagnation mode of regulation“ (Driouich, EAJS 2026); Stimmen Lange & Schmelzer, Driouich |
 | 31.10.2026 | [[Tom Krebs — Kapital und Krise#Wie misst man, was fehlt?\|Tom Krebs — Kapital und Krise]] | Trendlücke gegen Potenzial: Hysterese (Cerra & Saxena, Ball), Potenzialschätzungen folgen dem Output (Coibion et al.), Fatás-Kreislauf, Zerlegung der zwölftausend Euro |
 ---
+| 13.11.2026 | [[Erich Fromm — Haben oder Sein#Nachbesprechung|Erich Fromm — Haben oder Sein]] | Macht mehr Geld zufriedener: Materialismus und Wohlbefinden (Dittmar u. a. 2014), Haltung statt Betrag |
 
 ## Verbindungen
 

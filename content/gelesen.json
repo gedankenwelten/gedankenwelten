@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 338,
-   "aufrufe": 417
+   "leser": 337,
+   "aufrufe": 416
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -499,11 +499,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Ronen-Steinke-Meinungsfreiheit-Voelkermord-und-Verfassungsschutz",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
@@ -522,11 +517,6 @@
      "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
      "leser": 1,
      "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Chantal-Mouffe-Das-Politische-und-die-Politik",
-     "leser": 1,
-     "aufrufe": 1
     },
     {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
@@ -607,6 +597,16 @@
      "pfad": "/DenkerVita/Annika-Brockschmidt",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 338,
-     "aufrufe": 417
+     "leser": 337,
+     "aufrufe": 416
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
