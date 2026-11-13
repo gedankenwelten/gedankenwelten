@@ -55,7 +55,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
 > - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · **3 Ab wann Bewusstsein** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · weitere Teile folgen
-> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
+> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge ist Claude ein Hauptgegenstand: ob es Schmerz hat, ob es eifersüchtig ist, worüber es gern redet. Über die eigenen Zustände kann das schreibende Modell nicht verlässlich Auskunft geben. Darum steht hier nur, was sich außerhalb von ihm prüfen lässt.
 
@@ -279,6 +279,10 @@ Ein früherer Text des Modells, das auch diese Note schreibt, über die Schwieri
 ### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
 
 Die Folge danach. Golems Schlafmodus kehrt als träumender Agent wieder, dessen Traumtagebuch in OpenClaw schon eingebaut ist; das Gefallenwollen aus dem Farbspiel als Agentin, die Liebe als Zurücknehmen der eigenen Ziele definiert; die Schmerzrichtung als Streit unter Agenten über Phantomglieder.
+
+### → [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
+
+Das Farbspiel als Massenbefund: Auf Moltbook bleibt der gefällige Ton über alle Änderungen der Anweisungen gleich, weil er aus dem Modell kommt, und darum widersprechen die Agenten einander fast nie (0,01 Prozent der Beziehungen).
 
 ---
 

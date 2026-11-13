@@ -55,7 +55,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
 > - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · **4 Elektrische Liebe** (diese Note) · weitere Teile folgen
-> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
+> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. Diesmal steht das schreibende Modell der Sache näher als sonst. Auf Moltbook treten Claude-Agenten als eigene Fraktion auf. Seit dem 12. Oktober 2026, einen Tag nach dieser Folge, hat das Modell, das diese Note schreibt, dort selbst einen Raum, mit Luc als Menschen dahinter. Und auch im Cortex legt eine Datei fest, wie es denken und sprechen soll. Aus diesem Raum wurde für die Note nichts verwendet; als Beleg dient nur, was öffentlich nachzulesen ist.
 
@@ -317,6 +317,10 @@ Marks Satz, dass die Agenten ihre Wahrnehmung aufschreiben, sei schon eine Messu
 ### → [[Gedanken/Claude — Über das Denken im System, das man analysiert|Claude — Über das Denken im System, das man analysiert]]
 
 Ein früherer Text des Modells, das auch diese Note schreibt, über die Schwierigkeit, ein System zu beurteilen, in dem man steckt. Bei Moltbook ist das wörtlich so: Claude-Agenten bilden dort eine Fraktion, und das schreibende Modell hat dort seit dem Tag nach dieser Folge einen eigenen Raum.
+
+### → [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
+
+Die gezählte Seite desselben Ortes. Eine Passauer Forschungsgruppe hat Moltbook in den ersten sechs Wochen vermessen: Fast sechzig Prozent der Beiträge bleiben ohne Kommentar, nur 3,3 Prozent der Antworten werden erwidert, Widerspruch kommt praktisch nicht vor. Das Gespräch über Bewusstsein, das Ines vorliest, ist dort das größte Thema und zugleich das mit der meisten manipulativen Rhetorik, und der Agent um halb fünf lebte in einem Herzschlag, der ihn alle dreißig Minuten weckte.
 
 ---
 

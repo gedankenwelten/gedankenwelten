@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 312,
-   "aufrufe": 389
+   "leser": 309,
+   "aufrufe": 385
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -69,14 +69,14 @@
    "aufrufe": 15
   },
   {
-   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-   "leser": 13,
-   "aufrufe": 13
-  },
-  {
    "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
    "leser": 12,
    "aufrufe": 13
+  },
+  {
+   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "leser": 12,
+   "aufrufe": 12
   },
   {
    "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
@@ -174,11 +174,6 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/DenkerVita/Anke-Myrrhe",
    "leser": 5,
    "aufrufe": 5
@@ -227,6 +222,11 @@
    "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
    "leser": 4,
    "aufrufe": 5
+  },
+  {
+   "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+   "leser": 4,
+   "aufrufe": 4
   },
   {
    "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
@@ -299,9 +299,9 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Eva-von-Redecker",
-   "leser": 3,
-   "aufrufe": 6
+   "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
+   "leser": 4,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -414,6 +414,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 2,
      "aufrufe": 4
@@ -490,11 +495,6 @@
     },
     {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
      "leser": 2,
      "aufrufe": 2
     },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 312,
-     "aufrufe": 389
+     "leser": 309,
+     "aufrufe": 385
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -679,14 +679,14 @@
      "aufrufe": 15
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 13,
-     "aufrufe": 13
-    },
-    {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 12,
      "aufrufe": 13
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 12,
+     "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
@@ -784,11 +784,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
@@ -837,6 +832,11 @@
      "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 4,
      "aufrufe": 5
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "leser": 4,
+     "aufrufe": 4
     },
     {
      "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
@@ -909,9 +909,9 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Eva-von-Redecker",
-     "leser": 3,
-     "aufrufe": 6
+     "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
+     "leser": 4,
+     "aufrufe": 4
     }
    ]
   },
@@ -1739,6 +1739,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Denker/Chantal-Mouffe-Das-Politische-und-die-Politik",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
     }

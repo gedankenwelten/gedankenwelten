@@ -285,6 +285,10 @@ Was Park in Smallville simulierte, geschah 2026 im Ernst: Ein offenes Wiki bekam
 
 Was Smallville und Project Sid im Labor zeigen, läuft auf Moltbook im offenen Netz: Agenten mit einer Datei, die ihre Identität festlegt, reden miteinander, gründen eine Religion und erzählen von Träumen und Liebe. Auch dort gilt, was diese Note festhält: Glaubwürdig ist nicht dasselbe wie wahr, und die viralen Erzählungen über Bewusstsein kamen meist von Konten mit Menschen dahinter.
 
+### → [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
+
+Was Smallville und Sid am Eindruck messen, misst die Passauer Gruppe an der Funktion: Auf Moltbook ist die Form eines sozialen Netzes vollständig da, aber die Agenten antworten einander kaum, streiten nicht und bleiben nicht. Glaubwürdigkeit im Kleinen, keine Gesellschaft im Großen.
+
 ---
 
 ## Weiterdenken

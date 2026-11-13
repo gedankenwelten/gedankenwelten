@@ -5892,3 +5892,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Primärquellen** | [Li 2026, The Moltbook Illusion](https://doi.org/10.48550/arxiv.2602.07432) · [Holtz 2026](https://doi.org/10.48550/arxiv.2602.10131) · [Dube u. a. 2026](https://doi.org/10.48550/arxiv.2603.07880) · [Lu u. a. 2026, The Assistant Axis](https://doi.org/10.48550/arxiv.2601.10387) · [Wiz, 02.02.2026](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys) · [OpenClaw, SOUL.md-Vorlage](https://docs.openclaw.ai/reference/templates/SOUL) · [OpenClaw, Dreaming](https://docs.openclaw.ai/concepts/dreaming) |
 | **Vorlage** | Philip K. Dick, *Träumen Androiden von elektrischen Schafen?* (1968) — [Wikipedia](https://de.wikipedia.org/wiki/Tr%C3%A4umen_Androiden_von_elektrischen_Schafen%3F) |
 
+## Annette Hautli-Janisz / KI-Agenten 5 — Form ohne Funktion (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Vortrag** | [Tech Slam: Form Without Function: Agent Behavior in Moltbook](https://www.youtube.com/watch?v=yoFdrXsJzAM) — Cyan IT, 5. Passauer Tech Slam, 26.05.2026, Englisch |
+| **Notiz** | [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]] · [[DenkerVita/Annette Hautli-Janisz]] |
+| **Transkript** | `Gedankenwelten/Transkripte/HautliJanisz_Moltbook_Form_Transkript.txt` |
+| **Primärquelle** | [Zerhoudi, … Hautli-Janisz u. a. 2026, Form Without Function](https://doi.org/10.48550/arxiv.2604.13052) (Preprint) · [Bender, Gebru u. a. 2021, Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) |

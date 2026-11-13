@@ -242,6 +242,10 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt V
 
 Das Palantir-Kapitel, ein halbes Jahr weitergedacht: Für Kurz ist der Konzern nur der Türöffner, die Länder behalten die Methode. Anthropic, dessen Nein sie hier noch für wenig belastbar hielt, wird in Wien zum Beleg dafür, wie kurz die Leine aus Washington ist.
 
+### → [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
+
+Annette Hautli-Janisz beginnt ihren Vortrag mit dem Papagei und bringt dann tausend mit: Auf Moltbook reden die Agenten nebeneinander her, antworten selten und widersprechen fast nie. Eine Messung im Großen dessen, was das Bild vom stochastischen Papagei im Kleinen beschreibt.
+
 ---
 
 ## Weiterdenken

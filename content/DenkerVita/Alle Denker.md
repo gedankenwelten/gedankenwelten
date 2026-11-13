@@ -280,6 +280,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## H
 
+**[[DenkerVita/Annette Hautli-Janisz|Annette Hautli-Janisz]]** — Computerlinguistin (Juniorprofessur Computational Rhetoric and NLP, Uni Passau); misst, wie Menschen und Maschinen argumentieren: von GPT nachgeahmte Politikerantworten wirken echter als die Originale, das Agentennetz Moltbook hat Form ohne Funktion; „Papageien auf Steroiden“
+
 **[[DenkerVita/Kilian Hampel|Kilian Hampel]]** — Sozialforscher (Senior Research Fellow, Future of Work Lab, Universität Konstanz), Mitautor der Trendstudie *Jugend in Deutschland*; keine homogene Gen Z, Zukunftsperspektive als Klammer der Sorgen, Scheinbeteiligung als Gefahr für Engagement
 
 **[[DenkerVita/Tariq Hübsch|Tariq Hübsch]]** — Dozent für deutsche Kulturgeschichte (Jamia Ahmadiyya, Riedstadt), Grenzgänger Studios; Thiels Antichrist-Theologie, esoterisches Schreiben, Kybernetik und die Frage nach der Seele

@@ -80,6 +80,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Netzwerk, in dem Menschen nur zuschauen dürfen, eine Datei, die „Seele“ heißt, ein Agent, der nachts träumt, und eine, die Liebe definiert. Mark und Ines lesen auf Moltbook mit.
 
+> **13.11.** — [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
+>
+> 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
+
 > **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
 >
 > Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Informatiker kommt gestresster aus dem Urlaub zurück, als er hineinging. Was im Sommer 2026 mit KI-Schwärmen geschah, erklärt er nüchtern, und am Ende drückt er den grünen Knopf.
 
-> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
->
-> Ein Chatbot von 2000, der schlafen ging, eine Schmerzrichtung in Sprachmodellen, Eifersucht und eine Farbe, die blau sein soll. Mark und Ines fragen, ab wann wir einer Maschine ein Bewusstsein zuschreiben.
-
-> → *11 weitere in* [[Geistesblitz]]
+> → *12 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

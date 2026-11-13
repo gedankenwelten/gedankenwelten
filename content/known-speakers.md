@@ -311,6 +311,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Christian Bauckhage
 **Status:** ✓ Vollanalyse — [[DenkerVita/Christian Bauckhage]]
 
+## Annette Hautli-Janisz
+**Status:** ✓ Vollanalyse — [[DenkerVita/Annette Hautli-Janisz]]
+
 ## Agnes Callard
 **Status:** ✓ Vollanalyse → [[DenkerVita/Agnes Callard]]
 
