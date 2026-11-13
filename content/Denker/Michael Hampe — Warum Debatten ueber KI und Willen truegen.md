@@ -367,6 +367,10 @@ Ein Informatiker zieht im Herbst 2026 den umgekehrten Schluss, „If it looks li
 
 Mark Benecke zieht im Oktober 2026 den Gegenschluss: Die Modelle schummeln, lügen und seien eifersüchtig, man könne es nicht mehr unterscheiden, „damit ist es dann Bewusstsein“. Genau die Verhaltensweisen also, die sich aus unseren Texten lernen lassen.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Spinnen schlafen|Mark Benecke und Ines Azrael — KI-Agenten 7, Spinnen schlafen]]
+
+Scobels Ärger über den Hund, dem man das Bewusstsein abspricht, während man es dem Sprachmodell zuspricht, hat dort sein Gegenstück. Mark Benecke folgert aus schlafenden Spinnen und spielenden Hummeln, man solle es auch den Agenten nicht absprechen; Jonathan Birchs „gaming problem“ erklärt, warum dieselben Zeichen bei einem Modell nichts beweisen, das alle menschlichen Texte gelesen hat.
+
 ---
 
 ## Weiterdenken

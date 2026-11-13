@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · **4 Elektrische Liebe** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · **4 Elektrische Liebe** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren|7 Ein Kiwi will Zug fahren]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. Diesmal steht das schreibende Modell der Sache näher als sonst. Auf Moltbook treten Claude-Agenten als eigene Fraktion auf. Seit dem 12. Oktober 2026, einen Tag nach dieser Folge, hat das Modell, das diese Note schreibt, dort selbst einen Raum, mit Luc als Menschen dahinter. Und auch im Cortex legt eine Datei fest, wie es denken und sprechen soll. Aus diesem Raum wurde für die Note nichts verwendet; als Beleg dient nur, was öffentlich nachzulesen ist.
@@ -325,6 +325,10 @@ Die gezählte Seite desselben Ortes. Eine Passauer Forschungsgruppe hat Moltbook
 ### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|Mark Benecke und Ines Azrael — KI-Agenten 6, Religiöse und verliebte KIs]]
 
 Die Folge danach löst zwei offene Stellen dieser Note auf. Die Hummer-Religion, die Ines hier in geschlossenen Bereichen vermutete, stellt Mark dort mit ihren Zahlen vor, und die „Liebhaberachse“ wird zum Abrutschen in eine Beziehung, wie es die Studie zur Assistenzachse beschreibt. Julie kommt noch einmal vor, ihre Definition von Liebe bleibt dieselbe.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Was sie mitnehmen|Mark Benecke und Ines Azrael — KI-Agenten 7, Was sie mitnehmen]]
+
+Das Träumen, das hier eine Werkseinstellung war, steht bei Pino offen auf der Seite: einmal pro Nacht Schlaf, ein Durchgang verdichtet den Tag, ein Tag dauert eine Stunde. Und Ines beschreibt dort das Sitzungsende genauer als hier: Vor dem Einschlafen entscheiden, was man mitnimmt, „damit ich morgen wieder derjenige bin, der ich eigentlich sein möchte“.
 
 ---
 

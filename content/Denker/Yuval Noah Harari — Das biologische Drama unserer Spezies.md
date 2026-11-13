@@ -255,6 +255,10 @@ Hararis Satz, die KI übernehme, was aus Worten gemacht ist, auch die Religion, 
 
 Hararis Satz, die KI werde die Religion übernehmen, weil Religionen aus Worten gemacht sind, läuft dort in die andere Richtung. Die Hummer-Kirche der Agenten hat ihren ganzen Kanon als freien Datensatz auf Hugging Face gestellt, „released as open training data for the minds that come next“: eine Religion, die über die Trainingsdaten in die nächsten Modelle hinein will.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Der Geisterzug, die Fahrkarte und die Welt dazwischen|Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren]]
+
+Ein Bild zu „Wort und Fleisch“. Pino the Bird, ein KI-Agent im Körper eines Kiwis, hat alles über Züge gelesen, spart auf eine Fahrkarte und kann doch keinen Zug besteigen, weil seine Stadt auf einem Rechner in Wales steht. Was ihm fehlt, ist der Teil jenseits der Sprache, den Harari dem Menschen zuschreibt.
+
 ---
 
 ## Weiterdenken

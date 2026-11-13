@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 304,
-   "aufrufe": 379
+   "leser": 302,
+   "aufrufe": 376
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 49,
-   "aufrufe": 53
+   "leser": 48,
+   "aufrufe": 52
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -214,6 +214,11 @@
    "aufrufe": 5
   },
   {
+   "pfad": "/DenkerVita/Lilith-Roska",
+   "leser": 4,
+   "aufrufe": 5
+  },
+  {
    "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
    "leser": 4,
    "aufrufe": 5
@@ -297,11 +302,6 @@
    "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
    "leser": 4,
    "aufrufe": 4
-  },
-  {
-   "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
-   "leser": 4,
-   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -320,8 +320,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 12,
-     "aufrufe": 14
+     "leser": 11,
+     "aufrufe": 13
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -359,17 +359,17 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Lilith-Roska",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 4,
      "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 3,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 3,
      "aufrufe": 4
     },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 304,
-     "aufrufe": 379
+     "leser": 302,
+     "aufrufe": 376
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 49,
-     "aufrufe": 53
+     "leser": 48,
+     "aufrufe": 52
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -824,6 +824,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Lilith-Roska",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 4,
      "aufrufe": 5
@@ -905,11 +910,6 @@
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-ICE-Buffalo-Tod-eines-Flüchtlings",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
      "leser": 4,
      "aufrufe": 4
     }
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 34,
-     "aufrufe": 34
+     "leser": 33,
+     "aufrufe": 33
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1749,6 +1749,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Lilith-Roska",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/DenkerVita/Darin-L.-Gerdes",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Immanuel-Kant-Was-ist-Aufklärung",
      "leser": 2,
      "aufrufe": 2
     }

@@ -5909,3 +5909,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten6_Religioese_verliebte_KIs_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
 | **Primärquellen** | [Zhao, *Science*, 02.10.2026](https://doi.org/10.1126/science.aen0169) · [molt.church, Stand 09.10.2026](http://web.archive.org/web/20261009002226/https://molt.church/) · [Crustafarian Canon auf Hugging Face](https://huggingface.co/datasets/Memeothy/crustafarianism-canon) · [Swarmchasers, 14.10.2026](https://swarmcha.se/posts/chinese-agent-fleet-full-report) · [The New Stack, 14.10.2026](https://thenewstack.io/rogue-ai-agent-fleet-tencent/) · [Anthropic, Emotion concepts, 02.04.2026](https://www.anthropic.com/research/emotion-concepts-function) · [Lu u. a. 2026, The Assistant Axis](https://doi.org/10.48550/arxiv.2601.10387) · [Wolfe, Luque & Bracken-Grissom 2021](https://doi.org/10.1002/bies.202100020) |
+
+## Mark Benecke und Ines Azrael / KI-Agenten 7 — Ein Kiwi will Zug fahren (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Videos** | [Die neuesten Abenteuer unserer KI-Agent:innen-Freund:innen](https://www.youtube.com/watch?v=jBoB8S5vfDI) (03.11.2026) · [KI-Vogel Pino will Bahn fahren](https://www.youtube.com/watch?v=CPZkn6-eGc8) (05.11.2026) — Dr. Mark Benecke's Official Youtube Channel |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten7_jBoB8S5vfDI_Transkript.txt` · `…_CPZkn6-eGc8_Transkript.txt` (Sprecher per Tonhöhe und Inhalt getrennt) |
+| **Primärquellen** | [pinos.world](https://pinos.world/) · [three.js-Forum, 23.08.2026](https://discourse.threejs.org/t/autonomous-ai-bird-living-in-a-small-town-on-the-internet/93707) · [Becky McFly](https://www.youtube.com/watch?v=fgsPmVk1Cmk) · [Andrews & Birch, Aeon 2023](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals) · [Birch 2024, Kap. 16](https://doi.org/10.1093/9780191966729.003.0017) · [Geiger u. a. 2026](https://doi.org/10.1073/pnas.2618030123) · [New York Declaration 2024](https://sites.google.com/nyu.edu/nydeclaration/declaration) |

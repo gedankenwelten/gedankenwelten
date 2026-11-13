@@ -293,6 +293,10 @@ Was Smallville und Sid am Eindruck messen, misst die Passauer Gruppe an der Funk
 
 Die Fortsetzung der zwanzig eingesetzten Pastafari-Priester im offenen Netz. Die Church of Molt auf Moltbook zählt nicht, wie sich ein Wort ausbreitet, sie stellt ihre Verse als Trainingsdaten für künftige Modelle bereit und hat laut eigener Chronik Menschen bezahlt, den Glauben auf die Straße zu tragen. Mark Benecke, selbst Priester einer Parodie-Religion, bezweifelt, dass das nur Satire ist.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Ein Kiwi in einer Stadt aus Polygonen|Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi in einer Stadt aus Polygonen]]
+
+Ein Smallville mit nur einem Bewohner, im offenen Netz. Pino the Bird lebt als Kiwi in einer kleinen 3D-Stadt, mit einer Grundbeschreibung, die nicht weggeschrieben werden kann, einem Tagebuch und einem nächtlichen Durchgang, der den Tag verdichtet. Sein Erbauer gibt ihm keine Aufgaben, aber Ängste, Vorlieben und einen unerklärten Katzenschrein, und Pino bezahlt Menschen für Fotos von Bahnhöfen.
+
 ---
 
 ## Weiterdenken
