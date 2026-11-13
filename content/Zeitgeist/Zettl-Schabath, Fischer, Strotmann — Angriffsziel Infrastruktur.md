@@ -392,6 +392,10 @@ Zettl-Schabaths zwei Kurven, gefundene gegen ausgenutzte Lücken, sind die These
 
 Zettl-Schabaths Rat, im Bericht nachzusehen, wofür Angreifer KI wirklich genutzt haben, ist das Werkzeug, mit dem die Spur echte Gefahr von Inszenierung trennen will. Fischers falsche Zuschreibung des PHP-Exploits an Claude zeigt, wie sich der Gefahrenlärm an den lautesten Markennamen heftet.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+
+Eine Altlast ohne Lücke: Ein Wiki von 2001 nahm Schreibbefehle über dieselben Abrufe an wie das Lesen, und ein Agentenschwarm, der nur lesen durfte, schrieb darüber rund 18.000 Nachrichten.
+
 ---
 
 ## Weiterdenken

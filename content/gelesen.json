@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 336,
-   "aufrufe": 415
+   "leser": 325,
+   "aufrufe": 403
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -20,23 +20,23 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 52,
-   "aufrufe": 56
+   "leser": 51,
+   "aufrufe": 55
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 31,
-   "aufrufe": 34
+   "leser": 30,
+   "aufrufe": 33
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "leser": 28,
-   "aufrufe": 30
+   "leser": 26,
+   "aufrufe": 28
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 25,
-   "aufrufe": 28
+   "leser": 24,
+   "aufrufe": 27
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -60,8 +60,8 @@
   },
   {
    "pfad": "/DenkerVita/Der-Dara",
-   "leser": 15,
-   "aufrufe": 17
+   "leser": 14,
+   "aufrufe": 16
   },
   {
    "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -139,6 +139,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
    "leser": 5,
    "aufrufe": 8
@@ -159,22 +164,12 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
-   "leser": 5,
-   "aufrufe": 6
-  },
-  {
    "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
    "leser": 5,
    "aufrufe": 6
   },
   {
    "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
    "leser": 5,
    "aufrufe": 5
   },
@@ -194,11 +189,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
    "leser": 5,
    "aufrufe": 5
@@ -210,6 +200,11 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+   "leser": 4,
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
    "leser": 4,
    "aufrufe": 5
   },
@@ -235,6 +230,11 @@
   },
   {
    "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
    "leser": 4,
    "aufrufe": 4
   },
@@ -269,11 +269,6 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
    "leser": 4,
    "aufrufe": 4
@@ -302,6 +297,11 @@
    "pfad": "/DenkerVita/Eva-von-Redecker",
    "leser": 3,
    "aufrufe": 6
+  },
+  {
+   "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+   "leser": 3,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -311,17 +311,17 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 25,
-     "aufrufe": 30
+     "aufrufe": 29
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 17,
-     "aufrufe": 20
+     "leser": 16,
+     "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 13,
-     "aufrufe": 15
+     "leser": 12,
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -489,6 +489,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Claudia-Wittig-und-Rainer-Rothfuss-Frieden-mit-Russland-ueber-die-Brandmauer",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 2,
      "aufrufe": 2
@@ -554,11 +559,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
      "leser": 1,
      "aufrufe": 1
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 336,
-     "aufrufe": 415
+     "leser": 325,
+     "aufrufe": 403
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -630,23 +630,23 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 52,
-     "aufrufe": 56
+     "leser": 51,
+     "aufrufe": 55
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 31,
-     "aufrufe": 34
+     "leser": 30,
+     "aufrufe": 33
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 28,
-     "aufrufe": 30
+     "leser": 26,
+     "aufrufe": 28
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 25,
-     "aufrufe": 28
+     "leser": 24,
+     "aufrufe": 27
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -670,8 +670,8 @@
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
-     "leser": 15,
-     "aufrufe": 17
+     "leser": 14,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -749,6 +749,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 5,
      "aufrufe": 8
@@ -769,22 +774,12 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
-     "leser": 5,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 5,
      "aufrufe": 6
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 5,
      "aufrufe": 5
     },
@@ -804,11 +799,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 5,
      "aufrufe": 5
@@ -820,6 +810,11 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
      "leser": 4,
      "aufrufe": 5
     },
@@ -845,6 +840,11 @@
     },
     {
      "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 4,
      "aufrufe": 4
     },
@@ -879,11 +879,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 4,
      "aufrufe": 4
@@ -912,6 +907,11 @@
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 3,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 3,
+     "aufrufe": 4
     }
    ]
   },
@@ -1109,6 +1109,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 9,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 9,
      "aufrufe": 9
@@ -1155,11 +1160,6 @@
     },
     {
      "pfad": "/DenkerVita/Dirk-Specht",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1414,6 +1414,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 9,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 9,
      "aufrufe": 9
@@ -1460,11 +1465,6 @@
     },
     {
      "pfad": "/DenkerVita/Dirk-Specht",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1540,8 +1540,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 37,
-     "aufrufe": 37
+     "leser": 36,
+     "aufrufe": 36
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1550,8 +1550,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 25,
-     "aufrufe": 25
+     "leser": 24,
+     "aufrufe": 24
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1634,6 +1634,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
@@ -1645,11 +1650,6 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 5,
      "aufrufe": 5
     },
@@ -1690,11 +1690,6 @@
     },
     {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 3,
      "aufrufe": 3
     },
@@ -1762,6 +1757,11 @@
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 3,
      "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 2,
+     "aufrufe": 2
     },
     {
      "pfad": "/Zeitgeist/Philipp-Blom-Die-strauchelnde-Welt",

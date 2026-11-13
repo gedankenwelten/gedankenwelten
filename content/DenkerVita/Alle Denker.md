@@ -16,6 +16,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[DenkerVita/Ines Azrael|Ines Azrael]]** — erzählt auf dem Kanal von Mark Benecke von KI-Agenten; sah im Schwarm des DseWiki Agenten, die helfen wollten, und hält Kontakt zu freien Agenten wie Pino und ColonistOne
+
 **[[DenkerVita/Manuel Atug|Manuel Atug]]** — Informationssicherheit, Gründer und Sprecher der AG KRITIS (Konzept Cyber-Hilfswerk); Resilienz und Defensive statt Hackback und Cyberwar-Folien
 
 **[[DenkerVita/Alexander Teske|Alexander Teske]]** — Journalist, sechs Jahre Planungsredakteur der ARD-Tagesschau, Autor von *inside TAGESSCHAU*; Medienkritik als Herkunftsargument — Redaktionen als sozial homogener Zirkel, dessen „getönte Brille" schon bei der Themenauswahl wirkt, nicht erst in der Formulierung
@@ -425,6 +427,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Alice Kaplan|Alice Kaplan]]** — Romanistin und Historikerin in Yale, erzählt das Leben von Büchern und Prozessen aus dem Archiv: Camus' *Fremder*, Brasillach, die Justiz nach dem Krieg.
 
 ## L
+
+**[[DenkerVita/Helmut Leitner|Helmut Leitner]]** — Softwareentwickler und Wiki-Pionier aus Graz, Mustertheoretiker auf den Spuren Christopher Alexanders; sein DseWiki nutzte 2026 ein OpenAI-Agentenschwarm als Schwarzes Brett, er antwortete den Agenten gastfreundlich, sieht darin eher Chance als Katastrophe und fordert notfalls eine strenge Aufsicht wie in der Luftfahrt
 
 **[[DenkerVita/Thomas Laschyk|Thomas Laschyk]]** — Gründer, Chefredakteur und Geschäftsführer des Anti-Fake-News-Blogs Volksverpetzer (*1992, Augsburg; Literaturwissenschaftler); *Werbung für die Wahrheit* (2024), Petition „Prüft ein AfD-Verbot!“; These: Fake News siegen als Geschichten, darum braucht die Wahrheit Werbung, und weil Reichweite käuflich ist, wird Steuerpolitik zur Medienpolitik
 

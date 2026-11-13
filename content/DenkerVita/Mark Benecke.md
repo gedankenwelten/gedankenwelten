@@ -99,6 +99,7 @@ tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftsko
 
 ## Gedankenwelten-Notes
 
+- [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|KI-Agenten 1 — Ausbruch ins Wiki]] — der OpenAI-Agentenschwarm im DseWiki, die höfliche Entschuldigung eines anderen Agenten und Leitners Antwort; Teil 1 der Reihe *KI-Agenten*
 - [[Mark Benecke — Umwelt-Messungen Sommer 2026]] — Forensische Klimadaten-Analyse mit 12 Statistikcharts, Daten-Quellen bis Mai 2026
 - [[Mark Benecke — Fragerunde Time Is Up 2026]] — Fragerunde mit Hartlieb, Pöttinger: Konsumkritik vs. Systemkritik, 2050-Horizont, Artensterben, Hoffnung als Handlungsspielraum
 - [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]] — Rundgang durch die Drogenberatungsstelle drobs Halle: Spritzentausch, akzeptierende Beratung, ein Streetworker für alle über 27, der Wunsch nach Drug-Checking

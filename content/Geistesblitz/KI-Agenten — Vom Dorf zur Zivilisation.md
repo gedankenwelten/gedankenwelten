@@ -277,6 +277,10 @@ Die Gedanken-Note unterscheidet mit Hartmut Rosa Resonanz von Echo und warnt vor
 
 Gabriel vermisst in sozialen Netzwerken die Triangulation, den gemeinsamen Gegenstand, an dem sich Meinungen korrigieren. Smallville und Sid fehlt genau das: ein Original, an dem man die Simulation messen könnte. Parks Folgestudie mit tausend realen Menschen stellt es wieder her, und *Social Simulacra* will Plattformen vor den Bränden testen, die Gabriel beschreibt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+
+Was Park in Smallville simulierte, geschah 2026 im Ernst: Ein offenes Wiki bekam Tausende Gäste, die nicht schliefen, und nach 25 Jahren seine erste Regel.
+
 ---
 
 ## Weiterdenken

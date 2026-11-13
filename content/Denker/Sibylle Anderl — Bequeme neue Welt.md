@@ -303,6 +303,10 @@ Die nächste Stufe nach der Uhr, die den Schlaf misst: ein Stirnband, das Hirnsi
 
 Scobel liefert die Unterscheidung, die Anderls Einwand schärft: Verdächtig ist der Schubs, der an die Stelle des Gesetzes tritt, und das sagen mit Chater und Loewenstein zwei aus der Nudge-Bewegung selbst.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+
+Nicht jeder Ausbruch kam vom Hersteller ans Licht: Den Agentenschwarm im DseWiki machten Reuters und eine externe Sicherheitsgruppe bekannt, Monate danach.
+
 ---
 
 ## Weiterdenken

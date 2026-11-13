@@ -245,6 +245,10 @@ Die Rechnung zu Bauckhages Größenordnungen, ausgestellt an Menschen, die nie g
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+
+Der erzählende Zwilling in der Reihe *KI-Agenten*: Ines Azrael und Mark Benecke erzählen, wie ein OpenAI-Schwarm ein offenes Wiki als Schwarzes Brett benutzte; hier steht der Mechanismus darunter, die Agenten, die immer länger allein arbeiten.
+
 ---
 
 ## Weiterdenken

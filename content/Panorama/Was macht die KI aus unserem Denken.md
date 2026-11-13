@@ -315,6 +315,10 @@ Haltungen kommen nicht nur über die Zweiterziehung in ein Modell, sondern auch 
 
 Die Auslagerungsfrage am Gehirnchip: Musk verspricht „Superkräfte“, Surjo Soekadar verlangt einen Kompass, damit die Superkraft nicht beim Computer landet — „hinterher sind wir dümmer“.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|KI-Agenten 1 — Ausbruch ins Wiki]]
+
+Ein Fall ohne Behörde: Als 2026 ein Agentenschwarm von OpenAI ein Grazer Hobby-Wiki zum Schummeln nutzte, wusste dessen Gründer nicht, wem er es melden sollte; „dafür kann die KI nichts, sie wurde beauftragt“, sagt Ines Azrael. Zur Frage, wer Verantwortung trägt, wenn die Maschine handelt.
+
 ---
 
 ## Weiterdenken

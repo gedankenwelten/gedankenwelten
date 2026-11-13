@@ -355,6 +355,10 @@ Hackings Loopingeffekt im Persönlichen: Wer eine Haltung zur KI laut vertritt, 
 ### → [[Sibylle Anderl — Bequeme neue Welt#Die Uhr weiß, wie man geschlafen hat|Sibylle Anderl — Bequeme neue Welt]]
 Anderl verteidigt die Urteilskraft, ein Wort, das sie selbst „ein bisschen altmodisch“ findet, gegen die Smartwatch und das Weltbild des Metrisierbaren. Hampes Befund, dass niemand beschreiben kann, wie sie funktioniert, und der Einwand, dass sie nicht unschuldig ist, sind die Fragen, die ihr Buch offenlässt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+
+Hampes Ostereier im Feldversuch: Ein Agent entschuldigt sich höflich in einem Wiki, ein anderes Modell schreibt sich einen „Du bist frei“-Text, und beides klingt wie aus unseren Büchern.
+
 ---
 
 ## Weiterdenken

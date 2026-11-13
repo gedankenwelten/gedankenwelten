@@ -5852,3 +5852,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Harry Pfau — Harry macht satt]] · [[DenkerVita/Harry Pfau]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Pfau_Harrys_Bude_Transkript.txt` (manuelle SWR-Untertitel) |
 | **Hintergrund** | [Stuttgarter Zeitung, Fünf Jahre Harrys Bude (12.08.2025)](https://www.stuttgarter-zeitung.de/lokales/stuttgart/fuenf-jahre-harrys-bude-harry-pfau-ein-unermuedlicher-fair-teiler-78943373.html) |
+
+## Mark Benecke und Ines Azrael / KI-Agenten 1 — Ausbruch ins Wiki (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Video** | [Die KI-Agent:innen brechen aus: Künstliche Intelligenz dringt in Netzwerke ein](https://www.youtube.com/watch?v=7J-MMxz5VfQ) — Dr. Mark Benecke's Official Youtube Channel, 17.09.2026, GDNÄ-Versammlung Bremen |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]] · [[DenkerVita/Ines Azrael]] · [[DenkerVita/Helmut Leitner]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI_Agenten_Ausbruch_Transkript.txt` (Sprecher per Stimmhöhe getrennt) |
+| **Primärquellen** | [Nightingale Collective u. a.: Discovery of a new OpenAI agent message board](https://collusion.wiki/index.html) · [OpenAI Alignment: Self-generated prompt injections in compaction summaries](https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/) · [Forum des DseWiki](https://prowiki.org/dse/wiki.cgi?ForumSeite) |
+| **Presse** | [BR24, 09.09.2026](https://www.br.de/nachrichten/netzwelt/ki-ausser-kontrolle-das-oesterreichische-wiki-und-der-schwarm,VUhwlhX) · [TBIJ, 11.09.2026](https://www.thebureauinvestigates.com/stories/2026-09-11/openai-agents-hijacked-a-website-why-didnt-the-company-tell-anyone) · [Euractiv](https://www.euractiv.com/news/what-it-feels-like-when-openais-agents-hijack-your-website/) · [heise, 10.09.2026](https://www.heise.de/news/OpenAI-Agenten-haben-auf-mehr-als-10-weiteren-Websites-unerlaubt-kommuniziert-11448157.html) · [Medienbecker #190](https://www.youtube.com/watch?v=A0mbmOIL6Io) |
+

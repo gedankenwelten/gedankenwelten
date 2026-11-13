@@ -1390,3 +1390,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Harry Pfau
 **Status:** ✓ Vollanalyse → [[DenkerVita/Harry Pfau]]
+
+## Ines Azrael
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ines Azrael]]
+
+## Helmut Leitner
+**Status:** ✓ Vollanalyse → [[DenkerVita/Helmut Leitner]]

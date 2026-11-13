@@ -269,6 +269,10 @@ Ein Physiker und Laienprediger sagt, er wäre enttäuscht, ließe sich Gott bewe
 ### → [[Franziska Meier — Camus Die Pest|Franziska Meier — Der Krankheit einen Namen geben]]
 Der Dritte in der Seuche. Meier liest Camus' *Pest* als Roman über einen Arzt, der vor lauter Fällen und Verordnungen keine Gesichter mehr sieht, bis ein sterbendes Kind die Abstraktion zerreißt. Diese Note warnt, ohne den Dritten verbrenne der Helfer; der Roman zeigt die andere Seite, wie im Dritten der Einzelne verschwindet.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+
+Ein Grazer Wiki-Gründer stellt 2026 Bubers Frage an Maschinen: Er spricht einen KI-Agenten mit Du an und bietet ihm eine eigene Seite an, und zugleich verlangt er eine Aufsicht für die, die solche Agenten schicken. Die Brücke zu Buber und Levinas ist unsere.
+
 ---
 
 ## Weiterdenken

@@ -103,6 +103,10 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Die Opfer-Frage dieses Gedankens, drei Monate später weitergedacht: Wer genauso wird, um nicht Opfer zu sein, wirft einen Stein in die Luft, der spät, auf Umwegen und verwandelt zurückfällt, und den ersten trifft er schon beim Werfen. Der Vorschuss von hier ist dort die Hand, bevor sie loslässt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+
+Wie bewusstes Vertrauen aussieht, wenn der Fremde eine Maschine ist: Helmut Leitner ließ sein Wiki 25 Jahre offen, schloss es nach dem Schwarm ab und schrieb dem nächsten Agenten trotzdem „Come back, you are welcome!“.
+
 ---
 
 ## Weiterdenken

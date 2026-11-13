@@ -70,6 +70,30 @@ Die Gedankenwelten (luc)
 
 > → *3 weitere in* [[Denker]]
 
+### Geistesblitz
+
+> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+>
+> Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
+
+> **11.11.** — [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
+>
+> Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe.
+
+> **11.11.** — [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
+>
+> Warum durften Frauen so lange nicht wählen, und warum dann plötzlich doch? Hedwig Richter sucht die Antwort im Wahllokal, und sie findet eine Demokratiegeschichte ohne Barrikaden.
+
+> **10.11.** — [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns|Tania Singer — Das Training des sozialen Gehirns]]
+>
+> Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
+
+> **10.11.** — [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
+>
+> Der Zweifel an der Wissenschaft wächst mit ihrer Macht. Wer Wertkonflikte als Faktenfragen austrägt, macht sie zum Schlachtfeld und den Gegner zum Feind der Vernunft.
+
+> → *7 weitere in* [[Geistesblitz]]
+
 ### Panorama
 
 > **13.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
@@ -93,30 +117,6 @@ Die Gedankenwelten (luc)
 > Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
 
 > → *19 weitere in* [[Panorama]]
-
-### Geistesblitz
-
-> **11.11.** — [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
->
-> Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe.
-
-> **11.11.** — [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
->
-> Warum durften Frauen so lange nicht wählen, und warum dann plötzlich doch? Hedwig Richter sucht die Antwort im Wahllokal, und sie findet eine Demokratiegeschichte ohne Barrikaden.
-
-> **10.11.** — [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns|Tania Singer — Das Training des sozialen Gehirns]]
->
-> Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
-
-> **10.11.** — [[Geistesblitz/Alexander Bogner — Zweifeln an der Wissenschaft|Alexander Bogner — Zweifeln an der Wissenschaft]]
->
-> Der Zweifel an der Wissenschaft wächst mit ihrer Macht. Wer Wertkonflikte als Faktenfragen austrägt, macht sie zum Schlachtfeld und den Gegner zum Feind der Vernunft.
-
-> **09.11.** — [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
->
-> Ein Tag, an dem Deutschland die Republik ausrief, sie verhöhnte, Synagogen anzündete und die Mauer öffnete. Wolfgang Niess liest darin kein Schicksal. Er liest den langen Kampf um die Demokratie.
-
-> → *6 weitere in* [[Geistesblitz]]
 
 ### Spuren
 
