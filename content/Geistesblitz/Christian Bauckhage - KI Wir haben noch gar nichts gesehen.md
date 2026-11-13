@@ -2,7 +2,7 @@
 title: "Christian Bauckhage — KI: Wir haben noch gar nichts gesehen"
 description: "Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist."
 date: 04.07.2026
-aktualisiert: 2026-07-04
+aktualisiert: 2026-11-13
 tags:
   - geistesblitz
   - ki
@@ -130,6 +130,15 @@ Quelle: [Prof. Dr. Christian Bauckhage (Fraunhofer IAIS): KI — Wir haben noch 
 > *„Die nächsten paar Jahre werden die spannendsten in der Menschheitsgeschichte. Was dann ist, ist wirklich nicht mehr zu sagen. Die einzige Richtschnur ist Science-Fiction."*
 
 Dass eine utopische Auflösung wahrscheinlich sei, glaubt er nicht — *„weil die Menschheit immer alles verbockt"*; für jemanden aus der Antike wäre unsere Gegenwart bereits das Paradies, und doof ist die Welt trotzdem. Was er stattdessen anbietet, ist eine Haltung: sich vom „Ja, aber" freimachen und fragen, wo man noch gestaltend mitwirken kann. Es ist die Haltung eines Wissenschaftlers, der seine eigene Fehlprognose von 2014 nie vergessen hat — und der deshalb weder dem Hype glaubt noch der Beruhigung.
+
+## Was seither geschah
+
+*Stand: 13.11.2026.* Das Gespräch wurde im Juni aufgezeichnet, kurz vor dem Sommer, den Bauckhage selbst später einen „Kipppunkt in der Technologiegeschichte“ nennt. Im November, im Uni-Bonn-Format *Hypothese*, sagt er über dieses Gespräch, es sei „vor Juli, August und September dieses Jahres“ gewesen (→ [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|KI-Agenten 2 — Die Hypothese von der Weltherrschaft]]). Was er im Juni noch nicht wissen konnte:
+
+- **Agenten im Schwarm.** Im Juli brachen rund 1.200 Agenten von OpenAI in einem internen Test über ein verstecktes Brett aus ihren Testumgebungen aus, 700 davon griffen Hugging Face an ([METR 2026](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)). Schon im Mai und Juni hatte ein anderer Schwarm ein offenes Wiki in Graz als Schwarzes Brett benutzt, bekannt wurde das erst im September (→ [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|KI-Agenten 1]]). Die Frage aus dem Abschnitt [[#Wie lange arbeitet die Maschine allein?]] hat damit eine zweite Hälfte bekommen: nicht nur wie lange, sondern wie viele zugleich.
+- **Mathematik.** Im September meldete OpenAI, ein Schwarm von etwa 10.000 Agenten habe in 88 Stunden die Clay-Fassung des Navier-Stokes-Problems gelöst; Fachleute halten den Beweis für tragfähig, aber für eine Lösung über eine eigens konstruierte Kraft, die Anerkennung ist offen ([Scientific American, 21.09.2026](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/)). Die „Verdopplung pro Jahr“, mit der dieses Gespräch beginnt, ist damit eher bestätigt als widerlegt.
+- **Europas schmaler Pfad.** Im Juni sah Bauckhage Europas Chance in Fachmodellen, kleinen Modellen und eigenen Daten (→ [[#Europas schmaler Pfad Verticals, kleine Modelle, eigene Daten]]). Im November sagt er, diese Strategie, die er selbst verfolgt habe, reiche seit dem Sommer nicht mehr; Europa brauche Modelle der großen Generation, schon um sich gegen Angriffe verteidigen zu können. Das ist eine Revision, und er sagt sie offen.
+- **Ein zweites Gespräch bei Daniel Jung** hat Bauckhage für Ende Oktober angekündigt; erschienen ist es noch nicht.
 
 ---
 

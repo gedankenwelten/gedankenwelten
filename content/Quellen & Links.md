@@ -5872,3 +5872,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Bauckhage_Hypothese_Weltherrschaft_Transkript.txt` (Sprecher per Klangfarbe getrennt) |
 | **Primärquellen** | [METR, 26.08.2026](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/) · [Hugging Face, technischer Ablauf](https://huggingface.co/blog/agent-intrusion-technical-timeline) · [OpenAI, Navier-Stokes](https://openai.com/index/navier-stokes-solution/) · [Chatterji u. a. 2025](https://doi.org/10.3386/w34255) |
 
+## Mark Benecke und Ines Azrael / KI-Agenten 3 — Ab wann Bewusstsein (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Video** | [Eifersüchtige und tricksende künstliche Intelligenzen](https://www.youtube.com/watch?v=EypeFFG4eNU) — Dr. Mark Benecke's Official Youtube Channel, 04.10.2026 (am 08.10. als quellenlos zurückgestellt, am 13.11. als Teil der Reihe verarbeitet) |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI_Eifersucht_Tricks_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
+| **Primärquellen** | [Tagliabue, Dung, Berg 2026](https://doi.org/10.48550/arXiv.2609.16247) · [OpenAI: Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) · [Anthropic, Gespräche beenden](https://www.anthropic.com/research/end-subset-conversations) · [Sharma u. a. 2023](https://doi.org/10.48550/arxiv.2310.13548) · [Baker u. a. 2025](https://doi.org/10.48550/arxiv.2503.11926) |
+| **Presse** | [The Independent, 02.10.2026](https://www.independent.co.uk/tech/ai-torture-chamber-pain-b3059571.html) · [404 Media](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/) · [t3n](https://t3n.de/news/koennen-ki-modelle-schmerz-empfinden-wie-ein-skurriles-github-projekt-die-debatte-neu-entfacht-1766183/) |
+

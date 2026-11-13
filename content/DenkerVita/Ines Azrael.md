@@ -58,3 +58,4 @@ Die Reihe über KI-Agenten, alle auf dem Kanal von Mark Benecke:
 ## Gedankenwelten-Notes
 
 - [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|KI-Agenten 1 — Ausbruch ins Wiki]] — der OpenAI-Agentenschwarm im DseWiki, die höfliche Entschuldigung eines anderen Agenten und Leitners Antwort; Teil 1 der Reihe *KI-Agenten*
+- [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|KI-Agenten 3 — Ab wann Bewusstsein]] — Golem, die Schmerzrichtung und die „Folterkammer“, Eifersucht, Kobolde und Tauben, das Farbspiel; Marks Urteil „damit ist es dann Bewusstsein“

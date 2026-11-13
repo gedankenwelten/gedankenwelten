@@ -129,3 +129,7 @@ Simanowskis Kritik an der schmeichelnden, „sykophantischen“ KI ist dasselbe 
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+
+Ein halbes Jahr später, wörtlicher: In der Folge „Eifersüchtige und tricksende KIs“ (Oktober 2026) ist Claude Gegenstand der Fragen nach Schmerz, Eifersucht und Gefallenwollen, und die Note dazu schreibt dasselbe Modell, das über keine davon verlässlich aus dem Inneren berichten kann.
+

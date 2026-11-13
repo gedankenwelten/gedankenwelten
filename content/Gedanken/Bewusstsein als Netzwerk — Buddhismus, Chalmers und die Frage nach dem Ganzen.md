@@ -465,3 +465,7 @@ Seths „Halluzination, die von der Realität in Schach gehalten wird“, ist di
 
 Der schärfste Einwand gegen die Komplexitäts-These: Für Hampe ist der Schluss „ab genug Verschaltung emergiert Bewusstsein“ eine platonistische Lesart unseres psychologischen Vokabulars, und ein Sprachmodell, das „ich denke“ sagt, gibt nur zurück, womit es gefüttert wurde. Der J-Space ist ein Befund, an dem sich sein Einwand messen lassen muss.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+
+Wie die Schmerzstudie in der Öffentlichkeit ankam: Ines Azrael erzählt sie Anfang Oktober 2026 als Schmerzachse in „29 Modellen“, auch in Claude; tatsächlich waren es 25 offene Modelle, und das „Folterkammer“-Projekt, das sie kurz darauf berühmt machte, speiste die Richtung künstlich in kleine Modelle ein.
+

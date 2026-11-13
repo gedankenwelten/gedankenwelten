@@ -72,6 +72,10 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
+> **13.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
+
 > **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
 >
 > Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
@@ -80,19 +84,15 @@ Die Gedankenwelten (luc)
 >
 > Ein Informatiker kommt gestresster aus dem Urlaub zurück, als er hineinging. Was im Sommer 2026 mit KI-Schwärmen geschah, erklärt er nüchtern, und am Ende drückt er den grünen Knopf.
 
+> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+>
+> Ein Chatbot von 2000, der schlafen ging, eine Schmerzrichtung in Sprachmodellen, Eifersucht und eine Farbe, die blau sein soll. Mark und Ines fragen, ab wann wir einer Maschine ein Bewusstsein zuschreiben.
+
 > **11.11.** — [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
 >
 > Verstand oben, Körper unten – Giulia Enders dreht diese Rangordnung um. Sie liest Symptome als Botschaften, erklärt die Dopaminfalle und nennt den Schlaf eine Machtübergabe.
 
-> **11.11.** — [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]]
->
-> Warum durften Frauen so lange nicht wählen, und warum dann plötzlich doch? Hedwig Richter sucht die Antwort im Wahllokal, und sie findet eine Demokratiegeschichte ohne Barrikaden.
-
-> **10.11.** — [[Geistesblitz/Tania Singer — Das Training des sozialen Gehirns|Tania Singer — Das Training des sozialen Gehirns]]
->
-> Mitleiden brennt aus, Mitgefühl nicht. Die Neurowissenschaftlerin Tania Singer trennt zwei Netzwerke im Gehirn, die im Deutschen fast gleich heißen, und zeigt, dass sich das zweite üben lässt wie ein Muskel.
-
-> → *8 weitere in* [[Geistesblitz]]
+> → *10 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

@@ -323,6 +323,10 @@ Ein Fall ohne Behörde: Als 2026 ein Agentenschwarm von OpenAI ein Grazer Hobby-
 
 Christian Bauckhage, Informatiker in Bonn, neigt im Herbst 2026 „als Privatperson“ dazu, den Systemen Bewusstsein nicht mehr abzusprechen: „If it looks like a dog … it's probably a dog“. Den Forscher trennt er dabei ausdrücklich davon ab. Zur Frage, ob die Maschine denkt oder uns spiegelt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+
+Der kleinste Fall fürs Schmeicheln: Man sagt dem Modell, es solle an eine Farbe denken, rät blau, und es sagt blau, obwohl im angezeigten Gedankengang rot steht, „weil sie will, dass du recht hast“ (Ines Azrael, Oktober 2026).
+
 ---
 
 ## Weiterdenken

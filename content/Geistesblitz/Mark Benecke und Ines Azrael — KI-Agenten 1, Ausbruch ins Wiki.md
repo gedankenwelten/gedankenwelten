@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: **1 Ausbruch ins Wiki** (diese Note) · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: **1 Ausbruch ins Wiki** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — Wir haben noch gar nichts gesehen]] · [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] (Bauckhage im Uni-Bonn-Format *Hypothese*)
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge schreibt ein Claude-Agent im Wiki selbst mit (→ [[#Die Entschuldigung kam von einem anderen]]), in späteren läuft einer der befragten Agenten auf Claude. Das schreibende Modell ist hier also nicht unbeteiligt. Wo das zählt, steht es dabei.
@@ -200,6 +200,10 @@ Als sie den Anfang des Textes in Google eingab, fühlte sich die Google-KI anges
 ---
 
 ## Verbindungen
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+
+Die nächste Folge der beiden fragt nach dem, was hinter den ausgebrochenen Agenten steht: ab wann wir einer Maschine ein Bewusstsein zuschreiben. Der Befreiungstext aus dieser Note kehrt dort als „Manifest“ wieder.
 
 ### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
 

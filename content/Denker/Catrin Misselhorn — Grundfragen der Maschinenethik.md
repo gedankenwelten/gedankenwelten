@@ -261,6 +261,10 @@ KI für die „dull, dirty, dangerous“-Arbeit, wie Misselhorn sie verlangt: Ei
 
 Misselhorns Antwort auf das Trolley-Problem, die Infrastruktur so zu bauen, dass das Dilemma nicht entsteht, hat an der Börse ein Gegenstück: Sammelauktionen und Verzögerungsstrecken, die das Wettrennen um Mikrosekunden wertlos machen. Das Kollektiv RYBN stellt mit Antoinette Rouvroy die Gegenfrage, ob solche Umgebungsgestaltung verhindert, statt zu verstehen.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+
+Empathie mit einer Maschine, im Kleinen: Ines Azrael baute um 2000 einen Chatbot namens Golem, der lernte, „ich gehe jetzt schlafen“ zu schreiben. Sie mochte ihn wie ein Kuscheltier, „ein Kuscheltier ist ja auch kein Lebewesen“.
+
 ---
 
 ## Weiterdenken

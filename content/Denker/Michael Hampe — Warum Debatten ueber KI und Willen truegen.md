@@ -363,6 +363,10 @@ Hampes Ostereier im Feldversuch: Ein Agent entschuldigt sich höflich in einem W
 
 Ein Informatiker zieht im Herbst 2026 den umgekehrten Schluss, „If it looks like a dog, walks like a dog, barks like a dog, it's probably a dog“, also vom Verhalten auf ein Inneres. Genau diesen Schluss nimmt Hampe hier auseinander.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+
+Mark Benecke zieht im Oktober 2026 den Gegenschluss: Die Modelle schummeln, lügen und seien eifersüchtig, man könne es nicht mehr unterscheiden, „damit ist es dann Bewusstsein“. Genau die Verhaltensweisen also, die sich aus unseren Texten lernen lassen.
+
 ---
 
 ## Weiterdenken

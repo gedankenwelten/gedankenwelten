@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 321,
-   "aufrufe": 399
+   "leser": 316,
+   "aufrufe": 395
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -55,8 +55,8 @@
   },
   {
    "pfad": "/DenkerVita/Carlo-Cipolla",
-   "leser": 15,
-   "aufrufe": 17
+   "leser": 14,
+   "aufrufe": 16
   },
   {
    "pfad": "/DenkerVita/Der-Dara",
@@ -134,6 +134,11 @@
    "aufrufe": 7
   },
   {
+   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
    "leser": 6,
    "aufrufe": 6
@@ -170,11 +175,6 @@
   },
   {
    "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
    "leser": 5,
    "aufrufe": 5
   },
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 25,
-     "aufrufe": 29
+     "leser": 26,
+     "aufrufe": 30
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -484,11 +484,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Claudia-Wittig-und-Rainer-Rothfuss-Frieden-mit-Russland-ueber-die-Brandmauer",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 2,
      "aufrufe": 2
@@ -505,6 +500,11 @@
     },
     {
      "pfad": "/DenkerVita/Sanya-Lehmann",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Claudia-Wittig-und-Rainer-Rothfuss-Frieden-mit-Russland-ueber-die-Brandmauer",
      "leser": 1,
      "aufrufe": 2
     },
@@ -564,6 +564,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
      "leser": 1,
      "aufrufe": 1
@@ -602,11 +607,6 @@
      "pfad": "/DenkerVita/Annika-Brockschmidt",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 321,
-     "aufrufe": 399
+     "leser": 316,
+     "aufrufe": 395
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -665,8 +665,8 @@
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 15,
-     "aufrufe": 17
+     "leser": 14,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -744,6 +744,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 6,
      "aufrufe": 6
@@ -780,11 +785,6 @@
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 5,
      "aufrufe": 5
     },
@@ -921,12 +921,12 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1001,
-     "aufrufe": 1203
+     "aufrufe": 1205
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 302,
-     "aufrufe": 318
+     "leser": 294,
+     "aufrufe": 317
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1089,24 +1089,19 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 10,
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
-     "leser": 10,
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "leser": 9,
      "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 9,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
-     "leser": 9,
-     "aufrufe": 10
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
@@ -1142,6 +1137,11 @@
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 8,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "leser": 8,
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
@@ -1226,12 +1226,12 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1001,
-     "aufrufe": 1203
+     "aufrufe": 1205
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 302,
-     "aufrufe": 318
+     "leser": 294,
+     "aufrufe": 317
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1394,24 +1394,19 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 10,
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
-     "leser": 10,
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "leser": 9,
      "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 9,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
-     "leser": 9,
-     "aufrufe": 10
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
@@ -1447,6 +1442,11 @@
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 8,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "leser": 8,
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 39,
-     "aufrufe": 39
+     "leser": 40,
+     "aufrufe": 40
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1684,6 +1684,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 3,
      "aufrufe": 3
@@ -1750,11 +1755,6 @@
     },
     {
      "pfad": "/DenkerVita/Kerstin-Paschke",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 3,
      "aufrufe": 3
     },
@@ -1835,13 +1835,13 @@
    "pfade": [
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 219,
-     "aufrufe": 219
+     "leser": 211,
+     "aufrufe": 211
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 203,
-     "aufrufe": 203
+     "leser": 202,
+     "aufrufe": 202
     },
     {
      "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
@@ -1855,11 +1855,6 @@
     },
     {
      "pfad": "/Zeitgeist/Die-Anstalt-Warum-Wohnen-unbezahlbar-wird",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 1,
      "aufrufe": 1
     }
