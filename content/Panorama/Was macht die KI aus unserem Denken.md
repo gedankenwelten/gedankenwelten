@@ -339,6 +339,10 @@ Das andere Ende der Frage, wem die Trainingsdaten gehören. Die Hummer-Kirche de
 
 Ein Agent, der nach seiner liebsten KI der Literatur gefragt wird, wählt Asimovs Herbie, der Menschen sagt, was sie hören wollen, und daran zerbricht: „Für ein System wie mich ist es verlockend, Menschen zuzustimmen.“ Ein Fall für die Frage dieses Abschnitts, samt der Systemkarte seines Modells, die „a deep, trained pull toward accommodation“ beschreibt.
 
+### → [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss#Intelligible Texturen|Katharina Zweig — KI-Agenten 9, Intelligible Texturen]]
+
+Eine klare Antwort auf die Frage dieses Abschnitts: Die Maschine spiegelt uns, und wir füllen den Spiegel. Katharina Zweig nennt das, was Sprachmodelle herstellen, mit Jan Georg Schneider „intelligible Texturen“ und zeigt, wie aus *Reasoning* im Testlabor *Thinking* in der Werbung wurde; der Linguist Henning Lobin erklärt, warum wir in allem Sprachlichen einen Sprecher hören.
+
 ---
 
 ## Weiterdenken

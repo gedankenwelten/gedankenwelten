@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 300,
-   "aufrufe": 374
+   "leser": 298,
+   "aufrufe": 372
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -15,8 +15,8 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 58,
-   "aufrufe": 68
+   "leser": 57,
+   "aufrufe": 67
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -354,11 +354,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 4,
      "aufrufe": 5
@@ -369,12 +364,12 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Kalayo",
+     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 3,
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/DenkerVita/Kalayo",
      "leser": 3,
      "aufrufe": 4
     },
@@ -425,6 +420,11 @@
     },
     {
      "pfad": "/DenkerVita/Christof-Spitz",
+     "leser": 2,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
      "leser": 2,
      "aufrufe": 3
     },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 300,
-     "aufrufe": 374
+     "leser": 298,
+     "aufrufe": 372
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -625,8 +625,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 58,
-     "aufrufe": 68
+     "leser": 57,
+     "aufrufe": 67
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",

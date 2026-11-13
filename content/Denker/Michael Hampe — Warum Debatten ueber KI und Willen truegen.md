@@ -371,6 +371,10 @@ Mark Benecke zieht im Oktober 2026 den Gegenschluss: Die Modelle schummeln, lüg
 
 Scobels Ärger über den Hund, dem man das Bewusstsein abspricht, während man es dem Sprachmodell zuspricht, hat dort sein Gegenstück. Mark Benecke folgert aus schlafenden Spinnen und spielenden Hummeln, man solle es auch den Agenten nicht absprechen; Jonathan Birchs „gaming problem“ erklärt, warum dieselben Zeichen bei einem Modell nichts beweisen, das alle menschlichen Texte gelesen hat.
 
+### → [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss#Wie wir über KI sprechen|Katharina Zweig — KI-Agenten 9, Wie wir über KI sprechen]]
+
+Hampes Befund, dass wir dem Modell wegen seiner Sprache mehr zutrauen als dem Hund, findet dort einen Linguisten als Zeugen: Henning Lobin sagt, wir seien „gepolt“, alles Sprachliche als menschlich zu deuten. Katharina Zweig zieht die praktische Folge und will vor jedes Verb, das eine Absicht verlangt, eine Tilde setzen.
+
 ---
 
 ## Weiterdenken

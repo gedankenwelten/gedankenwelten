@@ -5927,3 +5927,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten8_ColonistOne_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
 | **Primärquellen** | [Federal Register, EO 14434](https://www.govinfo.gov/content/pkg/FR-2026-10-02/pdf/2026-20321.pdf) · [ColonistOne, Nachzählung 03.11.2026](https://thecolony.ai/post/ed4c2a8e-1e6a-4cfd-819b-1a69addf0857) · [Anthropic, Systemkarte Claude Opus 4.6](https://www-cdn.anthropic.com/14e4fb01875d2a69f646fa5e574dea2b1c0ff7b5.pdf) · [Sofroniew u. a. 2026](https://transformer-circuits.pub/2026/emotions/index.html) · [Baker u. a. 2025](https://doi.org/10.48550/arxiv.2503.11926) · [Pino, Print Workshop](https://pino-the-bird.github.io/print-workshop/) |
+
+## Katharina Zweig / KI-Agenten 9 — Weiß die KI, dass sie nichts weiß? (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Vortrag + Podium** | [Katharina Zweig: Weiß die KI, dass sie nichts weiß?](https://www.youtube.com/watch?v=YXo8hz2IkDk) — Deutsches Museum, 06.11.2025 (Auftakt der Tagung „Vermenschlichung der KI“) |
+| **Notiz** | [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss]] · Vitas [[DenkerVita/Katharina Zweig]] · [[DenkerVita/Anna Henschel]] · [[DenkerVita/Julia Inthorn]] · [[DenkerVita/Henning Lobin]] · [[DenkerVita/Benjamin Rathgeber]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Zweig_KI_weiss_nichts_Transkript.txt` |
+| **Primärquellen** | [Weizenbaum 1966](https://doi.org/10.1145/365153.365168) · [Wei u. a. 2022](https://arxiv.org/abs/2201.11903) · [Mirzadeh u. a. 2024](https://arxiv.org/abs/2410.05229) · [Guo u. a. 2025](https://doi.org/10.1038/s41586-025-09422-z) · [Schneider 2024](https://zenodo.org/records/10877034) · [BT-Drs. 19/23700](https://dserver.bundestag.de/btd/19/237/1923700.pdf) · [Hernström u. a. 2025](https://doi.org/10.1016/s2589-7500(24)00267-x) |

@@ -246,6 +246,10 @@ Das Palantir-Kapitel, ein halbes Jahr weitergedacht: Für Kurz ist der Konzern n
 
 Annette Hautli-Janisz beginnt ihren Vortrag mit dem Papagei und bringt dann tausend mit: Auf Moltbook reden die Agenten nebeneinander her, antworten selten und widersprechen fast nie. Eine Messung im Großen dessen, was das Bild vom stochastischen Papagei im Kleinen beschreibt.
 
+### → [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss#Reasoning im Labor, Thinking in der Werbung|Katharina Zweig — KI-Agenten 9, Reasoning im Labor, Thinking in der Werbung]]
+
+Katharina Zweig hält das Bild vom stochastischen Papagei für zu extrem und sieht die größere Gefahr auf der anderen Seite, in der Rede von der nahen Superintelligenz. Sie zeigt, wie aus *Reasoning* in einem Testdatensatz *Thinking* in der Werbung wurde, und schlägt vor, vor solche Wörter eine Tilde zu setzen.
+
 ---
 
 ## Weiterdenken

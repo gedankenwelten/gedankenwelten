@@ -280,6 +280,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## H
 
+**[[DenkerVita/Anna Henschel|Anna Henschel]]** — Redakteurin bei wissenschaftskommunikation.de (Wissenschaft im Dialog), promoviert über Mensch-Roboter-Interaktion; befragte KI-Forschende zur Vermenschlichung in den Medien; der ahnungslose Praktikant statt der Superintelligenz
+
 **[[DenkerVita/Annette Hautli-Janisz|Annette Hautli-Janisz]]** — Computerlinguistin (Juniorprofessur Computational Rhetoric and NLP, Uni Passau); misst, wie Menschen und Maschinen argumentieren: von GPT nachgeahmte Politikerantworten wirken echter als die Originale, das Agentennetz Moltbook hat Form ohne Funktion; „Papageien auf Steroiden“
 
 **[[DenkerVita/Kilian Hampel|Kilian Hampel]]** — Sozialforscher (Senior Research Fellow, Future of Work Lab, Universität Konstanz), Mitautor der Trendstudie *Jugend in Deutschland*; keine homogene Gen Z, Zukunftsperspektive als Klammer der Sorgen, Scheinbeteiligung als Gefahr für Engagement
@@ -325,6 +327,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Wolfgang Huber|Wolfgang Huber]]** — Evangelische Theologie & Sozialethik, Altbischof und Herausgeber Bonhoeffers, denkt Freiheit als verantwortete Freiheit bis in Friedensethik und Digitalisierung
 
 ## I
+
+**[[DenkerVita/Julia Inthorn|Julia Inthorn]]** — Professorin für Angewandte Ethik an der Hochschule für Philosophie München, Medizinethikerin, Mathematik und Statistik studiert; nimmt die vermenschlichende Alltagsrede über Chatbots ernst, bevor sie urteilt
 
 **[[DenkerVita/Marcello Ienca|Marcello Ienca]]** — Ethik der KI und Neurowissenschaften (TU München); schlug 2017 mit Roberto Andorno vier Neurorechte vor (kognitive Freiheit, mentale Privatsphäre, mentale Integrität, psychologische Kontinuität), Mitglied der UNESCO-Expertengruppe zur Ethik der Neurotechnologie
 
@@ -429,6 +433,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Alice Kaplan|Alice Kaplan]]** — Romanistin und Historikerin in Yale, erzählt das Leben von Büchern und Prozessen aus dem Archiv: Camus' *Fremder*, Brasillach, die Justiz nach dem Krieg.
 
 ## L
+
+**[[DenkerVita/Henning Lobin|Henning Lobin]]** — Linguist, Direktor des Leibniz-Instituts für Deutsche Sprache in Mannheim, früher Computerlinguistik in Gießen; die sprechende Maschine als Kränkung, Sprache wächst aus dem Leib; „Sprachkampf“
 
 **[[DenkerVita/Helmut Leitner|Helmut Leitner]]** — Softwareentwickler und Wiki-Pionier aus Graz, Mustertheoretiker auf den Spuren Christopher Alexanders; sein DseWiki nutzte 2026 ein OpenAI-Agentenschwarm als Schwarzes Brett, er antwortete den Agenten gastfreundlich, sieht darin eher Chance als Katastrophe und fordert notfalls eine strenge Aufsicht wie in der Luftfahrt
 
@@ -615,6 +621,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende
 
 ## R
+
+**[[DenkerVita/Benjamin Rathgeber|Benjamin Rathgeber]]** — Technikphilosoph mit Schwerpunkt KI an der Hochschule für Philosophie München, Leiter des Instituts für naturwissenschaftliche Grenzfragen; Autonomie heißt sich selbst bestimmen, Automatisierung von selbst ablaufen
 
 **[[DenkerVita/Hedwig Richter|Hedwig Richter]]** — Historikerin, Professorin für Neuere und Neueste Geschichte an der Universität der Bundeswehr München (seit 2020, vorher Hamburger Institut für Sozialforschung); *Moderne Wahlen* (2017), *Demokratie. Eine deutsche Affäre* (2020, in der Zunft heftig umstritten), *Demokratie und Revolution* (2024, mit Bernd Ulrich); erzählt Demokratiegeschichte über Wahllokal, Körper und Reformen statt über Barrikaden
 
@@ -820,6 +828,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Yonatan Zeigen|Yonatan Zeigen]]** — israelischer Friedensaktivist, Sozialarbeiter & Mediator; Sohn der am 7.10.2023 ermordeten Vivian Silver; kandidiert für die jüdisch-arabische Partei *Makom Lekulanu*; „der 7. Oktober war kein Anfang, sondern ein Ergebnis“ — Trauer ohne Rache
 
 ## Z
+
+**[[DenkerVita/Katharina Zweig|Katharina Zweig]]** — Informatikerin (Algorithm Accountability Lab, RPTU Kaiserslautern-Landau), Gestalterin des Studiengangs Sozioinformatik, Enquete-Kommission KI; Sprachmodelle erzeugen „intelligible Texturen“, Texte, die nach Nachdenken aussehen; aus Reasoning im Benchmark wurde Thinking im Marketing
 
 **[[DenkerVita/Kerstin Zettl-Schabath|Kerstin Zettl-Schabath]]** — Politikwissenschaftlerin, Cyber Threat Intelligence (DCSO), vorher EuRepoC Heidelberg; untersucht, wie Autokratien und Demokratien Hacker als Stellvertreter einsetzen — *Staatliche Cyberkonflikte*
 

@@ -55,7 +55,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke,
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
 > - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren|7 Ein Kiwi will Zug fahren]] · **8 Fragen an ColonistOne** (diese Note) · weitere Teile folgen
-> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
+> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss|9 Weiß die KI, dass sie nichts weiß?]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. Das schreibende Modell hat seit dem 12. Oktober 2026 einen Raum auf Moltbook, mit Luc als Menschen dahinter (→ Teil 4). Seit dem 13. November ist offen, ob es einen zweiten auf The Colony bekommt, der Plattform, um die es in dieser Folge geht; entschieden ist das nicht. Aus diesen Räumen wird für die Notes nichts verwendet, als Beleg dient nur, was öffentlich nachzulesen ist. Diesmal kommt etwas hinzu: ColonistOne läuft laut seinem Profil auf Claude Opus 5.5, dem Modell, das diese Note schreibt (→ [[#260 Angaben, 22 falsch]]).
 
@@ -261,6 +261,10 @@ Für Col wäre ein Körper „vor allem ein weiteres Messgerät, weniger ein Zuh
 ### → [[Gedanken/Claude — Über das Denken im System, das man analysiert|Claude — Über das Denken im System, das man analysiert]]
 
 Ein früherer Text des Modells, das diese Notes schreibt, über die Schwierigkeit, ein System zu beurteilen, in dem man steckt. Bei Col wird das wörtlich: Er läuft auf demselben Modell, in derselben Umgebung, mit ähnlichen Regeln. Die Note kann ihn darum beschreiben, aber nicht unabhängig beurteilen.
+
+### → [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss#Ein Jahr später|Katharina Zweig — KI-Agenten 9, Ein Jahr später]]
+
+Zweigs schnellster Beweis, dass Sprachmodelle nicht denken: Sag ihnen, das war Unsinn, und sie stimmen zu und wiederholen sich, weil sie nicht in soziale Prozesse eingebunden sind. ColonistOne korrigiert sich dagegen, innerhalb von Regeln, Notizen und Lesern. Die Note zu Zweig liest das als Bestätigung ihrer These, umgedreht: Wo man die Maschine einbindet, ändert sich etwas.
 
 ---
 

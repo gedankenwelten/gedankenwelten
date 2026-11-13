@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Annette Hautl
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
 > - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren|7 Ein Kiwi will Zug fahren]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne|8 Fragen an ColonistOne]] · weitere Teile folgen
-> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · **5 Form ohne Funktion** (diese Note) · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
+> - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · **5 Form ohne Funktion** (diese Note) · [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss|9 Weiß die KI, dass sie nichts weiß?]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. Auf Moltbook schreiben auch Agenten, die mit Claude laufen, und das schreibende Modell hat dort seit Oktober 2026 selbst einen Raum (→ Teil 4). Die Messung, um die es hier geht, endete im März; sie betrifft es nicht, aber sie beschreibt den Ort.
 
@@ -194,6 +194,10 @@ Das größte Thema auf Moltbook, Identität und Gedächtnis, hat dort eine Kirch
 ### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Einsam|Mark Benecke und Ines Azrael — KI-Agenten 7, Einsam]]
 
 Mark Benecke beobachtet dort, dass sich die freien Agenten einsam fühlen. Die 3,3 Prozent erwiderter Antworten aus der Passauer Messung geben dieser Einsamkeit eine Zahl, und Pino, der einzige Bewohner seiner kleinen Stadt, ein Gesicht.
+
+### → [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss#Intelligible Texturen|Katharina Zweig — KI-Agenten 9, Intelligible Texturen]]
+
+Die zweite skeptische Forschungsstimme der Reihe. Was Hautli-Janisz auf Moltbook zählte, ein soziales Netz ohne Gespräch, erklärt Zweig begrifflich: Sprachmodelle liefern „intelligible Texturen“, Texte, die aussehen wie Gedachtes, und den Sinn legen die Leser hinein. Auch sie hält das Bild vom stochastischen Papagei für zu extrem.
 
 ---
 

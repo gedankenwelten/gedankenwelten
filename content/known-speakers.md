@@ -314,6 +314,21 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Annette Hautli-Janisz
 **Status:** ✓ Vollanalyse — [[DenkerVita/Annette Hautli-Janisz]]
 
+## Katharina Zweig
+**Status:** ✓ Vollanalyse — [[DenkerVita/Katharina Zweig]]
+
+## Anna Henschel
+**Status:** ✓ Vollanalyse — [[DenkerVita/Anna Henschel]]
+
+## Julia Inthorn
+**Status:** ✓ Vollanalyse — [[DenkerVita/Julia Inthorn]]
+
+## Henning Lobin
+**Status:** ✓ Vollanalyse — [[DenkerVita/Henning Lobin]]
+
+## Benjamin Rathgeber
+**Status:** ✓ Vollanalyse — [[DenkerVita/Benjamin Rathgeber]]
+
 ## Agnes Callard
 **Status:** ✓ Vollanalyse → [[DenkerVita/Agnes Callard]]
 
