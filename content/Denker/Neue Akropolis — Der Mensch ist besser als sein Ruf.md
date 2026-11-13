@@ -34,7 +34,7 @@ aliases:
 
 </details>
 
-Quelle: Vortrag der Neuen Akropolis — Schule der Philosophie
+Quelle: [Der Mensch ist besser als sein Ruf (Kooperation statt Konkurrenz)](https://www.youtube.com/watch?v=Q6NgchdDIbQ) (Neue Akropolis — Schule der Philosophie, 42 Min.; nach Titel und Kanal zugeordnet, bei YouTube seit spätestens 13.11.2026 nicht mehr abrufbar)
 
 > [!info] Zur Quelle
 > Neue Akropolis ist eine internationale philosophische Organisation mit dem Ziel, Philosophie als praktische Lebenshaltung zu vermitteln — nicht als akademisches Fach, sondern als Werkzeug der persönlichen Entwicklung. Der Vortrag stellt eine These auf und begründet sie aus Krisenforschung, Biologie, Entwicklungspsychologie und Philosophie.

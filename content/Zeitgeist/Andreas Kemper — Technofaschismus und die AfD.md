@@ -22,7 +22,7 @@ aliases:
 
 # Andreas Kemper — Technofaschismus und die AfD
 
-Quelle: Interview mit Die Linke Gießen — Aschermittwoch 2026 (veröffentlicht 23.02.2026)
+Quelle: [Freier Markt für den „Technofaschismus“? — Interview mit Andreas Kemper](https://www.youtube.com/watch?v=Bq8y1_NiHYw) (hessencam, veröffentlicht 23.02.2026, 47 Min.; Kemper war zum Aschermittwoch der Linken Gießen eingeladen)
 
 > [!info] Wer spricht?
 > **Andreas Kemper** ist Soziologe und Publizist, seit 2013 einer der profiliertesten Rechtsextremismus-Forscher Deutschlands (erstes Buch zur AfD überhaupt). Er kommt ursprünglich nicht aus der Rechtsextremismusforschung, sondern aus dem **Klassismus**-Diskurs — er gründete an der Uni Münster ein autonomes Referat für Arbeiterkinder. Diese Herkunft prägt seine Analysen grundlegend: Er sieht Rassismus und Klassismus als verschränkte Mechanismen. Kemper ist klar links-antifaschistisch verortet — das Interview ist eine *analytische Linken-Perspektive auf das rechte Spektrum*.

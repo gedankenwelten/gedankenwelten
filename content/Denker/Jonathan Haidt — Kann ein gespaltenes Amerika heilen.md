@@ -27,7 +27,7 @@ aliases:
 
 </details>
 
-Quelle: TED Talk mit Chris Anderson, aufgezeichnet 2016
+Quelle: [Can a divided America heal?](https://www.ted.com/talks/jonathan_haidt_can_a_divided_america_heal) (TED, Gespräch mit Chris Anderson, aufgezeichnet 2016)
 
 > [!info] Wer spricht?
 > **Jonathan Haidt** (*1963, New York City*) — Sozialpsychologe, der die Frage nicht losließ: *Warum hassen sich gute Menschen über politische Gräben hinweg?*

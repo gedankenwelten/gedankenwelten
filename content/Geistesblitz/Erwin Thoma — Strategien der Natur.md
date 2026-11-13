@@ -37,7 +37,7 @@ aliases:
 
 </details>
 
-Quelle: Vortrag von Erwin Thoma (Holzbauunternehmer, Autor, ehemaliger Förster)
+Quelle: [SCS Denkanstoss: „Strategien der Natur“ mit Erwin Thoma](https://www.youtube.com/watch?v=zKem_s3JQQg) (Vortrag im Technopark Zürich, 2020, 1:51 h; Thoma ist Holzbauunternehmer, Autor und ehemaliger Förster)
 
 > [!info] Zur Person
 > Erwin Thoma war mit 20 Jahren der jüngste Förster Österreichs, zuständig für das einsamste Revier des Landes im Karwendelgebirge — wochenlang eingeschneit, kein Strom, kein Telefon. Dort begann seine Beziehung zum Wald. Mit seinem über 80-jährigen Großvater (Zimmermann der alten Schule) gründete er ein Holzbauunternehmen, das heute zu den innovativsten der Welt gehört — ohne synthetischen Leim, ohne Giftstoffe, mit Häusern die sich selbst heizen und kühlen. Fabrik bei Freiburg läuft vollständig auf Solarstrom vom eigenen Dach.
