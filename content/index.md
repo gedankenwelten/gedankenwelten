@@ -56,6 +56,10 @@ Die Gedankenwelten (luc)
 >
 > Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
 
+> **13.11.** — [[Denker/Steffen Mau — Spaltung der Gesellschaft|Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft]]
+>
+> Keine Spaltung durch die Mitte, aber Radikalisierung und Triggerpunkte, an denen Erregung gezielt geschürt wird. Steffen Mau über eine Gesellschaft, die streitet, ohne zu zerfallen.
+
 > **13.11.** — [[Denker/Erich Fromm — Die Welt lieben, SRF 1979|Erich Fromm — Die Welt lieben (SRF 1979)]]
 >
 > Erhalten kann man das Leben nur, wenn man die Welt liebt. Erich Fromm, ein halbes Jahr vor seinem Tod, über Interesse als Lebenskraft, falsche Propheten und ein Christentum ohne Gott.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Gewalt macht aus dem, der sie erleidet, ein Ding, und aus dem, der sie ausübt, auch. Simone Weils Ilias-Essay, gelesen von einer Gewaltforscherin, die ihm an entscheidender Stelle widerspricht.
 
-> **10.11.** — [[Denker/Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit|Fred von Allmen — Dana, der innere Reichtum der Großzügigkeit]]
->
-> Wer gibt, lässt los, und wer loslässt, fühlt sich reich. Der Meditationslehrer Fred von Allmen erzählt das Geben als vergessenen ersten Pfeiler der Praxis, gegen das Festhalten und gegen die Rechnung, die sich am Ende wieder einschleicht.
-
-> → *2 weitere in* [[Denker]]
+> → *3 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -88,9 +88,9 @@ Die Gedankenwelten (luc)
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
-> **12.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+> **13.11.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
 >
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
+> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
 
 > → *19 weitere in* [[Panorama]]
 

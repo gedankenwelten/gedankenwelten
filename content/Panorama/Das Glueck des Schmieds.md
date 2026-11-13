@@ -2,7 +2,7 @@
 title: "Das Glück des Schmieds"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-13
 description: "Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft."
 panorama-art: wachsend
 tags:
@@ -123,6 +123,8 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 
 Am oberen Ende hält das Glück der Geburt über Jahrhunderte. Von den 1.032 größten deutschen Vermögen des Jahres 2019 gehen rund acht Prozent auf die Reichenlisten von 1913 zurück, über zwei Weltkriege und drei Währungsreformen hinweg ([Tisch & Ischinsky 2023](https://doi.org/10.1177/23780231231192774)); in England hängt das Vermögen von Familien noch über fünf Generationen zusammen ([Clark & Cummins 2015](https://doi.org/10.1111/ecoj.12165)), und in Florenz sind die Nachfahren der Reichen von 1427 heute noch messbar reicher ([Barone & Mocetti 2021](https://doi.org/10.1093/restud/rdaa075)). In Schweden erklären Erbschaften mindestens die Hälfte der Ähnlichkeit zwischen dem Vermögen von Eltern und Kindern, Einkommen und Bildung nur ein Viertel ([Adermon, Lindahl & Waldenström 2018](https://doi.org/10.1111/ecoj.12535)). Die Philosophie streitet, was daraus folgt. Ronald Dworkin und G. A. Cohen wollten ausgleichen, was einem ohne eigenes Zutun zustößt ([Cohen 1989](https://doi.org/10.1086/293126)); Elizabeth Anderson hielt dagegen, eine Gleichheit, die jedes Pech prüft und entschädigt, demütige die Entschädigten, ihr Ziel sei, dass niemand über den anderen herrscht ([Anderson 1999](https://doi.org/10.1086/233897)). Wer erfährt, wie viel Vermögen ererbt ist, hält den Zufall danach für wichtiger als die Anstrengung ([Bastani & Waldenström 2021](https://doi.org/10.1111/ecca.12359)).
 
+Und wer glaubt daran, dass man es schmiedet? Mit 25 Jahren Umfragedaten fand Jonathan Mijs, dass in ungleicheren Ländern mehr Menschen Erfolg mit Leistung erklären ([Mijs 2018](https://doi.org/10.1093/ser/mwy051), Ländervergleich). Eine neue Auswertung über drei Jahrzehnte und 39 Demokratien findet das Gegenteil, wenn man Länder über die Zeit verfolgt: Steigt die Ungleichheit, sinkt der Glaube an Leistungsgerechtigkeit, und die Skeptiker werden mehr ([Ehmes & Gangl 2026](https://doi.org/10.1093/ser/mwag016), Längsschnitt).
+
 **Die Stimmen**
 
 - **Luc**, im Gespräch: Handlungsmacht ist kein Ort, sondern eine Abfolge. Zuerst kommt der eigene Entschluss, zu wissen, was man will; für die Umsetzung zählen dann Netzwerk, Geld, Staat und Zufall. *„Zufall wird Wahrscheinlichkeit mit Ziel und Handlung.“*
@@ -133,6 +135,8 @@ Am oberen Ende hält das Glück der Geburt über Jahrhunderte. Von den 1.032 gr�
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Womit soll ich dich überraschen?|Dietmar Dath]]:** *„Wir steigen in dieses Monopoly nicht bei Runde 1 ein, sondern bei Runde 70“*, und gemessen wird, wie viele ein Medikament bezahlen können, nicht wie viele es brauchen.
 - **[[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Falle — Warum niemand rauskommt|Die Neuen Zwanziger]]:** Mit Markovits: *„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selber.“*
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Die junge Generation — Aufstieg ohne Zukunft|Götz Aly]]:** Weimar verdreifachte die Zahl der Abiturienten, dann brach die Wirtschaft zusammen; aus der enttäuschten Aufsteigergeneration kamen die Funktionäre der NSDAP.
+
+- **[[Steffen Mau — Spaltung der Gesellschaft#Meritokratie und ideologische Verwirrung|Steffen Mau]]:** Am festesten glauben heute die mit kleinem Einkommen an Leistungsgerechtigkeit, in den Siebzigern waren es die oberen Schichten. Als möglichen Grund nennt der Soziologe Kämpfe, die nicht mehr nach oben gehen, sondern zur Seite: gegen das Bürgergeld, gegen Leute, die angeblich „leistungslos“ kommen.
 
 <details><summary>Weitere Stimmen (5)</summary>
 
@@ -160,6 +164,7 @@ Am oberen Ende hält das Glück der Geburt über Jahrhunderte. Von den 1.032 gr�
 | 15.10.2026 | [[Martin Oetting — Happy Planet Index 2026#Nachbesprechung|Martin Oetting — Happy Planet Index 2026]] | Arbeiten wir zu wenig? Die ökologische Seite: kürzere Arbeitszeit, kleinerer Fußabdruck (Knight, Rosa & Schor 2013), Modell Cieplinski et al. 2021; Abdallahs Gegenrechnung zur „Lifestyle-Teilzeit“ |
 | 23.10.2026 | [[Studio Bonn — Extremer Reichtum#Nachbesprechung|Studio Bonn — Extremer Reichtum]] | Wessen Glück: Engelhorns „das Glück abschaffen“ zwischen Glücks- und Beziehungsgleichheit (Cohen 1989, Anderson 1999), Vermögen über Generationen (Tisch & Ischinsky 2023, Clark & Cummins 2015, Barone & Mocetti 2021, Adermon et al. 2018), Salienz des Erbes (Bastani & Waldenström 2021) |
 | 10.11.2026 | [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Arbeiteten die Menschen früher weniger?\|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] | Arbeiteten die Menschen früher weniger? Industrious Revolution (de Vries), Not statt Konsum (Allen & Weisdorf), London 1760–1800 (Voth), wessen Jahr man zählt (Clark & van der Werf gegen Humphries & Weisdorf), Reformen und Wohlstand als Zeit (Rasmussen, Bick u. a.) |
+| 13.11.2026 | [[Steffen Mau — Spaltung der Gesellschaft#Nachbesprechung|Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft]] | Wessen Glück: der Leistungsglaube von unten, Mijs' Paradox der Ungleichheit (2018) gegen Ehmes & Gangl (2026) |
 
 ---
 

@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 337,
-   "aufrufe": 416
+   "leser": 336,
+   "aufrufe": 415
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -164,6 +164,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
+   "leser": 5,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
    "leser": 5,
    "aufrufe": 5
@@ -225,11 +230,6 @@
   },
   {
    "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
-   "leser": 4,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
    "leser": 4,
    "aufrufe": 5
   },
@@ -345,8 +345,8 @@
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 5,
-     "aufrufe": 7
+     "leser": 4,
+     "aufrufe": 5
     },
     {
      "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
@@ -370,6 +370,11 @@
     },
     {
      "pfad": "/DenkerVita/Lilith-Roska",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 3,
      "aufrufe": 4
     },
@@ -425,11 +430,6 @@
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 2,
      "aufrufe": 3
     },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 337,
-     "aufrufe": 416
+     "leser": 336,
+     "aufrufe": 415
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -774,6 +774,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
+     "leser": 5,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "leser": 5,
      "aufrufe": 5
@@ -835,11 +840,6 @@
     },
     {
      "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 4,
      "aufrufe": 5
     },
@@ -1684,6 +1684,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Leonhard-Horowski-Adel,-Klassen-und-Gesellschaft",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Niclas-Seydack",
      "leser": 2,
      "aufrufe": 2
     }

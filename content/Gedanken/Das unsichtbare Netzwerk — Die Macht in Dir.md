@@ -295,6 +295,7 @@ Aus Handeln wird Macht, wenn die Hände einander stärken.
 > - Die Praxis braucht keine Bestätigung — *aber wie hält man sie aufrecht, wenn die Welt um einen herum Lautstärke belohnt und Stille bestraft? Was nährt das unsichtbare Netzwerk von innen?*
 > - Jede aufrichtige Begegnung ist ein Referenzpunkt für den Moment des Systemkippens — *reicht das? Oder braucht es zusätzlich sichtbare Strukturen, die das Unsichtbare schützen?*
 > - „Ich bin verbunden — also kann ich Verantwortung übernehmen" setzt voraus, dass Verbundenheit nicht lähmend wirkt — *wann kippt das Bewusstsein der Verbundenheit in Überforderung statt in Handlungsfähigkeit?*
+> - Herbert Marcuse warf Fromm vor, eine Ethik, die beim Einzelnen ansetzt, neige zur Anpassung ans System: Man ändert die Menschen, und die Verhältnisse bleiben. *Woran würde man merken, ob das unsichtbare Netzwerk etwas verändert — oder ob es nur hilft, das Bestehende besser auszuhalten?* (→ [[Erich Fromm — Haben oder Sein#Kritische Perspektive — Was Fromm nicht auflöst|Fromm, Kritische Perspektive]])
 
 ---
 
@@ -319,6 +320,10 @@ Ricard ist die nüchternste Formulierung des Paradoxes vom langen Löffel: Altru
 ### → [[Erich Fromm — Haben oder Sein]]
 
 Sein-Modus als Voraussetzung. Wer in der Begegnung etwas *haben* will (Bestätigung, Status, Einfluss), zerstört das, was sie wertvoll macht. Wer in der Begegnung schlicht *ist* — offen, präsent, ohne Agenda — erlebt den immateriellen Reichtum, den das Haben nie liefern kann. Der lange Löffel funktioniert nur im Sein-Modus.
+
+### → [[Erich Fromm — Haben oder Sein#5. Marx, Prophetismus und Buddhismus — drei Quellen des Seins|Fromm — Drei Quellen des Seins]]
+
+Der Weg dieser Note, vom Gedicht von 2001 zum Abschnitt „Macht“, ist der Weg, den Fromm an seinen drei Quellen beschreibt. Das Gedicht spricht aus der buddhistischen Wurzel, Veränderung „kann nur in mir selbst entstehen“; der Abschnitt „Macht“ nimmt die prophetische dazu, die Welt, die sich auch durch Bildung und Institutionen ändern muss. Fromm will beides zusammenhalten: Der Einzelne ist von der Gesellschaft geformt, und die Gesellschaft ändert sich nicht ohne veränderte Menschen. Im messianischen Motiv seiner Kindheit, sagt er, seien das Religiöse und das Politische „gar nicht zu trennen“.
 
 ### → [[S.N. Goenka — Vipassana]]
 

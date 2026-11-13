@@ -88,7 +88,7 @@ Die Menschen dort sind stolz, so nehme ich sie wahr. Und sie hatten vieles, wora
 
 Dann kam die Einheit, mitten in der neoliberalen Zeit, und dieser Wert wurde Stück für Stück kleiner.
 
-Die Betriebe wurden verkauft, die meisten an Westdeutsche ([[Steffen Mau — Spaltung der Gesellschaft#Veränderungsmüdigkeit und der konservative Trigger|Mau]]). Mit ihnen ging die wirtschaftliche Handlungsfähigkeit. Die Jungen gingen hinterher, und zuerst gingen die Frauen, die gut ausgebildeten. Bis Mitte der Nullerjahre zogen 866.000 Frauen und 735.000 Männer in den Westen. Unter den 18- bis 29-Jährigen kamen auf hundert Männer bald nur noch neunzig Frauen, in den Krisenregionen weniger als achtzig ([Kröhnert & Klingholz, *Not am Mann*, Berlin-Institut](https://www.ssoar.info/ssoar/bitstream/handle/document/32094/ssoar-2006-krohnert_et_al-Not_am_Mann_von_Helden.pdf)).
+Die Betriebe wurden verkauft, die meisten an Westdeutsche ([[Steffen Mau — Spaltung der Gesellschaft#Wem der Osten gehört|Mau]]). Mit ihnen ging die wirtschaftliche Handlungsfähigkeit. Die Jungen gingen hinterher, und zuerst gingen die Frauen, die gut ausgebildeten. Bis Mitte der Nullerjahre zogen 866.000 Frauen und 735.000 Männer in den Westen. Unter den 18- bis 29-Jährigen kamen auf hundert Männer bald nur noch neunzig Frauen, in den Krisenregionen weniger als achtzig ([Kröhnert & Klingholz, *Not am Mann*, Berlin-Institut](https://www.ssoar.info/ssoar/bitstream/handle/document/32094/ssoar-2006-krohnert_et_al-Not_am_Mann_von_Helden.pdf)).
 
 Familien wurden auseinandergerissen.
 Dörfer wurden dünner.

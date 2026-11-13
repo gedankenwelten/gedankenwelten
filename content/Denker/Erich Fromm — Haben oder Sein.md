@@ -298,6 +298,7 @@ Das gibt Fromm auf eine bemerkenswerte Weise recht. Nicht das Geld selbst trägt
 
 ## Verbindungen
 
+- [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]] — Lucs Note geht den Weg der drei Quellen selbst: vom Gedicht von 2001, Veränderung „kann nur in mir selbst entstehen“, zum Abschnitt „Macht“, in dem Bildung und Institutionen dazukommen. Fromms Zusammenhalten von Einzelnem und Gesellschaft, gelebt statt gelehrt, und Marcuses Einwand als die offene Frage daran.
 - [[Hans Maggi — Sokotra]] — Abdullah, der Höhlenmensch von Sokotra, ist der Sein-Modus in Reinform: vierundsechzig Jahre, fast ohne Besitz, und der zufriedenste Mensch der ganzen Reise. Fülle liegt im Sein, nicht im Haben — hier nicht als These, sondern als Leben.
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosa diagnostiziert dasselbe Phänomen soziologisch: Die Steigerungsgesellschaft macht Resonanz strukturell unwahrscheinlich. Fromm sagt dasselbe psychoanalytisch: Die Haben-Gesellschaft produziert notorisch unglückliche Menschen. Beide zeigen: Das System untergräbt das, wonach Menschen sich wirklich sehnen.
 Rosa's Mediopassiv (*„es hat mich berührt"*) = Fromms Sein-Modus. Man kann Resonanz nicht kaufen, nicht besitzen — man kann sich nur öffnen.
