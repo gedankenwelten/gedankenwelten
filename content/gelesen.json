@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 309,
-   "aufrufe": 385
+   "leser": 306,
+   "aufrufe": 381
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -184,11 +184,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
    "leser": 5,
    "aufrufe": 5
@@ -289,6 +284,11 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
    "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
    "leser": 4,
    "aufrufe": 4
@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 16,
-     "aufrufe": 19
+     "leser": 15,
+     "aufrufe": 18
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -340,8 +340,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 7,
-     "aufrufe": 7
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 309,
-     "aufrufe": 385
+     "leser": 306,
+     "aufrufe": 381
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -794,11 +794,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
      "leser": 5,
      "aufrufe": 5
@@ -895,6 +890,11 @@
     },
     {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 4,
      "aufrufe": 4
     },
