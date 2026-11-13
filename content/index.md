@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **13.11.** — [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+>
+> Die Atomkraft bekam über Jahrzehnte mehr Förderung, die Erneuerbaren mehr je Kilowattstunde. Ungleich war vor allem, wo es stand: auf der Stromrechnung oder im Haushalt.
+
+> **12.11.** — [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]]
+>
+> Dreizehn Jahre lebte Harry Pfau auf der Straße. Heute verteilt er in Stuttgart gerettete Lebensmittel an alle, die kommen, und weiß, dass man nicht jeden retten kann.
+
+> **11.11.** — [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+>
+> Was nimmt ein Land den Frauen, wenn es den Männern Stärke verspricht? Sandra Navidi erzählt Trumps Amerika als Rückbau. Manches davon geschieht, anderes ist Absicht, und die Grenze dazwischen lohnt den Blick.
+
+> **11.11.** — [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
+>
+> Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
+
+> **11.11.** — [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
+>
+> Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
+
+> → *10 weitere in* [[Zeitgeist]]
+
 ### Denker
 
 > **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
@@ -67,30 +91,6 @@ Die Gedankenwelten (luc)
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
 > → *18 weitere in* [[Panorama]]
-
-### Zeitgeist
-
-> **12.11.** — [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]]
->
-> Dreizehn Jahre lebte Harry Pfau auf der Straße. Heute verteilt er in Stuttgart gerettete Lebensmittel an alle, die kommen, und weiß, dass man nicht jeden retten kann.
-
-> **11.11.** — [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
->
-> Was nimmt ein Land den Frauen, wenn es den Männern Stärke verspricht? Sandra Navidi erzählt Trumps Amerika als Rückbau. Manches davon geschieht, anderes ist Absicht, und die Grenze dazwischen lohnt den Blick.
-
-> **11.11.** — [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
->
-> Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
-
-> **11.11.** — [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
->
-> Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
-
-> **10.11.** — [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]]
->
-> Im Oktober wurden in 700 französischen Supermärkten die Kühltruhen warm. Ein Abend über verwundbare Netze, Menschen, die auf Links klicken, und die Frage, ob es den Cyberkrieg wirklich gibt.
-
-> → *9 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

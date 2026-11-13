@@ -43,6 +43,31 @@ Gedankenwelten/
 > (zwei Vornamen im Meditations-Panorama, „Vorwort“ statt Nachwort in der Scobel-Vita), alle vor dem Deploy
 > gefunden. Für Denker-Notes regelt `gedankenwelt` die Einzelheiten („Biografie nur aus Belegen“).
 
+## Modernisieren: Fassung, Absicht, Fremden-Test (seit 13.11.2026, Andreas' Ja)
+
+> [!important] Wer eine bestehende Note oder Vita umschreibt, legt vorher fest, was er ändern will, und lässt danach einen Fremden vergleichen.
+> 1. **Fassung sichern**, vor dem ersten Edit: `python3 .claude/scripts/fassungen.py sichern "<pfad>"`. Die Kopie
+>    mit Datum ist zugleich das Archiv (Andreas: „einfach die note mit datum der modernisierung“).
+> 2. **Absicht aufschreiben**, ebenfalls vorher, neben die Fassung (`… — <datum>.absicht.md`): was korrigiert,
+>    was ergänzt, was gestrichen wird, und eine Zeile „Nicht beabsichtigt“.
+> 3. **Fremden-Test**, nach der Arbeit und vor dem Deploy: Ein frischer Agent bekommt nur die alte Fassung
+>    und die neue Datei, keine Absicht, kein Transkript, und eine einzige Frage: *Was hat sich geändert?*
+>    Das Gewicht liegt auf den Behauptungen: Was hat die Richtung gewechselt, was ist ohne Grund
+>    verschwunden, welche Zuschreibung wandert zu einer anderen Person? Er urteilt nicht, ob es richtig ist.
+> 4. **Abgleichen:** Was er findet und in der Absicht nicht steht, ist eine stille Verschiebung. Sie wird
+>    Andreas vorgelegt und dann zurückgenommen oder bewusst behalten. Den Bericht samt Abgleich neben die
+>    Fassung legen (`… — <datum>.fremd.md`).
+>
+> **Wann:** beim Modernisieren und Nachschärfen, bei Vertiefungen (heraklit), bei Panoramen und Vitas, also
+> überall, wo eigene Sätze umgeschrieben werden. **Nicht** bei reinen Korrekturen (aristarch, Tippfehler,
+> Namen). Er ersetzt weder Transkript noch Faktencheck: Einen Fehler, der vorher und nachher gleich dasteht,
+> sieht er nicht.
+>
+> Anlass: Bei der ersten Modernisierung (Fromm, *Psychoanalyse des Faschismus*) fand er 30 Änderungen, davon
+> drei nicht angekündigte, alle in unseren eigenen Einschätzungen, keine in Fromms Worten. Am Transkript prüft
+> man Zitate gründlich; die eigenen Sätze haben keine Vorlage. Ohne die vorher geschriebene Absicht hätte
+> man nicht gewusst, welche Änderungen gewollt waren.
+
 ## Geistesblitz
 
 Geistesblitz ist die Rubrik für **grundsätzliches Wissen und menschliche Schöpferkraft** — Wissenschaft, Philosophie, Psychologie, Technik. Notes, die die Welt erklären und das Außergewöhnliche am Menschen sichtbar machen: den Funken, der Erkennen und Erschaffen verbindet.

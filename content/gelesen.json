@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 357,
-   "aufrufe": 437
+   "leser": 345,
+   "aufrufe": 424
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -24,14 +24,14 @@
    "aufrufe": 56
   },
   {
-   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 31,
-   "aufrufe": 35
-  },
-  {
    "pfad": "/DenkerVita/Hans-Maggi",
    "leser": 31,
    "aufrufe": 34
+  },
+  {
+   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+   "leser": 28,
+   "aufrufe": 32
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 26,
-     "aufrufe": 31
+     "leser": 24,
+     "aufrufe": 29
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 357,
-     "aufrufe": 437
+     "leser": 345,
+     "aufrufe": 424
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -634,14 +634,14 @@
      "aufrufe": 56
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 31,
-     "aufrufe": 35
-    },
-    {
      "pfad": "/DenkerVita/Hans-Maggi",
      "leser": 31,
      "aufrufe": 34
+    },
+    {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 28,
+     "aufrufe": 32
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",

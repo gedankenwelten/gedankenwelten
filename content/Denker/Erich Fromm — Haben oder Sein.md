@@ -42,7 +42,7 @@ Psychoanalytiker, Sozialphilosoph, Humanist. Fromm verbindet Freud, Marx und die
 > [!info] Wer spricht?
 > **Erich Fromm** (*23. März 1900 in Frankfurt am Main — † 18. März 1980 in Muralto, Tessin*) — Psychoanalytiker, Sozialphilosoph, Humanist. Sohn des jüdischen Weinhändlers Naphtali Fromm und seiner Frau Rosa, aus einer strengen orthodoxen Familie, aus der seit Generationen Rabbiner hervorgingen.
 >
-> [▶ 2:39](https://www.youtube.com/watch?v=L_2mn39AU0c&t=159) Fromm beschreibt seine Kindheit offen: *„Einziges Kind — was schon ganz schlimm ist — von zwei sehr neurotischen, ängstlichen Eltern."* Die Welt seiner Vorfahren war die mittelalterliche Welt des traditionellen Judentums: Talmud, Prophetentexte, kein bürgerliches Fortschrittsdenken. Gleichzeitig lebte er in einem modernen Frankfurt — und gehörte zu beiden Welten nicht vollständig. Diese Spannung hat ihn geprägt.
+> [▶ 2:39](https://www.youtube.com/watch?v=L_2mn39AU0c&t=159) Fromm beschreibt seine Kindheit offen: *„Ich wurde geboren als einziges Kind — was schon ganz schlimm ist — von zwei sehr neurotischen Eltern, überängstlichen Eltern."* Die Welt seiner Vorfahren war die mittelalterliche Welt des traditionellen Judentums: Talmud, Prophetentexte, kein bürgerliches Fortschrittsdenken. Gleichzeitig lebte er in einem modernen Frankfurt — und gehörte zu beiden Welten nicht vollständig. Diese Spannung hat ihn geprägt.
 >
 > Prägendster Wendepunkt: **1914**. Als 14-Jähriger erlebt er den Ausbruch des Ersten Weltkriegs und stellt die Frage, die sein gesamtes Werk antreiben wird: *Wie können rationale, gebildete Menschen so irrational-destruktiv handeln?* 1919 bricht er mit der orthodoxen Praxis — bleibt aber dem jüdischen Humanismus tief verpflichtet.
 >
