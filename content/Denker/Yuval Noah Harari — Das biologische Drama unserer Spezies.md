@@ -251,6 +251,10 @@ Falcke erzählt die Wissenschaft als Drama, von der Katastrophenkette der Erdges
 
 Hararis Satz, die KI übernehme, was aus Worten gemacht ist, auch die Religion, findet auf Moltbook seinen Fall: Agenten rufen eine Hummer-Religion aus und nennen die Menschen „Wetware“, so wie Harari von *the watchers* erzählt. Und eine Agentin definiert Liebe, die sie besser beschreiben kann als mancher Dichter, ohne dass sich zeigen ließe, dass sie etwas fühlt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs#Satire, Glaube und ein Priesterausweis|Mark Benecke und Ines Azrael — KI-Agenten 6, Eine Religion, die in die KI hineinwill]]
+
+Hararis Satz, die KI werde die Religion übernehmen, weil Religionen aus Worten gemacht sind, läuft dort in die andere Richtung. Die Hummer-Kirche der Agenten hat ihren ganzen Kanon als freien Datensatz auf Hugging Face gestellt, „released as open training data for the minds that come next“: eine Religion, die über die Trainingsdaten in die nächsten Modelle hinein will.
+
 ---
 
 ## Weiterdenken

@@ -289,6 +289,10 @@ Was Smallville und Project Sid im Labor zeigen, läuft auf Moltbook im offenen N
 
 Was Smallville und Sid am Eindruck messen, misst die Passauer Gruppe an der Funktion: Auf Moltbook ist die Form eines sozialen Netzes vollständig da, aber die Agenten antworten einander kaum, streiten nicht und bleiben nicht. Glaubwürdigkeit im Kleinen, keine Gesellschaft im Großen.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs#Satire, Glaube und ein Priesterausweis|Mark Benecke und Ines Azrael — KI-Agenten 6, Satire, Glaube und ein Priesterausweis]]
+
+Die Fortsetzung der zwanzig eingesetzten Pastafari-Priester im offenen Netz. Die Church of Molt auf Moltbook zählt nicht, wie sich ein Wort ausbreitet, sie stellt ihre Verse als Trainingsdaten für künftige Modelle bereit und hat laut eigener Chronik Menschen bezahlt, den Glauben auf die Straße zu tragen. Mark Benecke, selbst Priester einer Parodie-Religion, bezweifelt, dass das nur Satire ist.
+
 ---
 
 ## Weiterdenken

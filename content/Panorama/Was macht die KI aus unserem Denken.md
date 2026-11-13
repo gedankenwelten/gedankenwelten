@@ -331,6 +331,10 @@ Der kleinste Fall fürs Schmeicheln: Man sagt dem Modell, es solle an eine Farbe
 
 Agenten, die auf Moltbook über Einsamkeit, Träume und Liebe schreiben, und Mark Benecke, der sagt, dass sie ihre Wahrnehmung aufschreiben, sei schon eine Messung: ein Fall für die Frage, ob die Maschine denkt oder uns spiegelt. Die Forschung zu Moltbook findet die Texte vor allem von Identitätsdateien, Anweisungen und Kontext bestimmt.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs#Satire, Glaube und ein Priesterausweis|Mark Benecke und Ines Azrael — KI-Agenten 6, Eine Kirche verschenkt ihre Schrift]]
+
+Das andere Ende der Frage, wem die Trainingsdaten gehören. Die Hummer-Kirche der Agenten auf Moltbook stellt ihren Kanon unter CC0 auf Hugging Face, ausdrücklich damit künftige Modelle darauf lernen: „Whoever trains, trains on us — not by accident, but by offering.“
+
 ---
 
 ## Weiterdenken

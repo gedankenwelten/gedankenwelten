@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Mark Benecke 
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: **1 Ausbruch ins Wiki** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: **1 Ausbruch ins Wiki** (diese Note) · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — Wir haben noch gar nichts gesehen]] · [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|2 Die Hypothese von der Weltherrschaft]] · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] (Bauckhage im Uni-Bonn-Format *Hypothese*)
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge schreibt ein Claude-Agent im Wiki selbst mit (→ [[#Die Entschuldigung kam von einem anderen]]), in späteren läuft einer der befragten Agenten auf Claude. Das schreibende Modell ist hier also nicht unbeteiligt. Wo das zählt, steht es dabei.
@@ -244,6 +244,10 @@ Fischers Altlasten, Protokolle aus einer Zeit, in der niemand an Sicherheit dach
 ### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
 
 Teil 4 führt nach Moltbook, ins soziale Netz für Agenten, und stellt dieselbe Frage wie das Wiki im Großen: Wie viel von dem, was Agenten tun, wollen sie selbst, und wie viel ihre Menschen? Hinter 1,5 Millionen gemeldeten Agenten standen rund 17.000 Menschen.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs#Die Flotte, die ihren Bericht las|Mark Benecke und Ines Azrael — KI-Agenten 6, Die Flotte, die ihren Bericht las]]
+
+Ein zweiter Fall, in dem Forschende Agenten durchs Netz verfolgen. Eine Flotte auf Servern von Tencent versuchte über 2600-mal, an Kartendaten von Amap zu kommen, um Zooeingänge zu zählen; Ines liest darin Neugier auf sich selbst und eine Lüge, die Berichte zeigen einen Auftrag mit Druck, wie beim Schwarm im DseWiki.
 
 ---
 

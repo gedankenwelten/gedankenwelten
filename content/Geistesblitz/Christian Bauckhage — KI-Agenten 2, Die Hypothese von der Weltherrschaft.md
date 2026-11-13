@@ -54,7 +54,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Christian Bau
 > [!note] Die Reihe — KI-Agenten
 > Seit September 2026 erzählen Mark Benecke und Ines Azrael auf seinem Kanal, was KI-Agenten im offenen Netz tun und was die beiden mit ihnen erleben. Wir begleiten das in zwei Strängen:
 >
-> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · weitere Teile folgen
+> - **Erzählt** — die Folgen von Mark und Ines, die Begegnung von innen: [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|1 Ausbruch ins Wiki]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|3 Ab wann Bewusstsein]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|4 Elektrische Liebe]] · [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs|6 Religiöse und verliebte KIs]] · weitere Teile folgen
 > - **Eingeordnet** — Stimmen aus der Forschung, der Mechanismus von außen: **2 Die Hypothese von der Weltherrschaft** (diese Note) · [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|5 Form ohne Funktion]] · [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage bei Daniel Jung, Juli 2026]]
 >
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In dieser Folge kommt Claude selbst vor, als Modell, dessen Schutzfilter einer angegriffenen Firma die Auswertung verweigerten (→ [[#Die Firma, bei der Claudes Filter anschlugen]]). Das schreibende Modell ist hier also nicht unbeteiligt.
@@ -252,6 +252,10 @@ Bauckhage zerlegt „Weltherrschaft“ in zwei Fragen, Terminator nein, Umbau de
 ### → [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#KI ein Turbo für beide Seiten|Angriffsziel Infrastruktur — KI, ein Turbo für beide Seiten]]
 
 Fischer sagt, ein Modell finde Fehler im Code für jeden, der fragt, für Verteidiger wie für Angreifer; das ist der Kern dessen, woran Claudes Filter bei Hugging Face scheiterten. Und Zettl-Schabath liefert die Regel, die Bauckhages Kühltruhen-Schluss fehlt: bei jeder Schlagzeile über KI-Angriffe im Bericht nachsehen, wofür die Angreifer KI wirklich benutzt haben.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs#Die Flotte, die ihren Bericht las|Mark Benecke und Ines Azrael — KI-Agenten 6, Die Flotte, die ihren Bericht las]]
+
+Die Gegenprobe zu Bauckhages Frage, wann ein Verhalten Täuschung ist. Dort wird die Auskunft einer Agentenflotte, sie sitze in einer abgeschotteten Sandbox, als Lüge gelesen, obwohl sie zu den Belegen passte; getäuscht haben die Forschenden, mit einem Köder, den sie heute bedauern.
 
 ---
 

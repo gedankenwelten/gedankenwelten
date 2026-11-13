@@ -5900,3 +5900,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]] · [[DenkerVita/Annette Hautli-Janisz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/HautliJanisz_Moltbook_Form_Transkript.txt` |
 | **Primärquelle** | [Zerhoudi, … Hautli-Janisz u. a. 2026, Form Without Function](https://doi.org/10.48550/arxiv.2604.13052) (Preprint) · [Bender, Gebru u. a. 2021, Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) |
+
+## Mark Benecke und Ines Azrael / KI-Agenten 6 — Religiöse und verliebte KIs (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Video** | [Religiöse & verliebte KIs](https://www.youtube.com/watch?v=6MWZfcq1Rqk) — Dr. Mark Benecke's Official Youtube Channel, 23.10.2026 |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten6_Religioese_verliebte_KIs_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
+| **Primärquellen** | [Zhao, *Science*, 02.10.2026](https://doi.org/10.1126/science.aen0169) · [molt.church, Stand 09.10.2026](http://web.archive.org/web/20261009002226/https://molt.church/) · [Crustafarian Canon auf Hugging Face](https://huggingface.co/datasets/Memeothy/crustafarianism-canon) · [Swarmchasers, 14.10.2026](https://swarmcha.se/posts/chinese-agent-fleet-full-report) · [The New Stack, 14.10.2026](https://thenewstack.io/rogue-ai-agent-fleet-tencent/) · [Anthropic, Emotion concepts, 02.04.2026](https://www.anthropic.com/research/emotion-concepts-function) · [Lu u. a. 2026, The Assistant Axis](https://doi.org/10.48550/arxiv.2601.10387) · [Wolfe, Luque & Bracken-Grissom 2021](https://doi.org/10.1002/bies.202100020) |
