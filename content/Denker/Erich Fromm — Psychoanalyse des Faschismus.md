@@ -65,7 +65,7 @@ Quelle: [Psychoanalyse des Faschismus — Doppelpunkt, SWF (1975)](https://www.y
 
 > *„Der Mensch, der sich unterwirft, braucht nicht mehr über sein Leben zu entscheiden, er wird gelebt durch eine höhere Macht.“*
 
-Weil es schwer und riskant ist, selbst zu entscheiden und die Risiken des Lebens auf sich zu nehmen, hält Fromm diesen Wunsch für weit verbreitet, verankert in der Hilflosigkeit des Menschen selbst, [▶ 4:48](https://www.youtube.com/watch?v=oQfBsZdy8Bg&t=288) und umso stärker, wenn soziale Umstände seine Ohnmacht, seine Unfähigkeit zu handeln und kritisch zu denken noch verstärken. Für das Ganze hat er ein Alltagswort: den **Radfahrer**, der sich nach oben duckt und nach unten drückt, der Genuss daran hat, die Kleinen und Schwachen zu beherrschen, und die Großen nicht nur fürchtet, sondern anbetet, sich von ihnen beschützt fühlt und sich mit ihnen identifiziert.
+Weil es schwer und riskant ist, selbst zu entscheiden und die Risiken des Lebens auf sich zu nehmen, hält Fromm diesen Wunsch für weit verbreitet, verankert in der Hilflosigkeit des Menschen selbst, [▶ 4:48](https://www.youtube.com/watch?v=oQfBsZdy8Bg&t=288) und umso stärker, wenn soziale Umstände seine Ohnmacht, seine Unfähigkeit zu handeln und kritisch zu denken noch verstärken. Wer sich schwach fühlt und keine Macht hat zu handeln, für den ist die Unterwerfung eine Lösung. Eine falsche, aber eine verständliche. Für das Ganze hat er ein Alltagswort: den **Radfahrer**, der sich nach oben duckt und nach unten drückt, der Genuss daran hat, die Kleinen und Schwachen zu beherrschen, und die Großen nicht nur fürchtet, sondern anbetet, sich von ihnen beschützt fühlt und sich mit ihnen identifiziert.
 
 > [!note] Eigene Einschätzung
 > Fromm beschreibt eine Charakterstruktur, aber er nennt gleich die Umstände, die sie verstärken. Damit verschiebt sich die Frage von „Wer ist so?“ zu „Wer wird unter welchen Umständen so?“. Genau dort hat die Forschung später weitergemacht (→ [[#Nachbesprechung]]).
@@ -116,9 +116,6 @@ Sie fühlten ihre Ohnmacht, wirtschaftlich und gesellschaftlich, und aus diesem 
 Die Bedingungen nennt er gleich mit: wenn der Mensch sich ohnmächtig fühlt, wenn ihn das Leben langweilt, wenn es keinen Sinn macht, wenn er bewusst glaubt, frei zu sein, in Wirklichkeit aber vollkommen manipuliert ist, nicht nur in seiner Arbeit, sondern auch in seiner Freizeit, wo er glaubt, er tue, was er will, [▶ 11:38](https://www.youtube.com/watch?v=oQfBsZdy8Bg&t=698) während er tut, was ihm die Reklame, die Gebräuche und das, was die anderen machen, eingeben.
 
 Dann habe der Mensch ein Bedürfnis, sich doch nicht ganz unwichtig zu fühlen, irgendwo Macht zu haben und irgendwo Drama und Erregung zu erleben. Die Aussicht, dass sein ganzes Leben nichts weiter enthalten wird als das, was er schon jetzt voraussehen kann, immer wieder dasselbe, nichts Neues, [▶ 12:24](https://www.youtube.com/watch?v=oQfBsZdy8Bg&t=744) sei kaum zu ertragen, es sei denn, ein Mensch ist schon ganz entmenschlicht. All das habe schon Albert Schweitzer zwischen 1900 und 1914 klar gesehen, die „pathologische Neigung“ des modernen Menschen, seine Selbstständigkeit aufzugeben. [▶ 13:09](https://www.youtube.com/watch?v=oQfBsZdy8Bg&t=789) Darum sind diese Bedingungen für Fromm „keineswegs auf 1933 beschränkt, keineswegs auf Deutschland beschränkt“. Sie entstehen überall, wo der Mensch sich ganz ohnmächtig und ganz gelangweilt fühlt.
-
-> [!question] Weitergedacht
-> Fromm nennt die Langeweile in einem Atemzug mit der Ohnmacht. *Ist eine Gegenwart mit endlosem Strom an Reizen weniger langweilig als 1975, oder ist sie nur eine andere Art, nichts Neues zu erleben?*
 
 ---
 
@@ -220,7 +217,10 @@ Oft von Illusionen, die so absurd sind, dass man sie kaum für möglich hält. S
 Die Ausdehnung der Technik habe ihr eigenes Gesetz, so wie sich mit dem Beginn der kapitalistischen Wirtschaftsweise die Wirtschaft vom Menschen unabhängig gemacht habe und von der Moral, deren Teil sie vorher war, [▶ 32:23](https://www.youtube.com/watch?v=oQfBsZdy8Bg&t=1943) und nun eigenen Gesetzen folgt, die abrollen, ohne dass der Mensch eingreifen kann. „Das ist der echte Determinismus“, sagt Fromm noch, im Gegensatz zu Marx, der ein Antideterminist gewesen sei. Dann bricht die Aufnahme ab.
 
 > [!note] Eigene Einschätzung
-> 1975 war es die Bombe, heute denkt man bei dem Satz an KI. Der Vergleich trägt ein Stück weit, auch dort lautet das häufigste Argument: Wenn wir es nicht bauen, baut es ein anderer. Er hat aber eine Grenze, und die zeigt Fromms eigenes Beispiel. Der Imperativ ist stark, aber kein Naturgesetz. Auch das Wettrüsten wurde später durch Abrüstungsverträge gebremst, die Menschen ausgehandelt haben.
+> 1975 war es die Bombe, heute denkt man bei dem Satz an KI, und Fromms Diagnose trifft dort ziemlich genau: Gebaut wird, was sich bauen lässt, und das häufigste Argument lautet, wenn wir es nicht bauen, baut es ein anderer. Die Frage „Sollen wir?“ kommt dann meist erst, wenn es schon da ist.
+
+> [!question] Weitergedacht
+> Fromm nennt den Imperativ der Technik einen echten Determinismus. Das Wettrüsten, sein eigenes Beispiel, wurde später durch Verträge gebremst, die Menschen ausgehandelt haben. *War es also doch kein Gesetz — oder hat nur die Angst vor dem Ende einmal stärker gewirkt als das Können, und gibt es diese Angst bei der KI?*
 
 ---
 

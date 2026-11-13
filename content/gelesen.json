@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 361,
-   "aufrufe": 442
+   "leser": 357,
+   "aufrufe": 437
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -25,8 +25,8 @@
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 32,
-   "aufrufe": 36
+   "leser": 31,
+   "aufrufe": 35
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -389,11 +389,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Mats-Schoenauer",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Spuren/Duldet-die-Linke-Antisemitismus",
      "leser": 3,
      "aufrufe": 3
@@ -469,17 +464,17 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Mats-Schoenauer",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Nicole-Bendsen",
      "leser": 2,
      "aufrufe": 2
     },
     {
      "pfad": "/DenkerVita/Pascal-Kaufmann",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 2,
      "aufrufe": 2
     },
@@ -607,6 +602,11 @@
      "pfad": "/DenkerVita/Annika-Brockschmidt",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 361,
-     "aufrufe": 442
+     "leser": 357,
+     "aufrufe": 437
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -635,8 +635,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 32,
-     "aufrufe": 36
+     "leser": 31,
+     "aufrufe": 35
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
