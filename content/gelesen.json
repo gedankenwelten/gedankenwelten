@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 343,
-   "aufrufe": 422
+   "leser": 340,
+   "aufrufe": 419
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -35,8 +35,8 @@
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 27,
-   "aufrufe": 31
+   "leser": 25,
+   "aufrufe": 28
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 24,
-     "aufrufe": 29
+     "leser": 25,
+     "aufrufe": 30
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -325,8 +325,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 11,
-     "aufrufe": 12
+     "leser": 10,
+     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Giulia-Enders",
@@ -579,6 +579,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Susanne-Boshammer-Was-heisst-verzeihen",
      "leser": 1,
      "aufrufe": 1
@@ -602,11 +607,6 @@
      "pfad": "/DenkerVita/Annika-Brockschmidt",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 343,
-     "aufrufe": 422
+     "leser": 340,
+     "aufrufe": 419
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -645,8 +645,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 27,
-     "aufrufe": 31
+     "leser": 25,
+     "aufrufe": 28
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1000,
-     "aufrufe": 1202
+     "leser": 1001,
+     "aufrufe": 1203
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1000,
-     "aufrufe": 1202
+     "leser": 1001,
+     "aufrufe": 1203
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 38,
-     "aufrufe": 38
+     "leser": 39,
+     "aufrufe": 39
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1719,6 +1719,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Sebastian-Puschner",
      "leser": 3,
      "aufrufe": 3
@@ -1760,11 +1765,6 @@
     },
     {
      "pfad": "/DenkerVita/Arthur-Aron",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
     },

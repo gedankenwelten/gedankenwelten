@@ -52,6 +52,10 @@ Die Gedankenwelten (luc)
 >
 > Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
 
+> **13.11.** — [[Denker/Erich Fromm — Die Welt lieben, SRF 1979|Erich Fromm — Die Welt lieben (SRF 1979)]]
+>
+> Erhalten kann man das Leben nur, wenn man die Welt liebt. Erich Fromm, ein halbes Jahr vor seinem Tod, über Interesse als Lebenskraft, falsche Propheten und ein Christentum ohne Gott.
+
 > **10.11.** — [[Denker/Simone Weil — Die Ilias oder das Poem der Gewalt|Simone Weil — Die Ilias oder das Poem der Gewalt]]
 >
 > Gewalt macht aus dem, der sie erleidet, ein Ding, und aus dem, der sie ausübt, auch. Simone Weils Ilias-Essay, gelesen von einer Gewaltforscherin, die ihm an entscheidender Stelle widerspricht.
@@ -64,15 +68,17 @@ Die Gedankenwelten (luc)
 >
 > Die Deutschen von 1933 bis 1945 waren keine andere Spezies. Götz Aly zeigt, wie Raub, Angst und Mitwissen eine Volksgemeinschaft Schritt für Schritt zur Verbrechensgemeinschaft machten.
 
-> **09.11.** — [[Denker/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
->
-> Die KI wohnt nicht im Gerät, sagt Markus Gabriel, sondern zwischen uns und ihm — und das japanische Mu zeigt, warum die Frage „Mensch oder Maschine?“ falsch gestellt ist.
+> → *1 weitere in* [[Denker]]
 
 ### Panorama
 
 > **13.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
 >
 > Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **13.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > **13.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
@@ -85,10 +91,6 @@ Die Gedankenwelten (luc)
 > **11.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
 >
 > Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **11.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
 > → *18 weitere in* [[Panorama]]
 
