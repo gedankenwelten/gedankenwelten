@@ -4128,9 +4128,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 | | |
 |---|---|
-| **Studie** | [FÖS — Staatliche Förderungen der Atomenergie (2020)](https://foes.de/publikationen/2020/2020-10_FoES_Fossile-Subventionen_Atomkraft.pdf) |
-| **Parlamentsdienst** | Bundestag Wissenschaftliche Dienste WD 5/2021 |
+| **Studie (Atom)** | [FÖS 2020 — Gesellschaftliche Kosten der Atomenergie in Deutschland](https://foes.de/publikationen/2020/2020-09_FOES_Kosten_Atomenergie.pdf) (im Auftrag von Greenpeace Energy) |
+| **Studie (Vergleich)** | [FÖS 2017 — Was Strom wirklich kostet (Kurzfassung)](https://foes.de/publikationen/2017/2017-10-Was_Strom_wirklich_kostet_kurz.pdf) |
+| **Parlamentsdienst** | [WD 5-3000-090/21 — Strom aus Kernenergie: Kosten und Subventionen](https://www.bundestag.de/resource/blob/877586/4e4dce913c3d883a81adcf2697313c7d/WD-5-090-21-pdf-data.pdf) |
+| **Gegenstimme** | [Björn Peters — Kernenergie: Mehr Nutzen als Subventionen (Nuklearia 2020)](https://nuklearia.de/2020/10/03/kernenergie-mehr-nutzen-als-subventionen/) |
+| **Folgekosten** | [Kostenbericht nukleare Entsorgung 2025](https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Nukleare_Sicherheit/kostenbericht_nukleare_entsorgung_deutschland_2025_de.pdf) · [KFK-Abschlussbericht 2016](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/B/bericht-der-expertenkommission-kernenergie.pdf?__blob=publicationFile&v=11) |
+| **Haftung** | [Atomgesetz § 31](https://www.gesetze-im-internet.de/atg/__31.html) · [§ 34](https://www.gesetze-im-internet.de/atg/__34.html) |
 | **Notiz** | [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] |
+
 
 ---
 

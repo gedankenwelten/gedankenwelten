@@ -25,7 +25,7 @@ aliases:
 
 <details><summary>🎨</summary>
 
-**Gerd Arntz** — Linolschnitt der Wiener Bildstatistik (Isotype), flache geschnittene Silhouetten, Ocker und Ziegelrot gegen Blauschwarz. Isotype wurde erfunden, um Zahlen für alle sichtbar zu machen, gegen Statistik als Herrschaftswissen — die Bildsprache, die eine Note verdient, deren These *Sichtbarkeit als politische Waffe* lautet. Oben vier Häuser mit je einem roten Quadrat: abzählbar, auf jeder Stromrechnung. Unten dieselbe Rechnung als Fässerfeld, das über den Bildrand hinausläuft und nicht aufhört.
+**Gerd Arntz** — Linolschnitt der Wiener Bildstatistik (Isotype), flache geschnittene Silhouetten, Ocker und Ziegelrot gegen Blauschwarz. Isotype wurde erfunden, um Zahlen für alle sichtbar zu machen, gegen Statistik als Herrschaftswissen — die Bildsprache für eine Note, in der es darum geht, welche Kosten man zu sehen bekommt. Oben vier Häuser mit je einem roten Quadrat: abzählbar, auf jeder Stromrechnung. Unten dieselbe Rechnung als Fässerfeld, das über den Bildrand hinausläuft und nicht aufhört.
 
 *Prompt:* A wide horizontal linocut print in the style of Gerd Arntz: solid flat silhouettes cut from single colours, hard carved edges, absolutely no gradients, no gloss, no outlines, no drop shadows. The upper quarter is a pale ochre band holding a short row of five identical small brick red house silhouettes, each with one small solid red square beside it, few and neat and easy to count. One hard horizontal line divides the picture. The lower three quarters is a deep blue black block filled edge to edge with a dense mass of small black silhouettes of storage drums, a squat institute building and a lattice guard tower, packed in even rows that continue past the bottom edge of the picture. The mass below is many times larger than the row above. Printed ink on paper, palette limited to off white, ochre, brick red and blue black. No text, no numbers, no lettering, no vehicles, no shops, no photorealism.
 
@@ -37,7 +37,7 @@ aliases:
 Quellen: [FÖS 2020, *Gesellschaftliche Kosten der Atomenergie in Deutschland*](https://foes.de/publikationen/2020/2020-09_FOES_Kosten_Atomenergie.pdf) · [FÖS 2017, *Was Strom wirklich kostet* (Kurzfassung)](https://foes.de/publikationen/2017/2017-10-Was_Strom_wirklich_kostet_kurz.pdf) · [Wissenschaftliche Dienste des Bundestages, WD 5-3000-090/21](https://www.bundestag.de/resource/blob/877586/4e4dce913c3d883a81adcf2697313c7d/WD-5-090-21-pdf-data.pdf) · EEG-Kontodaten der Übertragungsnetzbetreiber · [Atomgesetz § 31](https://www.gesetze-im-internet.de/atg/__31.html) · [Kostenbericht nukleare Entsorgung 2025](https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Nukleare_Sicherheit/kostenbericht_nukleare_entsorgung_deutschland_2025_de.pdf)
 
 > [!warning] Wer hier rechnet
-> Die ausführlichsten Zahlen zur Atomförderung stammen vom Forum Ökologisch-Soziale Marktwirtschaft (FÖS), beide Studien im Auftrag von Greenpeace Energy, einer Ökostrom-Genossenschaft (heute Green Planet Energy). Die Wissenschaftlichen Dienste des Bundestages übernehmen die FÖS-Tabellen in ihrer Dokumentation von 2021, prüfen sie aber nicht nach und merken an, dass die Daten zu diesem Thema „zum Teil vor allem bei Interessenverbänden“ zu finden seien, besonders bei solchen, die der Kernenergie kritisch gegenüberstehen oder sich für erneuerbare Energien einsetzen. Die schärfste Gegenrechnung kommt vom Physiker Björn Peters, der sich in der Nuclear Pride Coalition für Kernkraft einsetzt. Beide Seiten haben ein Interesse. Dazu kommt der Begriff selbst: FÖS fasst „Förderung“ weit und zählt auch Vorteile mit, die nie als Zahlung geflossen sind. Jede Zahl unten hängt an dieser Wahl.
+> Die ausführlichsten Zahlen zur Atomförderung stammen vom Forum Ökologisch-Soziale Marktwirtschaft (FÖS), beide Studien im Auftrag von Greenpeace Energy, einer Ökostrom-Genossenschaft (heute Green Planet Energy). Die Wissenschaftlichen Dienste des Bundestages übernehmen die FÖS-Tabellen in ihrer Dokumentation von 2021, prüfen sie aber nicht nach und merken an, dass die Daten zu diesem Thema „zum Teil vor allem bei Interessenverbänden“ zu finden seien, besonders bei solchen, die der Kernenergie kritisch gegenüberstehen oder sich für erneuerbare Energien einsetzen. Die schärfste Gegenrechnung kommt vom Physiker Björn Peters, der sich in der Nuclear Pride Coalition für Kernkraft einsetzt. Beide Seiten haben ein Interesse. Und beide Seiten rechnen gern strategisch: Wer die Atomkraft billig rechnen will, lässt Forschung und Haftung weg, wer das EEG teuer rechnen will, legt den Netzausbau auf die Umlage. Dazu kommt der Begriff selbst: FÖS fasst „Förderung“ weit und zählt auch Vorteile mit, die nie als Zahlung geflossen sind. Jede Zahl unten hängt an dieser Wahl.
 
 ---
 
@@ -122,7 +122,7 @@ Die EEG-Umlage war so gebaut, dass jeder Haushalt sah, was sie ihn kostete. Bei 
 - **Steuerregeln**: Bis 2006 blieben Kernbrennstoffe unbesteuert, während andere Energieträger in der Stromerzeugung Steuer zahlten.
 - **Rückstellungen**: Das Geld für den Rückbau blieb bis zu seiner Verwendung im Unternehmen.
 - **Emissionshandel**: Seit 2005 hebt der CO₂-Preis den Börsenstrompreis. Atomkraftwerke bekamen den höheren Preis, ohne Zertifikate kaufen zu müssen. Dasselbe gilt für Wind und Sonne.
-- **Altlasten**: Asse, Morsleben, Wismut, die Ost-Kraftwerke, alles aus dem Haushalt.
+- **Altlasten und Europa**: Asse, Morsleben, Wismut, die Ost-Kraftwerke und der deutsche Beitrag zu Euratom, alles aus dem Haushalt, nie unter dem Namen Atomförderung.
 
 Auch die sichtbare Zahl erzählte nicht alles. Die Umlage war die Differenz zwischen garantierter Vergütung und Börsenwert. Fiel der Börsenpreis, unter anderem weil viel Wind- und Sonnenstrom ins Netz kam, stieg die Umlage. Sie zeigte also auch, wie billig der Börsenstrom gerade war, und diese Ersparnis kam bei großen Abnehmern an der Börse an, während Haushalte die Umlage zahlten. Viele stromintensive Betriebe zahlten zudem nur eine verminderte Umlage. Und seit Juli 2022 steht auch das EEG nicht mehr auf der Rechnung: Es wird aus dem Klima- und Transformationsfonds des Bundes bezahlt.
 
@@ -162,7 +162,7 @@ Mit der Abschaltung endete die Förderung, die Kosten laufen weiter. Die Betreib
 
 **Wer zahlt.** Gorleben und Konrad hat der Bund vorgestreckt und sich über die Endlager-Vorausleistungsverordnung zum großen Teil von den Betreibern zurückgeholt, bei Gorleben zu 96,5 Prozent, bei Konrad zu 64,4 Prozent von den Kernkraftwerken ([§ 6 EndlagerVlV](https://www.gesetze-im-internet.de/endlagervlv/__6.html)). Die neue Standortsuche läuft über Umlagen, für die Kraftwerke seit 2017 über den Fonds. Reines Steuergeld sind Asse und Morsleben, die die Bundesregierung „nicht refinanzierbar“ nennt ([Drucksache 20/9593](https://dserver.bundestag.de/btd/20/095/2009593.pdf)), der Rückbau der Ost-Kraftwerke, den zu 90 Prozent der Bund und zu 10 Prozent das Land trägt, und der Anteil der öffentlichen Forschungsanlagen.
 
-**Wie lange.** Das Endlager muss nach dem Standortauswahlgesetz „für einen Zeitraum von einer Million Jahren“ sicher sein ([§ 1 StandAG](https://www.gesetze-im-internet.de/standag_2017/__1.html)). Das Gesetz strebt die Standortentscheidung für 2031 an, das Bundesamt für die Sicherheit der nuklearen Entsorgung nennt eine Spanne von 2046 bis 2068 ([BASE 2022](https://www.base.bund.de/shareddocs/kurzmeldungen/de/2022/zeitplan-endlagersuche.html)). Bis dahin stehen die Abfälle in Zwischenlagern, bezahlt aus dem Fonds.
+**Wie lange.** Das Endlager muss nach dem Standortauswahlgesetz „für einen Zeitraum von einer Million Jahren“ sicher sein ([§ 1 StandAG](https://www.gesetze-im-internet.de/standag_2017/__1.html)). Das Gesetz strebt die Standortentscheidung für 2031 an, das Bundesamt für die Sicherheit der nuklearen Entsorgung nennt eine Spanne von 2046 bis 2068 ([BASE 2022](https://www.base.bund.de/shareddocs/kurzmeldungen/de/2022/zeitplan-endlagersuche.html)). Bis dahin stehen die Abfälle in Zwischenlagern, bezahlt aus dem Fonds. Wie sicher die Schätzungen sind, zeigt Lubmin: Dort stieg die Schätzung von 6,6 auf mindestens 10 Milliarden, und das Ende rückte von 2028 auf Mitte der 2040er Jahre.
 
 Den Atomstrom hatten die Jahrzehnte bis April 2023, die Kosten reichen über 2099 hinaus. Bei den Erneuerbaren sind die Folgen kleiner: Abgeschriebene Windräder werden zurückgebaut, Rotorblätter und alte Solarmodule sind schwer zu verwerten, aber nichts davon muss über Jahrtausende bewacht werden.
 
@@ -248,11 +248,11 @@ Buchinger führt die Förderfrage mit Neubauprojekten weiter (Flamanville, Olkil
 
 ### → [[Mario Buchinger — Lügen der Kernenergie (1▸6) Kernenergie ist sicher]]
 
-Sicherheit und Haftung hängen zusammen: Je sicherer ein Reaktor, desto kleiner der erwartete Schaden, und desto kleiner die Lücke zwischen Deckungsvorsorge und Risiko, die hier als implizite Förderung zählt.
+Buchinger nennt die Kernenergie ein Hochrisiko, gerade weil kein Versicherer einen Supergau deckt. Das ist die Lücke zwischen Deckungsvorsorge und möglichem Schaden, die hier unter „Haftung“ als implizite Förderung steht.
 
 ### → [[Heiner Flassbeck — Krise und Rechtsruck]]
 
-Flassbeck argumentiert, dass wirtschaftliche Fehlsteuerung gesellschaftliche Kosten produziert. Die Atomförderung ist ein Beispiel dafür, wie Kosten vergesellschaftet werden können, wenn sie über Rückstellungen, Steuerregeln und Altlasten laufen statt über den Preis.
+Flassbeck argumentiert, dass wirtschaftliche Fehlsteuerung gesellschaftliche Kosten produziert. Die Atomförderung ist ein Beispiel dafür: Risiken und Altlasten trägt die Allgemeinheit, Vorteile wie der Zinsvorteil der Rückstellungen oder der Mehrerlös aus dem Emissionshandel blieben bei den Betreibern.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 
@@ -264,15 +264,15 @@ Cipolla fragt, wer von einer Handlung Nutzen hat und wer den Schaden. Bei der At
 
 ### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
 
-Quaschnings 2-Billionen-Zahl für fossile Energie-Importe seit 1990 ergänzt den Vergleich um eine dritte Seite: Neben der Förderung von Atom und Ökostrom floss enormes Kapital für Öl und Gas ins Ausland.
+Quaschnings 2-Billionen-Zahl für fossile Energie-Importe seit 1990 ergänzt den Vergleich um eine dritte Seite. Gefördert wurden auch die Fossilen, die Steinkohle laut FÖS (2017) mit der größten Summe von allen (337 Milliarden Euro real, 1970–2016), und dazu floss enormes Kapital für Öl und Gas ins Ausland.
 
 ### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 
-Die Debatte um Reiches Energiepolitik spielt auf demselben Feld: welche Kosten der Erneuerbaren sichtbar gemacht werden und welche Kosten im System verschwinden.
+Reiches Gesetzentwurf soll das Tempo der Erneuerbaren an den langsamen Netzausbau binden und nimmt laut MONITOR den Netzbetreibern den Druck, ihre Netze auszubauen. Sichtbar wird die Last der Erneuerbaren, kaum sichtbar das Versäumnis beim Netz.
 
 ### → [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
 
-Zeigt, was mit der geförderten Technik inzwischen entsteht: Gemeinschaftsenergie, Biogas, Solarparks.
+Zeigt, was mit der geförderten Technik inzwischen entsteht: Gemeinschaftsenergie, Biogas, Solarparks. Die Lösungen gibt es, sagt die Folge, es hapert an Umsetzung und Akzeptanz.
 
 ### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 

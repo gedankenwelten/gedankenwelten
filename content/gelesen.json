@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 345,
-   "aufrufe": 424
+   "leser": 343,
+   "aufrufe": 422
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -29,14 +29,14 @@
    "aufrufe": 34
   },
   {
-   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 28,
-   "aufrufe": 32
-  },
-  {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
    "leser": 28,
    "aufrufe": 30
+  },
+  {
+   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+   "leser": 27,
+   "aufrufe": 31
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 345,
-     "aufrufe": 424
+     "leser": 343,
+     "aufrufe": 422
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -639,14 +639,14 @@
      "aufrufe": 34
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 28,
-     "aufrufe": 32
-    },
-    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 28,
      "aufrufe": 30
+    },
+    {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 27,
+     "aufrufe": 31
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
