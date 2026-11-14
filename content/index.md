@@ -46,6 +46,30 @@ Die Gedankenwelten (luc)
 
 > → *4 weitere in* [[Denker]]
 
+### Spuren
+
+> **14.11.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
+>
+> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
+
+> **09.11.** — [[Spuren/Gewalt-aus-Ueberzeugung|Gewalt aus Überzeugung — nimmt sie in Deutschland zu?]]
+>
+> Gewalt von rechts, von links, aus Religion, aus fremden Konflikten: Diese Spur zählt sie bis zur Bundestagswahl 2029 mit demselben Maß und sagt offen, wie ungleich gezählt wird.
+
+> **08.11.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
+>
+> Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
+
+> **08.11.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
+>
+> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
+
+> **08.11.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
+
+> → *3 weitere in* [[Spuren]]
+
 ### Zeitgeist
 
 > **13.11.** — [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
@@ -117,30 +141,6 @@ Die Gedankenwelten (luc)
 > Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
 
 > → *18 weitere in* [[Panorama]]
-
-### Spuren
-
-> **09.11.** — [[Spuren/Gewalt-aus-Ueberzeugung|Gewalt aus Überzeugung — nimmt sie in Deutschland zu?]]
->
-> Gewalt von rechts, von links, aus Religion, aus fremden Konflikten: Diese Spur zählt sie bis zur Bundestagswahl 2029 mit demselben Maß und sagt offen, wie ungleich gezählt wird.
-
-> **08.11.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
->
-> Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
-
-> **08.11.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
->
-> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
-
-> **08.11.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-> **08.11.** — [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Abgewählt — kehrt die Demokratie zurück, wenn die Autoritären gehen?]]
->
-> Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?
-
-> → *2 weitere in* [[Spuren]]
 
 ### Kultur
 
