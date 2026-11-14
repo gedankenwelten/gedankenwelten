@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Michael Weigel-Jech / SmarAct — Präzision im Atom-Bereich (Breaking Lab)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Präzision im Atom-Bereich: Das bestgehütete Geheimnis der Chip-Industrie](https://www.youtube.com/watch?v=RdPuga5zuv0) (Breaking Lab, 13.11.2026, Werbung in Zusammenarbeit mit SmarAct) |
+| **Unternehmen** | [SmarAct](https://www.smaract.com/de/) · [Karriere](https://www.smaract.com/de/karriere) |
+| **Notiz** | [[Breaking Lab — SmarAct und die Welt des Allerkleinsten]] |
+| **Vita** | [[DenkerVita/Michael Weigel-Jech]] |
+| **Transkript** | `Gedankenwelten/Transkripte/SmarAct_Praezision_Atom_Transkript.txt` |
+
 ## Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer (NachDenkSeiten, 10.11.2026)
 
 | | |

@@ -315,6 +315,10 @@ Marina Weisband beruft sich auf *Radikal emotional*: Die AfD lüge in den Fakten
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
 
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Wie nah ein Lösungsgespräch an die Fürsprache rückt, zeigt ein als Werbung gekennzeichnetes Breaking-Lab-Video über SmarAct; die Nachbesprechung dort hält die Forschung zum konstruktiven Journalismus dagegen.
+
 ---
 
 ## Weiterdenken

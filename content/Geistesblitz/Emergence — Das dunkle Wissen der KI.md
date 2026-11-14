@@ -383,6 +383,10 @@ Die Spur fragt, ob offene Modelle den Burggraben der großen Labore auswaschen. 
 
 Ein selbstfahrendes Labor stellt die Frage nach dem Wissen im Körper ganz praktisch: Wenn Roboter die Versuche machen, wo lernt der Nachwuchs, einem Ergebnis zu misstrauen? Und Beautemps fragt, ob die Forschenden wussten, dass ihre Paper eine Maschine unterrichten.
 
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Ein Oldenburger Hersteller von Nanometer-Antrieben begründet seinen Standort genau mit diesem Wissen, das an Familien und Werkbänken hängt, und steht zugleich unter Exportkontrollen, wie Slaters England sie kannte.
+
 ---
 
 ## Weiterdenken

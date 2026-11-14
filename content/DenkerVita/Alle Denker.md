@@ -791,6 +791,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Simone Weil|Simone Weil]]** — Philosophin, Mystikerin, Fabrikarbeiterin (1909–1943); ENS-Absolventin, die 1934 an die Fräsmaschine ging, um zu erfahren, was Industriearbeit mit einem Menschen macht; *attention* als reinste Form der Großzügigkeit, *malheur*, Entwurzelung, Kraft als das, was Menschen zu Dingen macht; zu Lebzeiten kein Buch — *Schwerkraft und Gnade* (1947), *Die Einwurzelung* (1949, hg. von Camus) erschienen posthum; gestorben mit 34
 
+**[[DenkerVita/Michael Weigel-Jech|Michael Weigel-Jech]]** — Ingenieur und Unternehmer, Chef der SmarAct GmbH und SmarAct Automation in Oldenburg, die Bauteile für Chipindustrie, Photonik und Forschung auf den Nanometer genau bewegen
+
 **[[DenkerVita/Susanne Weigelin-Schwiedrzik|Susanne Weigelin-Schwiedrzik]]** — Sinologin und Japanologin (Uni Wien, 2011–2015 Vizerektorin); chinesische Geschichtsschreibung, Kulturrevolution, Hungersnot-Diskurs; außenpolitische Realistin: „Balance of Power“ statt Moral, Europa als versteckter Akteur im Dreieck China–USA–Russland; *China und die Neuordnung der Welt* (2023)
 
 **[[DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (UPS Foundation Professor, Institute for Advanced Study Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung

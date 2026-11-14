@@ -273,6 +273,10 @@ Hype per Dekret: Die Executive Order 14434 vom 29. September 2026 verpflichtet U
 
 Ein Lehrstück für Hype als Werkzeug: Aus dem Wort *Reasoning* in einem Paper über Matheaufgaben wurde in der Werbung *Thinking*. Katharina Zweig verlangt, dass Informatik und Geisteswissenschaft solche Wortwanderungen gemeinsam aufhalten.
 
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Bis zu den Zulieferern reicht der Mechanismus: Eine Oldenburger Präzisionsfirma baut für die Erwartungen ihrer Kunden aus der KI-Welle auf das Vier- bis Zwanzigfache aus, ihr Chef nennt den Hype selbst ein „Gefühl“.
+
 ---
 
 ## Weiterdenken

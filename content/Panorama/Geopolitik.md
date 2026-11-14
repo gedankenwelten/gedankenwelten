@@ -2,7 +2,7 @@
 title: "Geopolitik"
 date: 2026-10-28
 erstellt: 2026-10-28
-aktualisiert: 2026-11-11
+aktualisiert: 2026-11-14
 description: "„Die Starken tun, was sie können, die Schwachen erleiden, was sie müssen“ — ein Satz von 416 v. Chr., der bis heute wie ein Naturgesetz klingt. Fünf offene Fragen dazu, ob er eins ist."
 raetsel: "Auf der Karte war die Insel klein. Auf der Insel war sie alles."
 panorama-art: wachsend
@@ -161,6 +161,8 @@ Wie kleine Staaten sich schützen, beschreibt die Forschung vor allem als Anlehn
 
 Klein ist in dieser Rechnung auch Deutschland. Es stellt ein Prozent der Weltbevölkerung und gut vier Prozent der Weltwirtschaft, die EU 5,5 und knapp 18 Prozent ([Weltbank, Daten 2025](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DE-EU-1W)); Theveßens 23 Prozent meinen Europa einschließlich Großbritanniens, der Schweiz und Norwegens. Wer gegenüber den großen Mächten souveräner werden will, wie die BSW-Abgeordnete Claudia Wittig und der AfD-Abgeordnete Rainer Rothfuß, und dafür Europa lockern möchte, verliert eher Gewicht, als er gewinnt. Mehr in der Nachbesprechung [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Schreckt Stärke ab — oder provoziert sie?|Schreckt Stärke ab — oder provoziert sie?]].
 
+Ein Hebel, den auch Kleine halten können, ist der Engpass. Wer die zentralen Knoten eines Netzes kontrolliert, kann anderen den Zugang sperren ([Farrell & Newman 2019](https://doi.org/10.1162/isec_a_00351), Theorie mit Fallstudien). Europa sitzt mit den Lithographiemaschinen von ASML und ihren Zulieferern an so einem Knoten der Chipfertigung, und die Kommission setzt seit dem Scheitern eigener Fabrikpläne genau darauf: Das 20-Prozent-Ziel des Chips Act hielt der Rechnungshof für „very unlikely“ ([Rechnungshof, Sonderbericht 12/2025](https://www.eca.europa.eu/ECAPublications/SR-2025-12/SR-2025-12_EN.pdf)), der Entwurf für einen Chips Act 2.0 nennt Anlagen, Photonik und Materialien als Stärken und „indispensability“ als Ziel ([COM(2026) 504](https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0504/COM_COM%282026%290504_EN.pdf)). Wem der Hebel gehört, ist damit nicht entschieden. Im Fall ASML setzte amerikanischer Druck Exportregeln gegen das niederländische Interesse durch, und wer den eigenen Engpass kappt, schwächt die eigene Souveränität ([de Graaff u. a. 2026](https://doi.org/10.1080/13563467.2026.2751102), Fallstudie). China hält seinerseits Engpässe, 99 Prozent des primären Galliums ([USGS 2026](https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf)).
+
 Und manchmal setzen sich die Kleinen wieder an den Tisch. Grönland und Dänemark unterschrieben am 22. September 2026 mit den USA ein Verteidigungsabkommen, das nach Frederiksens Worten *„acknowledges and respects the sovereignty and territorial integrity“* der Insel, acht Monate nach den Zolldrohungen ([Staatsministerium](http://english.stm.dk/press/press-releases/agreement-between-greenland-denmark-and-the-united-states/) · [House of Commons Library](https://commonslibrary.parliament.uk/research-briefings/cbp-12214/)). Seit Januar 2026 sitzt auch die Ukraine wieder mit am Tisch, dreiseitig in Abu Dhabi und Genf; im Oktober traf sie in Oslo den amerikanischen Gesandten mit den Europäern, der danach zu Putin reiste ([Al Jazeera](https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy)). Wie fest dieser Platz ist, prüft die Spur.
 
 **Die Stimmen**
@@ -171,6 +173,7 @@ Und manchmal setzen sich die Kleinen wieder an den Tisch. Grönland und Dänemar
 - **[[Elmar Thevessen - Die neue Weltunordnung#Die Chance der Mittelmächte|Elmar Theveßen]]:** Europa stellt 23 Prozent der Weltwirtschaft, die USA 25 — mit den Mittelmächten, die sich weder von Washington noch von Peking erpressen lassen wollen, ist das kein kleines Gewicht.
 - **[[Gerald Knaus — Ceuta und die Erpressbarkeit Europas#Erpressbarkeit als Konstruktionsfehler|Gerald Knaus]]:** *„Wir machen uns erpressbar“* — wer von einem einzigen Partner abhängt, gibt ihm den Hebel selbst in die Hand.
 - **[[StreitClub — Europa allein zu Haus#Trump, Putin, Xi — wer gefährdet Europa am meisten?|Gilbert Serrao]]:** *„If we want to be strong in the world, we have to be strong at home.“*
+- **[[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Licht statt Strom|Michael Weigel-Jech]]:** Europa sei „noch lange nicht draußen“, solange es seine Stärke in Werkzeugen und Photonik hält und die Start-ups nicht an amerikanisches Geld verliert; wohin seine Maschinen geliefert werden dürfen, entscheiden die Großmächte mit.
 - **[[Cathryn Cluever Ashbrook - Der amerikanische Weckruf#Was Europa jetzt schuldet — sich selbst|Cathryn Clüver Ashbrook]]:** Der Schutz beginnt klein, in Sportvereinen und auf Gemeindefesten, wo man sagt: Diese Räume geben wir nicht preis.
 
 > [!question] Die Reibung
@@ -184,6 +187,7 @@ Und manchmal setzen sich die Kleinen wieder an den Tisch. Grönland und Dänemar
 |---|---|---|
 | 28.10.2026 | Gründung aus eigener Recherche | alle fünf Fragen · Melos, Wendt, Jervis, Kertzer & McGraw, Carney · Berlin 1884 bis Riad 2025, Levin, Brzezinski, Goettlich · NSS 2025, Außenpolitisches Konzept 2023, Wang Yi, Kim & Simón, Eady, Budak, Scheiring · Fazal, Zacher, Altman, O'Mahoney, Thorhallsson, Huang |
 | 11.11.2026 | [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Nachbesprechung|Wittig und Rothfuß — Frieden mit Russland über die Brandmauer]] | Recht des Stärkeren: Sicherheitsgemeinschaften (Deutsch, Adler & Barnett, Schuman, Chang, Nordischer Frieden) · Was können die Kleinen: Deutschland und EU in Weltbank-Zahlen, Lucs Europa-Einwand |
+| 14.11.2026 | [[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Nachbesprechung\|Breaking Lab — SmarAct und die Welt des Allerkleinsten]] | Was können die Kleinen: Engpässe als Hebel (Farrell & Newman 2019, de Graaff u. a. 2026), Chips Act und Rechnungshof, Chips Act 2.0, Gallium; Stimme Weigel-Jech |
 
 ---
 

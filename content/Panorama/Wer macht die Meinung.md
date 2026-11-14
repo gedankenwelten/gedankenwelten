@@ -2,7 +2,7 @@
 title: "Wer macht die Meinung?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-11-08
+aktualisiert: 2026-11-14
 description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
 raetsel: "Das Band läuft aus der Presse in tausend Hände. Wo fängt der Satz an?"
 panorama-art: wachsend
@@ -52,6 +52,8 @@ Was eine Absicht ausrichten kann, die sich der Routine bedient, lässt sich an e
 
 Wie eine Absicht in die Routine übergeht, bis sie keinen Befehl mehr braucht, lässt sich an einem historischen Fall in den Akten verfolgen. Im Zweiten Weltkrieg kamen die Nachrichten über den Mord an den europäischen Juden laufend in London an, die meisten aus dem polnischen Untergrund. Der Informationsminister Brendan Bracken beriet die Redakteure, wie Gräuel darzustellen seien, eine Richtlinie riet auf Empfehlung des Außenministeriums von Berichten über Gräueltaten ab, und die großen Zeitungen spielten den Holocaust herunter, während eine kleine Beilage im Londoner East End die ganze Geschichte druckte. Eine strenge Zensur brauchte es nicht, sagt der Historiker Michael Fleming; die Zurückhaltung war unter den Redakteuren zum gesunden Menschenverstand geworden ([[Michael Fleming — Was die Alliierten wussten#Zensur, die niemand befehlen musste|Fleming]]; Fleming 2014, Fachaufsatz, [Fleming 2014](https://doi.org/10.1093/hgs/dcu014)).
 
+Ein Teil der Schlagseite braucht weder Besitzer noch Absicht, nur Leser. In einem Experiment in 17 Ländern reagierten Menschen körperlich stärker auf negative als auf positive Fernsehnachrichten, mit großen Unterschieden zwischen den Einzelnen ([Soroka, Fournier & Nir 2019](https://doi.org/10.1073/pnas.1908369116), Experiment). Bei rund 105.000 getesteten Schlagzeilen hob jedes negative Wort die Klickrate um 2,3 Prozent ([Robertson u. a. 2023](https://doi.org/10.1038/s41562-023-01538-4), Feldexperimente, Robustheit in einer Nachprüfung angefochten). Wer nach Reichweite misst, bekommt die Negativität also mitgeliefert. Das Gegenprogramm, lösungsorientierter Journalismus, hebt verlässlich die Stimmung und das Gefühl, selbst etwas bewirken zu können, beim Vertrauen ist das Bild uneinheitlich ([McIntyre & Lough 2023](https://doi.org/10.1177/07395329231187622), systematische Übersicht); und seine deutschen Vertreter wollen öfter als andere Journalisten Wandel anstoßen ([Krüger u. a. 2022](https://doi.org/10.17645/mac.v10i3.5300), Befragung). Auch das Gute hat eine Richtung.
+
 **Die Stimmen**
 
 - **[[Rainer Mausfeld — Warum schweigen die Lämmer#Wo trägt die Medienkritik?|Rainer Mausfeld]]:** Medien sind Teil des Meinungsmanagements, das die Wut auf Ablenkziele lenkt; seine Leitfrage: „Wer will mich eigentlich mit welchem Zweck zu was verpflichten?“
@@ -63,7 +65,9 @@ Wie eine Absicht in die Routine übergeht, bis sie keinen Befehl mehr braucht, l
 - **[[Michael Fleming — Was die Alliierten wussten#Zensur, die niemand befehlen musste|Michael Fleming]]:** Im London von 1942 stehen beide in den Akten, der Minister, der die Redakteure berät, und die Routine, die danach von selbst läuft: Zweifel wurden „in das Wissenssystem eingebaut“, und die Menschen taten es automatisch.
 - **[[FRONTLINE — Bannons War#Erzähler oder Strippenzieher wie misst man die Macht eines Netzwerkers?|Steve Bannon]]:** „I’m not a puppet master“, sagt der Mann, der die Medien zur Oppositionspartei erklärt und sie mit „flood the zone“ überfordern will; seine Macht liegt im Themensetzen über die Routine, in Europa trug sie kaum.
 
-<details><summary>Weitere Stimmen (7)</summary>
+<details><summary>Weitere Stimmen (8)</summary>
+
+- **[[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Warum reden wir nur über Probleme?|Michael Weigel-Jech]]:** Die Neigung zum Problemreden sitze weniger in den Medien als in einer Erziehung zum „nie genug“; er will „in Lösungen sprechen“, gesagt in einem Werbegespräch für seine eigene Firma.
 
 - **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Der Mechanismus Nachrichtenfaktoren als Teufelskreis|Staiy]]:** Verzerrung entsteht aus ökonomischem Druck, nicht aus böser Absicht, und gerade das macht sie schwer zu durchbrechen.
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#Neutralität vs. Objektivität — Warum echte Neutralität eine Lüge ist|Torsten Heinrich]]:** „Wirkliche Neutralität gibt es nur bei Dingen, die dich überhaupt nicht interessieren“; die Wortwahl verrät die Position, also soll man sie offenlegen.
@@ -209,6 +213,7 @@ Politisch aber formt Unterhaltung. In italienischen Gemeinden, die Berlusconis M
 | 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Wen erreicht das Falsche? Konzentration auf wenige (Grinberg u. a. 2019), kaum Stimmenverschiebung (Allcott & Gentzkow 2017), aber Vertrauensverlust in Wahlen (Berlinski u. a. 2021, Clayton u. a. 2021); pauschaler Alarm stärkt den Ruf nach Redeverboten (Jungherr & Rauchfleisch 2024) |
 | 07.11.2026 | [[Michael Fleming — Was die Alliierten wussten#Zensur, die niemand befehlen musste\|Michael Fleming — Was die Alliierten wussten]] | Stimme ohne eigene Nachbesprechung: beratende, verinnerlichte Zensur in London 1942–44 (Bracken, BBC-Richtlinie, Times vs. Polish Jewish Observer) · Fleming 2014 |
 | 08.11.2026 | [[Fediverse - Die digitale Allmende#Nachbesprechung|Fediverse — Die digitale Allmende]] | Trägt sich eine Allmende im Netz? (Raman u. a. 2019, Anaobi u. a. 2023, Frey & Sumner 2019, Halfaker u. a. 2013; Gemeinnützigkeit entzogen 2024, Sovereign Tech Fund 2026, IFTAS 2025) · Warum bleibt man, wo man ist? (He u. a. 2023, Ng & Ray 2025, Wang u. a. 2026, Quelle u. a. 2025, Fiesler & Dym 2020); Sachstand und Stimme in „Wem gehört die Öffentlichkeit?“ |
+| 14.11.2026 | [[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Nachbesprechung\|Breaking Lab — SmarAct und die Welt des Allerkleinsten]] | Lenkt die Routine: Negativität als Nachrichtenfaktor ohne Absicht (Soroka u. a. 2019, Robertson u. a. 2023), konstruktiver Journalismus und seine Richtung (McIntyre & Lough 2023, Krüger u. a. 2022); Stimme Weigel-Jech |
 
 ---
 

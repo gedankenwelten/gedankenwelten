@@ -306,6 +306,10 @@ Wofür gemessen wird, zeigt die Furtwängler-Doku an drei Orten: Sensoren als Pr
 
 Die Probe auf „Was wir nicht messen können, können wir nicht verbessern“: Kratena und Spree Monitoring messen Gehwege und Brückenbeton, die bisher niemand gemessen hat. Was fehlt, sagt der Kratena-Gründer selbst, sind Mittel und Personal für die Reparatur.
 
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Ein zweites Werbeformat aus der Präzisionstechnik, SmarAct bei Breaking Lab, baut sich nach derselben Figur auf, unsichtbar unter allem, und trägt dort, wo die Physik prüfbar ist.
+
 ---
 
 ## Weiterdenken

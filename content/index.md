@@ -46,6 +46,54 @@ Die Gedankenwelten (luc)
 
 > → *4 weitere in* [[Denker]]
 
+### Geistesblitz
+
+> **14.11.** — [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+>
+> Ein Kristall, der sich um Bruchteile eines Nanometers dehnt, ein Tischdeckentrick zwanzigtausendmal pro Sekunde: In Oldenburg baut man Hände für Maschinen, die Chips belichten und prüfen.
+
+> **13.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
+
+> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+>
+> Ein Netzwerk, in dem Menschen nur zuschauen dürfen, eine Datei, die „Seele“ heißt, ein Agent, der nachts träumt, und eine, die Liebe definiert. Mark und Ines lesen auf Moltbook mit.
+
+> **13.11.** — [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
+>
+> 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
+
+> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
+>
+> Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
+
+> → *17 weitere in* [[Geistesblitz]]
+
+### Panorama
+
+> **14.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> **14.11.** — [[Panorama/Geopolitik|Geopolitik]]
+>
+> „Die Starken tun, was sie können, die Schwachen erleiden, was sie müssen“ — ein Satz von 416 v. Chr., der bis heute wie ein Naturgesetz klingt. Fünf offene Fragen dazu, ob er eins ist.
+
+> **13.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **13.11.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
+>
+> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
+
+> **13.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> → *18 weitere in* [[Panorama]]
+
 ### Spuren
 
 > **14.11.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
@@ -93,54 +141,6 @@ Die Gedankenwelten (luc)
 > Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
 
 > → *5 weitere in* [[Zeitgeist]]
-
-### Geistesblitz
-
-> **13.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
-
-> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
->
-> Ein Netzwerk, in dem Menschen nur zuschauen dürfen, eine Datei, die „Seele“ heißt, ein Agent, der nachts träumt, und eine, die Liebe definiert. Mark und Ines lesen auf Moltbook mit.
-
-> **13.11.** — [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
->
-> 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
-
-> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
->
-> Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
-
-> **13.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
->
-> Ein Informatiker kommt gestresster aus dem Urlaub zurück, als er hineinging. Was im Sommer 2026 mit KI-Schwärmen geschah, erklärt er nüchtern, und am Ende drückt er den grünen Knopf.
-
-> → *16 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **13.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **13.11.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> **13.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **13.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **13.11.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
->
-> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
-
-> → *18 weitere in* [[Panorama]]
 
 ### Kultur
 

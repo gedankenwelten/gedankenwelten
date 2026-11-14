@@ -150,3 +150,7 @@ Dass ein unsicherer Aufenthalt selbst Kriminalität erzeugt, belegt [[BissenBlaB
 
 ### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 Walburg liefert die kriminologische Rechnung zu Emekas Fall: Wer Menschen, die bleiben werden, Arbeit und Status verweigert, erzeugt die Lage, die man mit Kriminalität verbindet. Der Spurwechsel ist bei ihm darum auch eine Frage der Sicherheit.
+
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Dieselbe Klage über das Visaverfahren kommt aus einem Oldenburger Hightech-Betrieb, der im „Schnellverfahren“ knapp ein Dreivierteljahr auf einen Ingenieur wartete.

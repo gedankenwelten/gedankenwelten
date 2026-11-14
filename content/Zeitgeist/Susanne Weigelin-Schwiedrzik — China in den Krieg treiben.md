@@ -356,6 +356,10 @@ Der Magnet, um den hier gepokert wird, hat einen Erfinder: Masato Sagawa, 2024 i
 
 Die Kosten der Sanktionen für die Bevölkerung führt der AfD-Abgeordnete Rainer Rothfuß mit einer Lancet-Studie über 564.000 Todesfälle im Jahr an und macht daraus ein Völkerrechtsargument gegen das Kuba-Embargo.
 
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Wie es sich auf der Zulieferseite anfühlt, wenn Chips zum Hebel werden, sagt der Chef eines Oldenburger Herstellers von Positioniersystemen für Chipmaschinen in einem Halbsatz: „wer darf eigentlich was wohin liefern“.
+
 ---
 
 ## Weiterdenken

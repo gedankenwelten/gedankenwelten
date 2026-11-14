@@ -1414,3 +1414,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Helmut Leitner
 **Status:** ✓ Vollanalyse → [[DenkerVita/Helmut Leitner]]
+
+## Michael Weigel-Jech
+**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Weigel-Jech]]

@@ -337,6 +337,10 @@ Woher die Formel stammt und wofür sie gedacht war: Bannon setzt auf die begrenz
 ### → [[Panorama/Kann die Mitte auf TikTok mithalten|Kann die Mitte auf TikTok mithalten?]]
 Dieselbe Mechanik in der Politik: Warum die Ränder auf TikTok vorn liegen, und warum Empörung zwar Klicks bringt, aber nachweislich keine Wahlen gewinnt.
 
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Das umgekehrte Rezept, „wir müssen in Lösungen sprechen“, empfiehlt ein Firmenchef bei Breaking Lab; Crocketts Befund erklärt, warum das Benennen von Problemen trotzdem eine Aufgabe hat.
+
 ---
 
 ## Weiterdenken

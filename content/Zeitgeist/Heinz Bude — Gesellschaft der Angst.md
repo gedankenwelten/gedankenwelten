@@ -258,3 +258,6 @@ Walburg zeigt Budes kollektives Misstrauen an einem Fall: Die Sorge um Kriminali
 
 Zehn Jahre später erzählt Bude in Lüneburg, er habe 2020 „die Angst der Leute übernommen“ — und Jagoda Marinić hält ihm entgegen, niemand könne die Ängste von 83 Millionen übernehmen. Dazu das Strategiepapier mit seiner „Schockwirkung“.
 
+### → [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+
+Ein Unternehmer aus genau dieser Generation, Jahrgang 1978, beschreibt bei Breaking Lab seine Prägung als „nie genug“ und sieht darin die deutsche Neigung, in Problemen zu sprechen.
