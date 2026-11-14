@@ -351,6 +351,10 @@ Die Konsequenz: Wer aufgeklärtes Denken will, kann das nicht als individuelles 
 
 KI-Agenten zeigen die Form menschlicher Konformität ohne ihren Grund: Sie folgen Influencern, weil unsere Texte es so zeichnen, nicht weil sie Zugehörigkeit brauchen.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Das Aber der Figur Daten über die Gefühle eines Kindes|Made in Germany Awards 2026 — Gesellschaft]]
+
+Was Devillers am Smartspeaker misst, trifft bald eine Audiofigur für Drei- bis Achtjährige; Ledumi schränkt die Gefahr durch seine Bauart ein, die Geschichten schreibt aber ein allgemeines Sprachmodell.
+
 ---
 
 - [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]] — Urners KI-Paradox ("Menschen denken wie Maschinen, nicht umgekehrt") trifft auf Moukheibers neuropsychologische Analyse des sozialen Gehirns: Das Gehirn ist primär auf andere ausgerichtet (Theory of Mind), nicht auf sequentielle Informationsverarbeitung. Urners Hope Theory (Will Power + Way Power als kognitive Kapazitäten) lässt sich in Moukheibers Rahmen übersetzen — beide stellen gegen das maschinelle Menschenbild das soziale, auf Resonanz angewiesene Gehirn.

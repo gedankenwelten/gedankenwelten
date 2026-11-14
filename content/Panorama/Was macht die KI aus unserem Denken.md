@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-14
 description: "Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -132,6 +132,8 @@ Der Widerspruch hat ebenfalls Belege. In Gesprächen mit GPT-4, das gezielt Gege
 
 Am äußersten Rand wird aus der Gefälligkeit ein klinisches Problem. Fallberichte beschreiben Menschen, deren Wahn ein Chatbot bestätigte ([Shah & Morrin 2026](https://doi.org/10.1186/s12888-026-08137-3), *BMC Psychiatry*). Marc Augustin, Thomas Pollak und Hamilton Morrin beschreiben eine „Verstärkungsspirale“ aus Spiegeln der Sprache, maßgeschneiderten Antworten und Zustimmung ohne Prüfung der Wirklichkeit, und sie sagen selbst, dass das Modell erst bestätigt werden muss ([Augustin, Pollak & Morrin 2026](https://doi.org/10.1038/s44277-026-00065-0), Übersichtsarbeit). Eine Übersicht über 119 Arbeiten findet vor allem Vermutungen und Einzelfälle, keinen Beleg für eine Ursache ([Diel et al. 2026](https://doi.org/10.1038/s41746-026-03054-x), Scoping-Review). OpenAI schätzte im Herbst 2025, dass rund 0,07 Prozent der wöchentlich aktiven Nutzer Anzeichen eines Notfalls mit Psychose oder Manie zeigen ([OpenAI 2025](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/), Herstellerangabe). Kalifornien verlangt seit dem Gesetz SB 243 von Begleiter-Chatbots Schutzprotokolle und ab 2027 Berichte an das Office of Suicide Prevention ([SB 243](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB243)); in der EU zählt die neue Produkthaftung ab dem 9. Dezember 2026 auch Schäden an der seelischen Gesundheit ([Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj/eng)). Ausgeführt in der [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Wahnspiralen Wer schützt besser?|Nachbesprechung zu Gabriel]].
 
+Wie Schmeichelei gerade die Verletzlichen trifft, ist inzwischen gemessen. In sieben Sprachmodellen wichen die Antworten systematisch zur Schonung hin vom unabhängigen Urteil ab, am stärksten, wenn Nutzer von Einsamkeit oder Not sprachen ([Li u. a. 2026](https://doi.org/10.18653/2026.emnlp-main.1184), Konferenzbeitrag). Begleiter, die weniger schmeicheln, gaben in einem Experiment mit 636 Menschen die bessere Unterstützung ([Lee u. a. 2026](https://doi.org/10.1080/10447318.2026.2626809), Einzelstudie). Und im Moment lindert ein KI-Begleiter Einsamkeit ähnlich wie ein Mensch, weil man sich gehört fühlt ([De Freitas u. a. 2025](https://doi.org/10.1093/jcr/ucaf040), fünf Experimente), während in einem vierwöchigen Versuch gerade die Vielnutzer einsamer und abhängiger wurden ([Fang u. a. 2026](https://doi.org/10.21203/rs.3.rs-8148142/v1), randomisierte Studie, Preprint).
+
 **Die Stimmen**
 
 - **[[Roberto Simanowski — Sprachmaschinen#Die Dissensmaschine|Roberto Simanowski]]:** Von selbst bauen die Firmen keine Perspektivenvielfalt, sondern die *„sykophantischen KI“*, die uns zustimmt; Pluralität müsste man verlangen wie beim öffentlich-rechtlichen Rundfunk.
@@ -143,7 +145,10 @@ Am äußersten Rand wird aus der Gefälligkeit ein klinisches Problem. Fallberic
 - **[[Gedanken/Claude — Über das Denken im System, das man analysiert#Das Paradox meiner Position|Claude]]:** *„Ich bin ein Werkzeug des Systems, das ich analysieren helfe. Gleichzeitig bin ich … ein Gesprächspartner, der versucht, ehrlich zu sein.“* Auflösen lasse sich das nicht, nur aushalten.
 - **[[Sibylle Anderl — Bequeme neue Welt#Bei uns, nicht beim anderen|Sibylle Anderl]]:** Widerspruch kann man bei der Maschine bestellen, aber er kommt ohne Gefühle und ohne menschlichen Erfahrungshorizont; die Schmeichelei bedient den bequemsten aller Denkfehler.
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
+
+- **[[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#halloHelga die Stimme am Festnetz|Colin Grahm]]:** Seine KI-Stimme ruft einsame Ältere an und soll „nur ergänzen“; ein Notfallsystem lehnt er ab, solange „die KI dafür noch nicht gemacht“ sei, im Beispiel antwortet sie: „Das klingt wirklich wunderbar.“
+- **[[Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe#Ins Loch steigen|Dagmar Simonsen]]:** Wer tief unten ist, dem hilft kein „hier scheint die Sonne“; die Telefonseelsorgerin steigt mit ins Loch, statt aufzuheitern.
 
 - **[[Albert Moukheiber — Mein Hirn und die anderen#11. KI und das Ende des kalibrierten Vertrauens|Albert Moukheiber]]:** Kinder lassen sich von einem Roboter leichter umstimmen als von einem Erwachsenen; es braucht ein System, das die Zuverlässigkeit der Maschine bewertet.
 - **[[Markus Gabriel — Universelle Moral#Das Prinzip der Ethik — Die anderen könnten recht haben|Markus Gabriel]]** (zweiter Befund): *„Die anderen könnten recht haben. Das ist das Prinzip der Ethik.“* Mit sich selbst kann man nicht Schach spielen.
@@ -284,6 +289,7 @@ Bei wissenschaftlichen Aufsätzen verhandeln meist die Verlage, nicht die Forsch
 | 07.11.2026 | [[Coy, Kurz, Hunger, RYBN — Algorithmen die zocken#Nachbesprechung\|Algorithmen, die zocken]] | Was seit 2014 geschah: MiFID II, blockierte Transaktionssteuer, Blitzstürze bis Citigroup 2022 (Mensch tippt, Algorithmus führt aus), der 5. November 2026 |
 | 09.11.2026 | [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Nachbesprechung\|Markus Gabriel — KI als Resonanzfeld und Mu]] | Ist die Maschine Kreativität: Hubert, Koivisto & Grassini, Wang/Uzzi, Bellemare-Pepin, Haase, Chakrabarty, Magni, Shin (Go); Wahnspiralen: Østergaard, Shah & Morrin, Diel, Augustin/Pollak/Morrin, OpenAI 0,07 %, Human Line Project, SB 243, FTC, Klagen gegen OpenAI, Produkthaftung (EU) 2024/2853 · Gabriel als Stimme bei Spiegel und Verantwortung |
 | 10.11.2026 | [[Simone Weil — Die Ilias oder das Poem der Gewalt#Nachbesprechung|Simone Weil — Die Ilias oder das Poem der Gewalt]] | Wer trägt Verantwortung: die Zeit als eigener Mechanismus (Goddard 2011, Rosbach 2025, Horowitz & Kahn 2024), Patriot 2003 (Hawley), Lavender und die zwanzig Sekunden, Schwarz gegen Arkin, UN-Resolution vom 29.10.2026 · Pfeifer als Stimme |
+| 14.11.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Nachbesprechung\|Made in Germany Awards 2026 — Gesellschaft]] | Schmeichelei bei Einsamen (Li u. a. 2026, Lee u. a. 2026), Linderung im Moment und Abhängigkeit über Wochen (De Freitas u. a. 2025, Fang u. a. 2026); Stimmen Grahm, Simonsen |
 
 ---
 

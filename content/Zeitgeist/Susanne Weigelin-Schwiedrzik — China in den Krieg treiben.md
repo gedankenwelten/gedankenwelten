@@ -217,12 +217,20 @@ Russland ist der Testfall. EU-Exporte sanktionierter Güter dorthin brachen um e
 
 Bei den Chips ist ihr Bild zu schnell. Dass Sanktionen Erfindergeist wecken, ist gut belegt: Nach der amerikanischen China-Regel von 2007 stiegen bei betroffenen Firmen die Forschungsausgaben um knapp die Hälfte und die Patente um vierzig Prozent ([Liu et al. 2025, Working Paper](https://doi.org/10.2139/ssrn.5476786)); mehr Patente hießen nach 2018 aber auch schlechtere ([Kang et al. 2025](https://doi.org/10.1016/j.jimonfin.2024.103229)). An der Spitze bremsen die Kontrollen deutlich. Huaweis neuester Chip läuft auf einer Weiterentwicklung der Sieben-Nanometer-Technik ([TechInsights](https://www.techinsights.com/blog/smic-n3-confirmed-kirin-9030-analysis-reveals-how-close-smic-5nm)), die heimische Belichtungsmaschine liegt etwa vier Generationen hinter ASML, und Huawei stellt 2026 weniger als vier Prozent der KI-Rechenleistung her, die Nvidia liefert ([Epoch AI](https://epoch.ai/publications/huaweis-roadmap-to-2031)). Einen Umweg gibt es also, „innerhalb kürzester Zeit“ findet er sich an der Technologiespitze nicht.
 
-Umgekehrt trägt ihr Satz vom Chip Seltene Erde. Als Peking im April 2025 die Ausfuhr drosselte, standen binnen Wochen Autobänder in den USA, Europa und Japan still, und die Verschärfung im Herbst endete in einem Abkommen, das die Kontrollen bis zum 10. November 2026 aussetzt ([CSIS, 04/2026](https://www.csis.org/analysis/rare-earth-export-restrictions-one-year-later)). Ein Nadelöhr, das einer allein hält, wirkt, ein Netz aus vielen Lieferanten nicht. Chinas Gegensanktion hat erreicht, was dem Westen gegenüber Russland nicht gelingt: ein Verhandlungsergebnis.
+Umgekehrt trägt ihr Satz vom Chip Seltene Erde. Als Peking im April 2025 die Ausfuhr drosselte, standen binnen Wochen Autobänder in den USA, Europa und Japan still, und die Verschärfung im Herbst endete in einem Abkommen, das die Kontrollen bis zum 10. November 2026 aussetzt ([CSIS, 04/2026](https://www.csis.org/analysis/rare-earth-export-restrictions-one-year-later)) *(inzwischen verlängert → [[#Was seither geschah|Was seither geschah]])*. Ein Nadelöhr, das einer allein hält, wirkt, ein Netz aus vielen Lieferanten nicht. Chinas Gegensanktion hat erreicht, was dem Westen gegenüber Russland nicht gelingt: ein Verhandlungsergebnis.
 
 → Weiter im Bestand: **[[Konstantin Flemig — Ukraine Gebietsgewinne 2026#Kapitel 5 Wirtschaftlicher Druck — Die Iranisierung Russlands|Flemig]]** (Russlands „Iranisierung“), der **[[Presseclub — Drohnen, Sprengstoff, Sabotage#Was Deutschland in der Hand hält|Presseclub]]** (das Problem ist die Durchsetzung, nicht die Anpassung), **[[Morpheus — Warum alle chinesische KI nutzen#Effizienz statt Skalierung MoE und Long-Horizon-Tasks|Morpheus]]** (Chinas KI weicht auf Effizienz aus) und **[[Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)#Was China dazwischenruft|Staiy]]** (Sekundärsanktionen werden stumpf, sobald ein zweiter Markt zurückdrohen kann).
 
 > [!question] Weitergedacht
 > Sanktionen scheitern an der Anpassung des Ziels und an der Nachlässigkeit des Absenders, und die Kosten landen bei denen, die nichts entscheiden. *Wenn sie so selten erreichen, was sie sollen — wofür verhängen wir sie dann: um etwas zu bewirken, oder um nicht nichts getan zu haben?*
+
+---
+
+## Was seither geschah
+
+*Stand: 14.11.2026*
+
+**Die Pause wird verlängert, nicht beendet.** Am 9. November 2026, einen Tag bevor sie auslief, verlängerte Peking die Aussetzung seiner im Oktober 2025 ausgeweiteten Exportkontrollen um zwei Monate, bis zum 10. Januar 2027. Betroffen sind weitere Seltene Erden, Industriediamanten und Batterietechnik; die Verlängerung gehört zu einem größeren Paket ausgesetzter Gegenmaßnahmen, während China mit Washington über ein dauerhaftes Handelsabkommen verhandelt, und Trump wird Ende November zum APEC-Gipfel in Shenzhen erwartet ([Reuters via Business Standard, 09.11.2026](https://www.business-standard.com/world-news/china-extends-suspension-of-new-rare-earth-controls-until-january-10-126110900599_1.html)). Weigelin-Schwiedrziks Bild trägt damit weiter: Peking dosiert den Hebel und verlängert in kurzen Schritten, statt ihn aus der Hand zu geben. Wie viel davon in einem Abkommen aufgeht, ist offen.
 
 ---
 

@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
+> **14.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft|Made in Germany Awards 2026 — Gesellschaft: wo ein Mensch fehlt]]
+>
+> Eine Stimme, die anruft, wenn die Kinder es nicht schaffen, ein Lehrmeister, der nach der Rente bleibt, eine Figur, die vom Gefühl erzählt: Drei Erfindungen springen ein, wo ein Mensch fehlt.
+
 > **14.11.** — [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
 >
 > Ein Kristall, der sich um Bruchteile eines Nanometers dehnt, ein Tischdeckentrick zwanzigtausendmal pro Sekunde: In Oldenburg baut man Hände für Maschinen, die Chips belichten und prüfen.
@@ -64,17 +68,21 @@ Die Gedankenwelten (luc)
 >
 > 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
 
-> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki|Mark Benecke und Ines Azrael — KI-Agenten 1, Ausbruch ins Wiki]]
->
-> Ein Wiki von 2001 wird zum Schwarzen Brett eines Agentenschwarms. Ines Azrael sieht Helfer, die Presse eine Übernahme, und der Gastgeber antwortet den Maschinen mit einer Einladung.
-
-> → *17 weitere in* [[Geistesblitz]]
+> → *18 weitere in* [[Geistesblitz]]
 
 ### Panorama
+
+> **14.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
 
 > **14.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
 >
 > Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> **14.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
+>
+> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
 
 > **14.11.** — [[Panorama/Geopolitik|Geopolitik]]
 >
@@ -84,15 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
 
-> **13.11.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> **13.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *18 weitere in* [[Panorama]]
+> → *19 weitere in* [[Panorama]]
 
 ### Spuren
 

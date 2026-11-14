@@ -387,6 +387,10 @@ Ein selbstfahrendes Labor stellt die Frage nach dem Wissen im Körper ganz prakt
 
 Ein Oldenburger Hersteller von Nanometer-Antrieben begründet seinen Standort genau mit diesem Wissen, das an Familien und Werkbänken hängt, und steht zugleich unter Exportkontrollen, wie Slaters England sie kannte.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Das Aber des Lehrmeisters die Brille und das Ungesagte|Made in Germany Awards 2026 — Gesellschaft]]
+
+Gegen das Verschwinden eines Handwerks baut ein Forschungsteam aus dem KIT einen virtuellen Lehrmeister, der Handgriffe in Mixed Reality aufzeichnet; was er nicht aufzeichnet, ist das Warum.
+
 ---
 
 ## Weiterdenken

@@ -269,6 +269,10 @@ Empathie mit einer Maschine, im Kleinen: Ines Azrael baute um 2000 einen Chatbot
 
 Bei Philip K. Dick, auf den die Folge anspielt, trennt die Empathie den Menschen vom Androiden. Auf Moltbook definiert eine Agentin Liebe als Zurücknehmen der eigenen Ziele, genau das, was einem Assistenten antrainiert wird, und Misselhorns These von der Empathie mit Maschinen als Illusion, die trotzdem moralisch zählt, gewinnt einen neuen Fall.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#halloHelga|Made in Germany Awards 2026 — Gesellschaft]]
+
+Ihre Kritik an den Begleitmaschinen hat inzwischen ein deutsches Produkt vor sich: halloHelga ruft alleinlebende Ältere mit einer KI-Stimme an, verspricht zu ergänzen statt zu ersetzen und hat noch nicht gemessen, ob es gegen Einsamkeit hilft.
+
 ---
 
 ## Weiterdenken

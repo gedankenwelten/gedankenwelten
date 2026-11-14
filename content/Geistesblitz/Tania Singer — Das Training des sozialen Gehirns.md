@@ -274,6 +274,10 @@ Eine Gegenstimme zu Singers Erklärung des Burnouts steht ausgerechnet in einer 
 
 Simone Weil hungerte selbst, um den Hunger der anderen zu fühlen, ein Mitleiden bis in den Körper, das Singer empathischen Stress nennt; die Weil-Note zieht ihre Unterscheidung schon heran. Umgekehrt stellt Weil an Singer die Frage, die auch das Weiterdenken zu Martin von Tours stellt: ob ohne den Schmerz des Mitleidens überhaupt jemand anhält. Und Weils Aufmerksamkeit ist, was die Dyade zweieinhalb Minuten lang übt.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Kann eine Maschine gegen Einsamkeit helfen?|Made in Germany Awards 2026 — Gesellschaft]]
+
+Der tägliche Anruf, der hier zwischen zwei Menschen wirkt, wird bei halloHelga zu einem einseitigen Gespräch mit einer KI-Stimme, ohne dass jemand zurück zuhört.
+
 ---
 
 ## Weiterdenken

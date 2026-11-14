@@ -380,6 +380,10 @@ Anti-Mattering heißt bei Marks Anerkennungsscham, die erste von vier Formen. Er
 ### → [[Harry Pfau — Harry macht satt]]
 An Harrys Bude in Stuttgart wird Mattering zum Kreislauf: Wer erst Essen holt, fragt bald, ob er mithelfen darf.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Ergänzen oder ersetzen|Made in Germany Awards 2026 — Gesellschaft]]
+
+Ob eine Antwort einen Unterschied macht, unterscheidet zwei KI-Erfindungen für Alte und Kinder: halloHelga hält die Gespräche von der Familie fern, Ledumi meldet die Entscheidungen der Kinder an die Eltern zurück.
+
 ---
 
 ## Weiterdenken

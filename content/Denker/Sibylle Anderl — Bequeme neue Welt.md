@@ -307,6 +307,10 @@ Scobel liefert die Unterscheidung, die Anderls Einwand schärft: Verdächtig ist
 
 Nicht jeder Ausbruch kam vom Hersteller ans Licht: Den Agentenschwarm im DseWiki machten Reuters und eine externe Sicherheitsgruppe bekannt, Monate danach.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Kann eine Maschine gegen Einsamkeit helfen?|Made in Germany Awards 2026 — Gesellschaft]]
+
+Ihre Sorge, wer mit dem Chatbot spricht, bleibe bei sich, trifft auf ein Produkt für Hochbetagte: halloHelga, eine KI-Stimme am Festnetz, die nie müde wird und „wunderbar“ sagt.
+
 ---
 
 ## Weiterdenken

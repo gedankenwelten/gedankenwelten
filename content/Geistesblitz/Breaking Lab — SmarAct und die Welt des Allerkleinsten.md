@@ -288,6 +288,10 @@ Dasselbe Nadelöhr von der anderen Seite. Weigel-Jech wartete im Schnellverfahre
 
 Der Schaden des Hypes liegt für Neitzel und Iltisberger darin, dass auf vermeintliche Gewissheiten lange bindende Entscheidungen folgen. Die Vier- bis Zwanzigfachungen, die SmarActs Kunden erwarten, und der Ausbau der Kapazität sind so eine Entscheidung, die 23 Prozent im Intro eine Prognose, erzählt als feste Kurve. Gerecht bleibt die Verbindung, wenn man festhält, dass Weigel-Jech selbst vorsichtiger spricht und den Hype ein „Gefühl“ nennt.
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#SKI²LL-AI der Lehrmeister, der bleibt|Made in Germany Awards 2026 — Gesellschaft]]
+
+Dass Wissen an Menschen haftet, ist auch die Wette hinter SKI²LL-AI, einem virtuellen Lehrmeister, der Handgriffe von Fachkräften vor der Rente aufzeichnet; dort stellt die Jury das große Aber, nicht der Gast.
+
 ---
 
 ## Weiterdenken

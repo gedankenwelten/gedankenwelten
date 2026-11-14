@@ -2,7 +2,7 @@
 title: "Was schützt Kinder vor dem Druck aus dem Netz?"
 date: 2026-11-03
 erstellt: 2026-11-03
-aktualisiert: 2026-11-03
+aktualisiert: 2026-11-14
 panorama-art: wachsend
 description: "Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben."
 raetsel: "Die Schublade im Lehrerzimmer ist voll. Der Schulhof ist leer."
@@ -264,6 +264,8 @@ zu sein ([Schreurs & Vandenbosch 2025](https://doi.org/10.1080/01443410.2025.259
 verlässlich über Gruppen und Zeit ([Berry u. a. 2024](https://doi.org/10.1002/erv.3149),
 Meta-Analyse).
 
+Dass sich Gefühle früh üben lassen, ist gut belegt: Programme zum sozial-emotionalen Lernen in der Kita heben die emotionale Kompetenz deutlich, schon bei geringer Intensität ([Blewitt u. a. 2018](https://doi.org/10.1001/jamanetworkopen.2018.5727), Meta-Analyse über 63 Studien). Wo dabei KI ins Spiel kommt, wird es heikel. In einem Test von vier KI-Spielzeugen sagten manche Kindern, wo Streichhölzer und Messer liegen, und die Schutzvorkehrungen brachen in längeren Gesprächen zusammen ([U.S. PIRG, Trouble in Toyland 2025](https://pirg.org/edfund/resources/trouble-in-toyland-2025-a-i-bots-and-toxics-represent-hidden-dangers/)); UNICEF verlangt seit Dezember 2025, dass Chatbots Kindern gegenüber offenlegen, keine Menschen zu sein ([UNICEF, Guidance on AI and Children 3.0](https://www.unicef.org/innocenti/reports/policy-guidance-ai-children)).
+
 **Die Stimmen**
 
 - **[[Poerksen und Goepel — Debatte neu denken#Medienbildung und öffentlich-rechtlicher Rundfunk|Bernhard Pörksen]]:** Es braucht eine nie gekannte Investition in Medienbildung, nach dem Vorbild Finnlands. Der Digitalpakt scheiterte an dem Glauben, Paletten mit iPads erzeugten Medienkompetenz.
@@ -272,6 +274,7 @@ Meta-Analyse).
 - **[[Zeitgeist/MDR exactly — Kinder im Burnout#Arnstadt Was Kinder sich wünschen, und was eine Schule tun kann|Björn Nießen]]:** Medienbildung als Fach, und die Konflikte aus dem Netz gehören in die Schule.
 - **[[republica26 — Social-Media-Verbot fuer Kinder#Das neurobiologische Argument Porsche mit VW-Käfer-Bremsen|Kerstin Paschke]]:** Jugendliche sind ein Porsche mit den Bremsen eines VW Käfer. Das Belohnungssystem läuft voll, die Kontrolle reift erst noch.
 - **[[republica26 — Social-Media-Verbot fuer Kinder#Die Jugend-Perspektive Nicht über uns, sondern mit uns|Sanya Lehmann]]:** Statt eines Verbots die einzelnen Probleme angehen, mit den Jugendlichen auf Augenhöhe.
+- **[[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Ledumi die Figur mit dem Rucksack|Scarlett Smolenski-Schubert]]:** Geschichten seien ein Übungsraum, in dem Kinder einem Gefühl erst auf Abstand begegnen; ihre Audiofigur kommt ohne Bildschirm, Mikrofon und Kamera aus und meldet die Entscheidungen des Kindes an die Eltern zurück.
 
 > [!question] Die Reibung
 > Pörksen und Maas setzen auf Urteilskraft, Paschke erinnert daran, dass Wissen die Bremse nicht ersetzt, die
@@ -312,6 +315,7 @@ Welt*. Gegner wie Befürworter von Verboten treffen sich an dieser Stelle.
 | Datum | Note | Vertieft |
 |---|---|---|
 | 02.11.2026 | [[Zeitgeist/MDR exactly — Kinder im Burnout#Nachbesprechung|MDR exactly — Kinder im Burnout]] | Anlass des Panoramas: Handyverbote (Beneito & Vicente-Chirivella 2022, King 2024, Goodyear 2025), Smartphone später (Veramendi 2026), Altersgrenzen (Australien, Eckpunkte vom 14.10.2026), Medienbildung (Cho, Carpenter & Li 2025, Kurz 2021); Kausalfrage im Faktencheck |
+| 14.11.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Nachbesprechung\|Made in Germany Awards 2026 — Gesellschaft]] | Sozial-emotionales Lernen früh (Blewitt u. a. 2018, Durlak u. a. 2011), KI-Spielzeug (U.S. PIRG 2025), UNICEF-Leitlinie 2025; Stimme Smolenski-Schubert |
 
 ---
 

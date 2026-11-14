@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Jacob Beautemps / Made in Germany Awards — Kategorie Gesellschaft (Breaking Lab)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Made in Germany Awards: 3 deutsche Erfindungen für eine bessere Zukunft! (ft. Tomatolix)](https://www.youtube.com/watch?v=dahxHv33elY) (Breaking Lab, 10.11.2026) |
+| **Projekte** | [halloHelga](https://hallo-helga.com/) · [SKI²LL-AI / Immersive Creators](https://silly-curiosity-c58.notion.site/Immersive-Creators-185f4d4da7888009b9d5d76e7cce81f8) · [Ledumi](https://www.ledumi.com/) |
+| **Abstimmung** | [madeingermanyawards.de/voting/gesellschaft](https://www.madeingermanyawards.de/voting/gesellschaft/) (bis in die Show am 23.11.2026) |
+| **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MIGA_Gesellschaft_dahxHv33elY_Transkript.txt` |
+
 ## Michael Weigel-Jech / SmarAct — Präzision im Atom-Bereich (Breaking Lab)
 
 | | |
