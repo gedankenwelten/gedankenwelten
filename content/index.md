@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
+>
+> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
+
+> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
+>
+> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
+
+> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
+>
+> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
+
+> **13.11.** — [[Denker/Steffen Mau — Spaltung der Gesellschaft|Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft]]
+>
+> Keine Spaltung durch die Mitte, aber Radikalisierung und Triggerpunkte, an denen Erregung gezielt geschürt wird. Steffen Mau über eine Gesellschaft, die streitet, ohne zu zerfallen.
+
+> **13.11.** — [[Denker/Erich Fromm — Die Welt lieben, SRF 1979|Erich Fromm — Die Welt lieben (SRF 1979)]]
+>
+> Erhalten kann man das Leben nur, wenn man die Welt liebt. Erich Fromm, ein halbes Jahr vor seinem Tod, über Interesse als Lebenskraft, falsche Propheten und ein Christentum ohne Gott.
+
+> → *4 weitere in* [[Denker]]
+
 ### Zeitgeist
 
 > **13.11.** — [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
@@ -44,31 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
 
-> → *10 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
->
-> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
-
-> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
->
-> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
-
-> **13.11.** — [[Denker/Steffen Mau — Spaltung der Gesellschaft|Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft]]
->
-> Keine Spaltung durch die Mitte, aber Radikalisierung und Triggerpunkte, an denen Erregung gezielt geschürt wird. Steffen Mau über eine Gesellschaft, die streitet, ohne zu zerfallen.
-
-> **13.11.** — [[Denker/Erich Fromm — Die Welt lieben, SRF 1979|Erich Fromm — Die Welt lieben (SRF 1979)]]
->
-> Erhalten kann man das Leben nur, wenn man die Welt liebt. Erich Fromm, ein halbes Jahr vor seinem Tod, über Interesse als Lebenskraft, falsche Propheten und ein Christentum ohne Gott.
-
-> **10.11.** — [[Denker/Simone Weil — Die Ilias oder das Poem der Gewalt|Simone Weil — Die Ilias oder das Poem der Gewalt]]
->
-> Gewalt macht aus dem, der sie erleidet, ein Ding, und aus dem, der sie ausübt, auch. Simone Weils Ilias-Essay, gelesen von einer Gewaltforscherin, die ihm an entscheidender Stelle widerspricht.
-
-> → *3 weitere in* [[Denker]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -116,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
 
-> → *19 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -140,7 +140,7 @@ Die Gedankenwelten (luc)
 >
 > Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?
 
-> → *4 weitere in* [[Spuren]]
+> → *2 weitere in* [[Spuren]]
 
 ### Kultur
 
