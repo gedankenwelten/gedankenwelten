@@ -26,6 +26,17 @@ tags:
 
 </details>
 
+> [!hilfe] Wenn du raus willst
+> In dieser Note geht es um den Ausstieg aus der rechten Szene. Wenn du selbst raus willst oder dir um jemanden Sorgen machst, musst du das nicht allein schaffen. Diese Stellen hören zu, kostenlos und vertraulich:
+>
+> Selbst raus: [EXIT-Deutschland](https://www.exit-deutschland.de/kontakt/), zivil und unabhängig vom Staat · [0228 99792-62](tel:+492289979262) [Aussteigerprogramm des Verfassungsschutzes](https://www.verfassungsschutz.de/DE/service/buerger-und-betroffene/aussteigerprogramm-fuer-rechtsextremisten/aussteigerprogramm-rechtsextremisten_node.html), Tag und Nacht, auch für die linke Szene
+>
+> Sorge um jemanden: [EXIT berät auch Familien](https://www.exit-deutschland.de/beratung/) · rechte Vorfälle in Schule oder Verein: [Mobile Beratung](https://bundesverband-mobile-beratung.de/mobile-beratung/) · bei Islamismus [0911 943 43 43](tel:+499119434343) [Beratungsstelle Radikalisierung](https://www.beratungsstelle-radikalisierung.de/) (Mo–Fr 9–15 Uhr)
+>
+> Nach einem rechten, rassistischen oder antisemitischen Angriff: [Opferberatung in deinem Bundesland](https://verband-brg.de/beratung/), auf Wunsch anonym · [0800 664 52 68](tel:+498006645268) [OFEK](https://www.ofek-beratung.de/beratung-anfragen/) bei Antisemitismus
+>
+> Österreich: [0800 20 20 44](tel:+43800202044) [Beratungsstelle Extremismus](https://www.beratungsstelleextremismus.at/helpline/) (Mo–Fr 10–15 Uhr, auch WhatsApp) · Schweiz: [Anlaufstellen der Kantone](https://www.gegen-radikalisierung.ch/anlaufstellen), oft bei der Polizei
+
 > [!abstract] Worum es geht
 > Hinein kommt man meistens ohne Weltanschauung: über Freunde, eine Jacke, Langeweile, einen Feed. Heraus kommt man selten durch ein Argument, öfter durch ein Kind, eine Partnerin, eine Scham, eine Begegnung — und oft erst nach Jahren. Dieses Panorama fragt nicht, warum Menschen rechts wählen (dafür gibt es [[Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]), sondern wie Einzelne in die Szene geraten und wieder herausfinden. Vier offene Fragen, zu jeder das, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
 

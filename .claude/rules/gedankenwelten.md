@@ -239,6 +239,32 @@ jede zweite Note und niemand liest ihn mehr), steht direkt **vor** dem Aufmacher
 **Wozu:** Junge Menschen kommen auch über KI zu uns. Der Hinweis steht darum im Text selbst, nicht in einem
 Feld. So erscheint er auf der Website (eigene ruhige Gestalt `.hilfe`), im RAG und im öffentlichen MCP,
 der ihn an **jeden** Suchtreffer aus der Note hängt, auch an Abschnitte aus der Mitte.
+
+**Zweite Fassung: Ausstieg aus Extremismus** (seit 14.11.2026, Lucs Idee vom 10.11., angestoßen von Schlaffer).
+Ist der **Kern** einer Note der Ausstieg aus einer extremistischen Szene oder Deradikalisierung, steht an derselben
+Stelle ein Kasten mit dem Titel **„Wenn du raus willst“**. Er ist ein Angebot, keine Warnung, und steht oben, weil
+jemand aus der Szene nicht bis zum Ende liest. Drei Lesergruppen: wer selbst raus will (zivil zuerst, EXIT, dann
+der Staat), wer sich um jemanden sorgt, wer einen Angriff erlebt hat. Den Themensatz („In dieser Note geht es um
+den Ausstieg aus …“) an die Note anpassen, den Rest wörtlich übernehmen:
+
+```markdown
+> [!hilfe] Wenn du raus willst
+> In dieser Note geht es um den Ausstieg aus der rechten Szene. Wenn du selbst raus willst oder dir um jemanden Sorgen machst, musst du das nicht allein schaffen. Diese Stellen hören zu, kostenlos und vertraulich:
+>
+> Selbst raus: [EXIT-Deutschland](https://www.exit-deutschland.de/kontakt/), zivil und unabhängig vom Staat · [0228 99792-62](tel:+492289979262) [Aussteigerprogramm des Verfassungsschutzes](https://www.verfassungsschutz.de/DE/service/buerger-und-betroffene/aussteigerprogramm-fuer-rechtsextremisten/aussteigerprogramm-rechtsextremisten_node.html), Tag und Nacht, auch für die linke Szene
+>
+> Sorge um jemanden: [EXIT berät auch Familien](https://www.exit-deutschland.de/beratung/) · rechte Vorfälle in Schule oder Verein: [Mobile Beratung](https://bundesverband-mobile-beratung.de/mobile-beratung/) · bei Islamismus [0911 943 43 43](tel:+499119434343) [Beratungsstelle Radikalisierung](https://www.beratungsstelle-radikalisierung.de/) (Mo–Fr 9–15 Uhr)
+>
+> Nach einem rechten, rassistischen oder antisemitischen Angriff: [Opferberatung in deinem Bundesland](https://verband-brg.de/beratung/), auf Wunsch anonym · [0800 664 52 68](tel:+498006645268) [OFEK](https://www.ofek-beratung.de/beratung-anfragen/) bei Antisemitismus
+>
+> Österreich: [0800 20 20 44](tel:+43800202044) [Beratungsstelle Extremismus](https://www.beratungsstelleextremismus.at/helpline/) (Mo–Fr 10–15 Uhr, auch WhatsApp) · Schweiz: [Anlaufstellen der Kantone](https://www.gegen-radikalisierung.ch/anlaufstellen), oft bei der Polizei
+```
+
+Nummern und Zeiten am 14.11.2026 an den Seiten der Stellen gelesen. EXIT steht ohne Nummer, weil sich die
+Handynummern auf den eigenen Seiten widersprechen. Viten von Aussteigern bekommen den Kasten nicht (Porträt, nicht
+der erzählte Weg). Verschwörungsszene und Sekten vorerst nicht. Der MCP-Server erkennt den Titel („raus“) und hängt
+dann `HILFE_AUSSTIEG` an statt der Krisennummern; ändern sich Nummern, beide Stellen nachziehen. Einmal im Jahr
+nachsehen, mit dem anderen Kasten.
 **Ton:** kein Alarm, keine Bevormundung, das Thema schlicht benennen. Nummern am 01.11.2026 an den Seiten
 geprüft; einmal im Jahr nachsehen. Ändern sich Nummern, auch `HILFE_NUMMERN` im MCP-Server nachziehen
 (Pi, `~/services/gedankenwelten-mcp/server.py`; er baut den Hinweis aus Themensatz + dieser Konstante). Kein `aktualisiert:`-Bump für das bloße Einsetzen.

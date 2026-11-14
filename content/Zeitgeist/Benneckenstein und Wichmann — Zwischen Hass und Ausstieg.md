@@ -26,6 +26,17 @@ aliases:
 
 </details>
 
+> [!hilfe] Wenn du raus willst
+> In dieser Note geht es um den Ausstieg aus der rechten Szene. Wenn du selbst raus willst oder dir um jemanden Sorgen machst, musst du das nicht allein schaffen. Diese Stellen hören zu, kostenlos und vertraulich:
+>
+> Selbst raus: [EXIT-Deutschland](https://www.exit-deutschland.de/kontakt/), zivil und unabhängig vom Staat · [0228 99792-62](tel:+492289979262) [Aussteigerprogramm des Verfassungsschutzes](https://www.verfassungsschutz.de/DE/service/buerger-und-betroffene/aussteigerprogramm-fuer-rechtsextremisten/aussteigerprogramm-rechtsextremisten_node.html), Tag und Nacht, auch für die linke Szene
+>
+> Sorge um jemanden: [EXIT berät auch Familien](https://www.exit-deutschland.de/beratung/) · rechte Vorfälle in Schule oder Verein: [Mobile Beratung](https://bundesverband-mobile-beratung.de/mobile-beratung/) · bei Islamismus [0911 943 43 43](tel:+499119434343) [Beratungsstelle Radikalisierung](https://www.beratungsstelle-radikalisierung.de/) (Mo–Fr 9–15 Uhr)
+>
+> Nach einem rechten, rassistischen oder antisemitischen Angriff: [Opferberatung in deinem Bundesland](https://verband-brg.de/beratung/), auf Wunsch anonym · [0800 664 52 68](tel:+498006645268) [OFEK](https://www.ofek-beratung.de/beratung-anfragen/) bei Antisemitismus
+>
+> Österreich: [0800 20 20 44](tel:+43800202044) [Beratungsstelle Extremismus](https://www.beratungsstelleextremismus.at/helpline/) (Mo–Fr 10–15 Uhr, auch WhatsApp) · Schweiz: [Anlaufstellen der Kantone](https://www.gegen-radikalisierung.ch/anlaufstellen), oft bei der Polizei
+
 > [!abstract] Worum es geht
 > Einer floh vor den Nazis, einer wich ihnen aus, einer war einer. Im taz-Podcast *Mauerecho* sitzen drei an einem Tisch: der Moderator Dennis Chiponda, der in den Neunzigern in der Lausitz vor Neonazis davonlief; Fabian Wichmann, der jahrelang für EXIT-Deutschland Aussteiger begleitete; und Felix Benneckenstein, der rund zehn Jahre in der Szene war, als Liedermacher, und heute selbst Ausstiege begleitet. Ein Gespräch über den Weg hinein, über einen Abend mit sechzehn, an dem er fast schon draußen war, und über die Arbeit, die ein Ausstieg ist — vier Jahre akut, ein Leben lang biografisch.
 
