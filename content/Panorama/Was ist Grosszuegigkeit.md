@@ -63,7 +63,7 @@ Was fehlt, ist Forschung zur eigentlichen Frage: ob Menschen dieselbe Leistung a
 - **[[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Großzügigkeit ist keine Rechtskategorie|Henrike von Scheliha]]:** Großzügigkeit ist keine Rechtskategorie; wer bei Kindern „großzügig“ sagt, macht aus einem Anspruch eine Gnade.
 - **[[Raul Krauthausen — Teilgabe statt Teilhabe#Die Frage, die nicht lockerlässt|Raúl Krauthausen]]:** Großzügigkeit als Haltung ja, als Struktur nein; wer gnädig Platz macht, kann ihn mit einem „heute nicht“ zurückholen.
 - **[[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#„Wo genau lebst du Großzügigkeit?“|Harald Welzer]]:** Er weigert sich, die Begriffsfrage zu beantworten, und landet doch bei ihr: Seine Lehrerinnen waren großzügig, weil sie ihm halfen, ohne es zu müssen.
-- **[[Kojin Karatani — Tauschformen und die Ueberwindung der Triade#Die vier Tauschformen: Karatanise Grundstruktur|Kojin Karatani]]:** Gabe und Gegengabe sind eine eigene Tauschform neben Staat und Markt; ihre Wiederkehr auf höherer Ebene, frei und doch wechselseitig, bleibt ein Horizont, den man nie ganz erreicht.
+- **[[Kojin Karatani — Tauschformen und die Ueberwindung der Triade#Die vier Tauschformen Karatanis Grundstruktur|Kojin Karatani]]:** Gabe und Gegengabe sind eine eigene Tauschform neben Staat und Markt; ihre Wiederkehr auf höherer Ebene, frei und doch wechselseitig, bleibt ein Horizont, den man nie ganz erreicht.
 
 </details>
 

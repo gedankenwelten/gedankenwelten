@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 233,
-   "aufrufe": 296
+   "leser": 232,
+   "aufrufe": 295
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -469,6 +469,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Spuren/Duldet-die-Linke-Antisemitismus",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/DenkerVita/Adam-Tooze",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 233,
-     "aufrufe": 296
+     "leser": 232,
+     "aufrufe": 295
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1109,6 +1109,11 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+     "leser": 9,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 9,
      "aufrufe": 9
@@ -1160,11 +1165,6 @@
     },
     {
      "pfad": "/DenkerVita/Dirk-Specht",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1414,6 +1414,11 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+     "leser": 9,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 9,
      "aufrufe": 9
@@ -1465,11 +1470,6 @@
     },
     {
      "pfad": "/DenkerVita/Dirk-Specht",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1739,6 +1739,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Sebastian-Puschner",
      "leser": 3,
      "aufrufe": 3
@@ -1795,11 +1800,6 @@
     },
     {
      "pfad": "/DenkerVita/Shi-Heng-Yi",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 2,
      "aufrufe": 2
     },

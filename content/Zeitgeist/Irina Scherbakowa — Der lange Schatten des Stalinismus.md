@@ -487,7 +487,7 @@ Dort wird gestritten, was eine Diktatur am Familientisch weitergibt. Scherbakowa
 
 Angst, zerrissene Bindungen, der Staat in den Familien: Scherbakowa beschreibt, was Arendts Atomisierung nach dem Terror hinterlässt. An der Chimäre reibt sie sich mit Arendt. Totalitäre Ideologie sagt, was sein wird; dem Putinismus fehlt dieser Vektor in die Zukunft, und gerade darum hält Scherbakowa ihn für zäh.
 
-### → [[Andreas Kemper — Faschismen im 21. Jahrhundert#Faschismus-Begriff: Warum Genauigkeit zählt|Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Andreas Kemper — Faschismen im 21. Jahrhundert#Ein Begriff, der verpflichtet|Andreas Kemper — Faschismen im 21. Jahrhundert]]
 
 Beide verlangen Genauigkeit im Begriff, bei Scherbakowa heißt das: wissen, „was für ein Monster vor einem steht“. Griffins Wiedergeburt aus der Katastrophe scheint auf ein Regime zu passen, das den Zerfall der Sowjetunion zur größten Katastrophe erklärt. Sie sagt trotzdem, der Faschismusbegriff fasse es nicht ganz — eine offene Probe für Griffins Begriff.
 

@@ -49,6 +49,7 @@ SOURCE_PLAYLISTS = [
     ("<konto-1>", "<konto-1>_republica"),
     ("<konto-2>", "<konto-2>_gedankenwelten"),
     ("<konto-2>", "<konto-2>_gedankenwelten_global"),
+    ("<konto-2>", "<konto-2>_gedankenwelten_pro"),  # Diogenes-Pool, seit 15.11.2026 (Creuzberger blieb dort hängen)
 ]
 ARCHIVE_PLAYLIST = ("<konto-2>", "<konto-2>_gedankenwelten_archiv")
 

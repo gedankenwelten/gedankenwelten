@@ -268,7 +268,7 @@ Die Drehtür hat in Deutschland zwei Richtungen, und beide sind belegt: Jörg Ku
 - **[[Martin Andree - Monopole zerstoeren unsere Demokratie#Medien sind die Grundlage der Demokratie — und 60 % davon gehören zwei Konzernen|Martin Andree]]:** Über 60 Prozent der Öffentlichkeit laufen über zwei Konzerne, und die Kontrolle von Meinungsmacht fehlt ihnen.
 
 - **[[Nico Semsrott — Bruessel sehen und sterben#Die zahnlosen Kontrolleure|Nico Semsrott]]:** Kontrollgremien, die Kontrolle nur simulieren.
-- **[[SPIEGEL TV — Spahns Maskendeal und das Spendendinner#Das Spendendinner 9.900 Euro pro Person|SPIEGEL TV]]:** 9.999 Euro pro Gast, einen Euro unter der Offenlegungsgrenze.
+- **[[SPIEGEL TV — Spahns Maskendeal und das Spendendinner#Das Spendendinner 9.999 Euro pro Person|SPIEGEL TV]]:** 9.999 Euro pro Gast, einen Euro unter der Offenlegungsgrenze.
 - **[[Anat Saragusti — Zensur und Pressefreiheit in Israel#Ein Masterplan gegen die freie Presse|Anat Saragusti]]:** Eine Regierung, die die Presse angreift, deren Chef selbst wegen versuchter Medienmanipulation vor Gericht steht.
 - **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Die Polizei, die sich kontrollieren lässt|Elif Eralp]]:** Kontrollquittung und Fehlerkultur für die Polizei statt Dank „für alle Einsätze“.
 - **[[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus#Der Fall Lorenz — wie demokratisiert man die Polizei?|Tilo Wesche]]:** Die Polizei demokratisieren, mit Betroffenen und „Transparenz, so wie beim Parlament“.

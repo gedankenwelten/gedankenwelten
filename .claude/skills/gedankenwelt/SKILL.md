@@ -1326,7 +1326,7 @@ VID="<videoId>"   # aus der Quell-URL (v=… oder youtu.be/…)
 # 2) Aus ALLEN Quell-Playlisten entfernen + verifizieren (idempotent).
 #    `cleanup` scannt <konto-1>_gedankenwelten, <konto-1>_gedankenwelten_global,
 #    <konto-1>_republica, <konto-2>_gedankenwelten, <konto-2>_gedankenwelten_global,
-#    entfernt das Video überall wo es liegt und prüft nach, dass es wirklich weg ist.
+#    <konto-2>_gedankenwelten_pro (Diogenes-Pool, seit 15.11.2026), entfernt das Video überall wo es liegt und prüft nach, dass es wirklich weg ist.
 #    Exit 0 = Quellen sauber · Exit ≠ 0 = FEHLER LAUT MELDEN, nicht verschlucken!
 "$PY" "$YT" cleanup "$VID"
 ```
