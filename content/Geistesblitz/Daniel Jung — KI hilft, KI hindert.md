@@ -201,6 +201,22 @@ Offen bleibt, was die Wortmeldung zum Alkohol berührt: Eine mündliche Prüfung
 
 ---
 
+## Was seither geschah
+
+*Stand: 15.11.2026. Was der Vortrag noch nicht wissen konnte oder nicht erwähnt hat.*
+
+**Die Politik war weiter, als der Saal glaubte.** Im Sommer sei ein Social-Media-Verbot diskutiert worden, sagt Jung, „ist irgendwie wieder weg“ [▶ 27:32](https://www.youtube.com/watch?v=oYhc3qjTks4&t=1652), und in der Fragerunde versteht jemand nicht, warum der Gesetzgeber nicht eingreift. Am 14. Oktober, gut eine Woche vor dem vermuteten Termin der Keynote, hatte das Bundeskabinett Eckpunkte beschlossen: Kindern unter 13 soll die Nutzung sozialer Netzwerke grundsätzlich untersagt werden, mit Ausnahmen für nachweislich kindgerechte Angebote, für 13- bis 18-Jährige sind abgestufte Beschränkungen vorgesehen, und ab 2027 soll die staatliche digitale Brieftasche „d-you“ das Alter nachweisen ([Bundesregierung, 14.10.2026](https://www.bundesregierung.de/breg-de/aktuelles/kabinett-eckpunkte-jugendmedienschutz-2456960)). Das gilt als Übergang, bis die EU ein Mindestalter festlegt. Den Vorschlag dafür, den *EU KIDS Act*, hat die Kommission am 17. September vorgelegt; am 22. Oktober ging er im Parlament an den Binnenmarktausschuss, eine Position des Parlaments gibt es noch nicht ([Europäisches Parlament, Stand 25.10.2026](https://www.europarl.europa.eu/legislative-train/theme-protecting-our-democracy-upholding-our-values/file-eu-kids-act)).
+
+Bemerkenswert ist, wie viel aus Jungs Saal in demselben Papier steht. „Hauptverantwortlich für eine sichere Umgebung sind die Plattformbetreiber“, schreibt die Regierung, und daneben stehen die beiden Antworten, die Jung und seine Fragesteller gaben: eine bundesweite Kampagne für Eltern von Kindern im Vorschulalter, die „noch in diesem Jahr“ starten soll, so etwas wie der Elternführerschein, und ein „KI-Seepferdchen“ für die Grundschule, so etwas wie Jungs KI-Tutor als Pflichtfach. Aufklärung, Eltern, Gesetz: Die Regierung setzt auf alle drei zugleich. Dass die Elternkampagne schon läuft, haben wir bis heute nicht gefunden. Was die Forschung über Mindestalter weiß, steht im Panorama unter [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz#Soll der Staat ein Mindestalter setzen?|Soll der Staat ein Mindestalter setzen?]].
+
+**Das angekündigte dritte Gespräch** mit Christian Bauckhage erschien am 15. November als [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|KI-Agenten 10]]. Die Prüfungsfrage, die Jung dort „intensivieren“ wollte, kommt darin nicht vor (→ [[#Publikumsfragen|Publikumsfragen]]).
+
+**Die Mathematik.** Jungs Satz, das Forschungsthema sei „fast geknackt“, bekam vier Tage nach dem vermuteten Vortrag neue Nahrung: Am 26. Oktober legte OpenAI einen Beweis zum Yang-Mills-Problem vor, einem weiteren der Millennium-Probleme, gelöst ist allerdings nur die Hälfte der Aufgabe. Ein von OpenAI eingesetzter Ausschuss bestätigte den Existenzbeweis am 9. November und räumte ein: „We do not claim to fully understand the proof yet.“ Einzelheiten und Quellen im [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Faktencheck|Faktencheck zu KI-Agenten 10]].
+
+**Nvidia.** Jensen Huang, den Jung als einen nennt, dessen Aussagen er verfolgt, ist am 12. November als Chef von Nvidia zurückgetreten; übergangsweise führt die Finanzchefin Colette Kress das Unternehmen ([Nvidia, 12.11.2026](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)).
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Die Exponentialfunktion und der Weg zum Mond ([▶ 13:03](https://www.youtube.com/watch?v=oYhc3qjTks4&t=783)–[▶ 13:49](https://www.youtube.com/watch?v=oYhc3qjTks4&t=829))

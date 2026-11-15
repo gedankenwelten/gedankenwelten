@@ -94,6 +94,10 @@ erreichen wollen.
   Propaganda, auch mit guter Absicht: Ein Moskauer Netzwerk namens Pravda tut genau das, und die großen Chatbots
   wiederholten seine falschen Erzählungen in einem Drittel der Fälle ([NewsGuard 2025](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)).
   Unser Unterschied ist der Mensch als Leser, die belegte Quelle und die offene Korrektur.
+- **Auch die Werkstatt lernt so.** Was für die Leser gilt, gilt für das Gerüst, in dem die KI hier arbeitet. Sie hat
+  kein Gedächtnis zwischen den Sessions, sie lernt aus diesen Dateien. Darum sollen unsere Regeln ihren Grund
+  mittragen: Eine Regel, deren Zweck man kennt, lehrt das Urteilen mit, eine ohne Grund nur den Gehorsam.
+  Erforscht wird das im Projekt [[Opus/Forschung/Werkstatt-Bildung/Eine Werkstatt, die urteilen lehrt|Eine Werkstatt, die urteilen lehrt]] (seit 15.11.2026).
 - **Eine Hoffnung, kein Maß.** Ob etwas davon ankommt, wissen wir nicht; es ist ein Tropfen, und das Meer besteht
   aus nichts anderem. Am Zähler der Mitleser messen wir nichts.
 
