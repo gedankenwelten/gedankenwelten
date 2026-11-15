@@ -503,6 +503,10 @@ Zwei Weisen, einen Tatort zu halten. Buchenwald bewahrt seine Relikte als Beweis
 
 Für Krastev holt sich Putin Rat bei Toten, bei Peter und Katharina, und denkt in Jahrhunderten gegen Trumps Wochen. Scherbakowa sieht denselben Horizont nur rückwärts reichen: ein Regime ohne Zukunftsversprechen, das Trump in Alaska einen Monolog über Rurik hält.
 
+### → [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+
+Die deutsche Seite der Lücke: Der Historiker Stefan Creuzberger zeigt, dass die sowjetischen Kriegsgefangenen und Zwangsarbeiter, nach denen in Russland nicht gefragt werden sollte, auch im deutschen Gedächtnis lange fehlten. Den 22. Juni 1941 mied die sowjetische Erinnerung, weil er an Stalins Versagen erinnerte.
+
 ---
 
 ## Weiterdenken

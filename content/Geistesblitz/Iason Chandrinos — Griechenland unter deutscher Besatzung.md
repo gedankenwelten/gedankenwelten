@@ -303,6 +303,10 @@ Das polnische Spiegelbild: Dort tilgten die Kommunisten den nicht-kommunistische
 ### → [[Geistesblitz/Wolfgang Niess — Der 9. November|Wolfgang Niess — Der 9. November]]
 Die deutsche Tagesnote zur selben Frage. Wolfgang Niess will den 9. November zum nationalen Gedenktag machen, gerade weil an ihm Republik, Pogrom und Mauerfall nebeneinanderliegen; Deutschland war 1990 mit dem 3. Oktober dem umstrittenen Datum ausgewichen. Chandrinos' Satz, es sei problematisch, die Erinnerung eines Jahrzehnts an einem Tag zusammenzufassen, ist der Einwand, dem Niess sich stellen müsste.
 
+### → [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+
+Dasselbe Vergessen, von Deutschland aus gesehen: Der Historiker Stefan Creuzberger zeigt, wie der Antikommunismus der Bundesrepublik auch die sowjetischen Opfer des Vernichtungskriegs aus der Erinnerung hielt. Dort war es die Feindschaft, die verdrängte, in Griechenland die Partnerschaft.
+
 ---
 
 ## Weiterdenken

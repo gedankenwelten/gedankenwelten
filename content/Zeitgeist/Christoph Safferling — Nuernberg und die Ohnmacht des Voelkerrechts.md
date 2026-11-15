@@ -462,6 +462,10 @@ Safferlings „schwerer Fehler“ hat eine lange Vorgeschichte. Albert Camus for
 ### → [[Michael Fleming — Was die Alliierten wussten]]
 Wie das Material des polnischen Untergrunds schon im Krieg in Anklagen für die UN-Kriegsverbrechenskommission einging, bevor Nürnberg begann.
 
+### → [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+
+Dieselben Fünfziger, vom Gedächtnis her erzählt: Der Historiker Stefan Creuzberger zeigt, wie Antikommunismus und das Gefühl, selbst Opfer zu sein, den Vernichtungskrieg im Osten aus der Erinnerung hielten, in denselben Jahren, in denen Fritz Bauer gegen den eigenen Apparat ermittelte.
+
 ---
 
 ## Weiterdenken

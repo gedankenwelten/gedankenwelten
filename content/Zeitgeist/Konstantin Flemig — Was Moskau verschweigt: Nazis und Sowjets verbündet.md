@@ -245,3 +245,6 @@ Die Memorial-Historikerin erzählt, wie der Sieg seit Breschnews Parade von 1965
 ### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
 Ein Pole im Widerstand gegen beide Besatzer, später von den Kommunisten hingerichtet, und ein polnisches Gedenkgesetz von 2018, das sich neben das russische stellen lässt.
 
+### → [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+
+Die deutsche Gegenprobe: Der Historiker Stefan Creuzberger zeigt, wie spät und wie sehr nach der Politik auch die deutsche Erinnerung an den Vernichtungskrieg im Osten kam. Russlands Krieg gegen die Ukraine, sagt er, befreie nicht von der Schuld gegenüber den Völkern der Sowjetunion.

@@ -375,6 +375,10 @@ Leonhard zählt Deutschland nach dem 8. Mai 1945 zu den erfolgreichsten Lernproz
 ### → [[Michael Fleming — Was die Alliierten wussten]]
 Die andere Seite derselben Frage: was die Alliierten wussten und warum es in Großbritannien kaum in der Zeitung stand, während die BBC den Deutschen die Gräuel vorhielt.
 
+### → [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+
+Der Historiker Stefan Creuzberger erzählt, wie die Bundesrepublik genau das, was Aly für das erste halbe Jahr im Osten zusammenrechnet, jahrzehntelang aus der Erinnerung hielt. Die breite Öffentlichkeit erreichte es erst über die Forschung, Gorbatschow und die Wehrmachtsausstellung.
+
 ---
 
 ## Weiterdenken

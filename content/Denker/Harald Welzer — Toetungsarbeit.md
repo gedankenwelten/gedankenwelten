@@ -299,6 +299,10 @@ Die Gegenbewegung zum Familien-Kaleidoskop: Memorials Geschichtswettbewerb schic
 
 Weil schrieb 1939/40, Gewalt versteinere die Seelen der Täter so sehr wie die der Opfer. Welzers Täter, die gut mit ihren Morden lebten, sind der Einwand, den die Gewaltforscherin Hanna Pfeifer dagegen für Sklaverei und Kolonialismus erhebt.
 
+### → [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+
+Die öffentliche Seite des Gedächtnisses, dessen private Seite Welzer untersucht: Der Historiker Stefan Creuzberger zeigt, wie die Bundesrepublik den Krieg im Osten auf Stalingrad, Vertreibung und die „saubere Wehrmacht“ verkürzte, während er in den Familien weiterlebte.
+
 ---
 
 ## Weiterdenken

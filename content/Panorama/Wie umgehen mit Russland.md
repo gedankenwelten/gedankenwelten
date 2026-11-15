@@ -2,7 +2,7 @@
 title: "Wie umgehen mit Russland?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-11-11
+aktualisiert: 2026-11-15
 description: "Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben."
 raetsel: "Zwei Stühle, ein Tisch. Einer ist aufgestanden. Wer klopft zuerst?"
 panorama-art: wachsend
@@ -94,6 +94,8 @@ Die kleinste Form des Redens ist der Gefangenendeal, und dort lässt sich prüfe
 
 Für die größere Frage — wann Verhandlungen über ein Kriegsende tragen, wie haltbar Waffenstillstände sind — fehlt dem Bestand die Forschung noch. Sie gehört als Nächstes hierher.
 
+Auch über Geschichte wurde geredet, und auch dieser Kanal ist fast zu. Die Deutsch-Russische Historikerkommission, 1997 auf Initiative Kohls und Jelzins eingesetzt, setzte ihre Arbeit nach dem 24. Februar 2022 von deutscher Seite aus; für 2025 plante die Kulturstaatsministerin keine Mittel mehr ein, und ein Kolloquium im Juni 2025 sollte nun die „neoimperiale Geschichtsideologie“ Moskaus „demaskieren“ ([t-online, 23.10.2024](https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_100509470/ukrainekrieg-droht-deutsch-russischer-kommission-von-helmut-kohl-das-aus-.html); [Kolloquium 2025](https://web.archive.org/web/2025/https://www.deutsch-russische-geschichtskommission.de/kolloquien/kolloquium-2025/)). In Russland ist Geschichte seit 2014 Strafrecht, zuletzt erweitert im April 2026 um die Leugnung eines „Genozids am sowjetischen Volk“ ([StGB RF Art. 354.1](https://www.consultant.ru/document/cons_doc_LAW_10699/be763c1b6a1402144cabfe17a0e2d602d4bb7598/)). Geblieben ist die Kriegsgräberfürsorge: Der Volksbund hat in Russland zwischen 1992 und 2024 rund 463.000 deutsche Kriegstote geborgen, und die Bundesregierung nennt das einen der wenigen Bereiche mit erhaltenen Gesprächskanälen ([hib, 31.10.2025](https://www.bundestag.de/presse/hib/kurzmeldungen-1118546)). Mit der Ukraine arbeitet seit 2015 eine eigene Historikerkommission ([DUHK](https://www.duhk.org/)).
+
 **Die Stimmen**
 
 - **[[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen#Ein Mann aus Norderstedt|Sergey Lagodinsky]]:** Isolation als moralisches Zeichen und Technologie-Embargos trägt er voll mit — eine Strategie für danach sieht er nicht: „Das ist zu einfach.“ Das Gespräch Wadephuls mit Lawrow nennt er „nicht verkehrt“.
@@ -105,8 +107,9 @@ Für die größere Frage — wann Verhandlungen über ein Kriegsende tragen, wie
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Maja Göpel]]:** Mit Claudia Major fragt sie nach dem Punkt, an dem der Gegner aussteigen würde, und findet ihn bei Putin nicht: Nach jedem Anruf aus Berlin, jeder Sitzung des Sicherheitsrats habe er am nächsten Tag härter angegriffen.
 - **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Eine gefrorene Zeit|Maria Kalesnikava]]:** Nach fünf Jahren Haft: „Ich weiß, wie die Hölle aussieht. Deshalb sage ich, jedes Menschenleben ist kostbar und muss gerettet werden“ — im Oktober 2026 unterschrieb sie einen Brief, der Europa zum Verhandeln drängt.
 - **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Lohnt sich ein Gefangenendeal?|Mikalai Statkewitsch]]:** Wer Gefangene freikauft, belebt den Markt: Mehr Käufer heißen mehr Gewinn für den Verkäufer, und an Nachschub fehlt es dem Regime nicht.
+- **[[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland#Was noch nicht angekommen ist|Stefan Creuzberger]]:** Der Historiker, selbst Mitglied der Kommission, verurteilt den Krieg „ganz entschieden“ und sagt doch: Mit Russland werde es sich ändern, „das ist sicher“, dann müsse Deutschland sich der Ukraine, Belarus und Russland wieder öffnen.
 
-<details><summary>Weitere Stimmen (14)</summary>
+<details><summary>Weitere Stimmen (15)</summary>
 
 - **[[Uwe Krueger — Mainstream und kritische Journalistik#Der Euromaidan in Tagesschau und heute|Uwe Krüger]]** (2017): In Tagesschau und heute sprachen 2014 prowestliche Stimmen viermal so lang wie prorussische, die Rollen waren „gut gegen böse“ verteilt; die Note fragt nach, wo in diesen beiden Töpfen die Ukrainer selbst blieben.
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#„Wären nicht weniger Menschen gestorben" — Die Appeasement-Falle|Torsten Heinrich]]:** Putin zeige „die klassische Krankheit eines Spielers“ — Georgien, Krim, 2022; wer ihn nicht stoppt, bestärkt ihn.
@@ -123,6 +126,8 @@ Für die größere Frage — wann Verhandlungen über ein Kriegsende tragen, wie
 - **[[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise#Der Anlass Prechts These|Richard David Precht]]:** „Es gibt hier nichts zu holen“, auch im Baltikum „keine Bodenschätze, überhaupt nichts“ — Flemig kontert mit dem Narva-Szenario.
 - **[[Christoph Hein — Geooekonomie NEU DENKEN#Das Ende von „Wandel durch Handel"|Christoph Hein]]:** Einbinden über Handel scheiterte an seiner Asymmetrie: „Wir wollten nicht uns wandeln — wir wollten andere wandeln.“
 - **[[Torsten Heinrich — Ukraine bewusst geopfert#Salami-Taktik Eskalationsmanagement statt Strategie|Torsten Heinrich]]** (zweite Note): „Eskalationsmanagement ist nicht eine Strategie“ — zum Sterben zu viel, zum Leben zu wenig.
+
+- **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Ist Memorial gescheitert?|Irina Scherbakowa]]:** Memorial wurde immer dorthin gedrängt, „wo Geschichte zu einer Politik geworden ist“; heute sei die russische Geschichtspolitik „vollständig entmoralisiert“, ein Gespräch über die Vergangenheit hat dort keinen Partner mehr.
 
 </details>
 
@@ -266,6 +271,7 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 | 30.10.2026 | [[Irina Scherbakowa — Der lange Schatten des Stalinismus#Nachbesprechung|Irina Scherbakowa — Der lange Schatten des Stalinismus]] | Wird ein Land ohne Aufarbeitung zur Demokratie? (Thoms, Ron & Paris 2010, Nikolova u. a. 2022, Horne 2014, Kendall-Taylor & Frantz 2016, Hummel 2020, Nalepa & Remington 2023; KPdSU-Prozess 1992, Levada, Spanien 2022, Argentinien) → *Was will Putin* |
 | 30.10.2026 | [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Nachbesprechung|Scherbakowa und Bota — Erinnern ist Widerstand]] | Lohnt sich ein Gefangenendeal? (Brandt, George & Sandler 2016, New America 2017, Moore-Gilbert & Conduit 2026, Foley 2026, Jović-Lazić 2026; Viasna-Zahlen, Präzedenzfall 2015, Brief vom 20.10.2026) → *Isolieren oder reden?* |
 | 11.11.2026 | [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Nachbesprechung|Wittig und Rothfuß — Frieden mit Russland über die Brandmauer]] | Schreckt Stärke ab? (Harmel 1967, Helsinki 1975, Charta von Paris) · Wurde Russland nach 1990 geholfen? (Überleitungsabkommen, Kieninger 2019, Pariser Club, Stuckler u. a. 2009 vs. Earle & Gehlbach 2010, Brainerd 2021) |
+| 15.11.2026 | [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland#Kann man mit Russland über Geschichte reden?\|Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]] | Kann man mit Russland über Geschichte reden? (Historikerkommission 2022–2025, Volksbund-Kanal, StGB Art. 354.1 2014/2021/2026, Verfassung Art. 67.1, Putin-Essay 2021, Belarus-Gesetz 2022, Ukraine 2015/2023, DUHK, Snyder 2017; Belavusau u. a. 2021, Cherviatsova 2020) → *Isolieren oder reden?* |
 
 ---
 

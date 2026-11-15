@@ -476,6 +476,10 @@ In Auschwitz kamen mit geschmuggeltem Brot Nachrichten herein, „England ist ni
 ### → [[Michael Fleming — Was die Alliierten wussten]]
 Das polnische Kriegsverbrechensbüro in London sammelte schon 1944 Anklagen, auch gegen Höß, und nach dem Krieg wurden daraus Prozesse: ein Beispiel, wann Dokumentieren für später trägt.
 
+### → [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+
+Die deutsche Seite derselben Erinnerung: Der Historiker Stefan Creuzberger erzählt, wie Bundesrepublik und DDR den Krieg gegen die Sowjetunion erinnerten, beide im Dienst ihrer Gegenwart, und warum Russlands Krieg gegen die Ukraine Deutschland nicht von diesem Erinnern befreit.
+
 ---
 
 ## Weiterdenken

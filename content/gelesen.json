@@ -39,14 +39,14 @@
    "aufrufe": 25
   },
   {
+   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+   "leser": 21,
+   "aufrufe": 22
+  },
+  {
    "pfad": "/DenkerVita/Kalayo",
    "leser": 20,
    "aufrufe": 23
-  },
-  {
-   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "leser": 20,
-   "aufrufe": 21
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -65,8 +65,8 @@
   },
   {
    "pfad": "/DenkerVita/Der-Dara",
-   "leser": 13,
-   "aufrufe": 15
+   "leser": 12,
+   "aufrufe": 14
   },
   {
    "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -74,14 +74,14 @@
    "aufrufe": 13
   },
   {
-   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-   "leser": 10,
-   "aufrufe": 10
-  },
-  {
    "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
    "leser": 9,
    "aufrufe": 12
+  },
+  {
+   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "leser": 9,
+   "aufrufe": 9
   },
   {
    "pfad": "/DenkerVita/Albert-Camus",
@@ -389,11 +389,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Spuren/Duldet-die-Linke-Antisemitismus",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
      "leser": 3,
      "aufrufe": 3
@@ -470,6 +465,11 @@
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Spuren/Duldet-die-Linke-Antisemitismus",
      "leser": 2,
      "aufrufe": 2
     },
@@ -649,14 +649,14 @@
      "aufrufe": 25
     },
     {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 21,
+     "aufrufe": 22
+    },
+    {
      "pfad": "/DenkerVita/Kalayo",
      "leser": 20,
      "aufrufe": 23
-    },
-    {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 20,
-     "aufrufe": 21
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -675,8 +675,8 @@
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
-     "leser": 13,
-     "aufrufe": 15
+     "leser": 12,
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -684,14 +684,14 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 10,
-     "aufrufe": 10
-    },
-    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 9,
      "aufrufe": 12
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 9,
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
@@ -925,8 +925,8 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 294,
-     "aufrufe": 317
+     "leser": 295,
+     "aufrufe": 318
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1230,8 +1230,8 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 294,
-     "aufrufe": 317
+     "leser": 295,
+     "aufrufe": 318
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1579,14 +1579,14 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 9,
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 9
+     "pfad": "/DenkerVita/Der-Dara",
+     "leser": 8,
+     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",

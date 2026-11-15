@@ -77,7 +77,9 @@ Creuzberger arbeitet als Diktaturforscher an beiden Seiten des Kalten Kriegs: am
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]] — Zwei Historiker, die denselben Krieg von beiden Seiten lesen: Er zeigt, welche sowjetischen Toten im deutschen Gedächtnis fehlten, sie, dass Putins Geschichtspolitik nicht nach dem Preis des Sieges fragen lässt. Die Kriegsgefangenen und Zwangsarbeiter fehlen in beiden Gedächtnissen.
+- [[DenkerVita/Jens-Christian Wagner|Jens-Christian Wagner]] — Beide lesen die Entlastungserzählungen von Bundesrepublik und DDR gleich, erklären den Wandel aber verschieden: Wagner mit den Enkeln nach 1989, Creuzberger mit Gorbatschow und den geöffneten Moskauer Archiven.
+- [[DenkerVita/Iason Chandrinos|Iason Chandrinos]] — Zwei Seiten desselben Kalten Kriegs: In Creuzbergers Bundesrepublik verdrängte die Feindschaft zur Sowjetunion deren Opfer, in Chandrinos' Griechenland die Partnerschaft mit Bonn die deutschen Verbrechen.
 
 ## Gedankenwelten-Notes
 

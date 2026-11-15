@@ -126,6 +126,8 @@ Ob Schweigen den Frieden stützt oder den Streit vertagt, ist nicht entschieden.
 
 In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemten Soldaten“, für alle, die „mit der Waffe in der Hand wie auch auf andere Weise“ dem kommunistischen Regime widerstanden ([Dz.U. 2011 nr 32 poz. 160](https://eli.gov.pl/eli/DU/2011/160/ogl)); die Soziologen Krzysztof Jaskułowski und Piotr Majewski sehen darin einen verdeckten Ausdruck antijüdischer Vorurteile (2023, Fachaufsatz, [Jaskulowski & Majewski 2023](https://doi.org/10.1111/nana.12937)).
 
+Für Deutschland selbst ist die Frage weniger eine nach Bürgerkriegslagern als nach einer Leerstelle. Gefragt, welche Gruppen das NS-Regime verfolgt und ermordet hat, nannten 2020/21 von sich aus 0,8 Prozent Kriegsgefangene ([MEMO IV 2021](https://www.stiftung-evz.de/assets/1_Was_wir_f%C3%B6rdern/Bilden/Bilden_fuer_lebendiges_Erinnern/MEMO_Studie/MEMO_4_2021/EVZ_Studie_MEMO_2021_dt.pdf), Telefonumfrage); von gut 5,7 Millionen sowjetischen Kriegsgefangenen starben bis zu 3,3 Millionen ([Kay 2024](https://doi.org/10.1080/13518046.2024.2340839), Synthese). Ihre Gräber schützt das Gräbergesetz auf Dauer, 4.185 Orte mit sowjetischen Kriegsgräbern sind verzeichnet ([sowjetische-memoriale.de](https://www.sowjetische-memoriale.de/index.cfm?inhalt=startseite&lang=de)), doch um eine Gedenkstätte von nationalem Rang für das Stalag 326 bei Stukenbrock, wo bis zu 65.000 Gefangene starben, stritt der Kreistag Gütersloh bis Oktober 2025 ([Kreis Gütersloh](https://www.kreis-guetersloh.de/aktuelles/presse-und-oeffentlichkeitsarbeit/archiv-pressemitteilungen/pressemitteilungen-2025/28-10-2025-kt-sondersitzung-stalag/)). Für die polnischen Opfer entsteht in Berlin ein Denkmal, für die Opfer in der Sowjetunion gibt es bisher nur das beschlossene Dokumentationszentrum zur Besatzungsherrschaft ([DHM](https://www.dhm.de/museum/ueber-uns/dokumentationszentrum-zweiter-weltkrieg-und-deutsche-besatzung-in-europa/)). Wer die Lücke schließen will, steht vor der Frage nach dem Vergleich: Wetteifern Gruppen darum, wer mehr gelitten hat, versöhnen sie sich schwerer ([Noor u. a. 2012](https://doi.org/10.1177/1088868312440048), Übersichtsarbeit), wer im fremden Leid Ähnlichkeit sieht, begegnet anderen offener ([Vollhardt & Bilali 2014](https://doi.org/10.1111/pops.12174), drei Befragungen).
+
 **Die Stimmen**
 
 - **[[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Warum der Anfang gefeiert wird und nicht das Ende|Iason Chandrinos]]:** Gefeiert wird der letzte Tag der Einigkeit, und es sei „ziemlich problematisch“, die Erinnerung eines ganzen Jahrzehnts an einem Tag zusammenzufassen.
@@ -136,6 +138,7 @@ In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemte
 - **[[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory#Der Krieg um die Erinnerung|Kimberlé Crenshaw]]:** Mit Frederick Douglass: Die Sache, die im Krieg gewonnen wurde, ging verloren, und die verlorene gewann, weil der Krieg um die Erinnerung länger dauert.
 - **[[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet#Das Schweigen danach — und seine Funktion heute|Konstantin Flemig]]:** Russland macht Katyn und den Hitler-Stalin-Pakt per Gesetz unsichtbar; wer Geschichte tilgt, muss sie nicht aufarbeiten.
 - **[[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?|Jack Fairweather]]:** Zwischen polnischem und jüdischem Erinnern an Auschwitz gebe es einen Wettstreit der Perspektiven; Pilecki, der als polnischer Häftling die Vorbereitung des Mordes an den Juden beschrieb, könne ein Brückenbauer sein.
+- **[[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland#Was noch nicht angekommen ist|Stefan Creuzberger]]:** Das Bewusstsein für 27 Millionen sowjetische Tote soll auf Dauer dem für die sechs Millionen ermordeten Juden „vergleichbar“ werden; der Krieg gegen die Ukraine entbinde davon nicht.
 
 <details><summary>Weitere Stimmen (3)</summary>
 
@@ -143,6 +146,9 @@ In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemte
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Entlastungserzählungen — Ost, West und der Mythos vom Befehlsnotstand|Jens-Christian Wagner]]:** Die Bundesrepublik erzählte von der „kleinen Clique“ und vom Befehlsnotstand und pflegte daneben ihren eigenen Opferdiskurs: Luftkrieg, Flucht, Vertreibung, Teilung.
 
 - **[[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar|Silvia Rivera Cusicanqui]]:** Den anarchistischen Großonkel, den ihr Zweig der Familie verstoßen hätte, setzt sie jedes Jahr auf den Ehrenplatz ihres Allerheiligen-Altars; die verleugnete Linie bekommt ihren Platz, ohne dass die andere verschwindet.
+
+- **[[Götz Aly — Wie konnte das geschehen#Zu viel auf dem Kerbholz|Götz Aly]]:** Er zählt das erste halbe Jahr im Osten zusammen, ermordete Juden, verhungerte Kriegsgefangene, erschossene Zivilisten, „pro Tag 12.000 Nichtkombattanten“, nebeneinander statt gegeneinander.
+- **[[Irina Scherbakowa — Der lange Schatten des Stalinismus#Kruste und Schaum: die Geschichtspolitik|Irina Scherbakowa]]:** Auch Russland hat seine Lücke: Nach dem Preis des Sieges, nach Kriegsgefangenen, Zwangsarbeitern und deportierten Völkern wurde nicht gefragt.
 
 </details>
 
@@ -161,6 +167,7 @@ In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemte
 
 | 07.11.2026 | [[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?\|Simplicissimus — Der Freiwillige von Auschwitz]] | Polen: IPN-Gesetz 2018 und Rücknahme, Pilecki-Institut 2017–2025 (Ruchniewicz, Madaj), Gedenktag 1. März 2011 · Kończal 2020, Jaskułowski & Majewski 2023/2024 |
 | 09.11.2026 | [[Geistesblitz/Wolfgang Niess — Der 9. November#Wem gehört der 9. November?\|Wolfgang Niess — Der 9. November]] | Wem gehört ein Gedenken und schützt Erinnerung: AfD-Antrag 21/2043, Stäblein 2026, Weber (EVZ) gegen die Klammer der Daten, KMK 2009, MEMO 2025 („Freiwilligkeit wirkt“), Firestone u. a. 2025, Hamburger Pflichtbesuch |
+| 15.11.2026 | [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland#Wessen Tote werden erinnert?\|Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]] | Die Leerstelle der sowjetischen Toten: MEMO IV 2021, Gräbergesetz, sowjetische Kriegsgräberstätten, Zeithain, Stalag 326 (Kreistag 2023/2025), Kriegsgefangenen-Datenprojekt 2000–2014, ZWBE und polnischer Gedenkort, Steinmeier in Karlshorst 2021, russische Note zu Leningrad 2024 · Noor u. a. 2012, Vollhardt & Bilali 2014, Rothberg 2009, Kay 2024 |
 | 15.11.2026 | [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar\|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]] | Wessen Tote werden erinnert? Der verleugnete Großonkel Luis Cusicanqui am Allerheiligen-Altar; Allerheiligen-Massaker 1979, 300 Tote, nie eingefordert, sagt sie (dokumentiert: über 100 bis über 200) |
 
 ---
