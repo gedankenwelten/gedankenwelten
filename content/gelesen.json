@@ -10,8 +10,8 @@
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 65,
-   "aufrufe": 74
+   "leser": 64,
+   "aufrufe": 73
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -169,6 +169,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
    "pfad": "/DenkerVita/Anke-Myrrhe",
    "leser": 5,
    "aufrufe": 5
@@ -230,11 +235,6 @@
   },
   {
    "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
    "leser": 4,
    "aufrufe": 4
   },
@@ -429,6 +429,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 2,
      "aufrufe": 2
@@ -564,11 +569,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 1,
      "aufrufe": 1
@@ -620,8 +620,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 65,
-     "aufrufe": 74
+     "leser": 64,
+     "aufrufe": 73
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -779,6 +779,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
@@ -840,11 +845,6 @@
     },
     {
      "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1104,6 +1104,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 9,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 9,
      "aufrufe": 9
@@ -1150,11 +1155,6 @@
     },
     {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1409,6 +1409,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 9,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 9,
      "aufrufe": 9
@@ -1455,11 +1460,6 @@
     },
     {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1704,6 +1704,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
      "leser": 3,
      "aufrufe": 3
@@ -1772,11 +1777,6 @@
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 3,
      "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 2,
-     "aufrufe": 2
     },
     {
      "pfad": "/DenkerVita/Arthur-Aron",

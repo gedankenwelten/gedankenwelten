@@ -12,7 +12,7 @@ status: offen
 konfidenz: 55%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-11-04
+aktualisiert: 2026-11-15
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -62,6 +62,35 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-11-15 — Der Mehrheitsbericht: Versagen benannt, Ermittlungen empfohlen (Konfidenz 55 % → 55 %)
+
+**Befund:** Die republikanische Mehrheit im Kontrollausschuss des Repräsentantenhauses legte am **10.11.** einen
+Bericht von 137 Seiten vor ([Bericht, PDF](https://oversight.house.gov/wp-content/uploads/2026/11/A-Review-of-the-Federal-Governments-Mishandling-of-the-Jeffrey-Epstein-and-Ghislaine-Maxwell-Criminal-Investigations_OGR-Maj-Report.pdf),
+von uns nicht selbst gelesen). Grundlage sind nach Al Jazeera 15 Monate Untersuchung mit 19 protokollierten Befragungen
+und eidlichen Vernehmungen, Vorladungen an Behörden, Banken und Epsteins Nachlass. Der Vorsitzende James Comer:
+*„Had the government done its job, much of this abuse could have been prevented.“* Der Bericht richtet sich vor allem
+gegen die Ermittler und Staatsanwälte in Südflorida und Washington ab 2005, gegen das Nichtverfolgungsabkommen von 2007
+und gegen die New Yorker Haftanstalt, in der Epstein 2019 starb; dort hätten die Wachen in der Nacht zwölf Rundgänge und
+drei Zählungen ausgelassen ([Al Jazeera, 11.11.](https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case)).
+Er empfiehlt dem Justizministerium, *„key witnesses“* zu befragen, *„Epstein associates accused of criminal activity“*
+zu untersuchen und den Überlebenden Zugang zu ihren Akten zu geben, darunter in ungeschwärzter Form. Zur Freigabe nach
+dem Transparency Act hält er fest: *„questions remain as to whether the DoJ has released all relevant documents“*, und
+wegen des Tempos hätten mangelhafte Schwärzungen Daten von Überlebenden offengelegt. Das Ministerium antwortet, die
+Empfehlungen seien *„already addressed“*, der Fall sei *„not closed“*. Robert Garcia, der ranghöchste Demokrat im
+Ausschuss, nennt den Bericht *„misleading“* und *„partisan“*; das Ministerium halte *„over 2.5m pages“* zurück, und
+Justizminister Blanche habe noch nicht ausgesagt ([Guardian, 10.11.](https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation)).
+
+**Deutung:** Zum ersten Mal benennt die Mehrheitspartei selbst in einem Dokument, wo die Institutionen versagt haben,
+und verlangt Ermittlungen gegen Vertraute Epsteins. Es sind Empfehlungen; ein Verfahren gegen einen Mächtigen ist daraus
+nicht entstanden. Die Bedingung *„die restlichen ~3 Mio. Seiten bleiben zurückgehalten“* gilt weiter, nach Garcias Zahl und nach
+dem eigenen Satz des Berichts, es blieben Fragen.
+
+**Gegenbeobachtung (Pflicht):** Derselbe Bericht stützt die Lesart, die die Spur schwächt: Schwärzen kann Opfer
+schützen, und die schnelle Freigabe hat Überlebenden geschadet. Er blickt zudem vor allem auf 2005 bis 2019, zur
+Freigabepraxis heute sagt er nur, es blieben Fragen. Und er kommt von der Partei, die das Ministerium führt, und das
+Ministerium nennt seine Empfehlungen erledigt. Wer ihn als Bruch liest, muss abwarten, ob ihm ab Januar unter
+demokratischer Mehrheit etwas folgt.
 
 ### 2026-11-04 — Das Gericht lässt prüfen, der Kongress wechselt die Hand (Konfidenz 60 % → 55 %)
 
@@ -794,6 +823,14 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Verlangen:** „Die Mächtigen schützen sich gegenseitig" ist zutiefst befriedigend und passt auf jede a-priori-Skepsis — *genau deshalb* gefährlich.
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
+
+> [!question] Sweep 15.11.2026 — lese ich nur den Teil des Berichts, der mir recht gibt?
+> Ein Mehrheitsbericht, der das Versagen der Behörden benennt, fühlt sich wie Bestätigung an, und Garcias 2,5 Millionen
+> Seiten ebenso. Der unbequeme Satz steht im selben Bericht: Die schnelle Freigabe hat Überlebende bloßgestellt. Das ist
+> genau die Gabel „legitimer Opferschutz“, und sie steht darum in der Gegenbeobachtung, nicht in einer Fußnote. Die
+> Namen zweier Prominenter, die nach Al Jazeera in einer Zeugenaussage im Bericht vorkommen, stehen hier nicht: Es sind
+> Vorwürfe aus einer einzelnen Aussage, kein Verfahren, und für die These sind sie nicht nötig. Den Bericht selbst habe ich nicht
+> gelesen, nur zwei Berichte darüber.
 
 > [!question] Sweep 04.11.2026 — rechne ich die Wahl mit, weil sie sich wie ein Ende anfühlt?
 > Der Sog diesmal ist ein Datum: Ab Januar haben die, die seit Monaten Aufklärung fordern, die Vorladungsmacht. Es

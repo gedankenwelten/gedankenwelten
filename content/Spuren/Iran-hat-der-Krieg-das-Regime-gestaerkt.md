@@ -16,7 +16,7 @@ status: offen
 konfidenz: 60%
 review-takt: 21-tage
 eroeffnet: 2026-06-19
-aktualisiert: 2026-11-08
+aktualisiert: 2026-11-15
 presseschau_aktualisiert: 2026-09-12
 description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte."
 ---
@@ -130,6 +130,55 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 **Kalt, wenn:** eingefrorenes Patt ohne klare Bewegung, das Thema versandet ohne Auflösung.
 
 ## Verlauf
+
+### 2026-11-15 — Bahrain, Hormus, sieben Bedingungen (Konfidenz 60 % → 60 %)
+
+**Befund:** *(1) Bahrain.* Am **13.11.** meldeten die Revolutionsgarden, sie hätten in Bahrain ein amerikanisches
+Frühwarnradar zerstört, als Antwort auf einen Luftangriff auf einen Fernmeldeturm im Süden Irans. Das
+US-Zentralkommando (CENTCOM) widersprach: Es habe zwei Drohnen abgeschossen, es gebe weder Verletzte noch Schäden.
+Nach Reuters beanspruchte Iran damit zum ersten Mal seit Anfang September einen Angriff auf US-Militär in einem
+Golfstaat. Am **15.11.** meldeten die Garden sechs Drohnen gegen ein Radar auf der Riffa Air Base; in Bahrain heulten die
+Sirenen, das Innenministerium rief die Bewohner in Schutzräume. In Manama liegt die Fünfte Flotte der US-Marine.
+
+*(2) Hormus.* Nach Angaben der Marine der Revolutionsgarden liefen am **14.11.** zwei Tanker in der Straße von Hormus auf
+Seeminen; sie hätten ihre Ortungssysteme abgeschaltet und eine nicht genehmigte Route genommen. Zwei weitere Tanker
+seien nach Warnungen umgekehrt. Al Jazeeras Korrespondent in Teheran berichtet von zwei ähnlichen Vorfällen am Vortag;
+Iran gibt den Reedern und den Staaten hinter ihnen die Schuld.
+
+*(3) Verhandlungen.* Parlamentspräsident und Chefunterhändler Mohammad Bagher Ghalibaf sagte Al Jazeera, Iran habe über
+einen katarischen Vermittler sieben Bedingungen übermittelt und warte auf eine offizielle Antwort der USA. Dazu gehören
+das Ende der Seeblockade und der Sanktionen, die Freigabe eingefrorener Gelder, das Ende der Feindseligkeiten an allen
+Fronten und eine förmliche Erklärung, dass der Krieg vorbei ist. Teheran wolle über den Zustand *„no war, no peace“*
+hinaus ([Al Jazeera, 15.11.](https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know),
+für 1 bis 3). Außenamtssprecher Esmaeil Baghaei sagte am 15.11., über eine Aussetzung oder Verringerung der
+Anreicherung werde nicht gesprochen, so weit seien die Gespräche nicht: *„We have not been discussing the details of the
+nuclear issue at all“* ([TASS, 15.11.](https://tass.com/world/2218301), staatsnah).
+
+*(4) Washington.* Am Veterans Day (11.11.) erklärte Trump in Arlington seine Entscheidung für den Krieg nach der New York
+Times zu einem vollen Erfolg: *„When this conflict is over, and it will be soon, the entire world will be a much safer
+and better place, more peaceful place.“* Dieselbe Zeitung zählt eine Reihe vereitelter oder versuchter Anschläge in
+Europa und Großbritannien, die Sicherheitsbehörden Iran oder seinen Verbündeten zuschreiben, darunter ein Plan gegen
+den US-Stützpunkt RAF Fairford; auf RAF Mildenhall seien in dieser Woche nach einem mutmaßlichen Drohnenplan bis zu
+zwölf US-Flugzeuge in Sicherheit gebracht worden ([NYT, 15.11.](https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html),
+frei lesbarer Anfang). Am selben Tag berichtet das Wall Street Journal, die US-Geheimdienste schätzten Irans Bestand auf
+1.500 bis 2.500 Raketen. Die Beamten nennen das eine Einschätzung mit geringer Sicherheit, weil sich die Zahl schwer
+verfolgen lasse; klar sei aber, dass Iran einen erheblichen Vorrat behalten habe. Der Wiederaufbau des Arsenals spiele
+in den Beratungen über neue Angriffe eine Rolle ([WSJ, 15.11.](https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67),
+gelesen ist der frei zugängliche Anfang). Iran ist Thema beim Dreiertreffen Trump–Putin–Xi in Shenzhen am **19.11.**
+([taz/afp, 14.11.](https://taz.de/Historischer-Dreier-beim-APEC-Gipfel/!6230035/)).
+
+**Deutung:** Ausgelöst ist keine der registrierten Bedingungen. Die Garden beanspruchen begrenzte Angriffe, halten
+die Durchfahrt durch Hormus eingeschränkt und verhandeln mit Bedingungen, in denen das Atomprogramm nicht vorkommt; nach Baghaei steht es noch
+gar nicht auf dem Tisch. Die Bedingung *„das Atomprogramm wird ohne IAEO-Kontrolle wieder aufgebaut“* bleibt darum, wo
+sie am 08.11. stand: ohne Kontrolle, ohne belegten Aufbau. Neues von der IAEO gibt es nicht. Die Schätzung des WSJ
+berührt die Bedingung *„Iran geht schwächer und stärker eingehegt hervor“*: Ein Arsenal von bis zu 2.500 Raketen
+spräche gegen „schwächer“, eine Einschätzung mit geringer Sicherheit trägt aber keinen Befund.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Begrenzte Angriffe können auch heißen, dass mehr nicht geht. Wie viel vom
+Arsenal vor dem Krieg übrig ist, sagt die Schätzung nicht, und ihre eigene Spanne ist groß. **(2)** Fast alles in
+Bahrain und Hormus ist eine Angabe der Garden, das US-Militär bestreitet die Schäden. **(3)** Blockade und Sanktionen
+laufen weiter. Das ist der Pfad *„der innere Kollaps ist nur aufgeschoben“*, auf dem die Spur fallen würde. **(4)**
+Baghaeis „noch nicht“ ist kein „nie“; die sieben Bedingungen sind eine Verhandlungsposition, kein Abschluss.
 
 ### 2026-11-08 — Weder Krieg noch Abkommen (Konfidenz 58 % → 60 %)
 
@@ -370,6 +419,13 @@ Berichten saudisch mitfinanziert) · Gulf News (Dubai).
 > kommen. Drittens hat dieser Sweep drei eigene Fehler gefunden: Rezaeis Amt, das zweite Datum des Memorandums und eine
 > AP-Recherche, die die These stützt und trotzdem übersehen wurde. Die Fehler liegen nicht alle auf einer Seite; die
 > Belegprüfung war schlicht zu flach. Der Ring Globaler Süden bleibt dünn.
+
+> [!question] Sweep 15.11.2026 — die Zahl, die zur These passt
+> Bis zu 2.500 Raketen nach dem Krieg lesen sich wie ein Beleg, dass der Krieg sein Ziel verfehlt hat. Die Beamten
+> selbst nennen die Schätzung unsicher, und sie misst Raketen, nicht das Atomprogramm, um das es in der ersten Säule
+> geht. Darum steht sie im Befund und bewegt nichts. Ebenso die Angaben aus Bahrain und Hormus: Sie kommen fast alle
+> von den Garden. Gelesen wurden diesmal Al Jazeera, TASS, die New York Times und das Wall Street Journal, die beiden
+> amerikanischen nur im frei lesbaren Anfang. Stimmen aus Bahrain, den Golfstaaten und dem Globalen Süden fehlen weiter.
 
 
 ## Stimmenspektrum

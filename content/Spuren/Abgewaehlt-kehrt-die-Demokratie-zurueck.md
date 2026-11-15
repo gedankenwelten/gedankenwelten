@@ -17,7 +17,7 @@ status: offen
 konfidenz: 55%
 review-takt: 21-tage
 eroeffnet: 2026-10-28
-aktualisiert: 2026-11-08
+aktualisiert: 2026-11-15
 description: "Ungarn und Serbien haben ihre Autoritären abgewählt, Brasilien hat ihre Rückkehr knapp verhindert. Der leichtere Teil ist geschafft. Gelingt der Rückbau, ohne das Werkzeug des Vorgängers?"
 raetsel: "Der Schlüssel, der die Tür verschloss, passt auch, um sie zu öffnen. Wer ihn dreht, hält ihn danach in der Hand."
 ---
@@ -137,6 +137,51 @@ SNS und den Bolsonarismus.
 ---
 
 ## Verlauf
+
+### 2026-11-15 — Die Abrechnung beginnt, und mit ihr die Frage nach dem Werkzeug (Konfidenz unverändert 55 %)
+
+**Befund:** *(1) Ungarn.* Bei Ermittlungen gegen den früheren Entwicklungsminister Miklós Seszták (2014–2018) fand das
+neu gegründete Nationale Amt für Vermögensrückgewinnung und Vermögensschutz (NVVH) rund 17,7 Mio. € in bar, in Forint,
+Euro und Dollar, zum Teil im Wald vergraben. Seszták soll rund 34 Mio. € an Bestechungsgeld angenommen haben, er wurde
+im September verhaftet und bestreitet die Vorwürfe. Die NVVH hat eigene Ermittlungs- und Strafverfolgungsbefugnisse.
+Seit der Wahl wurden drei frühere Minister festgenommen, in dieser Woche auch Orbáns jüngerer Bruder Áron Orbán, wegen
+Menschenhandels und Visa-Betrugs. Ministerpräsident Péter Magyar sagte, ab heute sei die Orbán-Partei *„nichts weiter
+als eine organisierte kriminelle Vereinigung“*
+([tagesschau, 14.11.](https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html)).
+
+*(2) Serbien.* Noch vor der Regierungsbildung kommen die Festnahmen fast täglich. In Haft sind unter anderen der Leiter
+der Kriminalpolizeidirektion, ein Kommandeur der Antiterroreinheit, Gefängnisleiter, Eigentümer der Aalta Bank, der
+Direktor des Hydrometeorologischen Instituts und der Bürgermeister von Inđija, verdächtigt des Amtsmissbrauchs, der
+Geldwäsche und der Korruption. Die Staatsanwaltschaft für organisierte Kriminalität ermittelt gegen den Chef des
+Geheimdienstes BIA, den scheidenden Justizminister und etwa 60 weitere, unter anderem wegen illegalen Abhörens. Die
+Staatsanwältin Bojana Savović nennt das *„ein trauriges Bild unserer Staatsanwaltschaft“*: Man sehe jetzt, was in
+vierzehn Jahren unter politischem Druck liegen geblieben sei. Sie und die Anwältin Tanja Arsić warnen davor, ohne
+ausreichende Beweise anzuklagen, sonst drohten Freisprüche ehemaliger Spitzenpolitiker
+([taz, 14.11.](https://taz.de/Nach-den-Parlamentswahlen-in-Serbien/!6229841/)).
+
+*(3) Israel.* Eisenkot hat den Auftrag zur Regierungsbildung (28 Tage, verlängerbar um 14). Sein Plan ist eine
+Minderheits-„Notstandsregierung“: Die 48 Abgeordneten seines Blocks stimmen gegen die 46 Unterstützer Netanjahus, die 26
+Abgeordneten der arabisch geführten und der ultraorthodoxen Parteien könnten sich enthalten. Netanjahu wirbt um eine
+Einheitsregierung, Eisenkot nennt das *„tricks“*. Am Dienstag, dem 17.11., wählt die Knesset ihren Sprecher; das Amt hat bisher
+Netanjahus Verbündeter Amir Ohana, die Opposition schlägt Matan Kahana vor
+([Al Jazeera, 14.11.](https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security)).
+
+**Deutung:** Die zweite Stelle der These, das Werkzeug, wird in zwei Ländern zugleich sichtbar. In Ungarn ermittelt
+eine Behörde, die die neue Mehrheit geschaffen hat, mit eigenem Anklagerecht, und der Regierungschef nennt die größte
+Oppositionspartei eine kriminelle Vereinigung. Das ist bisher ein Satz und keine Maßnahme. Es ist aber genau die
+Richtung, an der die ungarische Bedingung *„Fidesz kann als Opposition frei antreten“* hängt. In Israel ist die
+Aufnahmebedingung weiter offen; eine Minderheitsregierung ohne Netanjahu würde sie erfüllen.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Geld im Wald ist ein Fund und noch kein Urteil. Wer Korruption verfolgt,
+kapert damit noch nichts; entscheidend ist, ob Gerichte die Verfahren tragen und ob die NVVH ihrerseits kontrolliert
+wird. **(2)** In Serbien handeln Staatsanwälte, bevor die neue Regierung im Amt ist. Das spricht eher für Institutionen,
+die sich vom politischen Druck lösen, als für eine neue Kaperung, und so liest es die Staatsanwältin selbst. **(3)** Die
+Warnung vor schnellen Anklagen kommt aus dem eigenen Lager der Aufklärer. Scheitern die Verfahren, wäre das kein Beleg
+für eine Kaperung, sondern für eine Justiz, die noch nicht arbeitet, wie sie soll.
+
+**Zwischensignale bis zum Review (29.11.):** ob die NVVH gerichtlicher Kontrolle unterliegt · das Gutachten der
+Venedig-Kommission am 11./12.12. · ob in Serbien eine Regierung gebildet und die Präsidentenwahl ausgeschrieben wird
+(Frist 27.12.) · die Wahl des Knesset-Sprechers.
 
 ### 2026-11-08 — Israel: Ergebnis amtlich, Regierung offen (Konfidenz unverändert 55 %)
 
@@ -298,6 +343,10 @@ die erste Runde gewonnen. Abgewählt ist nicht verschwunden.
 >   Aufnahme-Bedingung und mit eigenem Maßstab.
 > - **08.11.2026:** Die Klarstellung zur Einheitsregierung steht vor dem Ereignis, nicht danach. Sie macht die Aufnahme
 >   leichter, nicht schwerer. Der Grund ist der Wortlaut, nicht ein gewünschtes Ergebnis.
+> - **15.11.2026:** Hier greift die Probe aus dem Punkt „Abneigung“ zum ersten Mal an einem Satz. Hätte Orbán die
+>   größte Oppositionspartei eine „organisierte kriminelle Vereinigung“ genannt, stünde das in dieser Spur als Warnsignal.
+>   Bei Magyar steht es genauso da. Der Bargeldfund im Wald macht den Satz verständlich, aber nicht harmlos: Ein Fund
+>   belegt einen Fall, keine Partei.
 
 ---
 

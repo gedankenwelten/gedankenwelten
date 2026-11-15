@@ -14,7 +14,7 @@ status: offen
 konfidenz: 63%
 review-takt: 30-tage
 eroeffnet: 2026-07-06
-aktualisiert: 2026-10-29
+aktualisiert: 2026-11-15
 description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat."
 ---
 
@@ -45,7 +45,7 @@ description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Die
 
 ## Die These
 
-> **Stand (Konfidenz 63 %, zuletzt geprüft 11.10.2026):** Wo die AfD reale Macht ausübt, nutzt sie diese, um die Mechanismen zu
+> **Stand (Konfidenz 63 %, zuletzt geprüft 15.11.2026):** Wo die AfD reale Macht ausübt, nutzt sie diese, um die Mechanismen zu
 > schwächen, die Macht einhegen — und beginnt, das zu realisieren, was das GFF-Gutachten ihr als Ziel
 > nachweist: Ausschluss politischer Gegner aus der Willensbildung, Aufteilung von Menschen in Klassen,
 > Aushöhlung der Institutionen (Justiz, Verfassungsschutz, Rundfunk, Verwaltung), die sie kontrollieren
@@ -200,6 +200,31 @@ nimmt (Gesetz, Antrag, Verwaltungsakt, Haushaltstitel) — Reden und Codes bleib
 nicht als Bestätigung gewertet. Dieselbe Strenge, die das Gutachten glaubwürdig macht, gilt auch hier.
 
 ## Verlauf
+
+### 2026-11-15 — Die erste Mehrheit: gegen einen Medien-Staatsvertrag (Konfidenz 63 % → 63 %)
+
+**Befund (Dim. C, Landtag Sachsen-Anhalt, Ebene 2 mit Mehrheit):** Am 13.11. lehnten AfD und BSW im Landtag von
+Sachsen-Anhalt mit ihrer Mehrheit den Digitalen Medien-Staatsvertrag ab. Mit ihm wollen die Länder europäische Vorgaben
+zur Medienfreiheit, zur politischen Werbung und zur Medienaufsicht umsetzen. Zustimmen müssen die Regierungschefs und
+die Parlamente aller 16 Länder, erst dann kann er wie geplant am 01.08.2027 in Kraft treten. Beide Parteien fordern
+weitere Reformen bei ARD, ZDF und Deutschlandradio. Das BSW begründet seine Ablehnung damit, die Öffentlich-Rechtlichen
+müssten pluralistischer und transparenter werden; die AfD will die Rundfunkstaatsverträge kündigen und einen
+*„Grundfunk“* einführen. SPD, CDU, Linke und Grüne warnen vor Verstößen gegen EU-Vorgaben
+([Deutschlandfunk, 13.11.](https://www.deutschlandfunk.de/sachsen-anhalt-afd-und-bsw-positionieren-sich-medienpolitisch-gemeinsam-100.html)).
+Der AfD-Spitzenkandidat Ulrich Siegmund stellt sich Mitte Dezember zur Wahl zum Ministerpräsidenten; ihm fehlen dafür drei Stimmen aus anderen
+Fraktionen ([der Freitag](https://www.freitag.de/autoren/sebastian-baehr/afd-minderheitsregierung-in-sachsen-anhalt-warum-experten-vor-siegmund-warnen)).
+
+**Deutung:** Es ist die erste Abstimmung, in der eine Mehrheit mit der AfD einen Beschluss in Dimension C (Rundfunk)
+trägt, und ein Landtagsbeschluss nimmt die Maßnahmen-Schwelle. Ob er „Umbau zur Kontrolle“ ist, ist offen: Er blockiert
+einen Vertrag, er baut noch keine Anstalt um. Auf der Messlatte vom 17.10. steht die Kündigung der
+Rundfunkstaatsverträge; dieser Beschluss ist nicht sie, aber er zeigt, dass sich für Rundfunkfragen eine Mehrheit findet.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Das BSW stimmt genauso, mit eigener Begründung. Ist die Ablehnung ein
+Bündnis und nicht die Handschrift der AfD allein, greift die registrierte Schwächung *„auch von anderen Parteien
+praktiziert“* zum Teil. **(2)** Einen Staatsvertrag abzulehnen ist das Recht jedes Landesparlaments; dass dafür die
+Zustimmung aller 16 nötig ist, macht jedes Nein zur Blockade, gleich von wem. Ob andere Landtage früher Medien-
+Staatsverträge abgelehnt haben, ist für den nächsten Sweep nachzuschlagen. **(3)** Die AfD regiert noch nicht. Die
+Spur misst an der Praxis einer Regierung, und die beginnt frühestens im Dezember.
 
 ### 2026-10-29 — Nachtrag: eine Stimme aus Halle (Konfidenz 63 % → 63 %)
 
@@ -488,6 +513,12 @@ Sie nutzt den Rechtsweg, den sie laut These aushöhlen will — solange er ihr d
 > über die Partei, und diese Stelle wird offen benannt statt rückwirkend geflickt. Dazu ein eigener Fehler: Der letzte
 > Sweep hielt den Kreistag vom 26.08. für „nur negativ bekannt“, obwohl das Amtsblatt den Beschluss vier Wochen später
 > druckte. Das Amtsblatt gehört bei jedem Sweep an den Anfang, vor die Presse.
+
+> [!question] Sweep 15.11.2026 — die Versuchung hieß „erste Mehrheit“
+> Ein Beschluss in Dimension C, getragen von einer Mehrheit mit der AfD, ist der Moment, auf den die Spur seit Juli
+> schaut, und darum der Moment, in dem man ihn zu groß liest. Er blockiert einen Vertrag, er baut keine Anstalt um, und
+> das BSW hat mit eigener Begründung genauso gestimmt. Der eigene Fehler diesmal: Die Plenarprotokolle des Landtags sind
+> nicht gelesen, nur der Bericht darüber. Beim nächsten Sweep gehören sie, wie das Amtsblatt, an den Anfang.
 
 
 ## Muster — der Vergleich mit dem autoritären Playbook

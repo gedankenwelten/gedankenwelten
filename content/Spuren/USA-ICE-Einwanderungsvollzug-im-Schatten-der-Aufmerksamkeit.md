@@ -12,7 +12,7 @@ status: offen
 konfidenz: 82%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-11-04
+aktualisiert: 2026-11-15
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -56,6 +56,47 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-11-15 — Rekordjahr, und die Frage, was gezählt wird (Konfidenz 82 % → 82 %)
+
+**Befund:** *(1) Die Zahlen.* Das Heimatschutzministerium meldete am **11.11.** für das Haushaltsjahr 2026 483.200
+Abschiebungen durch ICE und mehr als 491.000 Festnahmen, die höchsten Werte in der 23-jährigen Geschichte der Behörde
+(2025: 442.640 Abschiebungen). Im September waren es mehr als 48.000 Festnahmen, nach zwei Rekordmonaten mit zuletzt
+50.925 im August. Heimatschutzminister Markwayne Mullin: *„September 2026 was the best September in ICE's history in
+terms of arrests.“* Steven Camarota, Forschungsleiter des Center for Immigration Studies, das für weniger Zuwanderung
+eintritt, sagt, der Vollzug sei stärker als unter jedem früheren Präsidenten. Aus den Zahlen gehe aber nicht hervor,
+welcher Anteil im Landesinneren und welcher an Grenze oder Flughafen abgeschoben wurde. Laut Reuters/Ipsos liegt die
+Zustimmung zu Trumps Einwanderungspolitik bei 38 %, zu Beginn der Amtszeit waren es 50 %
+([Al Jazeera, 13.11.](https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026)).
+
+*(2) Der neue Kongress.* Bennie Thompson, künftiger Vorsitzender des Heimatschutzausschusses im Repräsentantenhaus:
+*„We will investigate the administration weaponising DHS against Americans“*. Henry Cuellar, ein Demokrat der Mitte aus
+Texas, hat nach eigenen Worten mit Regierungsvertretern schon darüber gesprochen, den Vollzug auf Straftäter zu
+richten: *„We're not going to be extreme.“* Die gewählte Senatorin Peggy Flanagan aus Minnesota, wo Bundesbeamte im
+Januar zwei Menschen erschossen: *„We will rip ICE apart“* (Al Jazeera, 13.11.).
+
+*(3) Der Präsident.* In „60 Minutes“ (CBS, 08.11.) fragte Ross Douthat, ob die Abschiebepolitik zu weit gegangen sei.
+Trump: *„I think it might be too tough, yeah. And a lotta people would say that it's great. But a lotta people think
+it's too tough.“* Für Menschen, die *„in some cases here for 10 and 15 years“* im Land seien, solle man *„work a deal“*,
+das sei *„actually doable“*; abgeschoben werden sollten *„the killers“*, *„the rapists“*, *„the drug dealers“*
+([CBS, Transkript](https://www.cbsnews.com/news/read-the-full-transcript-of-ross-douthats-interview-with-president-trump/)).
+
+**Deutung:** *„Haftzahlen steigen weiter“* gilt für Abschiebungen und Festnahmen im Jahr. Der Rekord wurde breit
+gemeldet, und für die zweite Hälfte der These, die nachlassende Sichtbarkeit, ist das ein Gegendatum. Trumps Satz ist
+ein Wort, keine Maßnahme. Am Tag nach der Ausstrahlung wurde Stephen Miller Stabschef (→
+[[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit]]). Ob dem Wort eine Richtung folgt,
+zeigen die Festnahmezahlen der nächsten Monate.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Camarotas Einwand ist fast wörtlich die vorregistrierte Widerlegung
+*„statistisch überzeichnet (Backlog/Definition)“*. Ohne die Aufteilung nach Landesinnerem und Grenze zeigt die Summe
+nicht, dass im Landesinneren mehr zugegriffen wird. Der Einwand kommt ausgerechnet von einer Stimme, die den Vollzug eher
+befürwortet. **(2)** Im September sanken die Festnahmen zum ersten Mal nach zwei Rekordmonaten. **(3)** Ein Präsident,
+der die eigene Politik „too tough“ nennt und einen Deal für Langansässige anbietet, ist genau die Richtung, in der die
+Spur geschwächt würde, wenn ihr Taten folgen. **(4)** Der Kongress ab Januar spricht mit drei Stimmen: ermitteln,
+mäßigen, zerschlagen. Welche sich durchsetzt, entscheidet, ob er bremst.
+
+**Für den nächsten Sweep:** die Aufteilung nach Landesinnerem und Grenze in den ICE-Daten (Deportation Data Project,
+TRAC). Daran entscheidet sich die Gegenbedingung.
 
 ### 2026-11-04 — Gewählt ist, bezahlt auch: der neue Kongress und das Geld bis 2029 (Konfidenz 84 % → 82 %)
 
@@ -1101,6 +1142,12 @@ sich wieder schließt.
 >   dahinter. Die zweite Versuchung kommt von der Wahl: Ein Kongress, der hinsehen will, fühlt sich schon wie die
 >   Bremse an. Gezählt wird er erst, wenn er hinsieht. Und die Datenlücke stützt den Kern so bequem, dass sie
 >   misstrauisch machen muss: Wo nichts gezählt wird, lässt sich alles hineinlesen.
+> - **15.11.2026:** Ein Rekordjahr fühlt sich an wie die Bestätigung, auf die die Spur angelegt ist. Der stärkste
+>   Einwand kam diesmal von der Seite, die den Vollzug will: Camarota fragt, was in der Summe steckt, und genau das ist
+>   die registrierte Widerlegung. Darum bleibt die Konfidenz, wo sie ist, und die Aufteilung nach Landesinnerem und
+>   Grenze wird zur Hausaufgabe, nicht zur Fußnote. Die zweite Versuchung ist Trumps „too tough“: Es wäre leicht, den
+>   Satz als Taktik abzutun, weil am nächsten Tag Miller Stabschef wurde. Er steht als Wort im Befund, und gemessen wird,
+>   ob ihm etwas folgt.
 
 ## Verbindungen
 

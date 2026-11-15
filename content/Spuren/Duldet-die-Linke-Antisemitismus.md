@@ -15,7 +15,7 @@ status: offen
 konfidenz: 60%
 review-takt: 30-tage
 eroeffnet: 2026-09-27
-aktualisiert: 2026-10-29
+aktualisiert: 2026-11-15
 description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin."
 ---
 
@@ -38,7 +38,7 @@ description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie dulde
 
 ## Die These
 
-> **Stand (Konfidenz 60 %, eröffnet 27.09.2026, zuletzt geprüft 11.10.2026):** Die Linke **duldet in Berlin Antisemitismus in ihren Reihen.** Sie ist nach dem vorregistrierten Maßstab keine antisemitische Partei (Stufe A nicht erfüllt), aber ihr **Berliner Landesverband** steht auf **Stufe B**: Er ist im Sinne der britischen Gleichstellungsbehörde *verantwortlich* für Antisemitismus in seinen Reihen, weil er Positionen seiner Gliederungen und Mandatsträger duldet, ohne daraus Konsequenzen zu ziehen. Die Bundespartei lag bei der Anlage näher an Stufe C: Sie hat ein Problem, und sie handelte, wenn auch zögerlich. Nach dem Sweep vom 4. Oktober steht sie zwischen B und C.
+> **Stand (Konfidenz 60 %, eröffnet 27.09.2026, zuletzt geprüft 15.11.2026):** Die Linke **duldet in Berlin Antisemitismus in ihren Reihen.** Sie ist nach dem vorregistrierten Maßstab keine antisemitische Partei (Stufe A nicht erfüllt), aber ihr **Berliner Landesverband** steht auf **Stufe B**: Er ist im Sinne der britischen Gleichstellungsbehörde *verantwortlich* für Antisemitismus in seinen Reihen, weil er Positionen seiner Gliederungen und Mandatsträger duldet, ohne daraus Konsequenzen zu ziehen. Die Bundespartei lag bei der Anlage näher an Stufe C: Sie hat ein Problem, und sie handelte, wenn auch zögerlich. Nach dem Sweep vom 4. Oktober steht sie zwischen B und C.
 
 Die These ist an der **Praxis** falsifizierbar. Ob einzelne Mitglieder antisemitisch denken, ist nicht die Frage; das gibt es in jeder Partei. Die Frage ist, was die Partei mit denen macht, die in ihrem Namen sprechen. Wer sie wählt, kann keine Partei steuern; wem sie eine Bühne, ein Mandat oder Rückhalt gibt, schon.
 
@@ -97,6 +97,54 @@ davon unberührt und würde nach den vier Schritten geprüft.
 **Sonderregel zur Querachse:** Die Messung der Berichterstattung (unten) darf die Stufe weder heben noch senken. Eine laute Kampagne macht einen Vorwurf weder wahr noch falsch.
 
 ## Verlauf
+
+### 2026-11-15 — Die Partei will das Mandat zurück, die Fraktion den Ausschluss (Konfidenz 60 % → 60 %)
+
+*Fenster 29.10.–15.11. Gezählt nach den Zählregeln vom 20.10. und 29.10.: Ein Fraktionsausschluss und die Aufforderung,
+das Mandat zurückzugeben, sind Befunde unter Kriterium 5, keine Schritte.*
+
+**Befund:**
+
+**Der Parteitag (Kriterium 1).** Am 31.10. stimmte der Landesparteitag bei wenigen Gegenstimmen und Enthaltungen für
+Koalitionsverhandlungen mit SPD und Grünen ([tagesschau, 31.10.](https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html)).
+Im Beschlussverzeichnis des Landesverbands steht für diesen Tag ein einziger Beschluss, die Aufnahme der Verhandlungen
+samt Prioritätenliste ([dielinke.berlin](https://dielinke.berlin/landesparteitag/beschluesse/)). Wie über die Anträge
+A3, A8, A5 und A16 entschieden wurde, haben wir weder dort noch in den Berichten gefunden. Eralp hatte vorher gesagt,
+mit den Antragstellern sei *„gesprochen und verhandelt“* worden ([rbb24, 31.10.](https://www.rbb24.de/politik/beitrag/2026/10/linke-parteitag-elif-eralp-koalitionsverhandlungen.html)).
+Der Befund ist darum offen, nicht negativ.
+
+**Führung (Kriterium 2).** Auf dem Parteitag sagte die Bundesvorsitzende Schwerdtner nach rbb, Provokationen oder moralische
+Posen, etwa bei der Palästina-Solidarität, nützten keinem Kind in Gaza; wer ein Mandat übernehme, trage Verantwortung.
+Vor der Halle protestierten gut 50 Menschen gegen die Verhandlungen, unter ihnen Emde. Die *„Kriminalisierung und die
+Dämonisierung der Palästinasolidarität“* müsse für die Linke eine rote Haltelinie sein, sagte sie, ebenso die
+*„Komplizenschaft mit Völkermördern“* (rbb24, 31.10.). Der Ko-Vorsitzende Pantisano verteidigt das Tempo des
+Verfahrens: Es gebe feste Fristen, und man könne eine gewählte Abgeordnete nicht einfach vor die Tür setzen. Emde habe
+sich *„selbst disqualifiziert“* ([Deutschlandfunk, 14.11.](https://www.deutschlandfunk.de/linke-parteichef-pantisano-verteidigt-verfahren-zu-berliner-abgeordneten-emde-100.html)).
+
+**Konsequenz (Kriterium 5).** Der Landesvorstand forderte Emde Anfang November auf, ihr Mandat niederzulegen und an die
+Partei zurückzugeben. Emde, in Neukölln mit mehr als 20 Prozentpunkten Vorsprung direkt gewählt, lehnte zwei Tage später
+ab. Die Fraktion bereitet einen Ausschlussantrag vor; wegen der Fristen könnte Emde frühestens in der Sitzung am
+**24.11.** ausgeschlossen werden, nötig ist eine Zweidrittelmehrheit. SPD und Grüne wollen nur koalieren, wenn sie nicht
+Mitglied der Fraktion bleibt, und am Ende stimmen bei allen drei Parteien die Mitglieder über die Koalition ab
+([taz, 14.11.](https://taz.de/Causa-Vanessa-Emde/!6224457/)).
+
+**Deutung:** Nach den Zählregeln ist die Aufforderung des Landesvorstands ein Befund unter Kriterium 5, die erste
+Konsequenz gegen eine Berliner Mandatsträgerin, die über Worte hinausgeht. Ein Ausschluss am 24.11. wäre der zweite.
+Begründet werden beide mit der Vereinbarung und dem Mandat, nicht mit einem Inhalt im gemeinsamen Kern; Emdes Sätze
+bleiben Grauzone. Von den vier registrierten Schritten (Bruns, die Nähe zur VPNK in Neukölln, Ombudsstelle, Koçak,
+Aufarbeitung mit Daten) ist weiter keiner belegt. Die Einstufung B für Berlin hält.
+
+**Gegenbeobachtung (Pflicht):** **(a)** Der Druck kommt sichtbar von außen, aus den Bedingungen der Koalitionspartner.
+Das ließe sich als Duldung lesen, die nur unter Zwang endet. Parteien bewegen sich aber oft genau so, und eine
+Konsequenz ist eine Konsequenz, auch wenn jemand sie erzwungen hat. **(b)** Ob die Zweidrittelmehrheit zustande kommt,
+ist offen; die taz zweifelt, ob die Fraktionsführung genug Rückhalt hat. Scheitert der Antrag, wäre das ein Befund gegen
+Kriterium 5, gefasst von der Fraktion selbst. **(c)** Pantisanos Hinweis auf Fristen ist dasselbe Argument wie das
+„Gründlichkeit vor Schnelligkeit“ vom Oktober, und nach dem EHRC-Maßstab ist ein Verfahren nach Regeln besser als ein
+schnelles.
+
+**Wachpunkte:** Fraktionssitzung **24.11.** (Ausschluss, Zweidrittelmehrheit) · der Ausgang der Anträge A3, A8, A5 und
+A16 · Benennung der drei Fachleute der Vereinbarung · Mitgliederentscheid über den Koalitionsvertrag. Der Bundeskongress
+der Linksjugend (06.–08.11.) ist in diesem Sweep nicht ausgewertet.
 
 ### 2026-10-29 — Der Fall Emde: Sprechverbot, Vertagung, kein Antrag; die Schritte stehen still (Konfidenz 60 % → 60 %)
 
@@ -369,6 +417,12 @@ Für das Urteil über die Partei spielt diese Messung nach der eigenen Regel kei
 > - **Wachpunkt Definition:** Das Urteil hängt daran, dass nur der gemeinsame Kern zählt. Wer die IHRA allein anlegt, kommt für Niedersachsen und den Jugendverband zu Stufe A. Wer die JDA allein anlegt, sieht fast nur Grauzone. Die Spur hält beide Rechnungen offen, damit niemand sich die Definition nach dem gewünschten Ergebnis aussucht, auch sie selbst nicht.
 > - **Verlangen, erste Woche (04.10.):** Die Bewegung nach vorn, Satzung und Vorgespräche, fühlt sich an wie Einsicht, und genau das ist die Falle. Ohne die vorab festgelegte Regel hätte dieser Sweep die Satzung womöglich schon als Schritt 4 gezählt. Die Präzisierung steht deshalb vor dem 6. Oktober in der Falsifikation, nicht danach.
 > - **Wachpunkt Hauptschauplatz:** Neukölln ist, wo die Kameras stehen. Künftige Sweeps suchen auch daneben: andere Landesverbände, Kommunalparlamente, die Arbeit der BAG Shalom, und die Fälle, in denen die Partei gehandelt hat und niemand darüber berichtet.
+
+> [!question] Sweep 15.11.2026 — die Lücke, die man füllen möchte
+> Wie der Parteitag über A3 und A8 entschieden hat, ließ sich nicht finden. Die Versuchung war, die Lücke zu füllen:
+> Ein einziger Beschluss im Verzeichnis sieht aus wie „abgelehnt“ oder „zurückgezogen“, und beides wäre bequem
+> gewesen. Es steht als offen da. Die zweite Versuchung liegt im Ausschluss selbst: Fällt er am 24.11., wird er sich
+> wie ein Schritt anfühlen. Die Zählregel vom 20.10. sagt vorher, dass er keiner ist.
 
 > [!question] Sweep 29.10.2026 — der Leser liest strenger als der Maßstab
 > Luc bevorzugt die Zwei-Staaten-Lösung. Emdes Satz, Staaten hätten kein Existenzrecht, und ihre Einstaatenlösung

@@ -113,7 +113,7 @@ Frankfurt hatte Poseck am 01.11. gesagt, dort dürfe *„keine mit gestern vergl
 ([Innenministerium](https://innen.hessen.de/presse/erste-einordnung-nach-gewaltausbruechen-waehrend-und-nach-der-versammlung-der-generation-z)).
 Im Innenausschuss nannte er ein Verbot *„die Ultima Ratio“*; geprüft würden Auflagen und, bei bekannten Tätern,
 Unterbindungsgewahrsam ([FAZ, 11.11.](https://www.faz.net/aktuell/rhein-main/region-und-hessen/krawallnacht-in-frankfurt-poseck-kuendigt-mehr-polizei-und-haertere-gangart-an-accg-201671202.html)).
-Zu den Forderungen hatte die SPD-Fraktion gleich nach der Nacht einen nationalen Bildungsgipfel verlangt,
+Zu den Forderungen hatte die SPD-Fraktion einen nationalen Bildungsgipfel verlangt,
 Bildungsministerin Prien wollte *„ins Gespräch kommen“*, und die Bundesregierung sagte den Schülern: *„Sie werden
 von der Politik gehört.“* ([Deutschlandfunk, 02.11.](https://www.deutschlandfunk.de/bundesregierung-lobt-schueler-fuer-friedliche-proteste-sie-werden-von-der-politik-gehoert-100.html))
 Einen Termin für den Gipfel haben wir bis zum 15.11. nicht gefunden.
