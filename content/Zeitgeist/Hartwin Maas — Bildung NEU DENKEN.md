@@ -177,6 +177,10 @@ Die Haupthindernisse für Systemreform:
 
 ## Verbindungen
 
+### → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Was das Handy misst|Daniel Jung — KI hilft, KI hindert]]
+
+Der Mathematik-Erklärer Daniel Jung setzt vor Ausbildern auf Aufklärung statt Handyschrank, weil die Jungen ein Verbot nicht verstünden. Maas' Befund, dass viele von ihnen selbst um Schutzräume bitten, stellt genau diese Annahme infrage.
+
 ### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
 Ein Kinderpsychiater nennt Kindheiten „zu geschützt“, eine Schule in Arnstadt verbietet Handys: Maas' erlernte Hilflosigkeit und sein Ruf nach Schutzräumen an Thüringer Fällen.
 

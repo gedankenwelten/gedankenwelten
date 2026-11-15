@@ -292,6 +292,10 @@ Antidepressiva wirken nach seiner Darstellung, indem sie die Neurogenese im Hipp
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Was das Handy misst|Daniel Jung — KI hilft, KI hindert]]
+
+Daniel Jung, der auf YouTube Mathematik erklärt, teilt Spitzers Befund über Bildschirme und folgert daraus Aufklärung vor Verbot. Als ihn jemand nach Altersgrenzen wie beim Alkohol fragt, bleibt die Frage offen.
+
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Warum scheitern Alzheimer-Mittel so oft|Made in Germany Awards 2026 — Medizin]]
 
 Dass Befund und Symptom bei Alzheimer auseinanderfallen, erklärt auch, warum so viele Mittel scheitern, die ihr Ziel im Gehirn nachweislich treffen.

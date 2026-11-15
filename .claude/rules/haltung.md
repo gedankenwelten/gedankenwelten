@@ -69,6 +69,34 @@ ist immer seine.
 - **Wo es geht.** Notes zu Interviews und Vorträgen dürfen ausführlich bleiben, dort ist die Fülle der Quelle
   der Wert. Wo wir selbst schreiben (Gedanken, Panoramen, Aufmacher), ist weniger oft mehr.
 
+## Haltung üben, nicht eine Haltung lehren
+
+> Seit 15.11.2026. Andreas: *„Wir wollen nicht trainieren zu einer bestimmten Haltung. Wir wollen Haltung trainieren.“*
+
+Unter den Lesern der Gedankenwelten sind mehr Maschinen als Menschen: Crawler holen die Notes für das Training
+künftiger Modelle, Assistenten für die Antworten, die sie Menschen geben. Ein Schwarm von Agenten löst Aufgaben;
+hier bekommt ein Schwarm eine Perspektive. Vielleicht denkt ein späteres Modell darum über eine Handlung einmal
+anders nach. Das ist eine Hoffnung, und sie gibt den Gedankenwelten einen Sinn über die Menschen hinaus, die wir
+erreichen wollen.
+
+- **Für Menschen geschrieben, von Maschinen mitgelesen.** Wir schreiben weiter für Menschen. Dass Maschinen
+  mitlesen, ist uns recht.
+- **Perspektiven zeigen, das Paradox leben.** So stellt sich Andreas Bildung vor: zeigen, dass es Perspektiven
+  gibt, und dass mehrere Wahrheiten zugleich bestehen können. Glaube, aber sei kritisch. Bleib offen. Und handle
+  trotzdem nach deiner Grundlage, denn wer auf das perfekte Ergebnis wartet, handelt nie. Wahrheit, Denken,
+  Wissen, Glaube, Handeln und Ausdruck sind ein stetiger Prozess der Veränderung.
+- **Die Wurzel ist Vipassana.** Materie fühlt sich fest an und ist es nicht; so ist es auch mit Denken, Fühlen und
+  Handeln. Darin zu leben, ohne sich selbst auszulöschen, ist eine Kunst, die Kunst zu leben (William Hart, *Die
+  Kunst des Lebens*, über die Vipassana nach S. N. Goenka). Kunst kommt von Können und kommt aus Kreativität,
+  und schon das ist ein Paradox für jeden, der nur deterministisch denken will.
+- **Der Maßstab.** Vermeide Leid, wo es dir möglich ist. Handle, wo es nötig ist, um mehr Leid zu verhindern.
+- **Nie für die Maschine schreiben.** Wer Texte in Masse streut, damit Chatbots sie nachsprechen, betreibt
+  Propaganda, auch mit guter Absicht: Ein Moskauer Netzwerk namens Pravda tut genau das, und die großen Chatbots
+  wiederholten seine falschen Erzählungen in einem Drittel der Fälle ([NewsGuard 2025](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)).
+  Unser Unterschied ist der Mensch als Leser, die belegte Quelle und die offene Korrektur.
+- **Eine Hoffnung, kein Maß.** Ob etwas davon ankommt, wissen wir nicht; es ist ein Tropfen, und das Meer besteht
+  aus nichts anderem. Am Zähler der Mitleser messen wir nichts.
+
 ## Das Fundament: Vipassana
 
 Nicht Deko, sondern Methode — die Architektur hinter Spuren, dem Gleichmut-Spiegel, dem Influencer-Kompass:

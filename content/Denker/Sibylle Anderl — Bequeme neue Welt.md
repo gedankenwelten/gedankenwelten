@@ -263,6 +263,10 @@ Ein eigenes Panorama trägt der Bestand noch nicht. Es fehlt die Stimme derer, u
 
 ## Verbindungen
 
+### → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Was das Handy misst|Daniel Jung — KI hilft, KI hindert]]
+
+Der Mathematik-Erklärer Daniel Jung teilt ihr „Lernen braucht Widerstand“ und setzt gegen die Plattformen auf die Aufklärung des Einzelnen, vom Azubikurs bis zum Elternführerschein. Ihr Einwand gegen den Fußabdruck-Rechner trifft genau diese Reihenfolge.
+
 ### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 Hans Satz *„Ich bin bequem, aber ich bin nicht glücklich“* fasst Anderls Paradox in einem Atemzug. Beide finden das Glück am selben Ort, am Klavier, an dem man scheitert, bis die Hand es kann. Han macht daraus eine Totaldiagnose des Glatten. Anderl gibt die nüchternere Antwort: eine Rechnung für jede einzelne Bequemlichkeit, aufgestellt von einer, die sich selbst „exzessive Handynutzerin“ nennt.
 

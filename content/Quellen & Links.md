@@ -5977,3 +5977,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Bauckhage_Agentenschwaerme_Jung_Transkript.txt` |
 | **Nachbesprechung** | [Appel & Haken 1976](https://doi.org/10.1090/s0002-9904-1976-14122-5) · [Tymoczko 1979](https://doi.org/10.2307/2025976) · [Scholze, Liquid Tensor Experiment, 2020](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/) · [Bastani u. a. 2025](https://doi.org/10.1073/pnas.2422633122) · [Schaeffer, Miranda & Koyejo 2023](https://doi.org/10.52202/075280-2425) |
 
+
+## Daniel Jung — KI hilft, KI hindert
+
+| | |
+|---|---|
+| **Vortrag** | [KI hilft. KI hindert. — Keynote Christiani Ausbildertag](https://www.youtube.com/watch?v=oYhc3qjTks4) — Mathe by Daniel Jung, veröffentlicht 08.11.2026, mit 30 Minuten Fragerunde |
+| **Kurzfassung** | [Wie KI unser Lernen für immer verändert — Frankfurter Buchmesse](https://www.youtube.com/watch?v=7lHT_dLtAcw) |
+| **Notiz** | [[Geistesblitz/Daniel Jung — KI hilft, KI hindert]] · Vita [[DenkerVita/Daniel Jung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Jung_KI_hilft_KI_hindert_Transkript.txt` (Lücken der Fragerunde mit Whisper nachgehört) |
+| **Aus der Beschreibung** | [Christiani Ausbildertag 2026](https://www.christiani.de/cms/christiani-ausbildertag-2026/) · [Studie AIEDN, HdM Stuttgart](https://ai.hdm-stuttgart.de/research/aiedn-ai-education/download-studie/) |
+| **Nachbesprechung** | [Kofinas u. a. 2025](https://doi.org/10.1111/bjet.13585) · [Liang u. a. 2023](https://doi.org/10.1016/j.patter.2023.100779) · [Huxham u. a. 2010](https://doi.org/10.1080/02602938.2010.515012) · [Wass u. a. 2003](https://doi.org/10.1046/j.1365-2923.2003.01417.x) · [Rae u. a. 2025](https://doi.org/10.1080/02602938.2025.2580622) · [Dawson u. a. 2024](https://doi.org/10.1080/02602938.2024.2386662) |

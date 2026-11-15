@@ -327,6 +327,10 @@ Wobei diese Lücke vielleicht ehrlicher ist als ihre schnelle Schließung. Mange
 
 ## Verbindungen
 
+### → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Publikumsfragen|Daniel Jung — KI hilft, KI hindert]]
+
+Daniel Jung hält das Wegschließen der Handys für wirkungslos und setzt auf Aufklärung und die Eltern. Der Versuch mit dem gesperrten mobilen Netz ist die Gegenprobe zum ersten, „Zugehörigkeit schlägt Algorithmus“ die Brücke zu seinem Elternführerschein.
+
 ### → [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout]]
 Der Film endet beim Zuhören „auf Augenhöhe“ und bei einer Forscherin, die Kinder als künftige Arbeitskräfte braucht. So stehen Mattering und sein Missverständnis in einem Film.
 

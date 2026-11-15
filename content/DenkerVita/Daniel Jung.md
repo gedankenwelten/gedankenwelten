@@ -46,7 +46,7 @@ tags: [denker-vita, bildung, mathematik, ki, lernen, social-media, deutschland]
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [KI hilft. KI hindert. — Keynote Christiani Ausbildertag](https://www.youtube.com/watch?v=oYhc3qjTks4) (veröffentlicht 08.11.2026, 1:43 Std.) — die ausführliche Fassung seines aktuellen Vortrags, nach eigener Angabe; vor Ausbilderinnen und Ausbildern, mit einer halben Stunde Fragerunde zu Prüfungen, Handyverboten und Aufklärung.
+- [KI hilft. KI hindert. — Keynote Christiani Ausbildertag](https://www.youtube.com/watch?v=oYhc3qjTks4) (veröffentlicht 08.11.2026, 1:43 Std.; → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|unsere Note]]) — die ausführliche Fassung seines aktuellen Vortrags, nach eigener Angabe; vor Ausbilderinnen und Ausbildern, mit einer halben Stunde Fragerunde zu Prüfungen, Handyverboten und Aufklärung.
 - [Wie KI unser Lernen für immer verändert — Keynote Frankfurter Buchmesse](https://www.youtube.com/watch?v=7lHT_dLtAcw) (veröffentlicht 13.10.2026, 37 Min.) — die kompakte Fassung derselben Keynote: Empfehlungsalgorithmen, Lerntechniken, sokratischer Tutor, NotebookLM.
 - [KI Superpower — Wie du alles lernen kannst (data:unplugged)](https://www.youtube.com/watch?v=1RiIMPN3OD4) (veröffentlicht 20.04.2026, 43 Min., englisch) — dieselben Bausteine ein halbes Jahr früher, auf dem Festival data:unplugged.
 - [KI, Lernen & die Fähigkeiten der Zukunft (Uni Mannheim, THINC)](https://www.youtube.com/watch?v=iktEE5GtFcY) (veröffentlicht 30.03.2026, 19 Min.) — kurze Fassung, laut Beschreibung mit „Lernen lernen“ als wichtigster Kompetenz.
@@ -71,3 +71,4 @@ tags: [denker-vita, bildung, mathematik, ki, lernen, social-media, deutschland]
 
 - [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]] (Gastgeber, Juli 2026)
 - [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]] (Gastgeber, November 2026)
+- [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]] (eigene Keynote vor Ausbildern, mit Fragerunde, November 2026)

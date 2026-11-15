@@ -217,6 +217,10 @@ Das Ziel ist das, was Kunow "altersgerechte Versionen der Plattformen" nennt —
 
 ## Verbindungen
 
+### → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Publikumsfragen|Daniel Jung — KI hilft, KI hindert]]
+
+Vor Ausbilderinnen und Ausbildern hält Daniel Jung den „Hardcut“ für wirkungslos und setzt auf Aufklärung. Eine Stimme aus seinem Saal fragt, warum der Gesetzgeber die Plattformen nicht regelt wie den Alkohol, und landet damit bei Paschkes Argument.
+
 ### → [[Denker/Markus Gabriel — Soziale Netzwerke Neue Theorie|Gedankenwelten/Zeitgeist/Markus Gabriel — Was die sozialen Netzwerke mit uns machen]]
 
 Gabriel analysiert Social Media als Aufmerksamkeitsfalle und philosophisches Problem. Paschkes neurobiologisches Argument über Belohnungslernen ergänzt Gabriels medienphilosophische Kritik: Was Gabriel als kulturelles Problem beschreibt (die Verflachung von Realität), ist bei Paschke ein klinisch messbares Symptom mit Suchwert.

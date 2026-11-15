@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 229,
-   "aufrufe": 291
+   "leser": 228,
+   "aufrufe": 290
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -239,11 +239,6 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Alle-Denker",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/DenkerVita/Gert-Scobel",
    "leser": 4,
    "aufrufe": 4
@@ -270,6 +265,11 @@
   },
   {
    "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
    "leser": 4,
    "aufrufe": 4
   },
@@ -329,14 +329,14 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 7,
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 7,
-     "aufrufe": 7
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -429,11 +429,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Denker/Walther-Ziegler-Adorno-in-60-Minuten",
      "leser": 2,
      "aufrufe": 2
@@ -469,12 +464,17 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Spuren/Duldet-die-Linke-Antisemitismus",
+     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 2,
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Spuren/Duldet-die-Linke-Antisemitismus",
      "leser": 2,
      "aufrufe": 2
     },
@@ -502,6 +502,11 @@
      "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
      "leser": 1,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "leser": 1,
+     "aufrufe": 3
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -589,22 +594,17 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 1,
      "aufrufe": 1
     },
     {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Simone-Weil-Die-Ilias-oder-das-Poem-der-Gewalt",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
      "leser": 1,
      "aufrufe": 1
     }
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 229,
-     "aufrufe": 291
+     "leser": 228,
+     "aufrufe": 290
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -849,11 +849,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Alle-Denker",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Gert-Scobel",
      "leser": 4,
      "aufrufe": 4
@@ -880,6 +875,11 @@
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1044,12 +1044,12 @@
      "aufrufe": 18
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "pfad": "/DenkerVita/Udo-Marquardt",
      "leser": 12,
-     "aufrufe": 14
+     "aufrufe": 16
     },
     {
-     "pfad": "/DenkerVita/Udo-Marquardt",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "leser": 12,
      "aufrufe": 14
     },
@@ -1349,12 +1349,12 @@
      "aufrufe": 18
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "pfad": "/DenkerVita/Udo-Marquardt",
      "leser": 12,
-     "aufrufe": 14
+     "aufrufe": 16
     },
     {
-     "pfad": "/DenkerVita/Udo-Marquardt",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "leser": 12,
      "aufrufe": 14
     },
@@ -1674,11 +1674,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Alle-Denker",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 4,
      "aufrufe": 4
@@ -1740,6 +1735,11 @@
     },
     {
      "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Alle-Denker",
      "leser": 3,
      "aufrufe": 3
     },

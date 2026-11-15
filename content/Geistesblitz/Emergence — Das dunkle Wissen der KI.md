@@ -339,6 +339,10 @@ Maschinen lernen inzwischen auch durch Zusehen. Ein Agent lernte aus unbeschrift
 
 ## Verbindungen
 
+### → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Der Mensch als Anker|Daniel Jung — KI hilft, KI hindert]]
+
+Daniel Jung rät Ausbildern, die Meister zu interviewen, bevor ihr Wissen mit ihnen in Rente geht. Der Saphir am Seidenfaden zeigt, was ein Interview davon fassen kann und was nur neben der Werkbank weitergeht.
+
 ### → [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen#Destillation als Technologieklau: 24.000 Fake-Accounts|Morpheus — Warum alle chinesische KI nutzen]]
 
 Morpheus erzählt dieselben Zahlen aus Anthropics Bericht vom Februar 2026 und nennt es Technologieklau: Destillation sei legitim, gefälschte Konten nicht. Emergence liefert die Gegenrechnung, die dort fehlt: Die Bestohlenen haben selbst aus Büchern und Foren gelernt, ohne zu fragen. Morpheus' Hinweis, gerade die offene Schnittstelle mache westliche Modelle angreifbar, ist der Satz des Films vom Lehrer, der nicht Nein sagen kann.

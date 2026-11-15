@@ -2,7 +2,7 @@
 title: "Was macht Schule mit uns?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-11-02
+aktualisiert: 2026-11-15
 description: "Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Die Ecke ist leer. Der Schemel darin steht noch."
@@ -188,6 +188,8 @@ Als Rückmeldung im Lernen schneidet die Ziffer schlechter ab als das Wort. Seit
 
 Der bisher beste Test an Kindern ernüchtert beide Lager. In einem Feldversuch mit 35 notenfreien und 40 Vergleichsgrundschulen unterschieden sich rund 2.300 Kinder bis zum Ende der dritten Klasse weder in Leistung noch in Angst, Lernfreude oder Wohlbefinden, nur im Interesse an Mathematik ([Hübner et al. 2026](https://doi.org/10.1007/s10648-026-10156-1)). Renate Valtins Zeugnisstudie deutet an, warum: Wie es Kindern geht, hängt mehr am Selektionsdruck hinter der Note und an der einzelnen Lehrkraft als an der Form des Urteils (*Was ist ein gutes Zeugnis?*, 2002). Langzeitstudien über die Grundschule hinaus fehlen, und was einzelne Reformschulen berichten, ersetzt sie nicht. Die Alemannenschule Wutöschingen schreibt keine Klassenarbeiten, und ihr erster Abiturjahrgang kam nach Angabe ihres langjährigen Schulleiters auf einen Schnitt von 1,7, bei 2,17 im Landesdurchschnitt. Das ist eine kleine Kohorte von Jugendlichen, die diesen Weg selbst gewählt haben, und gleiche Noten stehen an verschiedenen Schulen für verschiedenes Können (Hübner et al. 2024, s. o.).
 
+Seit die KI schreibt, wackelt auch die schriftliche Prüfung selbst. An zwei britischen Universitäten konnten erfahrene Prüfende Arbeiten mit KI-Anteil nicht von anderen unterscheiden, auch nicht bei praxisnahen Aufgaben ([Kofinas u. a. 2025](https://doi.org/10.1111/bjet.13585), Experiment). Die mündliche Prüfung bietet sich an und hat eigene Schwächen. In einem Losversuch schnitten mündlich Geprüfte besser ab als schriftlich Geprüfte, ohne dass eine Gruppe benachteiligt war, nervöser waren sie trotzdem ([Huxham u. a. 2010](https://doi.org/10.1080/02602938.2010.515012), randomisiert). Zuverlässig wird sie aber erst mit Aufwand: Bei den britischen Allgemeinmedizinern ging gut ein Viertel der Notenunterschiede auf Prüfende und Zufall zurück, erst mehrere strukturierte Gespräche mit je zwei Prüfern machten die Bestehensentscheidung belastbar ([Wass u. a. 2003](https://doi.org/10.1046/j.1365-2923.2003.01417.x)). Die Frage dahinter stellen australische Bildungsforscher: Es gehe weniger darum, Schummeln zu verhindern, als darum zu wissen, dass die Absolventen können, was das Zeugnis behauptet ([Dawson u. a. 2024](https://doi.org/10.1080/02602938.2024.2386662), konzeptionell). Mehr in der [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Prüfen, wenn das Schriftliche nicht mehr trägt|Nachbesprechung zu Daniel Jung]].
+
 **Die Stimmen**
 
 - **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Das Zweier-Kind|Björn Nölte]]:** Sobald die Note dasteht, ist der Lernprozess beendet; kein Schüler überarbeitet eine benotete Klausur.
@@ -198,6 +200,7 @@ Der bisher beste Test an Kindern ernüchtert beide Lager. In einem Feldversuch m
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Vertrauensvorschuss in der vermessenen Gesellschaft|Barbara Bleisch]]:** Die Lehrerin traut dem Kind etwas zu, bevor es etwas bewiesen hat, und genau dieser Vorschuss verschwindet im vermessenen Leben.
 - **[[Albert Moukheiber — Mein Hirn und die anderen#5. Sozialer Stress — das Raubtier sitzt im Publikum|Jacques Barck (bei Moukheiber)]]:** Wer sich bewertet fühlt, erstarrt; selbst Promovierte verstummen bei Fragen, deren Antwort sie kennen.
 - **Stefan Ruppaner** ([▶ 9:56](https://www.youtube.com/watch?v=baoJB6HrpWo&t=596), *Schule von unten*): Keine Klassenzimmer, kein Unterricht im alten Sinn, keine Klassenarbeiten; die Kinder bestimmen Tempo, Lernpartner und die Form ihres *Gelingensnachweises* ([▶ 26:09](https://www.youtube.com/watch?v=baoJB6HrpWo&t=1569)).
+- **[[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Publikumsfragen|Daniel Jung]]:** „Alles schriftliche rezeptartige ist vorbei“, die Prüfung müsse wohl mündlicher werden; wie genau, dafür habe er „ehrlicherweise nicht die Antwort“.
 
 <details><summary>Weitere Stimmen (3)</summary>
 
@@ -279,6 +282,7 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 | 22.10.2026 | [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Was uns bleibt|Gefangene des Systems]] | Wozu ist Schule da? Kritisches Denken lehrbar (Abrami 2015), Schulpflicht und Einstellungen (Cavaillé & Marshall 2019), Kontakt über Klassen (Rao 2019, Chetty 2022) · Beschämen oder schonen: Formung als kleiner Risikofaktor (Gao 2024), Wärme dämpft die Anlage (Henry 2018) · Internatssyndrom an großen Studien geprüft (Martin 2014, Zhong 2024) |
 | 01.11.2026 | [[Andreas Kemper — Faschismen im 21. Jahrhundert#Nachbesprechung|Andreas Kemper — Faschismen im 21. Jahrhundert]] | Sortiert die Schule nach Herkunft, Absatz zu Einstellungen: Schulreform der Alliierten und Ost-Paradox, Witschge 2019 (×2), Janmaat & Mons 2022, Dhont & Van Hiel 2011 · Kemper als Stimme |
 | 02.11.2026 | [[Zeitgeist/MDR exactly — Kinder im Burnout#Nachbesprechung|MDR exactly — Kinder im Burnout]] | Beschämen oder schonen → zu Hause: McLeod 2007, de Roo 2022, SPACE (Lebowitz 2020) · Perfektionismus: Curran & Hill 2019/2022, Lunn 2023 · Wozu ist Schule da → Handyverbote: Beneito 2022, King 2024, Veramendi 2026 (Preprint) · Stimmen Roessner, Linn |
+| 15.11.2026 | [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Nachbesprechung|Daniel Jung — KI hilft, KI hindert]] | Braucht Lernen eine Note → Prüfen im KI-Zeitalter: Kofinas 2025, Huxham 2010, Wass 2003, Dawson 2024 · Jung als Stimme |
 
 ---
 

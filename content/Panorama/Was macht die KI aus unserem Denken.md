@@ -68,7 +68,7 @@ Ungemessen ist auch die Rolle dessen, der nicht mehr selbst schreibt, sondern au
 
 <details><summary>Weitere Stimmen (12)</summary>
 
-- **[[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Die Schere|Daniel Jung]]:** Als Maschinen uns die Kraftarbeit abnahmen, kamen die Fitnessstudios; nimmt die KI die geistige ab, „du reibst dich nicht mehr“.
+- **[[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Die Schere|Daniel Jung]]:** Als Maschinen uns die Kraftarbeit abnahmen, kamen die Fitnessstudios; nimmt die KI die geistige ab, „du reibst dich nicht mehr“. In [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Zwei Sigma und der Tutor, der zurückfragt|seiner Keynote]] setzt er darum auf einen Tutor, der zurückfragt, weil der Lernende von sich aus den bequemen wählt: „Ich will doch einfach nur Aufgabe rein.“
 - **[[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen#Was man einem Roboter nicht sagen kann|Ronnie Vuine]]:** *„Unterschiede zwischen drüber reden und das tatsächlich machen können“*; was ein Roboter in der Fabrik tut, lässt sich nicht in Sprache fassen, darum lernt er durch Vormachen.
 - **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Der Saphir am Seidenfaden|Emergence]]:** Mit Polanyi: *„we can know more than we can tell“*; der Moskauer Saphir klang im Westen erst, als einer neunzig Stunden im Labor stand und man ihm auf die Hände sah.
 

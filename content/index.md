@@ -76,6 +76,10 @@ Die Gedankenwelten (luc)
 >
 > Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
 
+> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
+>
+> Wer sich von der Maschine die Lösung geben lässt, übt besser und schneidet in der Prüfung schlechter ab. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
+
 > **15.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
 >
 > Zwölf Stunden schreibt der Agent, anderthalb Wochen liest der Mensch. Ein Informatiker über Beweise, die niemand lesen kann, und die Frage, die er für die wichtigste hält: Was ist interessant?
@@ -88,13 +92,13 @@ Die Gedankenwelten (luc)
 >
 > Eine Stimme, die anruft, wenn die Kinder es nicht schaffen, ein Lehrmeister, der nach der Rente bleibt, eine Figur, die vom Gefühl erzählt: Drei Erfindungen springen ein, wo ein Mensch fehlt.
 
-> **14.11.** — [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
->
-> Ein Kristall, der sich um Bruchteile eines Nanometers dehnt, ein Tischdeckentrick zwanzigtausendmal pro Sekunde: In Oldenburg baut man Hände für Maschinen, die Chips belichten und prüfen.
-
-> → *15 weitere in* [[Geistesblitz]]
+> → *16 weitere in* [[Geistesblitz]]
 
 ### Panorama
+
+> **15.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
 
 > **15.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 >
@@ -112,11 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Platz am Tisch, reserviert: Was ändert eine Quote unterhalb der Quote, wen hebt sie und wen nicht, kostet sie die, die sie heben soll, ihr Ansehen, und ändert sie, was entschieden wird? Vier offene Fragen und die Stimmen, die an ihnen reiben.
 
-> **15.11.** — [[Panorama/Forschung|Forschung]]
->
-> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
-
-> → *18 weitere in* [[Panorama]]
+> → *19 weitere in* [[Panorama]]
 
 ### Spuren
 

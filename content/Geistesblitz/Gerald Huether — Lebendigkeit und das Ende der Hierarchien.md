@@ -221,6 +221,7 @@ Was die Flucht möglich macht, ist nicht nur Mut — es ist eine Dorfkindheit, i
 
 ## Verbindungen
 
+- [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Lernen muss wehtun|Daniel Jung — KI hilft, KI hindert]] — Der Mathematik-Erklärer Daniel Jung sagt „Lernen muss wehtun“ und geht vom selben Gehirn aus, das den bequemsten Weg sucht. Hüther zieht daraus den entgegengesetzten Schluss, und doch klingt Jungs Ansprache an die Jungen wie eine Einladung.
 - [[ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? (ARTE 42)]] — Hüthers Neuroplastizität ist das biologische Fundament der Persönlichkeitsveränderung, die die Doku beschreibt: kein fertig gebauter Computer, sondern ständiger Um- und Aufbau. Beide kritisieren dieselbe „Potenzial-heben"-Optimierungsindustrie — Hüthers „Gelingen statt Erfolg" rahmt das Fazit „die Stabilität ist eine Kraft".
 - [[Erich Fromm — Haben oder Sein]] — Fromm und Hüther beschreiben dieselbe Krankheit aus verschiedenen Winkeln: Fromm nennt sie *Haben-Modus*, Hüther nennt sie *Verwicklung*. Beide sehen die Wirtschaft als Treiber, beide setzen auf einen anderen Modus von Existenz — Fromm produktiv-aktiv, Hüther *gelingend* statt erfolgreich.
 - [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]] — Teilen Hüthers Kern-Intuition, dass Herrschaftshierarchien nicht eingeschrieben, sondern kulturell übergestülpt sind. Beide lesen Egalitarismus als den natürlicheren Zustand und Hierarchie als rückholbar — Hüther neurobiologisch, van Schaik evolutionär über die drei Naturen.

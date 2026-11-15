@@ -336,6 +336,10 @@ Bleibt Beauvoirs Neid. Susan Wolf hat 1982 gefragt, ob man ein moralischer Heili
 
 ## Verbindungen
 
+### → [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Lernen muss wehtun|Daniel Jung — KI hilft, KI hindert]]
+
+Daniel Jung sagt Ausbildern „Lernen muss wehtun“ und wünscht sich einen Kurs Medienkompetenz in jeder Klassenstufe. Weils vergebliche Geometrieaufgabe stützt den ersten Satz, der Befund zu den Achtsamkeitskursen mahnt beim zweiten zur Vorsicht.
+
 ### → [[Zeitgeist/Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe|Die Frage — Was passiert, wenn ich bei der TelefonSeelsorge anrufe?]]
 Was Weil als Gabe beschreibt, ist bei der TelefonSeelsorge Ausbildungsziel, mit einer Grenze, die Weil sich nie gezogen hat: „Ihr könnt mitfühlen, aber nicht mitleiden.“
 
