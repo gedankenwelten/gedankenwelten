@@ -17,7 +17,7 @@ spur-art: beobachtung
 review-takt: 14-tage
 eroeffnet: 2026-11-02
 endet: 2027-04-30
-aktualisiert: 2026-11-06
+aktualisiert: 2026-11-15
 description: "Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird."
 raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 ---
@@ -48,7 +48,9 @@ raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 
 ## Lagebild
 
-*Stand 02.11.2026, mittags. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf.*
+*Stand 15.11.2026. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf. Die Bilanzen der Nacht
+stehen weiter so, wie die Polizei sie am 01.11. gab; neu sind die ersten amtlichen Angaben zu den
+Tatverdächtigen und der Weg zum 20. November.*
 
 Aufgerufen hatte die Initiative „Gen Z regelt“, wenige Wochen alt und ohne große Organisation im Rücken. Auf
 ihrer [Website](https://genz-regelt.de/) stehen sechs Forderungen: *„Geld für Schulen, Suchthilfe und Psychotherapie
@@ -71,7 +73,9 @@ selbst unterschiedlich:
   Polizei spricht von bis zu 1.500 gewaltbereiten Störern, viele aus dem Umland angereist
   ([hessenschau](https://www.hessenschau.de/panorama/polizei-zieht-bilanz-100-verletzte-polizisten-und-54-festnahmen-bei-krawallen-in-frankfurt-v1,bilanz-frankfurt-100.html),
   [tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html)).
-  ZDF und FAZ schreiben „mehr als 100“ Verletzte.
+  ZDF und FAZ schreiben „mehr als 100“ Verletzte. Im Innenausschuss am 10.11. nannte Poseck 181 verletzte
+  Polizisten, 13 davon noch nicht wieder dienstfähig, und etwa 1.300 Einsatzkräfte über den Abend
+  ([hessenschau, 10.11.](https://www.hessenschau.de/politik/nach-gen-z-krawallen-poseck-verteidigt-aussagen-zu-migrationshintergrund--v2,poseck-innenausschuss-100.html)).
 - **Köln.** Die Polizei trennt in ihrer Bilanz zwei Lagen. An der Versammlung stellte sie die Personalien von
   knapp 1.000 Menschen einer Gruppe fest, aus der Vermummte Flaschen, Steine und Knallkörper warfen, und
   fand Stichwaffen, Nothämmer, selbstgebaute Pyrotechnik und Molotowcocktails. Der Einsatzleiter sagt, das
@@ -92,17 +96,27 @@ selbst unterschiedlich:
   Vorjahren auch“* und 16 Festnahmen ([Polizei Berlin](https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733484.php)).
   Eine eigene Bilanz zur Demonstration haben wir noch nicht gefunden.
 
-Seit Sonntag geht es um die Frage, wer die Täter waren (siehe „Was behauptet wurde“), und um die nächsten
-Demonstrationen. Poseck sagt, *„am 20. November“* dürfe *„keine mit gestern vergleichbare Versammlung in
-Frankfurt stattfinden“* ([Innenministerium](https://innen.hessen.de/presse/erste-einordnung-nach-gewaltausbruechen-waehrend-und-nach-der-versammlung-der-generation-z)), die Stadt
-erwägt ein Verbot ([FAZ](https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-stadt-frankfurt-erwaegt-verbot-der-naechsten-gen-z-demo-faz-201635936.html)).
-Laut dpa kündigte die Initiative am Sonntag den 14. November an; auf ihrer eigenen Website steht am Montag ein
-anderes Datum: *„Freitag, 20. November 2026, ab 14 Uhr in 34 Städten“*. Am 20. November ist außerdem ein Schulstreik gegen die Wehrpflicht geplant, zu dem ein Bündnis mit der
-Bundesschülerkonferenz aufruft, die sich von „Gen Z regelt“ distanziert hat
-([WiWo/dpa](https://www.wiwo.de/politik/deutschland/krawalle-nach-gen-z-regelt-festnahmen-und-pluenderungen/100266314.html)).
-Zu den Forderungen hat die SPD-Fraktion einen nationalen Bildungsgipfel verlangt, Bildungsministerin Prien
-will *„ins Gespräch kommen“*, und die Bundesregierung sagt den Schülern: *„Sie werden von der Politik gehört.“*
-([Deutschlandfunk](https://www.deutschlandfunk.de/bundesregierung-lobt-schueler-fuer-friedliche-proteste-sie-werden-von-der-politik-gehoert-100.html))
+**Was die Ermittlungen bisher zeigen.** Die erste amtliche Angabe kam zehn Tage nach der Nacht, für Frankfurt.
+Im hessischen Innenausschuss nannte Poseck am 10.11. 73 Tatverdächtige, die Zahl wachse stetig. 30 von ihnen
+haben die deutsche Staatsangehörigkeit, 17 eine doppelte, 26 eine andere. Etwa zwei Drittel sind jünger als 21,
+mehr als die Hälfte war schon polizeibekannt, und nur etwa ein Viertel lebt in Frankfurt selbst
+([hessenschau, 10.11.](https://www.hessenschau.de/politik/nach-gen-z-krawallen-poseck-verteidigt-aussagen-zu-migrationshintergrund--v2,poseck-innenausschuss-100.html)).
+Eine amtliche Zahl zum Migrationshintergrund gibt es nicht, ebenso keine zu den Linksextremisten, und aus den
+anderen Städten noch gar keine Angaben zu den Tatverdächtigen.
+
+**Was seitdem geschah.** Am 14.11. rief die Initiative zum ersten Mal wieder auf die Straße, und es kamen
+wenige: in Berlin nach Polizeiangaben 600 (Deutschlandfunk) oder rund 1.200 (rbb), in Düsseldorf 100, in
+Wuppertal 80; in Berlin gab es 22 Festnahmen (Verlauf, 15.11.). Der große Tag bleibt der **20. November**, an dem
+zwei Aufrufe nebeneinanderstehen: der Jugendstreik der Initiative in 34 Städten und in Berlin ein Bildungsprotest
+der Bundesschüler\*innenkonferenz mit Fridays for Future, Bundeselternrat und GEW (Verlauf, 06.11.). Für
+Frankfurt hatte Poseck am 01.11. gesagt, dort dürfe *„keine mit gestern vergleichbare Versammlung“* stattfinden
+([Innenministerium](https://innen.hessen.de/presse/erste-einordnung-nach-gewaltausbruechen-waehrend-und-nach-der-versammlung-der-generation-z)).
+Im Innenausschuss nannte er ein Verbot *„die Ultima Ratio“*; geprüft würden Auflagen und, bei bekannten Tätern,
+Unterbindungsgewahrsam ([FAZ, 11.11.](https://www.faz.net/aktuell/rhein-main/region-und-hessen/krawallnacht-in-frankfurt-poseck-kuendigt-mehr-polizei-und-haertere-gangart-an-accg-201671202.html)).
+Zu den Forderungen hatte die SPD-Fraktion gleich nach der Nacht einen nationalen Bildungsgipfel verlangt,
+Bildungsministerin Prien wollte *„ins Gespräch kommen“*, und die Bundesregierung sagte den Schülern: *„Sie werden
+von der Politik gehört.“* ([Deutschlandfunk, 02.11.](https://www.deutschlandfunk.de/bundesregierung-lobt-schueler-fuer-friedliche-proteste-sie-werden-von-der-politik-gehoert-100.html))
+Einen Termin für den Gipfel haben wir bis zum 15.11. nicht gefunden.
 
 ---
 
@@ -221,6 +235,63 @@ Einzelmeldungen und füllen die Spalte Gewalt schneller als ein Kommentar die Sp
 ---
 
 ## Verlauf
+
+### 2026-11-15 — Die ersten amtlichen Zahlen, ein kleiner Samstag
+
+**Befund:** *Faden 1.* Am 03.11. sagte Poseck der FAZ, er habe Menschen mit Molotowcocktails ins Gesicht
+geschaut, *„die hatten aus meiner Sicht sehr klar einen Migrationshintergrund“*. Nur ein kleiner Teil der
+Festgenommenen habe ausschließlich die deutsche Staatsangehörigkeit, bei 80 bis 90 Prozent sei von einem
+Migrationshintergrund auszugehen ([FAZ, 03.11.](https://www.faz.net/aktuell/politik/inland/gen-z-demo-hessens-innenminister-verteidigt-polizei-nach-krawallen-in-frankfurt-201647762.html)).
+Das ist eine Schätzung des Ministers, keine Zählung. Gezählt wurde zum ersten Mal in einer Sondersitzung des
+hessischen Innenausschusses am 10.11.: 73 Tatverdächtige, die Zahl wachse stetig. 30 von ihnen haben die deutsche
+Staatsangehörigkeit, 17 eine doppelte, 26 eine andere (unter ihnen Afghanen, Serben, Tunesier, Türken). Etwa zwei
+Drittel sind jünger als 21, zwei jünger als 14. Mehr als die Hälfte war schon polizeibekannt, nur etwa ein Viertel
+lebt in Frankfurt. Poseck sprach von 181 verletzten Polizisten
+([hessenschau, 10.11.](https://www.hessenschau.de/politik/nach-gen-z-krawallen-poseck-verteidigt-aussagen-zu-migrationshintergrund--v2,poseck-innenausschuss-100.html)).
+Die Täter beschrieb er dort als *„linksextremistisch motivierte Personen sowie gewaltorientierte und offenbar
+schlecht integrierte junge Männer überwiegend mit Migrationshintergrund“*, eine Zahl zum Migrationshintergrund
+nannte er nicht. Ein Verbot für den 20.11. habe er nicht gefordert, es bleibe *„die Ultima Ratio“*. Der Lesart der
+Grünen, vor der Auflösung der Versammlung habe es keine Ausschreitungen gegeben, widersprach er; man dürfe den
+31. Oktober nicht in zwei unabhängige Geschehen aufspalten
+([FAZ, 11.11.](https://www.faz.net/aktuell/rhein-main/region-und-hessen/krawallnacht-in-frankfurt-poseck-kuendigt-mehr-polizei-und-haertere-gangart-an-accg-201671202.html)).
+Im Landtag am 12.11. hielt ihm die FDP vor, das Ministerium habe vorab mit rund 80 gewaltbereiten
+Linksextremisten gerechnet, beteiligt gewesen seien dann bis zu 1.500 gewaltbereite Störer. Ihr Antrag zur
+Einsatzplanung wurde mehrheitlich abgelehnt
+([FAZ, 12.11.](https://www.faz.net/aktuell/rhein-main/region-und-hessen/frankfurter-gewaltnacht-war-der-polizeieinsatz-falsch-vorbereitet-201677023.html)).
+
+*Faden 2.* Am Samstag, dem 14.11., rief die Initiative wieder auf die Straße. In Berlin-Charlottenburg zählte die
+Polizei laut rbb rund 1.200 Menschen. Es gab 22 Festnahmen und zwei leicht verletzte Beamte, die Polizei setzte
+nach eigenen Angaben auch Faustschläge und Tritte ein. Es ging um kaputte Schulen, die Wehrpflicht und Kürzungen an
+Unis und im Sozialen, skandiert wurde auch gegen Israel, Merz und die Polizei
+([tagesschau/rbb, 15.11.](https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html)).
+Der Deutschlandfunk gibt nach Polizeiangaben für Berlin 600 Teilnehmende an, für Bremen ähnlich viele, für
+Düsseldorf 100 und für Wuppertal 80
+([Deutschlandfunk, 15.11.](https://www.deutschlandfunk.de/ueberschaubare-teilnehmerzahlen-bei-erneuten-kundgebungen-102.html)).
+
+*Zählung* (Stand 15.11., 11:21 Uhr): In der Woche nach dem Protesttag (01.–07.11.) stehen jetzt 113 Meldungen, 89
+mit Gewalt, 17 mit Forderung, das sind 15 %. In der Woche darauf (08.–14.11.) sind es 19 Meldungen, 7 mit Gewalt,
+3 mit Forderung, 16 %. Der Vorlauf lag bei 21 %.
+
+**Deutung:** Zum ersten Mal lässt sich eine Zeile aus „Was behauptet wurde“ neben einen Befund legen. *„Nur zu
+einem Teil aus Frankfurt“* trägt, es ist ein Viertel. *„Überwiegend aus einem migrantischen Milieu“* bleibt offen,
+denn die amtliche Zahl zählt Pässe, nicht Herkunft: 47 der 73 haben einen deutschen Pass, 17 davon einen zweiten,
+26 nur einen anderen. Posecks Schätzung von 80 bis 90 % lässt sich daran weder bestätigen noch widerlegen. Neben
+seinem Satz vom 03.11., nur ein kleiner Teil sei ausschließlich deutsch, stehen jetzt 30 von 73, und neben seinem
+Satz vom 01.11., die Festgenommenen seien überwiegend deutsche Staatsbürger, 47 von 73. Beide Sätze galten anderen
+Gruppen zu anderen Zeitpunkten, Festgenommene am Wochenende, Tatverdächtige zehn Tage später. Für die
+Linksextremisten gibt es weiter keine Zahl. Die Berichterstattung ist in einer Woche auf ein Sechstel gefallen, der
+Anteil mit Forderung bleibt unter dem Vorlauf.
+
+**Gegenbeobachtung:** (1) 73 Tatverdächtige sind ein früher und kleiner Ausschnitt aus den bis zu 1.500 Störern,
+von denen die Polizei spricht. Wer zuerst gefasst wird, ist nicht unbedingt typisch für alle. (2) 43 der 73 haben
+eine andere oder eine zweite Staatsangehörigkeit. Die Lücke zwischen Posecks Wort und der Zählung liegt darum eher
+im Beleg als in der Richtung, und das muss stehen bleiben, falls die Behauptung am Ende „nicht getragen“ heißen
+sollte. (3) Die Zahlen für Berlin am 14.11. gehen um das Doppelte auseinander, obwohl beide von der Polizei stammen
+sollen. (4) Der kleine Samstag sagt wenig über den 20.11. Die Initiative hat von Anfang an den 20. als Haupttag
+genannt.
+
+**Offen für den nächsten Sweep:** SPIEGEL, 04.11., „Das ist über die Festgenommenen bekannt“ (Bezahlschranke,
+nicht gelesen) · amtliche Angaben aus Köln, Hamburg, Stuttgart und Berlin · der 20.11.
 
 ### 2026-11-06 — Zwei Aufrufe für einen Tag
 
@@ -361,6 +432,11 @@ Euronews.
 - **Die angenehmere Hälfte** (06.11.). Die BSK spricht eine Sprache, die uns liegt: Verbände, ein
   Forderungskatalog, Gewaltfreiheit. Die Versuchung ist, sie zur eigentlichen Stimme der Jungen zu machen. Der
   Jugendstreik der Initiative und die Kritik von „Gen Z FFM“ an der Polizei gehören genauso in die Spur.
+- **Die Zahl, die man lesen möchte** (15.11.). Aus den ersten amtlichen Zahlen lässt sich bequem „nur 26 von 73
+  sind Ausländer“ machen, und das sähe wie eine Widerlegung Posecks aus. Es ist keine: 43 haben eine andere oder
+  zweite Staatsangehörigkeit, und den Migrationshintergrund misst die Zahl gar nicht. Umgekehrt sind seine 80 bis
+  90 % eine Schätzung aus dem Augenschein. Beides bleibt offen, bis eine Behörde das Merkmal erhebt, nach dem sie
+  gefragt wird.
 - **Ein Wort, das wir meiden.** „Gekapert“ benennt eine Absicht und eine Gruppe. Wo beides nicht belegt ist,
   schreiben wir, was geschah: Plünderung, Wurf, Festnahme, und wo und wann.
 

@@ -5956,3 +5956,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss]] · Vitas [[DenkerVita/Katharina Zweig]] · [[DenkerVita/Anna Henschel]] · [[DenkerVita/Julia Inthorn]] · [[DenkerVita/Henning Lobin]] · [[DenkerVita/Benjamin Rathgeber]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Zweig_KI_weiss_nichts_Transkript.txt` |
 | **Primärquellen** | [Weizenbaum 1966](https://doi.org/10.1145/365153.365168) · [Wei u. a. 2022](https://arxiv.org/abs/2201.11903) · [Mirzadeh u. a. 2024](https://arxiv.org/abs/2410.05229) · [Guo u. a. 2025](https://doi.org/10.1038/s41586-025-09422-z) · [Schneider 2024](https://zenodo.org/records/10877034) · [BT-Drs. 19/23700](https://dserver.bundestag.de/btd/19/237/1923700.pdf) · [Hernström u. a. 2025](https://doi.org/10.1016/s2589-7500(24)00267-x) |
+
+## Stefan Creuzberger / Geschichtspolitik Deutschland und Russland (Tagesnote Volkstrauertag 2026)
+
+| | |
+|---|---|
+| **Vortrag** | [Stefan Creuzberger: Geschichtspolitik und Erinnerungskultur – Deutschland und Russland nach 1945](https://www.youtube.com/watch?v=2KnPxygWW34) — Ringvorlesung „Vergangenheitsbewältigung und Recht“, Universität Rostock, 08.06.2023 (Kanal Good Governance) |
+| **Notiz** | [[Zeitgeist/Stefan Creuzberger — Geschichtspolitik Deutschland und Russland]] · Vita [[DenkerVita/Stefan Creuzberger]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Creuzberger_Geschichtspolitik_Russland_Transkript.txt` |
+| **Anlass** | [Volksbund: Geschichte des Volkstrauertages](https://www.volksbund.de/erinnern-gedenken/volkstrauertag/geschichte-des-volkstrauertages) · [Volksbund: Totengedenken](https://www.volksbund.de/erinnern-gedenken/volkstrauertag/totengedenken) · [Wikipedia: Volkstrauertag](https://de.wikipedia.org/wiki/Volkstrauertag) |
+| **Zur Quelle** | [Uni Rostock, Veranstaltungskalender](https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/presse-und-kommunikationsstelle/veranstaltungskalender/detailansicht/n/interdisziplinaere-ringvorlesung-zum-thema-erinnerung-aufarbeitung-amnesie-bzw-vergangenheitsbewaeltigung-und-recht/) · [Creuzberger: Die Legende vom Wortbruch, Osteuropa 3/2015](https://zeitschrift-osteuropa.de/hefte/2015/3/die-legende-vom-wortbruch/) |
+| **Fund** | Diogenes, Nacht vom 02.09.2026 (Strom `anker`), `deandi_gedankenwelten_pro` |

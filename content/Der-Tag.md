@@ -31,6 +31,13 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-15 · Volkstrauertag
+
+Am vorletzten Sonntag des Kirchenjahrs gedenkt Deutschland der Toten von Krieg und Gewaltherrschaft. Eingeführt hat den Volkstrauertag der Volksbund Deutsche Kriegsgräberfürsorge nach dem Ersten Weltkrieg, als Zeichen der Solidarität mit den Hinterbliebenen; die Nationalsozialisten machten 1934 einen „Heldengedenktag“ daraus, die Bundesrepublik beging ihn 1950 zum ersten Mal wieder im Bundestag. Wen er meint, hat sich gewandelt: Das Totengedenken beginnt heute mit den Opfern „aller Völker“. Der Historiker Stefan Creuzberger erzählt, welche Toten im deutschen Gedächtnis lange fehlten, die Millionen Opfer des Vernichtungskriegs in der Sowjetunion. Die Historikerin Irina Scherbakowa, Mitgründerin von Memorial, erinnert gegen einen Staat, der die Erinnerung an den Krieg für sich beansprucht.
+
+- [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland]]
+- [[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand]]
+
 ## 2026-11-13 · Welttag der Freundlichkeit
 
 Seit 1998 begehen Schulen und Gemeinden in vielen Ländern am 13. November den Welttag der Freundlichkeit. Ausgerufen hat ihn das World Kindness Movement, ein Zusammenschluss von Initiativen aus mehreren Ländern. Er erinnert an die kleine gute Tat und an eine Freundlichkeit, die über Grenzen von Herkunft, Religion und Politik hinweg verbindet. An Harry Pfaus Bude in Stuttgart, wo es gerettete Lebensmittel für alle gibt, hängt dazu ein Schild: „Preis: Freundlichkeit und Geduld.“ Wo beginnt sie? Der Meditationslehrer S. N. Goenka misstraut dem freundlichen Wunsch, der nur auf der Oberfläche liegt, die Psychologin Christine Brähler beginnt bei der Freundlichkeit sich selbst gegenüber. Und wohin geht sie? Vielleicht weiter, als wir je sehen werden.

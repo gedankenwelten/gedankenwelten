@@ -19,21 +19,21 @@ tags: [denker-vita, sucht, psychologie, neurowissenschaft, medizin, deutschland]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Priv.-Doz. Dr. med. Tobias Rüther** — Facharzt für Psychiatrie und Psychotherapie, Suchtmediziner, Oberarzt an der Klinik für Psychiatrie und Psychotherapie des **LMU Klinikums München** und Leiter der dortigen **Tabakambulanz** sowie der Forschungsgruppe Tabakabhängigkeit.
+> **Prof. Dr. med. Tobias Rüther** — Facharzt für Psychiatrie und Psychotherapie und Suchtmediziner an der Klinik für Psychiatrie und Psychotherapie des **LMU Klinikums München**. Dort leitet er die Suchtstation C4, die Tagklinik Sucht sowie die Sucht-, Privat-, **Tabak**- und **Chemsex-Ambulanz**.
 >
 > Rüther studierte, promovierte und habilitierte an der LMU München; er ist „Tobacco Treatment Specialist" der Mayo Clinic, war an den S3-Leitlinien zu Tabak- und Medikamentenabhängigkeit beteiligt und ist im Vorstand der Deutschen Gesellschaft für Suchtmedizin. Seine Haltung: Sucht ist eine Krankheit, kein Charakterfehler — und Therapie wirkt über Motivation, nicht über Abschreckung.
 
 ## Biografie
 
-Tobias Rüther (geboren um 1970, Geburtsjahr nicht gesichert) ist ein Gewächs der LMU München: Hier studierte er Medizin, hier promovierte er, hier habilitierte er sich für Psychiatrie und Psychotherapie — daher der Titel „Priv.-Doz." (in Medien und Podcasts oft, aber nicht primärquellenbelegt, als „Prof." geführt). Aus dem breiten Feld der Psychiatrie wählte er das lange am wenigsten geachtete Teilgebiet: die Suchtmedizin, das „Schmuddelkind" des Fachs, wie er selbst sagt. Genau diese Stigmatisierung — die Sucht als moralisches Versagen statt als Krankheit zu sehen — ist zum roten Faden seiner Arbeit geworden.
+Tobias Rüther (geboren um 1970, Geburtsjahr nicht gesichert) ist ein Gewächs der LMU München: Hier studierte er Medizin, hier promovierte er, hier habilitierte er sich für Psychiatrie und Psychotherapie. Heute ist er Professor; das LMU Klinikum führt ihn als „Prof. Dr. med. Tobias Rüther". Aus dem breiten Feld der Psychiatrie wählte er das lange am wenigsten geachtete Teilgebiet: die Suchtmedizin, das „Schmuddelkind" des Fachs, wie er selbst sagt. Genau diese Stigmatisierung — die Sucht als moralisches Versagen statt als Krankheit zu sehen — ist zum roten Faden seiner Arbeit geworden.
 
-Rüther leitet eine große Suchtstation und die Tabakambulanz am LMU Klinikum. Er qualifizierte sich zusätzlich an der Mayo Clinic (Rochester, USA) zum „Tobacco Treatment Specialist", ist Rauchfreitrainer nach §20 SGB V und prägte als Mitglied der AWMF-Leitlinienkommissionen die deutschen Standards der Tabak- und Medikamentenentwöhnung mit. Seine Überzeugung, dass hinter jeder Sucht „ein Problem dahinter" steckt — ein Trauma, eine Überforderung, eine toxische Beziehung —, macht ihn zu einem Vertreter einer Suchtmedizin, die den Menschen vor das Symptom stellt.
+Rüther leitet am LMU Klinikum die Suchtstation C4, die Tagklinik Sucht und die Sucht-, Privat-, Tabak- und Chemsex-Ambulanz. Er qualifizierte sich zusätzlich an der Mayo Clinic (Rochester, USA) zum „Tobacco Treatment Specialist", ist Rauchfreitrainer nach §20 SGB V und prägte als Mitglied der AWMF-Leitlinienkommissionen die deutschen Standards der Tabak- und Medikamentenentwöhnung mit. Seine Überzeugung, dass hinter jeder Sucht „ein Problem dahinter" steckt — ein Trauma, eine Überforderung, eine toxische Beziehung —, macht ihn zu einem Vertreter einer Suchtmedizin, die den Menschen vor das Symptom stellt.
 
 ## Öffentliche Arbeit, Ämter & Engagement
 
 *(Kein eigenständiges Buchwerk belegt — Rüther wirkt über Klinik, Forschung, Leitlinien und Fachgesellschaften.)*
 
-- **Klinik:** Oberarzt & Leiter der [Tabakambulanz am LMU Klinikum München](https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/fur-patienten/ambulanzen/tabakambulanz/dbdb0e81434fcb3b); Leitung Suchtstation und Forschungsgruppe Tabakabhängigkeit · [Teamprofil](https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/uber-uns/unser-team/d1bc1ef1061c4619#TobiasRuether)
+- **Klinik:** Leiter der Suchtstation C4, der Tagklinik Sucht sowie der Sucht-, Privat-, [Tabak-](https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/fur-patienten/ambulanzen/tabakambulanz/dbdb0e81434fcb3b) und Chemsex-Ambulanz am LMU Klinikum München; Forschung zu Suchtmedizin und Tabakabhängigkeit · [Teamprofil](https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/uber-uns/unser-team/d1bc1ef1061c4619#TobiasRuether)
 - **Fachgesellschaften:** Vorstand der Deutschen Gesellschaft für Suchtmedizin (DGS); Vorstand Wissenschaftlicher Arbeitskreis Tabakentwöhnung (WAT); Gründungsmitglied „Kooperationsnetz universitärer Raucherambulanzen" (KURA); DGPPN-Referat Suchterkrankungen; Bayerische Akademie für Suchtfragen (BAS)
 - **Leitlinien:** Co-Autor der S3-Leitlinie „Tabakabhängigkeit" (AWMF)
 - **Forschung (Auswahl):**

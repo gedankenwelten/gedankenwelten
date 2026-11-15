@@ -2,7 +2,7 @@
 title: "Wirken Quoten?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-11-11
+aktualisiert: 2026-11-15
 description: "Ein Platz am Tisch, reserviert: Was ändert eine Quote unterhalb der Quote, wen hebt sie und wen nicht, kostet sie die, die sie heben soll, ihr Ansehen, und ändert sie, was entschieden wird? Vier offene Fragen und die Stimmen, die an ihnen reiben."
 raetsel: "Der Stuhl war frei gehalten. Gesessen hat, wer die Treppe kannte."
 panorama-art: wachsend
@@ -106,6 +106,7 @@ Was fehlt: eine Antwort für Parlamente, in denen schon ein Drittel Frauen sitzt
 - **[[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung#Vorbilder und der Tisch, an dem entschieden wird|Malala Yousafzai]]:** Mädchen brauchen Vorbilder an dem Tisch, an dem über sie entschieden wird.
 - **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Eine Ost-Quote?|Juli Zeh]]:** Eine Quote allein ändert wenig, solange zu Hause jemand fehlt, der Familie und Haushalt übernimmt.
 - **[[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika#Wählen Frauen anders?|Sandra Navidi]]:** Frauen seien eher sozial eingestellt und wählten eher Demokraten, und genau darum wolle die Rechte sie aus der Wahl drängen.
+- **[[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Der Mehrwert kennt kein Lager|Silvia Rivera Cusicanqui]]:** Eine indigene Frau im Ministeramt kann auch ein symbolischer Mehrwert sein, den andere abschöpfen; ihr Beispiel ist die Kulturministerin, die die rechte Übergangspräsidentin Áñez 2019 ernannte.
 
 > [!question] Die Reibung
 > In Westbengalens Dörfern veränderte die Ratsvorsitzende, wofür Geld ausgegeben wurde, in Spaniens Gemeinden änderte die Listenquote die Finanzen nicht. *Wirkt eine Frau am Tisch dort am meisten, wo der Staat am wenigsten liefert, und was hieße das für einen Bundestag, der schon zu einem Drittel weiblich ist?*
@@ -120,6 +121,7 @@ Was fehlt: eine Antwort für Parlamente, in denen schon ein Drittel Frauen sitzt
 | 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Eine Ost-Quote? Elitenmonitor, Vogel 2022, Rivera 2012, Bertrand 2019, Besley 2017, Art. 36 GG |
 | 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Von einem Zehntel zu einem Drittel\|Hedwig Richter — Petitionen statt Barrikaden]] | Neue vierte Frage „Ändert sie, was entschieden wird?“: Frauen im Parlament 1919 und heute (Bundestag 32,4 %, Nationalrat 36,1 %, IPU), ändern Frauen die Politik? (Hessami & Lopes da Fonseca, Chattopadhyay & Duflo, Clayton & Zetterberg, Bagues & Campa, Gendźwiłł u. a., Baskaran & Hessami), Paritätsgesetze Thüringen/Brandenburg 2020, BVerfG 2 BvC 46/19 · Juli Zeh |
 | 11.11.2026 | [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika#Nachbesprechung\|Sandra Navidi — Frauenrechte in Trumps Amerika]] | Ändert sie, was entschieden wird? USA: Gender-Gap seit 1980 (Roper, Pew 2024), kein Wesenszug (Inglehart & Norris 2000), Zusammensetzung (England u. a. 2023), weiße Frauen (Junn & Masuoka 2020), Bürgermeisterinnen (Ferreira & Gyourko 2014), Partei vor Geschlecht (Swers 2023), Rekordkongress 2027 (CAWP) · Stimme Navidi |
+| 15.11.2026 | [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Der Mehrwert kennt kein Lager\|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]] | Ändert sie, was entschieden wird? Bolivien: symbolischer Mehrwert quer durch die Lager (Áñez/Yujra 2019), Indigenität im Staatsspektakel ([Postero 2017](https://doi.org/10.1525/luminos.31)), Gegenrechnung Bartolinas ([Farthing & Grisaffi 2024](https://doi.org/10.1017/lar.2024.14)) |
 
 ---
 

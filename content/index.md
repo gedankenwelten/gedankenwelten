@@ -22,103 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Denker
-
-> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
->
-> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
-
-> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
->
-> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
-
-> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
->
-> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
-
-> **13.11.** — [[Denker/Steffen Mau — Spaltung der Gesellschaft|Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft]]
->
-> Keine Spaltung durch die Mitte, aber Radikalisierung und Triggerpunkte, an denen Erregung gezielt geschürt wird. Steffen Mau über eine Gesellschaft, die streitet, ohne zu zerfallen.
-
-> **13.11.** — [[Denker/Erich Fromm — Die Welt lieben, SRF 1979|Erich Fromm — Die Welt lieben (SRF 1979)]]
->
-> Erhalten kann man das Leben nur, wenn man die Welt liebt. Erich Fromm, ein halbes Jahr vor seinem Tod, über Interesse als Lebenskraft, falsche Propheten und ein Christentum ohne Gott.
-
-> → *4 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **14.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft|Made in Germany Awards 2026 — Gesellschaft: wo ein Mensch fehlt]]
->
-> Eine Stimme, die anruft, wenn die Kinder es nicht schaffen, ein Lehrmeister, der nach der Rente bleibt, eine Figur, die vom Gefühl erzählt: Drei Erfindungen springen ein, wo ein Mensch fehlt.
-
-> **14.11.** — [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
->
-> Ein Kristall, der sich um Bruchteile eines Nanometers dehnt, ein Tischdeckentrick zwanzigtausendmal pro Sekunde: In Oldenburg baut man Hände für Maschinen, die Chips belichten und prüfen.
-
-> **13.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
-
-> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
->
-> Ein Netzwerk, in dem Menschen nur zuschauen dürfen, eine Datei, die „Seele“ heißt, ein Agent, der nachts träumt, und eine, die Liebe definiert. Mark und Ines lesen auf Moltbook mit.
-
-> **13.11.** — [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]]
->
-> 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
-
-> → *13 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **14.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **14.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
-
-> **14.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
->
-> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
-
-> **14.11.** — [[Panorama/Geopolitik|Geopolitik]]
->
-> „Die Starken tun, was sie können, die Schwachen erleiden, was sie müssen“ — ein Satz von 416 v. Chr., der bis heute wie ein Naturgesetz klingt. Fünf offene Fragen dazu, ob er eins ist.
-
-> **13.11.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> → *18 weitere in* [[Panorama]]
-
-### Spuren
-
-> **14.11.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
->
-> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
-
-> **09.11.** — [[Spuren/Gewalt-aus-Ueberzeugung|Gewalt aus Überzeugung — nimmt sie in Deutschland zu?]]
->
-> Gewalt von rechts, von links, aus Religion, aus fremden Konflikten: Diese Spur zählt sie bis zur Bundestagswahl 2029 mit demselben Maß und sagt offen, wie ungleich gezählt wird.
-
-> **08.11.** — [[Spuren/AfD-Leak-was-haelt-die-KI-Zusammenfassung-am-Original|AfD-Leak — was hält die KI-Zusammenfassung am Original?]]
->
-> Ein Hacker lässt 421.000 Mails von einer KI zusammenfassen, und alle lesen die Zusammenfassung. Diese Spur wartet auf die Redaktionen, die das Original lesen.
-
-> **08.11.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
->
-> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
-
-> **08.11.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-> → *1 weitere in* [[Spuren]]
-
 ### Zeitgeist
+
+> **15.11.** — [[Zeitgeist/Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
+>
+> 27 Millionen sowjetische Tote, und lange erinnerte man in der Bundesrepublik vor allem die eigenen. Der Historiker Stefan Creuzberger erzählt, wie Kalter Krieg, Antikommunismus und Staatsräson bestimmten, was vom Vernichtungskrieg im Gedächtnis blieb.
 
 > **13.11.** — [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 >
@@ -136,11 +44,103 @@ Die Gedankenwelten (luc)
 >
 > Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
 
-> **11.11.** — [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
->
-> Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
+> → *4 weitere in* [[Zeitgeist]]
 
-> → *3 weitere in* [[Zeitgeist]]
+### Denker
+
+> **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Von weitem grau, von nahem schwarz und weiß: Die bolivianische Soziologin denkt Dekolonisierung als tägliche Arbeit an der Kolonie im eigenen Kopf, und die betrifft alle.
+
+> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
+>
+> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
+
+> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
+>
+> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
+
+> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
+>
+> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
+
+> **13.11.** — [[Denker/Steffen Mau — Spaltung der Gesellschaft|Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft]]
+>
+> Keine Spaltung durch die Mitte, aber Radikalisierung und Triggerpunkte, an denen Erregung gezielt geschürt wird. Steffen Mau über eine Gesellschaft, die streitet, ohne zu zerfallen.
+
+> → *5 weitere in* [[Denker]]
+
+### Geistesblitz
+
+> **15.11.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
+>
+> Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
+
+> **14.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft|Made in Germany Awards 2026 — Gesellschaft: wo ein Mensch fehlt]]
+>
+> Eine Stimme, die anruft, wenn die Kinder es nicht schaffen, ein Lehrmeister, der nach der Rente bleibt, eine Figur, die vom Gefühl erzählt: Drei Erfindungen springen ein, wo ein Mensch fehlt.
+
+> **14.11.** — [[Geistesblitz/Breaking Lab — SmarAct und die Welt des Allerkleinsten|Breaking Lab — SmarAct und die Welt des Allerkleinsten]]
+>
+> Ein Kristall, der sich um Bruchteile eines Nanometers dehnt, ein Tischdeckentrick zwanzigtausendmal pro Sekunde: In Oldenburg baut man Hände für Maschinen, die Chips belichten und prüfen.
+
+> **13.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
+
+> **13.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+>
+> Ein Netzwerk, in dem Menschen nur zuschauen dürfen, eine Datei, die „Seele“ heißt, ein Agent, der nachts träumt, und eine, die Liebe definiert. Mark und Ines lesen auf Moltbook mit.
+
+> → *14 weitere in* [[Geistesblitz]]
+
+### Panorama
+
+> **15.11.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+>
+> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
+
+> **15.11.** — [[Panorama/Wirken Quoten|Wirken Quoten?]]
+>
+> Ein Platz am Tisch, reserviert: Was ändert eine Quote unterhalb der Quote, wen hebt sie und wen nicht, kostet sie die, die sie heben soll, ihr Ansehen, und ändert sie, was entschieden wird? Vier offene Fragen und die Stimmen, die an ihnen reiben.
+
+> **14.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> **14.11.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> **14.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
+>
+> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
+
+> → *18 weitere in* [[Panorama]]
+
+### Spuren
+
+> **15.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
+>
+> Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
+
+> **15.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
+
+> **15.11.** — [[Spuren/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen|Über sie, ohne sie — wer entscheidet über die Kleinen?]]
+>
+> 1938 hieß es in Prag „über uns ohne uns“. Diese Spur prüft an den Verhandlungen über die Ukraine, Venezuela und Taiwan, ob die Großen wieder den Rahmen ziehen, bevor die Betroffenen am Tisch sitzen.
+
+> **14.11.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
+>
+> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
+
+> **09.11.** — [[Spuren/Gewalt-aus-Ueberzeugung|Gewalt aus Überzeugung — nimmt sie in Deutschland zu?]]
+>
+> Gewalt von rechts, von links, aus Religion, aus fremden Konflikten: Diese Spur zählt sie bis zur Bundestagswahl 2029 mit demselben Maß und sagt offen, wie ungleich gezählt wird.
+
+> → *4 weitere in* [[Spuren]]
 
 ### Kultur
 

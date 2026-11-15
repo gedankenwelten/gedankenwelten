@@ -14,7 +14,7 @@ status: offen
 spur-art: beobachtung
 review-takt: 14-tage
 eroeffnet: 2026-10-29
-aktualisiert: 2026-11-07
+aktualisiert: 2026-11-15
 description: "Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf."
 raetsel: "Das Passwort klebte am Schloss. Geöffnet hat trotzdem niemand."
 ---
@@ -47,14 +47,17 @@ raetsel: "Das Passwort klebte am Schloss. Geöffnet hat trotzdem niemand."
 
 ## Lagebild
 
-*Stand 04.11.2026, der Morgen nach der Wahl. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf.
-Alle Zahlen sind Hochrechnungen der Sender, bestätigt ist noch nichts.*
+*Stand 15.11.2026. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf (die Zahlen vom Morgen nach
+der Wahl im Eintrag vom 04.11.). Alle Zahlen sind Hochrechnungen der Sender, amtlich bestätigt ist noch nichts.*
 
-Die Demokraten haben beide Kammern gewonnen. Im Senat zählt NBC 54 Sitze für sie und 44 für die Republikaner;
-sieben Sitze haben die Seite gewechselt, alle zu den Demokraten, darunter Texas, Kansas und Maine. Offen sind
-Alaska und Mississippi. Für das Repräsentantenhaus rechnet NBC mit 258 demokratischen Sitzen, so vielen wie seit
-1993 nicht ([NBC](https://www.nbcnews.com/politics/2026-elections/senate-results) ·
+Die Demokraten haben beide Kammern gewonnen. Im Senat zählt NBC jetzt 55 Sitze für sie und 44 für die
+Republikaner, nachdem die Sender am 13.11. auch Mississippi für den Demokraten Scott Colom ausgerufen haben. Offen
+ist nur noch Alaska, wo Mary Peltola nach NBC mit 49,9 zu 46,0 % vor Dan Sullivan liegt. Für das
+Repräsentantenhaus schätzt NBC 259 demokratische Sitze
+([NBC, Stand 15.11.](https://www.nbcnews.com/politics/2026-elections/senate-results) ·
 [NBC Live](https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763)).
+Mit dem Sieg von Jonathan Kreiss-Tomkins in Alaska stellen die Demokraten künftig 30 der 50 Gouverneure
+([Deutschlandfunk, 15.11.](https://www.deutschlandfunk.de/demokrat-gewinnt-gouverneurswahl-in-alaska-100.html)).
 
 Trump erkennt das Ergebnis an: *„Yes, sure I'll accept them. Why wouldn't I?“* Die Schuld gibt er den
 Kandidaten, den Iran-Krieg nennt er eine Last für seine Partei, und für die Zeit danach kündigt er Vetos an
@@ -62,9 +65,12 @@ Kandidaten, den Iran-Krieg nennt er eine Last für seine Partei, und für die Ze
 Gerichte die Grenze, die sie vorher gezogen hatten. Die Klage gegen Alaska ist abgewiesen, die Regierung geht in
 Berufung.
 
-Bis der neue Kongress am 3. Januar 2027 zusammentritt, regieren die alten republikanischen Mehrheiten weiter.
-Als Nächstes schauen wir darauf, wie Alaska und Mississippi ausgehen und zertifiziert werden und was in diesen
-Wochen noch beschlossen wird.
+Bis der neue Kongress am 3. Januar 2027 zusammentritt, regieren die alten republikanischen Mehrheiten weiter. Im
+Weißen Haus ist seit dem 9. November Stephen Miller Stabschef. Ein Amtsenthebungsverfahren gegen Kriegsminister
+Hegseth hat das Repräsentantenhaus am 10. November in den Justizausschuss verwiesen, wo es bis zum Ende der
+Legislatur liegen kann. Als Nächstes schauen wir darauf, wie Alaska ausgeht, ob die Staaten fristgerecht
+zertifizieren, was der alte Senat noch bestätigt, und auf das Dreiertreffen Trumps mit Putin und Xi am 19. November
+in Shenzhen.
 
 ---
 
@@ -305,6 +311,46 @@ den *„Bazillus“*, der *„in diesem Kulturkampf auch die Demokraten erfasst�
 
 ## Verlauf
 
+### 2026-11-15 — Mississippi, Alaska, eine verpasste Abstimmung
+
+**Befund:** *Beim Zählen.* Gut eine Woche nach der Wahl haben die großen Sender den Senatssitz in Mississippi für den
+Demokraten Scott Colom ausgerufen. Er wäre der erste afroamerikanische Senator des Staates seit dem Ende des
+19. Jahrhunderts und der erste Demokrat, der dort seit 1982 eine Senatswahl gewinnt. Amtlich bestätigt ist das noch
+nicht ([Deutschlandfunk, 13.11.](https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-122.html)).
+In Alaska, dem letzten offenen Senatsrennen, liegt Mary Peltola nach rund 96 % der ausgezählten Stimmen bei 49,8 %,
+Dan Sullivan bei 46,1 %. Gouverneur wird der Demokrat Jonathan Kreiss-Tomkins, 37 Jahre alt, gegen drei
+Republikaner, unter ihnen die von Trump unterstützte Bernadette Wilson. Die republikanische Senatorin Lisa Murkowski
+hatte sich für ihn ausgesprochen. Die Demokraten stellen damit 30 der 50 Gouverneure, so viele wie seit 1993 nicht
+([Deutschlandfunk, 15.11.](https://www.deutschlandfunk.de/demokrat-gewinnt-gouverneurswahl-in-alaska-100.html)).
+NBC zählt im Senat jetzt 55 zu 44 ([NBC, 15.11.](https://www.nbcnews.com/politics/2026-elections/senate-results)).
+Von verweigerten Zertifizierungen haben wir nichts gefunden.
+
+*Bis zur Übergabe.* Am 10.11. verwies das Repräsentantenhaus die Amtsenthebungsartikel gegen Kriegsminister Hegseth
+mit 211 zu 204 Stimmen an den Justizausschuss, wo sie bis zum Ende der Legislatur liegen können. Eingebracht hatte
+sie der Republikaner Thomas Massie, unterstützt vor allem von Demokraten; vorgeworfen werden Hegseth rechtswidrige
+Befehle und verfassungswidrige Kriege gegen Iran und Venezuela. 18 Abgeordnete fehlten, sieben Republikaner und elf
+Demokraten, darunter Nancy Pelosi ([Middle East Eye, 11.11.](https://www.middleeasteye.net/trending/11-democrats-face-backlash-after-missing-hegseth-impeachment-vote-0)).
+Am 09.11. nominierte Trump Gary Lawkowski, im Weißen Haus stellvertretender Rechtsberater und nach der New York
+Times an der Auswahl der Begnadigungen beteiligt, als Chefjustiziar des Geheimdienstkoordinators ODNI. Ob der
+Geheimdienstausschuss des Senats unter Tom Cotton ihn noch vor dem 3. Januar bestätigen lässt, ist offen
+([The Intercept, 12.11.](https://theintercept.com/2026/11/12/trump-lawyer-lawkowski-pardons-odni/)).
+
+*Quer dazu: nach außen.* Am 19.11. trifft Trump in Shenzhen am Rande des APEC-Gipfels Putin und Xi, zum ersten
+Dreiertreffen dieser Art. Es soll um atomare Abrüstung und Iran gehen, nicht um die Ukraine
+([taz/afp, 14.11.](https://taz.de/Historischer-Dreier-beim-APEC-Gipfel/!6230035/)).
+
+**Deutung:** Bei der Zertifizierung läuft bisher alles ohne Störung, das Zählen dauert nur. Bis zur Übergabe hat die
+alte Mehrheit einen ersten Schutzschild hochgezogen, und gehalten hat er, weil die Gegenseite fehlte: Sieben Stimmen
+fehlten zur Mehrheit, elf Demokraten waren nicht da. Die Stelle „nach außen“ bekommt zwei Wochen nach der Wahl ihren
+ersten großen Termin.
+
+**Gegenbeobachtung:** (1) Die Hegseth-Abstimmung zeigt eher, was eine Opposition versäumt, als was eine Regierung
+erzwingt. (2) Lawkowski ist nominiert, nicht bestätigt. Eine Nominierung im alten Senat ist das, was jede Regierung
+in diesen Wochen tut; ein Befund für „bis zur Übergabe“ wird daraus erst mit einer Bestätigung im Eilverfahren.
+(3) Gipfeltermine haben Vorlauf. Dass der Präsident nach der Niederlage den Erfolg im Ausland sucht, lässt sich an
+einem einzelnen Treffen nicht von einem Termin trennen, der ohnehin gekommen wäre. Die Gegenprobe der Stelle gilt
+weiter: Bleibt die Außenpolitik in den ersten Monaten ruhig, trägt Theveßens These nicht.
+
 ### 2026-11-06 — Wiles geht, Miller wird Stabschef
 
 **Befund:** Drei Tage nach der Wahl gibt Trump bekannt, dass Stabschefin Susie Wiles in seine politische Organisation
@@ -513,6 +559,10 @@ allen voran Koschi und das ZDF.
   ihnen jetzt mehr glauben. Das Ausmaß hat aber niemand gesehen, weder Koschi noch Trende. Und diese Nacht
   haben wir fast nur über CBS, NBC und AP gesehen. Wie die konservativen Stimmen sie lesen, holt der nächste
   Sweep nach.
+- **Wohin der Blick fällt (15.11.).** Bei der Hegseth-Abstimmung liegt es nahe, sie als Schutzschild der
+  Regierung zu lesen. Gehalten hat er aber, weil elf Demokraten fehlten. Wer nur auf die Regierung schaut, übersieht
+  die Opposition, und die Stellen „bis zur Übergabe“ und „danach“ messen beide. Den Nachtrag aus konservativer Sicht,
+  den der 04.11. versprochen hat, haben wir in diesem Sweep wieder nicht geschafft.
 - **Ein Wort, das wir meiden.** „Manipulation“ benennt eine Absicht. Wo die Absicht nicht belegt ist, schreiben
   wir, was geschah: Klage, Liste, Durchsuchung, Werbespot.
 

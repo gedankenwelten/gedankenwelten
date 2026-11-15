@@ -128,6 +128,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Tahir Chaudhry|Tahir Chaudhry]]** — Journalist (* 1989), Redakteursausbildung bei der SZ, Gründer von Grenzgänger Studios; *Wem diente Jeffrey Epstein?* (2024), mit Tariq Hübsch *Peter Thiel. Palantir, der KI-Gott und das Ende des Menschen* (2026); „State-Made“ statt Selfmade-Milliardäre
 
+**[[DenkerVita/Stefan Creuzberger|Stefan Creuzberger]]** — Zeitgeschichte (Rostock), Historiker der deutsch-russischen Beziehungen und der Erinnerung an den Vernichtungskrieg im Osten
+
 **[[DenkerVita/Christian Wiese|Christian Wiese]]** — evangelischer Theologe und Judaist, Martin-Buber-Professor für jüdische Religionsphilosophie an der Goethe-Universität Frankfurt, Leiter des Buber-Rosenzweig-Instituts; Hans-Jonas-Forscher, Herausgeber in der Buber-Werkausgabe, Gedenkbuch der hessischen Synagogen
 
 **[[DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)

@@ -16,7 +16,7 @@ status: offen
 konfidenz: 45%
 review-takt: 21-tage
 eroeffnet: 2026-10-28
-aktualisiert: 2026-10-28
+aktualisiert: 2026-11-15
 description: "1938 hieß es in Prag „über uns ohne uns“. Diese Spur prüft an den Verhandlungen über die Ukraine, Venezuela und Taiwan, ob die Großen wieder den Rahmen ziehen, bevor die Betroffenen am Tisch sitzen."
 raetsel: "Alle Stühle waren besetzt. Das Land wartete im Flur und hörte durch die Tür."
 ---
@@ -65,6 +65,65 @@ Neue Fälle (Sudan, Armenien, Gaza …) werden im Verlauf beobachtet, zählen ab
 
 ## Verlauf
 
+### 2026-11-15 — Abu Dhabi mit Kyjiw, Shenzhen ohne die Ukraine, Venezuela nach Washingtons Fahrplan (Konfidenz 45 % → 45 %)
+
+**Befund:** In der **Ukraine** kam die dreiseitige Runde, die im Oktober angekündigt war. Am 10.11. verhandelten
+Delegationen Russlands und der Ukraine unter amerikanischer Vermittlung in Abu Dhabi. Einen Durchbruch gab es nicht,
+vereinbart wurde ein Gefangenenaustausch ([Al Jazeera, 14.11.](https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine)).
+Die Europäer waren mit sieben Vertretern vor Ort, aber nicht am Tisch. Danach, sagt Selenskyj, hätten die
+amerikanischen Unterhändler zum ersten Mal gefragt, ob die Ukraine sich im Tausch gegen einen NATO-Beitritt aus dem
+Donbass zurückziehen würde. Kyjiw sei nicht bereit, eigenes Gebiet aufzugeben. Mit umfassenden Sicherheitsgarantien
+würde er die Frage aber in einem Referendum vorlegen ([Deutschlandfunk, 14.11.](https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html)).
+Am 12.11. verhandelten Witkoff und Kushner in Moskau mit Putin; nach RIA Nowosti saßen auf russischer Seite nur
+Putins außenpolitischer Berater Uschakow, der Chefunterhändler Medinski und der Unterhändler Dmitrijew mit am Tisch, niemand aus dem Außenministerium. Am Abend trafen
+die beiden Selenskyj bei Dublin, und Kushner sagte, ein Abkommen sei nicht möglich, *„ohne dass Europäer mit am Tisch
+sitzen“*. Am 13.11. beschlossen die Staats- und Regierungschefs der EU in Dublin, die europäische Delegation zu
+vergrößern: Zu den Beratern aus Deutschland, Frankreich und Großbritannien kommen Vertreter Italiens und Polens
+(„E5“), nach Teilnehmerkreisen zunächst auf Arbeitsebene. Merz: *„Es soll erstmals in den nächsten Wochen jetzt
+konkrete Friedensgespräche geben, in denen Europa vertreten ist.“* Aus Moskau kamen zwei Antworten. Die Sprecherin
+des Außenministeriums, Maria Sacharowa, sagte, über eine Beteiligung der Europäer sei mit Witkoff und Kushner nicht
+gesprochen worden. Kremlsprecher Peskow sagte, über ein größeres Format entscheide Russland erst, *„wenn wir ihre
+wirklichen Absichten und ihre Bereitschaft verstehen, zum Friedensprozess beizutragen“*
+([FAZ-Liveblog, 13./14.11.](https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-usa-bringen-nato-beitritt-fuer-gebietsverzicht-ins-spiel-faz-110683325.html)).
+
+In **Shenzhen** treffen sich am Donnerstag, dem 19.11., am Rande des APEC-Gipfels zum ersten Mal die Staatschefs der
+USA, Russlands und Chinas zu dritt. Nach Angaben aus Washington soll es um atomare Abrüstung und den Iran-Krieg gehen,
+nicht um die Ukraine ([taz/afp, 14.11.](https://taz.de/Historischer-Dreier-beim-APEC-Gipfel/!6230035/)). Das Weiße
+Haus hat den Termin am 13.11. mitgeteilt, der Kreml bestätigt, Peking bisher nicht (FAZ-Liveblog).
+
+In **Venezuela** traf Außenminister Rubio am 02.11. seinen Amtskollegen Oliver Blanco. Das State Department
+bekräftigte danach Trumps *„three-phase plan for Venezuela: stabilization, economic recovery and political
+reconciliation, and democratic transition“*. Die Oppositionsführerin María Corina Machado sagt, Rubio habe eine
+Abfolge gesetzt, die *„makes clear the holding of presidential elections in 2027“*. Interimspräsidentin Delcy
+Rodríguez versprach Wahlen *„with the world as witness“*, ohne Datum
+([Al Jazeera, 03.11.](https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition)).
+Rubio am 06.11.: Gewählt werden solle „ideally“ im nächsten Jahr, eine Garantie, dass es vor dem Ende von Trumps
+Amtszeit geschieht, gab er nicht ([TASS, 06.11.](https://tass.com/world/2213619), staatsnah). Zu **Taiwan** sagte Xi
+am 12.11.: *„The complete reunification of the motherland must be realised, and it will certainly be realised.“*
+Taipehs Festlandrat fand die Formulierung *„not much different from the past“*
+([Al Jazeera, 12.11.](https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen)).
+Eine amerikanisch-chinesische Erklärung zu Taiwan gibt es nicht.
+
+**Deutung:** Die beiden Prüffälle laufen in entgegengesetzte Richtungen. Bei der Ukraine rückt die rechte Spalte
+näher: Kyjiw verhandelt dreiseitig, Europa bekommt einen Platz, und das Treffen der drei Großen klammert die Ukraine
+nach amerikanischer Ansage aus. Die Frage nach Donbass gegen NATO ist ein amerikanischer Vorschlag an Kyjiw, kein
+Papier zwischen Washington und Moskau. Gefallen ist die Bedingung nicht, denn ein unterschriebenes Ergebnis gibt es
+nicht. Bei Venezuela rückt die linke Spalte näher: Abfolge und Jahr kommen aus Washington, Caracas nennt kein Datum.
+Ein förmlicher Termin aus Washington wäre die Bedingung, und den gibt es noch nicht. Taiwan entscheidet sich frühestens
+in Shenzhen. Weil sich die Bewegungen aufheben, bleibt die Konfidenz bei 45 %.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Dass die USA einen NATO-Beitritt ins Spiel bringen, ist das Gegenteil eines
+Plans, den Washington und Moskau über Kyjiw hinweg geschrieben hätten. Ob die Frage vorher mit Moskau besprochen war,
+ist öffentlich nicht bekannt. **(2)** In Venezuela spricht nicht „das Land“ mit einer Stimme. Die Opposition begrüßt
+den amerikanischen Fahrplan, die Regierung, die ihn hinnehmen soll, ist aus dem Apparat Maduros hervorgegangen. Wer
+hier der „Kleine“ ist, steht nicht fest. **(3)** Dass die Ukraine in Shenzhen nicht vorkommt, sagt ein US-Beamter vor
+dem Treffen. Was dort gesprochen wird, zeigt erst das Treffen. **(4)** Moskau widerspricht sich selbst: Das
+Außenministerium weiß von nichts, der Kreml stellt Bedingungen. Wer die Europäer am Tisch schon für ausgemacht hält,
+liest Kushners Satz als Ergebnis.
+
+**Nächste Station:** Shenzhen, **19.11.** Das Treffen berührt zwei der drei Prüffälle (Ukraine, Taiwan); ein
+Nachtrag folgt, sobald bekannt ist, was dort besprochen und erklärt wurde.
+
 ### 2026-10-28 — Eröffnung: zwei Bewegungen zugleich (Konfidenz 45 %)
 
 **Befund:** Am 18.02.2025 sprachen die Außenminister Rubio und Lawrow in Riad über die Ukraine, die nicht eingeladen war ([Übersicht](https://en.wikipedia.org/wiki/February_2025_United_States%E2%80%93Russia_meeting_in_Saudi_Arabia)); Finnlands Außenministerin Valtonen antwortete, es könne *„no negotiations about Ukraine without Ukraine and no negotiations about Europe without Europe“* geben (ebd.). Am 15.08.2025 trafen sich Trump und Putin in Anchorage ohne Selenskyj ([Übersicht](https://en.wikipedia.org/wiki/2025_Russia%E2%80%93United_States_summit_in_Alaska)). Der 28-Punkte-Plan vom November 2025 entstand nach Axios im Oktober in Miami, entworfen von Witkoff, Kushner und dem Russen Kirill Dmitriev; Ukrainer und Europäer sahen darin eine Kapitulation ([Übersicht](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_war_(2022%E2%80%93present))). Danach wurde dreiseitig verhandelt: in Abu Dhabi am 23./24.01. und 04./05.02.2026, in Genf am 17./18.02.2026 (ebd.); dann unterbrach der Krieg gegen Iran die Gespräche. Am 20.10.2026 traf Selenskyj in Oslo den Gesandten Witkoff mit europäischen Vertretern: *„we want the Americans to take these ideas to the Russians“*. Am selben Tag sagte Trump im Weißen Haus: *„Zelenskyy has to want to settle this war, and if he doesn't, I think it's going to be a very bad thing“* ([Al Jazeera, 20.10.](https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal)). Witkoff flog weiter zu Putin; dessen Berater Uschakow fand in den Vorschlägen aus Oslo *„not really much substance“*. Beide Seiten stimmen einer dreiseitigen Runde zu, voraussichtlich Mitte November in Abu Dhabi ([Al Jazeera, 21.10.](https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy)). Russland hält rund ein Fünftel der Ukraine ([MPR/AP, 24.10.](https://www.mprnews.org/story/2026/10/24/ukraine-and-russia-eye-new-peace-talks-but-steep-obstacles-remain)).
@@ -79,14 +138,26 @@ In **Venezuela** nahm eine US-Razzia am 03.01.2026 Präsident Maduro fest; Inter
 
 *28.10.2026:* Die Spur ist aus einer Frage entstanden, die bei den Spielern anfing: Wollen die USA und Russland Europa zerschlagen? Das Interesse, die Großen im Unrecht zu sehen, sitzt also schon im Anfang. Dazu kommt die Versuchung des Panoramas, zu dem sie gehört: Seine Wurzel ist der Satz von Melos, und jede Spur möchte ihre Wurzel bestätigt sehen. Darum zählt hier nur, was in Dokumenten steht, nicht wer mit wem in einem Raum saß. Und ein dritter Bias: Diese Spur schaut fast nur auf Washington. Ein russisch-chinesisches Gespräch über Zentralasien, ein Golfstaat, der im Sudan einen Krieg finanziert, fallen durch ihr Raster. Wer das Prinzip prüfen will, muss beim nächsten Tiefen-Sweep auch dort hinsehen.
 
+*15.11.2026:* Zum ersten Mal fallen Daten gegen die These, und die Versuchung ist, sie kleinzureden. Die Frage nach
+Donbass gegen NATO lässt sich leicht als Rahmen lesen, den Washington zieht. Sie ist aber ein Vorschlag an Kyjiw, über
+den Kyjiw ein Referendum abhalten will. Umgekehrt bei Venezuela: Dass Washington dort den Fahrplan vorgibt, bestätigt
+die These, und die Opposition, die ihn begrüßt, passt nicht ins Bild vom übergangenen Land. Beides steht darum im
+Eintrag, nicht nur das Passende. Zur eigenen Lücke: Auch dieser Sweep hat wieder fast nur nach Washington geschaut.
+
 ## Stimmenspektrum
 
-*Erster Stand, noch dünn — beim ersten Tiefen-Sweep um Stimmen aus Kyjiw, Caracas und Taipeh erweitern.*
+*Erster Stand, noch dünn — beim ersten Tiefen-Sweep um Stimmen aus Kyjiw, Caracas und Taipeh erweitern. Am 15.11.
+um Caracas, Taipeh und Moskau ergänzt (unten).*
 
 | Ring | Stimme | Blick |
 |---|---|---|
 | Betroffen | Selenskyj, 20.10.2026 | will, dass die Amerikaner die Ideen aus Oslo „to the Russians“ tragen, und schlägt ein Treffen der drei Staatschefs vor |
+| Betroffen | Selenskyj, 14.11.2026 | nicht bereit, Gebiet abzutreten; die amerikanische Frage nach Donbass gegen NATO würde er mit Sicherheitsgarantien einem Referendum vorlegen |
+| Betroffen — Regierung | Delcy Rodríguez (Caracas), 29.10.2026 | Wahlen „with the world as witness“, ohne Datum |
+| Betroffen — Opposition | María Corina Machado, 29.10.2026 | Rubios Abfolge „makes clear the holding of presidential elections in 2027“ |
+| Betroffen | Liang Wen-chieh, Festlandrat Taipeh, 12.11.2026 | Xis Satz zur Wiedervereinigung sei „not much different from the past“ |
 | Große Macht mit Einsatz | Uschakow (Kreml), 21.10.2026 | die europäischen Vorschläge hätten „not really much substance“ |
+| Große Macht mit Einsatz | Peskow (Kreml), 13.11.2026 | über ein größeres Format erst, „wenn wir ihre wirklichen Absichten … verstehen“ |
 | Große Macht mit Einsatz | Trump, 20.10.2026 | Selenskyj müsse einen Deal wollen; ob er Putin treffe: „I don't care how it's done“ |
 | Region | Valtonen (Finnland), 21.02.2025 | keine Verhandlungen über die Ukraine ohne die Ukraine, über Europa nicht ohne Europa |
 | Region | Frederiksen (Dänemark), 22.09.2026 | das Grönland-Abkommen „acknowledges and respects the sovereignty and territorial integrity“ |

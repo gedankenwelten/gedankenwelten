@@ -1417,3 +1417,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Michael Weigel-Jech
 **Status:** ✓ Vollanalyse → [[DenkerVita/Michael Weigel-Jech]]
+
+## Stefan Creuzberger
+**Status:** ✓ Vollanalyse → [[DenkerVita/Stefan Creuzberger]]

@@ -2,7 +2,7 @@
 title: "Wer bestimmt, wie erinnert wird?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-11-09
+aktualisiert: 2026-11-15
 description: "Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden."
 raetsel: "Ein Kranz kostet wenig. Teuer ist, wer ihn niederlegen darf."
 panorama-art: wachsend
@@ -137,10 +137,12 @@ In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemte
 - **[[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet#Das Schweigen danach — und seine Funktion heute|Konstantin Flemig]]:** Russland macht Katyn und den Hitler-Stalin-Pakt per Gesetz unsichtbar; wer Geschichte tilgt, muss sie nicht aufarbeiten.
 - **[[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?|Jack Fairweather]]:** Zwischen polnischem und jüdischem Erinnern an Auschwitz gebe es einen Wettstreit der Perspektiven; Pilecki, der als polnischer Häftling die Vorbereitung des Mordes an den Juden beschrieb, könne ein Brückenbauer sein.
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (3)</summary>
 
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Geschichtsrevisionismus Die Mechanik der Umdeutung|Sascha Schlösser]]** (zitiert): Am Tag der Befreiung Buchenwalds solle man lieber der „blutjungen“ Gefallenen von Gispersleben gedenken, die zum größten Teil der Waffen-SS angehörten.
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Entlastungserzählungen — Ost, West und der Mythos vom Befehlsnotstand|Jens-Christian Wagner]]:** Die Bundesrepublik erzählte von der „kleinen Clique“ und vom Befehlsnotstand und pflegte daneben ihren eigenen Opferdiskurs: Luftkrieg, Flucht, Vertreibung, Teilung.
+
+- **[[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar|Silvia Rivera Cusicanqui]]:** Den anarchistischen Großonkel, den ihr Zweig der Familie verstoßen hätte, setzt sie jedes Jahr auf den Ehrenplatz ihres Allerheiligen-Altars; die verleugnete Linie bekommt ihren Platz, ohne dass die andere verschwindet.
 
 </details>
 
@@ -159,6 +161,7 @@ In Polen gibt es seit 2011 per Gesetz den 1. März als Gedenktag der „verfemte
 
 | 07.11.2026 | [[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?\|Simplicissimus — Der Freiwillige von Auschwitz]] | Polen: IPN-Gesetz 2018 und Rücknahme, Pilecki-Institut 2017–2025 (Ruchniewicz, Madaj), Gedenktag 1. März 2011 · Kończal 2020, Jaskułowski & Majewski 2023/2024 |
 | 09.11.2026 | [[Geistesblitz/Wolfgang Niess — Der 9. November#Wem gehört der 9. November?\|Wolfgang Niess — Der 9. November]] | Wem gehört ein Gedenken und schützt Erinnerung: AfD-Antrag 21/2043, Stäblein 2026, Weber (EVZ) gegen die Klammer der Daten, KMK 2009, MEMO 2025 („Freiwilligkeit wirkt“), Firestone u. a. 2025, Hamburger Pflichtbesuch |
+| 15.11.2026 | [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar\|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]] | Wessen Tote werden erinnert? Der verleugnete Großonkel Luis Cusicanqui am Allerheiligen-Altar; Allerheiligen-Massaker 1979, 300 Tote, nie eingefordert, sagt sie (dokumentiert: über 100 bis über 200) |
 
 ---
 
