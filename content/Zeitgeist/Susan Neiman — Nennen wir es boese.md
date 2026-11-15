@@ -361,6 +361,11 @@ Neiman wartete gespannt auf die Midterms. Am Morgen danach nennt Theveßen Mamda
 
 Nach den Midterms 2026 stellt die taz-Runde Winkelmanns Befund auf die Probe: Das offene Bereichern, als Bild aus Gold, hat Trump diesmal geschadet. Barbara Junge mahnt die Demokraten, nicht „genauso korrupt“ zu werden, und das ist Neimans Asymmetrie von der anderen Seite.
 
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Selbstcancelung, Hasenfüßigkeit und die documenta|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Auf dem re:publica-Panel zieht die palästinensische Menschenrechtsaktivistin Jouanna Hassoun dieselbe Linie wie Neiman: nicht so tun, als schütze man eine Minderheit, während man eine andere diskriminiert. Im selben Gespräch sagt der jüdische Pianist Igor Levit, sein Leben in Deutschland sei schlechter geworden, und nennt den Islamismus und frühere Weggefährten als neue Richtung, eine andere Erklärung als Neimans.
+
+
 ---
 
 ## Weiterdenken

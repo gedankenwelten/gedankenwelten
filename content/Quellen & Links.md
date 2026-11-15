@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Igor Levit, Jouanna Hassoun, Johannes Volkmann — Reden wir noch oder canceln wir schon? (re:publica 26, DW-Panel)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26: Reden wir noch oder canceln wir schon?](https://www.youtube.com/watch?v=doZ2eVJQAl4) (19.05.2026) |
+| **Session** | [re-publica.com](https://re-publica.com/de/session/reden-wir-noch-oder-canceln-wir-schon) |
+| **Notiz** | [[Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon]] |
+| **Viten** | [[DenkerVita/Igor Levit]] · [[DenkerVita/Jouanna Hassoun]] · [[DenkerVita/Johannes Volkmann]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Republica_Canceln_Reden_wir_noch_Transkript.txt` |
+
 ## Elma Softic / SRF rec. — Junge Muslimas und ihr Kopftuch (Tag der Toleranz)
 
 | | |

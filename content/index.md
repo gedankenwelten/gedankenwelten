@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **16.11.** — [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+>
+> Eine Palästinenserin, ein jüdischer Pianist und ein CDU-Abgeordneter reden über das Canceln, und mitten im Gespräch zeigt sich, wie schnell man selbst übereinander statt miteinander spricht.
+
 > **15.11.** — [[Zeitgeist/Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
 >
 > 27 Millionen sowjetische Tote, und lange erinnerte man in der Bundesrepublik vor allem die eigenen. Der Historiker Stefan Creuzberger erzählt, wie Kalter Krieg, Antikommunismus und Staatsräson bestimmten, was vom Vernichtungskrieg im Gedächtnis blieb.
@@ -39,10 +43,6 @@ Die Gedankenwelten (luc)
 > **12.11.** — [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]]
 >
 > Dreizehn Jahre lebte Harry Pfau auf der Straße. Heute verteilt er in Stuttgart gerettete Lebensmittel an alle, die kommen, und weiß, dass man nicht jeden retten kann.
-
-> **11.11.** — [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
->
-> Was nimmt ein Land den Frauen, wenn es den Männern Stärke verspricht? Sandra Navidi erzählt Trumps Amerika als Rückbau. Manches davon geschieht, anderes ist Absicht, und die Grenze dazwischen lohnt den Blick.
 
 > → *5 weitere in* [[Zeitgeist]]
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Stimme, die anruft, wenn die Kinder es nicht schaffen, ein Lehrmeister, der nach der Rente bleibt, eine Figur, die vom Gefühl erzählt: Drei Erfindungen springen ein, wo ein Mensch fehlt.
 
-> → *16 weitere in* [[Geistesblitz]]
+> → *15 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -140,7 +140,7 @@ Die Gedankenwelten (luc)
 >
 > Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
 
-> → *9 weitere in* [[Spuren]]
+> → *7 weitere in* [[Spuren]]
 
 ### Kultur
 

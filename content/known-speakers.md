@@ -1429,3 +1429,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Asmaa Dehbi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Asmaa Dehbi]]
+
+## Igor Levit
+**Status:** ✓ Vollanalyse → [[DenkerVita/Igor Levit]]
+
+## Jouanna Hassoun
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jouanna Hassoun]]
+
+## Johannes Volkmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Johannes Volkmann]]

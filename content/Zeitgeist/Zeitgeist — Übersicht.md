@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*371 Notes — automatisch generiert · nach Thema sortiert*
+*372 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -334,6 +334,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Norio — Kupferschiefer-Mine in der Lausitz|Norio — Vergessener DDR-Schatz: Neue Giga-Mine rettet Deutschlands Industrie?]] — Unter der Lausitz liegt Kupfer, das Deutschland unabhängiger machen könnte. Norio zeigt die Chance einer neuen Mine – und die Briefkastenfirmen hinter dem Unternehmen, das sie heben will.
 - [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]] — Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
 - [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]] — Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism“ als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen.
+- [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch|SRF — Junge Muslimas und ihr Kopftuch]] — Zwei junge Musliminnen in der Schweiz, die das Kopftuch tragen, eine Mutter, die es nie trug, und eine Wissenschaftlerin, die fragt, wie frei so eine Wahl ist. Eine Reportage über das, was man von außen nicht sieht.
 - [[Zeitgeist/Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]] — 27 Millionen sowjetische Tote, und lange erinnerte man in der Bundesrepublik vor allem die eigenen. Der Historiker Stefan Creuzberger erzählt, wie Kalter Krieg, Antikommunismus und Staatsräson bestimmten, was vom Vernichtungskrieg im Gedächtnis blieb.
 - [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg|Sudan: Chlorbomben im vergessenen Krieg]] — Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE|Sudan: Das Massaker von El Fashir und die Rolle der VAE]] — Nach dem Fall von El Fashir wurden in drei Tagen schätzungsweise 27.000 Menschen ermordet. Konstantin Flemig fragt, wer die RSF bewaffnet, und landet bei Deutschlands Partner, den Emiraten.

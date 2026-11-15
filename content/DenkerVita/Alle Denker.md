@@ -284,6 +284,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## H
 
+**[[DenkerVita/Jouanna Hassoun|Jouanna Hassoun]]** — Menschenrechtsaktivistin, Mitgründerin von Transaidency, führt mit Shai Hoffmann Trialoge über Israel und Palästina in Schulen
+
 **[[DenkerVita/Anna Henschel|Anna Henschel]]** — Redakteurin bei wissenschaftskommunikation.de (Wissenschaft im Dialog), promoviert über Mensch-Roboter-Interaktion; befragte KI-Forschende zur Vermenschlichung in den Medien; der ahnungslose Praktikant statt der Superintelligenz
 
 **[[DenkerVita/Annette Hautli-Janisz|Annette Hautli-Janisz]]** — Computerlinguistin (Juniorprofessur Computational Rhetoric and NLP, Uni Passau); misst, wie Menschen und Maschinen argumentieren: von GPT nachgeahmte Politikerantworten wirken echter als die Originale, das Agentennetz Moltbook hat Form ohne Funktion; „Papageien auf Steroiden“
@@ -439,6 +441,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Alice Kaplan|Alice Kaplan]]** — Romanistin und Historikerin in Yale, erzählt das Leben von Büchern und Prozessen aus dem Archiv: Camus' *Fremder*, Brasillach, die Justiz nach dem Krieg.
 
 ## L
+
+**[[DenkerVita/Igor Levit|Igor Levit]]** — Pianist, mischt sich als Staatsbürger gegen die AfD und gegen Antisemitismus ein
 
 **[[DenkerVita/Henning Lobin|Henning Lobin]]** — Linguist, Direktor des Leibniz-Instituts für Deutsche Sprache in Mannheim, früher Computerlinguistik in Gießen; die sprechende Maschine als Kränkung, Sprache wächst aus dem Leib; „Sprachkampf“
 
@@ -772,6 +776,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## U
 
 ## V
+
+**[[DenkerVita/Johannes Volkmann|Johannes Volkmann]]** — CDU-Bundestagsabgeordneter (Lahn-Dill), Auswärtiger Ausschuss, trennt scharf zwischen privaten und öffentlich finanzierten Räumen
 
 **[[DenkerVita/Hagen Vockerodt|Hagen Vockerodt]]** — Hauptmann a. D., ehemaliger Kampfsanitäter der Bundeswehr, 1638 Einsatztage vom Kosovo bis Afghanistan; spricht als Redner über PTBS und Veteranen
 

@@ -289,3 +289,8 @@ Die Gegenperspektive von der FU Berlin: Celikates beschreibt einen „repressive
 ### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
 
 Dasselbe Format, die Gegenstimme. Neiman will, dass die Linke wieder „böse“ sagt, über Taten und Ideen, nie über Menschen. Potter beschreibt eine Linke, bei der aus diesem Wort ein manichäisches Weltbild geworden ist.
+
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Wo das Gespräch kippt|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Auf dem re:publica-Panel sagt der Pianist Igor Levit, sein Leben als Jude in Deutschland sei in den letzten zweieinhalb Jahren schlechter geworden, „Punkt“: Zum Antisemitismus von rechts seien der radikale Islamismus und groteske Koalitionen früherer Weggefährten unter Mullah-Flaggen gekommen. Das ist die Erfahrung zu dem Milieu, das Potter recherchiert hat.
+

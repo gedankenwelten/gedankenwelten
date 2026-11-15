@@ -510,6 +510,11 @@ Zwei Widersprüche zu Richard David Precht: Steinke hält dessen Klage über die
 
 Steinkes Absage an das „Existenzrecht“ als Pflicht und an § 188 vertritt in Magdeburg die BSW-Politikerin Claudia Wittig: „Bekenntnisse jeder Art sind von Bürgern nicht zu verlangen.“ Aus derselben Prämisse folgt bei ihr Kooperation mit der AfD, bei Steinke das Verbotsverfahren.
 
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Öffentlich und privat der Streit um den Buchhandlungspreis|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Auf dem re:publica-Panel verteidigt der CDU-Abgeordnete Johannes Volkmann den Ausschluss der drei Läden: Kunstfreiheit sei ein Abwehrrecht, kein Anspruch auf Förderung, und der Verfassungsschutz könne seine Quellen nicht offenlegen. Unser Faktencheck zum Panel hält die Rechtsthese im Kern für tragfähig; Steinkes Einwand, dass die Geprüften nie davon erfahren, steht dort mit dem Gutachten der Wissenschaftlichen Dienste, das das Verfahren deshalb für wahrscheinlich unvereinbar mit der Rechtsweggarantie hält.
+
+
 ---
 
 ## Weiterdenken

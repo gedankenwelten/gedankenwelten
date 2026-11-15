@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15",
+ "stand": "2026-11-16",
  "tage": 30,
  "zaehlt": "leser-sitzungen",
  "pfade": [
@@ -334,11 +334,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 6,
      "aufrufe": 6
@@ -347,6 +342,11 @@
      "pfad": "/DenkerVita/Kalayo",
      "leser": 5,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 5,
+     "aufrufe": 5
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
@@ -474,6 +474,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-2,-Die-Hypothese-von-der-Weltherrschaft",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
      "leser": 2,
      "aufrufe": 2
@@ -512,6 +517,11 @@
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 1,
      "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 1,
+     "aufrufe": 2
     },
     {
      "pfad": "/DenkerVita/Christine-Schliesser",
@@ -595,16 +605,6 @@
     },
     {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Simone-Weil-Die-Ilias-oder-das-Poem-der-Gewalt",
      "leser": 1,
      "aufrufe": 1
     }

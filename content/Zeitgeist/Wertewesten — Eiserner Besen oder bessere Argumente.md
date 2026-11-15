@@ -270,6 +270,11 @@ Die böswillige Tarnung, belegt: Fake-Portale wie „Wanderfalke" sammeln deutsc
 
 Eine ähnliche Linie zwischen zwei Erfahrungen, an einem Stück Stoff: Die Politologin Elham Manea, die das Kopftuch im Jemen aus Überzeugung und später zum Schutz trug, hält Verbote für Kinder für richtig; die jungen Frauen im Film, die in der Schweiz leben, fürchten eher die Blicke und die Verbote. Die Reportage löst das so wenig auf wie diese Folge.
 
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Öffentlich und privat der Streit um den Buchhandlungspreis|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Heinrichs Unterscheidung zwischen einem privaten Kanal und dem öffentlich-rechtlichen Rundfunk wird auf dem re:publica-Panel zum Grundsatz: Der CDU-Abgeordnete Johannes Volkmann verlangt, öffentlich finanzierte Räume müssten den Anspruch haben, alle relevanten Kräfte abzuholen, auch die, die man nur „mit einer Wäscheklammer an der Nase“ im Raum hat. Der Pianist Igor Levit hält die Frage, ob ein Podcaster Höcke interviewen darf, für eine Debatte von gestern.
+
+
 
 ---
 

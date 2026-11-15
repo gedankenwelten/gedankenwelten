@@ -295,6 +295,11 @@ Dasselbe Muster im Inneren einer Institution: ÖRR-Insider berichten, dass freie
 
 Marinić mit Maja Göpel in den Vertrauens-Runden der Utopie-Konferenz: dieselbe Frage nach dem demokratischen Versprechen, gewendet ins Vertrauen.
 
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Selbstcancelung, Hasenfüßigkeit und die documenta|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Was Steinke Debattenschwäche nennt, heißt beim Pianisten Igor Levit „Hasenfüßigkeit“: Nach dem 7. Oktober hätten Museen und Galerien in alle Richtungen ausgeladen, weil der Wind sich drehte, nicht aus Haltung. Der CDU-Abgeordnete Johannes Volkmann wünscht sich auf demselben Panel, dass sich durchsetzt, was er bei *Jugend debattiert* gelernt hat.
+
+
 ---
 
 ## Weiterdenken

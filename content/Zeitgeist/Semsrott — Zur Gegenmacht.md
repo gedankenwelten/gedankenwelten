@@ -299,6 +299,11 @@ Transparenz als Waffe, im Wirtschaftsministerium: Erst Widerspruch und Klagedroh
 ### → [[Harry Pfau — Harry macht satt]]
 Die Ersatzfreiheitsstrafe von unten erzählt: Harry Pfau, dreizehn Jahre obdachlos, erklärt Schülern, wie aus Armut Haft wird, und sagt selbst, seine Bude tue, was der Staat tun sollte.
 
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Folgenlos und folgenreich zugleich|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Auf einem Panel derselben re:publica beklagt der Pianist Igor Levit, dass gemeinsame physische Räume verschwinden, weil viele sie sich nicht mehr leisten können, und der CDU-Abgeordnete Johannes Volkmann verlangt, öffentlich finanzierte Räume müssten alle relevanten Kräfte abholen. Semsrotts Ausladung in Magdeburg ist ein Fall, an dem sich dieser Grundsatz von der anderen Seite her prüfen lässt.
+
+
 ---
 
 ## Weiterdenken

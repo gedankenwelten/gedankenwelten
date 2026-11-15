@@ -321,6 +321,11 @@ Dehbi erklärt, warum Frauen, die Zwang erleben, schweigen: Ihre Geschichte wür
 
 Mirsela will „als Mensch“ gesehen werden, nicht als „Frau mit Kopftuch“. Yus erste Strategie gegen Entmenschlichung ist genau das: mehrere Kategorien statt der einen Schublade. Der Film setzt sie um, mit der Pflegefachfrau und ihren fast 200 Tüchern, der Hortnerin, die zum Bus rennt, der Mutter auf dem Spielplatz.
 
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Wo das Gespräch kippt|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Was Dehbi als Grund des Schweigens beschreibt, geschieht auf dem re:publica-Panel der Schwester-Tagesnote offen: Die Erfahrungen von Igor Levit und Johannes Volkmann mit Antisemitismus werden binnen Minuten zu Belegen im Streit über Migration, und Levit sagt, es werde gerade abstrakt über ihn gesprochen. Die palästinensische Aktivistin Jouanna Hassoun hält dagegen, Antisemitismus werde „auf dem Rücken der Migranten“ ausgetragen.
+
+
 ---
 
 ## Weiterdenken

@@ -221,3 +221,8 @@ Der Realitätstest für Pörksens „redaktionelle Gesellschaft": ÖRR-Insider f
 ### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
 
 Der Filterclash als Ranking-Entscheidung: Das Feature gegen die Blase setzt das vegane Rezept vor die Grill-Glaubenskrieger, „ein Treffen der Anonymen Alkoholiker in einer Bar".
+
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Wege zurück|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Auf dem re:publica-Panel verlangt der CDU-Abgeordnete Johannes Volkmann, den „moralischen Absolutheitsanspruch“ aufzugeben, und die Aktivistin Jouanna Hassoun will selbst bei hochgradig antisemitischen oder rassistischen Sätzen zuerst fragen: Wie meinst du das? Das ist Pörksens respektvolle Konfrontation, im Streit über Nahost erprobt. Dass keiner der drei es dort durchhält, zeigt, wie schwer die Übung ist.
+

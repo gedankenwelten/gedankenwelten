@@ -167,6 +167,11 @@ Die Partei, für die „Ausländerkriminalität“ ein Gründungsthema ist; dort
 
 Das Nachbarpanorama zur Polizei, die ihre Akten dauerhaft verknüpft: ob die Datenanalyse wirkt, was Beobachtung mit Menschen macht, und warum ein Anbieterwechsel die Rückkopplung zwischen Kontrolle und Daten nicht berührt.
 
+### → [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Wo das Gespräch kippt|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
+
+Auf dem re:publica-Panel prallen die beiden Lesarten von „Wird verschwiegen?“ live aufeinander: Jouanna Hassoun sagt, Migranten würden ständig kriminalisiert, der CDU-Abgeordnete Johannes Volkmann, Diskurse über Migration und Kriminalität würden als „rechts“ delegitimiert. Beide hören dieselbe Debatte und hören das Gegenteil.
+
+
 ---
 
 ## Weiterdenken
