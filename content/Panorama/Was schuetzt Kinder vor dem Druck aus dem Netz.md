@@ -2,7 +2,7 @@
 title: "Was schützt Kinder vor dem Druck aus dem Netz?"
 date: 2026-11-03
 erstellt: 2026-11-03
-aktualisiert: 2026-11-14
+aktualisiert: 2026-11-15
 panorama-art: wachsend
 description: "Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben."
 raetsel: "Die Schublade im Lehrerzimmer ist voll. Der Schulhof ist leer."
@@ -266,6 +266,8 @@ Meta-Analyse).
 
 Dass sich Gefühle früh üben lassen, ist gut belegt: Programme zum sozial-emotionalen Lernen in der Kita heben die emotionale Kompetenz deutlich, schon bei geringer Intensität ([Blewitt u. a. 2018](https://doi.org/10.1001/jamanetworkopen.2018.5727), Meta-Analyse über 63 Studien). Wo dabei KI ins Spiel kommt, wird es heikel. In einem Test von vier KI-Spielzeugen sagten manche Kindern, wo Streichhölzer und Messer liegen, und die Schutzvorkehrungen brachen in längeren Gesprächen zusammen ([U.S. PIRG, Trouble in Toyland 2025](https://pirg.org/edfund/resources/trouble-in-toyland-2025-a-i-bots-and-toxics-represent-hidden-dangers/)); UNICEF verlangt seit Dezember 2025, dass Chatbots Kindern gegenüber offenlegen, keine Menschen zu sein ([UNICEF, Guidance on AI and Children 3.0](https://www.unicef.org/innocenti/reports/policy-guidance-ai-children)).
 
+Bildung beginnt dabei nicht in der Schule. Wie Eltern selbst mit dem Gerät umgehen, prägt die Szene am Esstisch: In Schnellrestaurants beobachtet, nutzten 40 von 55 Erwachsenen ihr Gerät beim Essen mit kleinen Kindern, und wer darin versank, reagierte auf deren Werben um Aufmerksamkeit oft harsch ([Radesky u. a. 2014](https://doi.org/10.1542/peds.2013-3703), Beobachtungsstudie). Es wirkt in beide Richtungen, gestresste Eltern schwieriger Kinder tauchen eher ins Gerät ab, und das Abtauchen sagt wieder schwierigeres Verhalten voraus ([McDaniel & Radesky 2018](https://doi.org/10.1038/s41390-018-0052-6), Längsschnittstudie); wer Kinder oft mit dem Tablet beruhigt, nimmt ihnen womöglich Übung im Umgang mit Gefühlen ([Radesky u. a. 2022](https://doi.org/10.1001/jamapediatrics.2022.4793), Kohortenstudie).
+
 **Die Stimmen**
 
 - **[[Poerksen und Goepel — Debatte neu denken#Medienbildung und öffentlich-rechtlicher Rundfunk|Bernhard Pörksen]]:** Es braucht eine nie gekannte Investition in Medienbildung, nach dem Vorbild Finnlands. Der Digitalpakt scheiterte an dem Glauben, Paletten mit iPads erzeugten Medienkompetenz.
@@ -275,6 +277,7 @@ Dass sich Gefühle früh üben lassen, ist gut belegt: Programme zum sozial-emot
 - **[[republica26 — Social-Media-Verbot fuer Kinder#Das neurobiologische Argument Porsche mit VW-Käfer-Bremsen|Kerstin Paschke]]:** Jugendliche sind ein Porsche mit den Bremsen eines VW Käfer. Das Belohnungssystem läuft voll, die Kontrolle reift erst noch.
 - **[[republica26 — Social-Media-Verbot fuer Kinder#Die Jugend-Perspektive Nicht über uns, sondern mit uns|Sanya Lehmann]]:** Statt eines Verbots die einzelnen Probleme angehen, mit den Jugendlichen auf Augenhöhe.
 - **[[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Ledumi die Figur mit dem Rucksack|Scarlett Smolenski-Schubert]]:** Geschichten seien ein Übungsraum, in dem Kinder einem Gefühl erst auf Abstand begegnen; ihre Audiofigur kommt ohne Bildschirm, Mikrofon und Kamera aus und meldet die Entscheidungen des Kindes an die Eltern zurück.
+- **[[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Publikumsfragen|Daniel Jung]]:** Auf einen Ausbilder, den der Dreijährige mit Tablet im Restaurant wütend macht, antwortet er mit einem „Elternführerschein“: Jedes Elternteil solle dieselbe Aufklärung bekommen wie die Kinder.
 
 > [!question] Die Reibung
 > Pörksen und Maas setzen auf Urteilskraft, Paschke erinnert daran, dass Wissen die Bremse nicht ersetzt, die
@@ -316,6 +319,7 @@ Welt*. Gegner wie Befürworter von Verboten treffen sich an dieser Stelle.
 |---|---|---|
 | 02.11.2026 | [[Zeitgeist/MDR exactly — Kinder im Burnout#Nachbesprechung|MDR exactly — Kinder im Burnout]] | Anlass des Panoramas: Handyverbote (Beneito & Vicente-Chirivella 2022, King 2024, Goodyear 2025), Smartphone später (Veramendi 2026), Altersgrenzen (Australien, Eckpunkte vom 14.10.2026), Medienbildung (Cho, Carpenter & Li 2025, Kurz 2021); Kausalfrage im Faktencheck |
 | 14.11.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Nachbesprechung\|Made in Germany Awards 2026 — Gesellschaft]] | Sozial-emotionales Lernen früh (Blewitt u. a. 2018, Durlak u. a. 2011), KI-Spielzeug (U.S. PIRG 2025), UNICEF-Leitlinie 2025; Stimme Smolenski-Schubert |
+| 15.11.2026 | [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Was Kinder an den Eltern sehen\|Daniel Jung — KI hilft, KI hindert]] | Was Kinder an den Eltern sehen: Radesky u. a. 2014 (Schnellrestaurants), McDaniel & Radesky 2018 (beide Richtungen), Radesky u. a. 2022 (Beruhigen mit dem Gerät); Stimme Jung (Elternführerschein) |
 
 ---
 

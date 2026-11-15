@@ -78,7 +78,7 @@ Die Gedankenwelten (luc)
 
 > **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
 >
-> Wer sich von der Maschine die Lösung geben lässt, übt besser und schneidet in der Prüfung schlechter ab. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
+> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
 
 > **15.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
 >
@@ -108,13 +108,13 @@ Die Gedankenwelten (luc)
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
+> **15.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
+>
+> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
+
 > **15.11.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
 >
 > Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
-
-> **15.11.** — [[Panorama/Wirken Quoten|Wirken Quoten?]]
->
-> Ein Platz am Tisch, reserviert: Was ändert eine Quote unterhalb der Quote, wen hebt sie und wen nicht, kostet sie die, die sie heben soll, ihr Ansehen, und ändert sie, was entschieden wird? Vier offene Fragen und die Stimmen, die an ihnen reiben.
 
 > → *19 weitere in* [[Panorama]]
 
