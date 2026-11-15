@@ -288,7 +288,7 @@ Diese Note hält den knappen kommunalen Haushalt für einen nachvollziehbaren Ei
 
 ### → [[DenkerVita/Mark Benecke|Mark Benecke — DenkerVita]]
 
-Beneckes dritte Note im Cortex, nach den Umwelt-Messungen und der Fragerunde *Time Is Up*: Der Kriminalbiologe, der sonst Klimadaten seziert, wechselt hier in die Rolle des Fragenden und lässt anderen die Antworten.
+Beneckes dritte Note in den Gedankenwelten, nach den Umwelt-Messungen und der Fragerunde *Time Is Up*: Der Kriminalbiologe, der sonst Klimadaten seziert, wechselt hier in die Rolle des Fragenden und lässt anderen die Antworten.
 
 ### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
 

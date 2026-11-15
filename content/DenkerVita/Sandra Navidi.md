@@ -100,7 +100,7 @@ Knoten ist robust gegen Zufall und zerbrechlich gegen genau den einen Fehler, de
 
 **Korruption braucht in den USA keine Illegalität.** Seit *Citizens United v. FEC* (2010) ist der
 unbegrenzte Geldfluss in die Politik als Meinungsfreiheit geschützt. Navidis Argument in beiden
-Cortex-Notes: Trump habe diesen Mechanismus nicht erfunden, sondern perfektioniert und offen gemacht.
+Notes: Trump habe diesen Mechanismus nicht erfunden, sondern perfektioniert und offen gemacht.
 Was früher Skandal war, ist heute Verfahren.
 
 **Rechenschaft scheitert nicht an Personen, sondern an Struktur.** Sie beschreibt Ermittlungen, die

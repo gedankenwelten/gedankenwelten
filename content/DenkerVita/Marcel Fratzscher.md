@@ -63,7 +63,7 @@ Mit *Die neue Aufklärung* (2020), *Geld oder Leben* (2022) und *Nach uns die Zu
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Zehn Wirtschaftsmythen — DE/CODED mit Marcel Fratzscher (ZDF Terra X Lesch & Co, 2026)](https://www.youtube.com/watch?v=ZYD_8ORqNxY) — Fratzscher nimmt zehn gängige Annahmen auseinander: Staatsschulden, Ungleichheit, Exportüberschüsse, Inflation, Bürgergeld. Der Ausgangspunkt der Cortex-Note.
+- [Zehn Wirtschaftsmythen — DE/CODED mit Marcel Fratzscher (ZDF Terra X Lesch & Co, 2026)](https://www.youtube.com/watch?v=ZYD_8ORqNxY) — Fratzscher nimmt zehn gängige Annahmen auseinander: Staatsschulden, Ungleichheit, Exportüberschüsse, Inflation, Bürgergeld. Der Ausgangspunkt unserer Note.
 - [dbb Jahrestagung 2025 — Impuls von Marcel Fratzscher](https://www.youtube.com/watch?v=Y4rqIWlUuec) — Vortragsformat, seine Kernthese in Reinform: „Die wirtschaftliche Lage in Deutschland ist bei weitem nicht so schlecht, wie die Stimmung suggeriert."
 - [Fratzscher zur Regierungserklärung von Friedrich Merz (14.05.2025)](https://www.youtube.com/watch?v=XkeZHRnfC38) — kurze, präzise Einordnung der Wirtschaftspolitik der Merz-Regierung.
 - [Fratzscher zu den Vorschlägen der Rentenkommission (22.06.2026)](https://www.youtube.com/watch?v=q2_mrn_bYIc) — aktuelle Position zum Generationenvertrag, dem Thema seines Buchs von 2025.

@@ -126,7 +126,7 @@ Deutsche Ausgaben, chronologisch nach französischer Erstveröffentlichung.
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Philosophische Soirée: Ich, Du und der Andere – Buber und Levinas im Gespräch](https://www.youtube.com/watch?v=BYqyNSC7gl8) (Haus am Dom Frankfurt, 22.06.2021, ~1:53 h) — der Judaist Christian Wiese stellt Buber vor, der Theologe Joachim Valentin Levinas; danach ein Gespräch über Ich-Du und Antlitz, Symmetrie und Asymmetrie, den Dritten und die feministische Kritik. Die Grundlage der Cortex-Note.
+- [Philosophische Soirée: Ich, Du und der Andere – Buber und Levinas im Gespräch](https://www.youtube.com/watch?v=BYqyNSC7gl8) (Haus am Dom Frankfurt, 22.06.2021, ~1:53 h) — der Judaist Christian Wiese stellt Buber vor, der Theologe Joachim Valentin Levinas; danach ein Gespräch über Ich-Du und Antlitz, Symmetrie und Asymmetrie, den Dritten und die feministische Kritik. Die Grundlage unserer Note.
 - [Liebesweisheit. Emmanuel Levinas – Der Philosoph des Anderen](https://www.youtube.com/watch?v=wHqYY9Ckmlg) (WDR-Reihe „Philosophie", 1990, Film von Henning Burk und Christoph von Wolzogen, ~42 min) — das deutsche Fernsehporträt zu Lebzeiten; hochgeladen von einem Drittkanal, nicht vom Sender.
 - [L'idée de l'infini et le visage d'autrui](https://www.youtube.com/watch?v=GO9CSh-4W40) (Oratoire du Louvre, 8.11.2016, frz., ~1:29 h) — der Philosoph und Dramatiker Denis Guénoun kommentiert einen Levinas-Text zur Idee des Unendlichen, Satz für Satz.
 - [Le visage : toute l'humanité qui nous regarde](https://www.youtube.com/watch?v=ab-1kcLmzc0) (Konferenz von Félix Perez, 2017, frz., ~2 h) — ausführlicher Vortrag über das Antlitz, aus dem Umfeld eines MOOC zu Levinas.

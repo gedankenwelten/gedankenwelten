@@ -439,7 +439,7 @@ hätte.
 | **Video** | [Es passiert: Warum das UK jetzt aufgeteilt wird](https://www.youtube.com/watch?v=dLw3QaHYno8) — Clever Camel, 20.09.2026, 11:32 |
 | **Transkript** | `Gedankenwelten/Transkripte/CleverCamel_UK_Aufteilung_Transkript.txt` |
 
-Über dieses Video kam die Sache in den Cortex. Es ist als Beleg unbrauchbar — anderthalb der elfeinhalb
+Über dieses Video kam die Sache zu uns. Es ist als Beleg unbrauchbar — anderthalb der elfeinhalb
 Minuten sind Anlagewerbung, und die Brücke dorthin lautet „Klumpenrisiko Schottland gleich Klumpenrisiko
 Depot". In der Substanz stimmt es überwiegend; die Zuspitzungen liegen in der Rahmung: aus *„prepare,
 plan and facilitate constitutional change"* wird „London soll die Auflösung organisieren", aus einem

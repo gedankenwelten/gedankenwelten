@@ -28,6 +28,12 @@ Gedankenwelten/
   Gedanken, persönlicher Einstieg in Panorama oder Spur —, heißt er **Luc**, sein Künstlername. Der Klarname steht im
   Impressum; „Wie die Notes entstehen" verbindet beides. Vom 24.10. bis 01.11.2026 hieß er hier „Andi" — das ist
   zurückgenommen, alle Stellen sind umgestellt. Autoren-Tag bleibt `luc`.
+- **Öffentlich heißt es nie „Cortex“** (seit 15.11.2026, Andreas: „mit dem Namen kann ja niemand was anfangen …
+  wir sind die Gedankenwelten“). „Cortex“ ist der private Name des Projektordners. In Notes, Viten, Panoramen,
+  Spuren und den öffentlichen Einzelseiten steht stattdessen **die Gedankenwelten**, **wir / bei uns / unsere
+  Note** oder, wo es um die Arbeitsweise geht, **die Werkstatt**. Die Hirnrinde darf Cortex heißen. Prüfung:
+  `python3 .claude/scripts/cortex_wort.py` (läuft im Sync mit, warnt nur). Anlass: 36 Stellen im Bestand, am
+  15.11. umgeschrieben (u. a. „Grundlage der Cortex-Note“ in Viten, „dieser Cortex“ bei Simanowski).
 
 ## Recherche statt Gedächtnis (seit 03.11.2026, Andreas' Ja)
 

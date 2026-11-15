@@ -286,7 +286,7 @@ Er nennt vier Dinge: Besinnung auf die Wurzeln. Eine Balance zwischen liberaler,
 
 Damit der Konservatismus nicht verplumpt und sich das Konzept christliche Demokratie neu aneignet — „was eine Lehre aus unseren historischen Katastrophen ist".
 
-Göpels Gegen-Einladung ist ihr letztes Wort und zieht eine Linie, die im Cortex immer wieder auftaucht: Eine Gleichsetzung von AfD und CDU darf sich nicht normalisieren. Das Ringen darum, was die christliche Volkspartei sein kann, ist offen, und viele Kräfte darin sind engagiert.
+Göpels Gegen-Einladung ist ihr letztes Wort und zieht eine Linie, die in den Gedankenwelten immer wieder auftaucht: Eine Gleichsetzung von AfD und CDU darf sich nicht normalisieren. Das Ringen darum, was die christliche Volkspartei sein kann, ist offen, und viele Kräfte darin sind engagiert.
 
 > [!info] Nachtrag der Redaktion
 > Das Gespräch wurde Ende Juni 2026 aufgezeichnet. In der Videobeschreibung weist NEU DENKEN darauf hin, dass seither mit **Franziska Hoppermann** eine CDU-Generalsekretärin aus der Christlich-Demokratischen Arbeitnehmerschaft berufen wurde — also aus genau dem Flügel, den Püttmann hier als marginalisiert beschreibt.

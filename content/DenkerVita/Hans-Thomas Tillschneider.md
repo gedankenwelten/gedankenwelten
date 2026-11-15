@@ -74,7 +74,7 @@ Tillschneider schrieb danach auf X, er habe am „Gedenken an den schrecklichen 
 
 **Über ihn:**
 - [phoenixRunde: Zäsur – Erster Landtagspräsident der AfD (06.10.2026)](https://www.youtube.com/watch?v=hV_hsoMgVyA) — Karl-Rudolf Korte, Eva Quadbeck, David Begrich und Niklas Ottersbach am Abend seiner Wahl. Begrich nennt ihn den „Ideologieproduzenten“ neben dem konzilianten Rausch und beschreibt die „Doppeladressierung“ der Partei.
-- [DW Reporter: AfD und rechte Influencer in Sachsen-Anhalt (2026)](https://www.youtube.com/watch?v=TZVxJwJH0HU&t=329) — vor der Kamera seine Definition von Rechtsextremismus, dagegen geschnitten eine Rede vor Anhängern (→ Cortex-Note unten).
+- [DW Reporter: AfD und rechte Influencer in Sachsen-Anhalt (2026)](https://www.youtube.com/watch?v=TZVxJwJH0HU&t=329) — vor der Kamera seine Definition von Rechtsextremismus, dagegen geschnitten eine Rede vor Anhängern (→ unsere Note unten).
 - [Menschenkette versperrt Tillschneider den Zutritt zur Synagoge (WELT, 09.10.2026)](https://www.youtube.com/watch?v=iEMtJypwwMw) — zwei Minuten vom Ort, mit Volker Beck: „Welcher Amoklauf war denn das?“
 - [Der Fascho-Jammerlappen: Wer ist Hans-Thomas Tillschneider? (Florian Schroeder, 21.08.2026)](https://www.youtube.com/watch?v=H0SdQOWMQ6Q) — Satire auf den Interviewabbruch, sieben Minuten.
 

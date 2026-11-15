@@ -59,7 +59,7 @@ Aufsätze zum Thema: „Völkermordvorwurf gegen Israel“ (Deutsche Richterzeit
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Jung & Naiv, Folge 826 — Nürnberger Prozesse, Völkerrecht & Altnazis](https://www.youtube.com/watch?v=0NzEeHewC7Q) (Mai 2026, 3:46 Std.) — die Grundlage der Cortex-Note
+- [Jung & Naiv, Folge 826 — Nürnberger Prozesse, Völkerrecht & Altnazis](https://www.youtube.com/watch?v=0NzEeHewC7Q) (Mai 2026, 3:46 Std.) — die Grundlage unserer Note
 - [Ohnmacht des Völkerrechts — Presseclub Nürnberg](https://www.youtube.com/watch?v=Qlt-eLKf0dk) (Okt. 2025) — Buchvorstellung
 - [Friedensreiter #19: Wie ohnmächtig ist das Völkerrecht?](https://www.youtube.com/watch?v=_NWS2Ze-O6U) (Okt. 2025) — „normativ stark, praktisch schwach“
 - [Ohnmacht des Völkerrechts — Gespräch mit Thomas Giegerich](https://www.youtube.com/watch?v=JPJn_dqF9nI) (Okt. 2025)

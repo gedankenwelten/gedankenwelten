@@ -123,7 +123,7 @@ Deutsche Originalausgaben, chronologisch.
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Philosophische Soirée: Ich, Du und der Andere – Buber und Levinas im Gespräch](https://www.youtube.com/watch?v=BYqyNSC7gl8) (Haus am Dom Frankfurt, 22. Juni 2021, ~1:53 h) — Christian Wiese und Joachim Valentin stellen Buber und Levinas nebeneinander und rekonstruieren das Gespräch, das die beiden nie ganz geführt haben. Grundlage der Cortex-Note.
+- [Philosophische Soirée: Ich, Du und der Andere – Buber und Levinas im Gespräch](https://www.youtube.com/watch?v=BYqyNSC7gl8) (Haus am Dom Frankfurt, 22. Juni 2021, ~1:53 h) — Christian Wiese und Joachim Valentin stellen Buber und Levinas nebeneinander und rekonstruieren das Gespräch, das die beiden nie ganz geführt haben. Grundlage unserer Note.
 - [Martin Buber – Das Wort, das gesprochen wird](https://www.youtube.com/watch?v=Sj7Y0cTz3R4) (Tonaufnahme, ~61 min, PhilosophieKanal) — Buber selbst, im hohen Alter, über das Gespräch als Matrix des Denkens. Die Stimme gehört zum Werk.
 - [Begegnungen mit Martin Buber](https://www.youtube.com/watch?v=4IETXxwj91A) (Katholische Akademie Berlin, 2023, ~1:36 h) — Rabbiner Andreas Nachama im Gespräch mit Eva-Maria Thimme, der Übersetzerin der Mendes-Flohr-Biographie, zum hundertsten Jahr von *Ich und Du*.
 - [Die Bibelübersetzung von Martin Buber und Franz Rosenzweig](https://www.youtube.com/watch?v=L8QxTos6rxA) (Haus am Dom, 3. Dezember 2025, ~2 h) — Lesung und Gespräch mit Christian Wiese zum hundertsten Jahr von *Die Schrift* und über die heftige Debatte, die sie auslöste.

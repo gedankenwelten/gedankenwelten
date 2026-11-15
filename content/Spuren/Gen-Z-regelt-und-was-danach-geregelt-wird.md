@@ -172,7 +172,7 @@ Innenausschuss. Was ein Minister sagt, ist eine Aussage, die wir festhalten. Ein
 *Vorab festgelegt am 02.11.2026. Die Wortlisten werden nicht nachgeschärft; wer sie ändert, zählt ab dann
 etwas anderes und schreibt es dazu.*
 
-Die Grundlage ist die Cortex-News-DB, ein Feed-Leser auf unserem Server, der stündlich 83 RSS-Feeds
+Die Grundlage ist unsere News-Datenbank, ein Feed-Leser auf unserem Server, der stündlich 83 RSS-Feeds
 einliest. Gezählt werden die deutschsprachigen darunter, ohne Satire und reine Technikseiten. Meldungen zu
 den Protesten kamen bisher von Tagesschau, Deutschlandfunk, DW, ZEIT, FAZ, SPIEGEL, taz, Cicero, der Freitag
 und Telepolis. Eine Meldung gehört dazu, wenn
@@ -186,7 +186,7 @@ nebenbei erwähnen, fallen heraus. Dann schaut das Skript in Titel und Teaser na
   Wörter.
 
 Wer allgemein von „Anliegen“ oder „Forderungen“ spricht, ohne eine zu nennen, wird eigens gezählt und zählt
-nicht als Forderung. Das Skript liegt im Cortex (`.claude/scripts/spur_genz_zaehlung.py`), die Liste aller gezählten
+nicht als Forderung. Das Skript liegt bei uns (`.claude/scripts/spur_genz_zaehlung.py`), die Liste aller gezählten
 Meldungen mit ihrer Einordnung wird bei jedem Sweep unter `.claude/data/spuren/` abgelegt.
 
 **Was die Zählung kann und was nicht.** Sie misst *Vorkommen*: ob ein Wort aus einem Feld in Titel oder

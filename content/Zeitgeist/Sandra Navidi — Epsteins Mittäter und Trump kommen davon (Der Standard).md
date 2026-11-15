@@ -47,7 +47,7 @@ Quelle: [Sandra Navidi: Epsteins Mittäter und Trump kommen davon — Thema des 
 > spricht über den Fall Epstein weder empört noch distanziert, sondern wie jemand, der weiß, was in
 > so einer Akte steht.
 >
-> → [[DenkerVita/Sandra Navidi|DenkerVita]] · Ihre zweite Cortex-Note: [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+> → [[DenkerVita/Sandra Navidi|DenkerVita]] · Ihre zweite Note hier: [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 
 ---
 

@@ -81,7 +81,7 @@ Das Bemerkenswerte ist die Weitergabe. John hat eine Information behalten, sie f
 
 [▶ 14:33](https://www.youtube.com/watch?v=XY5Wncq5vAE&t=873) — Das Problem ist die Menge. Schon wenige Stunden Leben in Smallville passten 2023 nicht mehr in das Kontextfenster eines Sprachmodells. Also muss die Figur auswählen, woran sie sich erinnert. [▶ 16:04](https://www.youtube.com/watch?v=XY5Wncq5vAE&t=964) Park baut die Auswahl aus drei Maßen. **Aktualität**: Ältere Erinnerungen verblassen exponentiell. **Relevanz**: Wie nah liegt die Erinnerung an der aktuellen Situation? Und **Wichtigkeit**, die interessanteste der drei, weil sie das Modell selbst fragt: *Dir ist das passiert — ist es für dich wichtig?* Das Frühstück von heute zählt wenig, ein Studienabschluss oder eine Trennung viel.
 
-Wer mit dem Cortex arbeitet, erkennt das Muster. Es ist dieselbe Frage, die jedes Retrieval-System beantworten muss, nur hier auf eine erfundene Biografie angewandt. Park hat damit etwas gebaut, das mehr einem Tagebuch mit Suchfunktion gleicht als einem Gedächtnis. Das Vergessen ist eine Rechenregel, und die Wichtigkeit ein Urteil, das die Figur über sich selbst abgibt, ohne dass ihr je etwas wichtig gewesen wäre.
+Wir kennen das Muster aus der eigenen Arbeit. Es ist dieselbe Frage, die jedes Retrieval-System beantworten muss, nur hier auf eine erfundene Biografie angewandt. Park hat damit etwas gebaut, das mehr einem Tagebuch mit Suchfunktion gleicht als einem Gedächtnis. Das Vergessen ist eine Rechenregel, und die Wichtigkeit ein Urteil, das die Figur über sich selbst abgibt, ohne dass ihr je etwas wichtig gewesen wäre.
 
 ### Reflexion — wer Klaus ist
 

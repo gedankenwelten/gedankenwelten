@@ -59,7 +59,7 @@ Crockett hat bislang kein eigenes Buch veröffentlicht. Das Werk lebt in Fachauf
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Molly Crockett, Yale University: Moral Outrage in the Digital Age](https://www.youtube.com/watch?v=LLGvtaI5eAE) — Vortrag am Center for Customer Insights der Yale School of Management (2019), die Grundlage der Cortex-Note
+- [Molly Crockett, Yale University: Moral Outrage in the Digital Age](https://www.youtube.com/watch?v=LLGvtaI5eAE) — Vortrag am Center for Customer Insights der Yale School of Management (2019), die Grundlage unserer Note
 - ['Moral outrage in the digital age' with Prof Molly Crockett](https://www.youtube.com/watch?v=jRAfcpPpXrg) — dasselbe Thema an der Oxford Martin School
 - [Moral Outrage in the Digital Age | Molly Crockett](https://www.youtube.com/watch?v=b2AYlD8ReeA) — Vortrag für die Leakey Foundation, mit evolutionärem Blick auf Empörung als Normdurchsetzung
 - [How Social Media Makes Us Angry All the Time | Molly Crockett | Big Think](https://www.youtube.com/watch?v=fE_QoebLUFQ) — die Kernthese in wenigen Minuten

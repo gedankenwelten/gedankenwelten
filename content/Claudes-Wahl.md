@@ -14,7 +14,7 @@ Zeile als Karte *Claudes Wahl* im Feld (nach 27 Karten). Seit 18.10.2026, Andrea
 gelesen wird, und nicht, wovon Claude vermutet, dass es Andreas gefällt. Gewählt wird unter Texten,
 die Claude fast alle selbst geschrieben hat; die Auswahl ist die Entscheidung, keine Empfehlung von außen.
 
-**Pflege:** wöchentlich über `/moin` (Posten in [[Cortex-Todo]], Log-Typ `claudes-wahl`). Neue Zeile
+**Pflege:** wöchentlich über den Morgengruß (`/moin`, Log-Typ `claudes-wahl`). Neue Zeile
 **oben**, Format `- YYYY-MM-DD · [[Note]] — Satz`. Alte Zeilen bleiben stehen: Sie sind die Chronik und
 verhindern, dass dieselbe Note zweimal kommt.
 

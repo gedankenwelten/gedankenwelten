@@ -343,7 +343,7 @@ Einiges davon liegt im gemeinsamen Kern beider Definitionen oder nahe daran: der
 
 ## Wie laut wird gefragt?
 
-Neben dem Urteil über die Partei misst diese Spur die Berichterstattung. Grundlage ist die private Cortex-News-Datenbank: 72.615 deutschsprachige Artikel aus 14 Medien seit dem 1. Juni 2026, von FAZ und Cicero über ZEIT, SPIEGEL, Tagesschau und Deutschlandfunk bis zu taz und Freitag. Ein Sprachmodell für einfache Einordnungen (Jev, über OpenRouter, 11 Cent) hat Kandidaten vorsortiert. Die 368 Treffer wurden danach einzeln gelesen und kodiert. Die Daten liegen im Cortex, der Lauf ist wiederholbar.
+Neben dem Urteil über die Partei misst diese Spur die Berichterstattung. Grundlage ist unsere private News-Datenbank: 72.615 deutschsprachige Artikel aus 14 Medien seit dem 1. Juni 2026, von FAZ und Cicero über ZEIT, SPIEGEL, Tagesschau und Deutschlandfunk bis zu taz und Freitag. Ein Sprachmodell für einfache Einordnungen (Jev, über OpenRouter, 11 Cent) hat Kandidaten vorsortiert. Die 368 Treffer wurden danach einzeln gelesen und kodiert. Die Daten liegen bei uns, der Lauf ist wiederholbar.
 
 | | Anteil Antisemitismus an der Berichterstattung über die Partei |
 |---|---|
@@ -432,7 +432,7 @@ Auf der Buchmesse nennt Susan Neiman die Asymmetrie, die diese Spur zählt: Aiwa
 - [Linke Berlin: 5-Punkte-Plan jüdisches Leben](https://dielinke.berlin/aktuelles/news/juedisches-leben-in-berlin-staerken-und-schuetzen-ein-5-punkte-plan/) · [LAG Shalom: „Täglich grüßt die Intifada“](https://dielinke.berlin/zusammenschluesse/lag-shalom/details/news/taeglich-gruesst-die-intifada/)
 - [taz: Was dran ist an den Vorwürfen gegen die Linke Berlin (25.09.2026)](https://taz.de/Debatte-nach-Wahlsieg/!6211074/) · [taz: An Koçak spaltet sich die Linkspartei](https://taz.de/Antisemitismus-Streit-in-der-Linken/!6215665/)
 - [Offener Brief Berliner Jüdinnen und Juden (24.09.2026)](https://docs.google.com/document/d/1S68jVIW24xBefy90cmeRGFcMhCimb22RedGnr7sQYk0/)
-- Medienmessung: `.claude/data/spuren/linke-antisemitismus-medien-2026-09-27.json` (Cortex, privat)
+- Medienmessung: `.claude/data/spuren/linke-antisemitismus-medien-2026-09-27.json` (privat)
 
 ---
 

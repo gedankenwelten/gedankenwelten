@@ -240,7 +240,7 @@ Was *exakt* berichtet, aus beiden Richtungen: Die elf Jugendlichen seien über K
 
 **09.11.2026, Eröffnung.**
 
-- *Wo verlange ich Bestätigung?* Der Cortex hat viele Notes zu rechter Gewalt und zum Ausstieg aus der rechten Szene, kaum welche zu linker oder islamistischer Gewalt. Die Versuchung ist, rechte Gewalt genauer und schwerer zu nehmen, weil wir sie besser kennen. Die Messregel behandelt darum alle Bereiche gleich, und die Tabelle steht vollständig da.
+- *Wo verlange ich Bestätigung?* Die Gedankenwelten haben viele Notes zu rechter Gewalt und zum Ausstieg aus der rechten Szene, kaum welche zu linker oder islamistischer Gewalt. Die Versuchung ist, rechte Gewalt genauer und schwerer zu nehmen, weil wir sie besser kennen. Die Messregel behandelt darum alle Bereiche gleich, und die Tabelle steht vollständig da.
 - *Wo wehre ich ab?* Der Sprung linker Gewalt 2025 ist die Zahl, die am meisten Ausreden einlädt: Widerstandsdelikte, der Wahlkampf, Angriffe auf Rechtsextreme. Diese Gründe stehen in den Daten, aber sie gelten für andere Bereiche genauso. Sie werden im Verlauf nur dort genannt, wo die Daten sie für jeden Bereich gleich hergeben.
 - *Was die Wahl des Maßstabs tut:* siehe den Kasten unter der Messregel. Das Fünfjahresmittel begünstigt heute bei vier Bereichen ein „zugenommen“ und bei „sonstige“ ein „abgenommen“. Eine andere Wahl, etwa das Mittel 2017–2021, würde für links ein anderes Bild geben. Wir bleiben bei der festgehaltenen Wahl, und genau dafür steht sie vorher da.
 
