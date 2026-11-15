@@ -1423,3 +1423,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Daniel Jung
 **Status:** ✓ Vollanalyse → [[DenkerVita/Daniel Jung]]
+
+## Elham Manea
+**Status:** ✓ Vollanalyse → [[DenkerVita/Elham Manea]]
+
+## Asmaa Dehbi
+**Status:** ✓ Vollanalyse → [[DenkerVita/Asmaa Dehbi]]

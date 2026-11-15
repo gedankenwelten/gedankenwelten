@@ -252,6 +252,11 @@ Bonhoeffer verortet die Wahrheit in Beziehungen und nennt die Lüge eine Zerstö
 ### → [[Simplicissimus — Der Freiwillige von Auschwitz]]
 Häftlinge baten 1940 darum, das Lager zu bombardieren, auch wenn sie dabei stürben, und 1944 lehnten jüdische Organisationen Bomben ab, um die Häftlinge zu schonen: eine Wahl zwischen dem Übel und dem Schlimmeren, von beiden Seiten.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Elham Manea Wie frei ist frei?|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Ricœurs Beispiel für den Konflikt gleichgewichtiger Pflichten, das Kopftuch in der Schule, ist 2026 in drei Schweizer Kantonen wieder Gesetzesfrage. Die Politologin Elham Manea fragt, wie man der Frau gerecht wird, die das Tuch tragen will, und der, die es nicht will, und antwortet wie Ricœur nicht mit einer Regel, sondern mit vielen am Tisch: Schule, Gemeinschaften, Politik, junge Menschen.
+
+
 ---
 
 ## Weiterdenken

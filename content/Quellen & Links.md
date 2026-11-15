@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Elma Softic / SRF rec. — Junge Muslimas und ihr Kopftuch (Tag der Toleranz)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Junge Muslimas und ihr Kopftuch – Unterdrückt oder selbstbestimmt?](https://www.youtube.com/watch?v=Hmak5ExrViI) (SRF Dokus & Reportagen, rec., 09.11.2026) |
+| **Anlass** | [UNESCO: International Day for Tolerance](https://www.unesco.org/en/days/tolerance) · [Declaration of Principles on Tolerance](https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance) |
+| **Notiz** | [[SRF — Junge Muslimas und ihr Kopftuch]] |
+| **Viten** | [[DenkerVita/Elham Manea]] · [[DenkerVita/Asmaa Dehbi]] |
+| **Transkript** | `Gedankenwelten/Transkripte/SRF_Kopftuch_Junge_Muslimas_Transkript.txt` |
+
 ## Jacob Beautemps / Made in Germany Awards — Kategorie Gesellschaft (Breaking Lab)
 
 | | |

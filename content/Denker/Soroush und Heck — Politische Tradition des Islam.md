@@ -217,6 +217,10 @@ Soroushs Theorie ist die Anklageschrift gegen genau das Regime, das diese Spur l
 
 Häresie entsteht dort, wo Macht eine Deutung erzwingt — das erklärt, warum die Jesiden zu Abgefallenen und Teufelsanbetern erklärt werden konnten: weil der IS die Deutungsmacht hatte, nicht wegen ihrer Theologie. Und hier reibt es: Diese Note verwirft die Religion, die Identität statt Moral ist. Tekkals Jesidentum ist die reinste Form davon — nur durch Geburt betretbar — und sie begründet die Strenge selbst mit der Verfolgungsgeschichte. Ist eine Identitätsreligion aus Notwehr eine andere als eine aus Machtanspruch?
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Elham Manea Wie frei ist frei?|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Soroush schließt aus dem Bleiben der Frauen auf ihre Zustimmung; Jahre später zeigt eine Schweizer Reportage, wie wenig man einer Frau von außen ansieht, ob sie frei wählt. Die Politologin Elham Manea lässt dasselbe Wort, Handlungsmacht, für die Musliminnen gelten, die das Kopftuch tragen, wie für die Iranerinnen, die es verbrennen, und stellt damit die Frage, der Soroush hier ausweicht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

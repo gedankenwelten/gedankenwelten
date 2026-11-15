@@ -249,6 +249,11 @@ MONITOR zeigt, dass rechte Medienarbeit durch Dauerbeschallung normalisiert, nic
 
 Die mögliche Folgewirkung: Schönauers ÖRR-Insider beschreiben, wie Kampagnen in den Redaktionen ankommen. Bei AfD-Themen gebe es ein „kurzes Zusammenzucken“ und die Angst, sich selbst die Schere in den Kopf zu setzen, auch wenn sie die Themen trotzdem machten.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Asmaa Dehbi Warum die anderen schweigen|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Was Selvi Aksünger geschah, erklärt, warum andere schweigen: Die Erziehungswissenschaftlerin Asmaa Dehbi sagt in einer SRF-Reportage, Musliminnen, die Druck in der Familie erleben, sprächen nicht öffentlich, weil ihre Geschichte sofort als „Beweis“ gegen alle benutzt würde. Hier wurde eine harmlose Geste zum Beweis gemacht, und niemand hatte gefragt.
+
+
 ---
 
 ## Weiterdenken

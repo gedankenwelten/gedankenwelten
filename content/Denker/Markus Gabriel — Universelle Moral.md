@@ -206,6 +206,11 @@ Die juristische Antwort auf das Kinderwahlrecht: Von Scheliha hält ein stellver
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“ und „Soll die Maschine widersprechen oder schmeicheln?“.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Shazna dazwischen|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Ein Wert, der in der Küche entsteht: Als ihre achtjährige Tochter ein Kopftuch tragen wollte, gab ihr eine Mutter zwei Jahre, sich umzuhören, und ließ den Rückweg offen, während drei Schweizer Kantone über Verbote beraten. Die Gegenstimme im selben Film verlangt eine Einrichtung, eine Hotline für Lehrkräfte, und erinnert an die offene Stelle in Gabriels Ansatz: wie die Küche bis zur Schule reicht.
+
+
 ---
 
 ## Weiterdenken

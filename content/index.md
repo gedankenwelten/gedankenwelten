@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > 27 Millionen sowjetische Tote, und lange erinnerte man in der Bundesrepublik vor allem die eigenen. Der Historiker Stefan Creuzberger erzählt, wie Kalter Krieg, Antikommunismus und Staatsräson bestimmten, was vom Vernichtungskrieg im Gedächtnis blieb.
 
+> **15.11.** — [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch|SRF — Junge Muslimas und ihr Kopftuch]]
+>
+> Zwei junge Musliminnen in der Schweiz, die das Kopftuch tragen, eine Mutter, die es nie trug, und eine Wissenschaftlerin, die fragt, wie frei so eine Wahl ist. Eine Reportage über das, was man von außen nicht sieht.
+
 > **13.11.** — [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 >
 > Die Atomkraft bekam über Jahrzehnte mehr Förderung, die Erneuerbaren mehr je Kilowattstunde. Ungleich war vor allem, wo es stand: auf der Stromrechnung oder im Haushalt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Was nimmt ein Land den Frauen, wenn es den Männern Stärke verspricht? Sandra Navidi erzählt Trumps Amerika als Rückbau. Manches davon geschieht, anderes ist Absicht, und die Grenze dazwischen lohnt den Blick.
 
-> **11.11.** — [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
->
-> Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
-
-> → *4 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Denker
 

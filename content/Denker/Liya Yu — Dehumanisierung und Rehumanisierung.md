@@ -284,6 +284,10 @@ Boshammers Geständnis, es falle ihr schwer, bei Rechten Überzeugung und Person
 
 Weils Satz, vor einem Menschen in der Gewalt anderer verhalte man sich wie vor einem Hinweisschild, ist Yus Stuhl in der Sprache von 1940. Die Gewaltforscherin Hanna Pfeifer schließt daran die Genozidforschung an: Entmenschlichung in der Sprache als Frühwarnzeichen.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Mirsela der Tag mit dem weißen Kopftuch|SRF — Junge Muslimas und ihr Kopftuch]]
+
+„Sie sollen mich als Mensch sehen und nicht als Frau mit Kopftuch“, sagt eine junge Pflegefachfrau an ihrem Diplomtag. Die Reportage tut, was Yu als erste Strategie nennt: Sie zeigt die Frauen in vielen Kategorien zugleich, Pflegerin, Hortnerin, Mutter, Sammlerin von zweihundert Tüchern.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -266,6 +266,11 @@ Püttmann liefert die Theorie zu dem Streit, der hier ausgefochten wird. Er ziti
 
 Die böswillige Tarnung, belegt: Fake-Portale wie „Wanderfalke" sammeln deutsche Interviewpartner, manche freiwillig, manche hereingelegt. Wienands Antwort liegt zwischen Besen und Argument, nämlich Recherche, die Namen nennt und Fälschungen markiert.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Elham Manea Wie frei ist frei?|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Eine ähnliche Linie zwischen zwei Erfahrungen, an einem Stück Stoff: Die Politologin Elham Manea, die das Kopftuch im Jemen aus Überzeugung und später zum Schutz trug, hält Verbote für Kinder für richtig; die jungen Frauen im Film, die in der Schweiz leben, fürchten eher die Blicke und die Verbote. Die Reportage löst das so wenig auf wie diese Folge.
+
+
 ---
 
 ## Weiterdenken

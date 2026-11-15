@@ -367,6 +367,11 @@ Am Nachmittag legt Bleisch ihre Morgenthese Welzer vor; er verweigert die Begrif
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Yasi Wem tut es gut, wenn ich es abnehme?|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Zwei junge Musliminnen, eine frisch diplomierte Pflegefachfrau und eine Hortnerin, sitzen mit Kopftuch längst am Tisch, und gerade dort, in Schule, Arbeit und Bus, wird um das Tuch gestritten. Ihre Frage, wie weit Integration gehen soll, ob man „jetzt Schweizerin“ sein und „schwingen gehen“ müsse, ist El-Mafaalanis Frage, wer die Regeln am Tisch mitverhandeln darf.
+
+
 ---
 
 ## Weiterdenken

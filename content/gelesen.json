@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 223,
-   "aufrufe": 283
+   "leser": 221,
+   "aufrufe": 280
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -44,14 +44,14 @@
    "aufrufe": 24
   },
   {
-   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "leser": 17,
-   "aufrufe": 20
-  },
-  {
    "pfad": "/DenkerVita/Benjamin-Biersky",
    "leser": 16,
    "aufrufe": 22
+  },
+  {
+   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+   "leser": 16,
+   "aufrufe": 19
   },
   {
    "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -164,6 +164,11 @@
    "aufrufe": 7
   },
   {
+   "pfad": "/DenkerVita/Judith-Mangelsdorf",
+   "leser": 5,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
    "leser": 5,
    "aufrufe": 6
@@ -200,11 +205,6 @@
   },
   {
    "pfad": "/DenkerVita/Byung-Chul-Han",
-   "leser": 4,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Judith-Mangelsdorf",
    "leser": 4,
    "aufrufe": 5
   },
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 25,
-     "aufrufe": 31
+     "aufrufe": 30
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -325,13 +325,13 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 10,
-     "aufrufe": 11
+     "leser": 9,
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 8,
-     "aufrufe": 8
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -384,6 +384,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Zeitgeist/Philip-Schlaffer-Kann-man-sich-aendern",
      "leser": 3,
      "aufrufe": 4
@@ -414,11 +419,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "leser": 2,
      "aufrufe": 2
@@ -430,6 +430,11 @@
     },
     {
      "pfad": "/Denker/Walther-Ziegler-Adorno-in-60-Minuten",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "leser": 2,
      "aufrufe": 2
     },
@@ -524,11 +529,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
-     "leser": 1,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 1,
      "aufrufe": 2
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 223,
-     "aufrufe": 283
+     "leser": 221,
+     "aufrufe": 280
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -654,14 +654,14 @@
      "aufrufe": 24
     },
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 17,
-     "aufrufe": 20
-    },
-    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 16,
      "aufrufe": 22
+    },
+    {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 16,
+     "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -774,6 +774,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "leser": 5,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 5,
      "aufrufe": 6
@@ -810,11 +815,6 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "leser": 4,
      "aufrufe": 5
     },
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1008,
-     "aufrufe": 1216
+     "aufrufe": 1215
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1199,6 +1199,11 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "leser": 7,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
      "leser": 7,
      "aufrufe": 8
@@ -1210,11 +1215,6 @@
     },
     {
      "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
      "leser": 7,
      "aufrufe": 8
     }
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1008,
-     "aufrufe": 1216
+     "aufrufe": 1215
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1504,6 +1504,11 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "leser": 7,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
      "leser": 7,
      "aufrufe": 8
@@ -1515,11 +1520,6 @@
     },
     {
      "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
      "leser": 7,
      "aufrufe": 8
     }
@@ -1794,11 +1794,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Arthur-Aron",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 2,
      "aufrufe": 2
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Darin-L.-Gerdes",
      "leser": 2,
      "aufrufe": 2
     }

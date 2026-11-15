@@ -97,6 +97,8 @@ Die dunkle Seite der Macht über Kinder hat Namen. An der Odenwaldschule wurden 
 
 Wie wenig Kinder in der Schule mitentscheiden, zeigen Befragungen seit zwanzig Jahren übereinstimmend. Zu Hause bestimmen drei Viertel der Zwölf- bis Achtzehnjährigen viel mit, in der Schule rund jeder Siebte ([Fatke & Schneider 2005](https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/GP_Kinder-_und_Jugendpartizipation_in_Deutschland.pdf)); Grundschulkinder bestimmen in der Schule am häufigsten den Sitznachbarn (World Vision Kinderstudie 2018). Beteiligung wirkt mäßig, aber gerichtet: auf Selbstwert, demokratische Kompetenz und das Verhältnis zu den Erwachsenen, kaum auf Leistung, fast nie schädlich ([Mager & Nowak 2012](https://doi.org/10.1016/j.edurev.2011.11.001)). Autonomieunterstützung durch Lehrkräfte sagt die Lernmotivation stärker voraus als die durch Eltern ([Bureau et al. 2022](https://doi.org/10.3102/00346543211042426)); die Schule hätte den größeren Hebel und nutzt ihn am wenigsten. Gefragt zu werden reicht dabei nicht: Beteiligung braucht Raum, Stimme, Gehör und Einfluss ([Lundy 2007](https://doi.org/10.1080/01411920701657033)).
 
+Über die Religion eines Kindes entscheiden zuerst die Eltern, und das Gesetz nennt das Alter, ab dem es selbst bestimmt: in Deutschland und Österreich 14, in der Schweiz 16 ([ZGB Art. 303](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_303)). Genau bis zu diesen Grenzen wollen die neuen Kopftuchverbote den Mädchen die Entscheidung abnehmen: Österreich verbietet das Tuch seit September 2026 bis zum 14. Geburtstag, nachdem sein Verfassungsgericht ein Verbot bis zehn 2020 aufgehoben hatte ([Parlament Österreich](https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk0796)), der Aargauer Grosse Rat verlangt es bis 16. Wie oft Mädchen gedrängt werden, weiß niemand; eine Statistik gibt es auch in Österreich nicht. Ob ein Kind mit acht oder zehn frei wählt, kann die Forschung nicht sagen.
+
 Am Smartphone wird die Frage gerade neu verhandelt: Unter den Jugendlichen ab 14 sind 47 Prozent für ein Mindestalter von 16 und 42 Prozent dagegen ([ifo-Bildungsbarometer 2025](https://www.ifo.de/fakten/2025-09-09/ifo-bildungsbarometer-2025)), entschieden wird ohne sie. Mehr dazu in [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz#Soll der Staat ein Mindestalter setzen?|Soll der Staat ein Mindestalter setzen?]]
 
 **Die Stimmen**
@@ -109,9 +111,11 @@ Am Smartphone wird die Frage gerade neu verhandelt: Unter den Jugendlichen ab 14
 - **Stefan Ruppaner und Reinhard Kahl** ([▶ 29:57](https://www.youtube.com/watch?v=baoJB6HrpWo&t=1797), *Schule von unten*): An der Alemannenschule bekommt, wer Verantwortung für andere übernimmt, einen Schlüssel für sieben Tage die Woche, rund um die Uhr, und passiert sei bisher nichts. Kahl zitiert dazu Doris Fratton: „Die barbarensichere Schule erzieht Barbaren“ ([▶ 31:31](https://www.youtube.com/watch?v=baoJB6HrpWo&t=1891)).
 - **[[republica26 — Social-Media-Verbot fuer Kinder#Die Jugend-Perspektive Nicht über uns, sondern mit uns|Sanya Lehmann]]:** Jugendliche sind mehrheitlich gegen ein Verbot; man solle sie auf Augenhöhe einbinden, statt sie von oben zu verwalten.
 - **[[republica26 — Social-Media-Verbot fuer Kinder#Das Containerschiff-Bild Regulierung auf Zeit|Kerstin Paschke]]:** Bis die Regulierung aufholt, nimmt man das kleine Boot aus dem Fahrwasser, Kinder also befristet von den Plattformen.
+- **[[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Shazna dazwischen|Shazna]]:** Als ihre Tochter mit acht das Kopftuch wollte, gab sie ihr zwei Jahre, sich umzuhören, und ließ den Rückweg offen; mit zehn wollte die Tochter es noch, und die Mutter sieht seither die Blicke, die das Kind nicht sieht.
 
-<details><summary>Weitere Stimmen (12)</summary>
+<details><summary>Weitere Stimmen (13)</summary>
 
+- **[[DenkerVita/Elham Manea#Kernthesen|Elham Manea]]:** Kinder können über das Kopftuch nicht selbst entscheiden; dass sie es tragen sollen, zeige eine Ideologie (2020 zum österreichischen Verbot bis zehn).
 - **[[Robert Musil — Die Verwirrungen des Zoeglings Toerless#Niemand wird bestraft|Robert Musil]]** (zweiter Befund): Die Institution bestraft nicht die Grausamkeit, sondern die Störung: Das Opfer fliegt, die Täter bleiben.
 - **[[Duezen Tekkal — Deutschland ist bedroht#Zuschauerfragen|Eine Berliner Grundschullehrerin]]:** Weinende Mädchen wollten mit zum Schwimmen, sie musste sie abweisen: „Das musst du mit deinem Vater verhandeln.“
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Gute direkte Beziehungen, schlechtes gesellschaftliches Generationenverhältnis|Aladin El-Mafaalani]]** (zweiter Befund): Die netten Eltern nehmen den Jungen den Hebel zur Rebellion gegen schlechte Zustände.
@@ -283,7 +287,7 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 | 01.11.2026 | [[Andreas Kemper — Faschismen im 21. Jahrhundert#Nachbesprechung|Andreas Kemper — Faschismen im 21. Jahrhundert]] | Sortiert die Schule nach Herkunft, Absatz zu Einstellungen: Schulreform der Alliierten und Ost-Paradox, Witschge 2019 (×2), Janmaat & Mons 2022, Dhont & Van Hiel 2011 · Kemper als Stimme |
 | 02.11.2026 | [[Zeitgeist/MDR exactly — Kinder im Burnout#Nachbesprechung|MDR exactly — Kinder im Burnout]] | Beschämen oder schonen → zu Hause: McLeod 2007, de Roo 2022, SPACE (Lebowitz 2020) · Perfektionismus: Curran & Hill 2019/2022, Lunn 2023 · Wozu ist Schule da → Handyverbote: Beneito 2022, King 2024, Veramendi 2026 (Preprint) · Stimmen Roessner, Linn |
 | 15.11.2026 | [[Geistesblitz/Daniel Jung — KI hilft, KI hindert#Nachbesprechung|Daniel Jung — KI hilft, KI hindert]] | Braucht Lernen eine Note → Prüfen im KI-Zeitalter: Kofinas 2025, Huxham 2010, Wass 2003, Dawson 2024 · Jung als Stimme |
-
+| 15.11.2026 | [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Wer entscheidet über das Tuch eines Kindes?\|SRF — Junge Muslimas und ihr Kopftuch]] | Wer bestimmt über Kinder? Religionsmündigkeit, die Kopftuchverbote in Österreich und im Aargau |
 ---
 
 ## Verbindungen

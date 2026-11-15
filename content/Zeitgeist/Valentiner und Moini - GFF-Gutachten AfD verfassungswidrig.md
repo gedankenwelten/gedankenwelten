@@ -258,6 +258,10 @@ Dieselbe Rechtsfrage, entgegengesetzte Folgerung. Thiele gehörte 2024 zu den Re
 
 Matthias Quent formuliert dort die Position, für die dieses Gutachten die Vorwegnahme ist: für die Klärung der Verbotswürdigkeit sein, ohne für das Verbot zu sein — auch um den Preis, dass das Gericht sagt, ihr habt das überschätzt. Die GFF hat diese Klärung außergerichtlich geleistet und ergebnisoffen begonnen; was fehlt, ist der Antrag. Der Abend zeigt, was diese Lücke politisch kostet, wenn eine Demokratie sich wehrhaft nennt und die Sanktion nie anwendet.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Was bewirken Kopftuchverbote?|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Das Gutachten zählt das Kopftuchverbot zu den Maßnahmen, die erst im Konzept der Bürgerklassen tragen. Die Nachbesprechung der Schweizer Reportage zeigt, was solche Verbote messbar bewirken (Frankreich 2004: seltenere Abschlüsse, mehr erlebte Diskriminierung) und dass Österreichs Verfassungsgericht ein Verbot 2020 kippte, weil es nur eine Gruppe traf. Eine Verbindung der Schweizer Vorstöße zur AfD-Analyse ist damit nicht behauptet.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -174,6 +174,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## D
 
+**[[DenkerVita/Asmaa Dehbi|Asmaa Dehbi]]** — Erziehungswissenschaftlerin am SZIG (Universität Freiburg); antimuslimischer Rassismus und Soziale Arbeit, warum Betroffene von Zwang lieber schweigen, als zum „Beweis“ zu werden
+
 **[[DenkerVita/Anja Dahlmann|Anja Dahlmann]]** — Rüstungskontrollexpertin (IFSH); autonome Waffensysteme und militärische KI, menschliche Kontrolle über Waffengewalt, feministische Rüstungskontrolle
 
 **[[DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
@@ -459,6 +461,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
+
+**[[DenkerVita/Elham Manea|Elham Manea]]** — Politikwissenschaftlerin (Universität Zürich), Naher Osten, Jemen, Frauenrechte; muslimische Kritikerin des gewaltlosen Islamismus, die fragt, wie frei eine Wahl ist, die eine Auslegung vorgibt
 
 **[[DenkerVita/Martina Mescher|Martina Mescher]]** — Journalistin im Politikteam der wochentaz, Moderatorin des Bundestalk; liest Macht an ihren Gesten, von Trumps Ballsaal bis zur Sozialpolitik der Union
 

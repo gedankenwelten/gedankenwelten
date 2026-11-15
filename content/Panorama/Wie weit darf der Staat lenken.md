@@ -2,7 +2,7 @@
 title: "Wie weit darf der Staat lenken?"
 date: 2026-11-07
 erstellt: 2026-11-07
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-15
 description: "Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?"
 raetsel: "Der Weg war frei. Nur das Gefälle hatte jemand gebaut."
 panorama-art: wachsend
@@ -130,6 +130,8 @@ Der Schutz hat aber eine Verteilung. Bei der britischen Softdrink-Abgabe sank di
 
 Und Schutz kann die treffen, die er schützen soll. Die Corona-Jahre sind dafür im Bestand der Prüfstein, und an der Frage, ob Kinder ein Mindestalter fürs Netz brauchen, wiederholt sich der Streit (→ [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz#Soll der Staat ein Mindestalter setzen?|Soll der Staat ein Mindestalter setzen?]]).
 
+Am Kopftuch wird die Frage zur Doppelfrage: Schützt ein Verbot die Mädchen, die es tragen müssen, oder trifft es die, die es tragen wollen? Für das französische Schulverbot von 2004 fanden Abdelgadir und Fouka seltenere Abschlüsse muslimischer Schülerinnen und ein stärkeres Gefühl, diskriminiert zu werden ([Abdelgadir & Fouka 2020](https://doi.org/10.1017/s0003055420000106), quasi-experimentell); für den Erlass von 1994 fand eine zweite Studie bessere Abschlüsse ([Maurin & Navarrete 2023](https://doi.org/10.1093/epolic/eiac069), quasi-experimentell), die eine Nachrechnung mit der erfragten statt der geschätzten Religion wieder umkehrt ([Montpetit 2026](https://warwick.ac.uk/fac/soc/economics/research/workingpapers/2026/twerp_1610-montpetit.pdf), Arbeitspapier). Ob ein Verbot die Frau schützt, die das Tuch nicht will, hat keine dieser Studien gemessen. Der Zürcher Kantonsrat beauftragte im August 2026 die Regierung mit einem Verbot an Schulen und berief sich auf Frankreich, ohne Quelle.
+
 **Die Stimmen**
 
 - **[[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#Fünf Denkfehler der freien Wahl|Gert Scobel]]:** Jeder hat das Recht, sich zu ruinieren; niemand hat das Recht, das Ruinieren anderer zu erleichtern und es Freiheit zu nennen.
@@ -140,6 +142,14 @@ Und Schutz kann die treffen, die er schützen soll. Die Corona-Jahre sind dafür
 - **[[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder#Das Containerschiff-Bild Regulierung auf Zeit|Kerstin Paschke]]:** Das Kind auf Zeit aus dem Fahrwasser nehmen, bis die Regulierung aufgeholt hat.
 - **[[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder#Die Jugend-Perspektive Nicht über uns, sondern mit uns|Sanya Lehmann]]:** Nicht über uns, sondern mit uns; die bestehenden Regeln durchsetzen statt neue Verbote.
 - **[[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie#Vom Daten-Narrativ zum Freiheits-Narrativ|Martin Andree]]:** *„Wenn das Produkt dich nichts kostet, wirst du für immer deine Freiheit verlieren“*: Freiheit als Argument für die Regel.
+- **[[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Elham Manea Wie frei ist frei?|Elham Manea]]:** Allen Rechnung tragen, der Frau, die das Tuch tragen will, und der, die es nicht will; Lehrkräfte sollen Zwang erkennen und melden können, statt jede Trägerin zu verdächtigen.
+
+<details><summary>Weitere Stimmen (2)</summary>
+
+- **[[Duezen Tekkal — Deutschland ist bedroht#Der Rezipient, nicht der Imam|Düzen Tekkal]]:** *„Jeder darf fromm leben, aber seine Frömmigkeit darf nicht mit unserem Rechtsstaat kollidieren.“*
+- **[[Paul Ricoeur — Die zweite Naivitaet#7. Das Tragische des Handelns — zwischen dem Übel und dem Schlimmeren|Paul Ricœur]]:** Das Kopftuch in der Schule ist ein Konflikt gleichgewichtiger Pflichten, Toleranz gegen öffentliche Ordnung; solche Fälle entscheidet keine Regel allein.
+
+</details>
 
 > [!question] Die Reibung
 > Der liberale Maßstab erlaubt den Eingriff nur, wo anderen geschadet wird. *Ist das Kind vor dem Regal ein „anderer“, und der Erwachsene, der seinen süßeren Geschmack verliert, ein Opfer dieses Schutzes? Und wenn der Schutz der Schwachen gerade die Schwachen trifft, wer hat dann wen geschützt?*
@@ -152,7 +162,7 @@ Und Schutz kann die treffen, die er schützen soll. Die Corona-Jahre sind dafür
 |---|---|---|
 | 07.11.2026 | [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#Wie weit darf der Staat lenken?\|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]] | Gründungsnote: Kritik am libertären Paternalismus (Sugden, Grüne-Yanoff, Schmidt & Engelen), Akzeptanz (Reisch & Sunstein, Diepeveen, Forsa und YouGov 2026), Verdrängung oder Übertragung (Werfel, Maki, Ghasemi) |
 | 10.11.2026 | [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Hilft ein gemeinsamer Verzicht?\|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] | Was trägt die Mehrheit mit? Der Veggie-Day 2013 als Prüfstein, Frankreichs Pflichtmenü seit 2019, der DGE-Standard, Wirkung an der Theke (Garnett 2019) und darüber hinaus (Green, Smith & Mathur 2025) |
-
+| 15.11.2026 | [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Was bewirken Kopftuchverbote?\|SRF — Junge Muslimas und ihr Kopftuch]] | Wen soll der Staat schützen? Was Kopftuchverbote bewirken: Frankreich 1994 und 2004, Bewerbungsexperiment, die Zürcher Motion |
 ---
 
 ## Verbindungen

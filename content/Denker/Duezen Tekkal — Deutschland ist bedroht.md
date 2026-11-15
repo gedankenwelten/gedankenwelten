@@ -383,6 +383,10 @@ Der produktivste Widerspruch im Bestand, weil beide aus demselben Milieu kommen 
 
 Eralp hat denselben Ausgangspunkt wie Tekkal, als Tochter politisch Verfolgter aus der Türkei, und steht heute an der Spitze der Berliner Linken. Sie weist die Integrationsforderung als Bringschuld zurück und fragt bei Parolen nach denen, die sie als Drohung hören.
 
+### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Yasi Wem tut es gut, wenn ich es abnehme?|SRF — Junge Muslimas und ihr Kopftuch]]
+
+Was geschieht, wenn die Frauenfrage zur Prüfung wird, die man immer verfehlen kann: Einer jungen Schweizerin schreiben Fremde täglich, sie sei mit Kopftuch „nicht genug integriert“, und sie fragt zurück, wie weit Integration gehen soll. Die andere Hälfte steht im selben Film: Eine Mutter erzählt, wie Druck in einer frommen Familie leise über die Kleidung kam, die Selbstkritik von innen, die Tekkal verlangt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

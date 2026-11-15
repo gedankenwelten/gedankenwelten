@@ -33,8 +33,9 @@ hochgesetztes `aktualisiert:`.
 
 ## 2026-11-16 · Internationaler Tag der Toleranz
 
-Am 16. November 1995, im Jahr der Toleranz der Vereinten Nationen, verabschiedeten die Mitgliedstaaten der UNESCO eine Erklärung der Prinzipien der Toleranz; ein Jahr später machte die UN-Vollversammlung den Tag zum Welttag. Die Erklärung beginnt mit dem, was Toleranz nicht ist: weder Nachgiebigkeit noch Gleichgültigkeit, sondern Achtung vor der Vielfalt, wie Menschen leben und sich ausdrücken. Schwer wird sie dort, wo das Andere wehtut, und an der Grenze, die Karl Popper beschrieb: Wer auch die Intoleranten grenzenlos duldet, verliert am Ende die Toleranz selbst. Wo diese Grenze verläuft, darüber streiten die Notes darunter.
+Am 16. November 1995, im Jahr der Toleranz der Vereinten Nationen, verabschiedeten die Mitgliedstaaten der UNESCO eine Erklärung der Prinzipien der Toleranz; ein Jahr später machte die UN-Vollversammlung den Tag zum Welttag. Die Erklärung hält fest, was Toleranz nicht ist: weder Nachgiebigkeit noch Gleichgültigkeit, sondern Achtung vor der Vielfalt, wie Menschen leben und sich ausdrücken. Schwer wird sie dort, wo das Andere wehtut, und an der Grenze, die Karl Popper beschrieb: Wer auch die Intoleranten grenzenlos duldet, verliert am Ende die Toleranz selbst. Wo diese Grenze verläuft, darüber streiten die Notes darunter.
 
+- [[SRF — Junge Muslimas und ihr Kopftuch]]
 - [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 - [[Andreas Puettmann — Werte NEU DENKEN]] — Poppers Toleranzparadoxon und die Frage, wie wehrhaft die Mitte sein darf
 - [[Markus Gabriel — Universelle Moral]] — Ethik beginnt mit dem Satz: Die anderen könnten recht haben
