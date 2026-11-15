@@ -914,6 +914,30 @@ Bild es wirklich klarer macht, erkennbar künstlerisch wie die Banner (Künstler
 
 ---
 
+## Schritt 5f — Fremdblick: zwei Modelle anderer Herkunft (seit 14.11.2026)
+
+Alle anderen Prüfungen (Sherlock, Aristarch, Fremden-Test) laufen auf Claude, dem Modell, das die Note
+schreibt, und teilen damit seine blinden Flecken. Zwei Modelle anderer Herkunft lesen die fertige Note
+gegen die Quelle: Gemini (Google) und Kimi (Moonshot, China), über OpenRouter, parallel, unter einer Minute.
+
+```bash
+python3 .claude/scripts/fremdblick.py --note "Gedankenwelten/<Rubrik>/<Note>.md" \
+  --quelle "content/Transkripte/<…>_Transkript.txt"
+```
+
+- **Wann:** wenn der Text steht (nach Sherlock und Stimme, vor Montaigne), bei jeder Note mit Quelle.
+  Ohne Transkript (Artikel) die Quelle als Text übergeben. Gedanken ohne Quelle entfallen.
+- **Fragen:** Wo wertet oder gewichtet die Note anders, als die Quelle trägt? Wo fehlt eine Einschränkung?
+  Bei Tag `ki` zusätzlich: Wird die KI günstiger dargestellt als die Menschen?
+- **Funde sind Material.** Jeden am Transkript selbst nachprüfen. Was trägt, wird korrigiert: verlorene
+  Einschränkungen still, eigene Einschätzungen neu gefasst. Was nicht trägt, wird verworfen. Beides kommt
+  in die Abschluss-Summary, getragene Funde ins Fehler-Register (`--was "[fremdblick: Gemini|Kimi|beide] …"`).
+- **Budget:** 10–20 $ im Monat (Andreas, 14.11.2026). Ab 15 $ nur noch Gemini, ab 20 $ Stopp (Exit 3,
+  dann entfällt der Schritt). Stand: `fremdblick.py --kosten`.
+- Nur öffentliche Gedankenwelten-Notes, das Skript sperrt alles andere.
+
+---
+
 ## Schritt 6 — Montaigne: Cross-Linking (RAG-gestützt)
 
 Montaigne nutzt jetzt RAG direkt — der separate Step 6a entfällt. Montaigne hat einen eingebauten RAG-Query als ersten Schritt und findet relevante Notes semantisch statt über Glob.

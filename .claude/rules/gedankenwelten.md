@@ -57,6 +57,10 @@ Gedankenwelten/
 > 4. **Abgleichen:** Was er findet und in der Absicht nicht steht, ist eine stille Verschiebung. Sie wird
 >    Andreas vorgelegt und dann zurückgenommen oder bewusst behalten. Den Bericht samt Abgleich neben die
 >    Fassung legen (`… — <datum>.fremd.md`).
+> 5. **Fremdblick** (seit 14.11.2026, Andreas' Ja): Der Fremden-Test fragt, *was* sich geändert hat. Ob die
+>    neue Fassung der Quelle gerecht wird, fragen zwei Modelle anderer Herkunft (Gemini, Kimi):
+>    `python3 .claude/scripts/fremdblick.py --note … --quelle …`. Das gilt auch für neue Notes (→ `gedankenwelt`, Schritt 5f).
+>    Die Funde sind Material und werden am Transkript nachgeprüft. Budget 10–20 $ im Monat, das Skript bremst selbst.
 >
 > **Wann:** beim Modernisieren und Nachschärfen, bei Vertiefungen (heraklit), bei Panoramen und Vitas, also
 > überall, wo eigene Sätze umgeschrieben werden. **Nicht** bei reinen Korrekturen (aristarch, Tippfehler,

@@ -99,6 +99,9 @@ Nach dem Vertiefen erneut prüfen:
 □ ## Weiterdenken mit 3–5 Fragen vorhanden?
 ```
 
+Danach der **Fremdblick** (→ `gedankenwelt`, Schritt 5f): `fremdblick.py --note … --quelle …`. Gemini und
+Kimi lesen die vertiefte Note gegen das Transkript. Die Funde am Transkript nachprüfen und erst dann übernehmen.
+
 ### Schritt 6 — RAG Re-Ingest + Deploy
 
 ```bash

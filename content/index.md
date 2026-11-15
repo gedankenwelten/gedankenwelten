@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
 
-> → *18 weitere in* [[Geistesblitz]]
+> → *13 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Gedankenlos, überzeugt oder nur dabei: Vier offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
 
-> → *19 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -116,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
-> → *3 weitere in* [[Spuren]]
+> → *1 weitere in* [[Spuren]]
 
 ### Zeitgeist
 
@@ -140,7 +140,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Historikerin vom BSW und ein Geograf von der AfD suchen auf einem Berliner Podium, was sie verbindet: Frieden mit Russland. Manches Argument trägt, manches hält der Prüfung nicht stand, und eine Frage stellt an diesem Abend niemand.
 
-> → *5 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Kultur
 
