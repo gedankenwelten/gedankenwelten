@@ -244,6 +244,10 @@ Der Zwilling des UN-Prozesses zu autonomen Waffen: Auch im Cyberraum gilt das V�
 
 Die Gewaltforscherin Hanna Pfeifer liest mit Simone Weil, warum die Verkürzung zwischen erkannter Gefahr und Gegenschlag gefährlich ist: Gewalt lässt sich nur in dem kleinen Abstand hemmen, in dem Denken Platz hat, und genau der wird verkürzt.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Wem das Jahrhundert gehört|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+
+Bauckhage sieht das KI-Rennen „wie den Kalten Krieg“ und erzählt von KI, die im Irankrieg Angriffspläne erarbeitete; die Note belegt das am Maven-System, in dem seit Ende 2024 auch Claude steckt. Dass es für KI keine Abkommen gibt wie für die Genetik, erklärt Dahlmanns Laser-Beispiel: Verbote gelingen dort, wo sie wenig kosten.
+
 ---
 
 ## Weiterdenken

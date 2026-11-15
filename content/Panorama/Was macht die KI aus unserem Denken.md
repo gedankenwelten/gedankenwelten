@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-11-14
+aktualisiert: 2026-11-15
 description: "Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -59,14 +59,16 @@ Ungemessen ist auch die Rolle dessen, der nicht mehr selbst schreibt, sondern au
 - **[[Roberto Simanowski — Sprachmaschinen#Thamus hatte recht und irrte trotzdem|Simon Roloff]]:** Im selben Gespräch der Advocatus Diaboli: Jede Entlastung hat bisher Platz für Neues geschaffen, warum nicht auch diese?
 - **[[Hartwin Maas — Bildung NEU DENKEN#Kognitives Outsourcing & Halbbildung (Adorno)|Hartwin Maas]]:** Wer das Kognitive auslagert, baut keine Strukturen auf; die KI hilft denen, die schon können, und lehrt die anderen, ihr Defizit zu verbergen.
 - **[[Christian Bauckhage - KI Wir haben noch gar nichts gesehen#Die Universität nach dem 17-Minuten-Prompt|Christian Bauckhage]]:** KI-freie Kurse hält er für so unsinnig wie die Taschenrechner-Panik; bleiben muss das Urteil, das eine glänzende, aber falsche Antwort erkennt.
+- **[[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Die Schere|Christian Bauckhage]]** (im November): Zwei Masterarbeiten mit KI, eine wäre früher eine Doktorarbeit gewesen, die andere konnte ihre Verfasserin nicht erklären. Entscheidend sei der Satz an die Maschine: „löse mir das“ oder „wie könnte ich das machen?“
 - **[[Ken Ono — Wenn das Wissen billig wird#Von „devastated" zu „inspired"|Ken Ono]]:** Erst am Boden zerstört, dann inspiriert: Die Maschine kennt seine Arbeiten besser, als er sich an sie erinnert, und ist ein Gesprächspartner, der nie lacht.
 - **[[Wolfram Eilenberger — Die größte Lüge der Philosophie#KI als unerwartete Befreiung|Wolfram Eilenberger]]:** Wenn die KI Fachartikel in dreißig Sekunden schreibt, bricht das Prüfsystem zusammen, und übrig bleibt, was sie nicht kann: Geistesgegenwart.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Dietmar Dath]]:** Er fragt die Maschine selten, nicht aus Moral, sondern *„weil ich sonst vergesse, was ich weiß“*.
 - **[[Sibylle Anderl — Bequeme neue Welt#Schreiben, um herauszufinden, was man denkt|Sibylle Anderl]]:** Sie schreibt jeden Text selbst, weil sie nur so herausfindet, was sie denkt; die Maschine läuft auf das Wahrscheinlichste hinaus.
 - **[[Der leere Turm - wie Macht herrenlos wird#Das Scharnier Last oder Urteil|Luc]]:** Entscheidend ist, was man abgibt, die Last oder das Urteil; die eigentliche Gefahr ist, dass Menschen nicht arbeitslos werden, sondern urteilslos.
 
-<details><summary>Weitere Stimmen (11)</summary>
+<details><summary>Weitere Stimmen (12)</summary>
 
+- **[[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Die Schere|Daniel Jung]]:** Als Maschinen uns die Kraftarbeit abnahmen, kamen die Fitnessstudios; nimmt die KI die geistige ab, „du reibst dich nicht mehr“.
 - **[[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen#Was man einem Roboter nicht sagen kann|Ronnie Vuine]]:** *„Unterschiede zwischen drüber reden und das tatsächlich machen können“*; was ein Roboter in der Fabrik tut, lässt sich nicht in Sprache fassen, darum lernt er durch Vormachen.
 - **[[Geistesblitz/Emergence — Das dunkle Wissen der KI#Der Saphir am Seidenfaden|Emergence]]:** Mit Polanyi: *„we can know more than we can tell“*; der Moskauer Saphir klang im Westen erst, als einer neunzig Stunden im Labor stand und man ihm auf die Hände sah.
 
@@ -290,6 +292,7 @@ Bei wissenschaftlichen Aufsätzen verhandeln meist die Verlage, nicht die Forsch
 | 09.11.2026 | [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Nachbesprechung\|Markus Gabriel — KI als Resonanzfeld und Mu]] | Ist die Maschine Kreativität: Hubert, Koivisto & Grassini, Wang/Uzzi, Bellemare-Pepin, Haase, Chakrabarty, Magni, Shin (Go); Wahnspiralen: Østergaard, Shah & Morrin, Diel, Augustin/Pollak/Morrin, OpenAI 0,07 %, Human Line Project, SB 243, FTC, Klagen gegen OpenAI, Produkthaftung (EU) 2024/2853 · Gabriel als Stimme bei Spiegel und Verantwortung |
 | 10.11.2026 | [[Simone Weil — Die Ilias oder das Poem der Gewalt#Nachbesprechung|Simone Weil — Die Ilias oder das Poem der Gewalt]] | Wer trägt Verantwortung: die Zeit als eigener Mechanismus (Goddard 2011, Rosbach 2025, Horowitz & Kahn 2024), Patriot 2003 (Hawley), Lavender und die zwanzig Sekunden, Schwarz gegen Arkin, UN-Resolution vom 29.10.2026 · Pfeifer als Stimme |
 | 14.11.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft#Nachbesprechung\|Made in Germany Awards 2026 — Gesellschaft]] | Schmeichelei bei Einsamen (Li u. a. 2026, Lee u. a. 2026), Linderung im Moment und Abhängigkeit über Wochen (De Freitas u. a. 2025, Fang u. a. 2026); Stimmen Grahm, Simonsen |
+| 15.11.2026 | [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Zwei Sätze an die Maschine\|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]] | Zwei Sätze an die Maschine: Bastani u. a. 2025 als Test von „löse mir das“ gegen „wie könnte ich?“; der Unterschied lag im Werkzeug, nicht nur beim Lernenden; Strömberg/Lei/Wu (CEPR) |
 
 ---
 

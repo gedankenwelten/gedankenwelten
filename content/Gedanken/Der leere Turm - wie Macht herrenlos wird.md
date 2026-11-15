@@ -120,6 +120,10 @@ Was hier als Gedanke steht, beschrieb ein Dortmunder Podium schon 2014 an der B�
 
 Die Umkehrung der Frage, ob Eigentum ohne Urteil noch Macht ist, heißt BlackRock: Urteil ohne Eigentum. Der größte Vermögensverwalter stimmt mit dem Geld von Sparern ab, die ihr Urteil abgegeben haben, und seit es die Stimmrechte zurückgibt, holt sie nur ein Viertel wieder.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Zwei Sätze an die Maschine|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+
+Das Scharnier „Last oder Urteil“ in einem Feldexperiment: Wer mit einem Tutor übte, der nur Hinweise gab, behielt das Gelernte; wer sich die Lösungen geben ließ, schnitt in der Prüfung schlechter ab als Schüler ohne KI. Bauckhages eigene Geschichte zeigt die Arbeit, die vom Herstellen zum Urteilen wandert: zwölf Stunden schreibt die Maschine, anderthalb Wochen liest der Mensch.
+
 ---
 
 - [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]] — Der Beleg ohne Maschine. Fünf Meldungen eines Augusttages, in denen Verantwortung auf dem Weg zwischen Zuständigkeit und Antwort verdunstet: Dublin schiebt sie an die Außengrenze, das Versorgungswerk lässt die Presseanfrage liegen, der Regierungssprecher sagt „der Bundeskanzler äußert sich dann, wenn er sich äußert“. Nichts davon ist illegal, und keine der Instanzen hat entschieden, sich zu entziehen — genau die These dieser Note, dass KI nur die reibungsloseste in einer alten Reihe ist. Hier ohne jede Technik, nur Bürokratie und Sprache.

@@ -230,6 +230,10 @@ Dieselbe Frage am Klavier: Warum selbst spielen, wenn die Maschine besser spielt
 
 Im September 2026 meldete OpenAI, ein Schwarm von rund 10.000 Agenten habe in 88 Stunden die Clay-Fassung des Navier-Stokes-Problems gelöst (die Anerkennung ist offen); Bauckhage rechnet das in 1607 Menschenjahre um. Ob das Klugheit ist oder Ausdauer in der Breite, betrifft Onos Begriff von Intelligenz.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Zwölf Stunden Arbeit, anderthalb Wochen Lesen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+
+Onos Satz, das Prüfen sei teurer geworden als das Wissen, in Zahlen aus einer Werkstatt: Der Agent schreibt in zwölf Stunden ein Paper, der Informatiker braucht anderthalb Wochen, um zu merken, dass es richtig und trotzdem uninteressant ist. Die wichtigste Kompetenz ist für Bauckhage am Ende Onos gute Frage, „was ist ein interessantes X“.
+
 ---
 
 ## Weiterdenken

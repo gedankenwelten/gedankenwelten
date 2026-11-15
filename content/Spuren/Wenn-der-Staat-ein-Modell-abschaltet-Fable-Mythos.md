@@ -760,6 +760,10 @@ sind weder Gegner noch Partner — beides zugleich, je nach Behörde und Tag.
 
 Den Destillationsverdacht, den Anthropic im Juni zurückwies, erhebt Anthropic im Februar und im September 2026 selbst gegen chinesische Labore. Der Film erklärt die Mechanik dahinter, von Hintons „dunklem Wissen“ bis zu den verborgenen Denkspuren.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Wem das Jahrhundert gehört|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+
+Ein Nachklang nach dem Schluss der Spur. Bauckhage forschte nach dem Juli am Fraunhofer mit Fable und sagt im November, wo es wirklich darauf ankomme, könne in Europa keiner etwas machen; Europa sei ein „Spielball“. Seine „naive“ Frage, warum man Modellen beibringt, Sicherheitslücken zu finden, trifft genau die Fähigkeit, mit der im Juni die Abschaltung begründet wurde.
+
 ## Quellen
 
 - [Anthropic — Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)

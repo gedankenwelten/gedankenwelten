@@ -280,6 +280,10 @@ Lyotards Performativitätskriterium erklärt, warum das Nadelöhr verstopft: Wo 
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“.
 
+### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Zwölf Stunden Arbeit, anderthalb Wochen Lesen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+
+Die Seite der Gutachter zu Scobels Geisterquellen. Bei der ICLR mit über 60.000 Einreichungen waren alle Arbeiten, die Bauckhage prüfte, KI-generiert und bis auf eine „völlig unlesbar“, „sicherlich nicht falsch“, wie er meint. Scobels Zahlen zeigen, warum man sich darauf nicht verlassen kann, wenn niemand mehr liest.
+
 ---
 
 ## Weiterdenken

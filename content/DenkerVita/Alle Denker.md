@@ -346,6 +346,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## J
 
+**[[DenkerVita/Daniel Jung|Daniel Jung]]** — Mathematik-Youtuber („Mathe by Daniel Jung“), Bildungsunternehmer (Köln); Lernen im KI-Zeitalter: Reibung statt fertiger Lösung, Aufmerksamkeit und Empfehlungssysteme, sokratischer KI-Tutor
+
 **[[DenkerVita/Barbara Junge|Barbara Junge]]** — Journalistin, Chefredakteurin der taz seit 2020 und frühere Washington-Korrespondentin des Tagesspiegel; sieht nach den Midterms 2026 weniger starke Demokraten als einen geschwächten Trump
 
 **[[DenkerVita/Joachim Valentin|Joachim Valentin]]** — katholischer Theologe, Gründungsdirektor des Hauses am Dom Frankfurt, apl. Professor für Christliche Religions- und Kulturtheorie; promovierte über Derrida und kam über ihn zu Levinas; Rat der Religionen Frankfurt, Film und Theologie

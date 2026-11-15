@@ -5967,3 +5967,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Anlass** | [Volksbund: Geschichte des Volkstrauertages](https://www.volksbund.de/erinnern-gedenken/volkstrauertag/geschichte-des-volkstrauertages) · [Volksbund: Totengedenken](https://www.volksbund.de/erinnern-gedenken/volkstrauertag/totengedenken) · [Wikipedia: Volkstrauertag](https://de.wikipedia.org/wiki/Volkstrauertag) |
 | **Zur Quelle** | [Uni Rostock, Veranstaltungskalender](https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/presse-und-kommunikationsstelle/veranstaltungskalender/detailansicht/n/interdisziplinaere-ringvorlesung-zum-thema-erinnerung-aufarbeitung-amnesie-bzw-vergangenheitsbewaeltigung-und-recht/) · [Creuzberger: Die Legende vom Wortbruch, Osteuropa 3/2015](https://zeitschrift-osteuropa.de/hefte/2015/3/die-legende-vom-wortbruch/) |
 | **Fund** | Diogenes, Nacht vom 02.09.2026 (Strom `anker`), `deandi_gedankenwelten_pro` |
+
+## Christian Bauckhage / KI-Agenten 10 — Schon wieder Dekaden vergangen (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Gespräch** | [KI: Schon wieder Dekaden vergangen — Prof. Dr. Christian Bauckhage über Agentenschwärme](https://www.youtube.com/watch?v=l7pESZavZ7w) — Mathe by Daniel Jung, 15.11.2026 |
+| **Notiz** | [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]] · Vitas [[DenkerVita/Christian Bauckhage]] · [[DenkerVita/Daniel Jung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Bauckhage_Agentenschwaerme_Jung_Transkript.txt` |
+| **Nachbesprechung** | [Appel & Haken 1976](https://doi.org/10.1090/s0002-9904-1976-14122-5) · [Tymoczko 1979](https://doi.org/10.2307/2025976) · [Scholze, Liquid Tensor Experiment, 2020](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/) · [Bastani u. a. 2025](https://doi.org/10.1073/pnas.2422633122) · [Schaeffer, Miranda & Koyejo 2023](https://doi.org/10.52202/075280-2425) |
+

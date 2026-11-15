@@ -1420,3 +1420,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Stefan Creuzberger
 **Status:** ✓ Vollanalyse → [[DenkerVita/Stefan Creuzberger]]
+
+## Daniel Jung
+**Status:** ✓ Vollanalyse → [[DenkerVita/Daniel Jung]]

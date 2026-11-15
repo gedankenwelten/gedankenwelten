@@ -38,7 +38,8 @@ tags: [denker-vita, ki, technologie, wissenschaft, deutschland]
 
 ## Empfehlenswerte Videos & Vorträge
 - [KI — Wir haben noch gar nichts gesehen! (Mathe by Daniel Jung, 2026)](https://www.youtube.com/watch?v=pb5cMmdQVJo) — schwache vs. starke KI, hybride & erklärbare KI, KI in Audit und Steuerfahndung, Quantencomputing, OpenGPT-X und Europas KI-Souveränität.
-- [Künstliche Intelligenz und die Zukunft der Arbeit (Daniel Jung, 2019)](https://www.youtube.com/watch?v=45lWaA1jVcY) — das erste Gespräch bei Daniel Jung; die Basis, gegen die das Interview von 2026 zeigt, wie schnell sich das Feld bewegt.
+- [KI: Schon wieder Dekaden vergangen (Mathe by Daniel Jung, November 2026)](https://www.youtube.com/watch?v=l7pESZavZ7w) — die Fortsetzung nach dem Sommer der Agentenschwärme: Mathematik ohne Leser, Peer Review in der Flut, Europa im Rennen, rekursive Selbstverbesserung.
+- [Interview mit Christian Bauckhage (Mathe by Daniel Jung, 10.04.2019)](https://www.youtube.com/watch?v=mAaBc1oXlZM) und [Das Spiel „Go“ als Beispiel für den Fortschritt der KI und die Zukunft der Arbeit (14.04.2019)](https://www.youtube.com/watch?v=KBqxq7aOjks) — das erste Gespräch bei Daniel Jung; die Basis, gegen die das Interview von 2026 zeigt, wie schnell sich das Feld bewegt.
 - [Meet the Scientist — KI-Experte auf der MS Wissenschaft](https://www.youtube.com/watch?v=s2RbqViqR-k) — allgemeinverständliche Einführung in Maschinelles Lernen.
 
 ## Kernthesen
@@ -54,7 +55,7 @@ Keine parteipolitische Positionierung. Bauckhage argumentiert als Wissenschaftle
 
 ## Verbindungen zu anderen Denkern
 - [[DenkerVita/Ken Ono]] — Beide Naturwissenschaftler an dem Punkt, an dem die Maschine den Kern ihres Fachs erreicht (Bauckhage: AlphaFold, Erdős-Vermutung; Ono: FrontierMath). Beide ziehen dieselbe Konsequenz für Bildung — weg von der Tiefenexpertise, die die KI ohnehin bald besser hat, hin zu Urteilsvermögen, Querbezügen und der guten Frage.
-- [[DenkerVita/Pascal Kaufmann]] — Zwei neurowissenschaftlich denkende KI-Köpfe, die beide auf kleine, souveräne europäische Modelle setzen — Bauckhage über hybride KI und Verticals (Lamarr/Sophie), Kaufmann über Swiss GPT. Wo Bauckhage die technische Effizienz begründet (24 Watt vs. 10 Megawatt), setzt Kaufmann auf Vertrauen als Marke — verwandtes Ziel, andere Fundierung.
+- [[DenkerVita/Pascal Kaufmann]] — Zwei neurowissenschaftlich denkende KI-Köpfe, die beide auf kleine, souveräne europäische Modelle setzen — Bauckhage über hybride KI und Verticals (Lamarr/Soofi), Kaufmann über Swiss GPT. Wo Bauckhage die technische Effizienz begründet (24 Watt vs. 10 Megawatt), setzt Kaufmann auf Vertrauen als Marke — verwandtes Ziel, andere Fundierung.
 - [[DenkerVita/Frederike Kaltheuner]] — Die politökonomische Ergänzung zu Bauckhages Ingenieursblick: Kaltheuner analysiert Marktkonzentration und Europas strukturelle Abhängigkeit, Bauckhage benennt denselben Standortnachteil vom Machbaren her — fehlende Rechenreserven, Datenrecht, Zahlungswille. Diagnose von zwei Seiten desselben Problems.
 - [[DenkerVita/Markus Gabriel]] — Kollegen an der Universität Bonn mit gegensätzlichem Zugang zur KI: Der Philosoph Gabriel deutet sie als moralisch anschlussfähiges Resonanzfeld, der Informatiker Bauckhage nennt den Transformer nüchtern „das Dümmste" — ein lokales Optimum, das trotzdem die Welt umbaut. Reibungspunkt: Muss man Intelligenz verstehen, um sie zu bauen?
 
@@ -63,3 +64,4 @@ Keine parteipolitische Positionierung. Bauckhage argumentiert als Wissenschaftle
 ## Gedankenwelten-Notes
 - [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 - [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|KI-Agenten 2 — Die Hypothese von der Weltherrschaft]] — nach dem Sommer 2026: der Schwarm bei Hugging Face, Claudes Schutzfilter, 1607 Jahre, Doom-Marketing und der grüne Knopf (Uni Bonn, *Hypothese*)
+- [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|KI-Agenten 10 — Schon wieder Dekaden vergangen]] — das zweite Gespräch bei Daniel Jung (November 2026): Beweise in Millionen Zeilen, die niemand liest, sein Fable-Versuch (zwölf Stunden Schreiben, anderthalb Wochen Lesen), die Revision „groß hilft viel“, Schleifen der Selbstverbesserung
