@@ -31,6 +31,14 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-16 · Internationaler Tag der Toleranz
+
+Am 16. November 1995, im Jahr der Toleranz der Vereinten Nationen, verabschiedeten die Mitgliedstaaten der UNESCO eine Erklärung der Prinzipien der Toleranz; ein Jahr später machte die UN-Vollversammlung den Tag zum Welttag. Die Erklärung beginnt mit dem, was Toleranz nicht ist: weder Nachgiebigkeit noch Gleichgültigkeit, sondern Achtung vor der Vielfalt, wie Menschen leben und sich ausdrücken. Schwer wird sie dort, wo das Andere wehtut, und an der Grenze, die Karl Popper beschrieb: Wer auch die Intoleranten grenzenlos duldet, verliert am Ende die Toleranz selbst. Wo diese Grenze verläuft, darüber streiten die Notes darunter.
+
+- [[Wertewesten — Eiserner Besen oder bessere Argumente]]
+- [[Andreas Puettmann — Werte NEU DENKEN]] — Poppers Toleranzparadoxon und die Frage, wie wehrhaft die Mitte sein darf
+- [[Markus Gabriel — Universelle Moral]] — Ethik beginnt mit dem Satz: Die anderen könnten recht haben
+
 ## 2026-11-15 · Volkstrauertag
 
 Am vorletzten Sonntag des Kirchenjahrs gedenkt Deutschland der Toten von Krieg und Gewaltherrschaft. Eingeführt hat den Volkstrauertag der Volksbund Deutsche Kriegsgräberfürsorge nach dem Ersten Weltkrieg, als Zeichen der Solidarität mit den Hinterbliebenen; die Nationalsozialisten machten 1934 einen „Heldengedenktag“ daraus, die Bundesrepublik beging ihn 1950 zum ersten Mal wieder im Bundestag. Wen er meint, hat sich gewandelt: Das Totengedenken beginnt heute mit den Opfern „aller Völker“. Der Historiker Stefan Creuzberger erzählt, welche Toten im deutschen Gedächtnis lange fehlten, die Millionen Opfer des Vernichtungskriegs in der Sowjetunion. Die Historikerin Irina Scherbakowa, Mitgründerin von Memorial, erinnert gegen einen Staat, der die Erinnerung an den Krieg für sich beansprucht.
