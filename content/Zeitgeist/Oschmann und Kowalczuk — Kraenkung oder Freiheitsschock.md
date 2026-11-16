@@ -539,6 +539,10 @@ Die russische Gegenprobe zum Abendbrottisch: Scherbakowa nennt den Terror eine �
 
 Für den Historiker Wolfgang Niess ist der Mauerfall das Symbol der friedlichen Revolution und der 3. Oktober ein „bürokratischer Feiertag“, der Tag des Beitritts nach Artikel 23. Kowalczuks 18. März ist die Gegenrede: Den Beitritt haben die Ostdeutschen selbst gewählt, und der 9. November war nicht der Tag, der ihr Leben änderte.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Was hinter der Gardine sitzt: In Serbien die Angst vor Entlassung in kleinen Orten, und Studierende, die jeden Anführer verweigern.
+
 ---
 
 ## Weiterdenken

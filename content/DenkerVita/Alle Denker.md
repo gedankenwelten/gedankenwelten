@@ -82,6 +82,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Filip Balunovic|Filip Balunović]]** — Politikwissenschaftler und Bewegungsforscher am IFDT der Universität Belgrad; *The Revival of the Left in the Balkans*; deutet Serbiens Studentenaufstand als Sieg der „Idee einer neuen Gesellschaft“
+
 **[[DenkerVita/Lilli Berthold|Lilli Berthold]]** — Schülervertreterin, stellvertretende Generalsekretärin der Bundesschüler\*innenkonferenz; Schule als Lebensraum, Beteiligung mit Wirkung statt Scheinformaten, Distanz zu „Gen Z regelt“ ohne Distanz zu den Anliegen
 
 **[[DenkerVita/Alice Bota|Alice Bota]]** — Journalistin (DIE ZEIT, seit 2007), Osteuropa; erzählt Belarus, Russland und die Ukraine über die, die widerstehen — Autorin von „Die Frauen von Belarus“
@@ -260,6 +262,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## G
 
+**[[DenkerVita/Raul Gallego Abellan|Raül Gallego Abellán]]** — Videojournalist und Dokumentarfilmer aus Sabadell (TV3, AP, Al Jazeera); seine 3Cat-Reihe *Point of No Return* gewann 2024 den International Emmy, darin der Film über Serbiens Studentenaufstand
+
 **[[DenkerVita/Georg Wilhelm Friedrich Hegel|Georg Wilhelm Friedrich Hegel]]** — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit
 
 **[[DenkerVita/Gerald Hüther|Gerald Hüther]]** — Neurobiologe, Bestsellerautor; Selbstorganisation, Potenzialentfaltung statt Anpassung, Schule im Aufbruch, Akademie für Potentialentfaltung
@@ -285,6 +289,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Felix Goldbach|Felix Goldbach]]** — Energiewende-YouTuber und Speaker aus Hannover, Banker und Betriebswirt mit Vergangenheit in der Speicherbranche (FENECON); rechnet Photovoltaik, Speicher und Wärmepumpe als Investition vor, Co-Host von *Alles wird Strom* — mit Geschäftsinteresse (Vermittlungsplattform Money for Future)
 
 ## H
+
+**[[DenkerVita/Dijana Hrka|Dijana Hrka]]** — Mutter eines der 16 Toten des Vordach-Einsturzes von Novi Sad; 16 Tage Hungerstreik vor dem Parlament (November 2025) für Wahrheit und Verantwortung
 
 **[[DenkerVita/Jouanna Hassoun|Jouanna Hassoun]]** — Menschenrechtsaktivistin, Mitgründerin von Transaidency, führt mit Shai Hoffmann Trialoge über Israel und Palästina in Schulen
 
@@ -389,6 +395,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]]** — Neurobiologe & Mathematiker, seit 2022 Direktor des Instituts für Grenzgebiete der Psychologie und Psychohygiene (IGPP) Freiburg, Privatdozent Uni Freiburg; Necker-Würfel und bistabile Wahrnehmung im EEG, Wahrnehmung als Konstruktion, mehrdeutige Reize als Labormodell für außergewöhnliche Erfahrungen, Geist-Materie-Problem
 
 ## K
+
+**[[DenkerVita/Alek Kavcic|Alek Kavčić]]** — Elektroingenieur (Harvard, Hawaiʻi, CMU), Miterfinder eines Festplatten-Detektors; seine Stiftung kämpft für kostenlose Schulbücher und zahlte 2025 Lehrkräften ohne Lohn
 
 **[[DenkerVita/Annette Kehnel|Annette Kehnel]]** — Historikerin, Lehrstuhl für Mittelalterliche Geschichte an der Uni Mannheim (seit 2005); *Wir konnten auch anders* (2021, NDR Sachbuchpreis), *Die sieben Todsünden* (2024), *Der Phoenix-Effekt* (2026); liest im Mittelalter Commons, Kleinkredit und Maß als Wissen für die Gegenwart: Geschichte schult den Möglichkeitssinn
 

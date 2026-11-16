@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Eine Palästinenserin, ein jüdischer Pianist und ein CDU-Abgeordneter reden über das Canceln, und mitten im Gespräch zeigt sich, wie schnell man selbst übereinander statt miteinander spricht.
 
+> **16.11.** — [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+>
+> Ein Vordach stürzt ein, sechzehn Menschen sterben, und Serbiens Studierende besetzen ihre Fakultäten. Ein Film aus dem Inneren der Bewegung, die ein Jahr später die Wahl gewinnen sollte.
+
 > **15.11.** — [[Zeitgeist/Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
 >
 > 27 Millionen sowjetische Tote, und lange erinnerte man in der Bundesrepublik vor allem die eigenen. Der Historiker Stefan Creuzberger erzählt, wie Kalter Krieg, Antikommunismus und Staatsräson bestimmten, was vom Vernichtungskrieg im Gedächtnis blieb.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Die Atomkraft bekam über Jahrzehnte mehr Förderung, die Erneuerbaren mehr je Kilowattstunde. Ungleich war vor allem, wo es stand: auf der Stromrechnung oder im Haushalt.
 
-> **12.11.** — [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]]
->
-> Dreizehn Jahre lebte Harry Pfau auf der Straße. Heute verteilt er in Stuttgart gerettete Lebensmittel an alle, die kommen, und weiß, dass man nicht jeden retten kann.
-
-> → *5 weitere in* [[Zeitgeist]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Denker
 

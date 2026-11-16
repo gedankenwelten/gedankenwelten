@@ -31,6 +31,15 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-17 · Internationaler Studierendentag
+
+Am 17. November 1939 ließen die deutschen Besatzer in Prag neun Studenten und Lehrende ohne Prozess hinrichten. Über 1.200 Studierende kamen ins Konzentrationslager, alle tschechischen Hochschulen wurden geschlossen. Vorausgegangen war der Trauerzug für den Medizinstudenten Jan Opletal, den Tausende zu einer Kundgebung gegen die Besatzung gemacht hatten. 1941 riefen Studierende aus vierzehn Ländern in London diesen Tag aus, und fünfzig Jahre nach 1939 schlug die Polizei in Prag den Gedenkmarsch der Studenten nieder; daraus wurde die Samtene Revolution. Die Notes darunter fragen, was die Straße erreicht und was nach dem Sieg kommt: In Serbien hat im Oktober eine Liste die Wahl gewonnen, die aus einem Studentenstreik entstand.
+
+- [[3Cat — Wake up Serbia, der Studentenaufstand]]
+- [[Wirkt Protest]] — was die Straße erreicht, und warum Serbiens Studenten über eine Wahlliste wirkten
+- [[Abgewaehlt-kehrt-die-Demokratie-zurueck]] — die Spur, die verfolgt, ob mit Vučić auch die Demokratie zurückkehrt
+- [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]] — was nach 1989 aus der Freiheit wurde, die man erkämpft hatte
+
 ## 2026-11-16 · Internationaler Tag der Toleranz
 
 Am 16. November 1995, im Jahr der Toleranz der Vereinten Nationen, verabschiedeten die Mitgliedstaaten der UNESCO eine Erklärung der Prinzipien der Toleranz; ein Jahr später machte die UN-Vollversammlung den Tag zum Welttag. Die Erklärung hält fest, was Toleranz nicht ist: weder Nachgiebigkeit noch Gleichgültigkeit, sondern Achtung vor der Vielfalt, wie Menschen leben und sich ausdrücken. Schwer wird sie dort, wo das Andere wehtut, und an der Grenze, die Karl Popper beschrieb: Wer auch die Intoleranten grenzenlos duldet, verliert am Ende die Toleranz selbst. Wo diese Grenze verläuft, darüber streiten die Notes darunter.

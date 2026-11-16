@@ -7,6 +7,17 @@ tags:
 ---
 
 
+## Raül Gallego Abellán / 3Cat — Wake up, Serbia! Pumpaj: The Student Uprising (Internationaler Studierendentag)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Wake up, Serbia! Pumpaj: The Student Uprising | Point of No Return (S2xE5)](https://www.youtube.com/watch?v=h3t4EiRYzHM) (3Cat, 18.09.2025) |
+| **Anlass** | [Wikipedia: International Students' Day](https://en.wikipedia.org/wiki/International_Students%27_Day) · [Wikipedia: Velvet Revolution](https://en.wikipedia.org/wiki/Velvet_Revolution) |
+| **Notiz** | [[3Cat — Wake up Serbia, der Studentenaufstand]] |
+| **Viten** | [[DenkerVita/Raul Gallego Abellan]] · [[DenkerVita/Filip Balunovic]] · [[DenkerVita/Alek Kavcic]] · [[DenkerVita/Dijana Hrka]] |
+| **Transkript** | `Gedankenwelten/Transkripte/3Cat_WakeUpSerbia_Untertitel_OCR.txt` (eingebrannte Untertitel per Texterkennung, Hauptquelle) · `Gedankenwelten/Transkripte/3Cat_WakeUpSerbia_Transkript.txt` (Auto-Untertitel, nur englischer Ton) |
+
+
 ## Igor Levit, Jouanna Hassoun, Johannes Volkmann — Reden wir noch oder canceln wir schon? (re:publica 26, DW-Panel)
 
 | | |

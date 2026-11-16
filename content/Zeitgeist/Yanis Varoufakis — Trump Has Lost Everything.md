@@ -222,3 +222,8 @@ Konvergierende Diagnose: Die PhoenixRunde zeigt, wie Chinas Kalkül genau auf Tr
 ### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
 
 Biersky stellt Varoufakis' These auf die Probe: Entweder rettet Trump die Milliardäre (KI-Staatsfonds als Rettungsring) — oder er hat durch Iran-Krieg und Ölkrise bereits zu viel gegen ihre Interessen agiert. Peter Thiels Emigration ist ein Datenpunkt für Varoufakis' Seite.
+
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Gewaltfreiheit mit einer Schwelle: Eine serbische Studentin setzt sie an eine gestohlene Wahl, Kavčić begründet den Verzicht mit einer Rechnung.
+

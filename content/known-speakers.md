@@ -1441,3 +1441,15 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Yves Bossart
 **Status:** ✓ Vollanalyse → [[DenkerVita/Yves Bossart]]
+
+## Raül Gallego Abellán
+**Status:** ✓ Vollanalyse → [[DenkerVita/Raul Gallego Abellan]]
+
+## Filip Balunović
+**Status:** ✓ Vollanalyse → [[DenkerVita/Filip Balunovic]]
+
+## Alek Kavčić
+**Status:** ✓ Vollanalyse → [[DenkerVita/Alek Kavcic]]
+
+## Dijana Hrka
+**Status:** ✓ Vollanalyse → [[DenkerVita/Dijana Hrka]]

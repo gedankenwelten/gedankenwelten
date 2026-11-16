@@ -217,3 +217,8 @@ Ein deutscher Fall: Nach den Gen-Z-Protesten steht eine anonyme Mobilisierung ne
 
 Oetting leiht den Gen-Z-Protesten eine große Erzählung; an ihnen wird sich zeigen, ob Hyperpolitik eine Adresse findet.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Ein Gegenfall zur Hyperpolitik und zugleich ihre Bestätigung: fast ein Jahr organisierter Plenen, gewonnen erst über eine Wahlliste.
+
+

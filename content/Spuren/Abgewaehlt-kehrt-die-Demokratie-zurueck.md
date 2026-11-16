@@ -421,6 +421,10 @@ Drei ZDF-Korrespondenten legen am 28.10. Israel, Brasilien, Serbien und die USA 
 
 Zur Spur passt, ohne ihr Fall zu sein: Die US-Midterms 2026 nehmen Trump beide Kammern, nicht das Amt. Theveßen sagt selbst, „der Case ist noch nicht gegessen“, und Polens Weg von 2023 bis 2025 zeigt, wie zwei Jahre nach einem Wechsel aussehen können.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Die Vorgeschichte des serbischen Falls: der Studentenaufstand nach Novi Sad, gefilmt bis zum Sommer 2025, mit der RTS-Blockade, die an einer Ausschreibung für den Medienrat endete.
+
 ---
 
 ## Quellen

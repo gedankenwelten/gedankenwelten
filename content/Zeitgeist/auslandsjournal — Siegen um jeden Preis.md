@@ -418,6 +418,10 @@ Folge #71 endet bei uns mit einer Lehre über die Runde selbst: drei Fehlgriffe,
 
 Eigendorf traut den israelischen Institutionen zu, eine Anfechtung arabischer Stimmen abzuwehren. Die Saragusti-Note beschreibt dieselben Institutionen im Juli nüchterner: Gegen den „Masterplan“ der Regierung Netanjahu gegen die freie Presse liegen Petitionen beim Obersten Gericht, und sie bilanziert, die Institutionen hielten noch, aber allein. In der [[Zeitgeist/Anat Saragusti — Zensur und Pressefreiheit in Israel#Die Einschüchterungsmaschine|Einschüchterungsmaschine]] steht, was Röller für Trump beschreibt, schon als israelische Praxis: Misstrauen als Methode.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Der Film, der die Studierenden „die wahre Serbien“ nennt, und das Eingeständnis, dass zeitweise Ultranationalisten an der Spitze der Märsche liefen.
+
 ---
 
 ## Weiterdenken

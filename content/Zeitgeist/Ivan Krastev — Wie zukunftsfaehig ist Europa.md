@@ -308,6 +308,10 @@ Der Havel-Satz in der Praxis der sowjetischen Dissidenten: Sie stießen an „au
 
 Der Havel-Satz als Geste: 2020 zerriss sie an der belarussischen Grenze ihren Pass, um im Land zu bleiben, ohne zu wissen, was folgt. Es folgten mehr als fünf Jahre Haft, und sie sagt, sie würde wieder so handeln. Den Václav-Havel-Menschenrechtspreis erhielt sie 2021 in der Zelle.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Antwort aus dem Inneren der Braindrain-Wunde: Eine Generation, die erklärt, sie gehe in kein anderes Land.
+
 ---
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]

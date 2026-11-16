@@ -184,6 +184,10 @@ Serbien, wo aus Studentenprotesten eine Wahlliste wurde, die gewann. Die Spur fr
 Wer auf der Straße steht, steht meist dort, weil die anderen Wege nicht tragen. Das Demokratie-Panorama fragt nach
 diesen Wegen: Wahl, Los, Räte.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Die Monate vor dem Wahlsieg von innen: Plenen mit Handzeichen, Märsche, der 15. März, der Hunger am Morgen danach, und Ordner, die ihre Westen ausziehen, bevor die Gewalt kommt.
+
 ---
 
 ## Weiterdenken

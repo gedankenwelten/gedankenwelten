@@ -294,6 +294,10 @@ Staiy feiert Magyars Vereidigung. Gelegs' Analyse vom März hält dagegen, was d
 
 Krastev analysiert Orbáns Niederlage als Präzedenzfall mit begrenzter Reichweite — mit demselben nüchternen Blick wie Gelegs: Magyar ist kein Liberaler, sondern ein Fidesz-Produkt. Krastev liefert die geopolitische Einbettung, Gelegs die Verfassungsarchitektur.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Vor ihrer Tür spricht die EU mit zwei Stimmen: Lithium-Partnerschaft und Jadar als strategisches Projekt, zugleich Kritik an den Gehaltskürzungen für streikende Lehrende.
+
 ---
 
 ## Weiterdenken

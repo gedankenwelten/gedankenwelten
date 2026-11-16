@@ -329,6 +329,10 @@ Hier steht Richter unter „Und wenn es brennt?“, und ihre Nachbesprechung erw
 
 Wie der Name heute wieder zur Hürde werden kann, erzählt die Navidi-Note: Mit dem SAVE Act und ähnlichen Gesetzen der Bundesstaaten muss die Staatsbürgerschaft mit Dokumenten belegt werden, und in New Hampshire wurden 2025 drei Frauen abgewiesen, deren Geburtsurkunde noch den Mädchennamen trug.
 
+### → [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
+
+Serbiens Studentenaufstand ist gebaut wie die Bewegungen, aus denen eher Demokratie wurde: getragen von Fakultäten, Veteranen und Bauern, auf Abstand zu den Parteien.
+
 ---
 
 ## Weiterdenken
