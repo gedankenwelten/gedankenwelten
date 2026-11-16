@@ -1438,3 +1438,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Johannes Volkmann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Johannes Volkmann]]
+
+## Yves Bossart
+**Status:** ✓ Vollanalyse → [[DenkerVita/Yves Bossart]]

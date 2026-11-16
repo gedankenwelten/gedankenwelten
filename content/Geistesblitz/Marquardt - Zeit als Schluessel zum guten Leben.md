@@ -33,10 +33,9 @@ Quelle: [Jetzt! – Die Zeit als Schlüssel zum guten Leben | Sternstunde Philos
 > [!info] Wer spricht?
 > **Udo Marquardt** — Philosoph, Autor und Musiker, lebt in Unkel am Rhein (Rheinland-Pfalz).
 >
-> Studierte Philosophie in Heidelberg, Luzern und Freiburg — promovierte über Aristoteles' Zeittheorie. In Heidelberg hat er Hans-Georg Gadamer noch erlebt. Kein Universitätsphilosoph, sondern Vermittler: arbeitete als freier Redakteur für Philosophie und Kultur beim ARD-Hörfunk, schreibt Radioessays und betreibt zusammen mit seiner Frau Sabine den Theologie-Philosophie-Blog [theophil.online](https://www.theophil.online). Bücher: *Spaziergänge mit Sokrates*, Kriminalromane (*Die Schwarzwaldfalle*) und das Hauptwerk *Zeit und Mensch — Facetten einer Kulturgeschichte* (Schwabe Verlag, 2024, fast fünf Jahre lang geschrieben, werktags von 6 bis etwa 7:30 Uhr vor der Arbeit). Nebenbei Gitarrist und Sänger in einer Rockband. Ein „gläubiger Christ", wie Bossart sagt, inzwischen im Ruhestand.
+> Studierte Philosophie in Heidelberg, Luzern und Freiburg — promovierte über Aristoteles' Zeittheorie. In Heidelberg hat er Hans-Georg Gadamer noch erlebt. Kein Universitätsphilosoph, sondern Vermittler: arbeitete als freier Redakteur für Philosophie und Kultur beim ARD-Hörfunk, schreibt Radioessays und betreibt zusammen mit seiner Frau Sabine den Theologie-Philosophie-Blog [theophil.online](https://www.theophil.online). Bücher: *Spaziergänge mit Sokrates*, Kriminalromane (*Die Schwarzwaldfalle*) und das Hauptwerk *Zeit und Mensch — Facetten einer Kulturgeschichte* (Schwabe Verlag, 2024, fast fünf Jahre lang geschrieben, werktags von 6 bis etwa 7:30 Uhr vor der Arbeit). Nebenbei Gitarrist und Sänger in einer Rockband. Ein „gläubiger Christ", wie Bossart sagt, inzwischen im Ruhestand. → [[DenkerVita/Udo Marquardt|DenkerVita]]
 >
-> Im Gespräch mit Yves Bossart (SRF Sternstunde Philosophie, 17.05.2026).
-> → [[DenkerVita/Udo Marquardt|DenkerVita]]
+> **Yves Bossart** — Philosoph und Moderator der *Sternstunde Philosophie* (SRF). Er führt das Gespräch, gesendet am 17.05.2026, und bringt einiges selbst ein, das Ferien-Paradox etwa und Hartmut Rosas Weltverlust. Es ist eine seiner letzten Sendungen; im Juni 2026 verließ er SRF. → [[DenkerVita/Yves Bossart|DenkerVita]]
 
 ---
 

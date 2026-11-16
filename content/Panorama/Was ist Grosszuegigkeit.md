@@ -2,7 +2,7 @@
 title: "Was ist Großzügigkeit?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-11-12
+aktualisiert: 2026-11-16
 description: "Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Den Rand des Feldes mähte keiner. Verschenkt hat ihn auch keiner."
@@ -146,6 +146,7 @@ Dass es auf das Gefühl ankommt, stützt eine Studienreihe: Wer sich schlechter 
 - **[[Harry Pfau — Harry macht satt#Zehn Euro von einem, der auf der Straße lebt|Harry Pfau]]:** Ein Mann, der auf der Straße lebt, spendet ihm zehn Euro, und Harry nimmt sie an, weil das Nein eine Beleidigung wäre; wer ihm 200 Euro gibt, „dem tut's nicht weh“.
 - **[[Hans Maggi — Kurdistan im Nordirak#Zwischen den Zeilen|Hans Maggi]]:** Menschen mit wenig Geld schenken zwei Radfahrern zwei Wochen lang mehr, als sie annehmen können; bei uns hat Großzügigkeit einen Anlass, dort keinen, außer dass jemand vorbeikommt.
 - **[[Vipassana — Metta#Zwei Hände voll Erde|S.N. Goenka]]:** Anāthapiṇḍika bedeckt einen Park mit Gold, und als er verarmt ist, bringt er zwei Hände voll Erde aus seinem Garten; „der gute Wille, die Motivation ist es, die zählt“, zwischen beiden Gaben sei kein Unterschied.
+- **[[Fred von Allmen — Dana, der innere Reichtum der Grosszuegigkeit#Warum Geben froh macht|Fred von Allmen]]:** Im Moment des Gebens fühlt man sich reich und verbunden, im nächsten Moment, beim Blick auf das, was man noch kriegen könnte, arm, und man hat doch in beiden Momenten gleich viel; „die Essenz des Gebens ist Loslassen“.
 
 <details><summary>Weitere Stimmen (5)</summary>
 

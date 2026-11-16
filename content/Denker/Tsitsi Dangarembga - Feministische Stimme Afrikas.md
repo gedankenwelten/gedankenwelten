@@ -30,7 +30,7 @@ aliases:
 > [!abstract] Worum es geht
 > „Zimbabwe ist kein armes Land. Die Armut wurde künstlich hergestellt — als Waffe." Tsitsi Dangarembga, die erste schwarze Frau ihres Landes, die Romane veröffentlichte und Filme drehte, führt in einer Stunde durch das, was der Kolonialismus hinterlassen hat: in der Wirtschaft, in den Familien, in den Köpfen — auch in unseren. Und sie setzt dagegen kein Pathos, sondern eine Praxis: Wunden reinigen durch Erzählen, Macht befragen, Wohlsein herstellen — hier und jetzt, nicht in einer Utopie. Mit einem Einspieler von Felwine Sarr, dem sie freundlich widerspricht.
 
-Quelle: [Tsitsi Dangarembga – Feministische Stimme Afrikas | Sternstunde Philosophie](https://www.youtube.com/watch?v=Kh6mAMU3oNs) (SRF Kultur, Erstausstrahlung 21.06.2025 — die letzte Sendung von Yves Bossart; [englische Originalversion](https://youtu.be/ttHZ0b25Am4))
+Quelle: [Tsitsi Dangarembga – Feministische Stimme Afrikas | Sternstunde Philosophie](https://www.youtube.com/watch?v=Kh6mAMU3oNs) (SRF Kultur, Erstausstrahlung 21.06.2026 — die letzte Sendung von [[DenkerVita/Yves Bossart|Yves Bossart]]; [englische Originalversion](https://youtu.be/ttHZ0b25Am4))
 
 > [!info] Wer spricht?
 > **Tsitsi Dangarembga** (*1959, Mutoko, Simbabwe*) — Schriftstellerin, Filmemacherin, Aktivistin; die erste schwarze Simbabwerin, die einen Roman auf Englisch veröffentlichte und einen Spielfilm drehte.

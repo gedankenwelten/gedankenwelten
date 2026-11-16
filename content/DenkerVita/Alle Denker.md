@@ -98,6 +98,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]** — Lutherischer Theologe und Widerstandskämpfer (1906–1945), hingerichtet in Flossenbürg; Dummheit als sozialer Zustand unter Macht („Befreiung, nicht Belehrung“), billige vs. teure Gnade, Verantwortung als Schuldübernahme, religionsloses Christentum — und eine Legende, die ihn ständig zur Ikone rundet
 
+**[[DenkerVita/Yves Bossart|Yves Bossart]]** — Schweizer Philosoph (*1983; promoviert an der HU Berlin über Wittgensteins Ästhetik), 2017–2026 Moderator der *Sternstunde Philosophie* (SRF); philosophische Gedankenspiele (*Ohne Heute gäbe es morgen kein Gestern*) und eine kurze Philosophie des Humors (*Trotzdem lachen*)
+
 **[[DenkerVita/Alexander Bogner|Alexander Bogner]]** — Soziologe (ITA/ÖAW Wien), deutet Wissenschaftsskepsis als Folge der „Epistemisierung des Politischen“: Wo politische Konflikte zu Wissenskonflikten werden, schaukeln sich Szientismus und epistemischer Populismus gegenseitig auf.
 
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026

@@ -193,7 +193,7 @@ Es gibt einen Satz, den fast jedes Kind kennt.
 
 *Was du nicht willst, dass man dir tu, das füg auch keinem andern zu.*
 
-Konfuzius hat ihn gesagt. Hillel hat ihn gesagt, als einer von ihm verlangte, die ganze Tora zu hören, während er auf einem Bein steht. Er steht in der Bergpredigt und im Mahabharata. Kulturen, die nichts voneinander wussten, sind auf denselben Satz gekommen.
+Konfuzius hat ihn gesagt. Hillel hat ihn gesagt, als einer von ihm verlangte, die ganze Tora zu hören, während er auf einem Bein steht. Er steht im Mahabharata, und in der Bergpredigt kehrt er wieder, umgedreht zur Aufforderung: *„Alles nun, was ihr wollt, dass euch die Leute tun sollen, das tut ihr ihnen auch!“* (Mt 7,12). Kulturen, die nichts voneinander wussten, sind auf denselben Satz gekommen.
 
 Vielleicht, weil er keine Moral ist, die einer von oben verordnet hat. Vielleicht ist er Erfahrung. Menschen haben überall und immer wieder gesehen, wo die Steine landen. Und sie haben das, was sie sahen, in einen Satz gefasst, der so einfach ist, dass man ihn einem Kind sagen kann.
 

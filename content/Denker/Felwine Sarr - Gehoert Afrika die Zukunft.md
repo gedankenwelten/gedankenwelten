@@ -48,7 +48,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Felwine Sarr,
 > [!abstract] Worum es geht
 > Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma. Yves Bossart spricht mit dem senegalesischen Ökonomen, Philosophen und Musiker über sein Buch *Afrotopia*: warum „Entwicklung" ein Wort aus dem Kalten Krieg ist, warum die Muriden-Bruderschaft ohne Anwälte wirtschaftet, was Mandela aus Ubuntu machte — und warum der Kontinent, dem man die Zukunft immer nur versprochen hat, sie diesmal selbst entwerfen will.
 
-Quelle: [Felwine Sarr – Gehört Afrika die Zukunft? | Sternstunde Philosophie | SRF Kultur](https://www.youtube.com/watch?v=EptpupHJGRo) (26.12.2021, Moderation: Yves Bossart)
+Quelle: [Felwine Sarr – Gehört Afrika die Zukunft? | Sternstunde Philosophie | SRF Kultur](https://www.youtube.com/watch?v=EptpupHJGRo) (26.12.2021, Moderation: [[DenkerVita/Yves Bossart|Yves Bossart]])
 
 > [!info] Wer spricht?
 > **Felwine Sarr** (geb. 1972 in Niodior, Senegal) — senegalesischer Ökonom, Philosoph, Musiker und Schriftsteller. Bis 2020 Wirtschaftsprofessor an der Université Gaston Berger in Saint-Louis, seither Distinguished Professor an der **Duke University**. Mit Achille Mbembe Mitgründer der **Ateliers de la Pensée** in Dakar; mit Bénédicte Savoy Autor des **Sarr-Savoy-Reports** (2018) zur Restitution afrikanischer Kulturgüter. Sein Essay *Afrotopia* (2016) entwarf eine Utopie für den Kontinent aus eigenen Denk- und Wertquellen.

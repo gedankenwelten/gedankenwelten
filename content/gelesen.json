@@ -416,7 +416,7 @@
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 2,
-     "aufrufe": 4
+     "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -509,6 +509,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Neitzel-und-Iltisberger-Hype-Is-a-System",
+     "leser": 1,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 1,
      "aufrufe": 3
@@ -530,11 +535,6 @@
     },
     {
      "pfad": "/Zeitgeist/Elif-Eralp-Berlin-Wahl-2026-bei-Jung-und-Naiv",
-     "leser": 1,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Neitzel-und-Iltisberger-Hype-Is-a-System",
      "leser": 1,
      "aufrufe": 2
     },

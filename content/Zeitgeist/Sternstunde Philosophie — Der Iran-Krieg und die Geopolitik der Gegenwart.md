@@ -27,7 +27,7 @@ aliases:
 # Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart
 
 Quelle: [YouTube — SRF Kultur](https://www.youtube.com/watch?v=RypSj1hEdvE)
-Moderation: Yves Bossart | Ausgestrahlt: 13./14. März 2026
+Moderation: [[DenkerVita/Yves Bossart|Yves Bossart]] | Ausgestrahlt: 15. März 2026
 
 > [!info] Wer spricht?
 > **Cyrus Schayegh** — Historiker und Professor für internationale Geschichte am Geneva Graduate Institute (IHEID), Genf, seit 2017. Zuvor Princeton University (2008–2017) und American University of Beirut (2005–2008). PhD Columbia University 2004. Forschungsschwerpunkte: transimperiale Geschichte, Naher Osten im 20. Jahrhundert, Dekolonisierung, Globalgeschichte. Buch: *The Middle East and the Making of the Modern World* (Harvard University Press, 2017). Schreibt wöchentliche Kolumne "L'historien itinérant" in der Tribune de Genève. Sein Vater stammt aus einer jüdisch-bahaischen Familie im Iran — eine verfolgte Minderheit. Lebte selbst zeitweise im Iran (u.a. für seine Dissertation), wurde dort einmal festgenommen. Ist als Doppelbürger seit ca. 2010 nicht mehr im Iran.
