@@ -46,6 +46,30 @@ Die Gedankenwelten (luc)
 
 > → *5 weitere in* [[Zeitgeist]]
 
+### Panorama
+
+> **16.11.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+>
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
+
+> **15.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **15.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> **15.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **15.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
+>
+> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
+
+> → *20 weitere in* [[Panorama]]
+
 ### Denker
 
 > **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
@@ -93,30 +117,6 @@ Die Gedankenwelten (luc)
 > Eine Stimme, die anruft, wenn die Kinder es nicht schaffen, ein Lehrmeister, der nach der Rente bleibt, eine Figur, die vom Gefühl erzählt: Drei Erfindungen springen ein, wo ein Mensch fehlt.
 
 > → *15 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **15.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **15.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **15.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **15.11.** — [[Panorama/Was schuetzt Kinder vor dem Druck aus dem Netz|Was schützt Kinder vor dem Druck aus dem Netz?]]
->
-> Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
-
-> **15.11.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
->
-> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
-
-> → *19 weitere in* [[Panorama]]
 
 ### Spuren
 

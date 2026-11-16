@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*372 Notes — automatisch generiert · nach Thema sortiert*
+*373 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -159,6 +159,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] — Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt.
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei|Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)]] — Wer ein gestohlenes Fahrrad anzeigt, kann schon drin sein. Constanze Kurz und Franziska Görlitz zeigen, wie Palantir in deutsche Polizeien kam – ohne jede Evaluation.
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]] — Eine Person, eine Stimme, egal wie viel sie einzahlt. Laura Zöckler zeigt, wie Genossenschaften die Energiewende in Bürgerhand halten – und wo sie an Grenzen stoßen.
+- [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]] — Eine Palästinenserin, ein jüdischer Pianist und ein CDU-Abgeordneter reden über das Canceln, und mitten im Gespräch zeigt sich, wie schnell man selbst übereinander statt miteinander spricht.
 - [[Zeitgeist/Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — Vertrauen heißt, die Hand zu reichen, ohne zu wissen, ob man über den Tisch gezogen wird. Drei Runden fragen, woher es kommt, wer es verspielt und was die Angst daraus macht.
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]] — Kipppunkte entscheiden sich, solange offen ist, wohin es kippt. Maja Göpel liest den Kampf gegen „woke“ als Wunsch, wieder blind zu schalten, und nennt es mutig, ehrlich hinzusehen.
 - [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]] — Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
