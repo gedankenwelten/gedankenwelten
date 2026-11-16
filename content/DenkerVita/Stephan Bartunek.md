@@ -1,7 +1,7 @@
 ---
 title: Stephan Bartunek — DenkerVita
 description: "Stephan Bartunek kannte die Verschwörungsszene um Ken Jebsen von innen. Heute nimmt er als „Oida, Bartunek!“ mit Schmäh und Wut FPÖ, AfD und seine alte Szene auseinander."
-tags: [denker-vita, rechtsextremismus, afd, desinformation, verschwörungstheorien, antisemitismus, medien, youtube, satire, oesterreich]
+tags: [denker-vita, rechtsextremismus, afd, desinformation, verschwörungstheorien, antisemitismus, medien, youtube, satire, österreich]
 aktualisiert: 2026-10-10
 raetsel: "Er kennt das Haus von innen. Darum schreit er so laut vor seiner Tür."
 ---

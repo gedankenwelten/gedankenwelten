@@ -10,7 +10,7 @@ tags:
   - china
   - taiwan
   - europa
-  - voelkerrecht
+  - völkerrecht
   - year-2026
 status: offen
 konfidenz: 45%

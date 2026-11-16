@@ -8,7 +8,7 @@ tags:
   - zeitgeist
   - podcast
   - iran
-  - voelkerrecht
+  - völkerrecht
   - intervention
   - boris-palmer
   - gilda-con-arne

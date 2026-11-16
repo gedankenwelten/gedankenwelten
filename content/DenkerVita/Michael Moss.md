@@ -1,7 +1,7 @@
 ---
 title: Michael Moss — DenkerVita
 description: "Michael Moss kam aus dem Irakkrieg zurück und fand die nächste Front im Supermarkt: ein Reporter, der in die Labore der Lebensmittelkonzerne ging und den Glückspunkt vermessen sah."
-tags: [denker-vita, ernaehrung, journalismus, usa]
+tags: [denker-vita, ernährung, journalismus, usa]
 raetsel: "Er kam aus dem Krieg zurück, und man fragte ihn nach Erdnüssen."
 ---
 

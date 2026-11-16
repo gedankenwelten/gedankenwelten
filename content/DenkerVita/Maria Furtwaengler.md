@@ -4,7 +4,7 @@ description: "Maria Furtwängler war Ärztin, wurde Tatort-Kommissarin und hält
 date: 2026-10-21
 aktualisiert: 2026-10-21
 raetsel: "Dieselbe Wiese wie als Kind. Das Summen darin ist leiser geworden."
-tags: [denker-vita, insekten, biodiversitaet, landwirtschaft, klima, medien, feminismus, medizin, deutschland]
+tags: [denker-vita, insekten, biodiversität, landwirtschaft, klima, medien, feminismus, medizin, deutschland]
 aliases:
   - Maria Furtwängler
   - Maria Furtwängler-Burda

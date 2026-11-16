@@ -10,7 +10,7 @@ tags:
   - co2
   - emissionen
   - lebenszyklus
-  - atommuell
+  - atommüll
   - ipcc
   - uran
   - year-2024

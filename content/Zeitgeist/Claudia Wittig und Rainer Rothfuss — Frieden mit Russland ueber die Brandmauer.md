@@ -10,7 +10,7 @@ tags:
   - russland
   - ukraine
   - nato
-  - voelkerrecht
+  - völkerrecht
   - europa
   - frieden
   - afd

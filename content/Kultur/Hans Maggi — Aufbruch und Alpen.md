@@ -12,7 +12,7 @@ tags:
   - alltag
   - gastfreundschaft
   - deutschland
-  - oesterreich
+  - österreich
   - italien
 stimme:
   - wer: "Erich Kästner"

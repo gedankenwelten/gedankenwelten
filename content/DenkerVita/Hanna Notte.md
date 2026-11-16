@@ -1,7 +1,7 @@
 ---
 title: Hanna Notte — DenkerVita
 description: "Hanna Notte erklärt, warum Russland nie isoliert war: Moskau verkauft seinen Krieg im Globalen Süden als antikolonial und zahlt dafür mit wachsender Abhängigkeit von China."
-tags: [denker-vita, geopolitik, russland, ukraine, globaler-sueden, propaganda, deutschland]
+tags: [denker-vita, geopolitik, russland, ukraine, globaler-süden, propaganda, deutschland]
 date: 2026-10-04
 aktualisiert: 2026-10-04
 raetsel: "In vielen Hauptstädten dieselbe Frage. Jede Antwort begann vor ihrer Geburt."

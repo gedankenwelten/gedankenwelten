@@ -12,7 +12,7 @@ tags:
   - cdu
   - lobbyismus
   - kosten
-  - atommuell
+  - atommüll
   - year-2026
 aliases:
   - Mini-AKW SMR MONITOR

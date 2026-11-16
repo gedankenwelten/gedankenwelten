@@ -5,7 +5,7 @@ aktualisiert: 2026-10-04
 description: "Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt."
 tags:
   - geistesblitz
-  - ernaehrung
+  - ernährung
   - gesundheit
   - kapitalismus
   - wissenschaft

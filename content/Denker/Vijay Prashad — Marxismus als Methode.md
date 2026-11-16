@@ -10,7 +10,7 @@ tags:
   - kolonialismus
   - kapitalismus
   - geopolitik
-  - voelkerrecht
+  - völkerrecht
   - indien
   - soziale-ungleichheit
   - year-2026

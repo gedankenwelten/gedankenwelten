@@ -11,7 +11,7 @@ tags:
   - schah
   - revolution
   - diaspora
-  - voelkerrecht
+  - völkerrecht
   - usa
   - israel
   - golfstaaten

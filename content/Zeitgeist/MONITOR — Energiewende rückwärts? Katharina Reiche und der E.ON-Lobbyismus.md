@@ -12,7 +12,7 @@ tags:
   - erneuerbare-energien
   - windkraft
   - cdu
-  - drehtuer-effekt
+  - drehtür-effekt
   - netzausbau
   - year-2026
 aliases:

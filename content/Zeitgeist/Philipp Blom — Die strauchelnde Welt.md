@@ -16,7 +16,7 @@ tags:
   - geopolitik
   - usa
   - europa
-  - oesterreich
+  - österreich
   - year-2026
 aliases:
   - Ist die Welt verrückt geworden

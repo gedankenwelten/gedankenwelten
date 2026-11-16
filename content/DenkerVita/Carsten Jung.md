@@ -3,7 +3,7 @@ title: Carsten Jung — DenkerVita
 description: "Wem fallen die Gewinne der KI zu? Carsten Jung, Ökonom beim Londoner Thinktank IPPR, will, dass der Staat ihre Richtung lenkt, etwa über das, was er einkauft."
 date: 2026-06-03
 aktualisiert: 2026-06-03
-tags: [denker-vita, ki, industriepolitik, oekonomie, oekonomische-politik, vereinigtes-koenigreich]
+tags: [denker-vita, ki, industriepolitik, ökonomie, ökonomische-politik, vereinigtes-königreich]
 ---
 
 # Carsten Jung — DenkerVita

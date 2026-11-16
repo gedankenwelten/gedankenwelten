@@ -7,7 +7,7 @@ tags:
   - denker
   - kalender
   - philosophie
-  - uebersetzung
+  - übersetzung
   - dekolonisierung
   - universalismus
   - sprache

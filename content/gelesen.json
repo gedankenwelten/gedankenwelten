@@ -394,11 +394,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 3,
      "aufrufe": 3
@@ -435,6 +430,11 @@
     },
     {
      "pfad": "/Denker/Walther-Ziegler-Adorno-in-60-Minuten",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
      "leser": 2,
      "aufrufe": 2
     },

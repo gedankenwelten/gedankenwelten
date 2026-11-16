@@ -13,7 +13,7 @@ tags:
   - feminismus
   - gewalt-gegen-frauen
   - fast-fashion
-  - oekologie
+  - ökologie
   - year-2026
 aliases:
   - Staiy News 27.03.2026

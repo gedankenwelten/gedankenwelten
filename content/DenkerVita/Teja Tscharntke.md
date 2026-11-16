@@ -4,7 +4,7 @@ description: "Teja Tscharntke sucht die Artenvielfalt in der Landschaft rund um 
 date: 2026-10-21
 aktualisiert: 2026-10-21
 raetsel: "Eingeschrieben in Biologie. Studiert, was zu Hause als Umsturz galt."
-tags: [denker-vita, biodiversitaet, insekten, landwirtschaft, wissenschaft, deutschland]
+tags: [denker-vita, biodiversität, insekten, landwirtschaft, wissenschaft, deutschland]
 aliases:
   - Prof. Dr. Teja Tscharntke
 ---

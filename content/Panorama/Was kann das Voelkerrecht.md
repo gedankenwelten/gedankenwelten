@@ -9,7 +9,7 @@ panorama-art: wachsend
 tags:
   - panorama
   - luc
-  - voelkerrecht
+  - völkerrecht
   - menschenrechte
   - geopolitik
   - usa

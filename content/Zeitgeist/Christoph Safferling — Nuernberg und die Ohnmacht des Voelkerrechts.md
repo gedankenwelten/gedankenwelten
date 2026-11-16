@@ -6,7 +6,7 @@ aktualisiert: 2026-10-05
 raetsel: "Oben stand ein leerer Stuhl. Im Keller las einer, was niemand lesen wollte."
 tags:
   - zeitgeist
-  - voelkerrecht
+  - völkerrecht
   - geschichte
   - nationalsozialismus
   - justiz

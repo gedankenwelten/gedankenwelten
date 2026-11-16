@@ -8,7 +8,7 @@ tags:
   - philosophie
   - erkenntnistheorie
   - systemtheorie
-  - aufklaerung
+  - aufklärung
   - medien
   - technologie
   - year-2026

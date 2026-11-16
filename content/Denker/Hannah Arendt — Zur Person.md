@@ -13,7 +13,7 @@ tags:
   - exil
   - sprache
   - wahrheit
-  - oeffentlichkeit
+  - öffentlichkeit
   - deutschland
   - year-2026
 aliases:

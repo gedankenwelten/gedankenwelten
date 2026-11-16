@@ -7,7 +7,7 @@ tags:
   - zeitgeist
   - iran-krieg
   - trump
-  - usa-aussenpolitik
+  - usa-außenpolitik
   - geopolitik
   - nahost
   - strase-von-hormuz

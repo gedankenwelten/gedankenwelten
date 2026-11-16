@@ -5,7 +5,7 @@ aktualisiert: 2026-10-04
 description: "Ein Kriegsreporter geht in die Labore der Lebensmittelkonzerne und findet keine Verschwörung — nur Menschen, die Glückspunkte berechnen, und Aktionäre, die keinen Bissen weniger dulden."
 tags:
   - zeitgeist
-  - ernaehrung
+  - ernährung
   - gesundheit
   - kapitalismus
   - usa

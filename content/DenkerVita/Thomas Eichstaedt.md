@@ -3,7 +3,7 @@ title: Thomas „Eichi" Eichstädt — DenkerVita
 description: "Früher Bomberjacke und Parolen vor einer Unterkunft in Neubrandenburg, heute Trainer des FC Pio in Torgelow: Thomas Eichstädt hat aus der Szene herausgefunden und erzählt seinen Spielern, wer er war."
 date: 2026-10-03
 aktualisiert: 2026-10-03
-tags: [denker-vita, rechtsextremismus, deradikalisierung, migration, fussball, deutschland, ostdeutschland]
+tags: [denker-vita, rechtsextremismus, deradikalisierung, migration, fußball, deutschland, ostdeutschland]
 aliases:
   - Eichi
   - Thomas Eichstätt

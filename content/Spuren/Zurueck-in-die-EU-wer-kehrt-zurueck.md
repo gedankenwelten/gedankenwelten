@@ -2,7 +2,7 @@
 title: "Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?"
 tags:
   - spur
-  - grossbritannien
+  - großbritannien
   - schottland
   - irland
   - wales

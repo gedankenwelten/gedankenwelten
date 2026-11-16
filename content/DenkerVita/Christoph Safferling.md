@@ -2,7 +2,7 @@
 title: Christoph Safferling — DenkerVita
 description: "Ein Strafrechtler, der im Keller des Justizministeriums die NS-Vergangenheit seiner Zunft ausgrub und heute dort arbeitet, wo das Völkerstrafrecht 1945 geboren wurde."
 raetsel: "Sonntags zieht er Register. Werktags zieht er die Akten."
-tags: [denker-vita, voelkerrecht, strafrecht, nationalsozialismus, justiz, deutschland]
+tags: [denker-vita, völkerrecht, strafrecht, nationalsozialismus, justiz, deutschland]
 ---
 
 # Christoph Safferling

@@ -6,7 +6,7 @@ date: 19.04.2026
 tags:
   - denker
   - philosophie
-  - aufklaerung
+  - aufklärung
   - freiheit
   - ethik
   - year-2025

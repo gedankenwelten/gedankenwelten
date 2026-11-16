@@ -4,7 +4,7 @@ description: "Thomas Hörren kannte Käfer beim Namen, bevor er Biologie studier
 date: 2026-10-21
 aktualisiert: 2026-10-21
 raetsel: "Er hebt die Rinde vom toten Baum, und darunter beginnt eine Stadt."
-tags: [denker-vita, insekten, biodiversitaet, wissenschaft, wissenschaftskommunikation, landwirtschaft, deutschland]
+tags: [denker-vita, insekten, biodiversität, wissenschaft, wissenschaftskommunikation, landwirtschaft, deutschland]
 aliases:
   - Thomas Hörren
   - Thomas Peter Baltasar Hörren

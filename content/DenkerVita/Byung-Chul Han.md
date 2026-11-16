@@ -1,7 +1,7 @@
 ---
 title: Byung-Chul Han — DenkerVita
 description: "Wir beuten uns selbst aus und nennen es Freiheit — so Byung-Chul Hans Diagnose der Müdigkeitsgesellschaft. Dagegen setzt er das Verweilen und ein Glück, das durch die Hände kommt."
-tags: [denker-vita, philosophie, technologie, psychologie, suedkorea, deutschland]
+tags: [denker-vita, philosophie, technologie, psychologie, südkorea, deutschland]
 ---
 
 # Byung-Chul Han — DenkerVita

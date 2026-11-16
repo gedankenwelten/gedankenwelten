@@ -7,7 +7,7 @@ raetsel: "Dieselbe Flasche, dieselbe Wiese. Früher voll in einer Woche, heute i
 tags:
   - geistesblitz
   - insekten
-  - biodiversitaet
+  - biodiversität
   - wissenschaft
   - erkenntnistheorie
   - landwirtschaft

@@ -9,7 +9,7 @@ tags:
   - populismus
   - afd
   - globalisierung
-  - oeffnung-schliessung
+  - öffnung-schließung
   - arbeiterklasse
   - ostdeutschland
   - verfassungsgericht

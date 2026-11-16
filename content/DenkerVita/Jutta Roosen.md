@@ -1,7 +1,7 @@
 ---
 title: Jutta Roosen — DenkerVita
 description: "Jutta Roosen misst, was Zuckersteuer, Nutri-Score und neue Rezepturen wirklich bewirken: kleine Effekte, die erst tragen, wenn Politik die Umwelt ändert statt den Willen."
-tags: [denker-vita, ernaehrung, konsumforschung, deutschland]
+tags: [denker-vita, ernährung, konsumforschung, deutschland]
 raetsel: "Wir sagen Vorsatz. Der Kassenbon sagt etwas anderes."
 ---
 

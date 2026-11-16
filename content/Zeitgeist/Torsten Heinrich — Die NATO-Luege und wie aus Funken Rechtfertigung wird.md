@@ -11,7 +11,7 @@ tags:
   - geopolitik
   - propaganda
   - desinformation
-  - voelkerrecht
+  - völkerrecht
   - year-2026
 aliases:
   - Heinrich NATO-Lüge

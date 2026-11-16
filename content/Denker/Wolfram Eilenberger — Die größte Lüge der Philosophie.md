@@ -10,7 +10,7 @@ tags:
   - geistesgegenwart
   - akademische-kritik
   - mystik
-  - kuenstliche-intelligenz
+  - ki
   - year-2026
 aliases:
   - Eilenberger Philosophie Lüge

@@ -7,7 +7,7 @@ tags:
   - zeitgeist
   - energiewende
   - batterie
-  - e-mobilitaet
+  - e-mobilität
   - wirtschaft
   - deutschland
   - desinformation

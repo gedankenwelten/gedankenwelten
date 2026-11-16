@@ -9,7 +9,7 @@ tags:
   - krieg
   - frieden
   - geschichte
-  - voelkerrecht
+  - völkerrecht
   - geopolitik
   - ukraine
   - year-2024

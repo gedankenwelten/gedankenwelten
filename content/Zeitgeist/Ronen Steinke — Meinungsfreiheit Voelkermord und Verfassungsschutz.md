@@ -7,7 +7,7 @@ raetsel: "Kein Preis in diesem Jahr. Niemand sagte, wer gefragt worden war."
 tags:
   - zeitgeist
   - meinungsfreiheit
-  - voelkerrecht
+  - völkerrecht
   - verfassungsschutz
   - demokratie
   - rechtsstaat

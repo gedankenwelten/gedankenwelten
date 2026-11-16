@@ -15,7 +15,7 @@ tags:
   - antisemitismus
   - migration
   - populismus
-  - oeffentlichkeit
+  - öffentlichkeit
   - deutschland
   - year-2026
 aliases:

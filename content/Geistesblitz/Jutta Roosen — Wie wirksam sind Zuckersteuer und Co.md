@@ -5,7 +5,7 @@ aktualisiert: 2026-10-04
 description: "Ob eine Steuer, ein Etikett oder ein neues Rezept: Keines wirkt allein, und jedes verändert, was die anderen bewirken. Eine Konsumforscherin über das Für und Wider, wenn der Staat beim Essen mitlenkt."
 tags:
   - geistesblitz
-  - ernaehrung
+  - ernährung
   - gesundheit
   - wirtschaft
   - deutschland

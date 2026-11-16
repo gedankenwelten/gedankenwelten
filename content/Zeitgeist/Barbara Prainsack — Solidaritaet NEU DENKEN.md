@@ -7,7 +7,7 @@ aktualisiert: 2026-10-30
 tags:
   - zeitgeist
   - gespräch
-  - solidaritaet
+  - solidarität
   - demokratie
   - soziale-ungleichheit
   - populismus

@@ -9,7 +9,7 @@ tags:
   - usa
   - truth-social
   - supreme-court
-  - zoelle
+  - zölle
   - birthright-citizenship
   - koshi-politik
   - year-2026

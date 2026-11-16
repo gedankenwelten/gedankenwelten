@@ -6,7 +6,7 @@ date: 2026-04-27
 tags:
   - zeitgeist
   - afd
-  - verschwoerungsideologie
+  - verschwörungsideologie
   - deutschland
   - year-2026
 aliases:

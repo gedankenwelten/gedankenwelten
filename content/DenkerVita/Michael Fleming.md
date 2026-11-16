@@ -4,7 +4,7 @@ description: "Die Nachrichten aus Auschwitz kamen in London an, zeigt der Histor
 date: 2026-11-07
 aktualisiert: 2026-11-07
 raetsel: "Im Archiv war nichts verloren. Verloren war es nur draußen."
-tags: [denker-vita, geschichte, nationalsozialismus, medien, medienkritik, grossbritannien, polen, erinnerungskultur]
+tags: [denker-vita, geschichte, nationalsozialismus, medien, medienkritik, großbritannien, polen, erinnerungskultur]
 ---
 
 # Michael Fleming

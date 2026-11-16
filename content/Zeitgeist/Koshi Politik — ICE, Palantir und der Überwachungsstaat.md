@@ -9,7 +9,7 @@ tags:
   - usa
   - ice
   - palantir
-  - ueberwachung
+  - überwachung
   - peter-thiel
   - jd-vance
   - koshi-politik

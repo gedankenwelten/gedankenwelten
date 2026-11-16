@@ -9,7 +9,7 @@ tags:
   - usa
   - ice
   - buffalo
-  - fluechtlinge
+  - flüchtlinge
   - steven-miller
   - koshi-politik
   - year-2026

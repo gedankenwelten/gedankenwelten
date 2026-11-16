@@ -8,7 +8,7 @@ tags:
   - geopolitik
   - krieg
   - menschenrechte
-  - voelkerrecht
+  - völkerrecht
   - sudan
   - year-2026
 aliases:

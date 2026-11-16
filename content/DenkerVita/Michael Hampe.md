@@ -10,7 +10,7 @@ tags:
   - bewusstsein
   - ki
   - erkenntnistheorie
-  - aufklaerung
+  - aufklärung
   - weisheit
   - deutschland
   - schweiz

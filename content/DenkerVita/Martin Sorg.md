@@ -4,7 +4,7 @@ description: "Martin Sorg nähte 1982 die ersten Malaisefallen selbst. Aus vier 
 date: 2026-10-21
 aktualisiert: 2026-10-21
 raetsel: "Das erste Zelt nähte er selbst. Es fängt seit vierzig Jahren dieselbe Frage."
-tags: [denker-vita, insekten, biodiversitaet, wissenschaft, landwirtschaft, deutschland]
+tags: [denker-vita, insekten, biodiversität, wissenschaft, landwirtschaft, deutschland]
 aliases:
   - Dr. Martin Sorg
 ---

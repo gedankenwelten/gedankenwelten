@@ -6,7 +6,7 @@ raetsel: "Jeder fuhr nur Schritttempo. Keiner war der Stau."
 description: "Wer das Regal einräumt, hat schon gewählt, bevor der Kunde kommt. Gert Scobel zeigt, wie aus einem Strukturproblem der Charakterfehler des Einzelnen wird, und warum ausgerechnet Nudge-Forscher davor warnen."
 tags:
   - geistesblitz
-  - ernaehrung
+  - ernährung
   - gesundheit
   - lobbyismus
   - freiheit

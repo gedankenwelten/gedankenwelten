@@ -9,7 +9,7 @@ tags:
   - adel
   - macht
   - politik
-  - fruehneuziet
+  - frühe-neuzeit
 aliases:
   - Horowski Adel
   - Königshäuser

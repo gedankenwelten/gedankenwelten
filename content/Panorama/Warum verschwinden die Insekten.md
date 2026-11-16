@@ -10,7 +10,7 @@ tags:
   - panorama
   - luc
   - insekten
-  - biodiversitaet
+  - biodiversität
   - landwirtschaft
   - pestizide
   - lobbyismus

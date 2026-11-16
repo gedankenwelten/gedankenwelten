@@ -1,7 +1,7 @@
 ---
 title: Omar M. Yaghi — DenkerVita
 description: "Als Kind füllte Omar M. Yaghi in Amman die Wasserbehälter einer Familie, die in einem Raum lebte. Heute baut der Nobelpreisträger Kristallgerüste, die Wasser aus Wüstenluft ziehen."
-tags: [denker-vita, chemie, wissenschaft, klimawandel, jordanien, palaestina]
+tags: [denker-vita, chemie, wissenschaft, klimawandel, jordanien, palästina]
 ---
 
 # Omar M. Yaghi — DenkerVita

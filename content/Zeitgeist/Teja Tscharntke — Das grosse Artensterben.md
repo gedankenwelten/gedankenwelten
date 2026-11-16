@@ -7,7 +7,7 @@ raetsel: "Ein Weizenfeld bis zum Horizont. Die Biene fliegt am Rand entlang."
 tags:
   - zeitgeist
   - insekten
-  - biodiversitaet
+  - biodiversität
   - landwirtschaft
   - pestizide
   - lobbyismus

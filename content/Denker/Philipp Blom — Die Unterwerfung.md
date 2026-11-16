@@ -10,7 +10,7 @@ tags:
   - klimakrise
   - natur
   - religion
-  - aufklaerung
+  - aufklärung
   - kapitalismus
   - neoliberalismus
   - wachstum

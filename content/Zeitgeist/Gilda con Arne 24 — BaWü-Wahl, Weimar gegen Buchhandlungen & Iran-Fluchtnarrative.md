@@ -7,8 +7,8 @@ tags:
   - zeitgeist
   - gespräch
   - podcast
-  - bawue-wahl
-  - gruene
+  - bawü-wahl
+  - grüne
   - afd
   - meinungsfreiheit
   - iran

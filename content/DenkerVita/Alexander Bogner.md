@@ -4,7 +4,7 @@ description: "Wer an der Wissenschaft zweifelt, meint oft nicht ihre Methoden, s
 date: 2026-11-10
 aktualisiert: 2026-11-10
 raetsel: "Er schrieb den Wütenden zurück. Bekehrt hat er keinen. Gekommen sind sie."
-tags: [denker-vita, soziologie, wissenschaft, erkenntnistheorie, demokratie, wissenschaftskommunikation, oesterreich]
+tags: [denker-vita, soziologie, wissenschaft, erkenntnistheorie, demokratie, wissenschaftskommunikation, österreich]
 ---
 
 # Alexander Bogner — DenkerVita

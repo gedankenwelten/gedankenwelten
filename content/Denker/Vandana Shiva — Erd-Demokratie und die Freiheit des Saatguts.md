@@ -4,8 +4,8 @@ description: "Eine Physikerin liest die Welt vom Samenkorn her — und zeigt, wi
 aktualisiert: 09.07.2026
 tags:
   - denker
-  - oekologie
-  - oekofeminismus
+  - ökologie
+  - ökofeminismus
   - kapitalismus
   - indien
   - komplexität

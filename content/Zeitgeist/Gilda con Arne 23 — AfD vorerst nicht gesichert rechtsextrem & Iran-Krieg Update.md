@@ -11,7 +11,7 @@ tags:
   - verfassungsschutz
   - rechtsstaat
   - iran
-  - voelkerrecht
+  - völkerrecht
   - trump
   - year-2026
 aliases:

@@ -1,7 +1,7 @@
 ---
 title: Ingrid Brodnig — DenkerVita
 description: "Hass im Netz wächst aus der Bauweise der Plattformen, zeigt Ingrid Brodnig. Die österreichische Journalistin gibt Betroffenen, gerade Politikerinnen, Mittel zur Gegenwehr."
-tags: [denker-vita, medien, oesterreich, desinformation]
+tags: [denker-vita, medien, österreich, desinformation]
 ---
 
 # Ingrid Brodnig — DenkerVita

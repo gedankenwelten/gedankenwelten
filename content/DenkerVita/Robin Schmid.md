@@ -1,7 +1,7 @@
 ---
 title: Robin Schmid — DenkerVita
 description: "Robin Schmid, früher Radiomoderator und Sänger, erklärt Elektroautos und Balkonkraftwerke als Unterhaltung — überzeugt, dass die Energiewende mit „Spaß und Überzeugung“ gelingt."
-tags: [denker-vita, energiewende, e-mobilitaet, erneuerbare-energien, energiepolitik, medien, deutschland]
+tags: [denker-vita, energiewende, e-mobilität, erneuerbare-energien, energiepolitik, medien, deutschland]
 raetsel: "Früher sang er ins Mikrofon. Heute fragt die Familie: Was ist das schon wieder?"
 ---
 

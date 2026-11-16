@@ -3,7 +3,7 @@ title: Ernst Gelegs — DenkerVita
 description: "Ein Vierteljahrhundert erklärte Ernst Gelegs den Österreichern ihre östlichen Nachbarn. Als Orbán wankte, trennte er den Regierungs- vom Regimewechsel."
 date: 2026-10-29
 aktualisiert: 2026-10-29
-tags: [denker-vita, journalismus, medien, demokratie, autoritarismus, europa, osteuropa, ungarn, oesterreich]
+tags: [denker-vita, journalismus, medien, demokratie, autoritarismus, europa, osteuropa, ungarn, österreich]
 raetsel: "Ein Vierteljahrhundert erklärte er die Nachbarn. Dann überraschten sie ihn."
 ---
 

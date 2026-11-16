@@ -3,7 +3,7 @@ title: Constanze Kurz — DenkerVita
 description: "Für Constanze Kurz, Informatikerin und CCC-Sprecherin, ist Überwachung eine Frage der Bauweise: Grundrechte gehören in die Architektur, vom Wahlcomputer bis zu Palantir."
 date: 2026-05-21
 aktualisiert: 2026-05-21
-tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
+tags: [denker-vita, technologiekritik, datenschutz, überwachung, deutschland]
 ---
 
 # Constanze Kurz — DenkerVita

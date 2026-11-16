@@ -1,7 +1,7 @@
 ---
 title: Chris van Tulleken — DenkerVita
 description: "Chris van Tulleken, Infektiologe mit eineiigem Zwilling als Kontrollgruppe, sieht in ultra-verarbeiteter Nahrung kein Versagen des Willens, sondern ein Geschäftsmodell."
-tags: [denker-vita, ernaehrung, gesundheit, grossbritannien]
+tags: [denker-vita, ernährung, gesundheit, großbritannien]
 raetsel: "Der Arzt verschrieb sich die Krankheit. Einen Monat lang, gewissenhaft."
 ---
 

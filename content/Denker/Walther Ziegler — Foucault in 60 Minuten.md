@@ -8,7 +8,7 @@ tags:
   - philosophie
   - macht
   - diskurs
-  - ueberwachung
+  - überwachung
   - year-2026
 aliases:
   - Foucault 60 Minuten

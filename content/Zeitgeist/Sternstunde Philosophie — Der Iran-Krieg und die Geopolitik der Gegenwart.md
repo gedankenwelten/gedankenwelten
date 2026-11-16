@@ -10,7 +10,7 @@ tags:
   - usa
   - trump
   - geopolitik
-  - voelkerrecht
+  - völkerrecht
   - krieg
   - atomwaffen
   - regime-change

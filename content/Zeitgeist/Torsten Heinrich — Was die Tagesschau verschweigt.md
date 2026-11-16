@@ -8,7 +8,7 @@ tags:
   - geopolitik
   - ukraine
   - israel
-  - voelkerrecht
+  - völkerrecht
   - medien
   - year-2026
 aliases:

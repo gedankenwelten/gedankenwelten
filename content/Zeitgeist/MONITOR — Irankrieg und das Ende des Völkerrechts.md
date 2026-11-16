@@ -5,7 +5,7 @@ aktualisiert: 2026-07-17
 tags:
   - zeitgeist
   - iran
-  - voelkerrecht
+  - völkerrecht
   - israel
   - usa
   - trump

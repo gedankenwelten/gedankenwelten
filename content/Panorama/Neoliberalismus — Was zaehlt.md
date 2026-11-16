@@ -7,7 +7,7 @@ tags:
   - kapitalismus
   - neoliberalismus
   - wirtschaft
-  - oekologie
+  - ökologie
   - soziale-ungleichheit
   - philosophie
   - komplexität

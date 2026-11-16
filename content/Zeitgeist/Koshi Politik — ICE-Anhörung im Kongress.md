@@ -10,7 +10,7 @@ tags:
   - ice
   - dhs
   - kongress
-  - anhoerung
+  - anhörung
   - koshi-politik
   - year-2026
 aliases:

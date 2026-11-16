@@ -47,7 +47,7 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 `usa` · `trump` · `oligarchie` · `geopolitik` · `migration` · `immigration`
 
 **Deutschland:**
-`deutschland` · `afd` · `bsw` · `cdu` · `csu` · `spd` · `gruene` · `die-linke` · `fdp` · `bundesregierung` · `energiepolitik` · `wahlen`
+`deutschland` · `afd` · `bsw` · `cdu` · `csu` · `spd` · `grüne` · `die-linke` · `fdp` · `bundesregierung` · `energiepolitik` · `wahlen`
 
 **KI & Technologie:**
 `ki` · `anthropic` · `claude` · `technologie` · `überwachung` · `datenschutz`
@@ -66,7 +66,7 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 
 > `wohnen` = Wohnungsmarkt, Mieten, Bodenpreise, sozialer Wohnungsbau, Eigentum an Wohnraum — gesetzt mit [[Die Anstalt — Warum Wohnen unbezahlbar wird]].
 
-> **Partei-Tags** (`afd` · `bsw` · `cdu` · `csu` · `spd` · `gruene` · `die-linke` · `fdp`, alle seit 11.11.2026 gleich behandelt): nur, wo die Partei wirklich Thema ist (Programm, Strategie, Wahlanalyse, innerer Zustand), nicht bei bloßer Erwähnung; DenkerVitas von Mitgliedern und Mandatsträgern bekommen den Tag ihrer Partei. Die Linke heißt `die-linke`, damit der Tag nicht mit der politischen Linken als Strömung verwechselt wird (`linke` bleibt dafür, z. B. bei [[Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]).
+> **Partei-Tags** (`afd` · `bsw` · `cdu` · `csu` · `spd` · `grüne` · `die-linke` · `fdp`, alle seit 11.11.2026 gleich behandelt): nur, wo die Partei wirklich Thema ist (Programm, Strategie, Wahlanalyse, innerer Zustand), nicht bei bloßer Erwähnung; DenkerVitas von Mitgliedern und Mandatsträgern bekommen den Tag ihrer Partei. Die Linke heißt `die-linke`, damit der Tag nicht mit der politischen Linken als Strömung verwechselt wird (`linke` bleibt dafür, z. B. bei [[Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]).
 
 > `kriminalität` = Kriminalstatistik, Kriminalitätsentwicklung und ihre Deutung (Hell-/Dunkelfeld, Tatverdächtige vs. Verurteilte, Ausländerkriminalität) — gesetzt mit [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]].
 
@@ -108,6 +108,11 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 ## Regeln
 
 - Tags in **Kleinbuchstaben mit Bindestrich** (`ki-modelle`, nicht `KI Modelle`)
+- **Umlaute bleiben Umlaute** (seit 16.11.2026, Andreas' Ja): `völkerrecht`, `überwachung`, `großbritannien`, nicht
+  `voelkerrecht`. Tags sind zum Lesen da: Leser sehen sie, die Vorlesestimme spricht sie („vo-el-ker-recht“). Die Umschrift
+  gehört zu Dateinamen und URLs, nicht zu Tags. Anlass: `völkerrecht`/`voelkerrecht` standen 16 zu 17, wer einen suchte, fand
+  die Hälfte; am 16.11. sind 107 Tags in 99 Notes umgestellt (auch `gruene` → `grüne`). `tags_pruefung.py` läuft im Sync
+  und warnt, wenn eine Umschrift neben ihrer Umlaut-Form auftaucht.
 - Kein Tag für einzelne Personen (Personenname gehört in den Titel, nicht als Tag)
 - **Opus:** Maximal 5 Tags pro Note — lieber weniger, treffender
 - **Gedankenwelten:** Kein hartes Limit — Tags dienen der Auffindbarkeit auf gedankenwelten.org. Trotzdem nur relevante Tags, kein Spam.

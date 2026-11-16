@@ -7,7 +7,7 @@ raetsel: "Früher hielt die Mutter an, um die Scheibe zu wischen. Heute fährt m
 tags:
   - zeitgeist
   - insekten
-  - biodiversitaet
+  - biodiversität
   - landwirtschaft
   - pestizide
   - deutschland

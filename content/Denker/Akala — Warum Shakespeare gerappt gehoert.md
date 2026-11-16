@@ -11,7 +11,7 @@ tags:
   - sprache
   - klasse
   - kunst
-  - grossbritannien
+  - großbritannien
   - year-2026
 aliases:
   - Akala Hip Hop Shakespeare

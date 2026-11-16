@@ -3,7 +3,7 @@ title: Emmanuel Levinas — DenkerVita
 date: 2026-09-22
 aktualisiert: 2026-09-22
 description: "Der Philosoph, der die Ethik vor das Sein stellte: Im Antlitz des Anderen hört Levinas ein Gebot, das älter ist als jede Wahl — Du wirst nicht töten."
-tags: [denker-vita, philosophie, ethik, phaenomenologie, judentum, religion, frankreich, litauen]
+tags: [denker-vita, philosophie, ethik, phänomenologie, judentum, religion, frankreich, litauen]
 ---
 
 # Emmanuel Levinas — DenkerVita

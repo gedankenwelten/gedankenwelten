@@ -4,7 +4,7 @@ date: 11.06.2026
 tags:
   - zeitgeist
   - gespräch
-  - grossbritannien
+  - großbritannien
   - brexit
   - rechtspopulismus
   - migration

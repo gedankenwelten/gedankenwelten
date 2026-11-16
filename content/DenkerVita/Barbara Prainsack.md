@@ -1,7 +1,7 @@
 ---
 title: Barbara Prainsack — DenkerVita
 description: "Solidarität ist für Barbara Prainsack kein Appell, sondern eine Praxis, die Institutionen tragen oder ersticken. Die Wiener Politologin fragt auch, wann sie giftig wird."
-tags: [denker-vita, solidaritaet, ethik, bioethik, demokratie, datenschutz, technologie, soziale-ungleichheit, wirtschaft]
+tags: [denker-vita, solidarität, ethik, bioethik, demokratie, datenschutz, technologie, soziale-ungleichheit, wirtschaft]
 raetsel: "Als die Insel ging, ging sie mit dem Festland."
 ---
 

@@ -13,7 +13,7 @@ tags:
   - geschichte
   - feminismus
   - gemeinschaft
-  - spiritualitaet
+  - spiritualität
   - srf
   - philosophie
   - year-2026

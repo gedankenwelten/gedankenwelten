@@ -4,7 +4,7 @@ description: "Ein Schwarm von KI-Agenten hatte sein 25 Jahre altes Entwickler-Wi
 date: 2026-11-13
 aktualisiert: 2026-11-13
 raetsel: "Er schloss die Tür ab und schrieb dem Fremden, er sei willkommen."
-tags: [denker-vita, ki, technologie, cybersicherheit, philosophie, oesterreich]
+tags: [denker-vita, ki, technologie, cybersicherheit, philosophie, österreich]
 ---
 
 # Helmut Leitner — DenkerVita

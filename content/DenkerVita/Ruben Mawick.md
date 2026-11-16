@@ -1,7 +1,7 @@
 ---
 title: Ruben Mawick — DenkerVita
 description: "Seit 2023 fährt der westfälische Rettungssanitäter Ruben Mawick als Sanitäter und humanitärer Helfer in die Ukraine — auch nachdem bei Bachmut eine russische Rakete sein Hilfsfahrzeug traf."
-tags: [denker-vita, ukraine, krieg, humanitaere-hilfe, deutschland]
+tags: [denker-vita, ukraine, krieg, humanitäre-hilfe, deutschland]
 ---
 
 # Ruben Mawick — DenkerVita
