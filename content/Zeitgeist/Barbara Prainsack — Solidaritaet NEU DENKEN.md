@@ -298,6 +298,9 @@ Beide misstrauen einer Ethik, die Regulierung ersetzt: Mühlhoff nennt die KI-Et
 
 Die spontane Hilfe gibt es auch dort, wo das Netz dicht ist: Auf dem Weg vom Allgäu nach Bozen schlafen zwei Radfahrer in keiner Nacht, die man im Video sieht, in einem gebuchten Bett, bei Fremden wie bei Freunden. Nur kommt sie hier auf Anfrage, nicht ungefragt wie im Nordirak oder auf Sokotra. Vielleicht liegt der Unterschied weniger im Geben als darin, ob man fragen muss.
 
+### → [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+Das Kuchenbild von der anderen Seite: Driouich fragt, was ein Verteilungskampf ohne Wachstum mit der Politik macht, Prainsack, was er mit dem Denken der Menschen macht.
+
 ---
 
 ## Weiterdenken

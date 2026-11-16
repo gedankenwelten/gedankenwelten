@@ -973,7 +973,7 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
 | 15.03.2025 | South Padre Island, TX | Ruben Ray Martinez | **US-Bürger** | — (Polizei-Assist) | **ja — widerlegt Version** | „wollte Agenten überfahren" / Notwehr |
 | 12.09.2025 | Franklin Park, IL | Silverio Villegas González | Koch, Vater | Verkehrsstopp | **ja — widerlegt Version** | „Agent mitgeschleift" / Notwehr |
 | 07.01.2026 | Minneapolis | Renée Good | US-Bürgerin | — | nein | „Fahrzeug als Waffe" / Notwehr |
-| 24.01.2026 | Minneapolis | Alex Pretti | US-Bürger | — | nein | „Fahrzeug als Waffe" / Notwehr |
+| 24.01.2026 | Minneapolis | Alex Pretti | US-Bürger | — | nein | „domestic terrorist“ / bewaffnet — Pretti war zu Fuß, die Regierung berief sich auf seine Pistole (mit Waffenschein); Videos zeigen sie nicht gezogen *(korrigiert 16.11.2026: hier stand „Fahrzeug als Waffe“ → [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE-Spur]])* |
 | 07.07.2026 | Houston | Lorenzo Salgado | 35 J. im Land, U-Visa-Verfahren | **nein** (Van-Verwechslung) | nein | „Fahrzeug als Waffe" / Notwehr |
 | 13.07.2026 | Biddeford, Maine | Johan Sebastián Durán Guerrero | arbeitsberechtigt, SSN | **nein** (DHS räumt es ein) | nein | **„öffentliche Sicherheit"** |
 | 20.09.2026 | Austin, TX | Wilber Rafael Garces Perez *(überlebt, Kugel nahe der Wirbelsäule)* | CBP One 2024, Asylbewerber mit Arbeitserlaubnis, Abschiebebescheid in Abwesenheit | ja | ungeklärt (ICE schweigt) | **keine Begründung** — nur „unter Biden illegal eingereist" |

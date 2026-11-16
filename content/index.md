@@ -46,6 +46,54 @@ Die Gedankenwelten (luc)
 
 > → *5 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **16.11.** — [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten|Walther Ziegler — Schopenhauer in 60 Minuten]]
+>
+> Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
+
+> **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Von weitem grau, von nahem schwarz und weiß: Die bolivianische Soziologin denkt Dekolonisierung als tägliche Arbeit an der Kolonie im eigenen Kopf, und die betrifft alle.
+
+> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
+>
+> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
+
+> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
+>
+> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
+
+> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
+>
+> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
+
+> → *6 weitere in* [[Denker]]
+
+### Geistesblitz
+
+> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
+>
+> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
+
+> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
+
+> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
+>
+> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
+
+> **15.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+>
+> Zwölf Stunden schreibt der Agent, anderthalb Wochen liest der Mensch. Ein Informatiker über Beweise, die niemand lesen kann, und die Frage, die er für die wichtigste hält: Was ist interessant?
+
+> **15.11.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
+>
+> Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
+
+> → *16 weitere in* [[Geistesblitz]]
+
 ### Panorama
 
 > **16.11.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
@@ -69,54 +117,6 @@ Die Gedankenwelten (luc)
 > Das Handy aus der Schule, soziale Netzwerke erst ab einem Alter, Kinder, die sich zu wehren wissen: Drei Antworten auf eine Sorge, deren Ursache die Forschung noch nicht sicher kennt, und die Stimmen, die sich an jeder reiben.
 
 > → *20 weitere in* [[Panorama]]
-
-### Denker
-
-> **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
->
-> Von weitem grau, von nahem schwarz und weiß: Die bolivianische Soziologin denkt Dekolonisierung als tägliche Arbeit an der Kolonie im eigenen Kopf, und die betrifft alle.
-
-> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
->
-> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
-
-> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
->
-> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
-
-> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
->
-> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
-
-> **13.11.** — [[Denker/Steffen Mau — Spaltung der Gesellschaft|Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft]]
->
-> Keine Spaltung durch die Mitte, aber Radikalisierung und Triggerpunkte, an denen Erregung gezielt geschürt wird. Steffen Mau über eine Gesellschaft, die streitet, ohne zu zerfallen.
-
-> → *5 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
-
-> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
->
-> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
-
-> **15.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
->
-> Zwölf Stunden schreibt der Agent, anderthalb Wochen liest der Mensch. Ein Informatiker über Beweise, die niemand lesen kann, und die Frage, die er für die wichtigste hält: Was ist interessant?
-
-> **15.11.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
-
-> **14.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft|Made in Germany Awards 2026 — Gesellschaft: wo ein Mensch fehlt]]
->
-> Eine Stimme, die anruft, wenn die Kinder es nicht schaffen, ein Lehrmeister, der nach der Rente bleibt, eine Figur, die vom Gefühl erzählt: Drei Erfindungen springen ein, wo ein Mensch fehlt.
-
-> → *15 weitere in* [[Geistesblitz]]
 
 ### Spuren
 

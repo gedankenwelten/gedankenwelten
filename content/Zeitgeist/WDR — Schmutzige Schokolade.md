@@ -204,6 +204,9 @@ Auch dort ein Vermittler, der Menschen über Grenzen bringt, und ein Abnehmer, d
 ### → [[Teja Tscharntke — Das grosse Artensterben]]
 Tscharntke erforscht in Peru, wie Kakaoanbau und Artenschutz zusammengehen können, und was Vögel und Fledermäuse an einer Plantage verdienen. Der Film zeigt die andere Seite: Kakao bis tief in ein Schutzgebiet, wo nur am Straßenrand noch ein paar Bäume stehen.
 
+### → [[Zeitgeist/Maria Furtwaengler — Das Ende der Insekten|Maria Furtwängler — Das Ende der Insekten]]
+Glyphosat aus der Sicht der Insekten: dieselbe EU-Zulassung bis 2033, dort mit dem Blick auf Bienen und Beistoffe.
+
 ---
 
 ## Weiterdenken

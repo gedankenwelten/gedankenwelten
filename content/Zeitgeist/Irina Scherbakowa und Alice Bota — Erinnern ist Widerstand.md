@@ -480,6 +480,9 @@ Das polnische Kriegsverbrechensbüro in London sammelte schon 1944 Anklagen, auc
 
 Die deutsche Seite derselben Erinnerung: Der Historiker Stefan Creuzberger erzählt, wie Bundesrepublik und DDR den Krieg gegen die Sowjetunion erinnerten, beide im Dienst ihrer Gegenwart, und warum Russlands Krieg gegen die Ukraine Deutschland nicht von diesem Erinnern befreit.
 
+### → [[Zeitgeist/Irina Scherbakowa — Der lange Schatten des Stalinismus|Irina Scherbakowa — Der lange Schatten des Stalinismus]]
+Die Schwester-Note mit derselben Stimme: Scherbakowa allein über das Erbe des Stalinismus, das Russland nicht aufgearbeitet hat.
+
 ---
 
 ## Weiterdenken

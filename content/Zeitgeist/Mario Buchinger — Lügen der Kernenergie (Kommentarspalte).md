@@ -96,7 +96,7 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 
 **Buchingers Widerlegung:**
 - Kernenergie ist gesundheitsschädlich. Erneuerbare Energien sind es nicht. Damit ist die Vergleichsfrage grundlegend beantwortet.
-- Die Infraschall-These bei Windkraft ist wissenschaftlich widerlegt — sogar Peter Altmeier (CDU), der Windenergie stark beschränkt hatte, musste dies nach Überprüfung einräumen. Der Fehler ist seit Jahren bekannt, wird aber weiter verbreitet.
+- Die Infraschall-These bei Windkraft ist wissenschaftlich widerlegt — sogar Peter Altmaier (CDU), der Windenergie stark beschränkt hatte, musste dies nach Überprüfung einräumen. Der Fehler ist seit Jahren bekannt, wird aber weiter verbreitet.
 - Dual-Fluid-Reaktoren und Fusionsreaktoren sind pinke Einhörner: keine positiven Energiebilanzen nachgewiesen, keine marktfähigen Konzepte.
 
 ---

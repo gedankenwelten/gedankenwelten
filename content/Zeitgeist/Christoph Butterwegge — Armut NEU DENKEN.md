@@ -55,7 +55,7 @@ Das Gespräch führt Maja Göpel im Rahmen des Podcasts „NEU DENKEN" von Missi
 
 [▶ 6:55](https://www.youtube.com/watch?v=-pAVWZA_R7o&t=415)
 
-Butterwegge unterscheidet präzise: **Absolute Armut** bedeutet, Grundbedürfnisse (Nahrung, Unterkunft, Gesundheit) nicht befriedigen zu können — kein Problem des globalen Südens, sondern auch in Deutschland real: über 1 Million Wohnungslose, 56.000 Obdachlose. **Relative Armut** ist die dominierende Form hierzulande: wer weniger als 60 % des mittleren Einkommens zur Verfügung hat, gilt als armutsgefährdet. Das sind aktuell **13,3 Millionen Menschen** in Deutschland — 16,1 % der Bevölkerung.
+Butterwegge unterscheidet präzise: **Absolute Armut** bedeutet, Grundbedürfnisse (Nahrung, Unterkunft, Gesundheit) nicht befriedigen zu können — kein Problem des globalen Südens, sondern auch in Deutschland real: über 1 Million Wohnungslose, 56.000 Obdachlose *(amtlich gezählt sind es weniger, rund 450.000 untergebrachte Wohnungslose und 47.000 Menschen auf der Straße oder in Behelfsunterkünften → [[#Faktencheck|Faktencheck]])*. **Relative Armut** ist die dominierende Form hierzulande: wer weniger als 60 % des mittleren Einkommens zur Verfügung hat, gilt als armutsgefährdet. Das sind aktuell **13,3 Millionen Menschen** in Deutschland — 16,1 % der Bevölkerung.
 
 > *„Diese relative Einkommensarmut breitet sich immer mehr in die Mitte der Gesellschaft hinein aus."*
 
@@ -116,6 +116,11 @@ Butterwegge ist klar: Steuern und Umsteuern alleine reichen nicht. Es braucht ei
 ---
 
 ## Faktencheck
+
+> [!warning] Nicht belegt — „über 1 Million Wohnungslose, 56.000 Obdachlose“
+> Woher Butterwegge diese Zahlen hat, sagt er im Video nicht. Die amtlichen Zahlen liegen deutlich darunter: Ende Januar 2026 waren in Deutschland 452.900 wohnungslose Menschen untergebracht ([Destatis, 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_222_229.html)). Wer auf der Straße lebt, ist darin nicht enthalten; das waren nach dem Wohnungslosenbericht des Bundes Anfang 2024 rund 47.300 Menschen, auf der Straße oder in Behelfsunterkünften ([Bundesbauministerium, 08.01.2025](https://www.bmwsb.bund.de/SharedDocs/pressemitteilungen/DE/2025/01/Wohnungslosenbericht.html)). Das Problem ist real, die genannte Größenordnung findet sich in den amtlichen Zahlen aber nicht. → auch [[Zeitgeist/Harry Pfau — Harry macht satt|Harry Pfau — Harry macht satt]]
+> *(Ergänzt 16.11.2026, cortex-lint.)*
+
 
 > [!success] Bestätigt — 13,3 Mio. Armutsgefährdete
 > Laut Statistischem Bundesamt sind 16,1 % der Bevölkerung armutsgefährdet (unter 60 % des Medianeinkommens). Die Armutsrisikoschwelle lag zuletzt bei 1.446 € netto/Monat für Alleinstehende. [Quelle: Destatis](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Lebensbedingungen-Armutsgefaehrdung/_inhalt.html)

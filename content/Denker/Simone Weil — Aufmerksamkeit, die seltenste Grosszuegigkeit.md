@@ -43,7 +43,7 @@ aliases:
 Quelle: [Mae Bengert & Barbara Bleisch: Aufmerksamkeit, die erste Großzügigkeit?](https://www.youtube.com/watch?v=dTb9OnPLyKg) — Gespräch auf der Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), Moderation Barbara Bleisch, 83 Min., veröffentlicht am 11.09.2026
 
 > [!info] Wer spricht?
-> **Simone Weil** (*3. Februar 1909, Paris – 24. August 1943, Ashford, Kent*) — Philosophin, Mystikerin, Gewerkschafterin, Fabrikarbeiterin. Aus säkular-jüdischem Pariser Elternhaus, Schülerin Alains, Philosophielehrerin in Le Puy, 1934/35 ein Jahr an den Maschinen von Alsthom, Carnaud und Renault, 1936 sieben Wochen in Spanien, ab 1935 mystische Erfahrungen, nie getauft. Gestorben mit 34, entkräftet von Tuberkulose und Unterernährung. Zu Lebzeiten erschien kein Buch; *Schwerkraft und Gnade*, *Die Einwurzelung* und die *Cahiers* sind aus dem Nachlass zusammengesetzt. Albert Camus nannte sie *„den einzigen großen Geist unserer Zeit“*.
+> **Simone Weil** (*3. Februar 1909, Paris – 24. August 1943, Ashford, Kent*) — Philosophin, Mystikerin, Gewerkschafterin, Fabrikarbeiterin. Aus säkular-jüdischem Pariser Elternhaus, Schülerin Alains, Philosophielehrerin in Le Puy, 1934/35 ein Jahr an den Maschinen von Alsthom, Carnaud und Renault, 1936 sieben Wochen in Spanien, ab 1935 Berührungen mit dem Katholizismus, 1938 eine mystische Erfahrung, nie getauft. Gestorben mit 34, entkräftet von Tuberkulose und Unterernährung. Zu Lebzeiten erschien kein Buch; *Schwerkraft und Gnade*, *Die Einwurzelung* und die *Cahiers* sind aus dem Nachlass zusammengesetzt. Albert Camus nannte sie *„den einzigen großen Geist unserer Zeit“*.
 >
 > → [[DenkerVita/Simone Weil|DenkerVita]]
 >

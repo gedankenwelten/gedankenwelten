@@ -179,7 +179,7 @@ Die andere Seite gehört dazu. Seine Haltung im Algerienkrieg wird bis heute kri
 - [[Walther Ziegler — Camus in 60 Minuten]] — das Gefühl des Absurden, Sisyphos, Revolte statt Revolution
 - [[Franziska Meier — Camus Die Pest]] — *Die Pest* im Corona-Frühjahr 2020: die Chronik, deren Erzähler sich in die Abstraktion rettet, und das Leid, das sich nicht vermitteln lässt
 - [[Alice Kaplan — Wie Der Fremde ein Klassiker wurde]] — wie *Der Fremde* 1946 nach Amerika kam: zwei Titel, eine Übersetzung mit zu vielen Anführungszeichen, eine Anzeige, die ihn zum Existenzialisten machte
-- [[Eve Morisi — Camus gegen die Todesstrafe]] — sein Kampf gegen die Guillotine, von der Übelkeit des Vaters nach einer Hinrichtung in Algier bis zu den etwa 150 Gnadengesuchen
+- [[Eve Morisi — Camus gegen die Todesstrafe]] — sein Kampf gegen die Guillotine, von der Übelkeit des Vaters nach einer Hinrichtung in Algier bis zu den mindestens 150 Fällen, in denen er nach der Zählung seines Biografen Olivier Todd eingriff, die meisten gegen ein Todesurteil
 
 **Camus als Stimme**
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — der späte Camus aus *Der Fall*: Die Wahrheit blendet, die Lüge ist ein milder Dämmerschein

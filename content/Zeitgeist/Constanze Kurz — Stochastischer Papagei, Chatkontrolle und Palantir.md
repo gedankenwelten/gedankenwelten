@@ -172,7 +172,7 @@ Die eigentliche Sorge richtet sich an junge Informatiker: *„Die glauben, dass 
 ## Faktencheck
 
 > [!success] Bestätigt — Palantir Gotham in vier Bundesländern
-> Bayern, NRW, Hessen und Baden-Württemberg nutzen Palantir Gotham aktiv. Quelle: [Die Abkehr von Palantir hat begonnen — correctiv.org](https://correctiv.org/aktuelles/gesellschaft-2/2026/05/19/die-abkehr-von-palantir-hat-begonnen/)
+> Bayern, NRW, Hessen und Baden-Württemberg haben Verträge über Palantir Gotham; in Baden-Württemberg ist die Software noch nicht im Einsatz ([netzpolitik.org — Palantirs Geschäfte in Europa](https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/)). *(Korrigiert 16.11.2026: Hier stand, alle vier nutzten sie aktiv.)* Quelle: [Die Abkehr von Palantir hat begonnen — correctiv.org](https://correctiv.org/aktuelles/gesellschaft-2/2026/05/19/die-abkehr-von-palantir-hat-begonnen/)
 
 > [!success] Bestätigt — UN-Cybercrime-Konvention: russischer Ursprung
 > Die UN-Cybercrime-Konvention wurde 2019 auf russische Initiative hin beim UN-Ausschuss eingebracht. Quelle: [UN Adopts Controversial Cybercrime Treaty — Lawfare](https://www.lawfaremedia.org/article/united-nations-adopts-controversial-cybercrime-treaty)

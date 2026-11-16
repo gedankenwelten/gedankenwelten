@@ -313,6 +313,9 @@ Die Gegenfolie zum Türöffner-Abschnitt: Klarsprech führt die Kritik über Per
 
 Eine Cyber-Analystin fragt, warum Baden-Württemberg Palantir statt europäischer Lösungen wählt, und ein Netzforscher hält die Souveränität für verloren, also genau die Anbieterdebatte, die Kurz für zu kurz hält.
 
+### → [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
+Der Mann hinter Palantir. Beide stützen sich auf dieselbe netzpolitik-Recherche vom Oktober 2026 und kommen beim Lavender-Vorwurf zum selben Urteil.
+
 
 ---
 

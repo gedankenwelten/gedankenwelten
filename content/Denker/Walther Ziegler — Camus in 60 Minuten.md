@@ -170,7 +170,8 @@ Und wenn die Sinnkrise kommt? Dann kann das Bild des Sisyphos Kraft geben. Nicht
 > Ziegler bezeichnet Camus als „Existentialisten". Camus selbst hat diese Zuordnung zeitlebens abgelehnt und sich explizit vom Existentialismus Sartres abgegrenzt. Die präzisere Bezeichnung ist *Absurdismus* — eine verwandte, aber eigenständige philosophische Position. Quelle: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/camus/)
 
 > [!warning] Vereinfacht — Bruch Camus-Sartre
-> Der Vortrag deutet Camus' Haltung zur Revolution an, ohne den dramatischen Bruch mit Sartre 1952 zu benennen. Sartres vernichtende Rezension von *L'Homme révolté* in *Les Temps Modernes* beendete die Freundschaft endgültig. Die Kontroverse war tiefgreifender als im Vortrag dargestellt. Quelle: Keine unabhängige Quelle gefunden — basiert auf Standardbiografien (Todd, Lottman)
+> Der Vortrag deutet Camus' Haltung zur Revolution an, ohne den dramatischen Bruch mit Sartre 1952 zu benennen. Im Mai 1952 verriss Francis Jeanson *L'Homme révolté* in Sartres Zeitschrift *Les Temps modernes*; Camus antwortete, und im August 1952 erschien Sartres *Réponse à Albert Camus*. Erst damit war die Freundschaft beendet. Die Kontroverse war tiefgreifender als im Vortrag dargestellt. Quelle: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/camus/) (Jeansons Kritik, die den Bruch auslöste) · [[DenkerVita/Albert Camus|Vita Camus]]
+> *(Korrigiert 16.11.2026: Hier stand, Sartre selbst habe die Rezension geschrieben.)*
 
 ---
 

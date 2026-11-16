@@ -23,7 +23,7 @@ tags: [denker-vita, philosophie, mystik, frankreich]
 > [!info] Wer spricht?
 > **Simone Adolphine Weil** (*3. Februar 1909, Paris – 24. August 1943, Ashford, Kent*) — Philosophin, Mystikerin, Gewerkschafterin, Fabrikarbeiterin. Nicht zu verwechseln mit Simone de Beauvoir (der sie an der Sorbonne begegnete) und nicht mit der Politikerin Simone Veil (1927–2017).
 >
-> Glänzende Absolventin der École normale supérieure, Schülerin des Philosophen Alain. Ließ sich Ende 1934 vom Schuldienst beurlauben und ging als ungelernte Arbeiterin an die Maschinen — Alsthom, Carnaud, Renault —, um am eigenen Körper zu erfahren, was Industriearbeit mit einem Menschen macht. 1936 Spanien, Kolonne Durruti. Ab 1935 mystische Erfahrungen, die sie dem Christentum zuführten, ohne dass sie sich taufen ließ. 1942 Flucht über Marseille und New York nach London, Arbeit für de Gaulles France Libre. Gestorben mit 34.
+> Glänzende Absolventin der École normale supérieure, Schülerin des Philosophen Alain. Ließ sich Ende 1934 vom Schuldienst beurlauben und ging als ungelernte Arbeiterin an die Maschinen — Alsthom, Carnaud, Renault —, um am eigenen Körper zu erfahren, was Industriearbeit mit einem Menschen macht. 1936 Spanien, Kolonne Durruti. Ab 1935 drei Berührungen mit dem Katholizismus, 1938 in Solesmes eine mystische Erfahrung; sie führten sie zum Christentum, ohne dass sie sich taufen ließ. 1942 Flucht über Marseille und New York nach London, Arbeit für de Gaulles France Libre. Gestorben mit 34.
 >
 > Zu Lebzeiten erschien kein einziges Buch von ihr, nur Zeitschriftenaufsätze — teils unter Pseudonym. Alles, was heute als ihr Werk gilt, wurde aus Heften, Briefen und liegengebliebenen Manuskripten posthum zusammengesetzt.
 >

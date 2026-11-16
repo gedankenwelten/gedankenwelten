@@ -508,6 +508,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Stephan Marks|Stephan Marks]]** — Sozialwissenschaftler und Supervisor (*1951, Freiburg); fand in Interviews mit ehemaligen Hitler-Anhängern die Scham als Schlüssel (*Warum folgten sie Hitler?*, 2007) und lehrt seit *Scham – die tabuisierte Emotion* (2007), Scham zuzumuten, ohne zu beschämen
 
+**[[DenkerVita/Udo Marquardt|Udo Marquardt]]** — Philosoph und Radioautor (Jg. 1959, Unkel), promoviert über die Zeit bei Aristoteles; *Zeit und Mensch* (2024): Wir haben vergessen, dass Zeit wir selber sind
+
 **[[DenkerVita/Thomas Eichstaedt|Thomas „Eichi" Eichstädt]]** — Aussteiger aus der Neonazi-Szene der 90er (Neubrandenburg); heute Trainer des FC Pio für junge Geflüchtete im AWO-Jugendclub Torgelow; Doku *Im Osten was Neues* (ZDF 2025)
 
 **[[DenkerVita/Felix Benneckenstein|Felix Benneckenstein]]** — Ex-Neonazi aus Bayern (Liedermacher „Flex“, ~2001–2011), Ausstieg mit EXIT; Gründer der Aussteigerhilfe Bayern, begleitet heute selbst Ausstiege
@@ -616,7 +618,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
 
-**[[DenkerVita/Pascal Kaufmann|Pascal Kaufmann]]** — Neurowissenschaftler & Unternehmer (Schweiz); Gründer Alpine AI (Swiss/European sovereign AI, 2023), Lab42 (2022), Starmind AG (2010); Kernthese: Vertrauen als wichtigste KI-Währung; Swiss GPT = europäisches Datenschutz-First-Modell; Wettbewerb durch Kompetenz-Differenzierung statt Isolation; WEF-Referent, 3× Top Digital Leader Bilanz, EY Entrepreneur of the Year Finalist 2015
+**[[DenkerVita/Pascal Kaufmann|Pascal Kaufmann]]** — Neurowissenschaftler & Unternehmer (Schweiz); Mitgründer von Starmind (2010), Lab42 (2022) und AlpineAI (2023, SwissGPT), Gründer der Mindfire-Stiftung (2017); will den „Brain Code“ knacken und hält Vertrauen für das, was KI-Modelle noch unterscheidet
 
 **[[DenkerVita/Blaise Pascal|Blaise Pascal]]** — Mathematiker, Physiker, Erfinder und religiöser Denker (1623–1662); Wahrscheinlichkeitsrechnung mit Fermat, Rechenmaschine, Nachweis von Luftdruck und Vakuum — nach der mystischen Nacht von 1654 die Wende zur Menschenbetrachtung; die unvollendeten *Pensées* (postum 1670)
 

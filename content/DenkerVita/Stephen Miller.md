@@ -115,7 +115,7 @@ Miller hat kein eigenes Buch veröffentlicht. Sein Werk sind Reden, Dekrete und 
 - [[DenkerVita/Donald Trump|Donald Trump]] — Er hat Miller seit 2016 gehalten und nach der Wahlniederlage befördert. Guerrero beschreibt den Unterschied: Miller ein „true ideologue“, Trump „more motivated by self-interest“.
 - [[DenkerVita/Hannah Arendt|Hannah Arendt]] — Die stärkste Gegenstimme. Ihr „Recht, Rechte zu haben“ ist, was Millers Politik angreift, und ihr Satz, dass Gehorsam unter Erwachsenen Zustimmung ist, verweigert den Beamten die Immunität, die er ihnen verspricht.
 - [[DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]] — Ihre Tiefengeschichte von Scham und Stolz erklärt, warum die Rolle des Verfolgten politisch trägt; bei Miller fehlt der materielle Verlust, aus dem sie in Pikeville die Scham ableitet.
-- [[DenkerVita/Bernd Pickert|Bernd Pickert]] — Der taz-Redakteur nannte Miller am 4. November 2026 als den, der Trumps Projekt nach den Midterms weiterträgt. Zwei Tage später wurde Miller Stabschef.
+- [[DenkerVita/Bernd Pickert|Bernd Pickert]] — Der taz-Redakteur nannte Miller am 4. November 2026 als den, der Trumps Projekt nach den Midterms weiterträgt. Zwei Tage später gab Trump bekannt, dass Miller Stabschef wird; im Amt ist er seit dem 9. November.
 
 ## Gedankenwelten-Notes
 

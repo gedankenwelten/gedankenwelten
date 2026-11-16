@@ -23,7 +23,7 @@ Quelle: [re:publica 26 — Europas KI-Zukunft: Gefangen im Lock-in oder souverä
 > **Nicole Büttner** — Tech-Unternehmerin, Gründerin & CEO von Merantix Momentum (KI-Integration für Unternehmen), Generalsekretärin der FDP (bis Mai 2026), Co-Gründerin AI Campus Berlin. Selbstbezeichnung: „Techoptimistin". Investiert in frühphasige KI-Startups.
 > → [[DenkerVita/Nicole Buettner|DenkerVita]]
 >
-> **Pascal Kaufmann** — Neurowissenschaftler und Unternehmer (Schweiz), Gründer von Alpine AI und Swiss GPT. WEF-Referent, bekannt für seine These: *Vertrauen ist die wichtigste KI-Währung*. Kernprojekt: dezentrale, in Schweizer Bergbunkern betriebene KI-Infrastruktur.
+> **Pascal Kaufmann** — Neurowissenschaftler und Unternehmer (Schweiz), Mitgründer und Verwaltungsratspräsident von AlpineAI (SwissGPT), Gründer der Mindfire-Stiftung und des KI-Labors Lab42 in Davos. Seine These im Panel: *„Mit KI kann man sich nicht differenzieren, mit Vertrauen eben schon.“* Kernprojekt: eine KI, die nach Firmenangaben auf eigener Hardware in Schweizer Rechenzentren läuft.
 > → [[DenkerVita/Pascal Kaufmann|DenkerVita]]
 >
 > **Moderation:** Celine Nauer · **Partner:** Friedrich-Naumann-Stiftung für die Freiheit (FDP-nah)
@@ -50,7 +50,7 @@ Kaufmann benennt etwas Kulturelles: Die Einschusslöcher auf der Museumsinsel, d
 
 [▶ 7:38](https://www.youtube.com/watch?v=Vp9rtv5cWgw&t=458) — Das Panel dreht hier die Perspektive um. Es geht nicht um Defizit — es geht um Nichteinsatz vorhandener Ressourcen. Kaufmann: ETH Zürich und vergleichbare europäische Hochschulen belegen Weltspitzenplätze im Citation Impact für KI-Forschung. Der Global AI Award wird in Davos vergeben, nicht in Silicon Valley. *„Wir sind die Ricola. Wer hat's erfunden? — Die Schweizer. Und wir machen nichts draus."*
 
-Nicole Büttner ergänzt mit einer Zahl, die die Diskussion über Europas wirtschaftliche Bedeutung anders einrahmt: 700 Millionen Europäer multipliziert mit der Kaufkraft ergeben einen Markt, der den amerikanischen übersteigt. Das ist keine Beruhigungspille — es ist ein strategisches Argument. Wer diesen Markt versteht und bedient, braucht keine amerikanische Reichweite.
+Kaufmann legt eine Zahl nach, die die Diskussion über Europas wirtschaftliche Bedeutung anders einrahmt: 700 Millionen Europäer multipliziert mit der Kaufkraft ergeben einen Markt, der den amerikanischen übersteigt. Das ist keine Beruhigungspille — es ist ein strategisches Argument. Wer diesen Markt versteht und bedient, braucht keine amerikanische Reichweite.
 
 Die Pointe: Europa redet über sich selbst als Nachzügler, obwohl es in der Spitzenforschung, in Lebensqualität, in öffentlicher Infrastruktur oft führend ist. Kaufmanns Vergleich — öffentlicher Nahverkehr in europäischen Städten versus „Entwicklungsland plus" in den USA — ist polemisch, aber er markiert einen echten Kontrast. Europa hat Substanz. Es braucht Selbstbewusstsein.
 
@@ -101,16 +101,16 @@ Das ist die optimistische Version. Die unbequemere Erklärung, die im Panel nich
 
 [▶ 12:10](https://www.youtube.com/watch?v=Vp9rtv5cWgw&t=730) — Das stärkste eigenständige Argument des Panels kommt von Pascal Kaufmann und es ist nicht regulatorisch, sondern produktstrategisch: In einer Welt, in der alle KI haben, wird Vertrauen die wichtigste Differenzierung.
 
-Kaufmann trägt im Panel ein Hörgerät im Gehörgang — ein GPT, das in Echtzeit mitflüstert. Und er stellt eine Frage, die konkret ist: *„Sitzt da jetzt im Ohr ein Trump aus den USA, ein Don Musk oder Xi Jinping aus China — oder irgend so ein spröder Schweizer, der den Datenschutz ernst nimmt?"* Das ist keine rhetorische Übung. Swiss GPT läuft auf Infrastruktur in Schweizer Bergbunkern, 60+ Institutionen setzen es ein, darunter Bundesbehörden und Krankenhäuser.
+Kaufmann trägt im Panel ein Hörgerät im Gehörgang — ein GPT, das in Echtzeit mitflüstert. Und er stellt eine Frage, die konkret ist: *„Sitzt da jetzt im Ohr ein Trump aus den USA, ein Don Musk oder Xi Jinping aus China — oder irgend so ein spröder Schweizer, der den Datenschutz ernst nimmt?"* Das ist keine rhetorische Übung. Nach Firmenangaben läuft SwissGPT auf eigener Hardware in Schweizer Rechenzentren; als Einsatzorte nennt Kaufmann im Panel Spitäler, die Bundesebene und Atomkraftwerke.
 
 Das Argument lautet: Mit KI kann man sich nicht differenzieren, weil alle Modelle konvergieren. Mit Vertrauen schon — weil Vertrauen an Kultur, Rechtsstaat, Geschichte gebunden ist. Die Schweiz hat diesen „Trust Tag" glaubwürdiger als die USA und China.
 
-Was daran klug ist: Es verwandelt einen scheinbaren Nachteil (kleinerer Markt, strengerer Datenschutz) in einen Vorteil. Was nicht diskutiert wird: Kaufmanns Modell setzt Vertrauen mit *geographischer Herkunft* gleich — Schweizer Bergbunker als Garantie. Aber die Geschichte digitaler Infrastruktur, der wir wirklich vertrauen, erzählt eine andere Geschichte. Linux, die Internetprotokolle, Signal — sie sind vertrauenswürdig nicht weil sie in Schweden oder Deutschland liegen, sondern weil ihr Code offen und prüfbar ist. Das ist eine grundlegend andere Architektur von Vertrauen: nicht Herkunft, sondern Transparenz. Kaufmanns Swiss GPT ist proprietär. Man vertraut nicht dem Code — man vertraut der Marke.
+Was daran klug ist: Es verwandelt einen scheinbaren Nachteil (kleinerer Markt, strengerer Datenschutz) in einen Vorteil. Was nicht diskutiert wird: Kaufmanns Modell setzt Vertrauen mit *geographischer Herkunft* gleich — Schweizer Rechenzentren als Garantie. Aber die Geschichte digitaler Infrastruktur, der wir wirklich vertrauen, erzählt eine andere Geschichte. Linux, die Internetprotokolle, Signal — sie sind vertrauenswürdig nicht weil sie in Schweden oder Deutschland liegen, sondern weil ihr Code offen und prüfbar ist. Das ist eine grundlegend andere Architektur von Vertrauen: nicht Herkunft, sondern Transparenz. Kaufmanns Swiss GPT ist proprietär. Man vertraut nicht dem Code — man vertraut der Marke.
 
 Das ist kein Nischenargument: Die EU-Kommission selbst diskutiert seit 2023 das Modell öffentlich auditierter, Open-Weight-Modelle als Alternative zu proprietären Anbietern — egal ob amerikanisch oder schweizerisch. Die Vertrauensfrage bleibt im Panel ungestellt: *Was genau vertrauen wir hier eigentlich — der Technologie oder dem Unternehmen?*
 
 > [!question] Weitergedacht
-> Kaufmann unterscheidet nicht zwischen Vertrauen durch Herkunft (schweizer Bergbunker) und Vertrauen durch Transparenz (offener Code, öffentliche Auditierung). Könnte ein europäisches Open-Source-Modell mehr Vertrauen erzeugen als Alpine AI — und warum ist diese Option im Panel unsichtbar?
+> Kaufmann unterscheidet nicht zwischen Vertrauen durch Herkunft (Schweizer Rechenzentren) und Vertrauen durch Transparenz (offener Code, öffentliche Auditierung). Könnte ein europäisches Open-Source-Modell mehr Vertrauen erzeugen als Alpine AI — und warum ist diese Option im Panel unsichtbar?
 
 ---
 
@@ -162,11 +162,11 @@ Dieses Modell existiert in der Diskussion — das EU-Projekt „Gaia-X" war ein 
 > Quelle: [US-Giganten dominieren Europas Cloud-Markt — All About Security](https://www.all-about-security.de/us-giganten-dominieren-europas-cloud-markt-europaeische-anbieter-kaempfen-mit-stagnierendem-marktanteil/)
 
 > [!warning] Vereinfacht — „Global AI Award" als Beweis europäischer Stärke
-> Der Award heißt korrekt **Global Swiss AI Award** — keine neutrale internationale Auszeichnung, sondern eine Schweizer Initiative. Kaufmann ist selbst Präsident dieser Organisation und erwähnt das im Panel nicht. Der Award 2025 ging an das Transformer-Team (Uszkoreit, Parmar u.a.) — mehrheitlich US-basierte Forscher, was Kaufmanns Framing als Beleg europäischer Stärke zusätzlich relativiert.
-> Quelle: [Global Swiss AI Award 2025 — Pressemitteilung](https://cdn.prod.website-files.com/5e71f505e224b656715c1753/6797407f9ba3f56735e9c37e_Press%20Release_Global%20Swiss%20AI%20Award_2024.pdf)
+> Der Award heißt korrekt **Global Swiss AI Award** — keine neutrale internationale Auszeichnung, sondern eine Schweizer Initiative. Vergeben wird er von Kaufmanns eigener Mindfire-Stiftung, deren Stiftungsrat er präsidiert; das erwähnt er im Panel nicht. Bei der Verleihung im Januar 2025 in Davos ging er an das Transformer-Team (Uszkoreit, Parmar u.a.) — mehrheitlich US-basierte Forscher, was Kaufmanns Framing als Beleg europäischer Stärke zusätzlich relativiert.
+> Quelle: [Global Swiss AI Award, Verleihung Januar 2025 — Pressemitteilung](https://cdn.prod.website-files.com/5e71f505e224b656715c1753/6797407f9ba3f56735e9c37e_Press%20Release_Global%20Swiss%20AI%20Award_2024.pdf)
 
-> [!danger] Falsch — „700 Millionen Europäer" als EU-Marktgröße
-> Die EU hat laut Eurostat rund 450 Millionen Einwohner (Stand 2025). Büttners Zahl von 700 Millionen entspricht ungefähr der Bevölkerung des geographischen Europas inkl. Nicht-EU-Länder (Russland, Türkei, Ukraine) — nicht dem Binnenmarkt. Das Grundargument (Europa als großer Markt) bleibt strukturell richtig; die konkrete Zahl ist jedoch deutlich falsch.
+> [!warning] Vereinfacht — „700 Millionen Europäer" als ein Markt
+> Für den Kontinent stimmt die Größenordnung: Europa hatte 2018 gut 745 Millionen Einwohner ([Wikipedia, Demographics of Europe](https://en.wikipedia.org/wiki/Demographics_of_Europe)), dazu zählen aber Russland, die Ukraine und der europäische Teil der Türkei. Der gemeinsame Markt, um den es Kaufmann geht, ist kleiner: Die EU hat laut Eurostat rund 450 Millionen Einwohner (Stand 2025). Das Grundargument (Europa als großer Markt) trägt; als Marktgröße ist die Zahl zu hoch.
 > Quelle: [EU-Bevölkerung 450,4 Millionen 2025 — Eurostat via hoinews.ch](https://hoinews.ch/de/Die-Bev%C3%B6lkerung-der-Europ%C3%A4ischen-Union-w%C3%A4chst-weiterhin-und-wird-im-Jahr-4504-2025-Millionen-Einwohner-erreichen/)
 
 > [!warning] Vereinfacht — Nicole Büttner als FDP-Generalsekretärin
@@ -189,7 +189,7 @@ Dieses Modell existiert in der Diskussion — das EU-Projekt „Gaia-X" war ein 
 - [EU AI Act — Volltext und Erläuterungen](https://artificialintelligenceact.eu) — Primärquelle zum im Panel kritisierten Regelwerk
 - [QS Rankings — Data Science and Artificial Intelligence 2024](https://www.topuniversities.com/university-subject-rankings/data-science-artificial-intelligence/2024) — Grundlage für ETH-Einordnung
 - [US-Dominanz im europäischen Cloud-Markt](https://www.all-about-security.de/us-giganten-dominieren-europas-cloud-markt-europaeische-anbieter-kaempfen-mit-stagnierendem-marktanteil/) — Marktanteilsdaten
-- [Global Swiss AI Award 2025 — Pressemitteilung](https://cdn.prod.website-files.com/5e71f505e224b656715c1753/6797407f9ba3f56735e9c37e_Press%20Release_Global%20Swiss%20AI%20Award_2024.pdf) — Kaufmanns Interessenkollision beim Award
+- [Global Swiss AI Award, Verleihung Januar 2025 — Pressemitteilung](https://cdn.prod.website-files.com/5e71f505e224b656715c1753/6797407f9ba3f56735e9c37e_Press%20Release_Global%20Swiss%20AI%20Award_2024.pdf) — Kaufmanns Interessenkollision beim Award
 
 ---
 
@@ -210,7 +210,7 @@ Büttner und Kaufmann beschreiben Europa als passiven Empfänger amerikanischer 
 Janssen diagnostiziert, dass Nvidia „nicht mehr für Menschen baut" — KI-Infrastruktur ist explizit auf Kapitalakkumulation ausgerichtet, nicht auf Gesellschaftsnutzen. Büttner und Kaufmann argumentieren dagegen: Souveränität bedeutet, eigene Infrastruktur zu schaffen, die dem europäischen Markt und seinen Werten dient. Janssen zeigt das strukturelle Problem, das Büttner/Kaufmann mit europäischer Gegenmacht lösen wollen.
 
 ### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und Tech-Eliten]]
-Nosthoff analysiert kybernetische Herrschaft als technokratisches Staatsverständnis. Kaufmanns Swiss GPT in Bergbunkern ist der konkrete Versuch einer Alternative: Vertrauen statt Steuerung, institutionelle Architektur statt Plattform-Souveränität. Beide Notes kreisen um dieselbe Frage: Wer hält die kybernetischen Hebel?
+Nosthoff analysiert kybernetische Herrschaft als technokratisches Staatsverständnis. Kaufmanns SwissGPT in Schweizer Rechenzentren ist der konkrete Versuch einer Alternative: Vertrauen statt Steuerung, institutionelle Architektur statt Plattform-Souveränität. Beide Notes kreisen um dieselbe Frage: Wer hält die kybernetischen Hebel?
 
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
@@ -250,3 +250,8 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte
 > - Kaufmann sagt, KI ist Winner-takes-all — und will, dass Europa gewinnt. Aber wenn jemand gewinnt, verlieren andere. Wer verliert, wenn Europas Alpine AI gewinnt?
 > - Beide kritisieren DSGVO als gescheitert — und beide haben als Unternehmer davon profitiert, dass die Umsetzung schwach war. Ist das eine Perspektive oder ein Interessenkonflikt?
 > - Das CERN wurde ohne Milliardäre gegründet und produzierte das WWW. Warum ist ein KI-CERN nicht Teil der Souveränitätsdiskussion — und was sagt es, dass es im Panel nicht einmal als Hypothese auftaucht?
+
+---
+
+> [!note] Korrekturnotiz, 16.11.2026
+> Die Zahl „700 Millionen Europäer“ hatten wir Nicole Büttner zugeschrieben; Transkript und Standbild zeigen, dass Pascal Kaufmann sie nennt. Der Faktencheck dazu hieß „Falsch“, nun „Vereinfacht“: Für den Kontinent stimmt die Größenordnung, als gemeinsamer Markt nicht. Gestrichen haben wir die „Bergbunker“ und „60+ Institutionen“, die sich nicht belegen ließen (AlpineAI nennt Schweizer Rechenzentren), und die Rolle als WEF-Referent. Den Global Swiss AI Award bekam das Transformer-Team bei der Verleihung im Januar 2025; vergeben wird er von Kaufmanns Mindfire-Stiftung.

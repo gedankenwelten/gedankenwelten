@@ -383,6 +383,9 @@ Bei der Elite sind sich die beiden Kontrahenten einig: Wer 1990 kam, brachte sei
 
 Uwe Krüger beschreibt dasselbe Prinzip für Redaktionen: Das liberal-intellektuelle Milieu ist überrepräsentiert, man sucht sich Leute, „die zu uns passen“, und ganze Milieus fallen aus dem Blick.
 
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Tom Ockers — Schattenmacht BlackRock]]
+Dieselbe Frage von der anderen Seite: nicht wer aufsteigt, sondern was ein Vermögensverwalter an Stimmrechten in Konzernen hält, und welche Drehtüren in die Politik führen.
+
 ---
 
 ## Weiterdenken

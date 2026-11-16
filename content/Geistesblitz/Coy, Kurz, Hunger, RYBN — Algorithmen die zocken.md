@@ -299,6 +299,9 @@ Ein Prüffall, die Übertragung ist unsere: Börsen holen ihre Rente aus dem Ver
 
 Misselhorn beantwortet das Dilemma des autonomen Fahrens mit Infrastruktur, eigenen Spuren, damit die Situation nicht entsteht. Dieselbe Logik haben Budishs Sammelauktionen und die Verzögerung der Börse IEX. Die Reibung: RYBN nennt mit Rouvroy genau diese Umgebungsgestaltung eine Regierungsform, die verhindert, statt zu verstehen.
 
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Tom Ockers — Schattenmacht BlackRock]]
+Derselbe Flash Crash, gesehen vom größten Vermögensverwalter aus: ETFs als Weg, auf dem der Ausverkauf lief.
+
 ---
 
 ## Weiterdenken

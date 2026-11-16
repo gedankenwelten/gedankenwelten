@@ -273,6 +273,6 @@ Ein Widerstand, der kein Heldentum sein wollte und nach dem Tod zum Heldenmythos
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Meier sagt, das wirkliche Leid des Einzelnen lasse sich nicht vermitteln. *Wenn das stimmt, was tut dann ein Roman, der genau das versucht, und warum lesen ihn Millionen ausgerechnet, während sie es selbst erleben?*
 > - Rieux' Helfer handeln ohne Hoffnung auf eine bessere Welt. *Trägt eine solche Ethik auch durch eine Krise, die nicht von selbst „im Januar ihre Kraft verliert“, sondern Jahrzehnte dauert, wie das Klima?*
-> - Die Pariser Kritiker warfen Camus vor, er habe die Täter der Besatzung in einen Bazillus verwandelt. *Wo erzählen wir heute Menschengemachtes als Naturereignis, und wem nützt das?*
+> - Kritiker wie später Roland Barthes warfen Camus vor, er habe die Täter der Besatzung in einen Bazillus verwandelt. *Wo erzählen wir heute Menschengemachtes als Naturereignis, und wem nützt das?*
 > - Meier deutet die fehlenden Araber als anthropologische, nicht koloniale Entscheidung. *Kann eine Geschichte über „alle Menschen“ glaubwürdig sein, wenn die Mehrheit der Stadt darin nicht vorkommt?*
 > - Nach dem Fest bleiben die Einzelnen mit ihren Wunden allein. *Was hätte eine Gesellschaft nach 2020 tun müssen, damit die Rückkehr zur Normalität die Gezeichneten nicht an den Rand drängt?*

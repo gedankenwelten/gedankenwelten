@@ -77,7 +77,7 @@ Quelle: [Siegen um jeden Preis? | Der Trump Effekt #79 | auslandsjournal – der
 
 [▶ 3:03](https://www.youtube.com/watch?v=iX_qh2O7OuI&t=183) — Am Tag nach der Wahl sind in Israel etwa
 60 Prozent der Stimmen ausgezählt, und Katrin Eigendorf beschreibt ein Bild, das die meisten Beobachter nicht
-erwartet hatten. Die Koalition von Benjamin Netanjahu fällt nach diesem Stand von 64 auf 54 Sitze und kann allein
+erwartet hatten. Die Koalition von Benjamin Netanjahu fällt nach diesem Stand von 64 Sitzen bei der Wahl 2022 auf 54 Sitze und kann allein
 nicht mehr regieren *(nach der Endauszählung vom 29.10.: 53 Sitze, Likud 27, Eisenkot 21 → [[#Faktencheck|Faktencheck]])*. Der Likud selbst ist mit rund 26 Sitzen stärkste Partei geworden, stärker als vorhergesagt.
 Gadi Eisenkot, der frühere Generalstabschef, den man den „Anti-Bibi“ nennt, liegt bei etwa 20 Sitzen und hat
 ebenfalls keine Mehrheit. Die eigentlichen Gewinner sind die arabischen Parteien, ein Bündnis aus drei Parteien

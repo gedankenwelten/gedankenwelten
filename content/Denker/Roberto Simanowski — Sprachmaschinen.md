@@ -336,6 +336,9 @@ Dieselbe Konferenz, dasselbe Leitwort. Das Quartett streitet, ob Großzügigkeit
 
 Die Eule in den Zahlen ist der Akzent, den man nicht hört, in der Maschine: Ein Modell übernimmt eine Vorliebe aus Daten, in denen sie nicht vorkommt. Der Film fragt außerdem, wessen Wissen genommen wurde; Simanowski fragt, wessen Stimme danach überall spricht.
 
+### → [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
+Dieselben Belege, andere Frage: Anderl fragt, was die Bequemlichkeit der Maschine mit dem eigenen Denken macht.
+
 ---
 
 ## Weiterdenken

@@ -252,6 +252,9 @@ Der Anlass dieser Note, von unten gesehen. Sieben von zehn Amerikanern lehnen ei
 
 Zwei Angriffe auf dieselbe Figur: Neue Akropolis zerlegt den Homo oeconomicus als Egoisten, der ARTE-Film als kühlen Rechner. Beim Wort „Gier" reiben sie sich. Dort ist sie eine falsche Leitdoktrin, hier nimmt Beck ihr den moralischen Beiklang, und Payzan-LeNestour streicht das Wort ganz.
 
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Tom Ockers — Schattenmacht BlackRock]]
+Wer die Gefühle der Anleger bündelt: Vermögensverwalter wie BlackRock, deren Indexfonds im Flash Crash eine Rolle spielten.
+
 ---
 
 ## Weiterdenken

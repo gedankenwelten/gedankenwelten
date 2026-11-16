@@ -163,7 +163,7 @@ International ist das keine Frage. Ein Spannungsproblem → BYD-Container wird b
 
 [▶ 31:17](https://www.youtube.com/watch?v=GPaLfWkkMeA&t=1877)
 
-Während die Politik über einen Industriestrompreis als staatliche Subvention diskutiert, zeigt Specht das eigentlich attraktivste Modell: Direktversorgung.
+Während die Politik über einen Industriestrompreis als staatliche Subvention diskutiert, zeigt Specht das eigentlich attraktivste Modell: Direktversorgung. *(Nachtrag 16.11.2026: Der Industriestrompreis ist inzwischen beschlossen, für 2026 bis 2028 mit Zielpreis 5 ct/kWh, Antrag beim BAFA ab Dezember 2026 → [[Zeitgeist/Tom Krebs — Kapital und Krise#Faktencheck|Tom Krebs, Faktencheck]].)*
 
 In China, Indien, dem Nahen Osten werden Industriezentren direkt mit eigenen Solar- oder Windparks versorgt — teils über lange Leitungen. Der abgerechnete Strom kommt zu Produktionskosten plus Aufschlag: **1 bis 3 Cent pro Kilowattstunde**.
 

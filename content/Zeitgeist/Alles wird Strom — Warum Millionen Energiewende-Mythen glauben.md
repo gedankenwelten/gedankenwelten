@@ -14,6 +14,7 @@ tags:
   - psychologie
   - deutschland
   - year-2026
+  - energiepolitik
 aliases:
   - Die dümmsten Aussagen zur Energiewende
   - Alles wird Strom Energiewende-Mythen
@@ -359,6 +360,12 @@ Die Nachbesprechung zum gesäten Zweifel führt in die Frage „Wie viel darf ma
 ### → [[Zeitgeist/Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer|Claudia Wittig und Rainer Rothfuß — Frieden mit Russland über die Brandmauer]]
 
 Nach demselben Muster der halben Wahrheit spricht der Geograph und AfD-Abgeordnete Rainer Rothfuß von einer „CO2-Religion“: Weil CO2 im Eisbohrkern der Erwärmung nachlaufe, sei es nicht ursächlich.
+
+### → [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende]]
+Der Streit um Reiches Redispatch-Zahlen, wie er im Presseclub geführt wurde; die Aufschlüsselung hier zeigt, welcher Posten welche Zahl ist.
+
+### → [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Michael Sterner — Reiche gegen Marktwirtschaft]]
+Sterners „weniger als eine Milliarde“ meint den Anteil, der an abgeregelte Wind- und Solaranlagen geht, nicht das ganze Engpassmanagement.
 
 ---
 

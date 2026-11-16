@@ -120,11 +120,13 @@ Weidenfeld merkt an, dass die Verdachtshaltung das eigentliche Problem sei: *„
 > [!warning] Vereinfacht — Solarpanelpreise in 10 Jahren halbiert
 > Die Aussage untertreibt den tatsächlichen Preisverfall erheblich. Laut IRENA/Our World in Data fielen die LCOE von Solar-PV um ca. 88 % in 15 Jahren (2009–2024). Allein 2015–2024 sanken die Modulpreise um ca. 75–80 %. „Halbiert" ist eine starke Untertreibung. Quelle: [Our World in Data — Renewables Growth](https://ourworldindata.org/cheap-renewables-growth)
 
-> [!warning] Vereinfacht — 500 Mio € Entschädigung abgeregelter Windräder
-> Die Größenordnung ist plausibel, aber nicht als eigenständige Position verifizierbar. Seit Redispatch 2.0 (Okt. 2021) werden Einspeisemanagement und konventioneller Redispatch zusammen erfasst. Eine exakte Trennung ist in öffentlichen Quellen schwer zu isolieren. Quelle: [Wikipedia — Redispatch](https://de.wikipedia.org/wiki/Redispatch_(Stromnetz))
+> [!success] Bestätigt — 500 Mio € Entschädigung abgeregelter Windräder
+> Die Bundesregierung weist die Entschädigung für abgeregelte Erneuerbare-Energien-Anlagen inzwischen getrennt aus: 2024 rund 554 Mio. €, 2025 rund 433 Mio. €. Die Größenordnung stimmt. Quelle: [Bundesregierung, Antwort auf eine Kleine Anfrage, hib 689/2026](https://www.bundestag.de/presse/hib/kurzmeldungen-1210750) · Aufschlüsselung auch in [[Zeitgeist/Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Wenn die Ministerin selbst falsch rechnet|Alles wird Strom]]
+> *(Korrigiert 16.11.2026: Hier stand „nicht als eigenständige Position verifizierbar“.)*
 
 > [!warning] Vereinfacht — 2,5 Mrd € Redispatch-Kosten
-> Die Redispatch-Kosten schwanken stark: 2022: 2,69 Mrd. €, 2023: 3,09 Mrd. €, 2024: 1,5 Mrd. €. Die Angabe von 2,5 Mrd. liegt im Mittelfeld, trifft aber kein spezifisches Jahr genau. Trend ist fallend dank Netzausbau. Quelle: [Wikipedia — Redispatch](https://de.wikipedia.org/wiki/Redispatch_(Stromnetz))
+> Die Kosten des Netzengpassmanagements lagen 2022 bei 2,69 Mrd. €, 2023 bei 3,09 Mrd. €, 2024 bei rund 2,95 Mrd. € und 2025 bei rund 3,08 Mrd. €. Die Angabe von 2,5 Mrd. liegt darunter und trifft kein Jahr; ein fallender Trend ist nicht zu sehen. Der größte Teil davon entfällt auf das Hochfahren konventioneller Kraftwerke und die Netzreserve (2025 gut 80 %), nur ein kleiner Teil auf abgeregelten Ökostrom (siehe oben). Quelle: [Wikipedia — Redispatch](https://de.wikipedia.org/wiki/Redispatch_(Stromnetz)) (2022, 2023) · [Bundesregierung, Antwort auf eine Kleine Anfrage, hib 689/2026](https://www.bundestag.de/presse/hib/kurzmeldungen-1210750) (2024, 2025)
+> *(Korrigiert 16.11.2026: Hier stand für 2024 „1,5 Mrd. €“ und „Trend ist fallend dank Netzausbau“.)*
 
 > [!warning] Vereinfacht — 6,5 Mrd € Netzentgelte-Zuschuss
 > Die Bundesregierung zahlt seit 2023 einen Zuschuss zu den Übertragungsnetzentgelten. 2024 lag dieser bei 5,5 Mrd. €, für 2025/2026 wurden Erhöhungen diskutiert. Die Zahl 6,5 Mrd. ist plausibel, aber eine exakte Bestätigung für ein spezifisches Jahr fehlt. Quelle: [BDEW-Strompreisanalyse](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/) *(genaue Zahl: Keine unabhängige Quelle gefunden)*

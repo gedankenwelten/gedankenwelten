@@ -163,7 +163,7 @@ Nach Trumps Wiederwahl war er sofort wieder im Kampf, diesmal auch gegen das eig
 
 Im **Februar 2026** tauchte er in den veröffentlichten Epstein-Akten auf: mit einem fast zweistündigen Videointerview, das er um 2019 mit Jeffrey Epstein geführt hatte, und mit Dutzenden Nachrichten, in denen er Epstein für seine Europa-Pläne zu gewinnen suchte und sich als Berater von Le Pen, Salvini, Orbán, Farage und der AfD ausgab ([Guardian](https://www.theguardian.com/us-news/2026/feb/05/jeffrey-epstein-files-steve-bannon-european-politics), [Left Foot Forward](https://leftfootforward.org/2026/02/steve-bannon-boasted-about-farage-ties-in-emails-with-epstein/)). Belegt ist dabei die Prahlerei, nicht die Beratung, und auch das passt zu dem, was Paul Lewis 2018 sah. Im September 2026 stand er mit Bernie Sanders auf einer Bühne gegen die Macht der KI-Konzerne; sein Vorschlag, alle Chinesen aus den amerikanischen Laboren zu schicken, lag weit von dem des Senators entfernt ([NPR](https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai)).
 
-Aus dem Abstand von neun Jahren liest sich FRONTLINEs Schluss anders. Der Film meinte, Bannon nutze eine letzte Gelegenheit in seinem Leben, und vermutete das Ende. Die Ideen haben das Amt überlebt. Was Bannon 2017 „Dekonstruktion des Verwaltungsstaats“ nannte, steht in Trumps zweiter Amtszeit in Dekreten: Die Behörden sollten „Personalabbau im großen Stil“ vorbereiten, und Beamte auf politiknahen Stellen sind seit März 2026 jederzeit kündbar. Stephen Miller, den Bannon 2013 als jungen Senatsmitarbeiter fand, sitzt als stellvertretender Stabschef wieder im Weißen Haus. Bannon selbst blieb draußen und laut. Sein Netz ist kleiner, als er es aussehen lässt. Seine Sätze reichen weiter.
+Aus dem Abstand von neun Jahren liest sich FRONTLINEs Schluss anders. Der Film meinte, Bannon nutze eine letzte Gelegenheit in seinem Leben, und vermutete das Ende. Die Ideen haben das Amt überlebt. Was Bannon 2017 „Dekonstruktion des Verwaltungsstaats“ nannte, steht in Trumps zweiter Amtszeit in Dekreten: Die Behörden sollten „Personalabbau im großen Stil“ vorbereiten, und Beamte auf politiknahen Stellen sind seit März 2026 jederzeit kündbar. Stephen Miller, den Bannon 2013 als jungen Senatsmitarbeiter fand, sitzt wieder im Weißen Haus, zuerst als stellvertretender Stabschef, seit dem 9. November 2026 als Stabschef (→ [[Zeitgeist/Al Jazeera — Stephen Millers Krieg|Al Jazeera — Stephen Millers Krieg]]). Bannon selbst blieb draußen und laut. Sein Netz ist kleiner, als er es aussehen lässt. Seine Sätze reichen weiter.
 
 ---
 
@@ -243,7 +243,7 @@ Aus all dem ergibt sich ein Maßstab. Die Macht eines Netzwerkers liest man dara
 > Quelle: [Guardian, Bannon's Europe plan: a look at the law in his 13 targeted countries (21.11.2018)](https://www.theguardian.com/world/2018/nov/21/bannon-europe-plan-law-13-targeted-countries-trump) · [Camera dei deputati, Disciplina dei partiti politici](https://temi.camera.it/leg19DIL/temi/19_tl18_disciplina_dei_partiti_politici)
 
 > [!success] Bestätigt — Stephen Miller sitzt wieder im Weißen Haus
-> Im September 2026 ist Miller stellvertretender Stabschef im Weißen Haus, zuständig für die Einwanderungspolitik, und gilt als Kopf der harten Abschiebelinie.
+> Im September 2026 ist Miller stellvertretender Stabschef im Weißen Haus, zuständig für die Einwanderungspolitik, und gilt als Kopf der harten Abschiebelinie. *(Nachtrag 16.11.2026: Seit dem 9. November ist er Stabschef.)*
 > Quelle: [Guardian, 19.09.2026](https://www.theguardian.com/us-news/2026/sep/19/stephen-miller-trump-migrant-children)
 
 > [!success] Bestätigt — Die „Dekonstruktion des Verwaltungsstaats“ steht in Trumps zweiter Amtszeit in Dekreten
@@ -316,7 +316,7 @@ Nach den Midterms 2026 nennt Bernd Pickert Stephen Miller als den, der das Proje
 
 ### → [[Al Jazeera — Stephen Millers Krieg]]
 
-Der Mann, den Bannon 2013 fand: Fault Lines zeigt, was aus der „Dekonstruktion des Verwaltungsstaats“ wird, wenn jemand sie verwaltet statt sendet. Seit dem 6. November 2026 ist Miller Stabschef.
+Der Mann, den Bannon 2013 fand: Fault Lines zeigt, was aus der „Dekonstruktion des Verwaltungsstaats“ wird, wenn jemand sie verwaltet statt sendet. Seit dem 9. November 2026 ist Miller Stabschef, bekanntgegeben am 6. November.
 
 ---
 

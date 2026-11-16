@@ -356,6 +356,9 @@ Maja Göpel bringt Thiels Antichrist-Rede in Rom und *The Sovereign Individual* 
 
 Die Gegenprobe zur biografischen Methode: Voß und Rudolph verweigern das Personenporträt und lesen stattdessen Thiels *The Straussian Moment* (2004) — geschrieben ein Jahr nach der Gründung von Palantir und, so Voß, genau als dessen Begründung. Dieselbe Symbiose von Staat und Tech-Monopol, die Chaudhry und Hübsch an Thiels Leben nachzeichnen, erscheint dort als politische Theologie: der Westen, der seine Werte nur durch eine Geheimelite sichern kann.
 
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+Was Thiels Firma in den deutschen Polizeien tut: Verträge in vier Ländern, in Baden-Württemberg noch nicht im Einsatz, und warum die Datenanalyse auch ohne Palantir kommt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

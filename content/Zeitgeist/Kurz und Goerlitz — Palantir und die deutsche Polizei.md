@@ -48,7 +48,7 @@ Das ist kein Versprecher — das ist die Marken-DNA eines Unternehmens, das aus 
 
 ## Gotham — die Polizeidatenbank als Black Box
 
-[▶ 9:12](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=552) — Das Produkt, das in Bayern, NRW, Hessen und Baden-Württemberg läuft, heißt Gotham — in jedem Bundesland unter anderem Namen umgelabelt. Die Versprechung: Riesige, heterogene Polizeidaten werden zusammengeführt, voranalysiert, und dann kann die Behörde Abfragen stellen. Der Algorithmus zeigt Treffer an: *„Dieses Kennzeichen, diese Telefonnummer, diese Person — könnte für dich interessant sein."*
+[▶ 9:12](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=552) — Das Produkt, für das Bayern, NRW, Hessen und Baden-Württemberg Verträge haben, heißt Gotham *(in Baden-Württemberg ist es gekauft, aber noch nicht im Einsatz → [[#Faktencheck|Faktencheck]])* — in jedem Bundesland unter anderem Namen umgelabelt. Die Versprechung: Riesige, heterogene Polizeidaten werden zusammengeführt, voranalysiert, und dann kann die Behörde Abfragen stellen. Der Algorithmus zeigt Treffer an: *„Dieses Kennzeichen, diese Telefonnummer, diese Person — könnte für dich interessant sein."*
 
 Das klingt technisch neutral. Es ist es nicht. Kurz benennt das Kernproblem scharf:
 
@@ -137,7 +137,8 @@ Die Eskalationsspirale ist nicht theoretisch — sie läuft gerade.
 ## Faktencheck
 
 > [!success] Bestätigt — Palantir in vier Bundesländern
-> Bayern, NRW, Hessen und Baden-Württemberg nutzen Palantir-Software (Gotham) bei der Polizei. Quelle: [Die Abkehr von Palantir hat begonnen — correctiv.org](https://correctiv.org/aktuelles/gesellschaft-2/2026/05/19/die-abkehr-von-palantir-hat-begonnen/)
+> Bayern, NRW, Hessen und Baden-Württemberg haben Verträge über Palantir-Software (Gotham) für die Polizei. In Baden-Württemberg (Vertrag vom März 2025) ist sie wegen nötiger Vorarbeiten noch nicht im Einsatz. Quelle: [Die Abkehr von Palantir hat begonnen — correctiv.org](https://correctiv.org/aktuelles/gesellschaft-2/2026/05/19/die-abkehr-von-palantir-hat-begonnen/) · [netzpolitik.org — Palantirs Geschäfte in Europa](https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/)
+> *(Korrigiert 16.11.2026: Hier stand, alle vier Länder nutzten die Software.)*
 
 > [!success] Bestätigt — BVerfG-Datenanalyseurteil 2023
 > Das Bundesverfassungsgericht hat am 16. Februar 2023 auf Klagen der GFF gegen Hessen und Hamburg das wegweisende Urteil zur automatisierten Datenanalyse gefällt. Quelle: [BVerfG — Pressemitteilung Nr. 18/2023](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2023/bvg23-018.html)
@@ -152,7 +153,7 @@ Die Eskalationsspirale ist nicht theoretisch — sie läuft gerade.
 > Der Rahmenvertrag mit Palantir wurde vor der parlamentarischen Abstimmung über das Polizeigesetz abgeschlossen; Kosten ca. 25 Millionen Euro über fünf Jahre, ohne Ausstiegsklausel. Quelle: [Palantir im Südwesten — Staatsanzeiger BW](https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/palantir-im-suedwesten-was-die-polizei-software-bedeutet/)
 
 > [!success] Bestätigt — NRW schreibt europaweiten Nachfolger aus
-> NRW hat eine europaweite Ausschreibung für einen Palantir-Nachfolger gestartet, Vertrag bis Oktober 2026 verlängert. Quelle: [NRW sucht Nachfolger für Palantir — Tagesspiegel Background](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/datenrecherche-software-nrw-sucht-neues-palantir)
+> NRW hat eine europaweite Ausschreibung für einen Palantir-Nachfolger gestartet, Vertrag bis Oktober 2026 verlängert. *(Nachtrag 16.11.2026: Inzwischen um ein weiteres Jahr verlängert, laut [netzpolitik.org — Palantirs Geschäfte in Europa](https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/).)* Quelle: [NRW sucht Nachfolger für Palantir — Tagesspiegel Background](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/datenrecherche-software-nrw-sucht-neues-palantir)
 
 > [!success] Bestätigt — Dobrindt-Referentenentwurf zur Bundespolizei-Datenanalyse
 > Ein Referentenentwurf des Bundesinnenministeriums gibt BKA und Bundespolizei Befugnisse zur automatisierten Datenanalyse — und schließt nicht-europäische Anbieter nicht aus. Quelle: [Bundesregierung will KI-Einsatz der Polizei — digitalrechte.de](https://digitalrechte.de/news/bundesregierung-will-ki-einsatz-der-polizei-kommt-jetzt-palantir)

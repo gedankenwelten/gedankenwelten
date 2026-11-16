@@ -59,9 +59,12 @@ Repräsentantenhaus schätzt NBC 259 demokratische Sitze
 Mit dem Sieg von Jonathan Kreiss-Tomkins in Alaska stellen die Demokraten künftig 30 der 50 Gouverneure
 ([Deutschlandfunk, 15.11.](https://www.deutschlandfunk.de/demokrat-gewinnt-gouverneurswahl-in-alaska-100.html)).
 
-Trump erkennt das Ergebnis an: *„Yes, sure I'll accept them. Why wouldn't I?“* Die Schuld gibt er den
+Am Wahlabend erkennt Trump das Ergebnis an: *„Yes, sure I'll accept them. Why wouldn't I?“* Die Schuld gibt er den
 Kandidaten, den Iran-Krieg nennt er eine Last für seine Partei, und für die Zeit danach kündigt er Vetos an
-([CBS](https://www.cbsnews.com/live-updates/election-day-2026-midterms/)). Am Wahltag selbst hielten die
+([CBS](https://www.cbsnews.com/live-updates/election-day-2026-midterms/)). Am 9. November rückt er davon ab und
+fragt auf Truth Social, ohne Belege: *„Does anybody really believe that this ‚Election‘ was honest?“*
+([Al Jazeera, 09.11.](https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections)).
+*(Nachgetragen 16.11.2026, cortex-lint.)* Am Wahltag selbst hielten die
 Gerichte die Grenze, die sie vorher gezogen hatten. Die Klage gegen Alaska ist abgewiesen, die Regierung geht in
 Berufung.
 

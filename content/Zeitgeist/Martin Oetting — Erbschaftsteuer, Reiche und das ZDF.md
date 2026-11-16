@@ -3,7 +3,7 @@ title: "Martin Oetting — Die Erbschaftsteuer, Katherina Reiche und das ZDF"
 date: 28.10.2026
 aktualisiert: 2026-10-28
 raetsel: "Zwei Tanten, zwei Erbschaften. Gewogen wurde nur eine."
-description: "Wer als Neffe eine Million in Aktien erbt, zahlt fast 300.000 Euro, wer eine Million in einer Firma erbt, oft nichts. Martin Oetting rechnet nach — und hört genau hin, wie eine Ministerin darüber redet."
+description: "Wer als Neffe eine Million in Aktien erbt, zahlt knapp 290.000 Euro, wer eine Million in einer Firma erbt, oft nichts. Martin Oetting rechnet nach — und hört genau hin, wie eine Ministerin darüber redet."
 tags:
   - zeitgeist
   - wirtschaft
@@ -47,7 +47,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Martin Oettin
 </details>
 
 > [!abstract] Worum es geht
-> Wer als Neffe eine Million Euro in Aktien erbt, zahlt fast 300.000 Euro Steuer. Wer eine Million in einer Firma erbt, zahlt oft nichts. Gegen diesen Unterschied klagt ein Neffe vor dem Bundesverfassungsgericht, und Martin Oetting, selbst Unternehmer und Mitunterzeichner eines Aufrufs für eine gerechtere Erbschaftsteuer, rechnet in 25 Minuten nach, warum die Begründung dafür wackelt: Die Steuer schuldet der Erbe, nicht die Firma. Danach nimmt er sich eine Pressekonferenz vom 8. Oktober 2026 vor, in der Wirtschaftsministerin Katherina Reiche auf die Frage eines ZDF-Journalisten von Neid spricht, vom Handwerk und von Familienunternehmen. Seine Rechnung trägt weit. Sein Urteil über die beiden Menschen am Mikrofon geht weiter, als das Gesagte hergibt.
+> Wer als Neffe eine Million Euro in Aktien erbt, zahlt knapp 290.000 Euro Steuer. Wer eine Million in einer Firma erbt, zahlt oft nichts. Gegen diesen Unterschied klagt ein Neffe vor dem Bundesverfassungsgericht, und Martin Oetting, selbst Unternehmer und Mitunterzeichner eines Aufrufs für eine gerechtere Erbschaftsteuer, rechnet in 25 Minuten nach, warum die Begründung dafür wackelt: Die Steuer schuldet der Erbe, nicht die Firma. Danach nimmt er sich eine Pressekonferenz vom 8. Oktober 2026 vor, in der Wirtschaftsministerin Katherina Reiche auf die Frage eines ZDF-Journalisten von Neid spricht, vom Handwerk und von Familienunternehmen. Seine Rechnung trägt weit. Sein Urteil über die beiden Menschen am Mikrofon geht weiter, als das Gesagte hergibt.
 
 Quelle: [Katharina Reiche, der ZDF-Redakteur, die Erbschaftssteuer und das Bundesverfassungsgericht](https://www.youtube.com/watch?v=kBPC-yPWOC8) (Martin Oetting, 27.10.2026, 25 Min.) — der kommentierte Ausschnitt stammt aus der [Pressekonferenz zur Herbstprojektion 2026](https://www.youtube.com/live/AIy2Xr-s08c?t=2680) (phoenix, ab 44:40).
 
@@ -304,6 +304,9 @@ Oettings kürzester Gedanke, eine Steuer, die ererbtes Vermögen schont, entsche
 ### → [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]]
 
 Zwei Wochen später kehren die „Steuerlügen“ als Kurzform wieder, verbunden mit den Gen-Z-Protesten und zwei Unternehmern, die von Steuerstolz sprachen.
+
+### → [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+Dieselbe Frage im größeren Rahmen: wessen Kapital arbeitet, und was passiert mit einer Gesellschaft, deren Kuchen nicht mehr wächst.
 
 ---
 

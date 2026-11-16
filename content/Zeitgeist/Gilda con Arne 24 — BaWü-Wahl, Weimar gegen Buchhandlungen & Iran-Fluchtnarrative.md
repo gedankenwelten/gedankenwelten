@@ -169,6 +169,12 @@ Die mediale Frage *„Kommt eine Fluchtwelle?"* behandelt 90 Millionen Menschen 
 
 ---
 
+## Was seither geschah
+
+*Stand: 16.11.2026*
+
+**Die Buchhandlungen.** Am 30.04.2026 untersagte das Verwaltungsgericht Berlin dem Kulturstaatsminister im Eilverfahren, die Betreiberinnen „politische Extremisten“ zu nennen; für diese Bewertung gebe es „keine belastbare Tatsachengrundlage“ ([VG Berlin, Pressemitteilung 22/2026](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2026/pressemitteilung.1666498.php)). Weimer legte keine Beschwerde ein ([taz, 03.06.2026](https://taz.de/Weimer-akzeptiert-Gerichtsbeschluss/!6184145/)). Der Ausschluss vom Preis ist damit nicht zurückgenommen, die Klagen dagegen laufen. Wie das im November auf einem Podium zur Debattenkultur verhandelt wurde: [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon]].
+
 ## Faktencheck
 
 > [!success] Bestätigt: BaWü-Wahlergebnisse

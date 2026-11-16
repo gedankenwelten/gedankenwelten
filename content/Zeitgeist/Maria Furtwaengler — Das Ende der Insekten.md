@@ -282,6 +282,9 @@ Das wachsende Panorama der Reihe. Von Mackensen, Hilbeck, Koböck und Brandt ste
 
 Teil 3 der Reihe. Der Satz aus dem Off, Artenvielfalt entstehe durch Mosaiklandschaften, ist Tscharntkes Lebensthema; er liefert die Zahlen dazu und widerspricht dem Schluss des Films, mehr Bio zu kaufen: Das Siegel prüft weder Feldgröße noch Hecke. Koböcks Kränkung durch das Volksbegehren hat bei ihm ein Gegenstück, die Lobby gewinne, solange die Wähler es nicht zum Kriterium machen.
 
+### → [[Zeitgeist/WDR — Schmutzige Schokolade|WDR — Schmutzige Schokolade]]
+Glyphosat auf den Kakaofeldern der Elfenbeinküste, wo der Film es im Flusswasser messen lässt.
+
 ---
 
 ## Weiterdenken

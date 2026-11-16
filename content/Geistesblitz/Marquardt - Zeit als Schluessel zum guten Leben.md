@@ -1,7 +1,7 @@
 ---
 title: "Udo Marquardt — Zeit als Schlüssel zum guten Leben"
 description: "Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?"
-aktualisiert: 2026-05-20
+aktualisiert: 2026-11-16
 date: 17.05.2026
 tags:
   - geistesblitz
@@ -25,12 +25,15 @@ aliases:
 
 </details>
 
+> [!abstract] Worum es geht
+> Zeit ist kein Ding da draußen, das man sparen könnte, sondern die Spanne zwischen Geburt und Tod, die wir selbst sind. Der Philosoph Udo Marquardt erzählt im Gespräch mit Yves Bossart, wie die Moderne das vergessen hat, wie eine Beschleunigung die nächste nach sich zog, und was dagegen hilft: Rituale, Genügsamkeit, ein Aufenthalt im Kloster. Am Ende steht eine Frage, die vom Ende her auf das Leben blickt: Wer möchte ich gewesen sein?
+
 Quelle: [Jetzt! – Die Zeit als Schlüssel zum guten Leben | Sternstunde Philosophie | SRF Kultur](https://www.youtube.com/watch?v=tHLhqbmfGkg)
 
 > [!info] Wer spricht?
-> **Udo Marquardt** — Philosoph, Autor und Musiker, lebt in Unkel (Rheinland).
+> **Udo Marquardt** — Philosoph, Autor und Musiker, lebt in Unkel am Rhein (Rheinland-Pfalz).
 >
-> Studierte Philosophie in Heidelberg, Luzern und Freiburg — promovierte über Aristoteles' Zeittheorie. Hans-Georg Gadamers Begriff der „erfüllten Momente" prägt sein Denken. Kein klassischer Universitätsphilosoph, sondern Vermittlungsdenker: arbeitete als Redakteur beim ARD Hörfunk, schreibt Radioessays und betreibt zusammen mit seiner Frau Sabine den Theologie-Philosophie-Blog [theophil.online](https://www.theophil.online). Bücher: *Spaziergänge mit Sokrates*, Kriminalromane (*Die Schwarzwaldfalle*) und das Hauptwerk *Zeit und Mensch — Facetten einer Kulturgeschichte* (Schwabe Verlag, 2024 — 5 Jahre geschrieben, täglich von 6–7:30 Uhr vor der Arbeit). Nebenbei Gitarrist und Sänger in einer Rockband. Praktizierender Katholik, kürzlich in den Ruhestand getreten.
+> Studierte Philosophie in Heidelberg, Luzern und Freiburg — promovierte über Aristoteles' Zeittheorie. In Heidelberg hat er Hans-Georg Gadamer noch erlebt. Kein Universitätsphilosoph, sondern Vermittler: arbeitete als freier Redakteur für Philosophie und Kultur beim ARD-Hörfunk, schreibt Radioessays und betreibt zusammen mit seiner Frau Sabine den Theologie-Philosophie-Blog [theophil.online](https://www.theophil.online). Bücher: *Spaziergänge mit Sokrates*, Kriminalromane (*Die Schwarzwaldfalle*) und das Hauptwerk *Zeit und Mensch — Facetten einer Kulturgeschichte* (Schwabe Verlag, 2024, fast fünf Jahre lang geschrieben, werktags von 6 bis etwa 7:30 Uhr vor der Arbeit). Nebenbei Gitarrist und Sänger in einer Rockband. Ein „gläubiger Christ", wie Bossart sagt, inzwischen im Ruhestand.
 >
 > Im Gespräch mit Yves Bossart (SRF Sternstunde Philosophie, 17.05.2026).
 > → [[DenkerVita/Udo Marquardt|DenkerVita]]
@@ -43,22 +46,22 @@ Quelle: [Jetzt! – Die Zeit als Schlüssel zum guten Leben | Sternstunde Philos
 
 Was ist erfüllte Zeit? Marquardt gibt keine abstrakte Antwort, sondern eine phänomenologische: *Zeit, an die ich mich gerne erinnere. Zeit, die in meinem Gedächtnis haften bleibt.*
 
-Der Begriff stammt nicht von ihm, sondern von Hans-Georg Gadamer. Marquardt übernimmt ihn und macht ihn zur Leitfrage seines gesamten Denkens. Erfüllte Momente sind nicht planbar — sie sind die Geburt der Tochter, ein Konzert wo man die Zeit vergisst, ein Gespräch in einem indischen Kloster.
+Den Ausdruck habe er von Hans-Georg Gadamer, sagt Marquardt, „der ist nicht von mir" (Gadamers Aufsatz *Über leere und erfüllte Zeit*, 1969). Erfüllte Momente lassen sich nicht bestellen: vielleicht die Geburt der eigenen Tochter, ein Konzert, bei dem man die Zeit vergisst, Gespräche in einem indischen Kloster. Den Raum für sie muss man sich aber nehmen, und dafür braucht es, sagt er, manchmal „Disziplin, Selbstüberwindung, Selbstkontrolle" ([▶ 16:06](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=966)).
 
 > *„Man steht da drin in diesem Konzert und man vergisst völlig die Zeit und ist nur noch da und ist nur noch jetzt und ist nur noch im Augenblick."*
 
-Das Gefühl der Zeitvergessenheit ist paradoxerweise das Zeichen, dass Zeit gerade am intensivsten erlebt wird. Nicht das Festhalten, sondern das Loslassen schafft Erinnerung.
+Das Vergessen der Uhr ist paradoxerweise das Zeichen, dass Zeit gerade am intensivsten erlebt wird. Ein Tagebuch führt er nicht: Was wirklich toll war, sagt er, bleibt hängen.
 
-Marquardt kennt diesen Moment auch persönlich — nicht aus einem Konzert, sondern aus dem Radio. Abends, im November, kam die Nachricht, dass George Harrison gestorben war. Man spielte *My Sweet Lord*.
+Für die andere Seite der erfüllten Zeit, die Erinnerung, greift Marquardt zu Augustinus' Palast der Erinnerungen und zu Prousts Madeleine, und er hat einen eigenen Madeleine-Moment, aus dem Radio. Abends, im November, kam die Nachricht, dass George Harrison gestorben war. Man spielte *My Sweet Lord*.
 
 [▶ 5:26](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=326)
 
 > *„Und plötzlich war ich in dem Zimmer der Kindheit, in dem ich dieses Lied gehört habe — und konnte mich in diesem Zimmer bewegen, als würde ich drin stehen, und sah alles, und sah plötzlich Dinge, die völlig aus meinem Gedächtnis waren."*
 
-Das ist sein Madeleine-Moment — nicht durch Geschmack wie bei Proust, sondern durch Klang. Musik ist besonders eng mit emotionalem Gedächtnis verknüpft; sie öffnet Räume im Palast der Erinnerung, die man nicht willentlich aufsuchen kann. Das Erfüllende solcher Momente liegt darin, dass sie einem *passieren* — sie lassen sich nicht durch Absicht erzwingen.
+Das ist sein Madeleine-Moment, durch Klang statt Geschmack. Musik ist, wie Bossart anmerkt, eng mit Gefühlen und Erinnerungen verknüpft; sie öffnet Räume im Palast der Erinnerung, die man selbst nicht gefunden hätte. Solche Momente kommen ungerufen. Marquardt hilft trotzdem nach: Er digitalisiert die Dias seines Vaters und staunt, „was da eigentlich alles bei mir so in den Erinnerungen wieder hochkommt" ([▶ 59:44](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3584)).
 
 > [!question] Weitergedacht
-> Wenn erfüllte Momente gerade dadurch entstehen, dass man die Zeit *vergisst* — was sagt das über alle Versuche, Zeit bewusst zu „erleben" und zu „gestalten"? Sabotiert die Absicht das Erlebnis?
+> Wenn erfüllte Momente gerade dadurch entstehen, dass man die Zeit *vergisst*, Marquardt aber zugleich Disziplin verlangt, um ihnen Raum zu geben: *Wo hört das Raumschaffen auf, und wo fängt die Absicht an, das Erlebnis zu sabotieren?*
 
 ---
 
@@ -66,25 +69,27 @@ Das ist sein Madeleine-Moment — nicht durch Geschmack wie bei Proust, sondern 
 
 [▶ 51:16](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3076)
 
-Dies ist das Herzstück von Marquardts Denken und das Zentrum seines Buches: **Wir haben die Zeit zu einem Fetisch gemacht — zu einem Götzen, der außerhalb von uns steht.**
+Das Herzstück des Buches fasst Bossart so: **Wir haben die Zeit zu einem Fetisch gemacht, „zu einem Götzen", der außerhalb von uns steht.** Marquardt präzisiert:
+
+[▶ 55:52](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3352)
 
 > *„Mein Grundgedanke ist eigentlich, dass wir so etwas haben wie Zeitvergessenheit. Wir haben vergessen, dass Zeit wir selber sind."*
 
-Zeit ist nicht ein abstraktes Behältnis, in das man Dinge füllt oder aus dem man etwas herausholt. Zeit kann man nicht sparen — nicht im Sinne von aufheben. Wenn man Zeitmanagement-Seminare besucht und Dinge priorisiert, hat man am Ende des Tages kein Behältnis mit fünf gesparten Lebensstunden. Man hat nur weniger Stress — nicht mehr Zeit.
+Zeit ist nicht ein abstraktes Behältnis, in das man Dinge füllt oder aus dem man etwas herausholt. Zeit kann man nicht sparen — nicht im Sinne von aufheben. Wenn man Zeitmanagement-Seminare besucht und Dinge priorisiert, hat man am Ende des Tages kein Behältnis mit fünf gesparten Lebensstunden. Man hat, sagt Marquardt, „vielleicht etwas weniger Stress", aber nichts übrig.
 
-Was man hat, ist die Spanne zwischen Geburt und Tod. *Das* ist die Zeit. Und wie man diese Spanne lebt, bestimmt ob man sein Leben als sinnvoll empfindet. Hannah Arendt formuliert das ähnlich: Man schlägt seinen Faden ins Gewebe der Welt — und zieht ihn bis zum Tod.
+Was man hat, ist die Spanne zwischen Geburt und Tod. *Das* ist die Zeit. Und wie man diese Spanne lebt, entscheidet, glaubt Marquardt, darüber, ob man sein Leben als sinnvoll empfindet. Er leiht sich dafür ein Bild von Hannah Arendt: Man schlägt seinen Faden ins Gewebe der Welt, und, ergänzt er, man zieht ihn weiter bis zum Tod.
 
-Historisch setzt dieses Vergessen bei Newton ein. Marquardts Diagnose ist präzise:
+Historisch setzt dieses Vergessen, meint Marquardt, „so um Newton herum" ein:
 
 [▶ 52:51](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3171)
 
-Newton definiert Zeit nicht — er stellt sie einfach als *absolut* fest: *losgelöst* von uns, gleichmäßig fließend, unabhängig von allem Äußerem. Diese metaphysische Deklaration — Zeit als Ding da draußen — schuf die Grundlage für die Industrielle Revolution. Wer Zeit als externe Ressource begreift, kann sie koordinieren, synchronisieren, handeln.
+Newton definiert Zeit nicht — er stellt sie einfach als *absolut* fest: *losgelöst* von uns, gleichmäßig fließend, unabhängig von allem Äußerem. Danach, sagt Marquardt, setzte eine Revolution im Uhrenbau ein: Man wollte die Uhren immer näher an diese absolute Zeit heranbringen. Wer Zeit als externe Ressource begreift, kann sie koordinieren, synchronisieren, handeln.
 
 > *„Von dieser absoluten Zeit, von dieser physikalischen Revolution, die Newton ja war — von da an sind Dinge möglich geworden wie die Dampfmaschine. Und das hat Zeit zu einem unglaublich erfolgreichen Wirtschaftskonzept gemacht."*
 
 [▶ 53:36](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3216)
 
-Das Resultat ist heute in jedem Liefersystem sichtbar. Als 2021 der Frachter *Ever Given* im Suezkanal feststeckte, kollabierte ein Teil der globalen Wirtschaft — weil alles auf synchronisierte Zeit angewiesen ist. Just-in-time, Lieferketten, Fahrpläne: Zivilisation als Zeitarchitektur.
+Das Resultat ist heute in jedem Liefersystem sichtbar. Als 2021 der Frachter *Ever Given* im Suezkanal feststeckte, rissen Lieferketten, weil alles auf synchronisierte Zeit angewiesen ist; Marquardt nennt daneben die Straße von Hormus, und „schon gerät unsere Wirtschaft ins Wackeln". Just-in-time, Lieferketten, Fahrpläne: Zivilisation als Zeitarchitektur.
 
 > *„Unsere Containerschiffe sind erstaunliche Zeitmaschinen."*
 
@@ -103,17 +108,20 @@ Das ist die Ironie: Newton wollte Physik machen, keine Lebensphilosophie. Aber d
 
 Ein philosophisches Rätsel, das Marquardt von seiner Dissertation her begleitet: **Was ist eigentlich das Jetzt?**
 
-Aristoteles definierte Zeit als *„Zahl der Bewegung"* — man misst eine Bewegung mit einer anderen Bewegung (der Sekundenzeiger gegen meine Schritte). Das Jetzt ist bei ihm ein ausdehnungsloser Punkt, scharf wie eine Rasierklinge zwischen Vergangenheit und Zukunft.
+[▶ 29:50](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1790) — Aristoteles definierte Zeit als *„Zahl der Bewegung"* — man misst eine Bewegung mit einer anderen Bewegung (der Sekundenzeiger gegen meine Schritte). Das Jetzt ist bei ihm ein ausdehnungsloser Punkt, scharf wie eine Rasierklinge zwischen Vergangenheit und Zukunft.
 
 [▶ 22:13](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1333)
 
-Augustinus widerspricht: Zeit ist nicht draußen, sie passiert *in mir*. Ich zeitige Zeit — durch Erwartung, Erinnerung und das, was ich jetzt tue. Dadurch dehnt sich das Jetzt aus. Bei Augustinus: *„Wenn man mich nicht fragt, was die Zeit ist, dann weiß ich es eigentlich. Soll ich es jemandem erklären, dann weiß ich es nicht."* — Das Grundproblem der Philosophie: das Vertraute entzieht sich im Moment der Reflexion.
+Augustinus widerspricht: Zeit ist nicht draußen, sie passiert *in mir*. Ich zeitige Zeit — durch Erwartung, Erinnerung und das, was ich jetzt tue. Dadurch dehnt sich das Jetzt aus. [▶ 30:36](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1836) Bei Augustinus: *„Wenn man mich nicht fragt, was die Zeit ist, dann weiß ich es eigentlich. Soll ich es jemandem erklären, dann weiß ich es nicht."* — Das Grundproblem der Philosophie: das Vertraute entzieht sich im Moment der Reflexion.
 
-William James: das Jetzt als „Sattelrücken der Zeit" (*specious present*) — James selbst schätzte das erlebte Jetzt auf etwa 12 Sekunden, neuere Forschung tendiert zu kürzeren Werten (2–5 Sekunden). Im Gespräch fließt das zusammen — die exakte Zahl ist unerheblich, das Phänomen bleibt dasselbe. Eine Melodie hören wir nicht Ton für Ton, sondern als Ganzes — weil das Jetzt sich aufspannt.
+William James: das Jetzt als „Sattelrücken der Zeit" (*specious present*). James selbst hielt den Kern des erlebten Jetzt für „ein Dutzend Sekunden oder weniger". Im Gespräch fallen 3 bis 8 Sekunden, Bossart nennt die 3 Sekunden der Hirnforschung; neuere Arbeiten sprechen von bis zu wenigen Sekunden ([Wittmann 2011](https://doi.org/10.3389/fnint.2011.00066), Übersichtsarbeit). Eine Melodie hören wir nicht Ton für Ton, sondern als Ganzes, weil das Jetzt sich aufspannt; so bringt es Bossart ein, an den Musiker gewandt. Marquardt nimmt das Gespräch selbst als Beispiel:
 
-> *„Man hat diejenigen Töne, die schon erklungen sind, noch im Ohr. Man erwartet aber gleichzeitig auch, welche Töne noch kommen. Dieses Jetzt, das bei Aristoteles nur ein Punkt ist, dehnt sich aus."*
+[▶ 23:44](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1424)
 
-Der Bezug zu Vipassana liegt auf der Hand: Die Praxis des Beobachtens des gegenwärtigen Moments ist genau das Experiment, diesen Sattelrücken zu weiten — Bewusstsein als Gegenwart, nicht als Plan oder Erinnerung.
+> *„Wenn ich Ihnen zuhöre, ich muss ja auch quasi erinnern, was haben Sie gesagt, hören, was sagen Sie, und dann baue ich mir das zusammen zu dem, was Ihr Satz ist. Also, das muss schon etwas länger sein."*
+
+> [!note] Eigene Einschätzung
+> Die Vipassana-Praxis, das Beobachten des gegenwärtigen Moments, ist ein Experiment mit genau diesem Sattelrücken: Gegenwart, nicht Plan oder Erinnerung. Marquardt spricht davon nicht.
 
 > [!question] Weitergedacht
 > Augustinus und der Vipassana-Pfad landen fast am selben Ort: Zeit entsteht in uns, nicht außerhalb. Aber Augustinus denkt das christlich-narrativ (Lebensgeschichte vor Gott), Vipassana denkt es erfahrungsbezogen-empirisch (dieser Atemzug). Was folgt aus diesem Unterschied — für die Praxis?
@@ -124,23 +132,23 @@ Der Bezug zu Vipassana liegt auf der Hand: Die Praxis des Beobachtens des gegenw
 
 [▶ 32:55](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1975)
 
-Ein Phänomen, das Marquardt nicht nur theoretisch beschreibt: **Erlebte Zeit und erinnerte Zeit folgen entgegengesetzten Gesetzen.**
+Ein Paradox, das Bossart einbringt und Marquardt aus eigener Erfahrung bestätigt: **Erlebte Zeit und erinnerte Zeit folgen entgegengesetzten Gesetzen.**
 
 Zwei Wochen Ferien. Erste Woche: alles neu — neue Geschmäcker, der Markt, das Meer. Die Tage sind *unendlich lang*. Zweite Woche: Routine, der gewohnte Pool, dieselbe Strandbar — im Erleben ziehen sich die Tage hin. Aber in der Erinnerung ist die zweite Woche *ausgelöscht*. „Wie einfach vorbei." Die erste Woche trägt hundert Episoden. Die zweite kaum eine.
 
-Was fehlt: Neuheit. Nicht Anspannung, nicht Intensität im konventionellen Sinn — sondern *erste Male*. Erste Erfahrungen schaffen Erinnerungsanker; Routine hinterlässt keinen Abdruck. Das ist auch Rosas Beobachtung aus anderer Richtung: Beschleunigung tötet Resonanz, weil sie Erstmaligkeit verhindert. Man erledigt alles — aber erlebt nichts.
+Was fehlt, so liegt es nahe: Neuheit, *erste Male*. Erste Erfahrungen schaffen Erinnerungsanker; Routine hinterlässt keinen Abdruck.
 
 [▶ 33:41](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2021)
 
-> *„Ältere Menschen sagen, die Tage vergehen so schnell, die Jahre gehen so schnell vorbei."*
+Marquardt kennt das aus eigener Erfahrung: *„Dass ich als älterer Mensch eben immer so den Eindruck habe, was ist denn schon wieder Weihnachten? War doch gerade erst."* (Mit Einsteins Relativität, die Bossart ins Spiel bringt, habe das nichts zu tun.)
 
-Marquardt nennt zwei mögliche Erklärungen: Erstens ein Proportionseffekt — ein Jahr ist für einen Zehnjährigen ein Zehntel seines Lebens, für einen Achtzigjährigen ein Achtzigstel. Die Verhältnismäßigkeit verändert sich, unabhängig davon, was man erlebt. Zweitens schlicht: weniger erste Male.
+Er nennt eine mögliche Erklärung, den Proportionseffekt: Ein Jahr ist für einen Zehnjährigen ein Zehntel seines Lebens, für einen Achtzigjährigen ein Achtzigstel. Eine zweite lässt er offen; es könne auch daran liegen, wie die Wahrnehmung im Alter funktioniert: *„Ich kann Ihnen das nicht wirklich genau sagen, aber Fakt ist, die Erfahrung, dass es schneller wird, stimmt."* Bossart ergänzt: weniger erste Erfahrungen.
 
 [▶ 34:27](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2067)
 
-Kinder sind *Experten im Sich-Langweilen* — und das ist kein Defizit, sondern eine Form von Zeitreichtum. Langeweile ist die Erfahrung von Zeit als elastisch, dehnbar, ungerichtet. Marquardt stellt bei sich selbst fest: Er langweilt sich nicht mehr. Die Geduld für leere Zeit ist ihm abhanden gekommen — und damit auch ein Stück jener Wahrnehmungsqualität, die Kindern noch vollständig zur Verfügung steht.
+Kinder, sagt Marquardt, sind *„Experten im Sich-Langweilen"*. Er selbst langweilt sich nicht mehr, und er wundert sich: Warum langweilen sich diese armen Kinder? Sie haben doch noch so viel Zeit.
 
-Das führt zu einer stillen Herausforderung an alle Achtsamkeitspraxis: Nicht bewusstes *Erleben* ist das Ziel, sondern die Bereitschaft für Neuheit. Wer jeden Moment kontrolliert wahrnehmen will, bricht paradoxerweise die Offenheit, die Resonanz erst ermöglicht. Wer sich langweilen kann, hat Zeit.
+Gegen Achtsamkeit spricht er sich nicht aus. Er gibt zu, dass er es nicht schafft, alles bewusst zu tun; beim Bügeln laufen Hörbücher. Aber bewusster zu erleben sei *„die Kunst, auf die man sich hinbewegen muss"* ([▶ 27:15](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1635)), und vom Meditieren sagt er, man öffne sich dann „plötzlich für andere Dinge" ([▶ 40:34](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2434)).
 
 > [!question] Weitergedacht
 > Wenn Langeweile die Zeitwahrnehmung so temporal reich macht — ist das Nicht-Tun der Meditation eigentlich eine Rückkehr zu dieser Offenheit? Oder ist die Praxis selbst schon zu absichtsvoll, um echte Leere zu erzeugen?
@@ -153,18 +161,18 @@ Das führt zu einer stillen Herausforderung an alle Achtsamkeitspraxis: Nicht be
 
 Marquardt erzählt die Kulturgeschichte der Zeit als Geschichte der Beschleunigung — und zeigt dabei ein Muster: **Jede Beschleunigung ruft die nächste hervor.**
 
-Die Spinning Jenny macht mehr Stoff — also muss das Bleichen schneller werden. Mehr gebleichte Baumwolle braucht schnellere Transportwege — also die Dampfmaschine auf der Eisenbahn. Schnellere Logistik braucht schnellere Kommunikation — also der Telegraf.
+Die Spinnmaschinen liefern plötzlich Unmengen Garn und Stoff — also muss das Bleichen schneller werden. Mehr gebleichte Baumwolle braucht schnellere Transportwege — also die Dampfmaschine auf der Eisenbahn. Schnellere Logistik braucht schnellere Kommunikation — also der Telegraf.
 
 > *„Das ist eine Beschleunigung, die zieht die andere Beschleunigung immer nach sich."*
 
 [▶ 48:13](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2893)
 
-Irgendwann wird Geschwindigkeit nicht mehr Mittel, sondern Wert an sich. Filippo Tommaso Marinetti und die italienischen Futuristen erheben das zum ästhetischen Programm: *„Ein rasendes Automobil ist schöner als die Nike von Samothrake."* Aus der Ästhetik wird Politik — und die Futuristen landen fast alle im Faschismus.
+Irgendwann wird Geschwindigkeit nicht mehr Mittel, sondern Wert an sich. Filippo Tommaso Marinetti und die italienischen Futuristen erheben das zum ästhetischen Programm: *„Ein rasendes Automobil ist schöner als die Nike von Samothrake."* Aus der Ästhetik wird Politik, und fast alle Futuristen, sagt Marquardt, waren „irgendwie" in den italienischen Faschismus verstrickt; „das ist eine ganz schwierige Diskussion".
 
 Das Versprechen der Beschleunigung — mehr Freizeit durch Zeitersparnis — ist nicht eingehalten worden. Man schreibt keine Briefe mehr, aber 1000-mal mehr E-Mails. Man wäscht öfter, obwohl man eine Waschmaschine hat. Die eingesparte Zeit füllt sich sofort mit neuem Tempo.
 
 > [!question] Weitergedacht
-> Marquardt sagt, Geschwindigkeit als Wert an sich war die Einstiegsdroge des Faschismus. Ist das eine Warnung an die KI-Beschleunigungsdebatte? Oder ist das eine historische Analogie, die mehr verschleiert als erhellt?
+> Bei den Futuristen, sagt Marquardt, wurde Geschwindigkeit als Wert an sich politisch. Ist das eine Warnung an die KI-Beschleunigungsdebatte? Oder ist das eine historische Analogie, die mehr verschleiert als erhellt?
 
 ---
 
@@ -172,33 +180,33 @@ Das Versprechen der Beschleunigung — mehr Freizeit durch Zeitersparnis — ist
 
 [▶ 37:30](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2250)
 
-Marquardt bezieht sich mehrfach auf **Hartmut Rosa**, und hier liegt eine der produktivsten Verbindungen im Gespräch: Rosas Begriff des *Weltverlusts* durch Beschleunigung.
+Bossart bringt **Hartmut Rosa** ins Gespräch: Wer viele Dinge gleichzeitig erledigt, blickt abends auf eine Leere zurück; Rosa nennt das *Weltverlust*. Die Sendung spielt Rosa selbst ein, aus seiner eigenen Sternstunde vom Januar 2023. Der Hunger nach mehr Welt, sagt er dort, wird nicht durch schnelleres Machen gestillt, sondern durch eine andere Beziehungsqualität:
 
-> *„Wir haben nicht mehr diese Resonanz mit der Welt. Wir fühlen uns nicht mehr berührt, angesprochen. Was uns abhandenkommt, ist ein Stück Welt."*
+[▶ 38:50](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2330)
 
-Der Hunger nach mehr Welt wird nicht durch schnelleres Machen gestillt. Er wird gestillt durch eine andere Beziehungsqualität — durch das, was Marquardt *sich anrufen lassen* nennt:
+> *„Ich glaube, das Leben gelingt in dem Moment, wo ich gar nicht etwas tue, sondern mich, mein Begriff dafür lautet, anrufen lasse von etwas, was da draußen ist."* — Hartmut Rosa
 
-> *„Ich glaube, das Leben gelingt in dem Moment, wo ich gar nicht etwas tue, sondern mich anrufen lasse von etwas, was da draußen ist."*
-
-Das ist keine passive Haltung, sondern eine bestimmte Form der Aufmerksamkeit: nicht beim Subjekt beginnen (*ich muss wahrnehmen*), sondern beim Objekt — die Welt kommt auf mich zu. Die glücklichen Momente sind die, wo etwas da draußen so stark wirkt, dass es uns überwältigt.
+Wir fangen, so Rosa, immer beim Subjekt an; die glücklichen Momente sind aber die, in denen etwas da draußen so stark auf uns wirkt, dass es uns überwältigt. Marquardt nimmt das auf („Das ist wunderbar") und kommt später darauf zurück: *„Lass die Dinge mal auf dich zukommen. Lass Welt geschehen."* ([▶ 42:04](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2524))
 
 [▶ 39:48](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2388)
 
-Dagegen steht *das Leben als letzte Gelegenheit* (Marianne Gronemeier) — die säkulare Angst, dass dieses Leben alles ist und man alles hineinpacken muss. Das Wochenende nach New York, die Skitour, das Konzert — alles auf einmal, weil danach nichts mehr kommt. Marquardt hält dagegen mit der pascalschen Wette: Wenn ich auf Ewigkeit setze, nimmt das den Druck aus dem Kessel.
+Dagegen steht *das Leben als letzte Gelegenheit* (Marianne Gronemeyer), die säkulare Angst, dass dieses Leben alles ist und man alles hineinpacken muss. Das Wochenende nach New York, die Skitour, alles auf einmal, weil danach nichts mehr kommt. Marquardt weiß nicht, ob es ein Leben nach dem Tod gibt, würde es aber „mit Pascal halten" und darauf setzen. Ob das entlastet? „Das nimmt ein bisschen Druck raus", sagt er, und es sei etwas, das man üben müsse.
 
 ---
 
-## Genügsamkeit — das Kloster Kurishumala
+## Genügsamkeit — das Kloster Kurisumala
 
 [▶ 10:45](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=645)
 
-Marquardt und seine Frau verbrachten Zeit in der Einsiedelei des christlichen Aschrams Kurishumala, Kerala. Die Unterkunft: ein Holzbrett als Bett, kaltes Wasser, drei Glühbirnen.
+Marquardt und seine Frau verbrachten Zeit in der Einsiedelei des christlichen Aschrams Kurisumala in Kerala. Die Unterkunft: ein Holzbrett als Bett, kaltes Wasser, drei Glühbirnen.
 
 > *„Wir haben dort wunderbar gelebt. Wir waren sehr glücklich. Und man stellt fest, eigentlich das andere, was man alles so zu Hause hat, braucht man gar nicht."*
 
-Das Erfüllende war nicht die Askese selbst, sondern die Einbettung in einen Rhythmus — Frühgebet um 6 Uhr, Mahlzeiten, Gemeinschaft, Gespräche. **Genügsamkeit als Zeitgewinn**: Wer weniger besitzt, muss weniger verdienen, muss weniger arbeiten — und gewinnt nicht Zeit im abstrakten Sinne, sondern Lebenszeit in Qualität.
+Das Erfüllende war nicht die Askese selbst, sondern die Einbettung in einen Rhythmus — Frühgebet um 6 Uhr, Mahlzeiten, Gemeinschaft, Gespräche. **Genügsamkeit ist „ein Stück weit Zeitgewinn"**, so hatte Marquardt es Bossart vorab erklärt. Die Frage sei dann, „was ist das, was ich wirklich brauche und wofür muss ich dann auch arbeiten gehen?" Wer weniger braucht, muss weniger verdienen, und gewinnt dabei keine Zeit im abstrakten Sinn, sondern vielleicht Lebenszeit in Qualität.
 
-Die Verbindung zur Teilzeit-Debatte, mit der das Gespräch beginnt, ist direkt: Die Frage „Brauche ich das ganze Geld?" ist dieselbe wie „Brauche ich all das, was ich dafür eintausche?" — nämlich meine Zeit.
+Die Verbindung zur Teilzeit-Debatte, mit der das Gespräch beginnt, ist direkt. Über eine Vier-Tage-Woche nachzudenken, findet Marquardt „völlig in Ordnung", mit Arbeitsverweigerung habe das nichts zu tun ([▶ 7:43](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=463)). Die Frage „Brauche ich das ganze Geld?" ist dieselbe wie „Brauche ich all das, was ich dafür eintausche?" — nämlich meine Zeit.
+
+Er weiß, dass das nicht jedem offensteht. Der Plan, mit seiner Frau beide halbtags zu arbeiten, ging nicht auf: *„Wenn Sie ein Kind haben, wenn Sie sich Wohneigentum anschaffen, es langt nicht. Also, man muss einfach mehr arbeiten."* ([▶ 9:14](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=554)) Im Nachhinein, sagt er, frage man sich natürlich: „War das wirklich alles nötig?“
 
 ---
 
@@ -206,13 +214,13 @@ Die Verbindung zur Teilzeit-Debatte, mit der das Gespräch beginnt, ist direkt: 
 
 [▶ 13:46](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=826)
 
-Paradoxerweise hält Marquardt nicht Spontaneität für den Weg zu erfüllter Zeit, sondern **Ritual und Rhythmus**. Fünf Jahre schrieb er sein Buch, täglich von 6–7:30 Uhr, montags bis freitags — bevor er zur Arbeit ging. Idee seiner Frau. Er fand es zunächst furchtbar.
+Einen Weg zu erfüllter Zeit sieht Marquardt in **Ritual und Rhythmus**: „Ich mag so etwas wie Ritual." Fast fünf Jahre schrieb er sein Buch, von 6 bis etwa 7:30 Uhr, montags bis freitags, nie in den Ferien, bevor er zur Arbeit ging. Die Idee kam von seiner Frau; er hielt sie zunächst für „eine ganz, ganz schlechte Idee".
 
 > *„Ich habe das als zutiefst beglückende Zeit empfunden."*
 
-Der lateinamerikanische Begriff *cuadradito* — das Kleinkarierte — ist für Marquardt kein Vorwurf, sondern eine Beschreibung: Wer feste Rhythmen hat, wird entlastet. Das Klosterleben, das frühe Aufstehen, die Jahreszeiten erleben beim Schreiben (erst ohne Lampe, dann mit) — all das ist Zeitqualität durch Struktur.
+Der lateinamerikanische Begriff *cuadradito* — das Kleinkarierte — ist für Marquardt kein Vorwurf: „Ich habe es immer als entlastend empfunden, bestimmte Rhythmen zu haben." Das Klosterleben, das frühe Aufstehen, die Jahreszeiten erleben beim Schreiben (erst ohne Lampe, dann mit) — all das ist Zeitqualität durch Struktur.
 
-Gleichzeitig ist er ehrlich: Er ist nicht gut im frühen Aufstehen. Er schiebt den Spaziergang raus. Er hört beim Bügeln Hörbücher. Die hohe Kunst, jeden Moment vollständig zu erleben, gelingt auch ihm nicht immer — und er lacht darüber, ohne es zu dramatisieren.
+Gleichzeitig ist er ehrlich: Er ist nicht gut im frühen Aufstehen. Er schiebt den Spaziergang raus. Er hört beim Bügeln Hörbücher. Die hohe Kunst, jeden Moment vollständig zu erleben, gelingt auch ihm nicht immer, und er sagt das ohne Drama.
 
 ---
 
@@ -222,49 +230,49 @@ Gleichzeitig ist er ehrlich: Er ist nicht gut im frühen Aufstehen. Er schiebt d
 
 Die vielleicht stärkste Frage des Gesprächs — und Marquardts persönlicher Kompass:
 
-> *„Wer möchte ich gewesen sein? Das ist die Frage, wie möchte ich gelebt haben? Und das ist in gewisser Weise eine Antwort darauf, was ist denn der Sinn unseres Lebens gewesen? Die Zeitfrage ist für mich eine Sinnfrage."*
+> *„Wer möchte ich gewesen sein? Das ist die Frage, wie möchte ich gelebt haben? Und das ist, glaube ich, etwas, was in gewisser Weise eine Antwort darauf gibt, was ist denn der Sinn unseres Lebens gewesen? Also eigentlich ist die Zeitfrage für mich eine Sinnfrage."*
 
 [▶ 18:23](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1103)
 
-Das ist keine Frage, die man beantwortet — sondern eine, nach der man lebt. Sie kommt aus der Zukunft und blickt zurück auf die Gegenwart. Der Bonner Philosoph Michael Zichy formuliert es als: *anderen wichtig sein* — der Sinn des Lebens liegt darin, dass es Menschen gibt, denen man etwas bedeutet. Das verbindet Zeit und Beziehung: Für andere da zu sein braucht Zeit. Es ist keine Leistung, sondern Präsenz.
+Die Antwort darauf, sagt Marquardt, ist, wie du gelebt hast. Die Frage kommt aus der Zukunft und blickt zurück auf die Gegenwart. Der Bonner Philosoph Michael Zichy formuliert es als: *anderen wichtig sein* — der Sinn des Lebens liegt darin, dass es Menschen gibt, denen man etwas bedeutet. Das verbindet Zeit und Beziehung: Für andere da zu sein braucht Zeit: hingehen, etwas mit ihnen machen, ihnen helfen, sagt Marquardt.
 
 ---
 
 ## Faktencheck
 
-> [!success] Bestätigt — Teilzeitarbeit Schweiz ~40%
-> Marquardt nennt „fast 40 Prozent aller Erwerbstätigen in der Schweiz arbeiten Teilzeit". Laut BFS 2023 rund 38% — Tendenz korrekt. Quelle: [BFS — Arbeit und Erwerb](https://www.bfs.admin.ch)
+> [!success] Bestätigt — Teilzeitarbeit Schweiz knapp 40 %
+> Moderator Yves Bossart nennt „knapp 40 % der Erwerbstätigen" (Beschäftigungsgrad unter 90 %). Das Bundesamt für Statistik schreibt „mehr als ein Drittel", Frauen 58,6 %, Männer 20,9 % (2025). Quelle: [BFS — Vollzeit und Teilzeit](https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/erwerbstaetigkeit-arbeitszeit/merkmale-arbeitskraefte/vollzeit-teilzeit.html)
 
 > [!success] Bestätigt — Aristoteles: Zeit als Zahl der Bewegung
 > „ἀριθμὸς κινήσεως κατὰ τὸ πρότερον καὶ ὕστερον" (*Physik* IV, 11, 219b1) — korrekt. Marquardts Vereinfachung trifft den Kern.
 
 > [!success] Bestätigt — Augustinus: Palast der Erinnerungen
-> *Memoriae palatium* in Augustinus' *Confessiones*, Buch X — korrekt zugeordnet.
+> „lata praetoria memoriae", die weiten Paläste des Gedächtnisses (*Confessiones* X,8,12), auch „aula ingens memoriae" (X,8,14) — korrekt zugeordnet. Quelle: [The Latin Library, Conf. X](https://www.thelatinlibrary.com/augustine/conf10.shtml)
 
 > [!success] Bestätigt — Madeleine-Moment bei Proust
 > *Du côté de chez Swann* (1913), erster Band der Recherche — korrekte Zuordnung.
 
 > [!success] Bestätigt — Futurismus und Faschismus
-> Marinetti trat 1919 dem faschistischen Movimento bei, war ideologisch eng verknüpft. Korrekt. Quelle: [Encyclopaedia Britannica — Futurism](https://www.britannica.com/art/Futurism)
+> Marinetti wurde aktiver Faschist und Unterstützer Mussolinis und erklärte in *Futurismo e Fascismo* (1924) den Faschismus zur natürlichen Fortsetzung des Futurismus. Quelle: [Britannica — Marinetti](https://www.britannica.com/biography/Filippo-Tommaso-Marinetti)
 
 > [!success] Bestätigt — Newton: absolute Zeit als losgelöst
-> Newtons *absoluta tempus* aus den Principia (1687): Zeit fließt gleichmäßig, unabhängig von allem Äußeren. Marquardts Deutung als Ursprung des modernen Zeitfetischs ist eine legitime philosophiehistorische Interpretation. Quelle: [SEP — Newton's Principia](https://plato.stanford.edu/entries/newton-principia/)
+> *Tempus absolutum, verum et mathematicum … aequabiliter fluit* (Principia 1687, Scholium zu den Definitionen): Zeit fließt gleichmäßig, unabhängig von allem Äußeren. Auch Marquardts Bemerkung, Newton definiere die Zeit nicht, stimmt: „tempus … ut omnibus notissima non definio". Marquardts Deutung als Ursprung des modernen Zeitfetischs ist eine legitime philosophiehistorische Interpretation. Quelle: [SEP — Newton's Principia](https://plato.stanford.edu/entries/newton-principia/)
 
 > [!warning] Vereinfacht — William James: erweitertes Jetzt
-> Die Sattelrücken-Metapher (*saddleback*) für das *specious present* stammt von James — korrekt. Aber James schätzte das erlebte Jetzt selbst auf „about a dozen seconds", also ~12 Sekunden (*Principles of Psychology*, 1890). Die im Gespräch kursierenden „3–8 Sekunden" entsprechen neueren, kürzeren Schätzungen — didaktisch vereinfacht, aber nicht falsch. Quelle: [Psychclassics — James, Principles Kap. 15](https://psychclassics.yorku.ca/James/Principles/prin15.htm)
+> Die Sattelrücken-Metapher (*saddle-back*) stammt von James, den Begriff *specious present* übernimmt er von E. R. Clay. Den Kern des erlebten Jetzt hielt James für „probably the dozen seconds or less", insgesamt „from a few seconds to probably not more than a minute" (*Principles of Psychology*, 1890). Die im Gespräch genannten 3 bis 8 Sekunden liegen bei neueren, kürzeren Schätzungen — vereinfacht, aber nicht falsch. Quelle: [Psychclassics — James, Principles Kap. 15](https://psychclassics.yorku.ca/James/Principles/prin15.htm)
 
 > [!warning] Vereinfacht — Michel Siffre: drei Monate
-> Marquardt spricht von „drei Monaten" — das 1962er Experiment dauerte jedoch nur 63 Tage (etwa zwei Monate). Drei Monate trifft eher auf spätere Experimente zu (1972: sechs Monate in einer texanischen Höhle). Biorhythmus-Befund und Zeitgefühl-Verlust sind korrekt beschrieben — nur die Dauer ist falsch. Kein strategisches Interesse erkennbar, wahrscheinlich Versprecher. Quelle: [Wikipedia — Michel Siffre](https://en.wikipedia.org/wiki/Michel_Siffre)
+> Marquardt spricht von „drei Monaten" — das 1962er Experiment dauerte jedoch nur 63 Tage (etwa zwei Monate). Drei Monate trifft eher auf spätere Experimente zu (1972: sechs Monate in einer texanischen Höhle). Sein Körper hielt einen eigenen Rhythmus von gut 24,5 Stunden, unabhängig vom Tageslicht, während das Zeitgefühl des Verstandes verloren ging; am Ende glaubte er sich einen Monat früher. Nur die Dauer ist falsch. Kein strategisches Interesse erkennbar, wahrscheinlich Versprecher. Quelle: [Wikipedia — Michel Siffre](https://en.wikipedia.org/wiki/Michel_Siffre)
 
 > [!warning] Nicht verifizierbar — Brief von Rom nach Paris 10 Tage
-> Historisch plausibel für vormoderne Reisezeiten — eine Verifikation für genau diese Route ist nicht möglich. Tendenz stimmt, Zahl unprüfbar.
+> Marquardt sagt selbst „ich glaube" und „ungefähr". Historisch plausibel für vormoderne Reisezeiten — eine Verifikation für genau diese Route ist nicht möglich. Tendenz stimmt, Zahl unprüfbar.
 
 ---
 
 ## Weiterführende Quellen (Sherlock)
 
-- [Michel Siffre — Wikipedia](https://en.wikipedia.org/wiki/Michel_Siffre) — genaue Dauer des 1962-Experiments (63 Tage), Unterscheidung zu späteren Experimenten
-- [William James, Principles of Psychology (1890), Kap. 15 — Psychclassics](https://psychclassics.yorku.ca/James/Principles/prin15.htm) — Original zum *specious present* und Sattelrücken; James' eigene Schätzung ~12 Sekunden
+- [Michel Siffre — Wikipedia](https://en.wikipedia.org/wiki/Michel_Siffre) — genaue Dauer des 1962-Experiments (62 oder 63 Tage, je nach Quelle), Unterscheidung zu späteren Experimenten
+- [William James, Principles of Psychology (1890), Kap. 15 — Psychclassics](https://psychclassics.yorku.ca/James/Principles/prin15.htm) — Original zum *specious present* und Sattelrücken; James' eigene Schätzung „ein Dutzend Sekunden oder weniger"
 - [Stanford Encyclopedia of Philosophy — Newton's Principia](https://plato.stanford.edu/entries/newton-principia/) — Newtons absolute Zeit, philosophiehistorische Einordnung
 - [Schwabe Verlag — Zeit und Mensch](https://schwabe.ch/udo-marquardt-zeit-und-mensch-978-3-7965-4947-2) — Marquardts Hauptwerk, bestätigt Erscheinungsjahr und Verlag
 - [ResearchGate — Knife-Edge and Saddleback: Augustine & William James on the Specious Present](https://www.researchgate.net/publication/372149547_Knife-Edge_and_Saddleback_Augustine_William_James_on_the_Psychology_of_the_Specious_Present) — wissenschaftlicher Vergleich Augustinus/James
@@ -274,13 +282,14 @@ Das ist keine Frage, die man beantwortet — sondern eine, nach der man lebt. Si
 *Im Gespräch zitierte Werke:*
 
 - Udo Marquardt: *Zeit und Mensch. Facetten einer Kulturgeschichte* — das besprochene Hauptwerk, 2024 erschienen. [genialokal.de](https://www.genialokal.de/Suche/?q=marquardt+zeit+und+mensch)
-- Udo Marquardt: *Spaziergänge mit Sokrates* — frühere philosophische Publikation. [genialokal.de](https://www.genialokal.de/Suche/?q=marquardt+spaziergaenge+sokrates)
+- Udo Marquardt: *Spaziergänge mit Sokrates. Große Denker und die kleinen Dinge des Lebens* (C. H. Beck 2000). [genialokal.de](https://www.genialokal.de/Suche/?q=marquardt+spaziergaenge+sokrates)
 - Augustinus: *Confessiones* — Zeittheorie in Buch XI, Palast der Erinnerung in Buch X.
 - Hartmut Rosa: *Resonanz. Eine Soziologie der Weltbeziehung* (2016). [genialokal.de](https://www.genialokal.de/Suche/?q=rosa+resonanz+soziologie+weltbeziehung)
 - Hartmut Rosa: *Beschleunigung. Die Veränderung der Zeitstrukturen in der Moderne* (2005). [genialokal.de](https://www.genialokal.de/Suche/?q=rosa+beschleunigung+zeitstrukturen)
-- Michael Zichy: *Anderen wichtig sein* — Bonner Philosoph, Buch über Sinn durch soziale Bedeutsamkeit. [genialokal.de](https://www.genialokal.de/Suche/?q=zichy+anderen+wichtig+sein)
+- Michael Zichy: *Anderen wichtig sein. Eine Philosophie des Lebenssinns* (Suhrkamp 2025) — Bonner Philosoph, Buch über Sinn durch soziale Bedeutsamkeit. [genialokal.de](https://www.genialokal.de/Suche/?q=zichy+anderen+wichtig+sein)
 - Marcel Proust: *Auf der Suche nach der verlorenen Zeit* — Madeleine-Episode. [genialokal.de](https://www.genialokal.de/Suche/?q=proust+suche+nach+verlorenen+zeit)
-- Marianne Gronemeier: *Das Leben als letzte Gelegenheit* — zitierter Begriff zu säkularer Zeitangst.
+- Marianne Gronemeyer: *Das Leben als letzte Gelegenheit. Sicherheitsbedürfnisse und Zeitknappheit* (zuerst 1993) — zitierter Begriff zu säkularer Zeitangst. [genialokal.de](https://www.genialokal.de/Suche/?q=gronemeyer+leben+als+letzte+gelegenheit)
+- Hans-Georg Gadamer: *Über leere und erfüllte Zeit* (1969), Gesammelte Werke Bd. 4 — woher Marquardt den Ausdruck nimmt.
 
 ---
 
@@ -288,26 +297,27 @@ Das ist keine Frage, die man beantwortet — sondern eine, nach der man lebt. Si
 
 ### → [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
-Rosa ist das explizite Gegenstück: Marquardt beschreibt phänomenologisch, was Rosa soziologisch analysiert. „Sich anrufen lassen" (Marquardt) ist dasselbe wie Resonanz (Rosa) — nur aus der subjektiven statt der systemischen Perspektive.
+Rosa ist in diesem Gespräch Marquardts Gewährsmann: Die Sendung spielt Rosas Satz vom „Sich-anrufen-Lassen" ein, Marquardt stimmt zu und übersetzt ihn in seine Praxis, Rituale, Stille, „Lass Welt geschehen". Marquardt erzählt die Kulturgeschichte der Zeit, Rosa liefert die soziologische Diagnose.
 
 ### → [[Denker/S.N. Goenka — Vipassana]]
 
-Die Frage „Wer möchte ich gewesen sein?" und der Augustinus'sche Zeitbegriff (Zeit entsteht in mir) berühren den Kern der Vipassana-Praxis: Vergänglichkeit (Anicha) und die Qualität der Gegenwärtigkeit. Marquardt kommt von der christlichen Philosophie, Goenka von der buddhistischen Praxis — beide landen beim selben Ort: Bewusstsein als Gegenwart.
+Die Frage „Wer möchte ich gewesen sein?" und der Augustinus'sche Zeitbegriff (Zeit entsteht in mir) berühren die Vipassana-Praxis: Vergänglichkeit (*anicca*) und die Qualität der Gegenwärtigkeit. Marquardt fragt vom Ende des Lebens her, Goenka übt den gegenwärtigen Atemzug. Beide nehmen die Endlichkeit ernst, aus verschiedenen Richtungen.
 
-### → [[DenkerVita/Blaise Pascal|Gedankenwelten/Gedanken/Blaise Pascal — Wette und Unruhe]]
+### → [[DenkerVita/Blaise Pascal|Blaise Pascal]]
 
-Marquardt zitiert explizit die pascalsche Wette als persönliche Lebenshaltung: auf Ewigkeit setzen nimmt den Druck aus dem Kessel. Pascal selbst diagnostizierte die *divertissement*-Falle — die Beschleunigung als Flucht vor dem Sein. Marquardt wiederholt diese Diagnose 400 Jahre später.
+Marquardt hält es mit der pascalschen Wette, ohne zu wissen, ob es ein Leben nach dem Tod gibt; das nehme „ein bisschen Druck raus". Pascals *divertissement*, die Zerstreuung als Flucht vor der eigenen Lage, liegt nahe an dem, was Marquardt über das ständige Beschäftigtsein sagt, auch wenn er Pascal dafür nicht nennt.
+
 ### → [[Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie]]
 
-Eilenbergers „Geistesgegenwart" (Ontologie der Gegenwart — das Vermögen zu sagen, *was jetzt ist*) ist der erkenntnistheoretische Rahmen für das, was Marquardt phänomenologisch als „erfüllte Momente" beschreibt. Marquardt zeigt, wie man dorthin kommt (Rituale, Genügsamkeit, Sich-anrufen-lassen); Eilenberger benennt, was man dort tut (Diagnostizieren der eigenen Gegenwart ohne Flucht in Systeme). Beide bei SRF Sternstunde Philosophie, beide gegen den Zeitfetisch der Moderne — aus verschiedenen Himmelsrichtungen.
+Eilenbergers „Geistesgegenwart" (Ontologie der Gegenwart — das Vermögen zu sagen, *was jetzt ist*) ist der erkenntnistheoretische Rahmen für das, was Marquardt phänomenologisch als „erfüllte Momente" beschreibt. Marquardt zeigt, wie man dorthin kommt (Rituale, Genügsamkeit, Sich-anrufen-lassen); Eilenberger benennt, was man dort tut (Diagnostizieren der eigenen Gegenwart ohne Flucht in Systeme). Beide gegen den Zeitfetisch der Moderne, aus verschiedenen Himmelsrichtungen.
 
 ### → [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
 
-Bücker und Marquardt stellen dieselbe Grundfrage von entgegengesetzten Seiten: Marquardt fragt *wie* man Zeit erfüllt erlebt — Bücker fragt *wer* überhaupt das Recht auf Zeit hat. Marquardts Kloster-Genügsamkeit setzt Wahlfreiheit voraus; Bückers Zeitpolitik macht sichtbar, dass diese Wahlfreiheit strukturell verteilt ist. Das ist der produktive Widerspruch: Ohne Bückers Zeitgerechtigkeit bleibt Marquardts Zeitphilosophie Privileg-Denken.
+Bücker und Marquardt stellen dieselbe Grundfrage mit verschiedenem Gewicht: Marquardt fragt vor allem, *wie* man Zeit erfüllt erlebt, auch wenn er die Debatte um kürzere Arbeitszeit ausdrücklich verteidigt; Bücker fragt, *wer* überhaupt das Recht auf Zeit hat. Marquardts Kloster-Genügsamkeit setzt Wahlfreiheit voraus; Bückers Zeitpolitik macht sichtbar, dass diese Wahlfreiheit ungleich verteilt ist. Marquardt kennt die Grenze selbst (mit Kind und Wohneigentum reichte das halbe Gehalt für zwei nicht), Bücker macht daraus eine politische Frage.
 
 ### → [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
-Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster Shechen — beide beschreiben denselben Befund: Genügsamkeit und Rhythmus verändern die Qualität von Zeit grundlegend, ohne Zeit als Ressource zu vermehren. Marquardt zeigt dies philosophiegeschichtlich, Ricard liefert den neurowissenschaftlichen Beleg (Davidson-Studien: Langzeitmeditation verändert die Zeitwahrnehmungsarchitektur des Gehirns).
+Marquardt im christlichen Aschram Kurisumala, Ricard im Kloster Shechen im Himalaya: Beide erzählen, wie Genügsamkeit und Rhythmus die Qualität von Zeit verändern, ohne Zeit als Ressource zu vermehren. Marquardt erzählt es von einigen Wochen in Kerala, Ricard aus Jahrzehnten im Kloster. Was die Hirnforschung an Ricard gemessen hat, ist anderes, etwa Gamma-Wellen im EEG während der Meditation ([Lutz u. a. 2004](https://doi.org/10.1073/pnas.0407401101), Einzelstudie), nicht die Zeitwahrnehmung.
 
 ### → [[Denker/Erich Fromm — Haben oder Sein]]
 
@@ -315,7 +325,7 @@ Fromms „Haben-Modus" — Identität durch Besitz, Kontrolle, Anhäufung — is
 
 ### → [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 
-Kehnel zeigt das Mittelalter als gelebtes Archiv anderer Zeitstrukturen — Commons-Denken, Jahreszeitenrhythmus, liturgische Zeit statt linearer Produktionszeit. Das ist das historische Material für Marquardts These, dass die Moderne einen spezifischen (und falschen) Zeitbegriff erfunden hat. Kehnels Befund: Es gab andere Möglichkeiten. Marquardts Befund: Wir haben sie vergessen.
+Kehnel zeigt, wie das Mittelalter anders wirtschaftete: gemeinsam, teilend, wiederverwertend, im Takt des Kirchenjahres. Für Marquardts These, dass die Moderne einen eigenen Zeitbegriff hervorgebracht hat, ist das ein Gegenbild. Kehnels Befund: Es gab andere Möglichkeiten. Marquardts Befund: Wir haben vergessen, dass Zeit wir selbst sind.
 
 ### → [[Ernst Tugendhat — Unsere Angst vor dem Tod]]
 
@@ -328,6 +338,12 @@ Ernst Tugendhat stellt dieselbe Frage vom Tod her: Erst knappe Zeit zwingt zur F
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Marquardt sagt: Zeit ist immer *meine* Lebenszeit. Aber wenn mein Leben strukturell fremdbestimmt ist — durch Lohnarbeit, Pflege, Armut — wessen Zeit ist es dann? Ist Zeitphilosophie ohne Zeitpolitik Luxusdenken?
 > - Er empfiehlt Rituale und feste Rhythmen als Weg zu erfüllter Zeit. Aber Rituale schließen aus — wer keinen geregelten Tag hat, bleibt draußen. Gibt es Zeitqualität auch im Chaos?
-> - Das Sich-anrufen-lassen setzt voraus, dass man still genug ist, um den Ruf zu hören. Wie viel Stille ist strukturell nötig, um Resonanz zu ermöglichen — und wer hat sie?
-> - Marquardt setzt auf die pascalsche Wette und findet das entschleunigend. Kann man ein philosophisches Argument *wählen*, weil es sich gut anfühlt — oder wäre das genau das, was Pascal selbst kritisiert hätte?
+> - Rosas Sich-anrufen-Lassen, dem Marquardt zustimmt, setzt voraus, dass man still genug ist, um den Ruf zu hören. Wie viel Stille ist strukturell nötig, um Resonanz zu ermöglichen — und wer hat sie?
+> - Marquardt setzt, ohne Gewissheit, auf die pascalsche Wette, und das nimmt ihm „ein bisschen Druck raus". Kann man ein philosophisches Argument *wählen*, weil es sich gut anfühlt — oder wäre das genau das, was Pascal selbst kritisiert hätte?
 > - Wenn erfüllte Momente dadurch entstehen, dass man die Zeit vergisst — ist Achtsamkeit (bewusstes Zeiterleben) der Weg zu erfüllter Zeit, oder ihr Feind?
+
+---
+
+> [!note] Korrekturnotiz, 16.11.2026
+> Die Note entstand im Mai und wurde nun erstmals Satz für Satz gegen das Gespräch gelesen; wer spricht, haben wir an Standbildern bestimmt. Mehrere tragende Sätze hatten wir Marquardt zugeschrieben, die andere sagen: das „Sich-anrufen-Lassen“ und „Das Leben gelingt …“ stammen von Hartmut Rosa, den die Sendung einspielt; das Ferien-Paradox, „Ältere Menschen sagen …“, die Melodie und die Teilzeit-Zahl bringt der Moderator Yves Bossart ein. An zwei Stellen hatten wir Marquardts Haltung umgedreht: Erfüllte Momente seien „nicht planbar“ (er verlangt dafür Disziplin), und Achtsamkeit sei herausgefordert (er nennt bewussteres Erleben „die Kunst, auf die man sich hinbewegen muss“). Zugespitzt waren „Einstiegsdroge des Faschismus“ und Gadamer als „Leitfrage seines Denkens“. In den Verbindungen stand, Davidson-Studien hätten eine veränderte „Zeitwahrnehmungsarchitektur“ gezeigt; eine solche Studie gibt es nicht. Dazu kamen Namen (Gronemeyer, Kurisumala), Lebenslauf (Rheinland-Pfalz, freier Redakteur), das Latein bei Augustinus und Newton und Marquardts eigener Hinweis, dass Genügsamkeit mit Kind und Wohneigentum nicht reichte.
+

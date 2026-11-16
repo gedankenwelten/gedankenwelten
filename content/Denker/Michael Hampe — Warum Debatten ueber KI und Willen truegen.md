@@ -375,6 +375,9 @@ Scobels Ärger über den Hund, dem man das Bewusstsein abspricht, während man e
 
 Hampes Befund, dass wir dem Modell wegen seiner Sprache mehr zutrauen als dem Hund, findet dort einen Linguisten als Zeugen: Henning Lobin sagt, wir seien „gepolt“, alles Sprachliche als menschlich zu deuten. Katharina Zweig zieht die praktische Folge und will vor jedes Verb, das eine Absicht verlangt, eine Tilde setzen.
 
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+Dieselbe These aus dem scobel-Umfeld: Die Sprache legt das Innere in die Maschine, das wir dann in ihr finden.
+
 ---
 
 ## Weiterdenken

@@ -282,7 +282,7 @@ hat die Sache für ihre Oktober-Sitzung angesetzt; ein Gutachten ist bisher nich
 (KRS) wieder unabhängig machen sollte, sein 26. und 27. Veto. Die Regierung Tusk hat keine Mehrheit, um es zu überstimmen
 ([Notes from Poland](https://notesfrompoland.com/2026/02/19/president-vetoes-bill-reforming-judicial-body-at-heart-of-polands-rule-of-law-crisis/)).
 
-*(5) Israel, 27.10.2026.* Nach den Exit Polls fällt Netanjahus Lager von 68 auf etwa 51–52 Sitze, der Likud bleibt
+*(5) Israel, 27.10.2026.* Nach den Exit Polls fällt Netanjahus Lager von 68 Sitzen (seit Sa’ars Partei im September 2024 wieder dazukam; gewählt 2022 waren es 64) auf etwa 51–52 Sitze, der Likud bleibt
 stärkste Partei, keiner der Blöcke erreicht die 61
 ([CNN](https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl)). In der
 Auszählung holte Netanjahu wieder auf

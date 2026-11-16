@@ -313,6 +313,9 @@ Fricke trägt die Forschung zusammen, nach der Menschen autoritär wählen, wenn
 
 Im November erzählt Oetting die Kuchenrechnung ein drittes Mal, jetzt als Erklärung für die Wut der Gen Z, und setzt Helmut Schmidt in eine Reihe mit Thatcher.
 
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+Nullsummendenken empirisch: Wer in einer wachsenden Wirtschaft aufwuchs, denkt seltener, dass der Gewinn des einen der Verlust des anderen ist.
+
 ---
 
 ## Weiterdenken

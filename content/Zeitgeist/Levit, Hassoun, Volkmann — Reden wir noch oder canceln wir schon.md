@@ -321,6 +321,9 @@ Levit nennt es „hasenfüßig“, dass Museen und Galerien nach dem 7. Oktober 
 
 Volkmann will den „moralischen Absolutheitsanspruch“ aufgeben; Pörksen nennt die Tugend dazu respektvolle Konfrontation, die Position kritisieren, nicht die Person. Die Gegenstimme steckt im selben Abschnitt: Die Filterblase hält Pörksen für empirisch nicht belegt, wir litten eher an zu viel Konfrontation. Volkmanns „Blasen auf X und Bluesky“ und Levits „jeder seinen Raum und seine tausend Zuhörer“ beschreiben eine Abschottung, die Pörksen so nicht sieht; mit ihm gelesen wirkt das Panel selbst eher wie ein Zusammenprall als wie eine Blase.
 
+### → [[Zeitgeist/Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne 24 — Weimer gegen Buchhandlungen]]
+Der Buchhandlungspreis im März 2026, als die Klagen gerade begannen; hier ein halbes Jahr später, nach dem Beschluss des Verwaltungsgerichts.
+
 ---
 
 ## Weiterdenken

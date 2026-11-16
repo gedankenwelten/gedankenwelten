@@ -557,7 +557,7 @@ Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004 — seine Gamma-W
 
 ### → [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben]]
 
-Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster Shechen — beide beschreiben denselben Befund: Genügsamkeit und Rhythmus verändern die Qualität von Zeit grundlegend, ohne Zeit als Ressource zu vermehren. Marquardt philosophiegeschichtlich (Augustinus, Gadamer), Ricard neurowissenschaftlich (Davidson-Studien). Beide kommen zum selben Befund: Weniger zu besitzen gibt nicht mehr Zeit, aber andere Zeitqualität.
+Marquardt im christlichen Aschram Kurisumala in Kerala, Ricard im Kloster Shechen im Himalaya: Beide erzählen, wie Genügsamkeit und Rhythmus die Qualität von Zeit verändern, ohne Zeit als Ressource zu vermehren. Weniger zu besitzen gibt nicht mehr Zeit, aber eine andere Zeitqualität. Das ist bei beiden Erfahrung, kein Messwert; was die Hirnforschung an Ricard gemessen hat, betrifft anderes als das Zeiterleben.
 
 ### → [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 

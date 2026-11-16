@@ -284,6 +284,9 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Mas
 
 Die Seite der Gutachter zu Scobels Geisterquellen. Bei der ICLR mit über 60.000 Einreichungen waren alle Arbeiten, die Bauckhage prüfte, KI-generiert und bis auf eine „völlig unlesbar“, „sicherlich nicht falsch“, wie er meint. Scobels Zahlen zeigen, warum man sich darauf nicht verlassen kann, wenn niemand mehr liest.
 
+### → [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen|Michael Hampe — Warum Debatten über KI und Willen trügen]]
+Hampes „metaphorischer Verschiebebahnhof“: Wir beschreiben Gehirne wie Computer und Computer wie Menschen, und halten dann für einen Befund, was eine Metapher war.
+
 ---
 
 ## Weiterdenken

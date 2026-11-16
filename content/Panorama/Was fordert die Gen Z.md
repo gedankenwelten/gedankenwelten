@@ -108,7 +108,7 @@ Das ist ein gutes halbes Jahr in einem Alter, in dem ein halbes Jahr lang ist. D
 Jugendlichen eine geminderte Lebensqualität, deutlich mehr als vor der Pandemie; bei Mädchen ab 14 sind
 depressive Symptome von 11 auf 17 Prozent gestiegen, Ängste von 20 auf 31 Prozent. 70 Prozent sorgen sich
 wegen der Kriege. Die Studienleiterin sagt auch: Nicht jedes belastete Kind braucht eine Behandlung.
-(Die zugehörige Arbeit ist noch ein Preprint, [Kaman u. a. 2025](https://doi.org/10.21203/rs.3.rs-8260872/v1)).
+(Die zugehörige Arbeit ist inzwischen begutachtet erschienen, [Kaman u. a. 2026](https://doi.org/10.1007/s00787-026-03092-6), *Eur Child Adolesc Psychiatry*).
 
 **Warum es so lange dauert.** Die Zahl der Kassensitze wurde nie aus dem Bedarf errechnet: Man zählte am
 31. August 1999, acht Monate nach dem Psychotherapeutengesetz, die vorhandenen Praxen und erklärte sie zum Soll,

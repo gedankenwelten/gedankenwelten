@@ -2,7 +2,7 @@
 title: Walther Ziegler — DenkerVita
 description: "Platon, Kant, Foucault in je einer Stunde: Walther Ziegler erklärt große Denker mit Originalzitaten und Alltagsbeispielen und fragt, was sie uns heute noch zu sagen haben."
 date: 2026-04-26
-aktualisiert: 2026-04-26
+aktualisiert: 2026-11-16
 raetsel: "Er bestellte das Frühstück der Existenzialisten. Es kamen Espresso und Zigarette."
 tags: [denker-vita, philosophie, didaktik, deutschland]
 ---
@@ -26,7 +26,7 @@ tags: [denker-vita, philosophie, didaktik, deutschland]
 >
 > Die Reihe umfasst 26 Einzelbände zu je einem Denker, dazu fünf Sammelbände und zwei Themenbände (Stand DNB, Oktober 2026); übersetzt ist sie ins Englische, Französische, Vietnamesische und Koreanische. Bevor er Philosophie vermittelte, war der promovierte Philosoph Auslandskorrespondent, Reporter und Nachrichtenchef bei ProSieben; von 2007 bis 2015 leitete er die Medienakademie, eine Hochschule für Film- und Fernsehstudiengänge im Verbund der Hochschule Mittweida ([Autorenseite](https://walther-ziegler.jimdofree.com/autor/)). Über seinen YouTube-Kanal (*Dr. Walther Ziegler*) erreicht er ein Publikum weit über den akademischen Betrieb hinaus.
 >
-> Kernleistung: Philosophische Tiefe in allgemeinverständlicher Sprache — nicht als Popularisierung, sondern als Demokratisierung des Denkens.
+> Kernleistung: Philosophische Tiefe in allgemeinverständlicher Sprache, für Leser ohne Vorkenntnisse.
 
 ---
 
@@ -34,9 +34,9 @@ tags: [denker-vita, philosophie, didaktik, deutschland]
 
 Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 
-1. **Zentrale Originalzitate** — Jeder Vortrag arbeitet konsequent mit den Schlüsselzitaten des jeweiligen Denkers. Keine Paraphrase ohne Beleg, keine These ohne Textstelle. Bei Nietzsche geht er so weit, die *Kritische Studienausgabe* (KSA, 15 Bände) als Referenz zu verwenden.
+1. **Zentrale Originalzitate** — Jeder Vortrag arbeitet konsequent mit den Schlüsselzitaten des jeweiligen Denkers. Keine Paraphrase ohne Beleg, keine These ohne Textstelle. Im Nietzsche-Vortrag zitiert er aus der *Kritischen Studienausgabe* (KSA, 15 Bände).
 
-2. **Alltagsbeispiele als Brücke** — Marx' Basis-Überbau-Theorie wird am Kriegsgott der Wikinger illustriert, Hegels Dialektik am Übergang vom Feudalismus zur bürgerlichen Gesellschaft, Kants Kategorien am Autobahnbeispiel, Adornos Kulturindustrie am SUV-Fahrer im Biomarkt. Die Beispiele sind nie beliebig — sie treffen den Kern.
+2. **Alltagsbeispiele als Brücke** — Marx' Basis-Überbau-Theorie wird am Kriegsgott der Wikinger illustriert, Hegels Dialektik an der Französischen Revolution, Kants Kategorien am Autobahnbeispiel, Adornos Kulturindustrie am SUV-Fahrer im Biomarkt. Die Beispiele sind nie beliebig — sie treffen den Kern.
 
 3. **Die Aktualitätsfrage** — Jeder Vortrag schließt mit der Frage: *„Was hat uns dieser Denker heute noch zu sagen?"* Philosophie wird nicht als Museumsgegenstand behandelt, sondern als Werkzeug für die Gegenwart.
 
@@ -44,9 +44,9 @@ Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 
 ## Buchreihe „Große Denker in 60 Minuten"
 
-*Erschienen bei BoD – Books on Demand (Norderstedt), jeweils als Taschenbuch und E-Book. Die Bücher enthalten ca. dreimal so viele Zitate wie die Vorträge.*
+*Erschienen bei BoD – Books on Demand (Norderstedt), jeweils als Taschenbuch und E-Book. Zum Marx-Band heißt es in der [Videobeschreibung](https://www.youtube.com/watch?v=thoI8naBo4E), das Buch umfasse „etwa dreimal soviele Zitate“ wie der Vortrag.*
 
-### Bisher erschienene Einzeltitel (Auswahl)
+### Bisher erschienene Einzeltitel
 
 | Titel | Thema |
 |-------|-------|
@@ -90,7 +90,7 @@ Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 
 *Jeder Vortrag dauert rund eine Stunde — keine Kurzclips.*
 
-| Denker | Link | Im Vault |
+| Denker | Link | Unsere Note |
 |--------|------|----------|
 | Platon | [YouTube](https://www.youtube.com/watch?v=1yQTYWSoDiw) | [[Walther Ziegler — Platon in 60 Minuten]] |
 | Kant | [YouTube](https://www.youtube.com/watch?v=q2Wky9MKw50) | [[Walther Ziegler — Kant in 60 Minuten]] |
@@ -119,7 +119,7 @@ Zieglers didaktisches Prinzip folgt einem klaren Dreischritt:
 
 ## Bedeutung für Gedankenwelten
 
-Walther Ziegler ist mit **22 Notes** eine der am stärksten vertretenen Stimmen im Vault. Das ist kein Zufall: Seine Vorlesungsreihe deckt die philosophische Grundbildung ab, die als Fundament für alle anderen Gedankenwelten-Notes dient.
+Walther Ziegler ist mit **22 Notes** eine der am stärksten vertretenen Stimmen bei uns. Das ist kein Zufall: Seine Vorlesungsreihe deckt die philosophische Grundbildung ab, die als Fundament für alle anderen Gedankenwelten-Notes dient.
 
 Die Ziegler-Notes bilden ein **philosophisches Koordinatensystem**:
 
@@ -129,7 +129,7 @@ Die Ziegler-Notes bilden ein **philosophisches Koordinatensystem**:
 - **Gesellschaft & Gerechtigkeit:** Konfuzius (Ren, Ordnung) → Smith (unsichtbare Hand) → Popper (offene Gesellschaft) → Habermas (Diskurs) → Rawls (Schleier des Nichtwissens)
 - **Tiefenpsychologie:** Freud (Unbewusstes, Es/Ich/Über-Ich, Psychoanalyse)
 
-Jede Zeitgeist-Note im Vault — ob Butterwegge über Armut, Mattei über Austerität oder Osnos über Megayachten — wird tiefer, wenn man die philosophischen Grundlagen kennt, die Ziegler vermittelt.
+Jede Zeitgeist-Note bei uns — ob Butterwegge über Armut, Mattei über Austerität oder Osnos über Megayachten — wird tiefer, wenn man die philosophischen Grundlagen kennt, die Ziegler vermittelt.
 
 ---
 
@@ -168,3 +168,8 @@ Jede Zeitgeist-Note im Vault — ob Butterwegge über Armut, Mattei über Auster
 - [[Walther Ziegler — Camus in 60 Minuten]] — Gefühl der Absurdität, die drei verbotenen Fluchten, Sisyphos, Revolte, Quantität der Erfahrung
 - [[Walther Ziegler — Heidegger in 60 Minuten]] — Sinn von Sein, In-der-Welt-Sein, Sorge, Sein-zum-Tode, das Man, Ruf des Gewissens, Technik und Kehre
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Verfahrensgerechtigkeit, Schleier des Nichtwissens, Urzustand, Minimax-Regel, Differenzprinzip
+
+---
+
+> [!note] Korrekturnotiz, 16.11.2026
+> Am 29.10.2026 haben wir die Vita an Primärquellen geprüft (Autorenseite, DNB, YouTube) und korrigiert: vier YouTube-Adressen führten ins Leere und wurden durch die aus unseren Notes ersetzt, ein Preis ohne Beleg fiel weg, Zahl und Inhalt der Bände folgen der DNB. Am 16.11.2026 haben wir alle 22 Video-Adressen noch einmal abgerufen (alle erreichbar, alle auf seinem Kanal) und die Liste der Notes mit dem Bestand abgeglichen. Zwei Beispiele unter „Methode“ sind jetzt so beschrieben, wie sie in den Vorträgen vorkommen (Hegel an der Französischen Revolution, die KSA im Nietzsche-Vortrag), und die Angabe über die Zitate in den Büchern ist auf den Marx-Band beschränkt, für den sie belegt ist.

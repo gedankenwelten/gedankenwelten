@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 219,
-   "aufrufe": 278
+   "leser": 218,
+   "aufrufe": 277
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -174,6 +174,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
    "pfad": "/Denker/Platon-Das-Höhlengleichnis",
    "leser": 5,
    "aufrufe": 5
@@ -220,11 +225,6 @@
   },
   {
    "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
    "leser": 4,
    "aufrufe": 4
   },
@@ -399,6 +399,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Kolja-Moeller",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 3,
      "aufrufe": 3
@@ -419,7 +424,7 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 2,
      "aufrufe": 2
     },
@@ -440,11 +445,6 @@
     },
     {
      "pfad": "/DenkerVita/Kerstin-Paschke",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 2,
      "aufrufe": 2
     },
@@ -534,6 +534,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Neitzel-und-Iltisberger-Hype-Is-a-System",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 1,
      "aufrufe": 2
@@ -542,6 +547,11 @@
      "pfad": "/Zeitgeist/Ronen-Steinke-Meinungsfreiheit-Voelkermord-und-Verfassungsschutz",
      "leser": 1,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "leser": 1,
+     "aufrufe": 1
     },
     {
      "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
@@ -555,11 +565,6 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 1,
      "aufrufe": 1
     },
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 219,
-     "aufrufe": 278
+     "leser": 218,
+     "aufrufe": 277
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -784,6 +784,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 5,
      "aufrufe": 5
@@ -830,11 +835,6 @@
     },
     {
      "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1164,6 +1164,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "leser": 8,
+     "aufrufe": 8
+    },
+    {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
      "leser": 8,
      "aufrufe": 8
@@ -1210,11 +1215,6 @@
     },
     {
      "pfad": "/DenkerVita/Bernhard-Poerksen",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
      "leser": 7,
      "aufrufe": 8
     }
@@ -1469,6 +1469,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "leser": 8,
+     "aufrufe": 8
+    },
+    {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
      "leser": 8,
      "aufrufe": 8
@@ -1515,11 +1520,6 @@
     },
     {
      "pfad": "/DenkerVita/Bernhard-Poerksen",
-     "leser": 7,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
      "leser": 7,
      "aufrufe": 8
     }
@@ -1774,6 +1774,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Kolja-Moeller",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Darin-L.-Gerdes",
      "leser": 2,
      "aufrufe": 2
     }

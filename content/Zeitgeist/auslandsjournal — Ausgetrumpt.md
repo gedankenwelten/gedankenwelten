@@ -474,8 +474,8 @@ Geschichte auf seiner Seite.
 
 > [!success] Bestätigt — Der größte Teil der Litanei
 > Abdul El-Sayed (Michigan) ist der erste Muslim im Senat, Michigan war allerdings ein gehaltener Sitz, kein gedrehter.
-> Adam Hamilton ist der erste Demokrat aus Kansas seit 1932, Annie Andrews die erste Demokratin auf ihrem Sitz in South
-> Carolina seit 1998. Keisha Lance Bottoms ist nach AP sogar die erste gewählte schwarze Gouverneurin der USA überhaupt,
+> Adam Hamilton ist der erste Demokrat aus Kansas seit 1932, Annie Andrews die erste Demokratin, die South
+> Carolina seit 1998 in den Senat schickt ([CBS](https://www.cbsnews.com/news/south-carolina-2026-senate-annie-andrews-darline-graham/)). Keisha Lance Bottoms ist nach AP sogar die erste gewählte schwarze Gouverneurin der USA überhaupt,
 > Deb Haaland (New Mexico) die erste indigene Gouverneurin, Peggy Flanagan (Minnesota) die erste indigene Frau im Senat,
 > Amy Acton die erste Gouverneurin Ohios, Byron Donalds (Republikaner) der erste schwarze Gouverneur Floridas. Gina
 > Hinojosa ist die erste Latina im Amt und die erste Demokratin dort seit 1990 ([▶ 5:25](https://www.youtube.com/watch?v=yP_xDblh628&t=325)).
@@ -552,7 +552,7 @@ Geschichte auf seiner Seite.
 > Keine unabhängige Quelle gefunden.
 
 > [!success] Bestätigt — Der Iran-Krieg trieb die Spritpreise
-> Benzin kostete in den USA am 23.02.2026 im Schnitt 3,07 Dollar je Gallone, im Mai 4,63, am 02.11. noch 4,29; der Sprung
+> Benzin kostete in den USA am 23.02.2026 im Schnitt 3,07 Dollar je Gallone, im Mai 4,63, am 02.11. noch 4,29 (Durchschnitt aller Sorten laut EIA; der AAA-Wert für Normalbenzin liegt etwas darunter); der Sprung
 > beginnt im März ([▶ 25:57](https://www.youtube.com/watch?v=yP_xDblh628&t=1557)). Die allgemeine Teuerung ist älter, der Krieg kam *„zusätzlich“* dazu. Trump selbst
 > räumte bei Fox ein: *„a part of it was Iran“*.
 > Quellen: [U.S. EIA — Benzinpreise](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W) · [Tagesschau — Analyse](https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-analyse-100.html)
