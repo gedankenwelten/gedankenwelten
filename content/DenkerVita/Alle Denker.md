@@ -789,6 +789,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## V
 
+**[[DenkerVita/Aleksandar Vucic|Aleksandar Vučić]]** — serbischer Politiker, Informationsminister unter Milošević (1998–2000), Ministerpräsident 2014–2017, Präsident 2017–2026; Stabilität und EU-Weg ohne Bruch mit Moskau für die einen, Wahlautokratie laut V-Dem für die anderen; verlor die Wahl im Oktober 2026 gegen die Studentenliste
+
 **[[DenkerVita/Johannes Volkmann|Johannes Volkmann]]** — CDU-Bundestagsabgeordneter (Lahn-Dill), Auswärtiger Ausschuss, trennt scharf zwischen privaten und öffentlich finanzierten Räumen
 
 **[[DenkerVita/Hagen Vockerodt|Hagen Vockerodt]]** — Hauptmann a. D., ehemaliger Kampfsanitäter der Bundeswehr, 1638 Einsatztage vom Kosovo bis Afghanistan; spricht als Redner über PTBS und Veteranen

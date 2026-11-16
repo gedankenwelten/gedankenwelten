@@ -47,11 +47,12 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*373 Notes — automatisch generiert · nach Thema sortiert*
+*374 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
 
+- [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]] — Ein Vordach stürzt ein, sechzehn Menschen sterben, und Serbiens Studierende besetzen ihre Fakultäten. Ein Film aus dem Inneren der Bewegung, die ein Jahr später die Wahl gewinnen sollte.
 - [[Zeitgeist/Adam Tooze — Krise und demokratische Gelegenheit|Adam Tooze — Krise und demokratische Gelegenheit]] — Eine Politik, die niemanden zurücklassen will, ist keine Demokratie, sagt Adam Tooze. Am Morgen vor den Ostwahlen 2024 streitet er mit Maja Göpel über Mehrheit, Konsens und Feinde.
 - [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle]] — Für Adam Tooze ist der Streit zwischen Pentagon und Anthropic eine Umkehrung: Der Staat bändigt das Unternehmen nicht, er bestraft es, weil es sich zwei Grenzen für seine KI setzt.
 - [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt]] — Zwischen dem guten Leben und der fehlenden Perspektive liegt ein Ort — und wer ihn zuerst benennt, gewinnt die Jungen, auch mit der schwarzen Sonne im Rücken.

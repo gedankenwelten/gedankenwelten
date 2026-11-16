@@ -1453,3 +1453,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Dijana Hrka
 **Status:** ✓ Vollanalyse → [[DenkerVita/Dijana Hrka]]
+
+## Aleksandar Vučić
+**Status:** ✓ Vollanalyse → [[DenkerVita/Aleksandar Vucic]]

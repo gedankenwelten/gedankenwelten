@@ -224,7 +224,7 @@ diesem Fall für die These, ohne dass der Rückbau versucht worden wäre. Beim U
 **Befund:**
 
 *(1) Serbien, 25.10.2026.* Die Studentenliste gewinnt die vorgezogene Parlamentswahl. Die Hochrechnung der
-Wahlbeobachter von Crta sah sie bei 51,47 %, das Bündnis „Aleksandar Vučić – Vereintes Serbien" bei 40,42 %; Ipsos/CeSID
+Wahlbeobachter von Crta sah sie bei 51,47 %, das Bündnis „Aleksandar Vučić – Vereintes Serbien" bei 40,42 % (→ [[DenkerVita/Aleksandar Vucic|DenkerVita Vučić]]); Ipsos/CeSID
 bei 52 % zu 39,3 %
 ([European Western Balkans](https://europeanwesternbalkans.com/2026/10/25/the-student-list-won-snap-parliamentary-elections-in-serbia/)).
 Vučić räumte noch am Abend ein, „auf Grundlage der Stichprobe ist klar, dass wir die Wahl verloren haben", und

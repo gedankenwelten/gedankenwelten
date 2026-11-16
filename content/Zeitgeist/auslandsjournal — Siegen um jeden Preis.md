@@ -143,7 +143,7 @@ genau auf die Gruppe, deren hohe Beteiligung das Ergebnis gedreht hat.
 ### Serbien und Brasilien: einer räumt ein, einer flieht
 
 [▶ 24:21](https://www.youtube.com/watch?v=iX_qh2O7OuI&t=1461) — Das Gegenbeispiel kommt aus Serbien. Aleksandar
-Vučić hat die Parlamentswahl gegen eine Liste verloren, die aus den Studentenprotesten entstand, und er hat die
+Vučić (→ [[DenkerVita/Aleksandar Vucic|DenkerVita]]) hat die Parlamentswahl gegen eine Liste verloren, die aus den Studentenprotesten entstand, und er hat die
 Niederlage eingeräumt. Röller erklärt es nüchtern: Die Niederlage war so deutlich, dass Leugnen nicht mehr ging,
 wie bei Orbán im April. Und er dämpft die Freude gleich wieder. Man wisse nicht, wer diese Liste eigentlich sei,
 es gebe *„teilweise sehr nationalistische Tendenzen“*, den Kosovo wolle sie keinesfalls anerkennen, und die Nähe

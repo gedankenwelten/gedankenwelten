@@ -2,7 +2,7 @@
 title: "Wirkt Protest?"
 date: 2026-11-06
 erstellt: 2026-11-06
-aktualisiert: 2026-11-11
+aktualisiert: 2026-11-16
 panorama-art: wachsend
 description: "Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben."
 raetsel: "Das Denkmal ist höflicher, als der Mann es war."
@@ -55,6 +55,8 @@ gegen eine Liste ein, die aus Studentenprotesten entstanden war. Auf ihr standen
 bekannte Fachleute, Sportler, Landwirte und Künstler (→ [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Spur: Abgewählt]]).
 Auch hier wurde aus der Straße eine Wahl.
 
+Was eine Bewegung ohne Anführer kann, ist eine alte Streitfrage. Jo Freeman warnte 1970 aus der Frauenbewegung, Strukturlosigkeit verhindere nur die formellen Strukturen und verberge die informellen Eliten ([Freeman, The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)). Zeynep Tufekci beschreibt das „taktische Einfrieren“ vernetzter Bewegungen, die weder mit dem Gegner noch untereinander verhandeln können (Tufekci, *Twitter and Tear Gas*, Yale University Press 2017). Für Serbien zeigen Interviews die Plenen als praktisches Werkzeug gegen Repression und für neues Vertrauen ([Pudar Draško u. a. 2026](https://doi.org/10.1080/00380253.2026.2646315), Interviewstudie). Den Weg in die Wahlpolitik ging in Spanien die Bewegung des 15. Mai mit Podemos ([Flesher Fominaya 2020](https://doi.org/10.1093/oso/9780190099961.003.0011), Monografie). Nach dem Sieg über einen Autokraten droht breiten Bündnissen der Zerfall an inneren Konflikten ([Ong & Cayton 2026](https://doi.org/10.1017/s1537592726105799), Fallvergleich Polen und Malaysia).
+
 Für Aufstände gegen Regime gibt es eine große Zählung. In über fünfhundert Kampagnen, die Erica Chenoweth
 ausgewertet hat, hatten gewaltfreie etwa doppelt so oft Erfolg wie gewaltsame ([Chenoweth 2020](https://doi.org/10.1353/jod.2020.0046)).
 Eine Replikation hält diesen Befund allerdings für empfindlich gegenüber der Auswahl der Daten (Dworschak 2023, [Replikation](https://doi.org/10.5129/001041523x16745900727169)).
@@ -74,6 +76,14 @@ Einen harten Testfall liefert Minneapolis. Nach den Todesschüssen auf Renee Goo
 - **[[Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration#3. Meinungswandel zur Immigration — historischer Allzeithoch|Koschi Politik]]:** Während der Vollzug härter wurde, sagten so viele Amerikaner wie nie, Einwanderung sei gut für das Land, auch unter Republikanern; bei Unabhängigen verlor Trumps Einwanderungspolitik 27 Punkte.
 - **[[Paul Lance — Amerikaner fragt Deutsche ueber Trump#Apathie als eigentliches Problem|Paul Lance]]:** „No Kings“ sei eine Teilnahmetrophäe der Weißen, acht Millionen von 340; das eigentliche Problem sei Apathie, solange es einen nicht selbst trifft.
 - **[[Al Jazeera — Stephen Millers Krieg#Der Mann hinter dem Gesicht|Naureen Shah]]:** Rechenschaft erreicht den Mann ohne Wahlamt nicht; es fallen die Figuren auf dem Brett, das Gesicht vor dem Publikum wechselt, er bleibt.
+- **[[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand#Eine Bewegung ohne Anführer|Serbiens Studierende]]:** Ohne Anführer kann niemand sie kaufen, aber auch niemand für sie entscheiden: viereinhalb Stunden Plenum ohne Ergebnis, „wir sind zwanzig“, und gewonnen hat eine Liste, auf der kein Studierender stand.
+
+<details><summary>Weitere Stimmen (2)</summary>
+
+- **[[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie#Ein Fürst gegen die Aristokratie|Ardalan Ibrahim]]:** Basisdemokratische Parteien seien an der Wirklichkeit gescheitert, darum führe er seine eigene offen von oben.
+- **[[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Linke Bewegungen damals versus heute|Aladin El-Mafaalani]]:** Frühere linke Bewegungen misstrauten einzelnen Akteuren, nicht dem System, und mündeten darum in Institutionen wie die Grünen.
+
+</details>
 
 > [!question] Die Reibung
 > Fridays for Future wirkte über Wahlen, Serbiens Studenten über eine Liste. *Ist die Straße dann nur der Anfang
@@ -111,6 +121,15 @@ Plünderungen (→ [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#La
 - **[[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Was King damals war|Robin Celikates]]:** King war radikaler als sein Denkmal, und auch Fridays for Future wurde erst im Nachhinein gelobt, als „moralische Selbstfreisprechung“.
 - **[[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Lautstärke|Lilli Berthold]]:** Erst die Krawalle hätten die Politik aufhorchen lassen; sie billigt das nicht, sie beschreibt die Zuhörer.
 - **[[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Lautstärke|Kilian Hampel]]:** Fridays for Future habe gezeigt, dass friedlicher Protest möglich ist und gehört wird.
+- **[[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand#Der 15. März und der Morgen danach|Serbiens Studierende]]:** Am 15. März ziehen die Ordner ihre Westen aus und schicken die Menge nach Hause, um ein Blutbad zu vermeiden; eine Studentin behält sich Gewalt vor, falls die Wahl gestohlen wird wie im Jahr 2000.
+- **[[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand#Gewalt oder Geduld|Alek Kavčić]]:** Eine radikale Option erzeuge eine radikale Reaktion und rechtfertige sie; einem friedlichen, rechtmäßigen Protest habe ein Regime wenig entgegenzusetzen.
+
+<details><summary>Weitere Stimmen (2)</summary>
+
+- **[[Zeitgeist/Sari Nusseibeh — Die Geduld des Philosophen#Schahrazad, oder warum das Messer nichts löst|Sari Nusseibeh]]:** Schahrazad nahm kein Messer mit, weil auf den getöteten König ein ebenso schlimmer gefolgt wäre; Gewaltfreiheit als Aussage über Wirkung.
+- **[[DenkerVita/Maria Kalesnikava#Kernthesen|Maria Kalesnikava]]:** Die friedlichen Proteste in Belarus 2020 wurden zerschlagen; die Verantwortung für die Gewalt trage, wer sie befiehlt, nicht wer auf Blumen gesetzt hat.
+
+</details>
 - **[[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Was die Barrikade verdeckt|Hedwig Richter]]:** Die Demokratie erzählt sich in Bildern bewaffneter Helden, gekommen ist sie öfter über Petitionen und Vereine; gewaltsame Umstürze führten eher in Diktaturen, friedliche Aufbrüche eher zu Demokratien, die bleiben.
 - **[[Denker/Philipp Blom — Die Unterwerfung#Rauchende Trümmer und die Suffragetten|Philipp Blom]]:** Höfliches Informieren hilft wenig, solange das System stabil ist; die Suffragetten wurden laut, das Wahlrecht brachte ihnen aber erst der Krieg.
 - **[[Denker/Steffen Mau — Spaltung der Gesellschaft#Triggerpunkte — Keine Spaltung, aber neuralgische Zonen|Steffen Mau]]:** Die „Klimakleber“ sind ein Triggerpunkt; an ihnen steigt der Puls, an der Verteilungsfrage kaum.
@@ -136,6 +155,8 @@ liberaler ab, weil er Menschen mobilisiert hatte ([Enos, Kaufman & Sands 2019](h
 In Frankreich hatten die Krawalle von 2005 doppelte Folgen, Geld für die Banlieues und eine härtere Ordnungspolitik
 (Bonnet & Le Derff 2024, [Übersicht](https://doi.org/10.1057/s41253-024-00266-z)).
 
+Wie eine Bewegung ihre Gewaltfreiheit hält, ist umstritten. Kampagnen ohne Hierarchie und mit offenem innerem Streit halten sie nach Jonathan Pinckney besser, Repression und auch Zugeständnisse schwächen sie (Pinckney 2016, [Monografie](https://www.nonviolent-conflict.org/wp-content/uploads/2015/12/Pinckney-Monograph-Final-with-Map-Changes-for-Online-1.pdf)). Nach Belgioioso, Costalli und Gleditsch braucht es eher eine zentrale Führung, die glaubhaft verhindert, dass es eskaliert ([Belgioioso u. a. 2019](https://doi.org/10.1080/09546553.2018.1559836), Vergleichsstudie). Ohne Anführer zügeln sich Protestierende mit „inneren Bremsen“, darunter Bedingungen wie „erst, wenn …“ ([Yuen 2026](https://doi.org/10.1093/jopres/xjaf013), Fallstudie Hongkong). Gewaltfreie Bewegungen eskalieren, wenn es gewaltbereite Strömungen gibt und die gewaltfreien Wege nichts mehr bewegen ([Ryckman 2019](https://doi.org/10.1177/0022002719861707), Vergleichsstudie). Serbiens Opposition siegte im Oktober 2000 mit einer bewaffneten Reserve, die sie nie einsetzte, nach Pinckney „überwiegend gewaltfrei“; 2025 lösten die Studierenden ihre größte Kundgebung selbst auf, bevor es eskalierte (→ [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand#Gewaltfreiheit mit Bedingung|Nachbesprechung Serbien]]). Regime antworten mit eigenen Kundgebungen, wenn die Opposition stark ist und vor Wahlen ([Hellmeier & Weidmann 2019](https://doi.org/10.1177/0010414019843559), weltweiter Datensatz).
+
 Ob Gewalt sich ausbreitet, weil über sie berichtet wird, ist offen. Die US-Krawallwelle der Sechziger folgte der
 Reichweite der Massenmedien ([Myers 2000](https://doi.org/10.1086/303110)); für Frankreich 2005 erklärt die
 räumliche Nähe die Ausbreitung besser als die Medien (Bonnasse-Gahot u. a. 2018, [Modellierung](https://doi.org/10.1038/s41598-017-18093-4)).
@@ -160,6 +181,7 @@ Was die Nacht vom 31. Oktober in Deutschland bewirkt, verfolgt eine eigene Spur
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 16.11.2026 | [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand#Nachbesprechung\|3Cat — Wake up, Serbia! Der Studentenaufstand]] | Und wenn es brennt? Gewaltfreiheit mit Bedingung: Disziplin dezentral (Pinckney 2016) oder zentral (Belgioioso u. a. 2019), innere Bremsen ohne Anführer (Yuen 2026), Eskalation, wenn nichts vorangeht (Ryckman 2019), Gegenmobilisierung (Hellmeier & Weidmann 2019), Schläger zur Miete (Ong 2018), der 5. Oktober 2000 als „überwiegend gewaltfrei“ mit bewaffneter Reserve · Was erreicht die Straße? Bewegungen ohne Anführer (Freeman, Tufekci, Polletta, Lai & Sing 2020), Plenen in Serbien (Pudar Draško u. a. 2026, Birešev u. a. 2026), 15-M → Podemos (Flesher Fominaya 2020), Chile (Rodríguez u. a. 2024), die Siegesfalle (Ong & Cayton 2026) · Kavčić, Nusseibeh, Kalesnikava, Ibrahim, El-Mafaalani |
 | 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Führt der friedliche Weg eher zur Demokratie?\|Hedwig Richter — Petitionen statt Barrikaden]] | Und wenn es brennt? Übergänge nach Gewalt und Gewaltfreiheit (Celestino & Gleditsch, Bayer u. a., Bethke & Pinckney), Vereine statt Parteien (Pinckney u. a.), Wandel von oben nach Bewegung (Djuve & Knutsen), Ägypten 2011/2013 (Nepstad) · Was erreicht die Straße? Erfolgsquote sinkt seit 2010 (Chenoweth 2020), Grenzen der Daten (Anisin) · Blom, Kant, Niess |
 | 07.11.2026 | [[Zeitgeist/Al Jazeera — Stephen Millers Krieg#Minneapolis was der Protest erreicht hat und was nicht\|Al Jazeera — Stephen Millers Krieg]] | Minneapolis als Testfall: Proteste, Ende von Metro Surge, keine Reform im Haushaltsstreit, Wahl, Beförderung Millers → backfire (Hess & Martin), Floyd-Proteste (Reny & Newman, Primbs u. a.), begrenzte Wirkung (Gethin & Pons), Vollzug mobilisiert (White, Kuhn), Parteien nach Niederlagen (Somer-Topcu) · Koschi, Paul Lance, Shah |
 | 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Bringt erst Lärm Gehör?\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Bringt erst Lärm Gehör? → Parteien und Protest (Hutter & Vliegenthart), Berichterstattung (Lee), extreme Taktiken (Feinberg u. a.), Fridays for Future über Wahlen (Fabel u. a.), Frankreich 2005, Gewalt nach Chenoweth 2023, Ausbreitung (Myers, Bonnasse-Gahot u. a.) |
