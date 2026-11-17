@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 193,
-   "aufrufe": 246
+   "leser": 187,
+   "aufrufe": 226
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -49,13 +49,13 @@
    "aufrufe": 22
   },
   {
-   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "leser": 16,
-   "aufrufe": 19
-  },
-  {
    "pfad": "/DenkerVita/Hartmut-Rosa",
    "leser": 16,
+   "aufrufe": 18
+  },
+  {
+   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+   "leser": 15,
    "aufrufe": 18
   },
   {
@@ -69,14 +69,14 @@
    "aufrufe": 14
   },
   {
-   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "pfad": "/DenkerVita/Carlo-Cipolla",
    "leser": 12,
    "aufrufe": 13
   },
   {
-   "pfad": "/DenkerVita/Carlo-Cipolla",
-   "leser": 12,
-   "aufrufe": 13
+   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "leser": 11,
+   "aufrufe": 12
   },
   {
    "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -129,12 +129,22 @@
    "aufrufe": 8
   },
   {
+   "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+   "leser": 6,
+   "aufrufe": 8
+  },
+  {
    "pfad": "/DenkerVita/Marcant",
    "leser": 6,
    "aufrufe": 7
   },
   {
    "pfad": "/DenkerVita/Ralf-Stockmann",
+   "leser": 6,
+   "aufrufe": 7
+  },
+  {
+   "pfad": "/DenkerVita/Stephan-Bartunek",
    "leser": 6,
    "aufrufe": 7
   },
@@ -149,11 +159,6 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
-   "leser": 5,
-   "aufrufe": 8
-  },
-  {
    "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
    "leser": 5,
    "aufrufe": 7
@@ -162,11 +167,6 @@
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
    "leser": 5,
    "aufrufe": 7
-  },
-  {
-   "pfad": "/DenkerVita/Stephan-Bartunek",
-   "leser": 5,
-   "aufrufe": 6
   },
   {
    "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
@@ -185,6 +185,11 @@
   },
   {
    "pfad": "/DenkerVita/Anke-Myrrhe",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Thomas-Eichstaedt",
    "leser": 5,
    "aufrufe": 5
   },
@@ -254,22 +259,12 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Thomas-Eichstaedt",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
    "leser": 4,
    "aufrufe": 4
   },
   {
    "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
    "leser": 4,
    "aufrufe": 4
   },
@@ -302,6 +297,11 @@
    "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
    "leser": 4,
    "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Udo-Marquardt",
+   "leser": 3,
+   "aufrufe": 6
   }
  ],
  "zeitraeume": {
@@ -324,14 +324,14 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 8,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 8,
      "aufrufe": 8
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -339,12 +339,12 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 5,
-     "aufrufe": 6
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 6,
+     "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 5,
      "aufrufe": 6
     },
@@ -579,11 +579,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
      "leser": 1,
      "aufrufe": 1
@@ -604,6 +599,11 @@
      "aufrufe": 1
     },
     {
+     "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 1,
      "aufrufe": 1
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 193,
-     "aufrufe": 246
+     "leser": 187,
+     "aufrufe": 226
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -659,13 +659,13 @@
      "aufrufe": 22
     },
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 16,
-     "aufrufe": 19
-    },
-    {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 16,
+     "aufrufe": 18
+    },
+    {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 15,
      "aufrufe": 18
     },
     {
@@ -679,14 +679,14 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 12,
      "aufrufe": 13
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 12,
-     "aufrufe": 13
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 11,
+     "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -739,12 +739,22 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "leser": 6,
+     "aufrufe": 8
+    },
+    {
      "pfad": "/DenkerVita/Marcant",
      "leser": 6,
      "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
+     "leser": 6,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 6,
      "aufrufe": 7
     },
@@ -759,11 +769,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
-     "leser": 5,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 5,
      "aufrufe": 7
@@ -772,11 +777,6 @@
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 5,
      "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 5,
-     "aufrufe": 6
     },
     {
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
@@ -795,6 +795,11 @@
     },
     {
      "pfad": "/DenkerVita/Anke-Myrrhe",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 5,
      "aufrufe": 5
     },
@@ -864,22 +869,12 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
      "leser": 4,
      "aufrufe": 4
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
      "leser": 4,
      "aufrufe": 4
     },
@@ -912,6 +907,11 @@
      "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
      "leser": 4,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "leser": 3,
+     "aufrufe": 6
     }
    ]
   },
@@ -1114,6 +1114,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "leser": 9,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 9,
      "aufrufe": 9
@@ -1140,11 +1145,6 @@
     },
     {
      "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "leser": 8,
-     "aufrufe": 11
-    },
-    {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 8,
      "aufrufe": 11
     },
@@ -1419,6 +1419,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "leser": 9,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 9,
      "aufrufe": 9
@@ -1445,11 +1450,6 @@
     },
     {
      "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "leser": 8,
-     "aufrufe": 11
-    },
-    {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 8,
      "aufrufe": 11
     },
@@ -1574,11 +1574,6 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 9,
      "aufrufe": 9
@@ -1592,6 +1587,11 @@
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 9,
      "aufrufe": 9
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 8,
+     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
@@ -1629,6 +1629,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
@@ -1649,17 +1654,17 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 4,
      "aufrufe": 4
     },
     {
      "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1745,11 +1750,6 @@
     },
     {
      "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 3,
      "aufrufe": 3
     },
