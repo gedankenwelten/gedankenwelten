@@ -2,8 +2,8 @@
 title: "Wer bringt das Falsche in Umlauf?"
 date: 2026-10-17
 erstellt: 2026-10-17
-aktualisiert: 2026-10-17
-description: "Alle Parteien sagen Falsches, aber nicht alle gleich oft und nicht zum selben Zweck. Vier offene Fragen dazu, was gemessen ist, was gewollt ist und wer die Prüfer prüft."
+aktualisiert: 2026-11-17
+description: "Alle Parteien sagen Falsches, aber nicht alle gleich oft und nicht zum selben Zweck. Fünf offene Fragen dazu, was gemessen ist, was gewollt ist, wer die Prüfer prüft und ob es hilft, das Falsche zu widerlegen."
 raetsel: "Der Lügner kennt den Weg und zeigt in die andere Richtung. Gefährlicher ist, wer nicht mehr fragt, wohin er führt."
 panorama-art: wachsend
 tags:
@@ -131,11 +131,47 @@ Die Prüfer irren auch selbst. Das ZDF unterlag vor dem Landgericht Hamburg, wei
 
 ---
 
+## Hilft es, das Falsche zu widerlegen?
+
+Wer widerspricht, gibt dem Falschen Aufmerksamkeit. Wie viel, lässt sich an einem Fall ablesen: Als X im April 2023 Teile seines Empfehlungscodes offenlegte, zählte eine Antwort 27-mal so viel wie ein Like, eine Antwort, auf die der Verfasser reagiert, 150-mal ([twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml/blob/main/projects/home/recap/README.md), Stand 05.04.2023; wie TikTok und Instagram Kommentare sortieren, ist nicht öffentlich). Empörung treibt das Teilen von Falschem mindestens so stark wie das von verlässlichen Nachrichten, oft ungelesen ([McLoughlin u. a. 2024](https://doi.org/10.1126/science.adl2829), acht Studien), und die meisten Menschen erfahren von Falschmeldungen nicht aus deren Quellen, sondern aus Berichten über sie ([Tsfati u. a. 2020](https://doi.org/10.1080/23808985.2020.1759443), Übersichtsarbeit).
+
+Die Widerlegung selbst schadet fast nie. Der Backfire-Effekt, die verstärkte Überzeugung nach einer Korrektur, gilt heute als Messartefakt ([Swire-Thompson, DeGutis & Lazer 2020](https://doi.org/10.1016/j.jarmac.2020.06.006), Übersichtsarbeit; [Wood & Porter 2019](https://doi.org/10.1007/s11109-018-9443-y), 52 Themen ohne Backfire). Sie wirkt aber nicht vollständig, ein Rest des Falschen bleibt ([Walter & Tukachinsky 2020](https://doi.org/10.1177/0093650219854600), Meta-Analyse), und bei politisch aufgeladenen Wissenschaftsfragen war die Wirkung im Mittel nicht mehr von null zu unterscheiden ([Chan & Albarracín 2023](https://doi.org/10.1038/s41562-023-01623-8), Meta-Analyse, 2025 korrigiert: d = 0,11). Die Lüge in der Korrektur zu wiederholen, ist unbedenklich ([Ecker, Lewandowsky & Chadwick 2020](https://doi.org/10.1186/s41235-020-00241-6), drei Experimente); das „Truth Sandwich“ korrigiert nicht besser als schlichtere Formen ([Swire-Thompson, Butler & Rapp 2025](https://doi.org/10.1037/edu0000961), zwei Experimente), lässt Faktenchecker aber weniger manipulativ wirken ([Tulin u. a. 2024](https://doi.org/10.1080/17512786.2024.2311311), Experiment).
+
+In der Kommentarspalte ist der Befund gemischt. Korrekturen anderer Nutzer wirken auf die Mitlesenden, vor allem mit Quelle ([Bode & Vraga 2018](https://doi.org/10.1080/10410236.2017.1331312), Experiment; [Seo u. a. 2022](https://doi.org/10.1609/icwsm.v16i1.19344), drei Experimente). Empathische Antworten bringen Verfasser von Hasskommentaren dazu, mehr zu löschen, Humor und Warnung nicht ([Hangartner u. a. 2021](https://doi.org/10.1073/pnas.2116310118), Feldexperiment). Organisierte, sachliche Gegenrede wie bei #ichbinhier geht mit sachlicheren Folgediskussionen einher ([Frieß, Ziegele & Heinbach 2020](https://doi.org/10.1080/10584609.2020.1830322), Inhaltsanalyse). Über dieselbe Gegenbewegung Reconquista Internet kommen zwei Studien zu entgegengesetzten Schlüssen, Bremse ([Garland u. a. 2022](https://doi.org/10.1140/epjds/s13688-021-00314-6), vier Jahre deutsches Twitter) oder Eskalation ([Keller & Askanius 2020](https://doi.org/10.5771/2192-4007-2020-4-540), qualitativ), und im Experiment änderte Gegenrede das Verhalten Umstehender nicht ([Jia & Schumann 2025](https://doi.org/10.5817/cp2025-1-4), Einzelstudie). Ein Community-Hinweis senkt die Reposts danach um fast die Hälfte ([Slaughter u. a. 2025](https://doi.org/10.1073/pnas.2503413122), Kausalanalyse), macht die Antworten darunter aber wütender ([Chuai u. a. 2025](https://doi.org/10.1145/3706598.3713909), 2,2 Millionen Antworten).
+
+Vorbeugen statt Nachräumen, das Prebunking, wirkt im Labor und in einem YouTube-Feldversuch ([Roozenbeek u. a. 2022](https://doi.org/10.1126/sciadv.abo6254), sechs Experimente und Feldstudie). Im realistischen Feed verschwand der Effekt ([Wang u. a. 2025](https://doi.org/10.1093/pnasnexus/pgaf172), fünf Experimente), ohne Auffrischung hält er etwa einen Monat ([Maertens u. a. 2025](https://doi.org/10.1038/s41467-025-57205-x), Längsschnitt), und auf das Teilen von Falschem war er in einer Meta-Analyse nicht gesichert ([Lu u. a. 2023](https://doi.org/10.2196/49255), Meta-Analyse).
+
+**Die Stimmen**
+
+- **[[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten#Gegenstrategien den Hass nicht füttern|Lilith Roska und Gina Wiedemann]]:** Für die Mitlesenden entlarven, aber nicht unter dem Hasskommentar antworten, das spült ihn nach oben; gute Gegenkommentare liken, und: pick your fights.
+- **[[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt#Realitätskonstruktion Stereotype, Verfallporn und das Reality Distortion Field|Katharina Nocun]]:** Wer dagegen kommentiert, boostet den Post; Empörung ist Engagement, und die Überspitzung ist vielleicht Teil der Strategie.
+- **[[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten#Wie damit umgehen? Das Dilemma der Entlarvung|Annika Brockschmidt]]:** Schweigen normalisiert; einordnen muss sein, leicht verständlich und geschlossen, das Muster statt des Einzelfalls.
+- **[[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha#Was tun? Vier nüchterne Appelle|Leonie Heims und Tim Stark]]:** Lieber gar nicht berichten, als ein Phänomen zu verharmlosen.
+- **[[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Was nicht hilft|Aladin El-Mafaalani]]:** Ignorieren funktioniert nicht, die Misstrauensgemeinschaften haben eigene Reichweite; ausgefeilte Kommunikation bestätigt nur den Verdacht der Manipulation.
+- **[[Denker/Renee DiResta — Invisible Rulers#Lösungsansätze Was tatsächlich helfen kann|Renée DiResta]]:** Faktenchecks lösen das Problem nicht, Identitäts- und Vertrauensfragen lassen sich nicht wegfakten; besser vorbeugen als nachräumen.
+- **[[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung#Wer hat recht der Code oder das Gefühl?|Molly Crockett]]:** Moralische Empörung ist auch nützlich, gemeinsam online eingesetzt kann sie viel erreichen, gerade für Gruppen, die sonst kaum gehört werden.
+- **[[Zeitgeist/Ingrid Brodnig — Gegenstrategien zum Frauenhass#Gegenstrategien Wem schenke ich meine Antwort?|Ingrid Brodnig]]:** Vor jeder Antwort fragen, welcher Zielgruppe man den Post schenkt; antworten lohnt fürs Publikum, nicht für den Angreifer.
+
+<details><summary>Weitere Stimmen (4)</summary>
+
+- **[[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN#Der Verachtungsmarker|Alena Buyx]]:** Mit reiner Information reißt man nichts; wer vorher weiß, was kommt, kann den Effekt durchbrechen.
+- **[[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation#Bleibt das Original hängen?|Lars Wienand]]:** Er stempelt jede gezeigte Fälschung, weil im Unterbewusstsein immer etwas hängen bleibt.
+- **[[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News#Ein Schwamm gegen die Flut|Thomas Laschyk]]:** Faktenchecks ohne die Ursachen sind, als wische man eine Flut mit einem Schwamm auf; er spricht als Faktenchecker in eigener Sache.
+- **[[Zeitgeist/Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Hilft Erklären gegen gesäten Zweifel?|Alles wird Strom]]:** Robin vertraut auf die gute Erklärung gegen den gesäten Zweifel; die Nachbesprechung dort findet, Erklären hilft ein wenig und schadet kaum.
+
+</details>
+
+> [!question] Die Reibung
+> Brockschmidt sagt, Schweigen normalisiert, Heims und Stark raten im Zweifel zum Schweigen, El-Mafaalani hält Ignorieren für wirkungslos, und für Nocun ist jede Antwort Reichweite. Die Forschung sagt: Die Korrektur schadet nicht, sie bremst das Teilen und macht die Antworten wütender. *Wenn jede Gegenrede zugleich Reichweite ist — für wen widerlegt man eigentlich: für den Lügner, für die Mitlesenden oder für sich selbst?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | vertieft |
 |---|---|---|
 | 17.10.2026 | *Anlage aus eigener Recherche* | alle vier Fragen |
+| 17.11.2026 | [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten#Hilft es, das Falsche zu widerlegen?\|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] | Eröffnet die fünfte Frage. X-Gewichte 2023, McLoughlin 2024, Tsfati 2020 · Swire-Thompson 2020, Wood & Porter 2019, Walter & Tukachinsky 2020, Chan & Albarracín 2023, Ecker 2020, Truth Sandwich (Swire-Thompson 2025, Tulin 2024) · Bode & Vraga 2018, Seo 2022, Hangartner 2021, #ichbinhier (Frieß 2020), Reconquista Internet (Garland 2022, Keller & Askanius 2020), Jia & Schumann 2025, Slaughter 2025, Chuai 2025 · Prebunking (Roozenbeek 2022, Wang 2025, Maertens 2025, Lu 2023) |
 
 ---
 
@@ -162,22 +198,30 @@ Die Prüfer irren auch selbst. Das ZDF unterlag vor dem Landgericht Hamburg, wei
 
 | Note | Frage |
 |---|---|
-| [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News\|Thomas Laschyk — Vermögenssteuer gegen Fake News]] | Wie viel · Prüfer |
+| [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News\|Thomas Laschyk — Vermögenssteuer gegen Fake News]] | Wie viel · Prüfer · Widerlegen |
 | [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet\|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]] | Wie viel |
 | [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte\|Der Heizungshammer]] | Wie viel · Prüfer |
 | [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)\|Staiy — News Briefwahl (28.08.2026)]] | Wie viel · Inszeniert |
-| [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation\|Lars Wienand — Russentrolle]] | Wie viel · Inszeniert |
+| [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation\|Lars Wienand — Russentrolle]] | Wie viel · Inszeniert · Widerlegen |
 | [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal\|Topfvollgold — NiUS erfindet Islam-Skandal]] | Wie viel |
 | [[Zeitgeist/Annette Dittert — Dear Britain\|Annette Dittert — Dear Britain]] | Gewollt |
 | [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit\|Martin Oetting — Faschismus stoppen mit der Wahrheit]] | Gewollt |
-| [[Denker/Renee DiResta — Invisible Rulers\|Renée DiResta — Invisible Rulers]] | Gewollt |
+| [[Denker/Renee DiResta — Invisible Rulers\|Renée DiResta — Invisible Rulers]] | Gewollt · Widerlegen |
 | [[Panorama/Rechte Medien — Das Geschaeft mit der Luege\|Rechte Medien — wenn die Falschmeldung Methode hat]] | Gewollt |
 | [[Zeitgeist/Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife\|Daniel — AfD-Propaganda zum Schulvorfall Schleife]] | Gewollt · Inszeniert |
 | [[Denker/Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege\|Dominik Finkelde — Nietzsche über Wahrheit und Lüge]] | Gewollt |
 | [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit\|Wolfgang Huber — Bonhoeffer und die Wahrheit]] | Gewollt |
-| [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt\|Katharina Nocun — KI-Content im rechten Vorfeld]] | Inszeniert |
+| [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt\|Katharina Nocun — KI-Content im rechten Vorfeld]] | Inszeniert · Widerlegen |
 | [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik\|Uwe Krüger — Mainstream und kritische Journalistik]] | Prüfer |
 | [[Geistesblitz/Gert Scobel — Die Geister in der Maschine\|Gert Scobel — Die Geister in der Maschine]] | Prüfer |
+| [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] | Widerlegen |
+| [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten\|Brockschmidt und Nocun — Codes der extremen US-Rechten]] | Widerlegen |
+| [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha\|Heims und Stark — Who the fck is Agartha]] | Widerlegen |
+| [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)\|El-Mafaalani — Misstrauensgemeinschaften]] | Widerlegen |
+| [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung\|Morpheus und Molly Crockett — Ragebait]] | Widerlegen |
+| [[Zeitgeist/Ingrid Brodnig — Gegenstrategien zum Frauenhass\|Ingrid Brodnig — Gegenstrategien zum Frauenhass]] | Widerlegen |
+| [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN\|Alena Buyx — Gesellschaft neu denken]] | Widerlegen |
+| [[Zeitgeist/Alles wird Strom — Warum Millionen Energiewende-Mythen glauben\|Alles wird Strom — Energiewende-Mythen]] | Widerlegen |
 
 ---
 

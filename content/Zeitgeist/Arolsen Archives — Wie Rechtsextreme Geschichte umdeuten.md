@@ -119,6 +119,36 @@ Aus dem täglichen Community-Management stammt ein fast detektivischer Trick: Be
 
 [▶ 29:17](https://www.youtube.com/watch?v=DwCDRlstETI&t=1757) — Auf die Schlussfrage nach dem Inner-Circle-Reiz von Verschwörungserzählungen — dem Kreis der Wissenden — antwortet Gina Wiedemann mit einer schönen Umkehrung: Das Ziel sei, dass es *keinen* exklusiven Zirkel gibt, auch keinen positiven; Wissen und Quellen müssen so zugänglich sein, dass sich jeder Mensch seine Fragen selbst beantworten kann. Bei den Codes komme etwas hinzu: Sie tauchen so häufig auf, dass man sich an sie gewöhnt und ihre Gefährlichkeit nicht mehr sieht. Auch das müsse man den Menschen beibringen, dass die Codes gefährlich bleiben, gerade in der Masse, damit sie selbst nachforschen, was dahintersteckt.
 
+---
+
+## Nachbesprechung
+
+*Zwei Fragen aus dem Talk, mit dem, was man über das Gesagte hinaus weiß (Stand 17.11.2026).*
+
+### Sitzen die Fakten, und reichen sie?
+
+Gina Wiedemann sagt zweierlei: Die Schulfakten säßen bei Jugendlichen sehr häufig, und Fakten allein reichten nicht. Beim ersten Satz sind die Zahlen strenger als sie. In einer Umfrage der Claims Conference vom November 2023 wussten 40 Prozent der 18- bis 29-jährigen Deutschen nicht, dass rund sechs Millionen Juden ermordet wurden, und zwölf Prozent hatten nach eigener Angabe vom Holocaust nicht gehört oder waren unsicher; Deutschland schnitt dabei unter acht Ländern noch am besten ab ([Claims Conference 2025](https://www.claimscon.org/wp-content/uploads/2025/01/Claims-Conference-Research-Insights-01.09.25.pdf), Auftraggeber wirbt für mehr Holocaust-Bildung). Die MEMO-Jugendstudie fand 2021 Ähnliches: Den Zeitraum 1933 bis 1945 nannte knapp die Hälfte der 16- bis 25-Jährigen richtig, Sinti und Roma als Opfergruppe nicht einmal ein Drittel ([MEMO-Jugendstudie 2023](https://www.stiftung-evz.de/assets/1_Was_wir_f%C3%B6rdern/Bilden/Bilden_fuer_lebendiges_Erinnern/MEMO_Studie/2023_MEMO_Jugend/MEMO_Jugendstudie_2023_DE.pdf), IKG Bielefeld und Stiftung EVZ). Das Gerüst aus Zahl, Zeit und Ort ist also brüchiger, als sie annimmt.
+
+Beim zweiten Satz bekommt sie Rückendeckung, und zwar von derselben Studie. Zwischen der Beschäftigung mit der NS-Geschichte und menschenfeindlichen Einstellungen fand sie nur einen schwachen Zusammenhang. Als 838 der Befragten ein Jahr später noch einmal antworteten, ließ sich nicht zeigen, dass intensivere Beschäftigung ihre Einstellungen verändert hatte; wer sich mehr befasst hatte, berichtete mehr Zivilcourage, stimmte aber auch Verschwörungserzählungen stärker zu. Eine Übersicht über 117 Arbeiten zum Holocaust-Unterricht nennt gerade die Wirkungsforschung ein vernachlässigtes Feld ([Pistone u. a. 2023](https://doi.org/10.1080/17504902.2023.2245282), Übersichtsarbeit). Und ein Längsschnitt aus Deutschland und Polen dreht die vertraute Richtung um: Antisemitische Einstellungen sagten später ein beschönigtes Bild der eigenen Geschichte voraus, nicht umgekehrt ([Babińska, Rees & Bilewicz 2026](https://doi.org/10.1037/amp0001616), Längsschnitt). Wo das Vorurteil schon sitzt, kommt das Geschichtswissen zu spät.
+
+Dass Bildung nichts bewirkt, folgt daraus nicht. In einem Feldexperiment an 60 US-Schulen zeigten Jugendliche im Programm Facing History, das Weimar und den Nationalsozialismus mit Fragen der Gegenwart verbindet, danach mehr Toleranz für andere Meinungen und trauten sich als Bürger mehr zu ([Barr u. a. 2015](https://doi.org/10.1177/016146811511700202), Feldexperiment). Das ist ziemlich genau das „Aktivierende“, das Wiedemann fordert. Die Gegenwarnung kommt aus England: Wo der Unterricht die moralische Lehre vor solides Geschichtswissen stellt, untergräbt er gerade die Botschaft, die er vermitteln will ([Hale 2025](https://doi.org/10.1080/20004508.2025.2548662), Befragung von 299 Lehrkräften). Aktivieren braucht also das Wissen, über das es hinausgehen will.
+
+→ Weiter im Panorama: **[[Wer bestimmt wie erinnert wird#Schützt Erinnerung, oder nutzt sie sich ab?|Schützt Erinnerung, oder nutzt sie sich ab?]]**, mit Blom, Welzer, Benz und Niess — und neu Jens-Christian Wagner.
+
+### Hilft es, das Falsche zu widerlegen?
+
+Lilith Roska beschreibt eine Falle: Der Algorithmus belohnt jede Reaktion, auch den Widerspruch, und wer einen Hetzer aus Empörung teilt, verschafft ihm Reichweite. Für die Mechanik gibt es harte Zahlen. Als X im April 2023 Teile seines Empfehlungscodes offenlegte, zählte darin eine Antwort 27-mal so viel wie ein Like ([twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml/blob/main/projects/home/recap/README.md), Stand 05.04.2023). Und Falsches verbreitet sich über Empörung mindestens so gut wie Verlässliches, oft wird es geteilt, ohne gelesen zu sein ([McLoughlin u. a. 2024](https://doi.org/10.1126/science.adl2829), acht Studien). Wie TikTok und Instagram die Kommentare unter einem Beitrag sortieren, ist nicht öffentlich; Wiedemanns Regel, nicht unter dem Hasskommentar zu antworten, ist plausibel, aber ungeprüft.
+
+Für das Widerlegen selbst ist die Forschung beruhigender, als die Falle vermuten lässt. Der gefürchtete Backfire-Effekt, nach dem eine Korrektur den Irrglauben verstärkt, hat sich nicht gehalten: In Experimenten mit mehr als 10.000 Menschen zu 52 Themen löste keine Korrektur ihn aus ([Wood & Porter 2019](https://doi.org/10.1007/s11109-018-9443-y), fünf Experimente). Vollständig wirkt sie aber nicht, und bei politisch aufgeladenen Wissenschaftsfragen war die Wirkung im Mittel nicht mehr von null zu unterscheiden ([Chan & Albarracín 2023](https://doi.org/10.1038/s41562-023-01623-8), Meta-Analyse, 2025 korrigiert).
+
+Für die Rezepte der beiden gibt es Stützen und Gegenbefunde. Korrekturen anderer Nutzer wirken auf die Mitlesenden ([Bode & Vraga 2018](https://doi.org/10.1080/10410236.2017.1331312), Experiment) — genau dafür empfiehlt Wiedemann den eigenen Kommentar mit Quelle. In einem Feldexperiment auf Twitter brachten empathische Antworten Verfasser rassistischer Posts dazu, mehr davon zu löschen, Humor und Warnungen wirkten nicht ([Hangartner u. a. 2021](https://doi.org/10.1073/pnas.2116310118), Feldexperiment); Roskas freundliches „Was meinst du denn genau?“ liegt nah daran. Dagegen steht ein Paradox: Ein Hinweis unter einem irreführenden Post bremst zwar das Weiterverbreiten, macht aber die Antworten darunter wütender ([Chuai u. a. 2025](https://doi.org/10.1145/3706598.3713909), 2,2 Millionen Antworten). Entlarven bremst das Teilen und facht die Kommentarspalte an, beides zugleich.
+
+Bleibt das Vorbeugen, das Prebunking, das Menschen die Tricks zeigt, bevor sie ihnen begegnen. Im Labor und in einem YouTube-Feldversuch erkannten Menschen danach Manipulation besser ([Roozenbeek u. a. 2022](https://doi.org/10.1126/sciadv.abo6254), sechs Experimente und Feldstudie). In einem realistischen Feed mit echten Tweets verschwand der Effekt aber ([Wang u. a. 2025](https://doi.org/10.1093/pnasnexus/pgaf172), fünf Experimente). Wiedemanns nüchterner Satz, Einzelne könnten das Internet nicht retten, hat also auch die Forschung auf seiner Seite.
+
+→ Weiter im Panorama: **[[Wer bringt das Falsche in Umlauf#Hilft es, das Falsche zu widerlegen?|Hilft es, das Falsche zu widerlegen?]]**, eine neue Frage, mit Nocun, Brockschmidt, Heims und Stark, El-Mafaalani, DiResta, Crockett und Brodnig.
+
+---
+
 ## Was seither geschah
 
 *Stand: 17.11.2026*

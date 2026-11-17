@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 194,
-   "aufrufe": 247
+   "leser": 193,
+   "aufrufe": 246
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -404,11 +404,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Philip-Schlaffer-Kann-man-sich-aendern",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 2,
      "aufrufe": 4
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Paul-Klee-Schoepferische-Konfession",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 194,
-     "aufrufe": 247
+     "leser": 193,
+     "aufrufe": 246
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
