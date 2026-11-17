@@ -2,7 +2,7 @@
 title: "Was kann das Völkerrecht?"
 date: 2026-10-05
 erstellt: 2026-10-05
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-17
 description: "Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?"
 raetsel: "Der Platz ist leer. Die Waage steht. Nur die Schatten bewegen sich."
 panorama-art: wachsend
@@ -45,6 +45,8 @@ Wenig wirkt es auf Großmächte und auf Armeen mitten im Krieg. Afrikanische Reg
 
 Die Fälle stützen beide Lesarten. Putin mied 2023 Südafrika, reiste aber 2024 in die Mongolei und 2025 nach Tadschikistan, beides Vertragsstaaten, die ihn nicht festnahmen ([IStGH zur Mongolei](https://www.icc-cpi.int/news/ukraine-situation-icc-pre-trial-chamber-ii-finds-mongolia-failed-cooperate-arrest-and)). Netanjahu wurde seit dem Haftbefehl vom November 2024 nirgends festgenommen, plant aber seine Flugrouten um ihn herum. Rodrigo Duterte dagegen sitzt in Den Haag, sein Prozess soll am 30. November 2026 beginnen ([IStGH](https://www.icc-cpi.int/news/duterte-case-trial-open-30-november-2026)).
 
+Für Amnestien nach Bürgerkriegen hat sich das Recht seit Südafrika verschoben. Der Interamerikanische Gerichtshof erklärte 2001 Amnestien, die Ermittlung und Strafe bei schweren Menschenrechtsverletzungen verhindern, für unzulässig ([Barrios Altos gegen Peru, Abs. 41](https://www.observatorioluzibarburu.org/media/uploads/Texto_sentencia_Barrios_Altos.pdf)) und hielt 2012 fest, dass die weitreichenden Amnestien, die das Zweite Zusatzprotokoll nach Bürgerkriegen vorsieht, nicht für Kriegsverbrechen und Verbrechen gegen die Menschlichkeit gelten ([El Mozote gegen El Salvador, Abs. 285 f.](https://indepaz.org.co/wp-content/uploads/2013/04/Sentencia-Corte-IDH_Masacre-el-Mozote-Vs-El-Salvador_-2012.pdf)). Kolumbiens Sondergerichtsbarkeit JEP baut darauf einen abgestuften Tausch: höchstens acht Jahre wiederherstellende Sanktion ohne Haft für frühes Geständnis, bis zu zwanzig Jahre für den, der leugnet ([JEP](https://www.jep.gov.co/Sala-de-Prensa/Paginas/La-JEP-impondr%C3%A1-sanciones-privativas-de-la-libertad-hasta-de-20-a%C3%B1os.aspx)). 2025 erhielten zwölf geständige Soldaten eines Bataillons wiederherstellende Sanktionen, ihr leugnender Kommandeur zwanzig Jahre Gefängnis ([JEP, 19.12.2025](https://www.jep.gov.co/Sala-de-Prensa/Paginas/-historico-fallo-en-colombia-en-su-primer-juicio-adversarial-transicional-la-jep-condena-a-20-anos-de-prision-al-coronel-r-.aspx)). Amnestiegesetze nach Kriegen gehen im Schnitt mit mehr Straflosigkeit in Polizei und Militär einher ([Ansorg & Kurtenbach 2023](https://doi.org/10.1093/jogss/ogad010), Datensatz aus 40 Ländern).
+
 **Die Stimmen**
 
 - **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Publikumsfragen|Christoph Safferling]]:** Ein Haftbefehl, den alle Staaten vollstrecken würden, engt den Bewegungsraum eines Staatschefs so ein, dass er im Inneren nicht mehr repräsentieren kann.
@@ -56,6 +58,8 @@ Die Fälle stützen beide Lesarten. Putin mied 2023 Südafrika, reiste aber 2024
 - **[[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)#War der Tod Khameneis Sohn / der iranischen Generäle ein „guter Tod"?|Diba Mirzaei]]:** Lieber vor Gericht als tot: „Wenn uns Rechtsstaatlichkeit wichtig ist, dann muss das einfach immer gelten.“
 - **[[Felwine Sarr - Gehoert Afrika die Zukunft#Ubuntu — Mandela und die Rehabilitierung der Utopie|Felwine Sarr]]:** Die Gegenstimme zur Strafe: Mandelas Amnestie und die ruandischen Gacaca-Gerichte verhinderten einen Krieg und gingen weiter als das Völkerrecht ihrer Zeit.
 - **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Dokumentieren für ein Tribunal, das noch niemand einberufen hat|Alice Bota]]:** Gegen die Amnestie im 28-Punkte-Plan: „Wenn der Täter weiß, dass er davonkommt, dann bitte wieder zuschlagen“ — Kommandeure aus Tschetschenien tauchten später in der Ukraine wieder auf.
+
+- **[[Ralf K. Wuestenberg — Versoehnung und Amnestie#Was wurde aus dem Tausch Wahrheit gegen Straffreiheit?|Ralf K. Wüstenberg]]:** Südafrika gab Amnestie nur gegen öffentliche Wahrheit; der Tausch trägt aber nur, wenn den Schweigenden die Strafe droht, und gerade die blieb fast ganz aus.
 
 > [!question] Die Reibung
 > Keller nennt den unvollstreckten Haftbefehl einen Erfolg, Staiy eine Verwandlung von Recht in Politik, und Sarr erinnert daran, dass Südafrika den Frieden mit Amnestie erkaufte. Die Forschung sagt: Wer keinen Ausweg mehr hat, kämpft länger. *Was ist uns wichtiger, dass der Täter vor Gericht kommt oder dass der Krieg früher endet — und wer entscheidet das für die, die in ihm leben?*
@@ -139,6 +143,7 @@ Im Cyberraum fehlt sogar die Schwelle, an der Durchsetzung ansetzen könnte. Das
 | 05.10.2026 | [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Nachbesprechung|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts]] | Gründungsnote. Schreckt es ab: Jo & Simmons 2016, Kim & Sikkink 2010, Appel 2018, Dancy 2017, Dancy & Montal 2017, McAllister 2023, Cronin-Furman 2013, Krcmaric 2018, Prorok 2017, Snyder & Vinjamuri 2003 · Siegerjustiz: Mills 2012, Ba 2020, OMGUS · Durchsetzung: Simmons & Danner 2010, Res. 76/262 |
 | 24.10.2026 | [[Joern Leonhard — Wie man Kriege beendet#Nachbesprechung|Jörn Leonhard — Wie man Kriege beendet]] | Können Friedenstruppen einen Frieden halten? (Walter/Howard/Fortna 2021, Fortna 2003/2004, Hultman et al. 2014, Howard 2019, Beardsley 2008, Fazal 2013, Kreutz 2010) → *Wer setzt es durch?* · Was in Münster wirklich geregelt wurde (Osiander, Stirk, Schmidt, Milton) → Waise |
 | 10.11.2026 | [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Nachbesprechung\|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] | Wer setzt es durch? Wo Sabotage im Cyberraum zum Angriff wird: GGE 2013/2015, Frankreich vs. Großbritannien zur Souveränität, NATO kumulativ, Tallinn ohne Bindung (Efrony & Shany 2018); Kühltruhen-Sabotage als Testfall, Antwort mit Strafrecht und Sanktionen |
+| 17.11.2026 | [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Was wurde aus dem Tausch Wahrheit gegen Straffreiheit?\|Wüstenberg — Wahrheit gegen Straffreiheit]] | Schreckt es ab: Amnestien seit Barrios Altos (2001) und El Mozote (2012), Kolumbiens JEP als abgestufter Tausch (La Popa 2025), Ansorg & Kurtenbach 2023. Tagesnote Buß- und Bettag |
 
 ---
 

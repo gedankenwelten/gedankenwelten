@@ -382,6 +382,10 @@ Walburgs „Ethnisierung des Sozialen“, als Faschisierungsmechanismus gelesen:
 
 Nach der Krawallnacht streiten ein Streetworker aus Schöneberg und der Innenminister im Radio über genau die Frage, die Walburg in der Mitte offenhält, Lage oder Herkunft.
 
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Sasa „Habe ich Sie ungerecht behandelt?“|NDR Story — Richter und Täter]]
+
+Zwei Lebensläufe aus dem Hamburger Jugendgericht neben Walburgs Befund: Einer wünscht sich eine härtere erste Strafe und begründet es mit der Glaubwürdigkeit der Folge, nicht mit ihrer Schwere. Ein anderer, auf St. Pauli aufgewachsen und ohne deutschen Pass, wurde nach der Jugendstrafe nach Serbien abgeschoben und sitzt dort heute wieder in Haft.
+
 ---
 
 ## Weiterdenken

@@ -361,6 +361,14 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 ### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
 Huber legt Bonhoeffers Wahrheitsbegriff in sechs Thesen aus. Die letzten beiden führen nach Südafrika: Die Wahrheit sagen heißt Konflikte aufklären, um Versöhnung zu bahnen, und vergessene Wahrheit kann nicht versöhnen. Boshammers Bekenntnis ohne Rechtfertigung ist die Form, in der diese Wahrheit zwischen Tätern und Opfern gesagt wird.
 
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Der nasse Sack|Ralf K. Wüstenberg — Der nasse Sack]]
+
+Was Boshammer begrifflich trennt, Vergebung und Versöhnung, trennt Wüstenberg an einer Anhörung von 1997, in der ein Gefolterter seinen Folterer fragte, was für ein Mensch er sei. Er beschreibt auch, wie die Öffentlichkeit die Amnestie als Vergebung missverstand.
+
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Christian „Da hätten Sie strenger mit mir umgehen können“|NDR Story — Richter und Täter]]
+
+„Ich erlaube dir, eine andere zu werden“, von einem Richter gesagt: Johann Krieten trifft einen Mann, den er als Jugendlichen ins Gefängnis brachte, als Wirt an der Reeperbahn wieder und sagt ihm, er sei stolz auf ihn. Eine Frau aus derselben Reportage erlebte das Gegenteil: „Wenn du einmal Täter warst, dann bist du der Täter.“
+
 
 ---
 

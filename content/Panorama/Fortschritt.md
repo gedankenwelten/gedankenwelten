@@ -97,7 +97,7 @@ Bei KI wiederholt sich das Muster in Echtzeit. Was das Exponentielle mit uns mac
 
 Die beiden Urpositionen liegen hier als Notenpaar. [[Walther Ziegler — Hegel in 60 Minuten|Hegel]] formuliert den Fortschrittsglauben in seiner reinsten Form: *„Die Weltgeschichte ist der Fortschritt im Bewusstsein der Freiheit — ein Fortschritt, den wir in seiner Notwendigkeit zu erkennen haben."* Notwendigkeit, nicht Hoffnung. [[Walther Ziegler — Schopenhauer in 60 Minuten|Schopenhauer]] antwortet mit der Wiederholung: Die Weisen aller Zeiten haben immer dasselbe gesagt, und die Toren immer das Gegenteil getan.
 
-Die Anekdote, die beide Notes verbindet, ist zu gut, um sie zu übergehen: Als 1831 in Berlin die Cholera ausbrach, floh Schopenhauer sofort nach Frankfurt. Hegel blieb, infizierte sich, starb zwei Monate später. Der Pessimist überlebte den Optimisten um 29 Jahre. Als Argument taugt das nichts. Als Bild für den blinden Fleck des Fortschrittsdenkens ist es kaum zu schlagen.
+Die Anekdote, die beide Notes verbindet, ist zu gut, um sie zu übergehen: Als 1831 in Berlin die Cholera ausbrach, floh Schopenhauer sofort nach Frankfurt. Hegel brachte die Familie nur vor die Stadt, kehrte zurück, als die Seuche nachließ, und starb im November, offiziell an der Cholera (heute wird auch ein Magenleiden vermutet). Der Pessimist überlebte den Optimisten um 29 Jahre. Als Argument taugt das nichts. Als Bild für den blinden Fleck des Fortschrittsdenkens ist es kaum zu schlagen.
 
 ### Zwei Herkünfte: das Labor und das Reich Gottes
 

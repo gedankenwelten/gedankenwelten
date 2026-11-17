@@ -518,6 +518,10 @@ Die Durchrohung im Zeitraffer eines Schuljahres, erzählt 1906: Vom Diebstahl ü
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Steinke beschreibt die rechtliche Seite der Verrohung: wie eine Paragraphenflut und selektive Strafverfolgung den gesellschaftlichen Diskursraum einschränken — Heitmeyers Empathieverlust als institutionalisierte Praxis
 - [[Markus Gabriel — Soziale Netzwerke Neue Theorie]] — Gabriel zeigt die ontologische Ursache dessen, was Heitmeyer empirisch als digitale Verrohung misst: Sozialen Netzwerken fehlt die Triangulation — der korrigierende Gegenstand. Wo nichts korrigieren kann, erodiert Empathie strukturell.
 
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Der Richter, der selbst einer war|NDR Story — Richter und Täter]]
+
+Ein Jugendrichter, der Heitmeyers Satz an sich selbst erlebt hat: Johann Krieten, mit 14 Vollwaise, beging Diebstähle, denn „wenn man keine positive Aufmerksamkeit bekommt, sucht man sich negative“. Danach saß er 24 Jahre über Jugendliche aus St. Pauli zu Gericht.
+
 ---
 
 ## Weiterführend

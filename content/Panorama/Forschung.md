@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-11-15
+aktualisiert: 2026-11-17
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -214,6 +214,8 @@ Die Gegenrechnung ist ebenso solide. Die wirkungsstärksten unter 17,9 Millionen
 
 Dass der Teamgedanke trägt, aber nicht in jeder Größe, zeigt ein dritter Befund. Aufsätze und Patente sind über Jahrzehnte immer seltener umwälzend geworden, sie bauen das Bestehende öfter aus, als dass sie es ablösen ([Park, Leahey & Funk 2023](https://doi.org/10.1038/s41586-022-05543-x), *Nature*), und Umbrüche kommen eher aus kleinen Teams, große bauen eher aus ([Wu, Wang & Evans 2019](https://doi.org/10.1038/s41586-019-0941-9), *Nature*). Auch zwischen Ländern scheint die Mischung zu zählen: Stark in Branchen mit radikaler Innovation wurden die, die koordinierte und liberale Züge verbinden ([Witt & Jackson 2016](https://doi.org/10.1057/s41267-016-0001-8), 22 Länder). Ausgeführt in der [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Deep Innovation Tiefe aus der Mischung|Nachbesprechung zu Gabriel]].
 
+Dass das Genie ein Team ist, wusste schon die Wissenschaftssoziologie der 1960er. Merton zählte mit Elinor Barber 264 Entdeckungen, die unabhängig voneinander mehrfach gemacht wurden, ein Fünftel davon innerhalb eines Jahres, und sah zwischen Milieu und Genie „keinen notwendigen Gegensatz“: Der Geniale sei das funktionale Gegenstück einer ganzen Reihe anderer Forscher ([Merton 1961, *Proceedings of the American Philosophical Society*](https://www.jstor.org/stable/985546), historische Zählung).
+
 **Die Stimmen**
 
 - **[[Edgar Morin — Das komplexe Denken#Der Autodidakt gegen das Inselwissen|Edgar Morin]]:** Fragmentiertes Inselwissen genügt nicht; Leonardo war Künstler, Anatom, Erfinder und Philosoph in einer Person.
@@ -246,6 +248,7 @@ Dass der Teamgedanke trägt, aber nicht in jeder Größe, zeigt ein dritter Befu
 | 09.11.2026 | [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Deep Innovation Tiefe aus der Mischung\|Markus Gabriel — KI als Resonanzfeld und Mu]] | Tiefe aus der Mischung: Hall & Soskice (Japan und Deutschland koordiniert), Akkermans 2009, Witt & Jackson 2016; abnehmende Disruption (Park 2023), kleine Teams (Wu 2019) |
 | 10.11.2026 | [[Alexander Bogner — Zweifeln an der Wissenschaft#Sinkt das Vertrauen in die Wissenschaft wirklich?|Alexander Bogner — Zweifeln an der Wissenschaft]] | Vertrauen nach 2023 (DE 56 → 54 %, AT 70 → 74 %, DACH-Vergleich), Schnittstellenskepsis im Zeitverlauf, Bildungsgraben, drei Profile im ÖAW-Bericht, Wurzeln je Thema (Rutjens 2017), Ditto 2018, science-related populism |
 | 15.11.2026 | [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Ein Beweis, den niemand liest\|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]] | Ein Beweis, den niemand liest: Appel & Haken 1976, Tymoczko 1979, Hales/Flyspeck, Scholze 2020 (Liquid Tensor), Fermat in 13 Millionen Zeilen (Nature 2026); was Lean nicht prüft: ob die Aussage die gemeinte ist (Navier-Stokes) |
+| 17.11.2026 | [[Walther Ziegler — Hegel in 60 Minuten#Nachbesprechung|Walther Ziegler — Hegel in 60 Minuten]] | Braucht Wissen Grenzgänger? Mehrfachentdeckungen (Merton 1961, Ogburn & Thomas 1922): das Genie als funktionales Gegenstück vieler; aus der Frage „Machen Einzelne Geschichte?“ |
 
 ---
 

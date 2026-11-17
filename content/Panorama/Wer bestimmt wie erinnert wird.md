@@ -3,7 +3,7 @@ title: "Wer bestimmt, wie erinnert wird?"
 date: 2026-10-10
 erstellt: 2026-10-10
 aktualisiert: 2026-11-17
-description: "Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden."
+description: "Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Fünf offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt, wessen Tote erinnert werden und ob die Wahrheit versöhnt."
 raetsel: "Ein Kranz kostet wenig. Teuer ist, wer ihn niederlegen darf."
 panorama-art: wachsend
 tags:
@@ -164,6 +164,28 @@ Für Deutschland selbst ist die Frage weniger eine nach Bürgerkriegslagern als 
 
 ---
 
+## Versöhnt die Wahrheit?
+
+Eine Wahrheitskommission schreibt amtlich fest, wie erinnert wird, und Südafrika hat damit die Hoffnung verbunden, dass eine Gesellschaft, die ihre Verbrechen gehört hat, sich versöhnt. Gemessen hat das zuerst James L. Gibson, mit einer Umfrage unter 3.727 Südafrikanern 2000/01: Wer die „Wahrheit“ der Kommission annahm, hatte eher versöhnte Einstellungen zu den anderen Gruppen, und ebenso viel machte der Kontakt zwischen ihnen aus ([Gibson 2004](https://doi.org/10.1111/j.0092-5853.2004.00065.x), Querschnittsumfrage). Ein Zusammenhang, kein Beweis der Wirkung.
+
+Bei den Opfern selbst sank die Zustimmung zur bedingten Amnestie zwischen 2002/03 und 2008 deutlich, weil weniger Wahrheit ans Licht kam als erhofft und die Straffreiheit im Rückblick ungerechter wirkte ([Backer 2010](https://doi.org/10.1093/ijtj/ijq015), kleine Panelstudie mit 153 Opfern). Wer selbst Kommissionsrelevantes erlebt hatte, war belasteter und weniger versöhnlich ([Stein u. a. 2008](https://doi.org/10.1007/s00127-008-0350-0), Querschnitt). Das Aussprechen scheint eher der Gesellschaft zu helfen als dem Einzelnen.
+
+Ein Vierteljahrhundert später misst das Reconciliation Barometer: Die Bereitschaft zu vergeben stieg von 55 Prozent (2003) auf 70 Prozent, die Zustimmung zu „vergessen und nach vorn sehen“ fiel von 76 auf 64 Prozent; 82 Prozent halten die Apartheid für ein Verbrechen gegen die Menschlichkeit, unter Weißen 65 Prozent, und 59 Prozent wollen die Täter noch heute angeklagt sehen. Als größtes Hindernis gilt Armut und Ungleichheit, nicht die Vergangenheit ([SA Reconciliation Barometer 2025](https://www.ijr.org.za/home/wp-content/uploads/2025/12/SA-Reconciliation-Barometer-Report-2025.pdf), Umfrage). Vergeben ja, vergessen nein. Was fehlt, ist der Vergleich: Ob Länder mit Wahrheitskommission sich besser versöhnen als solche ohne, lässt sich kaum trennen von dem, was sie sonst unterscheidet.
+
+**Die Stimmen**
+
+- **[[Ralf K. Wuestenberg — Versoehnung und Amnestie#Was blieb|Ralf K. Wüstenberg]]:** Die Formel „keine Versöhnung ohne Wahrheit“ scheine aufgegangen, die Apartheid habe durch die Täter ein Gesicht bekommen; aber Reparationen und Strafen für die Schweigenden blieben aus.
+- **[[Mbembe — The Earthly Community#Südafrika als intellektuelles Labor|Achille Mbembe]]:** Das Experiment sei vorerst gescheitert; die Apartheid überlebe in Vermögen und Raum.
+- **[[Susanne Boshammer — Was heisst verzeihen#Bekennen, nicht rechtfertigen|Susanne Boshammer]]:** Die Kommission verlangte das Bekenntnis „Das habe ich getan“, keine Reue; darin liegt, was Verzeihen erst möglich macht.
+- **[[Wolfgang Huber — Bonhoeffer und die Wahrheit#Privat, öffentlich und das Erinnern|Wolfgang Huber]]:** In Südafrika gehörten Wahrheit und Versöhnung zusammen, und von dort führt der Weg zurück zu Auschwitz und Buchenwald.
+- **[[Felwine Sarr - Gehoert Afrika die Zukunft#Ubuntu — Mandela und die Rehabilitierung der Utopie|Felwine Sarr]]:** Mandelas Amnestie im Geist von Ubuntu ging weiter als das Völkerrecht ihrer Zeit.
+- **[[Das unsichtbare Netzwerk — Ubuntu#Ein Wort, das uns fehlt|Luc]]:** Tutu trug Ubuntu in die Kommission: Wer den Täter entmenschlicht, entmenschlicht sich selbst.
+
+> [!question] Die Reibung
+> Die Gesellschaft vergibt mehr als früher und will zugleich weniger vergessen; die Opfer, denen die Kommission eine Stimme gab, wurden mit den Jahren skeptischer. *Versöhnt die Wahrheit ein Land, auch wenn sie den Einzelnen, der sie erzählt, nicht heilt, und reicht das?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | vertieft |
@@ -177,6 +199,7 @@ Für Deutschland selbst ist die Frage weniger eine nach Bürgerkriegslagern als 
 | 15.11.2026 | [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland#Wessen Tote werden erinnert?\|Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]] | Die Leerstelle der sowjetischen Toten: MEMO IV 2021, Gräbergesetz, sowjetische Kriegsgräberstätten, Zeithain, Stalag 326 (Kreistag 2023/2025), Kriegsgefangenen-Datenprojekt 2000–2014, ZWBE und polnischer Gedenkort, Steinmeier in Karlshorst 2021, russische Note zu Leningrad 2024 · Noor u. a. 2012, Vollhardt & Bilali 2014, Rothberg 2009, Kay 2024 |
 | 15.11.2026 | [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar\|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]] | Wessen Tote werden erinnert? Der verleugnete Großonkel Luis Cusicanqui am Allerheiligen-Altar; Allerheiligen-Massaker 1979, 300 Tote, nie eingefordert, sagt sie (dokumentiert: über 100 bis über 200) |
 | 17.11.2026 | [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten#Sitzen die Fakten, und reichen sie?\|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] | Wissen ohne Haltung: MEMO-Jugendstudie 2023 (Panel), Claims Conference 2025, Pistone 2023, Babińska/Rees/Bilewicz 2026, Imhoff & Messer 2019, Barr 2015 (Facing History), Neundorf 2026, Hale 2025 · neu Wagner |
+| 17.11.2026 | [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Hat die Wahrheit versöhnt?\|Wüstenberg — Wahrheit gegen Straffreiheit]] | Eröffnet die fünfte Frage: Gibson 2004 (truth acceptance), Backer 2010 (Opfer-Panel), Stein u. a. 2008, Reconciliation Barometer 2025 (vergeben 55→70 %, vergessen 76→64 %). Tagesnote Buß- und Bettag |
 
 ---
 

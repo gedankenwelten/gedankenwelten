@@ -396,6 +396,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Johann Krieten|Johann Krieten]]** — Jugendrichter a. D. (Amtsgericht Hamburg), 24 Jahre zuständig für St. Pauli, vom Boulevard „Knallhart-Krieten“ genannt, prüft im Ruhestand seine eigenen Urteile
+
 **[[DenkerVita/Alek Kavcic|Alek Kavčić]]** — Elektroingenieur (Harvard, Hawaiʻi, CMU), Miterfinder eines Festplatten-Detektors; seine Stiftung kämpft für kostenlose Schulbücher und zahlte 2025 Lehrkräften ohne Lohn
 
 **[[DenkerVita/Annette Kehnel|Annette Kehnel]]** — Historikerin, Lehrstuhl für Mittelalterliche Geschichte an der Uni Mannheim (seit 2005); *Wir konnten auch anders* (2021, NDR Sachbuchpreis), *Die sieben Todsünden* (2024), *Der Phoenix-Effekt* (2026); liest im Mittelalter Commons, Kleinkredit und Maß als Wissen für die Gegenwart: Geschichte schult den Möglichkeitssinn
@@ -814,6 +816,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Christian Walburg|Christian Walburg]]** — Kriminologe und Jurist (Münster, zuletzt Professurvertretung an der Deutschen Hochschule der Polizei); erforscht seit der Duisburger Längsschnittstudie Migration und Jugenddelinquenz, gegen Alarmismus und Abwiegeln zugleich
 
 **[[DenkerVita/Lars Wienand|Lars Wienand]]** — Investigativjournalist (t-online), deckte 2022 die russische Desinformationskampagne „Doppelgänger“ auf und wertete 2026 als Erster ein Leak der Moskauer Social Design Agency aus
+
+**[[DenkerVita/Ralf K. Wüstenberg|Ralf K. Wüstenberg]]** — Evangelische Theologie (Flensburg), Bonhoeffer-Forscher, der Südafrikas Wahrheitskommission und die deutsche Aufarbeitung nach 1989 vergleicht
 
 **[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
 

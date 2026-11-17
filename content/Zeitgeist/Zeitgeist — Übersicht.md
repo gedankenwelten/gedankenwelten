@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*374 Notes — automatisch generiert · nach Thema sortiert*
+*375 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -446,6 +446,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Mark Benecke — Zu Besuch in der Drogenhilfe Halle|Mark Benecke — Zu Besuch in der Drogenhilfe Halle]] — Spritzentausch eins zu eins, ein Streetworker für eine ganze Großstadt: wie Schadensminderung aussieht, wenn das Geld jedes Jahr neu erkämpft werden muss.
 - [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren|MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt]] — Die Mini-Reaktoren versprechen, was die großen schon einmal versprachen. MONITOR legt Hamm-Uentrop und Hinkley Point neben das Serienargument und fragt, wer am Ende zahlt.
 - [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?]] — Solarförderung kappen, Gaskraftwerke bauen, das Netz bestimmt das Tempo: Der Presseclub streitet, ob Katharina Reiches Energiepolitik eine Rolle rückwärts ist oder ökonomisch vernünftig.
+- [[Zeitgeist/Ralf K. Wuestenberg — Versoehnung und Amnestie|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]] — Südafrika ließ seine Folterer straffrei, wenn sie öffentlich die ganze Wahrheit sagten. Der Theologe Ralf K. Wüstenberg erzählt, was dieser Tausch gebracht hat, was er gekostet hat, und was Deutschland nach 1989 daraus hätte lernen können.
 - [[Zeitgeist/Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)|Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]] — Die Riester-Rente geht, ein Depot ohne Garantie kommt. Staiy erklärt die Reform, die Debatte um 21 Prozent Mehrwertsteuer und eine Rede, die trotz Morddrohungen gehalten wurde.
 - [[Zeitgeist/Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)|Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)]] — Drei Wochen ohne Handy, und beim Einschalten warten 1.977 Nachrichten. Staiy beginnt mit einem Schulexperiment und kommt über die No-Kings-Proteste zu Trumps Drohung an die NATO.
 - [[Zeitgeist/Teja Tscharntke — Das grosse Artensterben|Teja Tscharntke — Das große Artensterben]] — Kleine Felder retten mehr Arten als das Biosiegel, sagt einer der meistzitierten Ökologen der Welt. Warum es trotzdem kaum jemand tut, ist für ihn eine Frage der Wahl, nicht des Wissens.

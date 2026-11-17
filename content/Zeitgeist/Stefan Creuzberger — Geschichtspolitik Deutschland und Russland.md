@@ -349,6 +349,10 @@ Flemig hält dem russischen 9. Mai entgegen, was dort verschwiegen wird: die Zus
 
 Creuzbergers Vortrag eröffnete eine Rostocker Ringvorlesung über Vergangenheitsbewältigung und Recht, und Safferling erzählt die juristische Seite derselben Fünfziger. Bei beiden taucht das Wort „Siegerjustiz“ auf, bei beiden hat Fritz Bauer es schwer gegen den eigenen Apparat. Safferling zeigt zudem, wie der beginnende Kalte Krieg weitere internationale Prozesse verhinderte, dieselbe Kraft, die bei Creuzberger den Blick auf die sowjetischen Opfer verstellte.
 
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Was blieb|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
+
+Der Schlussvortrag derselben Ringvorlesung: Creuzberger fragt, wessen Tote das deutsche Gedächtnis kennt, Wüstenberg, was ein Land davon hat, seine Schuld öffentlich auszusprechen. Auch in Südafrika blieb die Wiedergutmachung hinter der Erinnerung zurück.
+
 ---
 
 ## Weiterdenken

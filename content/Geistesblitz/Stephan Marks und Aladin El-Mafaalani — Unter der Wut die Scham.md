@@ -337,6 +337,10 @@ Bei Barbara Prainsack wird derselbe Gedanke zum Bauprinzip für Institutionen: S
 
 Ein Streetworker aus Schöneberg beschreibt im Radio, wie er Jugendliche nach ihrer Wut fragt, bevor sie eine Scheibe einwerfen, einen Raum der Würde in einer Turnhalle, ohne das Wort zu benutzen.
 
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Madona Hass und Dank zugleich|NDR Story — Richter und Täter]]
+
+Marks' Gratwanderung, von den Verurteilten selbst nachgeprüft: Eine Frau hasst den Jugendrichter, der sie mit 14 „robust“ anfasste, bis heute und dankt ihm im selben Atemzug. Und ein Kind wurde in der Bild-Zeitung zum „Kindergangster“.
+
 ---
 
 ## Weiterdenken

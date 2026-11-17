@@ -31,6 +31,16 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-18 · Buß- und Bettag
+
+Am Mittwoch vor dem letzten Sonntag des Kirchenjahrs lädt die evangelische Kirche zur Einkehr: innehalten, Schuld bekennen, über die eigene und die gemeinsame Verantwortung nachdenken. Lange hatte jedes Land seinen eigenen Bußtag, 1878 zählte man 47 in 28 deutschen Ländern; Preußen legte 1893 den heutigen Termin fest. Seit 1995 ist der Tag nur noch in Sachsen frei, im übrigen Land wurde er gestrichen, um die neue Pflegeversicherung zu bezahlen. Die Notes darunter fragen, was Umkehr kostet: wie ein ganzes Land seine Schuld aussprach, wie ein Richter seine Urteile von den Verurteilten prüfen ließ, was verzeihen heißt und warum Bonhoeffer eine Vergebung ohne Buße billig nannte.
+
+- [[Ralf K. Wuestenberg — Versoehnung und Amnestie]]
+- [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli]] — ein Jugendrichter im Ruhestand fragt die, die er als Kinder verurteilt hat, ob er ihnen Unrecht getan hat
+- [[Susanne Boshammer — Was heisst verzeihen]] — was Verzeihen ist, wenn es kein Vergessen sein soll
+- [[Philip Schlaffer — Kann man sich aendern]] — Umkehr aus der Neonazi-Szene, und ob ein Täter sich selbst vergeben darf
+- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — billige Gnade ist Vergebung ohne Buße
+
 ## 2026-11-17 · Internationaler Studierendentag
 
 Am 17. November 1939 ließen die deutschen Besatzer in Prag neun Studenten und Lehrende ohne Prozess hinrichten. Über 1.200 Studierende kamen ins Konzentrationslager, alle tschechischen Hochschulen wurden geschlossen. Vorausgegangen war der Trauerzug für den Medizinstudenten Jan Opletal, den Tausende zu einer Kundgebung gegen die Besatzung gemacht hatten. 1941 riefen Studierende aus vierzehn Ländern in London diesen Tag aus, und fünfzig Jahre nach 1939 schlug die Polizei in Prag den Gedenkmarsch der Studenten nieder; daraus wurde die Samtene Revolution. Die Notes darunter fragen, was die Straße erreicht und was nach dem Sieg kommt: In Serbien hat im Oktober eine Liste die Wahl gewonnen, die aus einem Studentenstreik entstand.

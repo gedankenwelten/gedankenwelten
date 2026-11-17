@@ -507,6 +507,10 @@ Für Krastev holt sich Putin Rat bei Toten, bei Peter und Katharina, und denkt i
 
 Die deutsche Seite der Lücke: Der Historiker Stefan Creuzberger zeigt, dass die sowjetischen Kriegsgefangenen und Zwangsarbeiter, nach denen in Russland nicht gefragt werden sollte, auch im deutschen Gedächtnis lange fehlten. Den 22. Juni 1941 mied die sowjetische Erinnerung, weil er an Stalins Versagen erinnerte.
 
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Publikumsfragen|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
+
+Wüstenberg teilt Scherbakowas Grundsatz und zeigt ihn an Albanien, wo ohne Aufarbeitung die Enkel der kommunistischen Elite wieder an die Macht streben. Sein Südafrika zeigt den anderen Weg, die Aufarbeitung im Übergang selbst, und seine Bilanz, was davon blieb.
+
 ---
 
 ## Weiterdenken

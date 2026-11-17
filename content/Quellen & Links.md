@@ -6021,3 +6021,25 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Jung_KI_hilft_KI_hindert_Transkript.txt` (Lücken der Fragerunde mit Whisper nachgehört) |
 | **Aus der Beschreibung** | [Christiani Ausbildertag 2026](https://www.christiani.de/cms/christiani-ausbildertag-2026/) · [Studie AIEDN, HdM Stuttgart](https://ai.hdm-stuttgart.de/research/aiedn-ai-education/download-studie/) |
 | **Nachbesprechung** | [Kofinas u. a. 2025](https://doi.org/10.1111/bjet.13585) · [Liang u. a. 2023](https://doi.org/10.1016/j.patter.2023.100779) · [Huxham u. a. 2010](https://doi.org/10.1080/02602938.2010.515012) · [Wass u. a. 2003](https://doi.org/10.1046/j.1365-2923.2003.01417.x) · [Rae u. a. 2025](https://doi.org/10.1080/02602938.2025.2580622) · [Dawson u. a. 2024](https://doi.org/10.1080/02602938.2024.2386662) |
+
+
+## Ralf K. Wüstenberg / Versöhnung und Amnestie (Tagesnote Buß- und Bettag 2026)
+
+| | |
+|---|---|
+| **Vortrag** | [Ralf K. Wüstenberg: Versöhnung und Amnestie – Erfahrungen aus Südafrika](https://www.youtube.com/watch?v=VT3kct1voI0) — Ringvorlesung „Vergangenheitsbewältigung und Recht“, Universität Rostock, Juli 2023 (Kanal Good Governance) |
+| **Notiz** | [[Zeitgeist/Ralf K. Wuestenberg — Versoehnung und Amnestie]] · Vita [[DenkerVita/Ralf K. Wüstenberg]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Wuestenberg_Versoehnung_Transkript.txt` |
+| **Anlass** | [EKD: Buß- und Bettag](https://www.ekd.de/Buss-und-Bettag-10836.htm) · [Sonntagsblatt: Buß- und Bettag 2026](https://www.sonntagsblatt.de/artikel/glaube/buss-und-bettag-2026-wo-ist-frei-und-welche-regeln-gelten) |
+| **Primärquellen** | [Promotion of National Unity and Reconciliation Act 34 of 1995](https://www.justice.gov.za/legislation/acts/1995-034.pdf) · [TRC-Abschlussbericht](https://www.justice.gov.za/trc/report/index.htm) · [Anhörung Benzien, Juli 1997](https://sabctrc.saha.org.za/documents/amntrans/cape_town/54669.htm) · [Weizsäcker, Laudatio auf Schorlemmer 1993](https://www.friedenspreis-des-deutschen-buchhandels.de/fileadmin/user_upload/preistraeger/reden_1950-1999/1993_schorlemmer.pdf) |
+| **Fund** | Diogenes, Nacht vom 18.09.2026 (Strom `anker`), `deandi_gedankenwelten_pro` |
+
+## NDR Story / Richter und Täter, Wiedersehen auf St. Pauli (Tagesnote Buß- und Bettag 2026)
+
+| | |
+|---|---|
+| **Reportage** | [Richter und Täter – Wiedersehen auf St. Pauli](https://www.youtube.com/watch?v=rtf05svqFS4) — NDR Story, Autor Severin Pehlke, 2025 · [ARD Mediathek](https://www.ardmediathek.de/video/ndr-story/richter-und-taeter-wiedersehen-auf-st-pauli/ndr/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM2MzU0M19nYW56ZVNlbmR1bmc) |
+| **Notiz** | [[Zeitgeist/NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli]] · Vita [[DenkerVita/Johann Krieten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Krieten_Richter_Taeter_Transkript.txt` (NDR-Untertitel) |
+| **Kontext** | [§ 2 JGG](https://www.gesetze-im-internet.de/jgg/__2.html) · [Konzept JGU Hamburg (PDF)](https://www.hamburg.de/resource/blob/243312/f9ac00ac869a3d373b14e02f826a00f8/jgu-data.pdf) · [taz, 13.01.2018](https://taz.de/Richter-urteilt-knallhart/!5474256/) |
+| **Fund** | Diogenes, Nacht vom 20.09.2026 (Strom `lichtblick`), `deandi_gedankenwelten_pro` |

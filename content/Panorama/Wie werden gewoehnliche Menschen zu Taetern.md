@@ -238,6 +238,10 @@ Ein Widerstandsnetz im Lager, dessen Mitglieder danach ausgesucht wurden, ob sie
 
 Ein Gegenwartsfall für die Frage nach Gehorsam und Gefolgschaft: eine Quote von 3.000 Festnahmen am Tag, eine Mission „to save the West“, das Versprechen der Immunität, und dann die Schüsse von Minneapolis.
 
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Der Richter, der selbst einer war|NDR Story — Richter und Täter]]
+
+Johann Krieten war mit 14 Vollwaise und selbst straffällig und wurde Jugendrichter. Vor ihm saßen, wie er sagt, ganz häufig junge Männer ohne Vaterfigur; das Mitleid könne nicht alles immer entschuldigen und erklären.
+
 ---
 
 ## Weiterdenken

@@ -1456,3 +1456,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Aleksandar Vučić
 **Status:** ✓ Vollanalyse → [[DenkerVita/Aleksandar Vucic]]
+
+## Ralf K. Wüstenberg
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ralf K. Wüstenberg]]
+
+## Johann Krieten
+**Status:** ✓ Vollanalyse → [[DenkerVita/Johann Krieten]]

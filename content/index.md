@@ -28,9 +28,13 @@ Die Gedankenwelten (luc)
 >
 > Ein Eilbeschluss, kein Urteil: Das VG Köln stoppt vorerst die Einstufung der AfD als gesichert rechtsextrem. Gilda Sahebi und Arne Semsrott prüfen die Begründung, am vierten Tag des Iran-Kriegs.
 
+> **17.11.** — [[Zeitgeist/NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli|NDR Story — Richter und Täter, Wiedersehen auf St. Pauli]]
+>
+> Ein Jugendrichter im Ruhestand sucht die auf, die er als Kinder verurteilt hat, und fragt sie, ob er ihnen Unrecht getan hat. Eine Reportage über Strafe, die helfen soll, und über einen Richter, der selbst einmal auf der anderen Seite stand.
+
 > **17.11.** — [[Zeitgeist/Ralf K. Wuestenberg — Versoehnung und Amnestie|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
 >
-> Südafrika ließ seine Folterer straffrei, wenn sie öffentlich die ganze Wahrheit sagten. Der Theologe Ralf K. Wüstenberg erzählt, was dieser Tausch gebracht hat, was er gekostet hat, und was Deutschland nach 1989 daraus hätte lernen können.
+> Südafrika bot seinen Folterern Straffreiheit an, wenn sie öffentlich die ganze Wahrheit sagten. Der Theologe Ralf K. Wüstenberg erzählt, was dieser Tausch gebracht hat, was er gekostet hat, und was Deutschland nach 1989 daraus hätte lernen können.
 
 > **17.11.** — [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
 >
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Palästinenserin, ein jüdischer Pianist und ein CDU-Abgeordneter reden über das Canceln, und mitten im Gespräch zeigt sich, wie schnell man selbst übereinander statt miteinander spricht.
 
-> **16.11.** — [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand|3Cat — Wake up, Serbia! Der Studentenaufstand]]
->
-> Ein Vordach stürzt ein, sechzehn Menschen sterben, und Serbiens Studierende besetzen ihre Fakultäten. Ein Film aus dem Inneren der Bewegung, die ein Jahr später die Wahl gewinnen sollte.
-
-> → *9 weitere in* [[Zeitgeist]]
+> → *10 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -76,21 +76,21 @@ Die Gedankenwelten (luc)
 >
 > Alle Parteien sagen Falsches, aber nicht alle gleich oft und nicht zum selben Zweck. Fünf offene Fragen dazu, was gemessen ist, was gewollt ist, wer die Prüfer prüft und ob es hilft, das Falsche zu widerlegen.
 
+> **17.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **17.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
 > **17.11.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
 >
-> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Vier offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt und wessen Tote erinnert werden.
+> Eine Gemeinde, ein Amt, eine Regierung, ein geteiltes Land: Fünf offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann, ob Erinnerung schützt, wessen Tote erinnert werden und ob die Wahrheit versöhnt.
 
-> **16.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+> **17.11.** — [[Panorama/Forschung|Forschung]]
 >
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **16.11.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
->
-> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
-
-> **16.11.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
 > → *21 weitere in* [[Panorama]]
 

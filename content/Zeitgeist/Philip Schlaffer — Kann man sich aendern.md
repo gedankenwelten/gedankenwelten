@@ -279,6 +279,10 @@ Ein Junge, der gestohlen hat, schämt sich vor dem Spiegel, und Marks würde ihm
 
 Boshammer gibt der Zuhörerin begrifflich recht — verzeihen kann nur das Opfer, darum spricht sie nicht von „Selbstverzeihen“ — und beschreibt doch, was hier geraten wird: die Person nicht verdammen, mit der Tat unversöhnt bleiben.
 
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Christian „Da hätten Sie strenger mit mir umgehen können“|NDR Story — Richter und Täter]]
+
+Ein Gegenbild zu Schlaffers Satz, Haft läutere nicht: Ein Mann, heute Wirt an der Reeperbahn, sagt seinem früheren Jugendrichter, ohne das Gefängnis wäre ihm der Ernst der Lage nie bewusst geworden, und wünscht sich im Nachhinein eine härtere erste Strafe. Die Reportage lässt offen, ob da die Erfahrung spricht oder einer, bei dem es gut ging.
+
 ---
 
 ## Weiterdenken

@@ -257,6 +257,10 @@ Die Philosophin, von der Bernhardt sich hier abgrenzt, antwortet in Lüneburg: V
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
 
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Madona Hass und Dank zugleich|NDR Story — Richter und Täter]]
+
+Der Dritte mit dem Schwert im Ruhestand: Ein Hamburger Jugendrichter sucht die auf, die er als Jugendliche verurteilt hat, und holt das Gespräch nach, das ihm im Amt verwehrt war. Eine von ihnen sagt ihm, sie hätte damals lieber mit ihm allein gesprochen als über einen Anwalt.
+
 ---
 
 ## Weiterdenken

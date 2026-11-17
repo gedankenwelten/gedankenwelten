@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-17
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -58,7 +58,11 @@ Besser belegt ist, was Konsens mit den Verlierern macht. In Mehrheitsdemokratien
 - **[[Norio — GICON Hoehenwindturm revolutioniert Windkraft#SPRIND Der institutionelle Ermöglicher — und was er über Bürokratie sagt|Norio]]:** Bei der Agentur für Sprunginnovationen reichen fünfzehn Fragen statt hundert Seiten; die Langsamkeit ist gemacht und lässt sich ändern.
 - **[[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus#Der Drehtür-Effekt Von E.ON ins Ministerium|MONITOR]]:** Was ein Konzern vorschlägt, steht „eins zu eins im Gesetz“, und die Ministerin kommt aus diesem Konzern.
 
-<details><summary>Weitere Stimmen (9)</summary>
+<details><summary>Weitere Stimmen (12)</summary>
+
+- **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Die verweigerte Verfassung|Dirk Oschmann]]:** Der Verzicht auf eine gemeinsame Verfassung 1990 war der „erste Akt des Totalausschlusses des Ostens“; Juli Zeh hält dagegen, das Grundgesetz sei den Westdeutschen ein Maskottchen gewesen, neu verhandelt wäre Schlechteres herausgekommen.
+- **[[Duezen Tekkal — Deutschland ist bedroht#„Wir haben uns ins Grundgesetz gerettet"|Düzen Tekkal]]:** Die Verfassung als Ort, an dem man ankommt: „Wir haben uns ins Grundgesetz gerettet.“
+- **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Nichts ist alternativlos|Mithu Sanyal]]:** Ihre Recherche, ob man Länder demokratisch bombardieren kann, endete mit einem Nein.
 
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Halten wir das aus, wenn die Gegenseite gewinnt?|Wolfgang M. Schmitt]]:** Wer die eigenen Ziele in die Verfassung schreiben will, solange er an den Hebeln sitzt, muss sich fragen: „Halten wir das dann auch aus, wenn die Gegenseite gewinnt?“
 - **[[Christoph Hein — Geooekonomie NEU DENKEN#Bürokratie — der falsche Feind?|Maja Göpel]]:** Der Frust über absurde Vorschriften ist echt, „Berichtspflichten“ ist ein Kampfbegriff der Lobby.
@@ -298,6 +302,8 @@ Neben der Frage, wer bleiben darf, steht die, wie lange ein Vorwurf gilt. Für d
 
 Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. Wer vor Ruandas Gacaca-Gerichten als Zeuge aussagte, litt danach häufiger an Depression und posttraumatischen Symptomen als andere ([Brounéus 2010](https://doi.org/10.1177/0022002709360322)). In Sierra Leone verglich ein Feldexperiment Dörfer mit und ohne Versöhnungsforen: Dort wurde mehr verziehen und das Vertrauen wuchs, und zugleich nahmen Angst, Depression und Traumasymptome zu ([Cilliers, Dube & Siddiqi 2016](https://doi.org/10.1126/science.aad9682)). Das Dorf gewinnt, was der Einzelne bezahlt.
 
+Vor dem Personal steht die Frage, wer die neue Ordnung schreibt. Hegel hielt es für unmöglich, einem Volk eine Verfassung „a priori“ zu geben. Das Grundgesetz entstand auf Auftrag der Militärgouverneure und unter ihrem Genehmigungsvorbehalt, die Ministerpräsidenten wollten nur ein Provisorium, daher der Name ([Bundeszentrale für politische Bildung](https://www.bpb.de/themen/nachkriegszeit/grundgesetz-und-parlamentarischer-rat/38975/von-den-londoner-empfehlungen-zum-grundgesetz/)). Japans Verfassung schrieb 1946 die amerikanische Besatzung; sie wurde nie geändert ([National Diet Library](https://www.ndl.go.jp/constitution/e/outline/03outline.html)). Im Irak lehnten 2005 zwei sunnitische Provinzen die neue Verfassung mit Zweidrittelmehrheit ab ([Al Jazeera 2005](https://www.aljazeera.com/news/2005/10/25/constitution-approved-says-iraq-panel)). Erzwungener Regimewechsel bringt Demokratie nur dort, wo Wohlstand, Zusammenhalt und frühere Erfahrung mit gewählten Regierungen schon da sind ([Downes & Monten 2013](https://doi.org/10.1162/isec_a_00117), statistischer Vergleich), und jede Verfassunggebung ist ohnehin „zum Teil Verhandlung, zum Teil Dialektik, zum Teil Zwang“ ([Law 2018](https://doi.org/10.4324/9781351038980-3), Buchkapitel). Die Hälfte aller Verfassungen hält keine neun Jahre ([Elkins, Ginsburg & Melton 2009](https://doi.org/10.1017/cbo9780511817595), Monografie).
+
 **Die Stimmen**
 
 - **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#„Man hat sich wechselseitig unglaublich viel verziehen“|Christoph Safferling]]:** Die Spruchkammern machten fast alle zu Mitläufern, und man verzieh sich gegenseitig; die kalte Verjährung von 1968 war die Folge.
@@ -309,6 +315,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 - **[[Felwine Sarr - Gehoert Afrika die Zukunft#Ubuntu — Mandela und die Rehabilitierung der Utopie|Felwine Sarr]]:** Südafrika integrierte durch Amnestie und Wahrheitskommission und vermied einen Krieg; den Preis bezahlten die Opfer.
 - **[[Susanne Boshammer — Was heisst verzeihen#Strafe, Mediation und die moralische Verjährung|Susanne Boshammer]]:** Weil Menschen sich ändern, darf man sagen *„ich erlaube dir, eine andere zu werden“*; verjähren kann der Vorwurf gegen die Person, das Gedächtnis der Tat nie, und die [[Susanne Boshammer — Was heisst verzeihen#Bekennen, nicht rechtfertigen|Wahrheitskommission]] verlangte Bekenntnis, keine Reue.
 
+- **[[Walther Ziegler — Hegel in 60 Minuten#Kann man einem Volk eine Verfassung geben?|Hegel, mit Walther Ziegler]]:** Eine Verfassung lässt sich nicht von außen geben, jedes Volk hat die, die ihm angemessen ist; wer in einer Diktatur lebt, muss sich die nächste erkämpfen.
 <details><summary>Weitere Stimmen (9)</summary>
 
 - **[[Harald Welzer — Toetungsarbeit#Opa war kein Nazi — die Erfindung der Großeltern|Harald Welzer]]:** Das Beschweigen der Gründergeneration füllten die Enkel mit Helden; in zwei Dritteln der befragten Familien wurde Opa im Weitererzählen besser, und die Urenkel wissen heute oft gar nichts mehr.
@@ -326,6 +333,9 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 
 > [!question] Die Reibung
 > Aly und Bude halten das Beschweigen für den Preis der Stabilität, Wagner und Safferling zeigen, wer ihn bezahlte, und der Osten nach 1990 zeigt den Preis des Gegenteils. *Gibt es einen Neuanfang, der weder die Täter schont noch die Mehrheit verliert — und hätte Bonn 1949 die Kraft dazu gehabt?*
+
+> [!question] Die Reibung, in der Verfassung
+> Hegel sagt, eine Verfassung lasse sich nicht von außen geben. Bonn und Tokio zeigen Verfassungen, die von außen kamen und hielten, Bagdad eine, die eine ganze Gruppe nicht trug, und Oschmann vermisst die gemeinsame von 1990. *Wird eine Verfassung durch ihre Entstehung zur eigenen, oder erst durch die Jahre, die man mit ihr lebt?*
 
 ---
 
@@ -351,6 +361,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 | 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Deutsche Drehtüren: Merz' Treffen als BlackRock-Vertreter, Lobbyregister und Frühstart-Rente, Kukies, Asmussen, Karenzzeit, Shive & Forster |
 | 10.11.2026 | [[Alexander Bogner — Zweifeln an der Wissenschaft#Beraten oder entscheiden Wie viel Wissenschaft verträgt die Politik?|Alexander Bogner — Zweifeln an der Wissenschaft]] | Beraten oder entscheiden in der Pandemie: Überschreiten vs. Verstecken (Partheymüller, Eberl & Bogner 2025), „Follow the Science“ als Schuldabwehr, Diskursausfall (Sachverständigenausschuss 2022), ÖAW-Empfehlung „Begründen, nicht verkünden“, Enquete-Kommission, Bevölkerung will mehr Wissenschaft (16 % vs. 47 %) |
 | 10.11.2026 | [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Wer spricht für die Nachkommen?\|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] | Beraten oder entscheiden: Andere Wege für die Zukunft, das Gericht (BVerfG 2021), Jacobs' drei Hürden, Future Design (Kamijo 2016, Hara 2019) |
+| 17.11.2026 | [[Walther Ziegler — Hegel in 60 Minuten#Nachbesprechung|Walther Ziegler — Hegel in 60 Minuten]] | Mit wem fängt eine Demokratie neu an? Wer die Verfassung schreibt: Grundgesetz (Frankfurter Dokumente, Provisorium), Japan 1946/47, Irak 2005; Downes & Monten 2013, Law 2018, Elkins, Ginsburg & Melton 2009; neue Reibung |
 
 ---
 
@@ -386,6 +397,10 @@ Russland als Gegenprobe zur Frage, mit wem eine Demokratie neu anfängt: kein st
 ### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#An der Zapfsäule oder an den Werten?|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
 
 Ein Fall für das gebrochene Versprechen: Theveßen erklärt Trumps Niederlage bei den Midterms 2026 mit denselben Versprechen, die ihn gewählt hatten. Das gebrochene Versprechen spürt man an der Kasse, die Korruption macht es unverzeihlich.
+
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Eine Kommission, die kein Gericht war|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
+
+Südafrika gab Amnestie nur gegen öffentliche Wahrheit, für jeden Täter einzeln und mit Frist. Wüstenbergs Bilanz: Der Tausch trägt nur, wenn den Schweigenden die Strafe droht, und gerade die blieb fast ganz aus.
 
 ---
 

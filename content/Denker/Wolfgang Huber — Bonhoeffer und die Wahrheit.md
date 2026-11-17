@@ -277,6 +277,10 @@ Han führt die Wahrheitsfrage dorthin, wo Huber sie nur streift, in die Infosph�
 ### → [[Torsten Wilholt — Wahrheit und Wissen]]
 Bei Wilholt reicht die Übereinstimmung mit den Tatsachen nicht für Wissen, bei Bonhoeffer nicht für das Wahrsagen. Zwei Ergänzungen der Korrespondenztheorie aus entgegengesetzten Richtungen: die eine aus der Erkenntnistheorie, die andere aus dem Verhörraum.
 
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Amnestie ja, Amnesie nein|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
+
+Ein evangelischer Theologe, der wie Huber über Bonhoeffer kam, hat die Anhörungen der Kommission in Kapstadt selbst besucht. Er erzählt, wie der Tausch Wahrheit gegen Straffreiheit funktionierte, und schließt mit einem Satz Weizsäckers über Wahrheit und Versöhnung.
+
 ---
 
 ## Weiterdenken

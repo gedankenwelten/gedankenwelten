@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 186,
-   "aufrufe": 224
+   "leser": 185,
+   "aufrufe": 223
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -69,12 +69,12 @@
    "aufrufe": 14
   },
   {
-   "pfad": "/DenkerVita/Carlo-Cipolla",
-   "leser": 12,
-   "aufrufe": 13
+   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "leser": 11,
+   "aufrufe": 12
   },
   {
-   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "pfad": "/DenkerVita/Carlo-Cipolla",
    "leser": 11,
    "aufrufe": 12
   },
@@ -521,7 +521,7 @@
     {
      "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
      "leser": 1,
-     "aufrufe": 5
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Udo-Marquardt",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 186,
-     "aufrufe": 224
+     "leser": 185,
+     "aufrufe": 223
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -679,12 +679,12 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 12,
-     "aufrufe": 13
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 11,
+     "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 11,
      "aufrufe": 12
     },

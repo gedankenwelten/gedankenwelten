@@ -456,6 +456,10 @@ Das Gegenstück aus derselben Zeit: Wer der Dummheit widersteht, muss in der Ver
 ### → [[Michael Fleming — Was die Alliierten wussten]]
 Beamte, die genug wussten und es „beiseitelegen“ wollten: der historische Fall zu Schliessers Satz, dass auch Nicht-Handeln eine Handlung ist.
 
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Deutschland mehr Recht, weniger Aussprache|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
+
+Der Bonhoeffer-Forscher Wüstenberg fragt, wann der politische Gebrauch der Versöhnung einen „unerlaubten moralischen Kompromiss“ erzwingt, die billige Gnade nach einer Diktatur. Südafrikas Wahrheitskommission verlangte darum Wahrheit statt Reue und zeigt, was geschieht, wenn die Strafe für die Schweigenden ausbleibt.
+
 ---
 
 ## Weiterdenken

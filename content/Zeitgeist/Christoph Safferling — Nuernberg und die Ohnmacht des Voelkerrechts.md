@@ -466,6 +466,10 @@ Wie das Material des polnischen Untergrunds schon im Krieg in Anklagen für die 
 
 Dieselben Fünfziger, vom Gedächtnis her erzählt: Der Historiker Stefan Creuzberger zeigt, wie Antikommunismus und das Gefühl, selbst Opfer zu sein, den Vernichtungskrieg im Osten aus der Erinnerung hielten, in denselben Jahren, in denen Fritz Bauer gegen den eigenen Apparat ermittelte.
 
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Warum Südafrika nicht strafte|Ralf K. Wüstenberg — Warum Südafrika nicht strafte]]
+
+Wüstenberg erklärt, warum Südafrika Nürnberg ausdrücklich nicht folgte und welchen dritten Weg es zwischen Strafe und Vergessen fand, die Amnestie nur gegen öffentliche Wahrheit. Neben dem westdeutschen „wechselseitigen Verzeihen“ zeigt sein Fall, was eine Amnestie verlangen kann, die keine Amnesie sein will.
+
 ---
 
 ## Weiterdenken

@@ -333,6 +333,10 @@ Die ausführliche Fassung der Stimme von Scheliha in „Wer bestimmt über Kinde
 
 Die Stimme von der Straße zu dieser Frage: ein Streetworker, dessen Jugendliche auf fünfzig Bewerbungen keine Antwort bekommen, und eine Schülervertreterin, die Schule als Lebensraum will.
 
+### → [[NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli#Christian „Da hätten Sie strenger mit mir umgehen können“|NDR Story — Richter und Täter]]
+
+Ein Jugendrichter fragt Jahre später nach, ob seine Härte Zumutung oder Demütigung war. Einer findet ihn im Nachhinein zu mild, eine trägt Hass und Dank zugleich, einer antwortet nicht mehr.
+
 ---
 
 ## Weiterdenken

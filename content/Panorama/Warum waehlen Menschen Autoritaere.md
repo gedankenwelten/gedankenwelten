@@ -2,7 +2,7 @@
 title: "Warum wählen Menschen Autoritäre?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-13
+aktualisiert: 2026-11-17
 description: "Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -291,6 +291,8 @@ Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Ge
 
 Für die USA verbinden die Daten die beiden Erklärungen der Krise junger Männer. Wo die Importkonkurrenz Industriearbeit kostete, traf es junge Männer stärker als junge Frauen, danach wurde weniger geheiratet und es gab mehr arme Alleinerziehenden-Haushalte ([Autor, Dorn & Hanson 2019](https://doi.org/10.1257/aeri.20180010), natürliches Experiment). Die politische Kluft der Jungen wächst dort vor allem, weil junge Frauen nach links gehen, während sich junge Männer seit zwanzig Jahren kaum anders einordnen ([Gallup 2024](https://news.gallup.com/poll/609914/women-become-liberal-men-mostly-stable.aspx)); 2024 wählten sie mehrheitlich Trump, 2026 mehrheitlich die Demokraten ([CIRCLE](https://circle.tufts.edu/2026-election)). Wie viel die Manosphere dazu beiträgt, ist kaum erforscht ([Iñigo 2026](https://doi.org/10.1177/10608265251357869), Übersichtsarbeit).
 
+Auf der großen Bühne sieht der Gegenschlag so aus. Der Anteil der Menschen, die in Demokratien leben, stieg von 3,4 Prozent im Jahr 1900 auf mehr als die Hälfte im Jahr 2000 ([Our World in Data nach V-Dem](https://ourworldindata.org/grapher/people-living-in-democracies-autocracies), Datensatz). Ende 2025 leben 74 Prozent in Autokratien, und für den durchschnittlichen Weltbürger ist die Demokratie wieder auf dem Stand von 1978; die USA verlieren zum ersten Mal seit über fünfzig Jahren den Status einer liberalen Demokratie ([V-Dem 2026](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf), Jahresbericht). Dass der Erfolg selbst den Rückschlag gebiert, steht schon beim Optimisten Francis Fukuyama: Wer nicht mehr für die gerechte Sache kämpfen kann, weil sie in einer früheren Generation gesiegt hat, kämpfe gegen sie, „aus einer gewissen Langeweile“; das Ende der Geschichte sei nie die Vorhersage gewesen, dass sich die liberale Demokratie bald überall ausbreite ([Fukuyama 2024, *Persuasion*](https://www.persuasion.community/p/boredom-at-the-end-of-history-part-i), Essay). Moralischer Fortschritt lässt sich vorantreiben, aufhalten und umkehren ([Buchanan & Powell 2018](https://doi.org/10.1093/oso/9780190868413.001.0001), Monografie). Hegel, von dem die Fortschrittsthese stammt, wollte übrigens nicht vorhersagen: Die Eule der Minerva fliegt bei ihm erst in der Dämmerung.
+
 **Die Stimmen**
 
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Hat nicht geklappt — Tocqueville und der Backlash|Aladin El-Mafaalani]]:** Mehr Gerechtigkeit führt in der Regel zu mehr Konflikten, und dauerhafte Großzügigkeit durch diesen Prozess hindurch ist anthropologisch unwahrscheinlich. Tocqueville habe sich geirrt: „Hat nicht geklappt.“
@@ -303,7 +305,10 @@ Für die USA verbinden die Daten die beiden Erklärungen der Krise junger Männe
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Das Ende von „It's the economy, stupid“|Ardalan Ibrahim]]:** Wenn der Kuchen nicht mehr wächst, zerbricht das Aufstiegsversprechen, und die Rechte bietet die „happy Volksgemeinschaft“ an.
 - **[[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika#Die Krise der jungen Männer|Sandra Navidi]]:** Die Krise junger Männer ist real, aber die Rechte lenkt sie in eine Opferrolle um, „dann kann man sagen, okay, die Frauen sind schuld“; dasselbe Muster wie bei den Migranten.
 
-<details><summary>Weitere Stimmen (11)</summary>
+- **[[Walther Ziegler — Hegel in 60 Minuten#Geht die Geschichte zur Freiheit?|Hegel, mit Walther Ziegler]]:** Die Weltgeschichte ist der Fortschritt im Bewusstsein der Freiheit; Rückschläge sind wirklich, aber ob aus ihnen eine höhere Stufe wird, sieht man erst im Nachhinein.
+<details><summary>Weitere Stimmen (12)</summary>
+
+- **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Fukuyama — halb recht|Philip Manow]]:** Der Kapitalismus hat gewonnen, die Demokratie nicht sicher; dass Autokratien ihre Formen nachahmen, zeigt, dass sie als Rechtfertigung keine Konkurrenz hat.
 
 - **[[Pankaj Mishra — Zeitalter des Zorns#Mimetische Rivalität: Girard trifft Rousseau|Pankaj Mishra]]:** Das Versprechen der Gleichheit setzt die Maschine des Vergleichs in Gang, und Ressentiment ist ihr Produkt.
 - **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** Nicht der Absturz ängstigt, sondern der relative Abstand, und die Angst steigt mit dem Wohlstand.
@@ -355,6 +360,7 @@ Für die USA verbinden die Daten die beiden Erklärungen der Krise junger Männe
 | 04.11.2026 | [[Zeitgeist/auslandsjournal — Ausgetrumpt#Nachbesprechung\|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]] | Was holt Wähler zurück? Populismus von links: Klassenrhetorik (Robison et al. 2020), Anti-Establishment statt Inhalt (Marx & Schumacher 2018), Liberalität plus Investition (Abou-Chadi & Wagner 2019), Misstrauen von links wie rechts (Rooduijn 2016, Rekker 2025) · Protest oder Überzeugung: Abwahl aus Ablehnung, Halbzeitverlust 20/23, Thermostat (Claassen 2019), Mehrheiten kippen 2010/2022 |
 | 11.11.2026 | [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika#Nachbesprechung\|Sandra Navidi — Frauenrechte in Trumps Amerika]] | Ist der Backlash der Preis des Fortschritts? Krise junger Männer in den USA: China-Schock und Familie (Autor, Dorn & Hanson 2019), Bildungsabstand (AIBM), Kluft durch Linksschwenk der Frauen (Gallup 2024), 2024 zu Trump, 2026 zurück (CIRCLE), Manosphere kaum erforscht (Iñigo 2026, Renström & Bäck 2024) · Stimme Navidi |
 | 13.11.2026 | [[Erich Fromm — Psychoanalyse des Faschismus#Wer wählte Hitler?|Erich Fromm — Psychoanalyse des Faschismus]] | Was lehrt Weimar: Arbeiteranteil und „Volkspartei des Protests“ (Falter 2013), Konfession als stärkster Prädiktor (Spenkuch & Tillmann 2018) · Fromm-Stimme korrigiert |
+| 17.11.2026 | [[Walther Ziegler — Hegel in 60 Minuten#Nachbesprechung|Walther Ziegler — Hegel in 60 Minuten]] | Ist der Backlash der Preis des Fortschritts? Die Makrolinie (OWID, V-Dem 2026: 74 % in Autokratien, Stand 1978), Fukuyamas eigene Lesart (Langeweile, keine Vorhersage), Buchanan & Powell; Hegels Eule der Minerva |
 
 ---
 

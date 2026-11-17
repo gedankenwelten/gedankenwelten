@@ -177,3 +177,7 @@ Die philosophisch-historische Fassung dessen, was diese Note im Alltag sucht: Sa
 ### → [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
 
 Ein Wert, der aus der Beziehung kommt, gegen einen, den nur der Markt vergibt. Der Gedanke fragt, was mit Menschen geschieht, die nur noch gemessen werden: Sie suchen sich eine andere Skala, und die Rechte bietet ihnen Herkunft an.
+
+### → [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Eine Kommission, die kein Gericht war|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
+
+Wo Tutu das Wort einsetzte, erzählt Wüstenberg aus eigener Anschauung: Anhörungen, in denen sich der Saal erhob, wenn die Opfer kamen, und Täter, die für ihre Straffreiheit öffentlich die Wahrheit sagen mussten. Im Nachwort der Übergangsverfassung, das die Amnestie anordnet, steht auch Ubuntu.
