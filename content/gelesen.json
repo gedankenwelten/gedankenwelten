@@ -5,13 +5,13 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 187,
-   "aufrufe": 226
+   "leser": 186,
+   "aufrufe": 225
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 64,
-   "aufrufe": 71
+   "leser": 63,
+   "aufrufe": 70
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -25,8 +25,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 31,
-   "aufrufe": 33
+   "leser": 30,
+   "aufrufe": 32
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -124,12 +124,17 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Hannah-Arendt",
+   "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+   "leser": 6,
+   "aufrufe": 9
+  },
+  {
+   "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
    "leser": 6,
    "aufrufe": 8
   },
   {
-   "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+   "pfad": "/DenkerVita/Hannah-Arendt",
    "leser": 6,
    "aufrufe": 8
   },
@@ -157,11 +162,6 @@
    "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
    "leser": 6,
    "aufrufe": 6
-  },
-  {
-   "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-   "leser": 5,
-   "aufrufe": 7
   },
   {
    "pfad": "/Denker/S.N.-Goenka-Vipassana",
@@ -364,6 +364,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 4,
      "aufrufe": 4
@@ -387,11 +392,6 @@
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 3,
      "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 3,
-     "aufrufe": 3
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -509,11 +509,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
      "leser": 2,
      "aufrufe": 2
@@ -560,6 +555,11 @@
     },
     {
      "pfad": "/Zeitgeist/Ronen-Steinke-Meinungsfreiheit-Voelkermord-und-Verfassungsschutz",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 1,
      "aufrufe": 2
     },
@@ -615,13 +615,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 187,
-     "aufrufe": 226
+     "leser": 186,
+     "aufrufe": 225
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 64,
-     "aufrufe": 71
+     "leser": 63,
+     "aufrufe": 70
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -635,8 +635,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 31,
-     "aufrufe": 33
+     "leser": 30,
+     "aufrufe": 32
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -734,12 +734,17 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Hannah-Arendt",
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "leser": 6,
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 6,
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 6,
      "aufrufe": 8
     },
@@ -767,11 +772,6 @@
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 6,
      "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 5,
-     "aufrufe": 7
     },
     {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
@@ -1099,6 +1099,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "leser": 9,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
      "leser": 9,
      "aufrufe": 12
@@ -1110,11 +1115,6 @@
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 12
-    },
-    {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 9,
      "aufrufe": 12
     },
@@ -1147,6 +1147,11 @@
      "pfad": "/DenkerVita/Juergen-Kornmeier",
      "leser": 8,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 8,
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
@@ -1192,11 +1197,6 @@
      "pfad": "/DenkerVita/Cordula-Tutt",
      "leser": 7,
      "aufrufe": 10
-    },
-    {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 7,
-     "aufrufe": 9
     },
     {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
@@ -1404,6 +1404,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "leser": 9,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
      "leser": 9,
      "aufrufe": 12
@@ -1415,11 +1420,6 @@
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 12
-    },
-    {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 9,
      "aufrufe": 12
     },
@@ -1452,6 +1452,11 @@
      "pfad": "/DenkerVita/Juergen-Kornmeier",
      "leser": 8,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 8,
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
@@ -1499,11 +1504,6 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 7,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 7,
      "aufrufe": 9
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 54,
-     "aufrufe": 54
+     "leser": 53,
+     "aufrufe": 53
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1550,8 +1550,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 25,
-     "aufrufe": 25
+     "leser": 24,
+     "aufrufe": 24
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1619,6 +1619,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 6,
      "aufrufe": 6
@@ -1640,11 +1645,6 @@
     },
     {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 5,
      "aufrufe": 5
     },
