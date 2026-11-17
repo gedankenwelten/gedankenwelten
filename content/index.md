@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Eilbeschluss, kein Urteil: Das VG Köln stoppt vorerst die Einstufung der AfD als gesichert rechtsextrem. Gilda Sahebi und Arne Semsrott prüfen die Begründung, am vierten Tag des Iran-Kriegs.
 
+> **17.11.** — [[Zeitgeist/Ralf K. Wuestenberg — Versoehnung und Amnestie|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
+>
+> Südafrika ließ seine Folterer straffrei, wenn sie öffentlich die ganze Wahrheit sagten. Der Theologe Ralf K. Wüstenberg erzählt, was dieser Tausch gebracht hat, was er gekostet hat, und was Deutschland nach 1989 daraus hätte lernen können.
+
 > **17.11.** — [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
 >
 > Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
@@ -40,11 +44,31 @@ Die Gedankenwelten (luc)
 >
 > Ein Vordach stürzt ein, sechzehn Menschen sterben, und Serbiens Studierende besetzen ihre Fakultäten. Ein Film aus dem Inneren der Bewegung, die ein Jahr später die Wahl gewinnen sollte.
 
-> **15.11.** — [[Zeitgeist/Stefan Creuzberger — Geschichtspolitik Deutschland und Russland|Stefan Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]]
->
-> 27 Millionen sowjetische Tote, und lange erinnerte man in der Bundesrepublik vor allem die eigenen. Der Historiker Stefan Creuzberger erzählt, wie Kalter Krieg, Antikommunismus und Staatsräson bestimmten, was vom Vernichtungskrieg im Gedächtnis blieb.
+> → *9 weitere in* [[Zeitgeist]]
 
-> → *8 weitere in* [[Zeitgeist]]
+### Denker
+
+> **17.11.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
+>
+> Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
+
+> **16.11.** — [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten|Walther Ziegler — Schopenhauer in 60 Minuten]]
+>
+> Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
+
+> **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Von weitem grau, von nahem schwarz und weiß: Die bolivianische Soziologin denkt Dekolonisierung als tägliche Arbeit an der Kolonie im eigenen Kopf, und die betrifft alle.
+
+> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
+>
+> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
+
+> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
+>
+> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
+
+> → *5 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -69,30 +93,6 @@ Die Gedankenwelten (luc)
 > Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
 
 > → *21 weitere in* [[Panorama]]
-
-### Denker
-
-> **16.11.** — [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten|Walther Ziegler — Schopenhauer in 60 Minuten]]
->
-> Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
-
-> **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
->
-> Von weitem grau, von nahem schwarz und weiß: Die bolivianische Soziologin denkt Dekolonisierung als tägliche Arbeit an der Kolonie im eigenen Kopf, und die betrifft alle.
-
-> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
->
-> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
-
-> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
->
-> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
-
-> **13.11.** — [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
->
-> Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
-
-> → *4 weitere in* [[Denker]]
 
 ### Geistesblitz
 
