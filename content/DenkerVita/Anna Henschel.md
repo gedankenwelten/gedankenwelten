@@ -3,6 +3,7 @@ title: Anna Henschel — DenkerVita
 description: "Anna Henschel, Redakteurin bei wissenschaftskommunikation.de, sucht bessere Bilder für Sprachmodelle: den ahnungslosen Praktikanten statt der Superintelligenz."
 tags: [denker-vita, ki, medien, sprache, wissenschaftskommunikation, psychologie]
 raetsel: "Hinter dem Vorhang kein Zauberer. Nur einer, der Hebel zieht."
+aktualisiert: 2026-11-13
 ---
 
 # Anna Henschel — DenkerVita

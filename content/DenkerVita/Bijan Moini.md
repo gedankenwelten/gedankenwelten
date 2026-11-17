@@ -113,6 +113,7 @@ Seine Nähe zur GFF ordnet ihn zivilgesellschaftlich ein — aber nicht als Akti
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — GFF-Analyse zur AfD-Verbotsfrage (2024–2025)
+- [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne 23]] — drei O-Töne zum Eilbeschluss des VG Köln (März 2026): überrascht, das Gutachten des Verfassungsschutzes zu dünn, die Verbotsaussichten juristisch nicht geschmälert
 - [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig]] — die Auflösung: das fertige Gutachten, Ergebnis verfassungswidrig (Bundespressekonferenz, 25.06.2026)
 
 ---

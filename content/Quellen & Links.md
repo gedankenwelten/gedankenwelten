@@ -1007,6 +1007,8 @@ tags:
 | **DenkerVitas** | [[DenkerVita/Gina Wiedemann]] · [[DenkerVita/Lilith Roska]] |
 | **271k-Faktencheck** | [Arolsen Archives](https://arolsen-archives.org/en/news/fact-check-this-document-does-not-relativize-the-holocaust/) |
 | **Transkript** | `Gedankenwelten/Transkripte/TikTok_Geschichtsumdeutung_Transkript.txt` |
+| **Seither (17.11.2026)** | [Wiedemann: 271k – zwischen Clickbait und Holocaustrelativierung (DZK-Blog, 09.2026)](https://kulturgutverluste.de/blog/271k-zwischen-clickbait-und-holocaustrelativierung) · [RIAS Jahresbericht 2025](https://report-antisemitism.de/documents/17-06-26_RIAS_Bund_Jahresbericht_2025.pdf) · [Neuausrichtung Hessen gegen Hetze (18.12.2025)](https://hessen.de/presse/landesregierung-stellt-neuausrichtung-der-meldestelle-vor) |
+| **Vita Wiedemann** | [Jobporträt](https://arolsen-archives.org/ueber-uns/jobs/social-media-officerin/) · [MuseumNext](https://www.museumnext.com/speakers/gina-wiedemann/) · [Stiftung EVZ, Interview](https://www.stiftung-evz.de/was-wir-foerdern/jugend-erinnert-international/5-jahre-jugend-erinnert-international/interviews-5ypri/) · [radioeins, 01.2026](https://www.radioeins.de/programm/sendungen/die_schoene_woche/_/digitale-erinnerungskultur-die-arbeit-der-arolsen-archives.html) (Abschrift: `Gedankenwelten/Transkripte/Wiedemann_radioeins_Digitale_Erinnerungskultur_2026-01.vtt`) |
 
 ## Kimberlé Crenshaw — Jung & Naiv 830
 
@@ -3843,11 +3845,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 | | |
 |---|---|
-| **Podcast** | Gilda con Arne, Folge 23 (Apple Podcasts / Steady) |
+| **Podcast** | [GCA #23: AfD laut Gericht vorerst nicht gesichert rechtsextrem, Iran-Update, neues Format „Fun Facts“](https://podcasts.apple.com/de/podcast/gilda-con-arne-der-politik-podcast/id1839234585?i=1000753015156) (04.03.2026) |
 | **Notiz** | [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GCA23_AfD_Gericht_Iran_Transkript.txt` |
-| **Gäste** | Bijan Mouini (GFF, O-Ton) |
-| **Spektrum** | Links-progressiv — VG-Köln-Beschluss, Justiz-Kritik, Iran-Kriegstag 4 |
+| **Gäste** | Bijan Moini (GFF, O-Ton) |
+| **Spektrum** | Links-progressiv — VG-Köln-Beschluss (26.02.2026, 13 L 1109/25), Justiz-Kritik, Iran-Kriegstag 4 |
 
 ---
 

@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **17.11.** — [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+>
+> Ein Eilbeschluss, kein Urteil: Das VG Köln stoppt vorerst die Einstufung der AfD als gesichert rechtsextrem. Gilda Sahebi und Arne Semsrott prüfen die Begründung, am vierten Tag des Iran-Kriegs.
+
+> **17.11.** — [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
+>
+> Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
+
 > **16.11.** — [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]]
 >
 > Eine Palästinenserin, ein jüdischer Pianist und ein CDU-Abgeordneter reden über das Canceln, und mitten im Gespräch zeigt sich, wie schnell man selbst übereinander statt miteinander spricht.
@@ -36,15 +44,7 @@ Die Gedankenwelten (luc)
 >
 > 27 Millionen sowjetische Tote, und lange erinnerte man in der Bundesrepublik vor allem die eigenen. Der Historiker Stefan Creuzberger erzählt, wie Kalter Krieg, Antikommunismus und Staatsräson bestimmten, was vom Vernichtungskrieg im Gedächtnis blieb.
 
-> **15.11.** — [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch|SRF — Junge Muslimas und ihr Kopftuch]]
->
-> Zwei junge Musliminnen in der Schweiz, die das Kopftuch tragen, eine Mutter, die es nie trug, und eine Wissenschaftlerin, die fragt, wie frei so eine Wahl ist. Eine Reportage über das, was man von außen nicht sieht.
-
-> **13.11.** — [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
->
-> Die Atomkraft bekam über Jahrzehnte mehr Förderung, die Erneuerbaren mehr je Kilowattstunde. Ungleich war vor allem, wo es stand: auf der Stromrechnung oder im Haushalt.
-
-> → *6 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Gehorsam braucht keinen Sadismus, nur das Fehlen eigener Überzeugung. Erich Fromm 1975 über den autoritären Charakter, das Kleinbürgertum und die anonyme Autorität, die heute befiehlt.
 
-> → *6 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Geistesblitz
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
 
-> → *16 weitere in* [[Geistesblitz]]
+> → *15 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -140,7 +140,7 @@ Die Gedankenwelten (luc)
 >
 > Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
 
-> → *7 weitere in* [[Spuren]]
+> → *6 weitere in* [[Spuren]]
 
 ### Kultur
 
