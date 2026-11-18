@@ -68,7 +68,7 @@ Quelle: [Antifaschistische Wirtschaftspolitik — Buchpremiere und Diskussion mi
 > **Tim Klüssendorf** — seit Juni 2025 Generalsekretär der SPD, Volkswirt aus Lübeck, Wortführer des linken Flügels und bekannt geworden mit der Forderung nach einer einmaligen Vermögensabgabe. Der Einzige auf dem Podium, dessen Partei im Bund regiert.
 > → [[DenkerVita/Tim Kluessendorf|DenkerVita]]
 >
-> **Ines Schwerdtner** — seit Oktober 2024 Bundesvorsitzende der Linken, direkt gewählte Abgeordnete für Berlin-Lichtenberg, zuvor Gründungs-Chefredakteurin von *Jacobin* in Deutschland. Hat Webers Begriff Anfang 2025 als eine der Ersten aufgegriffen und in Parteiprogrammatik übersetzt.
+> **Ines Schwerdtner** — seit Oktober 2024 Bundesvorsitzende der Linken, direkt gewählte Abgeordnete für Berlin-Lichtenberg, zuvor Gründungs-Chefredakteurin von *Jacobin* in Deutschland. Hat Webers Begriff im Januar 2025 in ein Wirtschaftspapier der Linken getragen.
 > → [[DenkerVita/Ines Schwerdtner|DenkerVita]]
 >
 > Moderation: **Natascha Freundel**, Redakteurin bei rbb Radio 3.

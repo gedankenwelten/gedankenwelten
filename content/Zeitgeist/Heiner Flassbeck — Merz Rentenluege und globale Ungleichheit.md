@@ -152,7 +152,7 @@ Flassbeck liefert hier das Fundament für die Rentenkritik: den geschlossenen Zi
 
 Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kühnerts Beobachtung in Studio Bonn, dass große Vermögen fast von selbst um „6, 7, 8 %“ im Jahr wachsen (das Modell einer unterstellten Rendite trägt dort Julia Friedrichs vor). Beide decken denselben blinden Fleck: Wer nur Einkommen analysiert, übersieht die selbstverstärkende Logik der Kapitalbestände.
 
-### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 Flassbecks Sparparadoxon demontiert theoretisch, was Herrmann in der Bilanz-Runde praktisch benennt: Steuergeschenke für Reiche erzeugen keine Investitionen — weil Kapital ohne Nachfrage nicht investiert wird.
 

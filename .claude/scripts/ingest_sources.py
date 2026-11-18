@@ -17,6 +17,10 @@ Designed to run on the Pi from the gedankenwelten-mcp image (model + deps baked 
 Incremental by default: points whose content hash is unchanged are skipped, so
 re-running after adding a single note only embeds the new/changed sources.
 Use --recreate for a clean full rebuild.
+
+Seit 17.11.2026 läuft der Ingest normalerweise auf dem Mac: `ingest_sources_mac.py` (Embed-Server
+bge-m3 auf der Apple-GPU, Qdrant über SSH-Tunnel). Der Pi-Weg bleibt als Rückfall. Anlass: Ein
+Nachhol-Lauf mit 3.415 Quellen hielt den Pi über zwei Stunden unter Volllast (Lüfter, Unterspannung).
 """
 
 from __future__ import annotations
@@ -28,13 +32,16 @@ import os
 import sys
 import uuid
 
-from qdrant_client import QdrantClient
-from qdrant_client.models import (
-    Distance,
-    VectorParams,
-    PointStruct,
-    Filter,
-)
+try:  # optional, damit ingest_sources_mac.py die Hilfsfunktionen ohne qdrant_client importieren kann
+    from qdrant_client import QdrantClient
+    from qdrant_client.models import (
+        Distance,
+        VectorParams,
+        PointStruct,
+        Filter,
+    )
+except ImportError:  # pragma: no cover — auf dem Mac (stdlib-Weg über ingest_sources_mac.py)
+    QdrantClient = None
 
 VECTOR_NAME = "text"          # must match the server's query (using="text")
 VECTOR_SIZE = 1024            # bge-m3 dense dim

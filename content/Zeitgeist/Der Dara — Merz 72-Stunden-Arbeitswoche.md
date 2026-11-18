@@ -129,7 +129,7 @@ Fahimi benennt auch die Behinderung von Betriebsratswahlen — jede fünfte werd
 
 Direkte Ergänzung — Höfgen analysiert dieselbe Merz-Regierung aus makroökonomischer Sicht, Der Dara aus der Perspektive der Arbeitnehmerrechte. Beide kommen zum gleichen Schluss: Die Forderung nach „mehr Arbeit" ist ideologisch, nicht ökonomisch begründet.
 
-### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 Bilanz-Note zu einem Jahr Kanzler Merz. Der DGB-Eklat ist ein Symptom der dort beschriebenen Grunddynamik: „Oben wird gegeben, unten wird genommen."
 

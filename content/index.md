@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Palästinenserin, ein jüdischer Pianist und ein CDU-Abgeordneter reden über das Canceln, und mitten im Gespräch zeigt sich, wie schnell man selbst übereinander statt miteinander spricht.
 
-> → *10 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
 
-> → *5 weitere in* [[Denker]]
+> → *3 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
-> → *21 weitere in* [[Panorama]]
+> → *19 weitere in* [[Panorama]]
 
 ### Geistesblitz
 
@@ -116,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
 
-> → *15 weitere in* [[Geistesblitz]]
+> → *13 weitere in* [[Geistesblitz]]
 
 ### Spuren
 

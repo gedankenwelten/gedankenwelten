@@ -142,7 +142,7 @@ Regeln für den Block:
   `3` `presseschau_aktualisiert:` (Brücke) → `4` alt. Forschung floatet die Note hoch — aber nie über
   neue oder manuell vertiefte. **Nie `aktualisiert:` bumpen** (das spülte sie über deine eigene Arbeit).
 - **Quellen-Layer:** Nach dem Note-Edit `python3 .claude/scripts/extract_sources.py` laufen lassen
-  (zieht die neuen DOI-Quellen) — Re-Ingest des Layers via `rebuild-sources.sh` auf dem Pi bei Gelegenheit.
+  (zieht die neuen DOI-Quellen) — Re-Ingest des Layers vom Mac: `python3 .claude/scripts/ingest_sources_mac.py`.
 - **RAG-Re-Ingest** der geänderten Note + **Deploy** wie üblich (→ `rules/gedankenwelten.md`, `rules/deploy.md`).
 - Bei freiem Claim (Modus B): nichts davon — nur den Befund liefern.
 

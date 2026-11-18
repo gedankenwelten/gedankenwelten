@@ -194,7 +194,7 @@ Göpels Agency-Agenda als Heilmittel gegen die „Verherrlichung der Ohnmacht". 
 
 Henze liefert den erinnerungspolitischen Unterbau für MONITORs Normalisierungsbefund: Die AfD-Resistenz speist sich auch aus der Doppelkontinuitäts-Strategie — wer sich als legitimer Erbe des Widerstands gegen Diktatur inszeniert (Bekennende Kirche → DDR-Dissidenten → AfD), bleibt trotz Skandalen wählbar.
 
-### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 MONITORs empirischer Befund (AfD-Wähler suchen den Bruch, nicht kompetente Regierung) erklärt, warum von Luckes institutioneller Optimismus scheitern musste — und warum Merz' Rechtsruck-Imitation die AfD stärkt statt schwächt.
 

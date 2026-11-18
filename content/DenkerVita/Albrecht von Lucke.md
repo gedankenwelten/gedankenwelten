@@ -80,7 +80,7 @@ Lucke vertritt eine **kritisch-linke Perspektive** im Sinne der Blätter-Traditi
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+- [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 - [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz]] — zweite Note zur selben Sendung
 
 ---

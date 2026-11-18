@@ -98,8 +98,9 @@ git add .claude/data/sources.jsonl Gedankenwelten/
 git commit -m "quellen-kurator: Quellen extrahiert + angereichert"
 git push
 
-# Quellen-Collection auf dem Pi neu ingestieren (inkrementell, nur Geändertes wird embeddet)
-ssh <server> "~/services/gedankenwelten-mcp/rebuild-sources.sh"
+# Quellen-Collection vom Mac aus neu ingestieren (inkrementell, nur Geändertes wird embeddet;
+# Rückfall auf dem Pi: ssh <server> "~/services/gedankenwelten-mcp/rebuild-sources.sh")
+python3 .claude/scripts/ingest_sources_mac.py --purge-missing
 ```
 
 ### Schritt 5 — Verifikation

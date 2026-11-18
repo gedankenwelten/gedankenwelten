@@ -195,7 +195,7 @@ Flassbeck fundiert die Merz-Kritik theoretisch: Das Sparparadoxon zeigt, warum K
 
 Flassbeck fundiert akademisch, was Höfgen popularisiert: Staatsschulden als durchlaufender Posten im Zinskreislauf, Merz' kapitalgedeckte Rente als Widerspruch zur Saldenmechanik.
 
-### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 Höfgens DIW-Dezildaten und Arbeitsmarktanalyse liefern den empirischen Unterbau für die Jahresbilanz-Diskussion: Herrmanns These "Reiche reicher, unten gespart" bekommt hier die konkreten Zahlen.
 

@@ -2482,7 +2482,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [DER ENTSCHEIDENDE PUNKT: 1 Jahr Kanzler Merz & Groko \| Mit Albrecht von Lucke, Ulrike Herrmann](https://www.youtube.com/watch?v=ENfbE-kdnNM) |
-| **Notiz** | [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]] |
+| **Notiz** | [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz\|Jung & Naiv — 1 Jahr Kanzler Merz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/JungNaiv_Merz1Jahr_Transkript.txt` |
 
 ## phoenixRunde — Arm und Reich in Deutschland

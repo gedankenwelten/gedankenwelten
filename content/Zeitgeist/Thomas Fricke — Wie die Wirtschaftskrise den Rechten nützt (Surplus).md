@@ -271,7 +271,7 @@ BPs Krisengewinne → Energiepreise → Unzufriedenheit → rechtspopulistische 
 
 Göpels Agency als Gegenangebot zur Ohnmacht, eine Erzählung neben Frickes Ohnmachtsdiagnose.
 
-### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 Frickes Kontrollverlust-These ist die Erklärungsfolie für das Paradox der Bilanz-Runde: Die AfD wächst auf 27%, obwohl (oder weil?) die Regierung nach rechts rückt. Fricke liefert den Mechanismus, die Bilanz-Runde beschreibt das Symptom.
 

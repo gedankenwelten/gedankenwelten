@@ -103,7 +103,7 @@ Post-keynesianisch orientiert; kritisch gegenüber:
 
 - [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar]] — STANDARD-Gespräch 07/2026: die Unterscheidung technisch machbar ≠ ökonomisch effizient, drei Mächtige in ihren eigenen Fallen, ihr Widerspruch gegen Varoufakis
 - [[Zeitgeist/Bundestalk — Iran USA und die Strasse von Hormus]] — sie sitzt selbst in der Runde und wendet *Geld als Waffe* auf die blockierte Meerenge an
-- [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+- [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 ---
 

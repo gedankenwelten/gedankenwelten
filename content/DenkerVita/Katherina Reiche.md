@@ -169,6 +169,6 @@ Er saß der Expertenkommission vor, deren Bericht Reiches Kurs in Teilen widersp
 - [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]] — der CDU-Sozialflügel fordert ihren Rücktritt
 - [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Reiche als „sicherheitspolitisches Problem“ in der Energiepreiskrise
 - [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — die Speicher, die ihre Kraftwerksstrategie übersieht
-- [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]] — Ulrike Herrmann revidiert ihr frühes Lob
+- [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]] — Ulrike Herrmann revidiert ihr frühes Lob
 - [[MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] — Reiches Hoffnung auf Mini-AKW
 - [[Panorama/Energie]] — die Energiedebatte im Überblick, mit Reiche als zentraler Figur

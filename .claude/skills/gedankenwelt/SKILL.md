@@ -1235,12 +1235,15 @@ Nach dem Push das öffentliche Gedankenwelten-Repo aktualisieren — das Sync-Sc
 **Quellen-Layer ingestieren (Pflicht, nach dem Push):**
 
 Damit die in Schritt 6e gesammelten Quellen sofort über `find_sources` auffindbar sind, den inkrementellen
-Sources-Ingest auf dem Pi auslösen. Das Script pullt `<vault>/` und embeddet nur die neuen Quellen
-(Hash-Skip → Sekunden):
+Sources-Ingest **vom Mac** auslösen (seit 17.11.2026; der Pi rechnete bge-m3 auf der CPU und lief bei großen
+Läufen stundenlang heiß). Das Skript liest die lokale `sources.jsonl`, embeddet nur die neuen Quellen
+(Hash-Skip → Sekunden) und schreibt über einen SSH-Tunnel in die Qdrant auf dem Pi:
 
 ```bash
-ssh <server> "~/services/gedankenwelten-mcp/rebuild-sources.sh"
+python3 .claude/scripts/ingest_sources_mac.py
 ```
+
+Rückfall, wenn der Embed-Server des Mac nicht läuft: `ssh <server> "~/services/gedankenwelten-mcp/rebuild-sources.sh"`.
 
 > So wächst `gedankenwelten_sources` mit **jeder** Note automatisch mit. `/gedankenwelt-kurator` ist dann
 > nur noch für Vollständigkeits-Durchläufe (Bestandsanreicherung) nötig, nicht für den laufenden Betrieb.
@@ -1422,7 +1425,7 @@ erste überlas; ein dritter ist Übertreibung (Glätten ist der Tod der Stimme).
 - [ ] Neue Note in RAG ingestiert (`/webhook/ingest-gedankenwelten`) + alle modifizierten Notes re-ingestiert
 - [ ] RAG-Verifikation: Kurztest-Query bestätigt neue Note ist auffindbar
 - [ ] Quellen der Note **und** (falls neu) der DenkerVita in `sources.jsonl` aufgenommen (`extract_sources.py --note`, Schritt 6e)
-- [ ] Quellen-Layer ingestiert: `rebuild-sources.sh` nach dem Push ausgelöst (Schritt 11)
+- [ ] Quellen-Layer ingestiert: `ingest_sources_mac.py` nach dem Push (Schritt 11)
 - [ ] Eintrag in `Quellen & Links.md`
 - [ ] Journal-Eintrag in `journal/MM.YYYY.md` + Teaser in `index.md`
 - [ ] `Gedankenwelten/Gedankenwelten.md` — Note eingetragen + Zähler aktualisiert

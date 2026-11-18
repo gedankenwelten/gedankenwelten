@@ -211,7 +211,7 @@ Die Forderung nach "Verbinden statt Spalten" findet in "Peter aus Köln" ihr kon
 
 Die Frage nach dem "Groschen, der gefallen ist": Medien beginnen zu realisieren, dass Asylzahlen sinken und AfD trotzdem steigt. Beide Quellen beleuchten dieselbe Lücke zwischen politischem Versagen und Populismus-Anstieg.
 
-### → [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 Beide Notes ziehen dieselbe Schwarz-Rot-Jahresbilanz (AfD auf 27%, Merz verfehlt Versprechen), aber die GCA-Note benennt Empathiemangel als politisches Symptom am konkreten Fall der sterbenden Frau — was Herrmanns Diagnose "Merz weiß nicht, wie man führt" um die moralische Dimension ergänzt.
 

@@ -55,7 +55,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Der Entscheid
 > [!abstract] Worum es geht
 > Am Tag nach den Wahlen in Mecklenburg-Vorpommern und Berlin findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Jana Hensel (ZEIT) erzählt die lange Abschiedsbewegung des Ostens, die mit Hartz IV sichtbar wurde, und besteht darauf, dass der Rechtsruck einen materiellen Kern hat. Marina Kormbaki (SPIEGEL) kommt vom Schweriner Marktplatz, wo das Wort „Zukunft“ Jubel auslöst, und aus dem Adenauer-Haus, wo der Kanzler die Bürgerversicherung andeutet und sie zwei Stunden später dementieren lässt. Hans Jessen legt die Nachwahlzahlen hin, Tilo Jung die Sachzwänge, die er für keine hält. Am Ende zieht Jessen die Summe des Abends: Was macht eine Demokratie mit Menschen, die das Gefühl haben, nicht gehört zu werden?
 
-Quelle: [DER ENTSCHEIDENDE PUNKT: Nach den Landtagswahlen | Mit Jana Hensel (ZEIT), Marina Kormbaki (SPIEGEL)](https://www.youtube.com/watch?v=IrJkGoR-6Y8) — Jung & Naiv, Livestream vom 21.09.2026, 2:09 Stunden. Fortsetzung von [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]; Albrecht von Lucke und Ulrike Herrmann fehlten diesmal.
+Quelle: [DER ENTSCHEIDENDE PUNKT: Nach den Landtagswahlen | Mit Jana Hensel (ZEIT), Marina Kormbaki (SPIEGEL)](https://www.youtube.com/watch?v=IrJkGoR-6Y8) — Jung & Naiv, Livestream vom 21.09.2026, 2:09 Stunden. Fortsetzung von [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]; Albrecht von Lucke und Ulrike Herrmann fehlten diesmal.
 
 > [!info] Wer spricht?
 > **Jana Hensel** (*1976, Borna*) — Schriftstellerin und Journalistin, seit 2018 bei der *ZEIT* für Bundespolitik und Ostdeutschland. Bekannt wurde sie 2002 mit *Zonenkinder*, dem Erinnerungsbuch über die letzte DDR-Kindheit. Im Februar 2026 erschien *Es war einmal ein Land. Warum sich der Osten von der Demokratie verabschiedet*, eine politische Geschichte der ostdeutschen Gesellschaft seit 1990, aus der sie an diesem Abend erzählt.
@@ -303,7 +303,7 @@ Am tragfähigsten ist, was die Forschung einen Statusverlust nennt: Das Materiel
 
 ## Verbindungen
 
-### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 Das ist die Fortsetzung, diesmal ohne von Lucke und Herrmann, und das Urteil über Merz rutscht eine Ebene tiefer. Im Mai ging es ums Handwerk: Herrmanns Kanzler, der keine Mehrheiten organisiert, und von Luckes Eingeständnis, er habe auf Lernfähigkeit gesetzt. Jetzt reden Hensel und Jessen über Haltung, über einen Kanzler, der klar spricht, weil er sich nicht verantwortlich fühlt, und dem das Bewusstsein des Dienens fehlt. Im Mai hatte von Lucke das Szenario einer von der AfD tolerierten Unionsregierung berichtet; Hensel und Kormbaki weisen es nun zurück, weil es die CDU zerlegen würde.
 

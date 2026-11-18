@@ -180,7 +180,7 @@ Beide MONITOR-Episoden beschreiben dasselbe staatliche Sparparadox auf verschied
 
 Butterwegge beschreibt das Matthäus-Prinzip als politische Grundstruktur: Ressourcen wandern von unten nach oben, Risiken von unten nach oben. Die §41a-Streichung und Betreutes-Wohnen-Kürzungen treffen genau die Gruppe, die er als strukturell benachteiligt identifiziert: junge Erwachsene ohne familiäres Sicherheitsnetz. Beckmann und Butterwegge kommen von verschiedenen Seiten zur gleichen Diagnose.
 
-### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 
 Ulrike Herrmanns Bilanz — „Die Reichen werden beschenkt, unten wird gespart" — ist die politische Rahmung, in der die Jugendhilfe-Kürzungen zu lesen sind. Karin Priens 2,7-Milliarden-Einschnitt ist kein Einzelfall, sondern Teil des von Herrmann dokumentierten Musters: Steuerreform für Wohlhabende finanziert durch Sozialabbau bei den Schwächsten.
 
