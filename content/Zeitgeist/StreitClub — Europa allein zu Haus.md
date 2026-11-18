@@ -35,7 +35,7 @@ Quelle: [StreitClub #17 "Europa allein zu Haus" mit Marie-Agnes Strack-Zimmerman
 > [!info] Wer spricht?
 > **Marie-Agnes Strack-Zimmermann** (*1958, Düsseldorf*) — FDP-Politikerin, seit 2024 Mitglied des Europäischen Parlaments. Zuvor Vorsitzende des Verteidigungsausschusses im Bundestag (2021–2024), wo sie sich als scharfe Kritikerin der deutschen Zurückhaltung bei Waffenlieferungen an die Ukraine profilierte.
 >
-> **Marc Felix Serrao** (*1983, Offenburg*) — Deutsch-brasilianischer Journalist, seit 2020 Chefredakteur der NZZ Deutschland. Zuvor Süddeutsche Zeitung. Vertritt konservativ-liberale Positionen, betont Differenzierung gegenüber pauschaler Verurteilung US-amerikanischer Politik.
+> **Marc Felix Serrao** (*1978, Hannover*) — Journalist, zuvor bei *Süddeutscher Zeitung* und FAS, von 2021 bis 2025 Chefredakteur der NZZ Deutschland, seit 2026 im Global Reporters Network von Axel Springer mit der *Welt* als Stammredaktion. Wir ordnen ihn konservativ-liberal ein; Amerika ist für ihn kein Einbrecher, sondern ein schwieriger Nachbar.
 >
 > **Moderation:** **Nicole Deitelhoff** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen (Goethe-Universität Frankfurt), Leiterin des Leibniz-Instituts Hessische Stiftung Friedens- und Konfliktforschung (PRIF/HSFK). **Michel Friedman** — Jurist, Publizist, Fernsehmoderator. Ehemaliger stellvertretender Vorsitzender des Zentralrats der Juden in Deutschland. Bekannt für konfrontative Interviewtechnik.
 >
@@ -167,7 +167,7 @@ Serrao bleibt skeptisch: Das sei eine „sehr deutsche Debatte". Vielfalt sei ei
 
 *Im Gespräch erwähnt:*
 
-- Rubios Rede auf der Münchner Sicherheitskonferenz 2025/2026 — Serrao bezieht sich auf seinen NZZ-Kommentar „Marco Rubio, der beste Mann Europas"
+- Rubios Rede auf der Münchner Sicherheitskonferenz 2025/2026 — Serrao bezieht sich auf seinen Kommentar in der *Welt*, [„Europas bester Mann ist ein Amerikaner“](https://www.welt.de/debatte/weltplus/plus69916289f4d0b8d94ca1cd0e/marco-rubio-europas-bester-mann-ist-ein-amerikaner.html)
 - Associated Press: Gerichtsurteile gegen Trump-Administration — Datenbank über hunderte Gerichtsurteile, die Regierungsakte kassieren
 - EU-Verteidigungskommissar fordert Vertragsänderung — Tagesmeldung zum Zeitpunkt der Aufnahme
 - EU-Industrieprogramm mit internationaler Beteiligung (Kanada, Australien, Japan, Südkorea, Neuseeland)

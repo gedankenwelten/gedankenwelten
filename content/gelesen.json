@@ -5,13 +5,13 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 181,
-   "aufrufe": 219
+   "leser": 177,
+   "aufrufe": 215
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 64,
-   "aufrufe": 71
+   "leser": 65,
+   "aufrufe": 73
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 39,
-   "aufrufe": 42
+   "leser": 38,
+   "aufrufe": 41
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -60,8 +60,8 @@
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "leser": 14,
-   "aufrufe": 17
+   "leser": 13,
+   "aufrufe": 16
   },
   {
    "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -79,14 +79,14 @@
    "aufrufe": 12
   },
   {
+   "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+   "leser": 10,
+   "aufrufe": 13
+  },
+  {
    "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
    "leser": 10,
    "aufrufe": 10
-  },
-  {
-   "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-   "leser": 9,
-   "aufrufe": 12
   },
   {
    "pfad": "/DenkerVita/Albert-Camus",
@@ -105,6 +105,11 @@
   },
   {
    "pfad": "/DenkerVita/Giulia-Enders",
+   "leser": 7,
+   "aufrufe": 8
+  },
+  {
+   "pfad": "/DenkerVita/Marcant",
    "leser": 7,
    "aufrufe": 8
   },
@@ -137,11 +142,6 @@
    "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
    "leser": 6,
    "aufrufe": 8
-  },
-  {
-   "pfad": "/DenkerVita/Marcant",
-   "leser": 6,
-   "aufrufe": 7
   },
   {
    "pfad": "/DenkerVita/Ralf-Stockmann",
@@ -210,6 +210,11 @@
   },
   {
    "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
+   "leser": 4,
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Byung-Chul-Han",
    "leser": 4,
    "aufrufe": 5
   },
@@ -297,11 +302,6 @@
    "pfad": "/Zeitgeist/Claudia-Wittig-und-Rainer-Rothfuss-Frieden-mit-Russland-ueber-die-Brandmauer",
    "leser": 3,
    "aufrufe": 5
-  },
-  {
-   "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-   "leser": 3,
-   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -325,8 +325,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 9,
-     "aufrufe": 10
+     "leser": 10,
+     "aufrufe": 12
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -395,6 +395,11 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
      "leser": 3,
      "aufrufe": 3
     },
@@ -469,12 +474,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Mats-Schoenauer",
+     "pfad": "/DenkerVita/Mae-Bengert",
      "leser": 2,
      "aufrufe": 2
     },
@@ -495,11 +495,6 @@
     },
     {
      "pfad": "/Geistesblitz/Marquardt-Zeit-als-Schluessel-zum-guten-Leben",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
      "leser": 2,
      "aufrufe": 2
     },
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,13 +615,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 181,
-     "aufrufe": 219
+     "leser": 177,
+     "aufrufe": 215
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 64,
-     "aufrufe": 71
+     "leser": 65,
+     "aufrufe": 73
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 39,
-     "aufrufe": 42
+     "leser": 38,
+     "aufrufe": 41
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -670,8 +670,8 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 14,
-     "aufrufe": 17
+     "leser": 13,
+     "aufrufe": 16
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -689,14 +689,14 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 10,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 10,
      "aufrufe": 10
-    },
-    {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
@@ -715,6 +715,11 @@
     },
     {
      "pfad": "/DenkerVita/Giulia-Enders",
+     "leser": 7,
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
      "leser": 7,
      "aufrufe": 8
     },
@@ -747,11 +752,6 @@
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 6,
      "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 6,
-     "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
@@ -820,6 +820,11 @@
     },
     {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 4,
      "aufrufe": 5
     },
@@ -907,11 +912,6 @@
      "pfad": "/Zeitgeist/Claudia-Wittig-und-Rainer-Rothfuss-Frieden-mit-Russland-ueber-die-Brandmauer",
      "leser": 3,
      "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "leser": 3,
-     "aufrufe": 4
     }
    ]
   },
@@ -945,8 +945,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 85,
-     "aufrufe": 95
+     "leser": 86,
+     "aufrufe": 97
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1034,14 +1034,14 @@
      "aufrufe": 14
     },
     {
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 13,
+     "aufrufe": 19
+    },
+    {
      "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 13,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 12,
-     "aufrufe": 18
     },
     {
      "pfad": "/DenkerVita/Udo-Marquardt",
@@ -1079,19 +1079,24 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 11,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "leser": 11,
      "aufrufe": 11
     },
     {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 10,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 10,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 10,
-     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -1115,11 +1120,6 @@
     },
     {
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-     "leser": 9,
-     "aufrufe": 12
-    },
-    {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 9,
      "aufrufe": 12
     },
@@ -1250,8 +1250,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 85,
-     "aufrufe": 95
+     "leser": 86,
+     "aufrufe": 97
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1339,14 +1339,14 @@
      "aufrufe": 14
     },
     {
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 13,
+     "aufrufe": 19
+    },
+    {
      "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 13,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 12,
-     "aufrufe": 18
     },
     {
      "pfad": "/DenkerVita/Udo-Marquardt",
@@ -1384,19 +1384,24 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 11,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "leser": 11,
      "aufrufe": 11
     },
     {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 10,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 10,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 10,
-     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -1420,11 +1425,6 @@
     },
     {
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-     "leser": 9,
-     "aufrufe": 12
-    },
-    {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 9,
      "aufrufe": 12
     },
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 54,
-     "aufrufe": 54
+     "leser": 55,
+     "aufrufe": 55
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1544,14 +1544,14 @@
      "aufrufe": 31
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Hans-Maggi",
      "leser": 30,
      "aufrufe": 30
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 30,
-     "aufrufe": 30
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 29,
+     "aufrufe": 29
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1574,12 +1574,12 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 9,
-     "aufrufe": 9
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 10,
+     "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 9,
      "aufrufe": 9
     },
@@ -1759,6 +1759,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
      "leser": 2,
      "aufrufe": 2
     }

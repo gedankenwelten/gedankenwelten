@@ -1,8 +1,9 @@
 ---
 title: Ulrike Herrmann — DenkerVita
-description: "Wachstum und Klimaschutz passen nicht zusammen, sagt die taz-Journalistin Ulrike Herrmann, und empfiehlt eine geplante Schrumpfung nach dem Vorbild der britischen Kriegswirtschaft."
+description: "Wachstum und Klimaschutz passen nicht zusammen, sagt die taz-Journalistin Ulrike Herrmann, und empfiehlt eine geplante Schrumpfung nach dem Vorbild der britischen Kriegswirtschaft ab 1939."
 date: 2026-05-10
-aktualisiert: 2026-05-10
+aktualisiert: 2026-11-18
+raetsel: "Weniger für alle, gerecht verteilt. Wie damals, als London Marken druckte."
 tags: [denker-vita, wirtschaft, kapitalismus, klimakrise, deutschland]
 ---
 
@@ -18,74 +19,68 @@ tags: [denker-vita, wirtschaft, kapitalismus, klimakrise, deutschland]
 
 </details>
 
+## Biographischer Snapshot
+
+> [!info] Wer spricht?
+> **Ulrike Herrmann**, 1964 in Hamburg geboren, ist Wirtschaftsjournalistin und Publizistin, seit 2000 bei der *taz*, heute als Wirtschaftsredakteurin. Sie ist gelernte Bankkauffrau, Absolventin der Henri-Nannen-Schule und hat Geschichte und Philosophie studiert. Ihre Bücher erzählen den Kapitalismus von seiner Geschichte her; *Das Ende des Kapitalismus* (2022) wurde ihr bekanntestes, *Geld als Waffe* (2026) wendet denselben Blick auf Krieg und Frieden. Den Kapitalismus nennt sie „außerordentlich segensreich“ und hält ihn trotzdem für nicht zukunftsfähig.
+>
+> Kernkonzepte: Wachstumszwang · grünes Schrumpfen · britische Kriegswirtschaft als demokratische Planung · ökonomische Sackgassen der Autokratien
+
+---
+
 ## Biografie
 
-**Ulrike Herrmann** (*13. Januar 1964, Hamburg) ist eine deutsche Wirtschaftsjournalistin und Publizistin. Sie ist seit 2000 Redakteurin bei der *taz* und seit 2006 Wirtschaftskorrespondentin — eine Position, die ihr Sichtbarkeit in der deutschsprachigen Mediendebatte gab.
+Ulrike Herrmann wurde 1964 in Hamburg geboren ([DNB-Normdatensatz](https://lobid.org/gnd/13412037X); [Kiepenheuer & Witsch](https://www.kiwi-verlag.de/buch/ulrike-herrmann-geld-als-waffe-9783462009613)). 1980/81 war sie als Austauschschülerin in Kenia; heute sitzt sie im Kuratorium des Austauschvereins AFS ([AFS](https://www.afs.de/afs-kuratorium)). Sie machte eine Lehre als Bankkauffrau, nach Angaben ihrer Agentur bei der Bayerischen Vereinsbank, besuchte die Henri-Nannen-Schule und studierte Geschichte und Philosophie an der Freien Universität Berlin. Danach arbeitete sie als wissenschaftliche Mitarbeiterin bei der Körber-Stiftung und als Pressesprecherin der Hamburger Gleichstellungssenatorin Krista Sager ([Berliner Festspiele](https://berlinerfestspiele.de/en/artist/4c33334c-0f56-4abd-94cc-e97d48d10015/ulrike-herrmann); [Redneragentur](https://www.redneragentur.de/english/speakers/Ulrike-Herrmann)).
 
-**Werdegang:**
-- Lehre als Bankkauffrau bei der Bayerischen Vereinsbank
-- Henri-Nannen-Journalistenschule (renommierte Journalismusschule)
-- Studium: Geschichtswissenschaft und Philosophie, Freie Universität Berlin
-- Wissenschaftliche Mitarbeiterin bei der Körber-Stiftung
-- Pressesprecherin der Hamburger Gleichstellungssenatorin Krista Sager (Bündnis 90/Die Grünen)
-- taz: zunächst Leiterin Meinungsredaktion und Parlamentskorrespondentin, ab 2006 Wirtschaftskorrespondentin
-- Vorstandsmitglied der taz-Verlagsgenossenschaft (2008–2014)
+Seit 2000 ist sie bei der *taz* ([taz](https://taz.de/Ulrike-Herrmann/!a69/)). Ihre Agentur nennt als Stationen die Meinungsredaktion und die Parlamentskorrespondenz, bevor sie zur Wirtschaft wechselte, und von 2008 bis 2014 den Vorstand der taz-Genossenschaft. Politisch war sie zuerst in der Hamburger CDU, weil sie dachte, dort lasse sich der Umweltschutz voranbringen, „diesen Irrtum“ nennt sie es heute; das Waldsterben hatte sie als Achtzehnjährige politisiert. Später wurde sie Mitglied der Grünen, und nach 25 Jahren beantragte sie im Oktober 2021, die Mitgliedschaft ruhen zu lassen, weil die Debatten über Parteibuch und Neutralität sie ermüdeten: „Damit ich endlich wieder ungestört die Arbeit machen kann“ ([taz, 14.10.2021, „Neutralität gibt es nicht“](https://taz.de/Medien-und-Neutralitaet/!5804654/)).
 
-**Politische Orientierung:** CDU-Mitglied (1984–1989), später Bündnis 90/Die Grünen (Mitgliedschaft seit 2021 ruhend). Sie ist kritischer Intellektueller ohne strikte Parteigebundenheit.
+Ihre Bücher bauen aufeinander auf. *Hurra, wir dürfen zahlen* (2010) handelt vom Selbstbetrug der Mittelschicht, *Der Sieg des Kapitals* (2013) von der Geschichte des Wachstums, *Kein Kapitalismus ist auch keine Lösung* (2016) davon, was man von Smith, Marx und Keynes lernen kann, *Deutschland, ein Wirtschaftsmärchen* (2019) vom Mythos des Wirtschaftswunders. Mit *Das Ende des Kapitalismus* (2022) zog sie die Linie bis zur Klimakrise, *Geld als Waffe* (2026) fragt, wie Wirtschaft über Krieg und Frieden entscheidet. 2016 erhielt sie den Preis für Wirtschaftspublizistik der Keynes-Gesellschaft ([Keynes-Gesellschaft](https://keynes-gesellschaft.de/preise-der-keynes-gesellschaft/)), 2019 den Spezial-Preis der Otto Brenner Stiftung „für ihren kritischen und pointierten Wirtschaftsjournalismus mit gutem Gespür für Sozialstaatlichkeit“ ([Otto Brenner Preis](https://www.otto-brenner-preis.de/dokumentation/2019/preistraeger/spezial-preis/)).
+
+---
 
 ## Bücher & Publikationen
 
 | Titel | Jahr | Beschreibung |
 |---|---|---|
-| [Älter werden, Neues wagen (mit Martina Wittneben)](https://www.genialokal.de/suche/?q=Älter+werden+Neues+wagen+Herrmann) | 2008 | Portraits älterer Menschen, die Ruhestandsstereotype widerlegen |
-| [Hurra, wir dürfen zahlen. Der Selbstbetrug der Mittelschicht](https://www.genialokal.de/suche/?q=Hurra+dürfen+zahlen+Herrmann) | 2010 | Kritische Analyse: Mittelschicht sieht sich als Elite, obwohl sie abzugleiten droht; Lobbyisten fördern diesen Selbstbetrug |
-| [Der Sieg des Kapitals. Wie der Reichtum in die Welt kam](https://www.genialokal.de/suche/?q=Der+Sieg+des+Kapitals+Herrmann) | 2013 | Historische Genese des Kapitalismus; scharfe Begriffsunterscheidung: Markt ≠ Geld ≠ Kapital |
-| [Kein Kapitalismus ist auch keine Lösung. Die Krise der heutigen Ökonomie](https://www.genialokal.de/suche/?q=Kein+Kapitalismus+ist+auch+keine+Lösung+Herrmann) | 2016 | Kritik an Neoklassik als „quasi-religiösem Dogma"; Rehabilitation klassischer Ökonomen (Smith, Marx, Keynes) |
-| [Deutschland, ein Wirtschaftsmärchen. Warum es kein Wunder ist, dass wir reich geworden sind](https://www.genialokal.de/suche/?q=Deutschland+Wirtschaftsmärchen+Herrmann) | 2019 | Dekonstruktion der Wirtschaftswunder-Legende; Kritik an Export- und Sparorientierung |
-| [Das Ende des Kapitalismus: Warum Wachstum und Klimaschutz nicht vereinbar sind](https://www.genialokal.de/suche/?q=Das+Ende+des+Kapitalismus+Herrmann) | 2022 | Kernwerk zu „grünem Schrumpfen"; Britische Kriegswirtschaft 1940 als Modell einer geplanten Schrumpfung durch Rationierung |
-| [Geld als Waffe. Wie die Wirtschaft über Krieg und Frieden entscheidet](https://www.genialokal.de/suche/?q=Geld+als+Waffe+Herrmann) | 2026 | Geopolitik durch ökonomische Linse: Autokratien greifen zu Krieg, wenn wirtschaftlich schwach |
+| [Älter werden, Neues wagen. Zwölf Porträts](https://www.genialokal.de/Suche/?q=9783896840691) | 2008 | Edition Körber-Stiftung, mit Martina Wittneben, ISBN 978-3-89684-069-1. Porträts älterer Menschen, die Neues beginnen. |
+| [Hurra, wir dürfen zahlen. Der Selbstbetrug der Mittelschicht](https://www.genialokal.de/Suche/?q=9783938060452) | 2010 | Westend, ISBN 978-3-938060-45-2. Die Mittelschicht wähnt sich der Elite nah und zahlt für deren Privilegien. |
+| [Der Sieg des Kapitals. Wie der Reichtum in die Welt kam](https://www.genialokal.de/Suche/?q=9783864890444) | 2013 | Westend, ISBN 978-3-86489-044-4. Die Geschichte von Wachstum, Geld und Krisen. |
+| [Kein Kapitalismus ist auch keine Lösung](https://www.genialokal.de/Suche/?q=9783864891410) | 2016 | Westend, ISBN 978-3-86489-141-0. Die Krise der heutigen Ökonomie und was man von Smith, Marx und Keynes lernen kann. |
+| [Deutschland, ein Wirtschaftsmärchen](https://www.genialokal.de/Suche/?q=9783864892639) | 2019 | Westend, ISBN 978-3-86489-263-9. Warum es kein Wunder ist, dass wir reich geworden sind. |
+| [Das Ende des Kapitalismus](https://www.genialokal.de/Suche/?q=9783462002553) | 2022 | Kiepenheuer & Witsch, ISBN 978-3-462-00255-3. Warum Wachstum und Klimaschutz nicht vereinbar sind; die britische Kriegswirtschaft ab 1939 als Modell einer geplanten Schrumpfung. |
+| [Geld als Waffe. Wie die Wirtschaft über Krieg und Frieden entscheidet](https://www.genialokal.de/Suche/?q=9783462009613) | 2026 | Kiepenheuer & Witsch, ISBN 978-3-462-00961-3. Kriege haben oft ökonomische Gründe, nicht nur historische oder politische. |
+
+Dazu ein Nachwort zu John Maynard Keynes' *Wirtschaftliche Möglichkeiten für unsere Enkel* (Reclam 2024) und Texte in der *taz*.
+
+---
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Ulrike Herrmann — Jung & Naiv: Folge 605 (Das Ende des Kapitalismus)](https://www.youtube.com/watch?v=x7p3o3bRpWw) — Tiefgehendes Interview zu Wachstumskritik und Kriegswirtschaft (2022)
-- [Ulrike Herrmann im Salon — taz Talk meets Buchmesse Leipzig 2026](https://taz.de/taz-Talk-meets-Buchmesse-Leipzig-2026/!vn6143853/) — Diskussion zu „Geld als Waffe" auf der Leipziger Buchmesse
-- [Ulrike Herrmann — Missverstehen Sie mich richtig!](https://www.youtube.com/watch?v=8izMcnSr4Ow) — ZDF-Gesprächsformat über Kapitalismuskritik und Klimakrise (2023)
-- [taz Salon über Kriegswirtschaft: Geld als Waffe](https://taz.de/HEUTE-taz-Salon-ueber-Kriegswirtschaft/!vn6159764/) — Podiumsdiskussion mit taz-Redaktion (2026)
-- [Energiewende, Grünes Schrumpfen und Ökoenergie-Grenzen](https://www.youtube.com/watch?v=UgssGJfYBEQ) — YouTube-Vortrag zu erneuerbaren Energien und Wachstumsgrenzen
+- [Expertin warnt: USA vor Bürgerkrieg, China am Abgrund, Russland zerfällt](https://www.youtube.com/watch?v=IAIRwBmvJ_0) — DER STANDARD, 13.07.2026 (1:30 h). Grundlage unserer Denker-Note. **Startpunkt.**
+- [Ulrike Herrmann über das Ende des Kapitalismus](https://www.youtube.com/watch?v=x7p3o3bRpWw) — Jung & Naiv, Folge 605, 04.11.2022 (3:31 h)
+- [Das Ende des Kapitalismus: Ulrike Herrmann & Lukas Rühli](https://www.youtube.com/watch?v=ZmV3K4_5kNg) — Streitgespräch mit dem Ökonomen von Avenir Suisse, films for future, 05.12.2023 (1:51 h)
+- [Gregor Gysi & Ulrike Herrmann](https://www.youtube.com/watch?v=8izMcnSr4Ow) — Gysis Gesprächsreihe „Missverstehen Sie mich richtig“, 13.07.2023 (1:36 h)
+- [Ulrike Herrmann: Geld als Waffe](https://www.youtube.com/watch?v=zwHBYgTXXn4) — taz Talk auf der Leipziger Buchmesse, 22.03.2026 (35 Min.)
+
+---
 
 ## Kernthesen
 
-### 1. **Grünes Schrumpfen statt grünes Wachstum**
-Herrmanns zentrale These: Wirtschaftswachstum und Klimaschutz sind strukturell **unvereinbar**. Die Hoffnung auf „Entkopplung" (Wachstum ohne Ressourcenverbrauch) ist eine Illusion — Kapitalismus *muss* wachsen, um zu überleben. Die einzige ehrliche Antwort auf die Klimakrise ist eine **demokratisch kontrollierte Schrumpfung** durch geordnete Rationierung.
+1. **Grünes Wachstum ist eine Illusion.** Der Kapitalismus „benötigt dieses Wachstum, um stabil zu sein“, aber „‚grünes Wachstum‘ ist jedoch eine Illusion, denn der Ökostrom wird nicht reichen“ ([taz, 17.09.2022](https://taz.de/Kapitalismus-und-Klimaschutz/!5879301/)). Ökostrom bleibe knapp und teuer, „wenn man klimaneutral leben will, muss man schrumpfen“ ([▶ 1:04:48](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=3888)). Sie lässt eine Tür offen: Gäbe es eine grüne und zugleich effiziente Neuerung, „dann könnte man auch wieder wachsen bisschen“ ([▶ 1:22:23](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=4943)). Die Klimakrise ist für sie aber nicht das einzige Problem: „Wir ruinieren auch die Süßwasserreserven, wir zerstören die Ozeane, wir zerstören die Humusböden“ ([▶ 5:20](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=320)).
 
-**Historisches Modell:** Britische Kriegswirtschaft ab 1940 — eine Marktwirtschaft mit staatlicher Lenkung, bei der Firmenbesitz erhalten blieb, aber Manager/Besitzer Staatsquoten erfüllen mussten und Güter nach Bedarf (nicht Kaufkraft) verteilt wurden. *Soziale Akzeptanz durch *gleichmäßige* Rationierung*, nicht durch Zwang.
+2. **Die britische Kriegswirtschaft als Vorbild.** Ab 1939 habe Großbritannien die Zivilwirtschaft geschrumpft, um Platz für die Rüstung zu schaffen, in einer „privaten demokratischen Planwirtschaft“: „Es blieb alles privat. Es wurde nichts verstaatlicht, aber der Staat hat vorgegeben, was noch produziert wird“, und die knappen Güter wurden rationiert, „Arm und Reich bekamen das gleiche“; Churchill sei kein Diktator gewesen, das Ganze von der Gesellschaft getragen ([▶ 1:05:35](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=3935), [▶ 1:06:21](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=3981)). Staatliche Planung und Rationierung seien „in jedem Fall unsere Zukunft“, sonst erzwinge die Klimakrise sie, etwa bei Wasser und Nahrung ([▶ 1:07:07](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=4027)).
 
-### 2. **Geld als Waffe — Ökonomie erklärt Geopolitik**
-Neuere These: Autokratische Staaten (Russland, China) greifen zu Krieg, weil sie **wirtschaftlich schwach** sind. Krieg dient als Ablenkungsmanöver von innenpolitischen Krisen. Wirtschaftliche Stärke (westliche Allianzen, Dollardominanz) ist das eigentliche strategische Schachbrett — nicht ideologische oder historische „Gründe".
+3. **Autokratien in ökonomischen Sackgassen.** Russland und China steckten wirtschaftlich in Sackgassen, darum verlängerten sie Kriege oder begännen vielleicht neue ([▶ 8:23](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=503)). Putin komme aus der Kriegswirtschaft nicht mehr heraus, ein echter Frieden brächte Chaos, weil die geschrumpfte Zivilwirtschaft die Soldaten und Rüstungsarbeiter nicht aufnehmen könne ([▶ 9:57](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=597), [▶ 10:42](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=642)); das gelte für jeden Staat, der lange Krieg führt. Bei China hält sie einen Krieg als „nationale Ablenkung“ für ein „sehr hohes“ Risiko, mit dem Zusatz „was heißt bestimmt“ ([▶ 31:58](https://www.youtube.com/watch?v=IAIRwBmvJ_0&t=1918)).
 
-### 3. **Strukturelle Kapitalismusanalyse**
-- Wachstumszwang ist *konstitutiv* für Kapitalismus, nicht Politikfehler
-- Neoklassische Ökonomie ist ein dogmatisches System, das die Klassiker (Smith, Marx, Keynes) verdrängt hat
-- Unterscheidung **Markt ≠ Geld ≠ Kapital** — ihre Verwischung ist Quelle gravierender Missverständnisse
-- Mittelschicht-Selbstbetrug: Sie wähnt sich in der Elite, während sie abzugleiten droht
+4. **Den Kapitalismus von seiner Geschichte her verstehen.** Ihre Bücher tragen das im Titel: der Selbstbetrug der Mittelschicht (2010), die Geschichte von Wachstum, Geld und Krisen (2013), was man von Smith, Marx und Keynes lernen kann (2016). Das Urteil ist zweiseitig: „Der Kapitalismus war außerordentlich segensreich. Mit ihm entstand das erste Sozialsystem in der Geschichte, das Wohlstand erzeugt hat“ ([taz, 17.09.2022](https://taz.de/Kapitalismus-und-Klimaschutz/!5879301/)).
 
-### 4. **Keynes-orientierte Wirtschaftspolitik**
-Post-keynesianisch orientiert; kritisch gegenüber:
-- Exportorientierung Deutschlands (nicht nachhaltig)
-- Restriktiver Geldpolitik (Austerität)
-- Dogmatischer Marktwirtschaft ohne Lenkung
+---
 
-## Politische / ideologische Einordnung
+## Politische Einordnung
 
-**Links-kritischer Intellektueller** — nicht Marxist, aber systemkritisch. Sie verbindet:
-- **Kapitalismuskritik** (strukturell, nicht konjunkturell)
-- **Wachstumskritik** (als notwendiger Bestandteil der Klimadebatte)
-- **Demokratische Planung** (Kriegswirtschaft als Vorbild, nicht Stalinismus)
-- **Progressives Verständnis von Geld/Ökonomie** (gegen libertäre und neoliberale Dogmen)
+Wir ordnen sie links und wachstumskritisch ein, mit großer Nähe zu Keynes: Der Keynes-Gesellschaft verdankt sie einen Preis, Reclam ein Nachwort zu seinem Essay über die Enkel. Ihre Kapitalismuskritik ist keine Verdammung, sondern eine Rechnung, die nicht aufgeht, und ihre Lösung, Planung und Rationierung nach britischem Vorbild, will sie ausdrücklich demokratisch.
 
-**Kontrovers:** Marktliberale Think Tanks kritisieren ihre Kriegswirtschaftsthese als „extremer als viele Sozialisten sie fordern würden". Auch Links-progressive Kritiker (Karl-Martin Hentschel, Grüne) bemängeln ihre Fokus auf Zwang/Verzicht ohne Raum für innovative Lösungen.
-
-**Positionierung:** Unabhängig, aber grünen Positionen näher als SPD; seit 2021 Grünen-Mitgliedschaft ruhend — ein Statement zu journalistischer Unabhängigkeit.
+Gerade dort setzt die Kritik an. Der Ökonom Lukas Rühli von der marktliberalen Avenir Suisse schrieb nach einem gemeinsamen Podium, der Vorschlag lasse „jedem Liberalen die Haare zu Berge stehen“ und bedeute „in letzter Konsequenz auch Abschaffung demokratischer Grundwerte“ ([Avenir Suisse, 2023](https://www.avenir-suisse.ch/102939/)). Der frühere grüne Landtagsabgeordnete Karl-Martin Hentschel hielt ihr in der *taz* entgegen, eine Halbierung der Emissionen reiche nicht und Degrowth könne „ökonomisch nicht funktionieren“, der Umbau schaffe im Gegenteil Millionen Arbeitsplätze; ihr Kapitel über die Kriegswirtschaft nannte er zugleich „inspirierend“ ([taz, 20.02.2023](https://taz.de/Degrowth-Gegenargument/!5913881/)). Von der anderen Seite schrieb Niko Paech, eine Güterrationierung nach britischem Vorbild verschleppe das Problem, statt es zu lösen; er nennt sie nicht, verlinkt aber ihren Text ([taz, 15.11.2022](https://taz.de/Energiewende-und-Klimarettung/!5890174/)).
 
 ## Verbindungen zu anderen Denkern
 
@@ -94,24 +89,25 @@ Post-keynesianisch orientiert; kritisch gegenüber:
 
 - [[DenkerVita/Wolfgang Coy]] — Von der Informatik her teilt Coy Herrmanns Misstrauen gegen eine Ökonomie, die den Markt idealisiert: Dass die Gesamtheit der Investoren alles wisse, nennt er „eine absurde Vorstellung“. Gegen die Überraschung hilft für ihn auch der schnellste Rechner nicht.
 
-## Auszeichnungen & Anerkennung
-
-- **2015:** Preis für Wirtschaftspublizistik der Keynes-Gesellschaft (für taz-Beiträge)
-- **2019:** Otto-Brenner-Preis (Spezial) — „für ihren kritischen und pointierten Wirtschaftsjournalismus mit gutem Gespür für Sozialstaatlichkeit"
-
 ## Gedankenwelten-Notes
 
-- [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar]] — STANDARD-Gespräch 07/2026: die Unterscheidung technisch machbar ≠ ökonomisch effizient, drei Mächtige in ihren eigenen Fallen, ihr Widerspruch gegen Varoufakis
+- [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar]] — STANDARD-Gespräch 07/2026: technisch machbar ist nicht ökonomisch effizient, drei Mächtige in ihren eigenen Fallen, ihr Widerspruch gegen Varoufakis
 - [[Zeitgeist/Bundestalk — Iran USA und die Strasse von Hormus]] — sie sitzt selbst in der Runde und wendet *Geld als Waffe* auf die blockierte Meerenge an
-- [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
+- [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]] — in der Runde mit Albrecht von Lucke (Mai 2026)
+- Als Stimme in den Panoramen [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]], [[Panorama/Wer bekommt die knappen Molekuele|Wer bekommt die knappen Moleküle?]], [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]], [[Panorama/Wer zahlt fuer den Exportueberschuss|Wer zahlt für den Exportüberschuss?]], [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]], [[Panorama/Warum verschwinden die Insekten|Warum verschwinden die Insekten?]] und [[Panorama/Forschung|Forschung]]
 
 ---
 
 ## Weiterdenken
 
-> [!question] Was Aristoteles vielleicht gefragt hätte
+> [!question] Was Sokrates vielleicht gefragt hätte
 > - Wenn Wachstum *konstitutiv* für Kapitalismus ist — wie könnte eine Wirtschaftsform aussehen, die absichtlich schrumpft, ohne in autoritäre Lenkung zu verfallen?
-> - Herrmann nennt die britische Kriegswirtschaft 1940 als Modell für "demokratische Rationierung" — aber gilt das nur für *existenzielle* Krisen (Krieg, Klimanotstand), oder ist es ein Dauerzustand?
-> - Stimmt ihre Diagnose, dass Autokratien zu Krieg greifen, weil sie wirtschaftlich schwach sind — oder vereinfacht das die geopolitischen Motive (NATO-Expansion, Taiwan, ressourcenstrategische Interessen)?
-> - Wer kontrolliert die "Rationierung" in ihrer Überlebenswirtschaft? Und unterscheidet sich das qualitativ von totalitärer Planwirtschaft?
-> - Können westliche Demokratien sich ein "grünes Schrumpfen" leisten, solange China und Indien weiter wachsen?
+> - Herrmann nennt die britische Kriegswirtschaft ab 1939 als Modell für demokratische Rationierung — trägt das nur in *existenziellen* Krisen (Krieg, Klimanotstand), oder auch als Dauerzustand?
+> - Stimmt ihre Diagnose, dass Autokratien in ökonomischen Sackgassen zu Kriegen neigen — oder unterschätzt sie politische und machtstrategische Motive?
+> - Wer kontrolliert die Rationierung in ihrer Überlebenswirtschaft? Und unterscheidet sich das qualitativ von einer Planwirtschaft ohne Demokratie?
+> - Können westliche Demokratien sich ein grünes Schrumpfen leisten, solange China und Indien weiter wachsen?
+
+---
+
+> [!note] Korrekturnotiz, 18.11.2026
+> Die erste Fassung (Mai 2026) trug mehrere Fehler. Den Preis der Keynes-Gesellschaft bekam sie 2016, nicht 2015. Ihr Vorbild ist die britische Kriegswirtschaft ab 1939, nicht 1940. Das Zitat, marktliberale Think Tanks fänden ihre These „extremer als viele Sozialisten“, gibt es so nicht; die Kritik kam von Avenir Suisse und ist jetzt wörtlich zitiert. Karl-Martin Hentschels Einwand war ökonomisch, nicht einer gegen „Zwang und Verzicht“. „Missverstehen Sie mich richtig“ ist Gregor Gysis eigene Reihe, kein ZDF-Format. Ihre ruhende Grünen-Mitgliedschaft war kein „Statement zur Unabhängigkeit“, sondern ihre Antwort auf ermüdende Debatten. Die These zu den Autokratien war verkürzt, Jahreszahlen der CDU-Mitgliedschaft und der Geburtstag sind gestrichen, weil unbelegt.
