@@ -19,13 +19,14 @@ tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> Leonie Heims ist Kommunikations- und Sprachwissenschaftlerin und arbeitet als wissenschaftliche Mitarbeiterin bei **modus | zad** (Zentrum für angewandte Deradikalisierungsforschung, Berlin). Ihr Feld sind Verschwörungserzählungen, Desinformation und das souveränistische / „Reichsbürger"-Milieu — sie kennt die Szene von innen, vom Reptiloiden-Mythos bis zu Reichsflugscheiben. In Aufklärungsprojekten wie **„Der Fabulant"** übersetzt sie diese Forschung in Social Media: Sie erklärt, welche Mythen gerade trenden, was dahintersteckt und wie man ihnen mit Fakten und Humor begegnet. Bei der re:publica 26 seziert sie mit Tim Stark die rechtsextreme „Agartha"-Meme-Community.
+> Leonie Heims ist Kommunikations- und Sprachwissenschaftlerin und arbeitet als wissenschaftliche Mitarbeiterin bei **modus | zad** (Zentrum für angewandte Deradikalisierungsforschung, Berlin). Ihr Feld sind Verschwörungserzählungen, Desinformation und das souveränistische / „Reichsbürger"-Milieu — sie kennt die Szene aus ihrer Forschung, vom Reptiloiden-Mythos bis zu Reichsflugscheiben. Im Projekt **„Der Fabulant"** trägt sie diese Forschung in Workshops, Vorträge und soziale Netze: was hinter Verschwörungsmythen steckt und wie man Fakt und Fake unterscheidet. Bei der re:publica 26 seziert sie mit Tim Stark die rechtsextreme „Agartha"-Meme-Community.
 
 ## Biografie
 
+*Grundlage sind ihr [Profil bei der re:publica](https://re-publica.com/de/user/22547), der [Forschungsbericht von modus | zad](https://modus-zad.de/wp-content/uploads/2025/08/Forschungsbericht_DE.pdf) (2025), die Sessionbeschreibungen der re:publica 26 und unser Transkript des Agartha-Vortrags. Am 19.11.2026 daran geprüft; ein Studienabschluss, der hier stand, ließ sich nicht belegen und ist gestrichen.*
+
 - **Beruf:** Kommunikations- und Sprachwissenschaftlerin; wissenschaftliche Mitarbeiterin bei modus | zad
 - **Fachgebiet:** Verschwörungserzählungen, Desinformation, Souveränismus / „Reichsbürger", Anti-Authority-Extremismus
-- **Ausbildung:** M.A. Language and Communication mit Schwerpunkt Kognitive Medienlinguistik (Technische Universität Berlin)
 - **Nationalität:** Deutschland
 
 ## Öffentliche Arbeit, Kanäle & Engagement
@@ -42,9 +43,9 @@ tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 ## Kernthesen
 
 - **Der Witz ist die Tarnung.** Was als Insider-Meme daherkommt (ironische Nazis, Hyperpop-Edits, Dog Whistles über Dog Whistles), öffnet die Tür zu koordinierten rechtsextremen Netzwerken — die ironische Verpackung senkt die Einstiegsschwelle.
-- **Verschwörungserzählungen sind fantasievoll, absurd — und gerade darin gefährlich.** Ihre Anschlussfähigkeit liegt nicht in Plausibilität, sondern in Erzählkraft und Gemeinschaftsgefühl.
+- **Zusammen hält nicht der Glaube, sondern die Gruppe.** An den Agartha-Mythos scheine „so richtig“ niemand zu glauben; was die Community zusammenhält, sei „ein geteiltes Gefühl von Gruppenidentität. Also, wer diese Anspielung checkt, ist Teil dieser Agatha Community.“
 - **Souveränismus / Anti-Authority-Extremism** als eigene, transnationale Kategorie: Ablehnung staatlicher Autorität als verbindendes Muster über „Reichsbürger", Querdenken und internationale Szenen hinweg.
-- **Gegenrede braucht Humor.** Wer Mythen nur trocken widerlegt, verliert; wirksame Aufklärung arbeitet mit den Mitteln der Meme-Kultur selbst.
+- **Lieber schweigen als verharmlosen.** Ihr Rat an die Medien: „berichtet lieber gar nicht als das Phänomen zu verharmlosen“, denn halbe Berichte geben einer Meme-Community Aufmerksamkeit, ohne die menschenfeindlichen Abgründe zu benennen.
 
 ## Politische Einordnung
 
@@ -52,13 +53,20 @@ Heims arbeitet aus der demokratischen, präventionsorientierten Zivilgesellschaf
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Katharina Nocun]] — Nocun findet in der Esoterik-Szene dieselbe Tarnung, die Heims an Agartha zeigt: Esoterik und Okkultes als Vorraum der extremen Rechten. Beim Gegenmittel liegen sie auseinander. Heims setzt auf Humor und die Mittel der Meme-Kultur, Nocun erinnert daran, dass jede Reaktion, auch die empörte, den Beitrag nach oben spielt.
+- [[DenkerVita/Katharina Nocun]] — Nocun findet in der Esoterik-Szene dieselbe Tarnung, die Heims an Agartha zeigt: Esoterik und Okkultes als Vorraum der extremen Rechten. Beim Gegenmittel liegen sie nah beieinander: Heims rät den Medien, lieber gar nicht zu berichten als zu verharmlosen, Nocun erinnert daran, dass jede Reaktion, auch die empörte, den Beitrag nach oben spielt.
 - [[DenkerVita/Annika Brockschmidt]] — Brockschmidt hält das Entschlüsseln von Codes für Verteidigungswerk einer informierten Gesellschaft. Agartha zeigt den Haken daran: Dort ist das Dechiffrieren selbst die Währung, „wer diese Anspielungen checkt, ist Teil der Community“. Wer öffentlich entschlüsselt, muss also aufpassen, dass er nicht die Eintrittskarte verteilt.
 - [[DenkerVita/Matthias Quent]] — Quent sieht in der Irrationalität ein Angebot, die Erlösung von der Komplexität, und Heims sagt über Verschwörungserzählungen dasselbe von der anderen Seite: Ihre Kraft liegt im Erzählen und im Gemeinschaftsgefühl, nicht in der Plausibilität. Zu Quents Befund, dass Medien-Dauerpräsenz normalisiert, passt Heims' Rat an die Redaktionen, lieber gar nicht zu berichten als zu verharmlosen.
-- [[DenkerVita/Thomas Laschyk]] — Beide halten trockene Widerlegung für verloren. Laschyk will der Wahrheit Werbung machen, mit Zuspitzung und Satire; Heims übersetzt im „Fabulant“ die Forschung in Fakten mit Humor. Laschyks Vita nennt den Preis dieser Methode gleich mit: Wer wirbt, behauptet leicht mehr, als die Belege tragen.
+- [[DenkerVita/Thomas Laschyk]] — Beide tragen Aufklärung in die Netze. Laschyk will der Wahrheit Werbung machen, mit Zuspitzung und Satire; im „Fabulant“, an dem Heims mitarbeitet, erzählt ein Hase, der „überall dabei war“, aus dem Rabbit Hole. Laschyks Vita nennt den Preis dieser Methode gleich mit: Wer wirbt, behauptet leicht mehr, als die Belege tragen.
 - [[DenkerVita/Marcant]] — Marcant holt „Trendrechte“ zurück, indem er ihre Vorbilder peinlich aussehen lässt, und das ist Heims' Humor als Gegenrede, mit der Kamera auf der Demo. Ihr leisester Rat, mit dem Neffen darüber zu reden, welche Memes er lustig findet und warum, trifft sich mit seinem: die Tür zu einem, der abdriftet, nie ganz zumachen.
 - [[DenkerVita/Staiy]] — Staiy klagt das Schweigen der Leitmedien über rechte Gewalt an, Heims warnt vor dem falschen Reden: „Berichtet lieber gar nicht, als das Phänomen zu verharmlosen.“ Nebeneinander zeigen sie das Dilemma, dass Aufmerksamkeit verstärkt und Schweigen normalisiert.
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]]
+
+## Quellen
+
+- re:publica: [Profil Leonie Heims](https://re-publica.com/de/user/22547) — Kommunikations- und Sprachwissenschaftlerin, wissenschaftliche Mitarbeiterin bei modus | zad, Themen
+- re:publica 26: [Session „Verschwörungsmythen entlarven“](https://re-publica.com/de/session/verschwoerungsmythen-entlarven-wie-vertuscht-man-keine-verschwoerung) — „aus dem Projekt ‚Der Fabulant‘“
+- Heims, Selby, St-Amant 2025: [Souveränismus und Anti-Authority Extremism in Deutschland und Kanada](https://modus-zad.de/wp-content/uploads/2025/08/Forschungsbericht_DE.pdf), Forschungsbericht, Projekt PreP-Ex, modus | zad
+- re:publica 26: [Who the f#ck is Agartha?](https://www.youtube.com/watch?v=MkFdjOmdsL0), mit Tim Stark (Transkript `Gedankenwelten/Transkripte/Heims_Stark_Agartha_Transkript.txt`) — Kernthesen

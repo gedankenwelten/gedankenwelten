@@ -34,7 +34,7 @@ aliases:
 Quelle: [So ist es WIRKLICH an der FRONT — MARCANT PODCAST #11](https://www.youtube.com/watch?v=kNvsH_JB70Y)
 
 > [!info] Wer spricht?
-> **Ruben Mawick** (*2003, Westfalen*) — ausgebildeter Rettungssanitäter, ehemals Freiwillige Feuerwehr, sieben Monate Sanitätsdienst der Bundeswehr. Seit Juni 2023 immer wieder als humanitärer Helfer und Sanitäter in der Ukraine — bewusst nicht als Soldat — (verbunden mit Organisationen wie *Road to Relief* und *Aequitas Aid*) — er evakuiert Zivilisten, versorgt Verwundete, koordiniert Hilfsgüter. Am 9. September 2023 traf eine russische Panzerabwehrrakete sein Fahrzeug; zwei Mitfahrende starben, er trägt bis heute zahlreiche Granatsplitter im Körper.
+> **Ruben Mawick** (*2003, Westfalen*) — ausgebildeter Rettungssanitäter, ehemals Freiwillige Feuerwehr, sieben Monate freiwilliger Wehrdienst bei der Bundeswehr. Seit Juni 2023 immer wieder als humanitärer Helfer und Sanitäter in der Ukraine, nicht als Soldat (zuerst mit *Road to Relief*, heute mit einem eigenen kleinen Team) — er evakuiert Zivilisten, versorgt Verwundete, koordiniert Hilfsgüter. Am 9. September 2023 traf eine russische Panzerabwehrrakete sein Fahrzeug; zwei Mitfahrende starben, er trägt bis heute zahlreiche Granatsplitter im Körper.
 >
 > Wichtig für die Einordnung: ein **erfahrungsgesättigter, klar parteiischer Zeuge** (pro Ukraine, engagiert) — kein neutraler Militäranalyst. Was er gesehen und erlitten hat, ist sein; was er über Russland, die NATO oder Waffensysteme schlussfolgert, ist Meinung eines Beteiligten.
 >
