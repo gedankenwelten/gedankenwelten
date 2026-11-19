@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*376 Notes — automatisch generiert · nach Thema sortiert*
+*375 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus

@@ -65,6 +65,7 @@ Eine Gegenprobe, die selten gemacht wird, schlägt Tom Krebs vor: die Corona-Kri
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Was fehlt, ist nicht das Brot|Querfurt]]:** Die Clique hat Arbeit, die Arbeitslosigkeit hat sich mehr als halbiert; was fehlt, sind Jugendclub, Arzt und Anerkennung.
 
 <details><summary>Weitere Stimmen (16)</summary>
+
 - **[[Tom Krebs — Kapital und Krise#Zwei Bedingungen für den Rechtsruck|Tom Krebs]]** (Surplus): Verunsicherung allein reicht nicht, in der Corona-Krise stieg die AfD nicht; es braucht dazu das Gefühl, dass die Politik nicht angemessen reagiert. Das erkläre den Anstieg von zehn auf zwanzig Prozent, *„nicht, warum wir die AfD haben“*.
 - **[[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)#Die Definition Faschismus als verschobener Eigentumsrausch|Eva von Redecker]]** (Jung & Naiv 811): Faschismus verteidigt einen Phantombesitz, einen Anspruch auf etwas, das nie Eigentum war oder es nicht mehr ist, mit Vernichtung gegen einen fingierten Plünderer; verloren geht nicht das Geld, sondern der geglaubte Platz.
 - **[[Barbara Prainsack — Solidaritaet NEU DENKEN#Der Kuchen, der nicht wachsen darf|Barbara Prainsack]]:** Ausdrücklich als These: Wer den Kuchen für fest hält, streitet nur noch darüber, wen man ausschließen kann; statt auf den wartenden Opa einzugehen, prüft sie das Fundament des Arguments, dass das eine das andere ausschließt.
@@ -238,6 +239,7 @@ Ob man mit unbequemer Wahrheit zurückgewinnt, ist schwerer zu sagen als oft beh
 - **[[Susan Neiman — Nennen wir es boese#Was in New York anders läuft|Susan Neiman]]:** „Mehr Netto vom Brutto“ feuert niemanden an; Mamdani gewann, weil er Bezahlbarkeit als Gerechtigkeit erzählte und bei Gaza nicht nachgab, und wer einem Prinzip gegen den eigenen Vorteil treu bleibt, dem traut man auch die anderen zu.
 
 <details><summary>Weitere Stimmen (28)</summary>
+
 - **[[Zeitgeist/auslandsjournal — Ausgetrumpt#Populismus im besten Sinne?|Gina Hinojosa, nach Theveßen]]** (Midterms 2026): Die neue Gouverneurin von Texas will die Kulturkämpfe lassen und Populistin sein, „im besten Sinne“, Anwältin derer mit dem kürzeren Ende; Theveßen hält das für den Schlüssel der Demokraten, Neimans Mamdani-Lesart steht fast dagegen.
 - **[[Eva von Redecker — Dieser Drang nach Härte#3. Öffentlicher Luxus|Eva von Redecker]]** (Leipziger Buchmesse): Öffentlicher Luxus nach George Monbiot, Bahnhöfe, Bäder, ein Zug, in den auch der Rollstuhl passt; wer sich sicher und versorgt fühlt, kann auf SUV und Pool verzichten, und braucht kein Phantom.
 

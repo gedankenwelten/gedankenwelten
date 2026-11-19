@@ -130,6 +130,7 @@ Plünderungen (→ [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#La
 - **[[DenkerVita/Maria Kalesnikava#Kernthesen|Maria Kalesnikava]]:** Die friedlichen Proteste in Belarus 2020 wurden zerschlagen; die Verantwortung für die Gewalt trage, wer sie befiehlt, nicht wer auf Blumen gesetzt hat.
 
 </details>
+
 - **[[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Was die Barrikade verdeckt|Hedwig Richter]]:** Die Demokratie erzählt sich in Bildern bewaffneter Helden, gekommen ist sie öfter über Petitionen und Vereine; gewaltsame Umstürze führten eher in Diktaturen, friedliche Aufbrüche eher zu Demokratien, die bleiben.
 - **[[Denker/Philipp Blom — Die Unterwerfung#Rauchende Trümmer und die Suffragetten|Philipp Blom]]:** Höfliches Informieren hilft wenig, solange das System stabil ist; die Suffragetten wurden laut, das Wahlrecht brachte ihnen aber erst der Krieg.
 - **[[Denker/Steffen Mau — Spaltung der Gesellschaft#Triggerpunkte — Keine Spaltung, aber neuralgische Zonen|Steffen Mau]]:** Die „Klimakleber“ sind ein Triggerpunkt; an ihnen steigt der Puls, an der Verteilungsfrage kaum.
