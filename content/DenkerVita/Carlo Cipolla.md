@@ -36,6 +36,8 @@ tags: [denker-vita, wirtschaft, wirtschaftsgeschichte, geschichte, europa, demog
 
 ## Biografie
 
+*Grundlage ist der Eintrag von Giovanni Vigo im [Dizionario Biografico degli Italiani](https://www.treccani.it/enciclopedia/carlo-cipolla_%28Dizionario-Biografico%29) (Treccani, 2013), für die Jahre in Berkeley der [Nachruf der Universität](https://newsarchive.berkeley.edu/news/media/releases/2000/09/13_cipolla.html) vom 13.09.2000, für den Preis die [Balzan-Stiftung](https://www.balzan.org/en/prizewinners/carlo-m-cipolla). Lebensdaten und Stationen am 19.11.2026 erneut am Dizionario geprüft.*
+
 ### Ein Lehrling der Archive
 
 Carlo Cipolla kam am 15. August 1922 in Pavia zur Welt, als Sohn von Manlio Cipolla und Bianca Bernardi. Eigentlich wollte er Geschichte und Philosophie an einem Gymnasium unterrichten. Er schrieb sich 1940 an der politikwissenschaftlichen Fakultät seiner Heimatstadt ein, und dort schickte ihn der Mediävist Franco Borlandi in die Archive: Er solle die Bevölkerung Pavias vom Mittelalter bis ins 19. Jahrhundert verfolgen, durch alle städtischen Bestände. Mit 21 veröffentlichte Cipolla daraus ein demografisches Profil seiner Stadt. Zwischen den Akten fand er ein verblichenes Heft von 1544, ein Steuerverzeichnis mit Namen, Berufen und Vermögen, und baute daraus das Bild einer Stadtwirtschaft des 16. Jahrhunderts. Am 16. Juni 1944 schloss er mit Auszeichnung ab.
