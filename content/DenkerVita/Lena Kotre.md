@@ -67,7 +67,7 @@ Ebenfalls an diesem Abend, laut Correctiv: Das Remigrationskonzept der AfD ziele
 
 Der Auftritt in Vetschau führte zu Stellungnahmen der Landesregierung. **Innenminister René Wilke** erklärte in einer Pressemitteilung seines Hauses vom 27. Januar 2026, das *„rein taktische Lavieren der AfD-Spitze gegenüber Martin Sellner"* werde *„durch Lena Kotré zur Farce"*; ihr offenes Bündnis mit dem rechtsextremen Ideologen lege den Kern dieser Partei offen. Unter derselben Überschrift — *„AfD Brandenburg toleriert rechtsextremistischen Wahnsinn"* — verbreitete auch die Polizei Brandenburg die Mitteilung. Die AfD sprach ihrerseits von Hetze.
 
-Das Bundesverwaltungsgericht hatte zuvor festgestellt, dass Sellners Remigrationskonzept verfassungswidrig ist.
+Das Bundesverwaltungsgericht hatte zuvor im [Urteil zum *Compact*-Magazin](https://www.bverwg.de/pm/2025/48) entschieden, dass ein „Remigrationskonzept“ nach Martin Sellner verfassungsfeindlich ist.
 
 ---
 
@@ -96,7 +96,7 @@ Der Gleichmut gehört auch hierher, sonst taugt das Register nichts.
 
 ## Zur Person
 
-Geboren am 11. November 1987 als Lena Duggen. Juristin, zweites Staatsexamen 2016, als Rechtsanwältin tätig. Von 2011 bis 2014 Mitglied der islamkritischen Kleinpartei *Die Freiheit*; dort, so beschreibt es das *Aktionsbündnis Brandenburg*, lernte sie das öffentliche Reden. AfD-Mitglied seit 2015, seit dem 1. September 2019 im Brandenburger Landtag, seit 2024 für den Wahlkreis Barnim III. Stellvertretende Fraktionsvorsitzende, innen- und remigrationspolitische Sprecherin. Seit 2021 verheiratet mit **Steffen Kotré**, AfD-Abgeordneter im Bundestag und dort energiepolitischer Sprecher.
+Geboren 1987 in Berlin als Lena Duggen. Studium der Rechtswissenschaften 2008 bis 2013, zweites Staatsexamen 2016, als Rechtsanwältin tätig ([Landtag Brandenburg](https://www.landtag.brandenburg.de/de/kotr_lena/11227)). Von 2011 bis 2015 Mitglied der islamkritischen Kleinpartei *Die Freiheit*, 2012 bis 2015 in deren Berliner Landesvorstand; dort, so beschreibt es das *Aktionsbündnis Brandenburg*, lernte sie das öffentliche Reden. AfD-Mitglied seit 2015, seit September 2019 im Brandenburger Landtag, 2024 direkt gewählt im Wahlkreis Barnim III. Seit 2019 stellvertretende Fraktionsvorsitzende; sie bezeichnet sich auch als „remigrationspolitische Sprecherin“ ihrer Fraktion ([Correctiv](https://correctiv.org/aktuelles/neue-rechte/2026/01/23/sellner-kotre-brandenburg-vortrag-remigration/)). Verheiratet mit **Steffen Kotré**, AfD-Abgeordneter im Bundestag. *Am 19.11.2026 am Landtagsprofil neu geprüft.*
 
 ---
 

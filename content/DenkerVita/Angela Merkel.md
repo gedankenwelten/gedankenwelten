@@ -19,24 +19,27 @@ tags: [denker-vita, deutschland, demokratie, europa, cdu]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Angela Merkel** (*1954 in Hamburg, aufgewachsen in der DDR) — promovierte Physikerin, die nach dem Mauerfall in die Politik kam und von **2005 bis 2021** als erste Frau und erste Ostdeutsche das Kanzleramt führte. Sechzehn Jahre lang prägte sie den Kontinent durch Krisendiplomatie: Eurorettung, die Aufnahme von rund 1,1 Millionen Geflüchteten 2015, die Vermittlung zwischen Kiew und Moskau im Normandie-Format. Eine Pragmatikerin, deren ruhige, abwägende Art ihr den Beinamen „die mächtigste Frau der Welt" einbrachte — und deren Russlandpolitik im Rückblick zur umstrittensten Hinterlassenschaft wurde.
+> **Angela Merkel** (*1954 in Hamburg, aufgewachsen in der DDR) — promovierte Physikerin, die nach dem Mauerfall in die Politik kam und von **2005 bis 2021** als erste Frau und erste Ostdeutsche das Kanzleramt führte. Sechzehn Jahre lang prägte sie den Kontinent durch Krisendiplomatie: Eurorettung, die Fluchtbewegung 2015, die Vermittlung zwischen Kiew und Moskau im Normandie-Format. Eine ruhige, abwägende Pragmatikerin, deren Russlandpolitik im Rückblick zur umstrittensten Hinterlassenschaft wurde.
 
 ## Biografie
 
-Angela Dorothea Kasner wuchs als Pfarrerstochter in Templin in der Uckermark auf — eine Familie, die freiwillig von West nach Ost gezogen war, in einen Staat, dem sie innerlich Distanz hielt. Diese Spannung, das Leben unter einem System, das man nicht teilt, prägte ihren späteren Stil: das Beobachten vor dem Sprechen, das Misstrauen gegen lautes Pathos. Sie studierte Physik in Leipzig, promovierte in Quantenchemie und arbeitete bis zur Wende an der Akademie der Wissenschaften in Ost-Berlin.
+*Grundlage sind ihre [Biografie beim Bundestag](https://www.bundestag.de/webarchiv/abgeordnete/biografien19/M/merkel_angela-521968), der [Lebenslauf ihres Büros](https://www.buero-bundeskanzlerin-ad.de/lebenslauf/) und die [Biografie im LeMO](https://www.hdg.de/lemo/biografie/angela-merkel.html) des Hauses der Geschichte; für einzelne Punkte die Quellen unten. Am 19.11.2026 daran neu geprüft.*
 
-Der Mauerfall 1989 war ihr Eintritt in die Politik — mit 35 Jahren, in der Aufbruchsbewegung *Demokratischer Aufbruch*, dann in der letzten DDR-Regierung als stellvertretende Regierungssprecherin. Helmut Kohl machte die junge Ostdeutsche 1991 zur Ministerin und nannte sie sein „Mädchen" — eine Etikettierung, die sie überlebte, während er an der Parteispendenaffäre zerbrach. 2000 wurde sie CDU-Vorsitzende, 2005 Bundeskanzlerin.
+Angela Dorothea Kasner kam 1954 in Hamburg zur Welt. Kurz danach trat ihr Vater, der Theologe Horst Kasner, eine Pfarrstelle in Quitzow in Brandenburg an; 1957 zog die Familie in die Nähe von Templin. Sie wuchs in einer Familie auf, die freiwillig von West nach Ost gegangen war, in einen Staat, zu dem sie Distanz hielt. Diese Spannung, das Leben unter einem System, das man nicht teilt, prägte ihren späteren Stil: das Beobachten vor dem Sprechen, das Misstrauen gegen lautes Pathos. Sie studierte Physik in Leipzig, arbeitete von 1978 bis 1990 am Zentralinstitut für Physikalische Chemie der Akademie der Wissenschaften und promovierte 1986.
 
-Ihre Kanzlerschaft war eine Abfolge von Krisen, die sie selten suchte und meist verwaltete. Die **Finanzkrise 2008** — und ihr ruhiges „Ihr Geld ist sicher", das mehr beruhigte als jede Maßnahme. Die **Eurokrise**, in deren dramatischer Brüsseler Nachtsitzung sie den Austritt Griechenlands aus der Währungsunion verhinderte. Die **Flüchtlingskrise 2015**, als sie die Dublin-Regel aussetzte, rund 1,1 Millionen Menschen ins Land ließ und mit „Wir schaffen das" einen Satz prägte, der sie spaltete: gefeiert als humanitäre Geste, attackiert als Kontrollverlust — und mitverantwortlich für den Aufstieg der AfD. Dazu der Atomausstieg nach Fukushima, die Vermittlung im Ukraine-Konflikt über das **Minsk-Abkommen** und das **Normandie-Format**.
+Der Mauerfall 1989 war ihr Eintritt in die Politik — mit 35 Jahren, im *Demokratischen Aufbruch*, 1990 dann in der letzten DDR-Regierung als stellvertretende Regierungssprecherin und im selben Jahr in der CDU. Helmut Kohl machte sie 1991 zur Bundesministerin für Frauen und Jugend, 1994 für Umwelt. 1998 wurde sie Generalsekretärin der CDU, 2000 Parteivorsitzende (bis 2018), 2002 Fraktionsvorsitzende, 2005 Bundeskanzlerin.
 
-2021 trat sie aus eigenem Entschluss ab — eine Seltenheit in der Politik, der freiwillige Abgang von der Macht. Das Leben danach war stiller, dann lauter: 2024 erschienen ihre Memoiren **„Freiheit. Erinnerungen 1954–2021"**, geschrieben mit ihrer langjährigen Beraterin Beate Baumann, weltweit in über 30 Ländern. Seither meldet sie sich gelegentlich zu Wort — wie im Mai 2026 bei der re:publica, wo sie für mehr europäische Diplomatie im Ukraine-Krieg warb und den anderen Parteien riet, sich weniger über die Abgrenzung zur AfD zu definieren und stärker zu sagen, was sie selbst wollen.
+Ihre Kanzlerschaft war eine Abfolge von Krisen, die sie selten suchte und meist verwaltete. Die **Finanzkrise 2008** — und der Satz, den sie mit Finanzminister Steinbrück sprach: [„Wir sagen den Sparerinnen und Sparern, dass ihre Einlagen sicher sind."](https://www.spiegel.de/wirtschaft/merkel-und-steinbrueck-im-wortlaut-die-spareinlagen-sind-sicher-a-582305.html) Die **Eurokrise**, in der Griechenland nach langen Verhandlungen in der Währungsunion blieb. Die **Fluchtbewegung 2015**: Im September entschied sie mit Österreich, die in Ungarn festsitzenden Flüchtlinge einreisen zu lassen; im ganzen Jahr kamen [rund 890.000 Asylsuchende](https://www.dw.com/de/2015-kamen-890000-asylsuchende-nach-deutschland/a-35932873). Ihr „Wir schaffen das" wurde gefeiert als humanitäre Geste und attackiert als Kontrollverlust; viele sehen darin einen Grund für den Aufstieg der AfD. Dazu der Atomausstieg nach Fukushima, die Vermittlung im Ukraine-Konflikt über das **Minsk-Abkommen** und das **Normandie-Format**.
+
+2021 trat sie aus eigenem Entschluss ab — eine Seltenheit in der Politik, der freiwillige Abgang von der Macht. Das Leben danach war stiller, dann lauter: 2024 erschienen ihre Memoiren **„Freiheit. Erinnerungen 1954–2021"**, geschrieben mit ihrer langjährigen Beraterin Beate Baumann ([Kiepenheuer & Witsch](https://www.kiwi-verlag.de/buch/angela-merkel-beate-baumann-freiheit-9783462005134), 736 Seiten). Seither meldet sie sich gelegentlich zu Wort — wie im Mai 2026 bei der re:publica, wo sie für mehr europäische Diplomatie im Ukraine-Krieg warb und den anderen Parteien riet, sich weniger über die Abgrenzung zur AfD zu definieren und stärker zu sagen, was sie selbst wollen.
 
 ## Bücher & Publikationen
 
 | Titel | Jahr | Beschreibung |
 |---|---|---|
-| [Freiheit. Erinnerungen 1954–2021](https://www.genialokal.de/Suche/?q=Freiheit+Erinnerungen+Merkel+Baumann) | 2024 | Die mit Beate Baumann verfassten Memoiren (736 Seiten, Kiepenheuer & Witsch) — von der Kindheit in der DDR bis zum Ende der Kanzlerschaft. Weltweiter Bestseller, in über 30 Ländern erschienen. |
-| [Daran glaube ich. Christliche Standpunkte](https://www.genialokal.de/Suche/?q=Daran+glaube+ich+Merkel) | 2021 | Sammlung ihrer Reden und Texte zu Glaube, Verantwortung und christlichem Menschenbild — die religiöse Wurzel ihrer Politik. |
+| [Freiheit. Erinnerungen 1954–2021](https://www.genialokal.de/Suche/?q=Freiheit+Erinnerungen+Merkel+Baumann) | 2024 | Die mit Beate Baumann verfassten Memoiren (736 Seiten, Kiepenheuer & Witsch) — von der Kindheit in der DDR bis zum Ende der Kanzlerschaft. |
+| [Was also ist mein Land?](https://www.genialokal.de/Suche/?q=Was+also+ist+mein+Land+Merkel) | 2021 | Drei Reden (Aufbau Verlag). |
+| [Daran glaube ich. Christliche Standpunkte](https://www.genialokal.de/Suche/?q=Daran+glaube+ich+Merkel) | 2014 | Texte zu Glaube, Verantwortung und christlichem Menschenbild (St. Benno). |
 
 ## Empfehlenswerte Videos & Vorträge
 
@@ -52,15 +55,15 @@ Ihre Kanzlerschaft war eine Abfolge von Krisen, die sie selten suchte und meist 
 
 3. **Diplomatie vor Konfrontation.** Auch gegenüber schwierigen Gegenspielern wie Putin galt: im Gespräch bleiben, Zeit gewinnen, Eskalation vermeiden. Eine Haltung, die als kluge Mäßigung gefeiert und als gefährliche Beschwichtigung kritisiert wurde.
 
-4. **Vertrauen als politische Ressource.** Ihre größte Macht war nicht Rhetorik, sondern Glaubwürdigkeit — das ruhige Wort, dem die Menschen mehr glaubten als der nüchternen Faktenlage (Finanzkrise 2008).
+4. **Vertrauen als politische Ressource.** Ihre größte Macht war nicht Rhetorik, sondern Glaubwürdigkeit — das ruhige Wort, etwa die Zusage an die Sparer in der Finanzkrise 2008.
 
 5. **Die offene Gesellschaft ist verteidigungswürdig — auch gegen sich selbst.** „Wir schaffen das" war weniger Prognose als Bekenntnis: dass ein reiches Land humanitäre Verantwortung tragen kann, ohne daran zu zerbrechen. Ob es das konnte, bleibt umstritten.
 
 ## Politische Einordnung
 
-Merkel ist die Verkörperung der **christdemokratisch-pragmatischen Mitte** — eine Politikerin ohne erkennbares ideologisches Fundament jenseits der Stabilität selbst. Sie zog die CDU programmatisch nach links (Atomausstieg, Mindestlohn, Aussetzung der Wehrpflicht, Ehe für alle ließ sie zu), entkernte damit den eigenen konservativen Flügel und schuf jenen Raum rechts von der Union, in den die AfD stieß — ihre „Merkel-Mitte" war so ihre größte Stärke und der Keim ihrer umstrittensten Folge zugleich.
+Merkel ist die Verkörperung der **christdemokratisch-pragmatischen Mitte** — eine Politikerin ohne erkennbares ideologisches Fundament jenseits der Stabilität selbst. Sie zog die CDU programmatisch zur Mitte (Atomausstieg, Mindestlohn, Aussetzung der Wehrpflicht, Ehe für alle ließ sie zu). Kritiker sagen, sie habe damit den konservativen Flügel entkernt und den Raum rechts der Union geöffnet, in den die AfD stieß; ihre Anhänger sehen in dieser Mitte den Grund für sechzehn stabile Jahre. Beides gehört zur „Merkel-Mitte".
 
-Im Geiste des Yin-Yang: **Verdienste** und **Schatten** lassen sich nicht trennen. Sie hielt Europa in der Eurokrise zusammen und gab Deutschland 16 Jahre außergewöhnlicher Stabilität; sie war eine verlässliche, abwägende Stimme in einer Welt, die zunehmend laut und impulsiv wurde. **Aber:** Ihre **Russlandpolitik** gilt heute als ihr größter Fehler — das Festhalten an Nord Stream 2, die ökonomische Verflechtung mit einem Regime, das sich als Aggressor erwies, das Vertrauen darauf, dass Handel den Frieden sichere. Sie selbst hält ihre Russlandpolitik bis heute für richtig — eine Haltung, die viele als mangelnde Einsicht lesen. Ihre **Migrationspolitik 2015** wird je nach Standpunkt als humanitäre Großtat oder als Kontrollverlust erinnert. Ihre **Klima- und Energiepolitik** — der überstürzte Atomausstieg bei gleichzeitiger Gasabhängigkeit — verband zwei Entscheidungen, die sich im Rückblick gegenseitig verschärften.
+Im Geiste des Yin-Yang: **Verdienste** und **Schatten** lassen sich nicht trennen. Sie hielt Europa in der Eurokrise zusammen und gab Deutschland 16 Jahre außergewöhnlicher Stabilität; sie war eine verlässliche, abwägende Stimme in einer Welt, die zunehmend laut und impulsiv wurde. **Aber:** Ihre **Russlandpolitik** gilt heute als ihr größter Fehler — das Festhalten an Nord Stream 2, die ökonomische Verflechtung mit einem Regime, das sich als Aggressor erwies, das Vertrauen darauf, dass Handel den Frieden sichere. Sie selbst verteidigt den diplomatischen Weg: Diplomatie sei „immer die zweite Seite der Medaille" gewesen, auch im Kalten Krieg, „militärische Abschreckung plus diplomatische Aktivitäten" (re:publica 2026). Kritiker lesen darin mangelnde Einsicht. Ihre **Migrationspolitik 2015** wird je nach Standpunkt als humanitäre Großtat oder als Kontrollverlust erinnert. Ihre **Klima- und Energiepolitik** — der überstürzte Atomausstieg bei gleichzeitiger Gasabhängigkeit — verband zwei Entscheidungen, die sich im Rückblick gegenseitig verschärften.
 
 Was bleibt, ist das Bild einer Frau, die Macht nüchtern ausübte und sie freiwillig abgab — und deren Vermächtnis erst aus der Distanz seine ganze Ambivalenz zeigt.
 
@@ -78,3 +81,13 @@ Was bleibt, ist das Bild einer Frau, die Macht nüchtern ausübte und sie freiwi
 ## Gedankenwelten-Notes
 
 - [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+## Quellen
+
+- Deutscher Bundestag: [Abgeordnetenbiografie, 19. Wahlperiode](https://www.bundestag.de/webarchiv/abgeordnete/biografien19/M/merkel_angela-521968) — Geburt, Abitur, Studium, Akademie, Promotion, Regierungssprecherin, DA, CDU
+- Büro Bundeskanzlerin a. D.: [Lebenslauf](https://www.buero-bundeskanzlerin-ad.de/lebenslauf/) — Ämter, Veröffentlichungen
+- Haus der Geschichte, LeMO: [Angela Merkel](https://www.hdg.de/lemo/biografie/angela-merkel.html) — Familie, Quitzow, Templin, September 2015
+- Spiegel: [Merkel und Steinbrück im Wortlaut](https://www.spiegel.de/wirtschaft/merkel-und-steinbrueck-im-wortlaut-die-spareinlagen-sind-sicher-a-582305.html), Oktober 2008
+- Deutsche Welle: [890.000 Flüchtlinge im Jahr 2015](https://www.dw.com/de/2015-kamen-890000-asylsuchende-nach-deutschland/a-35932873), September 2016
+- Kiepenheuer & Witsch: [Freiheit. Erinnerungen 1954–2021](https://www.kiwi-verlag.de/buch/angela-merkel-beate-baumann-freiheit-9783462005134); St. Benno: *Daran glaube ich* (2014)
+- WDR Europaforum / re:publica 26: [Trotz allem: Hoffnung Europa?](https://www.youtube.com/watch?v=RLfAqLny-_8) (Transkript `Gedankenwelten/Transkripte/Merkel_Europa_Transkript.txt`)
