@@ -1,6 +1,6 @@
 ---
 title: Nicole Büttner — DenkerVita
-description: "Als Techoptimistin will Nicole Büttner, KI-Unternehmerin und bis 2026 FDP-Generalsekretärin, Europas KI-Souveränität über Wettbewerb gewinnen statt über Verbote."
+description: "Souveränität heißt für Nicole Büttner, KI-Unternehmerin und bis 2026 FDP-Generalsekretärin, Wahlfreiheit: vom Verhandlungstisch aufstehen können, weil es eine Alternative gibt."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, ki, technologie, unternehmertum, deutschland, fdp]
@@ -19,33 +19,29 @@ tags: [denker-vita, ki, technologie, unternehmertum, deutschland, fdp]
 </details>
 
 > [!info] Wer spricht?
-> **Nicole Büttner-Thiel** (geb. 1985, Ludwigshafen am Rhein) — Tech-Unternehmerin, KI-Wirtschaftsexpertin, Generalsekretärin der FDP (bis Mai 2026). Gründerin und Geschäftsführerin von Merantix Momentum (KI-Beratung für Unternehmen). Selbstbezeichnung: "Techoptimistin". Investorin in frühphasige KI-Gründer, Co-Gründerin AI Campus Berlin. Ausgezeichnet als "Digital Leader of Europe" durch das Weltwirtschaftsforum.
+> **Nicole Büttner-Thiel** (Jahrgang 1985, aus der Nähe von Karlsruhe) — Unternehmerin, Technologieökonomin, Generalsekretärin der FDP von Mai 2025 bis Mai 2026, heute Beisitzerin im Bundesvorstand. Gründerin und Geschäftsführerin von Merantix Momentum, einem KI-Unternehmen, das anderen Unternehmen hilft, KI einzusetzen. Im Umfeld von Merantix investiert sie nach eigenen Worten in frühphasige Gründer; dazu gehört der AI Campus in Berlin.
 
 ## Biografie
 
-Nicole Büttner wuchs in Langensteinbach (Karlsruhe-Umland) auf, machte Abitur an der Europäischen Schule Karlsruhe als Jahrgangsbeste. Tochter einer jamaikanischen Hebamme und eines deutschen Arztes — Mehrsprachigkeit und interkulturelle Perspektive seit Kindheit verankert. Sie besitzt deutsche, jamaikanische und Schweizer Staatsangehörigkeit, ist heimatberechtigt in Cham (Kanton Zug) und lebt dort mit ihrem Mann und zwei Kindern.
+*Grundlage sind ihr [Profil bei der FDP](https://www.fdp.de/person/nicole-buettner), [Berichte des SWR](https://www.swr.de/swraktuell/baden-wuerttemberg/nicole-buettner-aus-karlsruhe-neue-fdp-generalsekretaerin-100.html), die [FDP-Liste zur Europawahl 2019](https://www.fdp.de/seite/unsere-kandidaten-fuer-europa-2019), [Blick](https://www.blick.ch/politik/hoehle-der-loewen-star-diese-schweizerin-soll-jetzt-die-deutsche-fdp-retten-id20846287.html) und die [Süddeutsche](https://www.sueddeutsche.de/panorama/nicole-buettner-glatze-fdp-wettschulden-li.3453243) sowie unser Transkript des re:publica-Gesprächs. Am 19.11.2026 daran neu geprüft; Angaben, die nur Wikipedia trug, sind gestrichen.*
 
-Studium der Wirtschaftswissenschaften und Ökonometrie an der Universität St. Gallen, mit Auslandsemestern in Paris, Stockholm und an der Stanford University — ein klassischer liberal-kosmopolitischer Weg. Frühe Karriere in Tech (Palo Alto) und Finanzsektor als Hedgefonds-Analystin, bevor sie 2010er Unternehmerin in der KI-Branche wurde.
+Nicole Büttner stammt aus Langensteinbach bei Karlsruhe; ihre Mutter kommt aus Jamaika, sie selbst nennt sich „Halbjamaikanerin“. Sie studierte Volkswirtschaftslehre in St. Gallen, Paris, Stockholm und Stanford, mit einem Abschluss auch in Ökonometrie, und arbeitete danach in der Finanzbranche und für eine Technologiefirma in Palo Alto. Dann gründete sie Merantix Momentum, ein KI-Unternehmen mit Sitz in Berlin.
 
-**Meilensteine:**
-- 2005: Eintritt in die FDP (seit 20 Jahren Mitglied)
-- 2017–2023: Landesvorstand FDP Baden-Württemberg, Leitung Landesfachausschuss Wirtschaft BW
-- 2016: Direktkandidatin Landtagswahl BW (Wahlkreis Ettlingen, verfehlte Einzug)
-- 2019: Kandidatin Europawahl auf Listenplatz 10 (verfehlte Einzug in Europäisches Parlament)
-- 2023–heute: Jurorin und Investorin "Die Höhle der Löwen Schweiz" (5. Staffel an)
-- **Mai 2025–Mai 2026:** Generalsekretärin der FDP (mit 80% Stimmenanteil gewählt)
-- **ab Mai 2026:** Beisitzerin FDP-Bundesvorstand
-- **2x Capital Top 40 unter 40**, WEF Digital Leader of Europe
+**Stationen:**
+- seit vielen Jahren in der FDP, u. a. im Landesvorstand Baden-Württemberg
+- 2019: Kandidatin zur Europawahl auf Listenplatz 10
+- Jurorin und Investorin bei „Die Höhle der Löwen Schweiz“
+- **Mai 2025–Mai 2026:** Generalsekretärin der FDP, gewählt mit 80 Prozent der Delegiertenstimmen
+- **seit Mai 2026:** Beisitzerin im FDP-Bundesvorstand
 
-**Persönliche Note:** März 2026 — Wettverlust bei Baden-Württemberg-Landtagswahl: Hatte öffentlich gewettet, die FDP schaffe 5%-Hürde, ansonsten rasiere sie sich eine Glatze. Nach FDP-Ausfall löste sie die Wette ein, was zu erheblichem Medienecho führte. Zeigt Authentizität, Selbstironie und Durchhaltevermögen.
+**Eine Wette:** Vor der Landtagswahl in Baden-Württemberg im März 2026 hatte sie öffentlich gewettet, sich eine Glatze zu rasieren, wenn die FDP den Einzug in den Landtag verpasst. Die FDP verpasste ihn, und sie löste die Wette ein.
 
-## Bücher & Publikationen
+## Öffentliche Arbeit, Kanäle & Engagement
 
-| Titel | Jahr | Beschreibung |
-|---|---|---|
-| [Merantix Momentum — KI-Beratung für Unternehmenstransformation](https://www.genialokal.de/suche/?q=Merantix+KI+Transformation) | 2019– | Unternehmenspublikationen zu Enterprise AI, LLM-Integration, Governance |
+- [Merantix Momentum](https://www.merantix-momentum.com/) — ihr Unternehmen: KI-Beratung und -Entwicklung für Unternehmen
+- [Profil bei der FDP](https://www.fdp.de/person/nicole-buettner)
 
-Büttner publiziert primär als Unternehmerin und Politikerin über Vorträge, Interviews und Medienbeiträge zu europäischer KI-Souveränität, liberal-marktwirtschaftlicher Technologiepolitik und Unternehmertum.
+Bücher hat sie bisher nicht geschrieben; sie spricht in Interviews, Vorträgen und auf Podien über europäische KI-Souveränität und Unternehmertum.
 
 ## Empfehlenswerte Videos & Vorträge
 
@@ -55,28 +51,22 @@ Büttner publiziert primär als Unternehmerin und Politikerin über Vorträge, I
 
 ## Kernthesen
 
-1. **Techoptimismus mit Verantwortung** — Technologie ist nicht das Problem, sondern die Lösung. Europa darf nicht in Ludditen-Reflexe verfallen, sondern muss konkurrenzfähig bleiben. Aber: Wirtschaft braucht Richtlinien und Ethik-Kodizes.
+1. **Souveränität ist Wahlfreiheit.** Wer souverän ist, nimmt „nicht einfach eine Preiserhöhung von einem Technologiekonzern entgegen“, sondern kann „von einem Verhandlungstisch aufstehen“, weil es eine echte Alternative gibt. Isolation meint sie damit nicht: Die großen Dinge entstünden in der Zusammenarbeit.
 
-2. **Europäische KI-Souveränität durch Wettbewerb** — Nicht Isolation ("Festung Europa"), sondern echte Wettbewerbsfähigkeit. Das Problem ist nicht, dass USA/China führen, sondern dass Europa nicht konkurriert. Heilmittel: Gründerkultur fördern, Venture Capital, Skalierbarkeit.
+2. **Wettbewerb statt Schutzzaun.** Was Europa erreichen soll, ist ein „Level Playing Field“: niedrige Markteintrittsbarrieren, Wettbewerb, alternative Angebote. Die Regulierung erziele das „nicht mehr ganz“, „das haben wir nicht gut geschafft“. Der Rückstand sei aber „kein unverrückbarer Zustand“.
 
-3. **KI-Sicherheit braucht Vertrauen, nicht Verbot** — Zu restriktive Regulierung (wie AI Act teilweise) bremst Innovation, schützt aber nicht vor Missbrauch. Vertrauen durch Transparenz und Accountability ist der liberale Weg.
+3. **Ein Ökosystem braucht Kapital, Kunden und Vernetzung.** Damit europäische Unternehmen selbst größer werden, brauche es Geld für frühe Gründer, Unternehmen als Kunden und Orte, an denen Forscher, Studenten und Kapital einander treffen.
 
-4. **Unternehmertum als Schlüssel** — Große Techkonzerne (US/China) entstehen, weil diese Länder Unternehmertum fördern. Europa muss Gründer unterstützen, nicht bürokratisieren. KI Campus Berlin, Investitionen in Early-Stage startups = echte Antwort.
-
-5. **FDP-Agenda: Freiheit zur Gestaltung** — Liberal-marktwirtschaftlich: Staatsquote senken, Bürokratie abbauen, Unternehmensfreiheit erweitern. Aber nicht Laissez-faire — regulatorischer Rahmen für Rechtsstaatlichkeit und Datenschutz.
+4. **Techmilliardäre gehören zur Souveränität.** Den Satz, wer keine Techmilliardäre im Land wolle, habe „das Thema Souveränität nicht ganz verstanden“, teilte sie „ganz bewusst“ als Provokation. „Ich habe nichts dagegen, wenn ganz viele Leute reich sind. Ich habe eigentlich eher was dagegen, wenn ganz viele Leute arm sind.“
 
 ## Politische Einordnung
 
-**Liberal-marktwirtschaftlich (FDP-Tradition)** — Büttner verkörpert die junge, kosmopolitische, unternehmertum-zentrierte Fraktion der FDP. Sie ist keine Wirtschafts-Lobbyistin (wie zuweilen die Alt-FDP), sondern eine **Tech-Visionaries**, die Europas Wettbewerbsfähigkeit aus echter Überzeugung vorantreiben will.
-
-- **Pro:** Globalisierung, Unternehmertum, Technologieoptimismus, europäische Integra­tion (als Wettbewerbs-Katalysator)
-- **Skeptisch:** Staatliche Verbotspolitik, Regulierungswut, Anti-Tech-Reflexe, Degrowth
-- **Selbstbild:** "Optimistin für die Zukunft Europas" — nicht gegen "die Märkte", sondern gegen Stagnation
+**Liberal-marktwirtschaftlich (FDP).** Büttner sucht Europas Souveränität am Markt: über Gründer, Kapital und Wettbewerb, mit Unternehmen, die aus Europa heraus groß werden. Eingriffe in die Marktstruktur, wie Frederike Kaltheuner sie fordert, sind nicht ihr Weg; der Gegensatz zieht sich durch die Verbindungen unten.
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Pascal Kaufmann]] — Ihr Gegenüber auf der re:publica 26, mit demselben Ziel aus einer anderen Werkstatt: Sie denkt Souveränität wirtschaftspolitisch, über Gründer, Kapital und Wettbewerb, er produktstrategisch, über Vertrauen als das, was ein Modell vom anderen unterscheidet. Beide halten den AI Act für verfehlt; ihre Präzisierung mitten im Gespräch, Souveränität heiße Wahlfreiheit und nicht Isolation, gilt für beide.
-- [[DenkerVita/Frederike Kaltheuner]] — Die Gegenstimme von derselben re:publica. Büttner teilte den Satz, wer keine Techmilliardäre im Land wolle, habe Souveränität nicht verstanden; Kaltheuners dritter „fataler Fehler“ Europas ist genau die Annahme, die Interessen europäischer Firmen seien automatisch die strategischen Interessen Europas. Für Kaltheuner entsteht Souveränität nicht durch Investitionen allein, sondern durch politische Eingriffe in die Marktstruktur, und dort trennen sich die Wege.
+- [[DenkerVita/Pascal Kaufmann]] — Ihr Gegenüber auf der re:publica 26, mit demselben Ziel aus einer anderen Werkstatt: Sie denkt Souveränität wirtschaftspolitisch, über Gründer, Kapital und Wettbewerb, er produktstrategisch, über Vertrauen als das, was ein Modell vom anderen unterscheidet. Beide sehen die europäische Regulierung kritisch. Beim Maßstab trennen sie sich: Büttner nennt Souveränität Wahlfreiheit und warnt vor einer „isolationistischen Haltung“, Kaufmann würde sie daran messen, ob in drei Jahren viel mehr europäische Produkte im Einsatz sind.
+- [[DenkerVita/Frederike Kaltheuner]] — Die Gegenstimme von derselben re:publica. Büttner teilte den Satz, wer keine Techmilliardäre im Land wolle, habe Souveränität „nicht ganz verstanden“; Kaltheuners dritter „fataler Fehler“ Europas ist genau die Annahme, die Interessen europäischer Firmen seien automatisch die strategischen Interessen Europas. Für Kaltheuner entsteht Souveränität nicht durch Investitionen allein, sondern durch politische Eingriffe in die Marktstruktur, und dort trennen sich die Wege.
 - [[DenkerVita/Francesca Bria]] — Dasselbe Ziel, zwei politische Grammatiken: Bria verankert europäische Souveränität in gemeinwohlorientierter Basisinfrastruktur, Büttner im europäischen Champion am Markt. Brias Karte der privatisierten Souveränität, auf der Thiel und Musk staatliche Kernfunktionen übernehmen, stellt Büttners Ruf nach Techmilliardären die Frage, was sich ändert, wenn die Protagonisten Europäer sind.
 - [[DenkerVita/Sebastian Giessmann]] — Der Infrastruktur-Historiker erinnert daran, dass Europa schon einmal eigene digitale Zahlungswege hatte, von der Privatwirtschaft gebaut: Euroscheck, EC-Karte, Eurocard, bis Europay 2002 mit Mastercard fusionierte und die Eurocard 2003 verschwand. Für Büttners Weg über Wettbewerb und Gründer heißt das: Souveränität muss nicht nur aufgebaut, sondern politisch gehalten werden, sonst kauft sie am Ende der Größere.
 - [[DenkerVita/Konstantin Kuhle]] — Ein Parteifreund vom sozialliberalen Flügel der FDP, der dieselbe Abhängigkeit am härtesten Fall durchspielt, der Rüstungs-KI, und die Diagnose teilt: kein europäisches Unternehmen ohne massives US-Backbone. Sein Hebel ist aber nicht der Gründer, sondern der Staat als Käufer, digitale Souveränität als Kriterium im Vergaberecht, eine liberale Antwort über die Nachfrage statt über das Kapital.
@@ -85,3 +75,12 @@ Büttner publiziert primär als Unternehmerin und Politikerin über Vorträge, I
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+
+## Quellen
+
+- FDP: [Nicole Büttner](https://www.fdp.de/person/nicole-buettner) — Merantix Momentum, Studium, Finanzbranche, Palo Alto, Landesvorstand, Beisitzerin
+- SWR: [Nicole Büttner ist neue FDP-Generalsekretärin](https://www.swr.de/swraktuell/baden-wuerttemberg/nicole-buettner-aus-karlsruhe-neue-fdp-generalsekretaerin-100.html), Mai 2025 — Langensteinbach, Mutter aus Jamaika, Ökonometrie, 80 Prozent
+- FDP: [Unsere Kandidaten für Europa 2019](https://www.fdp.de/seite/unsere-kandidaten-fuer-europa-2019) — Jahrgang 1985, Listenplatz 10
+- Blick: [Diese Schweizerin soll jetzt die deutsche FDP retten](https://www.blick.ch/politik/hoehle-der-loewen-star-diese-schweizerin-soll-jetzt-die-deutsche-fdp-retten-id20846287.html), 07.05.2025 — Höhle der Löwen Schweiz, Merantix Momentum mit Sitz in Berlin
+- Süddeutsche Zeitung: [Wahlwette verloren](https://www.sueddeutsche.de/panorama/nicole-buettner-glatze-fdp-wettschulden-li.3453243), 16.03.2026 — die Glatze
+- re:publica 26: [Europas KI-Zukunft](https://youtu.be/Vp9rtv5cWgw), mit Pascal Kaufmann (Transkript `Gedankenwelten/Transkripte/Buettner_Kaufmann_KI_Zukunft_Europa_Transkript.txt`) — Kernthesen
