@@ -1,6 +1,6 @@
 ---
 title: Leonie Heims — DenkerVita
-description: "Leonie Heims kennt das Reichsbürger-Milieu vom Reptiloiden bis zur Reichsflugscheibe und begegnet Verschwörungsmythen mit Fakten und Humor, in der Forschung wie in Memes."
+description: "Leonie Heims erforscht das Reichsbürger-Milieu vom Reptiloiden bis zur Reichsflugscheibe und zeigt, wie sich rechtsextreme Botschaften als Witz tarnen."
 tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 ---
 
@@ -32,17 +32,17 @@ tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 ## Öffentliche Arbeit, Kanäle & Engagement
 
 - [modus | zad — Zentrum für angewandte Deradikalisierungsforschung](https://modus-zad.de/) — ihr wissenschaftliches Zuhause; Brücke zwischen Forschung und Beratungspraxis der Extremismusprävention
-- [Der Fabulant](https://www.derfabulant.de/) — Aufklärungsprojekt gegen Verschwörungsmythen in den sozialen Netzwerken (Fakten + Humor)
+- [Der Fabulant](https://www.derfabulant.de/) — Aufklärungsprojekt gegen Verschwörungsmythen: Workshops, Vorträge, Newsletter und ein Hase, der „überall dabei war“
 - Mitautorin des [Forschungsberichts „Souveränismus und Anti-Authority Extremism"](https://modus-zad.de/wp-content/uploads/2025/08/Forschungsbericht_DE.pdf) (modus | zad, 2025; Deutschland/Kanada)
 - Workshop-Reihe „Verschwörungsmythen entlarven – Wie vertuscht man (k)eine Verschwörung?" — u.a. bei [TINCON](https://wiki.tincon.org/speaker/leonie-heims) und [re:publica 26](https://re-publica.com/de/session/verschwoerungsmythen-entlarven-wie-vertuscht-man-keine-verschwoerung)
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Who the f#ck is Agartha?](https://www.youtube.com/watch?v=MkFdjOmdsL0) — re:publica 26 (19.05.2026, mit Tim Stark). Deep Dive in die rechtsextreme „Agartha"-Meme-Sphäre: Reichsflugscheiben, Hohle-Erde-Okkultismus, Krypto-Scams und die Frage, wie ernst eine Meme-Community ihren eigenen „Witz" meint.
+- [Who the f#ck is Agartha?](https://www.youtube.com/watch?v=MkFdjOmdsL0) — re:publica 26 (19.05.2026, mit Tim Stark). Deep Dive in die rechtsextreme „Agartha"-Meme-Sphäre: Reichsflugscheiben, Hohle-Erde-Okkultismus, einen Kryptocoin und die Frage, wie ernst eine Meme-Community ihren eigenen „Witz" meint.
 
 ## Kernthesen
 
-- **Der Witz ist die Tarnung.** Was als Insider-Meme daherkommt (ironische Nazis, Hyperpop-Edits, Dog Whistles über Dog Whistles), öffnet die Tür zu koordinierten rechtsextremen Netzwerken — die ironische Verpackung senkt die Einstiegsschwelle.
+- **Der Witz ist die Tarnung.** Was als Insider-Meme daherkommt (ironische Nazis, Hyperpop-Edits, Dog Whistles über Dog Whistles), transportiert eine ideologische Botschaft, und die Tarnung als Witz macht sie unangreifbar: „es wird alles sagbar gemacht, man ist gar nicht mehr angreifbar“. Agartha selbst sei dabei, so der gemeinsame Vortrag, „eher so eine Art Verkehrsknotenpunkt“, der Szenen verbindet, die nur anschlussfähig sein müssen, nicht gleich.
 - **Zusammen hält nicht der Glaube, sondern die Gruppe.** An den Agartha-Mythos scheine „so richtig“ niemand zu glauben; was die Community zusammenhält, sei „ein geteiltes Gefühl von Gruppenidentität. Also, wer diese Anspielung checkt, ist Teil dieser Agatha Community.“
 - **Souveränismus / Anti-Authority-Extremism** als eigene, transnationale Kategorie: Ablehnung staatlicher Autorität als verbindendes Muster über „Reichsbürger", Querdenken und internationale Szenen hinweg.
 - **Lieber schweigen als verharmlosen.** Ihr Rat an die Medien: „berichtet lieber gar nicht als das Phänomen zu verharmlosen“, denn halbe Berichte geben einer Meme-Community Aufmerksamkeit, ohne die menschenfeindlichen Abgründe zu benennen.
@@ -55,9 +55,9 @@ Heims arbeitet aus der demokratischen, präventionsorientierten Zivilgesellschaf
 
 - [[DenkerVita/Katharina Nocun]] — Nocun findet in der Esoterik-Szene dieselbe Tarnung, die Heims an Agartha zeigt: Esoterik und Okkultes als Vorraum der extremen Rechten. Beim Gegenmittel liegen sie nah beieinander: Heims rät den Medien, lieber gar nicht zu berichten als zu verharmlosen, Nocun erinnert daran, dass jede Reaktion, auch die empörte, den Beitrag nach oben spielt.
 - [[DenkerVita/Annika Brockschmidt]] — Brockschmidt hält das Entschlüsseln von Codes für Verteidigungswerk einer informierten Gesellschaft. Agartha zeigt den Haken daran: Dort ist das Dechiffrieren selbst die Währung, „wer diese Anspielungen checkt, ist Teil der Community“. Wer öffentlich entschlüsselt, muss also aufpassen, dass er nicht die Eintrittskarte verteilt.
-- [[DenkerVita/Matthias Quent]] — Quent sieht in der Irrationalität ein Angebot, die Erlösung von der Komplexität, und Heims sagt über Verschwörungserzählungen dasselbe von der anderen Seite: Ihre Kraft liegt im Erzählen und im Gemeinschaftsgefühl, nicht in der Plausibilität. Zu Quents Befund, dass Medien-Dauerpräsenz normalisiert, passt Heims' Rat an die Redaktionen, lieber gar nicht zu berichten als zu verharmlosen.
+- [[DenkerVita/Matthias Quent]] — Quent sieht in der Irrationalität ein Angebot, die Erlösung von der Komplexität, und Heims sieht in der Agartha-Community Ähnliches von der anderen Seite: Zusammen halte sie nicht der Glaube an den Mythos, sondern ein geteiltes Gefühl von Gruppenidentität. Zu Quents Befund, dass Medien-Dauerpräsenz normalisiert, passt Heims' Rat an die Redaktionen, lieber gar nicht zu berichten als zu verharmlosen.
 - [[DenkerVita/Thomas Laschyk]] — Beide tragen Aufklärung in die Netze. Laschyk will der Wahrheit Werbung machen, mit Zuspitzung und Satire; im „Fabulant“, an dem Heims mitarbeitet, erzählt ein Hase, der „überall dabei war“, aus dem Rabbit Hole. Laschyks Vita nennt den Preis dieser Methode gleich mit: Wer wirbt, behauptet leicht mehr, als die Belege tragen.
-- [[DenkerVita/Marcant]] — Marcant holt „Trendrechte“ zurück, indem er ihre Vorbilder peinlich aussehen lässt, und das ist Heims' Humor als Gegenrede, mit der Kamera auf der Demo. Ihr leisester Rat, mit dem Neffen darüber zu reden, welche Memes er lustig findet und warum, trifft sich mit seinem: die Tür zu einem, der abdriftet, nie ganz zumachen.
+- [[DenkerVita/Marcant]] — Marcant holt „Trendrechte“ zurück, indem er ihre Vorbilder peinlich aussehen lässt, und das ist die Kehrseite von Heims' Befund, dass sich solche Szenen als Witz tarnen: Er nimmt ihnen den Witz weg, mit der Kamera auf der Demo. Ihr leisester Rat, mit dem Neffen darüber zu reden, welche Memes er lustig findet und warum, trifft sich mit seinem: die Tür zu einem, der abdriftet, nie ganz zumachen.
 - [[DenkerVita/Staiy]] — Staiy klagt das Schweigen der Leitmedien über rechte Gewalt an, Heims warnt vor dem falschen Reden: „Berichtet lieber gar nicht, als das Phänomen zu verharmlosen.“ Nebeneinander zeigen sie das Dilemma, dass Aufmerksamkeit verstärkt und Schweigen normalisiert.
 
 ## Gedankenwelten-Notes
