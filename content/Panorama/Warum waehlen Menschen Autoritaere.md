@@ -2,7 +2,7 @@
 title: "Warum wählen Menschen Autoritäre?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-17
+aktualisiert: 2026-11-20
 description: "Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -53,6 +53,8 @@ Ein Scharnier zwischen beiden ist das Nullsummendenken: Gefühlte Benachteiligun
 
 Eine Gegenprobe, die selten gemacht wird, schlägt Tom Krebs vor: die Corona-Krise. Die Verunsicherung war groß, und die AfD stieg nicht; bei Forsa fiel sie schon im Februar 2020, vor dem Lockdown, von 13 auf 10 Prozent und stand bis Ende 2021 bei 8 bis 11 ([wahlrecht.de](https://www.wahlrecht.de/umfragen/forsa.htm)). Krebs folgert, dass zur materiellen Verunsicherung das Gefühl kommen muss, der Staat reagiere nicht. Das verschiebt das Gewicht vom Geld auf die Wahrnehmung staatlichen Handelns und passt zu dem, was die Einzeldaten oben zeigen; messen lässt es sich schwerer als ein Strompreis.
 
+Ein Weg vom Versagen zur Wahl ist belegt: Nach Finanzkrisen werden Wähler extremer und Koalitionen schwächer, so fehlen die Mehrheiten für Reformen ([Mian u. a. 2014](https://doi.org/10.1257/mac.6.2.1), Länderpanel); in Ungarn wuchs die extreme Rechte dort, wo Haushalte Kredite in fremder Währung trugen ([Gyöngyösi & Verner 2022](https://doi.org/10.1111/jofi.13138), quasi-experimentell). Enthüllungen schaden aber nicht automatisch dem Ganzen: Nach dem britischen Spesenskandal bestraften Wähler ihren Abgeordneten, ohne dem System weniger zu vertrauen ([Kelly & Tilley 2024](https://doi.org/10.1017/s0007123424000383), Mehrebenenanalyse).
+
 **Die Stimmen**
 
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Der materielle Kern|Jana Hensel]]:** Der Rechtsruck im Osten hat einen materiellen Kern, den die Öffentlichkeit über dem Reden von Einstellungen vernachlässigt hat; die soziale Frage wird inzwischen rechts beantwortet.
@@ -64,8 +66,9 @@ Eine Gegenprobe, die selten gemacht wird, schlägt Tom Krebs vor: die Corona-Kri
 - **[[Arlie Hochschild — Stolen Pride#Das Stolz-Paradox|Arlie Hochschild]]:** Wer seinen Stolz auf Eigenleistung baut, erlebt Jobverlust als Scham, und Trump fördert diese Scham „wie Bergleute Kohle“.
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Was fehlt, ist nicht das Brot|Querfurt]]:** Die Clique hat Arbeit, die Arbeitslosigkeit hat sich mehr als halbiert; was fehlt, sind Jugendclub, Arzt und Anerkennung.
 
-<details><summary>Weitere Stimmen (16)</summary>
+<details><summary>Weitere Stimmen (17)</summary>
 
+- **[[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Elitenversagen und Populismus|Kolja Möller]]:** Seit der Finanzkrise ein „sehr großes Elitenversagen“ ohne Neuorientierung; der Populismus, der Appell an das Volk gegen die Eliten, „ist Ausdruck dieser Konstellation“.
 - **[[Tom Krebs — Kapital und Krise#Zwei Bedingungen für den Rechtsruck|Tom Krebs]]** (Surplus): Verunsicherung allein reicht nicht, in der Corona-Krise stieg die AfD nicht; es braucht dazu das Gefühl, dass die Politik nicht angemessen reagiert. Das erkläre den Anstieg von zehn auf zwanzig Prozent, *„nicht, warum wir die AfD haben“*.
 - **[[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)#Die Definition Faschismus als verschobener Eigentumsrausch|Eva von Redecker]]** (Jung & Naiv 811): Faschismus verteidigt einen Phantombesitz, einen Anspruch auf etwas, das nie Eigentum war oder es nicht mehr ist, mit Vernichtung gegen einen fingierten Plünderer; verloren geht nicht das Geld, sondern der geglaubte Platz.
 - **[[Barbara Prainsack — Solidaritaet NEU DENKEN#Der Kuchen, der nicht wachsen darf|Barbara Prainsack]]:** Ausdrücklich als These: Wer den Kuchen für fest hält, streitet nur noch darüber, wen man ausschließen kann; statt auf den wartenden Opa einzugehen, prüft sie das Fundament des Arguments, dass das eine das andere ausschließt.
@@ -339,6 +342,7 @@ Auf der großen Bühne sieht der Gegenschlag so aus. Der Anteil der Menschen, di
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Elitenversagen und Populismus\|NANO Talk — Eliten]] | Elitenversagen und Populismus: Finanzkrise und Mehrheiten, Ungarn, Korruptionserfahrung, Gegenbefund Spesenskandal |
 | 27.09.2026 | [[Der Entscheidende Punkt — Nach den Landtagswahlen#Nachbesprechung|Der Entscheidende Punkt — Nach den Landtagswahlen]] | Gründungsnote: materieller Kern oder Einstellung (Ort gegen Person, Statusverlust, Nachwahlzahlen Sachsen-Anhalt) · Protest oder Überzeugung (Zeitreihe MV 24 → 53 %) |
 | 27.09.2026 | [[Philipp Blom — Die Unterwerfung#Nachbesprechung|Philipp Blom — Die Unterwerfung]] | Was lehrt Weimar — und wie lange? Assmanns Frist des kommunikativen Gedächtnisses, Persistenz vs. Verblassen (Lecci et al. 2026, Voigtländer & Voth, Cantoni et al.), MEMO-Schlussstrich 2024 |
 | 30.09.2026 | [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Nachbesprechung|Tom Krebs — Wege aus der Krise]] | Was holt Wähler zurück? Sparpolitik schadet belegt (Gabriel et al. 2026, Baccini & Sattler 2024), der Rückweg über Geld ist schwächer (Albanese et al. 2022); Entlastung wirkt nur sichtbar (Colantone 2023, Voeten 2024); öffentlicher Wohnbau kann selbst Rechtswahl auslösen (Cavaillé & Ferwerda 2023) |

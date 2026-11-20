@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-17
+aktualisiert: 2026-11-20
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -251,6 +251,8 @@ Ein eigenes Kapitel ist die Aufsicht über die Sicherheitsbehörden. Wo Gesetze 
 
 
 Die Drehtür hat in Deutschland zwei Richtungen, und beide sind belegt: Jörg Kukies kam 2018 von Goldman Sachs ins Finanzministerium und ging 2026 als ehemaliger Finanzminister zu Morgan Stanley, mit Auflagen des Kabinetts ([Börsen-Zeitung, 01.04.2026](https://www.boersen-zeitung.de/personen/ex-bundesfinanzminister-joerg-kukies-wechselt-zu-morgan-stanley)). Das Lobbyregister macht seit 2022 sichtbar, wer was will: BlackRocks deutsche Tochter meldet für 2025 rund 775.000 Euro Lobbyausgaben und Stellungnahmen zur Frühstart-Rente an Kanzleramt und Ministerien ([Lobbyregister R003422](https://www.lobbyregister.bundestag.de/suche/R003422)). Welche davon in Gesetze eingingen, zeigt es nicht. Wechseln Aufseher in Finanzfirmen, sinkt dort eher das Risiko, Belege für Gegengeschäfte sind selten ([Shive & Forster 2017](https://doi.org/10.1093/rof/rfw035), Einzelstudie).
+Macht verdirbt vor allem dort, wo Rechenschaft fehlt: Brasilianische Bürgermeister, die wiedergewählt werden können, zweigen 27 Prozent weniger ab als solche ohne diese Aussicht ([Ferraz & Finan 2011](https://doi.org/10.1257/aer.101.4.1274), natürliches Experiment), und in bezahlten Experimenten schützte Ehrlichkeit Anführer nicht vor der Wirkung von mehr Macht ([Bendahan u. a. 2015](https://doi.org/10.1016/j.leaqua.2014.07.010), Experimente).
+
 **Die Stimmen**
 
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Die Pyramide im Kreis|Ardalan Ibrahim]]:** Minister sollen sich alle drei bis sechs Monate vor einem neu gelosten Gremium verantworten, dessen Beratung aber geheim bleibt, die „Inflationierung der Hinterzimmer“.
@@ -262,8 +264,9 @@ Die Drehtür hat in Deutschland zwei Richtungen, und beide sind belegt: Jörg Ku
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Aladin El-Mafaalani]]:** Um von Washington unabhängig zu werden, sollen die eigenen Dienste aufgerüstet werden, und weil der Verfassungsschutz auch Ländersache ist, könnten Populisten bald einen Geheimdienst erben, der alles kann. *„Ich sehe beides.“*
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Şeyda Kurt]]:** Die Militarisierung nach innen geschieht unter der jetzigen Regierung, mit Befugnissen für Geheimdienste in historischem Ausmaß, und sie wird sich, wenn die AfD regiert, gegen Leute wie sie richten.
 
-<details><summary>Weitere Stimmen (16)</summary>
+<details><summary>Weitere Stimmen (17)</summary>
 
+- **[[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Vorbilder oder Kontrolle?|Michael Hartmann (NANO Talk)]]:** Gute Vorbilder „mögen ein bisschen helfen“, entscheidend sei Kontrolle, „öffentliche Kontrolle und solche Mechanismen“; Anabel Ternès hält am selben Tisch die positiven Narrative dagegen.
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Publikumsfragen|Hans Jessen]]:** Minister kann man schon heute entlassen; wer unter Loskontrolle zwanzig Jahre bleibt, bedeutet mehr Machtkonzentration, nicht weniger.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Vorratsdatenspeicherung 20 Jahre alter Zombie, neue Bundesregierung|Constanze Kurz]]:** Jede neue Bundesregierung versucht die Vorratsdatenspeicherung erneut, obwohl Karlsruhe und der EuGH sie gekippt haben.
 - **[[phoenix — Orbán abgewählt#Warum ist Orbán so deutlich gescheitert?|Gawrich zu Ungarn]]:** Trotz gekaperter Institutionen scheiterte Orbán an Schulen, Krankenhäusern und Korruption. Die Abwahl blieb die letzte Rechenschaft.
@@ -343,6 +346,7 @@ Vor dem Personal steht die Frage, wer die neue Ordnung schreibt. Hegel hielt es 
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Macht Macht korrupt?\|NANO Talk — Eliten]] | Macht Macht korrupt? Enthemmung (Meta-Analyse), Deutung als Verantwortung, Macht ohne Rechenschaft |
 | 27.09.2026 | [[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Nachbesprechung|Ardalan Ibrahim — Die Partei für Losdemokratie]] | Gründungsnote: Beraten oder entscheiden (bindende Losgremien, Michigan, Paris, Guter Rat) · Vor der Kamera oder dahinter (Elster, Zentralbank-Protokolle, Begründung statt Prozess) |
 | 04.10.2026 | [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Nachbesprechung|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] | Beraten oder entscheiden: Institutionen für künftige Generationen — Finnland (Koskimaa & Raunio), Wales (Senedd 2026), Israel und Ungarn abgeschafft bzw. herabgestuft (Smith 2020), Parlamentarischer Beirat (Kinski & Whiteside 2022); von Schelihas Begründungspflicht, El-Mafaalanis Personalrat |
 | 30.09.2026 | [[Philipp Blom — Die strauchelnde Welt#Nachbesprechung|Philipp Blom — Die strauchelnde Welt]] | Gründlich oder schnell? Gewöhnen sich Menschen an das Verordnete? Stockholm-Maut 36 → 53 → über 70 % (Börjesson et al. 2012, Eliasson 2014), Rauchverbote nur konsequent (Mons et al. 2012), Göteborg und Gelbwesten als Grenze (Hansla et al. 2017, Douenne & Fabre 2022); der dritte Weg: erst probieren, dann abstimmen |

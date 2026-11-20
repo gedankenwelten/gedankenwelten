@@ -2,7 +2,7 @@
 title: "Was macht Schule mit uns?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-11-15
+aktualisiert: 2026-11-20
 description: "Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Die Ecke ist leer. Der Schemel darin steht noch."
@@ -150,6 +150,8 @@ Auch die Note selbst sortiert mit. Lehramtsstudierende bewerteten ein identische
 
 Ob gemeinsames Lernen auch die Haltung zur Demokratie formt, ist eine eigene Frage. Nach 1945 wollten die Alliierten die deutsche Schule demokratisieren (Kontrollratsdirektive Nr. 54, 1947); die sechsjährige Grundschule kam nur in Schleswig-Holstein, Niedersachsen und Berlin und wurde schon in den Fünfzigern zurückgenommen, das Züchtigungsrecht der Lehrer fiel im Westen erst bis 1973, in Bayern 1980. In der DDR dagegen verschwand die Prügelstrafe an Schulen 1945, und ab 1959 lernten alle Kinder zehn Jahre gemeinsam — gerade dort ist die AfD heute am stärksten. Die Schulform allein schützt also nicht. Was die Forschung findet, ist die Wirkung der Mischung: Länder mit früher Aufteilung haben weniger politisch engagierte Bürger, vor allem unten ([Witschge & van de Werfhorst 2019](https://doi.org/10.1177/0001699318818650)); in Frankreich verschwindet der Unterschied in der Wahlabsicht zwischen den Zügen, sobald man die soziale Zusammensetzung der Schulen herausrechnet ([Janmaat & Mons 2022](https://doi.org/10.1080/02671522.2022.2028890)); und Eltern geben Autoritarismus und Vorurteile vor allem an Kinder weiter, die wenig Kontakt zu Eingewanderten haben ([Dhont & Van Hiel 2011](https://doi.org/10.1016/j.jrp.2011.12.008), kleine Studie). Ein niederländisches Panel fand dagegen kaum Wirkung des Schulwechsels auf ethnische Toleranz ([Witschge, Rözer & van de Werfhorst 2019](https://doi.org/10.1002/berj.3501)).
 
+Bei der Begabtenförderung liegt die Lücke vor der Auswahl: Nur 46 Prozent der Schulen nutzen ihr Recht, jemanden für die Studienstiftung vorzuschlagen, in den ostdeutschen Flächenländern 28 Prozent ([Studienstiftung, 2025](https://www.studienstiftung.de/pool/sdv/public/documents/SERVICE/Publikationen/Grundsatzartikel/studienstiftung_vielfalt_begabtenfoerderung_20251124.pdf), eigene Auswertung). Über das ganze System wurde der Zugang zu Stipendien nach dem Ausbau ab 2006 weniger herkunftsabhängig ([Neumeyer 2026](https://doi.org/10.1080/03075079.2026.2718481), Trendanalyse), und längere Studienberatung senkte die Herkunftsungleichheit beim Studienbeginn in einem Experiment um etwa 70 Prozent ([Pietrzyk u. a. 2025](https://doi.org/10.1177/00380407251323888), randomisierte Studie).
+
 **Die Stimmen**
 
 - **[[Hartwin Maas — Bildung NEU DENKEN#Bildungsstruktur Selektion, Chancengerechtigkeit & Systemreform|Hartwin Maas]]:** Aufteilung nach Klasse sechs statt vier; Gesamtschulen scheitern am Bildungsbürgertum, das das exklusive System für sich nutzt.
@@ -162,8 +164,9 @@ Ob gemeinsames Lernen auch die Haltung zur Demokratie formt, ist eine eigene Fra
 - **[[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#Der großzügige Staat|Harald Welzer]]:** Die Bundesrepublik seiner Schulzeit machte es zum Programm, Bildungsungleichheit zu senken, davon sei sie heute „Lichtjahre entfernt“. Seinen Superlativ, die höchste Ungleichheit aller westlichen Länder, deckt der Faktencheck nicht, die Richtung schon.
 - **[[Andreas Kemper — Faschismen im 21. Jahrhundert#Hilft gemeinsames Lernen?|Andreas Kemper]]:** Alle Kinder bis zur neunten Klasse gemeinsam, damit arme und reiche, eingewanderte und alteingesessene einander kennen — gegen Klassismus und gegen rechts.
 
-<details><summary>Weitere Stimmen (12)</summary>
+<details><summary>Weitere Stimmen (13)</summary>
 
+- **[[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Die Studienstiftung|Michael Hartmann (NANO Talk)]]:** Die Reform der Studienstiftung senkte den Anteil der Akademikerkinder von 75 auf 70 Prozent, „aktuell liegen sie wieder bei gut 73 %“; für die Machteliten spiele sie ohnehin „eine völlig untergeordnete Rolle“.
 - **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Der Vergleich und der Bücherschrank|Björn Nölte]]:** Der Notenvergleich bevorzugt, wer den „heimischen Bücherschrank“ hat, und ist darum „wahnsinnig ungerecht“.
 - **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Der Vergleich und der Bücherschrank|Heinz-Peter Meidinger]]:** Die Note spiegelt die Herkunft, aber ohne Noten verschwindet die Kopplung nicht; wie wollte eine notenfreie Schule sie lösen?
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Die Zahl, an der alles hängt|Michael Hartmann]]:** Herkunft schlägt sogar das Parteiprogramm; Großbürgerkinder stellen ein Viertel der Elite.
@@ -275,6 +278,7 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Begabtenförderung und Herkunft\|NANO Talk — Eliten]] | Begabtenförderung und Herkunft: Vorschlagsrecht der Schulen, Neumeyer 2026, Beratungsexperimente |
 | 04.10.2026 | [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Nachbesprechung|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]] | Gründungsnote · Beschämen oder schonen: Kim et al. 2011, Leach & Cidam 2015 (reparierbares Versagen), Pinquart 2017, Brummelman 2014, Dresel 2024, INTAKT, Oser/Spychiger; Cyrulniks „kleine Gefäße“ gegen Pluess/Belsky |
 | 08.10.2026 | [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Nachbesprechung|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]] | Neue Frage *Braucht Lernen eine Note?*: Butler 1987/1988, Koenka 2021, Kluger & DeNisi 1996, Testing-Effekt, Pass/Fail (Bloodgood, Reed, Spring), Feldversuch Hübner et al. 2026, Valtin 2002 · Sortiert die Schule nach Herkunft: Notenbias (Bonefeld, Doyle), Fehlertabelle (Peter et al. 2024), BVerfG 2017, Hübner et al. 2024 |
 | 04.10.2026 | [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Nachbesprechung|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] | Wer bestimmt über Kinder: Mitbestimmung Familie vs. Schule (Fatke & Schneider 2005, World Vision 2018, Kinderrechte-Index 2025), Wirkung (Mager & Nowak 2012, Bureau et al. 2022), Lundys vier Bedingungen; von Scheliha mit der ganzen Begründung, El-Mafaalanis Grundschul-Satz geprüft |

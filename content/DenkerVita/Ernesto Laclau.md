@@ -44,12 +44,12 @@ Ernesto Laclau starb am 13. April 2014 an einem Herzinfarkt in Sevilla, Spanien,
 | Titel | Jahr | Beschreibung |
 |---|---|---|
 | [Politics and Ideology in Marxist Theory](https://www.genialokal.de/Suche/?q=Politics+Ideology+Marxist+Theory+Laclau) | 1977 | Frühe Auseinandersetzung mit Althussers Marxismus und den Grenzen des ökonomischen Determinismus |
-| [Hegemonie und radikale Demokratie — Hegemoniekampf jenseits von Antagonismus](https://www.genialokal.de/Suche/?q=Hegemonie+radikale+Demokratie+Laclau+Mouffe) | 1985 | Mit Chantal Mouffe. Rekonstruktion von Gramscis Hegemonietheorie für die Gegenwart; These: Linke Bewegungen müssen breite Allianzen außerhalb der Klassenpolitik bilden. |
+| [Hegemony and Socialist Strategy](https://www.genialokal.de/Suche/?q=Hegemonie+radikale+Demokratie+Laclau+Mouffe), deutsch *Hegemonie und radikale Demokratie. Zur Dekonstruktion des Marxismus* (Passagen, Wien 1991) | 1985 | Mit Chantal Mouffe. Rekonstruktion von Gramscis Hegemonietheorie für die Gegenwart; These: Linke Bewegungen müssen breite Allianzen außerhalb der Klassenpolitik bilden. |
 | [New Reflections on the Revolution of our Time](https://www.genialokal.de/Suche/?q=New+Reflections+Revolution+Time+Laclau) | 1990 | Sammlung von Essays, die Laclaus diskurstheoretische Position vertiefen und auf Žižeks psychoanalytische Kritik reagieren |
 | [The Making of Political Identities](https://www.genialokal.de/Suche/?q=Making+Political+Identities+Laclau) | 1994 | Editiert von Laclau; erkundet wie politische Subjekte und Identitäten diskursiv konstituiert werden |
 | [Emancipation(s) / Emanzipation und Differenz](https://www.genialokal.de/Suche/?q=Emanzipation+Differenz+Laclau) | 1996 / 2002 | Essays zur Emanzipation, Kontingenz und pluralen Demokratie; enthält den Aufsatz "Macht und Repräsentation" (S. 125–149 in der dt. Ausgabe) |
 | [Contingency, Hegemony, Universality: Contemporary Dialogues on the Left](https://www.genialokal.de/Suche/?q=Contingency+Hegemony+Universality+Laclau) | 2000 | Trialogue mit Judith Butler und Slavoj Žižek; drei Essays im Zyklus, in denen Laclau, Butler und Žižek einander kritisieren und entwickeln |
-| [On Populist Reason / Über populistische Vernunft](https://www.genialokal.de/Suche/?q=On+Populist+Reason+Laclau) | 2005 | Magnum Opus: Populismus nicht als Bedrohung der Demokratie, sondern als **notwendiger leerer Signifikant**, der Volk und Gerechtigkeit artikuliert |
+| [On Populist Reason](https://www.genialokal.de/Suche/?q=On+Populist+Reason+Laclau), deutsch *Die populistische Vernunft* (Passagen, Wien 2022) | 2005 | Magnum Opus: Populismus nicht als Bedrohung der Demokratie, sondern als **notwendiger leerer Signifikant**, der Volk und Gerechtigkeit artikuliert |
 | [The Rhetorical Foundations of Society](https://www.genialokal.de/Suche/?q=Rhetorical+Foundations+Society+Laclau) | 2014 | Postum veröffentlicht; sein letztes Werk, das Rhetorik und diskursive Universalität zusammenbringt |
 | [Elusive Universality (unveröffentlicht)](https://www.genialokal.de/Suche/?q=Elusive+Universality+Laclau) | — | Manuscript: Versuch, die Spannung zwischen Universalismus und Partikularismus aufzulösen (Universalität ist immer unvollständig) |
 
@@ -57,8 +57,7 @@ Ernesto Laclau starb am 13. April 2014 an einem Herzinfarkt in Sevilla, Spanien,
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Macht und Repräsentation bei Ernesto Laclau](https://www.youtube.com/watch?v=Fipgi6FS_E4) — YouTube, Vortrag zur Kernthese: Repräsentation ist unrein, wechselseitig und konstitutiv für Macht
-- [Ernesto Laclau - Macht und Repräsentation (neue Version)](https://www.youtube.com/watch?v=ERmx28peZ98) — YouTube, erweiterte Analyse desselben Themas
+- [Ernesto Laclau - Macht und Repräsentation (neue Version)](https://www.youtube.com/watch?v=ERmx28peZ98) — Einführung von Cornelia Mooslechner-Brüll (Universität Wien, 2021), nach ihren Worten die kürzere Fassung für den Einstieg
 - [Ernesto Laclau & Chantal Mouffe — Playlist](https://www.youtube.com/playlist?list=PL-ICJSfrU1iz_7s85Oho6Otrn61lo6eUU) — Sammlung von Interviews, Seminaren und Diskussionen des Paars
 - [Ian Angus interviews Ernesto Laclau and Chantal Mouffe](https://www.academia.edu/14703476/Ian_Angus_interviews_Ernesto_Laclau_and_Chantal_Mouffe_German_translation) — Akademisches Interview, auch in Deutsch verfügbar
 
@@ -85,7 +84,7 @@ Laclau wird oft als "post-marxistisch" etikettiert, eine Bezeichnung die er selb
 Er war nie ein Kommunist, sondern intellectual leftist, der radikale demokratische Alternativen zum Liberalismus, zur Sowjet-Orthodoxie und zum reformistischen Sozialdemokratismus suchte. Seine Arbeit inspirierte:
 
 - **Podemos** (Spanien) — Íñigo Errejón nutzte Laclaus Populismustheorie
-- **Kirchnerismus** (Argentinien) — Laclaus Analyse des Peronismus als "leeren Signifikanten" wurde zur Grundlage linken Populismus' in Lateinamerika
+- **Kirchnerismus** (Argentinien) — Laclau galt als wichtigster Intellektueller des Kirchnerismus ([Panizza 2015](https://doi.org/10.1057/eps.2015.30), Nachruf); in *On Populist Reason* ist der leere Signifikant das Wort Peróns im Exil 1955–73, das zerstrittene Gruppen zusammenhielt
 - **Linke Bewegungen weltweit**, die sich vom klassischen Klassenkampf-Narrativ befreit haben und stattdessen komplexe hegemoniale Allianzen schmieden
 
 **Konflikte**: Laclaus Verhältnis zu **Slavoj Žižek** war anfangs kollegial, später feindselig. Žižek kritisierte ihn wegen zu großer Distanz von Marx, Laclau wiederum Žižeks "Kindergarten-Leninismus" (2014). Der Konflikt spiegelt einen tieferen Streit: Ist Kontingenz das Wesen der Politik oder ein liberales Zugeständnis an Unmöglichkeit revolutionärer Transformation? Laclau blieb dabei, dass die Annahme von Kontingenz das **einzig ehrliche Fundament** für emanzipative Politik ist.
@@ -95,7 +94,7 @@ Er war nie ein Kommunist, sondern intellectual leftist, der radikale demokratisc
 ## Verbindungen zu anderen Denkern
 
 - [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe]] (Note, keine DenkerVita) — Seine Partnerin und Ko-Autorin von *Hegemonie und radikale Demokratie* (1985). Laclau zerlegt die Sprache des Politischen, Signifikant, Leerstelle, Repräsentation; Mouffe zieht daraus die demokratische Folgerung, den Agonismus, in dem Gegner einander bekämpfen, ohne einander vernichten zu wollen. Zwei Hälften eines Projekts.
-- [[DenkerVita/Kolja Moeller|Kolja Möller]] — Der direkteste deutschsprachige Anschluss. Möller übernimmt die These, Populismus sei ein Strukturmerkmal der Demokratie und keine Krankheit, teilt aber Laclaus Ausschließlichkeit des Diskurses nicht. Er verbindet die radikaldemokratische Einsicht mit Luhmanns Systemtheorie und fragt, wie eine Verfassung mit dieser Kraft leben kann, ohne sie zu unterdrücken.
+- [[DenkerVita/Kolja Moeller|Kolja Möller]] — Laclau steht in Möllers Reader *Populismus* (Suhrkamp 2022); beide lesen den Populismus als Form des Politischen, nicht als bloße Entgleisung. Die Verbindung ziehen wir, dass Möller auf Laclau aufbaut, sagen seine Texte nicht.
 - [[DenkerVita/Herfried Münkler]] — Beide gehen von Gramsci aus, und beide sagen, dass es „das Volk" vor seiner Führung nicht gibt. Münkler folgert daraus Misstrauen: Wer Volk sagt, meint Führung. Laclau folgert den Kampf um das Wort. Münkler erzählt zudem, wie die Neue Rechte Gramsci gründlicher las als die Linke der Achtziger, für die Laclau und Mouffe stehen; aus Laclaus Sicht überlässt Münklers Rückzug das Wort denen, die es besetzen.
 - [[DenkerVita/Klaus Doerre|Klaus Dörre]] — Die Gegenstimme von links. Dörre hält am Klasseninteresse fest, genau dort, wo Laclau mit dem Marxismus bricht, und würde ihm vorwerfen, die materielle Basis des Deutungskampfs zu übersehen. Die offene Frage zwischen beiden: Kann eine Hegemonietheorie ohne Klassenanalyse erklären, warum Wörter wie „Freiheit" und „Volk" so beständig von rechts besetzt werden?
 - [[DenkerVita/Wendy Brown]] — Laclau zeigt, dass „Demokratie" und „Freiheit" umkämpft werden müssen. Brown zeigt, wie der Neoliberalismus diesen Kampf stillstellt, indem er demokratische Vernunft durch Marktvernunft ersetzt und den *demos* in Humankapital verwandelt. Ihre Diagnose erklärt, warum ein linker Populismus nach Laclaus Bauplan heute so schwer zu mobilisieren ist.

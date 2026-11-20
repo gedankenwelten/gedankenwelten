@@ -2,7 +2,7 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-11-11
+aktualisiert: 2026-11-20
 description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -317,6 +317,8 @@ Wo das Geld selbst wirkt, ist es am deutlichsten in der Öffentlichkeit. Nach de
 
 Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründet sie mit der Demokratie, nicht mit Moral ([Robeyns 2022](https://doi.org/10.1111/jopp.12275)); das Demokratie-Argument begründe aber keinen Vorrang vor anderer Umverteilung, halten Kritiker dagegen ([Halldenius 2022](https://doi.org/10.1007/s10677-022-10337-1)). Frankreichs Zucman-Steuer, zwei Prozent ab 100 Millionen, scheiterte 2025 an Senat und Haushalt. Ob Vermögensteuern die Reichen vertreiben, hängt an der Ausgestaltung: In der Schweiz weicht Vermögen stark aus ([Brülhart et al. 2022](https://doi.org/10.1257/pol.20200258)), in Norwegen blieb der angekündigte Exodus klein ([Ring 2026](https://doi.org/10.2139/ssrn.7534880), Preprint). Weiter geht diese Frage unter [[Wie viel Reichtum vertraegt eine Demokratie#Braucht Reichtum eine Grenze?|Braucht Reichtum eine Grenze?]].
 
+Wie Eigentümer über Medien Politik machen, ist an Fällen belegt: Sheldon Adelsons kostenlose Zeitung *Israel Hayom* verschob messbar Stimmen zugunsten Netanjahus ([Grossman u. a. 2022](https://doi.org/10.1086/719415), Einzelstudie), und nach Bollorés Übernahme von CNews bekam die radikale Rechte dort rund 70 Prozent mehr Sendezeit ([Cagé u. a. 2025](https://www.ifo.de/DocDL/cesifo1_wp11741.pdf), Arbeitspapier). Gegen den Befund von Gilens und Page gibt es einen neuen methodischen Einwand ([Enns 2026](https://doi.org/10.15195/v13.a21), Methodenkritik).
+
 **Die Stimmen**
 
 - **[[Philipp Blom — Die strauchelnde Welt#Die Demokratie umbauen, bevor andere es tun|Philipp Blom]]:** Überreichtum zersetzt die Demokratie wie die sozialen Medien, und beide hängen zusammen; „100 Millionen sind wahrscheinlich genug pro Nase“.
@@ -328,8 +330,9 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 - **[[Rainer Mausfeld — Warum schweigen die Lämmer#Hat die untere Hälfte keinen Einfluss?|Rainer Mausfeld]]:** Die untere Hälfte gehe „mit einem Null-Gewicht“ in politische Entscheidungen ein, damit sei „die Idee der kapitalistischen Demokratie erledigt“; die Studie, auf die er sich stützt, sagt weniger, und seine Zahl wechselt zwischen 70 und 50 Prozent.
 - **[[phoenixRunde — Arm und Reich in Deutschland#Arm gegen Arm Der Verteilungskonflikt als politisches Instrument|David Deißner]]:** „Reich gegen Arm“ sei ebenso populistisch wie „Arm gegen Arm“, Substanzsteuern schadeten den Familienunternehmen.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
+- **[[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Die neuen Eigentümer|Michael Hartmann (NANO Talk)]]:** Wer die Washington Post kauft, „bringt die Washington Post auf Kurs“; Frankreichs Milliardäre „wollen kein Geld verdienen. Die machen Politik damit.“
 - **[[Philipp Blom — Die Unterwerfung#Die Kulissen der Demokratie|Philipp Blom]]** (2023): Der Milliardär hat am Sonntag eine Stimme, vorher Stiftungen, Thinktanks und Spenden; „die Kulissen stehen noch“.
 - **[[Studio Bonn — Extremer Reichtum#Einkommen ist nicht Vermögen|Kevin Kühnert]]:** Problematisch wird Vermögen, wo es über Medienbeteiligungen und neue Medienkonglomerate die öffentliche Meinung steuern kann, und das beginnt nicht erst bei Musk.
 - **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#USA Ellison, Bezos und das schrumpfende kritische Mediensystem|Gilda con Arne]]:** Ellison und Bezos kaufen und lenken, was vom kritischen Mediensystem bleibt.
@@ -346,6 +349,7 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Reichtum und Medienmacht\|NANO Talk — Eliten]] | Reichtum und Medienmacht: Adelson, Murdoch, Bolloré, Washington Post, Conseil d'État |
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Nachbesprechung|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Das Los und der Bürgerrat · Plebiszit als Denkzettel oder Sachfrage |
 | 26.09.2026 | Gespräch (Andreas, mit dem Einwand eines Kollegen) | Direkte Demokratie: Minderheitenschutz (Minarettverbot, Einbürgerungen) · Geld in Abstimmungskampagnen · Reibung neu gefasst |
 | 27.09.2026 | [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Nachbesprechung|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]] | Neue Frage: Wer gehört zum Demos? (Wahlrecht nach fünf Jahren, Forschung zu Ausländerwahlrecht und Einbürgerung) |

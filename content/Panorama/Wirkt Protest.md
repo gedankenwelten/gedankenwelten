@@ -2,7 +2,7 @@
 title: "Wirkt Protest?"
 date: 2026-11-06
 erstellt: 2026-11-06
-aktualisiert: 2026-11-16
+aktualisiert: 2026-11-20
 panorama-art: wachsend
 description: "Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben."
 raetsel: "Das Denkmal ist höflicher, als der Mann es war."
@@ -66,6 +66,8 @@ und Parteien verstärken sich gegenseitig, und wer am Ende entscheidet, ist selt
 
 Einen harten Testfall liefert Minneapolis. Nach den Todesschüssen auf Renee Good und Alex Pretti marschierten im Januar 2026 Tausende bei Frost, Hunderte Betriebe schlossen. Im Februar endete der ICE-Einsatz, nach Darstellung der Regierung wegen Erfolg und besserer Abstimmung; dass der Protest ihn beendete, sagt keine Quelle. Im Haushaltsstreit setzten die Demokraten keine ihrer Reformen durch, und nach der verlorenen Wahl beförderte Trump den Architekten der Einsätze zum Stabschef (→ [[Al Jazeera — Stephen Millers Krieg#Minneapolis was der Protest erreicht hat und was nicht|Nachbesprechung]]). Die Forschung passt zu diesem Bild. Nach den Floyd-Protesten verschoben sich die Einstellungen zur Polizei nur bei Liberalen ([Reny & Newman 2021](https://doi.org/10.1017/S0003055421000460), Zeitreihe), und über vierzehn Protestwellen in den USA hinweg findet eine Auswertung viel Aufmerksamkeit und wenig Wirkung auf Gesetze, mit den Floyd-Protesten als Ausnahme ([Gethin & Pons 2024](https://doi.org/10.3386/w32342), Arbeitspapier). Dauerhafter mobilisiert der Vollzug selbst: Wo „Secure Communities“ kam, stieg die Wahlbeteiligung von Latinos um zwei bis drei Punkte ([White 2016](https://doi.org/10.1007/s11109-015-9317-5), Differenz-in-Differenzen).
 
+Gegen ein Regime, das schießt, entscheidet oft die Loyalität der Sicherheitskräfte: Ein neuer Weltdatensatz findet Illoyalität in 45 Prozent der Kampagnen, mit Erfolg verbunden erst bei großer Beteiligung ([Dahl u. a. 2026](https://doi.org/10.1093/jopres/xjaf020), Datensatz 1970–2013), und wo Truppen überliefen, folgten danach häufiger Putsche ([Ashley 2026](https://doi.org/10.1093/jopres/xjaf014), Weltdaten). Für den Iran 2026 fehlten nach einer Analyse fast alle Kräfte, die 1979 die Revolution trugen, Überläufer, Risse in der Elite, ein freier Informationsraum ([Askari 2026](https://doi.org/10.1111/mepo.70101), Analyse).
+
 **Die Stimmen**
 
 - **[[Denker/Rutger Bregman — Ist der Mensch wirklich gut#Held vs. Radikaler — moralische Ambition|Rutger Bregman]]:** Bewusstsein wecken reiche nicht; wer die Welt ändern wolle, müsse irgendwann ein Gesetz durchs Parlament bringen.
@@ -78,8 +80,9 @@ Einen harten Testfall liefert Minneapolis. Nach den Todesschüssen auf Renee Goo
 - **[[Al Jazeera — Stephen Millers Krieg#Der Mann hinter dem Gesicht|Naureen Shah]]:** Rechenschaft erreicht den Mann ohne Wahlamt nicht; es fallen die Figuren auf dem Brett, das Gesicht vor dem Publikum wechselt, er bleibt.
 - **[[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand#Eine Bewegung ohne Anführer|Serbiens Studierende]]:** Ohne Anführer kann niemand sie kaufen, aber auch niemand für sie entscheiden: viereinhalb Stunden Plenum ohne Ergebnis, „wir sind zwanzig“, und gewonnen hat eine Liste, auf der kein Studierender stand.
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (3)</summary>
 
+- **[[Natalie Amiri — Hoelle auf Erden im Iran#Die besetzte Straße|Natalie Amiri]]:** Das iranische Regime besetzt die Straße, damit die Mehrheit, die gegen es ist, nicht darauf kann, und richtet Protestierende hin: „Traut ihr euch auf die Straße, werdet ihr hingerichtet.“
 - **[[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie#Ein Fürst gegen die Aristokratie|Ardalan Ibrahim]]:** Basisdemokratische Parteien seien an der Wirklichkeit gescheitert, darum führe er seine eigene offen von oben.
 - **[[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Linke Bewegungen damals versus heute|Aladin El-Mafaalani]]:** Frühere linke Bewegungen misstrauten einzelnen Akteuren, nicht dem System, und mündeten darum in Institutionen wie die Grünen.
 
@@ -182,6 +185,7 @@ Was die Nacht vom 31. Oktober in Deutschland bewirkt, verfolgt eine eigene Spur
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 20.11.2026 | [[Natalie Amiri — Hoelle auf Erden im Iran#Wann gelingt ein Aufstand?\|Natalie Amiri — Hölle auf Erden im Iran]] | Wann gelingt ein Aufstand? Sicherheitskräfte, Kuran, Repression, Iran 1979 gegen 2026 |
 | 16.11.2026 | [[Zeitgeist/3Cat — Wake up Serbia, der Studentenaufstand#Nachbesprechung\|3Cat — Wake up, Serbia! Der Studentenaufstand]] | Und wenn es brennt? Gewaltfreiheit mit Bedingung: Disziplin dezentral (Pinckney 2016) oder zentral (Belgioioso u. a. 2019), innere Bremsen ohne Anführer (Yuen 2026), Eskalation, wenn nichts vorangeht (Ryckman 2019), Gegenmobilisierung (Hellmeier & Weidmann 2019), Schläger zur Miete (Ong 2018), der 5. Oktober 2000 als „überwiegend gewaltfrei“ mit bewaffneter Reserve · Was erreicht die Straße? Bewegungen ohne Anführer (Freeman, Tufekci, Polletta, Lai & Sing 2020), Plenen in Serbien (Pudar Draško u. a. 2026, Birešev u. a. 2026), 15-M → Podemos (Flesher Fominaya 2020), Chile (Rodríguez u. a. 2024), die Siegesfalle (Ong & Cayton 2026) · Kavčić, Nusseibeh, Kalesnikava, Ibrahim, El-Mafaalani |
 | 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Führt der friedliche Weg eher zur Demokratie?\|Hedwig Richter — Petitionen statt Barrikaden]] | Und wenn es brennt? Übergänge nach Gewalt und Gewaltfreiheit (Celestino & Gleditsch, Bayer u. a., Bethke & Pinckney), Vereine statt Parteien (Pinckney u. a.), Wandel von oben nach Bewegung (Djuve & Knutsen), Ägypten 2011/2013 (Nepstad) · Was erreicht die Straße? Erfolgsquote sinkt seit 2010 (Chenoweth 2020), Grenzen der Daten (Anisin) · Blom, Kant, Niess |
 | 07.11.2026 | [[Zeitgeist/Al Jazeera — Stephen Millers Krieg#Minneapolis was der Protest erreicht hat und was nicht\|Al Jazeera — Stephen Millers Krieg]] | Minneapolis als Testfall: Proteste, Ende von Metro Surge, keine Reform im Haushaltsstreit, Wahl, Beförderung Millers → backfire (Hess & Martin), Floyd-Proteste (Reny & Newman, Primbs u. a.), begrenzte Wirkung (Gethin & Pons), Vollzug mobilisiert (White, Kuhn), Parteien nach Niederlagen (Somer-Topcu) · Koschi, Paul Lance, Shah |
