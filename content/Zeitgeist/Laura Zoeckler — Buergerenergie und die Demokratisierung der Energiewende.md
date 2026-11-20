@@ -226,7 +226,7 @@ Bürgerenergie als gelebte Geoökonomie von unten: Die dezentrale Energieversorg
 
 ### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
-Großmanns Klettwitz-Modell (80€/Einwohner/Jahr Direktausschüttung) ist das praktische Pendant zu Zöcklers Bürgerbeteiligungs-Vision. Beide beantworten dieselbe Frage — wer profitiert von Windkraft? — mit derselben Antwort: die Menschen vor Ort.
+Das Klettwitzer Modell am Standort von Großmanns Turm (80 €/Einwohner/Jahr Direktausschüttung in den ersten fünf Jahren, von der Gemeinde mit dem Windpark-Investor ausgehandelt) ist das praktische Pendant zu Zöcklers Bürgerbeteiligungs-Vision. Beide beantworten dieselbe Frage — wer profitiert von Windkraft? — mit derselben Antwort: die Menschen vor Ort.
 
 ### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
 

@@ -316,7 +316,7 @@ Zwei Jahre vor Intu versprach dort ein anderes Taschenlabor, Nostics, Minuten st
 
 ### → [[Norio — GICON Hoehenwindturm revolutioniert Windkraft#Das Valley of Death Deutschlands Innovationsproblem|Norio — GICON und das Valley of Death]]
 
-Großmann beschreibt das Tal des Todes als deutsches Strukturproblem: fehlendes Risikokapital, hundert Seiten Anträge, SPRIND als Gegenmodell. In der Medizin ist ein Teil desselben Tals Absicht. Klinische Prüfung und die strenge Risikoklasse für einen HPV-Selbsttest sind der Preis dafür, dass ein falsches Ergebnis mehr kostet als Geld. Was beim Windturm Bremse ist, ist hier zum Teil Schutz.
+Im Norio-Video wird das Tal des Todes zum deutschen Strukturproblem: Jochen Großmann sagt, der Mittelstand scheitere an den Kosten der Pilotanlage, und der Erzähler ergänzt fehlendes Risikokapital, Anträge über Hunderte Seiten und SPRIND als Gegenmodell. In der Medizin ist ein Teil desselben Tals Absicht. Klinische Prüfung und die strenge Risikoklasse für einen HPV-Selbsttest sind der Preis dafür, dass ein falsches Ergebnis mehr kostet als Geld. Was beim Windturm Bremse ist, ist hier zum Teil Schutz.
 
 ### → [[Panorama/Forschung#Wer bezahlt die Forschung — und wofür muss sie gut sein|Forschung — Wer bezahlt die Forschung?]]
 

@@ -127,7 +127,7 @@ Das ist ein Strukturproblem, kein Kulturproblem. Die Amerikaner und Chinesen sin
 
 Das GICON-Projekt ist damit lebendiger Beweis für beide Seiten einer These: dass Deutschland Innovationen systematisch abbremst (ohne SPRIND wäre der Turm nie gebaut worden) — und dass es gehen kann, wenn man die Regeln ändert.
 
-Die eigentliche politische Frage, die das Video stellt, ohne sie explizit zu formulieren: Warum ist SPRIND die Ausnahme und nicht die Regel? Wenn ein Förderinstrument mit 15 statt 1000 Fragen funktioniert — was sagt das über alle anderen Förderinstrumente aus?
+Die eigentliche politische Frage, die das Video stellt, ohne sie explizit zu formulieren: Warum ist SPRIND die Ausnahme und nicht die Regel? Wenn ein Förderinstrument mit 15 Fragen statt hunderter Seiten Antrag funktioniert — was sagt das über alle anderen Förderinstrumente aus?
 
 ---
 
@@ -240,7 +240,7 @@ Das Klettwitz-Modell — 80 €/Einwohner/Jahr aus Windparkgewinnen, kein Eigenk
 Das Energie-Panorama kartiert das Systemfeld, in das Großmanns GICON-Turm eingreift: Redispatch-Kosten durch fehlenden Netzausbau, politische Blockaden der Energiewende. Der GICON-Turm durchbricht den Redispatch-Teufelskreis strukturell: Höhere Vollaststunden bedeuten gleichmäßigere Einspeisung statt Spitzen — weniger Netzengpässe, geringere Systemkosten.
 
 ### → [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
-Zöckler zeigt, wie Bürgerbeteiligung die Akzeptanz von Windparks fundamental verändert. Großmanns Klettwitz-Modell (80 €/Einwohner/Jahr Direktausschüttung) ist das praktische Pendant: Beide beantworten dieselbe Frage — wer profitiert? — mit derselben Antwort: die Menschen vor Ort. Der Unterschied: Zöckler denkt in Genossenschaften, Großmann in kommunaler Direktbeteiligung.
+Zöckler zeigt, wie Bürgerbeteiligung die Akzeptanz von Windparks fundamental verändert. Das Klettwitzer Modell (80 €/Einwohner/Jahr Direktausschüttung in den ersten fünf Jahren, von der Gemeinde mit dem Windpark-Investor ausgehandelt) ist das praktische Pendant: Beide beantworten dieselbe Frage — wer profitiert? — mit derselben Antwort: die Menschen vor Ort. Der Unterschied: Zöckler denkt in Genossenschaften, Großmann in kommunaler Direktbeteiligung.
 
 ### → [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
 Sterner belegt wissenschaftlich, dass 2/3 der Wertschöpfung in Windparkregionen lokal bleiben können. Großmann setzt diesen Maßstab mit seinen 2/3 regional vergebenen Aufträgen als bewusstes Designprinzip um — nicht als Nebeneffekt. Beide stoßen gegen dieselbe institutionelle Blockade: ein System, das technische Innovation durch Finanzierungslücken und Bürokratie ausbremst.
@@ -255,7 +255,7 @@ MONITOR dokumentiert, wie fehlender Netzausbau politisch als Bremse für neue Wi
 Beide Notes kreisen um dasselbe ostdeutsche Paradox: Die Lausitz beherbergt ungehobene wirtschaftliche Potenziale — Kupfer unter der Erde, Höhenwind über dem Braunkohle-Abrissgebiet in Klettwitz — während Deutschland Rohstoff- und Energieabhängigkeiten beklagt. In beiden Fällen scheitert die Hebung nicht an der Technologie, sondern an Kapital und Bürokratie.
 
 ### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
-Schwan unterscheidet Herrschaftsmacht (Nullsumme) von Gestaltungsmacht (kooperativ). Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisierte Gestaltungsmacht: Der Staat als Ermöglicher statt Verhinderer. Und seine Bürgerbeteiligung in Klettwitz ist Schwans kommunale Partizipationsidee im Energiesektor, direkt angewandt.
+Schwan unterscheidet Herrschaftsmacht (Nullsumme) von Gestaltungsmacht (kooperativ). SPRIND, wie das Video sie zeigt (laut Erzähler 15 Fragen statt hunderter Seiten Antrag), ist institutionalisierte Gestaltungsmacht: der Staat als Ermöglicher statt Verhinderer. Und das Bürgerstrommodell, das Klettwitz mit dem Investor seines Windparks ausgehandelt hat, ist Schwans kommunale Partizipationsidee im Energiesektor, direkt angewandt.
 
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
 

@@ -334,11 +334,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Kolja-Moeller",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 7,
      "aufrufe": 7
@@ -352,6 +347,11 @@
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 6,
      "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Kolja-Moeller",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -1809,6 +1809,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Susan-Neiman-Nennen-wir-es-boese",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
      "leser": 2,
      "aufrufe": 2
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Shi-Heng-Yi",
      "leser": 2,
      "aufrufe": 2
     }

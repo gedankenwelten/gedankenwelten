@@ -307,7 +307,7 @@ Beide teilen die Überzeugung, dass demokratische Werte aktiv bottom-up gelebt w
 
 ### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
-Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisierte Gestaltungsmacht im Sinne Schwans: Der Staat als Ermöglicher statt Verhinderer. Die Bürgerbeteiligung in Klettwitz ist Schwans kommunale Partizipationsidee im Energiesektor.
+SPRIND, wie das Norio-Video sie zeigt, ist institutionalisierte Gestaltungsmacht im Sinne Schwans: der Staat als Ermöglicher statt Verhinderer, laut Erzähler mit 15 Fragen statt hunderter Seiten Antrag. Jochen Großmann, der den Turm mit SPRIND gebaut hat, klagt, dass der Mittelstand sonst an den Kosten der Pilotanlage scheitert. Das Bürgerstrommodell, das die Gemeinde Klettwitz mit dem Investor ihres Windparks ausgehandelt hat, ist Schwans kommunale Partizipationsidee im Energiesektor.
 
 ### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
 
