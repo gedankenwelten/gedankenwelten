@@ -221,7 +221,7 @@ Kaltheuner und Jung arbeiten explizit mit dem Hype-Begriff. Ihr *AI Directionism
 Der Anthropic-Pentagon-Konflikt als Fallbeispiel für den Skynet-Effekt: KI-Kritik (Open Letters, Anthropics rote Linien) verstärkt paradoxerweise das Allmachts-Narrativ, das den militärischen Hype erst attraktiv macht. Hegseth's Drohung operiert als Regulatory Backlash im Epistemic Control System — als Machtinstrument statt als Korrektiv.
 
 ### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
-Kloiber und Kinyua dokumentieren die realen Konsequenzen von Hype-Risikounterdrückung: Die 150–430 Millionen Data Workers sind genau jene Dimension, die in den Hype-Narrativen systematisch ausgeblendet wird. Neitzel/Iltisbergers drittes Hype-Merkmal (Risikounterdrückung) bekommt hier sein konkretes menschliches Gesicht.
+Kloiber und Kinyua dokumentieren die realen Konsequenzen von Hype-Risikounterdrückung: Die Datenarbeiter, ein Teil der bis zu 430 Millionen Menschen, die laut Weltbank über Online-Plattformen arbeiten, sind genau jene Dimension, die in den Hype-Narrativen systematisch ausgeblendet wird. Neitzel/Iltisbergers drittes Hype-Merkmal (Risikounterdrückung) bekommt hier sein konkretes menschliches Gesicht.
 
 ### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft]]
 Göpels "tyrannische Zahlen" — Metriken, die jeden Rückbezug auf ihre soziale Wirklichkeit verlieren — sind das wirtschaftspolitische Pendant zur Hype-Anatomie. Beide diagnostizieren dasselbe Grundproblem: Indikatoren erzeugen Handlungsdruck, der die eigentlichen Fragen verdrängt. Göpels Future-Thinking-Ansatz ist strukturell analog zu Neitzel/Iltisbergers Future Studies-Plädoyer gegen deterministischen Hype.

@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 140,
-   "aufrufe": 170
+   "leser": 139,
+   "aufrufe": 169
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 41,
-   "aufrufe": 43
+   "leser": 42,
+   "aufrufe": 44
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -149,11 +149,6 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
-   "leser": 7,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
    "leser": 6,
    "aufrufe": 8
@@ -162,6 +157,11 @@
    "pfad": "/DenkerVita/Ralf-Stockmann",
    "leser": 6,
    "aufrufe": 7
+  },
+  {
+   "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
+   "leser": 6,
+   "aufrufe": 6
   },
   {
    "pfad": "/DenkerVita/Hannah-Arendt",
@@ -309,14 +309,14 @@
    "tage": 7,
    "pfade": [
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 19,
-     "aufrufe": 26
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "leser": 20,
+     "aufrufe": 20
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 19,
-     "aufrufe": 19
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "leser": 18,
+     "aufrufe": 25
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 140,
-     "aufrufe": 170
+     "leser": 139,
+     "aufrufe": 169
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 41,
-     "aufrufe": 43
+     "leser": 42,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -759,11 +759,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 6,
      "aufrufe": 8
@@ -772,6 +767,11 @@
      "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 6,
      "aufrufe": 7
+    },
+    {
+     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
@@ -940,8 +940,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 107,
-     "aufrufe": 115
+     "leser": 108,
+     "aufrufe": 116
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1245,8 +1245,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 107,
-     "aufrufe": 115
+     "leser": 108,
+     "aufrufe": 116
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1540,8 +1540,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 33,
-     "aufrufe": 33
+     "leser": 34,
+     "aufrufe": 34
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",

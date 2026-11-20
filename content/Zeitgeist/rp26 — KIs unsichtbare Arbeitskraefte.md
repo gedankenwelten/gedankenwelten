@@ -209,7 +209,7 @@ Julia Kloibers Antwort ist scharf: Die Unternehmen haben Milliarden investiert u
 
 ### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
-Mühlhoffs Kolonialismus-Analogie — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung — ist die theoretische Rahmung genau dessen, was Kloiber und Kinyua empirisch zeigen: Data Workers sind kein Randproblem, sondern die Rohstoff-Basis des KI-Regimes. Mühlhoff liefert die Diagnose (strukturelle Kontinuität), diese Note das Gesicht (150–430 Mio. Menschen).
+Mühlhoffs Kolonialismus-Analogie — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung — ist die theoretische Rahmung genau dessen, was Kloiber und Kinyua empirisch zeigen: Data Workers sind kein Randproblem, sondern die Rohstoff-Basis des KI-Regimes. Mühlhoff liefert die Diagnose (strukturelle Kontinuität), diese Note das Gesicht (bis zu 430 Millionen Menschen arbeiten laut Weltbank über Online-Plattformen, viele davon in der Datenarbeit).
 
 ### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism]]
 
@@ -229,7 +229,7 @@ Die Massenkündigung von 1.100+ Arbeitern nach investigativem Journalismus über
 
 ### → [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
-„So eine KI fällt ja nicht vom Himmel" — dahinter stehen spezifische Produktionsverhältnisse. Diese Note liefert genau das konkrete Hinter-dem-Himmel: 150–430 Mio. Menschen, 18–20 Stunden/Tag, $20/Woche. Beide Notes zusammen: Diagnose (NANO) plus Evidenz (rp26).
+„So eine KI fällt ja nicht vom Himmel" — dahinter stehen spezifische Produktionsverhältnisse. Diese Note liefert genau das konkrete Hinter-dem-Himmel: bis zu 430 Millionen Plattformarbeiter weltweit (Weltbank), darunter Joan Kinyua, die 18 bis 20 Stunden am Tag bereitstand, um wenigstens 20 Dollar die Woche zu verdienen. Beide Notes zusammen: Diagnose (NANO) plus Evidenz (rp26).
 
 ### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
