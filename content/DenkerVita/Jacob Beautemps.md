@@ -108,6 +108,7 @@ ein Maßstab, an dem sich auch Breaking Lab messen lassen muss.
 ## Gedankenwelten-Notes
 
 - [[Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
+- [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft#Was seither geschah|Norio — GICON Höhenwindturm]] — sein Breaking-Lab-Video zum Netzanschluss am 19.11.2026 ist die Quelle für „Was seither geschah“: den Weltrekord, die zweite Etage und das große Aber (3,8 MW, Kosten, offene Betriebsdaten)
 - [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 - [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]] — sein Breaking-Lab-Video zur deutschen Zuckerabgabe 2026 als Brücke von 2021 nach heute
 - [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]] — Auftakt der Reihe zu seinem eigenen Innovationspreis: drei Erfindungen für den harten Kern der Energiewende, jede mit dem Aber der Jury

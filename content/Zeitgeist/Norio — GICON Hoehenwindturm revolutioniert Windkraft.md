@@ -34,7 +34,9 @@ aliases:
 >
 > Seit dem 19. November 2026 ist die Anlage am Netz. Was die Messungen hergeben und was nicht, auch zur Frage, ob es dort oben je windstill wird, steht unter [[#Was seither geschah|Was seither geschah]].
 
-Quelle: [Wahnsinn: Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www.youtube.com/watch?v=kKoYDAMzd4o)
+Quelle: [Wahnsinn: Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www.youtube.com/watch?v=kKoYDAMzd4o) (Norio, Mai 2026)
+
+Quelle für das Update: [365 Meter: Das höchste Windrad der Welt geht in Deutschland ans Netz!](https://www.youtube.com/watch?v=LWQUaGxUmxk) (Breaking Lab, Jacob Beautemps, 19.11.2026) → [[#Was seither geschah|Was seither geschah]] · [[DenkerVita/Jacob Beautemps|DenkerVita]]
 
 > [!info] Wer spricht?
 > **Prof. Dr.-Ing. Jochen Großmann** (*1958, Dresden*) — DDR-sozialisierter Ingenieur, Gründer und Geschäftsführer der GICON-Gruppe (~700 Mitarbeiter, führendes Ingenieurbüro Ostdeutschlands). Studium an der TU Dresden (1978–1982), Promotion 1985 über Automatisierung von Kernkraftwerken, Habilitation 1989. Erste Firmengründung 1989/90, GICON folgte 1994 — legendär: die erste direkt aus dem Krankenhaus nach einer Krebsdiagnose heraus, während Konzerne das Interesse verloren.
