@@ -16,7 +16,7 @@ status: offen
 konfidenz: 45%
 review-takt: 21-tage
 eroeffnet: 2026-10-28
-aktualisiert: 2026-11-15
+aktualisiert: 2026-11-20
 description: "1938 hieß es in Prag „über uns ohne uns“. Diese Spur prüft an den Verhandlungen über die Ukraine, Venezuela und Taiwan, ob die Großen wieder den Rahmen ziehen, bevor die Betroffenen am Tisch sitzen."
 raetsel: "Alle Stühle waren besetzt. Das Land wartete im Flur und hörte durch die Tür."
 ---
@@ -64,6 +64,70 @@ Drei Prüffälle, Stichtag **30.09.2027**.
 Neue Fälle (Sudan, Armenien, Gaza …) werden im Verlauf beobachtet, zählen aber nicht für die Auflösung — sonst wächst die Spur, bis sie nichts mehr prüft.
 
 ## Verlauf
+
+### 2026-11-20 — Shenzhen: eine Erklärung ohne die Ukraine, ein Abend mit zwei Lesarten (Konfidenz 45 % → 45 %)
+
+**Befund:** Am 19.11. saßen Trump, Putin und Xi in **Shenzhen** zum ersten Mal zu dritt am Tisch. Sie
+beschlossen eine gemeinsame „Declaration toward Peace“, gleichlautend veröffentlicht vom
+[Weißen Haus](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/),
+dem [Kreml](http://en.kremlin.ru/supplement/6618) und der
+[chinesischen Regierung](https://english.www.gov.cn/news/202611/19/content_WS6afeda1ac6d00ca5f9a0e790.html). Sie hat
+vier Punkte: eine Reform der UN, stabile Ölflüsse, einen Atomkrieg, der „cannot be won and must never be fought“, und
+den Internationalen Strafgerichtshof. Dieser und „ähnliche Einrichtungen“ dürften ihre Zuständigkeit nicht
+missbrauchen, die Immunität von Staatsvertretern sei „von überragender Bedeutung“. Die Ukraine und Taiwan kommen
+in der Erklärung nicht vor.
+
+Trump sagte am Tisch über den Krieg: *„I think that he and I hope the other side would like to see an end to that
+war“* ([POTUS Tracker, ▶ 8:23](https://www.youtube.com/watch?v=z8jR3uLqJ6w&t=503)); das Kreml-Protokoll setzt den
+mündlich mehrdeutigen Satz als „he, and I hope the other side“. Putin sagte am Abend vor der Presse, die Kompromisse
+habe die amerikanische Seite vorgeschlagen, *„und wir haben diesen Kompromissen unverändert zugestimmt, auch in
+Anchorage“*. Ob die Ukraine und *„ihre
+europäischen Sponsoren“* zustimmen wollten: *„Nach dem, was wir im Moment sehen: nein.“* Später: *„Wir haben ihnen
+zugestimmt, jetzt ist die Ukraine dran.“* Was in den Kompromissen steht, sagte er nicht. Auf die Frage nach einem
+„neuen Jalta“ antwortete er: *„Was war denn schlecht an Jalta?“* Dort habe niemand die Welt in Einflusszonen
+aufgeteilt, Jalta habe die Realitäten nach dem Krieg festgehalten, *„und in den heutigen Konflikten wird man sich
+mit den Realitäten abfinden müssen“* ([Kreml, Wortprotokoll](http://kremlin.ru/events/president/transcripts/81305),
+russisch; die Übersetzungen sind unsere).
+
+Am selben Tag tagte in **Berlin** die Koalition der Willigen, knapp 40 Delegationen, mit Selenskyj und den
+US-Gesandten Witkoff und Kushner ([Bundesregierung](https://www.bundesregierung.de/breg-de/aktuelles/koalition-der-willigen-in-berlin-2461162)).
+Merz nannte Shenzhen *„offenbar vor allem ein Bildtermin“* und sagte: *„Ein Jalta-Format wird den Frieden nicht
+bringen.“* Die Gespräche sollten *„die Ukraine, Russland, die Vereinigten Staaten und Europa umfassen“*, etwa in den
+Emiraten, Ausgangspunkt einer territorialen Verständigung sei die Kontaktlinie. Kushner sagte, Russland habe sich
+bereit erklärt, *„sich an einem multilateralen Format mit den Europäern zu beteiligen“*; Trump *„möchte nichts
+einseitig anderen aufzwingen“*. Selenskyj: *„wir wissen nicht, was sie besprochen haben“*
+([Bundesregierung, Mitschrift](https://www.bundesregierung.de/breg-de/aktuelles/-wir-haben-eine-klare-idee-vom-frieden--2461988)).
+Putin klang am Abend anders: Die Amerikaner bäten *„nachdrücklich, wirklich nachdrücklich“* um die Teilnahme der
+Europäer; man habe sie nach Moskau eingeladen, um ihre Position zu klären, *„danach entscheiden wir, in welchem
+Format“* (Kreml, ebd.). Außenminister Sybiha schrieb: *„Shenzhen is not the Yalta of
+Putin's dreams“* ([Ukrinform](https://www.ukrinform.net/rubric-polytics/4186475-shenzhen-is-not-the-yalta-of-putins-dreams-fm-sybiha-says.html)).
+
+Zu **Taiwan** meldete nur die Staatsagentur Xinhua aus dem Zweiertreffen von Xi und Trump: *„The United States does
+not support "Taiwan independence," Trump said“* ([Xinhua](https://english.news.cn/20261119/37bc6d12436d47de8ed9577a1a8f855a/c.html)).
+Das ist die bisherige Formel, kein „opposes“. Eine Mitteilung des Weißen Hauses zu diesem Treffen gibt es nicht
+([Focus Taiwan, 19.11.](https://focustaiwan.tw/politics/202611190018)). Taipehs Festlandrat nannte die Meldung am
+20.11. „not true“ und verlangt eine Klarstellung aus Washington ([Taiwan News nach UDN](https://www.taiwannews.com.tw/en/news/6478955)).
+
+**Deutung:** Shenzhen hat beide Bewegungen der Spur am selben Tag gezeigt. Putins Satz hat genau die Form der
+linken Spalte bei der Ukraine: ein Rahmen, den Washington vorschlägt und Moskau annimmt, und dem Kyjiw danach
+beitreten soll. Aber es ist seine Darstellung. Washington hat sie nicht bestätigt, ein gemeinsames Papier über die
+Ukraine gibt es nicht, und die Erklärung der drei schweigt zu ihr. Gleichzeitig saßen die amerikanischen Gesandten in
+Berlin mit Selenskyj und den Europäern, und angekündigt ist ein Vierer-Format, das der rechten Spalte näher wäre.
+Dass Moskau darüber erst entscheiden will, nachdem die Europäer nach Moskau gekommen sind, lässt offen, ob es je
+zustande kommt. Bei Taiwan hat sich nichts verschoben: keine Erklärung, und die Formel blieb, was sie war. Die
+Konfidenz bleibt bei 45 %.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Worauf sich die drei geeinigt haben, betrifft ein Gericht, das über Staatsvertreter
+urteilen will, auch über die großer Mächte: Gegen Putin hat der Strafgerichtshof im März 2023 Haftbefehl erlassen
+([Guardian, 19.11.](https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit)).
+Für die Auflösung zählt das nicht, weil es keinen der drei Prüffälle betrifft, ins Bild gehört es trotzdem. **(2)** Trumps Satz über die „andere Seite“ ist mündlich
+mehrdeutig. Wer ihn als „er und ich“ liest, stellt Trump und Putin auf eine Seite; das Kreml-Protokoll liest ihn
+anders. **(3)** Merz' „Bildtermin“ und Sybihas „nicht das Jalta aus Putins Träumen“ sind Deutungen der Betroffenen,
+die ein Interesse daran haben, dass Shenzhen klein bleibt. **(4)** Kushner und Putin sagen über dasselbe Format
+Verschiedenes. Wer recht hat, zeigt erst, ob und mit wem die nächste Runde stattfindet.
+
+**Nächste Station:** ob Europäer nach Moskau reisen und ob die Vierer-Runde (Emirate?) einen Termin bekommt; eine
+amerikanische Klarstellung zur Taiwan-Meldung von Xinhua.
 
 ### 2026-11-15 — Abu Dhabi mit Kyjiw, Shenzhen ohne die Ukraine, Venezuela nach Washingtons Fahrplan (Konfidenz 45 % → 45 %)
 
