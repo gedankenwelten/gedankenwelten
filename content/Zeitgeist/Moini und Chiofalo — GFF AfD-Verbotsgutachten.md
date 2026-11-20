@@ -32,7 +32,7 @@ Quelle: [re:publica 26 — Nach einem Jahr Arbeit ist unser Gutachten zur AfD so
 > [!info] Wer spricht?
 > **Bijan Moini** (*geb. 1984*) — Jurist, Leiter des Legal Teams der Gesellschaft für Freiheitsrechte (GFF), promoviert bei Hans-Jürgen Papier (ehem. Bundesverfassungsrichter). Zuvor Wirtschaftsanwalt in Berlin, Autor des Romans *Der Würfel* (2019). Schwerpunkte: Überwachungsrecht, strategische Grundrechtsklagen gegen BND-Gesetz und automatisiertes Data Mining.
 >
-> **Valentina Chiofalo** — Juristin, Doktorandin an der FU Berlin, Projektleiterin des AfD-Gutachtens bei der GFF. Schwerpunkte: Staatsorganisationsrecht, Reproduktive Rechte, Anti-Diskriminierungsrecht. Mitglied im Deutschen Juristinnenbund (DJB).
+> **Valentina Chiofalo** — Juristin, Doktorandin an der FU Berlin, Mitautorin des AfD-Gutachtens bei der GFF (Leitung: Bijan Moini). Schwerpunkte: Reproduktive Rechte, Anti-Diskriminierungsrecht. Vorsitzende der Kommission Europa- und Völkerrecht im Deutschen Juristinnenbund (djb).
 >
 > **GFF — Gesellschaft für Freiheitsrechte:** 2015 gegründete Bürgerrechtsorganisation nach ACLU-Vorbild. Spendenfinanziert (keine Staatsgelder), bekannte Fälle: BND-Auslandsüberwachung (2020 vom BVerfG für verfassungswidrig erklärt), automatisiertes Data Mining durch Polizei, Klimacamps-Versammlungsrecht. Das AfD-Gutachten wurde durch 18.000 Einzelspenden finanziert.
 >
@@ -66,15 +66,15 @@ Diese Gemengelage — ein strukturell lückenhaftes Behördengutachten, ein geri
 
 ## Methodik: 2 Millionen Datenpunkte, 33.000 händisch geprüft
 
-[▶ 7:38](https://www.youtube.com/watch?v=FpGnlpjD-A4&t=458) — Vor anderthalb Jahren startete die GFF mit einem 12-köpfigen interdisziplinären Team. Nicht nur Rechtswissenschaftler:innen, sondern auch Sozial- und Politikwissenschaftler:innen, ein Datenanalyst und ein Journalist für Tiefenrecherche. Valentina Chiofalo beschreibt die Methodik.
+[▶ 7:38](https://www.youtube.com/watch?v=FpGnlpjD-A4&t=458) — Vor etwa einem Jahr stellte die GFF ein interdisziplinäres Team zusammen. Nicht nur Rechtswissenschaftler:innen, sondern auch Sozial- und Politikwissenschaftler:innen, ein Datenanalyst und ein Journalist für Tiefenrecherche. Valentina Chiofalo beschreibt die Methodik.
 
-Zunächst wurden offizielle Parteidokumente gesichtet: das Grundsatzprogramm von 2016, alle Bundes- und Landeswahlprogramme der letzten Jahre — nicht um die öffentliche Debatte zu spiegeln, sondern um eigene Forschungsschwerpunkte zu identifizieren. Dann begann die eigentliche Datenarbeit: Ca. 2 Millionen Datenpunkte flossen in ein automatisiertes Analysesystem. Darunter: Pressemitteilungen von Bundes- und Landespartei, Social-Media-Kanäle aller Funktionäre (Instagram, TikTok, Facebook), YouTube-Reden mit KI-generierten Transkripten, Interviews in klassischen wie alternativen Medien.
+Zunächst wurden offizielle Parteidokumente gesichtet: das Grundsatzprogramm von 2016, alle Bundes- und Landeswahlprogramme der letzten Jahre — nicht um die öffentliche Debatte zu spiegeln, sondern um eigene Forschungsschwerpunkte zu identifizieren. Dann begann die eigentliche Datenarbeit: Ca. 2 Millionen Datenpunkte flossen in ein automatisiertes Analysesystem. Darunter: Pressemitteilungen von Bundes- und Landespartei, Social-Media-Kanäle aller Funktionäre (Instagram, TikTok, Facebook), YouTube-Reden mit Transkripten, Interviews in klassischen wie alternativen Medien.
 
 Die automatisierte Vorsortierung reduzierte das Material auf 33.000 Datenpunkte, die dann händisch geprüft wurden — jeder Eintrag in 10 bis 30 Sekunden auf Relevanz gesichtet, dann im Kontext verifiziert, gesichert, verschlagwortet, kodiert, verschriftlicht:
 
 > *„Am Ende mussten wir dann noch mal 33.000 Daten händisch prüfen und uns fragen, sind die potenziell für uns relevant oder nicht?"*
 
-Emotional war die Arbeit zermürbend — täglich mit menschenfeindlichen, rassistischen, demokratiefeindlichen Äußerungen konfrontiert zu sein, sie zu verdauen und juristisch zu verarbeiten: *„It was a lot."*
+Zermürbend war die Arbeit auch: Sich jeden Tag mit menschenfeindlichen, rassistischen, demokratiefeindlichen Äußerungen auseinanderzusetzen, sie zu verdauen und juristisch zu verarbeiten, nennt Moini gleich zu Beginn „latent anstrengend“. Chiofalo dankt dem Team, die Inhalte hätten „durchaus mitnehmend“ sein können: *„It was a lot."*
 
 Was diese Methodik von früheren Ansätzen unterscheidet: Erstmals werden Parlamentsvorgänge auf Bundes- und Landesebene sowie alle Landesverbände systematisch einbezogen. Eine echte Gesamtschau der Partei — wie sie bisher nicht existierte.
 
@@ -170,7 +170,7 @@ Ende Juni 2026 soll das Ergebnis veröffentlicht werden.
 > Das BVerfG urteilte am 19. Mai 2020 (Az. 1 BvR 2835/17): Die strategische Ausland-Ausland-Fernmeldeaufklärung des BND verstößt gegen Art. 10 GG und Pressefreiheit. Quelle: [BVerfG — Urteil vom 19. Mai 2020](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2020/bvg20-037.html)
 
 > [!success] Bestätigt — GFF-Spendenkampagne mit 18.000 Einzelspenden
-> Die GFF startete die Kampagne mit Unterstützung von Volksverpetzer, IREF und anderen Organisationen. Quelle: [GFF AfD-Gutachten Projektseite](https://freiheitsrechte.org/themen/demokratie/afd-gutachten)
+> Die GFF startete die Kampagne mit Unterstützung von Volksverpetzer, innn.it und anderen Organisationen. Quelle: [GFF AfD-Gutachten Projektseite](https://freiheitsrechte.org/themen/demokratie/afd-gutachten)
 
 ---
 
@@ -217,7 +217,7 @@ Das Gutachten ringt juristisch mit dem, was diese Note analytisch aufdeckt: Remi
 
 ### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
-Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini/Chiofalo das AfD-Verbotsgutachten — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben strategischen Prozessführungslogik.
+Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini und Chiofalo das AfD-Verbotsgutachten — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben strategischen Prozessführungslogik.
 
 ### → [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
@@ -242,7 +242,7 @@ Wozu diese Methodik gut ist, zeigt sich dort im Einwand von Hasnain Kazim: Er ha
 
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Wenn ein Parteiverbot das *schärfste Schwert des Staates* ist — *wäre es dann nicht genau das Instrument, das eine verfassungswidrige Partei am meisten fürchten sollte, und warum scheint die AfD es eher als Wahlkampfmunition zu begrüßen?*
-> - Moini und Chiofalo betonen, dass aus dem Remigrations-Begriff juristisch keine Bedrohung für Deutsche mit Migrationshintergrund abgeleitet werden kann — *ist diese juristische Zurückhaltung Redlichkeit oder eine strukturelle Blindheit des Rechts gegenüber politischer Dog-Whistle-Kommunikation?*
+> - Moini betont, dass aus dem Remigrations-Begriff juristisch keine Bedrohung für Deutsche mit Migrationshintergrund abgeleitet werden kann — *ist diese juristische Zurückhaltung Redlichkeit oder eine strukturelle Blindheit des Rechts gegenüber politischer Dog-Whistle-Kommunikation?*
 > - Die GFF ist zivilgesellschaftlich durch 18.000 Kleinspender finanziert — *was sagt es über den Staat aus, dass diese Grundlagenarbeit nicht von staatlichen Institutionen geleistet wird?*
 > - Wenn das Ergebnis sein sollte, dass die AfD *nicht* verboten werden kann — *welche anderen demokratischen Abwehrinstrumente blieben dann, und wer hätte die Pflicht, sie zu nutzen?*
 > - Die Meinungsfreiheit schützt auch einen ethnischen Volksbegriff — *gibt es Konzepte, die so fundamental mit der Verfassung unvereinbar sind, dass man sie trotzdem nicht verbieten kann, und was macht das mit dem Rechtsstaat?*

@@ -55,7 +55,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Sigl-Glöckne
 Quelle: [Philippa Sigl-Glöckner, Patrick Kaczmarczyk, Maja Göpel & Wolfgang M. Schmitt: Geld ist genug da?](https://www.youtube.com/watch?v=WMQpHFJWIZk) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026
 
 > [!info] Wer spricht?
-> **Philippa Sigl-Glöckner** (*1990, München*) — Ökonomin, Gründungsdirektorin der Berliner Denkfabrik **Dezernat Zukunft**. Studierte PPE in Oxford und Informatik in London, beriet das liberianische Finanzministerium, arbeitete 2018–2020 im Bundesfinanzministerium. 2025/26 Mitglied der Expertenkommission zur Reform der Schuldenbremse; ihr Buch *Gutes Geld* (2024) erhielt den Hans-Matthöfer-Preis. SPD, Co-Vorsitzende des Wirtschaftspolitischen Beirats.
+> **Philippa Sigl-Glöckner** (*1990, München*) — Ökonomin, Mitgründerin und seit 2020 Direktorin der Berliner Denkfabrik **Dezernat Zukunft**. Studierte PPE in Oxford und Informatik in London, beriet das liberianische Finanzministerium, arbeitete 2018–2020 im Bundesfinanzministerium. 2025/26 Mitglied der Expertenkommission zur Reform der Schuldenbremse; ihr Buch *Gutes Geld* (2024) erhielt den Hans-Matthöfer-Preis. SPD, Co-Vorsitzende des Wirtschaftspolitischen Beirats.
 >
 > → [[DenkerVita/Philippa Sigl-Gloeckner|DenkerVita]]
 >
@@ -73,7 +73,7 @@ Quelle: [Philippa Sigl-Glöckner, Patrick Kaczmarczyk, Maja Göpel & Wolfgang M.
 
 ### Die Fußnote von Maastricht
 
-[▶ 3:11](https://www.youtube.com/watch?v=WMQpHFJWIZk&t=191) — Die Geschichte beginnt 2015 in Monrovia. Liberia, vom Bürgerkrieg zerstört, gerade aus der Ebola-Krise heraus, hat kaum asphaltierte Straßen. Jede neue Straße bindet einen Landesteil an die Hauptstadt und damit an die Wirtschaft. Sigl-Glöckner arbeitet im Finanzministerium, eine Stiftung zahlt ihr Gehalt, sie glaubt, sie habe erst einmal Zeit zum Einlesen. Am ersten Tag steht der Finanzminister in ihrer Tür und fragt, wie viele Schulden er aufnehmen darf. Sie schlägt in den Lehrbüchern nach und kommt mit der europäischen Antwort zurück: 60 Prozent der Wirtschaftsleistung. Warum? Weil es in Europa so ist.
+[▶ 3:11](https://www.youtube.com/watch?v=WMQpHFJWIZk&t=191) — Die Geschichte beginnt 2015 in Monrovia. Liberia, vom Bürgerkrieg zerstört, gerade aus der Ebola-Krise heraus, hat kaum asphaltierte Straßen. Jede neue Straße bindet einen Landesteil an die Hauptstadt und damit an die Wirtschaft. Sigl-Glöckner arbeitet im Finanzministerium, eine Stiftung zahlt ihr Gehalt, sie glaubt, sie habe erst einmal Zeit zum Einlesen. Gleich am Anfang steht der Finanzminister in ihrer Tür und fragt, wie viele Schulden er aufnehmen darf. Sie schlägt in den Lehrbüchern nach und kommt mit der europäischen Antwort zurück: 60 Prozent der Wirtschaftsleistung. Warum? Weil es in Europa so ist.
 
 [▶ 4:41](https://www.youtube.com/watch?v=WMQpHFJWIZk&t=281) — Der Minister sieht sie entgeistert an. Jede Straße, die an dieser Grenze scheitert, heißt: Kinder, die sterben, Chancen, die ausbleiben. Er brauche etwas Besseres. Sie selbst zieht daraus den Satz:
 

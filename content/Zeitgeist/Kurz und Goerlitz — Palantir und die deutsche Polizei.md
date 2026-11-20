@@ -212,7 +212,7 @@ Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf legale
 
 ### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
-Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini/Chiofalo leiten das AfD-Verbotsgutachten — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben Rechtsschutzlogik.
+Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini leitet das AfD-Verbotsgutachten, Chiofalo schreibt es mit — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben Rechtsschutzlogik.
 
 ### → [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
 

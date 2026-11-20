@@ -359,7 +359,7 @@ Geprüft wurden beide Sprecher mit demselben Maßstab — der Erzähler des Vide
 
 ### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
 
-Einspruch gegen die MMT aus dem eigenen Lager: Sigl-Glöckner lehnt die Jobgarantie ab, weil der Staat als einziger Arbeitgeber zum Monopolisten wird, dem gegenüber man schwächer ist als gegenüber jedem Unternehmen. Ihr Liberia-Beispiel — ein Kredit in Dollar, die das Land nicht drucken kann — zeigt, wo das Argument vom währungssouveränen Staat an seine Grenze kommt.
+Einspruch gegen die MMT aus dem eigenen Lager: Sigl-Glöckner lehnt die Jobgarantie ab, weil man dem Staat dann wie einem Monopolisten gegenüberstünde: „Es gibt niemand gegenüber im Land, dem ich schwächer bin gegenüber als im Staat.“ Ihr Liberia-Beispiel — ein Kredit in Dollar, die das Land nicht drucken kann — zeigt, wo das Argument vom währungssouveränen Staat an seine Grenze kommt.
 
 ### → [[Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
 

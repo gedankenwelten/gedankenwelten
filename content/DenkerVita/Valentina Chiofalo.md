@@ -1,8 +1,9 @@
 ---
 title: Valentina Chiofalo — DenkerVita
-description: "Die Berliner Juristin Valentina Chiofalo leitete das GFF-Gutachten zu einem AfD-Verbot, gestützt auf zwei Millionen Datenpunkte, und denkt reproduktive Rechte als Frage der Verfassung."
+description: "Die Berliner Juristin Valentina Chiofalo schrieb das GFF-Gutachten zur AfD mit, trennt, was man über eine Partei denkt, von dem, was sich nachweisen lässt, und forscht zu reproduktiven Rechten."
 date: 2026-05-20
 aktualisiert: 2026-05-20
+raetsel: "Erst kommen drei Millionen Äußerungen. Dann die Frage, welche davon trägt."
 tags: [denker-vita, recht, demokratie, deutschland, feminismus, antidiskriminierung]
 ---
 
@@ -12,40 +13,27 @@ tags: [denker-vita, recht, demokratie, deutschland, feminismus, antidiskriminier
 
 <details><summary>🎨</summary>
 
-**Emma Kunz** — Schweizer Pendel-Geometrie auf Millimeterpapier, radiale Symmetrie, heilende Ordnung aus dem Chaos, feine Bleistift- und Farblinien. Eine Frauen-Pionierin der präzisen Diagramm-Kunst für die Projektleiterin des Gutachtens, die *Muster aus einer Flut* zieht: Die dunkle Schwarm-Flut links (2 Mio. Datenpunkte, täglich menschenfeindliches Material — „*It was a lot*") löst sich nach rechts in eine radiale Ordnung auf (die 33.000 händisch geprüften Belege, kodiert), mit der mandelförmigen Schutz-Mitte für ihr Feld — reproduktive Rechte und Menschenwürde.
+**Emma Kunz** — Schweizer Pendel-Geometrie auf Millimeterpapier, radiale Symmetrie, heilende Ordnung aus dem Chaos, feine Bleistift- und Farblinien. Eine Frauen-Pionierin der präzisen Diagramm-Kunst für eine Mitverfasserin des Gutachtens, die *Muster aus einer Flut* zieht: Die dunkle Schwarm-Flut links (Millionen Datenpunkte — „*It was a lot*") löst sich nach rechts in eine radiale Ordnung auf (die 33.000 händisch geprüften Belege, kodiert), mit der mandelförmigen Schutz-Mitte für ihr Feld — reproduktive Rechte und Menschenwürde.
 
 *Prompt:* A wide 1200×500 banner in the meticulous pendulum-diagram manner of Emma Kunz — drawn on pale warm graph paper, a fine measured grid covering the whole surface, delicate hand-ruled lines in pencil grey, deep red, muted teal and ochre. On the left third, a dense chaotic swarm of tiny dark irregular marks and fragments scatters across the grid — overwhelming, unordered raw material. Moving rightward, these marks gradually resolve and align into a large symmetrical radial figure: fine straight lines fanning from a central point into a calm geometric star-mandala, order drawn out of the flood. At the exact center sits a small protective almond-shaped form (a mandorla / seed), outlined cleanly and gently luminous, held within concentric rings. A few single threads of warm red run from the chaotic field into the ordered figure, as if carried by hand with care. Everything precise, patient, quiet, healing, hand-measured. No realistic faces, no portrait, no text, no photorealism.
 
 </details>
 
-## Biographischer Snapshot
-
-> [!info] Wer spricht?
-> **Valentina Chiofalo** (*geb. 1991*) — Juristin (Volljuristin) und Doktorandin an der Freien Universität Berlin. Schwerpunkte: Staatsorganisationsrecht, verfassungsvergleichende Studien zu Identitätspolitik, Antidiskriminierungsrecht, reproduktive Rechte und Schwangerschaftsabbruchrecht. Seit ca. 2024 Projektleiterin des GFF-AfD-Gutachtens, Vorsitzende der Kommission Europa- und Völkerrecht im Deutschen Juristinnenbund (DJB), Mitherausgeberin des OpenRewi-Lehrbuchs *Staatsorganisationsrecht* (2022). Research Associate am Lehrstuhl für öffentliches Recht und Europarecht an der FU Berlin.
-
----
-
 ## Biografie
 
-Valentina Chiofalo wird 1991 geboren — in eine Generation hinein, in der die klassischen Kategorien von Geschlecht, Familie und Citizenship ins Wanken geraten. Ihr Weg führt sie nach Berlin, wo sie Rechtswissenschaft studiert. Die Wahl ist bewusst: Berlin ist nicht bloß eine Universität, sondern ein Zentrum juristischer Innovation und zivilgesellschaftlicher Auseinandersetzung.
+*Grundlage sind ihre Profile bei der Gesellschaft für Freiheitsrechte und beim Deutschen Juristinnenbund, die Seiten der Freien Universität, das Impressum des AfD-Gutachtens, der Normdatensatz der Deutschen Nationalbibliothek, ihre Texte im Verfassungsblog und im JuWissBlog, ihre Stellungnahme für den Bundestag, das taz-Interview von 2022 und unsere Transkripte der re:publica 26 und der Bundespressekonferenz. Am 20.11.2026 neu geprüft.*
 
-Nach dem Studium absolviert sie ihr Referendariat in Berlin — nicht als bloße Pflichtkassa, sondern als Zeit der Spezialisierung. Sie arbeitet am Lehrstuhl für öffentliches Recht und Europarecht an der FU Berlin, wo die großen Fragen der Verfassungstheorie nicht theoretisch bleiben, sondern in konkreten Forschungsprojekten operationalisiert werden.
+**Valentina Chiofalo** (geboren 1991, laut [djb](https://www.djb.de/ueber-uns/team/valentina-chiofalo)) ist Volljuristin bei der Gesellschaft für Freiheitsrechte (GFF) in Berlin, dort heute Verfahrenskoordinatorin im Schwerpunkt Gleiche Rechte und Soziale Teilhabe. Vorher war sie eine der Autorinnen des AfD-Gutachtens der GFF ([GFF](https://freiheitsrechte.org/ueber-die-gff/team/valentina-chiofalo)).
 
-Ihr Promotionsthema ist charakteristisch: verfassungsvergleichende Untersuchung der Frage, wie identitätspolitische Überlegungen in deutscher, US-amerikanischer und europäischer Verfassungsrechtlichkeit verankert sind. Das ist keine abstrakte Dogmatik — es ist die Frage nach dem Verhältnis zwischen Verfassung und Differenz, zwischen Recht und Macht, zwischen universalistischen Versprechen und partikularistischen Realitäten.
+**Studium und Forschung.** Sie studierte in Berlin Rechtswissenschaft und machte dort auch das Referendariat; eine Station lag bei der Ombudsstelle für das Berliner Landesantidiskriminierungsgesetz (Hinweis unter ihrem [Verfassungsblog-Beitrag](https://verfassungsblog.de/author/valentina-chiofalo/) von 2023). An der Freien Universität Berlin promoviert sie verfassungsvergleichend zu der Frage, ob sich identitätspolitische Überlegungen im deutschen, US-amerikanischen und europäischen Verfassungsrecht wiederfinden lassen. Ihre weiteren Schwerpunkte sind das Antidiskriminierungsrecht und reproduktive Rechte, vor allem der Schwangerschaftsabbruch (GFF). Eine Zeit lang war sie Wissenschaftliche Mitarbeiterin am Lehrstuhl von Christian Calliess an der FU; dort führt man sie heute unter den Ehemaligen ([FU Berlin](https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/calliessc/Mitarbeiterinnen-und-Mitarbeiter/Ehemalige_Mitarbeiterinnen-und-Mitarbeiter/index.html)).
 
-Ihre Spezialisierung macht sie zur idealen Besetzung für das größte GFF-Projekt der jüngeren Jahre: 2024 wird Chiofalo Projektleiterin des **GFF-AfD-Gutachtens**. Hier ist sie nicht theoretische Forscherin, sondern Praktikerin einer bestimmten Form juristischen Handelns: Grundlagenforschung zu Verfassungsfragen, die unmittelbar politisch werden. Ein Team von zwölf Personen unter ihrer Leitung analysiert über zwei Jahre hinweg 2 Millionen Datenpunkte — Parteiprogramme, Reden, Social-Media-Äußerungen, Wahlprogramme — um eine Antwort auf die zentrale Frage zu finden: Ist die AfD verfassungswidrig?
+**Ein offenes Lehrbuch.** Mit Jaschar Kohal und Louisa Linke gab sie 2022 das Lehrbuch *Staatsorganisationsrecht* heraus, geschrieben von einem Team aus 17 Autorinnen und Autoren im Verein OpenRewi, erschienen bei De Gruyter, kostenlos und offen lizenziert ([OpenRewi](https://openrewi.org/lehrbuch-zum-staatsorganisationsrecht-erschienen/)). „Wir, der OpenRewi-Verein, fühlen uns der Förderung von Open Access-Veröffentlichungen verpflichtet“, schreiben die drei ([JuWissBlog 51/2022](https://www.juwiss.de/51-2022/)).
 
-Parallel zu dieser Schwerpunktarbeit verankert sich Chiofalo in der wissenschaftlichen Gemeinschaft: Sie ist Co-Herausgeberin des **OpenRewi-Lehrbuchs *Staatsorganisationsrecht*** (2022) — ein Projekt, das das klassische kanonische Lehrbuch durch kollaborative, offene Wissensproduktion ersetzt. Das ist nicht nur eine Publikationsentscheidung, sondern eine grundsätzliche: Juristisches Wissen soll nicht Monopol der etablierten Verlage sein, sondern öffentlich zugänglich.
+**Im Juristinnenbund und vor dem Bundestag.** Mitglied im Deutschen Juristinnenbund (djb) ist sie seit 2019, seit 2023 Vorsitzende seiner Kommission Europa- und Völkerrecht ([djb](https://www.djb.de/ueber-uns/team/valentina-chiofalo)). 2022 gehörte sie dort auch der Arbeitsgruppe Schwangerschaftsabbruch an ([taz](https://taz.de/Juristinnen-ueber-Abtreibungs-Regelung/!5896906/)). Am 18. Mai 2022 sprach sie als Sachverständige im Rechtsausschuss des Bundestags zur Streichung des Werbeverbots für Schwangerschaftsabbrüche (§ 219a StGB), für den Verein Doctors for Choice, in dessen Legal Team sie mitarbeitete ([Doctors for Choice](https://doctorsforchoice.de/2022/05/offentliche-anhorung-zum-219a-stgb/)). In ihrer schriftlichen Stellungnahme begrüßt sie die Streichung und argumentiert mit der Versorgungslage, mit der Berufsfreiheit der Ärztinnen und Ärzte und mit den sozialen Hürden, die einen Abbruch erschweren ([Bundestag, PDF](https://www.bundestag.de/resource/blob/895692/5ce7365334433e90219ba22df698612f/Stellungnahme-Chiofalo_Dfc-data.pdf)). Am Buch *Jura not alone* (2024) von Nora Markard und Ronen Steinke arbeitete sie mit, zusammen mit Eva Maria Bredler ([DNB](https://lobid.org/resources/99375188274906441)).
 
-Daneben verankert sie sich auch **institutionell-feminist**: Seit mehreren Jahren ist Chiofalo **Vorsitzende der Kommission Europa- und Völkerrecht im Deutschen Juristinnenbund (DJB)** — einer der einflussreichsten Frauen-Juristinnenverbände Deutschlands. Der DJB ist nicht bloß ein Networking-Verein, sondern ein Ort, wo juristische und feministische Agenda zusammenfallen: Stellungnahmen zu Abtreibungsrecht, Sorgerecht, Antidiskriminierung, geschlechtlicher Gewalt.
+**Das AfD-Gutachten.** Anfang 2025 entschied die GFF, die Frage, ob die AfD verfassungswidrig ist, in einem eigenen Gutachten zu prüfen, finanziert von über 20.000 Spenderinnen und Spendern; das Team arbeitete dreizehn Monate daran. Geleitet hat es Bijan Moini, der Legal Director der GFF; Chiofalo ist eine von sieben Autorinnen und Autoren ([Impressum des Gutachtens, PDF](https://freiheitsrechte.org/uploads/publications/Demokratie/GFF_AfD-Gutachten.pdf)). Das Team mischte Jura mit Soziologie, Ethnologie, Datenanalyse und Recherche. Im Mai 2026, auf der re:publica, stellte sie die Methode vor: Zuerst las das Team Grundsatz- und Wahlprogramme, um die Schwerpunkte zu finden, dann kamen rund zwei Millionen Datenpunkte bis dahin, aus Pressemitteilungen, Partei-Kanälen, Reden und den Konten von Funktionärinnen und Funktionären, davon 33.000 von Hand geprüft. Das fertige Gutachten erschien am 25. Juni 2026 und stützt sich auf 3.060.680 Datenpunkte. Es kommt zu dem Schluss, dass die AfD verfassungswidrig ist und ein zulässiger Verbotsantrag wahrscheinlich Erfolg hätte; Christoph Möllers, Bevollmächtigter in den letzten beiden Verbotsverfahren gegen die NPD, und die Parteienrechtlerin Sophie Schönberger bestätigten Methode und Ergebnisoffenheit ([GFF](https://freiheitsrechte.org/themen/starke-grundrechte-fuer-eine-lebendige-demokratie/afd-gutachten)). In der Bundespressekonferenz stellten es Dana-Sophia Valentiner und Moini vor, Chiofalo sprach dort nicht.
 
-Ihre Publikationen konzentrieren sich auf zwei Kerngebiete:
-- **Reproduktive Rechte:** Sie arbeitet mit dem Konzept der *reproductive justice*, das ursprünglich aus Schwarzer US-amerikanischer Bewegungsarbeit kommt — das Recht auf Fortpflanzung, das Recht *gegen* Fortpflanzung, und das Recht auf würdevolle Elternschaft. Ihr Fokus liegt besonders auf Schwangerschaftsabbruch und der juristischen Architektur, die Zugang ermöglicht oder blockiert.
-- **Antidiskriminierungsrecht:** Hier interessiert sie die **intersektionale Dimension** — nicht nur, wie Menschen aufgrund eines Merkmals diskriminiert werden, sondern wie Diskriminierung sich für Menschen *mehrfacher* stigmatisierter Kategorien verdichtet (z.B. Frauen mit Migrationshintergrund im Kontext von Abtreibungszugang).
-
-Die **taz** veröffentlichte ein Gespräch mit ihr zum Thema Abtreibungsrecht, wo Chiofalo die juristische Blindheit gegenüber Fragen der *Freiheit über die Reproduktion* nachweist — ein zentraler Gedanke, der in ihre DJB-Arbeit fließt.
-
-Im Kern: Chiofalo ist nicht Privatrechtlerin — sie arbeitet nicht an Verträgen oder Erbschaften. Sie arbeitet an den fundamentalen Fragen: Wie regelt das Verfassungsrecht das Zusammenleben? Welche Identitäten und Körper anerkennt es, welche unsichtbar macht es? Und wie kann juristische Grundlagenarbeit das ändern?
+Seither erklärt sie das Gutachten öffentlich: im Podcast *Gilda con Arne*, bei Momentmal, als Sachverständige im Thüringer Landtag am 30. September 2026, auf den Frankfurter Römerberggesprächen am 24. Oktober 2026 im Gespräch mit Uwe Volkmann ([Römerberggespräche](https://roemerberggespraeche-ffm.de/referenten/valentina-chiofalo/)). Stand November 2026.
 
 ---
 
@@ -53,74 +41,88 @@ Im Kern: Chiofalo ist nicht Privatrechtlerin — sie arbeitet nicht an Verträge
 
 | Titel | Jahr | Beschreibung |
 |---|---|---|
-| [*Staatsorganisationsrecht* (Co-Herausgeberin, mit Kohal & Linke)](https://www.genialokal.de/Suche/?q=staatsorganisationsrecht+chiofalo) | 2022 | OpenRewi-Lehrbuch; Kollaborativ erstellte Darstellung des deutschen Verfassungsorganisationsrechts. Radikale Alternative zu klassischen Lehrbuchmonopolen — kostenfrei digital, Open Source. |
-| *Sozioökonomische Perspektive auf Intersektionalität am Beispiel des Zugangs zum Schwangerschaftsabbruch* | 2022 | Artikel in JuWissBlog; Analyse der Diskriminierungsdimension bei Abtreibungszugang — nicht nur Zugang als abstraktes Recht, sondern als Klassenfrage. |
-| *Schriftliche Stellungnahme zur Anhörung zum Werbeverbot für den Schwangerschaftsabbruch (§ 219a StGB)* | 2022 | Offizielle Stellungnahme zum Bundestag; juristische Kritik am Werbeverbotsparagraf als Verstoß gegen Informationsfreiheit und Antidiskriminierung. |
-| Verschiedene Beiträge zu Antidiskriminierung und Recht | Laufend | Publikationen in der Kritischen Justiz, DJB-Positionen, JuWissBlog — insbesondere zu reproduktiven Rechten und intersektionaler Diskriminierung. |
-| GFF-AfD-Gutachten (Projektleitung) | 2026 | Umfassende verfassungsrechtliche Analyse zur Frage der Vereinbarkeit der AfD-Politik mit Art. 21 II GG. Methodisch: 2 Millionen Datenpunkte, 33.000 händisch geprüft. |
+| [*Staatsorganisationsrecht. Klausur- und Examenswissen*](https://www.degruyter.com/document/doi/10.1515/9783110786965/html) (Hrsg. mit Jaschar Kohal und Louisa Linke) | 2022 | OpenRewi-Lehrbuch bei De Gruyter, frei zugänglich; sie ist zugleich Autorin. Druckausgabe über [genialokal](https://www.genialokal.de/Suche/?q=staatsorganisationsrecht+chiofalo). |
+| [Ist die Alternative für Deutschland verfassungswidrig?](https://freiheitsrechte.org/uploads/publications/Demokratie/GFF_AfD-Gutachten.pdf) (GFF, Leitung Bijan Moini; Mitautorin) | 2026 | Gutachten nach Art. 21 Abs. 2 GG, 25.06.2026, CC BY 4.0. |
+| [Schriftliche Stellungnahme zur Anhörung zum Werbeverbot für den Schwangerschaftsabbruch](https://www.bundestag.de/resource/blob/895692/5ce7365334433e90219ba22df698612f/Stellungnahme-Chiofalo_Dfc-data.pdf) | 2022 | Für Doctors for Choice Germany, Rechtsausschuss des Bundestags, 18.05.2022. |
+| [Sozioökonomische Perspektive auf Intersektionalität am Beispiel des Zugangs zum Schwangerschaftsabbruch](https://www.juwiss.de/43-2022/) (mit Selen Yakar) | 2022 | JuWissBlog 43/2022. Der Zugang zum Abbruch als Frage von Armut und Struktur, nicht nur der Entscheidungsfreiheit. |
+| [Ein (begrenzter) Grund zur Freude? Der Referentenentwurf zur Streichung des § 219a StGB](https://www.juwiss.de/06-2022/) | 2022 | JuWissBlog 6/2022. |
+| Beiträge im [Verfassungsblog](https://verfassungsblog.de/author/valentina-chiofalo/) | 2022–2023 | „Frauen ohne Privatsphäre“ (2022), „Identitätspolitik als emanzipatorisches Instrument in der Debatte um den Schwangerschaftsabbruch“ (2022), „Für eine Zeitenwende im Abtreibungsrecht“ (2023, mit Eva Maria Bredler), „Weil wir dich fürchten“ (2023, über rassistische Diskriminierung bei Fahrkartenkontrollen). |
+| Schwerpunktheft „Reproduktive Rechte“, *Kritische Justiz* 1/2023 (mit Eva Maria Bredler) | 2023 | Laut djb; das Heft selbst haben wir nicht eingesehen. |
+| *Jura not alone* (Nora Markard, Ronen Steinke; unter Mitarbeit von Eva Maria Bredler und Valentina Chiofalo) | 2024 | Campus. [genialokal](https://www.genialokal.de/Suche/?q=jura+not+alone) |
 
 ---
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [re:publica 26 — GFF-AfD-Gutachten Panel mit Bijan Moini & Valentina Chiofalo](https://www.youtube.com/watch?v=FpGnlpjD-A4) — Die Methodologie des Gutachtens, Prüfkriterien nach Art. 21 II GG, Diskussion der Zurechnung von Partei-Äußerungen
-- [DJB Bundeskongress 2025 — Valentina Chiofalo spricht zu reproduktiven Rechten](https://www.djb.de/bundeskongress-25/vorstellung-referentinnen/chiofalo-valentina) — Funktion und Perspektive der Kommission Europa- und Völkerrecht
-- [taz-Interview: Juristinnen über Abtreibungs-Regelung](https://taz.de/Juristinnen-ueber-Abtreibungs-Regelung/!5896906/) — Artikel zu reproduktiven Freiheitsrechten; zeigt Chiofalos öffentliche Positionierung
-
-*(Hinweis: Chiofalo tritt seltener als einzelne public intellectual auf — ihre Arbeit ist primär projektbezogen und kollaborativ; ihre öffentliche Stimme vernehmt man vor allem in den Kontexten GFF, DJB und Open-Science-Initiativen)*
+- [re:publica 26: Nach einem Jahr Arbeit ist unser Gutachten zur AfD so gut wie fertig!](https://www.youtube.com/watch?v=FpGnlpjD-A4) (19.05.2026, mit Bijan Moini) — Grundlage unserer Note. Sie stellt Team, Methode und die Prüfungsschwerpunkte vor, Moini die rechtlichen Maßstäbe.
+- [Gilda con Arne #40: Die AfD ist verfassungswidrig – und jetzt?](https://www.youtube.com/watch?v=3cmiZnbm9UY) (01.07.2026) — Gespräch kurz nach der Veröffentlichung.
+- [Momentmal: 15 Fragen zur Verfassungswidrigkeit der AfD](https://www.youtube.com/watch?v=IpKpJdVi5ws) (15.07.2026) — Interview, die Fragen stellt die Redaktion.
+- [HU-BB-Gespräche: Soll die AfD verboten werden?](https://www.youtube.com/watch?v=IScrWhZhz_8) (Humanistische Union Berlin-Brandenburg, 09/2026).
+- [Anhörung im Thüringer Landtag zum möglichen AfD-Verbotsverfahren](https://www.youtube.com/watch?v=lECK4UKPDSc) (30.09.2026, Mitschnitt eines regionalen Kanals; kurzer Ausschnitt bei [ntv](https://www.youtube.com/watch?v=BuWv3CtnanY)).
+- [Last Exit Karlsruhe – lässt sich die Demokratie durch ein Verbotsverfahren retten?](https://www.youtube.com/watch?v=HfY3gAsCaH0) (60. Römerberggespräche, 24.10.2026, mit Uwe Volkmann).
+- Früher zum Schwangerschaftsabbruch: [Podium bei Canan Bayram](https://www.youtube.com/watch?v=khN1q84g1Qs) (07/2022) · [Dissens-Podcast #280](https://www.youtube.com/watch?v=ziUTcGkshCQ) (10/2024).
 
 ---
 
 ## Kernthesen
 
-1. **Verfassungsvergleichung ist konkrete Praxis, nicht Akademie.** Die Frage, wie andere Verfassungen (USA, Europäische Union) mit Identitätspolitik umgehen, ist nicht theoretisch — sie bestimmt, wie deutsche Gerichte später urteilen. Verfassungsvergleichung ist eine Form strategischer Grundlagenarbeit.
+1. **Was man denkt, ist noch nicht nachgewiesen.** Auf der re:publica: „Es gibt einen Unterschied zwischen dem, was wir und viele von uns denken, was die AfD tun würde, und dem, was juristisch nachweisbar ist“ (▶ 22:08). Eine Grundtendenz entscheide sich nicht am Zählen: „Das ist kein Nummernspiel. Es geht natürlich um die Qualität der Äußerung und wer es gesagt hat, aber es braucht natürlich eine signifikante Masse“ (▶ 22:53). Ihr Beispiel ist eine Äußerung des Abgeordneten Moosdorf, die ohne Wiederholung blieb, und darum „keine Grundtendenz“ (▶ 23:39).
 
-2. **Intersektionalität ist kein Schlagwort, sondern juristische Notwendigkeit.** Wenn eine Frau mit Migrationshintergrund schwanger ist und keinen Zugang zu Informationen über Abtreibung hat, ist das nicht zwei separate Diskriminierungen (eine auf Basis Geschlecht, eine auf Basis Herkunft) — es ist eine verdichtete Erfahrung, die neue juristische Kategorien braucht.
+2. **Im Zweifel für die Partei.** Ergebnisoffen hieß im Team, die 33.000 von Hand gesichteten Datenpunkte nicht nur als belastende, sondern „vielleicht auch“ als „entlastende“ Belege zu prüfen (▶ 8:25). Waren sie sich bei einem rechtlichen oder tatsächlichen Punkt nicht einig, galt die Regel, „dass wir zugunsten der AfD entscheiden, um so die Überzeugungskraft ganz grundsätzlich zu stärken“ (Momentmal, ▶ 6:06). Die Verharmlosung als Strategie der AfD bestreitet sie nicht, aber das bedeute nicht, „dass bei jeder ambivalenten offenen Äußerung das zu Lasten der AfD ausgelegt wird“ (re:publica, ▶ 23:39).
 
-3. **Reproduktive Rechte sind Verfassungsfragen.** Der Zugang zu Schwangerschaftsabbruch, zu Verhütung, zur Elternschaft ist nicht eine Frage der Privatautonomie, die unter "Menschenwürde" und "informationelle Selbstbestimmung" fällt — es ist eine Frage der **politischen Verfügung über weibliche Körper**. Juristisch heißt das: zentral verfassungsrechtlich.
+3. **Ideologie allein ist kein Verbotsgrund.** „So ekelhaft der Volksbegriff als solcher sein mag, ist der grundsätzlich erstmal von der Meinungsfreiheit gedeckt.“ Für ein Verbot müssten Maßnahmen daran anknüpfen (re:publica, ▶ 17:35). Begründet werden müsse so, dass auch Kritikerinnen sagen: „Okay, das macht Sinn“ (▶ 19:06). Am meisten überrascht habe sie der Befund zur Demokratiefeindlichkeit (Momentmal, ▶ 3:59). Vor dem Thüringer Landtag: „Die AfD möchte Politikerinnen anderer Parteien strafrechtlich verfolgen“, dafür gebe es „mehr als 220 ernstzunehmende Belege“, „nicht im Wahlprogramm, aber in zahlreichen Einzeläußerungen auf allen Ebenen der Partei“ (▶ 1:32).
 
-4. **Ergebnisoffenheit ist Wissenschaftsintegrität.** Im GFF-Gutachten zeigt sich das konkret: Die Frage "Ist die AfD verfassungswidrig?" wird nicht mit dem erhofften Ergebnis beantwortet, sondern mit der Sorgfalt, die eine Demokratie verdient. Das bedeutet manchmal: Schwächen im eigenen politischen Lager aufzuzeigen, wenn die Jurisprudenz es verlangt.
+4. **Ein juristischer Verein, kein politischer Akteur.** Ob ein Verbotsverfahren kommt, sei eine politische Entscheidung: „Wir sind kein politischer Akteur und wir bieten eher eine Erkenntnisgrundlage“ (Momentmal, ▶ 11:31). Und wenn es nie dazu kommt: „Im allerschlimmsten Fall ist es ein Zeitzeugnis […] keiner kann sich mehr verstecken und sagen, man wusste nicht, was man da gewählt hat“ (▶ 13:47).
 
-5. **Offene Wissenspraktiken sind Rechtspolitik.** Das OpenRewi-Lehrbuch ist nicht nur eine Publikationsform — es ist die Aussage: Verfassungsrecht darf nicht dem Monopol von etablierten Verlagen gehören. Offene Lehrbücher demokratisieren juristische Grundlagenbildung.
-
-6. **Parteiverbot ist das schärfste Schwert — es muss handwerklich perfekt geführt werden.** Ein Verbotsverfahren scheitert nicht an fehlender Empörung, sondern an fehlender Beweisdichte. Das Gutachten zeigt: Die Nachweisbarkeit von Grund­tendenz ist schwieriger, als die politische Emotion suggeriert — aber deshalb ist solide juristische Arbeit umso notwendiger.
+5. **Reproduktive Freiheit, gemessen am Zugang.** „Die Freiheit über die eigene Reproduktion liegt bei jedem Individuum. Das beinhaltet die Frage, ob jemand ein Kind bekommen möchte und auch Nein dazu sagen kann. Und Ja sagen können muss“ ([taz 2022](https://taz.de/Juristinnen-ueber-Abtreibungs-Regelung/!5896906/)). Die Entkriminalisierung des Abbruchs sei „zentral, um reproduktive Rechte langfristig umzusetzen“. In einem Beitrag mit Selen Yakar, der Intersektionalität sozioökonomisch liest, warnen beide, die Debatte um „My Body, My Choice“ lasse „strukturelle Zugangsfragen aus dem Blick“ geraten ([JuWissBlog 43/2022](https://www.juwiss.de/43-2022/)), also wer sich einen Abbruch leisten und ihn erreichen kann. Das Konzept der reproduktiven Gerechtigkeit, „vor allem in den USA groß geworden“, verlange, dass reproduktive Rechte „diskriminierungsfrei gewährleistet werden“ (taz).
 
 ---
 
 ## Politische Einordnung
 
-Chiofalo ist nicht parteipolitisch — aber präzise feminist und verfassungsschützend. Ihre Position lässt sich so charakterisieren:
-
-- **Feminist:** Sie vertritt eine juristische Perspektive, die Geschlecht und Körper als zentral für Verfassungsrecht begreift, nicht marginal.
-- **Verfassungsschützend:** Sie glaubt an Recht als Instrument der Verteidigung gegen Majorität — nicht romantisch, aber pragmatisch.
-- **Intersektional:** Sie weigert sich, Diskriminierungskategorien isoliert zu prüfen — das ist methodische Redlichkeit, nicht bloße Rhetorik.
-- **Transnational:** Ihre Verfassungsvergleichung ist nicht nationalkonservativ, sondern offen für Lernprozesse von anderen Rechtstraditionen (USA, EU, Global South).
-
-Im GFF-Gutachten zeigt sich ihre politische Haltung am prägnantesten: **Ergebnisoffenheit statt Aktivismus**. Das kann für Bewegungslinke frustrierend sein — wenn das Gutachten sagt, dass eine bestimmte AfD-Forderung *juristisch nicht nachweisbar* zu einem Verfassungsverstoß führt, auch wenn sie politisch widerwärtig wirkt. Aber genau diese Unterscheidung ist für sie die Integrität des Rechtssystems.
+Parteipolitisch ist sie, soweit wir sehen, nicht hervorgetreten. Den Verein, für den sie arbeitet, nennt sie einen juristischen, keinen politischen Akteur (Kernthese 4). Ihre Forschung ordnet der djb der feministischen Rechtswissenschaft zu; ihre Themen sind Abtreibungsrecht und Antidiskriminierung. Beim AfD-Gutachten zeigt sich, was die Arbeit von einer Kampagne unterscheiden soll: die Zweifelsregel zugunsten der Partei, die Trennung von Verdacht und Nachweis. Ob ein Gutachten, das eine zivilgesellschaftliche Organisation mit Spenden finanziert, als neutral gelesen wird, entscheidet sich nicht an diesem Anspruch, sondern an der Prüfung durch andere; die Methode haben Möllers und Schönberger geprüft (GFF). Diese Einordnung ist unsere.
 
 ---
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Bijan Moini]] — Direkter Mitstreiter in der GFF: Moini leitet das Legal Team strategisch, Chiofalo verantwortet die empirische Grundlagenarbeit des AfD-Gutachtens. Beide stehen für dasselbe Ethos — Grundrechtsschutz als handwerkliche Disziplin, nicht als politischer Affekt.
-- [[DenkerVita/Ronen Steinke]] — Beide Juristen, die Verfassungsschutz als demokratische Praxis begreifen; Steinke legt institutionelle Schwachstellen journalistisch frei (V-Leute, Verfassungsschutz-Paradoxon), Chiofalo ersetzt den staatsinternen Beweis durch zivile Datenarbeit — methodisch unterschiedlich, strukturell komplementär.
-- [[DenkerVita/Matthias Quent]] — Quent analysiert soziologisch, warum die AfD Ohnmacht instrumentalisiert; Chiofalo prüft juristisch, ob die AfD verfassungswidrig handelt. Beide kämpfen für wehrhafte Demokratie, aber mit völlig unterschiedlichen Werkzeugen — Quent zeigt das Warum, Chiofalo arbeitet am juristischen Ob.
-- [[DenkerVita/Christoph Moellers]] — Beide lehren an Berliner Universitäten öffentliches Recht (Möllers HU, Chiofalo FU) und teilen das Interesse an der normativen Architektur von Demokratie; Möllers denkt Recht philosophisch-theoretisch, Chiofalo operationalisiert es in konkreter Beweisarbeit — Theorie und Empirie in derselben Rechtstradition.
-- [[DenkerVita/Nicole Deitelhoff]] — Deitelhoff forscht zu normativen Ordnungen und demokratischer Streitkultur auf internationalem Parkett; Chiofalo arbeitet am deutschen Verfassungsrecht mit komparativer Methode (USA, EU). Beide verstehen Demokratieschutz nicht als Selbstverständlichkeit, sondern als aktiv zu verteidigende Praxis.
+- [[DenkerVita/Bijan Moini]] — Er leitete das AfD-Gutachten als Legal Director der GFF, sie schrieb es mit. Auf der re:publica teilten sie die Arbeit: Moini erklärte die Maßstäbe des Artikels 21, Chiofalo die Methode und die Grenzfälle.
+- [[DenkerVita/Ronen Steinke]] — An seinem Buch mit Nora Markard, *Jura not alone* (2024), arbeitete sie mit. Steinke legt die Schwachstellen des Verfassungsschutzes journalistisch frei; das GFF-Gutachten setzt neben den staatlichen Befund eine zivile Datenarbeit.
+- [[DenkerVita/Matthias Quent]] — Quent erklärt soziologisch, warum die AfD Ohnmacht in Zustimmung verwandelt; Chiofalo prüft juristisch, ob sie verfassungswidrig ist. Das Warum und das Ob derselben Frage.
+- [[DenkerVita/Christoph Moellers]] — Möllers bestätigte mit Sophie Schönberger Methode und Ergebnisoffenheit des Gutachtens. Er denkt Demokratie verfassungstheoretisch, das Gutachten übersetzt einen Verfassungsartikel in Beweisarbeit.
+- [[DenkerVita/Nicole Deitelhoff]] — Deitelhoff forscht zu normativen Ordnungen und demokratischer Streitkultur im Internationalen; Chiofalo vergleicht Verfassungsrecht in Deutschland, den USA und der EU. Beide nehmen den Schutz der Demokratie als Arbeit, nicht als Gegebenheit.
 
 ---
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — re:publica 26 Panel zur Methodik und den Kernfragen des AfD-Gutachtens
+- [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — re:publica 26, Methode und Prüfungsschwerpunkte des Gutachtens; hier spricht sie selbst.
+- [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig]] — die Vorstellung des fertigen Gutachtens im Juni 2026; sie spricht dort nicht.
+
+---
+
+## Quellen
+
+- GFF: [Profil](https://freiheitsrechte.org/ueber-die-gff/team/valentina-chiofalo) · [AfD-Gutachten, Projektseite](https://freiheitsrechte.org/themen/starke-grundrechte-fuer-eine-lebendige-demokratie/afd-gutachten) · [Gutachten mit Impressum (PDF)](https://freiheitsrechte.org/uploads/publications/Demokratie/GFF_AfD-Gutachten.pdf)
+- Deutscher Juristinnenbund: [Profil](https://www.djb.de/ueber-uns/team/valentina-chiofalo) — Geburtsjahr, Mitgliedschaft, Kommissionsvorsitz · [Kommission Europa- und Völkerrecht](https://www.djb.de/arbeitsgruppen/kommission-fuer-europa-und-voelkerrecht)
+- FU Berlin: [Ehemalige am Lehrstuhl Calliess](https://www.jura.fu-berlin.de/fachbereich/einrichtungen/oeffentliches-recht/lehrende/calliessc/Mitarbeiterinnen-und-Mitarbeiter/Ehemalige_Mitarbeiterinnen-und-Mitarbeiter/index.html)
+- Deutsche Nationalbibliothek: [Normdatensatz 1267681004](https://d-nb.info/gnd/1267681004) · [*Staatsorganisationsrecht*](https://lobid.org/resources/99377609398406441) · [*Jura not alone*](https://lobid.org/resources/99375188274906441)
+- OpenRewi: [Lehrbuch erschienen](https://openrewi.org/lehrbuch-zum-staatsorganisationsrecht-erschienen/) · JuWissBlog [6/2022](https://www.juwiss.de/06-2022/), [43/2022](https://www.juwiss.de/43-2022/), [51/2022](https://www.juwiss.de/51-2022/) · [Verfassungsblog, Autorinnenseite](https://verfassungsblog.de/author/valentina-chiofalo/)
+- Bundestag 2022: [Stellungnahme (PDF)](https://www.bundestag.de/resource/blob/895692/5ce7365334433e90219ba22df698612f/Stellungnahme-Chiofalo_Dfc-data.pdf) · [Doctors for Choice zur Anhörung](https://doctorsforchoice.de/2022/05/offentliche-anhorung-zum-219a-stgb/)
+- [taz, 08.12.2022: „Freiheit über die Reproduktion“](https://taz.de/Juristinnen-ueber-Abtreibungs-Regelung/!5896906/) — Doppelinterview mit Céline Feldmann
+- [Römerberggespräche 2026](https://roemerberggespraeche-ffm.de/referenten/valentina-chiofalo/)
+- Transkripte: `Gedankenwelten/Transkripte/Moini_Chiofalo_AfD_Gutachten_Transkript.txt` (re:publica 26, Sprecher nach Übergaben, Standbildern und Stimme getrennt) · `Gedankenwelten/Transkripte/AfD_GFF_Gutachten_Transkript.txt` (Bundespressekonferenz 25.06.2026). Momentmal und Thüringer Landtag nach den Untertiteln der Videos.
+
+> [!note] Korrektur (20.11.2026)
+> Die Fassung vom Mai 2026 trug keine Belege. Falsch war vor allem ihre Rolle beim AfD-Gutachten: Sie hat es nicht geleitet, sondern mitgeschrieben; geleitet hat es Bijan Moini. Ebenso falsch waren „seit ca. 2024“ (die GFF entschied sich Anfang 2025 für das Gutachten), „über zwei Jahre“ (es waren 13 Monate) und „ein Team von zwölf Personen unter ihrer Leitung“. Die zwölf stehen nur in der Beschreibung des re:publica-Videos. Die zwei Millionen Datenpunkte waren der Stand im Mai, das fertige Gutachten zählt gut drei Millionen. Die Stelle an der FU war vergangen, nicht gegenwärtig. Eine Kernthese gehörte Bijan Moini, nicht ihr: „Parteiverbot ist das schärfste Schwert“. Die § 219a-Stellungnahme schrieb sie für Doctors for Choice, und sie argumentiert anders als beschrieben. Der JuWiss-Beitrag ist mit Selen Yakar geschrieben, das taz-Interview ein Doppelinterview. Der Link zum djb-Bundeskongress führte auf keine Rede. Ohne Beleg gestrichen: die Ausschmückungen der Biografie, das Beispiel der schwangeren Frau mit Migrationshintergrund, „Verfassungsvergleichung ist konkrete Praxis“, OpenRewi als Kampf gegen Verlagsmonopole (das Buch erschien bei De Gruyter), „Global South“ und „für Bewegungslinke frustrierend“. Im 🎨-Kästchen stand neben ihrem „It was a lot“ ein Satz Moinis; er ist gestrichen. Neu sind die heutige Rolle bei der GFF, die Bundestagsanhörung 2022, *Jura not alone*, die Verfassungsblog-Beiträge, die Auftritte seit Juli 2026 und die Kernthesen in ihrem Wortlaut.
 
 ---
 
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
-> - Wenn juristische Genauigkeit verlangt, dass man zwischen "widerwärtigen Forderungen" und "verfassungswidrigen Forderungen" unterscheidet — *ist diese Unterscheidung dann ein Schutz der Verfassung oder eine strukturelle Blindheit des Rechts gegenüber politischer Signalwirkung?*
-> - Chiofalo konzentriert sich auf *reproduktive Rechte* — *warum ist gerade die Verfügung über weibliche Körper das zentrale Testfeld für Demokratie, nicht z.B. Vermögensrechte?*
-> - Die Frage nach Intersektionalität — *kann Recht mehrfache Diskriminierungen tatsächlich erfassen, oder fragmentiert sich die juristische Logik dabei grundsätzlich?*
-> - Wenn Open-Source-Lehrbücher die juristische Grundlagenbildung demokratisieren sollen — *welchen Preis zahlt die Qualität durch Kollaborativität, und ist dieser Preis wert?*
-> - Das AfD-Gutachten könnte zum Ergebnis kommen, dass die AfD *nicht* verboten werden kann — *welche Konsequenz hätte eine juristische "Nein"-Antwort für die politische Linke, und ist die Linke bereit, das zu akzeptieren?*
+> - Wenn das Recht sauber trennen muss zwischen dem, was eine Forderung politisch bedeutet, und dem, was sich juristisch nachweisen lässt — *schützt diese Trennung die Verfassung, oder lässt sie gerade das durch, was mit Absicht doppeldeutig gesagt wird?*
+> - Im Zweifel für die AfD zu entscheiden, sollte die Überzeugungskraft stärken. *Überzeugt Vorsicht die, die schon zweifeln, oder nur die, die schon überzeugt sind?*
+> - Ein Gutachten der Zivilgesellschaft, finanziert von zwanzigtausend Spenderinnen und Spendern: *Woran erkennt man, ob eine solche Prüfung ergebnisoffen war, wenn man ihr Ergebnis begrüßt?*
+> - Wenn Entscheidungsfreiheit beim Schwangerschaftsabbruch nichts nützt, wo der Zugang fehlt — *wo sonst verdeckt das Wort „Wahl“ die Frage, wer überhaupt wählen kann?*
+> - „Im schlimmsten Fall ein Zeitzeugnis“: *Was ist ein Befund wert, auf den niemand handelt?*

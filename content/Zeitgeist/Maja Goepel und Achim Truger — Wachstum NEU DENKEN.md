@@ -251,7 +251,7 @@ Zweitens die Indikatoren, die es längst gibt, endlich ernst zu nehmen. [▶ 56:
 
 ### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
 
-Die Fortsetzung auf der Leuphana-Bühne, wieder mit Göpel: Sigl-Glöckner findet in den Maastricht-Protokollen die Fußnote, die die 60 Prozent selbst „puren Zufall“ nennt — ein Beleg aus dem Archiv für Trugers These, dass Schuldengrenzen politisch gesetzt sind. Und der Abend zeigt die Kehrseite: Seit dem Sondervermögen muss „Geld ist da“ beweisen, dass es nie „Geld ist egal“ hieß.
+Die Fortsetzung auf der Leuphana-Bühne, wieder mit Göpel: Sigl-Glöckner findet nach ihrer Archivrecherche in den Maastricht-Protokollen eine Fußnote, die die Übereinstimmung der 60 Prozent mit dem EG-Durchschnitt „puren Zufall“ nennt — ein Beleg aus dem Archiv für Trugers These, dass Schuldengrenzen politisch gesetzt sind. Und der Abend zeigt die Kehrseite: Seit dem Sondervermögen muss „Geld ist da“ beweisen, dass es nie „Geld ist egal“ hieß.
 
 
 ### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]

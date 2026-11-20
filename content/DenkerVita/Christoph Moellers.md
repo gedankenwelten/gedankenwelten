@@ -82,7 +82,7 @@ In der politischen Debatte wirkt er oft als Korrektiv — als jemand, der Schär
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Valentina Chiofalo]] — Beide lehren öffentliches Recht an Berliner Universitäten (Möllers HU, Chiofalo FU) und teilen das Interesse an der normativen Architektur von Demokratie. Möllers denkt Recht philosophisch-abstrakt (Freiheitsgrade, normative Ordnung), Chiofalo operationalisiert es in konkreter Beweisarbeit (2 Mio. Datenpunkte, GFF-Gutachten) — Theorie und Empirie in derselben Rechtstradition.
+- [[DenkerVita/Valentina Chiofalo]] — Möllers bestätigte mit Sophie Schönberger Methode und Ergebnisoffenheit des GFF-Gutachtens zur AfD, das Chiofalo mitschrieb. Möllers denkt Recht philosophisch-abstrakt (Freiheitsgrade, normative Ordnung), das Gutachten übersetzt es in konkrete Beweisarbeit (gut 3 Mio. Datenpunkte) — Theorie und Empirie in derselben Rechtstradition.
 
 ---
 

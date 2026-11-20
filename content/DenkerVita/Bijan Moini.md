@@ -103,7 +103,7 @@ Seine Nähe zur GFF ordnet ihn zivilgesellschaftlich ein — aber nicht als Akti
 
 *(Zu ergänzen durch Montaigne-Analyse)*
 
-- [[DenkerVita/Valentina Chiofalo]] — Direkte Mitstreiterin in der GFF: Chiofalo leitet die empirische Grundlagenarbeit des AfD-Gutachtens (2 Mio. Datenpunkte), Moini die strategische Prozessführung. Beide stehen für dasselbe Ethos — Grundrechtsschutz durch handwerkliche Präzision, nicht durch politischen Affekt.
+- [[DenkerVita/Valentina Chiofalo]] — Direkte Mitstreiterin in der GFF: Moini leitete das AfD-Gutachten, Chiofalo schrieb es mit und stellte auf der re:publica die Methode vor. Beide stehen für dasselbe Ethos — Grundrechtsschutz durch handwerkliche Präzision, nicht durch politischen Affekt.
 - [[DenkerVita/Ronen Steinke]] — Beide Juristen und Rechtsaktivisten; Steinke publizistisch, Moini strategisch; gemeinsam eine Verantwortung für Verfassungsschutz gegen staatliche Übergriffe
 - [[DenkerVita/Helen Keller]] — Beide haben praktische Erfahrung mit internationaler Rechtspraxis und deren Grenzen
 - [[DenkerVita/Arne Semsrott]] — Beide zivilgesellschaftlich tätig, aber unterschiedliche Werkzeuge: Semsrott Transparenz/Informationsfreiheit, Moini strategische Klagen zum Grundrechtsschutz
