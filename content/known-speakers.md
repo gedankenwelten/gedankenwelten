@@ -1490,3 +1490,24 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Barbie Breakout
 **Status:** ✓ Vollanalyse → [[DenkerVita/Barbie Breakout]]
+
+## Matthias Bäcker
+**Status:** ✓ Vollanalyse → [[DenkerVita/Matthias Bäcker]]
+
+## Jan-Hendrik Dietrich
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jan-Hendrik Dietrich]]
+
+## Markus Löffelmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Markus Löffelmann]]
+
+## Hans-Georg Maaßen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hans-Georg Maassen]]
+
+## Luca Manns
+**Status:** ✓ Vollanalyse → [[DenkerVita/Luca Manns]]
+
+## Ulrich Vosgerau
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ulrich Vosgerau]]
+
+## Gunter Warg
+**Status:** ✓ Vollanalyse → [[DenkerVita/Gunter Warg]]

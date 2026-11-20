@@ -117,7 +117,7 @@ Zwei Wege derselben Grundüberzeugung: dass der Geist systematisch trainierbar i
 Beide verkörpern den *engagierten Buddhismus* — die Weigerung, Kontemplation und Weltverantwortung zu trennen. Wo Thich Nhat Hanh Achtsamkeit in soziales und politisches Handeln übersetzte, gießt Ricard Mitgefühl in Entwicklungsarbeit (Karuna-Shechen) und in eine *Caring Economics*. Die stille Praxis soll bei beiden nicht im Kloster bleiben, sondern die Welt berühren.
 
 ### → [[DenkerVita/Christine Braehler|Christine Brähler]]
-Die wissenschaftliche Schwesterspur zu Ricards These der trainierbaren Herzensqualitäten. Brähler erforscht Selbstmitgefühl empirisch als klinisch wirksame Fertigkeit — genau die Formbarkeit, die Ricard populär macht, geerdet in Psychotherapie und Studienlage. Wo Ricard vom Kissen kommt, kommt sie aus der Forschung; sie treffen sich bei der Formbarkeit des Mitgefühls.
+Die wissenschaftliche Schwesterspur zu Ricards These der trainierbaren Herzensqualitäten. Brähler hat mitgefühlsfokussierte Therapie bei Psychose erforscht und lehrt Selbstmitgefühl als Fertigkeit — dieselbe Formbarkeit, die Ricard populär macht, geerdet in Psychotherapie und Klinik. Wo Ricard vom Kissen kommt, kommt sie aus der Therapie; sie treffen sich bei der Formbarkeit des Mitgefühls.
 
 ### → [[DenkerVita/Christof Spitz|Christof Spitz]]
 Ein Bruder im Metier: ebenfalls Dolmetscher und Brückenbauer zwischen tibetischem Buddhismus und westlichem Publikum. Beide leben von der Übersetzung — nicht nur der Sprache, sondern einer ganzen kontemplativen Kultur in die Begriffe und Zweifel des Westens. Ihre Rolle ist die des Vermittlers, der die Tradition anschlussfähig hält, ohne sie zu verwässern.

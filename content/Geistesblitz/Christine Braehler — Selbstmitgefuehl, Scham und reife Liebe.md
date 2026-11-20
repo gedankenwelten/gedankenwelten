@@ -25,14 +25,16 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Selbstmitgefühl klingt harmlos — fast rosa und fluffig, wie Lukas Klaschinski im Gespräch sagt. Was Dr. Christine Brähler in dieser Folge des Jakobsweg-Podcasts aufmacht, ist jedoch eine fundamentale Revision dessen, wie wir mit uns selbst und anderen in Beziehung stehen. Der innere Kritiker ist kein Fehler der Persönlichkeit, sondern ein alter Schutzmechanismus mit guten Absichten. Scham ist das klebrigste und gleichzeitig flüchtigste Gefühl, das wir haben. Und wer wirklich für andere da sein will, muss zuerst lernen, für sich selbst da zu sein — nicht als Vorbedingung der Leistung, sondern als Bedingung echter Verbindung.
+> Selbstmitgefühl klingt harmlos, „so ein bisschen rosa und fluffig“, sagt Christine Brähler selbst. Was sie in dieser Folge des Jakobsweg-Podcasts von Lukas Klaschinski aufmacht, ist jedoch eine fundamentale Revision dessen, wie wir mit uns selbst und anderen in Beziehung stehen. Der innere Kritiker ist kein Fehler der Persönlichkeit, sondern ein alter Schutzmechanismus mit guten Absichten. Scham ist das klebrigste und gleichzeitig flüchtigste Gefühl, das wir haben. Und wer wirklich für andere da sein will, muss zuerst lernen, für sich selbst da zu sein — nicht als Vorbedingung der Leistung, sondern als Bedingung echter Verbindung.
 
 Quelle: [Psychotherapeutin: Wie du aufhörst, dein eigener härtester Kritiker zu sein](https://www.youtube.com/watch?v=38galNbhahA)
 
 > [!info] Wer spricht?
-> **Dr. Christine Brähler** — Klinische Psychologin und psychologische Psychotherapeutin in München, seit über 20 Jahren tätig. Zertifizierte MSC-Trainerin (Mindful Self-Compassion nach Kristin Neff/Christopher Germer) und Compassion-Focused Therapist nach Paul Gilbert. Seit 2008 eine der führenden deutschsprachigen Stimmen zum Thema Selbstmitgefühl; Gastforscherin am Institute of Health and Wellbeing, University of Glasgow. Integriert außerdem Internal Family Systems (IFS) nach Richard Schwartz in ihrer therapeutischen Arbeit.
+> **Christine Brähler** (DClinPsy, PhD) — klinische Psychologin und Psychologische Psychotherapeutin in München, nach eigener Angabe seit über 20 Jahren im Beruf. Sie lehrt seit 2008 Selbstmitgefühl, laut Verlag „als einer der ersten Psychologen in Europa“, ist zertifizierte Lehrerin und Ausbilderin für Mindful Self-Compassion (das Programm von Kristin Neff und Christopher Germer) und seit 2010 Trainerin für Paul Gilberts Compassion Focused Therapy. Ausgebildet und promoviert in Edinburgh, forschte sie zu Mitgefühl bei Psychose; in Glasgow war sie bis 2023 Honorary Lecturer. Heute arbeitet sie auch mit Internal Family Systems (IFS).
 >
-> Bücher: *Selbstmitgefühl entwickeln* (2015), *Der kleine Selbstcoach* (2022), *Lass die Liebe rein* (2024)
+> Bücher u. a.: *Selbstmitgefühl entwickeln* (2015), *Neue Wege aus der Einsamkeit* (2020), *Kraftvolles Selbstmitgefühl* (2022), *Lass die Liebe rein* (2026)
+>
+> Gastgeber ist Lukas Klaschinski.
 >
 > → [[DenkerVita/Christine Braehler|DenkerVita]]
 
@@ -82,7 +84,7 @@ Scham zeigt sich in drei Kompensationsmechanismen:
 Das Heilmittel gegen Scham ist Selbstmitgefühl — nicht weil es Scham wegmacht, sondern weil es sie sichtbar macht. *„Wenn wir Selbstmitgefühl üben, zeigt sich die Scham irgendwie mit der Zeit auch sozusagen mehr."* Der gütige Blick auf sich selbst macht es möglich, hinzuschauen, ohne sofort zu fliehen.
 
 > [!question] Weitergedacht
-> Brähler sagt, wer sich stark schämt, solle nicht allein daran arbeiten. Was bedeutet das für eine Gesellschaft, die Einzeltherapie als Standard anbietet, aber Gruppenräume für emotionale Arbeit als Luxus behandelt?
+> Brähler sagt, man könne noch so viel reden und Einzeltherapie machen: Das Menschsein mit verletzlichen Seiten müsse man in Gruppen gemeinsam üben. Was bedeutet das für eine Gesellschaft, die Einzeltherapie als Standard anbietet, aber Gruppenräume für emotionale Arbeit als Luxus behandelt?
 
 ---
 
@@ -110,7 +112,7 @@ Selbstmitgefühlsübungen können unerwartete Reaktionen auslösen — und das i
 
 Das ist kein Versagen der Übung, sondern ihr eigentlicher Mechanismus: Was vorher eingefroren war — unvollendete Gefühle von Einsamkeit, Enttäuschung, Wut aus der Kindheit, die damals niemand gehalten hat — findet plötzlich einen Kanal. Der Moment, in dem man sich Liebe erlaubt, ist auch der Moment, in dem alles sichtbar wird, was keine Liebe war.
 
-Deshalb warnt Brähler ausdrücklich: Tiefe Selbstmitgefühlsübungen sollten bei Bindungsverletzungen nicht allein gemacht werden. *„Das ist eine kraftvolle Medizin."* Besonders gefährdet sind dabei paradoxerweise nicht die Schwachen, sondern die Starken — Menschen, die *„ich schaffe das alleine"* als Überlebensmotto verinnerlicht haben. Genau diese Menschen brauchen Begleitung am dringendsten: Ihre Selbstständigkeit selbst ist eine Reaktion auf das Nicht-Begleitet-Worden-Sein. In professioneller Begleitung kann diese alte Erfahrung korrigiert werden — dass jemand da ist.
+Deshalb warnt Brähler ausdrücklich: Tiefe Selbstmitgefühlsübungen sollten bei Bindungsverletzungen nicht allein gemacht werden. *„Das ist eine kraftvolle Medizin."* Klaschinski denkt das weiter: Gerade wer sagt, *ich schaffe das alles alleine*, habe meist erfahren, es allein schaffen zu müssen, um zu überleben, und für ihn sei Begleitung besonders heilsam. Brähler stimmt zu („Ganz genau“) und nennt einen zweiten Fall: einen Anteil, der die schlimmen Erfahrungen „wegmachen“ will und nach der neuesten Methode greift. *„Ja, und der ist dann eigentlich auch aggressiv.“* Ihn gelte es als Therapeutin zu entspannen, denn bei jeder Methode bleibe die Frage, aus welcher Haltung heraus man sie übt.
 
 > [!question] Weitergedacht
 > „Liebe offenbart alles, was nicht Liebe ist" — *wenn das stimmt, warum behandeln wir die Erschütterungen, die bei Selbstmitgefühlsübungen auftauchen, als Nebenwirkungen statt als Kern des Prozesses?*
@@ -123,7 +125,7 @@ Deshalb warnt Brähler ausdrücklich: Tiefe Selbstmitgefühlsübungen sollten be
 
 Ein unerwarteter Effekt: Wer anfängt, sich selbst liebevoll, achtsam und wertschätzend zu begegnen, bekommt **neue Standards** für Beziehungen. *„Dann merken sie halt, Moment mal, da gibt's vielleicht Personen, die nicht so respektvoll mit ihnen umgehen, die Grenzen verletzen."*
 
-Das führt zu einem neuen Typ von Fragen an Brähler: Wie schaffe ich Harmonie, wenn jemand meine Grenzen verletzt? Ihre Antwort ist direkt: *„Harmonie ist was für Anfänger."* Wer wirklich mit Selbstmitgefühl lebt, lernt, dass es keinen Sinn macht, Harmonie mit jemandem herzustellen, dem es egal ist, wie es mir geht. Selbstmitgefühl wird zur **Grenzwächterin**: nicht aggressiv, aber klar. *„Das ist jetzt hier meine Arbeitszeit — da kann ich das gerne erledigen, aber ich nehme jetzt keine Akte mit nach Hause."*
+Das führt zu einem neuen Typ von Fragen an Brähler: Wie schaffe ich Harmonie, wenn jemand meine Grenzen verletzt? Ihre Antwort ist direkt: *„Harmonie ist was für Anfänger."* Wer wirklich mit Selbstmitgefühl lebt, lernt, dass es keinen Sinn macht, Harmonie mit jemandem herzustellen, dem es egal ist, wie es mir geht. Klaschinski findet dafür das Bild der **Grenzwächterin**, die sagt: *„Das ist jetzt hier meine Arbeitszeit, da kann ich das gerne erledigen, aber ich nehme jetzt keine Akte mit nach Hause.“* Brähler: *„Ja, ganz genau. Und da ist halt das Gefühl der Wut wichtig.“*
 
 Brähler sieht das als kraftvolles Selbstmitgefühl: *„Dann eben halt lernen müssen, uns zu schützen und für uns einzustehen."*
 
@@ -138,11 +140,11 @@ Brähler sieht das als kraftvolles Selbstmitgefühl: *„Dann eben halt lernen m
 
 Wut ist das missverstandenste Gefühl im Kontext von Selbstmitgefühl. Die meisten schämen sich für sie — fürchten, dass sie in Aggression ausartet, wenn sie zugelassen wird. Brähler dreht das um: Wut ist kein Problem, Wut ist Information.
 
-*„Wut ist ja eigentlich nur ein Signal, dass jemand meine Grenzen überschritten hat."* Sie nennt sie die *„Hallo-Wachmedizin"*: ein inneres Alarmsignal, das aufweckt und klarmacht, was gerade wirklich passiert. Erst wenn die Scham die Wut deckelt — was besonders bei Frauen häufig ist, als umgeleitete Energie ins People-Pleasing — verliert man den Zugang zu diesem Signal. Man merkt dann gar nicht mehr, dass Grenzen überschritten werden.
+*„Wut ist ja eigentlich nur ein Signal, dass jemand meine Grenzen überschritten hat."* Sie nennt sie die *„Hallo-Wachmedizin"*: ein inneres Alarmsignal, das aufweckt und klarmacht, was gerade wirklich passiert. Wo unter der Selbstabwertung Scham liegt und man es allen recht machen will, kommt das Signal nicht an. Überschreitet der Chef die Grenze, *„dann checke ich das erstmal gar nicht, weil ich so damit beschäftigt bin, äh irgendwie es den anderen recht zu machen.“* Dass die Scham die Wut häufig deckelt, bei Frauen noch häufiger als bei Männern, beobachtet Klaschinski.
 
 Die Praxis: Wut nicht ausagieren, sondern mit ihr in achtsamen Dialog gehen — *Was willst du mir zeigen? Was willst du mir sagen?* In diesem Moment verwandelt sich Wut in das, was Brähler *„gelassene Autorität"* nennt: ruhig, kraftvoll, ohne das hysterische Aufflackern, das entsteht, wenn Wut zu lange unterdrückt wurde. Das Ergebnis ist nicht Unterdrückung, sondern klares Handeln: *„Dann wirken wir nicht hysterisch und aggressiv, sondern eben ruhig und belassen und sehr kraftvoll."*
 
-Bei Männern beschreibt Brähler den umgekehrten Mechanismus: Wut ist dort oft Deckemotion für Verletzlichkeit, Scham und Traurigkeit. Aus ihrer Arbeit in Gefängnissen zieht sie einen weitreichenden Schluss: *„Unsere Welt wäre eine andere, wenn speziell Männer einen anderen Zugang zu ihrer Verletzlichkeit hätten"* — dann bräuchte es weit weniger Wut, die aus unterdrückter Ohnmacht herausbricht.
+Die andere Seite bringt Klaschinski ein: Bei Männern sei Wut aus seinem Erleben oft eine Decke für Verletzlichkeit, für Angst, Scham und Traurigkeit. Er war für Projekte in Gefängnissen und zieht aus den Gesprächen dort einen weiten Schluss: Die Welt wäre eine andere, *„wenn speziell Männer einen anderen Zugang zu ihrer Verletzlichkeit hätten“*; dann bräuchte es weit weniger Gewalt, die aus einer ungesunden Wut entsteht.
 
 ---
 
@@ -150,9 +152,9 @@ Bei Männern beschreibt Brähler den umgekehrten Mechanismus: Wut ist dort oft D
 
 [▶ 47:09](https://www.youtube.com/watch?v=38galNbhahA&t=2829)
 
-Ein subtiler und wichtiger Befund: Viele Menschen — häufiger Frauen, aber nicht nur — geben sich für andere auf, nicht aus Großzügigkeit, sondern aus **Daseinsberechtigung durch Beitrag**. Das Geben ist zwanghaft, nicht frei. Wer das nicht sieht, gibt gar nicht wirklich — er handelt aus Angst.
+Ein subtiler und wichtiger Befund: Viele Menschen geben sich für andere auf, nicht aus Großzügigkeit, sondern aus **Daseinsberechtigung durch Beitrag**. Das Geben ist zwanghaft, nicht frei. Wer das nicht sieht, gibt gar nicht wirklich — er handelt aus Angst.
 
-Brähler nennt das *„eine Art von Selbstvernachlässigung"* und — überraschend scharf — *„auf eine versteckte Art und Weise total egozentrisch, weil ich schaffe eine Grundlage für meine Daseinsberechtigung, und darum helfe ich dir."*
+Brähler nennt das *„eine Art von Selbstvernachlässigung“*. Klaschinski fasst den Mechanismus: nicht helfen, weil ich helfen möchte, sondern weil *„ich schaffe eine Grundlage für meine Daseinsberechtigung und darum helfe ich dir“*. Brähler schärft es zu: *„weil das ist ja schlussendlich egozentrisch, wenn wir genauer hinschauen“*, auf eine versteckte Art „total“. Solches Geben sei auch gar nicht so einfühlsam, weil es zwanghaft ist.
 
 Das dreht die populäre Dichotomie um: Selbstfürsorge ist nicht Egoismus. Selbstloses Geben aus Angst ist es. Wer sich selbst nährt, kann ehrlicher und sensibler geben — nicht weil er dann *mehr leisten* kann, sondern weil er *aus Fülle statt aus Angst* gibt.
 
@@ -167,13 +169,13 @@ Das dreht die populäre Dichotomie um: Selbstfürsorge ist nicht Egoismus. Selbs
 
 Im letzten Teil des Gesprächs öffnet sich etwas Tieferes: die Frage, was Gefühle eigentlich sind und was verloren geht, wenn wir sie vermeiden. Brähler: *„Wenn wir Mitgefühl üben, ist es so, dass der Intellekt immer weniger wichtig ist, sondern dass so eine innere Weisheit angezapft wird, die ich jetzt selber so im Herzen und im Körper so verorte."*
 
-Diese Weisheit speist sich nicht aus Konzepten, sondern aus **verkörperter Erfahrung** — aus dem Wissen, wie sich ein gebrochenes Knie anfühlt, wie Trauer im Körper sitzt, wie es ist, wenn jemand stirbt. Diese Erfahrungen geben Mitgefühl für andere erst seine Substanz.
+Diese Weisheit speist sich nicht aus Konzepten, sondern aus **verkörperter Erfahrung** — aus dem Wissen, wie es ist, *„wenn meine Knie weh tun und wenn die Oma stirbt“*. Diese Erfahrungen geben Mitgefühl für andere erst seine Substanz.
 
 Brähler zitiert eine hawaiianische Definition von Liebe: *„Alle menschlichen Gefühle in Summe sind Liebe."* Das ist eine radikale Aussage: Nicht nur die angenehmen Gefühle, sondern die ganze Bandbreite — Wut, Scham, Trauer, Angst — gehört zur Liebe dazu. Wer Gefühle vermeidet, vermeidet Leben. Wer sie zulässt, wird lebendig.
 
-Konkret zeigt sich das im Spielen. Brähler beschreibt, wie Erwachsene fast vollständig aufgehört haben zu spielen — alles wird funktionalisiert, auch Freizeit. Ihr eigener Gegenentwurf: *„Mit der nicht dominanten Hand malen, damit ich gar nicht Leistung haben kann."* Das ist kein Selbstoptimierungsprojekt, sondern die Verkörperung von etwas Verlorenem — Leichtigkeit ohne Zweck. Und eine Gesprächspartnerin bringt es auf den Punkt: *„Alle Gefühle gefühlt — ein geiler Tag."* Lebendigkeit ist nicht das Gegenteil von Schmerz, sondern das Gegenteil von Taubheit.
+Konkret zeigt sich das im Spielen. Dass die meisten Erwachsenen aufgehört haben zu spielen, fällt im Gespräch auf (wer von beiden es sagt, lässt sich am Ton nicht sicher trennen); Klaschinski erzählt von einem alten Tisch, den nun jeder Besuch bemalt. Brählers eigener Gegenentwurf: *„Mit der nicht dominanten Hand malen, damit ich gar nicht Leistung haben kann."* Das ist kein Selbstoptimierungsprojekt, sondern die Verkörperung von etwas Verlorenem — Leichtigkeit ohne Zweck. Klaschinski erinnert an Johanna Degen, eine frühere Gästin seines Podcasts, die hinter der Kamera sagte: *„heute war wieder ein guter Tag, ich habe alle Gefühle gefühlt“*. Lebendigkeit ist nicht das Gegenteil von Schmerz, sondern das Gegenteil von Taubheit.
 
-Das Gespräch mündet in einem Gedanken über Vertrauen: *„Wenn ich lasse, dann entspannt sich in mir so der innere Kritiker, dann entspannt sich die Kontrolle — und dann ist es wirklich das Vertrauen in den Fluss des Lebens."* Das ist kein Fatalismus, sondern die Frucht langer innerer Arbeit: Ich kann immer noch handeln und entscheiden — aber aus Verbundenheit statt aus Angst.
+Das Gespräch mündet in einem Gedanken über Vertrauen. Hinter dem Perfektionszwang, sagt Brähler, stecke die Idee, das Leben kontrollieren zu können, und darunter eine Angst. Durch die Herzensöffnung *„ist die Belohnung dann, dass wir dieses Vertrauen in den Fluss des Lebens wiederfinden“* ([▶ 57:00](https://www.youtube.com/watch?v=38galNbhahA&t=3420)). Das ist kein Fatalismus: *„gleichzeitig kann ich immer noch Dinge tun, ja, äh die ich tun will, um für mich zu sorgen aktiv.“*
 
 > [!note] Eigene Einschätzung
 > Diese Passage berührt etwas, das Goenka in ganz anderen Worten beschreibt: Equanimity ist keine Gleichgültigkeit, sondern ein tiefes Ja zum Fluss des Entstehens und Vergehens. Brähler kommt aus einer psychotherapeutischen Tradition, aber der Kern klingt buddhistisch — Vertrauen ins Leben als Frucht der inneren Arbeit, nicht als Startpunkt.
@@ -186,13 +188,13 @@ Das Gespräch mündet in einem Gedanken über Vertrauen: *„Wenn ich lasse, dan
 > Brähler nennt „Christan Neev in USA" als Begründerin des Konzepts. Neff veröffentlichte 2003 die erste akademische Studie und entwickelte die Self-Compassion Scale (SCS) — die erste wissenschaftliche Operationalisierung des Konstrukts. Über 5.000 Folgestudien belegen die Bedeutung dieser Pionierarbeit. Quelle: [The Development and Validation of a Scale to Measure Self-Compassion (2003)](https://self-compassion.org/wp-content/uploads/publications/empirical.article.pdf)
 
 > [!success] Bestätigt — Selbstmitgefühl stärkt Grenzkompetenz
-> Brählers Aussage ist gut belegt. Neff hat 2022 das Konzept des *fierce self-compassion* entwickelt, das Grenzziehung explizit als integralen Bestandteil von Selbstmitgefühl einführt. Studien zeigen Korrelation mit Assertivität und geringerer Angst vor Ablehnung. Quelle: [Frontiers in Psychology — Self-compassion: no communal alternative to agentic self-esteem (2025)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1645815/full)
+> Brählers These, Wut sei ein Grenzsignal und kraftvolles Selbstmitgefühl heiße, sich zu schützen, ist gut belegt. Neff hat 2022 das Konzept des *fierce self-compassion* entwickelt, das Grenzziehung explizit als integralen Bestandteil von Selbstmitgefühl einführt. Studien zeigen Korrelation mit Assertivität und geringerer Angst vor Ablehnung. Quelle: [Frontiers in Psychology — Self-compassion: no communal alternative to agentic self-esteem (2025)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1645815/full)
 
 > [!warning] Vereinfacht — Scham als universell unbewusstes Phänomen
 > Brähler beschreibt Scham als typischerweise unbewusst. Das gilt für chronische, toxische Scham, ist aber nicht universell — viele Menschen haben bewussten Zugang zu Schamgefühlen. Quelle: [Shame Resilience Theory — Brené Brown (2006), Journals of Family Social Work](https://journals.sagepub.com/doi/10.1606/1044-3894.3483)
 
-> [!warning] Vereinfacht — Brähler hat Selbstmitgefühl „in den deutschsprachigen Raum geholt"
-> Brähler ist eine der ersten klinischen Pionierinnen der CFT-Adaptation im DACH-Raum und forscht seit 2008 international dazu. Der Alleinstellungsanspruch ist aber nicht unabhängig verifizierbar — Jon Kabat-Zinns MBSR hatte schon früher Verbreitung gefunden. Als Selbstbeschreibung einer Pionierin plausibel, als historischer Alleinanspruch zu stark. Quelle: [Christine Brähler — Bio](https://www.christinebraehler.com/bio/) *(Keine unabhängige Quelle gefunden)*
+> [!warning] Zu stark, und vom Gastgeber — Brähler habe Selbstmitgefühl „in den deutschsprachigen Raum geholt"
+> Das sagt Lukas Klaschinski in der Anmoderation („Sie hat quasi das Thema in den deutschsprachigen Raum geholt“, ▶ 0:45) und in der ersten Frage („salonfähig gemacht“, ▶ 2:15); Brähler antwortet nur „Mhm“. Belegt ist weniger: Laut Verlag lehrt sie Selbstmitgefühl seit 2008 „als einer der ersten Psychologen in Europa“, und der Podcast *Fragend verbunden* schreibt, sie habe das MSC-Programm „im deutschsprachigen Raum mitgeprägt“. Ein Alleinanspruch lässt sich nicht belegen. Quellen: [Autorentext zu *Neue Wege aus der Einsamkeit*, isbn.de](https://isbn.de/buch/9783424153750) · [*Fragend verbunden*, „Wenn Mitgefühl eine Haltung wird“](https://podcasts.apple.com/us/podcast/wenn-mitgef%C3%BChl-eine-haltung-wird-mit-christine-br%C3%A4hler/id1625441143?i=1000771529437) · [ihr Lebenslauf](https://www.christinebraehler.com/bio/)
 
 > [!success] Bestätigt — Paul Gilbert als Begründer der Compassion-Focused Therapy (CFT)
 > Gilbert entwickelte CFT ab 2000 als Reaktion auf scham- und selbstkritikgeprägte Klienten, die in klassischer Therapie keine heilsame innere Stimme aufbauen konnten. Er gründete die Compassionate Mind Foundation und wurde 2011 mit dem OBE ausgezeichnet. Quelle: [Compassion-focused therapy — Wikipedia](https://en.wikipedia.org/wiki/Compassion-focused_therapy)
@@ -201,10 +203,14 @@ Das Gespräch mündet in einem Gedanken über Vertrauen: *„Wenn ich lasse, dan
 > Schwartz entwickelte IFS in den 1980ern aus seiner klinischen Arbeit mit Essstörungen. IFS ist auf dem National Registry of Evidence-based Programs and Practices gelistet; Schwartz ist Teaching Associate an der Harvard Medical School. Quelle: [Richard C. Schwartz, Ph.D. — IFS Institute](https://ifs-institute.com/about-us/richard-c-schwartz-phd)
 
 > [!success] Bestätigt — Wut bei Männern als Deckemotion für Verletzlichkeit
-> Brählers klinische Beobachtung aus Gefängnisprojekten ist empirisch gestützt: Männlichkeitsnormen, Schamneigung und Angst vor Emotionen erklären zusammen 19% der Varianz von offener Feindseligkeit — Angst vor Emotionen als stärkstem Prädiktor. Quelle: [Masculinity, Shame, and Fear of Emotions as Predictors of Men's Expressions of Anger and Hostility](https://www.researchgate.net/publication/224831797)
+> Die Beobachtung stammt von Lukas Klaschinski, nicht von Brähler (Gespräche bei Projekten in Gefängnissen, ▶ 43:20). Sie ist empirisch gestützt: Männlichkeitsnormen, Schamneigung und Angst vor Emotionen erklären zusammen 19% der Varianz von offener Feindseligkeit — Angst vor Emotionen als stärkstem Prädiktor. Quelle: [Masculinity, Shame, and Fear of Emotions as Predictors of Men's Expressions of Anger and Hostility](https://www.researchgate.net/publication/224831797)
 
 > [!warning] Nicht verifizierbar — Selbstmitgefühl-Studien helfen, Stärken und Schwächen anzunehmen
 > Die allgemeine Behauptung ist konsistent mit Neffs Forschungskorpus, aber keine spezifische Studie zu genau diesem Claim wurde im Gespräch genannt. *Keine unabhängige Quelle gefunden.*
+
+
+> [!note] Korrektur (20.11.2026)
+> Mehrere Sätze des Gastgebers Lukas Klaschinski standen hier als Christine Brählers: die Gespräche in Gefängnissen und der Satz, bei Männern sei Wut oft eine Decke für Verletzlichkeit; dass die Scham die Wut bei Frauen häufiger deckele; das Bild der Grenzwächterin, die „keine Akte mit nach Hause“ nimmt; „ich schaffe das alles alleine“; die Daseinsberechtigungs-Formel im Abschnitt über das Geben. Getrennt haben wir die Stimmen nach Grundton und Standbildern. Umgekehrt sagt Brähler selbst „rosa und fluffig“, nicht Klaschinski. Zwei Zitate standen so nicht im Transkript („Wenn ich lasse …“, „ein geiler Tag“); sie stehen jetzt im Wortlaut. Dass sie Selbstmitgefühl „in den deutschsprachigen Raum geholt“ habe, ist Klaschinskis Anmoderation, keine Selbstbeschreibung. Der Kasten „Wer spricht?“ ist an ihrem Lebenslauf berichtigt: Glasgow bis 2023, MSC-Lehrerin seit 2012, *Lass die Liebe rein* 2026.
 
 ---
 
@@ -213,10 +219,10 @@ Das Gespräch mündet in einem Gedanken über Vertrauen: *„Wenn ich lasse, dan
 *Aus der Video-Beschreibung:*
 - [Christine Brähler: *Lass die Liebe rein — Wie Selbstliebe deine Beziehung revolutioniert*](https://www.genialokal.de/Suche/?q=braehler+lass+die+liebe+rein) — Das aktuelle Buch der Gesprächspartnerin
 
-*Im Gespräch genannte Quellen:*
-- **Kristin Neff** — Begründerin des MSC (Mindful Self-Compassion), Hauptbezugspunkt für Brählers Konzept des gemeinsamen Menschseins: [self-compassion.org](https://self-compassion.org)
+*Ihre Bezugspunkte (im Gespräch nennt sie Kristin Neff; CFT und IFS sind die Ansätze, in denen sie ausgebildet ist):*
+- **Kristin Neff** — entwickelte mit Christopher Germer das Programm Mindful Self-Compassion (MSC), das Brähler lehrt; auf sie beruft sie sich beim gemeinsamen Menschsein: [self-compassion.org](https://self-compassion.org)
 - **Paul Gilbert** — Compassion-Focused Therapy (CFT): [compassionatemind.co.uk](https://www.compassionatemind.co.uk)
-- **Richard Schwartz** — Internal Family Systems (IFS): Brähler arbeitet mit dem Konzept innerer Anteile: [ifs-institute.com](https://ifs-institute.com)
+- **Richard Schwartz** — begründete Internal Family Systems (IFS), worin Brähler ausgebildet ist; im Gespräch spricht sie von „Anteilen“: [ifs-institute.com](https://ifs-institute.com)
 
 ---
 
@@ -227,11 +233,11 @@ Eine Zehntklässlerin, die „mit einer 3 nicht mehr leben“ konnte, obwohl nie
 
 ### → [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
-Ricard und Brähler kommen aus sehr verschiedenen Traditionen — er aus tibetischem Buddhismus, sie aus westlicher Psychotherapie — und landen am selben Punkt: Mitgefühl ist keine sentimentale Haltung, sondern eine trainierbare Kapazität, die das gesamte Erleben transformiert. Brähler integriert diese buddhistische Intuition in die klinische Praxis.
+Ricard und Brähler kommen aus sehr verschiedenen Traditionen — er aus tibetischem Buddhismus, sie aus westlicher Psychotherapie — und landen am selben Punkt: Mitgefühl ist keine sentimentale Haltung, sondern eine trainierbare Kapazität, die das gesamte Erleben transformiert. Diese Brücke ist unsere: Brähler beruft sich nicht auf Ricard, aber ihre Praxis übersetzt dieselbe Intuition in die Klinik.
 
 ### → [[Erich Fromm — Die Welt lieben, SRF 1979]]
 
-Fromm beschreibt Liebe als Kunst, die Übung erfordert — nicht als Gefühl, das einem widerfährt. Brähler kommt zu einem ähnlichen Schluss aus therapeutischer Perspektive: Liebe beginnt als innere Praxis, nicht als Reaktion auf den richtigen Anderen. Fromms *„Liebe ist eine Entscheidung"* und Brählers *„Selbstliebe ermöglicht reife Liebe"* sind zwei Formulierungen desselben Gedankens.
+Fromm beschreibt Liebe als Kunst, die Übung erfordert — nicht als Gefühl, das einem widerfährt. Brähler kommt zu einem ähnlichen Schluss aus therapeutischer Perspektive: Liebe beginnt als innere Praxis, nicht als Reaktion auf den richtigen Anderen. Fromms Liebe als Kunst und Brählers Selbstliebe als Boden reifer Liebe sind, so lesen wir es, zwei Formulierungen desselben Gedankens.
 
 ### → [[Gert Scobel — Meditation kann gefaehrlich sein]]
 

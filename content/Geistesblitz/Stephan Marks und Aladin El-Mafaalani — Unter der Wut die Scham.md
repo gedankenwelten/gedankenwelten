@@ -305,7 +305,7 @@ Mangelsdorfs Anti-Mattering, nicht gesehen oder für den eigenen Beitrag abgewie
 
 ### → [[Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]]
 
-Brähler sagt aus der Arbeit in Gefängnissen, was Marks über Rechtsextremismus sagt: Bei Männern ist Wut oft die Decke über Scham und Verletzlichkeit. Beide wollen Scham nicht wegmachen. Bei Brähler macht Selbstmitgefühl sie sichtbar, bei Marks macht der Raum der Würde sie besprechbar. Den Container baut bei ihr der Mensch für sich selbst, bei Marks halten ihn Lehrkraft, Pflegerin oder Großmutter für einen anderen.
+Im Gespräch mit Brähler sagt der Gastgeber Lukas Klaschinski aus Gesprächen in Gefängnissen, was Marks über Rechtsextremismus sagt: Bei Männern ist Wut oft die Decke über Scham und Verletzlichkeit. Brähler und Marks wollen Scham nicht wegmachen. Bei Brähler macht Selbstmitgefühl sie sichtbar, bei Marks macht der Raum der Würde sie besprechbar. Den Container baut bei ihr der Mensch für sich selbst, bei Marks halten ihn Lehrkraft, Pflegerin oder Großmutter für einen anderen.
 
 ### → [[Philip Schlaffer — Kann man sich aendern|Philip Schlaffer — Kann man sich ändern?]]
 

@@ -284,7 +284,7 @@ Shi Heng Yis Peripherie/Essenz- und Rolle/Essenz-Unterscheidung ist Fromms Haben
 
 ### → [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 
-Brählers konditioniertes Selbstschweigen erhellt sowohl Shi Heng Yis jahrelanges Schweigen über den Abt als auch seinen kindlichen „emotionalen Schutzschild": „deine Wahrheit nicht zu sprechen zugunsten der Wahrheit anderer" als eingelerntes Bindungsmuster, das spirituelle Hierarchien und konfuzianische Erziehung gleichermaßen verstärken.
+Brählers Beobachtung, dass wir, um geliebt zu werden, es allen recht machen und die eigenen Grenzen gar nicht mehr bemerken, erhellt sowohl Shi Heng Yis jahrelanges Schweigen über den Abt als auch seinen kindlichen „emotionalen Schutzschild": „deine Wahrheit nicht zu sprechen zugunsten der Wahrheit anderer" als eingelerntes Bindungsmuster, das spirituelle Hierarchien und konfuzianische Erziehung gleichermaßen verstärken.
 
 ### → [[Zeitgeist/Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]]
 

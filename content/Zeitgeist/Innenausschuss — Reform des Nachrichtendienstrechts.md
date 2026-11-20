@@ -39,7 +39,14 @@ Quelle: [Reform des Nachrichtendienstrechts umstritten — Anhörung des Innenau
 > [!info] Wer spricht?
 > Acht Sachverständige, von den Fraktionen benannt ([Sachverständigenliste](https://www.bundestag.de/resource/blob/1223172/SV-Liste-Anhoerung-12-10-2026.pdf)); jeder hatte sechs Minuten für ein Eingangsstatement, danach fragten die Abgeordneten in fünf Runden.
 >
-> WERSPRICHT_PLATZHALTER
+> - **Matthias Bäcker** (auf Vorschlag der Grünen) — Professor für Öffentliches Recht und Informationsrecht an der Universität Mainz, früher wissenschaftlicher Mitarbeiter am Bundesverfassungsgericht. → [[DenkerVita/Matthias Bäcker|DenkerVita]]
+> - **Jan-Hendrik Dietrich** (CDU/CSU) — Professor für Öffentliches Recht und Sicherheitsrecht an der Hochschule des Bundes, Mitherausgeber des *Handbuchs des Rechts der Nachrichtendienste*. → [[DenkerVita/Jan-Hendrik Dietrich|DenkerVita]]
+> - **Franziska Görlitz** (Die Linke) — Juristin und Verfahrenskoordinatorin der Gesellschaft für Freiheitsrechte, unter anderem an der Verfassungsbeschwerde gegen Palantir-Software bei der bayerischen Polizei. → [[DenkerVita/Franziska Goerlitz|DenkerVita]]
+> - **Markus Löffelmann** (SPD) — Professor für Sicherheitsrecht an der Hochschule des Bundes, früher Richter, Staatsanwalt und Referent im Bundesjustizministerium. → [[DenkerVita/Markus Löffelmann|DenkerVita]]
+> - **Hans-Georg Maaßen** (AfD) — von 2012 bis 2018 Präsident des Bundesamts für Verfassungsschutz, im November 2018 in den einstweiligen Ruhestand versetzt, heute Rechtsanwalt. → [[DenkerVita/Hans-Georg Maassen|DenkerVita]]
+> - **Luca Manns** (CDU/CSU) — Geschäftsführer der Forschungsstelle Nachrichtendienste der Universität zu Köln; die schriftliche Stellungnahme schrieb er mit Markus Ogorek. → [[DenkerVita/Luca Manns|DenkerVita]]
+> - **Ulrich Vosgerau** (AfD) — habilitierter Staatsrechtler und Rechtsanwalt in Berlin, vertrat die AfD mehrfach vor dem Bundesverfassungsgericht und nahm im November 2023 am Potsdamer Treffen teil. → [[DenkerVita/Ulrich Vosgerau|DenkerVita]]
+> - **Gunter Warg** (CDU/CSU) — Professor für Recht der Nachrichtendienste an der Hochschule des Bundes in Brühl, Autor des Lehrbuchs *Recht der Nachrichtendienste*. → [[DenkerVita/Gunter Warg|DenkerVita]]
 
 ---
 
@@ -188,13 +195,13 @@ FAKTENCHECK_PLATZHALTER
 
 *Schriftliche Stellungnahmen der Sachverständigen ([alle auf der Seite der Anhörung](https://www.bundestag.de/ausschuesse/inneres/anhoerungen/1223060-1223060)):*
 
-- [Löffelmann, Ausschussdrucksache 21(4)233 A](https://www.bundestag.de/resource/blob/1223736/21-4-233-A-Stellungnahme-Prof-Dr-M-Loeffelmann-Nachrichtendienstrecht-21-7868-21-8295.pdf)
-- [Bäcker, 21(4)233 B](https://www.bundestag.de/resource/blob/1223946/21-4-233-B-Stellungnahme-Prof-Dr-M-Baecker-Nachrichtendienstrecht-21-7868-21-8295.pdf)
-- [Warg, 21(4)233 C](https://www.bundestag.de/resource/blob/1223948/21-4-233-C-Stellungnahme-Prof-Dr-G-Warg-Nachrichtendienstrecht-21-7868-21-8295.pdf)
+- [Löffelmann, Ausschussdrucksache 21(4)233 A](https://www.bundestag.de/resource/blob/1223736/21-4-233-A-Stellungnahme-Prof-Dr-M-Loeffelmann-Nachrichtendienstrecht-21-7868.pdf)
+- [Bäcker, 21(4)233 B](https://www.bundestag.de/resource/blob/1223946/21-4-233-B-Stellungnahme-Prof-Dr-M-Baecker-Nachrichtendienstrecht-21-7868.pdf)
+- [Warg, 21(4)233 C](https://www.bundestag.de/resource/blob/1223948/21-4-233-C-Stellungnahme-Prof-Dr-G-Warg-Nachrichtendienstrecht-21-7868.pdf)
 - [Görlitz (GFF), 21(4)233 D](https://www.bundestag.de/resource/blob/1224032/21-4-233-D-Stellungnahme-Franziska-Goerlitz-Nachrichtendienstrecht-21-7868-21-8295-21-8114.pdf)
-- [Dietrich, 21(4)233 E](https://www.bundestag.de/resource/blob/1224036/21-4-233-E-Stellungnahme-Prof-Dr-J-H-Dietrich-Nachrichtendienstrecht-21-7868-21-8295.pdf)
-- [Maaßen, 21(4)233 F](https://www.bundestag.de/resource/blob/1224042/21-4-233-F-Stellungnahme-Dr-Hans-Georg-Maassen-Nachrichtendienstrecht-21-7868-21-8295-21-8114.pdf)
-- [Manns und Ogorek, 21(4)233 G](https://www.bundestag.de/resource/blob/1224044/21-4-233-G-Stellungnahme-Luca-Manns-u-M-Ogorek-Nachrichtendienstrecht-21-7868-21-8295.pdf)
+- [Dietrich, 21(4)233 E](https://www.bundestag.de/resource/blob/1224036/21-4-233-E-Stellungnahme-Prof-Dr-J-H-Dietrich-Nachrichtendienstrecht-21-7868.pdf)
+- [Maaßen, 21(4)233 F](https://www.bundestag.de/resource/blob/1224042/21-4-233-F-Stellungnahme-Dr-Hans-Georg-Maassen-Nachrichtendienstrecht-21-7868-21-8295-21-8114-o-M.pdf)
+- [Manns und Ogorek, 21(4)233 G](https://www.bundestag.de/resource/blob/1224044/21-4-233-G-Stellungnahme-Luca-Manns-u-M-Ogorek-Nachrichtendienstrecht-21-7868.pdf)
 
 *Gesetzgebung:*
 
@@ -205,7 +212,7 @@ FAKTENCHECK_PLATZHALTER
 *Stellungnahmen der Verbände (Auswahl):*
 
 - [Bundesärztekammer, 21(4)231](https://www.bundestag.de/resource/blob/1223292/21-4-231-Stellungnahme-Bundesaerztekammer-GE-Nachrichtendienstrecht-21-7868.pdf)
-- [Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, 21(4)230](https://www.bundestag.de/resource/blob/1223288/21-4-230-Stellungnahme-BfDI-Bonn-GE-Nachrichtendienstrecht-21-7868.pdf)
+- [Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, 21(4)230](https://www.bundestag.de/resource/blob/1223288/21-4-230-Stellungnahme-BfDI-Bonn-GE-Nachrichtendienstrecht-21-7868-o-U.pdf)
 - [Deutscher Anwaltverein, 21(4)208](https://www.bundestag.de/resource/blob/1223276/21-4-208-DAV-Stellungnahme-GE-Nachrichtendienstrecht.pdf)
 
 *Zum Weiterhören:*

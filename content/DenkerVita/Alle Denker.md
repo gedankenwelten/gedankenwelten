@@ -84,6 +84,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Matthias Bäcker|Matthias Bäcker]]** — Verfassungsrechtler (Universität Mainz), Sicherheits- und Datenschutzrecht; hält die heimlichen „Schutzmaßnahmen“ des Verfassungsschutzes für offensichtlich verfassungswidrig: Ein Rechtsstaat greift offen und rechtsschutzfähig ein
+
 **[[DenkerVita/Barbie Breakout|Barbie Breakout]]** — Berliner Drag Queen, Autorin und Podcasterin, Gastgeberin von „Drag Race Germany“; Drag als Befreiung von Geschlechternormen
 
 **[[DenkerVita/Filip Balunovic|Filip Balunović]]** — Politikwissenschaftler und Bewegungsforscher am IFDT der Universität Belgrad; *The Revival of the Left in the Balkans*; deutet Serbiens Studentenaufstand als Sieg der „Idee einer neuen Gesellschaft“
@@ -186,6 +188,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Anja Dahlmann|Anja Dahlmann]]** — Rüstungskontrollexpertin (IFSH); autonome Waffensysteme und militärische KI, menschliche Kontrolle über Waffengewalt, feministische Rüstungskontrolle
 
+**[[DenkerVita/Jan-Hendrik Dietrich|Jan-Hendrik Dietrich]]** — Sicherheitsrechtler (Hochschule des Bundes, CISS); nennt die Reform des Nachrichtendienstrechts einen Meilenstein, neue Befugnisse eingehegt durch eine Kontrolle, die er unabhängiger will
+
 **[[DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
 
 **[[DenkerVita/Donald Trump|Donald Trump]]** — Immobilienerbe, Fernsehstar, 45. und 47. US-Präsident; der Sohn, aus dem ein „killer“ werden sollte; Vergeltung als Programm, Rolle als Identität
@@ -265,6 +269,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Philipp Felsch|Philipp Felsch]]** — Kultur- und Wissenschaftshistoriker (HU Berlin); erzählt die Geschichte der Theorie, vom Merve-Verlag über Nietzsches Rettung bis Habermas
 
 ## G
+
+**[[DenkerVita/Franziska Goerlitz|Franziska Görlitz]]** — Juristin der Gesellschaft für Freiheitsrechte; Verfassungsbeschwerden gegen Palantir-Datenanalyse bei der Polizei, warnt vor Diensten mit operativen Befugnissen ohne wirksame Kontrolle
 
 **[[DenkerVita/Eren Güvercin|Eren Güvercin]]** — Publizist (Köln/Berlin), Mitgründer und stellvertretender Vorsitzender der Alhambra-Gesellschaft, Mitgründer des PEN Berlin; innermuslimische Kritik an Islamismus, Queerfeindlichkeit und den Moscheeverbänden; *Neo-Moslems* (2012)
 
@@ -480,6 +486,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem
 
+**[[DenkerVita/Markus Löffelmann|Markus Löffelmann]]** — Sicherheitsrechtler (Hochschule des Bundes), früher Richter und Staatsanwalt; lobt die Systematik der Reform, sieht aber bewusst hohes verfassungsrechtliches Risiko: Weniger kann mehr sein
+
 **[[DenkerVita/Lilith Roska|Lilith Roska]]** — Online-Redakteurin im Social-Media-Team der Arolsen Archives; digitale Erinnerungskultur für ein junges Publikum, Aufklärung über codierte Rechtsextreme-Geschichtsumdeutung (Zahlen, Memes, Emojis)
 
 **[[DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
@@ -489,6 +497,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
+
+**[[DenkerVita/Hans-Georg Maassen|Hans-Georg Maaßen]]** — Jurist, Präsident des Bundesamts für Verfassungsschutz 2012–2018; will dessen Auftrag zuerst auf Terror, Spionage und Sabotage begrenzen, bevor über neue Befugnisse gesprochen wird
+
+**[[DenkerVita/Luca Manns|Luca Manns]]** — Sicherheitsrechtler, Geschäftsführer der Kölner Forschungsstelle Nachrichtendienste; will einen BND, der im Ausland nicht nur sammelt, sondern entgegenwirkt
 
 **[[DenkerVita/Bertolt Meyer|Bertolt Meyer]]** — Psychologe (TU Chemnitz, Arbeits-, Organisations- und Wirtschaftspsychologie), DJ und arte-Moderator; Stereotype, Diversität, Bionik und Behinderung, Rechtspopulismus und Bedrohungserzählungen; *Anders* (2025), Hochschullehrer des Jahres 2024
 
@@ -809,6 +821,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## V
 
+**[[DenkerVita/Ulrich Vosgerau|Ulrich Vosgerau]]** — Staatsrechtler und Rechtsanwalt in Berlin; nennt den Verfassungsschutz in seiner heutigen Form einen „verfassungsrechtlichen Skandal“
+
 **[[DenkerVita/Aleksandar Vucic|Aleksandar Vučić]]** — serbischer Politiker, Informationsminister unter Milošević (1998–2000), Ministerpräsident 2014–2017, Präsident 2017–2026; Stabilität und EU-Weg ohne Bruch mit Moskau für die einen, Wahlautokratie laut V-Dem für die anderen; verlor die Wahl im Oktober 2026 gegen die Studentenliste
 
 **[[DenkerVita/Johannes Volkmann|Johannes Volkmann]]** — CDU-Bundestagsabgeordneter (Lahn-Dill), Auswärtiger Ausschuss, trennt scharf zwischen privaten und öffentlich finanzierten Räumen
@@ -832,6 +846,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Jens-Christian Wagner|Jens-Christian Wagner]]** — Historiker, Direktor der Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora; streitbarer Verteidiger der NS-Erinnerungskultur gegen rechten Geschichtsrevisionismus und die AfD
 
 **[[DenkerVita/Christian Walburg|Christian Walburg]]** — Kriminologe und Jurist (Münster, zuletzt Professurvertretung an der Deutschen Hochschule der Polizei); erforscht seit der Duisburger Längsschnittstudie Migration und Jugenddelinquenz, gegen Alarmismus und Abwiegeln zugleich
+
+**[[DenkerVita/Gunter Warg|Gunter Warg]]** — Jurist, Professor für Recht der Nachrichtendienste an der Hochschule des Bundes; hält die Reform für im Wesentlichen verfassungskonform
 
 **[[DenkerVita/Lars Wienand|Lars Wienand]]** — Investigativjournalist (t-online), deckte 2022 die russische Desinformationskampagne „Doppelgänger“ auf und wertete 2026 als Erster ein Leak der Moskauer Social Design Agency aus
 

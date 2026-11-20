@@ -43,7 +43,7 @@ aliases:
 Quelle: [taz lab 2025: Kein Herz für Kinder — die Diskriminierung der GenZ mit Aladin El-Mafaalani](https://www.youtube.com/watch?v=Iip-CLJ-DR8)
 
 > [!info] Wer spricht?
-> %%TODO nach Sherlock%%
+> **Aladin El-Mafaalani** (* 1978) ist Soziologe und hat den Lehrstuhl für Migrations- und Bildungssoziologie an der TU Dortmund. Bekannt wurde er mit dem *Integrationsparadox* (2018): Gelingt Integration, wird mehr gestritten, weil mehr Menschen mitreden. Hier stellt er *Kinder — Minderheit ohne Schutz* vor (Kiepenheuer & Witsch, Januar 2025), geschrieben mit Sebastian Kurtenbach und Klaus Peter Strohmeier. Es fragt Paulina Unfried für die taz. %%TODO nach Sherlock prüfen%%
 >
 > → [[DenkerVita/Aladin El-Mafaalani|DenkerVita]]
 
