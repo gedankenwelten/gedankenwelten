@@ -18,7 +18,7 @@ tags:
 
 # Wer bestimmt, wie erinnert wird?
 
-![[Gedankenwelten/assets/Wer-bestimmt-wie-erinnert-wird-banner.jpg|Gemälde in kräftigen Farben: Ein Mann am Schreibtisch mit Papierstapel schneidet die Schleife eines Lorbeerkranzes durch, davor brennende Kerzen, links drängen Männer durch eine grüne Tür, rechts eine Waage mit Kerze.|1200]]
+![[assets/Wer-bestimmt-wie-erinnert-wird-banner.jpg|Gemälde in kräftigen Farben: Ein Mann am Schreibtisch mit Papierstapel schneidet die Schleife eines Lorbeerkranzes durch, davor brennende Kerzen, links drängen Männer durch eine grüne Tür, rechts eine Waage mit Kerze.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -58,7 +58,7 @@ Um den 9. November streiten Lager, die sonst selten nebeneinanderstehen. Die AfD
 - **[[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Hegseth und die Umwidmung der Geschichte|Benjamin Biersky]]:** Wer die Toten der Normandie ehren soll und daraus *„ein Kammerstück über Migrationssachen“* macht, lädt die Deutung ein, die Alliierten seien angreifende Migranten.
 - **[[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet#Der 9. Mai als Staatswaffe|Konstantin Flemig]]:** In Russland ist der Gedenktag an die Toten des Krieges zur Mobilisierung geworden; der Kampf von 1945 gilt als derselbe wie der gegen die Ukraine.
 - **[[Jihan Alomar — Gefangen vom Islamischen Staat#Was sie fordert|Jihan Alomar]]:** Für die Überlebende ist der Gedenktag der Tag ihrer Verschleppung; fertig ist ihre Arbeit erst, wenn Shingal wiederaufgebaut ist.
-- **[[Gedankenwelten/Geistesblitz/Wolfgang Niess — Der 9. November#Feiertag oder Gedenktag?|Wolfgang Niess]]:** Der 9. November gehört allen seinen Daten; nicht jede Veranstaltung muss nur um 1938 kreisen, aber an der Pogromnacht darf niemand vorbeigehen.
+- **[[Geistesblitz/Wolfgang Niess — Der 9. November#Feiertag oder Gedenktag?|Wolfgang Niess]]:** Der 9. November gehört allen seinen Daten; nicht jede Veranstaltung muss nur um 1938 kreisen, aber an der Pogromnacht darf niemand vorbeigehen.
 
 > [!question] Die Reibung
 > Schuster beruft sich auf die Gemeinde, Tillschneider auf sein Amt; die Gemeinde ließ die Tür offen, die Studierenden schlossen sie, und in Hanau verkleinerte ein demokratischer Stadtrat das Gedenken nach einer unbequemen Rede. *Wenn die Betroffenen bestimmen sollen — welche Betroffenen, wenn sie sich uneinig sind, und was bleibt dem Staat, der das Gedenken bezahlt?*
@@ -114,12 +114,12 @@ Wo Unterricht ausdrücklich Geschichte und Gegenwart verbindet, zeigt ein Feldex
 - **[[Philipp Blom — Die Unterwerfung#„Nie wieder“ und seine Frist|Philipp Blom]]:** Vermeidungshaltungen halten zwei, drei Generationen; was danach trägt, entscheidet sich an Denkmal, Schule, Partei und Kampagne.
 - **[[Harald Welzer — Toetungsarbeit#Was ist aus Opa geworden?|Harald Welzer]]:** Das Familiengedächtnis macht aus den Großeltern Helden, und bei den Urenkeln reißt die Erzählung ganz ab.
 - **[[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten#Der einsame Pinguin und die Grenzen der Erinnerungskultur|Gina Wiedemann]]:** Die Schulfakten sitzen bei Jugendlichen sehr häufig, alles darüber hinaus nicht; problematischer als die radikalisierte Jugend sind die, die faktenferner werden, und der Erinnerung fehlt das Aktivierende.
-- **[[Gedankenwelten/Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#„Engagiert euch" — und Artikel 1|Jens-Christian Wagner]]:** Der Buchenwald-Direktor will nicht indoktrinieren und gibt Hessels „Engagiert euch“ mit, denn Aufregen allein ist wohlfeil.
+- **[[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#„Engagiert euch" — und Artikel 1|Jens-Christian Wagner]]:** Der Buchenwald-Direktor will nicht indoktrinieren und gibt Hessels „Engagiert euch“ mit, denn Aufregen allein ist wohlfeil.
 - **[[Susanne Boshammer — Was heisst verzeihen#Publikumsfragen|Susanne Boshammer]]:** Die heutige Generation hat nichts zu verzeihen, aber Grund zu erinnern — Erinnerung ist Wissen über die Möglichkeiten menschlicher Grausamkeit.
 - **[[Paul Lance — Amerikaner fragt Deutsche ueber Trump#Holocaust-Gedenkstätten in Berlin Mahnung in Stein|Paul Lance]]:** Den Amerikaner erschüttert, dass Berlin seine Mahnmale mitten in die Stadt stellt — ein Land, das beschlossen hat, nicht wegzusehen.
 - **[[Duezen Tekkal — Deutschland ist bedroht#Der 72. Firman|Düzen Tekkal]]:** Ihre Generation hielt sich für die erste außerhalb der Reihe, bis der IS kam; in ihrer Gemeinschaft spricht niemand von „Vergangenheit“.
 - **[[Wolfgang Huber — Bonhoeffer und die Wahrheit#Privat, öffentlich und das Erinnern|Wolfgang Huber]]:** Mit Bonhoeffer gehört das Erinnern zum Wesen der Wahrheit selbst: Vergessene Wahrheit kann nicht versöhnen — ein dritter Grund neben Wirkung und Toten.
-- **[[Gedankenwelten/Geistesblitz/Wolfgang Niess — Der 9. November#Feiertag oder Gedenktag?|Wolfgang Niess]]:** Kein Feiertag, sondern ein Projekttag mit Vorbereitung und Streit: Ein Tag, der Nachdenken verlangt, „lässt sich mit einem Fest nicht erledigen“.
+- **[[Geistesblitz/Wolfgang Niess — Der 9. November#Feiertag oder Gedenktag?|Wolfgang Niess]]:** Kein Feiertag, sondern ein Projekttag mit Vorbereitung und Streit: Ein Tag, der Nachdenken verlangt, „lässt sich mit einem Fest nicht erledigen“.
 - **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Weckt der Rechtsstaat auf?|Wolfgang Benz]]** (zitiert): Junge Neonazis verlassen eine Gedenkstätte nach dem Pflichtbesuch „in der Regel nicht geläutert, sondern im Zorn der Selbstbestätigung“.
 
 > [!question] Die Reibung
@@ -137,7 +137,7 @@ Für Deutschland selbst ist die Frage weniger eine nach Bürgerkriegslagern als 
 
 **Die Stimmen**
 
-- **[[Gedankenwelten/Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Warum der Anfang gefeiert wird und nicht das Ende|Iason Chandrinos]]:** Gefeiert wird der letzte Tag der Einigkeit, und es sei „ziemlich problematisch“, die Erinnerung eines ganzen Jahrzehnts an einem Tag zusammenzufassen.
+- **[[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Warum der Anfang gefeiert wird und nicht das Ende|Iason Chandrinos]]:** Gefeiert wird der letzte Tag der Einigkeit, und es sei „ziemlich problematisch“, die Erinnerung eines ganzen Jahrzehnts an einem Tag zusammenzufassen.
 - **[[Varoufakis — 2008 Crash, Populismus und Europa#Herkunft Eine Familie auf der falschen Seite der Geschichte|Yanis Varoufakis]]:** Sein Vater saß vier Jahre im Lager, weil er den Kommunismus nicht verurteilen wollte; die Repression machte ihn zu dem, was sie bekämpfte.
 - **[[Joern Leonhard — Wie man Kriege beendet#Ein Anfang hat ein Datum, ein Ende nicht|Jörn Leonhard]]:** Ein Kriegsende ist ungleichzeitig, und gerade darum sucht man das eine Bild, das den Schluss markiert.
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Nach der Befreiung Die Befreiten ohne Zuhause, das Lager mit zweitem Leben|Jens-Christian Wagner]]:** Buchenwald hat zwei Gruppen von Toten, die des KZ und die des sowjetischen Speziallagers; er erforscht auch die zweiten, statt sie zu verschweigen.
@@ -153,7 +153,7 @@ Für Deutschland selbst ist die Frage weniger eine nach Bürgerkriegslagern als 
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Geschichtsrevisionismus Die Mechanik der Umdeutung|Sascha Schlösser]]** (zitiert): Am Tag der Befreiung Buchenwalds solle man lieber der „blutjungen“ Gefallenen von Gispersleben gedenken, die zum größten Teil der Waffen-SS angehörten.
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Entlastungserzählungen — Ost, West und der Mythos vom Befehlsnotstand|Jens-Christian Wagner]]:** Die Bundesrepublik erzählte von der „kleinen Clique“ und vom Befehlsnotstand und pflegte daneben ihren eigenen Opferdiskurs: Luftkrieg, Flucht, Vertreibung, Teilung.
 
-- **[[Gedankenwelten/Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar|Silvia Rivera Cusicanqui]]:** Den anarchistischen Großonkel, den ihr Zweig der Familie verstoßen hätte, setzt sie jedes Jahr auf den Ehrenplatz ihres Allerheiligen-Altars; die verleugnete Linie bekommt ihren Platz, ohne dass die andere verschwindet.
+- **[[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar|Silvia Rivera Cusicanqui]]:** Den anarchistischen Großonkel, den ihr Zweig der Familie verstoßen hätte, setzt sie jedes Jahr auf den Ehrenplatz ihres Allerheiligen-Altars; die verleugnete Linie bekommt ihren Platz, ohne dass die andere verschwindet.
 
 - **[[Götz Aly — Wie konnte das geschehen#Zu viel auf dem Kerbholz|Götz Aly]]:** Er zählt das erste halbe Jahr im Osten zusammen, ermordete Juden, verhungerte Kriegsgefangene, erschossene Zivilisten, „pro Tag 12.000 Nichtkombattanten“, nebeneinander statt gegeneinander.
 - **[[Irina Scherbakowa — Der lange Schatten des Stalinismus#Kruste und Schaum: die Geschichtspolitik|Irina Scherbakowa]]:** Auch Russland hat seine Lücke: Nach dem Preis des Sieges, nach Kriegsgefangenen, Zwangsarbeitern und deportierten Völkern wurde nicht gefragt.
@@ -193,12 +193,12 @@ Ein Vierteljahrhundert später misst das Reconciliation Barometer: Die Bereitsch
 |---|---|---|
 | 10.10.2026 | [[Bartunek — Tillschneider vor der Synagoge in Halle#Wer bestimmt, wie erinnert wird?|Tillschneider vor der Synagoge in Halle]] | Gründungsnote. Staatsvertrag und GedenkStiftG Sachsen-Anhalt, AfD-Programm 2026, Höcke/Buchenwald 2017, Buchenwald-Komitee 2025, VG Weimar 2024, Hanau 2024–26 · MEMO 2025, Rees/Papendick/Zick 2021, KZ-Nähe-Debatte (Hoerner 2019, Homola 2020, Pepinsky 2023), Lüssenheide 2025 (Preprint) |
 | 26.10.2026 | [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel#Wem gehört ein Gedenken?\|Nachtsitzung — TheTrumpWeek]] | Hegseth am D-Day 2026: Umdeutung (Yoder 2023, Couperus et al. 2022), Wirkung von Metaphern und Analogien (Brugman et al. 2019, Jimenez et al. 2021, Steen et al. 2014, Menon et al. 2025), Russlands 9. Mai |
-| 28.10.2026 | [[Gedankenwelten/Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Wessen Tote werden erinnert?\|Chandrinos — Griechenland unter deutscher Besatzung]] | Eröffnet die vierte Frage. Griechenland: Ochi-Tag, Gesetz 1285/1982, Gesetz 1863/1989 und Aktenverbrennung 1989, Meligalas, 12. Oktober seit 2015 · Spanien (Davis 2005, Gesetze 2007/2022, Konkordienrecht 2024), Finnland 1940, 8. Mai (infratest 2020) · Olsen/Payne/Reiter 2010, Dancy 2018, Aguilar, Barceló 2025, Balcells 2011, Fouka & Voth 2022 |
+| 28.10.2026 | [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung#Wessen Tote werden erinnert?\|Chandrinos — Griechenland unter deutscher Besatzung]] | Eröffnet die vierte Frage. Griechenland: Ochi-Tag, Gesetz 1285/1982, Gesetz 1863/1989 und Aktenverbrennung 1989, Meligalas, 12. Oktober seit 2015 · Spanien (Davis 2005, Gesetze 2007/2022, Konkordienrecht 2024), Finnland 1940, 8. Mai (infratest 2020) · Olsen/Payne/Reiter 2010, Dancy 2018, Aguilar, Barceló 2025, Balcells 2011, Fouka & Voth 2022 |
 
 | 07.11.2026 | [[Simplicissimus — Der Freiwillige von Auschwitz#Wem gehört ein Held?\|Simplicissimus — Der Freiwillige von Auschwitz]] | Polen: IPN-Gesetz 2018 und Rücknahme, Pilecki-Institut 2017–2025 (Ruchniewicz, Madaj), Gedenktag 1. März 2011 · Kończal 2020, Jaskułowski & Majewski 2023/2024 |
-| 09.11.2026 | [[Gedankenwelten/Geistesblitz/Wolfgang Niess — Der 9. November#Wem gehört der 9. November?\|Wolfgang Niess — Der 9. November]] | Wem gehört ein Gedenken und schützt Erinnerung: AfD-Antrag 21/2043, Stäblein 2026, Weber (EVZ) gegen die Klammer der Daten, KMK 2009, MEMO 2025 („Freiwilligkeit wirkt“), Firestone u. a. 2025, Hamburger Pflichtbesuch |
+| 09.11.2026 | [[Geistesblitz/Wolfgang Niess — Der 9. November#Wem gehört der 9. November?\|Wolfgang Niess — Der 9. November]] | Wem gehört ein Gedenken und schützt Erinnerung: AfD-Antrag 21/2043, Stäblein 2026, Weber (EVZ) gegen die Klammer der Daten, KMK 2009, MEMO 2025 („Freiwilligkeit wirkt“), Firestone u. a. 2025, Hamburger Pflichtbesuch |
 | 15.11.2026 | [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland#Wessen Tote werden erinnert?\|Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]] | Die Leerstelle der sowjetischen Toten: MEMO IV 2021, Gräbergesetz, sowjetische Kriegsgräberstätten, Zeithain, Stalag 326 (Kreistag 2023/2025), Kriegsgefangenen-Datenprojekt 2000–2014, ZWBE und polnischer Gedenkort, Steinmeier in Karlshorst 2021, russische Note zu Leningrad 2024 · Noor u. a. 2012, Vollhardt & Bilali 2014, Rothberg 2009, Kay 2024 |
-| 15.11.2026 | [[Gedankenwelten/Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar\|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]] | Wessen Tote werden erinnert? Der verleugnete Großonkel Luis Cusicanqui am Allerheiligen-Altar; Allerheiligen-Massaker 1979, 300 Tote, nie eingefordert, sagt sie (dokumentiert: über 100 bis über 200) |
+| 15.11.2026 | [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi#Die Toten am Altar\|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]] | Wessen Tote werden erinnert? Der verleugnete Großonkel Luis Cusicanqui am Allerheiligen-Altar; Allerheiligen-Massaker 1979, 300 Tote, nie eingefordert, sagt sie (dokumentiert: über 100 bis über 200) |
 | 17.11.2026 | [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten#Sitzen die Fakten, und reichen sie?\|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] | Wissen ohne Haltung: MEMO-Jugendstudie 2023 (Panel), Claims Conference 2025, Pistone 2023, Babińska/Rees/Bilewicz 2026, Imhoff & Messer 2019, Barr 2015 (Facing History), Neundorf 2026, Hale 2025 · neu Wagner |
 | 17.11.2026 | [[Ralf K. Wuestenberg — Versoehnung und Amnestie#Hat die Wahrheit versöhnt?\|Wüstenberg — Wahrheit gegen Straffreiheit]] | Eröffnet die fünfte Frage: Gibson 2004 (truth acceptance), Backer 2010 (Opfer-Panel), Stein u. a. 2008, Reconciliation Barometer 2025 (vergeben 55→70 %, vergessen 76→64 %). Tagesnote Buß- und Bettag |
 | 20.11.2026 | [[Georgine Kellermann — Der lange Weg zu mir selbst\|Georgine Kellermann — Der lange Weg zu mir selbst]] | Stimme ohne Nachbesprechung: Gwendolyn Ann Smith und der Transgender Day of Remembrance, Gedenken gegen das Vergessen (Tagesnote 20.11.) |
@@ -216,7 +216,7 @@ Dort die Frage, wie Menschen zu Tätern werden, hier die, wie ein Land sich an s
 ### → [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 Die Wähler, die hier eine „geänderte Gedenkkultur“ möglich machen würden, stehen dort im Mittelpunkt — und ob Gedenkorte sie beeinflussen, ist hier die offene Frage.
 
-### → [[Gedankenwelten/Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht]]
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht]]
 Die Spur misst, ob eine AfD mit Machtmitteln einlöst, was das Gutachten befürchtet; die Erinnerungspolitik ist eines ihrer Prüffelder.
 
 ---

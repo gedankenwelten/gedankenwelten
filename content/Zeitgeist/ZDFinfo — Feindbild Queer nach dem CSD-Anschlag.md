@@ -29,7 +29,7 @@ stimme:
 
 # ZDFinfo — Feindbild Queer nach dem CSD-Anschlag
 
-![[Gedankenwelten/assets/ZDFinfo-Feindbild-Queer-nach-dem-CSD-Anschlag-banner.jpg|1200]]
+![[assets/ZDFinfo-Feindbild-Queer-nach-dem-CSD-Anschlag-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -61,25 +61,25 @@ Quelle: [Anschlag auf CSD: Wie der Hass auf queere Menschen zunimmt](https://www
 > [!info] Wer spricht?
 > Der Film blendet die Namen ein; wer spricht, haben wir an den Einblendungen und Standbildern bestimmt.
 >
-> **Barbie Breakout** — Drag Queen, Aktivistin, Autorin, Moderatorin und Podcasterin aus Berlin, gelernte Maskenbildnerin, seit 2023 Gastgeberin von *Drag Race Germany* ([Bio](https://barbiebreakout.shop/pages/barbie-breakout-bio)). Sie spricht auf der Gedenkveranstaltung am Brandenburger Tor und ist die erste Stimme des Films. → [[Gedankenwelten/DenkerVita/Barbie Breakout|DenkerVita]]
+> **Barbie Breakout** — Drag Queen, Aktivistin, Autorin, Moderatorin und Podcasterin aus Berlin, gelernte Maskenbildnerin, seit 2023 Gastgeberin von *Drag Race Germany* ([Bio](https://barbiebreakout.shop/pages/barbie-breakout-bio)). Sie spricht auf der Gedenkveranstaltung am Brandenburger Tor und ist die erste Stimme des Films. → [[DenkerVita/Barbie Breakout|DenkerVita]]
 >
-> **Paul Ninus Naujoks** — Autor, Speaker und Künstler aus Hamburg, trans Mann, Mitgründer der Trans*Community Hamburg, Buch *Männer & Zerbrechlichkeiten* (2022); selbst Opfer eines queerfeindlichen Angriffs ([Website](https://www.paulninusnaujoks.com/blank-1)). → [[Gedankenwelten/DenkerVita/Paul Ninus Naujoks|DenkerVita]]
+> **Paul Ninus Naujoks** — Autor, Speaker und Künstler aus Hamburg, trans Mann, Mitgründer der Trans*Community Hamburg, Buch *Männer & Zerbrechlichkeiten* (2022); selbst Opfer eines queerfeindlichen Angriffs ([Website](https://www.paulninusnaujoks.com/blank-1)). → [[DenkerVita/Paul Ninus Naujoks|DenkerVita]]
 >
-> **Seyran Ateş** — Juristin und Autorin aus Berlin, gläubige Muslimin; 2017 gründete sie mit anderen die Ibn-Rushd-Goethe-Moschee, in der Frauen und Männer ohne Trennung beten ([seyranates.de](https://www.seyranates.de/)). Sie lebt unter Polizeischutz. → [[Gedankenwelten/DenkerVita/Seyran Ateş|DenkerVita]]
+> **Seyran Ateş** — Juristin und Autorin aus Berlin, gläubige Muslimin; 2017 gründete sie mit anderen die Ibn-Rushd-Goethe-Moschee, in der Frauen und Männer ohne Trennung beten ([seyranates.de](https://www.seyranates.de/)). Sie lebt unter Polizeischutz. → [[DenkerVita/Seyran Ateş|DenkerVita]]
 >
 > **Tugay Sarac** — LGBTQ-Koordinator der Ibn-Rushd-Goethe-Moschee, ehemaliger Islamist, schwul.
 >
-> **Lucas Krzikalla** — Handballer aus Großenhain, rund 14 Jahre beim SC DHfK Leipzig, seit Sommer 2026 bei den Münchner Panthern; seit 2022 offen schwul ([BR24](https://www.br.de/nachrichten/sport/handball-regionalliga-lucas-krzikalla-spricht-ueber-sein-coming-out-und-die-aengste-dabei,VVqARbB)). → [[Gedankenwelten/DenkerVita/Lucas Krzikalla|DenkerVita]]
+> **Lucas Krzikalla** — Handballer aus Großenhain, rund 14 Jahre beim SC DHfK Leipzig, seit Sommer 2026 bei den Münchner Panthern; seit 2022 offen schwul ([BR24](https://www.br.de/nachrichten/sport/handball-regionalliga-lucas-krzikalla-spricht-ueber-sein-coming-out-und-die-aengste-dabei,VVqARbB)). → [[DenkerVita/Lucas Krzikalla|DenkerVita]]
 >
-> **Pierre Sanoussi-Bliss** — Schauspieler und Regisseur, geboren 1962 in Ost-Berlin, studierte an der Schauspielschule „Ernst Busch“, von 1997 bis 2015 in *Der Alte* ([Querverlag](https://www.querverlag.de/pierre-sanoussi-bliss/)). → [[Gedankenwelten/DenkerVita/Pierre Sanoussi-Bliss|DenkerVita]]
+> **Pierre Sanoussi-Bliss** — Schauspieler und Regisseur, geboren 1962 in Ost-Berlin, studierte an der Schauspielschule „Ernst Busch“, von 1997 bis 2015 in *Der Alte* ([Querverlag](https://www.querverlag.de/pierre-sanoussi-bliss/)). → [[DenkerVita/Pierre Sanoussi-Bliss|DenkerVita]]
 >
 > **Steffi und Ellen Radtke** — evangelische Pastorinnen in Osnabrück, ein Paar. Dazu **Malte Völkers** aus ihrer Gemeinde.
 >
-> **Birgit Kelle** — Publizistin und Autorin, Kolumnistin unter anderem bei Focus, Welt und Nius; sie schreibt gegen Gender-Mainstreaming und Leihmutterschaft ([vollekelle.de](https://vollekelle.de/ueber-mich/)). Im Film vertritt sie die Gegenposition. → [[Gedankenwelten/DenkerVita/Birgit Kelle|DenkerVita]]
+> **Birgit Kelle** — Publizistin und Autorin, Kolumnistin unter anderem bei Focus, Welt und Nius; sie schreibt gegen Gender-Mainstreaming und Leihmutterschaft ([vollekelle.de](https://vollekelle.de/ueber-mich/)). Im Film vertritt sie die Gegenposition. → [[DenkerVita/Birgit Kelle|DenkerVita]]
 >
-> **Bertolt Meyer** — Psychologe an der TU Chemnitz (Arbeits-, Organisations- und Wirtschaftspsychologie), forscht zu Vielfalt und Stereotypen; im Film als Sozialpsychologe eingeblendet ([TU Chemnitz](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12370)). → [[Gedankenwelten/DenkerVita/Bertolt Meyer|DenkerVita]]
+> **Bertolt Meyer** — Psychologe an der TU Chemnitz (Arbeits-, Organisations- und Wirtschaftspsychologie), forscht zu Vielfalt und Stereotypen; im Film als Sozialpsychologe eingeblendet ([TU Chemnitz](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12370)). → [[DenkerVita/Bertolt Meyer|DenkerVita]]
 >
-> **Eren Güvercin** — Publizist aus Köln, Mitgründer und stellvertretender Vorsitzender der Alhambra-Gesellschaft, dort heute in einem Projekt zur Islamismusprävention ([Alhambra-Gesellschaft](https://alhambra-gesellschaft.de/vorstand/)); im Film als Islamwissenschaftler eingeblendet. → [[Gedankenwelten/DenkerVita/Eren Güvercin|DenkerVita]]
+> **Eren Güvercin** — Publizist aus Köln, Mitgründer und stellvertretender Vorsitzender der Alhambra-Gesellschaft, dort heute in einem Projekt zur Islamismusprävention ([Alhambra-Gesellschaft](https://alhambra-gesellschaft.de/vorstand/)); im Film als Islamwissenschaftler eingeblendet. → [[DenkerVita/Eren Güvercin|DenkerVita]]
 >
 > Weitere Fachleute: · **Eva Groß**, Kriminologin · **Michael Hunklinger** und **Katharina Mosene**, Politikwissenschaft · **Tobias Conrad**, Polizei Hamburg.
 
@@ -335,7 +335,7 @@ Bertolt Meyer zählt die Wörter auf, mit denen der Schutz der Kinder zur Waffe 
 
 Tugay Sarac ging in den Islamismus, um vor sich selbst zu fliehen. Am Anfang stand ein Vater, der dem Dreijährigen die Hand vom Kinderwagen schlug: „Das ist schwul.“ Felix Benneckenstein übernahm in der Neonaziszene die Pflicht „Als Mann musst du dich auch prügeln können“, obwohl ihm Gewalt nicht lag. Zwei Szenen, die einander bekämpfen, und in beiden Biografien steht dieselbe Vorstellung davon, was ein Mann tun muss. Eva Groß beschreibt sie im Film als „Halt“ für unsichere Menschen. Wichmanns Befund, dass Argumente abperlen und Begegnung über Jahre wirkt, gehört zur letzten Frage der Note.
 
-### → [[Gedankenwelten/Panorama/Warum waehlen Menschen Autoritaere#Ist der Backlash der Preis des Fortschritts?|Warum wählen Menschen Autoritäre?]]
+### → [[Panorama/Warum waehlen Menschen Autoritaere#Ist der Backlash der Preis des Fortschritts?|Warum wählen Menschen Autoritäre?]]
 
 Hunklingers Satz vom Teil der Macht, den man abgeben muss, steht im wachsenden Panorama bei der Frage, ob der Backlash der Preis des Fortschritts ist, neben El-Mafaalanis Tisch, Bleischs Gegenschlag auf den Körper und Crenshaws Rückbau, der jedem Fortschritt folgt.
 
