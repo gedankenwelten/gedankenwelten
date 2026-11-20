@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 141,
-   "aufrufe": 172
+   "leser": 140,
+   "aufrufe": 170
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -25,13 +25,13 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 39,
-   "aufrufe": 42
+   "leser": 40,
+   "aufrufe": 43
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 25,
-   "aufrufe": 27
+   "leser": 26,
+   "aufrufe": 28
   },
   {
    "pfad": "/DenkerVita/Kalayo",
@@ -84,14 +84,14 @@
    "aufrufe": 11
   },
   {
-   "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-   "leser": 9,
-   "aufrufe": 12
-  },
-  {
    "pfad": "/DenkerVita/Carlo-Cipolla",
    "leser": 9,
    "aufrufe": 10
+  },
+  {
+   "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+   "leser": 8,
+   "aufrufe": 11
   },
   {
    "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
@@ -209,11 +209,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Byung-Chul-Han",
-   "leser": 4,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/DenkerVita/Christian-Bauckhage",
    "leser": 4,
    "aufrufe": 5
@@ -302,6 +297,11 @@
    "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
    "leser": 4,
    "aufrufe": 4
+  },
+  {
+   "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
+   "leser": 4,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -320,8 +320,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 15,
-     "aufrufe": 17
+     "leser": 14,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -330,8 +330,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 9,
-     "aufrufe": 9
+     "leser": 10,
+     "aufrufe": 10
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -369,11 +369,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
      "leser": 4,
      "aufrufe": 5
@@ -400,6 +395,11 @@
     },
     {
      "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
      "leser": 3,
      "aufrufe": 4
     },
@@ -432,6 +432,11 @@
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 2,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 2,
+     "aufrufe": 3
     },
     {
      "pfad": "/Zeitgeist/Anna-Verena-Nosthoff-Kybernetik-und-die-Macht-der-Tech-Eliten-(scobel)",
@@ -579,22 +584,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Denker/Andreas-Reckwitz-Fortschritt-NEU-DENKEN",
      "leser": 1,
      "aufrufe": 1
     },
     {
      "pfad": "/Denker/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
      "leser": 1,
      "aufrufe": 1
     },
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Eve-Morisi-Camus-gegen-die-Todesstrafe",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 141,
-     "aufrufe": 172
+     "leser": 140,
+     "aufrufe": 170
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -635,13 +635,13 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 39,
-     "aufrufe": 42
+     "leser": 40,
+     "aufrufe": 43
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 25,
-     "aufrufe": 27
+     "leser": 26,
+     "aufrufe": 28
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -694,14 +694,14 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 12
-    },
-    {
      "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 9,
      "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 8,
+     "aufrufe": 11
     },
     {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
@@ -819,11 +819,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 4,
      "aufrufe": 5
@@ -912,6 +907,11 @@
      "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
      "leser": 4,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
+     "leser": 4,
+     "aufrufe": 4
     }
    ]
   },
@@ -930,13 +930,13 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 127,
-     "aufrufe": 135
+     "leser": 128,
+     "aufrufe": 136
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 119,
-     "aufrufe": 142
+     "leser": 120,
+     "aufrufe": 143
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1235,13 +1235,13 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 127,
-     "aufrufe": 135
+     "leser": 128,
+     "aufrufe": 136
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 119,
-     "aufrufe": 142
+     "leser": 120,
+     "aufrufe": 143
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1555,8 +1555,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 22,
-     "aufrufe": 22
+     "leser": 23,
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1589,17 +1589,17 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 8,
      "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 8,
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1769,11 +1769,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 3,
      "aufrufe": 3
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Shi-Heng-Yi",
      "leser": 2,
      "aufrufe": 2
     }

@@ -59,7 +59,7 @@ Parallel reichte Kenia eine formale Beschwerde ein — Office of the Data Protec
 
 ### Bundestag-Fachgespräch April 2026
 
-Joan wurde zur Expert Witness eingeladen: Fachgespräch im Deutschen Bundestag zu **Data Labeler Working Conditions in Global Supply Chains**. Zusammen mit [[Julia Kloiber|Julia Kloiber]] (SUPERRR Lab, Prototype Fund) präsentierte sie vor dem Arbeitsausschuss die Realität: Living Wage ist Minimum, nicht Großzügigkeit. 8 Stunden pro Tag ist nicht Luxus. Arbeitsverträge sind kein Bettelbrief.
+Joan wurde zur Expert Witness eingeladen: Fachgespräch im Deutschen Bundestag zu **Data Labeler Working Conditions in Global Supply Chains**. Zusammen mit [[Julia Kloiber|Julia Kloiber]] (SUPERRR Lab, Prototype Fund) präsentierte sie, aus Kenia zugeschaltet, am 15. April 2026 vor dem Ausschuss für Digitales und Staatsmodernisierung die Realität ([Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw16-pa-digitales-data-labelern-1161962)): Living Wage ist Minimum, nicht Großzügigkeit. 8 Stunden pro Tag ist nicht Luxus. Arbeitsverträge sind kein Bettelbrief.
 
 ---
 
@@ -71,7 +71,7 @@ Joan ist keine Akademikerin — ihre "Publikationen" sind **Zeugnis und Aktion**
 |---|---|
 | **Data Labelers Association Kenya** | 1.100+ Mitglieder; Advocacy für Living Wages, Mental Health Support, Contract Protection, Worker Voice in Policy |
 | **BMZ Digital Interview** | [5 Questions for Joan Kinyua](https://www.bmz-digital.global/en/5-questions-joan-kinyua/) — Deutsche Entwicklungszusammenarbeit erkennt sie als Authorität an |
-| **Bundestag-Fachgespräch** | April 2026 mit Julia Kloiber; Arbeitsausschuss; Policy-Zeugnis |
+| **Bundestag-Fachgespräch** | 15.04.2026 mit Julia Kloiber und Milagros Miceli; Ausschuss für Digitales und Staatsmodernisierung, zugeschaltet |
 | **re:publica 26 Talk** | Panel: "Inside AI's Human Assembly Line — the invisible workers building AI models" mit Julia Kloiber |
 | **Online Advocacy** | Artikel, Tweets, Plattformen-Statements zu Data Labor Rights; Netzwerk Platform Cooperativism Consortium |
 | **Laufende Klassenklage** | Ksh 25,9 Mrd gegen Meta und Sama wegen Ray-Ban Footage Privacy Violations |

@@ -21,11 +21,11 @@ aliases:
 Quelle: [Inside AI's Human Assembly Line – re:publica 26](https://www.youtube.com/watch?v=lSd8vuTz9so)
 
 > [!info] Wer spricht?
-> **Julia Kloiber** — Digital-Rights-Aktivistin und Gründerin von SUPERRR Lab (Berlin). Kämpft für feministische Technologiepolitik, digitale Gerechtigkeit und Arbeitnehmerrechte von Data Workers. Früher Mozilla Foundation, Ashoka, Open Knowledge Foundation; Co-Initiatorin des Prototype Fund und Code for Germany.
+> **Julia Kloiber** — Digital-Rights-Aktivistin und Mitgründerin von SUPERRR Lab (Berlin, 2019, mit Elisa Lindinger). Kämpft für feministische Technologiepolitik, digitale Gerechtigkeit und Arbeitnehmerrechte von Data Workers. Früher Mozilla Foundation, Ashoka, Open Knowledge Foundation; Co-Initiatorin des Prototype Fund und Code for Germany.
 >
-> **Joan Kinyua** — Gründungspräsidentin der Data Labelers Association Kenya. Seit 2017 selbst Data Annotatorin, hat 8 Jahre unsichtbare KI-Arbeit von Kenia aus erledigt — Straßen in Berlin kartiert, Röntgenaufnahmen bewertet, verstörendste Inhalte aus Trainingsdaten gefiltert. Die Association hat über 1.000 Mitglieder und sitzt heute im Bundestag mit am Tisch.
+> **Joan Kinyua** — Mitgründerin und Präsidentin der Data Labelers Association Kenya. Seit 2017 selbst Data Annotatorin, hat 8 Jahre unsichtbare KI-Arbeit von Kenia aus erledigt — Berliner Straßenbilder annotiert, Röntgenaufnahmen bewertet, verstörendste Inhalte aus Trainingsdaten gefiltert. Die Association hat über 1.000 Mitglieder; im April 2026 sprach Kinyua, aus Kenia zugeschaltet, in einem Fachgespräch des Digitalausschusses im Bundestag.
 >
-> **Ephantus Kanyugi** — Vizepräsident der Data Labelers Association, sollte gemeinsam mit Joan sprechen. Ihm wurde das Visum für Deutschland verweigert. Dieser Umstand eröffnet den Talk — und ist kein Zufall.
+> **Ephantus Kanyugi** — Vizepräsident der Data Labelers Association, sollte gemeinsam mit Joan sprechen. Er bekam kein Visum für Deutschland. Dieser Umstand eröffnet den Talk — und ist kein Zufall.
 >
 > → [[DenkerVita/Julia Kloiber|DenkerVita Julia Kloiber]]
 > → [[DenkerVita/Joan Kinyua|DenkerVita Joan Kinyua]]
@@ -55,7 +55,7 @@ Es gibt keine elegantere Einleitung zu diesem Thema. Der Talk beginnt mit dem Be
 
 [▶ 1:30](https://www.youtube.com/watch?v=lSd8vuTz9so&t=90)
 
-Julia Kloiber erklärt zunächst das System — für ein Publikum, das täglich KI nutzt und dabei selten fragt, wer eigentlich dahintersteckt. Die Antwort: eine globale, fragmentierte Arbeitskraft aus 150 bis 430 Millionen Menschen (Weltbank-Schätzung), die täglich mit Augen, Ohren und Urteilsvermögen das tun, was Maschinen noch nicht alleine können.
+Julia Kloiber erklärt zunächst das System — für ein Publikum, das täglich KI nutzt und dabei selten fragt, wer eigentlich dahintersteckt. Die Antwort: eine globale, fragmentierte Arbeitskraft aus 150 bis 430 Millionen Menschen, so liest sie eine Weltbank-Schätzung (die Weltbank zählt alle, die über Online-Plattformen arbeiten, → [[#Faktencheck|Faktencheck]]), die täglich mit Augen, Ohren und Urteilsvermögen das tun, was Maschinen noch nicht alleine können.
 
 Data Workers annotieren Bilder. Sie moderieren Inhalte. Sie schreiben Prompts. Sie beschriften Krebsscans. Sie beurteilen autonomes Fahren. Und sie tun das alles in einem System, das **strukturell auf Unsichtbarkeit ausgelegt ist**.
 
@@ -148,7 +148,7 @@ Joan hat zusammen mit Ephantus Kanyugi 2024 die Data Labelers Association Kenya 
 Sie nennt drei Forderungen an Politiker — besonders europäische:
 
 1. **Inklusive Policies**: Arbeitnehmer an den Tisch holen, wenn KI-Regulierung gemacht wird. Nicht über sie, sondern mit ihnen.
-2. **Konsequenter Verbraucherschutz**: Die EU AI Act und verwandte Gesetze nicht abschwächen zugunsten der Big Tech.
+2. **Keine Schonung für Big Tech**: Gesetze dürfen gegenüber den großen Tech-Firmen nicht aufgeweicht werden; als Gegenbeispiel nennt sie ein kenianisches Gesetz, das die Konzerne schütze statt die Arbeiter [▶ 26:39](https://www.youtube.com/watch?v=lSd8vuTz9so&t=1599). Ein bestimmtes europäisches Gesetz nennt sie nicht.
 3. **Awareness**: Die breite Öffentlichkeit weiß nicht, dass es diese Arbeit gibt. Das muss sich ändern.
 
 Die Association kämpft auch gegen das Framing als „Clickwork". Joan und ihre Kollegen haben Universitätsabschlüsse in Wirtschaft, Rechtswissenschaft, Aktuarwissenschaft. Das Label „uneducated click workers" ist politisch, nicht deskriptiv — es dient dazu, Arbeitnehmerrechte nicht ernst nehmen zu müssen.
@@ -176,8 +176,8 @@ Julia Kloibers Antwort ist scharf: Die Unternehmen haben Milliarden investiert u
 > [!success] Bestätigt — PTSD-Studie an kenianischen Content-Moderatoren
 > 140 kenianische Facebook-Content-Moderatoren wurden am Kenyatta National Hospital getestet und alle 140 zeigten PTSD-Symptome. Quelle: [The Guardian, Dezember 2024](https://www.theguardian.com/technology/2024/dec/14/all-140-kenyan-facebook-moderators-tested-showed-signs-of-ptsd-court-hears)
 
-> [!success] Bestätigt — 150 bis 430 Millionen Data Workers weltweit
-> Die Weltbank schätzt die Zahl der Data Workers global auf 150 bis 430 Millionen. Quelle: [World Bank Digital Development Blog, 2023](https://blogs.worldbank.org/digital-development/future-digital-jobs-growing-need-data-annotation-work)
+> [!warning] Vereinfacht — 150 bis 430 Millionen Data Workers weltweit
+> Die Weltbank schätzt 154 bis 435 Millionen Online-Gigworker weltweit, also alle, die über Online-Plattformen arbeiten; Datenarbeit ist ein Teil davon. Die Zahl taugt als Obergrenze, nicht als Zahl der Datenarbeiter. Quelle: [Weltbank, *Working Without Borders*, 2023](https://thedocs.worldbank.org/en/doc/072814bbbb56aebd4db387154c3df3a5-0460012023/overview-english-working-without-boarders-online-gig-work). *(Bis 20.11.2026 stand hier „Bestätigt“ mit einem Link, der nicht mehr erreichbar ist.)*
 
 > [!success] Bestätigt — Massenkündigung nach Meta-Recherche in Kenya
 > Nach der Kooperation kenianischer Data Workers mit schwedischen Journalisten (zur Meta Ray-Ban-Recherche) wurden über 1.100 Mitarbeiter von Outsourcing-Unternehmen in Kenya entlassen. Quelle: [Datalabelers.org Pressroom, April 2026](https://datalabelers.org)
@@ -241,7 +241,7 @@ Beide Notes entstammen der re:publica 26 und kreisen um Machtasymmetrien — dor
 
 ### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
-Ebenfalls re:publica 26 — aber aus der entgegengesetzten Perspektive: Büttner und Kaufmann diskutieren KI-Souveränität aus Unternehmersicht, während diese Note zeigt, welche menschlichen Kosten der EU AI Act durch seine Schutzlücken produziert. Beide beklagen dasselbe Regulierungsversagen — aus völlig verschiedenen Richtungen.
+Ebenfalls re:publica 26 — aber aus der entgegengesetzten Perspektive: Büttner und Kaufmann diskutieren KI-Souveränität aus Unternehmersicht, während diese Note zeigt, welche menschlichen Kosten entstehen, wenn Regeln die Lieferketten der KI nicht erreichen. Büttner und Kaufmann wollen weniger Regulierung, Kloiber und Kinyua wollen, dass sie Big Tech nicht schont.
 
 ### → [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
 

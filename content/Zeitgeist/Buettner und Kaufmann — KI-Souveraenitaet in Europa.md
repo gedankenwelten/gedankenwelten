@@ -220,7 +220,7 @@ Gehring & Gießmann verhandeln dieselbe Grundfrage — europäische Abhängigkei
 Bria kartiert, wie privatisierte Souveränität entsteht — Palantir, Musk, Thiel übernehmen staatliche Kernfunktionen. Büttner und Kaufmann beschreiben Europas Weg in genau diese Abhängigkeit: 90%+ US-Marktanteil sind nicht Marktversagen, sondern State Capture in Zeitlupe. Bria liefert die Makro-Diagnose, Büttner/Kaufmann den operativen Gegenentwurf.
 
 ### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]]
-Beide Notes entstammen der re:publica 26 und zeigen gegensätzliche Perspektiven auf dasselbe Regulierungsversagen: Kloiber/Kinyua zeigen, dass der EU AI Act konkrete menschliche Kosten hat — in Kenia, Nigeria, auf den Philippinen. Büttner und Kaufmann beklagen DSGVO-Scheitern aus Marktsicht. Die Ironie: beide kritisieren dasselbe, aus völlig verschiedenen Richtungen.
+Beide Notes entstammen der re:publica 26 und zeigen gegensätzliche Perspektiven auf dasselbe Regulierungsversagen: Kloiber und Kinyua zeigen die menschlichen Kosten der KI-Lieferketten in Kenia und auch in Europa und verlangen Regeln, die Big Tech nicht schonen. Büttner und Kaufmann beklagen das Scheitern von DSGVO und AI Act aus Marktsicht und wollen weniger davon. Beide finden die heutige Regulierung unzureichend, aus entgegengesetzten Richtungen.
 
 ### → [[Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
 Das Panorama stellt die Kernfrage: Wie reagieren Demokratien, wenn ein einzelner Mensch (Musk) über Starlink die Kommunikationsinfrastruktur ganzer Länder kontrolliert? Büttners und Kaufmanns Souveränitätsbegriff ist die direkte operative Antwort: europäische Alternativen schaffen, bevor die Abhängigkeit irreversibel wird.
