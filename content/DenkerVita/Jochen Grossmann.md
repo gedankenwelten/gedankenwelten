@@ -1,12 +1,13 @@
 ---
-title: Prof. Dr.-Ing. Jochen Großmann — DenkerVita
-description: "Jochen Großmann, Dresdner Ingenieur und Gründer der GICON-Gruppe, baut in der Lausitz einen 365 Meter hohen Windturm und denkt die Energiewende als Systemaufgabe."
+title: Jochen Großmann — DenkerVita
+description: "Seine erste Firma gründete Jochen Großmann vom Krankenbett aus, seinen Windturm ließ er sich selbst heben. Der Dresdner Ingenieur fragt, woran gute Ideen hierzulande scheitern."
 date: 2026-05-16
-aktualisiert: 2026-05-16
+aktualisiert: 2026-11-20
+raetsel: "Den Notar bestellte er ans Krankenbett. Der Turm hob sich später selbst."
 tags: [denker-vita, energie, ingenieurskultur, deutschland, energiewende, technologie, nachhaltigkeit]
 ---
 
-# Prof. Dr.-Ing. Jochen Großmann — DenkerVita
+# Jochen Großmann — DenkerVita
 
 ![[assets/Jochen-Grossmann-vita-banner.jpg|Technische Blaupause: Zwei Turbinenräder sind über einen Wärmetauscher mit gewundenen Rohren verbunden, oben Filter und Messgeräte, ringsum Maße und englische Beschriftungen für Wärmetauscher, Wirkungsgrad und Turbine.|1200]]
 
@@ -20,165 +21,94 @@ tags: [denker-vita, energie, ingenieurskultur, deutschland, energiewende, techno
 
 ## Biografie
 
-**Jahrgang:** 1958 (DDR, sozialisiert an der TU Dresden)
+*Grundlage sind die Seiten von GICON (Biografie, Geschichte, Sachverständige, Pressemitteilungen), der Lebenslauf im Kursblatt der Universität Neapel, der Normdatensatz der Deutschen Nationalbibliothek, die Projektseite von SPRIND, Presseberichte (SZ, rbb24, ZDF, t-online) und drei Gespräche, in denen er selbst spricht: der DIGITALWERK Podcast (Mai 2026), sein Vortrag beim Ostdeutschen Energieforum (2023) und das Norio-Video unserer Note. Am 20.11.2026 neu geprüft.*
 
-**Ausbildung & Akademische Laufbahn:**
-- Studium 1978–1982: Thermischer und hydraulischer Maschinenbau + Informationsverarbeitung, TU Dresden
-- Promotion 1985: Automatisierung von Kernkraftwerken
-- Habilitation 1989: Komplexe energetische und ökologische Bewertung verfahrenstechnischer Prozesse (TU Dresden) — visionär für später dominante Themen: Energieeffizienz, Emissionsminderung, Systemoptimierung
+**Jochen Großmann** (geboren 1958 in Dresden) ist Ingenieur, Unternehmer und Gründer der GICON-Gruppe in Dresden, die er seit 2020 als Vorsitzender der Geschäftsleitung führt ([GICON](https://www.gicon.de/biografien-mitglieder), [DNB](https://lobid.org/gnd/1142152073)). Sich selbst sieht er als Mischung: „Es gibt sicherlich bessere Wissenschaftler als mich. Und es gibt vielleicht auch bessere Unternehmer, aber ich denke, die Mischung ist das, was mir Spaß macht“ ([Podcast](https://www.youtube.com/watch?v=79WuG0pbzkQ&t=323), ▶ 5:23). Bekannt wurde er mit dem GICON-Höhenwindturm in Schipkau in der Lausitz: 365 Meter hoch, die Nabe auf 300 Metern, die höchste Windenergieanlage der Welt. Am 28. September 2026 erreichte der Turm seine Endhöhe, am 19. November 2026 ging er ans Netz ([GICON](https://www.gicon.de/aktuelles/artikel/gicon-hoehenwindturm-erreicht-weltrekordhoehe-von-365-metern), [rbb24](https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-luebbenau-umspannwerk-ragow-bauantrag-grossspeicher/brandenburg-schipkau-windrad-in-betrieb.html)).
 
-**Unternehmerische Karriere:**
-- 1990–1994: Geschäftsführer der Großmann & Partner GmbH (Übergangsfirma, Altlastensanierung)
-- 1994: Gründung GICON-Consult GmbH (10 Mitarbeiter, Dachgeschosswohnung, Tiergartenstraße Dresden)
-- 1994–2020: Aufbau zur GICON-Gruppe (~700 Mitarbeiter, führendes Ingenieurbüro Ostdeutschlands)
-- Seit 2020: Vorsitzender der Geschäftsleitung (strategische Ausrichtung, Portfolio-Entwicklung)
+**Studium und Wissenschaft in der DDR.** Er studierte an der TU Dresden thermischen Maschinenbau und parallel Informationsverarbeitung, laut Norio-Video von 1978 bis 1982 und mit hydraulischem Maschinenbau als weiterer Fachrichtung, und wurde 1985 mit einer Arbeit über die Automatisierung von Kernkraftwerken promoviert ([Universität Neapel, Lebenslauf](https://www.dii.unina.it/source/eccellenza/vp/VP%20di%20Jochen%20Gro%C3%9Fmann%20v-2-1.pdf); [DIGITALWERK Podcast](https://www.youtube.com/watch?v=79WuG0pbzkQ&t=323), ▶ 5:23). 1987/88 forschte er am Moskauer Energetischen Institut, 1989 habilitierte er sich in Dresden über die „komplexe energetische und ökologische Bewertung verfahrenstechnischer Prozesse“ ([GICON](https://www.gicon.de/biografien-mitglieder)). Er erzählt, dass die Arbeit fast nicht verteidigt werden durfte: Sie modellierte, wie viele Schadstoffe bei der Energie- und Aluminiumproduktion der DDR frei werden, und hätte darum den höchsten Geheimhaltungsgrad bekommen müssen. Verteidigt wurde sie dann in der Wendezeit, nach seinen Worten schon „nach der Wende“ (Podcast, ▶ 9:11–10:42). 1989/90 leitete er die Abteilung Umweltschutz am ORGREB-Institut für Kraftwerke in Dresden (Lebenslauf Neapel).
 
-**Status:** Öffentlich bestellter und vereidigter Sachverständiger nach § 29a/29b BImSchG (Genehmigungsverfahren, Sicherheitsanalytik)
+**Die Gründung aus dem Krankenhaus.** Im Januar 1990 kam er zu einem Managementlehrgang für ostdeutsche Absolventen nach Düren, und ein westdeutscher Konzern wollte ihn als Geschäftsführer für die DDR und Russland. Dann kam eine Krebsdiagnose, ein halbes Jahr Krankenhaus in Düren, und der Konzern verlor das Interesse. Aus dem Krankenhaus heraus gründete er 1990 mit einem westdeutschen Partner seine erste Firma: ein GmbH-Ratgeber, der erste Gesellschaftervertrag, ein Notar ans Bett, dazu eine Genehmigung des Rats des Bezirks (Podcast, ▶ 11:27–18:24; [Norio](https://www.youtube.com/watch?v=kKoYDAMzd4o&t=184), ▶ 3:04). Bei GICON heißt diese Firma Großmann & Partner GmbH, er war dort von 1990 bis 1994 geschäftsführender Gesellschafter. 1994 trennten sich die Partner. Großmann fing neu an, und die meisten Mitarbeiter gingen mit ihm (Podcast, ▶ 19:09).
 
-## Bücher & Publikationen
+**GICON.** 1994 gründete er die GICON – Großmann Ingenieur Consult GmbH: zehn Mitarbeiter in einem Dachgeschoss in der Dresdner Tiergartenstraße 48 ([GICON, Geschichte](https://www.gicon.de/GICON_Gruppe_Geschichte)). Daraus wurde eine Gruppe mit nach seinen Worten rund 700 Mitarbeitern, unter den privat geführten Ingenieurbüros „eins der größten inzwischen in Deutschland“ (Podcast, ▶ 49:32, Stand Mai 2026). Forschung ist bei GICON Teil des Geschäfts: Den ersten Forschungsauftrag gab es 1992 mit dem Forschungszentrum Jülich, über Instrumente zur Klimagasreduktion ([Vortrag Ostdeutsches Energieforum](https://www.youtube.com/watch?v=mh-38d_vZOA&t=136), ▶ 2:16). Nach seinen Angaben hat die Firma nie Gewinne entnommen, rund 80 Millionen Euro in die Forschung gesteckt und hält etwa 100 Patente (Podcast, ▶ 29:01). Die Arbeitsfelder reichen von Genehmigungsverfahren und Altlasten über Biogasverfahren, Mikroalgen und schwimmende Fundamente für Offshore-Windräder bis zum Höhenwind. Eine Pilotanlage für Mikroalgen, aus denen Öl gewonnen werden soll, nahm GICON 2022 in Saudi-Arabien in Betrieb (Vortrag, ▶ 3:47).
 
-| Typ | Umfang | Beschreibung |
-|---|---|---|
-| **Veröffentlichungen** | ~200 | Wissenschaftliche Artikel, Konferenzbeiträge, Fachbuchkapitel zu Energietechnik, Umweltschutz, Altlastensanierung, Sicherheitstechnik, Automatisierung (1989–2026) |
-| **Patente** | 30+ (Großmann persönlich); ~100 (GICON-Verbund) | Schwerpunkte: erneuerbare Energien, Offshore-Fundamente, Windenergie-Engineering, Mikroalgenbiotechnologie |
-| **Vorlesungsreihe (Neapel)** | 2025 ff. | *"From Research to Innovation – a challenging route from research to market"* — Strukturierter Überblick der Reifegradentwicklung (TRL-1 bis TRL-9) anhand von GICON-Fallstudien |
+**BER 2014.** 2013 und 2014 war Großmann für die Planungskoordination des Flughafens Berlin Brandenburg zuständig ([DNB](https://lobid.org/gnd/1142152073)), im April 2014 wurde er Technikchef des Flughafens, Anfang Juni entlassen. Das Amtsgericht Cottbus verhängte einen Strafbefehl wegen Bestechlichkeit und Betrugs, ein Jahr auf Bewährung und 200.000 Euro Geldauflage. Großmann legte kein Rechtsmittel ein, der Strafbefehl wurde rechtskräftig ([SZ, 27.10.2014](https://www.sueddeutsche.de/wirtschaft/korruption-am-ber-bewaehrungsstrafe-fuer-ex-technikchef-grossmann-1.2193160)). Er selbst zählt es zu den zwei schwierigsten Phasen seiner Laufbahn (die andere war eine Offshore-Pilotanlage, die an der Genehmigung hing): „Das Ende war Berlin, die ganze Aktion damals beim Berliner Flughafen, wo es wirklich darum ging, das Unternehmen oder ich. Ich habe mich dann für mich entschieden, das Unternehmen hat überlebt und ich im Nachhinein auch.“ GICON habe danach sofort ein Compliance-System aufgebaut (Podcast, ▶ 20:40–21:25).
 
-**Publikationen in Quellen:**
-- Energy Reviews, ACS Publications, Renewable Energy Journals (selektierte Beispiele)
-- Konferenzproceedings: Bioprocessing Summit, International Energy Conferences, ISARC (Robotics)
-- Technik-Magazine: Wind Power Monthly, Offshore Wind Business
+**Der Höhenwindturm.** SPRIND, die Bundesagentur für Sprunginnovationen, verfolgt das Thema Höhenwind seit 2020. Den Anstoß gaben, unabhängig voneinander, Großmann und der Leipziger Ingenieur Horst Bendix, in der DDR Technik- und Forschungschef beim Schwermaschinenbauer Kirow ([SPRIND](https://www.sprind.org/taten/projekte/hoehenwindrad)). Ab Mai 2023 maß ein GICON-Messmast den Wind in 300 Metern Höhe, im Herbst 2024 begann der Bau des Turms. SPRIND investierte rund 55 Millionen Euro (rbb24). Das Prinzip ist ein Turm im Turm: Ein Gitterturm wird am Boden vormontiert, die Gondel in Kranhöhe aufgesetzt, dann fährt der Innenturm mit ihr nach oben. Die Pilotanlage hat 3,8 Megawatt, künftige Anlagen sollen mehr als 7 Megawatt haben. GICON erwartet etwa den doppelten Ertrag einer üblichen Anlage mit gleichem Rotor (GICON, 28.09.2026). Bei der Inbetriebnahme sagte Großmann: „Jetzt haben wir erstmal gezeigt, dass es technisch geht. Wir müssen im nächsten Schritt zeigen, dass es auch wirtschaftlich geht“ (rbb24).
+
+**Lehre und Ämter.** Von 2006 bis 2014 war er Honorarprofessor für „Management von Umwelt- und Sanierungsprojekten“ an der BTU Cottbus, seit 2016 ist er Gastprofessor am Institut für Strömungsmaschinen der Polnischen Akademie der Wissenschaften (IMP PAN) in Danzig (Lebenslauf Neapel, DNB). Im November 2025 lehrte er als Visiting Professor am Exzellenzdepartment für Industrieingenieurwesen der Universität Neapel Federico II, einen Kurs für Doktoranden über erneuerbare Energien auf dem Weg von der Forschung zum Markt, mit der Antrittsvorlesung „Reaching TRL 9“: von der ersten Idee bis zur Marktreife auf der neunstufigen Skala der Technologiereife ([Kursblatt](https://www.dii.unina.it/source/eccellenza/vp/VP%20di%20Jochen%20Gro%C3%9Fmann%20v-2-1.pdf), [GICON](https://www.gicon.de/news/article/gicon-ceo-prof-jochen-grossmann-appointed-visiting-prof-at-uni-naples)). Er ist öffentlich bestätigter Sachverständiger nach § 29a und § 29b des Bundes-Immissionsschutzgesetzes ([GICON, Biografie](https://www.gicon.de/biografien-mitglieder), [Sachverständige](https://www.gicon.de/unternehmen/sachverstaendige)) und engagiert sich privat für den Verein Rollimaus e. V. (GICON, Biografie).
+
+## Publikationen & Patente
+
+Großmann schreibt als Ingenieur, nicht als Buchautor. GICON nennt „über zweihundert Veröffentlichungen“ und „über 30 Patente weltweit“ (GICON, Biografie); die Universität Neapel schreibt von mehr als 50 Patenten. Die Werkdatenbank [OpenAlex](https://api.openalex.org/authors/A5109896491) kennt 33 Arbeiten aus den Jahren 1999 bis 2022, etwa in *Renewable Energy*, *Energies*, *ChemBioEng Reviews*, dem *Journal of Applied Phycology* und *Water Research*. Die Themen sind Grundwassersanierung, CO₂-Speicherung, schwimmende Fundamente für Offshore-Windräder und Mikroalgen. Bei [Google Patents](https://patents.google.com/?inventor=Jochen+Gro%C3%9Fmann) steht er in rund 30 Patentfamilien als Erfinder (Stand 20.11.2026, eigene Zählung): Biogas, Grundwasser, Mikroalgen, schwimmende Offshore-Fundamente, Gitterturm und Teleskop-Gitterturm.
 
 ## Empfehlenswerte Videos & Vorträge
 
-| Titel | Medium | Inhalt |
-|---|---|---|
-| [Euronews: Worlds Tallest Wind Turbine Being Built in Germany](https://www.euronews.com/2026/04/01/worlds-tallest-wind-turbine-being-built-in-germanys-former-coal-mining-region) | Euronews (April 2026) | Interview Großmann zum GICON-Höhenwindturm, 365m, 220% Ertragssteigerung, Teleskopmechanismus, Sicherheit |
-| [Tomorrow.City: Germany Builds World's Tallest Wind Turbine](https://www.tomorrow.city/germany-builds-worlds-tallest-wind-turbine/) | Tomorrow.City | Technische Dokumentation: Gitterturm, innenliegender Lift, Hybridkraftwerk-Konzept in der Lausitz |
-| [DW Planet A: Reviving Old Wind Turbines](https://www.youtube.com/watch?v=HHyk_c6tUxQ) | DW/YouTube | Ansatz zur Ertragssteigerung bestehender Standorte via Höhenwind-Nutzung |
-| GICON CEO appointed Visiting Prof at Uni Naples (2025) | GICON News | Ankündigung Federico-II-Visiting-Professur, Exzellenzprogramm Energiewende |
-| SPRIND High-Altitude-Wind-Turbine Project Page | SPRIND.org | Offizielle Projektbeschreibung, Förderung, technische Spezifikationen |
-
-**Interviews & Gespräche:**
-- Pressekonferenz zur GICON-SOF-Patentierung (USA Patent "Floating Platform with Improved Anchoring", 2014)
-- Kooperationsgespräche Saudi-Arabien (2024) — Mikroalgen-Projekte, CO₂-Bindung
-- Neapel-Vorlesungen (ab 2025) — live dokumentiert auf Uni-Server
+- [Von DDR-Habilitation unter Geheimhaltung zum höchsten Windrad der Welt!](https://www.youtube.com/watch?v=79WuG0pbzkQ) (DIGITALWERK Podcast, 19.05.2026, 1:01 Std.) — das ausführlichste Gespräch: Studium, Moskau, Habilitation, die Gründung aus dem Krankenhaus, die zwei Krisen, Forschung als Geschäftsmodell, Pilotanlage und Markt, Fehlerkultur, der Bau des Turms.
+- [Innovative Höhenwindkraftanlagen und Hybridkraftwerke](https://www.youtube.com/watch?v=mh-38d_vZOA) (12. Ostdeutsches Energieforum, Leipzig, 2023, 25 Min.) — sein Vortrag: Messmast, Turm im Turm, Hybridkraftwerk aus Solar, Wind und Höhenwind, Strom für die Industrie vor Ort.
+- [Wahnsinn! Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www.youtube.com/watch?v=kKoYDAMzd4o) (Norio, 2026, 21 Min.) — Grundlage unserer Note; Großmann mit kurzen O-Tönen, das meiste sagt der Erzähler.
+- [In diese Höhe reicht kein Kran. Warum man trotzdem baut – und wie!](https://www.youtube.com/watch?v=vwOA-so4RvQ) (DIGITALWERK Xplore, 23.08.2026, 15 Min.) — Reportage von der Baustelle, mit Großmann und dem Projektleiter.
 
 ## Kernthesen
 
-### 1. Der Ingenieur als "Innovationsbrücke" zwischen Wissenschaft und Industrie
+1. **Deutschland scheitert nicht an Ideen, sondern an der Pilotanlage und am Markt.** „Wir haben sicherlich gute Ingenieure, wir haben gute Forschungseinrichtungen, wir haben gute Ideen. So und dann kommt der nächste Schritt. Pilotanlagen bauen. Das erste Thema, wo der Mittelstand in der Regel scheitert, weil Pilotanlagen kosten Geld“ (Norio, ▶ 17:30). Danach kommt für ihn das „noch viel größere Problem“: Kontakte, Geld, Lobby und Markt (Podcast, ▶ 32:50). Den Begriff „Valley of Death“ bringt im Norio-Video der Erzähler ein, die Sache beschreibt Großmann selbst.
 
-Große Technologie-Sprünge gelingen nicht durch Spezialisierung auf reine Grundlagenforschung oder reine Industrialisierung, sondern durch Figuren, die beide Welten verstehen und aktiv vermitteln. Der Ingenieur ist Übersetzer: von wissenschaftlichen Prinzipien zu marktreifen Produkten, und umgekehrt von praktischen Problemen zurück zur Forschung.
+2. **Eine Innovation braucht einen Binnenmarkt.** China und die USA, sagt er, gäben ihren Innovationen den eigenen Markt frei; Deutschland mache „lieber eine weltweite Ausschreibung“, statt die ersten Anlagen einer deutschen Erfindung selbst zu bauen. Darum müsse der Staat, „oder auch von mir aus als Europa“, einen Binnenmarkt schaffen, „um diesen Innovationen die Chance zu geben. Das ist Lobbyismus. Ja, aber sonst bringe ich auch keine Wirtschaft mehr nach vorne“ (Podcast, ▶ 35:51, ▶ 44:57). SPRIND nennt er „eine geniale Aktion“ (▶ 48:01).
 
-Großmanns eigene Laufbahn (Habilitand → Unternehmer → Gastprofessor) verkörpert diese Doppelrolle. GICON war nie ein reines Dienstleistungsbüro, sondern ein F&E-getriebenes System mit eigenem IP-Portfolio — das ist die Brücke.
+3. **Fehler dürfen sein, Sicherheit geht trotzdem vor.** Die Bereitschaft, „aus Fehlern zu lernen, auch mal was zu versuchen“, habe Deutschland „ein Stück verlernt“ (Norio, ▶ 18:15). „Ein Fehler ist nur dann dumm, wenn man ihn zweimal macht“ (Podcast, ▶ 47:16). Zugleich: „Sicherheit geht vor, und wenn wir ein halbes Jahr verlieren, verlieren wir ein halbes Jahr. Es darf nichts passieren“ (▶ 46:30).
 
-### 2. Von TRL-1 zu TRL-9: Geschwindigkeit mit Qualitätsfokus
+4. **Neues an einer Stelle, Bewährtes drumherum.** Auf dem neuen Turm sitzt eine Standardturbine, „weil neuer Turm und neue Turbine macht keinen Sinn. Und dann weiß man nicht, wo kommt der Fehler her“ (Podcast, ▶ 55:33). Das Hindernis für höhere Windräder liegt für ihn im Kran: Europas größter hebe bis etwa 180 Meter, keiner bringe die Turbine höher (Podcast, ▶ 36:36–37:21). Also muss der Turm sich selbst heben.
 
-Innovation braucht Struktur. Die NASA-Skala der Technology Readiness Levels (TRL) definiert 9 Stufen vom "Ich habe eine Idee" (TRL-1) zum "Das System läuft zuverlässig im Feld" (TRL-9).
+5. **Strom dort erzeugen, wo er gebraucht wird.** „Ich verlagere praktisch die Energieproduktion dahin, wo ich die Energie auch brauche“ (Norio, ▶ 8:23). Höhenwind soll auch in Bayern und Baden-Württemberg tragen (Vortrag, ▶ 16:00). In bestehenden Windparks sieht er rechnerisch Platz für rund 4.000 Höhenwindräder als zweite Etage, etwa 40 Gigawatt ohne neue Flächen (Norio, ▶ 15:59). Im Vortrag schränkt er selbst ein: „das wird natürlich nicht mit 4000, aber selbst 1000 oder 2000“ wären ein großes Potenzial (Vortrag, ▶ 16:46–17:33). Ein Hybridkraftwerk aus Solar, Wind und Höhenwind auf einer Fläche komme auf den fünffachen Ertrag und „nah an die Grundlast“, einen Speicher brauche es trotzdem, weil die Dunkelflaute weder Wind noch Höhenwind überbrücken (Vortrag, ▶ 18:18–19:49). Bei Wasserstoff ist er vorsichtig: „so schön wie Wasserstoff und alles ist, am Ende ist es extra viel Verlust … Speicherung bedeutet immer Verlust“ (▶ 22:50).
 
-Großmann's These: Die meisten Innovationen scheitern nicht an schlechten Anfangsideen, sondern an der "Talsohle des Todes" zwischen Prototyp (TRL-6) und Markteinführung (TRL-9). Hier werden Projekte unterfinanziert oder verlieren an Qualitätsrigour.
+6. **Die Region baut mit.** Weil der Turm aus kurzen Stahlteilen besteht, können „zwei Drittel letztendlich der Wertschöpfung“ vor Ort bleiben, bei den örtlichen Stahlbauern (Vortrag, ▶ 15:13). „Früher war es mal so, die Industrie ist der Kohle gefolgt, die Industrie wird dem grünen Strom folgen“ (▶ 21:19).
 
-Seine Lösung: **Modulare Innovation** — nutze bewährte Komponenten (Standard-Windturbinen, konventionelle Stahlgittermasten) und konzentriere die Neuheit auf definierte Systemteile (Teleskopmechanismus, Fundamentsysteme). So verkürzt man Entwicklungszyklen, ohne auf Sicherheit zu verzichten.
+## Politische Einordnung
 
-### 3. Energiewende ist Systemaufgabe, nicht Technologie-Sammelsurium
+*Unsere Einordnung, nicht seine Selbstbeschreibung.* Großmann spricht als Ingenieur und Unternehmer, nicht als Parteigänger; eine Parteinähe ist nicht bekannt. Seine Forderungen laufen auf Industriepolitik hinaus: Staat oder Europa sollen eigenen Innovationen einen Markt schaffen, SPRIND ist für ihn das Vorbild. Die Energiewende misst er an einem Dreieck aus Sicherheit, Umwelt und Wirtschaftlichkeit: „Wir sind lange Zeit … mit der deutlichen Überbewertung der Umwelt gewesen. Was nicht heißt, Umwelt muss nicht bewertet werden … aber ich muss mir Umwelt leisten können. Und ich brauche eine sichere Versorgung“ (Podcast, ▶ 52:33–53:18). Für die nächsten zwanzig Jahre blieben, neben ein paar Prozent Wasserkraft und Geothermie, „nur Solar und Wind“ (▶ 54:03–54:48).
 
-Einzelne Windturbinen, einzelne Solarpanele ändern nichts. Die Energiewende braucht **integrierte Systeme**:
-- **Hybride Kraftwerke** — Höhenwind + bodennahe Wind + Solar auf einem Standort, gegenseitige Schwankungsglättung
-- **Offshore-Strategie** — schwimmende Fundamente (GICON-SOF) erschließen tiefes Wasser, reduzieren Flächenkonflikt
-- **Biotechnologische CO₂-Senken** — Mikroalgen binden CO₂ 30× effizienter als Regenwälder pro m², erzeugbar in Wüsten
-- **Sektorkopplung** — Strom, Wärme, Wasserstoff, Biomasse in einem Energiesystem denken
-
-### 4. Umweltverantwortung ist Qualitätsmerkmal, nicht Zusatzkosten
-
-Großmanns Habilitation (1989) behandelte bereits die "komplexe ökologische Bewertung" von Prozessen — nicht als nachträglicher Compliance-Gedanke, sondern als Designprinzip.
-
-Bei GICON bedeutet das: Umweltmonitoring (z.B. ornithologische Studien an Windkraftanlagen) ist nicht Genehmigungsauflage, sondern Quelle für technische Innovationen (bessere Fundamente, intelligente Abschaltalgorithmen). CO₂-Senken durch Algen sind nicht Kompensation, sondern Wertschöpfungsfeld.
-
-### 5. Systemische Energiewende ist auch Strukturwandel-Politik
-
-Der Höhenwindturm steht in der Lausitz — einer der größten Kohle-Regionen Europas. Das ist nicht Zufall. Sprunginnovationen sind Werkzeug für **regionale Transformation**: neue Industrien, neue Kompetenzzentren, neue Arbeitsplätze.
-
-Großmanns Verständnis: Technologie allein ist nicht genug. Ingenieure müssen auch verstehen, wie ihre Innovationen in lokale Wertschöpfungsketten, in Behördenprozesse, in gesellschaftliche Akzeptanz eingebettet sind.
-
-## Politische / ideologische Einordnung
-
-**Schwer zu klassifizieren** — Großmann ist Techniker, nicht Ideologe.
-
-Was sich aber ablesen lässt:
-
-- **Pro-Innovation, aber risikoavers** — Sicherheit und Qualität sind keine Verzögerungsfaktoren, sondern Voraussetzungen
-- **Pragmatisch liberal** — arbeitet mit SPRIND (Staat), mit Privatsektor, mit internationalen Partnern (Saudi-Arabien) — keine dogmatische Haltung zu Ownership/Regulierung
-- **Umweltbewusst ohne Romantik** — Energiewende ist notwendig, aber nicht durch Verzicht zu schaffen, sondern durch Technik-Innovation
-- **Systemisch-holistisch** — keine Parteilichkeit für einzelne Energieträger (Wind vs. Wasserstoff vs. Biomasse), sondern Kombination je nach Standort/Kontext
-- **Regional-entwicklungsorientiert** — Verständnis für Strukturwandel-Aspekte (nicht nur Klima, auch Arbeitsplätze, lokale Wertschöpfung)
-- **Sozial engagiert** — Unterstützung von Rollimaus e.V. zeigt, dass Nachhaltigkeit für ihn auch soziale Inklusivität meint
-
-**Keine klare Zuordnung zu Links/Rechts/Grün etc.** — das ist charakteristisch für einen Praktiker-Ingenieur.
-
-## Auszeichnungen & Institutionelle Anerkennung
+## Auszeichnungen
 
 | Auszeichnung | Jahr | Anlass |
 |---|---|---|
-| **Hugo-Junkers-Preis** | 2013 | Mitteldeutsches Biosolarzentrum (Hochschule Anhalt), GICON-Photobioreaktor, "Tannenbaum-Reaktor"; unabhängige Jury (Wissenschaft/Industrie/Wirtschaft) |
-| **Federico-II-Visiting Professor** | 2025 | Universität Neapel, Programma di Dipartimento di Eccellenza (Exzellenz-Cluster), europäische Innovation in erneuerbaren Energien |
-| **Gastprofessor** | 2010 ff. | Szewalski-Institut der Polnischen Akademie der Wissenschaften, Danzig (Strömungs- und Turbomaschinentechnik) |
-| **Sachverständiger** | § 29a/29b BImSchG | Permanente Bestellung durch deutsches Genehmigungswesen |
-| **SPRIND-Förderung** | 2023 ff. | Höhenwindturm-Projekt als "Sprunginnovation", Agentur für Sprunginnovationen der Bundesregierung |
+| Deutscher Nachhaltigkeitspreis 2027, Kategorie Produkte | Verleihung am 03.12.2026 | an GICON für den Höhenwindturm ([GICON, 16.10.2026](https://www.gicon.de/aktuelles/artikel/gicon-hoehenwindturm-gewinnt-deutschen-nachhaltigkeitspreis-2027)) |
+| Hugo-Junkers-Preis | 2013 | an die GICON-Gruppe für die Gründung des Mitteldeutschen Biosolarzentrums an der Hochschule Anhalt und den GICON-Photobioreaktor (GICON, Geschichte; nominiert war die Allianz aus Biosolarzentrum, Hochschule Anhalt und GICON, [IMG Sachsen-Anhalt](https://www.openpr.de/news/759830/Hugo-Junkers-Preis-2013-aus-Sachsen-Anhalt-Die-Preistraeger-stehen-fest.html)) |
+| Sächsischer Umweltpreis | 2013 | an GICON, Kategorie „Umweltfreundliche Technologien und Produktionsverfahren“ ([Video des Freistaats Sachsen](https://www.youtube.com/watch?v=hZIt0oGa7mg)) |
+
+Die Preise gingen an die Firma, nicht an ihn persönlich.
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Michael Sterner]] — Sterner macht eine kaum beworbene Studie des Wirtschaftsministeriums bekannt: Die regionale Wertschöpfung aus Wind und Sonne kann sich bis 2033 auf 21 Milliarden Euro verdoppeln, mehr als die Hälfte bleibt vor Ort. Großmann baut diesen Gedanken in die Konstruktion ein: Die Gitterbauweise lässt rund zwei Drittel der Aufträge an regionale Stahlbauer gehen.
-- [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler]] (Note, keine DenkerVita) — Beide beantworten die Frage, wer an der Windkraft verdient, mit den Menschen vor Ort, auf verschiedenen Wegen: Zöckler über Genossenschaften mit Einlage und Mitgliedschaft, das Klettwitzer Modell am Standort des Turms über eine direkte Ausschüttung von 80 Euro je Einwohner und Jahr ohne jede Hürde.
-- [[DenkerVita/Gesine Schwan]] — Schwans Gestaltungsmacht, Macht aus dem Zusammenwirken statt aus Herrschaft, hat in Großmanns Geschichte eine Behörde: Bei der Agentur für Sprunginnovationen reicht ein schlanker Fragebogen statt hundert Seiten Antrag. Großmanns Klage, dass der Mittelstand sonst an den Kosten der Pilotanlage scheitert, zeigt die Kehrseite: SPRIND ist die Ausnahme.
+- [[DenkerVita/Michael Sterner]] — Sterner macht eine kaum beworbene Studie des Wirtschaftsministeriums bekannt: Die regionale Wertschöpfung aus Wind und Sonne kann sich bis 2033 auf 21 Milliarden Euro verdoppeln, mehr als die Hälfte bleibt vor Ort. Großmann baut diesen Gedanken in die Konstruktion ein: Die Gitterbauweise lässt nach seinen Worten zwei Drittel der Wertschöpfung bei regionalen Stahlbauern.
+- [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler]] (Note, keine DenkerVita) — Beide beantworten die Frage, wer an der Windkraft verdient, mit den Menschen vor Ort, auf verschiedenen Wegen: Zöckler über Genossenschaften mit Einlage und Mitgliedschaft, das Klettwitzer Modell am Standort des Turms über ein Bürgerstrommodell, das in den ersten fünf Jahren 80 Euro je Einwohner und Jahr ausschüttete, auf Antrag und ohne Einlage, wie es im Norio-Video aus der Gemeinde heißt.
+- [[DenkerVita/Gesine Schwan]] — Schwans Gestaltungsmacht, Macht aus dem Zusammenwirken statt aus Herrschaft, hat in Großmanns Geschichte eine Behörde: SPRIND, laut Norio-Video mit einem schlanken Fragebogen statt hundert Seiten Antrag, für Großmann „eine geniale Aktion“. Seine Klage, dass der Mittelstand sonst an den Kosten der Pilotanlage scheitert, zeigt die Kehrseite: SPRIND ist die Ausnahme.
 - [[DenkerVita/Katherina Reiche]] — Reibung am Netz: Reiche will den langsamen Netzausbau zum Taktgeber der Erneuerbaren machen. Großmann dreht die Rechnung um und will die Erzeugung dorthin bringen, wo der Strom gebraucht wird, mit Höhenwind, der auch im Süden Offshore-ähnliche Erträge liefern soll.
-- [[DenkerVita/Tim Meyer]] — Meyer beschreibt Chinas „Gelinghaltung“, in der Engpässe gemanagt und nicht als Argument gegen den Ausbau benutzt werden, und verlangt von Europa viel mehr Industriepolitik. Großmanns „Valley of Death“ ist die deutsche Gegenprobe: gute Ingenieure, gute Ideen, und dann fehlt das Geld für die Pilotanlage.
+- [[DenkerVita/Tim Meyer]] — Meyer beschreibt Chinas „Gelinghaltung“, in der Engpässe gemanagt und nicht als Argument gegen den Ausbau benutzt werden, und verlangt von Europa viel mehr Industriepolitik. Großmann ist die deutsche Gegenprobe und kommt zu einem ähnlichen Schluss: gute Ingenieure, gute Ideen, dann fehlt das Geld für die Pilotanlage. China gebe seinen Innovationen den eigenen Markt, Deutschland schreibe lieber weltweit aus.
 - [[DenkerVita/Jacob Beautemps]] — Beautemps stellt mit Factor 2 Energy ein Duisburger Start-up vor, das sein erstes CO₂-Geothermie-Kraftwerk im Ausland bauen muss, weil die Speicherung im Untergrund in Deutschland lange verboten war; dasselbe Muster wie beim Höhenwindturm. Beide Notes tragen zudem ein „Aber“: bei Beautemps im Video selbst, bei Großmann im Faktencheck, der 55 Prozent Volllast und 40 Gigawatt als Projektionen einordnet, die der erste Turm erst bestätigen muss.
-
-*Weggefährten aus der Projektarbeit (Humboldt-Recherche, ohne Note im Bestand):*
-
-- **Horst Bendix** — Co-Initiator des GICON-Höhenwindturms (ehem. Kirow/Leipzig, Schwermaschinenbau-Know-how)
-- **Prof. Martin Kaltschmitt** (TU Hamburg) — Energiesystem-Modellierung, Biomasse
-- **Johannes Birkner** (Hochschule Anhalt) — Algenbiotechnologie, Biosolarzentrum-Co-Leitung
-- **Wissenschaftliche Partner** — Universitäten und Institute in Polen, Italien, Saudi-Arabien (via GICON-Kooperationen)
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft|Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft]] — der 365-Meter-Turm in der Lausitz, das Valley of Death und SPRIND
+- [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft|Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft]] — der 365-Meter-Turm in der Lausitz, die Pilotanlage als Engpass und SPRIND; seit dem 19.11.2026 mit dem Stand am Netz
+- Als Stimme in [[Panorama/Forschung|Forschung]] (Wer bezahlt die Forschung, und wofür muss sie gut sein?), erwähnt in [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Jacob Beautemps — Made in Germany Awards 2026: Energie]]
 
-## Besonderheiten & Notizen
+## Quellen
 
-**Persönliche Merkmale:**
-- Redet offen über "absolute Priorität Sicherheit" — kein Risiko-Verharmloser
-- Verwendet konsequent TRL-Sprache — Zeichen für Strukturdenken
-- Betont immer wieder "Brückenfunktion" — nicht nur Ingenieur, sondern bewusst Vermittler zwischen Welten
-- Nüchtern, präzise, technisch präzise (auch in Medien-Interviews)
+- GICON: [Biografie der Geschäftsleitung](https://www.gicon.de/biografien-mitglieder), [Geschichte](https://www.gicon.de/GICON_Gruppe_Geschichte), [Sachverständige](https://www.gicon.de/unternehmen/sachverstaendige), [Endhöhe 365 Meter (28.09.2026)](https://www.gicon.de/aktuelles/artikel/gicon-hoehenwindturm-erreicht-weltrekordhoehe-von-365-metern), [Deutscher Nachhaltigkeitspreis (16.10.2026)](https://www.gicon.de/aktuelles/artikel/gicon-hoehenwindturm-gewinnt-deutschen-nachhaltigkeitspreis-2027), [Visiting Professor Neapel (25.11.2025)](https://www.gicon.de/news/article/gicon-ceo-prof-jochen-grossmann-appointed-visiting-prof-at-uni-naples)
+- Universität Neapel Federico II: [Kursblatt mit Lebenslauf](https://www.dii.unina.it/source/eccellenza/vp/VP%20di%20Jochen%20Gro%C3%9Fmann%20v-2-1.pdf) — Moskau, ORGREB, BTU Cottbus, IMP PAN
+- Deutsche Nationalbibliothek: [Normdatensatz 1142152073](https://lobid.org/gnd/1142152073) — Geburtsort, Honorarprofessur, BER
+- SPRIND: [Projekt Höhenwindrad](https://www.sprind.org/taten/projekte/hoehenwindrad) — Anstoß, Bendix
+- Presse: [SZ, 27.10.2014](https://www.sueddeutsche.de/wirtschaft/korruption-am-ber-bewaehrungsstrafe-fuer-ex-technikchef-grossmann-1.2193160) · [rbb24, 19.11.2026](https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-luebbenau-umspannwerk-ragow-bauantrag-grossspeicher/brandenburg-schipkau-windrad-in-betrieb.html) · [Windkraft-Journal, 19.11.2026](https://www.windkraft-journal.de/2026/11/19/der-gicon-hoehenwindturm-hwt-in-schipkau-ist-eingeweiht/229597) · [t-online, 03.10.2026](https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101463978/jochen-grossmann-er-baute-den-weltrekordturm-in-der-lausitz.html) · [Euronews, 28.08.2026](https://de.euronews.com/2026/08/28/himmelhohe-windrader-hochste-anlage-uberragt-eiffelturm)
+- Transkripte: `Gedankenwelten/Transkripte/Grossmann_Digitalwerk_Podcast_Transkript.txt`, `Grossmann_OEF_Vortrag_2023_Transkript.txt` (beide aus YouTube-Untertiteln, die BER-Stelle mit Whisper am Ton geprüft), `Grossmann_GICON_Hoehenwindturm_Transkript.txt` (Norio)
 
-**Projekta noch in Realisierung:**
-- GICON-Höhenwindturm in Schipkau (Betrieb ab 2026/2027 angestrebt) — wird Messbeweis für 2,2× Ertragssteigerung liefern
-- Mikroalgen-Pilotanlage in Saudi-Arabien — CO₂-Senkenfunktion unter Extrembedingungen
-- Offshore-TLP-Konzepte — von Demonstrator zu kommerziellen Windparks
-
-**Offene Forschungsfragen (die Großmann antreiben):**
-- Wie lange laufen Windkraftanlagen zuverlässig? (Plant Betrieb > 20 Jahre statt Standard 20 J.)
-- Wie misst man wahren Nutzen hybrider Kraftwerke in komplexen Stromnetzen?
-- Skaliert Mikroalgen-Biotechnologie auch unter Marktbedingungen?
+> [!note] Korrektur (20.11.2026)
+> Die Fassung vom Mai 2026 trug keine Belege und vieles aus dem Gedächtnis. Falsch waren unter anderem: „öffentlich bestellter und vereidigter“ Sachverständiger (er ist öffentlich bestätigter Sachverständiger nach § 29a und § 29b BImSchG, „bestellt und vereidigt“ ist eine andere Rechtsform), die Gastprofessur in Danzig „seit 2010“ (seit 2016), SPRIND „ab 2023“ (das Thema läuft seit 2020), Saudi-Arabien „2024“ (Pilotanlage 2022, für Öl aus Algen, nicht als CO₂-Senke), der Titel der Vorlesungen in Neapel, eine Pressekonferenz zum US-Patent von 2014 (Erfinder ist ein Kollege) und die ganze Videoliste (Clips, in denen er nicht vorkommt, und Artikel statt Videos). Horst Bendix war nicht „Co-Initiator des GICON-Turms“, sondern gab SPRIND unabhängig von Großmann den Anstoß zum Thema Höhenwind. Die Preise gingen an GICON, nicht an ihn. Ohne Beleg gestrichen: Algen binden CO₂ „30-mal effizienter als Regenwälder“, zwei angebliche Weggefährten, „führendes Ingenieurbüro Ostdeutschlands“ und die Kernthese „Umweltverantwortung als Qualitätsmerkmal“, die seinem eigenen Energiedreieck eher widerspricht. Zwei Einordnungen haben die Richtung gewechselt: Aus „pragmatisch liberal“ wurde, an seinen eigenen Forderungen gemessen, Industriepolitik, und aus der „Offenheit für alle Energieträger“ seine Skepsis gegenüber Wasserstoff. Neu sind der Werdegang vor 1990, die Gründungsgeschichte, die Honorarprofessur in Cottbus, der BER 2014 und der Stand des Turms.
 
 ---
 
-## Literaturhinweise für Vertiefung
+## Weiterdenken
 
-**Primärquellen:**
-- GICON.de/biografien-mitglieder (offizielle Biografie)
-- GICON.de/history (Unternehmensgeschichte)
-- GICON.de/philosophy (Unternehmensphilosophie, Qualitätspolitik)
-- SPRIND.org — High-Altitude-Wind-Turbine (Projektseite mit technischen Specs)
-
-**Sekundärquellen:**
-- Euronews (2026) — "World's Tallest Wind Turbine Being Built in Germany"
-- Tomorrow.City — Höhenwindturm-Feature
-- Wind Power Monthly — GICON-SOF-Patent-Berichte
-- Offshore Wind Business — schwimmende Fundamente
-
-**Akademische Partner:**
-- Universität Neapel (Federico-II) — Energiewende-Forschung
-- Hochschule Anhalt — Algenbiotechnologie
-- Polnische Akademie der Wissenschaften (Danzig) — Strömungstechnik
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Wenn Deutschland an der Pilotanlage scheitert und nicht an der Idee, *wer soll dann das Scheitern bezahlen: der Staat, die Firma oder der Kunde, der später den Strom kauft?*
+> - Großmann will einen geschützten Binnenmarkt für deutsche Erfindungen und nennt das selbst Lobbyismus. *Wo endet Starthilfe, und wo beginnt der Schutz vor besserer Konkurrenz?*
+> - „Ich muss mir Umwelt leisten können“: *Lässt sich die Umwelt wie ein Posten im Dreieck gewichten, oder ist sie die Fläche, auf der das Dreieck steht?*
+> - Ein Turm, der technisch geht, muss jetzt zeigen, dass er sich rechnet. *Was wäre ein ehrliches Scheitern dieses Projekts, und was würde es über die Idee sagen?*
+> - Ein Mann, der eine Krise selbst erzählt, und eine Vita, die sie nennt: *Wie viel Vergangenheit gehört zu einem Menschen, der öffentlich für eine Sache steht?*
