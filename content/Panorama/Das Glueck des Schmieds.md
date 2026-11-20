@@ -84,7 +84,7 @@ Chinas Tempo erklärt sich zuerst aus dem Abstand. 1978 lag seine Wirtschaftslei
 **Die Stimmen**
 
 - **[[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas#Die acht Größen und die Reihenfolge des Abstiegs|Ray Dalio]]:** Aufstieg beginnt mit Bildung, Charakter und Arbeitsethik, und der Abstieg folgt derselben Reihenfolge; die Samen des Abstiegs liegen im Erfolg.
-- **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** *„Die Angst steigt mit dem Wohlstand, und vor allem, wenn es ein relativ neuer Wohlstand ist.“*
+- **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** Die Angst steige mit dem Wohlstand, sagt der Moderator Peter Huemer in Wien, und Bude gibt ihm recht: Heute sind die Kinder der Swimming-Pool, den man nicht verlieren will.
 - **[[Christoph Hein — Geooekonomie NEU DENKEN#Das Wachstumsversprechen und seine Grenze|Christoph Hein]]:** Der Fischer in Bangladesch will, dass seine Tochter Lehrerin wird, und bei fünf Prozent Wachstum geht das; in Europa ist die Angst vor Verlust stärker als die Hoffnung auf Gewinn.
 - **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Europa als gefesselter Prometheus|Markus Gabriel]]:** Europas Bild von sich als freundlicher Regulierer ist eine Illusion; die Innovationskraft der USA kommt aus einer geistigen Freiheit, „die auch an Dummheit grenzt“.
 - **[[Tim Meyer und Jan Hegenberg — China Energiewende#Qualität und Lohnkosten — differenzierter als das Klischee|Tim Meyer]]:** Chinas Vorsprung ist nicht mehr billige Arbeit, sondern Skalierung und Arbeitsorganisation; China lagert selbst schon nach Vietnam aus.

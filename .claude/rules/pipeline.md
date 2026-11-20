@@ -42,10 +42,13 @@ Zeitstempel-Format: `[▶ 3:24](https://www.youtube.com/watch?v=VIDEO_ID&t=204)`
 python3 .claude/scripts/sprecher_check.py abdeckung "URL" "DATEI.vtt"   # Exit 1 = Lücke/Abbruch/Halluzination
 python3 .claude/scripts/sprecher_check.py reaktion  "URL"              # Reaktionsvideo → Original suchen
 python3 .claude/scripts/sprecher_check.py schnitte  "URL" --transkript "DATEI.vtt"   # Schnittkanten = Sprecherwechsel
+python3 .claude/scripts/sprecher_check.py stimmlage "URL" --transkript "DATEI.vtt" --ref Gast=3:10-3:20 --ref Interviewer=4:43-4:51   # wer spricht, nach Grundton
 ```
 
 Bei Reaktionsvideos ist das Original die Quelle; ohne Original werden die Sprecher vor dem Schreiben getrennt.
 Ablauf → `gedankenwelt` Schritt 4a.
+
+**Grundton neben dem Standbild** (seit 20.11.2026). Das Bild schneidet oft auf den Zuhörer, dann sagt es nichts. `stimmlage` misst je Sekunde den Grundton und ordnet ihn Referenzstimmen zu, die man an zwei eindeutigen Stellen setzt (Vorstellung, Standbild mit offenem Mund). Bei Wendy Brown (INET) trennte es Brown (~165 Hz) und Rob Johnson (~107 Hz) genau an den Stellen, an denen drei Sätze Johnsons als Browns in der Note standen. Immer mit `--ref`; die automatische Zweiteilung ist grob. Zwei Stimmen ähnlicher Lage trennt es schlecht, dann bleibt es beim Bild und beim Inhalt.
 
 **Standbilder zur Sprecher-Bestimmung selbst ansehen, nicht an Ollama schicken** (seit 05.11.2026). Frame mit
 ffmpeg ziehen, mit `Read` öffnen, selbst urteilen. Ein Bild kostet so kaum Speicher, und das Urteil darüber, wer spricht,

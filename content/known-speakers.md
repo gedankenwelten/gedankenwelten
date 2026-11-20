@@ -1462,3 +1462,31 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Johann Krieten
 **Status:** ✓ Vollanalyse → [[DenkerVita/Johann Krieten]]
+
+## Georgine Kellermann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Georgine Kellermann]]
+Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen), seit 09/2019 offen trans Frau, Autobiografie „Georgine – Der lange Weg zu mir selbst“ (Ullstein 2024). Note: re:publica 2024 mit Raúl Krauthausen.
+
+## Seyran Ateş
+**Status:** ✓ Vollanalyse → [[DenkerVita/Seyran Ateş]]
+
+## Eren Güvercin
+**Status:** ✓ Vollanalyse → [[DenkerVita/Eren Güvercin]]
+
+## Bertolt Meyer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Bertolt Meyer]]
+
+## Birgit Kelle
+**Status:** ✓ Vollanalyse → [[DenkerVita/Birgit Kelle]]
+
+## Paul Ninus Naujoks
+**Status:** ✓ Vollanalyse → [[DenkerVita/Paul Ninus Naujoks]]
+
+## Lucas Krzikalla
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lucas Krzikalla]]
+
+## Pierre Sanoussi-Bliss
+**Status:** ✓ Vollanalyse → [[DenkerVita/Pierre Sanoussi-Bliss]]
+
+## Barbie Breakout
+**Status:** ✓ Vollanalyse → [[DenkerVita/Barbie Breakout]]

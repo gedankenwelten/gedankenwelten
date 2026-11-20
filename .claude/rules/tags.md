@@ -79,6 +79,8 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 
 > `symbole` = Zeichen, Gesten und ihre Deutungskämpfe (Kaperung, Rückeroberung, Codes) — gesetzt mit [[Panorama/Gekaperte Zeichen]].
 
+> `queer` = queeres Leben, trans Menschen, Queerfeindlichkeit, CSD und Selbstbestimmung — gesetzt am 20.11.2026 mit [[Georgine Kellermann — Der lange Weg zu mir selbst]] und [[ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]] (Tagesnoten zum Transgender Day of Remembrance); vorher gab es weder `queer` noch `trans`.
+
 **Kultur & Welt** (für `kultur`-Notes):
 `reise` · `alltag` · `tradition` · `religion` · `kulinarik` · `gastfreundschaft` · Region als Land-Tag (`jemen`, `iran`, `indien` …)
 

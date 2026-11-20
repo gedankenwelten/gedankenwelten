@@ -316,7 +316,7 @@ Auf der großen Bühne sieht der Gegenschlag so aus. Der Anteil der Menschen, di
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Fukuyama — halb recht|Philip Manow]]:** Der Kapitalismus hat gewonnen, die Demokratie nicht sicher; dass Autokratien ihre Formen nachahmen, zeigt, dass sie als Rechtfertigung keine Konkurrenz hat.
 
 - **[[Pankaj Mishra — Zeitalter des Zorns#Mimetische Rivalität: Girard trifft Rousseau|Pankaj Mishra]]:** Das Versprechen der Gleichheit setzt die Maschine des Vergleichs in Gang, und Ressentiment ist ihr Produkt.
-- **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** Nicht der Absturz ängstigt, sondern der relative Abstand, und die Angst steigt mit dem Wohlstand.
+- **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** Nicht der Absturz ängstigt die Mitte, sondern der Abstand zu denen, die gleich angefangen haben; heute sind die Kinder der Swimming-Pool, den man nicht verlieren will.
 - **[[Steffen Mau — Triggerpunkte Konsens und Konflikt#Demobilisierte Klassengesellschaft — gesättigte vs. ungesättigte Konflikte|Steffen Mau]]:** Die Verteilungsfrage bleibt still, gestritten wird um Migration, Identität und Klima.
 - **[[Raul Krauthausen — Teilgabe statt Teilhabe#Ist das nicht großzügig? Der Einwand und die Quote|Raúl Krauthausen]]:** Er sieht die Welle der Vielfalt gerade ablaufen und hält trotzdem an der Quote fest, auch um den Preis, der „Quotenbehinderte“ zu sein: Ihm sei kein besseres Mittel begegnet, Macht zu teilen.
 
@@ -367,6 +367,7 @@ Auf der großen Bühne sieht der Gegenschlag so aus. Der Anteil der Menschen, di
 | 11.11.2026 | [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika#Nachbesprechung\|Sandra Navidi — Frauenrechte in Trumps Amerika]] | Ist der Backlash der Preis des Fortschritts? Krise junger Männer in den USA: China-Schock und Familie (Autor, Dorn & Hanson 2019), Bildungsabstand (AIBM), Kluft durch Linksschwenk der Frauen (Gallup 2024), 2024 zu Trump, 2026 zurück (CIRCLE), Manosphere kaum erforscht (Iñigo 2026, Renström & Bäck 2024) · Stimme Navidi |
 | 13.11.2026 | [[Erich Fromm — Psychoanalyse des Faschismus#Wer wählte Hitler?|Erich Fromm — Psychoanalyse des Faschismus]] | Was lehrt Weimar: Arbeiteranteil und „Volkspartei des Protests“ (Falter 2013), Konfession als stärkster Prädiktor (Spenkuch & Tillmann 2018) · Fromm-Stimme korrigiert |
 | 17.11.2026 | [[Walther Ziegler — Hegel in 60 Minuten#Nachbesprechung|Walther Ziegler — Hegel in 60 Minuten]] | Ist der Backlash der Preis des Fortschritts? Die Makrolinie (OWID, V-Dem 2026: 74 % in Autokratien, Stand 1978), Fukuyamas eigene Lesart (Langeweile, keine Vorhersage), Buchanan & Powell; Hegels Eule der Minerva |
+| 20.11.2026 | [[Zeitgeist/Heinz Bude — Gesellschaft der Angst#Schrumpft die Mitte, oder spaltet sie sich?\|Heinz Bude — Gesellschaft der Angst]] | Materieller Kern oder Einstellung? Die Mitte schmilzt langsam und spaltet sich (Grabka u. a. 2016, OECD 2019); AfD-Wahl 2025 bei Arbeitern 38 %, Arbeitslosen 34 %; relativer Rückfall statt Armut (Kurer 2020, Gidron & Hall 2017, Lengfeld & Dilger 2018). Modernisierung: Budes Swimming-Pool-Satz stammt vom Moderator |
 
 ---
 

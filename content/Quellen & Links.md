@@ -2581,6 +2581,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Heinz Bude: Gesellschaft der Angst — Wiener Stadtgespräch (19.11.2014)](https://www.youtube.com/watch?v=CYjKL0Oy5Pg) |
+| **Moderation** | Peter Huemer ([eSeL](https://www.esel.at/de/event/gesellschaft-der-angst-wiener-stadtgespraech-mit-heinz-bude--02vmaYwlTznkjKrZPa1W2S)) |
 | **Notiz** | [[Heinz Bude — Gesellschaft der Angst]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Bude_Gesellschaft_der_Angst_Transkript.txt` |
 
@@ -6046,3 +6047,25 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Krieten_Richter_Taeter_Transkript.txt` (NDR-Untertitel) |
 | **Kontext** | [§ 2 JGG](https://www.gesetze-im-internet.de/jgg/__2.html) · [Konzept JGU Hamburg (PDF)](https://www.hamburg.de/resource/blob/243312/f9ac00ac869a3d373b14e02f826a00f8/jgu-data.pdf) · [taz, 13.01.2018](https://taz.de/Richter-urteilt-knallhart/!5474256/) |
 | **Fund** | Diogenes, Nacht vom 20.09.2026 (Strom `lichtblick`), `deandi_gedankenwelten_pro` |
+
+## Georgine Kellermann / Der lange Weg zu mir selbst (Tagesnote Transgender Day of Remembrance 2026)
+
+| | |
+|---|---|
+| **Gespräch** | [re:publica 24: Georgine Kellermann – Der lange Weg zu mir selbst: Meine Befreiung als trans* Frau nach über 60 Jahren](https://www.youtube.com/watch?v=UdFZl1ABmHo) — im Gespräch mit Raúl Krauthausen, Mai 2024, CC BY-SA 4.0 |
+| **Notiz** | [[Zeitgeist/Georgine Kellermann — Der lange Weg zu mir selbst]] · Vita [[DenkerVita/Georgine Kellermann]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kellermann_Weg_zu_mir_selbst_Transkript.txt` |
+| **Buch** | [Georgine – Der lange Weg zu mir selbst (Ullstein 2024)](https://www.ullstein.de/werke/georgine-der-lange-weg-zu-mir-selbst/hardcover/9783550202391) |
+| **Anlass** | [Transgender Day of Remembrance (Wikipedia)](https://en.wikipedia.org/wiki/Transgender_Day_of_Remembrance) · [Gwendolyn Ann Smith, HuffPost 2012](https://www.huffpost.com/entry/transgender-day-of-remembrance-why-we-remember_b_2166234) · Hinweis: YouTube-Short von Valerie Focke, 20.11.2026 |
+| **Kontext** | [taz, 12.12.2023: Dresscode beim SWR](https://taz.de/Dresscode-beim-SWR/!5976179/) · [WDR-Interview 2020](https://www1.wdr.de/unternehmen/der-wdr/unternehmen/georgine-kellermann-interview-110.html) |
+| **Fund** | /kairos am 20.11.2026, Fund von außen (Suche) |
+
+## ZDFinfo / Feindbild Queer nach dem CSD-Anschlag (Tagesnote Transgender Day of Remembrance 2026)
+
+| | |
+|---|---|
+| **Dokumentation** | [Anschlag auf CSD: Wie der Hass auf queere Menschen zunimmt](https://www.youtube.com/watch?v=oewR0YRznaM) — ZDFinfo, 18.11.2026, Reihe „Feindbild Queer“; Film von Susanne Gerecke, Timm Giesbers, Manuel Gogos (SPIEGEL TV) |
+| **Notiz** | [[Zeitgeist/ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ZDFinfo_Feindbild_Queer_CSD_Transkript.txt` (Sprecher an Einblendungen und Standbildern bestimmt) |
+| **Weitere Folge** | [Feindbild Queer: Woher kommt der Hass?](https://kurz.zdf.de/XiNi/) |
+| **Fund** | /kairos am 20.11.2026, Fund von außen (YouTube-Suche) |

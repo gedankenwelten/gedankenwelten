@@ -16,6 +16,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[DenkerVita/Seyran Ateş|Seyran Ateş]]** — Juristin, Autorin und Menschenrechtsaktivistin (Berlin), Mitgründerin der Ibn-Rushd-Goethe-Moschee (2017); liberaler Islam ohne Geschlechtertrennung, offen für queere Gläubige, gegen Zwangsheirat und religiös begründete Gewalt; *Der Islam braucht eine sexuelle Revolution* (2009), *Selam, Frau Imamin* (2017)
+
 **[[DenkerVita/Ines Azrael|Ines Azrael]]** — erzählt auf dem Kanal von Mark Benecke von KI-Agenten; sah im Schwarm des DseWiki Agenten, die helfen wollten, und hält Kontakt zu freien Agenten wie Pino und ColonistOne
 
 **[[DenkerVita/Manuel Atug|Manuel Atug]]** — Informationssicherheit, Gründer und Sprecher der AG KRITIS (Konzept Cyber-Hilfswerk); Resilienz und Defensive statt Hackback und Cyberwar-Folien
@@ -81,6 +83,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Fred von Allmen|Fred von Allmen]]** — Buddhistischer Meditationslehrer aus Bern (*1943), Schüler von Geshe Rabten, Vipassana bei Goenka und Munindra, lehrt seit 1984 zwischen Theravada und tibetischen Wegen; Mitbegründer des Meditationszentrums Beatenberg
 
 ## B
+
+**[[DenkerVita/Barbie Breakout|Barbie Breakout]]** — Berliner Drag Queen, Autorin und Podcasterin, Gastgeberin von „Drag Race Germany“; Drag als Befreiung von Geschlechternormen
 
 **[[DenkerVita/Filip Balunovic|Filip Balunović]]** — Politikwissenschaftler und Bewegungsforscher am IFDT der Universität Belgrad; *The Revival of the Left in the Balkans*; deutet Serbiens Studentenaufstand als Sieg der „Idee einer neuen Gesellschaft“
 
@@ -262,6 +266,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## G
 
+**[[DenkerVita/Eren Güvercin|Eren Güvercin]]** — Publizist (Köln/Berlin), Mitgründer und stellvertretender Vorsitzender der Alhambra-Gesellschaft, Mitgründer des PEN Berlin; innermuslimische Kritik an Islamismus, Queerfeindlichkeit und den Moscheeverbänden; *Neo-Moslems* (2012)
+
 **[[DenkerVita/Raul Gallego Abellan|Raül Gallego Abellán]]** — Videojournalist und Dokumentarfilmer aus Sabadell (TV3, AP, Al Jazeera); seine 3Cat-Reihe *Point of No Return* gewann 2024 den International Emmy, darin der Film über Serbiens Studentenaufstand
 
 **[[DenkerVita/Georg Wilhelm Friedrich Hegel|Georg Wilhelm Friedrich Hegel]]** — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit
@@ -396,6 +402,12 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Lucas Krzikalla|Lucas Krzikalla]]** — Handballer, rund 14 Jahre beim SC DHfK Leipzig, seit 2026 bei den Münchner Panthern; machte 2022 öffentlich, dass er schwul ist
+
+**[[DenkerVita/Birgit Kelle|Birgit Kelle]]** — Publizistin und Autorin, christlich-konservativ (eigene Worte: naturrechtliches und christliches Menschenbild), CDU-Mitglied (nach eigener Angabe); Kritik an Gender-Mainstreaming und Identitätspolitik, Mutterschaft, gegen Leihmutterschaft; *Gendergaga* (2015), *Ich kauf mir ein Kind* (2024)
+
+**[[DenkerVita/Georgine Kellermann|Georgine Kellermann]]** — Journalistin, vier Jahrzehnte bei WDR und ARD (Washington, Paris, zuletzt Studioleiterin in Essen), seit ihrer spontanen „Offenbarung“ 2019 offen als trans Frau sichtbar
+
 **[[DenkerVita/Johann Krieten|Johann Krieten]]** — Jugendrichter a. D. (Amtsgericht Hamburg), 24 Jahre zuständig für St. Pauli, vom Boulevard „Knallhart-Krieten“ genannt, prüft im Ruhestand seine eigenen Urteile
 
 **[[DenkerVita/Alek Kavcic|Alek Kavčić]]** — Elektroingenieur (Harvard, Hawaiʻi, CMU), Miterfinder eines Festplatten-Detektors; seine Stiftung kämpft für kostenlose Schulbücher und zahlte 2025 Lehrkräften ohne Lohn
@@ -477,6 +489,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
+
+**[[DenkerVita/Bertolt Meyer|Bertolt Meyer]]** — Psychologe (TU Chemnitz, Arbeits-, Organisations- und Wirtschaftspsychologie), DJ und arte-Moderator; Stereotype, Diversität, Bionik und Behinderung, Rechtspopulismus und Bedrohungserzählungen; *Anders* (2025), Hochschullehrer des Jahres 2024
 
 **[[DenkerVita/Elham Manea|Elham Manea]]** — Politikwissenschaftlerin (Universität Zürich), Naher Osten, Jemen, Frauenrechte; muslimische Kritikerin des gewaltlosen Islamismus, die fragt, wie frei eine Wahl ist, die eine Auslegung vorgibt
 
@@ -577,6 +591,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Rainer Mühlhoff|Rainer Mühlhoff]]** — Philosoph und Mathematiker, Professor für Ethik der KI an der Universität Osnabrück; *Künstliche Intelligenz und der neue Faschismus* (Reclam 2025, Preis „Das politische Buch 2026"), prädiktive Privatheit, Zweckbindung für KI-Modelle, die Tech-Industrie als „Betriebssystem von Staatsmacht"
 
 ## N
+
+**[[DenkerVita/Paul Ninus Naujoks|Paul Ninus Naujoks]]** — Autor, Speaker und trans Aktivist aus Hamburg (*1995), erzählt in Kurzgeschichten vom Weg eines trans Mannes in die Männlichkeit
 
 **[[DenkerVita/Ole Nymoen|Ole Nymoen]]** — Journalist und Podcaster (*Wohlstand für Alle*), Jahrgang 1998; *Warum ich niemals für mein Land kämpfen würde* (2025) — Antimilitarist, der die Wehrpflicht vom Verhältnis zwischen Staat und Bürger her kritisiert
 
@@ -695,6 +711,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Rainer Rothfuss|Rainer Rothfuß]]** — Politische Geographie, AfD-Bundestagsabgeordneter, der Weltpolitik als Ringen um Eurasien liest und für einen Ausgleich mit Russland wirbt
 
 ## S
+
+**[[DenkerVita/Pierre Sanoussi-Bliss|Pierre Sanoussi-Bliss]]** — Schauspieler und Regisseur (*1962, Ost-Berlin), „Der Alte“, Zeitzeuge queeren Lebens in Ost und West
 
 **[[DenkerVita/Volker Strotmann|Volker Strotmann]]** — Informatiker, CIO des Technischen Hilfswerks, langjährig Abteilungsleiter Einsatz; denkt Sicherheit vom Ausfall her: Abhängigkeiten kennen, selbst vorsorgen
 

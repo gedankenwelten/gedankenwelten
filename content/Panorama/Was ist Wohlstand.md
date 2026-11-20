@@ -50,7 +50,7 @@ Anders sieht es aus, wenn man nicht das Geld zählt, sondern den Verbrauch. Der 
 - **[[Christoph Hein — Geooekonomie NEU DENKEN#Das Wachstumsversprechen und seine Grenze|Christoph Hein]]:** Der Fischer in Bangladesch will, dass seine Tochter Lehrerin wird; für Milliarden Menschen ist mehr Geld die Hoffnung auf ein besseres Leben ihrer Kinder.
 - **[[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#Kein SUV ist kein Verzicht|Harald Welzer]]:** Kein SUV und keine Kreuzfahrt zu haben, *„ist ja kein Verzicht“*; die Wünsche erzeuge eine ökonomische Benutzeroberfläche.
 - **[[Gabriel Yoran - Die Entkrempelung der Welt#Die demokratische Bedürfnisdebatte|Gabriel Yoran]]:** Ob ein Bedürfnis legitim ist, ist ein Tabu, *„du kannst alles machen, wenn du es nur bezahlen kannst“*; er will offen darüber verhandeln, statt es Einzelnen abzusprechen.
-- **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** *„Die Angst steigt mit dem Wohlstand, und vor allem, wenn es ein relativ neuer Wohlstand ist.“*
+- **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** Die Angst steige mit dem Wohlstand, sagt der Moderator Peter Huemer in Wien, und Bude gibt ihm recht: Heute sind die Kinder der Swimming-Pool, den man nicht verlieren will.
 - **[[Wolfram Schultz — Dopamin mehr als ein Glueckshormon#Immer mehr wollen — die evolutionäre Logik des positiven Fehlers|Wolfram Schultz]]:** Das Belohnungssystem ist auf Maximierung gebaut, nicht auf Sättigung; kein Besitz befriedigt auf Dauer.
 
 <details><summary>Weitere Stimmen (8)</summary>

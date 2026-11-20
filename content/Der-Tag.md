@@ -31,6 +31,14 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-20 · Transgender Day of Remembrance
+
+Am 20. November 1995 wurde Chanelle Pickett bei Boston getötet, drei Jahre später Rita Hester, beide Schwarze trans Frauen. Weil der erste Mord so schnell vergessen war, rief die trans Aktivistin Gwendolyn Ann Smith 1999 mit anderen den Gedenktag ins Leben. Seither werden an Picketts Todestag die Namen derer gelesen, die im vergangenen Jahr getötet wurden. Zwei Notes zum Tag: ein Leben, das gelebt werden darf, und der Hass, der solche Leben bedroht.
+
+- [[Georgine Kellermann — Der lange Weg zu mir selbst]]
+- [[ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]]
+- [[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory]] — wie sich Diskriminierungen überkreuzen; Rita Hester war Schwarz und trans
+
 ## 2026-11-18 · Buß- und Bettag
 
 Am Mittwoch vor dem letzten Sonntag des Kirchenjahrs lädt die evangelische Kirche zur Einkehr: innehalten, Schuld bekennen, über die eigene und die gemeinsame Verantwortung nachdenken. Lange hatte jedes Land seinen eigenen Bußtag, 1878 zählte man 47 in 28 deutschen Ländern; Preußen legte 1893 den heutigen Termin fest. Seit 1995 ist der Tag nur noch in Sachsen frei, im übrigen Land wurde er gestrichen, um die neue Pflegeversicherung zu bezahlen. Die Notes darunter fragen, was Umkehr kostet: wie ein ganzes Land seine Schuld aussprach, wie ein Richter seine Urteile von den Verurteilten prüfen ließ, was verzeihen heißt und warum Bonhoeffer eine Vergebung ohne Buße billig nannte.

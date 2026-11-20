@@ -25,6 +25,19 @@ Andreas, 31.10.: „mach das bitte mit den sprechern trennen.“ Darum zwei bill
       Liest Titel, Kanal und Beschreibung und sagt, ob es nach Reaktionsvideo aussieht, samt
       Links in der Beschreibung, die das Original sein könnten. Regel: wenn das Original existiert,
       ist es die Quelle; das Reaktionsvideo höchstens Zweitquelle für den Kommentar.
+
+  sprecher_check.py stimmlage <URL|ID|audio> [--transkript datei.vtt] [--von 7:30 --bis 10:40]
+                     [--ref Brown=3:10-3:20 --ref Johnson=4:40-4:50] [--schritt 1]
+      Seit 20.11.2026. Wer spricht, wenn das Bild auf den Zuhörer schneidet? Misst je Sekunde den
+      Grundton der Stimme (Autokorrelation, 70–400 Hz) und ordnet ihn den Referenzstimmen zu, die man
+      an eindeutigen Stellen angibt (Standbild, Vorstellung); ohne --ref teilt es in „tief“/„hoch“.
+      Ausgabe: zusammenhängende Strecken mit Sprecher, Hz und Textanfang. Anlass: Wendy Brown (INET) —
+      Standbilder allein waren an drei Stellen mehrdeutig, der Grundton trennte Brown (~170 Hz) und
+      Rob Johnson (~110 Hz) eindeutig; drei Sätze Johnsons standen als Browns in der Note.
+      Grenzen: Zwei Stimmen ähnlicher Lage (zwei Männer, zwei Frauen) trennt es schlecht, Musik und
+      Lachen stören, an Sprecherwechseln liegt es eine Sekunde daneben. Ohne --ref ist die Zweiteilung grob
+      (tiefere Stellen der hohen Stimme kippen nach „tief“), darum immer Referenzen setzen. Werkzeug fürs
+      Urteil, kein Urteil.
 """
 import argparse, json, os, re, subprocess, sys, tempfile
 
@@ -155,6 +168,103 @@ def schnitte(a):
               " An jeder Kante kurz hineinhören, dann die Sprecher in der Arbeitskopie markieren.")
 
 
+def _ton(quelle, d):
+    """Ton als 16-kHz-Mono-Float-Array; Quelle: lokale Datei oder YouTube-URL/ID."""
+    import numpy as np
+    if os.path.exists(quelle):
+        src = quelle
+    else:
+        src = os.path.join(d, "a.m4a")
+        r = subprocess.run([YTDLP, "-f", "ba[ext=m4a]/ba", "-o", src, f"https://www.youtube.com/watch?v={vid(quelle)}"],
+                           capture_output=True, text=True, timeout=900)
+        if r.returncode or not os.path.exists(src):
+            sys.exit(f"Ton nicht geladen: {r.stderr.strip()[:200]}")
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", src, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
+                         capture_output=True).stdout
+    return np.frombuffer(raw, dtype=np.float32)
+
+
+def _f0(x, sr=16000, frame=0.04):
+    """Grundton je 40-ms-Rahmen (Hz, nan = stimmlos/leise), Autokorrelation über FFT."""
+    import numpy as np
+    n = int(sr * frame)
+    k = len(x) // n
+    fr = x[:k * n].reshape(k, n).astype(np.float64)
+    fr -= fr.mean(axis=1, keepdims=True)
+    rms = np.sqrt((fr ** 2).mean(axis=1))
+    spec = np.fft.rfft(fr, 2 * n, axis=1)
+    ac = np.fft.irfft(np.abs(spec) ** 2, axis=1)[:, :n]
+    # unverzerrt: ohne die Teilung bevorzugt die Autokorrelation kurze Verschiebungen und meldet tiefe
+    # Stimmen eine halbe Oktave zu hoch (Johnson 137 statt 107 Hz, geeicht an Brown/INET 20.11.2026)
+    ac = ac / (n - np.arange(n))[None, :] * n
+    lo, hi = int(sr / 400), int(sr / 70)
+    lag = lo + np.argmax(ac[:, lo:hi], axis=1)
+    peak = ac[np.arange(k), lag]
+    f = sr / lag
+    leise = rms < max(0.01, np.percentile(rms, 30))
+    f[leise | (peak < 0.3 * ac[:, 0])] = np.nan
+    return f
+
+
+def stimmlage(a):
+    import numpy as np
+    with tempfile.TemporaryDirectory() as d:
+        x = _ton(a.quelle, d)
+    f = _f0(x)
+    per = int(round(a.schritt / 0.04))
+    nwin = len(f) // per
+    hz = np.array([np.nanmedian(w) if np.isfinite(w).sum() >= 3 else np.nan
+                   for w in f[:nwin * per].reshape(nwin, per)])
+    t0 = sec(a.von) if a.von else 0
+    t1 = sec(a.bis) if a.bis else nwin * a.schritt
+    # Referenzen: Name=von-bis → Median-Grundton
+    refs = {}
+    for r in a.ref or []:
+        name, span = r.split("=", 1)
+        r0, r1 = (sec(v) for v in span.split("-"))
+        seg = f[int(r0 / 0.04):int(r1 / 0.04)]
+        refs[name] = float(np.nanmedian(seg))
+    if not refs:  # zwei Gruppen nach dem Grundton (log), grob
+        v = np.log(hz[np.isfinite(hz)])
+        c = np.percentile(v, [25, 75])
+        for _ in range(20):
+            lab = np.abs(v[:, None] - c[None]).argmin(1)
+            c = np.array([v[lab == i].mean() if (lab == i).any() else c[i] for i in (0, 1)])
+        refs = {"tief": float(np.exp(c[0])), "hoch": float(np.exp(c[1]))}
+    print("Referenzen: " + " · ".join(f"{n} ~{v:.0f} Hz" for n, v in refs.items()))
+    namen, mitte = list(refs), np.array(list(refs.values()))
+    # Zuordnung je Fenster: nächste Referenz auf der log-Skala; zu weit weg → „?“
+    lab = []
+    for h in hz:
+        if not np.isfinite(h):
+            lab.append(None); continue
+        dist = np.abs(np.log(h) - np.log(mitte))
+        i = int(dist.argmin())
+        lab.append(namen[i] if dist[i] < 0.35 else "?")
+    # glätten: ein einzelnes abweichendes Fenster zwischen zwei gleichen übernimmt die Nachbarn
+    for i in range(1, len(lab) - 1):
+        if lab[i - 1] and lab[i - 1] == lab[i + 1] and lab[i] != lab[i - 1]:
+            lab[i] = lab[i - 1]
+    tx = cues(a.transkript) if a.transkript else []
+    print(f"\n{'von':>8} {'bis':>8} {'Sprecher':<12} {'Hz':>5}  Textanfang")
+    strecke = None
+    def aus(s):
+        if s and s[1] - s[0] >= a.schritt * 2:
+            text = " ".join(t for c0, t in tx if s[0] <= c0 < s[1])[:70]
+            print(f"{hms(s[0]):>8} {hms(s[1]):>8} {s[2]:<12} {np.nanmedian(s[3]):>5.0f}  {text}")
+    for i, l in enumerate(lab):
+        t = i * a.schritt
+        if t < t0 or t >= t1 or l is None:
+            continue
+        if strecke and strecke[2] == l and t - strecke[1] <= 2 * a.schritt:
+            strecke[1] = t + a.schritt; strecke[3].append(hz[i])
+        else:
+            aus(strecke); strecke = [t, t + a.schritt, l, [hz[i]]]
+    aus(strecke)
+    print("\nStrecken unter zwei Sekunden sind weggelassen. An jedem Wechsel ins Standbild sehen oder hineinhören;"
+          " „?“ heißt: keine Referenz passt (dritte Stimme, Musik, Lachen).")
+
+
 REAKT = re.compile(r"reag|reakt|react|kommentier|analysier[et] .*vortrag|spricht:|rechnet .*ab|\| ?\w+ reagiert", re.I)
 
 
@@ -179,4 +289,8 @@ if __name__ == "__main__":
     s = sub.add_parser("schnitte"); s.add_argument("video"); s.add_argument("--transkript")
     s.add_argument("--db", type=float, default=-80); s.add_argument("--min", type=float, default=0.04); s.set_defaults(f=schnitte)
     s = sub.add_parser("reaktion"); s.add_argument("video"); s.set_defaults(f=reaktion)
+    s = sub.add_parser("stimmlage"); s.add_argument("quelle", help="YouTube-URL/ID oder lokale Ton-/Videodatei")
+    s.add_argument("--transkript"); s.add_argument("--von"); s.add_argument("--bis")
+    s.add_argument("--ref", action="append", help="Name=von-bis an einer eindeutigen Stelle, mehrfach")
+    s.add_argument("--schritt", type=float, default=1.0); s.set_defaults(f=stimmlage)
     a = p.parse_args(); a.f(a)

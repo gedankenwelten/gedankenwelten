@@ -28,23 +28,23 @@ Die Gedankenwelten (luc)
 >
 > Eine Soldatin mit Millionenpublikum, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage.
 
+> **20.11.** — [[Zeitgeist/Georgine Kellermann — Der lange Weg zu mir selbst|Georgine Kellermann — Der lange Weg zu mir selbst]]
+>
+> Eine Rolltreppenfahrt beendete ein Doppelleben von über sechzig Jahren. Georgine Kellermann erzählt, was ein Spiegel, eine Kollegin und ein einziges „Cool“ verändern können.
+
 > **20.11.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
 >
 > Wendy Brown über eine Revolution auf leisen Sohlen: Wer die Demokratie zum Markt macht, verliert ihre Gleichheit und das Volk, das sich selbst regiert.
 
-> **20.11.** — [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung]]
+> **20.11.** — [[Zeitgeist/ZDFinfo — Feindbild Queer nach dem CSD-Anschlag|ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]]
 >
-> Ist Elite Verdienst oder Macht? Der Elitenforscher Michael Hartmann sagt: immer Macht. Eine Runde über Epstein, Cum-Ex und Tech-Oligarchen, und ob Förderung gegen Machtmissbrauch schützt.
+> Nach dem tödlichen Anschlag auf den Berliner CSD fragt eine Dokumentation, woher der Hass auf queere Menschen kommt. Die Antworten führen nach rechts, zum Islamismus und in die Mitte.
 
-> **20.11.** — [[Zeitgeist/Natalie Amiri — Hoelle auf Erden im Iran|Natalie Amiri — Hölle auf Erden im Iran]]
+> **20.11.** — [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]
 >
-> Ein Land hinter dem Internet-Blackout, ein Gottesstaat auf dem Weg zur Militärdiktatur. Natalie Amiri, die nicht mehr einreisen kann, beschreibt den Iran im Krieg.
+> Die Mitte schmilzt kaum, sie spaltet sich, und ihre Angst gilt den Kindern. Heinz Bude 2014 über Misstrauen als politische Kraft und eine Null-Fehler-Generation.
 
-> **20.11.** — [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft|Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft]]
->
-> Ein Windturm, der sich selbst zum Kran wird und in der Höhe Offshore-Werte erreicht, auch in Bayern. Norio erzählt von einer ostdeutschen Erfindung und dem Tal, in dem Innovationen sterben.
-
-> → *9 weitere in* [[Zeitgeist]]
+> → *12 weitere in* [[Zeitgeist]]
 
 ### Denker
 

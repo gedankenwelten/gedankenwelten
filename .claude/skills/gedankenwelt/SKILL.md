@@ -401,6 +401,7 @@ python3 .claude/scripts/vtt_to_txt.py \
 python3 .claude/scripts/sprecher_check.py reaktion  "URL"                 # Reaktionsvideo? Original in der Beschreibung?
 python3 .claude/scripts/sprecher_check.py abdeckung "URL" "DATEI.vtt"     # reicht die Abschrift bis zum Ende? Exit 1 = nein
 python3 .claude/scripts/sprecher_check.py schnitte  "URL" --transkript "DATEI.vtt"   # nur bei Reaktionsvideos/Zusammenschnitten
+python3 .claude/scripts/sprecher_check.py stimmlage "URL" --transkript "DATEI.vtt" --ref Gast=M:SS-M:SS --ref Fragender=M:SS-M:SS   # Gespräche: wer spricht wann
 ```
 
 1. **Abdeckung.** Exit 1 heißt: Lücke, abgebrochene oder halluzinierte Strecke („Ja." × 600). Dann neu
@@ -417,6 +418,9 @@ python3 .claude/scripts/sprecher_check.py schnitte  "URL" --transkript "DATEI.vt
    geschrieben wird — bei Jung & Naiv übernimmt meist **Hans Jessen** die Chatfragen, Tilo verabschiedet sich
    vorher. Jede These des Interviewers bleibt seine, auch wenn der Gast zustimmt („Tilo Jung drängt …,
    Redecker antwortet anders“). Gerade im ersten Teil ohne ▶-Marken lag die Fehlerzone.
+   Bei Zweiergesprächen mit Mann und Frau (oder deutlich verschiedenen Stimmlagen) zeigt `stimmlage` mit je einer
+   Referenzstelle die Wechsel in einem Lauf; an den Kanten trotzdem ins Standbild sehen (seit 20.11.2026, Brown/INET:
+   Johnsons Spirale und „moral legitimacy“ standen als Browns Sätze in der Note).
 4. **Jedes Zitat mit Sprecher und Zeitmarke** (→ aristoteles, „Was andere sagen: nur mit Zeitmarke“). Ein
    Zitat, das sich keiner Stelle zuordnen lässt, bleibt draußen.
 5. **Synchronisierte und zweisprachige Sendungen** (seit 01.11.2026; Sternstunde, Arte, Talkshows mit

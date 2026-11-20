@@ -296,7 +296,7 @@ Laclau liefert das theoretische Vokabular für Manows empirischen Befund: Wo Man
 Mausfeld beschreibt, wie Eliten Meinungskorridore setzen und den Demos klein halten. Manow beschreibt die andere Seite derselben Realität: Die Gewinnerklasse ist Deutungsklasse. Beide analysieren strukturelle Asymmetrie — Mausfeld von der Medienseite, Manow von der Klassenstruktur her.
 
 ### → [[Zeitgeist/Heinz Bude — Gesellschaft der Angst]]
-Bude diagnostiziert 2014 dieselbe Grundkonstellation wie Manow: Globalisierungsverlierer, illiberale Tendenzen, Misstrauensbewegungen. Beide warnen vor dem illiberalen Staat als wahrscheinlichere Gefahr als das Chaos.
+Bude beschreibt 2014 eine verwandte Konstellation: Misstrauensbewegungen von der Tea Party bis zur AfD, Spaltungen in der Unterklasse und in der Mitte. Vor dem illiberalen Staat als wahrscheinlicherer Gefahr als dem Chaos warnt im Wiener Gespräch der Moderator Peter Huemer; Bude stimmt zu und setzt die „Träumereien von autoritären Demokratien“ daneben.
 
 ### → [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
 Manow zeigt, wie demokratische Bewegungen von rechts in autoritäre Strukturen kippen; Potter zeigt dasselbe Phänomen von links. Beide zusammen ergeben das vollständige Bild der autoritären Versuchung quer durchs politische Spektrum.
