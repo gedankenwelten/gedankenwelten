@@ -9,7 +9,7 @@ raetsel: "Spaghetti um drei Uhr nachts. Zum ersten Mal weckte er dafür niemande
 
 # Raúl Krauthausen — DenkerVita
 
-![[assets/Raul-Krauthausen-vita-banner.jpg|Kolorierte Skizze einer Straße mit Kopfsteinpflaster: Ein Mann mit Bart und Schiebermütze fährt einen Elektrorollstuhl mit roten Koffern vor die Stufen eines erleuchteten Lokals, hinten eine gelbe Straßenbahn und ein eilender Passant.|1200]]
+![[Gedankenwelten/assets/Raul-Krauthausen-vita-banner.jpg|Kolorierte Skizze einer Straße mit Kopfsteinpflaster: Ein Mann mit Bart und Schiebermütze fährt einen Elektrorollstuhl mit roten Koffern vor die Stufen eines erleuchteten Lokals, hinten eine gelbe Straßenbahn und ein eilender Passant.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -88,19 +88,19 @@ Seine Schärfe ist Methode und Angriffsfläche zugleich. Er nennt sich selbst un
 
 ## Verbindungen zu anderen Denkern
 
-### → [[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]
+### → [[Gedankenwelten/DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]
 
 Erst Fan, dann Freund, dann Gesprächspartner in Lüneburg. Krauthausen hörte El-Mafaalani über Superdiversität in Schulen reden und erkannte darin fast eins zu eins die Lage behinderter Kinder; seine hartnäckige Frage „Warum schreibst du nicht über behinderte Kinder?“ führte dazu, dass El-Mafaalanis Team das Thema aufnahm. Der Migrationsforscher bringt die Demografie mit: Wenn immer mehr Menschen hochaltrig werden, nach der aktuellen Vorausberechnung 2050 rund 8,5 Millionen über achtzig, wird Inklusion zur Mehrheitsfrage.
 
-### → [[DenkerVita/Barbara Bleisch|Barbara Bleisch]]
+### → [[Gedankenwelten/DenkerVita/Barbara Bleisch|Barbara Bleisch]]
 
 Bleisch zieht die Grenze, die Krauthausen aus Erfahrung kennt: Großzügigkeit beginnt dort, wo die Gerechtigkeit endet, und wer schenkt, wo er schuldet, zwingt den Empfänger in die Dankbarkeit. Was die Ethikerin am Beispiel von Schuldenerlass und Entwicklungshilfe entwickelt, beschreibt der Aktivist an der Rampe zum Podium.
 
-### → [[DenkerVita/André Zimpel|André Zimpel]]
+### → [[Gedankenwelten/DenkerVita/André Zimpel|André Zimpel]]
 
 Beide greifen das deutsche Sonderschulsystem an. Zimpel zeigt aus der Förderpädagogik, wie viel Begabung eine Schule übersieht, die nur Sprach-Denken misst; Krauthausen nennt die Schule eine Schicksalsgemeinschaft, die Vorurteile verhindern könnte, wenn sie behinderte und nichtbehinderte Kinder zusammenließe.
 
-### → [[DenkerVita/Gilda Sahebi|Gilda Sahebi]]
+### → [[Gedankenwelten/DenkerVita/Gilda Sahebi|Gilda Sahebi]]
 
 Im Podcast *Gilda con Arne* war Krauthausen 2026 zu Gast, als ein geleaktes Kürzungspapier aus dem Kanzleramt Eingliederungshilfe und Leistungen für behinderte Menschen traf. Sahebi liest Polarisierung als Herrschaftsinstrument; Krauthausen ruft zum Widerstand gegen die Kürzungen auf. Dass sie ausgerechnet behinderte Menschen treffen, passt zu dem, was er in Lüneburg über den Diversitätsdiskurs sagt: Behinderung sei die Dimension, „die als letzte genannt oder als erste vergessen wird“.
 
@@ -108,12 +108,13 @@ Im Podcast *Gilda con Arne* war Krauthausen 2026 zu Gast, als ein geleaktes Kür
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe]] — im Gespräch mit Aladin El-Mafaalani, Leuphana Universität Lüneburg, Utopie-Konferenz 2026; Teilgabe, Quoten, Medienbilder, Schule als Schicksalsgemeinschaft
-- [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Wie rechte Milliardäre weltweit Medien aufkaufen]] — als Gast zum Widerstand gegen die Sozialkürzungen und das verschobene Behindertengleichstellungsgesetz
+- [[Gedankenwelten/Zeitgeist/Georgine Kellermann — Der lange Weg zu mir selbst]] — als Gesprächspartner auf der re:publica 2024; seine eigene Spiegelgeschichte, der Einwand „jeder kann es schaffen“ und der SWR-Fall
+- [[Gedankenwelten/Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe]] — im Gespräch mit Aladin El-Mafaalani, Leuphana Universität Lüneburg, Utopie-Konferenz 2026; Teilgabe, Quoten, Medienbilder, Schule als Schicksalsgemeinschaft
+- [[Gedankenwelten/Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Wie rechte Milliardäre weltweit Medien aufkaufen]] — als Gast zum Widerstand gegen die Sozialkürzungen und das verschobene Behindertengleichstellungsgesetz
 
 **Als Stimme in den wachsenden Panoramen:**
 
-- [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]] — Großzügigkeit als Haltung ja, als Struktur nein: Wer gnädig Platz macht, kann ihn zurückholen
-- [[Panorama/Wirken Quoten|Wirken Quoten?]] — der „Quotenbehinderte“, den er fürchtet, und die Quote, die er trotzdem will
-- [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]] — Schule als Schicksalsgemeinschaft und das Recht auf Niederlagen
-- [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]] — die ablaufende Welle der Vielfalt
+- [[Gedankenwelten/Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]] — Großzügigkeit als Haltung ja, als Struktur nein: Wer gnädig Platz macht, kann ihn zurückholen
+- [[Gedankenwelten/Panorama/Wirken Quoten|Wirken Quoten?]] — der „Quotenbehinderte“, den er fürchtet, und die Quote, die er trotzdem will
+- [[Gedankenwelten/Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]] — Schule als Schicksalsgemeinschaft und das Recht auf Niederlagen
+- [[Gedankenwelten/Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]] — die ablaufende Welle der Vielfalt

@@ -9,7 +9,7 @@ raetsel: "Jahrelang erfand er Freundinnen. Dann warf er die Ausreden ins Netz."
 
 # Lucas Krzikalla — DenkerVita
 
-![[assets/Lucas-Krzikalla-vita-banner.jpg|1200]]
+![[Gedankenwelten/assets/Lucas-Krzikalla-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -69,7 +69,9 @@ Krzikalla hat kein Buch und keinen eigenen Kanal mit Werk; seine öffentliche Wi
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[Gedankenwelten/DenkerVita/Georgine Kellermann|Georgine Kellermann]] — Beide spielten im Beruf jahrelang Versteck und erlebten nach der Offenbarung mehr Zuspruch als befürchtet. Beide wissen, dass ihre Geschichte nicht für alle gilt.
+- [[Gedankenwelten/DenkerVita/Pierre Sanoussi-Bliss|Pierre Sanoussi-Bliss]] — Das Gegenstück im selben Film: Krzikalla erfand jahrelang Freundinnen, Sanoussi-Bliss hatte nie ein Coming-out, weil er „immer so“ war und es niemanden störte. Was den einen ins Versteckspiel trieb, zeigt der Film am Männersport ohne Vorbilder.
+- [[Gedankenwelten/DenkerVita/Paul Ninus Naujoks|Paul Ninus Naujoks]] — Krzikallas Angst erwies sich als „ein bisschen unbegründet“. Naujoks wurde angegriffen, weil jemand dachte, er sei schwul. Der Film stellt beide Erfahrungen nebeneinander.
 
 ---
 

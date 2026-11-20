@@ -24,7 +24,7 @@ stimme:
 
 # Ingrid Brodnig — Gegenstrategien zum Frauenhass
 
-![[assets/Ingrid-Brodnig-Gegenstrategien-zum-Frauenhass-banner.jpg|Kohlezeichnung: Eine Reihe Frauen steht mit verschränkten Armen Schulter an Schulter auf einer roten Linie, die mittlere im Lichtstrahl blickt nach oben, über sie hinweg fliegen Pfeile und Zettel aus dem Dunkel.|1200]]
+![[Gedankenwelten/assets/Ingrid-Brodnig-Gegenstrategien-zum-Frauenhass-banner.jpg|Kohlezeichnung: Eine Reihe Frauen steht mit verschränkten Armen Schulter an Schulter auf einer roten Linie, die mittlere im Lichtstrahl blickt nach oben, über sie hinweg fliegen Pfeile und Zettel aus dem Dunkel.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -56,7 +56,7 @@ Quelle: [re:publica 26: Ingrid Brodnig – Gegenstrategien zum Frauenhass](https
 > [!info] Wer spricht?
 > **Ingrid Brodnig** — österreichische Journalistin und Autorin, eine der profiliertesten deutschsprachigen Stimmen zu Hass im Netz und Desinformation. Für ihr aktuelles Buch hat sie Politikerinnen über digitale Gewalt befragt.
 >
-> → [[DenkerVita/Ingrid Brodnig|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Ingrid Brodnig|DenkerVita]]
 
 ---
 
@@ -179,7 +179,7 @@ Dagegen helfe keine individuelle Blockier-Taktik, sondern Regulierung: Der Digit
 
 ## Verbindungen
 
-### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+### → [[Gedankenwelten/Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
 
 Der konkrete Fall zu Brodnigs Begriffsarbeit. In Gosen-Neu Zittau tötet ein Neunzehnjähriger seine Ex-Freundin und den Erzieher, der dazwischenging; die Staatsanwaltschaft geht von einer „Beziehungstat" aus, die Landtagspräsidentin nennt es einen „feigen Femizid". Genau dazwischen liegt Kate Mannes Unterscheidung, die Brodnig hier einführt: Ein Wort beschreibt eine Gesinnung zwischen zwei Menschen, das andere eine Funktion in einer Reihe. Die Note trägt außerdem die belastbaren Zahlen nach — 308 getötete Mädchen und Frauen 2024, davon 132 durch (Ex-)Partner — und zeigt, warum das BKA vom Begriff „Femizid" inzwischen abrückt.
 
@@ -214,6 +214,11 @@ Gleiche Diagnose der Plattformmacht, verschiedene Hebel: Andree will Monopole ü
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Beide sehen Herrschaft, die sich als natürliche Ordnung tarnt — bei Brodnig das Patriarchat, das Frauen „auf ihren rechten Platz" verweist, bei Dangarembga der Kolonialismus in den Köpfen. Der Manet-zu-Grok-Bogen und Dangarembgas hergestellte Unterordnung treffen sich im selben Gedanken: Das Selbstverständliche ist gemacht und darum veränderbar.
+
+### → [[ZDFinfo — Feindbild Queer nach dem CSD-Anschlag#Tiergarten, 25. Juli 2026|ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]]
+
+Die Kriminologin Eva Groß beschreibt queerfeindliche Gewalt mit Brodnigs Schritt: Die Tat hat Botschaftscharakter und meint die ganze Gruppe. Die Drag Queen Barbie Breakout liest die Drohungen in ihren Nachrichten anders, als Großmaul des Netzes, und genau da widerspricht Brodnigs Vortrag.
+
 
 ---
 

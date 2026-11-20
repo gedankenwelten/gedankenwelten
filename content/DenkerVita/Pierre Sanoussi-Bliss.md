@@ -9,7 +9,7 @@ raetsel: "Premiere im Kino. Draußen ging in derselben Nacht eine Mauer auf."
 
 # Pierre Sanoussi-Bliss — DenkerVita
 
-![[assets/Pierre-Sanoussi-Bliss-vita-banner.jpg|1200]]
+![[Gedankenwelten/assets/Pierre-Sanoussi-Bliss-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -82,7 +82,10 @@ Sanoussi-Bliss ist Teil der #actout-Kampagne „für mehr Diversität in Kunst u
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[Gedankenwelten/DenkerVita/Bertolt Meyer|Bertolt Meyer]] — Meyer rechnet für die Bundesrepublik vor, wie viele Männer nach dem Paragrafen 175 verurteilt wurden. Sanoussi-Bliss erinnert sich an die DDR und sagt über einen Fernsehkommentar, der Homosexuelle „Außenseiter“ nennt: „Das hätte auch ein BRD-Kommentar sein können.“
+- [[Gedankenwelten/DenkerVita/Dirk Oschmann|Dirk Oschmann]] — Oschmann sieht die DDR beim Paragrafen 175 dem Westen voraus und kritisiert den abfälligen Blick des Westens auf den Osten. Sanoussi-Bliss teilt die Kritik an diesem Blick und erinnert zugleich an das, was die DDR offiziell leugnete: Skinheads und Rassismus.
+- [[Gedankenwelten/DenkerVita/Ilko-Sascha Kowalczuk|Ilko-Sascha Kowalczuk]] — Der Historiker der SED-Diktatur liest das Leiden des Ostens als Freiheitsschock. Sanoussi-Bliss' Szene in *Coming Out*, der Überfall durch Skinheads, die es offiziell nicht gab, zeigt ein Stück dieser verleugneten Wirklichkeit, uraufgeführt in der Nacht, in der die Mauer fiel.
+- [[Gedankenwelten/DenkerVita/Lucas Krzikalla|Lucas Krzikalla]] — Er selbst brauchte nie ein Coming-out, Krzikalla versteckte sich jahrelang. Im selben Film stehen beide für die zwei Enden dieser Erfahrung.
 
 ---
 

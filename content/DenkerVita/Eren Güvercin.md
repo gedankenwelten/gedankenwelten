@@ -9,7 +9,7 @@ raetsel: "Der bequemste Satz hat acht Wörter. Er spricht ihn nicht."
 
 # Eren Güvercin — DenkerVita
 
-![[assets/Eren-Guevercin-vita-banner.jpg|1200]]
+![[Gedankenwelten/assets/Eren-Guevercin-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -80,7 +80,10 @@ Güvercin kritisiert von innen: als Muslim, der seine eigene Gemeinschaft zur Au
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[Gedankenwelten/DenkerVita/Duezen Tekkal|Düzen Tekkal]] — Ihre These von 2017, Islamismus und Rechtsextremismus seien „böse Zwillinge“, klingt in seinem Satz nach, beide Milieus erzählten dieselben Geschichten mit anderem Vokabular. Unsere Tekkal-Note hält fest, was die Symmetrie verdeckt: wie unterschiedlich nah beide an der Staatsmacht sind.
+- [[Gedankenwelten/DenkerVita/Seyran Ateş|Seyran Ateş]] — Im selben Film benennt er die Abwertung queerer Menschen in muslimischen Gemeinden, sie hat die Moschee gegründet, in der ein queerfreundlicher Islam gelebt wird.
+- [[Gedankenwelten/DenkerVita/Paul Ninus Naujoks|Paul Ninus Naujoks]] — Zwei Stimmen aus demselben Film, die sich reiben: Naujoks sagte 2022, Queerfeindlichkeit habe nichts mit Herkunft zu tun und gehe durch die ganze Gesellschaft, Güvercin hält es für eine Ausrede, nach jedem Anschlag zu sagen, das habe nichts mit dem Islam zu tun. Beides kann zugleich stimmen.
+- [[Gedankenwelten/DenkerVita/Asmaa Dehbi|Asmaa Dehbi]] — Dehbi erforscht, warum Betroffene über Zwang in der eigenen Gemeinschaft schweigen: weil ihre Geschichte sofort als „Beweis“ dient. Der Passant im Film, für den „alle Muslime“ die Gefahr sind, zeigt das Risiko, das Güvercins Selbstkritik eingeht.
 
 ---
 

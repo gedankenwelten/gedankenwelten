@@ -9,7 +9,7 @@ raetsel: "Erst war die Perücke ein Schirm gegen den Regen. Heute ein Lautsprech
 
 # Barbie Breakout — DenkerVita
 
-![[assets/Barbie-Breakout-vita-banner.jpg|1200]]
+![[Gedankenwelten/assets/Barbie-Breakout-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -91,7 +91,10 @@ Barbie Breakout versteht ihre Arbeit ausdrücklich als Aktivismus: Sie wolle „
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[Gedankenwelten/DenkerVita/Birgit Kelle|Birgit Kelle]] — Die Gegenstimme im selben Film: Kelle fragt, warum nicht die Erzieherin vorliest, Barbie Breakout weist den Vorwurf der Sexualisierung zurück, queere Kinder wüssten es „viel früher“. Am Pride Month stören sich beide, aus entgegengesetzten Gründen.
+- [[Gedankenwelten/DenkerVita/Georgine Kellermann|Georgine Kellermann]] — Zwei Temperamente: Kellermann gesteht den Medienhäusern Zeit zu („dann müssen wir auch ein bisschen zuwarten“), Barbie Breakout sagt, keine Minderheit habe je etwas erreicht, indem sie still in der letzten Reihe stand. Beide verstehen ihre Sichtbarkeit als Aufgabe gegenüber denen, die noch nicht so weit sind.
+- [[Gedankenwelten/DenkerVita/Ingrid Brodnig|Ingrid Brodnig]] — Barbie Breakout liest die Drohungen in ihren Nachrichten als Großmaul des Netzes, im echten Leben seien die Absender „meistens nicht“ so mutig. Brodnig hält dagegen, dass bloße Worte Gewalt sein können, weil sie auf das Schweigen der Bedrohten zielen.
+- [[Gedankenwelten/DenkerVita/Paul Ninus Naujoks|Paul Ninus Naujoks]] — Zwei Stimmen der Community nach dem Anschlag: Sie spürt die „Schlinge“ enger werden, er will, dass die Angst „die Seite wechselt“.
 
 ---
 

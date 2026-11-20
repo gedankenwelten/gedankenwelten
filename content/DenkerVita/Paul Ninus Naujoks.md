@@ -9,7 +9,7 @@ raetsel: "Seine Geschichten handeln von Ämtern. Und von einem Mann, der zerbrec
 
 # Paul Ninus Naujoks — DenkerVita
 
-![[assets/Paul-Ninus-Naujoks-vita-banner.jpg|1200]]
+![[Gedankenwelten/assets/Paul-Ninus-Naujoks-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -88,7 +88,9 @@ Naujoks spricht als Aktivist für die Rechte von trans Menschen; sein Feld ist d
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[Gedankenwelten/DenkerVita/Eren Güvercin|Eren Güvercin]] — Die Reibung aus demselben Film: Naujoks sagt, Queerfeindlichkeit habe nichts mit Herkunft zu tun, Güvercin hält „das hat nichts mit dem Islam zu tun“ für eine Ausrede. Beides kann zugleich stimmen.
+- [[Gedankenwelten/DenkerVita/Georgine Kellermann|Georgine Kellermann]] — Beide sind trans und haben es mit dem Recht zu tun bekommen. Naujoks nannte 2022 die Bürokratie des Transsexuellengesetzes die schwerste Diskriminierung seines Alltags; Kellermann nennt das Selbstbestimmungsgesetz wichtig, will aber von einer Gesellschaft getragen werden, nicht von einem Gesetz allein.
+- [[Gedankenwelten/DenkerVita/Barbie Breakout|Barbie Breakout]] — Zwei Stimmen der Community im selben Film: Sie spürt, wie sich „die Schlinge enger“ zieht, er sagt eine Woche nach dem Anschlag, die Angst müsse „die Seite wechseln“. Beide klären auf, sie laut auf der Bühne, er mit Kurzgeschichten.
 
 ---
 

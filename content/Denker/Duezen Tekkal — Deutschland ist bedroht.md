@@ -19,7 +19,7 @@ aliases:
 
 # Düzen Tekkal — Deutschland ist bedroht
 
-![[assets/Duezen-Tekkal-Deutschland-ist-bedroht-banner.jpg|Aquarell auf braunem Papier: Eine dünne Strichfigur, aus deren Kopf Pfauenaugen wie Federn wachsen, blickt zu einem leuchtenden, aufgeschlagenen Buch; links ein Karomuster in gedeckten Farben.|1200]]
+![[Gedankenwelten/assets/Duezen-Tekkal-Deutschland-ist-bedroht-banner.jpg|Aquarell auf braunem Papier: Eine dünne Strichfigur, aus deren Kopf Pfauenaugen wie Federn wachsen, blickt zu einem leuchtenden, aufgeschlagenen Buch; links ein Karomuster in gedeckten Farben.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -47,7 +47,7 @@ Quelle: [Düzen Tekkal: Deutschland ist bedroht](https://www.youtube.com/watch?v
 > Wichtigste Werke: *Deutschland ist bedroht* (2016), Filme *HÁWAR* (2015) und *Bêmal* (2024)
 > Kernkonzepte: die bösen Zwillinge, Tausi Melek, die Frauenfrage, „Krieg macht ehrlich"
 >
-> → [[DenkerVita/Duezen Tekkal|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Duezen Tekkal|DenkerVita]]
 
 ---
 
@@ -383,9 +383,13 @@ Der produktivste Widerspruch im Bestand, weil beide aus demselben Milieu kommen 
 
 Eralp hat denselben Ausgangspunkt wie Tekkal, als Tochter politisch Verfolgter aus der Türkei, und steht heute an der Spitze der Berliner Linken. Sie weist die Integrationsforderung als Bringschuld zurück und fragt bei Parolen nach denen, die sie als Drohung hören.
 
-### → [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Yasi Wem tut es gut, wenn ich es abnehme?|SRF — Junge Muslimas und ihr Kopftuch]]
+### → [[Gedankenwelten/Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Yasi Wem tut es gut, wenn ich es abnehme?|SRF — Junge Muslimas und ihr Kopftuch]]
 
 Was geschieht, wenn die Frauenfrage zur Prüfung wird, die man immer verfehlen kann: Einer jungen Schweizerin schreiben Fremde täglich, sie sei mit Kopftuch „nicht genug integriert“, und sie fragt zurück, wie weit Integration gehen soll. Die andere Hälfte steht im selben Film: Eine Mutter erzählt, wie Druck in einer frommen Familie leise über die Kleidung kam, die Selbstkritik von innen, die Tekkal verlangt.
+
+### → [[ZDFinfo — Feindbild Queer nach dem CSD-Anschlag#Zwei Richtungen, ein Feindbild|ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]]
+
+Neun Jahre später, nach einem islamistischen Anschlag auf den Berliner CSD, sagt Eren Güvercin fast dasselbe: Rechtsextreme und Islamisten erzählten dieselben Geschichten, „nur eben mit anderem Vokabular“. Muslime kämen nicht weiter, wenn sie nach jedem Anschlag sagten, das habe nichts mit dem Islam zu tun.
 
 ## Weiterdenken
 

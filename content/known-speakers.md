@@ -4,64 +4,64 @@ tags: [meta]
 ---
 
 ## Alexander Bogner
-**Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Bogner]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Alexander Bogner]]
 
 ## Annette Kehnel
-**Status:** ✓ Vollanalyse — [[DenkerVita/Annette Kehnel]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Annette Kehnel]]
 
 ## Wolfgang Niess
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Niess]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wolfgang Niess]]
 
 ## Anna-Verena Nosthoff
-**Status:** ✓ Vollanalyse — [[DenkerVita/Anna-Verena Nosthoff]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Anna-Verena Nosthoff]]
 
 ## Barbara Prainsack
-**Status:** ✓ Vollanalyse — [[DenkerVita/Barbara Prainsack]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Barbara Prainsack]]
 
 ## Ernst Gelegs
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ernst Gelegs]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ernst Gelegs]]
 
 ## Steve Bannon
-**Status:** ✓ Vollanalyse → [[DenkerVita/Steve Bannon]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Steve Bannon]]
 
 ## Iason Chandrinos
-**Status:** ✓ Vollanalyse → [[DenkerVita/Iason Chandrinos]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Iason Chandrinos]]
 
 ## Carsten Brosda
-**Status:** ✓ Vollanalyse → [[DenkerVita/Carsten Brosda]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carsten Brosda]]
 
 ## Raul Krauthausen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Raul Krauthausen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Raul Krauthausen]]
 
 ## Harald Welzer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Harald Welzer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Harald Welzer]]
 
 ## Mithu Sanyal
-**Status:** ✓ Vollanalyse → [[DenkerVita/Mithu Sanyal]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Mithu Sanyal]]
 
 ## Seyda Kurt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Seyda Kurt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Seyda Kurt]]
 
 ## Roger de Weck
-**Status:** ✓ Vollanalyse → [[DenkerVita/Roger de Weck]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Roger de Weck]]
 
 ## Marina Weisband
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marina Weisband]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marina Weisband]]
 
 ## Florence Gaub
-**Status:** ✓ Vollanalyse → [[DenkerVita/Florence Gaub]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Florence Gaub]]
 
 ## Susanne Boshammer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Susanne Boshammer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Susanne Boshammer]]
 
 ## Mae Bengert
-**Status:** ✓ Vollanalyse → [[DenkerVita/Mae Bengert]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Mae Bengert]]
 
 ## Roberto Simanowski
-**Status:** ✓ Vollanalyse → [[DenkerVita/Roberto Simanowski]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Roberto Simanowski]]
 
 ## Dietmar Dath
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dietmar Dath]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dietmar Dath]]
 
 # DenkerVita Index
 
@@ -74,347 +74,347 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ---
 
 ## Ami Ayalon
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ami Ayalon]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ami Ayalon]]
 
 ## Christoph Safferling
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Safferling]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Safferling]]
 
 ## Robin Celikates
-**Status:** ✓ Vollanalyse → [[DenkerVita/Robin Celikates]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Robin Celikates]]
 
 ## Dror Etkes
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dror Etkes]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dror Etkes]]
 
 ## Jihan Alomar
-**Status:** ✓ Vollanalyse — [[DenkerVita/Jihan Alomar]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Jihan Alomar]]
 
 ## Margarita Šešelgytė
-**Status:** ✓ Vollanalyse — [[DenkerVita/Margarita Seselgyte]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Margarita Seselgyte]]
 
 ## Jana Puglierin
-**Status:** ✓ Vollanalyse — [[DenkerVita/Jana Puglierin]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Jana Puglierin]]
 
 ## Jan van Aken
-**Status:** ✓ Vollanalyse — [[DenkerVita/Jan van Aken]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Jan van Aken]]
 
 ## Jürgen Kornmeier
-**Status:** ✓ Vollanalyse — [[DenkerVita/Juergen Kornmeier]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Juergen Kornmeier]]
 
 ## Joon Sung Park
-**Status:** ✓ Vollanalyse — [[DenkerVita/Joon Sung Park]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Joon Sung Park]]
 
 ## Kai Ambos
-**Status:** ✓ Vollanalyse — [[DenkerVita/Kai Ambos]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Kai Ambos]]
 
 ## Kalayo
-**Status:** ✓ Vollanalyse — [[DenkerVita/Kalayo]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Kalayo]]
 
 ## Adam Johnson
-**Status:** ✓ Vollanalyse → [[DenkerVita/Adam Johnson]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Adam Johnson]]
 
 ## Alexander Teske
-**Status:** ✓ Vollanalyse → [[DenkerVita/Alexander Teske]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alexander Teske]]
 
 ---
 
 ## Cathryn Clüver Ashbrook
-**Status:** ✓ Vollanalyse → [[DenkerVita/Cathryn Cluever Ashbrook]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Cathryn Cluever Ashbrook]]
 
 ---
 
 ## Elmar Theveßen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Elmar Thevessen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Elmar Thevessen]]
 
 ---
 
 ## Sari Nusseibeh
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sari Nusseibeh]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sari Nusseibeh]]
 
 ## Tobias Rüther
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tobias Rüther]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tobias Rüther]]
 
 ---
 
 ## Ruben Mawick
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ruben Mawick]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ruben Mawick]]
 
 ---
 
 ## Jacob Beautemps
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jacob Beautemps]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jacob Beautemps]]
 
 ---
 
 ## Jok Madut Jok
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jok Madut Jok]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jok Madut Jok]]
 
 ---
 
 ## Jörg Baberowski
-**Status:** ✓ Vollanalyse → [[DenkerVita/Joerg Baberowski]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Joerg Baberowski]]
 
 ---
 
 ## Jörn Leonhard
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jörn Leonhard]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jörn Leonhard]]
 
 ---
 
 ## Arlie Russell Hochschild
-**Status:** ✓ Vollanalyse → [[DenkerVita/Arlie Russell Hochschild]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arlie Russell Hochschild]]
 
 ---
 
 ## Lacina Koné
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lacina Kone]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lacina Kone]]
 
 ---
 
 ## Kerstin Paschke
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kerstin Paschke]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kerstin Paschke]]
 
 ---
 
 ## Kristian Kunow
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kristian Kunow]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kristian Kunow]]
 
 ---
 
 ## Sanya Lehmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sanya Lehmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sanya Lehmann]]
 
 ---
 
 ## Ngũgĩ wa Thiong'o
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ngugi wa Thiongo]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ngugi wa Thiongo]]
 
 ---
 
 ## Ninia LaGrande
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ninia LaGrande]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ninia LaGrande]]
 
 ---
 
 ## Franziska Görlitz
-**Status:** ✓ Vollanalyse → [[DenkerVita/Franziska Goerlitz]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franziska Goerlitz]]
 
 ---
 
 ## Arnd Henze
-**Status:** ✓ Vollanalyse → [[DenkerVita/Arnd Henze]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arnd Henze]]
 
 ---
 
 ## Abdolkarim Soroush
-**Status:** ✓ Vollanalyse → [[DenkerVita/Abdolkarim Soroush]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Abdolkarim Soroush]]
 
 ---
 
 ## Akala
-**Status:** ✓ Vollanalyse → [[DenkerVita/Akala]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Akala]]
 
 ---
 
 ## Achille Mbembe
-**Status:** ✓ Vollanalyse → [[DenkerVita/Achille Mbembe]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Achille Mbembe]]
 
 ---
 
 ## Achim Truger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Achim Truger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Achim Truger]]
 
 ---
 
 ## Albrecht von Lucke
-**Status:** ✓ Vollanalyse → [[DenkerVita/Albrecht von Lucke]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Albrecht von Lucke]]
 
 ---
 
 ## Albert Camus
-**Status:** ✓ Vollanalyse → [[DenkerVita/Albert Camus]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Albert Camus]]
 
 ## Edgar Morin
-**Status:** ✓ Vollanalyse — [[DenkerVita/Edgar Morin]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Edgar Morin]]
 
 ## Albert Moukheiber
-**Status:** ✓ Vollanalyse → [[DenkerVita/Albert Moukheiber]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Albert Moukheiber]]
 
 ## Anat Saragusti
-**Status:** ✓ Vollanalyse — [[DenkerVita/Anat Saragusti]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Anat Saragusti]]
 
 ## Anton Jäger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Anton Jaeger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Anton Jaeger]]
 
 ## Anabel Ternès von Hattburg
-**Status:** ✓ Vollanalyse → [[DenkerVita/Anabel Ternes von Hattburg]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Anabel Ternes von Hattburg]]
 
 ## Annika Brockschmidt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Annika Brockschmidt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Annika Brockschmidt]]
 
 ## Alex Demirović
-**Status:** ✓ Vollanalyse → [[DenkerVita/Alex Demirovic]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alex Demirovic]]
 
 ## Alena Buyx
-**Status:** ✓ Vollanalyse → [[DenkerVita/Alena Buyx]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alena Buyx]]
 
 ## Alexander Schwarz
-**Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Schwarz]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Alexander Schwarz]]
 
 ## Alexander Thiele
-**Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Thiele]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Alexander Thiele]]
 
 ## Aladin El-Mafaalani
-**Status:** ✓ Vollanalyse → [[DenkerVita/Aladin El-Mafaalani]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Aladin El-Mafaalani]]
 
 ## Adam Tooze
-**Status:** ✓ Vollanalyse → [[DenkerVita/Adam Tooze]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Adam Tooze]]
 
 ## Adriaan van Wagensveld
-**Status:** ✓ Vollanalyse → [[DenkerVita/Adriaan van Wagensveld]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld]]
 
 ## Andreas Löschel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Loeschel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Andreas Loeschel]]
 
 ## Andreas Kemper
-**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Kemper]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Andreas Kemper]]
 
 ## André Zimpel
-**Status:** ✓ Vollanalyse → [[DenkerVita/André Zimpel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/André Zimpel]]
 
 ## Arne Semsrott
-**Status:** ✓ Vollanalyse → [[DenkerVita/Arne Semsrott]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arne Semsrott]]
 
 ## Arthur Schopenhauer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Arthur Schopenhauer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]]
 
 ## B.R. Ambedkar
-**Status:** ✓ Vollanalyse → [[DenkerVita/B.R. Ambedkar]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/B.R. Ambedkar]]
 
 ## Barbara Tversky
-**Status:** ✓ Vollanalyse → [[DenkerVita/Barbara Tversky]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Barbara Tversky]]
 
 ## Benjamin Biersky
-**Status:** ✓ Vollanalyse → [[DenkerVita/Benjamin Biersky]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Benjamin Biersky]]
 
 ## Lukas Bärfuss
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lukas Baerfuss]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lukas Baerfuss]]
 
 ## Bijan Moini
-**Status:** ✓ Vollanalyse → [[DenkerVita/Bijan Moini]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Bijan Moini]]
 
 ## Blaise Pascal
-**Status:** ✓ Vollanalyse → [[DenkerVita/Blaise Pascal]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Blaise Pascal]]
 
 ## Byung-Chul Han
-**Status:** ✓ Vollanalyse → [[DenkerVita/Byung-Chul Han]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Byung-Chul Han]]
 
 ## Christian Bauckhage
-**Status:** ✓ Vollanalyse — [[DenkerVita/Christian Bauckhage]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Christian Bauckhage]]
 
 ## Annette Hautli-Janisz
-**Status:** ✓ Vollanalyse — [[DenkerVita/Annette Hautli-Janisz]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Annette Hautli-Janisz]]
 
 ## Katharina Zweig
-**Status:** ✓ Vollanalyse — [[DenkerVita/Katharina Zweig]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Katharina Zweig]]
 
 ## Anna Henschel
-**Status:** ✓ Vollanalyse — [[DenkerVita/Anna Henschel]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Anna Henschel]]
 
 ## Julia Inthorn
-**Status:** ✓ Vollanalyse — [[DenkerVita/Julia Inthorn]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Julia Inthorn]]
 
 ## Henning Lobin
-**Status:** ✓ Vollanalyse — [[DenkerVita/Henning Lobin]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Henning Lobin]]
 
 ## Benjamin Rathgeber
-**Status:** ✓ Vollanalyse — [[DenkerVita/Benjamin Rathgeber]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Benjamin Rathgeber]]
 
 ## Agnes Callard
-**Status:** ✓ Vollanalyse → [[DenkerVita/Agnes Callard]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Agnes Callard]]
 
 ## Carlo Cipolla
-**Status:** ✓ Vollanalyse → [[DenkerVita/Carlo Cipolla]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carlo Cipolla]]
 
 ## Carolin Amlinger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Carolin Amlinger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carolin Amlinger]]
 
 ## Kimberlé Crenshaw
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kimberle Crenshaw]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kimberle Crenshaw]]
 
 ## Catrin Misselhorn
-**Status:** ✓ Vollanalyse → [[DenkerVita/Catrin Misselhorn]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Catrin Misselhorn]]
 
 ## Christian Jakob
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christian Jakob]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christian Jakob]]
 
 ## Christine Dankbar
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christine Dankbar]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christine Dankbar]]
 
 ## Christine Brähler
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christine Braehler]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christine Braehler]]
 
 ## Christof Johnen
 **Status:** Stub
 
 ## Christof Spitz
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christof Spitz]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christof Spitz]]
 
 ## Christoph Butterwegge
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Butterwegge]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Butterwegge]]
 
 ## Christoph Hein
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Hein]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Hein]]
 
 ## Christoph Möllers
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Moellers]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Moellers]]
 
 ## Christoph Müller
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Mueller]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Mueller]]
 
 ## Clara Mattei
-**Status:** ✓ Vollanalyse → [[DenkerVita/Clara Mattei]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Clara Mattei]]
 
 ## Claudia Kemfert
-**Status:** ✓ Vollanalyse → [[DenkerVita/Claudia Kemfert]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Claudia Kemfert]]
 
 ## Claus-Christian Carbon
-**Status:** ✓ Vollanalyse → [[DenkerVita/Claus-Christian Carbon]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Claus-Christian Carbon]]
 
 ## Cordula Tutt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Cordula Tutt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Cordula Tutt]]
 
 ## Constanze Kurz
-**Status:** ✓ Vollanalyse → [[DenkerVita/Constanze Kurz]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Constanze Kurz]]
 
 ## Klaus Dörre
-**Status:** ✓ Vollanalyse → [[DenkerVita/Klaus Doerre]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Klaus Doerre]]
 
 ## Konfuzius
-**Status:** ✓ Vollanalyse → [[DenkerVita/Konfuzius]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Konfuzius]]
 
 ## Anja Dahlmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Anja Dahlmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Anja Dahlmann]]
 
 ## Darin L. Gerdes
-**Status:** ✓ Vollanalyse → [[DenkerVita/Darin L. Gerdes]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Darin L. Gerdes]]
 
 ## David Chalmers
-**Status:** ✓ Vollanalyse → [[DenkerVita/David Chalmers]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/David Chalmers]]
 
 ## Der Dara (Dara Marc Sasmaz)
-**Status:** ✓ Vollanalyse → [[DenkerVita/Der Dara]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Der Dara]]
 
 ## Dietrich Bonhoeffer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dietrich Bonhoeffer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dietrich Bonhoeffer]]
 
 ## Dirk Specht
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dirk Specht]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dirk Specht]]
 
 ## Dirk von Petersdorff
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dirk von Petersdorff]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dirk von Petersdorff]]
 
 ## Dominik Finkelde
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dominik Finkelde]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dominik Finkelde]]
 
 ## Dr. Pablo Hagemeyer
 **Status:** Stub
@@ -423,347 +423,347 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** Stub
 
 ## Erich Fromm
-**Status:** ✓ Vollanalyse → [[DenkerVita/Erich Fromm]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Erich Fromm]]
 
 ## Ernesto Laclau
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ernesto Laclau]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ernesto Laclau]]
 
 ## Erwin Thoma
 **Status:** Stub
 
 ## Evan Osnos
-**Status:** ✓ Vollanalyse → [[DenkerVita/Evan Osnos]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Evan Osnos]]
 
 ## Eva von Redecker
-**Status:** ✓ Vollanalyse → [[DenkerVita/Eva von Redecker]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Eva von Redecker]]
 
 ## Fabian Bernhardt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Bernhardt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Fabian Bernhardt]]
 
 ## Fabian Braesemann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Braesemann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Fabian Braesemann]]
 
 ## Fabian Pfeffer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Pfeffer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Fabian Pfeffer]]
 
 ## Francesca Bria
-**Status:** ✓ Vollanalyse → [[DenkerVita/Francesca Bria]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Francesca Bria]]
 
 ## Malala Yousafzai
-**Status:** ✓ Vollanalyse → [[DenkerVita/Malala Yousafzai]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Malala Yousafzai]]
 
 ## Maximilian Fichtner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Maximilian Fichtner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maximilian Fichtner]]
 
 ## Frank Sieren
-**Status:** ✓ Vollanalyse → [[DenkerVita/Frank Sieren]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frank Sieren]]
 
 ## Freddy Leppin
-**Status:** ✓ Vollanalyse → [[DenkerVita/Freddy Leppin]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Freddy Leppin]]
 
 ## Franz Kafka
-**Status:** ✓ Vollanalyse → [[DenkerVita/Franz Kafka]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franz Kafka]]
 
 ## Felwine Sarr
-**Status:** ✓ Vollanalyse → [[DenkerVita/Felwine Sarr]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Felwine Sarr]]
 
 ## Frauke Fischer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Frauke Fischer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frauke Fischer]]
 
 ## Gabriel Yoran
-**Status:** ✓ Vollanalyse → [[DenkerVita/Gabriel Yoran]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gabriel Yoran]]
 
 ## Gerald Hüther
-**Status:** ✓ Vollanalyse → [[DenkerVita/Gerald Hüther]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gerald Hüther]]
 
 ## Georg Wilhelm Friedrich Hegel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Georg Wilhelm Friedrich Hegel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]]
 
 ## Gesine Schwan
-**Status:** ✓ Vollanalyse → [[DenkerVita/Gesine Schwan]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gesine Schwan]]
 
 ## Gert Scobel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Gert Scobel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gert Scobel]]
 
 ## Gilda Sahebi
-**Status:** ✓ Vollanalyse → [[DenkerVita/Gilda Sahebi]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gilda Sahebi]]
 
 ## Gina Wiedemann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Gina Wiedemann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gina Wiedemann]]
 
 ## Giulia Enders
-**Status:** ✓ Vollanalyse → [[DenkerVita/Giulia Enders]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Giulia Enders]]
 
 ## Giovanni Maio
 **Status:** Stub
 
 ## Jochen Großmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jochen Grossmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jochen Grossmann]]
 
 ## Götz Aly
-**Status:** ✓ Vollanalyse → [[DenkerVita/Götz Aly]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Götz Aly]]
 
 ## Sibylle Anderl
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sibylle Anderl]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sibylle Anderl]]
 
 ## Hannah Arendt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hannah Arendt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hannah Arendt]]
 
 ## Xavier Abu Eid
-**Status:** ✓ Vollanalyse → [[DenkerVita/Xavier Abu Eid]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Xavier Abu Eid]]
 
 ## Yisrael Medad
-**Status:** ✓ Vollanalyse → [[DenkerVita/Yisrael Medad]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Yisrael Medad]]
 
 ## Yuval Noah Harari
-**Status:** ✓ Vollanalyse → [[DenkerVita/Yuval Noah Harari]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Yuval Noah Harari]]
 
 ## Hans-Peter Dürr
 **Status:** Stub
 
 ## Hartmut Rosa
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hartmut Rosa]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hartmut Rosa]]
 
 ## Hartwin Maas
 **Status:** Stub
 
 ## Heiner Flassbeck
-**Status:** ✓ Vollanalyse → [[DenkerVita/Heiner Flassbeck]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Heiner Flassbeck]]
 
 ## Helen Keller
-**Status:** ✓ Vollanalyse → [[DenkerVita/Helen Keller]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Helen Keller]]
 
 ## Heinz Bude
-**Status:** ✓ Vollanalyse → [[DenkerVita/Heinz Bude]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Heinz Bude]]
 
 ## Herfried Münkler
-**Status:** ✓ Vollanalyse — [[DenkerVita/Herfried Münkler]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Herfried Münkler]]
 
 ## Ingrid Brodnig
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ingrid Brodnig]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ingrid Brodnig]]
 
 ## Immanuel Kant
-**Status:** ✓ Vollanalyse → [[DenkerVita/Immanuel Kant]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Immanuel Kant]]
 
 ## Isabell Lorey
-**Status:** ✓ Vollanalyse → [[DenkerVita/Isabell Lorey]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Isabell Lorey]]
 
 ## Isabel Wilkerson
-**Status:** ✓ Vollanalyse → [[DenkerVita/Isabel Wilkerson]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Isabel Wilkerson]]
 
 ## Ivan Krastev
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ivan Krastev]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ivan Krastev]]
 
 ## Jan Hegenberg
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jan Hegenberg]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jan Hegenberg]]
 
 ## Jan-Keno Janssen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jan-Keno Janssen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jan-Keno Janssen]]
 
 ## Janina Mütze
-**Status:** ✓ Vollanalyse → [[DenkerVita/Janina Muetze]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Janina Muetze]]
 
 
 ## Jean-François Lyotard
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jean-Francois Lyotard]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jean-Francois Lyotard]]
 
 ## John Rawls
-**Status:** ✓ Vollanalyse → [[DenkerVita/John Rawls]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/John Rawls]]
 
 ## Joan Kinyua
-**Status:** ✓ Vollanalyse → [[DenkerVita/Joan Kinyua]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Joan Kinyua]]
 
 ## Jonathan Haidt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jonathan Haidt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jonathan Haidt]]
 
 ## Jagoda Marinić
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jagoda Marinic]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jagoda Marinic]]
 
 ## Jürgen Habermas
-**Status:** ✓ Vollanalyse → [[DenkerVita/Juergen Habermas]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Juergen Habermas]]
 
 ## Katharina Nocun
-**Status:** ✓ Vollanalyse → [[DenkerVita/Katharina Nocun]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Katharina Nocun]]
 
 ## Julia Friedrichs
-**Status:** ✓ Vollanalyse → [[DenkerVita/Julia Friedrichs]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Julia Friedrichs]]
 
 ## Julia Kloiber
-**Status:** ✓ Vollanalyse → [[DenkerVita/Julia Kloiber]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Julia Kloiber]]
 
 ## Julie Pagis
-**Status:** ✓ Vollanalyse → [[DenkerVita/Julie Pagis]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Julie Pagis]]
 
 ## Katherina Reiche
-**Status:** ✓ Vollanalyse — [[DenkerVita/Katherina Reiche]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Katherina Reiche]]
 
 ## Kai Michel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kai Michel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kai Michel]]
 
 ## Karl Marx
-**Status:** ✓ Vollanalyse → [[DenkerVita/Karl Marx]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Karl Marx]]
 
 ## Kevin Kühnert
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kevin Kuehnert]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kevin Kuehnert]]
 
 ## Kojin Karatani
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kojin Karatani]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kojin Karatani]]
 
 ## Kolja Möller
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kolja Moeller]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kolja Moeller]]
 
 ## Konstantin Flemig
-**Status:** ✓ Vollanalyse → [[DenkerVita/Konstantin Flemig]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Konstantin Flemig]]
 
 ## Leon Black
-**Status:** ✓ Vollanalyse → [[DenkerVita/Leon Black]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Leon Black]]
 
 ## Leonhard Dobusch
-**Status:** ✓ Vollanalyse → [[DenkerVita/Leonhard Dobusch]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Leonhard Dobusch]]
 
 ## Leonhard Horowski
 **Status:** Stub
 
 ## Lilith Roska
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lilith Roska]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lilith Roska]]
 
 ## Liya Yu
-**Status:** ✓ Vollanalyse → [[DenkerVita/Liya Yu]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Liya Yu]]
 
 ## Lucy Brown
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lucy Brown]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lucy Brown]]
 
 ## Ludwig Wittgenstein
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ludwig Wittgenstein]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ludwig Wittgenstein]]
 
 ## Maja Göpel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Maja Goepel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maja Goepel]]
 
 ## Manuel (Koschi Politik)
-**Status:** ✓ Vollanalyse → [[DenkerVita/Manuel Koschi Politik]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Manuel Koschi Politik]]
 
 ## Marc Felix Serrao
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marc Felix Serrao]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marc Felix Serrao]]
 
 ## Marcant
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marcant]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marcant]]
 
 ## Thomas „Eichi" Eichstädt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Eichstaedt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thomas Eichstaedt]]
 
 ## Felix Benneckenstein
-**Status:** ✓ Vollanalyse → [[DenkerVita/Felix Benneckenstein]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Felix Benneckenstein]]
 
 ## Fabian Wichmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Wichmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Fabian Wichmann]]
 
 ## Philip Schlaffer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Philip Schlaffer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Philip Schlaffer]]
 
 ## Marcel Fratzscher
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marcel Fratzscher]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marcel Fratzscher]]
 
 ## Marie-Agnes Strack-Zimmermann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marie-Agnes Strack-Zimmermann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann]]
 
 ## Marina Klimchuk
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marina Klimchuk]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marina Klimchuk]]
 
 ## Mark Benecke
-**Status:** ✓ Vollanalyse → [[DenkerVita/Mark Benecke]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Mark Benecke]]
 
 ## Mark Reicher
-**Status:** ✓ Vollanalyse → [[DenkerVita/Mark Reicher]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Mark Reicher]]
 
 ## Markus Gabriel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Markus Gabriel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Markus Gabriel]]
 
 ## Markus Reisner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Markus Reisner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Markus Reisner]]
 
 ## Martin Andree
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Andree]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Andree]]
 
 ## Maren Urner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Maren Urner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maren Urner]]
 
 ## Martin Heidegger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Heidegger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Heidegger]]
 
 ## Martin Sonneborn
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Sonneborn]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Sonneborn]]
 
 ## Martin Winistörfer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Winistoerfer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Winistoerfer]]
 
 ## Madlen Nicolaus
-**Status:** ✓ Vollanalyse → [[DenkerVita/Madlen Nicolaus]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Madlen Nicolaus]]
 
 ## Martyna Linartas
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martyna Linartas]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martyna Linartas]]
 
 ## Mats Schönauer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Mats Schoenauer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Mats Schoenauer]]
 
 ## Matthias Quent
-**Status:** ✓ Vollanalyse → [[DenkerVita/Matthias Quent]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Matthias Quent]]
 
 ## Matthieu Ricard
-**Status:** ✓ Vollanalyse → [[DenkerVita/Matthieu Ricard]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Matthieu Ricard]]
 
 ## Maurice Höfgen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Maurice Hoefgen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maurice Hoefgen]]
 
 ## Michael Hartmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Hartmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Hartmann]]
 
 ## Michael Sterner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Sterner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Sterner]]
 
 ## Michel Foucault
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michel Foucault]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michel Foucault]]
 
 ## Michel Friedman
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michel Friedman]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michel Friedman]]
 
 ## Nico Semsrott
-**Status:** ✓ Vollanalyse → [[DenkerVita/Nico Semsrott]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nico Semsrott]]
 
 ## Niclas Seydack
-**Status:** ✓ Vollanalyse → [[DenkerVita/Niclas Seydack]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Niclas Seydack]]
 
 ## Nicole Büttner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Nicole Buettner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nicole Buettner]]
 
 ## Nicole Deitelhoff
-**Status:** ✓ Vollanalyse → [[DenkerVita/Nicole Deitelhoff]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nicole Deitelhoff]]
 
 ## Niklas Luhmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Niklas Luhmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Niklas Luhmann]]
 
 ## Nadia Zaboura
-**Status:** ✓ Vollanalyse → [[DenkerVita/Nadia Zaboura]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nadia Zaboura]]
 
 ## Oliver Nachtwey
-**Status:** ✓ Vollanalyse → [[DenkerVita/Oliver Nachtwey]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Oliver Nachtwey]]
 
 ## Natalie Amiri
-**Status:** ✓ Vollanalyse → [[DenkerVita/Natalie Amiri]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Natalie Amiri]]
 
 ## Frederik Obermaier
-**Status:** ✓ Vollanalyse — [[DenkerVita/Frederik Obermaier]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Frederik Obermaier]]
 
 ## Paul Heck
-**Status:** ✓ Vollanalyse → [[DenkerVita/Paul Heck]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Paul Heck]]
 
 ## Paul Lance
-**Status:** ✓ Vollanalyse → [[DenkerVita/Paul Lance]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Paul Lance]]
 
 ## Paul Ricœur
-**Status:** ✓ Vollanalyse → [[DenkerVita/Paul Ricoeur]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Paul Ricoeur]]
 
 ## Pascal Kaufmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Pascal Kaufmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Pascal Kaufmann]]
 
 ## Philip Manow
 **Status:** Stub
@@ -772,721 +772,721 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** Stub
 
 ## Rainer Mausfeld
-**Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Mausfeld]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Rainer Mausfeld]]
 
 ## Rainer Mühlhoff
-**Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Mühlhoff]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Rainer Mühlhoff]]
 
 ## Rebecca Böhme
-**Status:** ✓ Vollanalyse → [[DenkerVita/Rebecca Boehme]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Rebecca Boehme]]
 
 ## Renée DiResta
-**Status:** ✓ Vollanalyse → [[DenkerVita/Renee DiResta]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Renee DiResta]]
 
 ## Ronnie Vuine
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ronnie Vuine]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ronnie Vuine]]
 
 
 ## Silvia Rivera Cusicanqui
-**Status:** ✓ Vollanalyse → [[DenkerVita/Silvia Rivera Cusicanqui]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Silvia Rivera Cusicanqui]]
 
 ## René Descartes
-**Status:** ✓ Vollanalyse → [[DenkerVita/Rene Descartes]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Rene Descartes]]
 
 ## Robert Musil
-**Status:** ✓ Vollanalyse — [[DenkerVita/Robert Musil]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Robert Musil]]
 
 ## Ronen Steinke
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ronen Steinke]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ronen Steinke]]
 
 ## S.N. Goenka
-**Status:** ✓ Vollanalyse → [[DenkerVita/S.N. Goenka]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/S.N. Goenka]]
 
 ## Sandra Navidi
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sandra Navidi]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sandra Navidi]]
 
 ## Semir Zeki
-**Status:** ✓ Vollanalyse → [[DenkerVita/Semir Zeki]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Semir Zeki]]
 
 ## Shi Heng Yi
-**Status:** ✓ Vollanalyse → [[DenkerVita/Shi Heng Yi]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Shi Heng Yi]]
 
 ## Silke Stremlau
-**Status:** ✓ Vollanalyse → [[DenkerVita/Silke Stremlau]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Silke Stremlau]]
 
 ## Sigmund Freud
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sigmund Freud]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sigmund Freud]]
 
 ## Simon Schaupp
-**Status:** ✓ Vollanalyse → [[DenkerVita/Simon Schaupp]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Simon Schaupp]]
 
 ## Damir Skenderovic
-**Status:** ✓ Vollanalyse → [[DenkerVita/Damir Skenderovic]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Damir Skenderovic]]
 
 ## Staiy
-**Status:** ✓ Vollanalyse → [[DenkerVita/Staiy]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Staiy]]
 
 ## Stefan Schulz
-**Status:** ✓ Vollanalyse → [[DenkerVita/Stefan Schulz]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Stefan Schulz]]
 
 ## Souleymane Bachir Diagne
-**Status:** ✓ Vollanalyse → [[DenkerVita/Souleymane Bachir Diagne]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Souleymane Bachir Diagne]]
 
 ## Steffen Mau
-**Status:** ✓ Vollanalyse → [[DenkerVita/Steffen Mau]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Steffen Mau]]
 
 ## Suraj Yengde
-**Status:** ✓ Vollanalyse → [[DenkerVita/Suraj Yengde]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Suraj Yengde]]
 
 ## Susanne Weigelin-Schwiedrzik
-**Status:** ✓ Vollanalyse → [[DenkerVita/Susanne Weigelin-Schwiedrzik]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Susanne Weigelin-Schwiedrzik]]
 
 ## Tahir Chaudhry
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tahir Chaudhry]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tahir Chaudhry]]
 
 ## Tariq Hübsch
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tariq Hübsch]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tariq Hübsch]]
 
 ## Teresa Bücker
-**Status:** ✓ Vollanalyse → [[DenkerVita/Teresa Bücker]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Teresa Bücker]]
 
 ## Tsitsi Dangarembga
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tsitsi Dangarembga]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tsitsi Dangarembga]]
 
 ## Theodor W. Adorno
-**Status:** ✓ Vollanalyse → [[DenkerVita/Theodor W. Adorno]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Theodor W. Adorno]]
 
 ## Thich Nhat Hanh
-**Status:** ✓ Vollanalyse → [[DenkerVita/Thich Nhat Hanh]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thich Nhat Hanh]]
 
 
 ## Tiana (Where Tiana Travels)
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tiana Travels]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tiana Travels]]
 
 ## Tilo Wesche
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tilo Wesche]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tilo Wesche]]
 
 ## Tim Meyer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tim Meyer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tim Meyer]]
 
 ## Tilo Jung
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tilo Jung]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tilo Jung]]
 
 ## Torsten Heinrich
-**Status:** ✓ Vollanalyse → [[DenkerVita/Torsten Heinrich]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Torsten Heinrich]]
 
 ## Ulf Poschardt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ulf Poschardt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ulf Poschardt]]
 
 ## Dana-Sophia Valentiner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dana-Sophia Valentiner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dana-Sophia Valentiner]]
 
 ## Valentina Chiofalo
-**Status:** ✓ Vollanalyse → [[DenkerVita/Valentina Chiofalo]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Valentina Chiofalo]]
 
 ## Volker Quaschning
-**Status:** ✓ Vollanalyse → [[DenkerVita/Volker Quaschning]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Volker Quaschning]]
 
 ## Jens-Christian Wagner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jens-Christian Wagner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jens-Christian Wagner]]
 
 ## Walther Ziegler
-**Status:** ✓ Vollanalyse → [[DenkerVita/Walther Ziegler]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Walther Ziegler]]
 
 ## William Darity Jr.
-**Status:** ✓ Vollanalyse → [[DenkerVita/William Darity Jr]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/William Darity Jr]]
 
 ## Wolfgang Kaleck
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Kaleck]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wolfgang Kaleck]]
 
 ## Wilhelm Heitmeyer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wilhelm Heitmeyer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wilhelm Heitmeyer]]
 
 ## Wolfgang M. Schmitt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang M. Schmitt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt]]
 
 ## Wolfram Eilenberger
 **Status:** Stub
 
 ## Wolfram Schultz
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfram Schultz]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wolfram Schultz]]
 
 
 ## Yanis Varoufakis
-**Status:** ✓ Vollanalyse → [[DenkerVita/Yanis Varoufakis]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Yanis Varoufakis]]
 
 ## Zhao Tingyang
-**Status:** ✓ Vollanalyse → [[DenkerVita/Zhao Tingyang]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Zhao Tingyang]]
 
 ## Morpheus (Cedric Mössner)
-**Status:** ✓ Vollanalyse → [[DenkerVita/Morpheus]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Morpheus]]
 
 ## Udo Marquardt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Udo Marquardt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Udo Marquardt]]
 
 ## IT Mario
-**Status:** ✓ Vollanalyse → [[DenkerVita/IT Mario]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/IT Mario]]
 
 ## Thomas Westbrook (Holy Koolaid)
-**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Westbrook]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thomas Westbrook]]
 
 ## Petra Gehring
-**Status:** ✓ Vollanalyse → [[DenkerVita/Petra Gehring]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Petra Gehring]]
 
 ## Sebastian Gießmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sebastian Giessmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sebastian Giessmann]]
 
 ## Carsten Jung
-**Status:** ✓ Vollanalyse → [[DenkerVita/Carsten Jung]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carsten Jung]]
 
 ---
 
 ## Frederike Kaltheuner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Frederike Kaltheuner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frederike Kaltheuner]]
 
 ## Georgina Neitzel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Georgina Neitzel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Georgina Neitzel]]
 
 ## Raphael Iltisberger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Raphael Iltisberger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Raphael Iltisberger]]
 
 ## Wendy Brown
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wendy Brown]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wendy Brown]]
 
 ## Marco Wähner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marco Waehner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marco Waehner]]
 
 ## Ralf Stockmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ralf Stockmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ralf Stockmann]]
 
 ## Annette Dittert
-**Status:** ✓ Vollanalyse → [[DenkerVita/Annette Dittert]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Annette Dittert]]
 
 ## Lena Kotré
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lena Kotre]] — Register, ausschließlich belegte und mehrfach veröffentlichte Äußerungen
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lena Kotre]] — Register, ausschließlich belegte und mehrfach veröffentlichte Äußerungen
 
 ## Rutger Bregman
-**Status:** ✓ Vollanalyse → [[DenkerVita/Rutger Bregman]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Rutger Bregman]]
 
 ## Hans Maggi
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hans Maggi]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hans Maggi]]
 
 ## Martin Oetting
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Oetting]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Oetting]]
 
 ## Ken Ono
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ken Ono]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ken Ono]]
 
 ## Angela Merkel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Angela Merkel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Angela Merkel]]
 
 ## Arthur Aron
-**Status:** ✓ Vollanalyse → [[DenkerVita/Arthur Aron]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arthur Aron]]
 
 ## Helen Fisher
-**Status:** ✓ Vollanalyse → [[DenkerVita/Helen Fisher]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Helen Fisher]]
 
 ## Donatella Marazziti
-**Status:** ✓ Vollanalyse → [[DenkerVita/Donatella Marazziti]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Donatella Marazziti]]
 
 ## Andreas Bartels
-**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Bartels]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Andreas Bartels]]
 
 ## Leonie Heims
-**Status:** ✓ Vollanalyse → [[DenkerVita/Leonie Heims]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Leonie Heims]]
 
 ## Tim Stark
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tim Stark]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tim Stark]]
 
 ## Carel van Schaik
-**Status:** ✓ Vollanalyse → [[DenkerVita/Carel van Schaik]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carel van Schaik]]
 
 ## Nicole Bendsen
-**Status:** ✓ Vollanalyse — [[DenkerVita/Nicole Bendsen]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Nicole Bendsen]]
 
 ## Maoz Inon
-**Status:** ✓ Vollanalyse — [[DenkerVita/Maoz Inon]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Maoz Inon]]
 
 ## Aziz Abu Sarah
-**Status:** ✓ Vollanalyse — [[DenkerVita/Aziz Abu Sarah]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Aziz Abu Sarah]]
 
 ## Dalai Lama
-**Status:** ✓ Vollanalyse — [[DenkerVita/Dalai Lama]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Dalai Lama]]
 
 ## Vandana Shiva
-**Status:** ✓ Vollanalyse → [[DenkerVita/Vandana Shiva]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Vandana Shiva]]
 
 ## Pankaj Mishra
-**Status:** ✓ Vollanalyse — [[DenkerVita/Pankaj Mishra]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Pankaj Mishra]]
 
 ## Yonatan Zeigen
-**Status:** ✓ Vollanalyse — [[DenkerVita/Yonatan Zeigen]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Yonatan Zeigen]]
 
 ## Konstantin Kuhle
-**Status:** ✓ Vollanalyse — [[DenkerVita/Konstantin Kuhle]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Konstantin Kuhle]]
 
 ## Sham Jaff
-**Status:** ✓ Vollanalyse — [[DenkerVita/Sham Jaff]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Sham Jaff]]
 
 ## Paul Klee
-**Status:** ✓ Vollanalyse — [[DenkerVita/Paul Klee]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Paul Klee]]
 
 ## Vijay Prashad
-**Status:** ✓ Vollanalyse — [[DenkerVita/Vijay Prashad]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Vijay Prashad]]
 
 ## Andreas Reckwitz
-**Status:** ✓ Vollanalyse — [[DenkerVita/Andreas Reckwitz]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Andreas Reckwitz]]
 
 ## Patrick Legun
-**Status:** ✓ Vollanalyse — [[DenkerVita/Patrick Legun]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Patrick Legun]]
 
 ## Sven Beckert
-**Status:** ✓ Vollanalyse — [[DenkerVita/Sven Beckert]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Sven Beckert]]
 
 ## Düzen Tekkal
-**Status:** ✓ Vollanalyse — [[DenkerVita/Duezen Tekkal]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Duezen Tekkal]]
 
 ## Gerald Knaus
-**Status:** ✓ Vollanalyse — [[DenkerVita/Gerald Knaus]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Gerald Knaus]]
 
 ## Arnaud Orain
-**Status:** ✓ Vollanalyse — [[DenkerVita/Arnaud Orain]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Arnaud Orain]]
 
 ## Ray Dalio
-**Status:** ✓ Vollanalyse — [[DenkerVita/Ray Dalio]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Ray Dalio]]
 
 ## Ulrike Herrmann
-**Status:** ✓ Vollanalyse — [[DenkerVita/Ulrike Herrmann]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Ulrike Herrmann]]
 
 ## Andreas Püttmann
-**Status:** ✓ Vollanalyse — [[DenkerVita/Andreas Puettmann]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Andreas Puettmann]]
 
 ## Moritz Rudolph
-**Status:** ✓ Vollanalyse — [[DenkerVita/Moritz Rudolph]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Moritz Rudolph]]
 
 ## Carlotta Voß
-**Status:** ✓ Vollanalyse — [[DenkerVita/Carlotta Voss]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Carlotta Voss]]
 
 ## Jean-Paul Sartre
-**Status:** ✓ Vollanalyse — [[DenkerVita/Jean-Paul Sartre]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Jean-Paul Sartre]]
 
 ## Simone Weil
-**Status:** ✓ Vollanalyse — [[DenkerVita/Simone Weil]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Simone Weil]]
 
 ## Katrin Eigendorf
-**Status:** ✓ Vollanalyse — [[DenkerVita/Katrin Eigendorf]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Katrin Eigendorf]]
 
 ## Ulf Röller
-**Status:** ✓ Vollanalyse — [[DenkerVita/Ulf Roeller]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Ulf Roeller]]
 
 ## Andrey Gurkov
-**Status:** ✓ Vollanalyse — [[DenkerVita/Andrey Gurkov]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Andrey Gurkov]]
 
 ## Judith Mangelsdorf
-**Status:** ✓ Vollanalyse — [[DenkerVita/Judith Mangelsdorf]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Judith Mangelsdorf]]
 
 ## Hasnain Kazim
-**Status:** ✓ Vollanalyse — [[DenkerVita/Hasnain Kazim]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Hasnain Kazim]]
 
 ## Philippa Sigl-Glöckner
-**Status:** ✓ Vollanalyse — [[DenkerVita/Philippa Sigl-Gloeckner]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Philippa Sigl-Gloeckner]]
 
 ## Patrick Kaczmarczyk
-**Status:** ✓ Vollanalyse — [[DenkerVita/Patrick Kaczmarczyk]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Patrick Kaczmarczyk]]
 
 ## Thomas Laschyk
-**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Laschyk]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thomas Laschyk]]
 
 ## Molly Crockett
-**Status:** ✓ Vollanalyse → [[DenkerVita/Molly Crockett]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Molly Crockett]]
 
 ## Martin Buber
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Buber]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Buber]]
 
 ## Emmanuel Levinas
-**Status:** ✓ Vollanalyse → [[DenkerVita/Emmanuel Levinas]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Emmanuel Levinas]]
 
 ## Ernst Tugendhat
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ernst Tugendhat]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ernst Tugendhat]]
 
 ## Christian Wiese
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christian Wiese]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christian Wiese]]
 
 ## Joachim Valentin
-**Status:** ✓ Vollanalyse → [[DenkerVita/Joachim Valentin]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Joachim Valentin]]
 
 ## Marie-Madeleine Maucourt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marie-Madeleine Maucourt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marie-Madeleine Maucourt]]
 
 ## Valentine Fanjeaux
-**Status:** ✓ Vollanalyse → [[DenkerVita/Valentine Fanjeaux]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Valentine Fanjeaux]]
 
 ## Torsten Wilholt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Torsten Wilholt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Torsten Wilholt]]
 
 ## Elif Eralp
-**Status:** ✓ Vollanalyse → [[DenkerVita/Elif Eralp]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Elif Eralp]]
 
 ## Marina Kormbaki
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marina Kormbaki]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marina Kormbaki]]
 
 ## Hans Jessen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hans Jessen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hans Jessen]]
 
 ## Jana Hensel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jana Hensel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jana Hensel]]
 
 ## Ardalan Ibrahim
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ardalan Ibrahim]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ardalan Ibrahim]]
 
 ## Philipp Blom
-**Status:** ✓ Vollanalyse → [[DenkerVita/Philipp Blom]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Philipp Blom]]
 
 ## Marco Bülow
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marco Buelow]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marco Buelow]]
 
 ## Omar M. Yaghi
-**Status:** ✓ Vollanalyse → [[DenkerVita/Omar M. Yaghi]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Omar M. Yaghi]]
 
 ## Tom Krebs
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tom Krebs]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tom Krebs]]
 
 ## Andreas Schmitz
-**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Schmitz]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Andreas Schmitz]]
 
 ## Chris van Tulleken
-**Status:** ✓ Vollanalyse → [[DenkerVita/Chris van Tulleken]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Chris van Tulleken]]
 
 ## Michael Moss
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Moss]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Moss]]
 
 ## Jutta Roosen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jutta Roosen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jutta Roosen]]
 
 ## Hanna Notte
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hanna Notte]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hanna Notte]]
 
 ## Sergey Lagodinsky
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sergey Lagodinsky]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sergey Lagodinsky]]
 
 ## Barbara Bleisch
-**Status:** ✓ Vollanalyse → [[DenkerVita/Barbara Bleisch]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Barbara Bleisch]]
 
 ## Stephan Marks
-**Status:** ✓ Vollanalyse → [[DenkerVita/Stephan Marks]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Stephan Marks]]
 
 ## Henrike von Scheliha
-**Status:** ✓ Vollanalyse → [[DenkerVita/Henrike von Scheliha]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Henrike von Scheliha]]
 
 ## Anke Myrrhe
-**Status:** ✓ Vollanalyse → [[DenkerVita/Anke Myrrhe]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Anke Myrrhe]]
 
 ## Sebastian Puschner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sebastian Puschner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sebastian Puschner]]
 
 ## Sascha Chaimowicz
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sascha Chaimowicz]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sascha Chaimowicz]]
 
 ## Christian Walburg
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christian Walburg]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christian Walburg]]
 
 ## Heinz-Peter Meidinger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Heinz-Peter Meidinger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Heinz-Peter Meidinger]]
 
 ## Björn Nölte
-**Status:** ✓ Vollanalyse — [[DenkerVita/Bjoern Noelte]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Bjoern Noelte]]
 
 ## Lars Wienand
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lars Wienand]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lars Wienand]]
 
 ## Isabella Weber
-**Status:** ✓ Vollanalyse → [[DenkerVita/Isabella Weber]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Isabella Weber]]
 
 ## Andreas Audretsch
-**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Audretsch]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Andreas Audretsch]]
 
 ## Tim Klüssendorf
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tim Kluessendorf]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tim Kluessendorf]]
 
 ## Ines Schwerdtner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ines Schwerdtner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ines Schwerdtner]]
 
 ## Dirk Oschmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dirk Oschmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dirk Oschmann]]
 
 ## Ilko-Sascha Kowalczuk
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ilko-Sascha Kowalczuk]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ilko-Sascha Kowalczuk]]
 
 ## Juli Zeh
-**Status:** ✓ Vollanalyse → [[DenkerVita/Juli Zeh]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Juli Zeh]]
 
 ## Stephan Bartunek
-**Status:** ✓ Vollanalyse → [[DenkerVita/Stephan Bartunek]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Stephan Bartunek]]
 
 ## Hans-Thomas Tillschneider
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hans-Thomas Tillschneider]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hans-Thomas Tillschneider]]
 
 ## Veronika Grimm
-**Status:** ✓ Vollanalyse → [[DenkerVita/Veronika Grimm]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Veronika Grimm]]
 
 ## Susan Neiman
-**Status:** ✓ Vollanalyse → [[DenkerVita/Susan Neiman]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Susan Neiman]]
 
 ## Ulrike Winkelmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ulrike Winkelmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ulrike Winkelmann]]
 
 ## Günter Gaus
-**Status:** ✓ Vollanalyse → [[DenkerVita/Günter Gaus]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Günter Gaus]]
 
 ## Philipp Felsch
-**Status:** ✓ Vollanalyse → [[DenkerVita/Philipp Felsch]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Philipp Felsch]]
 
 ## Eva Geulen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Eva Geulen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Eva Geulen]]
 
 ## Felix Goldbach
-**Status:** ✓ Vollanalyse → [[DenkerVita/Felix Goldbach]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Felix Goldbach]]
 
 ## Robin Schmid
-**Status:** ✓ Vollanalyse → [[DenkerVita/Robin Schmid]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Robin Schmid]]
 
 ## Wolfgang Huber
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Huber]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wolfgang Huber]]
 
 ## Christine Schliesser
-**Status:** ✓ Vollanalyse → [[DenkerVita/Christine Schliesser]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christine Schliesser]]
 
 ## Michael Hampe
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Hampe]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Hampe]]
 
 ## Uwe Krüger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Uwe Krüger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Uwe Krüger]]
 
 ## Thomas Hörren
-**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Hoerren]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thomas Hoerren]]
 
 ## Martin Sorg
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Sorg]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Sorg]]
 
 ## Maria Furtwängler
-**Status:** ✓ Vollanalyse → [[DenkerVita/Maria Furtwaengler]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maria Furtwaengler]]
 
 ## Teja Tscharntke
-**Status:** ✓ Vollanalyse → [[DenkerVita/Teja Tscharntke]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Teja Tscharntke]]
 
 ## Donald Trump
-**Status:** ✓ Vollanalyse → [[DenkerVita/Donald Trump]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Donald Trump]]
 
 ## Elon Musk
-**Status:** ✓ Vollanalyse → [[DenkerVita/Elon Musk]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Elon Musk]]
 
 ## Peter Thiel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Peter Thiel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Peter Thiel]]
 
 ## Wladimir Putin
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wladimir Putin]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wladimir Putin]]
 
 ## Xi Jinping
-**Status:** ✓ Vollanalyse → [[DenkerVita/Xi Jinping]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Xi Jinping]]
 
 ## Willy Brandt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Willy Brandt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Willy Brandt]]
 
 ## Richard David Precht
-**Status:** ✓ Vollanalyse → [[DenkerVita/Richard David Precht]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Richard David Precht]]
 
 ## Riwan Driouich
-**Status:** ✓ Vollanalyse → [[DenkerVita/Riwan Driouich]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Riwan Driouich]]
 
 ## Heino Falcke
-**Status:** ✓ Vollanalyse → [[DenkerVita/Heino Falcke]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Heino Falcke]]
 
 ## Irina Scherbakowa
-**Status:** ✓ Vollanalyse → [[DenkerVita/Irina Scherbakowa]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Irina Scherbakowa]]
 
 ## Alice Bota
-**Status:** ✓ Vollanalyse → [[DenkerVita/Alice Bota]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alice Bota]]
 
 ## Maria Kalesnikava
-**Status:** ✓ Vollanalyse → [[DenkerVita/Maria Kalesnikava]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maria Kalesnikava]]
 
 ## Dagmar Simonsen
-**Status:** ✓ Vollanalyse — [[DenkerVita/Dagmar Simonsen]]
+**Status:** ✓ Vollanalyse — [[Gedankenwelten/DenkerVita/Dagmar Simonsen]]
 
 ## Franziska Meier
-**Status:** ✓ Vollanalyse → [[DenkerVita/Franziska Meier]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franziska Meier]]
 
 ## Manfred Spitzer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Manfred Spitzer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Manfred Spitzer]]
 
 ## Alice Kaplan
-**Status:** ✓ Vollanalyse → [[DenkerVita/Alice Kaplan]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alice Kaplan]]
 
 ## Ève Morisi
-**Status:** ✓ Vollanalyse → [[DenkerVita/Eve Morisi]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Eve Morisi]]
 
 ## Veit Roessner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Veit Roessner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Veit Roessner]]
 
 ## Nina Kolleck
-**Status:** ✓ Vollanalyse → [[DenkerVita/Nina Kolleck]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nina Kolleck]]
 
 ## Bernd Tiggemann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Bernd Tiggemann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Bernd Tiggemann]]
 
 ## Ole Nymoen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ole Nymoen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ole Nymoen]]
 
 ## Hagen Vockerodt
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hagen Vockerodt]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hagen Vockerodt]]
 
 ## Marcello Ienca
-**Status:** ✓ Vollanalyse → [[DenkerVita/Marcello Ienca]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marcello Ienca]]
 
 ## Barbara Junge
-**Status:** ✓ Vollanalyse → [[DenkerVita/Barbara Junge]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Barbara Junge]]
 
 ## Martina Mescher
-**Status:** ✓ Vollanalyse → [[DenkerVita/Martina Mescher]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martina Mescher]]
 
 ## Sebastian Moll
-**Status:** ✓ Vollanalyse → [[DenkerVita/Sebastian Moll]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sebastian Moll]]
 
 ## Bernd Pickert
-**Status:** ✓ Vollanalyse → [[DenkerVita/Bernd Pickert]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Bernd Pickert]]
 
 ## Lilli Berthold
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lilli Berthold]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lilli Berthold]]
 
 ## Burak Caniperk
-**Status:** ✓ Vollanalyse → [[DenkerVita/Burak Caniperk]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Burak Caniperk]]
 
 ## Kilian Hampel
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kilian Hampel]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kilian Hampel]]
 
 ## Witold Pilecki
-**Status:** ✓ Vollanalyse → [[DenkerVita/Witold Pilecki]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Witold Pilecki]]
 
 ## Michael Fleming
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Fleming]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Fleming]]
 
 ## Stephen Miller
-**Status:** ✓ Vollanalyse → [[DenkerVita/Stephen Miller]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Stephen Miller]]
 
 ## Wolfgang Coy
-**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Coy]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wolfgang Coy]]
 
 ## Kerstin Zettl-Schabath
-**Status:** ✓ Vollanalyse → [[DenkerVita/Kerstin Zettl-Schabath]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kerstin Zettl-Schabath]]
 
 ## Mathias Fischer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Mathias Fischer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Mathias Fischer]]
 
 ## Volker Strotmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Volker Strotmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Volker Strotmann]]
 
 ## Manuel Atug
-**Status:** ✓ Vollanalyse → [[DenkerVita/Manuel Atug]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Manuel Atug]]
 
 ## Tania Singer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Tania Singer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tania Singer]]
 
 ## Fred von Allmen
-**Status:** ✓ Vollanalyse → [[DenkerVita/Fred von Allmen]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Fred von Allmen]]
 
 ## Hanna Pfeifer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hanna Pfeifer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hanna Pfeifer]]
 
 ## Hedwig Richter
-**Status:** ✓ Vollanalyse → [[DenkerVita/Hedwig Richter]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Hedwig Richter]]
 
 ## Claudia Wittig
-**Status:** ✓ Vollanalyse → [[DenkerVita/Claudia Wittig]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Claudia Wittig]]
 
 ## Rainer Rothfuß
-**Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Rothfuss]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Rainer Rothfuss]]
 
 ## Harry Pfau
-**Status:** ✓ Vollanalyse → [[DenkerVita/Harry Pfau]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Harry Pfau]]
 
 ## Ines Azrael
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ines Azrael]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ines Azrael]]
 
 ## Helmut Leitner
-**Status:** ✓ Vollanalyse → [[DenkerVita/Helmut Leitner]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Helmut Leitner]]
 
 ## Michael Weigel-Jech
-**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Weigel-Jech]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Weigel-Jech]]
 
 ## Stefan Creuzberger
-**Status:** ✓ Vollanalyse → [[DenkerVita/Stefan Creuzberger]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Stefan Creuzberger]]
 
 ## Daniel Jung
-**Status:** ✓ Vollanalyse → [[DenkerVita/Daniel Jung]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Daniel Jung]]
 
 ## Elham Manea
-**Status:** ✓ Vollanalyse → [[DenkerVita/Elham Manea]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Elham Manea]]
 
 ## Asmaa Dehbi
-**Status:** ✓ Vollanalyse → [[DenkerVita/Asmaa Dehbi]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Asmaa Dehbi]]
 
 ## Igor Levit
-**Status:** ✓ Vollanalyse → [[DenkerVita/Igor Levit]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Igor Levit]]
 
 ## Jouanna Hassoun
-**Status:** ✓ Vollanalyse → [[DenkerVita/Jouanna Hassoun]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jouanna Hassoun]]
 
 ## Johannes Volkmann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Johannes Volkmann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Johannes Volkmann]]
 
 ## Yves Bossart
-**Status:** ✓ Vollanalyse → [[DenkerVita/Yves Bossart]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Yves Bossart]]
 
 ## Raül Gallego Abellán
-**Status:** ✓ Vollanalyse → [[DenkerVita/Raul Gallego Abellan]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Raul Gallego Abellan]]
 
 ## Filip Balunović
-**Status:** ✓ Vollanalyse → [[DenkerVita/Filip Balunovic]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Filip Balunovic]]
 
 ## Alek Kavčić
-**Status:** ✓ Vollanalyse → [[DenkerVita/Alek Kavcic]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alek Kavcic]]
 
 ## Dijana Hrka
-**Status:** ✓ Vollanalyse → [[DenkerVita/Dijana Hrka]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Dijana Hrka]]
 
 ## Aleksandar Vučić
-**Status:** ✓ Vollanalyse → [[DenkerVita/Aleksandar Vucic]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Aleksandar Vucic]]
 
 ## Ralf K. Wüstenberg
-**Status:** ✓ Vollanalyse → [[DenkerVita/Ralf K. Wüstenberg]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ralf K. Wüstenberg]]
 
 ## Johann Krieten
-**Status:** ✓ Vollanalyse → [[DenkerVita/Johann Krieten]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Johann Krieten]]
 
 ## Georgine Kellermann
-**Status:** ✓ Vollanalyse → [[DenkerVita/Georgine Kellermann]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Georgine Kellermann]]
 Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen), seit 09/2019 offen trans Frau, Autobiografie „Georgine – Der lange Weg zu mir selbst“ (Ullstein 2024). Note: re:publica 2024 mit Raúl Krauthausen.
 
 ## Seyran Ateş
-**Status:** ✓ Vollanalyse → [[DenkerVita/Seyran Ateş]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Seyran Ateş]]
 
 ## Eren Güvercin
-**Status:** ✓ Vollanalyse → [[DenkerVita/Eren Güvercin]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Eren Güvercin]]
 
 ## Bertolt Meyer
-**Status:** ✓ Vollanalyse → [[DenkerVita/Bertolt Meyer]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Bertolt Meyer]]
 
 ## Birgit Kelle
-**Status:** ✓ Vollanalyse → [[DenkerVita/Birgit Kelle]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Birgit Kelle]]
 
 ## Paul Ninus Naujoks
-**Status:** ✓ Vollanalyse → [[DenkerVita/Paul Ninus Naujoks]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Paul Ninus Naujoks]]
 
 ## Lucas Krzikalla
-**Status:** ✓ Vollanalyse → [[DenkerVita/Lucas Krzikalla]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Lucas Krzikalla]]
 
 ## Pierre Sanoussi-Bliss
-**Status:** ✓ Vollanalyse → [[DenkerVita/Pierre Sanoussi-Bliss]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Pierre Sanoussi-Bliss]]
 
 ## Barbie Breakout
-**Status:** ✓ Vollanalyse → [[DenkerVita/Barbie Breakout]]
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Barbie Breakout]]

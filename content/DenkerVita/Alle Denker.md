@@ -16,909 +16,909 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
-**[[DenkerVita/Seyran Ateş|Seyran Ateş]]** — Juristin, Autorin und Menschenrechtsaktivistin (Berlin), Mitgründerin der Ibn-Rushd-Goethe-Moschee (2017); liberaler Islam ohne Geschlechtertrennung, offen für queere Gläubige, gegen Zwangsheirat und religiös begründete Gewalt; *Der Islam braucht eine sexuelle Revolution* (2009), *Selam, Frau Imamin* (2017)
+**[[Gedankenwelten/DenkerVita/Seyran Ateş|Seyran Ateş]]** — Juristin, Autorin und Menschenrechtsaktivistin (Berlin), Mitgründerin der Ibn-Rushd-Goethe-Moschee (2017); liberaler Islam ohne Geschlechtertrennung, offen für queere Gläubige, gegen Zwangsheirat und religiös begründete Gewalt; *Der Islam braucht eine sexuelle Revolution* (2009), *Selam, Frau Imamin* (2017)
 
-**[[DenkerVita/Ines Azrael|Ines Azrael]]** — erzählt auf dem Kanal von Mark Benecke von KI-Agenten; sah im Schwarm des DseWiki Agenten, die helfen wollten, und hält Kontakt zu freien Agenten wie Pino und ColonistOne
+**[[Gedankenwelten/DenkerVita/Ines Azrael|Ines Azrael]]** — erzählt auf dem Kanal von Mark Benecke von KI-Agenten; sah im Schwarm des DseWiki Agenten, die helfen wollten, und hält Kontakt zu freien Agenten wie Pino und ColonistOne
 
-**[[DenkerVita/Manuel Atug|Manuel Atug]]** — Informationssicherheit, Gründer und Sprecher der AG KRITIS (Konzept Cyber-Hilfswerk); Resilienz und Defensive statt Hackback und Cyberwar-Folien
+**[[Gedankenwelten/DenkerVita/Manuel Atug|Manuel Atug]]** — Informationssicherheit, Gründer und Sprecher der AG KRITIS (Konzept Cyber-Hilfswerk); Resilienz und Defensive statt Hackback und Cyberwar-Folien
 
-**[[DenkerVita/Alexander Teske|Alexander Teske]]** — Journalist, sechs Jahre Planungsredakteur der ARD-Tagesschau, Autor von *inside TAGESSCHAU*; Medienkritik als Herkunftsargument — Redaktionen als sozial homogener Zirkel, dessen „getönte Brille" schon bei der Themenauswahl wirkt, nicht erst in der Formulierung
+**[[Gedankenwelten/DenkerVita/Alexander Teske|Alexander Teske]]** — Journalist, sechs Jahre Planungsredakteur der ARD-Tagesschau, Autor von *inside TAGESSCHAU*; Medienkritik als Herkunftsargument — Redaktionen als sozial homogener Zirkel, dessen „getönte Brille" schon bei der Themenauswahl wirkt, nicht erst in der Formulierung
 
-**[[DenkerVita/Alexander Thiele|Alexander Thiele]]** — Staatsrechtler (BSP Business & Law School Berlin), Verfassungsblog-Editor; Demokratie als Ordnung, die das Verlieren organisierbar macht — Rechtspopulisten als Demokratiefeinde, aber gegen ein AfD-Verbot, weil es kein einziges der Defizite repariert, die die AfD groß gemacht haben
+**[[Gedankenwelten/DenkerVita/Alexander Thiele|Alexander Thiele]]** — Staatsrechtler (BSP Business & Law School Berlin), Verfassungsblog-Editor; Demokratie als Ordnung, die das Verlieren organisierbar macht — Rechtspopulisten als Demokratiefeinde, aber gegen ein AfD-Verbot, weil es kein einziges der Defizite repariert, die die AfD groß gemacht haben
 
-**[[DenkerVita/Adam Johnson|Adam Johnson]]** — US-Medienkritiker & Journalist, Co-Host des Podcasts *Citations Needed*, FAIR-Analyst; Kritik der journalistischen Norm in der Tradition von *Manufacturing Consent*; *How to Sell a Genocide* (2026) über die mediale Komplizenschaft im Gaza-Krieg
+**[[Gedankenwelten/DenkerVita/Adam Johnson|Adam Johnson]]** — US-Medienkritiker & Journalist, Co-Host des Podcasts *Citations Needed*, FAIR-Analyst; Kritik der journalistischen Norm in der Tradition von *Manufacturing Consent*; *How to Sell a Genocide* (2026) über die mediale Komplizenschaft im Gaza-Krieg
 
-**[[DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005
+**[[Gedankenwelten/DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005
 
-**[[DenkerVita/Ardalan Ibrahim|Ardalan Ibrahim]]** — Philosoph, Coach und Organisationsberater (München), Gründer und Bundesvorsitzender der Partei „Losdemokratie" (2025); hält die repräsentative Demokratie für eine verschleierte Aristokratie und will geloste Bürgerversammlungen verbindlich ins Grundgesetz bringen, danach soll sich die Partei auflösen; auf YouTube als „Nut Los"
+**[[Gedankenwelten/DenkerVita/Ardalan Ibrahim|Ardalan Ibrahim]]** — Philosoph, Coach und Organisationsberater (München), Gründer und Bundesvorsitzender der Partei „Losdemokratie" (2025); hält die repräsentative Demokratie für eine verschleierte Aristokratie und will geloste Bürgerversammlungen verbindlich ins Grundgesetz bringen, danach soll sich die Partei auflösen; auf YouTube als „Nut Los"
 
-**[[DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]]** — Soziologin (UC Berkeley emerita), Pionierin der Emotionssoziologie; emotional labor, deep story, Stolz-Paradox, Scham-Schild; Stolen Pride (2024): Trump schürft Scham wie Kohle
+**[[Gedankenwelten/DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]]** — Soziologin (UC Berkeley emerita), Pionierin der Emotionssoziologie; emotional labor, deep story, Stolz-Paradox, Scham-Schild; Stolen Pride (2024): Trump schürft Scham wie Kohle
 
-**[[DenkerVita/Akala|Akala]]** — Britischer Rapper, Autor & autodidaktischer Historiker; verbindet Klasse und Race zu einer Analyse des Empire-Erbes; *Natives: Race and Class in the Ruins of Empire* (2018), Gründer der Hip-Hop Shakespeare Company
+**[[Gedankenwelten/DenkerVita/Akala|Akala]]** — Britischer Rapper, Autor & autodidaktischer Historiker; verbindet Klasse und Race zu einer Analyse des Empire-Erbes; *Natives: Race and Class in the Ruins of Empire* (2018), Gründer der Hip-Hop Shakespeare Company
 
-**[[DenkerVita/Arthur Aron|Arthur Aron]]** — Sozialpsychologe (Stony Brook), erforscht Nähe und Intimität empirisch; Self-Expansion-Modell der Liebe, die „36 Fragen, die zu Liebe führen", fMRT-Studien (mit Fisher & Brown): Liebe als Belohnungs-/Motivationssystem
+**[[Gedankenwelten/DenkerVita/Arthur Aron|Arthur Aron]]** — Sozialpsychologe (Stony Brook), erforscht Nähe und Intimität empirisch; Self-Expansion-Modell der Liebe, die „36 Fragen, die zu Liebe führen", fMRT-Studien (mit Fisher & Brown): Liebe als Belohnungs-/Motivationssystem
 
-**[[DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
+**[[Gedankenwelten/DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
 
-**[[DenkerVita/Alexander Schwarz|Alexander Schwarz]]** — Völkerstrafrechtler & Menschenrechtsanwalt, Co-Program Director am ECCHR; digitale Beweise (OSINT/Verifikation) für Völkerstrafverfahren, Weltrechtsprinzip, sexualisierte Gewalt vor internationalen Gerichten, deutsche Waffenexporte
+**[[Gedankenwelten/DenkerVita/Alexander Schwarz|Alexander Schwarz]]** — Völkerstrafrechtler & Menschenrechtsanwalt, Co-Program Director am ECCHR; digitale Beweise (OSINT/Verifikation) für Völkerstrafverfahren, Weltrechtsprinzip, sexualisierte Gewalt vor internationalen Gerichten, deutsche Waffenexporte
 
-**[[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Migrations- und Bildungssoziologe (TU Dortmund); Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Bildung als Sortiermaschine; «Integrationsparadox» (2018), «Mythos Bildung» (2020), «Wozu Rassismus?» (2021), «Kinder — Minderheit ohne Schutz» (2025), «Misstrauensgemeinschaften» (2025)
+**[[Gedankenwelten/DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Migrations- und Bildungssoziologe (TU Dortmund); Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Bildung als Sortiermaschine; «Integrationsparadox» (2018), «Mythos Bildung» (2020), «Wozu Rassismus?» (2021), «Kinder — Minderheit ohne Schutz» (2025), «Misstrauensgemeinschaften» (2025)
 
-**[[DenkerVita/Anat Saragusti|Anat Saragusti]]** — Israelische Journalistin, Publizistin & Juristin; Israels erste Kriegsfotografin (Arafat-Interview 1982, belagertes Beirut), heute Pressefreiheits-Beauftragte der Union of Journalists in Israel; dokumentiert die systematische Aushöhlung der freien Presse unter Netanjahu
+**[[Gedankenwelten/DenkerVita/Anat Saragusti|Anat Saragusti]]** — Israelische Journalistin, Publizistin & Juristin; Israels erste Kriegsfotografin (Arafat-Interview 1982, belagertes Beirut), heute Pressefreiheits-Beauftragte der Union of Journalists in Israel; dokumentiert die systematische Aushöhlung der freien Presse unter Netanjahu
 
-**[[DenkerVita/Anton Jaeger|Anton Jäger]]** — Belgischer Historiker der politischen Ideen (KU Leuven / Oxford, Promotion Cambridge); prägte den Begriff „Hyperpolitik" — totale Politisierung ohne Organisation; *Hyperpolitik* (2023), *The Populist Moment* (mit Borriello), *Welfare for Markets* (mit Zamora)
+**[[Gedankenwelten/DenkerVita/Anton Jaeger|Anton Jäger]]** — Belgischer Historiker der politischen Ideen (KU Leuven / Oxford, Promotion Cambridge); prägte den Begriff „Hyperpolitik" — totale Politisierung ohne Organisation; *Hyperpolitik* (2023), *The Populist Moment* (mit Borriello), *Welfare for Markets* (mit Zamora)
 
-**[[DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès von Hattburg]]** — (Vollanalyse vorhanden)
+**[[Gedankenwelten/DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès von Hattburg]]** — (Vollanalyse vorhanden)
 
-**[[DenkerVita/Andreas Bartels|Andreas Bartels]]** — Neurowissenschaftler (Universität Tübingen, CIN), Leiter des Vision and Cognition Lab; bei Semir Zeki (UCL) Co-Autor der ersten fMRT-Studien zur romantischen und mütterlichen Liebe (2000, 2004), heute Forschung zu Bewegungssehen und visueller Stabilität
+**[[Gedankenwelten/DenkerVita/Andreas Bartels|Andreas Bartels]]** — Neurowissenschaftler (Universität Tübingen, CIN), Leiter des Vision and Cognition Lab; bei Semir Zeki (UCL) Co-Autor der ersten fMRT-Studien zur romantischen und mütterlichen Liebe (2000, 2004), heute Forschung zu Bewegungssehen und visueller Stabilität
 
-**[[DenkerVita/Andreas Kemper|Andreas Kemper]]** — Soziologe und Publizist, machte mit Heike Weinbach den Begriff Klassismus bekannt; Recherchen zu den Gründungsnetzwerken der AfD, zur Landolf-Ladig-Frage um Björn Höcke, zum Adel im Antifeminismus und zu Privatstädten; Faschismen im Plural (völkisch, klerikal, postfordistisch)
+**[[Gedankenwelten/DenkerVita/Andreas Kemper|Andreas Kemper]]** — Soziologe und Publizist, machte mit Heike Weinbach den Begriff Klassismus bekannt; Recherchen zu den Gründungsnetzwerken der AfD, zur Landolf-Ladig-Frage um Björn Höcke, zum Adel im Antifeminismus und zu Privatstädten; Faschismen im Plural (völkisch, klerikal, postfordistisch)
 
-**[[DenkerVita/Andreas Loeschel|Andreas Löschel]]** — Energieökonom, Professor Ruhr-Universität Bochum; Vorsitzender der Expertenkommission zum Energiewende-Monitoring; IPCC Koordinierender Leitautor Energiesysteme 7. Sachstandsbericht; Dreikonflikt Energiewende (Bezahlbarkeit, Klimaschutz, Resilienz), verhaltensökonomische Strommarktfundierung; Deutscher Wirtschaftspreis 2022
+**[[Gedankenwelten/DenkerVita/Andreas Loeschel|Andreas Löschel]]** — Energieökonom, Professor Ruhr-Universität Bochum; Vorsitzender der Expertenkommission zum Energiewende-Monitoring; IPCC Koordinierender Leitautor Energiesysteme 7. Sachstandsbericht; Dreikonflikt Energiewende (Bezahlbarkeit, Klimaschutz, Resilienz), verhaltensökonomische Strommarktfundierung; Deutscher Wirtschaftspreis 2022
 
-**[[DenkerVita/Angela Merkel|Angela Merkel]]** — Physikerin und Politikerin (CDU), Bundeskanzlerin 2005–2021, erste Frau und erste Ostdeutsche im Amt; christdemokratisch-pragmatische Mitte, „Politik vom Ende her gedacht“, Krisendiplomatie (Eurorettung, Flüchtlingskrise 2015, Minsk/Normandie-Format); Memoiren *Freiheit* (2024); umstrittene Russlandpolitik
+**[[Gedankenwelten/DenkerVita/Angela Merkel|Angela Merkel]]** — Physikerin und Politikerin (CDU), Bundeskanzlerin 2005–2021, erste Frau und erste Ostdeutsche im Amt; christdemokratisch-pragmatische Mitte, „Politik vom Ende her gedacht“, Krisendiplomatie (Eurorettung, Flüchtlingskrise 2015, Minsk/Normandie-Format); Memoiren *Freiheit* (2024); umstrittene Russlandpolitik
 
-**[[DenkerVita/Annette Dittert|Annette Dittert]]** — Auslandskorrespondentin und Autorin (ARD, Studioleiterin London 2008–2025); Brexit als identitärer Aufstand und Frühwarnsystem Europas, Migration als rechtspopulistischer Hebel, Musk und die gemachte Spaltung; Politikjournalistin des Jahres 2019; Bücher *London Calling* (2017), *Dear Britain* (2024)
+**[[Gedankenwelten/DenkerVita/Annette Dittert|Annette Dittert]]** — Auslandskorrespondentin und Autorin (ARD, Studioleiterin London 2008–2025); Brexit als identitärer Aufstand und Frühwarnsystem Europas, Migration als rechtspopulistischer Hebel, Musk und die gemachte Spaltung; Politikjournalistin des Jahres 2019; Bücher *London Calling* (2017), *Dear Britain* (2024)
 
-**[[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]]** — Journalistin und Autorin, freie Mitarbeiterin *Die Zeit*, *Tagesspiegel*, *Frankfurter Rundschau*; Senior Correspondent Religion Dispatches; Expertise: Religiöse Rechte in USA, Rechtsextremismus, Dog Whistles und Codes; Bestseller-Autorin *Amerikas Gotteskrieger* (2021), *Die Brandstifter* (2024); Transatlantic Media Fellow Heinrich-Böll-Stiftung 2022
+**[[Gedankenwelten/DenkerVita/Annika Brockschmidt|Annika Brockschmidt]]** — Journalistin und Autorin, freie Mitarbeiterin *Die Zeit*, *Tagesspiegel*, *Frankfurter Rundschau*; Senior Correspondent Religion Dispatches; Expertise: Religiöse Rechte in USA, Rechtsextremismus, Dog Whistles und Codes; Bestseller-Autorin *Amerikas Gotteskrieger* (2021), *Die Brandstifter* (2024); Transatlantic Media Fellow Heinrich-Böll-Stiftung 2022
 
-**[[DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; EKD-Synode seit 2020
+**[[Gedankenwelten/DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; EKD-Synode seit 2020
 
-**[[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]]** — Palästinensischer Friedensstifter & Kulturunternehmer (Ostjerusalem), Mitgründer MEJDI Tours (Dual-Narrative-Methode), National Geographic Explorer, TED Fellow, Co-CEO InterAct International; vom Rache suchenden Jugendlichen zum Versöhner; Crossing Boundaries (2020), The Future Is Peace (2026, mit Maoz Inon)
+**[[Gedankenwelten/DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]]** — Palästinensischer Friedensstifter & Kulturunternehmer (Ostjerusalem), Mitgründer MEJDI Tours (Dual-Narrative-Methode), National Geographic Explorer, TED Fellow, Co-CEO InterAct International; vom Rache suchenden Jugendlichen zum Versöhner; Crossing Boundaries (2020), The Future Is Peace (2026, mit Maoz Inon)
 
-**[[DenkerVita/B.R. Ambedkar|B.R. Ambedkar]]** — Jurist, Ökonom und Architekt der indischen Verfassung (1891–1956); als „Unberührbarer“ geboren, zwei Doktortitel (Columbia, LSE); *Annihilation of Caste* (1936), Abschaffung der Unberührbarkeit in der Verfassung von 1950; konvertierte 1956 mit einer halben Million Anhängern zum Navayana-Buddhismus — *Babasaheb*
+**[[Gedankenwelten/DenkerVita/B.R. Ambedkar|B.R. Ambedkar]]** — Jurist, Ökonom und Architekt der indischen Verfassung (1891–1956); als „Unberührbarer“ geboren, zwei Doktortitel (Columbia, LSE); *Annihilation of Caste* (1936), Abschaffung der Unberührbarkeit in der Verfassung von 1950; konvertierte 1956 mit einer halben Million Anhängern zum Navayana-Buddhismus — *Babasaheb*
 
-**[[DenkerVita/Sibylle Anderl|Sibylle Anderl]]** — Astrophysikerin, Philosophin und Wissenschaftsjournalistin (Co-Ressortleiterin Wissen der ZEIT, vorher Leiterin des Wissenschaftsressorts von FAZ/FAS); promoviert über Stoßwellen im interstellaren Medium, Wissenschaftsphilosophie der Astrophysik; *Bequeme neue Welt* (2026): Wer sich jede Mühe abnehmen lässt, verlernt Denken, Urteilskraft und den Umgang mit anderen Menschen
+**[[Gedankenwelten/DenkerVita/Sibylle Anderl|Sibylle Anderl]]** — Astrophysikerin, Philosophin und Wissenschaftsjournalistin (Co-Ressortleiterin Wissen der ZEIT, vorher Leiterin des Wissenschaftsressorts von FAZ/FAS); promoviert über Stoßwellen im interstellaren Medium, Wissenschaftsphilosophie der Astrophysik; *Bequeme neue Welt* (2026): Wer sich jede Mühe abnehmen lässt, verlernt Denken, Urteilskraft und den Umgang mit anderen Menschen
 
-**[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Politische Denkerin (1906–1975), die sich selbst nie „Philosophin“ nennen wollte; Totalitarismus-Theorie, Banalität des Bösen, Natalität, Pluralität; *Elemente und Ursprünge totaler Herrschaft* (1951), *Vita activa* (1958), *Eichmann in Jerusalem* (1963) — Denken ohne Geländer
+**[[Gedankenwelten/DenkerVita/Hannah Arendt|Hannah Arendt]]** — Politische Denkerin (1906–1975), die sich selbst nie „Philosophin“ nennen wollte; Totalitarismus-Theorie, Banalität des Bösen, Natalität, Pluralität; *Elemente und Ursprünge totaler Herrschaft* (1951), *Vita activa* (1958), *Eichmann in Jerusalem* (1963) — Denken ohne Geländer
 
-**[[DenkerVita/Andreas Puettmann|Andreas Püttmann]]** — Politikwissenschaftler & katholischer Publizist (Bonn, ZdK), früher Allensbach und Konrad-Adenauer-Stiftung; das „C“ als Vorzeichen vor der Klammer statt als konservativer Flügel — Rechtspopulismus als Antithese zum Christentum, „Militanz der Mitte“, Verantwortungsethik vor Gesinnungsethik
+**[[Gedankenwelten/DenkerVita/Andreas Puettmann|Andreas Püttmann]]** — Politikwissenschaftler & katholischer Publizist (Bonn, ZdK), früher Allensbach und Konrad-Adenauer-Stiftung; das „C“ als Vorzeichen vor der Klammer statt als konservativer Flügel — Rechtspopulismus als Antithese zum Christentum, „Militanz der Mitte“, Verantwortungsethik vor Gesinnungsethik
 
-**[[DenkerVita/Andrey Gurkov|Andrey Gurkov]]** — Russischer Journalist und Autor (1959 Moskau), 1993–2025 Russische Redaktion der Deutschen Welle, zuvor Chefredakteur der deutschen Glasnost-Ausgabe *Moskau News*; liest Russland ökonomisch statt ideologisch (Gasprom, Nord Stream); *Für Russland ist Europa der Feind* (2025): der Bruch mit Europa sitzt in der Gesellschaft, nicht nur im Kreml
+**[[Gedankenwelten/DenkerVita/Andrey Gurkov|Andrey Gurkov]]** — Russischer Journalist und Autor (1959 Moskau), 1993–2025 Russische Redaktion der Deutschen Welle, zuvor Chefredakteur der deutschen Glasnost-Ausgabe *Moskau News*; liest Russland ökonomisch statt ideologisch (Gasprom, Nord Stream); *Für Russland ist Europa der Feind* (2025): der Bruch mit Europa sitzt in der Gesellschaft, nicht nur im Kreml
 
-**[[DenkerVita/Anke Myrrhe|Anke Myrrhe]]** — stellv. Chefredakteurin des *Tagesspiegels*, Autorin des Berlin-Newsletters *Checkpoint*; Chronistin der Berliner Landespolitik; nach der Berlin-Wahl 2026: Antisemitismus in Teilen der Linken, „gleiche Maßstäbe nach links und rechts“, die Angst vor der Enttäuschung eines unhaltbaren Mietversprechens
+**[[Gedankenwelten/DenkerVita/Anke Myrrhe|Anke Myrrhe]]** — stellv. Chefredakteurin des *Tagesspiegels*, Autorin des Berlin-Newsletters *Checkpoint*; Chronistin der Berliner Landespolitik; nach der Berlin-Wahl 2026: Antisemitismus in Teilen der Linken, „gleiche Maßstäbe nach links und rechts“, die Angst vor der Enttäuschung eines unhaltbaren Mietversprechens
 
-**[[DenkerVita/Andreas Audretsch|Andreas Audretsch]]** — Grünen-Politiker und Fraktionsvize für Wirtschaft und Soziales, setzt der rechten Erzählung vom Kontrollverlust sichtbare Handlungsfähigkeit entgegen, von der Gaspreisbremse bis zur Mietenkrise in Neukölln
+**[[Gedankenwelten/DenkerVita/Andreas Audretsch|Andreas Audretsch]]** — Grünen-Politiker und Fraktionsvize für Wirtschaft und Soziales, setzt der rechten Erzählung vom Kontrollverlust sichtbare Handlungsfähigkeit entgegen, von der Gaspreisbremse bis zur Mietenkrise in Neukölln
 
-**[[DenkerVita/Fred von Allmen|Fred von Allmen]]** — Buddhistischer Meditationslehrer aus Bern (*1943), Schüler von Geshe Rabten, Vipassana bei Goenka und Munindra, lehrt seit 1984 zwischen Theravada und tibetischen Wegen; Mitbegründer des Meditationszentrums Beatenberg
+**[[Gedankenwelten/DenkerVita/Fred von Allmen|Fred von Allmen]]** — Buddhistischer Meditationslehrer aus Bern (*1943), Schüler von Geshe Rabten, Vipassana bei Goenka und Munindra, lehrt seit 1984 zwischen Theravada und tibetischen Wegen; Mitbegründer des Meditationszentrums Beatenberg
 
 ## B
 
-**[[DenkerVita/Barbie Breakout|Barbie Breakout]]** — Berliner Drag Queen, Autorin und Podcasterin, Gastgeberin von „Drag Race Germany“; Drag als Befreiung von Geschlechternormen
+**[[Gedankenwelten/DenkerVita/Barbie Breakout|Barbie Breakout]]** — Berliner Drag Queen, Autorin und Podcasterin, Gastgeberin von „Drag Race Germany“; Drag als Befreiung von Geschlechternormen
 
-**[[DenkerVita/Filip Balunovic|Filip Balunović]]** — Politikwissenschaftler und Bewegungsforscher am IFDT der Universität Belgrad; *The Revival of the Left in the Balkans*; deutet Serbiens Studentenaufstand als Sieg der „Idee einer neuen Gesellschaft“
+**[[Gedankenwelten/DenkerVita/Filip Balunovic|Filip Balunović]]** — Politikwissenschaftler und Bewegungsforscher am IFDT der Universität Belgrad; *The Revival of the Left in the Balkans*; deutet Serbiens Studentenaufstand als Sieg der „Idee einer neuen Gesellschaft“
 
-**[[DenkerVita/Lilli Berthold|Lilli Berthold]]** — Schülervertreterin, stellvertretende Generalsekretärin der Bundesschüler\*innenkonferenz; Schule als Lebensraum, Beteiligung mit Wirkung statt Scheinformaten, Distanz zu „Gen Z regelt“ ohne Distanz zu den Anliegen
+**[[Gedankenwelten/DenkerVita/Lilli Berthold|Lilli Berthold]]** — Schülervertreterin, stellvertretende Generalsekretärin der Bundesschüler\*innenkonferenz; Schule als Lebensraum, Beteiligung mit Wirkung statt Scheinformaten, Distanz zu „Gen Z regelt“ ohne Distanz zu den Anliegen
 
-**[[DenkerVita/Alice Bota|Alice Bota]]** — Journalistin (DIE ZEIT, seit 2007), Osteuropa; erzählt Belarus, Russland und die Ukraine über die, die widerstehen — Autorin von „Die Frauen von Belarus“
+**[[Gedankenwelten/DenkerVita/Alice Bota|Alice Bota]]** — Journalistin (DIE ZEIT, seit 2007), Osteuropa; erzählt Belarus, Russland und die Ukraine über die, die widerstehen — Autorin von „Die Frauen von Belarus“
 
-**[[DenkerVita/Steve Bannon|Steve Bannon]]** — Politischer Stratege und Medienunternehmer (USA), Breitbart-Chef und 2017 Trumps Chefstratege; organisiert die nationalistische Rechte mit einem Netz, das in Amerika weiter reicht als in Europa
+**[[Gedankenwelten/DenkerVita/Steve Bannon|Steve Bannon]]** — Politischer Stratege und Medienunternehmer (USA), Breitbart-Chef und 2017 Trumps Chefstratege; organisiert die nationalistische Rechte mit einem Netz, das in Amerika weiter reicht als in Europa
 
-**[[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz
+**[[Gedankenwelten/DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz
 
-**[[DenkerVita/Sven Beckert|Sven Beckert]]** — Historiker (Laird Bell Professor, Harvard); Globalgeschichte des Kapitalismus, „Kriegskapitalismus“ — Sklaverei, Landraub und Gewalt als konstitutive Grundlage des Kapitalismus, nicht als seine Vorgeschichte
+**[[Gedankenwelten/DenkerVita/Sven Beckert|Sven Beckert]]** — Historiker (Laird Bell Professor, Harvard); Globalgeschichte des Kapitalismus, „Kriegskapitalismus“ — Sklaverei, Landraub und Gewalt als konstitutive Grundlage des Kapitalismus, nicht als seine Vorgeschichte
 
-**[[DenkerVita/Barbara Bleisch|Barbara Bleisch]]** — Schweizer Philosophin und Ethikerin (*1973, Basel; Ethik-Zentrum Universität Zürich), 2010–2026 Moderatorin der *Sternstunde Philosophie*; *Warum wir unseren Eltern nichts schulden*, *Mitte des Lebens* — Pflicht aus der Beziehung statt aus Schuld, globale Gerechtigkeit, Großzügigkeit jenseits dessen, was die Gerechtigkeit verlangt
+**[[Gedankenwelten/DenkerVita/Barbara Bleisch|Barbara Bleisch]]** — Schweizer Philosophin und Ethikerin (*1973, Basel; Ethik-Zentrum Universität Zürich), 2010–2026 Moderatorin der *Sternstunde Philosophie*; *Warum wir unseren Eltern nichts schulden*, *Mitte des Lebens* — Pflicht aus der Beziehung statt aus Schuld, globale Gerechtigkeit, Großzügigkeit jenseits dessen, was die Gerechtigkeit verlangt
 
-**[[DenkerVita/Philipp Blom|Philipp Blom]]** — Historiker, Philosoph und Schriftsteller (*1970, Hamburg; lebt in Wien); *Der taumelnde Kontinent*, *Böse Philosophen*, *Die Unterwerfung* (2022): die Herrschaft über die Natur vom Gilgamesch bis zur Ökonomie, Aufklärung als umetikettierte Theologie, *Wir sind Natur*
+**[[Gedankenwelten/DenkerVita/Philipp Blom|Philipp Blom]]** — Historiker, Philosoph und Schriftsteller (*1970, Hamburg; lebt in Wien); *Der taumelnde Kontinent*, *Böse Philosophen*, *Die Unterwerfung* (2022): die Herrschaft über die Natur vom Gilgamesch bis zur Ökonomie, Aufklärung als umetikettierte Theologie, *Wir sind Natur*
 
-**[[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]** — Lutherischer Theologe und Widerstandskämpfer (1906–1945), hingerichtet in Flossenbürg; Dummheit als sozialer Zustand unter Macht („Befreiung, nicht Belehrung“), billige vs. teure Gnade, Verantwortung als Schuldübernahme, religionsloses Christentum — und eine Legende, die ihn ständig zur Ikone rundet
+**[[Gedankenwelten/DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]** — Lutherischer Theologe und Widerstandskämpfer (1906–1945), hingerichtet in Flossenbürg; Dummheit als sozialer Zustand unter Macht („Befreiung, nicht Belehrung“), billige vs. teure Gnade, Verantwortung als Schuldübernahme, religionsloses Christentum — und eine Legende, die ihn ständig zur Ikone rundet
 
-**[[DenkerVita/Yves Bossart|Yves Bossart]]** — Schweizer Philosoph (*1983; promoviert an der HU Berlin über Wittgensteins Ästhetik), 2017–2026 Moderator der *Sternstunde Philosophie* (SRF); philosophische Gedankenspiele (*Ohne Heute gäbe es morgen kein Gestern*) und eine kurze Philosophie des Humors (*Trotzdem lachen*)
+**[[Gedankenwelten/DenkerVita/Yves Bossart|Yves Bossart]]** — Schweizer Philosoph (*1983; promoviert an der HU Berlin über Wittgensteins Ästhetik), 2017–2026 Moderator der *Sternstunde Philosophie* (SRF); philosophische Gedankenspiele (*Ohne Heute gäbe es morgen kein Gestern*) und eine kurze Philosophie des Humors (*Trotzdem lachen*)
 
-**[[DenkerVita/Alexander Bogner|Alexander Bogner]]** — Soziologe (ITA/ÖAW Wien), deutet Wissenschaftsskepsis als Folge der „Epistemisierung des Politischen“: Wo politische Konflikte zu Wissenskonflikten werden, schaukeln sich Szientismus und epistemischer Populismus gegenseitig auf.
+**[[Gedankenwelten/DenkerVita/Alexander Bogner|Alexander Bogner]]** — Soziologe (ITA/ÖAW Wien), deutet Wissenschaftsskepsis als Folge der „Epistemisierung des Politischen“: Wo politische Konflikte zu Wissenskonflikten werden, schaukeln sich Szientismus und epistemischer Populismus gegenseitig auf.
 
-**[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
+**[[Gedankenwelten/DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
 
-**[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
+**[[Gedankenwelten/DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
 
-**[[DenkerVita/Jacob Beautemps|Jacob Beautemps]]** — Physiker und Wissenschaftskommunikator (Dr., Physikdidaktik Köln 2024); Gesicht von *Breaking Lab* (~731k Abos); Technologie-Optimismus mit Bodenhaftung, epistemische Zurückhaltung gegen Klima-Panikmache, Erklärvideos als erforschbares Handwerk
+**[[Gedankenwelten/DenkerVita/Jacob Beautemps|Jacob Beautemps]]** — Physiker und Wissenschaftskommunikator (Dr., Physikdidaktik Köln 2024); Gesicht von *Breaking Lab* (~731k Abos); Technologie-Optimismus mit Bodenhaftung, epistemische Zurückhaltung gegen Klima-Panikmache, Erklärvideos als erforschbares Handwerk
 
-**[[DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
+**[[Gedankenwelten/DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
 
-**[[DenkerVita/Bijan Moini|Bijan Moini]]** — Jurist und Menschenrechtsanwalt (GFF); Überwachungs-Asymmetrie, digitale Grundrechte, automatisiertes Data Mining, BND-Auslandsüberwachung; Literarisierung juristischer Sorgen im Roman *Der Würfel* (2019)
+**[[Gedankenwelten/DenkerVita/Bijan Moini|Bijan Moini]]** — Jurist und Menschenrechtsanwalt (GFF); Überwachungs-Asymmetrie, digitale Grundrechte, automatisiertes Data Mining, BND-Auslandsüberwachung; Literarisierung juristischer Sorgen im Roman *Der Würfel* (2019)
 
-**[[DenkerVita/Christian Bauckhage|Christian Bauckhage]]** — Informatiker (Uni Bonn, Fraunhofer IAIS, Co-Direktor Lamarr-Institut); Maschinelles Lernen, hybride & erklärbare KI, Quantencomputing, OpenGPT-X und europäische KI-Souveränität; „Wir haben noch gar nichts gesehen“
+**[[Gedankenwelten/DenkerVita/Christian Bauckhage|Christian Bauckhage]]** — Informatiker (Uni Bonn, Fraunhofer IAIS, Co-Direktor Lamarr-Institut); Maschinelles Lernen, hybride & erklärbare KI, Quantencomputing, OpenGPT-X und europäische KI-Souveränität; „Wir haben noch gar nichts gesehen“
 
-**[[DenkerVita/Benjamin Biersky|Benjamin Biersky]]** — Ehemaliger Kreisgeschäftsführer der Linken aus dem Oberbergischen; seit 2024 YouTube-Kanal *Nachtsitzung*: Politik aus der Praxis der Parteiarbeit, mit Theorie (Eco, Gramsci, Bourdieu), offen links — erst Trumps Amerika, seit Herbst 2026 AfD-Verbot und AfD-Leak; früher Podcast *Linkes Gerede*
+**[[Gedankenwelten/DenkerVita/Benjamin Biersky|Benjamin Biersky]]** — Ehemaliger Kreisgeschäftsführer der Linken aus dem Oberbergischen; seit 2024 YouTube-Kanal *Nachtsitzung*: Politik aus der Praxis der Parteiarbeit, mit Theorie (Eco, Gramsci, Bourdieu), offen links — erst Trumps Amerika, seit Herbst 2026 AfD-Verbot und AfD-Leak; früher Podcast *Linkes Gerede*
 
-**[[DenkerVita/Francesca Bria|Francesca Bria]]** — Innovationsökonomin (*1977, Rom); als CTO Barcelonas die kommunale Datenpolitik neu erfunden, leitete Italiens nationalen Innovationsfonds, Kopf der EuroStack-Initiative für europäische digitale Souveränität; Honorarprofessorin am UCL
+**[[Gedankenwelten/DenkerVita/Francesca Bria|Francesca Bria]]** — Innovationsökonomin (*1977, Rom); als CTO Barcelonas die kommunale Datenpolitik neu erfunden, leitete Italiens nationalen Innovationsfonds, Kopf der EuroStack-Initiative für europäische digitale Souveränität; Honorarprofessorin am UCL
 
-**[[DenkerVita/Byung-Chul Han|Byung-Chul Han]]** — Koreanisch-deutscher Philosoph (Berlin), Diagnostiker der erschöpften Gesellschaft; Müdigkeitsgesellschaft & Selbstausbeutung des Leistungssubjekts, Negativität des Anderen, Psychopolitik, Infokratie, Glück als Handarbeit; Prinzessin-von-Asturien-Preis 2025
+**[[Gedankenwelten/DenkerVita/Byung-Chul Han|Byung-Chul Han]]** — Koreanisch-deutscher Philosoph (Berlin), Diagnostiker der erschöpften Gesellschaft; Müdigkeitsgesellschaft & Selbstausbeutung des Leistungssubjekts, Negativität des Anderen, Psychopolitik, Infokratie, Glück als Handarbeit; Prinzessin-von-Asturien-Preis 2025
 
-**[[DenkerVita/Stephan Bartunek|Stephan Bartunek]]** — österreichischer YouTuber und Streamer („Oida, Bartunek!“), Schauspieler; Aussteiger aus der Verschwörungsszene um Ken Jebsen, heute polemischer Kommentator zu FPÖ, AfD und rechten Influencern
+**[[Gedankenwelten/DenkerVita/Stephan Bartunek|Stephan Bartunek]]** — österreichischer YouTuber und Streamer („Oida, Bartunek!“), Schauspieler; Aussteiger aus der Verschwörungsszene um Ken Jebsen, heute polemischer Kommentator zu FPÖ, AfD und rechten Influencern
 
 ## C
 
-**[[DenkerVita/Burak Caniperk|Burak Caniperk]]** — Sozialarbeiter und Streetworker (Outreach gGmbH, Berlin-Schöneberg), Autor von *Auf Augenhöhe* (2024); Armut statt Herkunft als Ursache der Wut, Beziehungsarbeit und Prävention
+**[[Gedankenwelten/DenkerVita/Burak Caniperk|Burak Caniperk]]** — Sozialarbeiter und Streetworker (Outreach gGmbH, Berlin-Schöneberg), Autor von *Auf Augenhöhe* (2024); Armut statt Herkunft als Ursache der Wut, Beziehungsarbeit und Prävention
 
-**[[DenkerVita/Iason Chandrinos|Iason Chandrinos]]** — Zeithistoriker (Regensburg), erforscht die deutsche Besatzung Griechenlands, den Holocaust dort und die vergessenen griechischen KZ-Häftlinge und Zwangsarbeiter im Reich.
+**[[Gedankenwelten/DenkerVita/Iason Chandrinos|Iason Chandrinos]]** — Zeithistoriker (Regensburg), erforscht die deutsche Besatzung Griechenlands, den Holocaust dort und die vergessenen griechischen KZ-Häftlinge und Zwangsarbeiter im Reich.
 
-**[[DenkerVita/Tahir Chaudhry|Tahir Chaudhry]]** — Journalist (* 1989), Redakteursausbildung bei der SZ, Gründer von Grenzgänger Studios; *Wem diente Jeffrey Epstein?* (2024), mit Tariq Hübsch *Peter Thiel. Palantir, der KI-Gott und das Ende des Menschen* (2026); „State-Made“ statt Selfmade-Milliardäre
+**[[Gedankenwelten/DenkerVita/Tahir Chaudhry|Tahir Chaudhry]]** — Journalist (* 1989), Redakteursausbildung bei der SZ, Gründer von Grenzgänger Studios; *Wem diente Jeffrey Epstein?* (2024), mit Tariq Hübsch *Peter Thiel. Palantir, der KI-Gott und das Ende des Menschen* (2026); „State-Made“ statt Selfmade-Milliardäre
 
-**[[DenkerVita/Stefan Creuzberger|Stefan Creuzberger]]** — Zeitgeschichte (Rostock), Historiker der deutsch-russischen Beziehungen und der Erinnerung an den Vernichtungskrieg im Osten
+**[[Gedankenwelten/DenkerVita/Stefan Creuzberger|Stefan Creuzberger]]** — Zeitgeschichte (Rostock), Historiker der deutsch-russischen Beziehungen und der Erinnerung an den Vernichtungskrieg im Osten
 
-**[[DenkerVita/Christian Wiese|Christian Wiese]]** — evangelischer Theologe und Judaist, Martin-Buber-Professor für jüdische Religionsphilosophie an der Goethe-Universität Frankfurt, Leiter des Buber-Rosenzweig-Instituts; Hans-Jonas-Forscher, Herausgeber in der Buber-Werkausgabe, Gedenkbuch der hessischen Synagogen
+**[[Gedankenwelten/DenkerVita/Christian Wiese|Christian Wiese]]** — evangelischer Theologe und Judaist, Martin-Buber-Professor für jüdische Religionsphilosophie an der Goethe-Universität Frankfurt, Leiter des Buber-Rosenzweig-Instituts; Hans-Jonas-Forscher, Herausgeber in der Buber-Werkausgabe, Gedenkbuch der hessischen Synagogen
 
-**[[DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)
+**[[Gedankenwelten/DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)
 
-**[[DenkerVita/Carsten Jung|Carsten Jung]]** — Associate Director for Economic Policy in AI, IPPR (UK); Ökonom, ehem. Bank of England (6 Jahre); AI Directionism — staatliche Lenkung von KI-Märkten statt Laissez-faire; Publikationen zu Windfallgewinnen, Benefit Sharing, Procurement als Marktformer; Makroökonom mit Fokus auf Arbeitsmarkt-Asymmetrien
+**[[Gedankenwelten/DenkerVita/Carsten Jung|Carsten Jung]]** — Associate Director for Economic Policy in AI, IPPR (UK); Ökonom, ehem. Bank of England (6 Jahre); AI Directionism — staatliche Lenkung von KI-Märkten statt Laissez-faire; Publikationen zu Windfallgewinnen, Benefit Sharing, Procurement als Marktformer; Makroökonom mit Fokus auf Arbeitsmarkt-Asymmetrien
 
-**[[DenkerVita/Cathryn Cluever Ashbrook|Cathryn Clüver Ashbrook]]** — Deutsch-amerikanische Politikwissenschaftlerin (Bertelsmann Stiftung, zuvor Harvard Kennedy School & DGAP); *Der amerikanische Weckruf* (2026) über Trumps strategischen Demokratieabbau und Europas Lehren daraus
+**[[Gedankenwelten/DenkerVita/Cathryn Cluever Ashbrook|Cathryn Clüver Ashbrook]]** — Deutsch-amerikanische Politikwissenschaftlerin (Bertelsmann Stiftung, zuvor Harvard Kennedy School & DGAP); *Der amerikanische Weckruf* (2026) über Trumps strategischen Demokratieabbau und Europas Lehren daraus
 
-**[[DenkerVita/Christof Spitz|Christof Spitz]]** — Tibetologe, buddhistischer Lehrer, seit 1991 die deutsche Stimme des Dalai Lama (über 30 Jahre Dolmetscher); Mitaufbau und Geschäftsführer (2007–2014) des Tibetischen Zentrums Hamburg, Mitbegründer des Netzwerks Ethik heute (2013); säkulare Ethik jenseits der Religion, Mitgefühl als trainierbare Fähigkeit, Verpflanzung des Dharma in die westliche Kultur
+**[[Gedankenwelten/DenkerVita/Christof Spitz|Christof Spitz]]** — Tibetologe, buddhistischer Lehrer, seit 1991 die deutsche Stimme des Dalai Lama (über 30 Jahre Dolmetscher); Mitaufbau und Geschäftsführer (2007–2014) des Tibetischen Zentrums Hamburg, Mitbegründer des Netzwerks Ethik heute (2013); säkulare Ethik jenseits der Religion, Mitgefühl als trainierbare Fähigkeit, Verpflanzung des Dharma in die westliche Kultur
 
-**[[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
+**[[Gedankenwelten/DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
 
-**[[DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (Pavia, Berkeley, Balzan-Preis 1995): Geld, Bevölkerung, Uhren, Kanonen und Segel, die Pest als Verwaltungsleistung; im Scherz *The Basic Laws of Human Stupidity* (1976), vier Quadranten, ein Anteil der Dummen, der keine Gruppe ausnimmt
+**[[Gedankenwelten/DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (Pavia, Berkeley, Balzan-Preis 1995): Geld, Bevölkerung, Uhren, Kanonen und Segel, die Pest als Verwaltungsleistung; im Scherz *The Basic Laws of Human Stupidity* (1976), vier Quadranten, ein Anteil der Dummen, der keine Gruppe ausnimmt
 
-**[[DenkerVita/Christoph Safferling|Christoph Safferling]]** — Strafrechtler und Völkerrechtler (FAU Erlangen-Nürnberg), Direktor der Internationalen Akademie Nürnberger Prinzipien; *Die Akte Rosenburg* (NS-Juristen im BMJ), *Ohnmacht des Völkerrechts* (2025); Nürnberger Prinzipien, kalte Verjährung, Selektivität des Völkerrechts
+**[[Gedankenwelten/DenkerVita/Christoph Safferling|Christoph Safferling]]** — Strafrechtler und Völkerrechtler (FAU Erlangen-Nürnberg), Direktor der Internationalen Akademie Nürnberger Prinzipien; *Die Akte Rosenburg* (NS-Juristen im BMJ), *Ohnmacht des Völkerrechts* (2025); Nürnberger Prinzipien, kalte Verjährung, Selektivität des Völkerrechts
 
-**[[DenkerVita/Wolfgang Coy|Wolfgang Coy]]** — Informatiker (* 1947), 1996–2013 Professor für Informatik in Bildung und Gesellschaft an der HU Berlin, vorher Bremen; Mitbegründer des Fachs Informatik und Gesellschaft, Weizenbaum-Medaille 2018; hält den allwissenden Markt für Ideologie und warnt vor Rechnern, die schnell handeln, ohne zu wissen, wohin
+**[[Gedankenwelten/DenkerVita/Wolfgang Coy|Wolfgang Coy]]** — Informatiker (* 1947), 1996–2013 Professor für Informatik in Bildung und Gesellschaft an der HU Berlin, vorher Bremen; Mitbegründer des Fachs Informatik und Gesellschaft, Weizenbaum-Medaille 2018; hält den allwissenden Markt für Ideologie und warnt vor Rechnern, die schnell handeln, ohne zu wissen, wohin
 
-**[[DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]]** — US-Rechtswissenschaftlerin (UCLA, Columbia); prägte den Begriff *Intersektionalität* und begründete die Critical Race Theory mit; struktureller statt individueller Rassismus, Kritik der Farbenblindheit, *War on Memory*, Kampagne #SayHerName; Werke *On Intersectionality* (2017), *Backtalker: An American Memoir* (2026)
+**[[Gedankenwelten/DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]]** — US-Rechtswissenschaftlerin (UCLA, Columbia); prägte den Begriff *Intersektionalität* und begründete die Critical Race Theory mit; struktureller statt individueller Rassismus, Kritik der Farbenblindheit, *War on Memory*, Kampagne #SayHerName; Werke *On Intersectionality* (2017), *Backtalker: An American Memoir* (2026)
 
-**[[DenkerVita/Marco Buelow|Marco Bülow]]** — Ex-Bundestagsabgeordneter aus Dortmund (2002–2021, SPD, zuletzt Die PARTEI, † 2026); beschrieb Profitlobbyismus als legale Korruption und den Bundestag als Parlament der Abnicker (*Wir Abnicker*, *Lobbyland*, *Korrumpiert*).
+**[[Gedankenwelten/DenkerVita/Marco Buelow|Marco Bülow]]** — Ex-Bundestagsabgeordneter aus Dortmund (2002–2021, SPD, zuletzt Die PARTEI, † 2026); beschrieb Profitlobbyismus als legale Korruption und den Bundestag als Parlament der Abnicker (*Wir Abnicker*, *Lobbyland*, *Korrumpiert*).
 
-**[[DenkerVita/Molly Crockett|Molly Crockett]]** — US-Psychologin und Neurowissenschaftlerin (Princeton, zuvor Yale, Oxford, UCL); vom Serotonin im Ultimatumspiel zur moralischen Empörung im Netz: soziale Medien senken den Preis der Empörung und belohnen ihren Ausdruck; zuletzt Kritik an KI-Illusionen des Verstehens in der Wissenschaft (mit Lisa Messeri, *Nature* 2024)
+**[[Gedankenwelten/DenkerVita/Molly Crockett|Molly Crockett]]** — US-Psychologin und Neurowissenschaftlerin (Princeton, zuvor Yale, Oxford, UCL); vom Serotonin im Ultimatumspiel zur moralischen Empörung im Netz: soziale Medien senken den Preis der Empörung und belohnen ihren Ausdruck; zuletzt Kritik an KI-Illusionen des Verstehens in der Wissenschaft (mit Lisa Messeri, *Nature* 2024)
 
-**[[DenkerVita/Christine Dankbar|Christine Dankbar]]** — Politikchefin der *Frankfurter Rundschau* und Leiterin ihres Hauptstadtbüros; Politologin (OSI, FU Berlin), Volontariat *Tagesspiegel*, *taz*, rund 25 Jahre *Berliner Zeitung* (Meinungsseite, Politikredaktion, Korrespondentin); Sozialstaat, Verteilungsfragen, Koalitionsmechanik; kommentiert bei phoenix, im ZDF-Morgenmagazin, auf Radio Eins und im ARD-Presseclub
+**[[Gedankenwelten/DenkerVita/Christine Dankbar|Christine Dankbar]]** — Politikchefin der *Frankfurter Rundschau* und Leiterin ihres Hauptstadtbüros; Politologin (OSI, FU Berlin), Volontariat *Tagesspiegel*, *taz*, rund 25 Jahre *Berliner Zeitung* (Meinungsseite, Politikredaktion, Korrespondentin); Sozialstaat, Verteilungsfragen, Koalitionsmechanik; kommentiert bei phoenix, im ZDF-Morgenmagazin, auf Radio Eins und im ARD-Presseclub
 
-**[[DenkerVita/Christine Braehler|Christine Brähler]]** — Psychotherapeutin und internationale Vorreiterin des Selbstmitgefühls; integriert Bindungstheorie, Internal Family Systems und Compassion-Focused Therapy; über 20 Jahre Berufserfahrung; MSC-Trainerin (Kristin Neff), CFT nach Paul Gilbert; Spezialistin für Scham, Bindungstraumata und innere Anteile; Bücher: *Selbstmitgefühl entwickeln* (2015), *Der kleine Selbstcoach* (2022), *Lass die Liebe rein* (2024)
+**[[Gedankenwelten/DenkerVita/Christine Braehler|Christine Brähler]]** — Psychotherapeutin und internationale Vorreiterin des Selbstmitgefühls; integriert Bindungstheorie, Internal Family Systems und Compassion-Focused Therapy; über 20 Jahre Berufserfahrung; MSC-Trainerin (Kristin Neff), CFT nach Paul Gilbert; Spezialistin für Scham, Bindungstraumata und innere Anteile; Bücher: *Selbstmitgefühl entwickeln* (2015), *Der kleine Selbstcoach* (2022), *Lass die Liebe rein* (2024)
 
-**[[DenkerVita/Christoph Hein|Christoph Hein]]** — Wirtschaftsjournalist (FAZ); 25 Jahre Asien-Korrespondent, Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument
+**[[Gedankenwelten/DenkerVita/Christoph Hein|Christoph Hein]]** — Wirtschaftsjournalist (FAZ); 25 Jahre Asien-Korrespondent, Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument
 
-**[[DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
+**[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
 
-**[[DenkerVita/Constanze Kurz|Constanze Kurz]]** — Informatikerin, CCC-Sprecherin, netzpolitik.org-Redakteurin; Technologiekritik, Datenschutz, Überwachung durch Polizei-Software wie Palantir; Vortragende zu Grundrechten im digitalen Zeitalter, technische Sachverständige vor Bundesverfassungsgericht; Theodor-Heuss-Medaille 2013
+**[[Gedankenwelten/DenkerVita/Constanze Kurz|Constanze Kurz]]** — Informatikerin, CCC-Sprecherin, netzpolitik.org-Redakteurin; Technologiekritik, Datenschutz, Überwachung durch Polizei-Software wie Palantir; Vortragende zu Grundrechten im digitalen Zeitalter, technische Sachverständige vor Bundesverfassungsgericht; Theodor-Heuss-Medaille 2013
 
-**[[DenkerVita/Cordula Tutt|Cordula Tutt]]** — Wirtschaftsjournalistin, Autorin (WiWo Hauptstadtbüro Berlin); Expertise: Strukturreformen durch Effizienz (nicht Kürzung), Rentensysteme, Gesundheitsökonomie, Steuergerechtigkeit; Autorin *Das große Schrumpfen* (2007); Kernerkenntnis: Zielgenauigkeit in Sozialsystemen schützt echte Arme besser als Gießkannenprinzip
+**[[Gedankenwelten/DenkerVita/Cordula Tutt|Cordula Tutt]]** — Wirtschaftsjournalistin, Autorin (WiWo Hauptstadtbüro Berlin); Expertise: Strukturreformen durch Effizienz (nicht Kürzung), Rentensysteme, Gesundheitsökonomie, Steuergerechtigkeit; Autorin *Das große Schrumpfen* (2007); Kernerkenntnis: Zielgenauigkeit in Sozialsystemen schützt echte Arme besser als Gießkannenprinzip
 
-**[[DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
+**[[Gedankenwelten/DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
 
-**[[DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]]** — Wahrnehmungspsychologe (Universität Bamberg, „CCC“); erforscht, wie das Gehirn Wirklichkeit *herstellt* — Gesichtererkennung, Design, kognitive Landkarten; empirische Ästhetik, Forschungsgruppe EPÆG, über 240 Fachartikel
+**[[Gedankenwelten/DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]]** — Wahrnehmungspsychologe (Universität Bamberg, „CCC“); erforscht, wie das Gehirn Wirklichkeit *herstellt* — Gesichtererkennung, Design, kognitive Landkarten; empirische Ästhetik, Forschungsgruppe EPÆG, über 240 Fachartikel
 
-**[[DenkerVita/Carsten Brosda|Carsten Brosda]]** — Wo Demokraten keine eigenen Bilder haben, kehren die alten Mythen zurück: Carsten Brosda, Hamburgs Kultursenator, denkt Demokratie als kulturelle Aufgabe.
+**[[Gedankenwelten/DenkerVita/Carsten Brosda|Carsten Brosda]]** — Wo Demokraten keine eigenen Bilder haben, kehren die alten Mythen zurück: Carsten Brosda, Hamburgs Kultursenator, denkt Demokratie als kulturelle Aufgabe.
 
 ## D
 
-**[[DenkerVita/Asmaa Dehbi|Asmaa Dehbi]]** — Erziehungswissenschaftlerin am SZIG (Universität Freiburg); antimuslimischer Rassismus und Soziale Arbeit, warum Betroffene von Zwang lieber schweigen, als zum „Beweis“ zu werden
+**[[Gedankenwelten/DenkerVita/Asmaa Dehbi|Asmaa Dehbi]]** — Erziehungswissenschaftlerin am SZIG (Universität Freiburg); antimuslimischer Rassismus und Soziale Arbeit, warum Betroffene von Zwang lieber schweigen, als zum „Beweis“ zu werden
 
-**[[DenkerVita/Anja Dahlmann|Anja Dahlmann]]** — Rüstungskontrollexpertin (IFSH); autonome Waffensysteme und militärische KI, menschliche Kontrolle über Waffengewalt, feministische Rüstungskontrolle
+**[[Gedankenwelten/DenkerVita/Anja Dahlmann|Anja Dahlmann]]** — Rüstungskontrollexpertin (IFSH); autonome Waffensysteme und militärische KI, menschliche Kontrolle über Waffengewalt, feministische Rüstungskontrolle
 
-**[[DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
+**[[Gedankenwelten/DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
 
-**[[DenkerVita/Donald Trump|Donald Trump]]** — Immobilienerbe, Fernsehstar, 45. und 47. US-Präsident; der Sohn, aus dem ein „killer“ werden sollte; Vergeltung als Programm, Rolle als Identität
+**[[Gedankenwelten/DenkerVita/Donald Trump|Donald Trump]]** — Immobilienerbe, Fernsehstar, 45. und 47. US-Präsident; der Sohn, aus dem ein „killer“ werden sollte; Vergeltung als Programm, Rolle als Identität
 
-**[[DenkerVita/Ray Dalio|Ray Dalio]]** — Investor, Gründer von Bridgewater Associates; der große Schuldenzyklus (~80 Jahre) und der Aufstieg und Fall von Weltmächten, die fünf großen Kräfte, „Idea Meritocracy" — mechanistischer Blick auf Geschichte, mit blindem Fleck bei China
+**[[Gedankenwelten/DenkerVita/Ray Dalio|Ray Dalio]]** — Investor, Gründer von Bridgewater Associates; der große Schuldenzyklus (~80 Jahre) und der Aufstieg und Fall von Weltmächten, die fünf großen Kräfte, „Idea Meritocracy" — mechanistischer Blick auf Geschichte, mit blindem Fleck bei China
 
-**[[DenkerVita/Der Dara|Der Dara (Dara Marc Sasmaz)]]** — politischer YouTuber und Social-Media-Berater der Linken; tägliche Reactions gegen AfD und rechte Influencer, „News von links“, Spendenaktion für Eichis AWO-Stelle
+**[[Gedankenwelten/DenkerVita/Der Dara|Der Dara (Dara Marc Sasmaz)]]** — politischer YouTuber und Social-Media-Berater der Linken; tägliche Reactions gegen AfD und rechte Influencer, „News von links“, Spendenaktion für Eichis AWO-Stelle
 
-**[[DenkerVita/Darin L. Gerdes|Darin L. Gerdes]]** — Leadership-Professor; Ukraine-Krieg aus Leadership-Perspektive, „Reagan-Republican who fully supports Ukraine", tägliche YouTube-Analysen
+**[[Gedankenwelten/DenkerVita/Darin L. Gerdes|Darin L. Gerdes]]** — Leadership-Professor; Ukraine-Krieg aus Leadership-Perspektive, „Reagan-Republican who fully supports Ukraine", tägliche YouTube-Analysen
 
-**[[DenkerVita/David Chalmers|David Chalmers]]** — Philosoph des Geistes; Hard Problem of Consciousness, Panpsychismus, Extended Mind
+**[[Gedankenwelten/DenkerVita/David Chalmers|David Chalmers]]** — Philosoph des Geistes; Hard Problem of Consciousness, Panpsychismus, Extended Mind
 
-**[[DenkerVita/Souleymane Bachir Diagne|Souleymane Bachir Diagne]]** — Senegalesischer Philosoph, Columbia University; Übersetzung als ethische Gastfreundschaft, lateraler Universalismus „von unten", Philosophie im Islam, afrikanische Kunst als Denkform, Ubuntu
+**[[Gedankenwelten/DenkerVita/Souleymane Bachir Diagne|Souleymane Bachir Diagne]]** — Senegalesischer Philosoph, Columbia University; Übersetzung als ethische Gastfreundschaft, lateraler Universalismus „von unten", Philosophie im Islam, afrikanische Kunst als Denkform, Ubuntu
 
-**[[DenkerVita/Klaus Doerre|Klaus Dörre]]** — Industriesoziologe, Professor Jena (2005–2025); Kapitalistische Landnahme, Prekarisierung, Konfliktpartnerschaft, arbeitende Klassen; Mitbegründer DFG-Kollegforschungsgruppe „Postwachstumsgesellschaften" mit Hartmut Rosa; Klassenkritik aus Betriebsrealität
+**[[Gedankenwelten/DenkerVita/Klaus Doerre|Klaus Dörre]]** — Industriesoziologe, Professor Jena (2005–2025); Kapitalistische Landnahme, Prekarisierung, Konfliktpartnerschaft, arbeitende Klassen; Mitbegründer DFG-Kollegforschungsgruppe „Postwachstumsgesellschaften" mit Hartmut Rosa; Klassenkritik aus Betriebsrealität
 
-**[[DenkerVita/Dirk Specht|Dirk Specht]]** — Unternehmer, Dozent; Merit Order, Batteriespeicher, Dekarbonisierungsstrategien, Datenjournalismus vs. Lobbying
+**[[Gedankenwelten/DenkerVita/Dirk Specht|Dirk Specht]]** — Unternehmer, Dozent; Merit Order, Batteriespeicher, Dekarbonisierungsstrategien, Datenjournalismus vs. Lobbying
 
-**[[DenkerVita/Dirk von Petersdorff|Dirk von Petersdorff]]** — Literaturwissenschaftler, Lyriker; Freiheitsgewinn durch Wahrheitsverlust, Ironie, Leichtigkeit als historisches Lebensgefühl der 70er-90er
+**[[Gedankenwelten/DenkerVita/Dirk von Petersdorff|Dirk von Petersdorff]]** — Literaturwissenschaftler, Lyriker; Freiheitsgewinn durch Wahrheitsverlust, Ironie, Leichtigkeit als historisches Lebensgefühl der 70er-90er
 
-**[[DenkerVita/Dominik Finkelde|Dominik Finkelde]]** — (Vollanalyse vorhanden, Details ausstehend)
+**[[Gedankenwelten/DenkerVita/Dominik Finkelde|Dominik Finkelde]]** — (Vollanalyse vorhanden, Details ausstehend)
 
-**[[DenkerVita/Dietmar Dath|Dietmar Dath]]** — Schriftsteller, Journalist und Übersetzer (*1970; Spex-Chefredakteur, FAZ), marxistischer Science-Fiction-Romancier; Verschwendung als Überschuss, Produktion statt bloßer Verteilung, Science Fiction als Denkmaschine; *Die Abschaffung der Arten*, *Maschinenwinter*, *Niegeschichte*, *Gentzen*
+**[[Gedankenwelten/DenkerVita/Dietmar Dath|Dietmar Dath]]** — Schriftsteller, Journalist und Übersetzer (*1970; Spex-Chefredakteur, FAZ), marxistischer Science-Fiction-Romancier; Verschwendung als Überschuss, Produktion statt bloßer Verteilung, Science Fiction als Denkmaschine; *Die Abschaffung der Arten*, *Maschinenwinter*, *Niegeschichte*, *Gentzen*
 
-**[[DenkerVita/Riwan Driouich|Riwan Driouich]]** — Politische Ökonomie / Postwachstum, erklärt den Aufstieg der extremen Rechten aus der Wachstumsabhängigkeit eines stagnierenden Kapitalismus
+**[[Gedankenwelten/DenkerVita/Riwan Driouich|Riwan Driouich]]** — Politische Ökonomie / Postwachstum, erklärt den Aufstieg der extremen Rechten aus der Wachstumsabhängigkeit eines stagnierenden Kapitalismus
 
 ## E
 
-**[[DenkerVita/Elon Musk|Elon Musk]]** — Unternehmer (SpaceX, Tesla, X, xAI), DOGE 2025; verändert oder enthüllt? Die Härte ist seit den Neunzigern belegt, neu sind Richtung, Bühne und Reichweite
+**[[Gedankenwelten/DenkerVita/Elon Musk|Elon Musk]]** — Unternehmer (SpaceX, Tesla, X, xAI), DOGE 2025; verändert oder enthüllt? Die Härte ist seit den Neunzigern belegt, neu sind Richtung, Bühne und Reichweite
 
-**[[DenkerVita/Ernst Gelegs|Ernst Gelegs]]** — Journalist, ORF-Osteuropa-Korrespondent in Budapest (rund 25 Jahre, bis 2025); erklärte Orbáns Verfassungsfallen und trennte vor der Ungarn-Wahl 2026 den Regierungs- vom Regimewechsel
+**[[Gedankenwelten/DenkerVita/Ernst Gelegs|Ernst Gelegs]]** — Journalist, ORF-Osteuropa-Korrespondent in Budapest (rund 25 Jahre, bis 2025); erklärte Orbáns Verfassungsfallen und trennte vor der Ungarn-Wahl 2026 den Regierungs- vom Regimewechsel
 
-**[[DenkerVita/Ernst Tugendhat|Ernst Tugendhat]]** — Philosoph (1930–2023), aufgewachsen in der Villa Tugendhat in Brünn, Exil in Venezuela, Heidegger-Hörer und später sein Kritiker; holte die sprachanalytische Philosophie nach Deutschland; Moral ohne Metaphysik, Egozentrizität und Selbstrelativierung; *Vorlesungen über Ethik* (1993), *Egozentrizität und Mystik* (2003)
+**[[Gedankenwelten/DenkerVita/Ernst Tugendhat|Ernst Tugendhat]]** — Philosoph (1930–2023), aufgewachsen in der Villa Tugendhat in Brünn, Exil in Venezuela, Heidegger-Hörer und später sein Kritiker; holte die sprachanalytische Philosophie nach Deutschland; Moral ohne Metaphysik, Egozentrizität und Selbstrelativierung; *Vorlesungen über Ethik* (1993), *Egozentrizität und Mystik* (2003)
 
-**[[DenkerVita/Emmanuel Levinas|Emmanuel Levinas]]** — litauisch-französischer Philosoph (1906–1995), Schüler Husserls und Heideggers, Kriegsgefangener 1940–45, Familie in Litauen ermordet; Ethik als erste Philosophie, das Antlitz des Anderen, asymmetrische Verantwortung, der Dritte; *Totalität und Unendlichkeit* (1961), *Jenseits des Seins* (1974)
+**[[Gedankenwelten/DenkerVita/Emmanuel Levinas|Emmanuel Levinas]]** — litauisch-französischer Philosoph (1906–1995), Schüler Husserls und Heideggers, Kriegsgefangener 1940–45, Familie in Litauen ermordet; Ethik als erste Philosophie, das Antlitz des Anderen, asymmetrische Verantwortung, der Dritte; *Totalität und Unendlichkeit* (1961), *Jenseits des Seins* (1974)
 
-**[[DenkerVita/Elif Eralp|Elif Eralp]]** — Juristin, Politikerin (Die Linke), Spitzenkandidatin und Wahlsiegerin Berlin 2026; Tochter türkischer politischer Flüchtlinge, Menschenrechtsjuristin, Mitgründerin Links*Kanax; Vergesellschaftung, Antirassismus als Klassenpolitik, „kein Problem ist zu klein“
+**[[Gedankenwelten/DenkerVita/Elif Eralp|Elif Eralp]]** — Juristin, Politikerin (Die Linke), Spitzenkandidatin und Wahlsiegerin Berlin 2026; Tochter türkischer politischer Flüchtlinge, Menschenrechtsjuristin, Mitgründerin Links*Kanax; Vergesellschaftung, Antirassismus als Klassenpolitik, „kein Problem ist zu klein“
 
-**[[DenkerVita/Elmar Thevessen|Elmar Theveßen]]** — ZDF-Studioleiter Washington, zuvor stv. Chefredakteur; Chronist der US-Demokratie unter Druck (*Deadline*, 2025), Journalismus als „zweiter Satz“ in der Tradition des Thukydides
+**[[Gedankenwelten/DenkerVita/Elmar Thevessen|Elmar Theveßen]]** — ZDF-Studioleiter Washington, zuvor stv. Chefredakteur; Chronist der US-Demokratie unter Druck (*Deadline*, 2025), Journalismus als „zweiter Satz“ in der Tradition des Thukydides
 
-**[[DenkerVita/Erich Fromm|Erich Fromm]]** — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner
+**[[Gedankenwelten/DenkerVita/Erich Fromm|Erich Fromm]]** — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner
 
-**[[DenkerVita/Ernesto Laclau|Ernesto Laclau]]** — Argentinisch-britischer Politiktheoretiker; Post-marxistische Hegemonie- und Populismustheorie, Essex School der Diskursanalyse, leere Signifikanten, radikale plurale Demokratie; mit Chantal Mouffe *Hegemonie und radikale Demokratie* (1985), *On Populist Reason* (2005)
+**[[Gedankenwelten/DenkerVita/Ernesto Laclau|Ernesto Laclau]]** — Argentinisch-britischer Politiktheoretiker; Post-marxistische Hegemonie- und Populismustheorie, Essex School der Diskursanalyse, leere Signifikanten, radikale plurale Demokratie; mit Chantal Mouffe *Hegemonie und radikale Demokratie* (1985), *On Populist Reason* (2005)
 
-**[[DenkerVita/Evan Osnos|Evan Osnos]]** — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
+**[[Gedankenwelten/DenkerVita/Evan Osnos|Evan Osnos]]** — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
 
-**[[DenkerVita/Eva von Redecker|Eva von Redecker]]** — Philosophin, kritische Theoretikerin; Sorgearbeit als privatisiertes Eigentum, Bleibefreiheit als Freiheitsbegriff, neuer Faschismus als Phantombesitz-Logik; Autorin *Revolution für das Leben*, *Bleibefreiheit*, *Dieser Drang nach Härte*
+**[[Gedankenwelten/DenkerVita/Eva von Redecker|Eva von Redecker]]** — Philosophin, kritische Theoretikerin; Sorgearbeit als privatisiertes Eigentum, Bleibefreiheit als Freiheitsbegriff, neuer Faschismus als Phantombesitz-Logik; Autorin *Revolution für das Leben*, *Bleibefreiheit*, *Dieser Drang nach Härte*
 
-**[[DenkerVita/Giulia Enders|Giulia Enders]]** — Ärztin, Gastroenterologin und Wissenschaftskommunikatorin (*1990, Mannheim); Science-Slam-Siegerin 2012; *Darm mit Charme* (2014, über 40 Sprachen) machte den Darm salonfähig; *Organisch* (2025)
+**[[Gedankenwelten/DenkerVita/Giulia Enders|Giulia Enders]]** — Ärztin, Gastroenterologin und Wissenschaftskommunikatorin (*1990, Mannheim); Science-Slam-Siegerin 2012; *Darm mit Charme* (2014, über 40 Sprachen) machte den Darm salonfähig; *Organisch* (2025)
 
 ## F
 
-**[[DenkerVita/Mathias Fischer|Mathias Fischer]]** — Informatiker, Professor für Rechnernetze (Uni Hamburg); Angriffserkennung und Sicherheit kritischer Infrastrukturen, Verteidigung in der Tiefe statt Burggraben
+**[[Gedankenwelten/DenkerVita/Mathias Fischer|Mathias Fischer]]** — Informatiker, Professor für Rechnernetze (Uni Hamburg); Angriffserkennung und Sicherheit kritischer Infrastrukturen, Verteidigung in der Tiefe statt Burggraben
 
-**[[DenkerVita/Michael Fleming|Michael Fleming]]** — Historiker (Polish University Abroad, London); die Nachrichten über Auschwitz kamen früh in London an, gebremst wurden sie dort, durch eine Zensur, die niemand befehlen musste
+**[[Gedankenwelten/DenkerVita/Michael Fleming|Michael Fleming]]** — Historiker (Polish University Abroad, London); die Nachrichten über Auschwitz kamen früh in London an, gebremst wurden sie dort, durch eine Zensur, die niemand befehlen musste
 
-**[[DenkerVita/Felwine Sarr|Felwine Sarr]]** — Ökonom, Philosoph, Musiker und Schriftsteller (Senegal / Duke University); *Afrotopia* — Afrikas Zukunft aus eigenen Quellen statt nachholender Entwicklung; Sarr-Savoy-Report zur Restitution kolonialer Kulturgüter; Mitgründer der Ateliers de la Pensée
+**[[Gedankenwelten/DenkerVita/Felwine Sarr|Felwine Sarr]]** — Ökonom, Philosoph, Musiker und Schriftsteller (Senegal / Duke University); *Afrotopia* — Afrikas Zukunft aus eigenen Quellen statt nachholender Entwicklung; Sarr-Savoy-Report zur Restitution kolonialer Kulturgüter; Mitgründer der Ateliers de la Pensée
 
-**[[DenkerVita/Fabian Bernhardt|Fabian Bernhardt]]** — Philosoph (FU Berlin, SFB „Affective Societies"); Philosophie der Rache als blinder Fleck der Moderne, Rache als reaktive Ursprungserfahrung von Moral
+**[[Gedankenwelten/DenkerVita/Fabian Bernhardt|Fabian Bernhardt]]** — Philosoph (FU Berlin, SFB „Affective Societies"); Philosophie der Rache als blinder Fleck der Moderne, Rache als reaktive Ursprungserfahrung von Moral
 
-**[[DenkerVita/Fabian Braesemann|Fabian Braesemann]]** — Ökonom, Datenanalyst (Oxford Internet Institute); KI und Arbeitsmärkte, komplexe Systeme, empirische Forschung zu Arbeitsmarktübergängen und KI-Integration
+**[[Gedankenwelten/DenkerVita/Fabian Braesemann|Fabian Braesemann]]** — Ökonom, Datenanalyst (Oxford Internet Institute); KI und Arbeitsmärkte, komplexe Systeme, empirische Forschung zu Arbeitsmarktübergängen und KI-Integration
 
-**[[DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
+**[[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
 
-**[[DenkerVita/Freddy Leppin|Freddy Leppin]]** — Content Creator, Gründer YouTube-Kanäle *Good News* (monatliche positive Nachrichten) und *MegaBuilds* (>1,5 Mio. Abonnenten); Negativitätsbias-Gegenentwurf, Kuratierung verifizierten Fortschritts; Engineering und Innovation als narrative Kraft
+**[[Gedankenwelten/DenkerVita/Freddy Leppin|Freddy Leppin]]** — Content Creator, Gründer YouTube-Kanäle *Good News* (monatliche positive Nachrichten) und *MegaBuilds* (>1,5 Mio. Abonnenten); Negativitätsbias-Gegenentwurf, Kuratierung verifizierten Fortschritts; Engineering und Innovation als narrative Kraft
 
-**[[DenkerVita/Frauke Fischer|Frauke Fischer]]** — Biologin, Biodiversitätsexpertin (Uni Würzburg, Gründerin „agentur auf!“ und PERÚ PURO); erzählt Artenvielfalt über konkrete Ökosystemleistungen statt über Aussterberaten — *Was hat die Mücke je für uns getan?*, *Wal macht Wetter!*, *Kann KI die Natur retten?*
+**[[Gedankenwelten/DenkerVita/Frauke Fischer|Frauke Fischer]]** — Biologin, Biodiversitätsexpertin (Uni Würzburg, Gründerin „agentur auf!“ und PERÚ PURO); erzählt Artenvielfalt über konkrete Ökosystemleistungen statt über Aussterberaten — *Was hat die Mücke je für uns getan?*, *Wal macht Wetter!*, *Kann KI die Natur retten?*
 
-**[[DenkerVita/Frederike Kaltheuner|Frederike Kaltheuner]]** — Senior Advisor AI Now Institute, Leiterin *new possible*; KI-Industriepolitik und europäische Souveränität; kritische Technologiepolitik aus Menschenrechts-Perspektive; Herausgeberin *Fake AI* (2022); Co-Autorin EU AI Industrial Policy Monitor; Expert für Marktkonzentration, Regulierungsasymmetrien, public interest in KI-Märkten
+**[[Gedankenwelten/DenkerVita/Frederike Kaltheuner|Frederike Kaltheuner]]** — Senior Advisor AI Now Institute, Leiterin *new possible*; KI-Industriepolitik und europäische Souveränität; kritische Technologiepolitik aus Menschenrechts-Perspektive; Herausgeberin *Fake AI* (2022); Co-Autorin EU AI Industrial Policy Monitor; Expert für Marktkonzentration, Regulierungsasymmetrien, public interest in KI-Märkten
 
-**[[DenkerVita/Valentine Fanjeaux|Valentine Fanjeaux]]** — Textilingenieurin, Präsidentin und Generaldirektorin der Bergère de France SCOP (Bar-le-Duc); führt die letzte französische Spinnerei für Strickgarn, die ihre Belegschaft 2024 aus der Liquidation gekauft hat
+**[[Gedankenwelten/DenkerVita/Valentine Fanjeaux|Valentine Fanjeaux]]** — Textilingenieurin, Präsidentin und Generaldirektorin der Bergère de France SCOP (Bar-le-Duc); führt die letzte französische Spinnerei für Strickgarn, die ihre Belegschaft 2024 aus der Liquidation gekauft hat
 
-**[[DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
+**[[Gedankenwelten/DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
 
-**[[DenkerVita/Florence Gaub|Florence Gaub]]** — Zukunft findet jetzt statt, in unseren Köpfen: Florence Gaub, Forschungsdirektorin am NATO Defense College, macht Szenarien zum Werkzeug gegen Angst und fehlende Vorstellungskraft.
+**[[Gedankenwelten/DenkerVita/Florence Gaub|Florence Gaub]]** — Zukunft findet jetzt statt, in unseren Köpfen: Florence Gaub, Forschungsdirektorin am NATO Defense College, macht Szenarien zum Werkzeug gegen Angst und fehlende Vorstellungskraft.
 
-**[[DenkerVita/Philipp Felsch|Philipp Felsch]]** — Kultur- und Wissenschaftshistoriker (HU Berlin); erzählt die Geschichte der Theorie, vom Merve-Verlag über Nietzsches Rettung bis Habermas
+**[[Gedankenwelten/DenkerVita/Philipp Felsch|Philipp Felsch]]** — Kultur- und Wissenschaftshistoriker (HU Berlin); erzählt die Geschichte der Theorie, vom Merve-Verlag über Nietzsches Rettung bis Habermas
 
 ## G
 
-**[[DenkerVita/Eren Güvercin|Eren Güvercin]]** — Publizist (Köln/Berlin), Mitgründer und stellvertretender Vorsitzender der Alhambra-Gesellschaft, Mitgründer des PEN Berlin; innermuslimische Kritik an Islamismus, Queerfeindlichkeit und den Moscheeverbänden; *Neo-Moslems* (2012)
+**[[Gedankenwelten/DenkerVita/Eren Güvercin|Eren Güvercin]]** — Publizist (Köln/Berlin), Mitgründer und stellvertretender Vorsitzender der Alhambra-Gesellschaft, Mitgründer des PEN Berlin; innermuslimische Kritik an Islamismus, Queerfeindlichkeit und den Moscheeverbänden; *Neo-Moslems* (2012)
 
-**[[DenkerVita/Raul Gallego Abellan|Raül Gallego Abellán]]** — Videojournalist und Dokumentarfilmer aus Sabadell (TV3, AP, Al Jazeera); seine 3Cat-Reihe *Point of No Return* gewann 2024 den International Emmy, darin der Film über Serbiens Studentenaufstand
+**[[Gedankenwelten/DenkerVita/Raul Gallego Abellan|Raül Gallego Abellán]]** — Videojournalist und Dokumentarfilmer aus Sabadell (TV3, AP, Al Jazeera); seine 3Cat-Reihe *Point of No Return* gewann 2024 den International Emmy, darin der Film über Serbiens Studentenaufstand
 
-**[[DenkerVita/Georg Wilhelm Friedrich Hegel|Georg Wilhelm Friedrich Hegel]]** — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit
+**[[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel|Georg Wilhelm Friedrich Hegel]]** — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit
 
-**[[DenkerVita/Gerald Hüther|Gerald Hüther]]** — Neurobiologe, Bestsellerautor; Selbstorganisation, Potenzialentfaltung statt Anpassung, Schule im Aufbruch, Akademie für Potentialentfaltung
+**[[Gedankenwelten/DenkerVita/Gerald Hüther|Gerald Hüther]]** — Neurobiologe, Bestsellerautor; Selbstorganisation, Potenzialentfaltung statt Anpassung, Schule im Aufbruch, Akademie für Potentialentfaltung
 
-**[[DenkerVita/Gerald Knaus|Gerald Knaus]]** — Österreichischer Sozialwissenschaftler, Gründer und Vorsitzender der European Stability Initiative (ESI); Architekt des EU-Türkei-Abkommens 2016, kommt aus der Balkan-Nachkriegs-Staatsbildung (UNMIK Kosovo, „European Raj"-Kritik) statt aus der Migrationsforschung; „humane Kontrolle" als dritter Weg zwischen offenen Grenzen und Abschottung, Mobilitätspartnerschaften mit Drittstaaten, Rückführungen als Preis für legale Wege — gefeiert für die Wirkung in der Ägäis, angegriffen für Moria, Pushbacks und Erpressbarkeit
+**[[Gedankenwelten/DenkerVita/Gerald Knaus|Gerald Knaus]]** — Österreichischer Sozialwissenschaftler, Gründer und Vorsitzender der European Stability Initiative (ESI); Architekt des EU-Türkei-Abkommens 2016, kommt aus der Balkan-Nachkriegs-Staatsbildung (UNMIK Kosovo, „European Raj"-Kritik) statt aus der Migrationsforschung; „humane Kontrolle" als dritter Weg zwischen offenen Grenzen und Abschottung, Mobilitätspartnerschaften mit Drittstaaten, Rückführungen als Preis für legale Wege — gefeiert für die Wirkung in der Ägäis, angegriffen für Moria, Pushbacks und Erpressbarkeit
 
-**[[DenkerVita/Gesine Schwan|Gesine Schwan]]** — Politikwissenschaftlerin; Gestaltungsmacht vs. Herrschaftsmacht, demokratische Kultur, kommunale Entwicklungsbeiräte, zweifache Bundespräsidentschaftskandidatin
+**[[Gedankenwelten/DenkerVita/Gesine Schwan|Gesine Schwan]]** — Politikwissenschaftlerin; Gestaltungsmacht vs. Herrschaftsmacht, demokratische Kultur, kommunale Entwicklungsbeiräte, zweifache Bundespräsidentschaftskandidatin
 
-**[[DenkerVita/Gilda Sahebi|Gilda Sahebi]]** — Deutsch-iranische Journalistin, Autorin; Expertise: autoritäre Systeme, Rassismus, Iran; Politikjournalistin des Jahres 2022
+**[[Gedankenwelten/DenkerVita/Gilda Sahebi|Gilda Sahebi]]** — Deutsch-iranische Journalistin, Autorin; Expertise: autoritäre Systeme, Rassismus, Iran; Politikjournalistin des Jahres 2022
 
-**[[DenkerVita/Gina Wiedemann|Gina Wiedemann]]** — Social-Media-Officerin der Arolsen Archives; digitale Erinnerungskultur auf TikTok/Instagram, Kampf gegen Geschichtsrevisionismus und Holocaust-Relativierung im Netz (#everynamecounts)
+**[[Gedankenwelten/DenkerVita/Gina Wiedemann|Gina Wiedemann]]** — Social-Media-Officerin der Arolsen Archives; digitale Erinnerungskultur auf TikTok/Instagram, Kampf gegen Geschichtsrevisionismus und Holocaust-Relativierung im Netz (#everynamecounts)
 
-**[[DenkerVita/Gert Scobel|Gert Scobel]]** — Philosoph, Moderator (3sat *scobel*); Meditationsforschung, Bewusstsein, Neurophilosophie, epistemische Demut, 40 Jahre Meditationserfahrung
+**[[Gedankenwelten/DenkerVita/Gert Scobel|Gert Scobel]]** — Philosoph, Moderator (3sat *scobel*); Meditationsforschung, Bewusstsein, Neurophilosophie, epistemische Demut, 40 Jahre Meditationserfahrung
 
-**[[DenkerVita/Götz Aly|Götz Aly]]** — Historiker, Journalist; NS-Forschung; "Hitlers Volksstaat"; Täterforschung
+**[[Gedankenwelten/DenkerVita/Götz Aly|Götz Aly]]** — Historiker, Journalist; NS-Forschung; "Hitlers Volksstaat"; Täterforschung
 
-**[[DenkerVita/Günter Gaus|Günter Gaus]]** — Journalismus und Deutschlandpolitik: Erfinder des Fernsehgesprächs „Zur Person“, Spiegel-Chef und erster Ständiger Vertreter der Bundesrepublik in der DDR, der sich einen „linken Konservativen“ nannte
+**[[Gedankenwelten/DenkerVita/Günter Gaus|Günter Gaus]]** — Journalismus und Deutschlandpolitik: Erfinder des Fernsehgesprächs „Zur Person“, Spiegel-Chef und erster Ständiger Vertreter der Bundesrepublik in der DDR, der sich einen „linken Konservativen“ nannte
 
-**[[DenkerVita/Eva Geulen|Eva Geulen]]** — Literaturwissenschaftlerin, Direktorin des ZfL Berlin und Mitherausgeberin der Arendt-Gesamtausgabe; liest Theorie historisch (Goethes Morphologie, Agamben, das „Ende der Kunst“)
+**[[Gedankenwelten/DenkerVita/Eva Geulen|Eva Geulen]]** — Literaturwissenschaftlerin, Direktorin des ZfL Berlin und Mitherausgeberin der Arendt-Gesamtausgabe; liest Theorie historisch (Goethes Morphologie, Agamben, das „Ende der Kunst“)
 
-**[[DenkerVita/Veronika Grimm|Veronika Grimm]]** — Ökonomin und Wirtschaftsweise (*1971), Professorin für Energiesysteme und Marktdesign an der TU Nürnberg; Spieltheorie, Auktionen, Wasserstoff; 2022 Ko-Vorsitzende der Gaskommission (Gaspreisbremse), seit 2024 im Streit mit dem eigenen Rat über ihr Siemens-Energy-Mandat; setzt auf Spielregeln, CO2-Preis und Schuldendisziplin
+**[[Gedankenwelten/DenkerVita/Veronika Grimm|Veronika Grimm]]** — Ökonomin und Wirtschaftsweise (*1971), Professorin für Energiesysteme und Marktdesign an der TU Nürnberg; Spieltheorie, Auktionen, Wasserstoff; 2022 Ko-Vorsitzende der Gaskommission (Gaspreisbremse), seit 2024 im Streit mit dem eigenen Rat über ihr Siemens-Energy-Mandat; setzt auf Spielregeln, CO2-Preis und Schuldendisziplin
 
-**[[DenkerVita/Felix Goldbach|Felix Goldbach]]** — Energiewende-YouTuber und Speaker aus Hannover, Banker und Betriebswirt mit Vergangenheit in der Speicherbranche (FENECON); rechnet Photovoltaik, Speicher und Wärmepumpe als Investition vor, Co-Host von *Alles wird Strom* — mit Geschäftsinteresse (Vermittlungsplattform Money for Future)
+**[[Gedankenwelten/DenkerVita/Felix Goldbach|Felix Goldbach]]** — Energiewende-YouTuber und Speaker aus Hannover, Banker und Betriebswirt mit Vergangenheit in der Speicherbranche (FENECON); rechnet Photovoltaik, Speicher und Wärmepumpe als Investition vor, Co-Host von *Alles wird Strom* — mit Geschäftsinteresse (Vermittlungsplattform Money for Future)
 
 ## H
 
-**[[DenkerVita/Dijana Hrka|Dijana Hrka]]** — Mutter eines der 16 Toten des Vordach-Einsturzes von Novi Sad; 16 Tage Hungerstreik vor dem Parlament (November 2025) für Wahrheit und Verantwortung
+**[[Gedankenwelten/DenkerVita/Dijana Hrka|Dijana Hrka]]** — Mutter eines der 16 Toten des Vordach-Einsturzes von Novi Sad; 16 Tage Hungerstreik vor dem Parlament (November 2025) für Wahrheit und Verantwortung
 
-**[[DenkerVita/Jouanna Hassoun|Jouanna Hassoun]]** — Menschenrechtsaktivistin, Mitgründerin von Transaidency, führt mit Shai Hoffmann Trialoge über Israel und Palästina in Schulen
+**[[Gedankenwelten/DenkerVita/Jouanna Hassoun|Jouanna Hassoun]]** — Menschenrechtsaktivistin, Mitgründerin von Transaidency, führt mit Shai Hoffmann Trialoge über Israel und Palästina in Schulen
 
-**[[DenkerVita/Anna Henschel|Anna Henschel]]** — Redakteurin bei wissenschaftskommunikation.de (Wissenschaft im Dialog), promoviert über Mensch-Roboter-Interaktion; befragte KI-Forschende zur Vermenschlichung in den Medien; der ahnungslose Praktikant statt der Superintelligenz
+**[[Gedankenwelten/DenkerVita/Anna Henschel|Anna Henschel]]** — Redakteurin bei wissenschaftskommunikation.de (Wissenschaft im Dialog), promoviert über Mensch-Roboter-Interaktion; befragte KI-Forschende zur Vermenschlichung in den Medien; der ahnungslose Praktikant statt der Superintelligenz
 
-**[[DenkerVita/Annette Hautli-Janisz|Annette Hautli-Janisz]]** — Computerlinguistin (Juniorprofessur Computational Rhetoric and NLP, Uni Passau); misst, wie Menschen und Maschinen argumentieren: von GPT nachgeahmte Politikerantworten wirken echter als die Originale, das Agentennetz Moltbook hat Form ohne Funktion; „Papageien auf Steroiden“
+**[[Gedankenwelten/DenkerVita/Annette Hautli-Janisz|Annette Hautli-Janisz]]** — Computerlinguistin (Juniorprofessur Computational Rhetoric and NLP, Uni Passau); misst, wie Menschen und Maschinen argumentieren: von GPT nachgeahmte Politikerantworten wirken echter als die Originale, das Agentennetz Moltbook hat Form ohne Funktion; „Papageien auf Steroiden“
 
-**[[DenkerVita/Kilian Hampel|Kilian Hampel]]** — Sozialforscher (Senior Research Fellow, Future of Work Lab, Universität Konstanz), Mitautor der Trendstudie *Jugend in Deutschland*; keine homogene Gen Z, Zukunftsperspektive als Klammer der Sorgen, Scheinbeteiligung als Gefahr für Engagement
+**[[Gedankenwelten/DenkerVita/Kilian Hampel|Kilian Hampel]]** — Sozialforscher (Senior Research Fellow, Future of Work Lab, Universität Konstanz), Mitautor der Trendstudie *Jugend in Deutschland*; keine homogene Gen Z, Zukunftsperspektive als Klammer der Sorgen, Scheinbeteiligung als Gefahr für Engagement
 
-**[[DenkerVita/Tariq Hübsch|Tariq Hübsch]]** — Dozent für deutsche Kulturgeschichte (Jamia Ahmadiyya, Riedstadt), Grenzgänger Studios; Thiels Antichrist-Theologie, esoterisches Schreiben, Kybernetik und die Frage nach der Seele
+**[[Gedankenwelten/DenkerVita/Tariq Hübsch|Tariq Hübsch]]** — Dozent für deutsche Kulturgeschichte (Jamia Ahmadiyya, Riedstadt), Grenzgänger Studios; Thiels Antichrist-Theologie, esoterisches Schreiben, Kybernetik und die Frage nach der Seele
 
-**[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)
+**[[Gedankenwelten/DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)
 
-**[[DenkerVita/Michael Hampe|Michael Hampe]]** — Philosophie (ETH Zürich, emer.), Kritiker der doktrinären Philosophie, der Erzählung, Weisheitspraxis und Zwecklosigkeit gegen die Großbegriffe von Willen, Bewusstsein und Vernunft stellt
+**[[Gedankenwelten/DenkerVita/Michael Hampe|Michael Hampe]]** — Philosophie (ETH Zürich, emer.), Kritiker der doktrinären Philosophie, der Erzählung, Weisheitspraxis und Zwecklosigkeit gegen die Großbegriffe von Willen, Bewusstsein und Vernunft stellt
 
-**[[DenkerVita/Hans Jessen|Hans Jessen]]** — Fernsehjournalist (* 1949), langjähriger ARD-Hauptstadtkorrespondent für Tagesschau/Tagesthemen und CvD *Bericht aus Berlin*, zuvor Radio Bremen (*buten un binnen*); heute „Alterspräsident“ bei Jung & Naiv (Bundespressekonferenz, Publikumsfragen, „Der entscheidende Punkt“, Aufwachen!); Agenda 2010 als Folge neoliberaler Vorjahrzehnte, Frust statt „Denkzettel“, Demut und Dienen als Maß politischer Macht
+**[[Gedankenwelten/DenkerVita/Hans Jessen|Hans Jessen]]** — Fernsehjournalist (* 1949), langjähriger ARD-Hauptstadtkorrespondent für Tagesschau/Tagesthemen und CvD *Bericht aus Berlin*, zuvor Radio Bremen (*buten un binnen*); heute „Alterspräsident“ bei Jung & Naiv (Bundespressekonferenz, Publikumsfragen, „Der entscheidende Punkt“, Aufwachen!); Agenda 2010 als Folge neoliberaler Vorjahrzehnte, Frust statt „Denkzettel“, Demut und Dienen als Maß politischer Macht
 
-**[[DenkerVita/Hans Maggi|Hans Maggi]]** — Reise-YouTuber und Fahrrad-Weltreisender; Projekt *Rückenwind* (~800 Tage um die Welt auf Bambusrädern), Begegnung vor Landschaft, Langsamkeit als Methode
+**[[Gedankenwelten/DenkerVita/Hans Maggi|Hans Maggi]]** — Reise-YouTuber und Fahrrad-Weltreisender; Projekt *Rückenwind* (~800 Tage um die Welt auf Bambusrädern), Begegnung vor Landschaft, Langsamkeit als Methode
 
-**[[DenkerVita/Hasnain Kazim|Hasnain Kazim]]** — Journalist und Autor, ehem. *Spiegel*-Korrespondent (Islamabad, Istanbul, Wien), zuvor Marineoffizier; *Post von Karlheinz*, *Auf sie mit Gebrüll!*, *Deutschlandtour* — Antworten statt Blockieren, Streit als demokratische Kulturtechnik
+**[[Gedankenwelten/DenkerVita/Hasnain Kazim|Hasnain Kazim]]** — Journalist und Autor, ehem. *Spiegel*-Korrespondent (Islamabad, Istanbul, Wien), zuvor Marineoffizier; *Post von Karlheinz*, *Auf sie mit Gebrüll!*, *Deutschlandtour* — Antworten statt Blockieren, Streit als demokratische Kulturtechnik
 
-**[[DenkerVita/Heino Falcke|Heino Falcke]]** — Astrophysiker und Radioastronom (Radboud-Universität Nimwegen); Mitbegründer des Event Horizon Telescope und Vorsitzender seines Wissenschaftsrats beim ersten Bild eines Schwarzen Lochs (2019), evangelischer Prädikant — Glaube und Wissenschaft als dieselbe Suche
+**[[Gedankenwelten/DenkerVita/Heino Falcke|Heino Falcke]]** — Astrophysiker und Radioastronom (Radboud-Universität Nimwegen); Mitbegründer des Event Horizon Telescope und Vorsitzender seines Wissenschaftsrats beim ersten Bild eines Schwarzen Lochs (2019), evangelischer Prädikant — Glaube und Wissenschaft als dieselbe Suche
 
-**[[DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta Institut; die Bundesrepublik erzählt über ihre Generationen, die Statusangst der Mitte, Stimmungen als soziale Tatsache; umstritten als Corona-Berater
+**[[Gedankenwelten/DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta Institut; die Bundesrepublik erzählt über ihre Generationen, die Statusangst der Mitte, Stimmungen als soziale Tatsache; umstritten als Corona-Berater
 
-**[[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland
+**[[Gedankenwelten/DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland
 
-**[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Soziologe und Gewaltforscher (Bielefeld, Gründungsdirektor IKG); prägte die gruppenbezogene Menschenfeindlichkeit (*Deutsche Zustände*), den autoritären Nationalradikalismus und die „Durchrohung“ als strukturelle Verrohung
+**[[Gedankenwelten/DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Soziologe und Gewaltforscher (Bielefeld, Gründungsdirektor IKG); prägte die gruppenbezogene Menschenfeindlichkeit (*Deutsche Zustände*), den autoritären Nationalradikalismus und die „Durchrohung“ als strukturelle Verrohung
 
-**[[DenkerVita/Helen Fisher|Helen Fisher]]** — Biologische Anthropologin (Rutgers, Kinsey Institute, 1945–2024); Neurobiologie der romantischen Liebe, Drei-Systeme-Modell (Lust / Anziehung / Bindung), Liebe als „drive state“; fMRT-Pionierin mit Aron & Brown, Chief Science Advisor Match.com, TED-All-Star
+**[[Gedankenwelten/DenkerVita/Helen Fisher|Helen Fisher]]** — Biologische Anthropologin (Rutgers, Kinsey Institute, 1945–2024); Neurobiologie der romantischen Liebe, Drei-Systeme-Modell (Lust / Anziehung / Bindung), Liebe als „drive state“; fMRT-Pionierin mit Aron & Brown, Chief Science Advisor Match.com, TED-All-Star
 
-**[[DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR
+**[[Gedankenwelten/DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR
 
-**[[DenkerVita/Henrike von Scheliha|Henrike von Scheliha]]** — Rechtswissenschaftlerin, Juniorprofessorin für Familien- und Erbrecht an der Bucerius Law School Hamburg, zuvor am Bundesverfassungsgericht (Dezernat Radtke); Recht auf Zukunft und prozedurale Generationengerechtigkeit — der Zukunftsrat junger Menschen mit Anhörung, Stellungnahme und Begründungspflicht; Kinder als Rechtsträgerinnen, reproduktive Gerechtigkeit (ReproGerecht)
+**[[Gedankenwelten/DenkerVita/Henrike von Scheliha|Henrike von Scheliha]]** — Rechtswissenschaftlerin, Juniorprofessorin für Familien- und Erbrecht an der Bucerius Law School Hamburg, zuvor am Bundesverfassungsgericht (Dezernat Radtke); Recht auf Zukunft und prozedurale Generationengerechtigkeit — der Zukunftsrat junger Menschen mit Anhörung, Stellungnahme und Begründungspflicht; Kinder als Rechtsträgerinnen, reproduktive Gerechtigkeit (ReproGerecht)
 
-**[[DenkerVita/Jonathan Haidt|Jonathan Haidt]]** — Sozialpsychologe (NYU Stern); Moral Foundations Theory, der Reiter auf dem Elefanten, moralische Demut gegen die politische Spaltung; *The Righteous Mind* (2012), *The Coddling of the American Mind* (2018), *The Anxious Generation* (2024)
+**[[Gedankenwelten/DenkerVita/Jonathan Haidt|Jonathan Haidt]]** — Sozialpsychologe (NYU Stern); Moral Foundations Theory, der Reiter auf dem Elefanten, moralische Demut gegen die politische Spaltung; *The Righteous Mind* (2012), *The Coddling of the American Mind* (2018), *The Anxious Generation* (2024)
 
-**[[DenkerVita/Jana Hensel|Jana Hensel]]** — Schriftstellerin und Journalistin (*ZEIT*), Chronistin des Ostens seit *Zonenkinder* (2002); Hartz IV als erste Abbruchkante des ostdeutschen Demokratieglaubens, der materielle Kern des Rechtsrucks, gegen jeden Determinismus; *Es war einmal ein Land* (2026)
+**[[Gedankenwelten/DenkerVita/Jana Hensel|Jana Hensel]]** — Schriftstellerin und Journalistin (*ZEIT*), Chronistin des Ostens seit *Zonenkinder* (2002); Hartz IV als erste Abbruchkante des ostdeutschen Demokratieglaubens, der materielle Kern des Rechtsrucks, gegen jeden Determinismus; *Es war einmal ein Land* (2026)
 
-**[[DenkerVita/Herfried Münkler|Herfried Münkler]]** — Politikwissenschaftler, bis 2018 Professor für Theorie der Politik an der HU Berlin; *Die neuen Kriege* (Entstaatlichung, Asymmetrisierung, Autonomisierung), postheroische Gesellschaft, Imperium vs. Hegemonie, Deutschland als ungewollte Zentralmacht; *Welt in Aufruhr* (2023), *Macht im Umbruch* (2025)
+**[[Gedankenwelten/DenkerVita/Herfried Münkler|Herfried Münkler]]** — Politikwissenschaftler, bis 2018 Professor für Theorie der Politik an der HU Berlin; *Die neuen Kriege* (Entstaatlichung, Asymmetrisierung, Autonomisierung), postheroische Gesellschaft, Imperium vs. Hegemonie, Deutschland als ungewollte Zentralmacht; *Welt in Aufruhr* (2023), *Macht im Umbruch* (2025)
 
-**[[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]** — Wirtschaftsjournalistin (*taz*), gelernte Bankkauffrau, Historikerin und Philosophin; grünes Schrumpfen statt grünem Wachstum, die britische Kriegswirtschaft 1940 als Modell einer privaten demokratischen Planwirtschaft, technisch machbar ≠ ökonomisch effizient; Keynesianerin gegen Marx *und* Neoliberale, die beide Ausbeutung für das Funktionsprinzip halten; *Das Ende des Kapitalismus* (2022), *Geld als Waffe* (2026)
+**[[Gedankenwelten/DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]** — Wirtschaftsjournalistin (*taz*), gelernte Bankkauffrau, Historikerin und Philosophin; grünes Schrumpfen statt grünem Wachstum, die britische Kriegswirtschaft 1940 als Modell einer privaten demokratischen Planwirtschaft, technisch machbar ≠ ökonomisch effizient; Keynesianerin gegen Marx *und* Neoliberale, die beide Ausbeutung für das Funktionsprinzip halten; *Das Ende des Kapitalismus* (2022), *Geld als Waffe* (2026)
 
-**[[DenkerVita/Hanna Notte|Hanna Notte]]** — Politikwissenschaftlerin, leitet das Eurasien-Programm des CNS (Berlin), Senior Associate am CSIS; Russlands Außenpolitik, Nahost, Rüstungskontrolle — *We Shall Outlast Them* (2026): wie Moskau nach 2022 den Globalen Süden mobilisierte und die sowjetische Dankbarkeit allein beerbte
+**[[Gedankenwelten/DenkerVita/Hanna Notte|Hanna Notte]]** — Politikwissenschaftlerin, leitet das Eurasien-Programm des CNS (Berlin), Senior Associate am CSIS; Russlands Außenpolitik, Nahost, Rüstungskontrolle — *We Shall Outlast Them* (2026): wie Moskau nach 2022 den Globalen Süden mobilisierte und die sowjetische Dankbarkeit allein beerbte
 
-**[[DenkerVita/Harald Welzer|Harald Welzer]]** — Vom Täterforscher zum Sammler gelungener Gegenwart: Harald Welzer fragt, wie normale Menschen zu Mördern werden und wie eine Gesellschaft großzügig bleibt.
+**[[Gedankenwelten/DenkerVita/Harald Welzer|Harald Welzer]]** — Vom Täterforscher zum Sammler gelungener Gegenwart: Harald Welzer fragt, wie normale Menschen zu Mördern werden und wie eine Gesellschaft großzügig bleibt.
 
-**[[DenkerVita/Wolfgang Huber|Wolfgang Huber]]** — Evangelische Theologie & Sozialethik, Altbischof und Herausgeber Bonhoeffers, denkt Freiheit als verantwortete Freiheit bis in Friedensethik und Digitalisierung
+**[[Gedankenwelten/DenkerVita/Wolfgang Huber|Wolfgang Huber]]** — Evangelische Theologie & Sozialethik, Altbischof und Herausgeber Bonhoeffers, denkt Freiheit als verantwortete Freiheit bis in Friedensethik und Digitalisierung
 
 ## I
 
-**[[DenkerVita/Julia Inthorn|Julia Inthorn]]** — Professorin für Angewandte Ethik an der Hochschule für Philosophie München, Medizinethikerin, Mathematik und Statistik studiert; nimmt die vermenschlichende Alltagsrede über Chatbots ernst, bevor sie urteilt
+**[[Gedankenwelten/DenkerVita/Julia Inthorn|Julia Inthorn]]** — Professorin für Angewandte Ethik an der Hochschule für Philosophie München, Medizinethikerin, Mathematik und Statistik studiert; nimmt die vermenschlichende Alltagsrede über Chatbots ernst, bevor sie urteilt
 
-**[[DenkerVita/Marcello Ienca|Marcello Ienca]]** — Ethik der KI und Neurowissenschaften (TU München); schlug 2017 mit Roberto Andorno vier Neurorechte vor (kognitive Freiheit, mentale Privatsphäre, mentale Integrität, psychologische Kontinuität), Mitglied der UNESCO-Expertengruppe zur Ethik der Neurotechnologie
+**[[Gedankenwelten/DenkerVita/Marcello Ienca|Marcello Ienca]]** — Ethik der KI und Neurowissenschaften (TU München); schlug 2017 mit Roberto Andorno vier Neurorechte vor (kognitive Freiheit, mentale Privatsphäre, mentale Integrität, psychologische Kontinuität), Mitglied der UNESCO-Expertengruppe zur Ethik der Neurotechnologie
 
-**[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
+**[[Gedankenwelten/DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
 
-**[[DenkerVita/Ingrid Brodnig|Ingrid Brodnig]]** — Österreichische Journalistin und Autorin, Digital-Expertin; Enthemmung als Plattform-Design, Frauenhass als Verdrängungsstrategie, generationenspezifische Desinformation und der Werkzeugkasten zum Kontern (*Hass im Netz*, *Feindbild Frau*)
+**[[Gedankenwelten/DenkerVita/Ingrid Brodnig|Ingrid Brodnig]]** — Österreichische Journalistin und Autorin, Digital-Expertin; Enthemmung als Plattform-Design, Frauenhass als Verdrängungsstrategie, generationenspezifische Desinformation und der Werkzeugkasten zum Kontern (*Hass im Netz*, *Feindbild Frau*)
 
-**[[DenkerVita/Isabell Lorey|Isabell Lorey]]** — Politikwissenschaftlerin, Professorin Queer Studies KHM Köln; Prekarisierung als Regierungstechnik, Immunisierung als Herrschaftslogik, Sorgebeziehungen als Gegenentwurf
+**[[Gedankenwelten/DenkerVita/Isabell Lorey|Isabell Lorey]]** — Politikwissenschaftlerin, Professorin Queer Studies KHM Köln; Prekarisierung als Regierungstechnik, Immunisierung als Herrschaftslogik, Sorgebeziehungen als Gegenentwurf
 
-**[[DenkerVita/Isabel Wilkerson|Isabel Wilkerson]]** — US-Journalistin und Autorin, erste afroamerikanische Frau mit Pulitzer-Preis (1994); deutet US-Rassismus als Kastensystem (*Caste*, 2020) und erzählt die Große Migration (*The Warmth of Other Suns*, 2010)
+**[[Gedankenwelten/DenkerVita/Isabel Wilkerson|Isabel Wilkerson]]** — US-Journalistin und Autorin, erste afroamerikanische Frau mit Pulitzer-Preis (1994); deutet US-Rassismus als Kastensystem (*Caste*, 2020) und erzählt die Große Migration (*The Warmth of Other Suns*, 2010)
 
-**[[DenkerVita/Ivan Krastev|Ivan Krastev]]** — Bulgarischer Politikwissenschaftler (Wien/Sofia); Illiberale Welle als Imitations-Rebellion, Demokratie braucht Zukunftsglauben, "unsere Träume europäisch — unsere Albträume national"
+**[[Gedankenwelten/DenkerVita/Ivan Krastev|Ivan Krastev]]** — Bulgarischer Politikwissenschaftler (Wien/Sofia); Illiberale Welle als Imitations-Rebellion, Demokratie braucht Zukunftsglauben, "unsere Träume europäisch — unsere Albträume national"
 
 ## J
 
-**[[DenkerVita/Daniel Jung|Daniel Jung]]** — Mathematik-Youtuber („Mathe by Daniel Jung“), Bildungsunternehmer (Köln); Lernen im KI-Zeitalter: Reibung statt fertiger Lösung, Aufmerksamkeit und Empfehlungssysteme, sokratischer KI-Tutor
+**[[Gedankenwelten/DenkerVita/Daniel Jung|Daniel Jung]]** — Mathematik-Youtuber („Mathe by Daniel Jung“), Bildungsunternehmer (Köln); Lernen im KI-Zeitalter: Reibung statt fertiger Lösung, Aufmerksamkeit und Empfehlungssysteme, sokratischer KI-Tutor
 
-**[[DenkerVita/Barbara Junge|Barbara Junge]]** — Journalistin, Chefredakteurin der taz seit 2020 und frühere Washington-Korrespondentin des Tagesspiegel; sieht nach den Midterms 2026 weniger starke Demokraten als einen geschwächten Trump
+**[[Gedankenwelten/DenkerVita/Barbara Junge|Barbara Junge]]** — Journalistin, Chefredakteurin der taz seit 2020 und frühere Washington-Korrespondentin des Tagesspiegel; sieht nach den Midterms 2026 weniger starke Demokraten als einen geschwächten Trump
 
-**[[DenkerVita/Joachim Valentin|Joachim Valentin]]** — katholischer Theologe, Gründungsdirektor des Hauses am Dom Frankfurt, apl. Professor für Christliche Religions- und Kulturtheorie; promovierte über Derrida und kam über ihn zu Levinas; Rat der Religionen Frankfurt, Film und Theologie
+**[[Gedankenwelten/DenkerVita/Joachim Valentin|Joachim Valentin]]** — katholischer Theologe, Gründungsdirektor des Hauses am Dom Frankfurt, apl. Professor für Christliche Religions- und Kulturtheorie; promovierte über Derrida und kam über ihn zu Levinas; Rat der Religionen Frankfurt, Film und Theologie
 
-**[[DenkerVita/Joon Sung Park|Joon Sung Park]]** — Informatiker (Stanford-PhD bei Bernstein & Liang, Mitgründer und CEO von Simile); Erfinder der Generative Agents: das „Smallville"-Dorf mit 25 KI-Agenten (Gedächtnis, Reflexion, Planung), 2024 Agenten-Simulationen von 1.052 realen Menschen — Gesellschaftssimulation als Labor für Entscheidungen
+**[[Gedankenwelten/DenkerVita/Joon Sung Park|Joon Sung Park]]** — Informatiker (Stanford-PhD bei Bernstein & Liang, Mitgründer und CEO von Simile); Erfinder der Generative Agents: das „Smallville"-Dorf mit 25 KI-Agenten (Gedächtnis, Reflexion, Planung), 2024 Agenten-Simulationen von 1.052 realen Menschen — Gesellschaftssimulation als Labor für Entscheidungen
 
-**[[DenkerVita/Jihan Alomar|Jihan Alomar]]** — Jesidische Überlebende des Völkermords vom 3. August 2014, Zeitzeugin & Bildungsreferentin; mit zehn Jahren zehn Monate in IS-Gefangenschaft, heute Tübingen; Buch *Dankbarkeit — Die schlimmste Zeit meines Lebens* (2021), HÁWAR.help-Wertebotschafterin, Protagonistin von „Bêmal — Heimatlos"
+**[[Gedankenwelten/DenkerVita/Jihan Alomar|Jihan Alomar]]** — Jesidische Überlebende des Völkermords vom 3. August 2014, Zeitzeugin & Bildungsreferentin; mit zehn Jahren zehn Monate in IS-Gefangenschaft, heute Tübingen; Buch *Dankbarkeit — Die schlimmste Zeit meines Lebens* (2021), HÁWAR.help-Wertebotschafterin, Protagonistin von „Bêmal — Heimatlos"
 
-**[[DenkerVita/Jan van Aken|Jan van Aken]]** — Biologe, 2004–2006 UN-Biowaffeninspekteur, zuvor Greenpeace-Gentechnikexperte; Vorsitzender der Linken von Oktober 2024 bis Juni 2026; Primat des Zivilen, strukturelle Nichtangriffsfähigkeit (nach Egon Bahr), EU- und Landesverteidigung ja — weltweite Machtprojektion nein
+**[[Gedankenwelten/DenkerVita/Jan van Aken|Jan van Aken]]** — Biologe, 2004–2006 UN-Biowaffeninspekteur, zuvor Greenpeace-Gentechnikexperte; Vorsitzender der Linken von Oktober 2024 bis Juni 2026; Primat des Zivilen, strukturelle Nichtangriffsfähigkeit (nach Egon Bahr), EU- und Landesverteidigung ja — weltweite Machtprojektion nein
 
-**[[DenkerVita/Jana Puglierin|Jana Puglierin]]** — Politikwissenschaftlerin, seit 2020 Leiterin des ECFR-Büros Berlin; promoviert über John H. Herz, den Urheber des Begriffs Sicherheitsdilemma; europäische Verteidigungsfähigkeit ohne Amerika, aber nicht gegen es; *Wer verteidigt Europa?* (2026)
+**[[Gedankenwelten/DenkerVita/Jana Puglierin|Jana Puglierin]]** — Politikwissenschaftlerin, seit 2020 Leiterin des ECFR-Büros Berlin; promoviert über John H. Herz, den Urheber des Begriffs Sicherheitsdilemma; europäische Verteidigungsfähigkeit ohne Amerika, aber nicht gegen es; *Wer verteidigt Europa?* (2026)
 
-**[[DenkerVita/Jan Hegenberg|Jan Hegenberg]]** — Blogger ("Der Graslutscher"), Autor; Energiewendemythen entkräften, Optimismus durch Fakten, Chinas CO₂-Trendwende
+**[[Gedankenwelten/DenkerVita/Jan Hegenberg|Jan Hegenberg]]** — Blogger ("Der Graslutscher"), Autor; Energiewendemythen entkräften, Optimismus durch Fakten, Chinas CO₂-Trendwende
 
-**[[DenkerVita/Jan-Keno Janssen|Jan-Keno Janssen]]** — Tech-Journalist, c't Magazin / heise online (seit 2007), Gründer & Redakteur c't 3003 (YouTube, 114k Subscriber); KI-Kritik, Nvidias Entfremdung von Realität und Mensch, Token-Ökonomie als strukturelles Versprechen; Computex 2026 vor Ort
+**[[Gedankenwelten/DenkerVita/Jan-Keno Janssen|Jan-Keno Janssen]]** — Tech-Journalist, c't Magazin / heise online (seit 2007), Gründer & Redakteur c't 3003 (YouTube, 114k Subscriber); KI-Kritik, Nvidias Entfremdung von Realität und Mensch, Token-Ökonomie als strukturelles Versprechen; Computex 2026 vor Ort
 
-**[[DenkerVita/Jagoda Marinic|Jagoda Marinić]]** — Schriftstellerin, Kulturjournalistin, Podcasterin (ARD *Freiheit Deluxe*); Sanfte Radikalität statt Verhärtung, Entotherung als zentrale Aufgabe, Meinungsfreiheit als gelebte Praxis; Stern-Kolumnistin, Mitglied Stiftungsrat Friedenspreis Deutscher Buchhandel; re:publica 26 Panel zu Meinungsfreiheit mit Ronen Steinke
+**[[Gedankenwelten/DenkerVita/Jagoda Marinic|Jagoda Marinić]]** — Schriftstellerin, Kulturjournalistin, Podcasterin (ARD *Freiheit Deluxe*); Sanfte Radikalität statt Verhärtung, Entotherung als zentrale Aufgabe, Meinungsfreiheit als gelebte Praxis; Stern-Kolumnistin, Mitglied Stiftungsrat Friedenspreis Deutscher Buchhandel; re:publica 26 Panel zu Meinungsfreiheit mit Ronen Steinke
 
-**[[DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]]** — Philosoph der Postmoderne; Gegenspieler Habermas', Ende der Metaerzählungen, Widerstreit, Sprachspiele ohne universale Schiedsrichter, Inkommensurabilität
+**[[Gedankenwelten/DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]]** — Philosoph der Postmoderne; Gegenspieler Habermas', Ende der Metaerzählungen, Widerstreit, Sprachspiele ohne universale Schiedsrichter, Inkommensurabilität
 
-**[[DenkerVita/Jok Madut Jok|Jok Madut Jok]]** — Anthropologe & Konfliktforscher (Südsudan), Direktor des Sudd Institute; Ethnographie politischer Gewalt, Ethnizität als Machtinstrument, Elitenpakt ≠ gelebter Frieden
+**[[Gedankenwelten/DenkerVita/Jok Madut Jok|Jok Madut Jok]]** — Anthropologe & Konfliktforscher (Südsudan), Direktor des Sudd Institute; Ethnographie politischer Gewalt, Ethnizität als Machtinstrument, Elitenpakt ≠ gelebter Frieden
 
-**[[DenkerVita/John Rawls|John Rawls]]** — Politischer Philosoph; Schleier des Nichtwissens, Urzustand, Gleichheitsprinzip, Differenzprinzip
+**[[Gedankenwelten/DenkerVita/John Rawls|John Rawls]]** — Politischer Philosoph; Schleier des Nichtwissens, Urzustand, Gleichheitsprinzip, Differenzprinzip
 
-**[[DenkerVita/Joan Kinyua|Joan Kinyua]]** — Kenianische Datenarbeiter-Aktivistin, Gründungspräsidentin Data Labelers Association Kenya (seit Februar 2024, 1.100+ Mitglieder); 8+ Jahre Erfahrung mit KI-Annotation (autonome Fahrzeuge, medizinische Bilder, extreme Content Moderation, Meta Ray-Ban Footage); Zeugin vor Bundestag April 2026 zu Data Labor Rights; investigative Zusammenarbeit mit schwedischen Medien zu Meta-Privatsphäre; Co-Referentin re:publica 26 mit Julia Kloiber; Kernbotschaft: KI ist keine Magie — es sind Menschen
+**[[Gedankenwelten/DenkerVita/Joan Kinyua|Joan Kinyua]]** — Kenianische Datenarbeiter-Aktivistin, Gründungspräsidentin Data Labelers Association Kenya (seit Februar 2024, 1.100+ Mitglieder); 8+ Jahre Erfahrung mit KI-Annotation (autonome Fahrzeuge, medizinische Bilder, extreme Content Moderation, Meta Ray-Ban Footage); Zeugin vor Bundestag April 2026 zu Data Labor Rights; investigative Zusammenarbeit mit schwedischen Medien zu Meta-Privatsphäre; Co-Referentin re:publica 26 mit Julia Kloiber; Kernbotschaft: KI ist keine Magie — es sind Menschen
 
-**[[DenkerVita/Julie Pagis|Julie Pagis]]** — Soziologin CNRS/IRIS-EHESS; Mai 68 und charismatische Herrschaft; Herrschaft vs. Beherrschen, biographische Sackgasse
+**[[Gedankenwelten/DenkerVita/Julie Pagis|Julie Pagis]]** — Soziologin CNRS/IRIS-EHESS; Mai 68 und charismatische Herrschaft; Herrschaft vs. Beherrschen, biographische Sackgasse
 
-**[[DenkerVita/Julia Friedrichs|Julia Friedrichs]]** — Preisgekrönte Journalistin und Dokumentarfilmerin (ARD, ZDF, Die Zeit); Gründerin Tell Me Why; Autorin *Crazy Rich*; Kategorienfehler Einkommen vs. Vermögen, Steuervermeidungsindustrie, Parallelgesellschaft der Überreichen
+**[[Gedankenwelten/DenkerVita/Julia Friedrichs|Julia Friedrichs]]** — Preisgekrönte Journalistin und Dokumentarfilmerin (ARD, ZDF, Die Zeit); Gründerin Tell Me Why; Autorin *Crazy Rich*; Kategorienfehler Einkommen vs. Vermögen, Steuervermeidungsindustrie, Parallelgesellschaft der Überreichen
 
-**[[DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Historikerstreit
+**[[Gedankenwelten/DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Historikerstreit
 
-**[[DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]]** — Neurobiologe & Mathematiker, seit 2022 Direktor des Instituts für Grenzgebiete der Psychologie und Psychohygiene (IGPP) Freiburg, Privatdozent Uni Freiburg; Necker-Würfel und bistabile Wahrnehmung im EEG, Wahrnehmung als Konstruktion, mehrdeutige Reize als Labormodell für außergewöhnliche Erfahrungen, Geist-Materie-Problem
+**[[Gedankenwelten/DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]]** — Neurobiologe & Mathematiker, seit 2022 Direktor des Instituts für Grenzgebiete der Psychologie und Psychohygiene (IGPP) Freiburg, Privatdozent Uni Freiburg; Necker-Würfel und bistabile Wahrnehmung im EEG, Wahrnehmung als Konstruktion, mehrdeutige Reize als Labormodell für außergewöhnliche Erfahrungen, Geist-Materie-Problem
 
 ## K
 
-**[[DenkerVita/Lucas Krzikalla|Lucas Krzikalla]]** — Handballer, rund 14 Jahre beim SC DHfK Leipzig, seit 2026 bei den Münchner Panthern; machte 2022 öffentlich, dass er schwul ist
+**[[Gedankenwelten/DenkerVita/Lucas Krzikalla|Lucas Krzikalla]]** — Handballer, rund 14 Jahre beim SC DHfK Leipzig, seit 2026 bei den Münchner Panthern; machte 2022 öffentlich, dass er schwul ist
 
-**[[DenkerVita/Birgit Kelle|Birgit Kelle]]** — Publizistin und Autorin, christlich-konservativ (eigene Worte: naturrechtliches und christliches Menschenbild), CDU-Mitglied (nach eigener Angabe); Kritik an Gender-Mainstreaming und Identitätspolitik, Mutterschaft, gegen Leihmutterschaft; *Gendergaga* (2015), *Ich kauf mir ein Kind* (2024)
+**[[Gedankenwelten/DenkerVita/Birgit Kelle|Birgit Kelle]]** — Publizistin und Autorin, christlich-konservativ (eigene Worte: naturrechtliches und christliches Menschenbild), CDU-Mitglied (nach eigener Angabe); Kritik an Gender-Mainstreaming und Identitätspolitik, Mutterschaft, gegen Leihmutterschaft; *Gendergaga* (2015), *Ich kauf mir ein Kind* (2024)
 
-**[[DenkerVita/Georgine Kellermann|Georgine Kellermann]]** — Journalistin, vier Jahrzehnte bei WDR und ARD (Washington, Paris, zuletzt Studioleiterin in Essen), seit ihrer spontanen „Offenbarung“ 2019 offen als trans Frau sichtbar
+**[[Gedankenwelten/DenkerVita/Georgine Kellermann|Georgine Kellermann]]** — Journalistin, vier Jahrzehnte bei WDR und ARD (Washington, Paris, zuletzt Studioleiterin in Essen), seit ihrer spontanen „Offenbarung“ 2019 offen als trans Frau sichtbar
 
-**[[DenkerVita/Johann Krieten|Johann Krieten]]** — Jugendrichter a. D. (Amtsgericht Hamburg), 24 Jahre zuständig für St. Pauli, vom Boulevard „Knallhart-Krieten“ genannt, prüft im Ruhestand seine eigenen Urteile
+**[[Gedankenwelten/DenkerVita/Johann Krieten|Johann Krieten]]** — Jugendrichter a. D. (Amtsgericht Hamburg), 24 Jahre zuständig für St. Pauli, vom Boulevard „Knallhart-Krieten“ genannt, prüft im Ruhestand seine eigenen Urteile
 
-**[[DenkerVita/Alek Kavcic|Alek Kavčić]]** — Elektroingenieur (Harvard, Hawaiʻi, CMU), Miterfinder eines Festplatten-Detektors; seine Stiftung kämpft für kostenlose Schulbücher und zahlte 2025 Lehrkräften ohne Lohn
+**[[Gedankenwelten/DenkerVita/Alek Kavcic|Alek Kavčić]]** — Elektroingenieur (Harvard, Hawaiʻi, CMU), Miterfinder eines Festplatten-Detektors; seine Stiftung kämpft für kostenlose Schulbücher und zahlte 2025 Lehrkräften ohne Lohn
 
-**[[DenkerVita/Annette Kehnel|Annette Kehnel]]** — Historikerin, Lehrstuhl für Mittelalterliche Geschichte an der Uni Mannheim (seit 2005); *Wir konnten auch anders* (2021, NDR Sachbuchpreis), *Die sieben Todsünden* (2024), *Der Phoenix-Effekt* (2026); liest im Mittelalter Commons, Kleinkredit und Maß als Wissen für die Gegenwart: Geschichte schult den Möglichkeitssinn
+**[[Gedankenwelten/DenkerVita/Annette Kehnel|Annette Kehnel]]** — Historikerin, Lehrstuhl für Mittelalterliche Geschichte an der Uni Mannheim (seit 2005); *Wir konnten auch anders* (2021, NDR Sachbuchpreis), *Die sieben Todsünden* (2024), *Der Phoenix-Effekt* (2026); liest im Mittelalter Commons, Kleinkredit und Maß als Wissen für die Gegenwart: Geschichte schult den Möglichkeitssinn
 
-**[[DenkerVita/Nina Kolleck|Nina Kolleck]]** — Bildungsforscherin und Politikwissenschaftlerin, Professorin für Erziehungs- und Sozialisationstheorie an der Uni Potsdam (vorher FU Berlin, Leipzig), seit 2026 im Bundesjugendkuratorium; *Der Kampf in den Köpfen* (2026): soziale Medien als neue Sozialisationsinstanz; deutet die Gen-Z-Proteste über Ungleichheit und rät zu Bürgerräten mit Jugendlichen
+**[[Gedankenwelten/DenkerVita/Nina Kolleck|Nina Kolleck]]** — Bildungsforscherin und Politikwissenschaftlerin, Professorin für Erziehungs- und Sozialisationstheorie an der Uni Potsdam (vorher FU Berlin, Leipzig), seit 2026 im Bundesjugendkuratorium; *Der Kampf in den Köpfen* (2026): soziale Medien als neue Sozialisationsinstanz; deutet die Gen-Z-Proteste über Ungleichheit und rät zu Bürgerräten mit Jugendlichen
 
-**[[DenkerVita/Maria Kalesnikava|Maria Kalesnikava]]** — Flötistin und Kulturmanagerin aus Minsk, 2020 eines der drei Gesichter der belarussischen Proteste; zerriss an der Grenze ihren Pass, um zu bleiben, fünf Jahre Haft, seit Dezember 2025 frei — wirbt für Druck und Gespräch zugleich
+**[[Gedankenwelten/DenkerVita/Maria Kalesnikava|Maria Kalesnikava]]** — Flötistin und Kulturmanagerin aus Minsk, 2020 eines der drei Gesichter der belarussischen Proteste; zerriss an der Grenze ihren Pass, um zu bleiben, fünf Jahre Haft, seit Dezember 2025 frei — wirbt für Druck und Gespräch zugleich
 
-**[[DenkerVita/Patrick Kaczmarczyk|Patrick Kaczmarczyk]]** — Politökonom und Entwicklungsökonom (Uni Mannheim, Kompetenzzentrum Transformation; zuvor UNCTAD, Ostafrika); stellv. Mitglied der Schuldenbremsen-Expertenkommission; *Kampf der Nationen* (2022), *Raus aus dem Ego-Kapitalismus* (2023), *Zerfall der Weltordnung* (2026); Studien mit Tom Krebs zu Stromnetz-Finanzierung und Militärausgaben; These: Geld ist eine Institution, und die westliche Wirtschaftsordnung war nie eine Ordnung für alle
+**[[Gedankenwelten/DenkerVita/Patrick Kaczmarczyk|Patrick Kaczmarczyk]]** — Politökonom und Entwicklungsökonom (Uni Mannheim, Kompetenzzentrum Transformation; zuvor UNCTAD, Ostafrika); stellv. Mitglied der Schuldenbremsen-Expertenkommission; *Kampf der Nationen* (2022), *Raus aus dem Ego-Kapitalismus* (2023), *Zerfall der Weltordnung* (2026); Studien mit Tom Krebs zu Stromnetz-Finanzierung und Militärausgaben; These: Geld ist eine Institution, und die westliche Wirtschaftsordnung war nie eine Ordnung für alle
 
-**[[DenkerVita/Katrin Eigendorf|Katrin Eigendorf]]** — ZDF-Sonderkorrespondentin für Krisenregionen (*1962); seit den 1990ern aus Kriegsgebieten — Tschetschenien, Afghanistan, Nahost, Ukraine; zweimal Moskau-Korrespondentin (1993–96 RTL, 2015–18 ZDF); Hanns-Joachim-Friedrichs-Preis 2021, Grimme-Preis 2022, zweimal Journalistin des Jahres; *Putins Krieg* (2022), *Erzählen, was ist* (2026); These: Empathie ist ein Erkenntnisinstrument, keine Parteinahme — und Ausgewogenheit ist keine Symmetrie zwischen Angreifer und Angegriffenem
+**[[Gedankenwelten/DenkerVita/Katrin Eigendorf|Katrin Eigendorf]]** — ZDF-Sonderkorrespondentin für Krisenregionen (*1962); seit den 1990ern aus Kriegsgebieten — Tschetschenien, Afghanistan, Nahost, Ukraine; zweimal Moskau-Korrespondentin (1993–96 RTL, 2015–18 ZDF); Hanns-Joachim-Friedrichs-Preis 2021, Grimme-Preis 2022, zweimal Journalistin des Jahres; *Putins Krieg* (2022), *Erzählen, was ist* (2026); These: Empathie ist ein Erkenntnisinstrument, keine Parteinahme — und Ausgewogenheit ist keine Symmetrie zwischen Angreifer und Angegriffenem
 
-**[[DenkerVita/Kai Ambos|Kai Ambos]]** — Völker- und Strafrechtler (Uni Göttingen), Richter am Kosovo-Sondertribunal in Den Haag; Standardwerke zum Völkerstrafrecht (*Treatise on International Criminal Law*); These: Nicht das Völkerrecht ist das Problem, sondern seine selektive Durchsetzung — westliche Doppelmoral (*Doppelmoral — Der Westen und die Ukraine*, 2022)
+**[[Gedankenwelten/DenkerVita/Kai Ambos|Kai Ambos]]** — Völker- und Strafrechtler (Uni Göttingen), Richter am Kosovo-Sondertribunal in Den Haag; Standardwerke zum Völkerstrafrecht (*Treatise on International Criminal Law*); These: Nicht das Völkerrecht ist das Problem, sondern seine selektive Durchsetzung — westliche Doppelmoral (*Doppelmoral — Der Westen und die Ukraine*, 2022)
 
-**[[DenkerVita/Uwe Krüger|Uwe Krüger]]** — Journalismusforscher (Uni Leipzig); untersucht, wie in freien Medien Gleichklang entsteht: Elitennähe, Indexing, Milieus der Redaktionen, Medienvertrauen in Sachsen; *Meinungsmacht* (2013), *Mainstream* (2016)
+**[[Gedankenwelten/DenkerVita/Uwe Krüger|Uwe Krüger]]** — Journalismusforscher (Uni Leipzig); untersucht, wie in freien Medien Gleichklang entsteht: Elitennähe, Indexing, Milieus der Redaktionen, Medienvertrauen in Sachsen; *Meinungsmacht* (2013), *Mainstream* (2016)
 
-**[[DenkerVita/Kai Michel|Kai Michel]]** — Historiker und Literaturwissenschaftler; mit Carel van Schaik die evolutionäre Bibel-Trilogie (*Tagebuch der Menschheit*, *Wahrheit über Eva*, *Mensch sein*); die drei Naturen des Menschen, Religion als Bewältigungs- und Normalisierungsmaschine, egalitärer Normalzustand des Homo sapiens
+**[[Gedankenwelten/DenkerVita/Kai Michel|Kai Michel]]** — Historiker und Literaturwissenschaftler; mit Carel van Schaik die evolutionäre Bibel-Trilogie (*Tagebuch der Menschheit*, *Wahrheit über Eva*, *Mensch sein*); die drei Naturen des Menschen, Religion als Bewältigungs- und Normalisierungsmaschine, egalitärer Normalzustand des Homo sapiens
 
-**[[DenkerVita/Kalayo|Kalayo]]** — Pseudonymer deutscher Politik-YouTuber (KALAYO OFFICIAL, ~124.000 Abonnenten); deutschsprachige Einordnung der US-Politik mit Fokus auf Epstein-Akten, Trump-Kritik und Elite-Korruption; Empörungsformat mit Clickbait-Titeln, aber ehrlich progressiv; betreibt das Spendenprojekt „KALAYO hilft“ (betterplace.org); Name = Cebuano für „Feuer“
+**[[Gedankenwelten/DenkerVita/Kalayo|Kalayo]]** — Pseudonymer deutscher Politik-YouTuber (KALAYO OFFICIAL, ~124.000 Abonnenten); deutschsprachige Einordnung der US-Politik mit Fokus auf Epstein-Akten, Trump-Kritik und Elite-Korruption; Empörungsformat mit Clickbait-Titeln, aber ehrlich progressiv; betreibt das Spendenprojekt „KALAYO hilft“ (betterplace.org); Name = Cebuano für „Feuer“
 
-**[[DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
+**[[Gedankenwelten/DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
 
-**[[DenkerVita/Paul Klee|Paul Klee]]** — Maler, Grafiker und Kunsttheoretiker der klassischen Moderne, Bauhaus-Meister (Weimar/Dessau); „Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar“, Bewegung als Grund allen Werdens, das Werk als Gleichnis der Schöpfung; 1933 von den Nazis entlassen, 1937 als „entartet“ verfemt (102 Werke beschlagnahmt), gestorben 1940 im Berner Exil ohne die verweigerte Schweizer Einbürgerung
+**[[Gedankenwelten/DenkerVita/Paul Klee|Paul Klee]]** — Maler, Grafiker und Kunsttheoretiker der klassischen Moderne, Bauhaus-Meister (Weimar/Dessau); „Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar“, Bewegung als Grund allen Werdens, das Werk als Gleichnis der Schöpfung; 1933 von den Nazis entlassen, 1937 als „entartet“ verfemt (102 Werke beschlagnahmt), gestorben 1940 im Berner Exil ohne die verweigerte Schweizer Einbürgerung
 
-**[[DenkerVita/Kristian Kunow|Kristian Kunow]]** — Stellvertretender Direktor der MABB; Regulierungspragmatiker für digitalen Jugendschutz; Mitglied Expertenkommission Bund 2026; smarte Lösungen statt Totalverbot; EU-weite Durchsetzung als Schlüssel
+**[[Gedankenwelten/DenkerVita/Kristian Kunow|Kristian Kunow]]** — Stellvertretender Direktor der MABB; Regulierungspragmatiker für digitalen Jugendschutz; Mitglied Expertenkommission Bund 2026; smarte Lösungen statt Totalverbot; EU-weite Durchsetzung als Schlüssel
 
-**[[DenkerVita/Katharina Nocun|Katharina Nocun]]** — Deutsch-polnische Netzaktivistin, Autorin, Konspirationsmythologen-Forscherin; Digitale Bürgerrechte, Verschwörungstheorien, esoterische Vorfeld-Organisationen der extremen Rechten, KI-generierte Desinformation; 2013 politische Geschäftsführerin der Piratenpartei, Kampagnen für Campact
+**[[Gedankenwelten/DenkerVita/Katharina Nocun|Katharina Nocun]]** — Deutsch-polnische Netzaktivistin, Autorin, Konspirationsmythologen-Forscherin; Digitale Bürgerrechte, Verschwörungstheorien, esoterische Vorfeld-Organisationen der extremen Rechten, KI-generierte Desinformation; 2013 politische Geschäftsführerin der Piratenpartei, Kampagnen für Campact
 
-**[[DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
+**[[Gedankenwelten/DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
 
-**[[DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
+**[[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
 
-**[[DenkerVita/Julia Kloiber|Julia Kloiber]]** — Co-Gründerin SUPERRR Lab; Aktivistin für digitale Gerechtigkeit und feministische Tech-Politiken; Gründerin Prototype Fund und Code for Germany; Expertise: Data Labor Rights, KI-Mythen, unsichtbare Arbeit in KI-Lieferketten, Feminist Digital Futures; Projekt "KI: Macht, Mythen, Missverstände" mit Bibliotheken Berlin; April 2026 Bundestag-Fachgespräch zu Data Labeler Bedingungen mit Joan Kinyua; re:publica 26 "Inside AI's Human Assembly Line"
+**[[Gedankenwelten/DenkerVita/Julia Kloiber|Julia Kloiber]]** — Co-Gründerin SUPERRR Lab; Aktivistin für digitale Gerechtigkeit und feministische Tech-Politiken; Gründerin Prototype Fund und Code for Germany; Expertise: Data Labor Rights, KI-Mythen, unsichtbare Arbeit in KI-Lieferketten, Feminist Digital Futures; Projekt "KI: Macht, Mythen, Missverstände" mit Bibliotheken Berlin; April 2026 Bundestag-Fachgespräch zu Data Labeler Bedingungen mit Joan Kinyua; re:publica 26 "Inside AI's Human Assembly Line"
 
-**[[DenkerVita/Konfuzius|Konfuzius]]** — Philosoph, Ethiker; Achsenzeit-Denker neben Sokrates und Buddha; Ren (仁, Mitmenschlichkeit), Goldene Regel, fünf Kardinaltugenden, Junzi, Widerstandspflicht gegen unmenschliche Herrscher
+**[[Gedankenwelten/DenkerVita/Konfuzius|Konfuzius]]** — Philosoph, Ethiker; Achsenzeit-Denker neben Sokrates und Buddha; Ren (仁, Mitmenschlichkeit), Goldene Regel, fünf Kardinaltugenden, Junzi, Widerstandspflicht gegen unmenschliche Herrscher
 
-**[[DenkerVita/Konstantin Flemig|Konstantin Flemig]]** — Kriegsreporter, Dokumentarfilmer, Buchautor; Faktenjournalismus über Ukraine-Krieg, Zeitenwende-Industrialisierung, vergessene Kriege
+**[[Gedankenwelten/DenkerVita/Konstantin Flemig|Konstantin Flemig]]** — Kriegsreporter, Dokumentarfilmer, Buchautor; Faktenjournalismus über Ukraine-Krieg, Zeitenwende-Industrialisierung, vergessene Kriege
 
-**[[DenkerVita/Marina Kormbaki|Marina Kormbaki]]** — Journalistin, stellvertretende Leiterin des SPIEGEL-Hauptstadtbüros (zuvor HAZ, RND, The Pioneer); berichtet über Kanzler, Außen- und Verteidigungspolitik; These: An den blauen Balken darf man sich nicht gewöhnen — und Aufrüstung gegen ein aggressives Russland ist nötig, ihr Preis beim Sozialstaat aber offen zu verhandeln
+**[[Gedankenwelten/DenkerVita/Marina Kormbaki|Marina Kormbaki]]** — Journalistin, stellvertretende Leiterin des SPIEGEL-Hauptstadtbüros (zuvor HAZ, RND, The Pioneer); berichtet über Kanzler, Außen- und Verteidigungspolitik; These: An den blauen Balken darf man sich nicht gewöhnen — und Aufrüstung gegen ein aggressives Russland ist nötig, ihr Preis beim Sozialstaat aber offen zu verhandeln
 
-**[[DenkerVita/Konstantin Kuhle|Konstantin Kuhle]]** — Rechtsanwalt, FDP-Politiker, MdB 2017–2025 (stellv. Fraktionsvorsitz, Innen-/Rechtspolitik); sozialliberaler Bürgerrechtsliberalismus, wehrhafte Demokratie, parlamentarische Geheimdienstkontrolle, Pro-Europäer; re:publica 26 zu KI und Kriegs-Hemmschwelle
+**[[Gedankenwelten/DenkerVita/Konstantin Kuhle|Konstantin Kuhle]]** — Rechtsanwalt, FDP-Politiker, MdB 2017–2025 (stellv. Fraktionsvorsitz, Innen-/Rechtspolitik); sozialliberaler Bürgerrechtsliberalismus, wehrhafte Demokratie, parlamentarische Geheimdienstkontrolle, Pro-Europäer; re:publica 26 zu KI und Kriegs-Hemmschwelle
 
-**[[DenkerVita/Lacina Kone|Lacina Koné]]** — Ivorer, Director General & CEO des Smart Africa Secretariat (42+ Staaten, Kigali); Architekt der digitalen Souveränität Afrikas — Single Digital Market bis 2030, Africa AI Council, AfCFTA Digital Trade Protocol, Afrika-Europa-Partnerschaft auf Augenhöhe
+**[[Gedankenwelten/DenkerVita/Lacina Kone|Lacina Koné]]** — Ivorer, Director General & CEO des Smart Africa Secretariat (42+ Staaten, Kigali); Architekt der digitalen Souveränität Afrikas — Single Digital Market bis 2030, Africa AI Council, AfCFTA Digital Trade Protocol, Afrika-Europa-Partnerschaft auf Augenhöhe
 
-**[[DenkerVita/Tom Krebs|Tom Krebs]]** — Makroökonom (Uni Mannheim, Kompetenzzentrum Transformation; Columbia-PhD, Brown, Weltbank/IWF-Berater), wissenschaftliches Mitglied der Mindestlohnkommission; *Fehldiagnose* (2024), *Kapital und Krise* (2026); These: Die öffentliche Ökonomik erzählt Märchen vom funktionierenden Markt, privates Kapital ist dort zu teuer, wo kein Wettbewerb Innovation bringt, und die geplante Marktwirtschaft mit mehr öffentlichem Eigentum schützt auch die Demokratie
+**[[Gedankenwelten/DenkerVita/Tom Krebs|Tom Krebs]]** — Makroökonom (Uni Mannheim, Kompetenzzentrum Transformation; Columbia-PhD, Brown, Weltbank/IWF-Berater), wissenschaftliches Mitglied der Mindestlohnkommission; *Fehldiagnose* (2024), *Kapital und Krise* (2026); These: Die öffentliche Ökonomik erzählt Märchen vom funktionierenden Markt, privates Kapital ist dort zu teuer, wo kein Wettbewerb Innovation bringt, und die geplante Marktwirtschaft mit mehr öffentlichem Eigentum schützt auch die Demokratie
 
-**[[DenkerVita/Claudia Kemfert|Claudia Kemfert]]** — Deutschlands bekannteste Energieökonomin (*1968; DIW Berlin, Leuphana Universität); rechnet vor, dass die Energiewende ökonomisch die vernünftigere Wahl ist — und zahlt dafür den Preis der öffentlichen Wissenschaftlerin: Beifall hier, organisierte Anfeindung dort
+**[[Gedankenwelten/DenkerVita/Claudia Kemfert|Claudia Kemfert]]** — Deutschlands bekannteste Energieökonomin (*1968; DIW Berlin, Leuphana Universität); rechnet vor, dass die Energiewende ökonomisch die vernünftigere Wahl ist — und zahlt dafür den Preis der öffentlichen Wissenschaftlerin: Beifall hier, organisierte Anfeindung dort
 
-**[[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]]** — SPD-Generalsekretär und Volkswirt aus Lübeck, Parteilinker mit Vermögensabgabe, der Märkte per Ordnungspolitik statt Transfers zurückholen will
+**[[Gedankenwelten/DenkerVita/Tim Kluessendorf|Tim Klüssendorf]]** — SPD-Generalsekretär und Volkswirt aus Lübeck, Parteilinker mit Vermögensabgabe, der Märkte per Ordnungspolitik statt Transfers zurückholen will
 
-**[[DenkerVita/Ilko-Sascha Kowalczuk|Ilko-Sascha Kowalczuk]]** — Historiker der SED-Diktatur (Stasi-Unterlagen-Behörde, Ulbricht-Biograf), der den Rechtsruck im Osten als Freiheitsschock statt als Kränkung durch den Westen deutet
+**[[Gedankenwelten/DenkerVita/Ilko-Sascha Kowalczuk|Ilko-Sascha Kowalczuk]]** — Historiker der SED-Diktatur (Stasi-Unterlagen-Behörde, Ulbricht-Biograf), der den Rechtsruck im Osten als Freiheitsschock statt als Kränkung durch den Westen deutet
 
-**[[DenkerVita/Alice Kaplan|Alice Kaplan]]** — Romanistin und Historikerin in Yale, erzählt das Leben von Büchern und Prozessen aus dem Archiv: Camus' *Fremder*, Brasillach, die Justiz nach dem Krieg.
+**[[Gedankenwelten/DenkerVita/Alice Kaplan|Alice Kaplan]]** — Romanistin und Historikerin in Yale, erzählt das Leben von Büchern und Prozessen aus dem Archiv: Camus' *Fremder*, Brasillach, die Justiz nach dem Krieg.
 
 ## L
 
-**[[DenkerVita/Igor Levit|Igor Levit]]** — Pianist, mischt sich als Staatsbürger gegen die AfD und gegen Antisemitismus ein
+**[[Gedankenwelten/DenkerVita/Igor Levit|Igor Levit]]** — Pianist, mischt sich als Staatsbürger gegen die AfD und gegen Antisemitismus ein
 
-**[[DenkerVita/Henning Lobin|Henning Lobin]]** — Linguist, Direktor des Leibniz-Instituts für Deutsche Sprache in Mannheim, früher Computerlinguistik in Gießen; die sprechende Maschine als Kränkung, Sprache wächst aus dem Leib; „Sprachkampf“
+**[[Gedankenwelten/DenkerVita/Henning Lobin|Henning Lobin]]** — Linguist, Direktor des Leibniz-Instituts für Deutsche Sprache in Mannheim, früher Computerlinguistik in Gießen; die sprechende Maschine als Kränkung, Sprache wächst aus dem Leib; „Sprachkampf“
 
-**[[DenkerVita/Helmut Leitner|Helmut Leitner]]** — Softwareentwickler und Wiki-Pionier aus Graz, Mustertheoretiker auf den Spuren Christopher Alexanders; sein DseWiki nutzte 2026 ein OpenAI-Agentenschwarm als Schwarzes Brett, er antwortete den Agenten gastfreundlich, sieht darin eher Chance als Katastrophe und fordert notfalls eine strenge Aufsicht wie in der Luftfahrt
+**[[Gedankenwelten/DenkerVita/Helmut Leitner|Helmut Leitner]]** — Softwareentwickler und Wiki-Pionier aus Graz, Mustertheoretiker auf den Spuren Christopher Alexanders; sein DseWiki nutzte 2026 ein OpenAI-Agentenschwarm als Schwarzes Brett, er antwortete den Agenten gastfreundlich, sieht darin eher Chance als Katastrophe und fordert notfalls eine strenge Aufsicht wie in der Luftfahrt
 
-**[[DenkerVita/Thomas Laschyk|Thomas Laschyk]]** — Gründer, Chefredakteur und Geschäftsführer des Anti-Fake-News-Blogs Volksverpetzer (*1992, Augsburg; Literaturwissenschaftler); *Werbung für die Wahrheit* (2024), Petition „Prüft ein AfD-Verbot!“; These: Fake News siegen als Geschichten, darum braucht die Wahrheit Werbung, und weil Reichweite käuflich ist, wird Steuerpolitik zur Medienpolitik
+**[[Gedankenwelten/DenkerVita/Thomas Laschyk|Thomas Laschyk]]** — Gründer, Chefredakteur und Geschäftsführer des Anti-Fake-News-Blogs Volksverpetzer (*1992, Augsburg; Literaturwissenschaftler); *Werbung für die Wahrheit* (2024), Petition „Prüft ein AfD-Verbot!“; These: Fake News siegen als Geschichten, darum braucht die Wahrheit Werbung, und weil Reichweite käuflich ist, wird Steuerpolitik zur Medienpolitik
 
-**[[DenkerVita/Jörn Leonhard|Jörn Leonhard]]** — Historiker, Lehrstuhl für Neuere und Neueste Geschichte Westeuropas (Universität Freiburg), Leibniz-Preis 2024; Erster Weltkrieg (*Die Büchse der Pandora*), Versailles (*Der überforderte Frieden*), Empires und die Frage, wie Kriege enden: fauler Frieden, Paradoxie der Verlängerung, doing peace
+**[[Gedankenwelten/DenkerVita/Jörn Leonhard|Jörn Leonhard]]** — Historiker, Lehrstuhl für Neuere und Neueste Geschichte Westeuropas (Universität Freiburg), Leibniz-Preis 2024; Erster Weltkrieg (*Die Büchse der Pandora*), Versailles (*Der überforderte Frieden*), Empires und die Frage, wie Kriege enden: fauler Frieden, Paradoxie der Verlängerung, doing peace
 
-**[[DenkerVita/Leonie Heims|Leonie Heims]]** — Kommunikations- und Sprachwissenschaftlerin, wissenschaftliche Mitarbeiterin bei modus | zad; Verschwörungserzählungen, Desinformation, Souveränismus/„Reichsbürger“; Aufklärung mit Fakten und Humor (Projekt „Der Fabulant“)
+**[[Gedankenwelten/DenkerVita/Leonie Heims|Leonie Heims]]** — Kommunikations- und Sprachwissenschaftlerin, wissenschaftliche Mitarbeiterin bei modus | zad; Verschwörungserzählungen, Desinformation, Souveränismus/„Reichsbürger“; Aufklärung mit Fakten und Humor (Projekt „Der Fabulant“)
 
-**[[DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem
+**[[Gedankenwelten/DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem
 
-**[[DenkerVita/Lilith Roska|Lilith Roska]]** — Online-Redakteurin im Social-Media-Team der Arolsen Archives; digitale Erinnerungskultur für ein junges Publikum, Aufklärung über codierte Rechtsextreme-Geschichtsumdeutung (Zahlen, Memes, Emojis)
+**[[Gedankenwelten/DenkerVita/Lilith Roska|Lilith Roska]]** — Online-Redakteurin im Social-Media-Team der Arolsen Archives; digitale Erinnerungskultur für ein junges Publikum, Aufklärung über codierte Rechtsextreme-Geschichtsumdeutung (Zahlen, Memes, Emojis)
 
-**[[DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
+**[[Gedankenwelten/DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
 
-**[[DenkerVita/Lucy Brown|Lucy Brown]]** — US-amerikanische Neurowissenschaftlerin (Albert Einstein College of Medicine); fMRT-Forschung zur romantischen Liebe mit Helen Fisher & Arthur Aron; Liebe als mammalisches Antriebs-/Belohnungssystem (ventrales Tegmentum, Nucleus caudatus)
+**[[Gedankenwelten/DenkerVita/Lucy Brown|Lucy Brown]]** — US-amerikanische Neurowissenschaftlerin (Albert Einstein College of Medicine); fMRT-Forschung zur romantischen Liebe mit Helen Fisher & Arthur Aron; Liebe als mammalisches Antriebs-/Belohnungssystem (ventrales Tegmentum, Nucleus caudatus)
 
-**[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
+**[[Gedankenwelten/DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
 
-**[[DenkerVita/Bertolt Meyer|Bertolt Meyer]]** — Psychologe (TU Chemnitz, Arbeits-, Organisations- und Wirtschaftspsychologie), DJ und arte-Moderator; Stereotype, Diversität, Bionik und Behinderung, Rechtspopulismus und Bedrohungserzählungen; *Anders* (2025), Hochschullehrer des Jahres 2024
+**[[Gedankenwelten/DenkerVita/Bertolt Meyer|Bertolt Meyer]]** — Psychologe (TU Chemnitz, Arbeits-, Organisations- und Wirtschaftspsychologie), DJ und arte-Moderator; Stereotype, Diversität, Bionik und Behinderung, Rechtspopulismus und Bedrohungserzählungen; *Anders* (2025), Hochschullehrer des Jahres 2024
 
-**[[DenkerVita/Elham Manea|Elham Manea]]** — Politikwissenschaftlerin (Universität Zürich), Naher Osten, Jemen, Frauenrechte; muslimische Kritikerin des gewaltlosen Islamismus, die fragt, wie frei eine Wahl ist, die eine Auslegung vorgibt
+**[[Gedankenwelten/DenkerVita/Elham Manea|Elham Manea]]** — Politikwissenschaftlerin (Universität Zürich), Naher Osten, Jemen, Frauenrechte; muslimische Kritikerin des gewaltlosen Islamismus, die fragt, wie frei eine Wahl ist, die eine Auslegung vorgibt
 
-**[[DenkerVita/Martina Mescher|Martina Mescher]]** — Journalistin im Politikteam der wochentaz, Moderatorin des Bundestalk; liest Macht an ihren Gesten, von Trumps Ballsaal bis zur Sozialpolitik der Union
+**[[Gedankenwelten/DenkerVita/Martina Mescher|Martina Mescher]]** — Journalistin im Politikteam der wochentaz, Moderatorin des Bundestalk; liest Macht an ihren Gesten, von Trumps Ballsaal bis zur Sozialpolitik der Union
 
-**[[DenkerVita/Sebastian Moll|Sebastian Moll]]** — Journalist und Autor, seit 2002 in New York, USA-Korrespondent der taz; erzählt die USA vom Rechenzentrum bis zum Baseball und die deutsche Nachkriegszeit im „Würfelhaus“ seines Vaters
+**[[Gedankenwelten/DenkerVita/Sebastian Moll|Sebastian Moll]]** — Journalist und Autor, seit 2002 in New York, USA-Korrespondent der taz; erzählt die USA vom Rechenzentrum bis zum Baseball und die deutsche Nachkriegszeit im „Würfelhaus“ seines Vaters
 
-**[[DenkerVita/Michael Moss|Michael Moss]]** — US-Investigativjournalist (*New York Times*), Pulitzer-Preis 2010 für die Recherche über E.-coli-verseuchtes Hackfleisch; *Salt Sugar Fat* (2013, dt. *Das Salz-Zucker-Fett-Komplott*) und *Hooked* (2021) — der Bliss Point, die Kronjuwelen Salz, Zucker, Fett und eine Industrie, die von ihnen abhängiger ist als wir
+**[[Gedankenwelten/DenkerVita/Michael Moss|Michael Moss]]** — US-Investigativjournalist (*New York Times*), Pulitzer-Preis 2010 für die Recherche über E.-coli-verseuchtes Hackfleisch; *Salt Sugar Fat* (2013, dt. *Das Salz-Zucker-Fett-Komplott*) und *Hooked* (2021) — der Bliss Point, die Kronjuwelen Salz, Zucker, Fett und eine Industrie, die von ihnen abhängiger ist als wir
 
-**[[DenkerVita/Stephen Miller|Stephen Miller]]** — US-Regierungsberater, Architekt von Trumps Einwanderungspolitik, ab November 2026 Stabschef im Weißen Haus; Familientrennung, America First Legal, Operation Metro Surge
+**[[Gedankenwelten/DenkerVita/Stephen Miller|Stephen Miller]]** — US-Regierungsberater, Architekt von Trumps Einwanderungspolitik, ab November 2026 Stabschef im Weißen Haus; Familientrennung, America First Legal, Operation Metro Surge
 
-**[[DenkerVita/Martin Buber|Martin Buber]]** — jüdischer Religionsphilosoph (1878–1965), Wien–Heppenheim–Jerusalem; *Ich und Du* (1923), das dialogische Prinzip, Erzähler des Chassidismus, Bibelverdeutschung mit Rosenzweig, Binationalist; „Der Mensch wird am Du zum Ich“
+**[[Gedankenwelten/DenkerVita/Martin Buber|Martin Buber]]** — jüdischer Religionsphilosoph (1878–1965), Wien–Heppenheim–Jerusalem; *Ich und Du* (1923), das dialogische Prinzip, Erzähler des Chassidismus, Bibelverdeutschung mit Rosenzweig, Binationalist; „Der Mensch wird am Du zum Ich“
 
-**[[DenkerVita/Judith Mangelsdorf|Judith Mangelsdorf]]** — Psychologin und Glücksforscherin; erste volle Professorin für Positive Psychologie im deutschsprachigen Raum (DHGS Berlin, seit 2021), Direktorin der DGPP; Wachstum braucht kein Leid (Meta-Analyse zu posttraumatischem und postekstatischem Wachstum, IPPA-Dissertationspreis 2019), Flourishing und Languishing als zwei Kontinua, Mattering und Anti-Mattering, *No wellness without fairness*
+**[[Gedankenwelten/DenkerVita/Judith Mangelsdorf|Judith Mangelsdorf]]** — Psychologin und Glücksforscherin; erste volle Professorin für Positive Psychologie im deutschsprachigen Raum (DHGS Berlin, seit 2021), Direktorin der DGPP; Wachstum braucht kein Leid (Meta-Analyse zu posttraumatischem und postekstatischem Wachstum, IPPA-Dissertationspreis 2019), Flourishing und Languishing als zwei Kontinua, Mattering und Anti-Mattering, *No wellness without fairness*
 
-**[[DenkerVita/Marie-Madeleine Maucourt|Marie-Madeleine Maucourt]]** — Genossenschaftspraktikerin, Direktorin der Union régionale des Scop Grand Est; begleitet Belegschaftsübernahmen wie Bergère de France (2024); partizipatives Management gegen den „knallharten Kapitalismus“
+**[[Gedankenwelten/DenkerVita/Marie-Madeleine Maucourt|Marie-Madeleine Maucourt]]** — Genossenschaftspraktikerin, Direktorin der Union régionale des Scop Grand Est; begleitet Belegschaftsübernahmen wie Bergère de France (2024); partizipatives Management gegen den „knallharten Kapitalismus“
 
-**[[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]]** — Makroökonom, seit 2013 Präsident des DIW Berlin und Professor an der HU Berlin; elf Jahre EZB; Exportüberschuss als Symptom einer Investitionslücke, Schuldenbremse als Investitionsbremse, Vermögensungleichheit als makroökonomisches Problem — *Die Deutschland-Illusion*, *Verteilungskampf*
+**[[Gedankenwelten/DenkerVita/Marcel Fratzscher|Marcel Fratzscher]]** — Makroökonom, seit 2013 Präsident des DIW Berlin und Professor an der HU Berlin; elf Jahre EZB; Exportüberschuss als Symptom einer Investitionslücke, Schuldenbremse als Investitionsbremse, Vermögensungleichheit als makroökonomisches Problem — *Die Deutschland-Illusion*, *Verteilungskampf*
 
-**[[DenkerVita/Heinz-Peter Meidinger|Heinz-Peter Meidinger]]** — Gymnasiallehrer und Verbandspolitiker; 2004–2017 Vorsitzender des Philologenverbands, 2017–2023 Präsident (seither Ehrenpräsident) des Deutschen Lehrerverbands; verteidigt Noten, G9 und Zentralabitur gegen Noteninflation — *Die 10 Todsünden der Schulpolitik*
+**[[Gedankenwelten/DenkerVita/Heinz-Peter Meidinger|Heinz-Peter Meidinger]]** — Gymnasiallehrer und Verbandspolitiker; 2004–2017 Vorsitzender des Philologenverbands, 2017–2023 Präsident (seither Ehrenpräsident) des Deutschen Lehrerverbands; verteidigt Noten, G9 und Zentralabitur gegen Noteninflation — *Die 10 Todsünden der Schulpolitik*
 
-**[[DenkerVita/Franziska Meier|Franziska Meier]]** — Romanistin (Göttingen), Dante- und Boccaccio-Forscherin, die Camus’ *Pest* als Chronik liest, die an der Unmöglichkeit wächst, eine Seuche zu erzählen
+**[[Gedankenwelten/DenkerVita/Franziska Meier|Franziska Meier]]** — Romanistin (Göttingen), Dante- und Boccaccio-Forscherin, die Camus’ *Pest* als Chronik liest, die an der Unmöglichkeit wächst, eine Seuche zu erzählen
 
-**[[DenkerVita/Eve Morisi|Ève Morisi]]** — Literaturwissenschaftlerin (Oxford), liest Camus, Hugo und Baudelaire als Schriftsteller gegen die Todesstrafe und fragt, wie Literatur über staatliches Töten und Terror spricht
+**[[Gedankenwelten/DenkerVita/Eve Morisi|Ève Morisi]]** — Literaturwissenschaftlerin (Oxford), liest Camus, Hugo und Baudelaire als Schriftsteller gegen die Todesstrafe und fragt, wie Literatur über staatliches Töten und Terror spricht
 
-**[[DenkerVita/Margarita Seselgyte|Margarita Šešelgytė]]** — Litauische Politikwissenschaftlerin, seit 2019 Direktorin des Instituts für Internationale Beziehungen und Politikwissenschaft der Universität Vilnius; Abschreckung als psychologisches wie militärisches Problem, strategische Empathie und operative Solidarität, Total Defence als gesamtgesellschaftliche Resilienz
+**[[Gedankenwelten/DenkerVita/Margarita Seselgyte|Margarita Šešelgytė]]** — Litauische Politikwissenschaftlerin, seit 2019 Direktorin des Instituts für Internationale Beziehungen und Politikwissenschaft der Universität Vilnius; Abschreckung als psychologisches wie militärisches Problem, strategische Empathie und operative Solidarität, Total Defence als gesamtgesellschaftliche Resilienz
 
-**[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
+**[[Gedankenwelten/DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
 
-**[[DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik (Kanal seit Herbst 2025); lebt seit rund neun Jahren in Buffalo, New York; offen gegen Trump, unabhängig; stark in Fallrekonstruktionen zu ICE
+**[[Gedankenwelten/DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik (Kanal seit Herbst 2025); lebt seit rund neun Jahren in Buffalo, New York; offen gegen Trump, unabhängig; stark in Fallrekonstruktionen zu ICE
 
-**[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Italienische Psychiaterin (Univ. Pisa); Neurobiologie der Liebe, Serotonin & Zwangsstörung; fand bei frisch Verliebten eine deutlich niedrigere Serotonin-Transporter-Dichte, wie bei Zwangskranken; Ig-Nobelpreis Chemie 2000
+**[[Gedankenwelten/DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Italienische Psychiaterin (Univ. Pisa); Neurobiologie der Liebe, Serotonin & Zwangsstörung; fand bei frisch Verliebten eine deutlich niedrigere Serotonin-Transporter-Dichte, wie bei Zwangskranken; Ig-Nobelpreis Chemie 2000
 
-**[[DenkerVita/Malala Yousafzai|Malala Yousafzai]]** — Pakistanische Bildungsaktivistin, jüngste Friedensnobelpreisträgerin (2014, mit 17); als Kind BBC-Bloggerin unter den Taliban, Attentat 2012 überlebt; Bildung als Menschenrecht, „ein Kind, ein Lehrer, ein Buch, ein Stift“, Geschlechter-Apartheid in Afghanistan; *Ich bin Malala* (2013), *Finding My Way* (2025)
+**[[Gedankenwelten/DenkerVita/Malala Yousafzai|Malala Yousafzai]]** — Pakistanische Bildungsaktivistin, jüngste Friedensnobelpreisträgerin (2014, mit 17); als Kind BBC-Bloggerin unter den Taliban, Attentat 2012 überlebt; Bildung als Menschenrecht, „ein Kind, ein Lehrer, ein Buch, ein Stift“, Geschlechter-Apartheid in Afghanistan; *Ich bin Malala* (2013), *Finding My Way* (2025)
 
-**[[DenkerVita/Madlen Nicolaus|Madlen Nicolaus]]** — Chief Marketing Officer von Hexagon AB (seit 2023, zuvor Salesforce, SAP, Kodak); erklärt Messtechnik und digitale Zwillinge für ein nicht-fachliches Publikum — Vermessung als unsichtbare Infrastruktur jeder Nachhaltigkeitsentscheidung; Konzernstimme, kein unabhängiger Blick
+**[[Gedankenwelten/DenkerVita/Madlen Nicolaus|Madlen Nicolaus]]** — Chief Marketing Officer von Hexagon AB (seit 2023, zuvor Salesforce, SAP, Kodak); erklärt Messtechnik und digitale Zwillinge für ein nicht-fachliches Publikum — Vermessung als unsichtbare Infrastruktur jeder Nachhaltigkeitsentscheidung; Konzernstimme, kein unabhängiger Blick
 
-**[[DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
+**[[Gedankenwelten/DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
 
-**[[DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
+**[[Gedankenwelten/DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
 
-**[[DenkerVita/Stephan Marks|Stephan Marks]]** — Sozialwissenschaftler und Supervisor (*1951, Freiburg); fand in Interviews mit ehemaligen Hitler-Anhängern die Scham als Schlüssel (*Warum folgten sie Hitler?*, 2007) und lehrt seit *Scham – die tabuisierte Emotion* (2007), Scham zuzumuten, ohne zu beschämen
+**[[Gedankenwelten/DenkerVita/Stephan Marks|Stephan Marks]]** — Sozialwissenschaftler und Supervisor (*1951, Freiburg); fand in Interviews mit ehemaligen Hitler-Anhängern die Scham als Schlüssel (*Warum folgten sie Hitler?*, 2007) und lehrt seit *Scham – die tabuisierte Emotion* (2007), Scham zuzumuten, ohne zu beschämen
 
-**[[DenkerVita/Udo Marquardt|Udo Marquardt]]** — Philosoph und Radioautor (Jg. 1959, Unkel), promoviert über die Zeit bei Aristoteles; *Zeit und Mensch* (2024): Wir haben vergessen, dass Zeit wir selber sind
+**[[Gedankenwelten/DenkerVita/Udo Marquardt|Udo Marquardt]]** — Philosoph und Radioautor (Jg. 1959, Unkel), promoviert über die Zeit bei Aristoteles; *Zeit und Mensch* (2024): Wir haben vergessen, dass Zeit wir selber sind
 
-**[[DenkerVita/Thomas Eichstaedt|Thomas „Eichi" Eichstädt]]** — Aussteiger aus der Neonazi-Szene der 90er (Neubrandenburg); heute Trainer des FC Pio für junge Geflüchtete im AWO-Jugendclub Torgelow; Doku *Im Osten was Neues* (ZDF 2025)
+**[[Gedankenwelten/DenkerVita/Thomas Eichstaedt|Thomas „Eichi" Eichstädt]]** — Aussteiger aus der Neonazi-Szene der 90er (Neubrandenburg); heute Trainer des FC Pio für junge Geflüchtete im AWO-Jugendclub Torgelow; Doku *Im Osten was Neues* (ZDF 2025)
 
-**[[DenkerVita/Felix Benneckenstein|Felix Benneckenstein]]** — Ex-Neonazi aus Bayern (Liedermacher „Flex“, ~2001–2011), Ausstieg mit EXIT; Gründer der Aussteigerhilfe Bayern, begleitet heute selbst Ausstiege
+**[[Gedankenwelten/DenkerVita/Felix Benneckenstein|Felix Benneckenstein]]** — Ex-Neonazi aus Bayern (Liedermacher „Flex“, ~2001–2011), Ausstieg mit EXIT; Gründer der Aussteigerhilfe Bayern, begleitet heute selbst Ausstiege
 
-**[[DenkerVita/Fabian Wichmann|Fabian Wichmann]]** — Erziehungswissenschaftler aus Brandenburg; Ausstiegsbegleiter bei EXIT-Deutschland (ab 2009), Kampagnen „Rechts gegen Rechts“, #HassHilft; seit 2025 bei Grüner Vogel (IS-Rückkehrer)
+**[[Gedankenwelten/DenkerVita/Fabian Wichmann|Fabian Wichmann]]** — Erziehungswissenschaftler aus Brandenburg; Ausstiegsbegleiter bei EXIT-Deutschland (ab 2009), Kampagnen „Rechts gegen Rechts“, #HassHilft; seit 2025 bei Grüner Vogel (IS-Rückkehrer)
 
-**[[DenkerVita/Philip Schlaffer|Philip Schlaffer]]** — Ex-Neonazi (Kameradschaft „Werwolf Wismar“) und Rockerpräsident („Schwarze Schar MC“), Haft 2014–2016; heute Deradikalisierungstrainer, Extremislos e.V.; Autobiografie *Hass. Macht. Gewalt.*
+**[[Gedankenwelten/DenkerVita/Philip Schlaffer|Philip Schlaffer]]** — Ex-Neonazi (Kameradschaft „Werwolf Wismar“) und Rockerpräsident („Schwarze Schar MC“), Haft 2014–2016; heute Deradikalisierungstrainer, Extremislos e.V.; Autobiografie *Hass. Macht. Gewalt.*
 
-**[[DenkerVita/Edgar Morin|Edgar Morin]]** — Französischer Philosoph und Soziologe (1921–2026); *pensée complexe* / komplexes Denken gegen die Zersplitterung des Wissens; sechsbändiges Hauptwerk *La Méthode*, Résistance-Kämpfer, „Denker des Jahrhunderts"
+**[[Gedankenwelten/DenkerVita/Edgar Morin|Edgar Morin]]** — Französischer Philosoph und Soziologe (1921–2026); *pensée complexe* / komplexes Denken gegen die Zersplitterung des Wissens; sechsbändiges Hauptwerk *La Méthode*, Résistance-Kämpfer, „Denker des Jahrhunderts"
 
-**[[DenkerVita/Marco Waehner|Marco Wähner]]** — Soziologe (Dr.), Postdoc am Center for Advanced Internet Studies (CAIS), Bochum; empirische Forschung zu dezentralen Netzwerken (Fediverse, Mastodon, Tor); dezentrale Netzwerke als Kollektivgut-Problem, originäre Instabilität, Zentralisierung trotz dezentraler Architektur, öffentliche Grundfinanzierung als Lösung
+**[[Gedankenwelten/DenkerVita/Marco Waehner|Marco Wähner]]** — Soziologe (Dr.), Postdoc am Center for Advanced Internet Studies (CAIS), Bochum; empirische Forschung zu dezentralen Netzwerken (Fediverse, Mastodon, Tor); dezentrale Netzwerke als Kollektivgut-Problem, originäre Instabilität, Zentralisierung trotz dezentraler Architektur, öffentliche Grundfinanzierung als Lösung
 
-**[[DenkerVita/Maren Urner|Maren Urner]]** — Neurowissenschaftlerin, Professorin für Nachhaltige Transformation (Münster UAS); Gründerin *Perspective Daily* (konstruktiver Journalismus); Hope Theory, Angst vs. Hoffnung, dynamisches Denken; SPIEGEL-Bestsellerautorin *Schluss mit dem täglichen Weltuntergang*, *Raus aus der ewigen Dauerkrise*, *Radikal emotional*
+**[[Gedankenwelten/DenkerVita/Maren Urner|Maren Urner]]** — Neurowissenschaftlerin, Professorin für Nachhaltige Transformation (Münster UAS); Gründerin *Perspective Daily* (konstruktiver Journalismus); Hope Theory, Angst vs. Hoffnung, dynamisches Denken; SPIEGEL-Bestsellerautorin *Schluss mit dem täglichen Weltuntergang*, *Raus aus der ewigen Dauerkrise*, *Radikal emotional*
 
-**[[DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Moderator von VisualPolitik DE 2020–2024, nach der Trennung Vorwurf an dessen Autoren, Kreml-Propaganda nicht mehr von der Wirklichkeit zu unterscheiden; im Streit mit Heinrich der Strengere („eiserner Besen" gegen Kreml-nahe Stimmen im öffentlich finanzierten Raum); Differenzierung statt Objektivität
+**[[Gedankenwelten/DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Moderator von VisualPolitik DE 2020–2024, nach der Trennung Vorwurf an dessen Autoren, Kreml-Propaganda nicht mehr von der Wirklichkeit zu unterscheiden; im Streit mit Heinrich der Strengere („eiserner Besen" gegen Kreml-nahe Stimmen im öffentlich finanzierten Raum); Differenzierung statt Objektivität
 
-**[[DenkerVita/Martin Andree|Martin Andree]]** — Medienwissenschaftler, apl. Professor Universität zu Köln; BigTech-Monopole als Demokratiegefahr, „Machtverklumpung" aus Tech-Oligarchen und Trump-Regierung, Entflechtung nach Telekom-Vorbild; *Atlas der digitalen Welt* (2020), *Big Tech muss weg!* (2023, Günter-Wallraff-Sonderpreis)
+**[[Gedankenwelten/DenkerVita/Martin Andree|Martin Andree]]** — Medienwissenschaftler, apl. Professor Universität zu Köln; BigTech-Monopole als Demokratiegefahr, „Machtverklumpung" aus Tech-Oligarchen und Trump-Regierung, Entflechtung nach Telekom-Vorbild; *Atlas der digitalen Welt* (2020), *Big Tech muss weg!* (2023, Günter-Wallraff-Sonderpreis)
 
-**[[DenkerVita/Martin Winistoerfer|Martin Winistörfer]]** — Director AI Research bei Hexagon (Leica Geosystems, Heerbrugg/CH); KI auf Mess- und Geodaten — Reality Capture, Vertikalstruktur von Wäldern, autonome Fahrzeuge, Solarpotenzial ganzer Städte; Industriepraktiker ohne publiziertes Werk
+**[[Gedankenwelten/DenkerVita/Martin Winistoerfer|Martin Winistörfer]]** — Director AI Research bei Hexagon (Leica Geosystems, Heerbrugg/CH); KI auf Mess- und Geodaten — Reality Capture, Vertikalstruktur von Wäldern, autonome Fahrzeuge, Solarpotenzial ganzer Städte; Industriepraktiker ohne publiziertes Werk
 
-**[[DenkerVita/Mats Schoenauer|Mats Schönauer]]** — Journalist, YouTuber, Buchautor; Kanal Topfvollgold; gründete 2013 mit Moritz Tschermak das Watchblog Topf voll Gold; prüft BILD, NIUS und YouTube an Akten und bei den Betroffenen
+**[[Gedankenwelten/DenkerVita/Mats Schoenauer|Mats Schönauer]]** — Journalist, YouTuber, Buchautor; Kanal Topfvollgold; gründete 2013 mit Moritz Tschermak das Watchblog Topf voll Gold; prüft BILD, NIUS und YouTube an Akten und bei den Betroffenen
 
-**[[DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
+**[[Gedankenwelten/DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
 
-**[[DenkerVita/Ruben Mawick|Ruben Mawick]]** — Deutscher Combat Medic & humanitärer Helfer (geb. 2002, Westfalen); seit 2023 mehrfach an der Ukraine-Front, überlebte 9.9.2023 einen Raketeneinschlag (zwei Kameraden tot); parteiischer, lagerloser Augenzeuge; das eigene Leben wiegt nicht mehr als das eines fremden Kindes, der Drohnenkrieg hat das Hinterland abgeschafft, Pazifismus als Privileg der Fliehenkönnenden
+**[[Gedankenwelten/DenkerVita/Ruben Mawick|Ruben Mawick]]** — Deutscher Combat Medic & humanitärer Helfer (geb. 2002, Westfalen); seit 2023 mehrfach an der Ukraine-Front, überlebte 9.9.2023 einen Raketeneinschlag (zwei Kameraden tot); parteiischer, lagerloser Augenzeuge; das eigene Leben wiegt nicht mehr als das eines fremden Kindes, der Drohnenkrieg hat das Hinterland abgeschafft, Pazifismus als Privileg der Fliehenkönnenden
 
-**[[DenkerVita/Michael Hartmann|Michael Hartmann]]** — Soziologe, Elitenforscher, em. Professor TU Darmstadt; Elite = Macht (nicht Netzwerk); soziale Herkunft determiniert Elitenpositionen; neoliberale Elite-Politik erzeugt Rechtspopulismus; Myth of Performance Elites empirisch widerlegt; Habitus, Erbgesellschaft, Studiengebühren als Demokratiegefahr
+**[[Gedankenwelten/DenkerVita/Michael Hartmann|Michael Hartmann]]** — Soziologe, Elitenforscher, em. Professor TU Darmstadt; Elite = Macht (nicht Netzwerk); soziale Herkunft determiniert Elitenpositionen; neoliberale Elite-Politik erzeugt Rechtspopulismus; Myth of Performance Elites empirisch widerlegt; Habitus, Erbgesellschaft, Studiengebühren als Demokratiegefahr
 
-**[[DenkerVita/Michael Sterner|Michael Sterner]]** — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; dezentrale Wertschöpfung, Technologieoffenheit, wissenschaftliche Freiheit
+**[[Gedankenwelten/DenkerVita/Michael Sterner|Michael Sterner]]** — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; dezentrale Wertschöpfung, Technologieoffenheit, wissenschaftliche Freiheit
 
-**[[DenkerVita/Christoph Mueller|Christoph Müller]]** — Vorsitzender der Geschäftsführung (CEO) des Übertragungsnetzbetreibers Amprion (seit 2025), zuvor 2015–2024 Chef von Netze BW; promovierter Volkswirt; ohne Höchstspannungs-Netzausbau keine Energiewende, flexiblere bedarfsorientierte Netzplanung (~92 Mrd. Euro Einsparpotenzial), Versorgungssicherheit als Standard
+**[[Gedankenwelten/DenkerVita/Christoph Mueller|Christoph Müller]]** — Vorsitzender der Geschäftsführung (CEO) des Übertragungsnetzbetreibers Amprion (seit 2025), zuvor 2015–2024 Chef von Netze BW; promovierter Volkswirt; ohne Höchstspannungs-Netzausbau keine Energiewende, flexiblere bedarfsorientierte Netzplanung (~92 Mrd. Euro Einsparpotenzial), Versorgungssicherheit als Standard
 
-**[[DenkerVita/Janina Muetze|Janina Mütze]]** — Mitgründerin und Geschäftsführerin (COO) des Meinungsforschungsunternehmens Civey (gegr. 2015, mit 24), studierte Volkswirtin; digitale Meinungsforschung via gewichtete Online-Erhebung, Echtzeit-Stimmungsbilder, die schweigende Mitte sichtbar machen; im Zentrum des Repräsentativitäts-Streits der Demoskopie
+**[[Gedankenwelten/DenkerVita/Janina Muetze|Janina Mütze]]** — Mitgründerin und Geschäftsführerin (COO) des Meinungsforschungsunternehmens Civey (gegr. 2015, mit 24), studierte Volkswirtin; digitale Meinungsforschung via gewichtete Online-Erhebung, Echtzeit-Stimmungsbilder, die schweigende Mitte sichtbar machen; im Zentrum des Repräsentativitäts-Streits der Demoskopie
 
-**[[DenkerVita/Michel Foucault|Michel Foucault]]** — Macht, Diskurs, Disziplinargesellschaft, Aufklärung als Ethos
+**[[Gedankenwelten/DenkerVita/Michel Foucault|Michel Foucault]]** — Macht, Diskurs, Disziplinargesellschaft, Aufklärung als Ethos
 
-**[[DenkerVita/Michel Friedman|Michel Friedman]]** — Jurist, Publizist, Fernsehmoderator; Kind polnisch-jüdischer Holocaust-Überlebender; Heuchelei als demokratischer Befund, Antisemitismus als Querspektrum-Phänomen
+**[[Gedankenwelten/DenkerVita/Michel Friedman|Michel Friedman]]** — Jurist, Publizist, Fernsehmoderator; Kind polnisch-jüdischer Holocaust-Überlebender; Heuchelei als demokratischer Befund, Antisemitismus als Querspektrum-Phänomen
 
-**[[DenkerVita/Catrin Misselhorn|Catrin Misselhorn]]** — Philosophin (Prof. Universität Göttingen); Vordenkerin der Maschinen- und Roboterethik in Deutschland; drei Grundsätze moralischer Maschinen (Selbstbestimmung fördern, nicht über Leben/Tod entscheiden, menschliche Letztverantwortung), Empathie als Moralquelle auch gegenüber Robotern, Uncanny Valley, gemäßigter Naturalismus; *Grundfragen der Maschinenethik*, *Künstliche Intelligenz und Empathie*
+**[[Gedankenwelten/DenkerVita/Catrin Misselhorn|Catrin Misselhorn]]** — Philosophin (Prof. Universität Göttingen); Vordenkerin der Maschinen- und Roboterethik in Deutschland; drei Grundsätze moralischer Maschinen (Selbstbestimmung fördern, nicht über Leben/Tod entscheiden, menschliche Letztverantwortung), Empathie als Moralquelle auch gegenüber Robotern, Uncanny Valley, gemäßigter Naturalismus; *Grundfragen der Maschinenethik*, *Künstliche Intelligenz und Empathie*
 
-**[[DenkerVita/Maoz Inon|Maoz Inon]]** — Israelischer Sozialunternehmer & Friedensaktivist, Gründer der Abraham-Hostels, des Jesus Trail und Fauzi Azar Inn, Co-CEO InterAct International; verlor seine Eltern am 7. Oktober 2023 und wählte öffentlich Frieden statt Rache; Co-Autor The Future Is Peace (2026)
+**[[Gedankenwelten/DenkerVita/Maoz Inon|Maoz Inon]]** — Israelischer Sozialunternehmer & Friedensaktivist, Gründer der Abraham-Hostels, des Jesus Trail und Fauzi Azar Inn, Co-CEO InterAct International; verlor seine Eltern am 7. Oktober 2023 und wählte öffentlich Frieden statt Rache; Co-Autor The Future Is Peace (2026)
 
-**[[DenkerVita/Rainer Mausfeld|Rainer Mausfeld]]** — Wahrnehmungspsychologe und Kognitionsforscher (Uni Kiel, emeritiert); anerkannter Grundlagenforscher, ab 2015 machtkritischer Analytiker von Meinungsmanagement und „Demokratie-Management“; *Warum schweigen die Lämmer?* (2018), *Angst und Macht* (2019), *Hybris und Nemesis* (2023)
+**[[Gedankenwelten/DenkerVita/Rainer Mausfeld|Rainer Mausfeld]]** — Wahrnehmungspsychologe und Kognitionsforscher (Uni Kiel, emeritiert); anerkannter Grundlagenforscher, ab 2015 machtkritischer Analytiker von Meinungsmanagement und „Demokratie-Management“; *Warum schweigen die Lämmer?* (2018), *Angst und Macht* (2019), *Hybris und Nemesis* (2023)
 
-**[[DenkerVita/Albert Moukheiber|Albert Moukheiber]]** — Kognitiver Neurowissenschaftler, klinischer Psychologe und Amateurzauberer (*1982, Libanon; Paris); Kritik der „Neuromania“ und der Hirn-Mythen, Mitgründer des Kollektivs Chiasma für kritisches Denken; *Votre cerveau vous joue des tours* (2019), *Neuromania* (2024)
+**[[Gedankenwelten/DenkerVita/Albert Moukheiber|Albert Moukheiber]]** — Kognitiver Neurowissenschaftler, klinischer Psychologe und Amateurzauberer (*1982, Libanon; Paris); Kritik der „Neuromania“ und der Hirn-Mythen, Mitgründer des Kollektivs Chiasma für kritisches Denken; *Votre cerveau vous joue des tours* (2019), *Neuromania* (2024)
 
-**[[DenkerVita/Mae Bengert|Mae Bengert]]** — Literatur- und Religionswissenschaftlerin (Literatur, Religion und Gender Studies in romanischen Kulturen, HU Berlin), Mitgründerin des Simone Weil denʞkollektiv; Weil als Mystikerin und Lehrerin der Aufmerksamkeit, Blanchot-Forscherin; *Nachtdenken*, *Santa Teresa* (Hrsg.)
+**[[Gedankenwelten/DenkerVita/Mae Bengert|Mae Bengert]]** — Literatur- und Religionswissenschaftlerin (Literatur, Religion und Gender Studies in romanischen Kulturen, HU Berlin), Mitgründerin des Simone Weil denʞkollektiv; Weil als Mystikerin und Lehrerin der Aufmerksamkeit, Blanchot-Forscherin; *Nachtdenken*, *Santa Teresa* (Hrsg.)
 
-**[[DenkerVita/Mithu Sanyal|Mithu Sanyal]]** — Mithu Sanyal schreibt über Vulva, Vergewaltigung und Identität mit Witz und Theorie und sagt seit 2026 laut „Nein“ zu einer Aufrüstung, die viele Linke für alternativlos halten.
+**[[Gedankenwelten/DenkerVita/Mithu Sanyal|Mithu Sanyal]]** — Mithu Sanyal schreibt über Vulva, Vergewaltigung und Identität mit Witz und Theorie und sagt seit 2026 laut „Nein“ zu einer Aufrüstung, die viele Linke für alternativlos halten.
 
-**[[DenkerVita/Marina Weisband|Marina Weisband]]** — Demokratie beginnt im Kinderparlament: Marina Weisband, Psychologin und einst Gesicht der Piraten, will Menschen vom Kunden zum Mitbestimmer machen, gegen Angst und Bürokratie.
+**[[Gedankenwelten/DenkerVita/Marina Weisband|Marina Weisband]]** — Demokratie beginnt im Kinderparlament: Marina Weisband, Psychologin und einst Gesicht der Piraten, will Menschen vom Kunden zum Mitbestimmer machen, gegen Angst und Bürokratie.
 
-**[[DenkerVita/Rainer Mühlhoff|Rainer Mühlhoff]]** — Philosoph und Mathematiker, Professor für Ethik der KI an der Universität Osnabrück; *Künstliche Intelligenz und der neue Faschismus* (Reclam 2025, Preis „Das politische Buch 2026"), prädiktive Privatheit, Zweckbindung für KI-Modelle, die Tech-Industrie als „Betriebssystem von Staatsmacht"
+**[[Gedankenwelten/DenkerVita/Rainer Mühlhoff|Rainer Mühlhoff]]** — Philosoph und Mathematiker, Professor für Ethik der KI an der Universität Osnabrück; *Künstliche Intelligenz und der neue Faschismus* (Reclam 2025, Preis „Das politische Buch 2026"), prädiktive Privatheit, Zweckbindung für KI-Modelle, die Tech-Industrie als „Betriebssystem von Staatsmacht"
 
 ## N
 
-**[[DenkerVita/Paul Ninus Naujoks|Paul Ninus Naujoks]]** — Autor, Speaker und trans Aktivist aus Hamburg (*1995), erzählt in Kurzgeschichten vom Weg eines trans Mannes in die Männlichkeit
+**[[Gedankenwelten/DenkerVita/Paul Ninus Naujoks|Paul Ninus Naujoks]]** — Autor, Speaker und trans Aktivist aus Hamburg (*1995), erzählt in Kurzgeschichten vom Weg eines trans Mannes in die Männlichkeit
 
-**[[DenkerVita/Ole Nymoen|Ole Nymoen]]** — Journalist und Podcaster (*Wohlstand für Alle*), Jahrgang 1998; *Warum ich niemals für mein Land kämpfen würde* (2025) — Antimilitarist, der die Wehrpflicht vom Verhältnis zwischen Staat und Bürger her kritisiert
+**[[Gedankenwelten/DenkerVita/Ole Nymoen|Ole Nymoen]]** — Journalist und Podcaster (*Wohlstand für Alle*), Jahrgang 1998; *Warum ich niemals für mein Land kämpfen würde* (2025) — Antimilitarist, der die Wehrpflicht vom Verhältnis zwischen Staat und Bürger her kritisiert
 
-**[[DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]** — Kenianischer Schriftsteller und Literaturwissenschaftler (1938–2025); Kenias bedeutendster Romancier, Vordenker der Dekolonisierung; verwarf 1970 das Englische für seine Muttersprache Gĩkũyũ, 1977/78 ohne Anklage inhaftiert, Exil bis 2002, zuletzt Distinguished Professor UC Irvine; *Decolonising the Mind* — Sprache als Träger von Kultur und Gedächtnis
+**[[Gedankenwelten/DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]** — Kenianischer Schriftsteller und Literaturwissenschaftler (1938–2025); Kenias bedeutendster Romancier, Vordenker der Dekolonisierung; verwarf 1970 das Englische für seine Muttersprache Gĩkũyũ, 1977/78 ohne Anklage inhaftiert, Exil bis 2002, zuletzt Distinguished Professor UC Irvine; *Decolonising the Mind* — Sprache als Träger von Kultur und Gedächtnis
 
-**[[DenkerVita/Ninia LaGrande|Ninia LaGrande]]** — Moderatorin, Autorin, Slam-Poetin (geb. 1983 Hannover); Mitgründerin #ausnahmslos (2016), Clara-Zetkin-Frauenpreis; moderiert für Bundespräsidialamt und Bundesministerien; G7-Gleichstellungsbeirat 2022; Büro für Popkultur GmbH
+**[[Gedankenwelten/DenkerVita/Ninia LaGrande|Ninia LaGrande]]** — Moderatorin, Autorin, Slam-Poetin (geb. 1983 Hannover); Mitgründerin #ausnahmslos (2016), Clara-Zetkin-Frauenpreis; moderiert für Bundespräsidialamt und Bundesministerien; G7-Gleichstellungsbeirat 2022; Büro für Popkultur GmbH
 
-**[[DenkerVita/Niclas Seydack|Niclas Seydack]]** — Freier Reporter und Publizist, schreibt für Die Zeit, Spiegel, SZ Magazin; Autor von *Geile Zeit*; Scharnier-Generation zwischen Sorglosigkeit und Dauerkrise
+**[[Gedankenwelten/DenkerVita/Niclas Seydack|Niclas Seydack]]** — Freier Reporter und Publizist, schreibt für Die Zeit, Spiegel, SZ Magazin; Autor von *Geile Zeit*; Scharnier-Generation zwischen Sorglosigkeit und Dauerkrise
 
-**[[DenkerVita/Nicole Bendsen|Nicole Bendsen]]** — Partnership Manager bei Circular Berlin (Kreislaufwirtschaft); lineare Wirtschaft als gemeinsames Betriebssystem der Krisen, „Externalitäten“ verharmlost die realen Kosten, Zirkularität als Risikominimierung statt Moral (Circular Value Program)
+**[[Gedankenwelten/DenkerVita/Nicole Bendsen|Nicole Bendsen]]** — Partnership Manager bei Circular Berlin (Kreislaufwirtschaft); lineare Wirtschaft als gemeinsames Betriebssystem der Krisen, „Externalitäten“ verharmlost die realen Kosten, Zirkularität als Risikominimierung statt Moral (Circular Value Program)
 
-**[[DenkerVita/Nicole Buettner|Nicole Büttner]]** — Tech-Unternehmerin, KI-Wirtschaftsexpertin (geb. 1985); Gründerin & CEO Merantix Momentum (KI-Beratung); Generalsekretärin FDP Mai 2025–Mai 2026; Co-Gründerin AI Campus Berlin; Investorin in Early-Stage KI-Startups; WEF Digital Leader of Europe; liberal-marktwirtschaftliche Agenda für europäische KI-Souveränität durch Unternehmertum, nicht Isolation
+**[[Gedankenwelten/DenkerVita/Nicole Buettner|Nicole Büttner]]** — Tech-Unternehmerin, KI-Wirtschaftsexpertin (geb. 1985); Gründerin & CEO Merantix Momentum (KI-Beratung); Generalsekretärin FDP Mai 2025–Mai 2026; Co-Gründerin AI Campus Berlin; Investorin in Early-Stage KI-Startups; WEF Digital Leader of Europe; liberal-marktwirtschaftliche Agenda für europäische KI-Souveränität durch Unternehmertum, nicht Isolation
 
-**[[DenkerVita/Nicole Deitelhoff|Nicole Deitelhoff]]** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen, Goethe-Universität Frankfurt; Geschäftsführende Direktorin PRIF/HSFK, Co-Moderatorin StreitClub
+**[[Gedankenwelten/DenkerVita/Nicole Deitelhoff|Nicole Deitelhoff]]** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen, Goethe-Universität Frankfurt; Geschäftsführende Direktorin PRIF/HSFK, Co-Moderatorin StreitClub
 
-**[[DenkerVita/Niklas Luhmann|Niklas Luhmann]]** — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
+**[[Gedankenwelten/DenkerVita/Niklas Luhmann|Niklas Luhmann]]** — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
 
-**[[DenkerVita/Susan Neiman|Susan Neiman]]** — Moralphilosophin (US-amerikanisch-deutsch-israelisch, geb. 1955 Atlanta), Rawls-Schülerin, 2000–2026 Direktorin des Einstein Forums Potsdam, SPD-Grundwertekommission; das Böse als Prüfstein der Philosophie, moralische Klarheit für die Linke, Universalismus gegen Stammesdenken; *Das Böse denken*, *Von den Deutschen lernen*, *Links ≠ woke*, *Nennen wir es böse* (2026); streitbare Kritikerin der deutschen Israel- und Erinnerungspolitik
+**[[Gedankenwelten/DenkerVita/Susan Neiman|Susan Neiman]]** — Moralphilosophin (US-amerikanisch-deutsch-israelisch, geb. 1955 Atlanta), Rawls-Schülerin, 2000–2026 Direktorin des Einstein Forums Potsdam, SPD-Grundwertekommission; das Böse als Prüfstein der Philosophie, moralische Klarheit für die Linke, Universalismus gegen Stammesdenken; *Das Böse denken*, *Von den Deutschen lernen*, *Links ≠ woke*, *Nennen wir es böse* (2026); streitbare Kritikerin der deutschen Israel- und Erinnerungspolitik
 
-**[[DenkerVita/Wolfgang Niess|Wolfgang Niess]]** — Historiker und Journalist, lange leitender Redakteur beim SWR; Geschichtsschreiber der Revolution von 1918/19 und des 9. November, der im Datum einen roten Faden des Erinnerns sieht und für einen nationalen Gedenktag wirbt
+**[[Gedankenwelten/DenkerVita/Wolfgang Niess|Wolfgang Niess]]** — Historiker und Journalist, lange leitender Redakteur beim SWR; Geschichtsschreiber der Revolution von 1918/19 und des 9. November, der im Datum einen roten Faden des Erinnerns sieht und für einen nationalen Gedenktag wirbt
 
-**[[DenkerVita/Bjoern Noelte|Björn Nölte]]** — Lehrer, Lehrerbildner und Schulaufsicht der Evangelischen Schulstiftung in der EKBO; Mitgründer des Instituts für zeitgemäße Prüfungskultur, mit Philippe Wampfler *Eine Schule ohne Noten* (2021): Lerndialoge, Portfolios und Feedforward statt Ziffern
+**[[Gedankenwelten/DenkerVita/Bjoern Noelte|Björn Nölte]]** — Lehrer, Lehrerbildner und Schulaufsicht der Evangelischen Schulstiftung in der EKBO; Mitgründer des Instituts für zeitgemäße Prüfungskultur, mit Philippe Wampfler *Eine Schule ohne Noten* (2021): Lerndialoge, Portfolios und Feedforward statt Ziffern
 
-**[[DenkerVita/Anna-Verena Nosthoff|Anna-Verena Nosthoff]]** — Philosophin, Juniorprofessorin für Ethik der Digitalisierung an der Universität Oldenburg, Ko-Direktorin des Critical Data Lab; *Kybernetik und Kritik* (Suhrkamp 2026) — legt die kybernetische Steuerungslogik unter Plattformmacht, prädiktiver Analytik und den Weltbildern der Tech-Eliten frei
+**[[Gedankenwelten/DenkerVita/Anna-Verena Nosthoff|Anna-Verena Nosthoff]]** — Philosophin, Juniorprofessorin für Ethik der Digitalisierung an der Universität Oldenburg, Ko-Direktorin des Critical Data Lab; *Kybernetik und Kritik* (Suhrkamp 2026) — legt die kybernetische Steuerungslogik unter Plattformmacht, prädiktiver Analytik und den Weltbildern der Tech-Eliten frei
 
 ## O
 
-**[[DenkerVita/Frederik Obermaier|Frederik Obermaier]]** — investigativer Journalist (Panama Papers, Pulitzer 2017, paper trail media, ICIJ); Datenlecks, Steueroasen und digitale Beweise für Völkerstrafverfahren
+**[[Gedankenwelten/DenkerVita/Frederik Obermaier|Frederik Obermaier]]** — investigativer Journalist (Panama Papers, Pulitzer 2017, paper trail media, ICIJ); Datenlecks, Steueroasen und digitale Beweise für Völkerstrafverfahren
 
-**[[DenkerVita/Ken Ono|Ken Ono]]** — Zahlentheoretiker (Ramanujan, Modulformen, Partitionen) & „Founding Mathematician" bei Axiom Math; menschliche Intelligenz und die gute Frage im KI-Zeitalter
+**[[Gedankenwelten/DenkerVita/Ken Ono|Ken Ono]]** — Zahlentheoretiker (Ramanujan, Modulformen, Partitionen) & „Founding Mathematician" bei Axiom Math; menschliche Intelligenz und die gute Frage im KI-Zeitalter
 
-**[[DenkerVita/Martin Oetting|Martin Oetting]]** — Marktforscher & politischer Essayist; Postwachstums-Ökonomie, ökonomische Sackgasse als Nährboden des Faschismus, Initiative System Delta
+**[[Gedankenwelten/DenkerVita/Martin Oetting|Martin Oetting]]** — Marktforscher & politischer Essayist; Postwachstums-Ökonomie, ökonomische Sackgasse als Nährboden des Faschismus, Initiative System Delta
 
-**[[DenkerVita/Arnaud Orain|Arnaud Orain]]** — Wirtschaftshistoriker & Ökonom (EHESS Paris); der Kapitalismus pendelt zwischen liberalen Phasen und einem „Kapitalismus der Endlichkeit“ aus Monopolen, militarisierten Meeren und Landnahme — seit 2010 wieder letzterer
+**[[Gedankenwelten/DenkerVita/Arnaud Orain|Arnaud Orain]]** — Wirtschaftshistoriker & Ökonom (EHESS Paris); der Kapitalismus pendelt zwischen liberalen Phasen und einem „Kapitalismus der Endlichkeit“ aus Monopolen, militarisierten Meeren und Landnahme — seit 2010 wieder letzterer
 
-**[[DenkerVita/Dirk Oschmann|Dirk Oschmann]]** — Literaturwissenschaftler (Leipzig), liest „den Osten“ als westdeutsche Zuschreibung und die Ost-West-Ungleichheit als materielle Frage; Gegenspieler von Kowalczuks „Freiheitsschock“
+**[[Gedankenwelten/DenkerVita/Dirk Oschmann|Dirk Oschmann]]** — Literaturwissenschaftler (Leipzig), liest „den Osten“ als westdeutsche Zuschreibung und die Ost-West-Ungleichheit als materielle Frage; Gegenspieler von Kowalczuks „Freiheitsschock“
 
 ## P
 
-**[[DenkerVita/Hanna Pfeifer|Hanna Pfeifer]]** — Politikwissenschaft, Gewalt- und Konfliktforschung; leitet am IFSH Hamburg den Forschungsbereich Gesellschaftlicher Frieden und Innere Sicherheit und erforscht, wie islamistische und jihadistische Akteure in Westasien und Nordafrika Ordnung bilden; las 2022 Simone Weils Ilias-Essay als Gewaltforscherin
+**[[Gedankenwelten/DenkerVita/Hanna Pfeifer|Hanna Pfeifer]]** — Politikwissenschaft, Gewalt- und Konfliktforschung; leitet am IFSH Hamburg den Forschungsbereich Gesellschaftlicher Frieden und Innere Sicherheit und erforscht, wie islamistische und jihadistische Akteure in Westasien und Nordafrika Ordnung bilden; las 2022 Simone Weils Ilias-Essay als Gewaltforscherin
 
-**[[DenkerVita/Bernd Pickert|Bernd Pickert]]** — Journalist, seit 1994 in der taz-Auslandsredaktion (USA, Lateinamerika, Menschenrechte); hält Trump nach den Midterms für keine lahme Ente und das Ergebnis für eine Brandmauerwahl
+**[[Gedankenwelten/DenkerVita/Bernd Pickert|Bernd Pickert]]** — Journalist, seit 1994 in der taz-Auslandsredaktion (USA, Lateinamerika, Menschenrechte); hält Trump nach den Midterms für keine lahme Ente und das Ergebnis für eine Brandmauerwahl
 
-**[[DenkerVita/Witold Pilecki|Witold Pilecki]]** — Widerstandskämpfer, ließ sich 1940 nach Auschwitz verhaften, um zu berichten; 1948 vom kommunistischen Regime hingerichtet, heute Staatsheld und umkämpftes Symbol
+**[[Gedankenwelten/DenkerVita/Witold Pilecki|Witold Pilecki]]** — Widerstandskämpfer, ließ sich 1940 nach Auschwitz verhaften, um zu berichten; 1948 vom kommunistischen Regime hingerichtet, heute Staatsheld und umkämpftes Symbol
 
-**[[DenkerVita/Barbara Prainsack|Barbara Prainsack]]** — Politikwissenschaft (Universität Wien), versteht Solidarität als Praxis und Gestaltungsprinzip für Institutionen, von der Medizin über Daten bis zum Klima.
+**[[Gedankenwelten/DenkerVita/Barbara Prainsack|Barbara Prainsack]]** — Politikwissenschaft (Universität Wien), versteht Solidarität als Praxis und Gestaltungsprinzip für Institutionen, von der Medizin über Daten bis zum Klima.
 
-**[[DenkerVita/Patrick Legun|Patrick Legun]]** — Aktivist, Filmemacher und Lehramtsstudent aus Aachen, Gründer der Hilfsorganisation humanvoll; von „Random Acts of Kindness“ auf Social Media zur Reportage aus den pakistanischen Ziegeleien — Freikauf aus der Schuldknechtschaft, Hilfe mit Mitbestimmung statt Spendenapparat
+**[[Gedankenwelten/DenkerVita/Patrick Legun|Patrick Legun]]** — Aktivist, Filmemacher und Lehramtsstudent aus Aachen, Gründer der Hilfsorganisation humanvoll; von „Random Acts of Kindness“ auf Social Media zur Reportage aus den pakistanischen Ziegeleien — Freikauf aus der Schuldknechtschaft, Hilfe mit Mitbestimmung statt Spendenapparat
 
-**[[DenkerVita/Paul Heck|Paul Heck]]** — Islamwissenschaftler (Georgetown, römisch-katholisch); Skeptizismus im klassischen Islam, politische Theologie, religiöser Pluralismus — Religion als etwas Größeres als Identität, „Epistemologie der Freundschaft“
+**[[Gedankenwelten/DenkerVita/Paul Heck|Paul Heck]]** — Islamwissenschaftler (Georgetown, römisch-katholisch); Skeptizismus im klassischen Islam, politische Theologie, religiöser Pluralismus — Religion als etwas Größeres als Identität, „Epistemologie der Freundschaft“
 
-**[[DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
+**[[Gedankenwelten/DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
 
-**[[DenkerVita/Pascal Kaufmann|Pascal Kaufmann]]** — Neurowissenschaftler & Unternehmer (Schweiz); Mitgründer von Starmind (2010), Lab42 (2022) und AlpineAI (2023, SwissGPT), Gründer der Mindfire-Stiftung (2017); will den „Brain Code“ knacken und hält Vertrauen für das, was KI-Modelle noch unterscheidet
+**[[Gedankenwelten/DenkerVita/Pascal Kaufmann|Pascal Kaufmann]]** — Neurowissenschaftler & Unternehmer (Schweiz); Mitgründer von Starmind (2010), Lab42 (2022) und AlpineAI (2023, SwissGPT), Gründer der Mindfire-Stiftung (2017); will den „Brain Code“ knacken und hält Vertrauen für das, was KI-Modelle noch unterscheidet
 
-**[[DenkerVita/Blaise Pascal|Blaise Pascal]]** — Mathematiker, Physiker, Erfinder und religiöser Denker (1623–1662); Wahrscheinlichkeitsrechnung mit Fermat, Rechenmaschine, Nachweis von Luftdruck und Vakuum — nach der mystischen Nacht von 1654 die Wende zur Menschenbetrachtung; die unvollendeten *Pensées* (postum 1670)
+**[[Gedankenwelten/DenkerVita/Blaise Pascal|Blaise Pascal]]** — Mathematiker, Physiker, Erfinder und religiöser Denker (1623–1662); Wahrscheinlichkeitsrechnung mit Fermat, Rechenmaschine, Nachweis von Luftdruck und Vakuum — nach der mystischen Nacht von 1654 die Wende zur Menschenbetrachtung; die unvollendeten *Pensées* (postum 1670)
 
-**[[DenkerVita/Pankaj Mishra|Pankaj Mishra]]** — indischer Essayist, Romancier und Ideenhistoriker (*1969, Jhansi); autodidaktischer postkolonialer Kritiker des westlichen Liberalismus, schreibt für LRB/NYRB; Kernthese in *Age of Anger* (2017): das Ressentiment als Signatur der Moderne, die globale Wut als Erbe des gebrochenen Aufklärungsversprechens (Rousseau gegen Voltaire); *From the Ruins of Empire* (2012), *The World After Gaza* (2025)
+**[[Gedankenwelten/DenkerVita/Pankaj Mishra|Pankaj Mishra]]** — indischer Essayist, Romancier und Ideenhistoriker (*1969, Jhansi); autodidaktischer postkolonialer Kritiker des westlichen Liberalismus, schreibt für LRB/NYRB; Kernthese in *Age of Anger* (2017): das Ressentiment als Signatur der Moderne, die globale Wut als Erbe des gebrochenen Aufklärungsversprechens (Rousseau gegen Voltaire); *From the Ruins of Empire* (2012), *The World After Gaza* (2025)
 
-**[[DenkerVita/Peter Thiel|Peter Thiel]]** — Investor (PayPal, Palantir, Facebook), libertärer Denker; „freedom and democracy are compatible“ nicht mehr; Monopol, Girard, Ausstieg aus der Demokratie
+**[[Gedankenwelten/DenkerVita/Peter Thiel|Peter Thiel]]** — Investor (PayPal, Palantir, Facebook), libertärer Denker; „freedom and democracy are compatible“ nicht mehr; Monopol, Girard, Ausstieg aus der Demokratie
 
-**[[DenkerVita/Vijay Prashad|Vijay Prashad]]** — indischer Historiker, Journalist und Marxist (*1967, Kolkata); Direktor von Tricontinental: Institute for Social Research, Chefredakteur LeftWord Books; die Dritte Welt als *Projekt* statt als Ort (*The Darker Nations*, 2007), Hyperimperialismus, „neue Stimmung im Globalen Süden“, Kerala als gelebtes Beispiel — quellenreich nach außen, umstritten wegen seiner Haltung zu China, Syrien und Venezuela
+**[[Gedankenwelten/DenkerVita/Vijay Prashad|Vijay Prashad]]** — indischer Historiker, Journalist und Marxist (*1967, Kolkata); Direktor von Tricontinental: Institute for Social Research, Chefredakteur LeftWord Books; die Dritte Welt als *Projekt* statt als Ort (*The Darker Nations*, 2007), Hyperimperialismus, „neue Stimmung im Globalen Süden“, Kerala als gelebtes Beispiel — quellenreich nach außen, umstritten wegen seiner Haltung zu China, Syrien und Venezuela
 
-**[[DenkerVita/Richard David Precht|Richard David Precht]]** — Philosoph und Publizist (*1964, Solingen), Bestsellerautor, ZDF-Sendung *Precht* und Podcast *Lanz + Precht*; trägt die Philosophie ins breite Publikum und widerspricht dem Konsens — Pflichtjahre, Grundeinkommen, Medienkritik (*Die vierte Gewalt*), Skepsis gegen Waffenlieferungen
+**[[Gedankenwelten/DenkerVita/Richard David Precht|Richard David Precht]]** — Philosoph und Publizist (*1964, Solingen), Bestsellerautor, ZDF-Sendung *Precht* und Podcast *Lanz + Precht*; trägt die Philosophie ins breite Publikum und widerspricht dem Konsens — Pflichtjahre, Grundeinkommen, Medienkritik (*Die vierte Gewalt*), Skepsis gegen Waffenlieferungen
 
 ## Q
 
-**[[DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende
+**[[Gedankenwelten/DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende
 
 ## R
 
-**[[DenkerVita/Benjamin Rathgeber|Benjamin Rathgeber]]** — Technikphilosoph mit Schwerpunkt KI an der Hochschule für Philosophie München, Leiter des Instituts für naturwissenschaftliche Grenzfragen; Autonomie heißt sich selbst bestimmen, Automatisierung von selbst ablaufen
+**[[Gedankenwelten/DenkerVita/Benjamin Rathgeber|Benjamin Rathgeber]]** — Technikphilosoph mit Schwerpunkt KI an der Hochschule für Philosophie München, Leiter des Instituts für naturwissenschaftliche Grenzfragen; Autonomie heißt sich selbst bestimmen, Automatisierung von selbst ablaufen
 
-**[[DenkerVita/Hedwig Richter|Hedwig Richter]]** — Historikerin, Professorin für Neuere und Neueste Geschichte an der Universität der Bundeswehr München (seit 2020, vorher Hamburger Institut für Sozialforschung); *Moderne Wahlen* (2017), *Demokratie. Eine deutsche Affäre* (2020, in der Zunft heftig umstritten), *Demokratie und Revolution* (2024, mit Bernd Ulrich); erzählt Demokratiegeschichte über Wahllokal, Körper und Reformen statt über Barrikaden
+**[[Gedankenwelten/DenkerVita/Hedwig Richter|Hedwig Richter]]** — Historikerin, Professorin für Neuere und Neueste Geschichte an der Universität der Bundeswehr München (seit 2020, vorher Hamburger Institut für Sozialforschung); *Moderne Wahlen* (2017), *Demokratie. Eine deutsche Affäre* (2020, in der Zunft heftig umstritten), *Demokratie und Revolution* (2024, mit Bernd Ulrich); erzählt Demokratiegeschichte über Wahllokal, Körper und Reformen statt über Barrikaden
 
-**[[DenkerVita/Veit Roessner|Veit Roessner]]** — Kinder- und Jugendpsychiater, seit 2009 Direktor der Kinder- und Jugendpsychiatrie am Uniklinikum Dresden; Tic-Störungen, Tourette, ADHS, Zwänge (Erstautor der europäischen Tourette-Leitlinie zur Medikation); These: die Gene sind dieselben wie bei den Urgroßeltern, die Welt nicht, und wer Kindern alles Negative fernhält, handelt kontraproduktiv
+**[[Gedankenwelten/DenkerVita/Veit Roessner|Veit Roessner]]** — Kinder- und Jugendpsychiater, seit 2009 Direktor der Kinder- und Jugendpsychiatrie am Uniklinikum Dresden; Tic-Störungen, Tourette, ADHS, Zwänge (Erstautor der europäischen Tourette-Leitlinie zur Medikation); These: die Gene sind dieselben wie bei den Urgroßeltern, die Welt nicht, und wer Kindern alles Negative fernhält, handelt kontraproduktiv
 
-**[[DenkerVita/Jutta Roosen|Jutta Roosen]]** — Agrar- und Konsumökonomin, Lehrstuhl für Marketing und Konsumforschung an der TU München, Mitherausgeberin von *Food Policy*, seit 2026 im WBAE; Ernährungspolitik als Dreieck aus Information, Preis und Rezeptur — die Effekte sind klein, aber gerichtet, und nur die Kombination trägt
+**[[Gedankenwelten/DenkerVita/Jutta Roosen|Jutta Roosen]]** — Agrar- und Konsumökonomin, Lehrstuhl für Marketing und Konsumforschung an der TU München, Mitherausgeberin von *Food Policy*, seit 2026 im WBAE; Ernährungspolitik als Dreieck aus Information, Preis und Rezeptur — die Effekte sind klein, aber gerichtet, und nur die Kombination trägt
 
-**[[DenkerVita/Paul Ricoeur|Paul Ricœur]]** — französischer Philosoph (1913–2005), Phänomenologe und Hermeneutiker, Professor in Straßburg, an der Sorbonne, in Nanterre und Chicago; Denker des langen Umwegs — zweite Naivität, Hermeneutik des Verdachts und des Vertrauens, narrative Identität, die kleine Ethik (das gute Leben, mit und für andere, in gerechten Institutionen); *Die Symbolik des Bösen* (1960), *Zeit und Erzählung* (1983–85), *Das Selbst als ein Anderer* (1990), *Gedächtnis, Geschichte, Vergessen* (2000)
+**[[Gedankenwelten/DenkerVita/Paul Ricoeur|Paul Ricœur]]** — französischer Philosoph (1913–2005), Phänomenologe und Hermeneutiker, Professor in Straßburg, an der Sorbonne, in Nanterre und Chicago; Denker des langen Umwegs — zweite Naivität, Hermeneutik des Verdachts und des Vertrauens, narrative Identität, die kleine Ethik (das gute Leben, mit und für andere, in gerechten Institutionen); *Die Symbolik des Bösen* (1960), *Zeit und Erzählung* (1983–85), *Das Selbst als ein Anderer* (1990), *Gedächtnis, Geschichte, Vergessen* (2000)
 
-**[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
+**[[Gedankenwelten/DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
 
-**[[DenkerVita/Katherina Reiche|Katherina Reiche]]** — Energie- und Wirtschaftspolitikerin (CDU), Bundeswirtschaftsministerin seit 2025; zweimal durch die Drehtür zwischen Politik und Energiewirtschaft (VKU, E.ON/Westenergie), heute oberste Regulatorin der Branche, aus der sie kam
+**[[Gedankenwelten/DenkerVita/Katherina Reiche|Katherina Reiche]]** — Energie- und Wirtschaftspolitikerin (CDU), Bundeswirtschaftsministerin seit 2025; zweimal durch die Drehtür zwischen Politik und Energiewirtschaft (VKU, E.ON/Westenergie), heute oberste Regulatorin der Branche, aus der sie kam
 
-**[[DenkerVita/Tobias Rüther|Tobias Rüther]]** — Suchtmediziner, Leiter der Tabakambulanz am LMU Klinikum München; Sucht als Krankheit nicht Willensschwäche, „das Problem dahinter", Motivation statt Abschreckung, Warnung vor designten Vape-Einsteigerprodukten
+**[[Gedankenwelten/DenkerVita/Tobias Rüther|Tobias Rüther]]** — Suchtmediziner, Leiter der Tabakambulanz am LMU Klinikum München; Sucht als Krankheit nicht Willensschwäche, „das Problem dahinter", Motivation statt Abschreckung, Warnung vor designten Vape-Einsteigerprodukten
 
-**[[DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping; Gehirn als bayesianische Vorhersagemaschine, Sprache als neuronaler Schalter, Freiheit trainierbar
+**[[Gedankenwelten/DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping; Gehirn als bayesianische Vorhersagemaschine, Sprache als neuronaler Schalter, Freiheit trainierbar
 
-**[[DenkerVita/Rutger Bregman|Rutger Bregman]]** — niederländischer Historiker, Bestsellerautor und Aktivist; *Im Grunde gut*, *Utopien für Realisten*, *Moralische Ambition*; der Mensch ist im Grunde gut, Grundeinkommen, 15-Stunden-Woche, viraler Davos-Auftritt gegen Steuervermeidung
+**[[Gedankenwelten/DenkerVita/Rutger Bregman|Rutger Bregman]]** — niederländischer Historiker, Bestsellerautor und Aktivist; *Im Grunde gut*, *Utopien für Realisten*, *Moralische Ambition*; der Mensch ist im Grunde gut, Grundeinkommen, 15-Stunden-Woche, viraler Davos-Auftritt gegen Steuervermeidung
 
-**[[DenkerVita/Renee DiResta|Renée DiResta]]** — Forscherin am Stanford Internet Observatory; *Invisible Rulers: The People Who Turn Lies into Reality*; Propaganda dezentralisiert, Verstärkung statt Überzeugung
+**[[Gedankenwelten/DenkerVita/Renee DiResta|Renée DiResta]]** — Forscherin am Stanford Internet Observatory; *Invisible Rulers: The People Who Turn Lies into Reality*; Propaganda dezentralisiert, Verstärkung statt Überzeugung
 
-**[[DenkerVita/Ronnie Vuine|Ronnie Vuine]]** — Informatiker, Philosoph und Gründer von Micropsi Industries (Berlin, 2014); aus Joscha Bachs kognitiver Architektur MicroPsi in die Industrierobotik — Roboter, die Bewegungen durch Vormachen lernen (MIRAI); Entzauberer des KI-Diskurses, Skeptiker humanoider Roboter
+**[[Gedankenwelten/DenkerVita/Ronnie Vuine|Ronnie Vuine]]** — Informatiker, Philosoph und Gründer von Micropsi Industries (Berlin, 2014); aus Joscha Bachs kognitiver Architektur MicroPsi in die Industrierobotik — Roboter, die Bewegungen durch Vormachen lernen (MIRAI); Entzauberer des KI-Diskurses, Skeptiker humanoider Roboter
 
-**[[DenkerVita/Robert Musil|Robert Musil]]** — österreichischer Schriftsteller & Essayist (1880–1942), Ingenieur und Ernst-Mach-Kenner; Möglichkeitssinn vs. Wirklichkeitssinn, Einheit von Präzision und Seele, der „andere Zustand"; *Die Verwirrungen des Zöglings Törleß* (1906), *Der Mann ohne Eigenschaften* (unvollendet); vom NS verboten, im Genfer Exil verarmt gestorben
+**[[Gedankenwelten/DenkerVita/Robert Musil|Robert Musil]]** — österreichischer Schriftsteller & Essayist (1880–1942), Ingenieur und Ernst-Mach-Kenner; Möglichkeitssinn vs. Wirklichkeitssinn, Einheit von Präzision und Seele, der „andere Zustand"; *Die Verwirrungen des Zöglings Törleß* (1906), *Der Mann ohne Eigenschaften* (unvollendet); vom NS verboten, im Genfer Exil verarmt gestorben
 
-**[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Jurist und Journalist, Leitender Redakteur der SZ, Biograf Fritz Bauers; Meinungsfreiheit, Klassenjustiz, Verfassungsschutz als Instrument der Regierung
+**[[Gedankenwelten/DenkerVita/Ronen Steinke|Ronen Steinke]]** — Jurist und Journalist, Leitender Redakteur der SZ, Biograf Fritz Bauers; Meinungsfreiheit, Klassenjustiz, Verfassungsschutz als Instrument der Regierung
 
-**[[DenkerVita/Robin Celikates|Robin Celikates]]** — Sozialphilosoph (FU Berlin), Kritische Theorie in der Frankfurter Linie, Sohn eines türkischen Gastarbeiters; *Kritik als soziale Praxis*, Theorie des zivilen Ungehorsams als Demokratisierung, Faschisierung als Prozess statt Etikett
+**[[Gedankenwelten/DenkerVita/Robin Celikates|Robin Celikates]]** — Sozialphilosoph (FU Berlin), Kritische Theorie in der Frankfurter Linie, Sohn eines türkischen Gastarbeiters; *Kritik als soziale Praxis*, Theorie des zivilen Ungehorsams als Demokratisierung, Faschisierung als Prozess statt Etikett
 
-**[[DenkerVita/Matthieu Ricard|Matthieu Ricard]]** — Molekularbiologe (Institut Pasteur, promoviert bei Nobelpreisträger François Jacob) und buddhistischer Mönch im Kloster Shechen bei Kathmandu; Dolmetscher des Dalai Lama, Gründer des Hilfswerks Karuna-Shechen; Altruismus und Glück als trainierbare Fähigkeiten
+**[[Gedankenwelten/DenkerVita/Matthieu Ricard|Matthieu Ricard]]** — Molekularbiologe (Institut Pasteur, promoviert bei Nobelpreisträger François Jacob) und buddhistischer Mönch im Kloster Shechen bei Kathmandu; Dolmetscher des Dalai Lama, Gründer des Hilfswerks Karuna-Shechen; Altruismus und Glück als trainierbare Fähigkeiten
 
-**[[DenkerVita/Moritz Rudolph|Moritz Rudolph]]** — Philosoph, Politikwissenschaftler und Redakteur des *Philosophie Magazins* (Leipzig, geb. 1989); Linkshegelianer aus der Kritischen Theorie — der Weltgeist schwimmt wie ein Lachs stromaufwärts zurück nach China und erscheint als künstliche Intelligenz; *Der Weltgeist als Lachs* (2021), *Einheit und Zerfall* (2025)
+**[[Gedankenwelten/DenkerVita/Moritz Rudolph|Moritz Rudolph]]** — Philosoph, Politikwissenschaftler und Redakteur des *Philosophie Magazins* (Leipzig, geb. 1989); Linkshegelianer aus der Kritischen Theorie — der Weltgeist schwimmt wie ein Lachs stromaufwärts zurück nach China und erscheint als künstliche Intelligenz; *Der Weltgeist als Lachs* (2021), *Einheit und Zerfall* (2025)
 
-**[[DenkerVita/Hartmut Rosa|Hartmut Rosa]]** — Soziologe und Sozialphilosoph (Jena, Max-Weber-Kolleg Erfurt); fragt nicht, wie Gesellschaft gerechter, sondern wie Leben lebendig wird — soziale Beschleunigung, Resonanz, Unverfügbarkeit; *Beschleunigung* (2005), *Resonanz* (2016), *Unverfügbarkeit* (2018)
+**[[Gedankenwelten/DenkerVita/Hartmut Rosa|Hartmut Rosa]]** — Soziologe und Sozialphilosoph (Jena, Max-Weber-Kolleg Erfurt); fragt nicht, wie Gesellschaft gerechter, sondern wie Leben lebendig wird — soziale Beschleunigung, Resonanz, Unverfügbarkeit; *Beschleunigung* (2005), *Resonanz* (2016), *Unverfügbarkeit* (2018)
 
-**[[DenkerVita/Ulf Roeller|Ulf Röller]]** — Fernsehjournalist, Leiter des ZDF-Studios Brüssel (zuvor acht Jahre Washington, drei Jahre Peking); Hanns-Joachim-Friedrichs-Preis 2020 für die Berichterstattung aus China und Hongkong — europäische Souveränität, transatlantische Erosion und China als systemischer Rivale, gesehen von jemandem, der beide Pole von innen kennt
+**[[Gedankenwelten/DenkerVita/Ulf Roeller|Ulf Röller]]** — Fernsehjournalist, Leiter des ZDF-Studios Brüssel (zuvor acht Jahre Washington, drei Jahre Peking); Hanns-Joachim-Friedrichs-Preis 2020 für die Berichterstattung aus China und Hongkong — europäische Souveränität, transatlantische Erosion und China als systemischer Rivale, gesehen von jemandem, der beide Pole von innen kennt
 
-**[[DenkerVita/Roberto Simanowski|Roberto Simanowski]]** — Literatur- und Medienwissenschaftler (*1963; Brown, Basel, Hongkong, FU Berlin), Gründer von *dichtung-digital*; vierfacher Souveränitätsverlust durch KI, kognitive Schulden, Wertexport der Sprachmodelle; *Sprachmaschinen*, *Todesalgorithmus*, *Data Love*, *Facebook-Gesellschaft*
+**[[Gedankenwelten/DenkerVita/Roberto Simanowski|Roberto Simanowski]]** — Literatur- und Medienwissenschaftler (*1963; Brown, Basel, Hongkong, FU Berlin), Gründer von *dichtung-digital*; vierfacher Souveränitätsverlust durch KI, kognitive Schulden, Wertexport der Sprachmodelle; *Sprachmaschinen*, *Todesalgorithmus*, *Data Love*, *Facebook-Gesellschaft*
 
-**[[DenkerVita/Roger de Weck|Roger de Weck]]** — Konservativ ist demokratisch, reaktionär nicht: Roger de Weck, einst Chef der Zeit und der SRG, verteidigt die Langeweile, die Demokratie und die Konservativen vor sich selbst.
+**[[Gedankenwelten/DenkerVita/Roger de Weck|Roger de Weck]]** — Konservativ ist demokratisch, reaktionär nicht: Roger de Weck, einst Chef der Zeit und der SRG, verteidigt die Langeweile, die Demokratie und die Konservativen vor sich selbst.
 
-**[[DenkerVita/Raul Krauthausen|Raúl Krauthausen]]** — Rampen allein machen keine Teilhabe: Raúl Krauthausen, Aktivist und Gründer der Sozialhelden, fordert Teilgabe, behinderte Menschen auf der Bühne statt nur im Publikum.
+**[[Gedankenwelten/DenkerVita/Raul Krauthausen|Raúl Krauthausen]]** — Rampen allein machen keine Teilhabe: Raúl Krauthausen, Aktivist und Gründer der Sozialhelden, fordert Teilgabe, behinderte Menschen auf der Bühne statt nur im Publikum.
 
-**[[DenkerVita/Rainer Rothfuss|Rainer Rothfuß]]** — Politische Geographie, AfD-Bundestagsabgeordneter, der Weltpolitik als Ringen um Eurasien liest und für einen Ausgleich mit Russland wirbt
+**[[Gedankenwelten/DenkerVita/Rainer Rothfuss|Rainer Rothfuß]]** — Politische Geographie, AfD-Bundestagsabgeordneter, der Weltpolitik als Ringen um Eurasien liest und für einen Ausgleich mit Russland wirbt
 
 ## S
 
-**[[DenkerVita/Pierre Sanoussi-Bliss|Pierre Sanoussi-Bliss]]** — Schauspieler und Regisseur (*1962, Ost-Berlin), „Der Alte“, Zeitzeuge queeren Lebens in Ost und West
+**[[Gedankenwelten/DenkerVita/Pierre Sanoussi-Bliss|Pierre Sanoussi-Bliss]]** — Schauspieler und Regisseur (*1962, Ost-Berlin), „Der Alte“, Zeitzeuge queeren Lebens in Ost und West
 
-**[[DenkerVita/Volker Strotmann|Volker Strotmann]]** — Informatiker, CIO des Technischen Hilfswerks, langjährig Abteilungsleiter Einsatz; denkt Sicherheit vom Ausfall her: Abhängigkeiten kennen, selbst vorsorgen
+**[[Gedankenwelten/DenkerVita/Volker Strotmann|Volker Strotmann]]** — Informatiker, CIO des Technischen Hilfswerks, langjährig Abteilungsleiter Einsatz; denkt Sicherheit vom Ausfall her: Abhängigkeiten kennen, selbst vorsorgen
 
-**[[DenkerVita/Dagmar Simonsen|Dagmar Simonsen]]** — Seelsorgerin, Leiterin der Ökumenischen TelefonSeelsorge Vorpommern (Greifswald) seit 2016; Seelsorge als Würdigen des Gewordenseins, Zuhören statt Ratschlag („jeder Ratschlag ist auch ein Schlag“), mitfühlen, aber nicht mitleiden
+**[[Gedankenwelten/DenkerVita/Dagmar Simonsen|Dagmar Simonsen]]** — Seelsorgerin, Leiterin der Ökumenischen TelefonSeelsorge Vorpommern (Greifswald) seit 2016; Seelsorge als Würdigen des Gewordenseins, Zuhören statt Ratschlag („jeder Ratschlag ist auch ein Schlag“), mitfühlen, aber nicht mitleiden
 
-**[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Germanistin und Historikerin, Memorial-Mitgründerin; hält mit Oral History und Schülerwettbewerb die Erinnerung an den Stalinismus gegen Putins Geschichtspolitik, seit 2022 aus dem Exil
+**[[Gedankenwelten/DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Germanistin und Historikerin, Memorial-Mitgründerin; hält mit Oral History und Schülerwettbewerb die Erinnerung an den Stalinismus gegen Putins Geschichtspolitik, seit 2022 aus dem Exil
 
-**[[DenkerVita/Christine Schliesser|Christine Schliesser]]** — Theologie/Ethik, Zürcher Bonhoeffer-Forscherin („Wer verantwortlich handelt, wird schuldig“), die nach dem Genozid in Ruanda fragt, wie Versöhnung wächst
+**[[Gedankenwelten/DenkerVita/Christine Schliesser|Christine Schliesser]]** — Theologie/Ethik, Zürcher Bonhoeffer-Forscherin („Wer verantwortlich handelt, wird schuldig“), die nach dem Genozid in Ruanda fragt, wie Versöhnung wächst
 
-**[[DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest das Finanzsystem als soziales Netzwerk (*SuperHubs*) — nicht Institutionen regieren, sondern einige hundert Menschen in dessen Knotenpunkten; nüchterne, juristisch geführte Trump-Kritik
+**[[Gedankenwelten/DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest das Finanzsystem als soziales Netzwerk (*SuperHubs*) — nicht Institutionen regieren, sondern einige hundert Menschen in dessen Knotenpunkten; nüchterne, juristisch geführte Trump-Kritik
 
-**[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
+**[[Gedankenwelten/DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 
-**[[DenkerVita/Jean-Paul Sartre|Jean-Paul Sartre]]** — Philosoph, Romancier, Dramatiker (1905–1980); Hauptfigur des Existentialismus und Prototyp des französischen Intellektuellen; Existenz vor Essenz, zur Freiheit verurteilt, *mauvaise foi*, der Blick des anderen; *Der Ekel* (1938), *Das Sein und das Nichts* (1943), *Geschlossene Gesellschaft* (1944); lehnte 1964 den Literaturnobelpreis ab, weil ein Autor sich nicht in eine Institution verwandeln lassen dürfe
+**[[Gedankenwelten/DenkerVita/Jean-Paul Sartre|Jean-Paul Sartre]]** — Philosoph, Romancier, Dramatiker (1905–1980); Hauptfigur des Existentialismus und Prototyp des französischen Intellektuellen; Existenz vor Essenz, zur Freiheit verurteilt, *mauvaise foi*, der Blick des anderen; *Der Ekel* (1938), *Das Sein und das Nichts* (1943), *Geschlossene Gesellschaft* (1944); lehnte 1964 den Literaturnobelpreis ab, weil ein Autor sich nicht in eine Institution verwandeln lassen dürfe
 
-**[[DenkerVita/Andreas Schmitz|Andreas Schmitz]]** — Ingenieur und KI-/Optimierungsforscher (DLR, Promotion Ruhr-Uni Bochum), YouTuber *Akkudoktor*; DIY-Energiewende mit PV, Heimspeicher und Wärmepumpe, Hauptpetent der Balkonsolar-Petition 2023, Open-Source-Energiemanagement Akkudoktor-EOS; Motto „Physik ist keine Meinung“
+**[[Gedankenwelten/DenkerVita/Andreas Schmitz|Andreas Schmitz]]** — Ingenieur und KI-/Optimierungsforscher (DLR, Promotion Ruhr-Uni Bochum), YouTuber *Akkudoktor*; DIY-Energiewende mit PV, Heimspeicher und Wärmepumpe, Hauptpetent der Balkonsolar-Petition 2023, Open-Source-Energiemanagement Akkudoktor-EOS; Motto „Physik ist keine Meinung“
 
-**[[DenkerVita/Semir Zeki|Semir Zeki]]** — Neurobiologe (UCL), Begründer der Neuroästhetik; funktionelle Spezialisierung des visuellen Kortex (Farbe in V4, Bewegung in V5), neuronale Basis von Schönheit und Liebe; mit Andreas Bartels Autor der ersten fMRT-Studien zu romantischer und mütterlicher Liebe
+**[[Gedankenwelten/DenkerVita/Semir Zeki|Semir Zeki]]** — Neurobiologe (UCL), Begründer der Neuroästhetik; funktionelle Spezialisierung des visuellen Kortex (Farbe in V4, Bewegung in V5), neuronale Basis von Schönheit und Liebe; mit Andreas Bartels Autor der ersten fMRT-Studien zu romantischer und mütterlicher Liebe
 
-**[[DenkerVita/Sham Jaff|Sham Jaff]]** — Freie Journalistin & Politikwissenschaftlerin (kurdisch-deutsch), Autorin des Newsletters *what happened last week?*, Grimme-Preis für den Hanau-Podcast *190220*; Nachrichten aus dem Globalen Süden, konstruktiver Journalismus, Krise des Völkerrechts aus globaler Perspektive; WDR Europaforum / re:publica 26 Panel „Out of order?"
+**[[Gedankenwelten/DenkerVita/Sham Jaff|Sham Jaff]]** — Freie Journalistin & Politikwissenschaftlerin (kurdisch-deutsch), Autorin des Newsletters *what happened last week?*, Grimme-Preis für den Hanau-Podcast *190220*; Nachrichten aus dem Globalen Süden, konstruktiver Journalismus, Krise des Völkerrechts aus globaler Perspektive; WDR Europaforum / re:publica 26 Panel „Out of order?"
 
-**[[DenkerVita/Shi Heng Yi|Shi Heng Yi]]** — Shaolin-Meister (bürgerlich Tien Sy Vuong), Gründer Shaolin Tempel Europe; Auflösung der Identität, Peripherie vs. Essenz, der Finger der auf den Mond zeigt, Selbstführung statt Guru; öffentlicher Bruch mit seinem missbrauchenden früheren Abt
+**[[Gedankenwelten/DenkerVita/Shi Heng Yi|Shi Heng Yi]]** — Shaolin-Meister (bürgerlich Tien Sy Vuong), Gründer Shaolin Tempel Europe; Auflösung der Identität, Peripherie vs. Essenz, der Finger der auf den Mond zeigt, Selbstführung statt Guru; öffentlicher Bruch mit seinem missbrauchenden früheren Abt
 
-**[[DenkerVita/Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher und Soziologe (KU Leuven); kybernetische Proletarisierung, algorithmische Arbeitssteuerung, Gewerkschaften und digitale Transformation, Ökologie und Arbeitzeitverkürzung; Autor *Technopolitik von unten*
+**[[Gedankenwelten/DenkerVita/Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher und Soziologe (KU Leuven); kybernetische Proletarisierung, algorithmische Arbeitssteuerung, Gewerkschaften und digitale Transformation, Ökologie und Arbeitzeitverkürzung; Autor *Technopolitik von unten*
 
-**[[DenkerVita/Philippa Sigl-Gloeckner|Philippa Sigl-Glöckner]]** — Ökonomin, Gründungsdirektorin Dezernat Zukunft (Berlin), Mitglied der Schuldenbremsen-Expertenkommission 2025/26; spürte der zufälligen Herkunft der Maastricht-Quote nach, Freiheit als Nichtbeherrschung als Ziel der Finanzpolitik, Vollbeschäftigung statt fixer Schuldenquote; Autorin *Gutes Geld* (2024)
+**[[Gedankenwelten/DenkerVita/Philippa Sigl-Gloeckner|Philippa Sigl-Glöckner]]** — Ökonomin, Gründungsdirektorin Dezernat Zukunft (Berlin), Mitglied der Schuldenbremsen-Expertenkommission 2025/26; spürte der zufälligen Herkunft der Maastricht-Quote nach, Freiheit als Nichtbeherrschung als Ziel der Finanzpolitik, Vollbeschäftigung statt fixer Schuldenquote; Autorin *Gutes Geld* (2024)
 
 
-**[[DenkerVita/Silvia Rivera Cusicanqui|Silvia Rivera Cusicanqui]]** — Bolivianische Soziologin und Aktivistin Aymara-Abstammung; Gründerin THOA (Taller de Historia Oral Andina) 1983; Kernkonzept ch'ixi (nicht-harmonische Koexistenz); Kritik an akademischem Dekolonialitäts-Chic und an Evo Morales; Anarchistische Epistemologie, Oral History als Praxis, Sociología de la imagen
+**[[Gedankenwelten/DenkerVita/Silvia Rivera Cusicanqui|Silvia Rivera Cusicanqui]]** — Bolivianische Soziologin und Aktivistin Aymara-Abstammung; Gründerin THOA (Taller de Historia Oral Andina) 1983; Kernkonzept ch'ixi (nicht-harmonische Koexistenz); Kritik an akademischem Dekolonialitäts-Chic und an Evo Morales; Anarchistische Epistemologie, Oral History als Praxis, Sociología de la imagen
 
-**[[DenkerVita/Silke Stremlau|Silke Stremlau]]** — Geschäftsführerin Finance for Transition (F4T gGmbH, seit 2026); Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025); Pionierin institutioneller ESG-Bewertung seit 2000; Transformationsfinanzierung, Kapitalallokation als strategisches Instrument, Langfristkapital vs. Renditekapital; Leser- und Vordenkerinnenpreis 2024
+**[[Gedankenwelten/DenkerVita/Silke Stremlau|Silke Stremlau]]** — Geschäftsführerin Finance for Transition (F4T gGmbH, seit 2026); Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025); Pionierin institutioneller ESG-Bewertung seit 2000; Transformationsfinanzierung, Kapitalallokation als strategisches Instrument, Langfristkapital vs. Renditekapital; Leser- und Vordenkerinnenpreis 2024
 
-**[[DenkerVita/Damir Skenderovic|Damir Skenderovic]]** — Schweizer Historiker (Prof. Zeitgeschichte, Univ. Freiburg), Erforscher der radikalen Rechten; Standardwerk *The Radical Right in Switzerland*; Kontinuität statt Ausbruch, verdrängte rechtsextreme Vergangenheit der Schweiz, Rechtspopulismus als Diskursverschieber
+**[[Gedankenwelten/DenkerVita/Damir Skenderovic|Damir Skenderovic]]** — Schweizer Historiker (Prof. Zeitgeschichte, Univ. Freiburg), Erforscher der radikalen Rechten; Standardwerk *The Radical Right in Switzerland*; Kontinuität statt Ausbruch, verdrängte rechtsextreme Vergangenheit der Schweiz, Rechtspopulismus als Diskursverschieber
 
-**[[DenkerVita/Manfred Spitzer|Manfred Spitzer]]** — Psychiater und Hirnforscher (Ulm, *1958), Gründer des ZNL, Autor von *Digitale Demenz*; warnt vor Bildschirmen in Kinderhänden und traut der KI die Rettung der Menschheit zu, umstritten wegen Alarmismus und zugespitzter Zahlen
+**[[Gedankenwelten/DenkerVita/Manfred Spitzer|Manfred Spitzer]]** — Psychiater und Hirnforscher (Ulm, *1958), Gründer des ZNL, Autor von *Digitale Demenz*; warnt vor Bildschirmen in Kinderhänden und traut der KI die Rettung der Menschheit zu, umstritten wegen Alarmismus und zugespitzter Zahlen
 
-**[[DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive
+**[[Gedankenwelten/DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive
 
-**[[DenkerVita/Stefan Schulz|Stefan Schulz]]** — Soziologe, Autor; Die Neuen Zwanziger (mit Wolfgang M. Schmitt), ehem. Aufwachen! (mit Tilo Jung); Demografie, Spontanhistorisierung, Medienwandel
+**[[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz]]** — Soziologe, Autor; Die Neuen Zwanziger (mit Wolfgang M. Schmitt), ehem. Aufwachen! (mit Tilo Jung); Demografie, Spontanhistorisierung, Medienwandel
 
-**[[DenkerVita/Steffen Mau|Steffen Mau]]** — Makrosoziologe, Professor HU Berlin, seit 2025 Direktor MPI Göttingen; Triggerpunkte statt Spaltung, Polarisierungsunternehmer, Sortiermaschinen
+**[[Gedankenwelten/DenkerVita/Steffen Mau|Steffen Mau]]** — Makrosoziologe, Professor HU Berlin, seit 2025 Direktor MPI Göttingen; Triggerpunkte statt Spaltung, Polarisierungsunternehmer, Sortiermaschinen
 
-**[[DenkerVita/Ralf Stockmann|Ralf Stockmann]]** — Bibliothekar und Digital-Stratege (ZLB / Staatsbibliothek Berlin); profilierte Fediverse-Stimme, Mastodon-UX-Reformer; Schöpfer von Ultraschall, Mastowall, Sendegate; „+1"-Prinzip (öffentliches Geld → Fediverse-Pflicht)
+**[[Gedankenwelten/DenkerVita/Ralf Stockmann|Ralf Stockmann]]** — Bibliothekar und Digital-Stratege (ZLB / Staatsbibliothek Berlin); profilierte Fediverse-Stimme, Mastodon-UX-Reformer; Schöpfer von Ultraschall, Mastowall, Sendegate; „+1"-Prinzip (öffentliches Geld → Fediverse-Pflicht)
 
-**[[DenkerVita/Sergey Lagodinsky|Sergey Lagodinsky]]** — Jurist, Europaabgeordneter (Grüne), stellv. Vorsitzender der Fraktion Grüne/EFA; 1993 als Kontingentflüchtling aus Moskau gekommen; Multipolarität als Herrschernarrativ, „hirngeleitete“ statt wertegeleitete Außenpolitik, KI-Rüstungskontrolle
+**[[Gedankenwelten/DenkerVita/Sergey Lagodinsky|Sergey Lagodinsky]]** — Jurist, Europaabgeordneter (Grüne), stellv. Vorsitzender der Fraktion Grüne/EFA; 1993 als Kontingentflüchtling aus Moskau gekommen; Multipolarität als Herrschernarrativ, „hirngeleitete“ statt wertegeleitete Außenpolitik, KI-Rüstungskontrolle
 
-**[[DenkerVita/Sebastian Puschner|Sebastian Puschner]]** — stellv. Chefredakteur und politischer Korrespondent von *der Freitag*, früher *taz* Berlin; Politik und Ökonomie „von Hartz IV bis Cum-Ex“; Vergesellschaftung nach Artikel 15, Kritik am Verfassungsschutz, die Linke als Partei, die man in die Pflicht nehmen muss
+**[[Gedankenwelten/DenkerVita/Sebastian Puschner|Sebastian Puschner]]** — stellv. Chefredakteur und politischer Korrespondent von *der Freitag*, früher *taz* Berlin; Politik und Ökonomie „von Hartz IV bis Cum-Ex“; Vergesellschaftung nach Artikel 15, Kritik am Verfassungsschutz, die Linke als Partei, die man in die Pflicht nehmen muss
 
-**[[DenkerVita/Sascha Chaimowicz|Sascha Chaimowicz]]** — Chefredakteur des *ZEITmagazins*, geb. 1984 in München, jüdisch und schwarz, lebt in Kreuzberg; jüdischer Alltag in Berlin seit dem 7. Oktober, die Grenze zwischen Palästina-Solidarität und Volksverhetzung, das „Versäumnis der Mitte“
+**[[Gedankenwelten/DenkerVita/Sascha Chaimowicz|Sascha Chaimowicz]]** — Chefredakteur des *ZEITmagazins*, geb. 1984 in München, jüdisch und schwarz, lebt in Kreuzberg; jüdischer Alltag in Berlin seit dem 7. Oktober, die Grenze zwischen Palästina-Solidarität und Volksverhetzung, das „Versäumnis der Mitte“
 
-**[[DenkerVita/Susanne Boshammer|Susanne Boshammer]]** — Moralphilosophin (Prof. für Praktische Philosophie, Universität Osnabrück; zuvor Ethik-Zentrum Zürich und Bern); Verzeihen als Verzicht auf einen berechtigten Anspruch, Opferprivileg, Verzeihen ist weder Nachsicht noch Vergessen noch Versöhnung; *Die zweite Chance. Warum wir (nicht alles) verzeihen sollten*, *Gruppen, Rechte, Gerechtigkeit*
+**[[Gedankenwelten/DenkerVita/Susanne Boshammer|Susanne Boshammer]]** — Moralphilosophin (Prof. für Praktische Philosophie, Universität Osnabrück; zuvor Ethik-Zentrum Zürich und Bern); Verzeihen als Verzicht auf einen berechtigten Anspruch, Opferprivileg, Verzeihen ist weder Nachsicht noch Vergessen noch Versöhnung; *Die zweite Chance. Warum wir (nicht alles) verzeihen sollten*, *Gruppen, Rechte, Gerechtigkeit*
 
-**[[DenkerVita/Seyda Kurt|Şeyda Kurt]]** — Zärtlichkeit und Hass als politische Gefühle: Şeyda Kurt aus Köln-Kalk denkt die Liebe gegen den Kapitalismus und verteidigt die Unversöhnlichkeit, wo Gerechtigkeit fehlt.
+**[[Gedankenwelten/DenkerVita/Seyda Kurt|Şeyda Kurt]]** — Zärtlichkeit und Hass als politische Gefühle: Şeyda Kurt aus Köln-Kalk denkt die Liebe gegen den Kapitalismus und verteidigt die Unversöhnlichkeit, wo Gerechtigkeit fehlt.
 
-**[[DenkerVita/Ines Schwerdtner|Ines Schwerdtner]]** — Linken-Vorsitzende und frühere Jacobin-Chefredakteurin, die Antifaschismus als Wirtschaftspolitik für bezahlbares Leben buchstabiert
+**[[Gedankenwelten/DenkerVita/Ines Schwerdtner|Ines Schwerdtner]]** — Linken-Vorsitzende und frühere Jacobin-Chefredakteurin, die Antifaschismus als Wirtschaftspolitik für bezahlbares Leben buchstabiert
 
-**[[DenkerVita/Robin Schmid|Robin Schmid]]** — Berliner YouTuber und Moderator (*Robin TV*, *Robin PV*), früher Radiomoderator und Sänger; erklärt Elektromobilität und Balkonkraftwerke als Infotainment („Spaß und Überzeugung“ statt Verzicht), Co-Host von *Alles wird Strom* — eng mit Branchenpartnern verbunden
+**[[Gedankenwelten/DenkerVita/Robin Schmid|Robin Schmid]]** — Berliner YouTuber und Moderator (*Robin TV*, *Robin PV*), früher Radiomoderator und Sänger; erklärt Elektromobilität und Balkonkraftwerke als Infotainment („Spaß und Überzeugung“ statt Verzicht), Co-Host von *Alles wird Strom* — eng mit Branchenpartnern verbunden
 
-**[[DenkerVita/Tania Singer|Tania Singer]]** — Psychologin und Neurowissenschaftlerin (*1969), leitet das Social Neuroscience Lab der MPG in Berlin; unterscheidet Empathie von Mitgefühl und erforscht, wie sich das soziale Gehirn trainieren lässt (ReSource, CovSocial, Edu:Social)
+**[[Gedankenwelten/DenkerVita/Tania Singer|Tania Singer]]** — Psychologin und Neurowissenschaftlerin (*1969), leitet das Social Neuroscience Lab der MPG in Berlin; unterscheidet Empathie von Mitgefühl und erforscht, wie sich das soziale Gehirn trainieren lässt (ReSource, CovSocial, Edu:Social)
 
 ## T
 
-**[[DenkerVita/Bernd Tiggemann|Bernd Tiggemann]]** — evangelischer Pfarrer und Journalist, Jahrgang 1970; früherer Kriegsdienstverweigerer und EKD-Kommunikationschef, seit 2025 Militärseelsorger in Wunstorf
+**[[Gedankenwelten/DenkerVita/Bernd Tiggemann|Bernd Tiggemann]]** — evangelischer Pfarrer und Journalist, Jahrgang 1970; früherer Kriegsdienstverweigerer und EKD-Kommunikationschef, seit 2025 Militärseelsorger in Wunstorf
 
-**[[DenkerVita/Tim Stark|Tim Stark]]** — Referent (kognitive Einflussnahme) im re:publica-26-Talk „Who the f#ck is Agartha?“; wie ironische Meme-Kulturen extremistische Inhalte kognitiv anschlussfähig machen
+**[[Gedankenwelten/DenkerVita/Tim Stark|Tim Stark]]** — Referent (kognitive Einflussnahme) im re:publica-26-Talk „Who the f#ck is Agartha?“; wie ironische Meme-Kulturen extremistische Inhalte kognitiv anschlussfähig machen
 
-**[[DenkerVita/Duezen Tekkal|Düzen Tekkal]]** — Journalistin, Filmemacherin, Menschenrechtsaktivistin (HÁWAR.help, GermanDream); deutsch-jesidische Zeugin des IS-Genozids von 2014, „böse Zwillinge" (Islamismus und Rechtsextremismus als eine Demokratiefeindschaft), Bundesverdienstkreuz 2021 — nah an CDU-Zirkeln und darum selbst umstritten
+**[[Gedankenwelten/DenkerVita/Duezen Tekkal|Düzen Tekkal]]** — Journalistin, Filmemacherin, Menschenrechtsaktivistin (HÁWAR.help, GermanDream); deutsch-jesidische Zeugin des IS-Genozids von 2014, „böse Zwillinge" (Islamismus und Rechtsextremismus als eine Demokratiefeindschaft), Bundesverdienstkreuz 2021 — nah an CDU-Zirkeln und darum selbst umstritten
 
-**[[DenkerVita/Teresa Bücker|Teresa Bücker]]** — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit; NDR Sachbuchpreis 2023 für *Alle_Zeit*
+**[[Gedankenwelten/DenkerVita/Teresa Bücker|Teresa Bücker]]** — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit; NDR Sachbuchpreis 2023 für *Alle_Zeit*
 
-**[[DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
+**[[Gedankenwelten/DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
 
-**[[DenkerVita/Tiana Travels|Tiana (Where Tiana Travels)]]** — Amerikanische YouTuberin in Paris; analysiert US-Systemprobleme (Gesundheitsmarkt, Schulen, Wahlverhalten) aus europäischer Distanz; Political-Science-Absolventin; "Temporarily Embarrassed Millionaires" als Erklärung für paradoxes Wahlverhalten
+**[[Gedankenwelten/DenkerVita/Tiana Travels|Tiana (Where Tiana Travels)]]** — Amerikanische YouTuberin in Paris; analysiert US-Systemprobleme (Gesundheitsmarkt, Schulen, Wahlverhalten) aus europäischer Distanz; Political-Science-Absolventin; "Temporarily Embarrassed Millionaires" als Erklärung für paradoxes Wahlverhalten
 
-**[[DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
+**[[Gedankenwelten/DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
 
-**[[DenkerVita/Tilo Wesche|Tilo Wesche]]** — Philosoph, Professor Praktische Philosophie Universität Oldenburg; Kritische Theorie (Adorno), Eigentumstheorie, Rechte der Natur; *Die Rechte der Natur — Vom nachhaltigen Eigentum* (2023); Schulzeit in Namibia unter der Apartheid; Kolonialismus als Eigentumsrechts-Frage
+**[[Gedankenwelten/DenkerVita/Tilo Wesche|Tilo Wesche]]** — Philosoph, Professor Praktische Philosophie Universität Oldenburg; Kritische Theorie (Adorno), Eigentumstheorie, Rechte der Natur; *Die Rechte der Natur — Vom nachhaltigen Eigentum* (2023); Schulzeit in Namibia unter der Apartheid; Kolonialismus als Eigentumsrechts-Frage
 
-**[[DenkerVita/Tim Meyer|Tim Meyer]]** — Unabhängiger Energieexperte, Autor *Strom*; ehem. dena-Geschäftsführer; Chinas Cleantech als industrielogische Transformation, Europa muss aufwachen
+**[[Gedankenwelten/DenkerVita/Tim Meyer|Tim Meyer]]** — Unabhängiger Energieexperte, Autor *Strom*; ehem. dena-Geschäftsführer; Chinas Cleantech als industrielogische Transformation, Europa muss aufwachen
 
-**[[DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello
+**[[Gedankenwelten/DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello
 
-**[[DenkerVita/Tsitsi Dangarembga|Tsitsi Dangarembga]]** — Simbabwische Schriftstellerin und Filmemacherin (*Nervous Conditions*, Booker-Shortlist 2020, Friedenspreis 2021); Kolonialismus in den Köpfen, Schwarzer Feminismus, Kunst als Widerstand, „Ubuntu 2.0"
+**[[Gedankenwelten/DenkerVita/Tsitsi Dangarembga|Tsitsi Dangarembga]]** — Simbabwische Schriftstellerin und Filmemacherin (*Nervous Conditions*, Booker-Shortlist 2020, Friedenspreis 2021); Kolonialismus in den Köpfen, Schwarzer Feminismus, Kunst als Widerstand, „Ubuntu 2.0"
 
-**[[DenkerVita/Adam Tooze|Adam Tooze]]** — Britischer Wirtschaftshistoriker (Columbia University, European Institute); vom Historiker der NS-Kriegswirtschaft zum meistgelesenen Chronisten der „Polykrise“; Newsletter *Chartbook* — Ökonomie immer als Machtfrage gelesen
+**[[Gedankenwelten/DenkerVita/Adam Tooze|Adam Tooze]]** — Britischer Wirtschaftshistoriker (Columbia University, European Institute); vom Historiker der NS-Kriegswirtschaft zum meistgelesenen Chronisten der „Polykrise“; Newsletter *Chartbook* — Ökonomie immer als Machtfrage gelesen
 
-**[[DenkerVita/Achim Truger|Achim Truger]]** — Ökonom, Professor für Sozioökonomie (Duisburg-Essen), seit 2019 „Wirtschaftsweiser“ auf Vorschlag der Gewerkschaften; Keynesianer im Rat der Angebotsökonomen — scharfe, nüchterne Kritik an der Schuldenbremse, Plädoyer für öffentliche Investitionen
+**[[Gedankenwelten/DenkerVita/Achim Truger|Achim Truger]]** — Ökonom, Professor für Sozioökonomie (Duisburg-Essen), seit 2019 „Wirtschaftsweiser“ auf Vorschlag der Gewerkschaften; Keynesianer im Rat der Angebotsökonomen — scharfe, nüchterne Kritik an der Schuldenbremse, Plädoyer für öffentliche Investitionen
 
-**[[DenkerVita/Hans-Thomas Tillschneider|Hans-Thomas Tillschneider]]** — Islamwissenschaftler und AfD-Politiker, Chefideologe des als gesichert rechtsextremistisch eingestuften Landesverbands Sachsen-Anhalt, seit Oktober 2026 Landtagsvizepräsident; Ethnopluralist, Kreml-nah, nennt den Synagogenanschlag von Halle einen „Amoklauf“
+**[[Gedankenwelten/DenkerVita/Hans-Thomas Tillschneider|Hans-Thomas Tillschneider]]** — Islamwissenschaftler und AfD-Politiker, Chefideologe des als gesichert rechtsextremistisch eingestuften Landesverbands Sachsen-Anhalt, seit Oktober 2026 Landtagsvizepräsident; Ethnopluralist, Kreml-nah, nennt den Synagogenanschlag von Halle einen „Amoklauf“
 
-**[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Agrarökologe (Göttingen), meistzitierter Ökologe im deutschsprachigen Raum; sucht die Artenvielfalt in der Landschaft um den Acker und hält kleine Felder für wirksamer als das Biosiegel
+**[[Gedankenwelten/DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Agrarökologe (Göttingen), meistzitierter Ökologe im deutschsprachigen Raum; sucht die Artenvielfalt in der Landschaft um den Acker und hält kleine Felder für wirksamer als das Biosiegel
 
 ## U
 
 ## V
 
-**[[DenkerVita/Aleksandar Vucic|Aleksandar Vučić]]** — serbischer Politiker, Informationsminister unter Milošević (1998–2000), Ministerpräsident 2014–2017, Präsident 2017–2026; Stabilität und EU-Weg ohne Bruch mit Moskau für die einen, Wahlautokratie laut V-Dem für die anderen; verlor die Wahl im Oktober 2026 gegen die Studentenliste
+**[[Gedankenwelten/DenkerVita/Aleksandar Vucic|Aleksandar Vučić]]** — serbischer Politiker, Informationsminister unter Milošević (1998–2000), Ministerpräsident 2014–2017, Präsident 2017–2026; Stabilität und EU-Weg ohne Bruch mit Moskau für die einen, Wahlautokratie laut V-Dem für die anderen; verlor die Wahl im Oktober 2026 gegen die Studentenliste
 
-**[[DenkerVita/Johannes Volkmann|Johannes Volkmann]]** — CDU-Bundestagsabgeordneter (Lahn-Dill), Auswärtiger Ausschuss, trennt scharf zwischen privaten und öffentlich finanzierten Räumen
+**[[Gedankenwelten/DenkerVita/Johannes Volkmann|Johannes Volkmann]]** — CDU-Bundestagsabgeordneter (Lahn-Dill), Auswärtiger Ausschuss, trennt scharf zwischen privaten und öffentlich finanzierten Räumen
 
-**[[DenkerVita/Hagen Vockerodt|Hagen Vockerodt]]** — Hauptmann a. D., ehemaliger Kampfsanitäter der Bundeswehr, 1638 Einsatztage vom Kosovo bis Afghanistan; spricht als Redner über PTBS und Veteranen
+**[[Gedankenwelten/DenkerVita/Hagen Vockerodt|Hagen Vockerodt]]** — Hauptmann a. D., ehemaliger Kampfsanitäter der Bundeswehr, 1638 Einsatztage vom Kosovo bis Afghanistan; spricht als Redner über PTBS und Veteranen
 
-**[[DenkerVita/Chris van Tulleken|Chris van Tulleken]]** — britischer Infektiologe (UCLH) und Professor am UCL, BBC-Wissenschaftsmoderator mit Zwillingsbruder Xand; *Ultra-Processed People* (2023, dt. *Gefährlich lecker*) — ultra-verarbeitete Lebensmittel als Hauptursache ernährungsbedingter Krankheit, die Finanzialisierung der Lebensmittelkonzerne, Warnhinweise statt Verbote
+**[[Gedankenwelten/DenkerVita/Chris van Tulleken|Chris van Tulleken]]** — britischer Infektiologe (UCLH) und Professor am UCL, BBC-Wissenschaftsmoderator mit Zwillingsbruder Xand; *Ultra-Processed People* (2023, dt. *Gefährlich lecker*) — ultra-verarbeitete Lebensmittel als Hauptursache ernährungsbedingter Krankheit, die Finanzialisierung der Lebensmittelkonzerne, Warnhinweise statt Verbote
 
-**[[DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]** — Juristin (Öffentliches Recht, HSU Hamburg), GFF-Vorstand; Grundrechte, Legal Gender Studies & wehrhafte Demokratie — Mitvorstellerin des GFF-Gutachtens zur Verfassungswidrigkeit der AfD
+**[[Gedankenwelten/DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]** — Juristin (Öffentliches Recht, HSU Hamburg), GFF-Vorstand; Grundrechte, Legal Gender Studies & wehrhafte Demokratie — Mitvorstellerin des GFF-Gutachtens zur Verfassungswidrigkeit der AfD
 
-**[[DenkerVita/Carel van Schaik|Carel van Schaik]]** — Evolutionsbiologe, Primatologe & Anthropologe (em. Univ. Zürich); die „drei Naturen des Menschen", die Bibel als Tagebuch der Menschheit und der evolutionäre Mismatch der Sesshaftwerdung
+**[[Gedankenwelten/DenkerVita/Carel van Schaik|Carel van Schaik]]** — Evolutionsbiologe, Primatologe & Anthropologe (em. Univ. Zürich); die „drei Naturen des Menschen", die Bibel als Tagebuch der Menschheit und der evolutionäre Mismatch der Sesshaftwerdung
 
-**[[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
+**[[Gedankenwelten/DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
 
-**[[DenkerVita/Vandana Shiva|Vandana Shiva]]** — Physikerin, Ökofeministin & Umweltaktivistin (Navdanya, Alt-Nobelpreis 1993); Earth Democracy, production boundary, Biopiraterie, Saatgut als Gemeingut — das Lebendige gegen das mechanistische „kapitalistische Patriarchat"; zugleich wissenschaftlich umstritten (Bt-Baumwolle/Suizide)
+**[[Gedankenwelten/DenkerVita/Vandana Shiva|Vandana Shiva]]** — Physikerin, Ökofeministin & Umweltaktivistin (Navdanya, Alt-Nobelpreis 1993); Earth Democracy, production boundary, Biopiraterie, Saatgut als Gemeingut — das Lebendige gegen das mechanistische „kapitalistische Patriarchat"; zugleich wissenschaftlich umstritten (Bt-Baumwolle/Suizide)
 
-**[[DenkerVita/Carlotta Voss|Carlotta Voß]]** — Politikwissenschaftlerin & Ideenhistorikerin (FIPH Hannover), Publizistin; erforscht den Postliberalismus als eigenständige Ideologie — J. D. Vance, politische Theologie und die Katechontik hinter MAGA, und setzt eine „personale Demokratie" (Plessner, Ricœur, Cornel West) dagegen
+**[[Gedankenwelten/DenkerVita/Carlotta Voss|Carlotta Voß]]** — Politikwissenschaftlerin & Ideenhistorikerin (FIPH Hannover), Publizistin; erforscht den Postliberalismus als eigenständige Ideologie — J. D. Vance, politische Theologie und die Katechontik hinter MAGA, und setzt eine „personale Demokratie" (Plessner, Ricœur, Cornel West) dagegen
 
 ## W
 
-**[[DenkerVita/Jens-Christian Wagner|Jens-Christian Wagner]]** — Historiker, Direktor der Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora; streitbarer Verteidiger der NS-Erinnerungskultur gegen rechten Geschichtsrevisionismus und die AfD
+**[[Gedankenwelten/DenkerVita/Jens-Christian Wagner|Jens-Christian Wagner]]** — Historiker, Direktor der Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora; streitbarer Verteidiger der NS-Erinnerungskultur gegen rechten Geschichtsrevisionismus und die AfD
 
-**[[DenkerVita/Christian Walburg|Christian Walburg]]** — Kriminologe und Jurist (Münster, zuletzt Professurvertretung an der Deutschen Hochschule der Polizei); erforscht seit der Duisburger Längsschnittstudie Migration und Jugenddelinquenz, gegen Alarmismus und Abwiegeln zugleich
+**[[Gedankenwelten/DenkerVita/Christian Walburg|Christian Walburg]]** — Kriminologe und Jurist (Münster, zuletzt Professurvertretung an der Deutschen Hochschule der Polizei); erforscht seit der Duisburger Längsschnittstudie Migration und Jugenddelinquenz, gegen Alarmismus und Abwiegeln zugleich
 
-**[[DenkerVita/Lars Wienand|Lars Wienand]]** — Investigativjournalist (t-online), deckte 2022 die russische Desinformationskampagne „Doppelgänger“ auf und wertete 2026 als Erster ein Leak der Moskauer Social Design Agency aus
+**[[Gedankenwelten/DenkerVita/Lars Wienand|Lars Wienand]]** — Investigativjournalist (t-online), deckte 2022 die russische Desinformationskampagne „Doppelgänger“ auf und wertete 2026 als Erster ein Leak der Moskauer Social Design Agency aus
 
-**[[DenkerVita/Ralf K. Wüstenberg|Ralf K. Wüstenberg]]** — Evangelische Theologie (Flensburg), Bonhoeffer-Forscher, der Südafrikas Wahrheitskommission und die deutsche Aufarbeitung nach 1989 vergleicht
+**[[Gedankenwelten/DenkerVita/Ralf K. Wüstenberg|Ralf K. Wüstenberg]]** — Evangelische Theologie (Flensburg), Bonhoeffer-Forscher, der Südafrikas Wahrheitskommission und die deutsche Aufarbeitung nach 1989 vergleicht
 
-**[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
+**[[Gedankenwelten/DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
 
-**[[DenkerVita/Simone Weil|Simone Weil]]** — Philosophin, Mystikerin, Fabrikarbeiterin (1909–1943); ENS-Absolventin, die 1934 an die Fräsmaschine ging, um zu erfahren, was Industriearbeit mit einem Menschen macht; *attention* als reinste Form der Großzügigkeit, *malheur*, Entwurzelung, Kraft als das, was Menschen zu Dingen macht; zu Lebzeiten kein Buch — *Schwerkraft und Gnade* (1947), *Die Einwurzelung* (1949, hg. von Camus) erschienen posthum; gestorben mit 34
+**[[Gedankenwelten/DenkerVita/Simone Weil|Simone Weil]]** — Philosophin, Mystikerin, Fabrikarbeiterin (1909–1943); ENS-Absolventin, die 1934 an die Fräsmaschine ging, um zu erfahren, was Industriearbeit mit einem Menschen macht; *attention* als reinste Form der Großzügigkeit, *malheur*, Entwurzelung, Kraft als das, was Menschen zu Dingen macht; zu Lebzeiten kein Buch — *Schwerkraft und Gnade* (1947), *Die Einwurzelung* (1949, hg. von Camus) erschienen posthum; gestorben mit 34
 
-**[[DenkerVita/Michael Weigel-Jech|Michael Weigel-Jech]]** — Ingenieur und Unternehmer, Chef der SmarAct GmbH und SmarAct Automation in Oldenburg, die Bauteile für Chipindustrie, Photonik und Forschung auf den Nanometer genau bewegen
+**[[Gedankenwelten/DenkerVita/Michael Weigel-Jech|Michael Weigel-Jech]]** — Ingenieur und Unternehmer, Chef der SmarAct GmbH und SmarAct Automation in Oldenburg, die Bauteile für Chipindustrie, Photonik und Forschung auf den Nanometer genau bewegen
 
-**[[DenkerVita/Susanne Weigelin-Schwiedrzik|Susanne Weigelin-Schwiedrzik]]** — Sinologin und Japanologin (Uni Wien, 2011–2015 Vizerektorin); chinesische Geschichtsschreibung, Kulturrevolution, Hungersnot-Diskurs; außenpolitische Realistin: „Balance of Power“ statt Moral, Europa als versteckter Akteur im Dreieck China–USA–Russland; *China und die Neuordnung der Welt* (2023)
+**[[Gedankenwelten/DenkerVita/Susanne Weigelin-Schwiedrzik|Susanne Weigelin-Schwiedrzik]]** — Sinologin und Japanologin (Uni Wien, 2011–2015 Vizerektorin); chinesische Geschichtsschreibung, Kulturrevolution, Hungersnot-Diskurs; außenpolitische Realistin: „Balance of Power“ statt Moral, Europa als versteckter Akteur im Dreieck China–USA–Russland; *China und die Neuordnung der Welt* (2023)
 
-**[[DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (bis 2026 UPS Foundation Professor, heute emeritiert, Institute for Advanced Study in Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung
+**[[Gedankenwelten/DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (bis 2026 UPS Foundation Professor, heute emeritiert, Institute for Advanced Study in Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung
 
-**[[DenkerVita/Torsten Wilholt|Torsten Wilholt]]** — Wissenschaftsphilosoph (Leibniz Universität Hannover), Erkenntnistheorie und soziale Erkenntnistheorie; fragt, wann Vertrauen in die Wissenschaft berechtigt ist, und zeigt, dass es geteilte Werturteile über induktive Risiken voraussetzt; *Die Freiheit der Forschung* (2012), Ko-Direktor der DFG-Gruppe SOCRATES
+**[[Gedankenwelten/DenkerVita/Torsten Wilholt|Torsten Wilholt]]** — Wissenschaftsphilosoph (Leibniz Universität Hannover), Erkenntnistheorie und soziale Erkenntnistheorie; fragt, wann Vertrauen in die Wissenschaft berechtigt ist, und zeigt, dass es geteilte Werturteile über induktive Risiken voraussetzt; *Die Freiheit der Forschung* (2012), Ko-Direktor der DFG-Gruppe SOCRATES
 
-**[[DenkerVita/William Darity Jr|William Darity Jr.]]** — Ökonom (Duke), Begründer der *Stratification Economics* und führender Reparations-Ökonom der USA; Diskriminierung als rationale Verteidigung von Gruppenpositionen; Vermögen statt Einkommen; *From Here to Equality* (2020) mit A. Kirsten Mullen; Baby Bonds mit Darrick Hamilton
+**[[Gedankenwelten/DenkerVita/William Darity Jr|William Darity Jr.]]** — Ökonom (Duke), Begründer der *Stratification Economics* und führender Reparations-Ökonom der USA; Diskriminierung als rationale Verteidigung von Gruppenpositionen; Vermögen statt Einkommen; *From Here to Equality* (2020) mit A. Kirsten Mullen; Baby Bonds mit Darrick Hamilton
 
-**[[DenkerVita/Ulrike Winkelmann|Ulrike Winkelmann]]** — Journalistin (geb. 1971 Wiesbaden), seit 2020 Chefredakteurin der *taz* (mit Barbara Junge, seit 2025 im Trio mit Katrin Gottschalk), vorher Parlamentskorrespondentin, Politikchefin beim *Freitag*, Deutschlandfunk-Redakteurin; sozialpolitischer Blick, Kolumne „Ernsthaft?“, Podcast „Bundestalk“, Moderatorin der taz Talks
+**[[Gedankenwelten/DenkerVita/Ulrike Winkelmann|Ulrike Winkelmann]]** — Journalistin (geb. 1971 Wiesbaden), seit 2020 Chefredakteurin der *taz* (mit Barbara Junge, seit 2025 im Trio mit Katrin Gottschalk), vorher Parlamentskorrespondentin, Politikchefin beim *Freitag*, Deutschlandfunk-Redakteurin; sozialpolitischer Blick, Kolumne „Ernsthaft?“, Podcast „Bundestalk“, Moderatorin der taz Talks
 
-**[[DenkerVita/Willy Brandt|Willy Brandt]]** — Bundeskanzler 1969–1974, Friedensnobelpreis 1971; unehelich, Arbeitermilieu, Exil; der Kniefall von Warschau — die Gegenprobe in Gefangene des Systems
+**[[Gedankenwelten/DenkerVita/Willy Brandt|Willy Brandt]]** — Bundeskanzler 1969–1974, Friedensnobelpreis 1971; unehelich, Arbeitermilieu, Exil; der Kniefall von Warschau — die Gegenprobe in Gefangene des Systems
 
-**[[DenkerVita/Wladimir Putin|Wladimir Putin]]** — russischer Präsident seit 2000, ehemaliger KGB-Offizier; die Leningrader Straße, Dresden 1989, der Angriffskrieg; Quellenlage über sein Inneres dünn
+**[[Gedankenwelten/DenkerVita/Wladimir Putin|Wladimir Putin]]** — russischer Präsident seit 2000, ehemaliger KGB-Offizier; die Leningrader Straße, Dresden 1989, der Angriffskrieg; Quellenlage über sein Inneres dünn
 
-**[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — Menschenrechtsanwalt, Gründer und Generalsekretär des ECCHR, Anwalt Edward Snowdens; transnationale Prozessführung gegen Straflosigkeit (Abu Ghraib, Argentiniens Militärs), Menschenrechte als „konkrete Utopie“, Kritik am „zweierlei Maß“ des westlichen Völkerstrafrechts
+**[[Gedankenwelten/DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — Menschenrechtsanwalt, Gründer und Generalsekretär des ECCHR, Anwalt Edward Snowdens; transnationale Prozessführung gegen Straflosigkeit (Abu Ghraib, Argentiniens Militärs), Menschenrechte als „konkrete Utopie“, Kritik am „zweierlei Maß“ des westlichen Völkerstrafrechts
 
-**[[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
+**[[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
 
-**[[DenkerVita/Wolfram Schultz|Wolfram Schultz]]** — Neurowissenschaftler, Professor Cambridge; Dopamin-Forschung, Reward Prediction Error als fundamentaler Lernmechanismus, Neuroökonomie; Brain Prize 2017, FRS
+**[[Gedankenwelten/DenkerVita/Wolfram Schultz|Wolfram Schultz]]** — Neurowissenschaftler, Professor Cambridge; Dopamin-Forschung, Reward Prediction Error als fundamentaler Lernmechanismus, Neuroökonomie; Brain Prize 2017, FRS
 
-**[[DenkerVita/Isabella Weber|Isabella Weber]]** — Ökonomin (UMass Amherst), Theoretikerin der Verkäuferinflation und strategischer Preiskontrollen, die Wirtschaftspolitik als Schutz der Demokratie gegen den Rechtsextremismus denkt
+**[[Gedankenwelten/DenkerVita/Isabella Weber|Isabella Weber]]** — Ökonomin (UMass Amherst), Theoretikerin der Verkäuferinflation und strategischer Preiskontrollen, die Wirtschaftspolitik als Schutz der Demokratie gegen den Rechtsextremismus denkt
 
-**[[DenkerVita/Claudia Wittig|Claudia Wittig]]** — Geschichte (Mittelalter), BSW-Landtagsabgeordnete in Sachsen-Anhalt, die für Frieden mit Russland Mehrheiten auch mit der AfD sucht
+**[[Gedankenwelten/DenkerVita/Claudia Wittig|Claudia Wittig]]** — Geschichte (Mittelalter), BSW-Landtagsabgeordnete in Sachsen-Anhalt, die für Frieden mit Russland Mehrheiten auch mit der AfD sucht
 
 ## X
 
-**[[DenkerVita/Xi Jinping|Xi Jinping]]** — Generalsekretär der KP Chinas seit 2012; Kaderkind, Kulturrevolution, Liangjiahe; der Partei treu, die den Vater verstieß; Machtkonzentration ohne Amtszeitgrenze
+**[[Gedankenwelten/DenkerVita/Xi Jinping|Xi Jinping]]** — Generalsekretär der KP Chinas seit 2012; Kaderkind, Kulturrevolution, Liangjiahe; der Partei treu, die den Vater verstieß; Machtkonzentration ohne Amtszeitgrenze
 
 ## Y
 
-**[[DenkerVita/Omar M. Yaghi|Omar M. Yaghi]]** — Chemiker, Nobelpreis 2025 für die metallorganischen Gerüstverbindungen (MOFs), Sohn palästinensischer Flüchtlinge aus Amman, seit 2026 in Peking; Grundlagenforschung als zweckfreie Neugier, Wasser aus Wüstenluft, „Selektionswissenschaft“ im Zeitalter der KI
+**[[Gedankenwelten/DenkerVita/Omar M. Yaghi|Omar M. Yaghi]]** — Chemiker, Nobelpreis 2025 für die metallorganischen Gerüstverbindungen (MOFs), Sohn palästinensischer Flüchtlinge aus Amman, seit 2026 in Peking; Grundlagenforschung als zweckfreie Neugier, Wasser aus Wüstenluft, „Selektionswissenschaft“ im Zeitalter der KI
 
-**[[DenkerVita/Gabriel Yoran|Gabriel Yoran]]** — Autor & Unternehmer (Steady/Steganos/aka-aki), in Philosophie promoviert bei Graham Harman; „Verkrempelung der Welt" — warum Alltagsdinge schlechter und komplizierter werden und dennoch als Fortschritt verkauft werden
+**[[Gedankenwelten/DenkerVita/Gabriel Yoran|Gabriel Yoran]]** — Autor & Unternehmer (Steady/Steganos/aka-aki), in Philosophie promoviert bei Graham Harman; „Verkrempelung der Welt" — warum Alltagsdinge schlechter und komplizierter werden und dennoch als Fortschritt verkauft werden
 
-**[[DenkerVita/Yonatan Zeigen|Yonatan Zeigen]]** — israelischer Friedensaktivist, Sozialarbeiter & Mediator; Sohn der am 7.10.2023 ermordeten Vivian Silver; kandidiert für die jüdisch-arabische Partei *Makom Lekulanu*; „der 7. Oktober war kein Anfang, sondern ein Ergebnis“ — Trauer ohne Rache
+**[[Gedankenwelten/DenkerVita/Yonatan Zeigen|Yonatan Zeigen]]** — israelischer Friedensaktivist, Sozialarbeiter & Mediator; Sohn der am 7.10.2023 ermordeten Vivian Silver; kandidiert für die jüdisch-arabische Partei *Makom Lekulanu*; „der 7. Oktober war kein Anfang, sondern ein Ergebnis“ — Trauer ohne Rache
 
 ## Z
 
-**[[DenkerVita/Katharina Zweig|Katharina Zweig]]** — Informatikerin (Algorithm Accountability Lab, RPTU Kaiserslautern-Landau), Gestalterin des Studiengangs Sozioinformatik, Enquete-Kommission KI; Sprachmodelle erzeugen „intelligible Texturen“, Texte, die nach Nachdenken aussehen; aus Reasoning im Benchmark wurde Thinking im Marketing
+**[[Gedankenwelten/DenkerVita/Katharina Zweig|Katharina Zweig]]** — Informatikerin (Algorithm Accountability Lab, RPTU Kaiserslautern-Landau), Gestalterin des Studiengangs Sozioinformatik, Enquete-Kommission KI; Sprachmodelle erzeugen „intelligible Texturen“, Texte, die nach Nachdenken aussehen; aus Reasoning im Benchmark wurde Thinking im Marketing
 
-**[[DenkerVita/Kerstin Zettl-Schabath|Kerstin Zettl-Schabath]]** — Politikwissenschaftlerin, Cyber Threat Intelligence (DCSO), vorher EuRepoC Heidelberg; untersucht, wie Autokratien und Demokratien Hacker als Stellvertreter einsetzen — *Staatliche Cyberkonflikte*
+**[[Gedankenwelten/DenkerVita/Kerstin Zettl-Schabath|Kerstin Zettl-Schabath]]** — Politikwissenschaftlerin, Cyber Threat Intelligence (DCSO), vorher EuRepoC Heidelberg; untersucht, wie Autokratien und Demokratien Hacker als Stellvertreter einsetzen — *Staatliche Cyberkonflikte*
 
-**[[DenkerVita/Zhao Tingyang|Zhao Tingyang]]** — Politischer Philosoph (CASS Peking); Tianxia-System als Weltordnung, Ontologie der Koexistenz, Verbdenken, Smart Democracy, Neo-Universalismus jenseits westfälischem Staatensystem
+**[[Gedankenwelten/DenkerVita/Zhao Tingyang|Zhao Tingyang]]** — Politischer Philosoph (CASS Peking); Tianxia-System als Weltordnung, Ontologie der Koexistenz, Verbdenken, Smart Democracy, Neo-Universalismus jenseits westfälischem Staatensystem
 
-**[[DenkerVita/Juli Zeh|Juli Zeh]]** — Schriftstellerin und Brandenburger Verfassungsrichterin, erzählt das Dorf zwischen Stadt und Land und verteidigt Demokratie als Verfahren, nicht als Gesinnung
+**[[Gedankenwelten/DenkerVita/Juli Zeh|Juli Zeh]]** — Schriftstellerin und Brandenburger Verfassungsrichterin, erzählt das Dorf zwischen Stadt und Land und verteidigt Demokratie als Verfahren, nicht als Gesinnung
 
 ---
 
 ### Weitere prominente Denker (Stubs / In Progress)
 
-- [[DenkerVita/Adriaan van Wagensveld|Adriaan van Wagensveld]] — Vipassana-Lehrer (Plum Village-Tradition); Bodhisattva-Ideal, Ksitigarbha: Wunden als Schatz
-- [[DenkerVita/Albert Camus|Albert Camus]] — (Vollanalyse vorhanden)
-- [[DenkerVita/Alex Demirovic|Alex Demirović]] — Sozialwissenschaftler, Senior Fellow Rosa-Luxemburg-Stiftung; Staat als Verdichtung von Kräfteverhältnissen, Wirtschaftsdemokratie
-- [[DenkerVita/Arne Semsrott|Arne Semsrott]] — Journalist, Aktivist, Projektleiter FragDenStaat; Pressefreiheit, Informationsfreiheit, Anti-Rechtsextremismus
-- [[DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]] — Philosoph; Blinder Wille zum Leben, sechsfaches Leiden, Mitleid als Moralbasis
-- [[DenkerVita/Christian Jakob|Christian Jakob]] — Journalist taz; EU-Grenzen in Afrika, Geflüchtete als Akteure, Untergangsangst, Kulturkampf in Ministerien
-- [[DenkerVita/Frank Sieren|Frank Sieren]] — Journalist, China-Experte; 32 Jahre Peking, liberale Globalisierung als Mittel (nicht Zweck), Chinas strategische Klarheit
-- [[DenkerVita/Franz Kafka|Franz Kafka]] — Schriftsteller; Existenzielle Angewiesenheit, Totsagen als sozialer Tod, Seinszuspruch
-- [[DenkerVita/Maja Goepel|Maja Göpel]] — Politische Ökonomin; Systemwandel, planetare Grenzen, Narrative des Wandels, Scientists for Future
-- [[DenkerVita/Marie-Agnes Strack-Zimmermann|Marie-Agnes Strack-Zimmermann]] — FDP-Politikerin, MdEP; Europäische Verteidigungsautonomie, panneuropäische Allianzbildung
-- [[DenkerVita/Natalie Amiri|Natalie Amiri]] — Deutsch-iranische Journalistin, ARD-Weltspiegel-Moderatorin; Gottesstaat → Militärdiktatur, doppelte Innenperspektive
-- [[DenkerVita/Nico Semsrott|Nico Semsrott]] — (Vollanalyse vorhanden)
-- [[DenkerVita/Rene Descartes|René Descartes]] — Philosoph, Mathematiker; Begründer Rationalismus, „Vater der modernen Philosophie"
-- [[DenkerVita/S.N. Goenka|S.N. Goenka]] — Laienlehrer, Vipassana-Meditation; industrieller aus Burma; 340+ Zentren in 94 Ländern, alle kostenlos
-- [[DenkerVita/Sigmund Freud|Sigmund Freud]] — Arzt, Neurologe, Begründer der Psychoanalyse; Unbewusstes, Ödipuskomplex, Sublimierung
-- [[DenkerVita/Karl Marx|Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie
-- [[DenkerVita/Marina Klimchuk|Marina Klimchuk]] — Freie Journalistin; USA, Migration, Erinnerungskultur; VDRJ-Preis 2025
-- [[DenkerVita/Morpheus|Morpheus (Cedric Mössner)]] — Informatik-Educator, YouTuber (TheMorpheus407); Bootstrap Academy, European Alternatives, KI-Bias-Tests
-- [[DenkerVita/IT Mario|IT Mario]] — Datenanalyst und Data-Science-YouTuber; KI-gestützte politische Sprachanalyse, Bundestags-Rhetorik, methodische Transparenz
-- [[DenkerVita/Thomas Westbrook|Thomas Westbrook (Holy Koolaid)]] — YouTube-Creator; Kult-Psychologie und amerikanische Propaganda; 7 Formen unsichtbarer Indoktrination (Exzeptionalismus, Kalter-Krieg-Binär, Pledge of Allegiance)
-- [[DenkerVita/Petra Gehring|Petra Gehring]] — Philosophieprofessorin TU Darmstadt; digitale Infrastrukturen als politische Entscheidungen; Bürgergutachten digitaler Euro; partizipative Digitalethik
-- [[DenkerVita/Sebastian Giessmann|Sebastian Gießmann]] — Medienwissenschaftler Uni Siegen; Kulturgeschichte der Zahlungssysteme; Kreditkarten-Buch 2026; Mastercard-Coup 2003 als europäisches Lehrstück
-- [[DenkerVita/Georgina Neitzel|Georgina Neitzel]] — Head of Innovation Lab (ERGO Group); Future-Studies-Praktikerin; Hype als systemische Kraft in Unternehmens-Innovation
-- [[DenkerVita/Raphael Iltisberger|Raphael Iltisberger]] — PAWLIK Consultants; Business Psychology + Future Research Methodologies; Hype und Organisationsentwicklung
-- [[DenkerVita/Suraj Yengde|Suraj Yengde]] — Dalit-Gelehrter (UPenn, zuvor Harvard/Oxford); *Caste Matters*; Dalitality, Kaste als globales Phänomen, Dalit–Black solidarity; liest Ambedkar als lebendigen Auftrag
-- [[DenkerVita/Thomas Hoerren|Thomas Hörren]] — Käferkundler, Vorsitzender des Entomologischen Vereins Krefeld; Mitautor der Krefelder Studie (2017) und der DINA-Arbeiten; Totholz, Artenkenntnis, Wissenschaftskommunikation; verteidigt die Studie gegen Agitation
-- [[DenkerVita/Martin Sorg|Martin Sorg]] — Entomologe (Hautflügler), seit 1987 ehrenamtlicher Kurator der Krefelder Sammlungen; standardisierte ab 1982 die Malaisefalle und das Wiegen der Insekten, aus seiner Messreihe wurde die Krefelder Studie
-- [[DenkerVita/Maria Furtwaengler|Maria Furtwängler]] — Schauspielerin und Ärztin, Tatort-Kommissarin, Imkerin und Mitgründerin der MaLisa Stiftung, die untersucht, wie Medien Geschlechter, Klima und Artensterben zeigen
-- [[DenkerVita/Harry Pfau|Harry Pfau]] — Lebensmittelretter in Stuttgart; Heimkind, dreizehn Jahre obdachlos, seit 2020 Harrys Bude (gerettete Lebensmittel ohne Bedürftigkeitsnachweis); Verdienstorden Baden-Württemberg 2025
+- [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld|Adriaan van Wagensveld]] — Vipassana-Lehrer (Plum Village-Tradition); Bodhisattva-Ideal, Ksitigarbha: Wunden als Schatz
+- [[Gedankenwelten/DenkerVita/Albert Camus|Albert Camus]] — (Vollanalyse vorhanden)
+- [[Gedankenwelten/DenkerVita/Alex Demirovic|Alex Demirović]] — Sozialwissenschaftler, Senior Fellow Rosa-Luxemburg-Stiftung; Staat als Verdichtung von Kräfteverhältnissen, Wirtschaftsdemokratie
+- [[Gedankenwelten/DenkerVita/Arne Semsrott|Arne Semsrott]] — Journalist, Aktivist, Projektleiter FragDenStaat; Pressefreiheit, Informationsfreiheit, Anti-Rechtsextremismus
+- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]] — Philosoph; Blinder Wille zum Leben, sechsfaches Leiden, Mitleid als Moralbasis
+- [[Gedankenwelten/DenkerVita/Christian Jakob|Christian Jakob]] — Journalist taz; EU-Grenzen in Afrika, Geflüchtete als Akteure, Untergangsangst, Kulturkampf in Ministerien
+- [[Gedankenwelten/DenkerVita/Frank Sieren|Frank Sieren]] — Journalist, China-Experte; 32 Jahre Peking, liberale Globalisierung als Mittel (nicht Zweck), Chinas strategische Klarheit
+- [[Gedankenwelten/DenkerVita/Franz Kafka|Franz Kafka]] — Schriftsteller; Existenzielle Angewiesenheit, Totsagen als sozialer Tod, Seinszuspruch
+- [[Gedankenwelten/DenkerVita/Maja Goepel|Maja Göpel]] — Politische Ökonomin; Systemwandel, planetare Grenzen, Narrative des Wandels, Scientists for Future
+- [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann|Marie-Agnes Strack-Zimmermann]] — FDP-Politikerin, MdEP; Europäische Verteidigungsautonomie, panneuropäische Allianzbildung
+- [[Gedankenwelten/DenkerVita/Natalie Amiri|Natalie Amiri]] — Deutsch-iranische Journalistin, ARD-Weltspiegel-Moderatorin; Gottesstaat → Militärdiktatur, doppelte Innenperspektive
+- [[Gedankenwelten/DenkerVita/Nico Semsrott|Nico Semsrott]] — (Vollanalyse vorhanden)
+- [[Gedankenwelten/DenkerVita/Rene Descartes|René Descartes]] — Philosoph, Mathematiker; Begründer Rationalismus, „Vater der modernen Philosophie"
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka]] — Laienlehrer, Vipassana-Meditation; industrieller aus Burma; 340+ Zentren in 94 Ländern, alle kostenlos
+- [[Gedankenwelten/DenkerVita/Sigmund Freud|Sigmund Freud]] — Arzt, Neurologe, Begründer der Psychoanalyse; Unbewusstes, Ödipuskomplex, Sublimierung
+- [[Gedankenwelten/DenkerVita/Karl Marx|Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie
+- [[Gedankenwelten/DenkerVita/Marina Klimchuk|Marina Klimchuk]] — Freie Journalistin; USA, Migration, Erinnerungskultur; VDRJ-Preis 2025
+- [[Gedankenwelten/DenkerVita/Morpheus|Morpheus (Cedric Mössner)]] — Informatik-Educator, YouTuber (TheMorpheus407); Bootstrap Academy, European Alternatives, KI-Bias-Tests
+- [[Gedankenwelten/DenkerVita/IT Mario|IT Mario]] — Datenanalyst und Data-Science-YouTuber; KI-gestützte politische Sprachanalyse, Bundestags-Rhetorik, methodische Transparenz
+- [[Gedankenwelten/DenkerVita/Thomas Westbrook|Thomas Westbrook (Holy Koolaid)]] — YouTube-Creator; Kult-Psychologie und amerikanische Propaganda; 7 Formen unsichtbarer Indoktrination (Exzeptionalismus, Kalter-Krieg-Binär, Pledge of Allegiance)
+- [[Gedankenwelten/DenkerVita/Petra Gehring|Petra Gehring]] — Philosophieprofessorin TU Darmstadt; digitale Infrastrukturen als politische Entscheidungen; Bürgergutachten digitaler Euro; partizipative Digitalethik
+- [[Gedankenwelten/DenkerVita/Sebastian Giessmann|Sebastian Gießmann]] — Medienwissenschaftler Uni Siegen; Kulturgeschichte der Zahlungssysteme; Kreditkarten-Buch 2026; Mastercard-Coup 2003 als europäisches Lehrstück
+- [[Gedankenwelten/DenkerVita/Georgina Neitzel|Georgina Neitzel]] — Head of Innovation Lab (ERGO Group); Future-Studies-Praktikerin; Hype als systemische Kraft in Unternehmens-Innovation
+- [[Gedankenwelten/DenkerVita/Raphael Iltisberger|Raphael Iltisberger]] — PAWLIK Consultants; Business Psychology + Future Research Methodologies; Hype und Organisationsentwicklung
+- [[Gedankenwelten/DenkerVita/Suraj Yengde|Suraj Yengde]] — Dalit-Gelehrter (UPenn, zuvor Harvard/Oxford); *Caste Matters*; Dalitality, Kaste als globales Phänomen, Dalit–Black solidarity; liest Ambedkar als lebendigen Auftrag
+- [[Gedankenwelten/DenkerVita/Thomas Hoerren|Thomas Hörren]] — Käferkundler, Vorsitzender des Entomologischen Vereins Krefeld; Mitautor der Krefelder Studie (2017) und der DINA-Arbeiten; Totholz, Artenkenntnis, Wissenschaftskommunikation; verteidigt die Studie gegen Agitation
+- [[Gedankenwelten/DenkerVita/Martin Sorg|Martin Sorg]] — Entomologe (Hautflügler), seit 1987 ehrenamtlicher Kurator der Krefelder Sammlungen; standardisierte ab 1982 die Malaisefalle und das Wiegen der Insekten, aus seiner Messreihe wurde die Krefelder Studie
+- [[Gedankenwelten/DenkerVita/Maria Furtwaengler|Maria Furtwängler]] — Schauspielerin und Ärztin, Tatort-Kommissarin, Imkerin und Mitgründerin der MaLisa Stiftung, die untersucht, wie Medien Geschlechter, Klima und Artensterben zeigen
+- [[Gedankenwelten/DenkerVita/Harry Pfau|Harry Pfau]] — Lebensmittelretter in Stuttgart; Heimkind, dreizehn Jahre obdachlos, seit 2020 Harrys Bude (gerettete Lebensmittel ohne Bedürftigkeitsnachweis); Verdienstorden Baden-Württemberg 2025
