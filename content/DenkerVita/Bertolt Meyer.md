@@ -9,7 +9,7 @@ raetsel: "Die Hand ist aus Metall. Die Blicke darauf erforscht er."
 
 # Bertolt Meyer — DenkerVita
 
-![[Gedankenwelten/assets/Bertolt-Meyer-vita-banner.jpg|1200]]
+![[assets/Bertolt-Meyer-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -86,10 +86,10 @@ Meyer spricht als Wissenschaftler und als Betroffener zugleich, und er macht bei
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Raul Krauthausen|Raúl Krauthausen]] — Meyer, ohne linken Unterarm geboren, erforscht Stereotype über Menschen mit Körperbehinderung („warm, aber inkompetent“). Krauthausen fand in den Abendmagazinen dieselben engen Bilder, das Sorgenkind und den „Superkrüppel“.
-- [[Gedankenwelten/DenkerVita/Steffen Mau|Steffen Mau]] — Beide fragen als Sozialwissenschaftler, wie Menschen mit Unterschieden umgehen. Meyer nennt die Rede vom Kinderschutz eine Bedrohungserzählung, Mau beschreibt die Trigger, an denen Toleranz in Ablehnung kippt, ohne die Menschen dafür zu verurteilen.
-- [[Gedankenwelten/DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]] — Meyer liest die wachsende Gewalt gegen queere Menschen als Symptom des erstarkenden Rechtspopulismus. Heitmeyer, der seit 1985 die Normalisierung autoritärer Einstellungen untersucht, sucht die Ursachen breiter: in Markt, Vereinzelung, Netz und Krisen.
-- [[Gedankenwelten/DenkerVita/Birgit Kelle|Birgit Kelle]] — Im selben Film, ohne Gespräch miteinander: Kelles Frage, warum nicht die Erzieherin vorliest, fällt in das Feld, das Meyer Bedrohungserzählung nennt. Unsere Note hält fest, dass die Frage selbst legitim ist.
+- [[DenkerVita/Raul Krauthausen|Raúl Krauthausen]] — Meyer, ohne linken Unterarm geboren, erforscht Stereotype über Menschen mit Körperbehinderung („warm, aber inkompetent“). Krauthausen fand in den Abendmagazinen dieselben engen Bilder, das Sorgenkind und den „Superkrüppel“.
+- [[DenkerVita/Steffen Mau|Steffen Mau]] — Beide fragen als Sozialwissenschaftler, wie Menschen mit Unterschieden umgehen. Meyer nennt die Rede vom Kinderschutz eine Bedrohungserzählung, Mau beschreibt die Trigger, an denen Toleranz in Ablehnung kippt, ohne die Menschen dafür zu verurteilen.
+- [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]] — Meyer liest die wachsende Gewalt gegen queere Menschen als Symptom des erstarkenden Rechtspopulismus. Heitmeyer, der seit 1985 die Normalisierung autoritärer Einstellungen untersucht, sucht die Ursachen breiter: in Markt, Vereinzelung, Netz und Krisen.
+- [[DenkerVita/Birgit Kelle|Birgit Kelle]] — Im selben Film, ohne Gespräch miteinander: Kelles Frage, warum nicht die Erzieherin vorliest, fällt in das Feld, das Meyer Bedrohungserzählung nennt. Unsere Note hält fest, dass die Frage selbst legitim ist.
 
 ---
 

@@ -15,7 +15,7 @@ aliases:
 
 # Steffen Mau — Triggerpunkte: Konsens und Konflikt
 
-![[Gedankenwelten/assets/Steffen-Mau-Triggerpunkte-Konsens-und-Konflikt-banner.jpg|Vier Felder wie auf einer alten Wand: eine Waage mit Münzstapeln, ein Schiff neben einem Gittertor, zwei Masken in Braun und Grau, eine Sonne über einer Pflanze neben einer Sanduhr; ein Riss zieht durchs Bild.|1200]]
+![[assets/Steffen-Mau-Triggerpunkte-Konsens-und-Konflikt-banner.jpg|Vier Felder wie auf einer alten Wand: eine Waage mit Münzstapeln, ein Schiff neben einem Gittertor, zwei Masken in Braun und Grau, eine Sonne über einer Pflanze neben einer Sanduhr; ein Riss zieht durchs Bild.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -35,7 +35,7 @@ Quelle: [Streit ums Politische: »Triggerpunkte« — Heinz Bude im Gespräch mi
 > Wichtigste Werke: *Lütten Klein* (2019), *Sortiermaschinen* (2021), *Triggerpunkte* (2023), *Ungleich vereint* (2024)
 > Kernkonzepte: Triggerpunkte, Polarisierungsunternehmer, Veränderungsmüdigkeit, Sortiermaschinen
 >
-> → [[Gedankenwelten/DenkerVita/Steffen Mau|DenkerVita]]
+> → [[DenkerVita/Steffen Mau|DenkerVita]]
 
 ---
 
@@ -184,18 +184,18 @@ Mau sieht den entscheidenden Unterschied: Brandt operierte vor dem Hintergrund e
 - [[Markus Gabriel — Universelle Moral]] — Gabriel kritisiert Maus Ansatz direkt: Die sozialwissenschaftlichen Methoden hätten den digitalen Polarisierungstreiber übersehen; Umfragen messen deklarierte Werte, nicht algorithmische Dynamiken
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Steinke zeigt die rechtspolitischen Triggerpunkte: Blasphemie, Beleidigung, Genozid-Debatte — genau die Themen, bei denen Maus Triggerpunkte-Mechanik greift: latenter Konsens, der bei konkreter Berührung in heftige Polarisierung kippt
 - [[Heinz Bude — Boomer-Soziologie]] — Budes Boomer-Analyse liefert den generationssoziologischen Rahmen für Maus „demobilisierte Klassengesellschaft"
-- [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe erklärt theoretisch, warum die Triggerpunkte so explosiv werden: Wenn echte politische Auseinandersetzung aus dem Zentrum verdrängt wird, sucht sich der Antagonismus periphere Kanäle — genau die Triggerpunkte, die Mau empirisch dokumentiert
-- [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs "Left-Behind"-Analyse ist Maus Triggerpunkte-Theorie auf gesamteuropäischer Ebene: Postdemokratie erzeugt Verlustgefühle, Verlustgefühle erzeugen Triggerpunkte, Triggerpunkte werden von politischen Unternehmern instrumentalisiert: Die Boomer neutralisierten den Klassenbegriff durch kollektiven Bildungsaufstieg — „Klassismus spielte keine Rolle" in der Hausbesetzerszene. Maus Triggerpunkte-Modell erklärt, warum die „kommunikativ beschwiegenen" Themen der Boomer heute als Generationenkonflikt aufbrechen
+- [[Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe erklärt theoretisch, warum die Triggerpunkte so explosiv werden: Wenn echte politische Auseinandersetzung aus dem Zentrum verdrängt wird, sucht sich der Antagonismus periphere Kanäle — genau die Triggerpunkte, die Mau empirisch dokumentiert
+- [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs "Left-Behind"-Analyse ist Maus Triggerpunkte-Theorie auf gesamteuropäischer Ebene: Postdemokratie erzeugt Verlustgefühle, Verlustgefühle erzeugen Triggerpunkte, Triggerpunkte werden von politischen Unternehmern instrumentalisiert: Die Boomer neutralisierten den Klassenbegriff durch kollektiven Bildungsaufstieg — „Klassismus spielte keine Rolle" in der Hausbesetzerszene. Maus Triggerpunkte-Modell erklärt, warum die „kommunikativ beschwiegenen" Themen der Boomer heute als Generationenkonflikt aufbrechen
 - [[Heinz Bude — Gesellschaft der Angst]] — Bude diagnostiziert 2014 die „Misstrauensbewegungen" und die innere Spaltung der Mittelschicht, die Mau empirisch vermisst: Der Swimming-Pool-Effekt (relative Deprivierung) ist der affektive Motor hinter Maus Triggerpunkten
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Ein Fall zur Polarisierungsunternehmer-These: NiUS macht aus einem harmlosen Buffet einen „Islam-Triggerpunkt“, die Arena Innen/Außen wird aktiviert, wenn Reichelt aus einer Kantineneröffnung die „Vollendung der deutschen Unterwerfung“ macht.
 
-### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Dörres VW-Forschung liefert die Betriebsebene zu Maus demobilisierter Klassengesellschaft: Selbst im am besten organisierten Unternehmen Europas wird ein schlechter Kompromiss akzeptiert. Outlaw-Stolz (Dörre/Hochschild) und Maus Triggerpunkte-Modell beschreiben denselben emotionalen Mechanismus aus verschiedenen Perspektiven — das Nicht-gesehen-Werden als Grundierung des Rechtsrucks.
 
-### → [[Gedankenwelten/Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
+### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
 
 Thiele diagnostiziert dieselbe Erosion und schlägt vor, sie zu reparieren: Teilhabe öffnen, Übergriffigkeit begrenzen, Leistungsfähigkeit herstellen. Maus Befund stellt genau das infrage. Ist die Oben-Unten-Arena gesättigt und entzündet sich Erregung an Triggerpunkten der Zugehörigkeit, repariert Thiele die falsche Arena — eine instandgesetzte Brücke beantwortet keine Anerkennungsfrage. Die Veränderungsmüdigkeit trifft zudem seinen Schlussvorschlag frontal: Eine geteilte Zukunftserzählung für 2050 ist genau das Transformationsversprechen, für dessen Gegenteil vierzig Prozent empfänglich sind.
 
@@ -215,7 +215,7 @@ De Weck wählt in Nassehis Dilemma die defensive Modernisierung und lobt Merkel;
 
 Achtzig Prozent sind in Umfragen für Artenschutz, kaum jemand ändert den Einkauf, und Tscharntke hofft, die Wähler machten das Thema zum Kriterium. Maus Triggerpunkte, die Verhaltenszumutung voran, erklären, warum dieses Kriterium auch gegen den Artenschutz ausschlagen kann.
 
-### → [[Gedankenwelten/Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
 
 Barbara Prainsack beschreibt denselben Trigger: Ihr Opa-Argument (Asylsuchende beim Arzt, der Opa wartet) ist Merz' Zahnarzt-Satz, und als größte Gefahr für die Solidarität sieht sie, dass manche nicht mehr als ihrer würdig gelten. Wo Mau Polarisierungsunternehmer sieht, sieht sie ein Nullsummendenken, das aus Erfahrung wächst.
 

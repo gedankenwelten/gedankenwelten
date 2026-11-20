@@ -9,7 +9,7 @@ raetsel: "Im Spiegel einer Verstorbenen erkannte sie endlich die Lebende."
 
 # Georgine Kellermann — DenkerVita
 
-![[Gedankenwelten/assets/Georgine-Kellermann-vita-banner.jpg|1200]]
+![[assets/Georgine-Kellermann-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -90,10 +90,10 @@ Den Gegenwind benennt sie offen. Auf der re:publica spricht sie von einem „Bac
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Raul Krauthausen|Raúl Krauthausen]] — Er führte das Gespräch auf der re:publica 2024 und setzte seine eigene Spiegelgeschichte dagegen, ein Kind ohne Spiegel, das erst spät ein Gefühl für den eigenen Körper fand. Zweimal widersprach er ihr: beim „jeder kann es schaffen“ und beim Fall des SWR.
-- [[Gedankenwelten/DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]] — Die Verfassungsrechtlerin kommentiert das Selbstbestimmungsgesetz und war bis 2023 Vizepräsidentin des Juristinnenbunds, dem Kellermann dankt. Kellermann nennt das Gesetz wichtig und will doch von einer Gesellschaft getragen werden; Valentiner steht für die rechtliche Hälfte dieses Satzes.
-- [[Gedankenwelten/DenkerVita/Lucas Krzikalla|Lucas Krzikalla]] — Beide spielten im Beruf jahrelang Versteck, sie als Georg vor der Kamera, er mit erfundenen Freundinnen vor der Mannschaft. Beide erlebten nach der Offenbarung mehr Zuspruch als befürchtet, und beide sagen selbst, dass ihre Geschichte nicht für alle gilt.
-- [[Gedankenwelten/DenkerVita/Birgit Kelle|Birgit Kelle]] — Beide nennen sich konservativ und berufen sich auf eine christliche Prägung, Kellermann auf ihre katholische Familie, Kelle auf Naturrecht und christliches Menschenbild. In der Geschlechterfrage ziehen sie daraus entgegengesetzte Schlüsse.
+- [[DenkerVita/Raul Krauthausen|Raúl Krauthausen]] — Er führte das Gespräch auf der re:publica 2024 und setzte seine eigene Spiegelgeschichte dagegen, ein Kind ohne Spiegel, das erst spät ein Gefühl für den eigenen Körper fand. Zweimal widersprach er ihr: beim „jeder kann es schaffen“ und beim Fall des SWR.
+- [[DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]] — Die Verfassungsrechtlerin kommentiert das Selbstbestimmungsgesetz und war bis 2023 Vizepräsidentin des Juristinnenbunds, dem Kellermann dankt. Kellermann nennt das Gesetz wichtig und will doch von einer Gesellschaft getragen werden; Valentiner steht für die rechtliche Hälfte dieses Satzes.
+- [[DenkerVita/Lucas Krzikalla|Lucas Krzikalla]] — Beide spielten im Beruf jahrelang Versteck, sie als Georg vor der Kamera, er mit erfundenen Freundinnen vor der Mannschaft. Beide erlebten nach der Offenbarung mehr Zuspruch als befürchtet, und beide sagen selbst, dass ihre Geschichte nicht für alle gilt.
+- [[DenkerVita/Birgit Kelle|Birgit Kelle]] — Beide nennen sich konservativ und berufen sich auf eine christliche Prägung, Kellermann auf ihre katholische Familie, Kelle auf Naturrecht und christliches Menschenbild. In der Geschlechterfrage ziehen sie daraus entgegengesetzte Schlüsse.
 
 ---
 

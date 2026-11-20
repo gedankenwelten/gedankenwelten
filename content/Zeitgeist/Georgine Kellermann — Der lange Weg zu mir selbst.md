@@ -27,7 +27,7 @@ stimme:
 
 # Georgine Kellermann — Der lange Weg zu mir selbst
 
-![[Gedankenwelten/assets/Georgine-Kellermann-Der-lange-Weg-zu-mir-selbst-banner.jpg|1200]]
+![[assets/Georgine-Kellermann-Der-lange-Weg-zu-mir-selbst-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -59,11 +59,11 @@ Quelle: [re:publica 24: Georgine Kellermann – Der lange Weg zu mir selbst: Mei
 > [!info] Wer spricht?
 > **Georgine Kellermann** (*1957, Ratingen*) — Journalistin, vier Jahrzehnte bei WDR und ARD: Reporterin im Ruhrgebiet, Korrespondentin in Washington und Paris, zuletzt Leiterin des WDR-Studios Essen. Bis September 2019 stand sie beruflich als Georg vor der Kamera. Seit ihrer „Offenbarung“, wie sie das Coming-out nennt, tritt sie öffentlich als trans Frau auf. Ihre Autobiografie *Georgine – Der lange Weg zu mir selbst* erschien 2024 bei Ullstein.
 >
-> → [[Gedankenwelten/DenkerVita/Georgine Kellermann|DenkerVita]]
+> → [[DenkerVita/Georgine Kellermann|DenkerVita]]
 >
 > **Raúl Krauthausen** — Aktivist für Inklusion und Barrierefreiheit, Gründer der Sozialhelden, Podcaster (*Im Aufzug*). Er moderiert das Gespräch und bringt an zwei Stellen eigene Erfahrungen ein, als Mensch mit Behinderung.
 >
-> → [[Gedankenwelten/DenkerVita/Raul Krauthausen|DenkerVita]]
+> → [[DenkerVita/Raul Krauthausen|DenkerVita]]
 
 ---
 
@@ -102,7 +102,7 @@ Krauthausen fragt, ob sie manches heute anders bewerte, ob sie traurig sei, es n
 
 ### Der Spiegel in Mahlsdorf
 
-![[Gedankenwelten/assets/Georgine-Kellermann-Weg-zu-mir-selbst_1730.jpg|Folie aus dem Vortrag: Ein Selfie zeigt Georgine Kellermann mit weißblondem Haar und gepunkteter Bluse neben Monika Schulz-Pusch in geblümtem Oberteil. Hinter ihnen hängt ein großes Schwarz-Weiß-Foto von Charlotte von Mahlsdorf in weißer Bluse vor einer Standuhr. Bildunterschrift: Mit Monika Schulz-Pusch vor einem Porträt von Charlotte von Mahlsdorf in Berlin, 2021.|700]]
+![[assets/Georgine-Kellermann-Weg-zu-mir-selbst_1730.jpg|Folie aus dem Vortrag: Ein Selfie zeigt Georgine Kellermann mit weißblondem Haar und gepunkteter Bluse neben Monika Schulz-Pusch in geblümtem Oberteil. Hinter ihnen hängt ein großes Schwarz-Weiß-Foto von Charlotte von Mahlsdorf in weißer Bluse vor einer Standuhr. Bildunterschrift: Mit Monika Schulz-Pusch vor einem Porträt von Charlotte von Mahlsdorf in Berlin, 2021.|700]]
 
 *Die Folie, die Kellermann am Ende zeigt: mit Monika Schulz-Pusch vor einem Porträt von Charlotte von Mahlsdorf, Berlin 2021. Standbild aus dem Video ([▶ 28:50](https://www.youtube.com/watch?v=UdFZl1ABmHo&t=1730)), re:publica, CC BY-SA 4.0.*
 
@@ -251,7 +251,7 @@ Die Schwester-Note zum selben Gedenktag. Krauthausen wollte an diesem Abend ausd
 
 Kellermanns Traum vom trans Menschen, der in den Tagesthemen über das Tempolimit spricht, hat bei Krauthausen eine Schwester: die einarmige Busfahrerin, die im Fernsehen nie vorkommt, weil dort die Behinderung immer die Geschichte sein muss. Beide meinen eine Zugehörigkeit, die man daran erkennt, dass sie kein Thema mehr ist. Krauthausen ist dabei der Ungeduldigere. Er sieht die Welle der Vielfalt schon ablaufen, wo Kellermann den Häusern noch Zeit gibt.
 
-### → [[Gedankenwelten/DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]
+### → [[DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]
 
 Kellermann nennt Gesetze wichtig und will doch „nicht von einem Gesetz geschützt werden“, sondern von einer Gesellschaft. Die Verfassungsrechtlerin Valentiner steht für die andere Hälfte dieses Satzes. Sie leitet aus dem Grundgesetz ein Recht auf geschlechtliche Selbstbestimmung ab, das der Staat zu gewährleisten hat, und gibt einen Kommentar zum Selbstbestimmungsgesetz mit heraus. Bis 2023 war sie Vizepräsidentin des Juristinnenbunds, dem Kellermann auf der Bühne dankt.
 
@@ -267,7 +267,7 @@ Kellermann beobachtet, dass man trans Menschen heute vorwirft, was man früher H
 
 Mau hat in seinen Diskussionsgruppen gesehen, was Kellermann sich wünscht. Jemand erzählt von der Diskriminierung eines trans Menschen in der eigenen Familie, und einige am Tisch „fangen an zu nicken“. Derselbe Mau findet auch die Grenze dieser Hoffnung: Acht von zehn beteuern Toleranz und reagieren Minuten später heftig, wenn es um eigene Schwimmzeiten für trans Menschen geht. „In euren Herzen sein“ wäre damit möglich und zugleich zerbrechlicher, als die Beteuerung klingt.
 
-### → [[Gedankenwelten/Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]]
+### → [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]]
 
 Lucs Gedanke beschreibt Demokratie als einen Kreis derer, die als ganz menschlich gelten. Er weitet sich so langsam, dass man es erst auf alten Fotos sieht, etwa an Homosexuellen, über die man lachte und deren Liebe später rechtlich existierte. Kellermanns Leben, Jahrgang 1957, liegt genau in dieser Spanne. Sie fügt etwas hinzu, das im Gedanken fehlt: Am Rand des Kreises wandert der alte Vorwurf weiter, von den Homosexuellen zu den trans Menschen.
 

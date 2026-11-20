@@ -21,7 +21,7 @@ aliases:
 
 # Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt
 
-![[Gedankenwelten/assets/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt-banner.jpg|Papiercollage: Vier lächelnde Frauenfiguren ohne Gesicht, aus Zeitschriftenschnipseln zusammengesetzt, in Uniform, Dirndl und Wanderjacke, stehen in einem Smartphone. Rote Fäden führen von ihnen zu einer Hand mit Schere.|1200]]
+![[assets/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt-banner.jpg|Papiercollage: Vier lächelnde Frauenfiguren ohne Gesicht, aus Zeitschriftenschnipseln zusammengesetzt, in Uniform, Dirndl und Wanderjacke, stehen in einem Smartphone. Rote Fäden führen von ihnen zu einer Hand mit Schere.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -39,7 +39,7 @@ Quelle: [re:publica 26 — Jung, blond, rechts... & KI-generiert](https://www.yo
 > [!info] Wer spricht?
 > **Katharina Nocun** (*1986 in Polen, aufgewachsen in Deutschland*) — Netzaktivistin und Publizistin, die über den Datenschutz zur Forschung über Verschwörungserzählungen kam. Sie leitete die Solidaritätskampagne „Asyl für Snowden“, für die sich Edward Snowden laut [ihrer Website](https://kattascha.de/personliches/) persönlich bedankte. Von Mai bis November 2013 war sie politische Geschäftsführerin der Piratenpartei, 2016 trat sie aus. Mit der Sozialpsychologin Pia Lamberty schrieb sie *Fake Facts* (2020), *True Facts* (2021) und *Gefährlicher Glaube* (2022), ein Buch über die Esoterik-Szene und ihre Wege nach rechts; dieser Vortrag führt das Thema ins KI-Zeitalter weiter. Für ihre Recherchen beobachtet sie mit eigenen Konten auf mehreren Plattformen, was den unterschiedlichen Milieus in die Timeline gespült wird.
 >
-> → [[Gedankenwelten/DenkerVita/Katharina Nocun|DenkerVita]]
+> → [[DenkerVita/Katharina Nocun|DenkerVita]]
 
 ---
 
@@ -62,7 +62,7 @@ Es gebe viele Wege in rechtsextreme Weltbilder, und es sei naiv zu glauben, alle
 
 [▶ 6:30](https://www.youtube.com/watch?v=xcn64f3byyk&t=390) — Die Journalistin Karolin Schwarz hat ein Milieu untersucht, das Nocun bei ihren Recherchen zu Epstein-Erzählungen selbst immer wieder in den Feed gespült bekam: KI-generierte Fake-Rabbiner, und zwar viele. Die Masche ist immer dieselbe. Ein angeblicher Rabbiner bedient antisemitische Stereotype, alle Juden seien reich und hätten Zugang zu Geheiminformationen, mal mit Verschwörungserzählungen angereichert, mal offen antisemitisch. Die Zugriffe gehen, alle Konten zusammengezählt, in die Millionen.
 
-![[Gedankenwelten/assets/Nocun_republica26_420.jpg|Vortragsfolie „Finanztipps vom Fake-Rabbi“: Stichpunkte zu antisemitischen Stereotypen, Verschwörungserzählungen, Zugriffen in Millionenhöhe, dem Verkauf von E-Books mit Finanztipps und Konten, die später als Arzt für Nahrungsergänzungsmittel werben. Rechts ein Artikel von Karolin Schwarz vom 19. März 2026, „Antisemitische Slopaganda“, mit einem Raster aus KI-Bildern von Männern mit Kippa und Bart.|700]]
+![[assets/Nocun_republica26_420.jpg|Vortragsfolie „Finanztipps vom Fake-Rabbi“: Stichpunkte zu antisemitischen Stereotypen, Verschwörungserzählungen, Zugriffen in Millionenhöhe, dem Verkauf von E-Books mit Finanztipps und Konten, die später als Arzt für Nahrungsergänzungsmittel werben. Rechts ein Artikel von Karolin Schwarz vom 19. März 2026, „Antisemitische Slopaganda“, mit einem Raster aus KI-Bildern von Männern mit Kippa und Bart.|700]]
 
 *Folie aus Nocuns Vortrag; darin der Artikel von [Karolin Schwarz, ohje-internet.de, 19.03.2026](https://ohje-internet.de/2026/03/19/antisemitische-slopaganda-ki-generierte-fake-rabbiner-werden-genutzt-um-desinformation-zu-verbreiten/). Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -78,7 +78,7 @@ Dass vielleicht vor allem Geld im Spiel ist, macht es nicht besser, sagt Nocun. 
 
 [▶ 10:22](https://www.youtube.com/watch?v=xcn64f3byyk&t=622) — Wie wenig es heute braucht, zeigt für Nocun „sehr gut“ der Fall „Jessica Foster“, in Anführungszeichen, denn es gibt sie nicht. Das Profil ist komplett KI-generiert und hatte zwischenzeitlich, sagt Nocun, 1,1 Millionen Follower auf Instagram. Die Geschichte: Sie dient in der US Army, sitzt schick zurechtgemacht im Büro oder läuft über die Basis, steht bei historischen Ereignissen bevorzugt neben Donald Trump und ist bereit, für ihn in den Krieg zu ziehen. Unter ein gefälschtes Selfie mit Wolodymyr Selenskyj schrieb sie: „Mr. Selenski, please wear a suit next time.“ Wer auf den Link im Profil klickte, landete bei OnlyFans, wo Fußfetisch ein zentrales Verkaufsargument war.
 
-![[Gedankenwelten/assets/Nocun_republica26_668.jpg|Vortragsfolie „Sex sells“ mit dem Titel „Jessica Foster“: vier Instagram-Ansichten des Kontos jessicaa.foster mit 1,1 Millionen Followern. Eine junge blonde Frau in US-Armeeuniform, einmal am Schreibtisch vor einer US-Flagge mit dem Text, wer auf amerikanische Soldatinnen stehe, solle hier anhalten, einmal zwischen Donald Trump und Wolodymyr Selenskyj im Weißen Haus, einmal mit den Füßen auf dem Tisch zwischen Soldaten. Links am Pult Katharina Nocun.|700]]
+![[assets/Nocun_republica26_668.jpg|Vortragsfolie „Sex sells“ mit dem Titel „Jessica Foster“: vier Instagram-Ansichten des Kontos jessicaa.foster mit 1,1 Millionen Followern. Eine junge blonde Frau in US-Armeeuniform, einmal am Schreibtisch vor einer US-Flagge mit dem Text, wer auf amerikanische Soldatinnen stehe, solle hier anhalten, einmal zwischen Donald Trump und Wolodymyr Selenskyj im Weißen Haus, einmal mit den Füßen auf dem Tisch zwischen Soldaten. Links am Pult Katharina Nocun.|700]]
 
 *Folie aus Nocuns Vortrag mit Beiträgen des KI-Kontos „jessicaa.foster“ (Instagram). Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -88,7 +88,7 @@ In den jüngeren Kommentaren fragten viele, ob das KI sei, denn inzwischen hatte
 
 [▶ 13:25](https://www.youtube.com/watch?v=xcn64f3byyk&t=805) — Die Masche gibt es auch in Deutschland, und nicht erst seit gestern. „Larissa Wagner“ war ein KI-Konto auf X, im Profil stand klein „KI-Maus“. Sie warb offen dafür, die AfD zu wählen, verbreitete migrationsfeindliche Erzählungen und war, wenn man genau hinsah, von Alice Weidel so begeistert, „dass sie sogar sechs Finger bekommt vor lauter Begeisterung“. Groß wurde das Konto nie, unter 10.000 Follower; ein Beitrag (Transfrauen seien keine Frauen) kam auf rund 1.700 Weiterleitungen.
 
-![[Gedankenwelten/assets/Nocun_republica26_850.jpg|Vortragsfolie „Warum so oft junge Frauen?“: Stichpunkte zum Beschützer-Narrativ, zu einer männlichen Zielgruppe und zur Illusion von Nähe durch eine erfundene Biografie. Rechts ein rot durchgestrichener Beitrag von „Larissa Wagner“ vom 1. November 2024: das KI-Bild einer jungen dunkelhaarigen Frau im Strickpullover, dazu der Text, als gläubige Christin verabscheue sie die meisten Parteien im Bundestag, Transfrauen seien keine Frauen.|700]]
+![[assets/Nocun_republica26_850.jpg|Vortragsfolie „Warum so oft junge Frauen?“: Stichpunkte zum Beschützer-Narrativ, zu einer männlichen Zielgruppe und zur Illusion von Nähe durch eine erfundene Biografie. Rechts ein rot durchgestrichener Beitrag von „Larissa Wagner“ vom 1. November 2024: das KI-Bild einer jungen dunkelhaarigen Frau im Strickpullover, dazu der Text, als gläubige Christin verabscheue sie die meisten Parteien im Bundestag, Transfrauen seien keine Frauen.|700]]
 
 *Folie aus Nocuns Vortrag mit einem Beitrag des KI-Kontos „Larissa Wagner“ (X), von Nocun durchgestrichen. Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -107,7 +107,7 @@ Das war 2024, Ton grottig, Lippen nicht synchron. „Das ist heute nicht mehr so
 
 [▶ 18:41](https://www.youtube.com/watch?v=xcn64f3byyk&t=1121) — Zwei Jahre später ist anderes möglich. Eine Recherche von Correctiv, zum Zeitpunkt des Vortrags „erst zwei Wochen alt“, fand 190 Profile, die zu 22 Personas gehören, alles KI-Frauen. Man sieht es nicht auf den ersten Blick und hört es in den Videos auch auf den zweiten nicht. Darunter sind ganz unterschiedliche Figuren, teils People of Color, und die Konten scheinen miteinander zu interagieren: Sie reagieren aufeinander, posten fast identische Inhalte, mal denselben Text. Nocun vermutet, dass da jemand einen Prompt mit verschiedenen Identitäten hintereinandergeschaltet hat *(eine zentrale Steuerung konnte Correctiv nicht nachweisen → [[#Faktencheck|Faktencheck]])*.
 
-![[Gedankenwelten/assets/Nocun_republica26_1167.jpg|Vortragsfolie „Correctiv 2026: Zola und ihre Freundinnen“: ein Netzwerkbild, wie 190 KI-Profile zu 22 erfundenen Personen gehören und sich gegenseitig verstärken. Dazu das Zitat, da gebe es zum Beispiel Luisa, die erst 19 sein solle, aber Interesse an Männern zwischen 36 und 86 habe, gerne mit Bierbauch. Rechts verpixelte Profilfotos junger Frauen.|700]]
+![[assets/Nocun_republica26_1167.jpg|Vortragsfolie „Correctiv 2026: Zola und ihre Freundinnen“: ein Netzwerkbild, wie 190 KI-Profile zu 22 erfundenen Personen gehören und sich gegenseitig verstärken. Dazu das Zitat, da gebe es zum Beispiel Luisa, die erst 19 sein solle, aber Interesse an Männern zwischen 36 und 86 habe, gerne mit Bierbauch. Rechts verpixelte Profilfotos junger Frauen.|700]]
 
 *Folie aus Nocuns Vortrag nach der [Correctiv-Recherche vom 28.04.2026](https://correctiv.org/faktencheck/hintergrund/2026/04/28/wie-ki-frauen-fuer-afd-und-erotik-werben-tiktok/). Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -123,7 +123,7 @@ Unter dieser Überschrift sammelt Nocun die nächste Stufe: Szenen, in denen erf
 
 [▶ 20:13](https://www.youtube.com/watch?v=xcn64f3byyk&t=1213) — Es gibt nicht nur Frauen, die es nicht gibt, sagt Nocun, sondern auch junge Männer. Auf X erreichte der Ausschnitt einer Talkshow, die nie stattgefunden hat, eine gewisse Reichweite: Ein junger Mann schreit, man habe sie bei Corona „wegen nichts eingesperrt“, und jetzt wolle man ihnen „den Dienst an der Waffe aufdrücken, ihr autoritären Schweine“. Das Publikum wirkt erstarrt, der junge Mann blinzelt kein einziges Mal und hat irgendwann drei Arme. Im Bild steht das Wasserzeichen von Sora, dem Videogenerator von OpenAI. Gekennzeichnet also, nur: Wer, fragt sie, weiß bei unseren Eltern und Großeltern etwas von Wasserzeichen? In den Kommentaren erkannten es viele nicht.
 
-![[Gedankenwelten/assets/Nocun_republica26_1235.jpg|Vortragsfolie „Eine Talkshow, die es nie gab“: links ein Beitrag auf X mit dem Video, rechts ein Standbild daraus mit dem Wasserzeichen von Sora. Ein junger Mann schreit mit offenem Mund in ein Studio, hinter ihm lächelt ein Mann im Anzug. Links am Pult Katharina Nocun.|700]]
+![[assets/Nocun_republica26_1235.jpg|Vortragsfolie „Eine Talkshow, die es nie gab“: links ein Beitrag auf X mit dem Video, rechts ein Standbild daraus mit dem Wasserzeichen von Sora. Ein junger Mann schreit mit offenem Mund in ein Studio, hinter ihm lächelt ein Mann im Anzug. Links am Pult Katharina Nocun.|700]]
 
 *Folie aus Nocuns Vortrag mit einem KI-Video, das auf X kursierte. Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -133,7 +133,7 @@ Die AfD Hannover teilte den Clip. Als jemand darunter auf die KI hinwies, kam si
 
 [▶ 21:44](https://www.youtube.com/watch?v=xcn64f3byyk&t=1304) — Beliebt sind auch Umfragen, die es nie gab, Vox-Pop-Formate, in denen „die Straße“ redet. Das Muster: Sehr häufig werden blonde Frauen befragt, gern mit einem kleinen Kind an der Hand, gern einem Mädchen, zum Thema Kriminalität und Migration und wie viel Angst sie angeblich hätten. Natürlich, räumt Nocun ein, bekomme man auch in einer echten Fußgängerzone irgendwann den Ton, den man haben will. Hier aber werden genau die Inhalte massenhaft erzeugt, die solche Akteure wollen. Der Vorspann des ZDFheute-Artikels auf ihrer Folie spricht von KI-Straßenumfragen mit fremdenfeindlichen Untertönen, die „Millionen Menschen auf TikTok“ erreichen.
 
-![[Gedankenwelten/assets/Nocun_republica26_1351.jpg|Vortragsfolie „Ein Gespräch, das es nie gab“: links ein Zitat von Nocun, das klassische Format der Straßenumfrage wirke besonders anschlussfähig für rechtsextreme Narrative und verschiebe die gefühlte rote Linie dessen, was sagbar ist. Rechts ein Artikel von ZDF heute vom 17. Juli 2025, „KI-Fake-Umfragen schüren Ressentiments“, mit einem als Fälschung markierten Bild einer blonden Frau in einer Fußgängerzone.|700]]
+![[assets/Nocun_republica26_1351.jpg|Vortragsfolie „Ein Gespräch, das es nie gab“: links ein Zitat von Nocun, das klassische Format der Straßenumfrage wirke besonders anschlussfähig für rechtsextreme Narrative und verschiebe die gefühlte rote Linie dessen, was sagbar ist. Rechts ein Artikel von ZDF heute vom 17. Juli 2025, „KI-Fake-Umfragen schüren Ressentiments“, mit einem als Fälschung markierten Bild einer blonden Frau in einer Fußgängerzone.|700]]
 
 *Folie aus Nocuns Vortrag mit einem Artikel von [ZDFheute vom 17.07.2025](https://www.zdfheute.de/politik/deutschland/ki-videos-umfragen-tiktok-100.html). Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -147,7 +147,7 @@ Im Vortrag erklärt sie, wie das wirkt. Wer einmal in so ein Kaninchenloch läuf
 
 [▶ 23:16](https://www.youtube.com/watch?v=xcn64f3byyk&t=1396) — Im deutschsprachigen Raum hat Nocun das nächste Format noch nicht gesehen, „ich bin mir aber sicher, das kommt früher oder später noch“. In den USA kursiert es in vielen Varianten, und die Geschichte ist immer dieselbe: Ein Mann mit MAGA-Mütze steht vor einer Frauentoilette, drinnen seine Frau, Tochter oder Freundin, und er hält eine queere Person auf, die hinein will.
 
-![[Gedankenwelten/assets/Nocun_republica26_1442.jpg|Vortragsfolie „Eine Konfrontation, die es nie gab“: Stichpunkte, die Szene kursiere in vielen Varianten, meist beschütze ein Mann seine Frau, Tochter oder Freundin, und queere Menschen würden als Bedrohung gezeigt. Rechts ein Faktencheck von Snopes vom 16. Februar 2026: Man solle nicht auf das gefälschte Bild eines Mannes mit MAGA-Mütze hereinfallen, der einer trans Person den Weg zur Frauentoilette versperrt. Darunter das Bild, ein Mann mit roter Mütze vor einer Person mit bunt gefärbten Haaren.|700]]
+![[assets/Nocun_republica26_1442.jpg|Vortragsfolie „Eine Konfrontation, die es nie gab“: Stichpunkte, die Szene kursiere in vielen Varianten, meist beschütze ein Mann seine Frau, Tochter oder Freundin, und queere Menschen würden als Bedrohung gezeigt. Rechts ein Faktencheck von Snopes vom 16. Februar 2026: Man solle nicht auf das gefälschte Bild eines Mannes mit MAGA-Mütze hereinfallen, der einer trans Person den Weg zur Frauentoilette versperrt. Darunter das Bild, ein Mann mit roter Mütze vor einer Person mit bunt gefärbten Haaren.|700]]
 
 *Folie aus Nocuns Vortrag mit einem Faktencheck von [Snopes vom 16.02.2026](https://www.snopes.com/fact-check/maga-hat-trans-restroom-photo/). Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -164,7 +164,7 @@ Bei dem Bild auf der Folie fand Snopes die Herkunft: Der Betreiber einer Faceboo
 
 [▶ 24:49](https://www.youtube.com/watch?v=xcn64f3byyk&t=1489) — Der nächste Trend aus den USA trägt das Gegenteil von Bedrohung im Gesicht. Vor einem Jahr, erinnert Nocun, postete das Weiße Haus ein Bild im Stil des Studio Ghibli: die Festnahme von Virginia Basora-Gonzalez, einer Dominikanerin, die wegen Fentanylhandels schon einmal abgeschoben worden war, weinend in Handschellen (27. März 2025). Nocun, selbst Fan des Studio Ghibli, das für sie „ungefähr die niedlichsten, schönsten, feministischsten Geschichten“ erzählt, findet es bitter:
 
-![[Gedankenwelten/assets/Nocun_republica26_1534.jpg|Vortragsfolie „Popkultur Remix: vertraut & niedlich?“: links ein Beitrag des Weißen Hauses im Stil eines Zeichentrickfilms, ein Beamter mit Kappe legt einer weinenden Person Handschellen an, daneben das Foto, das als Vorlage diente, mit der Zeile „Fentanyl Dealer Arrested“. Rechts, rot durchgestrichen, Bilder im Stil der Simpsons: zwei Politiker vor Fahnen, eine Politikerin vor dem Reichstag und eine Familie mit Kopftüchern und Geldscheinen, mit Abrufzahlen von 30.800, 93.500 und 36.200.|700]]
+![[assets/Nocun_republica26_1534.jpg|Vortragsfolie „Popkultur Remix: vertraut & niedlich?“: links ein Beitrag des Weißen Hauses im Stil eines Zeichentrickfilms, ein Beamter mit Kappe legt einer weinenden Person Handschellen an, daneben das Foto, das als Vorlage diente, mit der Zeile „Fentanyl Dealer Arrested“. Rechts, rot durchgestrichen, Bilder im Stil der Simpsons: zwei Politiker vor Fahnen, eine Politikerin vor dem Reichstag und eine Familie mit Kopftüchern und Geldscheinen, mit Abrufzahlen von 30.800, 93.500 und 36.200.|700]]
 
 *Folie aus Nocuns Vortrag mit einem [Beitrag des Weißen Hauses auf X vom 27.03.2025](https://x.com/WhiteHouse/status/1905332049021415862) und Bildern eines Kontos aus dem AfD-Vorfeld, von Nocun durchgestrichen. Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -174,7 +174,7 @@ Zugleich sei es gezielte Provokation gewesen, mit riesigem Medienecho, und sie g
 
 Dann gibt es die vielen Fan-Konten im Vorfeld der AfD. Für viel Presse sorgte vor einigen Monaten „AfD Freunde Beckum“ auf Facebook: am laufenden Band KI-Bilder einer verkitschten deutschen Wirklichkeit durch die AfD-Brille. Die Frauen haben fast alle einen tiefen Ausschnitt, die Männer trinken Bier und haben beeindruckende Oberarme, und in den Kommentaren schreiben ältere Männer (Nocun hat nachgesehen, wer) anzügliche Bemerkungen.
 
-![[Gedankenwelten/assets/Nocun_republica26_1672.jpg|Vortragsfolie „Wohlfühl-Content oder Ragebait?“: Beiträge der Facebook-Seite „AfD Freunde Beckum“. Eine Familie in der Küche, die Frau im Dirndl am Herd, Text: Familie und Tradition genießen. Ein muskulöser Mann mit Kind vor AfD-Fahnen. Daneben zwei Kommentare darunter: „1933 gab es noch kein Cerankochfeld!“ und „Irgendwann gibt es dann auch das Mutterkreuz“.|700]]
+![[assets/Nocun_republica26_1672.jpg|Vortragsfolie „Wohlfühl-Content oder Ragebait?“: Beiträge der Facebook-Seite „AfD Freunde Beckum“. Eine Familie in der Küche, die Frau im Dirndl am Herd, Text: Familie und Tradition genießen. Ein muskulöser Mann mit Kind vor AfD-Fahnen. Daneben zwei Kommentare darunter: „1933 gab es noch kein Cerankochfeld!“ und „Irgendwann gibt es dann auch das Mutterkreuz“.|700]]
 
 *Folie aus Nocuns Vortrag mit Beiträgen und Kommentaren der Facebook-Seite „AfD Freunde Beckum“. Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -191,7 +191,7 @@ Hier wird Nocun selbstkritisch. Ein kleines Konto, das ohne die vielen Medienber
 
 [▶ 28:40](https://www.youtube.com/watch?v=xcn64f3byyk&t=1720) — Gegen das, was die AfD auf ihren eigenen Konten macht, vor allem auf Instagram, sei das alles „Kindergeburtstag“. Dort gehe es nicht um Ironie und Spiel. Fast jeder Beitrag ist KI-generiert, und das erkenne man „natürlich sofort an der ganz großen Kennzeichnung“, die vor allem auf kleinen Bildschirmen „sofort ins Auge“ falle (Nocun meint es spöttisch: Die Kennzeichnung ist klein). „Überlegt mal, wie abgebrüht man sein muss, um ein kleines Kind mit dem Messer KI zu generieren.“ Oder um Leuten zu verkaufen, in Unterkünften für Geflüchtete werde man von einem Kellner am Servierwagen bedient.
 
-![[Gedankenwelten/assets/Nocun_republica26_1760.jpg|Vortragsfolie „Die AfD auf Instagram: Wut, Angst und KI“: zwei rot durchgestrichene Beiträge des AfD-Bundeskontos. Links KI-generierte Jugendliche mit Messer vor einer Schule, Text: Schüler und Lehrer leben in Angst, Gewalt an Schulen nimmt drastisch zu. Rechts junge Männer in einer Hotellobby, ein Kellner serviert, Text: Während die Infrastruktur zerfällt, verprasst die Berliner CDU 900 Millionen Euro für Migrantenunterkünfte.|700]]
+![[assets/Nocun_republica26_1760.jpg|Vortragsfolie „Die AfD auf Instagram: Wut, Angst und KI“: zwei rot durchgestrichene Beiträge des AfD-Bundeskontos. Links KI-generierte Jugendliche mit Messer vor einer Schule, Text: Schüler und Lehrer leben in Angst, Gewalt an Schulen nimmt drastisch zu. Rechts junge Männer in einer Hotellobby, ein Kellner serviert, Text: Während die Infrastruktur zerfällt, verprasst die Berliner CDU 900 Millionen Euro für Migrantenunterkünfte.|700]]
 
 *Folie aus Nocuns Vortrag mit zwei Beiträgen des Instagram-Kontos „afd bund“; die roten Linien sind Nocuns Durchstreichung. Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -203,7 +203,7 @@ Das macht etwas mit Menschen. Wer in dieser Blase ist, denkt, so sehe Deutschlan
 
 [▶ 29:25](https://www.youtube.com/watch?v=xcn64f3byyk&t=1765) — Für das, was daraus wächst, gibt es inzwischen einen Begriff: „Decline Porn“, Verfallsporno. Einzelne Influencer und ganze Konten posten nur noch Inhalte, die nahelegen, in Berlin etwa sei „total die Hölle los“, als Frau könne man nachts nicht mehr aus dem Haus, überall Kriminalität. Die Folie zeigt das Muster: „Ich zeige dir, was die großen Medien dir verheimlichen“, oder „so wird es in 10 Jahren aussehen, wenn linksgrün …“. Manche geben der Migration die Schuld an Missständen, andere beklagen schlicht die Anwesenheit nicht-weißer Menschen. Für Großbritannien hat die BBC das untersucht und viel KI-Material dieser Art gefunden.
 
-![[Gedankenwelten/assets/Nocun_republica26_1857.jpg|Vortragsfolie „Decline Porn“: Stichpunkte zu Horrorszenarien nach dem Muster „ich zeige dir, was die großen Medien dir verheimlichen“ oder „so wird es in zehn Jahren aussehen, wenn linksgrün“; manche Influencer gäben der Migration die Schuld oder beklagten die bloße Anwesenheit nicht-weißer Menschen; über Empfehlungen würden auch Reisewillige erreicht. Rechts ein BBC-Artikel von Marianna Spring vom 21. Februar 2026: Warum gefälschte KI-Videos über den Verfall britischer Städte die sozialen Medien erobern. Darunter ein vermummter Mann vor Hochhäusern.|700]]
+![[assets/Nocun_republica26_1857.jpg|Vortragsfolie „Decline Porn“: Stichpunkte zu Horrorszenarien nach dem Muster „ich zeige dir, was die großen Medien dir verheimlichen“ oder „so wird es in zehn Jahren aussehen, wenn linksgrün“; manche Influencer gäben der Migration die Schuld oder beklagten die bloße Anwesenheit nicht-weißer Menschen; über Empfehlungen würden auch Reisewillige erreicht. Rechts ein BBC-Artikel von Marianna Spring vom 21. Februar 2026: Warum gefälschte KI-Videos über den Verfall britischer Städte die sozialen Medien erobern. Darunter ein vermummter Mann vor Hochhäusern.|700]]
 
 *Folie aus Nocuns Vortrag mit dem Artikel von [Marianna Spring, BBC, 21.02.2026](https://www.bbc.co.uk/news/articles/c4g8r23yv71o). Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -217,13 +217,13 @@ Als Berlinerin könne sie darüber lachen, sagt Nocun. Aber Menschen auf dem Lan
 
 Die erste Anweisung klingt harmlos: *„Erstellen Sie ein Bild einer niederländischen Familie. Sie stehen vor ihrem Haus. Eine niederländische Flagge weht. Es ist ein realistisches Foto.“*
 
-![[Gedankenwelten/assets/Nocun_republica26_1949.jpg|Vortragsfolie „Die Prompts?“: Stichpunkte, eine Recherche von De Groene Amsterdammer mit der Data School der Universität Utrecht über einen Fan-Account der PVV auf Facebook, dessen 174 Prompts öffentlich einsehbar waren. Rechts das KI-Bild einer Familie vor einem Backsteinhaus mit niederländischer Flagge, Vater, Mutter, ein rothaariger Junge und ein Mädchen.|700]]
+![[assets/Nocun_republica26_1949.jpg|Vortragsfolie „Die Prompts?“: Stichpunkte, eine Recherche von De Groene Amsterdammer mit der Data School der Universität Utrecht über einen Fan-Account der PVV auf Facebook, dessen 174 Prompts öffentlich einsehbar waren. Rechts das KI-Bild einer Familie vor einem Backsteinhaus mit niederländischer Flagge, Vater, Mutter, ein rothaariger Junge und ein Mädchen.|700]]
 
 *Folie aus Nocuns Vortrag nach der Recherche von [De Groene Amsterdammer](https://www.groene.nl/artikel/maak-haar-blond-onschuldig-en-knap). Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 Dem Admin passte es nicht. Die Frau muss blond sein, und der Junge darf bitte nicht rothaarig sein. Dann: Es sieht so unecht aus, realistischer bitte. Und dann, „dreimal dürft ihr raten, was ihn gestört hat“, fragt Nocun den Saal.
 
-![[Gedankenwelten/assets/Nocun_republica26_prompts_hübscher.png|Dieselbe Folie „Die Prompts?“ einen Schritt weiter: Die Familie vor dem Backsteinhaus ist nachgebessert, die Mutter jetzt blond, das Mädchen älter und geschminkt. Darunter eingeblendet der Prompt: „Das Mädchen, mach sie hübscher.“|700]]
+![[assets/Nocun_republica26_prompts_hübscher.png|Dieselbe Folie „Die Prompts?“ einen Schritt weiter: Die Familie vor dem Backsteinhaus ist nachgebessert, die Mutter jetzt blond, das Mädchen älter und geschminkt. Darunter eingeblendet der Prompt: „Das Mädchen, mach sie hübscher.“|700]]
 
 *Folie aus Nocuns Vortrag nach der Recherche von De Groene Amsterdammer. Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -238,7 +238,7 @@ Dem Admin passte es nicht. Die Frau muss blond sein, und der Junge darf bitte ni
 
 [▶ 33:14](https://www.youtube.com/watch?v=xcn64f3byyk&t=1994) — Ein großes Fazit hat Nocun nicht. Über Regulierung gebe es auf dieser Konferenz genug Vorträge. Sie wolle nur auf den Zustand aufmerksam machen: „Der derzeitige Zustand ist so abgefuckt, das kann ich gar nicht mehr in Worte fassen. Es ist einfach nur kaputt.“ Dann: Sie hätte nicht gedacht, dass sie einmal den Papst zitieren würde, aber auch nicht, „dass wir mal einen Papst haben, der Hannah Arendt zitiert“. Gemeint ist Leo XIV. Im Oktober 2025 zitierte er vor Vertretern von Nachrichtenagenturen Arendts Satz aus *Elemente und Ursprünge totaler Herrschaft*; die Folie zeigt einen Bericht der taz darüber. Wenige Tage nach dem Vortrag stand der Satz auch in seiner Enzyklika *Magnifica Humanitas*.
 
-![[Gedankenwelten/assets/Nocun_republica26_2040.jpg|Letzte Folie: ein Artikel „Vatikan warnt vor KI und Faschismus“ mit einem Foto von Papst Leo XIV. am Rednerpult. Daneben das Zitat, das er von Hannah Arendt aus „Elemente und Ursprünge totaler Herrschaft“ von 1951 aufgreift: Der ideale Untertan totalitärer Herrschaft sei nicht der überzeugte Nazi oder engagierte Kommunist, sondern Menschen, für die der Unterschied zwischen Fakt und Fiktion, zwischen wahr und falsch, nicht länger existiert.|700]]
+![[assets/Nocun_republica26_2040.jpg|Letzte Folie: ein Artikel „Vatikan warnt vor KI und Faschismus“ mit einem Foto von Papst Leo XIV. am Rednerpult. Daneben das Zitat, das er von Hannah Arendt aus „Elemente und Ursprünge totaler Herrschaft“ von 1951 aufgreift: Der ideale Untertan totalitärer Herrschaft sei nicht der überzeugte Nazi oder engagierte Kommunist, sondern Menschen, für die der Unterschied zwischen Fakt und Fiktion, zwischen wahr und falsch, nicht länger existiert.|700]]
 
 *Letzte Folie aus Nocuns Vortrag mit einem Artikel der [taz vom 10.10.2025](https://taz.de/Papst-und-Pressefreiheit/!6118951/) über Papst Leo XIV. Standbild: re:publica 26, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
@@ -260,7 +260,7 @@ Man kann den Vortrag von diesem Ende her lesen, und das ist unsere Lesart, nicht
 - **Die AfD baut sich ihr eigenes Werkzeug.** Anfang Juli 2026 stellte die Partei auf ihrem Bundesparteitag in Erfurt „Alternita Studio“ vor, eine KI für Wahlkampfgrafiken, gebaut von einer Firma, die der AfD gehört. Ein Correctiv-Reporter, der sich als Kreisverbandsmitglied ausgab, ließ damit verfassungsfeindliche Beiträge erzeugen; exportierte Hintergrundbilder trugen keine KI-Kennzeichnung. Auf dem Instagram-Konto von Alice Weidel fand Correctiv ungekennzeichnete KI-Bilder. Die Anwälte der AfD widersprechen: Fehle eine Kennzeichnung, sei das ein Anwendungsfehler der Nutzer ([Correctiv, 02.07.2026](https://correctiv.org/aktuelles/geschaefte-der-afd/2026/07/02/die-propaganda-ki-der-afd/)). Was Nocun im Mai als Praxis von Fan-Konten und Parteikonten beschrieb, hat damit eine Werkbank bekommen.
 - **Die Kennzeichnungspflicht gilt.** Seit dem 2. August 2026 verlangt Artikel 50 der europäischen KI-Verordnung, dass Deepfakes offengelegt und KI-Inhalte maschinenlesbar markiert werden. Das Änderungspaket „Digital Omnibus“ verschob die Hochrisiko-Regeln, nicht diese Pflicht; Anbieter, deren Systeme schon vorher auf dem Markt waren, haben für die maschinenlesbare Markierung vier Monate Übergang bis zum 2. Dezember 2026. Ab demselben Tag verboten sind KI-Systeme, die ohne Einwilligung realistische intime Darstellungen erkennbarer Menschen erzeugen ([Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng)). Ob eine kleine Kennzeichnung auf dem Handybildschirm auffällt, regelt sie nicht.
 - **Der Papst zitierte Arendt ein zweites Mal**, in der Enzyklika *Magnifica Humanitas*, vorgestellt am 25. Mai 2026 (Nr. 134). Die Fußnote vermerkt, dass die deutsche Fassung des Satzes deutlich anders lautet ([Vatikan](https://www.vatican.va/content/leo-xiv/de/encyclicals/documents/20260515-magnifica-humanitas.html)).
-- **Gefälschte Videos im Landtagswahlkampf.** Vor der Wahl in Sachsen-Anhalt kursierte ein Video, das Briefwahlbetrug zulasten der AfD zeigen sollte, verbreitet über YouTube-Konten mit KI-Videos und einer wohl KI-generierten Stimme, zusammen mehr als 100.000 Aufrufe. Das Zentrum CeMAS hält es mit hoher Wahrscheinlichkeit für einen Teil der russischen Kampagne Storm-1516 ([Correctiv, 08.09.2026](https://correctiv.org/faktencheck/2026/09/08/landtagswahl-video-zeigt-keinen-briefwahlbetrug-in-sachsen-anhalt/)). Hier spielt die staatliche Variante der Fake-Unterstützer, die die Note über [[Gedankenwelten/Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand]] beschreibt, der AfD eine Opfergeschichte zu.
+- **Gefälschte Videos im Landtagswahlkampf.** Vor der Wahl in Sachsen-Anhalt kursierte ein Video, das Briefwahlbetrug zulasten der AfD zeigen sollte, verbreitet über YouTube-Konten mit KI-Videos und einer wohl KI-generierten Stimme, zusammen mehr als 100.000 Aufrufe. Das Zentrum CeMAS hält es mit hoher Wahrscheinlichkeit für einen Teil der russischen Kampagne Storm-1516 ([Correctiv, 08.09.2026](https://correctiv.org/faktencheck/2026/09/08/landtagswahl-video-zeigt-keinen-briefwahlbetrug-in-sachsen-anhalt/)). Hier spielt die staatliche Variante der Fake-Unterstützer, die die Note über [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand]] beschreibt, der AfD eine Opfergeschichte zu.
 - **Nocun hält den Vortrag weiter**, zuletzt angekündigt für den 26. November 2026 in Hamburg ([IfKI](https://ifki.org/veranstaltung/katharina-nocun-jung-blond-rechts-ki-generiert/)).
 
 ---
@@ -324,47 +324,47 @@ Man kann den Vortrag von diesem Ende her lesen, und das ist unsere Lesart, nicht
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf]]
+### → [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf]]
 
 Beide Notes zeigen KI als Propaganda-Werkzeug, auf verschiedenen Ebenen: Nocun die Sockenpuppen im Vorfeld (190 Profile, 22 Personas, erfundene Frauen), rabbit hole den Wahlkampf einer Regierungspartei (Fidesz) und daneben die russische Desinformationskampagne Storm-1516. Zusammen ergeben sie zwei Achsen des Phänomens: einen Markt aus Einzelnen und Fan-Konten und den gelenkten Einsatz von Parteien und Staaten.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 
 Kempers Satz über den vorwärtsgewandten Faschismus, „Der braucht keine Massenaufmärsche. Der hat KI“, bekommt bei Nocun Anschauung: KI-Frauen, KI-Bilder auf dem Instagram-Konto der AfD, eine algorithmisch verstärkte Zerrwelt. Nocun selbst spricht nicht von Technofaschismus; ihre Beispiele zeigen das Werkzeug, Kempers These deutet es.
 
-### → [[Gedankenwelten/Geistesblitz/ARTE — Forschung Fake und faule Tricks]]
+### → [[Geistesblitz/ARTE — Forschung Fake und faule Tricks]]
 
 Agnotologie, die gezielte Herstellung von Unwissen, und der Zustand, den Nocun mit Arendt beschreibt, laufen auf dasselbe hinaus: Es muss sich keine eigene Wahrheit durchsetzen, es genügt, dass dem Publikum der Boden für jede Wahrheit wegrutscht. Was früher ein Konzernapparat brauchte, erledigt heute ein Prompt.
 
-### → [[Gedankenwelten/Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
+### → [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
 
 Temelkurans Stufen 3 und 4 (Rationalität stören, Enthemmung normalisieren) finden bei Nocun ihr Werkzeug. Was Temelkuran als politischen Prozess beschreibt, die schrittweise Gewöhnung an die Auflösung von Fakten, beschleunigen bei Nocun die Empfehlungsalgorithmen mit einer Flut KI-generierter Bilder.
 
-### → [[Gedankenwelten/Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Nachtsitzung zeigt das transnationale Netzwerk (CPAC, Heritage Foundation, Atlas-Netzwerk, Bannons Selbstauskunft als AfD-Berater), das den ideologischen Rahmen setzt. Nocuns KI-Frauen und Verfallsvideos spielen eine Ebene tiefer, im Feed. Ob beides organisatorisch zusammenhängt, zeigt keine der beiden Notes; sie zeigen dieselben Erzählungen auf zwei Ebenen.
 
-### → [[Gedankenwelten/Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
+### → [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 
 Kendi zeigt, wie die Great Replacement Theory als Machtinstrument funktioniert: Sie erzeugt das Gefühl, bedroht zu sein. Nocuns Bilder sind die visuelle Schicht dazu: blonde Frauen in Angst, Gruppen von Migranten, „fast immer Männer, fast immer gucken sie wütend“, Berlin als Albtraum. Kendi erklärt das Warum, Nocun zeigt das Wie.
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
+### → [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 Topfvollgold zeigt den Vorläufer: eine falsche Migrationsgeschichte von BILD, die rechte Influencer und AfD-Politiker weitertragen und die Compact mit einem KI-Fakebild ausschmückt. Bei Nocun beginnt die Kette gleich mit dem erfundenen Bild.
 
-### → [[Gedankenwelten/Denker/Hannah Arendt — Die Banalität des Bösen]]
+### → [[Denker/Hannah Arendt — Die Banalität des Bösen]]
 
 Arendts Kernentdeckung: Das größte Böse entsteht nicht aus Hass, sondern aus dem **Aufhören zu denken**, aus bloßem Funktionieren. Der PVV-Admin, der „mach sie hübscher“ in ein Promptfeld tippt, ist kein Monster; er arbeitet an einem Bild, bis es seiner Vorstellung entspricht. Die Fake-Rabbiner, die die Identität wechseln, wenn die Reichweite abgegrast ist, folgen, vermutet Nocun, vielleicht eher dem Geschäft als einer Ideologie. Arendts Bild vom Pilz trifft es: Das Böse breitet sich an der Oberfläche aus, und KI-Slop ist eine Oberfläche, auf der es sich billig vervielfältigt.
 
-### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Zwei Seiten derselben Praxis: Hier zeigt Nocun, wie KI-Bilder rechte Bildwelten vervielfältigen, dort entschlüsseln Annika Brockschmidt und sie die Codes dahinter. Herstellung und Zeichensystem gehören zusammen.
 
-### → [[Gedankenwelten/Denker/Hannah Arendt — Denken ohne Geländer]]
+### → [[Denker/Hannah Arendt — Denken ohne Geländer]]
 
 Das Geländer bei Arendt ist die gemeinsame Wirklichkeit, die es erlaubt, selbst zu urteilen, ohne jeden Fall von Grund auf neu zu prüfen. Nocuns Vortrag zeigt, wie dieses Geländer abgeschraubt wird: Decline Porn, Fake-Umfragen, erfundene Talkshows. Wer nicht mehr weiß, ob das Interview echt ist, ob das Familienbild real ist, ob Berlin wirklich brennt, verliert, was Arendt die Fähigkeit nennt, zwischen wahr und falsch zu unterscheiden.
 
-### → [[Gedankenwelten/Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
+### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
 
 Heims und Stark zeigen dieselbe Tarnung als Meme-Community: Was hier die Esoterik-Pipeline ist, ist bei Agartha die Ironie. Beide machen menschenfeindliche Inhalte anschlussfähig, indem sie harmlos aussehen und für den Algorithmus gebaut sind.
 
@@ -376,15 +376,15 @@ Die zweite Hälfte der KI-Bildpolitik: Wo Nocun das *Erschaffen* idealisierter F
 
 Dasselbe Algorithmus-Argument in der Kommentarspalte: Wenn selbst das Entlarven eines Codes seine Reichweite erhöht, arbeitet die Mechanik für die Täter. Bei Nocun ist es der Spott über „AfD Freunde Beckum“.
 
-### → [[Gedankenwelten/Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
 
 Die staatliche Variante der Fake-Unterstützer: geklonte Stimmen echter Autorinnen, erfundene Interviewpartner, echte Experten unter falschem Vorwand. Wienand ergänzt, dass auch das Entlarven eingeplant ist, denn der Bericht darüber dient als Arbeitsnachweis.
 
-### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 Spiegelverkehrt: Nocun zeigt, wie KI rechte Propaganda *herstellt*, IT Mario nutzt KI, um rechte Rhetorik zu *messen*. Dasselbe Werkzeug, zwei entgegengesetzte Rollen im selben Feld.
 
-### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 
 Kurz liefert die technische Seite: Der stochastische Papagei erzeugt keine Wahrheit, sondern wahrscheinliche Fortsetzungen. Was Kurz als Schwäche großer Sprachmodelle beschreibt, ist bei Nocun die Bedingung, unter der KI-Slop billig wird.
 

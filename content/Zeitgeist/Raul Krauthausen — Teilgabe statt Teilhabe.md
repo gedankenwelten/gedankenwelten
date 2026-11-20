@@ -24,7 +24,7 @@ aliases:
 
 # Raúl Krauthausen — Teilgabe statt Teilhabe
 
-![[Gedankenwelten/assets/Raul-Krauthausen-Teilgabe-statt-Teilhabe-banner.jpg|In einem Hörsaal sitzen gesichtslose Menschen in grauen Stuhlreihen; auf der Bühne spricht ein Mann im Rollstuhl neben einem Pult, eine einfache Holzrampe führt hinauf, auf dem Boden zwei Rollstuhlsymbole.|1200]]
+![[assets/Raul-Krauthausen-Teilgabe-statt-Teilhabe-banner.jpg|In einem Hörsaal sitzen gesichtslose Menschen in grauen Stuhlreihen; auf der Bühne spricht ein Mann im Rollstuhl neben einem Pult, eine einfache Holzrampe führt hinauf, auf dem Boden zwei Rollstuhlsymbole.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -44,11 +44,11 @@ Quelle: [Raúl Krauthausen & Aladin El-Mafaalani: Wie inklusiv ist Großzügigke
 > [!info] Wer spricht?
 > **Raúl Krauthausen** (*1980, Lima*) — Aktivist für Inklusion und Barrierefreiheit, aufgewachsen in Berlin. Er lebt mit Osteogenesis imperfecta, der sogenannten Glasknochenkrankheit, und fährt Rollstuhl. Nach dem Studium der Gesellschafts- und Wirtschaftskommunikation an der UdK Berlin gründete er mit seinem Cousin den Verein *Sozialhelden*, aus dem die [Wheelmap](https://wheelmap.org) (2010) und [Leidmedien.de](https://leidmedien.de) (2012) hervorgingen, eine Plattform für Journalistinnen, die ohne Klischees über Behinderung berichten wollen. Bücher: *Dachdecker wollte ich eh nicht werden* (2014), *Wie kann ich was bewegen?* (2021), *Wer Inklusion will, findet einen Weg. Wer sie nicht will, findet Ausreden* (2023). Podcast *Im Aufzug*, Bundesverdienstkreuz 2013. In den Gedankenwelten war er bisher nur kurz Gast in [[Gilda con Arne — Rechte Milliardaere kaufen Medien#Raúl Krauthausen zum Widerstand gegen die Kürzungen|Gilda con Arne]].
 >
-> → [[Gedankenwelten/DenkerVita/Raul Krauthausen|DenkerVita]]
+> → [[DenkerVita/Raul Krauthausen|DenkerVita]]
 >
 > **Aladin El-Mafaalani** (*1978, Datteln*) — Migrations- und Bildungssoziologe an der TU Dortmund, Autor von *Das Integrationsparadox* (2018) und *Misstrauensgemeinschaften* (2025), bei der Utopie-Konferenz 2026 erstmals Gastgeber. Hier fragt er mehr, als er sagt. Die beiden sind befreundet, und man hört es.
 >
-> → [[Gedankenwelten/DenkerVita/Aladin El-Mafaalani|DenkerVita]]
+> → [[DenkerVita/Aladin El-Mafaalani|DenkerVita]]
 
 ---
 
@@ -207,7 +207,7 @@ Seine Schicksalsgemeinschaft [▶ 36:00](https://www.youtube.com/watch?v=P9H5Beq
 
 Nebeneinander sitzen ist aber noch nicht dazugehören. Kinder mit Förderbedarf haben in Regelklassen im Schnitt weniger Freunde, mehr Kontakt zur Lehrerin als zu Mitschülern und werden seltener angenommen ([Koster et al. 2010](https://doi.org/10.1080/10349120903537905), Einzelstudie, Niederlande). Wie auf dem Fußballplatz von [[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Wirkt Begegnung, wenn man zusammen spielt?|Eichis FC Pio]] hilft die Begegnung, wenn man etwas zusammen tut, auf gleicher Höhe, und wenig, wenn man nur denselben Raum teilt. Die Rampe allein macht noch keine Klasse.
 
-→ Weiter im Panorama: **[[Gedankenwelten/Panorama/Was macht Schule mit uns#Wozu ist Schule da?|Wozu ist Schule da?]]**, mit Zimpel, Spitzer und Malala Yousafzai.
+→ Weiter im Panorama: **[[Panorama/Was macht Schule mit uns#Wozu ist Schule da?|Wozu ist Schule da?]]**, mit Zimpel, Spitzer und Malala Yousafzai.
 
 ### Wirken Quoten?
 
@@ -345,19 +345,19 @@ Maus Gleichbehandlungs-Trigger beschreibt die Angst, andere drängelten sich vor
 
 Im Abschnitt *Wozu ist Schule da?* stehen die Meta-Analysen, auf die Krauthausens „das ist einfach Mathematik“ sich stützen kann. Seine Stimme fehlte dort bisher: eine, die Inklusion von innen kennt und trotzdem sagt, dass sie das Scheitern einschließen muss.
 
-### → [[Gedankenwelten/Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
-### → [[Gedankenwelten/Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
+### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
 
 Wie Technik für behinderte Menschen auf einer Preisbühne erzählt wird, zeigt der Erfinderpreis 2024: Vier tunesische Ingenieurinnen führen einen gedankengesteuerten Rollstuhl vor; zwei Jahre später findet sich kein Beleg, dass er ausgeliefert wurde.
 
-### → [[Gedankenwelten/Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
+### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
 
 Barbara Prainsack macht Teilgabe zum ersten Prinzip solidarischer Institutionen: Würde hängt für die meisten daran, gebraucht zu werden, nicht versorgt und weggeschickt. Zugleich nennt sie Solidarität freiwillig, nicht einforderbar, und steht damit genau dort, wo Krauthausen und El-Mafaalani über die Quote streiten.
 
-### → [[Gedankenwelten/Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#VisiNav den freien Weg hören|Made in Germany Awards 2026 — KI]]
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI#VisiNav den freien Weg hören|Made in Germany Awards 2026 — KI]]
 
 Eine App übersetzt für blinde Menschen den freien Weg in Töne, weil die Infrastruktur kaum auf sie ausgelegt ist. Die Hilfe stattet den Einzelnen aus, wo die Barriere bleibt, und die Praxistests mit blinden Menschen stehen noch aus.
 

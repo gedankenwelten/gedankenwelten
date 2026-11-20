@@ -32,7 +32,7 @@ aliases:
 
 # Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)
 
-![[Gedankenwelten/assets/Eva-von-Redecker-Ueber-den-neuen-Faschismus-Jung-und-Naiv-811-banner.jpg|Eine hölzerne Gliederpuppe zielt mit einem Gewehr neben einem Sockel mit gläsernem Globus, rechts unter Arkaden fällt der große Schatten einer unsichtbaren Gestalt, hinten fährt ein Dampfzug durch die leere Ebene.|1200]]
+![[assets/Eva-von-Redecker-Ueber-den-neuen-Faschismus-Jung-und-Naiv-811-banner.jpg|Eine hölzerne Gliederpuppe zielt mit einem Gewehr neben einem Sockel mit gläsernem Globus, rechts unter Arkaden fällt der große Schatten einer unsichtbaren Gestalt, hinten fährt ein Dampfzug durch die leere Ebene.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -355,7 +355,7 @@ Dagegen steht, dass die Trennung von Status und Not empirisch wackelt. Diana Mut
 
 Im Bestand liegen die Stimmen weit auseinander. Roger de Weck beschreibt das Ende männlicher Vorherrschaft, westlicher Weltgeltung und der Herrschaft über die Natur als eine „Kumulierung so vieler Demütigungen" ([[Roger de Weck — Was ist konservativ#Die Kumulierung der Kontrollverluste|de Weck]]), ganz nah an Redecker. Heinz Bude sieht die Angst der Mitte am Abstand zu den anderen wachsen, nicht am Absturz ([[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Bude]]). Robin Celikates nimmt Redeckers Begriff auf und zeigt, wie soziale Konflikte kulturell umcodiert werden ([[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Kulturkampf als Umweg|Celikates]]). Jana Hensel hält dagegen, der Rechtsruck im Osten habe einen materiellen Kern, den das Reden über Einstellungen vernachlässigt ([[Der Entscheidende Punkt — Nach den Landtagswahlen#Der materielle Kern|Hensel]]).
 
-→ Weiter im Panorama: **[[Gedankenwelten/Panorama/Warum waehlen Menschen Autoritaere#Materieller Kern oder Einstellung?|Materieller Kern oder Einstellung?]]**, mit Jana Hensel, Heiner Flassbeck und Arlie Hochschild.
+→ Weiter im Panorama: **[[Panorama/Warum waehlen Menschen Autoritaere#Materieller Kern oder Einstellung?|Materieller Kern oder Einstellung?]]**, mit Jana Hensel, Heiner Flassbeck und Arlie Hochschild.
 
 ---
 
@@ -403,7 +403,7 @@ Im Bestand liegen die Stimmen weit auseinander. Roger de Weck beschreibt das End
 - [[Denker/Eva von Redecker — Dieser Drang nach Härte]] — kompakte Buchvorstellung (taz Talk)
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — konkrete Analyse digitaler Faschismus-Formen
 - [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Mühlhoff ergänzt Redeckers Phantombesitz-Theorie um eine strukturelle Erklärung: Tech-Kapital wird zwingend antidemokratisch, weil exponentielles Wachstum demokratische Ressourcenprinzipien unterläuft; beide diagnostizieren Faschismus als neuen Systemzustand, nicht als Ausnahme
-- [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Vortrag mit der Theoriebasis (Griffin, Theweleit) und dem Klerikalfaschismus-Netzwerk (Beatrix von Storch, Edmund von Waldstein/JD Vance): Komplementärperspektive zu Redeckers Phantombesitz-Ansatz
+- [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Vortrag mit der Theoriebasis (Griffin, Theweleit) und dem Klerikalfaschismus-Netzwerk (Beatrix von Storch, Edmund von Waldstein/JD Vance): Komplementärperspektive zu Redeckers Phantombesitz-Ansatz
 - [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Parallelanalyse: Strukturen statt Individuen
 - [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Kontrapunkt: weniger pessimistisch
 - [[Denker/Hannah Arendt — Denken ohne Geländer]] — Macht/Gewalt, Totalitarismus-Begriff
@@ -416,7 +416,7 @@ Im Bestand liegen die Stimmen weit auseinander. Roger de Weck beschreibt das End
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin bei Jung & Naiv (Folge 815). Ob Redeckers Begriff auf das iranische Regime passt, ist offen; die Taliban ordnet sie eher der „brachialen Sachherrschaft" zu als der Phantombesitzverteidigung
 - [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Die Verteidigung des "billigen Sprits" als Phantombesitz: Das Festhalten an fossiler Normalität, die strukturell längst nicht mehr tragbar ist — Redeckers Begriff trifft genau die Benzinpreisdebatte.
 - [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — Der Förderstopp des Bundesinnenministeriums für die Radikalen Töchter als deutsches Beispiel dafür, wie Zivilgesellschaft als Bedrohung behandelt wird
-- [[Gedankenwelten/Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] — die 3sat-Doku zur Ideengeschichte der Valley-Trump-Allianz (Rand, Girard, Yarvin); Daubs Diagnose „jetzt zeigt er sich eben sehr offen" bekommt durch Redeckers Neuheits-Analyse den begrifflichen Unterbau
+- [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] — die 3sat-Doku zur Ideengeschichte der Valley-Trump-Allianz (Rand, Girard, Yarvin); Daubs Diagnose „jetzt zeigt er sich eben sehr offen" bekommt durch Redeckers Neuheits-Analyse den begrifflichen Unterbau
 - [[scobel — Foucault Aufklaerung als Haltung]] — Redeckers "Phantombesitz" und Foucaults Paradox des Befreiers greifen ineinander: Wer Freiheit als Besitz begreift und gegen Verlust verteidigt, reproduziert genau die Autoritätsstruktur, aus der er sich befreien wollte.
 - [[Gilda con Arne — Rechte Milliardaere kaufen Medien]] — Redeckers Phantombesitz: Milliardäre beanspruchen Besitz über den öffentlichen Diskurs, der ein Gemeingut ist — Medien als konkretestes Beispiel dieses Anspruchs
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Kubitschek und Lehnert liefern die Innensicht der neurechten Ideologie, die Redecker von außen als Neofaschismus analysiert
@@ -430,15 +430,15 @@ Im Bestand liegen die Stimmen weit auseinander. Roger de Weck beschreibt das End
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Maus Meritokratie-Illusion (eine Arbeiterklasse, die ein System verteidigt, das gegen ihre Interessen arbeitet) lässt sich neben Redeckers Phantombesitz lesen: ein Anspruch, der verteidigt wird, obwohl er nicht trägt
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Maus Gleichbehandlungs-Trigger (Empörung über vermeintliche Privilegierung) zeigt im Alltag, woran Phantombesitz-Mobilisierung ansetzen kann; Mau selbst findet mehr Konsens als Spaltung
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Ebenfalls Jung & Naiv: Steinke beschreibt die rechtliche Dimension der von Redecker analysierten autoritären Tendenzen — wie der Staat über Paragraphen, Verfassungsschutz und selektive Strafverfolgung Grundrechte aushöhlt
-- [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Im NANO Talk vertieft Redecker die Faschismus-Analyse um die ökonomisch-feministische Dimension: Sorgearbeit-Entwertung als strukturelle Vorbedingung des Faschismus
+- [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Im NANO Talk vertieft Redecker die Faschismus-Analyse um die ökonomisch-feministische Dimension: Sorgearbeit-Entwertung als strukturelle Vorbedingung des Faschismus
 
 ### → [[Yanis Varoufakis — Trump Has Lost Everything]]
 
 Beide analysieren denselben neuen Faschismus: Redecker philosophisch über Eigentum und Gewalt (Phantombesitz, autoritäre Härte), Varoufakis ökonomisch über die zehn Stufen der Machtergreifung. Redeckers Phantombesitz erklärt, *warum* Tech-Oligarchen sich als Eigentümer des Gemeinwesens verstehen — Varoufakis zeigt, *wie* sie als moderne Pendants der Industriellen in den 1920ern die Faschisten finanzieren.
 
-- [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Brown liefert die strukturelle Ursache für das, was Redecker als neuen Faschismus beschreibt: Die neoliberale Zersetzung des demokratischen Imaginären (aus dem demos werden Stücke von Humankapital) schafft das Vakuum, in das Phantombesitz-Ressentiment fließt. Redeckers Diagnose ist ohne Browns Vorarbeit unvollständig — und Browns Theorie bleibt abstrakt ohne Redeckers Analyse der politischen Konsequenz.
-- [[Gedankenwelten/Zeitgeist/Elmar Thevessen - Die neue Weltunordnung]] — Redeckers Phantombesitz und die Rückabwicklung der zivilisierten Weltordnung sind die Denkfigur hinter Theveßens Reportage vom McKinley/Monroe-Revisionismus (Grönland „ist unser Territorium“, die Hemisphäre als wieder durchgesetzte Einflusssphäre). Dieselbe imperiale Besitzlogik, einmal begrifflich freigelegt, einmal auf der Landkarte beobachtet.
-- [[Gedankenwelten/Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — dieselbe Kerndefinition, aber im Streitgespräch: Skenderovic hält Redeckers Trump-Benennung den Prozessbegriff der Faschisierung entgegen; die Sternstunde zeigt, wie die These sich unter Widerspruch schärft.
+- [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Brown liefert die strukturelle Ursache für das, was Redecker als neuen Faschismus beschreibt: Die neoliberale Zersetzung des demokratischen Imaginären (aus dem demos werden Stücke von Humankapital) schafft das Vakuum, in das Phantombesitz-Ressentiment fließt. Redeckers Diagnose ist ohne Browns Vorarbeit unvollständig — und Browns Theorie bleibt abstrakt ohne Redeckers Analyse der politischen Konsequenz.
+- [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung]] — Redeckers Phantombesitz und die Rückabwicklung der zivilisierten Weltordnung sind die Denkfigur hinter Theveßens Reportage vom McKinley/Monroe-Revisionismus (Grönland „ist unser Territorium“, die Hemisphäre als wieder durchgesetzte Einflusssphäre). Dieselbe imperiale Besitzlogik, einmal begrifflich freigelegt, einmal auf der Landkarte beobachtet.
+- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — dieselbe Kerndefinition, aber im Streitgespräch: Skenderovic hält Redeckers Trump-Benennung den Prozessbegriff der Faschisierung entgegen; die Sternstunde zeigt, wie die These sich unter Widerspruch schärft.
 
 ---
 
@@ -460,7 +460,7 @@ Sieben Monate später auf derselben Bank: Celikates übernimmt Redeckers Phantom
 
 Dath kritisiert mit Sophia Rosenfeld die Freiheit als Auswahl zwischen Waren — eine Stufe vor Redeckers gekapertem Eigentumsbegriff.
 
-### → [[Gedankenwelten/Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
 
 Was Redecker aus dem Bekenntnis des Halle-Attentäters herausliest, erklärte ein AfD-Abgeordneter ein Jahr später im Landtag zum unpolitischen „Amoklauf“ — und nannte dabei die Prämissen selbst: Juden, Geburtenrate, Masseneinwanderung. Sieben Jahre nach der Tat verwehrten ihm jüdische Studierende das Gedenken.
 
@@ -468,7 +468,7 @@ Was Redecker aus dem Bekenntnis des Halle-Attentäters herausliest, erklärte ei
 
 Warum Totalitarismus mehr ist als Faschismus, steht bei Arendt selbst: Bewegung statt Staat, ein Gesetz der Natur oder Geschichte, Terror als Wesen.
 
-### → [[Gedankenwelten/Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
+### → [[Zeitgeist/Sandra Navidi — Frauenrechte in Trumps Amerika|Sandra Navidi — Frauenrechte in Trumps Amerika]]
 
 Wie diese Logik in Gesetz und Alltag aussehen kann, erzählt die Navidi-Note: mehr Pflichten für Frauen ohne neue Pflichten für Männer, dazu ein Vergleich mit dem Islamismus, den die Note nur als Warnung vor einer Richtung gelten lässt.
 

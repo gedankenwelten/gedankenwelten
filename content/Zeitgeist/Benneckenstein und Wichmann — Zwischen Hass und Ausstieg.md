@@ -16,7 +16,7 @@ aliases:
 
 # Benneckenstein und Wichmann — Zwischen Hass und Ausstieg
 
-![[Gedankenwelten/assets/Benneckenstein-und-Wichmann-Zwischen-Hass-und-Ausstieg-banner.jpg|Nachts durch ein erleuchtetes Schaufenster: Drei Männer sprechen an einem runden Tisch in Mikrofone; draußen auf dem nassen Gehweg liegt eine Lederjacke auf einer Bank unter einer Straßenlaterne.|1200]]
+![[assets/Benneckenstein-und-Wichmann-Zwischen-Hass-und-Ausstieg-banner.jpg|Nachts durch ein erleuchtetes Schaufenster: Drei Männer sprechen an einem runden Tisch in Mikrofone; draußen auf dem nassen Gehweg liegt eine Lederjacke auf einer Bank unter einer Straßenlaterne.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -45,11 +45,11 @@ Quelle: [Rechtsextremismus in Ost und West: Zwischen Hass und Ausstieg — Podca
 > [!info] Wer spricht?
 > **Felix Benneckenstein** (*1986, Starnberg*) — wuchs in München und Erding auf, stieg mit fünfzehn in die Szene ein und war rund neun Jahre aktiv: Münchner Kameradschaft, NPD, bundesweit bekannt als Liedermacher „Flex“. Nachdem ihn andere Neonazis angegriffen hatten, sagte er bei der Polizei aus, saß einige Monate in Haft und stieg um 2010/11 mit EXIT aus — begleitet von Fabian Wichmann. 2011 gründete er die Aussteigerhilfe Bayern, für die er bis heute Ausstiege begleitet. Er ist verheiratet mit Heidi Benneckenstein, die mit ihm ausstieg und *Ein deutsches Mädchen* (2017) schrieb.
 >
-> → [[Gedankenwelten/DenkerVita/Felix Benneckenstein|DenkerVita Benneckenstein]]
+> → [[DenkerVita/Felix Benneckenstein|DenkerVita Benneckenstein]]
 >
 > **Fabian Wichmann** — Erziehungswissenschaftler, aufgewachsen in einem Dorf am Berliner Stadtrand. Seit 2009 Ausstiegsbegleiter bei EXIT-Deutschland, Mitinitiator von Kampagnen wie „Rechts gegen Rechts“ und #HassHilft; seit 2025 wissenschaftlicher Mitarbeiter bei Grüner Vogel e.V., der IS-Rückkehrer beim Ausstieg begleitet.
 >
-> → [[Gedankenwelten/DenkerVita/Fabian Wichmann|DenkerVita Wichmann]]
+> → [[DenkerVita/Fabian Wichmann|DenkerVita Wichmann]]
 >
 > Moderation: **Dennis Chiponda** (*1991*), Journalist und Diversity-Trainer, Sohn von Vertragsarbeitern, aufgewachsen in der Lausitz.
 
@@ -236,42 +236,42 @@ Die Forschung gibt Benneckenstein also recht und zieht zugleich eine Linie durch
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Panorama/Wie kommt man aus der rechten Szene wieder heraus|Panorama: Wie kommt man aus der rechten Szene wieder heraus?]]
+### → [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Panorama: Wie kommt man aus der rechten Szene wieder heraus?]]
 
 Das Panorama vermisste eine Stimme aus der Ausstiegsarbeit, hier sprechen zwei: Wichmann über Rahmung, Tattoos, Sicherheit und „vier Jahre akut, lebenslang biografisch“, Benneckenstein als Ex-Neonazi, der heute selbst begleitet. Das Straßenfest gehört als Gegenfall zur Frage, was einen Ausstieg auslöst: Entscheidend ist, wer die Irritation zuerst deutet.
 
-### → [[Gedankenwelten/Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 
 Das direkte Gegenstück vom selben Tag. Bei Eichi kippt ein Abend mit einem Bierkasten in Richtung Ausstieg, bei Benneckenstein kippt der Abend des Straßenfests in die Gegenrichtung, weil ein Kader schneller deutet. Beide bestehen darauf, gewählt zu haben — der Mitläufer ohne Weltbild und der Liedermacher mit gelesener Holocaustleugnung.
 
-### → [[Gedankenwelten/Zeitgeist/Marcant — Ausstieg aus der rechten Szene]]
+### → [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]]
 
 Marcants Felix kommt über Freunde und TikTok hinein; Benneckenstein erzählt, dass genau solche Jugendlichen sich heute bei ihm melden, meist nach einer Hausdurchsuchung. Marcants Bitte, „die Tür nie komplett zuzumachen“, ist Wichmanns Elternsignal („du bist unser Kind“).
 
-### → [[Gedankenwelten/Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie]]
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie]]
 
 Quent sagt, es sei Zufall gewesen, welche CD er bekam; Benneckenstein sagt: „Ich habe mir das gezielt rausgepickt.“ Die Reibung zwischen Zufall und Wahl, diesmal aus dem Mund eines, der drin war. Quents funktionale Äquivalenz ist das Gegenangebot zu der Ideologie, die verspricht: „Wir sehen deine Probleme und lösen sie mit dir.“
 
-### → [[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
+### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Quent wurde als Jugendlicher in Thüringen verprügelt, Chiponda floh in der Lausitz vor Neonazis; beide machen aus den Baseballschlägerjahren eine Haltung. Quents Brandmauer, „politisch, nicht sozial“, passt zu Wichmanns Warnung, nicht über jeden Stock der AfD zu springen.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+### → [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Lina Mitschke hält die ostdeutsche Erfahrung für qualitativ anders; Chiponda nennt „rechter Osten, liberaler Westen“ eine German Legend, und Benneckenstein spricht von derselben Ideologie, trat im Osten aber „mit breiter Brust“ auf. Beide Notes halten dieselbe Spannung aus entgegengesetzter Richtung.
 
-### → [[Gedankenwelten/Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
+### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
 
 Bonhoeffer schreibt, im Gespräch habe man es mit „über ihn mächtig gewordenen Schlagworten“ zu tun, nicht mit dem Menschen. Das ist Wichmanns Teflon, achtzig Jahre früher — und Befreiung statt Belehrung ist die Arbeit der Ausstiegshilfe.
 
-### → [[Gedankenwelten/Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Yus Spirale, in der jede Seite die eigene Entmenschlichung für Notwehr hält, ist Benneckensteins „die Gewalt geht von den anderen aus“. Chipondas Schulfeind, der nach einer Nacht im geteilten Zimmer sein Nazizeug verbrennt, ist Rehumanisierung im Einzelfall.
 
-### → [[Gedankenwelten/Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
+### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
 Wichmanns Teflon aus dem Mund eines Gefestigten: Ein Flyer hätte ihn nie erreicht, erst ein „Riss“ macht das Gespräch möglich. Wie bei Benneckenstein trennte die Haft ihn von der Gruppe, ohne den Ausstieg auszulösen.
 
-### → [[Gedankenwelten/Spuren/Gewalt-aus-Ueberzeugung|Spur: Gewalt aus Überzeugung]]
+### → [[Spuren/Gewalt-aus-Ueberzeugung|Spur: Gewalt aus Überzeugung]]
 Die Spur zählt, wie viel Gewalt aus Überzeugung geschieht, rechts, links, religiös, bis zur Wahl 2029. Diese Note zeigt den Weg hinaus, den keine Statistik zählt.
 
 ### → [[ZDFinfo — Feindbild Queer nach dem CSD-Anschlag#Zwei Richtungen, ein Feindbild|ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]]

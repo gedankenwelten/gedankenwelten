@@ -449,7 +449,7 @@ Der Dalai Lama holt dieselbe Kultivierungspraxis aus dem Kloster in die säkular
 
 ### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
 
-Callard nimmt Vipassana als scheinbares Gegenprogramm zum sokratischen Fragen ernst — und widerlegt die Opposition: Auch der Schweigende sitzt in einem dialogischen Gerüst (Lehrer, Abendvorträge, Sangha), und das Retreat stellt einem genau die unzeitgemäßen Fragen, die man sich im Viertelstundentakt nie stellt. Beide prüfen das ungeprüfte Leben — getrennt nur durch das Medium: Begriff und Dialog bei Callard, wortlose Beobachtung von Anicca bei Goenka.
+Die Gegenprobe. Callard sagt, die eigene Sicht könne nur ein anderer Mensch in Frage stellen; Goenkas Prüfung geschieht im Schweigen, am eigenen Körper. Als Barbara Bleisch ihr den Zen-Buddhismus entgegenhält, widerlegt Callard ihn nicht, sondern lässt offen, dass der Mönch schon weiß, wie er leben soll. Vielleicht trennen sich die beiden Wege nicht bei der Prüfung des Lebens, sondern beim Medium: Begriff und Dialog bei Callard, wortlose Beobachtung von Anicca bei Goenka.
 
 ### → [[Walther Ziegler — Sartre in 60 Minuten]]
 

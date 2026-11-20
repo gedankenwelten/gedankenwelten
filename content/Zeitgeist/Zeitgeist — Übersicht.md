@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*375 Notes — automatisch generiert · nach Thema sortiert*
+*377 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -131,7 +131,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]] — Ein Transformationsforscher gesteht, seine Hoffnung sei nie so klein gewesen, und sammelt trotzdem Utopien im Alltag. Barbara Bleisch fragt ihn, wo er Großzügigkeit selbst lebt.
 - [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]] — Junge Menschen sind digital intuitiv, kompetent sind sie damit noch nicht. Hartwin Maas fragt mit Maja Göpel, wie Schule kritisches Denken stärkt, wenn KI die Hausaufgaben macht.
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu|Heiner Flassbeck — Deutschlands größtes Tabu]] — Wenn Haushalte und Unternehmen jedes Jahr 350 Milliarden Euro sparen, muss sich jemand verschulden. Für Heiner Flassbeck ist das Deutschlands größtes Tabu, und die Schuldenbremse ignoriert es.
-- [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]] — Die Mitte schrumpft nicht, sie spaltet sich, und mit dem Wohlstand wächst die Angst. Heinz Bude über eine Gesellschaft, in der Misstrauen mobilisiert und eine Null-Fehler-Generation nachrückt.
+- [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]] — Die Mitte schmilzt kaum, sie spaltet sich, und ihre Angst gilt den Kindern. Heinz Bude 2014 über Misstrauen als politische Kraft und eine Null-Fehler-Generation.
 - [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]] — Wer den Tod des Völkerrechts ausruft, hilft denen, die es brechen. Für die Völkerrechtlerin Helen Keller gehört das Fehlen einer Weltpolizei zum Wesen dieser Ordnung, und sie wirkt trotzdem.
 - [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] — Kinder waren immer Außenseiter, aber früher waren sie die Mehrheit. Eine Verfassungsjuristin will ihnen Gehör verschaffen, das nicht von der Großzügigkeit der Alten abhängt.
 - [[Zeitgeist/Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]] — Angst sucht sich ihre Gegenstände selbst, und gegen sie ist die Mitte machtlos: Münkler über eine Sehnsucht nach Ordnung, die eigentlich Sorglosigkeit meint.
@@ -241,6 +241,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
 - [[Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything|Yanis Varoufakis — Trump Has Lost Everything]] — Trumps einziger Erfolg war, sich nicht in einen Nahostkrieg ziehen zu lassen – nun hat er es doch. Yanis Varoufakis über den Iran als Wendepunkt, über Gewalt und Schwellen.
 - [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]] — Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und antwortete nicht mit Rache, sondern mit einer Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
+- [[Zeitgeist/ZDFinfo — Feindbild Queer nach dem CSD-Anschlag|ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]] — Nach dem tödlichen Anschlag auf den Berliner CSD fragt eine Dokumentation, woher der Hass auf queere Menschen kommt. Die Antworten führen nach rechts, zum Islamismus und in die Mitte.
 - [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]] — Das Individuum ist für Zhao Tingyang eine Fiktion, der Ausgangspunkt der Politik muss die Welt sein. Rainer Forst hält mit einem anderen Universalismus dagegen.
 
 ### USA & Trump
@@ -427,6 +428,7 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Akkudoktor — Lanz und die Energiewende|Akkudoktor — Programmbeschwerde gegen Markus Lanz: Energiewende-Desinformation im ZDF]] — Je besser die Energiewende funktioniert, desto kleiner erscheint sie in der Primärenergiestatistik. Der Akkudoktor zerlegt die 8-Prozent-Zahl aus einer Lanz-Sendung und legt Programmbeschwerde ein.
 - [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Eine Oxford-Studie zählt nach, wie die BILD mit einem erfundenen Wort ein Gesetz zerlegte — und wie tausend seriöse Medien es nachdruckten. Eine Schande für den Journalismus.
+- [[Zeitgeist/Georgine Kellermann — Der lange Weg zu mir selbst|Georgine Kellermann — Der lange Weg zu mir selbst]] — Eine Rolltreppenfahrt beendete ein Doppelleben von über sechzig Jahren. Georgine Kellermann erzählt, was ein Spiegel, eine Kollegin und ein einziges „Cool“ verändern können.
 - [[Zeitgeist/MDR exactly — Kinder im Burnout|MDR exactly — Kinder im Burnout, zwischen Angst und Überforderung]] — Eine Zehntklässlerin, für die Schule der ganze Lebensinhalt war, bis nichts mehr ging. Was junge Menschen heute belastet, was ihnen hilft, und die Frage, ob Erwachsene sie zu sehr schützen oder zu wenig hören.
 - [[Zeitgeist/Schwarz und Obermaier — Vom Smartphone ins Gericht|Schwarz & Obermaier — Vom Smartphone ins Gericht]] — Ein Tweet, ein Prahlvideo, ein heimlich gefilmtes Geständnis: Wie digitale Beweise einen Münchner Scharfschützen belasten — und warum die Bundesanwaltschaft trotzdem nicht ermittelt.
 

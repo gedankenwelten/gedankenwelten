@@ -156,7 +156,7 @@ Wie das Du-Ohr im Ernstfall klingt und was es den Zuhörenden abverlangt, zeigt 
 
 ### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
 
-Pörksens Arendt-Zitat „Die Wahrheit beginnt zu zweit" ist Callards Kernthese ausformuliert: Denken ist dialogisch. Beide setzen gegen Etikettierung und Floskel-Bescheidenheit das echte Gespräch als den Ort, an dem Prüfung überhaupt erst geschieht.
+„Die Wahrheit beginnt zu zweit“, das dialogische Credo, das Pörksen mit Nietzsche, Arendt und Schulz von Thun verbindet (der Satz selbst steht bei Nietzsche, *Die fröhliche Wissenschaft* § 260), ist Callards Kernthese ausformuliert: Denken ist dialogisch. Beide setzen gegen Etikettierung und Floskel-Bescheidenheit das echte Gespräch als den Ort, an dem Prüfung überhaupt erst geschieht.
 
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
@@ -164,7 +164,7 @@ Pörksens Du-Ohr *ist* Rosas Resonanz in kommunikativer Form: sich berühren und
 
 ### → [[Hannah Arendt — Denken ohne Geländer]]
 
-Pörksen zitiert Arendt explizit: „Die Wahrheit beginnt zu zweit." Arendts Denken ohne Geländer ist die philosophische Voraussetzung für das Du-Ohr-Zuhören — Sofortetikettierung ist genau das Geländer, das Arendt abwerfen wollte
+Pörksen nennt Arendt neben Nietzsche und Schulz von Thun, als er das dialogische Credo zitiert: „Die Wahrheit beginnt zu zweit“ (der Satz stammt von Nietzsche). Arendts Denken ohne Geländer ist die philosophische Voraussetzung für das Du-Ohr-Zuhören — Sofortetikettierung ist genau das Geländer, das Arendt abwerfen wollte
 
 ### → [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
 

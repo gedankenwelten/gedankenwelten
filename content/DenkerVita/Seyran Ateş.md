@@ -9,7 +9,7 @@ raetsel: "Sie nahm den Vorhang zwischen den Betenden weg. Seither steht Polizei 
 
 # Seyran Ateş — DenkerVita
 
-![[Gedankenwelten/assets/Seyran-Ates-vita-banner.jpg|1200]]
+![[assets/Seyran-Ates-vita-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
@@ -87,10 +87,10 @@ Ateş versteht sich als gläubige Muslimin, die den Islam von innen reformieren 
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Eren Güvercin|Eren Güvercin]] — Im selben Film benennen beide die Queerfeindlichkeit in muslimischen Gemeinden von innen. Güvercin nennt die theologischen Positionen, die queere Menschen abwerten, Ateş hat mit der Ibn-Rushd-Goethe-Moschee den Beweis gebaut, dass es anders geht.
-- [[Gedankenwelten/DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]] — Soroush trennt die vollkommene Religion vom religiösen Wissen, das menschlich und fehlbar bleibt. Das ist die Theorie zu dem, was Ateş praktisch zeigen will: Eine Auslegung ist nicht der Islam.
-- [[Gedankenwelten/DenkerVita/Elham Manea|Elham Manea]] — Beide streiten gegen eine Auslegung des Islam, die sich für die einzige hält. Maneas Befund, dass der Islamismus meist ohne Gewalt wirkt, passt zu Ateş' Klage, die Queerfeindlichkeit in den Gemeinden werde „überhaupt nicht ernst genommen“.
-- [[Gedankenwelten/DenkerVita/Duezen Tekkal|Düzen Tekkal]] — Beide kritisieren den Islamismus aus eigener Erfahrung und leben unter Schutz. Tekkal bindet Zugehörigkeit an die Frauenfrage, Ateş an ein religiöses Leben ohne „Geschlechterapartheid“.
+- [[DenkerVita/Eren Güvercin|Eren Güvercin]] — Im selben Film benennen beide die Queerfeindlichkeit in muslimischen Gemeinden von innen. Güvercin nennt die theologischen Positionen, die queere Menschen abwerten, Ateş hat mit der Ibn-Rushd-Goethe-Moschee den Beweis gebaut, dass es anders geht.
+- [[DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]] — Soroush trennt die vollkommene Religion vom religiösen Wissen, das menschlich und fehlbar bleibt. Das ist die Theorie zu dem, was Ateş praktisch zeigen will: Eine Auslegung ist nicht der Islam.
+- [[DenkerVita/Elham Manea|Elham Manea]] — Beide streiten gegen eine Auslegung des Islam, die sich für die einzige hält. Maneas Befund, dass der Islamismus meist ohne Gewalt wirkt, passt zu Ateş' Klage, die Queerfeindlichkeit in den Gemeinden werde „überhaupt nicht ernst genommen“.
+- [[DenkerVita/Duezen Tekkal|Düzen Tekkal]] — Beide kritisieren den Islamismus aus eigener Erfahrung und leben unter Schutz. Tekkal bindet Zugehörigkeit an die Frauenfrage, Ateş an ein religiöses Leben ohne „Geschlechterapartheid“.
 
 ---
 

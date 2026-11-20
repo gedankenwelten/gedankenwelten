@@ -165,7 +165,7 @@ Arendt war deshalb Kritikerin der repräsentativen Demokratie: nicht weil sie ge
 
 ### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
 
-Callard dreht Arendts Pluralität in reine Erkenntnistheorie: Nur ein anderer Mensch kann die eigene Weltsicht in Frage stellen — der blinde Fleck sieht sich nicht selbst. Ihre Nagelprobe der Demut (echtes Prüfen im Gespräch statt „ich könnte mich irren") ist Arendts verlässlicher Zweifler auf der Ebene des Dialogs.
+Callard dreht Arendts Pluralität in reine Erkenntnistheorie: Nur ein anderer Mensch kann die eigene Weltsicht in Frage stellen. Ihre Nagelprobe der Demut (echtes Prüfen im Gespräch statt „ich könnte mich irren") ist Arendts verlässlicher Zweifler auf der Ebene des Dialogs.
 
 ### → [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
@@ -287,7 +287,7 @@ Hampe nennt die Urteilskraft das Loch in unserem psychologischen Vokabular und b
 - [[scobel — Luhmann Abklaerung der Aufklaerung]] — Arendts Denken ohne Geländer und Luhmanns Latenz (produktive Verzögerung, selektive Ignoranz) stehen in produktiver Spannung: Arendt fordert das Aushalten von Orientierungslosigkeit als Bedingung des Denkens; Luhmann sagt, ohne ein Mindestmaß an Struktur verliert man Handlungsfähigkeit. Beide haben recht — aber für verschiedene Ebenen.
 - [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]] — Baberowskis Demokratiekritik berührt Arendts Frage nach dem politischen Handeln jenseits institutioneller Geländer: Wer ist der Souverän wirklich?
 - [[Erich Fromm — Menschliches Wachstum]] — Fromms Ablehnung der autoritären Schuldmoral als psychoanalytisches Gegenstück zu Arendts „Denken ohne Geländer": eigenständiges Urteilen jenseits vorgegebener Regelsysteme
-- [[Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Pörksen zitiert Arendt: „Die Wahrheit beginnt zu zweit." Sofortetikettierung ist das Geländer, das Arendt abwerfen wollte — vorgefertigte Urteile statt eigenständigem Denken
+- [[Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Pörksen nennt Arendt neben Nietzsche und Schulz von Thun für das Credo „Die Wahrheit beginnt zu zweit“ (der Satz stammt von Nietzsche). Sofortetikettierung ist das Geländer, das Arendt abwerfen wollte — vorgefertigte Urteile statt eigenständigem Denken
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Frankfurter Exilanten, die dasselbe Phänomen — den Umschlag der Moderne in Barbarei — aus verschiedenen Winkeln analysieren. Arendt setzt auf eigenständiges Urteilen als Schutz; Adorno bleibt skeptischer: im Verblendungszusammenhang gibt es keinen unverseuchten Standort mehr
 - [[Walther Ziegler — Kant in 60 Minuten]] — Arendts „Denken ohne Geländer" ist kantianisch im Kern: Aus eigener Pflicht urteilen, nicht nach äußeren Regeln. Kants Analyse des Legalismus (Gehorsam ohne eigenes Urteil ist keine Ethik) trifft Arendts Eichmann-Diagnose direkt
 - [[Walther Ziegler — Heidegger in 60 Minuten]] — Ziegler erklärt die Heidegger'sche Fundamentalontologie, deren Begriffe (Dasein, Geworfenheit, In-der-Welt-Sein) Arendt aufnahm und politisch transformierte

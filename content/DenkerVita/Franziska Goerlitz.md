@@ -1,12 +1,14 @@
 ---
 title: Franziska Görlitz — DenkerVita
-description: "Mit strategischen Klagen gegen Palantir-Software bei der Polizei erreichte die GFF-Juristin Franziska Görlitz, dass Karlsruhe 2023 Grenzen für automatisierte Datenanalysen zog."
+description: "Franziska Görlitz von der Gesellschaft für Freiheitsrechte streitet gegen Palantir bei der Polizei und warnt vor Geheimdiensten mit operativen Befugnissen ohne echte Kontrolle."
 date: 2026-05-21
-aktualisiert: 2026-05-21
+aktualisiert: 2026-11-20
 tags:
   - denker-vita
   - überwachung
   - datenschutz
+  - verfassungsschutz
+  - rechtsstaat
   - demokratie
   - deutschland
 ---
@@ -24,54 +26,56 @@ tags:
 </details>
 
 > [!info] Wer ist sie?
-> **Franziska Görlitz** ist Volljuristin und Verfahrenskoordinatorin bei der Gesellschaft für Freiheitsrechte (GFF). Sie spezialisiert sich auf strategische Verfassungsbeschwerden gegen polizeiliche Massenüberwachung und algorithmische Diskriminierung. Mit ihren Klagen hat sie maßgeblich dazu beigetragen, dass das Bundesverfassungsgericht 2023 erstmals klare Maßstäbe für automatisierte Datenanalysen bei der Polizei gesetzt hat.
+> **Franziska Görlitz** ist Volljuristin und Verfahrenskoordinatorin bei der Gesellschaft für Freiheitsrechte (GFF) in Berlin. Sie arbeitet an den Verfassungsbeschwerden der GFF gegen polizeiliche Datenanalyse-Software, darunter die Beschwerde gegen den Einsatz von Palantir-Software in Bayern, die die GFF gemeinsam mit dem Chaos Computer Club erhebt. In der Anhörung des Innenausschusses zur Reform des Nachrichtendienstrechts am 12. Oktober 2026 saß sie als Sachverständige, benannt auf Vorschlag der Fraktion Die Linke.
 >
-> Kernkonzepte: Strategische Prozessführung, informationelle Selbstbestimmung, Chilling-Effekt, Zweckbindung, algorithmischer Bias
+> Kernkonzepte: Strategische Prozessführung, informationelle Selbstbestimmung, Chilling-Effekt, Zweckbindung, Trennungsgebot, algorithmischer Bias
 
 ---
 
 ## Biografie
 
-Franziska Görlitz studierte Jura in Erlangen und Turku (Finnland) — eine internationale Perspektive, die ihr früh zeigte, dass Rechtsstaatlichkeit keine Selbstverständlichkeit ist. Sie arbeitete als wissenschaftliche Mitarbeiterin am Lehrstuhl für Strafrecht und Strafprozessrecht (Prof. Dr. Christian Jäger) und absolvierte ihr Referendariat in der Verwaltungsgerichtsbarkeit sowie in der Europaabteilung des Bundestags — direkte Berührung mit der Spannung zwischen Sicherheitsinteressen und Grundrechten.
+**Erlangen, Turku, Berlin:** Franziska Görlitz studiert Rechtswissenschaften in Erlangen und im finnischen Turku und arbeitet parallel am Lehrstuhl für Strafrecht, Strafprozessrecht, Wirtschafts- und Medizinstrafrecht von Christian Jäger. Ihr Referendariat absolviert sie unter anderem in der Verwaltungsgerichtsbarkeit und in der Europaabteilung der Verwaltung des Deutschen Bundestages; daneben ist sie wissenschaftliche Mitarbeiterin am Lehrstuhl für Öffentliches Recht und Europarecht von Bernhard Wegener. Zuletzt war sie, so die GFF, Referentin in der Europaabteilung des Bundesministeriums für Arbeit und Soziales. Seit mehreren Jahren unterrichtet sie außerdem als Dozentin in der Examensvorbereitung eines Repetitoriums ([GFF, Teamseite](https://freiheitsrechte.org/ueber-die-gff/team/franziska-goerlitz)).
 
-Bei der GFF koordiniert sie Verfassungsbeschwerden, die nicht einzelne Fälle, sondern die strukturellen Rahmenbedingungen angreifen. Das ist das Modell der *strategischen Prozessführung*: Eine Entscheidung, die für alle gilt, statt eines Einzelsiegs ohne Signalwirkung.
+**Bei der GFF:** Die GFF arbeitet mit strategischer Prozessführung. Sie sucht Grundsatzentscheidungen, die über den Einzelfall hinaus gelten, damit andere sich darauf berufen können; Görlitz erklärt das auf der re:publica 26 so: „Wir erstreiten die Grundsatzentscheidung“ ([▶ 50:28](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=3028)). Ihre Teamseite nennt als ihre Fälle die Verfassungsbeschwerde gegen Palantir-Software in Bayern, das Material der GFF zur automatisierten Datenanalyse, eine Strafanzeige wegen Spyware, Open Data und „Mach Meldung!“, ein Projekt für den Schutz von Hinweisgebenden in der Polizei ([GFF](https://freiheitsrechte.org/ueber-die-gff/team/franziska-goerlitz)).
 
-Ihre bekannteste Arbeit: die Verfassungsbeschwerden gegen automatisierte Datenanalysen bei der Polizei — zunächst in Hessen und Hamburg, die 2023 zum BVerfG-Datenanalyseurteil geführt haben. Nach dem Urteil klagte die GFF erneut gegen Hessens Nachfolgegesetze, und weitere Beschwerden gegen Bayern und NRW sind anhängig.
+**Palantir und die Datenanalyse:** Nach Verfassungsbeschwerden der GFF zog das Bundesverfassungsgericht 2023 enge Grenzen für automatisierte Datenanalysen durch die Polizei in Hessen und Hamburg ([GFF](https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/palantir-bayern)). Gegen Artikel 61a des Bayerischen Polizeiaufgabengesetzes, der der Polizei „Data Mining“ mit einem Programm auf Basis von Palantirs Gotham erlaubt, erhebt die GFF mit dem Chaos Computer Club Verfassungsbeschwerde, mit acht Beschwerdeführenden, darunter eine Strafverteidigerin, Aktivist\*innen und Personen der Fanhilfe der SpVgg Fürth ([GFF](https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/palantir-bayern)). In Sachsen-Anhalt war sie nach eigenen Worten als Sachverständige im Gesetzgebungsverfahren zur polizeilichen Datenanalyse beteiligt ([▶ 48:56](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=2936)).
 
-Was Görlitz auszeichnet: Sie denkt nicht nur in Normen, sondern in *Wirkungen*. Der Chilling-Effekt — die Verhaltensänderung unbeteiligter Menschen durch bloße Existenz der Überwachung — ist für sie keine Metapher, sondern ein messbares demokratisches Problem.
-
----
-
-## Bekannte Verfahren & Klagen
-
-1. **Hessen & Hamburg (2017-2023)** — GFF-Verfassungsbeschwerden gegen automatisierte Datenanalyse; führten zum BVerfG-Datenanalyseurteil 2023
-2. **Bayern (2024/25)** — Verfassungsbeschwerde gegen Gotham/VeRA im Bayerischen Polizeiaufgabengesetz; 8 Beschwerdeführer:innen (u.a. Strafverteidigerin, Aktivisten, Fußball-Fanhilfe SpVgg Fürth)
-3. **Hessen (2025/26)** — Zweite Klage gegen das überarbeitete Hessische Polizeigesetz; der Fall liegt beim BVerfG
-4. **Sachsen-Anhalt** — Begeleitung des Gesetzgebungsverfahrens als Sachverständige; Klage vorbereitet
+**Die Anhörung (2026):** Am 12. Oktober 2026 spricht sie im Innenausschuss des Bundestags zur Reform des Nachrichtendienstrechts, geladen auf Vorschlag der Linken ([Sachverständigenliste, PDF](https://www.bundestag.de/resource/blob/1223172/SV-Liste-Anhoerung-12-10-2026.pdf)). Sie begrüßt die Reform im Grundsatz und hält den Entwurf zugleich „in vielen Teilen“ für verfassungswidrig ([Bundestag, Bericht zur Anhörung](https://www.bundestag.de/dokumente/textarchiv/2026/kw42-pa-inneres-nachrichtendienste-1222010) · [Stellungnahme 21(4)233 D, PDF](https://www.bundestag.de/resource/blob/1224032/21-4-233-D-Stellungnahme-Franziska-Goerlitz-Nachrichtendienstrecht-21-7868-21-8295-21-8114.pdf)).
 
 ---
 
-## Bücher & Publikationen
+## Öffentliche Arbeit, Kanäle & Engagement
 
-- [Verfassungsblog: Beiträge zu Whistleblowing und öffentlichem Dienst](https://verfassungsblog.de/author/franziska-goerlitz/) — akademische Publikationen
-- [GFF-Website: Alle Verfahrensdokumente](https://freiheitsrechte.org/themen/datenschutz-und-ueberwachung/palantir) — Klageschriften, Stellungnahmen, Schriftsätze öffentlich einsehbar
+- [GFF-Teamseite](https://freiheitsrechte.org/ueber-die-gff/team/franziska-goerlitz) mit ihren Fällen
+- [Blackbox Palantir: Gegen massenhaftes Data Mining nach Karlsruhe](https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/palantir-bayern) — die Verfassungsbeschwerde zu Bayern
+- [Stellungnahme 21(4)233 D zur Reform des Nachrichtendienstrechts](https://www.bundestag.de/resource/blob/1224032/21-4-233-D-Stellungnahme-Franziska-Goerlitz-Nachrichtendienstrecht-21-7868-21-8295-21-8114.pdf) (Bundestag, Oktober 2026)
+- [Beiträge im Verfassungsblog](https://verfassungsblog.de/author/franziska-goerlitz/)
 
 ---
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [re:publica 26: Immer mehr neue Palantir-Gesetze](https://www.youtube.com/watch?v=wM7_nI9ZLCE) — mit Constanze Kurz (CCC), technisch-juridische Analyse
+- [re:publica 26: Immer mehr neue Palantir-Gesetze](https://www.youtube.com/watch?v=wM7_nI9ZLCE) — mit Constanze Kurz (CCC): wie Palantir-Software in deutsche Polizeien kam, technisch und juristisch
+- [Reform des Nachrichtendienstrechts umstritten](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1001) — Deutscher Bundestag, öffentliche Anhörung des Innenausschusses, 12. Oktober 2026 (4 Std.). Ihr Eingangsstatement beginnt bei etwa 16:45.
 
 ---
 
 ## Kernthesen
 
-1. **Blackbox-Problem** — Palantir/Gotham analysiert Daten nicht-transparent. Beamte können Ergebnisse nicht nachvollziehen. Das macht Kontrolle und Korrekturen unmöglich.
-2. **Betroffenenlosigkeit** — Nicht nur Verdächtige landen in der Software — auch Zeugen, Anzeigenerstatter, Menschen, die "zur falschen Zeit am falschen Ort" sind.
-3. **Chilling-Effekt als demokratisches Problem** — Wenn Menschen ihr Verhalten ändern, weil sie ahnen, überwacht zu werden, ist die Demokratie beschädigt — *bevor* ein einziger Grundrechtseingriff juristisch festgestellt ist.
-4. **Zweckbindung als Fundament** — Polizeidaten dürfen nur für den Zweck verwendet werden, für den sie erhoben wurden. Datenanalyse-Tools tendieren strukturell dazu, diese Silos einzureißen.
-5. **Der Gesetzgeber muss anleiten** — Ein Satz im Gesetz ("diskriminierende Algorithmen sind verboten") ist keine Schutzmaßnahme. Der Gesetzgeber muss konkret vorgeben, *wie* Diskriminierung verhindert wird.
-6. **Strategische Prozessführung als Werkzeug** — Einzelne Verfassungsbeschwerden schaffen Grundsatzentscheidungen, die allen zugutekommen und die Zivilgesellschaft ermächtigen, selbst zu klagen.
+1. **In der Datenbank landen nicht nur Verdächtige.** Wer eine Anzeige erstattet, Opfer einer Straftat wird „oder auch einfach nur zur falschen Zeit am falschen Ort ist, kann durch die Software ins Visier geraten“. *(Beleg: [GFF, Seite zur Verfassungsbeschwerde Bayern](https://freiheitsrechte.org/themen/freiheit-im-digitalen-zeitalter/palantir-bayern); ausführlich ab [▶ 18:20](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=1100) in [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]])*
+2. **Wer weiß, dass er erfasst werden kann, ändert sein Verhalten.** Heimliche Überwachung führe zu einem Chilling-Effekt, einer Einschüchterungswirkung: Anwältinnen, Journalisten, Aktivistinnen rufen nicht mehr an, gehen nicht zur Demo, „lieber nicht ins Visier geraten“. *(Beleg: [▶ 20:37](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=1237) in [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]])*
+3. **Niemand kann nachvollziehen, wie die Software zu ihrem Treffer kommt.** Damit entstehe „ein ganz ganz großes Nachvollziehbarkeitsproblem“: Wie fallen Fehler und Diskriminierungen im Algorithmus auf, und wie prüft die Polizei im Betrieb, ob das Ergebnis stimmt? *(Beleg: [▶ 23:42](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=1422) in [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]])*
+4. **Zweckbindung ist wie Mülltrennung.** Polizeidaten dürfen grundsätzlich nur für den Zweck genutzt werden, für den sie erhoben wurden, und müssen „in getrennten Silos liegen“. Analysewerkzeuge, in denen die Ergebnisse erhalten bleiben, drohen diese Zweckbindung aufzuheben. *(Beleg: [▶ 29:54](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=1794) bis [▶ 30:40](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=1840) in [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]])*
+5. **Der Gesetzgeber muss die Behörde anleiten.** Er müsse sagen, was sie gegen Fehler und Diskriminierung tut und wie nachvollziehbar wird, wie das Werkzeug zu seinem Ergebnis kommt. Ein einziger Satz wie im hessischen Gesetz, die Polizei habe sicherzustellen, „dass diskriminierende Algorithmen weder herausgebildet noch verwendet werden“, reiche dafür nicht. *(Beleg: [▶ 29:07](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=1747) und, im gemeinsamen Teil mit Kurz, [▶ 36:41](https://www.youtube.com/watch?v=wM7_nI9ZLCE&t=2201) in [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]])*
+6. **Mit der Reform kann jeder ins Visier der Dienste geraten.** Durch Zugriff auf Videoüberwachung, KI-Training, biometrischen Abgleich und automatisierte Datenanalyse könne „nun jeder betroffen sein von geheimdienstlicher Überwachung“; der Abend im Fitnessstudio, der Besuch einer Demonstration oder eines Fußballspiels könne reichen, damit die eigenen Daten beim Verfassungsschutz liegen. Das allein könne Folgen haben: keine Förderung für einen Verein, kein Praktikum am Flughafen, kein Lehramtsreferendariat. *(Beleg: [▶ 17:27](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1047) bis [▶ 18:59](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1139) in [[Zeitgeist — Anhörung Reform des Nachrichtendienstrechts]])*
+7. **Wer handeln darf, darf nicht so weit überwachen.** Das Bundesverfassungsgericht habe mehrfach klargestellt, dass die Nachrichtendienste nur deshalb unter geringeren Voraussetzungen überwachen dürfen, weil sie keine operativen Befugnisse haben. Bekommen sie solche, könnten „auch bisherige Überwachungsmöglichkeiten unverhältnismäßig und verfassungswidrig werden“. *(Beleg: [▶ 19:45](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1185) bis [▶ 20:30](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1230) in [[Zeitgeist — Anhörung Reform des Nachrichtendienstrechts]])*
+8. **Gesetze müssen auch in den Händen einer autoritären Regierung halten.** Gesetzliche Grenzen bewiesen ihren Wert nicht in guten Zeiten; man müsse mitdenken, was die Schutzmaßnahmen „in den Händen einer autoritären Regierung“ bewirken könnten. Die Bündelung der Kontrolle beim Unabhängigen Kontrollrat koste zudem die technische Erfahrung der Datenschutzbeauftragten, und für die wirksame Kontrolle von Datenanalyse und KI-Training habe der Entwurf „keine Antwort“. *(Beleg: [▶ 20:30](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1230) bis [▶ 22:02](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1322) in [[Zeitgeist — Anhörung Reform des Nachrichtendienstrechts]])*
+
+---
+
+## Politische Einordnung
+
+Görlitz spricht für eine Bürgerrechtsorganisation, die mit Klagen gegen staatliche Überwachung vorgeht, und sagt das offen. Im Innenausschuss saß sie auf Vorschlag der Fraktion Die Linke ([Sachverständigenliste](https://www.bundestag.de/resource/blob/1223172/SV-Liste-Anhoerung-12-10-2026.pdf)). Sie lehnt die Reform nicht ab: Eine systematische Ordnung und die Umsetzung der Karlsruher Urteile begrüßt sie, und sie erkennt eine Zeit „neuartiger Bedrohung“ an ([▶ 16:41](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1001) bis [▶ 17:27](https://www.youtube.com/watch?v=WIyqWHO5mDU&t=1047)). In derselben Anhörung nennt [[DenkerVita/Jan-Hendrik Dietrich|Jan-Hendrik Dietrich]] den Entwurf einen Meilenstein, der die neuen Befugnisse durch ein dichtes Kontrollregime einhege. Eine Parteimitgliedschaft ist uns nicht bekannt.
 
 ---
 
@@ -91,3 +95,4 @@ Was Görlitz auszeichnet: Sie denkt nicht nur in Normen, sondern in *Wirkungen*.
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+- [[Zeitgeist — Anhörung Reform des Nachrichtendienstrechts]]

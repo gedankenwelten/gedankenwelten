@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 43,
-   "aufrufe": 45
+   "leser": 42,
+   "aufrufe": 44
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -104,6 +104,11 @@
    "aufrufe": 8
   },
   {
+   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+   "leser": 8,
+   "aufrufe": 8
+  },
+  {
    "pfad": "/DenkerVita/Albert-Camus",
    "leser": 8,
    "aufrufe": 8
@@ -122,11 +127,6 @@
    "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
    "leser": 7,
    "aufrufe": 8
-  },
-  {
-   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-   "leser": 7,
-   "aufrufe": 7
   },
   {
    "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
@@ -339,13 +339,13 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "leser": 6,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 6,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "leser": 5,
      "aufrufe": 7
     },
     {
@@ -384,6 +384,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 4,
      "aufrufe": 4
@@ -410,11 +415,6 @@
     },
     {
      "pfad": "/Denker/Pankaj-Mishra-Zeitalter-des-Zorns",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 3,
      "aufrufe": 3
     },
@@ -589,6 +589,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Denker/Agnes-Callard-Warum-lohnt-sich-ein-sokratisches-Leben",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
      "pfad": "/Denker/Andreas-Reckwitz-Fortschritt-NEU-DENKEN",
      "leser": 1,
      "aufrufe": 1
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Eve-Morisi-Camus-gegen-die-Todesstrafe",
      "leser": 1,
      "aufrufe": 1
     }
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 43,
-     "aufrufe": 45
+     "leser": 42,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -714,6 +714,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 8,
+     "aufrufe": 8
+    },
+    {
      "pfad": "/DenkerVita/Albert-Camus",
      "leser": 8,
      "aufrufe": 8
@@ -732,11 +737,6 @@
      "pfad": "/Zeitgeist/Irina-Scherbakowa-und-Alice-Bota-Erinnern-ist-Widerstand",
      "leser": 7,
      "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 7,
-     "aufrufe": 7
     },
     {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
@@ -1069,6 +1069,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 12,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "leser": 12,
      "aufrufe": 12
@@ -1097,11 +1102,6 @@
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 11,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 11,
-     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
@@ -1374,6 +1374,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 12,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "leser": 12,
      "aufrufe": 12
@@ -1402,11 +1407,6 @@
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 11,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 11,
-     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",

@@ -180,7 +180,7 @@ In der *Politeia* entwirft Platon die ideale Gesellschaft. Weder Erbmonarchie no
 
 ## Verbindungen
 
-- [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]] — Callard liest denselben Sokrates in die Gegenwart: die Statuen-Metapher für Schriften und die Anamnesis (der gebärende Knabe) als die Hebammen-Rolle, die sie zur einen Hälfte der erkenntnistheoretischen Arbeitsteilung macht
+- [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]] — Callard liest denselben Sokrates in die Gegenwart: Am Menon-Knaben sieht man ihre Arbeitsteilung, der Knabe wagt Antworten, Sokrates prüft sie als Hebamme, und erst aus beidem entsteht die Einsicht
 - [[Walther Ziegler — Hegel in 60 Minuten]] — Hegels Ideenlehre ist Platons Erbe in Bewegung: wo Platon ewige, statische Ideen setzt, historisiert Hegel sie — die Idee entfaltet sich dialektisch durch die Geschichte. Platons Höhle wird bei Hegel zum Weltprozess
 - [[Walther Ziegler — Nietzsche in 60 Minuten]] — Nietzsche ist Platons schärfster Gegner: Er wirft Platon und Sokrates vor, das Dionysische aus der Philosophie verbannt zu haben
 

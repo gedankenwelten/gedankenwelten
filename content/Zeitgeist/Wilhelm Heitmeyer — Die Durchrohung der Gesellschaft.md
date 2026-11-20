@@ -23,7 +23,7 @@ aliases:
 
 # Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft
 
-![[Gedankenwelten/assets/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft-banner.jpg|Holzschnitt in Schwarz auf Gelb: Querschnitt eines Hauses mit vielen Zimmern, in denen Menschen sitzen, streiten und gestikulieren; ein Riss spaltet das Haus von oben bis unten.|1200]]
+![[assets/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft-banner.jpg|Holzschnitt in Schwarz auf Gelb: Querschnitt eines Hauses mit vielen Zimmern, in denen Menschen sitzen, streiten und gestikulieren; ein Riss spaltet das Haus von oben bis unten.|1200]]
 
 <details><summary>🎨</summary>
 
@@ -409,7 +409,7 @@ Bei der Polizeistatistik warnt Heitmeyer selbst, dass eine geänderte Zählweise
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
 
 Der Frühwarnmarker zur Strukturdiagnose. Buyx unterscheidet Zynismus vom Nihilismus und macht die Verachtung im Ton zum erkennbaren Vorzeichen — drei Schritte früher, im Alltag prüfbar. Ihr Befund, dass das Torpedieren von Umgangsformen zur Strategie gehört, um Grausamkeit zu normalisieren, ist Heitmeyers Durchrohung in einem Satz. Offen bleibt, was ein individueller Marker gegen einen Prozess ausrichtet, der laut Heitmeyer strukturell eingefordert wird.
 
@@ -460,7 +460,7 @@ Haidts Abscheu-vs-Wut-Unterscheidung liefert den psychologischen Mechanismus fü
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Mel Robbins' Let-Them-Philosophie als Symptom der von Heitmeyer beschriebenen Entsolidarisierung und Individualisierung
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — NZ-Salon spannt Bogen von Teheran über kriminalisierte Aktivisten bis normalisierten Tabubruch — Heitmeyers Verrohungs-Framework
 
-### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
 
 Das Gegenbild aus den USA: Dort fallen Morde, Raub und Einbruch fast überall, während häusliche Gewalt und Drogendelikte steigen, und das Gefühl sagt trotzdem das Gegenteil. Neben Heitmeyers steigenden Kurven stellt sich dieselbe Frage von der anderen Seite, ob eine Zahl die Welt misst oder das Zählen.
 
@@ -468,13 +468,13 @@ Das Gegenbild aus den USA: Dort fallen Morde, Raub und Einbruch fast überall, w
 
 Die Sensibilisierungsthese, die Heitmeyer abwehrt, kehrt bei [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Die Statistik misst auch uns|BissenBlaBla]] in anderer Form wieder: Es wird anders angezeigt, je nachdem, wer der Täter ist. Die Note belegt die Richtung (KFN) und gibt Heitmeyer beim Dunkelfeld zugleich recht.
 
-### → [[Gedankenwelten/Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 Wie Heitmeyer hält Walburg die Anzeigebereitschaft für einen Teil der Erklärung, nicht für die ganze, und erklärt die Kriminalität von Zugewanderten aus Alter, Status und Lebenslage statt aus Herkunft.
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Konkreter Fallbeleg für institutionalisierte Enthemmung: Zwei Tage nach dem NiUS-Artikel erhält Kantinenpächterin Frau A Morddrohungen. Nicht einzelne Schreiber sind das Problem — NiUS ist die Struktur, die Heitmeyers "Durchrohung" betreibt: Gewaltfantasien werden systematisch stimuliert, nicht trotz, sondern durch das Medienformat.
 
-### → [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
+### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
 
 Tianas Analyse ist der US-Kontext zu Heitmeyers Empathieverlust-These: Wenn Schulessen-Schulden als "individuelle Verantwortung" gelten und medizinische Insolvenz als "normaler Dienstag" — dann ist Enthemmung gegenüber anderen nicht Einzelfall, sondern strukturelle Konsequenz eines Systems, das Schwäche als persönliches Versagen rahmt.
 
@@ -482,11 +482,11 @@ Tianas Analyse ist der US-Kontext zu Heitmeyers Empathieverlust-These: Wenn Schu
 
 Heitmeyers strukturelle Brutalität trifft auf die Jugendhilfe-Kürzungen mit besonderer Schärfe: Wer Einzelfallhilfen durch Gruppenangebote ersetzt und §41a streicht, folgt der Logik der Durchrohung — Sparentscheid als Haushaltszwang kaschiert eine politische Priorisierung, die Schwächste systematisch ausblendet.
 
-### → [[Gedankenwelten/Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Das neuronale Substrat der Durchrohung: Was Heitmeyer soziologisch als schichtweise Normalisierung gruppenbezogener Menschenfeindlichkeit beschreibt, beginnt bei Yu als mPFC-Abschaltung im Einzelhirn — und ihre Rehumanisierungs-Strategien sind der Versuch, den Prozess an der Wurzel umzukehren.
 
-### → [[Gedankenwelten/Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
+### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
 
 Die Durchrohung im Zeitraffer eines Schuljahres, erzählt 1906: Vom Diebstahl über die Erpressung zur Folter, von drei Tätern zur halben Klasse — jede Stufe normalisiert die nächste, und die Institution registriert erst die Störung, nie den Prozess.
 
@@ -549,6 +549,6 @@ Ein Feld für die Sensibilisierungsthese: Die queerfeindlichen Straftaten stiege
 > - Heitmeyer will die Psychologisierung vermeiden, weil sie Strukturen schützt. Aber schützt die Strukturerklärung nicht ebenso — den Einzelnen, der sagen kann, *das System habe ihn so gemacht*? Wie hält man beides fest, ohne dass eines das andere verschluckt?
 > - Wenn Gewalt eine Quelle von Anerkennung ist, wo es keine andere gibt: *Welche Anerkennung kann eine Gesellschaft verteilen, die nicht über Rang, Ranking und Sieg läuft?*
 > - Er hält die Zahlen bewusst national, damit niemand sagt: „Alle haben das Problem." Was verliert man dabei — etwa den Blick auf Länder, in denen dieselben Plattformen, aber andere Strukturen andere Kurven erzeugen?
-> - [[Gedankenwelten/Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Buyx]] liest die Verachtung im Ton als Frühwarnzeichen, Heitmeyer den Prozess dahinter. *Wann hast du zuletzt am eigenen Tisch geschwiegen — und was hätte es dich gekostet, es nicht zu tun?*
+> - [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Buyx]] liest die Verachtung im Ton als Frühwarnzeichen, Heitmeyer den Prozess dahinter. *Wann hast du zuletzt am eigenen Tisch geschwiegen — und was hätte es dich gekostet, es nicht zu tun?*
 > - Wenn Belehrung gegen Erfahrung nicht ankommt: Was ist dann diese Note, was ist dieser Vortrag — und welche Erfahrung müsste folgen, damit er etwas ändert?
 
