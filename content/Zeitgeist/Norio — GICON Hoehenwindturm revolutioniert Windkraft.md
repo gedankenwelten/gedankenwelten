@@ -19,6 +19,16 @@ aliases:
 
 # Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft
 
+![[assets/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft-banner.jpg|Gemälde in kühlem Blau und Ocker: Ein schlanker Gitterturm ragt aus einer terrassierten Tagebaulandschaft weit über eine Reihe kleiner weißer Windräder. Ganz oben dreht sich sein Rotor in einem Fächer aus hellen Lichtstrahlen.|1200]]
+
+<details><summary>🎨</summary>
+
+**Lyonel Feininger** — kristalline Flächen, prismatisch zerlegter Himmel, der Turm wie ein gotischer Kirchturm. Feininger malte Türme, die in einen anderen Luftraum ragen, die Dorfkirche von Gelmeroda dutzendfach; hier ist es ein Gitterturm, der über die erste Etage der Windräder hinaus in den helleren, strömenden Wind steigt, während unten die Luft geschichtet und still bleibt. Ein Bauhaus-Meister, der in Thüringen malte, für eine Erfindung aus dem Osten.
+
+*Prompt:* Wide panoramic painting in the style of Lyonel Feininger: a single slender steel lattice tower rises far above a row of ordinary white wind turbines standing on a flat, terraced former open-pit lignite landscape. High at the top of the tower a large three-bladed rotor turns inside a bright band of streaming wind, rendered as translucent prismatic planes of light and long intersecting diagonal rays. Below, around the small turbines, the air is still, layered and hazy. Crystalline cubist facets, thin precise lines, the tower like a Gothic spire. Palette of cool blues, slate grey, pale ochre earth, a warm yellow glow at the height of the high rotor. Oil on canvas with thin translucent glazes. No people, no text, no signature.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Windturm, der sich selbst zum Kran wird und in 300 Metern Höhe holt, was am Boden fehlt. Im Mai 2026 erzählt der Kanal Norio mit Jochen Großmann von der Konstruktion seiner Firma GICON, vom Tal, in dem deutsche Innovationen sterben, und von 4.000 Türmen als zweiter Etage in bestehenden Windparks.
 >
