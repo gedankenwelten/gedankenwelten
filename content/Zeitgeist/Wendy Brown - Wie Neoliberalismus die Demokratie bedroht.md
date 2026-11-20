@@ -308,7 +308,7 @@ Browns Diagnose und Redeckers Therapie: Brown erklärt, wie der Neoliberalismus 
 
 ### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism]]
 
-Beide operieren mit Pikettys r > g als Ausgangspunkt — aber Varoufakis zieht die Konsequenz weiter: Was Brown als drohenden Neo-Feudalismus beschreibt (Kapitalakkumulation → Oligarchie → Rentenextraktion), ist für Varoufakis längst vollzogen und in Cloud-Feudalismus mutiert. Browns "oligarchische Philanthropie" (Zuckerberg, Gates) entspricht bei Varoufakis dem Übergang zu Cloud Capital, das nicht mehr nach Profitlogik, sondern nach Tributlogik funktioniert.
+Stationen derselben Diagnose: Was Brown mit Piketty als drohenden Neo-Feudalismus beschreibt (Kapitalakkumulation → Oligarchie → Rentenextraktion), ist für Varoufakis längst vollzogen und in Cloud-Feudalismus mutiert. Die Reichen, die Brown als neue Herrscher sieht (Zuckerberg, Gates), sind bei Varoufakis die Besitzer von Cloud Capital, das nicht nach Profitlogik, sondern nach Tributlogik funktioniert.
 
 ### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 

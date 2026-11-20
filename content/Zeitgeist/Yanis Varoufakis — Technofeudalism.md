@@ -221,7 +221,7 @@ Büttner und Kaufmann wollen europäische Technologiesouveränität durch Wettbe
 
 ### → [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
 
-Brown (2015) und Varoufakis sind Stationen derselben Diagnose: Brown beschreibt, wie Neoliberalismus die Demokratie durch Marktlogik untergräbt und einen drohenden Neo-Feudalismus (Piketty: r > g) ankündigt — Varoufakis argumentiert, diese Mutation sei bereits vollzogen und in Cloud-Feudalismus übergegangen. Browns "oligarchische Philanthropie" ist bei Varoufakis Cloud Capital, das nicht Profit, sondern Tribut extrahiert.
+Brown (Gespräch von 2015) und Varoufakis sind Stationen derselben Diagnose: Brown beschreibt, wie der Neoliberalismus die Demokratie durch Marktlogik untergräbt, und warnt mit Piketty vor einer Art Neo-Feudalismus, den Begriff schreibt sie ihm zu — Varoufakis argumentiert, diese Mutation sei bereits vollzogen und in Cloud-Feudalismus übergegangen. Die Reichen, die Brown als neue Herrscher sieht, die Gates und Zuckerbergs mit ihren philanthropischen Plänen, sind bei Varoufakis die Besitzer von Cloud Capital, das nicht Profit, sondern Tribut extrahiert.
 
 ### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
 

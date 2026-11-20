@@ -77,7 +77,7 @@ Besser belegt ist, was Konsens mit den Verlierern macht. In Mehrheitsdemokratien
 </details>
 
 > [!question] Die Reibung
-> Brown sagt, der Staat wurde kaputtgespart, Poschardt, er sei zu groß, und die Forschung sagt, er ertrinkt in Regeln, die niemand streicht. Dieselben Vetospieler, die eine schlechte Reform verhindern, blockieren auch die gute, und Tooze macht daraus eine Strategie: Wo die Mehrheit fehlt, soll die eigene Seite genauso stur blockieren. *Wer entscheidet, welcher Stillstand Schutz ist und welcher Lähmung, und warum zählt die deutsche Abbauregel ausgerechnet das nicht mit, was aus Brüssel kommt?*
+> Brown stimmt ihrem Gesprächspartner zu, der Staat wurde kaputtgespart, Poschardt sagt, er sei zu groß, und die Forschung sagt, er ertrinkt in Regeln, die niemand streicht. Dieselben Vetospieler, die eine schlechte Reform verhindern, blockieren auch die gute, und Tooze macht daraus eine Strategie: Wo die Mehrheit fehlt, soll die eigene Seite genauso stur blockieren. *Wer entscheidet, welcher Stillstand Schutz ist und welcher Lähmung, und warum zählt die deutsche Abbauregel ausgerechnet das nicht mit, was aus Brüssel kommt?*
 
 ---
 
