@@ -1,8 +1,9 @@
 ---
 title: "Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft"
 description: "Ein Windturm, der sich selbst zum Kran wird und in der Höhe Offshore-Werte erreicht, auch in Bayern. Norio erzählt von einer ostdeutschen Erfindung und dem Tal, in dem Innovationen sterben."
-aktualisiert: 2026-05-16
+aktualisiert: 2026-11-20
 date: 15.05.2026
+raetsel: "Oben weht es öfter. Die Flaute steigt mit."
 tags:
   - zeitgeist
   - energiewende
@@ -13,9 +14,15 @@ tags:
 aliases:
   - GICON Höhenwindturm
   - Großmann Windkraft
+  - Höhenwindrad Schipkau
 ---
 
 # Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft
+
+> [!abstract] Worum es geht
+> Ein Windturm, der sich selbst zum Kran wird und in 300 Metern Höhe holt, was am Boden fehlt. Im Mai 2026 erzählt der Kanal Norio mit Jochen Großmann von der Konstruktion seiner Firma GICON, vom Tal, in dem deutsche Innovationen sterben, und von 4.000 Türmen als zweiter Etage in bestehenden Windparks.
+>
+> Seit dem 19. November 2026 ist die Anlage am Netz. Was die Messungen hergeben und was nicht, auch zur Frage, ob es dort oben je windstill wird, steht unter [[#Was seither geschah|Was seither geschah]].
 
 Quelle: [Wahnsinn: Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www.youtube.com/watch?v=kKoYDAMzd4o)
 
@@ -47,7 +54,7 @@ Es gibt also zwei Engpässe: technisch (Windkraft funktioniert nicht überall) u
 
 [▶ 6:05](https://www.youtube.com/watch?v=kKoYDAMzd4o&t=365) — *„In rund 300 m Höhe wird der Wind so konstant und so stark, dass auf das Jahr gerechnet tatsächlich knapp doppelt bis dreimal so viel Strom produziert werden kann wie in 50 bis 200 m Höhe — und das tatsächlich deutschlandweit."*
 
-Die entscheidende Kennzahl ist die **Vollaststundenzahl**: Bei konventionellen Onshore-Windrädern liegt sie bei 20–35%. Der GICON-Höhenwindturm erreicht **55%**. Das bedeutet: Eine 10-MW-Anlage liefert nicht 2000–3500 MWh pro Jahr, sondern **4800 MWh**. Dieser Wert ist vergleichbar mit Offshore-Windkraft in der Nordsee — aber ohne die logistischen Albträume von Meeresinstallationen, ohne Salzkorrosion, ohne die Abhängigkeit von Spezialschiffen.
+Die entscheidende Kennzahl ist die **Vollaststundenzahl**: Bei konventionellen Onshore-Windrädern liegt sie bei 20–35%. Der GICON-Höhenwindturm erreicht **55%**. Das bedeutet: Eine 10-MW-Anlage liefert nicht rund 17.500–30.700 MWh pro Jahr, sondern **rund 48.000 MWh**. Dieser Wert ist vergleichbar mit Offshore-Windkraft in der Nordsee — aber ohne die logistischen Albträume von Meeresinstallationen, ohne Salzkorrosion, ohne die Abhängigkeit von Spezialschiffen.
 
 Das hätte strukturelle Konsequenzen: Bayern, bislang fast windkraftfreie Zone, könnte Anlagen bauen, die leistungstechnisch mit norddeutschen Standorten konkurrieren. Die Formel lautet: *„Offshore-Windkraft in ganz Deutschland."* Und damit wird die Nord-Süd-Stromtrasse nicht kleiner, sondern möglicherweise überflüssig.
 
@@ -124,10 +131,40 @@ Ob diese Zahl realistisch ist, hängt davon ab, ob das erste Exemplar hält, was
 
 ---
 
+## Was seither geschah
+
+*Stand: 20.11.2026*
+
+**Am Netz.** Am 29. September 2026 fuhr ein Litzenhubsystem den Innenturm auf seine Endhöhe ([SPRIND](https://www.sprind.org/worte/magazin/hoehenwindrad-rekord)). Starke Windböen hatten die Arbeiten in der Höhe vorher mehrmals unterbrochen. Seit dem 19. November speist die Anlage in Schipkau ins Netz ein, 365 Meter bis zur Blattspitze, drei Meter weniger als der Berliner Fernsehturm ([MDR](https://www.mdr.de/wissen/umwelt-klima/riessiges-windrad-soll-mehr-strom-generieren-,hoehenwindrad-114.html)). Jacob Beautemps, der für Breaking Lab schon den Messmast hochgeklettert war, hat ihr am selben Tag ein Video gewidmet ([Breaking Lab](https://www.youtube.com/watch?v=LWQUaGxUmxk)). „2026 soll es laufen“: Das ist eingetreten.
+
+**Was der Mast gemessen hat.** Die Messungen, auf die sich das Video beruft, liegen als Bericht vor. Ein Jahr lang, von Mai 2023 bis Mai 2024, maß der 300-Meter-Mast auf der Hochfläche Klettwitz. Oben wehte der Wind im Mittel mit 8,5 Metern pro Sekunde, in 150 Metern mit 6,7, also gut ein Viertel stärker. Für eine Vestas-Turbine mit 9,5 MW errechnet der Bericht daraus 63 Prozent mehr Jahresertrag und einen Kapazitätsfaktor von 43,8 statt 26,8 Prozent ([SPRIND-Messbericht](https://cms.system.sprind.org/uploads/Analyse_der_Windbedingungen_in_300_m_Hoehe_am_Standort_Schipkau_anhand_der_Daten_des_Messmastes_d6e807ee10.pdf)). Der Kapazitätsfaktor ist der Wert, den das Video „Volllaststundenzahl“ nennt. Das ist viel, aber weniger als die 55 Prozent aus dem Video. Das „doppelt bis dreimal so viel“ bezieht sich auf 50 bis 200 Meter Höhe und nimmt damit auch die niedrigen Türme mit hinein; gegen 150 Meter gemessen bleiben es gut anderthalbmal so viel.
+
+**Keine Flaute mehr? Seltener.** Wer das Video hört, kann meinen, in 300 Metern wehe immer Wind. Der Bericht zählt die Stunden des Messjahrs, gerechnet für dieselbe Beispielturbine:
+
+| Nabenhöhe | steht still (zu wenig Wind) | unter 10 % der Leistung | über 30 % der Leistung |
+|---|---|---|---|
+| 150 m | 12,3 % der Stunden | 28,0 % | 32,8 % |
+| 300 m | 9,7 % (rund 850 Stunden) | 20,7 % | 51,3 % |
+
+Auch oben steht das Rad also mehr als einen Monat im Jahr still, und ein Fünftel der Zeit dreht es fast ohne Ertrag. Gemessen am Tagesmittel lag der Wind in 300 Metern an 28 Tagen unter 4 Metern pro Sekunde, in 150 Metern an 45. Was sich wirklich verschiebt, ist die Mitte: Mehr als die Hälfte der Stunden läuft die Anlage kräftig, in 150 Metern ein Drittel. Der Höhenwind glättet die Kurve, die Flaute schafft er nicht ab. Der Klimatologe Stefan Emeis vom Karlsruher Institut für Technologie sieht darin den eigentlichen Gewinn für die Netzbetreiber: Die Einspeisung schwankt weniger, das senkt den Regelaufwand und macht sie planbarer ([wissenschaft.de](https://wissenschaft.de/artikel/hintergrund-was-bringen-hoehenwindtuerme-fuer-die-windenergie)).
+
+> [!question] Weitergedacht
+> Sieben von zehn Stunden mit nennenswertem Ertrag statt sechs: Entlastet das Speicher und Netze schon spürbar, *oder fehlt der Wind gerade in den Wochen, in denen man ihn am dringendsten braucht, oben wie unten?*
+
+**Die Pilotanlage ist klein.** Der Turm ist für 8 bis 10 MW ausgelegt. Die Turbine, die jetzt oben sitzt, hat 3,8 MW, künftige Anlagen sollen 7 MW bekommen (MDR). Das höchste Windrad der Welt ist damit nicht das stärkste: Große Offshore-Anlagen schaffen inzwischen bis zu 15 MW. Strom soll es für bis zu 7.500 Haushalte liefern ([ZDFheute](https://www.zdfheute.de/panorama/rekord-hoechstes-windrad-schipkau-brandenburg-100.html)).
+
+**Was es kostet.** GICON schätzt eine Serienanlage auf rund 10,8 Millionen Euro: gut zehnmal so viel wie ein normales Windrad, das GICON mit einer Million ansetzt, und zwei Drittel der jetzigen Versuchsanlage (MDR; wissenschaft.de). Was die eine Million umfasst, sagt keine der Quellen. Selbst mit dem Mehrertrag wäre der Höhenturm vorerst teurer. Der Energieforscher Christoph Winkler vom Forschungszentrum Jülich rechnet damit, dass schon eine stärkere Turbine die Turmkosten je Kilowatt um bis zu ein Drittel senken könnte, dazu kämen Serie und Standardisierung. Er nennt aber auch eine Grenze, die bei den 4.000 Türmen mitzudenken ist: Ein fast doppelt so hohes Windrad muss teils auch doppelt so weit von Siedlungen entfernt stehen (wissenschaft.de).
+
+**Wer die Idee hatte.** Diese Note erzählt den Turm als Großmanns Werk, und die Konstruktion ist es. Den Anstoß, überhaupt so hoch zu bauen, gab ein anderer: Horst Bendix, lange Technik- und Forschungschef beim Leipziger Schwermaschinenbauer Kirow, reichte die Idee eines Höhenwindrads 2019 mit 91 Jahren bei der SPRIND ein. Die gründete dafür ihre erste Tochter, die beventum, ließ drei Konzepte prüfen und wählte das von GICON, die selbst schon mehr als zehn Jahre an Höhentürmen arbeitete ([SPRIND — beventum](https://www.sprind.org/taten/projekte/beventum)).
+
+Ob die Rechnung aufgeht, Ertrag gegen Bau, Betrieb und Wartung, zeigen erst die Betriebsjahre.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — SPRIND-Förderung und Projektexistenz
-> SPRIND hat den GICON-Höhenwindturm offiziell gefördert. Das Projekt „Beventum" (GICON-Tochter) ist auf der SPRIND-Website mit technischen Spezifikationen dokumentiert. Quelle: [SPRIND — Beventum Projekt](https://www.sprind.org/de/projekte/beventum/)
+> SPRIND hat den GICON-Höhenwindturm offiziell gefördert. Das Projekt läuft über die beventum GmbH, die erste Tochter der SPRIND (gegründet im Dezember 2020); GICON ist der beauftragte Partner. Quelle: [SPRIND — beventum](https://www.sprind.org/taten/projekte/beventum)
 
 > [!success] Bestätigt — Liebherr LR11350 als Großkran
 > Der Liebherr LR 11350 (1.350-Tonnen-Klasse) gehört zu den leistungsfähigsten serienmäßig verfügbaren Raupenkränen weltweit. Seine maximale Hubhöhe liegt bei rund 220 m — was den GICON-Turm tatsächlich nicht vollständig erreicht und die Teleskoplösung zwingend macht. Quelle: Liebherr-Produktdaten
@@ -167,6 +204,14 @@ Ob diese Zahl realistisch ist, hängt davon ab, ob das erste Exemplar hält, was
 - [Tagesschau — Stromtrasse Kosten](https://www.tagesschau.de/wirtschaft/energie/stromtrasse-erdkabel-kosten-100.html) — Kosteneinschätzung Nord-Süd-Trasse
 - [MDR — Wake-Effekt](https://www.mdr.de/wissen/umwelt-klima/wenn-sich-windraeder-den-wind-klauen-einfluss-wake-effekt100.html) — Hintergrund Windschattenproblem
 - [Forbes — Valley of Death](https://www.forbes.com/sites/martinzwilling/2013/02/18/10-ways-for-startups-to-survive-the-valley-of-death/) — Konzept der Innovationslücke
+
+*Für „Was seither geschah“ (20.11.2026):*
+
+- [Breaking Lab — 365 Meter: Das höchste Windrad der Welt geht in Deutschland ans Netz!](https://www.youtube.com/watch?v=LWQUaGxUmxk) — Jacob Beautemps zum Netzanschluss, mit dem „großen Aber“
+- [SPRIND — Analyse der Windbedingungen in 300 m Höhe am Standort Schipkau](https://cms.system.sprind.org/uploads/Analyse_der_Windbedingungen_in_300_m_Hoehe_am_Standort_Schipkau_anhand_der_Daten_des_Messmastes_d6e807ee10.pdf) — der Messbericht: Windgeschwindigkeit, Ertrag, Stillstandszeiten je Höhe
+- [SPRIND — Erster Weltrekord aus dem SPRIND-Kosmos](https://www.sprind.org/worte/magazin/hoehenwindrad-rekord) — Endhöhe erreicht (29.09.2026), Horst Bendix und die Vorgeschichte
+- [MDR — Das größte Windrad der Welt geht ans Netz](https://www.mdr.de/wissen/umwelt-klima/riessiges-windrad-soll-mehr-strom-generieren-,hoehenwindrad-114.html) — Netzanschluss, Leistung, Kosten
+- [wissenschaft.de — Was bringen Höhenwindtürme für die Windenergie?](https://wissenschaft.de/artikel/hintergrund-was-bringen-hoehenwindtuerme-fuer-die-windenergie) — Einordnung durch Stefan Emeis (KIT), Christoph Winkler (Jülich), Po Wen Cheng (Stuttgart)
 
 ---
 
@@ -215,3 +260,8 @@ Großmanns Tal des Todes kehrt bei drei Energie-Erfindungen wieder, deren Abers 
 > - Die Bürgerbeteiligung in Klettwitz klingt nach einem Modell für die gesamte Energiewende. *Warum ist es noch nicht Standard — und wer hätte Interesse daran, dass es keiner wird?*
 > - *Was würde passieren, wenn das erste Exemplar technisch scheitert?* Wäre das das Ende der Höhenwindidee — oder ein lernbarer Fehlschlag im Sinne von Großmanns eigener Valley-of-Death-Logik?
 > - Großmann sagt, Deutschland habe die „Bereitschaft zum Scheitern" verlernt. *Aber wer trägt das Risiko, wenn ein staatlich gefördertes Projekt scheitert — und ist das dieselbe Bereitschaft, die Unternehmer brauchen?*
+
+---
+
+> [!note] Korrekturnotiz, 20.11.2026
+> Die erste Fassung rechnete die Formel aus dem Video falsch aus, um den Faktor zehn: Eine 10-MW-Anlage liefert bei 55 Prozent rund 48.000 MWh im Jahr, nicht 4.800, und bei 20 bis 35 Prozent rund 17.500 bis 30.700 MWh, nicht 2.000 bis 3.500. Im Faktencheck hieß die beventum eine Tochter von GICON; sie ist die erste Tochter der SPRIND, GICON ihr Partner. Neu sind der Aufmacher und „Was seither geschah“.

@@ -36,15 +36,15 @@ Die Gedankenwelten (luc)
 >
 > Ein Land hinter dem Internet-Blackout, ein Gottesstaat auf dem Weg zur Militärdiktatur. Natalie Amiri, die nicht mehr einreisen kann, beschreibt den Iran im Krieg.
 
+> **20.11.** — [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft|Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft]]
+>
+> Ein Windturm, der sich selbst zum Kran wird und in der Höhe Offshore-Werte erreicht, auch in Bayern. Norio erzählt von einer ostdeutschen Erfindung und dem Tal, in dem Innovationen sterben.
+
 > **17.11.** — [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 >
 > Ein Eilbeschluss, kein Urteil: Das VG Köln stoppt vorerst die Einstufung der AfD als gesichert rechtsextrem. Gilda Sahebi und Arne Semsrott prüfen die Begründung, am vierten Tag des Iran-Kriegs.
 
-> **17.11.** — [[Zeitgeist/NDR Story — Richter und Taeter, Wiedersehen auf St. Pauli|NDR Story — Richter und Täter, Wiedersehen auf St. Pauli]]
->
-> Ein Jugendrichter im Ruhestand sucht die auf, die er als Kinder verurteilt hat, und fragt sie, ob er ihnen Unrecht getan hat. Eine Reportage über Strafe, die helfen soll, und über einen Richter, der selbst einmal auf der anderen Seite stand.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Denker
 

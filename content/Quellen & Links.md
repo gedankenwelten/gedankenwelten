@@ -2297,6 +2297,9 @@ tags:
 | **Notiz** | [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]] |
 | **DenkerVita** | [[DenkerVita/Jochen Grossmann]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Grossmann_GICON_Hoehenwindturm_Transkript.txt` |
+| **Update (Video)** | [Breaking Lab — 365 Meter: Das höchste Windrad der Welt geht in Deutschland ans Netz!](https://www.youtube.com/watch?v=LWQUaGxUmxk) (19.11.2026) → „Was seither geschah“ |
+| **Transkript (Update)** | `Gedankenwelten/Transkripte/Beautemps_Hoehenwindrad_Netz.de.vtt` |
+| **Messbericht** | [SPRIND — Windbedingungen in 300 m Höhe, Schipkau](https://cms.system.sprind.org/uploads/Analyse_der_Windbedingungen_in_300_m_Hoehe_am_Standort_Schipkau_anhand_der_Daten_des_Messmastes_d6e807ee10.pdf) |
 
 ## Abdolkarim Soroush — Reformation des Glaubens von innen
 
