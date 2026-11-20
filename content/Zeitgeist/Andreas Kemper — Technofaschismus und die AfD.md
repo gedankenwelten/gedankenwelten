@@ -182,7 +182,7 @@ Kernforderung: **KI muss demokratischer Kontrolle unterliegen.** Alle Macht vom 
 
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
-Nocun liefert die empirische Substanz zu Kempers Technofaschismus-These: KI-Fake-Frauen (Larissa Wagner, Jessica Foster), koordinierte Sockenpuppen-Netzwerke (190 Profile, 22 Personas) und Verfallporn als Realitätskonstruktion — das ist Kempers Werkzeugkasten in live dokumentierten Fällen.
+Nocun liefert Anschauung zu Kempers Technofaschismus-These: KI-Fake-Frauen (Larissa Wagner, Jessica Foster), ein Geflecht aus 190 KI-Profilen und 22 Personas (eine zentrale Steuerung konnte Correctiv nicht nachweisen) und Verfallsvideos als Zerrbild der Wirklichkeit. Von Technofaschismus spricht Nocun selbst nicht; ihre Fälle zeigen das Werkzeug, Kempers These deutet es.
 
 ### → [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
 

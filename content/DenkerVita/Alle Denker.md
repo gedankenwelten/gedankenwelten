@@ -424,7 +424,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Kristian Kunow|Kristian Kunow]]** — Stellvertretender Direktor der MABB; Regulierungspragmatiker für digitalen Jugendschutz; Mitglied Expertenkommission Bund 2026; smarte Lösungen statt Totalverbot; EU-weite Durchsetzung als Schlüssel
 
-**[[DenkerVita/Katharina Nocun|Katharina Nocun]]** — Deutsch-polnische Netzaktivistin, Autorin, Konspirationsmythologen-Forscherin; Digitale Bürgerrechte, Verschwörungstheorien, esoterische Vorfeld-Organisationen der extremen Rechten, KI-generierte Desinformation; Piratenpartei-Policy-Coordinator 2013–2016, Kampagnen für Campact und FSFE, Snowden-Supporter
+**[[DenkerVita/Katharina Nocun|Katharina Nocun]]** — Deutsch-polnische Netzaktivistin, Autorin, Konspirationsmythologen-Forscherin; Digitale Bürgerrechte, Verschwörungstheorien, esoterische Vorfeld-Organisationen der extremen Rechten, KI-generierte Desinformation; 2013 politische Geschäftsführerin der Piratenpartei, Kampagnen für Campact
 
 **[[DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
 

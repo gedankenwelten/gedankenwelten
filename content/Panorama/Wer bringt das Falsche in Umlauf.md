@@ -103,7 +103,7 @@ Die Forschung macht eine unbequeme Rechnung auf: Die meisten erfundenen Geschich
 
 **Die Stimmen**
 
-- **[[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt#Fake-Konfrontationen: Der inszenierte Beschützermoment|Katharina Nocun]]:** Aus den USA kommen KI-gemachte Konfrontationen, in denen der Rechte die Frau vor der queeren Person schützt; zwei Erzählungen zugleich, nie als Kampagne erkennbar.
+- **[[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt#Eine Konfrontation, die es nie gab|Katharina Nocun]]:** Aus den USA kommen KI-gemachte Konfrontationen, in denen der Rechte die Frau vor der queeren Person schützt; zwei Erzählungen zugleich, in vielen Varianten.
 - **[[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation#Storm-1516: der Hilfssheriff und die Wegwerfzeitungen|Lars Wienand]]:** Moskaus Fälscherwerkstatt zählt westliche Medienberichte über ihre Fakes als Arbeitsnachweis.
 - **[[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)#Wer tatsächlich manipuliert hat|Staiy]]:** Das Video vom Schreddern der AfD-Briefwahlstimmen war selbst die Fälschung, mutmaßlich aus Russland.
 - **[[Zeitgeist/Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife#Chrupallas Bundestags-Inszenierung|Daniel]]:** Inszeniert wird auch ohne Fälschung: Eine Aktuelle Stunde zu einem längst aufgearbeiteten Vorfall, ohne ihn als aufgearbeitet zu erwähnen.
@@ -144,7 +144,7 @@ Vorbeugen statt Nachräumen, das Prebunking, wirkt im Labor und in einem YouTube
 **Die Stimmen**
 
 - **[[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten#Gegenstrategien den Hass nicht füttern|Lilith Roska und Gina Wiedemann]]:** Für die Mitlesenden entlarven, aber nicht unter dem Hasskommentar antworten, das spült ihn nach oben; gute Gegenkommentare liken, und: pick your fights.
-- **[[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt#Realitätskonstruktion Stereotype, Verfallporn und das Reality Distortion Field|Katharina Nocun]]:** Wer dagegen kommentiert, boostet den Post; Empörung ist Engagement, und die Überspitzung ist vielleicht Teil der Strategie.
+- **[[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt#Popkultur-Remix vertraut und niedlich|Katharina Nocun]]:** Wer dagegen kommentiert, boostet den Post; Empörung ist Engagement, und die Überspitzung ist vielleicht Teil der Strategie.
 - **[[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten#Wie damit umgehen? Das Dilemma der Entlarvung|Annika Brockschmidt]]:** Schweigen normalisiert; einordnen muss sein, leicht verständlich und geschlossen, das Muster statt des Einzelfalls.
 - **[[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha#Was tun? Vier nüchterne Appelle|Leonie Heims und Tim Stark]]:** Lieber gar nicht berichten, als ein Phänomen zu verharmlosen.
 - **[[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Was nicht hilft|Aladin El-Mafaalani]]:** Ignorieren funktioniert nicht, die Misstrauensgemeinschaften haben eigene Reichweite; ausgefeilte Kommunikation bestätigt nur den Verdacht der Manipulation.

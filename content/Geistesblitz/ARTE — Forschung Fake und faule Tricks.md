@@ -229,7 +229,7 @@ Das ist Agnotologie ohne Akteur — produziertes Unwissen durch strukturelle Anr
 
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
-Nocuns „Erschöpfung der Faktizität" ist Agnotologie mit KI skaliert: Was das Tabak-Blueprint manuell über Jahrzehnte betrieb, macht KI-Slop in Echtzeit — Zweifel industrialisieren, epistemischen Boden wegziehen, Parallelrealitäten bauen.
+Was Nocun mit Arendt beschreibt, den Zustand, in dem der Unterschied zwischen Fakt und Fiktion nicht mehr zählt, ist Agnotologie mit KI skaliert: Was das Tabak-Blueprint manuell über Jahrzehnte betrieb, macht KI-Slop in Echtzeit — Zweifel industrialisieren, epistemischen Boden wegziehen, Parallelrealitäten bauen.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 

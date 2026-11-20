@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Eine Soldatin mit Millionenpublikum, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage.
 
+> **20.11.** — [[Zeitgeist/Natalie Amiri — Hoelle auf Erden im Iran|Natalie Amiri — Hölle auf Erden im Iran]]
+>
+> Ein Land hinter dem Internet-Blackout, ein Gottesstaat auf dem Weg zur Militärdiktatur. Natalie Amiri, die nicht mehr einreisen kann, beschreibt den Iran im Krieg.
+
 > **17.11.** — [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 >
 > Ein Eilbeschluss, kein Urteil: Das VG Köln stoppt vorerst die Einstufung der AfD als gesichert rechtsextrem. Gilda Sahebi und Arne Semsrott prüfen die Begründung, am vierten Tag des Iran-Kriegs.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Südafrika bot seinen Folterern Straffreiheit an, wenn sie öffentlich die ganze Wahrheit sagten. Der Theologe Ralf K. Wüstenberg erzählt, was dieser Tausch gebracht hat, was er gekostet hat, und was Deutschland nach 1989 daraus hätte lernen können.
 
-> **17.11.** — [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
->
-> Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
-
-> → *5 weitere in* [[Zeitgeist]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

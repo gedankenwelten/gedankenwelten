@@ -196,7 +196,7 @@ Arendts „Denken ohne Geländer" und Sartres Verurteiltsein zur Freiheit sind d
 
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — KI-Content und die extreme Rechte]]
 
-Nocun dokumentiert empirisch, was Arendts Geländer-Metapher theoretisch beschreibt. Decline Porn, KI-Fake-Vox-Pops, koordinierte Parallelrealitäten — das ist kein Angriff auf einzelne Fakten, sondern auf die geteilte Faktizität selbst: das Geländer, das Urteilen erst ermöglicht. Wenn Menschen nicht mehr wissen, ob das Interview echt ist oder das Familienbild generiert — verlieren sie genau die Fähigkeit, *vom Standpunkt des anderen aus zu denken*, die Arendt als demokratisches Minimum beschreibt. Die „Erschöpfung der Faktizität" ist der technologische Name für den Einriss ins Geländer.
+Nocun zeigt an Beispielen, was Arendts Geländer-Metapher beschreibt. Decline Porn, KI-Fake-Vox-Pops, erfundene Talkshows — das ist kein Angriff auf einzelne Fakten, sondern auf die geteilte Faktizität selbst: das Geländer, das Urteilen erst ermöglicht. Wenn Menschen nicht mehr wissen, ob das Interview echt ist oder das Familienbild generiert — verlieren sie genau die Fähigkeit, *vom Standpunkt des anderen aus zu denken*, die Arendt als demokratisches Minimum beschreibt. Was dort im Feed geschieht, ist ein technischer Name für den Riss im Geländer.
 
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 

@@ -159,7 +159,7 @@ Dahinter stehen materielle Gründe, die keine Ausrede sind und trotzdem wirken: 
 - **[[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus#Drei Typen destruktiver Mentalitäten|Amlinger & Nachtwey]]:** Zerstörungslust wächst bei denen, die sich zurückgesetzt fühlen und zugleich dominieren wollen.
 - **[[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)#Empirische Forschung Kontrollverlust als Kern|Thomas Fricke]]:** Der empirische Kern ist das Gefühl von Kontrollverlust, Austerität und Inflation beschleunigen es.
 - **[[Zeitgeist/Annette Dittert — Dear Britain#Migration als Vehikel, nicht als Thema|Annette Dittert]]:** Migration ist das Vehikel, nicht das Thema; in Großbritannien sieht man, wohin dasselbe Schema führt.
-- **[[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt#Fake-Frauen, echte Wirkung Das Sockenpuppen-Prinzip|Katharina Nocun]]:** Erfundene Frauen erzählen erfundene Geschichten, und die Wut darauf ist echt.
+- **[[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt#Frauen, die es nicht gibt|Katharina Nocun]]:** Erfundene Frauen erzählen erfundene Geschichten, und die Wut darauf ist echt.
 - **[[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Misstrauensgemeinschaften haben kein positives Projekt|Aladin El-Mafaalani]]:** Misstrauensgemeinschaften haben kein positives Projekt; was sie zusammenhält, ist das gemeinsame Nein.
 
 <details><summary>Weitere Stimmen (5)</summary>
