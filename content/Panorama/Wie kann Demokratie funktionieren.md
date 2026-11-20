@@ -320,6 +320,8 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 
 Wie Eigentümer über Medien Politik machen, ist an Fällen belegt: Sheldon Adelsons kostenlose Zeitung *Israel Hayom* verschob messbar Stimmen zugunsten Netanjahus ([Grossman u. a. 2022](https://doi.org/10.1086/719415), Einzelstudie), und nach Bollorés Übernahme von CNews bekam die radikale Rechte dort rund 70 Prozent mehr Sendezeit ([Cagé u. a. 2025](https://www.ifo.de/DocDL/cesifo1_wp11741.pdf), Arbeitspapier). Gegen den Befund von Gilens und Page gibt es einen neuen methodischen Einwand ([Enns 2026](https://doi.org/10.15195/v13.a21), Methodenkritik).
 
+Eine zweite Achse ist das Alter. Ein Mensch, eine Stimme heißt in einer alternden Gesellschaft, dass das Gewicht der Älteren wächst. Das Wahlrecht ab 16 verjüngt die Wählerschaft nur um Monate, das Medianalter fiele von 54,0 auf 53,4 Jahre ([BiB 2021](https://www.bib.bund.de/DE/Presse/Mitteilungen/2021/2021-12-14-Fast-1-4-Millionen-potenzielle-Neuwaehler-bei-Wahlrecht-ab-16.html)). Die 16- und 17-Jährigen treffen dann ebenso gute Wahlentscheidungen wie Ältere ([Wagner u. a. 2012](https://doi.org/10.1016/j.electstud.2012.01.007), Wahlstudie aus Österreich), engagieren sich sonst aber kaum mehr ([Stiers u. a. 2020](https://doi.org/10.1017/psrm.2020.8), Quasi-Experiment). Zusatzstimmen für künftige Generationen machten Entscheidungen im Labor nicht zukunftsfreundlicher ([Miyake u. a. 2023](https://doi.org/10.3390/su151914310), Laborexperiment). Ein Stimmgewicht nach verbleibender Lebenserwartung, wie es El-Mafaalani erwägt, stieße auf die Gleichheit der Wahl. Er rechnet mit einem Durchschnitt für alle; genauer bemessen, gäbe es Wohlhabenden mehr Gewicht, weil sie länger leben ([Haan u. a. 2020](https://doi.org/10.1016/j.jeoa.2019.100199), Rentendaten; die Folgerung ist unsere). Mehr in der [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Hilft den Jungen eine Stimme?|Nachbesprechung zu El-Mafaalani]].
+
 **Die Stimmen**
 
 - **[[Philipp Blom — Die strauchelnde Welt#Die Demokratie umbauen, bevor andere es tun|Philipp Blom]]:** Überreichtum zersetzt die Demokratie wie die sozialen Medien, und beide hängen zusammen; „100 Millionen sind wahrscheinlich genug pro Nase“.
@@ -330,6 +332,7 @@ Wie Eigentümer über Medien Politik machen, ist an Fällen belegt: Sheldon Adel
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Wir leben in der Aristokratie|Ardalan Ibrahim]]:** Die Wahl war die Erfindung, die das Volk wählen lässt, ohne die Macht der Vermögenden zu gefährden.
 - **[[Rainer Mausfeld — Warum schweigen die Lämmer#Hat die untere Hälfte keinen Einfluss?|Rainer Mausfeld]]:** Die untere Hälfte gehe „mit einem Null-Gewicht“ in politische Entscheidungen ein, damit sei „die Idee der kapitalistischen Demokratie erledigt“; die Studie, auf die er sich stützt, sagt weniger, und seine Zahl wechselt zwischen 70 und 50 Prozent.
 - **[[phoenixRunde — Arm und Reich in Deutschland#Arm gegen Arm Der Verteilungskonflikt als politisches Instrument|David Deißner]]:** „Reich gegen Arm“ sei ebenso populistisch wie „Arm gegen Arm“, Substanzsteuern schadeten den Familienunternehmen.
+- **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Gewichtetes Wahlrecht als Idee|Aladin El-Mafaalani]]:** Ohne andere Gewichtung bringe ein jüngeres Wahlalter nichts; die Stimme nach verbleibender Lebenserwartung zu gewichten nennt er „das Schlauste, was ich bisher gehört habe“, ob es rechtlich geht, wisse er nicht.
 
 <details><summary>Weitere Stimmen (5)</summary>
 
@@ -350,6 +353,7 @@ Wie Eigentümer über Medien Politik machen, ist an Fällen belegt: Sheldon Adel
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 20.11.2026 | [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Nachbesprechung\|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit]] | Wiegt jede Stimme gleich? → das Alter als zweite Achse: Wahlrecht ab 16 (BiB 2021, Wagner u. a. 2012, Stiers u. a. 2020), Zusatzstimmen im Labor (Miyake u. a. 2023), Lebenserwartung nach Einkommen (Haan u. a. 2020), Antrag 16/9868 · El-Mafaalani als Stimme |
 | 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Reichtum und Medienmacht\|NANO Talk — Eliten]] | Reichtum und Medienmacht: Adelson, Murdoch, Bolloré, Washington Post, Conseil d'État |
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Nachbesprechung|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Das Los und der Bürgerrat · Plebiszit als Denkzettel oder Sachfrage |
 | 26.09.2026 | Gespräch (Andreas, mit dem Einwand eines Kollegen) | Direkte Demokratie: Minderheitenschutz (Minarettverbot, Einbürgerungen) · Geld in Abstimmungskampagnen · Reibung neu gefasst |

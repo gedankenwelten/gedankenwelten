@@ -2,7 +2,7 @@
 title: "Was fordert die Gen Z?"
 date: 2026-11-02
 erstellt: 2026-11-02
-aktualisiert: 2026-11-11
+aktualisiert: 2026-11-20
 panorama-art: wachsend
 description: "Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat."
 raetsel: "Sechs Sätze auf Pappe. Jeder Satz hat ein Ministerium."
@@ -257,6 +257,8 @@ Junge Unionsabgeordnete stimmten dagegen. 60 Prozent der Wahlberechtigten sind �
 nach denen, die sie wählen, sagt die Politikwissenschaftlerin Pia Jaeger
 ([tagesschau](https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html)).
 
+**Sparen alternde Gesellschaften an den Kindern?** Die Forschung stützt die Richtung: Wo die Bevölkerung altert, wird eher weniger für Bildung ausgegeben ([Vlandas u. a. 2021](https://doi.org/10.1080/2474736X.2021.1932532), Übersichtsarbeit). Der Effekt ist aber kleiner und bedingter, als es klingt. Wo ihre Enkel kämpfen, wollen Großeltern mehr Geld für Bildung und Kinderbetreuung ([Grant u. a. 2025](https://doi.org/10.1017/S0007123425000213), Befragung in Großbritannien). In Deutschland stiegen die Ausgaben je Schüler an öffentlichen Schulen von 6.000 Euro (2010) auf 10.500 Euro (2024), nicht um die Teuerung bereinigt ([Destatis](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Bildungsfinanzen-Ausbildungsfoerderung/Publikationen/Downloads-Bildungsfinanzen/statistischer-bericht-ausgaben-schueler-5217109247005.xlsx?__blob=publicationFile&v=2)). Am Geld je Kind wird also nicht gespart; ob es trägt, ist eine andere Frage. Mehr in der [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Sparen alternde Gesellschaften an den Kindern?|Nachbesprechung zu El-Mafaalani]].
+
 **Was die Politik getan hat.**
 
 | Maßnahme | Stand | Quelle |
@@ -286,6 +288,7 @@ Ob solche Bekenntnisse Politik bewegen, ist nicht untersucht. Mehr dazu in der
 - **[[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle#Zwei Wege|Martin Oetting]]:** Die Jungen tragen die Rechnung für fünfzig Jahre, in denen die Überreichen geschont wurden; die Politik müsse wählen zwischen gerechter Lastenteilung und Sündenböcken, an deren Ende die AfD steht.
 - **[[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Erbschaft, das günstigste Einkommen — und warum Geld Macht ist|Kevin Kühnert]]:** Richtig reich zu erben sei *„das günstigste Einkommen, das man in Deutschland überhaupt haben kann“*, und Geld bedeute Macht.
 - **[[Denker/Martyna Linartas — Unverdiente Ungleichheit#Das Grunderbe als Synthese|Martyna Linartas]]:** Deutschland sei eine Erbengesellschaft; ein Grunderbe, Startkapital vom Gemeinwesen für junge Erwachsene, soll die Chancen angleichen.
+- **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Freier Fall Bildungsergebnisse auf historischem Tiefstand|Aladin El-Mafaalani]]:** PISA 2000 war ein Skandal, weil die größte Wählergruppe Eltern waren; das noch schlechtere PISA 2022 „flutscht durch“, weil sie es nicht mehr sind.
 
 **Die Einwände.** Die Verschonung von Betriebsvermögen schütze Familienunternehmen und Arbeitsplätze, sagen die
 Verbände in Karlsruhe. Die Haltelinie wird aus Steuern bezahlt, nicht über den Beitragssatz der Jungen. Und
@@ -558,6 +561,7 @@ Wie sie wirkt, ist kaum untersucht.
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 20.11.2026 | [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Nachbesprechung\|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit]] | Lasten gerecht verteilen → Sparen alternde Gesellschaften an den Kindern? (Vlandas u. a. 2021, Busemeyer u. a. 2009, Grob & Wolter 2007, Cattaneo & Wolter 2009, Harris u. a. 2001, Grant u. a. 2025), Ausgaben je Schüler 2010–2024 · El-Mafaalani als Stimme |
 | 11.11.2026 | [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle#Nachbesprechung\|Martin Oetting — Die Gen-Z kämpft für uns alle]] | Lasten gerecht verteilen → Steuerstolz: was von Sonntag und Ahlers 2017 sagten, Schrömgens, taxmenow, Davos-Brief; Reiche als Minderheit (Page u. a. 2013), Steuermoral und Vertrauen (Horodnic 2018), Ausweichen bei Vermögensteuern (Brülhart u. a. 2022, Scheuer & Slemrod 2021), Norwegen (Bjørneby u. a. 2022) · erste Stimmenliste |
 | 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Nachbesprechung\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Mitbestimmen → Bringt erst Lärm Gehör? (Protestforschung, FFF-Wirkung) · Wirkt Beteiligung? (Arnstein, Schülervertretungen, Wahlberechtigte nach Alter, § 41a GemO) · BSK-Bildungsprotest am 20.11. · erste Stimmenliste |
 | 02.11.2026 | [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird\|Spur: Gen Z regelt — und was danach geregelt wird]] | Anlass des Panoramas; die Spur zählt, ob über diese Forderungen gesprochen wird |

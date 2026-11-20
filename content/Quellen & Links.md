@@ -6069,3 +6069,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/ZDFinfo_Feindbild_Queer_CSD_Transkript.txt` (Sprecher an Einblendungen und Standbildern bestimmt) |
 | **Weitere Folge** | [Feindbild Queer: Woher kommt der Hass?](https://kurz.zdf.de/XiNi/) |
 | **Fund** | /kairos am 20.11.2026, Fund von außen (YouTube-Suche) |
+
+## Aladin El-Mafaalani / Kinder als diskriminierte Minderheit (taz lab 2025, nachgetragen beim Modernisieren am 20.11.2026)
+
+| | |
+|---|---|
+| **Video** | [taz lab 2025: Kein Herz für Kinder — die Diskriminierung der GenZ mit Aladin El-Mafaalani](https://www.youtube.com/watch?v=Iip-CLJ-DR8) — taz lab, 26.04.2025, veröffentlicht 12.03.2026 (64 Min.), Moderation Paulina Unfried |
+| **Buch** | Aladin El-Mafaalani, Sebastian Kurtenbach, Klaus Peter Strohmeier: *Kinder — Minderheit ohne Schutz* (Kiepenheuer & Witsch, 2025) |
+| **Notiz** | [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]] |
+| **DenkerVita** | [[DenkerVita/Aladin El-Mafaalani]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ElMafaalani_Panel_tazLab2025_Transkript.txt` |

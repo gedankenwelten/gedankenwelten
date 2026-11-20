@@ -45,7 +45,7 @@ tags: [denker-vita, soziologie, migration, bildung, demokratie]
 | [Das Integrationsparadox](https://www.genialokal.de/Suche/?q=el-mafaalani+integrationsparadox) | 2018 | Warum gelungene Integration zu *mehr* Konflikten führt — je näher Minderheiten an den gesellschaftlichen „Tisch" rücken, desto lauter der Streit um die Spielregeln. |
 | [Mythos Bildung](https://www.genialokal.de/Suche/?q=el-mafaalani+mythos+bildung) | 2020 | Die ungerechte Gesellschaft, ihr Bildungssystem und seine paradoxen Effekte — warum Bildung Ungleichheit weniger auflöst als reproduziert. |
 | [Wozu Rassismus?](https://www.genialokal.de/Suche/?q=el-mafaalani+wozu+rassismus) | 2021 | Von der Erfindung der „Menschenrassen" bis zum rassismuskritischen Widerstand — der Forschungsstand zu Rassismus, allgemeinverständlich. |
-| [Kinder — Minderheit ohne Schutz](https://www.genialokal.de/Suche/?q=el-mafaalani+kinder+minderheit) | 2025 | Mit Sebastian Kurtenbach & Peter Stromeier: Kinder als kleinste, politisch bedeutungsloseste Bevölkerungsgruppe in einer alternden Demokratie. |
+| [Kinder — Minderheit ohne Schutz](https://www.genialokal.de/Suche/?q=el-mafaalani+kinder+minderheit) | 2025 | Mit Sebastian Kurtenbach & Klaus Peter Strohmeier: Kinder als kleinste, politisch bedeutungsloseste Bevölkerungsgruppe in einer alternden Demokratie. |
 | [Misstrauensgemeinschaften](https://www.genialokal.de/Suche/?q=el-mafaalani+misstrauensgemeinschaften) | 2025 | Zur Anziehungskraft von Populismus und Verschwörungsideologien — wie die Digitalisierung vereinzeltes Misstrauen zu handlungsfähigen Gemeinschaften vernetzt. |
 
 *(Buchlinks führen auf die genialokal-Suche — lokaler Buchhandel statt Amazon.)*
