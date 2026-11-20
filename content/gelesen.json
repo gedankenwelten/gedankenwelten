@@ -109,11 +109,6 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
-   "leser": 7,
-   "aufrufe": 9
-  },
-  {
    "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
    "leser": 7,
    "aufrufe": 9
@@ -140,6 +135,11 @@
   },
   {
    "pfad": "/DenkerVita/Kolja-Moeller",
+   "leser": 7,
+   "aufrufe": 7
+  },
+  {
+   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
    "leser": 7,
    "aufrufe": 7
   },
@@ -424,11 +424,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
-     "leser": 2,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 2,
      "aufrufe": 4
@@ -494,12 +489,22 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-2,-Die-Hypothese-von-der-Weltherrschaft",
      "leser": 2,
      "aufrufe": 2
     },
     {
      "pfad": "/Geistesblitz/Mark-Benecke-und-Ines-Azrael-KI-Agenten-4,-Elektrische-Liebe",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Anna-Verena-Nosthoff-Kybernetik-und-die-Macht-der-Tech-Eliten-(scobel)",
      "leser": 2,
      "aufrufe": 2
     },
@@ -600,11 +605,6 @@
     },
     {
      "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
-     "leser": 1,
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
      "leser": 1,
      "aufrufe": 1
     }
@@ -719,11 +719,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
-     "leser": 7,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 7,
      "aufrufe": 9
@@ -750,6 +745,11 @@
     },
     {
      "pfad": "/DenkerVita/Kolja-Moeller",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 7,
      "aufrufe": 7
     },
@@ -1134,12 +1134,12 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 9,
-     "aufrufe": 11
+     "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 9,
      "aufrufe": 9
     },
@@ -1439,12 +1439,12 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 9,
-     "aufrufe": 11
+     "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 9,
      "aufrufe": 9
     },

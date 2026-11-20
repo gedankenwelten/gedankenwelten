@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Eine Soldatin mit Millionenpublikum, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage.
 
+> **20.11.** — [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung]]
+>
+> Ist Elite Verdienst oder Macht? Der Elitenforscher Michael Hartmann sagt: immer Macht. Eine Runde über Epstein, Cum-Ex und Tech-Oligarchen, und ob Förderung gegen Machtmissbrauch schützt.
+
 > **20.11.** — [[Zeitgeist/Natalie Amiri — Hoelle auf Erden im Iran|Natalie Amiri — Hölle auf Erden im Iran]]
 >
 > Ein Land hinter dem Internet-Blackout, ein Gottesstaat auf dem Weg zur Militärdiktatur. Natalie Amiri, die nicht mehr einreisen kann, beschreibt den Iran im Krieg.
@@ -40,11 +44,31 @@ Die Gedankenwelten (luc)
 >
 > Ein Jugendrichter im Ruhestand sucht die auf, die er als Kinder verurteilt hat, und fragt sie, ob er ihnen Unrecht getan hat. Eine Reportage über Strafe, die helfen soll, und über einen Richter, der selbst einmal auf der anderen Seite stand.
 
-> **17.11.** — [[Zeitgeist/Ralf K. Wuestenberg — Versoehnung und Amnestie|Ralf K. Wüstenberg — Wahrheit gegen Straffreiheit]]
->
-> Südafrika bot seinen Folterern Straffreiheit an, wenn sie öffentlich die ganze Wahrheit sagten. Der Theologe Ralf K. Wüstenberg erzählt, was dieser Tausch gebracht hat, was er gekostet hat, und was Deutschland nach 1989 daraus hätte lernen können.
+> → *7 weitere in* [[Zeitgeist]]
 
-> → *6 weitere in* [[Zeitgeist]]
+### Denker
+
+> **20.11.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
+>
+> Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
+
+> **17.11.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
+>
+> Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
+
+> **16.11.** — [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten|Walther Ziegler — Schopenhauer in 60 Minuten]]
+>
+> Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
+
+> **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Von weitem grau, von nahem schwarz und weiß: Die bolivianische Soziologin denkt Dekolonisierung als tägliche Arbeit an der Kolonie im eigenen Kopf, und die betrifft alle.
+
+> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
+>
+> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
+
+> → *4 weitere in* [[Denker]]
 
 ### Spuren
 
@@ -69,30 +93,6 @@ Die Gedankenwelten (luc)
 > Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
 
 > → *6 weitere in* [[Spuren]]
-
-### Denker
-
-> **17.11.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
->
-> Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
-
-> **16.11.** — [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten|Walther Ziegler — Schopenhauer in 60 Minuten]]
->
-> Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
-
-> **15.11.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
->
-> Von weitem grau, von nahem schwarz und weiß: Die bolivianische Soziologin denkt Dekolonisierung als tägliche Arbeit an der Kolonie im eigenen Kopf, und die betrifft alle.
-
-> **14.11.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
->
-> Stell dir Menschen vor, die nur Schatten kennen, auch von sich selbst. Platons Gleichnis fragt, was Erkennen kostet, und warnt jeden, der glaubt, er sei schon draußen gewesen.
-
-> **13.11.** — [[Denker/Erich Fromm — Haben oder Sein|Erich Fromm — Haben oder Sein]]
->
-> Ich bin, was ich habe – oder ich bin, was ich lebe. Erich Fromm über eine Gesellschaft, die ihr Unglück hinter der Maske der Zufriedenheit verbirgt, und über die kleine Chance, die bleibt.
-
-> → *3 weitere in* [[Denker]]
 
 ### Panorama
 
