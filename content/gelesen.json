@@ -5,18 +5,18 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 136,
-   "aufrufe": 165
+   "leser": 135,
+   "aufrufe": 164
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 65,
-   "aufrufe": 73
+   "leser": 64,
+   "aufrufe": 72
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 46,
-   "aufrufe": 56
+   "leser": 47,
+   "aufrufe": 57
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -354,6 +354,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Der-Dara",
      "leser": 5,
      "aufrufe": 5
@@ -375,11 +380,6 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 4,
      "aufrufe": 4
     },
@@ -445,6 +445,11 @@
     },
     {
      "pfad": "/Zeitgeist/Claudia-Wittig-und-Rainer-Rothfuss-Frieden-mit-Russland-ueber-die-Brandmauer",
+     "leser": 2,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
      "leser": 2,
      "aufrufe": 3
     },
@@ -529,11 +534,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 2,
      "aufrufe": 2
@@ -549,12 +549,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
+     "pfad": "/DenkerVita/Udo-Marquardt",
      "leser": 1,
-     "aufrufe": 4
+     "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Udo-Marquardt",
+     "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
      "leser": 1,
      "aufrufe": 3
     },
@@ -615,18 +615,18 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 136,
-     "aufrufe": 165
+     "leser": 135,
+     "aufrufe": 164
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 65,
-     "aufrufe": 73
+     "leser": 64,
+     "aufrufe": 72
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 46,
-     "aufrufe": 56
+     "leser": 47,
+     "aufrufe": 57
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -950,8 +950,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 74,
-     "aufrufe": 85
+     "leser": 75,
+     "aufrufe": 86
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1255,8 +1255,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 74,
-     "aufrufe": 85
+     "leser": 75,
+     "aufrufe": 86
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 54,
-     "aufrufe": 54
+     "leser": 53,
+     "aufrufe": 53
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1550,8 +1550,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 26,
-     "aufrufe": 26
+     "leser": 27,
+     "aufrufe": 27
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",

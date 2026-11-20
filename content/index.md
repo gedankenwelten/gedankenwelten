@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Eine Soldatin mit Millionenpublikum, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage.
 
+> **20.11.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
+>
+> Wendy Brown über eine Revolution auf leisen Sohlen: Wer die Demokratie zum Markt macht, verliert ihre Gleichheit und das Volk, das sich selbst regiert.
+
 > **20.11.** — [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung]]
 >
 > Ist Elite Verdienst oder Macht? Der Elitenforscher Michael Hartmann sagt: immer Macht. Eine Runde über Epstein, Cum-Ex und Tech-Oligarchen, und ob Förderung gegen Machtmissbrauch schützt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Windturm, der sich selbst zum Kran wird und in der Höhe Offshore-Werte erreicht, auch in Bayern. Norio erzählt von einer ostdeutschen Erfindung und dem Tal, in dem Innovationen sterben.
 
-> **17.11.** — [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
->
-> Ein Eilbeschluss, kein Urteil: Das VG Köln stoppt vorerst die Einstufung der AfD als gesichert rechtsextrem. Gilda Sahebi und Arne Semsrott prüfen die Begründung, am vierten Tag des Iran-Kriegs.
-
-> → *8 weitere in* [[Zeitgeist]]
+> → *9 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -84,13 +84,13 @@ Die Gedankenwelten (luc)
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
+> **20.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
+
 > **20.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **20.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
->
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
 > → *17 weitere in* [[Panorama]]
 

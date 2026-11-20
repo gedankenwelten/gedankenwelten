@@ -2,7 +2,7 @@
 title: "Wie viel Reichtum verträgt eine Demokratie?"
 date: 2026-10-23
 erstellt: 2026-10-23
-aktualisiert: 2026-11-13
+aktualisiert: 2026-11-20
 description: "Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben."
 raetsel: "Ein Münzstapel wächst auch, während sein Besitzer schläft."
 panorama-art: wachsend
@@ -78,7 +78,7 @@ Ob sie die Ungleichheit senkt, ist umstritten, und die Antwort hängt am Zeitrau
 
 Vor 1910 stammten in Europa siebzig bis achtzig Prozent des Privatvermögens aus Erbschaften, zwischen 1950 und 1980 dreißig bis vierzig, seit 2010 wieder fünfzig bis sechzig ([Alvaredo, Garbinti & Piketty 2017](https://doi.org/10.1111/ecca.12233)). Das DIW schätzt das jährliche Volumen in Deutschland grob auf 300 bis 400 Milliarden Euro. 2025 setzten die Finanzämter 21,4 Milliarden Erbschaft- und Schenkungsteuer fest und erließen 3,7 Milliarden wegen „Verschonungsbedarf“ ([Destatis](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_306_736.html)). Am 13. Oktober 2026 hat das Bundesverfassungsgericht über die Verschonung von Betriebsvermögen verhandelt, geklagt hat ein Mann, der von seiner Tante Wertpapiere und Grundstücke erbte ([BVerfG, Pressemitteilung 49/2026](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2026/bvg26-049.html)); das Urteil steht aus.
 
-Große Vermögen halten sich erstaunlich lange. Rund acht Prozent der 1.032 größten deutschen Vermögen von 2019 gehen auf die Reichenlisten von 1913 zurück, über zwei Weltkriege und drei Währungsreformen hinweg ([Tisch & Ischinsky 2023](https://doi.org/10.1177/23780231231192774)). In England hängt das Vermögen über fünf Generationen zusammen ([Clark & Cummins 2015](https://doi.org/10.1111/ecoj.12165)), in Schweden erklären Erbschaften mindestens die Hälfte der Ähnlichkeit zwischen dem Vermögen von Eltern und Kindern ([Adermon, Lindahl & Waldenström 2018](https://doi.org/10.1111/ecoj.12535)). Der Durchschnittserbe verbraucht sein Erbe in einem Jahrzehnt, beim reichen wächst es mit höherer Rendite weiter; dauerhaft gleicher macht eine Erbschaftsteuer darum nur bei den großen Erben ([Nekoei & Seim 2023](https://doi.org/10.1093/restud/rdac016)).
+Große Vermögen halten sich erstaunlich lange. Rund acht Prozent der 1.032 größten deutschen Vermögen von 2019 gehen auf die Reichenlisten von 1913 zurück, über zwei Weltkriege und drei Währungsreformen hinweg ([Tisch & Ischinsky 2023](https://doi.org/10.1177/23780231231192774)). In England hängt das Vermögen über fünf Generationen zusammen ([Clark & Cummins 2015](https://doi.org/10.1111/ecoj.12165)), in Schweden erklären Erbschaften mindestens die Hälfte der Ähnlichkeit zwischen dem Vermögen von Eltern und Kindern ([Adermon, Lindahl & Waldenström 2018](https://doi.org/10.1111/ecoj.12535)). Der Durchschnittserbe verbraucht sein Erbe in einem Jahrzehnt, beim reichen wächst es mit höherer Rendite weiter; dauerhaft gleicher macht eine Erbschaftsteuer darum nur bei den großen Erben ([Nekoei & Seim 2023](https://doi.org/10.1093/restud/rdac016)). Vererbt werden auch Chancen. In den USA steigen Kinder armer Eltern in der Rangfolge der Einkommen seit den Jahrgängen der Siebziger gleich oft auf, doch weil die Abstände zwischen den Rängen gewachsen sind, wiegt die Geburtslotterie schwerer ([Chetty u. a. 2014](https://doi.org/10.1257/aer.104.5.141), Steuerdaten); mehr zu verdienen als die Eltern schafften von den 1940 Geborenen rund 90 Prozent, von den in den Achtzigern Geborenen die Hälfte ([Chetty u. a. 2017](https://doi.org/10.1126/science.aal4617)).
 
 Ob sie den Betrieben schadet, hängt an der Ausgestaltung. In Griechenland drückte eine Steuer auf Firmenübergaben die Investitionen rund um die Nachfolge um mehr als 40 Prozent ([Tsoutsoura 2015](https://doi.org/10.1111/jofi.12224)); unter dem deutschen Recht vor 2009 geriet kein übertragener Betrieb in Gefahr ([Houben & Maiterth 2011](https://doi.org/10.1007/BF03342725)). Deutsche Erblasser planen ihre Testamente um die Steuerstufen herum, die Einnahmen leiden darunter kaum ([Glogowsky 2020](https://doi.org/10.1016/j.jpubeco.2020.104309)). Eine Übersicht findet die Reaktionen insgesamt mäßig, bei sehr Vermögenden und Älteren aber stark, und mehr Steuerplanung als echte Verhaltensänderung ([Schratzenstaller 2024](https://doi.org/10.1016/j.eap.2024.11.026), Review). Wer erfährt, wie viel Vermögen ererbt ist, befürwortet die Steuer eher ([Bastani & Waldenström 2021](https://doi.org/10.1111/ecca.12359)).
 
@@ -95,7 +95,7 @@ Was an die Stelle der Verschonung treten könnte, darüber sind sich die Gutacht
 - **[[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Wer die Steuer eigentlich schuldet|Martin Oetting]]:** *„Die Steuerschuld, die der erbende Mensch hat, ist eine private Steuerschuld“*; die Firma schuldet nichts, für die Liquidität reichen Kredit und Stundung.
 - **[[Martin Oetting — Erbschaftsteuer, Reiche und das ZDF#Neid, Handwerk, Familienunternehmen|Katherina Reiche]]:** Betriebsgebundenes und freies Kapital müsse man unterscheiden, sonst lande man in einer *„unguten Neiddebatte“*; Handwerk und Mittelstand brauchten eine Perspektive.
 
-<details><summary>Weitere Stimmen (9)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
 
 - **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Erbschaft, das günstigste Einkommen — und warum Geld Macht ist|Kevin Kühnert]]:** Das große Erbe ist das am günstigsten besteuerte Einkommen im Land.
 - **[[Angela Merkel — Trotz allem Hoffnung Europa#Gegen den Fatalismus|Angela Merkel]]:** *„Manche Familien vererben ihren Kindern so viel, dass die Kinder fast gar nicht mehr arbeiten müssen“*; darüber sei zu reden.
@@ -106,6 +106,7 @@ Was an die Stelle der Verschonung treten könnte, darüber sind sich die Gutacht
 - **[[Philipp Blom — Die Unterwerfung#Siegen macht dumm — Wachstum, Kapital und ein neuer Adel|Philipp Blom]]:** Man habe sich *„eine neue Aristokratie gebastelt“*.
 - **[[Leonhard Horowski — Adel, Klassen und Gesellschaft#Neofeudalismus — ist der Begriff präzise?|Leonhard Horowski]]:** Das Phänomen ist real, das Etikett „Neofeudalismus“ führt in die Irre.
 - **[[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Luc]]:** Wert durch Beitrag war einmal der Fortschritt gegenüber dem Adel.
+- **[[Wendy Brown - Wie Neoliberalismus die Demokratie bedroht#Piketty, die Zugbrücke und ein Satz von René Char|Wendy Brown]]:** Ist der Reichtum oben angekommen, richtet die Oligarchie das Recht so ein, dass er nur an die eigenen Kinder geht; die Zugbrücke wird hochgezogen, die Chancengleichheit endet.
 
 </details>
 
@@ -226,6 +227,7 @@ Die Philosophie trennt Neid, der haben will, was der andere hat, von Groll über
 | 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Was seither geschah: 15,5 Billionen, GIP/Preqin/HPS, ESG-Gegenwind, Voting Choice (ein Viertel genutzt), Deutsche Wohnen |
 | 10.11.2026 | [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Wann hält eine Allmende?\|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] | Wem gehört was? Das Gemeingut als dritte Form: Ostroms Prinzipien (Cox u. a. 2010) und ihre Grenzen bei schnellem Wandel (Dietz, Ostrom & Stern 2003), der Bodensee vom Staatsvertrag 1893 bis zum Fangverbot 2024 (Haase u. a. 2025) |
 | 13.11.2026 | [[Erich Fromm — Die Welt lieben, SRF 1979#Nachbesprechung|Erich Fromm — Die Welt lieben, SRF 1979]] | Wem gehört was: Mitbestimmung und Produktivität nach Ebenen getrennt (Doucouliagos 1995) · Fromm als Stimme |
+| 20.11.2026 | [[Wendy Brown - Wie Neoliberalismus die Demokratie bedroht#Stockt der Aufstieg?\|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]] | Was darf man erben: vererbte Chancen, relative Mobilität stabil, absolute gefallen (Chetty u. a. 2014, 2017) · Brown als Stimme (Zugbrücke) |
 
 ---
 

@@ -1,13 +1,15 @@
 ---
 title: "Wendy Brown — Wie Neoliberalismus die Demokratie bedroht"
-description: "Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört."
+description: "Wendy Brown über eine Revolution auf leisen Sohlen: Wer die Demokratie zum Markt macht, verliert ihre Gleichheit und das Volk, das sich selbst regiert."
 date: 2016
-aktualisiert: 2026-07-14
+aktualisiert: 2026-11-20
+raetsel: "Wer die Kette hält, nennt die Brücke Natur."
 tags:
   - zeitgeist
   - demokratie
   - kapitalismus
   - neoliberalismus
+  - soziale-ungleichheit
   - usa
   - philosophie
   - year-2016
@@ -17,191 +19,272 @@ aliases:
 
 # Wendy Brown — Wie Neoliberalismus die Demokratie bedroht
 
-![[assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|Aquarell: Eine Burg mit hochgezogener Zugbrücke, daneben ein Stufenbau aus gläsernen Kästchen mit je einem Menschen darin; rechts zerfällt alles in bunte Splitter um das Wort „demos“, unten die englische Zeile „Dinge, die heil scheinen, aber innen hohl sind“.|1200]]
+![[assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|Aquarell: Links eine Burg mit heruntergelassener Zugbrücke an Ketten, daneben ein Stufenbau aus gläsernen Kästchen mit je einem Menschen darin; rechts zerfällt alles in bunte Splitter um das Wort „demos“, unten die englische Zeile „Dinge, die heil scheinen, aber innen hohl sind“.|1200]]
 
 <details><summary>🎨</summary>
 
-**Paul Klee — Aquarell (im Bild signiert)** — Zarte Rosa- und Blaulasuren über Bütten, das Blatt trägt Klees eigene Handschrift: „demos" und „things that seem intact but are inwardly hollow", unten die Signatur „Paul Klee". Eine pyramidenförmige Wabe gleichförmiger Kabinen, in jeder eine kleine schwarze Figur — der atomisierte Demos; links ein hohler Turm/Burgfragment mit heruntergelassener Brücke an Ketten, rechts zerfällt alles in Klees charakteristisches Feld aus Farbquadraten und Zeichen. Die brüchige Schönheit der Palette trägt Wendy Browns Diagnose: Die Form der Demokratie bleibt, ihre Substanz ist ausgehöhlt.
+**Angelehnt an Paul Klee — Aquarell** — Zarte Rosa- und Blaulasuren über Bütten, darauf in Handschrift „demos" und „things that seem intact but are inwardly hollow". Eine pyramidenförmige Wabe gleichförmiger Kabinen, in jeder eine kleine schwarze Figur, der vereinzelte Demos; links ein hohler Turm mit heruntergelassener Brücke an Ketten, rechts zerfällt alles in ein Feld aus Farbquadraten und Zeichen, wie Klee es liebte. Die brüchige Schönheit der Palette trägt Wendy Browns Diagnose: Die Form der Demokratie bleibt, ihre Substanz ist ausgehöhlt. Ein KI-Bild in seiner Tonlage, kein Werk von Klee; die Signatur, die der Prompt damals verlangte und das Modell hineinmalte, haben wir am 20.11.2026 aus dem Bild entfernt.
 
 *Prompt:* Paul Klee watercolor on aged paper, delicate rose and blue washes, the artist's own handwriting on the sheet, 1200x500 banner. A pyramid-shaped honeycomb of identical small booths, each holding a tiny black human figure (the atomised demos), some shaking hands. Left: a hollow tower / castle fragment with a lowered drawbridge on chains. Right: everything dissolving into Klee's signature field of coloured squares, dots and small geometric signs, the faint word "demos". Handwritten caption "things that seem intact but are inwardly hollow", signature "Paul Klee". Translucent washes, fragile geometric beauty. No photorealism.
 
 </details>
 
 > [!abstract] Worum es geht
-> Neoliberalismus, so Wendy Brown, ist weit mehr als Marktderegulierung — er ist eine Revolution der Vernunft, die alle Lebensbereiche nach dem Bild von Märkten umformt. Der entscheidende Schaden passiert nicht, wenn Regierungen schrumpfen, sondern wenn Demokratie selbst als Marktplatz verstanden wird: Denn dann verliert das Volk die Sprache seiner eigenen Macht. Brown nennt das die "stille Revolution" — eine Aushöhlung von innen, bei der keine Bastille gestürmt, sondern das demokratische Imaginäre still zersetzt wird. Das Gespräch mit dem Institute for New Economic Thinking (2016) ist eine komprimierte Einführung in ihr Hauptwerk *Undoing the Demos*.
+> Den Neoliberalismus kennt man als Programm: weniger Staat, freie Märkte, Privatisierung. Wendy Brown geht einen Schritt weiter. Seine Vordenker wollten alles nach dem Bild des Marktes formen, auch die Demokratie, und ein Markt kennt weder Gleichheit noch ein Volk, das sich selbst regiert. So wird die Demokratie von innen ausgehöhlt, während die Wahlen weiter stattfinden; Brown nennt das eine „stealth revolution“, eine Revolution auf leisen Sohlen.
+> Das Gespräch mit Rob Johnson vom Institute for New Economic Thinking (aufgenommen im Juni 2015, veröffentlicht im Mai 2016) ist eine kurze Einführung in ihr Buch *Undoing the Demos*. Johnson stimmt ihr fast durchweg zu und bringt eigene Gedanken ein; was von ihm stammt, ist hier getrennt. Am Ende stehen drei Fragen mit dem, was die Forschung dazu weiß, und was seither geschah.
 
-Quelle: [How Neoliberalism Threatens Democracy](https://www.youtube.com/watch?v=ZMMJ9HqzRcE)
+Quelle: [How Neoliberalism Threatens Democracy](https://www.youtube.com/watch?v=ZMMJ9HqzRcE) (Institute for New Economic Thinking, laut Browns Lebenslauf im Juni 2015 aufgenommen, auf YouTube seit 25.05.2016, 20 Min.)
 
 > [!info] Wer spricht?
-> **Wendy Brown** (* 28. November 1955) ist Professorin für Politikwissenschaft, zunächst an der UC Berkeley, heute am Institute for Advanced Study Princeton. Sie gilt als eine der einflussreichsten politischen Theoretikerinnen der Gegenwart: Ihre Analysen verbinden Foucaults Gouvernementalitätsbegriff mit einer scharfen Gegenwartskritik. Bekannt für ihr Hauptwerk *Undoing the Demos: Neoliberalism's Stealth Revolution* (Zone Books, 2015, Spitz Prize 2017) und *In the Ruins of Neoliberalism* (2019). Politisch aktiv: Co-Chair der Berkeley Faculty Association, Unterstützerin von Occupy Wall Street — Theorie und Praxis sind bei ihr nicht zu trennen.
+> **Wendy Brown** (* 28. November 1955) ist politische Theoretikerin. Sie lehrte am Williams College und an der UC Santa Cruz, von 1999 bis 2021 in Berkeley und war von 2021 bis 2026 UPS Foundation Professor an der School of Social Science des Institute for Advanced Study in Princeton, wo sie seit Juli 2026 emeritiert ist. Ihr Hauptwerk *Undoing the Demos: Neoliberalism's Stealth Revolution* (Zone Books, 2015; deutsch *Die schleichende Revolution*, Suhrkamp 2015) erhielt 2017 den Spitz Prize für das beste Buch zur liberalen und demokratischen Theorie; 2019 folgte *In the Ruins of Neoliberalism*. Von 2009 bis 2012 war sie Co-Vorsitzende der Berkeley Faculty Association und gehörte der Lehrenden-Koalition SAVE an, die sich in der Haushaltskrise für die öffentliche University of California einsetzte; die Occupy-Bewegung begrüßte sie 2011 in einem eigenen Aufsatz ([Brown 2011, *Theory & Event*](https://doi.org/10.1353/tae.2011.0064)).
 >
 > → [[DenkerVita/Wendy Brown|DenkerVita]]
+>
+> Es fragt **Rob Johnson**, Präsident des Institute for New Economic Thinking, eines Thinktanks für eine plurale Wirtschaftswissenschaft, früher selbst Fondsmanager.
 
 ---
 
 ## Inhalt
 
-### Die stille Revolution — jenseits der Marktderegulierung
+### Die stille Revolution — jenseits der Deregulierung
 
-[▶ 1:33](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=93) — Brown beginnt mit einer Korrektur des gängigen Neoliberalismus-Begriffs. Konventionell verstehen wir ihn als Reaktion auf den Keynesianismus: weniger Staat, freiere Märkte, Privatisierung. Diese Beschreibung stimmt — aber sie trifft nicht den Kern.
+[▶ 0:00](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=0) — Brown beginnt mit dem gängigen Bild. Man versteht den Neoliberalismus als Antwort auf Keynes und den Wohlfahrtsstaat: Märkte, die man in Ruhe lässt und überall einführt, sollen die beste aller Welten schaffen. Der Staat bleibt für Verteidigung, Sicherheit und Rechte zuständig, und selbst dort, sagt sie, wollen die meisten Neoliberalen Märkte schaffen. *„Close that bracket for the moment.“*
+
+[▶ 1:33](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=93) — Das Bild stimmt, aber es reicht ihr nicht.
 
 > *„I wanted to take the problem of neoliberalism a little further and explore something that it's done to political life, to social life, and to the human being."*
 
-[▶ 2:21](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=141) — Was die Neoliberalen der 1940er bis 1960er tatsächlich propagierten, war nicht nur laissez-faire, sondern die Ausdehnung von Märkten als Wettbewerb auf *jeden* Lebensbereich: Bildung, soziale Dienstleistungen, Dating, Demokratie selbst.
+[▶ 2:21](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=141) — Viele Neoliberale der Vierziger-, Fünfziger- und Sechzigerjahre wollten mehr als freie Märkte. Sie wollten den Markt als Wettbewerb auf jeden Bereich des Lebens ausdehnen, auf die Demokratie, das soziale Leben, die Bildung, die sozialen Dienste.
 
 > *„The idea wasn't just let free markets have their way, but produce everything in the image of a market. And that's where the stealth revolution comes in."*
 
-Das ist der entscheidende Unterschied: Deregulierung ist eine Politik, die man sehen, benennen, bekämpfen kann. Die Marketisierung aller Lebensbereiche ist eine *Vernunftform* — sie verändert, wie wir über uns selbst, unsere Beziehungen, unsere politische Gemeinschaft nachdenken. Sie braucht keinen Erlass, keine Abstimmung. Sie sickert in die Köpfe. Das ist die Stille dieser Revolution: Keine Bastille wird gestürmt. Der Wandel passiert in der Sprache, in den Selbstverständlichkeiten, in den Kriterien, mit denen wir Entscheidungen beurteilen.
+Hier verläuft der Unterschied, um den es Brown geht. Eine Deregulierung kann man sehen, benennen und bekämpfen. Wenn aber alles nach dem Bild des Marktes geformt wird, ändert sich die Art, wie Menschen über sich selbst, ihre Beziehungen und ihr Gemeinwesen denken. Dafür braucht es keinen Erlass und keine Abstimmung, und darum ist diese Revolution leise.
 
-Brown nennt das in Anlehnung an Foucault eine Transformation der Gouvernementalität — eine neue Regierungsrationalität, die den Menschen als "Humankapital" begreift, das es zu optimieren gilt. Bildung wird zur Investition, Gesundheit zum Asset-Management, Freundschaften zum Networking. Was wie persönliche Entscheidung aussieht, folgt einer tief eingeschriebenen Marktlogik.
-
-> [!question] Weitergedacht
-> Wenn Neoliberalismus eine Vernunftform ist, die wir verinnerlicht haben — wie erkennen wir dann den Unterschied zwischen unseren "eigenen" Wünschen und dem, was uns diese Rationalität eingepflanzt hat?
-
-### Demos kratia und die Unvereinbarkeit mit dem Markt
-
-[▶ 3:06](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=186) — Browns schärfste These: Wer Demokratie als Markt versteht, zerstört Demokratie. Das ist keine Metapher, sondern eine logische Notwendigkeit.
-
-Der Ausgangspunkt ist simpel: Demokratie bedeutet im wörtlichsten Sinn *demos kratia* — das Volk regiert. Davon leiten sich zwei Grundprinzipien ab: erstens *Gleichheit* als Ausgangspunkt (alle Stimmen zählen gleich), zweitens *kollektive Selbstbestimmung* (das Volk entscheidet selbst, was es will und wie es leben möchte).
-
-> *„Once you take democracy and make it into a marketplace, you get rid of some pretty fundamental principles of democracy. Marketplaces aren't supposed to have people ruling. They're just supposed to have everyone pursuing their own interest. And they aren't supposed to have equality. They're supposed to have the naturalness of inequality that comes with competition."*
-
-[▶ 3:53](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=233) — Auf dem Markt gibt es weder Gleichheit noch gemeinsames Regieren. Es gibt individuelle Interessenverfolgung und natürliche Ungleichheit als Ergebnis des Wettbewerbs. Damit sind die zwei Grundpfeiler der Demokratie ausgehebelt — nicht durch ein Verbot, sondern durch eine Umdeutung des Sinns.
-
-Das ist der konzeptuelle Kern von *Undoing the Demos*. Brown fragt nicht: Wird die Demokratie durch Gewalt abgeschafft? Sie fragt: Was passiert, wenn Menschen sich selbst nicht mehr als *demos* — als politisches Volk mit gemeinsamer Macht — verstehen, sondern als Konsumenten in einem Markt, der sie versorgt oder auch nicht? Dann ist die Substanz der Demokratie weg, auch wenn Wahlen stattfinden. Das Bürger-Sein im emphatischen Sinn — das gemeinsame Bedenken des Gemeinwohls — weicht dem Kunden-Sein.
-
-Hinzuzufügen ist: Diese Transformation betrifft nicht nur die Wähler, sondern auch die Institutionen. Wenn eine Universität sich als Unternehmen versteht, das Bildungs-Produkte an zahlende Kunden liefert, ist nicht nur ihr Geist verändert — ihre Entscheidungswege, ihre Prioritäten, ihre Sprache folgen anderen Logiken als die einer *res publica*.
-
-### Die historische Trennung und ihr Zerfall
-
-[▶ 5:24](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=324) — Eine wichtige Nuancierung: Brown romantisiert Demokratie nicht. Sie war immer ein uneingelöstes Versprechen, immer in Spannung mit dem Kapitalismus.
-
-> *„Democracy is always an unrealized dream. There's always been in modern societies a tension between capitalism and democracy, between the inequalities that capitalist societies generate and the ideal of including all, sharing power among all, having an egalitarian political order."*
-
-[▶ 6:10](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=370) — Aber: Diese Spannung war produktiv, solange beide Sphären als *different* galten. Demokratie als etwas, das Gesellschaften anstreben mussten — ein Raum, den man erkämpfen musste. Und Märkte als etwas, das auf eine ökonomische Sphäre *begrenzt* war.
-
-> *„Even the classical political economists — Adam Smith, Adam Ferguson, and others — never argued that democracy itself or the state itself should be economized, should be turned into a market."*
-
-Das ist ein historisch wichtiger Punkt: Die frühen Markttheoretiker dachten nie daran, alles zu vermarkten. Sie argumentierten für laissez-faire *wo es Märkte gab* — aber der Staat, die politische Gemeinschaft, das Gemeinwohl blieben davon ausgenommen. Erst der Neoliberalismus des 20. Jahrhunderts formulierte das radikale Programm: Alles im Bild des Marktes.
-
-[▶ 7:42](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=462) — Und damit zerstört er nicht nur eine Praxis, sondern eine Idee: dass der Kapitalismus seine *moralische Legitimation* daraus bezieht, demokratisch regiert zu werden.
-
-> *„It used to be said that capitalism derives its moral legitimacy from being governed by democracy."*
-
-Was vorher eine Spannung war — produktiv, erkämpfbar — wird zur Auflösung einer Distinktion. Wenn alles Markt ist, gibt es keinen Ort mehr, von dem aus man den Markt kritisieren könnte. Die demokratische Regulierung des Kapitalismus setzt voraus, dass man eine andere Logik hat, von der aus man urteilt.
+Im Buch führt Brown das mit Michel Foucault aus, der den Neoliberalismus als eine Weise zu regieren beschrieben hat: Der Mensch wird zum Humankapital, das seinen eigenen Wert pflegen und steigern muss. Im Gespräch fällt Foucaults Name nicht. Die Videobeschreibung des Instituts nennt Beispiele, die Brown hier nicht ausführt, Bildung, Partnersuche, Sport, alles nach den Regeln des Marktes.
 
 > [!question] Weitergedacht
-> Adam Smith hat den Markt nie als Organisationsprinzip für Demokratie oder Gemeinschaft gedacht — er hat ihn sogar moralphilosophisch eingebettet (*Theory of Moral Sentiments*). Was wäre, wenn man diesen Smith gegen den Neoliberalismus ausspielte?
+> Wenn der Neoliberalismus eine Denkweise ist, die wir verinnerlicht haben, wie unterscheiden wir dann unsere „eigenen“ Wünsche von dem, was diese Denkweise in uns angelegt hat?
+
+### Demos kratia — und warum der Markt sie auflöst
+
+[▶ 3:06](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=186) — Browns schärfste These: Wer die Demokratie zum Markt macht, *„literally undoes democracy“*, er macht sie buchstäblich rückgängig.
+
+Demokratie heißt im einfachsten Sinn *demos kratia*, das Volk herrscht. Daraus folgen für Brown Grundsätze: Gleichheit als erster Grundsatz, gleich geteilte politische Macht, und ein Volk, das selbst entscheidet, was ihm wichtig ist und was sein Gemeinwesen tun soll.
+
+> *„Once you take democracy and make it into a marketplace, you get rid of some pretty fundamental principles of democracy."*
+
+[▶ 3:53](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=233) — Auf einem Markt regiert niemand, jeder verfolgt sein eigenes Interesse. Und Gleichheit ist dort nicht vorgesehen.
+
+> *„Marketplaces aren't supposed to have people ruling. They're just supposed to have everyone pursuing their own interest. And they aren't supposed to have equality. They're supposed to have the naturalness of inequality that comes with competition."*
+
+Damit fallen gerade die beiden Grundpfeiler, ohne dass jemand sie verbietet. Brown fragt nicht, ob die Demokratie mit Gewalt abgeschafft wird. Sie fragt, was geschieht, wenn Menschen sich nicht mehr als Volk mit gemeinsamer Macht verstehen, sondern als Kapital, das sich am Markt behaupten muss. Dann ist die Substanz der Demokratie verloren, auch wenn die Wahlen weiterlaufen.
+
+Dasselbe gilt für Institutionen. Eine Universität, die sich als Unternehmen versteht, entscheidet anders, setzt andere Prioritäten und spricht eine andere Sprache als eine, die sich der Allgemeinheit verpflichtet weiß. Das Beispiel ist unseres, nicht aus dem Gespräch; im Buch untersucht Brown neben Recht und Regierung auch die Bildung.
+
+### Ein Traum, der nie ganz wahr war
+
+[▶ 4:39](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=279) — Johnson lobt, dass Brown die Demokratie nicht verkläre, und erinnert an die Ordoliberalen, die lieber eine Hierarchie von Fachleuten über das Gemeinwohl entscheiden ließen. Brown nimmt den Ball auf.
+
+[▶ 5:24](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=324)
+
+> *„Democracy is always an unrealized dream. And it's not as if we once upon a time had it and then neoliberalism undid it. There's always been in modern societies a tension between capitalism and democracy, between the inequalities that capitalist societies generate and the ideal of including all, sharing power among all, having an egalitarian political order."*
+
+[▶ 6:10](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=370) — Getragen hat das Ideal, dass man Demokratie und Kapitalismus nicht für dasselbe hielt. Die Demokratie war etwas, wonach eine Gesellschaft streben und wofür sie einen Raum schaffen musste. Märkte gehörten in eine wirtschaftliche Sphäre.
+
+> *„Even the classical political economists, Adam Smith, Adam Ferguson, and others, never argued that democracy itself or the state itself should be economized, should be turned into a market."*
+
+[▶ 6:55](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=415) — Die Klassiker wollten das Laissez-faire dort, wo es Märkte gab, nicht überall. Und gepflegt wurde die Demokratie, indem man ihre Grundsätze auf immer mehr Menschen ausdehnte, auf die lange Ausgeschlossenen, die Afroamerikaner in den USA, die Frauen, und indem man Rechte, Chancen und Teilhabe erweiterte. Das, sagt Brown, hat sich geändert.
+
+[▶ 7:42](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=462)
+
+> *„What's changed, what neoliberalism has done by economizing democracy, is saying, 'There's no special space for democracy anymore. There's just markets everywhere, and everything should be understood on a market model.'"*
+
+Wenn alles Markt ist, fehlt der Ort, von dem aus man den Markt beurteilen könnte. So lässt sich Browns Satz weiterdenken; die demokratische Regulierung des Kapitalismus setzt eine andere Logik voraus als die, die sie regulieren soll.
+
+> [!question] Weitergedacht
+> Adam Smith hat den Markt in eine Moralphilosophie eingebettet (*Theorie der ethischen Gefühle*). Was würde geschehen, wenn man diesen Smith gegen den Neoliberalismus ins Feld führte, und würde es etwas ändern?
 
 ### Die selbstverstärkende Spirale
 
-[▶ 9:13](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=553) — Brown beschreibt einen Mechanismus, der sich selbst antreibt und dem nur schwer beizukommen ist. Wenn Märkte als einzige legitime Problemlösung gelten, tritt Folgendes ein: Märkte produzieren Ungleichheiten, Volatilität, Krisen — Puerto Rico, Griechenland, die Bankenkrise.
+[▶ 7:42](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=462) — Hier übernimmt Johnson. Früher habe es geheißen, der Kapitalismus beziehe seine moralische Rechtfertigung daraus, dass die Demokratie ihn regiert; wenn aber die Spielregeln gekauft und verkauft werden, zerreiße diese Rechtfertigung. Hier und da zweifle man dann, ob man die Demokratie überhaupt brauche: Die einen zeigten auf Chinas autoritäre Regierung, die liefere; die anderen sagten, Demokratie verlange Sachverstand, den die Menschen nicht aufbrächten, und man könne nicht die Bildung zerstören und sich auf die Demokratie verlassen. Brown stimmt zu, hält den Bildungspunkt zurück und greift den anderen auf.
 
-> *„Markets are still understood to be the best way of governing. And then you get the problem of democracy itself being delegitimized as a response or retort or a solution to the inequalities or maldistributions or utter disasters that markets sometimes generate."*
+[▶ 8:28](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=508) — Sobald Märkte als beste Ordnung für alles gelten, wird die Fähigkeit der Menschen schwach, für den demokratischen Willen einzutreten. Was folgt, nennt sie mit Johnson einen Kreislauf.
 
-[▶ 10:00](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=600) — Was folgt, ist eine Spirale: Wenn die Regierung schlecht performt — weil sie unterfinanziert, sabotiert, verunglimpft wurde —, entstehen Lobbygruppen, die weitere Kürzungen fordern. Personal, Qualität, Handlungsfähigkeit nehmen ab. Und das scheint zu *beweisen*, was der Zynismus schon immer behauptete: dass staatliches Handeln prinzipiell ineffizient ist.
+[▶ 9:13](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=553) — Märkte tun, was sie tun, auch wenn sie Ungleichheit und Instabilität erzeugen und ganze Volkswirtschaften zum Absturz bringen, *„the situation that we have today in Puerto Rico or in Greece or elsewhere“*, und trotzdem gelten sie als beste Art zu regieren.
 
-Das Verblüffende an dieser Spirale ist ihre Selbstimmunisierung: Kein Marktversagen widerlegt den Glauben an Märkte, weil das Versagen immer mit staatlichen Eingriffen oder Regulierungen erklärt werden kann. Demokratie kann diese Spirale nicht von innen durchbrechen — sie braucht eine externe Kritik, eine andere Sprache. Aber genau die verlernen wir, wenn wir immer weniger in Kategorien des Gemeinwohls, der kollektiven Vernunft, der politischen Gleichheit denken.
+> *„And then, you get the problem of democracy itself being essentially what you're describing, delegitimized as a response or retort or a solution to the inequalities or maldistributions or utter disasters that markets sometimes generate."*
 
-Das Bild aus dem Transkript ist präzise: Ein Sumpf, der sich selbst produziert. Regierung versagt → Zynismus → weniger Staat → mehr Markt → neue Krisen → Regierung versagt wieder.
+[▶ 10:00](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=600) — Den Mechanismus beschreibt wieder Johnson: Arbeitet der Staat schlecht, verlangen Lobbys, ihm die Mittel zu kürzen, die Ausbildung, die Qualität der Leute an der Spitze. Dann zerfällt er, kann nicht mehr arbeiten und gibt den Zynikern recht. Brown ergänzt: So sieht er aus wie eine schlechte Art, eine Gesellschaft zu ordnen.
 
-### Oligarchische Philanthropie — wenn die Reichen regieren
+Die Spirale hat eine unangenehme Eigenschaft. Sie widerlegt sich nicht selbst, denn jedes Versagen lässt sich als Beweis für zu viel Staat lesen. Wer sie unterbrechen will, muss für den demokratischen Willen eintreten können, und gerade diese Fähigkeit sieht Brown schwinden, sobald der Markt als Lösung für alles gilt.
 
-[▶ 10:48](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=648) — Was entsteht, wenn Demokratie delegitimiert ist und Märkte heiliggesprochen sind? Brown nennt das die neue Herrschaft — und sie nimmt zwei Formen an.
+### Die Reichen als neue Herrscher
 
-> *„The understanding of how we should organize ourselves is either let the markets rule or let the rich rule."*
+[▶ 10:48](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=648) — Was tritt an die Stelle einer Demokratie, der man nichts mehr zutraut? Entweder sollen die Märkte selbst regieren, oder die Wünsche der Philanthropen, *„and I'm saying this, you know, with Silicon Valley 20 miles away from us as we speak“*.
 
-[▶ 11:34](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=694) — Die "nicht-böswillige" Form: Die Zuckerbergs und Gates dieser Welt werden als Experten ihrer Domäne verstanden, die nun zur Lösung gesellschaftlicher Probleme berufen werden. Wie repariert man das Bildungssystem? Nicht durch demokratische Debatten, Lehrergewerkschaften, parlamentarische Ausschüsse — sondern durch die philanthropischen Stiftungen des Silicon Valley.
+> *„So increasingly the understanding of how we should organize ourselves is either let the markets rule or let the rich rule."*
 
-Die "böswillige" Form: Der Kauf von Gesetzgebung durch Wahlkampfspenden, auf Basis eines tacit quid pro quo.
+Die Reichen entscheiden dann, wie man die Bildung repariert, wie man der Armut in Nordafrika begegnet, was mit einer verfallenden Innenstadt geschieht.
+
+[▶ 11:34](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=694) — Die Zuckerbergs und Gates gelten nicht mehr nur als Fachleute ihres Geschäfts, sie werden *„essentially the new rulers“*. Das ist für Brown die Seite ohne böse Absicht, *„the non-nefarious side“*, und trotzdem regieren hier die Reichen statt des Volkes. Die böswillige Seite hatte Johnson angesprochen: Wer viel Geld an Kandidaten gibt, kauft Gesetze, auf ein stillschweigendes Gegengeschäft hin, *„if I get you elected, then you will make sure that I get this done“*.
+
+[▶ 12:19](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=739)
 
 > *„They're pre-selling policy and it's just become, you know, most people know this is the case and as you say, people kind of as a result become very cynical."*
 
-[▶ 12:19](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=739) — Was Brown hier beschreibt, hat sich seit dem Interview 2016 dramatisch verschärft. Elon Musk ist das extremste Beispiel des Jahres 2025: ein Tech-Oligarch, der nicht mehr philanthropisch handelt, sondern direkt in Regierungsstrukturen eingreift (DOGE). Die Linie zwischen dem "nicht-böswilligen" und dem "böswilligen" Pol ist kaum noch zu sehen.
+> [!question] Weitergedacht
+> Brown sprach im Juni 2015, im Monat, in dem Trump seine Kandidatur erklärte; veröffentlicht wurde das Gespräch ein halbes Jahr vor seiner ersten Wahl. Ist das, was seither geschah, eine Bestätigung, oder sah sie nur deutlicher, was schon da war?
 
-Für Demokratietheoretiker ist das nicht überraschend, sondern die logische Konsequenz einer Entwicklung, die Brown bereits 2015 durchleuchtet hat: Wenn alle gesellschaftlichen Probleme als Fragen von Expertise und Ressourcen verstanden werden, dann ist die Frage "Wer hat die Expertise und die Ressourcen?" — und nicht "Was will das Volk?" — die entscheidende. Das ist kein Unfall. Es ist ein Programm.
+### Experten, Verzweiflung, Einkaufen
+
+[▶ 12:19](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=739) — Neben dem Zynismus sieht Brown etwas Tieferes:
+
+> *„But I think also what we have now is a kind of deep confusion and even despair about what else could possibly run our world."*
+
+Wer glaubt, die Demokratie sei eine schlechte Art, eine Wirtschaft oder gar die Welt zu lenken, und sie denkt dabei an die Krise der Europäischen Union, kommt zu dem Schluss, das sollten Fachleute entscheiden.
+
+[▶ 13:04](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=784) — Experten mit der Befugnis, zu bestimmen, welche Politik verfolgt wird, wo gespart werden muss, wie Finanzinstitute, Staaten und öffentliche Dienste zueinander stehen. Auf der einen Seite der Glaube an die Fachleute, auf der anderen die Verzweiflung:
+
+> *„… that governments are hopeless, markets are out of control, the world is too complex and too vast and it's either doomsday or I'll just go shopping."*
+
+Weltuntergang oder Einkaufsbummel: Der Satz fasst viel von Browns Befund. Wer nicht mehr glaubt, gemeinsam etwas ändern zu können, bleibt mit zwei Rollen zurück, der des Zuschauers einer Katastrophe und der des Kunden.
 
 > [!question] Weitergedacht
-> Browns Analyse stammt aus 2015/2016 — vor Trump, vor Musk/DOGE, vor einer Welle oligarchischer Machtübernahmen in westlichen Demokratien. Sieht sie wie eine Prophezeiung aus, oder waren es schon damals Gegebenheiten, die nur noch nicht so sichtbar waren?
+> Brown misstraut der Herrschaft der Experten. Aber wer entscheidet über Zinsen, Impfstoffe, Klimapfade, wenn nicht Menschen mit Sachverstand? Wo endet die Fachfrage, wo beginnt die politische?
 
 ### Das Versprechen der Moderne kehrt sich um
 
-[▶ 14:34](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=874) — Ein der philosophisch dichtesten Momente des Gesprächs: Brown beschreibt einen kulturellen Wandel, der noch tiefer reicht als die politischen Institutionen. Das Vertrauen in *menschliche Handlungsfähigkeit* selbst schwindet.
+[▶ 13:49](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=829) — Johnson fasst ihr Buch so zusammen: Der Glaube an die Moderne schwinde, der Glaube, dass Menschen mit ihrem Handeln die Dinge reparieren können. *„So important, Rob, that you mentioned that“*, antwortet Brown.
+
+[▶ 14:34](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=874)
 
 > *„The idea that we are in an age of extraordinary technological innovation and that technology holds the solution to everything has almost produced a kind of cover or a layer of denial that sits atop what is a very deep despair about being able to come together as a people, as a demos, and decide how we should live."*
 
-[▶ 15:21](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=921) — Das Versprechen der Moderne war einmal: Menschen, nicht Götter oder Naturkräfte, bestimmen ihre Zukunft. Vernunft, Beratschlagung, demokratische Organisation — das waren die Werkzeuge.
+Die Verzweiflung reicht von den globalen Finanzinstitutionen bis zur Erderwärmung.
+
+[▶ 15:21](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=921) — Die Moderne hatte versprochen, dass nicht die Natur, nicht die Götter, nicht die Überlieferung bestimmen, sondern die Menschen selbst, *„in coming together with others and deciding individually how to live“*. Gemeinsam und jeder für sich, beides gehört bei Brown zusammen.
 
 > *„That was the promise of modernity — that no longer did these things have to be determined by forces of nature or of forces of divinity or ritual sacrifice or the alignment of the stars, that reason, deliberation, and democratic organization was the way that modern human beings would take control of their lives."*
 
-[▶ 16:07](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=967) — Was Browns Diagnose so düster macht: Wir erleben nicht die Erfüllung dieser Versprechen, sondern deren Umkehrung. Die Überzeugung, dass wir als Volk gemeinsam entscheiden können — was für ein Leben wir wollen, wie wir mit Klimawandel umgehen, wie wir globale Institutionen gestalten — schwindet. In die Leerstelle dieser verlorenen Handlungsfähigkeit tritt der *Glaube an Märkte*.
+[▶ 16:07](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=967) — Dieses Versprechen sieht sie sich umkehren:
 
-> *„That hope, that promise, that belief turns inside out and turns into a kind of deep but often unavowed conviction that everything's out of control. And filling the void of out of control is faith in markets."*
+> *„That hope, that promise, that belief turn inside out and turn into a kind of deep but often unavowed conviction that everything's out of control. And filling the void of out of control is faith in markets."*
 
-Das ist eine bittere Pointe: Was die Moderne von Theologie und Tradition befreien sollte, wird von einer neuen Quasi-Religion ersetzt — dem Marktglauben. Und wie jeder religiöse Glaube ist er immun gegen Widerlegung durch Evidenz. Finanzkrise, Klimaversagen, wachsende Ungleichheit — alles kann als Beweis für *zu wenig* Markt interpretiert werden, nie als Beweis gegen ihn.
+Ob dieser Glaube verdient sei, fragt Johnson. Brown nicht ohne Ironie: *„Well, I'm afraid you and I probably agree that that faith in markets is not founded“*, und schränkt gleich ein:
 
-### Piketty und der Neo-Feudalismus — was freie Märkte wirklich tun
+[▶ 16:53](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1013)
 
-[▶ 16:53](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1013) — Brown holt sich Piketty als Kronzeugen: Er hat mit ökonomischen Mitteln bewiesen, was viele schon ahnten.
+> *„… that markets certainly can do certain things, but faith in markets to determine our future and to right themselves and to govern us is inappropriate."*
 
-> *„The thing about markets when they're really left to themselves is they do one very simple thing: They generate capital accumulation at a much greater rate than they generate growth."*
+Ihr Einwand trifft den Glauben an den Markt; dass Märkte manches können, räumt sie ein. Was die Moderne vom Schicksal befreien sollte, füllt sich mit einer neuen Gewissheit, die sich so schwer widerlegen lässt wie ein Glaube: Jede Krise kann als Beweis für zu wenig Markt gelesen werden.
 
-[▶ 17:39](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1059) — Das Ergebnis: Kapitalkonzentration oben, Verarmung in der Fläche, stagnierende Wirtschaft. Und dann, in Pikettys Terminologie: Neo-Feudalismus.
+### Piketty, die Zugbrücke und ein Satz von René Char
 
-> *„You get basically a form of neo-feudalism, a kind of stagnant economy with an oligarchic class ruling over it and engaged in rent extraction rather than productive or growth-based economic development."*
+[▶ 16:53](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1013) — Brown holt sich Thomas Piketty zu Hilfe, der unterstrichen habe, *„what I think many economists knew, but he just made it really bold with his 800 page tome“*:
 
-[▶ 18:25](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1105) — Der Mechanismus der Selbstblockade: Wenn sich Reichtum einmal konzentriert hat, sorgt er dafür, dass er sich nicht überträgt — außer auf die eigenen Nachkommen. Recht wird zum Instrument der Oligarchie. Chancengleichheit endet. Soziale Mobilität gefriert.
+> *„Look, the thing about markets when they're really left to themselves is they do one very simple thing. They generate capital accumulation at a much greater rate than they generate growth."*
 
-[▶ 19:11](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1151) — Brown bringt dann Pierre Bourdieus Satz ins Gespräch:
+[▶ 17:39](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1059) — Daraus folgen Reichtum oben, Verarmung in der Breite und eine ziemlich stagnierende Wirtschaft, und dann, schreibt Brown es Piketty zu (*„he argued“*), eine Art Neo-Feudalismus:
 
-> *„As Pierre Bourdieu, the French sociologist, once said: 'The spirit in the castle is in the drawbridge.'"*
+> *„… basically a form of neo-feudalism, a kind of stagnant economy with an oligarchic class ruling over it and engaged in rent extraction rather than productive or growth-based economic development."*
 
-Das ist eine dichte Metapher: Im Feudalismus war der Geist des Schlosses sein zentrales Sicherheitsinstrument — die Zugbrücke. Wenn Reichtum sich konzentriert, zieht er die Zugbrücke hinter sich hoch. Der Markt, der einst als Instrument sozialer Mobilität galt (jeder kann aufsteigen!), reproduziert genau jene Ungleichheiten, die er überwinden sollte.
+[▶ 18:25](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1105) — Piketty arbeite ganz innerhalb der Ökonomie, sagt Brown, und zeige doch, dass freie Märkte nicht leisten, was die Ökonomie ihnen zuschreibt. Johnson wirft das Bild ein, das die Note zum Schluss trägt: *„It's as if the drawbridge gets pulled up by the oligarchy.“* Brown: *„Exactly.“* Ist der Reichtum einmal konzentriert, richtet die Oligarchie das Recht so ein, dass er nur an die eigenen Nachkommen geht. Die Chancengleichheit endet.
 
-Was Piketty zur ökonomischen Theorie und Bourdieu zur Soziologie beisteuern, fasst Brown zu einer politischen Diagnose zusammen: Das Versprechen der Moderne — Vernunft, Gleichheit, Selbstbestimmung — wird nicht von außen angegriffen. Es wird von innen zersetzt: durch eine Vernunftform, die Menschen nicht mehr als politische Wesen, sondern als Humankapital versteht.
+[▶ 19:11](https://www.youtube.com/watch?v=ZMMJ9HqzRcE&t=1151) — Damit endet ein weiteres Versprechen der Moderne, dass jeder wenigstens die Aussicht hat, zu werden, wer er sein will, *„even if we have uneven starting lines“*. In einer wirklich freien Marktwelt, sagt Brown mit Piketty, komme die soziale Mobilität ganz zum Stillstand. Dann ein Zitat:
+
+> *„As Pierre Bourdieu, the French sociologist, once said, 'The spirit in the castle is in the drawbridge.'"*
+
+Der Satz stammt, soweit wir ihn finden konnten, nicht von Bourdieu, sondern vom Dichter René Char: *„L'esprit du château fort, c'est le pont-levis“*, der Geist der Burg ist die Zugbrücke (→ [[#Faktencheck|Faktencheck]]). Bei Johnson und Brown wird sie hochgezogen. Bei Char ist sie das, was eine Burg ausmacht, eine Brücke, die sich heben und senken lässt. Wer sie bedient, entscheidet, ob die Burg ein Gefängnis ist oder ein Ort, den man betreten kann.
+
+---
+
+## Nachbesprechung
+
+*Drei Fragen aus dem Gespräch, mit dem, was die Forschung darüber hinaus weiß.*
+
+### Stockt der Aufstieg?
+
+Brown sagt, in einer wirklich freien Marktwelt komme die soziale Mobilität zum Stillstand. Die Forschung trennt hier zwei Messungen, und sie geben verschiedene Antworten. Ob Kinder armer Eltern in der Rangfolge der Einkommen aufsteigen, hat sich in den USA für die Jahrgänge 1971 bis 1993 kaum verändert; weil aber die Abstände zwischen den Rängen gewachsen sind, wiegt die „Geburtslotterie“ heute schwerer ([Chetty u. a. 2014](https://doi.org/10.1257/aer.104.5.141), Steuerdaten). Ob Kinder mehr verdienen als ihre Eltern, ist dagegen eingebrochen, von rund 90 Prozent der 1940 Geborenen auf 50 Prozent der in den Achtzigern Geborenen. Mehr Wachstum allein holt das nicht zurück, ein Wachstum, das so gleichmäßig verteilt wäre wie damals, würde mehr als 70 Prozent des Rückgangs umkehren ([Chetty u. a. 2017](https://doi.org/10.1126/science.aal4617), Zensus- und Steuerdaten). Einen Stillstand zeigt keine der beiden Messungen. Die Richtung, die Brown fürchtet, zeigt die zweite.
+
+Die Zugbrücke ist vor allem das Erbe. In Europa stammten zwischen 1950 und 1980 dreißig bis vierzig Prozent des Privatvermögens aus Erbschaften, seit 2010 sind es wieder fünfzig bis sechzig, Tendenz steigend; in den USA verläuft die Kurve flacher und ist unsicherer gemessen ([Alvaredo, Garbinti & Piketty 2017](https://doi.org/10.1111/ecca.12233), Langzeitreihen). Dass dahinter ein Gesetz des Kapitalismus stehe, bestreiten die Ökonomen Daron Acemoglu und James Robinson. Pikettys Abstand zwischen Kapitalrendite und Wachstum erkläre die Ungleichheit der Geschichte kaum, entscheidend seien politische und wirtschaftliche Institutionen ([Acemoglu & Robinson 2015](https://doi.org/10.1257/jep.29.1.3), Regressionen und Fallstudien zu Südafrika und Schweden). Das liegt näher bei Brown, als es klingt: Bei ihr ist es nicht der Markt allein, sondern das Recht, das die Oligarchie für sich einrichtet.
+
+→ Weiter im Panorama: **[[Panorama/Wie viel Reichtum vertraegt eine Demokratie#Was darf man erben?|Wie viel Reichtum verträgt eine Demokratie? — Was darf man erben?]]**
+
+### Experten statt Volk?
+
+Brown beschreibt eine Verzweiflung, die nach Fachleuten ruft. Dass dieser Ruf verbreitet ist, zeigt eine Befragung in neun europäischen Demokratien. Technokratische Einstellungen, der Wunsch nach Sachverstand, nach einer Elite, nach Politik ohne Parteienstreit, sind weit verbreitet; sie lassen sich von populistischen unterscheiden, überschneiden sich aber mit ihnen ([Bertsou & Caramani 2020](https://doi.org/10.1111/ajps.12554), Umfrage mit Profilanalyse). Technokraten und Populisten misstrauen also derselben Parteiendemokratie, die einen im Namen der Fachleute, die anderen im Namen des Volkes. Brown misstraut beidem, was an ihre Stelle treten soll, den Fachleuten wie dem Markt.
+
+Dass Sparpolitik das Vertrauen in die Politik untergräbt, wie Johnsons Spirale es behauptet, hat in Großbritannien einen Beleg. Wo die Sozialkürzungen ab 2010 stärker trafen, wuchs danach die Unzufriedenheit und die Stimmen für UKIP; ohne die Kürzungen, schließt der Ökonom Thiemo Fetzer, hätte das Brexit-Referendum anders ausgehen können ([Fetzer 2019](https://doi.org/10.1257/aer.20181164), Wahl- und Paneldaten). Wie Sparpolitik als Regierungstechnik entstand, erzählt die Ökonomin Clara Mattei in [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Geschichte der Austeritätspolitik]].
+
+Einen Fall für Browns Satz von den Experten, die bestimmen, *„where austerity ought to be imposed“*, lieferte ihr Beispiel Puerto Rico ein Jahr nach dem Gespräch: Seit 2016 wacht ein nicht gewählter Aufsichtsrat über den Haushalt der Insel (→ [[#Was seither geschah|Was seither geschah]]).
+
+→ Weiter im Panorama: **[[Panorama/Wie kann Demokratie funktionieren#Wer soll entscheiden — Gewählte, Geloste oder alle?|Wie kann Demokratie funktionieren? — Wer soll entscheiden?]]**
+
+### Taugt der Begriff?
+
+Das Gespräch ist einvernehmlich, niemand verteidigt, was hier kritisiert wird. Die stärkste Gegenstimme betrifft darum nicht Browns Diagnose, sondern ihr Wort. Zwei Politikwissenschaftler werteten 148 Fachartikel von 1990 bis 2004 aus: „Neoliberalismus“ wurde meist nicht definiert, fast nur von Kritikern gebraucht und für sehr verschiedene Dinge verwendet. Dabei war es einmal ein positives Etikett der Freiburger Schule für einen gemäßigten, erneuerten Liberalismus, ehe es mit Pinochets Chile zum Schimpfwort wurde ([Boas & Gans-Morse 2009](https://doi.org/10.1007/s12116-009-9040-5), Inhaltsanalyse). Der Entwicklungsforscher Rajesh Venugopal geht weiter: Der Begriff sei so widersprüchlich geworden, dass er kaum noch etwas erkläre, und diene vor allem Nicht-Ökonomen als moralisches Urteil über die Wirtschaft ([Venugopal 2015](https://doi.org/10.1080/03085147.2015.1013356), Begriffsanalyse).
+
+Brown entgeht dem Einwand zum Teil, weil sie sagt, was sie meint: eine Denkweise, die den Markt als Wettbewerb auf jeden Bereich des Lebens überträgt. Das ist enger und prüfbarer als das Schlagwort. Ob ein einziger Name für Hayek, Pinochet, die Hochschulreform und die Dating-App dennoch zu viel zusammenbindet, bleibt eine offene Frage. Wer sie stellt, verteidigt damit noch nicht den Markt.
+
+→ Ein Panorama zu dieser Frage gibt es noch nicht.
+
+---
+
+## Was seither geschah
+
+*Stand: 20.11.2026, fast elfeinhalb Jahre nach dem Gespräch.*
+
+- **Puerto Rico bekam seine Experten.** Ende Juni 2015 erklärte der Gouverneur die Schulden der Insel für „nicht bezahlbar“ ([CNBC, 29.06.2015](https://www.cnbc.com/2015/06/29/puerto-ricos-governor-says-islands-debts-are-not-payable.html)), am 1. Mai 2016 verhängte er ein Schuldenmoratorium ([NPR, 02.05.2016](https://www.npr.org/2016/05/02/476498679/puerto-rico-defaults-on-422-million-debt-payment)). Im letzten Amtsjahr Obamas schuf der Kongress mit dem Gesetz PROMESA einen Aufsichtsrat, der über den Haushaltsplan der Insel wacht. Er besteht bis heute; im August 2025 entließ Präsident Trump fünf seiner acht Mitglieder ([CBS News, 05.08.2025](https://www.cbsnews.com/news/trump-fires-5-members-of-puerto-ricos-financial-oversight-board/)).
+- **Griechenland verließ das dritte Hilfsprogramm** am 20. August 2018. Zusammen hatten die Euro-Rettungsfonds 203,77 Milliarden Euro ausgezahlt, die Aufsicht über die Reformen lief weiter ([ESM, 20.08.2018](https://www.esm.europa.eu/press-releases/greece-successfully-concludes-esm-programme)).
+- **Ein Reicher regierte mit.** Elon Musk trieb 2025 die Kürzungsbehörde DOGE voran und verließ seine Rolle als Berater Trumps Ende Mai 2025 ([AP, 29.05.2025](https://apnews.com/article/elon-musk-trump-doge-322f6735a26ee6a8ad6a334176f94dd5)). Die Behörde war per Dekret bis zum 4. Juli 2026 befristet ([Executive Order 14158](https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency)). Browns Satz von den Reichen als neuen Herrschern bekam damit ein Gesicht: Ein Milliardär ohne Wahlamt kürzte den Staat von innen.
+- **Brown selbst schrieb weiter.** In *In the Ruins of Neoliberalism. The Rise of Antidemocratic Politics in the West* (Columbia University Press, 2019) verfolgt sie, wie aus diesem Boden antidemokratische Politik wächst.
 
 ---
 
 ## Faktencheck
 
-> [!success] Bestätigt — Wendy Brown: "Undoing the Demos", Zone Books 2015
-> Das Buch erschien 2015 bei Zone Books und gewann den David and Elaine Spitz Prize 2017, vergeben von der International Conference for the Study of Political Thought für das beste Buch in liberal und/oder demokratischer Theorie.
+> [!success] Bestätigt — *Undoing the Demos*, Zone Books 2015, Spitz Prize 2017
+> Das Buch erschien 2015 bei Zone Books und gewann den David and Elaine Spitz Prize 2017 der International Conference for the Study of Political Thought für das beste Buch zur liberalen und/oder demokratischen Theorie. Die Jury lobt, dass es Foucaults Analyse des Subjekts weiterführt, ohne die Bürger als handelndes Volk aus dem Blick zu verlieren.
 > Quelle: [Zone Books — Wendy Brown wins Spitz Prize](https://www.zonebooks.org/news-w-brown-spitz-prize) · [UC Berkeley Political Science](https://polisci.berkeley.edu/news/professor-wendy-brown-awarded-spitz-prize)
 
-> [!warning] Vereinfacht — Pikettys Kernthese und "Neo-Feudalismus"
-> Piketty belegt mit r > g, dass Kapitalrendite langfristig das Wirtschaftswachstum übersteigt — das stimmt. Zwei Unschärfen: Das Buch hat ~696–816 Seiten, nicht "800". Und den Begriff "Neo-Feudalismus" verwendet Piketty selbst nicht — er spricht von "patrimonial capitalism". "Neo-Feudalismus" ist eine Interpretation, die andere (u.a. Varoufakis) aus Pikettys Analyse ableiten. Browns Zuspitzung ist eine bewusste rhetorische Verstärkung für ihr politisches Argument, keine Falschdarstellung.
-> Quelle: [Wikipedia — Capital in the Twenty-First Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) · [Harvard University Press](https://www.hup.harvard.edu/books/9780674430006)
+> [!warning] Vereinfacht — Piketty und der „Neo-Feudalismus“
+> Pikettys Kernbefund, dass die Kapitalrendite langfristig über dem Wachstum liegt und Vermögen sich darum konzentriert, gibt Brown richtig wieder. Den Begriff Neo-Feudalismus schreibt sie ihm zu („he argued“). Pikettys eigenes Stichwort ist der patrimoniale Kapitalismus, eine Gesellschaft, in der ererbtes Vermögen wieder herrscht; so heißt auch die große Rezension des Ökonomen Branko Milanović. „Neo-Feudalismus“ ist Browns Zuspitzung derselben Richtung. Dass r > g die Geschichte der Ungleichheit erklärt, ist umstritten (→ [[#Stockt der Aufstieg?|Nachbesprechung]]).
+> Quelle: [Harvard University Press — Capital in the Twenty-First Century](https://www.hup.harvard.edu/books/9780674430006) · [Milanović 2014, *Journal of Economic Literature*](https://doi.org/10.1257/jel.52.2.519) (Rezension) · [Acemoglu & Robinson 2015](https://doi.org/10.1257/jep.29.1.3)
 
-> [!warning] Nicht verifizierbar — Bourdieu-Zitat "The spirit in the castle is in the drawbridge"
-> Dieses Zitat lässt sich in keiner zugänglichen Bourdieu-Quelle nachweisen — weder in Wikiquote noch in akademischen Datenbanken. Bourdieu erwähnt Schlösser in *Distinction* als Statussymbol, aber kein Schloss-Zugbrücken-Aphorismus ist bekannt. Möglicherweise stammt es aus einem schwer zugänglichen Interview oder mündlicher Überlieferung. Da Brown es in akademischem Kontext zitiert, ist eine Absicht zur Täuschung unwahrscheinlich — aber das Zitat sollte mit Vorsicht behandelt werden.
-> Keine unabhängige Quelle gefunden.
+> [!warning] Vermutlich falsch zugeschrieben — „The spirit in the castle is in the drawbridge“
+> Brown nennt den Soziologen Pierre Bourdieu. Der Satz ist ein Aphorismus des Dichters René Char: *„L'esprit du château fort, c'est le pont-levis.“* So führen ihn die französischen Zitatsammlungen; die genaue Stelle in Chars Werk haben wir nicht gefunden, einen Bezug zu Bourdieu auch nicht. Dass Bourdieu ihn irgendwo zitiert hat, lässt sich nicht ausschließen. Eine Absicht ist nicht zu erkennen, die Verwechslung ändert nichts an Browns Argument.
+> Quelle: [Ouest-France Citations — René Char](https://citations.ouest-france.fr/citation-rene-char/esprit-chateau-fort-pont-levis-28966.html)
+
+> [!warning] Vereinfacht — „an absolute stall in social mobility“
+> Brown spricht im Konjunktiv der Theorie, von einer „truly free market world“. Gemessen an den USA: Die relative Mobilität, also der Aufstieg in der Rangfolge, ist für die Jahrgänge 1971–1993 stabil geblieben; die absolute Mobilität, mehr zu verdienen als die Eltern, fiel von rund 90 auf 50 Prozent. Einen Stillstand zeigen die Daten nicht, einen deutlichen Rückgang beim zweiten Maß schon.
+> Quelle: [Chetty u. a. 2014, *American Economic Review*](https://doi.org/10.1257/aer.104.5.141) (Steuerdaten) · [Chetty u. a. 2017, *Science*](https://doi.org/10.1126/science.aal4617) (Zensus- und Steuerdaten)
 
 > [!success] Bestätigt — Adam Smith und Adam Ferguson: kein Argument für den Staat als Markt
-> Beide sahen den Staat als Rahmensetzer und Infrastrukturlieferanten — nicht als Markt selbst. Browns Claim, dass die Idee des Staates *als* Markt eine neoliberale Innovation ist, die über die klassischen Ökonomen hinausgeht, ist durch ideengeschichtliche Forschung gedeckt.
-> Quelle: [Adam Smith Works](https://www.adamsmithworks.org/documents/two-adams-of-scottish-enlightenment-max-skjonsberg-2) · [Internet Encyclopedia of Philosophy — Adam Smith](https://iep.utm.edu/smith/)
+> Beide sahen den Staat als Rahmen, der Ordnung, Verteidigung und Infrastruktur sichert, nicht selbst als Markt. Browns Satz, die Idee eines Staates *als* Markt gehe über die Klassiker hinaus, ist ideengeschichtlich gedeckt.
+> Quelle: [Adam Smith Works — The Two Adams of the Scottish Enlightenment](https://www.adamsmithworks.org/documents/two-adams-of-scottish-enlightenment-max-skjonsberg-2) · [Internet Encyclopedia of Philosophy — Adam Smith](https://iep.utm.edu/smith/)
 
-> [!success] Bestätigt — Griechenland und Puerto Rico als Schuldenkrise-Beispiele (ca. 2016)
-> Beide zeitlich korrekt: Griechenlands Troika-Krise auf dem Höhepunkt 2015/2016; Puerto Ricos Schuldenmoratorium im Mai 2016. Browns Nutzung als Beispiele für externe Wirtschaftskontrolle über demokratisch gewählte Regierungen ist sachlich präzise.
+> [!success] Bestätigt — Puerto Rico und Griechenland 2015/16
+> Ende Juni 2015, im Monat der Aufnahme, erklärte Puerto Ricos Gouverneur die Schulden der Insel für „nicht bezahlbar“; am 1. Mai 2016, kurz vor der Veröffentlichung, verhängte er ein Moratorium, eine Zahlung von 422 Millionen Dollar platzte. Griechenland kam im August 2015 ins dritte Hilfsprogramm. Browns Punkt: Märkte bringen ganze Volkswirtschaften zum Absturz und gelten trotzdem als beste Art zu regieren.
+> Quelle: [CNBC, 29.06.2015](https://www.cnbc.com/2015/06/29/puerto-ricos-governor-says-islands-debts-are-not-payable.html) · [NPR, 02.05.2016](https://www.npr.org/2016/05/02/476498679/puerto-rico-defaults-on-422-million-debt-payment) · [ESM — Greece successfully concludes ESM programme](https://www.esm.europa.eu/press-releases/greece-successfully-concludes-esm-programme)
 
 ---
 
 ## Weiterführende Quellen
 
-*Im Interview erwähnte Quellen:*
+*Im Gespräch erwähnt:*
 
-- Thomas Piketty: *Capital in the Twenty-First Century* (2013/2014) — Nachweis, dass freie Märkte Kapitalakkumulation > Wachstum erzeugen; zitiert im Kontext Neo-Feudalismus
-- Pierre Bourdieu: "Der Geist im Schloss ist die Zugbrücke" — zitiert zur sozialen Mobilität und oligarchischer Abschottung
-- Adam Smith: *The Wealth of Nations* / *Theory of Moral Sentiments* — klassische Ökonomen haben nie die vollständige Marketisierung von Politik und Gesellschaft gefordert
-- Adam Ferguson: *An Essay on the History of Civil Society* (1767) — erwähnt als klassischer politischer Ökonom
-- Ordoliberale (Freiburger Schule) — als Vertreter einer Expertenhierarchie statt Demokratie erwähnt
+- Thomas Piketty: *Capital in the Twenty-First Century* (2013/2014), bei Brown der Beleg dafür, dass Kapital schneller wächst als die Wirtschaft
+- „The spirit in the castle is in the drawbridge“, von Brown Pierre Bourdieu zugeschrieben, nach den Zitatsammlungen von René Char
+- Adam Smith, Adam Ferguson: die klassischen politischen Ökonomen, die den Staat nicht zum Markt machen wollten
+- die Ordoliberalen (Freiburger Schule), von Johnson erwähnt als Fürsprecher einer Hierarchie von Fachleuten
 
-*Weiterführende Quellen (Sherlock):*
+*Weiterführend:*
 
-- [Zone Books — Undoing the Demos](https://www.zonebooks.org/books/9-undoing-the-demos-neoliberalism-s-stealth-revolution) — Verlagsseite mit Publikationsdaten und Spitz-Prize-Vermerk
-- [Wikipedia — Capital in the Twenty-First Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) — Seitenanzahl, r > g Kernthese, "patrimonial capitalism" als Pikettys eigener Begriff
-- [Adam Smith Works — The Two Adams of the Scottish Enlightenment](https://www.adamsmithworks.org/documents/two-adams-of-scottish-enlightenment-max-skjonsberg-2) — Vergleich Smith/Ferguson zu Staatsfunktion und politischer Ökonomie
-- [Wikipedia — Wendy Brown (political theorist)](https://en.wikipedia.org/wiki/Wendy_Brown_(political_theorist)) — Biografie, Stiftungslehrstuhl-Titel, Wechsel ans IAS Princeton 2021
-- [Pierre Bourdieu — Wikiquote](https://en.wikiquote.org/wiki/Pierre_Bourdieu) — zugängliche Zitat-Sammlung; Schloss-Zugbrücken-Zitat nicht enthalten
+- [Zone Books — Undoing the Demos](https://www.zonebooks.org/books/9-undoing-the-demos-neoliberalism-s-stealth-revolution) — Verlagsseite
+- [Columbia University Press — In the Ruins of Neoliberalism](https://cup.columbia.edu/book/in-the-ruins-of-neoliberalism/9780231193849) — Browns Folgebuch (2019)
+- [Brown 2011, „Occupy Wall Street: Return of a Repressed Res-Publica“](https://doi.org/10.1353/tae.2011.0064) — ihr Text zur Occupy-Bewegung
+- [Boas & Gans-Morse 2009](https://doi.org/10.1007/s12116-009-9040-5) und [Venugopal 2015](https://doi.org/10.1080/03085147.2015.1013356) — zur Kritik am Begriff
+- [Wikipedia — Wendy Brown (political theorist)](https://en.wikipedia.org/wiki/Wendy_Brown_(political_theorist)) — Lebenslauf
 
 ---
 
@@ -245,15 +328,15 @@ Konträre Antworten auf dieselbe Diagnose: Gabriel glaubt, der Kapitalismus sei 
 
 ### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
 
-Brown beschreibt die stille Revolution der Neoliberalen der Vierzigerjahre; Weber geht zu ihrem Gründungstext zurück, Hayeks *Weg zur Knechtschaft*, der nur die Wahl ließ, sich dem Markt oder anderen Menschen unterzuordnen. Brown zeigt die Spirale des kaputtgesparten Staates, Weber setzt den Gegenbeweis im Kleinen dagegen: einen Staat, der wieder sichtbar handelt.
+Brown beschreibt die stille Revolution der Neoliberalen der Vierzigerjahre; Weber geht zu ihrem Gründungstext zurück, Hayeks *Weg zur Knechtschaft*, der nur die Wahl ließ, sich dem Markt oder anderen Menschen unterzuordnen. Die Spirale des kaputtgesparten Staates, die Brown mit Johnson beschreibt, setzt Weber den Gegenbeweis im Kleinen entgegen: einen Staat, der wieder sichtbar handelt.
 
 ---
 
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
-> - Wendy Brown beschreibt Neoliberalismus als Vernunftform, die wir verinnerlicht haben — aber wenn diese Vernunft uns durchdringt, *wer* soll dann die Kritik an ihr üben? Wer steht außerhalb?
-> - Die Spirale (Marktversagen → Demokratie-Delegitimierung → weniger Staat → mehr Marktversagen) scheint sich selbst zu immunisieren. Was, wenn überhaupt, könnte sie unterbrechen — und von wo aus?
-> - Brown argumentiert, dass oligarchische Philanthropie (Gates, Zuckerberg) die demokratische Entscheidungsfindung ersetzt. Aber haben wir nicht auch Fälle, wo staatliche Bürokratie Entscheidungen schlechter traf? Bedeutet Browns Analyse, dass *jede* Privatinitiative für das Gemeinwohl demokratisch illegitim ist?
-> - Das Versprechen der Moderne war: Vernunft und Demokratie statt Götter und Traditionen. Jetzt stellen wir fest, dass diese Befreiung eine neue Quasi-Religion (Marktglaube) produziert hat. Was sagt das über das Projekt der Aufklärung selbst?
-> - [[DenkerVita/Wendy Brown|DenkerVita]] — Browns Folgewerk *In the Ruins of Neoliberalism* (2019) geht weiter: Wie gebiert Neoliberalismus den rechtsautoritären Populismus, den er scheinbar bekämpft?
+> - Wenn die Marktvernunft uns so durchdringt, wie Brown sagt, *wer* übt dann die Kritik an ihr? Von wo aus spricht Brown selbst?
+> - Die Spirale aus Kürzung, Versagen und Zynismus widerlegt sich nicht selbst. Was könnte sie unterbrechen, und müsste es von innen kommen, aus dem Staat, oder von außen, von den Bürgern?
+> - Brown nennt die Herrschaft der Philanthropen die Seite ohne böse Absicht und hält sie doch für einen Verlust. Aber es gibt auch Fälle, in denen staatliche Bürokratie schlechter entschied als eine Stiftung. Ist jede private Initiative fürs Gemeinwohl ein Verlust an Demokratie, oder nur die, die an die Stelle der öffentlichen Entscheidung tritt?
+> - Bei René Char ist die Zugbrücke der Geist der Burg, weil sie sich senken lässt. Was wäre in einer Gesellschaft das Gegenstück, das, was ihre Mauern durchlässig hält: das Erbrecht, die Schule, das Wahlrecht?
+> - [[DenkerVita/Wendy Brown|DenkerVita]] — In *In the Ruins of Neoliberalism* (2019) fragt Brown, wie aus dem Neoliberalismus die antidemokratische Politik wächst, die er scheinbar bekämpft. Wenn das stimmt, was hieße es für die, die heute den Staat im Namen der Freiheit abbauen wollen?

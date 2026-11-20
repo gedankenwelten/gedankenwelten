@@ -1877,7 +1877,7 @@ tags:
 
 | | |
 |---|---|
-| **Vortrag / Video** | [How Neoliberalism Threatens Democracy](https://www.youtube.com/watch?v=ZMMJ9HqzRcE) |
+| **Vortrag / Video** | [How Neoliberalism Threatens Democracy](https://www.youtube.com/watch?v=ZMMJ9HqzRcE) (Gespräch mit Rob Johnson, INET, 25.05.2016) |
 | **Notiz** | [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Brown_Neoliberalismus_Demokratie_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Wendy Brown]] |
