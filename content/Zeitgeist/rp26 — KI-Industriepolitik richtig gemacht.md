@@ -211,7 +211,7 @@ Konés „nützlichste, nicht mächtigste KI" ist praktisch Jungs AI Directionis
 
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet]]
 
-Beide Sessions kreisen um denselben strukturellen Befund: Digitale Souveränität ist ohne aktive Marktgestaltung nicht erreichbar. Gehring/Gießmann kommen von der Geldseite (Bitcoin, Zentralbanken), Kaltheuner/Jung von der KI-Infrastruktur — aber der Kern ist derselbe: Abhängigkeit von US-Strukturen ist kein neutrales Schicksal, sondern politische Entscheidung.
+Beide Sessions kreisen um denselben strukturellen Befund: Digitale Souveränität ist ohne aktive Marktgestaltung nicht erreichbar. Gehring/Gießmann kommen von der Geldseite (Zentralbanken, Wero, digitaler Euro), Kaltheuner/Jung von der KI-Infrastruktur — aber der Kern ist derselbe: Abhängigkeit von US-Strukturen ist kein neutrales Schicksal, sondern politische Entscheidung.
 
 ### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]]
 

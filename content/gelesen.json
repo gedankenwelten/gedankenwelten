@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 130,
-   "aufrufe": 157
+   "aufrufe": 158
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -104,6 +104,11 @@
    "aufrufe": 11
   },
   {
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "leser": 8,
+   "aufrufe": 9
+  },
+  {
    "pfad": "/DenkerVita/Carlo-Cipolla",
    "leser": 8,
    "aufrufe": 9
@@ -112,11 +117,6 @@
    "pfad": "/DenkerVita/Marcant",
    "leser": 7,
    "aufrufe": 9
-  },
-  {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-   "leser": 7,
-   "aufrufe": 8
   },
   {
    "pfad": "/DenkerVita/Giulia-Enders",
@@ -195,6 +195,11 @@
   },
   {
    "pfad": "/DenkerVita/Thomas-Eichstaedt",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
    "leser": 5,
    "aufrufe": 5
   },
@@ -284,11 +289,6 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
    "leser": 4,
    "aufrufe": 4
@@ -316,7 +316,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 17,
-     "aufrufe": 22
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -340,8 +340,8 @@
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 6,
-     "aufrufe": 7
+     "leser": 7,
+     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -384,17 +384,17 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
      "leser": 4,
      "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 4,
      "aufrufe": 4
     },
@@ -599,12 +599,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Claudia-Wittig-und-Rainer-Rothfuss-Frieden-mit-Russland-ueber-die-Brandmauer",
+     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 1,
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 1,
      "aufrufe": 2
     }
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 130,
-     "aufrufe": 157
+     "aufrufe": 158
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -714,6 +714,11 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 8,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/DenkerVita/Carlo-Cipolla",
      "leser": 8,
      "aufrufe": 9
@@ -722,11 +727,6 @@
      "pfad": "/DenkerVita/Marcant",
      "leser": 7,
      "aufrufe": 9
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 7,
-     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Giulia-Enders",
@@ -805,6 +805,11 @@
     },
     {
      "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 5,
      "aufrufe": 5
     },
@@ -894,11 +899,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
      "leser": 4,
      "aufrufe": 4
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1020,
-     "aufrufe": 1231
+     "aufrufe": 1232
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1109,6 +1109,11 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 10,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 10,
      "aufrufe": 10
@@ -1132,11 +1137,6 @@
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "leser": 9,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 9,
-     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1020,
-     "aufrufe": 1231
+     "aufrufe": 1232
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1414,6 +1414,11 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 10,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 10,
      "aufrufe": 10
@@ -1437,11 +1442,6 @@
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "leser": 9,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 9,
-     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",

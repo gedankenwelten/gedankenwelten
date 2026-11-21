@@ -214,7 +214,7 @@ Nosthoff analysiert kybernetische Herrschaft als technokratisches Staatsverstän
 
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
-Gehring & Gießmann verhandeln dieselbe Grundfrage — europäische Abhängigkeit von US-Infrastruktur — aber aus entgegengesetzter Antwort: Sie zeigen historisch, dass privatwirtschaftlicher Aufbau (Eurocard) scheiterte, weil Marktmacht am Ende übernommen wird. Das ist der direkte Widerspruch zu Büttners These, dass Techmilliardäre und Wettbewerb der Souveränitätspfad sind. Produktiver Konflikt zweier re:publica-26-Panels zur selben Frage.
+Gehring & Gießmann verhandeln dieselbe Grundfrage — europäische Abhängigkeit von US-Infrastruktur — aber aus entgegengesetzter Antwort: Gießmann erinnert an die Eurocard, ein privatwirtschaftlich gebautes europäisches System, das 2002 in der Fusion von Europay und Mastercard aufging, und beide setzen auf eine öffentliche Infrastruktur. Das ist der direkte Widerspruch zu Büttners These, dass Techmilliardäre und Wettbewerb der Souveränitätspfad sind. Produktiver Konflikt zweier re:publica-26-Panels zur selben Frage.
 
 ### → [[Denker/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]]
 Bria kartiert, wie privatisierte Souveränität entsteht — Palantir, Musk, Thiel übernehmen staatliche Kernfunktionen. Büttner und Kaufmann beschreiben Europas Weg in genau diese Abhängigkeit: 90%+ US-Marktanteil sind nicht Marktversagen, sondern State Capture in Zeitlupe. Bria liefert die Makro-Diagnose, Büttner/Kaufmann den operativen Gegenentwurf.

@@ -274,4 +274,4 @@ Dieselbe Wunde von rechts erzählt. Bannon beginnt bei den AT&T-Aktien, die sein
 
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
-Varoufakis' Ökonomiekritik ("Religion mit Gleichungen") ist die Metaebene zu dem, was Gehring & Gießmann im Konkreten beschreiben: Hochkomplexe Finanzarchitekturen entziehen sich demokratischer Deliberation, weil die Fachsprache (CBDC-Design, Haltelimits, Schnittstellen-Spezifikationen) nur Insider verstehen — und das nutzt die Lobby systematisch aus (58:1-Asymmetrie). Varoufakis erklärt strukturell, warum diese Asymmetrie so stabil ist.
+Varoufakis nennt die Ökonomie eine Religion mit Gleichungen. Gehring und Gießmann zeigen die Fachsprache im Konkreten: Haltelimits, Schnittstellen, Spezifikationen, Gießmann lernt nach eigenen Worten jedes Jahr aufs Neue „zentralbänkisch“. Wer sie nicht spricht, dringt schwer durch, und die Lobbytreffen standen beim digitalen Euro 58 zu 1. Ob die Fachsprache diese Asymmetrie erklärt, ist unsere Frage, keiner der beiden behauptet es.

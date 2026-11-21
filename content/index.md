@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **21.11.** — [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]]
+>
+> Die Leistungsgesellschaft hält alle gefangen, auch ihre Gewinner, die bis zur Erschöpfung arbeiten. Wolfgang M. Schmitt und Stefan Schulz lesen Daniel Markovits' „The Meritocracy Trap“, und Wolfgang fragt, warum das Buch den Kapitalismus nicht beim Namen nennt.
+
+> **21.11.** — [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+>
+> Vor einem Jahr ging es darum, was Bürger von digitalem Bargeld erwarten, heute geht es darum, wem die Schienen unter dem Geld gehören. Petra Gehring und Sebastian Gießmann über Wero, die Eurocard und den digitalen Euro.
+
+> **20.11.** — [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt]]
+>
+> Eine Soldatin mit Millionenpublikum, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage.
+
+> **20.11.** — [[Zeitgeist/Georgine Kellermann — Der lange Weg zu mir selbst|Georgine Kellermann — Der lange Weg zu mir selbst]]
+>
+> Eine Rolltreppenfahrt beendete ein Doppelleben von über sechzig Jahren. Georgine Kellermann erzählt, was ein Spiegel, eine Kollegin und ein einziges „Cool“ verändern können.
+
+> **20.11.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
+>
+> Wendy Brown über eine Revolution auf leisen Sohlen: Wer die Demokratie zum Markt macht, verliert ihre Gleichheit und das Volk, das sich selbst regiert.
+
+> → *14 weitere in* [[Zeitgeist]]
+
 ### Panorama
 
 > **21.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
@@ -69,30 +93,6 @@ Die Gedankenwelten (luc)
 > Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
 
 > → *6 weitere in* [[Spuren]]
-
-### Zeitgeist
-
-> **20.11.** — [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt]]
->
-> Eine Soldatin mit Millionenpublikum, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage.
-
-> **20.11.** — [[Zeitgeist/Georgine Kellermann — Der lange Weg zu mir selbst|Georgine Kellermann — Der lange Weg zu mir selbst]]
->
-> Eine Rolltreppenfahrt beendete ein Doppelleben von über sechzig Jahren. Georgine Kellermann erzählt, was ein Spiegel, eine Kollegin und ein einziges „Cool“ verändern können.
-
-> **20.11.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
->
-> Wendy Brown über eine Revolution auf leisen Sohlen: Wer die Demokratie zum Markt macht, verliert ihre Gleichheit und das Volk, das sich selbst regiert.
-
-> **20.11.** — [[Zeitgeist/ZDFinfo — Feindbild Queer nach dem CSD-Anschlag|ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]]
->
-> Nach dem tödlichen Anschlag auf den Berliner CSD fragt eine Dokumentation, woher der Hass auf queere Menschen kommt. Die Antworten führen nach rechts, zum Islamismus und in die Mitte.
-
-> **20.11.** — [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]
->
-> Die Mitte schmilzt kaum, sie spaltet sich, und ihre Angst gilt den Kindern. Heinz Bude 2014 über Misstrauen als politische Kraft und eine Null-Fehler-Generation.
-
-> → *12 weitere in* [[Zeitgeist]]
 
 ### Denker
 

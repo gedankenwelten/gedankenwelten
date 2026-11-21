@@ -259,7 +259,7 @@ De Bastion sortiert die Machtkonzentration nach Ebenen — Seekabel, Betriebssys
 
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
-Hünemörders Satz — wenn es nichts zu entscheiden gibt, nennt es nicht Beteiligungsprozess — hat in dieser Note sein europäisches Gegenstück: Vero, das angekündigte europäische PayPal, als Enttäuschungsmanöver. Man darf über die Farbe des Stoffs entscheiden, nicht über die Form des Stuhls, und auf EU-Ebene heißt das: eine Fassaden-Alternative, während die Zahlungsinfrastruktur bleibt, wo sie ist. Die Note erklärt auch, woran de Bastions Vorwurf hängt, Europa predige und liefere nicht — an einer Lobbying-Asymmetrie von 58 zu 1 und daran, dass Europa 2003 mit dem Mastercard-Coup Souveränität besaß und verkaufte. Die Predigt ist kein Unvermögen, sie ist eine Interessenlage.
+Hünemörders Satz — wenn es nichts zu entscheiden gibt, nennt es nicht Beteiligungsprozess — hat in dieser Note sein europäisches Gegenstück: Wero, das europäische PayPal der Banken, das Gießmann ein Enttäuschungsmanöver nennt. Man darf über die Farbe des Stoffs entscheiden, nicht über die Form des Stuhls, und auf EU-Ebene heißt das: eine Fassaden-Alternative, während die Zahlungsinfrastruktur bleibt, wo sie ist. Die Note gibt de Bastions Vorwurf, Europa predige und liefere nicht, ein Beispiel: eine Lobbying-Asymmetrie von 58 zu 1 beim digitalen Euro und eine Eurocard, die Europa schon einmal hatte und die in der Fusion mit Mastercard (2002) aufging. Dass die Predigt einer Interessenlage folgt, ist unsere Lesart, die Note sagt es so nicht.
 
 ### → [[Denker/Mbembe — The Earthly Community|Mbembe — The Earthly Community]]
 

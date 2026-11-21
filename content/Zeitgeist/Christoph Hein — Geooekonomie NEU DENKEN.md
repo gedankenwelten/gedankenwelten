@@ -360,7 +360,7 @@ Rosas Beschleunigungskritik trifft auf Heins 996-Beispiel (Chinas Arbeitskultur)
 
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
-Heins Geoökonomie-Brille (Wirtschaft als Machtinstrument) erklärt, warum die Eurocard-Übernahme durch Mastercard 2003 keine neutrale Marktentscheidung war. Gehring & Gießmann zeigen dieselbe Logik im Mikro: Europa hat Eurocard aufgebaut, nicht politisch geschützt, und verloren. Die Frage "Was macht es diesmal anders?" ist exakt Heins Frage — nur auf Zahlungssysteme statt auf Energieinfrastruktur angewendet.
+Heins Blick auf Wirtschaft als Machtinstrument fragt, was in Gießmanns Geschichte offen bleibt: ob das Aufgehen der Eurocard in Mastercard (Fusion von Europay und Mastercard 2002) eine bloße Marktentscheidung war. Europa hatte eigene Zahlungssysteme aufgebaut und hat sie nicht gehalten. Die Frage „Was macht es diesmal anders?“ ist Heins Frage, auf Zahlungssysteme statt auf Energie angewandt.
 
 ---
 

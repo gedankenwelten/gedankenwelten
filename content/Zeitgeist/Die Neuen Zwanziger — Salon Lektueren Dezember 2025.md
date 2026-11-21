@@ -1,14 +1,17 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren Dezember 2025"
-description: "„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selbst.“ Der Salon liest Daniel Markovits' „The Meritocracy Trap“ über eine Leistungselite, die alle gefangen hält."
-aktualisiert: 2026-05-06
+description: "Die Leistungsgesellschaft hält alle gefangen, auch ihre Gewinner, die bis zur Erschöpfung arbeiten. Wolfgang M. Schmitt und Stefan Schulz lesen Daniel Markovits' „The Meritocracy Trap“, und Wolfgang fragt, warum das Buch den Kapitalismus nicht beim Namen nennt."
+aktualisiert: 2026-11-21
 date: 2026-01-08
+raetsel: "Oben brennt das Licht bis nach Mitternacht. Unten fragt niemand, wer die Lampen bezahlt."
 tags:
   - zeitgeist
   - kapitalismus
+  - soziale-ungleichheit
+  - bildung
   - demokratie
+  - populismus
   - usa
-  - trump
   - deutschland
   - year-2026
 aliases:
@@ -19,142 +22,244 @@ aliases:
 
 # Die Neuen Zwanziger — Salon Lektüren Dezember 2025
 
-Quelle: [Meritocracy Trap, Geschichte des Klangs, Bumblebee Drone, Katholiken & Krieg, KI-Literatur, unpolitisches BVerG, Haydn](https://steady.page/de/neuezwanziger/posts/da94c66e-9b4c-419b-8a64-4a5c4af2ec5a)
+![[assets/Die-Neuen-Zwanziger-Salon-Lektueren-Dezember-2025-banner.jpg|Bildtafel in Schwarz, Rot und Ocker auf Papiergrund: Ein dreistöckiges Gerüst, oben sitzen Figuren unter Mond und Uhr an Schreibtischen, an ihre Lampen gekettet, in der Mitte tragen andere sie auf den Schultern, unten wird gefegt, eine Leiter reicht nur bis zur Mitte.|1200]]
+
+<details><summary>🎨</summary>
+
+**Gerd Arntz** — Isotype-Bildstatistik in flachen Silhouetten, Schwarz, Ziegelrot und Ocker auf Papier: ein Gerüst aus drei Stockwerken, oben die Gewinner, die unter Mond und Uhr an ihren Schreibtischen sitzen, mit goldenen Ketten an die Lampen gebunden, darunter die, die sie tragen, ganz unten die, die fegen und schieben, und eine Leiter, die nur bis zur Mitte reicht. Arntz, weil Markovits keine Moral erzählt, sondern eine Struktur beschreibt, und weil Arntz Klassen als Bildtafel gezeichnet hat, gleichförmige Figuren in festen Rängen.
+
+*Prompt:* A wide panoramic banner in the style of Gerd Arntz's Isotype pictograms and his constructivist woodcuts: flat silhouettes in black, brick red and ochre on a cream paper ground, no outlines, strict grid. A tall stepped tower of identical pictogram figures in three tiers. On the top tier, small figures sit bent over desks under a crescent moon and a large clock, each figure linked to its desk by a thin golden chain, lamps burning. On the middle tier, figures carry the top tier on their shoulders. On the bottom tier, figures sweep, push trolleys and stand at a door. A ladder leans against the tower from the ground, its upper rungs missing. Left and right, rows of tiny houses. Clean geometric composition, flat print texture, no text, no letters, no numbers, no faces.
+
+</details>
+
+> [!abstract] Worum es geht
+> Die Leistungsgesellschaft hält alle gefangen, auch die, die in ihr gewinnen: Sie arbeiten bis zur Erschöpfung,
+> investieren Millionen in die Bildung ihrer Kinder und verteidigen ein Einkommen, das ihnen Anwälte und Banker
+> sichern. Das ist die These von Daniel Markovits' *The Meritocracy Trap* (2019), und Wolfgang M. Schmitt und Stefan
+> Schulz lesen das Buch in ihrem Salon über zwei Stunden lang. Sie finden darin die schärfste Beschreibung der Elite,
+> die sie kennen, und eine Lücke: Wolfgang hält die Lösungsvorschläge für „kaum der Rede wert“, weil Markovits den
+> Kapitalismus nicht beschreibt, der die Verlierer braucht.
+
+Quelle: [Meritocracy Trap, Geschichte des Klangs, Bumblebee Drone, Katholiken & Krieg, KI-Literatur, unpolitisches BVerG, Haydn](https://steady.page/de/neuezwanziger/posts/da94c66e-9b4c-419b-8a64-4a5c4af2ec5a) (Die Neuen Zwanziger, Lektüre-Salon, aufgenommen Anfang Januar 2026)
 
 > [!tip] Salon unterstützen
-> Diese Zusammenfassung ersetzt nicht das Original — sie macht Lust drauf. Der Lektüre-Salon der Neuen Zwanziger ist einer der besten deutschsprachigen Podcasts. Unterstützenswert: [steady.page/de/neuezwanziger](https://steady.page/de/neuezwanziger)
+> Diese Zusammenfassung ersetzt nicht das Original, sie macht Lust darauf. Der Lektüre-Salon der Neuen Zwanziger ist einer der besten deutschsprachigen Podcasts. Unterstützenswert: [steady.page/de/neuezwanziger](https://steady.page/de/neuezwanziger)
 
 > [!info] Wer spricht?
-> **Wolfgang M. Schmitt** und **Stefan Schulz** — Hosts des Podcasts „Die Neuen Zwanziger". Im Zentrum dieses Salons: Daniel Markovits' *The Meritocracy Trap* (2019) — eine über zweistündige Tiefenanalyse der Frage, warum das Versprechen der Leistungsgesellschaft sowohl die erschöpften Gewinner als auch die abgehängten Verlierer zerstört. Dazu sieben kürzere Besprechungen: Ben Shattucks *Die Geschichte des Klangs*, C.J. Chivers über KI-Drohnen in der Ukraine, Uwe Volkmanns BVerfG-Kritik, Hito Steyerls KI-Bilder, Benjamin Rileys LLM-Kritik, KI-generierte Fiktion und die Kriegsrhetorik deutscher Katholiken.
-> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
+> **Wolfgang M. Schmitt**, Film- und Kulturkritiker, und **Stefan Schulz**, Soziologe und Autor, die Gastgeber des Podcasts „Die Neuen Zwanziger“. Besprochen wird das Buch des Yale-Juristen **Daniel Markovits**, das es nach Aussage der beiden nicht auf Deutsch gibt; die Zitate daraus sind die Übersetzung, die im Salon vorgelesen wird.
+> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]] · [[DenkerVita/Daniel Markovits|Daniel Markovits DenkerVita]]
 
 ---
 
 ## Inhalt
 
-Diese Note konzentriert sich auf den Haupttext des Salons — Daniel Markovits' *The Meritocracy Trap* — der allein über zwei Stunden der Episode einnimmt und thematisch eine der dichtesten Besprechungen darstellt, die der Salon je geliefert hat.
+Diese Note folgt dem Haupttext des Salons, Daniel Markovits' *The Meritocracy Trap*, der gut zwei der viereinhalb Stunden einnimmt. Die kürzeren Besprechungen stehen am Ende.
 
-### Arbeit ist das neue Kapital — Die große Umkehr
+### Arbeit ist das neue Kapital
 
-[▶ 55:51] — Stefan eröffnet die Besprechung mit einem Paukenschlag in Zahlen: Drei einzelne Hedgefondsmanager verdienten 2017 mehr als eine Milliarde Dollar. Das durchschnittliche Gesamtgehalt der 175.000 Beschäftigten der Wertpapierbranche in New York City lag bei 420.000 Dollar — das Zehnfache des US-Medianeinkommens, und trotzdem nur ein Bruchteil dessen, was die Spitze verdient. Die Wall-Street-Boni explodierten von 14.000 Dollar (1985) auf über 180.000 Dollar (2017). Was Markovits daraus entwickelt, ist keine Neidkritik, sondern eine strukturelle Analyse: Im historischen Kampf zwischen Kapital und Talent hat das Talent gewonnen — aber zu einem Preis, den niemand benannt hat.
+[▶ 55:51] Stefan beginnt mit den Zahlen, die er für den eigentlichen Einstieg ins Buch hält. Drei Hedgefondsmanager verdienten 2017 jeweils mehr als eine Milliarde Dollar. Der durchschnittliche Bonus an der Wall Street stieg von etwa 14.000 Dollar im Jahr 1985 auf mehr als 180.000 Dollar 2017, und die 175.000 Beschäftigten der New Yorker Wertpapierbranche verdienten im Schnitt über 420.000 Dollar. Markovits fasst es in einen Satz: Im ewigen Kampf zwischen Kapital und Talent gewinnt heute das Talent *(gegen diese Lesart steht ein Teil der Forschung → [[#Faktencheck|Faktencheck]])*. Stefan erinnert daran, dass das Buch von 2019 ist; sieben Jahre später rede jeder Konzern über den KI-Hype.
 
-Die historische Pointe: Banker arbeiteten bis weit ins 20. Jahrhundert *weniger* als Industriearbeiter. Handbücher empfahlen, um 10 Uhr zu kommen und um 15:30 Uhr nach Hause zu gehen — wo die Ehefrau mit einem Drink wartete. Heute arbeiten Banker 80, 100, gelegentlich 120 Stunden pro Woche. Diese Umkehr ist kein Zufall, sondern das Ergebnis einer fundamentalen Verschiebung: Einkommen fließt nicht mehr primär vom Kapital zum Kapitalbesitzer, sondern von der Arbeit der Mittelschicht zur Arbeit der Oberschicht. Stefan bringt es auf den Begriff: *angestellte Kapitalisten* — Menschen, die formal Angestellte sind, aber durch ihre Position die Gewinne so stark auf sich konzentrieren, dass der Bankdirektor heute das Tausendfache des Bankangestellten verdient, wo es in den 1960ern das Fünfzigfache war.
+[▶ 59:39] Wolfgang liest die historische Pointe vor. Bis weit ins 20. Jahrhundert arbeiteten Banker *weniger* als Industriearbeiter; Handbücher empfahlen, um zehn zu kommen und um halb vier zu gehen, zu Hause warte die Ehefrau mit einem Drink. Heute arbeiten sie 80, 100, manchmal 120 Stunden in der Woche. Markovits nennt diese neue Elite eine *superordinate working class*, eine übergeordnete Arbeiterklasse, und erklärt die wachsende Ungleichheit, wie er schreibt, nicht vor allem mit einer Verlagerung des Einkommens von der Arbeit zum Kapital, *„sondern vielmehr aus einer Verlagerung des Einkommens, weg von der Arbeit der Mittelschicht hin zur Arbeit der Oberschicht“* [▶ 99:27].
 
-### Die Falle — Warum niemand rauskommt
+### Die Falle: Warum niemand hinauskommt
 
-[▶ 67:13] — Wolfgang formuliert den Kernsatz des gesamten Salons:
+[▶ 65:43] Stefan erzählt den Satz nach, auf den das Buch hinausläuft: *„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selber“*, sagt Markovits. Auf die Frage, ob das alles Spaß mache, sei die Antwort: nicht so richtig, es mache niemandem Spaß. *„Aber es wird halt gemacht, weil es die Zukunft sichert, die Dynastie absichert. Permanente Angst.“*
 
-> *„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selber."*
+[▶ 67:13] Wolfgang hat einen Bekannten, der sein Kind auf eine Privatschule schicken will, aus Angst. Begründet werde das manchmal mit der Sicherheit der öffentlichen Schulen, *„aber ich glaube, die eigentliche Angst ist natürlich: wird das Kind, wenn es 18 ist, im globalen Wettbewerb noch mitmischen können“*. Dann folgt Markovits: *„Die Leistungsgesellschaft verführt eine ängstliche und unechte Elite zu einem gnadenlosen, lebenslangen Wettstreit, um sich durch eigene, übermäßige Fleißigkeit Einkommen und Status zu sichern.“*
 
-Markovits beschreibt ein System, das buchstäblich *alle* zu Gefangenen macht. Die Elite arbeitet bis zur Erschöpfung — 2.400 abrechenbare Stunden pro Jahr in Anwaltskanzleien, was sechs Tage die Woche von 8 bis 20 Uhr bedeutet, ohne Urlaub, ohne Krankheitstage. [▶ 94:12] Wolfgang liest die entsprechende Passage vor und zählt die Konsequenzen ab: Am Ende bleiben 13 Stunden pro Tag „zum Leben" — inklusive Schlaf.
+Wie diese Fleißigkeit aussieht, liest Wolfgang später vor [▶ 93:17]: Große Kanzleien erwarteten früher rund 1.300 abrechenbare Stunden im Jahr, heute 2.400. Das heißt sechs Tage die Woche von acht bis acht, ohne Urlaub und ohne Krankheitstag.
 
-Die Falle liegt in der Identität. [▶ 79:41] Der Beruf und seine Zertifikate *sind* die Identität dieser Klasse — es gibt kein Außen, keine Reserveposition, von der aus man das Spiel verlassen könnte. Das System der Selbstausbeutung ist von dem der Ausbeutung anderer nicht mehr zu trennen. Die Mittelklasse wiederum kommt nicht aus dem meritokratischen Denken heraus, weil sie selbst an das Leistungsversprechen glaubt: Sie empört sich über Quotenregelungen und Bürgergeldempfänger, statt die Struktur zu hinterfragen. Und die Unterschicht klammert sich an dieselbe Logik — *wenn nur Leistung zählt, dann war ich eben nicht gut genug*.
+[▶ 79:41] Aussteigen kann niemand, sagt Wolfgang, denn *„der Beruf und all die Zertifikate, die man erlangt hat, ist die Identität. Da ist nicht nochmal irgendetwas draußen.“* Und die Mittelklasse, die selbst am Leistungsversprechen hängt, empöre sich über Quoten und Bürgergeld [▶ 75:42]. Stefan sieht dasselbe bei den Eltern in Hessen, die über das Gymnasium selbst entscheiden wollen, auch mit neunzig Minuten Schulweg: *„Man kann eine inhaltliche Aufklärung machen, sich darüber informieren, aber das nützt gar nichts.“* [▶ 78:02]
 
-[▶ 80:32] Wolfgang macht die systemische Unmöglichkeit am Krankenhausbeispiel deutlich: Selbst wenn sich alle gleich anstrengen und alle gleich talentiert wären, kann es nur wenige Chefärzte geben, nur einen Klinikleiter, nur fünf Fachärzte — und es muss immer Menschen geben, die pflegen, putzen, an der Pforte stehen. Das Leistungsprinzip *muss* Verlierer produzieren. Und solange es als letzte Begründung für Status akzeptiert wird, gibt es keinen Ausweg.
+[▶ 80:32] Wolfgang macht es an einem Krankenhaus deutlich. Selbst wenn sich alle gleich anstrengten und alle gleich begabt wären, gäbe es nur wenige Chefärzte, einen Klinikleiter, zwei im Management, fünf Fachärzte, und es müsse Menschen geben, die pflegen, putzen, an der Pforte stehen. Wer Leistung zur letzten Begründung für Status macht, müsse immer ein System der Verlierer akzeptieren und rechtfertige es damit, sie hätten es nicht verdient. *„Aber das ist ein Dilemma, das nicht zu lösen ist, außer mit einer anderen Wirtschaftsordnung.“*
 
-### Kastenbildung durch Bildungsinvestitionen
+> [!question] Weitergedacht
+> Wenn es nur fünf Facharztstellen gibt, entscheidet Leistung nur, *wer* sie bekommt, nicht, *wie viele* verlieren. *Wäre eine Gesellschaft gerechter, die die Stellen anders bezahlt, oder eine, die die Verlierer anders ansieht?*
 
-[▶ 68:45] — Markovits zeigt, wie sich Bildung vom Aufstiegsmechanismus zur Kastenreproduktion verwandelt hat. Die Zahlen sind erschütternd: 75.000 Dollar pro Jahr für eine Privatschule, 90.000 Dollar pro Schüler an Elite-Colleges. Princeton gibt pro Student 105.000 Dollar aus — das Essex County College 2.400. Faktor 40 bis 50 in der Ausbildungsinvestition.
+### Die Freizeitkluft: Wer lange arbeitet, versteht die Kürzere nicht
 
-> *„Die Leistungsgesellschaft verführt eine ängstliche und unechte Elite zu einem gnadenlosen, lebenslangen Wettstreit, um sich durch eigene, übermäßige Fleißigkeit Einkommen und Status zu sichern."*
+[▶ 129:53] Stefan liest, dass 56 Prozent der Hochvermögenden 70 Stunden und mehr in der Woche arbeiten. Zwischen 1965 und 2003, schreibt Markovits, wuchs der Abstand in der Freizeit zwischen dem oberen und dem unteren Zehntel um 14 Stunden pro Woche: Wer mehr verdient, arbeitet heute auch mehr. Wolfgang erinnert an Gabor Steingarts Satz, die Deutschen hätten doch *„Lust auf Wohlstand“* [▶ 131:23]. Der spreche zu einer Elite, die 60, 70 Stunden arbeitet und sich deshalb einbilde, das Hundertfache verdienen zu dürfen. Und diese Leute hätten *„überhaupt gar kein Verständnis für Leute, die weniger arbeiten wollen“*. Bei der IG Metall sei er am Vortag auf die Arbeitszeit angesprochen worden: *„sieht irgendwie gerade schlecht aus, das durchzusetzen“* [▶ 132:08].
 
-[▶ 67:58] — Stefan erzählt von einem Bekannten, der sein Kind auf eine Privatschule schicken will — aus Angst, nicht aus Snobismus. Die eigentliche Angst sei nicht die Schulsicherheit, sondern: *Wird das Kind mit 18 im globalen Wettbewerb noch mitmischen können?* Und selbst diese Investition garantiert nichts — [▶ 82:12] wer sein Kind auf eine Privatschule in Rostock schickt, ist möglicherweise immer noch im 51. Perzentil, während er glaubt, gerade eine clevere Entscheidung getroffen zu haben. Das System ist bereits abgeriegelt, bevor die meisten es bemerken.
+### Bildung als Erbe
 
-Historisch gab es an Elite-Universitäten noch ein Vererbungsprinzip — man war der Sohn eines Alumni und wurde aufgenommen. [▶ 87:54] Die meritokratische Reform ersetzte das durch Leistungsselektion, was zunächst gerechter wirkte. Aber das Ergebnis ist perverser: Jetzt muss das Kind nicht nur aus der richtigen Familie kommen, sondern zusätzlich die exorbitanten Investitionen der Eltern in Vorschule, Schule und Nachhilfe über zwei Jahrzehnte verwerten. Die alte Aristokratie war wenigstens ehrlich — die neue tarnt Kastenreproduktion als Leistung.
+[▶ 146:05] Markovits stellt eine Rechnung auf, die Wolfgang vorliest. Man lege den Unterschied zwischen dem, was für die Bildung eines reichen Kindes ausgegeben wird, und dem, was ein Kind aus der Mittelschicht bekommt, jedes Jahr in einen Treuhandfonds und zahle ihn beim Tod der Eltern aus: Die Erbschaft läge bei etwa zehn Millionen Dollar je Kind. *„Die vererben hier schon mal so steuerfrei 10 Millionen über die Bildung“*, sagt Wolfgang. Der weltweite Nachhilfemarkt sei 100 Milliarden Dollar groß, in Südkorea gingen zwölf Prozent des Haushaltseinkommens in die Nachhilfe.
+
+[▶ 110:27] Wie dicht das System schließt, liest Stefan an der Mobilität ab. Von den Kindern aus den ärmsten zwanzig Prozent der Haushalte wird nur eines von hundert je zu den obersten fünf Prozent gehören, aus der Mitte weniger als eines von fünfzig; die wirtschaftliche Ungleichheit erzeuge heute eine größere Bildungsungleichheit *„als einst die amerikanische Apartheid“*. Früher, heißt es im Salon, war der Platz an der Spitze Geburtslotterie; heute muss das Kind zusätzlich die Investitionen der Eltern verwerten.
+
+[▶ 161:25] Wolfgang nennt die Zahl, die er für Deutschland drohen sieht: 105.000 Dollar je Student in Princeton, 2.400 Dollar am Essex County College *(bei Markovits ist das der Wert von Princetons Steuerbefreiung, eine öffentliche Subvention → [[#Faktencheck|Faktencheck]])*. Stefan zieht es nach Deutschland: Er habe gelesen, in Rostock mache schon die Hälfte der Abiturienten das Abitur an einer Privatschule, und wer sein Kind dorthin schicke, hänge womöglich *„immer noch in dem 51 Prozent und nicht in den Top Ten“* [▶ 81:19]. Markovits' Satz, in Deutschland gebe es praktisch keine Privatschulen, weisen beide zurück; Wolfgang könne allein in Frankfurt zehn aufzählen [▶ 160:40].
+
+> [!question] Weitergedacht
+> Wenn zehn Millionen Dollar steuerfrei in Nachhilfe, Schulen und Universitäten vererbt werden, *ist dann die Erbschaftsteuer am falschen Ort angesetzt, oder ist Bildung gerade das Erbe, das man nicht besteuern sollte?*
 
 ### Die Income Defense Industry
 
-[▶ 118:39] — Stefan führt einen Begriff ein, der das gesamte System auf den Punkt bringt: *Income Defense Industry*. Banker, Wirtschaftsprüfer, Anwälte und andere Fachleute bilden eine Schutzinfrastruktur, die das Einkommen der Superreichen systematisch gegen Umverteilung abdichtet. Warren Buffett zahlt weniger Steuern als seine Sekretärin — nicht durch Zufall, sondern durch eine Industrie, die genau dafür gebaut wurde.
+[▶ 118:39] Stefan erklärt Markovits' Begriff, die *Income Defense Industry*, die Einkommensschutzindustrie: Banker, Wirtschaftsprüfer, Anwälte und andere Fachleute, die das Einkommen und Vermögen der Reichsten gegen Steuern und Umverteilung verteidigen. Er beschreibt sie mit dem Wort Autopoiesis, als ein System, das sich selbst erhält. Warren Buffett zahle weniger Steuern als seine Sekretärin. Er habe nachgelesen, sagt Stefan [▶ 120:10]: John Paulson habe in der Finanzkrise Finanzvehikel mitentwickelt, in der Bank ihren Verkauf propagiert, auf ihren Verlust gewettet und im Krisenjahr 2008 fünf Milliarden Dollar gewonnen *(entwickelt und verkauft hat das Papier Goldman Sachs, Paulsons Rekordjahr war 2007 → [[#Faktencheck|Faktencheck]])*.
 
-Stefan erklärt es mit dem systemtheoretischen Begriff der Autopoiesis: Sobald ein System operativ geschlossen ist, reproduziert es sich selbst. [▶ 120:55] Das Beispiel John Paulson macht die Dimension greifbar: Er entwickelte Finanzvehikel, propagierte deren Verkauf — und wettete dann gegen sie. Im Krisenjahr 2008 gewann er fünf Milliarden Dollar. Das funktioniert nur, wenn man selbst die juristischen und finanziellen Strukturen gestaltet, in denen alle anderen operieren.
+[▶ 124:52] Wie groß diese Industrie ist, zeigen Markovits' Summen: 90 Milliarden Dollar bei den hundert größten Kanzleien, 134 Milliarden bei den vier großen Prüfungsgesellschaften, 250 Milliarden bei den zehn größten Investmentbanken.
 
-Die Gesamteinnahmen der 100 größten Anwaltskanzleien: 90 Milliarden Dollar. Die vier großen Wirtschaftsprüfungsgesellschaften: 134 Milliarden. Die zehn größten Investmentbanken: 250 Milliarden Gewinn. [▶ 124:52] Das ist nicht Dienstleistung — das ist eine eigene Volkswirtschaft, deren einziger Zweck der Schutz und die Mehrung von Einkommen ist, das durch diese Industrie selbst erst möglich wurde. Ein geschlossener Kreislauf, der sich gegen jede Reform immunisiert.
+### Der Separatismus: zwei Welten in einem Land
 
-### Der Separatismus — Zwei Welten in einem Land
+[▶ 157:24] Die Elite lebt woanders. Die Hälfte der Absolventen von Harvard, Princeton und Yale wohnt in den reichsten und gebildetsten fünf Prozent der Postleitzahlgebiete, liest Stefan, und das Militär wisse genau, wo es seine Plakate *nicht* aufhängt; es holt seine Soldaten etwa aus Mississippi. Zwischen Connecticut und Mississippi liegen in der Lebenserwartung fast sechs Jahre, zwischen den USA und Nicaragua vier. Für Deutschland ergänzt Stefan, was nicht im Buch steht: Das oberste Zehntel lebe sieben Jahre länger als das unterste [▶ 158:17] *(der Vergleich setzt Bundesstaaten gegen Einkommensgruppen → [[#Faktencheck|Faktencheck]])*.
 
-[▶ 63:27] — Markovits zeigt, wie die meritokratische Elite sich geographisch, kulturell und lebensweltlich von der Mittelschicht abgetrennt hat. Die Hälfte der Absolventen von Harvard, Princeton und Yale lebt in den reichsten fünf Prozent der Postleitzahlengebiete. Das Militär weiß genau, wo es seine Rekrutierungsplakate *nicht* aufhängt.
+[▶ 156:34] Eine „interessante Operationalisierung“ nennt Stefan eine Studie über Flugzeuge: Allein dass es eine erste Klasse gibt, macht Wutausbrüche in der Economy so viel wahrscheinlicher wie eine Verspätung von neun Stunden und 29 Minuten. Müssen die Passagiere beim Einsteigen durch die erste Klasse hindurch, entspricht es 15 Stunden.
 
-Die Lebenserwartung wird zum Index des Separatismus. [▶ 158:17] Zwischen Connecticut und Mississippi liegen fast sechs Jahre — mehr als der Unterschied zwischen den USA und Nicaragua. In Deutschland, was Markovits nicht im Buch hat, aber Schulz ergänzt: Die obersten zehn Prozent leben *sieben Jahre* länger als die untersten zehn Prozent. [▶ 159:02] Sieben Jahre — mehr als die sechs, die Markovits für Amerika nennt.
+### Populismus als Antwort
 
-[▶ 156:34] Ein Befund, den Stefan als „interessante Operationalisierung" vorstellt, verdichtet den Separatismus in eine einzige Zahl: Die bloße Anwesenheit einer First-Class-Kabine im Flugzeug erhöht die Häufigkeit von Wutausbrüchen unter Economy-Passagieren um denselben Betrag wie eine Flugverspätung von 9 Stunden und 29 Minuten. Wenn sie durch die First Class *hindurchgehen* müssen: 15 Stunden. Die physische Konfrontation mit der Ungleichheit wirkt toxischer als stundenlange Verspätung.
+[▶ 128:05] Wolfgang liest Markovits' politischen Kernsatz vor: *„Populismus ist kein spontaner Ausbruch böswilliger Ressentiments, sondern vielmehr eine natürliche und sogar angemessene Reaktion auf extreme meritokratische Ungleichheit.“* Trump erscheint seinen Wählern als *blue-collar billionaire*, Milliardär im Arbeiterhemd, Obama als der meritokratische Triumph schlechthin. Der Anteil früherer Kongressabgeordneter, die Lobbyisten werden, lag 1970 bei drei Prozent und heute bei 42, bei Senatoren bei 50 Prozent *(die Zahlen gelten nur für wenige Jahre → [[#Faktencheck|Faktencheck]])*. Und [▶ 127:13] Bill Clinton und George W. Bush wuchsen noch in ähnlichen Welten auf, der eine einfach, der andere reich; ihre Kinder kennen nur noch die Welt der Elite.
 
-### Populismus als Reaktion — Trump, MEI und die Illusion der Leistung
+[▶ 129:01] Stefan liest die Wahlzahlen von 2016: In den fünfzig am wenigsten gebildeten Bezirken lag Trump 31 Punkte vorn, in den fünfzig am besten gebildeten 26 Punkte hinten. Er denkt an die thüringischen Landkreise, in denen die AfD stark ist. *„Also eindeutiger kann man es gar nicht runterbrechen.“*
 
-[▶ 128:08] — Markovits' politische Analyse ist nüchtern und schmerzhaft:
+[▶ 76:20] Stefan bringt einen Fall aus der Gegenwart. Alexandr Wang, Gründer von Scale AI, ersetzte DEI (Diversity, Equity, Inclusion) durch „MEI“, *merit, excellence, intelligence*. Darin sieht Stefan *„die Klammer, wo sich die unterste Unterschicht und die höchste Oberschicht wieder treffen“*: Jetzt zähle Leistung, keine Frauen mehr im Vorstand, und plötzlich glaubten die unten, sie würden von den CEOs mitvertreten.
 
-> *„Populismus ist kein spontaner Ausbruch böswilliger Ressentiments, sondern vielmehr eine natürliche und sogar angemessene Reaktion auf extreme meritokratische Ungleichheit."*
+> [!question] Weitergedacht
+> Markovits nennt den Populismus eine *angemessene* Reaktion. *Kann eine Reaktion angemessen sein, deren Wahl die Ungleichheit nicht verringert, die sie beklagt?*
 
-Trump ist für seine Basis ein *blue-collar billionaire* — jemand, der die Mittelklasse verkörpert, obwohl er es nicht ist. Obama hingegen ist der meritokratische Triumph schlechthin. In den 50 am wenigsten gebildeten Bezirken hatte Trump 31 Prozent Vorsprung; in den 50 am besten gebildeten 26 Prozent Rückstand. [▶ 129:01] Schulz kommentiert: „Eindeutiger kann man es gar nicht runterbrechen."
+### Marx, neu gelesen
 
-[▶ 76:29] — Alexander Wangs Umbenennung von DEI (*Diversity, Equity, Inclusion*) zu MEI (*Merit, Excellence, Intelligence*) ist für Wolfgang das Symbol der meritokratischen Falle in ihrer populistischen Dimension: Die Unterschicht und die Oberschicht finden sich in der gemeinsamen Überzeugung, dass „jetzt Leistung zählt" — die einen, weil sie glauben, dann endlich auch sie vertreten zu werden; die anderen, weil es ihr System legitimiert. Die Mittelklasse bleibt sprachlos, weil sie selbst am Leistungsglauben hängt.
+[▶ 97:40] Wolfgang hört bei Markovits immer wieder Marx. Im ersten Band des *Kapitals*, im Kapitel über den Arbeitstag, *„eins der tollsten überhaupt“*, steht der Fall einer jungen Frau, *„wie heißt sie, ich glaube Mary“*, die mit Rum und Kaffee wach gehalten wird, bis sie stirbt. Ihr modernes Gegenstück sei der Investmentbanker in London, der mit Ende zwanzig an Erschöpfung starb, nach Wochen mit 120 Stunden und mehr *(hier verschmelzen zwei Fälle → [[#Faktencheck|Faktencheck]])*. Mehr als die Hälfte der reichsten ein Prozent der Haushalte habe heute ein Familienmitglied, das mehr als 50 Stunden in der Woche arbeitet.
 
-[▶ 127:13] — Die Clintons sind Markovits' eindrücklichstes Generationenbeispiel: Bill Clinton wuchs normal auf, George W. Bush reich — aber ihre Lebenswelten waren noch ähnlich. Eine Generation später hat Chelsea Clinton nur noch Elite-Welt kennengelernt, Elite-Partner geheiratet, nie Kontakt mit der Mittelklasse gehabt. Eine einzige Generation genügte, um die Kastengrenze hermetisch zu schließen.
+[▶ 100:16] Wolfgang sucht einen Namen für diese Elite und findet ihn: *angestellte Kapitalisten* [▶ 149:19]. Formal sind sie Angestellte, aber sie ziehen die Gewinne so an sich, dass ein Bankdirektor heute das Tausendfache eines Bankangestellten verdient, wo es früher das Fünfzigfache war. Das sei etwas, *„weil Marx das nicht voraussehen konnte“* [▶ 101:04].
 
-### Marx revisited — Von der Fabrik zur Kanzlei
+[▶ 167:26] Markovits schließt mit Marx: Die Arbeiter der Welt, jetzt Mittelschicht und Oberschicht, sollten sich vereinigen, sie hätten nichts zu verlieren als ihre Ketten. *„Da ist Marx wirklich zur Literatur verkommen“*, sagt Wolfgang. Warum der Satz nicht trägt, hatte er früh gesagt [▶ 78:51]: Die Arbeiter bei Marx hatten nichts zu verlieren als ihre Ketten, *„aber diese Leute, die so verrückt arbeiten und auf die Frage, wie geht's dir, immer nur antworten, so busy, dass diese Leute dann doch einiges zu verlieren haben, nämlich diesen Status“*.
 
-[▶ 97:40] — Markovits zieht den Marx-Bezug bewusst, und Wolfgang erkennt die Parallele im ersten Band des *Kapitals*: das Kapitel zur Arbeitszeit, in dem Marx schildert, wie Arbeiter bis zum Tod ausgebeutet werden. Der Fall Mary — ein Mädchen, das mit Rum und Kaffee wach gehalten wurde, bis sie starb — hat sein modernes Pendant: [▶ 98:32] Ein Investmentbanker in London, Ende 20, stirbt an Erschöpfung nach 120-Stunden-Wochen.
+### Was Wolfgang dem Buch vorhält
 
-Der entscheidende Unterschied: Marx' Arbeiter verkauften ihre Körperkraft. Markovits' „angestellte Kapitalisten" verkaufen ihre kognitive Leistung — und beuten dabei die Mittelklasse aus, deren Arbeit sie managen. [▶ 101:53] Stefan arbeitet die Unschärfe heraus: Die alte Formel „alle, die ihre Arbeitskraft verkaufen müssen, sind Arbeiter" funktioniert nicht mehr. Die neue Elite ist formal angestellt, aber zugleich Kapitalist — durch Aktienoptionen, Boni, Firmenbeteiligungen. Marx hätte das nicht voraussehen können, aber die Dynamik der Ausbeutung ist dieselbe.
+[▶ 78:51] Die Lösungsvorschläge seien *„kaum der Rede wert … ein verzweifelter Versuch, Handlungen vorzutäuschen oder Handlungsmöglichkeiten zu simulieren“*, sagt Wolfgang. Markovits schlägt zwei Dinge vor, einen neuen New Deal und, die Universitäten aus dem Status der Gemeinnützigkeit zu holen, der ihnen heute Steuerfreiheit sichert [▶ 161:25]; Stefan erläutert den New Deal als die eine Zeit, in der man Eigentumsverhältnisse schon einmal umgebaut habe [▶ 166:07]. Für Wolfgang liegt die Schwäche tiefer: Was Markovits nicht leisten wolle oder könne, sei, *„grundsätzlich [zu] beschreiben …, wie das System funktioniert, also der Kapitalismus“* [▶ 79:41].
 
-[▶ 168:13] Markovits endet das Buch mit einem bewusst literarisch gewordenen Marx-Zitat: *„Die Arbeiter der Welt — jetzt sowohl die Mittelschicht als auch die Oberschicht — sollten sich vereinen. Sie haben nichts zu verlieren als ihre Ketten und eine ganze Welt zu gewinnen."* Wolfgang kommentiert trocken: „Da ist Marx wirklich zur Literatur verkommen." Der Appell klingt kraftvoll — aber das Buch selbst hat gerade 300 Seiten lang bewiesen, warum er ins Leere läuft.
+[▶ 86:11] Trotzdem sei es ein großes Buch. Markovits hätte es machen sollen wie Thorstein Veblen mit seiner *Theorie der feinen Leute* über die Freizeitklasse: *„einfach nur beschrieben“*. *„Man kann die letzten 30 Seiten sich vielleicht sparen des Buches und hat ein sensationelles Buch dann in den Händen.“*
 
-### Humanistische Bildung als Gegenpol
+### Bildung, die nichts verwerten muss
 
-[▶ 172:16] — Wolfgang entwickelt in der letzten halben Stunde das, was er als eigentliche Gegenbewegung sieht: nicht die Umverteilung (die kommt nicht), sondern die Wiederentdeckung nicht-instrumenteller Bildung.
+[▶ 171:30] Gegen Ende entwickelt Wolfgang, was er die interessante Gegenbewegung nennt, eine Bildung, die nicht verwertet werden muss:
 
-> *„Was wir hier produziert bekommen bei dieser sogenannten Elite — das ist eine ungebildete Elite. Die ist zwar exzellent in diesen partikularen Fällen, die hat auch ordentlich Rechenleistung im Kopf und die kann auch fünf Sprachen. Aber eine wirkliche Bildung, eine wirkliche Grundlage, was eigentlich das Leben bedeutet, ist bei diesen Leuten nicht mehr anzutreffen, weil sie eigentlich nur von Fall zu Fall, von einem Zertifikat zum nächsten leben."*
+> *„Denn was wir ja hier produziert bekommen bei dieser sogenannten Elite … dass man da eigentlich so eine ungebildete Elite herangezüchtet hat. Die ist zwar exzellent in diesen partikularen Fällen, die hat auch ordentlich Rechenleistung im Kopf und die kann auch fünf Sprachen und all das. Und die hat auch schon 17 Rhetorikkurse gebucht … Aber eine wirkliche Bildung, eine wirkliche Grundlage, was eigentlich das Leben bedeutet, ist bei diesen Leuten ja nicht mehr anzutreffen, weil sie eigentlich nur von Fall zu Fall von einem Zertifikat zum nächsten leben.“*
 
-Das humanistische Bildungsideal — in Europa und besonders in Deutschland einst hochgehalten — wird von der meritokratischen Logik systematisch entwertet. Gabor Steingart hat es offen formuliert: Unser Problem sei, dass wir an diesem Bildungsideal noch festhalten. Wolfgang dreht das um: Genau dieses Festhalten ist die einzige Gegenkraft. Und die müsse nicht den Reichen erklärt werden, sondern selbstbewusst aus der Mittelklasse heraus artikuliert werden: *Wir* sind diejenigen, die mit dem Leben etwas Vernünftiges anzufangen wissen und nicht 90 Stunden arbeiten wollen.
+Gabor Steingart habe betont, unser Problem sei, dass wir am humanistischen Bildungsideal noch festhielten; er wolle eine Bildung, die sich instrumentell nutzen lässt. Wolfgang dreht es um. Dieses Festhalten müsse selbstbewusst vertreten werden, aus der Mittelklasse heraus und von allen anderen, und es müsse politisch unterstützt werden.
 
-[▶ 153:53] — Stefan ergänzt die KI-Perspektive: Keynes sagte 1930, die technologischen Innovationen würden einen Drei-Stunden-Tag ermöglichen. KI wird dieses Versprechen ebenso wenig einlösen. Für alle in Organisationszusammenhängen bedeute sie zunächst: *Warum bist du nicht so gut wie die KI? Ich kann dich auch rausschmeißen.* Aber für die Unabhängigen könne sie tatsächlich Räume öffnen — AGBs verstehen, Verträge prüfen, Expertise demokratisieren. [▶ 176:09] Die offene Frage: Disruptiert KI die meritokratische Elite — oder liefert sie ihr nur neue Werkzeuge, um die Income Defense Industry noch weiter auszubauen?
+Die KI hatte Stefan schon früh ins Gespräch gebracht [▶ 71:02]. Ein Bekannter, Jurist, habe ihm Ende 2024 gesagt, sein Jurastudium sei umsonst gewesen, und genau die Berufe, die bisher über Bildung abgeriegelt waren, gerieten unter Druck. Sieben Jahre nach dem Buch kämen die Kinder aus dem *„10 Millionen Bildungsweg“*, und die KI könne es besser; *„die Abriegelung dieses Arbeitsmarkts muss neu erfunden werden“*. Keynes erwartete 1930, die Technik werde einen Drei-Stunden-Tag erlauben [▶ 153:06]. In Organisationen, sagt Stefan, heiße KI zunächst: *„Warum bist du nicht so gut wie die KI? Ich kann dich auch rausschmeißen.“* Den Unabhängigen könne sie helfen, AGB zu verstehen und Verträge zu prüfen [▶ 175:24]. Offen bleibt [▶ 176:09], ob die KI die meritokratische Elite stört oder ihr nur neue Werkzeuge gibt.
 
 ---
 
 ## Weitere Themen des Salons
 
-Der Salon behandelt neben dem Haupttext sieben kürzere Besprechungen: Ben Shattucks *Die Geschichte des Klangs* (Liebe als Erinnerung vs. gelebte Realität), C.J. Chivers über KI-Drohnen in der Ukraine (Eric Schmidt als Waffenlaborant), Uwe Volkmanns Kritik am Bundesverfassungsgericht (juristischer Formalismus als Verantwortungsflucht), ungleichheit.info (Vermögensvisualisierung), Hito Steyerls KI-Bildkritik (*Haxenporno* und *gemeine Bilder*), Benjamin Rileys LLM-Kritik (*Maschinen toter Metaphern*) und Nils Schniedermanns Analyse der kriegsbefürwortenden deutschen Katholiken.
+Neben Markovits bespricht der Salon Ben Shattucks Roman *Die Geschichte des Klangs* (Liebe als Erinnerung), C. J. Chivers' Reportage über KI-Drohnen in der Ukraine und Eric Schmidts Rolle darin, Uwe Volkmanns Kritik am Bundesverfassungsgericht in der FAZ, die Website ungleichheit.info zur Vermögensverteilung (aus dem Umfeld von Martyna Linartas' *Unverdiente Ungleichheit*), Hito Steyerls KI-Bildkritik („gemeine Durchschnittsbilder“), Benjamin Rileys Kritik an Sprachmodellen als „Maschinen toter Metaphern“, Vauhini Varas Text im *New Yorker* darüber, ob Leser KI-Texte lieber mögen, und Nils Schniederjanns Artikel im *Freitag* über deutsche Katholiken und den Krieg. Zum Schluss: Haydns Streichquartette op. 76, eingespielt vom Quatuor Arod.
+
+---
+
+<!-- NACHBESPRECHUNG -->
+
+## Was seither geschah
+
+*Stand: 21.11.2026, gut zehn Monate nach dem Salon.*
+
+- **Privatschulen in Deutschland: stabil, nicht steigend.** Im Schuljahr 2025/26 besuchten 818.800 Schülerinnen und Schüler an allgemeinbildenden Schulen eine private Schule, 9 Prozent, wie in den Jahren davor. Über zwanzig Jahre ist der Anteil gewachsen, von 6,0 auf gut 9 Prozent, zuletzt nicht mehr ([Destatis, November 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_384_213.html)).
+- **Die Lücke in der Lebenserwartung wächst, nach Regionen gemessen.** Zwischen den ärmsten und den reichsten Kreisen Deutschlands lag sie 2020–2022 bei 7,2 Jahren für Männer und 4,3 für Frauen, nach 5,7 und 2,6 Jahren 2003–2005 ([Tetzlaff, Michalski & Hoebel 2025](https://doi.org/10.25646/13026), Todesursachenstatistik). Stefans sieben Jahre passen damit auf die Männer.
+- **Die Kürzungen der Entwicklungshilfe treffen nicht nur die USA.** Eine Prognose in *Lancet Global Health* rechnet bei starken Kürzungen bis 2030 mit 22,6 Millionen zusätzlichen Todesfällen, davon 5,4 Millionen Kinder unter fünf Jahren; für Deutschland erwartet sie bis 2026 ein Drittel weniger Entwicklungshilfe als 2023, für die USA mehr als die Hälfte weniger ([Ferreira da Silva u. a. 2026](https://doi.org/10.1016/s2214-109x(26)00008-2), Prognosemodell).
+- **Die Spitzengehälter steigen weiter.** Für 2025 meldet der Gewerkschaftsbund AFL-CIO im Aktienindex S&P 500 eine durchschnittliche Vorstandsvergütung von 22,8 Millionen Dollar, 2024 waren es 18,9 Millionen, Elon Musks Tesla-Paket nicht eingerechnet ([AFL-CIO Executive PayWatch](https://aflcio.org/paywatch)).
 
 ---
 
 ## Faktencheck
 
-> [!success] Bestätigt — Einkommensexplosion an der Wall Street
-> Die Zahlen zur Einkommensschere sind durch Thomas Piketty (*Capital in the Twenty-First Century*, 2014) und das World Inequality Lab bestätigt: Die obersten 1% der US-Haushalte vereinen ca. 20% des Gesamteinkommens. CEO-Vergütung im S&P 500 lag 2023 bei median 16,3 Mio Dollar (AFL-CIO Executive PayWatch). Quelle: [World Inequality Database](https://wid.world)
+*Stand des Gesprächs, Januar 2026.*
 
-> [!success] Bestätigt — Lebenserwartungskluft in Deutschland
-> Stefan Schulz' Ergänzung, dass die obersten 10% in Deutschland 7 Jahre länger leben als die untersten 10%, ist durch das Robert Koch-Institut bestätigt. Die Studie „Gesundheitliche Ungleichheit in Deutschland und im internationalen Vergleich" (2016) beziffert den Unterschied bei Männern auf ca. 8,6 Jahre, bei Frauen auf ca. 4,4 Jahre. Quelle: [RKI — Journal of Health Monitoring](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/ConceptsMethods/JoHM_2016_02_gesundheitliche_ungleichheit.html)
+> [!note] Korrigiert am 21.11.2026
+> Die frühere Fassung dieser Note hat Sätze den falschen Personen zugeschrieben. Den Satz vom größten Opfer der meritokratischen Klasse sagt Markovits, nicht Wolfgang; Stefan erzählt ihn nach. Den Bekannten mit der Privatschule hat Wolfgang, nicht Stefan. Den Begriff „angestellte Kapitalisten“ prägt Wolfgang, nicht Stefan und nicht Markovits, und über Alexandr Wang spricht Stefan. Die Sprecher sind am Ton bestimmt, an Mikrofon und Raum der beiden. Gestrichen sind außerdem Sätze, die wir selbst hinzugefügt hatten („Die alte Aristokratie war wenigstens ehrlich“, das Buch habe „300 Seiten lang bewiesen“, warum Marx' Appell ins Leere laufe), und neu ist Wolfgangs Kritik am Buch. Auch der alte Faktencheck hatte Fehler: Die Privatschulquote lag bei 9 und nicht bei 11 Prozent, die Lebenserwartungsstudie ist von 2019, und die Zahlen zu den Lobbyisten stammen nicht von OpenSecrets.
 
-> [!warning] Vereinfacht — Princeton vs. Essex County College
-> Die genannten 105.000 Dollar pro Student (Princeton) vs. 2.400 Dollar (Essex County) sind plausibel in der Größenordnung, aber nicht direkt vergleichbar. Princetons Ausgaben umfassen Forschungsinfrastruktur, Stiftungserträge und Housing; Community Colleges haben andere Strukturen. Der Faktor 40 ist real, die Implikation — dass mehr Geld automatisch bessere Bildung bedeutet — ist von Markovits selbst nicht so gemeint, aber in der Salon-Diskussion nicht ausreichend differenziert. Keine unabhängige Quelle gefunden, die exakt diese Zahlen für 2019 bestätigt.
+> [!success] Bestätigt — Wall-Street-Boni und Hedgefonds-Milliardäre 2017
+> Der Rechnungsprüfer des Staates New York schätzte den durchschnittlichen Bonus in der New Yorker Wertpapierbranche für 2017 auf 184.220 Dollar, bei 176.900 Beschäftigten; 1985 lag er bei 13.970 Dollar. Beide Werte sind nominal, nach der Teuerung ist der Anstieg kleiner. Hedgefondsmanager mit mehr als einer Milliarde verdienten 2017 sogar vier, nicht drei. Die 420.000 Dollar Durchschnittsgehalt haben wir an der Quelle nicht gefunden; für 2016 nennt der Bericht 375.200 Dollar.
+> Quelle: [NY State Comptroller, März 2018 (Archiv)](https://web.archive.org/web/2018/https://www.osc.state.ny.us/press/releases/mar18/032618.htm) · [CNBC, 30.05.2018](https://www.cnbc.com/2018/05/30/four-hedge-fund-managers-top-1-billion-in-pay.html)
 
-> [!success] Bestätigt — First-Class-Wutausbrüche
-> Die Studie von DeCelles & Norton (*Physical and situational inequality on airplanes predicts air rage*, PNAS, 2016) belegt: Die Präsenz einer First-Class-Kabine erhöht Economy-Wutausbrüche um den Faktor einer 9,33-Stunden-Verspätung; das Durchgehen durch die First Class auf 15 Stunden. Quelle: [PNAS](https://doi.org/10.1073/pnas.1521727113)
+> [!warning] Umstritten — „Arbeit ist das neue Kapital“
+> Markovits' Kernthese ist in der Forschung nicht ausgemacht. Thomas Piketty, Emmanuel Saez und Gabriel Zucman zeigen, dass der Anteil des obersten Prozents am Einkommen in den USA bis in die 1990er vor allem über Arbeitseinkommen stieg, seit Ende der 1990er aber vor allem über Kapitaleinkommen. Matthew Smith und Kollegen halten dagegen, dass der typische Spitzenverdiener den größten Teil seines Einkommens aus eigener Arbeit und eigenem Können bezieht.
+> Quelle: [Piketty, Saez & Zucman 2016](https://doi.org/10.3386/w22945) (Arbeitspapier) · [Smith u. a. 2019](https://doi.org/10.1093/qje/qjz020) (Steuerdaten)
 
-> [!warning] Vereinfacht — Deutschland hat „praktisch keine Privatschulen"
-> Markovits' Aussage über Deutschland wird im Salon selbst korrigiert. Wolfgang zählt allein in Frankfurt zehn Privatschulen auf. Laut Statistischem Bundesamt besuchten 2023 etwa 11% aller Schüler eine Privatschule — Tendenz steigend. Die Aussage ist auch deshalb irreführend, weil das deutsche Grundgesetz (Art. 7 Abs. 4) Privatschulen zwar erlaubt, aber ein Sonderungsverbot vorsieht (keine Trennung nach Besitzverhältnissen), das in der Praxis zunehmend unterlaufen wird. Quelle: [Destatis — Privatschulen](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Tabellen/allgemeinbildende-privatschulen-bl.html)
+> [!warning] Vereinfacht — Princeton und das Essex County College
+> Bei Markovits sind die 105.000 Dollar nicht Princetons Ausgaben je Student, sondern der Wert seiner Steuerbefreiung je Student, also eine öffentliche Förderung. Daneben stehen die öffentlichen Ausgaben von 12.300 Dollar je Student an der Rutgers University und 2.400 Dollar am Essex County College. Die Pointe ist damit schärfer als im Salon: Der Staat fördert den Studenten in Princeton rund vierzigmal so stark.
+> Quelle: [Markovits, *The Meritocracy Trap*, Auszug](https://www.likevillepodcast.com/articles/2020/8/14/reforming-elite-education-a-selection-from-daniel-markovitss-the-meritocracy-trap-2019)
 
-> [!success] Bestätigt — Lobbyismus-Quote ehemaliger Kongressmitglieder
-> Die von Markovits genannten Zahlen (3% in den 1970ern, heute 42% bzw. 50% bei Senatoren) sind durch das Center for Responsive Politics und OpenSecrets bestätigt. Eine Studie von Lee Drutman (*The Business of America is Lobbying*, 2015) dokumentiert diesen Trend umfassend. Quelle: [OpenSecrets — Revolving Door](https://www.opensecrets.org/revolving/)
+> [!danger] Falsch — John Paulson, „2008 fünf Milliarden“, „Vehikel mitentwickelt“
+> Das Wertpapier ABACUS 2007-AC1 hat Goldman Sachs gebaut und verkauft. Paulsons Fonds zahlte Goldman dafür, wählte heimlich Hypothekenpapiere mit aus und wettete dann dagegen; angeklagt hat die Börsenaufsicht SEC Goldman, nicht Paulson. Sein persönlicher Rekordgewinn fiel 2007 an, mit 3,7 Milliarden Dollar. Stefans Fassung macht aus dem, der wettet, einen, der baut, und das passt besser zur Erzählung von der Einkommensschutzindustrie, als die Fakten hergeben.
+> Quelle: [SEC, Pressemitteilung 2010-59](https://www.sec.gov/news/press/2010/2010-59.htm) · [Reuters, 16.04.2008](https://www.reuters.com/article/business/hedge-fund-manager-paulson-earns-37-billion-idUSL16935250/)
+
+> [!warning] Vereinfacht — Buffett und seine Sekretärin
+> Buffett zahlte einen niedrigeren Steuer*satz* als seine Sekretärin, keinen niedrigeren Betrag; der Grund ist die niedrige Steuer auf Kapitalerträge, die Buffett selbst kritisiert. Die Regierung Obama machte daraus 2012 die „Buffett Rule“, mindestens 30 Prozent auf Einkommen über einer Million.
+> Quelle: [White House, *The Buffett Rule* (2012)](https://obamawhitehouse.archives.gov/sites/default/files/Buffett_Rule_Report_Final.pdf)
+
+> [!note] Ungeprüft — Kanzleien 90, Prüfer 134, Investmentbanken 250 Milliarden
+> Die drei Summen haben wir an keiner Primärquelle gefunden. Bei den Investmentbanken dürfte der Umsatz gemeint sein, nicht der Gewinn.
+
+> [!success] Bestätigt — Connecticut und Mississippi
+> 2019 lag die Lebenserwartung bei Geburt in Connecticut bei 80,3 Jahren, in Mississippi bei 74,4, ein Abstand von 5,9 Jahren. Zwischen den USA und Nicaragua lagen im selben Jahr rund fünf Jahre.
+> Quelle: [Arias u. a., *U.S. State Life Tables, 2019*](https://www.cdc.gov/nchs/data/nvsr/nvsr70/NVSR70-18.pdf) · [Weltbank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=NI-US)
+
+> [!warning] Vereinfacht — „In Deutschland sieben Jahre“
+> Hier stehen zwei verschiedene Abstände nebeneinander. Die knapp sechs Jahre in den USA trennen zwei Bundesstaaten, die deutschen Zahlen trennen Einkommensgruppen. Nach Einkommen leben in Deutschland Männer mit weniger als 60 Prozent des mittleren Einkommens 8,6 Jahre kürzer als die mit mehr als 150 Prozent, Frauen 4,4 Jahre ([Lampert, Hoebel & Kroll 2019](https://doi.org/10.25646/5872), Haushaltsbefragung). In den USA ist der Abstand nach Einkommen weit größer: 14,6 Jahre bei Männern zwischen dem reichsten und dem ärmsten Prozent ([Chetty u. a. 2016](https://doi.org/10.1001/jama.2016.4226), Steuer- und Sterbedaten). Deutschland steht also nicht schlechter da als die USA.
+
+> [!success] Bestätigt — Wutausbrüche im Flugzeug
+> Die Studie von Katherine DeCelles und Michael Norton findet bei einer Fluggesellschaft: Eine erste Klasse an Bord erhöht die Chance auf einen Wutausbruch in der Economy so stark wie neun Stunden und 29 Minuten Verspätung; das Einsteigen durch die erste Klasse kommt hinzu. Gemessen ist ein Zusammenhang, keine Ursache.
+> Quelle: [DeCelles & Norton 2016](https://doi.org/10.1073/pnas.1521727113) (Einzelstudie)
+
+> [!success] Bestätigt — Trump und die Bildung der Bezirke
+> Nate Silver sortierte 2016 alle Bezirke mit mehr als 50.000 Einwohnern nach dem Anteil der Hochschulabsolventen. In den fünfzig am wenigsten gebildeten gewann Trump im Schnitt mit 30,5 Prozentpunkten, in den fünfzig am besten gebildeten lag Clinton 25,9 Punkte vorn.
+> Quelle: [Silver, FiveThirtyEight, 22.11.2016 (Archiv)](https://web.archive.org/web/2017/https://fivethirtyeight.com/features/education-not-income-predicted-who-would-vote-for-trump/)
+
+> [!warning] Vereinfacht — Lobbyisten: 3 Prozent 1970, heute 42 und 50 Prozent
+> Die 42 und 50 Prozent stammen aus einer Zählung der Organisation Public Citizen für 1998–2004, bei kleinen Zahlen (68 von 162 Abgeordneten, 18 von 36 Senatoren). Über alle Abgänge von 1976 bis 2012 liegen die Raten deutlich niedriger, vor 1980 bei zwei bis vier Prozent ([Lazarus, McKay & Herbel 2016](https://doi.org/10.1057/iga.2015.16), Einzelstudie). Der Anstieg ist echt, die Höhe schwankt je nach Zeitraum.
+> Quelle: [Public Citizen 2005](https://www.citizen.org/?p=23206)
+
+> [!success] Bestätigt — Alexandr Wang und „MEI“
+> Am 13. Juni 2024 schrieb der Gründer von Scale AI im Firmenblog, das Leitprinzip seiner Einstellungen sei „MEI: merit, excellence, and intelligence“, als Abgrenzung von DEI.
+> Quelle: [Wang, „Meritocracy at Scale“](https://scale.com/blog/meritocracy-at-scale)
+
+> [!success] Bestätigt — Mary Anne Walkley bei Marx
+> Im *Kapital*, Band 1, Kapitel über den Arbeitstag: Die Putzmacherin Mary Anne Walkley, 20, starb im Juni 1863 nach 26½ Stunden Arbeit ohne Pause. Aufrecht erhalten wurde sie dort mit Sherry, Portwein oder Kaffee, nicht mit Rum.
+> Quelle: [Marx, *Capital*, Vol. I, Ch. 10 (marxists.org)](https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm)
+
+> [!warning] Vereinfacht — Der Londoner Banker, „Ende 20, 120 Stunden“
+> Hier verschmelzen zwei Fälle. Moritz Erhardt, 21, war Praktikant bei der Bank of America Merrill Lynch in London und starb im August 2013 an einem epileptischen Anfall; die Untersuchungsrichterin hielt Erschöpfung als Auslöser für möglich. Leo Lukenas, 35, Associate der Bank of America in New York, starb im Mai 2024; die 120-Stunden-Wochen stammen aus sozialen Medien, die Bank bestritt sie.
+> Quelle: [BBC, 22.11.2013](https://www.bbc.co.uk/news/business-25051924) · [eFinancialCareers, 09.05.2024](https://www.efinancialcareers.com/news/bank-of-america-says-leo-lukenas-didn-t-work-120-hour-weeks)
+
+> [!success] Bestätigt — Markovits' Marx-Schluss
+> Markovits zieht diesen Schluss selbst: Die Arbeiter der Welt, Arbeiter- und Mittelschicht und nun auch die übergeordnete Klasse, sollten sich vereinigen. Belegt in seinem Vortrag an der London School of Economics vom 8. Mai 2019; dass der Satz wörtlich das Buch beschließt, sagt der Salon.
+> Quelle: [Markovits, LSE-Vortrag, Folien](https://www.lse.ac.uk/Events/Events-Assets/PDF/2019/02-ST/20190508-The-Meritocracy-Trap.pdf)
+
+> [!success] Bestätigt — Keynes' Drei-Stunden-Tag
+> Keynes schrieb 1930 von „three-hour shifts or a fifteen-hour week“, für „a hundred years hence“, also etwa 2030.
+> Quelle: [Keynes, *Economic Possibilities for our Grandchildren*](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf)
+
+> [!warning] Vereinfacht — „600.000 Tote“ durch das Ende von USAID
+> Stefan nennt die Zahl in der Schlussrunde als verzeichnet [▶ 169:52]. Sie ist eine Modellschätzung, kein Zählergebnis: Sie stammt aus einem Rechenmodell der Epidemiologin Brooke Nichols von der Boston University. Eine Prognose im *Lancet* rechnet bei anhaltenden Kürzungen mit mehr als 14 Millionen zusätzlichen Todesfällen bis 2030.
+> Quelle: [Harvard Chan School, 20.11.2025](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/) · [Cavalcanti u. a. 2025](https://doi.org/10.1016/s0140-6736(25)01186-9) (Prognosemodell)
+
+> [!warning] Vereinfacht — Privatschulen in Deutschland
+> Markovits' Satz, es gebe in Deutschland praktisch keine Privatschulen, weisen die beiden zu Recht zurück: 2022/23 gingen 9,2 Prozent der Schülerinnen und Schüler auf eine private Schule, im Schnitt bei 2.030 Euro Schulgeld im Jahr; das ist der eigentliche Abstand zu den amerikanischen Summen. Das Grundgesetz erlaubt private Schulen nur, wenn sie Kinder nicht nach dem Einkommen der Eltern trennen (Art. 7 Abs. 4). Dass in Rostock die Hälfte der Abiturienten auf eine Privatschule gehe, haben wir nicht belegt gefunden.
+> Quelle: [Destatis, Oktober 2023](https://www.destatis.de/DE/Presse/Pressemitteilungen/2023/10/PD23_N054_21.html) · [Art. 7 GG](https://www.gesetze-im-internet.de/gg/art_7.html)
+
+> [!note] Ungeprüft — Gabor Steingart und das humanistische Bildungsideal
+> Eine belegbare Äußerung Steingarts, das Festhalten am humanistischen Bildungsideal sei „unser Problem“, haben wir nicht gefunden. Es steht hier als Wolfgangs Wiedergabe.
 
 ---
 
 ## Weiterführende Quellen
 
-*Aus der Episode / dem besprochenen Buch:*
+*Aus der Episode und dem besprochenen Buch:*
 
-- Daniel Markovits: *The Meritocracy Trap* — [Penguin](https://www.penguin.co.uk/books/300208/the-meritocracy-trap-by-markovits-daniel/9780141984742)
-- Michael Sandel: *The Tyranny of Merit* (2020) — in der Diskussion mehrfach als Parallellektüre erwähnt
-- Thorstein Veblen: *The Theory of the Leisure Class* (1899) — historische Kontrastfolie für die Wende von Freizeit- zu Arbeitsgesellschaft
-- Pierre Bourdieu: *Die feinen Unterschiede* (1979) — Distinktionsmechanismen, auf die Markovits aufbaut
-- Julia Friedrichs: *Gestatten: Elite* (2008) — deutsche Perspektive, im Salon als „mehr Reportage" eingeordnet
-- [ungleichheit.info](https://www.ungleichheit.info/de) — Datenvisualisierung zur Vermögensverteilung (im Salon empfohlen)
+- Daniel Markovits: *The Meritocracy Trap* (2019) — [Penguin](https://www.penguin.co.uk/books/300208/the-meritocracy-trap-by-markovits-daniel/9780141984742)
+- Michael Sandel: *Vom Ende des Gemeinwohls* (*The Tyranny of Merit*, 2020) — im Salon als Parallele genannt
+- Thorstein Veblen: *Theorie der feinen Leute* (*The Theory of the Leisure Class*, 1899) — Wolfgangs Vorbild für ein Buch, das „einfach nur beschreibt“
+- [ungleichheit.info](https://www.ungleichheit.info/de) — Vermögensverteilung in Bildern, im Salon empfohlen
+- Karl Marx: *Das Kapital*, Band 1, Kapitel „Der Arbeitstag“
+- Paul Lafargue: *Das Recht auf Faulheit* (1883)
+- John Maynard Keynes: *Economic Possibilities for our Grandchildren* (1930)
+- [DeCelles & Norton 2016](https://doi.org/10.1073/pnas.1521727113): Ungleichheit im Flugzeug und Wutausbrüche
 
-*Im Salon zitierte Quellen:*
+*Aus dem Faktencheck:*
 
-- Karl Marx: *Das Kapital*, Band 1, Kapitel zur Arbeitszeit — Parallele zur modernen Selbstausbeutung
-- Paul Lafargue: *Das Recht auf Faulheit* (1883) — Schwiegersohn von Marx, historischer Gegenentwurf
-- John Maynard Keynes: *Economic Possibilities for our Grandchildren* (1930) — die uneingelöste Prognose des Drei-Stunden-Tags
-- DeCelles & Norton: *Physical and situational inequality on airplanes predicts air rage* (PNAS, 2016)
+- [Lampert, Hoebel & Kroll 2019](https://doi.org/10.25646/5872) · [Tetzlaff, Michalski & Hoebel 2025](https://doi.org/10.25646/13026): Lebenserwartung und soziale Lage in Deutschland
+- [Chetty u. a. 2016](https://doi.org/10.1001/jama.2016.4226): Lebenserwartung nach Einkommen in den USA
+- [Smith u. a. 2019](https://doi.org/10.1093/qje/qjz020): Arbeit oder Kapital an der Spitze, die Gegenstimme zu Markovits
+- [SEC 2010-59](https://www.sec.gov/news/press/2010/2010-59.htm): Goldman, Paulson und ABACUS
 
 ---
 
@@ -162,45 +267,51 @@ Der Salon behandelt neben dem Haupttext sieben kürzere Besprechungen: Ben Shatt
 
 ### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 
-Die *meritokratische Falle* und die *Gefangenen des Systems* sind zwei Perspektiven auf dasselbe Phänomen — und ihre Synthese ist explosiv. Markovits beschreibt die *strukturelle* Falle: Wie die Leistungsgesellschaft alle zu Gefangenen macht, die Elite durch Selbstausbeutung, die Mittelklasse durch falsches Bewusstsein. Die Gefangene-Note liefert die *psychologische* Innenperspektive: Welche Erziehungssysteme bringen Menschen hervor, die Macht ausüben, ohne das Leid zu spüren, das sie verursachen? Markovits' „ängstliche und unechte Elite" ist Schaveriens Boarding-School-Syndrome in ökonomischer Sprache. Die 75.000 Dollar pro Privatschuljahr *sind* die Investition in die emotionale Dissoziation, die die Gefangene-Note beschreibt. Und die „exzellenten Schafe" — intelligent, aber orientierungslos, von Prüfung zu Prüfung hangelnd — sind das Produkt beider Mechanismen: ökonomischer Druck *und* emotionale Verarmung.
-
-### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems (Elon Musk)]]
-
-Musk als DOGE-Chef, der USAID zerschlägt und 600.000 Tote in Kauf nimmt, ist für Stefan das Paradebeispiel der „Weltveränderungs-Ambition" der Superreichen [▶ 170:42]. Die Gefangene-Note erklärt, *warum* gerade solche Menschen so handeln: Kindheitstrauma, Dissoziation, Kontrolle als Ersatz für Bindungsfähigkeit. Markovits ergänzt das *Wie*: Das meritokratische System selektiert und belohnt genau diese Persönlichkeitsstruktur.
+Die meritokratische Falle und die Gefangenen des Systems sind zwei Blicke auf dasselbe. Markovits beschreibt die Struktur, die alle zu Gefangenen macht, die Gefangene-Note die Innenseite: welche Erziehung Menschen hervorbringt, die Macht ausüben, ohne das Leid zu spüren, das sie verursachen. Markovits' „ängstliche und unechte Elite“ und das Boarding-School-Syndrom, das Joy Schaverien beschreibt, erzählen von denselben Kindern, einmal in Zahlen, einmal in Gefühlen. In der Schlussrunde sagt Stefan, es lohne nicht, Eltern, die 600.000 Euro im Jahr verdienen, ihre Falle zu erklären: Sie würden ihr Kind trotzdem nach Salem schicken [▶ 169:52].
 
 ### → [[Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 
-Osnos' Bunker-Kultur der Ultrareichen ist die Endstation von Markovits' Separatismus. Wenn die Elite sich geographisch, kulturell und lebensweltlich abgetrennt hat, ist der Bunker nur noch die physische Manifestation einer psychischen Realität. Beide Texte konvergieren im selben Befund: Die Superreichen leben bereits in einer anderen Welt — die Frage ist, ob sie das freiwillig tun oder ob das System sie dorthin zwingt. Markovits sagt: beides.
+Osnos' Bunker der Ultrareichen sind die Endstation von Markovits' Separatismus. Wo die Elite in den reichsten fünf Prozent der Postleitzahlen wohnt und das Militär dort keine Plakate aufhängt, ist der Bunker nur noch die Wand, die man sehen kann.
 
 ### → [[Clara Mattei|Clara Mattei — Capital Order]]
 
-Mattei beschreibt die *politische* Konstruktion ökonomischer Austerität — wie Sparmaßnahmen bewusst eingesetzt werden, um Arbeitermacht zu brechen. Markovits zeigt die *meritokratische* Variante desselben Mechanismus: Die Aufstiegsillusion ersetzt die offene Repressionspolitik durch ein System, in dem sich die Ausgeschlossenen selbst die Schuld geben. Matteis „Capital Order" und Markovits' „Meritocracy Trap" sind komplementäre Beschreibungen derselben Machtarchitektur.
+Mattei beschreibt die Sparpolitik als bewusstes Mittel, Arbeitermacht zu brechen. Markovits zeigt eine leisere Fassung: Eine Ordnung, in der die Ausgeschlossenen glauben, sie hätten es nicht verdient, braucht weniger offene Härte. Wolfgangs Einwand, Markovits beschreibe den Kapitalismus nicht, ist genau der Punkt, an dem Mattei weitergeht.
 
 ### → [[Christoph Butterwegge — Armut NEU DENKEN]]
 
-Butterwegge wird im Salon explizit als idealer Vorwort-Autor für eine deutsche Ausgabe des Buches genannt [▶ 168:13]. Seine Arbeit zur deutschen Armutspolitik ist die notwendige Ergänzung: Wo Markovits die Kluft zwischen Elite und Mittelschicht analysiert, dokumentiert Butterwegge die Konsequenzen für die unteren 50%, die Markovits bewusst ausblendet.
+Für eine deutsche Ausgabe des Buches, das es noch nicht gibt, wünschen sich die beiden ein Vorwort von *„jemandem wie Butterwegge“*, der sagt, was an Markovits' Deutschland-Bild nicht stimmt [▶ 168:13]; am Ende schlagen sie halb im Scherz vor, die KI das Vorwort schreiben zu lassen [▶ 178:27]. Butterwegge beschreibt die unteren Einkommen, über die Markovits wenig sagt.
 
 ### → [[Erich Fromm — Haben oder Sein]]
 
-Wolfgangs Diagnose der „ungebildeten Elite" — exzellent in Partikularfällen, aber ohne Grundlage für die Frage, was das Leben bedeutet — ist Fromms Haben-Modus in seiner reinsten Form. Die meritokratische Identität, die sich vollständig über Beruf und Zertifikate definiert [▶ 79:41], ist das Gegenteil von Fromms Sein-Modus. Die Tragödie: Diese Menschen wissen nicht einmal, was ihnen fehlt, weil sie nie Zeit hatten, es zu entdecken.
+Wolfgangs „ungebildete Elite“, exzellent im Einzelfall und ohne Grundlage für die Frage, was das Leben bedeutet, lebt von Zertifikat zu Zertifikat. Bei Fromm heißt das Haben: Man besitzt Abschlüsse, wie man Dinge besitzt. Wolfgangs Satz, der Beruf und die Zertifikate seien die Identität, *„da ist nicht nochmal irgendetwas draußen“* [▶ 79:41], ist Fromms Sorge, auf eine Klasse übertragen.
 
 ### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
-Die „durchinszenierte Leistungsgesellschaft" aus dem Vor-dem-Salon-Segment — Jake Paul vs. Mike Tyson als Symptom — ist Heitmeyers „rohe Bürgerlichkeit" auf der Bühne der Aufmerksamkeitsökonomie. Markovits liefert die ökonomische Erklärung für die Verrohung, die Heitmeyer soziologisch beschreibt.
+Vor dem Salon sprechen die beiden über den Boxkampf zwischen Jake Paul und Mike Tyson, eine Leistung als Show. Heitmeyer beschreibt die rohe Bürgerlichkeit soziologisch, Markovits gibt ihr eine ökonomische Grundlage: Wer sich alles verdient zu haben glaubt, schuldet den anderen wenig.
 
 ### → [[Hannah Arendt — Die Banalität des Bösen]]
 
-Markovits' Yale-Studenten, die alle bereit wären, 15 Stunden pro Woche für eine „an sich wertlose Aufgabe" aufzuwenden [▶ 151:21], sind eine zeitgenössische Variation von Arendts Gedankenlosigkeit. Nicht böser Wille — sondern die vollständige Absorption durch das System, die jeden Raum für Reflexion eliminiert.
+Eine Gruppe von Elitestudierenden, heißt es im Buch, war bereit, 15 Stunden in der Woche für eine an sich wertlose Aufgabe aufzuwenden, wenn sie zum Erfolg führte [▶ 151:21]. Das ist nicht böser Wille. Es ist die Gedankenlosigkeit, die Arendt beschrieb, ein Mitmachen, das keine Zeit mehr lässt, die Aufgabe selbst zu befragen.
 
 ### → [[scobel — Luhmann Abklaerung der Aufklaerung]]
 
-Stefan nutzt im Salon explizit den Luhmann-Begriff der *Autopoiesis*, um die Income Defense Industry zu erklären [▶ 118:39]: operative Schließung, Selbstreproduktion, Immunisierung gegen Störungen. Markovits' System ist ein Luhmann'sches System — es folgt seiner eigenen Logik, unabhängig von den Absichten der Beteiligten.
+Stefan denkt in Luhmanns Begriffen. Die Einkommensschutzindustrie erklärt er mit der Autopoiesis, einem System, das sich selbst erhält [▶ 118:39], und schon früher im Salon beruft er sich ausdrücklich auf Luhmann [▶ 65:43]. Markovits' System folgt seiner eigenen Logik, gleich, was die Einzelnen wollen.
 
 ### → [[William Darity Jr — Das oekonomische Erbe des Rassismus]]
 
-Markovits’ Meritokratie-Falle und Daritys Regenschirm-Bild sagen dasselbe über Bildung, von entgegengesetzten Enden: Markovits zeigt die Drehung vom Aufstiegsmechanismus zur Kastenreproduktion, Darity zeigt, dass sie am unteren Ende nie Aufstieg war. Sein entlassener Manager, der bei 300 gleichzeitigen Kündigungen an sein persönliches Versagen glaubt, ist die Falle nach innen gewendet.
+Markovits und Darity sagen dasselbe über Bildung, von entgegengesetzten Enden. Markovits zeigt, wie sie vom Aufstieg zur Weitergabe von Privilegien wurde, Darity, dass sie am unteren Ende nie Aufstieg war. Sein entlassener Manager, der bei 300 gleichzeitigen Kündigungen an sein persönliches Versagen glaubt, ist die Falle nach innen gewendet.
 
 ### → [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
 
 Die meritokratische Falle beginnt bei der Ziffer im Zeugnis: Nölte findet es fatal, dass es gute Noten nur gibt, weil es schlechte gibt, und Meidinger verteidigt die Abiturnote als besten Prädiktor des Studienerfolgs. Die Nachbesprechung liefert Markovits' erschöpfte Gewinner im Kleinen, denn abgestufte Noten verdoppeln im Medizinstudium das Burnout-Risiko.
 
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Wolfgang sagt, die Elite habe mehr zu verlieren als ihre Ketten, nämlich ihren Status. *Was müsste man ihr anbieten, damit sie ihn freiwillig kleiner macht, und gibt es so etwas?*
+> - Markovits beschreibt eine Elite, die unter ihrem Erfolg leidet. *Macht es die Ungleichheit leichter zu ertragen, wenn man weiß, dass auch die Gewinner erschöpft sind, oder ist das eine bequeme Erzählung für die Gewinner?*
+> - Stefan sagt, Aufklärung nütze nichts, die Eltern wählten trotzdem das Gymnasium. *Was würde dich davon abhalten, für dein Kind das Beste zu wollen, auch wenn du weißt, dass es anderen den Platz nimmt?*
+> - Wenn die KI die Berufe der Elite übernimmt, verliert die Bildung ihren Tauschwert. *Wird sie dann frei für das, was Wolfgang Bildung nennt, oder wird nur der nächste Zaun gebaut?*
+> - Wolfgang vermisst bei Markovits den Kapitalismus. *Gäbe es eine Leistungsgesellschaft ohne Verlierer in einer anderen Wirtschaftsordnung, oder wandern die Verlierer nur an einen anderen Ort?*

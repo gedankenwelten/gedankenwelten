@@ -61,7 +61,7 @@ Strotmann spricht als Fachmann einer Bundesbehörde, nicht als Autor; ein Buch i
 - [[DenkerVita/Manuel Atug|Manuel Atug]] — Atugs Cyber-Hilfswerk ist nach dem Vorbild des THW gedacht, und der Koalitionsvertrag 2021 gibt die Cyberhilfe ausdrücklich dem THW. Beide setzen auf Resilienz statt Gegenschlag.
 - [[DenkerVita/Christoph Mueller|Christoph Müller]] — Zwei Blicke aus dem Betrieb, uneins beim dezentralen Netz, das Strotmann für „vielleicht sogar resilienter“ hält.
 - [[DenkerVita/Sergey Lagodinsky|Sergey Lagodinsky]] — Lagodinsky nennt 72-Stunden-Vorräte und ein Radio, damit man sich nicht hilflos fühlt; Strotmann gibt dieselbe Liste mit anderem Grund: Wer sich selbst versorgt, gibt den Helfern Zeit für die Verletzten.
-- [[DenkerVita/Petra Gehring|Petra Gehring]] — Gehring verlangt Offline-Fähigkeit als demokratische Mindestanforderung, Strotmann bringt seinen Küchengeräten einen Abend lang das WLAN ab. Für beide muss das Nein im Design vorgesehen sein.
+- [[DenkerVita/Petra Gehring|Petra Gehring]] — Gehring verlangt ein digitales Bargeld, das den Eigenschaften des Bargelds möglichst nahekommt, und die Bürger ihres Gutachtens fragten nach dem Bezahlen ohne Netz, Strotmann bringt seinen Küchengeräten einen Abend lang das WLAN ab. Für beide muss das Nein im Design vorgesehen sein.
 
 ## Gedankenwelten-Notes
 

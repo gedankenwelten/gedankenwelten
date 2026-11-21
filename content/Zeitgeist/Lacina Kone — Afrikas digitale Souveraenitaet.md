@@ -226,7 +226,7 @@ Dieselbe Umkehrung von einer anderen Weltgegend aus: Souveränität nicht als Ab
 
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
-Souveränität an der Infrastruktur-Wurzel: Wo Koné vor Daten als neuer Rohstoff-Extraktion warnt, zeigen Gehring & Gießmann dasselbe Muster im Zahlungsverkehr (60–66 % der europäischen Transaktionen über US-Anbieter). Konés Mobile-Money-Leapfrog (Afrika führt mit ~70 % der globalen Transaktionen) ist das positive Gegenbild zum europäischen Abhängigkeits-Befund.
+Souveränität an der Infrastruktur-Wurzel: Wo Koné vor Daten als neuer Rohstoff-Extraktion warnt, zeigen Gehring & Gießmann dasselbe Muster im Zahlungsverkehr (laut EZB laufen rund 61 % der Kartenzahlungen im Euroraum über Visa und Mastercard). Konés Mobile-Money-Leapfrog (Afrika führt mit ~70 % der globalen Transaktionen) ist das positive Gegenbild zum europäischen Abhängigkeits-Befund.
 
 ### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]]
 
