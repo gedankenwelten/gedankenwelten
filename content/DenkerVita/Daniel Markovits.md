@@ -1,9 +1,10 @@
 ---
 title: Daniel Markovits — DenkerVita
-description: "Daniel Markovits lehrt in Yale, mitten in der Maschine, die er beschreibt: Die Meritokratie vererbt Privilegien wie früher der Adel — und erschöpft dabei sogar die eigenen Gewinner."
+description: "Daniel Markovits lehrt an der Yale Law School und nennt die Meritokratie einen goldenen Käfig: Sie schließt fast alle aus und hält ihre Gewinner in endloser Arbeit fest."
 date: 2026-05-06
-aktualisiert: 2026-05-06
-tags: [denker-vita, kapitalismus, usa, demokratie]
+aktualisiert: 2026-11-21
+raetsel: "Ein Käfig aus Zeugnissen, vergoldet. Wer drinsitzt, hält ihn für eine Leiter."
+tags: [denker-vita, soziale-ungleichheit, bildung, kapitalismus, arbeit, populismus, demokratie, recht, usa]
 ---
 
 # Daniel Markovits — DenkerVita
@@ -18,76 +19,138 @@ tags: [denker-vita, kapitalismus, usa, demokratie]
 
 </details>
 
-## Biographischer Snapshot
-
-> [!info] Wer spricht?
-> **Daniel Markovits** (*1969, Rumänien*) — Jurist, Rechtsphilosoph und Professor an der Yale Law School.
->
-> Geboren in Bukarest, emigriert als Kind mit der Familie in die USA. Studiert Mathematik und Philosophie in Yale, promoviert in Oxford und London — eine Bildungskarriere, die selbst das Muster illustriert, das er später zerlegen wird. An der Yale Law School lehrt er Vertragsrecht und Rechtsphilosophie und steht vor Studierenden, deren Schicksal er analytisch beschreibt: hoch optimiert, erschöpft, gefangen in einem System, das sie gleichzeitig privilegiert und zerstört. Sein Werk *The Meritocracy Trap* (2019) machte ihn zu einer der unangenehmsten Stimmen im amerikanischen Elitendiskurs — unangenehm, weil er aus der Mitte der Institutionen heraus spricht, die er kritisiert.
->
-> Wichtigste Werke: *The Meritocracy Trap* (2019)
-> Kernkonzepte: Meritokratische Falle, Income Defense Industry, Superordinate Working Class, Selbstausbeutung der Elite
->
-> → [[DenkerVita/Daniel Markovits|DenkerVita]]
-
----
-
 ## Biografie
 
-Daniel Markovits' Lebensweg ist selbst eine Illustration seiner These. Als Kind rumänischer Emigranten in den USA aufgewachsen, durchlief er exakt jene meritokratische Maschinerie, die er später als Falle diagnostizieren wird: Yale (Undergraduate), Oxford (MPhil), London School of Economics — und dann wieder Yale, wo er heute als Guido Calabresi Professor of Law lehrt.
+*Grundlage sind seine Seite an der Yale Law School und der dort veröffentlichte Lebenslauf (Stand September 2025), die Normdatensätze der Library of Congress und der Deutschen Nationalbibliothek, die Seiten seiner Verlage, seine Interviews mit Times Higher Education (2019) und Yale Insights (2020), seine Folien zum Vortrag an der London School of Economics (2019), ein Auszug aus dem Buch, drei Rezensionen und unser Transkript des Salons der Neuen Zwanziger. Am 21.11.2026 an Primärquellen neu geprüft. Übersetzungen aus dem Englischen von uns.*
 
-Der Wendepunkt ist nicht ein einzelnes Erlebnis, sondern eine akkumulierte Beobachtung: Jahr für Jahr stehen vor ihm in Yale die brillantesten jungen Juristen des Landes — und sie sind erschöpft, ängstlich, orientierungslos jenseits des nächsten Zertifikats. Sie wissen, wie man jeden Test besteht, aber nicht, was sie mit ihrem Leben anfangen wollen. Markovits erkennt: Das ist kein individuelles Versagen, sondern ein systemisches Produkt. Und er selbst ist Teil des Systems.
+**Daniel Markovits**, am 4. August 1969 in London geboren ([Library of Congress](https://id.loc.gov/authorities/names/n2008029483.html); [Times Higher Education](https://www.timeshighereducation.com/node/682666)), ist Rechtswissenschaftler. An der Yale Law School ist er Guido Calabresi Professor of Law und Gründungsdirektor des Center for the Study of Private Law; er schreibt über Recht, Philosophie und Ökonomie, in Fachzeitschriften wie *Science*, *The American Economic Review* und *The Yale Law Journal* und in Zeitungen wie der *New York Times* und *The Atlantic* ([Yale Law School](https://law.yale.edu/daniel-markovits)).
 
-*The Meritocracy Trap* entsteht nicht aus akademischer Distanz, sondern aus der Spannung, in einer Institution zu arbeiten, die man als Motor der Ungleichheit identifiziert hat — und nicht aufhören zu können, weil genau das die Falle ist.
+**Kindheit und Schulen.** „Wir sind während meiner ganzen Kindheit viel umgezogen“, sagte er 2019: Er besuchte Schulen in London, Stanford, Austin, Oxford und Berlin, und in jeder neuen Stadt meldeten ihn die Eltern an der staatlichen Schule an, die zu ihrer Adresse gehörte. Seine Freunde an der A. N. McCallum High School in Austin seien von Natur aus genauso fähig gewesen wie die am Balliol College in Oxford oder an der Yale Law School, „aber sie hatten ganz andere Eltern“ und landeten mit ganz anderer Ausbildung in ganz anderen Berufen. Diese Erfahrung, sagt er, trage viele der allgemeinen Argumente seines Buchs (*„This specific lived experience underwrites many of the general arguments of The Meritocracy Trap“*, Times Higher Education, 31.10.2019). Im Sommer 1987 machte er in Austin seinen Abschluss an einer öffentlichen Highschool und ging nach Yale ([The Atlantic, September 2019](https://www.theatlantic.com/magazine/archive/2019/09/meritocracys-miserable-winners/594760/)).
 
----
+**Studium.** In Yale schloss er 1991 mit einem B.A. in Mathematik ab, summa cum laude; mit einem Marshall-Stipendium ging er nach England. An der London School of Economics erwarb er 1992 einen M.Sc. in Ökonometrie und Mathematischer Ökonomie, in Oxford 1994 den B.Phil. in Philosophie (Balliol College) und 1999 den D.Phil. (Christ Church). 1996/97 war er Graduate Fellow am Center for Ethics and the Professions in Harvard. Dann studierte er Recht an der Yale Law School (J.D. 2000) und arbeitete ein Jahr als Law Clerk bei Guido Calabresi, Richter am Bundesberufungsgericht für den Zweiten Bezirk ([Lebenslauf](https://law.yale.edu/sites/default/files/documents/markovits_daniel_cv.pdf); Yale Law School). Fast fünfzehn Jahre habe er an Universitäten studiert und dabei „eine Reihe von Abschlüssen“ gesammelt (The Atlantic).
+
+**An der Yale Law School.** 2001 wurde er dort Associate Professor, 2007 Professor, seit 2010 hat er den Lehrstuhl, der nach seinem früheren Richter benannt ist (Lebenslauf). Er lehrt Vertragsrecht, Einkommensteuerrecht, Recht und Globalisierung, Theorie und Geschichte der Toleranz und ein Seminar über Meritokratie und Ungleichheit (Yale Law School). Er gründete 2014 das Center for the Study of Private Law und 2022 die Private Law Clinic der Schule; seit 2007 leitet er die lateinamerikanischen Rechtsprogramme der Yale Law School und das Seminario en Latinoamérica de Teoría Constitucional y Política (SELA) (Lebenslauf). Über seine Studierenden schreibt er: „Heute lehre ich an der Yale Law School, wo meine Studierenden meinem jüngeren Ich beunruhigend ähneln“, ganz überwiegend Kinder von Eltern in gehobenen Berufen und Absolventen teurer Universitäten; „sie und ich verdanken unseren Wohlstand und unsere Kaste der Meritokratie“ (*„They, and I, owe our prosperity and our caste to meritocracy“*, The Atlantic). Sie seien von ihren Vorteilen „eher überwältigt als selbstzufrieden“, umsorgt, aber auch „kultiviert, gecoacht, gedrillt, geformt und verpackt“ (Times Higher Education).
+
+**Der Weg zum Buch.** Als er vor zwei Jahrzehnten über Ungleichheit zu schreiben begann, schien ihm die Meritokratie „eher ein Heilmittel als eine Ursache“ (The Atlantic). 2013/14 war er Fellow am Wissenschaftskolleg zu Berlin; in Berlin, Tokio, Seoul und anderswo trug er die These damals unter dem Titel „Snowball Inequality: Meritocracy and the Crisis of Capitalism“ vor, und im Oktober 2017 diskutierte die Freie Universität Berlin in einem Seminar das Manuskript (Lebenslauf). *The Meritocracy Trap* erschien im September 2019 bei Penguin Press ([Penguin Random House](https://www.penguinrandomhouse.com/books/548174/the-meritocracy-trap-by-daniel-markovits/)); sein Lebenslauf zählt über vierzig Besprechungen. 2021 nahm ihn das Magazin *Prospect* in seine Liste der fünfzig wichtigsten Denker der Welt auf (Yale Law School).
+
+**Seither.** In *The Atlantic* schrieb er über McKinsey und die Mittelschicht (2020) und über das College als Wettkampf ohne Lernen (2021), in der *New York Times* für eine Vermögensteuer zur Finanzierung der Corona-Hilfen (2020) (Lebenslauf). Er arbeitet an einem Buch mit dem vorläufigen Titel *The Good Life after the Age of Growth*, das gute Leben nach dem Zeitalter des Wachstums (Yale Law School), vertraglich für 2027 bei Liveright (W. W. Norton) vereinbart, und an einem Manuskript über Toleranz, *Toleration or How to Disagree* (Lebenslauf). Seit 2024 sitzt er im internationalen wissenschaftlichen Beirat des Max-Planck-Instituts für Rechtsgeschichte und Rechtstheorie in Frankfurt (Lebenslauf). Im Februar 2026 sprach er im Podcast *The Middle with Jeremy Hobson* darüber, ob die Mittelschicht noch erreichbar ist (Yale Law School).
 
 ## Bücher & Publikationen
 
-- [The Meritocracy Trap](https://www.genialokal.de/Suche/?q=Markovits+Meritocracy+Trap) — Allen Lane / Penguin, 2019
-- *A Modern Legal Ethics: Adversary Advocacy in a Democratic Age* — Princeton University Press, 2008
-- Zahlreiche Aufsätze in *Yale Law Journal*, *American Economic Review*, *Philosophy & Public Affairs*
+| Titel | Jahr | Beschreibung |
+|---|---|---|
+| [*A Modern Legal Ethics. Adversary Advocacy in a Democratic Age*](https://www.genialokal.de/suche/?q=9780691121628) | 2008 | Princeton University Press. Über die Ethik des Anwalts als Parteivertreter in einer Demokratie, so der Untertitel; sein Lebenslauf listet mehr als fünfzehn Fachbesprechungen und Erwiderungen. |
+| [*Contract Law and Legal Methods*](https://www.genialokal.de/suche/?q=9781599414454) | 2012 | Foundation Press. Zum Vertragsrecht, seinem Lehrgebiet in Yale. |
+| [*Contracts. Law, Theory, and Practice*](https://www.genialokal.de/suche/?q=9781683281436) (mit Gabriel Rauterberg) | 2018 | Foundation Press, 897 Seiten (DNB). |
+| [*The Meritocracy Trap. How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite*](https://www.genialokal.de/suche/?q=9780141984742) | 2019 | Penguin Press, New York, erschienen am 10.09.2019 (ISBN 9780735221994); britisches Taschenbuch bei Penguin 2020, verlinkt. Die Meritokratie sei geworden, wogegen sie erfunden wurde, „ein Mechanismus für die Konzentration und dynastische Weitergabe von Reichtum und Privilegien über Generationen“, und sie fange auch die ein, die oben ankommen (Verlag). Ausgaben in Korea, China, Taiwan und auf Portugiesisch (alle 2020, Lebenslauf). Eine deutsche Ausgabe verzeichnet die Deutsche Nationalbibliothek nicht (Stand 21.11.2026); auch im Salon heißt es, es gebe keine. |
 
----
+In Arbeit: *The Good Life after the Age of Growth* (Liveright, Ablieferung 2027 vereinbart) und *Toleration or How to Disagree* (Manuskript) (Lebenslauf).
+
+**Aufsätze (Auswahl)**
+
+- „[How Much Redistribution Should There Be?](https://law.yale.edu/sites/default/files/documents/pdf/Faculty/Markovits_Redistribution.pdf)“, *Yale Law Journal* 112 (2003)
+- „[Contract and Collaboration](https://law.yale.edu/sites/default/files/documents/pdf/Faculty/Markovits_Contract_Collaboration.pdf)“, *Yale Law Journal* 113 (2004)
+- „[Democratic Disobedience](https://law.yale.edu/sites/default/files/documents/pdf/Faculty/Markovits_Democratic_Disobedience.pdf)“, *Yale Law Journal* 114 (2005)
+- „[Individual Preferences for Giving](https://law.yale.edu/sites/default/files/documents/pdf/Faculty/Markovits_Individual_Preferences_for_Giving.pdf)“ (mit Raymond Fisman und Shachar Kariv), *American Economic Review* 97 (2007)
+- „The Distributional Preferences of an Elite“, *Science* 2015 ([Fisman u. a. 2015](https://doi.org/10.1126/science.aab0096), Experiment): Studierende der Yale Law School, eine Gruppe, die später Machtpositionen einnimmt, waren in Verteilungsentscheidungen weniger fair gesinnt und deutlich stärker auf Effizienz bedacht als ein breiter Querschnitt der Amerikaner; die Gleichheitsorientierten gingen eher zu gemeinnützigen Organisationen.
+- „Schooling in the Age of Human Capital“, *The Hedgehog Review* (Sommer 2020)
+
+**Essays (Auswahl):** „How Life Became an Endless, Terrible Competition“ (*The Atlantic*, September 2019, aus dem Buch) · „How McKinsey Destroyed the Middle Class“ (*The Atlantic*, Februar 2020) · „A Wealth Tax Is the Logical Way to Support Coronavirus Relief“ (*New York Times*, April 2020) · „How College Became a Ruthless Competition Divorced from Learning“ (*The Atlantic*, Mai 2021) (Lebenslauf).
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Daniel Markovits: The Meritocracy Trap (TED Talk)](https://www.youtube.com/watch?v=FsxYfqKojQg) — 17 Min. Kernthesen kompakt
-- [Daniel Markovits at Yale Law School — Full Lecture](https://www.youtube.com/watch?v=FBEIvFrjnQI) — Ausführliche akademische Darstellung
-
----
+- [LSE Events | The Meritocracy Trap](https://www.youtube.com/watch?v=CtZZj4j5UpI) (LSE, 92 Min., Mai 2019) — die Morishima Lecture an der London School of Economics, kurz vor dem Erscheinen des Buchs; die [Folien](https://www.lse.ac.uk/Events/Events-Assets/PDF/2019/02-ST/20190508-The-Meritocracy-Trap.pdf) stellt die LSE bereit. Die These in voller Länge, von den Arbeitsstunden der Reichen bis zum Marx-Schluss.
+- [Is Meritocracy a Sham?](https://www.youtube.com/watch?v=BLEvJUNfyBY) (Amanpour and Company, 19 Min., März 2020) — Gespräch mit Hari Sreenivasan über ein System, das ihn selbst nach oben gebracht hat.
+- [Daniel Markovits: The Meritocracy Trap](https://www.youtube.com/watch?v=oqyFj3wsheA) (Room for Discussion, 55 Min., Februar 2021) — Interview der Gesprächsreihe an der Universität Amsterdam, über Zoom; frei lizenziert (CC BY).
+- [The Human Resource Curse with Daniel Markovits](https://www.youtube.com/watch?v=YqBNliI12Gg) (ASU University Design Institute, 89 Min., Vortrag vom Januar 2022) — wie die USA in einem halben Jahrhundert eine neue, extreme Hierarchie erfanden, die er meritokratische Ungleichheit nennt.
+- [Daniel Markovits | Meritocracy Debate](https://www.youtube.com/watch?v=cn1_jhqqNQ0) (Oxford Union, 11 Min., Januar 2022) — seine Rede in einer Debatte der Oxford Union über die Meritokratie.
+- [Meritocracy, economic turmoil, and the broken promises of the West](https://www.youtube.com/watch?v=82_5oza3EkE) (The Institute of Art and Ideas, 29 Min., Februar 2025) — ausführliches Interview, sechs Jahre nach dem Buch.
 
 ## Kernthesen
 
-1. **Meritokratie ist kein Korrektiv zur Aristokratie, sondern ihre moderne Form.** Die alte Elite vererbte Besitz; die neue Elite vererbt Humankapital durch exzessive Bildungsinvestitionen — mit dem Unterschied, dass die Leistungsideologie die Kastenreproduktion als Gerechtigkeit tarnt.
+1. **Die Meritokratie ist zum größten Hindernis der Chancengleichheit geworden.** Erfunden in der Mitte des 20. Jahrhunderts, um eine erbliche Elite aufzubrechen, sei sie heute „das größte einzelne Hindernis für Chancengleichheit“ (*„the single greatest obstacle to equality of opportunity“*, LSE-Folien 2019). Die neue Elite unterscheide sich von der alten darin, dass sie ihre Kinder ausbilden kann und will: So wurde aus einem System der Öffnung gegen eine alte Elite „die Technik des Ausschlusses“ für die Meritokraten ([Yale Insights, 2020](https://insights.som.yale.edu/insights/how-meritocracy-worsens-inequality-and-makes-even-the-rich-miserable)). Rechnet man, was reiche Eltern über die Mittelschicht hinaus in die Bildung ihres Kindes stecken, ergibt das eine unversteuerte Erbschaft von rund zehn Millionen Dollar je Kind; von den Kindern des ärmsten Fünftels wird nur eines von hundert je zu den obersten fünf Prozent gehören ([Buchauszug](https://www.likevillepodcast.com/articles/2020/8/14/reforming-elite-education-a-selection-from-daniel-markovitss-the-meritocracy-trap-2019); im Salon vorgelesen, [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Bildung als Erbe|▶ 146:05, ▶ 110:27]]).
 
-2. **Die Elite ist das größte Opfer ihres eigenen Systems.** 2.400 abrechenbare Stunden, 80-120-Stunden-Wochen, Identität vollständig über Beruf und Zertifikate definiert — die „Superordinate Working Class" arbeitet sich zu Tode und hat kein Außen, von dem aus sie das Spiel verlassen könnte.
+2. **Verdienst ist kein natürlicher Wert, sondern eine Rechtfertigung.** „Verdienst ist keine natürliche Tugend, sondern eine ideologische Einbildung, gebaut, um eine sonst anstößige Verteilung von Vorteilen reinzuwaschen“ (*„Merit is not a natural virtue but rather an ideological conceit, built to launder an otherwise offensive distribution of advantage“*, Times Higher Education 2019). Er beschreibt eine Rückkopplung: Eine neue, hochausgebildete *superordinate working class* bringe Erfinder dazu, Techniken zu entwickeln, die gerade diese Arbeitskräfte einsetzen, und mache sie so enorm produktiv und „extravagant bezahlt“ (ebd.). Die wachsende Ungleichheit komme darum nicht vor allem aus einer Verlagerung von der Arbeit zum Kapital, „sondern vielmehr aus einer Verlagerung des Einkommens, weg von der Arbeit der Mittelschicht hin zur Arbeit der Oberschicht“ (vorgelesen im Salon, [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Arbeit ist das neue Kapital|▶ 99:27]]).
 
-3. **Populismus ist eine rationale Reaktion auf meritokratische Ungleichheit.** Trump als „blue-collar billionaire" ist kein Betriebsunfall, sondern die logische Konsequenz einer Gesellschaft, in der das Aufstiegsversprechen für die Mittelschicht zur Illusion geworden ist.
+3. **Die Falle schließt auch die Gewinner ein.** „Die meritokratische Falle ist ein goldener Käfig, der die Reichen gefangen hält, während er die anderen ausschließt“ (*„a gilded cage that ensnares the rich even as it excludes the rest“*, LSE-Folien). Wer sein ganzes Vermögen als eigene Ausbildung besitzt, kann daraus nur Einkommen ziehen, indem er selbst arbeitet, ständig und an dem, was der Markt verlangt; darum seien die Reichen „wohlhabend, aber es geht ihnen nicht gut“ (*„they’re wealthy, but they’re not well“*, Yale Insights). Große Kanzleien erwarteten früher rund 1.300 abrechenbare Stunden im Jahr, heute 2.400 (vorgelesen im Salon, [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Falle, aus der niemand hinauskommt|▶ 93:17]]). Die Gewichtung aber ist klar: Der größte Schaden der meritokratischen Ungleichheit bleibe der Ausschluss fast aller, die außerhalb der Elite geboren sind, die Elite treffe er „ebenfalls“ (*„But meritocracy harms the elite as well“*, Times Higher Education).
 
-4. **Die Income Defense Industry immunisiert das System gegen Reform.** Anwaltskanzleien, Wirtschaftsprüfer, Investmentbanker bilden eine geschlossene Infrastruktur, die Vermögen und Einkommen systematisch gegen Umverteilung absichert.
+4. **Die Begabtesten verteidigen das Vermögen der noch Reicheren.** Im Buch heißt der Abschnitt „The Income Defense Industry“, die Einkommensschutzindustrie: „Meritokratische Ungleichheit schafft Anreize für die qualifiziertesten Arbeitskräfte, reich zu werden, indem sie sich der Verteidigung noch reicherer Vermögen gegen staatlichen Zugriff widmen“ (zitiert in [The New Republic, 2019](https://newrepublic.com/article/154692/meritocracy-trap-overworked-elites-book-review)). Die Summen, die er nennt: 90 Milliarden Dollar bei den hundert größten Kanzleien, 134 Milliarden bei den vier großen Prüfungsgesellschaften, 250 Milliarden bei den zehn größten Investmentbanken (vorgelesen im Salon, [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Income Defense Industry|▶ 124:52]]).
 
-5. **Es gibt keinen Ausweg innerhalb des Systems.** Das Buch endet mit Marx-Zitat und Verzweiflung — die Lösungsvorschläge (New Deal 2.0, Universitätsreform) sind selbst nach Markovits' eigener Analyse unrealistisch, weil jede individuelle Entscheidung die Falle reproduziert.
+5. **Der Populismus benennt, was die anderen übergehen.** Populismus sei „kein spontaner Ausbruch böswilliger Ressentiments, sondern vielmehr eine natürliche und sogar angemessene Reaktion auf extreme meritokratische Ungleichheit“ (in deutscher Übersetzung im Salon vorgelesen, [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Populismus als Antwort|▶ 128:05]]); Trump erscheint im Buch als *blue-collar billionaire*, Milliardär im Arbeiterhemd, Obama als der meritokratische Triumph schlechthin (ebd.). Nativisten und Populisten füllten die Lücke, weil allein sie die Kosten der Meritokratie benennen und als moralischen Schaden ernst nehmen; „anständige Menschen“ zögen zum Populismus „als dem einzigen Schiff, das den meritokratischen Sturm überhaupt anerkennt“ (*„Decent people are drawn to populism as the only ship that even acknowledges the meritocratic storm“*, LSE-Folien). Über die Angriffe auf die Eliteuniversitäten schreibt er, die Populisten mögen eng politische Motive haben, „aber sie liegen nicht falsch“ (Buchauszug).
 
----
+6. **Es gibt einen Ausweg, und er ist vor allem politisch schwer.** Die Ungleichheit sei „nicht unvermeidlich“, die härtesten Probleme seien „nicht technokratisch, sondern politisch“ (LSE-Folien). Er nennt zwei Wege. Erstens die Bildung öffnen: Eliteschulen und -universitäten könnten zwei- bis dreimal so viele Schüler und Studierende aufnehmen und die meisten neuen Plätze mit Kindern von außerhalb der Elite besetzen (Yale Insights; Times Higher Education); private Schulen und Universitäten sollen ihre Steuerbefreiung verlieren, wenn nicht mindestens die Hälfte ihrer Studierenden aus Familien der unteren zwei Drittel der Einkommensverteilung kommt (Buchauszug). Zweitens die Arbeit der Mitte stärken: Über Arbeitsmarkt-, Steuer- und Regulierungspolitik sollen Formen der Produktion begünstigt werden, die mittel qualifizierte Arbeit brauchen; heute sei diese Arbeit in den USA „der am höchsten besteuerte Produktionsfaktor“ (Yale Insights). Eine gleichere Welt würde „alle besser stellen“, und sein Vortrag endet mit Marx, neu gefasst: Die Arbeiter der Welt, Arbeiter- und Mittelschicht und nun auch die übergeordnete Klasse, sollten sich vereinigen; sie hätten nichts zu verlieren als ihre Ketten (LSE-Folien). Mit diesem Satz schließt laut dem Salon auch das Buch ([[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Marx, neu gelesen|▶ 167:26]]).
 
-## Politische Einordnung
+## Politische Einordnung und Rezeption
 
-Markovits ist kein Marxist im engeren Sinne, obwohl er Marx ausgiebig zitiert — eher ein linksliberaler Institutionenkritiker, der aus der Rechtsphilosophie kommt. Seine Analyse ist strukturell, nicht moralisch: Er wirft der Elite keinen bösen Willen vor, sondern beschreibt ein System, das alle zu Gefangenen macht. Das macht sein Buch politisch schwer einzuordnen — es wird sowohl von der linken als auch von Teilen der libertären Rechten rezipiert, allerdings aus gegensätzlichen Gründen.
+*Unsere Einordnung, nicht seine Selbstbeschreibung.* Wir ordnen ihn einem egalitären Liberalismus zu, der an die Wurzel will. Er selbst sagt, sein Buch entwickle das Argument in zwei Fassungen, „einer liberalen und einer radikaleren“: Die liberale zeigt, wie die Meritokratie die Chancengleichheit verhindert, die radikale, dass der Wert der Spitzenqualifikation selbst erst durch die ungleiche Bildung entsteht (Times Higher Education). In Zeitungsbeiträgen schrieb er für eine Vermögensteuer (2020) und mit Ian Ayres über die dauerhafte Minderheitsherrschaft in den USA (2018) (Lebenslauf); eine Parteibindung ist uns nicht bekannt. Der Elite wirft er keinen bösen Willen vor. Er unterscheidet politisches Mitgefühl von „existenziellem“: Einen Anspruch auf politisches Mitgefühl, also darauf, dass andere für sie Opfer bringen, habe die Elite nach seinem Buch nicht, erst recht nicht gegenüber der Mittelschicht; Anspruch auf existenzielles Mitgefühl schon, weil es schwer sei, ein Mensch zu sein, auch wenn man privilegiert ist (Yale Insights). Selbst verantwortungsvolle Eliten erlägen dem Reiz der Meritokratie, „eine Art ideologisches Stockholm-Syndrom“ (LSE-Folien).
 
----
+**Rezeption.** Die *New York Times* nannte das Buch die „vielleicht umfassendste und detaillierteste Anklage“ der Meritokratie (zitiert in Times Higher Education); sein Lebenslauf listet Besprechungen von der *New York Times* bis zur *London Review of Books*. Die Kritik kam von zwei Seiten. In *The New Republic* hielt Sarah Leonard es für „eigenwillig, gelinde gesagt“, dass er Gründeraktien als Arbeitseinkommen zählt, und warf ihm vor, Marx und Thomas Piketty als überholt beiseitezuschieben: Die Gleichheit der Jahrhundertmitte sei kein Geschenk einer freundlicheren Elite gewesen, sondern in Arbeitskämpfen errungen ([TNR, 05.09.2019](https://newrepublic.com/article/154692/meritocracy-trap-overworked-elites-book-review)). Im *City Journal* schrieb Kay Hymowitz, er verzerre die Klassenverhältnisse, weil er auf das oberste Prozent schaue, und mache die Meritokratie zur Ursache von fast allem; zur akademischen Auslese für anspruchsvolle Berufe gebe es keine echte Alternative, einige seiner Vorschläge verdienten aber Beachtung ([City Journal, 11.10.2019](https://www.city-journal.org/article/meritocrats-v-meritocracy)). Branko Milanović nannte das Buch in seinem Blog einen „Frontalangriff“ auf das System, das die US-Gesellschaft trägt; es sei schwer zu lesen und wiederhole sich, „halb so lang, hätte es an Kraft gewonnen“ ([globalinequality, 18.10.2020](https://glineq.blogspot.com/2020/10/ban-this-book-review-of-daniel.html)).
+
+Im Salon der Neuen Zwanziger nennt Wolfgang M. Schmitt es ein großes Buch und hält die Lösungsvorschläge für „kaum der Rede wert“, weil Markovits nicht beschreibe, „wie das System funktioniert, also der Kapitalismus“; Markovits' Satz, in Deutschland gebe es praktisch keine Privatschulen, weisen beide Gastgeber zurück ([[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Was Wolfgang dem Buch vorhält|▶ 78:51, ▶ 160:40]]). Und die Grundthese, dass an der Spitze Arbeit statt Kapital die Einkommen treibt, ist in der Forschung umstritten (→ [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Faktencheck|Faktencheck der Salon-Note]]).
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Karl Marx]] — Markovits' „angestellte Kapitalisten" erweitern Marx' Klassentheorie um eine Kategorie, die Marx nicht voraussehen konnte
-- Michael Sandel (*The Tyranny of Merit*, 2020) — Parallel entstandene Meritokratie-Kritik, stärker philosophisch argumentierend
-- Pierre Bourdieu (*Die feinen Unterschiede*) — Distinktionsmechanismen als Vorarbeit zu Markovits' Kastenanalyse
-- Thorstein Veblen (*The Theory of the Leisure Class*, 1899) — Historische Kontrastfolie: Veblens müßige Elite vs. Markovits' erschöpfte Elite
+### → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]
+Schmitt liest das Buch im Salon der Neuen Zwanziger und gibt ihm einen Namen, der nicht von Markovits stammt: *angestellte Kapitalisten*, formal Angestellte, die die Gewinne an sich ziehen (▶ 100:16). Er wünscht sich, Markovits hätte es gemacht wie Thorstein Veblen mit der *Theorie der feinen Leute*, „einfach nur beschrieben“ (▶ 86:11).
 
----
+### → [[DenkerVita/Stefan Schulz|Stefan Schulz]]
+Schulz führt durch die Zahlen des Buchs und erklärt die Einkommensschutzindustrie mit dem Begriff der Autopoiesis, als System, das sich selbst erhält (▶ 118:39). Die Linie nach Deutschland zieht er selbst, zu den Eltern in Hessen, die über das Gymnasium selbst entscheiden wollen, und zu den Privatschulen in Rostock (▶ 78:02, ▶ 81:19).
+
+### → [[DenkerVita/Karl Marx|Karl Marx]]
+Markovits schließt seinen LSE-Vortrag mit dem umgeschriebenen Schluss des *Kommunistischen Manifests*, „eine alte Losung“, wie er schreibt, und Schmitt hört bei der Arbeitswoche der Banker das Kapitel über den Arbeitstag im *Kapital* mit. Über das Verhältnis zu Marx streiten die Rezensenten: Leonard meint, er schiebe Marx' Analyse beiseite, Hymowitz, er wolle sie für die postindustrielle Wirtschaft umschreiben.
+
+### → [[DenkerVita/Michael Hartmann|Michael Hartmann]]
+Hartmann zeigt, dass Deutschlands Eliten aus wenigen Prozent der Gesellschaft stammen und Herkunft dort mehr zählt als Leistung. Markovits beschreibt einen amerikanischen Weg der Weitergabe, über teure Bildung; ob dieser Weg auch die deutschen Eliten erklärt, ist zwischen beiden offen.
+
+### → [[DenkerVita/Julia Friedrichs|Julia Friedrichs]]
+Friedrichs saß dabei, wenn Berater Superreichen ihr Vermögen steuerfrei rechnen: die Einkommensschutzindustrie aus der Nähe. Im Salon wird ihr frühes Buch *Gestatten: Elite* (2008) als deutsche Parallele genannt.
+
+### → [[DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]
+Pfeffer zeigt, wie sich Vermögen über Generationen vererbt. Ob die neue Ungleichheit eher in Arbeit oder in Besitz steckt, ist genau die Frage, an der sich Markovits' These in der Forschung reibt.
+
+### → [[DenkerVita/Clara Mattei|Clara Mattei]]
+Mattei beschreibt die Sparpolitik nach 1918 als Mittel, Arbeit zu disziplinieren. Schmitts Einwand, Markovits beschreibe den Kapitalismus nicht, ist der Punkt, an dem sie weitergeht.
+
+### → [[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]
+Für eine deutsche Ausgabe des Buchs wünschen sich die Gastgeber des Salons ein Vorwort von „jemandem wie Butterwegge“, der sagt, was an Markovits' Deutschland-Bild nicht stimmt (▶ 168:13). Markovits beschreibt ausdrücklich „ein Problem des Reichtums, nicht der Armut“ (*„A wealth problem, not a poverty problem“*, LSE-Folien); Butterwegges Armutsforschung handelt von der anderen Seite.
+
+### → [[DenkerVita/Evan Osnos|Evan Osnos]]
+Osnos beschreibt die Ultrareichen mit ihren Yachten und Bunkern; Markovits die arbeitenden Spitzenverdiener: Die Hälfte der Absolventen von Harvard, Princeton und Yale wohnt in den reichsten und gebildetsten fünf Prozent der Postleitzahlgebiete (vorgelesen im Salon, ▶ 157:24).
+
+### → [[DenkerVita/William Darity Jr|William Darity Jr]]
+Beide nehmen der Bildung ihr Aufstiegsversprechen, von entgegengesetzten Enden: Markovits zeigt, wie sie oben zur Weitergabe von Privilegien wurde, Darity, dass sie am unteren Ende nie Aufstieg war.
 
 ## Gedankenwelten-Notes
 
-- [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025]] — Zweistündige Besprechung im NZ-Salon, Schwerpunkt Meritocracy Trap
-- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]] — die meritokratische Falle als ökonomische Seite der Elitenerziehung (Luc)
+**Wo sein Buch besprochen wird**
 
+- [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]] — Wolfgang M. Schmitt und Stefan Schulz lesen *The Meritocracy Trap* über zwei Stunden: die arbeitenden Reichen, die Bildung als Erbe, die Einkommensschutzindustrie, der Populismus, der Marx-Schluss; dazu Schmitts Kritik, eine Nachbesprechung mit vier Fragen an die Forschung und ein Faktencheck.
+
+**Wo andere Notes seine Gedanken aufnehmen**
+
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Luc nimmt ihn als ökonomische Seite der Elitenerziehung: eine Kindheit als Investition, eine Arbeit, die die ganze Person frisst.
+- [[Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen|Architekten des Lebendigen — Systeme die dem Leben dienen]] — Schmitts humanistische Bildung als Gegenpol zur meritokratischen Verwertung, aus dem Salon über sein Buch.
+- [[Denker/William Darity Jr — Das oekonomische Erbe des Rassismus|William Darity Jr — Das ökonomische Erbe des Rassismus]] — Darity und Markovits über Bildung von entgegengesetzten Enden; Daritys entlassener Manager, der an sein eigenes Versagen glaubt, als die Falle nach innen.
+- [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]] — ein Leistungsprinzip, das Rangplätze vergibt, erzeugt Verlierer, selbst wenn alle gleich gut wären.
+- [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]] — sein Separatismus als Erklärung für die Parallelwelten der Ultrareichen.
+- [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegge als gewünschter Vorwort-Autor einer deutschen Ausgabe.
+
+**Wo er als Stimme in einem Panorama steht**
+
+- [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]] — Populismus als „natürliche und sogar angemessene Reaktion“; Trump siegte dort, wo die Diplome fehlen.
+- [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]] — mit ihm rechnet Schmitt die zehn Millionen Dollar vor, die über die Bildung vererbt werden.
+- [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]] — die Nachbesprechung des Salons speist die Frage, ob der Glaube an Leistung ungleicher macht; er selbst steht dort nicht als Stimme.
+
+## Quellen
+
+- Yale Law School: [Fakultätsseite](https://law.yale.edu/daniel-markovits) (Titel, Abschlüsse, Lehrveranstaltungen, Bücher, Presse) · [Lebenslauf, Stand September 2025](https://law.yale.edu/sites/default/files/documents/markovits_daniel_cv.pdf) (Ausbildung, Ämter, Ausgaben, Rezensionen, Aufsätze, Vorträge, Gremien)
+- Normdaten: [Library of Congress, n2008029483](https://id.loc.gov/authorities/names/n2008029483.html) (Geburtsdatum) · [GND 137286791](https://d-nb.info/gnd/137286791) · [seine Titel im Katalog der DNB](https://lobid.org/resources/search?q=contribution.agent.gndIdentifier%3A137286791)
+- Verlage: [Penguin Random House](https://www.penguinrandomhouse.com/books/548174/the-meritocracy-trap-by-daniel-markovits/) · [Penguin UK](https://www.penguin.co.uk/books/300208/the-meritocracy-trap-by-markovits-daniel/9780141984742)
+- Seine Worte: [Interview, Times Higher Education, 31.10.2019](https://www.timeshighereducation.com/node/682666) · [Essay, The Atlantic, September 2019](https://www.theatlantic.com/magazine/archive/2019/09/meritocracys-miserable-winners/594760/) · [Interview, Yale Insights, 09.01.2020](https://insights.som.yale.edu/insights/how-meritocracy-worsens-inequality-and-makes-even-the-rich-miserable) · [Folien zur Morishima Lecture, LSE, 08.05.2019](https://www.lse.ac.uk/Events/Events-Assets/PDF/2019/02-ST/20190508-The-Meritocracy-Trap.pdf) · [Buchauszug zur Reform der Elitebildung](https://www.likevillepodcast.com/articles/2020/8/14/reforming-elite-education-a-selection-from-daniel-markovitss-the-meritocracy-trap-2019)
+- Rezensionen: [Sarah Leonard, The New Republic, 05.09.2019](https://newrepublic.com/article/154692/meritocracy-trap-overworked-elites-book-review) · [Kay Hymowitz, City Journal, 11.10.2019](https://www.city-journal.org/article/meritocrats-v-meritocracy) · [Branko Milanović, globalinequality, 18.10.2020](https://glineq.blogspot.com/2020/10/ban-this-book-review-of-daniel.html)
+- Studie: [Fisman, Jakiela, Kariv & Markovits 2015, *Science*](https://doi.org/10.1126/science.aab0096)
+- Videos: Titel, Kanäle, Längen und Daten über YouTube geprüft (LSE, Amanpour and Company, Room for Discussion, ASU University Design Institute, Oxford Union, The Institute of Art and Ideas)
+- Salon: unsere Note [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025]] mit dem Transkript des Lektüre-Salons (Zeitstempel daraus)
+
+> [!note] Korrektur (21.11.2026)
+> Die Fassung vom Mai 2026 trug keine Belege, und ihre Lebensdaten stimmten nicht. Markovits ist 1969 in London geboren, nicht in Bukarest; er ist kein Kind rumänischer Emigranten, sondern wuchs mit vielen Umzügen auf, mit Schulen in London, Stanford, Austin, Oxford und Berlin. In Yale studierte er Mathematik, nicht Mathematik und Philosophie; promoviert wurde er nur in Oxford, an der LSE erwarb er einen Master, und einen MPhil hat er nicht, sondern einen B.Phil. Es fehlte sein Jurastudium in Yale (J.D. 2000) und das Jahr bei Richter Calabresi. Die beiden Videos gab es nicht: Ein TED-Vortrag von ihm ließ sich nicht finden, beide Links führen ins Leere. *Philosophy & Public Affairs* steht nicht unter seinen Aufsätzen, Allen Lane nicht unter seinen Verlagen. Drei Sätze standen ihm falsch zu: „angestellte Kapitalisten“ ist Wolfgang M. Schmitts Begriff im Salon, dass die Elite „kein Außen“ habe, sagt ebenfalls Schmitt, und dass die Lösungen unrealistisch seien, ist Schmitts Urteil, nicht seins. Das Buch endet nicht in Verzweiflung: Er schlägt zwei Wege vor, Elitebildung öffnen und die Arbeit der Mitte stärken, und hält die Ungleichheit für nicht unvermeidlich. Die Elite nannte die alte Fassung das größte Opfer des Systems; er selbst sagt, der größte Schaden bleibe der Ausschluss der anderen. Populismus nennt er eine „natürliche und sogar angemessene“, nicht eine „rationale“ Reaktion. Ohne Beleg gestrichen: „eine der unangenehmsten Stimmen im amerikanischen Elitendiskurs“, der Wendepunkt aus „akkumulierter Beobachtung“, er könne „nicht aufhören“, weil das die Falle sei, und die Rezeption durch „Teile der libertären Rechten“. Verbindungen zu Michael Sandel, Pierre Bourdieu und Thorstein Veblen entfallen, weil es bei uns keine Viten zu ihnen gibt. Neu sind die Stationen mit Jahren, die Berliner Jahre vor dem Buch, alle Bücher mit ISBN, die Arbeit seit 2019, echte Videos, die Kernthesen in seinen Worten, die Rezeption von beiden Seiten und alle Notes, die ihn erwähnen.

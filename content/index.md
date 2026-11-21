@@ -46,6 +46,30 @@ Die Gedankenwelten (luc)
 
 > → *14 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **21.11.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+>
+> In zwanzig Jahren haben sich die Einstellungen kaum bewegt. Neu ist, dass Misstrauische einander finden, und eine solche Gemeinschaft lässt sich nicht entzaubern, sagt Aladin El-Mafaalani.
+
+> **20.11.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
+>
+> Als die Boomer Eltern waren, war PISA ein Skandal; heute sind Kinder eine Minderheit, um die niemand werben muss. Aladin El-Mafaalani über eine alternde Demokratie, die ihre Jungen vergisst.
+
+> **20.11.** — [[Denker/Agnes Callard - Warum lohnt sich ein sokratisches Leben|Agnes Callard — Warum lohnt sich ein sokratisches Leben?]]
+>
+> Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
+
+> **20.11.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
+>
+> Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
+
+> **17.11.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
+>
+> Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
+
+> → *3 weitere in* [[Denker]]
+
 ### Panorama
 
 > **21.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
@@ -93,30 +117,6 @@ Die Gedankenwelten (luc)
 > Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
 
 > → *6 weitere in* [[Spuren]]
-
-### Denker
-
-> **20.11.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
->
-> Als die Boomer Eltern waren, war PISA ein Skandal; heute sind Kinder eine Minderheit, um die niemand werben muss. Aladin El-Mafaalani über eine alternde Demokratie, die ihre Jungen vergisst.
-
-> **20.11.** — [[Denker/Agnes Callard - Warum lohnt sich ein sokratisches Leben|Agnes Callard — Warum lohnt sich ein sokratisches Leben?]]
->
-> Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
-
-> **20.11.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
->
-> Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
-
-> **17.11.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
->
-> Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
-
-> **16.11.** — [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten|Walther Ziegler — Schopenhauer in 60 Minuten]]
->
-> Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
-
-> → *2 weitere in* [[Denker]]
 
 ### Geistesblitz
 
