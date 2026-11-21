@@ -47,7 +47,7 @@ Quelle: [Eskalation im Nahen Osten: Auswirkungen auf Europa – und was (nicht) 
 > **Stefan Kolev** — Ludwig-Erhard-Forum für Wirtschaft und Gesellschaft → [[DenkerVita/Stefan Kolev|DenkerVita]]
 > **Volker Wieland** — Goethe-Universität Frankfurt → [[DenkerVita/Volker Wieland|DenkerVita]]
 >
-> Wer welchen Abschnitt schrieb, sagt das Papier nicht. Zugeschrieben wird darum dem Beraterkreis, außer wo das Papier selbst eine Person nennt.
+> Einig sind die vier sich nicht in allem. Grimm hat die Gaspreisbremse von 2022 mitgebaut und verteidigt sie, Wieland hielt sie schon 2022 für einen Treiber der Kerninflation, Haucap nannte sie im Oktober 2026 einen „echten Misserfolg“ (Belege in den Viten). Wer welchen Abschnitt schrieb, sagt das Papier nicht. Zugeschrieben wird darum dem Beraterkreis, außer wo das Papier selbst eine Person nennt.
 
 ---
 

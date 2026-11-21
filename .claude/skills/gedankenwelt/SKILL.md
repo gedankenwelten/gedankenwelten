@@ -948,7 +948,7 @@ python3 .claude/scripts/fremdblick.py --note "Gedankenwelten/<Rubrik>/<Note>.md"
 - **Funde sind Material.** Jeden am Transkript selbst nachprüfen. Was trägt, wird korrigiert: verlorene
   Einschränkungen still, eigene Einschätzungen neu gefasst. Was nicht trägt, wird verworfen. Beides kommt
   in die Abschluss-Summary, getragene Funde ins Fehler-Register (`--was "[fremdblick: Gemini|Kimi|beide] …"`).
-- **Budget:** 10–20 $ im Monat (Andreas, 14.11.2026). Ab 15 $ nur noch Gemini, ab 20 $ Stopp (Exit 3,
+- **Budget:** bis 30 $ im Monat (Andreas, 21.11.2026; vorher 10–20 $). Ab 25 $ nur noch Gemini, ab 30 $ Stopp (Exit 3,
   dann entfällt der Schritt). Stand: `fremdblick.py --kosten`.
 - Nur öffentliche Gedankenwelten-Notes, das Skript sperrt alles andere.
 

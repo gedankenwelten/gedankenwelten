@@ -352,6 +352,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Wolfgang Huber|Wolfgang Huber]]** — Evangelische Theologie & Sozialethik, Altbischof und Herausgeber Bonhoeffers, denkt Freiheit als verantwortete Freiheit bis in Friedensethik und Digitalisierung
 
+**[[DenkerVita/Justus Haucap|Justus Haucap]]** — Wettbewerbsökonom (*1969), Gründungsdirektor des DICE Düsseldorf, 2008–2012 Vorsitzender der Monopolkommission, seit 2025 im Beraterkreis von Ministerin Reiche; sucht Marktmacht bei Raffinerien statt Tankstellen, setzt auf Kartellrecht statt Tankrabatt und hält die Gaspreisbremse für einen Misserfolg
+
 ## I
 
 **[[DenkerVita/Julia Inthorn|Julia Inthorn]]** — Professorin für Angewandte Ethik an der Hochschule für Philosophie München, Medizinethikerin, Mathematik und Statistik studiert; nimmt die vermenschlichende Alltagsrede über Chatbots ernst, bevor sie urteilt
@@ -469,6 +471,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ilko-Sascha Kowalczuk|Ilko-Sascha Kowalczuk]]** — Historiker der SED-Diktatur (Stasi-Unterlagen-Behörde, Ulbricht-Biograf), der den Rechtsruck im Osten als Freiheitsschock statt als Kränkung durch den Westen deutet
 
 **[[DenkerVita/Alice Kaplan|Alice Kaplan]]** — Romanistin und Historikerin in Yale, erzählt das Leben von Büchern und Prozessen aus dem Archiv: Camus' *Fremder*, Brasillach, die Justiz nach dem Krieg.
+
+**[[DenkerVita/Stefan Kolev|Stefan Kolev]]** — Ökonom und Ideenhistoriker des Ordoliberalismus (*1981 in Sofia), Professor in Zwickau, Leiter des Ludwig-Erhard-Forums, seit 2025 im Beraterkreis von Ministerin Reiche; *Wohlstand für Junge* (2026): Preis-Leistungs-Verhältnis des Staates, Auswanderung und innere Emigration der Jungen
 
 ## L
 
@@ -882,6 +886,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Isabella Weber|Isabella Weber]]** — Ökonomin (UMass Amherst), Theoretikerin der Verkäuferinflation und strategischer Preiskontrollen, die Wirtschaftspolitik als Schutz der Demokratie gegen den Rechtsextremismus denkt
 
 **[[DenkerVita/Claudia Wittig|Claudia Wittig]]** — Geschichte (Mittelalter), BSW-Landtagsabgeordnete in Sachsen-Anhalt, die für Frieden mit Russland Mehrheiten auch mit der AfD sucht
+
+**[[DenkerVita/Volker Wieland|Volker Wieland]]** — Geldökonom am IMFS Frankfurt, früher bei der US-Notenbank, 2013–2022 Wirtschaftsweiser, seit 2025 im Beraterkreis von Ministerin Reiche; drängte die EZB 2022 zu höheren Zinsen, gegen Energiekrisen mehr Angebot (Kernkraft, Fracking) statt Transfers
 
 ## X
 

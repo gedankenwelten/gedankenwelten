@@ -1511,3 +1511,12 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Gunter Warg
 **Status:** ✓ Vollanalyse → [[DenkerVita/Gunter Warg]]
+
+## Justus Haucap
+**Status:** ✓ Vollanalyse → [[DenkerVita/Justus Haucap]]
+
+## Stefan Kolev
+**Status:** ✓ Vollanalyse → [[DenkerVita/Stefan Kolev]]
+
+## Volker Wieland
+**Status:** ✓ Vollanalyse → [[DenkerVita/Volker Wieland]]

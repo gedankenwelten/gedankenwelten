@@ -99,5 +99,6 @@ Die Kritik setzt an drei Stellen an. Die erste betrifft die Unabhängigkeit: Ihr
 ## Gedankenwelten-Notes
 
 - [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]] — Jung & Naiv 612: Auktionstheorie, Gaspreisbremse, Wachstum und Klima, Fracking und Atomkraft, Umverteilung, Zuschauerfragen mit Maurice Höfgen
+- [[Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]] — das Kurzgutachten des Beraterkreises vom März 2026, mit Haucap, Kolev und Wieland: keine Gasreserve, keine Übergewinnsteuer, Fracking prüfen, Emissionshandel halten
 - [[Isabella Weber — Antifaschistische Wirtschaftspolitik]] — als fehlende Gegenstimme zu Preisdeckeln erwähnt, Kolleginnen in der Gaskommission 2022
 - [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]] — Flassbeck zitiert ihre Warnung vor 80 Milliarden Euro Zinslast

@@ -16,7 +16,7 @@
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
    "leser": 44,
-   "aufrufe": 51
+   "aufrufe": 50
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -584,11 +584,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
-     "leser": 1,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
      "leser": 1,
      "aufrufe": 2
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Roger-de-Weck-Was-ist-konservativ",
      "leser": 1,
      "aufrufe": 2
     }
@@ -626,7 +626,7 @@
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 44,
-     "aufrufe": 51
+     "aufrufe": 50
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",

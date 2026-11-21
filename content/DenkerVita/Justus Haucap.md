@@ -1,12 +1,25 @@
 ---
 title: Justus Haucap — DenkerVita
-description: "Justus Haucap sucht die Macht im Markt dort, wo sie sitzt, bei Raffinerien statt Tankstellen. Hohe Preise nach einem Schock, sagt er, muss man aushalten, Absprachen nicht."
+description: "Justus Haucap sucht die Macht im Markt dort, wo sie sitzt, bei Raffinerien statt Tankstellen. Einen Preisschock muss man aushalten, findet er; gegen Marktmacht hilft das Kartellrecht."
 date: 2026-11-21
 aktualisiert: 2026-11-21
+raetsel: "Wer an der Zapfsäule sucht, steht eine Stufe zu tief."
 tags: [denker-vita, wirtschaft, wirtschaftspolitik, energiepolitik, wettbewerb, deutschland]
 ---
 
 # Justus Haucap — DenkerVita
+
+![[assets/Justus-Haucap-vita-banner.jpg|Bild im Stil Légers: Links eine kleine Tankstelle mit einer Zapfsäule und einem winzigen Autofahrer, rechts ragt eine riesige Raffinerie aus roten, gelben und blauen Rohren und Türmen auf. Dazwischen steht ein Mann im Anzug und hält eine große Lupe zur Raffinerie hinauf.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Fernand Léger — Maschinenästhetik, schwarze Konturen, Röhrenformen, Primärfarben.
+
+**Warum:** Léger malte die Industrie als großes, klares Räderwerk. Haucaps Gedanke passt in dieses Bild: Wer hohe Spritpreise erklären will, sucht nicht an der Zapfsäule, sondern eine Stufe höher, bei Raffinerien und Großhandel. Der Mann mit der Lupe schaut an der Tankstelle vorbei nach oben.
+
+**Prompt:** Painting in the style of Fernand Léger, 1200x500 wide banner, bold black outlines, tubular mechanical forms, flat primary colors red yellow blue with grey and white, machine aesthetic. In the foreground a small modest petrol station with a single pump and a tiny figure of a driver; behind and above it, much larger, a towering oil refinery of cylinders, pipes and distillation columns rising high into the sky. A man in a suit with a large magnifying glass stands between them, looking up past the petrol station at the refinery. Clear, optimistic, analytical mood. No text, no letters, no logos, no signature.
+
+</details>
 
 ## Biographischer Snapshot
 
@@ -31,7 +44,7 @@ Im September 2025 holte ihn Katherina Reiche in ihren neuen Beraterkreis. Die Au
 |---|---|---|
 | [B2B-Plattformen: Potenziale, Hemmnisse und Handlungsoptionen am Beispiel von Nordrhein-Westfalen](https://www.genialokal.de/Suche/?q=B2B-Plattformen+Haucap) | 2021 | Nomos. Mit C. Kehder und I. Loebert. Digitale Marktplätze zwischen Unternehmen, ihre Chancen und Hürden, am Beispiel Nordrhein-Westfalens. |
 | [Preis-Kosten-Scheren im Telekommunikationssektor](https://www.genialokal.de/Suche/?q=Preis-Kosten-Scheren+im+Telekommunikationssektor) | 2021 | Nomos. Mit Ulrich Heimeshoff und N. Gösser. Wettbewerbsökonomie der Preis-Kosten-Schere in der Telekommunikation. |
-| [Macht, Markt und Wettbewerb: Was steuert die Datenökonomie?](https://www.genialokal.de/Suche/?q=Macht+Markt+und+Wettbewerb+Datenökonomie) | 2018 | Nicolai Verlag. Wettbewerb und Marktmacht in einer Wirtschaft, in der Daten zum Rohstoff geworden sind. |
+| [Macht, Markt und Wettbewerb: Was steuert die Datenökonomie?](https://www.genialokal.de/Suche/?q=Macht+Markt+und+Wettbewerb+Datenökonomie) | 2018 | Nicolai Verlag. Die Frage des Untertitels: Was steuert eine Wirtschaft, die auf Daten läuft, Markt oder Macht? |
 | [Modernisierung der Missbrauchsaufsicht für marktmächtige Unternehmen](https://www.genialokal.de/Suche/?q=Modernisierung+der+Missbrauchsaufsicht+für+marktmächtige+Unternehmen) | 2018 | Nomos. Mit H. Schweitzer, W. Kerber und R. Welker. Wie die Aufsicht über marktmächtige Unternehmen modernisiert werden kann. |
 | [Die Marktintegration der Stromerzeugung aus erneuerbaren Energien](https://www.genialokal.de/Suche/?q=Marktintegration+der+Stromerzeugung+aus+erneuerbaren+Energien) | 2013 | Nomos. Mit C. Klein und J. Kühling. Eine ökonomische und juristische Analyse. |
 | [Behördenflut in Deutschland: 50 Ämter und Institutionen auf dem Prüfstand](https://www.genialokal.de/Suche/?q=Behördenflut+in+Deutschland) | 2010 | Brunomedia. 50 Ämter und Institutionen auf dem Prüfstand. |

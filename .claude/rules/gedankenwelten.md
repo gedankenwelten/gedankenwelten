@@ -66,7 +66,7 @@ Gedankenwelten/
 > 5. **Fremdblick** (seit 14.11.2026, Andreas' Ja): Der Fremden-Test fragt, *was* sich geändert hat. Ob die
 >    neue Fassung der Quelle gerecht wird, fragen zwei Modelle anderer Herkunft (Gemini, Kimi):
 >    `python3 .claude/scripts/fremdblick.py --note … --quelle …`. Das gilt auch für neue Notes (→ `gedankenwelt`, Schritt 5f).
->    Die Funde sind Material und werden am Transkript nachgeprüft. Budget 10–20 $ im Monat, das Skript bremst selbst.
+>    Die Funde sind Material und werden am Transkript nachgeprüft. Budget bis 30 $ im Monat (seit 21.11.2026, vorher 10–20 $), das Skript bremst selbst.
 >
 > 6. **Fremde Entwürfe gegenlesen** (seit 21.11.2026): Was Sherlock, Humboldt oder ein Recherche-Agent liefert,
 >    wird vor dem Einsetzen auf Arbeitsnotizen geprüft („Empfehlung“, „streichen“, „ersetzt den alten Callout“);

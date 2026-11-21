@@ -175,5 +175,7 @@ Reiche berief die Ökonomin im September 2025 in ihren wissenschaftlichen Berate
 - [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — die Speicher, die ihre Kraftwerksstrategie übersieht
 - [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]] — Ulrike Herrmann revidiert ihr frühes Lob
 - [[Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] — die leeren Speicher im Herbst 2026, die Anweisung an SEFE und das Notfallgesetz für Kohle- und Ölkraftwerke, kritisch gelesen von Patrick Kaczmarczyk
+- [[Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]] — ihr Versprechen vom April, die Speicher füllten sich „durch normales Marktgeschehen“, und der Wechsel zum US-Flüssiggas
+- [[Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]] — was ihr Beraterkreis im März 2026 riet: keine Gasreserve, kein Tankrabatt, Fracking prüfen
 - [[MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] — Reiches Hoffnung auf Mini-AKW
 - [[Panorama/Energie]] — die Energiedebatte im Überblick, mit Reiche als zentraler Figur

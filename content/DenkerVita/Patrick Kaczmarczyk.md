@@ -87,6 +87,7 @@ Ungewöhnlich für einen Ökonomen dieser Schule ist sein normativer Anker. In *
 ## Gedankenwelten-Notes
 
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+- [[Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]] — Teil 1 der Surplus-Doppelfolge: Hormus, US-Flüssiggas als neue Abhängigkeit, wer die Rechnung zahlt
 - [[Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] — die Gaskrise 2026 im Surplus Magazin: Kohle gegen den Gaspreis, der Markt als „heilige Monstranz“, Strompreisdeckel und Gaspreisbremse mit Übergewinnsteuer
 - [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — *Zerfall der Weltordnung* als Haupttext des Salons
 - [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]] — als Referenz für Geoökonomie und IWF-Kritik genannt
