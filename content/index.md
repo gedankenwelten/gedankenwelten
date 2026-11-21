@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.
 
+> **21.11.** — [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+>
+> Preise sollen sprechen, auch wenn es wehtut. Vier Ökonomen beraten die Wirtschaftsministerin im März 2026 zum Krieg am Golf, und der Herbst prüft, was sie vorhersahen.
+
 > **21.11.** — [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]]
 >
 > Die Leistungsgesellschaft hält alle gefangen, auch ihre Gewinner, die bis zur Erschöpfung arbeiten. Wolfgang M. Schmitt und Stefan Schulz lesen Daniel Markovits' „The Meritocracy Trap“, und Wolfgang fragt, warum das Buch den Kapitalismus nicht beim Namen nennt.
@@ -36,15 +40,11 @@ Die Gedankenwelten (luc)
 >
 > Vor einem Jahr ging es darum, was Bürger von digitalem Bargeld erwarten, heute geht es darum, wem die Schienen unter dem Geld gehören. Petra Gehring und Sebastian Gießmann über Wero, die Eurocard und den digitalen Euro.
 
-> **20.11.** — [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt]]
+> **21.11.** — [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
 >
-> Eine Soldatin mit Millionenpublikum, die es nie gab: Katharina Nocun zeigt, wie KI-erfundene Menschen rechten Botschaften ein Gesicht geben, bis hin zur gefälschten Straßenumfrage.
+> Wer sich von einem Lieferanten löst, bindet sich an den nächsten. Patrick Kaczmarczyk über leere Speicher, Flüssiggas aus Amerika und die Frage, wer die Rechnung im Winter bezahlt.
 
-> **20.11.** — [[Zeitgeist/Georgine Kellermann — Der lange Weg zu mir selbst|Georgine Kellermann — Der lange Weg zu mir selbst]]
->
-> Eine Rolltreppenfahrt beendete ein Doppelleben von über sechzig Jahren. Georgine Kellermann erzählt, was ein Spiegel, eine Kollegin und ein einziges „Cool“ verändern können.
-
-> → *15 weitere in* [[Zeitgeist]]
+> → *17 weitere in* [[Zeitgeist]]
 
 ### Denker
 

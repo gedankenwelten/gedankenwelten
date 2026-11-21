@@ -6109,3 +6109,19 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Teil 1** | [Droht die nächste Gaspreiskrise? — Mit Patrick Kaczmarczyk](https://www.youtube.com/watch?v=EyhG0gbKwSU) — 17.11.2026 |
 | **Notiz** | [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kaczmarczyk_Gaskrise_Reiche_Transkript.txt` (Sprecher per Stimmlage getrennt) |
+
+## Patrick Kaczmarczyk / Droht die nächste Gaspreiskrise? (Surplus, Teil 1, November 2026)
+
+| | |
+|---|---|
+| **Video** | [Droht die nächste Gaspreiskrise? — Mit Patrick Kaczmarczyk](https://www.youtube.com/watch?v=EyhG0gbKwSU) — Surplus Magazin, 17.11.2026 (aufgenommen 11.11.), Moderation Ciara Cesaro-Tadic |
+| **Notiz** | [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kaczmarczyk_Gaspreiskrise_Teil1_Transkript.txt` (Sprecher per Stimmlage getrennt; „JD Vance“ und Katar-Zahlen am Ton geprüft) |
+
+## Beraterkreis BMWE / Kurzgutachten Energiekrise (März 2026)
+
+| | |
+|---|---|
+| **Dokument** | [Eskalation im Nahen Osten: Auswirkungen auf Europa – und was (nicht) zu tun ist](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/J-L/20260325-kurzgutachten-energiekrise.pdf?__blob=publicationFile&v=4) — Grimm, Haucap, Kolev, Wieland, 13.03.2026 |
+| **Notiz** | [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]] |
+| **Bericht** | [ZfK, 13.03.2026](https://www.zfk.de/politik/deutschland/gasspeicher-reiche-berater-gaspreise-fracking) |
