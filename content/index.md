@@ -104,6 +104,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
 
+> **21.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
 > **21.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
@@ -111,10 +115,6 @@ Die Gedankenwelten (luc)
 > **21.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **21.11.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
->
-> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
 
 > → *17 weitere in* [[Panorama]]
 
