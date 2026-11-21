@@ -6,12 +6,12 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 127,
-   "aufrufe": 153
+   "aufrufe": 152
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 63,
-   "aufrufe": 71
+   "leser": 62,
+   "aufrufe": 70
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -109,14 +109,14 @@
    "aufrufe": 9
   },
   {
-   "pfad": "/DenkerVita/Carlo-Cipolla",
-   "leser": 8,
-   "aufrufe": 9
-  },
-  {
    "pfad": "/DenkerVita/Marcant",
    "leser": 7,
    "aufrufe": 9
+  },
+  {
+   "pfad": "/DenkerVita/Carlo-Cipolla",
+   "leser": 7,
+   "aufrufe": 8
   },
   {
    "pfad": "/DenkerVita/Giulia-Enders",
@@ -616,12 +616,12 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 127,
-     "aufrufe": 153
+     "aufrufe": 152
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 63,
-     "aufrufe": 71
+     "leser": 62,
+     "aufrufe": 70
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -719,14 +719,14 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
-     "leser": 8,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/DenkerVita/Marcant",
      "leser": 7,
      "aufrufe": 9
+    },
+    {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "leser": 7,
+     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Giulia-Enders",
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 51,
-     "aufrufe": 51
+     "leser": 50,
+     "aufrufe": 50
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
