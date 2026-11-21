@@ -50,7 +50,7 @@ Die Gedankenwelten (luc)
 
 > **21.11.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 >
-> In zwanzig Jahren haben sich die Einstellungen kaum bewegt. Neu ist, dass Misstrauische einander finden, und eine solche Gemeinschaft lässt sich nicht entzaubern, sagt Aladin El-Mafaalani.
+> In zwanzig Jahren haben sich die Einstellungen kaum bewegt, neu ist, dass Misstrauische einander finden. Entzaubern lasse sich das nicht, meint Aladin El-Mafaalani; Wahlen zeigen Ausnahmen.
 
 > **20.11.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 >
