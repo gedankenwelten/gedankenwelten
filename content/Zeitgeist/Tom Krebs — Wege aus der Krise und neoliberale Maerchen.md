@@ -439,6 +439,10 @@ Die Gegenrechnung zu den umfassenden Preisbremsen: Grimm will den Kosten-Tsunami
 
 Wie sich die Frage im nächsten Heizwinter stellt, mit einer Familie, die bei minus fünf Grad die Heizung auslässt, zeigt das Gespräch mit Patrick Kaczmarczyk zur Gaskrise 2026.
 
+### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+
+Wie das Referenzmodell in einem Regierungsgutachten klingt, und wo es selbst Marktmacht einräumt, zeigt das Kurzgutachten der Ministeriumsberater vom März 2026.
+
 ---
 
 ## Weiterdenken

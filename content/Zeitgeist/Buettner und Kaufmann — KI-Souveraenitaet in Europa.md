@@ -228,6 +228,10 @@ Das Panorama stellt die Kernfrage: Wie reagieren Demokratien, wenn ein einzelner
 ### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]]
 Varoufakis beschreibt Cloud Rent als neuen Tributmechanismus. Kaufmanns Kritik, dass Regulierung ohne europäische Alternativinfrastruktur BigTech begünstigt, ist dieselbe Diagnose von innen: DSGVO-Compliance reproduziert nur die feudalen Abhängigkeiten, die Varoufakis beschreibt. Büttners Forderung nach Techmilliardären ist dabei die unbequeme Konsequenz, die Varoufakis nicht zieht.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Wie es aussieht, wenn die Alternative wegbricht, zeigt das Flüssiggas im Herbst 2026: ersetzbar, solange andere Anbieter frei haben, und nicht mehr, sobald Katar hinter der Meerenge liegt.
+
 ---
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]

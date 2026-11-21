@@ -235,7 +235,7 @@ Die Gaspreisbremse von 2022 hielt ihr Versprechen beim Geld. Von rund 83 Milliar
 
 Anderswo half der Eingriff nachweisbar. Die iberische Ausnahme senkte den Strompreis an der Börse um rund 40 Prozent und die spanische Inflation im Schnitt um 3,5 Punkte ([Haro Ruiz et al. 2024](https://doi.org/10.1080/13504851.2024.2425834)). Dafür wurde mehr Gas verbrannt, und billiger Strom floss nach Frankreich ab ([Hidalgo-Pérez et al. 2024](https://doi.org/10.1016/j.enpol.2024.114092)).
 
-Klüssendorfs unterste Stufe ist besser als ihr Ruf und schlechter als ihr Zweck. Der Tankrabatt von 2022 kam fast vollständig an der Zapfsäule an, mit zwei Wochen Verzug ([Dovern et al. 2023](https://doi.org/10.1016/j.eneco.2023.106948)). Beim zweiten Rabatt im Frühsommer 2026 erreichten in der letzten Woche nur sieben bis elf von 17 Cent die Kunden ([beck-aktuell](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/kartellamt-zu-tankrabatt-2026-06-30)); beim dritten, der seit dem 1. Oktober läuft, misst das ifo in den ersten Tagen 15 bis 16 Cent ([retail-news](https://retail-news.de/tankrabatt-adac-ifo-kraftstoffpreise-oktober-2026/)). Der IWF empfiehlt in solchen Krisen gezielte Zahlungen statt breiter Preissenkungen ([Amaglobeli et al. 2023](https://doi.org/10.5089/9798400237768.001)).
+Klüssendorfs unterste Stufe ist besser als ihr Ruf und schlechter als ihr Zweck. Der Tankrabatt von 2022 kam fast vollständig an der Zapfsäule an, mit zwei Wochen Verzug ([Dovern et al. 2023](https://doi.org/10.1016/j.eneco.2023.106948)). Beim zweiten Rabatt im Frühsommer 2026 kamen nach Schätzung des Kartellamts im Schnitt 13,8 von 16,7 Cent beim Diesel an und 13,0 bei E5 ([Bundeskartellamt, 10.07.2026](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2026/07_10_2026_Quartalsbericht_MTSK.html)); beim dritten, der seit dem 1. Oktober läuft, misst das ifo in den ersten Tagen 15 bis 16 Cent ([retail-news](https://retail-news.de/tankrabatt-adac-ifo-kraftstoffpreise-oktober-2026/)). Der IWF empfiehlt in solchen Krisen gezielte Zahlungen statt breiter Preissenkungen ([Amaglobeli et al. 2023](https://doi.org/10.5089/9798400237768.001)).
 
 Beim Mietendeckel bleibt der Befund, den das Panorama [[Schoener Wohnen#Enteignen, regulieren oder bauen?|Schöner Wohnen]] sammelt: In Berlin fielen die Mieten, und das Angebot schrumpfte. Katalonien senkte die Mieten ab 2020 um vier bis sechs Prozent, ohne dass Wohnungen verschwanden ([Jofre-Monseny et al. 2023](https://doi.org/10.1016/j.regsciurbeco.2023.103916)).
 
@@ -465,6 +465,10 @@ Wie die „Schuld der Vergangenheit“ aussieht, von der Klüssendorf spricht: Z
 ### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
 
 Vier Jahre später fordert Patrick Kaczmarczyk die Gaspreisbremse zurück, im nächsten Winter mit leeren Speichern. Die Frage, ob gekaufte Zeit in den Umbau fließt, stellt sich dort neu.
+
+### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+
+Die Gegenrechnung zu den Pufferlagern steht im Kurzgutachten der Ministeriumsberater vom März 2026: Eine staatliche Gasreserve sei teuer und verdränge weitgehend private Vorräte.
 
 ---
 

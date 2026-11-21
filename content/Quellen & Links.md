@@ -1131,6 +1131,8 @@ tags:
 | **Notiz** | [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]] |
 | **Schlüsselquelle** | [Bellingcat — GRU Sabotage in Czechia and Bulgaria](https://www.bellingcat.com/news/uk-and-europe/2021/04/26/how-gru-sabotage-and-assassination-operations-in-czechia-and-bulgaria-sought-to-undermine-ukraine/) |
 | **Transkript** | `Gedankenwelten/Transkripte/ARTE_Hybrider_Angriff_Transkript.txt` |
+| **Was seither geschah (21.11.2026), Wegweiser** | [Konstantin Flemig — Russland wollte Angriff auf Polen faken (19.11.2026)](https://www.youtube.com/watch?v=mDRTcCGl4bA) · [Das Protokoll, Folge 88, KI-gestützt (21.11.2026)](https://www.youtube.com/watch?v=yOiDacQz-vk) |
+| **Was seither geschah, Primärquellen** | [Tusk-Pressekonferenz 20.11.2026](https://www.youtube.com/watch?v=iRiaMDaXbFE) · [Fox News, Hasnie 19.11.2026](https://www.youtube.com/watch?v=6pAGdOlBcXs) · [MON-Pressekonferenz 20.11.2026](https://www.youtube.com/watch?v=5BmQR_hUNhs) · [OSW zu Koalicja 26.2](https://www.osw.waw.pl/en/publikacje/analyses/2026-11-17/exercise-koalicja-262-a-test-readiness-to-deploy-multinational-force) · [Rzeczpospolita 18.11.2026](https://www.rp.pl/konflikty-zbrojne/art45490041-prowokacja-z-duza-liczba-ofiar-i-zrzuceniem-winy-na-ukraine-ustalilismy-co-powstrzymalo-rosje) |
 
 ## Jacob Beautemps (Breaking Lab) — Der Super-El-Niño 2026 (2026)
 

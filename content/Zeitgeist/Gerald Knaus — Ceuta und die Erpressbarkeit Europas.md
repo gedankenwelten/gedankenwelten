@@ -408,6 +408,10 @@ Das Gegenmodell zu Knaus' Stichtag: Die Berliner Linke will einen Stichtag, der 
 ### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 Ein Kriminologe trennt die persönliche Furcht, die seit den 1990ern gesunken ist, von der Sorge um das Land. Er widerspricht Knaus' Rückkehr-Logik mit der historischen Erfahrung, dass ein Teil der Abgelehnten immer bleibt.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Dieselbe Lehre beim Gas: Wer von Russland zu den USA wechselt, schafft nach Patrick Kaczmarczyk „neue Erpressbarkeiten“.
+
 ---
 
 ## Weiterdenken

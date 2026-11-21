@@ -2,7 +2,7 @@
 title: "Hybrider Angriff — Wie Putin Europas Osten destabilisiert"
 date: 15.07.2026
 description: "Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?"
-aktualisiert: 27.07.2026
+aktualisiert: 21.11.2026
 tags:
   - zeitgeist
   - year-2026
@@ -108,6 +108,43 @@ Das ist der Kern und die Krux zugleich. Der wiederkehrende Wortlaut ist ein star
 Das ist kein Vorwurf, sondern der Schlüssel zum ehrlichen Sehen. *„Hybrider Angriff"* ist mit voller Absicht ein Film von einer Seite — polnisch, prowestlich, aus der Erfahrung sowjetischer Unterdrückung. Diese Perspektive ist legitim und größtenteils belegt: Vrbětice, Nowitschok, Voice of Europe, die GRU-Einheit 29155 sind keine Meinung, sondern Ermittlungsergebnisse. Aber der Film arbeitet auch mit der Dramaturgie, die er anprangert: die suggestive Montage, das ominöse „hab's gefunden", die Musik unter dem Verdacht, die Kette von Indizien, die sich wie Beweise anfühlt.
 
 Wer ihn richtig liest, nimmt beides mit: die harte Substanz *und* das Bewusstsein, dass Angst hier nicht nur beschrieben, sondern auch erzeugt wird. Denn die wirksamste Verteidigung gegen hybride Kriegsführung ist nicht die Gegenangst — es ist die Fähigkeit, einen Befund von einer Erzählung zu unterscheiden, auch wenn beide auf derselben Seite stehen.
+
+---
+
+## Was seither geschah
+
+*Stand: 21.11.2026. Nur Polen, das Land, mit dem der Film beginnt.*
+
+Der Film zeigt Polen noch im Krieg der Mitschnitte und Parolen. Seither ist dort aus dem Einfluss Sabotage geworden und aus der Sabotage ein Streit um den Luftraum. Die Frage vom Schluss des Films, wo der Befund endet und die Erzählung beginnt, stellt sich dabei neu. Darum hier geordnet nach dem, was man weiß.
+
+### Was belegt ist
+
+- **Die Drohnennacht, 9. auf 10. September 2025.** Russische Drohnen drangen in den polnischen Luftraum ein, die Behörden bargen Teile von 17 Drohnen, verletzt wurde niemand. Polen beantragte Konsultationen nach Artikel 4 des NATO-Vertrags ([Al Jazeera](https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond)). Trump sagte tags darauf, es könnte ein Versehen gewesen sein. Tusk antwortete: „Auch wir würden uns wünschen, dass der Drohnenangriff ein Versehen war. Er war es nicht. Und wir wissen es.“ ([CBS](https://www.cbsnews.com/news/poland-russia-trump-putin-ukraine-war-tusk-says-drones-not-a-mistake))
+- **Die Bahnstrecke, 16. November 2025.** Bei Mika, südöstlich von Warschau, zerstörte eine Sprengung die Gleise der Linie Warschau–Lublin, über die Hilfe in die Ukraine fährt. Tusk sprach von einem „beispiellosen Sabotageakt“ ([BBC](https://www.bbc.co.uk/news/articles/cp85g86x0zgo)). Zwei Tage später nannte er die Hauptverdächtigen: zwei Ukrainer, die für russische Dienste gearbeitet haben und über Belarus gekommen sein sollen ([Guardian](https://www.theguardian.com/world/2025/nov/18/ukrainians-working-for-russia-rail-blasts-says-poland-prime-minister-donald-tusk)). Täter aus der Ukraine, Auftraggeber in Moskau: Diese Verbindung kehrt ein Jahr später in einem Zeitungsbericht wieder (unten).
+- **Ende Juli 2026** fiel in der Region Lublin ein russischer Marschflugkörper, wahrscheinlich vom Typ Ch-101, auf unbebautes Land, ohne Opfer. Friedrich Merz schrieb, der Einschlag zeuge von „russischer Rücksichtslosigkeit und Bereitschaft zur Eskalation“ ([Rzeczpospolita](https://www.rp.pl/konflikty-zbrojne/art44916331-kanclerz-merz-naruszenie-polskiej-przestrzeni-swiadczy-o-gotowosci-rosji-do-eskalacji)).
+- **20. November 2026.** In der Nacht eines der schwersten russischen Angriffe auf die Ukraine gingen in Südostpolen zwei russische Raketen nieder, dazu vermutlich eine Drohne mit Strahlantrieb. Verletzt wurde niemand. Ein Ch-101 schlug rund 50 Kilometer hinter der ukrainischen Grenze ein, eine Einschlagstelle lag laut AP etwa 35 Kilometer vom Übungsplatz Nowa Dęba entfernt ([AP](https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace)). Dort übt seit dem 9. November die „Koalition der Willigen“ zum ersten Mal mit einer Truppe, die die Ukraine nach einem Waffenstillstand absichern soll: 2.800 Soldaten aus zehn Ländern, dazu 2.000 polnische für die Logistik. Deutschland ist mit zehn Soldaten und zwei Tankflugzeugen dabei. Moskau nennt die Übung offensiv, die Sprecherin des Außenministeriums Maria Sacharowa erklärte europäische Truppen in der Ukraine zu legitimen Zielen ([OSW, Analyse vom 17.11.](https://www.osw.waw.pl/en/publikacje/analyses/2026-11-17/exercise-koalicja-262-a-test-readiness-to-deploy-multinational-force)).
+
+Tusk sagte am selben Tag, es sehe nach einer „absichtlichen Provokation“ aus. NATO-Generalsekretär Mark Rutte sprach von einer „schweren Verletzung“ des polnischen Luftraums (AP, wie oben). Am Samstag stand er in Warschau neben Tusk und sagte, alle Verbündeten stünden „in voller Solidarität“ zu Polen ([Vatican News](https://www.vaticannews.va/en/world/news/2026-11/nato-rutte-pledges-solidarity-with-poland-after-missile-incursio.html)). Am Montag berät der Nordatlantikrat in Brüssel über die Raketen ([Rzeczpospolita](https://www.rp.pl/polityka/art45523411-rada-nato-zbierze-sie-ws-rosyjskich-rakiet-bedziemy-bronic-kazdego-centymetra-polski)). Verteidigungsminister Władysław Kosiniak-Kamysz hat mit Boris Pistorius vereinbart, dass im kommenden Jahr deutsche Eurofighter in Polen stehen ([Pressekonferenz, ▶ 21:29](https://www.youtube.com/watch?v=5BmQR_hUNhs&t=1289)).
+
+### Versehen oder Absicht
+
+Am Tag vor den Einschlägen gab die Fox-Korrespondentin Aishah Hasnie ein Telefonat mit Trump wieder: Putin lasse, wie er wisse, Drohnen in Polen landen „und ein paar, sagte er, kleine Raketen aus Versehen“ ([Fox News](https://www.youtube.com/watch?v=6pAGdOlBcXs)). Der Satz fiel vor dem Freitag und meinte frühere Fälle, und eine Aufnahme mit Trumps eigener Stimme gibt es nicht. In seiner Pressekonferenz am Freitag wurde Tusk danach gefragt. Er sagte, Verbündete wie die Vereinigten Staaten wollten mit der Reaktion nicht übertreiben, damit keine neue Spirale entstehe, „und das verstehe ich“. Er teile aber, vorsichtig gesagt, nicht immer die amerikanische Deutung dieser Vorfälle. Die Amerikaner hätten Zugang zu den Trümmern, und diesmal werde niemand mehr so tun, als sei es „ein unschuldiger Betriebsunfall“ ([Pressekonferenz, ▶ 10:33](https://www.youtube.com/watch?v=iRiaMDaXbFE&t=633), unsere Übersetzung). Eine Äußerung des Weißen Hauses zu den Raketen vom Freitag haben wir bis zum Stand nicht gefunden.
+
+Dass die erste Zuschreibung auch falsch sein kann, zeigt Przewodów: Im November 2022 starben dort zwei Menschen durch eine Rakete, und es war eine ukrainische Flugabwehrrakete ([Wikipedia](https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland)). Diesmal liegen die Trümmer in Polen, und Polen selbst sagt, sie seien russisch.
+
+Wie man einen Vorfall nennt, entscheidet mit, was man danach tun muss. Der Presseclub hat das am Wort „hybrid“ durchgesprochen, das beruhigt, statt zu benennen (→ [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]). „Versehen“ beruhigt noch mehr.
+
+### Was berichtet, aber nicht belegt ist
+
+Ende Oktober verstärkte Polen die Grenze zur Exklave Kaliningrad mit Polizei, Antiterroreinheiten und der Spezialeinheit GROM. Polnische und verbündete Dienste hatten für die erste Novemberhälfte vor Sabotage und vor dem Eindringen Bewaffneter gewarnt ([CBS](https://www.cbsnews.com/news/poland-russia-border-operation-kaliningrad-sabotage-provocation-nato/)). In der Nacht auf den 3. November meldete der Grenzschutz Menschen mit Taschenlampen nahe Sępopol, die Grenze überquerte niemand ([Meduza nach RMF 24](https://meduza.io/en/news/2026/11/03/prime-minister-donald-tusk-says-poland-prevented-a-possible-provocation-on-the-border-with-russia-s-kaliningrad-exclave-after-spotting-people-with-flashlights)). Tusk sagte, man habe einen Provokationsversuch verhindert, „falls das die Absicht war. Natürlich werden wir das nie vollständig bestätigen können“ (CBS, wie oben).
+
+Am 18. November berichtete die *Rzeczpospolita*, Russlands Dienste hätten an dieser Grenze eine Sabotageaktion mit vielen Opfern vorbereitet, verbunden mit einem möglichen Grenzübertritt und einem vorgetäuschten Angriff auf ein Ziel in Russland, womöglich unter falscher Flagge, damit die Schuld auf Kyjiw fällt. Die Zeitung beruft sich auf ungenannte hochrangige Leute aus den Sicherheitsdiensten ([Rzeczpospolita](https://www.rp.pl/konflikty-zbrojne/art45490041-prowokacja-z-duza-liczba-ofiar-i-zrzuceniem-winy-na-ukraine-ustalilismy-co-powstrzymalo-rosje), hinter der Bezahlschranke, frei ist nur der Vorspann). Von außen lässt sich das nicht prüfen. Die Bahn-Sabotage von 2025 macht den Bericht plausibel, belegt ihn aber nicht.
+
+Auch Moskau erzählt. Am 11. November, dem polnischen Unabhängigkeitstag, meldete der FSB, er habe in der Region Kaliningrad zwei mutmaßliche polnische Agenten festgenommen, die militärische Anlagen ausgespäht haben sollen. Jacek Dobrzyński, Sprecher des polnischen Geheimdienstkoordinators, nannte das „eine weitere Provokation und einen Akt der Desinformation“ ([Moscow Times nach Interfax](https://www.themoscowtimes.com/2026/11/11/fsb-arrests-alleged-polish-intelligence-agents-in-kaliningrad-region-a94225)). Auch hier steht Behauptung gegen Behauptung.
+
+Im Herbst 2026 liegen in Polen also Trümmer, die jeder sehen kann, neben Plänen, von denen nur Ungenannte wissen. Beides gehört zum hybriden Krieg, und die Trennung, die der Film am Ende verlangt, ist jetzt schwerer und nötiger als damals. Tusk zog am Freitag einen eigenen Schluss: Polen müsse an den Entscheidungen über die Zukunft der Ukraine teilnehmen, weil es Russland am stärksten ausgesetzt sei. Wer dort am Tisch sitzt, verfolgt unsere Spur [[Spuren/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen|Über sie, ohne sie]].
+
+*Auf die Ereignisse im November aufmerksam gemacht haben uns [[DenkerVita/Konstantin Flemig|Konstantin Flemig]] und der KI-gestützte Kanal „Das Protokoll“. Belegt ist, was hier verlinkt steht.*
 
 ---
 

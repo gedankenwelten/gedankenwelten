@@ -83,7 +83,10 @@ Offen bleibt, wie weit seine Diagnose trägt. Er stützt sich auf Umfragen, nach
 
 ## Verbindungen zu anderen Denkern
 
-*Folgt.*
+- [[DenkerVita/Achim Truger|Achim Truger]] — Den ersten Gast seiner Reihe „Zivilisierte Provokation“ holte Kolev von der anderen Seite der Debatte. Bei den Schulden stehen sie gegeneinander: Kolev zählt sie zu den Preisen des Staates, Truger hält die Schuldenbremse für eine Investitionsbremse.
+- [[DenkerVita/Isabella Weber|Isabella Weber]] — Weber beruft sich auf das Ahlener Programm, Kolev leitet das Forum der Stiftung, die Erhards Erbe pflegt. Unsere Nachbesprechung [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Ahlen oder Erhard?|Ahlen oder Erhard?]] zeigt, dass beide Traditionen näher beieinanderliegen, als ihre Lager zugeben.
+- [[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]] — Kolev nennt die alten Ordnungsdenker einen Steinbruch, der klug übersetzt werden muss; der Sozialdemokrat Klüssendorf bricht darin von der anderen Seite, mit Euckens Gedanken, Monopole so zu beaufsichtigen, als stünden sie im Wettbewerb.
+- [[DenkerVita/Philippa Sigl-Gloeckner|Philippa Sigl-Glöckner]] — Beide machen die Jüngeren zum Maßstab und kommen zu entgegengesetzten Schlüssen: Kolev rechnet Schulden zu den Preisen des Staates, Sigl-Glöckner leitet aus der Freiheit künftiger Generationen gerade Ausgaben für Klimaschutz und Unabhängigkeit ab.
 
 ## Gedankenwelten-Notes
 

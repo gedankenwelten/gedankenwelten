@@ -117,3 +117,6 @@ Hier endet das erfundene Wort: Die Ministerin wiederholt den „Zwang zur Wärme
 
 Am Ende ihrer Mythen-Folge landen Felix Goldbach und Robin Schmid beim Nachfolgegesetz, dessen Bio-Treppen-Preise laut Bundestagsdrucksache „nicht vorhergesagt werden“ können. Die Note zeigt auch, warum ein gesäter Zweifel genügt, um Menschen bei der Gasheizung zu halten.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Ob Empörung der Partei folgt, die regiert, fragt Patrick Kaczmarczyk im Gaswinter 2026; die Zählung hier ist die eine Hälfte dieses Vergleichs.

@@ -52,7 +52,7 @@ Mit der Gaspreisbremse, die Veronika Grimm in der Gaskommission mitentworfen hat
 - Andrew Levin, Volker Wieland, John Williams: *Robustness of Simple Monetary Policy Rules under Model Uncertainty* — in John B. Taylor (Hrsg.), *Monetary Policy Rules*, NBER und University of Chicago Press, 1999.
 - Volker Wieland: *The Taylor Rule at Thirty: Still Useful to Get the Fed Back on Track* — in Bordo, Cochrane, Taylor (Hrsg.), *Getting Monetary Policy Back on Track*, Hoover Institution Press.
 - Balint Tatar, Volker Wieland: *Policy Rules and the Inflation Surge: The Case of the ECB* — 2025, über Zinsregeln und den Inflationsschub im Euroraum; das Kurzgutachten 2026 stützt sich darauf ([IMFS](https://www.imfs-frankfurt.de/news-medien/aktuelles/artikel/neues-papier-von-volker-wieland-und-balint-tatar-policy-rules-and-the-inflation-surge-the-case-of-the-ecb)).
-- Volker Wieland: [*Industriestandort Deutschland in Gefahr*](https://rotary.de/wirtschaft/industriestandort-deutschland-in-gefahr-a-20937.html) — Rotary-Magazin, 2022. Sein Plädoyer für Kernkraft, heimisches Schiefergas und eine entschlossene EZB.
+- Volker Wieland: *Industriestandort Deutschland in Gefahr* — Rotary-Magazin, 2022 (die Seite des Magazins ist nicht mehr erreichbar; [Zusammenfassung beim IMFS](https://www.imfs-frankfurt.de/news-medien/aktuelles/artikel/volker-wieland-fordert-von-bundesregierung-mit-fracking-das-energieangebot-auszubauen-rotary-magazin)). Sein Plädoyer für Kernkraft, heimisches Schiefergas und eine entschlossene EZB.
 - Grimm, Haucap, Kolev, Wieland: [*Eskalation im Nahen Osten: Auswirkungen auf Europa – und was (nicht) zu tun ist*](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/J-L/20260325-kurzgutachten-energiekrise.pdf?__blob=publicationFile&v=4) — Kurzgutachten des wissenschaftlichen Beraterkreises, 13.03.2026.
 - [Jahresgutachten des Sachverständigenrats](https://www.sachverstaendigenrat-wirtschaft.de/) 2013 bis 2021 als Mitautor · [Profil am IMFS](https://www.imfs-frankfurt.de/professuren/prof-volker-wieland)
 
@@ -81,7 +81,10 @@ Die Gegenpositionen sind ebenfalls deutlich. Wo Wieland 2022 Transfers als Infla
 
 ## Verbindungen zu anderen Denkern
 
-*Folgt.*
+- [[DenkerVita/Isabella Weber|Isabella Weber]] — Der Gegenpol bei der Inflation: Wieland liest einen Energiepreisschock als Angebotsschock, gegen den die Notenbank den realen Zins heben muss; Weber liest die Inflation von 2021 bis 2023 als Verkäuferinflation, gegen die Zinserhöhungen allein die Kredite für den Umbau verteuern.
+- [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — Zwei, die das Handwerk in Notenbanken lernten und Gegensätzliches folgern: Fratzscher hält ein höheres Inflationsziel für vertretbar und will die Schuldenbremse ersetzen, Wieland verlangt eine regelgebundene Notenbank und sagt, man sei mit der Schuldenbremse sehr gut gefahren.
+- [[DenkerVita/Philippa Sigl-Gloeckner|Philippa Sigl-Glöckner]] — Beide sitzen in der Expertenkommission der Bundesregierung zur Schuldenregel, mit gegensätzlichem Ausgangspunkt: Wieland hält feste Fiskalregeln für bewährt, Sigl-Glöckner fand für die 60-Prozent-Grenze keine gute Begründung.
+- [[DenkerVita/Achim Truger|Achim Truger]] — Bis 2022 saßen beide im Sachverständigenrat, Truger dort oft mit dem Minderheitsvotum. Wo Wieland vor Entlastungspaketen als „linke Tasche, rechte Tasche“ warnte, hält Truger Sparen in der Krise für krisenverschärfend.
 
 ## Gedankenwelten-Notes
 

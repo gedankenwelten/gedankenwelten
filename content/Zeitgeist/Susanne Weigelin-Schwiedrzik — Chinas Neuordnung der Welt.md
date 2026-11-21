@@ -305,6 +305,9 @@ Dasselbe Malakka-Dilemma beantwortet China bei Specht mit vollen Öllagern, eige
 
 Japan ist für Leonhard ein Beispiel dafür, dass eine Niederlage zur Chance werden kann; das Selbstbild vom „Sklavenstaat“ zeigt, was davon Jahrzehnte später übrig ist.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Was es heißt, eine Meerenge nicht umgehen zu können, zeigte Europa im Herbst 2026: Katars Flüssiggas blieb hinter Hormus, während eskortierte Öltanker durchkamen, und Deutschland hatte nur den Lieferanten gewechselt.
 
 ---
 

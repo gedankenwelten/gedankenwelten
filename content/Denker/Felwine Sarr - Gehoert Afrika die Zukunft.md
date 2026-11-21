@@ -252,6 +252,10 @@ Ngũgĩs Nairobi-Reform von 1968 („from here to there to here") ist die instit
 
 Der senegalesische Nächste: Diagne liefert Sarrs endogenem Denken die sprachphilosophische Statik — „eigene Quellen" taugen nur als übersetzbare, reziprok geöffnete, nicht als abgeschottete Andersheit. Ateliers de la Pensée und die Gastfreundschaft der Übersetzung gehören zusammen.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Wie dieselbe Frage von europäischer Seite klingt, sagt Patrick Kaczmarczyk über Energie aus Nordafrika: nicht fossile Importe durch grüne ersetzen und alles andere lassen, wie es ist.
+
 ---
 
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]

@@ -281,6 +281,10 @@ Bogner liefert die Theorie zu Löschels Gratwanderung: Wo politische Konflikte a
 
 In der Gaskrise 2026 fordert Patrick Kaczmarczyk die Gaspreisbremse zurück und einen Strompreisdeckel auf zehn Jahre, genau den Eingriff gegen fossile Preisspitzen, vor dessen Signalwirkung Löschel warnt.
 
+### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+
+Dieselbe Sorge um Erwartungen, aus einem Regierungsgutachten: Der Beraterkreis der Ministerin will den Emissionshandel auch in der Krise nicht antasten und lehnt den Tankrabatt ab.
+
 ---
 
 ## Weiterdenken

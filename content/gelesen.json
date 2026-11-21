@@ -19,13 +19,13 @@
    "aufrufe": 50
   },
   {
-   "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 41,
-   "aufrufe": 44
-  },
-  {
    "pfad": "/DenkerVita/Hans-Maggi",
    "leser": 41,
+   "aufrufe": 43
+  },
+  {
+   "pfad": "/DenkerVita/Mark-Reicher",
+   "leser": 40,
    "aufrufe": 43
   },
   {
@@ -629,13 +629,13 @@
      "aufrufe": 50
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 41,
-     "aufrufe": 44
-    },
-    {
      "pfad": "/DenkerVita/Hans-Maggi",
      "leser": 41,
+     "aufrufe": 43
+    },
+    {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 40,
      "aufrufe": 43
     },
     {
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 31,
-     "aufrufe": 31
+     "leser": 30,
+     "aufrufe": 30
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",

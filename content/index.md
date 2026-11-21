@@ -40,11 +40,11 @@ Die Gedankenwelten (luc)
 >
 > Vor einem Jahr ging es darum, was Bürger von digitalem Bargeld erwarten, heute geht es darum, wem die Schienen unter dem Geld gehören. Petra Gehring und Sebastian Gießmann über Wero, die Eurocard und den digitalen Euro.
 
-> **21.11.** — [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+> **21.11.** — [[Zeitgeist/ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten|Hybrider Angriff — Wie Putin Europas Osten destabilisiert]]
 >
-> Wer sich von einem Lieferanten löst, bindet sich an den nächsten. Patrick Kaczmarczyk über leere Speicher, Flüssiggas aus Amerika und die Frage, wer die Rechnung im Winter bezahlt.
+> Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
 
-> → *17 weitere in* [[Zeitgeist]]
+> → *18 weitere in* [[Zeitgeist]]
 
 ### Denker
 

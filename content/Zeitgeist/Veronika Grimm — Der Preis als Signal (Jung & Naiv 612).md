@@ -384,6 +384,10 @@ Oetting stellt die Frage nach dem Kapital von der anderen Seite: nicht wofür es
 
 Grimms Warnung vor 80 Milliarden Zinsen im Jahr 2030 ist Flassbecks Ausgangspunkt. Er dreht sie um: Die Zinsen seien Einkommen der Sparer. Die Nachbesprechung dort hält beide gegen die Zahlen, die Hälfte der Gläubiger im Ausland und Blanchards Bedingung, dass der Zins unter dem Wachstum bleibt.
 
+### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+
+Das Kurzgutachten, an dem Grimm im März 2026 mitschrieb: keine staatliche Gasreserve, keine Übergewinnsteuer, Fracking ernsthaft prüfen, Emissionshandel halten.
+
 ---
 
 ## Weiterdenken

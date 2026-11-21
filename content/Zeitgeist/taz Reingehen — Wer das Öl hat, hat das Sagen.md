@@ -296,3 +296,7 @@ Dass die Wende in der akuten Krise nicht hilft, bestreitet Specht mit Beispielen
 ### → [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
 
 Dieselbe Stimme, ausführlich: Hier sagt Herrmann den 10-%-Satz im Vorbeigehen, dort baut sie ihn zur Begründung aus, warum grünes Wachstum an der Physik der Umwandlungsketten scheitert. Dort steht auch die Rechnung, die den 10 % recht gibt.
+
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Was aus der Prognose wurde: Öl kam mit amerikanischer Eskorte durch die Meerenge, Katars Flüssiggas nicht, und der Gaspreis in Europa stieg im Oktober über 100 Euro.

@@ -260,3 +260,7 @@ Dieselbe Münze, andere Seite: Quaschning argumentiert „weg vom Verbrenner" vo
 
 ### → [[Akkudoktor — Lanz und die Energiewende]]
 Identisches Desinformationsmuster: Was Quaschning bei AfD-Narrativen widerlegt, adressiert Akkudoktor bei ZDF-Narrativen
+
+### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+
+Dieselbe Absage an den Tankrabatt, mit anderer Begründung, gab der Beraterkreis der Wirtschaftsministerin im März 2026.

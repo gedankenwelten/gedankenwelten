@@ -362,6 +362,10 @@ Rosas Beschleunigungskritik trifft auf Heins 996-Beispiel (Chinas Arbeitskultur)
 
 Heins Blick auf Wirtschaft als Machtinstrument fragt, was in Gießmanns Geschichte offen bleibt: ob das Aufgehen der Eurocard in Mastercard (Fusion von Europay und Mastercard 2002) eine bloße Marktentscheidung war. Europa hatte eigene Zahlungssysteme aufgebaut und hat sie nicht gehalten. Die Frage „Was macht es diesmal anders?“ ist Heins Frage, auf Zahlungssysteme statt auf Energie angewandt.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Wie die Abhängigkeit von den USA beim Gas aussieht, rechnet Patrick Kaczmarczyk vor: vom russischen Gas ins amerikanische Flüssiggas, und mit einer Warnung vor neuen Abhängigkeiten in Nordafrika.
+
 ---
 
 ## Weiterdenken

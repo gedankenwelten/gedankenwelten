@@ -82,7 +82,10 @@ Offen bleibt, was geschieht, wo diese Unterscheidung im Alltag verschwimmt. Wer 
 
 ## Verbindungen zu anderen Denkern
 
-*Folgt.*
+- [[DenkerVita/Isabella Weber|Isabella Weber]] — Dieselbe Diagnose, das andere Werkzeug: Was Haucap stillschweigend abgestimmtes Verhalten im Oligopol nennt, ist in Webers Verkäuferinflation der Mechanismus, mit dem marktmächtige Anbieter einen Schock in höhere Margen verwandeln. Sie setzt im Schock den Preisdeckel dagegen, er das Kartellrecht ([[Isabella Weber — Antifaschistische Wirtschaftspolitik#Wirken Preisdeckel?|Wirken Preisdeckel?]]).
+- [[DenkerVita/Tom Krebs|Tom Krebs]] — Beide halten die Gaspreisbremse von 2022 für gescheitert, von entgegengesetzten Enden: Krebs nennt sie eine „Pseudopreisbremse“, Haucap einen „echten Misserfolg“. Einig sind sie, dass Märkte ohne Wettbewerb nicht halten, was das Lehrbuch verspricht; Krebs will solche Märkte in öffentlicher Hand, Haucap will sie entflechten und scharf beaufsichtigen.
+- [[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]] — Nah bei der Entflechtung und der Absage an den Tankrabatt, getrennt bei den Menschen auf dem Land: Klüssendorf greift trotzdem zum Rabatt, Haucap will gezielt über die Pendlerpauschale helfen.
+- [[DenkerVita/Volker Quaschning|Volker Quaschning]] — Von der anderen Seite der Energiedebatte zum selben Befund: Den Tankrabatt hält Quaschning für verbranntes Geld, die Lösung sieht er in der kartellrechtlichen Entflechtung von Ölkonzernen, Raffinerien und Tankstellen.
 
 ## Gedankenwelten-Notes
 

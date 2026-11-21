@@ -300,6 +300,14 @@ Kaczmarczyk nimmt die Merit Order als gegeben und erklärt mit ihr, warum Kohle 
 
 Kemfert steht gegen Reiches fossilen Kurs auf Kaczmarczyks Seite und trotzdem gegen sein Instrument: [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)#Spritpreise drücken ist ökonomisch und ökologisch falsch|Ein Deckel hält die fossile Nachfrage hoch]], besser sei ein Klimageld für niedrige Einkommen. Ihr Einwand trifft seine Gaspreisbremse, kaum aber seinen Strompreisdeckel, der in Richtung Elektrifizierung drückt. Sie spricht allerdings über Sprit, nicht über Heizgas, bei dem kaum jemand ausweichen kann.
 
+### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+
+Das ganze Papier der Ministeriumsberater, mit dem, was der Herbst daraus machte: Preissignal statt Eingriff, keine Reserve, keine Übergewinnsteuer, Fracking prüfen.
+
+### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
+
+Teil 1 der Doppelfolge: warum der Preis im Herbst stieg, warum Deutschland vom russischen Gas ins amerikanische Flüssiggas gewechselt ist, und wer die Rechnung zahlt.
+
 ---
 
 ## Weiterdenken
