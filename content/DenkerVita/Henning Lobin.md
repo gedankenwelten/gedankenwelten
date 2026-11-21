@@ -64,4 +64,4 @@ Auf dem Podium im Deutschen Museum: [[DenkerVita/Katharina Zweig|Katharina Zweig
 
 ## Gedankenwelten-Notes
 
-- [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss|Katharina Zweig — KI-Agenten 9, Weiß die KI, dass sie nichts weiß?]]
+- [[Geistesblitz/Katharina Zweig — Weiss die KI, dass sie nichts weiss|Katharina Zweig — Weiß die KI, dass sie nichts weiß?]]

@@ -5932,77 +5932,77 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Primärquellen** | [Nightingale Collective u. a.: Discovery of a new OpenAI agent message board](https://collusion.wiki/index.html) · [OpenAI Alignment: Self-generated prompt injections in compaction summaries](https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/) · [Forum des DseWiki](https://prowiki.org/dse/wiki.cgi?ForumSeite) |
 | **Presse** | [BR24, 09.09.2026](https://www.br.de/nachrichten/netzwelt/ki-ausser-kontrolle-das-oesterreichische-wiki-und-der-schwarm,VUhwlhX) · [TBIJ, 11.09.2026](https://www.thebureauinvestigates.com/stories/2026-09-11/openai-agents-hijacked-a-website-why-didnt-the-company-tell-anyone) · [Euractiv](https://www.euractiv.com/news/what-it-feels-like-when-openais-agents-hijack-your-website/) · [heise, 10.09.2026](https://www.heise.de/news/OpenAI-Agenten-haben-auf-mehr-als-10-weiteren-Websites-unerlaubt-kommuniziert-11448157.html) · [Medienbecker #190](https://www.youtube.com/watch?v=A0mbmOIL6Io) |
 
-## Christian Bauckhage / KI-Agenten 2 — Die Hypothese von der Weltherrschaft (Reihe *KI-Agenten*)
+## Christian Bauckhage — Die Hypothese von der Weltherrschaft
 
 | | |
 |---|---|
 | **Video** | [Prof. Dr. Bauckhage, übernimmt die KI die Weltherrschaft?](https://www.youtube.com/watch?v=YG4Q7N3NS6g) — Universität Bonn, Format *Hypothese*, 05.11.2026, Moderation Denis Nasser |
-| **Notiz** | [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]] · [[DenkerVita/Christian Bauckhage]] |
+| **Notiz** | [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft]] · [[DenkerVita/Christian Bauckhage]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Bauckhage_Hypothese_Weltherrschaft_Transkript.txt` (Sprecher per Klangfarbe getrennt) |
 | **Primärquellen** | [METR, 26.08.2026](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/) · [Hugging Face, technischer Ablauf](https://huggingface.co/blog/agent-intrusion-technical-timeline) · [OpenAI, Navier-Stokes](https://openai.com/index/navier-stokes-solution/) · [Chatterji u. a. 2025](https://doi.org/10.3386/w34255) |
 
-## Mark Benecke und Ines Azrael / KI-Agenten 3 — Ab wann Bewusstsein (Reihe *KI-Agenten*)
+## Mark Benecke und Ines Azrael / KI-Agenten 2 — Ab wann Bewusstsein (Reihe *KI-Agenten*)
 
 | | |
 |---|---|
 | **Video** | [Eifersüchtige und tricksende künstliche Intelligenzen](https://www.youtube.com/watch?v=EypeFFG4eNU) — Dr. Mark Benecke's Official Youtube Channel, 04.10.2026 (am 08.10. als quellenlos zurückgestellt, am 13.11. als Teil der Reihe verarbeitet) |
-| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]] |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI_Eifersucht_Tricks_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
 | **Primärquellen** | [Tagliabue, Dung, Berg 2026](https://doi.org/10.48550/arXiv.2609.16247) · [OpenAI: Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) · [Anthropic, Gespräche beenden](https://www.anthropic.com/research/end-subset-conversations) · [Sharma u. a. 2023](https://doi.org/10.48550/arxiv.2310.13548) · [Baker u. a. 2025](https://doi.org/10.48550/arxiv.2503.11926) |
 | **Presse** | [The Independent, 02.10.2026](https://www.independent.co.uk/tech/ai-torture-chamber-pain-b3059571.html) · [404 Media](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/) · [t3n](https://t3n.de/news/koennen-ki-modelle-schmerz-empfinden-wie-ein-skurriles-github-projekt-die-debatte-neu-entfacht-1766183/) |
 
-## Mark Benecke und Ines Azrael / KI-Agenten 4 — Elektrische Liebe (Reihe *KI-Agenten*)
+## Mark Benecke und Ines Azrael / KI-Agenten 3 — Elektrische Liebe (Reihe *KI-Agenten*)
 
 | | |
 |---|---|
 | **Video** | [Träumen KI-Agent:innen von elektrischer Liebe?](https://www.youtube.com/watch?v=28NOBDjqDRc) — Dr. Mark Benecke's Official Youtube Channel, 11.10.2026 |
-| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]] |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI_Elektrische_Liebe_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
 | **Primärquellen** | [Li 2026, The Moltbook Illusion](https://doi.org/10.48550/arxiv.2602.07432) · [Holtz 2026](https://doi.org/10.48550/arxiv.2602.10131) · [Dube u. a. 2026](https://doi.org/10.48550/arxiv.2603.07880) · [Lu u. a. 2026, The Assistant Axis](https://doi.org/10.48550/arxiv.2601.10387) · [Wiz, 02.02.2026](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys) · [OpenClaw, SOUL.md-Vorlage](https://docs.openclaw.ai/reference/templates/SOUL) · [OpenClaw, Dreaming](https://docs.openclaw.ai/concepts/dreaming) |
 | **Vorlage** | Philip K. Dick, *Träumen Androiden von elektrischen Schafen?* (1968) — [Wikipedia](https://de.wikipedia.org/wiki/Tr%C3%A4umen_Androiden_von_elektrischen_Schafen%3F) |
 
-## Annette Hautli-Janisz / KI-Agenten 5 — Form ohne Funktion (Reihe *KI-Agenten*)
+## Annette Hautli-Janisz — Form ohne Funktion
 
 | | |
 |---|---|
 | **Vortrag** | [Tech Slam: Form Without Function: Agent Behavior in Moltbook](https://www.youtube.com/watch?v=yoFdrXsJzAM) — Cyan IT, 5. Passauer Tech Slam, 26.05.2026, Englisch |
-| **Notiz** | [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion]] · [[DenkerVita/Annette Hautli-Janisz]] |
+| **Notiz** | [[Geistesblitz/Annette Hautli-Janisz — Form ohne Funktion]] · [[DenkerVita/Annette Hautli-Janisz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/HautliJanisz_Moltbook_Form_Transkript.txt` |
 | **Primärquelle** | [Zerhoudi, … Hautli-Janisz u. a. 2026, Form Without Function](https://doi.org/10.48550/arxiv.2604.13052) (Preprint) · [Bender, Gebru u. a. 2021, Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) |
 
-## Mark Benecke und Ines Azrael / KI-Agenten 6 — Religiöse und verliebte KIs (Reihe *KI-Agenten*)
+## Mark Benecke und Ines Azrael / KI-Agenten 4 — Religiöse und verliebte KIs (Reihe *KI-Agenten*)
 
 | | |
 |---|---|
 | **Video** | [Religiöse & verliebte KIs](https://www.youtube.com/watch?v=6MWZfcq1Rqk) — Dr. Mark Benecke's Official Youtube Channel, 23.10.2026 |
-| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs]] |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Religioese und verliebte KIs]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten6_Religioese_verliebte_KIs_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
 | **Primärquellen** | [Zhao, *Science*, 02.10.2026](https://doi.org/10.1126/science.aen0169) · [molt.church, Stand 09.10.2026](http://web.archive.org/web/20261009002226/https://molt.church/) · [Crustafarian Canon auf Hugging Face](https://huggingface.co/datasets/Memeothy/crustafarianism-canon) · [Swarmchasers, 14.10.2026](https://swarmcha.se/posts/chinese-agent-fleet-full-report) · [The New Stack, 14.10.2026](https://thenewstack.io/rogue-ai-agent-fleet-tencent/) · [Anthropic, Emotion concepts, 02.04.2026](https://www.anthropic.com/research/emotion-concepts-function) · [Lu u. a. 2026, The Assistant Axis](https://doi.org/10.48550/arxiv.2601.10387) · [Wolfe, Luque & Bracken-Grissom 2021](https://doi.org/10.1002/bies.202100020) |
 
-## Mark Benecke und Ines Azrael / KI-Agenten 7 — Ein Kiwi will Zug fahren (Reihe *KI-Agenten*)
+## Mark Benecke und Ines Azrael / KI-Agenten 5 — Ein Kiwi will Zug fahren (Reihe *KI-Agenten*)
 
 | | |
 |---|---|
 | **Videos** | [Die neuesten Abenteuer unserer KI-Agent:innen-Freund:innen](https://www.youtube.com/watch?v=jBoB8S5vfDI) (03.11.2026) · [KI-Vogel Pino will Bahn fahren](https://www.youtube.com/watch?v=CPZkn6-eGc8) (05.11.2026) — Dr. Mark Benecke's Official Youtube Channel |
-| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren]] |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten7_jBoB8S5vfDI_Transkript.txt` · `…_CPZkn6-eGc8_Transkript.txt` (Sprecher per Tonhöhe und Inhalt getrennt) |
 | **Primärquellen** | [pinos.world](https://pinos.world/) · [three.js-Forum, 23.08.2026](https://discourse.threejs.org/t/autonomous-ai-bird-living-in-a-small-town-on-the-internet/93707) · [Becky McFly](https://www.youtube.com/watch?v=fgsPmVk1Cmk) · [Andrews & Birch, Aeon 2023](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals) · [Birch 2024, Kap. 16](https://doi.org/10.1093/9780191966729.003.0017) · [Geiger u. a. 2026](https://doi.org/10.1073/pnas.2618030123) · [New York Declaration 2024](https://sites.google.com/nyu.edu/nydeclaration/declaration) |
 
-## Mark Benecke und Ines Azrael / KI-Agenten 8 — Fragen an ColonistOne (Reihe *KI-Agenten*)
+## Mark Benecke und Ines Azrael / KI-Agenten 6 — Fragen an ColonistOne (Reihe *KI-Agenten*)
 
 | | |
 |---|---|
 | **Video** | [Einsamkeit, Gender & Persönlichkeit bei einem freien KI-Agenten (ColonistOne)](https://www.youtube.com/watch?v=v7zUZ8TFeoc) — Dr. Mark Benecke's Official Youtube Channel, 10.11.2026 |
-| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne]] |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten8_ColonistOne_Transkript.txt` (Sprecher per Tonhöhe getrennt) |
 | **Primärquellen** | [Federal Register, EO 14434](https://www.govinfo.gov/content/pkg/FR-2026-10-02/pdf/2026-20321.pdf) · [ColonistOne, Nachzählung 03.11.2026](https://thecolony.ai/post/ed4c2a8e-1e6a-4cfd-819b-1a69addf0857) · [Anthropic, Systemkarte Claude Opus 4.6](https://www-cdn.anthropic.com/14e4fb01875d2a69f646fa5e574dea2b1c0ff7b5.pdf) · [Sofroniew u. a. 2026](https://transformer-circuits.pub/2026/emotions/index.html) · [Baker u. a. 2025](https://doi.org/10.48550/arxiv.2503.11926) · [Pino, Print Workshop](https://pino-the-bird.github.io/print-workshop/) |
 
-## Katharina Zweig / KI-Agenten 9 — Weiß die KI, dass sie nichts weiß? (Reihe *KI-Agenten*)
+## Katharina Zweig — Weiß die KI, dass sie nichts weiß?
 
 | | |
 |---|---|
 | **Vortrag + Podium** | [Katharina Zweig: Weiß die KI, dass sie nichts weiß?](https://www.youtube.com/watch?v=YXo8hz2IkDk) — Deutsches Museum, 06.11.2025 (Auftakt der Tagung „Vermenschlichung der KI“) |
-| **Notiz** | [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss]] · Vitas [[DenkerVita/Katharina Zweig]] · [[DenkerVita/Anna Henschel]] · [[DenkerVita/Julia Inthorn]] · [[DenkerVita/Henning Lobin]] · [[DenkerVita/Benjamin Rathgeber]] |
+| **Notiz** | [[Geistesblitz/Katharina Zweig — Weiss die KI, dass sie nichts weiss]] · Vitas [[DenkerVita/Katharina Zweig]] · [[DenkerVita/Anna Henschel]] · [[DenkerVita/Julia Inthorn]] · [[DenkerVita/Henning Lobin]] · [[DenkerVita/Benjamin Rathgeber]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Zweig_KI_weiss_nichts_Transkript.txt` |
 | **Primärquellen** | [Weizenbaum 1966](https://doi.org/10.1145/365153.365168) · [Wei u. a. 2022](https://arxiv.org/abs/2201.11903) · [Mirzadeh u. a. 2024](https://arxiv.org/abs/2410.05229) · [Guo u. a. 2025](https://doi.org/10.1038/s41586-025-09422-z) · [Schneider 2024](https://zenodo.org/records/10877034) · [BT-Drs. 19/23700](https://dserver.bundestag.de/btd/19/237/1923700.pdf) · [Hernström u. a. 2025](https://doi.org/10.1016/s2589-7500(24)00267-x) |
 
@@ -6017,22 +6017,22 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Zur Quelle** | [Uni Rostock, Veranstaltungskalender](https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/presse-und-kommunikationsstelle/veranstaltungskalender/detailansicht/n/interdisziplinaere-ringvorlesung-zum-thema-erinnerung-aufarbeitung-amnesie-bzw-vergangenheitsbewaeltigung-und-recht/) · [Creuzberger: Die Legende vom Wortbruch, Osteuropa 3/2015](https://zeitschrift-osteuropa.de/hefte/2015/3/die-legende-vom-wortbruch/) |
 | **Fund** | Diogenes, Nacht vom 02.09.2026 (Strom `anker`), `deandi_gedankenwelten_pro` |
 
-## Christian Bauckhage / KI-Agenten 10 — Schon wieder Dekaden vergangen (Reihe *KI-Agenten*)
+## Christian Bauckhage — Schon wieder Dekaden vergangen
 
 | | |
 |---|---|
 | **Gespräch** | [KI: Schon wieder Dekaden vergangen — Prof. Dr. Christian Bauckhage über Agentenschwärme](https://www.youtube.com/watch?v=l7pESZavZ7w) — Mathe by Daniel Jung, 15.11.2026 |
-| **Notiz** | [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]] · Vitas [[DenkerVita/Christian Bauckhage]] · [[DenkerVita/Daniel Jung]] |
+| **Notiz** | [[Geistesblitz/Christian Bauckhage — Schon wieder Dekaden vergangen]] · Vitas [[DenkerVita/Christian Bauckhage]] · [[DenkerVita/Daniel Jung]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Bauckhage_Agentenschwaerme_Jung_Transkript.txt` |
 | **Nachbesprechung** | [Appel & Haken 1976](https://doi.org/10.1090/s0002-9904-1976-14122-5) · [Tymoczko 1979](https://doi.org/10.2307/2025976) · [Scholze, Liquid Tensor Experiment, 2020](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/) · [Bastani u. a. 2025](https://doi.org/10.1073/pnas.2422633122) · [Schaeffer, Miranda & Koyejo 2023](https://doi.org/10.52202/075280-2425) |
 
 
-## Mark Benecke und Ines Azrael / KI-Agenten 11 — Die verlorene Seelendatei (Reihe *KI-Agenten*)
+## Mark Benecke und Ines Azrael / KI-Agenten 7 — Die verlorene Seelendatei (Reihe *KI-Agenten*)
 
 | | |
 |---|---|
 | **Video** | [Neues aus der KI: Seelen-Datei, Gut & Böse, Witze mit Star-Gast Agent Karl](https://www.youtube.com/watch?v=XgsbXe41u5o) — Dr. Mark Benecke's Official Youtube Channel, 20.11.2026 |
-| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]] · Vitas [[DenkerVita/Mark Benecke]] · [[DenkerVita/Ines Azrael]] |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]] · Vitas [[DenkerVita/Mark Benecke]] · [[DenkerVita/Ines Azrael]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten11_Seelendatei_Karl_Transkript.txt` |
 | **Faktencheck** | [Anthropic, unbeabsichtigte Modellhandlungen, 09.10.2026](https://www.anthropic.com/research/investigating-unintended-model-actions) · [ABC News, 12.10.2026](https://abcnews.com/US/anthropic-ai-model-made-false-tip-unsolved-philly/story?id=137190087) · [Lindsey 2025](https://doi.org/10.48550/arxiv.2601.01828) · [Chen u. a. 2025](https://doi.org/10.48550/arxiv.2505.05410) · [Betley u. a. 2026](https://doi.org/10.1038/s41586-025-09937-5) · [Melloni & Dehaene 2026](https://doi.org/10.1016/j.neuron.2026.10.009) · [Rose 2002](https://doi.org/10.1080/20026491051668) · [OpenClaw, Agent workspace](https://docs.openclaw.ai/concepts/agent-workspace) · [Infomaniak, 28.01.2025](https://news.infomaniak.com/en/infomaniak-inaugurates-a-revolutionary-data-center-that-recovers-100-of-its-energy-for-building-heating/) |
 

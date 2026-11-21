@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*378 Notes — automatisch generiert · nach Thema sortiert*
+*379 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -369,6 +369,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (Kommentarspalte)|Mario Buchinger — Lügen der Kernenergie: Kommentarspalte]] — Was die Kommentarspalte zurückschreibt, wenn ein Physiker Atom-Mythen zerlegt: Mario Buchinger antwortet auf die häufigsten Einwände, von Frankreichs Strom bis zur Sonne als Fusionsreaktor.
 - [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus|MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Künftig soll der langsame Netzausbau das Tempo der Erneuerbaren bestimmen. MONITOR fragt, wem Katharina Reiches Gesetzentwurf nützt – und landet bei ihrem früheren Arbeitgeber E.ON.
 - [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft|Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft]] — Ein Windturm, der sich selbst zum Kran wird und in der Höhe Offshore-Werte erreicht, auch in Bayern. Norio erzählt von einer ostdeutschen Erfindung und dem Tal, in dem Innovationen sterben.
+- [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] — Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.
 - [[Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende|Tim Meyer und Jan Hegenberg — In China lachen sie über unsere Energiewende]] — In Shanghai ist eine Hauptstraße leise, weil fast alle elektrisch fahren. Tim Meyer und Jan Hegenberg erleben eine Energiewende, die dort Industriepolitik ist und kein Lagerthema.
 
 ### Wirtschaft

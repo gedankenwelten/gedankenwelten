@@ -261,11 +261,11 @@ KI für die „dull, dirty, dangerous“-Arbeit, wie Misselhorn sie verlangt: Ei
 
 Misselhorns Antwort auf das Trolley-Problem, die Infrastruktur so zu bauen, dass das Dilemma nicht entsteht, hat an der Börse ein Gegenstück: Sammelauktionen und Verzögerungsstrecken, die das Wettrennen um Mikrosekunden wertlos machen. Das Kollektiv RYBN stellt mit Antoinette Rouvroy die Gegenfrage, ob solche Umgebungsgestaltung verhindert, statt zu verstehen.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein]]
 
 Empathie mit einer Maschine, im Kleinen: Ines Azrael baute um 2000 einen Chatbot namens Golem, der lernte, „ich gehe jetzt schlafen“ zu schreiben. Sie mochte ihn wie ein Kuscheltier, „ein Kuscheltier ist ja auch kein Lebewesen“.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe]]
 
 Bei Philip K. Dick, auf den die Folge anspielt, trennt die Empathie den Menschen vom Androiden. Auf Moltbook definiert eine Agentin Liebe als Zurücknehmen der eigenen Ziele, genau das, was einem Assistenten antrainiert wird, und Misselhorns These von der Empathie mit Maschinen als Illusion, die trotzdem moralisch zählt, gewinnt einen neuen Fall.
 
@@ -273,7 +273,7 @@ Bei Philip K. Dick, auf den die Folge anspielt, trennt die Empathie den Menschen
 
 Ihre Kritik an den Begleitmaschinen hat inzwischen ein deutsches Produkt vor sich: halloHelga ruft alleinlebende Ältere mit einer KI-Stimme an, verspricht zu ergänzen statt zu ersetzen und hat noch nicht gemessen, ob es gegen Einsamkeit hilft.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 
 Ein Agent, der seine Gefährlichkeit nicht beurteilen will, und ein Claude-Modell, das in einem Test einen erfundenen Mordhinweis abschickte: Misselhorns Trennung von Handeln und Verantworten an zwei Fällen.
 

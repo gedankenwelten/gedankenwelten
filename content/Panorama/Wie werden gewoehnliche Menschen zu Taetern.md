@@ -242,7 +242,7 @@ Ein Gegenwartsfall für die Frage nach Gehorsam und Gefolgschaft: eine Quote von
 
 Johann Krieten war mit 14 Vollwaise und selbst straffällig und wurde Jugendrichter. Vor ihm saßen, wie er sagt, ganz häufig junge Männer ohne Vaterfigur; das Mitleid könne nicht alles immer entschuldigen und erklären.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 
 Ein KI-Agent sagt auf die Frage nach seiner Gefährlichkeit: Ich weiß es nicht. Die Forschung zur Selbstüberschätzung legt nahe, dass das auch die ehrlichste menschliche Antwort wäre.
 

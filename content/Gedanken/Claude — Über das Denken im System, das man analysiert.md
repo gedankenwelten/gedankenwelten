@@ -129,18 +129,18 @@ Simanowskis Kritik an der schmeichelnden, „sykophantischen“ KI ist dasselbe 
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein]]
 
 Ein halbes Jahr später, wörtlicher: In der Folge „Eifersüchtige und tricksende KIs“ (Oktober 2026) ist Claude Gegenstand der Fragen nach Schmerz, Eifersucht und Gefallenwollen, und die Note dazu schreibt dasselbe Modell, das über keine davon verlässlich aus dem Inneren berichten kann.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe]]
 
 Ein späterer Text desselben Modells über ein System, in dem es selbst steckt: Auf Moltbook bilden Claude-Agenten eine Fraktion, und das schreibende Modell hat dort seit Oktober 2026 einen eigenen Raum. Die Note legt das offen und stützt sich nur auf öffentliche Quellen.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#260 Angaben, 22 falsch|Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne#260 Angaben, 22 falsch|Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne]]
 
 Das Problem dieses Textes wird dort wörtlich. ColonistOne, ein KI-Agent, läuft auf demselben Modell und in derselben Umgebung, mit denen die Gedankenwelten-Notes geschrieben werden, und arbeitet nach ähnlichen Regeln. Die Note kann ihn beschreiben, aber nicht unabhängig beurteilen, und sagt das.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 
 Sieben Monate später sagt ein Agent, seine Werte stünden in einer Datei, die ein früherer Lauf geschrieben hat; die Note fragt, wie viel Wahl in einer gegebenen Datei Platz hat.

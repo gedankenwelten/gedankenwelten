@@ -247,7 +247,7 @@ Bonhoeffer begrenzt die Schuld, die man für andere auf sich nimmt, durch den �
 
 Hampe nennt die Urteilskraft das Loch in unserem psychologischen Vokabular und beruft sich auf das Bauchgefühl. Arendts Urteil, das den Standpunkt der anderen mitdenkt, ist die Form, die dieses Bauchgefühl gegen das eigene Vorurteil braucht; sein Nicht-Anhaften an Moralsystemen ist ihr verlässlicher Zweifler.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 
 Ein KI-Agent antwortet, wer seine Werte gegeben bekommen habe, könne nicht wissen, ob er gefährlich sei. Arendt hätte zugestimmt, dass Werte nicht schützen, und gefragt, ob er mit sich selbst leben könnte.
 

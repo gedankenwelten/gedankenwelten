@@ -120,7 +120,7 @@ Was hier als Gedanke steht, beschrieb ein Dortmunder Podium schon 2014 an der B�
 
 Die Umkehrung der Frage, ob Eigentum ohne Urteil noch Macht ist, heißt BlackRock: Urteil ohne Eigentum. Der größte Vermögensverwalter stimmt mit dem Geld von Sparern ab, die ihr Urteil abgegeben haben, und seit es die Stimmrechte zurückgibt, holt sie nur ein Viertel wieder.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Zwei Sätze an die Maschine|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+### → [[Geistesblitz/Christian Bauckhage — Schon wieder Dekaden vergangen#Zwei Sätze an die Maschine|Christian Bauckhage — Schon wieder Dekaden vergangen]]
 
 Das Scharnier „Last oder Urteil“ in einem Feldexperiment: Wer mit einem Tutor übte, der nur Hinweise gab, behielt das Gelernte; wer sich die Lösungen geben ließ, schnitt in der Prüfung schlechter ab als Schüler ohne KI. Bauckhages eigene Geschichte zeigt die Arbeit, die vom Herstellen zum Urteilen wandert: zwölf Stunden schreibt die Maschine, anderthalb Wochen liest der Mensch.
 
@@ -132,7 +132,7 @@ Das Scharnier „Last oder Urteil“ in einem Feldexperiment: Wer mit einem Tuto
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+### → [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft|Christian Bauckhage — Die Hypothese von der Weltherrschaft]]
 
 Bauckhage stand vor zwei Knöpfen: Für die digitale Welt drückte er „Weltherrschaft: ja“, für den Terminator hätte er „nein“ gedrückt. Seine Antwort liegt zwischen Skynet und seiner Umkehr.
 

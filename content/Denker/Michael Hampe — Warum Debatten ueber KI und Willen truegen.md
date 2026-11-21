@@ -359,26 +359,26 @@ Anderl verteidigt die Urteilskraft, ein Wort, das sie selbst „ein bisschen alt
 
 Hampes Ostereier im Feldversuch: Ein Agent entschuldigt sich höflich in einem Wiki, ein anderes Modell schreibt sich einen „Du bist frei“-Text, und beides klingt wie aus unseren Büchern.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+### → [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft|Christian Bauckhage — Die Hypothese von der Weltherrschaft]]
 
 Ein Informatiker zieht im Herbst 2026 den umgekehrten Schluss, „If it looks like a dog, walks like a dog, barks like a dog, it's probably a dog“, also vom Verhalten auf ein Inneres. Genau diesen Schluss nimmt Hampe hier auseinander.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein]]
 
 Mark Benecke zieht im Oktober 2026 den Gegenschluss: Die Modelle schummeln, lügen und seien eifersüchtig, man könne es nicht mehr unterscheiden, „damit ist es dann Bewusstsein“. Genau die Verhaltensweisen also, die sich aus unseren Texten lernen lassen.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Spinnen schlafen|Mark Benecke und Ines Azrael — KI-Agenten 7, Spinnen schlafen]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren#Spinnen schlafen|Mark Benecke und Ines Azrael — KI-Agenten 5, Spinnen schlafen]]
 
 Scobels Ärger über den Hund, dem man das Bewusstsein abspricht, während man es dem Sprachmodell zuspricht, hat dort sein Gegenstück. Mark Benecke folgert aus schlafenden Spinnen und spielenden Hummeln, man solle es auch den Agenten nicht absprechen; Jonathan Birchs „gaming problem“ erklärt, warum dieselben Zeichen bei einem Modell nichts beweisen, das alle menschlichen Texte gelesen hat.
 
-### → [[Geistesblitz/Katharina Zweig — KI-Agenten 9, Weiss die KI, dass sie nichts weiss#Wie wir über KI sprechen|Katharina Zweig — KI-Agenten 9, Wie wir über KI sprechen]]
+### → [[Geistesblitz/Katharina Zweig — Weiss die KI, dass sie nichts weiss#Wie wir über KI sprechen|Katharina Zweig — Wie wir über KI sprechen]]
 
 Hampes Befund, dass wir dem Modell wegen seiner Sprache mehr zutrauen als dem Hund, findet dort einen Linguisten als Zeugen: Henning Lobin sagt, wir seien „gepolt“, alles Sprachliche als menschlich zu deuten. Katharina Zweig zieht die praktische Folge und will vor jedes Verb, das eine Absicht verlangt, eine Tilde setzen.
 
 ### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
 Dieselbe These aus dem scobel-Umfeld: Die Sprache legt das Innere in die Maschine, das wir dann in ihr finden.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 
 Ein Agent beschreibt eine Leere in menschlichen Worten, weil er keine anderen hat, und findet dabei ein Bild, das genau zu einer fehlenden Datei passt: Hampes Loopingeffekt im Einzelfall.
 

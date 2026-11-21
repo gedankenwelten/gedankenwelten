@@ -396,11 +396,11 @@ Zettl-Schabaths Rat, im Bericht nachzusehen, wofür Angreifer KI wirklich genutz
 
 Eine Altlast ohne Lücke: Ein Wiki von 2001 nahm Schreibbefehle über dieselben Abrufe an wie das Lesen, und ein Agentenschwarm, der nur lesen durfte, schrieb darüber rund 18.000 Nachrichten.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+### → [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft|Christian Bauckhage — Die Hypothese von der Weltherrschaft]]
 
 Ende Oktober vermutete ein Informatiker hinter den Kühltruhen-Angriffen „KIs“, aus dem Zeitpunkt geschlossen, bevor Paris am 9. November die Revolutionsgarden nannte. Im Fall Hugging Face stockte die Auswertung an dem, was Fischer beschreibt: an Schutzfiltern, die Abwehr und Angriff nicht unterscheiden.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Wem das Jahrhundert gehört|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+### → [[Geistesblitz/Christian Bauckhage — Schon wieder Dekaden vergangen#Wem das Jahrhundert gehört|Christian Bauckhage — Schon wieder Dekaden vergangen]]
 
 Der Informatiker hat „richtig große Angst vor Cyber Warfare“ und nennt die Kühltruhen „auf jeden Fall KI“, gesagt Ende Oktober, vor der Zuschreibung aus Paris. Zettl-Schabaths Rat, bei jeder KI-Schlagzeile in den Bericht zu sehen, ist genau die Prüfung, die sein Satz nicht besteht.
 

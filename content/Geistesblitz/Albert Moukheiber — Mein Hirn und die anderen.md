@@ -371,7 +371,7 @@ Die erfundenen Referenzen, die Scobel in der Medizinforschung zählt, sind Moukh
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 3, Ab wann Bewusstsein]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein]]
 
 Ein Alltagsfall für das Ende des kalibrierten Vertrauens: Beim Bäcker soll jemand bei ChatGPT nachsehen, ob die Brezeln vegan sind; Ines Azrael erklärt dem Verkäufer, warum eine Antwort über einen kleinen Bäcker gleich sicher klingt, ob die KI etwas weiß oder nicht, und was das für Menschen mit Allergien heißt.
 

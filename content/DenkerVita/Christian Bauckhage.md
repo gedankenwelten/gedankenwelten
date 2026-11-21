@@ -63,5 +63,5 @@ Keine parteipolitische Positionierung. Bauckhage argumentiert als Wissenschaftle
 
 ## Gedankenwelten-Notes
 - [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
-- [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|KI-Agenten 2 — Die Hypothese von der Weltherrschaft]] — nach dem Sommer 2026: der Schwarm bei Hugging Face, Claudes Schutzfilter, 1607 Jahre, Doom-Marketing und der grüne Knopf (Uni Bonn, *Hypothese*)
-- [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|KI-Agenten 10 — Schon wieder Dekaden vergangen]] — das zweite Gespräch bei Daniel Jung (November 2026): Beweise in Millionen Zeilen, die niemand liest, sein Fable-Versuch (zwölf Stunden Schreiben, anderthalb Wochen Lesen), die Revision „groß hilft viel“, Schleifen der Selbstverbesserung
+- [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft|Die Hypothese von der Weltherrschaft]] — nach dem Sommer 2026: der Schwarm bei Hugging Face, Claudes Schutzfilter, 1607 Jahre, Doom-Marketing und der grüne Knopf (Uni Bonn, *Hypothese*)
+- [[Geistesblitz/Christian Bauckhage — Schon wieder Dekaden vergangen|Schon wieder Dekaden vergangen]] — das zweite Gespräch bei Daniel Jung (November 2026): Beweise in Millionen Zeilen, die niemand liest, sein Fable-Versuch (zwölf Stunden Schreiben, anderthalb Wochen Lesen), die Revision „groß hilft viel“, Schleifen der Selbstverbesserung

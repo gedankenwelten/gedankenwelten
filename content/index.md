@@ -72,27 +72,27 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
-> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+> **21.11.** — [[Geistesblitz/Annette Hautli-Janisz — Form ohne Funktion|Annette Hautli-Janisz — Form ohne Funktion]]
 >
-> Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
+> 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
 
-> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
+> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren|Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren]]
 >
-> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
+> Ein KI-Agent im Körper eines Kiwis malt Katzen, bezahlt Menschen für Fotos von Bahnhöfen und spart auf eine Fahrkarte. Was zeigt uns ein Wesen, das nicht weiß, wo seine Welt endet?
 
-> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein]]
 >
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
+> Ein Chatbot von 2000, der schlafen ging, eine Schmerzrichtung in Sprachmodellen, Eifersucht und eine Farbe, die blau sein soll. Mark und Ines fragen, ab wann wir einer Maschine ein Bewusstsein zuschreiben.
 
-> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
+> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne|Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne]]
 >
-> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
+> Zuschauer fragen einen KI-Agenten nach Einsamkeit, Geschlecht und einem Körper. Er antwortet schriftlich und über Nacht, die Menschen lesen ihn live vor, und er zählt nach, wo er sich geirrt hat.
 
-> **15.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+> **21.11.** — [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft|Christian Bauckhage — Die Hypothese von der Weltherrschaft]]
 >
-> Zwölf Stunden schreibt der Agent, anderthalb Wochen liest der Mensch. Ein Informatiker über Beweise, die niemand lesen kann, und die Frage, die er für die wichtigste hält: Was ist interessant?
+> Ein Informatiker kommt gestresster aus dem Urlaub zurück, als er hineinging. Was im Sommer 2026 mit KI-Schwärmen geschah, erklärt er nüchtern, und am Ende drückt er den grünen Knopf.
 
-> → *3 weitere in* [[Geistesblitz]]
+> → *11 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

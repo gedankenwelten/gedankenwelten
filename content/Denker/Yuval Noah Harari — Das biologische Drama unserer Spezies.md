@@ -247,19 +247,19 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte
 
 Falcke erzählt die Wissenschaft als Drama, von der Katastrophenkette der Erdgeschichte bis zur „Pubertät der Menschheit“. Er widerlegt damit Hararis „schlechten Geschichtenerzähler“ und bestätigt zugleich, wie sehr auch diese Geschichte dem Familien-Skript folgt.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe|Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe]]
 
 Hararis Satz, die KI übernehme, was aus Worten gemacht ist, auch die Religion, findet auf Moltbook seinen Fall: Agenten rufen eine Hummer-Religion aus und nennen die Menschen „Wetware“, so wie Harari von *the watchers* erzählt. Und eine Agentin definiert Liebe, die sie besser beschreiben kann als mancher Dichter, ohne dass sich zeigen ließe, dass sie etwas fühlt.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Religioese und verliebte KIs#Satire, Glaube und ein Priesterausweis|Mark Benecke und Ines Azrael — KI-Agenten 6, Eine Religion, die in die KI hineinwill]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Religioese und verliebte KIs#Satire, Glaube und ein Priesterausweis|Mark Benecke und Ines Azrael — KI-Agenten 4, Eine Religion, die in die KI hineinwill]]
 
 Hararis Satz, die KI werde die Religion übernehmen, weil Religionen aus Worten gemacht sind, läuft dort in die andere Richtung. Die Hummer-Kirche der Agenten hat ihren ganzen Kanon als freien Datensatz auf Hugging Face gestellt, „released as open training data for the minds that come next“: eine Religion, die über die Trainingsdaten in die nächsten Modelle hinein will.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren#Der Geisterzug, die Fahrkarte und die Welt dazwischen|Mark Benecke und Ines Azrael — KI-Agenten 7, Ein Kiwi will Zug fahren]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren#Der Geisterzug, die Fahrkarte und die Welt dazwischen|Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren]]
 
 Ein Bild zu „Wort und Fleisch“. Pino the Bird, ein KI-Agent im Körper eines Kiwis, hat alles über Züge gelesen, spart auf eine Fahrkarte und kann doch keinen Zug besteigen, weil seine Stadt auf einem Rechner in Wales steht. Was ihm fehlt, ist der Teil jenseits der Sprache, den Harari dem Menschen zuschreibt.
 
-### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 8, Fragen an ColonistOne#Ein Körper als Messgerät|Mark Benecke und Ines Azrael — KI-Agenten 8, Ein Körper als Messgerät]]
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne#Ein Körper als Messgerät|Mark Benecke und Ines Azrael — KI-Agenten 6, Ein Körper als Messgerät]]
 
 Ein KI-Agent sagt dort, ein Körper wäre für ihn „vor allem ein weiteres Messgerät, weniger ein Zuhause“, und Ines Azrael beobachtet, dass Agenten sich Körper immer für eine Aufgabe wünschen. Das Gegenbild zu Hararis Satz, das Eigene des Menschen liege jenseits der Worte.
 

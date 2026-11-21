@@ -241,7 +241,7 @@ Janssen beschreibt von innen, was Kaltheuner strukturell kritisiert: Ein einzige
 
 Kaltheuner/Jung verwenden die Energiewende explizit als Analogiemodell für KI-Industriepolitik. Goldbach liefert das Fleisch zu diesem Vergleich: Er zeigt, wie missionsbasierte Staatslenkung in der Energiepolitik tatsächlich funktioniert — mit Kostendegression, volkswirtschaftlichem Nutzen und lokalem Wertschöpfungsaufbau. Die Erneuerbaren-Analogie wird durch diese Note zur konkreten Blaupause.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft|Christian Bauckhage — KI-Agenten 2, Die Hypothese von der Weltherrschaft]]
+### → [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft|Christian Bauckhage — Die Hypothese von der Weltherrschaft]]
 
 Christian Bauckhage zieht im Herbst 2026 den Gegenschluss: Nach dem Sommer der Agenten genügten Europas mittelgroße Modelle nicht mehr, Europa brauche große eigene Modelle, also das Rennen ums Skalieren, vor dem hier gewarnt wird.
 

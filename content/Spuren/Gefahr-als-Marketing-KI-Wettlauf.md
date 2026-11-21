@@ -471,7 +471,7 @@ Der Streit um die Destillation ist die Typologie im Kleinen: Anthropic begründe
 
 Zettl-Schabaths Prüfregel für KI-Angriffsmeldungen (im Bericht nachsehen, wofür die KI wirklich genutzt wurde) und ein Fachmann, der einen PHP-Exploit fälschlich Claude zuschreibt: wie der Gefahrenlärm an Markennamen haftet.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Ein Logfile genügt|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+### → [[Geistesblitz/Christian Bauckhage — Schon wieder Dekaden vergangen#Ein Logfile genügt|Christian Bauckhage — Schon wieder Dekaden vergangen]]
 
 Ein Fachmann, bei dem die Warnungen als Alarm ankommen: Beim Lesen der Arbeiten zur Selbstverbesserung wird Bauckhage „mulmig“, und er glaubt, die Labore setzten ihre besten Schwärme schon für die nächste Modellgeneration ein. Was er beschreibt, sind allerdings erste Ansätze: Verbesserung im Gerüst bei unberührten Gewichten, nach seinen Worten „natürlich sehr schlecht“ getestet.
 

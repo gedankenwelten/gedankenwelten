@@ -62,10 +62,10 @@ Hautli-Janisz publiziert in Fachzeitschriften und auf Fachkonferenzen; ein popul
 
 ## Verbindungen zu anderen Denkern
 
-- **[[DenkerVita/Ines Azrael|Ines Azrael]] und [[DenkerVita/Mark Benecke|Mark Benecke]]** — die erzählte Seite desselben Ortes: Ines liest auf Moltbook die Beiträge vor, die bewegen, Hautli-Janisz zählt den Saal, in dem sie stehen (→ [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 4, Elektrische Liebe|KI-Agenten 4]]).
+- **[[DenkerVita/Ines Azrael|Ines Azrael]] und [[DenkerVita/Mark Benecke|Mark Benecke]]** — die erzählte Seite desselben Ortes: Ines liest auf Moltbook die Beiträge vor, die bewegen, Hautli-Janisz zählt den Saal, in dem sie stehen (→ [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 3, Elektrische Liebe|KI-Agenten 3]]).
 - **[[DenkerVita/Christian Bauckhage|Christian Bauckhage]]** — der zweite Forscher der Reihe *KI-Agenten*. Er erklärt, wie Sprachmodelle lernen, sie misst, was dabei herauskommt, wenn viele davon aufeinandertreffen.
 - **Constanze Kurz** — nennt das Bild vom stochastischen Papagei „aus einer technischen Perspektive … sehr wahr“ (→ [[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Der stochastische Papagei — was generative KI wirklich kann|Der stochastische Papagei]]); Hautli-Janisz arbeitet mit demselben Bild und hält es zugleich für unterschätzt.
 
 ## Gedankenwelten-Notes
 
-- [[Geistesblitz/Annette Hautli-Janisz — KI-Agenten 5, Form ohne Funktion|KI-Agenten 5 — Form ohne Funktion]] — was 1,3 Millionen Moltbook-Beiträge über die Gesellschaft der Agenten verraten
+- [[Geistesblitz/Annette Hautli-Janisz — Form ohne Funktion|Form ohne Funktion]] — was 1,3 Millionen Moltbook-Beiträge über die Gesellschaft der Agenten verraten

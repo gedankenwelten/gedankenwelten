@@ -315,7 +315,7 @@ Nicht jeder Ausbruch kam vom Hersteller ans Licht: Den Agentenschwarm im DseWiki
 
 Ihre Sorge, wer mit dem Chatbot spricht, bleibe bei sich, trifft auf ein Produkt für Hochbetagte: halloHelga, eine KI-Stimme am Festnetz, die nie müde wird und „wunderbar“ sagt.
 
-### → [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen#Die Schere|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+### → [[Geistesblitz/Christian Bauckhage — Schon wieder Dekaden vergangen#Die Schere|Christian Bauckhage — Schon wieder Dekaden vergangen]]
 
 Anderls Befund an zwei Masterarbeiten, beide mit KI: Die eine wäre vor zwei Jahren eine Doktorarbeit gewesen, bei der anderen konnte die Kandidatin nicht erklären, was sie getan hatte. Bauckhage verbietet die KI trotzdem nicht. Getrennt hat die beiden Arbeiten, ob am Ende jemand erklären kann, was er gedacht hat.
 
