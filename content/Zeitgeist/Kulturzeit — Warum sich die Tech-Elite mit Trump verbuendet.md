@@ -190,6 +190,10 @@ Die Stärke der Doku ist ihre Methode: Sie nimmt die Tech-Elite bei ihren *eigen
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Nach der verlorenen Zwischenwahl 2026 nennt sich Musk „ideologisch recht moderat“ und „nicht MAGA“, ohne etwas zurückzunehmen; ob das Etikett geht und die Ideen bleiben, verfolgt diese Note.
+
 ### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
 
 Die Medizinethikerin nimmt derselben Konstruktion von der anderen Seite die Luft, im Wortsinn. Wo diese Doku Thiels Próspera und Yarvins „no vote, free exit" ideengeschichtlich herleitet, prüft Buyx die Enklave auf ihre Physik: eigene Wasserversorgung eine Weile, eigene Luftversorgung nie. Ein Einwand, der niemandes Gesinnung braucht und darum schwerer abzuwehren ist als die Ideologiekritik.

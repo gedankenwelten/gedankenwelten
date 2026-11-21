@@ -77,3 +77,4 @@ Er ist kein Journalist und kein Wissenschaftler, sondern ein Kommentator mit Bü
 
 ## Gedankenwelten-Notes
 - [[Bartunek — Tillschneider vor der Synagoge in Halle]]
+- [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]] — seine Zusammenstellung zu Musks „I'm not MAGA“ (Dark MAGA, London 2025, Posts) als Gegenprobe zum DealBook-Interview; Quelle der Note ist das Original

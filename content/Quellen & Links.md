@@ -6112,6 +6112,18 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kaczmarczyk_Gaskrise_Reiche_Transkript.txt` (Sprecher per Stimmlage getrennt) |
 
+## ZDF auslandsjournal / Der Trump Effekt #82 und Marcus Keupp — Shenzhen-Gipfel (19.11.2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Trump im Autokraten-Zirkus — Der Trump Effekt #82](https://www.youtube.com/watch?v=zyzjiGtVTkM) — auslandsjournal, aufgezeichnet 19.11.2026, mit Ulf Röller, Elmar Theveßen, Miriam Steimer |
+| **Video** | [Ukraine: Militärökonom Keupp über den Gipfel in Shenzhen](https://www.youtube.com/watch?v=4d_THsyflrM) — ZDFheute live, 19.11.2026, Moderation Philip Wortmann |
+| **Notizen** | [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus]] · [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]] |
+| **Originale** | [Gemeinsame Erklärung (Weißes Haus)](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/) · [Putins Pressekonferenz (Kreml)](http://kremlin.ru/events/president/transcripts/81305) · [Mitschrift Koalition der Willigen (Bundesregierung)](https://www.bundesregierung.de/breg-de/aktuelles/-wir-haben-eine-klare-idee-vom-frieden--2461988) |
+| **Nachbesprechung** | [Nilsson 2012](https://doi.org/10.1080/03050629.2012.659139) · [Stedman 1997](https://doi.org/10.1162/isec.22.2.5) · [Kiel Institut, Ukraine's Aid Squeeze (11/2026)](https://www.ifw-kiel.de/publications/ukraines-aid-squeeze-the-european-union-as-the-last-big-donor-20490/) |
+| **Transkripte** | `Gedankenwelten/Transkripte/TrumpEffekt82_Shenzhen_Transkript.txt` (Sprecher per Standbild getrennt; Stimmlage trennt Röller und Theveßen nicht) · `Gedankenwelten/Transkripte/Keupp_Shenzhen_Transkript.txt` (Untertitel schreiben „Markus Kaim“) |
+| **Wegweiser** | „Das Protokoll“, Folge 84 (KI-gestützter Kanal, nur als Wegweiser zu den Originalen, keine Quelle) |
+
 ## Patrick Kaczmarczyk / Droht die nächste Gaspreiskrise? (Surplus, Teil 1, November 2026)
 
 | | |
@@ -6127,3 +6139,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Dokument** | [Eskalation im Nahen Osten: Auswirkungen auf Europa – und was (nicht) zu tun ist](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/J-L/20260325-kurzgutachten-energiekrise.pdf?__blob=publicationFile&v=4) — Grimm, Haucap, Kolev, Wieland, 13.03.2026 |
 | **Notiz** | [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]] |
 | **Bericht** | [ZfK, 13.03.2026](https://www.zfk.de/politik/deutschland/gasspeicher-reiche-berater-gaspreise-fracking) |
+
+## Elon Musk — DealBook Summit 2026 („I'm not MAGA“)
+
+| | |
+|---|---|
+| **Video** | [Elon Musk Says He's 'Not MAGA'](https://www.youtube.com/watch?v=zWeT91uH7LI) — The New York Times, DealBook Summit, 18.11.2026, Gespräch mit Andrew Ross Sorkin (Musk aus China zugeschaltet) |
+| **Zweitquelle** | [Elon Musk Völlig Am Ende! Hat Er Angst Vor Dem Knast?](https://www.youtube.com/watch?v=Uu8KNQtfmWQ) — Oida, Bartunek!, 21.11.2026 (Reaktionsvideo mit Gegenmaterial) |
+| **Notiz** | [[Zeitgeist/Elon Musk — Ich bin nicht MAGA]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Musk_DealBook_2026_Transkript.txt` (YouTube-Automatikuntertitel, englisch, vollständig) · `Gedankenwelten/Transkripte/Bartunek_Musk_not_MAGA_Transkript.txt` |

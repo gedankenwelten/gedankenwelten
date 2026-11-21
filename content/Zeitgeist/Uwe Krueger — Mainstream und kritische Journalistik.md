@@ -307,6 +307,10 @@ Für die Berichterstattung folgt daraus eine einfache Forderung, die Krüger sel
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Die Putsch-Lesart in ihrer weitesten Form: Elon Musk sagt im November 2026 „we Americans staged a coup“; Befragungen der Demonstranten widersprechen.
+
 ### → [[Geistesblitz/Iason Chandrinos — Griechenland unter deutscher Besatzung|Iason Chandrinos — Griechenland unter deutscher Besatzung]]
 Was hinter der antideutschen Stimmung stand, die in der Berichterstattung von 2015 unverstanden blieb: eine Besatzung, die in Deutschland kaum jemand kennt, und ein Vergessen, das Bonn und Athen im Kalten Krieg miteinander aushandelten.
 

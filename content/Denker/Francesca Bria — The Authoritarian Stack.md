@@ -173,6 +173,10 @@ Bria dokumentiert, wie das Modell bereits nach Europa exportiert wird:
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Wie das aussieht, wenn eine Front an einem privaten Netz hängt, zeigen die Starlink-Drosselung im Oktober 2026 und Musks Rat an seine Kritiker: „Diversify away. Don't use Starlink.“
+
 ### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
 
 Göpel nennt dieselbe Architektur einen digital-finanziell-militärischen Komplex und nähert sich ihr von der Finanzierung statt von der Infrastruktur. Ihr Zusatz zum Stack: Souveränität ließe sich auch durch *Reduktion* von Ressourcenabhängigkeit gewinnen (shallow AI) statt durch Aufholen.

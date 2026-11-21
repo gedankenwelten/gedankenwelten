@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.
 
+> **21.11.** — [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]]
+>
+> Ein Militärökonom will nur gelten lassen, was auf dem Schlachtfeld geschieht, und hält schon das Reden vom Verhandeln für einen Sieg des Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
+
 > **21.11.** — [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
 >
 > Preise sollen sprechen, auch wenn es wehtut. Vier Ökonomen beraten die Wirtschaftsministerin im März 2026 zum Krieg am Golf, und der Herbst prüft, was sie vorhersahen.
@@ -36,15 +40,11 @@ Die Gedankenwelten (luc)
 >
 > Die Leistungsgesellschaft hält alle gefangen, auch ihre Gewinner, die bis zur Erschöpfung arbeiten. Wolfgang M. Schmitt und Stefan Schulz lesen Daniel Markovits' „The Meritocracy Trap“, und Wolfgang fragt, warum das Buch den Kapitalismus nicht beim Namen nennt.
 
-> **21.11.** — [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+> **21.11.** — [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]]
 >
-> Vor einem Jahr ging es darum, was Bürger von digitalem Bargeld erwarten, heute geht es darum, wem die Schienen unter dem Geld gehören. Petra Gehring und Sebastian Gießmann über Wero, die Eurocard und den digitalen Euro.
+> Eine Umarmung am Flughafen, ein Platz in der Mitte, ein „Wer ist das?“ an der Tür: Drei Korrespondenten lesen Shenzhen aus Bildern, und eine von ihnen warnt davor, zu viel hineinzulesen.
 
-> **21.11.** — [[Zeitgeist/ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten|Hybrider Angriff — Wie Putin Europas Osten destabilisiert]]
->
-> Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
-
-> → *18 weitere in* [[Zeitgeist]]
+> → *21 weitere in* [[Zeitgeist]]
 
 ### Denker
 

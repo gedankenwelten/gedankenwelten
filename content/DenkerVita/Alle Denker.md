@@ -410,6 +410,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Marcus Keupp|Marcus Keupp]]** — Militärökonom, Dozent an der Militärakademie an der ETH Zürich (seit 2013); Abnutzung und Nachschub entscheiden Kriege, Verhandeln erst aus Stärke; *Spurwechsel* (2025); bekannt auch durch die Prognose, Russland verliere den Krieg bis Oktober 2023
+
 **[[DenkerVita/Lucas Krzikalla|Lucas Krzikalla]]** — Handballer, rund 14 Jahre beim SC DHfK Leipzig, seit 2026 bei den Münchner Panthern; machte 2022 öffentlich, dass er schwul ist
 
 **[[DenkerVita/Birgit Kelle|Birgit Kelle]]** — Publizistin und Autorin, christlich-konservativ (eigene Worte: naturrechtliches und christliches Menschenbild), CDU-Mitglied (nach eigener Angabe); Kritik an Gender-Mainstreaming und Identitätspolitik, Mutterschaft, gegen Leihmutterschaft; *Gendergaga* (2015), *Ich kauf mir ein Kind* (2024)
@@ -728,6 +730,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## S
 
+**[[DenkerVita/Miriam Steimer|Miriam Steimer]]** — Fernsehjournalistin, seit 2022 Leiterin des ZDF-Studios Ostasien in Peking (Nachfolge Ulf Röller); liest Chinas Machtpolitik über Protokoll und Gesten und sagt offen, wie wenig Korrespondenten dort wissen
+
 **[[DenkerVita/Pierre Sanoussi-Bliss|Pierre Sanoussi-Bliss]]** — Schauspieler und Regisseur (*1962, Ost-Berlin), „Der Alte“, Zeitzeuge queeren Lebens in Ost und West
 
 **[[DenkerVita/Volker Strotmann|Volker Strotmann]]** — Informatiker, CIO des Technischen Hilfswerks, langjährig Abteilungsleiter Einsatz; denkt Sicherheit vom Ausfall her: Abhängigkeiten kennen, selbst vorsorgen
@@ -788,6 +792,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Robin Schmid|Robin Schmid]]** — Berliner YouTuber und Moderator (*Robin TV*, *Robin PV*), früher Radiomoderator und Sänger; erklärt Elektromobilität und Balkonkraftwerke als Infotainment („Spaß und Überzeugung“ statt Verzicht), Co-Host von *Alles wird Strom* — eng mit Branchenpartnern verbunden
 
 **[[DenkerVita/Tania Singer|Tania Singer]]** — Psychologin und Neurowissenschaftlerin (*1969), leitet das Social Neuroscience Lab der MPG in Berlin; unterscheidet Empathie von Mitgefühl und erforscht, wie sich das soziale Gehirn trainieren lässt (ReSource, CovSocial, Edu:Social)
+
+**[[DenkerVita/Andrew Ross Sorkin|Andrew Ross Sorkin]]** — Wirtschaftsjournalist, Kolumnist der New York Times, Gründer von DealBook und Moderator bei CNBC, der die Mächtigen der Wirtschaft befragt und dafür als Zugangsjournalist kritisiert wird.
 
 ## T
 

@@ -303,6 +303,10 @@ Die zweite Hälfte, die „geänderte Gedenkkultur“, beantwortet Schuster: Wer
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Dieselbe Methode, das Archiv eines Mächtigen neben seine Selbstbeschreibung zu legen, wendet Bartunek im November 2026 auf Elon Musks „I'm not MAGA“ an.
+
 ### → [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus]]
 
 Redecker zitiert das Bekenntnis desselben Täters und zeigt an ihm die eliminatorische Logik des „Großen Austauschs“: Das Phantasma liefert das Ziel. Sie ist der direkte Widerspruch zur Amoklauf-These, an derselben Tat — und Tillschneider hat 2020 die Prämissen, die sie seziert, selbst aufgezählt.

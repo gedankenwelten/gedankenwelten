@@ -575,6 +575,10 @@ Redaktion Marie Frank, dazu der Hinweis auf [taz zahl ich](https://taz.de/zahlic
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Zwei Wochen später zieht Musk beim DealBook Summit denselben Schluss, Wahlen seien „nicht nur eine Frage des Geldes“, und nennt sich für die Summe „pretty foolish“.
+
 ### → [[Zeitgeist/auslandsjournal — Ausgetrumpt#Eine Partei, eigenhändig erschaffen|auslandsjournal — Ausgetrumpt (Der Trump Effekt #80)]]
 
 Beide Runden entstanden am 4. November, in zwei Redaktionen mit zwei Temperaturen. Das ZDF feiert zur Hälfte und blickt nach außen, auf einen ohnmächtigen Präsidenten, der seine Siege dort sucht, wo ihn niemand bremst. Die taz-Runde misstraut dem Jubel und blickt nach innen, auf einen Apparat um Stephen Miller, der Trumps Willen kaum noch braucht. Pickerts Brandmauerwahl geht weiter als Röllers „starke Stränge, aber noch keine Einheit“: Es fehlt nicht nur die Einheit, die Wahl sagt über die Richtung nichts.

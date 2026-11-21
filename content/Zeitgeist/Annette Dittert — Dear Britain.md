@@ -205,6 +205,10 @@ Wer lange bequem in einer Demokratie gelebt habe, müsse erst wieder lernen, das
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Im November 2026 verteidigt Musk seine Posts über Europa beim DealBook Summit mit „kleinen Booten“ und Grenzkontrollen; auf die Posts selbst geht er nicht ein.
+
 ### → [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck]]
 Die Fortschreibung von Ditterts Frühwarnsystem in die Verfassungsfrage hinein. Sie liest die Insel als den Ort, an dem zuerst sichtbar wird, was anderswo noch kommt — die Spur prüft, was von diesem Land nach dem Brexit übrig bleibt, und zwar an einem einzigen Satz: dem Kriterium, an das Premier Burnham am 9.9.2026 seine Absage an ein schottisches Referendum gebunden hat.
 

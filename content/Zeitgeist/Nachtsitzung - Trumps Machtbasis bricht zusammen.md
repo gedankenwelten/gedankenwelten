@@ -185,6 +185,10 @@ Drei Schlüsselfiguren, die sich aktiv gegen Trump stellen:
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Nach der verlorenen Wahl nennt sich Musk „nicht MAGA“ und bereut das Geld. Der Abstand, den Biersky im April erwartete, kam, aber erst nach der Niederlage und in Worten.
+
 ### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Direkte Fortsetzung: Während die CPAC-Note zeigt, wie Benjamins Machtblase (Heritage Foundation, Atlas-Netzwerk, Milliardäre) aufgebaut wurde, erwartet Biersky hier deren Rückzug vom scheiternden Instrument. Ein halbes Jahr später ist er ausgeblieben: Heritage und das große Geld stehen weiter bei Trump

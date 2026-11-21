@@ -1520,3 +1520,12 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Volker Wieland
 **Status:** ✓ Vollanalyse → [[DenkerVita/Volker Wieland]]
+
+## Andrew Ross Sorkin
+**Status:** ✓ Vollanalyse → [[DenkerVita/Andrew Ross Sorkin]]
+
+## Miriam Steimer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Miriam Steimer]]
+
+## Marcus Keupp
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marcus Keupp]]

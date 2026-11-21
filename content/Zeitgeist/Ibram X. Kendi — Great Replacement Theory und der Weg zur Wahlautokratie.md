@@ -209,6 +209,10 @@ Verstehen als Voraussetzung für Handeln: Wenn das Haus überflutet wird und man
 
 ## Verbindungen
 
+### → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
+
+Wie weit die Erzählung hinaufreicht, zeigen Musks Antwort „white extinctionism“ auf eine Theaterbesetzung (Februar 2026) und seine Verteidigung beim DealBook Summit, es gehe ihm nur um illegale Einwanderung.
+
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocuns KI-Fake-Frauen in Angstposen, wütende dunkelhäutige Männer als Dauerschleife, Berlin als Albtraum-Realität — das ist die visuell-algorithmische Umsetzungsschicht von Kendis Great-Replacement-Analyse. Kendi erklärt das politische Warum, Nocun zeigt das technologische Wie.

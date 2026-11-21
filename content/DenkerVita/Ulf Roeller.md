@@ -93,3 +93,4 @@ Zu seinem Handwerk gehört, dass er Vermutungen als Vermutungen kennzeichnet. Se
 - [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa]] — Der Trump Effekt #71: die Drohne von Leipzig, hybrider Krieg, Europas Bilanz „noch da“
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus]] — Der Trump Effekt #61: die NATO „innen hohl“, Europas fehlende eigene Kraft, Gesichtswahrung als Motor der Konflikte
 - [[Panorama/Wie umgehen mit Russland]] — als Stimme zu den Low-Level-Agenten
+- [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]]

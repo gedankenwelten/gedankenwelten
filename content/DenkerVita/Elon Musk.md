@@ -3,7 +3,7 @@ title: Elon Musk — DenkerVita
 description: "Hat Elon Musk sich verändert, oder sah man nur nicht hin? Die Härte ist seit den Neunzigern belegt. Neu sind ihre Richtung, ihre Bühne und die Zahl der Menschen, die sie trifft."
 raetsel: "Eine Stunde stand er vor dem Vater. Manche sagen, er steht noch."
 date: 2026-10-22
-aktualisiert: 2026-10-22
+aktualisiert: 2026-11-21
 tags:
   - denker-vita
   - usa
@@ -84,6 +84,8 @@ Was ab hier geschieht, steht ausführlich im nächsten Abschnitt. Kurz: Musk ent
 ### Seit Mitte 2025
 
 Nach dem Abschied aus der Regierung zerstreitet er sich im Juni 2025 öffentlich mit Trump, nennt dessen Haushaltsgesetz eine „disgusting abomination“, entschuldigt sich am 11. Juni für einige Posts, kündigt im Juli eine eigene „America Party“ an und wird 2026 trotzdem wieder größter Einzelspender, diesmal für republikanische Kandidaten ([Wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)). Im März 2026 befindet eine Jury in San Francisco, er habe Twitter-Aktionäre beim Kauf mit zwei Tweets in die Irre geführt; im Mai verliert er seine Klage gegen OpenAI. Im Juni 2026 bringt er SpaceX an die Börse. Er hat mindestens vierzehn Kinder mit vier Frauen. Die *New York Times* berichtete 2025 über häufigen Drogenkonsum und über Vertraute, die sein Verhalten beunruhige; Musk sagt, er nehme ärztlich verschriebenes Ketamin in kleinen Dosen und sei nie positiv getestet worden ([Wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)) *[Presse gegen Selbstauskunft, offen]*.
+
+**November 2026: „I'm not MAGA“.** Bei den Zwischenwahlen am 3. November 2026 gewinnen die Demokraten beide Kammern des Kongresses, obwohl Musk im Wahlzyklus über 445 Millionen Dollar für republikanische Kandidaten und Gruppen ausgab ([Fortune, 19.11.2026](https://fortune.com/2026/11/19/elon-musk-not-maga-445-million-election-spending-midterms/)). Zwei Wochen später sagt er beim DealBook Summit der *New York Times*, er fühle sich „pretty foolish“, so viel ausgegeben zu haben, er sei „ideologically quite moderate“ und: *„I'm not MAGA. Well, I'm not sure what MAGA means“* [Selbstauskunft]. Im Oktober 2024 hatte er sich in Butler „dark MAGA“ und in New York „dark, gothic MAGA“ genannt ([Axios, 06.10.2024](https://www.axios.com/2024/10/06/elon-musk-trump-rally-dark-maga)). Der künftige Vorsitzende des Kontrollausschusses, Robert Garcia, hatte Untersuchungen zu Musks Rolle bei DOGE angekündigt; Musk sagt, eine Begnadigung brauche er nicht, er habe keine Verbrechen begangen. → [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]]
 
 ---
 
@@ -254,6 +256,7 @@ Im Sinn der Note *Gefangene des Systems*: Musk ist kein Ideologe, der ein geschl
 
 ## Gedankenwelten-Notes
 
+- [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — Ich bin nicht MAGA]] — DealBook Summit, 18.11.2026: nach der verlorenen Zwischenwahl „pretty foolish“ über das Geld, „ideologically quite moderate“, „I'm not MAGA“; daneben sein eigenes Archiv.
 - [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Musk — der Junge, der zum Vater zog|Gefangene des Systems]] — Musk als einer von fünf Fällen: der Junge, der aus Mitleid zum Vater zog, und die Frage, ob frühe Härte bestimmt, wie hart einer später glaubt (Luc).
 - [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain]] — Musk als Brandbeschleuniger britischer Innenpolitik: „kalte, pure Wut“ im Fall Nowak, Hunderte Posts pro Woche, Großbritannien als sein „Lieblingsspielfeld“.
 - [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] — Musks *Atlas Shrugged*-Vergleich, seine Wahlkampfmillionen und der Weg zum ersten Billionär.
