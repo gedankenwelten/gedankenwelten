@@ -187,5 +187,12 @@ Nur echte Treffer eintragen. Wenn keine brauchbaren Quellen gefunden: Abschnitt 
 - **Die Suchzusammenfassung ist kein Beleg.** Jede Zahl, jedes Amt, jedes Datum, das in einen Callout geht,
   an der verlinkten Seite selbst nachlesen (Jina/Defuddle + `grep`); steht es dort nicht, gehört der Link
   nicht dahinter (→ `rules/web-recherche.md`, seit 28.10.2026)
+- **Callouts sind druckfertig, für Leser geschrieben** (seit 21.11.2026). Titel, Befund, Quelle, sonst nichts.
+  Keine Sätze an die Redaktion im Callout: kein „Empfehlung: …“, „streichen“, „ersetzt den alten Callout“,
+  „(alter Callout, hält)“, „Korrektur: …“. Was die Redaktion wissen muss (alte Callouts ersetzen, Fehler in der
+  Note, falsche Sprecher), gehört in einen eigenen Abschnitt `## Hinweise an die Redaktion` *vor* dem Faktencheck;
+  der wird nicht eingefügt. Anlass: Bei der Modernisierung der El-Mafaalani-Note übernahm die Hauptinstanz
+  Sherlocks Entwürfe und mit ihnen sechs solcher Notizen. Sie standen im öffentlichen Faktencheck, bis der
+  Fremden-Test sie vor dem Deploy fand.
 - Keine Rückfragen
-- Kein Text außerhalb der beiden Abschnitte
+- Kein Text außerhalb der beiden Abschnitte (und gegebenenfalls der Hinweise an die Redaktion)

@@ -793,6 +793,18 @@ Sherlocks Ausgabe besteht aus **zwei Blöcken** — beide per Edit in die Note e
 1. `## Faktencheck` — nach dem Inhalt, vor den Verbindungen
 2. `## Weiterführende Quellen (Sherlock)` — falls vorhanden: direkt nach einem eventuell bereits vorhandenen `## Weiterführende Quellen`-Abschnitt aus Schritt 2b. Wenn beide Abschnitte existieren, zusammenführen zu einem einzigen `## Weiterführende Quellen`-Block.
 
+> [!warning] Fremde Entwürfe vor dem Einfügen gegenlesen (seit 21.11.2026)
+> Was ein Agent liefert, ist ein Entwurf, kein druckfertiger Text. Das gilt für Sherlocks Callouts, die
+> Nachbesprechungs-Recherche und Humboldts Viten. Ein Abschnitt `## Hinweise an die Redaktion` wird nie
+> eingefügt. Nach dem Einfügen einmal:
+> ```bash
+> grep -n -i -E "empfehl|streichen|sollte weg|ersetzt den|alter callout|redaktion|hauptinstanz|teil a|teil b" "<note>"
+> ```
+> Jeder Treffer, der nicht inhaltlich gemeint ist, fliegt raus. Anlass: Bei der El-Mafaalani-Modernisierung
+> standen sechs Arbeitsnotizen Sherlocks („Empfehlung: Diesen Callout statt der beiden alten“, „streichen“)
+> im öffentlichen Faktencheck, gefunden erst vom Fremden-Test. Ein Grep kostet Sekunden, der Fremden-Test
+> ist das Netz dahinter, nicht die erste Prüfung.
+
 ---
 
 ## Schritt 5c — Gedankenpoesie: Stimme (optionale Kür)

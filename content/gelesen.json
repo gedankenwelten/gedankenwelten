@@ -10,8 +10,8 @@
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 62,
-   "aufrufe": 70
+   "leser": 61,
+   "aufrufe": 69
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -19,14 +19,14 @@
    "aufrufe": 51
   },
   {
-   "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 42,
-   "aufrufe": 44
-  },
-  {
    "pfad": "/DenkerVita/Mark-Reicher",
    "leser": 41,
    "aufrufe": 44
+  },
+  {
+   "pfad": "/DenkerVita/Hans-Maggi",
+   "leser": 41,
+   "aufrufe": 43
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -79,14 +79,14 @@
    "aufrufe": 12
   },
   {
-   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-   "leser": 10,
-   "aufrufe": 11
-  },
-  {
    "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
    "leser": 9,
    "aufrufe": 11
+  },
+  {
+   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "leser": 9,
+   "aufrufe": 10
   },
   {
    "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -164,12 +164,12 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Ralf-Stockmann",
+   "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
    "leser": 5,
-   "aufrufe": 6
+   "aufrufe": 7
   },
   {
-   "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
+   "pfad": "/DenkerVita/Ralf-Stockmann",
    "leser": 5,
    "aufrufe": 6
   },
@@ -177,11 +177,6 @@
    "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
    "leser": 5,
    "aufrufe": 6
-  },
-  {
-   "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-   "leser": 5,
-   "aufrufe": 5
   },
   {
    "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
@@ -255,6 +250,11 @@
   },
   {
    "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Denker/Hannah-Arendt-Zur-Person",
    "leser": 4,
    "aufrufe": 4
   },
@@ -364,11 +364,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "leser": 5,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 5,
      "aufrufe": 5
@@ -389,6 +384,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
      "leser": 4,
      "aufrufe": 5
@@ -404,12 +404,12 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 3,
-     "aufrufe": 4
+     "aufrufe": 5
     },
     {
-     "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
+     "pfad": "/DenkerVita/Marcant",
      "leser": 3,
      "aufrufe": 4
     },
@@ -620,8 +620,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 62,
-     "aufrufe": 70
+     "leser": 61,
+     "aufrufe": 69
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -629,14 +629,14 @@
      "aufrufe": 51
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 42,
-     "aufrufe": 44
-    },
-    {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 41,
      "aufrufe": 44
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "leser": 41,
+     "aufrufe": 43
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -689,14 +689,14 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 10,
-     "aufrufe": 11
-    },
-    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 9,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 9,
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -774,12 +774,12 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 5,
-     "aufrufe": 6
+     "aufrufe": 7
     },
     {
-     "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 5,
      "aufrufe": 6
     },
@@ -787,11 +787,6 @@
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 5,
      "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-     "leser": 5,
-     "aufrufe": 5
     },
     {
      "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
@@ -865,6 +860,11 @@
     },
     {
      "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 35,
-     "aufrufe": 35
+     "leser": 34,
+     "aufrufe": 34
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1769,11 +1769,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Zur-Person",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Maja-Goepel-Mut-zur-Zukunft",
      "leser": 3,
      "aufrufe": 3
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
      "leser": 2,
      "aufrufe": 2
     }

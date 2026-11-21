@@ -68,6 +68,10 @@ Gedankenwelten/
 >    `python3 .claude/scripts/fremdblick.py --note … --quelle …`. Das gilt auch für neue Notes (→ `gedankenwelt`, Schritt 5f).
 >    Die Funde sind Material und werden am Transkript nachgeprüft. Budget 10–20 $ im Monat, das Skript bremst selbst.
 >
+> 6. **Fremde Entwürfe gegenlesen** (seit 21.11.2026): Was Sherlock, Humboldt oder ein Recherche-Agent liefert,
+>    wird vor dem Einsetzen auf Arbeitsnotizen geprüft („Empfehlung“, „streichen“, „ersetzt den alten Callout“);
+>    der Grep steht in `gedankenwelt`, Schritt 5b. Anlass: sechs solcher Notizen im Faktencheck der El-Mafaalani-Note.
+>
 > **Wann:** beim Modernisieren und Nachschärfen, bei Vertiefungen (heraklit), bei Panoramen und Vitas, also
 > überall, wo eigene Sätze umgeschrieben werden. **Nicht** bei reinen Korrekturen (aristarch, Tippfehler,
 > Namen). Er ersetzt weder Transkript noch Faktencheck: Einen Fehler, der vorher und nachher gleich dasteht,

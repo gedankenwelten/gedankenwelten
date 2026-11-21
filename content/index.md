@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **21.11.** — [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+>
+> Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.
+
 > **21.11.** — [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]]
 >
 > Die Leistungsgesellschaft hält alle gefangen, auch ihre Gewinner, die bis zur Erschöpfung arbeiten. Wolfgang M. Schmitt und Stefan Schulz lesen Daniel Markovits' „The Meritocracy Trap“, und Wolfgang fragt, warum das Buch den Kapitalismus nicht beim Namen nennt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Rolltreppenfahrt beendete ein Doppelleben von über sechzig Jahren. Georgine Kellermann erzählt, was ein Spiegel, eine Kollegin und ein einziges „Cool“ verändern können.
 
-> **20.11.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
->
-> Wendy Brown über eine Revolution auf leisen Sohlen: Wer die Demokratie zum Markt macht, verliert ihre Gleichheit und das Volk, das sich selbst regiert.
-
-> → *14 weitere in* [[Zeitgeist]]
+> → *15 weitere in* [[Zeitgeist]]
 
 ### Denker
 

@@ -6100,3 +6100,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]] |
 | **DenkerVita** | [[DenkerVita/Aladin El-Mafaalani]] |
 | **Transkript** | `Gedankenwelten/Transkripte/ElMafaalani_Panel_tazLab2025_Transkript.txt` |
+
+## Patrick Kaczmarczyk / Gaskrise und Reiches Notfallgesetz (Surplus, November 2026)
+
+| | |
+|---|---|
+| **Video** | [Gaskrise: Warum Reiches Politik versagt — Mit Dr. Patrick Kaczmarczyk](https://www.youtube.com/watch?v=IdbE0lMaZhU) — Surplus Magazin, 20.11.2026 (aufgenommen 16.11.), Moderation Ciara Cesaro-Tadic |
+| **Teil 1** | [Droht die nächste Gaspreiskrise? — Mit Patrick Kaczmarczyk](https://www.youtube.com/watch?v=EyhG0gbKwSU) — 17.11.2026 |
+| **Notiz** | [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kaczmarczyk_Gaskrise_Reiche_Transkript.txt` (Sprecher per Stimmlage getrennt) |
