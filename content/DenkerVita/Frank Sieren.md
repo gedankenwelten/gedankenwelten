@@ -83,6 +83,7 @@ Dem gegenüber stehen: breite Rezeption in seriösen deutschen Medien, hohe Eins
 - [[DenkerVita/Felwine Sarr]] — Auch Sarr weigert sich, China zum Schreckbild zu machen; es gehe um Afrikas Beziehungen zur ganzen Welt. Er zieht daraus eine Forderung, die in Sierens Verstehen fehlt: Verträge, „die nicht räuberisch, sondern fair sind“, gegenüber China wie gegenüber Westeuropa. Eine Macht zu verstehen und hart mit ihr zu verhandeln, sind bei ihm zwei verschiedene Arbeiten.
 - [[DenkerVita/Herfried Münkler]] — Münkler sieht nach dem unipolaren Moment eine Ordnung aus fünf Mächten entstehen, in der Europa nur Pol bleibt, wenn es zusammenhält, sonst gehört es zu den Gestalteten. Sieren hat aus Asien schon geantwortet: Die Europäer spielten dort „praktisch überhaupt keine Rolle“. Was bei Münkler eine offene Bedingung ist, ist bei Sieren bereits ein Befund.
 - [[DenkerVita/Evan Osnos]] — Ein zweiter Reporter, der China jahrelang aus der Nähe beschrieben hat, von einem anderen Standpunkt aus. Sieren deutet das Land von der wirtschaftlichen Rationalität und den Elitenzirkeln her, Osnos' *Age of Ambition* sucht es bei Einzelnen, die nach Wohlstand, Wahrheit und Glauben streben. Osnos hat denselben kartierenden Blick später auf Amerikas Ultrareiche gerichtet.
+- [[DenkerVita/Miriam Steimer]] — Eine Peking-Korrespondentin, die offen sagt, wie wenig man dort erfährt, als Gegenprobe zu Sierens Zutrauen in die Innenperspektive. Shenzhen, bei ihm ein Zukunftslabor, ist bei ihr die „Visitenkarte“ einer Pressetour ohne Fragen.
 
 ---
 

@@ -392,6 +392,14 @@ Die beiden wachsenden Panoramen, in die die Nachbesprechung führt.
 
 Simone Weil nennt die Freundschaft zwischen Todfeinden eine Gnade; die Gewaltforscherin Hanna Pfeifer antwortet mit Vermittlern, Verfahren und Transitional Justice. Leonhards „Doing peace“ ist die Geschichte dieser Arbeit.
 
+### → [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus#Die Umarmung am Flughafen|Trump im Autokraten-Zirkus]]
+
+Ein Floß auf der Memel, 2026: In Shenzhen umarmen sich Xi und Trump am Flughafen, und drei ZDF-Korrespondenten lesen den Gipfel fast ganz aus solchen Gesten. Die Peking-Korrespondentin Miriam Steimer sagt selbst, man lege in Peking zu viel hinein, weil es so wenig anderes gibt.
+
+### → [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]]
+
+Der Militärökonom rechnet Kriege in Nachschub und Abnutzung und hält Moskaus Gesprächsangebote für „Finten, Pseudoangebote“: Ernsthaft verhandelt werde erst, wenn Putin militärisch nicht weiterkommt. Leonhards fünfte These erklärt, warum Keupps Prognose für Oktober 2023 nicht eintrat, obwohl die Logik darunter dieselbe ist: Die Einsicht folgt den Ressourcen nicht.
+
 ---
 
 ## Weiterdenken

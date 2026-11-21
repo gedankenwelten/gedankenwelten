@@ -441,6 +441,10 @@ Rothfuß' Eisbohrkern-Argument hat dieselbe Bauart wie „CO₂ ist Leben“: ei
 
 Thiele ist die stärkste Gegenstimme zu Wittigs Wort von der Kontaktschuld: Er hält an der Brandmauer fest, kritisiert, dass die Übernahme von AfD-Erzählungen sie hoffähig macht, und erinnert an Papens Irrtum, man könne die Rechte durch Einbinden entzaubern. Wittig hält das „quer durchs Spektrum“ für die historische Aufgabe ihrer Fraktion; Thiele hält genau das für den Weg, auf dem eine Demokratie ihre Klinge stumpf macht.
 
+### → [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]]
+
+Die Gegenstimme zum ersten Schritt. Der Militärökonom hält schon das Reden über Verhandlungen für ein Narrativ des Kreml und will die Ukraine ohne NATO-Truppen so ausstatten, dass Putin „keine Chance hat“. Wo Wittig Waffen stoppen will, um Gesprächspartner zu werden, sieht Keupp im Verhandeln ohne Stärke die Aufwertung eines Kriegsverbrechers.
+
 ---
 
 ## Weiterdenken

@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 124,
-   "aufrufe": 149
+   "leser": 123,
+   "aufrufe": 147
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -65,8 +65,8 @@
   },
   {
    "pfad": "/DenkerVita/Stephan-Bartunek",
-   "leser": 12,
-   "aufrufe": 13
+   "leser": 13,
+   "aufrufe": 14
   },
   {
    "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -325,8 +325,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 11,
-     "aufrufe": 12
+     "leser": 12,
+     "aufrufe": 13
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 124,
-     "aufrufe": 149
+     "leser": 123,
+     "aufrufe": 147
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -675,8 +675,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 12,
-     "aufrufe": 13
+     "leser": 13,
+     "aufrufe": 14
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -1049,6 +1049,11 @@
      "aufrufe": 14
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 13,
+     "aufrufe": 14
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 13,
      "aufrufe": 13
@@ -1067,11 +1072,6 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 12,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 12,
-     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
@@ -1354,6 +1354,11 @@
      "aufrufe": 14
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 13,
+     "aufrufe": 14
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 13,
      "aufrufe": 13
@@ -1372,11 +1377,6 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 12,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 12,
-     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
@@ -1539,12 +1539,12 @@
      "aufrufe": 34
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 31,
-     "aufrufe": 31
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 30,
+     "aufrufe": 30
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 30,
      "aufrufe": 30
     },
@@ -1589,12 +1589,12 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 8,
-     "aufrufe": 8
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 9,
+     "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "pfad": "/DenkerVita/Der-Dara",
      "leser": 8,
      "aufrufe": 8
     },

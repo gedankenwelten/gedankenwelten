@@ -252,6 +252,10 @@ Die PhoenixRunde nennt KI-Regulierung als ungelöste Frage des Xi-Trump-Gipfels.
 
 Was hier als Gipfelchoreografie sichtbar wird, ist bei Orain die Signatur einer Epoche: Eine liberale Phase endet, weil die Sieger von gestern schlechte Verlierer sind, die es nicht ertragen, im eigenen Spiel geschlagen zu werden. Sein China lässt genau das ausrichten, was Xi in Peking nicht sagen muss — wendet doch selbst an, was ihr uns gelehrt habt. Zugleich stützt der Abend den Haupteinwand gegen Orain: Branko Milanović erklärt die Wende schlicht mit dem Hegemonieverlust, und Chinas Anteil an der Weltwirtschaft (1820: 30 Prozent, dann 3, heute 17) kommt ohne einen einzigen erschöpften Rohstoff aus.
 
+### → [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus#Die Umarmung am Flughafen|Trump im Autokraten-Zirkus]]
+
+Sechs Monate später der Gegenzug: In Shenzhen holt Xi Trump persönlich am Flughafen ab, nach der Archivsuche des ZDF-Studios zum ersten Mal in seiner Amtszeit. Die Peking-Korrespondentin Miriam Steimer warnt dabei selbst, man lege in solche Gesten oft zu viel hinein.
+
 ---
 
 ## Weiterdenken

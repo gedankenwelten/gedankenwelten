@@ -372,6 +372,14 @@ Der Historiker macht aus Münklers verschwundener Grenze zwischen Krieg und Frie
 
 Münklers „funktionelles Zusammenspiel“ zwischen Putin und Trump steht dort neben den beiden Dokumenten, die es belegen könnten: Moskau und Washington wünschen sich schriftlich ein Europa aus Einzelstaaten. Seine Sandwichposition ist die Lage, in der sich Europa fragen muss, ob es Spieler oder Figur ist.
 
+### → [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus#Kein Jalta|Trump im Autokraten-Zirkus]]
+
+Das Sandwich am Verhandlungstisch: In Shenzhen sitzen Putin und Trump mit Xi zusammen, und am selben Tag kritisiert Trump laut Teilnehmern die europäischen Hilfspläne für die Ukraine. Röller warnt, wer sich um die Plätze am Tisch streite, verliere ihn.
+
+### → [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz#Warum die Europäer nicht dabei waren|Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]]
+
+Die Gegenprobe zur Speisekarte: Der Militärökonom Marcus Keupp wäre als europäischer Staatschef nicht nach Shenzhen gefahren, weil ein Foto mit den dreien Zustimmung oder Vasallentum signalisiert hätte. Er setzt Fernbleiben als Haltung gegen den Satz, wer nicht am Tisch sitze, stehe auf der Speisekarte.
+
 ---
 
 ## Weiterführende Quellen

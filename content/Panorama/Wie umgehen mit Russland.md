@@ -316,6 +316,9 @@ Das Panorama zum Prinzip unter allen Spielern: ob das Recht des Stärkeren ein N
 
 Die technische Seite der Frage, wie man sich vor dem hybriden Krieg schützt: Backup, Verteidigung in der Tiefe, Attribution in drei Stufen, und mit den Kühltruhen ein Fall, in dem der Angreifer in der Grauzone nicht Russland ist.
 
+### → [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]]
+
+Am Abend des Dreiergipfels von Shenzhen hält der Militärökonom schon das Reden über Verhandlungstische für ein Narrativ des Kreml. Frieden gebe es erst, wenn Putin militärisch und wirtschaftlich nicht mehr vorankommt.
 
 ---
 

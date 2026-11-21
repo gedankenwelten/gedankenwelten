@@ -638,6 +638,10 @@ Die Spur nennt als Hürde nach jeder Abwahl die Abgewählten selbst, die oft fas
 
 Am selben Tag aufgenommen und nüchterner: Pickert nennt die Wahl eine Brandmauerwahl ohne Richtung. Wo Theveßen einen ohnmächtigen Präsidenten sieht, der seine Siege außen sucht, sehen Junge und Pickert einen Apparat um Stephen Miller, der weiterläuft, auch wenn Trump nicht mehr selbst schiebt.
 
+### → [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus#Kein Jalta|Trump im Autokraten-Zirkus]]
+
+Fünfzehn Tage später, Folge 82: Putin, Xi und Trump sitzen in Shenzhen an einem Tisch, für Röller „diplomatisches Gold“ für Putin. Theveßen beantwortet seinen eigenen Test: Die Zeit, in der Washington „auf unserer Seite“ stand, sei vorbei.
+
 ---
 
 ## Weiterdenken

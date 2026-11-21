@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*381 Notes — automatisch generiert · nach Thema sortiert*
+*384 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -111,6 +111,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]] — Am gefährlichsten ist die Erschöpfung. Ece Temelkuran hat erlebt, wie die Türkei ihre Demokratie verlor, und erkennt dieselben Schritte nun in den USA, beschleunigt durch Trumps Tempo.
 - [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]] — Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]] — Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
+- [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — „Ich bin nicht MAGA“]] — Nach der verlorenen Wahl nennt sich Elon Musk moderat und „nicht MAGA“, er sei nicht sicher, was das heiße. Vor zwei Jahren stand er mit der Mütze auf der Bühne.
 - [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]] — Eine Regierung abzuwählen ist leichter, als ein Regime abzubauen. Kurz vor der Ungarn-Wahl zeigt Ernst Gelegs, welche Schlösser Orbán in den Staat eingebaut hat.
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg.
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]] — Mark Zuckerberg lebt seit seinem 18. Lebensjahr in einer Welt, die er selbst gebaut hat. Evan Osnos über Ultrareiche ohne Reibung, die wissen, wohin Ungleichheit führt, und Bunker bauen.
@@ -310,7 +311,9 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot|taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]] — 475 Festnahmen in einer Fabrik in Georgia und ein Jahr Schwarz-Rot, in dem Kritiker aus den Ministerien lieber schweigen. Zwei taz-Recherchen über Rückabwicklung und Gleichgültigkeit.
 - [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]] — Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
 - [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem|Tiana Travels — Das amerikanische Betriebssystem]] — Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
+- [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]] — Eine Umarmung am Flughafen, ein Platz in der Mitte, ein „Wer ist das?“ an der Tür: Drei Korrespondenten lesen Shenzhen aus Bildern, und eine von ihnen warnt davor, zu viel hineinzulesen.
 - [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika|Verliert Trump den Iran-Krieg in Amerika?]] — Gedacht war ein Regime, das sich beugt, nicht eines, das fällt. Reinhard Heinisch erklärt, warum der Plan im Iran scheiterte und warum die Stimmung daheim kippt, sobald Särge zurückkommen.
+- [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]] — Ein Militärökonom will nur gelten lassen, was auf dem Schlachtfeld geschieht, und hält schon das Reden vom Verhandeln für einen Sieg des Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
 
 ### Geopolitik & Krieg
 

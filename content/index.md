@@ -30,7 +30,7 @@ Die Gedankenwelten (luc)
 
 > **21.11.** — [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]]
 >
-> Ein Militärökonom will nur gelten lassen, was auf dem Schlachtfeld geschieht, und hält schon das Reden vom Verhandeln für einen Sieg des Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
+> Ein Militärökonom will nur gelten lassen, was militärisch und wirtschaftlich geschieht, und hält schon das Reden vom Verhandeln für ein Geschenk an den Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
 
 > **21.11.** — [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
 >

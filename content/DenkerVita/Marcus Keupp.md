@@ -81,6 +81,11 @@ Keupp versteht sich ausdrücklich nicht als neutraler Beobachter. 2023 sagte er 
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Jörn Leonhard]] — Der Historiker teilt Keupps Grundannahme, dass die Ressourcen bestimmen, wann ein Krieg kippt, und fügt hinzu, woran Keupps Datum für Oktober 2023 scheiterte: Die Einsicht der Akteure folgt den Ressourcen nicht. Das Deutsche Reich hatte den Ersten Weltkrieg spätestens 1916 verloren und kämpfte bis 1918. Beim Verhandeln liegen sie näher, als Keupps Ton vermuten lässt: Auch Leonhard erwartet von einseitigen Zugeständnissen keine befriedende Wirkung auf einen Angreifer, hält Diplomatie, die Auswege auslotet, aber für ihre Aufgabe.
+- [[DenkerVita/Hanna Notte]] — Notte stützt seinen Befund der Abhängigkeit von China mit genaueren Zahlen, rund 40 Prozent der russischen Importe und 35 Prozent der Exporterlöse. Dem Tempo widerspricht sie: Russland stehe nicht vor dem Kollaps und könne „noch gut eine Weile weiterkämpfen“. Beim Atomschatten trennt sie, was Keupp zusammenzieht: Die Drohkulisse habe sich abgenutzt, und Moskau sei zum hybriden Krieg gegen Europa übergegangen.
+- [[DenkerVita/Susanne Weigelin-Schwiedrzik]] — Die Realistin gegen den Verfechter des westfälischen Prinzips. Sie will sich in die Logik des Kreml hineindenken, bis ein Anker für Verhandlungen sichtbar wird; Keupp sieht schon im Reden über Verhandlungen die Aufwertung eines Kriegsverbrechers. Das Dreieck Trump, Putin, Xi beschreibt sie als *ménage à trois* gleich starker Mächte, er Putin als „Vasall Chinas“.
+- [[DenkerVita/Claudia Wittig]] — Die schärfste Gegenstimme beim Verhandeln. Wittig will Waffenlieferungen einstellen, weil Deutschland als „faktisch Kriegspartei“ kein glaubwürdiger Gesprächspartner sei. Keupp will die Ukraine so ausstatten, dass Putin „keine Chance hat“, und erst dann reden.
+
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]]

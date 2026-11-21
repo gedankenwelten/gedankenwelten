@@ -362,6 +362,14 @@ Fünf Wochen später, wieder bei der Körber-Stiftung, die Probe auf Nottes zwei
 
 Wie Lagodinsky führt Rainer Rothfuß (AfD) Libyen und Jugoslawien gegen den Westen an. Anders als Lagodinsky macht er daraus eine Hoffnung auf BRICS und Multipolarität, also mehr Pole statt mehr Regeln.
 
+### → [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus#Kein Jalta|Trump im Autokraten-Zirkus]]
+
+Sechs Wochen später sitzt Putin in Shenzhen mit Xi und Trump an einem Tisch, und die drei einigen sich vor allem darauf, die Immunität von Staatsvertretern gegenüber dem Strafgerichtshof zu achten. Für Ulf Röller wird dort „das Recht des Stärkeren“ gefeiert. Das ist Lagodinskys Welt der Machtpole als Bild.
+
+### → [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz#Der Vasall am Rand des Fotos|Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]]
+
+Der Militärökonom nennt Russland nach Shenzhen einen „bequemen Vasallen“ Chinas. Nottes Zahlen zur Abhängigkeit tragen diese Richtung, seine eigene Exportzahl überzeichnet sie. Seinem „Ich warte immer noch drauf“ zum Atomkrieg steht ihre Leiter gegenüber, die vom Nuklearen ins Hybride führt.
+
 ---
 
 ## Weiterdenken

@@ -309,6 +309,14 @@ Japan ist für Leonhard ein Beispiel dafür, dass eine Niederlage zur Chance wer
 
 Was es heißt, eine Meerenge nicht umgehen zu können, zeigte Europa im Herbst 2026: Katars Flüssiggas blieb hinter Hormus, während eskortierte Öltanker durchkamen, und Deutschland hatte nur den Lieferanten gewechselt.
 
+### → [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus#Warum Peking an Putins Seite steht|Trump im Autokraten-Zirkus]]
+
+Im November 2026 sitzen die drei der *ménage à trois* in Shenzhen zum ersten Mal zu dritt am Tisch. Die Peking-Korrespondentin Miriam Steimer hält die Augenhöhe für Schein: Russland sei entweder abhängiger Juniorpartner oder so fest gebunden, dass es keine Gesten mehr braucht.
+
+### → [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz#Der Vasall am Rand des Fotos|Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz]]
+
+Am Abend des Dreiergipfels liest der Militärökonom Marcus Keupp das Dreieck gegen die *ménage à trois*: Russland sei „sicher die kleinste Macht“ und ein „Vasall Chinas“, und schon das Reden über Verhandlungen werte einen Kriegsverbrecher auf. Wo sie den Anker sucht, an dem ein Kriegsende verhandelbar wird, will er zuerst die militärische Lage ändern.
+
 ---
 
 ## Weiterführende Quellen

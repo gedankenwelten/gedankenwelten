@@ -63,6 +63,11 @@ Ihre ZDF-Biografie führt außerdem seit 2017 eine freiberufliche Seminar- und W
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Ulf Roeller]] — Ihr Vorgänger in der Leitung des Pekinger Studios und ihr Gesprächspartner im *Trump Effekt*. Als sie davor warnt, man übertreibe in Peking die Deutung von Gesten, antwortet er gut gelaunt: „Wir wollen auch weiter übertreiben.“ Bei Europa trennen sie sich offen: Röller erzählt die Gegengeschichte eines Kontinents, der aufwacht, und sie setzt ein Fragezeichen dahinter, weil Peking am liebsten mit einzelnen Staaten verhandelt.
+- [[DenkerVita/Susanne Weigelin-Schwiedrzik]] — Dieselbe Erkenntnisfrage aus zwei Berufen. Die Sinologin vergleicht, was China sagt, was es tut und was es denkt, und hält das Schweigen dazwischen selbst für ein Datum. Steimer gibt zu, dass Korrespondenten mangels Auskunft sogar den Blumenschmuck deuten. Im Befund widersprechen sie sich: Weigelin-Schwiedrzik beschrieb Trump, Putin und Xi als *ménage à trois* etwa gleich starker Mächte, Steimer sieht in Shenzhen keine Augenhöhe.
+- [[DenkerVita/Frank Sieren]] — Zwei deutsche Journalisten in Peking mit verschieden großem Zutrauen in das eigene Deuten. Sieren beruft sich auf 32 Jahre vor Ort, Stimmungen in Elitenzirkeln ließen sich nur von innen lesen, und hat Shenzhen ein Buch als Zukunftslabor gewidmet. Steimer erlebt dieselbe Stadt als „Visitenkarte“ auf einer Pressetour, bei der man filmen, aber keine Fragen stellen durfte.
+- [[DenkerVita/Xi Jinping]] — Die Probe auf Steimers Satz, Xi und Putin verbinde dieselbe Erfahrung vom Zerfall der Sowjetunion. Putin nannte den Zerfall die größte geopolitische Katastrophe des Jahrhunderts, Xi eine „tiefe Lehre“ für die eigene Partei. Die gemeinsame Allergie gegen Abspaltung, von der Steimer spricht, trägt, ein gemeinsames Urteil nicht.
+
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|auslandsjournal — Trump im Autokraten-Zirkus]]

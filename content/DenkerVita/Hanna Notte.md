@@ -93,6 +93,7 @@ Notte ist eine Analystin aus dem transatlantischen Sicherheitsmilieu: Ihre Insti
 - [[DenkerVita/Susanne Weigelin-Schwiedrzik]] — Zwei nüchterne Analystinnen der eurasischen Achse: Notte die wachsende russische Abhängigkeit von China, Weigelin-Schwiedrzik die chinesische Architektur aus SCO und BRICS.
 - [[DenkerVita/Herfried Münkler]] — Notte beschreibt Russlands Übergang vom Atomschatten zum hybriden Krieg, Münkler die Theorie dazu: die aufgelöste Grenze zwischen Krieg und Frieden, Russland als Katechon.
 - [[DenkerVita/Sham Jaff]] — Beide drehen den europäischen Blick um: „Russland war nur aus westlicher Sicht isoliert“ trifft auf „für 85 Prozent der Menschheit war die Welt nie in Ordnung“.
+- [[DenkerVita/Marcus Keupp]] — Dieselbe Abhängigkeit Russlands von China, verschieden gewichtet: Keupp nennt Russland einen „Vasallen“ und hält das Reden vom Atomkrieg für ein Kreml-Narrativ, Notte sieht ein Land, das noch lange weiterkämpfen kann, und eine Drohung, die ins Hybride gewandert ist.
 
 ---
 

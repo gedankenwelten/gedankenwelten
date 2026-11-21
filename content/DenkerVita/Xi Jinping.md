@@ -153,6 +153,7 @@ Dass manche im Westen bei den Uiguren wegsehen, weil China ihnen als Gegengewich
 - [[DenkerVita/Vijay Prashad|Vijay Prashad]] — der marxistische Historiker, dessen Blick auf China die Lager auslässt
 - [[DenkerVita/Theodor W. Adorno|Theodor W. Adorno]] — die Erziehung zur Härte und der verbotene Schmerz
 - [[DenkerVita/Wladimir Putin|Wladimir Putin]] — der andere Junge aus der Note über die Gefangenen des Systems; beide lasen den Zerfall der Sowjetunion als Lehre, Putin als Verlust, Xi als Warnung
+- [[DenkerVita/Miriam Steimer|Miriam Steimer]] — die ZDF-Korrespondentin in Peking, die die Geste von Shenzhen einordnet: im Archiv kein Staatsgast, den Xi seit seinem Amtsantritt selbst am Flughafen abgeholt hätte, und eine Warnung davor, zu viel in solche Bilder zu legen
 
 ## Gedankenwelten-Notes
 

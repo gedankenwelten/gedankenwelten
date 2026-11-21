@@ -74,6 +74,7 @@ tags: [denker-vita, bsw, geschichte, mittelalter, geopolitik, russland, ukraine,
 - [[DenkerVita/Ronen Steinke|Ronen Steinke]] — Teilt ihre Absage an Bekenntnispflichten (Existenzrecht als Meinung, § 188 streichen) und zieht daraus für die AfD den entgegengesetzten Schluss: ein Verbotsverfahren wegen der Methode.
 - [[DenkerVita/Hans-Thomas Tillschneider|Hans-Thomas Tillschneider]] — Stimme der AfD Sachsen-Anhalt, deren Fraktion mit dem BSW den Ukraine-Antrag beschloss; sein „Russland wehrt sich“ vom ersten Kriegstag zeigt, mit welchem Russlandbild die Sachkooperation zu tun hat.
 - [[DenkerVita/Mithu Sanyal|Mithu Sanyal]] — Pazifismus mit Konsistenzgebot, dasselbe Völkerrecht für Verbündete wie für Gegner; daran lässt sich Wittigs „Waffen stoppen, überall“ messen.
+- [[DenkerVita/Marcus Keupp|Marcus Keupp]] — Der Gegenpol zu „Waffen stoppen“: Der Militärökonom hält Stärke für die Voraussetzung jedes Tisches, der etwas taugt, und Verhandlungen ohne sie für die Aufwertung eines Kriegsverbrechers.
 
 ## Gedankenwelten-Notes
 

@@ -136,6 +136,10 @@ Leonhard leiht sich Musils Möglichkeitssinn, um seine These vom faulen Frieden 
 
 Der Jurist und der Historiker sehen denselben Weg vom „Mantel des Schweigens“ über Versailles nach Nürnberg und Den Haag. Safferling setzt darauf, dass Strafverfolgung den Frieden auf Dauer stützt, Leonhard warnt, dass ein mit Gerechtigkeit überladener Frieden emotional wird und schwerer zu schließen ist.
 
+### → [[DenkerVita/Marcus Keupp|Marcus Keupp]]
+
+Der Militärökonom misst Kriege an Nachschub und Abnutzung und sagte 2023 ein Datum voraus, an dem Russland militärisch verloren haben werde. Leonhards These, dass die Einsicht den Ressourcen nicht folgt, erklärt, warum die Logik weiterlebt, obwohl das Datum nicht hielt. Beim faulen Frieden stehen beide nah beieinander, beim Reden mit dem Angreifer nicht.
+
 ---
 
 ## Gedankenwelten-Notes
