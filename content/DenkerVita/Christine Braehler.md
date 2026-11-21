@@ -2,7 +2,7 @@
 title: Christine Brähler — DenkerVita
 date: 2026-06-05
 tags: [denker-vita, psychologie, selbstmitgefühl, bindungstheorie, beziehungen, scham, deutschland]
-aktualisiert: 2026-06-05
+aktualisiert: 2026-11-20
 description: "Die Münchner Psychologin Christine Brähler lehrt seit 2008 Selbstmitgefühl, erforschte mitfühlende Therapie bei Psychose und verbindet heute Selbstmitgefühl mit der Arbeit an inneren Anteilen."
 raetsel: "Wer sich bedingungslos hält, findet alle Bedingungen, unter denen er nicht gehalten wurde."
 ---

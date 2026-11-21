@@ -9,6 +9,18 @@ raetsel: "Wogegen willst du klagen, wenn dir keiner sagt, was war?"
 
 # Matthias Bäcker — DenkerVita
 
+![[assets/Matthias-Baecker-vita-banner.jpg|Kreidezeichnung: Ein Mann im langen Mantel hält nachts eine Laterne vor ein riesiges verschlossenes Gerichtstor, oben in der Mauer zieht sich eine Hand durch einen halb geöffneten Fensterladen zurück.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Honoré Daumier
+
+**Warum:** Daumier zeichnete den Bürger vor der Justiz, mit Kreide und Mitgefühl. Hier steht er mit seiner Lampe vor einem Tor, das zu bleibt, während oben eine Hand heimlich verschwindet: Bäckers Einwand, dass ein Rechtsstaat offen handelt und man sich gegen ihn wehren können muss.
+
+**Prompt:** Lithograph in the style of Honoré Daumier, black crayon on cream paper with grainy texture: a lone citizen in a long coat holds up an oil lamp before a massive closed courthouse door at night; behind a half-open shutter in the wall a shadowy hand withdraws. Expressive loose lines, deep chiaroscuro, wide banner composition. No faces in detail, no text, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

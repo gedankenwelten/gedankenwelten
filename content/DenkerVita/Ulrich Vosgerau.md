@@ -9,6 +9,18 @@ raetsel: "Jeder Wächter, sagt er, braucht selbst einen Wächter."
 
 # Ulrich Vosgerau — DenkerVita
 
+![[assets/Ulrich-Vosgerau-vita-banner.jpg|Ein leerer Platz mit langen Arkaden und tiefen Schatten unter grünem Abendhimmel, in der Mitte ein Sockel mit einem aufgeschlagenen Buch, auf einem Turm steht eine kleine Wächterfigur, unten eine zweite.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Giorgio de Chirico
+
+**Warum:** De Chiricos leere Plätze sind Orte der Ordnung und des Unbehagens zugleich. Das Gesetzbuch steht auf dem Sockel, und ein Wächter blickt auf den anderen herab: die alte Frage, wer die Wächter bewacht, um die Vosgeraus Einwände kreisen.
+
+**Prompt:** Metaphysical painting in the style of Giorgio de Chirico: an empty Italian piazza in late afternoon, long arcades casting deep shadows, in the centre a tall stone pedestal with an open book of law, on top of a tower a small watchman figure looking down at another watchman standing in the square. Green evening sky, ochre and terracotta, uncanny calm. Wide banner. No faces, no text, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

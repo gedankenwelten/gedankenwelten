@@ -9,6 +9,18 @@ raetsel: "Er kannte das Haus von innen. Jetzt klopft er von außen an die Tür."
 
 # Hans-Georg Maaßen — DenkerVita
 
+![[assets/Hans-Georg-Maassen-vita-banner.jpg|Ein großes leeres Büro bei Nacht mit Reihen von Aktenschränken und einer brennenden Schreibtischlampe, ein Mann im dunklen Anzug steht von hinten gesehen am Fenster und blickt auf eine Stadt mit erleuchteten Fenstern.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Edward Hopper
+
+**Warum:** Hoppers Räume sind still und einsam, Menschen am Fenster, die auf etwas blicken, das sie nicht mehr erreichen. Das Bild zeigt das Amt von innen, bei Nacht, und einen, der hinausschaut, ohne Urteil über ihn.
+
+**Prompt:** Painting in the style of Edward Hopper: a large empty government office at night, rows of filing cabinets, one desk lamp burning; a man in a dark suit seen from behind stands at the tall window looking out over a quiet city with lit windows. Flat planes of light and shadow, muted greens and ochres, stillness. Wide banner. No face visible, no text, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Die Mitte schmilzt kaum, sie spaltet sich, und ihre Angst gilt den Kindern. Heinz Bude 2014 über Misstrauen als politische Kraft und eine Null-Fehler-Generation.
 
-> → *13 weitere in* [[Zeitgeist]]
+> → *12 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
 
-> → *6 weitere in* [[Denker]]
+> → *2 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> → *18 weitere in* [[Panorama]]
+> → *15 weitere in* [[Panorama]]
 
 ### Spuren
 
@@ -140,7 +140,7 @@ Die Gedankenwelten (luc)
 >
 > Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
 
-> → *11 weitere in* [[Geistesblitz]]
+> → *2 weitere in* [[Geistesblitz]]
 
 ### Kultur
 

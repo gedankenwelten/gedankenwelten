@@ -9,6 +9,18 @@ raetsel: "Dreißig Jahre Flickwerk. Einer wollte endlich ein Haus daraus bauen."
 
 # Jan-Hendrik Dietrich — DenkerVita
 
+![[assets/Jan-Hendrik-Dietrich-vita-banner.jpg|Flächen in Rot, Gelb und Blau in einem schwarzen Raster: Links liegt ein wirrer Haufen schräger Blätter und Fäden, rechts sind dieselben Farbflächen ordentlich eingefügt, eine kleine schwarze Figur setzt das letzte Blatt.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Piet Mondrian
+
+**Warum:** Mondrians Raster ist Ordnung als Haltung. Dietrich lobt den Entwurf dafür, dass er dreißig Jahre Flickwerk im Nachrichtendienstrecht in eine Systematik bringt; das Bild zeigt den Haufen und das Raster nebeneinander.
+
+**Prompt:** Painting in the style of Piet Mondrian, flat primary colours red yellow blue with thick black grid lines on white: on the left half a chaotic heap of tilted papers and tangled strings, on the right half the same papers neatly fitted into a calm grid of rectangles, one small black figure placing the last sheet. Wide banner, flat matte paint. No text, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

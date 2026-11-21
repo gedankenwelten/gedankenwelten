@@ -9,6 +9,18 @@ raetsel: "Was die Magd nicht versteht, soll die Kaiserin nicht unterschreiben."
 
 # Markus Löffelmann — DenkerVita
 
+![[assets/Markus-Loeffelmann-vita-banner.jpg|Warmes Licht in einer hohen alten Bibliothek: Ein Gelehrter steht auf einer Leiter und liest in einem großen Band, unten liest eine Frau mit Haube neben einem Butterfass ratlos ein einzelnes Blatt.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Carl Spitzweg
+
+**Warum:** Spitzwegs Gelehrte auf ihren Leitern sind komisch und liebevoll zugleich. Löffelmann erzählte im Ausschuss von Maria Theresia, die Gesetze einem einfachen Menschen vorlegen ließ; das Bild stellt den Juristen und die Butterfrau unter dieselben Regale.
+
+**Prompt:** Painting in the style of Carl Spitzweg, warm Biedermeier oil painting: a high old library with towering shelves of law books, a scholar on a tall wooden ladder balancing an enormous open volume; at the foot of the ladder a simple country woman with a butter churn reads a single page with a puzzled look, seen from the side. Golden light from a high window, dust in the air. Wide banner. No detailed faces, no text, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

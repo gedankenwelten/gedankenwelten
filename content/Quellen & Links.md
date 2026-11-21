@@ -7,6 +7,18 @@ tags:
 ---
 
 
+## Innenausschuss des Bundestags — Anhörung zur Reform des Nachrichtendienstrechts
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Reform des Nachrichtendienstrechts umstritten](https://www.youtube.com/watch?v=WIyqWHO5mDU) (Deutscher Bundestag, Anhörung vom 12.10.2026) |
+| **Seite der Anhörung** | [bundestag.de, mit allen Stellungnahmen](https://www.bundestag.de/ausschuesse/inneres/anhoerungen/1223060-1223060) |
+| **Gesetzgebung** | [Drucksache 21/7868](https://dserver.bundestag.de/btd/21/078/2107868.pdf) · [Beschlussempfehlung 21/9161](https://dserver.bundestag.de/btd/21/091/2109161.pdf) |
+| **Notiz** | [[Innenausschuss — Reform des Nachrichtendienstrechts]] |
+| **Viten** | [[DenkerVita/Matthias Bäcker]] · [[DenkerVita/Jan-Hendrik Dietrich]] · [[DenkerVita/Franziska Goerlitz]] · [[DenkerVita/Markus Löffelmann]] · [[DenkerVita/Hans-Georg Maassen]] · [[DenkerVita/Luca Manns]] · [[DenkerVita/Ulrich Vosgerau]] · [[DenkerVita/Gunter Warg]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Innenausschuss_Nachrichtendienstrecht_WIyqWHO5mDU_Transkript.txt` |
+
+
 ## Raül Gallego Abellán / 3Cat — Wake up, Serbia! Pumpaj: The Student Uprising (Internationaler Studierendentag)
 
 | | |

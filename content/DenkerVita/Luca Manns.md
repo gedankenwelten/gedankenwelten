@@ -9,6 +9,18 @@ raetsel: "Achthundert Euro für einen Botengang. Wer bezahlt, bleibt im Ausland.
 
 # Luca Manns — DenkerVita
 
+![[assets/Luca-Manns-vita-banner.jpg|Holzschnitt in Indigo und Grau: Auf einem nächtlichen Hügel stehen drei weiße Radarkuppeln wie Monde, unten trägt ein kleiner Bote ein Paket einen gewundenen Weg zur Hafenstadt, über das Meer laufen feine Kabel.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Utagawa Hiroshige
+
+**Warum:** Hiroshiges Landschaften erzählen vom Unterwegssein auf großen Wegen. Manns sprach von der Fernmeldeaufklärung und von Boten, die für ein paar hundert Euro handeln, während die Auftraggeber weit weg sitzen; Kuppeln, Kabel und Bote stehen hier in einer Nacht.
+
+**Prompt:** Japanese ukiyo-e woodblock print in the style of Utagawa Hiroshige: a night landscape with a hill on which stand three white radar domes like moons; below, a winding road where a small courier figure carries a parcel towards a distant harbour city; long fibre cables run like threads across the sea. Indigo and soft grey gradations, visible wood grain. Wide banner. No text, no signature, no seals.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

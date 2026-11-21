@@ -9,6 +9,18 @@ raetsel: "Ein Eichhörnchen, das nur sammelt, hat im Winter nichts davon."
 
 # Gunter Warg — DenkerVita
 
+![[assets/Gunter-Warg-vita-banner.jpg|Feine Aquarellstudie: Ein rotes Eichhörnchen sitzt neben einem großen Haufen Haselnüsse und einem alten Eisenschlüssel, eine Pfote gehoben, links ein Zweig mit grünen Blättern auf hellem Papier.|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Albrecht Dürer
+
+**Warum:** Dürers Tierstudien sind genau bis zum einzelnen Haar. Warg sagte im Ausschuss, die Dienste dürften nicht wie Eichhörnchen sammeln und auf ihren Vorräten sitzen bleiben; das Tier hebt die Pfote, als wolle es den Haufen verlassen.
+
+**Prompt:** Watercolour and gouache study in the style of Albrecht Dürer, fine brushwork on toned paper: a red squirrel sits beside a large pile of hazelnuts and an old iron key, one paw raised as if about to leave the pile and act; delicate fur detail, leafy branch, plain background. Wide banner, natural history study. No text, no monogram, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
