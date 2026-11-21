@@ -2,7 +2,7 @@
 title: "Was macht Schule mit uns?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-11-20
+aktualisiert: 2026-11-21
 description: "Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Die Ecke ist leer. Der Schemel darin steht noch."
@@ -154,6 +154,8 @@ Ob gemeinsames Lernen auch die Haltung zur Demokratie formt, ist eine eigene Fra
 
 Bei der Begabtenförderung liegt die Lücke vor der Auswahl: Nur 46 Prozent der Schulen nutzen ihr Recht, jemanden für die Studienstiftung vorzuschlagen, in den ostdeutschen Flächenländern 28 Prozent ([Studienstiftung, 2025](https://www.studienstiftung.de/pool/sdv/public/documents/SERVICE/Publikationen/Grundsatzartikel/studienstiftung_vielfalt_begabtenfoerderung_20251124.pdf), eigene Auswertung). Über das ganze System wurde der Zugang zu Stipendien nach dem Ausbau ab 2006 weniger herkunftsabhängig ([Neumeyer 2026](https://doi.org/10.1080/03075079.2026.2718481), Trendanalyse), und längere Studienberatung senkte die Herkunftsungleichheit beim Studienbeginn in einem Experiment um etwa 70 Prozent ([Pietrzyk u. a. 2025](https://doi.org/10.1177/00380407251323888), randomisierte Studie).
 
+Ein Teil der Sortierung läuft über die Schulwahl. Seit zehn Jahren gehen 9 Prozent der Kinder auf eine Privatschule ([Destatis, Januar 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/01/PD26_N003_21.html)), Akademikerkinder deutlich häufiger, im Osten gut 23 Prozent ([Görlitz, Spieß & Ziege 2018](https://doi.org/10.18723/diw_wb:2018-51-1), Paneldaten), obwohl das Grundgesetz eine Sonderung nach dem Besitz der Eltern verbietet. Kinder aus ärmeren Familien ohne Hochschulbildung bleiben selbst in der Nähe einer Privatschule fern, und am Schulgeld allein liegt das nicht ([Helbig, Schmitz & Weinhardt 2022](https://doi.org/10.18723/diw_wb:2022-51-1), Paneldaten).
+
 **Die Stimmen**
 
 - **[[Hartwin Maas — Bildung NEU DENKEN#Bildungsstruktur Selektion, Chancengerechtigkeit & Systemreform|Hartwin Maas]]:** Aufteilung nach Klasse sechs statt vier; Gesamtschulen scheitern am Bildungsbürgertum, das das exklusive System für sich nutzt.
@@ -167,7 +169,7 @@ Bei der Begabtenförderung liegt die Lücke vor der Auswahl: Nur 46 Prozent der 
 - **[[Andreas Kemper — Faschismen im 21. Jahrhundert#Hilft gemeinsames Lernen?|Andreas Kemper]]:** Alle Kinder bis zur neunten Klasse gemeinsam, damit arme und reiche, eingewanderte und alteingesessene einander kennen — gegen Klassismus und gegen rechts.
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Gute direkte Beziehungen, schlechtes gesellschaftliches Generationenverhältnis|Aladin El-Mafaalani]]:** Dass Kita und Ganztag Familie und Bindung schwächen, nennt er einen Mythos; Eltern widmeten sich ihren Kindern aktiver als je gemessen.
 
-<details><summary>Weitere Stimmen (13)</summary>
+<details><summary>Weitere Stimmen (14)</summary>
 
 - **[[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Die Studienstiftung|Michael Hartmann (NANO Talk)]]:** Die Reform der Studienstiftung senkte den Anteil der Akademikerkinder von 75 auf 70 Prozent, „aktuell liegen sie wieder bei gut 73 %“; für die Machteliten spiele sie ohnehin „eine völlig untergeordnete Rolle“.
 - **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Der Vergleich und der Bücherschrank|Björn Nölte]]:** Der Notenvergleich bevorzugt, wer den „heimischen Bücherschrank“ hat, und ist darum „wahnsinnig ungerecht“.
@@ -177,7 +179,8 @@ Bei der Begabtenförderung liegt die Lücke vor der Auswahl: Nur 46 Prozent der 
 - **[[Manfred Spitzer — KI, Gehirn und Lernen#8. Armut — das unterschätzte Hirnproblem|Manfred Spitzer]]** (zweiter Befund): Armut in den ersten tausend Tagen prägt das Gehirn, und das ist kaum mehr auszugleichen.
 - **[[Lukas Baerfuss — Die Fesseln der eigenen Herkunft#Der Habitus und der Ehrendoktor|Lukas Bärfuss]]** (zweiter Befund): Der Ehrendoktor liegt in seiner Hand, aber er weiß nicht, ob er ihn auf die Visitenkarte drucken darf.
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]** (zweiter Befund): Eine Quote nach sozialer Herkunft statt nach Geschlecht oder Migrationshintergrund.
-- **[[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Kastenbildung durch Bildungsinvestitionen|Schmitt und Schulz]]:** Mit Markovits: Bildung ist vom Aufstiegs- zum Kastenmechanismus geworden.
+- **[[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Bildung als Erbe|Wolfgang M. Schmitt]]:** Mit Markovits rechnet er vor, dass reiche Eltern ihren Kindern „steuerfrei 10 Millionen über die Bildung“ vererben.
+- **[[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Bildung als Erbe|Stefan Schulz]]:** Eltern wählen die Privatschule aus Angst, in Rostock laut Zeitung schon „die Hälfte aller Abiturienten“, und landen doch im Mittelfeld; laut Stadtstatistik sind es gut zwei von fünf.
 - **[[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Bourdieu Habitus als frühe Einschreibung|Luc]]:** Die Elite hält ihre eigene Reproduktion für Meritokratie, und weil sie unter sich bleibt, sieht sie das Leben der anderen nie von innen.
 - **[[Duezen Tekkal — Deutschland ist bedroht#Was Deutschland versäumt hat|Düzen Tekkal]]:** „Kannst du arbeiten, nicht: kannst du Deutsch“ — der Bildungsnotstand der Gastarbeiterkinder ist bis heute nicht eingeholt.
 - **[[GfbV — Jesidische Familien in der Diaspora#Was in der Schule passiert|Hes Sedik und Sahar]]:** Bildung ist der Türöffner zur Anerkennung, doch Sahars Name wurde vor der Klasse an der Tafel „korrigiert“.
@@ -245,7 +248,7 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 - **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Papa Staat oder meine Institution|Marina Weisband]]:** Fünfundvierzig Minuten Neugier auf Mathematik, dann die Klingel: Die Schule erzieht zu Konsumenten und Besuchern. Der Kern der Demokratie wäre das Selbstverständnis, für sich und andere verantwortlich zu sein.
 - **[[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife#Chrupallas Bundestags-Inszenierung|Tino Chrupalla]]** (Gegenstimme): Demokratiebildung in der Schule sei „ideologische Überstülpung“, die Förderung soll gestrichen werden.
 - **[[MONITOR — Sparhammer gegen Jugendliche#Wido Geis-Thöne — keine Kosten, sondern Investitionen|Wido Geis-Thöne]]:** Kinder sind Investitionen in künftige Steuerzahler — die Arbeitsmarkt-Logik, hier als Schutzargument.
-- **[[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Humanistische Bildung als Gegenpol|Wolfgang M. Schmitt]]:** Die Meritokratie bringt eine „ungebildete Elite“ hervor; die Gegenkraft ist zweckfreie Bildung.
+- **[[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Bildung, die nichts verwerten muss|Wolfgang M. Schmitt]]:** Die Meritokratie bringt eine „ungebildete Elite“ hervor; die Gegenkraft ist zweckfreie Bildung.
 - **[[Raul Krauthausen — Teilgabe statt Teilhabe#Schicksalsgemeinschaft und das Recht auf Niederlagen|Raúl Krauthausen]]:** Schule und Kita sind Schicksalsgemeinschaften, einer der wenigen Orte, an denen man mit Kindern zusammengewürfelt wird, die anders sind, und Vorurteile verlernt, bevor sie sich festsetzen. Kleinere Klassen nützten vor allem den Nichtbehinderten, „das ist einfach Mathematik“ (Faktencheck: vereinfacht, die Effekte sind klein).
 
 <details><summary>Weitere Stimmen (19)</summary>
@@ -281,6 +284,7 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 21.11.2026 | [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Vererbt Bildung Privilegien?\|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]] | Sortiert die Schule: Privatschulen und Sonderungsverbot (Destatis 2026, Görlitz u. a. 2018, Wrase & Helbig 2016, Helbig u. a. 2022), Rostock-Zahl an der Stadtstatistik geprüft, Bildungstrichter (DZHW 2024), Ivy-Plus (Chetty u. a.) · Schmitt und Schulz als Stimmen |
 | 20.11.2026 | [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Nachbesprechung\|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit]] | Sortiert die Schule nach Herkunft? → Hilft die Kita? (van Huizen & Plantenga 2018, Felfe & Lalive 2018, Quebec: Baker u. a. 2008/2019, NICHD 1997, Vandell u. a. 2010, Zachrisson u. a. 2013), Elternzeit (Dotti Sani & Treas 2016) · El-Mafaalani als Stimme |
 | 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Begabtenförderung und Herkunft\|NANO Talk — Eliten]] | Begabtenförderung und Herkunft: Vorschlagsrecht der Schulen, Neumeyer 2026, Beratungsexperimente |
 | 04.10.2026 | [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Nachbesprechung|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]] | Gründungsnote · Beschämen oder schonen: Kim et al. 2011, Leach & Cidam 2015 (reparierbares Versagen), Pinquart 2017, Brummelman 2014, Dresel 2024, INTAKT, Oser/Spychiger; Cyrulniks „kleine Gefäße“ gegen Pluess/Belsky |

@@ -415,7 +415,7 @@ Die Theorie hinter diesem Gespräch: die vier Arenen, die Arten von Triggern und
 
 Eine Clique im Querfurter Stadtbad, die sich über die AfD uneinig ist, das ausspricht und befreundet bleibt: der Befund gegen die gespaltene Gesellschaft, mitten in der Hochburg. Zugleich ein Gegentest zu den Polarisierungsunternehmern: Der erfolgreichste Satz des AfD-Spitzenkandidaten ist eine zutreffende Beschreibung, kein Trigger.
 
-### → [[Aladin El-Mafaalani|Aladin El-Mafaalani — Mythos Bildung]]
+### → [[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]
 
 El-Mafaalani untersucht den Leistungsmythos von der Bildungsseite. Mau zeigt, dass gerade die mit kleinem Einkommen am festesten daran glauben.
 

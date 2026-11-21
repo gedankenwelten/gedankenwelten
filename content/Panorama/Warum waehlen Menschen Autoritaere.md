@@ -2,7 +2,7 @@
 title: "Warum wählen Menschen Autoritäre?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-11-20
+aktualisiert: 2026-11-21
 description: "Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -55,6 +55,8 @@ Eine Gegenprobe, die selten gemacht wird, schlägt Tom Krebs vor: die Corona-Kri
 
 Ein Weg vom Versagen zur Wahl ist belegt: Nach Finanzkrisen werden Wähler extremer und Koalitionen schwächer, so fehlen die Mehrheiten für Reformen ([Mian u. a. 2014](https://doi.org/10.1257/mac.6.2.1), Länderpanel); in Ungarn wuchs die extreme Rechte dort, wo Haushalte Kredite in fremder Währung trugen ([Gyöngyösi & Verner 2022](https://doi.org/10.1111/jofi.13138), quasi-experimentell). Enthüllungen schaden aber nicht automatisch dem Ganzen: Nach dem britischen Spesenskandal bestraften Wähler ihren Abgeordneten, ohne dem System weniger zu vertrauen ([Kelly & Tilley 2024](https://doi.org/10.1017/s0007123424000383), Mehrebenenanalyse).
 
+Die Bildung trennt die Wählerschaft heute schärfer als das Einkommen. In 21 Demokratien wanderten die Hochgebildeten seit den Sechzigern nach links, die Gutverdienenden blieben rechts ([Gethin, Martínez-Toledano & Piketty 2022](https://doi.org/10.1093/qje/qjab036), Langzeitdaten); bei der Bundestagswahl 2025 wählten 29 Prozent der Menschen mit einfacher und 13 Prozent mit hoher Bildung die AfD ([infratest dimap](https://www.tagesschau.de/wahl/archiv/2025-02-23-BT-DE/charts/umfrage-werwas/chart_1874851.shtml)). Dass Herabsetzung mitwirkt, zeigt ein Experiment: Trat ein Politiker gehoben auf, hießen Geringgebildete Aggression gegen die Regierung eher gut ([Noordzij u. a. 2024](https://doi.org/10.1111/1468-4446.13099), vorregistriertes Experiment). Dass gerade das Reden von Leistung die Kränkung erzeugt, wie Daniel Markovits und Michael Sandel meinen, ist dagegen kaum geprüft ([Bukodi & Goldthorpe 2021](https://doi.org/10.31235/osf.io/qgrkf), Preprint).
+
 **Die Stimmen**
 
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Der materielle Kern|Jana Hensel]]:** Der Rechtsruck im Osten hat einen materiellen Kern, den die Öffentlichkeit über dem Reden von Einstellungen vernachlässigt hat; die soziale Frage wird inzwischen rechts beantwortet.
@@ -64,9 +66,10 @@ Ein Weg vom Versagen zur Wahl ist belegt: Nach Finanzkrisen werden Wähler extre
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Die Dramatik, die Freundel nicht sieht|Isabella Weber]]:** Wem jahrzehntelang erzählt wurde, sein Wert entscheide sich am Markt, der greift nach dem Versprechen, Herkunft verbürge ihn, und erlebt die Konkurrenz von Frauen und Migranten als Betrug, „gar nicht so irrational“.
 - **[[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie#5. Der Rassenkern — es geht nicht um Immigration|Ibram X. Kendi]]:** In den USA ist der Kern rassistisch; die Finanzkrise war nur Brandbeschleuniger, denn niemand fürchte, von Weißen ersetzt zu werden.
 - **[[Arlie Hochschild — Stolen Pride#Das Stolz-Paradox|Arlie Hochschild]]:** Wer seinen Stolz auf Eigenleistung baut, erlebt Jobverlust als Scham, und Trump fördert diese Scham „wie Bergleute Kohle“.
+- **[[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Populismus als Antwort|Daniel Markovits]]** (gelesen im Salon der Neuen Zwanziger): Populismus sei „eine natürliche und sogar angemessene Reaktion auf extreme meritokratische Ungleichheit“; Trump siegte dort, wo die Diplome fehlen.
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Was fehlt, ist nicht das Brot|Querfurt]]:** Die Clique hat Arbeit, die Arbeitslosigkeit hat sich mehr als halbiert; was fehlt, sind Jugendclub, Arzt und Anerkennung.
 
-<details><summary>Weitere Stimmen (17)</summary>
+<details><summary>Weitere Stimmen (18)</summary>
 
 - **[[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Elitenversagen und Populismus|Kolja Möller]]:** Seit der Finanzkrise ein „sehr großes Elitenversagen“ ohne Neuorientierung; der Populismus, der Appell an das Volk gegen die Eliten, „ist Ausdruck dieser Konstellation“.
 - **[[Tom Krebs — Kapital und Krise#Zwei Bedingungen für den Rechtsruck|Tom Krebs]]** (Surplus): Verunsicherung allein reicht nicht, in der Corona-Krise stieg die AfD nicht; es braucht dazu das Gefühl, dass die Politik nicht angemessen reagiert. Das erkläre den Anstieg von zehn auf zwanzig Prozent, *„nicht, warum wir die AfD haben“*.
@@ -84,6 +87,7 @@ Ein Weg vom Versagen zur Wahl ist belegt: Nach Finanzkrisen werden Wähler extre
 - **[[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus#Nullsummendenken und regressive Modernisierung|Amlinger & Nachtwey]]:** Verteilungskämpfe laufen seitwärts, zwischen Gruppen auf gleicher Höhe.
 - **[[Heinz Bude — Gesellschaft der Angst#Das neue Dienstleistungsproletariat|Heinz Bude]]:** Das arbeitende Dienstleistungsproletariat verachtet die Bezieher von Stütze, eine Spaltung innerhalb der Unterklasse.
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Rechtspopulisten als neue Arbeiterparteien|Philip Manow]]:** Rechtspopulisten sind die neuen Arbeiterparteien; der stärkste Prädiktor ist die Bildung.
+- **[[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Populismus als Antwort|Stefan Schulz]]:** In Alexandr Wangs „MEI“ fänden sich unterste Unterschicht und höchste Oberschicht in einem Satz: Jetzt zählt Leistung.
 - **[[Colin Crouch — Postdemokratie nach den Krisen#5. Xenophober Populismus — das "Left Behind"-Gefühl|Colin Crouch]]:** Die Verlustgefühle sind real und vielfältig und nicht auf Ökonomie reduzierbar.
 - **[[Jonathan Haidt — Kann ein gespaltenes Amerika heilen#Claim 2 Karen Stenner — Autoritäre Prädisposition|Jonathan Haidt]]** (mit Karen Stenner): Eine autoritäre Neigung schläft, bis eine Bedrohung der Ordnung sie weckt.
 - **[[Martin Oetting — Faschismus stoppen mit der Wahrheit#Der Taschenspielertrick aus Angst wird Wut|Martin Oetting]]:** Die AfD nimmt die hilflose Angst vor den Übermächtigen und verwandelt sie in zupackende Wut auf die Schwachen, ein „Taschenspielertrick erster Güteklasse“.
@@ -346,6 +350,7 @@ Auf der großen Bühne sieht der Gegenschlag so aus. Der Anteil der Menschen, di
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 21.11.2026 | [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Ist Populismus eine Antwort auf die Leistungsgesellschaft?\|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]] | Materieller Kern: Bildungskluft (Silver 2016, Gethin u. a. 2022, Steiner 2023, infratest 2025), Diplomdemokratie (Bovens & Wille 2017), Bildungsdünkel (Kuppens u. a. 2018), Statussignal-Experiment (Noordzij u. a. 2024), Leistungsgerede kaum geprüft (Bukodi & Goldthorpe 2021), Wirtschaftspolitik statt Kränkung (Kuziemko u. a. 2023) · Markovits und Schulz als Stimmen |
 | 20.11.2026 | [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Nachbesprechung\|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit]] | Ist der Backlash der Preis des Fortschritts? → junge Frauen links, junge Männer rechts: BTW 2025 nach Alter und Geschlecht, 66 Länder (Campbell & Cowper-Coles 2025), Sexismus statt Wahl (Off u. a. 2025), Frauen bewegen sich (Shorrocks 2018), Alter statt Generation (Rekker 2025, Preprint), Südkorea (Lee 2024) |
 | 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Elitenversagen und Populismus\|NANO Talk — Eliten]] | Elitenversagen und Populismus: Finanzkrise und Mehrheiten, Ungarn, Korruptionserfahrung, Gegenbefund Spesenskandal |
 | 27.09.2026 | [[Der Entscheidende Punkt — Nach den Landtagswahlen#Nachbesprechung|Der Entscheidende Punkt — Nach den Landtagswahlen]] | Gründungsnote: materieller Kern oder Einstellung (Ort gegen Person, Statusverlust, Nachwahlzahlen Sachsen-Anhalt) · Protest oder Überzeugung (Zeitreihe MV 24 → 53 %) |

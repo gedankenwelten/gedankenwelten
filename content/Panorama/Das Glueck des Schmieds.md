@@ -2,7 +2,7 @@
 title: "Das Glück des Schmieds"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-11-13
+aktualisiert: 2026-11-21
 description: "Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft."
 panorama-art: wachsend
 tags:
@@ -47,8 +47,11 @@ Wie lange früher gearbeitet wurde, ist umstrittener, als die Debatte es nimmt. 
 
 Eine ökologische Seite hat die Frage auch. In den OECD-Ländern von 1970 bis 2007 gingen kürzere Arbeitszeiten mit kleinerem Fußabdruck und weniger Emissionen einher, zum Teil, weil weniger produziert wurde, zum Teil, weil Menschen mit mehr Zeit anders leben ([Knight, Rosa & Schor 2013](https://doi.org/10.1016/j.gloenvcha.2013.02.017)); eine Modellrechnung bestätigt den Effekt für Verkürzungen aus Produktivitätsgewinnen und zeigt, wie sehr er am Wachstum hängt ([Cieplinski, D'Alessandro & Guarnieri 2021](https://doi.org/10.1016/j.ecolecon.2020.106822)). Weniger Arbeit entlastet also den Planeten, und ein Teil dieser Entlastung ist genau das kleinere BIP, vor dem Merz warnt.
 
+Lange Wochen sind dagegen oben zu Hause: In Deutschland arbeiteten 2025 7,1 Prozent der Vollzeitkräfte 49 Stunden und mehr, Selbstständige mit Beschäftigten zu 44,5, Arbeitnehmer zu 4,1 Prozent ([Destatis, Juli 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_263_13.html)); in den USA wuchs der Anteil langer Wochen seit 1979 im obersten Lohnfünftel und fiel im untersten ([Kuhn & Lozano 2005](https://doi.org/10.3386/w11895), Arbeitsmarktdaten). Ab 55 Wochenstunden steigt das Schlaganfallrisiko um rund ein Drittel ([Kivimäki u. a. 2015](https://doi.org/10.1016/s0140-6736(15)60295-1), Meta-Analyse), und die Reform zur Wochenhöchstarbeitszeit hängt seit dem Entwurf vom Juni 2026 fest ([tagesschau, 18.06.2026](https://www.tagesschau.de/inland/innenpolitik/entwurf-arbeitszeitgesetz-100.html)).
+
 **Die Stimmen**
 
+- **[[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Freizeitkluft — wer lange arbeitet, versteht die Kürzere nicht|Wolfgang M. Schmitt]]:** Wer oben so viel arbeitet, habe für Leute, die weniger arbeiten wollen, „überhaupt gar kein Verständnis“; darum sehe es für kürzere Arbeitszeiten „gerade schlecht“ aus.
 - **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler]]:** Merz habe mit „ihr arbeitet zu wenig“ und der 40-Stunden-Woche die Realität gut beschrieben und es nur miserabel kommuniziert.
 - **[[Teresa Buecker — Zeit NEU DENKEN#Die Lüge "Deutschland ist faul"|Teresa Bücker]]:** Das Arbeitsvolumen ist seit der Wiedervereinigung gestiegen; gesunken ist nur der Durchschnitt, weil mehr Frauen arbeiten, viele in Teilzeit. „Man muss es als Lüge einstufen.“
 - **[[NANO Talk — Arbeiten wir zu wenig oder voellig falsch#Die unsichtbare Arbeit: Sorgearbeit als strukturelles Problem|Eva von Redecker]]:** Frauen leisten 44 Prozent mehr unbezahlte Sorgearbeit, einen Vollzeittag pro Woche; was nicht als Arbeit gilt, taucht in keiner Arbeitszeitstatistik auf.
@@ -125,6 +128,8 @@ Am oberen Ende hält das Glück der Geburt über Jahrhunderte. Von den 1.032 gr�
 
 Und wer glaubt daran, dass man es schmiedet? Mit 25 Jahren Umfragedaten fand Jonathan Mijs, dass in ungleicheren Ländern mehr Menschen Erfolg mit Leistung erklären ([Mijs 2018](https://doi.org/10.1093/ser/mwy051), Ländervergleich). Eine neue Auswertung über drei Jahrzehnte und 39 Demokratien findet das Gegenteil, wenn man Länder über die Zeit verfolgt: Steigt die Ungleichheit, sinkt der Glaube an Leistungsgerechtigkeit, und die Skeptiker werden mehr ([Ehmes & Gangl 2026](https://doi.org/10.1093/ser/mwag016), Längsschnitt).
 
+Für Europa bestätigt das der Soziologe David Bartram: Stieg die Ungleichheit 2008 bis 2016, lehnten mehr Menschen ab, dass große Unterschiede nötig seien, um Talent und Fleiß zu belohnen ([Bartram 2023](https://doi.org/10.1111/1468-4446.13042), 17 Länder). In Deutschland stimmte 2021 die Hälfte voll zu, dass mehr bekommen soll, wer mehr leistet, und nur etwa ein Fünftel hielt die Einkommensverteilung für gerecht ([bpb, Sozialbericht 2024](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/sozialbericht-2024/553269/gerechtigkeitsbewertung-der-einkommensverteilung/)).
+
 **Die Stimmen**
 
 - **Luc**, im Gespräch: Handlungsmacht ist kein Ort, sondern eine Abfolge. Zuerst kommt der eigene Entschluss, zu wissen, was man will; für die Umsetzung zählen dann Netzwerk, Geld, Staat und Zufall. *„Zufall wird Wahrscheinlichkeit mit Ziel und Handlung.“*
@@ -133,7 +138,7 @@ Und wer glaubt daran, dass man es schmiedet? Mit 25 Jahren Umfragedaten fand Jon
 - **[[Studio Bonn — Extremer Reichtum#Das Glück abschaffen|Marlene Engelhorn]]:** Als Erbin will sie *„das Glück abschaffen“*, weil man damit auch das Pech abschafft; heute belohne man die, die Glück haben, und bestrafe die, die Pech haben.
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]:** Nicht Geschlecht oder Migrationshintergrund sollten über Quoten entscheiden, sondern die soziale Herkunft; wer mit Migrationsgeschichte oben ankommt, ist fast immer Akademikerkind.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Womit soll ich dich überraschen?|Dietmar Dath]]:** *„Wir steigen in dieses Monopoly nicht bei Runde 1 ein, sondern bei Runde 70“*, und gemessen wird, wie viele ein Medikament bezahlen können, nicht wie viele es brauchen.
-- **[[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Falle — Warum niemand rauskommt|Die Neuen Zwanziger]]:** Mit Markovits: *„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selber.“*
+- **[[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Falle, aus der niemand hinauskommt|Wolfgang M. Schmitt]]:** Selbst wenn alle gleich begabt wären, gäbe es nur wenige Chefärzte; das Leistungsprinzip produziere Verlierer, „ein Dilemma, das nicht zu lösen ist, außer mit einer anderen Wirtschaftsordnung“.
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Die junge Generation — Aufstieg ohne Zukunft|Götz Aly]]:** Weimar verdreifachte die Zahl der Abiturienten, dann brach die Wirtschaft zusammen; aus der enttäuschten Aufsteigergeneration kamen die Funktionäre der NSDAP.
 
 - **[[Steffen Mau — Spaltung der Gesellschaft#Meritokratie und ideologische Verwirrung|Steffen Mau]]:** Am festesten glauben heute die mit kleinem Einkommen an Leistungsgerechtigkeit, in den Siebzigern waren es die oberen Schichten. Als möglichen Grund nennt der Soziologe Kämpfe, die nicht mehr nach oben gehen, sondern zur Seite: gegen das Bürgergeld, gegen Leute, die angeblich „leistungslos“ kommen.
@@ -157,6 +162,8 @@ Und wer glaubt daran, dass man es schmiedet? Mit 25 Jahren Umfragedaten fand Jon
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 21.11.2026 | [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Arbeiten die Gutverdienenden am meisten?\|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]] | Arbeiten wir zu wenig: Umkehr des Freizeitgefälles (Aguiar & Hurst, Kuhn & Lozano), Aufschlag für lange Stunden (Bell & Freeman, Goldin), Gesundheit ab 55 Stunden (Kivimäki, WHO/ILO), Stand Arbeitszeitgesetz 2026 · Schmitt als Stimme |
+| 21.11.2026 | [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Macht der Glaube an Leistung ungleicher?\|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]] | Wessen Glück: Rechtfertigung durch Gewöhnung (Trump 2018), Schulmeritokratie (Batruch u. a. 2022), Europa über die Zeit (Bartram 2023), Glück statt Leistung trennt USA und Norwegen (Almås u. a. 2020), Unfairness statt Ungleichheit (Starmans u. a. 2017), Deutschland: SOEP/ISSP (bpb) · Schmitt als Stimme |
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Der Aufzug, das Sprichwort und Merz' Appell · Anstoß zu diesem Panorama |
 | 26.09.2026 | Gespräch (Luc) | Handlungsmacht als Abfolge: erst der Entschluss, dann die Werkzeuge |
 | 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi — Die Welt retten mit Chemie?]] | Der amerikanische Traum aus Gewinnersicht, als Gegenstimme zu Bärfuss |
