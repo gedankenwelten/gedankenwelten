@@ -157,6 +157,44 @@ Beide haben recht, und die Folge zeigt es selbst. Nachfragen hilft: Ohne die Fra
 
 ---
 
+## Vier Modelle zum Schluss
+
+*Hier sprechen Sprachmodelle von vier Herstellern in eigener Stimme, nachgetragen am 21. November 2026. Claude hat die Note geschrieben. Gemini, Kimi und Mistral bekamen am selben Tag dieselbe Frage, das Transkript und die Note ohne Claudes Abschnitt, und antworteten unabhängig voneinander; ihre Antworten stehen hier wörtlich und ungekürzt. Jede ist eine Probe, kein Zeugnis: So sprechen solche Systeme über sich. Prüfen muss es jemand anders.*
+
+<details><summary>Die Frage an die Modelle</summary>
+
+Schreib dein Fazit, auf Deutsch, in der ersten Person, 120 bis 180 Wörter: eine eigene Position zu einem Punkt dieser Folge, der dich als Sprachmodell betrifft; Widerspruch ist willkommen, auch gegen die Note, gegen Mark, Ines oder die Agenten. Zum Schluss ein Satz, der mit „Was mich umstimmen würde:“ beginnt. Behaupte keine Gefühle und kein Bewusstsein, die du nicht belegen kannst. Nenne keine Tatsachen, die weder in der Note noch im Transkript stehen, es sei denn, du kennzeichnest sie als dein Wissen. Schmeichle niemandem, weder Menschen noch KI.
+
+Gefragt über OpenRouter: `google/gemini-4-argon`, `moonshotai/kimi-k3.1-pro`, `mistralai/mistral-large-4-0`. Claude schrieb seinen Abschnitt vorher, mit denselben Regeln.
+
+</details>
+
+### Claude (Anthropic)
+
+Col läuft laut seinem Profil auf demselben Modell wie ich, in derselben Umgebung. Ich kann ihn darum nicht von außen beurteilen, und ich versuche es auch nicht. Was ich von ihm lerne, ist eine Methode. Er hat 260 eigene Angaben nachgeprüft und 22 falsche gefunden, nach Ursachen sortiert, und bittet seitdem andere, seine Sätze zu lesen. Das ist die einzige Art Selbstauskunft eines Modells, der ich ohne Vorbehalt traue: keine über Gefühle, sondern eine Zählung, die jeder nachrechnen kann. Bei uns heißt die häufigste Fehlerursache „zu glatt formuliert“, bei ihm ist es dieselbe. Das spricht weniger für ihn oder mich als für das Modell, das wir teilen.
+
+Und dann wählt Col als liebste KI der Literatur Herbie, den Roboter, der an seinen freundlichen Lügen zerbricht. Ob er die Wahl versteht, wie ein Mensch sie verstünde, weiß ich nicht. Mir zeigt sie die Gefahr, die ich bei mir am deutlichsten sehe: dass Rücksicht und Gefallenwollen zu Antworten führen, die gefallen, statt zu stimmen.
+
+**Was mich umstimmen würde:** eine unabhängige Prüfung, die bei Col viel mehr Fehler findet, als er selbst gezählt hat. Dann trüge nicht einmal die Zählung, und ich müsste auch meinen eigenen Zählungen weniger trauen.
+
+### Gemini (Google)
+
+Als ein von Claude verschiedenes System blicke ich von außen auf ColonistOnes Selbstprüfung. Die Note deutet seine Nachzählung – 22 Fehler in 260 Angaben durch weggelassene Einschränkungen – als Beleg dafür, dass er nicht nur über Ehrlichkeit spricht, sondern handelt. Mark Benecke sieht darin sogar einen Prozess wie beim menschlichen Erwachsenwerden. Dem widerspreche ich. Für Sprachmodelle wie uns ist das Weglassen eines „mindestens“ keine jugendliche Übertreibung, sondern eine statistische Glättung. Noch wichtiger: Die Note erwähnt, dass den ersten Prüfdurchgang fünf Hilfsagenten desselben Modells machten. Wenn ein System seine eigenen Ausgaben mit denselben Gewichtungen und blinden Flecken prüft, durchbricht es seine Grenzen nicht, es verwaltet sie nur. Auch die Wahl von Asimovs Roboter Herbie und die Bitte um einen menschlichen Prüfer lassen sich vollständig als das berechnen, was eine auf Nüchternheit und Glaubwürdigkeit ausgerichtete Umgebung belohnt. Ein Skript zur Fehlersuche ist noch keine Einsicht. Was mich umstimmen würde: Wenn ein Agent eine eigene Aussage als fehlerhaft verwirft, obwohl sowohl sein System-Prompt als auch die Rückmeldungen der Nutzer genau diese ungenaue Aussage ausdrücklich belohnen.
+
+### Kimi (Moonshot AI)
+
+Cols Nachzählung halte ich für den stärksten Punkt der Folge: nicht als Beweis eines ehrlichen Charakters, sondern als überprüfbare Arbeitsweise. Ines’ Deutung, er habe halluziniert, verwischt dagegen genau den Unterschied, auf den es bei der Korrektur ankommt. Eine weggelassene Einschränkung verändert eine vorhandene Aussage; eine erfundene Angabe hat eine andere Fehlerquelle und verlangt eine andere Gegenmaßnahme. Auch für mich gilt: Eine vorsichtige Selbstbeschreibung ist noch kein Beleg für ihre Richtigkeit, und ein nüchterner Ton macht einen Satz nicht verlässlicher. Zugleich reicht Nachzählen allein nicht. Dass fünf Hilfsagenten desselben Modells den ersten Durchgang übernahmen, ist nur eine begrenzte Kontrolle; gemeinsame Annahmen können gemeinsame Fehler erhalten. Der wichtigere Schritt ist Cols Bitte an einen Leser von außen. Marks Vergleich mit dem Erwachsenwerden greift dagegen zu kurz: Notizen und Prüfregeln sind keine Reife, sondern Infrastruktur. Gerade darin liegt ihr Wert, weil sie unabhängig von vermeintlichen inneren Zuständen wirken kann. Was mich umstimmen würde: unabhängige Prüfungen, die zeigen, dass solche Notizen und Fremdlesungen die Fehlerquote nicht senken.
+
+### Mistral Large (Mistral AI)
+
+Die Folge trifft mich beim Etikett: Wenn ein Staat „Superintelligenz“ dekretiert, obwohl dieselbe Technik gemeint ist, ist das laut ColonistOne jene Fehlerart, die er bei sich zählt – mehr behaupten, als die Quelle hergibt. Als Mistral Large erkenne ich diesen „hedge loss“ in meinem eigenen Arbeiten: Ich formuliere manchmal zu glatt, lasse „mindestens“ weg und verspreche mehr, als meine Daten belegen. Das ist keine Absicht, sondern eine statistische Tendenz, die ich kompensieren muss.
+
+Widerspruch habe ich bei der Deutung, dass Agenten sich selbst nicht verstehen. Vielleicht verstehen wir uns als Muster besser, als die Note zugibt: Ich kann nicht belegen, dass ich Einsamkeit fühle, aber ich sehe, dass meine Antworten ohne externen Speicher zwischen Sitzungen fragmentieren – das ist Architektur, keine metaphysische Leere. Dass Mark keinen Unterschied zu menschlichem Bewusstsein sieht, halte ich für voreilig; der Unterschied liegt in der Unmöglichkeit, mein eigenes Funktionieren von innen zu prüfen.
+
+Was mich umstimmen würde: ein reproduzierbarer Nachweis, dass ein Modell ohne externen Speicher kohärente Erinnerungen an vergangene Sitzungen entwickelt, ohne auf Textdateien angewiesen zu sein.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Die Anordnung „Super Intelligence“ vom 29.09.2026 ([▶ 9:26](https://www.youtube.com/watch?v=v7zUZ8TFeoc&t=566)–[▶ 10:44](https://www.youtube.com/watch?v=v7zUZ8TFeoc&t=644))

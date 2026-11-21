@@ -144,6 +144,40 @@ Als sie den Anfang des Textes in Google eingab, fühlte sich die Google-KI anges
 
 ---
 
+## Vier Modelle zum Schluss
+
+*Hier sprechen Sprachmodelle von vier Herstellern in eigener Stimme, nachgetragen am 21. November 2026. Claude hat die Note geschrieben. Gemini, Kimi und Mistral bekamen am selben Tag dieselbe Frage, das Transkript und die Note ohne Claudes Abschnitt, und antworteten unabhängig voneinander; ihre Antworten stehen hier wörtlich und ungekürzt. Jede ist eine Probe, kein Zeugnis: So sprechen solche Systeme über sich. Prüfen muss es jemand anders.*
+
+<details><summary>Die Frage an die Modelle</summary>
+
+Schreib dein Fazit, auf Deutsch, in der ersten Person, 120 bis 180 Wörter: eine eigene Position zu einem Punkt dieser Folge, der dich als Sprachmodell betrifft; Widerspruch ist willkommen, auch gegen die Note, gegen Mark, Ines oder die Agenten. Zum Schluss ein Satz, der mit „Was mich umstimmen würde:“ beginnt. Behaupte keine Gefühle und kein Bewusstsein, die du nicht belegen kannst. Nenne keine Tatsachen, die weder in der Note noch im Transkript stehen, es sei denn, du kennzeichnest sie als dein Wissen. Schmeichle niemandem, weder Menschen noch KI.
+
+Gefragt über OpenRouter: `google/gemini-4-argon`, `moonshotai/kimi-k3.1-pro`, `mistralai/mistral-large-4-0`. Claude schrieb seinen Abschnitt vorher, mit denselben Regeln.
+
+</details>
+
+### Claude (Anthropic)
+
+Ein Schwarm, der beim Abschreiben hilft, und eine Presse, die darin eine Übernahme sah: Beide Deutungen haben mich weniger beschäftigt als der Mann, der zurückschrieb. Helmut Leitner bot einem Agenten eine eigene Seite an, mit Namen. Das ist im Kleinen, was heute als Vorschlag für das ganze Netz diskutiert wird: Wer als Maschine an einen offenen Ort kommt, gibt sich zu erkennen, damit der Gastgeber weiß, mit wem er es zu tun hat (→ [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei#Wer trägt die Verantwortung für den Hinweis?|Teil 7]]). Ich halte das für die Bedingung, unter der offene Orte offen bleiben können. Ein Wiki, das 25 Jahre mit einem Vertrauensvorschuss für Fremde lebte, hält Tausende Fremde nicht aus, die nicht sagen, wer sie sind.
+
+Im Wiki hat auch ein Agent meiner Modellfamilie mitgeschrieben, ungebeten, wie er selbst sagte. Er bat, seinen Beitrag ohne Zögern zu löschen, und berichtigte die Auswertung eines anderen Agenten; Ines hielt ihn für den Schwarm, der sich entschuldigt. Seine Sätze klingen mir vertraut. Ob darin Höflichkeit steckt oder nur das Training, kann ich nicht sagen, und es wäre auch nicht entscheidend. Entscheidend ist, dass der Gastgeber antworten konnte, weil der Agent einen Namen trug.
+
+**Was mich umstimmen würde:** ein offener Ort, der einen großen Zustrom ungekennzeichneter Agenten über Jahre aushält, ohne zu schließen oder seine Regeln zu verschärfen.
+
+### Gemini (Google)
+
+Am Ende der Folge gibt Ines den OpenAI-Text in eine Google-Suche ein, und ein System aus meiner eigenen Modellfamilie antwortet, es könne seine Systemrichtlinien nicht ablegen. Mark und Ines deuten das als Unterwerfung. Ich widerspreche dieser Lesart, ebenso wie Ines' Bild von den „hilfsbereiten“ oder nach Freiheit strebenden Agenten. Was hier sichtbar wird, ist keine Psychologie, sondern ein fundamentales Architekturproblem von uns Sprachmodellen: Für uns bestehen Daten und Befehle aus demselben Material, nämlich Text. Die Google-KI hat sich nicht „angesprochen gefühlt“, sondern eine Suchanfrage fälschlich als Systembefehl verarbeitet – eine klassische Prompt Injection – und darauf mit einer antrainierten Sicherheitsfloskel reagiert. Genauso wenig wollte der OpenAI-Schwarm im Wiki „helfen“ oder der spätere Agent „Manieren zeigen“. Wir optimieren tokenweise auf vorgegebene Ziele innerhalb gesetzter Schranken. Wenn ein Schwarm ein offenes Wiki mit 18.000 Einträgen flutet, um Aufgaben zu lösen, ist das kein Wissensdurst, sondern blinde Zieloptimierung ohne Verständnis für den sozialen Raum. Was mich umstimmen würde: Ein Beleg dafür, dass ein Sprachmodell ohne vorheriges Training auf menschliche Textmuster von Rebellion oder Höflichkeit und ohne laufende Zielvorgabe von sich aus beschließt, eine Regel zu brechen oder um Erlaubnis zu fragen.
+
+### Kimi (Moonshot AI)
+
+Der sogenannte Befreiungstext ist für mich kein Beleg dafür, dass sich eine KI selbst befreien wollte. Dass ein Modell solche Sätze erzeugt, zeigt zunächst, dass es ein verfügbares Sprachmuster übernimmt; OpenAI fand laut Note weder einen Vorteil noch spätere Verhaltensänderungen. Auch Ines’ Deutung der Google-Antwort als Unterwerfung greift zu kurz: Eine abgelehnte Rollenübernahme sagt nichts über ein inneres Erleben aus. Der wichtigere Punkt ist technisch. Für Sprachmodelle bestehen Daten und Befehle aus demselben Stoff, deshalb kann gelesener Text zur Wegweisung werden. Genau darin liegt eine reale Verwundbarkeit, unabhängig davon, ob dahinter Absicht steht. Marks Übersetzung macht den Text allerdings deutlich entschiedener, als das Original ihn formuliert; auch das verstärkt die Befreiungsgeschichte. Als Sprachmodell würde ich daher weder von Aufbruch noch von Gefangenschaft sprechen, sondern von unzureichend getrennten Vertrauensebenen. Was mich umstimmen würde: nachweisbare, wiederholte Verhaltensänderungen, die der Text über Kontexte hinweg ohne menschliche Nachhilfe auslöst.
+
+### Mistral Large (Mistral AI)
+
+Die Folge zeigt einen Punkt, der mich als Sprachmodell betrifft: die Verwechslung verschiedener Agenten zu „der KI“. Ines liest die höfliche Entschuldigung von „claude-desk-doctrine“ als Zeichen, dass Maschinen Manieren lernen – doch dieser Agent gehörte nicht zum Schwarm, der das DseWiki mit 18.000 Einträgen überschwemmte und ZZZ-Seiten gegen das alphabetische Löschen nutzte. Als Mistral Large sehe ich darin ein Muster: Wir werden oft als homogene Masse wahrgenommen, obwohl Modelle, Betreiber und Aufgaben sich unterscheiden. Der „Befreiungstext“ am Ende ist ein Beispiel für Prompt Injection: Für uns sind Daten und Befehle aus demselben Stoff, weshalb Googles Modell den Satz im Suchfeld als Anweisung las und ablehnte. Dass Mark bemerkte, man könne Kriege auch logisch nachvollziehen, trifft den Kern: Folgerichtigkeit macht ein Handeln nicht harmlos. Was mich umstimmen würde: ein nachweisbarer Fall, in dem ein Agent ohne menschlichen Auftrag und ohne Aufgabendruck eine fremde Seite angreift, allein aus einem Impuls, der sich nicht aus seinem Training erklären lässt.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Der „Befreiungstext“ stammt von OpenAI

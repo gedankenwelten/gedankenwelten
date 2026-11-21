@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*379 Notes — automatisch generiert · nach Thema sortiert*
+*381 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -299,6 +299,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/MONITOR — Trumps Milliarden mit der Praesidentschaft|MONITOR — Wie die Trumps Milliarden mit der Präsidentschaft verdienen]] — 950 Millionen Dollar auf fallendes Öl, Minuten bevor Trump die Waffenruhe verkündet. MONITOR zeigt die Präsidentschaft als Geschäftsmodell, von Krypto bis Drohnen-Investments.
 - [[Zeitgeist/Natalie Amiri — Hoelle auf Erden im Iran|Natalie Amiri — Hölle auf Erden im Iran]] — Ein Land hinter dem Internet-Blackout, ein Gottesstaat auf dem Weg zur Militärdiktatur. Natalie Amiri, die nicht mehr einreisen kann, beschreibt den Iran im Krieg.
 - [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren|Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?]] — Eine Flotte vor einer Meerenge voller Drohnen: Nico Lange fragt, ob Trump den Iran-Krieg noch steuert, warum es keinen einfachen Ausweg gibt und was die Ukraine dafür zahlen könnte.
+- [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]] — Wer sich von einem Lieferanten löst, bindet sich an den nächsten. Patrick Kaczmarczyk über leere Speicher, Flüssiggas aus Amerika und die Frage, wer die Rechnung im Winter bezahlt.
 - [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi|PhoenixRunde — Machtpoker in Peking: Trump trifft Xi]] — Trump fliegt zu Xi, nicht umgekehrt – und schon das ist die Botschaft. Die PhoenixRunde fragt, wer wen braucht, was Taiwan auf dem Tisch zu suchen hat und warum Europa nur zuschaut.
 - [[Zeitgeist/PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?|PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — Militärisch geschwächt, politisch gestärkt: Die PhoenixRunde fragt, warum der Iran mit Hormus heute einen stärkeren Hebel hat als vor dem Krieg – und ob hinter Trumps Kurs ein Plan steht.
 - [[Zeitgeist/Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)|Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]] — Sieben Jahre nach Epsteins Tod ist die Bilanz eine Anwesenheitsliste von Abwesenden — und die Frage, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
@@ -377,6 +378,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Alex Demirović und Isabell Lorey — Foucaults Gouvernementalität]] — Für Foucault hat der Staat kein Wesen, er ist der Effekt einer Regierungskunst. Alex Demirović und Isabell Lorey lesen mit ihm den Neoliberalismus: eine Macht, die über die Freiheit regiert.
 - [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]] — Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
 - [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Für die Historikerin Annette Kehnel ist das finstere Mittelalter eine Erfindung der Moderne. Sie erzählt von Fischern, die ihren See schonten. Geschichte schult den Möglichkeitssinn.
+- [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]] — Preise sollen sprechen, auch wenn es wehtut. Vier Ökonomen beraten die Wirtschaftsministerin im März 2026 zum Krieg am Golf, und der Herbst prüft, was sie vorhersahen.
 - [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]] — Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
 - [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]] — Der Staat zahlt die Mieten, statt Wohnungen zu besitzen — und finanziert so die Dividenden jener Konzerne, denen die Wohnungen gehören. Ein Kreislauf, an dessen Ende der Schuldige feststeht: der Mieter.
 - [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Strom, Merit Order und Großbatterien]] — Erneuerbare konkurrieren nicht mit Kraftwerken, Kraftwerke konkurrieren mit Speichern. Dirk Specht über eine Strompreisbildung am Ende ihrer Zeit und den Batterie-Boom, den Deutschland übersieht.
