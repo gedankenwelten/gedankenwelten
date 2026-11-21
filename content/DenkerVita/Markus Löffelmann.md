@@ -88,7 +88,9 @@ Löffelmann lehrt an der Hochschule des Bundes, an der auch [[DenkerVita/Jan-Hen
 
 ## Verbindungen zu anderen Denkern
 
-*(folgt)*
+- [[DenkerVita/Matthias Bäcker|Matthias Bäcker]] — Löffelmann übernimmt Bäckers Einwand gegen die quasi polizeilichen Befugnisse und macht aus dem Verbot eine Bedingung: nur nach den Spielregeln der Polizei.
+- [[DenkerVita/Franziska Goerlitz|Franziska Görlitz]] — Über die Öffentlichkeit des Kontrollrats streiten sie direkt: Görlitz fürchtet ein Recht, das sich im Verborgenen fortentwickelt, Löffelmann hält dagegen, dass auch ein Richter keine Durchsuchungsbeschlüsse veröffentlicht, und wünscht sich trotzdem geschwärzte Entscheidungen; der Bundestag beschloss danach Leitsätze.
+- [[DenkerVita/Konstantin Kuhle|Konstantin Kuhle]] — Löffelmanns Vorschlag, das Parlamentarische Kontrollgremium über offene Befugnisse und die Erprobung neuer Mittel entscheiden zu lassen, setzt auf das Gremium, in dem Kuhle saß; der Bundestag hat die Erprobung an seine Zustimmung gebunden.
 
 ---
 

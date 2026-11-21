@@ -61,6 +61,8 @@ Kuhle steht für einen bürgerrechts- und europaorientierten Liberalismus; Focus
 - [[DenkerVita/Nicole Buettner]] — Eine Parteifreundin mit derselben Diagnose: Ohne massives US-Rückgrat kann heute kein europäisches Unternehmen KI anbieten. Büttner will die Souveränität über Gründer, Wagniskapital und Wettbewerb gewinnen, Kuhle über den Staat als einzigen Kunden des Rüstungsmarkts: „Wenn man von vornherein sagt, wir wollen alle nur Palantir, dann gibt's natürlich auch nur Palantir.“
 - [[DenkerVita/Herfried Münkler]] — Münkler beschreibt postheroische Gesellschaften, die Opfer nicht mehr sinnvoll machen können und darum gegenüber einem Gegner, der zu sterben bereit ist, im Nachteil sind. Kuhles Argument, Technik, die eigene Verluste senkt, sei für den Verteidiger kein Rückschritt, wenn Russland seine Soldaten verheizt, liest sich wie die technische Antwort darauf. Münklers Bedingung, Europa bleibe nur geeint ein Pol, liegt dem Europapolitiker nahe.
 
+- [[DenkerVita/Markus Löffelmann|Markus Löffelmann]] — Löffelmann will das Parlamentarische Kontrollgremium, in dem Kuhle saß, über offene Befugnisse der Dienste entscheiden lassen; der Bundestag hat die Erprobung neuer Mittel an seine Zustimmung gebunden.
+
 ## Gedankenwelten-Notes
 - [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
 

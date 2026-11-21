@@ -92,7 +92,9 @@ Vosgerau ist Mitglied der CDU, in Berlin ([SPIEGEL, 21.10.2026](https://www.spie
 
 ## Verbindungen zu anderen Denkern
 
-*(folgt)*
+- [[DenkerVita/Hans-Georg Maassen|Hans-Georg Maaßen]] — Beide von der AfD benannt, doch Vosgerau geht weiter: Maaßen will den Beobachtungsauftrag begrenzen, Vosgerau stellt die Ämter in ihrer heutigen Form in Frage und hält auch die operativen Befugnisse des BND für heikel.
+- [[DenkerVita/Bijan Moini|Bijan Moini]] — Dieselben Karlsruher Urteile, zwei Lesarten: Moini erstritt mit der GFF 2020 das Urteil gegen die Auslandsüberwachung des BND, Vosgerau nennt die BND-Urteile aus Sicht der operativen Arbeit eher „Katastrophen“ und verlangt zugleich Benachrichtigung und Rechtsschutz.
+- [[DenkerVita/Ronen Steinke|Ronen Steinke]] — Steinke nennt den Verfassungsschutz eine sonderbare Erfindung, die andere Länder nicht haben, Vosgerau einen verfassungsrechtlichen Skandal; anders als Vosgerau will Steinke ein AfD-Verbotsverfahren.
 
 ---
 

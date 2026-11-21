@@ -88,7 +88,10 @@ Warg argumentiert verfassungsrechtlich und aus der Sicht der Anwender; die abstr
 
 ## Verbindungen zu anderen Denkern
 
-*(folgt)*
+- [[DenkerVita/Matthias Bäcker|Matthias Bäcker]] — Die schärfste Gegenstimme: Bäcker hält die Schutzmaßnahmen für offensichtlich verfassungswidrig, Warg für eine begrenzte, subsidiäre Klarstellung; gegen das Trennungsgebot als Argument sind beide, aus verschiedenen Gründen.
+- [[DenkerVita/Jan-Hendrik Dietrich|Jan-Hendrik Dietrich]] — Mitherausgeber der Bände des Berliner Symposiums und im Ausschuss Mitverteidiger des Entwurfs; Warg prüft die Eingriffsschwellen, Dietrich die Kontrolle.
+- [[DenkerVita/Hans-Georg Maassen|Hans-Georg Maaßen]] — Der Streit über den Nutzen: Maaßen sagt, keiner der Anschläge wäre mit den neuen Befugnissen verhindert worden, „fachliche Unfähigkeit wird nicht durch neue Befugnisse kompensiert“; Warg hält Deutschland mit seinen diffus verteilten Zuständigkeiten für das Musterland eines Angreifers.
+- [[DenkerVita/Markus Löffelmann|Markus Löffelmann]] — Beide binden das Eingreifen an die Polizei, verschieden fest: Für Warg genügt, dass der Dienst nur handelt, wenn die Polizei nicht kann, Löffelmann verlangt, dass er dann auch nach ihren Spielregeln handelt.
 
 ---
 

@@ -391,6 +391,10 @@ Auf „Ein Land ohne 2050“ antwortet eine Verfassungsjuristin mit einem Verfah
 
 Die BSW-Politikerin Claudia Wittig nennt die Kontaktschuld „ein fürchterliches undemokratisches Ding“ und will in Sachsen-Anhalt Mehrheiten mit der AfD „quer durchs Spektrum“ organisieren — die Gegenposition zu Thieles Papen-Warnung.
 
+### → [[Innenausschuss — Reform des Nachrichtendienstrechts]]
+
+Die Monstranz, die Thiele beschreibt, steht in der Anhörung zur Geheimdienstreform im Saal: Ulrich Vosgerau sagt, der Verfassungsschutz werde zur Unterdrückung der Opposition benutzt, Hans-Georg Maaßen will ihm die Beobachtung von Parteien verbieten. Ein Teil von Thieles Sorge kommt dort auch von Sachverständigen, die mit der AfD nichts verbindet: Bäcker kritisiert, dass das Amt Vereine, Banken und soziale Netzwerke über Menschen informieren darf, die sich legal verhalten.
+
 ---
 
 ## Weiterdenken

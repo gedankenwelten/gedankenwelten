@@ -17,7 +17,7 @@ spur-art: beobachtung
 review-takt: 14-tage
 eroeffnet: 2026-11-02
 endet: 2027-04-30
-aktualisiert: 2026-11-15
+aktualisiert: 2026-11-21
 description: "Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird."
 raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 ---
@@ -48,9 +48,8 @@ raetsel: "Die Scheiben wurden gezählt. Die Schilder nicht."
 
 ## Lagebild
 
-*Stand 15.11.2026. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf. Die Bilanzen der Nacht
-stehen weiter so, wie die Polizei sie am 01.11. gab; neu sind die ersten amtlichen Angaben zu den
-Tatverdächtigen und der Weg zum 20. November.*
+*Stand 21.11.2026. Wird bei jedem Sweep neu geschrieben, das Alte steht im Verlauf. Die Bilanzen der Nacht
+stehen weiter so, wie die Polizei sie am 01.11. gab; neu ist der zweite Protesttag am 20. November.*
 
 Aufgerufen hatte die Initiative „Gen Z regelt“, wenige Wochen alt und ohne große Organisation im Rücken. Auf
 ihrer [Website](https://genz-regelt.de/) stehen sechs Forderungen: *„Geld für Schulen, Suchthilfe und Psychotherapie
@@ -102,21 +101,22 @@ haben die deutsche Staatsangehörigkeit, 17 eine doppelte, 26 eine andere. Etwa 
 mehr als die Hälfte war schon polizeibekannt, und nur etwa ein Viertel lebt in Frankfurt selbst
 ([hessenschau, 10.11.](https://www.hessenschau.de/politik/nach-gen-z-krawallen-poseck-verteidigt-aussagen-zu-migrationshintergrund--v2,poseck-innenausschuss-100.html)).
 Eine amtliche Zahl zum Migrationshintergrund gibt es nicht, ebenso keine zu den Linksextremisten, und aus den
-anderen Städten noch gar keine Angaben zu den Tatverdächtigen.
+anderen Städten noch gar keine Angaben zu den Tatverdächtigen. Bis zum 21.11. haben wir keine neueren gefunden,
+auch keine Anklagen.
 
 **Was seitdem geschah.** Am 14.11. rief die Initiative zum ersten Mal wieder auf die Straße, und es kamen
-wenige: in Berlin nach Polizeiangaben 600 (Deutschlandfunk) oder rund 1.200 (rbb), in Düsseldorf 100, in
-Wuppertal 80; in Berlin gab es 22 Festnahmen (Verlauf, 15.11.). Der große Tag bleibt der **20. November**, an dem
-zwei Aufrufe nebeneinanderstehen: der Jugendstreik der Initiative in 34 Städten und in Berlin ein Bildungsprotest
-der Bundesschüler\*innenkonferenz mit Fridays for Future, Bundeselternrat und GEW (Verlauf, 06.11.). Für
-Frankfurt hatte Poseck am 01.11. gesagt, dort dürfe *„keine mit gestern vergleichbare Versammlung“* stattfinden
-([Innenministerium](https://innen.hessen.de/presse/erste-einordnung-nach-gewaltausbruechen-waehrend-und-nach-der-versammlung-der-generation-z)).
-Im Innenausschuss nannte er ein Verbot *„die Ultima Ratio“*; geprüft würden Auflagen und, bei bekannten Tätern,
-Unterbindungsgewahrsam ([FAZ, 11.11.](https://www.faz.net/aktuell/rhein-main/region-und-hessen/krawallnacht-in-frankfurt-poseck-kuendigt-mehr-polizei-und-haertere-gangart-an-accg-201671202.html)).
-Zu den Forderungen hatte die SPD-Fraktion einen nationalen Bildungsgipfel verlangt,
-Bildungsministerin Prien wollte *„ins Gespräch kommen“*, und die Bundesregierung sagte den Schülern: *„Sie werden
-von der Politik gehört.“* ([Deutschlandfunk, 02.11.](https://www.deutschlandfunk.de/bundesregierung-lobt-schueler-fuer-friedliche-proteste-sie-werden-von-der-politik-gehoert-100.html))
-Einen Termin für den Gipfel haben wir bis zum 15.11. nicht gefunden.
+wenige (Verlauf, 15.11.). Am **20. November**, dem zweiten bundesweiten Protesttag, kamen nach Angaben der
+Initiative 87.000 bis 90.000 Menschen, deutlich weniger als am 31.10. In Berlin zählte die Polizei bis zu 4.500 beim
+Zug der Initiative und rund 80 beim Bildungsprotest der Bundesschüler\*innenkonferenz, in Köln 2.500 bis 3.000, in
+Frankfurt bei fünf Versammlungen zusammen knapp 2.000. Frankfurt blieb ruhig, bewacht von mehr als 2.000 Polizisten;
+nach dem Ende der Demonstrationen gab es in Hamburg, Leipzig und Bremen Würfe auf Polizisten, aber keine Plünderungen.
+In Köln erlaubte das Verwaltungsgericht die Demonstration in der Innenstadt, gegen die Anordnung der Polizei. In
+Frankfurt spricht die Ortsgruppe von einem Zerwürfnis mit der Bundesinitiative, über Kundgebung oder Zug (Verlauf, 21.11.). Zu den Forderungen hatte die
+SPD-Fraktion einen nationalen Bildungsgipfel verlangt; einen Termin dafür haben wir nicht gefunden. Bildungsministerin
+Prien kündigte im Bundestag einen Kinder- und Jugendgipfel am 3. und 4. Dezember in Bonn an
+([Bulletin der Bundesregierung, 06.11.](https://www.bundesregierung.de/resource/blob/975954/2460316/bc4c14edd7cad708740861faacf5bf9a/110-3-bmfsfj-bt-data.pdf?download=1)),
+und die Bundesregierung hatte den Schülern gesagt: *„Sie werden von der Politik gehört.“*
+([Deutschlandfunk, 02.11.](https://www.deutschlandfunk.de/bundesregierung-lobt-schueler-fuer-friedliche-proteste-sie-werden-von-der-politik-gehoert-100.html))
 
 ---
 
@@ -225,7 +225,8 @@ Einzelmeldungen und füllen die Spalte Gewalt schneller als ein Kommentar die Sp
 
 | Datum | Station | Was dort sichtbar wird |
 |---|---|---|
-| **20.11.2026** | Nächster bundesweiter Protesttag von „Gen Z regelt“ (34 Städte); am selben Tag Schulstreik gegen die Wehrpflicht, europaweite Proteste und in Berlin ein Bildungsprotest der Bundesschüler\*innenkonferenz mit Fridays for Future Berlin, Bundeselternrat und GEW | ob in Frankfurt demonstriert werden darf; Zulauf, Verlauf, Berichterstattung; ob die Bündnisse getrennt bleiben |
+| **20.11.2026** | Nächster bundesweiter Protesttag von „Gen Z regelt“ (34 Städte); am selben Tag Schulstreik gegen die Wehrpflicht, europaweite Proteste und in Berlin ein Bildungsprotest der Bundesschüler\*innenkonferenz mit Fridays for Future Berlin, Bundeselternrat und GEW | ob in Frankfurt demonstriert werden darf; Zulauf, Verlauf, Berichterstattung; ob die Bündnisse getrennt bleiben · *gelaufen, → Verlauf 21.11.* |
+| **03./04.12.2026** | Kinder- und Jugendgipfel des Bundesbildungsministeriums in Bonn, „weit mehr als 500 jungen Menschen“, 50 Dialogformate | wer eingeladen ist und wer kommt; ob die Forderungen der Initiative und der BSK dort vorkommen und was daraus folgt |
 | November/Dezember | Innenministerkonferenz, Innenausschüsse in Hessen und NRW, Anfragen in den Landtagen | erste amtliche Angaben zu den Tatverdächtigen |
 | offen | Bildungsgipfel, Gespräch der Ministerin mit Jugendlichen | ob zu den Forderungen gehandelt wird |
 | Februar 2027 | Chancengipfel des Bundeselternrats, auf dem die Forderungen der BSK Thema sein sollen | ob Entscheidungsträger kommen |
@@ -235,6 +236,81 @@ Einzelmeldungen und füllen die Spalte Gewalt schneller als ein Kommentar die Sp
 ---
 
 ## Verlauf
+
+### 2026-11-21 — Der zweite Protesttag: kleiner, ruhiger, zerstrittener
+
+**Befund:** *Faden 2, die Bewegung.* Am 20.11. gingen junge Menschen in Dutzenden Städten auf die Straße, für Bildung,
+ein bezahlbares Leben und Klimaschutz und gegen die Wehrpflicht. Aufgerufen hatten „Gen Z regelt“, das Bündnis
+„Schulstreik gegen Wehrpflicht“ (zum fünften Mal) und in Berlin die Bundesschüler\*innenkonferenz, als Teil einer
+europaweiten Mobilisierung unter dem Motto *„Fight for our future, not their wars“*. Die Initiative selbst nennt
+87.000 Teilnehmende ([tagesschau, 20.11.](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html)),
+die taz schreibt „knapp 90.000“, am 31.10. waren es nach ihren Angaben bis zu 120.000
+([taz, 21.11.](https://taz.de/GenZ-regelt/!6232145/)). Nach Polizeiangaben:
+
+- **Berlin:** bis zu 4.500 beim Zug vom Alexanderplatz nach Kreuzberg (die Veranstalter sagen bis zu 15.000), am
+  Abend etwa 1.000 am Kottbusser Tor, friedlich. Zum Bildungsprotest der BSK am Brandenburger Tor kamen rund 80
+  Menschen, angemeldet waren 5.000. *„Schade ist, dass es die Politiker:innen nicht so sehr interessiert“*, sagte
+  BSK-Vizegeneralsekretärin Rose Sözer ([rbb24, 20.11.](https://www.rbb24.de/panorama/beitrag/2026/11/berlin-jugend-demonstrationen-gen-z-regelt-schulstreik-gegen-wehrpflicht.html)).
+- **Frankfurt:** fünf Demonstrationen mit zusammen etwa 1.950 Menschen, darunter 600 beim Schulstreik. Zur stationären
+  Kundgebung der Frankfurter Ortsgruppe an der Weseler Werft, angemeldet mit 4.000, kamen rund 30, weil auf Instagram
+  zum Hauptbahnhof gerufen wurde. Von dort zog die Bundesinitiative mit rund 1.000 Menschen durch die Stadt. Karim
+  Tennah von der Ortsgruppe: *„Die Bundesvereinigung der Gen Z ist nicht der Sicherheit nachgegangen, sondern den
+  Demonstranten nachgegangen – und jetzt stehen wir hier allein.“* Mehr als 2.000 Polizisten waren im Einsatz. Vier
+  Menschen wurden vorläufig festgenommen, einer von ihnen soll an den Krawallen vom 31.10. beteiligt gewesen sein;
+  bei einer Gruppe auf der Zeil fand die Polizei 100 Grillanzünder
+  ([hessenschau, 21.11.](https://www.hessenschau.de/gesellschaft/gen-z-demos-in-hessen-teilnehmerzahlen-bleiben-unter-erwartungen-v5,genz-demos-freitag-100.html)).
+  Poseck: *„Die Bilder vom 31. Oktober haben sich nicht wiederholt.“* (taz, 21.11.)
+- **Köln:** 2.500 bis 3.000 am Kaiser-Wilhelm-Ring, angemeldet 5.000 bis 10.000, mit 1.500 Polizisten und
+  Kontrollstellen an den Zugängen. Die Polizei hatte die Demonstration wegen der Weihnachtsmärkte nach Deutz verlegen
+  wollen; auf einen Eilantrag der Initiative erlaubte das Verwaltungsgericht die Innenstadt. Drei Zugriffe, keine
+  Festnahme ([WDR, 20.11.](https://www1.wdr.de/nrw/gen-z-regelt-proteste-der-jugend-wie-laufen-die-demos-in-nrw-100.html)).
+- **Am Abend:** In Hamburg (in der Spitze 4.000) warfen nach dem Ende Vermummte Böller und Flaschen auf Polizisten,
+  Mülleimer und Absperrungen landeten auf der Straße. In Leipzig (2.500) setzte die Polizei nach Würfen mit
+  Feuerwerkskörpern Wasserwerfer ein, ein Beamter erlitt ein Knalltrauma, mehrere Menschen wurden festgesetzt. In
+  Bremen flogen mit roter Farbe gefüllte Weihnachtskugeln auf ein CDU-Büro, und Teilnehmer versuchten, ein Auto
+  anzuzünden (taz, 21.11.). Plünderungen gab es nirgends.
+
+*Faden 2, die Politik.* Bildungsministerin Prien sagte am 20.11.: *„Unsere dringendste Aufgabe ist
+Generationengerechtigkeit und dabei muss Bildung Priorität haben“*; Bund und Länder investierten aber schon erheblich
+(tagesschau, 20.11.). Im Bundestag hatte sie am 06.11. einen Kinder- und Jugendgipfel *„am 3. und 4. Dezember“* in Bonn
+angekündigt, mit *„weit mehr als 500 jungen Menschen“* und 50 Dialogformaten, dazu bundesweite Generationendialoge
+([Bulletin der Bundesregierung, 06.11.](https://www.bundesregierung.de/resource/blob/975954/2460316/bc4c14edd7cad708740861faacf5bf9a/110-3-bmfsfj-bt-data.pdf?download=1)).
+Den Bildungsgipfel, den die SPD-Fraktion verlangt hatte, haben wir weiter nicht als Termin gefunden. Mitorganisator Akram
+Selo verlangt *„Zusicherungen“* statt *„leere Versprechen“* (rbb24, 20.11.).
+
+*Faden 1.* Neue amtliche Angaben zu den Tatverdächtigen vom 31.10. haben wir seit dem 10.11. nicht gefunden, aus keiner
+Stadt. Vor dem 20.11. begründete Poseck das Großaufgebot damit, dass aus dem *„linksextremistischen Spektrum“* diesmal
+noch stärker zu Gewalt mobilisiert worden sei (hessenschau, 21.11.).
+
+*Zählung* (Stand 21.11., 11:40 Uhr, der Samstag erst angebrochen): In der Woche 15.–21.11. stehen 65 Meldungen, 18 mit
+Gewalt, 20 mit Forderung, das sind **31 %**. Zum ersten Mal liegt der Anteil über dem Vorlauf (21 %). Im Titel steht
+zwölfmal ein Wort aus dem Feld Gewalt und siebenmal eine Forderung. Liste:
+`.claude/data/spuren/gen-z-regelt-2026-11-21.txt`.
+
+**Deutung:** Bei den Forderungen hat sich das Verhältnis zum ersten Mal gedreht. Am zweiten Protesttag wurde mehr über
+das geschrieben, wofür demonstriert wurde, als in den drei Wochen davor, und mehr als im Vorlauf. Zwei Sätze aus „Was
+behauptet wurde“ lassen sich jetzt neben den Tag legen. Poseck hatte gesagt, in Frankfurt dürfe keine mit dem 31.10.
+vergleichbare Versammlung stattfinden. Es gab fünf Versammlungen, und nach seinen eigenen Worten wiederholten sich die
+Bilder nicht. Dobrindts „harte Strafen“ sind noch nicht nachprüfbar, denn Anklagen haben wir nicht gefunden. Die
+Bewegung selbst ist kleiner geworden und uneiniger: In Frankfurt standen Ortsgruppe und Bundesinitiative an
+verschiedenen Orten. In Berlin hatte ausgerechnet der Protest mit den Verbänden und dem Forderungskatalog den
+geringsten Zulauf.
+
+**Gegenbeobachtung:** (1) Ob es ruhig blieb, weil 2.000 Polizisten in Frankfurt standen, weil es regnete oder weil
+andere kamen als am 31.10., lässt sich nicht trennen. Poseck führt es auf die Polizei zurück, die hessenschau nennt
+Regen und Streit für den geringen Zulauf, der Jugendforscher Simon Schnetzer die Bilder der ersten Nacht
+([tagesschau, 20.11.](https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html)). (2) Friedlich
+war es nicht überall: Hamburg, Leipzig und Bremen sahen Würfe auf Polizisten und einen Brandversuch, nur kleiner als
+vor drei Wochen. (3) Die 31 % kommen aus einer Protestwoche mit Vorberichten, einer Datenrecherche zu WG-Mieten und
+Interviews mit Bildungsforschern, also Texten, die schon vom Anlass her über Forderungen schreiben. Ob der Anteil hält,
+zeigt erst die Woche danach. (4) Wenig Zulauf heißt nicht wenig Zustimmung: Nach den Umfragen vom Anfang des Monats hat
+eine große Mehrheit Verständnis für die Proteste (Verlauf, 06.11.). (5) Die tagesschau schreibt am 20.11., die
+Ausschreitungen vom 31.10. hätten *„meist nicht in direktem Zusammenhang“* zu den angemeldeten Demonstrationen
+gestanden, etwa in Frankfurt. Poseck sagt das Gegenteil. Belegt ist keins von beiden; die Spur hält es offen.
+
+**Offen für den nächsten Sweep:** Bilanzen der Polizei Hamburg, Leipzig und Bremen zum 20.11. · Anklagen zum 31.10. ·
+der Jugendgipfel in Bonn am 03./04.12. · ob die Frankfurter Ortsgruppe und die Bundesinitiative auseinandergehen ·
+SPIEGEL, 04.11. (weiter nicht gelesen).
 
 ### 2026-11-15 — Die ersten amtlichen Zahlen, ein kleiner Samstag
 
@@ -437,6 +513,11 @@ Euronews.
   zweite Staatsangehörigkeit, und den Migrationshintergrund misst die Zahl gar nicht. Umgekehrt sind seine 80 bis
   90 % eine Schätzung aus dem Augenschein. Beides bleibt offen, bis eine Behörde das Merkmal erhebt, nach dem sie
   gefragt wird.
+- **Die angenehmere Hälfte, nachgemessen** (21.11.). Am 06.11. stand hier die Versuchung, die BSK zur
+  eigentlichen Stimme der Jungen zu machen. Am 20.11. kamen zu ihrem Protest in Berlin rund 80 Menschen, zur
+  Initiative Tausende. Wer nur auf Verbände und Forderungskataloge schaut, hätte die Bewegung an diesem Tag kaum
+  gesehen. Und umgekehrt: Dass die Zählung erstmals über dem Vorlauf liegt, ist die Zahl, auf die wir gewartet
+  haben. Darum steht in der Gegenbeobachtung, warum sie in dieser Woche hoch sein musste.
 - **Ein Wort, das wir meiden.** „Gekapert“ benennt eine Absicht und eine Gruppe. Wo beides nicht belegt ist,
   schreiben wir, was geschah: Plünderung, Wurf, Festnahme, und wo und wann.
 
@@ -521,6 +602,8 @@ Die erste Beobachtungs-Spur ohne These. Dieselbe Form: festhalten, was vorher ge
 - Euronews, 01.11. — [Gewalt und Plünderungen in der Nacht](https://de.euronews.com/2026/11/01/gen-z-proteste-eskalieren-gewalt-und-plunderungen-in-der-nacht)
 - tagesschau, 03.11. — [Debatte um ein Verbot](https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html) · FAZ, 03.11. — [Frankfurt prüft Verbote](https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-prueft-verbote-vor-neuen-jugendprotesten-201647258.html) · FAZ, 05.11. — [Gen Z will nächste Demo besser vorbereiten](https://www.faz.net/aktuell/rhein-main/frankfurt/jugendstreik-am-20-november-gen-z-will-demo-in-frankfurt-besser-vorbereiten-201655353.html)
 - Bundesschüler\*innenkonferenz, 06.11. — [Bildungsprotest in Berlin, zehn Forderungen](https://bsk-bund.de/bundesschuelerinnenkonferenz-plant-bildungsprotest-in-berlin-gemeinsam-fuer-eine-bessere-schule/)
+- Zum 20.11.: tagesschau — [Jugendliche erneut zu Tausenden bei Demos](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html) · [Eine zersplitterte Bewegung](https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html) · hessenschau — [Teilnehmerzahlen bleiben unter Erwartungen](https://www.hessenschau.de/gesellschaft/gen-z-demos-in-hessen-teilnehmerzahlen-bleiben-unter-erwartungen-v5,genz-demos-freitag-100.html) · rbb24 — [Tausende Jugendliche protestieren in Berlin](https://www.rbb24.de/panorama/beitrag/2026/11/berlin-jugend-demonstrationen-gen-z-regelt-schulstreik-gegen-wehrpflicht.html) · WDR — [Gen-Z-Proteste in NRW](https://www1.wdr.de/nrw/gen-z-regelt-proteste-der-jugend-wie-laufen-die-demos-in-nrw-100.html) · taz/dpa — [Proteste enden friedlich, vereinzelte Krawalle am Abend](https://taz.de/GenZ-regelt/!6232145/)
+- Bulletin der Bundesregierung Nr. 110-3, 06.11. — [Rede von Karin Prien in der Aktuellen Stunde](https://www.bundesregierung.de/resource/blob/975954/2460316/bc4c14edd7cad708740861faacf5bf9a/110-3-bmfsfj-bt-data.pdf?download=1) (Kinder- und Jugendgipfel 03./04.12.)
 - ORF, 01.11. — [Deutschland, Frankreich: Krawalle](https://orf.at/stories/3446722/) (zum Vergleich: Frankreich und Wien in derselben Nacht)
 
 **Zählung**

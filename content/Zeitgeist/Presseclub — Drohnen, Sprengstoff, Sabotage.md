@@ -354,6 +354,10 @@ Die drei Stufen der Attribution (technisch, politisch, rechtlich) machen die Lü
 
 Auf einem Berliner Podium nennt die BSW-Politikerin Claudia Wittig den Leipziger Anschlag „angeblich“ und führt die Schließung des Russischen Hauses als Signal westlicher Abweisung an. Die Chronik hier zeigt, dass die Schließung die Antwort auf Leipzig war.
 
+### → [[Innenausschuss — Reform des Nachrichtendienstrechts]]
+
+Was Deutschland in der Hand hat, beantwortet die Bundesregierung mit einem neuen BND-Gesetz. In der Anhörung begründet Luca Manns es mit den Wegwerfagenten, die für 800 Euro handeln, während die Auftraggeber außer Reichweite sitzen. Franziska Görlitz warnt vor kleinen Operationen, die sich verselbständigen, bevor das Parlament davon erfährt.
+
 ---
 
 ## Weiterdenken

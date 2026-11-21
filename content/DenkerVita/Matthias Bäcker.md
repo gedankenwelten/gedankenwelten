@@ -85,7 +85,10 @@ Bäcker argumentiert verfassungsrechtlich, nicht parteipolitisch. Geladen wurde 
 
 ## Verbindungen zu anderen Denkern
 
-*(folgt)*
+- [[DenkerVita/Gunter Warg|Gunter Warg]] — Die stärkste Gegenstimme im selben Saal: Warg hält die Schutzmaßnahmen für eine begrenzte, der Polizei nachgeordnete Klarstellung, Bäcker für die am offensichtlichsten verfassungswidrige Vorschrift, die er als Gutachter gesehen hat. Das Trennungsgebot halten beide für das falsche Argument, Warg, weil es als abstraktes Prinzip nicht in der Verfassung stehe, Bäcker, weil auch die Polizei nicht heimlich eindringt und zerstört.
+- [[DenkerVita/Markus Löffelmann|Markus Löffelmann]] — Löffelmann zieht aus Bäckers Einwand den Mittelweg: Wenn ein Dienst eingreifen soll, dann nach den Spielregeln der Polizei, offen, bei einer Gefahr und mit Rechtsschutz, also mit allem, was Bäcker an den Schutzmaßnahmen vermisst.
+- [[DenkerVita/Bijan Moini|Bijan Moini]] — Moini klagt, weil der Staat schneller Daten sammelt, als Bürger sich wehren können; Bäckers Einwand führt diese Asymmetrie an ihr Ende, denn gegen einen Eingriff, von dem man nie erfährt, kann niemand klagen.
+- [[DenkerVita/Ronen Steinke|Ronen Steinke]] — Steinke beschreibt, wie der Verfassungsschutz Menschen einschüchtern kann, die nur Legales sagen, und Bäcker findet im Entwurf die Vorschrift dazu: Übermittlungen an Vereine, Banken und soziale Netzwerke auch über Menschen, die sich vollkommen legal verhalten.
 
 ---
 

@@ -93,7 +93,10 @@ In der Anhörung hielt ihm Konstantin von Notz (Grüne) vor, als Präsident sei 
 
 ## Verbindungen zu anderen Denkern
 
-*(folgt)*
+- [[DenkerVita/Ronen Steinke|Ronen Steinke]] — Maaßen zitiert Steinkes Kommentar „Plädoyer für die Abschaffung des Verfassungsschutzes“ (Deutschlandfunk Kultur, 2023) und vermerkt selbst, dessen politischer Ausgangspunkt sei ein anderer; Steinke misstraut dem Amt als Instrument der Regierung und will trotzdem das AfD-Verbotsverfahren, weil dort Richter entscheiden.
+- [[DenkerVita/Ulrich Vosgerau|Ulrich Vosgerau]] — Beide von der AfD benannt, aber nicht am selben Ort: Maaßen will den Auftrag begrenzen und hält eigene Befugnisse des BND für „nachvollziehbar“, Vosgerau hält schon die Existenz der Ämter in ihrer heutigen Form für einen „verfassungsrechtlichen Skandal“; einig sind sie, dass in der neuen Fassung der freiheitlichen demokratischen Grundordnung das Recht auf Opposition fehlt.
+- [[DenkerVita/Alexander Thiele|Alexander Thiele]] — Thiele hält den Verfassungsschutz für einen schlechten Schiedsrichter über Kandidaturen; Maaßen zieht daraus den weiteren Schluss, das Amt solle Parteien gar nicht mehr beobachten, während Thiele an der wehrhaften Demokratie festhält.
+- [[DenkerVita/Gunter Warg|Gunter Warg]] — Der Streit über den Nutzen: Maaßen sagt, keiner der Anschläge der letzten Jahre wäre mit den neuen Befugnissen verhindert worden; Warg will Dienste, die nicht wie Eichhörnchen auf ihren Erkenntnissen sitzen.
 
 ---
 

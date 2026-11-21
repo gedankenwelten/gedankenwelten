@@ -22,6 +22,54 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Panorama
+
+> **21.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **21.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **20.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **20.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **20.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> → *16 weitere in* [[Panorama]]
+
+### Spuren
+
+> **21.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
+>
+> Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
+
+> **20.11.** — [[Spuren/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen|Über sie, ohne sie — wer entscheidet über die Kleinen?]]
+>
+> 1938 hieß es in Prag „über uns ohne uns“. Diese Spur prüft an den Verhandlungen über die Ukraine, Venezuela und Taiwan, ob die Großen wieder den Rahmen ziehen, bevor die Betroffenen am Tisch sitzen.
+
+> **15.11.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
+>
+> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
+
+> **15.11.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> **15.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
+>
+> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
+
+> → *6 weitere in* [[Spuren]]
+
 ### Zeitgeist
 
 > **20.11.** — [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt]]
@@ -69,54 +117,6 @@ Die Gedankenwelten (luc)
 > Nicht die Vernunft treibt uns, sondern ein blinder Wille zum Leben. Walther Ziegler erklärt Schopenhauers Pessimismus und seine drei Auswege: Kunst, Musik und die Verneinung des Willens.
 
 > → *2 weitere in* [[Denker]]
-
-### Panorama
-
-> **20.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **20.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **20.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **20.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **20.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
->
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, und ist Neid ein Argument? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *15 weitere in* [[Panorama]]
-
-### Spuren
-
-> **20.11.** — [[Spuren/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen|Über sie, ohne sie — wer entscheidet über die Kleinen?]]
->
-> 1938 hieß es in Prag „über uns ohne uns“. Diese Spur prüft an den Verhandlungen über die Ukraine, Venezuela und Taiwan, ob die Großen wieder den Rahmen ziehen, bevor die Betroffenen am Tisch sitzen.
-
-> **15.11.** — [[Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird|Gen Z regelt — und was danach geregelt wird]]
->
-> Nach den Gen-Z-Protesten brannten Barrikaden, und wer die Täter waren, war schnell gesagt. Diese Spur stellt keine These auf. Sie wartet ab, was die Ermittlungen zeigen, und zählt, ob über die Forderungen noch gesprochen wird.
-
-> **15.11.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
->
-> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
-
-> **15.11.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> **15.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
->
-> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
-
-> → *6 weitere in* [[Spuren]]
 
 ### Geistesblitz
 

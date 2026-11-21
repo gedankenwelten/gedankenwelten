@@ -85,7 +85,10 @@ Manns argumentiert als Sicherheitsrechtler, der die Reform im Grundsatz trägt u
 
 ## Verbindungen zu anderen Denkern
 
-*(folgt)*
+- [[DenkerVita/Franziska Goerlitz|Franziska Görlitz]] — Die Gegenstimme zur KI: Für Manns verkleinert eine KI, die nur die wertvollen Meldungen herauszieht, den Eingriff, für Görlitz schafft sie den Verdacht erst; einig sind sie, dass private Anbieter ihren Code nicht zeigen.
+- [[DenkerVita/Andrey Gurkov|Andrey Gurkov]] — Gurkov trennt im Presseclub Wegwerfagenten aus dem kleinkriminellen Milieu von professionellen Schläfern; Manns' Agenten für 800 Euro sind die erste Sorte, und weil ihre Festnahme die Auftraggeber im Ausland nicht trifft, will er einen BND, der dort entgegenwirkt.
+- [[DenkerVita/Seyda Kurt|Şeyda Kurt]] — Manns nennt das Bild von den Männern im grauen Mantel vor der Wohnungstür eine Fehldeutung vor allem rechter Kreise; Kurt zeichnet dasselbe Bild von links und nennt es Militarisierung nach innen.
+- [[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]] — El-Mafaalani will eigene Dienste, um von Washington unabhängig zu werden, und fürchtet, dass Populisten sie erben; Manns hat derselben Frage einen Gastbeitrag gewidmet, „Was, wenn die AfD den Verfassungsschutz übernimmt?“ (SPIEGEL, 17.06.2026).
 
 ---
 

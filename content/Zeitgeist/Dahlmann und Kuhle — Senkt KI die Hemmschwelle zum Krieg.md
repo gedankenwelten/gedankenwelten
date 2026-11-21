@@ -248,6 +248,10 @@ Die Gewaltforscherin Hanna Pfeifer liest mit Simone Weil, warum die Verkürzung 
 
 Bauckhage sieht das KI-Rennen „wie den Kalten Krieg“ und erzählt von KI, die im Irankrieg Angriffspläne erarbeitete; die Note belegt das am Maven-System, in dem seit Ende 2024 auch Claude steckt. Dass es für KI keine Abkommen gibt wie für die Genetik, erklärt Dahlmanns Laser-Beispiel: Verbote gelingen dort, wo sie wenig kosten.
 
+### → [[Innenausschuss — Reform des Nachrichtendienstrechts]]
+
+Kuhles Satz, für jede staatliche Entscheidung müsse am Ende ein Minister zurücktreten können, kehrt in der Anhörung zur Geheimdienstreform als Frage an den neuen Kontrollrat wieder. Dietrich und Bäcker antworten, Rechtskontrolle und politische Kontrolle ersetzten einander nicht. Dass ein KI-Werkzeug Maßnahmen freischaltet, hält auch der Befürworter Luca Manns für „völlig unvorstellbar“.
+
 ---
 
 ## Weiterdenken

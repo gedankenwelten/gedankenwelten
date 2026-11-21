@@ -90,6 +90,9 @@ Görlitz spricht für eine Bürgerrechtsorganisation, die mit Klagen gegen staat
 - [[DenkerVita/Arne Semsrott]] — Beide machen das Gericht zum Werkzeug der Zivilgesellschaft: Görlitz mit Verfassungsbeschwerden, die eine Grundsatzentscheidung für alle erzwingen sollen, Semsrott, indem er bewusst gegen ein Gesetz verstößt, um es prüfen zu lassen. Er klagt auf den Blick der Bürger in den Staat, sie gegen den Blick des Staates auf die Bürger.
 - [[DenkerVita/Nicole Buettner|Nicole Büttner]] — Die Gegenstimme in der Souveränitätsfrage. Büttner will Europas KI-Souveränität über Wettbewerb und Unternehmertum gewinnen und setzt auf Vertrauen statt Verbot. Kurz und Görlitz halten dagegen, dass ein souveräner Anbieter das Strukturproblem nicht löst: Wer die Datenanalyse liefert, kennt die innere Datenverarbeitung der Polizei besser als ihre Aufsicht, gleich wo er sitzt. Über Polizeisoftware sprechen Büttner und Kaufmann in ihrer Note nicht; der Gegensatz liegt im Ansatz.
 
+- [[DenkerVita/Matthias Bäcker|Matthias Bäcker]] — Ihr engster Verbündeter im Ausschuss, mit einem leisen Widerspruch: Beide halten heimliche Eingriffe ohne Benachrichtigung für unvereinbar mit dem Rechtsstaat, doch die Argumentation mit dem Trennungsgebot nennt Bäcker „ziemlich schief“.
+- [[DenkerVita/Luca Manns|Luca Manns]] — Die Gegenstimme zur KI: Für Görlitz schafft die automatisierte Analyse den Verdacht erst, für Manns verkleinert sie den Eingriff, weil weniger Menschen den Beifang sichten; im Befund zum Code sind sie sich einig.
+
 ---
 
 ## Gedankenwelten-Notes

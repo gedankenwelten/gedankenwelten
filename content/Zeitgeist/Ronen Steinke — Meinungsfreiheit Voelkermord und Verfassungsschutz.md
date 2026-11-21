@@ -514,6 +514,10 @@ Steinkes Absage an das „Existenzrecht“ als Pflicht und an § 188 vertritt in
 
 Auf dem re:publica-Panel verteidigt der CDU-Abgeordnete Johannes Volkmann den Ausschluss der drei Läden: Kunstfreiheit sei ein Abwehrrecht, kein Anspruch auf Förderung, und der Verfassungsschutz könne seine Quellen nicht offenlegen. Unser Faktencheck zum Panel hält die Rechtsthese im Kern für tragfähig; Steinkes Einwand, dass die Geprüften nie davon erfahren, steht dort mit dem Gutachten der Wissenschaftlichen Dienste, das das Verfahren deshalb für wahrscheinlich unvereinbar mit der Rechtsweggarantie hält.
 
+### → [[Innenausschuss — Reform des Nachrichtendienstrechts]]
+
+Im Oktober 2026 zitiert Hans-Georg Maaßen Steinkes „Plädoyer für die Abschaffung des Verfassungsschutzes“ im Innenausschuss und räumt ein, Steinkes Ausgangspunkt sei ein anderer. Den Schluss teilt er nicht: Steinke will das Verbotsverfahren, Maaßen dem Amt die Beobachtung von Parteien ganz nehmen. In derselben Anhörung wird über minderjährige V-Leute gestritten, und Steinkes Einwand gegen bezahlte Quellen stellt sich dort neu.
+
 
 ---
 

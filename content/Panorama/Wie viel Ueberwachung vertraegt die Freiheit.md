@@ -2,7 +2,7 @@
 title: "Wie viel Überwachung verträgt die Freiheit?"
 date: 2026-10-17
 erstellt: 2026-10-17
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-21
 description: "Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert."
 raetsel: "Niemand sieht zu. Und doch zieht jeder die Vorhänge."
 panorama-art: wachsend
@@ -40,7 +40,7 @@ Die Überwachung, um die heute gestritten wird, sieht anders aus. Sie hat kein A
 > [!info] Ein wachsendes Panorama
 > Angestoßen hat es die Nachbesprechung zu [[Constanze Kurz — Palantir als Tueroeffner#Nachbesprechung|Constanze Kurz' Wiener Vortrag]]: Europa wendet sich von Palantir ab und behält die Methode. Jede Frage trägt den Sachstand, die Stimmen aus dem Bestand und die Reibung zwischen ihnen. Neue Notes, die eine der Fragen vertiefen, schreiben es fort.
 >
-> Eine Lücke steht offen: Fast alle Stimmen im Bestand kommen aus der Bürgerrechtsbewegung. Die Sicherheitsseite spricht hier bisher nur über Zitate aus der Presse. Eine Note, die Polizei oder Innenministerien ausführlich zu Wort kommen lässt, fehlt.
+> Eine Lücke steht offen: Fast alle Stimmen im Bestand kommen aus der Bürgerrechtsbewegung. Die Sicherheitsseite spricht hier bisher nur über Zitate aus der Presse. Seit der [[Innenausschuss — Reform des Nachrichtendienstrechts|Anhörung zur Reform des Nachrichtendienstrechts]] kommen Sicherheitsrechtler ausführlich zu Wort, die den Entwurf der Regierung verteidigen; Polizei und Innenministerien selbst fehlen weiter.
 
 ---
 
@@ -60,6 +60,8 @@ Für eine Klarnamenpflicht im Netz gibt es ein natürliches Experiment: Südkore
 - **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koschi Politik]]:** In den USA verbindet dieselbe Technik Gesundheits-, Verkehrs- und Sozialdaten zu einem Gesamtbild, das Abschiebungen dient.
 - **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Die Desouveränisierung des Staates|Rainer Mühlhoff]]:** Die Tech-Industrie will das „Betriebssystem von Staatsmacht" werden und greift nach dem „administrativen Teil des Staatsapparats", den niemand mit dem Wort Demokratie verbindet.
 - **[[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Publikumsfragen|Mathias Fischer]]:** Eine Klarnamenpflicht verlangte eine Identifizierungsinfrastruktur, in falschen Händen „der feuchte Albtraum der Stasi“; bremsen tut der Datenschutz woanders, bei sieben Tagen Speicherfrist, in denen sich ein monatelanger Angriff nicht rekonstruieren lässt.
+- **[[Innenausschuss — Reform des Nachrichtendienstrechts#Wer beobachtet wird|Hans-Georg Maaßen]]:** Der frühere Präsident des Verfassungsschutzes sagt, keiner der Anschläge der letzten Jahre wäre mit den neuen Befugnissen verhindert worden, „fachliche Unfähigkeit wird nicht durch neue Befugnisse kompensiert“; prüfen lässt sich das nicht, und den Täter vom CSD kannten die Behörden.
+- **[[Innenausschuss — Reform des Nachrichtendienstrechts#Der BND draußen|Luca Manns]]:** Partner fragen nach Daten von vor drei, vier Wochen, und der BND hat die Inhalte nach zwei Wochen „schon wegschmeißen müssen“; sechs Monate hält er für vertretbar, „auch wenn das ein Bauchgefühl ist“.
 
 > [!question] Die Reibung
 > Poseck nennt Ermittlungserfolge, Kurz nennt fiktive Fälle, und die Forschung hat das Verfahren, um das sie streiten, nie untersucht. *Wenn niemand die Bilanz ziehen kann: Wer müsste beweisen — der Staat, dass es wirkt, oder die Kritiker, dass es schadet?*
@@ -112,6 +114,8 @@ Alle diese Systeme halten an einer Grenze, der Stirn. Wer in Xinjiang anders den
 
 - **[[Geistesblitz/NANO — Gehirnchips und Gedankenfreiheit#Gehören die Gedanken noch einem selbst?|Marcello Ienca]]:** Wer anders denkt, kann sich heute noch verstellen; mit Zugriff auf Gehirndaten fiele diese letzte Deckung, und eine „kognitive Überwachung“ hält er für realistisch, nicht nur in Autokratien.
 - **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Das harte Problem, und warum es hart bleibt|Jürgen Kornmeier]]:** Neuralink sei „Bildzeitungsforschung“: Das eigene Erleben bleibt unzugänglich, kein Experiment öffnet es.
+- **[[Innenausschuss — Reform des Nachrichtendienstrechts#Tauschen, wegnehmen, fälschen die Schutzmaßnahmen|Matthias Bäcker]]:** „Sowas macht ein Rechtsstaat nicht“: Er greift offen ein, sodass man sich wehren kann; Eingriffe, die dauerhaft heimlich bleiben, hält Bäcker für die am offensichtlichsten verfassungswidrige Vorschrift, die er als Gutachter gesehen hat.
+- **[[Innenausschuss — Reform des Nachrichtendienstrechts#Tauschen, wegnehmen, fälschen die Schutzmaßnahmen|Franziska Görlitz]]:** Gesetzliche Grenzen beweisen ihren Wert nicht in guten Zeiten; man muss mitdenken, was diese Befugnisse „in den Händen einer autoritären Regierung“ bewirken.
 
 > [!question] Die Reibung
 > China begründet seine Überwachung mit Sicherheit und erntet in Umfragen Zustimmung. Großbritannien überwacht dicht und lässt sich von Gerichten bremsen, die das Prinzip billigen und die Ausgestaltung rügen. *Wenn der Unterschied in den Gerichten liegt und nicht in der Technik: Was bleibt von ihm an dem Tag, an dem eine Regierung die Gerichte nicht mehr fürchtet?*
@@ -178,6 +182,10 @@ Die Grenze hinter allen Fragen hier: der Schädel. Marcello Ienca hält eine „
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Made in Germany Awards 2026 — Mobilität]]
 
 Ein Gegenmodell zum Archiv, das alles verknüpft: Kratenas Straßendrohnen schwärzen Gesichter und löschen alles außer Asphalt, bevor die Schadenssuche beginnt. Wer darunter im Garten sitzt, sieht davon allerdings nichts.
+
+### → [[Innenausschuss — Reform des Nachrichtendienstrechts]]
+
+Die Anhörung lässt die Sicherheitsseite zu Wort kommen, die hier bisher fehlte: drei Sicherheitsrechtler, die den Entwurf der Regierung verteidigen, und gegen sie Bürgerrechtler und Verfassungsrechtler. Neu ist eine Befugnis, die dieses Panorama noch nicht kannte: dauerhaft heimliche Eingriffe des Verfassungsschutzes, die den Betroffenen nie mitgeteilt werden.
 
 ---
 

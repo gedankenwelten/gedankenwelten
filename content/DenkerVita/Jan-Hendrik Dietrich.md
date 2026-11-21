@@ -86,7 +86,10 @@ Dietrich spricht als Rechtswissenschaftler, der den Diensten nahe arbeitet: Er l
 
 ## Verbindungen zu anderen Denkern
 
-*(folgt)*
+- [[DenkerVita/Franziska Goerlitz|Franziska Görlitz]] — Die Gegenstimme zur Kontrolle: Dietrich sieht die neuen Befugnisse von einem dichten Kontrollregime eingehegt, Görlitz einen Kontrollrat, der Informationen nicht gerichtlich erzwingen kann, wenig Geld bekommt und dessen Entscheidungen niemand lesen wird.
+- [[DenkerVita/Markus Löffelmann|Markus Löffelmann]] — Zwei Kollegen an der Hochschule des Bundes mit demselben Befund und verschiedenen Schlüssen: Das alte Recht leidet an seiner Unübersichtlichkeit; Dietrich nennt die Reform einen Meilenstein, Löffelmann sieht sie bewusst ein hohes verfassungsrechtliches Risiko eingehen.
+- [[DenkerVita/Gunter Warg|Gunter Warg]] — Mitherausgeber der Bände des Berliner Symposiums zum Recht der Nachrichtendienste; im Ausschuss verteidigen beide den Entwurf, Warg prüft die Eingriffsschwellen, Dietrich die Kontrolle.
+- [[DenkerVita/Konstantin Kuhle|Konstantin Kuhle]] — Kuhle saß im Parlamentarischen Kontrollgremium und verlangt, dass für jede staatliche Entscheidung am Ende ein Minister zurücktreten kann; Dietrich trennt genau diese politische Verantwortung von der Rechtskontrolle, die er hauptberuflichen Richtern übertragen will.
 
 ---
 

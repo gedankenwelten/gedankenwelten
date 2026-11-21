@@ -101,6 +101,8 @@ Diese Wehrhaftigkeit hat bei ihm zwei Seiten. Er ist für ein AfD-Verbotsverfahr
 - [[DenkerVita/Alexander Schwarz|Alexander Schwarz]] — Steinkes Befund, dass hinter Kriegsverbrechertribunalen oft Machtinteressen stehen, fragt Schwarz an der Bundesanwaltschaft nach: ob das Weltrechtsprinzip dort endet, „wo es politisch heikel wird“. Beide setzen auf eine Öffentlichkeit, die hinsieht und nachfragt.
 - [[DenkerVita/Benjamin Biersky|Benjamin Biersky]] — Steinkes SZ-Kommentar vom 1. Oktober 2026 zum AfD-Verbot verlangt von Politikern Demut: Entscheiden sollen die Richter. Biersky macht daraus eine Pflicht, das Verfahren anzustoßen, und stützt sich dabei auf das Gutachten jenes Verfassungsschutzes, dem Steinke misstraut.
 
+- [[DenkerVita/Hans-Georg Maassen|Hans-Georg Maaßen]] — Maaßen zitiert Steinkes „Plädoyer für die Abschaffung des Verfassungsschutzes“ vor dem Innenausschuss und vermerkt selbst den anderen Ausgangspunkt; Steinke will das AfD-Verbotsverfahren, Maaßen die Beobachtung von Parteien ganz verbieten.
+
 ---
 
 ## Gedankenwelten-Notes

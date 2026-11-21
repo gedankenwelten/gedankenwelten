@@ -236,6 +236,10 @@ hinein — und wird dort unsichtbar.
 
 Fünf Monate später in Wien: Die Warnung, ein souveräner Anbieter löse das Strukturproblem nicht, hat sich bestätigt. Die Länder wollen jetzt offen die Datenanalyse, nur „keine Palantir-Produkte“, wie Schleswig-Holsteins Innenministerin sagt. Dazu kommen der europäische Stimmungswandel (London, Bern, Bundeswehr) und das KI-Training mit echten Bürgerdaten.
 
+### → [[Innenausschuss — Reform des Nachrichtendienstrechts]]
+
+Ein halbes Jahr nach der re:publica sitzt Görlitz als Sachverständige im Innenausschuss, wo es um die automatisierte Datenanalyse der Nachrichtendienste geht. Sie trägt dort dieselben Einwände vor: Nachvollziehbarkeit, Diskriminierung, der Code privater Anbieter. Luca Manns verteidigt den Einsatz von KI, sagt aber selbst, die Anbieter zeigten den Quellcode nicht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

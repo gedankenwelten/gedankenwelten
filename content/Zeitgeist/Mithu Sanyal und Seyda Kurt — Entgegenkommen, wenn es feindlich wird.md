@@ -401,6 +401,10 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 
 Sanyals Forderung nach demselben Völkerrecht für alle ist der Maßstab, an dem ein BSW-AfD-Podium über Frieden mit Russland scheitert: Der russische Angriff wird dort in 88 Minuten nicht ausdrücklich als Völkerrechtsbruch benannt.
 
+### → [[Innenausschuss — Reform des Nachrichtendienstrechts]]
+
+Was Kurt Militarisierung nach innen nennt, verhandelt der Innenausschuss im Wortlaut: Schutzmaßnahmen des Verfassungsschutzes, heimliches Betreten von Wohnungen, ein BND, der im Ausland eingreift. El-Mafaalanis Frage, was Populisten erben, stellt dort Franziska Görlitz als Prüfstein für jedes Sicherheitsgesetz; Luca Manns hält die Angst vor dem Wohnungsbetreten dagegen für eine Erzählung vor allem rechter Kreise.
+
 ---
 
 ## Weiterdenken
