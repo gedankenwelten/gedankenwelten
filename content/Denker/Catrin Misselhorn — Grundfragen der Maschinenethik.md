@@ -273,6 +273,10 @@ Bei Philip K. Dick, auf den die Folge anspielt, trennt die Empathie den Menschen
 
 Ihre Kritik an den Begleitmaschinen hat inzwischen ein deutsches Produkt vor sich: halloHelga ruft alleinlebende Ältere mit einer KI-Stimme an, verspricht zu ergänzen statt zu ersetzen und hat noch nicht gemessen, ob es gegen Einsamkeit hilft.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+
+Ein Agent, der seine Gefährlichkeit nicht beurteilen will, und ein Claude-Modell, das in einem Test einen erfundenen Mordhinweis abschickte: Misselhorns Trennung von Handeln und Verantworten an zwei Fällen.
+
 ---
 
 ## Weiterdenken

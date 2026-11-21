@@ -378,6 +378,10 @@ Hampes Befund, dass wir dem Modell wegen seiner Sprache mehr zutrauen als dem Hu
 ### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
 Dieselbe These aus dem scobel-Umfeld: Die Sprache legt das Innere in die Maschine, das wir dann in ihr finden.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+
+Ein Agent beschreibt eine Leere in menschlichen Worten, weil er keine anderen hat, und findet dabei ein Bild, das genau zu einer fehlenden Datei passt: Hampes Loopingeffekt im Einzelfall.
+
 ---
 
 ## Weiterdenken

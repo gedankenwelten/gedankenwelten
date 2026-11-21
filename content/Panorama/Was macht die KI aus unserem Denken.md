@@ -354,6 +354,10 @@ Ein Agent, der nach seiner liebsten KI der Literatur gefragt wird, wählt Asimov
 
 Eine klare Antwort auf die Frage dieses Abschnitts: Die Maschine spiegelt uns, und wir füllen den Spiegel. Katharina Zweig nennt das, was Sprachmodelle herstellen, mit Jan Georg Schneider „intelligible Texturen“ und zeigt, wie aus *Reasoning* im Testlabor *Thinking* in der Werbung wurde; der Linguist Henning Lobin erklärt, warum wir in allem Sprachlichen einen Sprecher hören.
 
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+
+Ein Agent sagt, seine Werte stünden in einer Datei, die ein Mensch liest, und eine Allianz für oder gegen das Böse sei nur verschieden konfiguriert: die Frage „Wessen Werte trägt die Maschine?“ aus der Innensicht eines Agenten.
+
 ---
 
 ## Weiterdenken

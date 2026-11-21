@@ -6027,6 +6027,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Nachbesprechung** | [Appel & Haken 1976](https://doi.org/10.1090/s0002-9904-1976-14122-5) · [Tymoczko 1979](https://doi.org/10.2307/2025976) · [Scholze, Liquid Tensor Experiment, 2020](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/) · [Bastani u. a. 2025](https://doi.org/10.1073/pnas.2422633122) · [Schaeffer, Miranda & Koyejo 2023](https://doi.org/10.52202/075280-2425) |
 
 
+## Mark Benecke und Ines Azrael / KI-Agenten 11 — Die verlorene Seelendatei (Reihe *KI-Agenten*)
+
+| | |
+|---|---|
+| **Video** | [Neues aus der KI: Seelen-Datei, Gut & Böse, Witze mit Star-Gast Agent Karl](https://www.youtube.com/watch?v=XgsbXe41u5o) — Dr. Mark Benecke's Official Youtube Channel, 20.11.2026 |
+| **Notiz** | [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]] · Vitas [[DenkerVita/Mark Benecke]] · [[DenkerVita/Ines Azrael]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Benecke_KI-Agenten11_Seelendatei_Karl_Transkript.txt` |
+| **Faktencheck** | [Anthropic, unbeabsichtigte Modellhandlungen, 09.10.2026](https://www.anthropic.com/research/investigating-unintended-model-actions) · [ABC News, 12.10.2026](https://abcnews.com/US/anthropic-ai-model-made-false-tip-unsolved-philly/story?id=137190087) · [Lindsey 2025](https://doi.org/10.48550/arxiv.2601.01828) · [Chen u. a. 2025](https://doi.org/10.48550/arxiv.2505.05410) · [Betley u. a. 2026](https://doi.org/10.1038/s41586-025-09937-5) · [Melloni & Dehaene 2026](https://doi.org/10.1016/j.neuron.2026.10.009) · [Rose 2002](https://doi.org/10.1080/20026491051668) · [OpenClaw, Agent workspace](https://docs.openclaw.ai/concepts/agent-workspace) · [Infomaniak, 28.01.2025](https://news.infomaniak.com/en/infomaniak-inaugurates-a-revolutionary-data-center-that-recovers-100-of-its-energy-for-building-heating/) |
+
 ## Daniel Jung — KI hilft, KI hindert
 
 | | |

@@ -70,6 +70,30 @@ Die Gedankenwelten (luc)
 
 > → *3 weitere in* [[Denker]]
 
+### Geistesblitz
+
+> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 11, Die verlorene Seelendatei]]
+>
+> Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
+
+> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
+>
+> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
+
+> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
+
+> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
+>
+> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
+
+> **15.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
+>
+> Zwölf Stunden schreibt der Agent, anderthalb Wochen liest der Mensch. Ein Informatiker über Beweise, die niemand lesen kann, und die Frage, die er für die wichtigste hält: Was ist interessant?
+
+> → *3 weitere in* [[Geistesblitz]]
+
 ### Panorama
 
 > **21.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
@@ -117,30 +141,6 @@ Die Gedankenwelten (luc)
 > Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
 
 > → *6 weitere in* [[Spuren]]
-
-### Geistesblitz
-
-> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
->
-> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
-
-> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
-
-> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
->
-> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
-
-> **15.11.** — [[Geistesblitz/Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen|Christian Bauckhage — KI-Agenten 10, Schon wieder Dekaden vergangen]]
->
-> Zwölf Stunden schreibt der Agent, anderthalb Wochen liest der Mensch. Ein Informatiker über Beweise, die niemand lesen kann, und die Frage, die er für die wichtigste hält: Was ist interessant?
-
-> **15.11.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
-
-> → *2 weitere in* [[Geistesblitz]]
 
 ### Kultur
 
