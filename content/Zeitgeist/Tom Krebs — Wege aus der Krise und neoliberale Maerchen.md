@@ -435,6 +435,10 @@ Weber und Krebs haben gemeinsam gefragt, ob Preiskontrollen optimal sein können
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Die Gegenrechnung zu den umfassenden Preisbremsen: Grimm will den Kosten-Tsunami nur bis zu einer neuen, höheren Normalität dämpfen, weil der Preisschock den Strukturwandel beschleunigen soll. Beim Netz vertraut sie den Gasnetzbetreibern und will ihnen den Umbau zum Wasserstoff über die Regulierung schmackhaft machen.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+Wie sich die Frage im nächsten Heizwinter stellt, mit einer Familie, die bei minus fünf Grad die Heizung auslässt, zeigt das Gespräch mit Patrick Kaczmarczyk zur Gaskrise 2026.
+
 ---
 
 ## Weiterdenken

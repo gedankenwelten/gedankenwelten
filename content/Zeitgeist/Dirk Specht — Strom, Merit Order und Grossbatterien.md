@@ -280,6 +280,10 @@ Spechts Netz, das lieber gemolken als ausgebaut wird, bekommt dort ein Gesicht: 
 
 Die Fortsetzung nach der Hormus-Krise: Specht führt das chinesische Modell bis zum Kapazitätsmarkt vom Januar 2026 und aus dem Strommarkt hinaus in die Geopolitik von Malakka und Hormus. Der Faktencheck dort zeigt, dass der Kapazitätsmarkt die Kohle eher stützt als verdrängt.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+Den Gegenentwurf, einen staatlichen Strompreisdeckel auf zehn Jahre für Industrie, Gewerbe und Haushalte, vertritt Patrick Kaczmarczyk in der Gaskrise 2026.
+
 ---
 
 ## Weiterdenken

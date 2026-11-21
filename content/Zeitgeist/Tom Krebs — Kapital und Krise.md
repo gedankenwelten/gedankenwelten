@@ -350,6 +350,10 @@ Fricke sieht den Kern des Rechtsrucks im Kontrollverlust, im unvorhersehbaren St
 
 ### → [[DenkerVita/Tom Krebs|Tom Krebs — DenkerVita]]
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+Kaczmarczyk, der an Krebs' Kompetenzzentrum forscht, geht in der Gaskrise 2026 weiter: ein Deckel auf etwa zehn Jahre auch für Gewerbe und Haushalte. Belegt ist in seinen Papieren nur der Wert für die Industrie.
+
 ---
 
 ## Weiterdenken

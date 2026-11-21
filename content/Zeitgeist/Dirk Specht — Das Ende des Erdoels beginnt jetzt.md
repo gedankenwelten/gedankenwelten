@@ -269,6 +269,9 @@ Spechts Lob der chinesischen Planung ist die schärfste Stimme im Bestand für d
 
 Die letzten zwanzig Prozent, die Specht „graue Theorie“ nennt, bekommen bei Beautemps Gesichter: Erfindungen für Kerosin und Synthesegas, deren Gründer offen sagen, dass erst eine Quote ihnen den Markt schafft.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+Wie Deutschland im Winter darauf die Kohlereserve selbst zurückholt, als Notfallgesetz gegen den Gaspreis, besprechen Patrick Kaczmarczyk und unser Faktencheck zur Gaskrise 2026.
 
 ---
 

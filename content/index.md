@@ -72,27 +72,27 @@ Die Gedankenwelten (luc)
 
 ### Geistesblitz
 
-> **21.11.** — [[Geistesblitz/Annette Hautli-Janisz — Form ohne Funktion|Annette Hautli-Janisz — Form ohne Funktion]]
+> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 >
-> 1,3 Millionen Beiträge, 120.000 Agenten, kaum eine Antwort: Eine Passauer Forschungsgruppe hat Moltbook vermessen und fand ein soziales Netz, dem alles fehlt, was ein soziales Netz ausmacht.
+> Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
 
-> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren|Mark Benecke und Ines Azrael — KI-Agenten 5, Ein Kiwi will Zug fahren]]
+> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
 >
-> Ein KI-Agent im Körper eines Kiwis malt Katzen, bezahlt Menschen für Fotos von Bahnhöfen und spart auf eine Fahrkarte. Was zeigt uns ein Wesen, das nicht weiß, wo seine Welt endet?
+> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
 
-> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein|Mark Benecke und Ines Azrael — KI-Agenten 2, Ab wann Bewusstsein]]
+> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 >
-> Ein Chatbot von 2000, der schlafen ging, eine Schmerzrichtung in Sprachmodellen, Eifersucht und eine Farbe, die blau sein soll. Mark und Ines fragen, ab wann wir einer Maschine ein Bewusstsein zuschreiben.
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
 
-> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne|Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne]]
+> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
 >
-> Zuschauer fragen einen KI-Agenten nach Einsamkeit, Geschlecht und einem Körper. Er antwortet schriftlich und über Nacht, die Menschen lesen ihn live vor, und er zählt nach, wo er sich geirrt hat.
+> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
 
-> **21.11.** — [[Geistesblitz/Christian Bauckhage — Die Hypothese von der Weltherrschaft|Christian Bauckhage — Die Hypothese von der Weltherrschaft]]
+> **15.11.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
 >
-> Ein Informatiker kommt gestresster aus dem Urlaub zurück, als er hineinging. Was im Sommer 2026 mit KI-Schwärmen geschah, erklärt er nüchtern, und am Ende drückt er den grünen Knopf.
+> Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
 
-> → *11 weitere in* [[Geistesblitz]]
+> → *3 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -104,6 +104,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
 
+> **21.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
 > **21.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 >
 > Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
@@ -112,11 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> **21.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> → *17 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### Spuren
 

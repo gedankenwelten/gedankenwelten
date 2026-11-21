@@ -277,6 +277,10 @@ Grimm denkt die Tankrabatt-Falle von der Investorenseite: Wer in der Krise Zufal
 
 Bogner liefert die Theorie zu Löschels Gratwanderung: Wo politische Konflikte als Wissenskonflikte geführt werden, wird jeder Forscher einem Lager zugeschlagen, und nur wer Abwägungen offenlegt, statt Alternativlosigkeit zu verkünden, lässt der Politik ihren Teil.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+In der Gaskrise 2026 fordert Patrick Kaczmarczyk die Gaspreisbremse zurück und einen Strompreisdeckel auf zehn Jahre, genau den Eingriff gegen fossile Preisspitzen, vor dessen Signalwirkung Löschel warnt.
+
 ---
 
 ## Weiterdenken

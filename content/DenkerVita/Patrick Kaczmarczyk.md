@@ -80,9 +80,13 @@ Ungewöhnlich für einen Ökonomen dieser Schule ist sein normativer Anker. In *
 - [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]] — Machte *Zerfall der Weltordnung* zum Haupttext seines Salons und wirft ihm in Lüneburg vor, das progressive „Geld ist da“ habe der Aufrüstung den Weg bereitet; Kaczmarczyks Rüstungsstudie mit Tom Krebs ist die ökonomische Antwort.
 - [[DenkerVita/Arnaud Orain|Arnaud Orain]] — Beide beschreiben das Ende der liberalen Weltordnung; Orain liest die liberale Phase als historische Ausnahme vor der Rückkehr der Endlichkeit, für Kaczmarczyk war sie im Globalen Süden nie liberal — dort hieß sie Sparpolitik per IWF.
 - [[DenkerVita/Maurice Hoefgen|Maurice Höfgen]] — Höfgens Kanal ist eine seiner Bühnen; Kaczmarczyk teilt aber die Skepsis gegenüber der Jobgarantie und will Vollbeschäftigung über Fiskal-, Lohn- und Geldpolitik erreichen.
+- [[DenkerVita/Tom Krebs|Tom Krebs]] — Er forscht an Krebs' Kompetenzzentrum in Mannheim, beide schrieben die Studien zu Stromnetzen und grünem Stahl; beide halten die Industrie-Bremse von 2022 für verfehlt und wollen einen garantierten Strompreis, den Kaczmarczyk 2026 auf Gewerbe und Haushalte ausdehnt.
+- [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Seine Gegenspielerin in der Preisfrage: Sie verteidigt den Preis als Sparsignal und riet im März 2026 als Beraterin des Ministeriums von einer staatlichen Gasreserve ab; er hält den Preis beim Heizen für wirkungsarm und will deckeln.
+- [[DenkerVita/Isabella Weber|Isabella Weber]] — Beide treten für strategische Preiskontrollen und öffentliche Puffer ein, von Getreidereserven bis zur Gasreserve.
 
 ## Gedankenwelten-Notes
 
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+- [[Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] — die Gaskrise 2026 im Surplus Magazin: Kohle gegen den Gaspreis, der Markt als „heilige Monstranz“, Strompreisdeckel und Gaspreisbremse mit Übergewinnsteuer
 - [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — *Zerfall der Weltordnung* als Haupttext des Salons
 - [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]] — als Referenz für Geoökonomie und IWF-Kritik genannt

@@ -462,6 +462,10 @@ Driouich hält den Nachkriegskonsens, auf den Weber baut, ohne Wachstum für nic
 
 Wie die „Schuld der Vergangenheit“ aussieht, von der Klüssendorf spricht: Zwei von drei Finalisten bauen Wächter für Straßen und Brücken, deren Erhalt liegen blieb, bis hinunter zu dem Gehweg, an dem Weber Handlungsfähigkeit misst.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+Vier Jahre später fordert Patrick Kaczmarczyk die Gaspreisbremse zurück, im nächsten Winter mit leeren Speichern. Die Frage, ob gekaufte Zeit in den Umbau fließt, stellt sich dort neu.
+
 ---
 
 ## Weiterdenken

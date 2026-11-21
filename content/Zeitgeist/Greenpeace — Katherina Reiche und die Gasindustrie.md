@@ -337,6 +337,10 @@ Felix Goldbach rechnet Reiches Zahl vom „weggeworfenen Strom“ mit den Daten 
 
 Ein Glyphosat-Fall mit Drehtür: In der Furtwängler-Doku verteidigt Matthias Berninger, früher grüner Staatssekretär im Landwirtschaftsministerium, heute Bayers Chef für Public Affairs und Nachhaltigkeit, den Wirkstoff.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+Die Netzrenditen nennt Patrick Kaczmarczyk in der Gaskrise 2026 als einen der Gründe, warum der Umbau für alle teurer wird; im Bundestag hat er sie als Sachverständiger für überhöht erklärt.
+
 ---
 
 ## Weiterdenken

@@ -157,6 +157,10 @@ Er saß der Expertenkommission vor, deren Bericht Reiches Kurs in Teilen widersp
 
 ---
 
+### → [[DenkerVita/Veronika Grimm|Veronika Grimm]]
+
+Reiche berief die Ökonomin im September 2025 in ihren wissenschaftlichen Beraterkreis. Dessen Kurzgutachten riet im März 2026 von einer staatlichen Gasreserve ab; am 11. November beschloss das Kabinett trotzdem eine, nachdem die Speicher im Herbst leer geblieben waren.
+
 ## Gedankenwelten-Notes
 
 - [[Greenpeace — Katherina Reiche und die Gasindustrie]] — das Dossier aus Ministeriumsakten: Gutachten, 10-Punkte-Plan, Heizungsgesetz, Mailkonten
@@ -170,5 +174,6 @@ Er saß der Expertenkommission vor, deren Bericht Reiches Kurs in Teilen widersp
 - [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Reiche als „sicherheitspolitisches Problem“ in der Energiepreiskrise
 - [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — die Speicher, die ihre Kraftwerksstrategie übersieht
 - [[Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]] — Ulrike Herrmann revidiert ihr frühes Lob
+- [[Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] — die leeren Speicher im Herbst 2026, die Anweisung an SEFE und das Notfallgesetz für Kohle- und Ölkraftwerke, kritisch gelesen von Patrick Kaczmarczyk
 - [[MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] — Reiches Hoffnung auf Mini-AKW
 - [[Panorama/Energie]] — die Energiedebatte im Überblick, mit Reiche als zentraler Figur

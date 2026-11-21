@@ -343,3 +343,6 @@ Wie andere Länder dieselbe Krise beantworteten, zeigt Specht aus Asien: Rationi
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Beim Preissignal sind sich Kemfert und Grimm einig, beide wollen es halten und als Klimageld zurückgeben. Bei der Kernkraft und der Übergewinnsteuer stehen sie gegeneinander.
 
+### → [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
+
+Für Heizgas statt Sprit stellt sich die Frage in der Gaskrise 2026 neu: Patrick Kaczmarczyk will die Gaspreisbremse zurück, weil beim Heizen kaum jemand ausweichen kann.
