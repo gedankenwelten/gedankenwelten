@@ -15,8 +15,8 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 43,
-   "aufrufe": 45
+   "leser": 44,
+   "aufrufe": 46
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -109,12 +109,12 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Marcant",
+   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
    "leser": 7,
-   "aufrufe": 9
+   "aufrufe": 10
   },
   {
-   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+   "pfad": "/DenkerVita/Marcant",
    "leser": 7,
    "aufrufe": 9
   },
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 23,
-     "aufrufe": 23
+     "leser": 24,
+     "aufrufe": 24
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -411,7 +411,7 @@
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 3,
-     "aufrufe": 5
+     "aufrufe": 6
     },
     {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
@@ -625,8 +625,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 43,
-     "aufrufe": 45
+     "leser": 44,
+     "aufrufe": 46
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -719,12 +719,12 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 7,
-     "aufrufe": 9
+     "aufrufe": 10
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "pfad": "/DenkerVita/Marcant",
      "leser": 7,
      "aufrufe": 9
     },
@@ -940,8 +940,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 111,
-     "aufrufe": 119
+     "leser": 112,
+     "aufrufe": 120
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1121,7 +1121,7 @@
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
-     "aufrufe": 12
+     "aufrufe": 13
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -1245,8 +1245,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 111,
-     "aufrufe": 119
+     "leser": 112,
+     "aufrufe": 120
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1426,7 +1426,7 @@
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
-     "aufrufe": 12
+     "aufrufe": 13
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 36,
-     "aufrufe": 36
+     "leser": 37,
+     "aufrufe": 37
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",

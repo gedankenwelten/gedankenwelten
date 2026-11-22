@@ -2,7 +2,7 @@
 title: "Was ist Wohlstand?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-11-13
+aktualisiert: 2026-11-22
 description: "Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss."
 raetsel: "Drei liegen satt unter dem Baum und schauen weg. Drüben teilen zwei ein Brot."
 panorama-art: wachsend
@@ -42,6 +42,8 @@ Die Antwort hängt davon ab, wen man fragt und was man zählt. Richard Easterlin
 
 Anders sieht es aus, wenn man nicht das Geld zählt, sondern den Verbrauch. Der Happy Planet Index findet im Ländervergleich, dass jenseits von etwa vier Globalhektar Fußabdruck mehr Verbrauch keine zusätzlichen glücklichen Lebensjahre bringt, und in seiner Befragung von rund 40.000 Menschen sind die mit dem größeren Fußabdruck eher weniger zufrieden ([HPI 2026 Report](https://hotorcool.org/publications/the-2026-happy-planet-index-report/)). Beides passt zusammen. Geld kann Dinge kaufen, die kaum Welt verbrauchen: Zeit, Pflege, Bildung, Sicherheit. Was unglücklich macht, ist eher die Haltung zum Geld als das Geld: Wer materialistische Werte und Ziele hoch hält, dem geht es über 259 Stichproben hinweg messbar schlechter, wer nur auf Geld achtet, weniger ([Dittmar u. a. 2014](https://doi.org/10.1037/a0037409), Meta-Analyse). Und es macht glücklicher, wenn man es für andere ausgibt statt für sich ([Dunn, Aknin & Norton 2008](https://doi.org/10.1126/science.1150952)); eine vorregistrierte Wiederholung bestätigte das, mit kleinerem Effekt ([Aknin et al. 2020](https://doi.org/10.1037/pspa0000191)). Am unteren Ende ist Geld schlicht Lebenszeit: Einkommensarme Männer sterben in Deutschland rund sieben Jahre früher als wohlhabende (→ Butterwegge unten).
 
+Über lange Zeiträume und ganze Gesellschaften gerechnet, sieht der Zusammenhang schwächer aus als zwischen Einzelnen. Easterlin fand über Jahrzehnte keinen Zusammenhang zwischen Wachstum und Glück, auch in Entwicklungs- und Transformationsländern ([Easterlin u. a. 2010](https://doi.org/10.1073/pnas.1015962107), *PNAS*), eine neue Übersicht bestätigt das ([O'Connor 2026](https://doi.org/10.1177/29782244261480019), Übersichtsarbeit), Hagerty und Veenhoven halten dagegen ([Hagerty & Veenhoven 2003](https://doi.org/10.1023/a:1024790530822)). In 19 indigenen und lokalen Gemeinschaften mit sehr wenig Geldeinkommen liegt die Lebenszufriedenheit nahe an der reicher Länder ([Galbraith u. a. 2024](https://doi.org/10.1073/pnas.2311703121), *PNAS*). Die Muße der Jäger und Sammler war allerdings ungleich verteilt: Frauen arbeiten in kleinen Gesellschaften wie in Industrieländern rund 55 Stunden die Woche ([Bhui, Chudek & Henrich 2019](https://doi.org/10.1073/pnas.1906196116), *PNAS*). Unstrittig ist der Rückgang der Not: 1820 lebte die Mehrheit in extremer Armut, heute sind es rund acht Prozent ([Our World in Data](https://ourworldindata.org/extreme-poverty-in-brief)).
+
 **Die Stimmen**
 
 - **[[Florian Homm - Ich war eine Leistungsmaschine#Die Leere an der Spitze — Der Ausstieg|Florian Homm]]:** *„Zwei Jets, Schlösser, eine kleine Luxusjacht, 7000 Quadratmeter Wohnfläche … Ich bin unglücklich, ich bin einsam.“*
@@ -53,7 +55,7 @@ Anders sieht es aus, wenn man nicht das Geld zählt, sondern den Verbrauch. Der 
 - **[[Heinz Bude — Gesellschaft der Angst#Der Swimming-Pool-Effekt — Angst steigt mit Wohlstand|Heinz Bude]]:** Die Angst steige mit dem Wohlstand, sagt der Moderator Peter Huemer in Wien, und Bude gibt ihm recht: Heute sind die Kinder der Swimming-Pool, den man nicht verlieren will.
 - **[[Wolfram Schultz — Dopamin mehr als ein Glueckshormon#Immer mehr wollen — die evolutionäre Logik des positiven Fehlers|Wolfram Schultz]]:** Das Belohnungssystem ist auf Maximierung gebaut, nicht auf Sättigung; kein Besitz befriedigt auf Dauer.
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (12)</summary>
 
 - **[[Martin Oetting — Happy Planet Index 2026#Das BIP-Paradox 85.800 Dollar für Platz 105|Martin Oetting und Saamah Abdallah]]:** Die USA seien *„ziemlich beschissen darin, Ressourcen bzw. Geld in langes, zufriedenes Leben für alle zu verwandeln“*; wer mehr konsumiert, ist eher weniger zufrieden.
 - **[[Erich Fromm — Menschliches Wachstum#Überflüssiger Überfluss vs. lebendiger Überfluss|Erich Fromm]]:** Es gibt einen Überfluss, der passiv macht, und einen, der den Menschen aktiver, lebendiger und freier werden lässt.
@@ -63,6 +65,11 @@ Anders sieht es aus, wenn man nicht das Geld zählt, sondern den Verbrauch. Der 
 - **[[Hans Maggi — Sokotra#Dritter Teil — Der Höhlenmensch|Hans Maggi]]:** Abdullah, 64, lebt fast ohne Besitz in einer Höhle und ist der zufriedenste Mensch seiner Reise; Maggi weiß, dass sein Bild als exotischer Gast verzerrt sein kann.
 - **[[Tilo Jung — Erben Wirtschaft AfD-Strategie#Suffizienz statt Profitmaximierung|Tilo Jung]]:** Geld wirke wie eine Droge, mehr Einnahmen erzwingen mehr Ausgaben; er strebt nach genug statt nach Gewinnmaximierung.
 - **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Die sterile Übung|Achim Truger]]:** Das Lehrbuch nimmt unendliche Bedürfnisse an, *„ich glaube, das stimmt eben überhaupt nicht“*; wer genug hat und weniger arbeiten will, handelt genau nach der Theorie.
+
+- **[[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses#Das Paradox des Überflusses|Yuval Noah Harari]]:** Menschen können Macht anhäufen, aber schlecht in Glück verwandeln; Überfluss löst alte Probleme und erfindet neue, die vorher niemand kannte.
+- **[[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses#Das Paradox des Überflusses|Mustafa Suleyman]]:** Befreit vom Mangel fragt man nach dem Sinn; unterm Strich, über ein Jahrhundert, mehr Glück, weniger Mangel, mehr Frieden.
+- **[[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen#Der Sündenfall der Sesshaftigkeit|Carel van Schaik und Kai Michel]]:** Mit dem Vorrat, den einzelne anhäufen können, beginnt der Weg aus der Gleichheit in die Herrschaft; jeder Schritt ergab Sinn, das Ganze nicht.
+- **[[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Arbeitszeit und Erholung|Annette Kehnel]]:** Der große Anstieg der Arbeitszeit kam mit der Industrialisierung; früher hatten die Menschen mehr freie Tage.
 
 </details>
 
@@ -157,8 +164,10 @@ Offen ist auch, ob eine Demokratie ohne Wachstum hält. Lange und Schmelzer halt
 | 15.10.2026 | [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Grünes Wachstum oder Postwachstum?|Veronika Grimm — Der Preis als Signal]] | Geht Wohlstand ohne Wachstum? Entkopplung in Deutschland (OWID), Haberl 2020, Vogel & Hickel 2023, Savin & van den Bergh 2024 — die Frage, die das Panorama zuerst vorschlug |
 | 28.10.2026 | [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren#Nachbesprechung|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]] | Geht Wohlstand ohne Wachstum — und hält dann die Demokratie? Lange & Schmelzer (Intereconomics 2025), Japan als „stagnation mode of regulation“ (Driouich, EAJS 2026); Stimmen Lange & Schmelzer, Driouich |
 | 31.10.2026 | [[Tom Krebs — Kapital und Krise#Wie misst man, was fehlt?\|Tom Krebs — Kapital und Krise]] | Trendlücke gegen Potenzial: Hysterese (Cerra & Saxena, Ball), Potenzialschätzungen folgen dem Output (Coibion et al.), Fatás-Kreislauf, Zerlegung der zwölftausend Euro |
----
 | 13.11.2026 | [[Erich Fromm — Haben oder Sein#Nachbesprechung|Erich Fromm — Haben oder Sein]] | Macht mehr Geld zufriedener: Materialismus und Wohlbefinden (Dittmar u. a. 2014), Haltung statt Betrag |
+| 22.11.2026 | [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses#Das Paradox des Überflusses\|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]] | Macht mehr Geld zufriedener, über Gesellschaften und Jahrhunderte: Easterlin 2010, O'Connor 2026 gegen Hagerty & Veenhoven, Galbraith 2024, Agta (Dyble 2019), Bhui/Chudek/Henrich, Gurven & Kaplan, Armut (OWID), Kriege 2025 (PRIO), Cirillo & Taleb · Harari, Suleyman, van Schaik und Michel, Kehnel als Stimmen |
+
+---
 
 ## Verbindungen
 

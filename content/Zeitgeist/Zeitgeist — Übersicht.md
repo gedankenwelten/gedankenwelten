@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*384 Notes — automatisch generiert · nach Thema sortiert*
+*386 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -351,6 +351,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Torsten Heinrich — Was die Tagesschau verschweigt|Torsten Heinrich — Was dir die Tagesschau verschweigt]] — Neutralität hält Torsten Heinrich für eine Lüge, Objektivität nicht. Ein langes Gespräch über Quellenkritik, Völkerrecht in der Ukraine und in Gaza – und seinen Weg von der AfD nach Panama.
 - [[Zeitgeist/Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]] — Dass ein langer Krieg Europa nützt, heißt nicht, dass er so geplant war. Torsten Heinrich trennt Nutzen von Absicht und beschreibt eine Ukraine mit zu viel zum Sterben, zu wenig zum Siegen.
 - [[Zeitgeist/ZDF — Wehrdienst verweigern|Wehrdienst verweigern? Eine Frage des Gewissens]] — Ein Pfarrer, der einst verweigerte, zieht Flecktarn an. Ein Sanitäter, der getötet hat, nennt sich Pazifist. Vier Menschen suchen, was ihr Gewissen sagt, wenn der Staat wieder fragt.
+- [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht|Wer den Spritpreis macht]] — Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
 - [[Zeitgeist/Yisrael Medad — Der Siedler und sein Recht|Yisrael Medad — Der Siedler und sein Recht]] — Ein Siedler seit 45 Jahren erklärt ruhig, warum das Völkerrecht irrt, warum es keinen palästinensischen Staat geben wird — und sagt auf die härteste Frage des Gesprächs schlicht: klar.
 - [[Zeitgeist/Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] — Im Oktober wurden in 700 französischen Supermärkten die Kühltruhen warm. Ein Abend über verwundbare Netze, Menschen, die auf Links klicken, und die Frage, ob es den Cyberkrieg wirklich gibt.
 
@@ -410,6 +411,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck|Michael Sterner — Söders Energie-Irrtum: Faktencheck]] — Söder nennt hundert Prozent Erneuerbare einen „Traum“. Der bayerische Energieforscher Michael Sterner prüft nach und fragt, wessen Plan wirklich unrealistisch ist.
 - [[Zeitgeist/MONITOR — Minijobs als Armutsfalle|MONITOR — Minijobs als Armutsfalle]] — Gedacht als Brücke in reguläre Arbeit, wirken Minijobs oft als Klebefalle. MONITOR zeigt Menschen mit drei Jobs und ohne Absicherung – und eine Union, die darüber streitet.
 - [[Zeitgeist/MONITOR — Sparhammer gegen Jugendliche|MONITOR — Sparhammer gegen Jugendliche]] — Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: 2,7 Milliarden Euro Kürzungen bei der Jugendhilfe — und eine geheime Kanzleramt-Liste, die noch tiefer einschneidet.
+- [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]] — Der Chef von Microsoft AI verspricht eine KI, die dem Menschen dient und nie zu fühlen glaubt. Der Historiker fragt, ob man Götter erschaffen und als Sklaven halten kann.
 - [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System: How Tech Futures Get Made]] — Hype ist kein Rauschen, sondern ein System aus Subsystemen und Feedback-Loops — und KI-Kritiker verstärken ungewollt genau den Hype, den sie bekämpfen.
 - [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]] — Nur 7 % der globalen Materialströme kehren in den Kreislauf zurück. Nicole Bendsen will die Bewertungslogik der Wirtschaft drehen: Zirkularität nicht als Moral, sondern als Risikorechnung.
 - [[Zeitgeist/Patrick Legun — Die Ziegelsklaven von Lahore|Patrick Legun — Die Ziegelsklaven von Lahore]] — Ein Kredit für ein krankes Kind, ein Vertrag, den niemand lesen kann — und eine Familie, die drei Generationen später noch Ziegel formt, um Zinsen abzutragen.

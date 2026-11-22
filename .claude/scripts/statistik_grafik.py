@@ -21,6 +21,10 @@ Drei Formen (Feld "art"):
                         {"titel": "je 100.000", "art": "balken", "farbe": 1, "nachkomma": 1}],
             "zeilen": [["Deutschland", 71036222, 7255, 10.2], ...]}
 
+  intervall {"gruppen": [{"titel": "B⁰ in zwei Myonen", "max": 2, "schritt": 0.5, "nachkomma": 2,
+                          "zeilen": [["Vorhersage", 1.03, 0.98, 1.08, 2], ["Messung", 1.14, 0.75, 1.56, 1]]}, ...],
+            "legende": [[2, "…"], [1, "…"]]}   # Punkt mit Unsicherheitsbereich, je Gruppe eigene Achse ab null
+
 Gemeinsam: "titel", "untertitel", "quelle" (Pflicht — Datenquelle; die Lizenzzeile hängt das Skript
 an). Zahlen deutsch formatiert (7.255 · 10,2). Balken beginnen immer bei null.
 """
@@ -179,7 +183,39 @@ def form_tabelle(s):
     return "", svg(teile, H, viewbox=f"-6 0 {IW + 12} {H}")
 
 
-FORMEN = {"balken": form_balken, "hantel": form_hantel, "tabelle": form_tabelle}
+def form_intervall(s):
+    """Wert mit Unsicherheitsbereich (z. B. Messung gegen Vorhersage); jede Gruppe hat ihre eigene Achse ab null."""
+    L, R = 210, IW - 30
+    teile, y = [], 0
+    for g in s["gruppen"]:
+        mx = g["max"]
+        x = lambda v, mx=mx: L + (R - L) * v / mx
+        nk = g.get("nachkomma")
+        teile.append(t(0, y + 16, g["titel"], size=13.5, weight=600))
+        y += 30
+        oben = y
+        y += 6 + 34 * len(g["zeilen"])
+        schritt = g.get("schritt") or mx / 4
+        v = 0
+        while v <= mx + 1e-9:
+            teile.append(f'<line x1="{x(v):.1f}" y1="{oben}" x2="{x(v):.1f}" y2="{y}" stroke="{GRID}"/>')
+            teile.append(t(x(v), y + 17, zahl(v, 1 if not float(v).is_integer() else 0), size=12, fill=MUTED, anchor="middle"))
+            v += schritt
+        for i, (lab, w, lo, hi, f) in enumerate(g["zeilen"]):
+            cy = oben + 20 + 34 * i
+            teile.append(t(14, cy + 4.5, lab, fill=TXT2))
+            teile.append(f'<line x1="{x(lo):.1f}" y1="{cy}" x2="{x(hi):.1f}" y2="{cy}" stroke="{F[f]}" '
+                         f'stroke-width="3" stroke-linecap="round" opacity="0.55"/>')
+            for e in (lo, hi):
+                teile.append(f'<line x1="{x(e):.1f}" y1="{cy - 7}" x2="{x(e):.1f}" y2="{cy + 7}" stroke="{F[f]}" stroke-width="2"/>')
+            teile.append(f'<circle cx="{x(w):.1f}" cy="{cy}" r="6.5" fill="{F[f]}" stroke="{SURF}" stroke-width="2"/>')
+            teile.append(t(x(hi) + 12, cy + 4.5, zahl(w, nk), size=12.5, weight=600, num=True))
+        y += 40
+    leg = legende(s["legende"]) if s.get("legende") else ""
+    return leg, svg(teile, y)
+
+
+FORMEN = {"balken": form_balken, "hantel": form_hantel, "tabelle": form_tabelle, "intervall": form_intervall}
 
 
 def seite(s, leg, korpus):

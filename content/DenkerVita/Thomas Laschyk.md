@@ -97,3 +97,4 @@ Wer seine Texte liest, liest also beides: sorgfältig recherchierte Belege und e
 
 - [[Thomas Laschyk — Vermoegenssteuer gegen Fake News]] — Reichweite ist käuflich: warum Laschyk die Vermögensteuer für das wirksamste Mittel gegen Desinformation hält
 - [[Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Laschyks Volksverpetzer-Analyse zur Studie über BILDs „Heizungshammer“ als Quelle
+- [[Thomas Laschyk — Wer den Spritpreis macht]] — der Tankrabatt 2026 als Symptom: Oligopol, Markttransparenz, ein Kartellamt mit stumpfem Schwert und die Entflechtung als „kapitalistische Antwort“

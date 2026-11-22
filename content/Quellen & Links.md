@@ -5263,6 +5263,17 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch** | *Werbung für die Wahrheit* (Komplett-Media 2024) — [genialokal](https://www.genialokal.de/Suche/?q=laschyk+werbung+wahrheit) |
 | **Transkript** | `Gedankenwelten/Transkripte/Laschyk_Vermoegenssteuer_FakeNews_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 
+## Thomas Laschyk (Volksverpetzer) — Wer den Spritpreis macht
+
+| | |
+|---|---|
+| **Video** | [Das System ist kaputt!](https://www.youtube.com/watch?v=ppNjzCkjcM0) — Volksverpetzer, 25.10.2026 (31 Min.) |
+| **Notiz** | [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht]] |
+| **DenkerVita** | [[DenkerVita/Thomas Laschyk]] |
+| **Quellenliste des Kanals** | [Proton Drive](https://drive.proton.me/urls/2JY47N9X4W#erKs1AITrRuu) (ließ sich nicht öffnen) |
+| **Textvorlage** | [Warum der Tankrabatt wirklich floppt](https://www.volksverpetzer.de/analyse/tankrabatt-2026-flopp/) (Volksverpetzer, 06.05.2026) |
+| **Transkript** | `Gedankenwelten/Transkripte/Laschyk_Tankrabatt_ppNjzCkjcM0_Transkript.txt` (YouTube-Untertitel, deutsch) |
+
 ## Joon Sung Park / Project Sid — KI-Agenten vom Dorf zur Zivilisation
 
 | | |
