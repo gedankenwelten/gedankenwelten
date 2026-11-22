@@ -317,3 +317,7 @@ Was Mattei als Trinität der Austerität beschreibt, verteidigt Grimm Ende 2022 
 ### → [[Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
 
 Driouichs Kuchenrechnung erklärt die Austerität ökonomisch: Ohne Wachstum lassen sich Gewinne nur über Löhne und Steuern halten. Anders als Mattei lässt Driouich offen, ob das Absicht war.
+
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+Was Mattei am Italien von 1920 zeigt, Kapital, das gegen Arbeiterunruhen die Gewalt der Umverteilung vorzieht, rechnet ein Arbeitspapier von Acemoglu als Modell durch. Bei ihm geschieht es erst ab einem Kipppunkt, bei Mattei gehört es zum Kern des Kapitalismus.

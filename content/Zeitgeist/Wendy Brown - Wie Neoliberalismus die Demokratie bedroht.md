@@ -330,6 +330,10 @@ Konträre Antworten auf dieselbe Diagnose: Gabriel glaubt, der Kapitalismus sei 
 
 Brown beschreibt die stille Revolution der Neoliberalen der Vierzigerjahre; Weber geht zu ihrem Gründungstext zurück, Hayeks *Weg zur Knechtschaft*, der nur die Wahl ließ, sich dem Markt oder anderen Menschen unterzuordnen. Die Spirale des kaputtgesparten Staates, die Brown mit Johnson beschreibt, setzt Weber den Gegenbeweis im Kleinen entgegen: einen Staat, der wieder sichtbar handelt.
 
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+Die neue Note greift Browns Aushöhlung der Demokratie auf: Im Modell überlebt sie, solange sie das Kapital wenig belastet, und der Ausblick der Autoren nennt die Vereinnahmung als zweiten Weg. Die Form bleibt, der Inhalt schrumpft, dort als Kostenrechnung.
+
 ---
 
 ## Weiterdenken

@@ -266,7 +266,41 @@ Darum verdient das Papier Aufmerksamkeit, und Scobel betont es zu Recht. Eine Ü
 
 ## Verbindungen
 
-VERBINDUNGEN
+### → [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Wenn Kontrolle billig wird|Aladin El-Mafaalani — Wenn Kontrolle billig wird]]
+
+Was das Modell nur rechnet, hat der Politikwissenschaftler Xu Xu in China gemessen, so steht es in El-Mafaalanis Note: In Kreisen, die digitale Überwachung einführten, stiegen die Ausgaben für Sicherheit und die Festnahmen von Aktivisten, die Ausgaben für öffentliche Güter sanken. Das ist der Tausch von Umverteilung gegen Repression. Ausgelöst hat ihn dort die bessere Information des Staates, keine Automatisierung, und er geschah in einem Parteistaat. Weiter im Panorama: [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit#Wo kippt Schutz in Herrschaft?|Wo kippt Schutz in Herrschaft?]]
+
+### → [[Panorama/Wie kann Demokratie funktionieren#Was braucht Demokratie von ihren Bürgern?|Wie kann Demokratie funktionieren?]]
+
+Hier steht der stärkste Gegenbefund zum Modell. Nach Przeworski und Limongi (1997), wie das Panorama sie wiedergibt, ist eine bestehende Demokratie in einem reichen Land noch nie gefallen, und Acemoglus eigene Forschung von 2008 fand, dass Reicherwerden Länder kaum demokratischer macht. Das stützt Scobels Einwand mit Skandinavien. Ob die reichen Demokratien halten, weil Repression in Wirklichkeit teurer ist als im Modell, oder weil die Automatisierung den Kipppunkt noch nicht erreicht hat, lässt sich daraus nicht entscheiden.
+
+### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]]
+
+Der historische Fall zum Modell, wie Mattei ihn erzählt: Nach den Fabrikbesetzungen in Italien 1920 begrüßten liberale Ökonomen und der Chef der Bank of England Mussolini, damit „das Pendel nicht zu weit in die andere Richtung“ schwinge. Der faschistische Staat verbot Streiks, kürzte Löhne per Dekret und schaffte die Erbschaftsteuer ab, unterdrückte also und verteilte nicht, wie es das Modell für den repressiven Staat beschreibt. Mattei geht weiter als Acemoglu: Für sie ist Austerität der Kern des Kapitalismus, mit einem faschistischen und einem liberal-technokratischen Weg zum selben Ziel. Einen Kipppunkt braucht sie dafür nicht.
+
+### → [[Zeitgeist/Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritaeren|Martin Oetting und Riwan Driouich — Braucht die Wirtschaft die Autoritären?]]
+
+Driouich beschreibt die Bedingung, die das Modell als Schwelle fasst. Die meisten Kapitaleigner zögen liberale Demokratien vor, nur ein Teil wende sich der extremen Rechten zu, sobald er glaubt, die alten Eliten könnten die Ordnung nicht mehr sichern. Das stützt Scobels Einwand gegen den einen Kapitalistenstaat. Zugleich widerspricht Driouich dem Antrieb des Modells: Der historische Faschismus habe auf eine starke Linke reagiert, heute öffne gerade ihr Fehlen den Raum. Wenn das stimmt, fehlt heute genau die Drohung des Aufstands, von der das Modell ausgeht.
+
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Warum gerade jetzt? Die Wachstumsfalle|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+
+Mühlhoff kommt mit anderem Werkzeug zu einem verwandten Schluss. Will die KI-Industrie weiter exponentiell wachsen, stößt sie bis 2030 an die Grenzen dessen, was demokratische Politik noch befürworten kann, und werde die Demokratie „wegballern“ müssen. Bei ihm wird die Demokratie zu teuer, weil sie Strom, Wasser und Privatsphäre begrenzt, im Modell, weil sie umverteilt. Seine Note beschreibt eine Industrie, die das Betriebssystem des Staates werden will, und damit die Vereinnahmung, die die Autoren als nächsten Forschungsschritt nennen.
+
+### → [[DenkerVita/Peter Thiel|Peter Thiel]]
+
+Ein Kapitaleigner, der den Satz des Modells als Überzeugung aufgeschrieben hat. 2009 glaubte er nicht mehr, dass Freiheit und Demokratie vereinbar seien, und nannte unter den Gründen die gewachsene Zahl der Sozialleistungsempfänger und das Frauenwahlrecht. Später sprach er von einer statistischen Beobachtung und schrieb, niemandem solle das Wahlrecht genommen werden. Sein Ausweg im Essay ist die Flucht aus der Politik, ins Netz, ins All, aufs Meer. Im Modell stürzen die Kapitaleigner die Demokratie, Thiel wollte ihr damals entkommen.
+
+### → [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
+
+Brown beschreibt eine Demokratie, die von innen ausgehöhlt wird, während weiter gewählt wird, und an deren Stelle die Märkte regieren oder die Reichen. Das Modell gibt dem zweiten Überlebensweg, der Vereinnahmung, eine Kostenrechnung. Browns Mechanismus reicht tiefer: Bei ihr formt die neoliberale Vernunft auch die Regierten zu Humankapital um. Im Modell kennen die Arbeiter ihr Interesse und wägen nur ab, ob sie sich erheben.
+
+### → [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft]]
+
+Die Spur fragt, wohin das Seil zwischen geteilter Fülle und goldenen Türmen rutscht. Ihr erstes Signal lautet: Wie behandelt eine Gesellschaft die, die sie nicht mehr braucht? Das Papier rechnet einen der beiden Ausgänge durch, unter Annahmen, die es selbst noch nicht geprüft hat. Für den Verlauf der Spur ist es darum kein Messpunkt, eher eine Begründung, warum das Seil zu den Türmen zieht, wenn nichts dagegenhält.
+
+### → [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|Die goldenen Türme — eine Dystopie der Maschinen-Ära]]
+
+Lucs Dystopie erzählt, was das Modell als Annahme setzt: Die Arbeiter verlieren ihren Hebel, und Macht brauchte bisher die Vielen, auch die Soldaten, die meutern konnten. Darauf stützt das Papier den festen Preis der Repression, sie braucht Armee und Sicherheitskräfte. Die Dystopie denkt den Schritt weiter, den das Papier nur als Vermutung nennt: eine Herrschaft, die die Vielen nicht mehr braucht. Auch die Bunker der Reichen, die das Papier erwähnt, kommen bei ihr vor.
 
 ---
 

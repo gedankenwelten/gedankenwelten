@@ -90,6 +90,7 @@ Ihre stärkste Leistung ist eine Vorhersage, die eintrat. Die Preisdeckel, für 
 - [[DenkerVita/Ines Schwerdtner|Ines Schwerdtner]] — Hat den Begriff der antifaschistischen Wirtschaftspolitik nach Trumps Wiederwahl aufgegriffen und in Parteiprogrammatik übersetzt.
 - [[DenkerVita/Andreas Audretsch|Andreas Audretsch]] — Rang 2022 mit ihr um die Gaspreisbremse und sitzt bei der Buchpremiere neben ihr; er übersetzt ihr Argument in die Sprache der Kontrolle, die die Rechte für sich beansprucht.
 - [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Ko-Vorsitzende der Gaskommission 2022, in der Weber Mitglied war. Sie liest dieselbe Gaspreisbremse als Einmalzahlung, die den Sparanreiz der letzten Kilowattstunde erhält, und lehnt Preiskontrollen ab — die Gegenstimme in [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Die Gaskommission|Jung & Naiv 612]].
+- [[DenkerVita/Daron Acemoglu|Daron Acemoglu]] — bindet wie Weber die Rettung der Demokratie an geteilten Wohlstand, sucht ihn aber in Institutionen und Gegenmacht statt in Preisinstrumenten
 
 ## Gedankenwelten-Notes
 

@@ -316,6 +316,10 @@ Im November erzählt Oetting die Kuchenrechnung ein drittes Mal, jetzt als Erkl�
 ### → [[Zeitgeist/Barbara Prainsack — Solidaritaet NEU DENKEN|Barbara Prainsack — Solidarität NEU DENKEN]]
 Nullsummendenken empirisch: Wer in einer wachsenden Wirtschaft aufwuchs, denkt seltener, dass der Gewinn des einen der Verlust des anderen ist.
 
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+Acemoglus Modell fasst als Schwelle, was Driouich als Bedingung beschreibt: Ab wann ziehen Kapitaleigner das Autoritäre der Demokratie vor? Driouichs Einwand, der heutige Rechtsruck wachse aus der Schwäche der Linken, trifft auch das Modell, das von der Drohung eines Aufstands ausgeht.
+
 ---
 
 ## Weiterdenken

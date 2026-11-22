@@ -98,6 +98,7 @@ Wir ordnen Rainer Mühlhoff einer machtkritischen, kapitalismuskritischen Philos
 - [[DenkerVita/Carlotta Voss|Carlotta Voß]] — Sie empfiehlt sein Buch am Ende ihres Dresdner Leseabends, und gerade daran wird ihre offene Frage scharf: Bei Mühlhoff trägt die KI-Ideologie den Staatsumbau, während Voß Asma Mhallas Gegenthese „heilsam“ findet, die Ideologie sei vor allem Ablenkung von ihm.
 
 - [[DenkerVita/Wolfgang Coy]] — Eine Generation früher und aus demselben Umfeld, dem Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, kritisierte Coy die Expertensysteme als überschätzt. Mühlhoffs Diskrepanz zwischen Können und Zutrauen hat dort ihren Vorläufer, ebenso sein Zweifel an Vorhersagen aus Datenmengen.
+- [[DenkerVita/Daron Acemoglu|Daron Acemoglu]] — sieht wie Mühlhoff in KI ohne Gegenmacht eine Umverteilung nach oben und rechnet durch, wann Kapitaleigner der Demokratie Repression vorziehen
 
 ## Gedankenwelten-Notes
 

@@ -102,6 +102,7 @@ Marx ist der Begründer des wissenschaftlichen Sozialismus und des Kommunismus a
 - [[DenkerVita/Immanuel Kant]] — Marx kritisiert den Idealismus, den Kant begründet hat. Nicht die Vernunft bestimmt die Geschichte, sondern die materiellen Bedingungen.
 - [[DenkerVita/Arthur Schopenhauer]] — Schopenhauer teilt mit Marx die Skepsis gegenüber dem Idealismus, zieht aber die entgegengesetzte Konsequenz: nicht Revolution, sondern Resignation.
 - [[DenkerVita/Albert Camus|Albert Camus]] — Sein Buch *Der Mensch in der Revolte* (1951) arbeitet sich an Marx ab. Camus kam selbst aus dem Elend, von dem Marx ausgeht, aus einem Arbeiterviertel von Algier. Das Ziel am Ende der Geschichte hielt er für eine weltliche Heilslehre, die die Lebenden für die Kommenden opfert, und darüber zerbrach 1952 seine Freundschaft mit Sartre.
+- [[DenkerVita/Daron Acemoglu|Daron Acemoglu]] — zitiert Marx über den Kampf gegen die Maschine und rechnet mit neoklassischem Werkzeug durch, wie Kapitaleigner der Revolte mit Repression zuvorkommen
 
 ---
 

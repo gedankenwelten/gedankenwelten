@@ -85,6 +85,7 @@ Wir ordnen Driouich der **marxistisch informierten Regulationstheorie** und der 
 - [[DenkerVita/Klaus Doerre]] — Dörres Landnahme, der Kapitalismus muss sich ausdehnen, um sich zu reproduzieren, und Driouichs Wachstumsabhängigkeit beschreiben denselben Zwang von zwei Seiten. Dörres autoritärer Liberalismus nach Heller ist die politische Form, die Driouich mit Gramsci als Übergang von Zustimmung zu Zwang beschreibt.
 - [[DenkerVita/Oliver Nachtwey]] — Nachtwey sieht das Altmodell sozialer Integration aus Wachstum und Aufstieg abgewirtschaftet und daraus Nullsummendenken entstehen; Driouich liefert die ökonomische Mechanik zu dieser Gefühlslage.
 - [[DenkerVita/Martin Oetting]] — Oetting erzählt Driouichs Vortrag auf YouTube nach und macht dabei aus einer Wirkung eine Absicht und aus einem Teil der Eliten „die große Mehrheit“. Er ist eher Vermittler als Denkpartner, aber über ihn erreicht Driouichs These ein deutsches Publikum.
+- [[DenkerVita/Daron Acemoglu|Daron Acemoglu]] — kommt über die Automatisierung zur selben Gabelung wie Driouich über die Stagnation: Wird Umverteilung zu teuer, liegt der Griff zur Repression nahe
 
 ## Gedankenwelten-Notes
 

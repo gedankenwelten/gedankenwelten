@@ -426,6 +426,10 @@ Was Demokratie von ihren Bürgern braucht, wird in der Schule geübt oder verler
 
 Zu „Wer gehört zum Demos?“: Kinder sind die kleinste Gruppe, ihre Eltern haben oft keinen Pass, und eine Juristin schlägt vor, die fehlende Stimme in ein Anhörungsverfahren neben der Wahl zu legen, statt das Wahlrecht auszuweiten.
 
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+Ein Modell, nach dem eine umverteilende Demokratie für Kapitaleigner mit wachsendem Kapital untragbar wird; der Befund von Przeworski und Limongi, dass reiche Demokratien nicht fallen, ist sein stärkster Gegenbeleg.
+
 ---
 
 ## Weiterdenken

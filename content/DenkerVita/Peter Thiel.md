@@ -165,6 +165,7 @@ Thiel nennt sich libertär und christlich. Beobachter beschreiben ihn als konser
 - [[DenkerVita/Michael Hartmann|Michael Hartmann]] — Eliten, die unter sich bleiben; die Abschottung als zweite Gestalt der Elitenerziehung
 - [[DenkerVita/Theodor W. Adorno|Theodor W. Adorno]] — *Erziehung nach Auschwitz*: wer hart gegen sich wird, erkauft sich das Recht, hart gegen andere zu sein
 - [[DenkerVita/Hannah Arendt|Hannah Arendt]] — die Gegenstimme zum Ausweg: Freiheit entsteht für sie gerade im gemeinsamen Handeln der Vielen, im Politischen, aus dem Thiel entkommen will
+- [[DenkerVita/Daron Acemoglu|Daron Acemoglu]] — der Gegenpol: hält geteilten Wohlstand für die Bedingung der Demokratie und rechnet im Modell den Kapitaleigner durch, dem die umverteilende Demokratie zu teuer wird
 
 René Girard, Leo Strauss und Carl Schmitt, die drei Denker, aus denen Thiel sein Weltbild baut, haben im Garten noch keine eigene Note.
 

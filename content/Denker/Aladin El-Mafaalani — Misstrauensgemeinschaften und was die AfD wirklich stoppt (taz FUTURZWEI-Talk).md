@@ -621,6 +621,10 @@ Nach den Midterms 2026 sagen Bernd Pickert und Barbara Junge über J. D. Vance, 
 
 Bogners Schnittstellenskepsis ist das Misstrauen gegen die Rolle im System, das El-Mafaalani bei seinen Freunden erlebte; anders als El-Mafaalani, der bei gefestigt Misstrauenden kurzfristig wenig für machbar hält, sucht Bogner das Gespräch mit ihnen, auch wenn er in zwölf Gesprächen niemanden bekehrte.
 
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+El-Mafaalanis „Kontrolle ist viel billiger geworden“ bekommt hier ein Modell: Acemoglu, Gitmez und Shadmehr rechnen durch, wann ein Staat der Kapitaleigner Repression der Umverteilung vorzieht. Xus Befund aus China zeigt denselben Tausch, ausgelöst durch Information statt Automatisierung.
+
 ---
 
 ## Weiterdenken

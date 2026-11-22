@@ -570,6 +570,10 @@ Barbara Prainsack kommt aus der Daten-Governance zum selben Schluss wie Mühlhof
 
 Die Probe auf die prädiktive Privatheit am Gehirn: Ein Decoder lernt an Menschen, die mitmachen. Marcello Ienca setzt auf die freie Entscheidung des Einzelnen, mit wem er seine Gehirndaten teilt; Mühlhoffs Gedanke zeigt, warum die allein nicht reicht.
 
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+Ein ökonomisches Modell, in dem die Demokratie den Kapitaleignern mit wachsendem Kapital zu teuer wird. Bei Mühlhoff stößt die KI-Industrie an demokratische Grenzen, weil sie Ressourcen braucht, im Modell, weil die Demokratie umverteilt.
+
 ---
 
 ## Weiterdenken

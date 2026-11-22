@@ -102,6 +102,7 @@ tags: [denker-vita, demokratie, kapitalismus, neoliberalismus, usa, philosophie,
 - [[DenkerVita/Markus Gabriel]] — Konträre Antworten auf dieselbe Diagnose. Gabriel hält den Kapitalismus durch Ethik und *true profit* für reformierbar. Folgt man Brown, ist das ein Kategorienfehler, weil die Marktvernunft auch die Ethik schon in ihre Sprache übersetzt hat, in ESG und Impact Investing.
 - [[DenkerVita/Ulf Poschardt]] — Die Gegenlektüre ihres Freiheitsbegriffs. Was Poschardt an Milei und Musks DOGE bewundert, den radikalen Rückbau des Staates, beschreibt Brown als Abbau der Bedingungen, unter denen ein Volk sich selbst regiert, und in *In the Ruins* als den Boden, auf dem antidemokratische Bewegungen wachsen. Poschardt grenzt sich von der AfD ab; ob sein Programm trotzdem in Browns Muster fällt, ist die Frage, die ihm seine Kritiker stellen.
 - [[DenkerVita/Pankaj Mishra]] — Ursache und Nachbeben: Brown beschreibt die Mechanik, mit der das Versprechen von 1789 ökonomisch ausgehöhlt wird, Mishra den Zorn derer, denen Gleichheit versprochen und verweigert wurde. Er sucht die Wurzel tiefer, bei Rousseau und im Ressentiment der Moderne selbst, sie in einer Regierungsrationalität des späten 20. Jahrhunderts.
+- [[DenkerVita/Daron Acemoglu|Daron Acemoglu]] — sieht die Demokratie wie Brown von innen ausgehöhlt, erklärt es aber mit Macht und Institutionen und hofft auf einen erneuerten Liberalismus
 
 ## Gedankenwelten-Notes
 

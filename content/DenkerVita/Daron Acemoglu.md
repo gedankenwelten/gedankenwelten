@@ -95,7 +95,13 @@ Die Institutionen-These ist einflussreich und umstritten. Der Ökonom David Y. A
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Karl Marx|Karl Marx]] — Marx erwartete, dass der Kapitalismus an Konzentration und Verelendung zerbricht; Acemoglu, Ökonom mit neoklassischem Werkzeug, rechnet in *Automation and Repression* die Gegenbewegung durch, mit der Kapitaleigner der Revolte zuvorkommen, und zitiert dort Marx über den Kampf des Arbeiters gegen die Maschine.
+- [[DenkerVita/Clara Mattei|Clara Mattei]] — Die stärkste Gegenstimme zu seiner Hoffnung: Für Mattei ist Austerität der Kern des Kapitalismus, und ihr Italien von 1920 ist der Fall, in dem Kapital und liberale Ökonomen den Faschismus der Umverteilung vorzogen; Acemoglu hält breit geteilten Wohlstand in Markt und Demokratie für erreichbar, wo Gegenmacht ihn erzwingt.
+- [[DenkerVita/Wendy Brown|Wendy Brown]] — Beide sehen die Demokratie von innen ausgehöhlt, während ihre Institutionen stehen; Acemoglu erklärt das mit Macht und Institutionen und sucht die Rettung in einem erneuerten Liberalismus, Brown mit einer neoliberalen Vernunft, die den Demos in Humankapital zerlegt.
+- [[DenkerVita/Peter Thiel|Peter Thiel]] — Der Gegenpol: Thiel schrieb 2009, Freiheit und Demokratie seien nicht vereinbar, und nannte die gewachsene Zahl der Sozialleistungsempfänger unter den Gründen; Acemoglu hält geteilten Wohlstand für die Bedingung, unter der Demokratie überlebt, und beschreibt in seinem Modell den Kapitaleigner, dem die umverteilende Demokratie zu teuer wird.
+- [[DenkerVita/Isabella Weber|Isabella Weber]] — Beide binden die Rettung der Demokratie an geteilten Wohlstand; Weber beruft sich auf den Gründungskonsens von 1945, nach dem eine Ordnung gegen den Faschismus Würde und Grundbedürfnisse in die Mitte stellt, und übersetzt ihn in Instrumente wie Preisdeckel, Acemoglu sucht ihn in Institutionen und Gegenmacht.
+- [[DenkerVita/Riwan Driouich|Riwan Driouich]] — Zwei Wege zur selben Gabelung: Bei Driouich lassen sich die Profite ohne Wachstum nur noch auf Kosten von Löhnen und Steuern halten, in Acemoglus Modell wird Umverteilung mit jeder Maschine teurer; die meisten Kapitaleigner hält Driouich allerdings für Anhänger der liberalen Demokratie.
+- [[DenkerVita/Rainer Mühlhoff|Rainer Mühlhoff]] — Beide sehen in KI ohne Gegenmacht eine Umverteilung von unten nach oben; Mühlhoff fügt hinzu, dass die Industrie das Betriebssystem des Staates werden will und an demokratische Grenzen stößt, sobald ihr Wachstum Strom, Wasser und Privatsphäre braucht.
 
 ---
 

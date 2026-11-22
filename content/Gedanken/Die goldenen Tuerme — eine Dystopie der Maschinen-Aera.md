@@ -125,6 +125,9 @@ Die Dystopie beantwortet seine Frage, indem sie zeigt, dass es die falsche ist. 
 
 Der Weg in die Türme, Wurf für Wurf. Ein KI-Vortrag rät gewöhnlichen Unternehmern, niemanden mehr einzustellen, und beschreibt dabei selbst die Flugbahn bis zum Zusammenbruch. Der Werfer vergisst den Stein nicht, er glaubt, woanders zu sein, wenn er fällt.
 
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+Was diese Dystopie erzählt, rechnen drei Ökonomen als Modell durch: Wer seinen Hebel verliert, wird ab einem Kipppunkt eher unterdrückt als versorgt. Das Papier nennt selbst die Vermutung, dass KI die Repression noch billiger macht.
 
 ---
 

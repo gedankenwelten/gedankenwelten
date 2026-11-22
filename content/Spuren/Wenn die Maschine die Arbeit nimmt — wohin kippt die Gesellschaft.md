@@ -223,6 +223,10 @@ Die Stimme, die das Seil für dünner hält, als es aussieht. Herrmann bestreite
 
 Das bislang stärkste Material für die Kalt-Bedingung dieser Spur, jedenfalls für die körperliche Hälfte der Arbeit. Der Robotiker Ronnie Vuine zeigt, dass generalistische Modelle bei rund siebzig Prozent Erfolgsquote stehen, wo die Produktion 99,x braucht, und dass die Humanoiden nicht an Intelligenz scheitern, sondern an Wartung. Sein Bild der funktionierenden Fabrik — die Roboter laufen, einer sitzt halb schlafend daneben am Telefon — ist für Signal 2 und 3 zugleich doppeldeutig: befreite Zeit oder entwertete Anwesenheit?
 
+### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+
+Ein Theoriemodell zum Pol der Türme: Je mehr Maschinen arbeiten, desto teurer wird Umverteilung, während Repression einen festen Preis hat. Es ist eine Rechnung unter Annahmen und kein Messpunkt für den Verlauf.
+
 ## Quellen
 
 *Pilot — die Quellenbasis wächst mit den Sweeps. Erste Anker:*
