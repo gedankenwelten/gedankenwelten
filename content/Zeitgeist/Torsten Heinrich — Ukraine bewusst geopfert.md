@@ -19,7 +19,7 @@ aliases:
 Quelle: [Wird die Ukraine bewusst geopfert, um Russland zu schwächen?](https://www.youtube.com/watch?v=WjiLGsZruRE)
 
 > [!info] Wer spricht?
-> **Torsten Heinrich M.A.** (*1982, Würzburg*) — Historiker, YouTuber und Geopolitik-Analyst. Gründete am Tag des russischen Einmarsches (24.02.2022) den YouTube-Kanal „Militär & Geschichte" (345.000+ Abonnenten). Ehemaliger Bundeswehr-Soldat, Magister in Geschichte (Uni Würzburg). Gründete und verließ die Junge Alternative (2013–2014), wanderte nach Panama aus. Pro-ukrainisch positioniert, besteht aber auf der Unterscheidung zwischen Position und Objektivität.
+> **Torsten Heinrich M.A.** (Jahrgang 1982) — Historiker, YouTuber und Geopolitik-Analyst. Die ersten Lageberichte auf seinem YouTube-Kanal „Militär & Geschichte" stammen vom Tag des russischen Einmarsches, dem 24.02.2022 (rund 390.000 Abonnenten, Stand November 2026). Ehemaliger Bundeswehr-Soldat, Magister in Geschichte (Uni Würzburg). 2013 erster Bundesvorsitzender der Jungen Alternative, 2014 aus der AfD ausgetreten, wanderte 2017 nach Panama aus. Pro-ukrainisch positioniert, besteht aber auf der Unterscheidung zwischen Position und Objektivität.
 > → [[DenkerVita/Torsten Heinrich|DenkerVita]]
 
 ---

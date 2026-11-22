@@ -24,7 +24,7 @@ Quelle: [tl;dr #51: Michel Foucaults Gouvernementalität | mit Isabell Lorey](ht
 > Kernthemen: Materialistische Staatstheorie (Poulantzas, Gramsci), Demokratietheorie, Kritische Theorie
 > → [[DenkerVita/Alex Demirovic|DenkerVita]]
 >
-> **Isabell Lorey** (*1964*) — Politikwissenschaftlerin, Professorin für Queer Studies an der Kunsthochschule für Medien Köln (KHM). Promotion 1996 über Judith Butler, Habilitation 2009 (Uni Wien). Kuratoriumssprecherin des Instituts Solidarische Moderne.
+> **Isabell Lorey** (*1964*) — Politikwissenschaftlerin, Professorin für Queer Studies an der Kunsthochschule für Medien Köln (KHM). Promotion 1996 über Judith Butler, Habilitation 2009 (Uni Wien). Mitglied im Kuratorium des Instituts Solidarische Moderne.
 > Wichtigste Werke: *Die Regierung der Prekären* (2012, Vorwort Judith Butler), *Demokratie im Präsens* (2020, Suhrkamp), *Figuren des Immunen* (2011)
 > Kernkonzepte: Gouvernementale Prekarisierung, Biopolitik, Immunisierung, präsentistische Demokratie
 > → [[DenkerVita/Isabell Lorey|DenkerVita]]
@@ -85,7 +85,7 @@ Quelle: [tl;dr #51: Michel Foucaults Gouvernementalität | mit Isabell Lorey](ht
 
 > *„Man kann sie nicht daraus ableiten, man muss sie erfinden."*
 
-[▶ 63:34](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3814) — Im Schlussgespräch greifen beide diesen Faden auf: Eine sozialistische Gouvernementalität müsste von **Sorgebeziehungen** her gedacht werden — Infrastrukturen der Sorge, soziale Ökologie, kollektive Lebensorganisation statt individualisierter Selbstoptimierung.
+[▶ 63:34](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3814) — Im Schlussgespräch greifen beide diesen Faden auf. Demirović will die sozialistische Gouvernementalität mit Praktiken der „langfristigen Sorge um unsere Lebensorganisation“ verbinden, mit sozialer Ökologie, und bringt dafür den Begriff der Infrastrukturen der Sorge ein. Lorey denkt sie „aus den Verbindungen heraus, von den **Sorgebeziehungen**“ her: kollektive Lebensorganisation statt individualisierter Selbstoptimierung.
 
 ### Erotisierung der Macht und Faschisierung
 
@@ -95,15 +95,19 @@ Quelle: [tl;dr #51: Michel Foucaults Gouvernementalität | mit Isabell Lorey](ht
 
 [▶ 60:33](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3633) — Lorey weitergedacht: Der Kern der faschistischen Subjektivierung ist nicht primär die Erotik, sondern das **Überlegenheitsgefühl** — die Lust, leiden zu machen und leiden zu lassen, als Selbstaffirmation der weißen, bürgerlichen Identität. *(Faktencheck: eigene theoretische Weiterentwicklung Loreys, nicht Foucault direkt)*
 
-### Entindividualisierung — gegen Identitätspolitik
+### Entindividualisierung — gegen die Fixierung auf Identität
 
-[▶ 52:13](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3133) — Lorey macht deutlich, dass Foucault radikal **anti-identitätspolitisch** denkt: Die Kämpfe gehen darum, die Bindung an sich selbst zu überwinden — Befreiung von der zugewiesenen Identität, nicht ihre Fixierung. Der rechte Vorwurf an die Linke, nur „Identitätspolitik" zu betreiben, verkennt genau diesen Punkt.
+[▶ 51:28](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3088) — Lorey: Foucault gehe es darum, „nicht nur nicht mehr dermaßen regiert zu werden, sondern gar nicht mehr regiert zu werden“. Für die Subjektivierungsweisen heiße das „eine Entindividualisierung“, weg davon, zum Individuum mit einer festen Identität zu werden.
 
-Demirović ergänzt mit Marx: Auch die Arbeiterklasse will ihre Identität als Klasse letztlich *loswerden*. Es geht nicht um Fixierung, sondern um die Möglichkeit, auf etwas ganz Neues zuzugehen — eine „nichtfaschistische Lebensweise zu erfinden".
+[▶ 52:13](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3133) — Demirović greift das mit Foucaults *Subjekt und Macht* auf: Die Kämpfe gingen darum, „die Bindung an sich selbst zu überwinden“, also einen **anti-identitätspolitischen** Befreiungskampf zu führen. Den rechten Vorwurf an die Linke, nur Identitätspolitik zu betreiben, nennt er darum „Unsinn“. Mit Marx ergänzt er: Auch die Arbeiterklasse will ihre Identität als Klasse letztlich *loswerden*. Es geht nicht um Fixierung, sondern um die Möglichkeit, auf etwas ganz Neues zuzugehen, eine „nichtfaschistische Lebensweise zu erfinden".
+
+Loreys Pointe weist in eine Richtung, die man nach dem Wort „anti-identitätspolitisch“ nicht erwartet: Foucault sei „auf der Seite derer, die heute als identitätspolitische Bewegung gebasht werden“. Bei ihnen liege ein Hinweis auf „eine andere Weise zusammenzuleben“.
 
 ### Sorgebeziehungen als Ausweg
 
-[▶ 62:49](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3769) — Im Schluss warnt Lorey davor, sich in den aktuellen Faschismusdiskussionen zu sehr an alten Kategorien festzuhalten. Es brauche neue Analysewerkzeuge — und neue Praxisformen. Der Ansatz: Von **Verbindungen** und **Sorgebeziehungen** her denken, nicht vom atomisierten Individuum. Loreys aktuelle Forschung zu „Infrastrukturen der Sorge" setzt genau dort an.
+[▶ 62:49](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3769) — Zum Schluss will Lorey „noch mal eine positive Geschichte“ erzählen: Es liege viel auf dem Tisch, was die Individualisierung aufbricht, „sehr stark aus queerfeministischen Kontexten, Theorie, aber auch Aktivismus“. Der Ansatz: „von den **Verbindungen** ausdenken, von den **Sorgebeziehungen** ausdenken“, um andere Formen von Gesellschaft und Demokratie zu entwerfen.
+
+[▶ 64:19](https://www.youtube.com/watch?v=sJjq4D9IWw0&t=3859) — Demirović stört an den aktuellen Faschismusdiskussionen, „dass ich manchmal das Gefühl habe, es ruft zu viel Altes auf“. Das verhindere, sich dem Neuen zuzuwenden. Lorey stimmt ihm zu und widerspricht zugleich ein Stück: „dass so neu das nicht ist, es liegt viel vor“. Seinen Begriff der Infrastrukturen der Sorge nimmt sie auf. Dazu wolle sie „die nächste Zeit“ forschen.
 
 > [!note] Eigene Einschätzung
 > Der Schluss des Gesprächs verbindet Foucaults analytische Kraft mit einer politischen Perspektive: Wenn der Neoliberalismus als Individualisierungsmaschine die Bedingung für die aktuelle Faschisierungstendenz geschaffen hat, dann liegt die Antwort nicht in mehr Staat (das wäre die alte linke Reflexreaktion), sondern in neuen Formen des Zusammenlebens — Sorge, Verbindung, kollektive Praxis. Das resoniert stark mit [[Hartmut Rosa — Resonanz und Unverfügbarkeit|Rosas Resonanztheorie]] und mit [[Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke|Maios Sorgekultur]].

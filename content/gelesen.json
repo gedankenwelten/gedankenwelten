@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 118,
-   "aufrufe": 142
+   "leser": 115,
+   "aufrufe": 139
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -69,17 +69,17 @@
    "aufrufe": 15
   },
   {
-   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-   "leser": 11,
-   "aufrufe": 11
-  },
-  {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
    "leser": 10,
    "aufrufe": 12
   },
   {
    "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+   "leser": 10,
+   "aufrufe": 10
+  },
+  {
+   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
    "leser": 10,
    "aufrufe": 10
   },
@@ -134,11 +134,6 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-   "leser": 7,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/DenkerVita/Kolja-Moeller",
    "leser": 7,
    "aufrufe": 7
@@ -164,6 +159,11 @@
    "aufrufe": 8
   },
   {
+   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/DenkerVita/Byung-Chul-Han",
    "leser": 5,
    "aufrufe": 7
@@ -185,11 +185,6 @@
   },
   {
    "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
    "leser": 5,
    "aufrufe": 5
   },
@@ -274,6 +269,11 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
    "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
    "leser": 4,
    "aufrufe": 4
@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 16,
-     "aufrufe": 19
+     "leser": 17,
+     "aufrufe": 20
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -330,8 +330,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 10,
-     "aufrufe": 10
+     "leser": 11,
+     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -369,11 +369,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 5,
      "aufrufe": 5
@@ -390,6 +385,11 @@
     },
     {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
      "leser": 4,
      "aufrufe": 4
     },
@@ -419,11 +419,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 3,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
      "leser": 3,
      "aufrufe": 4
@@ -435,11 +430,6 @@
     },
     {
      "pfad": "/DenkerVita/Jan-Keno-Janssen",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Kalayo",
      "leser": 3,
      "aufrufe": 3
     },
@@ -461,6 +451,11 @@
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 2,
      "aufrufe": 3
     },
     {
@@ -509,12 +504,22 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Kalayo",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Ronnie-Vuine",
      "leser": 2,
      "aufrufe": 2
     },
     {
      "pfad": "/DenkerVita/Stephan-Marks",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Wir-haben-noch-gar-nichts-gesehen",
      "leser": 2,
      "aufrufe": 2
     },
@@ -569,17 +574,17 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Udo-Marquardt",
-     "leser": 1,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
      "leser": 1,
      "aufrufe": 2
     },
     {
      "pfad": "/DenkerVita/Arnd-Henze",
+     "leser": 1,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Udo-Marquardt",
      "leser": 1,
      "aufrufe": 2
     },
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Andreas-Reckwitz-Fortschritt-NEU-DENKEN",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 118,
-     "aufrufe": 142
+     "leser": 115,
+     "aufrufe": 139
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -679,17 +679,17 @@
      "aufrufe": 15
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 11,
-     "aufrufe": 11
-    },
-    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 10,
      "aufrufe": 12
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 10,
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 10,
      "aufrufe": 10
     },
@@ -744,11 +744,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 7,
      "aufrufe": 7
@@ -774,6 +769,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 5,
      "aufrufe": 7
@@ -795,11 +795,6 @@
     },
     {
      "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
      "leser": 5,
      "aufrufe": 5
     },
@@ -884,6 +879,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
      "leser": 4,
      "aufrufe": 4
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1022,
-     "aufrufe": 1233
+     "leser": 1023,
+     "aufrufe": 1234
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -935,8 +935,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 123,
-     "aufrufe": 146
+     "leser": 124,
+     "aufrufe": 147
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1022,
-     "aufrufe": 1233
+     "leser": 1023,
+     "aufrufe": 1234
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1240,8 +1240,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 123,
-     "aufrufe": 146
+     "leser": 124,
+     "aufrufe": 147
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 29,
-     "aufrufe": 29
+     "leser": 28,
+     "aufrufe": 28
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1574,12 +1574,12 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 11,
-     "aufrufe": 11
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 10,
+     "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 10,
      "aufrufe": 10
     },
@@ -1779,6 +1779,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Elmar-Thevessen",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Patrick-Legun",
      "leser": 2,
      "aufrufe": 2
     }

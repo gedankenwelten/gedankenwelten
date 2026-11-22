@@ -21,9 +21,9 @@ aliases:
 Quelle: [Was dir die Tagesschau verschweigt (Militär-Experte)](https://www.youtube.com/watch?v=sTOcI1G7wgg)
 
 > [!info] Wer spricht?
-> **Torsten Heinrich M.A.** (*1982, Würzburg*) — Historiker, YouTuber und Geopolitik-Analyst.
+> **Torsten Heinrich M.A.** (Jahrgang 1982) — Historiker, YouTuber und Geopolitik-Analyst.
 >
-> Studierte Geschichte an der Uni Würzburg (Magister), diente bei der Bundeswehr. Seit Kindheitstagen von Militärgeschichte besessen — über 30 Jahre Beschäftigung mit Panzern, Waffentechnik und Konflikten. Gründete 2013 die Junge Alternative (Jugendorganisation der AfD), trat 2014 aus und nannte die Partei öffentlich „Partei der Spinner". Wanderte nach Panama aus (ca. 2017). Startete am 24.02.2022 — dem Tag des russischen Einmarsches — den YouTube-Kanal „Militär & Geschichte" (heute 345.000+ Abonnenten). Sammelte über 600.000 Euro für humanitäre Hilfe in der Ukraine. Pro-ukrainisch positioniert, betont aber radikal die Unterscheidung zwischen Position und Objektivität.
+> Studierte Geschichte an der Uni Würzburg (Magister), diente bei der Bundeswehr. Seit Kindheitstagen von Militärgeschichte besessen — über 30 Jahre Beschäftigung mit Panzern, Waffentechnik und Konflikten. 2013 erster Bundesvorsitzender der Jungen Alternative (Jugendorganisation der AfD), trat 2014 aus und nannte die Partei öffentlich „eine Partei der Spinner". Wanderte 2017 nach Panama aus. Die ersten Lageberichte auf seinem YouTube-Kanal „Militär & Geschichte" stammen vom 24.02.2022, dem Tag des russischen Einmarsches (rund 390.000 Abonnenten, Stand November 2026). Pro-ukrainisch positioniert, betont aber radikal die Unterscheidung zwischen Position und Objektivität.
 >
 > Kernkonzepte: Quellenkritik als historische Methode, Neutralität vs. Objektivität, Jus ad bellum vs. Jus in bello
 > → [[DenkerVita/Torsten Heinrich|DenkerVita]]
@@ -42,7 +42,7 @@ Aufnahmedatum: 8. April 2026. 4:23h-Gespräch auf dem Podcast *ungeskriptet* (Be
 
 „Anständig belegen" heißt für Heinrich nicht einfach eine Quelle angeben — sondern Quellenkritik: Wer hat es geschrieben? Mit welchem Interesse? Stimmt es mit anderen Quellen überein? Er nutzte im Studium Citavi für wissenschaftliches Zitieren und überträgt dieses Prinzip auf seine YouTube-Arbeit.
 
-[▶ 4:41](https://www.youtube.com/watch?v=sTOcI1G7wgg&t=281) — Konkret abonniert er ca. 25 pro-russische *und* pro-ukrainische Telegram-Kanäle, Think Tanks und Politiker beider Seiten. Seine Methode: Cross-Referencing. Eine pro-russische Quelle, die über russische Niederlagen berichtet, ist glaubwürdiger als eine, die nur Siege meldet — und umgekehrt. Verlustzahlen beider Seiten ignoriert er; er fokussiert auf visuell belegte Verluste. Territorialveränderungen meldet er nur, wenn beide Seiten sie bestätigen.
+[▶ 4:41](https://www.youtube.com/watch?v=sTOcI1G7wgg&t=281) — Bei heiklen Themen, sagt er, solle man „Farbe bekennen“ und klar sagen, was richtig und falsch ist, danach aber nicht „zum moralischen Lehrmeister werden“. Dass Russlands Invasion ein Verbrechen ist, habe er „sicherlich 50 Mal gesagt“, bei 600 Videos. Seine Aufgabe sei nicht, die Zuschauer zu belehren, sondern sie „so gut wie möglich“ zu informieren, und dazu gehöre, „dass ich keiner der beiden Seiten alles glaube“. Er habe auch ukrainische Kriegsverbrechen genannt. Sein Beispiel ist ein Massengrab russischer Soldaten nach der Befreiung von Isjum: Die ukrainische Erklärung, die Russen hätten ihre eigenen Verwundeten erschossen, wirke auf ihn „seltsam“, an keinem der Toten habe er Verbände gesehen. Ein ukrainisches Kriegsverbrechen macht er daraus ausdrücklich nicht: „ich bin der Letzte, der erklären wird, das war ein ukrainisches Kriegsverbrechen.“ Er fühle sich „mehr der Wahrheit verpflichtet als der Moral in der moralisierenden Funktion“.
 
 ---
 
@@ -187,7 +187,7 @@ Heinrich zieht den Appeasement-Vergleich bewusst vorsichtig: *„Man sollte nich
 > Heinrich: „Moskau, fünf Stunden Autofahrt vom Nordosten der Ukraine." Die Entfernung Charkiw–Moskau beträgt ca. 700 km, die Fahrzeit realistisch 8–10 Stunden (nicht 5). Die strategische Nähe ist korrekt, die konkrete Zeitangabe übertrieben. Keine unabhängige Quelle gefunden.
 
 > [!warning] Vereinfacht — Gründung der Jungen Alternative
-> Heinrich war Gründungsvorsitzender der JA (Juni 2013, Darmstadt). Die JA wurde später vom Verfassungsschutz als „gesichert rechtsextremistisch" eingestuft — aber unter völlig anderer Führung. Heinrichs Distanzierung 2014 und öffentliche Kritik („Partei der Spinner") sind gut dokumentiert, die Gleichsetzung wäre unfair. Quelle: [t-online](https://www.t-online.de/) / [hogn.de](https://www.hogn.de/)
+> Heinrich war 2013 der erste Bundesvorsitzende der JA, nach eigener Erinnerung im Juli gewählt. Die JA wurde später vom Verfassungsschutz als „gesichert rechtsextremistisch" eingestuft — aber unter völlig anderer Führung. Heinrichs Distanzierung 2014 und öffentliche Kritik („Partei der Spinner") sind gut dokumentiert, die Gleichsetzung wäre unfair. Quellen: [t-online, 12.10.2021](https://www.t-online.de/nachrichten/deutschland/parteien/id_90956584/afd-gut-zwei-dutzend-landes-und-bundeschefs-sind-schon-gegangen.html) („Gründungsvorsitzender“) · Heinrich selbst, [„Meine Geschichte in der AfD“ (2022)](https://www.youtube.com/watch?v=_fSG0EzZW-o)
 
 > [!warning] Vereinfacht — Spiegel-Formulierung als Beweis für Bias
 > Die Spiegel-Formulierung „Israel erwidert trotz Waffenruhe Feuer" ist als Einzelbeispiel für systemischen Medienbias dünn — es könnte auch ein redaktioneller Fehler sein. Heinrichs Grundthese (ungleiche Maßstäbe in der Israel-Berichterstattung) wird aber von Medienwissenschaftlern wie Sabine Schiffer diskutiert. Keine unabhängige Quelle für das konkrete Spiegel-Beispiel gefunden.
@@ -198,7 +198,7 @@ Heinrich zieht den Appeasement-Vergleich bewusst vorsichtig: *„Man sollte nich
 
 *Aus der Video-Beschreibung:*
 
-- [Militär & Geschichte — Hauptkanal](https://www.youtube.com/@milgeschichte) — Heinrichs YouTube-Kanal mit 345.000+ Abonnenten
+- [Militär & Geschichte — Hauptkanal](https://www.youtube.com/@milgeschichte) — Heinrichs YouTube-Kanal (rund 390.000 Abonnenten, Stand November 2026)
 - [Torsten Heinrich — Privatkanal](https://www.youtube.com/@TorstenHeinrich) — Zweitkanal
 - [ungeskriptet](https://www.ungeskriptet.com) — Podcast von Ben
 

@@ -33,10 +33,10 @@ aliases:
 > [!abstract] Worum es geht
 > Es gab keinen Vertrag, der die NATO-Osterweiterung verboten hätte — und trotzdem ist der Satz „die NATO hat uns betrogen" das Fundament, auf dem ein ganzes Argumentgebäude steht. Der Historiker Torsten Heinrich nimmt dieses Gebäude in achtzehn Minuten auseinander: Osterweiterung, Kosovo, „Völkermord im Donbass", „Putsch in Kiew", Sprachunterdrückung. Das Bemerkenswerte ist, wie er es tut — er räumt der Gegenseite systematisch ein, was ihr zusteht. Kosovo *war* ein Angriff. Die NATO ist *kein* rein defensives Bündnis. Die Absetzung Janukowytschs *war* formal ein Staatsstreich. Genau dadurch wird sichtbar, wo aus einem wahren Funken eine Rechtfertigung gebaut wird.
 
-Quelle: [Deutschland wird mit der NATO-Lüge gespalten! (Torsten Heinrich)](https://www.youtube.com/watch?v=wGGSq-dTlf8) — Ausschnitt aus der Folge [{ungeskriptet} mit Torsten Heinrich](https://www.youtube.com/watch?v=sTOcI1G7wgg&t=11238s) (August 2026)
+Quelle: [Deutschland wird mit der NATO-Lüge gespalten! (Torsten Heinrich)](https://www.youtube.com/watch?v=wGGSq-dTlf8) — Ausschnitt aus der Folge [{ungeskriptet} mit Torsten Heinrich](https://www.youtube.com/watch?v=sTOcI1G7wgg&t=11238s) vom April 2026, im August 2026 auf dem Kanal monvay veröffentlicht
 
 > [!info] Wer spricht?
-> **Torsten Heinrich M.A.** (*1982, Würzburg*) — Historiker, YouTuber und Geopolitik-Analyst. Gründete am Tag des russischen Einmarsches (24.02.2022) den Kanal „Militär & Geschichte" (345.000+ Abonnenten). Ehemaliger Bundeswehr-Soldat, Magister in Geschichte (Uni Würzburg). Gründete und verließ die Junge Alternative (2013–2014), wanderte nach Panama aus. Pro-ukrainisch und pro-transatlantisch positioniert — und besteht darauf, das offenzulegen, statt Neutralität zu behaupten.
+> **Torsten Heinrich M.A.** (Jahrgang 1982) — Historiker, YouTuber und Geopolitik-Analyst. Die ersten Lageberichte auf seinem Kanal „Militär & Geschichte" stammen vom Tag des russischen Einmarsches, dem 24.02.2022 (rund 390.000 Abonnenten, Stand November 2026). Ehemaliger Bundeswehr-Soldat, Magister in Geschichte (Uni Würzburg). 2013 erster Bundesvorsitzender der Jungen Alternative, 2014 aus der AfD ausgetreten, wanderte 2017 nach Panama aus. Pro-ukrainisch und pro-transatlantisch positioniert — und besteht darauf, das offenzulegen, statt Neutralität zu behaupten.
 > → [[DenkerVita/Torsten Heinrich|DenkerVita]]
 
 ---

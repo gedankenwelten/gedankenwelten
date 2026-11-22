@@ -399,7 +399,7 @@ Was Knaus als Alternative der Rechtspopulisten skizziert — man macht es wie Tr
 
 ### → [[Moellers und Poschardt — Welche Freiheit wollen wir]]
 
-Dort wird Judith Shklars *Freiheit von Furcht* an der Migrationsfrage zerrieben — Poschardt beansprucht sie für die Aufnahmegesellschaft, Möllers hält den kurzen Schluss von Migration auf Bedrohung für zu schnell. Knaus liefert den unbequemen Zwischenbefund: Die Furcht der Europäer ist real und wird gefüttert, aber sie richtet sich hier auf ein Ereignis, das keinen einzigen Menschen aufs Festland brachte. Wessen Furcht politisch zählt, entscheidet sich vor jeder Statistik.
+Dort wird Judith Shklars *Freiheit von Furcht* an der Migrationsfrage zerrieben — Poschardt beansprucht sie für die Aufnahmegesellschaft, Möllers hält seinen Sprung von der Migrationsfrage zum Antisemitismus für „einen ziemlich schnellen Schnitt“. Knaus liefert den unbequemen Zwischenbefund: Die Furcht der Europäer ist real und wird gefüttert, aber sie richtet sich hier auf ein Ereignis, das keinen einzigen Menschen aufs Festland brachte. Wessen Furcht politisch zählt, entscheidet sich vor jeder Statistik.
 
 ### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
 

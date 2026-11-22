@@ -30,7 +30,7 @@ aliases:
 Quelle: [Extremismus NEU DENKEN mit Matthias Quent und Maja Göpel](https://www.youtube.com/watch?v=ysX7UyTNiXY)
 
 > [!info] Wer spricht?
-> **Matthias Quent** (*1986 in Arnstadt, Thüringen*) — Soziologe, Rechtsextremismusforscher, Professor für Soziologie des Extremismus und der Extremismusprävention an der Hochschule Magdeburg-Stendal. Gründungsdirektor des Instituts für Demokratie und Zivilgesellschaft (IDZ) in Jena (2016–2021). Aufgewachsen in der NSU-Herkunftsregion — biographische Prägung durch rechte Gewalt in den 90ern.
+> **Matthias Quent** (*1986 in Arnstadt, Thüringen*) — Soziologe, Rechtsextremismusforscher, zur Zeit des Gesprächs Professor für Soziologie für die Soziale Arbeit an der Hochschule Magdeburg-Stendal, heute an der Ernst-Abbe-Hochschule Jena. Gründete 2016 das Institut für Demokratie und Zivilgesellschaft (IDZ) in Jena. Aufgewachsen in einer thüringischen Kleinstadt, studiert in Jena, wo der NSU entstanden war — biographische Prägung durch rechte Gewalt in den 90ern.
 >
 > Wichtigste Werke: *Rassismus, Radikalisierung, Rechtsterrorismus* (2016), *Deutschland rechts außen* (2019), *Keine Macht der Ohnmacht* (2026)
 > Kernkonzepte: Verherrlichung der Ohnmacht, Normalisierung rechter Gewalt, wehrhafte Demokratie, Faschismus als Technik der Emotionalisierung
@@ -45,7 +45,7 @@ Quelle: [Extremismus NEU DENKEN mit Matthias Quent und Maja Göpel](https://www.
 
 ## Biographie als Forschungsprogramm
 
-[▶ 1:32](https://www.youtube.com/watch?v=ysX7UyTNiXY&t=92) — Quent beginnt mit seiner eigenen Geschichte. Er ist in Thüringen aufgewachsen — in genau der Region, aus der die NSU-Terroristen stammten. Mit 14 wurde er von Neonazis verprügelt, weil er die falsche Frisur trug.
+[▶ 1:32](https://www.youtube.com/watch?v=ysX7UyTNiXY&t=92) — Quent beginnt mit seiner eigenen Geschichte. Er ist in Thüringen aufgewachsen, „in der Kleinstadt“. Mit 14 wurde er zum ersten Mal von Neonazis verprügelt; mit bunten oder langen Haaren war er, wie er sagt, „eine Stadtbildstörung“.
 
 > *„Wenn man oft genug auf die Nase gekriegt hat, dann beginnt man Interesse dafür zu entwickeln, warum das denn so ist."*
 
@@ -108,10 +108,10 @@ Faschismus basiert auf der **gleichzeitigen Verherrlichung und Negierung von Ohn
 3. **Geschäftigkeit** — Selbstreferenzieller Aktionismus, der das Ohnmachtsgefühl überdeckt, ohne etwas zu verändern. Social Media als perfekte Maschine dafür.
 4. **Autoritäre Kontrolle** — Wer im eigenen Leben keine Wirksamkeit erfährt, tritt nach unten: gegen die Familie, gegen Migrant:innen, gegen alle, die als schwächer wahrgenommen werden.
 
-[▶ 42:28](https://www.youtube.com/watch?v=ysX7UyTNiXY&t=2548) Quents eigene Clusteranalyse für sein Buch liefert erschreckende Zahlen: **~30%** der Bevölkerung sind umfassend ohnmächtig. Weitere **~30%** sind resigniert. **~20%** reagieren flexibel — mal engagiert, mal passiv. Und nur **~16%** gehören zu den „Kämpfenden" — die sich organisieren, diskutieren, handeln.
+[▶ 42:28](https://www.youtube.com/watch?v=ysX7UyTNiXY&t=2548) Quents eigene Clusteranalyse für sein Buch liefert erschreckende Zahlen: **~30%** der Befragten sind umfassend ohnmächtig. Weitere **~30%** sind resigniert. Dazwischen stehen die „Flexiblen", mal engagiert, mal passiv, für Quent „vielleicht die realistische Mitte". Und nur **~16%** gehören zu den „Kämpfenden", die sich einsetzen, diskutieren, handeln. Zwei Dinge sagt er gleich dazu: Ein kleiner Teil der Kämpfenden ist faschistisch. Und wer sich einsetzt, ist „auch häufig besser privilegiert", mit höherem Einkommen, mehr Bildung, mehr Kontakten.
 
 > [!note] Eigene Einschätzung
-> Diese 16% sind die Demokratie-Infrastruktur. Nicht der Staat, nicht die Parteien — sechzehn Prozent Graswurzelbürger:innen halten den Laden am Laufen. Und die übrigen 84% sind nicht böse oder dumm — sie sind ohnmächtig. Das verschiebt die Frage von „Wer wählt AfD?" zu „Warum gibt es so wenig Selbstwirksamkeit?" — und damit von der Moral zur Struktur.
+> Die Zahlen verschieben die Frage von „Wer wählt AfD?" zu „Warum erfahren so wenige, dass sie etwas bewirken können?" — und damit von der Moral zur Struktur. Die Kämpfenden sind dabei nicht einfach die Guten, und Wirksamkeit ist ungleich verteilt. Selbst diejenigen, „die über die ganzen Jahre den Laden am Laufen gehalten haben", stünden heute, so Quent, „ohnmächtig und hilflos" daneben.
 
 ---
 
@@ -148,9 +148,9 @@ Göpel verschärft die Analyse noch: Es ist kein *Backlash* — es ist ein **For
 
 [▶ 59:06](https://www.youtube.com/watch?v=ysX7UyTNiXY&t=3546) — Quents empirischer Befund gegen die Ohnmacht:
 
-> *„Was wirklich durchgängig wirkt, ist einfach zu handeln. Hoffnung kommt vom Machen."*
+> *„Das, was wirkt, ist einfach zu handeln. Hoffnung kommt vom Machen."*
 
-Die Daten zeigen: Diejenigen, die am besten mit Krisen umgehen, die am stärksten sozial integriert sind, die höchste Lebenszufriedenheit haben — das sind diejenigen, die sich engagieren. Nicht die Privilegiertesten, sondern die Handelnden.
+Die Daten zeigen: Diejenigen, die am besten mit Krisen umgehen, die am stärksten sozial integriert sind, die höchste Lebenszufriedenheit haben — das sind diejenigen, die sich am stärksten sozial engagieren und am meisten glauben, dass man etwas verändern kann. Dass das nicht reicht, wenn jede:r für sich bei der Tafel hilft, sagt Quent gleich dazu: „so funktioniert es nicht."
 
 [▶ 60:36](https://www.youtube.com/watch?v=ysX7UyTNiXY&t=3636) Quent differenziert dabei: Nicht jeder muss in der ersten Reihe stehen. Bei den Omas gegen Rechts einen Kuchen backen *kann* ein Akt der Selbstbemächtigung sein — für jemanden, der sein ganzes Leben ohnmächtig war.
 
@@ -223,7 +223,7 @@ Man muss das Führungspersonal von den Wähler:innen unterscheiden. Und mit AfD-
 - [[Götz Aly — Wie konnte das geschehen]] — Aly erklärt das materielle Interesse (Arisierung, Sozialpolitik), Quent die emotionale Mechanik (Ohnmacht → stellvertretende Selbstwirksamkeit). Zusammen: Warum machten die Deutschen mit? Weil es sich materiell und emotional lohnte
 - [[Poerksen und Goepel — Debatte neu denken]] — Pörksens Analyse von Trump als Sektenführer bestätigt Quents Löwenstein-These: Emotionalisierung als Technik, nicht als Ideologie
 - [[Architekten des Lebendigen — Systeme die dem Leben dienen]] — Quents „Hoffnung kommt vom Machen" ist die empirische Bestätigung des Architekten-Prinzips. Die 16% Kämpfenden sind die Architekten in der Praxis — Menschen, die weder erstarren noch fliehen, sondern bauen. Sein niedriger Einstieg (Kuchen backen als Selbstbemächtigung) übersetzt die Architekten-These in den Alltag
-- [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Quents vier Ohnmachtsmuster (Rationalisierung, Zeitdenken, Geschäftigkeit, autoritäre Kontrolle) sind die Massenversion der Kohärenzlösungen, die Gefangene an den Eliten beschreibt. Verschiedene Gefängnisse, derselbe Mechanismus: Ohnmacht → Flucht in nicht-produktive Muster. Quent zeigt: 84% der Gesellschaft sind in diesen Mustern gefangen — egal welcher Klasse
+- [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Quents vier Ohnmachtsmuster (Rationalisierung, Zeitdenken, Geschäftigkeit, autoritäre Kontrolle) sind die Massenversion der Kohärenzlösungen, die Gefangene an den Eliten beschreibt. Verschiedene Gefängnisse, derselbe Mechanismus: Ohnmacht → Flucht in nicht-produktive Muster. Quent zeigt: Rund 60 % der Befragten sind ohnmächtig oder resigniert, und wer kämpft, ist meist privilegierter
 - [[Christoph Hein — Geooekonomie NEU DENKEN]] — Derselbe Podcast (NEU DENKEN), andere Perspektive: Quent analysiert die innere Ohnmacht, Hein die äußere geoökonomische Abhängigkeit. Göpels „Forwardlash" verbindet beides — was Quent als Forwardlash der Tech-Eliten beschreibt, hat bei Hein sein geoökonomisches Pendant: Staaten, die Ressourcenknappheit in territoriale Aggression übersetzen
 
 - [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — Quents Ohnmachtstypologie (vier Reaktionsmuster auf blockiertes Leben) und A/Ns Drei-Täter-Typen (Erneuerer, Zerstörer, Libertäre Autoritäre) sind komplementäre Antworten auf dieselbe Fromm-Frage: Quent fragt, *wie die ohnmächtige Mehrheit reagiert*, A/N fragen, *wer destruktiv agiert und aus welcher emotionalen Logik*.

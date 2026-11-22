@@ -21,7 +21,7 @@ aliases:
 Quelle: [Welche Freiheit wollen wir? Christoph Möllers trifft Ulf Poschardt](https://www.youtube.com/watch?v=YPcJgFhrIf8)
 
 > [!info] Wer spricht?
-> **Christoph Möllers** (*1969, Bochum) — Professor für Öffentliches Recht und Rechtsphilosophie an der Humboldt-Universität Berlin. Leibniz-Preisträger, Träger des Traktatuspreises für *Freiheitsgrade* (2020). Ab 2026 Rektor des Wissenschaftskollegs Berlin. Möllers denkt Freiheit institutionell: nicht als Naturzustand, sondern als politisch ausgehandeltes Arrangement — immer plural, immer unter Bedingungen.
+> **Christoph Möllers** (*1969, Bochum) — Professor für Öffentliches Recht und Rechtsphilosophie an der Humboldt-Universität Berlin. Leibniz-Preisträger, Tractatus-Preis 2021 für *Freiheitsgrade* (2020). Ab 2026 Rektor des Wissenschaftskollegs Berlin. Möllers denkt Freiheit institutionell: nicht als Naturzustand, sondern als politisch ausgehandeltes Arrangement — immer plural, immer unter Bedingungen.
 > → [[DenkerVita/Christoph Moellers|DenkerVita]]
 >
 > **Ulf Poschardt** (*1967, Nürnberg) — Journalist, Publizist, Herausgeber der *Welt*. Promotion bei Friedrich Kittler über die Kulturgeschichte des DJ. Bekannt durch das polemische Buch *Shitbürgertum* (2025), in dem er dem linksliberalen Milieu vorwirft, die Freiheitsliebe gegen Staatsnähe und moralische Bevormundung eingetauscht zu haben.
@@ -143,7 +143,7 @@ Poschardt sieht es anders: Die Linke hat die Freiheitsliebe durch Staatsnähe er
 
 > [!success] Bestätigt — Möllers wird 2026 Rektor des Wissenschaftskollegs Berlin
 > Gewählt am 18. Juli 2025, Amtsantritt 1. September 2026, Nachfolge von Barbara Stollberg-Rilinger.
-> Quelle: [Wissenschaftskolleg zu Berlin — Pressemitteilung](https://www.wiko-berlin.de/en/press-releases/the-jurist-and-legal-philosopher-christoph-moellers-will-become-the-new-rector-of-the-wissenschaftskolleg-zu-berlin-in-2026)
+> Quelle: [Wissenschaftskolleg zu Berlin — Pressenotiz vom 24.07.2025](https://www.wiko-berlin.de/presse/pressenotizen/christoph-moellers-wird-2026-neuer-rektor-des-wissenschaftskollegs)
 
 > [!success] Bestätigt — Poschardt promovierte bei Kittler über DJ-Kulturgeschichte
 > Poschardt promovierte 1995 an der HU Berlin bei Friedrich Kittler. Die Dissertation erschien als Buch: *DJ Culture* — Kulturgeschichte des DJ von 1904 bis in die 1990er.
