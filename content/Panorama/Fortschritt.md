@@ -75,7 +75,7 @@ Von dort an ist der Weg kurz. Aus Kontrollverlust wird Rohheit ([[Wilhelm Heitme
 
 Woran messen wir „besser"? Freiheit, Gleichheit, Wohlstand, Lebensstandard, Lebensqualität — die Maßstäbe konkurrieren seit dem Anfang, und entschieden wurde der Streit nie. Er wurde an eine Kennzahl delegiert. Wie das BIP zu diesem blinden Indikator wurde, steht bei [[Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Göpel und Truger]]; die unbequeme Gegenrechnung im [[Martin Oetting — Happy Planet Index 2026|Happy Planet Index]]: Costa Rica vorn, die USA auf Platz 105. Wer macht aus wenig Welt viel Leben?
 
-Die Alltagsempirie dagegen ist banal und deshalb überzeugend — Herde, die man neu starten muss, Duschschläuche mit Premium-Funktion ([[Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran]]). Die Dinge werden schlechter, während die Kennzahl steigt. Beim Besitz läuft dasselbe eine Etage höher: [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche]] liest Streaming statt Eigentum als neue Form von Kontrolle. Man zahlt mehr und besitzt weniger.
+Die Alltagsempirie dagegen ist banal und deshalb überzeugend — Herde, die man neu starten muss, Duschschläuche mit Premium-Funktion ([[Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran]]). Die Dinge werden schlechter, während die Kennzahl steigt. Beim Besitz läuft dasselbe eine Etage höher: [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche]] sieht beim Kauf digitaler Güter keine Eigentumsübertragung mehr: Das Unternehmen behält Zugriffsrechte, man kann nicht weitergeben und verwerten, „das ist eigentlich Besitz, nicht Eigentum“.
 
 → [Lösungsansatz ↓](#den-maßstab-öffentlich-machen)
 

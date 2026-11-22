@@ -185,7 +185,7 @@ Schwan unterscheidet Herrschaftsmacht und Gestaltungsmacht, eine praktische Antw
 
 ### → [[DenkerVita/Kolja Moeller]]
 
-Laclau steht in Möllers Reader *Populismus* (Suhrkamp 2022). Beide lesen den Populismus als Form des Politischen, nicht als bloße Entgleisung. Die Verbindung ziehen wir; dass Möller auf Laclau aufbaut, sagen seine Texte nicht.
+Laclau steht in Kolja Möllers Reader *Populismus* (Suhrkamp 2022). Beide lesen den Populismus als Form des Politischen, nicht als bloße Entgleisung. Die Verbindung ziehen wir; dass Möller auf Laclau aufbaut, sagen seine Texte nicht.
 
 ### → [[Denker/Walther Ziegler — Foucault in 60 Minuten]]
 

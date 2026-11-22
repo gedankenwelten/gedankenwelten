@@ -163,7 +163,7 @@ Anattā wächst aus [[Vipassana — Anicca|Anicca]] und führt zu [[Vipassana �
 
 - [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Leben, Lehrerlinie und Vermächtnis
 - [[Walther Ziegler — Buddha in 60 Minuten]] — das bedingte Entstehen als philosophische Herleitung dessen, was Goenka als Praxis lehrt
-- [[Geistesblitz/Barbara Tversky — Denken beginnt nicht im Kopf]] — der Körper als Anker des Denkens; bei Goenka ist auch dieser Anker in Bewegung
+- [[Geistesblitz/Barbara Tversky — Denken beginnt nicht im Kopf]] — Bewegung und Geste fördern das Denken, sagt Tversky, auf noch rätselhafte Weise; bei Goenka ist auch der Körper selbst in Bewegung
 
 ---
 

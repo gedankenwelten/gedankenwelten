@@ -246,7 +246,7 @@ Baberowskis „Wir sind Gäste des Lebens" ist gelebtes Sein-zum-Tode: Erst das 
 Beide diagnostizieren, dass der Neoliberalismus die Solidaritätsbeziehungen auflöst und so die Demokratie aushöhlt — Baberowski erlebt das konkret im zerfallenden Russland der 90er, aus dem heraus er Putins Aufstieg erklärt. Doch Brown verteidigt das demokratische Versprechen gegen die Marktlogik, während Baberowski die liberale Demokratie selbst als oligarchische Konstruktion entlarvt.
 
 ### → [[Kolja Moeller|Kolja Möller — DenkerVita]]
-Möller liefert die Demokratietheorie zu Baberowskis Bauchgefühl: Populismus ist nicht Irrationalität, sondern die strukturelle Anrufung der Volkssouveränität gegen die Eliten. Beide sehen darin etwas Belebendes wie Gefährliches — die offene Frage, ob das „Volk gegen die Elite" die Demokratie erneuert oder zersetzt, treibt beide um.
+Möller liefert die Demokratietheorie zu Baberowskis Bauchgefühl: Populismus ist für ihn in der demokratischen Verfassung selbst angelegt, eine wiederkehrende Anrufung der Volkssouveränität gegen die Eliten, „mit allen Risiken“. Beide sehen darin etwas, das zwischen Emanzipation und Schließung schwanken kann — die offene Frage, ob das „Volk gegen die Elite" die Demokratie erneuert oder zersetzt, treibt beide um.
 
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 Krastev liest den Populismus als Rebellion gegen die Demütigung des Nachahmungszwangs, Baberowski als Reaktion auf eine Demokratie, die „am Volk vorbei" regiert — zwei Erklärungen desselben Ressentiments. Beide nehmen die illiberale Wende ernst, statt sie als bloßen Rückfall abzutun.

@@ -84,7 +84,7 @@ Ternès lässt sich nicht einfach auf dem klassischen Links-Rechts-Spektrum vero
 
 **[[DenkerVita/Michael Hartmann|Michael Hartmann]]** — Die direkte Gegenstimme im NANO Talk. Für Ternès ist Elite Können im Dienst des Gemeinwohls, für Hartmann ist Elite immer Macht, reproduziert über Herkunft, nicht Vernetzung und nicht Verantwortung. Ternès hat eine Antwort darauf, wie Elite sein sollte, Hartmann eine darauf, wie Macht ist. Ohne die zweite, so die Note, wird die erste zur Selbsttäuschung.
 
-**[[DenkerVita/Kolja Moeller|Kolja Möller]]** — Der dritte Elitebegriff am Tisch: Vernetzung über die Sektoren hinweg und gesamtgesellschaftlicher Führungsanspruch. Mit Ternès teilt er den Glauben an Gegenmodelle, Narrative und europäische Regeln gegen die Tech-Oligarchie; beide sind selbst Alumni der Studienstiftung, deren Anspruch Hartmann von außen ernüchtert.
+**[[DenkerVita/Kolja Moeller|Kolja Möller]]** — Der dritte Elitebegriff am Tisch: Vernetzung über die Sektoren hinweg und gesamtgesellschaftlicher Führungsanspruch. Mit Ternès teilt er die Forderung nach europäischen Regeln gegen die Tech-Oligarchie: Er spricht von einem anderen Entwicklungsmodell und einem „Stoppzeichen“ der EU, sie von positiven Narrativen. Möller war selbst Stipendiat der Studienstiftung, deren Anspruch Hartmann von außen ernüchtert.
 
 **[[DenkerVita/Alena Buyx|Alena Buyx]]** — Die Moderatorin, die den wunden Punkt benennt. Ternès' normative Definition sei eher Wunsch als Beschreibung der Wirklichkeit, und Ternès räumt das ein. Ein Jahr später liefert Buyx selbst ein Argument, das Ternès' Gemeinwohl-Bindung von unten stützt: Niemand, auch keine Elite, kann eine eigene Luftversorgung haben.
 

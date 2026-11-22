@@ -94,7 +94,7 @@ Er publiziert außerdem u. a. in *Constellations*, der *Zeitschrift für Politis
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk – Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28.05.2026) — Möller als Gast: Elite als Vernetzung, Elitenversagen seit der Finanzkrise, Cum-Ex als möglicher Auswuchs der Finanzialisierung
-- Erwähnt in [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]] (der Definitionsstreit im NANO Talk), [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] (Populismus als Anrufung der Volkssouveränität) und [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
+- Erwähnt in [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]] (der Definitionsstreit im NANO Talk), [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] (Populismus als Anrufung der Volkssouveränität) und [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]; außerdem im Panorama [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]] (Elitenversagen).
 
 ## Quellen
 

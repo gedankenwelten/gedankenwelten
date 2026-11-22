@@ -12,7 +12,7 @@ tags:
   - sprache
   - körper
   - bewusstsein
-  - year-2025
+  - year-2026
 aliases:
   - Tversky
   - Barbara Tversky
@@ -34,7 +34,7 @@ aliases:
 Quelle: [Thought doesn't just happen in the brain | Barbara Tversky](https://www.youtube.com/watch?v=Tprm0UpCKTY) (Institute of Art and Ideas — How the Light Gets In)
 
 > [!info] Wer spricht?
-> **Barbara Tversky** — Kognitionspsychologin, Professor Emerita an der Stanford University (seit 1978) und Professorin am Columbia Teachers College. Ihre Forschung umfasst räumliches Denken, Gedächtnis, Gestenforschung, Diagramme und Kreativität — mit einem gemeinsamen Kern: Wie denken Menschen über die Räume, in denen sie leben, und über die Handlungen, die sie vollziehen und beobachten?
+> **Barbara Tversky** — Kognitionspsychologin, emeritierte Professorin der Stanford University (dort seit 1978) und des Columbia Teachers College. Ihre Forschung umfasst räumliches Denken, Gedächtnis, Gestenforschung, Diagramme und Kreativität — mit einem gemeinsamen Kern: Wie denken Menschen über die Räume, in denen sie leben, und über die Handlungen, die sie vollziehen und beobachten?
 >
 > Tversky wuchs intellektuell in einer Wissenschaftskultur auf, die Kognition als Informationsverarbeitung modellierte — abstrakt, sprachgebunden, körperlos. Ihr Lebenswerk ist ein langsames, empirisches Aufweichen dieser Annahme. Nicht durch Spekulation, sondern durch Jahrzehnte von Experimenten: Wie orientieren sich Menschen in Räumen? Warum gestikulieren wir, wenn wir denken? Welche Rolle spielen Körperbewegungen bei der Entstehung — nicht nur der Kommunikation — von Gedanken?
 >
@@ -115,7 +115,7 @@ Tversky macht eine wichtige Unterscheidung, die oft übergangen wird: Sprache is
 
 > *„Things like gestures, body movements can't be discretized in the way that language can be coded into words, nor are there rules. So, if I'm giving you directions and I say 'there's an intersection' or 'there's an intersection' or 'there's' — all of that sort of captures the same meaning, but it's not the same way of expressing it."*
 
-Dirigentengebärden sind ihr zentrales Beispiel: Ein Dirigent kommuniziert mit einem Orchester über komplexe, präzise codierte Bewegungen — die kein Musiker erklären könnte, die keiner Grammatik folgen, die aber funktionieren. Das Orchester versteht und spielt. Dieses Verstehen ereignet sich in einem Medium, das kein Wörterbuch kennt.
+Eines ihrer Beispiele sind Dirigenten: Sie verständigen sich mit dem Orchester auf ganz eigene Weise, „their orchestras somehow get it and play music, but it's not easily codified in the way that language is“. Bewegungen, die keiner Grammatik folgen und trotzdem funktionieren. Das Orchester versteht und spielt. Dieses Verstehen ereignet sich in einem Medium, das kein Wörterbuch kennt.
 
 > [!question] Weitergedacht
 > Wenn Sprache das Denken einengt, indem sie Mehrdeutigkeiten auflöst — könnte es dann sein, dass das *Ringen um Worte* für etwas, das sich sprachlich nicht fassen lässt, selbst eine Denkleistung ist? Die Frustration des Unaussprechlichen als kognitiver Motor?
@@ -128,7 +128,7 @@ Das bringt Tversky zu einer vorsichtigen Rehabilitierung des Nicht-Sprachlichen 
 
 [▶ 12:59](https://www.youtube.com/watch?v=Tprm0UpCKTY&t=779)
 
-Die Frage nach Iain McGilchrist und seiner Hemisphären-Theorie zwingt Tversky zu einer differenzierten Positionierung. Sie bejaht das Grundmuster — links: sequenziell, sprachlich, analytisch; rechts: holistisch, kontextuell — aber warnt vor der Vereinfachung.
+Die Frage nach Iain McGilchrist und seiner Hemisphären-Theorie zwingt Tversky zu einer differenzierten Positionierung. Am Grundmuster — links sequenziell und analytisch, rechts holistisch — sei auf sehr abstrakter Ebene „something to that“, sagt sie vorsichtig, und warnt vor der Vereinfachung.
 
 > *„People love dichotomies — or there are two kinds of people in the world, those who love dichotomies and those who don't. So it's probably saying the whole hemisphere is one thing or another is a little extreme."*
 
@@ -136,10 +136,10 @@ Ihr Gegenbeweis ist ein Detail aus der Neuroanatomie, das präzise zeigt, wozu d
 
 > *„The brain didn't evolve with reading, but that area of the brain capitalizes on small b and small d are mirror images and distinguishes between them. So looking at that complexity of the brain is fascinating — and if you just split hemispheres, you'll miss that."*
 
-Das ist Tverskeys eigentliche Botschaft über das Gehirn: Es ist kein gut sortierter Schrank mit beschrifteten Schubladen. Es ist ein opportunistisches Organ, das vorhandene Strukturen für neue Zwecke adaptiert. Die Komplexität ist das eigentliche Datum — und jede saubere Dualismus-Erzählung unterschlägt diese Komplexität zugunsten ihrer Eleganz.
+Das ist Tverskys eigentliche Botschaft über das Gehirn: Es ist kein gut sortierter Schrank mit beschrifteten Schubladen. Es ist ein opportunistisches Organ, das vorhandene Strukturen für neue Zwecke adaptiert. Die Komplexität ist das eigentliche Datum — und jede saubere Dualismus-Erzählung unterschlägt diese Komplexität zugunsten ihrer Eleganz.
 
 > [!note] Eigene Einschätzung
-> Ich finde Tverskeys Kritik an McGilchrist berechtigt, aber sie trifft vielleicht nicht den Kern seiner Theorie. McGilchrist behauptet nicht, dass *einzelne* Funktionen fest einer Hemisphäre zugeordnet sind — seine These ist struktureller: dass zwei verschiedene *Aufmerksamkeitsmodi* existieren, die in einem historischen und kulturellen Spannungsverhältnis stehen. Diese Ebene berührt Tversky nicht. Die detailliertere Neuroanaatomie *widerlegt* McGilchrists These nicht — sie kompliziert sie. Was vielleicht ehrlicher wäre, als zu sagen, er liege falsch.
+> Ich finde Tverskys Kritik an McGilchrist berechtigt, aber sie trifft vielleicht nicht den Kern seiner Theorie. McGilchrist behauptet nicht, dass *einzelne* Funktionen fest einer Hemisphäre zugeordnet sind — seine These ist struktureller: dass zwei verschiedene *Aufmerksamkeitsmodi* existieren, die in einem historischen und kulturellen Spannungsverhältnis stehen. Diese Ebene berührt Tversky nicht. Die detailliertere Neuroanaatomie *widerlegt* McGilchrists These nicht — sie kompliziert sie. Was vielleicht ehrlicher wäre, als zu sagen, er liege falsch.
 
 ---
 
@@ -155,7 +155,7 @@ Das Kleinkind, das mit der Hand wiegt, ob etwas fair ist — noch bevor es das W
 
 > *„We know that babies respond to unjust actions viscerally. So if they watch puppets and one is grabbing something from another, these are kids that don't yet conceptualize in language, they will react viscerally."*
 
-Hier setzt Tversky ihren stärksten Punkt: Abstrakte Konzepte sind nicht primär sprachliche Konstrukte, sondern haben emotionale und körperliche Wurzeln, aus denen sie sich entwickeln. Gerechtigkeit beginnt nicht als Idee — sie beginnt als Unbehagen. Empirisch steht gerade dieser Punkt auf dünnem Eis: Die Puppenstudie, auf die er sich stützt, hielt der bisher größten Wiederholung mit 567 Säuglingen nicht stand. *(Faktencheck: vereinfacht)* Der Gedanke kann trotzdem richtig sein — nur bewiesen ist er damit nicht.
+Hier setzt Tversky ihren stärksten Punkt: Abstrakte Konzepte sind nicht primär sprachliche Konstrukte, sondern haben emotionale und körperliche Wurzeln, aus denen sie sich entwickeln. Gerechtigkeit beginnt nicht als Idee — sie beginnt als Unbehagen. Empirisch steht gerade dieser Punkt auf dünnem Eis: Eine Studie nennt sie nicht, ihr Beispiel erinnert an die Versuche, in denen Säuglinge helfende und hindernde Figuren beobachten, und deren bisher größte Wiederholung mit 567 Säuglingen fand den Effekt nicht. *(Faktencheck: vereinfacht)* Der Gedanke kann trotzdem richtig sein — nur bewiesen ist er damit nicht.
 
 > [!question] Weitergedacht
 > Wenn Gerechtigkeit eine visceral-körperliche Basis hat, die universell und vorsprachlich ist — wie erklärt man dann die radikale Verschiedenheit dessen, was verschiedene Kulturen als gerecht empfinden? Ist das universelle Unbehagen (das Baby) dasselbe wie der kulturell geformte Begriff? Oder handelt es sich um zwei verschiedene Phänomene, die nur zufällig denselben Namen tragen?
@@ -192,7 +192,7 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 > Quelle: Tversky (2019), *Mind in Motion*, Basic Books — dort steht die Zahl; eine Messung, die sie stützt, fehlt.
 
 > [!success] Bestätigt — Gesten gehen Worten voraus
-> Susan Goldin-Meadow und Kollegen haben in Jahrzehnten Forschung belegt, dass Säuglinge deiktische und symbolische Gesten produzieren, bevor sie dieselben Inhalte sprachlich ausdrücken können. Gestik-Sprach-Kombinationen sagen spätere Wortschatz- und Syntaxentwicklung vorher. Der Befund gilt sprach- und kulturübergreifend und ist vielfach repliziert.
+> Susan Goldin-Meadow und Kollegen haben in Jahrzehnten Forschung belegt, dass Säuglinge deiktische und symbolische Gesten produzieren, bevor sie dieselben Inhalte sprachlich ausdrücken können. Gestik-Sprach-Kombinationen sagen spätere Wortschatz- und Syntaxentwicklung vorher. Der Befund gilt sprach- und kulturübergreifend und ist vielfach repliziert. Tversky spricht im Interview allerdings nicht von Kleinkindern, sondern von Erwachsenen, die einen Weg beschreiben und deren Gesten vor den Worten kommen (▶ 4:37); die Forschung oben stützt den allgemeinen Gedanken, nicht ihr Beispiel.
 > Quelle: [Iverson & Goldin-Meadow (2005), Psychological Science](https://doi.org/10.1111/j.0956-7976.2005.01542.x) · [Rowe & Goldin-Meadow (2009), Science](https://doi.org/10.1126/science.1167025)
 
 > [!warning] Vereinfacht — Babies und Ungerechtigkeit
@@ -238,19 +238,19 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 
 ### → [[Geistesblitz/David Chalmers — Das Hard Problem des Bewusstseins]]
 
-Chalmers stellt die Frage, warum überhaupt *subjektives Erleben* existiert. Tversky beantwortet diese Frage nicht — sie arbeitet auf der Ebene darunter: Wie ist das kognitive System strukturiert, das dieses Erleben hervorbringt? Beide Fragen brauchen einander. Tverskeys embodied Kognition ohne Chalmers' phänomenales Bewusstsein bleibt funktionalistisch — Chalmers ohne Tverskeys Körper-Kognition bleibt körperlos.
+Chalmers stellt die Frage, warum überhaupt *subjektives Erleben* existiert. Tversky beantwortet diese Frage nicht — sie arbeitet auf der Ebene darunter: Wie ist das kognitive System strukturiert, das dieses Erleben hervorbringt? Beide Fragen brauchen einander. Tverskys embodied Kognition ohne Chalmers' phänomenales Bewusstsein bleibt funktionalistisch — Chalmers ohne Tverskys Körper-Kognition bleibt körperlos.
 
 ### → [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
-Ricard beschreibt aus der kontemplativen Perspektive, was Tversky empirisch untersucht: die körperliche Basis des Geistes. Atembeobachtung, Körper-Scanning, Gehmeditation sind praktische Techniken, die den Körper als Stabilisator des Geistes nutzen — was Tverskeys Deprivations-Experiment aus einer anderen Richtung bestätigt. Beide beschreiben denselben Körper-Geist-Nexus: der eine experimentell, der andere kontemplativen Ursprungs.
+Ricard beschreibt aus der kontemplativen Perspektive, was Tversky empirisch untersucht: die körperliche Basis des Geistes. Atembeobachtung, Körper-Scanning, Gehmeditation sind praktische Techniken, die den Körper als Stabilisator des Geistes nutzen — was Tverskys Deprivations-Experiment aus einer anderen Richtung bestätigt. Beide beschreiben denselben Körper-Geist-Nexus: der eine experimentell, der andere kontemplativen Ursprungs.
 
 ### → [[Geistesblitz/ARTE — Neurodivers Anders denken besser arbeiten]]
 
-Die Frage individueller Denkstile — Menschen, die räumlich-bildhaft denken vs. solche mit innerem Monolog — korrespondiert direkt mit Tverskeys Beobachtung, dass es diese Unterschiede gibt, ihre empirische Erforschung aber noch aussteht. Neurodiversität könnte teilweise als Variation in der Gewichtung von embodied vs. sprachlichem Denken verstanden werden.
+Die Frage individueller Denkstile — Menschen, die räumlich-bildhaft denken vs. solche mit innerem Monolog — bringt im Interview der Fragesteller ein; Tversky antwortet, dafür brauche es Belege, dass Menschen wirklich verschieden denken, „and I'm open to that kind of evidence“. Neurodiversität könnte teilweise als Variation in der Gewichtung von embodied vs. sprachlichem Denken verstanden werden.
 
 ### → [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen]]
 
-Spitzer argumentiert für verkörpertes Lernen als pädagogischen Imperativ — Kinder lernen durch Bewegung, Handlung, Sensorik. Das ist Tverskeys Embodied Cognition in pädagogischer Anwendung: Wenn Denken körperlich ist, dann kann Lernen nicht auf das Stillsitzen reduziert werden.
+Spitzer argumentiert für verkörpertes Lernen als pädagogischen Imperativ — Kinder lernen durch Bewegung, Handlung, Sensorik. Das ist Tverskys Embodied Cognition in pädagogischer Anwendung: Wenn Denken körperlich ist, dann kann Lernen nicht auf das Stillsitzen reduziert werden.
 
 ### → [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 

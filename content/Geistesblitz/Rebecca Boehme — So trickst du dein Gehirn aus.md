@@ -82,7 +82,7 @@ Quelle: [So trickst du dein Gehirn aus – scobel im Gespräch: Mit Rebecca Böh
 
 > *„Das Gehirn hat die Entscheidung getroffen. Das hier ist jetzt die Richtung. Das sind die Menschen, denen ich vertraue, da gehöre ich dazu. Und dann kann das schon in die Richtung gehen, dass das Gehirn sagt: okay, dann glaube ich jetzt alles, was von da kommt."*
 
-Scobel ergänzt die psychologische Evidenz: Kahneman und Tversky haben in vielen Variationen gezeigt, dass Confirmation Bias (Bestätigungstendenz) kein Ausnahmefall ist, sondern der Normalzustand. Perspektivwechsel — das, was Wittgenstein als zentrale Funktion der Philosophie sah — ist neuronale Schwerstarbeit.
+Scobel ergänzt die psychologische Evidenz: Kahneman und Tversky hätten „in vielerlei Variationen“ alle möglichen Formen kognitiver und emotionaler Verzerrung gezeigt; als Beispiel nennt er die Bestätigungstendenz (Confirmation Bias), die nach Bestätigung für das sucht, was man ohnehin glaubt. Perspektivwechsel — das, was Wittgenstein als zentrale Funktion der Philosophie sah — ist neuronale Schwerstarbeit.
 
 *(Faktencheck: vereinfacht — Verschwörungsdenken hat multiple psychologische Ursachen; Vertrauen ist ein wichtiger, aber nicht der einzige Faktor)*
 

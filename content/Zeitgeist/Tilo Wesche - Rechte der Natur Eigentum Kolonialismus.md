@@ -33,7 +33,7 @@ aliases:
 Quelle: [Jung & Naiv Folge 829](https://www.youtube.com/watch?v=JPPvdyFyw4U)
 
 > [!info] Wer spricht?
-> **Tilo Wesche** (*1968, Wolfenbüttel) — Professor für Praktische Philosophie an der Carl von Ossietzky Universität Oldenburg (seit 2018). Promotion 2001 (Kierkegaard), Habilitation 2008, danach zehn Jahre als Vertretungsprofessor an wechselnden Instituten — „die Hölle", wie er selbst sagt. Aufgewachsen in Norddeutschland, dann ab 1978 in Namibia, dem ehemaligen Deutsch-Südwestafrika, während der Apartheid. Diese Kindheit prägte seine spätere philosophische Frage: Wie werden Ungerechtigkeiten zur Selbstverständlichkeit — und wie macht man sie wieder sichtbar?
+> **Tilo Wesche** (*1968, Wolfenbüttel) — Professor für Praktische Philosophie an der Carl von Ossietzky Universität Oldenburg (seit 2018). Promotion 2001 (Kierkegaard), Habilitation 2008, danach von 2009 bis 2016 Vertretungsprofessuren an wechselnden Instituten — „die Hölle", wie er selbst sagt. Aufgewachsen in Norddeutschland, dann ab 1978 in Namibia, dem ehemaligen Deutsch-Südwestafrika, während der Apartheid; als Jugendlicher schloss er sich der Befreiungsbewegung Swapo an. Prägend nennt er die Erfahrung, dass gesellschaftliche Veränderung zum Besseren gelingen kann.
 >
 > Forschungsschwerpunkte: Kritische Theorie (Frankfurt School), Eigentumstheorie, politische Philosophie, Nachhaltigkeit. Hauptwerk: *Die Rechte der Natur — Vom nachhaltigen Eigentum* (Suhrkamp 2023).
 >
@@ -64,11 +64,9 @@ Diese programmatische Frage gilt für das gesamte Gespräch. Wesche ist kein rei
 
 ### Demokratie als Errungenschaft — aber nicht als Endzustand
 
-[▶ 9:08](https://www.youtube.com/watch?v=JPPvdyFyw4U&t=548) — Bevor Wesche zur Naturrechts-These kommt, klärt er sein Verhältnis zur Demokratie. Es ist ein paradigmatisch konstruktives: Demokratie ist eine 200 Jahre alte Errungenschaft, die heute teilweise abgebaut wird — aber das Abschaffen der demokratischen Errungenschaften ist keine Lösung. Was es braucht, ist Erweiterung, nicht Ersatz.
+[▶ 9:08](https://www.youtube.com/watch?v=JPPvdyFyw4U&t=548) — Bevor Wesche zur Naturrechts-These kommt, geht es um die Demokratie. Einig sind sich beide: Demokratische Regeln sollen gelten, aber sie müssen viel besser werden. Tilo Jung spitzt zu, die liberale Demokratie, wie der Westen sie „seit 100, 200 Jahren irgendwie praktiziert“, könne „nicht das Ende vom Lied“ sein. Wesche: „Ja, da bin ich voll bei dir.“ Die Demokratie sei eine Errungenschaft ihrer Zeit, nach der französischen, der amerikanischen und der haitianischen Revolution; im Zeitalter von Globalisierung, Digitalisierung und Anthropozän müsse man sie den Umständen anpassen.
 
-> *„Die liberale Demokratie, wie wir das jetzt im Westen seit 100, 200 Jahren irgendwie praktizieren — das kann nicht das Ende vom Lied sein."*
-
-Sein Argument: Die parlamentarische Demokratie wurde unter den Bedingungen ihrer Zeit entworfen — vor der Globalisierung, vor der Digitalisierung, vor dem Anthropozän. Damals, vor 100 Jahren in Deutschland, war Repräsentation eine technische Notwendigkeit: Man konnte nicht 40 Millionen Bürger jeden Monat nach Berlin holen, um über einzelne Gesetze abzustimmen. Heute, mit anderen technologischen Möglichkeiten und ganz anderen Krisendynamiken, ist diese Notwendigkeit nicht mehr zwingend.
+Jung geht weiter: Vor hundert Jahren konnte man nicht 30, 40 Millionen Deutsche jeden Monat nach Berlin holen, um abzustimmen; heute brauche man Repräsentanten nicht mehr zwingend. Da hält Wesche dagegen: „Also ich glaube schon, dass … der Parlamentarismus nach wie vor wichtig ist und auch beibehalten werden sollte“, unter zwei Bedingungen.
 
 [▶ 11:23](https://www.youtube.com/watch?v=JPPvdyFyw4U&t=683):
 
@@ -84,9 +82,11 @@ Wesche nennt das Berliner Volksbegehren „Deutsche Wohnen & Co. enteignen" als 
 
 Die Segregation war so total, dass sie als Normalzustand erschien. Die Nachbarschaft: nur Weiße. Die Schule: nur Weiße. Die Einkäufe: nur Schwarze als Verkäufer. Die schwarze Bevölkerung musste abends ins Township zurückfahren.
 
-> *„Mir ist nicht aufgefallen, was das Problem ist. Natürlich gibt's Auffälligkeiten und das hat mich bisschen staunen lassen. Aber ich war wie gesagt 10 Jahre dort und mir ist das nicht aufgefallen."*
+> *„Also, ich war wie gesagt 10 Jahre und mir ist nicht aufgefallen, was das Problem ist, ne? Also natürlich gibt's Auffälligkeiten und das hat mich bisschen staunen lassen."*
 
-Das ist keine Entschuldigung, sondern ein philosophischer Befund: Strukturelle Ungerechtigkeit funktioniert durch Normalisierung. Man sieht sie nicht, weil man gelernt hat, sie nicht zu sehen. Für Wesche war die retrospektive Erkenntnis — was ich in Namibia erlebt habe, war Unrecht — ein formatives Erlebnis. Es hat ihn sensibilisiert für die Mechanismen, mit denen Gesellschaften moralische Verbrechen zur Selbstverständlichkeit machen.
+„Es war komisch“, sagt er, warum nahm man die schwarzen Arbeiter nicht im Auto mit, wo doch Platz war? Dabei blieb es nicht. Als der Fahrer eines Viehtransporters lachend auf einen schwarzen Farmarbeiter zuhielt, bis der von der Straße springen musste, „da habe ich gemerkt irgendwie, nee, das ist absolut nicht in Ordnung“. Ein Lehrer aus Deutschland nahm ihn zur Befreiungsbewegung Swapo mit. Mit 15 engagierte er sich dort; die Zeitung berichtete, seine Eltern bekamen Schwierigkeiten, er flog von der Schule und klagte sich wieder ein. Nach dem Abitur ging er ins Exil, um nicht ins südafrikanische Militär eingezogen zu werden, und kam 1989 mit dem UNHCR zurück, als Wahlbeobachter bei den ersten freien Wahlen.
+
+Das Unrecht hat er also nicht erst im Rückblick gesehen. Prägend nennt er etwas anderes: „diese positive Erfahrung, … dass es in anderen Regionen der Welt auch positive fortschrittliche Veränderungen gibt“. Eine Selbstverständlichkeit kann kippen, und man kann dabei sein.
 
 Der Völkermord an den Herero und Nama, der erste Genozid des 20. Jahrhunderts unter deutschem Kommando, ist in Namibia gegenwärtig. Man findet unter Herero heute noch Menschen mit blauen Augen — Resultat sexualisierter Gewalt. Die Reparationsdebatte zwischen Deutschland und Namibia ist bis heute ungelöst: ein fauler Kompromiss, bei dem Reparationen nicht so genannt werden dürfen und über Entwicklungsgelder abgewickelt werden, die ohnehin eingeplant waren.
 
@@ -104,7 +104,7 @@ Indigenes Eigentum in Nord- und Südamerika, in Afrika, in der Pazifikregion war
 
 > *„Die damaligen Eigentumsrechte waren einfach ein Mittel, um bestehende Eigentumsrechte in Nordamerika, in Afrika, in Lateinamerika [...] zu enteignen."*
 
-Das ist die bittere Ironie: Das Eigentumsrecht, das heute als Schutz des Einzelnen gilt, hat in seiner historischen Ausrollung die größte Enteignungswelle der Menschheitsgeschichte ermöglicht. Wesche sieht darin keinen Zufall, sondern eine strukturelle Eigenschaft des Eigentumsrechts selbst: Es ist ein Instrument, das die Macht derer stärkt, die es definieren.
+Das ist die bittere Ironie: Das Eigentumsrecht, das heute als Schutz des Einzelnen gilt, legitimierte die Kolonisation, „dadurch wurde die Kolonisation eigentumsrechtlich legitimiert“. Ein Urteil über das Eigentum an sich macht Wesche daraus nicht: Das sei „ein schlechtes Beispiel für Eigentumsrechte, aber Eigentumsrecht ist an sich auch eine Errungenschaft“.
 
 > [!question] Weitergedacht
 > Wenn das europäische Eigentumsrecht historisch als Enteignungsinstrument fungiert hat — *kann es dann jemals neutrales Recht sein? Oder trägt es seine koloniale Geschichte als Code in sich?*
@@ -119,17 +119,17 @@ Das ist die bittere Ironie: Das Eigentumsrecht, das heute als Schutz des Einzeln
 
 Aber damit ist auch das Problem benannt: Ungleiche Eigentumsverhältnisse bedeuten ungleiche Freiheit. Wer viel besitzt, hat mehr Entscheidungsmacht — über die eigene Zeit, den eigenen Raum, die eigene Zukunft. Das Eigentumsrecht schützt diese Ungleichheit, statt sie zu korrigieren.
 
-Das Gegenmodell ist das, was Wesche „Gebrauchseigentum" nennt — ein Eigentumsmodell, das den Nutzen ins Zentrum stellt, nicht den Besitz. Nicht: wem gehört es? Sondern: wer braucht es, wer nutzt es? Das klingt abstrakt, hat aber praktische Konsequenzen: etwa bei Wohnraum (Berliner Volksbegehren), bei Software (Open Source), bei natürlichen Ressourcen. Die verbreitete Entmaterialisierung von Eigentum durch Abo-Modelle — Streaming statt Besitz — ist für Wesche kein Fortschritt, sondern eine neue Form der Kontrolle: Man zahlt mehr und besitzt weniger.
+Dazu gehört eine sprachliche Unterscheidung, die er von Sabine Nuss übernimmt: Wer Eigentum ändern will, solle keine Verlustängste wecken. Was Nuss „persönliches Eigentum“ nennt, heißt bei Wesche „Gebrauchseigentum“: „alles, was ich an Möbeln und Kleidung persönlich gebrauche“, „aber nicht die Fabrik, nicht die Infrastruktur“, nicht Energie, Bildung, Digitalisierung und die Natur, das seien andere Güter. Beim Kauf digitaler Produkte sieht er eine Verschiebung: Das Unternehmen behält Zugriffsrechte, man kann nicht übertragen und verwerten, „das ist eigentlich Besitz, nicht Eigentum“. Dass man im Abomodell am Ende „80 % mehr“ zahle, rechnet Tilo Jung vor.
 
 ---
 
 ### „Das war schon immer so" — die Naturalisierung der Ungleichheit
 
-[▶ 91:16](https://www.youtube.com/watch?v=JPPvdyFyw4U&t=5476) — Hier tritt Wesches schärfste ideologiekritische Pointe hervor. Das häufigste konservative Gegenargument gegen jede Umverteilungs- oder Eigentumsreform lautet: Ungleichheit habe es immer gegeben, sie sei *natürlich*. Wesche sieht darin keine empirische Beobachtung, sondern eine Fiktion mit politischer Funktion.
+[▶ 91:16](https://www.youtube.com/watch?v=JPPvdyFyw4U&t=5476) — Tilo Jung spielt das konservative Gegenargument durch: „ey Tilo, das war schon immer so“, Ungleichheit sei *natürlich*, „aber das ist ja auch eine Fiktion“. Wesche antwortet nicht mit Ideologiekritik, sondern mit dem Wandel, der ohnehin kommt:
 
 > *„Da würde ich sagen, völlig falsch. Die Veränderungen kommen sowieso. Beim Klimawandel ist das so deutlich. Die Frage ist nur, ob Degrowth by Disaster oder by Design — ob wir den Wandel mitgestalten oder eben nur Zuschauer des Wandels sind."*
 
-Die Naturalisierung der Ungleichheit erzeugt politische Lähmung: Wenn die Verteilung *natürlich* ist, ist jede Korrektur unnatürlich. Genau diese Bewegung — das Historische als Natürliches umzudeuten — ist für Wesche das Grundmuster, an dem sich seine Kritik abarbeitet. Sie funktioniert beim Eigentumsrecht (kolonial entstanden, als universal verkauft), beim Klassensystem („das war schon immer so"), und bei der Naturzerstörung („Wachstum ist alternativlos").
+Die Naturalisierung der Ungleichheit erzeugt politische Lähmung: Wenn die Verteilung *natürlich* ist, ist jede Korrektur unnatürlich. Wesche kennt den Mechanismus vom Eigentum: Privateigentum werde unter anderem deshalb nicht überwunden, „weil es so uns selbstverständlich zu sein scheint“, es „scheint irgendwie in Stein gemeißelt zu sein“. Die Linie zum Kolonialrecht und zur Wachstumsfrage ziehen wir; sie liegt nahe, steht aber so nicht im Gespräch.
 
 [▶ 91:53](https://www.youtube.com/watch?v=JPPvdyFyw4U&t=5513) — Und dann fällt der zentrale Verweis auf Warren Buffett:
 
@@ -211,9 +211,11 @@ Jung & Naiv lässt am Ende immer die Zuschauerinnen zu Wort kommen — und gerad
 
 [▶ 158:48](https://www.youtube.com/watch?v=JPPvdyFyw4U&t=9528) — Die erste Zuschauerfrage zielt auf etwas scheinbar Banales: Könnte nicht weniger Krempel hergestellt werden, der ohnehin in der Tonne landet, ins Meer wandert und als Mikroplastik in unseren Körpern wieder ankommt?
 
-Wesche bestätigt: Globalvermüllung gehört zu den großen ökologischen Krisen — neben Erderwärmung und Artensterben. Er verweist auf das Buch *Die Ewigkeitsstoffe* (Sandra Krautwaschl / Anja Krieger, Anm.) — Plastik ist überall: auf den höchsten Berggipfeln, auf dem Meeresboden, in höherer Dichte in Wohnungen als draußen. Es wird von der Natur nicht abgebaut.
+Wesche bestätigt: Globalvermüllung gehört zu den großen ökologischen Krisen — neben Erderwärmung und Artensterben. Er verweist auf ein neues Buch über „Ewigkeits-Plastiken“, die Autorin hat er gerade nicht präsent — Plastik ist überall: auf den höchsten Berggipfeln, auf dem Meeresboden, in höherer Dichte in Wohnungen als draußen. Es wird von der Natur nicht abgebaut.
 
-> *„Wir fressen jede Woche eine Kreditkarte. Vieles wird ausgeschieden, aber vieles auch nicht."*
+> *„Also, ich glaube, also die Größe an der Bankkarte irgendwie, ne? Also eine EC-Karte oder Kreditkarte, ne? So viel Plastik nehmen wir in uns auf. Vieles wird ausgeschieden, aber vieles auch wieder nicht."*
+
+„Wir fressen jede Woche eine Kreditkarte“, fasst Tilo Jung zusammen.
 
 Die philosophische Pointe bleibt implizit, lässt sich aber unmittelbar anschließen: Plastik ist Eigentumsrecht in seiner aggressivsten Form — die Industrie nutzt die Natur als Deponie, weil ihr keine Rechtsperson gegenübersteht, die Sachbeschädigung geltend machen könnte.
 
@@ -425,7 +427,7 @@ Wo Wesche Natur als Rechtssubjekt statt Eigentum denkt, zeigt Good News Juni die
 
 ### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
 
-Wesche liefert das juristische Getriebe zu Beckerts Kriegskapitalismus: Beckert benennt Landraub als konstitutiv, erklärt aber nicht, wie er legal wurde — Wesche zeigt, wie gemeinschaftliches Eigentum als Abwesenheit von Eigentum gelesen und das Land damit aneigenbar wurde. Beckerts Diagnose, der Neoliberalismus habe den Kapitalismus naturalisiert, ist dasselbe wie Wesches „Das war schon immer so".
+Wesche liefert das juristische Getriebe zu Beckerts Kriegskapitalismus: Beckert benennt Landraub als konstitutiv, erklärt aber nicht, wie er legal wurde — Wesche zeigt, wie gemeinschaftliches Eigentum als Abwesenheit von Eigentum gelesen und das Land damit aneigenbar wurde. Beckerts Diagnose, der Neoliberalismus habe den Kapitalismus naturalisiert, trifft, was Wesche beim Privateigentum beschreibt: Es scheint „in Stein gemeißelt“.
 
 ---
 
@@ -466,6 +468,6 @@ Barbara Prainsack kommt von der Solidarität her zum selben Schluss: Elemente de
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Wesche sagt, man muss Eigentum nicht abschaffen, sondern *mit seinen eigenen Waffen schlagen* — aber: *Kann man ein System wirklich von innen heraus transformieren, wenn seine Grundkategorien (Eigentum, Recht, Vertrag) genau die Ordnung reproduzieren, die man verändern will?*
 > - Der Whanganui-Fluss hat Rechte — *aber wer entscheidet, ob seine Interessen im konkreten Fall gewahrt wurden? Öffnet stellvertretende Rechtswahrnehmung nicht eine neue Front für Machtkonflikte?*
-> - Wesche erlebte die Apartheid als Kind ohne sie zu bemerken — *Was ist die Entsprechung heute? Welche strukturelle Ungerechtigkeit erleben wir als Selbstverständlichkeit, die in 30 Jahren als offensichtliches Unrecht gelten wird?*
+> - Wesche erlebte die Apartheid als Kind zuerst als „komisch“, dann als Unrecht, gegen das er sich stellte — *Was ist die Entsprechung heute? Welche strukturelle Ungerechtigkeit erleben wir als Selbstverständlichkeit, die in 30 Jahren als offensichtliches Unrecht gelten wird?*
 > - Die Natur als Eigentümerin denken bedeutet, Menschen als Nutzer fremden Eigentums zu verstehen — *Was ändert das am Verhältnis zur Natur: Vom Ressourcendenken zum Gastverhältnis? Und welche anderen Kulturen haben dieses Verhältnis schon immer so gedacht?*
 > - Wesche koppelt seine Naturrechte mit einem Plädoyer für ergänzende direkte Demokratie — *aber wer verbindliche Volksentscheide will, muss auch Mehrheiten gegen die eigene Überzeugung aushalten. Wären Naturrechte mehrheitsfähig — oder bräuchte es paradoxerweise gerade einen demokratie-skeptischen Verfassungsschutz für die Natur?*
