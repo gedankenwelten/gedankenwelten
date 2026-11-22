@@ -69,14 +69,14 @@
    "aufrufe": 15
   },
   {
+   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+   "leser": 11,
+   "aufrufe": 11
+  },
+  {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
    "leser": 10,
    "aufrufe": 12
-  },
-  {
-   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-   "leser": 10,
-   "aufrufe": 10
   },
   {
    "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -154,6 +154,11 @@
    "aufrufe": 8
   },
   {
+   "pfad": "/DenkerVita/Byung-Chul-Han",
+   "leser": 6,
+   "aufrufe": 8
+  },
+  {
    "pfad": "/DenkerVita/Christian-Bauckhage",
    "leser": 6,
    "aufrufe": 8
@@ -162,11 +167,6 @@
    "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
    "leser": 6,
    "aufrufe": 6
-  },
-  {
-   "pfad": "/DenkerVita/Byung-Chul-Han",
-   "leser": 5,
-   "aufrufe": 7
   },
   {
    "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
@@ -349,6 +349,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 5,
      "aufrufe": 7
@@ -364,11 +369,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 5,
      "aufrufe": 5
@@ -376,6 +376,11 @@
     {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 4,
      "aufrufe": 5
     },
     {
@@ -412,11 +417,6 @@
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 3,
      "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 3,
-     "aufrufe": 4
     },
     {
      "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
@@ -564,11 +564,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
      "leser": 2,
      "aufrufe": 2
@@ -580,11 +575,6 @@
     },
     {
      "pfad": "/DenkerVita/Arnd-Henze",
-     "leser": 1,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Udo-Marquardt",
      "leser": 1,
      "aufrufe": 2
     },
@@ -605,6 +595,16 @@
     },
     {
      "pfad": "/Denker/Andreas-Reckwitz-Fortschritt-NEU-DENKEN",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 1,
      "aufrufe": 1
     }
@@ -679,14 +679,14 @@
      "aufrufe": 15
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 11,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 10,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 10,
-     "aufrufe": 10
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -764,6 +764,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 6,
+     "aufrufe": 8
+    },
+    {
      "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 6,
      "aufrufe": 8
@@ -772,11 +777,6 @@
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 6,
      "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 5,
-     "aufrufe": 7
     },
     {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
@@ -1034,6 +1034,11 @@
      "aufrufe": 16
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 15,
+     "aufrufe": 15
+    },
+    {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
      "leser": 15,
      "aufrufe": 15
@@ -1044,14 +1049,9 @@
      "aufrufe": 21
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 14,
-     "aufrufe": 14
-    },
-    {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 13,
-     "aufrufe": 15
+     "leser": 14,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
@@ -1339,6 +1339,11 @@
      "aufrufe": 16
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 15,
+     "aufrufe": 15
+    },
+    {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
      "leser": 15,
      "aufrufe": 15
@@ -1349,14 +1354,9 @@
      "aufrufe": 21
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 14,
-     "aufrufe": 14
-    },
-    {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 13,
-     "aufrufe": 15
+     "leser": 14,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
@@ -1584,14 +1584,14 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 8,
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 7,
-     "aufrufe": 7
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 8,
+     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
@@ -1640,6 +1640,11 @@
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 5,
      "aufrufe": 5
     },
@@ -1705,11 +1710,6 @@
     },
     {
      "pfad": "/DenkerVita/Pascal-Kaufmann",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 4,
      "aufrufe": 4
     },

@@ -1,9 +1,9 @@
 ---
 title: Arnd Henze — DenkerVita
-description: "Arnd Henze, Theologe und WDR-Journalist, verfolgt, wie christlicher Nationalismus die Demokratie angreift und wie Bonhoeffer zur Parole der Neuen Rechten wurde."
+description: "Bonhoeffers Erbe ist sein Blick auf die Wirklichkeit, nicht der Kalenderspruch: Arnd Henze verfolgt, wie christlicher Nationalismus Religion zur Waffe gegen die Demokratie macht."
 date: 2026-05-16
-aktualisiert: 2026-05-16
-tags: [denker-vita, demokratie, rechtsextremismus, medien, deutschland]
+aktualisiert: 2026-11-22
+tags: [denker-vita, demokratie, rechtsextremismus, religion, usa, trump, deutschland]
 ---
 
 # Arnd Henze — DenkerVita
@@ -18,54 +18,101 @@ tags: [denker-vita, demokratie, rechtsextremismus, medien, deutschland]
 
 </details>
 
-> [!info] Wer ist das?
-> **Arnd Henze** (*25. September 1961, Einbeck*) — Evangelischer Theologe, investigativer WDR-Journalist und öffentlicher Intellektueller an der Schnittstelle von Medien, Theologie und Demokratie. Bekannt durch präzise Analysen des christlichen Nationalismus und der antidemokratischen Strömungen im deutschen Protestantismus.
+## Biographischer Snapshot
+
+> [!info] Wer spricht?
+> **Arnd Henze** (Jahrgang 1961) ist evangelischer Theologe und Fernsehjournalist beim WDR, seit 2019 in der Innenpolitik und im Investigativ-Ressort. Der Rat der EKD hat ihn in die 13. Synode der Evangelischen Kirche in Deutschland berufen.
 >
-> Wichtigste Werke: *Kann Kirche Demokratie? Wir Protestanten im Stresstest* (2019), *Mit Gott gegen die Demokratie* (2026).
+> Er studierte Theologie in Göttingen, Heidelberg und Berkeley, war zwanzig Jahre Redakteur für Außenpolitik beim WDR und von 2012 bis 2019 Korrespondent im ARD-Hauptstadtstudio. Er schreibt über das Erbe des Protestantismus und über den christlichen Nationalismus.
+>
+> Wichtigste Werke: *Kann Kirche Demokratie? Wir Protestanten im Stresstest* (2019), *Mit Gott gegen die Demokratie. Warum der christliche Nationalismus alle angeht* (2026)
+> Kernbegriffe: christlicher Nationalismus, Stresstest der Demokratie, Bonhoeffer als Verfügungsmasse, illusionslose Hoffnung
+
+*Grundlage sind seine Seite bei der EKD-Synode, die Autoren- und Buchseiten der Verlage (Herder, Gütersloher Verlagshaus) mit der Leseprobe von 2026, chrismon, der Normdatensatz der Deutschen Nationalbibliothek, ein Interview im Sonntagsblatt (Juni 2026) und unser Transkript seines Gesprächs an der Evangelischen Akademie Frankfurt (2021). Am 22.11.2026 neu geprüft.*
+
+---
 
 ## Biografie
 
-Arnd Henze wurde am 25. September 1961 in Einbeck, Niedersachsen, geboren. Er studierte evangelische Theologie und ökumenische Theologie in Göttingen und Heidelberg, schloss sein Studium an der Graduate Theological Union der UC Berkeley in den USA ab — eine Prägung, die seinen transatlantischen Blick auf Religion und Demokratie dauerhaft formte.
+Arnd Henze, Jahrgang 1961, begann schon als 17-Jähriger beim NDR, als freier Hörfunkjournalist in der Jugendsparte, und blieb es bis 1990. Von 1983 bis 1990 studierte er evangelische und ökumenische Theologie in Göttingen, Heidelberg und an der Graduate Theological Union im kalifornischen Berkeley, dazu internationale Politik.
 
-Schon als 17-Jähriger begann er beim NDR in der Jugendsparte zu arbeiten. Parallel zum Studium, das er 1982/83 durch einen freiwilligen Dienst bei Aktion Sühnezeichen/Friedensdienste unterbrach, entwickelte er seine journalistische Sprache. Sein frühes Interesse an der theologischen Mittäterschaft beim Nationalsozialismus mündete 1987 in eine Studie über die Kontinuität antisemitischer Theologien in der Nachkriegszeit — ein Thema, das ihn nie losließ.
+Nach dem Volontariat beim WDR (1990/91) war er von 1992 bis 2012 Redakteur und Reporter für Außenpolitik und berichtete viele Jahre aus den USA und aus Krisenregionen, für *Tagesschau*, *Tagesthemen* und *Weltspiegel*. Von 2012 bis 2019 war er Korrespondent im ARD-Hauptstadtstudio, zuständig für Außen- und Sicherheitspolitik. Seit 2019 arbeitet er für die Innenpolitik und das Investigativ-Ressort des WDR. Mit Sonja Kättner-Neumann drehte er den Film *Ich weiß nicht mal, wie er starb*, über ein Pflegeheim, das zur Coronafalle wurde; er bekam den ersten Preis beim Medienpreis der Deutschen Gesellschaft für Innere Medizin. „Viele seiner Reportagen wurden mit Preisen ausgezeichnet“, schreibt sein Verlag. Im September 2026 berichtete er für die ARD aus Washington.
 
-Seit 1992 arbeitet er beim WDR als Redakteur und Reporter, zunächst mit dem Schwerpunkt investigative Reportage. Von 2012 bis 2019 war er Korrespondent im ARD-Hauptstadtstudio und verantwortlich für Außenpolitik; er berichtete aus zahlreichen Krisenregionen der Welt. Seit 2020 ist er Mitglied der EKD-Synode — ein ungewöhnlicher Schritt für einen Journalisten, der sein kirchenpolitisches Engagement damit institutionell verankerte.
+In der Kirche ist er ein berufenes, nicht gewähltes Mitglied der 13. EKD-Synode; 2021 gehörte er auch der rheinischen Landessynode an. 2019 erschien *Kann Kirche Demokratie?* bei Herder, im selben Jahr sein Aufsatz „Wem gehört Bonhoeffer?“ in *zeitzeichen*, der Grundtext seiner Bonhoeffer-These. Im März 2026 folgte *Mit Gott gegen die Demokratie*. Er beende es, schreibt er im Vorwort, „sehr viel hoffnungsvoller, als ich es begonnen habe“.
 
-Seine Dokumentarfilme wurden mehrfach ausgezeichnet: der Marler Fernsehpreis für Menschenrechte (2003), der Concordia-Preis für Presse- und Informationsfreiheit (2018), der „Andere Zeiten"-Journalistenpreis und der DGIM-Medienpreis für seine Corona-Dokumentation (2021), der Medienpreis Wirtschaft NRW (2022).
+---
 
 ## Bücher & Publikationen
 
-- [Kann Kirche Demokratie? Wir Protestanten im Stresstest](https://www.genialokal.de/Suche/?q=henze+kann+kirche+demokratie+stresstest) (2019, Herder) — Kritische Analyse: Der deutsche Protestantismus bis 1933 war „durch und durch antidemokratisch"; Warnung vor autoritären Traditionen in Frömmigkeitsmilieus
-- [Mit Gott gegen die Demokratie. Warum der christliche Nationalismus alle angeht](https://www.genialokal.de/Suche/?q=henze+mit+gott+gegen+demokratie) (2026, Penguin) — Analyse der Trump-evangelikalen Allianz als Demokratiegefahr; „unheilige Allianz" getrieben durch ressentimenthafte Rachegelüste
+| Titel | Jahr | Angaben |
+|---|---|---|
+| [Mit Gott gegen die Demokratie. Warum der christliche Nationalismus alle angeht](https://www.genialokal.de/Suche/?q=9783579062020) | 2026 | Gütersloher Verlagshaus, 224 S. Drei Teile: „Die Zeit der Rache“ (die Bewegung um Trump, „Die Internationale der Nationalisten“), „Wiederholt sich die Geschichte?“ (Kirchenkampf, Gleichschaltung) und „Wie sich die Demokratie retten lässt“, darin ein Kapitel über das, „was wir von Dietrich Bonhoeffer lernen können“ |
+| [Kann Kirche Demokratie? Wir Protestanten im Stresstest](https://www.genialokal.de/Suche/?q=9783451379796) | 2019 | Herder, 175 S. Laut Verlag ein „selbstkritischer Blick auf das braune Erbe des Protestantismus“ und die Frage, warum treue Kirchgänger „besonders anfällig für autoritäre, nationalistische und ausgrenzende Einstellungen“ sind |
+
+Aufsätze: „Wem gehört Bonhoeffer?“, *zeitzeichen* 12/2019 · „‚Junge, komm runter von der Kanzel!‘ Erfahrungen als Theologe im politisch-säkularen Journalismus“, *Concilium* 29 (1993).
+
+---
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Bonhoeffer und „Die Neue Rechte"](https://www.youtube.com/watch?v=pXzHAvf5kRU) (Evangelische Akademie Frankfurt, 2021) — Kerngespräch zur Vereinnahmungsstrategie
-- [Wem gehört Bonhoeffer?](https://www.youtube.com/results?search_query=Arnd+Henze+Bonhoeffer) — Vortragsformat an verschiedenen Orten
-- [Weaponizing Bonhoeffer](https://www.youtube.com/results?search_query=Arnd+Henze+Weaponizing+Bonhoeffer) — Vortrag an Yale University und Union Theological Seminary (NYC), 2024
+- [Bonhoeffer und „Die Neue Rechte“ – Ein Gespräch mit Arnd Henze](https://www.youtube.com/watch?v=pXzHAvf5kRU) (Evangelische Akademie Frankfurt, Juni 2021, 1:34 Std.) — sein Vortrag zur Vereinnahmung Bonhoeffers, danach ein Gespräch
+- [„Wem gehört Bonhoeffer?“ – Wie rechte Kreise den Theologen und Widerstandskämpfer vereinnahmen](https://www.youtube.com/watch?v=Cj4oeBlle18) (Ev. Kirchenkreis Bielefeld, April 2022, 1:12 Std.)
+- [Christlicher Nationalismus als Rache am Rechtsstaat](https://www.youtube.com/watch?v=R0lIL6EsIlM) (forum Kirche Bremen, November 2025, 1:35 Std.)
+- [Mit Gott gegen die Demokratie — Buchvorstellung und Diskussion](https://www.youtube.com/watch?v=KFefbPRBJtU) (Evangelische Akademie zu Berlin, März 2026, 2:01 Std.)
+- [Mit Gott gegen die Demokratie](https://www.youtube.com/watch?v=pf6WEYYVVkg) (Haus am Dom Frankfurt, Mai 2026, mit Meron Mendel, 1:32 Std.)
+- [Wie Trumps Gotteskrieger die Demokratie zerstören wollen](https://www.youtube.com/watch?v=0M9OEAU1R_s) (DER STANDARD, Juni 2026, 55 Min.)
+
+---
 
 ## Kernthesen
 
-1. **Antidemokratisches protestantisches Erbe:** Der deutsche Protestantismus war bis 1933 „durch und durch antidemokratisch" — Monarchietreue, Nationalismus, Antisemitismus prägten die Mehrheit. Dieser Bruch wurde nach 1945 nicht konsequent aufgearbeitet und wirkt in Frömmigkeitsmilieus fort.
+1. **Das Erbe des Protestantismus.** Die evangelische Kirche hat ein „braunes Erbe“, und sie hat „auch nach 1945 … noch lange mit der Demokratie gefremdelt“, so sein Verlag über das Buch von 2019. Im Gespräch 2021 sagt Henze, die Rechte knüpfe an das an, „was vor 1933 common sense“ war, und „dieses deutschnationale Erbe, was es im Protestantismus noch gibt, ist ein riesen Steinbruch für die Rechten“. Die Kirche habe „spezifische Anfälligkeiten in einem ganz bestimmten autoritären, auch nationalistischen“ Erbe, „wir sind eine weiße Kirche“.
 
-2. **Christlicher Nationalismus als globale Rachebewegung:** Die weiße evangelikale Allianz mit Trump ist nicht primär wirtschaftlich motiviert, sondern emotional-ressentimenthaft — Rache für ein Jahrhundert emanzipatorischer Bewegungen (Bürgerrechte, Feminismus, LGBTQ*, Säkularisierung).
+2. **Christlicher Nationalismus als Rache.** Was Trump mit seinen frommen Anhängern verbinde, seien keine gemeinsamen moralischen Werte und keine politische Agenda: „Sie lieben ihn nicht trotz, sondern wegen seiner tiefen Verachtung für alle Grenzen des Rechts.“ Die Bewegung sehe das 20. Jahrhundert als Zeit der Niederlagen, „gegen Evolution, Frauenrechte, gleiche Rechte für queere Menschen“, und Trump als den, „der diese Niederlagen rächt“. Das Versprechen der Vergeltung übertünche, dass seine Politik „materiell vor allem den Reichen“ nütze.
 
-3. **Bonhoeffer als Verfügungsmasse:** Durch die Entkernung Bonhoeffers zur inhaltslosen Ikone — Kalender-Zitate ohne Kontext, Che-Guevara-Haftung — wurde er für jeden verfügbar, der Widerstandsrhetorik braucht. Die Verantwortung dafür liegt auch beim liberalen Milieu.
+3. **Bonhoeffer als Verfügungsmasse.** Man habe „widerspruchslos hingenommen, dass Bonhoeffer … zur inhaltslosen Ikone geworden ist, zu einem Che Guevara für T-Shirts“ auf Kirchentagen, zu Kalendersprüchen, manchmal ohne Quellenangabe; dann „dürfen wir uns nicht wundern, wenn er zur Verfügungsmasse wird“. Nach der Kritik an den rechten Akteuren wendet er sich an die eigene Kirche: „ich glaube, wir sind selber schuld daran“. Es sei eine Beliebigkeit, „die wir geschaffen haben und die andere jetzt ausnutzen“, aggressiv und strategisch.
 
-4. **Religion als Brandbeschleuniger UND Ressource:** Religion wird gefährlich, wenn sie politische Gegner zu Feinden Gottes erklärt. Sie wird wertvoll, wenn sie zum gewaltfreien Widerstand motiviert — Bürgerrechtsbewegung, Bonhoeffer selbst.
+4. **Religion als Machtinstrument und als Gegenkraft.** Christlicher Nationalismus sei „eine politische Ideologie“, „Religion wird dabei zum Machtinstrument“. Die Gegenkraft sucht er in derselben Religion, in „einer Theologie der Nachbarschaft“ von Gemeinden und Nachbarn, in einer widerständigen Diakonie und bei Bonhoeffer.
 
-5. **Methode vor Zitat:** Bonhoeffers eigentliches Erbe ist nicht seine Rhetorik, sondern seine Methode — Realität scharf analysieren, dann sprechen. Wer ihn wirklich versteht, zitiert ihn vielleicht seltener.
+5. **Die eigene Wirklichkeit ansehen.** Das Wichtigste an Bonhoeffer sei gewesen, dass er sich in seiner Zeit der Realität gestellt und von ihr aus auch die Theologie in Frage gestellt habe. Unsere Aufgabe sei, die Herausforderungen von heute „nicht mit Zitaten von damals zu kaschieren“, sondern „unsere eigenen Antworten“ zu finden.
+
+6. **Stresstest, nicht Krise.** Das Bild vom Stresstest setzt er „ganz bewusst“ gegen die Krise, denn Krise führe schnell zu „fatalistischem Denken“. Die Demokratie erlebe Stresstests „nicht als Simulation, sondern in der Realität“. Eine diverse Gesellschaft sei konfliktreich, und das sei „erstmal Ergebnis einer Erfolgsgeschichte, gerade weil Integration gelingt“.
+
+7. **Nicht mit dem Verführer, wohl mit den Verirrten.** Auf ein Podium mit Rechtsextremen oder AfD-Politikern setzt er sich nicht. Bei denen, die sich in der Coronazeit „zu Querdenkern verirrt“ haben, würde er sich „eher die Frage stellen“, was die Kirche versäumt hat. Kritik am Staat gehöre zur Kirche, entscheidend sei, „ob es darum geht, etwas besser zu machen oder etwas verächtlich zu machen“. 2026 nennt er seine Haltung „illusionslose Hoffnung“: „Wir dürfen weder die Gefahren kleinreden noch die Hoffnungsräume übersehen.“
+
+---
 
 ## Politische Einordnung
 
-Liberal-progressiv, aber aus theologischer Tiefenschärfe — nicht flacher Säkularität. Strikt für Rechtsstaat und Menschenrechte; gegen Populismus, Nationalismus, Antisemitismus. Intern-kritisch gegenüber dem deutschen Protestantismus, ohne ihn aufzugeben. Transatlantisch vernetzt (Berkeley, Yale, Bonhoeffer Society).
+Wir ordnen ihn dem liberal-protestantischen Spektrum zu, das die Demokratie gegen die eigene Tradition verteidigt. Er selbst sieht für den Protestantismus eine „zweite Chance“, „zum ersten Mal auf der richtigen Seite der Geschichte zu stehen – oder genauer: zu kämpfen“ (Herder). Seine Kritik trifft die rechten Akteure, die Bonhoeffer und die Kirche vereinnahmen, und ebenso die eigene Kirche, deren Beliebigkeit sie nutzen.
+
+---
 
 ## Verbindungen zu anderen Denkern
 
 ### → [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]
 
-Henzes eigentliches Thema: was nach Bonhoeffer mit Bonhoeffer geschah. Er verfolgt, wie aus dem Theologen eine Verfügungsmasse wurde — Metaxas' Biografie, der „Bonhoeffer-Moment“ im US-Wahlkampf, die AfD-Broschüre, die die Bekennende Kirche für sich reklamiert — und sagt dabei den unangenehmen Teil: Verfügbar gemacht hat ihn nicht die Rechte, sondern das eigene liberale Milieu, das ihn auf Kalendersprüche und Kirchentagsshirts heruntergekocht hat. Damit wendet Henze Bonhoeffers eigene These auf ihn an. Ein Satz ohne Zusammenhang ist eine Parole, und Parolen sind genau das Material, aus dem nach Bonhoeffers Beschreibung die Dummheit gemacht wird.
+Henzes eigentliches Thema: was nach Bonhoeffer mit Bonhoeffer geschah. Er verfolgt, wie aus dem Theologen eine Verfügungsmasse wurde — Metaxas' Biografie, der „Bonhoeffer-Moment“ im US-Wahlkampf, die AfD-Broschüre, die die Bekennende Kirche für sich reklamiert — und sagt dabei den unangenehmen Teil: Er glaubt, die eigene Kirche sei „selber schuld daran“, weil sie Bonhoeffer zu Kalendersprüchen und Kirchentags-T-Shirts gemacht hat; die Rechte nutzt diese Beliebigkeit aus. Eine Pointe, die er selbst nicht zieht: Die Facebook-Kachel, die Rechte 2015 gegen Merkels Flüchtlingspolitik teilten, trug ausgerechnet Bonhoeffers Text über die Dummheit. Ein Satz ohne Zusammenhang wird zur Parole, und Parolen sind nach Bonhoeffers Beschreibung genau das Material der Dummheit.
+
+---
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] — Gespräch an der Evangelischen Akademie Frankfurt (2021) über die Vereinnahmung Bonhoeffers durch die Neue Rechte
+
+**Er kommt außerdem vor in:** [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]], [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit|Wolfgang Huber — Bonhoeffer und die Wahrheit]], [[Geistesblitz/Simplicissimus — Der Freiwillige von Auschwitz|Simplicissimus — Der Freiwillige von Auschwitz]] und [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird]].
+
+---
+
+## Quellen
+
+- EKD: [Synodalenseite Arnd Henze](https://www.ekd.de/henze-63491.htm) — Studium, NDR, WDR-Stationen, 13. Synode
+- Penguin Random House: [Autorenseite](https://www.penguin.de/autoren/arnd-henze/768208), [Mit Gott gegen die Demokratie](https://www.penguin.de/buecher/arnd-henze-mit-gott-gegen-die-demokratie/buch/9783579062020) mit [Leseprobe](https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-579-06202-0.pdf)
+- Herder: [Kann Kirche Demokratie?](https://www.herder.de/religion-spiritualitaet/shop/p3/58655-kann-kirche-demokratie-ebook-epub/)
+- chrismon: [Arnd Henze](https://chrismon.de/personen/47943/arnd-henze)
+- Sonntagsblatt: [Interview vom 18.06.2026](https://www.sonntagsblatt.de/artikel/gesellschaft/donald-trump-und-der-christliche-nationalismus-experte-warnt-vor-angriff-auf)
+- Hanns-Lilje-Stiftung: [DGIM-Medienpreis (2021)](https://www.hanns-lilje-stiftung.de/aktuell/news/2021/2021_06_18)
+- Deutsche Nationalbibliothek: [Normdatensatz 1189158639](https://lobid.org/gnd/1189158639)
+
+> [!note] Korrigiert am 22.11.2026
+> Das Zitat, der Protestantismus sei bis 1933 „durch und durch antidemokratisch“ gewesen, steht weder in seinem Buch noch im Gespräch; es ist gestrichen. Der Satz „Wer ihn wirklich versteht, zitiert ihn vielleicht seltener“ war unserer, nicht seiner. Der Werdegang beim WDR stand in falscher Reihenfolge (investigativ erst seit 2019), der Verlag von 2026 ist das Gütersloher Verlagshaus. Geburtstag und -ort, ein Freiwilligendienst, eine Studie von 1987, vier Preise und ein Vortrag in Yale ließen sich nicht belegen und sind gestrichen. Neu gefasst sind außerdem: Die Entkernung Bonhoeffers schreibt er mit „ich glaube“ und „wir“ der eigenen Kirche zu, nicht pauschal dem liberalen Milieu; in die Synode ist er berufen, ein Eintrittsjahr nennt keine Quelle; die Liste der Niederlagen, die Trump rächen soll, folgt jetzt seinem Wortlaut (Evolution, Frauenrechte, queere Rechte).
