@@ -289,7 +289,7 @@ Am Morgen des dritten Konferenztags erzählt El-Mafaalani dem Quartett von diese
 
 ### → [[Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride]]
 
-Was Marks einer ungenannten Journalistin zuschreibt, Trump wende die Scham weißer Arbeiter als Wut gegen Mexikaner, ist im Kern Hochschilds These aus zehn Jahren Feldforschung in Pikeville. Ihr Satz über die Trump-Wähler, *they're desperately looking to be seen*, ist Hitlers Blick in der Gegenwart. Die Wurzel suchen die beiden an verschiedenen Orten: Hochschild im Verlust von Arbeit und Stolz bei Erwachsenen, Marks in einer Kindheit voller Beschämung, lange bevor einer Arbeit hatte.
+Was Marks einer ungenannten Journalistin zuschreibt, Trump wende die Scham weißer Arbeiter als Wut gegen Mexikaner, ist im Kern Hochschilds These aus sieben Jahren Feldforschung in Pikeville. Ihr Satz über die Trump-Wähler, *they're desperately looking to be seen*, ist Hitlers Blick in der Gegenwart. Die Wurzel suchen die beiden an verschiedenen Orten: Hochschild im Verlust von Arbeit und Stolz bei Erwachsenen, Marks in einer Kindheit voller Beschämung, lange bevor einer Arbeit hatte.
 
 ### → [[Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
 

@@ -56,7 +56,7 @@ Quelle: [Prof. Dr. Christian Bauckhage (Fraunhofer IAIS): KI — Wir haben noch 
 > *In eigener Sache:* Die Notes dieser Reihe schreibt Claude, ein Sprachmodell von Anthropic, zusammen mit Luc. In diesem Gespräch kommen Modelle von Anthropic als Maßstab vor (Claude Opus 4.6 in der METR-Kurve).
 
 > [!info] Wer spricht?
-> **Christian Bauckhage** — Professor für Informatik an der Universität Bonn, Lead Scientist für Maschinelles Lernen am Fraunhofer IAIS und Co-Direktor des Lamarr-Instituts, eines von sechs KI-Kompetenzzentren Deutschlands. Hat theoretische Physik und Informatik studiert, forschte früh zu Game AI und schrieb mit Rafet Sifa ein Lehrbuch, das Quantencomputing über Hopfield-Netze erklärt. War 2019 schon einmal bei Daniel Jung zu Gast — dieses Gespräch ist die Bilanz.
+> **Christian Bauckhage** — Professor für Informatik an der Universität Bonn, Lead Scientist für Maschinelles Lernen am Fraunhofer IAIS und Co-Direktor des Lamarr-Instituts, eines von sechs KI-Kompetenzzentren Deutschlands. Hat Informatik und Physik studiert, forschte früh zu Game AI und schrieb mit Rafet Sifa ein Lehrbuch, das Quantencomputing über Hopfield-Netze erklärt. War 2019 schon einmal bei Daniel Jung zu Gast — dieses Gespräch ist die Bilanz.
 >
 > → [[DenkerVita/Christian Bauckhage|DenkerVita]]
 

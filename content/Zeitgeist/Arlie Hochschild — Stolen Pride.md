@@ -30,12 +30,12 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Arlie Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt. Nach zehn Jahren Feldforschung in Pikeville, Kentucky — weißester und zweitärmster Kongressbezirk der USA — erklärt die Berkeley-Soziologin, warum die Menschen dort nicht trotz, sondern *wegen* ihrer Scham einen „Bully" wählen. Ihr Werkzeug ist radikale Empathie ohne Zustimmung: eine zweite Sprache lernen, in der Stolz und Scham die Grammatik sind. Aufgenommen zwei Monate vor der US-Wahl 2024 in der Buchhandlung Politics and Prose, Washington D.C.
+> Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Arlie Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt. Nach sieben Jahren Feldforschung in Pikeville, Kentucky — weißester und zweitärmster Kongressbezirk der USA — erklärt die Berkeley-Soziologin, warum die Menschen dort nicht trotz, sondern *wegen* ihrer Scham einen „Bully" wählen. Ihr Werkzeug ist radikale Empathie ohne Zustimmung: eine zweite Sprache lernen, in der Stolz und Scham die Grammatik sind. Aufgenommen zwei Monate vor der US-Wahl 2024 in der Buchhandlung Politics and Prose, Washington D.C.
 
 Quelle: [Arlie Russell Hochschild — Stolen Pride, mit Scott Tong (Politics and Prose, 09.09.2024)](https://archive.org/details/9-9-hochschild) · [YouTube-Mitschnitt](https://www.youtube.com/watch?v=DtHkgDaIvlU) · CC BY-NC-ND 4.0
 
 > [!info] Wer spricht?
-> **Arlie Russell Hochschild** (*1940, Boston*) — Soziologin, Professorin emerita an der UC Berkeley, Pionierin der Emotionssoziologie. Mit *The Managed Heart* (1983) prägte sie den Begriff der **emotional labor**; *Strangers in Their Own Land* (2016, National-Book-Award-Finalistin) machte ihre Methode berühmt: jahrelange Feldforschung bei Menschen, deren Politik sie nicht teilt, bis sie deren **deep story** erzählen kann. Für *Stolen Pride* (2024) ging sie nach Pikeville, Kentucky — zehn Jahre on/off in Appalachia. Ihr Gesprächspartner **Scott Tong** (NPR „Here & Now") begleitete sie eine Woche vor Ort.
+> **Arlie Russell Hochschild** (*1940, Boston*) — Soziologin, Professorin emerita an der UC Berkeley, Pionierin der Emotionssoziologie. Mit *The Managed Heart* (1983) prägte sie den Begriff der **emotional labor**; *Strangers in Their Own Land* (2016, National-Book-Award-Finalistin) machte ihre Methode berühmt: jahrelange Feldforschung bei Menschen, deren Politik sie nicht teilt, bis sie deren **deep story** erzählen kann. Für *Stolen Pride* (2024) ging sie nach Pikeville, Kentucky — sieben Jahre on/off in Appalachia. Ihr Gesprächspartner **Scott Tong** (NPR „Here & Now") begleitete sie eine Woche vor Ort.
 >
 > → [[DenkerVita/Arlie Russell Hochschild|DenkerVita]]
 

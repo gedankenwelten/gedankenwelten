@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 117,
-   "aufrufe": 141
+   "leser": 118,
+   "aufrufe": 142
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 42,
-   "aufrufe": 48
+   "leser": 41,
+   "aufrufe": 47
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -189,6 +189,11 @@
    "aufrufe": 5
   },
   {
+   "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
    "pfad": "/DenkerVita/Anke-Myrrhe",
    "leser": 5,
    "aufrufe": 5
@@ -269,11 +274,6 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
    "leser": 4,
    "aufrufe": 4
@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 15,
-     "aufrufe": 18
+     "leser": 16,
+     "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -389,6 +389,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Zeitgeist/Arolsen-Archives-Wie-Rechtsextreme-Geschichte-umdeuten",
      "leser": 4,
      "aufrufe": 4
@@ -425,11 +430,6 @@
     },
     {
      "pfad": "/Denker/Pankaj-Mishra-Zeitalter-des-Zorns",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
      "leser": 3,
      "aufrufe": 3
     },
@@ -479,11 +479,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Agnes-Callard-Warum-lohnt-sich-ein-sokratisches-Leben",
      "leser": 2,
      "aufrufe": 2
@@ -520,11 +515,6 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Marks",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
      "leser": 2,
      "aufrufe": 2
     },
@@ -569,6 +559,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
      "leser": 2,
      "aufrufe": 2
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Andreas-Reckwitz-Fortschritt-NEU-DENKEN",
      "leser": 1,
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende",
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 117,
-     "aufrufe": 141
+     "leser": 118,
+     "aufrufe": 142
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 42,
-     "aufrufe": 48
+     "leser": 41,
+     "aufrufe": 47
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -799,6 +799,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
@@ -879,11 +884,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
      "leser": 4,
      "aufrufe": 4
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1021,
-     "aufrufe": 1232
+     "leser": 1022,
+     "aufrufe": 1233
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1021,
-     "aufrufe": 1232
+     "leser": 1022,
+     "aufrufe": 1233
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1729,6 +1729,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Ronnie-Vuine",
      "leser": 3,
      "aufrufe": 3
@@ -1810,11 +1815,6 @@
     },
     {
      "pfad": "/Zeitgeist/Susan-Neiman-Nennen-wir-es-boese",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
      "leser": 2,
      "aufrufe": 2
     },

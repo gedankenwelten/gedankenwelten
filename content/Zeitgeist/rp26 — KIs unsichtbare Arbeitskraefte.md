@@ -265,4 +265,4 @@ Die Kehrseite: Beim Europäischen Erfinderpreis 2024 wurde Cordelia Schmid für 
 > - Joan sagt: „Behandle Menschen so, wie du behandelt werden wolltest." — Aber was, wenn die Architektur des Systems sicherstellt, dass man nie in Joans Position kommen kann? *Ist Empathie dann Lösung oder Ablenkung?*
 > - Ephantus durfte nicht kommen, weil er kein Visum bekam. Joans Arbeit durfte nach Europa — ihre Stimme fast nicht. *Wie können wir von „globaler KI-Governance" sprechen, wenn die betroffensten Menschen aus dem Raum ausgesperrt bleiben?*
 > - Die Data Labelers Association kämpft für Anerkennung im bestehenden System. *Ist das der richtige Kampf — oder sollte die Forderung sein, das System grundlegend umzustrukturieren?*
-> - → Vergleich mit [[Denker/Byung-Chul Han|Byung-Chul Hans]] Transparenzgesellschaft: Wenn alles sichtbar werden soll — wessen Unsichtbarkeit wird als normal akzeptiert?
+> - → Vergleich mit [[DenkerVita/Byung-Chul Han|Byung-Chul Hans]] Transparenzgesellschaft: Wenn alles sichtbar werden soll — wessen Unsichtbarkeit wird als normal akzeptiert?
