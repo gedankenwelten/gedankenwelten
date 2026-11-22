@@ -49,14 +49,14 @@
    "aufrufe": 19
   },
   {
+   "pfad": "/DenkerVita/Stephan-Bartunek",
+   "leser": 16,
+   "aufrufe": 17
+  },
+  {
    "pfad": "/DenkerVita/Benjamin-Biersky",
    "leser": 15,
    "aufrufe": 21
-  },
-  {
-   "pfad": "/DenkerVita/Stephan-Bartunek",
-   "leser": 15,
-   "aufrufe": 16
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -109,12 +109,17 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+   "pfad": "/DenkerVita/Byung-Chul-Han",
    "leser": 7,
-   "aufrufe": 10
+   "aufrufe": 9
   },
   {
    "pfad": "/DenkerVita/Marcant",
+   "leser": 7,
+   "aufrufe": 9
+  },
+  {
+   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
    "leser": 7,
    "aufrufe": 9
   },
@@ -150,11 +155,6 @@
   },
   {
    "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-   "leser": 6,
-   "aufrufe": 8
-  },
-  {
-   "pfad": "/DenkerVita/Byung-Chul-Han",
    "leser": 6,
    "aufrufe": 8
   },
@@ -315,13 +315,13 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 18,
-     "aufrufe": 21
+     "leser": 17,
+     "aufrufe": 20
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 13,
-     "aufrufe": 13
+     "leser": 14,
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -359,6 +359,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 5,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 5,
      "aufrufe": 5
@@ -371,11 +376,6 @@
     {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 4,
      "aufrufe": 5
     },
     {
@@ -411,7 +411,7 @@
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 3,
-     "aufrufe": 6
+     "aufrufe": 5
     },
     {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
@@ -659,14 +659,14 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 16,
+     "aufrufe": 17
+    },
+    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 15,
      "aufrufe": 21
-    },
-    {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 15,
-     "aufrufe": 16
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -719,12 +719,17 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 7,
-     "aufrufe": 10
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Marcant",
+     "leser": 7,
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 7,
      "aufrufe": 9
     },
@@ -760,11 +765,6 @@
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 6,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 6,
      "aufrufe": 8
     },
@@ -1024,14 +1024,19 @@
      "aufrufe": 17
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 16,
+     "aufrufe": 17
+    },
+    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 16,
      "aufrufe": 16
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 15,
-     "aufrufe": 16
+     "aufrufe": 17
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -1047,11 +1052,6 @@
      "pfad": "/DenkerVita/Marcant",
      "leser": 14,
      "aufrufe": 21
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 14,
-     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
@@ -1121,7 +1121,7 @@
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
-     "aufrufe": 13
+     "aufrufe": 12
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -1329,14 +1329,19 @@
      "aufrufe": 17
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 16,
+     "aufrufe": 17
+    },
+    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 16,
      "aufrufe": 16
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 15,
-     "aufrufe": 16
+     "aufrufe": 17
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -1352,11 +1357,6 @@
      "pfad": "/DenkerVita/Marcant",
      "leser": 14,
      "aufrufe": 21
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 14,
-     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
@@ -1426,7 +1426,7 @@
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
-     "aufrufe": 13
+     "aufrufe": 12
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -1629,6 +1629,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 6,
      "aufrufe": 6
@@ -1645,11 +1650,6 @@
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 5,
      "aufrufe": 5
     },

@@ -56,19 +56,19 @@ Die Gedankenwelten (luc)
 >
 > Wie misst man, was man nie sehen wird? Man zählt, wie oft das Seltenste geschieht, und achtet auf die Abweichung. So fand man einst Neptun, bevor ihn jemand sah.
 
+> **22.11.** — [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+>
+> Die Zellen einer Frau, die 1951 starb, teilen sich bis heute in Laboren der ganzen Welt. Gefragt hat sie niemand. Eine Reise in die Zelle, die bei dieser Schuld beginnt.
+
+> **22.11.** — [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+>
+> Zellen, die nicht mehr teilen wollen, eine Schweineniere für 130 Tage, Eizellen aus der Haut eines toten Nashorns: Die Zellforschung lernt eingreifen. Wie weit wollen wir gehen?
+
 > **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 >
 > Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
 
-> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
->
-> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
-
-> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
-
-> → *3 weitere in* [[Geistesblitz]]
+> → *5 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
