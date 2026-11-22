@@ -32,9 +32,9 @@ aliases:
 Quelle: [Bonhoeffer und „Die Neue Rechte" – Ein Gespräch mit Arnd Henze](https://www.youtube.com/watch?v=pXzHAvf5kRU) (Evangelische Akademie Frankfurt, 30. Juni 2021)
 
 > [!info] Wer spricht?
-> **Arnd Henze** (*25. September 1961, Einbeck*) — Evangelischer Theologe (Göttingen, Heidelberg, UC Berkeley), investigativer WDR-Journalist und öffentlicher Intellektueller an der Schnittstelle von Medien, Theologie und Demokratie. Von 2012 bis 2019 ARD-Korrespondent im Hauptstadtstudio, Außenpolitik. Seit 2020 Mitglied der EKD-Synode. Preisgekrönt für seine Corona-Dokumentation (2020) und investigativen Reportagen.
+> **Arnd Henze** (Jahrgang 1961) — Evangelischer Theologe (Göttingen, Heidelberg, Graduate Theological Union in Berkeley) und WDR-Journalist, 1992–2012 Redakteur für Außenpolitik, 2012–2019 ARD-Korrespondent im Hauptstadtstudio, seit 2019 Innenpolitik und Investigativ-Ressort. Vom Rat der EKD berufenes Mitglied der 13. Synode. Für den Film *Ich weiß nicht mal, wie er starb* über ein Pflegeheim in der Pandemie (mit Sonja Kättner-Neumann) erhielt er den Medienpreis der Deutschen Gesellschaft für Innere Medizin.
 >
-> Wichtigste Werke: *Kann Kirche Demokratie? Wir Protestanten im Stresstest* (2019), *Mit Gott gegen die Demokratie* (2026). Kernthese: Der deutsche Protestantismus war bis 1933 „durch und durch antidemokratisch" — ein Erbe, das bis heute in Frömmigkeitsmilieus nachwirkt und die evangelikale Allianz mit autoritären Bewegungen begünstigt.
+> Wichtigste Werke: *Kann Kirche Demokratie? Wir Protestanten im Stresstest* (2019), *Mit Gott gegen die Demokratie* (2026). Kernthese: Der deutsche Protestantismus hat ein „braunes Erbe“ und „auch nach 1945 … noch lange mit der Demokratie gefremdelt“ (so sein Verlag); dieses „deutschnationale Erbe“ sei heute „ein riesen Steinbruch für die Rechten“, sagt Henze an diesem Abend.
 >
 > → [[DenkerVita/Arnd Henze|DenkerVita]]
 >
@@ -71,7 +71,7 @@ Die entscheidende These des Buches: Bonhoeffer habe während seines New-Yorker A
 
 [▶ 12:22](https://www.youtube.com/watch?v=pXzHAvf5kRU&t=742)
 
-Der erste sichtbare Akt dieser Vereinnahmung in Deutschland: US-Botschafter Richard Grenell, der schon früh als Anheizer der Trump-Bewegung auftrat, ließ sich 2019 im ehemaligen KZ Flossenbürg — Bonhoeffers Hinrichtungsort — eine Gedenktafel enthüllen. Trotz kirchlichem Widerstand war der bayerische Landesbischof anwesend. Pläne, dass Vizepräsident Mike Pence — einer der härtesten Vertreter der religiösen Rechten — ein Jahr später von dort aus seinen Wahlkampf-Mobilisierungsauftritt halten würde, zerschlugen sich nur wegen der Pandemie.
+Der erste sichtbare Akt dieser Vereinnahmung in Deutschland: US-Botschafter Richard Grenell, der schon früh als Anheizer der Trump-Bewegung auftrat, sorgte 2019 dafür, dass im ehemaligen KZ Flossenbürg — Bonhoeffers Hinrichtungsort — eine Gedenktafel enthüllt wurde, die den Namen Donald Trumps trägt. Verhindern konnte man das nicht, immerhin aber, dass der bayerische Landesbischof persönlich dabei war. Und es stand die Drohung im Raum, dass ein Jahr später, mitten im Wahlkampf 2020, Vizepräsident Mike Pence — einer der härtesten Vertreter der religiösen Rechten — von Flossenbürg aus die evangelikale Szene in den USA mobilisieren würde.
 
 > *„Der ist ja nun zum Glück weg."* — Arnd Henze über Grenell ([▶ 21:38](https://www.youtube.com/watch?v=pXzHAvf5kRU&t=1298))
 
@@ -104,7 +104,7 @@ Das Ergebnis war historisch: 75–80 Prozent der weißen Evangelikalen wählten 
 
 [▶ 22:24](https://www.youtube.com/watch?v=pXzHAvf5kRU&t=1344)
 
-In Deutschland entwickelte die AfD eine analoge, aber eigenständige Strategie. Bereits vor dem Kirchentag 2019 präsentierte der rechte Flügel der Partei (Jöckel, Kalbitz) eine Broschüre mit dem Titel *Unheilige Allianzen*. Ihre These: eine Doppelkontinuität durch die deutsche Geschichte.
+In Deutschland entwickelte die AfD eine analoge, aber eigenständige Strategie. Bereits vor dem Kirchentag 2019 präsentierte der rechte Flügel der Partei (Höcke, Kalbitz) eine Broschüre mit dem Titel *Unheilige Allianzen*. Ihre These: eine Doppelkontinuität durch die deutsche Geschichte.
 
 *Kontinuität der Unterwürfigkeit:* Die evangelische Kirche hat immer mit den Mächtigen paktiert — die Deutschen Christen mit Hitler, der evangelische Kirchenbund mit dem SED-Regime, und die EKD heute mit der „Merkel-Diktatur" und dem „rotgrünen Zeitgeist".
 
@@ -136,7 +136,7 @@ Das Kammerorchester, das frustriert war über abgesagte Weihnachtskonzerte, bedi
 
 [▶ 29:19](https://www.youtube.com/watch?v=pXzHAvf5kRU&t=1759)
 
-Henze stellt eine unbequeme These auf: Wir sind selbst schuld. Nicht die Vereinnahmung durch die Rechte ist das eigentliche Problem — sondern die Entkernung durch das liberale Milieu, das sie erst möglich machte.
+Henze stellt eine unbequeme These auf: „ich glaube, wir sind selber schuld daran“. Wir, das ist die eigene Kirche. Schlimmer, „fast noch schlimmer“, als die Vereinnahmung durch die Rechte findet er die Entkernung, die ihr vorausging: eine Beliebigkeit, „die wir geschaffen haben und die andere jetzt ausnutzen“.
 
 [▶ 30:04](https://www.youtube.com/watch?v=pXzHAvf5kRU&t=1804)
 
@@ -248,7 +248,7 @@ Die Kirche darf — und soll — scharf sein. Aber die Haltung, aus der heraus d
 ## Faktencheck
 
 > [!success] Bestätigt — Grenell-Plakette in Flossenbürg (2019)
-> US-Botschafter Richard Grenell ließ 2019 im Gedenken an Donald Trump eine Plakette im ehemaligen KZ Flossenbürg enthüllen. Die Gedenkstätte selbst widersprach der politischen Indienstnahme. Quelle: [Evangelische Zeitung: Bonhoeffer-Gedenken in Flossenbürg](https://www.evangelische-zeitung.de/flossenburg-Bonhoeffer)
+> US-Botschafter Richard Grenell setzte sich 2019 für eine bronzene Bonhoeffer-Tafel in der Gedenkstätte Flossenbürg ein, die den Namen Donald Trumps trägt, und enthüllte sie in einer Feierstunde. Hochrangige Vertreter der Evangelischen Kirche blieben fern; Mike Pence twitterte, er wäre gern dabei gewesen. Quelle: Arnd Henze, [„Wem gehört Bonhoeffer?“, *zeitzeichen* 12/2019](https://zeitzeichen.net/node/7980)
 
 > [!success] Bestätigt — Metaxas beim National Prayer Breakfast (2012)
 > Eric Metaxas hielt 2012 beim National Prayer Breakfast in Anwesenheit von Barack Obama eine Rede, in der er Abtreibung mit dem Holocaust verglich und Bonhoeffer als Vorbild für den Widerstand gegen Abtreibung nannte. Quelle: [The Atlantic: Eric Metaxas at the Prayer Breakfast](https://www.theatlantic.com/politics/archive/2012/02/eric-metaxas-gives-speech-the-national-prayer-breakfast/252680/)
@@ -270,7 +270,7 @@ Die Kirche darf — und soll — scharf sein. Aber die Haltung, aus der heraus d
 
 - Eric Metaxas: *Bonhoeffer: Pastor, Martyr, Prophet, Spy* (2010) — die evangelikale Umdeutungsbiographie
 - Eric Metaxas: *If You Can Keep It* — sein antidemokratisches Parallelwerk, im Gespräch kurz erwähnt
-- Arnd Henze: *Wir Protestanten im Stresstest* (2010) — Buch zur Lage der Kirche in der Demokratie
+- Arnd Henze: *Kann Kirche Demokratie? Wir Protestanten im Stresstest* (Herder 2019) — Buch zur Lage der Kirche in der Demokratie
 - Ionesco: *Die Nashörner* (1959) — das strukturelle Deutungsmodell des Abends
 - Wolfgang Huber et al.: *Räume der Begegnung* (EKD-Denkschrift, ~2002) — Forderung nach kirchlicher Streitkultur, bis heute kaum rezipiert
 

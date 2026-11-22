@@ -98,12 +98,12 @@ Das Sydney Institute of Marine Science setzt auf zwei Strategien. Die erste: tr�
 
 [▶ 7:42](https://www.youtube.com/watch?v=cJMT7jmOq3I&t=462) — In der Lausitz, einst voller Kohlegruben, sind bis 1992 alle Tagebaue stillgelegt worden. Zurück blieben bis zu 60 Meter tiefe Krater — eine verwüstete Landschaft. Statt sie aufzugeben, flutete Deutschland die Gruben mit Wasser aus nahen Flüssen.
 
-[▶ 8:22](https://www.youtube.com/watch?v=cJMT7jmOq3I&t=502) — Das brauchte Geduld: Nicht alle Seen wurden auf einmal geflutet, der Prozess zog sich über 25 Jahre, damit die Flusspegel nie zu stark sanken. Ende April dieses Jahres öffnete der 23. und letzte See für Schwimmer und Boote. Kosten bisher: rund 15 Milliarden Dollar.
+[▶ 8:22](https://www.youtube.com/watch?v=cJMT7jmOq3I&t=502) — Das brauchte Geduld: Nicht alle Seen wurden auf einmal geflutet, der Prozess zog sich über 25 Jahre, damit die Flusspegel nie zu stark sanken. Ende April dieses Jahres öffnete der 23. und letzte See für Schwimmer und Boote. Kosten bisher, so das Video: rund 15 Milliarden Dollar *(für die Lausitz waren es bisher rund sieben Milliarden Euro; die 15 Milliarden passen eher zur gesamten Bergbausanierung samt mitteldeutscher Reviere → [[#Faktencheck|Faktencheck]])*.
 
 Warum so viel Geld? Drei Gründe: Umweltsanierung, Tourismus (allein letztes Jahr rund 800.000 Besucher) und Klimaresilienz — die Seen dienen als gigantisches Wasserreservoir für die immer trockeneren, heißeren Sommer.
 
 > [!note] Eigene Einschätzung
-> Die ehrlichste der neun Geschichten, weil sie das Vorher nicht verschweigt: Hier wird kein unberührtes Paradies gefeiert, sondern eine selbst gerissene Wunde vernarbt. 25 Jahre, 15 Milliarden — das ist der wahre Preis fossiler Energie, nachträglich beglichen. Eine schöne Seenlandschaft, ja. Aber auch eine Mahnung, dass Renaturierung Generationen und Vermögen kostet, was die Zerstörung in Jahrzehnten anrichtete.
+> Die ehrlichste der neun Geschichten, weil sie das Vorher nicht verschweigt: Hier wird kein unberührtes Paradies gefeiert, sondern eine selbst gerissene Wunde vernarbt. 25 Jahre, rund sieben Milliarden Euro, und die Rechnung läuft weiter — das ist der wahre Preis fossiler Energie, nachträglich bezahlt. Eine schöne Seenlandschaft, ja. Aber auch eine Mahnung, dass Renaturierung Generationen und Vermögen kostet, was die Zerstörung in Jahrzehnten anrichtete.
 
 ---
 
@@ -180,7 +180,7 @@ Am eindrücklichsten ist Burkina Faso: Dort fielen die Malaria-Todesfälle bei K
 > White's Seahorse (*Hippocampus whitei*) ist als „endangered" gelistet, mit lokalen Rückgängen bis ~90 %. Die Aufzucht im Labor hebt die Überlebensrate der Jungtiere von ~1 % auf ~20 %. Beim Seepferdchen trägt und gebiert das Männchen. „Seahorse hotels" und die Planet-Wild-Mission (bis zu 500 freigesetzte Jungtiere, 3 neue Hotels, 500 m² wiederhergestelltes Seegras) sind belegt. Quelle: [Planet Wild Mission 25](https://planetwild.com/missions/25-saving-seahorses) · [Sydney Institute of Marine Science](https://sims.org.au/research/sydney-seahorse-project)
 
 > [!success] Bestätigt — Lausitzer Tagebaue → Europas größte Seenlandschaft
-> Das Lausitzer Seenland ist Europas größte künstliche Wasserlandschaft: 23 Bergbau-Folgeseen, der letzte (Sedlitzer See) öffnet Ende April 2026 zum Baden. Endgröße ~144 km². Die Einzelzahlen „~15 Mrd. $ Kosten" und „~800.000 Besucher" stammen aus den Kanal-Quellen und ließen sich nicht zusätzlich gegenprüfen — plausibel, aber nicht doppelt belegt. Quelle: [Euronews](https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands) · [Lusatian Lake District (Wikipedia)](https://en.wikipedia.org/wiki/Lusatian_Lake_District)
+> Das Lausitzer Seenland ist Europas größte künstliche Wasserlandschaft: 23 Bergbau-Folgeseen, der letzte (Sedlitzer See) öffnet Ende April 2026 zum Baden. Endgröße ~144 km². Die „~800.000 Besucher" stammen aus den Kanal-Quellen und ließen sich nicht zusätzlich gegenprüfen. Die „~15 Mrd. $ Kosten" halten für die Lausitz nicht: Dort hat die Bergbausanierung laut LMBV bisher rund 7 Mrd. € gekostet; die 13,8 Mrd. € für die LMBV insgesamt schließen die mitteldeutschen Reviere ein, und für die kommenden 25 Jahre rechnet sie mit weiteren 4,8 Mrd. € ([Euronews, 14.04.2026](https://de.euronews.com/2026/04/14/comer-see-europa-groesste-seenlandschaft-lausitz)). *Korrigiert am 22.11.2026: Hier stand bisher, die 15 Mrd. $ seien plausibel.* Quelle: [Euronews](https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands) · [Lusatian Lake District (Wikipedia)](https://en.wikipedia.org/wiki/Lusatian_Lake_District)
 
 > [!success] Bestätigt — Universelles Blutplasma (mit Ortskorrektur)
 > Der Befund stimmt, der gesprochene Ort nicht: Das Verfahren stammt nicht aus Graz, sondern von der Universitätsmedizin Greifswald — womit das „German scientists" des Videos korrekt ist und „University Hospital of Graz" der Versprecher. Forschungsleiterin ist PD Dr. Konstanze Aurich. Antikörper werden an wenige Erythrozyten gebunden und mit diesen aus dem Plasma entfernt; zugelassen vom Paul-Ehrlich-Institut. Nuance: ~0,6 % betrifft AB-*negativ* (AB insgesamt ~4 %). Quelle: [bionity.com](https://www.bionity.com/en/news/1188476/)
@@ -244,7 +244,7 @@ Am eindrücklichsten ist Burkina Faso: Dort fielen die Malaria-Todesfälle bei K
 
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Fast jede dieser Meldungen erzählt von einer *einfachen* Lösung für ein schweres Problem — *liegt das an der Wirklichkeit, oder an der Auswahl dessen, was sich als gute Nachricht erzählen lässt?*
-> - Die Lausitzer Seen kosteten 25 Jahre und 15 Milliarden, um zu reparieren, was Jahrzehnte zerstörten — *ist eine gelungene Renaturierung wirklich eine gute Nachricht, oder die teuer beglichene Rechnung für eine schlechte?*
+> - Die Lausitzer Seen kosteten 25 Jahre und bisher rund sieben Milliarden Euro, um zu reparieren, was Jahrzehnte zerstörten — *ist eine gelungene Renaturierung wirklich eine gute Nachricht, oder die teuer beglichene Rechnung für eine schlechte?*
 > - Erneuerbare gewinnen, weil China sie billig macht, nicht weil die Welt sich bekehrt hat — *zählt bei gutem Ergebnis die Motivation, oder macht uns die falsche Triebkraft langfristig verwundbar?*
 > - Dass es 2026 das erste Malaria-Medikament für Säuglinge gibt — *wie viele andere „erste Behandlungen für die Verwundbarsten" fehlen noch, einfach weil sich der Markt für sie nicht lohnt?*
 
@@ -306,4 +306,4 @@ Drei Monate später wird der Ecosia-Maßstab, nämlich prüfen, ob die Bäume ü
 
 ### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
 
-Dieselbe Seenland-Meldung fünf Monate später, und sie ist noch nicht fertig: Den Sedlitzer See kalkt die LMBV seit 2020 gegen saures Kippenwasser, von dreizehn geplanten Kanälen waren im April vier gebaut, und für die nächsten 25 Jahre sind weitere 4,8 Milliarden Euro veranschlagt, nach rund sieben Milliarden bisher (Euronews). Die Frage dieser Note, ob die Renaturierung eine beglichene Rechnung ist, bekommt dort ihre Antwort: Die Rechnung läuft weiter.
+Dieselbe Seenland-Meldung fünf Monate später, und sie ist noch nicht fertig: Den Sedlitzer See kalkt die LMBV seit 2020 gegen saures Kippenwasser, von dreizehn geplanten Kanälen waren im April vier gebaut, und nach rund sieben Milliarden Euro bisher rechnet die Sanierungsgesellschaft für die kommenden 25 Jahre mit weiteren 4,8 Milliarden (Euronews). Die Frage dieser Note, ob die Renaturierung eine beglichene Rechnung ist, bekommt dort ihre Antwort: Die Rechnung läuft weiter.

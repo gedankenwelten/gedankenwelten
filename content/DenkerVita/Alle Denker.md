@@ -64,7 +64,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]]** — Journalistin und Autorin, freie Mitarbeiterin *Die Zeit*, *Tagesspiegel*, *Frankfurter Rundschau*; Senior Correspondent Religion Dispatches; Expertise: Religiöse Rechte in USA, Rechtsextremismus, Dog Whistles und Codes; Bestseller-Autorin *Amerikas Gotteskrieger* (2021), *Die Brandstifter* (2024); Transatlantic Media Fellow Heinrich-Böll-Stiftung 2022
 
-**[[DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; EKD-Synode seit 2020
+**[[DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; berufenes Mitglied der 13. EKD-Synode
 
 **[[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]]** — Palästinensischer Friedensstifter & Kulturunternehmer (Ostjerusalem), Mitgründer MEJDI Tours (Dual-Narrative-Methode), National Geographic Explorer, TED Fellow, Co-CEO InterAct International; vom Rache suchenden Jugendlichen zum Versöhner; Crossing Boundaries (2020), The Future Is Peace (2026, mit Maoz Inon)
 

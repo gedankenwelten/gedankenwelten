@@ -5,7 +5,7 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 115,
+   "leser": 114,
    "aufrufe": 139
   },
   {
@@ -21,7 +21,7 @@
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
    "leser": 41,
-   "aufrufe": 47
+   "aufrufe": 46
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -84,6 +84,11 @@
    "aufrufe": 10
   },
   {
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "leser": 9,
+   "aufrufe": 10
+  },
+  {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
    "leser": 9,
    "aufrufe": 10
@@ -92,11 +97,6 @@
    "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
    "leser": 8,
    "aufrufe": 11
-  },
-  {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-   "leser": 8,
-   "aufrufe": 9
   },
   {
    "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -109,12 +109,12 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Marcant",
+   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
    "leser": 7,
-   "aufrufe": 9
+   "aufrufe": 10
   },
   {
-   "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+   "pfad": "/DenkerVita/Marcant",
    "leser": 7,
    "aufrufe": 9
   },
@@ -169,6 +169,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/DenkerVita/Thomas-Eichstaedt",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
    "leser": 5,
    "aufrufe": 7
@@ -190,11 +195,6 @@
   },
   {
    "pfad": "/DenkerVita/Anke-Myrrhe",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Thomas-Eichstaedt",
    "leser": 5,
    "aufrufe": 5
   },
@@ -316,17 +316,17 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 17,
-     "aufrufe": 20
+     "aufrufe": 21
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 14,
-     "aufrufe": 15
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 13,
-     "aufrufe": 16
+     "leser": 12,
+     "aufrufe": 15
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -334,22 +334,22 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 8,
+     "aufrufe": 9
+    },
+    {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 8,
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 7,
-     "aufrufe": 8
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 6,
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 6,
      "aufrufe": 6
     },
@@ -411,7 +411,7 @@
     {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 3,
-     "aufrufe": 5
+     "aufrufe": 6
     },
     {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
@@ -519,6 +519,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Wir-haben-noch-gar-nichts-gesehen",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende",
      "leser": 1,
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 1,
-     "aufrufe": 1
     }
    ]
   },
@@ -615,7 +615,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 115,
+     "leser": 114,
      "aufrufe": 139
     },
     {
@@ -631,7 +631,7 @@
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 41,
-     "aufrufe": 47
+     "aufrufe": 46
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -694,6 +694,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 9,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 9,
      "aufrufe": 10
@@ -702,11 +707,6 @@
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 8,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 8,
-     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Carlo-Cipolla",
@@ -719,12 +719,12 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 7,
-     "aufrufe": 9
+     "aufrufe": 10
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "pfad": "/DenkerVita/Marcant",
      "leser": 7,
      "aufrufe": 9
     },
@@ -779,6 +779,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 5,
      "aufrufe": 7
@@ -800,11 +805,6 @@
     },
     {
      "pfad": "/DenkerVita/Anke-Myrrhe",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 5,
      "aufrufe": 5
     },
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1023,
-     "aufrufe": 1234
+     "aufrufe": 1235
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1099,6 +1099,11 @@
      "aufrufe": 14
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 11,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 11,
      "aufrufe": 13
@@ -1114,14 +1119,9 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 10,
-     "aufrufe": 12
-    },
-    {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
-     "aufrufe": 12
+     "aufrufe": 13
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1023,
-     "aufrufe": 1234
+     "aufrufe": 1235
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1404,6 +1404,11 @@
      "aufrufe": 14
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 11,
+     "aufrufe": 13
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 11,
      "aufrufe": 13
@@ -1419,14 +1424,9 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 10,
-     "aufrufe": 12
-    },
-    {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
-     "aufrufe": 12
+     "aufrufe": 13
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
@@ -1550,8 +1550,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 26,
-     "aufrufe": 26
+     "leser": 25,
+     "aufrufe": 25
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1629,6 +1629,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 6,
      "aufrufe": 6
@@ -1645,11 +1650,6 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 5,
      "aufrufe": 5
     },

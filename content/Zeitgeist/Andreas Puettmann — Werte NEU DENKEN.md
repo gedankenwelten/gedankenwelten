@@ -419,7 +419,7 @@ Der schärfste Gegenspieler im Bestand. Thiele teilt die Prämisse — die AfD i
 
 ### → [[Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
-Die protestantische Spiegelung von Püttmanns Typologie. Was er abstrakt als zweite Strategie der Ideologien beschreibt — die Religion sich umhängen wie ein Mäntelchen —, führt Henze am konkreten Fall vor: Bonhoeffer als geraubter Kronzeuge, der Widerstandsbegriff als Wahlkampfmittel. Henze eröffnet mit Ionescos Nashörnern; das Bild, in dem die Umstehenden einer nach dem anderen mitlaufen, passt genau auf Püttmanns Diagnose des vorauseilenden Opportunismus. Zwei Konfessionen, dieselbe Beobachtung einer Kirche, die ihre eigenen Symbole nicht mehr verteidigt.
+Die protestantische Spiegelung von Püttmanns Typologie. Was er abstrakt als zweite Strategie der Ideologien beschreibt — die Religion sich umhängen wie ein Mäntelchen —, führt Henze am konkreten Fall vor: Bonhoeffer als geraubter Kronzeuge, der Widerstandsbegriff als Wahlkampfmittel. Den Abend mit Henze eröffnet der Moderator Eberhard Pausch mit Ionescos Nashörnern; das Bild, in dem die Umstehenden einer nach dem anderen mitlaufen, passt genau auf Püttmanns Diagnose des vorauseilenden Opportunismus. Zwei Konfessionen, dieselbe Beobachtung einer Kirche, die ihre eigenen Symbole nicht mehr verteidigt.
 
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 

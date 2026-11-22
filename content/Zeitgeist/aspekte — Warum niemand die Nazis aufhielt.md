@@ -252,7 +252,7 @@ Produktive Spannung: Aly bremst in der Doku ausdrücklich den Alarmismus („AfD
 
 ### → [[Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
-Die Doku steht am Gedenktag des 20. Juli und zeigt die Erpressung der Kirchen durch die Gestapo — Henze liefert die längere Linie: der bis 1933 „durch und durch antidemokratische" Protestantismus und sein Nachwirken in der Neuen Rechten. Widerstand und Anpassung der Kirchen als zwei Seiten derselben Frage.
+Die Doku steht am Gedenktag des 20. Juli und zeigt die Erpressung der Kirchen durch die Gestapo — Henze liefert die längere Linie: das „deutschnationale Erbe“ des Protestantismus, für ihn „ein riesen Steinbruch für die Rechten“, und sein Nachwirken in der Neuen Rechten. Widerstand und Anpassung der Kirchen als zwei Seiten derselben Frage.
 
 ### → [[Semsrott — Zur Gegenmacht]]
 
