@@ -161,6 +161,10 @@ Kemferts Diagnose der „Fossilokratie" bekommt hier einen konkreten Widerspruch
 
 Der Akkudoktor zeigt, wie die Altmaier-Delle den PV-Ausbau politisch abgewürgt hat. Die Kontrovers-Note zeigt die nachgelagerte Konsequenz: Betriebe, die jetzt investieren, treffen auf eine Netzinfrastruktur, die nie für dieses Ausmaß ausgelegt wurde. Erst wird der Ausbau verlangsamt, dann fehlt die Infrastruktur für das, was trotzdem gebaut wurde.
 
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Weltweit sind drei Terawatt Solarleistung installiert, und in China wird inzwischen mehr gebaut, als die Netze aufnehmen. Dieselbe Ungleichheit wie hier: Eine Anlage lässt sich eröffnen, eine Leitung kaum, und in der November-Ausgabe zieht sie sich durch fast jede Meldung.
+
 ---
 
 ## Weiterdenken

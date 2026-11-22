@@ -7,6 +7,18 @@ tags:
 ---
 
 
+## Gert Scobel / Daron Acemoglu — Automation and Repression
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Warum reiche Eliten irgendwann gegen Demokratie sein könnten – scobel](https://www.youtube.com/watch?v=tknptBHqFFE) (scobel, 12.11.2026) |
+| **Papier** | Acemoglu, Gitmez, Shadmehr: [*Automation and Repression*](https://economics.mit.edu/sites/default/files/2026-06/Automation%20and%20Repression.pdf) (Arbeitspapier, 5. Juni 2026) |
+| **Zweites Papier** | Acemoglu u. a.: [*Where the Grass Seems Greener*](https://www.nber.org/papers/w35644) (NBER Working Paper 35644, 2026) |
+| **Notiz** | [[Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung]] |
+| **Viten** | [[DenkerVita/Daron Acemoglu]] · [[DenkerVita/Gert Scobel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scobel_Automation_Repression_Transkript.txt` |
+
+
 ## Innenausschuss des Bundestags — Anhörung zur Reform des Nachrichtendienstrechts
 
 | | |
@@ -497,6 +509,14 @@ tags:
 | **Notiz** | [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen]] · [[DenkerVita/Torsten Wilholt]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Wilholt_Wahrheit_Wissen_Transkript.txt` |
 | **Fund** | Diogenes, Nacht 31.08.2026 (`gedankenwelten_pro`) |
+
+## Freddy Leppin — Your Monthly Dose of Good News, November 2026
+
+| | |
+|---|---|
+| **Video** | [Your Monthly Dose of Good News · November](https://www.youtube.com/watch?v=ugQ-EDbsS9s) — Good News, 15.11.2026 · [Quellenliste](https://good-news.notion.site/your-monthly-dose-of-good-news-november) |
+| **Notiz** | [[GoodNews/Good News - Gute Nachrichten November 2026]] · [[DenkerVita/Freddy Leppin]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Leppin_GoodNews_November_Transkript.txt` |
 
 ## Freddy Leppin — Your Monthly Dose of Good News, September 2026 (Teil 2)
 
@@ -5401,6 +5421,8 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch** | Isabella M. Weber: *Antifaschistische Wirtschaftspolitik* (Suhrkamp 2026) |
 | **Notiz** | [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Weber_Antifaschistische_Wirtschaftspolitik_Transkript.txt` (YouTube-Automatikuntertitel, deutsch; Sprecher aus dem Inhalt zugeordnet) |
+| **Ergänzung (22.11.2026)** | [Wie können alle ein bezahlbares, würdevolles Leben bestreiten?](https://www.youtube.com/watch?v=cvLOeflA_dg) (Surplus Magazin, New Economy Talk mit dem Forum New Economy, Basecamp Berlin, 05.11.2026; freier Teil 23 Min., Moderation Carmen Giovanazzi; das Gespräch mit Yasmin Fahimi nur für Abonnenten) → Abschnitt „Vier Wochen später“ |
+| **Transkript (Ergänzung)** | `Gedankenwelten/Transkripte/Weber_Surplus_Kollateralschaden_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 
 
 ## Oschmann und Kowalczuk — Kränkung oder Freiheitsschock (Doppelnote)

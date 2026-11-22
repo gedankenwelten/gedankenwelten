@@ -281,6 +281,10 @@ Kambodschas erste 95 entstand, weil Gesundheitsarbeiterinnen aus den Gemeinden h
 
 Das Spiegelbild zur US-Mordrate. Heitmeyer legt für Deutschland Kurven aus siebzehn Bereichen vor, die nach oben zeigen, und verwirft den Einwand, das liege nur an gestiegener Anzeigebereitschaft, als „Beruhigungsformel". Beide Notes stellen dieselbe Frage: Zeigt eine Kurve die Welt oder das Zählen? Die Antwort fällt je nach Ort und Delikt verschieden aus. Nebeneinander bewahren sie davor, die gute Zahl aus Amerika zur allgemeinen Entwarnung zu machen oder die schlechte aus Deutschland zum Weltzustand.
 
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+„Wer hinausgeht, braucht ein Gehalt“ kehrt im November an fast jeder Meldung wieder, bei Portugals 2012 aufgelöstem Drogeninstitut wie beim Meeresschutzgebiet um Rapa Nui, das erst jetzt Geld für Patrouillen hat. Und das Nachsehen findet dort sein schönstes Beispiel in einer Stelle, die nur die Quelle erzählt: Kamerafallen in Südbrasilien filmten nach rund 130 Jahren wieder einen Großen Ameisenbären.
+
 ---
 
 ## Weiterdenken

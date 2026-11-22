@@ -2,7 +2,7 @@
 title: "Wann darf der Staat Preise setzen?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-11-21
+aktualisiert: 2026-11-22
 description: "Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?"
 raetsel: "Eine Hand liegt über der Waage. Wessen Ärmel das ist, sagt keiner."
 panorama-art: wachsend
@@ -99,6 +99,7 @@ Die Industrie ist eine eigene Frage. Für sie galt 2022/23 ein Deckel auf 70 Pro
 - **[[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung#Sofortige Entlastung|Ines Schwerdtner]]** — 150 Euro Energiekrisengeld direkt an alle, dazu das 9-Euro-Ticket zurück.
 - **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Die Minderwertsteuer|Achim Truger]]** — Lieber Nahverkehr und Energieversorgung so umbauen, dass der Wechsel möglich wird, als Schecks verschicken; das merken die Menschen unmittelbar.
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Die Dramatik, die Freundel nicht sieht|Isabella Weber]]** — Wer Wohngeld zahlt, statt Mieten zu deckeln und öffentlich zu bauen, finanziert mit öffentlichem Geld die Übergewinne konzentrierter Märkte.
+- **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Deckeln statt überweisen|Isabella Weber]]** (vier Wochen später) — Eine Überweisung lässt das Risiko des Preisschocks bei denen, die es am wenigsten tragen können; ein Deckel nimmt es ihnen ab.
 
 <details><summary>Weitere Stimmen (6)</summary>
 
@@ -169,6 +170,7 @@ Eine leise Form von Marktmacht wird seit 2018 untersucht: der gemeinsame Besitz 
 | 07.11.2026 | [[Tom Ockers — Schattenmacht BlackRock#Nachbesprechung\|Tom Ockers — Schattenmacht BlackRock]] | Common Ownership: Azar/Schmalz/Tecu gegen Dennis/Gerardi/Schenone, Lewellen & Lowry, Übersicht 2024, Norwegens Heiraten, Posner/Scott Morton/Weyl, die Kohle-Klage aus Texas |
 | 21.11.2026 | [[Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz#Nachbesprechung\|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] | alle drei Fragen aus der Gaskrise 2026: wer die Speicher füllt (Kurzgutachten der Ministeriumsberater gegen Ockenfels/Bothe/Janssen, Österreich, nationale Reserve), ein Strompreis auf zehn Jahre (Banque de France zur Dauer, Differenzverträge, Spanien), wer an der Bremse verdient (Kartellamt, BVerfG 2024, EU-Solidaritätsbeitrag) |
 | 21.11.2026 | [[Beraterkreis BMWE — Kurzgutachten Energiekrise 2026\|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]] | die Gegenstimme aus dem Ministerium: Preissignal, keine Reserve, keine Übergewinnsteuer, Kartellamt, und was der Herbst daraus machte |
+| 22.11.2026 | [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Deckeln statt überweisen\|Isabella Weber — Vier Wochen später (Surplus)]] | Wer bekommt die Entlastung? Der Deckel als Versicherung gegen den Schock, die Überweisung als Risiko beim Einzelnen; dazu die Bauform der Bremse 2023 und die steuerpflichtige Pauschale |
 
 ---
 

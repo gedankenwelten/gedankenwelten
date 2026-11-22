@@ -303,3 +303,7 @@ Das Brücken-Leitmotiv dieser Ausgabe, ins Große gezogen: Eine Grünbrücke in 
 ### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
 
 Drei Monate später wird der Ecosia-Maßstab, nämlich prüfen, ob die Bäume überleben, zur Prüffrage an die Große Grüne Mauer mit ihren sechzig Milliarden Bäumen. Diesmal spricht ihn ausgerechnet der bezahlte Abschnitt eines Sponsors aus.
+
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Dieselbe Seenland-Meldung fünf Monate später, und sie ist noch nicht fertig: Den Sedlitzer See kalkt die LMBV seit 2020 gegen saures Kippenwasser, von dreizehn geplanten Kanälen waren im April vier gebaut, und für die nächsten 25 Jahre sind weitere 4,8 Milliarden Euro veranschlagt, nach rund sieben Milliarden bisher (Euronews). Die Frage dieser Note, ob die Renaturierung eine beglichene Rechnung ist, bekommt dort ihre Antwort: Die Rechnung läuft weiter.

@@ -292,6 +292,10 @@ Der Schaden des Hypes liegt für Neitzel und Iltisberger darin, dass auf vermein
 
 Dass Wissen an Menschen haftet, ist auch die Wette hinter SKI²LL-AI, einem virtuellen Lehrmeister, der Handgriffe von Fachkräften vor der Rente aufzeichnet; dort stellt die Jury das große Aber, nicht der Gast.
 
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Ein Kanal, den zwei Gründer aus Nachrichtenmüdigkeit begannen, Fall für die Zahlen zur Nachrichtenvermeidung hier. Er finanziert sich über einen Sponsor und ein eigenes Buch und kennzeichnet beides, und er steht an derselben Grenze zur Fürsprache, wenn Weltbank und UN über ihre eigenen Projekte berichten.
+
 ---
 
 ## Weiterdenken

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **22.11.** — [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+>
+> Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
+
 > **21.11.** — [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
 >
 > Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.
@@ -40,11 +44,61 @@ Die Gedankenwelten (luc)
 >
 > Die Leistungsgesellschaft hält alle gefangen, auch ihre Gewinner, die bis zur Erschöpfung arbeiten. Wolfgang M. Schmitt und Stefan Schulz lesen Daniel Markovits' „The Meritocracy Trap“, und Wolfgang fragt, warum das Buch den Kapitalismus nicht beim Namen nennt.
 
-> **21.11.** — [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]]
->
-> Eine Umarmung am Flughafen, ein Platz in der Mitte, ein „Wer ist das?“ an der Tür: Drei Korrespondenten lesen Shenzhen aus Bildern, und eine von ihnen warnt davor, zu viel hineinzulesen.
+> → *22 weitere in* [[Zeitgeist]]
 
-> → *21 weitere in* [[Zeitgeist]]
+### Geistesblitz
+
+> **22.11.** — [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
+>
+> Je mehr Maschinen arbeiten, desto teurer wird es, die Arbeitslosen ruhig zu halten, und desto billiger erscheint Gewalt. Ein neues Modell von Acemoglu rechnet das durch, mit Daten belegt ist es noch nicht.
+
+> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
+>
+> Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
+
+> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
+>
+> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
+
+> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
+
+> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
+>
+> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
+
+> → *2 weitere in* [[Geistesblitz]]
+
+### Panorama
+
+> **22.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> **21.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **21.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **21.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
+
+> **21.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> → *17 weitere in* [[Panorama]]
+
+### GoodNews
+
+> **22.11.** — [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+>
+> Dreizehn Meldungen, und die meisten sind Reparaturen. Die Sendung feiert, was zurückkehrt; ihre eigenen Quellen erzählen, was es kostet, damit es bleibt.
 
 ### Denker
 
@@ -68,55 +122,7 @@ Die Gedankenwelten (luc)
 >
 > Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
 
-> → *3 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
->
-> Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
-
-> **16.11.** — [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
->
-> Zeit ist kein Götze außerhalb von uns, sondern unsere Lebenszeit. Udo Marquardt über erfüllte Zeit, die Spirale der Beschleunigung und die Frage: Wer möchte ich gewesen sein?
-
-> **15.11.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
-
-> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
->
-> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
-
-> **15.11.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Drogen treiben das Belohnungssystem weit über das hinaus, wofür es gebaut ist. Ein Suchtmediziner erklärt, was dann im Gehirn geschieht und warum Motivation mehr hilft als Angst.
-
-> → *3 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **21.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **21.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **21.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
->
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **21.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> **21.11.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *18 weitere in* [[Panorama]]
+> → *2 weitere in* [[Denker]]
 
 ### Spuren
 
@@ -140,7 +146,7 @@ Die Gedankenwelten (luc)
 >
 > Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
 
-> → *6 weitere in* [[Spuren]]
+> → *5 weitere in* [[Spuren]]
 
 ### Kultur
 
@@ -169,12 +175,6 @@ Die Gedankenwelten (luc)
 > **17.10.** — [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
 >
 > Wenn wir über die Zukunft sprechen, beschreiben wir oft uns selbst. Eine Prophezeiung ist ein Selbstporträt, in die Zukunft gehängt — und wer sich über seine Haltung definiert, verteidigt mit ihr sich selbst.
-
-### GoodNews
-
-> **27.09.** — [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
->
-> Dreizehn Meldungen und eine Geste: nachsehen. Ein Riff galt sechzig Jahre als tot, weil niemand zurückging. Wer die Quellen der Sendung nachliest, findet das Gute kleiner, aber echt.
 
 <!-- JOURNAL:END -->
 

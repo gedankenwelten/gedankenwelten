@@ -443,6 +443,10 @@ Achtzig Prozent sind in Umfragen für den Schutz der Artenvielfalt und kaufen tr
 
 Das wachsende Panorama der Reihe, entstanden mit dieser Note. Tscharntke steht dort in allen drei Fragen: beim Schwund vor dem Aussterben, bei den kleinen Feldern und bei der Lobby, die nur gewinnt, solange die Wähler es zulassen.
 
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Der Kongo als Fall der Kleinbauern-These: Dort bleiben die Emissionen aus Landnutzung seit zwei Jahrzehnten hoch, weil Familien für ihre Felder roden, während Brasilien und Indonesien sie senken. Der Sponsor der Ausgabe sammelt für Tierwohlkampagnen gegen die Massentierhaltung, die Tscharntke aus Flächengründen befürwortet.
+
 ---
 
 ## Weiterdenken

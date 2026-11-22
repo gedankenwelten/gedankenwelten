@@ -217,3 +217,7 @@ Welzers „Sedativ der Entpolitisierung“ ist dieselbe Diagnose der schrumpfend
 ### → [[Hoerren und Sorg — Die Insekten verschwinden]]
 
 Wann Biomasse etwas über Vielfalt sagt und wann nicht, verhandeln die Krefelder Entomologen an ihren eigenen Daten.
+
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Rapa Nui als Fall für Pöttingers Einwände gegen 30×30: Das Schutzgebiet führt ein Rat mit dem gewählten Meeresrat der Insel, und das neue Geld ist für Patrouillen bestimmt. Offen bleibt, wie lange ein Schutz hält, der an amerikanischem Stiftungsgeld ohne genannte Summe hängt.

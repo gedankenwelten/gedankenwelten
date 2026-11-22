@@ -301,6 +301,10 @@ Eine Berliner Spitzenkandidatin will gegen Crack am Görlitzer Park Drug Checkin
 ### → [[Harry Pfau — Harry macht satt]]
 Schadensminderung als Satz von der Straße: Wenn er einem Süchtigen einmal am Tag etwas zu essen geben kann, sagt Harry Pfau, „hab ich schon mal 'nen Erfolg“.
 
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Portugal nach 25 Jahren Entkriminalisierung, die andere Seite der Oregon-Frage im Weiterdenken dieser Note. Die Forschung bestätigt den Kern mit Vorsicht, und die Lehre ist das Netz um das Gesetz: Kommissionen, Methadon, Wohnung, Arbeit. Genau dieses Netz muss in Halle jedes Jahr neu um Geld bitten.
+
 ---
 
 ## Weiterdenken

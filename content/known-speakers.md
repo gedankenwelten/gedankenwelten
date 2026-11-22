@@ -1529,3 +1529,6 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Marcus Keupp
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marcus Keupp]]
+
+## Daron Acemoglu
+**Status:** ✓ Vollanalyse → [[DenkerVita/Daron Acemoglu]]

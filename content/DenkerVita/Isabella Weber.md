@@ -56,6 +56,7 @@ Unmittelbar nach Donald Trumps Wiederwahl im November 2024 schrieb sie auf X sin
 ## Empfehlenswerte Videos & Vorträge
 
 - [Antifaschistische Wirtschaftspolitik — Buchpremiere und Diskussion](https://www.youtube.com/watch?v=vdgvOei1em0) — Heinrich-Böll-Stiftung (Oktober 2026, 2:11 h). Mit Andreas Audretsch, Tim Klüssendorf und Ines Schwerdtner, Moderation Natascha Freundel. Dieselbe Aufzeichnung auch bei der [Rosa-Luxemburg-Stiftung](https://www.youtube.com/watch?v=o3rKHN10qtM).
+- [Wie können alle ein bezahlbares, würdevolles Leben bestreiten?](https://www.youtube.com/watch?v=cvLOeflA_dg) — Surplus Magazin, New Economy Talk im Basecamp Berlin (05.11.2026, 23 min frei). Der Kollateralschaden von Malthus bis heute und warum ein Deckel das Risiko anders verteilt als eine Überweisung; das Gespräch mit Yasmin Fahimi nur für Abonnenten.
 - [Wiener Vorlesung: „Antifaschistische Wirtschaftspolitik“](https://www.youtube.com/watch?v=stEv0jwdmSw) — Wienbibliothek im Rathaus (09.10.2026, 1:32 h). Der Vortrag zum Buch, ohne Podium.
 - [Preise NEU DENKEN mit Isabella Weber](https://www.youtube.com/watch?v=SsUBbDtS9_U) — Maja Göpels Podcast *Neu Denken* (Oktober 2026, 1:36 h). Langes Gespräch über Preise, Macht und wesentliche Güter.
 - [Energiekrise: Ökonomin Isabella Weber zur Auswirkung des Irankriegs](https://www.youtube.com/watch?v=OkjDzAi9JTQ) — Jung & Naiv, Folge 816 (März 2026, 2:03 h). Der Ölpreisschock nach dem Krieg gegen Iran, durchdacht mit den Lehren von 2022.
@@ -92,7 +93,7 @@ Ihre stärkste Leistung ist eine Vorhersage, die eintrat. Die Preisdeckel, für 
 
 ## Gedankenwelten-Notes
 
-- [[Isabella Weber — Antifaschistische Wirtschaftspolitik]] — Buchpremiere mit Audretsch, Klüssendorf und Schwerdtner: Gründungskonsens, strategische Preiskontrollen, radikaler Gradualismus
+- [[Isabella Weber — Antifaschistische Wirtschaftspolitik]] — Buchpremiere mit Audretsch, Klüssendorf und Schwerdtner: Gründungskonsens, strategische Preiskontrollen, radikaler Gradualismus; dazu der Surplus-Vortrag vier Wochen später (Kollateralschaden, Deckel als Versicherung, die Lohnfrage)
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Inflation als Ohnmachtserfahrung, mit Webers Analyse der Trump-Wahl
 - [[Adam Tooze — Krise und demokratische Gelegenheit]] — Tooze teilt ihre Lesart der Preisschocks
 - [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]] — Verkäuferinflation im Faktencheck

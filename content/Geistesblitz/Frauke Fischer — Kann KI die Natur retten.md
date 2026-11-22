@@ -377,6 +377,10 @@ Wie die Rechnung, die nie gestellt wird, auf einem bayerischen Acker aussieht, z
 
 Der Agrarökologe, der den Nutzen von Vögeln und Fledermäusen im Kakao gemessen hat, hält offen, wer die Kakaoblüte bestäubt, und sagt, wo die Nutzenrechnung endet: bei der großen Mehrheit der Bienenarten, die keine Nutzpflanze besucht. Für sie greift er zum Kölner Dom statt zur Bilanz.
 
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Das Methan-Warnsystem der UN ist ein Alarm im Sinne Fischers, und seine Bilanz zeigt die nächste Grenze: Auf 7.500 Meldungen folgten 42 Abhilfen. Rapa Nui zeigt die Lücke, auf die ihr Interspecies Money zielt, das laufende Geld für den Erhalt eines Schutzgebiets, das acht Jahre fast nur auf dem Papier stand.
+
 ---
 
 ## Weiterdenken

@@ -313,7 +313,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem|Tiana Travels — Das amerikanische Betriebssystem]] — Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
 - [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]] — Eine Umarmung am Flughafen, ein Platz in der Mitte, ein „Wer ist das?“ an der Tür: Drei Korrespondenten lesen Shenzhen aus Bildern, und eine von ihnen warnt davor, zu viel hineinzulesen.
 - [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika|Verliert Trump den Iran-Krieg in Amerika?]] — Gedacht war ein Regime, das sich beugt, nicht eines, das fällt. Reinhard Heinisch erklärt, warum der Plan im Iran scheiterte und warum die Stimmung daheim kippt, sobald Särge zurückkommen.
-- [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]] — Ein Militärökonom will nur gelten lassen, was auf dem Schlachtfeld geschieht, und hält schon das Reden vom Verhandeln für einen Sieg des Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
+- [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]] — Ein Militärökonom will nur gelten lassen, was militärisch und wirtschaftlich geschieht, und hält schon das Reden vom Verhandeln für ein Geschenk an den Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
 
 ### Geopolitik & Krieg
 

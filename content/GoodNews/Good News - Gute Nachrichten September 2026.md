@@ -282,6 +282,10 @@ Kemfert nannte die Erneuerbaren im März, mitten in der Energiekrise nach dem Ir
 
 Die zweite Ausgabe desselben Monats bringt die Spanien-Hochrechnung ein zweites Mal, als Erinnerung an diese Folge, mit derselben falschen Zahl. Ihr roter Faden ist das Nachsehen: ein Riff vor Benin, sechzig Jahre für tot gehalten, weil niemand zurückging. Die Wale und die Kemp's-Ridley-Schildkröte führen das Aufhören und Warten dieser Ausgabe fort, die Schildkröte auch bis an seine Grenze.
 
+### → [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
+
+Der November erzählt, was nach dem Aufhören kommt, mit Portugal als Fall: Ein Gesetz hört auf zu beschädigen, die Reparatur darum herum kostet jedes Jahr Geld. Der Sponsor steckt wieder ohne eigene Kapitelmarke in einer Tiermeldung, diesmal FarmKind bei den Ameisenbären, und aus fast 200 eingesetzten Orang-Utans werden im Video mehr als 200 lebende, der Maßstab Pflanzungen gegen Überlebende in anderer Gestalt.
+
 ---
 
 ## Weiterdenken

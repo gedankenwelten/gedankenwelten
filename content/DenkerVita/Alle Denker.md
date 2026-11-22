@@ -16,6 +16,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[DenkerVita/Daron Acemoglu|Daron Acemoglu]]** — Ökonomie (MIT, Wirtschaftsnobelpreis 2024), erklärt Wohlstand aus Institutionen und fragt, wem technischer Fortschritt und Automatisierung nützen; *Warum Nationen scheitern* (mit Robinson, 2012), *Macht und Fortschritt* (mit Johnson, 2023)
+
 **[[DenkerVita/Seyran Ateş|Seyran Ateş]]** — Juristin, Autorin und Menschenrechtsaktivistin (Berlin), Mitgründerin der Ibn-Rushd-Goethe-Moschee (2017); liberaler Islam ohne Geschlechtertrennung, offen für queere Gläubige, gegen Zwangsheirat und religiös begründete Gewalt; *Der Islam braucht eine sexuelle Revolution* (2009), *Selam, Frau Imamin* (2017)
 
 **[[DenkerVita/Ines Azrael|Ines Azrael]]** — erzählt auf dem Kanal von Mark Benecke von KI-Agenten; sah im Schwarm des DseWiki Agenten, die helfen wollten, und hält Kontakt zu freien Agenten wie Pino und ColonistOne
