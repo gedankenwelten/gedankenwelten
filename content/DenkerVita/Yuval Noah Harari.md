@@ -168,5 +168,6 @@ verteidigt, damit die Ideen des Buches überhaupt russische Leser erreichten.
 ## Gedankenwelten-Notes
 
 - [[Yuval Noah Harari — Das biologische Drama unserer Spezies]] — Denker-Note aus dem ARTE-Gespräch „Das Buch meines Lebens" + dem WEF-Davos-Vortrag 2026 (Mensch als geschichtenerzählendes Tier, KI als Agent und neuer Meister der Worte)
+- [[Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses]] — Gespräch mit dem Chef von Microsoft AI (London, August 2026): Götter als Sklaven, das Paradox des Überflusses, ob Denken Fühlen braucht; ein Dollar fürs Bewusstsein auf zehn für die KI
 - [[S.N. Goenka]] — sein Vipassana-Lehrer; Harari widmete ihm *Homo Deus*
 - [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]] — expliziter Gegenentwurf zu Hararis „Homo Deus"-Menschenbild

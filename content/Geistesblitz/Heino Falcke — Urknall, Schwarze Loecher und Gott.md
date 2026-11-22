@@ -349,6 +349,10 @@ Falckes Trost stimmt also erdgeschichtlich und versagt auf der menschlichen Zeit
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Am CERN sucht die Physik das Unerreichbare auf dieselbe indirekte Weise, an seiner Spur in einem extrem seltenen Zerfall. Die Strenge, die Falcke gegen das eigene Wunschergebnis fordert, ist dort als Fünf-Sigma-Regel zur Übereinkunft eines ganzen Fachs geworden.
+
 ### → [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Falckes Formel vom „unverfügbaren Geheimnis des Lebens“ spricht Rosas Kernthese fast wörtlich nach: Gelingendes Leben geschieht dort, wo wir die Dinge nicht vollständig unter Kontrolle haben. Auch Falckes Schwerkraft-Satz („die kleinste Kraft kann was ganz Großes bewirken … aber glaub nicht, dass alles von dir abhängt“) hat bei Rosa einen Namen: teilmächtig, weder allmächtig noch ohnmächtig. Die Reibung liegt bei der Wissenschaft. Für Rosa gehört sie zum Programm, das alles verfügbar machen will; Falcke findet das Unverfügbare in der Physik selbst, als eingebauten Zaun. Ob er den Begriff von Rosa hat, belegt keine der beiden Notes.

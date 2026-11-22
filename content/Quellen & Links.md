@@ -6170,3 +6170,24 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Zweitquelle** | [Elon Musk Völlig Am Ende! Hat Er Angst Vor Dem Knast?](https://www.youtube.com/watch?v=Uu8KNQtfmWQ) — Oida, Bartunek!, 21.11.2026 (Reaktionsvideo mit Gegenmaterial) |
 | **Notiz** | [[Zeitgeist/Elon Musk — Ich bin nicht MAGA]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Musk_DealBook_2026_Transkript.txt` (YouTube-Automatikuntertitel, englisch, vollständig) · `Gedankenwelten/Transkripte/Bartunek_Musk_not_MAGA_Transkript.txt` |
+
+## Laborfrisch / LHCb — Wie das CERN ins Zeptoversum schaut (November 2026)
+
+| | |
+|---|---|
+| **Video** | [100 Milliarden Mal kleiner als ein Atom: Wie das CERN ins Zeptoversum schaut](https://www.youtube.com/watch?v=yCa5RRxEt68) — Laborfrisch, 15.11.2026, 9 Min. |
+| **Paper** | [Evidence for the decay B⁰→μ⁺μ⁻ and improved measurements of the decay B⁰ₛ→μ⁺μ⁻](https://arxiv.org/abs/2611.00230) — LHCb-Kollaboration, Preprint (v2, 13.11.2026), eingereicht bei *Physical Review X* |
+| **Mitteilungen** | [CERN, 03.11.2026](https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/) · [University of Cambridge, 03.11.2026](https://www.cam.ac.uk/research/news/physicists-knock-at-the-door-of-the-zeptoverse) · [LHCb Outreach, 03.11.2026](https://lhcb-outreach.web.cern.ch/2026/11/03/evidence-for-the-decay-b0%E2%86%92%CE%BC%CE%BC-and-improved-measurements-of-bs0%E2%86%92%CE%BC%CE%BC/) |
+| **Notiz** | [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Laborfrisch_Zeptoversum_yCa5RRxEt68_Transkript.txt` (deutsche Untertitel des Kanals, von Hand) |
+| **Geprüft, nicht genommen** | [Entropy, 17.11.2026](https://www.youtube.com/watch?v=fxGFzrODErY) (dünner, Titel überzieht) · [Universum Aktuell, 20.11.2026](https://www.youtube.com/watch?v=So6s8feOGy8) (KI-Stimme, Zahlenblatt, gut zum Abgleich) |
+
+## Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses (November 2026)
+
+| | |
+|---|---|
+| **Video** | [AI, Consciousness and the Future of Humanity \| Mustafa Suleyman & Yuval Noah Harari](https://www.youtube.com/watch?v=H43e72-2aAs) — Kanal Yuval Noah Harari, 18.11.2026, 67 Min., aufgenommen August 2026 in London |
+| **Produktion** | [The Humanist Review of AI](https://humanistreview.ai) — laut [About-Seite](https://humanistreview.ai/about/) von Microsoft AI finanziert; [redigierte Fassung des Gesprächs](https://humanistreview.ai/video/suleyman-harari/) |
+| **Hintergrund** | [Suleyman, „A warning about ‚model welfare‘“](https://mustafa-suleyman.ai/a-warning-about-model-welfare) (16.09.2026) — sein Angriff auf Claudes Verfassung |
+| **Notiz** | [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Harari_Suleyman_Abundance_H43e72-2aAs_Transkript.txt` (Whisper large-v3-turbo, englisch, vollständig; YouTube-Untertitel waren gesperrt) |

@@ -24,9 +24,17 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **22.11.** — [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht|Wer den Spritpreis macht]]
+>
+> Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
+
 > **22.11.** — [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
 >
 > Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
+
+> **22.11.** — [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+>
+> Der Chef von Microsoft AI verspricht eine KI, die dem Menschen dient und nie zu fühlen glaubt. Der Historiker fragt, ob man Götter erschaffen und als Sklaven halten kann.
 
 > **21.11.** — [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
 >
@@ -36,21 +44,17 @@ Die Gedankenwelten (luc)
 >
 > Ein Militärökonom will nur gelten lassen, was militärisch und wirtschaftlich geschieht, und hält schon das Reden vom Verhandeln für ein Geschenk an den Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
 
-> **21.11.** — [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
->
-> Preise sollen sprechen, auch wenn es wehtut. Vier Ökonomen beraten die Wirtschaftsministerin im März 2026 zum Krieg am Golf, und der Herbst prüft, was sie vorhersahen.
-
-> **21.11.** — [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]]
->
-> Die Leistungsgesellschaft hält alle gefangen, auch ihre Gewinner, die bis zur Erschöpfung arbeiten. Wolfgang M. Schmitt und Stefan Schulz lesen Daniel Markovits' „The Meritocracy Trap“, und Wolfgang fragt, warum das Buch den Kapitalismus nicht beim Namen nennt.
-
-> → *22 weitere in* [[Zeitgeist]]
+> → *24 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
 > **22.11.** — [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
 >
 > Je mehr Maschinen arbeiten, desto teurer wird es, die Arbeitslosen ruhig zu halten, und desto billiger erscheint Gewalt. Ein neues Modell von Acemoglu rechnet das durch, mit Daten belegt ist es noch nicht.
+
+> **22.11.** — [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+>
+> Wie misst man, was man nie sehen wird? Man zählt, wie oft das Seltenste geschieht, und achtet auf die Abweichung. So fand man einst Neptun, bevor ihn jemand sah.
 
 > **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 >
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum sich jedes „Ja, aber“ der letzten Jahre nach drei Monaten erledigt hatte.
 
-> **15.11.** — [[Geistesblitz/Daniel Jung — KI hilft, KI hindert|Daniel Jung — KI hilft, KI hindert]]
->
-> Wer sich von der Maschine die Lösung geben lässt, kann besser üben und in der Prüfung schlechter abschneiden. Ein Mathematik-Erklärer über Lernen, das wehtun muss, über das Handy, das jede Sekunde misst, und über Prüfungen, auf die er keine Antwort hat.
-
-> → *2 weitere in* [[Geistesblitz]]
+> → *3 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

@@ -170,6 +170,10 @@ Die Fischerei vor Südamerika, die Beautemps nannte, ist eingebrochen: Peru hat 
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Dieselbe Zurückhaltung beim Allerkleinsten: Ein kleiner Kanal erklärt einen CERN-Befund, den andere Titel als Warnung an die Welt verkaufen, als das, was er ist, einen Hinweis bei 3,2 Sigma, der zur Vorhersage passt.
+
 ### → [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
 
 Derselbe Sprecher, dasselbe Handwerk in anderem Feld: Dort sortiert Beautemps das *Versprechen* eines Energie-Startups von der belegten Wirkung, hier die *Prognose* eines Klimaphänomens von der Gewissheit. Beide Notes zeigen seine Kernkompetenz — einen Anspruch ehrlich halten, ohne ihn zu über- oder unterzeichnen.

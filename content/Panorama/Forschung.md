@@ -254,6 +254,10 @@ Dass das Genie ein Team ist, wusste schon die Wissenschaftssoziologie der 1960er
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Ein Lehrstück für das Verfahren, das den eigenen Irrtum findet: Die Teilchenphysik bewahrt ihre verschwundenen Hinweise auf, verlangt fünf Sigma für eine Entdeckung und meldet nach zweiundvierzig Jahren einen Befund, der zum Standardmodell passt.
+
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Warum scheitern Alzheimer-Mittel so oft|Made in Germany Awards 2026 — Medizin]]
 
 Das Tal zwischen Labor und Markt von der Seite der Klinik: Von der Maus zum Menschen kommt weniger als jeder Hundertste Alzheimer-Wirkstoff durch, und ein Preprint mit sechs Mäusen ist ein Lehrstück dafür, wie viel man der frühen Forschung glauben darf.

@@ -235,6 +235,10 @@ Heute sei dieses Projekt [▶ 48:38](https://www.youtube.com/watch?v=2eZMhUVew0Q
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Ein Beispiel dafür, dass die Fächer das evaluative Projekt wirklich weiterführen: Die Teilchenphysik hat aus verschwundenen Hinweisen eine eigene Schwelle gemacht, und ihr Handbuch hält fest, was ein p-Wert nicht ist.
+
 ### → [[Walther Ziegler — Descartes in 60 Minuten]]
 
 Ziegler erzählt die Meditationen als Abstieg in die völlige Haltlosigkeit und macht den methodischen Zweifel zur Medienkompetenz. Wilholt setzt einen Satz dagegen, der die Lektüre verschiebt: Descartes war kein Skeptiker, er trieb den Zweifel auf die Spitze, um zu sehen, was ihm standhält. Nebeneinander gelesen zeigen die beiden Notes auch die Falle im kartesischen Maßstab: Wer nur das Unbezweifelbare als Wissen gelten lässt, verwechselt Wissen mit Gewissheit und behält am Ende ein paar mathematische Sätze.

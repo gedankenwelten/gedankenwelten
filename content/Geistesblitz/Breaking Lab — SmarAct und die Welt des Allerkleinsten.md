@@ -256,6 +256,10 @@ Ist das Werkzeugmacherland damit stark oder abhängig? Die Forschung sagt: beide
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Wo SmarAct an seine Grenze kommt, beginnt der indirekte Weg: Am CERN schaut man in Abstände von wenigen Zeptometern, zwölf Größenordnungen unter dem Nanometer, nur über die Häufigkeit eines extrem seltenen Zerfalls.
+
 ### → [[Geistesblitz/Emergence — Das dunkle Wissen der KI#Gibt es Wissen, das sich nicht abschreiben lässt?|Emergence — Das dunkle Wissen der KI]]
 
 Weigel-Jech sagt, Wissen lasse sich nicht einfach verpflanzen, weil Familien, Häuser und Kinder daran hängen. Emergence liefert die Forschung dazu: Wissen, das in Körpern und Gemeinschaften steckt, Techniken, die verloren gehen, wenn keine Generation sie mehr ausübt. Und die Kehrseite: England verbot 1789 die Ausfuhr von Maschinen und Arbeitern, Samuel Slater trug die Fabrik im Kopf über den Atlantik. Wissen haftet an Menschen, und darum wandert es mit ihnen; das verbindet die Standortfrage mit der Frage, wer was wohin liefern darf.

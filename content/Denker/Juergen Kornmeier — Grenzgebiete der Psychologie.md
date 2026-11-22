@@ -362,6 +362,10 @@ Damit schließt sich der Bogen zum Anfang: Unser Wahrnehmungssystem misst nicht,
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Am CERN gilt ein Signal erst bei einer Zufallschance von eins zu dreieinhalb Millionen als Entdeckung, weil Hinweise dort schon oft verschwunden sind. Die Note zeigt, wie ein Fach mit Effekten im Zwischenbereich umgeht: Es misst weiter, bis sie wachsen oder vergehen.
+
 ### → [[Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 
 Der nächste Nachbar — und darum die aufschlussreichste Reibung. Beide arbeiten mit mehrdeutigen Reizen und finden dasselbe: Carbons gemorphtes Gesicht wird eindeutig weiblich, sobald vorher „Maria" fällt; Kornmeiers Mona Lisa wird fröhlicher, sobald etwas Fröhlicheres den Raum betritt. Nur zieht Carbon aus dem Befund eine Aussage über die Welt — *„die Außenwelt selber konstruierst du selber“* —, während Kornmeier an derselben Stelle über sein Messgerät spricht: ein Ohr an der Mauer eines Hauses voller singender Chöre. Carbon macht aus der Konstruktion eine These, Kornmeier eine Grenze. Wer beide liest, sieht, dass derselbe Laborbefund zwei verschiedene Temperamente von Wissenschaft trägt.

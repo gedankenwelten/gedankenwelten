@@ -219,6 +219,10 @@ Und das letzte Bild — das Seil, das in der Luft Halt sucht:
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Was 1919 die Lichtablenkung zeigte, hatte vorher schon die Merkur-Bahn verraten, an der man mit derselben Methode, die Neptun fand, einen Planeten Vulkan erfand. Eine Abweichung sagt nicht, ob ein Ding fehlt oder das Gesetz falsch ist.
+
 ### → [[Walther Ziegler — Platon in 60 Minuten]]
 
 Popper greift Platon frontal an: Der Idealstaat ist keine Meritokratie, sondern eine totalitäre geschlossene Gesellschaft. Philosophenkönige sind nicht abwählbar — und Andersdenkende landen im Umerziehungslager. Zieglers Platon-Vortrag zeigt Platons eigene Argumente; der Popper-Vortrag liefert die Gegenanklage. Man muss beide zusammen lesen.

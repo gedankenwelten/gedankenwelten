@@ -797,6 +797,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Andrew Ross Sorkin|Andrew Ross Sorkin]]** — Wirtschaftsjournalist, Kolumnist der New York Times, Gründer von DealBook und Moderator bei CNBC, der die Mächtigen der Wirtschaft befragt und dafür als Zugangsjournalist kritisiert wird.
 
+**[[DenkerVita/Mustafa Suleyman|Mustafa Suleyman]]** — KI-Unternehmer, Mitgründer von DeepMind und Inflection, CEO von Microsoft AI; warnt vor der Welle, die er mitbaut, und vor KI, die wie eine Person erscheint
+
 ## T
 
 **[[DenkerVita/Bernd Tiggemann|Bernd Tiggemann]]** — evangelischer Pfarrer und Journalist, Jahrgang 1970; früherer Kriegsdienstverweigerer und EKD-Kommunikationschef, seit 2025 Militärseelsorger in Wunstorf

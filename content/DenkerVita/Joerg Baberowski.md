@@ -1,7 +1,9 @@
 ---
 title: Jörg Baberowski — DenkerVita
-description: "Der Berliner Stalinismusforscher Jörg Baberowski erklärt Gewalt aus ihrer eigenen Dynamik statt aus Ideologie; seit 2014 streitet er öffentlich und umstritten über Migration und Demokratie."
-tags: [denker-vita, geschichte, gewalt, stalinismus, demokratie, deutschland]
+description: "„Ideen töten nicht“, schreibt Jörg Baberowski. Der Berliner Historiker erklärt Gewalt aus ihrer Dynamik und streitet über Herrschaft, Populismus und die liberale Demokratie."
+date: 2026-06-22
+aktualisiert: 2026-11-22
+tags: [denker-vita, geschichte, gewalt, stalinismus, russland, demokratie, populismus, deutschland]
 ---
 
 # Jörg Baberowski — DenkerVita
@@ -19,75 +21,117 @@ tags: [denker-vita, geschichte, gewalt, stalinismus, demokratie, deutschland]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Jörg Baberowski** (*1961, Radolfzell am Bodensee*) — seit 2002 Professor für Geschichte Osteuropas an der Humboldt-Universität zu Berlin, einer der profiliertesten Gewalt- und Stalinismusforscher des deutschsprachigen Raums.
+> **Jörg Baberowski** (*1961, Radolfzell am Bodensee*) ist seit 2002 Professor für Geschichte Osteuropas an der Humboldt-Universität zu Berlin, ein Gewalt- und Stalinismusforscher. Für *Verbrannte Erde* erhielt er 2012 den Preis der Leipziger Buchmesse.
 >
-> Als Jugendlicher Mitglied im maoistischen Kommunistischen Bund Westdeutschland, aus streng katholischem Milieu — sein Weg ist eine fortwährende Abkehr vom ideologischen Erklären. Sein Frühwerk *Der rote Terror* (2003) deutete den Stalinismus noch aus der kommunistischen Idee; *Verbrannte Erde* (2012, Preis der Leipziger Buchmesse) ist die ausdrückliche Selbstrevision: Im Zentrum steht jetzt nicht die Ideologie, sondern die physische Gewalt als eigenes Herrschaftsmedium. Seit 2014 zugleich eine Reizfigur des öffentlichen Diskurses.
+> Als Schüler war er im maoistischen Kommunistischen Bund Westdeutschland, als erster Akademiker seiner Familie wurde er Historiker der Sowjetunion. 2012 verwarf er öffentlich die These seines eigenen Buchs von 2003: Gewalt verstehe man nur aus ihrer Dynamik, „Ideen töten nicht“. Seit Mitte der 2010er Jahre ist er auch ein umstrittener öffentlicher Kommentator.
+>
+> Wichtigste Werke: *Verbrannte Erde* (2012), *Räume der Gewalt* (2015), *Der sterbliche Gott* (2024), *Am Volk vorbei* (2026)
+> Kernbegriffe: Dynamik der Gewalt, staatliche Herrschaft, Liberalismus und Demokratie, Populismus als Schatten der Repräsentation
+
+*Grundlage sind der Normdatensatz und der Katalog der Deutschen Nationalbibliothek, die Verlagsseiten und Leseproben (C.H. Beck, S. Fischer), Berichte im Spiegel (2017) und in der Berliner Zeitung (2017), ein Interview-Vorspann im Tagesspiegel (2017) und unser Transkript seines Gesprächs bei Jung & Naiv (Juni 2026), in dem strittige Stellen am Standbild geprüft wurden. Die Seiten der Humboldt-Universität waren nicht lesbar. Am 22.11.2026 neu geprüft.*
+
+---
 
 ## Biografie
 
-Baberowski wird 1961 in Radolfzell am Bodensee geboren, wächst aber in Holzminden an der Weser auf — in einem streng katholischen Milieu (die Mutterseite stammt aus Paderborn). Schon auf der Realschule schließt er sich „solchen kommunistischen Gruppen“ an, im Umfeld des maoistischen **Kommunistischen Bunds Westdeutschland** (KBW); für „KBW in den Landtag“ in Kreide an der Schulwand gibt es zwei Wochen Schulverweis. Er wiederholt die zehnte Klasse, arbeitet nach der mittleren Reife ein Jahr als Hilfsarbeiter auf dem Bau („Was glaubst du, wie du aussiehst mit 40? Du bist doch nicht doof“, sagen ihm die Bauarbeiter) und geht dann aus eigenem Antrieb in die gymnasiale Oberstufe ([Video ▶ 60:00](https://www.youtube.com/watch?v=fQchzySVyb4&t=3600)). Sein späterer Weg ist eine fortgesetzte Abkehr von dieser ideologischen Prägung. Ein promovierter Philosophielehrer am Gymnasium — er nannte die pubertierenden Querköpfe „die Suchenden" („Die suchen was. Lass sie suchen.“) — bringt ihm Marx, Nietzsche und Kant von sich zu Hause mit, trifft sich privat mit ihm, und entzündet jene Leidenschaft für die philosophischen Fragen, die den Historiker bis heute umtreibt.
+Jörg Baberowski wurde 1961 in Radolfzell am Bodensee geboren und wuchs in Holzminden an der Weser auf, in einem katholischen, „kirchlichen“ Milieu, in das man „hinein ritualisiert“ worden sei, ohne sich je Gedanken über Gott zu machen. „Mein Hintergrund ist unakademisch. Ich bin der erste Akademiker in der Familie.“ Schon auf der Realschule schloss er sich „solchen kommunistischen Gruppen“ an; als Schüler war er „in diesem Kommunistischen Bund Westdeutschland“. Für „KBW in den Landtag“ in Kreide an der Schulwand gab es zwei Wochen Schulverweis. Er wiederholte die zehnte Klasse, arbeitete nach der mittleren Reife ein Jahr als Hilfsarbeiter auf dem Bau („Was glaubst du, wie du aussiehst mit 40? Du bist doch nicht doof“, sagten ihm die Bauarbeiter) und ging dann in die gymnasiale Oberstufe. Ein promovierter Philosophielehrer, der die pubertierenden Querköpfe „die Suchenden“ nannte, brachte ihm Marx, Nietzsche und Kant von zu Hause mit.
 
-Er studiert Geschichte, Philosophie und Rhetorik — erst in Tübingen (dem „Geist von Ernst Bloch" nachreisend), dann, an der Wohnungsnot gescheitert, in Göttingen. Dort stößt er eher zufällig auf die sowjetische Geschichte: Ein Seminar über den stalinistischen Terror konfrontiert ihn mit dem „Blödsinn", den er als KBW-Schüler über Mao und Pol Pot geredet hatte. Er lernt im Selbststudium Russisch, promoviert über die Justiz im Zarenreich (Frankfurt 1994), habilitiert über die Ursprünge des Stalinismus in Aserbaidschan (Tübingen 2001).
+In Tübingen schrieb er sich ein, fand aber in zwei Wochen keine Wohnung und studierte ab 1982 in Göttingen Geschichte und Philosophie. Ein Seminar über den stalinistischen Terror konfrontierte ihn mit dem „Blödsinn“, den er als Schüler über Mao und Pol Pot geredet hatte. Russisch brachte er sich selbst bei. Er wurde 1994 in Frankfurt mit einer Arbeit über Justiz und Rechtsstaatlichkeit im späten Zarenreich promoviert und habilitierte sich in Tübingen mit *Der Feind ist überall. Stalinismus im Kaukasus* (laut Katalog 2003). Seit 2002 lehrt er an der Humboldt-Universität, 2009/10 war er Dekan der Philosophischen Fakultät I.
 
-Prägend wird sein Jahr als Doktorand im zerfallenden Russland 1991/92 — leere Geschäfte, Schocktherapie, das Leben in einer Mangelgesellschaft, die vom Gabentausch lebt. Diese Erfahrung wird zum Schlüssel seiner späteren Deutung: warum Menschen sich nach dem Autoritären sehnen, wenn die Ordnung zusammenbricht.
+Prägend wurde sein Jahr als Doktorand im zerfallenden Russland 1991/92: leere Geschäfte, Schocktherapie, ein Leben vom Tausch. „Eine tiefsitzende Erfahrung meiner Generation“, sagt er, die Putin erkläre: Menschen „sehnen sich nur dann nach dem Autoritären, wenn das andere nicht funktioniert“.
 
-**Die intellektuelle Kehre** ist das Herzstück seiner Vita: *Der rote Terror* (2003) erklärte den Stalinismus noch wesentlich aus der kommunistischen Ideologie. *Verbrannte Erde* (2012) ist die ausdrückliche Selbst-Revision — jetzt stehen Stalins Persönlichkeit und die physische Gewalt als eigenes Herrschaftsmedium im Zentrum, nicht mehr die Idee. Ab 2014/2015 (Ukraine-Krise, Flüchtlingskrise) tritt der Archiv-Historiker als öffentlicher Kommentator auf — und wird zur Reizfigur.
+**Die Selbstrevision.** 2003 hatte er in *Der rote Terror* die Thesen des Soziologen Zygmunt Bauman „noch für eine Offenbarung gehalten“, das Streben nach Eindeutigkeit und die „Ordnungswut des modernen Gärtnerstaates“. Im Vorwort von *Verbrannte Erde* (2012) nennt er das „eine schöne Idee, zweifellos, die aber nichts weiter als eine Behauptung blieb“: Wollte er das alte Buch überarbeiten, „müßte ich widerlegen, was ich einst geschrieben hatte“. *Verbrannte Erde* erhielt den Preis der Leipziger Buchmesse, stand mehrere Wochen auf der Spiegel-Bestsellerliste und erschien 2016 englisch bei Yale University Press.
+
+---
 
 ## Bücher & Publikationen
 
-- [Verbrannte Erde. Stalins Herrschaft der Gewalt](https://www.genialokal.de/Suche/?q=baberowski+verbrannte+erde) (2012) — Hauptwerk, Preis der Leipziger Buchmesse (Sachbuch). Revision von *Der rote Terror*: Stalinismus als Herrschaft physischer Gewalt.
-- [Räume der Gewalt](https://www.genialokal.de/Suche/?q=baberowski+raeume+der+gewalt) (2015) — seine Gewalttheorie in Reinform: Gewalt als eigene Logik, gebunden an „Räume", nicht ableitbar aus Ideologie.
-- [Der rote Terror. Die Geschichte des Stalinismus](https://www.genialokal.de/Suche/?q=baberowski+der+rote+terror) (2003) — frühe, noch ideologiezentrierte Stalinismus-Studie (von ihm später revidiert).
-- [Der Sinn der Geschichte. Geschichtstheorien von Hegel bis Foucault](https://www.genialokal.de/Suche/?q=baberowski+der+sinn+der+geschichte) (2005) — Überblick über Geschichtsphilosophie.
-- [Der bedrohte Leviathan. Staat und Revolution in Rußland](https://www.genialokal.de/Suche/?q=baberowski+bedrohte+leviathan) (2021) — Staat, Macht und Revolution.
-- [Der sterbliche Gott. Macht und Herrschaft im Zarenreich](https://www.genialokal.de/Suche/?q=baberowski+sterbliche+gott) (2024) — Herrschaftsanalyse des Zarenreichs.
-- [Am Volk vorbei. Zur Krise der liberalen Demokratie](https://www.genialokal.de/Suche/?q=baberowski+am+volk+vorbei) (2026) — aktuellster Band: die Kritik der liberalen Demokratie, Anlass des Jung-&-Naiv-Gesprächs.
+| Titel | Jahr | Angaben |
+|---|---|---|
+| [Am Volk vorbei. Zur Krise der liberalen Demokratie](https://www.genialokal.de/Suche/?q=9783406844324) | 2026 | C.H. Beck, 208 S. Populismus als „immerwährender Schatten“ der repräsentierten Volkssouveränität; Anlass des Jung-&-Naiv-Gesprächs |
+| [Die letzte Fahrt des Zaren. Als das alte Russland unterging](https://www.genialokal.de/Suche/?q=9783406830488) | 2025 | C.H. Beck |
+| [Der sterbliche Gott. Macht und Herrschaft im Zarenreich](https://www.genialokal.de/Suche/?q=9783406714207) | 2024 | C.H. Beck, 1370 S. |
+| [Räume der Gewalt](https://www.genialokal.de/Suche/?q=9783100048189) | 2015 | S. Fischer. Gewalt als „für jedermann zugängliche und deshalb attraktive Handlungsoption – und kein ›Betriebsunfall‹“, so der Verlag |
+| [Verbrannte Erde. Stalins Herrschaft der Gewalt](https://www.genialokal.de/Suche/?q=9783406632549) | 2012 | C.H. Beck, 606 S.; Preis der Leipziger Buchmesse; engl. *Scorched Earth* (Yale UP 2016) |
+| [Der Sinn der Geschichte. Geschichtstheorien von Hegel bis Foucault](https://www.genialokal.de/Suche/?q=9783406527937) | 2005 | C.H. Beck |
+| [Der rote Terror. Die Geschichte des Stalinismus](https://www.genialokal.de/Suche/?q=9783421054869) | 2003 | DVA; 2012 von ihm verworfen |
 
-*Weitere:* *Der Feind ist überall. Stalinismus im Kaukasus* (2003), *Ordnung durch Terror* (2006, mit A. Doering-Manteuffel), *Die letzte Fahrt des Zaren* (2025).
+*Weitere:* [Der bedrohte Leviathan](https://www.genialokal.de/Suche/?q=9783428182275) (2021), [Ordnung durch Terror](https://www.genialokal.de/Suche/?q=9783801203689) (2006, mit Anselm Doering-Manteuffel), [Der Feind ist überall](https://www.genialokal.de/Suche/?q=9783421056221) (2003), [Autokratie und Justiz](https://www.genialokal.de/Suche/?q=9783465028321) (1996); als Herausgeber u. a. [Gewalträume](https://www.genialokal.de/Suche/?q=9783593392318) (2012, mit Gabriele Metzler) und [Macht ohne Grenzen](https://www.genialokal.de/Suche/?q=9783593501642) (2014, mit Robert Kindler).
+
+---
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Historiker Jörg Baberowski über Putin, Herrschaft & liberale Demokratie — Jung & Naiv #832](https://www.youtube.com/watch?v=fQchzySVyb4) — das über dreistündige Anlass-Interview.
-- [Gewalt und Zivilisation — NZZ Standpunkte (2016)](https://www.youtube.com/watch?v=LypjYmhzG7U) — ausführliches Gespräch über sein Lebensthema Gewalt.
-- [Gewalt, Macht & Geschichte — Jörg Baberowski im Gespräch](https://www.youtube.com/watch?v=tmjEpoaGZsA) — warum schwächere Regime mehr Verbrechen begehen.
+- [Historiker Jörg Baberowski über Putin, Herrschaft & liberale Demokratie](https://www.youtube.com/watch?v=fQchzySVyb4) (Jung & Naiv, Folge 832, Juni 2026, 3:16 Std.) — das Gespräch unserer Note
+- [Gewalt, Macht & Geschichte](https://www.youtube.com/watch?v=tmjEpoaGZsA) (Roman Herzog Institut, April 2026, 1:47 Std., mit Martin Lang)
+- [Gewalt und Zivilisation](https://www.youtube.com/watch?v=LypjYmhzG7U) (NZZ Standpunkte, März 2016, 50 Min.)
+
+---
 
 ## Kernthesen
 
-1. **Gewalt hat eine eigene Logik — nicht aus Ideologie ableitbar.** Sie folgt einer eigenen Dynamik und entfaltet sich in „Räumen der Gewalt" (staatsferne, regelarme Zonen). Wer Gewalt erklären will, muss die Tat selbst betrachten, nicht nur die Ideen dahinter.
-2. **Stalinismus als Herrschaft der Gewalt.** Gewalt war „das Kommunikationsmedium der bolschewistischen Führung". Stalin — „die Spinne im Netz des Terrors" — setzte seinen Anspruch in einem schwachen Staat durch permanente physische Gewalt durch.
-3. **Herrschaft braucht Eindeutigkeit und Ordnung.** Von Zarenreich bis Sowjetunion: Ordnung ist keine Selbstverständlichkeit, sondern eine fragile, stets bedrohte Errungenschaft.
-4. **Liberalismus ist nicht Demokratie.** Die repräsentative Demokratie sei eine antidemokratische Erfindung des 19. Jahrhunderts — gedacht, um den „Pöbel" fernzuhalten. Echte Demokratie sei das athenische Modell: direkt, durch Los, mit Rückrufrecht.
-5. **Staatliche Herrschaft als Naturgesetz.** Sobald es Staaten gibt, lässt sich nicht herrschaftsfrei regieren. Die Demokratie ist nicht ein Wert, sondern das beste Verfahren, diese Herrschaft erträglich und kontrollierbar zu machen.
+1. **Ideen töten nicht.** „Man kann die Gewalt nicht von ihrem Anfang her verstehen, sondern nur in ihrer Dynamik“, schreibt er in *Verbrannte Erde*. Das kommunistische Experiment „gab den Machthabern eine Rechtfertigung … Aber es schrieb ihnen den Massenmord nicht vor“. Stalin war für ihn, so der Verlagstext, „ein Psychopath und passionierter Gewalttäter“, „Urheber und Regisseur des Terrors“, und schuf „eine Ordnung des Misstrauens und der Furcht“; sein Lebensraum sei der Ausnahmezustand gewesen, der den politischen Raum „in einen Gewaltraum“ verwandelte.
+
+2. **Liberalismus ist nicht Demokratie.** „Liberalismus ist nicht das gleiche wie Demokratie, und es wird immer ununterbrochen miteinander verwechselt.“ Die Erfinder des parlamentarischen Systems im 19. Jahrhundert „wollten eben keine Demokraten sein“, sie „wollten den Pöbel möglichst weit fernhalten“. Dass Repräsentation eine Idee der Oligarchen sei, fasst Tilo Jung zusammen, Baberowski stimmt zu. Die Massendemokratie sei „eine Errungenschaft der Sozialdemokraten, nicht der Liberalen“. Und es gebe in der Demokratie „auch immer diese athenische Seite“, direkt, durch das Los, mit der Macht, Politiker zur Verantwortung zu ziehen.
+
+3. **Herrschaft lässt sich nur zähmen.** „Die Sehnsucht nach herrschaftsfreien Lebensverhältnissen ist nichts als ein Traum. Herrschaft läßt sich nicht beseitigen, allenfalls austauschen, kontrollieren und beschränken“ (*Am Volk vorbei*). Als Jung von einem „Naturgesetz“ spricht, grenzt er ein: „Ich spreche von staatlicher Herrschaft … Sobald es Staaten gibt, kann man die nicht herrschaftsfrei regieren.“ „Der Leviathan ist sterblich, und er weiß es.“
+
+4. **Demokratie als Verfahren.** Demokratie sei „ein Verfahren …, das Leben in Herrschaftssystemen erträglicher zu gestalten. … Ich gehe gar nicht von dem Wertesystem aus.“ Mit Kelsen und Weber hält er sie für die beste Form, weil man die Herrschaft in Grenzen halten und sich einreden kann, man habe alles selbst gewollt.
+
+5. **Populismus als Schatten der Repräsentation.** Was geschehe, sei „keineswegs das Ende der Demokratie, sondern ihre Belebung und Radikalisierung. Der Populismus ist nur der immerwährende Schatten … der repräsentierten Volkssouveränität“ (*Am Volk vorbei*). Die rote Linie ziehe er beim Bürgerkrieg. „Die Beschwörung einer friedlichen Verständigung ist nichts als Gewaltvergessenheit.“
+
+6. **Krieg, Putin und das eigene Irren.** „Ich habe mich vollkommen vertan“, sagt er über den Angriff 2022, den er für unmöglich gehalten hatte. Putin habe „immer eine Wahl“; eine westliche Mitverantwortung sieht er nur darin, nicht verstanden zu haben, wie Moskau die Lage sieht. „Wir wissen nicht, wer entschieden hat, die Ukraine anzugreifen“, viele redeten schlau daher, „ich weiß es auch nicht“. Die Eskalation führe „paradoxerweise nicht zur Entspannung, sondern zur Eskalation, weil da kein Ausweg ist“; beenden könnten den Krieg „nur die Europäer“. Er nennt sich Pazifisten: „Vielleicht bin ich hoffnungslos naiv, aber ich will mir meinen Pazifismus nicht kaputt machen lassen“; Brandts Ostpolitik hat er „immer für genial gehalten“, das Wort Kriegstüchtigkeit hält er für bedenklich. Die Ehrung der Bandera-Partisanen in der Ukraine nennt er, bei allem Verständnis dafür, dass Selenskyj im Krieg alle Gruppen einbinden müsse, „symbolisch eine Katastrophe“ für das Verhältnis zu Polen.
+
+7. **Sinn vom Tod her.** „Wir sind Gäste des Lebens“, sagt er mit einem Motto, das er Heidegger zuschreibt; „das Leben ist ohne den Tod kein Leben“.
+
+---
 
 ## Politische Einordnung
 
-> Kein Tribunal, kein Heiligenschein. Yin und Yang gehören bei Baberowski zusammengelesen.
+> Kein Tribunal, kein Heiligenschein. Beide Seiten gehören bei Baberowski zusammengelesen.
 
-**Die eine Seite — der renommierte Wissenschaftler:** Baberowski ist ein international anerkannter Stalinismus- und Gewaltforscher, Träger des Preises der Leipziger Buchmesse, HU-Lehrstuhlinhaber. Sein Gewaltbegriff hat das Fach geprägt. Präsidium und Geschichtsinstitut der HU stellten sich in den Konflikten ausdrücklich hinter ihn: seine Äußerungen seien „durchaus kontrovers, aber keineswegs rechtsradikal". Auch Historiker wie Götz Aly verteidigten ihn.
+**Der Wissenschaftler:** Ein Stalinismus- und Gewaltforscher mit Preis der Leipziger Buchmesse, englischer Ausgabe bei Yale und einem Lehrstuhl an der Humboldt-Universität. Ungewöhnlich ist, dass er die zentrale These eines eigenen Buchs öffentlich widerrufen hat.
 
-**Die andere Seite — die Reizfigur:** Seit 2014 gilt er vielen als Brückenfigur zu rechtskonservativen bis rechten Diskursen. Die Konflikte konkret:
+**Die Reizfigur:** Seit Mitte der 2010er Jahre ist er in öffentlichen Streit verwickelt.
 
-- **Das Hitler-Zitat:** In einem *Spiegel*-Interview (Februar 2014) sagte er: „Hitler war kein Psychopath, er war nicht grausam." *Seine Verteidigung:* Er habe Hitler mit Stalin *verglichen* — Stalin als Psychopath, der Gewalt genoss, Hitler als „Schreibtischtäter", der die Folgen nicht sehen wollte; es gehe um eine typologische Unterscheidung der Gewaltausübung, nicht um Verharmlosung. *Der Vorwurf:* Kritiker sehen darin eine Relativierung der NS-Verbrechen.
-- **Der Nolte-Bezug:** Sein Sammelband *Ordnung durch Terror* (2006) vergleicht NS- und Stalin-Gewalt. Fachlich differenziert: Die Studie reetablierte ausdrücklich *nicht* Noltes These vom stalinistischen Terror als Ursache/Vorbild des NS — sie arbeitete Ähnlichkeiten *und* Eigenheiten heraus. Lob und Kritik fielen gemischt aus.
-- **Bremer AStA / „rechtsradikal":** Der AStA Bremen warf ihm Rassismus und Rechtsradikalismus vor. Baberowski klagte. Ausgang ambivalent: Das LG Köln entschied (März 2017), der AStA dürfe ihn „rechtsradikal" nennen (Meinungsäußerung), *nicht* aber „rassistisch". Als sich abzeichnete, dass das OLG gegen ihn entscheiden würde, zog er seinen Antrag zurück.
-- **Trotzkisten-Konflikt (SGP/IYSSE):** Seit der Einladung des Trotzki-Biografen Robert Service (2014) im Dauerstreit mit der trotzkistischen Splitterpartei SGP, die ihm „Geschichtsfälschung" vorwirft. Das LG Hamburg (2017) urteilte, die SGP dürfe diesen Vorwurf weiter erheben — gedeckt von der Meinungsfreiheit. *(Einordnung: Die SGP/WSWS ist die schärfste Gegnerin, keine neutrale Quelle; die Urteile betreffen die Meinungsfreiheit der Kritiker, nicht eine festgestellte „Wahrheit" über Baberowski.)*
-- **Migration (2015):** Scharfe Kritik an Merkels Asylpolitik und der „Willkommenskultur", Forderung nach gesetzlich geregelter Einwanderung, Polemik gegen „linke Eliten". Hier liegt der Kern des Vorwurfs der „Nähe zu rechten Diskursen" — Verteidiger sehen legitime, wenn auch konservative Migrationsskepsis.
-- **Linke Studierende (2019):** Er bezeichnete zwei Langzeit-Studierende öffentlich als „Linksextreme Fanatiker" und „unfassbar dumm". Seine Darstellung: In 23 Jahren an der HU habe er nie Konflikte mit echten Studierenden gehabt — die Angreifer seien meist außeruniversitäre Aktivisten und organisierte Parteien, die die Universität als Bühne nutzten. „Auf das Niveau lasse ich mich nicht ein."
+- **Hitler und Stalin:** Im Februar 2014 zitierte ihn der *Spiegel* in einem Artikel mit dem Satz: „Hitler war kein Psychopath, er war nicht grausam. Er wollte nicht, dass an seinem Tisch über die Judenvernichtung geredet wird. Stalin dagegen hat die Todeslisten voller Lust ergänzt und abgezeichnet, er war bösartig, er war ein Psychopath.“ 2017 verteidigte er die Äußerung, er fühle sich missverstanden: „Stalin hatte Freude an Gewalt, Hitler nicht“; wer seine Aussagen im Sinnzusammenhang sehe, verstehe, was gemeint sei ([Tagesspiegel, 08.05.2017](https://www.tagesspiegel.de/wissen/baberowski-erklart-seine-ausserungen-6309781.html)). Kritiker sahen darin eine Relativierung der NS-Verbrechen, er selbst eine Unterscheidung der Art, Gewalt auszuüben.
+- **Bremer AStA:** Der AStA der Universität Bremen nannte ihn rechtsradikal. Das Landgericht Köln verbot im März 2017 zwei sinnentstellende, durch Weglassen verkürzte Zitate, erlaubte aber den Vorwurf „rechtsradikale Positionen“ als Meinungsäußerung, gestützt unter anderem auf seine Äußerung, Integration sei eine „Bedrohung für den sozialen Kitt“ ([Spiegel, 21.03.2017](https://www.spiegel.de/lebenundlernen/uni/bremer-asta-gegen-berliner-professor-baberowski-urteil-gibt-beiden-recht-a-1139619.html)). In der Berufungsverhandlung vor dem OLG Köln zog er seinen Antrag zurück. Die Humboldt-Universität stellte laut Berliner Zeitung klar, dass seine wissenschaftlichen Äußerungen, „insbesondere in ihren Kontexten“, nicht rechtsradikal seien ([Berliner Zeitung, 07.06.2017](https://www.berliner-zeitung.de/article/hu-professor-joerg-baberowski-zieht-antrag-gegen-bremer-asta-zurueck-13945)).
+- **Migration:** Zur Fluchtbewegung 2015 äußerte er sich skeptisch; eines der vom AStA verkürzten Zitate lautete im Original: „Überall da, wo viele Menschen aus fremden Kontexten kommen und die Bevölkerung nicht eingebunden wird …, da kommt es natürlich zu Aggression“, und weiter: „Gott sei Dank ist in Deutschland noch niemand umgekommen …“ (Spiegel, ebd.). Im Jung-&-Naiv-Gespräch kommt Migration nicht vor.
+- **Studierende 2019:** Zwei Studierende, mit denen er stritt, nannte er „Linksextreme … Fanatiker und unfassbar dumm“; im Gespräch bestätigt er das: „Und das waren sie ja auch.“ Die eine habe, „glaube ich, nicht mal Examen gemacht“. In 23 Jahren an der Humboldt-Universität habe er keinen Konflikt mit Studierenden gehabt; die Angreifer seien „meistens Leute, die von außen kommen“, und „ansonsten“ organisierte Parteien. Auf den Einwand, eine Hochschulvertreterin habe seine Wortwahl nicht als angemessene Form der Auseinandersetzung gesehen, antwortet er: Wer beleidigt werde, sage auch mal „Schluss, das ist sehr dumm“. „Auf das Niveau lasse ich mich nicht ein.“
 
-**Fazit:** Ein ernstzunehmender Gewalthistoriker, dessen wissenschaftliches Werk auch von Gegnern respektiert wird — und ein politischer Polemiker, dessen Zuspitzungen ihn an den Rand des konservativen Spektrums und in die Reichweite rechter Vereinnahmung gebracht haben. Wo der Wissenschaftler endet und der Tagespolitiker beginnt, ist genau die umkämpfte Grenze.
+**Unsere Einordnung:** ein ernstzunehmender Gewalthistoriker und ein Polemiker, dessen Zuspitzungen ihm den Vorwurf eingebracht haben, rechte Positionen zu vertreten; ein Gericht ließ diesen Vorwurf als Meinung zu, seine Universität widersprach ihm. Im Gespräch von 2026 zeigt er dazu eine Seite, die selten mitgenannt wird: Pazifismus, Ostpolitik, das offene Eingeständnis, sich geirrt zu haben. Wo der Wissenschaftler endet und der Tagespolitiker beginnt, bleibt die umkämpfte Grenze.
+
+---
 
 ## Verbindungen zu anderen Denkern
 
-- **[[Denker/Hannah Arendt — Denken ohne Geländer|Hannah Arendt]]** — seine wichtigste Bezugsdenkerin: Die Zerstörung der Rechtsräume, in denen man überhaupt Rechte haben kann, ist Arendts Erbe in seiner Gewaltanalyse. Doch wo Arendt das Böse aus der Gedankenlosigkeit erklärt, betont Baberowski die ideologiefreie Eigendynamik der Tat.
-- **Timothy Snyder** — Baberowski schätzt *Bloodlands* hoch (die osteuropäischen Todeszonen, wo Hitler und Stalin sich trafen), kritisiert aber Snyders spätere Wendung zur Tagespolitik als Verlust für den großen Historiker.
-- **Christopher Browning** — dessen *Ganz normale Männer* ist für Baberowski der empirische Beleg seiner These: Menschen töten aus Konformität, nicht aus Überzeugung — kultur- und ideologieunabhängig.
+- **[[Denker/Hannah Arendt — Denken ohne Geländer|Hannah Arendt]]** — Im Gespräch fällt ihr Name in der Antwort zu Snyder; die Brücke zur „Banalität des Bösen“ schlägt dort der Co-Moderator. Die Nähe liegt im Gegenstand, der Zerstörung der Räume, in denen man Rechte haben kann. Doch wo Arendt das Böse aus der Gedankenlosigkeit erklärt, betont Baberowski die Dynamik der Tat selbst.
+- **Timothy Snyder** — Baberowski schätzt *Bloodlands* (die osteuropäischen Todeszonen, wo Hitler und Stalin sich trafen); dass Snyder sich heute vor allem der Tagespolitik widme, findet er „schade für so einen großen Historiker“.
+- **Christopher Browning** — Brownings *Ganz normale Männer* hält er, auf eine Zuschauerfrage hin, für „auf erschreckende Weise plausibel“: „Menschen töten lieber, als sich nonkonform zu verhalten“, unabhängig von ihren Überzeugungen.
 - **Max Weber & Hans Kelsen** — Stichwortgeber seines Demokratiebegriffs: Demokratie nicht als Wert, sondern als Verfahren, staatliche Herrschaft erträglich und kontrollierbar zu machen.
-- **Martin Heidegger** — „Sein zum Tode" und „Geworfenheit" prägen Baberowskis Sinn-Denken („Wir sind Gäste des Lebens"); Foucault liefert das Gegenmotiv: kein Anfang, kein Ende, kein teleologischer Sinn der Geschichte.
-- **[[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe]]** — teilt die scharfe Trennung von Liberalismus und Demokratie, zieht daraus aber den agonistischen statt den konservativ-skeptischen Schluss.
-- **[[DenkerVita/Ruben Mawick|Ruben Mawick]]** — Theorie der Gewalt trifft Erfahrung der Gewalt: Baberowskis „Wir sind Gäste des Lebens“ und die ideologiefreie Eigendynamik der Tat finden in Mawicks Nahtoderfahrung und Frontalltag ihre Anschauung.
-- **[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Der Gegenpol in der Gewaltforschung: Heitmeyer sucht die Ursachen in Desintegration, fehlender Anerkennung und durchrohten Strukturen, Baberowski versteht Gewalt aus ihrem Vollzug und misstraut solchen Ableitungen.
-- **[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Memorial-Historikerin, die Stalins Rückkehr als Symbol des starken Staates ebenso liest, Putins Aufstieg aber aus dem nie aufgearbeiteten Terror erklärt statt aus der Schocktherapie.
+- **Martin Heidegger** — Das „Sein zum Tode“ prägt sein Sinn-Denken („Wir sind Gäste des Lebens“); von Foucault übernimmt er das Gegenmotiv, in die Welt hineingeworfen zu sein, ohne Anfang, Ende und teleologischen Sinn der Geschichte.
+- **[[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe]]** — *Am Volk vorbei* nennt sie unter den Denkern, auf deren Schultern das Buch steht. Sie teilt die scharfe Trennung von Liberalismus und Demokratie, zieht daraus aber den agonistischen statt den skeptischen Schluss.
+- **[[DenkerVita/Ruben Mawick|Ruben Mawick]]** — Theorie der Gewalt trifft Erfahrung der Gewalt: Baberowskis „Wir sind Gäste des Lebens“ und die Dynamik der Tat finden in Mawicks Nahtoderfahrung und Frontalltag ihre Anschauung.
+- **[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Der Gegenpol in der Gewaltforschung: Heitmeyer sucht die Ursachen in Desintegration und fehlender Anerkennung, Baberowski versteht Gewalt aus ihrem Vollzug und ihren Situationen und misstraut solchen Ableitungen.
+- **[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Memorial-Historikerin, die Stalins Rückkehr als Symbol des starken Staates ebenso liest, Putins Aufstieg aber aus dem nie aufgearbeiteten Terror erklärt statt aus der Erfahrung der Schocktherapie.
+
+---
 
 ## Gedankenwelten-Notes
 
-- [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] — Jung & Naiv #832: Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie, Liberalismus ≠ Demokratie, Herrschaft als Naturgesetz.
+- [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] — Jung & Naiv #832: Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie, Liberalismus und Demokratie, Herrschaft und ihre Zähmung
+
+**Er kommt außerdem vor in:** den Panoramen [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren]], [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland]], [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern]] und [[Panorama/Was mit 17 geschah|Was mit 17 geschah]].
+
+---
+
+## Quellen
+
+- Deutsche Nationalbibliothek: [Normdatensatz 121811670](https://lobid.org/gnd/121811670), [Katalog](https://lobid.org/resources/search?q=contribution.agent.gndIdentifier:121811670) — Geburt, Professur, Dekanat, Promotion, Habilitation
+- S. Fischer: [Autorenseite](https://www.fischerverlage.de/autor/joerg-baberowski-1005408), [*Räume der Gewalt*](https://www.fischerverlage.de/buch/joerg-baberowski-raeume-der-gewalt-9783596185795)
+- C.H. Beck: [*Verbrannte Erde*](https://www.chbeck.de/baberowski-verbrannte-erde/product/34659355) mit [Leseprobe](https://www.litrix.de/apps/litrix_publications/data/pdf1/Baberowski-DE.pdf), [*Am Volk vorbei*](https://www.chbeck.de/baberowski-volk-vorbei/product/40038683) mit [Leseprobe](https://cdn-assetservice.ecom-api.beck-shop.de/productattachment/readingsample/16048138/40038683_leseprobe%20am%20volk%20vorbei.pdf)
+- Der Spiegel, 21.03.2017; Berliner Zeitung, 07.06.2017; [Tagesspiegel, 08.05.2017](https://www.tagesspiegel.de/wissen/baberowski-erklart-seine-ausserungen-6309781.html)
+- Jung & Naiv, Folge 832: [Video](https://www.youtube.com/watch?v=fQchzySVyb4), unser Transkript
+
+> [!note] Korrigiert am 22.11.2026
+> Das Wort „Naturgesetz“ für Herrschaft stammt von Tilo Jung, nicht von Baberowski; er grenzte ein: „Ich spreche von staatlicher Herrschaft.“ Die These „Herrschaft braucht Eindeutigkeit und Ordnung“ war die des Soziologen Zygmunt Bauman, die Baberowski 2012 ausdrücklich verwarf. Zwei Zitate zum Stalinismus hatten keine Fundstelle. Im Politik-Teil standen ein Spiegel-„Interview“ (es war ein Artikel; sein Wortlaut ist jetzt nach dem Tagesspiegel zitiert), ein angeblicher HU-Wortlaut, eine Verteidigung durch Götz Aly und eine Polemik gegen „linke Eliten“, die sich nicht belegen ließen; das Kölner Urteil ist jetzt nach den Berichten wiedergegeben. Ergänzt sind Stellen aus dem Gespräch, die das Bild ausgleichen. Die Herkunft der Mutter ist als privat gestrichen.

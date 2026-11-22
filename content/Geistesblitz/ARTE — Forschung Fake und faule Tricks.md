@@ -227,6 +227,10 @@ Das ist Agnotologie ohne Akteur — produziertes Unwissen durch strukturelle Anr
 
 ## Verbindungen
 
+### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
+
+Die Fünf-Sigma-Regel der Teilchenphysik ist eine Strenge, die aus eigenen Enttäuschungen kommt und sich zweiundvierzig Jahre Warten leisten kann. Daneben gelegt zeigt sich: Eine Schwelle ist immer auch eine Entscheidung darüber, welcher Irrtum mehr kostet.
+
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Was Nocun mit Arendt beschreibt, den Zustand, in dem der Unterschied zwischen Fakt und Fiktion nicht mehr zählt, ist Agnotologie mit KI skaliert: Was das Tabak-Blueprint manuell über Jahrzehnte betrieb, macht KI-Slop in Echtzeit — Zweifel industrialisieren, epistemischen Boden wegziehen, Parallelrealitäten bauen.

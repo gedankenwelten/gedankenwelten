@@ -1532,3 +1532,6 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Daron Acemoglu
 **Status:** ✓ Vollanalyse → [[DenkerVita/Daron Acemoglu]]
+
+## Mustafa Suleyman
+**Status:** ✓ Vollanalyse → [[DenkerVita/Mustafa Suleyman]]
