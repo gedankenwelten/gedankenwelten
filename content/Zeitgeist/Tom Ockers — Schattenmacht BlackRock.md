@@ -352,6 +352,10 @@ Beide erzählen den Flash Crash von 2010: hier mit ETFs als Kanal, dort mit Algo
 ### → [[Geistesblitz/ARTE 42 — Steuern Gefuehle den Finanzmarkt|ARTE 42 — Steuern Gefühle den Finanzmarkt?]]
 Die Psychologie unter dem Markt, den BlackRock verwaltet; auch dort steht der Flash Crash im Faktencheck.
 
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Transparenz für alle, auch für die Konkurrenz|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Eine dritte Spielart der Macht ohne Absprache: Am Kraftstoffmarkt braucht es weder gemeinsamen Besitz noch Kartell, Echtzeitpreise und eine feste Mittagsstunde genügen, und auch dort ist der Mechanismus plausibler als gemessen.
+
 ---
 
 ## Weiterdenken

@@ -118,7 +118,7 @@ Auch über Geschichte wurde geredet, und auch dieser Kanal ist fast zu. Die Deut
 
 - **[[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Die Vorgeschichte der Vorgeschichte|Claudia Wittig]]:** Seit 1990 habe der Westen Russland einen „Strom von Signalen“ gesendet, man wolle nichts mit ihm zu tun haben; die Wiedervereinigung wäre der Moment für eine neue Friedensordnung gewesen.
 - **[[WDR Europaforum — Frieden schaffen mit immer mehr Waffen#Die Ordnung, von der wir kommen|Jana Puglierin]]:** Zurück zu einem kooperativen Verhältnis gern — „aber nicht um den Preis, dass die Staaten um Russland herum keine Souveränität genießen dürfen“.
-- **[[Joerg Baberowski — Putin Herrschaft und liberale Demokratie#Die Eskalation kennt keinen Ausweg|Jörg Baberowski]]:** Eskalationsspiralen sind unkontrollierbar, beenden könnte sie nur ein mächtiger Spieler von außen — und der fehlt.
+- **[[Joerg Baberowski — Putin Herrschaft und liberale Demokratie#Die Eskalation kennt keinen Ausweg|Jörg Baberowski]]:** Putin sei in eine Eskalationsdynamik geraten, aus der er nicht mehr herauskomme; beenden könnten den Krieg nur die Europäer, „Trump wird es nicht tun“.
 - **[[Herfried Münkler — Europas Platz in der neuen Weltordnung#Was folgen soll|Herfried Münkler]]:** Weg von der „Müllermilchwerbung — alles Freunde oder was“, hin zu einer „Produktivität von Feindschaft“; Verhandlungen entstehen aus militärischen Rückschlägen, nicht aus Appellen.
 - **[[auslandsjournal — Putins Zielscheibe Europa#Ein Auslaufmodell, das um sich schlägt|Katrin Eigendorf]]:** Ein bescheidenes Ziel — dass Moskau den Krieg nicht mehr führen kann; selbst dann eher ein eingefrorener Konflikt als Frieden.
 - **[[Presseclub — Drohnen, Sprengstoff, Sabotage#Was Deutschland in der Hand hält|Andrey Gurkov]]:** Moskau hält sich mit dem offenen Konsulat bewusst eine Tür offen (einen Tag nach der Sendung ordnete Moskau die Schließung doch an); die Ostpolitik solle sich von Moskau nach Kiew drehen.
@@ -254,7 +254,7 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 </details>
 
 > [!question] Die Reibung
-> Notte, Sauerbrey und Lagodinsky wollen eine Gesellschaft, die Angst aushält — Vorräte, Geschichten, die ans Herz gehen, ein Staat, der zuschreibt, bevor ein Gericht urteilt. El-Mafaalani, Reicher und Knaus warnen, dass genau diese Mittel das Misstrauen nähren, von dem der hybride Krieg lebt; Wienand zeigt, dass in Moskau schon der Bericht über den Angriff als Treffer abgerechnet wird. *Wie viel von den Waffen des Gegners darf eine offene Gesellschaft zu ihrem Schutz übernehmen — und wie laut darf sie über den Angriff sprechen —, bevor der Schutz selbst zum Erfolg des Angreifers wird?*
+> Notte, Sauerbrey und Lagodinsky wollen eine Gesellschaft, die Angst aushält — Vorräte, Geschichten, die ans Herz gehen, ein Staat, der zuschreibt, bevor ein Gericht urteilt. El-Mafaalani und Reicher warnen, dass genau diese Mittel das Misstrauen nähren, von dem der hybride Krieg lebt, und Knaus erinnert daran, dass Desinformation auf einem wahren Kern beruht, der eigenen Ratlosigkeit; Wienand zeigt, dass in Moskau schon der Bericht über den Angriff als Treffer abgerechnet wird. *Wie viel von den Waffen des Gegners darf eine offene Gesellschaft zu ihrem Schutz übernehmen — und wie laut darf sie über den Angriff sprechen —, bevor der Schutz selbst zum Erfolg des Angreifers wird?*
 
 ---
 

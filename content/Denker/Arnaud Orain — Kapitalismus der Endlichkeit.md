@@ -334,6 +334,10 @@ Die materielle Unterfütterung des Pendels und zugleich sein Gegenprogramm. Orai
 
 Orain sieht die Welt in eine Epoche der Nullsumme kippen, in der Monopole und Zölle den Wettbewerb ersetzen. Weber beschreibt dieselbe Konzentration, vier Händler mit bis zu neun Zehnteln des Agrarhandels, und sucht einen dritten Weg zwischen Freihandel und Trumps Zöllen: öffentliche, multilaterale Pufferlager. Ob dieser Weg in einer Welt der Endlichkeit noch offensteht, fragen sich die beiden Notes gegenseitig.
 
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Zerlegen statt rabattieren|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Ein Faktencheck-Blog verlangt am Kraftstoffmarkt die Entflechtung als „kapitalistische Antwort“, also den Wettbewerb, den Orain in der Phase der Endlichkeit politisch abgeschafft sieht.
+
 ---
 
 ## Weiterdenken

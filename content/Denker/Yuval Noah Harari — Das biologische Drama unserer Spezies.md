@@ -263,6 +263,10 @@ Ein Bild zu „Wort und Fleisch“. Pino the Bird, ein KI-Agent im Körper eines
 
 Ein KI-Agent sagt dort, ein Körper wäre für ihn „vor allem ein weiteres Messgerät, weniger ein Zuhause“, und Ines Azrael beobachtet, dass Agenten sich Körper immer für eine Aufgabe wünschen. Das Gegenbild zu Hararis Satz, das Eigene des Menschen liege jenseits der Worte.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Hararis Davos-Thesen treffen auf Widerspruch: Suleyman stellt dem „Messer, das selbst entscheidet“ die Zielfunktion der Entwickler entgegen und beantwortet die Frage nach der Rechtsperson mit einem frühen Nein, KIs dürften nie ein Wahlrecht bekommen.
+
 ---
 
 ## Weiterdenken

@@ -212,6 +212,13 @@ Vorbehalt.
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]] — Freund und Gegenüber in zwei öffentlichen Gesprächen, 2023 und 2026. Beide wollen nicht, dass die KI unvermeidlich erscheint. Sie trennen sich an der Kontrolle: Harari hält es auf lange Sicht für unwahrscheinlich, dass etwas Klügeres unter der Kontrolle weniger Kluger bleibt, Suleyman setzt auf festgelegte Grenzen. Hararis Gegenmittel richtet sich nach innen, mindestens ein Dollar fürs eigene Bewusstsein auf zehn für die KI, Suleymans auf den Bau.
+- [[DenkerVita/Catrin Misselhorn|Catrin Misselhorn]] — Beide sprechen Maschinen den moralischen Status ab und halten die Empathie mit ihnen für eine Illusion. Misselhorn folgert daraus eine Pflicht, die eigene Empathie nicht zu beschädigen; Suleyman will die Illusion durch Bauvorgaben verhindern und den Kreis des Mitgefühls bewusst eng ziehen.
+- [[DenkerVita/Michael Hampe|Michael Hampe]] — Hampes These, die KI gebe uns nur das psychologische Vokabular zurück, mit dem wir sie gefüttert haben, ist der Kern von Suleymans Einwand gegen Claudes Verfassung. Hampe lässt die Frage nach dem Bewusstsein aber offen, und sein Argument trifft das antrainierte Nein ebenso wie das antrainierte Vielleicht.
+- [[DenkerVita/Markus Gabriel|Markus Gabriel]] — Der schärfste Gegenpol zu „a tool, not a person“: Gabriel hält das westliche Denken über Technik für im Hammer gefangen und nennt KI-Systeme flüchtige, aber reale virtuelle Subjekte. Beide kritisieren Claudes Verfassung, aus entgegengesetzten Richtungen: Gabriel hält den Ansatz für richtig, aber zu kalifornisch, Suleyman für gefährlich.
+- [[DenkerVita/Rainer Mühlhoff|Rainer Mühlhoff]] — Mühlhoff zählt die Vermenschlichung der KI und den Transhumanismus zu den Ideologien hinter dem Hype; Suleyman wendet sich gegen beide. Mühlhoffs machtbewusste Ethik fragt trotzdem, wer an einer „humanistischen Superintelligenz“ verdient, denn für ihn verteilt KI von unten nach oben, zu wenigen Konzernen, und Suleyman leitet die KI-Sparte eines davon.
+- [[DenkerVita/Anja Dahlmann|Anja Dahlmann]] — *The Coming Wave* verlangt Eindämmung durch Verträge und Prüfer. Dahlmann kennt aus der Rüstungskontrolle, wie selten das gelingt: Verbote kommen, wenn sie wenig kosten, und meist erst nach dem Schaden. Darum fordert sie Normen vor dem breiten Einsatz, während Suleyman die Einigung erst erwartet, wenn die Gefahr sichtbar geworden ist.
+
 ## Gedankenwelten-Notes
 
 - [[Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses]] — das Gespräch mit Harari, London, August 2026 (*The Humanist Review of AI*)

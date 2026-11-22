@@ -294,9 +294,9 @@ Herrmann rechnet synthetisches Kerosin aus Saharastrom Stufe für Stufe durch: E
 
 Specht beschreibt dieselbe Zweiteilung als Kostenkurve. Bis etwa 80 Prozent Erneuerbare wird das System mit jedem Schritt billiger, weil Verkehr und Wärme elektrisch so viel weniger verlieren; danach steigt die Kurve, sobald synthetische Kraftstoffe für Langstrecke und Hochtemperatur dazukommen. Der harte Kern ist genau der Abschnitt, auf dem jede vermiedene Tonne am teuersten wird, und Specht nennt ihn heute noch „graue Theorie“.
 
-### → [[Neitzel und Iltisberger — Hype Is a System#Die vier Anatomie-Merkmale Was Hype ausmacht|Neitzel und Iltisberger — Hype Is a System]]
+### → [[Neitzel und Iltisberger — Hype Is a System#Die fünf Merkmale Was Hype ausmacht|Neitzel und Iltisberger — Hype Is a System]]
 
-Neitzel und Iltisberger nennen vier Merkmale von Hype: eine Vision als Gewissheit, gehobene Sprache, Vorteile vor Risiken und eine Aufforderung zum Handeln. Beautemps' Video trägt das vierte offen, abstimmen bis zum 10. November, und das erste im Titel, denn „80 ct/l“ ist ein Zielwert, als Ergebnis formuliert. Mehr als Hype ist es wegen des eingebauten Abers. Ihre Prüffrage, wer zahlt, wenn es scheitert, beantwortet hier eher Northvolt als die Jury.
+Neitzel und Iltisberger nennen fünf Merkmale von Hype: eine Vision als Gewissheit, gehobene Sprache, Vorteile vor Risiken, wachsende Medienaufmerksamkeit und eine Aufforderung zum Handeln. Beautemps' Video trägt das letzte offen, abstimmen bis zum 10. November, und das erste im Titel, denn „80 ct/l“ ist ein Zielwert, als Ergebnis formuliert. Mehr als Hype ist es wegen des eingebauten Abers. Ihre Prüffrage, wer zahlt, wenn es scheitert, beantwortet hier eher Northvolt als die Jury.
 
 ### → [[Akkudoktor — SMR und drei Versprechen#Kleiner ist bisher nicht billiger|Akkudoktor — SMR und drei Versprechen]]
 

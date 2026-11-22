@@ -43,17 +43,17 @@ Keine Nachahmung, nur eine Anlehnung — die Erzählstimme ist unsere.
 </details>
 
 > [!abstract] Worum es geht
-> In der letzten Juliwoche 2026 kamen rund 50.000 Menschen binnen eines Tages in die spanische Exklave Ceuta; die Totenzahl stieg innerhalb weniger Tage von 60 über 72 auf 88. Die allermeisten waren nach wenigen Tagen wieder in Marokko, und ein Massentransfer aufs europäische Festland fand nicht statt. Trotzdem setzte Italien den Schengenraum gegenüber Spanien aus, zweiundzwanzig Mitgliedstaaten verlangten ein Sondertreffen der Innenminister. Gerald Knaus, der Architekt des EU-Türkei-Abkommens von 2016, seziert in diesem Gespräch beides: was in Ceuta wirklich geschah, und warum die Reaktion darauf das eigentlich beunruhigende Ereignis war. Sein Gegenvorschlag ist unbequem für alle — für die Rechten wie für die Menschenrechtsorganisationen.
+> In der letzten Juliwoche 2026 kamen rund 50.000 Menschen binnen eines Tages in die spanische Exklave Ceuta; die Totenzahl stieg innerhalb weniger Tage von 60 über 72 auf 88. Die allermeisten waren nach wenigen Tagen wieder in Marokko, und ein Massentransfer aufs europäische Festland fand nicht statt. Trotzdem setzte Italien den Schengenraum gegenüber Spanien aus, zweiundzwanzig Mitgliedstaaten verlangten ein Sondertreffen der Innenminister. Gerald Knaus, dessen Denkfabrik 2015 die Vorlage für das EU-Türkei-Abkommen von 2016 lieferte, seziert in diesem Gespräch beides: was in Ceuta wirklich geschah, und warum die Reaktion darauf das eigentlich beunruhigende Ereignis war. Sein Gegenvorschlag ist unbequem für alle — für die Rechten wie für die Menschenrechtsorganisationen.
 
 Quelle: [Ansturm auf Ceuta: Was steckt dahinter? | Gerald Knaus](https://www.youtube.com/watch?v=b7hxSZGi-b4) — DER STANDARD, „Thema des Tages", 03.08.2026 (aufgezeichnet am 02.08.)
 
 > [!info] Wer spricht?
-> **Gerald Knaus** (*1970, Bramberg am Wildkogel) — österreichischer Sozialwissenschaftler, 1999 Mitgründer und seither Vorsitzender der **European Stability Initiative (ESI)**, lebt in Berlin.
+> **Gerald Knaus** (Jahrgang 1970) ist ein österreichischer Sozialwissenschaftler und Gründungsvorsitzender der Denkfabrik **European Stability Initiative (ESI)**. Er lebt in Berlin und berät Regierungen und Institutionen zu Flucht, Migration und Menschenrechten.
 >
-> Er kommt von der Nachkriegs-Staatsbildung auf dem Balkan her, nicht von der Migrationsforschung: fünf Jahre Bulgarien und Bosnien, dann Analyse-Direktor bei der UN-Verwaltung im Kosovo. Für das Regime des Hohen Repräsentanten in Bosnien prägte er das Bild des *„European Raj"* — wohlmeinende Fremdherrschaft ohne demokratische Rückbindung. Wer so denkt, fragt bei jedem Recht zuerst, wer es durchsetzt. 2016 war er Mitinitiator und Mitverhandler der EU-Türkei-Erklärung, und seither ist er beides zugleich: meistgefragter Migrationsexperte Europas und Feindbild vieler Menschenrechtsorganisationen.
+> Er kommt aus der Arbeit auf dem Balkan, aus Bulgarien, Bosnien und dem Kosovo, nicht aus der Migrationsforschung. 2015 legte die ESI mit dem „Merkel-Plan“ die Vorlage für die EU-Türkei-Erklärung vom März 2016 vor. Seither wirbt er für Asylverfahren in sicheren Drittstaaten, verbunden mit legalen Wegen nach Europa, und wird dafür von Menschenrechtsorganisationen kritisiert.
 >
-> Wichtigste Werke: *Can Intervention Work?* (2011, mit Rory Stewart), *Welche Grenzen brauchen wir?* (2020), *Welches Europa brauchen wir?* (2025)
-> Kernkonzepte: humane Kontrolle · sichere Drittstaaten · Stichtagsregelung · Mobilitätspartnerschaften
+> Wichtigste Werke: *Can Intervention Work?* (2011, mit Rory Stewart), *Welche Grenzen brauchen wir?* (2020), *Welches Europa brauchen wir?* (2025, mit Francesca Knaus)
+> Kernbegriffe: humane Kontrolle · sichere Drittstaaten · Stichtag · Erpressbarkeit
 >
 > → [[DenkerVita/Gerald Knaus|DenkerVita]]
 
@@ -69,7 +69,7 @@ Quelle: [Ansturm auf Ceuta: Was steckt dahinter? | Gerald Knaus](https://www.you
 
 [▶ 3:05](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=185) Und dann die Beobachtung, an der alles hängt. Es waren überwiegend Marokkaner. Das gewohnte Bild von Ceuta und Melilla sind Menschen aus Subsahara-Afrika, die seit zwanzig Jahren in kleinen Gruppen die Zäune stürmen. Diesmal kamen Leute aus der Nachbarschaft, zum Teil mit Bussen angefahren — wie Knaus mit einem Nebensatz sagt, der schwerer wiegt als er klingt: „hingefahren *worden*".
 
-[▶ 3:50](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=230) Knaus beruft sich auf Berichte der *New York Times*: Menschen hätten geschildert, die marokkanische Polizei habe sie durchgelassen, während sie andere aufhielt. Was die Reportage aus Fnideq tatsächlich hergibt, ist schmaler — mehrere Marokkaner berichteten, Polizisten hätten ihnen den Weg gewiesen, die Zeitung vermerkt ausdrücklich, das nicht unabhängig prüfen zu können, und zitiert einen Gegenfall: einen 23-Jährigen, den Polizisten geschlagen hätten. Dass Menschen aus Subsahara-Afrika *gleichzeitig* weiter gehindert worden wären, steht dort nicht. *(Faktencheck: nicht belegt.)*
+[▶ 3:50](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=230) Knaus beruft sich auf Berichte der *New York Times*: Menschen aus Subsahara-Afrika hätten gesagt, die Polizei habe sie am Weg in die Stadt gehindert, „aber die Marokkaner anscheinend nicht“. Gleich danach schränkt er ein: „das sind Berichte, also Interviews mit Menschen vor Ort … All das muss man untersuchen.“ Was die Reportage aus Fnideq tatsächlich hergibt, ist schmaler — mehrere Marokkaner berichteten, Polizisten hätten ihnen den Weg gewiesen, die Zeitung vermerkt ausdrücklich, das nicht unabhängig prüfen zu können, und zitiert einen Gegenfall: einen 23-Jährigen, den Polizisten geschlagen hätten. Dass Menschen aus Subsahara-Afrika *gleichzeitig* weiter gehindert worden wären, steht dort nicht. *(Faktencheck: nicht belegt.)*
 
 > *„Was nicht klar ist, ist, warum Marokko hier einfach nicht mehr versucht hat, die Menschen zu stoppen — in einem doch relativ starken Staat mit einer Polizei, die sehr robust und, nicht zu sagen, brutal agieren kann, wenn sie will."*
 
@@ -107,7 +107,7 @@ Das lässt sich in zwei Sätzen erklären. Es wurde in der Woche danach von kaum
 [▶ 9:54](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=594) Der Satz, den ich aus diesem Gespräch behalte, ist der einfachste: **„Bilder schlagen Zahlen."** Dass in den letzten sechs Monaten kaum jemand irregulär nach Spanien kam — weniger als nach Italien — war nach einem Tag vergessen. Stattdessen hieß es plötzlich, Spanien habe eine zu laxe Migrationspolitik. Das stimmt nicht, es lässt sich in den Zahlen nachlesen, und es ist gleichgültig.
 
 > [!note] Eigene Einschätzung
-> Knaus beschreibt hier etwas, das über Migration hinausreicht: einen Staat, dessen Nervensystem schneller reagiert als sein Verstand. Die Krisensitzung in Helsinki war keine Antwort auf eine Lage, sie war eine Antwort auf ein Bild. Das ist der Mechanismus, den jede populistische Bewegung braucht und keine erst herstellen muss — sie muss nur den Auslöser liefern. Was mich an dieser Diagnose beunruhigt: Sie funktioniert unabhängig davon, ob der Auslöser echt ist. Ein Ventil in Nordafrika, ein paar Videos, und in Kopenhagen sitzt ein Krisenstab. Der Hebel ist billig, und er liegt offen herum.
+> Knaus beschreibt hier etwas, das über Migration hinausreicht: einen Staat, dessen Nervensystem schneller reagiert als sein Verstand. Was in Helsinki und Kopenhagen folgte, Kontrollen „falls nötig“ und der Ruf nach einer Suspendierung, war keine Antwort auf eine Lage, sondern auf ein Bild. Das ist der Mechanismus, den jede populistische Bewegung braucht und keine erst herstellen muss — sie muss nur den Auslöser liefern. Was mich an dieser Diagnose beunruhigt: Sie funktioniert unabhängig davon, ob der Auslöser echt ist. Ein Ventil in Nordafrika, ein paar Videos, und in Kopenhagen ruft die Regierungschefin nach einer Suspendierung. Der Hebel ist billig, und er liegt offen herum.
 
 ### Wie die letzten zehn Jahre falsch erzählt werden
 
@@ -156,7 +156,7 @@ Auf die Frage seines Gastgebers Daniel Retschitzegger, ob Europa also in Wahrhei
 
 [▶ 21:17](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=1277) Knaus' eigene Zusammenfassung: *„Das heißt, wir retten das Asylwesen, wir stoppen die irreguläre Migration, wir retten Menschenleben."* Sein Ziel für 2027, das er Kanzlern und Innenministern gerne in den Mund legen würde: null Tote im Mittelmeer, null irreguläre Migration.
 
-[▶ 25:05](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=1505) Rechtlich war das bis zu diesem Sommer nicht möglich. Erst die neue EU-Regelung erlaubt Abkommen mit Staaten, die keine Transitländer sind — also mit Ländern, durch die der Antragsteller nie gereist ist. Deshalb, sagt Knaus, sei der Vorwurf „ihr redet seit zehn Jahren davon" unfair: Bis jetzt war es schlicht verboten.
+[▶ 25:05](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=1505) Rechtlich war das bis zu diesem Sommer nicht möglich. Erst die neue EU-Regelung erlaubt Abkommen mit Staaten, die keine Transitländer sind — also mit Ländern, durch die der Antragsteller nie gereist ist. Auf den Einwand „wir reden darüber seit 10 Jahren, warum passiert's nicht?“ antwortet Knaus: Bis zu diesem Sommer sei es „rechtlich gar nicht erlaubt“ gewesen, ermöglicht hätten es Kommissar Brunner und die neue deutsche Regierung.
 
 [▶ 28:54](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=1734) Warum ausgerechnet Ruanda? Weil es dort bereits läuft. Seit 2019 führt der UNHCR in einem Aufnahmezentrum bei Kigali Asylverfahren durch für Menschen, die aus Libyen evakuiert wurden. Knaus war dort, hat die Büros gesehen, mit den Verhandlerinnen des Präsidenten und dem Innenminister gesprochen. [▶ 29:40](https://www.youtube.com/watch?v=b7hxSZGi-b4&t=1780) Kein Altruismus — Ruanda will etwas dafür. Aber der Aufwand bliebe klein, weil die Zahlen nach dem Stichtag rasch fallen würden.
 
@@ -235,8 +235,8 @@ Retschitzegger verabschiedet ihn mit dem Satz, man werde ja sehen, ob es klappt.
 > Die Übergetretenen waren ganz überwiegend junge marokkanische Staatsbürger, dazu einige Algerier und unbegleitete Minderjährige — nicht die sonst dominierende Gruppe aus Subsahara-Afrika. Das ist der Bruch mit dem Muster der letzten Jahre und trägt Knaus' Deutung.
 > Quelle: [2026 Morocco–Spain border incident](https://en.wikipedia.org/wiki/2026_Morocco%E2%80%93Spain_border_incident) · [NYT-Reportage aus Fnideq, 03.08.2026](https://dnyuz.com/2026/08/03/do-you-think-if-i-had-a-job-i-would-have-gone/)
 
-> [!warning] Nicht belegt — Marokkos Polizei habe gezielt nur die eigenen Bürger durchgelassen
-> Was trägt: Mehrere Marokkaner berichteten der *New York Times*, Polizisten hätten ihnen den Weg gewiesen — die Zeitung vermerkt ausdrücklich, das nicht unabhängig verifizieren zu können, und zitiert einen Gegenfall (ein 23-Jähriger sei von Polizisten geschlagen worden). Die spanische Presse dokumentierte breit die Untätigkeit marokkanischer Sicherheitskräfte. **Nicht belegt** ist der schärfste Teil: dass Menschen aus Subsahara-Afrika gleichzeitig weiter gehindert wurden. Busse tauchen in der Berichterstattung nur bei der *Rückführung* auf. Die Zuspitzung stützt Knaus' These vom staatlichen Druckmittel, ohne dass die Quelle sie hergibt.
+> [!warning] Nicht belegt — Marokkos Polizei habe die eigenen Bürger durchgelassen, die aus Subsahara-Afrika aber gehindert
+> Was trägt: Mehrere Marokkaner berichteten der *New York Times*, Polizisten hätten ihnen den Weg gewiesen — die Zeitung vermerkt ausdrücklich, das nicht unabhängig verifizieren zu können, und zitiert einen Gegenfall (ein 23-Jähriger sei von Polizisten geschlagen worden). Die spanische Presse dokumentierte breit die Untätigkeit marokkanischer Sicherheitskräfte. **Nicht belegt** ist der schärfste Teil: dass Menschen aus Subsahara-Afrika gleichzeitig weiter gehindert wurden. Busse tauchen in der Berichterstattung nur bei der *Rückführung* auf. Knaus gibt die Berichte mit Vorbehalt wieder („anscheinend“, „All das muss man untersuchen“); die Quelle trägt davon nur einen Teil.
 > Quelle: [NYT-Reportage, 03.08.2026](https://dnyuz.com/2026/08/03/do-you-think-if-i-had-a-job-i-would-have-gone/) · [NZZ, 01.08.2026 — „Hat Marokko den Sturm zugelassen?"](https://www.nzz.ch/international/marokkos-rolle-beim-migrantenansturm-auf-ceuta-hinterfragt-ld.10017725)
 
 > [!warning] Vereinfacht — „Niemand kam aufs Festland"
@@ -371,7 +371,7 @@ Retschitzegger verabschiedet ihn mit dem Satz, man werde ja sehen, ob es klappt.
 
 ### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 
-Dieselbe Episode aus der Gegenrichtung. Als der Iran-Krieg begann, titelten *Spiegel* und *Welt* eine „Fluchtwelle ungeahnten Ausmaßes" und riefen Knaus als Experten an. Gilda Sahebi nennt das Bullshit, weil niemand in den Redaktionen sich je mit dem Land befasst habe. Knaus schildert dieselben Anrufe als das, was er jedes Mal geografisch abwehrte — zwischen dem Iran und Griechenland liegt die Türkei. Über den Befund sind sich beide Notes einig. Sie streiten über die Rolle des meistgefragten Experten: Ist er Teil des Reflexes oder sein Korrektiv?
+Dieselbe Episode aus der Gegenrichtung. Als der Iran-Krieg begann, fragte der *Spiegel* nach der „großen Fluchtbewegung“, die *Welt* titelte eine „Fluchtwelle ungeahnten Ausmaßes“, und befragt wurden, sagt Gilda Sahebi, „die üblichen Verdächtigen“; Knaus nennt sie ausdrücklich. Die Medien hätten sich nicht mit dem Land Iran beschäftigt, die Erwartung von Millionen Flüchtlingen sei „Bullshit“. Knaus schildert dieselben Anrufe, dutzende in 24 Stunden, und seine Antwort: Zwischen dem Iran und Griechenland liegt die Türkei, „die türkische Grenze ist befestigt“. Beide sagen also: keine Fluchtwelle. Sie streiten über den Grund. Sahebi widerspricht ihm ausdrücklich: kaum Grenzübertritte, „nicht, weil die Türkei die Grenzen zugemacht hat“, sondern weil die Menschen im Land bleiben.
 
 ### → [[Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
@@ -383,15 +383,15 @@ Knaus diagnostiziert, dass Bilder Zahlen schlagen, benennt aber keinen Mechanism
 
 ### → [[Steffen Mau — Spaltung der Gesellschaft]]
 
-Zwei Hälften desselben Bildes. Mau zeigt in den *Sortiermaschinen*, dass ein Fünftel aller Landgrenzen weltweit befestigt ist und Europa fast keine offene Außengrenze mehr hat — genau die Architektur, die Knaus humanisieren statt abbauen will. Und Maus Polarisierungsunternehmer, die Sollbruchstellen abscannen und groß machen, sind die Akteure, denen Knaus' offener Hebel in die Hände fällt: ein Ventil in Nordafrika, ein paar Videos, ein Krisenstab in Kopenhagen.
+Zwei Hälften desselben Bildes. Mau zeigt in den *Sortiermaschinen*, dass ein Fünftel aller Landgrenzen weltweit befestigt ist und Europa fast keine offene Außengrenze mehr hat — genau die Architektur, die Knaus humanisieren statt abbauen will. Und Maus Polarisierungsunternehmer, die Sollbruchstellen abscannen und groß machen, sind die Akteure, denen Knaus' offener Hebel in die Hände fällt: ein Ventil in Nordafrika, ein paar Videos, ein Ruf nach Suspendierung aus Kopenhagen.
 
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
-Krastev erklärt, was Knaus nur beschreibt. Warum tagt ausgerechnet Helsinki wegen Ceuta? Weil kleine Nationen unter der Frage leben, ob es sie in hundert Jahren noch gibt — „selbst Finnland hat das Problem, und Finnland tut alles richtig". Knaus' „traumatisierte politische Elite" bekommt bei Krastev eine demografische Wurzel, und damit auch eine Erklärung dafür, warum die Panik weiter reist, als jede Statistik reicht.
+Krastev erklärt, was Knaus nur beschreibt. Warum kündigt ausgerechnet Finnland wegen Ceuta Grenzkontrollen an? Weil kleine Nationen unter der Frage leben, ob es sie in hundert Jahren noch gibt — „selbst Finnland hat das Problem, und Finnland tut alles richtig". Knaus' „traumatisierte politische Elite" bekommt bei Krastev eine demografische Wurzel, und damit auch eine Erklärung dafür, warum die Panik weiter reist, als jede Statistik reicht.
 
 ### → [[Helen Keller — Voelkerrecht zahnloser Tiger]]
 
-Knaus kommt vom Balkan und fragt bei jedem Recht zuerst, wer es durchsetzt. Keller beschreibt aus neun Jahren am Europäischen Gerichtshof für Menschenrechte genau diese Lücke zwischen Norm und Vollzug. Sein Modell hängt vollständig daran, dass UNHCR und europäische Gerichte auch im Drittstaat wirksam bleiben — Keller zeigt, wie dünn dieser Faden wird, wenn niemand mehr hinsieht. Beide sagen zugleich: Die Rede vom Ende des Rechts ist selbst schon ein Teil seiner Erosion.
+Knaus kommt vom Balkan und fragt bei jedem Recht zuerst, wer es durchsetzt. Keller beschreibt aus neun Jahren am Europäischen Gerichtshof für Menschenrechte genau diese Lücke zwischen Norm und Vollzug. Sein Modell hängt vollständig daran, dass UNHCR und europäische Gerichte auch im Drittstaat wirksam bleiben — Keller zeigt, wie dünn dieser Faden wird, wenn niemand mehr hinsieht. Keller warnt zudem, die Rede vom Ende des Rechts sei selbst schon ein Teil seiner Erosion; bei Knaus steht dieser Gedanke so nicht, sein Weg ist, das Recht durch Abkommen wieder durchsetzbar zu machen.
 
 ### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
 

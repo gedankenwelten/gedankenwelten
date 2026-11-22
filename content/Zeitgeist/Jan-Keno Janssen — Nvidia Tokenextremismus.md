@@ -207,7 +207,7 @@ Tooze zeigt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch legit
 Gabriels These, dass KI-Systeme den Menschen nicht mehr als Gegenüber, sondern als Datenpunkt modellieren, kehrt bei Janssen als ökonomische Realität wieder: Huang spricht es offen aus — die neue Zielgruppe der Rechenzentrums-CPU sind KI-Agenten. Was Gabriel als philosophische Verschiebung beschreibt, ist bei Nvidia bereits Produktstrategie.
 
 ### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
-Neitzel/Iltisberger liefern die theoretische Rahmung für das, was Janssen empirisch beschreibt: Huangs Token-Mantra erfüllt alle vier Hype-Merkmale (Vision als Gewissheit, exaltierte Sprache, Risikounterdrückung, Handlungsaufforderung). Der Kirorank-Incident ist ein Lehrstück für den Capital System Bandwagon Loop — Wettlaufdruck entkoppelt Wert von Konsum.
+Neitzel/Iltisberger liefern die theoretische Rahmung für das, was Janssen empirisch beschreibt: Huangs Token-Mantra erfüllt vier der fünf Hype-Merkmale (Vision als Gewissheit, exaltierte Sprache, Risikounterdrückung, Handlungsaufforderung). Der Kirorank-Incident ist ein Lehrstück für den Capital System Bandwagon Loop — Wettlaufdruck entkoppelt Wert von Konsum.
 
 ### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 

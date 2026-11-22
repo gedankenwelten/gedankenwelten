@@ -114,7 +114,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
 
-**[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
+**[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), staatliche Herrschaft lässt sich nur zähmen, nicht abschaffen, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
 
 **[[DenkerVita/Jacob Beautemps|Jacob Beautemps]]** — Physiker und Wissenschaftskommunikator (Dr., Physikdidaktik Köln 2024); Gesicht von *Breaking Lab* (~731k Abos); Technologie-Optimismus mit Bodenhaftung, epistemische Zurückhaltung gegen Klima-Panikmache, Erklärvideos als erforschbares Handwerk
 
@@ -847,7 +847,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]** — Juristin (Öffentliches Recht, HSU Hamburg), GFF-Vorstand; Grundrechte, Legal Gender Studies & wehrhafte Demokratie — Mitvorstellerin des GFF-Gutachtens zur Verfassungswidrigkeit der AfD
 
-**[[DenkerVita/Carel van Schaik|Carel van Schaik]]** — Evolutionsbiologe, Primatologe & Anthropologe (em. Univ. Zürich); die „drei Naturen des Menschen", die Bibel als Tagebuch der Menschheit und der evolutionäre Mismatch der Sesshaftwerdung
+**[[DenkerVita/Carel van Schaik|Carel van Schaik]]** — Evolutionsbiologe, Primatologe & Anthropologe (em. Univ. Zürich); die „drei Naturen des Menschen", die Bibel als Tagebuch der Menschheit und der „Ausnahmezustand“, in dem wir seit der Sesshaftwerdung leben
 
 **[[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
 

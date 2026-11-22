@@ -189,7 +189,7 @@ Dasselbe Schlüsselwort, umgekehrtes Vorzeichen. Rosas *Unverfügbarkeit* ist di
 
 ### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
 
-Van Schaik und Michel berufen sich im Gespräch selbst auf Rosa: sein „aggressives Weltverhältnis" und die Vereinzelung sind das Leiden, gegen das sie die „neuen Lagerfeuer" und die dritte Natur (Vernunft, Demokratie) setzen. Rosa diagnostiziert, van Schaik verschreibt — zwei Wege zum selben Problem der Entwurzelung.
+Im Gespräch bringen die Moderatorin und Michel Rosa ein: sein „aggressives Weltverhältnis" und die Vereinzelung sind das Leiden, gegen das die beiden die dritte Natur (Vernunft, Demokratie) und Michel die „neuen Lagerfeuer" setzen. Rosa diagnostiziert, Michel verschreibt — zwei Wege zum selben Problem der Entwurzelung.
 
 ### → [[Erich Fromm — Haben oder Sein]]
 

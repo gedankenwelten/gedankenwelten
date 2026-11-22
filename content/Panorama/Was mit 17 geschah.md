@@ -53,7 +53,7 @@ Im Herbst 1930 steht [[DenkerVita/Albert Camus|Albert Camus]] im Tor der Juniore
 
 [[DenkerVita/Joerg Baberowski|Jörg Baberowski]] schließt sich schon auf der Realschule kommunistischen Gruppen an. Für *„KBW in den Landtag“*, in Kreide an die Schulwand geschrieben, wird er zwei Wochen von der Schule verwiesen. Er wiederholt die zehnte Klasse, und nach der mittleren Reife arbeitet er ein Jahr als Hilfsarbeiter auf dem Bau. Dort sagen ihm die Männer, mit denen er arbeitet: *„Was willst du denn hier? … Was glaubst du, wie du aussiehst mit 40? Du bist doch nicht doof.“* Er geht zurück, aus eigenem Antrieb, in die gymnasiale Oberstufe ([Gespräch, ab ▶ 60:00](https://www.youtube.com/watch?v=fQchzySVyb4&t=3600)). Heute erforscht er an der Humboldt-Universität die Geschichte der Gewalt im Stalinismus.
 
-Zurückfallen kann zwei Dinge sein. Bei Meidinger steht es als Satz im Lebenslauf, ein Jahr mehr. Bei Baberowski ist es eine Baustelle, auf der ihm Fremde ein Bild von seinem Leben mit vierzig zeigen, und er erschrickt.
+Zurückfallen kann zwei Dinge sein. Bei Meidinger steht es als Satz im Lebenslauf, ein Jahr mehr. Bei Baberowski ist es eine Baustelle, auf der ihm Fremde ein Bild von seinem Leben mit vierzig zeigen, und er denkt: „das kann es nicht gewesen sein“.
 
 ---
 

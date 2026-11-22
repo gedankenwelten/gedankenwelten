@@ -222,6 +222,10 @@ Ein unerwarteter Verbündeter von der anderen Seite der Energiedebatte: Quaschni
 
 Für die Weltlage beruft sich das Gutachten auf Brzezinskis Warnung vor einer Verdichtung eurasischer Macht. Das Panorama liest denselben Autor von der anderen Seite ([[Geopolitik#Wer sitzt am Tisch, und wer zahlt?|Wer sitzt am Tisch, und wer zahlt?]]): Bei ihm zählt ein Land nach seiner Lage, nicht nach seinem Willen. Daneben gestellt, wird die Hoffnung des Papiers auf Aufträge nach einem politischen Wandel im Iran zur Frage, wer über wen entscheidet.
 
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Das schärfste Schwert, auf Eis|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Das Gutachten überlässt die Frage nach dem stillen Einpendeln im Oligopol dem Kartellamt; ein halbes Jahr später gibt der Kartellamtschef sie an die Politik zurück. Laschyk teilt mit dem Beraterkreis die Ablehnung des Tankrabatts, nicht aber den Grund.
+
 ---
 
 ## Weiterdenken

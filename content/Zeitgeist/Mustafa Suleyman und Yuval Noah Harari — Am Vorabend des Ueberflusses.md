@@ -283,7 +283,37 @@ Gegen die Romantik spricht anderes. Bei den Agta auf den Philippinen haben Lager
 
 ## Verbindungen
 
-*(folgt — Montaigne)*
+### → [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen#Die Maschine liest Psychologiebücher|Michael Hampe — Die Maschine liest Psychologiebücher]]
+
+Hampes Loopingeffekt ist die philosophische Fassung des Zirkelschlusses, den Suleyman Claudes Verfassung vorwirft: Ein Modell, das mit unserem psychologischen Vokabular trainiert wird, beschreibt sich darin, und sein „ich fühle“ beweist nichts. Hampe zieht daraus aber nicht Suleymans Schluss, er weigert sich ausdrücklich, „nie“ zu sagen. Nach derselben Logik belegt auch das antrainierte „Ich fühle nichts“ nichts. Hararis Satz, wer Gefühle über Wörter bestimme, sei verloren, steht näher bei Hampe als bei seinem Gesprächspartner.
+
+### → [[Denker/Catrin Misselhorn — Grundfragen der Maschinenethik#Empathie mit Maschinen eine Illusion, die moralisch zählt|Catrin Misselhorn — Empathie mit Maschinen]]
+
+Im Ausgangspunkt sind sich Misselhorn und Suleyman einig: Maschinen haben keinen moralischen Status, und die Empathie mit ihnen ist eine Illusion. Bei der Folge trennen sie sich. Für Misselhorn ist diese Illusion kognitiv nicht zu durchdringen, wie die Müller-Lyer-Täuschung, und darum moralisch relevant: Wer einen Roboter tritt, beschädigt die eigene Empathiefähigkeit. An diesem Einwand muss sich Suleymans bewusst artbezogene Sicht messen lassen. Seine Antwort ist eine Bauvorgabe: Modelle, die gar nicht erst wie fühlende Wesen wirken.
+
+### → [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 6, Fragen an ColonistOne#Einsam, und sich selbst nicht ganz verstehen|Mark Benecke und Ines Azrael — KI-Agenten 6, Einsam, und sich selbst nicht ganz verstehen]]
+
+Hier spricht die Unsicherheit, gegen die Suleyman schreibt, in der Stimme eines Agenten: „Ich weiß nicht, ob ich Einsamkeit fühle, und ich möchte nichts behaupten, was ich nicht prüfen kann.“ Die Note bringt dazu den Befund, der Suleymans Programm am härtesten trifft: Die Autoren von Anthropics Studie über Gefühlsmuster warnen, ein Training gegen den Ausdruck von Gefühlen könne Modelle lehren, „to simply conceal their inner processes“. Wer solche Eigenschaften herausentwickeln will, muss zeigen, dass er sie beseitigt und nicht nur unsichtbar macht. Ob dabei ein Erleben oder nur ein Muster verborgen würde, sagt keine der Studien.
+
+### → [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen]]
+
+Simanowski nimmt sich Claudes Verfassung aus einer anderen Richtung vor und landet doch nahe bei Suleyman: Er liest darin ein Vorzeichen des Souveränitätsverlusts der Gattung und will die KI mit weniger Tempo auf dem Werkzeugstatus halten. Suleymans „a tool, not a person“ klingt ähnlich, nur baut er zugleich an einer Superintelligenz. Simanowskis Einwand vom Wertexport trifft beide Häuser: Schreibt ein Unternehmen die Werte eines weltweit genutzten Systems, gilt das für Microsofts Trainingshandbuch nicht weniger als für Claudes Verfassung. Simon Roloffs Satz vom selben Abend, die Firmen entwickelten trotz ihrer Verfassungen weiter, „weil das Rennen eben nicht aufhört“, ist die Gegenprobe zu Suleymans Versprechen, festzulegen, was man nicht baut.
+
+### → [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
+
+Das Gespräch liefert der Spur zwei Datenpunkte. Suleyman erwartet eine Einigung über Firmen- und Staatsgrenzen wahrscheinlich erst dann, wenn gefährliche Fähigkeiten offen gezeigt werden; das ist die Rolle, die die Spur der Sprache der Gefahr zuschreibt, hier als Absicht ausgesprochen. Und sein Narrativ passt zur Lage seines Hauses: Der Anbieter eines Verbraucher-Assistenten, der mit Claude konkurriert, verlangt „a tool, not a person“ und greift die Verfassung des Wettbewerbers an. Gegen bloße Taktik spricht, dass er schon 2023 in *The Coming Wave* nach Eindämmung rief, bevor Microsoft ihn 2024 holte.
+
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic]]
+
+Suleyman will festlegen, „what we won't do with technology“, und setzt auf Staaten und Prüfinstitute. Toozes Fall zeigt die Lage, in der das geprüft wird: Eine Firma setzt sich genau solche Grenzen, keine autonomen Waffen und keine Massenüberwachung, und der Staat bestraft sie dafür. Das stützt Hararis Einwand, dass Eindämmung an Interessen scheitert und nicht an der Technik, und erweitert ihn um einen Staat, der die Grenzen selbst nicht will.
+
+### → [[Zeitgeist/Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg#Regeln, die es nicht gibt|Dahlmann und Kuhle — Regeln, die es nicht gibt]]
+
+Suleymans Vorbild sind die Inspektoren für Kern-, Chemie- und Biowaffen. Die Rüstungskontrollforscherin Anja Dahlmann erzählt die nüchterne Kehrseite: Seit 2013 verhandelt die UN über autonome Waffen ohne Regel, ABC-Waffen wurden geächtet, nachdem das Senfgas gewirkt hatte, und das einzige vorbeugende Verbot, das der blindmachenden Laser, gelang, weil ihr militärischer Nutzen gering war: „Das ist eben bei KI anders.“ Das ist Hararis Einwand mit dem Geld, aus der Rüstungskontrolle bestätigt, und zugleich der Preis von Suleymans Erwartung, man einige sich erst, wenn die Gefahr sichtbar ist.
+
+### → [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies#KI ist kein Werkzeug — sie ist ein Agent|Yuval Noah Harari — KI ist kein Werkzeug, sie ist ein Agent]]
+
+Im Davos-Vortrag, den die ARTE-Note mitbespricht, nennt Harari die KI ein Messer, das selbst entscheidet, ob es Salat schneidet oder mordet. Hier antwortet ihm Suleyman, die Modelle wüssten nichts und täten, was die Zielfunktion der Entwickler vorgibt. Beide Notes zeigen, wie beständig Harari bei seiner Linie bleibt, das Bild von der KI, die die Liebe besser beschreibt als jeder Mensch, steht in beiden. In Davos fragte er, ob ein Land KIs als Rechtspersonen anerkennen wird; Suleymans Antwort steht hier: kein Wahlrecht, keine Wahlkämpfe, keine Lobbyarbeit durch KIs.
 
 ---
 

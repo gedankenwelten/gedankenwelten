@@ -475,6 +475,10 @@ Zettl-Schabaths Prüfregel für KI-Angriffsmeldungen (im Bericht nachsehen, wof�
 
 Ein Fachmann, bei dem die Warnungen als Alarm ankommen: Beim Lesen der Arbeiten zur Selbstverbesserung wird Bauckhage „mulmig“, und er glaubt, die Labore setzten ihre besten Schwärme schon für die nächste Modellgeneration ein. Was er beschreibt, sind allerdings erste Ansätze: Verbesserung im Gerüst bei unberührten Gewichten, nach seinen Worten „natürlich sehr schlecht“ getestet.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Ein Branchenchef erwartet eine Einigung aus Furcht, sobald gefährliche Fähigkeiten offen gezeigt werden, und greift die Verfassung eines Wettbewerbers an. Ein Datenpunkt für Frage B, mit dem Gegengewicht, dass er Eindämmung schon vor seiner Zeit bei Microsoft forderte.
+
 ## Quellen
 
 - [the-decoder — From GPT-2 to Claude Mythos: 'too dangerous to release'](https://the-decoder.com/from-gpt-2-to-claude-mythos-the-return-of-ai-models-deemed-too-dangerous-to-release/)

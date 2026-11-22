@@ -20,9 +20,9 @@ aliases:
 Quelle: [Hype Is a System: How Tech Futures Get Made](https://www.youtube.com/watch?v=0Fj-ZPptbPg) · re:publica 26 · 20.05.2026
 
 > [!info] Wer spricht?
-> **Georgina Neitzel** leitet das Innovation Lab der ERGO Group AG (Berlin) und beobachtet dabei hautnah, wie technologische Hype-Zyklen über Geschäftsentscheidungen, Ressourcenallokation und Zukunftsvorstellungen in der Versicherungsindustrie entscheiden. Ihr Hintergrund: Data Science und Innovation Management bei BCG Digital Ventures (7+ Jahre). Sie bringt STS-Konzepte in die Unternehmenspraxis — und erlebt dabei täglich, wie Organisations- und Medien-Dynamiken die reale Innovations-Agenda prägen.
+> **Georgina Neitzel** leitet seit April 2024 das Innovation Lab der ERGO Group in Berlin, das neue Technologien erkundet, prüft und in den Konzern bringt. Davor war sie knapp sieben Jahre Lead Product Managerin und Data Scientist bei BCG Digital Ventures. Im Vortrag spricht sie über das Systemmodell (ab ▶ 8:40), Iltisberger über die Merkmale von Hype, die Folgen und den Umgang damit.
 >
-> **Raphael Iltisberger** ist Head of Project Management bei PAWLIK Consultants und verbindet Business Psychology (Hochschule Fresenius, Shanghai University) mit Future Research Methodologies. Als ehemaliger IoT-Innovationsberater und Co-Autor von Innovation-Reports zu China interessiert ihn die Frage, wie Zukunftsnarrative das Talent- und Organisationsdesign in Unternehmen formen. Beide verstehen sich als Future-Studies-Praktiker, die akademische STS-Theorie für die Entscheidungspraxis nutzbar machen.
+> **Raphael Iltisberger** ist Head of Project Management bei PAWLIK Consultants und verbindet Business Psychology (Hochschule Fresenius, Shanghai University) mit Future Research Methodologies. Als ehemaliger IoT-Innovationsberater und Co-Autor von Innovation-Reports zu China interessiert ihn die Frage, wie Zukunftsnarrative das Talent- und Organisationsdesign in Unternehmen formen. „We're both future studies researchers“, sagt Iltisberger über die beiden.
 >
 > → [[DenkerVita/Georgina Neitzel|DenkerVita]] · → [[DenkerVita/Raphael Iltisberger|DenkerVita]]
 
@@ -38,7 +38,7 @@ Der erste Reflex wäre: Das zeigt, dass Tech-Unternehmer die eigene Technologie 
 
 > *„We would argue that they have mastered the game of hype and that their remarks are best understood as some kind of marketing speech intended to persuade the listener that a beautiful future is just around the corner."*
 
-Das ist eine entscheidende epistemische Verschiebung: Nicht Naivität oder Irrtum sind die Erklärung — sondern strategische Kommunikation. Die Aussagen sind nicht falsch gemeinte Prognosen, sondern absichtsvoll konstruierte Narrative. [▶ 1:32](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=92) Besonders deutlich wird das an der Enthüllung in Musks Biografie von 2015: Der Hyperloop sei nie ernsthaft zum Bauen geplant gewesen — sondern möglicherweise primär dazu, die geplante Hochgeschwindigkeitsbahn in Kalifornien zu verhindern. Wenn das stimmt, hat Hype eine reale Infrastrukturentscheidung beeinflusst — und damit eine ganze Generation um besseren öffentlichen Nahverkehr gebracht.
+Das ist eine entscheidende epistemische Verschiebung: Nicht Naivität oder Irrtum sind die Erklärung — sondern strategische Kommunikation. Die Aussagen sind nicht falsch gemeinte Prognosen, sondern absichtsvoll konstruierte Narrative. [▶ 1:32](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=92) Iltisberger nennt eine Behauptung aus einer Musk-Biografie von 2015 („it was alleged“): Einer der Gründe für den Vorschlag sei gewesen, gar keinen Hyperloop zu bauen, sondern die geplante Hochgeschwindigkeitsbahn in Kalifornien zu verhindern. Das, sagt er, „might have contributed“ dazu, dass es solche Bahnen dort heute nicht gibt. Wenn das stimmt, hat Hype eine reale Infrastrukturentscheidung beeinflusst.
 
 > *„Hype is not some innocent game to be pursued or some idle speculation, but it has real-world implications and consequences."*
 
@@ -47,19 +47,21 @@ Das ist der Ausgangspunkt für eine systemtheoretische Betrachtung: Hype nicht a
 > [!question] Weitergedacht
 > Wenn Hype strategisches Werkzeug ist — *wann genau kippt eine legitime Vision in manipulativen Hype?* Und kann man den Unterschied von außen überhaupt erkennen, bevor das Narrativ Wirkung entfaltet hat?
 
-### Die vier Anatomie-Merkmale: Was Hype ausmacht
+### Die fünf Merkmale: Was Hype ausmacht
 
-[▶ 2:18](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=138) — Bevor das System analysiert werden kann, muss sein Baustein definiert werden. Neitzel und Iltisberger destillieren aus der STS-Literatur vier Kernmerkmale von Hype — nicht als abschließende wissenschaftliche Definition, sondern als handlungsleitende Heuristik zum Erkennen von Hype "in the wild".
+[▶ 2:18](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=138) — Bevor das System analysiert werden kann, muss sein Baustein definiert werden. Iltisberger nennt fünf Merkmale von Hype, nicht als abschließende Definition („there's no one way to define hype“), sondern als Hilfe, Hype "in the wild" zu erkennen.
 
-**Erstens:** Hype verkündet eine Vision als Gewissheit. Nicht "es könnte sein", sondern "es wird so sein". [▶ 3:04](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=184) Geoffrey Hinton sagte vor zehn Jahren, Radiologen würden in fünf Jahren nicht mehr gebraucht, weil Deep Learning deren Job besser machen werde. Die fünf Jahre vergingen — heute gibt es in den USA sogar einen wachsenden Mangel an Radiologen. Nicht weil KI versagt hätte, sondern weil junge Medizinstudenten aufgrund dieser Prognose das Fach gemieden hatten. Eine falsche Gewissheitsbehauptung hat Berufsbiografien geprägt.
+**Erstens:** Hype verkündet eine Vision als Gewissheit. Nicht "es könnte sein", sondern "es wird so sein". [▶ 3:04](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=184) Geoffrey Hinton sagte vor zehn Jahren, Radiologen würden in fünf Jahren nicht mehr gebraucht, weil Deep Learning deren Job besser machen werde. Die fünf Jahre vergingen, und zumindest in den USA gibt es heute sogar einen wachsenden Mangel an Radiologen. Dafür gebe es viele Gründe, sagt Iltisberger ausdrücklich, Hintons Prognose sei nicht der Grund. Aber wer vor zehn Jahren als junger Medizinstudent Radiologe werden wollte, hätte der nicht wenigstens zweimal nachgedacht? „So, these kind of statements have real-world consequences.“
 
 **Zweitens:** Hype nutzt exaltierte Sprache. [▶ 3:51](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=231) Sam Altman schrieb vor gut einem Jahr in seinem Blog, er wisse jetzt, wie man AGI baut — und implizierte, es sei kurz vor der Tür. AGI ist weder nach wissenschaftlichem Konsens nahe noch ist der Begriff selbst klar definiert.
 
 **Drittens:** Hype betont Vorteile und verschweigt Risiken. [▶ 4:36](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=276) Gesichtserkennung wurde eingeführt als Sicherheitstechnologie, als Komfort-Feature (iPhone-Entsperrung), als bessere Polizeiarbeit. Die Risiken — Massenüberwachung, autoritärer Missbrauch, Erosion bürgerlicher Freiheiten — *waren von Anfang an bekannte Implikationen*, wurden aber systematisch aus der ersten Erzählphase ausgeklammert.
 
-**Viertens:** Hype verlangt Handlung. Er ist nicht bloß eine Aussage zum Staunen, sondern eine Aufforderung, das eigene Verhalten auszurichten — Geld zu investieren, Karriereentscheidungen zu treffen, politische Positionen anzupassen.
+**Viertens:** Hype geht mit wachsender Medienaufmerksamkeit einher, [▶ 6:58](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=418) in Zeitungen und Nachrichtenseiten wie in der Verstärkung auf sozialen Plattformen.
 
-Diese vier Merkmale zusammen erklären, warum Hype so wirkmächtig ist: Es ist eine vollständige rhetorische Architektur, die Wahrnehmung, Emotion und Handlung miteinander verknüpft.
+**Fünftens:** Hype verlangt Handlung. Er ist nicht bloß eine Aussage zum Staunen, sondern eine Aufforderung, das eigene Verhalten auszurichten — Geld zu investieren, Karriereentscheidungen zu treffen, politische Positionen anzupassen.
+
+Diese fünf Merkmale zusammen erklären, warum Hype so wirkmächtig ist: Es ist eine vollständige rhetorische Architektur, die Wahrnehmung, Emotion und Handlung miteinander verknüpft.
 
 ### Das Akteurs-Ensemble: Wer Hype erzeugt und trägt
 
@@ -71,7 +73,7 @@ Diese vier Merkmale zusammen erklären, warum Hype so wirkmächtig ist: Es ist e
 
 [▶ 7:43](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=463) SoftBank-CEO Masayoshi Son ist ein paradigmatisches Beispiel für den Investor-Akteur: Indem er AGI und Superintelligenz als greifbar nahe proklamiert, lädt er explizit ein, persönliches Vermögen und institutionelle Fonds an diese Prognosen auszurichten — und stützt damit seine eigenen Investments in diese Technologien. Hype und Eigeninteresse sind hier vollständig verschmolzen.
 
-Was die Sprecher betonen: *Dieselbe Besetzung taucht bei jedem Hype wieder auf.* Ob Dot-com-Blase, Gesichtserkennung, Krypto, agentic AI — der Cast ist identisch, nur die Technologie wechselt. Das ist der eigentliche Erkenntnisgewinn: Hype sieht nach Zufall aus, ist aber eine strukturelle Regelmäßigkeit.
+Was die Sprecher betonen: *Dieselbe Besetzung taucht bei jedem Hype wieder auf.* Neitzel zeigt drei Momente, ausdrücklich „not case studies, but more an illustration“: Steve Jobs mit dem iPhone 2007, Mark Zuckerberg 2018 vor dem Senat, den Dotcom-Crash im März 2000. Die Besetzung ist dieselbe, nur die Technologie wechselt. Das ist der eigentliche Erkenntnisgewinn: Hype sieht nach Zufall aus, ist aber eine strukturelle Regelmäßigkeit.
 
 ### Drei Subsysteme, neun Feedback-Loops
 
@@ -81,7 +83,7 @@ Das Ergebnis: drei Subsysteme, die zusammen das Hype-System konstituieren.
 
 Das **Attention System** ist dort, wo Hype *sichtbar wird*. Medien, Plattformen und Öffentlichkeit interagieren darum, was Aufmerksamkeit bekommt, was geteilt wird, was in die öffentliche Diskussion eingeht. [▶ 15:20](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=920) Der zentrale Feedback-Loop ist die **Media Amplification**: Sobald ein Claim mediale Aufmerksamkeit erhält, wird er sichtbarer und diskutierbarer — was wiederum die Wahrscheinlichkeit erhöht, erneut aufgegriffen zu werden. Ein klassischer selbstverstärkender Loop ohne inhärenten Qualitätsfilter.
 
-Das **Epistemic and Institutional Control System** ist die potenzielle Bremse: Policy-Akteure und Akademiker reagieren auf Claims, sobald diese sozial, politisch oder wissenschaftlich relevant werden. [▶ 16:07](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=967) Der **Regulatory Backlash** — wenn Hype Schaden oder öffentlichen Druck erzeugt, schreiten Governance-Akteure ein — ist ein balancierender Loop. Aber: Er setzt erst spät ein, oft nachdem der Schaden schon entstanden ist.
+Das **Epistemic and Institutional Control System** ist die potenzielle Bremse: Policy-Akteure und Akademiker reagieren auf Claims, sobald diese sozial, politisch oder wissenschaftlich relevant werden. [▶ 16:07](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=967) Der **Regulatory Backlash** ist ein balancierender Loop: Wenn Hype Sorge, Druck oder Schaden erzeugt, reagieren Governance-Akteure, um die Dynamik zu bremsen oder sogar umzulenken („slow down hype dynamics or even reshape it“).
 
 Das **Capital System** umfasst Investoren, Kapital und Industrie. Der **Bandwagon Loop** ist hier das Muster: Wenn Investoren sehen, dass andere investieren, wächst das Vertrauen, und mehr Kapital fließt — was das Investment selbst zum Verstärkungs-Signal macht. Das ist keine rationale Kalkulation, sondern eine soziale Dynamik, die Preise und Erwartungen vom realen Nutzen entkoppeln kann.
 
@@ -94,9 +96,9 @@ Was diese Systemsicht leistet: Sie erklärt, warum einzelne gut gemeinte Interve
 
 [▶ 18:24](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=1104) — Das gravierendste an Hype ist nicht, dass Menschen glauben, was nicht stimmt. Es ist, dass sie aufgrund dieser falschen Gewissheiten reale, langfristige Entscheidungen treffen. Neitzel und Iltisberger arbeiten das an mehreren Ebenen heraus.
 
-Auf der individuellen Ebene: der Fall des Radiologie-Studenten, der 2015 aufgrund von Hintons Aussage sein Berufsziel änderte. Hier transformiert ein einzelner öffentlicher Satz eine Karrierebiografie — ohne dass irgendeine wirtschaftliche Kraft oder politische Entscheidung involviert gewesen wäre.
+Auf der individuellen Ebene: das Gedankenexperiment mit dem Medizinstudenten, der vor zehn Jahren Radiologe werden wollte und nach Hintons Satz wenigstens zweimal nachgedacht hätte. Ein Fall ist das nicht, sondern eine Frage: Wie weit reicht ein einzelner öffentlicher Satz in eine Berufswahl hinein?
 
-Auf der Infrastrukturebene: der Hyperloop und die Hochgeschwindigkeitsbahn in Kalifornien. Wenn die These stimmt, dass Hyperloop primär als strategisches Störungsnarrativ eingesetzt wurde, dann hat Hype buchstäblich verhindert, dass öffentliches Geld in bewährte Technologie investiert wurde — zugunsten einer nie realisierten Fantasie.
+Auf der Infrastrukturebene: der Hyperloop und die Hochgeschwindigkeitsbahn in Kalifornien. Wenn die Behauptung stimmt, dass der Hyperloop auch als Störungsnarrativ gedacht war, dann hat Hype dazu beigetragen, dass öffentliches Geld nicht in bewährte Technologie floss, zugunsten einer nie realisierten Fantasie.
 
 Auf der Unternehmensebene: der AI-Washing-Effekt nach ChatGPT. Ressourcen, Talente und strategische Ausrichtung wurden in Richtung KI verschoben — nicht weil eine technologische Realität es forderte, sondern weil das Narrativ es erwartete.
 
@@ -110,7 +112,7 @@ Wenn ein offener Brief behauptet, KI-Entwicklung müsse gestoppt werden, weil si
 
 Das ist die subtile Perversität dieser Hype-Variante: Regulierungsforderungen und Untergangswarnungen funktionieren nach derselben rhetorischen Logik wie Promotions-Hype. Beide setzen voraus, dass die Technologie eine Dimension erreicht hat oder erreichen wird, die normale menschliche Handlungsfähigkeit übersteigt. Das konsolidiert Macht, anstatt sie zu distribuieren.
 
-Für den Umgang damit gibt es kein einfaches Rezept. Die Sprecher benennen das Dilemma in der Fragerunde explizit: Entweder man spielt das mediale Aufmerksamkeitsspiel mit — und ist damit Teil des Systems, auch wenn man kritisiert. Oder man verweigert das Spiel und wird nicht gehört. Das ist keine individuelle Schwäche, sondern eine Strukturfalle des Attention Systems.
+Für den Umgang damit gibt es kein einfaches Rezept. Die Sprecher benennen das Dilemma in der Fragerunde explizit: Entweder man spielt das mediale Aufmerksamkeitsspiel mit — und ist damit Teil des Systems, auch wenn man kritisiert. Oder man verweigert das Spiel und findet vielleicht gar nicht in der Öffentlichkeit statt, gehört nur „in certain circles“. Das ist keine individuelle Schwäche, sondern eine Falle des Attention Systems.
 
 > [!question] Weitergedacht
 > *Gibt es eine Form der KI-Kritik, die außerhalb des Hype-Rahmens operiert — die weder den Fortschritts-Hype noch den Untergangs-Hype bedient?*
@@ -125,19 +127,17 @@ Für den Umgang damit gibt es kein einfaches Rezept. Die Sprecher benennen das D
 
 Diese Fragen enthüllen in den meisten Fällen, dass grand visions nicht so stabil sind wie sie wirken. Und sie verschieben den Blick vom *Was* auf das *Wer* — wer hat Interesse daran, dass ich das glaube?
 
-**Zweitens: Vorhersagen grundsätzlich mit Skepsis begegnen.** [▶ 20:43](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=1243) Das ist keine nihilistische Position, sondern eine systemtheoretische: In komplexen Systemen sind Outputs aus Inputs nicht zuverlässig ableitbar. Selbst wenn man alle Eingangsvariablen kennte — und das tut man nie — können geringfügige Wechselwirkungen die Ausgabe radikal verändern. Vorhersagen reduzieren diese Komplexität auf eine Punktaussage, was zwangsläufig verzerrt.
+**Zweitens: Vorhersagen mit Vorsicht begegnen.** [▶ 20:43](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=1243) Prognosen „do have their time and their place, but more often than not they lead us astray“, sagt Iltisberger. Das ist keine nihilistische Position: In komplexen Umgebungen lassen sich Ergebnisse nicht zuverlässig aus den vielen Variablen ableiten, „even if you know the inputs, you cannot reliably infer the outputs“. Vorhersagen versuchen, eine komplexe Wirklichkeit auf einzelne bestimmte Entwicklungen zu verkürzen. Darum jede Prognose „at the very least with a grain of salt“.
 
-**Drittens: Historische Perspektive einnehmen.** [▶ 21:29](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=1289) Die Debatte über Jobverlust durch Automatisierung ist nicht neu. Mit jeder Welle der Automatisierung wurden Jobs vernichtet — und neue entstanden. Das heißt nicht, dass "diesmal" nicht wirklich anders sein könnte. Aber es heißt, dass das Argument "diesmal ist alles anders" selbst eine Hype-Aussage ist, die historisch noch in keiner Form bestätigt wurde. Wer die Geschichte kennt, kann solche Behauptungen einordnen.
+**Drittens: Historische Perspektive einnehmen.** [▶ 21:29](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=1289) Die Debatte über Jobverlust durch Automatisierung ist nicht neu. Mit jeder Welle der Automatisierung wurden Jobs vernichtet — und neue entstanden. Man kann argumentieren, diesmal sei wirklich alles anders, sagt Iltisberger, „but we can also question that and see how it really plays out“. Wer die Geschichte kennt, kann solche Behauptungen einordnen.
 
 ### Das Contrarian-Dilemma: Das Problem der Gegenstimmen
 
 [▶ 26:48](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=1608) — In der Fragerunde bringt ein Zuschauer einen Punkt, den der Vortrag selbst offen gelassen hatte: Was ist mit denen, die Hype widersprechen — die konträren Stimmen, die sagen, die Technologie hält nicht, was versprochen wird? Warum kommen diese nicht durch?
 
-Die Antwort ist strukturell, nicht individuell: Das Attention System bevorzugt Stimuli, die Bestätigung liefern oder massive Bedrohung signalisieren. Nüchterne Einschätzungen — "diese Technologie hat reale Grenzen und wird im Zeitraum X nicht das leisten, was behauptet wird" — generieren keine viralen Loops. Sie sind schwer zu verkürzen, schwer zu emotionalisieren, schwer zu monetarisieren.
+Iltisberger antwortet [▶ 27:18](https://www.youtube.com/watch?v=0Fj-ZPptbPg&t=1638): Solche Stimmen gibt es, etwa realistischere Einschätzungen aus der Technikfolgenabschätzung, „and they do publish very frequently, but indeed the question is how to make sure that they also get the attention that perhaps they deserve“. Auch die Kritik kann Hype sein, wie der *Spiegel*-Titel mit dem behaupteten Schaden zeigt. Und dann das Dilemma: Entweder man spielt das Spiel mit und ist Teil davon, auch wenn man kritisiert, oder man spielt gar nicht mit, „and then maybe you're not taking place in the public sphere and your arguments are only heard in certain circles“.
 
-Genau das beschreibt das Dilemma der Contrarians: Entweder sie spielen die Aufmerksamkeitslogik mit — Zuspitzung, starke Claims, Empörung — und reproduzieren damit die Dynamik, die sie kritisieren. Oder sie bleiben in der Nüchternheit ihrer technischen Expertise und werden nicht gehört. Es gibt keinen einfachen Ausweg aus dieser Zwickmühle.
-
-Was bleibt, ist der Verweis auf institutionelle Formate: Technology Assessment, interdisziplinäre Kommissionen, langsame peer-reviewed Forschung. Diese produzieren nüchterne Einschätzungen — aber ihre Resonanzräume sind strukturell kleiner als die des Hype-Systems. Das ist kein Argument gegen sie, sondern eine Begründung, warum sie allein nicht ausreichen.
+*Unsere Lesart:* Nüchterne Einschätzungen, „diese Technologie hat reale Grenzen“, lassen sich schwer verkürzen und schwer zuspitzen. Warum sie weniger durchdringen, begründet der Vortrag nicht; er stellt nur fest, dass es so ist, und lässt die Frage offen, wie man das ändert.
 
 ---
 
@@ -212,7 +212,7 @@ Eine Spur, die Fähigkeit und Wirkung der KI über Jahre nebeneinanderlegt — a
 Mühlhoff beschreibt denselben Mechanismus aus politischer Perspektive: das "systematische Auseinanderdriften" zwischen technischer Realität und öffentlichem Glauben als Produkt eines "komplexen Orchesters" aus Industrie, Investoren, Politik und Medien. Was Neitzel/Iltisberger als 3-Subsystem-Modell formalisieren, ist bei Mühlhoff der politische Wirkungsraum dieses Hypes. Mühlhoff stellt die Machtfrage — Neitzel/Iltisberger liefern die Systemstruktur dahinter.
 
 ### → [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
-Janssen dokumentiert Hype-Mechanik in Echtzeit: Jensen Huangs Token-Mantra erfüllt alle vier Neitzel/Iltisberger-Merkmale gleichzeitig — Vision als Gewissheit, exaltierte Sprache, Risikounterdrückung (Slop-Code-Problem ausgeblendet), Handlungsaufforderung. Der Kirorank-Incident ist ein Paradebeispiel für den Capital System Bandwagon Loop: Wettlaufdruck, der Wertschöpfung von Tokenkonsum entkoppelt.
+Janssen dokumentiert Hype-Mechanik in Echtzeit: Jensen Huangs Token-Mantra erfüllt vier der fünf Neitzel/Iltisberger-Merkmale gleichzeitig — Vision als Gewissheit, exaltierte Sprache, Risikounterdrückung (Slop-Code-Problem ausgeblendet), Handlungsaufforderung. Der Kirorank-Incident ist ein Paradebeispiel für den Capital System Bandwagon Loop: Wettlaufdruck, der Wertschöpfung von Tokenkonsum entkoppelt.
 
 ### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 Kaltheuner und Jung arbeiten explizit mit dem Hype-Begriff. Ihr *AI Directionism* ist eine direkte Antwort auf das Contrarian-Dilemma: Staatlich gesetzte Missionen als alternative Handlungsaufforderung — der Capital Loop wird politisch umgeleitet statt ignoriert. Kaltheuners Beobachtung, dass KI "depolitisiert" wurde, benennt den erfolgreichen Epistemic Control Loop.
@@ -247,7 +247,7 @@ Das erste Hype-Merkmal, die Vision als Gewissheit, ist beim Akkudoktor das Schlu
 
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Made in Germany Awards 2026 — Energie]]
 
-Ein Video über einen Innovationspreis, das sein „großes Aber“ selbst mitliefert und im Titel trotzdem einen Zielwert als Ergebnis verkauft. Ein Prüfstück für die vier Merkmale, mit Northvolt als Antwort auf die Frage, wer die gescheiterten Experimente bezahlt.
+Ein Video über einen Innovationspreis, das sein „großes Aber“ selbst mitliefert und im Titel trotzdem einen Zielwert als Ergebnis verkauft. Ein Prüfstück für die fünf Merkmale, mit Northvolt als Antwort auf die Frage, wer die gescheiterten Experimente bezahlt.
 
 ### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
 
@@ -283,9 +283,9 @@ Bis zu den Zulieferern reicht der Mechanismus: Eine Oldenburger Präzisionsfirma
 
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Wenn Hype eine systemische Funktion hat — *wäre ein Wirtschaftssystem ohne Hype überhaupt lebensfähig, oder braucht Innovation ihn als Treibstoff?*
-> - Neitzel und Iltisberger sagen, Hype "kann nützlich sein" für genuinely useful products. *Wer entscheidet, was genuinely useful ist — und ist diese Entscheidung selbst nicht bereits Hype-anfällig?*
+> - Hype muss nicht schlecht sein, sagt Iltisberger, manche Forscher halten ihn sogar für nützlich, um wirklich nützlichen Produkten Aufmerksamkeit zu verschaffen. *Wer entscheidet, was genuinely useful ist — und ist diese Entscheidung selbst nicht bereits Hype-anfällig?*
 > - Die historische Perspektive soll Hype-Resistenz erzeugen. *Aber: Lernen Gesellschaften tatsächlich aus Hype-Zyklen — oder reproduzieren sie dieselben Muster mit neuer Besetzung?*
-> - Das Contrarian-Dilemma beschreibt eine Strukturfalle: Nüchternheit wird nicht gehört. *Gibt es historische Beispiele, in denen eine leise Stimme Hype tatsächlich gebrochen hat — und wenn ja, durch welchen Mechanismus?*
+> - Das Contrarian-Dilemma beschreibt eine Falle: Nüchternheit wird oft nur in bestimmten Kreisen gehört. *Gibt es historische Beispiele, in denen eine leise Stimme Hype tatsächlich gebrochen hat — und wenn ja, durch welchen Mechanismus?*
 > - *Sind wir als Nutzer des Gedankenwelten-Projekts selbst Teil eines Mikro-Hype-Systems?* Jede Note, die eine Idee als "wichtig" rahmt, setzt eine kleine Erwartungsarchitektur — und welcher Loop verstärkt das?
 
 ### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]

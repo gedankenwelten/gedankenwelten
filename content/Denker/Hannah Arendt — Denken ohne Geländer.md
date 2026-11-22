@@ -184,7 +184,7 @@ Mausfeld fordert philosophisch dasselbe, was Arendt existenziell beschreibt: das
 
 ### → [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]]
 
-Baberowski stützt seine Gewaltanalyse ausdrücklich auf Arendts These der zerstörten Rechtsräume — wo das Recht endet, beginnt die Todeszone. Doch wo Arendt das Böse aus dem Verlust des Denkens (Banalität) erklärt, verschiebt er den Akzent auf die ideologiefreie Eigendynamik der Gewalt: zwei Lesarten desselben Täters.
+Baberowski greift in seiner Antwort zu Snyder Arendts These der zerstörten Rechtsräume auf — wo das Recht endet, beginnt die Todeszone; die Brücke zur „Banalität des Bösen“ schlägt im Gespräch der Co-Moderator. Doch wo Arendt das Böse aus dem Verlust des Denkens (Banalität) erklärt, verschiebt er den Akzent auf die ideologiefreie Eigendynamik der Gewalt: zwei Lesarten desselben Täters.
 
 ### → [[Immanuel Kant — Was ist Aufklärung?]]
 

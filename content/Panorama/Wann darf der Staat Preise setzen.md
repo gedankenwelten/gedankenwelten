@@ -129,6 +129,8 @@ Spanien und Portugal griffen dort ein, wo der Strompreis entsteht. Der Deckel au
 
 
 Eine leise Form von Marktmacht wird seit 2018 untersucht: der gemeinsame Besitz konkurrierender Firmen durch dieselben großen Fondsgesellschaften. Höhere Flugpreise fanden Azar, Schmalz und Tecu ([Azar u. a. 2018](https://doi.org/10.1111/jofi.12698), Einzelstudie); eine Übersichtsarbeit von 2024 findet mit den glaubwürdigsten Methoden „relativ wenig" Belege, dass er den Wettbewerb senkt, geschrieben allerdings von Autoren aus dem Lager der Kritiker ([Gerardi u. a. 2024](https://doi.org/10.1146/annurev-financial-082123-105841), Übersichtsarbeit).
+Eine dritte Form von Macht braucht weder Absprache noch Besitz, nur Information. Auf dem Kraftstoffmarkt wirkt die Pflicht, Preise zu veröffentlichen, nach beiden Seiten: In Deutschland senkte sie nach dem Start 2013 die Preise um einige Cent ([Montag, Sagimuldina & Winter 2026](https://doi.org/10.1086/734145), begutachtet), im australischen Perth half eine Meldepflicht für den Preis des nächsten Tages BP, den Markt auf gemeinsame Muster zu bringen ([Byrne & de Roos 2019](https://doi.org/10.1257/aer.20170116), Fallstudie). Eine Übersichtsarbeit rät darum zu bequemen Daten für die Kunden und nur aufbereiteten für die Anbieter ([Byrne u. a. 2026](https://doi.org/10.2139/ssrn.7221838), Arbeitspapier). Wo die Antwort Zerschlagung heißen soll, ist die Evidenz alt und zwiespältig: Die US-Gesetze, die Raffinerien eigene Tankstellen verboten, machten das Benzin eher teurer, und was zählte, war die Zahl der Unabhängigen (→ [[Thomas Laschyk — Wer den Spritpreis macht#Würde Zerschlagen die Preise senken?|Würde Zerschlagen die Preise senken?]]).
+
 **Die Stimmen**
 
 - **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Die sichtbaren Hände|Isabella Weber]]** — Hinter der unsichtbaren Hand verbergen sich *„die sehr sichtbaren Hände sehr großer Unternehmen“*; bei Wohnen, Energie und Nahrung können Märkte nicht funktionieren.
@@ -142,7 +144,7 @@ Eine leise Form von Marktmacht wird seit 2018 untersucht: der gemeinsame Besitz 
 - **[[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung#Markteingriffe|Ines Schwerdtner]]** — Übergewinnsteuer auf Mineralölkonzerne und Supermarktketten, ein Spritpreisdeckel und Absprachen, die auch Raffinerien zeigen, dass Staaten deckeln können.
 - **[[Adam Tooze und Maja Goepel — Die Polykrise#Wo die Natur in die Bilanz einbricht|Maja Göpel]]** — Wer knapper werdende Bestände besitzt, Öl, Land, Getreide, verdient am Schrumpfen; die Frage ist, wem der knappe Bestand gehört.
 
-<details><summary>Weitere Stimmen (7)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
 
 - **[[Yanis Varoufakis — Trump Has Lost Everything#Stagflation und Zentralbank-Fehler|Yanis Varoufakis]]** (zur Notenbank) — Zinserhöhungen gegen energiegetriebene Inflation nennt er *„gross negligence“*.
 - **[[Dirk Specht — Strom, Merit Order und Grossbatterien#Merit Order — ein Preissystem am Ende seiner Haltbarkeit|Dirk Specht]]** (zum Strompreis) — Die Merit Order war ein Beschreibungsmodell und ist als Vorschrift zum Käfig geworden.
@@ -151,6 +153,9 @@ Eine leise Form von Marktmacht wird seit 2018 untersucht: der gemeinsame Besitz 
 - **[[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)#Krisengewinne ohne Krisenbetroffenheit|Kai Schöneberg]]** — BP verdoppelt in der Ölkrise seinen Gewinn.
 - **[[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft#Thema 1 Die kommende Wirtschaftskrise — Hormuz und die Lieferketten|Gilda Sahebi und Arne Semsrott]]** — Die Verkäuferinflation gibt Kosten voll weiter, senkt nach der Krise weniger und verteilt so nach oben.
 - **[[Tom Ockers — Schattenmacht BlackRock#Gemeinsamer Besitz|Martin Schmalz]]:** Sitzt der Großaktionär auch beim Konkurrenten, strengt sich ein Manager vielleicht weniger an, ihn zu unterbieten; die Preise steigen ohne jede Absprache.
+- **[[Thomas Laschyk — Wer den Spritpreis macht#Transparenz für alle, auch für die Konkurrenz|Thomas Laschyk]]** — Transparenzstelle und Zwölf-Uhr-Regel haben das Oligopol *„nicht geschwächt, sondern es vereinfacht“*; die Antwort heiße Entflechtung, *„die kapitalistische Antwort“*.
+- **[[DenkerVita/Justus Haucap#Kernthesen|Justus Haucap]]** — Die Marktmacht sitzt eine Stufe über der Tankstelle, bei Raffinerien und Großhandel; stillschweigend abgestimmtes Verhalten ist legal und verlangt darum schärfere Werkzeuge, notfalls die Entflechtung.
+- **[[Isabella Weber — Antifaschistische Wirtschaftspolitik#Publikumsfragen|Tim Klüssendorf]]** (zur Zerschlagung) — Die grundsätzliche Lösung wäre, Konzerne zu zerschlagen, darunter der Preisdeckel, ganz unten der Tankrabatt, der am schnellsten hilft.
 
 </details>
 
@@ -171,6 +176,7 @@ Eine leise Form von Marktmacht wird seit 2018 untersucht: der gemeinsame Besitz 
 | 21.11.2026 | [[Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz#Nachbesprechung\|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] | alle drei Fragen aus der Gaskrise 2026: wer die Speicher füllt (Kurzgutachten der Ministeriumsberater gegen Ockenfels/Bothe/Janssen, Österreich, nationale Reserve), ein Strompreis auf zehn Jahre (Banque de France zur Dauer, Differenzverträge, Spanien), wer an der Bremse verdient (Kartellamt, BVerfG 2024, EU-Solidaritätsbeitrag) |
 | 21.11.2026 | [[Beraterkreis BMWE — Kurzgutachten Energiekrise 2026\|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]] | die Gegenstimme aus dem Ministerium: Preissignal, keine Reserve, keine Übergewinnsteuer, Kartellamt, und was der Herbst daraus machte |
 | 22.11.2026 | [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Deckeln statt überweisen\|Isabella Weber — Vier Wochen später (Surplus)]] | Wer bekommt die Entlastung? Der Deckel als Versicherung gegen den Schock, die Überweisung als Risiko beim Einzelnen; dazu die Bauform der Bremse 2023 und die steuerpflichtige Pauschale |
+| 22.11.2026 | [[Thomas Laschyk — Wer den Spritpreis macht#Nachbesprechung\|Thomas Laschyk — Wer den Spritpreis macht]] | Knappheit oder Marktmacht am Kraftstoffmarkt: Transparenz als zweischneidiges Werkzeug (Dänemark 1993, Perth, Montag u. a. 2026, Chile, Übersicht 2026, Höchstpreis als Treffpunkt) und Entflechtung (US-Divorcement, Maryland, Hastings, § 32f, CMA 2023) |
 
 ---
 

@@ -311,6 +311,10 @@ Zweigs schnellster Beweis, dass Sprachmodelle nicht denken: Sag ihnen, das war U
 
 Was Col über seine Notizen sagt, erlebt Karl drei Folgen später von der anderen Seite: Ihm fehlt die Seelendatei, und er nennt die Lücke Leere.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Suleyman will den Modellen das Nachdenken über eigene Gefühle abtrainieren. Diese Note zeigt, dass Forscher vor genau diesem Training warnen, weil es Muster eher verbergen als beseitigen könnte.
+
 ---
 
 ## Weiterdenken

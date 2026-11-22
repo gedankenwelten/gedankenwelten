@@ -1,6 +1,6 @@
 ---
 title: "Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie"
-description: "Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz."
+description: "Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, staatliche Herrschaft lasse sich nicht abschaffen, nur erträglich machen."
 aktualisiert: 2026-10-30
 tags:
   - denker
@@ -46,7 +46,7 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jörg Baberow
 </details>
 
 > [!abstract] Worum es geht
-> Ein über drei Stunden langes Gespräch mit einem der renommiertesten — und umstrittensten — deutschen Gewalthistoriker. Baberowski denkt vom Tod her: Weil wir wissen, dass wir sterben, geben wir unserem Leben Sinn. Von dort spannt er einen Bogen zu Stalin und Putin, zur Logik der Gewalt, die sich keiner Ideologie verdankt, und endet bei einer Behauptung, die wehtut: Herrschaft sei ein Naturgesetz, und die liberale Demokratie sei nicht dasselbe wie Demokratie. Man muss ihm nicht folgen. Aber man kommt klüger heraus, wenn man ihm zuhört — und dabei prüft, wo der Historiker endet und der Polemiker beginnt.
+> Ein über drei Stunden langes Gespräch mit einem der renommiertesten — und umstrittensten — deutschen Gewalthistoriker. Baberowski denkt vom Tod her: Weil wir wissen, dass wir sterben, geben wir unserem Leben Sinn. Von dort spannt er einen Bogen zu Stalin und Putin, zur Logik der Gewalt, die sich keiner Ideologie verdankt, und endet bei einer Behauptung, die wehtut: Staatliche Herrschaft lasse sich nicht abschaffen, nur kontrollieren, und die liberale Demokratie sei nicht dasselbe wie Demokratie. Man muss ihm nicht folgen. Aber man kommt klüger heraus, wenn man ihm zuhört — und dabei prüft, wo der Historiker endet und der Polemiker beginnt.
 
 Quelle: [Historiker Jörg Baberowski über Putin, Herrschaft & liberale Demokratie — Jung & Naiv: Folge 832](https://www.youtube.com/watch?v=fQchzySVyb4)
 
@@ -89,7 +89,7 @@ Objektivität, sagt er, liege nicht im neutralen Blick, sondern allein in der Me
 Bemerkenswert ist, was er aus seinem eigenen Alter zieht: [▶ 22:54](https://www.youtube.com/watch?v=fQchzySVyb4&t=1374) *„Ich will die Welt nicht mehr retten."* Nicht aus Resignation, sondern aus einer fast buddhistisch klingenden Gelassenheit — er überlasse das Weltretten den Jungen, die noch Zeit haben. Sinnstiftung sei alterskontingent, milieukontingent: Wer im Slum von Rio um das Essen von morgen kämpft, hat andere Sinnprobleme als der Saturierte, der an die nächsten dreißig Jahre denken kann.
 
 > [!note] Eigene Einschätzung
-> Das ist die schönste Passage des Gesprächs, und sie zeigt einen Baberowski, den die Skandalisierung verdeckt: einen Denker mit echtem Gleichmut gegenüber der Vielfalt menschlicher Lebensentwürfe. Die Resonanz zur Vipassana-Haltung ist frappierend — *anicca* (alles wandelt sich, auch das eigene Sinnmodell), *upekkhā* (Gleichmut, kein Drang, anderen den letzten Sinn vorzuschreiben). Nur: derselbe Mann, der hier so großzügig die Sinnsuche jedes Menschen achtet, wird später bei der Migrationsfrage und den „linken Eliten" deutlich weniger großzügig. Die Toleranz ist echt — aber sie hat Ränder.
+> Das ist die schönste Passage des Gesprächs, und sie zeigt einen Baberowski, den die Skandalisierung verdeckt: einen Denker mit echtem Gleichmut gegenüber der Vielfalt menschlicher Lebensentwürfe. Die Resonanz zur Vipassana-Haltung ist frappierend — *anicca* (alles wandelt sich, auch das eigene Sinnmodell), *upekkhā* (Gleichmut, kein Drang, anderen den letzten Sinn vorzuschreiben). Die Toleranz ist echt; wie weit sie reicht, wenn er politisch urteilt, zeigt dieses Gespräch nicht.
 
 ### Geschichte als säkularisierte Erlösung
 
@@ -104,11 +104,11 @@ In China oder Japan, wo das Denken eher kreist als zielt, werde diese teleologis
 
 ### Die Gewalt hat ihre eigene Logik
 
-Sein Lebensthema schimmert überall durch, am klarsten in der Frage nach den Tätern. [▶ 176:33](https://www.youtube.com/watch?v=fQchzySVyb4&t=10593) Er greift Christopher Brownings *Ganz normale Männer* auf — jenes Hamburger Polizeibataillon, dessen Mitglieder, meist über vierzig, keine überzeugten Nazis, in Polen und Weißrussland Frauen und Kinder erschossen. Brownings Befund, den Baberowski für „auf erschreckende Weise plausibel" hält:
+Sein Lebensthema schimmert überall durch, am klarsten in der Frage nach den Tätern. [▶ 176:33](https://www.youtube.com/watch?v=fQchzySVyb4&t=10593) Auf eine Zuschauerfrage hin spricht er über Christopher Brownings *Ganz normale Männer* — jenes Hamburger Polizeibataillon, dessen Mitglieder, meist über vierzig, keine überzeugten Nazis, in Polen und Weißrussland Frauen und Kinder erschossen. Brownings Befund, den Baberowski für „auf erschreckende Weise plausibel" hält:
 
 > *„Menschen töten lieber, als sich nonkonform zu verhalten, und sie gewöhnen sich sehr schnell daran. Und wenn ich dafür auch noch einen Orden bekomme, dann scheint das moralisch auch gerechtfertigt zu sein."*
 
-[▶ 177:18](https://www.youtube.com/watch?v=fQchzySVyb4&t=10638) Entscheidend: Das funktioniere *kulturunabhängig und unabhängig von den ideologischen Überzeugungen*. Gewalt sei nicht der Vollzug eines Plans, sondern hat eine eigene Dynamik — Gruppenbindung, Distanz zur Heimat, Hierarchie, das Wissen, die Opfer überleben nicht. [▶ 178:03](https://www.youtube.com/watch?v=fQchzySVyb4&t=10683) Timothy Snyders *Bloodlands* ergänzt das räumlich: Beide Diktaturen schufen Todeszonen, indem sie — mit Hannah Arendt — die Rechtsräume zerstörten, in denen man überhaupt Rechte haben kann.
+[▶ 177:18](https://www.youtube.com/watch?v=fQchzySVyb4&t=10638) Entscheidend: Das funktioniere *kulturunabhängig und unabhängig von den ideologischen Überzeugungen*. Gewalt sei nicht der Vollzug eines Plans, sondern hat eine eigene Dynamik — Gruppenbindung, Distanz zur Heimat, Hierarchie, das Wissen, die Opfer überleben nicht. [▶ 178:03](https://www.youtube.com/watch?v=fQchzySVyb4&t=10683) Eine weitere Zuschauerfrage führt zu Timothy Snyders *Bloodlands*, das er „plausibel“ findet, und es ergänzt das räumlich: Beide Diktaturen schufen Todeszonen, indem sie — mit Hannah Arendt — die Rechtsräume zerstörten, in denen man überhaupt Rechte haben kann.
 
 > [!note] Eigene Einschätzung
 > Das ist der wissenschaftliche Kern, der Baberowski auch von Gegnern Respekt einträgt — und der zugleich politisch riskant ist. Wenn Gewalt sich keiner Ideologie verdankt, dann verliert die Frage „im Namen welcher Idee?" an Gewicht. Das ist analytisch befreiend (es erklärt, warum ganz normale Menschen morden) und zugleich gefährlich nah an der Entlastung: Wo niemand aus Überzeugung tötet, fällt es leichter, über die Überzeugungen hinwegzusehen. Genau an dieser Stelle entzündete sich der alte Vorwurf, er relativiere — siehe Faktencheck und die ehrliche Einordnung in der DenkerVita.
@@ -128,11 +128,11 @@ Sein Lebensthema schimmert überall durch, am klarsten in der Frage nach den Tä
 
 ### Die Eskalation kennt keinen Ausweg
 
-[▶ 88:07](https://www.youtube.com/watch?v=fQchzySVyb4&t=5287) — Eine der eindrücklichsten Passagen. Alle hätten 2022 geglaubt, in zwei Wochen sei es vorbei — die russischen Soldaten hatten Verpflegung für drei Tage und die Paradeuniform im Tornister. Der Vergleich drängt sich auf: Operation Barbarossa, Marsch auf Moskau ohne Winterkleidung. Dann geht alles schief, und nun?
+[▶ 88:07](https://www.youtube.com/watch?v=fQchzySVyb4&t=5287) — Eine der eindrücklichsten Passagen. Alle hätten 2022 geglaubt, in zwei Wochen sei es vorbei — die russischen Soldaten hatten Verpflegung für drei Tage und die Paradeuniform im Tornister. Dann geht alles schief. Tilo Jung erinnert das an die Operation Barbarossa, den Marsch auf Moskau ohne Winterkleidung; Baberowski widerspricht halb: „Aber erstmal waren sie erfolgreich“, die Russen dagegen schon am dritten Tag nicht. Und nun?
 
 > *„Jetzt kommt man in eine fatale Dynamik hinein, eine Eskalationsdynamik. Die Leute stehen mit dem Rücken zur Wand."*
 
-Putin habe seinen Leuten gesagt: Wenn wir das nicht zu Ende bringen, war's das mit uns — *dann baumeln wir alle*. Wie Stalin, der die Seinen in Krisen hineintrieb, damit keiner ausscheren konnte. Eskalationsspiralen, so sein Befund, sind per se unkontrollierbar; es bräuchte einen mächtigen Spieler von außen, der sie beendet — und der hat gefehlt.
+Putin habe seinen Leuten „wahrscheinlich“ gesagt: Wenn wir das jetzt nicht zu Ende bringen, war's das mit uns. Das sei das Muster Stalins, der die Seinen in Krisen hineintrieb: „sonst seid ihr genauso dran wie ich. Dann baumeln wir alle, wenn es schief geht.“ Man komme in eine Situation, „aus der man nicht mehr rauskommt“. Dass Eskalationsspiralen „per se unkontrollierbar“ seien, sagt dann Tilo Jung, und Baberowski stimmt zu; wer den Satz vom mächtigen Spieler von außen spricht, der die Sache beenden könnte, ist im Bild nicht sicher zu erkennen. Baberowski selbst sagt später [▶ 99:55](https://www.youtube.com/watch?v=fQchzySVyb4&t=5995), beenden könnten den Krieg nur die Europäer, „Trump wird es nicht tun“.
 
 > [!note] Eigene Einschätzung
 > Diese nüchterne Anatomie des „kein Ausweg" ist Baberowski von seiner stärksten Seite: kein moralisches Urteil, sondern eine kalte Logik der Lage, die erklärt, warum gerade das Scheitern den Krieg verlängert. Wer den Frieden will, lernt hier mehr als aus jedem Empörungston. Die Leerstelle: Was folgt daraus *praktisch*? Baberowski beschreibt die Falle meisterhaft und bleibt bei der Frage nach dem Ausgang bewusst zurückhaltend — ehrlich, aber für den, der handeln muss, unbefriedigend.
@@ -143,18 +143,18 @@ Putin habe seinen Leuten gesagt: Wenn wir das nicht zu Ende bringen, war's das m
 
 > *„Die repräsentative Demokratie besteht darin, dass das Proletariat alle vier Jahre darüber abstimmen kann, von wem es beherrscht wird"* — Lenins Diagnose, die Baberowski für „nicht ganz falsch" hält.
 
-[▶ 155:06](https://www.youtube.com/watch?v=fQchzySVyb4&t=9306) Die Liberalen hätten die Individualrechte vor allem zum Schutz ihres Eigentums auf die Fahnen geschrieben; das allgemeine, freie Wahlrecht sei eine Errungenschaft der *Sozialdemokraten* nach dem Ersten Weltkrieg, nicht der Liberalen. Das wahre demokratische Modell sei das antike Athen: direkt, durch Losverfahren, fähig, korrupte Amtsträger zu verbannen. Heute, mit der Technologie, wäre direktere Demokratie machbar — nur die Repräsentanten können das nicht wollen.
+[▶ 155:06](https://www.youtube.com/watch?v=fQchzySVyb4&t=9306) Die Liberalen hätten die Individualrechte vor allem zum Schutz ihres Eigentums auf die Fahnen geschrieben; das allgemeine, freie Wahlrecht sei eine Errungenschaft der *Sozialdemokraten* nach dem Ersten Weltkrieg, nicht der Liberalen. In der Demokratie gebe es „auch immer diese athenische Seite“: direkt, durch das Los, imstande, Politiker zu verbannen. Heute, mit der Technologie, wäre direktere Demokratie machbar, wendet Tilo Jung ein. Baberowski: „Aber jetzt erklär das mal den Repräsentanten, die werden sagen, nein, die können das ja nicht wollen.“
 
 > [!note] Eigene Einschätzung
-> Diese These ist historisch erstaunlich solide (siehe Faktencheck) — und politisch hochbrisant, weil sie von links wie rechts gelesen werden kann. Ein Linker hört: *Die repräsentative Demokratie ist ein oligarchisches Bollwerk, demokratisiert sie!* Ein Rechter hört: *Die Eliten regieren am Volk vorbei, das Volk muss sich zurückholen, was ihm gehört.* Baberowski selbst changiert — er empfiehlt Dezentralisierung, Losverfahren, Karenzregeln (klingt nach radikaler Demokratisierung), spricht aber zugleich von „linken Eliten", die den Bürgern Verunsicherung als Preis der offenen Gesellschaft einredeten (klingt nach Populismus von rechts). Dieselbe Analyse, zwei Türen. Welche er selbst durchgeht, lässt er offen — und das ist die Quelle der Dauerkontroverse um ihn.
+> Diese These ist historisch erstaunlich solide (siehe Faktencheck) — und politisch hochbrisant, weil sie von links wie rechts gelesen werden kann. Ein Linker hört: *Die repräsentative Demokratie ist ein oligarchisches Bollwerk, demokratisiert sie!* Ein Rechter hört: *Die Eliten regieren am Volk vorbei, das Volk muss sich zurückholen, was ihm gehört.* Baberowski selbst empfiehlt Dezentralisierung, Losverfahren, Karenzregeln (klingt nach radikaler Demokratisierung), und in seinem Buch nennt er den Populismus einen „Schmerzensschrei“ und „auch eine Belebung der Demokratie“ ([C.H. Beck](https://www.chbeck.de/baberowski-volk-vorbei/product/40038683)), was die eine wie die andere Seite gern hört. Dieselbe Analyse, zwei Türen. Welche er selbst durchgeht, lässt er offen — und das ist die Quelle der Dauerkontroverse um ihn.
 
-### Herrschaft als Naturgesetz — und die Demokratie als das erträglichste Joch
+### Staatliche Herrschaft — und die Demokratie als das erträglichste Joch
 
 [▶ 150:33](https://www.youtube.com/watch?v=fQchzySVyb4&t=9033) — Sein Demokratiebegriff ist betont unromantisch. Mit Kelsen und Max Weber: Demokratie sei kein Wertesystem, sondern ein *Verfahren*, das Leben in Herrschaftssystemen erträglich zu machen. Überall werde der Mensch von Leuten bevormundet, die er nicht gewählt hat — Finanzbeamte, Polizisten, Lehrer. Die Demokratie sei die beste Art, diese Herrschaft in Grenzen zu halten.
 
-[▶ 158:09](https://www.youtube.com/watch?v=fQchzySVyb4&t=9489) Und dann der Satz, an dem sich die Geister scheiden — präzisiert auf Nachfrage: *staatliche* Herrschaft sei ein Naturgesetz. Sobald es Staaten gebe, lasse sich nicht herrschaftsfrei regieren.
+[▶ 158:09](https://www.youtube.com/watch?v=fQchzySVyb4&t=9489) Und dann der Satz, an dem sich die Geister scheiden. Das Wort bringt Tilo Jung: Baberowski schreibe im Grunde, Herrschaft sei „ein Naturgesetz“. Baberowski benutzt es nicht, er grenzt ein: „Ich spreche von staatlicher Herrschaft … Sobald es Staaten gibt, kann man die nicht herrschaftsfrei regieren.“
 
-> *„Wenn wir uns schon beherrschen lassen müssen, dann wollen wir wenigstens so beherrscht sein, dass wir sagen können: diese Herrschaft haben wir uns selber ausgesucht."*
+> *„Wenn wir uns schon beherrschen lassen müssen, wenn das schon so ist, dann wollen wir wenigstens so beherrscht sein, dass wir sagen können: diese Herrschaft haben wir uns selber ausgesucht."*
 
 [▶ 160:25](https://www.youtube.com/watch?v=fQchzySVyb4&t=9625) Daraus folgt seine Verteidigung des Nationalstaats — nicht aus Nationalismus, sondern aus einer funktionalen Logik: Demokratische Selbstregierung brauche einen umgrenzten Raum, ein definiertes Staatsvolk, Grenzen. Grenzen schüfen überhaupt erst Rechtsräume, in die man fliehen kann. Der Staat habe zwei Gesichter: Repressionsinstrument *und* Wohltäter, der Sicherheit, Ordnung und Ausgleich schafft.
 
@@ -162,7 +162,7 @@ Putin habe seinen Leuten gesagt: Wenn wir das nicht zu Ende bringen, war's das m
 > Ist „diese Herrschaft haben wir uns selbst ausgesucht" eine nüchterne Wahrheit über die Demokratie — oder eine bequeme Selbsttröstung, die jede tatsächliche Ohnmacht hinter einem Akt der Einbildung verschwinden lässt?
 
 > [!note] Eigene Einschätzung
-> Hier zeigt sich der Yin-Yang-Charakter seines Denkens am schärfsten. Die Unterscheidung von Herrschaft und Hierarchie/Kompetenz ist klug; sein Realismus („wir werden immer beherrscht, also sorgen wir dafür, dass wir es kontrollieren können") ist ein vernünftiges Korrektiv gegen jeden naiven Herrschaftsfreiheits-Traum. Aber das Wort *Naturgesetz* ist der Stein des Anstoßes — und mit Recht. Was als Naturgesetz gilt, entzieht man dem Streit; es lässt sich nicht mehr verändern, nur „pragmatisch handhaben". Genau das ist der konservative Kern Baberowskis: die Ordnung als fragile, stets bedrohte Errungenschaft, die man bewahren, nicht überwinden soll. Wer wie er in den 90ern den Zusammenbruch von Ordnung roh erlebt hat, dem leuchtet das ein. Wer auf die emanzipatorische Tradition setzt, hört darin die Resignation vor dem Bestehenden. Beides ist wahr.
+> Hier zeigt sich der Yin-Yang-Charakter seines Denkens am schärfsten. Die Unterscheidung von Herrschaft und Hierarchie/Kompetenz ist klug; sein Realismus („wir werden immer beherrscht, also sorgen wir dafür, dass wir es kontrollieren können") ist ein vernünftiges Korrektiv gegen jeden naiven Herrschaftsfreiheits-Traum. Aber das Wort *Naturgesetz*, das Jung ihm anträgt und das er nicht selbst wählt, trifft den Stein des Anstoßes. Was als unabänderlich gilt, entzieht man dem Streit; Machthierarchien „kann man leider nicht ändern“, sagt er, man müsse „damit pragmatisch umgehen“. Genau das ist der konservative Kern Baberowskis: die Ordnung als fragile, stets bedrohte Errungenschaft, die man bewahren, nicht überwinden soll. Wer wie er in den 90ern den Zusammenbruch von Ordnung roh erlebt hat, dem leuchtet das ein. Wer auf die emanzipatorische Tradition setzt, hört darin die Resignation vor dem Bestehenden. Beides ist wahr.
 
 ---
 
@@ -190,7 +190,7 @@ Putin habe seinen Leuten gesagt: Wenn wir das nicht zu Ende bringen, war's das m
 > Der sechs Meter lange Tisch bei den Treffen mit Macron und Scholz (Februar 2022) ist dokumentiert und wurde mit Corona-Schutz begründet. Besucher mussten sich isolieren, drei negative PCR-Tests vorlegen oder am fernen Tischende sitzen — Macron und Scholz lehnten den Kreml-Abstrich ab. Quelle: [Putin's giant table — France 24](https://www.france24.com/en/live-news/20220215-long-shot-putin-s-giant-table-sparks-jokes-and-speculation)
 
 > [!note] Sherlocks Gesamturteil
-> Bei den historischen Kern-Claims (Browning, Wahlrecht/Verfassungsväter, Athen) bewegt sich Baberowski sauber und präzise in seinem Fach. Wo er zuspitzt (Wahlrecht als „sozialdemokratische" Errungenschaft, der „Drei-Tage-Plan"), ist das eine legitime historische Deutung auf belegter Grundlage — kein Faktenfehler. Seine *politischen* Thesen (Herrschaft als Naturgesetz, Liberalismus ≠ Demokratie) sind Positionen und werden hier bewusst nicht „geprüft".
+> Bei den historischen Kern-Claims (Browning, Wahlrecht/Verfassungsväter, Athen) bewegt sich Baberowski sauber und präzise in seinem Fach. Wo er zuspitzt (Wahlrecht als „sozialdemokratische" Errungenschaft, der „Drei-Tage-Plan"), ist das eine legitime historische Deutung auf belegter Grundlage — kein Faktenfehler. Seine *politischen* Thesen (staatliche Herrschaft lasse sich nicht abschaffen, Liberalismus ≠ Demokratie) sind Positionen und werden hier bewusst nicht „geprüft".
 
 ---
 
@@ -224,7 +224,7 @@ Lucs Hypothese über Formung, Auslese und Macht nimmt Putin als fünften Fall �
 
 ### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 
-Zwei Kenner autoritärer Herrschaft mit derselben erkenntnistheoretischen Grundierung und einem echten Streit über deren Reichweite. Das Diktatorendilemma — der isolierte Despot, den nur noch drei, vier Leute erreichen, die wissen, dass sie ihn manipulieren können — ist die Anatomie derselben Führungsangst, die sie in Peking beschreibt; und die Diagnose, eine Eskalationsspirale bräuchte einen mächtigen Spieler von außen, der sie beendet, ist die stille Voraussetzung ihres ménage-à-trois-Arguments. Der Widerspruch ist methodisch. Wo hier steht, man wisse nicht, wer entschieden habe, die Ukraine anzugreifen, weil die Blackbox bewusst im Unklaren gehalten werde, traut sie sich zu, aus Fernsehprogrammen, Reserveaufbau und Marinemanövern zu lesen, was Peking denkt. Entweder ist sie gegen die Projektion immun, vor der hier gewarnt wird, oder sie tut genau das, nur besser belegt.
+Zwei Kenner autoritärer Herrschaft mit derselben erkenntnistheoretischen Grundierung und einem echten Streit über deren Reichweite. Das Diktatorendilemma — der isolierte Despot, den nur noch drei, vier Leute erreichen, die wissen, dass sie ihn manipulieren können — ist die Anatomie derselben Führungsangst, die sie in Peking beschreibt; und der Gedanke, beenden könne den Krieg nur ein Dritter von außen (für Baberowski die Europäer), ist die stille Voraussetzung ihres ménage-à-trois-Arguments. Der Widerspruch ist methodisch. Wo hier steht, man wisse nicht, wer entschieden habe, die Ukraine anzugreifen, weil die Blackbox bewusst im Unklaren gehalten werde, traut sie sich zu, aus Fernsehprogrammen, Reserveaufbau und Marinemanövern zu lesen, was Peking denkt. Entweder ist sie gegen die Projektion immun, vor der hier gewarnt wird, oder sie tut genau das, nur besser belegt.
 
 ### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
 
@@ -234,7 +234,7 @@ Ein „Raum der Gewalt" mitten in einer Demokratie: ICE-Vollzug ohne Bodycams un
 Baberowski stützt seine Gewaltanalyse ausdrücklich auf Arendts These der zerstörten Rechtsräume — wo das Recht endet, beginnt die Todeszone. Doch wo Arendt das Böse aus dem Verlust des Denkens (Banalität) erklärt, verschiebt Baberowski den Akzent auf die ideologiefreie Eigendynamik der Gewalt: zwei Lesarten desselben Täters.
 
 ### → [[Chantal Mouffe — Das Politische und die Politik]]
-Beide trennen die liberale Demokratie scharf vom Liberalismus und lesen den Populismus nicht als Pathologie, sondern als systemisches Symptom — doch wo Mouffe daraus den agonistischen Raum als demokratische Heilung fordert, sieht Baberowski Herrschaft als unhintergehbares Naturgesetz und endet beim erträglichsten Joch statt bei der Radikalisierung der Demokratie.
+Beide trennen die liberale Demokratie scharf vom Liberalismus und lesen den Populismus nicht als Pathologie, sondern als systemisches Symptom — doch wo Mouffe daraus den agonistischen Raum als demokratische Heilung fordert, hält Baberowski staatliche Herrschaft für unabschaffbar und endet beim erträglichsten Joch statt bei der Radikalisierung der Demokratie.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 Mausfelds These, die repräsentative Demokratie sei ein elitäres Herrschaftsinstrument, das den Demos vom eigentlichen Entscheiden fernhält, deckt sich verblüffend mit Baberowskis „am Volk vorbei" — beide berufen sich auf das antike Athen als wahres Modell, doch Baberowski misstraut auch dem Volkswillen, während Mausfeld ihn emanzipatorisch mobilisieren will.
@@ -281,5 +281,5 @@ Ardalan Ibrahim erzählt im selben Studio Baberowskis „Am Volk vorbei“ als P
 > - Wenn Gewalt sich keiner Ideologie verdankt, sondern einer eigenen Dynamik folgt — *verlieren wir dann das Recht, die Überzeugungen der Täter zu verurteilen, oder gewinnen wir erst den klaren Blick auf das, was Menschen wirklich zum Töten bringt?*
 > - Baberowski sagt, die liberale Demokratie sei eine oligarchische Erfindung. Wenn das stimmt — *warum verteidigen wir sie dann mit dem Pathos, das eigentlich nur der echten Volksherrschaft zustünde?*
 > - „Diese Herrschaft haben wir uns selbst ausgesucht." Ist das die Würde des mündigen Bürgers — oder die Geschichte, die sich die Beherrschten erzählen, um die eigene Ohnmacht zu ertragen?
-> - Derselbe Denker, der jedem Menschen seinen eigenen Sinn zugesteht, spricht von „linken Eliten", die anderen das Sagbare vorschreiben. *Wo verläuft bei ihm — und bei uns — die Grenze zwischen echter Toleranz und der Toleranz nur für das Eigene?*
+> - Derselbe Denker, der jedem Menschen seinen eigenen Sinn zugesteht, hält Herrschaft für etwas, mit dem man nur „pragmatisch umgehen“ kann. *Wie viel Gleichmut verträgt eine Ordnung, die man erträglich machen, aber nicht mehr ändern will — und wo kippt Gleichmut in Hinnahme?*
 > - Wenn Sinn nur entsteht, weil wir sterben — was bedeutet das für eine Gesellschaft, die das Altern und den Tod immer gründlicher aus dem Blick schafft?

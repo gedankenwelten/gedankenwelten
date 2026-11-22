@@ -328,7 +328,7 @@ Krastevs „Budgets führen keine Kriege. Menschen führen Kriege“ ist Jana Pu
 
 ### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
 
-Krastevs Beobachtung, dass kleine Nationen unter der Frage leben, ob es sie in hundert Jahren noch gibt, erklärt eine Merkwürdigkeit bei Knaus: Warum tagt Helsinki wegen eines Vorfalls in Nordafrika? Knaus nennt es eine traumatisierte politische Elite und lässt es dabei; bei Krastev hat dieselbe Panik eine demografische Wurzel. Zusammengelesen ergibt sich, warum Argumente über Größenordnungen so wenig ausrichten.
+Krastevs Beobachtung, dass kleine Nationen unter der Frage leben, ob es sie in hundert Jahren noch gibt, erklärt eine Merkwürdigkeit bei Knaus: Warum kündigt Finnland wegen eines Vorfalls in Nordafrika Grenzkontrollen an? Knaus nennt es eine traumatisierte politische Elite und lässt es dabei; bei Krastev hat dieselbe Panik eine demografische Wurzel. Zusammengelesen ergibt sich, warum Argumente über Größenordnungen so wenig ausrichten.
 
 ### → [[Philipp Blom — Die strauchelnde Welt]]
 

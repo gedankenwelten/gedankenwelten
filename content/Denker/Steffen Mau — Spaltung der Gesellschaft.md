@@ -517,7 +517,7 @@ Jäger nennt Maus These nicht, aber die beiden Notes reiben sich: Mau zeigt die 
 
 ### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
 
-Maus *Sortiermaschinen* beschreiben die Architektur, die Knaus voraussetzt: befestigte Grenzen, gestaffelte Mobilitätsrechte, kaum eine offene EU-Außengrenze. Knaus will diese Anlage menschlich machen statt abbauen, und die Polarisierungsunternehmer sind die Akteure für Knaus' offen liegenden Hebel: ein Ventil in Nordafrika, ein paar Videos, ein Krisenstab in Kopenhagen.
+Maus *Sortiermaschinen* beschreiben die Architektur, die Knaus voraussetzt: befestigte Grenzen, gestaffelte Mobilitätsrechte, kaum eine offene EU-Außengrenze. Knaus will diese Anlage menschlich machen statt abbauen, und die Polarisierungsunternehmer sind die Akteure für Knaus' offen liegenden Hebel: ein Ventil in Nordafrika, ein paar Videos, ein Ruf nach Suspendierung aus Kopenhagen.
 
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
 

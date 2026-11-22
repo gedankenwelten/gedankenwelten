@@ -567,6 +567,10 @@ Vier Jahre später fordert Patrick Kaczmarczyk die Gaspreisbremse zurück, im n�
 
 Die Gegenrechnung zu den Pufferlagern steht im Kurzgutachten der Ministeriumsberater vom März 2026: Eine staatliche Gasreserve sei teuer und verdränge weitgehend private Vorräte.
 
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Eine sehr gute Krise|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Webers Satz von den Krisen als Profitmomenten bekommt hier seinen Fall am Kraftstoffmarkt; Laschyk zieht daraus aber nicht den Deckel, sondern die Entflechtung, und vor dem Spritpreisdeckel steht die Warnung, der Höchstpreis werde zum Treffpunkt.
+
 ---
 
 ## Weiterdenken

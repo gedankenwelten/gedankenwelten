@@ -232,7 +232,7 @@ Für das Blutspende-Beispiel gibt es eine empirische Gegenstimme: Eine Meta-Anal
 
 ### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
 
-Dieselbe Grundthese — Kooperation als Erfolgsgeschichte der Evolution —, aber van Schaik und Michel schichten sie in drei Naturen und stellen die dunkle Kehrseite dazu: die Zivilisation als „Sündenfall". Wo diese Note den Menschen bejaht, differenziert van Schaik: nicht der Mensch ist gut, sondern seine *erste* Natur.
+Dieselbe Grundthese — Kooperation als Erfolgsgeschichte der Evolution —, aber van Schaik und Michel schichten sie in drei Naturen und stellen die dunkle Kehrseite dazu: die Zivilisation als „Sündenfall". Wo diese Note den Menschen bejaht, differenzieren die beiden, so lesen wir sie: Gut ist vor allem die *erste* Natur, die zweite trägt das Konfliktpotenzial.
 
 ### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
 

@@ -198,6 +198,10 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt V
 
 Wie es weiterging: Für Kurz ist die Exportkontrolle über Fable und Mythos vom Juni der Beweis, dass Abhängigkeit von US-Anbietern Erpressungspotenzial bedeutet. Gleichzeitig bauen deutsche Länder genau die automatisierte Massenauswertung, die Anthropic dem Pentagon verweigert hatte.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Suleyman setzt auf Staaten und Prüfinstitute als Eindämmer und auf eine Liste dessen, was man mit Technik nicht tut. Toozes Fall ist die Gegenprobe: ein Staat, der eine Firma für genau solche Grenzen bestraft.
+
 ---
 
 ## Weiterführend

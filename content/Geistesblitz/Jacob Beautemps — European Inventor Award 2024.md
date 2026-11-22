@@ -270,7 +270,7 @@ Cordelia Schmid sagt, ein autonomes Auto brauche 99,999 Prozent, und niemand wis
 
 Schmid freut sich, dass Bilderkennung so normal geworden ist, dass niemand mehr fragt, wer sie erfunden hat. Julia Kloiber zeigt eine andere Unsichtbarkeit derselben Technik: Millionen Datenarbeiter, die Bilder beschriften und autonomes Fahren beurteilen, unsichtbar „by Design“. Wer verschwindet, wenn eine Erfindung unsichtbar wird, die Erfinderin oder die Menschen, die sie täglich nachtrainieren?
 
-### → [[Neitzel und Iltisberger — Hype Is a System#Die vier Anatomie-Merkmale Was Hype ausmacht|Neitzel und Iltisberger — Hype Is a System]]
+### → [[Neitzel und Iltisberger — Hype Is a System#Die fünf Merkmale Was Hype ausmacht|Neitzel und Iltisberger — Hype Is a System]]
 
 Das erste Merkmal von Hype ist die Vision als Gewissheit, das Lehrbeispiel Hinton, der den Radiologen das Ende in fünf Jahren voraussagte. Schmid tut in Valletta das Gegenteil und gibt keine Prognose; neben ihr kündigt Fattal die großen Marken für „dieses und nächstes Jahr“ an. Zwei Jahre später lassen sich beide Haltungen an den Ergebnissen prüfen.
 

@@ -67,7 +67,7 @@ Walburg ist kein Parteigänger, er argumentiert als Empiriker gegen zwei Verzerr
 ## Verbindungen zu anderen Denkern
 
 - **[[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Beide kommen aus der Forschung über die zweite Generation im Ruhrgebiet. El-Mafaalanis Integrationsparadox ist die Kehrseite von Walburgs Befund: Wer am Tisch sitzt und dort Ausgrenzung erfährt, streitet, und manche wenden diese Erfahrung in Härte.
-- **[[DenkerVita/Gerald Knaus|Gerald Knaus]]** — Beide setzen Zahlen gegen Panik. Knaus verlangt, dass Abgelehnte tatsächlich zurückkehren; Walburg hält dagegen, dass ein Teil immer bleibt und darum Arbeit und Perspektive braucht.
+- **[[DenkerVita/Gerald Knaus|Gerald Knaus]]** — Beide setzen Zahlen gegen Panik. Knaus will, dass irregulär Gekommene nach einem Stichtag gezielt zurückgebracht werden, Massenabschiebungen „werden nie funktionieren“; Walburg hält dagegen, dass ein Teil immer bleibt und darum Arbeit und Perspektive braucht.
 - **[[DenkerVita/Stephan Marks|Stephan Marks]]** — Marks' verletzte Anerkennung, die als Wut nach außen geht, ist die psychologische Innenseite dessen, was Walburg mit Elijah Andersons „Code of the Street“ als Respekt auf der Straße beschreibt.
 - **[[DenkerVita/Heinz Bude|Heinz Bude]]** — Budes Gesellschaft des Misstrauens erklärt, warum die Sorge um Kriminalität im Land hoch bleibt, während die eigene Furcht sinkt — der Befund, mit dem Walburg seinen Freiburger Vortrag eröffnet.
 - **[[DenkerVita/Michel Foucault|Michel Foucault]]** — Foucault zeigte, wie das Gefängnis die Delinquenz miterzeugt, die es bekämpfen soll. Walburg macht dieselbe Rechnung für die Kettenduldung auf und warnt 2024 vor der Jugendstrafe als entwicklungsfeindlichem Umfeld.

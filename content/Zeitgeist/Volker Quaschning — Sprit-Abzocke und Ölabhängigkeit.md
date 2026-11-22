@@ -264,3 +264,8 @@ Identisches Desinformationsmuster: Was Quaschning bei AfD-Narrativen widerlegt, 
 ### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
 
 Dieselbe Absage an den Tankrabatt, mit anderer Begründung, gab der Beraterkreis der Wirtschaftsministerin im März 2026.
+
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Zerlegen statt rabattieren|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Ein halbes Jahr später greift Laschyk beide Vorhersagen auf, den eingespielten Mittagstakt und die Zerschlagung der Verflechtung; die ZEW-Daten zur Zwölf-Uhr-Regel und die Forschung zum amerikanischen Divorcement zeigen dort, was davon trägt.
+

@@ -273,6 +273,10 @@ Die letzten zwanzig Prozent, die Specht „graue Theorie“ nennt, bekommen bei 
 
 Wie Deutschland im Winter darauf die Kohlereserve selbst zurückholt, als Notfallgesetz gegen den Gaspreis, besprechen Patrick Kaczmarczyk und unser Faktencheck zur Gaskrise 2026.
 
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Fünf Konzerne, ein Takt|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Laschyk baut Spechts Satz vom gesetzlich verordneten Gleichschritt zu einer ganzen Analyse des Kraftstoffmarkts aus, mit der Mittagsregel als Taktgeber und der Transparenzstelle als Fenster zur Konkurrenz; gegen seine These vom schnellen Verkaufen steht Spechts grünes Paradoxon.
+
 ---
 
 ## Weiterdenken

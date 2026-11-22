@@ -339,6 +339,10 @@ Die Eule in den Zahlen ist der Akzent, den man nicht hört, in der Maschine: Ein
 ### → [[Denker/Sibylle Anderl — Bequeme neue Welt|Sibylle Anderl — Bequeme neue Welt]]
 Dieselben Belege, andere Frage: Anderl fragt, was die Bequemlichkeit der Maschine mit dem eigenen Denken macht.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Suleyman greift Claudes Verfassung an und legt ein eigenes Trainingshandbuch vor („a tool, not a person“). Simanowskis Einwand vom Wertexport gilt für beide Dokumente.
+
 ---
 
 ## Weiterdenken

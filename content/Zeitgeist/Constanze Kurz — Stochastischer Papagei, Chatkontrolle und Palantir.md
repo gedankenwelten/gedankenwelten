@@ -271,7 +271,7 @@ Kurz bremst explizit das Anthropic-Lob: Ein Nein in einer Vertragsklausel sei ke
 
 ### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
-Neitzel/Iltisberger zeigen, dass nüchterne Contrarian-Stimmen im Hype-System strukturell nicht gehört werden — weil das Attention System Zuspitzung und Gewissheitsbehauptungen bevorzugt. Kurz' stochastischer Papagei ist exakt dieser Typus: präzise, technisch, ohne Panik. Die systemische Frage lautet, warum eine CCC-Sprecherin mit 30 Jahren Expertise zum KI-Hype kaum Gegengewicht bildet.
+Neitzel/Iltisberger beschreiben das Dilemma nüchterner Gegenstimmen: Sie publizieren viel, finden aber oft nur in bestimmten Kreisen Gehör. Warum, lassen sie offen; nahe liegt, dass Zuspitzung und Gewissheit leichter durchdringen. Kurz' stochastischer Papagei ist exakt dieser Typus: präzise, technisch, ohne Panik. Die systemische Frage lautet, warum eine CCC-Sprecherin mit 30 Jahren Expertise zum KI-Hype kaum Gegengewicht bildet.
 
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 

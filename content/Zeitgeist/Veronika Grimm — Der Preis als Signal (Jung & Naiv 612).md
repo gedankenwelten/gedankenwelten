@@ -388,6 +388,10 @@ Grimms Warnung vor 80 Milliarden Zinsen im Jahr 2030 ist Flassbecks Ausgangspunk
 
 Das Kurzgutachten, an dem Grimm im März 2026 mitschrieb: keine staatliche Gasreserve, keine Übergewinnsteuer, Fracking ernsthaft prüfen, Emissionshandel halten.
 
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Fünf Konzerne, ein Takt|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Was Grimm an der Mannesmann-Auktion als Strategie beschreibt, das Signal an den Konkurrenten statt der Absprache, findet Laschyk am Kraftstoffmarkt wieder, mit einer Mittagsregel als Taktgeber; gegen den Tankrabatt führt er dabei ausgerechnet ihr Argument vom Preissignal an.
+
 ---
 
 ## Weiterdenken

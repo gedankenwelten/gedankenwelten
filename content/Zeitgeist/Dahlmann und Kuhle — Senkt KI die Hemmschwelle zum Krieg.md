@@ -252,6 +252,10 @@ Bauckhage sieht das KI-Rennen „wie den Kalten Krieg“ und erzählt von KI, di
 
 Kuhles Satz, für jede staatliche Entscheidung müsse am Ende ein Minister zurücktreten können, kehrt in der Anhörung zur Geheimdienstreform als Frage an den neuen Kontrollrat wieder. Dietrich und Bäcker antworten, Rechtskontrolle und politische Kontrolle ersetzten einander nicht. Dass ein KI-Werkzeug Maßnahmen freischaltet, hält auch der Befürworter Luca Manns für „völlig unvorstellbar“.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Suleyman vergleicht KI-Prüfer mit Waffeninspektoren und erwartet eine Einigung aus gemeinsamer Furcht; Harari hält dagegen, mit KI lasse sich anders als mit Atomwaffen viel Geld verdienen. Das ist Dahlmanns „bei KI anders“, ausgetragen zwischen einem Branchenchef und einem Historiker.
+
 ---
 
 ## Weiterdenken

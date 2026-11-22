@@ -183,7 +183,7 @@ Die tiefste Brücke: Salgados U-Visa-Antrag machte ihn für den Staat sichtbar u
 
 ### → [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]]
 
-Baberowskis Kernthese — Gewalt verselbständigt sich in Räumen ohne Kontrolle und braucht keine Ideologie, nur die Abwesenheit von Rechenschaft. Der Vollzug ohne Bodycams und ohne Konsequenzen ist ein solcher „Raum der Gewalt"; die ritualisierte Notwehr-Formel ist die nachgeschobene Lizenz, nicht der Grund.
+Baberowskis Kernthese — Gewalt hat ihre eigene Dynamik und braucht keine Ideologie: „Man kann die Gewalt nicht von ihrem Anfang her verstehen, sondern nur in ihrer Dynamik.“ Ein Vollzug ohne Bodycams und ohne Konsequenzen ist, so lesen wir es, ein Ort, an dem diese Dynamik freie Bahn hat; die ritualisierte Notwehr-Formel ist die nachgeschobene Lizenz, nicht der Grund.
 
 ### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 

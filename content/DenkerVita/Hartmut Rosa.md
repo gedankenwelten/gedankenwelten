@@ -141,7 +141,7 @@ Ein philosophischer Gesprächspartner für Rosas Grundfrage nach dem gelingenden
 - [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit|Wolfgang Huber — Bonhoeffer und die Wahrheit]] — Huber zieht Rosa heran: Resonanz als Grundmodus der Weltbeziehung statt Machtgewinn
 - [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]] — auf die Frage nach Rosas Resonanzbegriff erzählt Blom von *gift* und *Gift*
 - [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit|Simone Weil — Aufmerksamkeit]] — Großzügigkeit als Haltung, mit Rosas Resonanz beschrieben
-- [[Denker/Carel van Schaik und Kai Michel — Die drei Naturen des Menschen|van Schaik und Michel — Die drei Naturen des Menschen]] — Rosas „aggressives Weltverhältnis“ als wiederkehrender Bezug im Gespräch
+- [[Denker/Carel van Schaik und Kai Michel — Die drei Naturen des Menschen|van Schaik und Michel — Die drei Naturen des Menschen]] — Rosas „aggressives Weltverhältnis“ als Bezug im Gespräch, eingebracht von der Moderatorin und Kai Michel
 - [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — die gestörte Weltbeziehung und die Sehnsucht nach Einfachheit
 - [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]] — eine Zuhörerin bringt *Unverfügbarkeit* in die Bedürfnisdebatte
 - [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub — Extremismus und der Schutz der Demokratie]] — Matthias Quent beschreibt mit Rosas Resonanz, was Zivilgesellschaft leisten soll

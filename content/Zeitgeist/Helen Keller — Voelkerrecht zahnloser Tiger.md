@@ -260,7 +260,7 @@ Das Argument doppelt geprüft. Das Bild vom Recht, das still im Alltag wirkt, oh
 
 ### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
 
-Knaus' Migrationsmodell hängt ganz an einer Bedingung: dass UNHCR und europäische Gerichte auch in einem Drittstaat tausende Kilometer entfernt wirksam bleiben. Kellers Blick aus neun Jahren am EGMR auf die Lücke zwischen Norm und Vollzug ist die genaueste Probe auf diese Bedingung. Beide teilen dabei eine Vorsicht: Wer das Ende des Rechts ausruft, betreibt seine Erosion mit.
+Knaus' Migrationsmodell hängt ganz an einer Bedingung: dass UNHCR und europäische Gerichte auch in einem Drittstaat tausende Kilometer entfernt wirksam bleiben. Kellers Blick aus neun Jahren am EGMR auf die Lücke zwischen Norm und Vollzug ist die genaueste Probe auf diese Bedingung. Keller warnt zudem: Wer das Ende des Rechts ausruft, betreibt seine Erosion mit. Knaus' Antwort auf dieselbe Lücke ist praktisch, Abkommen, die das Recht wieder durchsetzbar machen.
 
 ### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
 

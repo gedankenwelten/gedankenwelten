@@ -120,3 +120,8 @@ Am Ende ihrer Mythen-Folge landen Felix Goldbach und Robin Schmid beim Nachfolge
 ### → [[Zeitgeist/Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]]
 
 Ob Empörung der Partei folgt, die regiert, fragt Patrick Kaczmarczyk im Gaswinter 2026; die Zählung hier ist die eine Hälfte dieses Vergleichs.
+
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht#Die Schlagzeile, die gefällt|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Der Volksverpetzer nimmt sich wieder eine BILD-Schlagzeile vor, und diesmal liegt die Schlagzeile in der Sache näher an den Daten als der Konter, ein Fall für Laschyks eigenen Rat, gerade die Quellen zu prüfen, die einem gefallen.
+

@@ -163,7 +163,7 @@ Der Dalai Lama setzt gegen die neuronalen Grenzen der Moral die Kultivierung: Wa
 
 ### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
 
-Die produktive Gegenstimme. Wo van Schaik die kooperative erste Natur betont, erinnert Yu an die neuronale Stammesgrenze: Fairness gilt der In-Group. Die Feindschaft gegen die Fremdgruppe ist bei van Schaik erst Kulturfolge der Sesshaftigkeit, bei Yu ein hartnäckiges Hirnfaktum — genau diese Spannung ist der Ertrag der Zusammenschau.
+Die produktive Gegenstimme. Wo van Schaik die kooperative erste Natur betont, erinnert Yu an die neuronale Stammesgrenze: Fairness gilt der In-Group. Die Haltung gegen die Fremdgruppe war bei van Schaik „natürlich immer schon da“, wird aber erst mit wachsenden Gesellschaften zum Problem und „perfektioniert“, bei Yu ist sie ein hartnäckiges Hirnfaktum — genau diese Spannung ist der Ertrag der Zusammenschau.
 
 ### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
 

@@ -353,6 +353,10 @@ Derselbe Doppelgänger von der anderen Seite: Hier wird Reichweite gekauft, bei 
 
 Oetting erklärt die Verschonungsbedarfsprüfung, an der Laschyks Döpfner-Beispiel hängt; die Destatis-Zahlen dort zeigen, dass 28 der 34 Erlassfälle 2025 Schenkungen waren.
 
+### → [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht|Thomas Laschyk — Wer den Spritpreis macht]]
+
+Dieselbe Methode am Kraftstoffmarkt: hinter dem Rabatt die Marktmacht suchen; auch dort trägt der Mechanismus weiter als die Zuspitzungen, und die Steuer, hier das Hauptwerkzeug, fehlt im Schlussprogramm.
+
 ---
 
 ## Weiterdenken

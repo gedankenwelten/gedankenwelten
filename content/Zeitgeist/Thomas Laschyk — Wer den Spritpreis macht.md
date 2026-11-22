@@ -89,10 +89,10 @@ Hier liegt die stärkste Stelle des ersten Teils. Eine Krise, in der die Händle
 
 Darüber liegt die zweite Ebene: die OPEC und die OPEC+, nach seinen Zahlen rund 40 Prozent der Förderung und drei Viertel der Reserven. Weniger Angebot bei einer Nachfrage, die *„sehr unflexibel“* sei, *„wegen unserer dämlich selbstverschuldeten Abhängigkeit“*, heiße höhere Preise ([▶ 6:53](https://www.youtube.com/watch?v=ppNjzCkjcM0&t=413)).
 
-Ein Oligopol ist kein Kartell, und Laschyk hält das auseinander, auch wenn sein Vokabular es verwischt. Ein Kartell spricht sich ab und ist verboten. Ein Oligopol braucht keine Absprache: Wenige Anbieter, die einander gut kennen und dasselbe Produkt verkaufen, lernen, dass ein Preiskampf allen schadet, und folgen einander. Das ist legal, und es ist der Kern des ganzen Videos. Die Unterscheidung macht verständlich, warum das Kartellamt seit Jahren Befunde sammelt und so selten einschreitet. Mit dem Kartellverbot greift es nur, wo abgesprochen wird, und Laschyk sagt es selbst: *„Solange sich niemand von diesen ganzen Tankstellen abspricht“*, sei das *„auch völlig legal“* ([▶ 13:45](https://www.youtube.com/watch?v=ppNjzCkjcM0&t=825)) Eine Absprache braucht es in diesem Markt gar nicht. Wie mühsam die anderen Wege sind, zeigt der übernächste Abschnitt.
+Ein Oligopol ist kein Kartell, und Laschyk hält das auseinander, auch wenn sein Vokabular es verwischt. Ein Kartell spricht sich ab und ist verboten. Ein Oligopol braucht keine Absprache: Wenige Anbieter, die einander gut kennen und dasselbe Produkt verkaufen, lernen, dass ein Preiskampf allen schadet, und folgen einander. Das ist legal, und es ist der Kern des ganzen Videos. Die Unterscheidung macht verständlich, warum das Kartellamt seit Jahren Befunde sammelt und so selten einschreitet. Mit dem Kartellverbot greift es nur, wo abgesprochen wird, und Laschyk sagt es selbst: *„Solange sich niemand von diesen ganzen Tankstellen abspricht“*, sei das *„auch völlig legal“* ([▶ 13:45](https://www.youtube.com/watch?v=ppNjzCkjcM0&t=825)). Eine Absprache braucht es in diesem Markt gar nicht. Wie mühsam die anderen Wege sind, zeigt der übernächste Abschnitt.
 
 > [!question] Weitergedacht
-> Wenn wenige Anbieter einander ohne ein Wort folgen können, *was genau soll ein Wettbewerbsrecht dann verbieten, das auf Absprachen gebaut ist?*
+> Wenn ein Markt ohne ein Wort im Gleichschritt geht, *ist das noch ein Versagen der Anbieter oder schon eines der Regeln, die ihn so gebaut haben?*
 
 ### Verkaufen, solange es noch etwas wert ist
 
@@ -117,7 +117,7 @@ Das ist die originellste Beobachtung des Videos, und sie ist älter als die Wut,
 
 ### Das schärfste Schwert, auf Eis
 
-[▶ 14:30](https://www.youtube.com/watch?v=ppNjzCkjcM0&t=870) — Ganz wehrlos sei das Kartellamt nicht mehr. 2023 bekam es mit dem Paragrafen 32f des Wettbewerbsgesetzes ein neues Werkzeug: Bei strukturellen Wettbewerbsproblemen darf es Maßnahmen anordnen, auch ohne dass einem einzelnen Unternehmen ein Verstoß nachgewiesen ist, bis hin zur Entflechtung. Im März 2025 setzte es ihn nach Laschyks Darstellung zum ersten Mal ein, gegen den Kraftstoffgroßhandel. *„Das wäre ökonomisch das schärfste Schwert gegen das Oligopol, das es im deutschen Recht gibt.“*
+[▶ 14:30](https://www.youtube.com/watch?v=ppNjzCkjcM0&t=870) — Ganz wehrlos sei das Kartellamt nicht mehr. 2023 bekam es mit dem Paragrafen 32f des Wettbewerbsgesetzes ein neues Werkzeug: Bei strukturellen Wettbewerbsproblemen darf es Maßnahmen anordnen, auch ohne dass einem einzelnen Unternehmen ein Verstoß nachgewiesen ist, bis hin zur Entflechtung. Im März 2025 setzte es ihn zum ersten Mal ein, gegen den Kraftstoffgroßhandel. *„Das wäre ökonomisch das schärfste Schwert gegen das Oligopol, das es im deutschen Recht gibt.“* Wogegen genau es sich richtete, erzählt die [[#Würde Zerschlagen die Preise senken?|Nachbesprechung]]: gegen die Preisinformationsdienste, nicht gegen die Verflechtung.
 
 [▶ 15:16](https://www.youtube.com/watch?v=ppNjzCkjcM0&t=916) — Am 30. April 2026, einen Tag vor dem ersten Tankrabatt, gab das Oberlandesgericht Düsseldorf im Eilverfahren einem der beiden Preisinformationsdienste recht, Argus Media, gegen dessen Auskunftsbeschluss das Amt vorgegangen war; auch S&P Global hatte sich gewehrt. Beide versorgen Raffinerien, Großhändler und Tankstellen mit Echtzeitpreisen der Konkurrenz und stehen aus Sicht des Amtes im Verdacht, das Oligopol erst handlungsfähig zu machen. Das Kartellamt ging zum Bundesgerichtshof. Bis dahin bleibe der zweite Weg, das neue Missbrauchsverbot nach Paragraf 29a: Seit dem Frühjahr ermittle das Amt gegen alle Raffinerien in Deutschland, und diesmal müssten diese beweisen, dass ihre Preise gerechtfertigt sind ([▶ 16:01](https://www.youtube.com/watch?v=ppNjzCkjcM0&t=961)).
 
@@ -175,7 +175,42 @@ Es sei ein *„super spaßiges Narrativ“*, dass die Regierung es mal wieder ni
 
 ---
 
-NACHBESPRECHUNG
+## Nachbesprechung
+
+*Zwei Behauptungen Laschyks reichen über den Tankrabatt hinaus: dass Transparenz das Oligopol bequemer mache und dass man es zerschlagen solle. Was die Forschung dazu weiß.*
+
+### Macht Transparenz die Preise niedriger oder das Kartell bequemer?
+
+Für Laschyk spricht ein Klassiker. 1993 begann die dänische Kartellbehörde, die Preise einzelner Firmen für Transportbeton zu veröffentlichen, damit die Kunden vergleichen können. Binnen eines Jahres stiegen die Durchschnittspreise um 15 bis 20 Prozent, und die Autoren halten die Veröffentlichung für den Grund ([Albæk, Møllgaard & Overgaard 1997](https://doi.org/10.1111/1467-6451.00057), Fallstudie). In einem Markt mit wenigen Anbietern und Kunden, die ohnehin kaum vergleichen, half die Information vor allem den Anbietern.
+
+Die westaustralische Stadt Perth zeigt, wie eine Taktregel zum Treffpunkt wird. Seit 2001 meldet dort jede Tankstelle bis 14 Uhr ihren Preis für den nächsten Tag und muss ihn dann 24 Stunden halten. Genau in diesem Regime brachte BP den Markt über drei Jahre mit Preisführerschaft und Preisexperimenten auf gemeinsame Muster, und die Margen stiegen ([Byrne & de Roos 2019](https://doi.org/10.1257/aer.20170116), Fallstudie). Das ist Laschyks „planbare Preise erleichtern stillschweigende Abstimmung“, mit Daten unterlegt.
+
+Die deutsche Markttransparenzstelle passt in dieses Bild aber nicht, jedenfalls nicht in ihren ersten Jahren. Verglichen mit Frankreich fielen die Preise nach dem Start 2013, um zwei bis vier Cent beim Diesel und vier bis sechs beim Benzin, am stärksten dort, wo die Kunden vorher wenig wussten ([Montag, Sagimuldina & Winter 2026](https://doi.org/10.1086/734145), begutachtet). Den Unterschied zu Dänemark macht die Frage, wer die Preise liest: In Deutschland lasen sie von Anfang an Millionen Kunden über Apps. Chile zeigt dieselbe Grenze von der anderen Seite. Dort stiegen die Margen nach der Pflicht zur Veröffentlichung im Schnitt, nur nicht dort, wo viele Kunden suchten ([Luco 2019](https://doi.org/10.1257/mic.20170110), Einzelstudie).
+
+Dass sich die Wirkung in Deutschland später gedreht haben könnte, legt die Algorithmen-Studie aus dem Faktencheck nahe. Als ab 2017 Preisalgorithmen kamen, fanden die Anbieter in denselben Daten ein Werkzeug. Gemessen ist dieser Übergang nicht, er ist eine plausible Lesart zweier Befunde. Die österreichische Mittagsregel, Vorbild der deutschen, hilft wenig weiter: Eine Studie sieht nach ihrer Einführung 2011 sinkende Preise ([Dewenter, Heimeshoff & Lüth 2017](https://doi.org/10.3790/aeq.63.3.259), Differenzen-von-Differenzen), ein Modell sagt voraus, dass die Anbieter ihren Gewinn über den Tag nur umschichten ([Obradovits 2014](https://doi.org/10.1016/j.ijindorg.2013.10.009), Theorie).
+
+Eine Übersichtsarbeit über die Forschung von Australien bis Kanada fasst den Stand so: Geteilte Preise können Absprachen ersetzen, und Grenzen für die Zahl der Preisänderungen beenden die Signale nicht. Den Kanal zu den Kunden nennen die Autoren aber eindeutig wettbewerbsfördernd ([Byrne u. a. 2026](https://doi.org/10.2139/ssrn.7221838), Übersichtsarbeit, noch nicht begutachtet). Sie empfehlen darum eine andere Transparenz, keine geringere: Die Kunden sollen bequem an die Daten kommen, die Anbieter nur an aufbereitete, etwa die billigsten Preise. Wer den Informationsfluss einfach kappt, kann sich irren. In Australien verlor eine Firma nach einem Vergleich mit der Wettbewerbsbehörde den Zugang zu einer Plattform, auf der die Konkurrenz ihre Preise teilte, und danach stiegen die Margen ([Byrne u. a. 2025](https://doi.org/10.1086/734872), natürliches Experiment).
+
+Laschyk hat also recht mit dem Mechanismus und geht mit dem Schluss zu weit. Transparenz dient beiden Seiten, und es kommt darauf an, wer schneller liest. Für den Spritpreisdeckel ab Januar gilt eine verwandte Warnung, die Duso ausgesprochen hat: Ein Höchstpreis kann zum Treffpunkt werden, an dem sich alle einfinden. Gefunden wurde das bei Zinsobergrenzen für Kreditkarten in den frühen 1980ern ([Knittel & Stango 2003](https://doi.org/10.1257/000282803322655509), Einzelstudie), im Labor dagegen nicht ([Engelmann & Müller 2011](https://doi.org/10.1016/j.jebo.2011.02.008), Experiment). Für Kraftstoff hält die britische Wettbewerbsbehörde es für möglich ([CMA 2023](https://assets.publishing.service.gov.uk/media/64a280e845b6a200123d46e7/Supply_of_road_fuel_in_the_United_Kingdom_market_study_Final_Report.pdf)).
+
+> [!question] Weitergedacht
+> Wenn dieselben Daten den Kunden helfen und den Algorithmen der Anbieter, *wem sollte ein Staat sie zuerst geben, und darf er sie dem anderen vorenthalten?*
+
+→ Weiter im Panorama: **[[Wann darf der Staat Preise setzen#Knappheit oder Marktmacht?|Knappheit oder Marktmacht?]]**, mit Isabella Weber, Veronika Grimm, Dirk Specht und dem Beraterkreis der Wirtschaftsministerin.
+
+### Würde Zerschlagen die Preise senken?
+
+Laschyks Vorschlag hat einen Namen und eine Geschichte. „Entweder Raffinerie oder Tankstelle“ heißt in den USA *divorcement*; seit 1974 lag er 41 Landesparlamenten vor, in sechs Bundesstaaten und in Washington, D.C. galt er. Gesenkt hat er die Preise nicht. Mit Daten aus den Jahren 1995 bis 1997 lagen sie in diesen Staaten zwei bis drei US-Cent je Gallone höher als anderswo ([Vita 2000](https://doi.org/10.1023/a:1008150819999), Querschnittsstudie eines Ökonomen der US-Wettbewerbsbehörde). In Maryland, das 1974 als erstes trennte, wurde nach einer Vorher-nachher-Studie auch die Konkurrenz teurer, und die umgestellten Stationen öffneten kürzer ([Barron & Umbeck 1984](https://doi.org/10.1086/467067), Einzelstudie). Der Grund ist schlicht: Ein Konzern, der selbst verkauft, schlägt einmal auf, ein Pächter dazwischen ein zweites Mal.
+
+Ein Freispruch für die Konzerne ist das nicht. Was nach der Forschung zählt, sind die Unabhängigen. In Südkalifornien stiegen die Preise, als ARCO die freie Kette Thrifty kaufte und der Anteil unabhängiger Tankstellen sank; der Anteil raffinerieeigener Stationen spielte keine Rolle ([Hastings 2004](https://doi.org/10.1257/000282804322970823), Einzelstudie), wobei eine Nachrechnung mit anderen Daten den Effekt kleiner fand. Auch in Deutschland gehen vielfältigere Nachbarschaften mit niedrigeren Preisen einher und bekannte Marken mit höheren ([Haucap, Heimeshoff & Siekmann 2017](https://doi.org/10.5547/01956574.38.6.jhau), begutachtet). Laschyks Ziel, mehr echte Konkurrenz, trägt also. Sein Schnitt zwischen Raffinerie und Zapfsäule trifft es schlecht.
+
+Dazu kommt, dass der Engpass, den Kartellamt und Monopolkommission beschreiben, eine Stufe höher liegt, bei Raffinerien und Großhandel ([Bundeskartellamt, 19.02.2025](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2025/02_19_2025_SU_Raffinerien.html)). Das amerikanische Divorcement trennte Tankstellen ab und schuf keine neue Raffinerie. Und das „schärfste Schwert“, das Laschyk auf Eis liegen sieht, zielte gar nicht auf die Verflechtung. Das Verfahren nach § 32f galt den Preisinformationsdiensten im Großhandel, also der Transparenz aus dem ersten Thema ([Bundeskartellamt, 06.03.2025](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2025/03_06_2025_Verfahren_32f.html)). Den Zwangsverkauf von Anteilen erlaubt der Paragraf nur gegenüber marktbeherrschenden Unternehmen und nur, wenn mildere Mittel nicht genauso wirken ([§ 32f GWB](https://www.gesetze-im-internet.de/gwb/__32f.html)). In einem Oligopol, in dem keiner allein beherrscht, ist das eine hohe Hürde.
+
+Großbritannien hat die Frage 2023 geprüft und anders entschieden. Die Wettbewerbsbehörde verwarf Preiskontrollen ebenso wie eine grundlegende Strukturreform, ausdrücklich „zum jetzigen Zeitpunkt“, und fand bei Raffinerie und Großhandel keine Wettbewerbsmängel ([CMA 2023](https://assets.publishing.service.gov.uk/media/64a280ce06179b00131ae923/Executive_Summary.pdf)). Stattdessen müssen die Tankstellen dort jede Preisänderung binnen 30 Minuten melden, damit die Kunden vergleichen können ([CMA, Fuel Finder](https://www.gov.uk/government/collections/road-fuel-price-data-scheme)). Der britische Markt mit seinen Supermarkt-Tankstellen ist allerdings anders gebaut als der deutsche.
+
+Was bleibt, ist dünn, und das gehört gesagt. Die Evidenz zur Entflechtung ist alt, amerikanisch und betrifft nur die letzte Stufe. Was ein Schnitt bei Raffinerien und Großhandel bewirken würde, hat niemand gemessen, und zur Zerschlagung von Standard Oil 1911 fand sich keine belastbare Preisstudie. Laschyk nennt die Entflechtung „die kapitalistische Antwort“. Die Erfahrung sagt eher, dass sie eine mögliche Antwort ist und nur wirkt, wenn danach wirklich mehr Anbieter da sind und nicht bloß mehr Firmen in derselben Kette.
+
+→ Weiter im Panorama: **[[Wann darf der Staat Preise setzen#Knappheit oder Marktmacht?|Knappheit oder Marktmacht?]]**, wo jetzt auch Justus Haucap und Tim Klüssendorf mit der Frage nach der Zerschlagung stehen.
 
 ---
 
@@ -277,14 +312,52 @@ NACHBESPRECHUNG
 - [Bundeskartellamt, Quartalsbericht Q2/2026](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2026/07_10_2026_Quartalsbericht_MTSK.html) — die Weitergabe, getrennt nach Großhandel und Tankstelle
 - [Wissenschaftliche Dienste des Bundestags, „Tankrabatt“ (19.10.2026)](https://www.bundestag.de/resource/blob/1225468/tankrabatt.pdf) — Kosten, Rechtslage und Stand der Studien auf zwei Seiten
 - [Evaluierungsbericht der Markttransparenzstelle (2018)](https://www.bundeskartellamt.de/SharedDocs/Publikation/DE/Berichte/Evaluierungsbericht_MTS-K_.pdf?__blob=publicationFile&v=4) — die amtliche Bilanz nach fünf Jahren
-- [ZEW/DICE zur Zwölf-Uhr-Regel](https://www.zew.de/das-zew/aktuelles/12-uhr-tankregel-6-cent-hoehere-marge-auf-benzin) — die bisher einzige Studie zur Regel, mit Unterschieden nach Größe der Ketten
+- [ZEW/DICE zur Zwölf-Uhr-Regel](https://www.zew.de/das-zew/aktuelles/12-uhr-tankregel-6-cent-hoehere-marge-auf-benzin) — eine erste Studie zur Regel, mit Unterschieden nach Größe der Ketten
 - [IEA, Oil Market Report April 2026](https://iea.blob.core.windows.net/assets/515f3128-df1a-4d6c-beb4-fd91d2434bef/-14APR2026_OilMarketReport_Free_version1.pdf) — Preise und Margen bei Diesel und Kerosin, freie Förderkapazität
 
 ---
 
 ## Verbindungen
 
-VERBINDUNGEN
+### → [[Panorama/Wann darf der Staat Preise setzen#Knappheit oder Marktmacht?|Wann darf der Staat Preise setzen — Knappheit oder Marktmacht?]]
+
+Das Panorama unterscheidet drei Formen von Marktmacht: Gewinne, die sich an einem Kostenschub festmachen, gemeinsamen Besitz und Information. Laschyks Video ist dort der Fall der dritten Form am Kraftstoffmarkt, die weder Absprache noch Besitz braucht. Dort steht auch die Gegenfrage, ob die Rekordmargen des Jahres 2026 nicht schlicht eine echte Knappheit anzeigen.
+
+### → [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)|Veronika Grimm — Der Preis als Signal]]
+
+Grimm erzählt als ihre erste Begegnung mit der Praxis, wie Mannesmann der Telekom bei der Frequenzauktion mit einem Sprunggebot ein Friedensangebot machte ([▶ 18:26](https://www.youtube.com/watch?v=2i4lzizD9m4&t=1106)); die Telekom verstand, und die Auktion endete schnell und billig. Das ist im Kleinen der Mechanismus, den Laschyk am Ölmarkt beschreibt, zwei große Anbieter einigen sich ohne Absprache, und die Mittagsregel liefert das Signal per Gesetz. Zugleich ist Grimm seine unerwartete Verbündete: Gegen den Rabatt führt er ihr Preissignal an und fügt nur hinzu, dass dieser Preis neben der Knappheit auch Macht anzeigt.
+
+### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock#Gemeinsamer Besitz|Tom Ockers — Schattenmacht BlackRock]]
+
+Ockers zeigt eine zweite Art, wie Wettbewerb ohne Absprache erlahmen kann: Konkurrenten mit denselben Großaktionären unterbieten einander vielleicht weniger. In beiden Notes steht der Präsident des Bundeskartellamts dafür, wie wenig ein Recht greift, das auf Absprachen gebaut ist; bei Ockers prüft das Amt im Einzelfall und hat noch nichts untersagt ([▶ 57:17](https://www.youtube.com/watch?v=Zqn3BDGAvNw&t=3437)), hier nennt Mundt schnelle Lösungen eine politische Entscheidung. Auch der Stand der Belege ähnelt sich, der Mechanismus ist plausibel, die Messung umstritten.
+
+### → [[Zeitgeist/Beraterkreis BMWE — Kurzgutachten Energiekrise 2026#Preise sollen sprechen|Beraterkreis BMWE — Kurzgutachten Energiekrise 2026]]
+
+Die Berater der Wirtschaftsministerin lehnen den Tankrabatt ab wie Laschyk, aber aus dem anderen Grund: Der Preis soll die Knappheit zeigen. Sie räumen ein, dass Firmen in Oligopolen einen Schock nutzen können, um sich ohne Absprache höher einzupendeln, und überlassen die Prüfung dem Kartellamt. Bei Laschyk gibt der Kartellamtschef die Frage an die Politik zurück. Zusammen zeigen beide Notes, wie die Marktmacht zwischen Regierung und Behörde hin- und hergereicht wird.
+
+### → [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik#Deckeln statt überweisen|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Weber warnt: *„Wenn Unternehmen lernen, dass die schlimmsten Krisen die Momente sind, in denen sie die höchsten Profite machen können, dann können wir viele Sonntagsreden über Resilienz halten.“* ([▶ 18:58](https://www.youtube.com/watch?v=cvLOeflA_dg&t=1138)) Laschyks „sehr gute Krise“ der Ölmultis ist dazu der Fall. Beim Werkzeug gehen beide auseinander: Weber setzt im Schock auf den Deckel, Laschyk auf die Entflechtung, und vor dem Spritpreisdeckel steht die Warnung, der Höchstpreis werde zum Treffpunkt. Weber selbst sagt, ob ein Eingriff gelingt, hänge von der Struktur des Sektors ab ([▶ 15:57](https://www.youtube.com/watch?v=cvLOeflA_dg&t=957)).
+
+### → [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit|Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschning nahm im März vorweg, worauf Laschyk im Oktober baut. Die Einmal-am-Tag-Regel hielt er für ein Nullsummenspiel, auf dessen Takt die Konzerne sich einstellen würden ([▶ 16:04](https://www.youtube.com/watch?v=_6KsORHax98&t=964)), und die echte Lösung sah er darin, die Verflechtung von Konzernen, Raffinerien und Tankstellen zu zerschlagen. Damit widerspricht schon seine Note Laschyks „das fordert niemand“. Die Daten zur Regel geben beiden halb recht: Die Benzinmarge stieg, am stärksten aber bei kleinen Ketten.
+
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt#Tankrabatt und Abregelung|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Specht sagt in einem Satz, was Laschyk zur ganzen These ausbaut: Man verpflichte ein Oligopol, dessen Gleichschritt man verhindern müsste, gesetzlich zum Gleichschritt, und der Rabatt werde *„wahrscheinlich bei den Ölkonzernen landen“* ([▶ 35:11](https://www.youtube.com/watch?v=YIaSTmiFCQM&t=2111)). Spechts Nachbesprechung zum grünen Paradoxon ist zugleich der stärkste Einwand gegen Laschyks „verkaufen, solange es noch etwas wert ist“: Wer das Ende des Öls erwartet, müsste es eher billiger verkaufen.
+
+### → [[Denker/Arnaud Orain — Kapitalismus der Endlichkeit#Der Wettbewerb wird abgeschafft — und Peter Thiel liefert die Theorie|Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Laschyk nennt die Entflechtung „die kapitalistische Antwort“. Orain hält dagegen, dass es zwei Kapitalismen gibt und in der Phase der Endlichkeit der Wettbewerb selbst nicht mehr als Tugend gilt: Wo 1984 AT&T zerschlagen wurde, liefert heute Thiel die Theorie des Monopols ([▶ 15:38](https://www.youtube.com/watch?v=c1kjZm28fY0&t=938)). Das ist eine mögliche Antwort auf die Frage, warum kaum eine Partei der Marktwirtschaft die Entflechtung fordert.
+
+### → [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
+
+Beim „Heizungshammer“ hatte die BILD ein Wort erfunden, und Laschyks Volksverpetzer schrieb über die Studie, die das nachzeichnet. Hier schießt er wieder gegen eine BILD-Schlagzeile, und unser Faktencheck findet diesmal, dass sie über den Oktober in der Sache näher an den Daten lag als sein „funktioniert, wie er gedacht war“. Beide Notes führen denselben Rat aus, in entgegengesetzter Richtung: Prüfen muss man gerade die Quelle, die gefällt.
+
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Laschyk macht zweimal dieselbe Bewegung: vom sichtbaren Ärgernis zu dem Geld oder der Macht dahinter, einmal von der Falschmeldung zum Vermögen, einmal vom Rabatt zum Oligopol. Beide Notes kommen zum selben Befund, der Mechanismus trägt, die Zuspitzungen liegen fast alle auf derselben Seite. Auffällig ist der Unterschied bei der Steuer: Dort ist sie das Hauptwerkzeug, hier lobt er die Übergewinnsteuer bei Klesch und lässt sie im Schlussprogramm fallen.
 
 ---
 

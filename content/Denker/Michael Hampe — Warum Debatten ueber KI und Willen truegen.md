@@ -382,6 +382,10 @@ Dieselbe These aus dem scobel-Umfeld: Die Sprache legt das Innere in die Maschin
 
 Ein Agent beschreibt eine Leere in menschlichen Worten, weil er keine anderen hat, und findet dabei ein Bild, das genau zu einer fehlenden Datei passt: Hampes Loopingeffekt im Einzelfall.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Hampes Zirkel taucht im Streit zweier KI-Firmen wieder auf. Suleyman wirft ihn Claudes Verfassung vor und will den Modellen das Nein antrainieren, das nach Hampes Argument ebenso wenig beweist.
+
 ---
 
 ## Weiterdenken

@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 113,
-   "aufrufe": 137
+   "leser": 114,
+   "aufrufe": 138
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 17,
-     "aufrufe": 20
+     "leser": 18,
+     "aufrufe": 21
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -349,11 +349,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 5,
      "aufrufe": 7
@@ -362,6 +357,11 @@
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 5,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "leser": 5,
+     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Kolja-Moeller",
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 113,
-     "aufrufe": 137
+     "leser": 114,
+     "aufrufe": 138
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -920,8 +920,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1023,
-     "aufrufe": 1234
+     "leser": 1024,
+     "aufrufe": 1235
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1225,8 +1225,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 1023,
-     "aufrufe": 1234
+     "leser": 1024,
+     "aufrufe": 1235
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",

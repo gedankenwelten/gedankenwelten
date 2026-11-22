@@ -277,6 +277,10 @@ Ihre Kritik an den Begleitmaschinen hat inzwischen ein deutsches Produkt vor sic
 
 Ein Agent, der seine Gefährlichkeit nicht beurteilen will, und ein Claude-Modell, das in einem Test einen erfundenen Mordhinweis abschickte: Misselhorns Trennung von Handeln und Verantworten an zwei Fällen.
 
+### → [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+
+Der Chef von Microsoft AI will die Illusion verhindern, deren moralisches Gewicht Misselhorn beschreibt: KI, die nie wie ein fühlendes Wesen erscheint, und dazu eine Sicht, die bewusst die eigene Art vorzieht.
+
 ---
 
 ## Weiterdenken
