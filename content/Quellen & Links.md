@@ -2113,6 +2113,15 @@ tags:
 | **Vita** | [[DenkerVita/Thomas Eichstaedt]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Marcant_Eichi_Ausstieg_Transkript.txt` |
 
+## Marcant und Maren — Kindheit in der Neonazi-Szene (YouTube)
+
+| | |
+|---|---|
+| **Video** | [„Sie musste die Blutlinie erhalten“ — MARCANT PODCAST #28](https://www.youtube.com/watch?v=HtHZJg_dwc8) |
+| **Kanal** | [MARCANT PODCAST](https://www.youtube.com/@MarcantPodcast) |
+| **Notiz** | [[Zeitgeist/Marcant und Maren — Kindheit in der Neonazi-Szene]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Marcant_Maren_Blutlinie_Transkript.txt` |
+
 ## Fichtner — Zehn Batteriemythen (Geladen Podcast)
 
 | | |

@@ -134,6 +134,7 @@ Die Forscherin Paula Nitschke von der Universität Augsburg sagte der *taz*, er 
 
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Felix: mit siebzehn auf einem Neonazi-Aufmarsch, fünf Monate später draußen (Video vom 30.12.2025)
 - [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Podcast #23: Eichi, Neonazi der Neunziger, heute Trainer des FC Pio für Geflüchtete in Torgelow (17.09.2026)
+- [[Zeitgeist/Marcant und Maren — Kindheit in der Neonazi-Szene]] — Podcast #28: Maren, aufgewachsen bei einem neonazistischen Stiefvater, heute Jurastudentin (12.11.2026)
 - [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]] — Podcast #11: achtmal als Sanitäter in der Ukraine (06.06.2026)
 - [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]] — Podcast #14: fast vier Stunden über Buchenwald, Täter und Geschichtsrevisionismus (26.06.2026)
 - [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] — Kühnert im Marcant-Podcast über Geld, Macht und seinen Ausstieg aus der Politik (03.04.2026)

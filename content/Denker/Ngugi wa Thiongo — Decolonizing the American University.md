@@ -239,7 +239,7 @@ Akalas Oxford-Union-Vortrag ist die Vorgeschichte zu Ngũgĩs Universitätskriti
 
 ### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
 
-Ngũgĩs Satz, moderner Kapitalismus und Rassismus seien voneinander geboren worden, ist Beckerts These in ihrer knappsten Form — bei Beckert ist Barbados 1670 die reine Form, bei Ngũgĩ die Kolonie die Geburtsurkunde. Beide fragen zudem, wem die Eliteuniversität gehört: Beckert bestätigt von innen, dass Harvard Eliten reproduziert; Ngũgĩ argumentiert, dass die Hierarchie sich in den Wissenssystemen selbst fortschreibt.
+Ngũgĩs Satz, moderner Kapitalismus und Rassismus seien voneinander geboren worden, ist Beckerts These in ihrer knappsten Form — bei Beckert ist Barbados 1670 eine der ersten kapitalistischen Gesellschaften, bei Ngũgĩ die Kolonie die Geburtsurkunde. Beide fragen zudem, wem die Eliteuniversität gehört: Beckert bestätigt von innen, dass Harvard Eliten reproduziert; Ngũgĩ argumentiert, dass die Hierarchie sich in den Wissenssystemen selbst fortschreibt.
 
 ### → [[Vijay Prashad — Marxismus als Methode]]
 

@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Moskau will eine neue Sicherheitsordnung für Europa, die alte hat es selbst unterschrieben. Ein Korrespondent sucht den Grund in Russland, nicht im Westen. Wie weit trägt das?
 
+> **23.11.** — [[Zeitgeist/Marcant und Maren — Kindheit in der Neonazi-Szene|Marcant und Maren — Kindheit in der Neonazi-Szene]]
+>
+> Ein Mädchen im Dirndl verkauft Kuchen am Sonnwendfeuer und hält es für einen Ausflug mit Freunden. Wie man aus einer Familie herausfindet, in die man hineingeboren wurde, und wer dabei hilft.
+
 > **23.11.** — [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 >
 > Bevor die Erschöpfung kommt, muss man handeln. Ece Temelkuran hat erlebt, wie die Türkei ihre Demokratie verlor, und erkennt dieselben Schritte nun in den USA, beschleunigt durch Trumps Tempo.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
 
-> **22.11.** — [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
->
-> Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
-
-> → *25 weitere in* [[Zeitgeist]]
+> → *26 weitere in* [[Zeitgeist]]
 
 ### Denker
 

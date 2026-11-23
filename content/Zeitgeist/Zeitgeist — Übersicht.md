@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*387 Notes — automatisch generiert · nach Thema sortiert*
+*388 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -315,6 +315,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]] — Eine Umarmung am Flughafen, ein Platz in der Mitte, ein „Wer ist das?“ an der Tür: Drei Korrespondenten lesen Shenzhen aus Bildern, und eine von ihnen warnt davor, zu viel hineinzulesen.
 - [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika|Verliert Trump den Iran-Krieg in Amerika?]] — Gedacht war ein Regime, das sich beugt, nicht eines, das fällt. Reinhard Heinisch erklärt, warum der Plan im Iran scheiterte und warum die Stimmung daheim kippt, sobald Särge zurückkommen.
 - [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]] — Ein Militärökonom will nur gelten lassen, was militärisch und wirtschaftlich geschieht, und hält schon das Reden vom Verhandeln für ein Geschenk an den Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
+- [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa|Was Putin von Europa will — Michael Thumann aus Moskau]] — Moskau will eine neue Sicherheitsordnung für Europa, die alte hat es selbst unterschrieben. Ein Korrespondent sucht den Grund in Russland, nicht im Westen. Wie weit trägt das?
 
 ### Geopolitik & Krieg
 
