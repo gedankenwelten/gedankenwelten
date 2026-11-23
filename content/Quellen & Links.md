@@ -3518,7 +3518,8 @@ tags:
 
 | | |
 |---|---|
-| **Vortrag / Video** | [A Fascism Expert Warns: This Is How It Starts in America](https://www.youtube.com/watch?v=ey92mOHeuKo) |
+| **Vortrag / Video** | [A Fascism Expert Warns: This Is How It Starts in America](https://www.youtube.com/watch?v=ey92mOHeuKo) (Zeteo, 25.03.2026) |
+| **Vita** | [[DenkerVita/Ece Temelkuran]] |
 | **Notiz** | [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Temelkuran_Faschismus_Transkript.txt` |
 

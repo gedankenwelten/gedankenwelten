@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **23.11.** — [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
+>
+> Bevor die Erschöpfung kommt, muss man handeln. Ece Temelkuran hat erlebt, wie die Türkei ihre Demokratie verlor, und erkennt dieselben Schritte nun in den USA, beschleunigt durch Trumps Tempo.
+
+> **22.11.** — [[Zeitgeist/Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit|Erziehung zur Grausamkeit]]
+>
+> Was wird aus einem Menschen, der zehn Jahre lang mit Wut gefüttert wird? Robert Misik beschreibt Lehrjahre der Unbarmherzigkeit, Antonie Rietzschel hält ihr Dorf dagegen.
+
+> **22.11.** — [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht|Wer den Spritpreis macht]]
+>
+> Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
+
+> **22.11.** — [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+>
+> Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
+
+> **22.11.** — [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
+>
+> Der Chef von Microsoft AI will eine KI, die dem Menschen dient und nie wie ein fühlendes Wesen erscheint. Der Historiker fragt, ob man Götter erschaffen und als Sklaven halten kann.
+
+> → *24 weitere in* [[Zeitgeist]]
+
 ### Geistesblitz
 
 > **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
@@ -48,6 +72,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **23.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
 > **23.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
@@ -64,35 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
 
-> **22.11.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
 > → *14 weitere in* [[Panorama]]
-
-### Zeitgeist
-
-> **22.11.** — [[Zeitgeist/Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit|Erziehung zur Grausamkeit]]
->
-> Was wird aus einem Menschen, der zehn Jahre lang mit Wut gefüttert wird? Robert Misik beschreibt Lehrjahre der Unbarmherzigkeit, Antonie Rietzschel hält ihr Dorf dagegen.
-
-> **22.11.** — [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht|Wer den Spritpreis macht]]
->
-> Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
-
-> **22.11.** — [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
->
-> Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
-
-> **22.11.** — [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
->
-> Der Chef von Microsoft AI will eine KI, die dem Menschen dient und nie wie ein fühlendes Wesen erscheint. Der Historiker fragt, ob man Götter erschaffen und als Sklaven halten kann.
-
-> **21.11.** — [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]]
->
-> Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.
-
-> → *23 weitere in* [[Zeitgeist]]
 
 ### GoodNews
 
