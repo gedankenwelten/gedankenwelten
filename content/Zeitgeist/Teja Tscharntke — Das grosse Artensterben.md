@@ -451,6 +451,10 @@ Der Kongo als Fall der Kleinbauern-These: Dort bleiben die Emissionen aus Landnu
 
 Zeigt den Weg, den Tscharntke für aussichtslos hält, in seiner aufwendigsten Form: Eizellen aus den Hautzellen toter Nashörner, und Fachleute, die selbst sagen, dass die genetische Vielfalt fehlt.
 
+### → [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
+
+Der Botaniker zeigt am nordamerikanischen Bocksbart, dass neue Arten doch in historischer Zeit entstehen, und gibt Tscharntke im Ergebnis trotzdem recht: Das Zerstörerische des Menschen ist viel leichter nachzuweisen als das Schöpferische. Dazu ein Rand, der anders wirkt als die Hecke: ein Streifen Wald in Kärnten, der eine seltene Witwenblume davor bewahrt, in der häufigen aufzugehen.
+
 ---
 
 ## Weiterdenken

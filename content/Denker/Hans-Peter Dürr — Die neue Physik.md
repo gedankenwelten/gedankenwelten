@@ -265,6 +265,10 @@ Bonhoeffer: Dummheit ist nicht Mangel an Intelligenz, sondern Abdankung des eige
 
 Auch Falcke sagt, die Physik könne die Geschichte im Buch nicht erzählen. Er trennt Gott und Welt aber, wo Dürr sie mit Eckhart in eins setzt: Wer Gott in physikalische Begriffe fasst, „macht Gott ja wieder klein“.
 
+### → [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+
+Die Gegenprobe aus dem Labor: Der Chemiker Oliver Trapp sucht genau den Übergang, den Dürr für unerklärbar hält, von toten Molekülen zu etwas, das sich selbst verändert und ausgelesen wird. Eine nicht-materielle Ebene braucht er dafür nicht, nur Eisenstaub, Licht und eine lange übersehene Stoffklasse. Ob das reicht, ist offen.
+
 ---
 
 ## Weiterführend

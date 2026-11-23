@@ -321,6 +321,10 @@ Die Selektionswissenschaft als Firma: Das Berliner Labor IRIS lässt Roboter Mat
 
 Bogner verlangt genau Yaghis Arbeitsteilung, getrennte Zuständigkeiten für Wissenschaft und Politik, und zeigt, warum ihr Verwischen im „Follow the Science“ die Skepsis antreibt, die sich an der Nähe der Forschung zu Wirtschaft und Politik entzündet.
 
+### → [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+
+Auslese ohne jemanden, der auswählt: Bei Oliver Trapps präbiotischen Katalysatoren setzt sich durch, wer am schnellsten ist. Es ist das Gegenstück zu Yaghis Selektionswissenschaft, in der die Auswahl eine menschliche und darum wertende Entscheidung bleibt.
+
 ---
 
 ## Weiterdenken

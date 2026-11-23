@@ -31,6 +31,15 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-24 · Tag der Evolution
+
+Am 24. November 1859 erschien Charles Darwins Buch über die Entstehung der Arten, *On the Origin of Species*. Es erklärte, wie aus Variation und Auslese die Vielfalt des Lebens wird, und schwieg fast ganz über den allerersten Anfang; den dachte sich Darwin zwölf Jahre später in einem Brief an Joseph Hooker als „warmen kleinen Tümpel“. Zwei Vorträge gehen die beiden Ränder ab: ein Botaniker, der in den Alpen zusieht, wie Arten entstehen und wieder verschwinden, und ein Chemiker, der die Auslese schon bei Molekülen sucht, vor dem Leben. Dazu, was die Evolution aus uns gemacht hat, und wie schnell wir abbauen, was sie aufgebaut hat.
+
+- [[Peter Schoenswetter — Wie in den Alpen neue Arten entstehen]]
+- [[Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+- [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]] — was die Evolution in uns angelegt hat, und warum es zur Welt von heute nicht immer passt
+- [[Teja Tscharntke — Das grosse Artensterben]] — die Gegenrichtung: wie schnell die Vielfalt auf unseren Feldern schwindet
+
 ## 2026-11-20 · Transgender Day of Remembrance
 
 Am 20. November 1995 wurde Chanelle Pickett bei Boston getötet, drei Jahre später Rita Hester, beide Schwarze trans Frauen. Weil der erste Mord so schnell vergessen war, rief die trans Aktivistin Gwendolyn Ann Smith 1999 mit anderen den Gedenktag ins Leben. Seither werden an Picketts Todestag die Namen derer gelesen, die im vergangenen Jahr getötet wurden. Zwei Notes zum Tag: ein Leben, das gelebt werden darf, und der Hass, der solche Leben bedroht.

@@ -236,6 +236,10 @@ Ricœur nannte es sein Los, „immer zwischen zwei Einflüssen platziert" zu sei
 
 Philipp Blom beendet sein Gespräch über die strauchelnde Welt mit Morins Satz „Ich bin weder Optimist noch Pessimist. Ich bin entschlossen.“ Auch sonst denkt er in Morins Art: Lueger als Antisemit und großer Bürgermeister zugleich, die Wut der Abgehängten als berechtigt und doch fehlgeleitet.
 
+### → [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
+
+Morins Schubladen in der Botanik: Eine Pflanzenform, die auf mehreren Bergen unabhängig entstand, „sprengt jedes Artkonzept“, sagt Peter Schönswetter. Er arbeitet trotzdem mit dem Begriff weiter, pragmatisch, und weiß dabei, dass die Evolution sich nicht an ihn hält.
+
 ---
 
 ## Weiterdenken

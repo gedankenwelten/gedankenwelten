@@ -2,9 +2,20 @@
 title: Oliver Trapp — DenkerVita
 description: "Oliver Trapp sucht im Labor den Übergang von Chemie zu Leben: Meteoritenstaub, der CO2 bindet, und kleine Katalysatoren, die sich selbst verändern und der Auslese unterliegen."
 tags: [denker-vita, wissenschaft, chemie, evolution, ursprung-des-lebens, deutschland]
+raetsel: "Im Kolben glimmt etwas Gold. Draußen fällt ein Stern, der es gebracht hat."
 ---
 
 # Oliver Trapp — DenkerVita
+
+![[assets/Oliver-Trapp-vita-banner.jpg|Ölbild im Kerzenlicht-Helldunkel: Auf einem nächtlichen Labortisch stehen unter einer Schreibtischlampe Reagenzgläser und Glaskolben, ein runder Kolben leuchtet golden von innen, daneben liegen dunkle Meteoritenstücke auf einem Teller; im Halbdunkel beugt sich ein Mensch im Laborkittel von hinten gesehen vor, durchs Fenster sieht man eine Sternschnuppe.|1200]]
+
+<details><summary>🎨</summary>
+
+**Joseph Wright of Derby**, der Maler der Experimente bei Kerzenlicht im 18. Jahrhundert, der die Wissenschaft als Staunen im Dunkeln zeigte. Die Note malt die junge Erde unter dem Meteoritenregen; die Vita malt den Chemiker, der diese Geschichte im Kolben nachstellt, mit echten Meteoriten auf dem Teller. Draußen fällt eine Sternschnuppe, als wäre der Nachschub unterwegs. Ein Signaturkürzel unten rechts ist überdeckt.
+
+*Prompt:* Oil painting in the manner of Joseph Wright of Derby, 18th-century candlelit scientific scene, strong chiaroscuro, warm amber light against deep brown darkness, wide horizontal banner. A modern chemistry laboratory bench at night lit by a single lamp: glass flasks, a round-bottom flask glowing faintly golden from within, a small heap of dark meteorite fragments on a white dish, a rack of test tubes casting long shadows; a researcher in a lab coat seen from behind and in half-shadow, leaning toward the glowing flask, face not visible; a window shows a night sky with a faint shooting star. Quiet wonder. No text, no letters, no monogram, no signature.
+
+</details>
 
 ## Biografie
 
@@ -42,7 +53,10 @@ Bücher hat Trapp nicht geschrieben; seine Arbeit steht in Fachartikeln (Liste a
 
 ## Verbindungen zu anderen Denkern
 
-*(wird ergänzt)*
+- [[DenkerVita/Peter Schoenswetter|Peter Schönswetter]] — Wo Trapp Auslese bei Molekülen ohne Vererbung sucht, zeigt der Botaniker Darwins Mechanismus mit vollem Erbgang, bis hin zu einer Art, die an mehreren Bergen unabhängig entstand.
+- [[DenkerVita/Heino Falcke|Heino Falcke]] — Beide erzählen die junge Erde vom Kohlendioxid her, Falcke als Astrophysiker, Trapp aus dem Labor.
+- [[DenkerVita/Omar M. Yaghi|Omar M. Yaghi]] — Yaghi baut Moleküle nach Plan und nennt die Auswahl unter vielen die neue Wissenschaft; in Trapps präbiotischer Chemie wählt niemand, der schnellste Katalysator setzt sich durch.
+- [[DenkerVita/Edgar Morin|Edgar Morin]] — Für Morin bringt eine Organisation Eigenschaften hervor, die keines ihrer Teile hat, beim Leben die Selbstreproduktion; Trapp sucht im Labor die Stelle, an der kleine Moleküle zu einem solchen Netz werden.
 
 ## Gedankenwelten-Notes
 

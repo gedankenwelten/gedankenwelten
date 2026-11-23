@@ -274,6 +274,10 @@ Die größere Skepsis richtet sich laut Bogner gegen die Stellen, an denen Wisse
 
 Das Panorama trennt Beraten, Entscheiden und Umsetzen. Die Nachbesprechung bringt zwei Fälle aus der Medizin dazu: In Dresden lehnten die Gelosten 2001 die Präimplantationsdiagnostik mehrheitlich ab, heute erlaubt das Gesetz sie unter engen Bedingungen; die Münchner Teilnehmer wollten ihr Votum nur als Anstoß verstanden wissen.
 
+### → [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+
+Eine zweite Antwort auf die Frage nach den zwanzig Bausteinen: Der Chemiker Oliver Trapp vermutet, jede dieser Aminosäuren habe in einem kleinen Katalysator gesteckt und sei übrig geblieben, als dieser sich gegen andere durchsetzte. Darwins warmen Tümpel, den der Film erwähnt, hält er aus seinem Labor heraus für weiter im Rennen.
+
 ---
 
 ## Weiterdenken

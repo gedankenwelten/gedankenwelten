@@ -281,6 +281,10 @@ Zimpels Kritik an Schule als Datenspeicher. Thoma's Großvater: *„Lernen kann 
 
 Spitzer: *„Wenn ein Kind 10 Stunden am Tag am Tablet sitzt..."* Thoma: *„Unsere Kinder statt in Betonkindergärten in Weidausschicken."* Beide sagen: Der Körper, die echte Natur, das haptische Erleben — das ist die Bedingung für gesundes Wachstum. Digitale Distanz und Beton sind zwei Seiten derselben Entfremdung.
 
+### → [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+
+Bevor Bäume aus Luft wachsen konnten, musste die Luft selbst zu Molekülen werden: Der Chemiker Oliver Trapp zeigt, wie Eisenstaub aus Meteoriten auf der jungen Erde Kohlendioxid in erste Bausteine verwandelte, und sucht in lichtempfindlichen Schwefelringen einen Vorläufer der Fotosynthese. Den Zufall, mit dem Thoma das erste Chlorophyll erklärt, hält er allein für zu wenig.
+
 ---
 
 ## Weiterführend

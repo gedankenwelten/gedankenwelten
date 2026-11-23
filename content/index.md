@@ -76,6 +76,14 @@ Die Gedankenwelten (luc)
 >
 > Die Zellen einer Frau, die 1951 starb, teilen sich bis heute in Laboren der ganzen Welt. Gefragt hat sie niemand. Eine Reise in die Zelle, die bei dieser Schuld beginnt.
 
+> **23.11.** — [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
+>
+> Eine Art kann in einer Generation entstehen und an einem Waldrand wieder verschwinden: Der Botaniker Peter Schönswetter liest die Alpenflora als laufendes Experiment der Evolution.
+
+> **23.11.** — [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+>
+> Gab es schon Auslese, bevor es Leben gab? Der Chemiker Oliver Trapp sucht Moleküle, die sich selbst verändern, und mit ihnen die Evolution eine Stufe früher, als man sie vermutet.
+
 > **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
 >
 > Zellen, die nicht mehr teilen wollen, eine Schweineniere für 130 Tage, Eizellen aus der Haut eines toten Nashorns: Die Zellforschung lernt eingreifen. Wie weit wollen wir gehen?
@@ -84,15 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Je mehr Maschinen arbeiten, desto teurer wird es, die Arbeitslosen ruhig zu halten, und desto billiger erscheint Gewalt. Ein neues Modell von Acemoglu rechnet das durch, mit Daten belegt ist es noch nicht.
 
-> **22.11.** — [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
->
-> Wie misst man, was man nie sehen wird? Man zählt, wie oft das Seltenste geschieht, und achtet auf die Abweichung. So fand man einst Neptun, bevor ihn jemand sah.
-
-> **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
->
-> Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
-
-> → *1 weitere in* [[Geistesblitz]]
+> → *3 weitere in* [[Geistesblitz]]
 
 ### Panorama
 

@@ -74,14 +74,14 @@
    "aufrufe": 12
   },
   {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
    "leser": 9,
    "aufrufe": 11
   },
   {
-   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
    "leser": 9,
-   "aufrufe": 11
+   "aufrufe": 10
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -102,11 +102,6 @@
    "pfad": "/DenkerVita/Giulia-Enders",
    "leser": 8,
    "aufrufe": 9
-  },
-  {
-   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-   "leser": 8,
-   "aufrufe": 8
   },
   {
    "pfad": "/DenkerVita/Byung-Chul-Han",
@@ -154,6 +149,11 @@
    "aufrufe": 7
   },
   {
+   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+   "leser": 7,
+   "aufrufe": 7
+  },
+  {
    "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
    "leser": 6,
    "aufrufe": 8
@@ -177,6 +177,11 @@
    "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
    "leser": 6,
    "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Hannah-Arendt",
+   "leser": 5,
+   "aufrufe": 7
   },
   {
    "pfad": "/DenkerVita/Kerstin-Paschke",
@@ -232,11 +237,6 @@
    "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
    "leser": 5,
    "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Hannah-Arendt",
-   "leser": 4,
-   "aufrufe": 6
   },
   {
    "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
@@ -315,13 +315,13 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 18,
-     "aufrufe": 21
+     "leser": 17,
+     "aufrufe": 20
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 14,
-     "aufrufe": 14
+     "leser": 13,
+     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -335,13 +335,13 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 10,
-     "aufrufe": 12
+     "leser": 9,
+     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "leser": 9,
-     "aufrufe": 11
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -429,6 +429,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Hannah-Arendt",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Jan-Keno-Janssen",
      "leser": 3,
      "aufrufe": 3
@@ -484,11 +489,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
      "leser": 2,
      "aufrufe": 2
@@ -520,11 +520,6 @@
     },
     {
      "pfad": "/DenkerVita/Gert-Scobel",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 2,
      "aufrufe": 2
     },
@@ -607,6 +602,11 @@
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 2,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
+     "leser": 2,
+     "aufrufe": 2
     }
    ]
   },
@@ -684,14 +684,14 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 9,
      "aufrufe": 11
     },
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "leser": 9,
-     "aufrufe": 11
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -712,11 +712,6 @@
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 8,
      "aufrufe": 9
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 8,
-     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
@@ -764,6 +759,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
      "leser": 6,
      "aufrufe": 8
@@ -787,6 +787,11 @@
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 6,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Hannah-Arendt",
+     "leser": 5,
+     "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Kerstin-Paschke",
@@ -842,11 +847,6 @@
      "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
      "leser": 5,
      "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Hannah-Arendt",
-     "leser": 4,
-     "aufrufe": 6
     },
     {
      "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
@@ -1066,7 +1066,7 @@
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "leser": 12,
-     "aufrufe": 15
+     "aufrufe": 14
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
@@ -1124,6 +1124,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Hannah-Arendt",
+     "leser": 10,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
      "aufrufe": 12
@@ -1152,11 +1157,6 @@
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "leser": 9,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/DenkerVita/Hannah-Arendt",
-     "leser": 9,
-     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
@@ -1371,7 +1371,7 @@
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "leser": 12,
-     "aufrufe": 15
+     "aufrufe": 14
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
@@ -1429,6 +1429,11 @@
      "aufrufe": 13
     },
     {
+     "pfad": "/DenkerVita/Hannah-Arendt",
+     "leser": 10,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 10,
      "aufrufe": 12
@@ -1457,11 +1462,6 @@
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "leser": 9,
      "aufrufe": 12
-    },
-    {
-     "pfad": "/DenkerVita/Hannah-Arendt",
-     "leser": 9,
-     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
@@ -1589,11 +1589,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 7,
      "aufrufe": 7
@@ -1620,6 +1615,11 @@
     },
     {
      "pfad": "/DenkerVita/Giulia-Enders",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 7,
      "aufrufe": 7
     },
@@ -1684,6 +1684,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Hannah-Arendt",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 4,
      "aufrufe": 4
@@ -1710,11 +1715,6 @@
     },
     {
      "pfad": "/DenkerVita/Pascal-Kaufmann",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 4,
      "aufrufe": 4
     },

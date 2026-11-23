@@ -2,9 +2,20 @@
 title: Peter Schönswetter — DenkerVita
 description: "Peter Schönswetter liest die Eiszeiten aus dem Erbgut der Alpenpflanzen. Er zeigt, wie dort Arten entstehen und vergehen: durch Gletscher, verdoppelte Chromosomen und Kreuzung."
 tags: [denker-vita, wissenschaft, biologie, botanik, evolution, biodiversität, alpen, österreich]
+raetsel: "Er kniet im Geröll und liest ein Polster, das kleiner ist als seine Hand."
 ---
 
 # Peter Schönswetter — DenkerVita
+
+![[assets/Peter-Schoenswetter-vita-banner.jpg|Gemälde in klaren Konturen und flachen Farbbändern: Ein Mann mit Hut kniet von hinten gesehen auf einem hellen Kalkgeröllhang, ein Notizbuch in der Hand, neben ihm eine grüne Botanisiertrommel, vor ihm ein kleines Pflanzenpolster; dahinter wiederholen sich Bergketten in Türkis, Weiß und Ocker, darüber eine Reihe gleicher ovaler Wolken.|1200]]
+
+<details><summary>🎨</summary>
+
+**Ferdinand Hodler**, die späten Alpenbilder mit ihrem Parallelismus: Bergketten und Wolken, die sich in ruhigen Reihen wiederholen. Die Note malt das Thema, den Waldrand zwischen zwei Arten; die Vita malt den Menschen bei der Arbeit, die Schönswetter selbst als „klassische Botanik“ beschreibt. Einer kniet im Geröll vor einem Pflanzenpolster, mit Notizbuch und Botanisiertrommel, und die Ordnung der Landschaft hinter ihm ist die, nach der er sucht.
+
+*Prompt:* Painting in the style of Ferdinand Hodler's late alpine landscapes, Swiss symbolist parallelism, clear contour lines, flat planes of turquoise, white and ochre, wide horizontal banner. A lone small figure of a botanist seen from behind, kneeling on a high limestone scree slope, bending over a tiny cushion plant with a notebook and a green metal plant collecting tin beside him; above him rhythmic rows of mountain ridges and a band of flat oval clouds repeating across a pale sky; calm, ordered, contemplative; no face visible. No text, no letters, no monogram, no signature.
+
+</details>
 
 ## Biografie
 
@@ -40,7 +51,11 @@ Bücher hat Schönswetter nicht geschrieben; sein Werk sind gut 150 begutachtete
 
 ## Verbindungen zu anderen Denkern
 
-*(wird ergänzt)*
+- [[DenkerVita/Teja Tscharntke|Teja Tscharntke]] — Der Agrarökologe will Schutzgebiete vernetzen, damit kleine Populationen in Kontakt bleiben; Schönswetter zeigt eine seltene Art, die gerade ein trennender Waldstreifen vor der Kreuzung mit der häufigen bewahrt.
+- [[DenkerVita/Alexander Bogner|Alexander Bogner]] — Bogner warnt davor, Wertfragen als Wissensfragen auszugeben; Schönswetter nennt den Artrang seltener Formen offen eine halb politische Entscheidung.
+- [[DenkerVita/Edgar Morin|Edgar Morin]] — Morins Kritik an den geistigen Schubladen trifft auf einen Botaniker, der die Taxonomie ein künstliches System nennt und trotzdem pragmatisch mit ihr arbeitet.
+- [[DenkerVita/Heino Falcke|Heino Falcke]] — Falcke erzählt die Welt als Folge von Katastrophen, aus denen Neues wuchs; Schönswetters Eiszeit-Refugien sind ein Kapitel davon im Maßstab eines Gebirges.
+- [[DenkerVita/Oliver Trapp|Oliver Trapp]] — Trapp sucht die Auslese vor dem Leben, bei Molekülen ohne Erbgang; Schönswetter liest sie im Erbgut der Alpenpflanzen, wo die Vererbung jede Spur bewahrt hat.
 
 ## Gedankenwelten-Notes
 

@@ -388,6 +388,14 @@ Harari hält die Wissenschaft für „fantasievoller als jede Mythologie“, abe
 ### → [[Denker/Franziska Meier — Camus Die Pest#Das Kind|Franziska Meier — Der Krankheit einen Namen geben]]
 Die Szene, an der sich jede Theodizee messen lassen muss. In Camus' *Pest* stirbt ein Kind lange und qualvoll, der Jesuit Paneloux kann das Leiden danach nicht mehr Strafe nennen, und für Meier wird hier jeder Versuch, die Seuche zu deuten, fragwürdig. Falckes Antwort aus der Freiheit reicht nicht bis dorthin, ein Bazillus hat keine; er weiß es selbst, wenn er sagt, im Moment des Leidens helfe sie nicht viel.
 
+### → [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
+
+Eine von Falckes Katastrophen im Maßstab eines Gebirges: Das Eis trennte die Alpenpflanzen in Refugien, und aus der Trennung wurden Arten. Der Botaniker zeigt auch die Kehrseite: Wer die trennenden Grenzen räumt, gewinnt nicht gleich Neues, er verliert zuerst das Seltene.
+
+### → [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+
+Ein Kapitel vor Falckes erstem Leben: Nach dem Chemiker Oliver Trapp hing der Anfang daran, dass Eisenstaub aus verglühenden Meteoriten das Kohlendioxid der Uratmosphäre in erste Bausteine verwandelte. Auch er sieht über den Zufall hinaus eine Richtung, bei ihm heißt sie eine Chemie, die „intrinsisch programmiert“ sei.
+
 ---
 
 ## Weiterdenken

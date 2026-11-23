@@ -289,6 +289,10 @@ Löschel lebt die Rolle, die Bogner am Ende fordert: bei den eigenen Leisten ble
 
 Zeigt Bogners Schnittstelle an der Xenotransplantation: Die Forscher, die im Film für die Schweineniere sprechen, sind mit den Firmen verbunden, die sie liefern, und der Film sagt es nicht.
 
+### → [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
+
+Bogners Grenze zwischen Wissen und Werten, an einer Alpenpflanze: Ob eine seltene Form als Art gilt, nennt der Botaniker Peter Schönswetter offen „fast ein bisschen mehr politische Entscheidung als eine wissenschaftliche“, weil der Rang mitentscheidet, ob man sie schützt.
+
 ---
 
 ## Weiterdenken

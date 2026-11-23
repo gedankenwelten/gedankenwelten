@@ -271,3 +271,11 @@ Dieselbe Lichtablenkung, die Popper 1919 lehrte, dass Bestätigung kein Beweis i
 
 Die Kübeltheorie hat eine Gegenwart im Börsenhandel: Der Informatiker Wolfgang Coy hält Data Mining und Big Data entgegen, aus Messdaten allein hätte Galilei das Fallgesetz nie gefunden. Das Entscheidende an der Börse sei das Feld, für das auf seiner Folie nur ein Wort steht: Überraschung.
 
+### → [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
+
+Ein schwarzer Schwan aus der Botanik: Der Kleine Strahlensame bringt an bis zu fünf Bergen unabhängig dieselbe Form hervor, und das „sprengt jedes Artkonzept“. Weggeworfen wird der Begriff nicht. Er bleibt als Werkzeug, und das stellt Poppers Schwanen-Prinzip auf die Probe.
+
+### → [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+
+Versuch und Irrtum vor der Amöbe: Der Chemiker Oliver Trapp sucht Auslese schon bei Molekülen, die sich selbst abwandeln, und hält den blinden Versuch nur für den allerersten Schritt. Offen bleibt bei ihm, was Poppers Bild voraussetzt, nämlich dass das Gelungene behalten wird.
+
