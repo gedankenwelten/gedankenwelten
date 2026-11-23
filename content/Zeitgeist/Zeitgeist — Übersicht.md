@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*386 Notes — automatisch generiert · nach Thema sortiert*
+*387 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -113,6 +113,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]] — Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
 - [[Zeitgeist/Elon Musk — Ich bin nicht MAGA|Elon Musk — „Ich bin nicht MAGA“]] — Nach der verlorenen Wahl nennt sich Elon Musk moderat und „nicht MAGA“, er sei nicht sicher, was das heiße. Vor zwei Jahren stand er mit der Mütze auf der Bühne.
 - [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]] — Eine Regierung abzuwählen ist leichter, als ein Regime abzubauen. Kurz vor der Ungarn-Wahl zeigt Ernst Gelegs, welche Schlösser Orbán in den Staat eingebaut hat.
+- [[Zeitgeist/Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit|Erziehung zur Grausamkeit]] — Was wird aus einem Menschen, der zehn Jahre lang mit Wut gefüttert wird? Robert Misik beschreibt Lehrjahre der Unbarmherzigkeit, Antonie Rietzschel hält ihr Dorf dagegen.
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Für Eva von Redecker verteidigt der Faschismus einen Phantombesitz gegen einen erfundenen Plünderer. Mit Tilo Jung prüft sie die Definition an Yarvin, dem Großen Austausch und dem Iran-Krieg.
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]] — Mark Zuckerberg lebt seit seinem 18. Lebensjahr in einer Welt, die er selbst gebaut hat. Evan Osnos über Ultrareiche ohne Reibung, die wissen, wohin Ungleichheit führt, und Bunker bauen.
 - [[Zeitgeist/FRONTLINE — Bannons War|FRONTLINE — Bannon’s War]] — Ein Arbeitersohn, der den Glauben an die Institutionen verlor und beschloss, sie einzureißen. FRONTLINE zeigt Bannons Weg, der Guardian, wie weit sein Netz in Europa trug.
