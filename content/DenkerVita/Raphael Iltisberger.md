@@ -1,6 +1,6 @@
 ---
 title: Raphael Iltisberger — DenkerVita
-description: "Hype verkauft eine Zukunft als Gewissheit, sagt Raphael Iltisberger. Der Zukunftsforscher hält dagegen: Was kommt, gestalten wir mit dem, was wir heute tun."
+description: "Hype verkauft eine Zukunft als Gewissheit, sagt Raphael Iltisberger. Als Zukunftsforscher, wie er sich nennt, hält er dagegen: Was kommt, können wir heute mitgestalten."
 date: 2026-06-03
 aktualisiert: 2026-11-22
 tags: [denker-vita, ki, technologie, medien, wirtschaft, zukunftsforschung, innovation]
@@ -87,12 +87,12 @@ Vieles sagt er im „wir“ des gemeinsamen Vortrags. Als gemeinsame Position ge
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Georgina Neitzel]] — Seine Partnerin im Forschungsprojekt „Hype Is a System“. Er trägt im Vortrag die Merkmale von Hype, die Folgen und den Umgang damit vor, sie das Systemmodell. Sie leitet das Innovation Lab eines Versicherers und gehört damit selbst zu einer der Akteursgruppen, die das Modell beschreibt.
+- [[DenkerVita/Georgina Neitzel]] — Seine Partnerin im Forschungsprojekt „Hype Is a System“. Er trägt im Vortrag die Merkmale von Hype, die Folgen und den Umgang damit vor, sie das Systemmodell. Sie leitet das Innovation Lab eines Versicherers und gehört damit, so lesen wir es, selbst zu einer der Akteursgruppen, die das Modell beschreibt.
 - [[DenkerVita/Constanze Kurz]] — Eine nüchterne Stimme, wie sie die Fragerunde meint: Kurz nennt Sprachmodelle stochastische Papageien, ohne Panik und ohne Heilsversprechen. Solche Stimmen veröffentlichten viel, sagt Iltisberger; offen sei, wie sie die Aufmerksamkeit bekommen, die sie vielleicht verdienen.
-- [[DenkerVita/Ronnie Vuine]] — Der Gegenfall zu Kurz: ein Robotiker, der die Grenzen seiner Technik kennt, sich mit Zuspitzung Gehör verschafft und vom Kanal als „brutale Wahrheit“ verkauft wird. Sein Einwand gegen die Alignment-Debatte, wer „die Menschheit“ definiere, herrsche über dieses Wir, trifft, was Iltisberger über Warnbriefe sagt: Auch die Warnung kann Macht bei wenigen bündeln.
+- [[DenkerVita/Ronnie Vuine]] — Der Gegenfall zu Kurz: ein Robotiker, der die Grenzen seiner Technik kennt, sich mit Zuspitzung Gehör verschafft und vom Kanal als „brutale Wahrheit“ verkauft wird, also die Schleife bedient, die er kritisiert. Sein Einwand gegen die Alignment-Debatte, wer „die Menschheit“ definiere, herrsche über dieses Wir, trifft, was Iltisberger über Warnbriefe sagt: Auch die Warnung kann Macht bei wenigen bündeln.
 - [[DenkerVita/Christian Bauckhage]] — Die härteste Probe für das erste Merkmal, die Vision als Gewissheit. Bauckhage trennt selbst sauber zwischen schwacher und starker KI, gerade gegen den Hype, und sagt doch: „Wir haben noch gar nichts gesehen.“ Sein Beleg ist, dass sich jedes „Ja, aber“ der letzten zwei Jahre nach drei Monaten erledigt hatte. Iltisberger würde jede solche Prognose „with a grain of salt“ nehmen und nach der Geschichte der Technik fragen; wann aus nüchterner Hochrechnung Hype wird, beantwortet keiner der beiden.
 - [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] (Note, keine DenkerVita) — Mühlhoff beschreibt ein „Orchester“ aus Industrie, Investoren, Politik und Medien, das technische Wirklichkeit und öffentlichen Glauben auseinandertreibt. Iltisbergers erste Frage, „who benefits if this is true“, ist die Machtfrage in einem Satz; Mühlhoff führt sie politisch zu Ende.
-- [[DenkerVita/Frederike Kaltheuner]] — Kaltheuner erzählte auf derselben re:publica, sie habe ihre Sprache den Politikerräumen angepasst und darin Selbstzensur erkannt: das Dilemma, das Iltisberger in der Fragerunde beschreibt, in der ersten Person. Mit Carsten Jung setzt sie dem Hype staatlich gesetzte Missionen entgegen. Ob eine Mission nicht ihrerseits eine Zukunft als entschieden ausgibt, bleibt die Reibung.
+- [[DenkerVita/Frederike Kaltheuner]] — Kaltheuner erzählte auf derselben re:publica, sie habe ihre Sprache den Politikerräumen angepasst und darin Selbstzensur erkannt: das Dilemma, das Iltisberger in der Fragerunde beschreibt, in der ersten Person. Mit Carsten Jung setzt sie dem Hype staatlich gesetzte Missionen entgegen, die die Kapital-Schleife umlenken sollen, statt sie zu ignorieren. Ob eine Mission nicht ihrerseits eine Zukunft als entschieden ausgibt, bleibt die Reibung.
 - [[DenkerVita/Maja Goepel]] — Göpels „tyrannische Zahlen“, Kennziffern, die den Bezug zu ihrer Wirklichkeit verloren haben und trotzdem Handlungsdruck erzeugen, sind das wirtschaftspolitische Gegenstück zur Hype-Anatomie. Gegen eine Zukunft, die als entschieden verkauft wird, setzen beide ihre Gestaltbarkeit: Göpel als Mut zur Zukunft, Iltisberger mit der Prämisse der Zukunftsforschung, „The future is not predetermined“.
 
 ---

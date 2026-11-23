@@ -26,7 +26,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Alexander Teske|Alexander Teske]]** — Journalist, sechs Jahre Planungsredakteur der ARD-Tagesschau, Autor von *inside TAGESSCHAU*; Medienkritik als Herkunftsargument — Redaktionen als sozial homogener Zirkel, dessen „getönte Brille" schon bei der Themenauswahl wirkt, nicht erst in der Formulierung
 
-**[[DenkerVita/Alexander Thiele|Alexander Thiele]]** — Staatsrechtler (BSP Business & Law School Berlin), Verfassungsblog-Editor; Demokratie als Ordnung, die das Verlieren organisierbar macht — Rechtspopulisten als Demokratiefeinde, aber gegen ein AfD-Verbot, weil es kein einziges der Defizite repariert, die die AfD groß gemacht haben
+**[[DenkerVita/Alexander Thiele|Alexander Thiele]]** — Staatsrechtler (BSP Business & Law School Berlin), Verfassungsblog-Editor; gleiche politische Freiheit als Grundversprechen der Demokratie — Rechtspopulisten als ihre Feinde; 2024 Mitautor einer Stellungnahme für ein AfD-Verbot, 2026: „kann man machen oder kann man lassen“, aber keine Lösung für die Defizite
 
 **[[DenkerVita/Adam Johnson|Adam Johnson]]** — US-Medienkritiker & Journalist, Co-Host des Podcasts *Citations Needed*, FAIR-Analyst; Kritik der journalistischen Norm in der Tradition von *Manufacturing Consent*; *How to Sell a Genocide* (2026) über die mediale Komplizenschaft im Gaza-Krieg
 
@@ -384,7 +384,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Joon Sung Park|Joon Sung Park]]** — Informatiker (Stanford-PhD bei Bernstein & Liang, Mitgründer und CEO von Simile); Erfinder der Generative Agents: das „Smallville"-Dorf mit 25 KI-Agenten (Gedächtnis, Reflexion, Planung), 2024 Agenten-Simulationen von 1.052 realen Menschen — Gesellschaftssimulation als Labor für Entscheidungen
 
-**[[DenkerVita/Jihan Alomar|Jihan Alomar]]** — Jesidische Überlebende des Völkermords vom 3. August 2014, Zeitzeugin & Bildungsreferentin; mit zehn Jahren zehn Monate in IS-Gefangenschaft, heute Tübingen; Buch *Dankbarkeit — Die schlimmste Zeit meines Lebens* (2021), HÁWAR.help-Wertebotschafterin, Protagonistin von „Bêmal — Heimatlos"
+**[[DenkerVita/Jihan Alomar|Jihan Alomar]]** — Jesidische Überlebende des Völkermords vom 3. August 2014, Zeitzeugin; mit zehn Jahren zehn Monate in IS-Gefangenschaft, heute Tübingen; Buch *Dankbarkeit — Die schlimmste Zeit meines Lebens* (2021), HÁWAR.help-Wertebotschafterin, Protagonistin von „Bêmal — Heimatlos"
 
 **[[DenkerVita/Jan van Aken|Jan van Aken]]** — Biologe, 2004–2006 UN-Biowaffeninspekteur, zuvor Greenpeace-Gentechnikexperte; Vorsitzender der Linken von Oktober 2024 bis Juni 2026; Primat des Zivilen, strukturelle Nichtangriffsfähigkeit (nach Egon Bahr), EU- und Landesverteidigung ja — weltweite Machtprojektion nein
 
@@ -752,7 +752,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Christine Schliesser|Christine Schliesser]]** — Theologie/Ethik, Zürcher Bonhoeffer-Forscherin („Wer verantwortlich handelt, wird schuldig“), die nach dem Genozid in Ruanda fragt, wie Versöhnung wächst
 
-**[[DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest das Finanzsystem als soziales Netzwerk (*SuperHubs*) — nicht Institutionen regieren, sondern einige hundert Menschen in dessen Knotenpunkten; nüchterne, juristisch geführte Trump-Kritik
+**[[DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest die Finanzelite über ihre Netzwerke und Knotenpunkte (*Super-hubs*); Trump-Kritik von der Juristin: „es gibt nichts, was nicht monetarisierbar ist“
 
 **[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 

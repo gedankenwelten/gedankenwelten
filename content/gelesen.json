@@ -36,7 +36,7 @@
   {
    "pfad": "/DenkerVita/Kalayo",
    "leser": 25,
-   "aufrufe": 29
+   "aufrufe": 28
   },
   {
    "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -70,8 +70,8 @@
   },
   {
    "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-   "leser": 11,
-   "aufrufe": 11
+   "leser": 12,
+   "aufrufe": 12
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -345,8 +345,8 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 6,
-     "aufrufe": 6
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -394,17 +394,17 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Kalayo",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
      "leser": 4,
      "aufrufe": 5
     },
     {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
      "leser": 4,
      "aufrufe": 4
     },
@@ -500,11 +500,6 @@
     },
     {
      "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Walther-Ziegler-Schopenhauer-in-60-Minuten",
      "leser": 2,
      "aufrufe": 2
     },
@@ -607,6 +602,11 @@
      "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
      "leser": 1,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Arnd-Henze",
+     "leser": 1,
+     "aufrufe": 2
     }
    ]
   },
@@ -646,7 +646,7 @@
     {
      "pfad": "/DenkerVita/Kalayo",
      "leser": 25,
-     "aufrufe": 29
+     "aufrufe": 28
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -680,8 +680,8 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 11,
-     "aufrufe": 11
+     "leser": 12,
+     "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -971,7 +971,7 @@
     {
      "pfad": "/DenkerVita/Kalayo",
      "leser": 33,
-     "aufrufe": 37
+     "aufrufe": 36
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -1029,6 +1029,11 @@
      "aufrufe": 17
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 16,
+     "aufrufe": 16
+    },
+    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 16,
      "aufrufe": 16
@@ -1037,11 +1042,6 @@
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 15,
      "aufrufe": 17
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 15,
-     "aufrufe": 15
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -1276,7 +1276,7 @@
     {
      "pfad": "/DenkerVita/Kalayo",
      "leser": 33,
-     "aufrufe": 37
+     "aufrufe": 36
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -1334,6 +1334,11 @@
      "aufrufe": 17
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 16,
+     "aufrufe": 16
+    },
+    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 16,
      "aufrufe": 16
@@ -1342,11 +1347,6 @@
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 15,
      "aufrufe": 17
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 15,
-     "aufrufe": 15
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -1585,8 +1585,8 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 8,
-     "aufrufe": 8
+     "leser": 9,
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
