@@ -34,9 +34,9 @@ Quelle: [Fake News, Experten, Zweifel: Kant hatte recht – scobel](https://www.
 Primärtext: Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), in: *Berlinische Monatsschrift*
 
 > [!info] Wer spricht?
-> **Immanuel Kant** (*1724, Königsberg — †1804, Königsberg*) — der vielleicht folgenreichste Denker der westlichen Neuzeit. Lebt und stirbt in derselben Stadt; reist nie weiter als 150 km von seinem Geburtsort. Und trotzdem revolutioniert er das Denken gleich zweifach: erkenntnistheoretisch mit der *Kritik der reinen Vernunft* (1781) und moralisch mit der *Kritik der praktischen Vernunft* (1788).
+> **Immanuel Kant** (*1724, Königsberg — †1804, Königsberg*) — der vielleicht folgenreichste Denker der westlichen Neuzeit. Lebt und stirbt in derselben Stadt; Ostpreußen hat er nie verlassen. Und trotzdem revolutioniert er das Denken gleich zweifach: erkenntnistheoretisch mit der *Kritik der reinen Vernunft* (1781) und moralisch mit der *Kritik der praktischen Vernunft* (1788).
 >
-> Kant wächst in bescheidenen pietistischen Verhältnissen auf — sein Vater ist Sattler. Die Strenge der protestantischen Erziehung und die Freiheit des Denkens stehen von Anfang an in Spannung. Als Hauslehrer und später Privatdozent kämpft er jahrelang um eine Professur, die er erst mit 46 Jahren erhält. Diese lange Wartezeit des unerkannten Denkens formt ihn: Er weiß aus eigener Erfahrung, was es kostet, eigenständig zu denken — gegen Institutionen, gegen Konventionen, gegen Erwartungen.
+> Kant wächst in einem pietistischen Haus auf, sein Vater ist Riemermeister. Die Strenge der protestantischen Erziehung und die Freiheit des Denkens stehen von Anfang an in Spannung. Er ist Hauslehrer und viele Jahre Magister, gesellig und in Königsberg umworben, man nennt ihn den „eleganten Magister“. Um eine Professur bewirbt er sich zweimal vergeblich; mit 45 wird er 1770 Professor für Logik und Metaphysik.
 >
 > Der *Aufklärungsaufsatz* von 1784 ist kein schweres Werk — er ist ein journalistischer Text, geschrieben als Antwort auf eine Zeitungsdebatte. Und genau darin liegt seine Kraft: Kant hält das Höchste für alle für sagbar.
 >
@@ -53,9 +53,9 @@ Primärtext: Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), in: *B
 
 [▶ 1:32](https://www.youtube.com/watch?v=8zMbaYpyZHk&t=92)
 
-1784. Der Berliner Theologe J. F. Zöllner schreibt in der *Berlinischen Monatsschrift* gegen den Begriff „Aufklärung" — er hält ihn für eine modische Provokation, eine Gefahr für Sitte und Ordnung. Er fragt anklagend: Was ist eigentlich Aufklärung? Diese Frage sei bisher nirgends beantwortet worden.
+Dezember 1783. Der Berliner Pfarrer Johann Friedrich Zöllner schreibt in der *Berlinischen Monatsschrift* einen Aufsatz mit dem Titel „Ist es rathsam, das Ehebündniß nicht ferner durch die Religion zu sanciren?“. Darin steht eine Fußnote: *„Was ist Aufklärung? Diese Frage, die beinahe so wichtig ist, als: was ist Wahrheit, sollte doch wol beantwortet werden, ehe man aufzuklären anfange! Und noch habe ich sie nirgends beantwortet gefunden!“* Scobel liest das als Vorwurf: Zöllner habe Aufklärung für eine modische Provokation gehalten, die sich zur Revolution steigern könne.
 
-Kant antwortet — in derselben Zeitschrift, in drei Sätzen, die zu einem philosophischen Programm anschwellen.
+Kant antwortet ein Jahr später, im Dezember 1784, in derselben Zeitschrift, in drei Sätzen, die zu einem philosophischen Programm anschwellen.
 
 Der Kontext ist entscheidend: Drei Jahre zuvor hatte Kant die *Kritik der reinen Vernunft* veröffentlicht und damit eine stille Revolution ausgelöst. Nicht die Vernunft kreist um die Sinne — sondern die Sinne um die Regeln der Vernunft. Es ist die in uns allen steckende Vernunft, die die Bedingungen von Erkenntnis überhaupt erst ermöglicht. Diese Vernunft, sagt Kant jetzt, ist keine passive Gabe. Sie wird erst im Gebrauch wirklich.
 
@@ -156,7 +156,7 @@ Diese Unterscheidung ist die strukturelle Grundlage von Pressefreiheit, Gewissen
 
 Kant ist kein Revolutionär. Er begrüßt die Ideen der Französischen Revolution — aber er warnt vor der Illusion, dass ein politischer Umsturz die Köpfe verändert:
 
-> *„Eine Revolution wird keineswegs eine wahre Reform der Denkungsart bewerkstelligen, sondern neue Vorurteile werden ebensowohl als die alten zum Leitbande des gedankenlosen großen Haufens dienen."*
+> *„Durch eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism und gewinnsüchtiger oder herrschsüchtiger Bedrückung, aber niemals wahre Reform der Denkungsart zu Stande kommen; sondern neue Vorurtheile werden eben sowohl als die alten zum Leitbande des gedankenlosen großen Haufens dienen."* (AA VIII 36)
 
 Aufklärung ist kein Zustand, der erreicht werden kann. Sie ist ein Prozess — und ein gefährdeter dazu. *„Aufklärung kann schal werden. Sie kann verderben."* Selber zu denken bleibt eine permanente Aufgabe, keine einmal errungene Errungenschaft.
 
@@ -233,3 +233,6 @@ Und der Schlusssatz des Essays ist überraschend schlicht: Der Mensch ist **mehr
 - [[Sibylle Anderl — Bequeme neue Welt#Keine Faulheit, eine Selbstvergessenheit|Sibylle Anderl — Bequeme neue Welt]] — Kants „Es ist so bequem, unmündig zu sein“, gut 240 Jahre später: Die Smartwatch ist der Arzt, der für einen die Diät beurteilt. Die Ursache sucht Anderl in der Selbstvergessenheit derer, die im Hamsterrad mitlaufen, nicht in Faulheit und Feigheit.
 
 - [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden|Hedwig Richter — Petitionen statt Barrikaden]] — Kants Satz, eine Revolution bringe „niemals wahre Reform der Denkungsart“, an der Geschichte des Frauenwahlrechts geprüft: Die Historikerin Hedwig Richter zeigt, wie lange es selbstverständlich war, dass Frauen nicht wählen, und wie sich diese Denkungsart über Vereine, Petitionen und die Reform des Wahllokals langsam änderte. Kants eigener Text zählt „das ganze schöne Geschlecht“ zu denen, die den Schritt zur Mündigkeit für gefährlich halten; dafür sorgten die Vormünder.
+
+> [!note] Korrigiert am 23.11.2026
+> Hier stand, Zöllner habe 1784 „gegen den Begriff Aufklärung“ geschrieben. Seine Frage stand im Dezember 1783 in einer Fußnote, in einem Aufsatz über die kirchliche Trauung; die Deutung als Vorwurf ist Scobels Lesart und steht jetzt bei ihm. Im Kasten über Kant standen die „150 km“ (belegt ist nur: Ostpreußen hat er nie verlassen), der Vater als Sattler (Riemermeister) und die Professur mit 46 (45). Gestrichen ist die Deutung einer „langen Wartezeit des unerkannten Denkens“: Der Magister Kant war in Königsberg gesellig und umworben. Das Zitat über die Revolution steht jetzt im Wortlaut der Akademie-Ausgabe.

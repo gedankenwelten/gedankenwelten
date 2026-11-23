@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 113,
-   "aufrufe": 137
+   "aufrufe": 138
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -179,6 +179,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/DenkerVita/Kerstin-Paschke",
+   "leser": 5,
+   "aufrufe": 7
+  },
+  {
    "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
    "leser": 5,
    "aufrufe": 7
@@ -239,6 +244,11 @@
    "aufrufe": 5
   },
   {
+   "pfad": "/DenkerVita/Judith-Mangelsdorf",
+   "leser": 4,
+   "aufrufe": 5
+  },
+  {
    "pfad": "/DenkerVita/Lilith-Roska",
    "leser": 4,
    "aufrufe": 5
@@ -289,17 +299,7 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Kerstin-Paschke",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/DenkerVita/Pascal-Kaufmann",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/DenkerVita/Petra-Gehring",
    "leser": 4,
    "aufrufe": 4
   }
@@ -316,7 +316,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 19,
-     "aufrufe": 22
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -379,11 +379,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Kolja-Moeller",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 5,
      "aufrufe": 5
@@ -405,6 +400,11 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 4,
      "aufrufe": 4
     },
@@ -569,6 +569,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Gilda-con-Arne-23-AfD-vorerst-nicht-gesichert-rechtsextrem-and-Iran-Krieg-Update",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/DenkerVita/Lena-Kotre",
      "leser": 1,
      "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
-     "leser": 1,
-     "aufrufe": 2
     }
    ]
   },
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 113,
-     "aufrufe": 137
+     "aufrufe": 138
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -789,6 +789,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "leser": 5,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 5,
      "aufrufe": 7
@@ -849,6 +854,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 4,
      "aufrufe": 5
@@ -899,17 +909,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Pascal-Kaufmann",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Petra-Gehring",
      "leser": 4,
      "aufrufe": 4
     }
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1026,
-     "aufrufe": 1237
+     "aufrufe": 1238
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1134,6 +1134,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+     "leser": 10,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 9,
      "aufrufe": 13
@@ -1164,11 +1169,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 9,
      "aufrufe": 9
@@ -1179,12 +1179,22 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "leser": 8,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/DenkerVita/Juergen-Kornmeier",
      "leser": 8,
      "aufrufe": 11
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 8,
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 8,
      "aufrufe": 10
     },
@@ -1205,16 +1215,6 @@
     },
     {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Dirk-Specht",
      "leser": 8,
      "aufrufe": 8
     }
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1026,
-     "aufrufe": 1237
+     "aufrufe": 1238
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1439,6 +1439,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+     "leser": 10,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "leser": 9,
      "aufrufe": 13
@@ -1469,11 +1474,6 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "leser": 9,
      "aufrufe": 9
@@ -1484,12 +1484,22 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "leser": 8,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/DenkerVita/Juergen-Kornmeier",
      "leser": 8,
      "aufrufe": 11
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 8,
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 8,
      "aufrufe": 10
     },
@@ -1510,16 +1520,6 @@
     },
     {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Dirk-Specht",
      "leser": 8,
      "aufrufe": 8
     }
@@ -1724,6 +1724,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Christof-Spitz",
      "leser": 3,
      "aufrufe": 3
@@ -1790,11 +1795,6 @@
     },
     {
      "pfad": "/DenkerVita/Ulf-Poschardt",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 3,
      "aufrufe": 3
     },

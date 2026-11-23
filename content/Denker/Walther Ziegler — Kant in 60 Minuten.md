@@ -33,9 +33,9 @@ Quelle: [Kant in 60 Minuten](https://www.youtube.com/watch?v=q2Wky9MKw50)
 > [!info] Wer spricht?
 > **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Kant-Vortrag komprimiert die beiden Hauptwerke — *Kritik der reinen Vernunft* und *Kritik der praktischen Vernunft* — auf ihre Kerngedanken und macht sie mit lebendigen Alltagsbeispielen greifbar: vom Autobahnhindernis bis zum Schlittschuhläufer, der im Eis einbricht. → [[DenkerVita/Walther Ziegler|DenkerVita]]
 >
-> **Immanuel Kant** (*1724, Königsberg — †1804, Königsberg*) — der vielleicht folgenreichste Denker der westlichen Neuzeit. Lebt und stirbt in derselben Stadt; reist nie weiter als 150 km von seinem Geburtsort. Und trotzdem revolutioniert er das Denken gleich zweifach: erkenntnistheoretisch mit der *Kritik der reinen Vernunft* (1781) und moralisch mit der *Kritik der praktischen Vernunft* (1788).
+> **Immanuel Kant** (*1724, Königsberg — †1804, Königsberg*) — der vielleicht folgenreichste Denker der westlichen Neuzeit. Lebt und stirbt in derselben Stadt; Ostpreußen hat er nie verlassen. Und trotzdem revolutioniert er das Denken gleich zweifach: erkenntnistheoretisch mit der *Kritik der reinen Vernunft* (1781) und moralisch mit der *Kritik der praktischen Vernunft* (1788).
 >
-> Kant wächst in bescheidenen pietistischen Verhältnissen auf — sein Vater ist Sattler. Als Privatdozent kämpft er jahrelang um eine Professur, die er erst mit 46 Jahren erhält. Dann gibt er keine Halbwahrheiten mehr von sich: elf Jahre lang schreibt er keinen einzigen Artikel, sondern arbeitet nur noch an der einen Frage — wie funktioniert der menschliche Denkapparat? Jeden Morgen lässt er sich von seinem Diener mit den Worten *„Es ist Zeit"* wecken, arbeitet in eiserner Disziplin, und erst nach diesen elf Jahren gibt er der Menschheit seine Antwort.
+> Kant wächst in einem pietistischen Haus auf, sein Vater ist Riemermeister. Er ist Hauslehrer und viele Jahre Magister, bevor er mit 45 Professor wird. Danach veröffentlicht er zehn Jahre lang fast nichts und arbeitet an der *Kritik der reinen Vernunft*. Sein Diener Martin Lampe weckt ihn um fünf vor fünf mit dem Ruf *„Es ist Zeit!"*. Ziegler erzählt daraus die Geschichte eines Mannes, der mit 46 alles stehen lässt und elf Jahre lang keinen Artikel mehr schreibt; ganz so streng war es nicht (→ [[DenkerVita/Immanuel Kant#Biografie|Vita]]).
 >
 > Wichtigste Werke: *Kritik der reinen Vernunft* (1781), *Grundlegung zur Metaphysik der Sitten* (1785), *Kritik der praktischen Vernunft* (1788), *Kritik der Urteilskraft* (1790)
 > Kernkonzepte: Ding an sich, a priori, kategorischer Imperativ, transzendentale Ästhetik, 12 Kategorien des Verstandes
@@ -50,7 +50,7 @@ Quelle: [Kant in 60 Minuten](https://www.youtube.com/watch?v=q2Wky9MKw50)
 
 [▶ 0:03](https://www.youtube.com/watch?v=q2Wky9MKw50&t=3)
 
-Kant macht im 18. Jahrhundert zwei epochale Entdeckungen: den *kategorischen Imperativ* und — vielleicht noch wichtiger — die Antwort auf die uralte Frage, wie in unserem Kopf überhaupt Erkenntnisse zustande kommen. In seinem Hauptwerk, der *Kritik der reinen Vernunft*, untersucht er auf über 1000 Seiten die Funktionsweise des menschlichen Denkapparates.
+Kant macht im 18. Jahrhundert zwei epochale Entdeckungen: den *kategorischen Imperativ* und — vielleicht noch wichtiger — die Antwort auf die uralte Frage, wie in unserem Kopf überhaupt Erkenntnisse zustande kommen. In seinem Hauptwerk, der *Kritik der reinen Vernunft*, untersucht er die Funktionsweise des menschlichen Denkapparates. Ziegler spricht von über 1000 Seiten; die Erstausgabe von 1781 hatte 856.
 
 [▶ 1:34](https://www.youtube.com/watch?v=q2Wky9MKw50&t=94) — Sein Motiv: Die Philosophie wimmelt von fehlerhaften Definitionen. Alle Menschen sehen zwar dieselbe Wirklichkeit, kommen aber durch Denkfehler und falsche logische Schlüsse zu völlig unterschiedlichen Erkenntnissen. Kant duldet das nicht mehr und stellt die radikale Frage: Was kann unsere Vernunft überhaupt leisten — und was nicht?
 
@@ -59,7 +59,7 @@ Kant macht im 18. Jahrhundert zwei epochale Entdeckungen: den *kategorischen Imp
 Nicht andere Philosophen will er kritisieren — sondern die Grenzen der Vernunft selbst ausloten.
 
 > [!note] Eigene Einschätzung
-> Dass Kant mit 46 Jahren alles andere stehen lässt und elf Jahre nur an dieser einen Frage arbeitet, ist selbst eine Demonstration seines späteren kategorischen Imperativs: Er handelt so, als sollte diese Radikalität zum Gesetz werden. Keine Kompromisse, keine Halbwahrheiten. In einer Zeit der schnellen Takes und heißen Meinungen wirkt das wie ein Gegenprogramm aus einer anderen Welt.
+> Ziegler macht aus Kants stillem Jahrzehnt eine Heldengeschichte. Ganz so war es nicht: Eine Rezension, die Schrift über die Menschenrassen von 1775 und zwei Zeitungsbeiträge erschienen dazwischen. Aber das Bild trägt etwas Wahres. Rückblickend schrieb Kant 1783 an Christian Garve, er wolle „die lange Reihe von Bemühungen, die dazu gehöret haben“, um keinen Preis noch einmal übernehmen. In einer Zeit der schnellen Takes und heißen Meinungen wirkt ein Jahrzehnt fast ohne Veröffentlichung wie ein Gegenprogramm aus einer anderen Welt.
 
 ---
 
@@ -216,7 +216,7 @@ Hier wird die Menschenwürde grundgelegt: Der Mensch ist Zweck an sich — er di
 
 > *„Wir werden Handlungen nicht deshalb für verbindlich halten, weil sie Gebote Gottes sind — sondern weil wir dazu innerlich verbindlich sind."*
 
-Kant sagt: Wenn die Gesetze schlecht sind, müssen wir uns *gegen* die Gesetze stellen. Gehorsam ohne eigenes Urteil ist keine Ethik.
+Ziegler zieht daraus den Schluss: „Wenn die Gesetze schlecht sind, müssen wir uns auch gegen die Gesetze stellen“, das sei „implizit drin“ bei Kant. Für die Moral stimmt die Richtung, ein Befehl entschuldigt nichts, und Gehorsam ohne eigenes Urteil ist keine Ethik. Ein Recht auf Widerstand gegen die Staatsgewalt lehnte Kant aber ausdrücklich ab: „dieses Verbot ist unbedingt“ (AA VIII 299). Gegen schlechte Gesetze setzte er die öffentliche Kritik, die „Freiheit der Feder“ (AA VIII 304), und Gehorsam schuldete man für ihn „in allem, was nicht dem inneren Moralischen widerstreitet“ (AA VI 371) (→ [[DenkerVita/Immanuel Kant#Politische Einordnung|Vita]]).
 
 #### 5. Der kategorische Imperativ — Kants Antwort
 
@@ -262,10 +262,12 @@ Ziegler nennt Kants Ethik einen *„Stachel im moralischen Fleisch der Bequemlic
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Rawls' Urzustand ist die Prozeduralisierung von Kants kategorischem Imperativ
 - [[Markus Gabriel — Ethischer Kapitalismus]] — Gabriels „höchstes Gut" und sein „true profit" stehen in kantischer Tradition: Synthese von Pflicht und Wohlergehen, auf Unternehmensführung übertragen
 - [[Markus Gabriel — Was ist Realitaet]] — Gabriel setzt sich direkt mit Kants Ding an sich auseinander und empfiehlt *Versuch die negativen Größen in die Weltweisheit einzuführen* als einzige lesenswerte Kant-Schrift. Seine Sinnfeldontologie ist eine post-kantische Antwort: Es gibt kein Ding an sich hinter den Erscheinungen — Existenz ist Erscheinen in einem Sinnfeld
-- [[Walther Ziegler — Konfuzius in 60 Minuten]] — Konfuzius' Goldene Regel als historischer Vorläufer des kategorischen Imperativs: Kant hat Konfuzius nachweislich gelesen. Beide teilen das innere Sittengesetz, den Vorrang der Tugend über das Gesetz und die Widerstandspflicht gegen ungerechte Herrscher
+- [[Walther Ziegler — Konfuzius in 60 Minuten]] — Konfuzius' Goldene Regel als früher Verwandter des kategorischen Imperativs: Beide legen das Sittengesetz in den Menschen selbst. Eine Widerstandspflicht gegen ungerechte Herrscher, wie Ziegler sie bei Konfuzius findet, gibt es bei Kant nicht
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas „Namen und Gestalt" und Kants Kategorien des Verstandes beschreiben denselben Mechanismus der Weltkonstruktion. Aber wo Kant das Ding an sich als erkenntnistheoretische Grenze akzeptiert, sieht Buddha einen Weg hindurch — via Meditation
 - [[Walther Ziegler — Habermas in 60 Minuten]] — Habermas' Diskursethik ist die intersubjektive Weiterentwicklung von Kants kategorischem Imperativ: Statt des individuellen Gedankenexperiments (*„Handle so, dass deine Maxime allgemeines Gesetz sein könnte"*) muss die Maxime allen Betroffenen im herrschaftsfreien Diskurs vorgelegt werden. Der Paradigmenwechsel von der Subjektphilosophie zur kommunikativen Rationalität — Kant vollendet, nicht widerlegt.
 - [[Walther Ziegler — Freud in 60 Minuten]] — Kants kategorischer Imperativ setzt einen souveränen Willen voraus, der nach Vernunftprinzipien handelt. Freud unterminiert diese Voraussetzung: Wenn das Ich nicht Herr im eigenen Haus ist, kann es auch nicht nach reinen Vernunftmaximen handeln. Moralisches Handeln wird bei Freud immer verdächtig.
 - [[Walther Ziegler — Wittgenstein in 60 Minuten]] — Kant und Wittgenstein kämpfen gegen denselben Fehler: das Überschreiten der Grenzen möglicher Erkenntnis. Kant zieht die Grenze bei der Erfahrung (das Ding an sich bleibt unzugänglich). Wittgenstein zieht sie bei der Sprache (was nicht formulierbar ist, muss schweigen). Beide enden im Schweigen — Kant beim regulativen Ideal, Wittgenstein beim siebten Aphorismus.
 - [[Wolfgang Huber — Bonhoeffer und die Wahrheit]] — Der stärkste Einwand gegen „nur eine Ethik besteht“: Bonhoeffer nennt Kants Lügenverbot vor dem Mörder an der Tür „grotesk“, weil das reine Gewissen dort den Freund opfert. Huber hält die Verantwortungsethik für die wichtigste Ethikform der Gegenwart.
 
+> [!note] Korrigiert am 23.11.2026
+> Hier stand im Kasten über Kant, er sei nie weiter als 150 km gereist, sein Vater sei Sattler gewesen, Professor sei er mit 46 geworden und elf Jahre lang habe er keinen Artikel geschrieben. Belegt ist: Ostpreußen hat er nie verlassen, der Vater war Riemermeister, Professor wurde er mit 45, und in den zehn Jahren danach erschien wenig, aber nicht nichts. Die *Kritik der reinen Vernunft* hatte 856 Seiten, nicht „über 1000“. Der Satz „Kant sagt: Wenn die Gesetze schlecht sind, müssen wir uns gegen die Gesetze stellen“ stand ohne Zuordnung da; es ist Zieglers Lesart, Kant selbst lehnte ein Widerstandsrecht ab. Gestrichen sind außerdem in der Verbindung zu Konfuzius, Kant habe ihn „nachweislich gelesen“ und teile mit ihm eine „Widerstandspflicht“, und in der eigenen Einschätzung die Deutung, das stille Jahrzehnt sei eine Demonstration des kategorischen Imperativs. Die Angaben stammten aus Zieglers Vortrag und stehen jetzt bei ihm.
