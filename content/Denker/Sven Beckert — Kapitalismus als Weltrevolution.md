@@ -14,7 +14,7 @@ aliases:
   - Sven Beckert
   - Kapitalismus Weltrevolution
   - Jung und Naiv 802
-aktualisiert: 2026-08-01
+aktualisiert: 2026-11-23
 raetsel: "Auf der Insel drehte sich noch keine Dampfmaschine. Einen Preis hatte schon jeder."
 ---
 
@@ -201,6 +201,20 @@ Hans Jessen hält sofort die klassisch linke Gegenposition dagegen [▶ 173:58](
 **Und die zweite Kritik?** [▶ 177:00](https://www.youtube.com/watch?v=D11LeDeLvD8&t=10620) — Beckert fügt von sich aus eine Kritik an, die Jessen nicht erwähnt hatte. Vor allem in Deutschland werfe man ihm vor, das Buch lege zu viel Gewicht auf Macht und Zwang, auf Sklaverei und Kolonialismus. *„Die letzten 48 Stunden der aktuellen Geschichte des Kapitalismus haben dann doch noch mal meine Thesen bestätigt.“* Jessen ergänzt, worauf das zielt: auf Venezuela, mit dem das Gespräch begonnen hatte, und *„möglicherweise Grönland“* [▶ 177:46](https://www.youtube.com/watch?v=D11LeDeLvD8&t=10666). Damit schließt sich der Kreis zum Anfang, → [[#Ein Beweisstück, das sich selbst lieferte]].
 
 **Warum schon Barbados, warum nicht erst die Fabrik?** *(Jessens eigene Frage)* [▶ 177:46](https://www.youtube.com/watch?v=D11LeDeLvD8&t=10666) — Die letzte Frage ist die klassisch marxistische: Warum spricht Beckert schon für das 16. Jahrhundert von Kapitalismus und nicht erst für den Industriekapitalismus des 18.? Jessen hakt nach, was an der Plantagenökonomie von Barbados das Kapitalistische gewesen sei. Beckerts Antwort ist der Schlussstein des Gesprächs, → [[#Barbados 1670 — der Kapitalismus vor der Fabrik]]. Jessen verabschiedet ihn mit dem Satz: *„Das war ein Schlusspunkt, der manchen noch zu denken geben wird.“* [▶ 180:02](https://www.youtube.com/watch?v=D11LeDeLvD8&t=10802)
+
+---
+
+## Was seither geschah
+
+*Stand: 23.11.2026*
+
+Das Gespräch fand wenige Tage nach Maduros Festnahme statt. Beckert las sie als ganz gewöhnliches Ereignis in der Geschichte des Kapitalismus. Neu sei, darin stimmte er Tilo zu, dass niemand mehr eine andere Geschichte dazu erzählt. Was in den zehn Monaten danach geschah, betrifft genau den Rohstoff, um den es ihm ging.
+
+Am 30. Januar 2026 öffnete das venezolanische Parlament den Ölsektor für private und ausländische Investoren, die amtierende Präsidentin Delcy Rodríguez unterschrieb die Reform kurz darauf ([tagesschau, 30.01.2026](https://www.tagesschau.de/ausland/amerika/venezuela-oelindustrie-100.html)). Seit der Festnahme verkaufen die USA das venezolanische Öl selbst. Ein Teil der Erlöse soll an Venezuela gehen, doch die Regierung in Caracas muss in Washington fragen, wofür sie das Geld ausgeben darf. Nach einem Bericht der *Financial Times*, den die tagesschau wiedergibt, hatten die USA bis Ende Juli rund 13 Milliarden Dollar eingenommen; belegt ist eine erste Zahlung von 300 Millionen Dollar nach Caracas im März.
+
+Am 29. August 2026 verkündete Trump ein Abkommen, nach dem die USA mehr als 65 Milliarden Fass der nachgewiesenen venezolanischen Ölreserven kontrollieren, vereinbart mit der Privatwirtschaft und mit Zustimmung von Rodríguez. Außenminister Marco Rubio stellte fast 100 Milliarden Dollar private Investitionen und Tausende Arbeitsplätze in Aussicht. Was das Abkommen rechtlich bedeutet, ob Verkauf oder Übertragung eines Eigentumstitels, war auch danach unklar ([tagesschau, 29.08.2026](https://www.tagesschau.de/ausland/amerika/venezuela-oel-faq-100.html)). Einen Regierungswechsel gab es nicht. Trump arrangierte sich mit Maduros früherer Stellvertreterin und unterstützte die Oppositionsführerin María Corina Machado nicht; Rubio stimmt sich nach einem Bericht der *New York Times* fast täglich mit Rodríguez ab. Kritiker sagen, die USA bedienten sich an Bodenschätzen, die ihnen nicht gehören, und stützten eine autoritäre Regierung. Die US-Regierung verweist auf Investitionen, Arbeitsplätze und den Wiederaufbau. Maduros Prozess in New York soll am 1. Juni 2027 beginnen ([tagesschau](https://www.tagesschau.de/ausland/amerika/maduro-prozess-100.html)).
+
+Ob das Beckerts These bestätigt, ist eine Frage der Lesart. Man kann darin den alten Kriegskapitalismus sehen, Zugriff auf eine Rohstofffront mit staatlicher Gewalt und einer abhängigen Regierung vor Ort. Man kann darin auch eine Machtpolitik sehen, die sich des Kapitalismus bedient, ohne aus ihm zu folgen. Die Szene, mit der das Gespräch begann, ist jedenfalls keine Episode geblieben.
 
 ---
 

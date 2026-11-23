@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **23.11.** — [[Denker/Sven Beckert — Kapitalismus als Weltrevolution|Sven Beckert — Kapitalismus als Weltrevolution]]
+>
+> Die Sklaverei ist nicht die Vorgeschichte des Kapitalismus, sondern ein Teil von ihm — und Barbados 1670 war eine der ersten kapitalistischen Gesellschaften, lange vor der industriellen Revolution.
+
 > **23.11.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
 >
 > Was man besitzt, hänge in Deutschland mehr vom Erbe ab als von der Leistung, sagt Martyna Linartas. Sie zeigt, wie Vermögensungleichheit zur Frage der Demokratie wird, und schlägt ein Grunderbe vor.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
 
-> **20.11.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
->
-> Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
-
-> → *2 weitere in* [[Denker]]
+> → *3 weitere in* [[Denker]]
 
 ### Geistesblitz
 
