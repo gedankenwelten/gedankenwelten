@@ -37,7 +37,7 @@ Quelle: [Offline per Gesetz – Brauchen wir ein Social-Media-Verbot für Kinder
 > **Dr. Kristian Kunow** — Stellvertretender Direktor der Medienanstalt Berlin-Brandenburg (MABB), leitet Förderung, Projektbeteiligungen und digitalen Jugendschutz. Regulierungspragmatiker, der zwischen politischen Forderungen und Umsetzbarkeit vermittelt.
 > → [[DenkerVita/Kristian Kunow|DenkerVita]]
 >
-> **Sanya Lehmann** — Mitglied des MABB Jugendrats seit 2023 (dem ersten Jugendrat einer deutschen Medienaufsichtsbehörde). Bringt die Perspektive junger Nutzer in politische Prozesse ein — war auch in der Expertenkommission des Bundesbildungsministeriums.
+> **Sanya Lehmann** — seit Anfang 2025 im Jugendrat der Medienanstalt Berlin-Brandenburg, den die mabb 2023 als erste Landesmedienanstalt gegründet hat. Bringt die Perspektive junger Nutzer in politische Prozesse ein; der Jugendrat wurde auch von der Expertenkommission des Bundesbildungsministeriums angehört.
 > → [[DenkerVita/Sanya Lehmann|DenkerVita]]
 >
 > **Ninia LaGrande** (Moderation) — Moderatorin, Autorin, Slam-Poetin (geb. 1983); Mitgründerin des Hashtags #ausnahmslos (2016), Clara-Zetkin-Frauenpreis. Moderiert u.a. für Bundespräsidialamt und Bundesministerien.

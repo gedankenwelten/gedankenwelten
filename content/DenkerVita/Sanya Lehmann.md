@@ -21,13 +21,13 @@ tags: [denker-vita, medien, deutschland, jugend]
 ## Biographischer Snapshot
 
 > [!info] Wer ist sie?
-> **Sanya Lehmann** (*Deutschland, Jugendliche*) — Mitglied des MABB Jugendrats seit dessen Gründung 2023, dem ersten Jugendrat einer deutschen Medienaufsichtsbehörde. Bringt die Perspektive junger Nutzerinnen in medienpolitische Debatten ein — nicht als Objekt des Schutzes, sondern als Akteurin.
+> **Sanya Lehmann** (*Deutschland, Jugendliche*) — seit Anfang 2025 Mitglied des Jugendrats der Medienanstalt Berlin-Brandenburg (mabb), den die mabb 2023 als erste Landesmedienanstalt in Deutschland ins Leben gerufen hat. Bringt die Perspektive junger Nutzerinnen in medienpolitische Debatten ein — nicht als Objekt des Schutzes, sondern als Akteurin.
 >
-> Ihr Ansatz: Evidenzbasiert statt moralisierend. Sie lehnt pauschale Verbote ab, nicht weil sie die Risiken nicht kennt, sondern weil sie deren Wirkungslosigkeit kennt. Ihre Teilnahme in der Expertenkommission des Bundesbildungsministeriums zeigt, dass diese Stimme gehört wird — wenn auch selten genug.
+> Ihr Ansatz: Evidenzbasiert statt moralisierend. Sie lehnt pauschale Verbote ab, nicht weil sie die Risiken nicht sieht, sondern weil sie nicht glaubt, dass ein Verbot funktioniert. Dass der Jugendrat in die Expertenkommission des Bundesbildungsministeriums eingeladen und angehört wurde, nennt sie als Beispiel dafür, wie man Jugendliche einbindet; das passiere „auch schon manchmal“.
 
 ## Biografie
 
-Sanya Lehmann ist Mitglied des MABB Jugendrats (Medienanstalt Berlin-Brandenburg) seit seiner Gründung 2023 — dem ersten Jugendrat einer Landesmedienanstalt in Deutschland. Sie war Teil der Expertenkommission des Bundesbildungsministeriums zum Thema Kinder- und Jugendschutz in der digitalen Welt. Am 18./19. Mai 2026 sprach sie beim TINCON-Event zur australischen Verbotsgesetzgebung; am 19. Mai 2026 war sie Gast beim re:publica 26-Panel zur Social-Media-Verbots-Frage.
+Sanya Lehmann ist laut re:publica seit Anfang 2025 Mitglied im Jugendrat der Medienanstalt Berlin-Brandenburg (mabb); die mabb hatte ihn 2023 als erste Landesmedienanstalt in Deutschland gegründet. Mit dem Jugendrat wurde sie in die Expertenkommission des Bundesbildungsministeriums zum Kinder- und Jugendschutz in der digitalen Welt eingeladen, die sich die Meinung der Jugendlichen anhörte. Am 18./19. Mai 2026 sprach sie beim TINCON-Event zur australischen Verbotsgesetzgebung; am 19. Mai 2026 war sie Gast beim re:publica 26-Panel zur Social-Media-Verbots-Frage.
 
 ## Kernthesen
 
@@ -49,3 +49,11 @@ Sanya Lehmann ist Mitglied des MABB Jugendrats (Medienanstalt Berlin-Brandenburg
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
+
+## Quellen
+
+- [re:publica, Sprecherinnenseite](https://re-publica.com/de/user/23116) (Jugendrat seit Anfang 2025) · [mabb, Jugendrat](https://www.mabb.de/uber-die-mabb/jugendrat) (gegründet 2023, erste Landesmedienanstalt) · [mabb, ihre Seite](https://www.mabb.de/uber-die-mabb/jugendrat/sanya-lehmann)
+- re:publica 26: [Offline per Gesetz](https://www.youtube.com/watch?v=CBON-RRXx9Y), unser Transkript (Expertenkommission ▶ 12:12, Verbot ▶ 21:23)
+
+> [!note] Korrigiert am 23.11.2026
+> Hier stand, sie sei seit der Gründung 2023 im Jugendrat und sei „Teil der Expertenkommission“ gewesen. Laut re:publica ist sie seit Anfang 2025 dabei; im Panel sagt sie, der Jugendrat sei in die Kommission eingeladen und angehört worden. Dass sie die „Wirkungslosigkeit“ von Verboten „kennt“, stand so nicht in ihren Worten: Sie glaubt nicht, dass ein Verbot funktioniert, und sagt dazu, mit den technischen Möglichkeiten kenne sie sich nicht so aus.

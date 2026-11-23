@@ -754,7 +754,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest die Finanzelite über ihre Netzwerke und Knotenpunkte (*Super-hubs*); Trump-Kritik von der Juristin: „es gibt nichts, was nicht monetarisierbar ist“
 
-**[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
+**[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — seit 2025 im mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; mit dem Jugendrat von der Expertenkommission angehört Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 
 **[[DenkerVita/Jean-Paul Sartre|Jean-Paul Sartre]]** — Philosoph, Romancier, Dramatiker (1905–1980); Hauptfigur des Existentialismus und Prototyp des französischen Intellektuellen; Existenz vor Essenz, zur Freiheit verurteilt, *mauvaise foi*, der Blick des anderen; *Der Ekel* (1938), *Das Sein und das Nichts* (1943), *Geschlossene Gesellschaft* (1944); lehnte 1964 den Literaturnobelpreis ab, weil ein Autor sich nicht in eine Institution verwandeln lassen dürfe
 
