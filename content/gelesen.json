@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 114,
-   "aufrufe": 138
+   "leser": 113,
+   "aufrufe": 137
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -284,6 +284,11 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/DenkerVita/Elmar-Thevessen",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
    "pfad": "/DenkerVita/Kerstin-Paschke",
    "leser": 4,
    "aufrufe": 4
@@ -295,11 +300,6 @@
   },
   {
    "pfad": "/DenkerVita/Petra-Gehring",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
    "leser": 4,
    "aufrufe": 4
   }
@@ -509,6 +509,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Elmar-Thevessen",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Eva-von-Redecker",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/Denker/Wolfgang-Huber-Bonhoeffer-und-die-Wahrheit",
      "leser": 1,
      "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Arnd-Henze",
-     "leser": 1,
-     "aufrufe": 2
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 114,
-     "aufrufe": 138
+     "leser": 113,
+     "aufrufe": 137
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -894,6 +894,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Elmar-Thevessen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 4,
      "aufrufe": 4
@@ -905,11 +910,6 @@
     },
     {
      "pfad": "/DenkerVita/Petra-Gehring",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
      "leser": 4,
      "aufrufe": 4
     }
@@ -1545,8 +1545,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 27,
-     "aufrufe": 27
+     "leser": 26,
+     "aufrufe": 26
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",

@@ -429,7 +429,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** Stub
 
 ## Ece Temelkuran
-**Status:** Stub
+**Status:** ✓ Vollanalyse — [[DenkerVita/Ece Temelkuran]]
 
 ## Erich Fromm
 **Status:** ✓ Vollanalyse → [[DenkerVita/Erich Fromm]]

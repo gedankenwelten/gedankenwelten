@@ -815,6 +815,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Duezen Tekkal|Düzen Tekkal]]** — Journalistin, Filmemacherin, Menschenrechtsaktivistin (HÁWAR.help, GermanDream); deutsch-jesidische Zeugin des IS-Genozids von 2014, „böse Zwillinge" (Islamismus und Rechtsextremismus als eine Demokratiefeindschaft), Bundesverdienstkreuz 2021 — nah an CDU-Zirkeln und darum selbst umstritten
 
+**[[DenkerVita/Ece Temelkuran|Ece Temelkuran]]** — türkische Schriftstellerin und Journalistin, Jahrgang 1973, seit 2016 im Exil, heute in Berlin; *How to Lose a Country* (sieben Schritte von der Demokratie zum Faschismus), *Nation of Strangers* (Shortlist Women's Prize 2026) über Heimatverlust als Massenerfahrung
+
 **[[DenkerVita/Teresa Bücker|Teresa Bücker]]** — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit; NDR Sachbuchpreis 2023 für *Alle_Zeit*
 
 **[[DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
