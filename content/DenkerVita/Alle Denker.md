@@ -444,7 +444,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Kalayo|Kalayo]]** — Pseudonymer deutscher Politik-YouTuber (KALAYO OFFICIAL, ~124.000 Abonnenten); deutschsprachige Einordnung der US-Politik mit Fokus auf Epstein-Akten, Trump-Kritik und Elite-Korruption; Empörungsformat mit Clickbait-Titeln, aber ehrlich progressiv; betreibt das Spendenprojekt „KALAYO hilft“ (betterplace.org); Name = Cebuano für „Feuer“
 
-**[[DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
+**[[DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; seit 2025 ärztliche Leiterin des DZSKJ am UKE Hamburg, Studienleiterin der DAK-Mediensucht-Studie; Porsche mit Käfer-Bremsen; Schutz als Fundament der Befähigung; Kinder auf Zeit aus dem Fahrwasser der Plattformen
 
 **[[DenkerVita/Paul Klee|Paul Klee]]** — Maler, Grafiker und Kunsttheoretiker der klassischen Moderne, Bauhaus-Meister (Weimar/Dessau); „Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar“, Bewegung als Grund allen Werdens, das Werk als Gleichnis der Schöpfung; 1933 von den Nazis entlassen, 1937 als „entartet“ verfemt (102 Werke beschlagnahmt), gestorben 1940 im Berner Exil ohne die verweigerte Schweizer Einbürgerung
 

@@ -126,16 +126,16 @@ Mitmenschlichkeit hat bei Konfuzius drei Merkmale: Empathie, eine logische Über
 
 > *„Was du selbst nicht wünschst, das tue auch anderen nicht an."*
 
-Dieser Satz steht zwar auch in der Bibel (Bergpredigt, Matthäusevangelium) — aber Konfuzius formuliert ihn 500 Jahre vor Christus. Es ist die früheste dokumentierte Fassung der Goldenen Regel.
+Dieser Satz steht zwar auch in der Bibel (Bergpredigt, Matthäusevangelium) — aber Konfuzius formuliert ihn 500 Jahre vor Christus. Ziegler nennt ihn darum den ersten. Ganz allein steht Konfuzius damit nicht: Ähnliche Merksprüche sind aus China, Indien, Persien, Ägypten und Griechenland überliefert, zum Teil aus derselben Zeit ([Wikipedia: Goldene Regel](https://de.wikipedia.org/wiki/Goldene_Regel)).
 
-[▶ 26:55](https://www.youtube.com/watch?v=fIonhQe2uIQ&t=1615) — Noch bemerkenswerter: Immanuel Kant hat Konfuzius nachweislich gelesen. Und seine positive Wendung — der kategorische Imperativ — baut auf dieser Grundlage auf. Konfuzius formuliert negativ: *Tu anderen nicht an, was du nicht willst.* Kant dreht es um: *Handle so, dass die Maxime deines Handelns zum allgemeinen Gesetz erhoben werden kann.* Beide stimmen in einem entscheidenden Punkt überein: Es hängt von uns selbst ab, das Rechte zu tun. Wir brauchen keine äußere Autorität — das Sittengesetz liegt in uns.
+[▶ 26:55](https://www.youtube.com/watch?v=fIonhQe2uIQ&t=1615) — Von hier schlägt Ziegler den Bogen zu Kant: Der habe Konfuzius „ganz sicher“ gelesen, „das ist nachweisbar“, und die Regel positiv gewendet. Belegt ist, dass Kant ihn kannte; in der *Physischen Geographie* heißt Konfuzius „der chinesische Sokrates“ (AA IX 382). Konfuzius formuliert negativ: *Tu anderen nicht an, was du nicht willst.* Kant formuliert: *„Handle so, daß die Maxime deines Willens jederzeit zugleich als Princip einer allgemeinen Gesetzgebung gelten könne“* (AA V 30). Auf die Goldene Regel bauen wollte er allerdings nicht. In einer Fußnote der *Grundlegung* warnt er, man solle „ja nicht“ denken, „daß hier das triviale: quod tibi non vis fieri etc. zur Richtschnur oder Princip dienen könne“; es enthalte weder die Pflichten gegen sich selbst noch die Liebespflichten gegen andere (AA IV 430). Einig sind sich beide in einem entscheidenden Punkt: Es hängt von uns selbst ab, das Rechte zu tun. Wir brauchen keine äußere Autorität — das Sittengesetz liegt in uns.
 
 > *„Es hängt von uns selbst ab, das Rechte zu tun. Oder muss man sich dabei etwa auf andere verlassen?"*
 
-Kants berühmte Stelle über den Sternenhimmel über ihm und das Sittengesetz in ihm — bei Konfuzius findet sich der Kern bereits. Beide sind keine Legalisten: Nicht das Befolgen von Gesetzen macht moralisch gut, sondern die Prüfung am inneren Maßstab. Wenn Gesetze unmenschlich sind, rechtfertigt ihre Befolgung nicht unser Handeln.
+Kants berühmte Stelle über den Sternenhimmel über ihm und das Sittengesetz in ihm — bei Konfuzius findet sich der Kern bereits. Beide sind keine Legalisten: Nicht das Befolgen von Gesetzen macht moralisch gut, sondern die Prüfung am inneren Maßstab. Wenn Gesetze unmenschlich sind, rechtfertigt ihre Befolgung nicht unser Handeln. Für Kant hieß das allerdings nicht, sich gegen den Staat zu erheben: Ein Recht auf Widerstand lehnte er ab, gegen schlechte Gesetze setzte er die öffentliche Kritik (→ [[DenkerVita/Immanuel Kant#Politische Einordnung|Vita]]).
 
 > [!note] Eigene Einschätzung
-> Dass Kant Konfuzius gelesen hat, ist historisch belegt — und trotzdem wird die Goldene Regel im europäischen Diskurs fast reflexhaft der christlichen Tradition zugeschrieben. Das ist nicht nur historisch falsch, sondern verdeckt eine tiefere Wahrheit: Moralische Grundeinsichten sind keine Erfindung einzelner Kulturen, sondern emergente Eigenschaften des Menschseins. Wenn drei Traditionen — chinesisch, indisch, griechisch — unabhängig voneinander zu ähnlichen ethischen Prinzipien gelangen, spricht das weniger für kulturelle Überlegenheit als für eine universelle Struktur des moralischen Denkens.
+> Kant kannte Konfuzius; ob er ihn gelesen hat, wissen wir nicht. Und die Goldene Regel wird im europäischen Diskurs oft allein der christlichen Tradition zugeschrieben. Das greift zu kurz und verdeckt eine tiefere Wahrheit: Moralische Grundeinsichten sind keine Erfindung einzelner Kulturen, sondern emergente Eigenschaften des Menschseins. Wenn drei Traditionen — chinesisch, indisch, griechisch — unabhängig voneinander zu ähnlichen ethischen Prinzipien gelangen, spricht das weniger für kulturelle Überlegenheit als für eine universelle Struktur des moralischen Denkens.
 
 ---
 
@@ -169,7 +169,7 @@ Konfuzius als braver Obrigkeitsdenker? Ein hartnäckiges Missverständnis. Zwar 
 *„Will man Gehorsam durch Gesetze und Ordnung, durch Strafe, dann wird sich das Volk den Gesetzen und Strafen zu entziehen versuchen. Wird hingegen nach sittlichen Grundsätzen regiert, so hat das Volk nicht nur Skrupel, sondern es wird auch aus Überzeugung folgen."*
 
 > [!note] Eigene Einschätzung
-> Hier zeigt sich, warum das Klischee vom „obrigkeitshörigen" Konfuzianismus falsch ist. Konfuzius formuliert ein Widerstandsrecht — und sogar eine Widerstandspflicht —, das in seiner Radikalität an Bonhoeffers Überlegungen zur Tyrannenmordethik erinnert. Die Parallele zu Kant ist auch hier unübersehbar: Gesetze, die unmenschlich sind, verdienen keinen Gehorsam. Das Sittengesetz steht über dem positiven Recht. Das ist kein östlicher Sonderweg, sondern ein universeller Grundsatz, den verschiedene Kulturen unabhängig voneinander formuliert haben.
+> Hier zeigt sich, warum das Klischee vom „obrigkeitshörigen" Konfuzianismus falsch ist. Konfuzius formuliert ein Widerstandsrecht — und sogar eine Widerstandspflicht —, das in seiner Radikalität an Bonhoeffers Überlegungen zur Tyrannenmordethik erinnert. Bei Kant endet die Parallele hier. Er stellt das Sittengesetz über das bloße Befolgen von Gesetzen, ein Recht auf Widerstand gegen die Herrschenden lehnt er aber ab: „dieses Verbot ist unbedingt“ (AA VIII 299). An dieser Stelle geht Konfuzius weiter als der Aufklärer aus Königsberg.
 
 ---
 
@@ -221,7 +221,7 @@ Die größte Ironie: Als China zur Wirtschaftsmacht aufsteigt und auch als Kultu
 
 ### → [[Walther Ziegler — Kant in 60 Minuten]]
 
-Direkte Denklinie: Konfuzius' Goldene Regel ist der historische Vorläufer von Kants kategorischem Imperativ. Kant hat Konfuzius nachweislich gelesen. Beide teilen die Überzeugung, dass das Sittengesetz in uns liegt und dass ungerechte Gesetze keinen Gehorsam verdienen. Konfuzius formuliert negativ (was du nicht willst…), Kant positiv (handle so, dass…) — aber der Kern ist identisch.
+Verwandte mit einem Streitpunkt. Beide legen das Sittengesetz in den Menschen selbst. Ziegler sieht in Konfuzius' Goldener Regel den Vorläufer des kategorischen Imperativs; Kant selbst nannte die Regel „trivial“ und als Prinzip untauglich (AA IV 430). Gekannt hat er Konfuzius, als „den chinesischen Sokrates“ (AA IX 382). Ein Widerstandsrecht gegen ungerechte Herrscher, wie Konfuzius es lehrt, lehnte Kant ab.
 
 ### → [[Walther Ziegler — Platon in 60 Minuten]]
 
@@ -260,3 +260,5 @@ Zhao entwickelt das konfuzianische relationale Denken sprachphilosophisch weiter
 
 Dasselbe Zeichen 道 hängt in einer Allgäuer Wohnung, Teil des Spruchs „Der Weg ist das Ziel“, den der Bewohner nicht lesen kann. Beim Ausräumen geht es als erstes von der Wand, danach fahren zwei Menschen mit dem Rad um die Welt. Konfuzius meint mit dem Dao Selbstkultivierung, keine Reise; aber wer nicht weiß, dass im Zeichen ein Fuß steckt, kann den Weg trotzdem gehen.
 
+> [!note] Korrigiert am 23.11.2026
+> Hier stand dreimal, Kant habe Konfuzius „nachweislich gelesen“, das sei „historisch belegt“. Das sagt Ziegler im Vortrag; belegt ist nur, dass Kant ihn kannte (AA IX 382). Auch die Sätze, der kategorische Imperativ „baue auf“ der Goldenen Regel auf und „der Kern ist identisch“, sind korrigiert: Kant selbst nannte die Regel als Prinzip „trivial“ (AA IV 430). Gestrichen ist, Kant und Konfuzius teilten die Überzeugung, ungerechte Gesetze verdienten keinen Gehorsam; Kant lehnte ein Widerstandsrecht ab. Die Goldene Regel bei Konfuzius ist nicht die „früheste dokumentierte Fassung“, ähnliche Sprüche sind aus mehreren Kulturen überliefert. Der Imperativ steht jetzt im Wortlaut der *Kritik der praktischen Vernunft*.
