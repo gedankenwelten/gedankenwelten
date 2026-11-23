@@ -246,6 +246,10 @@ Johann Krieten war mit 14 Vollwaise und selbst straffällig und wurde Jugendrich
 
 Ein KI-Agent sagt auf die Frage nach seiner Gefährlichkeit: Ich weiß es nicht. Die Forschung zur Selbstüberschätzung legt nahe, dass das auch die ehrlichste menschliche Antwort wäre.
 
+### → [[Marcant und Maren — Kindheit in der Neonazi-Szene]]
+
+Eine Gegenprobe aus erster Hand: Maren wuchs mit Schlägen und völkischen Erziehungszielen auf, und was sie davor bewahrte, sie zu übernehmen, waren Menschen außerhalb der Szene.
+
 ---
 
 ## Weiterdenken

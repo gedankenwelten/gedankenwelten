@@ -2,7 +2,7 @@
 title: "Wie kommt man aus der rechten Szene wieder heraus?"
 date: 2026-10-03
 erstellt: 2026-10-03
-aktualisiert: 2026-10-24
+aktualisiert: 2026-11-23
 description: "Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -51,6 +51,8 @@ Die älteste deutsche Antwort stammt aus den Jahren, in denen die Unterkünfte b
 
 Das heißt nicht, dass jeder zufällig hineinstolpert. In einer US-Studie mit 91 ehemaligen Rechtsextremen hatten 63 Prozent vier oder mehr belastende Kindheitserfahrungen erlebt, in der Gesamtbevölkerung sind es 16 ([Windisch et al. 2020](https://doi.org/10.1080/09546553.2020.1767604)). Ohnmacht, schwierige Herkunft und das Angebot einer Gruppe greifen ineinander. Neu ist seit einigen Jahren der Weg: Statt über die Lehrwerkstatt kommen Jugendliche über TikTok und Meme-Codes, die Szene hat die Springerstiefel gegen die „Schwiegersohn-Optik“ getauscht. Belastbare Langzeitdaten zu diesem neuen Einstieg fehlen noch. Wie viel der Algorithmus selbst dazutut, ist offener, als es klingt: Auf TikTok verschieben vor allem Folgen und Liken die Empfehlungen ([Boeker & Urman 2022](https://doi.org/10.1145/3485447.3512102)); für YouTube zeigen Messungen an echten Nutzern, dass extreme Kanäle vor allem bei denen ankommen, die sie schon abonniert haben ([Chen et al. 2023](https://doi.org/10.1126/sciadv.add8080)), und dass die Empfehlungen einen Umstieg auf Gemäßigtes nach etwa dreißig Videos mitgehen ([Hosseinmardi et al. 2024](https://doi.org/10.1073/pnas.2313377121)). Für TikTok fehlt so eine Messung.
 
+Einen dritten Weg hinein gibt es, über den die Ausstiegsforschung selten spricht: hineingeboren werden. Extremistische Überzeugungen gehen von Eltern auf Kinder über, in liebevollen wie in gewaltvollen Familien ([van Wieringen u. a. 2025](https://doi.org/10.1007/s10826-025-03122-y), systematische Übersicht), und in deutschen Längsschnittdaten ist die Einstellung der Eltern der stärkste Vorhersagewert für die rechtsextreme Einstellung Jugendlicher ([Avdeenko & Siedler 2017](https://doi.org/10.1111/sjoe.12190), Einzelstudie). Manche Familien suchen dafür gezielt das Land: Die Initiative „Zusammenrücken in Mitteldeutschland“ wirbt seit 2020 für den Umzug nach Sachsen und Thüringen und wird seit 2023 vom Verfassungsschutz beobachtet; die Ansiedlungen gelten als „überschaubar“, die Zugezogenen als „sehr aktiv“ ([taz, 21.06.2023](https://taz.de/Rechtsextreme-Initiative-Zusammenruecken/!5942410/)). Eine bundesweite Zahl gibt es nicht.
+
 **Die Stimmen**
 
 - **[[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Bomberjacke statt Weltbild|Eichi]]:** Politik hat ihn nie interessiert, er wollte „die Jungs nicht enttäuschen“ — und besteht doch darauf: „Ich hatte die Wahl.“
@@ -61,8 +63,9 @@ Das heißt nicht, dass jeder zufällig hineinstolpert. In einer US-Studie mit 91
 - **[[Leonie Heims und Tim Stark — Who the fck is Agartha#Der Witz, der keiner ist Gruppenidentität statt Glauben|Heims und Stark]]:** Die Meme-Szene hält kein Glaube zusammen, sondern eine Geheimsprache „von jungen Männern für junge Männer“.
 - **[[Sternstunde Philosophie — Droht ein neuer Faschismus#Lifestyle-Faschismus Active Clubs, Körperkult, Schwiegersohn-Optik|Damir Skenderovic]]:** Rechtsextremismus hing immer an Jugendkulturen; neu ist nur die Verpackung.
 - **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#„Ich habe mir das gezielt rausgepickt“|Felix Benneckenstein]]:** Erst Diebstahl und Abbruch, dann das passende Angebot eines NPD-Kreisverbands — und doch: „Ich habe mir das gezielt rausgepickt.“
+- **[[Marcant und Maren — Kindheit in der Neonazi-Szene#Ein rotes Band|Maren]]:** Keine Wahl und kein Zufall — hineingeboren, mit elf ein Vortrag über das „rote Band“, das sie nicht „durchschneiden“ dürfe; die Begründung ergab für sie schon damals keinen Sinn.
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (9)</summary>
 
 - **[[Philip Schlaffer — Kann man sich aendern#„Da lag keine braune Bananenschale“|Philip Schlaffer]]:** Kein Reinrutschen — Weichen gestellt durch Schule, einen gehassten Vater, die Suche nach Ersatzvätern; die Szene als Jugendsozialarbeit mit Grillen, Bier und Boxtraining. „Rechtsextremismus funktioniert — kurzzeitig.“
 - **[[Albert Moukheiber — Mein Hirn und die anderen#6. Konformismus — der evolutionäre Preis der Zugehörigkeit|Albert Moukheiber]]:** Sich der Gruppe anzupassen ist evolutionär eingebaut — bei Asch folgte ein Drittel der Antworten der falschen Mehrheit.
@@ -73,6 +76,7 @@ Das heißt nicht, dass jeder zufällig hineinstolpert. In einer US-Studie mit 91
 - **[[Hartwin Maas — Bildung NEU DENKEN#Social Media-Falle Algorithmus, Mainstream & Empathieverlust|Hartwin Maas]]:** Der Algorithmus belohnt Polarisierung, und Jugendlichen fehlt das Werkzeug, das zu durchschauen.
 - **[[Marcant — Ausstieg aus der rechten Szene#Wie viel hat der Feed getan?|Felix]]** (Nachbesprechung): Heute ist sein Feed „ganz normal“ — der Feed folgt dem Nutzer mindestens so sehr wie umgekehrt; hineingebracht haben ihn zuerst Freunde.
 
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Ost, West und die Nazis, die ihre Ruhe haben|Felix Benneckenstein]]** (Siedler): Fast sein ganzes altes Umfeld wohne heute mit anderen Neonazis in Gemeinden und habe dort seine Ruhe.
 </details>
 
 > [!question] Die Reibung
@@ -86,6 +90,8 @@ Die Forschung ist sich hier ungewöhnlich einig: Fast nie ist es ein Argument. T
 
 Die Beraterinnen und Berater des Ausstiegsprojekts JUMP in Mecklenburg-Vorpommern sprechen von „Irritationsmomenten“: eine persönliche Krise, der Beginn einer Ausbildung, neue Freunde, eine Begegnung — und oft die Erfahrung, selbst Opfer der eigenen Kameradschaft geworden zu sein ([NDR, 24.02.2026](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rechtsextreme-jugend-in-mv-was-bewegt-zum-ausstieg,jugend-110.html)). Wichtig ist die Unterscheidung, die ein systematischer Review zieht: Sich von der Szene zu lösen (*disengagement*) und ihr Denken abzulegen (*deradicalization*) sind zwei Schritte, die oft Jahre auseinanderliegen ([Windisch et al. 2016](https://digitalcommons.chapman.edu/sociology_articles/23)). Und der Staat? Polizeidruck kann erschöpfen und zum Ausstieg treiben, die Festnahme *mit der Gruppe* kann sie zusammenschweißen — beides beschreibt derselbe Bericht ([Bjørgo & Carlsson 2005](https://www.files.ethz.ch/isn/27305/677.pdf)). Abschreckend wirkt die Wahrscheinlichkeit, erwischt zu werden, kaum die Härte ([Nagin 2013](https://doi.org/10.1086/670398)); als unfair erlebte Strafe erzeugt Trotz ([Sherman 1993](https://doi.org/10.1177/0022427893030004006)). Wo das Umfeld die Grenze zieht, verschiebt sich, was als normal gilt: In einem Experiment an 56 amerikanischen Mittelschulen sanken die gemeldeten Konflikte um ein Viertel, nachdem kleine Schülergruppen öffentlich dagegen eintraten, am stärksten dort, wo die Gruppe Schüler enthielt, auf die die anderen schauen ([Paluck, Shepherd & Aronow 2016](https://doi.org/10.1073/pnas.1514483113)). Für Rechtsextremismus ist das nicht gemessen; es beschreibt aber, was Felix' Klasse tat.
 
+Bei Kindern ist es noch deutlicher: Als Schutz nennt die erste systematische Übersicht Hobbys und Beziehungen außerhalb der Familie, das Älterwerden und eigenes kritisches Denken ([van Wieringen u. a. 2025](https://doi.org/10.1007/s10826-025-03122-y), systematische Übersicht); Jugendliche mit eingewanderten Freunden übernahmen die Vorurteile ihrer Eltern weniger ([Miklikowska 2017](https://doi.org/10.1111/bjop.12236), Längsschnitt). Der Staat hält sich zurück: Einen Präzedenzfall, in dem eine rechtsextreme Erziehung als solche als Gefährdung des Kindeswohls galt, gibt es nicht ([Jugendhilfeportal](https://jugendhilfeportal.de/artikel/kinder-und-jugendschutz-im-kontext-rechtsextremismus)), und das Bundesverwaltungsgericht ließ 2026 die Kindererziehung der Artgemeinschaft als Verbotsgrund ausdrücklich nicht gelten ([BVerwG 6 A 18.23](https://www.bverwg.de/pm/2026/30), Rn. 94).
+
 **Die Stimmen**
 
 - **[[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Der Bierkasten auf der Straße|Eichi]]:** Die schwangere Freundin stellt ihn vor die Wahl, er wirft den Bierkasten auf die Straße — ein Anfang, dem noch zehn Jahre folgen.
@@ -96,8 +102,9 @@ Die Beraterinnen und Berater des Ausstiegsprojekts JUMP in Mecklenburg-Vorpommer
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#3. Der Weg heraus — Befreiung, nicht Bildung|Dietrich Bonhoeffer]]:** „Nicht ein Akt der Belehrung, sondern allein ein Akt der Befreiung“ — zuerst muss sich die Gruppe lösen.
 - **[[ARTE 42 — Koennen wir uns aendern#Wie stabil sind wir? Das Gummiband|ARTE 42]]:** Persönlichkeit reift an Partnerschaft und Beruf, weniger an Vorsätzen.
 - **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Das Straßenfest in Erding|Felix Benneckenstein]]** (Gegenfall): Mit sechzehn geht er dazwischen, als ein Skinhead eine Gaspistole auf Kinder richtet, wird verprügelt, ist fast draußen — bis ein Kader den Abend umdeutet. Entscheidend ist, wer die Irritation zuerst deutet.
+- **[[Marcant und Maren — Kindheit in der Neonazi-Szene#Wer sie herausgeholt hat|Maren]]:** Herausgeholt haben sie ein Schulbuch, eine Tante, eine Englischlehrerin, die nach dem Unterricht sitzen blieb, und ein Vater, der um das Sorgerecht kämpfte — auf Marcants Frage, ob äußere Einflüsse sie gerettet hätten: „Ja, immer.“
 
-<details><summary>Weitere Stimmen (7)</summary>
+<details><summary>Weitere Stimmen (8)</summary>
 
 - **[[Marcant — Ausstieg aus der rechten Szene#Marcants Methode Peinlichkeit als politisches Werkzeug|Marcant]]** (Methode): Lächerlichkeit wirkt bei den Trendrechten besser als jede Widerlegung; die Gefestigten erreicht er nicht.
 - **[[Julie Pagis — Psychologie der charismatischen Kontrolle#Gender und Widerstand Warum die Frauen sich leichter lösten|Julie Pagis]]** (übertragbar, Sekte): Die Frauen lösten sich leichter, weil sie die Bindung an Kinder und Familie nie abrissen.
@@ -107,6 +114,7 @@ Die Beraterinnen und Berater des Ausstiegsprojekts JUMP in Mecklenburg-Vorpommer
 - **[[Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird#Die These|Spur Loosh]]** (übertragbar, Verschwörungsglaube): Widerlegung tötet kein Weltbild; die Peripherie fällt ab, der Kern bleibt.
 - **[[Florian Homm - Ich war eine Leistungsmaschine#Die Leere an der Spitze — Der Ausstieg|Florian Homm]]** (übertragbar): Leere auf dem Gipfel, dann eine Partnerin, die fragt, wer etwas von ihm will.
 
+- **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Abendbrottisch und Baseballschläger|Ilko-Sascha Kowalczuk]]** (Familie): „Diese Baseballschläger, die sind jetzt Eltern“ — die stärkste Sozialisationsinstanz sei der Abendbrottisch.
 </details>
 
 > [!question] Die Reibung
@@ -198,7 +206,7 @@ Ob ein Täter sich selbst vergeben darf, trennt die Psychologie genauer als die 
 | 03.10.2026 | [[Philip Schlaffer — Kann man sich aendern#Nachbesprechung|Philip Schlaffer — Kann man sich ändern?]] | Darf sich ein Täter selbst vergeben? Echte vs. Pseudo-Selbstvergebung (Wenzel/Woodyatt), Schuld vs. Scham und Rückfall (Tangney 2014), Restorative-Justice-Konferenzen (Campbell-Review 2013), Walters zu Hasskriminalität, Wiesenthal, Arendt; Schlaffers Video mit seinem Opfer |
 | 08.10.2026 | [[Susanne Boshammer — Was heisst verzeihen#Nachbesprechung|Susanne Boshammer — Was heißt verzeihen?]] | Selbstverzeihen: „unversöhnt mit der Tat“ gegen Griswold, Dillon; Selbstmitgefühl und Wiedergutmachung (Breines & Chen), Davis-Meta-Analyse, Moral Injury, Desistance (Kurlychek, Blumstein & Nakamura) |
 | 24.10.2026 | [[Marcant — Ausstieg aus der rechten Szene#Nachbesprechung|Marcant — Ausstieg aus der rechten Szene]] | Wie viel hat der Feed getan? TikTok-Audit (Boeker & Urman 2022), YouTube: Whittaker 2021 gegen Chen 2023 und Hosseinmardi 2024 · Warum wirkt Peinlichkeit? Normwandel an 56 Schulen (Paluck 2016), Prebunking-Videos (Roozenbeek 2022), Erzählform wirkt für beide Seiten (Frischlich 2019) |
-
+| 23.11.2026 | [[Marcant und Maren — Kindheit in der Neonazi-Szene#Nachbesprechung|Marcant und Maren — Kindheit in der Neonazi-Szene]] | Hineingeboren: völkische Siedler („Zusammenrücken“, Verfassungsschutz Brandenburg, Deppisch u. a. 2023, BVerwG zur Artgemeinschaft 2026) · Was holt ein Kind heraus? Übersicht van Wieringen u. a. 2025, Avdeenko & Siedler 2017, Miklikowska 2015/2017, § 1666 BGB, kein Präzedenzfall |
 ---
 
 ## Verbindungen

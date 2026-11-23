@@ -278,6 +278,9 @@ Die Spur zählt, wie viel Gewalt aus Überzeugung geschieht, rechts, links, reli
 
 Ein Ausstieg aus der anderen Szene: Tugay Sarac, schwul, ging in den Islamismus als Flucht vor sich selbst und fand danach eine queerfreundliche Moschee. Am Anfang seiner Geschichte steht dieselbe Vorstellung von Männlichkeit, die Benneckenstein als Pflicht übernahm.
 
+### → [[Marcant und Maren — Kindheit in der Neonazi-Szene]]
+
+Was Wichmann von Eltern verlangt, die Tür offen zu halten, übernahmen bei Maren, die in eine Neonazi-Familie hineingeboren wurde, Großmutter, Tante und eine Lehrerin; heute tut sie es selbst für ihre jüngeren Geschwister.
 
 ---
 

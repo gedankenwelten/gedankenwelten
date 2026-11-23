@@ -323,6 +323,10 @@ Das Gegenstück zum Bierkasten: Benneckenstein war mit sechzehn nach einem Stra�
 ### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
 Eichis Mannschaft entscheidet offen über die zweite Chance, über Schlaffer berät ein Sportverein heimlich. Beide lassen Menschen über sich urteilen, die nicht ihre Opfer waren — und Schlaffer bekommt dafür im Saal eine Zuhörerin, die genau das bestreitet.
 
+### → [[Marcant und Maren — Kindheit in der Neonazi-Szene]]
+
+Eichi ging ohne Ideologie im Elternhaus hinein, Maren wuchs mit ihr auf und fand heraus. Nebeneinander gelesen sprechen beide Geschichten für die Frage, ob sich jemand für das Kind interessiert.
+
 ---
 
 ## Weiterdenken

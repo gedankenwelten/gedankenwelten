@@ -25,8 +25,8 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 39,
-   "aufrufe": 41
+   "leser": 40,
+   "aufrufe": 42
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -45,8 +45,8 @@
   },
   {
    "pfad": "/DenkerVita/Stephan-Bartunek",
-   "leser": 17,
-   "aufrufe": 18
+   "leser": 18,
+   "aufrufe": 19
   },
   {
    "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -320,8 +320,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 13,
-     "aufrufe": 13
+     "leser": 14,
+     "aufrufe": 14
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -329,14 +329,14 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 11,
-     "aufrufe": 14
+     "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 10,
-     "aufrufe": 10
+     "aufrufe": 12
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
@@ -635,8 +635,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 39,
-     "aufrufe": 41
+     "leser": 40,
+     "aufrufe": 42
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -655,8 +655,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 17,
-     "aufrufe": 18
+     "leser": 18,
+     "aufrufe": 19
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 131,
-     "aufrufe": 139
+     "leser": 132,
+     "aufrufe": 140
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1014,17 +1014,17 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 18,
+     "aufrufe": 19
+    },
+    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 17,
      "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 17,
-     "aufrufe": 18
-    },
-    {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 17,
      "aufrufe": 18
     },
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 131,
-     "aufrufe": 139
+     "leser": 132,
+     "aufrufe": 140
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1319,17 +1319,17 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 18,
+     "aufrufe": 19
+    },
+    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 17,
      "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 17,
-     "aufrufe": 18
-    },
-    {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 17,
      "aufrufe": 18
     },
@@ -1540,8 +1540,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 29,
-     "aufrufe": 29
+     "leser": 30,
+     "aufrufe": 30
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1575,8 +1575,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 11,
-     "aufrufe": 11
+     "leser": 12,
+     "aufrufe": 12
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",

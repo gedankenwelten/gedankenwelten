@@ -344,6 +344,10 @@ Ein zweiter Aufsteiger bei Barbara Bleisch, der die schöne Deutung ablehnt (Kin
 ### → [[Harry Pfau — Harry macht satt]]
 Harry Pfau lebte dreizehn Jahre auf der Straße und erzählt seine Rückkehr ebenfalls nicht als Heldenreise: Neben der eigenen Entscheidung nennt er das Glück, dass ihm jemand half.
 
+### → [[Marcant und Maren — Kindheit in der Neonazi-Szene]]
+
+Eine verwandte Konstellation aus der Sicht eines Mädchens: Marens Mutter folgte dem neonazistischen Stiefvater nach Sachsen und nahm sie mit, der Bruder blieb, und auch Maren erzählt es ohne Hass.
+
 ---
 
 ## Weiterdenken

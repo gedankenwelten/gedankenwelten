@@ -112,11 +112,11 @@ Die Gedankenwelten (luc)
 >
 > Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
-> **22.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+> **23.11.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
 >
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+> Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
 
-> → *15 weitere in* [[Panorama]]
+> → *16 weitere in* [[Panorama]]
 
 ### GoodNews
 

@@ -197,3 +197,7 @@ Von Redeckers Analyse des „Drangs nach Härte" als autoritäre Sehnsucht ergä
 ### → [[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung]]
 
 Aly zeigt am NS-Regime, wie Gefolgschaft durch materielle und psychische Belohnung erkauft wird. Pagis' Fernando bot keine materiellen Vorteile — im Gegenteil. Aber er bot etwas Wertvolleres: *Sinn* und *Zugehörigkeit* in einer Phase der Orientierungslosigkeit. Beide Fälle zeigen: Gefolgschaft hat immer einen (vermeintlichen) Nutzen für die Gefolgschaft.
+
+### → [[Marcant und Maren — Kindheit in der Neonazi-Szene]]
+
+Auch Maren, aufgewachsen in einer Neonazi-Familie, die sie im Rückblick an eine Sekte erinnert, schützten die Bindungen nach außen, nur dass ein Kind sie nicht selbst wählen kann.

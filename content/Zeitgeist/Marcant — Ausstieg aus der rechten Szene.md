@@ -331,6 +331,10 @@ Was hier „Verfügbarkeitsheuristik“ heißt, misst [[BissenBlaBla — AfD-Beh
 ### → [[Panorama/Kann die Mitte auf TikTok mithalten|Kann die Mitte auf TikTok mithalten?]]
 Marcants Spott als eines der Beispiele, wie man auf TikTok gegen die Ränder Reichweite holt, ohne Falsches zu behaupten, und was daran offen bleibt.
 
+### → [[Marcant und Maren — Kindheit in der Neonazi-Szene]]
+
+Die Peinlichkeit, mit der Marcant arbeitet, fand Maren als Kind in einer Neonazi-Familie selbst, beim „Klapprechner“ ihres Stiefvaters, über den sie sich mit einer Freundin lustig machte.
+
 ---
 
 ## Weiterdenken

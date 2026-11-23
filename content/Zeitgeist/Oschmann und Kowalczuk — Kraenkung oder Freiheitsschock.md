@@ -543,6 +543,10 @@ Für den Historiker Wolfgang Niess ist der Mauerfall das Symbol der friedlichen 
 
 Was hinter der Gardine sitzt: In Serbien die Angst vor Entlassung in kleinen Orten, und Studierende, die jeden Anführer verweigern.
 
+### → [[Marcant und Maren — Kindheit in der Neonazi-Szene]]
+
+Bei Marcant erzählt Maren von einem Abendbrottisch, an dem ihr neonazistischer Stiefvater Tischsprüche vorlas; die Familie zog aus Niedersachsen nach Sachsen, ein Abendbrottisch, der in den Osten kam, statt aus ihm zu stammen.
+
 ---
 
 ## Weiterdenken
