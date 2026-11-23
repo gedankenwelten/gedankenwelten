@@ -6243,3 +6243,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Originale** | [Gemeinsame Erklärung von Shenzhen (Weißes Haus)](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/) · [Memcon Clinton–Putin 4.6.2000 (NSA)](https://nsarchive.gwu.edu/sites/default/files/documents/Doc-3-2000-06-04%20Clinton-Putin-Kremlin-memcon.pdf) · [NATO Expansion: What Gorbachev Heard (NSA)](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early) |
 | **Nachbesprechung** | [McFaul 2020](https://doi.org/10.1162/isec_a_00390) · [Sarotte 2019](https://doi.org/10.1162/isec_a_00353) · [Sechser & Fuhrmann 2013](https://doi.org/10.1017/s0020818312000392) · [Freedman 2023](https://doi.org/10.1080/00396338.2023.2285598) · [Papayoanou 1997](https://doi.org/10.1111/0020-8833.00035) · [Bunde 2022](https://doi.org/10.1080/13523260.2022.2092820) |
 | **Transkript** | `Gedankenwelten/Transkripte/Thumann_Putins_Plan_BqJRSHXTIV8_Transkript.txt` (Auto-Untertitel, drei Stellen am Ton geprüft) |
+
+## Tag der Evolution (24.11.2026) — Peter Schönswetter und Oliver Trapp
+
+| | |
+|---|---|
+| **Vortrag Schönswetter** | [Einblicke in die Evolution der Alpenflora](https://www.youtube.com/watch?v=F23FpctI-PY) — Naturmuseum Südtirol, Plattform Biodiversität, Januar 2022, 75 Min. |
+| **Vortrag Trapp** | [Chemische Wege zum Ursprung des Lebens — Oliver Trapp bei #FasziAstroOnline](https://www.youtube.com/watch?v=6HdYdS9MJD0) — Haus der Astronomie, März 2023, 66 Min. |
+| **Notizen** | [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen]] · [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens]] |
+| **Viten** | [[DenkerVita/Peter Schoenswetter]] · [[DenkerVita/Oliver Trapp]] |
+| **Anlass** | [On the Origin of Species, 24.11.1859 (Wikipedia)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) · [Darwin an Hooker, 1.2.1871 — der „warme kleine Tümpel“](https://www.darwinproject.ac.uk/letter/DCP-LETT-7471.xml) |
+| **Transkripte** | `Gedankenwelten/Transkripte/Schoenswetter_Alpenflora_Transkript.txt` (Whisper large-v3-turbo, keine YouTube-Untertitel; Pflanzennamen oft verhört) · `Gedankenwelten/Transkripte/Trapp_Ursprung_Leben_Transkript.txt` (YouTube-Autountertitel, vollständig) |
+| **Herkunft** | beide Diogenes-Funde (Nächte 31.08. und 01.09.2026, Strom „blindfleck“), gewählt über /kairos |

@@ -1,0 +1,49 @@
+---
+title: Oliver Trapp — DenkerVita
+description: "Oliver Trapp sucht im Labor den Übergang von Chemie zu Leben: Meteoritenstaub, der CO2 bindet, und kleine Katalysatoren, die sich selbst verändern und der Auslese unterliegen."
+tags: [denker-vita, wissenschaft, chemie, evolution, ursprung-des-lebens, deutschland]
+---
+
+# Oliver Trapp — DenkerVita
+
+## Biografie
+
+- **Chemiker an der LMU München.** Seit 2016 hat Oliver Trapp eine W3-Professur für Organische Chemie an der Ludwig-Maximilians-Universität ([Kurzbiografie der Arbeitsgruppe](https://www.cup.lmu.de/oc/trapp/trapp.html)); die Fakultät für Chemie und Pharmazie führt ihn als Lehrstuhlinhaber und als ihren Dekan ([Dekanat der Fakultät](https://www.cup.lmu.de/de/fakultaet/dekanat/?lang=de)). Das Max-Planck-Institut für Astronomie in Heidelberg, dessen Max-Planck-Fellow er 2015 wurde, führt ihn in der Abteilung Planeten- und Sternentstehung ([MPIA](https://www.mpia.de/person/107436)).
+- **Geboren 1973** ([Kurzbiografie](https://www.cup.lmu.de/oc/trapp/trapp.html)). Als Schüler gewann er 1992 beim 27. Bundeswettbewerb von Jugend forscht den ersten Preis in Chemie; 2014 saß er selbst in der Bundesjury des Wettbewerbs, als Sprecher für Chemie.
+- **Werdegang** (alles laut [Kurzbiografie](https://www.cup.lmu.de/oc/trapp/trapp.html)): Chemiestudium 1993–1998 in Tübingen, Diplom und 2001 Promotion bei V. Schurig am Institut für Organische Chemie; 2002–2004 Postdoc bei R. N. Zare an der Stanford University; 2004–2008 Leiter einer Emmy-Noether-Nachwuchsgruppe am Max-Planck-Institut für Kohlenforschung; 2009 Habilitation an der Ruhr-Universität Bochum. Von 2008 bis 2016 war er Professor für Organische Chemie in Heidelberg, 2012–2015 Leiter des dortigen Organisch-Chemischen Instituts. 2015 wurde er wissenschaftlicher Koordinator der Heidelberg Initiative for the Origins of Life.
+- **Auszeichnungen** (Auswahl, [Kurzbiografie](https://www.cup.lmu.de/oc/trapp/trapp.html)): Heinz Maier-Leibnitz-Preis der DFG (2008), ERC Starting Grant (2010), Förderung der VolkswagenStiftung in der Initiative „Life?“ (2019–2024), Horst-Pracejus-Preis der Gesellschaft Deutscher Chemiker (2023).
+- **Forschungsfelder:** Neben der präbiotischen Chemie arbeitet seine Gruppe an Katalysatoren, die ihre eigene spiegelbildliche Bevorzugung verstärken, an stereochemisch beweglichen Liganden, an Hochdurchsatz-Analytik für katalytische Reaktionen und an dynamischer Chromatographie ([Forschungsinteressen](https://www.cup.lmu.de/oc/trapp/trapp.html)). 2010 gründete er die Firma Trapp ChemTech GmbH & Co. KG.
+
+## Ausgewählte Publikationen
+
+Bücher hat Trapp nicht geschrieben; seine Arbeit steht in Fachartikeln (Liste auf der [Seite der Arbeitsgruppe](https://www.cup.lmu.de/oc/trapp/)). Sechs, die den Weg zum Ursprung des Lebens nachzeichnen:
+
+- **Ein Katalysator, der sich selbst verstärkt** — [Storch & Trapp 2017](https://doi.org/10.1038/nchem.2638), *Nature Chemistry*. Ein gezielt entworfenes System, in dem das Produkt über nicht-kovalente Bindungen an den Katalysator seine eigene spiegelbildlich bevorzugte Bildung verstärkt. Das ist die Laborfrage hinter der Händigkeit des Lebens.
+- **Ein direkter Weg zu den Bausteinen der DNA** — [Teichert, Kruse & Trapp 2019](https://doi.org/10.1002/anie.201903400), *Angewandte Chemie*. Unter präbiotisch plausiblen Bedingungen in Wasser entstehen Desoxyribonukleoside aus allen kanonischen Basen, mit Acetaldehyd und Vorstufen der Zucker, und zwar mit hoher Selektivität. Damit zeigt sich ein Weg zu DNA-Bausteinen, der nicht erst über die RNA führt.
+- **Organokatalysatoren, die sich verändern** — [Closs, Bechtel & Trapp 2021](https://doi.org/10.1002/anie.202112563), *Angewandte Chemie*. Präbiotische Imidazolidin-4-thione wandeln ihre eigene Zusammensetzung dynamisch ab und passen sich ihrer Umgebung an: erste Schritte zu einem evolutionsfähigen System aus kleinen Molekülen.
+- **Peptide aus flüssigem Schwefeldioxid** — [Sauer u. a. 2021](https://doi.org/10.1038/s41467-021-27527-7), *Nature Communications*. In flüssigem SO₂ gelingt die kupferkatalysierte Verknüpfung von Aminosäuren deutlich besser als in Wasser; alle zwanzig proteinogenen Aminosäuren werden eingebaut.
+- **Meteoritenstaub als Katalysator** — [Peters u. a. 2023](https://doi.org/10.1038/s41598-023-33741-8), *Scientific Reports*. Eisenreiche Partikel aus Meteoriten und Vulkanen binden CO₂ und liefern selektiv Aldehyde, Alkohole und Kohlenwasserstoffe, die Vorstufen der Lebensbausteine, unter einer breiten Spanne früher Bedingungen.
+- **Die Übersicht** — [Bechtel u. a. 2023](https://doi.org/10.1021/acs.accounts.3c00396), *Accounts of Chemical Research*. Der Übersichtsartikel der Gruppe über (Photoredox-)Organokatalyse bei der Entstehung des Lebens: Entdeckung, Anwendungen, molekulare Evolution.
+
+## Empfehlenswerte Videos & Vorträge
+
+- [Chemische Wege zum Ursprung des Lebens](https://www.youtube.com/watch?v=6HdYdS9MJD0) — Vortrag in der Reihe #FasziAstroOnline des Hauses der Astronomie, März 2023, gut eine Stunde mit Fragen aus dem Publikum. Grundlage unserer Note.
+- [Oliver Trapp: Chemische Evolution](https://www.youtube.com/watch?v=ZOK9zumyvuQ) — Vortrag im Deutschen Museum am 11. März 2026, Reihe „Wissenschaft für jedermann“ ([Ankündigung des ORIGINS-Clusters](https://www.origins-cluster.de/aktuelles/oeffentliche-events/chemische-evolution-von-molekuelen-zur-entstehung-des-lebens)): von CO₂ und Meteoritenmaterial bis zu selbstorganisierenden Katalysatoren und ersten Protozellen.
+
+## Kernthesen
+
+- **Zufall allein erklärt das Leben nicht.** Schon für ein Protein aus 250 Aminosäuren gäbe es etwa 1,8 × 10³²⁵ mögliche Abfolgen; von jeder nur ein Molekül zu bilden, bräuchte weit mehr Masse, als die Erde hat. Es muss Wege geben, auf denen die Chemie bestimmte Moleküle bevorzugt *(Beleg: Vortrag 2023, [▶ 6:58](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=418), [▶ 7:43](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=463), [▶ 37:45](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=2265))*.
+- **Am Anfang stand Eisen aus dem All.** Meteoriten, die in der dichten Uratmosphäre verglühten, hinterließen feinste Eisenpartikel. Die erzeugten mit Wasser Wasserstoff und verwandelten mit ihm das CO₂ der Luft in Formaldehyd, Acetaldehyd und Alkohole, die Ausgangsstoffe für Zucker, Nukleobasen und Aminosäuren *(Beleg: Vortrag [▶ 11:34](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=694), [▶ 12:20](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=740); [Peters u. a. 2023](https://doi.org/10.1038/s41598-023-33741-8))*. Fiel zu wenig katalytisch aktives Material, wäre das CO₂ nicht verbraucht worden; Trapp spricht von einem Kipppunkt am Anfang der Erdgeschichte *(Beleg: [▶ 15:25](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=925), [▶ 54:37](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=3277))*.
+- **Evolution beginnt schon bei kleinen Molekülen.** Aus einer Variante der Strecker-Synthese entstehen in Gegenwart von Schwefelwasserstoff Imidazolidin-4-thione, eine lange übersehene Stoffklasse. Sie katalysieren ohne Metall, nutzen Sonnenlicht und bauen ihre eigenen Bausteine um. So entstehen neue Katalysatoren ohne Zutun von außen: Mutation und Auslese auf molekularer Ebene *(Beleg: Vortrag [▶ 23:55](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=1435), [▶ 27:01](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=1621), [▶ 42:22](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=2542); [Closs u. a. 2020](https://doi.org/10.1002/chem.202001514), [Closs, Bechtel & Trapp 2021](https://doi.org/10.1002/anie.202112563))*.
+- **Der Motor ist Geschwindigkeit.** Was sich durchsetzt, ist der schnellere Katalysator: kinetische Selektion, „das Schnellste gewinnt“. Angetrieben wird sie vom Wechsel von Tag und Nacht, nachts bilden sich neue Katalysatoren, tagsüber entstehen unter Licht neue Bausteine *(Beleg: Vortrag [▶ 28:33](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=1713), [▶ 34:42](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=2082))*.
+- **Die Händigkeit des Lebens hilft ihm.** Viele sehen in der einheitlichen Spiegelform der Biomoleküle eine Komplikation; für Trapp ist sie eine Vereinfachung, weil sich Stränge aus Bausteinen einer einzigen Spiegelform viel leichter vervielfältigen lassen. Ein einziges zufällig entstandenes Katalysatormolekül könnte genügt haben, wenn es schnell genug Bausteine seiner eigenen Händigkeit bevorzugt *(Beleg: Vortrag [▶ 52:21](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=3141), [▶ 60:03](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=3603); zur Selbstverstärkung [Storch & Trapp 2017](https://doi.org/10.1038/nchem.2638))*.
+- **Bausteine zusammenzuschütten ergibt noch kein Leben.** Es braucht Systeme, die sich ohne Eingriff von außen weiterentwickeln, Werkzeuge, die ihre eigenen Werkzeuge hervorbringen, wie beim Bau eines Autos erst Werkzeuge entstehen und verfeinert werden mussten *(Beleg: Vortrag [▶ 10:02](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=602), [▶ 63:51](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=4431), [▶ 64:37](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=4477))*.
+- **Leben gibt es wohl auch anderswo, auf Kohlenstoff gebaut.** Wenn die Bedingungen zusammenkommen, hält er die Entstehung solcher Netzwerke für chemisch angelegt und darum nicht auf einen einzigen Tümpel beschränkt; Leben im All in irgendeiner Form hält er für sicher. Silizium scheidet für ihn als Grundlage aus, weil es zu wenig vielfältige Verbindungen bildet und zu Sand oxidiert *(Beleg: Vortrag [▶ 46:12](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=2772), [▶ 56:56](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=3416), [▶ 57:42](https://www.youtube.com/watch?v=6HdYdS9MJD0&t=3462))*.
+
+## Verbindungen zu anderen Denkern
+
+*(wird ergänzt)*
+
+## Gedankenwelten-Notes
+
+- [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Chemische Wege zum Ursprung des Lebens]]

@@ -1550,3 +1550,9 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Michael Thumann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Michael Thumann]]
+
+## Peter Schönswetter
+**Status:** ✓ Vollanalyse → [[DenkerVita/Peter Schoenswetter]]
+
+## Oliver Trapp
+**Status:** ✓ Vollanalyse → [[DenkerVita/Oliver Trapp]]

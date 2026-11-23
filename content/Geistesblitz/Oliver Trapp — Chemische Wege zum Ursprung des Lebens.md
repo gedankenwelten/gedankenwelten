@@ -3,6 +3,7 @@ title: "Oliver Trapp — Chemische Wege zum Ursprung des Lebens"
 description: "Bevor es Leben gab, gab es schon Auslese: Der Chemiker Oliver Trapp sucht Moleküle, die sich selbst verändern, und findet die Evolution eine Stufe früher, als man sie vermutet."
 date: 24.11.2026
 aktualisiert: 2026-11-24
+raetsel: "Es regnete Eisen in warme Tümpel. Was am schnellsten war, baute weiter."
 tags:
   - geistesblitz
   - kalender
@@ -10,7 +11,6 @@ tags:
   - chemie
   - ursprung-des-lebens
   - wissenschaft
-  - naturwissenschaft
   - year-2023
 aliases:
   - Trapp Ursprung des Lebens
@@ -18,6 +18,16 @@ aliases:
 ---
 
 # Oliver Trapp — Chemische Wege zum Ursprung des Lebens
+
+![[assets/Oliver-Trapp-Chemische-Wege-zum-Ursprung-des-Lebens-banner.jpg|Ölbild in leuchtendem Dunst: Über einer dunklen vulkanischen Küste mit dampfenden Spalten fallen mehrere helle Meteore durch einen ocker- und rosafarbenen Himmel und zerstieben zu goldenem Staub; tief am Horizont steht ein großer, blasser Mond, im Vordergrund glänzen flache, warme Tümpel im Licht.|1200]]
+
+<details><summary>🎨</summary>
+
+**J. M. W. Turner**, das späte Werk, in dem sich Licht, Dampf und Feuer kaum noch trennen lassen. Trapps Geschichte beginnt am Himmel: Meteoriten verglühen in der dichten Uratmosphäre und lassen feinen Eisenstaub zurück, der in Darwins „warme kleine Tümpel“ regnet. Turner malte das Erhabene, ohne es laut zu machen. Der Mond steht groß und nah, wie er es kurz nach seiner Entstehung tat. Es gibt noch kein Leben im Bild, nur die Bühne dafür.
+
+*Prompt:* Oil painting in the late style of J. M. W. Turner, luminous vaporous atmosphere, wide horizontal banner. The young Earth at dawn: a dense ochre and rose sky with several bright meteors streaking down and dissolving into glowing trails of fine golden dust; below, a dark volcanic shoreline with steaming vents and a chain of small shallow warm ponds that catch the light like coins; a pale half-formed moon very large and low on the horizon; no plants, no animals, no people. Swirling light, sublime, quiet rather than violent, soft edges, broad brushwork, scumbled glazes. No text, no letters, no monogram, no signature.
+
+</details>
 
 > [!abstract] Worum es geht
 > Bevor es Leben gab, gab es schon Auslese. Der Münchner Chemiker Oliver Trapp erzählt, wie aus Kohlendioxid, Wasser und dem Eisenstaub verglühender Meteoriten die ersten Bausteine entstanden sein könnten, und warum der Zufall allein dafür nicht reicht.
@@ -36,7 +46,9 @@ aliases:
 Quelle: [Chemische Wege zum Ursprung des Lebens — Oliver Trapp bei #FasziAstroOnline](https://www.youtube.com/watch?v=6HdYdS9MJD0) · Haus der Astronomie, Heidelberg, Reihe „Faszination Astronomie Online“, März 2023, 66 Min. Vortrag (bis 35:30), danach liest Trapp die Fragen aus dem Chat selbst vor und beantwortet sie.
 
 > [!info] Wer spricht?
-> **Oliver Trapp** ist seit 2016 Lehrstuhlinhaber an der Fakultät für Chemie der Ludwig-Maximilians-Universität München ([Videobeschreibung](https://www.youtube.com/watch?v=6HdYdS9MJD0)). Er erforscht selbstverstärkende und autokatalytische Reaktionsnetzwerke, die Symmetriebrechung, durch die das Leben nur eine Händigkeit seiner Moleküle kennt, und die Evolution auf molekularer Ebene.
+> **Oliver Trapp** hat seit 2016 den Lehrstuhl für Organische Chemie an der Ludwig-Maximilians-Universität München; vorher war er von 2008 bis 2016 Professor in Heidelberg ([Kurzbiografie, LMU](https://www.cup.lmu.de/oc/trapp/trapp.html)). Seit 2015 ist er zugleich Max-Planck-Fellow am Max-Planck-Institut für Astronomie in Heidelberg ([MPIA](https://www.mpia.de/person/107436)), daher die Nähe zum Haus der Astronomie.
+>
+> Er erforscht selbstverstärkende und autokatalytische Reaktionsnetzwerke, die Symmetriebrechung, durch die das Leben nur eine Händigkeit seiner Moleküle kennt, und die Evolution auf molekularer Ebene ([Videobeschreibung](https://www.youtube.com/watch?v=6HdYdS9MJD0)).
 >
 > → [[DenkerVita/Oliver Trapp|DenkerVita]]
 

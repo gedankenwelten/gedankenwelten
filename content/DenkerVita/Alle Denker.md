@@ -742,6 +742,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## S
 
+**[[DenkerVita/Peter Schoenswetter|Peter Schönswetter]]** — Botanik/Evolutionsbiologie, liest aus dem Erbgut der Alpenpflanzen, wie Eiszeiten, Polyploidie und Hybridisierung dort Arten schaffen und zerstören.
 **[[DenkerVita/Miriam Steimer|Miriam Steimer]]** — Fernsehjournalistin, seit 2022 Leiterin des ZDF-Studios Ostasien in Peking (Nachfolge Ulf Röller); liest Chinas Machtpolitik über Protokoll und Gesten und sagt offen, wie wenig Korrespondenten dort wissen
 
 **[[DenkerVita/Pierre Sanoussi-Bliss|Pierre Sanoussi-Bliss]]** — Schauspieler und Regisseur (*1962, Ost-Berlin), „Der Alte“, Zeitzeuge queeren Lebens in Ost und West
@@ -825,6 +826,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
 
+**[[DenkerVita/Oliver Trapp|Oliver Trapp]]** — Organische Chemie/präbiotische Chemie, sucht im Labor den Übergang von Meteoritenstaub und CO₂ zu Katalysatoren, die sich selbst verändern.
 **[[DenkerVita/Tiana Travels|Tiana (Where Tiana Travels)]]** — Amerikanische YouTuberin in Paris; analysiert US-Systemprobleme (Gesundheitsmarkt, Schulen, Wahlverhalten) aus europäischer Distanz; Political-Science-Absolventin; "Temporarily Embarrassed Millionaires" als Erklärung für paradoxes Wahlverhalten
 
 **[[DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
