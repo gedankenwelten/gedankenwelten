@@ -1547,3 +1547,6 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Henrietta Lacks
 **Status:** ✓ Vollanalyse → [[DenkerVita/Henrietta Lacks]]
+
+## Michael Thumann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Thumann]]

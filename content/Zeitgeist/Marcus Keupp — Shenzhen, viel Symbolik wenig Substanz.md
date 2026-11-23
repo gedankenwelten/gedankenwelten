@@ -201,6 +201,10 @@ Notte stützt Keupps These von der Abhängigkeit mit belastbareren Zahlen als se
 
 Keupp wäre als europäischer Staatschef nicht nach Shenzhen gefahren und hält den Gegengipfel für das bessere Modell. Münkler zitiert dagegen den Satz *„Wer nicht am Tisch der Mächtigen sitzt, steht wohl auf der Speisekarte“* und fordert eine Führungsgruppe, die im „Schnellschach“ zugfähig ist. Im Ziel liegen sie nah beieinander: Münkler sieht Europa als „letzten Bannerträger von Demokratie und Rechtsstaatlichkeit“, Keupp hofft auf eine Weltordnung, die „unsere“ sein wird. Ob man dorthin durch Fernbleiben oder durch einen Platz am Tisch kommt, beantworten sie entgegengesetzt.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Verhandeln, aber nicht in Moskau|Michael Thumann — Was Putin von Europa will]]
+
+Thumann teilt Keupps Misstrauen gegen Putins Wort und rät trotzdem zum Gespräch, in Abu Dhabi oder Istanbul statt in Moskau und zuerst auf der Ebene der Sicherheitsberater.
+
 ---
 
 ## Weiterdenken

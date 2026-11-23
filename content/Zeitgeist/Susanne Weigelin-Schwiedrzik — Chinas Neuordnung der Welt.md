@@ -317,6 +317,10 @@ Im November 2026 sitzen die drei der *ménage à trois* in Shenzhen zum ersten M
 
 Am Abend des Dreiergipfels liest der Militärökonom Marcus Keupp das Dreieck gegen die *ménage à trois*: Russland sei „sicher die kleinste Macht“ und ein „Vasall Chinas“, und schon das Reden über Verhandlungen werte einen Kriegsverbrecher auf. Wo sie den Anker sucht, an dem ein Kriegsende verhandelbar wird, will er zuerst die militärische Lage ändern.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Shenzhen ein Punktsieg und ein Satz über Atomwaffen|Michael Thumann — Was Putin von Europa will]]
+
+Thumann bestreitet das Bild von drei Gleichstarken: Neben den USA und China sei Russland eine Regionalmacht, und Shenzhen sei für Putin ein Fest gewesen, aber „alles andere als Jalta“.
+
 ---
 
 ## Weiterführende Quellen

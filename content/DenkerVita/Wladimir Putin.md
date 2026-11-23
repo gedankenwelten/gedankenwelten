@@ -141,6 +141,8 @@ Beides gehört zusammen. Wer die Vorgeschichte verschweigt, versteht den Krieg n
 - [[DenkerVita/Theodor W. Adorno|Theodor W. Adorno]] — *Erziehung nach Auschwitz*: wer hart ist gegen sich, erkauft sich das Recht, hart gegen andere zu sein
 - [[DenkerVita/Xi Jinping|Xi Jinping]] — der andere Junge aus der Note über die Gefangenen des Systems: Auch er lernte aus dem Zerfall der Sowjetunion, nur eine andere Lehre
 
+- [[DenkerVita/Michael Thumann|Michael Thumann]] — sprach ihn dreimal aus nächster Nähe, nennt die NATO-Erzählung eine „Urlüge“ und datiert die Wende zur Konfrontation auf 2012
+
 ## Gedankenwelten-Notes
 
 - [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Putin — der Junge, der zuerst zuschlagen lernte|Gefangene des Systems]] — Putin als einer von fünf Fällen: Hof, KGB und Dresden als Formung, mit der Warnung, nicht in ihn hineinzulesen (Luc)

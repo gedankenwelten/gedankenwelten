@@ -400,6 +400,10 @@ Ein Floß auf der Memel, 2026: In Shenzhen umarmen sich Xi und Trump am Flughafe
 
 Der Militärökonom rechnet Kriege in Nachschub und Abnutzung und hält Moskaus Gesprächsangebote für „Finten, Pseudoangebote“: Ernsthaft verhandelt werde erst, wenn Putin militärisch nicht weiterkommt. Leonhards fünfte These erklärt, warum Keupps Prognose für Oktober 2023 nicht eintrat, obwohl die Logik darunter dieselbe ist: Die Einsicht folgt den Ressourcen nicht.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Wandel durch Handel|Michael Thumann — Was Putin von Europa will]]
+
+Thumann beantwortet die Frage, ob Putin zu sättigen ist, mit Nein: Wandel durch Handel trug bei einer saturierten Sowjetunion und verlor seinen Grund, als Moskau zurückhaben wollte.
+
 ---
 
 ## Weiterdenken

@@ -261,6 +261,10 @@ Baberowski denkt vom Tod her — erst die Endlichkeit nötigt zum Sinn; Mawick h
 
 Scherbakowa sieht dieselbe Rückkehr Stalins als Symbol des starken Staates, erklärt Putins Aufstieg aber aus dem nie aufgearbeiteten Terror-Erbe statt aus der Schocktherapie — die Gegenlesung zu seinem Russland von 1991/92.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Russland handelt aus sich heraus|Michael Thumann — Was Putin von Europa will]]
+
+Wo Baberowski „wir wissen es nicht“ sagt, legt Thumann sich fest: Putin handle aus inneren russischen Gegebenheiten, aus der Sorge um seine Macht.
+
 ---
 
 ### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]

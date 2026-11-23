@@ -405,6 +405,10 @@ Sanyals Forderung nach demselben Völkerrecht für alle ist der Maßstab, an dem
 
 Was Kurt Militarisierung nach innen nennt, verhandelt der Innenausschuss im Wortlaut: Schutzmaßnahmen des Verfassungsschutzes, heimliches Betreten von Wohnungen, ein BND, der im Ausland eingreift. El-Mafaalanis Frage, was Populisten erben, stellt dort Franziska Görlitz als Prüfstein für jedes Sicherheitsgesetz; Luca Manns hält die Angst vor dem Wohnungsbetreten dagegen für eine Erzählung vor allem rechter Kreise.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Warum der Osten an die Tür klopfte|Michael Thumann — Was Putin von Europa will]]
+
+Thumann erklärt die russische Begründung, um ihr zu widersprechen, also Verstehen ohne Teilen im Sinne Sanyals, und gerät dabei an einer Stelle in den Spott, vor dem sie warnt.
+
 ---
 
 ## Weiterdenken

@@ -821,6 +821,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Teresa Bücker|Teresa Bücker]]** — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit; NDR Sachbuchpreis 2023 für *Alle_Zeit*
 
+**[[DenkerVita/Michael Thumann|Michael Thumann]]** — Moskau-Korrespondent der *Zeit*, Jahrgang 1962; *Revanche* (2023), erklärt Putins Politik aus dem Inneren Russlands, nicht als Antwort auf den Westen
+
 **[[DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
 
 **[[DenkerVita/Tiana Travels|Tiana (Where Tiana Travels)]]** — Amerikanische YouTuberin in Paris; analysiert US-Systemprobleme (Gesundheitsmarkt, Schulen, Wahlverhalten) aus europäischer Distanz; Political-Science-Absolventin; "Temporarily Embarrassed Millionaires" als Erklärung für paradoxes Wahlverhalten

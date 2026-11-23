@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 110,
-   "aufrufe": 132
+   "leser": 109,
+   "aufrufe": 130
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -20,8 +20,8 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 40,
-   "aufrufe": 44
+   "leser": 41,
+   "aufrufe": 45
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -40,18 +40,18 @@
   },
   {
    "pfad": "/DenkerVita/Hartmut-Rosa",
-   "leser": 19,
-   "aufrufe": 21
-  },
-  {
-   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-   "leser": 17,
-   "aufrufe": 21
+   "leser": 20,
+   "aufrufe": 22
   },
   {
    "pfad": "/DenkerVita/Stephan-Bartunek",
+   "leser": 17,
+   "aufrufe": 18
+  },
+  {
+   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
    "leser": 16,
-   "aufrufe": 17
+   "aufrufe": 20
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -59,13 +59,13 @@
    "aufrufe": 21
   },
   {
-   "pfad": "/DenkerVita/Der-Dara",
-   "leser": 15,
-   "aufrufe": 16
-  },
-  {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
    "leser": 15,
+   "aufrufe": 15
+  },
+  {
+   "pfad": "/DenkerVita/Der-Dara",
+   "leser": 14,
    "aufrufe": 15
   },
   {
@@ -74,14 +74,14 @@
    "aufrufe": 12
   },
   {
-   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-   "leser": 10,
-   "aufrufe": 10
-  },
-  {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
    "leser": 9,
    "aufrufe": 11
+  },
+  {
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "leser": 9,
+   "aufrufe": 10
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -94,12 +94,12 @@
    "aufrufe": 11
   },
   {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "pfad": "/DenkerVita/Albert-Camus",
    "leser": 8,
-   "aufrufe": 9
+   "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Albert-Camus",
+   "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
    "leser": 8,
    "aufrufe": 8
   },
@@ -174,6 +174,11 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+   "leser": 6,
+   "aufrufe": 6
+  },
+  {
    "pfad": "/DenkerVita/Kerstin-Paschke",
    "leser": 5,
    "aufrufe": 7
@@ -215,11 +220,6 @@
   },
   {
    "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
    "leser": 5,
    "aufrufe": 5
   },
@@ -315,8 +315,8 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 19,
-     "aufrufe": 22
+     "leser": 18,
+     "aufrufe": 21
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -325,8 +325,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 13,
-     "aufrufe": 13
+     "leser": 12,
+     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -340,13 +340,18 @@
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 8,
-     "aufrufe": 9
+     "leser": 9,
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 7,
      "aufrufe": 7
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 6,
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
@@ -359,12 +364,12 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "pfad": "/DenkerVita/Der-Dara",
      "leser": 5,
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
+     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 5,
      "aufrufe": 5
     },
@@ -379,17 +384,7 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 4,
      "aufrufe": 4
     },
@@ -424,12 +419,22 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Panorama/Warum-waehlen-Menschen-Autoritaere",
+     "leser": 3,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
      "leser": 3,
      "aufrufe": 4
     },
     {
      "pfad": "/Denker/Pankaj-Mishra-Zeitalter-des-Zorns",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 3,
      "aufrufe": 3
     },
@@ -479,11 +484,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Panorama/Warum-waehlen-Menschen-Autoritaere",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/ARTE-Hybrider-Angriff-Putins-Krieg-gegen-Europas-Osten",
      "leser": 2,
      "aufrufe": 3
@@ -500,6 +500,11 @@
     },
     {
      "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 2,
      "aufrufe": 2
     },
@@ -554,7 +559,17 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Geistesblitz/Daniel-Jung-KI-hilft,-KI-hindert",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Geistesblitz/Mark-Benecke-und-Ines-Azrael-KI-Agenten-8,-Fragen-an-ColonistOne",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 2,
      "aufrufe": 2
     },
@@ -592,21 +607,6 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 2,
      "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
-     "leser": 2,
-     "aufrufe": 2
     }
    ]
   },
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 110,
-     "aufrufe": 132
+     "leser": 109,
+     "aufrufe": 130
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -630,8 +630,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 40,
-     "aufrufe": 44
+     "leser": 41,
+     "aufrufe": 45
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -650,18 +650,18 @@
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 19,
-     "aufrufe": 21
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "leser": 17,
-     "aufrufe": 21
+     "leser": 20,
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 17,
+     "aufrufe": 18
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 16,
-     "aufrufe": 17
+     "aufrufe": 20
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -669,13 +669,13 @@
      "aufrufe": 21
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 15,
-     "aufrufe": 16
-    },
-    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 15,
+     "aufrufe": 15
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
+     "leser": 14,
      "aufrufe": 15
     },
     {
@@ -684,14 +684,14 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 10,
-     "aufrufe": 10
-    },
-    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 9,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 9,
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -704,12 +704,12 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "pfad": "/DenkerVita/Albert-Camus",
      "leser": 8,
-     "aufrufe": 9
+     "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 8,
      "aufrufe": 8
     },
@@ -784,6 +784,11 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 5,
      "aufrufe": 7
@@ -825,11 +830,6 @@
     },
     {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 5,
      "aufrufe": 5
     },
@@ -950,8 +950,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 77,
-     "aufrufe": 88
+     "leser": 78,
+     "aufrufe": 89
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -965,8 +965,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 34,
-     "aufrufe": 43
+     "leser": 35,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -994,13 +994,13 @@
      "aufrufe": 27
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 24,
-     "aufrufe": 25
+     "aufrufe": 26
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 23,
+     "pfad": "/DenkerVita/Christine-Dankbar",
+     "leser": 24,
      "aufrufe": 25
     },
     {
@@ -1019,12 +1019,12 @@
      "aufrufe": 19
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 16,
-     "aufrufe": 17
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 17,
+     "aufrufe": 18
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "pfad": "/DenkerVita/Albert-Camus",
      "leser": 16,
      "aufrufe": 17
     },
@@ -1064,6 +1064,11 @@
      "aufrufe": 16
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 12,
+     "aufrufe": 14
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "leser": 12,
      "aufrufe": 14
@@ -1099,17 +1104,17 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 11,
-     "aufrufe": 13
-    },
-    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 11,
      "aufrufe": 13
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "leser": 11,
+     "aufrufe": 11
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 11,
      "aufrufe": 11
     },
@@ -1125,11 +1130,6 @@
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
-     "leser": 10,
-     "aufrufe": 10
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 10,
      "aufrufe": 10
     },
@@ -1255,8 +1255,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 77,
-     "aufrufe": 88
+     "leser": 78,
+     "aufrufe": 89
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1270,8 +1270,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 34,
-     "aufrufe": 43
+     "leser": 35,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1299,13 +1299,13 @@
      "aufrufe": 27
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 24,
-     "aufrufe": 25
+     "aufrufe": 26
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 23,
+     "pfad": "/DenkerVita/Christine-Dankbar",
+     "leser": 24,
      "aufrufe": 25
     },
     {
@@ -1324,12 +1324,12 @@
      "aufrufe": 19
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 16,
-     "aufrufe": 17
+     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "leser": 17,
+     "aufrufe": 18
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
+     "pfad": "/DenkerVita/Albert-Camus",
      "leser": 16,
      "aufrufe": 17
     },
@@ -1369,6 +1369,11 @@
      "aufrufe": 16
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 12,
+     "aufrufe": 14
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "leser": 12,
      "aufrufe": 14
@@ -1404,17 +1409,17 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 11,
-     "aufrufe": 13
-    },
-    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 11,
      "aufrufe": 13
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "leser": 11,
+     "aufrufe": 11
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 11,
      "aufrufe": 11
     },
@@ -1430,11 +1435,6 @@
     },
     {
      "pfad": "/Geistesblitz/Manfred-Spitzer-KI,-Gehirn-und-Lernen",
-     "leser": 10,
-     "aufrufe": 10
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 10,
      "aufrufe": 10
     },
@@ -1544,12 +1544,12 @@
      "aufrufe": 29
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 25,
-     "aufrufe": 25
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 26,
+     "aufrufe": 26
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 25,
      "aufrufe": 25
     },
@@ -1565,8 +1565,8 @@
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 15,
-     "aufrufe": 15
+     "leser": 16,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -1575,13 +1575,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 10,
-     "aufrufe": 10
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
-     "leser": 10,
-     "aufrufe": 10
+     "leser": 11,
+     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -1589,12 +1584,12 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 8,
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 8,
      "aufrufe": 8
     },
@@ -1624,6 +1619,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Der-Dara",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 7,
      "aufrufe": 7
@@ -1634,17 +1634,22 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 6,
      "aufrufe": 6
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "leser": 6,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 6,
      "aufrufe": 6
     },
@@ -1675,11 +1680,6 @@
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 5,
      "aufrufe": 5
     },

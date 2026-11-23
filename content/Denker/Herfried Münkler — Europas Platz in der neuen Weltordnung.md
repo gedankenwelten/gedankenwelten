@@ -380,6 +380,10 @@ Das Sandwich am Verhandlungstisch: In Shenzhen sitzen Putin und Trump mit Xi zus
 
 Die Gegenprobe zur Speisekarte: Der Militärökonom Marcus Keupp wäre als europäischer Staatschef nicht nach Shenzhen gefahren, weil ein Foto mit den dreien Zustimmung oder Vasallentum signalisiert hätte. Er setzt Fernbleiben als Haltung gegen den Satz, wer nicht am Tisch sitze, stehe auf der Speisekarte.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Die Wende von 2012|Michael Thumann — Was Putin von Europa will]]
+
+Thumann datiert Putins Nationalismus auf die Proteste von 2011/12 und sieht darin Gelegenheit statt Überzeugung, eine Gegenlesart zur langen Linie vom Katechon.
+
 ---
 
 ## Weiterführende Quellen

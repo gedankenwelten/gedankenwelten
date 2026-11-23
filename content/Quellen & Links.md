@@ -6224,3 +6224,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notizen** | [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens]] · [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner]] |
 | **Vita** | [[DenkerVita/Henrietta Lacks]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/ARTE_Zellen1_Transkript.txt` · `Gedankenwelten/Transkripte/ARTE_Zellen2_Transkript.txt` (YouTube-Autountertitel, vollständig; synchronisierte Fassung, Sprecher per Standbild und Grundton zugeordnet) |
+
+## Michael Thumann — Putins Sicherheitsarchitektur und Shenzhen (DER STANDARD, 23.11.2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Putins finsterer Plan für Europa – Michael Thumann](https://www.youtube.com/watch?v=BqJRSHXTIV8) — DER STANDARD, „Thema des Tages“, Moderation Daniel Retschitzegger |
+| **Notiz** | [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa]] · Vita [[DenkerVita/Michael Thumann]] |
+| **Originale** | [Gemeinsame Erklärung von Shenzhen (Weißes Haus)](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/) · [Memcon Clinton–Putin 4.6.2000 (NSA)](https://nsarchive.gwu.edu/sites/default/files/documents/Doc-3-2000-06-04%20Clinton-Putin-Kremlin-memcon.pdf) · [NATO Expansion: What Gorbachev Heard (NSA)](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early) |
+| **Nachbesprechung** | [McFaul 2020](https://doi.org/10.1162/isec_a_00390) · [Sarotte 2019](https://doi.org/10.1162/isec_a_00353) · [Sechser & Fuhrmann 2013](https://doi.org/10.1017/s0020818312000392) · [Freedman 2023](https://doi.org/10.1080/00396338.2023.2285598) · [Papayoanou 1997](https://doi.org/10.1111/0020-8833.00035) · [Bunde 2022](https://doi.org/10.1080/13523260.2022.2092820) |
+| **Transkript** | `Gedankenwelten/Transkripte/Thumann_Putins_Plan_BqJRSHXTIV8_Transkript.txt` (Auto-Untertitel, drei Stellen am Ton geprüft) |

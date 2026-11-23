@@ -321,6 +321,10 @@ Dieselbe Runde fünfzehn Tage früher, am Morgen nach den Midterms. Eigendorf la
 
 1807 treffen sich Zar Alexander und Napoleon auf einem Floß mitten auf der Memel und ziehen voreinander den Hut, während Napoleon schon den nächsten Krieg gegen Russland im Blick hat. Leonhards Beispiel zeigt, dass eine Inszenierung nichts darüber sagt, ob einer Frieden will. Das ist die historische Fassung von Steimers Warnung. Sein Wiener Kongress gelang auch, weil die Mächte unter sich waren und auf die Betroffenen keine Rücksicht nahmen, und das passt zu einem Tisch ohne die Ukraine.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Zwei schwere Jahre|Michael Thumann — Was Putin von Europa will]]
+
+Thumann beschreibt aus Moskau dieselbe Szene an der Tür und liest darin, Trump sei Putin „komplett verfallen“: eine vierte Deutung neben Clinch, Taktik und geliehenem Platz.
+
 ---
 
 ## Weiterdenken

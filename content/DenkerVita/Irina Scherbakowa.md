@@ -116,6 +116,8 @@ Ihre Kritik endet nicht an Russlands Grenze. In Hamburg sagte sie im Januar 2026
 - [[DenkerVita/Jens-Christian Wagner|Jens-Christian Wagner]] — Beide verteidigen das Gedächtnis eines Terrors gegen politische Umdeutung; sie gehört dem Kuratorium seiner Gedenkstätte Buchenwald an und hat erlebt, wohin der Weg führen kann, vor dem er warnt.
 - [[DenkerVita/Götz Aly|Götz Aly]] — Den Vergleich mit dem Nationalsozialismus zieht sie selbst, für das Wegsehen: Aly erklärt die Zustimmung aus dem Nutzen, sie sieht im heutigen Russland Gewöhnung statt Begeisterung.
 
+- [[DenkerVita/Michael Thumann|Michael Thumann]] — Er berichtete 1996 aus dem Tschetschenienkrieg und nennt Putin seit 2012 einen „Gelegenheitsnationalisten“; den Boden dafür, den unaufgearbeiteten Terror und die Neunziger, sucht Scherbakowa früher als er.
+
 ---
 
 ## Gedankenwelten-Notes

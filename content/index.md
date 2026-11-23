@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **23.11.** — [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa|Was Putin von Europa will — Michael Thumann aus Moskau]]
+>
+> Moskau will eine neue Sicherheitsordnung für Europa, die alte hat es selbst unterschrieben. Ein Korrespondent sucht den Grund in Russland, nicht im Westen. Wie weit trägt das?
+
 > **23.11.** — [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 >
 > Bevor die Erschöpfung kommt, muss man handeln. Ece Temelkuran hat erlebt, wie die Türkei ihre Demokratie verlor, und erkennt dieselben Schritte nun in den USA, beschleunigt durch Trumps Tempo.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
 
-> **22.11.** — [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]]
->
-> Der Chef von Microsoft AI will eine KI, die dem Menschen dient und nie wie ein fühlendes Wesen erscheint. Der Historiker fragt, ob man Götter erschaffen und als Sklaven halten kann.
-
-> → *24 weitere in* [[Zeitgeist]]
+> → *25 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -100,6 +100,10 @@ Die Gedankenwelten (luc)
 >
 > Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
 
+> **23.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
 > **23.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
@@ -112,11 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
 
-> **22.11.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Sechs offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, wem gehört, was sie von uns gelernt hat, und die Stimmen, die sich an ihnen reiben.
-
-> → *14 weitere in* [[Panorama]]
+> → *15 weitere in* [[Panorama]]
 
 ### GoodNews
 

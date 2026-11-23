@@ -94,6 +94,8 @@ Die zweiten Moskauer Jahre (2015–2018) und die frühe Arbeit über die russisc
 - [[DenkerVita/Herfried Münkler]] — Münkler liefert den Begriff zu Eigendorfs These, dass Sabotage, Desinformation und Drohnen über Flughäfen zum selben Krieg gehören: Die saubere Trennung von Krieg und Frieden sei aufgelöst, dazwischen liege der hybride Krieg. Eigendorf zieht daraus die härtere Konsequenz, wer das für Rhetorik halte, habe den Krieg noch nicht erkannt.
 - [[DenkerVita/Adam Johnson]] — Die grundsätzlichste Reibung am journalistischen Selbstverständnis. Beide halten „ausgewogene“ Berichterstattung für keine neutrale Mitte: Für Eigendorf heißt Ausgewogenheit nicht Symmetrie zwischen Angreifer und Angegriffenem, für Johnson ist der Objektivitätsanspruch selbst parteiisch. Johnson misst aber auch, wie Empathie journalistisch rationiert wird, wessen Trauer erzählt wird und wessen nicht. Wer Empathie wie Eigendorf zum Erkenntnisinstrument erklärt, muss sich dieser Frage stellen.
 
+- [[DenkerVita/Michael Thumann|Michael Thumann]] — Wie sie erklärt er Putins Außenpolitik von innen, aus der Sorge um die Macht nach den Protesten von 2011/12; von einem Auslaufmodell spricht er nicht, er sieht eine Regionalmacht mit Atomwaffen.
+
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/auslandsjournal — Ausgetrumpt|Ausgetrumpt?! — Der Morgen nach den Midterms]]

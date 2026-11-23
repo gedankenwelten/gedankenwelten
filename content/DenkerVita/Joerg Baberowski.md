@@ -115,6 +115,8 @@ Prägend wurde sein Jahr als Doktorand im zerfallenden Russland 1991/92: leere G
 - **[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Der Gegenpol in der Gewaltforschung: Heitmeyer sucht die Ursachen in Desintegration und fehlender Anerkennung, Baberowski versteht Gewalt aus ihrem Vollzug und ihren Situationen und misstraut solchen Ableitungen.
 - **[[DenkerVita/Irina Scherbakowa|Irina Scherbakowa]]** — Memorial-Historikerin, die Stalins Rückkehr als Symbol des starken Staates ebenso liest, Putins Aufstieg aber aus dem nie aufgearbeiteten Terror erklärt statt aus der Erfahrung der Schocktherapie.
 
+- [[DenkerVita/Michael Thumann|Michael Thumann]] — Wo Baberowski vor der Gewissheit über Putins Motive warnt, legt sich der Moskau-Korrespondent fest: Furcht um die Macht im eigenen Land; Wandel durch Handel habe nur mit der saturierten Sowjetunion getragen.
+
 ---
 
 ## Gedankenwelten-Notes

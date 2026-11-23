@@ -252,6 +252,10 @@ Direkte Ergänzung zur KI-Regulierungs-Passage: Merkel verteidigt europäische K
 
 Merkels Satz, in Europa gälten kleine Länder so viel wie große, ist dort die Gegenthese zum Melierdialog, und ihr „morgen ist man selber dran“ die Antwort auf die Frage, was die Kleinen können.
 
+### → [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa#Abrüstung hier, Aufrüstung dort|Michael Thumann — Was Putin von Europa will]]
+
+Thumann misst Merkels Formel an ihren eigenen Jahren: Die Seite der Abschreckung sei ab 2010 einseitig abgebaut worden, während Russland aufrüstete.
+
 ---
 
 ## Weiterdenken

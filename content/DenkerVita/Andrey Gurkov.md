@@ -104,6 +104,8 @@ Dagegen steht, was im Presseclub zu sehen ist. Er verlangt für ukrainische Verd
 - **[[DenkerVita/Christoph Hein|Christoph Hein]]** — Heins Befund, „Wandel durch Handel“ sei gescheitert, hat Gurkov bei der Deutschen Welle aus der Nähe beschrieben, etwa 2021 die Nord-Stream-Röhre, die nicht fertig wurde, 2023 den Rückzug von Wintershall Dea, mit dem für ihn die Gaszusammenarbeit beider Länder endete.
 - **[[DenkerVita/Angela Merkel|Angela Merkel]]** — Die Reibung mit der Politik, die Nord Stream 2 baute: Merkel hält ihre Russlandpolitik bis heute für richtig und mahnt mehr europäische Diplomatie an, Gurkov hält die Rückkehr zu den alten Beziehungen für eine Illusion und will die deutsche Ostpolitik von Moskau nach Kiew drehen.
 
+- [[DenkerVita/Michael Thumann|Michael Thumann]] — Auch er erklärt Russland von innen, stellt aber den Herrscher in die Mitte: Den „Urgrund“ des Krieges nennt er „schlicht und einfach Wladimir Putin“, wo Gurkov vom Krieg Russlands spricht.
+
 ---
 
 ## Gedankenwelten-Notes
