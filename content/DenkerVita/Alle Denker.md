@@ -484,6 +484,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Henrietta Lacks|Henrietta Lacks]]** — Patientin und Mutter aus Baltimore (1920–1951), aus deren Krebszellen ohne ihr Wissen die HeLa-Zelllinie wuchs; ihre Geschichte steht für Einwilligung, Rassismus in der Medizin und die Frage, wem der Körper gehört
 
+**[[DenkerVita/Martyna Linartas|Martyna Linartas]]** — Politikwissenschaftlerin und Ungleichheitsforscherin (Postdoc FU Berlin), Projektleiterin von ungleichheit.info; *Unverdiente Ungleichheit* (2025); Deutschland als Erbengesellschaft, Erbschaftsteuer als Bagatellsteuer, Grunderbe als ein Baustein; „Team Demokratin“, „Team Postwachstum“
+
 **[[DenkerVita/Igor Levit|Igor Levit]]** — Pianist, mischt sich als Staatsbürger gegen die AfD und gegen Antisemitismus ein
 
 **[[DenkerVita/Henning Lobin|Henning Lobin]]** — Linguist, Direktor des Leibniz-Instituts für Deutsche Sprache in Mannheim, früher Computerlinguistik in Gießen; die sprechende Maschine als Kränkung, Sprache wächst aus dem Leib; „Sprachkampf“

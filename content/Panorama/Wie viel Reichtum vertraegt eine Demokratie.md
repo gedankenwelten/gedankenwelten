@@ -86,7 +86,7 @@ Was an die Stelle der Verschonung treten könnte, darüber sind sich die Gutacht
 
 **Die Stimmen**
 
-- **[[Martyna Linartas — Unverdiente Ungleichheit#Die zentrale These Erbengesellschaft statt Leistungsgesellschaft|Martyna Linartas]]:** Deutschland ist eine Erbengesellschaft; ihre Antwort ist ein Grunderbe für alle.
+- **[[Martyna Linartas — Unverdiente Ungleichheit#Die zentrale These Erbengesellschaft statt Leistungsgesellschaft|Martyna Linartas]]:** Deutschland ist eine Erbengesellschaft; ihre Antwort ist Steuergerechtigkeit im ganzen System und, als einer von mehreren Bausteinen, ein Grunderbe für junge Erwachsene.
 - **[[phoenixRunde — Arm und Reich in Deutschland#Erbengesellschaft statt Leistungsgesellschaft|David Deißner]]:** *„Von wegen leistungsloses Einkommen“*: Kaeser hat den Betrieb vom Vater geerbt und zum Weltmarktführer gemacht; wer Betriebsvermögen erbt, unterliegt Haltefristen und Lohnsummen.
 - **[[phoenixRunde — Arm und Reich in Deutschland#Erbengesellschaft statt Leistungsgesellschaft|Helena Steinhaus]]:** *„Deutschland ist keine Leistungsgesellschaft, sondern eine Erbengesellschaft.“*
 - **[[Tilo Jung — Erben Wirtschaft AfD-Strategie#Erbschaftssteuer und Vermögensungleichheit|Tilo Jung und Tim Gabel]]:** Jung will eine Million frei lassen und den Rest der Allgemeinheit geben, Gabel das Eigentumsrecht des Erblassers stärker gewichten; einig sind sie, dass ein Recht, nach dem man relativ weniger abgibt, je mehr man erbt, die Demokratie gefährdet.

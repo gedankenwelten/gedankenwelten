@@ -46,6 +46,30 @@ Die Gedankenwelten (luc)
 
 > → *24 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **23.11.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
+>
+> Was man besitzt, hänge in Deutschland mehr vom Erbe ab als von der Leistung, sagt Martyna Linartas. Sie zeigt, wie Vermögensungleichheit zur Frage der Demokratie wird, und schlägt ein Grunderbe vor.
+
+> **21.11.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+>
+> In zwanzig Jahren haben sich die Einstellungen kaum bewegt, neu ist, dass Misstrauische einander finden. Entzaubern lasse sich das nicht, meint Aladin El-Mafaalani; Wahlen zeigen Ausnahmen.
+
+> **20.11.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
+>
+> Als die Boomer Eltern waren, war PISA ein Skandal; heute sind Kinder eine Minderheit, um die niemand werben muss. Aladin El-Mafaalani über eine alternde Demokratie, die ihre Jungen vergisst.
+
+> **20.11.** — [[Denker/Agnes Callard - Warum lohnt sich ein sokratisches Leben|Agnes Callard — Warum lohnt sich ein sokratisches Leben?]]
+>
+> Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
+
+> **20.11.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
+>
+> Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
+
+> → *2 weitere in* [[Denker]]
+
 ### Geistesblitz
 
 > **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
@@ -99,30 +123,6 @@ Die Gedankenwelten (luc)
 > **22.11.** — [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
 >
 > Dreizehn Meldungen, und die meisten sind Reparaturen. Die Sendung feiert, was zurückkehrt; ihre eigenen Quellen erzählen, was es kostet, damit es bleibt.
-
-### Denker
-
-> **21.11.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
->
-> In zwanzig Jahren haben sich die Einstellungen kaum bewegt, neu ist, dass Misstrauische einander finden. Entzaubern lasse sich das nicht, meint Aladin El-Mafaalani; Wahlen zeigen Ausnahmen.
-
-> **20.11.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
->
-> Als die Boomer Eltern waren, war PISA ein Skandal; heute sind Kinder eine Minderheit, um die niemand werben muss. Aladin El-Mafaalani über eine alternde Demokratie, die ihre Jungen vergisst.
-
-> **20.11.** — [[Denker/Agnes Callard - Warum lohnt sich ein sokratisches Leben|Agnes Callard — Warum lohnt sich ein sokratisches Leben?]]
->
-> Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
-
-> **20.11.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
->
-> Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
-
-> **17.11.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
->
-> Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
-
-> → *1 weitere in* [[Denker]]
 
 ### Spuren
 

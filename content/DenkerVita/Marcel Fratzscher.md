@@ -104,7 +104,7 @@ Das gehört zum Bild: ein Ökonom, dessen empirische Grundhaltung stark ist und 
 
 **[[DenkerVita/Clara Mattei|Clara Mattei]]** — die Stelle, an der Fratzschers ganze Methode in Frage steht. Er behandelt die Sparlogik als Denkfehler, der sich mit Daten korrigieren lässt; für Mattei ist sie ein Werkzeug zur Herstellung von Marktabhängigkeit und überlebt deshalb jede Widerlegung. Aus dieser Sicht sind Fratzschers „gute Schulden" keine unglückliche Formulierung, sondern die Grenze dessen, was ein Institutspräsident sagen kann.
 
-**[[DenkerVita/Martyna Linartas|Martyna Linartas]]** — Präzisierung seiner Verteilungsanalyse. Fratzscher trennt Ungleichheit aus freien Entscheidungen von Ungleichheit aus fehlenden Chancen; Linartas zeigt, dass die größte Quelle in keine der Kategorien fällt: Über die Hälfte der deutschen Vermögen ist geerbt. Sie führt seine makroökonomische Lesart der Vermögensungleichheit dorthin, wo sie unbequem wird.
+**[[DenkerVita/Martyna Linartas|Martyna Linartas]]** — Präzisierung seiner Verteilungsanalyse. Fratzscher trennt Ungleichheit aus freien Entscheidungen von Ungleichheit aus fehlenden Chancen; ein Erbe ist keine Entscheidung dessen, der erbt, und nach Linartas ist über die Hälfte der deutschen Vermögen geerbt (eine von zwei Lesarten in der Forschung). Die Chancenseite wiegt damit schwerer, als die Unterscheidung vermuten lässt. Sie führt seine makroökonomische Lesart der Vermögensungleichheit dorthin, wo sie unbequem wird.
 
 ## Gedankenwelten-Notes
 

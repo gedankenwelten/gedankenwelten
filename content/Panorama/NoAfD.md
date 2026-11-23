@@ -168,7 +168,7 @@ Dahinter stehen materielle Gründe, die keine Ausrede sind und trotzdem wirken: 
 - **[[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude]]:** Die Spaltung verläuft innerhalb der Unterklasse, das ist der „Nährboden für alle Rechtspopulisten“.
 - **[[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld]]:** Die Energie der Abstiegsangst wird auf Ablenkziele gelenkt; das Scharnier klappt nicht von selbst, es wird bewirtschaftet.
 - **[[Francesca Bria — The Authoritarian Stack|Francesca Bria]]:** 250 Akteure, 45 Milliarden Dollar: Das autoritäre Netz ist kartierbar.
-- **[[Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas]]:** Mehr als die Hälfte der Vermögen ist geerbt; eine Gesellschaft, in der Leistung sich nicht lohnt, lädt den ein, der Schuldige verspricht.
+- **[[Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas]]:** Mehr als die Hälfte der Vermögen sei geerbt; wer spare, statt die Überreichen zu besteuern, stärke laut Studien Parteien wie die AfD, und Investitionen in den Gemeinden gruben ihnen das Wasser ab.
 
 </details>
 

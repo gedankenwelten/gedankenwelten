@@ -40,7 +40,7 @@ Das Rentensystem ist die größte Umverteilungsmaschine Deutschlands — und sie
 
 Die dominante politische Erzählung lautet: Die gesetzliche Rente ist zu teuer, Kapitaldeckung ist die Antwort. [[Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Flassbeck]] zeigt den Denkfehler: Wer spart, braucht einen Schuldner. Kapitaldeckung bedeutet, dass Ersparnisse zur Bank fließen — und dort auf Schuldner warten, die sie aufnehmen. Merz fordert also implizit *mehr* Schulden, um die Schulden für die Rentenversicherung zu senken. Das Sparparadoxon in Reinform.
 
-[[Martyna Linartas — Unverdiente Ungleichheit|Linartas]] ergänzt: Kapitalgedeckte Rente setzt Kapital voraus. Wer keins hat, kann nicht kapitalgedeckt vorsorgen — die strukturelle Ungleichheit verdoppelt sich.
+Über Renten spricht [[Martyna Linartas — Unverdiente Ungleichheit|Linartas]] nicht, aber ihr Befund schärft die Frage: Kapitalgedeckte Rente setzt Kapital voraus, und Vermögen ist noch weit ungleicher verteilt als Einkommen. Wer keins hat, kann nicht kapitalgedeckt vorsorgen.
 
 → [Lösungsansatz ↓](#umlageverfahren-stärken)
 

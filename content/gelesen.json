@@ -5,13 +5,13 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 113,
-   "aufrufe": 140
+   "leser": 110,
+   "aufrufe": 132
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 58,
-   "aufrufe": 66
+   "leser": 57,
+   "aufrufe": 65
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -20,13 +20,13 @@
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 42,
-   "aufrufe": 47
+   "leser": 40,
+   "aufrufe": 44
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
    "leser": 39,
-   "aufrufe": 42
+   "aufrufe": 41
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -74,14 +74,14 @@
    "aufrufe": 12
   },
   {
-   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "leser": 10,
-   "aufrufe": 12
-  },
-  {
    "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
    "leser": 10,
    "aufrufe": 10
+  },
+  {
+   "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+   "leser": 9,
+   "aufrufe": 11
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -174,11 +174,6 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-   "leser": 6,
-   "aufrufe": 6
-  },
-  {
    "pfad": "/DenkerVita/Kerstin-Paschke",
    "leser": 5,
    "aufrufe": 7
@@ -202,6 +197,11 @@
    "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
    "leser": 5,
    "aufrufe": 6
+  },
+  {
+   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+   "leser": 5,
+   "aufrufe": 5
   },
   {
    "pfad": "/DenkerVita/Anke-Myrrhe",
@@ -316,7 +316,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 19,
-     "aufrufe": 25
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -335,8 +335,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 9,
-     "aufrufe": 9
+     "leser": 10,
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
@@ -347,11 +347,6 @@
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 7,
      "aufrufe": 7
-    },
-    {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
-     "leser": 5,
-     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
@@ -374,16 +369,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 4,
      "aufrufe": 5
@@ -394,7 +379,17 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 4,
      "aufrufe": 4
     },
@@ -405,6 +400,11 @@
     },
     {
      "pfad": "/DenkerVita/Kolja-Moeller",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 4,
      "aufrufe": 4
     },
@@ -549,6 +549,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Geistesblitz/Christian-Bauckhage-Schon-wieder-Dekaden-vergangen",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Geistesblitz/Mark-Benecke-und-Ines-Azrael-KI-Agenten-8,-Fragen-an-ColonistOne",
      "leser": 2,
      "aufrufe": 2
@@ -602,11 +607,6 @@
      "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
      "leser": 2,
      "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Lena-Kotre",
-     "leser": 1,
-     "aufrufe": 5
     }
    ]
   },
@@ -615,13 +615,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 113,
-     "aufrufe": 140
+     "leser": 110,
+     "aufrufe": 132
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 58,
-     "aufrufe": 66
+     "leser": 57,
+     "aufrufe": 65
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -630,13 +630,13 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 42,
-     "aufrufe": 47
+     "leser": 40,
+     "aufrufe": 44
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 39,
-     "aufrufe": 42
+     "aufrufe": 41
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -684,14 +684,14 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "leser": 10,
-     "aufrufe": 12
-    },
-    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 10,
      "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 9,
+     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -784,11 +784,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 5,
      "aufrufe": 7
@@ -812,6 +807,11 @@
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 5,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 5,
+     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Anke-Myrrhe",
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1026,
-     "aufrufe": 1240
+     "aufrufe": 1237
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 130,
-     "aufrufe": 138
+     "leser": 131,
+     "aufrufe": 139
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 1026,
-     "aufrufe": 1240
+     "aufrufe": 1237
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 130,
-     "aufrufe": 138
+     "leser": 131,
+     "aufrufe": 139
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1530,8 +1530,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 46,
-     "aufrufe": 46
+     "leser": 45,
+     "aufrufe": 45
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -1545,13 +1545,13 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 26,
-     "aufrufe": 26
+     "leser": 25,
+     "aufrufe": 25
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 26,
-     "aufrufe": 26
+     "leser": 25,
+     "aufrufe": 25
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1704,11 +1704,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
      "leser": 4,
      "aufrufe": 4
@@ -1770,6 +1765,11 @@
     },
     {
      "pfad": "/DenkerVita/Petra-Gehring",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 3,
      "aufrufe": 3
     },
