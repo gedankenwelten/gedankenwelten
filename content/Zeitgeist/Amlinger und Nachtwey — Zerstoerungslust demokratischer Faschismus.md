@@ -300,6 +300,10 @@ Das Endzeitmotiv in einer einzelnen Biografie: Mit *The Fourth Turning* liest Ba
 
 Bogner nimmt den libertären Zweifler aus *Gekränkte Freiheit* auf („So wird Evidenz durch Authentizität ersetzt“), warnt aber davor, die Wissenschaftsskeptiker ins rechte Eck zu stellen, weil sie auch aus linksalternativen, spirituellen und anthroposophischen Milieus kommen.
 
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Robert Misik setzt eine Stufe später an: Was macht die Agitation aus dem blockierten Leben? Seine „Lehrjahre der Unbarmherzigkeit“ beschreiben, wie aus Zerstörungslust Grausamkeit gegen konkrete Andere wird; die Reporterin Antonie Rietzschel hält dagegen, dass viele dieser Menschen nicht hasserfüllt sind.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

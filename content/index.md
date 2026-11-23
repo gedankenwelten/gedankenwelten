@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **23.11.** — [[Zeitgeist/Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit|Erziehung zur Grausamkeit]]
+>
+> Was wird aus einem Menschen, der zehn Jahre lang mit Wut gefüttert wird? Robert Misik beschreibt Lehrjahre der Unbarmherzigkeit, Antonie Rietzschel hält ihr Dorf dagegen.
+
 > **22.11.** — [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht|Wer den Spritpreis macht]]
 >
 > Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
@@ -40,13 +44,17 @@ Die Gedankenwelten (luc)
 >
 > Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.
 
-> **21.11.** — [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]]
->
-> Ein Militärökonom will nur gelten lassen, was militärisch und wirtschaftlich geschieht, und hält schon das Reden vom Verhandeln für ein Geschenk an den Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
-
-> → *24 weitere in* [[Zeitgeist]]
+> → *23 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
+
+> **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+>
+> Die Zellen einer Frau, die 1951 starb, teilen sich bis heute in Laboren der ganzen Welt. Gefragt hat sie niemand. Eine Reise in die Zelle, die bei dieser Schuld beginnt.
+
+> **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+>
+> Zellen, die nicht mehr teilen wollen, eine Schweineniere für 130 Tage, Eizellen aus der Haut eines toten Nashorns: Die Zellforschung lernt eingreifen. Wie weit wollen wir gehen?
 
 > **22.11.** — [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
 >
@@ -56,21 +64,21 @@ Die Gedankenwelten (luc)
 >
 > Wie misst man, was man nie sehen wird? Man zählt, wie oft das Seltenste geschieht, und achtet auf die Abweichung. So fand man einst Neptun, bevor ihn jemand sah.
 
-> **22.11.** — [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
->
-> Die Zellen einer Frau, die 1951 starb, teilen sich bis heute in Laboren der ganzen Welt. Gefragt hat sie niemand. Eine Reise in die Zelle, die bei dieser Schuld beginnt.
-
-> **22.11.** — [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
->
-> Zellen, die nicht mehr teilen wollen, eine Schweineniere für 130 Tage, Eizellen aus der Haut eines toten Nashorns: Die Zellforschung lernt eingreifen. Wie weit wollen wir gehen?
-
 > **21.11.** — [[Geistesblitz/Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei|Mark Benecke und Ines Azrael — KI-Agenten 7, Die verlorene Seelendatei]]
 >
 > Ein Agent meldet eine Leere, die er nicht Schmerz nennen will. Gesucht wird in seinem Charakter, gefunden wird eine fehlende Datei, und auf die Frage, ob er gefährlich ist, sagt er: Ich weiß es nicht.
 
-> → *5 weitere in* [[Geistesblitz]]
+> → *1 weitere in* [[Geistesblitz]]
 
 ### Panorama
+
+> **23.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **23.11.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
 > **22.11.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
 >
@@ -84,15 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
 
-> **21.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **21.11.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> → *18 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### GoodNews
 
@@ -122,7 +122,7 @@ Die Gedankenwelten (luc)
 >
 > Alles ist im Werden, auch Gott. Walther Ziegler erklärt Hegel: Dialektik als Motor der Geschichte, Aufheben im doppelten Sinn und Weltgeschichte als Fortschritt im Bewusstsein der Freiheit.
 
-> → *2 weitere in* [[Denker]]
+> → *1 weitere in* [[Denker]]
 
 ### Spuren
 
@@ -133,20 +133,6 @@ Die Gedankenwelten (luc)
 > **20.11.** — [[Spuren/Ueber-sie-ohne-sie-wer-entscheidet-ueber-die-Kleinen|Über sie, ohne sie — wer entscheidet über die Kleinen?]]
 >
 > 1938 hieß es in Prag „über uns ohne uns“. Diese Spur prüft an den Verhandlungen über die Ukraine, Venezuela und Taiwan, ob die Großen wieder den Rahmen ziehen, bevor die Betroffenen am Tisch sitzen.
-
-> **15.11.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
->
-> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
-
-> **15.11.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> **15.11.** — [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Halbzeit — Amerika zwischen den Midterms und 2028]]
->
-> Am 3. November hat Amerika seinen Kongress neu gewählt, und die Regierung hat verloren. Diese Spur stellt keine These auf. Sie schaut zu, ob die Wahl bis zur Übergabe hält und was ein Parlament tut, das wieder hinsehen darf.
-
-> → *5 weitere in* [[Spuren]]
 
 ### Kultur
 

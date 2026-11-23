@@ -302,3 +302,7 @@ Der Begriff *unhomed* findet dort seinen Fall: Jihan Alomar sagt, der Irak sei i
 ### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
 
 Der Gegentest zur Ablenkungs-These: Ist der Epstein-Komplex Kulisse oder verdeckte Substanz? Hier die dokumentierte Mechanik der Schwärzung.
+
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Robert Misik zählt die Schritte ähnlich, „nicht am zehnten, möglicherweise am zweiten oder dritten“, und schreibt gegen dieselbe Gewöhnung an; das Gespräch findet am Morgen nach der Zwischenwahl statt, die den Demokraten einen deutlichen Sieg brachte.

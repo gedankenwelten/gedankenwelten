@@ -290,6 +290,10 @@ Beautemps beschreibt „Das Tal des Todes“, die teure Strecke zwischen Labor u
 
 Dieselbe Frage einen Schritt vor dem Schädel: Ein Exoskelett lernt, wie sein Träger hebt, und liefert dem Betrieb Schritte, Gewicht und Tragezeit; die Firma dahinter war insolvent. Die Navigations-App VisiNav rechnet dagegen alles auf dem Telefon.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+
+Der umgekehrte Fall: Was aus dem Körper von Henrietta Lacks kam, blieb ungefragt in den Laboren; Leggett wurde genommen, was sie behalten wollte.
+
 ---
 
 ## Weiterdenken

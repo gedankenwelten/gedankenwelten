@@ -89,6 +89,7 @@ Darity ist heterodoxer Ökonom mit klar linkem Politikprofil — Arbeitsplatzgar
 - [[DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]] — Daritys *reconstruction exhaustion* und Crenshaws *reform and retrenchment* sind derselbe Befund aus Ökonomie und Recht: Auf jeden Fortschritt folgt der Rückzug. Crenshaw zeigt, dass dieser Rückzug eine aktiv geführte Schlacht um die Erinnerung ist; Darity gibt ihr das materielle Fundament, denn gestritten wird auch darum, wer für einen Vermögensstand haftet, den niemand mehr bewusst herstellt.
 - [[DenkerVita/Sven Beckert|Sven Beckert]] — Beckert liefert die Vorgeschichte: Plantage, Hafen, Kredit und Spinnerei als ein Kreislauf, mit New York als Baumwollstadt, wo Darity die Komplizenschaft des Nordens benennt. Die Reibung liegt im Freiheitsbegriff. Beckert verteidigt den Arbeitsvertrag als Errungenschaft gegenüber dem Zwang, Darity rechnet vor, was er denen einbrachte, die ohne Startkapital in ihn eintraten.
 - [[DenkerVita/Akala|Akala]] — Akala zeigt, dass Rassenwissenschaft produziert wurde, weil eine Ökonomie sie brauchte. Darity sieht 2016 dieselbe Bewegung zurückkehren, durch die Hintertür der Genomik, über rassenspezifische Krankheiten und Medikamente. Bei beiden entlastet die Biologisierung, statt zu erklären — die Opferbeschuldigung eine Ebene tiefer: nicht mehr „ihr strengt euch nicht an“, sondern „ihr seid so“.
+- [[DenkerVita/Henrietta Lacks|Henrietta Lacks]] — keine Versicherung, kein Vermögen, und ein Vergleich erst nach Jahrzehnten, privat und vertraulich
 
 ## Gedankenwelten-Notes
 

@@ -6202,3 +6202,24 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Hintergrund** | [Suleyman, „A warning about ‚model welfare‘“](https://mustafa-suleyman.ai/a-warning-about-model-welfare) (16.09.2026) — sein Angriff auf Claudes Verfassung |
 | **Notiz** | [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Harari_Suleyman_Abundance_H43e72-2aAs_Transkript.txt` (Whisper large-v3-turbo, englisch, vollständig; YouTube-Untertitel waren gesperrt) |
+
+## Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit (November 2026)
+
+| | |
+|---|---|
+| **Video** | [Erziehung zur Grausamkeit – taz Talk mit Robert Misik in Kooperation mit der FES](https://www.youtube.com/watch?v=zyujcCS9h2k) — taz, 04.11.2026, 1:55 h, Moderation Jan Feddersen |
+| **Veranstaltung** | [taz.de/!vn6221346](https://taz.de/!vn6221346/) |
+| **Buch** | Robert Misik: *Erziehung zur Grausamkeit. Die Massenpsychologie des Neuen Faschismus* (edition suhrkamp 2026) |
+| **Notiz** | [[Zeitgeist/Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]] |
+| **Viten** | [[DenkerVita/Robert Misik]] · [[DenkerVita/Antonie Rietzschel]] · [[DenkerVita/Saskia Esken]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Misik_Erziehung_Grausamkeit_taz_Talk_Transkript.txt` (YouTube-Autountertitel, vollständig; Sprecherwechsel bei 20:15 per Standbild geprüft) |
+
+## ARTE / Herbert Hackl — Unser Körper, Unsere Zellen (November 2026)
+
+| | |
+|---|---|
+| **Video Teil 1** | [Gibt es ewiges Leben im Mikrokosmos? \| Unser Körper – Unsere Zellen \| Doku HD \| ARTE](https://www.youtube.com/watch?v=j3Gr7PRSTZk) — ARTEde, 05.11.2026, 54 Min. · [Mediathek](https://www.arte.tv/de/videos/129357-001-A/unser-koerper-unsere-zellen/) |
+| **Video Teil 2** | [Woher kommt die Energie des Lebens? \| Unser Körper – Unsere Zellen \| Doku HD \| ARTE](https://www.youtube.com/watch?v=O4MvWznnjVA) — ARTEde, 06.11.2026, 55 Min. · [Mediathek](https://www.arte.tv/de/videos/129357-002-A/unser-koerper-unsere-zellen/) |
+| **Notizen** | [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens]] · [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner]] |
+| **Vita** | [[DenkerVita/Henrietta Lacks]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/ARTE_Zellen1_Transkript.txt` · `Gedankenwelten/Transkripte/ARTE_Zellen2_Transkript.txt` (YouTube-Autountertitel, vollständig; synchronisierte Fassung, Sprecher per Standbild und Grundton zugeordnet) |

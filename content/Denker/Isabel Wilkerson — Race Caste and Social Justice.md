@@ -251,6 +251,10 @@ Wilkersons Trennschärfe — *if you can act your way out of it, it’s class* �
 
 Wilkerson beschreibt die Architektur, Darity führt die Buchhaltung dazu. Ihr Bild von der Leiter, auf der man dem Nächstunteren auf die Finger tritt, ist exakt seine Erklärung dafür, warum die weiße Arbeiterklasse bleibt: 15.000 Dollar Nettovermögen gegen null im untersten Quintil. Beide berufen sich auf Barbara Jeanne Fields’ Ideologiebegriff.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+
+Zeigt die Kaste im Krankenhaus: Henrietta Lacks lag 1951 auf einer nach Hautfarbe getrennten Station, und es galt dort als üblich, was man ihr nahm.
+
 ---
 ## Weiterdenken
 

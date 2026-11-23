@@ -235,6 +235,10 @@ Marquardts Leitfrage „Wer möchte ich gewesen sein?" ist Tugendhats zweiter Sc
 
 Morins Satz aus der Résistance, der Krieg habe ihm erlaubt, das Risiko zu sterben frei anzunehmen, und er habe sehr wenig Angst gehabt, ist Tugendhats These als gelebte Erfahrung: Wenn das Gewicht bei etwas liegt, das schwerer wiegt als man selbst, tritt die Todesangst zurück.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Zeigt Tugendhats „nächstes Lebensstück“ an einem 85-jährigen Dirigenten und an einer Forschung, die genau dieses Stück verlängern will.
+
 ---
 
 ## Weiterdenken

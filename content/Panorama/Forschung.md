@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-11-17
+aktualisiert: 2026-11-23
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -44,6 +44,8 @@ Die Geschichte kennt beide Haltungen. Fritz Haber erfand die Ammoniaksynthese un
 
 Die Öffentlichkeit will mehr, als Weber zugestand. In 68 Ländern wünschen sich 83 Prozent, dass Forschende mit der Öffentlichkeit sprechen; nur eine Minderheit lehnt ab, dass sie sich für bestimmte politische Maßnahmen einsetzen (23 Prozent) oder stärker an politischen Entscheidungen mitwirken (21 Prozent) ([Cologna u. a. 2025](https://doi.org/10.1038/s41562-024-02090-5), Befragung). Sachliche Stellungnahmen kosten die Glaubwürdigkeit meist wenig ([Kotcher et al. 2017](https://doi.org/10.1080/17524032.2016.1275736)), auch Protest schadet ihr in einem großen US-Experiment nicht ([Dablander et al. 2025](https://doi.org/10.1098/rsos.241001)). Eine Wahlempfehlung der Zeitschrift *Nature* dagegen senkte bei den Anhängern der Gegenseite das Vertrauen in die Wissenschaft insgesamt ([Zhang 2023](https://doi.org/10.1038/s41562-023-01537-5)). Einordnen wird gewünscht, Parteinahme bestraft. Wie man Forschende beurteilt, die ihr eigenes Produkt empfehlen, ist kaum untersucht.
 
+Wer zieht dann die Grenze, wenn nicht das Labor? Eine Antwort ist die Konsensuskonferenz nach dänischem Vorbild: Geloste Laien beraten eine Technik und geben ein Votum ab. In München taten das 2019 Bürgerinnen und Bürger zur Xenotransplantation, anfangs skeptisch, am Ende mit einem „Ja, aber“ ([Kögel & Marckmann 2021](https://doi.org/10.30965/9783957437525), Bericht über ein Verfahren). Dass Information Zustimmung bringt, ist aber keine Regel: Bei der ersten deutschen Bürgerkonferenz, 2001 in Dresden zur Gendiagnostik, stieg die Ablehnung der Präimplantationsdiagnostik unter den Gelosten von 22 auf 59 Prozent ([Zimmer 2002](https://doi.org/10.14512/tatup.11.3-4.151), Begleitstudie, kleine Gruppe). Und bei der Genomeditierung hielt die geforderte Beteiligung meist nur fest, was die lautesten Gruppen ohnehin meinten ([Conley u. a. 2023](https://doi.org/10.1080/15265161.2023.2207502), Analyse von fünf Organisationen).
+
 **Die Stimmen**
 
 - **[[Omar Yaghi — Die Welt retten mit Chemie#Das ist nicht mein Bereich|Omar Yaghi]]:** Der Forscher stellt die Lösung bereit, ob sie genutzt wird, entscheidet die Gesellschaft. *„Das ist nicht mein Bereich.“*
@@ -54,6 +56,7 @@ Die Öffentlichkeit will mehr, als Weber zugestand. In 68 Ländern wünschen sic
 - **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Wie schaffe ich gesellschaftlichen Mehrwert mit KI, solange sie privatisiert ist?|Rainer Mühlhoff]]:** Die Grenzen einer Technik dürfen nicht ihre Entwickler ziehen; die normativen Wissenschaften müssen sie in Diskurs und Politik tragen.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#KI als Marketingbegriff — und seine militärische Herkunft|Constanze Kurz]]:** KI-Forschung hing immer am Militärgeld, heute bröckeln die Zivilklauseln, und über die militärische Nutzung wird zu selten gestritten.
 - **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Das Institut, das es nicht geben dürfte|Jürgen Kornmeier]]:** Was soll ein Institutsleiter tun, wenn die Politik in die Wissenschaft greift: mitmachen, hinschmeißen oder emigrieren? Eine Antwort maßt er sich nicht an.
+- **[[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner#Bürger beraten Biomedizin|Georg Marckmann]]:** Die Gesellschaft muss entscheiden, welche Möglichkeiten sie nutzen will; Verantwortung kann auch heißen, eine Entwicklung nicht weiterzuführen. Dafür lässt er Bürger beraten.
 
 <details><summary>Weitere Stimmen (4)</summary>
 
@@ -249,6 +252,7 @@ Dass das Genie ein Team ist, wusste schon die Wissenschaftssoziologie der 1960er
 | 10.11.2026 | [[Alexander Bogner — Zweifeln an der Wissenschaft#Sinkt das Vertrauen in die Wissenschaft wirklich?|Alexander Bogner — Zweifeln an der Wissenschaft]] | Vertrauen nach 2023 (DE 56 → 54 %, AT 70 → 74 %, DACH-Vergleich), Schnittstellenskepsis im Zeitverlauf, Bildungsgraben, drei Profile im ÖAW-Bericht, Wurzeln je Thema (Rutjens 2017), Ditto 2018, science-related populism |
 | 15.11.2026 | [[Geistesblitz/Christian Bauckhage — Schon wieder Dekaden vergangen#Ein Beweis, den niemand liest\|Christian Bauckhage — Schon wieder Dekaden vergangen]] | Ein Beweis, den niemand liest: Appel & Haken 1976, Tymoczko 1979, Hales/Flyspeck, Scholze 2020 (Liquid Tensor), Fermat in 13 Millionen Zeilen (Nature 2026); was Lean nicht prüft: ob die Aussage die gemeinte ist (Navier-Stokes) |
 | 17.11.2026 | [[Walther Ziegler — Hegel in 60 Minuten#Nachbesprechung|Walther Ziegler — Hegel in 60 Minuten]] | Braucht Wissen Grenzgänger? Mehrfachentdeckungen (Merton 1961, Ogburn & Thomas 1922): das Genie als funktionales Gegenstück vieler; aus der Frage „Machen Einzelne Geschichte?“ |
+| 23.11.2026 | [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner#Bürger beraten Biomedizin\|ARTE — Unsere Zellen 2]] | Bürger beraten Biomedizin: Münchner Bürgerkonferenz zur Xenotransplantation (Kögel & Marckmann 2021), Dresden 2001 (Zimmer 2002), Allum 2008, Leino 2022, australische Bürgerjury Genomeditierung, Conley 2023, Dryzek & Tucker 2008 · Marckmann als Stimme |
 
 ---
 

@@ -3,9 +3,20 @@ title: Henrietta Lacks — DenkerVita
 description: "Henrietta Lacks starb 1951 mit 31 Jahren, ihre Zellen leben bis heute in Laboren auf der ganzen Welt. Gefragt hat sie niemand, und ihre Familie erfuhr es erst nach mehr als zwanzig Jahren."
 tags: [denker-vita, medizin, ethik, rassismus, usa]
 aktualisiert: 2026-11-22
+raetsel: "Sie tanzte, kochte, spielte Karten. Die Labore kannten zwei Silben."
 ---
 
 # Henrietta Lacks — DenkerVita
+
+![[assets/Henrietta-Lacks-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Jacob Lawrence** — flache Tempera, kräftige vereinfachte Formen, Erdtöne und tiefes Blau, wie in seiner *Migration Series* über das schwarze Amerika der Jahrhundertmitte. Henrietta Lacks steht mit den Händen in den Hüften, wie auf dem bekannten Foto, vor den Reihenhäusern und Schloten von Turner Station und Bethlehem Steel. Von ihr aus ziehen kleine leuchtende Zellen über die Welt. Die Note malt die Zelle, die Vita malt die Frau.
+
+*Prompt:* Painting in the style of Jacob Lawrence, flat tempera on board, bold simplified shapes, earthy browns, ochres, deep blues and black with small accents of red, 1940s American modernism, wide 1200x500 banner. On the left a Black woman in a 1940s two-piece suit stands confidently with her hands on her hips, rendered in Lawrence's flat stylised manner with a simplified, dignified face, a quiet smile. Behind her a row of brick rowhouses and the chimneys of a steel mill under a blue evening sky. From beside her, small luminous round cells drift outward to the right across the whole picture, multiplying, growing smaller toward the horizon like seeds carried over a map of the world. At her feet five small flowers. Warm, dignified, rhythmic, a portrait of a life rather than a case. No text, no letters, no signature.
+
+</details>
 
 ## Biographischer Snapshot
 
@@ -57,13 +68,19 @@ Johns Hopkins sagt heute, man habe mit HeLa-Zellen nie Geld verdient und besitze
 
 Henrietta Lacks hat keine Thesen hinterlassen, keine Schrift, kein Interview. Was ihre Geschichte bedeutet, sagen andere: ihre Familie, die Forscher, die Institutionen, die mit ihr zu tun hatten. Hier stehen diese Lehren, jede mit der Stimme, die sie zieht.
 
-- **Einwilligung gehört zum Vertrauen in die Forschung.** 1951 gab es in den USA keine festen Regeln, Patientinnen über Gewebeproben für die Forschung zu informieren; heute verlangt das Bundesrecht dafür eine aufgeklärte Einwilligung (Johns Hopkins, [FAQ](https://www.hopkinsmedicine.org/henrietta-lacks/frequently-asked-questions)). Die Lücke ist nicht ganz geschlossen: Werden Proben zur Diagnose genommen und dann ohne Namen weitergegeben, braucht die Forschung in den USA bis heute keine Zustimmung, sagt dieselbe Seite. *Nature* forderte 2020, das zu ändern ([Nature 2020](https://www.nature.com/articles/d41586-020-02494-z)). Im ARTE-Film heißt es: „Entscheidend ist, dass sie damals nicht gefragt wurde. Heute würden wir ihre Einwilligung einholen. Das ist wichtig für das Vertrauen in die Forschung“ ([▶ 6:22](https://www.youtube.com/watch?v=j3Gr7PRSTZk&t=382)).
+- **Einwilligung gehört zum Vertrauen in die Forschung.** 1951 gab es in den USA keine festen Regeln, Patientinnen über Gewebeproben für die Forschung zu informieren; heute verlangt das Bundesrecht dafür eine aufgeklärte Einwilligung (Johns Hopkins, [FAQ](https://www.hopkinsmedicine.org/henrietta-lacks/frequently-asked-questions)). Die Lücke ist nicht ganz geschlossen: Werden Proben zur Diagnose genommen und dann ohne Namen weitergegeben, braucht die Forschung in den USA bis heute keine Zustimmung, sagt dieselbe Seite. *Nature* forderte 2020, das zu ändern ([Nature 2020](https://www.nature.com/articles/d41586-020-02494-z)). Im ARTE-Film sind sich die Zellbiologin Marie-Hélène Verlhac und der Medizinethiker Georg Marckmann darin einig: Entscheidend sei, dass sie damals nicht gefragt wurde, heute würde man ihre Einwilligung einholen, und das sei wichtig für das Vertrauen in die Forschung ([▶ 6:22](https://www.youtube.com/watch?v=j3Gr7PRSTZk&t=382)).
 - **Rassismus wirkte über das System.** Skloot widerspricht der Erzählung vom rassistischen Wissenschaftler, der einer Schwarzen Frau die Zellen stahl und damit reich wurde: Henrietta bekam die übliche Behandlung, niemand ahnte den Wert ihrer Zellen, Gey verschenkte sie. Rassismus sieht sie an anderer Stelle: Hopkins war in der Zeit der Rassentrennung ein Armenkrankenhaus, auf der öffentlichen Station lagen Schwarze und Arme, und es galt als selbstverständlich, dass Ärzte diese „Wohltätigkeitsfälle“ für die Forschung nutzen durften ([Rebecca Skloot, FAQ](https://rebeccaskloot.com/faq/)). *Nature* sieht in ihrer Geschichte die Ungleichheit, die im Forschungs- und Gesundheitssystem der USA steckt und dort bis heute besteht ([Nature 2020](https://www.nature.com/articles/d41586-020-02494-z)).
 - **Wem gehört, was aus dem Körper kommt?** Skloot fragt, ob Menschen bestimmen dürfen, was mit ihrem Gewebe geschieht, wenn es den Körper verlassen hat, und wer daran verdienen darf ([Rebecca Skloot, FAQ](https://rebeccaskloot.com/faq/)). Ihre Söhne waren wütend, als sie erfuhren, dass mit den Zellen ihrer Mutter gehandelt wurde, während die Familie sich keine Krankenversicherung leisten konnte (ebd.). Das Genom-Abkommen von 2013 gab der Familie zum ersten Mal ein Mitspracherecht ([JHU Hub 2013](https://hub.jhu.edu/2013/08/08/henrietta-lacks-hela-cells-agreement/)).
 - **Hinter jeder Probe steht ein Mensch.** Für Forscher seien Zellen oft Werkzeuge wie Reagenzgläser oder Fruchtfliegen, sagt Skloot; die Menschen dahinter hätten eigene Gedanken darüber, was mit ihrem Gewebe geschehen soll, und kämen meist nicht vor. Dieselbe Skloot warnt davor, aus der Geschichte zu schließen, Zellkultur sei schlecht: HIV-Tests, viele Medikamente und alle Impfstoffe hängen an ihr ([Smithsonian 2010](https://www.smithsonianmag.com/science-nature/henrietta-lacks-immortal-cells-6421299/)).
 - **Der Name gehört zur Entdeckung.** „Heute geht es nicht um diese unsterblichen Zellen, so wichtig sie sind. Heute geht es darum, den Namen der Frau unsterblich zu machen, von der diese Zellen stammen“, sagte Theodore DeWeese, Dekan der medizinischen Fakultät von Johns Hopkins, beim Spatenstich ([JHU Hub 2024](https://hub.jhu.edu/2024/10/28/henrietta-lacks-building-groundbreaking-ceremony/), eigene Übersetzung). Ihre Enkelin Jeri Lacks Whye sprach am selben Tag von der Geschichte einer Schwarzen Frau, die die Welt nicht mehr erlebte, die ihre Zellen mitgeschaffen haben, „eine Geschichte, die zu lange verborgen war“ (ebd.).
 
 ## Verbindungen zu anderen Denkern
+
+- [[DenkerVita/Isabel Wilkerson|Isabel Wilkerson]] — Kaste als Bauwerk, das wir bewohnen und nicht errichtet haben, Verantwortung statt Schuld; das trifft Skloots Lesart vom Rassismus des Systems und das Eingeständnis von Johns Hopkins, man „hätte mehr tun können und müssen“
+- [[DenkerVita/William Darity Jr|William Darity Jr.]] — für ihn entscheidet das Vermögen, das Krankheit abpuffert; die Söhne von Henrietta Lacks konnten sich keine Krankenversicherung leisten, während mit den Zellen ihrer Mutter gehandelt wurde, und Darity verlangt, dass der Staat zahlt, nicht ein privater Vergleich (über den Fall selbst äußert er sich in unseren Quellen nicht)
+- [[DenkerVita/Vandana Shiva|Vandana Shiva]] — *bio nullius*: Leben, das als niemandes gilt, bis jemand es sich aneignet; sie meint Saatgut, Skloots Frage nach dem Verdienst an Körpermaterial ist dieselbe am Menschen (die Übertragung ist unsere)
+- [[DenkerVita/Barbara Prainsack|Barbara Prainsack]] — Daten sind von uns allen gemacht, Gewinne gehören fairer verteilt; die Familie Lacks bekam ein Mitspracherecht erst 2013 und einen Vergleich erst 2023
+- [[DenkerVita/Liya Yu|Liya Yu]] — Rehumanisierung beginnt mit einer banalen Information über einen Menschen; die Vita tut genau das, aus HeLa wird wieder eine Frau, die tanzte, kochte und Karten spielte
 
 ## Gedankenwelten-Notes
 

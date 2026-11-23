@@ -98,6 +98,7 @@ kämpferisch: Sie zielt auf Erkenntnis und Empathie, nicht auf Abrechnung.
 - [[DenkerVita/Akala|Akala]] — dieselbe These von der strukturell produzierten Ahnungslosigkeit: seine „verlorenen Seiten" sind ihr „I had no idea"
 - [[DenkerVita/Achille Mbembe|Achille Mbembe]] — Rasse als junge, gemachte Kategorie; er setzt mit der Frage der Reparatur fort, wo ihre Diagnose endet
 - [[DenkerVita/Martyna Linartas|Martyna Linartas]] — die Erbengesellschaft als ökonomischer Zwilling der Kaste: vererbte, unverdiente Rangordnung
+- [[DenkerVita/Henrietta Lacks|Henrietta Lacks]] — zeigt die Kaste in der Medizin: eine getrennte Station und Patientinnen, deren Körper als selbstverständliches Forschungsmaterial galten
 
 ## Gedankenwelten-Notes
 - [[Isabel Wilkerson — Race Caste and Social Justice]]

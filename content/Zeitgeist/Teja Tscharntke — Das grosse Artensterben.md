@@ -447,6 +447,10 @@ Das wachsende Panorama der Reihe, entstanden mit dieser Note. Tscharntke steht d
 
 Der Kongo als Fall der Kleinbauern-These: Dort bleiben die Emissionen aus Landnutzung seit zwei Jahrzehnten hoch, weil Familien für ihre Felder roden, während Brasilien und Indonesien sie senken. Der Sponsor der Ausgabe sammelt für Tierwohlkampagnen gegen die Massentierhaltung, die Tscharntke aus Flächengründen befürwortet.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Zeigt den Weg, den Tscharntke für aussichtslos hält, in seiner aufwendigsten Form: Eizellen aus den Hautzellen toter Nashörner, und Fachleute, die selbst sagen, dass die genetische Vielfalt fehlt.
+
 ---
 
 ## Weiterdenken

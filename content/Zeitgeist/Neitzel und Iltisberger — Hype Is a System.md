@@ -22,7 +22,7 @@ Quelle: [Hype Is a System: How Tech Futures Get Made](https://www.youtube.com/wa
 > [!info] Wer spricht?
 > **Georgina Neitzel** leitet seit April 2024 das Innovation Lab der ERGO Group in Berlin, das neue Technologien erkundet, prüft und in den Konzern bringt. Davor war sie knapp sieben Jahre Lead Product Managerin und Data Scientist bei BCG Digital Ventures. Im Vortrag spricht sie über das Systemmodell (ab ▶ 8:40), Iltisberger über die Merkmale von Hype, die Folgen und den Umgang damit.
 >
-> **Raphael Iltisberger** ist Head of Project Management bei PAWLIK Consultants und verbindet Business Psychology (Hochschule Fresenius, Shanghai University) mit Future Research Methodologies. Als ehemaliger IoT-Innovationsberater und Co-Autor von Innovation-Reports zu China interessiert ihn die Frage, wie Zukunftsnarrative das Talent- und Organisationsdesign in Unternehmen formen. „We're both future studies researchers“, sagt Iltisberger über die beiden.
+> **Raphael Iltisberger** ist Head of Project Management bei PAWLIK Consultants und studiert im Master Zukunftsforschung an der FU Berlin; davor Wirtschaftspsychologie an der Hochschule Fresenius und Chinesisch an der Shanghai Jiao Tong University. Sein Forschungsinteresse gilt nach eigener Angabe „primär den Auswirkungen von Technologie-Hypes auf Gesellschaft und Wirtschaft“. „We're both future studies researchers“, sagt Iltisberger über die beiden.
 >
 > → [[DenkerVita/Georgina Neitzel|DenkerVita]] · → [[DenkerVita/Raphael Iltisberger|DenkerVita]]
 

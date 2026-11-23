@@ -326,6 +326,10 @@ Fromm gab 1975 den Stand seiner Zeit wieder, den er selbst schon 1941 vertreten 
 - [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]] — Münkler deutet die Sehnsucht nach Ordnung als Sehnsucht nach Sorglosigkeit — die Entlastung, die Fromm im autoritären Charakter beschreibt. Seine Gegenmittel, Parteien und das Los als Schulen des Urteils, passen zu Fromms Erziehung zur rationalen Autorität.
 - [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]] — Marks stellt Fromms Frage an die Gefolgsleute selbst, in 43 Interviews, und findet die Scham: Wer beschämt, lädt sie beim anderen ab, Fromms Treten nach unten als Gefühl beschrieben. Wo Fromm eine Charakterstruktur sieht, sieht Marks ein Gefäß, das sich weiten lässt.
 
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Robert Misik stellt sich in diese Linie, mit Adorno, Löwenthal und Freud als Kronzeugen, und ergänzt den Opportunismus: mitzumachen, um nicht selbst zum Opfer zu werden.
+
 ---
 
 ## Weiterdenken

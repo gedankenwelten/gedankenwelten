@@ -285,6 +285,10 @@ El-Mafaalanis Freunde würden ihm Geld leihen und halten trotzdem ein TikTok-Vid
 
 Löschel lebt die Rolle, die Bogner am Ende fordert: bei den eigenen Leisten bleiben, die Abwägungen offenlegen, die Entscheidung Gesellschaft und Politik lassen. Er beschreibt auch, was die Epistemisierung mit Forschenden macht, die so arbeiten: Wer im Energiefeld öffentlich spricht, wird sofort einem Lager zugeschlagen, „Aktivist“ oder „Bremser“. Göpel hält im selben Gespräch dagegen, das Wissen liege längst frei vor und komme trotzdem nicht von selbst an.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Zeigt Bogners Schnittstelle an der Xenotransplantation: Die Forscher, die im Film für die Schweineniere sprechen, sind mit den Firmen verbunden, die sie liefern, und der Film sagt es nicht.
+
 ---
 
 ## Weiterdenken

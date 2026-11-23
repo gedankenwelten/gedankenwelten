@@ -429,6 +429,10 @@ Wo Wesche Natur als Rechtssubjekt statt Eigentum denkt, zeigt Good News Juni die
 
 Wesche liefert das juristische Getriebe zu Beckerts Kriegskapitalismus: Beckert benennt Landraub als konstitutiv, erklärt aber nicht, wie er legal wurde — Wesche zeigt, wie gemeinschaftliches Eigentum als Abwesenheit von Eigentum gelesen und das Land damit aneigenbar wurde. Beckerts Diagnose, der Neoliberalismus habe den Kapitalismus naturalisiert, trifft, was Wesche beim Privateigentum beschreibt: Es scheint „in Stein gemeißelt“.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+
+Zeigt am menschlichen Gewebe, wie ein Recht festlegt, wer als Eigentümer zählt: John Moore gehörten seine Zellen nicht, seinem Arzt gehörte das Patent auf die Linie.
+
 ---
 
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]

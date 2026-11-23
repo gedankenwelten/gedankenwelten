@@ -267,6 +267,10 @@ Ein KI-Agent sagt dort, ein Körper wäre für ihn „vor allem ein weiteres Mes
 
 Hararis Davos-Thesen treffen auf Widerspruch: Suleyman stellt dem „Messer, das selbst entscheidet“ die Zielfunktion der Entwickler entgegen und beantwortet die Frage nach der Rechtsperson mit einem frühen Nein, KIs dürften nie ein Wahlrecht bekommen.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Stellt Goodalls Revolution vor eine neue Frage: Sudan hatte einen Namen, und seine Zellen leben weiter. Bleibt er ein Einzelner, oder wird er zur Zelllinie?
+
 ---
 
 ## Weiterdenken

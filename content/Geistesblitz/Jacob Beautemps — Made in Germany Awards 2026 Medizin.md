@@ -334,6 +334,10 @@ Spitzer erzählt von der Nonne, die mit über hundert nicht dement war, obwohl i
 
 Dasselbe Tal bei Gehirnchips: Der Neurochirurg Bernhard Meyer sagt offen, dass Investoren mit Patienten keinen großen Gewinn erwarten — „Gewinn liegt in dem Markt jenseits vom Patienten.“
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Zeigt dasselbe Gefälle in der Altersforschung: Unity Biotechnology scheiterte 2020 mit seinem Senolytikum am Knie und wurde 2025 aufgelöst.
+
 ---
 
 ## Weiterdenken

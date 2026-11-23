@@ -424,6 +424,10 @@ Südafrika gab Amnestie nur gegen öffentliche Wahrheit, für jeden Täter einze
 
 Die Frage, wer die Handelnden bewacht, als Gesetzgebung: Der Bundestag hat für die Nachrichtendienste einen Kontrollrat beschlossen, der vorab und im Verborgenen prüft und grundlegende Entscheidungen in Leitsätzen veröffentlicht, den Mittelweg aus geschützter Beratung und offengelegten Gründen.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Bringt Bürgerkonferenzen zur Biomedizin in diese Frage: In München wechselte eine Konferenz zur Xenotransplantation zu einem „Ja, aber“, in Dresden entschied der Gesetzgeber später anders als die Gelosten.
+
 ---
 
 ## Weiterdenken

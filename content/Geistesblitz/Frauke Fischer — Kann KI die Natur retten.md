@@ -381,6 +381,10 @@ Der Agrarökologe, der den Nutzen von Vögeln und Fledermäusen im Kakao gemesse
 
 Das Methan-Warnsystem der UN ist ein Alarm im Sinne Fischers, und seine Bilanz zeigt die nächste Grenze: Auf 7.500 Meldungen folgten 42 Abhilfen. Rapa Nui zeigt die Lücke, auf die ihr Interspecies Money zielt, das laufende Geld für den Erhalt eines Schutzgebiets, das acht Jahre fast nur auf dem Papier stand.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Zeigt die Technik für den Naturschutz an ihrem letzten Punkt: Wenn nur noch zwei Weibchen leben, bleibt die Zellbank bei minus 196 Grad.
+
 ---
 
 ## Weiterdenken

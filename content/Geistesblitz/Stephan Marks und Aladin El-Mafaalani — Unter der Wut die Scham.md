@@ -341,6 +341,10 @@ Ein Streetworker aus Schöneberg beschreibt im Radio, wie er Jugendliche nach ih
 
 Marks' Gratwanderung, von den Verurteilten selbst nachgeprüft: Eine Frau hasst den Jugendrichter, der sie mit 14 „robust“ anfasste, bis heute und dankt ihm im selben Atemzug. Und ein Kind wurde in der Bild-Zeitung zum „Kindergangster“.
 
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Am taz-Abend über Misiks *Erziehung zur Grausamkeit* vertritt die Reporterin Antonie Rietzschel Marks' Position aus der Praxis: Wer vor Ort von Faschisten redet, kommt nicht mehr ins Gespräch. Misik trennt dagegen den Analytiker, der das Wort brauchen muss, vom Politiker, der es lassen sollte.
+
 ---
 
 ## Weiterdenken

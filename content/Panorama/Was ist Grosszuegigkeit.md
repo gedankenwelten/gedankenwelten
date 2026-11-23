@@ -242,6 +242,10 @@ Boshammers Verzeihen, das einem Menschen erlaubt, ein anderer zu werden, ist die
 
 Daths lange Kette unsichtbarer Arbeit und Kurts künstliche Knappheit: Wer sein Glück für selbst geschmiedet hält, übersieht, wem er es schuldet.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+
+Feinbergs Nowheresville in der Medizin: Henrietta Lacks' Zellen wurden großzügig geteilt, aber die Frau, von der sie stammten, hatte kein Recht, gefragt zu werden.
+
 ---
 
 ## Weiterdenken

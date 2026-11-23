@@ -251,6 +251,10 @@ Was Yu als Abschalten der Mentalisierung misst, nannte Buber 1923 das Grundwort 
 ### → [[Harry Pfau — Harry macht satt]]
 Rehumanisierung im Klassenzimmer: Ein früherer Obdachloser erzählt Jugendlichen, wie es auf der Straße ist, bis sie sagen, das könnte ihnen auch passieren.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+
+Zeigt Yus leise Entmenschlichung an einem historischen Fall: Die Zellen einer Schwarzen Patientin wurden zum Werkzeug der Zellbiologie, und die Frau dahinter verschwand für Jahrzehnte hinter zwei Silben.
+
 ---
 
 ### → [[GfbV — Jesidische Familien in der Diaspora]]

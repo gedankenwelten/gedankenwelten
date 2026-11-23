@@ -541,6 +541,10 @@ Ein Feld für die Sensibilisierungsthese: Die queerfeindlichen Straftaten stiege
 - **Thomas Bauer**: *Die Vereindeutigung der Welt. Über den Verlust an Mehrdeutigkeit und Vielfalt* (Reclam, 2018) — die schwindende Ambiguitätstoleranz
 - **Klaus Dörre, Stephan Lessenich, Hartmut Rosa**: *Soziologie – Kapitalismus – Kritik. Eine Debatte* (Suhrkamp, 2009) — darin Dörres Begriff der kapitalistischen Landnahme
 
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Saskia Esken beruft sich dort auf die Mitte-Studie, die auf Heitmeyers Konzept der gruppenbezogenen Menschenfeindlichkeit aufbaut; Robert Misik erklärt die Verrohung stärker vom Agitator her als von den Strukturen, die Heitmeyer betont.
+
 ---
 
 ## Weiterdenken

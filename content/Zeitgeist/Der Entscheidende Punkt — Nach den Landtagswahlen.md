@@ -353,6 +353,10 @@ Brosda warnte Ende August vor einer Landesregierung, die keine Staatsverträge m
 
 Hensels lange Abschiedsbewegung lässt sich zweimal erzählen: als Antwort auf eine Politik, die nicht zuhörte (Oschmann), oder als Fortsetzung des Abduckens, das schon die Diktatur verlangte (Kowalczuk).
 
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Antonie Rietzschel, die Siegmund im Wahlkampf begleitete, beschreibt die Hoffnung seiner Anhänger als „missionarische Mission“; Robert Misik deutet sie mit Löwenthal als den Punkt, an dem Negativismus in Euphorie umschlägt.
+
 ---
 
 ## Weiterdenken

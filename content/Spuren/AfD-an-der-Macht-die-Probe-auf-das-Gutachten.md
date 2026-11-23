@@ -657,6 +657,10 @@ Die Beobachtungsspur zur politisch und religiös motivierten Gewalt läuft ebenf
 >
 > Zum ersten Mal lohnt ab Oktober auch ein **Stimmenspektrum**: Wenn in Magdeburg ein AfD-Ministerpräsident gewählt wird oder scheitert, ist der Blick von außen — Warschau, Budapest, Wien, Washington, Ankara — kein Beiwerk mehr, sondern ein eigener Befund darüber, was dieser Vorgang international bedeutet.
 
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Am 04.11.2026 streiten Esken und Rietzschel, ob das Verbotsverfahren oder die bevorstehende Wahl Siegmunds die dringlichere Frage ist; Esken erwartet vom Verfahren schon in der Vorbereitung eine disziplinierende Wirkung, was sich hier messen ließe.
+
 ---
 
 ## Weiterdenken

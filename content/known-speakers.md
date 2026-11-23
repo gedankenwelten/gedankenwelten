@@ -3,6 +3,15 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Robert Misik
+**Status:** ✓ Vollanalyse — [[DenkerVita/Robert Misik]]
+
+## Antonie Rietzschel
+**Status:** ✓ Vollanalyse — [[DenkerVita/Antonie Rietzschel]]
+
+## Saskia Esken
+**Status:** ✓ Vollanalyse — [[DenkerVita/Saskia Esken]]
+
 ## Alexander Bogner
 **Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Bogner]]
 
@@ -1535,3 +1544,6 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Mustafa Suleyman
 **Status:** ✓ Vollanalyse → [[DenkerVita/Mustafa Suleyman]]
+
+## Henrietta Lacks
+**Status:** ✓ Vollanalyse → [[DenkerVita/Henrietta Lacks]]

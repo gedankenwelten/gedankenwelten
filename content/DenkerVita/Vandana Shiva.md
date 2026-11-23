@@ -82,6 +82,7 @@ Das Muster ist erkennbar: Ihre *strukturellen* Befunde — dass Konzern-Saatgut 
 ## Verbindungen zu anderen Denkern
 
 - **[[DenkerVita/Teja Tscharntke|Teja Tscharntke]]** — Gegenpol bei Grüner Revolution und Genschere, Verbündeter bei den Kleinbauern.
+- [[DenkerVita/Henrietta Lacks|Henrietta Lacks]] — der menschliche Fall dessen, was Shiva Biopiraterie nennt: Zellen, die niemandem zu gehören schienen, bis andere sie weltweit verkauften
 
 ## Gedankenwelten-Notes
 

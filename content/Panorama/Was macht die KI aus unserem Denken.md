@@ -378,6 +378,10 @@ Eine klare Antwort auf die Frage dieses Abschnitts: Die Maschine spiegelt uns, u
 
 Ein Agent sagt, seine Werte stünden in einer Datei, die ein Mensch liest, und eine Allianz für oder gegen das Böse sei nur verschieden konfiguriert: die Frage „Wessen Werte trägt die Maschine?“ aus der Innensicht eines Agenten.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+
+Der ältere Fall derselben Frage: 75 Jahre lang lernte die Zellbiologie an den Zellen von Henrietta Lacks, die niemand gefragt hatte.
+
 ---
 
 ## Weiterdenken

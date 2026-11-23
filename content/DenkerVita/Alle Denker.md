@@ -222,6 +222,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Elon Musk|Elon Musk]]** — Unternehmer (SpaceX, Tesla, X, xAI), DOGE 2025; verändert oder enthüllt? Die Härte ist seit den Neunzigern belegt, neu sind Richtung, Bühne und Reichweite
 
+**[[DenkerVita/Saskia Esken|Saskia Esken]]** — SPD-Politikerin und Informatikerin (geb. 1961 Stuttgart), MdB seit 2013, SPD-Vorsitzende 2019–2025; treibt das AfD-Verbotsverfahren voran
+
 **[[DenkerVita/Ernst Gelegs|Ernst Gelegs]]** — Journalist, ORF-Osteuropa-Korrespondent in Budapest (rund 25 Jahre, bis 2025); erklärte Orbáns Verfassungsfallen und trennte vor der Ungarn-Wahl 2026 den Regierungs- vom Regimewechsel
 
 **[[DenkerVita/Ernst Tugendhat|Ernst Tugendhat]]** — Philosoph (1930–2023), aufgewachsen in der Villa Tugendhat in Brünn, Exil in Venezuela, Heidegger-Hörer und später sein Kritiker; holte die sprachanalytische Philosophie nach Deutschland; Moral ohne Metaphysik, Egozentrizität und Selbstrelativierung; *Vorlesungen über Ethik* (1993), *Egozentrizität und Mystik* (2003)
@@ -480,6 +482,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## L
 
+**[[DenkerVita/Henrietta Lacks|Henrietta Lacks]]** — Patientin und Mutter aus Baltimore (1920–1951), aus deren Krebszellen ohne ihr Wissen die HeLa-Zelllinie wuchs; ihre Geschichte steht für Einwilligung, Rassismus in der Medizin und die Frage, wem der Körper gehört
+
 **[[DenkerVita/Igor Levit|Igor Levit]]** — Pianist, mischt sich als Staatsbürger gegen die AfD und gegen Antisemitismus ein
 
 **[[DenkerVita/Henning Lobin|Henning Lobin]]** — Linguist, Direktor des Leibniz-Instituts für Deutsche Sprache in Mannheim, früher Computerlinguistik in Gießen; die sprechende Maschine als Kränkung, Sprache wächst aus dem Leib; „Sprachkampf“
@@ -596,6 +600,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Catrin Misselhorn|Catrin Misselhorn]]** — Philosophin (Prof. Universität Göttingen); Vordenkerin der Maschinen- und Roboterethik in Deutschland; drei Grundsätze moralischer Maschinen (Selbstbestimmung fördern, nicht über Leben/Tod entscheiden, menschliche Letztverantwortung), Empathie als Moralquelle auch gegenüber Robotern, Uncanny Valley, gemäßigter Naturalismus; *Grundfragen der Maschinenethik*, *Künstliche Intelligenz und Empathie*
 
+**[[DenkerVita/Robert Misik|Robert Misik]]** — Journalist und politischer Schriftsteller (geb. 1966 Wien), taz-Kolumnist, kuratiert im Bruno Kreisky Forum „Genial dagegen“; liest mit Freud, Adorno und Löwenthal, wie rechte Agitation ihre Anhänger zur Grausamkeit erzieht; *Erziehung zur Grausamkeit* (2026)
+
 **[[DenkerVita/Maoz Inon|Maoz Inon]]** — Israelischer Sozialunternehmer & Friedensaktivist, Gründer der Abraham-Hostels, des Jesus Trail und Fauzi Azar Inn, Co-CEO InterAct International; verlor seine Eltern am 7. Oktober 2023 und wählte öffentlich Frieden statt Rache; Co-Autor The Future Is Peace (2026)
 
 **[[DenkerVita/Rainer Mausfeld|Rainer Mausfeld]]** — Wahrnehmungspsychologe und Kognitionsforscher (Uni Kiel, emeritiert); anerkannter Grundlagenforscher, ab 2015 machtkritischer Analytiker von Meinungsmanagement und „Demokratie-Management“; *Warum schweigen die Lämmer?* (2018), *Angst und Macht* (2019), *Hybris und Nemesis* (2023)
@@ -693,6 +699,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Jutta Roosen|Jutta Roosen]]** — Agrar- und Konsumökonomin, Lehrstuhl für Marketing und Konsumforschung an der TU München, Mitherausgeberin von *Food Policy*, seit 2026 im WBAE; Ernährungspolitik als Dreieck aus Information, Preis und Rezeptur — die Effekte sind klein, aber gerichtet, und nur die Kombination trägt
 
 **[[DenkerVita/Paul Ricoeur|Paul Ricœur]]** — französischer Philosoph (1913–2005), Phänomenologe und Hermeneutiker, Professor in Straßburg, an der Sorbonne, in Nanterre und Chicago; Denker des langen Umwegs — zweite Naivität, Hermeneutik des Verdachts und des Vertrauens, narrative Identität, die kleine Ethik (das gute Leben, mit und für andere, in gerechten Institutionen); *Die Symbolik des Bösen* (1960), *Zeit und Erzählung* (1983–85), *Das Selbst als ein Anderer* (1990), *Gedächtnis, Geschichte, Vergessen* (2000)
+
+**[[DenkerVita/Antonie Rietzschel|Antonie Rietzschel]]** — Reporterin aus Sachsen (geb. 1986), früher *Süddeutsche Zeitung*, dann *Leipziger Volkszeitung*; AfD, Rechtsextremismus, Ostdeutschland; setzt gegen das Pathologisieren das Gespräch vor Ort; *Dreamland Deutschland?* (2016)
 
 **[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
 
@@ -948,7 +956,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[DenkerVita/Petra Gehring|Petra Gehring]] — Philosophieprofessorin TU Darmstadt; digitale Infrastrukturen als politische Entscheidungen; Bürgergutachten digitaler Euro; partizipative Digitalethik
 - [[DenkerVita/Sebastian Giessmann|Sebastian Gießmann]] — Medienwissenschaftler Uni Siegen; Kulturgeschichte der Zahlungssysteme; Kreditkarten-Buch 2026; die Eurocard als europäisches Lehrstück
 - [[DenkerVita/Georgina Neitzel|Georgina Neitzel]] — Head of Innovation Lab (ERGO Group); Future-Studies-Praktikerin; Hype als systemische Kraft in Unternehmens-Innovation
-- [[DenkerVita/Raphael Iltisberger|Raphael Iltisberger]] — PAWLIK Consultants; Business Psychology + Future Research Methodologies; Hype und Organisationsentwicklung
+- [[DenkerVita/Raphael Iltisberger|Raphael Iltisberger]] — Projektleiter bei PAWLIK Consultants, Wirtschaftspsychologe, studiert Zukunftsforschung (FU Berlin); Merkmale von Hype, offene Zukunft, Vorsicht vor Prognosen
 - [[DenkerVita/Suraj Yengde|Suraj Yengde]] — Dalit-Gelehrter (UPenn, zuvor Harvard/Oxford); *Caste Matters*; Dalitality, Kaste als globales Phänomen, Dalit–Black solidarity; liest Ambedkar als lebendigen Auftrag
 - [[DenkerVita/Thomas Hoerren|Thomas Hörren]] — Käferkundler, Vorsitzender des Entomologischen Vereins Krefeld; Mitautor der Krefelder Studie (2017) und der DINA-Arbeiten; Totholz, Artenkenntnis, Wissenschaftskommunikation; verteidigt die Studie gegen Agitation
 - [[DenkerVita/Martin Sorg|Martin Sorg]] — Entomologe (Hautflügler), seit 1987 ehrenamtlicher Kurator der Krefelder Sammlungen; standardisierte ab 1982 die Malaisefalle und das Wiegen der Insekten, aus seiner Messreihe wurde die Krefelder Studie

@@ -441,6 +441,10 @@ Prainsack, mit der Buyx den Solidaritätsbegriff entwickelt hat, liest dieselben
 ### → [[Denker/Franziska Meier — Camus Die Pest#Eine illusionslose Ethik|Franziska Meier — Der Krankheit einen Namen geben]]
 Im Mai 2020, mitten in der ersten Welle, las Meier Camus' *Pest* als Roman über Helfer mit einer „illusionslosen Ethik des Handelns“, über jene also, die Buyx im Rückblick auf zwei Drittel bis drei Viertel beziffert. Dann fragt sie, was keine Zahl fasst: das Leid des Einzelnen, das sich nach der Quarantäne nicht vermitteln lässt und bei der Rückkehr zur Normalität an den Rand gerät.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+
+Zeigt Altersforschung, die um den Körper kämpft, statt ihn abzuschreiben, auch sie mit Milliarden von Investoren und der Frage, wer sich das Ergebnis leisten kann.
+
 ---
 
 ## Weiterdenken

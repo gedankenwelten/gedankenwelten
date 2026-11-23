@@ -308,6 +308,9 @@ Spitzers „hedonische Tretmühle" trifft bei Rüther die klinische Realität de
 
 Spitzers Lisa an der Tafel hat dort eine Schwester: Meidingers Klasse, die in angstvoller Stille wartet, wer die Fünf zurückbekommt. Ein deutscher Feldversuch an 75 Grundschulen fand allerdings ohne Noten nicht weniger Angst, ein Hinweis, dass die Angst eher am Selbstbild hängt, wie es Spitzers Werte-Schreibübung bearbeitet.
 
+### → [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+
+Findet bei Mäusen auf der Ebene eines Moleküls, was Spitzer für das menschliche Gehirn behauptet: In anregender Umgebung hatten Hirokawas Tiere rund 1,7-mal so viel vom Motorprotein KIF1A.
 
 ---
 

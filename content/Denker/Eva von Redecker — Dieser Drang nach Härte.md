@@ -288,6 +288,10 @@ Münkler beobachtet, dass der russische Dekadenzvorwurf und die eigene hybride K
 
 In Lüneburg 2024 definiert Redecker Vertrauen als Kooperationserwartung, leitet den „öffentlichen Luxus" aus dem Wunsch mancher Wähler nach einem „Stärkebeweis vom Staat" her und sagt: „Es gibt kein Exil mehr."
 
+### → [[Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit]]
+
+Robert Misik beschreibt denselben Kult der Härte als Ergebnis von Propaganda und Gruppendynamik, mit Löwenthals Dreisprung vom Negativismus zur Euphorie; sein Gegenmittel, eine progressive Veränderungserzählung, bleibt allgemeiner als von Redeckers vier Wege.
+
 ---
 
 ## Weiterdenken
