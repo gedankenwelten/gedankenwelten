@@ -256,6 +256,10 @@ Ist das Werkzeugmacherland damit stark oder abhängig? Die Forschung sagt: beide
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Ein Abend gegen die schlechte Laune|Made in Germany Awards 2026 — Die Verleihung]]
+
+Beautemps' Programm „Optimismus verbreiten“ wird zum Abend mit Ministerin: Dorothee Bär will die „miese, petrige Stimmung“ stören. Die Note fragt, was dieser Optimismus braucht, damit man ihn prüfen kann.
+
 ### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
 
 Wo SmarAct an seine Grenze kommt, beginnt der indirekte Weg: Am CERN schaut man in Abstände von wenigen Zeptometern, zwölf Größenordnungen unter dem Nanometer, nur über die Häufigkeit eines extrem seltenen Zerfalls.

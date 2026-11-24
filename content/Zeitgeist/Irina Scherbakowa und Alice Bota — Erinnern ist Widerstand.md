@@ -483,6 +483,11 @@ Die deutsche Seite derselben Erinnerung: Der Historiker Stefan Creuzberger erzä
 ### → [[Zeitgeist/Irina Scherbakowa — Der lange Schatten des Stalinismus|Irina Scherbakowa — Der lange Schatten des Stalinismus]]
 Die Schwester-Note mit derselben Stimme: Scherbakowa allein über das Erbe des Stalinismus, das Russland nicht aufgearbeitet hat.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Hier spricht der Präsident des Landes, für dessen Gerichte Memorial dokumentiert. Er nennt einen Frieden gerecht, wenn ein Weg zur Strafe sichtbar wird, „vielleicht nicht jetzt“, und begründet es von der anderen Seite her als Bota: mit der Rache der Opfer, nicht mit der Rückkehr der Täter.
+
+
 ---
 
 ## Weiterdenken

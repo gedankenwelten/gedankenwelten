@@ -285,6 +285,11 @@ Sanyal fordert Solidarität mit den Deserteuren und stellt den Staatsbefehl gege
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Der Präsident erzählt, wie er nach der Befreiung durch Butscha ging, die Journalisten holen ließ und danach zum ersten Mal töten wollte. Die Lüge von der Inszenierung, die Mawick als Desinformation zurückweist, hat er von Anfang an kommen sehen; seine eigene Zahl von 500 Toten in einem Grab ist allerdings zu hoch.
+
+
 ---
 
 ## Weiterdenken

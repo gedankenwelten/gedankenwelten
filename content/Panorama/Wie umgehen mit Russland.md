@@ -2,7 +2,7 @@
 title: "Wie umgehen mit Russland?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-11-23
+aktualisiert: 2026-11-24
 description: "Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben."
 raetsel: "Zwei Stühle, ein Tisch. Einer ist aufgestanden. Wer klopft zuerst?"
 panorama-art: wachsend
@@ -156,6 +156,8 @@ Dass beides zugleich gehen kann, ist schon einmal beschlossen worden. Der Harmel
 
 Eine eigene Frage ist, ob Nachgeben zum nächsten Angriff einlädt. Nach Daryl Press beurteilen Entscheider die Glaubwürdigkeit eines Gegners nach dessen gegenwärtiger Macht und seinen Interessen, kaum nach früherem Verhalten (*Calculating Credibility*, 2005); Weisiger und Yarhi-Milo finden statistisch, dass früheres Nachgeben doch mit späteren Herausforderungen zusammenhängt ([Weisiger & Yarhi-Milo 2015](https://doi.org/10.1017/s0020818314000393)). Selbst München ist umstritten: Revisionisten lesen es als Zeitgewinn für die britische Aufrüstung ([Ripsman & Levy 2008](https://doi.org/10.1162/isec.2008.33.2.148)), und wie sehr die Analogie das Urteil verzerren kann, zeigte sich 1965 in Vietnam (Khong, *Analogies at War*, 1992).
 
+Ein Prüfstein für beide Lesarten ist die Krim 2014. Im freigegebenen Protokoll des ukrainischen Sicherheitsrats vom 28. Februar 2014 nannte der amtierende Verteidigungsminister landesweit etwa 5.000 einsatzbereite Soldaten und 20.000 Russen auf der Halbinsel; nur der amtierende Präsident Turtschynow stimmte für das Kriegsrecht ([RFE/RL, 23.02.2016](https://www.rferl.org/a/ukraine-crimea-seizure-panicked-meeting/27569836.html)). Wo die Ukraine im selben Jahr kämpfte, im Donbas, antwortete Russland mit der offenen Invasion, und Minsk II fiel „höchst günstig für Moskau“ aus ([RAND, Kofman u. a. 2017](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1498/RAND_RR1498.pdf)). Eine Studie auf Grundlage der Protokolle erklärt Kiews Zurückhaltung aus der Logik der vollendeten Tatsache, die gelingt, wenn sie schnell und fast ohne Gewalt geschaffen wird ([Ngo 2024](https://doi.org/10.5038/1944-0472.17.1.2180), Einzelstudie); Moskaus Motiv lag nach einer Fallstudie in Putins Grundannahmen und seiner Risikobereitschaft, nicht in Kiews Verhalten ([Bukkvoll 2016](https://doi.org/10.1080/13569775.2016.1201310), Fallstudie). Ob Gegenwehr auf der Krim den großen Krieg verhindert oder vorgezogen hätte, lässt sich nicht entscheiden.
+
 **Die Stimmen**
 
 - **[[Michael Thumann — Putins Plan fuer Europa#Shenzhen ein Punktsieg und ein Satz über Atomwaffen|Michael Thumann]]:** Die Formel von Shenzhen sei ein Zugeständnis, das Putin das Drohen erschwere — „ich glaube auch nicht, dass das ewig vorhalten wird“.
@@ -167,6 +169,7 @@ Eine eigene Frage ist, ob Nachgeben zum nächsten Angriff einlädt. Nach Daryl P
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ist ein Sondervermögen ein Kriegskredit?|Maja Göpel]]:** Abschreckung heißt, dass man das Zeug nicht explodieren lassen muss; gesucht ist der „Sweet Spot“, genug Stärke, um Grenzen zu ziehen, ohne in die Eskalationsspirale abzuheben.
 - **[[Ruben Mawick — Als Sanitaeter an der Ukraine-Front#Taurus, rote Linien und die Frage, ob Russland uns angreift|Ruben Mawick]]:** Rote Linien kann der Westen nicht ziehen, Putin allein entscheidet über einen Krieg mit der NATO, die Atomdrohungen seien „Märchen“ — dass Russland die NATO angreift, kann er sich trotzdem nicht vorstellen, so wenig wie 2022 den Angriff auf die Ukraine.
 - **[[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben#Kein Gleichgewicht des Schreckens, außer dem einen|Susanne Weigelin-Schwiedrzik]]:** Für die Großmächte sind Atomwaffen militärische Waffen, nicht bloß politische; was sie vom direkten Krieg abhält, ist seit der Kubakrise ein „heimliches Einverständnis“ — ein Frieden, der an der Angst vor der eigenen Vernichtung hängt.
+- **[[Wolodymyr Selenskyj — Ein Praesident im Krieg#Waffen, kein Taxi|Wolodymyr Selenskyj]]:** Hier gibt er Trump recht: Hätte man die Krim 2014 nicht kampflos fallen lassen, hätte es den großen Krieg wenigstens nicht in diesem Ausmaß gegeben, denn Putin hätte gewusst, dass eine Antwort kommt.
 
 <details><summary>Weitere Stimmen (5)</summary>
 
@@ -282,6 +285,7 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 | 11.11.2026 | [[Claudia Wittig und Rainer Rothfuss — Frieden mit Russland ueber die Brandmauer#Nachbesprechung|Wittig und Rothfuß — Frieden mit Russland über die Brandmauer]] | Schreckt Stärke ab? (Harmel 1967, Helsinki 1975, Charta von Paris) · Wurde Russland nach 1990 geholfen? (Überleitungsabkommen, Kieninger 2019, Pariser Club, Stuckler u. a. 2009 vs. Earle & Gehlbach 2010, Brainerd 2021) |
 | 15.11.2026 | [[Stefan Creuzberger — Geschichtspolitik Deutschland und Russland#Kann man mit Russland über Geschichte reden?\|Creuzberger — Wie Deutschland den Krieg im Osten erinnerte]] | Kann man mit Russland über Geschichte reden? (Historikerkommission 2022–2025, Volksbund-Kanal, StGB Art. 354.1 2014/2021/2026, Verfassung Art. 67.1, Putin-Essay 2021, Belarus-Gesetz 2022, Ukraine 2015/2023, DUHK, Snyder 2017; Belavusau u. a. 2021, Cherviatsova 2020) → *Isolieren oder reden?* |
 | 23.11.2026 | [[Michael Thumann — Putins Plan fuer Europa#Nachbesprechung|Michael Thumann — Was Putin von Europa will]] | Reagiert Russland oder treibt es? (McFaul 2020, Götz 2021, Sarotte 2019, Edinger 2022) · Atomdrohung und die Erklärung von Shenzhen (Sechser & Fuhrmann 2013, Beardsley & Asal 2009, Talmadge u. a. 2024, Freedman 2023) · Wandel durch Handel (Papayoanou 1997, Copeland 1996, Bunde 2022) |
+| 24.11.2026 | [[Wolodymyr Selenskyj — Ein Praesident im Krieg#Krim 2014 Hätte Widerstand den Krieg verhindert?\|Wolodymyr Selenskyj — Ein Präsident im Krieg]] | Schreckt Stärke ab: Hätte Widerstand auf der Krim 2014 den Krieg verhindert? Protokoll des Sicherheitsrats, RAND 2017, Ngo 2024, Bukkvoll 2016 |
 
 ---
 

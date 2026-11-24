@@ -349,6 +349,10 @@ Falckes Trost stimmt also erdgeschichtlich und versagt auf der menschlichen Zeit
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Die Erde hinter dem Daumen|Made in Germany Awards 2026 — Die Verleihung]]
+
+Matthias Maurer erzählt vom Bild der Apollo-Astronauten, die Erde hinter dem Daumennagel. Aus dieser Perspektive, sagt er, lasse sich entscheiden, welche Innovationen wirklich wichtig sind.
+
 ### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
 
 Am CERN sucht die Physik das Unerreichbare auf dieselbe indirekte Weise, an seiner Spur in einem extrem seltenen Zerfall. Die Strenge, die Falcke gegen das eigene Wunschergebnis fordert, ist dort als Fünf-Sigma-Regel zur Übereinkunft eines ganzen Fachs geworden.

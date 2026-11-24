@@ -205,6 +205,11 @@ Keupp wäre als europäischer Staatschef nicht nach Shenzhen gefahren und hält 
 
 Thumann teilt Keupps Misstrauen gegen Putins Wort und rät trotzdem zum Gespräch, in Abu Dhabi oder Istanbul statt in Moskau und zuerst auf der Ebene der Sicherheitsberater.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Einen Monat vor Shenzhen hofft Selenskyj, Trump könne Putin „sehr leicht“ an den Tisch bringen, wenn er die beschlossenen Sanktionen nutzt, und nennt eine Waffenruhe an der jetzigen Linie schon den großen Kompromiss. Dazu gehört sein Streit mit Trump über den Diesel, dessen Ausgang Keupps Faktencheck festhält.
+
+
 ---
 
 ## Weiterdenken

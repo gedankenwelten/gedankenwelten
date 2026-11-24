@@ -55,6 +55,9 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jacob Beautem
 
 Quelle: [20% mehr Reichweite: Münchner Start-up löst das größte E-Auto-Problem](https://www.youtube.com/watch?v=q-Iw9hJJMAQ) · Breaking Lab, 05.11.2026 · 26 Min. · Teil 4 von 5, nach [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Energie]], [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Medizin]] und [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|KI]]
 
+> [!info] Wie es ausging (Verleihung am 23.11.2026)
+> Den Preis der Kategorie gewann **DeepDrive**, gewählt vom Publikum. Eine SPRIND-Finanzierung ging an diesem Abend an kein Mobilitäts-Projekt. → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wohin das Geld geht|Die Verleihung]]
+
 > [!info] Wer spricht?
 > **Jacob Beautemps** — Physiker, promovierter Physikdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht von **Breaking Lab**. Er hat die **Made in Germany Awards** ins Leben gerufen und richtet sie 2026 erstmals mit der Bundesagentur für Sprunginnovationen (SPRIND) und dem Bundesforschungsministerium (BMFTR) aus; im Video ist er Erklärer und Gastgeber zugleich.
 >

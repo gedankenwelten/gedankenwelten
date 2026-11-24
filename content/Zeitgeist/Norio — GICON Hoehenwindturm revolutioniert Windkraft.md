@@ -229,6 +229,10 @@ Ob die Rechnung aufgeht, Ertrag gegen Bau, Betrieb und Wartung, zeigen erst die 
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wohin das Geld geht|Made in Germany Awards 2026 — Die Verleihung]]
+
+Laguna nennt das Tal des Todes beim Namen und legt offen, wie SPRIND auswählt. Drei Projekten, deren Beweis noch aussteht, bot er je bis zu 200.000 Euro als erste Stufe an, zwei davon hatten ihre Kategorie beim Publikum verloren.
+
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Das Tal des Todes|Made in Germany Awards 2026 — Medizin]]
 
 In der Medizin ist dasselbe Tal breiter, und ein Teil davon ist Absicht: Klinische Prüfung und Zulassung schützen Patienten, und die Gründerinnen selbst halten den langen Weg für richtig.

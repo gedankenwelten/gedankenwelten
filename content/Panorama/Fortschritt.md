@@ -198,6 +198,7 @@ Auf der anderen Seite steht [[Rutger Bregman — Ist der Mensch wirklich gut|Rut
 | [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] | Zeitgeist | Problem — von Kontrollverlust zu Rohheit |
 | [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]] | Zeitgeist | Problem — von der Kränkung zur Zerstörungslust |
 | [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]] | Denker | Offene Achse — die Wunde als Schatz statt als Störfall |
+| [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung\|Made in Germany Awards 2026 — Die Verleihung]] | Geistesblitz | Gegenstimme von der Bühne — Fortschrittsoptimismus als Programm einer Gala mit Ministerin, und warum er das Aber braucht |
 
 ---
 

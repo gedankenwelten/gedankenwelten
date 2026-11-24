@@ -54,6 +54,9 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jacob Beautem
 
 Quelle: [80 ct/l für Benzin: Durchbruch Made in Germany](https://www.youtube.com/watch?v=7htQ-I8eiKg) · Breaking Lab, 27.10.2026 · 29 Min.
 
+> [!info] Wie es ausging (Verleihung am 23.11.2026)
+> Den Preis der Kategorie gewann **Skellium**, gewählt vom Publikum. Am Ende des Abends bot SPRIND **Synplasma** einen Validierungsauftrag von bis zu 200.000 Euro an, das Projekt mit dem Aber „2045“. → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wohin das Geld geht|Die Verleihung]]
+
 > [!info] Wer spricht?
 > **Jacob Beautemps** — Physiker, promovierter Physikdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht von **Breaking Lab**. Er hat die **Made in Germany Awards** ins Leben gerufen und richtet sie 2026 erstmals mit der Bundesagentur für Sprunginnovationen (SPRIND) und dem Bundesforschungsministerium (BMFTR) aus; im Video ist er Erklärer und Gastgeber zugleich.
 >

@@ -55,6 +55,9 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jacob Beautem
 
 Quelle: [Made in Germany Awards: 3 deutsche Erfindungen für eine bessere Zukunft! (ft. Tomatolix)](https://www.youtube.com/watch?v=dahxHv33elY) · Breaking Lab, 10.11.2026 · 24 Min. · Teil 5 von 5, nach [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Energie]], [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Medizin]], [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 KI|KI]] und [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Mobilitaet|Mobilität]]
 
+> [!info] Wie es ausging (Verleihung am 23.11.2026)
+> Den Preis der Kategorie gewann **SKI²LL-AI**, gewählt vom Publikum in der Abstimmung, die bis in die Liveshow lief. Eine SPRIND-Finanzierung ging an diesem Abend an kein Gesellschafts-Projekt. → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wohin das Geld geht|Die Verleihung]]
+
 > [!info] Wer spricht?
 > **Jacob Beautemps** — Physiker, promovierter Physikdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht von **Breaking Lab**. Er hat die **Made in Germany Awards** ins Leben gerufen und richtet sie 2026 erstmals mit der Bundesagentur für Sprunginnovationen (SPRIND) und dem Bundesforschungsministerium (BMFTR) aus; im Video ist er Erklärer und Gastgeber zugleich.
 >

@@ -72,6 +72,16 @@ tags:
 | **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Gesellschaft]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MIGA_Gesellschaft_dahxHv33elY_Transkript.txt` |
 
+## Jacob Beautemps / Made in Germany Awards — Die Verleihung (Breaking Lab, Livestream)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [🔴15 Erfindungen aus Deutschland: Wer gewinnt die Made in Germany Awards?](https://www.youtube.com/watch?v=pJUKPfiwAS8) (Breaking Lab, Livestream 23.11.2026, Futurium Berlin) |
+| **Wettbewerb** | [Teilnahmebedingungen](https://www.madeingermanyawards.de/teilnahmebedingungen) · [SPRIND-Magazin](https://www.sprind.org/worte/magazin/made-in-germany-awards) |
+| **Ehrenpreise** | [Südkurier zu Gerhart Wissel](https://www.suedkurier.de/bodenseekreis/unternehmer-vom-bodensee-mit-kurioser-erfindung-wird-95-jahre-alt-1-115328703) · [SWR Heimat zu Wissel](https://www.swr.de/heimat/bodensee/erfinder-turbo-rollator-102.html) |
+| **Notiz** | [[Jacob Beautemps — Made in Germany Awards 2026 Verleihung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Beautemps_MiG_Finale_pJUKPfiwAS8_Transkript.txt` |
+
 ## Michael Weigel-Jech / SmarAct — Präzision im Atom-Bereich (Breaking Lab)
 
 | | |
@@ -6256,3 +6266,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Anlass** | [On the Origin of Species, 24.11.1859 (Wikipedia)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) · [Darwin an Hooker, 1.2.1871 — der „warme kleine Tümpel“](https://www.darwinproject.ac.uk/letter/DCP-LETT-7471.xml) |
 | **Transkripte** | `Gedankenwelten/Transkripte/Schoenswetter_Alpenflora_Transkript.txt` (Whisper large-v3-turbo, keine YouTube-Untertitel; Pflanzennamen oft verhört) · `Gedankenwelten/Transkripte/Trapp_Ursprung_Leben_Transkript.txt` (YouTube-Autountertitel, vollständig) |
 | **Herkunft** | beide Diogenes-Funde (Nächte 31.08. und 01.09.2026, Strom „blindfleck“), gewählt über /kairos |
+
+## Wolodymyr Selenskyj — Ein Präsident im Krieg
+
+| | |
+|---|---|
+| **Interview** | [President Zelenskyy: It's Time To Tell You The Truth About The War!](https://www.youtube.com/watch?v=5x9dkYIRb58) — The Diary Of A CEO (Steven Bartlett), aufgenommen 16.10.2026, veröffentlicht 22.10.2026, 1:50 Std. |
+| **Notiz** | [[Zeitgeist/Wolodymyr Selenskyj — Ein Praesident im Krieg]] |
+| **Vita** | [[DenkerVita/Wolodymyr Selenskyj]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Selenskyj_DOAC_5x9dkYIRb58_Transkript.txt` (YouTube-Untertitel der englischen KI-Synchronfassung, vollständig) · `Gedankenwelten/Transkripte/Selenskyj_DOAC_5x9dkYIRb58_uk_Stichproben.txt` (fünf Stellen aus dem ukrainischen Originalton, Whisper) |

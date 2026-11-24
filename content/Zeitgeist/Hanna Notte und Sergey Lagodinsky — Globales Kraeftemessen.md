@@ -370,6 +370,11 @@ Sechs Wochen später sitzt Putin in Shenzhen mit Xi und Trump an einem Tisch, un
 
 Der Militärökonom nennt Russland nach Shenzhen einen „bequemen Vasallen“ Chinas. Nottes Zahlen zur Abhängigkeit tragen diese Richtung, seine eigene Exportzahl überzeichnet sie. Seinem „Ich warte immer noch drauf“ zum Atomkrieg steht ihre Leiter gegenüber, die vom Nuklearen ins Hybride führt.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Nottes Rat, die Ukrainer sollten selbst erzählen, in der Praxis: Selenskyj erzählt die Ukraine als „Land Nummer zwei“ der Sowjetunion und Erbin der Kiewer Rus, in einem Podcast, dessen halbes Publikum in Amerika sitzt, nicht im Globalen Süden.
+
+
 ---
 
 ## Weiterdenken

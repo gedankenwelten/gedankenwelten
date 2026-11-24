@@ -329,6 +329,10 @@ Eine Meta-Analyse über mehr als dreißig solcher Experimente bringt Ordnung hin
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#95 und 18|Made in Germany Awards 2026 — Die Verleihung]]
+
+Ein Ehrenpreis Generationen für einen 95-Jährigen und eine 18-Jährige, begründet mit dem Satz, unter Erfindern gebe es keinen Konflikt zwischen Alt und Jung. Er zeigt die gute direkte Ebene, von der El-Mafaalani spricht, über die gesellschaftliche sagt er nichts.
+
 ### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder]]
 
 Gut ein Jahr später, auf der Utopie-Konferenz der Leuphana, sitzt El-Mafaalani neben der Juristin, die seinen Zukunftsrat ausgearbeitet hat. Aus dem Vorschlag am Ende eines Gesprächs wird dort ein Verfahren mit Begründungspflicht, und El-Mafaalani liefert einen Satz, der hier fehlt: Die autoritärsten Familien Deutschlands ließen ihre Kinder mehr mitentscheiden als die durchschnittliche Grundschule.

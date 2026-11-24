@@ -52,6 +52,9 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jacob Beautem
 
 Quelle: [Nasenspray gegen Demenz: Wie nah ist dieser deutsche Durchbruch wirklich?](https://www.youtube.com/watch?v=Wnqq9NnTo2s) · Breaking Lab, 29.10.2026 · 27 Min. · Teil 2 von 5, nach [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Energie]]
 
+> [!info] Wie es ausging (Verleihung am 23.11.2026)
+> Den Preis der Kategorie gewann **CogniSia**, gewählt vom Publikum. Als einziger Sieger des Abends bekam CogniSia außerdem von SPRIND einen Validierungsauftrag von bis zu 200.000 Euro angeboten. → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wohin das Geld geht|Die Verleihung]]
+
 > [!info] Wer spricht?
 > **Jacob Beautemps** — Physiker, promovierter Physikdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht von **Breaking Lab**. Er hat die **Made in Germany Awards** ins Leben gerufen und richtet sie 2026 erstmals mit der Bundesagentur für Sprunginnovationen (SPRIND) und dem Bundesforschungsministerium (BMFTR) aus; im Video ist er Erklärer und Gastgeber zugleich.
 >
@@ -73,7 +76,7 @@ Der Satz ist größer als das, was folgt. Keine der drei Erfindungen entlastet e
 
 ### Ein Preis, der sein Aber mitbringt
 
-[▶ 1:33](https://www.youtube.com/watch?v=Wnqq9NnTo2s&t=93) — Die Regeln sind dieselben wie im ersten Teil: Prototyp-Pflicht, eine Jury aus SPRIND und Forschungsministerium, je Kategorie drei Finalisten, die Reihenfolge im Video zufällig. Für die Medizin stimmt das Publikum bis zum 12. November ab, verliehen wird am 23. November in Berlin, im Livestream auf Breaking Lab. Den Siegern winkt eine mögliche Finanzierung durch SPRIND; Beautemps spricht von *„potenzieller Finanzierung von Millionen von Euro“* [▶ 1:33](https://www.youtube.com/watch?v=Wnqq9NnTo2s&t=93). Wie der Preis gebaut ist und dass Beautemps zugleich Veranstalter und Erklärer ist, steht ausführlicher in der Note zum ersten Teil (→ [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie#Ein Preis, der sein Aber mitbringt|Energie]]).
+[▶ 1:33](https://www.youtube.com/watch?v=Wnqq9NnTo2s&t=93) — Die Regeln sind dieselben wie im ersten Teil: Prototyp-Pflicht, eine Jury aus SPRIND und Forschungsministerium, je Kategorie drei Finalisten, die Reihenfolge im Video zufällig. Für die Medizin stimmt das Publikum bis zum 12. November ab, verliehen wird am 23. November in Berlin, im Livestream auf Breaking Lab. Den Siegern winkt eine mögliche Finanzierung durch SPRIND; Beautemps spricht von *„potenzieller Finanzierung von Millionen von Euro“* [▶ 1:58](https://www.youtube.com/watch?v=Wnqq9NnTo2s&t=118). Wie der Preis gebaut ist und dass Beautemps zugleich Veranstalter und Erklärer ist, steht ausführlicher in der Note zum ersten Teil (→ [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie#Ein Preis, der sein Aber mitbringt|Energie]]).
 
 In der Medizin wiegt das Aber schwerer als bei der Energie. Eine Batterie, die nicht hält, was sie verspricht, kostet Geld. Ein Test, der falsch anschlägt, oder ein Mittel, das im Menschen anders wirkt als in der Maus, kostet mehr. Darum ist das Aber hier mehr als ein Stilmittel: Es ist der Teil des Videos, an dem man ablesen kann, wie weit jede Erfindung noch gehen muss.
 

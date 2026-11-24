@@ -814,6 +814,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Mustafa Suleyman|Mustafa Suleyman]]** — KI-Unternehmer, Mitgründer von DeepMind und Inflection, CEO von Microsoft AI; warnt vor der Welle, die er mitbaut, und vor KI, die wie eine Person erscheint
 
+**[[DenkerVita/Wolodymyr Selenskyj|Wolodymyr Selenskyj]]** — Präsident der Ukraine seit 2019, vorher Komiker und Produzent bei Kwartal 95; führt das Land seit dem russischen Großangriff 2022 und sagt, ein Waffenstillstand an der jetzigen Linie sei schon der große Kompromiss
+
 ## T
 
 **[[DenkerVita/Bernd Tiggemann|Bernd Tiggemann]]** — evangelischer Pfarrer und Journalist, Jahrgang 1970; früherer Kriegsdienstverweigerer und EKD-Kommunikationschef, seit 2025 Militärseelsorger in Wunstorf

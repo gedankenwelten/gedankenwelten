@@ -359,6 +359,11 @@ Beim „Heizungshammer“ hatte die BILD ein Wort erfunden, und Laschyks Volksve
 
 Laschyk macht zweimal dieselbe Bewegung: vom sichtbaren Ärgernis zu dem Geld oder der Macht dahinter, einmal von der Falschmeldung zum Vermögen, einmal vom Rabatt zum Oligopol. Beide Notes kommen zum selben Befund, der Mechanismus trägt, die Zuspitzungen liegen fast alle auf derselben Seite. Auffällig ist der Unterschied bei der Steuer: Dort ist sie das Hauptwerkzeug, hier lobt er die Übergewinnsteuer bei Klesch und lässt sie im Schlussprogramm fallen.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Über den Diesel streiten zwei Präsidenten: Trump nennt den russischen weltwichtig, Selenskyj nennt ihn bedeutungslos und Hormus die eigentliche Ursache. Nach dem Bundeskartellamt sind beide Kriege im Preis, und die Margen der Konzerne, nach denen Laschyk fragt, nennt keiner der beiden.
+
+
 ---
 
 ## Weiterdenken

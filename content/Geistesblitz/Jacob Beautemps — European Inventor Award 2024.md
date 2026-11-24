@@ -246,6 +246,10 @@ Neun Erfindungen, zwei Jahre: drei sind getragen, vier im Werden, eine offen, ei
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wie es ausging|Made in Germany Awards 2026 — Die Verleihung]]
+
+Zwei Jahre nach Valletta verleiht Beautemps seinen eigenen Preis, als Samstagabendshow aus dem Futurium. Hier wählt das Publikum die Sieger und SPRIND die Projekte für das Geld, und nur eines steht auf beiden Listen.
+
 ### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin#Das Aber der Kartusche Genauigkeit, Zulassung, Wärme|Made in Germany Awards 2026 — Medizin]]
 
 Zwei Jahre später steht wieder ein Schnelltest im Finale, diesmal bei Beautemps' eigenem Preis. Die stromlose Kartusche von Intu trifft auf denselben langen Zulassungsweg, an dem Nostics noch steht.

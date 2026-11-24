@@ -258,6 +258,10 @@ Dass das Genie ein Team ist, wusste schon die Wissenschaftssoziologie der 1960er
 
 ## Verbindungen
 
+### → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wohin das Geld geht|Made in Germany Awards 2026 — Die Verleihung]]
+
+Das Publikum wählte das Greifbare, SPRIND gab sein Geld dorthin, wo der Beweis noch aussteht; das Risiko ist nach Laguna die Bedingung, unter der man solche Projekte überhaupt nehmen kann. Dazu Brandenburgs vierzig Namen auf den MP3-Patenten (→ [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Vierzig Namen auf dem Patent|Vierzig Namen auf dem Patent]]).
+
 ### → [[Geistesblitz/Laborfrisch — Wie das CERN ins Zeptoversum schaut|Laborfrisch — Wie das CERN ins Zeptoversum schaut]]
 
 Ein Lehrstück für das Verfahren, das den eigenen Irrtum findet: Die Teilchenphysik bewahrt ihre verschwundenen Hinweise auf, verlangt fünf Sigma für eine Entdeckung und meldet nach zweiundvierzig Jahren einen Befund, der zum Standardmodell passt.

@@ -353,6 +353,11 @@ Creuzbergers Vortrag eröffnete eine Rostocker Ringvorlesung über Vergangenheit
 
 Der Schlussvortrag derselben Ringvorlesung: Creuzberger fragt, wessen Tote das deutsche Gedächtnis kennt, Wüstenberg, was ein Land davon hat, seine Schuld öffentlich auszusprechen. Auch in Südafrika blieb die Wiedergutmachung hinter der Erinnerung zurück.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Was Creuzberger dem deutschen Gedächtnis vorhält, sagt der ukrainische Präsident aus der eigenen Familie: Seine Verwandten wurden von den Nazis ermordet, die Ukraine war ganz besetzt. Er geht dabei weiter als der Historiker und sagt, Russland sei gar nicht besetzt gewesen, was an Krasnodar und am Kaukasus scheitert.
+
+
 ---
 
 ## Weiterdenken

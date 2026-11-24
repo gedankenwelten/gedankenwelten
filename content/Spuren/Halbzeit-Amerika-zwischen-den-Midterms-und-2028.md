@@ -633,6 +633,11 @@ sind.
 
 Die taz-Runde vom 04.11. hält die lahme Ente für die falsche Erwartung: Ein Apparat aus der Heritage-Schule um Stephen Miller regiere weiter, mit Dekreten, die oft erst Monate später vor Gericht fallen. Prüfbar an Dekreten und an den Bestätigungen im Senat.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Im Oktober vermutet Steven Bartlett im Gespräch mit Selenskyj, Trump fürchte vor den Zwischenwahlen die Energiepreise mehr als alles, was in der Ukraine geschieht; die Wahlnacht hat diese Vermutung geprüft.
+
+
 ## Quellen
 
 **Gerichtsakten und Behörden**

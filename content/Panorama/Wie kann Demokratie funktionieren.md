@@ -2,7 +2,7 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-11-20
+aktualisiert: 2026-11-24
 description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -217,6 +217,8 @@ Gibt es ein Kriterium, das nicht davon abhängt, wer regiert? Drei Prüfsteine b
 
 Was „gleiche Maßstäbe“ verlangen, lässt sich prüfen, und die Prüfung fällt ernüchternd aus. Tauscht man in Experimenten nur das politische Etikett, urteilen Menschen beider Lager anders über dieselbe Sache, und zwar fast gleich stark ([Ditto et al. 2019](https://doi.org/10.1177/1745691617746796), Meta-Analyse über 51 Studien, nur USA). Ein anderes Urteil über einen anderen Gegenstand ist allerdings noch kein Doppelstandard ([Baron & Jost 2019](https://doi.org/10.1177/1745691618788876)). Die Ränder ähneln sich in der Denkform (van [Prooijen & Krouwel 2019](https://doi.org/10.1177/0963721418817755)), nicht im Inhalt; was in Deutschland als „linksextrem“ gemessen wird, erfasst überwiegend Menschen ohne extreme Einstellungen ([Jungkunz 2019](https://doi.org/10.1080/09644008.2018.1484906)). Institutionell ist der Verfassungsschutz in Deutschland nie letzte Instanz. Gerichte haben ihn nach rechts korrigiert (*Junge Freiheit*, BVerfG 2005) und nach links (Ramelow, BVerfG 2013), und sie haben ihn ebenso bestätigt (AfD als Verdachtsfall, OVG Münster 2024). Wo es einen solchen Dienst nicht gibt, entscheidet der Minister, und die Gerichte streiten trotzdem, wie beim britischen Verbot von Palestine Action, das der High Court 2026 kippte und der Court of Appeal wiederherstellte. Ob Einstufungen und Verbote wirken, ist kaum erforscht ([Capoccia 2013](https://doi.org/10.1146/annurev-lawsocsci-102612-134020)). Ein Verbot verändert das Parteiensystem auch, wenn es scheitert ([Casal Bértoa & Bourne 2017](https://doi.org/10.1111/1475-6765.12179)), und die Anklage gegen Wilders ließ seine Zustimmung steigen ([van Spanje & de Vreese 2015](https://doi.org/10.1177/1354068812472553)).
 
+Eine Probe aufs Exempel, wie Institutionen im Ausnahmezustand halten, ist die Ukraine. Das Kriegsrechtsgesetz verbietet dort alle Wahlen, die Verfassung lässt den Präsidenten bis zum Amtsantritt seines Nachfolgers im Amt und verbietet unter Kriegsrecht jede Verfassungsänderung ([n-ost/LB.ua, 14.03.2024](https://n-ost.org/article/constitution-put-to-test-during-martial-law)). Die Venedig-Kommission des Europarats hält den Aufschub für gedeckt; im Krieg könne es sogar die Pflicht der Behörden sein, Wahlen zu verschieben ([Venedig-Kommission, CDL-PI(2020)003](https://rm.coe.int/16809e38a6)). Die Forschung zu Nachkriegswahlen rät zur Geduld: Frühe Wahlen erhöhen das Risiko neuer Kämpfe, wenn Demobilisierung und starke Institutionen fehlen ([Brancati & Snyder 2013](https://doi.org/10.1177/0022002712449328), alle Bürgerkriege seit 1945). Was bleibt, ist ein Mandat, das legal ist und doch dünner wird, je länger niemand es erneuern kann.
+
 **Die Stimmen**
 
 - **[[Presseclub — Brandmauer nach links#Zweierlei Maß?|Anke Myrrhe]]:** „Nimm links, setze rechts“: Wer dem Verfassungsschutz bei der Roten Hilfe misstraut, kann sich beim AfD-Verbot nicht auf ihn berufen.
@@ -228,8 +230,9 @@ Was „gleiche Maßstäbe“ verlangen, lässt sich prüfen, und die Prüfung f�
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Westdeutsche Demophobie vs. ostdeutsche Demokratieerfahrung|Philip Manow]]:** Der wehrhafte Demokratiediskurs behandelt den Demos als gefährlichen Gesellen; wer 1989 erlebt hat, dass das Volk etwas ausrichten kann, hört darin etwas anderes.
 - **[[Gesine Schwan — Macht NEU DENKEN#Demokratische Kultur als Fundament — nicht nur Institutionen|Gesine Schwan]]:** Jede institutionelle Vorkehrung lässt sich missbrauchen; es schützt am Ende nur der Geist, in dem man sie hält.
 
-<details><summary>Weitere Stimmen (22)</summary>
+<details><summary>Weitere Stimmen (23)</summary>
 
+- **[[Wolodymyr Selenskyj — Ein Praesident im Krieg#Wahlen im Krieg|Wolodymyr Selenskyj]]:** Auf Trumps Forderung nach einem neuen Präsidenten antwortet er im Gespräch nur mit „Nein“; seit Dezember 2025 sagt er, gewählt werden könne binnen 60 bis 90 Tagen, wenn die Verbündeten die Sicherheit der Wahl garantieren.
 - **[[Ernst Gelegs — Ist das Regime Orbán am Ende#Die Verfassungsfallen — das politische Erbe|Ernst Gelegs]]:** Orbáns Kardinalgesetze und überlappende Amtszeiten machen gegenmehrheitliche Sicherungen zur Fessel für die nächste Regierung.
 - **[[Presseclub — Brandmauer nach links#Zweierlei Maß?|Christine Dankbar]]:** Der Verfassungsschutz ist Maßstab für den Diskurs, nicht für die Entscheidung; die treffen die Parteien.
 - **[[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN#Rechtsextremismus, Populismus, Faschismus — die Definitionen|Matthias Quent]]:** Die Gleichsetzung von Links- und Rechtsextremismus ist sozialwissenschaftlich nicht haltbar; eine übersteigerte Gleichheitsidee ist mit der Demokratie verwandt, eine Ideologie der Ungleichwertigkeit nicht.
@@ -378,6 +381,7 @@ Eine zweite Achse ist das Alter. Ein Mensch, eine Stimme heißt in einer alternd
 | 06.11.2026 | [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Nachbesprechung|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] | Was ein Parteiverbot bewirkt: Teilverbot nach §46 BVerfGG, NPD 2003/2017, Vlaams Blok, Refah, Batasuna (Arenas 2021), Wilders-Anklage (van Spanje & de Vreese 2015) |
 | 11.11.2026 | [[Geistesblitz/Hedwig Richter — Petitionen statt Barrikaden#Macht ein größeres Wahlvolk andere Politik?\|Hedwig Richter — Petitionen statt Barrikaden]] | Wer gehört zum Demos: Ändert ein größeres Wahlvolk die Politik? Frauenwahlrecht und Sozialstaat (Teele 2025, Abrams & Settle), wer draußen bleibt (Carruthers & Wanamaker, Cascio & Washington), Brasiliens Wahlcomputer (Fujiwara), Gegenbefunde (Chapman, Hoffman u. a., Mulligan u. a.), Gewicht der Generationen (Poterba, El-Mafaalani) · Ibrahim |
 | 20.11.2026 | [[Wendy Brown - Wie Neoliberalismus die Demokratie bedroht#Experten statt Volk?\|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]] | Wer soll entscheiden: der vierte Weg, technokratische Einstellungen in neun Demokratien (Bertsou & Caramani 2020) · Brown als Stimme |
+| 24.11.2026 | [[Wolodymyr Selenskyj — Ein Praesident im Krieg#Wahlen im Krieg\|Wolodymyr Selenskyj — Ein Präsident im Krieg]] | Wie schützen Institutionen die Demokratie vor Willkür: Wahlen im Krieg, Kriegsrecht und Verfassung der Ukraine, Venedig-Kommission, Brancati & Snyder 2013 |
 
 ## Verbindungen
 

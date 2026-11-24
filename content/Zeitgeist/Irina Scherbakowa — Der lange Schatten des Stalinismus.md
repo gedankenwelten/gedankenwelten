@@ -511,6 +511,11 @@ Die deutsche Seite der Lücke: Der Historiker Stefan Creuzberger zeigt, dass die
 
 Wüstenberg teilt Scherbakowas Grundsatz und zeigt ihn an Albanien, wo ohne Aufarbeitung die Enkel der kommunistischen Elite wieder an die Macht streben. Sein Südafrika zeigt den anderen Weg, die Aufarbeitung im Übergang selbst, und seine Bilanz, was davon blieb.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Selenskyj nennt Putin „einen durch und durch sowjetischen Menschen“ und die Sowjetunion ein Aquarium, das zerfällt, weil die Fische vergleichen. Scherbakowas Neunziger zeigen, warum das Vergleichen allein nicht reichte, und Selenskyjs Waffenruhe an der jetzigen Linie ist die Probe auf ihren Satz vom aufgezwungenen Quasi-Frieden.
+
+
 ---
 
 ## Weiterdenken

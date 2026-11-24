@@ -362,6 +362,11 @@ Merkel nennt militärische Abschreckung und Diplomatie die zwei Seiten einer Med
 
 Sanyal will verstehen, ohne zu teilen, und warnt: Wer den anderen ein Monster nennt, kommt nicht mehr weiter. Thumann tut das Erste ausdrücklich, er nimmt die russische Begründung Stück für Stück auseinander, weil man sie kennen müsse, um ihr etwas zu entgegnen. Dann gerät er doch in den Ton, den Sanyal meint, mit dem „falsch verhakt im Hirn“ und Trumps „beschränkter Intellektualität“. Im selben Abschnitt berichtet Göpel, Putin habe nach jedem Anruf aus Berlin härter angegriffen, und das stützt Thumanns Satz, mit Freundlichkeit habe man sich nicht herauskaufen können.
 
+### → [[Wolodymyr Selenskyj — Ein Praesident im Krieg|Wolodymyr Selenskyj — Ein Präsident im Krieg]]
+
+Selenskyj teilt Thumanns Blick auf den Antrieb („egal, wer Präsident ist, solange Putin da ist“). Er glaubt aber, vorbeugende Sanktionen hätten den Angriff 2022 verhindert, und widerspricht damit der Folgerung, auf das Verhalten des Westens komme es kaum an.
+
+
 ---
 
 ## Weiterdenken

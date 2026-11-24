@@ -69,14 +69,14 @@
    "aufrufe": 14
   },
   {
-   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-   "leser": 11,
-   "aufrufe": 11
-  },
-  {
    "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
    "leser": 10,
    "aufrufe": 11
+  },
+  {
+   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+   "leser": 10,
+   "aufrufe": 10
   },
   {
    "pfad": "/DenkerVita/Albert-Camus",
@@ -394,11 +394,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Arolsen-Archives-Wie-Rechtsextreme-Geschichte-umdeuten",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
      "leser": 3,
      "aufrufe": 5
@@ -460,6 +455,16 @@
     },
     {
      "pfad": "/Geistesblitz/Mark-Benecke-und-Ines-Azrael-KI-Agenten-4,-Elektrische-Liebe",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Arolsen-Archives-Wie-Rechtsextreme-Geschichte-umdeuten",
      "leser": 3,
      "aufrufe": 3
     },
@@ -574,11 +579,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 2,
      "aufrufe": 2
@@ -679,14 +679,14 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 11,
-     "aufrufe": 11
-    },
-    {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "leser": 10,
      "aufrufe": 11
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 10,
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
@@ -1580,8 +1580,8 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 9,
-     "aufrufe": 9
+     "leser": 8,
+     "aufrufe": 8
     },
     {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
@@ -1804,6 +1804,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Martin-Oetting",
      "leser": 3,
      "aufrufe": 3
@@ -1820,11 +1825,6 @@
     },
     {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Susan-Neiman-Nennen-wir-es-boese",
      "leser": 2,
      "aufrufe": 2
     }

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **24.11.** — [[Zeitgeist/Wolodymyr Selenskyj — Ein Praesident im Krieg|Ein Präsident im Krieg]]
+>
+> Er schläft nicht, er telefoniert nachts mit der Flugabwehr, und nach Butscha wollte er zum ersten Mal einen Menschen töten: Wolodymyr Selenskyj über den Preis, ein Land durch den Krieg zu führen.
+
 > **24.11.** — [[Zeitgeist/Andreas Puettmann — Werte NEU DENKEN|Andreas Püttmann — Werte NEU DENKEN]]
 >
 > Ein Konservativer über das C der CDU als Vorzeichen vor der Klammer, den Rechtsstaat als Luft zum Atmen und die Notwendigkeit einer Militanz der Mitte.
@@ -40,11 +44,55 @@ Die Gedankenwelten (luc)
 >
 > Bevor die Erschöpfung kommt, muss man handeln. Ece Temelkuran hat erlebt, wie die Türkei ihre Demokratie verlor, und erkennt dieselben Schritte nun in den USA, beschleunigt durch Trumps Tempo.
 
-> **22.11.** — [[Zeitgeist/Robert Misik, Antonie Rietzschel, Saskia Esken — Erziehung zur Grausamkeit|Erziehung zur Grausamkeit]]
->
-> Was wird aus einem Menschen, der zehn Jahre lang mit Wut gefüttert wird? Robert Misik beschreibt Lehrjahre der Unbarmherzigkeit, Antonie Rietzschel hält ihr Dorf dagegen.
+> → *26 weitere in* [[Zeitgeist]]
 
-> → *25 weitere in* [[Zeitgeist]]
+### Geistesblitz
+
+> **24.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung|Made in Germany Awards 2026 — Die Verleihung: wohin das Geld geht]]
+>
+> Das Publikum wählte fünf Sieger, die Agentur für Sprunginnovationen drei Projekte für ihr Geld, und nur eines stand auf beiden Listen. Ein Abend gegen die schlechte Laune, und was er über Wagnis verrät.
+
+> **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
+>
+> Die Zellen einer Frau, die 1951 starb, teilen sich bis heute in Laboren der ganzen Welt. Gefragt hat sie niemand. Eine Reise in die Zelle, die bei dieser Schuld beginnt.
+
+> **23.11.** — [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
+>
+> Eine Art kann in einer Generation entstehen und an einem Waldrand wieder verschwinden: Der Botaniker Peter Schönswetter liest die Alpenflora als laufendes Experiment der Evolution.
+
+> **23.11.** — [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
+>
+> Gab es schon Auslese, bevor es Leben gab? Der Chemiker Oliver Trapp sucht Moleküle, die sich selbst verändern, und mit ihnen die Evolution eine Stufe früher, als man sie vermutet.
+
+> **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
+>
+> Zellen, die nicht mehr teilen wollen, eine Schweineniere für 130 Tage, Eizellen aus der Haut eines toten Nashorns: Die Zellforschung lernt eingreifen. Wie weit wollen wir gehen?
+
+> → *3 weitere in* [[Geistesblitz]]
+
+### Panorama
+
+> **24.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **24.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
+> **24.11.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
+>
+> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
+
+> **23.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **23.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> → *14 weitere in* [[Panorama]]
 
 ### Denker
 
@@ -69,54 +117,6 @@ Die Gedankenwelten (luc)
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
 
 > → *2 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 1, Henrietta Lacks und das Feuer des Lebens|ARTE — Unsere Zellen 1: Henrietta Lacks und das Feuer des Lebens]]
->
-> Die Zellen einer Frau, die 1951 starb, teilen sich bis heute in Laboren der ganzen Welt. Gefragt hat sie niemand. Eine Reise in die Zelle, die bei dieser Schuld beginnt.
-
-> **23.11.** — [[Geistesblitz/Peter Schoenswetter — Wie in den Alpen neue Arten entstehen|Peter Schönswetter — Wie in den Alpen neue Arten entstehen]]
->
-> Eine Art kann in einer Generation entstehen und an einem Waldrand wieder verschwinden: Der Botaniker Peter Schönswetter liest die Alpenflora als laufendes Experiment der Evolution.
-
-> **23.11.** — [[Geistesblitz/Oliver Trapp — Chemische Wege zum Ursprung des Lebens|Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
->
-> Gab es schon Auslese, bevor es Leben gab? Der Chemiker Oliver Trapp sucht Moleküle, die sich selbst verändern, und mit ihnen die Evolution eine Stufe früher, als man sie vermutet.
-
-> **23.11.** — [[Geistesblitz/ARTE — Unsere Zellen 2, Altern, Schweineniere und die letzten Nashoerner|ARTE — Unsere Zellen 2: Altern, Schweineniere und die letzten Nashörner]]
->
-> Zellen, die nicht mehr teilen wollen, eine Schweineniere für 130 Tage, Eizellen aus der Haut eines toten Nashorns: Die Zellforschung lernt eingreifen. Wie weit wollen wir gehen?
-
-> **22.11.** — [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
->
-> Je mehr Maschinen arbeiten, desto teurer wird es, die Arbeitslosen ruhig zu halten, und desto billiger erscheint Gewalt. Ein neues Modell von Acemoglu rechnet das durch, mit Daten belegt ist es noch nicht.
-
-> → *2 weitere in* [[Geistesblitz]]
-
-### Panorama
-
-> **23.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **23.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **23.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **23.11.** — [[Panorama/Forschung|Forschung]]
->
-> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
-
-> **23.11.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
->
-> Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
-
-> → *14 weitere in* [[Panorama]]
 
 ### GoodNews
 

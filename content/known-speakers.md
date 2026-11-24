@@ -1562,3 +1562,6 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Oliver Trapp
 **Status:** ✓ Vollanalyse → [[DenkerVita/Oliver Trapp]]
+
+## Wolodymyr Selenskyj
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wolodymyr Selenskyj]]

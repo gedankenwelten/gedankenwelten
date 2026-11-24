@@ -54,6 +54,9 @@ Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Jacob Beautem
 
 Quelle: [Ein neues Material pro Monat: Dieses Labor arbeitet 6000x schneller!](https://www.youtube.com/watch?v=qvyl8H4hQOA) · Breaking Lab, 03.11.2026 · 27 Min. · Teil 3 von 5, nach [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Energie|Energie]] und [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Medizin|Medizin]]
 
+> [!info] Wie es ausging (Verleihung am 23.11.2026)
+> Den Preis der Kategorie gewann **VisiNav** von Timo Henkel, gewählt vom Publikum. Am Ende des Abends bot SPRIND **IRIS** von Dunia einen Validierungsauftrag von bis zu 200.000 Euro an. → [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung#Wohin das Geld geht|Die Verleihung]]
+
 > [!info] Wer spricht?
 > **Jacob Beautemps** — Physiker, promovierter Physikdidaktiker (Uni Köln, 2024) und seit 2018 das Gesicht von **Breaking Lab**. Er hat die **Made in Germany Awards** ins Leben gerufen und richtet sie 2026 erstmals mit der Bundesagentur für Sprunginnovationen (SPRIND) und dem Bundesforschungsministerium (BMFTR) aus; im Video ist er Erklärer und Gastgeber zugleich.
 >
