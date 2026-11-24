@@ -164,11 +164,6 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Ralf-Stockmann",
-   "leser": 6,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
    "leser": 6,
    "aufrufe": 6
@@ -195,6 +190,11 @@
   },
   {
    "pfad": "/DenkerVita/Jan-Keno-Janssen",
+   "leser": 5,
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Ralf-Stockmann",
    "leser": 5,
    "aufrufe": 6
   },
@@ -774,11 +774,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 6,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
      "leser": 6,
      "aufrufe": 6
@@ -805,6 +800,11 @@
     },
     {
      "pfad": "/DenkerVita/Jan-Keno-Janssen",
+     "leser": 5,
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 5,
      "aufrufe": 6
     },
@@ -1659,11 +1659,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
@@ -1675,6 +1670,11 @@
     },
     {
      "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 5,
      "aufrufe": 5
     },

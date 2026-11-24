@@ -7,6 +7,16 @@ raetsel: "Er hat die Geschichte geglaubt, und davon erzählt er."
 
 # Bernhard Seiwald — DenkerVita
 
+![[assets/Bernhard-Seiwald-vita-banner.jpg|Tuschzeichnung mit flachen Farbflächen: Ein Mann beugt sich am Küchentisch über eine Zeitung mit einem Wolf darauf, eine Gitarre lehnt am Tisch; durchs Fenster stehen Menschen auf der Straße um einen Wagen mit Dosen, ein alter Mann hält eine Schale.|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn**, die Temperabilder der Vierziger und Fünfziger: brüchige Tuschlinie, flache Flächen, soziales Mitgefühl ohne Pathos. Seiwalds stärkster Satz im Vortrag ist ein Eingeständnis: Die Geschichten von Gewalt im Superdome habe er selbst geglaubt. Das Bild zeigt darum keine Katastrophe (die steht schon im Banner der Note), sondern einen Liedermacher am Tisch mit der Zeitung, die den Wolf zeigt, während draußen Nachbarn einander helfen.
+
+*Prompt:* Painting in the style of Ben Shahn's 1940s and 1950s tempera works, spidery broken ink line, flat matte gouache planes, slightly awkward elongated figures, wide horizontal banner. Left two thirds: a thin man in shirtsleeves sits alone at a bare wooden kitchen table, head bowed, one hand flat on a large blank grey newspaper sheet that bears only a crude black drawing of a wolf; an acoustic guitar leans against the table leg. Right third: a tall window; outside on a sunlit street, small figures pass a crate of water from hand to hand and an old man is handed a bowl. Palette: warm grey, brick red, ochre, a single clear sky blue in the window. Faces only as simple line sketches. Absolutely no letters, no writing, no headlines, no monogram, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

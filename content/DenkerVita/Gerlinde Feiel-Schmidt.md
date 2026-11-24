@@ -7,6 +7,16 @@ raetsel: "Ins Tal hinunter gesungen, kommt das Lied als Frage zurück."
 
 # Gerlinde Feiel-Schmidt — DenkerVita
 
+![[assets/Gerlinde-Feiel-Schmidt-vita-banner.jpg|Gemälde in flachen Farbflächen mit dunklen Umrissen: Vier Wanderer gehen einen Hügelweg hinauf, eine Frau vorn hebt die Hand zum Tal, unten rote Dächer und ein Kirchturm, dahinter blaue Berge unter gelbem Abendhimmel.|1200]]
+
+<details><summary>🎨</summary>
+
+**Gabriele Münter**, die Murnauer Landschaften des Blauen Reiters: flache, leuchtende Farbflächen mit dunklen Umrissen. Was sich über Feiel-Schmidt belegen lässt, ist eine Philosophie, die man gemeinsam übt, im Vortrag und auf Wanderungen, bei denen ins Tal gesungen wurde. Münter malte das Voralpenland mit derselben Wärme und Einfachheit, und eine Malerin für eine Vortragende lag nahe, ohne dass es der Grund war.
+
+*Prompt:* Painting in the style of Gabriele Münter's Murnau landscapes, Blue Rider expressionism, flat areas of glowing colour framed by dark outlines, simplified forms, wide horizontal banner. A small group of five walkers in simple coats and hats seen from behind and in profile, climbing a winding path up a green hill in the Styrian foothills, one woman at the front turned slightly toward the valley with her hand raised as if singing; below them a wide open valley with a few red-roofed houses, a church tower and a band of blue mountains; above, a pale yellow evening sky with one round cloud. Colours: deep green, ultramarine, ochre, cadmium red accents. Calm, joyful, communal. No faces in detail. No text, no letters, no monogram, no signature.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
