@@ -1,12 +1,12 @@
 {
- "stand": "2026-11-23",
+ "stand": "2026-11-24",
  "tage": 30,
  "zaehlt": "leser-sitzungen",
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 108,
-   "aufrufe": 129
+   "leser": 106,
+   "aufrufe": 127
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -25,8 +25,8 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 40,
-   "aufrufe": 42
+   "leser": 39,
+   "aufrufe": 41
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -60,8 +60,8 @@
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 15,
-   "aufrufe": 15
+   "leser": 14,
+   "aufrufe": 14
   },
   {
    "pfad": "/DenkerVita/Der-Dara",
@@ -72,6 +72,11 @@
    "pfad": "/Denker/Platon-Das-Höhlengleichnis",
    "leser": 12,
    "aufrufe": 12
+  },
+  {
+   "pfad": "/DenkerVita/Albert-Camus",
+   "leser": 10,
+   "aufrufe": 10
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -89,11 +94,6 @@
    "aufrufe": 10
   },
   {
-   "pfad": "/DenkerVita/Albert-Camus",
-   "leser": 9,
-   "aufrufe": 9
-  },
-  {
    "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
    "leser": 8,
    "aufrufe": 11
@@ -105,6 +105,11 @@
   },
   {
    "pfad": "/DenkerVita/Byung-Chul-Han",
+   "leser": 7,
+   "aufrufe": 9
+  },
+  {
+   "pfad": "/DenkerVita/Christian-Bauckhage",
    "leser": 7,
    "aufrufe": 9
   },
@@ -155,11 +160,6 @@
   },
   {
    "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-   "leser": 6,
-   "aufrufe": 8
-  },
-  {
-   "pfad": "/DenkerVita/Christian-Bauckhage",
    "leser": 6,
    "aufrufe": 8
   },
@@ -324,12 +324,12 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 12,
-     "aufrufe": 12
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 11,
+     "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "leser": 11,
      "aufrufe": 11
     },
@@ -374,22 +374,17 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 4,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
      "leser": 4,
      "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Kolja-Moeller",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 4,
      "aufrufe": 4
     },
@@ -409,11 +404,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
-     "leser": 3,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Panorama/Warum-waehlen-Menschen-Autoritaere",
      "leser": 3,
      "aufrufe": 4
@@ -429,12 +419,17 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Hannah-Arendt",
+     "pfad": "/DenkerVita/Albert-Camus",
      "leser": 3,
      "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Jan-Keno-Janssen",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 3,
      "aufrufe": 3
     },
@@ -450,6 +445,11 @@
     },
     {
      "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 3,
      "aufrufe": 3
     },
@@ -494,11 +494,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
      "leser": 2,
      "aufrufe": 2
@@ -520,6 +515,11 @@
     },
     {
      "pfad": "/DenkerVita/Gert-Scobel",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Hannah-Arendt",
      "leser": 2,
      "aufrufe": 2
     },
@@ -604,7 +604,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
+     "pfad": "/Zeitgeist/Morpheus-Whistleblower-mundtot-machen",
      "leser": 2,
      "aufrufe": 2
     }
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 108,
-     "aufrufe": 129
+     "leser": 106,
+     "aufrufe": 127
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -635,8 +635,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 40,
-     "aufrufe": 42
+     "leser": 39,
+     "aufrufe": 41
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -670,8 +670,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 15,
-     "aufrufe": 15
+     "leser": 14,
+     "aufrufe": 14
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -682,6 +682,11 @@
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 12,
      "aufrufe": 12
+    },
+    {
+     "pfad": "/DenkerVita/Albert-Camus",
+     "leser": 10,
+     "aufrufe": 10
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -699,11 +704,6 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 8,
      "aufrufe": 11
@@ -715,6 +715,11 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 7,
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 7,
      "aufrufe": 9
     },
@@ -765,11 +770,6 @@
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 6,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 6,
      "aufrufe": 8
     },
@@ -1014,6 +1014,11 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/DenkerVita/Albert-Camus",
+     "leser": 18,
+     "aufrufe": 19
+    },
+    {
      "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 18,
      "aufrufe": 19
@@ -1022,11 +1027,6 @@
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 17,
      "aufrufe": 19
-    },
-    {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 17,
-     "aufrufe": 18
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -1319,6 +1319,11 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/DenkerVita/Albert-Camus",
+     "leser": 18,
+     "aufrufe": 19
+    },
+    {
      "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 18,
      "aufrufe": 19
@@ -1327,11 +1332,6 @@
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 17,
      "aufrufe": 19
-    },
-    {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 17,
-     "aufrufe": 18
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -1540,8 +1540,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 30,
-     "aufrufe": 30
+     "leser": 29,
+     "aufrufe": 29
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1589,6 +1589,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/DenkerVita/Albert-Camus",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 7,
      "aufrufe": 7
@@ -1624,12 +1629,12 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 6,
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 6,
      "aufrufe": 6
     },
@@ -1670,11 +1675,6 @@
     },
     {
      "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 5,
      "aufrufe": 5
     },
@@ -1754,11 +1754,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Alle-Denker",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Petra-Gehring",
      "leser": 3,
      "aufrufe": 3
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/DenkerVita/Martin-Buber",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Patrick-Legun",
      "leser": 2,
      "aufrufe": 2
     }

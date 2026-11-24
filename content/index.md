@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
 
-> → *26 weitere in* [[Zeitgeist]]
+> → *24 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
 
-> → *3 weitere in* [[Denker]]
+> → *2 weitere in* [[Denker]]
 
 ### Geistesblitz
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Je mehr Maschinen arbeiten, desto teurer wird es, die Arbeitslosen ruhig zu halten, und desto billiger erscheint Gewalt. Ein neues Modell von Acemoglu rechnet das durch, mit Daten belegt ist es noch nicht.
 
-> → *3 weitere in* [[Geistesblitz]]
+> → *2 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
@@ -116,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
 
-> → *16 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### GoodNews
 
