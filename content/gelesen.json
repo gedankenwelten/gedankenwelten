@@ -15,13 +15,13 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 47,
-   "aufrufe": 49
+   "leser": 48,
+   "aufrufe": 50
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 42,
-   "aufrufe": 46
+   "leser": 41,
+   "aufrufe": 45
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
@@ -30,8 +30,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 27,
-   "aufrufe": 28
+   "leser": 28,
+   "aufrufe": 29
   },
   {
    "pfad": "/DenkerVita/Kalayo",
@@ -40,8 +40,8 @@
   },
   {
    "pfad": "/DenkerVita/Hartmut-Rosa",
-   "leser": 22,
-   "aufrufe": 24
+   "leser": 21,
+   "aufrufe": 23
   },
   {
    "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -74,6 +74,11 @@
    "aufrufe": 11
   },
   {
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "leser": 10,
+   "aufrufe": 11
+  },
+  {
    "pfad": "/DenkerVita/Albert-Camus",
    "leser": 10,
    "aufrufe": 10
@@ -82,11 +87,6 @@
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
    "leser": 9,
    "aufrufe": 11
-  },
-  {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-   "leser": 9,
-   "aufrufe": 10
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -174,11 +174,6 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-   "leser": 6,
-   "aufrufe": 6
-  },
-  {
    "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
    "leser": 6,
    "aufrufe": 6
@@ -209,11 +204,6 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-   "leser": 5,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
    "leser": 5,
    "aufrufe": 5
@@ -230,6 +220,11 @@
   },
   {
    "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
    "leser": 5,
    "aufrufe": 5
   },
@@ -289,6 +284,11 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
    "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
    "leser": 4,
    "aufrufe": 4
@@ -310,8 +310,8 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 21,
-     "aufrufe": 21
+     "leser": 22,
+     "aufrufe": 22
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -320,16 +320,16 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 13,
-     "aufrufe": 13
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 11,
-     "aufrufe": 11
+     "leser": 12,
+     "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 12,
+     "aufrufe": 12
+    },
+    {
+     "pfad": "/DenkerVita/Mark-Reicher",
      "leser": 11,
      "aufrufe": 11
     },
@@ -340,8 +340,8 @@
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 9,
-     "aufrufe": 10
+     "leser": 10,
+     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -454,11 +454,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
      "leser": 3,
      "aufrufe": 3
@@ -549,7 +544,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Wir-haben-noch-gar-nichts-gesehen",
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 2,
      "aufrufe": 2
     },
@@ -579,17 +574,17 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 2,
      "aufrufe": 2
     },
     {
      "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Gilda-con-Arne-23-AfD-vorerst-nicht-gesichert-rechtsextrem-and-Iran-Krieg-Update",
      "leser": 2,
      "aufrufe": 2
     },
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Morpheus-Whistleblower-mundtot-machen",
      "leser": 2,
      "aufrufe": 2
     }
@@ -625,13 +625,13 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 47,
-     "aufrufe": 49
+     "leser": 48,
+     "aufrufe": 50
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 42,
-     "aufrufe": 46
+     "leser": 41,
+     "aufrufe": 45
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -640,8 +640,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 27,
-     "aufrufe": 28
+     "leser": 28,
+     "aufrufe": 29
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -650,8 +650,8 @@
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 22,
-     "aufrufe": 24
+     "leser": 21,
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
@@ -684,6 +684,11 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 10,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/DenkerVita/Albert-Camus",
      "leser": 10,
      "aufrufe": 10
@@ -692,11 +697,6 @@
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
      "leser": 9,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 9,
-     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -784,11 +784,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 6,
      "aufrufe": 6
@@ -819,11 +814,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
      "leser": 5,
      "aufrufe": 5
@@ -840,6 +830,11 @@
     },
     {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 5,
      "aufrufe": 5
     },
@@ -899,6 +894,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
      "leser": 4,
      "aufrufe": 4
@@ -935,13 +935,13 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 126,
-     "aufrufe": 149
+     "leser": 127,
+     "aufrufe": 150
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 115,
-     "aufrufe": 123
+     "leser": 116,
+     "aufrufe": 124
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1059,6 +1059,11 @@
      "aufrufe": 15
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 13,
+     "aufrufe": 15
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 13,
      "aufrufe": 15
@@ -1067,11 +1072,6 @@
      "pfad": "/DenkerVita/Udo-Marquardt",
      "leser": 12,
      "aufrufe": 16
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 12,
-     "aufrufe": 14
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
@@ -1240,13 +1240,13 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 126,
-     "aufrufe": 149
+     "leser": 127,
+     "aufrufe": 150
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 115,
-     "aufrufe": 123
+     "leser": 116,
+     "aufrufe": 124
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -1364,6 +1364,11 @@
      "aufrufe": 15
     },
     {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "leser": 13,
+     "aufrufe": 15
+    },
+    {
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 13,
      "aufrufe": 15
@@ -1372,11 +1377,6 @@
      "pfad": "/DenkerVita/Udo-Marquardt",
      "leser": 12,
      "aufrufe": 16
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 12,
-     "aufrufe": 14
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 40,
-     "aufrufe": 40
+     "leser": 41,
+     "aufrufe": 41
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1555,8 +1555,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 22,
-     "aufrufe": 22
+     "leser": 23,
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1565,8 +1565,8 @@
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
-     "leser": 18,
-     "aufrufe": 18
+     "leser": 17,
+     "aufrufe": 17
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -1664,11 +1664,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Anke-Myrrhe",
      "leser": 5,
      "aufrufe": 5
@@ -1680,6 +1675,11 @@
     },
     {
      "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 5,
      "aufrufe": 5
     },

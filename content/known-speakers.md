@@ -977,6 +977,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Rutger Bregman
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rutger Bregman]]
 
+## Gerlinde Feiel-Schmidt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Gerlinde Feiel-Schmidt]]
+
+## Bernhard Seiwald
+**Status:** ✓ Vollanalyse → [[DenkerVita/Bernhard Seiwald]]
+
 ## Hans Maggi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Hans Maggi]]
 

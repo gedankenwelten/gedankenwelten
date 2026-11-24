@@ -246,6 +246,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## F
 
+**[[DenkerVita/Gerlinde Feiel-Schmidt|Gerlinde Feiel-Schmidt]]** — Vortragende der Neuen Akropolis Wien (Treffpunkt Philosophie), Physiotherapeutin und Osteopathin; Menschenbild, Aristoteles, Glück als Übung
+
 **[[DenkerVita/Mathias Fischer|Mathias Fischer]]** — Informatiker, Professor für Rechnernetze (Uni Hamburg); Angriffserkennung und Sicherheit kritischer Infrastrukturen, Verteidigung in der Tiefe statt Burggraben
 
 **[[DenkerVita/Michael Fleming|Michael Fleming]]** — Historiker (Polish University Abroad, London); die Nachrichten über Auschwitz kamen früh in London an, gebremst wurden sie dort, durch eine Zensur, die niemand befehlen musste
@@ -741,6 +743,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Rainer Rothfuss|Rainer Rothfuß]]** — Politische Geographie, AfD-Bundestagsabgeordneter, der Weltpolitik als Ringen um Eurasien liest und für einen Ausgleich mit Russland wirbt
 
 ## S
+
+**[[DenkerVita/Bernhard Seiwald|Bernhard Seiwald]]** — Vortragender der Neuen Akropolis Wien (Treffpunkt Philosophie), Seminar zum Songschreiben; Katastrophenforschung, Kooperation, ein Menschenbild, das man sich erarbeitet
 
 **[[DenkerVita/Peter Schoenswetter|Peter Schönswetter]]** — Botanik/Evolutionsbiologie, liest aus dem Erbgut der Alpenpflanzen, wie Eiszeiten, Polyploidie und Hybridisierung dort Arten schaffen und zerstören.
 **[[DenkerVita/Miriam Steimer|Miriam Steimer]]** — Fernsehjournalistin, seit 2022 Leiterin des ZDF-Studios Ostasien in Peking (Nachfolge Ulf Röller); liest Chinas Machtpolitik über Protokoll und Gesten und sagt offen, wie wenig Korrespondenten dort wissen

@@ -38,10 +38,11 @@ aliases:
 > [!abstract] Worum es geht
 > Wenn die Flut kommt, plündern Menschen meist nicht, sie helfen einander. Gerlinde Feiel-Schmidt und Bernhard Seiwald stellen in diesem Vortrag der Neuen Akropolis eine Hypothese auf: Der Mensch ist von Natur aus solidarisch, Neid, Habgier und Konkurrenz hat er gelernt. Sie erzählen, wie das Gegenbild vom rationalen Egoisten entstand, von Descartes bis Friedman, und halten Katastrophenforschung, Biologie und Kinderstudien dagegen. Vieles davon trägt. Manches ist zugespitzt, und das bekannteste Babyexperiment hat sich in einer großen Wiederholung nicht bestätigt (→ [[#Faktencheck|Faktencheck]]).
 
-Quelle: [Der Mensch ist besser als sein Ruf. (Kooperation statt Konkurrenz)](https://www.youtube.com/watch?v=q6NgchdDIbQ) (Neue Akropolis – Schule der Philosophie, hochgeladen am 12.07.2020, 42 Min.; aufgezeichnet vermutlich 2019). Grundlage ist laut Videobeschreibung Andreas von Westphalens Buch *Die Wiederentdeckung des Menschen* (Westend 2019), dazu eine Vortragsreihe des Philosophen Christoph Quarch.
+Quelle: [Der Mensch ist besser als sein Ruf. (Kooperation statt Konkurrenz)](https://www.youtube.com/watch?v=q6NgchdDIbQ) (Neue Akropolis – Schule der Philosophie, hochgeladen am 12.07.2020, 42 Min.; gehalten als Online-Vortrag am 7. Mai 2020, [Ankündigung](https://www.neueakropolis.at/philosophie-veranstaltungen/online-vortrag-der-mensch-ist-besser-als-sein-ruf-903)). Grundlage ist laut Videobeschreibung Andreas von Westphalens Buch *Die Wiederentdeckung des Menschen* (Westend 2019), dazu eine Vortragsreihe des Philosophen Christoph Quarch.
 
 > [!info] Wer spricht?
 > Zwei Vortragende der Neuen Akropolis teilen sich den Abend: **Gerlinde Feiel-Schmidt** spricht die philosophische Hälfte, Hypothese, Geschichte des Menschenbilds, Aristoteles, Buddhismus und Gita, und den Schluss. **Bernhard Seiwald** spricht die empirische, Katastrophenforschung, Katrina, Biologie, Darwin, Kinderstudien und Einsamkeit, und den Aufruf am Ende. Getrennt haben wir die Stimmen nach Stimmlage und Standbild.
+> → [[DenkerVita/Gerlinde Feiel-Schmidt|DenkerVita Feiel-Schmidt]] · [[DenkerVita/Bernhard Seiwald|DenkerVita Seiwald]]
 >
 > **Zur Quelle:** Die Neue Akropolis wurde 1957 in Buenos Aires von Jorge Ángel Livraga Rizzi gegründet, der aus dem Umfeld der Theosophischen Gesellschaft kam. Sie versteht sich als Schule der Philosophie „in klassischer Tradition“ und verbindet Philosophie mit Kultur- und Freiwilligenarbeit ([Selbstdarstellung](https://www.acropolis.org/de/geschichte/)). Die Untersuchungskommissionen zu Sekten des französischen ([1995](https://www.assemblee-nationale.fr/rap-enq/r2468.asp)) und des belgischen Parlaments ([1997](https://www.lachambre.be/FLWB/pdf/49/0313/49K0313007.pdf)) führten sie unter den Gruppen, mit denen sie sich befassten; die belgische warnte ausdrücklich davor, Gefährliches mit bloß Ungewöhnlichem zu vermengen. Die Organisation [weist die Bezeichnung als Sekte zurück](https://www.neueakropolis.de/ueber-uns/generelle-fragen-und-kritik/). Für diese Note zählt, was im Vortrag gesagt wird, und das prüft der Faktencheck.
 
@@ -63,7 +64,7 @@ Seiwald unterscheidet zwei Schichten [▶ 5:21](https://www.youtube.com/watch?v=
 1. Wie **ist** der Mensch wirklich?
 2. Wie **sehen** wir uns gegenseitig, und was wird uns **eingeredet**?
 
-Fallen beide auseinander, ist das für ihn „eine Quelle konstanten Unrechts“. Bevor die Hypothese kommt, bittet Feiel-Schmidt das Publikum um zwei Minuten, allein oder im Gespräch mit dem Nachbarn: Glaube ich, dass der Mensch eher egoistisch ist oder eher altruistisch?
+Fallen beide auseinander, ist das für ihn „eine Quelle konstanten Unrechts“. Bevor die Hypothese kommt, bittet Feiel-Schmidt das Publikum um zwei Minuten, jeder für sich, und wer mit anderen im Raum sitzt, gern im Gespräch: Glaube ich, dass der Mensch eher egoistisch ist oder eher altruistisch?
 
 ---
 
@@ -122,7 +123,7 @@ Das Bild stammt nach ihr aus einem kleinen Teil Europas, Niederlande, Frankreich
 
 [▶ 15:26](https://www.youtube.com/watch?v=q6NgchdDIbQ&t=926)
 
-Adam Smith hat es nach Feiel-Schmidt 1776 formuliert, im *Wohlstand der Nationen*: Geht der Mensch seinen Bedürfnissen eigennützig nach, stellen sich durch das freie Wirtschaften Wohlstand und Harmonie in der Gesellschaft ein. Seit den achtziger Jahren trägt der Neoliberalismus dieses Versprechen weiter. Für Feiel-Schmidt hat es sich nicht erfüllt: Der Wohlstand ist ungleich verteilt, die Kluft zwischen Arm und Reich wächst nach jeder Krise, und die Klimakrise hat mit der industriellen Revolution begonnen. „Das Menschenbild des Homo oeconomicus hat eigentlich sein Versprechen nicht eingehalten.“
+Adam Smith hat es nach Feiel-Schmidt 1776 formuliert, im *Wohlstand der Nationen*: Geht der Mensch seinen Bedürfnissen eigennützig nach, stellen sich durch das freie Wirtschaften Wohlstand und Harmonie in der Gesellschaft ein. Seit den achtziger Jahren trägt der Neoliberalismus dieses Versprechen weiter. Für Feiel-Schmidt hat es sich nicht erfüllt: Der Wohlstand ist ungleich verteilt, die Kluft zwischen Arm und Reich wächst nach jeder Krise, auch nach der, die man im Mai 2020 „jetzt gerade“ durchmacht, und die Klimakrise hat mit der industriellen Revolution begonnen. „Das Menschenbild des Homo oeconomicus hat eigentlich sein Versprechen nicht eingehalten.“
 
 > [!question] Weitergedacht
 > Der Vortrag erzählt Hobbes ohne den Gott, Smith ohne seine *Theorie der ethischen Gefühle* und Friedman ohne seine Gegenfrage. *Verkürzt eine Gegenerzählung ihre Gegner nicht genauso, wie sie es dem Bild vom Egoisten vorwirft?*
