@@ -166,7 +166,7 @@ Henze arbeitet an dem, was nach Bonhoeffer mit Bonhoeffer geschah. Er verfolgt, 
 
 ### → [[DenkerVita/Andreas Puettmann|Andreas Püttmann]]
 
-Das katholische Gegenstück zu Henze und dieselbe Bewegung: Kritik an der eigenen Kirche, von innen und mit Zahlen. Püttmann typologisiert, was der Neuen Rechten gegenüber der Religion gelingt — keine Unterdrückung, sondern Unterwanderung, das Kapern der Zeichen statt ihres Verbots. Seine Verwunderung über die „politische Dummheit bestimmter Teile des Großbürgertums" trifft dabei genau Bonhoeffers Herkunft: Der Vater war Ordinarius an der Charité, das Haus national gesinnt und gebildet, und es war eben diese Schicht, die 1933 das Urteil abgab, das Bonhoeffer neun Jahre später zu beschreiben versuchte.
+Das katholische Gegenstück zu Henze und dieselbe Bewegung: Kritik an der eigenen Kirche, von innen und mit Zahlen. Püttmann typologisiert, was der Neuen Rechten gegenüber der Religion gelingt — keine Unterdrückung, sondern Unterwanderung, das Kapern der Zeichen statt ihres Verbots. Bonhoeffer nennt er im Gespräch nicht, sein Beispiel ist die MAGA-Bewegung; die Brücke zu Bonhoeffer schlägt Henze.
 
 ### → [[DenkerVita/Wolfgang Huber|Wolfgang Huber]]
 

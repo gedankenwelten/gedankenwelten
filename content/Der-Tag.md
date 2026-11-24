@@ -38,6 +38,7 @@ Am 24. November 1859 erschien Charles Darwins Buch über die Entstehung der Arte
 - [[Peter Schoenswetter — Wie in den Alpen neue Arten entstehen]]
 - [[Oliver Trapp — Chemische Wege zum Ursprung des Lebens]]
 - [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]] — was die Evolution in uns angelegt hat, und warum es zur Welt von heute nicht immer passt
+- [[Neue Akropolis — Der Mensch ist besser als sein Ruf]] — Darwins Hoffnung, die Sympathie könne bis zur ganzen Menschheit reichen, und was Krisenforschung und Kinderstudien davon tragen
 - [[Teja Tscharntke — Das grosse Artensterben]] — die Gegenrichtung: wie schnell die Vielfalt auf unseren Feldern schwindet
 
 ## 2026-11-20 · Transgender Day of Remembrance

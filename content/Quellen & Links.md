@@ -3744,7 +3744,8 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 | | |
 |---|---|
-| **Vortrag / Video** | [Der Mensch ist besser als sein Ruf — Neue Akropolis](https://www.youtube.com/watch?v=q6NgchdDIbQ) |
+| **Vortrag / Video** | [Der Mensch ist besser als sein Ruf — Gerlinde Feiel-Schmidt und Bernhard Seiwald, Neue Akropolis](https://www.youtube.com/watch?v=q6NgchdDIbQ) (12.07.2020) |
+| **Grundlage** | Andreas von Westphalen: *Die Wiederentdeckung des Menschen* (Westend 2019) · Christoph Quarch: *Mensch! Wer wir sind und was uns rettet* |
 | **Notiz** | [[Denker/Neue Akropolis — Der Mensch ist besser als sein Ruf]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Mensch_Kooperation_Konkurrenz_Transkript.txt` |
 

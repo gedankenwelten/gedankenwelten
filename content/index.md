@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **24.11.** — [[Zeitgeist/Andreas Puettmann — Werte NEU DENKEN|Andreas Püttmann — Werte NEU DENKEN]]
+>
+> Ein Konservativer über das C der CDU als Vorzeichen vor der Klammer, den Rechtsstaat als Luft zum Atmen und die Notwendigkeit einer Militanz der Mitte.
+
 > **23.11.** — [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa|Was Putin von Europa will — Michael Thumann aus Moskau]]
 >
 > Moskau will eine neue Sicherheitsordnung für Europa, die alte hat es selbst unterschrieben. Ein Korrespondent sucht den Grund in Russland, nicht im Westen. Wie weit trägt das?
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Was wird aus einem Menschen, der zehn Jahre lang mit Wut gefüttert wird? Robert Misik beschreibt Lehrjahre der Unbarmherzigkeit, Antonie Rietzschel hält ihr Dorf dagegen.
 
-> **22.11.** — [[Zeitgeist/Thomas Laschyk — Wer den Spritpreis macht|Wer den Spritpreis macht]]
->
-> Der Tankrabatt tut, was er soll, und genau darin liegt der Fehler: Thomas Laschyk sucht hinter dem Streit um ein paar Cent den Markt, der die Preise macht.
-
-> → *24 weitere in* [[Zeitgeist]]
+> → *25 weitere in* [[Zeitgeist]]
 
 ### Denker
 

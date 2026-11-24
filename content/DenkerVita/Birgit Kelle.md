@@ -91,7 +91,7 @@ Kelle beschreibt sich selbst mit Ironie: „langjährig leidendes CDU-Mitglied u
 ## Verbindungen zu anderen Denkern
 
 - [[DenkerVita/Barbie Breakout|Barbie Breakout]] — Die Gegenstimme im selben Film und beim selben Thema: Kelle fragt, warum Drag Queens in Grundschulen vorlesen müssen, Barbie Breakout ärgert der Vorwurf der Sexualisierung „maßlos“. Den Pride Month sehen beide kritisch, Kelle als Ausdehnung zum „Pride Year“, Barbie Breakout als Pinkwashing von Firmen, die die Community das übrige Jahr allein lassen.
-- [[DenkerVita/Andreas Puettmann|Andreas Püttmann]] — Er kommt aus demselben christlich-konservativen Milieu und zieht vom christlichen Menschenbild aus eine scharfe Grenze nach rechts: Rechtspopulismus sei mit dem Christentum unvereinbar. An ihm lässt sich prüfen, was aus dem gemeinsamen Ausgangspunkt folgt.
+- [[DenkerVita/Andreas Puettmann|Andreas Püttmann]] — Er kommt aus demselben christlich-konservativen Milieu und zieht vom christlichen Menschenbild aus eine scharfe Grenze nach rechts: die Signatur des Rechtspopulismus sei eine „Antithese" zu den Früchten des Christentums. An ihm lässt sich prüfen, was aus dem gemeinsamen Ausgangspunkt folgt.
 - [[DenkerVita/Roger de Weck|Roger de Weck]] — De Weck trennt konservativ von reaktionär und nennt Angela Merkel eine aufgeklärte Konservative, die trotzdem gegen die Ehe für alle stimmte; gegen die Ehe für alle zu sein, schließt bei ihm Aufgeklärtheit also nicht aus. Zugleich rät er den Konservativen, einen Kulturkampf aufzugeben, wie Kelle ihn gegen die Gender-Politik führt.
 - [[DenkerVita/Georgine Kellermann|Georgine Kellermann]] — Beide nennen sich konservativ und berufen sich auf eine christliche Prägung. In der Geschlechterfrage ziehen sie daraus entgegengesetzte Schlüsse.
 

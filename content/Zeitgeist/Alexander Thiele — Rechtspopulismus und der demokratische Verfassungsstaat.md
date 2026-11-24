@@ -359,7 +359,7 @@ Die Abhilfen ziehen auseinander. Thiele setzt auf Erzählung und Institution —
 
 ### → [[Andreas Puettmann — Werte NEU DENKEN]]
 
-Dieselbe Diagnose, die umgekehrte Therapie. Püttmann und Thiele sind sich einig, dass die AfD den Verfassungsstaat bekämpft — Thiele hält das Abarbeiten an ihr für kontraproduktiv und setzt auf Leistungsfähigkeit, Püttmann verlangt genau dieses Gegenhalten als „primär nicht-neutrale Positionierung um der Neutralisierung willen".
+Dieselbe Diagnose, ein anderer Schwerpunkt. Püttmann und Thiele sind sich einig, dass die AfD den Verfassungsstaat bekämpft. Thiele legt das Gewicht auf die Defizite, die sie groß gemacht haben, und auf Leistungsfähigkeit; Püttmann verlangt das Gegenhalten der Mitte als „primär nicht-neutrale Positionierung um der Neutralisierung willen".
 
 ### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
 
