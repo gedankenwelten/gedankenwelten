@@ -345,6 +345,10 @@ Marks' Gratwanderung, von den Verurteilten selbst nachgeprüft: Eine Frau hasst 
 
 Am taz-Abend über Misiks *Erziehung zur Grausamkeit* vertritt die Reporterin Antonie Rietzschel Marks' Position aus der Praxis: Wer vor Ort von Faschisten redet, kommt nicht mehr ins Gespräch. Misik trennt dagegen den Analytiker, der das Wort brauchen muss, vom Politiker, der es lassen sollte.
 
+### → [[Christina Clemm — Gegen Frauenhass#Die Spirale|Christina Clemm — Gegen Frauenhass]]
+
+Die Anwältin zeigt, wie Täter die Schande nutzen, die sich an die Opfer heftet, und verlangt für die Täter selbst einen Ort, an dem sie zugeben können, was sie getan haben.
+
 ---
 
 ## Weiterdenken

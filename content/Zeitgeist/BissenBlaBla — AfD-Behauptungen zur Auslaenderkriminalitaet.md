@@ -361,6 +361,10 @@ Merz’ Satz, ein „beachtlicher Teil“ der Gewalt gegen Frauen komme von Zuwa
 ### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 Der Kriminologe, auf dessen Gutachten sich das Video stützt, im Freiburger Vortrag selbst. Er lässt einen Rest stehen, den das Video wegerklärt: Alter und Geschlecht erklären nur 25 bis 30 Prozent des Abstands, und patriarchale Prägung „sollte man nicht leugnen“.
 
+### → [[ZDF — Weil du mir gehoerst#Herkunft der Täter, was die 36,5 Prozent sagen|ZDF — Weil du mir gehörst]]
+
+Bei Partnerinnentötungen fehlt der richtigen Zahl über die Täter meist ein Zusammenhang: 39,3 Prozent der Opfer waren selbst nichtdeutsch.
+
 ---
 
 ## Weiterdenken

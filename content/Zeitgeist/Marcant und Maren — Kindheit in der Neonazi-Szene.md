@@ -324,6 +324,10 @@ Die Frage des Panoramas ist bei Maren keine Theorie. Ihr Bruder durfte mit vierz
 
 Marcant arbeitet mit Peinlichkeit, und Maren hat sie als Kind selbst entdeckt: Mit einer Freundin redete sie absichtlich übertrieben deutsch, um sich über den „Klapprechner“ des Stiefvaters lustig zu machen, und drehte Deutschrap gegen das Lagerfeuer auf. Felix kam über Freunde und TikTok hinein; Marens Schwester bekam ihr Handy erst mit vierzehn, nach Marens Deutung, damit sie sich keine andere Meinung bilden kann.
 
+### → [[Christina Clemm — Gegen Frauenhass#Publikumsfragen|Christina Clemm — Gegen Frauenhass]]
+
+Die Anwältin fordert, Kinder zu erziehen statt Jungen und Mädchen, und setzt wie Marens Geschichte auf das Umfeld, das bleibt.
+
 ---
 
 ## Weiterdenken

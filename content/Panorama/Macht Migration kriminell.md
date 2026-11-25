@@ -2,7 +2,7 @@
 title: "Macht Migration kriminell?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-11-16
+aktualisiert: 2026-11-25
 description: "Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird."
 raetsel: "Zwei Jungen, eine Straße, ein Laternenlicht. Nur einer wird gefragt, wohin."
 panorama-art: wachsend
@@ -54,6 +54,8 @@ Was ist dann Kultur? Als Wesen einer Herkunft trägt sie nicht: In Stockholmer K
 
 Die Antwort hängt auch am Delikt. Bei Eigentums- und Drogendelikten wirkt vor allem die Lage, wie die Studien aus Großbritannien und den deutschen Kreisen oben zeigen; bei sexueller Gewalt wiegen Prägung und erlernte Normen schwerer, auch wenn die Lage mitspielt: Junge Männer ohne Familie und ohne sichere Zukunft tragen ein höheres Risiko, weshalb Pfeiffer, Baier und Kliem den Familiennachzug als Vorbeugung empfahlen. Dass Normen mitreisen, zeigen Befragungen: Migrantinnen der ersten und zweiten Generation aus Ländern mit mehr Gleichstellung werden in Europa seltener Opfer von Partnergewalt ([González & Rodríguez-Planas 2020](https://doi.org/10.1016/j.jebo.2020.07.024)), und die Rollenbilder der zweiten Generation folgen der Gleichstellung im Land der Eltern, bei Söhnen stärker als bei Töchtern ([Gevrek & Seiberlich 2025](https://doi.org/10.1080/00036846.2025.2550665)). Dass sie sich wandeln, auch: In Schweden rücken die Einstellungen von Jugendlichen mit Migrationsgeschichte über die Jahre an die ihrer Altersgenossen heran ([la Roi & Mood 2022](https://doi.org/10.1080/1369183x.2022.2140131)), außer dort, wo Benachteiligung die Angleichung blockiert ([Wimmer & Soehl 2014](https://doi.org/10.1086/677207)).
 
+Bei Tötungen in Partnerschaften zeigt die Zahl in zwei Richtungen. 2024 waren 41,6 Prozent der Tatverdächtigen nichtdeutsch, aber auch 39,3 Prozent der Opfer, bei einem Anteil von 13,6 Prozent an den Frauen im Land ([BKA 2025](https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/StraftatenGegenFrauen/StraftatengegenFrauenBLB2024.pdf?__blob=publicationFile), Lagebild); die Gefahr trifft in hohem Maß eingewanderte Frauen. Eine Aktenstudie findet beides zugleich: patriarchale Rollenbilder, die nach einer gemeinsamen Migration „als Katalysator“ wirkten, wenn die Frauen sich zu emanzipieren begannen, und die Lage, denn unter den Tätern nach einer Trennung waren 44,9 Prozent arbeitslos; etwa die Hälfte aller Täter hatte gar keine Migrationsgeschichte ([Rebmann u. a. 2025](https://kfn.de/wp-content/uploads/2025/11/Femizide-in-Deutschland_Forschungskurzbericht.pdf), Aktenstudie). In Norwegen blieben nach Kontrolle der übrigen Unterschiede „very few differences“ zwischen eingewanderten und einheimischen Tätern ([Vatnar u. a. 2017](https://doi.org/10.1080/14043858.2017.1394629), alle Fälle 1990–2012).
+
 **Die Stimmen**
 
 - **[[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Der Abstand ist echt|BissenBlaBla]]:** Der Abstand ist echt, aber „nicht der Pass entscheidet, sondern die Postleitzahl“; zwei junge Männer in derselben Straße, und von der „Kulturnummer“ bleibe nichts.
@@ -62,6 +64,8 @@ Die Antwort hängt auch am Delikt. Bei Eigentums- und Drogendelikten wirkt vor a
 - **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 3 Jerk of all Weeks — Friedrich Merz|Gilda Sahebi]]:** Wer bei einem deutschen Täter auf Zuwanderer zeigt, dem ist der Schutz von Frauen gleichgültig.
 - **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Politische Instrumentalisierung als Flucht vor Ursachen|Staiy]]:** „Der Täter war Ausländer, also: Ausländer raus“ erspart den Blick auf psychiatrische Unterversorgung und gescheiterte Integration.
 - **[[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Die zweite Generation Lage, Herkunft und der Respekt auf der Straße|Christian Walburg]]:** Patriarchale Prägungen „sollte man nicht leugnen“, aber auch nicht einseitig aus der Herkunft erklären; Härte ist die Ressource dessen, der sonst nichts hat, bei Einheimischen wie bei Migranten.
+- **[[ZDF — Weil du mir gehoerst#Ein Jahr, 104 Akten|Jochen Breyer]]:** 36,5 Prozent der Täter in seiner Zählung von 2024 ohne deutschen Pass, „überdurchschnittlich viele“, und Täter aus allen Schichten, vom Arbeitslosen bis zum Konzernmanager.
+- **[[Christina Clemm — Gegen Frauenhass#Die Spirale|Christina Clemm]]:** Wer eine Frau hat, die kaum Deutsch spricht und fern ihrer Familie lebt, setzt darauf, dass sie wenig Hilfe findet; Abhängigkeit als Werkzeug des Täters.
 
 > [!question] Die Reibung
 > Zeigen findet die Ursache vollständig in der Lage, und Merz zeigt auf die Herkunft. Die schwedischen Registerdaten lassen nach allen Kontrollen einen Rest stehen. *Ist dieser Rest Kultur, Trauma, oder einfach das, was die Kontrollen nicht messen?*
@@ -152,6 +156,7 @@ Der Hass, der aus solchen Verkürzungen wächst, trifft fast immer die Falschen:
 | 17.10.2026 | [[Constanze Kurz — Palantir als Tueroeffner#Wen trifft sie?|Constanze Kurz — Palantir als Türöffner]] | Rückkopplung aus Daten und Kontrolle → *Wie viel ist Anzeige, wie viel Tat?*: Lum & Isaac 2016, Ensign et al. 2018, Knox/Lowe/Mummolo 2020, Brantingham et al. 2018 |
 | 18.10.2026 | [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Verrohen wir, oder zählen wir nur genauer?|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] | *Wie viel ist Anzeige, wie viel Tat?* über Migration hinaus: SKiD-Anzeigequote 2020/2024, KFN FB 171 (Anzeigeverhalten 2022–24, langer Rückgang), Eisner 2003, Schwerhoff et al. 2021, Thome 2001 (U-Kurve) |
 | 16.11.2026 | [[Zeitgeist/Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon#Wo das Gespräch kippt|Levit, Hassoun, Volkmann — Reden wir noch oder canceln wir schon?]] | Stimmen in *Wird verschwiegen?*: Volkmann als erste Stimme der Seite, die ein Schweigen beklagt (das Etikett „rechts“, nicht verschwiegene Zahlen), Hassoun als Gegenstimme am selben Tisch; keine neue Forschung |
+| 25.11.2026 | [[ZDF — Weil du mir gehoerst#Herkunft der Täter, was die 36,5 Prozent sagen\|ZDF — Weil du mir gehörst]] | Kultur oder Lage? bei Partnertötungen: Täter 41,6 / Opfer 39,3 % nichtdeutsch (BKA 2025), Aktenstudie Rebmann u. a. 2025, Ehrenmorde (Oberwittler & Kasselt 2011), Norwegen (Vatnar u. a. 2017), Spanien 2024, § 31 AufenthG, Merz-Stadtbild und Brief „Wir sind die Töchter“; Tagesnote 25.11. |
 
 ---
 

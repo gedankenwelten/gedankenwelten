@@ -2,7 +2,7 @@
 title: "Wie viel Überwachung verträgt die Freiheit?"
 date: 2026-10-17
 erstellt: 2026-10-17
-aktualisiert: 2026-11-21
+aktualisiert: 2026-11-25
 description: "Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert."
 raetsel: "Niemand sieht zu. Und doch zieht jeder die Vorhänge."
 panorama-art: wachsend
@@ -52,6 +52,8 @@ Für die deutschen Plattformen, die vorhandene Akten verknüpfen — hessenDATA,
 
 Für eine Klarnamenpflicht im Netz gibt es ein natürliches Experiment: Südkorea verlangte sie von 2007 an auf großen Seiten, 2012 kippte das Verfassungsgericht das Gesetz, weil die rechtswidrigen Beiträge nicht messbar zurückgegangen waren, während ein Hack die Daten von zwei Dritteln der Bevölkerung offenlegte ([Korea Times, 23.08.2012](https://www.koreatimes.co.kr/southkorea/20120823/real-name-policy-online-ruled-unconstitutional)). Bei politischen Kommentaren nahmen die Beleidigungen eher zu ([Cho & Kwon 2015](https://doi.org/10.1016/j.chb.2015.04.046), Beobachtungsstudie). Umgekehrt kann zu wenig Speicherung die Verteidigung blind machen: Angreifer bleiben im Mittel 14 Tage unentdeckt in einem Netz, länger als die sieben Tage, die ein Universitätssensor Verkehrsdaten speichern darf ([Mandiant M-Trends 2026](https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2026/); [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Klarnamen und Speicherfristen|Nachbesprechung]]).
 
+Am Schutz vor Gewalt in Partnerschaften lässt sich die Frage nach der Wirkung so genau stellen wie selten. Am besten belegt ist dort das mildeste Mittel: Wer Menschen mit einer Schutzanordnung den Waffenbesitz verbietet und die Abgabe verlangt, verzeichnet in den US-Bundesstaaten rund zehn Prozent weniger Partnertötungen ([Zeoli u. a. 2018](https://doi.org/10.1093/aje/kwy174), Paneldaten). Die elektronische Fußfessel wirkt auf Rückfälle insgesamt günstig, aber uneinheitlich ([Belur u. a. 2020](https://doi.org/10.1016/j.jcrimjus.2020.101686), systematische Übersicht mit Meta-Analyse); dass in Spanien keine Frau getötet wurde, deren Täter ein Gerät trug, ist eine Angabe des Ministeriums, unabhängig geprüft ist sie nicht. Und wer überhaupt überwacht wird, entscheiden Gefahreneinschätzungen, die nur mäßig vorhersagen und nicht besser sind als das Urteil der betroffenen Frauen ([van der Put u. a. 2019](https://doi.org/10.1016/j.avb.2019.03.008), Meta-Analyse). In Deutschland gelten die Regeln zur Fußfessel nach dem Gewaltschutzgesetz ab dem 1. Juli 2027; das Deutsche Institut für Menschenrechte und der Juristinnenbund halten das Modell, in dem meist nur der Täter ein Gerät trägt, für weniger geeignet als das spanische.
+
 **Die Stimmen**
 
 - **[[Constanze Kurz — Palantir als Tueroeffner#Echte Bürgerdaten als Trainingsmaterial|Constanze Kurz]]:** Unverhältnismäßig, unkontrollierbar, riskant; es ist „eine dauerhafte Zusammenführung, die aus gutem Grund immer verboten war", und statt Evaluation gibt es fiktive Fälle.
@@ -62,6 +64,9 @@ Für eine Klarnamenpflicht im Netz gibt es ein natürliches Experiment: Südkore
 - **[[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Publikumsfragen|Mathias Fischer]]:** Eine Klarnamenpflicht verlangte eine Identifizierungsinfrastruktur, in falschen Händen „der feuchte Albtraum der Stasi“; bremsen tut der Datenschutz woanders, bei sieben Tagen Speicherfrist, in denen sich ein monatelanger Angriff nicht rekonstruieren lässt.
 - **[[Innenausschuss — Reform des Nachrichtendienstrechts#Wer beobachtet wird|Hans-Georg Maaßen]]:** Der frühere Präsident des Verfassungsschutzes sagt, keiner der Anschläge der letzten Jahre wäre mit den neuen Befugnissen verhindert worden, „fachliche Unfähigkeit wird nicht durch neue Befugnisse kompensiert“; prüfen lässt sich das nicht, und den Täter vom CSD kannten die Behörden.
 - **[[Innenausschuss — Reform des Nachrichtendienstrechts#Der BND draußen|Luca Manns]]:** Partner fragen nach Daten von vor drei, vier Wochen, und der BND hat die Inhalte nach zwei Wochen „schon wegschmeißen müssen“; sechs Monate hält er für vertretbar, „auch wenn das ein Bauchgefühl ist“.
+- **[[ZDF — Weil du mir gehoerst#Eine Waffe, ganz legal|der Landrat]]:** Seine Waffenbehörde gab einem Mann, der den Mord an seiner Ex-Frau angekündigt hatte, legal eine Waffe; er fragt zurück, „wie viel sind wir bereit, auf der anderen Seite dafür von uns preiszugeben?“
+- **[[ZDF — Weil du mir gehoerst#Was Spanien anders macht|María Eugenia Prendes]]:** Spaniens oberste Staatsanwältin für Gewalt gegen Frauen: rund 4.000 Fußfesseln, und keine Frau sei getötet worden, solange der Täter eine trug.
+- **[[ZDF — Weil du mir gehoerst#Ein Verbot, das keiner durchsetzt|Udo Martens]]:** Das Annäherungsverbot sei ein gutes Instrument, aber auf Verstöße folge kaum etwas; eine Freiheitsstrafe dafür kenne er nicht.
 
 > [!question] Die Reibung
 > Poseck nennt Ermittlungserfolge, Kurz nennt fiktive Fälle, und die Forschung hat das Verfahren, um das sie streiten, nie untersucht. *Wenn niemand die Bilanz ziehen kann: Wer müsste beweisen — der Staat, dass es wirkt, oder die Kritiker, dass es schadet?*
@@ -165,6 +170,7 @@ Quer zur Debatte liegt das polizeiinterne Projekt **P20**: Es will die Polizeida
 | 10.11.2026 | [[Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur#Nachbesprechung\|Zettl-Schabath, Fischer, Strotmann — Angriffsziel Infrastruktur]] | Wirkt es? Klarnamen und Speicherfristen: Südkorea 2007–2012 (Verfassungsgericht, Cho & Kwon 2015), Rost/Stahel/Frey 2016, dauerhafte Pseudonyme (Moore u. a. 2020); Angreifer im Mittel 14 Tage unentdeckt vs. 7 Tage Speicherfrist (Mandiant 2026, § 12 TDDDG) |
 | 21.11.2026 | [[Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet#Nachbesprechung\|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]] | Löst ein europäischer Anbieter etwas? Bezahlnetze: Rochet & Tirole 2003, Kommission 2020 (IFR-Bericht), Monnet 2012, EPI 2022, Pix (Duarte u. a. 2022), Farrell & Newman 2019 · Was macht es mit Menschen, beobachtet zu werden? Privatsphäre beim Bezahlen: Athey u. a. 2017, EZB-Konsultation 2021, Garratt & van Oordt 2021, COM(2023) 369 |
 | 21.11.2026 | [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Wenn Kontrolle billig wird\|Aladin El-Mafaalani — Misstrauensgemeinschaften]] | Wo kippt Schutz in Herrschaft? Was billige Kontrolle kostet: Xu 2020 (Repression statt Umverteilung), Beraja u. a. 2023 (Innovation), Dragu & Lupu 2021, Wang & Minzner 2015, Gegenrichtung Manacorda & Tesei 2020 |
+| 25.11.2026 | [[ZDF — Weil du mir gehoerst#Fußfessel, Waffe, Datenschutz, was der Staat wissen darf\|ZDF — Weil du mir gehörst]] | Wirkt es? Schutz vor Partnergewalt: Waffenverbote (Campbell u. a. 2003, Zeoli u. a. 2018), Fußfessel (Belur u. a. 2020, Erez u. a. 2012, Bony u. a. 2024), Gefahreneinschätzung (van der Put u. a. 2019, VioGén/NYT 2024), BVerfG 2 BvR 916/11, Stellungnahmen DIMR/djb; Tagesnote 25.11. |
 
 ---
 

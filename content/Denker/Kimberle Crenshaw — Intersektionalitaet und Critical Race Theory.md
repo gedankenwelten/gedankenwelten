@@ -245,6 +245,9 @@ Wie eine Regel, die kein Geschlecht nennt, trotzdem ungleich treffen kann, zeigt
 
 Ein deutsches Lehrstück für Reform und Rückbau: Kurz nach dem Beschluss des Selbstbestimmungsgesetzes erzählt Kellermann von ihrer Befreiung und spricht im selben Gespräch von einem „Backlash“. Die Note erscheint zum Transgender Day of Remembrance, der an zwei getötete Schwarze trans Frauen erinnert.
 
+### → [[ZDF — Weil du mir gehoerst#Herkunft der Täter, was die 36,5 Prozent sagen|ZDF — Weil du mir gehörst]]
+
+Eingewanderte Frauen werden bei Partnertötungen weit überdurchschnittlich oft Opfer und stehen damit, wo Crenshaws Klägerinnen standen: zwischen zwei Debatten, die je nur eine ihrer Lagen sehen.
 
 ---
 

@@ -219,6 +219,9 @@ Beide sehen Herrschaft, die sich als natürliche Ordnung tarnt — bei Brodnig d
 
 Die Kriminologin Eva Groß beschreibt queerfeindliche Gewalt mit Brodnigs Schritt: Die Tat hat Botschaftscharakter und meint die ganze Gruppe. Die Drag Queen Barbie Breakout liest die Drohungen in ihren Nachrichten anders, als Großmaul des Netzes, und genau da widerspricht Brodnigs Vortrag.
 
+### → [[Christina Clemm — Gegen Frauenhass#Zwei Stunden Schweigen|Christina Clemm — Gegen Frauenhass]]
+
+Die Anwältin beschreibt Frauenhass als eingeübte Gewohnheit, die das patriarchale System stabilisiert, und verfolgt ihn vom Femizid bis zum Schimpfwort.
 
 ---
 

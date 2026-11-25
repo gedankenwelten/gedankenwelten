@@ -404,6 +404,10 @@ Das Schredder-Video war kein Einzelstück: Gefälschte Stimmzettel-Vernichtungen
 
 Was Jirmann für Mietshäuser durchrechnet, macht Oetting für einen geerbten Handwerksbetrieb: Die Steuer wäre aus dem Gewinn tilgbar, und die Verschonung lässt sie gleich ganz entfallen.
 
+### → [[ZDF — Weil du mir gehoerst#Jessica, und warum es kein Affekt war|ZDF — Weil du mir gehörst]]
+
+Eine ZDF-Recherche liest die Akten der Partnerinnentötungen von 2024 und zeigt, was das Wort „Beziehungstat“ verdeckt: Kontrolle, Ankündigung, Planung.
+
 ---
 
 ## Weiterdenken

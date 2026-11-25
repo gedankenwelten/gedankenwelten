@@ -333,6 +333,10 @@ Wie der Name heute wieder zur Hürde werden kann, erzählt die Navidi-Note: Mit 
 
 Serbiens Studentenaufstand ist gebaut wie die Bewegungen, aus denen eher Demokratie wurde: getragen von Fakultäten, Veteranen und Bauern, auf Abstand zu den Parteien.
 
+### → [[Christina Clemm — Gegen Frauenhass#Die zweite Liste|Christina Clemm — Gegen Frauenhass]]
+
+Eine Anwältin, deren Forderungen gegen Gewalt an Frauen seit Jahren unbeantwortet bleiben, setzt auf Störung und stellt damit Richters bedächtigen Weg auf die Probe.
+
 ---
 
 ## Weiterdenken

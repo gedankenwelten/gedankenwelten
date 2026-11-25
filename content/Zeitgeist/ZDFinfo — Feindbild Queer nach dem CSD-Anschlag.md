@@ -339,6 +339,10 @@ Tugay Sarac ging in den Islamismus, um vor sich selbst zu fliehen. Am Anfang sta
 
 Hunklingers Satz vom Teil der Macht, den man abgeben muss, steht im wachsenden Panorama bei der Frage, ob der Backlash der Preis des Fortschritts ist, neben El-Mafaalanis Tisch, Bleischs Gegenschlag auf den Körper und Crenshaws Rückbau, der jedem Fortschritt folgt.
 
+### → [[Christina Clemm — Gegen Frauenhass#Der gefährlichste Ort|Christina Clemm — Gegen Frauenhass]]
+
+Was der Film für den Queerhass zeigt, behauptet die Anwältin mit Theweleit für den Frauenhass: dass er Attentäter verbindet, die einander sonst bekämpfen.
+
 ---
 
 ## Weiterdenken

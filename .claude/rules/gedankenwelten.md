@@ -279,6 +279,19 @@ Handynummern auf den eigenen Seiten widersprechen. Viten von Aussteigern bekomme
 der erzählte Weg). Verschwörungsszene und Sekten vorerst nicht. Der MCP-Server erkennt den Titel („raus“) und hängt
 dann `HILFE_AUSSTIEG` an statt der Krisennummern; ändern sich Nummern, beide Stellen nachziehen. Einmal im Jahr
 nachsehen, mit dem anderen Kasten.
+**Dritte Fassung: Gewalt gegen Frauen** (seit 25.11.2026, Andreas' Ja). Ist der **Kern** einer Note Gewalt gegen
+Frauen (Femizid, Partnerschaftsgewalt, sexualisierte Gewalt gegen Frauen), bleibt der Titel „Bevor du weiterliest“,
+aber das Hilfetelefon steht vorn und die Nachbarländer bekommen ihre Frauen-Nummern:
+
+```markdown
+> Deutschland: [116 016](tel:116016) Hilfetelefon Gewalt gegen Frauen, Tag und Nacht, anonym, in 18 Sprachen · [116 111](tel:116111) Nummer gegen Kummer (Mo–Sa 14–20 Uhr) · [0800 111 0 111](tel:08001110111) TelefonSeelsorge, Tag und Nacht · [krisenchat.de](https://krisenchat.de) zum Schreiben, unter 25, Tag und Nacht
+>
+> Österreich: [0800 222 555](tel:0800222555) Frauen-Helpline gegen Gewalt · [147](tel:147) Rat auf Draht · Schweiz: [142](tel:142) Opferhilfe · [147](tel:147) Pro Juventute
+```
+
+Nummern am 25.11.2026 an hilfetelefon.de, frauenhelpline.at und opferhilfe-schweiz.ch gelesen. Der MCP-Server erkennt
+„116 016“ im Kasten und hängt dann `HILFE_FRAUEN` an. Erste Notes: [[Christina Clemm — Gegen Frauenhass]], [[ZDF — Weil du mir gehoerst]].
+
 **Ton:** kein Alarm, keine Bevormundung, das Thema schlicht benennen. Nummern am 01.11.2026 an den Seiten
 geprüft; einmal im Jahr nachsehen. Ändern sich Nummern, auch `HILFE_NUMMERN` im MCP-Server nachziehen
 (Pi, `~/services/gedankenwelten-mcp/server.py`; er baut den Hinweis aus Themensatz + dieser Konstante). Kein `aktualisiert:`-Bump für das bloße Einsetzen.

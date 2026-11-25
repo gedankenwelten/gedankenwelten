@@ -33,8 +33,10 @@ hochgesetztes `aktualisiert:`.
 
 ## 2026-11-25 · Internationaler Tag zur Beseitigung von Gewalt gegen Frauen
 
-Am 25. November 1960 ließ der dominikanische Diktator Rafael Trujillo drei Schwestern ermorden: Patria, Minerva und María Teresa Mirabal, im Widerstand *Las Mariposas* genannt, die Schmetterlinge. 1981 erklärten Feministinnen aus Lateinamerika und der Karibik ihren Todestag zum Gedenktag, 1999 übernahmen ihn die Vereinten Nationen. Er eröffnet sechzehn Tage, die am 10. Dezember enden, dem Tag der Menschenrechte. Diese Tage verbinden die Gewalt in der eigenen Wohnung mit der Frage nach den Menschenrechten.
+Am 25. November 1960 ließ der dominikanische Diktator Rafael Trujillo drei Schwestern ermorden: Patria, Minerva und María Teresa Mirabal, im Widerstand *Las Mariposas* genannt, die Schmetterlinge. 1981 erklärten Feministinnen aus Lateinamerika und der Karibik ihren Todestag zum Gedenktag, 1999 übernahmen ihn die Vereinten Nationen. Er eröffnet sechzehn Tage, die am 10. Dezember enden, dem Tag der Menschenrechte. Diese Tage verbinden die Gewalt in der eigenen Wohnung mit der Frage nach den Menschenrechten. Zwei neue Notes lesen beide Seiten: die Akten von 104 getöteten Frauen und die Sicht einer Anwältin, die seit fast dreißig Jahren Betroffene vertritt.
 
+- [[ZDF — Weil du mir gehoerst]]
+- [[Christina Clemm — Gegen Frauenhass]]
 - [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]] — wie Gewalt im Netz Frauen auf ihren Platz verweisen soll, und was Einzelne und Öffentlichkeit dagegen tun können
 - [[Sandra Navidi — Frauenrechte in Trumps Amerika]]
 - [[Tsitsi Dangarembga - Feministische Stimme Afrikas]] — zwei Patriarchate übereinander; der Blick über Europa hinaus, aus dem auch die Mirabals kamen

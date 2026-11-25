@@ -293,6 +293,10 @@ Ob die Abgrenzung, die gegen rechts gilt, auch nach links gezogen werden muss: v
 ### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub — Extremismus und der Schutz der Demokratie]] · [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent und Göpel — Extremismus neu denken]]
 Zwei Gespräche darüber, was „Extremismus“ als Begriff leistet und wo er gleich macht, was nicht gleich ist.
 
+### → [[ZDF — Weil du mir gehoerst#Die hundertfünfte|ZDF — Weil du mir gehörst]]
+
+Im Jahr mit drei vollendeten politisch motivierten Tötungsdelikten wurden in Deutschland 132 Frauen von ihrem Partner oder Ex-Partner getötet; der Film fragt, warum nur die einen als Gefährder gelten.
+
 ---
 
 ## Quellen

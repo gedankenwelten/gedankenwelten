@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Thomas Biebricher — Die Krise der Konservativen (Jung & Naiv 861)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Thomas Biebricher über die Krise der Konservativen & Neoliberalismus – Jung & Naiv: Folge 861](https://www.youtube.com/watch?v=H8Ig7iCEBfI) (Jung & Naiv, 04.11.2026) |
+| **Bücher** | [*Mitte/Rechts*](https://www.genialokal.de/Suche/?q=biebricher+mitte+rechts) (Suhrkamp 2023) · [*Oben rechts*](https://www.suhrkamp.de/buch/oben-rechts-t-9783518128138) (Sammelband, hg. von Heinrich Geiselberger, Suhrkamp 2026) |
+| **Notiz** | [[Thomas Biebricher — Die Krise der Konservativen]] |
+| **Vita** | [[DenkerVita/Thomas Biebricher]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Biebricher_Krise_Konservative_Transkript.txt` |
+
 ## Gert Scobel / Daron Acemoglu — Automation and Repression
 
 | | |
@@ -6275,3 +6285,17 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Wolodymyr Selenskyj — Ein Praesident im Krieg]] |
 | **Vita** | [[DenkerVita/Wolodymyr Selenskyj]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Selenskyj_DOAC_5x9dkYIRb58_Transkript.txt` (YouTube-Untertitel der englischen KI-Synchronfassung, vollständig) · `Gedankenwelten/Transkripte/Selenskyj_DOAC_5x9dkYIRb58_uk_Stichproben.txt` (fünf Stellen aus dem ukrainischen Originalton, Whisper) |
+
+## Tag gegen Gewalt an Frauen (25.11.2026) — Christina Clemm und ZDF „Weil du mir gehörst!“
+
+| | |
+|---|---|
+| **Vortrag** | [Gegen Frauenhass — Christina Clemm, 05. November 2025](https://www.youtube.com/watch?v=fw6tWYOVhCE) — Stiftung Demokratie Saarland mit der FrauenGenderBibliothek Saar, 1:41 Std. |
+| **Notiz** | [[Zeitgeist/Christina Clemm — Gegen Frauenhass]] |
+| **Vita** | [[DenkerVita/Christina Clemm]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Clemm_Gegen_Frauenhass_Transkript.txt` (YouTube-Untertitel, vollständig) |
+| **Dokumentation** | [Weil du mir gehörst! Gewalt an Frauen und wie Taten sich ankündigen](https://www.youtube.com/watch?v=FLRjmA1G4bw) — ZDF 2025 (Breyer, Friedrichs, Huber, Unsleber; tell me why), Upload ZDFheute Nachrichten, 43 Min. |
+| **Notiz** | [[Zeitgeist/ZDF — Weil du mir gehoerst]] |
+| **Vita** | [[DenkerVita/Jochen Breyer]] · [[DenkerVita/Julia Friedrichs]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Breyer_Weil_du_mir_gehoerst_Transkript.txt` (YouTube-Untertitel, vollständig) |
+| **Hilfe** | [Hilfetelefon Gewalt gegen Frauen 116 016](https://www.hilfetelefon.de/) · [Frauen-Helpline Österreich 0800 222 555](https://www.frauenhelpline.at/) · [Opferhilfe Schweiz 142](https://www.opferhilfe-schweiz.ch/de/) |

@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **25.11.** — [[Zeitgeist/ZDF — Weil du mir gehoerst|ZDF — Weil du mir gehörst]]
+>
+> 104 Frauen wurden 2024 in Deutschland von ihrem Partner oder Ex-Partner getötet. Eine ZDF-Recherche liest ihre Akten und findet Taten, die sich ankündigen, und einen Staat, der zu spät hinsieht.
+
+> **25.11.** — [[Zeitgeist/Christina Clemm — Gegen Frauenhass|Christina Clemm — Gegen Frauenhass]]
+>
+> Frauenhass ist kein plötzliches Gefühl, sagt die Anwältin Christina Clemm, sondern eine eingeübte Haltung. Von ihr führt eine Spirale vom Schimpfwort bis zum Femizid, und härtere Strafen beenden sie nicht.
+
 > **24.11.** — [[Zeitgeist/Wolodymyr Selenskyj — Ein Praesident im Krieg|Ein Präsident im Krieg]]
 >
 > Er schläft nicht, er telefoniert nachts mit der Flugabwehr, und nach Butscha wollte er zum ersten Mal einen Menschen töten: Wolodymyr Selenskyj über den Preis, ein Land durch den Krieg zu führen.
@@ -36,15 +44,31 @@ Die Gedankenwelten (luc)
 >
 > Moskau will eine neue Sicherheitsordnung für Europa, die alte hat es selbst unterschrieben. Ein Korrespondent sucht den Grund in Russland, nicht im Westen. Wie weit trägt das?
 
-> **23.11.** — [[Zeitgeist/Marcant und Maren — Kindheit in der Neonazi-Szene|Marcant und Maren — Kindheit in der Neonazi-Szene]]
->
-> Ein Mädchen im Dirndl verkauft Kuchen am Sonnwendfeuer und hält es für einen Ausflug mit Freunden. Wie man aus einer Familie herausfindet, in die man hineingeboren wurde, und wer dabei hilft.
+> → *24 weitere in* [[Zeitgeist]]
 
-> **23.11.** — [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
->
-> Bevor die Erschöpfung kommt, muss man handeln. Ece Temelkuran hat erlebt, wie die Türkei ihre Demokratie verlor, und erkennt dieselben Schritte nun in den USA, beschleunigt durch Trumps Tempo.
+### Panorama
 
-> → *26 weitere in* [[Zeitgeist]]
+> **25.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **25.11.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+>
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
+
+> **24.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **24.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
+> **24.11.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
+>
+> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
+
+> → *13 weitere in* [[Panorama]]
 
 ### Geistesblitz
 
@@ -70,30 +94,6 @@ Die Gedankenwelten (luc)
 
 > → *3 weitere in* [[Geistesblitz]]
 
-### Panorama
-
-> **24.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **24.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
->
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
-
-> **24.11.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
->
-> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
-
-> **23.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **23.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> → *14 weitere in* [[Panorama]]
-
 ### Denker
 
 > **23.11.** — [[Denker/Sven Beckert — Kapitalismus als Weltrevolution|Sven Beckert — Kapitalismus als Weltrevolution]]
@@ -116,7 +116,7 @@ Die Gedankenwelten (luc)
 >
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
 
-> → *2 weitere in* [[Denker]]
+> → *1 weitere in* [[Denker]]
 
 ### GoodNews
 

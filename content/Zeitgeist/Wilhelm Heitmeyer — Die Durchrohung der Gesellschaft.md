@@ -526,6 +526,9 @@ Ein Jugendrichter, der Heitmeyers Satz an sich selbst erlebt hat: Johann Krieten
 
 Ein Feld für die Sensibilisierungsthese: Die queerfeindlichen Straftaten stiegen 2025 ohne Doppelzählung um 12,8 Prozent, und das Dunkelfeld lässt sich nur aus Anzeigequoten hochrechnen, je nach Annahme auf etwa 18.000 bis 30.000.
 
+### → [[ZDF — Weil du mir gehoerst#Ein Verbot, das keiner durchsetzt|ZDF — Weil du mir gehörst]]
+
+Am Annäherungsverbot, das ein Mann bis zur Tat folgenlos brach, zeigt der Film, was Heitmeyer „Lernen am Erfolg“ nennt.
 
 ---
 

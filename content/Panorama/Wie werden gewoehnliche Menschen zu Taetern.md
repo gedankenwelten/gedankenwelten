@@ -250,6 +250,10 @@ Ein KI-Agent sagt auf die Frage nach seiner Gefährlichkeit: Ich weiß es nicht.
 
 Eine Gegenprobe aus erster Hand: Maren wuchs mit Schlägen und völkischen Erziehungszielen auf, und was sie davor bewahrte, sie zu übernehmen, waren Menschen außerhalb der Szene.
 
+### → [[Christina Clemm — Gegen Frauenhass#Publikumsfragen|Christina Clemm — Gegen Frauenhass]]
+
+Die Anwältin überträgt die Frage nach den gewöhnlichen Tätern auf Gewalt gegen Frauen („alle Männer können Täter sein“) und verlangt von den anderen, einzuschreiten.
+
 ---
 
 ## Weiterdenken

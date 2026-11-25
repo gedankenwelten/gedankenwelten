@@ -19,7 +19,7 @@ tags: [denker-vita, wirtschaft, soziale-ungleichheit, medien, deutschland, journ
 </details>
 
 > [!info] Wer spricht?
-> **Julia Friedrichs** (*1979, Münsterland) — Preisgekrönte deutsche Journalistin und Dokumentarfilmerin. Arbeitet für ARD, ZDF und Die Zeit. Gründerin der Produktionsfirma Tell Me Why (mit Jochen Breyer, seit 2024). Autorin des Bestsellers *Crazy Rich* (2024), einer investigativen Tiefenanalyse der verschwiegenen Welt der Superreichen in Deutschland. Ihre Methode: 50-Stunden-Interviews mit Erben, Teilnahme an Steuervermeidungskonferenzen, systematische Recherche in das Ökosystem der Vermögenskonzentration und ihre politischen Folgen.
+> **Julia Friedrichs** (*1979, Münsterland) — Preisgekrönte deutsche Journalistin und Dokumentarfilmerin. Arbeitet für ARD, ZDF und Die Zeit. Gründerin der Produktionsfirma tell me why (mit Jochen Breyer, 2024). Autorin des Bestsellers *Crazy Rich* (2024), einer investigativen Tiefenanalyse der verschwiegenen Welt der Superreichen in Deutschland. Ihre Methode: 50-Stunden-Interviews mit Erben, Teilnahme an Steuervermeidungskonferenzen, systematische Recherche in das Ökosystem der Vermögenskonzentration und ihre politischen Folgen.
 
 ---
 
@@ -120,6 +120,7 @@ Ihre zentrale Kritik ist **nicht anti-kapitalistisch**, sondern **kapitalismusko
 *(alle Notes im Vault die Julia Friedrichs behandeln)*
 
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Paneldiskussion mit Friedrichs als Hauptvoice zu Vermögenskonzentration, Steuervermeidung, Parallelgesellschaften
+- [[Zeitgeist/ZDF — Weil du mir gehoerst]] — ZDF-Dokumentation (2025), mit Jochen Breyer, Linda Huber und Steffi Unsleber: die 104 Partnerinnentötungen des Jahres 2024
 
 ---
 

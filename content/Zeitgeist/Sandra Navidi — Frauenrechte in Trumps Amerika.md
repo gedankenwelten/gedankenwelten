@@ -419,6 +419,10 @@ Die frappierendste Parallele zur Zeit vor 1914 ist für Blom die Männlichkeit: 
 
 Die taz-Runde am Tag nach den Midterms ist der nüchterne Nachtrag zu Navidis Satz, die große Masse stehe nicht dahinter. Das Recht auf Abtreibung hielt in drei von vier Abstimmungen, viele Gouverneurinnen wurden gewählt, und in der Runde fällt der Hinweis, die Evangelikalen seien nicht monolithisch. Am selben Abend gingen aber in Arizona und Colorado Einschnitte bei den Transrechten durch, und die Einordnung dort warnt: Wer aus dieser Koalition des Neins eine Linkswende liest, liest seinen Wunsch. Das ist die Gegenstimme zu dem Schluss, den „Was seither geschah“ leicht nahelegt.
 
+### → [[Christina Clemm — Gegen Frauenhass#Die Spirale|Christina Clemm — Gegen Frauenhass]]
+
+Eine Berliner Anwältin erlebt den Backlash im Gerichtssaal; ihre Mandantinnen kommen aus Flüchtlingsunterkünften wie aus der Stadtvilla.
+
 ---
 
 ## Weiterdenken

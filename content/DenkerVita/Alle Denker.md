@@ -86,9 +86,13 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Thomas Biebricher|Thomas Biebricher]]** — Politikwissenschaftler (Politische Theorie, Goethe-Universität Frankfurt), erforscht den Neoliberalismus und die Krise des Konservatismus zwischen Mitte und rechts außen
+
 **[[DenkerVita/Matthias Bäcker|Matthias Bäcker]]** — Verfassungsrechtler (Universität Mainz), Sicherheits- und Datenschutzrecht; hält die heimlichen „Schutzmaßnahmen“ des Verfassungsschutzes für offensichtlich verfassungswidrig: Ein Rechtsstaat greift offen und rechtsschutzfähig ein
 
 **[[DenkerVita/Barbie Breakout|Barbie Breakout]]** — Berliner Drag Queen, Autorin und Podcasterin, Gastgeberin von „Drag Race Germany“; Drag als Befreiung von Geschlechternormen
+
+**[[DenkerVita/Jochen Breyer|Jochen Breyer]]** — ZDF-Moderator und Dokumentarfilmer; las mit seinem Team die Akten der 104 Partnerinnentötungen des Jahres 2024, die er finden konnte, und fand Taten, die sich ankündigen.
 
 **[[DenkerVita/Filip Balunovic|Filip Balunović]]** — Politikwissenschaftler und Bewegungsforscher am IFDT der Universität Belgrad; *The Revival of the Left in the Balkans*; deutet Serbiens Studentenaufstand als Sieg der „Idee einer neuen Gesellschaft“
 
@@ -137,6 +141,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Burak Caniperk|Burak Caniperk]]** — Sozialarbeiter und Streetworker (Outreach gGmbH, Berlin-Schöneberg), Autor von *Auf Augenhöhe* (2024); Armut statt Herkunft als Ursache der Wut, Beziehungsarbeit und Prävention
 
 **[[DenkerVita/Iason Chandrinos|Iason Chandrinos]]** — Zeithistoriker (Regensburg), erforscht die deutsche Besatzung Griechenlands, den Holocaust dort und die vergessenen griechischen KZ-Häftlinge und Zwangsarbeiter im Reich.
+
+**[[DenkerVita/Christina Clemm|Christina Clemm]]** — Rechtsanwältin für Straf- und Familienrecht, Berlin; vertritt seit fast dreißig Jahren Betroffene geschlechtsspezifischer und rechter Gewalt und hält Frauenhass für eine eingeübte Geisteshaltung, gegen die härtere Strafen wenig ausrichten.
 
 **[[DenkerVita/Tahir Chaudhry|Tahir Chaudhry]]** — Journalist (* 1989), Redakteursausbildung bei der SZ, Gründer von Grenzgänger Studios; *Wem diente Jeffrey Epstein?* (2024), mit Tariq Hübsch *Peter Thiel. Palantir, der KI-Gott und das Ende des Menschen* (2026); „State-Made“ statt Selfmade-Milliardäre
 

@@ -1565,3 +1565,12 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Wolodymyr Selenskyj
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wolodymyr Selenskyj]]
+
+## Christina Clemm
+**Status:** ✓ Vollanalyse → [[DenkerVita/Christina Clemm]]
+
+## Jochen Breyer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jochen Breyer]]
+
+## Thomas Biebricher
+**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Biebricher]]

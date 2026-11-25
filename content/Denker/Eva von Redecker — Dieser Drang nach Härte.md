@@ -292,6 +292,10 @@ In Lüneburg 2024 definiert Redecker Vertrauen als Kooperationserwartung, leitet
 
 Robert Misik beschreibt denselben Kult der Härte als Ergebnis von Propaganda und Gruppendynamik, mit Löwenthals Dreisprung vom Negativismus zur Euphorie; sein Gegenmittel, eine progressive Veränderungserzählung, bleibt allgemeiner als von Redeckers vier Wege.
 
+### → [[ZDF — Weil du mir gehoerst#Der gefährlichste Moment|ZDF — Weil du mir gehörst]]
+
+Die Akten von 104 Partnerinnentötungen zeigen, was Phantombesitz im Privaten heißt: eine Kontrolle, die mit der Trennung nicht endet, und am Ende die Tötung.
+
 ---
 
 ## Weiterdenken
