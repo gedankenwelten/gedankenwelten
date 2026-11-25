@@ -95,7 +95,7 @@ Pörksen bestätigt aus seiner Erfahrung im Silicon Valley: [▶ 35:46](https://
 
 **4. Filterblasenmythos** [▶ 56:30](https://www.youtube.com/watch?v=5HVhsYhmxTg&t=3390) — Eli Parisers These der algorithmischen Selbstisolation ist empirisch nicht belegt. Pörksens Gegenkonzept: **Filterclash** — wir leiden nicht unter zu wenig, sondern unter zu viel Konfrontation mit anderen Weltsichten. Jeder Klick ist „ein Ticket in ein anderes Wirklichkeitsuniversum". Das erzeugt eine **Gereiztheit** als Grundstimmung. Göpel wendet ein, dass durch die Übernahme von X durch Musk eine kuratierte Schließung stattfinde — Pörksen räumt ein, dass „digitaler Feudalismus" die Schließung leichter mache.
 
-**5. Polarisierungsmythos** [▶ 68:40](https://www.youtube.com/watch?v=5HVhsYhmxTg&t=4120) — Das Polarisierungsgefühl in Europa ist im Vergleich zu den USA übertrieben. Pörksens Unterscheidung: Zu viel **Spektakelpolarisierung** (personalisiertes Auftrumpfen), zu wenig **programmatische Polarisierung** (Ringen um sachlich begründete Gegensätze, Visionen statt Emotionen).
+**5. Polarisierungsmythos** [▶ 68:40](https://www.youtube.com/watch?v=5HVhsYhmxTg&t=4120) — In den meisten europäischen Ländern sei die Polarisierungsangst stark verbreitet, das Gefühl aber, so zeigten soziologische Studien, im Vergleich zu den USA übertrieben, „zumindest etwas“ und abseits der Reizthemen. Pörksens Unterscheidung: Zu viel **Spektakelpolarisierung** (personalisiertes Auftrumpfen), zu wenig **programmatische Polarisierung** (Ringen um sachlich begründete Gegensätze, Visionen statt Emotionen).
 
 ### Medienbildung und öffentlich-rechtlicher Rundfunk
 
@@ -124,8 +124,10 @@ Zum ÖRR: Die Verunsicherung sei groß, die Begriffe unklar. Es brauche Figuren,
 > [!warning] Vereinfacht — Kuratierte Schließung auf X
 > Göpel spricht an, dass X unter Musk rechtspopulistische Inhalte bevorzuge. Berichte und Studien (u.a. vom Center for Countering Digital Hate) zeigen tatsächlich algorithmische Bevorzugung bestimmter Inhalte, aber die Effekte sind kontextabhängig und schwer von organischem Nutzerverhalten zu trennen. Die Situation ist komplexer als eine einfache „Kuratierung von rechts". Keine unabhängige Quelle gefunden, die eine systematische Default-Manipulation eindeutig belegt.
 
-> [!success] Bestätigt — Polarisierungsgefühl in Europa übertrieben
-> Pörksen stellt fest, das Polarisierungsgefühl in Europa sei im Vergleich zu den USA übertrieben. Die Studie „Perception vs. Reality" von More in Common (2019/2022) zeigt, dass Europäer die gesellschaftliche Spaltung systematisch überschätzen — die tatsächliche Meinungsvielfalt ist geringer als wahrgenommen. Quelle: [More in Common — The Perception Gap](https://perceptiongap.us/)
+> [!success] Bestätigt für Deutschland — Polarisierungsgefühl übertrieben
+> Pörksen sagt vorsichtig, das Polarisierungsgefühl sei im Vergleich zu den USA „zumindest etwas“ übertrieben, „wenn man von Reizthemen absieht“. Für Deutschland trägt das: Über die meisten Sachfragen sind die Deutschen weniger gespalten, als die Debatte glauben macht, gestritten wird an einzelnen Triggerpunkten (Mau, Lux & Westheuser, *Triggerpunkte*, 2023), und die Abneigung zwischen Parteianhängern ist in Westdeutschland von 1977 bis 2017 gesunken, während sie in den USA am stärksten stieg ([Boxell, Gentzkow & Shapiro 2024](https://doi.org/10.1162/rest_a_01160), Ländervergleich). Für „die meisten europäischen Länder“ ist das Bild gemischt: In Mittelost- und Südeuropa ist die Abneigung zwischen Parteianhängern stärker als in den USA, in Nordwesteuropa gemäßigter ([Reiljan 2020](https://doi.org/10.1111/1475-6765.12351), Vergleich von 22 Ländern). Quelle: [Suhrkamp — *Triggerpunkte*](https://www.suhrkamp.de/buch/triggerpunkte-t-9783518029848)
+>
+> *Korrigiert am 25.11.2026: Hier stand vorher eine US-Studie von More in Common als Beleg für Europa; sie misst nur die USA.*
 
 ---
 

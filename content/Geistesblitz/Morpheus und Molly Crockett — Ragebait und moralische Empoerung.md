@@ -245,7 +245,7 @@ Beide haben recht, und genau dazwischen liegt die offene Stelle. Mössner stimmt
 
 > [!success] Bestätigt — Nachrichtenvermeidung in Deutschland (72 statt 49 Prozent)
 > 2026 vermeiden 72 Prozent der erwachsenen Onliner zumindest gelegentlich aktiv Nachrichten, 2017 waren es 49 Prozent; „oft" tun es 15 Prozent. Die Antwortkategorie wurde 2022 umbenannt, was den Zeitvergleich leicht unscharf macht. Mössners „jeder Fünfte" (kann mit den Informationen nichts anfangen) ließ sich für 2026 nicht bestätigen; 2022 lag der Wert bei 16 Prozent.
-> Quelle: [Hölig et al., Reuters Institute Digital News Report 2026, Deutschland (HBI)](https://leibniz-hbi-de.b-cdn.net/wp-content/uploads/2026/06/AP83_DNR26_Deutschland.pdf) · [Digital News Survey 2017 (SSOAR)](https://www.ssoar.info/ssoar/bitstream/handle/document/71774/ssoar-2017-holig_et_al-Reuters_Institute_Digital_News_Survey.pdf)
+> Quelle: [Hölig et al., Reuters Institute Digital News Report 2026, Deutschland (HBI, Arbeitspapier 83, bei SSOAR)](https://www.ssoar.info/ssoar/bitstream/handle/document/110516/ssoar-2026-holig_et_al-Reuters_Institute_Digital_News_Report.pdf) · [Digital News Survey 2017 (SSOAR)](https://www.ssoar.info/ssoar/bitstream/handle/document/71774/ssoar-2017-holig_et_al-Reuters_Institute_Digital_News_Survey.pdf)
 
 > [!success] Bestätigt — Bannon, „flood the zone with shit"
 > Steve Bannon 2018 zu Michael Lewis: „The real opposition is the media. And the way to deal with them is to flood the zone with shit."
@@ -256,7 +256,7 @@ Beide haben recht, und genau dazwischen liegt die offene Stelle. Mössner stimmt
 > Quelle: [Verordnung (EU) 2022/2065, EUR-Lex](https://eur-lex.europa.eu/eli/reg/2022/2065/oj)
 
 > [!note] Randnotiz zu Crocketts Vortrag
-> Crockett nennt für die russische Internet Research Agency über 3.000 Anzeigen mit geschätzt 126 Mio. Erreichten. Laut Facebooks Aussage vor dem US-Senat erreichten die Anzeigen rund 11,4 Mio. Menschen; die 126 Mio. betreffen die mögliche Reichweite von rund 80.000 organischen Posts. Die Note übernimmt die Zahl nicht. Quelle: [CNN Money, 30.10.2017](https://money.cnn.com/2017/10/30/media/russia-facebook-126-million-users)
+> Crockett nennt für die russische Internet Research Agency über 3.000 Anzeigen mit geschätzt 126 Mio. Erreichten. Laut Facebooks Aussage vor dem US-Kongress erreichten die Anzeigen rund 11,4 Mio. Menschen; die 126 Mio. betreffen die mögliche Reichweite von rund 80.000 organischen Posts. Die Note übernimmt die Zahl nicht. Quelle: [Colin Stretch (Facebook), schriftliche Aussage vor dem Geheimdienstausschuss des Repräsentantenhauses, 01.11.2017](https://intelligence.house.gov/uploadedfiles/prepared_testimony_of_colin_stretch_from_facebook.pdf)
 
 *Zur Quelle:* Mössners Video enthält mitten in der Kritik an der Aufmerksamkeitsökonomie einen bezahlten Werbeblock (ab etwa [▶ 8:21](https://www.youtube.com/watch?v=ojyWXJvwOQw&t=501)), und er räumt selbst ein, dass die Anreize ihn als YouTuber zur Zuspitzung drängen. Seine Zahlen halten weitgehend; eine eigene virale Behauptung (zu Hobbys und Twitch) prüft er nach und verwirft sie. Die einzige echte Panne, 33 statt 43 Prozent, läuft allerdings in die Richtung seiner These.
 
@@ -290,7 +290,7 @@ Beide haben recht, und genau dazwischen liegt die offene Stelle. Mössner stimmt
 - [Barton & Smyth 2025, Memory](https://doi.org/10.1080/09658211.2025.2521076) — Kontextwechsel bei Kurzvideos und prospektives Gedächtnis
 - [CCDH, YouTube's Anorexia Algorithm (2024)](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf) · [Folgebericht 2026](https://counterhate.com/blog/new-report-shows-youtube-still-recommends-eating-disorder-content-to-children-despite-safety-improvements/)
 - [TUI Stiftung, Junges Europa 2026](https://www.tui-stiftung.de/wp-content/uploads/2026/06/2026_Gesamtbericht-TUI-Stiftung-Jugendstudie.pdf) — Jugendstudie mit Vergleich zur Gesamtbevölkerung
-- [Reuters Digital News Report 2026, Deutschland (HBI)](https://leibniz-hbi-de.b-cdn.net/wp-content/uploads/2026/06/AP83_DNR26_Deutschland.pdf) — Nachrichtenvermeidung
+- [Reuters Digital News Report 2026, Deutschland (HBI, Arbeitspapier 83, bei SSOAR)](https://www.ssoar.info/ssoar/bitstream/handle/document/110516/ssoar-2026-holig_et_al-Reuters_Institute_Digital_News_Report.pdf) — Nachrichtenvermeidung
 - [Washington Post zu den Facebook-Papieren](https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/) — Gewichtung 5:1 und Nullsetzung 2020
 - [DSA, Verordnung (EU) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) — Art. 38, Empfehlungssystem ohne Profiling
 
