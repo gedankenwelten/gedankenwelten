@@ -112,8 +112,8 @@ Staiy kontert: Man könnte stattdessen Behörden auf Open Source umstellen — �
 > [!success] Bestätigt — EnBW-Papier zunächst nicht im Lobbyregister
 > EnBW hätte das Papier (vom 13.1.2026) bis Ende März eintragen müssen. Der Eintrag erfolgte erst, nachdem der SPIEGEL am 9. April anfragte. Quelle: [EnBW hat Lobbyregister-Eintrag versäumt](https://www.swr.de/swraktuell/baden-wuerttemberg/energiekonzern-enbw-zu-lobby-vorwurf-wirtschaftsministerin-reiche-argumente-fuer-gaskraftwerke-102.html)
 
-> [!success] Bestätigt — RWE-Papier auf Wunsch des Ministeriums
-> Das Handelsblatt berichtete bereits Ende Februar über ein ähnliches Lobbypapier von RWE, ebenfalls auf Wunsch des Ministeriums. Quelle: [Kraftwerkssicherheitsgesetz: Reiche ließ EnBW & RWE liefern](https://www.cleanthinking.de/kraftwerkssicherheitsgesetz-reiche-enbw-rwe/)
+> [!warning] Nicht eindeutig belegt — RWE-Papier auf Wunsch des Ministeriums
+> Das Handelsblatt berichtete bereits Ende Februar über ein ähnliches Lobbypapier von RWE, ebenfalls auf Wunsch des Ministeriums. Anders als EnBW hat RWE das nicht bestätigt, und die Bundesregierung ließ die Frage in ihrer Antwort auf eine Kleine Anfrage offen ([Drucksache 21/6474](https://dserver.bundestag.de/btd/21/064/2106474.pdf)). Quelle: [Kraftwerkssicherheitsgesetz: Reiche ließ EnBW & RWE liefern](https://www.cleanthinking.de/kraftwerkssicherheitsgesetz-reiche-enbw-rwe/)
 
 > [!warning] Vereinfacht — Reiche: „Kein Mangel an Kerosin"
 > Keine unabhängige Quelle für das exakte Zitat „Wir haben in Deutschland keinen Mangel an Kerosin" von Ministerin Reiche gefunden. Flughäfen Frankfurt und München meldeten „bisher keine Hinweise auf Kerosinmangel" (Reuters/Tagesspiegel). Kontextuell plausibel, aber als Reiche-Zitat nicht verifizierbar.

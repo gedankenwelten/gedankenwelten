@@ -144,7 +144,7 @@ Das europäische Stromnetz ist kein Makel — es ist Infrastruktur. Deutschland 
 
 [▶ 25:16](https://www.youtube.com/watch?v=CAwLEgeqKN0&t=1516)
 
-Hier ist Fichtner genau: Der Mythos ist nicht vollständig falsch, aber übertrieben. Die Rundlaufeffizienz (Laden und Entladen einer Batterie) liegt bei **10–15 %**, nicht bei 20 %. Und: Ja, zuhause laden ist günstiger als öffentlich laden.
+Hier ist Fichtner genau: Der Mythos ist nicht vollständig falsch, aber übertrieben. Die Verluste bei der Rundlaufeffizienz (Laden und Entladen einer Batterie) liegen bei **10–15 %**, nicht bei 20 %. Und: Ja, zuhause laden ist günstiger als öffentlich laden.
 
 Sein eigentliches Anliegen ist die strukturelle Kritik am deutschen Ladesystem:
 

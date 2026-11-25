@@ -284,7 +284,7 @@ Greenpeace verfolgt das Systemkosten-Argument zurück bis zum Altmaier-Knick 201
 
 ### → [[Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — Reiche EXPOSED]]
 
-Im April war es eine Enthüllung, dass das Ministerium bei EnBW und RWE Vorschläge gegen Batteriespeicher bestellt hatte. Ein halbes Jahr später stehen mehrere davon im Gesetz. Bemerkenswert bleibt die Richtung: Nicht die Lobby drängt sich auf, das Ministerium bestellt bei ihr.
+Im April war es eine Enthüllung, dass das Ministerium bei EnBW Vorschläge gegen Batteriespeicher bestellt hatte, nach einem Bericht des Handelsblatts auch bei RWE. Ein halbes Jahr später stehen mehrere davon im Gesetz. Bemerkenswert bleibt die Richtung: Nicht die Lobby drängt sich auf, das Ministerium bestellt bei ihr.
 
 ### → [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende]]
 

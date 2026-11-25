@@ -12,6 +12,7 @@ tags:
   - atomkraft
   - ki
 erstellt: 2026-04-27
+raetsel: "Die Tür aus Glas dreht sich. Wer hinausgeht, kommt mit Papieren zurück."
 aktualisiert: 2026-06-01
 aliases:
   - "Panorama/Energiewende - Zwischen Kostenwahrheit und Lobbypolitik"
@@ -29,9 +30,12 @@ aliases:
 
 </details>
 
+> [!abstract] Worum es geht
+> Strom aus Sonne, Wind und Speichern wird billiger, und trotzdem stockt die Wende in Deutschland. Dieses Panorama vom Frühjahr 2026 sucht die Gründe in den Netzkosten, in der Nähe zwischen Ministerium und Energiekonzernen und in einer Debatte über Atomkraft und den Strombedarf der KI, in der selten ehrlich gerechnet wird. Die Zahlen haben wir im November 2026 nachgeprüft, Blick und Ton sind die des Frühjahrs.
+
 ## Warum dieses Thema?
 
-Deutschlands Strompreise sind die höchsten in Europa: 38 Cent/kWh, EU-Durchschnitt 29 Cent. Die Energiewende war als Doppelprojekt gedacht — Klimaschutz und industrielle Modernisierung. Stattdessen ist sie zum politischen Schlachtfeld geworden. Wirtschaftsministerin Katherina Reiche (CDU, Ex-E.ON-Vorstand) will Solarförderung streichen, Windkraft-Entschädigungen kappen und 20 neue Gaskraftwerke ausschreiben — während ihr Ministerium nachweislich Lobbypapiere gegen Batteriespeicher bei Energiekonzernen anfordert.
+Deutschlands Haushaltsstrom gehört zu den teuersten der EU: Im ersten Halbjahr 2026 kostete er laut Eurostat gut 36 Cent je Kilowattstunde, mehr zahlten nur Haushalte in Irland; der EU-Durchschnitt lag bei gut 28 Cent ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics)). Die Energiewende war als Doppelprojekt gedacht — Klimaschutz und industrielle Modernisierung. Stattdessen ist sie zum politischen Schlachtfeld geworden. Wirtschaftsministerin Katherina Reiche (CDU), bis 2025 Vorstandsvorsitzende der E.ON-Tochter Westenergie, wollte die Einspeisevergütung für neue kleine Dachanlagen abschaffen, will Windkraft-Entschädigungen kappen und lässt zunächst 12 Gigawatt neue Kraftwerksleistung ausschreiben, vor allem Gaskraftwerke — während ihr Ministerium laut Spiegel beim Energiekonzern EnBW Vorschläge für Ausschreibungskriterien erbat, die Batteriespeicher benachteiligt hätten.
 
 Die Ironie: Die Lösungen existieren. Batterien sind billiger denn je, Solarstrom kostet ein Zehntel von 2010, Geothermie und Bürgerenergie zeigen Wege. Die Blockade ist nicht technisch — sie ist politisch.
 
@@ -41,11 +45,11 @@ Die Ironie: Die Lösungen existieren. Batterien sind billiger denn je, Solarstro
 
 ### Die höchsten Strompreise Europas — aber warum?
 
-Der deutsche Haushaltsstrompreis setzt sich zusammen aus Erzeugung (~8 ct), Netzentgelten (~9 ct), Steuern/Abgaben (~13 ct) und Vertrieb (~8 ct). Nur ein Drittel hat direkt mit der Energiewende zu tun. Der Rest sind Netzkosten, die durch verschleppten Leitungsbau und politische Fehlsteuerung entstehen, plus Steuern, die unabhängig von der Energiequelle anfallen.
+Der Haushaltsstrompreis von durchschnittlich gut 37 Cent je Kilowattstunde besteht laut BDEW (Oktober 2026) zu gut 15 Cent aus Beschaffung und Vertrieb, zu gut 9 Cent aus Netzentgelten und zu knapp 13 Cent aus Steuern, Abgaben und Umlagen; die EEG-Umlage zahlen Haushalte seit 2023 nicht mehr ([BDEW 2026](https://www.bdew.de/media/documents/BDEW_Strompreisanalyse_102026_1.pdf)). Ein Teil der Netzkosten entsteht durch verschleppten Leitungsbau und politische Fehlsteuerung, die Steuern fallen unabhängig von der Energiequelle an.
 
-[[Presseclub — Reiches Energiewende]] zeigt: 6,5 Mrd. € zahlt der Steuerzahler jährlich allein als Zuschuss zu den Netzentgelten. Der Redispatch — das Ausgleichen von Netzengpässen — kostet weitere 1,5–3 Mrd. € pro Jahr, weil Strom im Norden produziert und im Süden verbraucht wird, die Leitungen aber fehlen.
+[[Presseclub — Reiches Energiewende]] rückt die Netzkosten in den Blick. 2026 zahlt der Bund 6,5 Mrd. € als Zuschuss zu den Übertragungsnetzkosten, für 2027 bis 2029 je 5,5 Mrd. € ([Bundestag 2026](https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-uebertragungsnetzkosten-1232592)). Das Netzengpassmanagement kostete 2024 und 2025 jeweils rund 3 Mrd. € ([hib 2026](https://www.bundestag.de/presse/hib/kurzmeldungen-1210750)), weil Strom im Norden erzeugt und im Süden verbraucht wird, die Leitungen aber fehlen.
 
-[[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] ergänzt die geopolitische Dimension: Der Iran-Krieg blockiert 20 % des Öltransits durch die Straße von Hormus. Deutschland importierte seit 1990 für über 2 Billionen Euro fossile Brennstoffe — jede Krise im Nahen Osten schlägt direkt auf die Energiepreise durch.
+[[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] ergänzt die geopolitische Dimension: Der Iran-Krieg hat die Straße von Hormus faktisch geschlossen, durch die zuvor rund ein Fünftel des weltweit verbrauchten Öls floss ([IWF 2026](https://www.imf.org/en/blogs/articles/2026/07/15/the-oil-market-absorbed-the-war-shock-but-buffers-are-running-low)). Seit 2008 importierte Deutschland laut KfW im Schnitt jedes Jahr fossile Brennstoffe für 81 Mrd. € ([KfW 2025](https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/News-Details_847360.html)) — jede Krise im Nahen Osten schlägt direkt auf die Energiepreise durch.
 
 [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]] liefert den aktuellen Beleg: BP hat Q1/2026 seinen Gewinn auf 3,2 Mrd. USD verdoppelt — obwohl der Konzern selbst kaum direkt vom Irankrieg betroffen ist. Die Gewinne stammen aus Handelsmarkt-Preissprüngen. Oxfam erwartet 94 Mrd. USD Gewinn für die sechs größten Fossilkonzerne 2026. Die Preisexplosion trifft Verbraucher, die Gewinne fließen an Aktionäre — ein systemischer Mechanismus, keine Ausnahme.
 
@@ -55,9 +59,9 @@ Der deutsche Haushaltsstrompreis setzt sich zusammen aus Erzeugung (~8 ct), Netz
 
 ### Drehtür-Lobbyismus: Wer schreibt die Gesetze?
 
-[[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] dokumentiert den Mechanismus: Reiche war E.ON/Westenergie-Vorstand, bevor sie Wirtschaftsministerin wurde. Ihr Ministerium schützt Netzbetreiber vor Druck, fordert 10-jährige Sperrfristen für neue Wind-/Solaranlagen in Netzengpass-Gebieten — und verschiebt das Investitionsrisiko auf die Erzeuger.
+[[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] dokumentiert den Mechanismus: Reiche leitete bis 2025 als Vorstandsvorsitzende die E.ON-Tochter Westenergie, bevor sie Wirtschaftsministerin wurde. Ihr Ministerium schützt Netzbetreiber vor Druck, fordert 10-jährige Sperrfristen für neue Wind-/Solaranlagen in Netzengpass-Gebieten — und verschiebt das Investitionsrisiko auf die Erzeuger.
 
-[[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]] enthüllt den Spiegel-Befund: Reiches Ministerium hat aktiv Lobbypapiere gegen Batteriespeicher bei EnBW und RWE *angefordert* — nicht umgekehrt. Das Ministerium initiierte die Argumente gegen eine Technologie, die es eigentlich fördern sollte.
+[[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]] greift den Spiegel-Bericht vom April 2026 auf: Das Ministerium bat EnBW um Vorschläge zur 10-Stunden-Regel; EnBW bestätigte das, das Ministerium dementierte es nicht. Die Vorschläge hätten Batteriespeicher gegenüber Gaskraftwerken benachteiligt. Ein ähnliches RWE-Papier soll laut Handelsblatt ebenfalls auf Wunsch des Ministeriums entstanden sein; die Bundesregierung ließ die Frage danach in ihrer Antwort offen ([cleanthinking 2026](https://www.cleanthinking.de/kraftwerkssicherheitsgesetz-reiche-enbw-rwe/), [Antwort der Bundesregierung 21/6474](https://dserver.bundestag.de/btd/21/064/2106474.pdf)). Nach unserer Lesart holte sich das Ministerium damit Argumente gegen eine Technologie, die es eigentlich fördern sollte, bei einem Bieter der eigenen Ausschreibung.
 
 [[ARTE — Forschung Fake und faule Tricks]] liefert das historische Muster: **Agnotologie** — die industrielle Produktion von Unwissen. Dieselbe Tabak-Strategie (*„Doubt is our product"*) wird auf Klima und Energie übertragen. Reiches Batterie-Ausschluss durch die 10-Stunden-Mindestlaufzeit ist zeitgenössische Agnotologie: nicht offene Ablehnung, sondern technische Kriterien, die gezielt bestimmte Technologien ausschließen.
 
@@ -77,21 +81,21 @@ Der deutsche Haushaltsstrompreis setzt sich zusammen aus Erzeugung (~8 ct), Netz
 
 ### Kernenergie: Die ewige Ablenkung
 
-[[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] dekonstruiert den Kernenergie-Hype mit Zahlen: Olkiluoto (Finnland): von 3 auf 11 Mrd. € (+267 %, 14 Jahre Verzug). Flamanville (Frankreich): von 3,3 auf 23,7 Mrd. € (+618 %). CO₂-Bilanz bei schlechteren Erzen: 40–100+ g/kWh. IEA-Prognose: Nuklearanteil weltweit sinkend (10 % → 8 % bis 2050). SMRs frühestens 2040–2050 marktreif.
+[[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] dekonstruiert den Kernenergie-Hype mit Zahlen: Olkiluoto (Finnland): von 3 auf 11 Mrd. € (+267 %, 14 Jahre Verzug). Flamanville (Frankreich): von 3,3 auf 23,7 Mrd. € (+618 %). CO₂-Bilanz bei schlechteren Erzen: 40–100+ g/kWh. Kernkraft liefert heute knapp ein Zehntel des Weltstroms. Die ersten kommerziellen SMR sollen nach Einschätzung der IEA um 2030 in Betrieb gehen, in Kanada ist der erste im Bau ([IEA](https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary)); ob sie die versprochenen Kosten erreichen, ist offen.
 
 Buchinger zeigt: Die Kernenergie-Debatte ist ein **Fossil-Lobby-Werkzeug** — solange über AKW-Rückkehr diskutiert wird, werden keine Erneuerbaren gebaut. Die CDU-Forderung nach „Technologieoffenheit" ist ein rhetorischer Trick: offen für alles *außer* den schnellsten und günstigsten Lösungen.
 
-→ [Lösungsansatz ↓](#fakten-basierte-technologiebewertung)
+→ [Lösungsansatz ↓](#faktenbasierte-technologiebewertung)
 
 ---
 
 ### Die neue Nachfrage: Wird KI zum trojanischen Pferd der Atomkraft?
 
-Bisher drehte sich dieses Panorama um die *Angebotsseite* — wer baut welche Erzeugung, wer blockiert sie. Doch seit 2025 verschiebt sich die Debatte: Die **Nachfrage** explodiert, und zwar aus Quellen, die es bei Beginn der Energiewende kaum gab. Die IEA (*Energy and AI*, 2025) beziffert den Stromverbrauch der Rechenzentren auf **460 TWh (2024) → über 1.000 TWh (2030)** — der KI-Anteil allein wuchs 2025 um 50 %. Dazu kommen E-Mobilität, Wärmepumpen und Industrie-Elektrifizierung: Das Fraunhofer-ISE-Szenario (REMod-Modell, *Wege zu einem klimaneutralen Energiesystem*) rechnet mit einer **Verdopplung bis Verdreifachung des deutschen Stromverbrauchs auf 1.150–1.650 TWh bis 2045**.
+Bisher drehte sich dieses Panorama um die *Angebotsseite* — wer baut welche Erzeugung, wer blockiert sie. Doch seit 2025 verschiebt sich die Debatte: Die **Nachfrage** explodiert, und zwar aus Quellen, die es bei Beginn der Energiewende kaum gab. Die IEA (*Energy and AI*, 2025) beziffert den Stromverbrauch der Rechenzentren auf **415 TWh (2024)** und rund **945 TWh (2030)**; Rechenzentren mit Schwerpunkt KI verbrauchten 2025 laut IEA 50 % mehr Strom als im Vorjahr ([IEA 2026](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary)). Dazu kommen E-Mobilität, Wärmepumpen und Industrie-Elektrifizierung: Das Fraunhofer-ISE-Szenario (REMod-Modell, *Wege zu einem klimaneutralen Energiesystem*) rechnet mit einem Anstieg des deutschen Stromverbrauchs von gut 500 TWh auf **1.100 bis 1.550 TWh bis 2045**, gut das Doppelte bis Dreifache.
 
-Genau diese Nachfrageexplosion liefert die neue Begründung für die Atom-Rückkehr — der nächste Akt der „ewigen Ablenkung". [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] dokumentiert, wie die Union Small Modular Reactors als Antwort auf den Strombedarf inszeniert (Söders „Blaupause made in Bavaria", Reiche als Befürworterin). International treiben die Tech-Konzerne dasselbe Narrativ: Microsoft reaktiviert Three Mile Island, Amazon investiert in den SMR-Bauer X-energy, Google kauft bei Kairos Power. Das Argument lautet stets: *„So viel verlässliche Grundlast schaffen Erneuerbare nicht."*
+Genau diese Nachfrageexplosion liefert die neue Begründung für die Atom-Rückkehr — der nächste Akt der „ewigen Ablenkung". [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] dokumentiert, wie die Union Small Modular Reactors als Antwort auf den Strombedarf inszeniert (Söders „Blaupause made in Bavaria", Reiche als Befürworterin). International treiben die Tech-Konzerne dasselbe Narrativ: Microsoft kauft 20 Jahre lang den Strom aus Three Mile Island, das der Betreiber Constellation dafür wieder anfährt, Amazon investiert in den SMR-Bauer X-energy, Google kauft bei Kairos Power. Das Argument lautet stets: *„So viel verlässliche Grundlast schaffen Erneuerbare nicht."*
 
-Die Studienlage hält dagegen — und das ist der entscheidende Punkt: Die großen Machbarkeitsanalysen (Jacobson für 145+ Länder, LUT/Breyer für ein globales 100 %-System bis 2050, Fraunhofer ISE für Deutschland) haben die Nachfrage-Verdopplung **bereits eingepreist** und kommen trotzdem zum Schluss, dass die vollständige Elektrifizierung mit Erneuerbaren der *kostengünstigste* Pfad ist. Die ehrliche Einschränkung der Kritiker (Clack et al., PNAS 2017): Nicht die ersten 90 % sind das Problem, sondern die letzten 5–10 % — die seltene, lange Dunkelflaute, deren rein erneuerbare Absicherung überproportional teuer wird. Genau diese Lücke ist die legitime Einfallstür fürs Atom-Argument.
+Die Studienlage hält dagegen — und das ist der entscheidende Punkt: Die großen Machbarkeitsanalysen (Jacobson für 145+ Länder, LUT/Breyer für ein globales 100 %-System bis 2050, Fraunhofer ISE für Deutschland) haben die Nachfrage-Verdopplung **bereits eingepreist** und kommen trotzdem zum Schluss, dass die vollständige Elektrifizierung mit Erneuerbaren der *kostengünstigste* Pfad ist. Die ehrliche Einschränkung der Kritiker: Clack u. a. halten Jacobsons US-Modell für fehlerhaft und warnen vor der Annahme eines raschen, billigen Übergangs fast nur mit Wind, Sonne und Wasser ([Clack u. a. 2017](https://doi.org/10.1073/pnas.1610381114), Kommentar mit Nachrechnung). Modellrechnungen wie die von Sepulveda u. a. zeigen, dass feste CO₂-arme Kraftwerke die Kosten eines voll dekarbonisierten Systems deutlich senken ([Sepulveda u. a. 2018](https://doi.org/10.1016/j.joule.2018.08.006), Modellstudie), vor allem wegen der seltenen, langen Dunkelflaute, deren rein erneuerbare Absicherung überproportional teuer wird. Genau diese Lücke ist die legitime Einfallstür fürs Atom-Argument.
 
 Der übersehene Twist: Rechenzentren und E-Autos sind nicht nur *Last*, sondern **Flexibilität**. KI-Training muss nicht nachts mit Atomstrom laufen — es kann sich nach dem Solarangebot richten. Eine flexibel ladende E-Auto-Flotte ist der größte verteilte Speicher, den es je gab (→ [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]). Verschiebbare Last halbiert das Grundlast-Problem. Die Panorama-Kernthese gilt damit auch hier: Der Bedarf ist real — aber wer die „Grundlast-Lücke" definiert, definiert auch, wer sie füllen darf. Big Tech und Union bevorzugen Atom und Gas, weil es ihr Geschäftsmodell *(immer an, nie nachdenken)* am wenigsten stört — nicht, weil die Physik es erzwingt.
 
@@ -113,7 +117,7 @@ Northvolt scheiterte an unrealistischen Zeitplänen und ungeduldigen Investoren,
 Deutschland importiert 80 Mrd. € Rohstoffe jährlich — für Verbrenner und EVs gleichermaßen. Der Unterschied: Batterie-Rohstoffe werden einmal verbaut und halten 10–15 Jahre. Öl verbrennt jedes Jahr neu. Strukturell ist das ein völlig anderes Abhängigkeitsproblem.
 
 **Mythos 3 — China setzt auf Kohle, Großbatterien sind teuer.**
-China hat 38–42 % Erneuerbare im Mix und installierte 2025 über 315 GW Solar und 119 GW Wind — mehr als jedes andere Land, in einem Jahr. Batteriespeicher sind bereits günstiger als Gaskraftwerk-Regelenergie; der globale Investitionsmarkt wuchs 2025 um über 40 %. Deutschland bremst durch Regulierung.
+China erzeugte 2025 gut ein Drittel seines Stroms aus Wasser, Wind und Sonne, mit Kernkraft 42 % ([Ember 2026](https://ember-energy.org/latest-insights/global-electricity-review-2026/major-countries-and-regions)), und installierte über 315 GW Solar und 119 GW Wind — mehr als jedes andere Land, in einem Jahr. Batteriespeicher sind bereits günstiger als Gaskraftwerk-Regelenergie; der globale Investitionsmarkt wuchs 2025 um über 40 %. Deutschland bremst durch Regulierung.
 
 **Mythos 4 — Merit Order: Batterien nützen nichts, solange Gas den Preis setzt.**
 Das Prinzip stimmt — aber es ist kein Naturgesetz, sondern ein Mechanismus, der veränderbar ist. Die Ukraine-Krise 2022 zeigte, wie Gaspreise die Stromrechnung dominierten, obwohl die Versorgung stabil blieb. Die Lösung: Erneuerbare plus Speicher verdrängen Gas Schritt für Schritt aus dem Preissetzungsmechanismus — nur zusammen, nicht getrennt.
@@ -122,10 +126,10 @@ Das Prinzip stimmt — aber es ist kein Naturgesetz, sondern ein Mechanismus, de
 Biogas als Regelenergie ist eine gute Idee — Dänemark macht es vor. Aber die Infrastruktur fehlt, Aufreinigung ist teuer, regionale Verfügbarkeit ungleich. Batterien können Sekunden bis Stunden überbrücken; Biogas wäre eine sinnvolle Ergänzung, kein Ersatz.
 
 **Mythos 6 — Wir laden E-Autos mit Kohlestrom aus Polen.**
-60 % der deutschen Stromimporte kommen aus Dänemark und Skandinavien — also Grünstrom. Frankreichs Atomstrom-Anteil liegt bei 1–2 %. Gleichzeitig importiert Deutschland 98 % seines Erdöls und Erdgases aus Ländern mit „seltsamen Herrschersystemen" — dort schlägt niemand Alarm.
+Nach Fichtner sind etwa 60 % der Importe Grünstrom. Die größten Lieferanten waren 2025 Dänemark (12,4 TWh), Frankreich (11,2), die Niederlande (8,4) und Norwegen (7) von zusammen 76,2 TWh; nach Polen exportiert Deutschland im Saldo mehr, als es von dort bezieht ([Fraunhofer ISE 2026](https://www.ise.fraunhofer.de/de/presse-und-medien/presseinformationen/2026/oeffentliche-stromerzeugung-2025-wind-und-solar-erstmals-als-doppelspitze.html)). Gemessen am ganzen deutschen Verbrauch bleibt der Atomstrom aus Frankreich klein, Fichtner nennt 1 bis 2 %. Gleichzeitig importiert Deutschland rund 98 % seines Erdöls und 95 % seines Erdgases ([UBA](https://www.umweltbundesamt.de/daten/energie/primaerenergiegewinnung-importe)), teils aus Ländern mit „seltsamen Herrschersystemen" — dort schlägt niemand Alarm.
 
 **Mythos 7 — E-Auto-Batterien verlieren 20 % beim Laden.**
-Die Rundlaufeffizienz liegt bei 10–15 %, nicht 20 %. Das eigentliche Problem ist der Ladekartendschungel: fehlende Preistransparenz an öffentlichen Säulen. Italien zeigt, wie es geht — Preis an der Säule, Zahlung per EC-Karte, wie beim Tanken.
+Die Verluste liegen nach Fichtner bei 10 bis 15 %, nicht bei 20 %; laut ADAC sind es an der Wallbox 5 bis 7 %, an der Haushaltssteckdose 13 bis 24 % ([ADAC 2026](https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/ladeverluste-elektroauto-studie/)). Das eigentliche Problem ist der Ladekartendschungel: fehlende Preistransparenz an öffentlichen Säulen. Italien zeigt, wie es geht — Preis an der Säule, Zahlung per EC-Karte, wie beim Tanken.
 
 **Mythos 8 — Elektrifizierung treibt den Strompreis.**
 Der Strompreis hängt am Gaspreis, nicht an der Stromnachfrage (Merit Order). Mehr EVs allein machen Strom nicht teurer — der Gaspreis tut es. Die Lösung ist dieselbe wie in Mythos 4.
@@ -134,7 +138,7 @@ Der Strompreis hängt am Gaspreis, nicht an der Stromnachfrage (Merit Order). Me
 Über den Lebenszyklus stößt ein E-Auto im deutschen Strommix ca. 60–65 % weniger CO₂ aus als ein Verbrenner. Der Herstellungsaufwand ist im Vergleich zu kumulierten Auspuffemissionen über die Lebensdauer klein — und mit steigendem Erneuerbare-Anteil wächst der Vorteil jedes Jahr.
 
 **Mythos 10 — Batterieschrott landet in Kinderhänden in Afrika.**
-Die Bilder sind real — aber sie zeigen Blei-Akkus aus Verbrennern und Consumer-Electronics, keine 500-kg-Traktionsbatterien. EV-Batterien sind durch die EU-Batterierichtlinie reguliert: Pflicht-Rücknahmesysteme, 65 % Recyclingquote (steigend), 38 spezialisierte Recycler in Europa. Das eigentliche Problem: Die Batterien halten länger als erwartet — zu wenige kommen bisher überhaupt im Recycling an.
+Die Bilder sind real — aber sie zeigen Blei-Akkus aus Verbrennern und Consumer-Electronics, keine 500-kg-Traktionsbatterien. EV-Batterien sind durch die EU-Batterieverordnung reguliert: Pflicht-Rücknahmesysteme und eine Recyclingeffizienz von 65 % für Lithium-Batterien bis Ende 2025, 70 % bis 2030 ([EUR-Lex](https://eur-lex.europa.eu/eli/reg/2023/1542/oj/deu)). Das eigentliche Problem: Die Batterien halten länger als erwartet — zu wenige kommen bisher überhaupt im Recycling an.
 
 → [Lösungsansatz ↓](#speicher-first-strategie)
 
@@ -142,7 +146,7 @@ Die Bilder sind real — aber sie zeigen Blei-Akkus aus Verbrennern und Consumer
 
 ### Batteriespeicher: Die ignorierte Lösung
 
-[[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] liefert die Zahlen, die in Reiches Gesetzentwürfen fehlen: Batteriespeicher wachsen weltweit mit 50 % p.a., sind systemstabilisierend und durch den Lithium-Ionen-Preisverfall radikal günstiger geworden. Die Bundesnetzagentur unterschätzt den Ausbau systematisch (2 GW statt tatsächlich 16,6 GW).
+[[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] liefert die Zahlen, die in Reiches Gesetzentwürfen fehlen: Batteriespeicher wachsen weltweit mit 50 % p.a., sind systemstabilisierend und durch den Lithium-Ionen-Preisverfall radikal günstiger geworden. Im Video nennt Goldbach einen Bericht der Bundesnetzagentur mit nur 2 GW Speicherleistung. Ende 2025 waren in Deutschland Batteriespeicher mit knapp 16 GW und 25,5 GWh in Betrieb, gut vier Fünftel davon Heimspeicher; die 2 GW passen allein zu den Großspeichern ([pv magazine 2026](https://www.pv-magazine.de/2026/01/06/weniger-neue-batteriespeicher-2025-installiert-aber-mit-mehr-kapazitaet/)).
 
 Reiches 10-Stunden-Mindestlaufzeit für die Kapazitätsausschreibung schließt Batterien faktisch aus. Der Presseclub-Journalist Florian Güßgen nennt sie die *„Fressfeinde der Gaskraftwerke"*, die von Reiche weggeschossen werden. Dabei können Batterien Lastspitzen von 3–4 Stunden ausgleichen, Tag-Nacht-Verschiebung leisten und das Netz stabilisieren — für einen Bruchteil der Gaskraftwerkskosten.
 
@@ -156,13 +160,13 @@ China hat in H1-2025 mehr Solarkapazität zugebaut (210 GW) als Deutschland in 2
 
 ## Ursachen
 
-**Drehtür-Effekt:** Reiche ist nicht der erste Fall — Patrick Graichen (Habecks Staatssekretär) kam von der Energiewende-Lobby, Reiche von der Fossilenergie-Lobby. Beide Seiten platzieren Personal. Der Unterschied: Reiches Ministerium hat nachweislich Lobbypapiere *angefordert* — das ist eine qualitative Eskalation.
+**Drehtür-Effekt:** Reiche ist nicht der erste Fall. Patrick Graichen (Habecks Staatssekretär) hatte zuvor den klimapolitischen Thinktank Agora Energiewende geleitet, Reiche kam aus dem Vorstand eines Energiekonzerns. Beide Seiten bringen Personal in die Ministerien. Der Unterschied: Bei Reiches Ministerium ging die Bitte um Vorschläge laut EnBW vom Ministerium selbst aus.
 
-**Netzausbau-Verschleppung:** Der SüdLink (Nord-Süd-Stromtrasse) war politisch jahrelang blockiert, weil Bayern Freileitungen ablehnte (Erdverkabelung = 3× teurer). Windgenehmigungen brauchen 17 Monate, Netzausbau 10–15 Jahre — die Asymmetrie erzeugt strukturell Überangebot im Norden und Mangel im Süden.
+**Netzausbau-Verschleppung:** Der SüdLink (Nord-Süd-Stromtrasse) war politisch jahrelang blockiert, weil Bayern Freileitungen ablehnte (Erdkabel kosten je Kilometer das Drei- bis Zehnfache). Windgenehmigungen brauchen 17 Monate, Netzausbau 10–15 Jahre — die Asymmetrie erzeugt strukturell Überangebot im Norden und Mangel im Süden.
 
-**Fossile Pfadabhängigkeit:** 2 Billionen Euro fossile Importe seit 1990 haben eine Industrie geschaffen, die an ihrem Geschäftsmodell festhält. [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] zeigt: Die Tankrabatt-Politik subventioniert genau die Abhängigkeit, die sie angeblich bekämpfen will. BPs Strategie „Back to Black" und Shells Kauf des Fracking-Produzenten ARC Resources (16,4 Mrd. USD) zeigen: Die Branche verdoppelt den Einsatz statt umzusteuern — solange die Krisen Rekordgewinne liefern, gibt es keinen internen Transformationsdruck.
+**Fossile Pfadabhängigkeit:** Fossile Importe von im Schnitt 81 Mrd. € im Jahr haben eine Industrie gestützt, die an ihrem Geschäftsmodell festhält. [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] zeigt: Die Tankrabatt-Politik subventioniert genau die Abhängigkeit, die sie angeblich bekämpfen will. BPs Strategie „Back to Black" und Shells Kauf des Fracking-Produzenten ARC Resources (16,4 Mrd. USD) zeigen: Die Branche verdoppelt den Einsatz statt umzusteuern — solange die Krisen Rekordgewinne liefern, gibt es keinen internen Transformationsdruck.
 
-**Einheitliche Stromzone:** Deutschland hat — anders als Skandinavien, Italien oder Großbritannien — nur eine Strompreiszone. Netzengpässe werden nicht über den Preismechanismus gelöst, sondern über Redispatch — teuer und ineffizient. Eine Aufteilung wird blockiert von Bayern und den Übertragungsnetzbetreibern.
+**Einheitliche Stromzone:** Deutschland bildet mit Luxemburg nur eine Strompreiszone, anders als Schweden, Norwegen, Dänemark oder Italien. Netzengpässe werden nicht über den Preismechanismus gelöst, sondern über Redispatch — teuer und ineffizient. Eine Aufteilung wird blockiert von Bayern und den Übertragungsnetzbetreibern.
 
 **Agnotologie:** [[ARTE — Forschung Fake und faule Tricks]] dokumentiert die Genealogie: Tabak → Klima → Energie. Dieselben Akteure, dieselben Methoden, derselbe Zweck: Zweifel produzieren, um Regulierung zu verzögern.
 
@@ -184,9 +188,9 @@ Verbundene Notes: [[Presseclub — Reiches Energiewende]] · [[MONITOR — Energ
 
 [[Michael Sterner — Reiche gegen Marktwirtschaft]] liefert dazu den konkreten Gesetzes-Scan: Drei Paragraphen im StromVKG (10+1-Stunden-Regel, 50%-Resilienz-Klausel, Poolregelungsverbot) sperren Batterien systematisch aus. Und zeigt gleichzeitig zwei Technologien, die bei echtem Wettbewerb antreten könnten:
 
-**CO2-Batterie (Energy Dome):** Kommerziell erprobt in Italien, 20 MW / 200 MWh, 8–24 Stunden Speicher, 70 %+ Wirkungsgrad. Nutzt Standard-Industriekomponenten, geschlossener Kreislauf (CO2-Verflüssigung/-Verdampfung). Kommt an KI-Rechenzentren in Texas.
+**CO2-Batterie (Energy Dome):** Kommerziell erprobt in Italien, 20 MW / 200 MWh, 8–24 Stunden Speicher, 70 %+ Wirkungsgrad. Nutzt Standard-Industriekomponenten, geschlossener Kreislauf (CO2-Verflüssigung/-Verdampfung). Google hat 2025 eine Partnerschaft mit Energy Dome geschlossen, um weitere Anlagen zu bauen.
 
-**Eisen-Luft-Speicher (Ore Energy):** 100 Stunden Speicherdauer aus Eisen, Wasser, Luft — keine seltenen Erden, kein Lithium. Wirkungsgrad 30–40 % (vergleichbar Power-to-Gas), aber extrem günstige Materialien. Reifegrad 7–8, auf dem Vormarsch als Mittel- bis Langfristspeicher.
+**Eisen-Luft-Speicher (Ore Energy):** 100 Stunden Speicherdauer aus Eisen, Wasser, Luft — keine seltenen Erden, kein Lithium. Einen Wirkungsgrad hat Ore noch nicht veröffentlicht; der Vorteil sind extrem günstige Materialien. Reifegrad 7–8, auf dem Vormarsch als Mittel- bis Langfristspeicher.
 
 Beide Technologien machen die Absurdität des StromVKG sichtbar: Das Gesetz zementiert Gaskraft auf 15 Jahre — während die Alternativen marktreif werden.
 
@@ -216,7 +220,7 @@ Verbundene Notes: [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Unte
 
 ### Transparenz und Drehtür-Regulierung
 
-✅ **Trägt bei** — Karenzzeit für den Wechsel zwischen Energiekonzernen und Ministerien, stärkere Lobbyregister-Kontrolle, Offenlegungspflicht für ministerielle Anfragen an Unternehmen. Der Reiche-Fall zeigt: Das bestehende System verhindert nicht einmal, dass ein Ministerium selbst Lobbypapiere gegen die eigene Politik anfordert.
+✅ **Trägt bei** — Karenzzeit für den Wechsel zwischen Energiekonzernen und Ministerien, stärkere Lobbyregister-Kontrolle, Offenlegungspflicht für ministerielle Anfragen an Unternehmen. Der Fall EnBW zeigt: Das bestehende System verhindert nicht, dass ein Ministerium bei einem Bieter der eigenen Ausschreibung Kriterien für eben diese Ausschreibung erbittet.
 
 Verbundene Notes: [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]] · [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 
@@ -228,7 +232,7 @@ Verbundene Notes: [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltsku
 
 Verbundene Notes: [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] · [[Gesine Schwan — Macht NEU DENKEN]] · [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] · [[erneuerbare tv — Sommerwaerme im Erdreich]]
 
-Die Bürgerwerke bündeln inzwischen fast 100 lokale Energiegenossenschaften — [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] zeigt, wie das konkret funktioniert: 100 € Eintritt, eine Person = eine Stimme, Insolvenzquote 0,1 %, und die HEG hat letztes Jahr so viel zugebaut wie in neun Jahren zuvor zusammen. 47 % der Erneuerbaren-Kapazität war 2012 in Bürgerhand. Das ist nicht idealistisches Wunschdenken — es ist die Realität, die politisch zu wenig gefördert wird.
+Die Bürgerwerke bündeln inzwischen über 150 lokale Energiegenossenschaften — [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] zeigt, wie das konkret funktioniert: 100 € Eintritt, eine Person = eine Stimme, Insolvenzquote 0,1 %, und die HEG hat letztes Jahr so viel zugebaut wie in neun Jahren zuvor zusammen. 47 % der Erneuerbaren-Kapazität war 2012 in Bürgerhand. Das ist nicht idealistisches Wunschdenken — es ist die Realität, die politisch zu wenig gefördert wird.
 
 [[erneuerbare tv — Sommerwaerme im Erdreich]] liefert den industriellen Zwilling: **MEFA Kupferzell**, ein familiengeführtes Metallverarbeitungsunternehmen mit 200 Mitarbeitenden, das beim Neubau der Fabrik bewusst auf jeden Gasanschluss verzichtet hat. Erdabsorber speichern Sommerwärme im Erdreich, Betonkernaktivierung macht das Gebäude selbst zur thermischen Batterie, ein Eisspeicher liefert kostenfreie Kühlung als Nebenprodukt — gesteuert von einem KI-basierten Energiemanagementsystem. Das Ergebnis: **2,5 ct/kWh Wärme** (Gasmarktpreis: 6–8 ct), **1,6 ct/kWh Strom**, Amortisation in **3,5 Jahren**. Kein Förderprojekt — eine unternehmerische Entscheidung mit klarer Rendite. Was Zöckler für Bürger formuliert, gilt für den Mittelstand genauso: Dezentrale Energie bedeutet Unabhängigkeit vom Energiemarkt, lokale Wertschöpfung und — entscheidend — kein Kapitalabfluss mehr zu Energiekonzernen. Dass der Bauherr beim Bauamt erklären musste, warum er keinen Gasanschluss beantragt, sagt alles über die institutionellen Standardannahmen.
 
@@ -244,7 +248,7 @@ Verbundene Notes: [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]] · [[N
 
 ### Faktenbasierte Technologiebewertung
 
-✅ **Trägt bei** — Kernenergie-Mythen entlarven, realistische Kostenvergleiche publizieren, SMR-Zeitrahmen kommunizieren (2040–2050). Die „Technologieoffenheit"-Rhetorik wird als Verzögerungsstrategie erkannt, wenn die empirischen Fakten auf dem Tisch liegen: Solar/Wind/Speicher sind heute günstiger, schneller und skalierbarer als jede Alternative.
+✅ **Trägt bei** — Kernenergie-Mythen entlarven, realistische Kostenvergleiche publizieren, SMR-Zeitrahmen ehrlich kommunizieren (erste Anlagen um 2030, Kosten offen). Die „Technologieoffenheit"-Rhetorik wird als Verzögerungsstrategie erkannt, wenn die empirischen Fakten auf dem Tisch liegen: Solar/Wind/Speicher sind heute günstiger, schneller und skalierbarer als jede Alternative.
 
 Verbundene Notes: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] · [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
@@ -266,9 +270,9 @@ Gas wird auch langfristig Teil des Energiemixes bleiben — als Backup, als Übe
 
 Was Reiches Ansatz jedoch historisch gefährlich macht, ist das Muster dahinter — nicht die Entscheidung für Gas an sich, sondern das aktive Herausschreiben konkurrierender Technologien aus dem Wettbewerb. Das ist keine Industriepolitik, das ist Marktverzerrung zugunsten etablierter Konzerne. Das Ergebnis ist absehbar eine **Lose-Lose-Situation**: Die neuen Industrien (Speicher, Systemintegration, Wärmepumpen) entstehen woanders, die alten Konzerne bekommen Schutz statt Transformationsdruck — und Deutschland verliert auf beiden Seiten.
 
-Das Lehrstück dazu hat Peter Altmaier 2012/2013 geliefert. Die berüchtigte EEG-Novelle vom Februar 2012 — der sogenannte **„Altmaierknick"** — brach der deutschen Solarindustrie das Genick: Die Beschäftigtenzahl kollabierte von **157.000 (2011) auf 44.000 (2016)** — über 110.000 verlorene Arbeitsplätze in fünf Jahren. Q-Cells, ehemals Weltmarktführer aus dem „Solar Valley" in Sachsen-Anhalt, meldete 2012 Insolvenz an und ging an den südkoreanischen Konzern Hanwha. Solarworld folgte 2017. Solon war schon 2011 weg. China füllte die Lücke — nicht weil chinesische Panels besser waren, sondern weil der deutsche Heimatmarkt weggebrochen war. Deutschland hat damit nicht nur eine Industrie verloren, sondern die Technologieführerschaft in einem Sektor, den es selbst entwickelt hatte. Das Ergebnis: maximaler Schaden auf beiden Seiten — Industrie weg, Energiewende verzögert, Abhängigkeit von Importen erhöht.
+Das Lehrstück liegt im Jahr 2012. Im Februar beschlossen Umweltminister Norbert Röttgen und Wirtschaftsminister Philipp Rösler eine außerplanmäßige Kürzung der Solarförderung, die Staatssekretärin Katherina Reiche im März im Bundestag verteidigte ([Bundestag 2012](https://www.bundestag.de/webarchiv/textarchiv/2012/38115604_kw10_de_solar-207986)) und Röttgens Nachfolger Peter Altmaier ab Mai umsetzte. Der Einbruch beim Zubau danach heißt seither **„Altmaierknick"**. Die Zahl der Beschäftigten in der Photovoltaik fiel von knapp **150.000 (2011) auf rund 40.000 (2016)** ([pv magazine 2018](https://www.pv-magazine.de/2018/03/16/knapp-die-haelfte-aller-beschaeftigten-im-energiesektor-arbeiten-fuer-erneuerbare/)). Q-Cells, ehemals Weltmarktführer aus dem „Solar Valley" in Sachsen-Anhalt, meldete im April 2012 Insolvenz an und ging an den südkoreanischen Konzern Hanwha, Solarworld folgte 2017; Solon war schon im Dezember 2011 insolvent, unter dem Druck billiger chinesischer Module. China füllte die Lücke, mit billigeren Modulen und einem deutschen Heimatmarkt, der gerade wegbrach. Deutschland hat damit nicht nur eine Industrie verloren, sondern die Technologieführerschaft in einem Sektor, den es selbst entwickelt hatte. Das Ergebnis: maximaler Schaden auf beiden Seiten — Industrie weg, Energiewende verzögert, Abhängigkeit von Importen erhöht.
 
-Dass Altmaier nun offenbar wieder in der Nähe dieser energiepolitischen Entscheidungen auftaucht, ist kein beruhigendes Zeichen. Dasselbe Muster, zweiter Akt: nicht offene Ablehnung, sondern technische Kriterien (10-Stunden-Mindestlaufzeit, 50%-Resilienzklausel), die gezielt Technologien ausschließen — während der Rahmen als „Technologieoffenheit" verkauft wird. Journalisten sprechen bereits vom **„Reiche-Rutsch"** und der **„Reiche-Schlucht"** als Analogie zum Altmaierknick.
+Dass dieselbe Politikerin, die 2012 als Staatssekretärin die Solarkürzung verteidigte, heute als Wirtschaftsministerin den Rahmen setzt, ist kein beruhigendes Zeichen. Dasselbe Muster, zweiter Akt: nicht offene Ablehnung, sondern technische Kriterien (10-Stunden-Mindestlaufzeit, 50%-Resilienzklausel), die gezielt Technologien ausschließen — während der Rahmen als „Technologieoffenheit" verkauft wird. Ein Kommentar bei heise spricht von der **„Altmaier-Reiche-Delle"** ([heise 2026](https://www.heise.de/meinung/Die-Solarfalle-der-Katherine-Reiche-11193734.html)).
 
 Ein echter Technologiemix hingegen wäre ein **Win-Win**: Gas als Rückgrat der Versorgungssicherheit, Erneuerbare und Speicher als Kostensenkung und Unabhängigkeitshebel, lokale Industrie als Wertschöpfung — und kein Unternehmen, das aktiv gegen den Wettbewerb geschützt werden muss, weil es die Konkurrenz nicht mehr fürchten muss.
 
@@ -282,7 +286,7 @@ Verbundene Notes: [[erneuerbare tv — Sommerwaerme im Erdreich]] · [[Michael S
 
 **Die Bilanz: Energiewende wächst, Altindustrie schrumpft**
 
-Die Energiewende hat von 2019 bis 2024 die Stellenanzeigen mehr als verdoppelt: von 173.000 auf 372.500 — **jeder 26. Job in Deutschland ist heute ein Energiewende-Job**. Solar allein: von 41.500 auf 102.000 ausgeschriebene Stellen (+146 %). Wasserstoff hat sich in sechs Jahren verfünffacht. Die Infrastruktur (Netze, Speicher) braucht nochmal doppelt so viele Arbeitskräfte wie die Erneuerbare-Erzeugung selbst. Auf der anderen Seite: Die Automobilindustrie hat seit 2019 bereits 100.000 Stellen abgebaut, der VDA rechnet mit weiteren 125.000 bis 2035. Maschinenbau: -17.000 im letzten Jahr. Metallerzeugung: -12.000.
+Die Energiewende hat von 2019 bis 2024 die Stellenanzeigen mehr als verdoppelt: von 173.000 auf 372.500 — **jeder 26. Job in Deutschland ist heute ein Energiewende-Job**. Solar allein: von 41.500 auf 102.000 ausgeschriebene Stellen (+146 %). Die Infrastruktur (Netze, Speicher, Wasserstoff) sucht inzwischen rund anderthalbmal so viele Arbeitskräfte wie die Erneuerbaren-Erzeugung selbst ([Bertelsmann Stiftung 2025](https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/Studie_Energiewende_als_Jobmotor.pdf)). Auf der anderen Seite: Die Automobilindustrie hat seit 2019 bereits 100.000 Stellen abgebaut, der VDA rechnet mit weiteren 125.000 bis 2035. Maschinenbau: -17.000 im letzten Jahr. Metallerzeugung: -12.000.
 
 Auf dem Papier gleicht sich das fast aus — aber die entscheidende Frage ist nicht die Zahl, sondern der Übergang.
 
@@ -302,7 +306,7 @@ Das schließt globale Player nicht aus — im Gegenteil. Technologieführerschaf
 
 **Vertrauen in Zukunftstechnologien**
 
-Die Geschichte der Energiewende lehrt Pessimismus: Altmaierknick, Solardeckel, Reiche-Schlucht. Aber sie lehrt auch, dass Märkte schneller wachsen als Prognosen: Solar-Zubau in China 2025 — 210 GW in einem Halbjahr, mehr als Deutschland in 25 Jahren. Batteriekosten gefallen auf ein Zehntel. Wasserstoff-Stellenanzeigen verfünffacht. Die Technologien sind real, die Märkte entstehen — mit oder ohne politische Rückendeckung. Die Frage ist nur, ob Deutschland dabei ist oder wieder zuschaut.
+Die Geschichte der Energiewende lehrt Pessimismus: Altmaierknick, Solardeckel, 10-Stunden-Regel. Aber sie lehrt auch, dass Märkte schneller wachsen als Prognosen: Solar-Zubau in China 2025 — 210 GW in einem Halbjahr, mehr als Deutschland in 25 Jahren. Batteriekosten gefallen auf ein Zehntel. Die Technologien sind real, die Märkte entstehen — mit oder ohne politische Rückendeckung. Die Frage ist nur, ob Deutschland dabei ist oder wieder zuschaut.
 
 Verbundene Notes: [[erneuerbare tv — Sommerwaerme im Erdreich]] · [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] · [[Maja Goepel — Mut zur Zukunft]] · [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
@@ -328,7 +332,7 @@ Verbundene Notes: [[Ines Schwerdtner — Energiepreiskrise und das Versagen der 
 
 ✅ **Trägt bei** — [[Follow This — Die grüne Horzel in Big Oil]] zeigt einen komplementären Weg: Statt auf staatliche Regulierung zu warten, kauft sich die niederländische Non-Profit in Ölkonzerne ein und drängt über Stimmrechte auf Hauptversammlungen auf Transformation. Die Methode nutzt die Kapitallogik gegen sich selbst — nicht „rettet das Klima", sondern „wie überlebt ihr als Unternehmen, wenn die Nachfrage sinkt?"
 
-Erfolge: Shell setzte 2017 erstmals Scope-3-Ziele, Phillips 66 erhielt 2021 80 % Zustimmung. Bei BPs Hauptversammlung April 2026 kippten Aktionäre zwei Management-Anträge. ExxonMobil verklagte Follow This 2024 — ein Zeichen, dass der Ansatz wirkt, aber auch seine Grenzen hat.
+Erfolge: Shell setzte 2017 erstmals Scope-3-Ziele, Phillips 66 erhielt 2021 80 % Zustimmung. Bei BPs Hauptversammlung im April 2026 lehnten die Aktionäre zwei Anträge des Managements ab, darunter die Streichung von Klima-Offenlegungspflichten; die Resolution von Follow This hatte BP nicht zur Abstimmung zugelassen ([World Oil 2026](https://worldoil.com/news/2026/4/23/bp-shareholders-reject-key-proposals-amid-pressure-to-boost-upstream-focus/)). ExxonMobil verklagte Follow This 2024 — ein Zeichen, dass der Ansatz wirkt, aber auch seine Grenzen hat.
 
 Van Baals entscheidende Einsicht gegen Divestment: *„Wenn du verkaufst, gehen deine Anteile an noch weniger verantwortungsvolle Investoren. Nur wer Eigentümer bleibt, kann Veränderung erzwingen."*
 
@@ -339,15 +343,18 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 ## Offene Fragen
 
 - Hält Kails 104,6-GW-Rechnung auch unter der härtesten Annahme — einer Dunkelflaute, die ganz Europa zugleich trifft und den 15-GW-Skandinavien-Import wegfallen lässt?
-- Wie lange kann Reiche ihre Gaskraftwerk-Linie halten, wenn der CDU-Sozialflügel ihren Rücktritt fordert?
+- Wie lange kann Reiche ihre Gaskraftwerk-Linie halten, wenn selbst in der eigenen Partei Stimmen wie der CDA-Vize Christian Bäumler ihre Ablösung fordern ([ZDFheute, 11.04.2026](https://www.zdfheute.de/politik/deutschland/wirtschaftsministerin-reiche-kritik-cdu-sozialfluegel-baeumler-100.html))?
 - Kommt die Stromgebotszonen-Aufteilung aus Brüssel, wenn Berlin sie weiter blockiert?
 - Wird der Batteriespeicher-Markt trotz politischer Benachteiligung wachsen — einfach durch Marktdynamik?
 - Können CO2-Batterien und Eisen-Luft-Speicher trotz StromVKG-Hürden in Deutschland Fuß fassen — oder nur in Ländern mit echtem Technologiewettbewerb?
 - Wie wirkt sich der Iran-Krieg langfristig auf die fossile Abhängigkeit Deutschlands aus — Beschleuniger oder Bremse der Energiewende?
-- Wird Follow This' Strategiewechsel (Geschäftsmodell-Frage statt Klimaforderung) bei Shells Hauptversammlung am 19. Mai mehr als 20 % Zustimmung erreichen?
+- Bei Shells Hauptversammlung am 19. Mai 2026 erhielt die Resolution von Follow This 13 % Zustimmung ([Shell](https://shell.gcs-web.com/node/29266)). Was folgt daraus für die Strategie, Eigentümer zu bleiben?
 - Was passiert mit der Energiewende-Akzeptanz, wenn Dachanlagen nicht mehr gefördert werden?
 - Wird die KI- und Rechenzentrums-Nachfrage zum trojanischen Pferd für Atom und Gas — oder zwingt sie die Politik endlich zu Speicher und Lastflexibilität?
 - Wenn Tech-Konzerne (Microsoft, Amazon, Google) zu den größten Atomstrom-Käufern werden: Verschiebt sich die Energie-Lobbymacht von den klassischen Versorgern zu den Hyperscalern?
+
+> [!note] Korrigiert am 25.11.2026
+> Wir hatten geschrieben, Reiches Ministerium habe bei EnBW und RWE nachweislich Lobbypapiere gegen Batteriespeicher angefordert. Belegt ist das Ersuchen bei EnBW, vom Unternehmen bestätigt; für RWE gibt es nur einen Bericht des Handelsblatts, den die Bundesregierung weder bestätigt noch dementiert hat. Gestrichen haben wir die Andeutung, Peter Altmaier sei 2026 wieder an energiepolitischen Entscheidungen beteiligt, und zwei angebliche Schlagworte aus der Presse, für die es keinen Beleg gibt. Außerdem korrigiert: Großbritannien hat nur eine Strompreiszone, die deutschen Stromimporte kommen vor allem aus Dänemark, Frankreich, den Niederlanden und Norwegen, die Ladeverluste von E-Autos lagen im Text als „Rundlaufeffizienz“, und mehrere Zahlen waren veraltet oder verrutscht (Strompreise, Netzzuschuss, Rechenzentren, Fraunhofer-Szenarien, Solar-Beschäftigte, Bürgerwerke).
 
 ---
 
@@ -396,16 +403,16 @@ Externe Studien und Primärquellen, auf die sich dieses Panorama stützt — ins
 
 ### Nachfrage: KI, Rechenzentren & Elektrifizierung
 
-- [IEA — Energy and AI: Energy supply for AI (2025)](https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai) — Rechenzentren 460 → 1.000+ TWh bis 2030; Erneuerbare als schnellst­wachsende Quelle (~27 %, +22 %/Jahr), decken ~50 % des Zuwachses; Gas+Kohle aber >40 % der zusätzlichen Nachfrage
+- [IEA — Energy and AI: Energy supply for AI (2025)](https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai) — Rechenzentren verbrauchen 415 TWh (2024) und rund 945 TWh (2030); 460 → 1.000+ TWh ist die Erzeugung zu ihrer Versorgung; Erneuerbare als schnellst­wachsende Quelle (~27 %, +22 %/Jahr), decken ~50 % des Zuwachses; Gas+Kohle aber >40 % der zusätzlichen Nachfrage
 - [IEA — Data centre electricity use surged in 2025](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions) — KI-Verbrauch +50 % in 2025; Engpässe bei Gasturbinen, Transformatoren, Netzanschlüssen; Tech-Konzerne = ~40 % aller Unternehmens-Ökostromverträge
-- [Fraunhofer ISE — Wege zu einem klimaneutralen Energiesystem (REMod, 2024)](https://www.ise.fraunhofer.de/en/publications/studies/paths-to-a-climate-neutral-energy-system.html) — Deutschlands Stromverbrauch steigt auf 1.150–1.650 TWh bis 2045; vollständige Elektrifizierung (Wärmepumpen, BEV, Industrie) ist der kosteneffizienteste Dekarbonisierungspfad; Wind bis 308 GW, PV bis 471 GW
+- [Fraunhofer ISE — Wege zu einem klimaneutralen Energiesystem (REMod, 2024)](https://www.ise.fraunhofer.de/en/publications/studies/paths-to-a-climate-neutral-energy-system.html) — Deutschlands Stromverbrauch steigt auf 1.100–1.550 TWh bis 2045; vollständige Elektrifizierung (Wärmepumpen, BEV, Industrie) ist der kosteneffizienteste Dekarbonisierungspfad; im technologieoffenen Szenario Wind rund 290 GW, PV bis 420 GW
 
 ### Machbarkeit: 100 % Erneuerbar
 
 - [Fraunhofer ISE — Pressemitteilung Klimaneutrales Deutschland (2024)](https://www.ise.fraunhofer.de/en/press-media/press-releases/2024/achieving-climate-neutrality-fraunhofer-ise-study-shows-regional-transformation-pathways-for-german-energy-system.html) — regionale Transformationspfade, Sektorkopplung, ergänzende Rolle von Wasserstoff
 - [LUT/EWG — Global Energy System based on 100% Renewable Energy (Breyer et al.)](https://www.researchgate.net/publication/320934766_Global_Energy_System_based_on_100_Renewable_Energy_-_Power_Sector) — stündlich aufgelöstes 100 %-Szenario für alle Weltregionen bis 2050, kostengünstig; PV als Hauptträger
 - [LUT University — Researchers agree: 100 % renewable before 2050](https://www.lut.fi/en/news/researchers-agree-world-can-reach-100-renewable-energy-system-2050) — Forschungsüberblick zum Konsens des Feldes
-- [Jacobson et al. — Roadmaps to 100 % Clean, Renewable Energy (Earth's Future, 2017)](https://web.stanford.edu/group/efmh/jacobson/Articles/I/17-Earth's_Future.pdf) — Wind/Wasser/Sonne-Pfade für 145+ Länder, alle Sektoren
+- [Jacobson et al. — Roadmaps to 100 % Clean, Renewable Energy (Earth's Future, 2017)](https://web.stanford.edu/group/efmh/jacobson/Articles/I/17-Earth's_Future.pdf) — Wind/Wasser/Sonne-Pfade für 139 Länder, alle Sektoren (die Fortschreibung 2022 umfasst 145)
 - **DIW Berlin** & **Energy Watch Group** — Modellierungen zur vollständigen Dekarbonisierung des Stromsektors; die EWG datiert ein realistisches 100 %-System bereits auf 2030 (Daten-Baseline von [[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]])
 - **Umweltbundesamt (UBA)** — Lastprofile & Bruttostromverbrauchs-Szenarien (~800 TWh / 120 GW Winterspitze 2038)
 - [openPetition — gegen den Neubau fossiler Gaskraftwerke](https://www.openpetition.org/gvqkq)
@@ -439,3 +446,13 @@ Netzausbau und Genehmigungsdauer sind dort der konkrete Fall für die Frage, wor
 ### → [[Akkudoktor — SMR und drei Versprechen]]
 
 Beitrag zur Frage nach dem trojanischen Pferd: Die Nachfrage nach SMR kommt heute vor allem von Rechenzentren und Industriestandorten, während der Reaktor im Netz gegen die Mittagssonne verliert. Dazu die 400-Stunden-Rechnung, die SMR als Reserve für die Dunkelflaute ausschließt.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Eine Mindestlaufzeit von zehn Stunden kann Vorsorge für die Dunkelflaute sein oder Schutz für einen Bieter. *Woran ließe sich von außen unterscheiden, welches von beiden ein technisches Kriterium ist?*
+> - Die Drehtür dreht sich in beide Richtungen, vom Thinktank ins Ministerium und vom Konzern ins Ministerium. *Welche Wechsel sollte eine Demokratie begrenzen, und welche braucht sie, weil das Wissen sonst draußen bleibt?*
+> - Rechenzentren können Last sein oder Flexibilität. *Wer entscheidet, was sie werden: der Strompreis, der Netzbetreiber oder der Vertrag mit dem Kraftwerk nebenan?*
+> - *Was wäre das stärkste Argument für neue Gaskraftwerke, das dieses Panorama nicht ernst genug nimmt?*
