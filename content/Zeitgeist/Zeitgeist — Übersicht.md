@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*390 Notes — automatisch generiert · nach Thema sortiert*
+*395 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -176,6 +176,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]] — Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
 - [[Zeitgeist/Mats Appreciated — Fluchtgeschichten am Mauerweg|Mats Appreciated — Fluchtgeschichten am Mauerweg]] — 160 Kilometer Mauerweg, sieben Fluchtgeschichten voller Mut und Hilfsbereitschaft — und die Erkenntnis, dass unter jedem Gullideckel Hoffnung liegen kann.
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]] — Faschismus ist für Matthias Quent keine Philosophie, sondern eine Technik, und ihr Rohstoff ist Ohnmacht. Mit Maja Göpel fragt er, was dagegen hilft: Hoffnung, die aus dem Handeln kommt.
+- [[Zeitgeist/Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]] — Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum die Lücke kein Zufall ist.
 - [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]] — Ist Pazifismus Passivität oder die mühsamere Arbeit? Zwei Schriftstellerinnen und zwei Gastgeber streiten über Aufrüstung, Deserteure und darüber, was eine Stadt sicher macht.
 - [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]] — Skandale, die jede andere Partei Stimmen kosten, prallen an der AfD ab. MONITOR fragt, warum Menschen gegen ihr Interesse wählen und wie Wiederholung das Unsagbare normalisiert.
 - [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen|Morpheus — Warum alle chinesische KI nutzen]] — Sechs chinesische Spitzenmodelle in 26 Tagen, fast verschenkt. Morpheus fragt, warum sie so billig sind, was ihre Zensur verrät und welche Tür Europa sich selbst bauen müsste.
@@ -220,6 +221,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]] — Wer zehn Oldtimer besitzt, wird reicher, wer einen Gebrauchtwagen hat, ärmer. Vier Stimmen über Vermögen, das sich niemand mehr vorstellen kann, und die Frage, wem was gehört.
 - [[Zeitgeist/Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]] — Wer Moral für etwas hält, das nur Idioten glauben, hat schon verloren, bevor er streitet — Susan Neiman über die Ideologie hinter Trump und eine Linke, die sich vor dem Wort Gerechtigkeit fürchtet.
 - [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]] — Ohne Zeit keine Freiheit. Teresa Bücker hält dem Bild vom faulen Deutschland die unsichtbare Sorgearbeit entgegen und fragt, ob freie Zeit ein demokratisches Recht sein müsste.
+- [[Zeitgeist/Thomas Biebricher — Die Krise der Konservativen|Thomas Biebricher — Die Krise der Konservativen]] — Konservativ heißt bewahren. Thomas Biebricher fragt, warum ausgerechnet Konservative das disruptivste Wirtschaftssystem verteidigen, und zieht die Grenze nach rechts dort, wo jemand das Haus einreißen will.
 - [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Nicht Migration treibt die Menschen nach rechts, sagt Thomas Fricke, sondern das Gefühl, die Kontrolle über das eigene Leben zu verlieren – und Sparpolitik verstärkt es.
 - [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Tillschneider vor der Synagoge in Halle]] — Wer einen Anschlag zum Amoklauf erklärt, muss den Täter nicht verstehen — und hat beim Gedenken trotzdem einen Platz in der ersten Reihe verlangt.
 - [[Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie|Tilo Jung — Erben, Wirtschaft, AfD-Strategie]] — Wem gehört der Mehrwert, dem Gründer, der alles riskiert, oder denen, die ihn erarbeiten? Tilo Jung und der Unternehmer Tim Gabel streiten über Erbe, Eigentum und die Strategie der AfD.
@@ -363,6 +365,7 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Akkudoktor — SMR und drei Versprechen|Akkudoktor — Mini-Atomkraftwerke und drei Versprechen]] — Ein Ingenieur legt drei Versprechen der Mini-Atomkraftwerke auf den Taschenrechner. Für die Dunkelflaute taugen sie nicht, beim Rest ist die ehrlichste Antwort: Das weiß heute niemand.
 - [[Zeitgeist/Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]] — Man muss niemanden vom Gegenteil überzeugen, es genügt ein Zweifel — zwei Solar-Erklärer über die Mythen der Energiewende und die Frage, warum sie verfangen.
+- [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]] — Die Wissenschaft hat das Problem längst beschrieben, und es hat wenig geändert. Die Soziologin Anita Engels erklärt, warum die Klimawende stockt, und macht aus jedem Grund einen Ansatzpunkt.
 - [[Zeitgeist/ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)|ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] — Ein Biogas-Sack, der arbeitet wie ein Kuhmagen, ein fränkisches Dorf, das sich mit eigener Energie gegen die Landflucht stemmt: fünf Geschichten, in denen saubere Energie von unten wächst.
 - [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)|Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Für Claudia Kemfert ist fossile Energie eine Droge, und wer Sprit verbilligt, verlängert die Sucht. In der tiefsten fossilen Krise rät sie zum Ausstieg statt zum Tankrabatt.
 - [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] — Die Atomkraft bekam über Jahrzehnte mehr Förderung, die Erneuerbaren mehr je Kilowattstunde. Ungleich war vor allem, wo es stand: auf der Stromrechnung oder im Haushalt.
@@ -436,6 +439,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]] — Die KI spiegelt uns und zeichnet dabei schärfer: Markus Gabriel erklärt, warum der Westen sie als Werkzeug missversteht und warum Europa ihr eine Ethik geben könnte, die weiter reicht als Kalifornien.
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]] — Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 - [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Warum Roboter keine Beine brauchen]] — Eine Erfolgsquote von 70 Prozent heißt in der Küche: ein kaputter Teller pro Woche. Der Robotiker Ronnie Vuine rechnet dem Humanoiden-Hype die Physik vor — und der Alignment-Debatte ihr Wir.
+- [[Zeitgeist/ZDF — Weil du mir gehoerst|ZDF — Weil du mir gehörst]] — 104 Frauen wurden 2024 in Deutschland von ihrem Partner oder Ex-Partner getötet. Eine ZDF-Recherche liest ihre Akten und findet Taten, die sich ankündigen, und einen Staat, der zu spät hinsieht.
 
 ### Medien & Propaganda
 
@@ -453,6 +457,7 @@ Jede Note folgt einer eigenen Struktur:
 
 ### Weitere Stimmen
 
+- [[Zeitgeist/Christina Clemm — Gegen Frauenhass|Christina Clemm — Gegen Frauenhass]] — Frauenhass ist kein plötzliches Gefühl, sagt die Anwältin Christina Clemm, sondern eine eingeübte Haltung. Von ihr führt eine Spirale vom Schimpfwort bis zum Femizid, und härtere Strafen beenden sie nicht.
 - [[Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche|Der Dara — Merz plant 72-Stunden-Arbeitswoche]] — Ohne den gesetzlichen Acht-Stunden-Tag wären Arbeitswochen bis 72 Stunden möglich. Der Dara über die Pläne der Regierung Merz und die Gewerkschaften, die einst das Wochenende erkämpften.
 - [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] — Nach den Wahlschlappen sucht die SPD ihr Heil bei Schröder. Gilda Sahebi und Arne Semsrott über diese Sehnsucht, eine Honorarkürzung für Psychotherapie und eine Bundestagsrede von Merz.
 - [[Zeitgeist/Heinz Bude — Boomer-Soziologie|Heinz Bude — Brauchen wir eine Boomer-Soziologie?]] — Die Boomer wuchsen im Nachbeben des Weltkriegs auf, bei Eltern, die beschwiegen, was man voneinander wusste. Heinz Bude, selbst Boomer, über die Erfahrungen und Zäsuren seiner Generation.

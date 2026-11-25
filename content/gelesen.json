@@ -5,8 +5,8 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 105,
-   "aufrufe": 125
+   "leser": 104,
+   "aufrufe": 124
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -30,8 +30,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 30,
-   "aufrufe": 31
+   "leser": 29,
+   "aufrufe": 30
   },
   {
    "pfad": "/DenkerVita/Kalayo",
@@ -69,14 +69,14 @@
    "aufrufe": 14
   },
   {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-   "leser": 11,
+   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+   "leser": 12,
    "aufrufe": 12
   },
   {
-   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
    "leser": 11,
-   "aufrufe": 11
+   "aufrufe": 12
   },
   {
    "pfad": "/DenkerVita/Albert-Camus",
@@ -154,11 +154,6 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-   "leser": 6,
-   "aufrufe": 6
-  },
-  {
    "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
    "leser": 6,
    "aufrufe": 6
@@ -197,6 +192,11 @@
    "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
    "leser": 5,
    "aufrufe": 6
+  },
+  {
+   "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+   "leser": 5,
+   "aufrufe": 5
   },
   {
    "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
@@ -344,14 +344,14 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 8,
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 7,
-     "aufrufe": 7
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "leser": 8,
+     "aufrufe": 8
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -364,14 +364,14 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 5,
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
-     "leser": 5,
-     "aufrufe": 6
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 4,
+     "aufrufe": 5
     },
     {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
@@ -425,11 +425,6 @@
     },
     {
      "pfad": "/DenkerVita/Kolja-Moeller",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Mae-Bengert",
      "leser": 3,
      "aufrufe": 3
     },
@@ -489,11 +484,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Arlie-Russell-Hochschild",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 2,
      "aufrufe": 2
@@ -539,7 +529,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Ronnie-Vuine",
+     "pfad": "/DenkerVita/Mae-Bengert",
      "leser": 2,
      "aufrufe": 2
     },
@@ -579,11 +569,6 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Arolsen-Archives-Wie-Rechtsextreme-Geschichte-umdeuten",
      "leser": 2,
      "aufrufe": 2
@@ -604,7 +589,22 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "pfad": "/Zeitgeist/Marcant-und-Maren-Kindheit-in-der-Neonazi-Szene",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Uwe-Krueger-Netzwerke-der-Meinungsmacht",
      "leser": 2,
      "aufrufe": 2
     }
@@ -615,8 +615,8 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 105,
-     "aufrufe": 125
+     "leser": 104,
+     "aufrufe": 124
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -640,8 +640,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 30,
-     "aufrufe": 31
+     "leser": 29,
+     "aufrufe": 30
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -679,14 +679,14 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "leser": 11,
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 12,
      "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "leser": 11,
-     "aufrufe": 11
+     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
@@ -764,11 +764,6 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 6,
      "aufrufe": 6
@@ -807,6 +802,11 @@
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 5,
      "aufrufe": 6
+    },
+    {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "leser": 5,
+     "aufrufe": 5
     },
     {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
@@ -1024,14 +1024,14 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 18,
+     "aufrufe": 18
+    },
+    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 17,
      "aufrufe": 19
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 17,
-     "aufrufe": 17
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -1329,14 +1329,14 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 18,
+     "aufrufe": 18
+    },
+    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 17,
      "aufrufe": 19
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 17,
-     "aufrufe": 17
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -1555,8 +1555,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 24,
-     "aufrufe": 24
+     "leser": 23,
+     "aufrufe": 23
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1574,14 +1574,14 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 10,
      "aufrufe": 10
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 9,
-     "aufrufe": 9
+     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "leser": 10,
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",

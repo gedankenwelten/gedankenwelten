@@ -571,6 +571,10 @@ Die Gegenrechnung zu den Pufferlagern steht im Kurzgutachten der Ministeriumsber
 
 Webers Satz von den Krisen als Profitmomenten bekommt hier seinen Fall am Kraftstoffmarkt; Laschyk zieht daraus aber nicht den Deckel, sondern die Entflechtung, und vor dem Spritpreisdeckel steht die Warnung, der Höchstpreis werde zum Treffpunkt.
 
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Miriam Rehm zählt Weber zur Alltagsökonomie und erinnert daran, dass das Nachkriegsmodell, auf das sich beide berufen, frauenfeindlich und rassistisch war.
+
 ---
 
 ## Weiterdenken

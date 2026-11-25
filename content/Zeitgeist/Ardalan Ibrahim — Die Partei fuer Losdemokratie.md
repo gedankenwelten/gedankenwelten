@@ -387,6 +387,10 @@ Der Vortrag, den Ibrahim bei 2:33:25 empfiehlt: neunzehn Jahre Bundestag von inn
 
 Die Gegenrechnung aus dem 19. Jahrhundert. Die Historikerin Hedwig Richter erzählt, wie Reformer um 1900 die Wahl zähmten, mit amtlichem Stimmzettel, Umschlag, Kabine und Licht, damit niemand mit mehr Macht oder Geld die Stimme kontrollieren konnte. Ibrahims Satz, man habe entdeckt, dass man wählen lassen kann, ohne die Macht der Vermögenden zu gefährden, steht in ihrer Nachbesprechung neben Studien, die ihn teils stützen und teils nicht: Mit dem Frauenwahlrecht stiegen die Sozialausgaben, im Vergleich von 142 Ländern verteilten Demokratien kaum anders um als Nichtdemokratien.
 
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Die Ökonomin Miriam Rehm zitiert bei Jung & Naiv dieselbe Elsässer-Studie, markiert ihre Vereinfachung selbst und verneint die Oligarchie-Frage ausdrücklich, das Gegenstück zu Ibrahims „Aristokratie“.
+
 ---
 
 ## Weiterdenken

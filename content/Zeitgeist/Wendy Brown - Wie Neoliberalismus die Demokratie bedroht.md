@@ -338,6 +338,10 @@ Die neue Note greift Browns Aushöhlung der Demokratie auf: Im Modell überlebt 
 
 Die mildere Lesart derselben Kritik: Biebricher hält die neoliberalen Denker nicht für Antidemokraten, kritisiert aber, dass sie Wirtschaftspolitik dem demokratischen Souverän entziehen wollen. Die Marktausdehnung, Browns Kern, hält er für ein nicht zu Ende gedachtes Argument.
 
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Miriam Rehm beschreibt die hochgezogene Zugbrücke für Deutschland als Rückzug der Reichen aus dem Gemeinsamen, mit Privatuniversitäten, eigenen Krankenhäusern und Gated Communities, nennt das aber noch keine Oligarchie.
+
 ---
 
 ## Weiterdenken

@@ -266,3 +266,8 @@ Thiel als konkretes Fallbeispiel für Osnos' Analyse der Ultrareichen-Psychologi
 ### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
 
 Tiana beschreibt die Bevölkerungsseite dessen, was Osnos bei den Ultrareichen seziert: Das System das Menschen in Krankheitsinsolvenz treibt, ist genau das System, das Ultrareiche nie erleben. Tianas James ($34k für 3 Tage) und Osnos' Megayacht-Besitzer leben auf derselben Erde, in völlig verschiedenen Wirklichkeiten desselben Landes.
+
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Miriam Rehm nimmt mit Anwar Shaikhs „das ist ihr Job“ die Moral aus der Gier-Debatte, denselben Satz, den Osnos bei den Ultrareichen als Entlastung erkennt, und hält dem Bunker entgegen, dass sich niemand aus der Klimakrise auskaufen kann.
+

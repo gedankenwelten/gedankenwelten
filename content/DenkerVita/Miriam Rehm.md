@@ -93,7 +93,10 @@ Mitzudenken ist, dass ihre eigene Zahl für den Anteil der reichsten zehn Prozen
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Achim Truger|Achim Truger]] — Kollege am Duisburger Institut für Sozioökonomie und Mitautor des Lehrbuchs, das sie empfiehlt; beide stellen die Verteilung ins Zentrum der Makroökonomie.
+- [[DenkerVita/Isabella Weber|Isabella Weber]] — Rehm zählt sie zur Alltagsökonomie, die Grundbedürfnisse aus der Renditelogik nehmen will; beide heterodox geprägt, Weber mit Polanyi, Rehm mit dem Postkeynesianismus.
+- [[DenkerVita/Tom Krebs|Tom Krebs]] — von ihm übernimmt sie den Begriff der geplanten Marktwirtschaft und den Einwand gegen die Aufrüstung als Wachstumsprogramm; wie er hält sie Staatseigentum für kein Allheilmittel.
+- [[DenkerVita/Martyna Linartas|Martyna Linartas]] — beide setzen beim Vermögen an statt beim Einkommen und nennen dynastisches Vermögen zentral; Rehm sagt aber, ob die Ungleichheit gestiegen sei, lasse sich mit den Daten nicht sagen.
 
 ## Gedankenwelten-Notes
 

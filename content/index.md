@@ -38,13 +38,13 @@ Die Gedankenwelten (luc)
 
 > **25.11.** — [[Zeitgeist/Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
 >
-> Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum die Lücke kein Zufall ist.
+> Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum sie die Lücke nicht für Zufall hält.
 
-> **25.11.** — [[Zeitgeist/Christina Clemm — Gegen Frauenhass|Christina Clemm — Gegen Frauenhass]]
+> **25.11.** — [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
 >
-> Frauenhass ist kein plötzliches Gefühl, sagt die Anwältin Christina Clemm, sondern eine eingeübte Haltung. Von ihr führt eine Spirale vom Schimpfwort bis zum Femizid, und härtere Strafen beenden sie nicht.
+> Ein Konzernchef, den der Präsident zurück ins Amt drückt, ein Kriegsherr, den er „mein Freund“ nennt: Drei ZDF-Korrespondenten fragen, was Trump daran hat, und am Ende, was wir selbst zu geben bereit sind.
 
-> → *27 weitere in* [[Zeitgeist]]
+> → *28 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
@@ -56,6 +56,10 @@ Die Gedankenwelten (luc)
 >
 > Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
 
+> **25.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, wem gehören die Emissionen, und ist Neid ein Argument? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
 > **25.11.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 >
 > Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
@@ -63,10 +67,6 @@ Die Gedankenwelten (luc)
 > **25.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **25.11.** — [[Panorama/Wie weit darf der Staat lenken|Wie weit darf der Staat lenken?]]
->
-> Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?
 
 > → *14 weitere in* [[Panorama]]
 

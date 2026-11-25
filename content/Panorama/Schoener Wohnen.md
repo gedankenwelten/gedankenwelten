@@ -169,6 +169,10 @@ Genossenschaften als Wirtschaftsform über das Wohnen hinaus, von der Energie bi
 ### → [[Panorama/Gelebte Demokratie|Gelebte Demokratie]]
 Der Volksentscheid als Organisierung von unten: wie Menschen ein Thema setzen, statt auf die Themen anderer zu reagieren.
 
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Miriam Rehm wohnt selbst in einer Wiener Genossenschaftswohnung, nennt das einen „Riesenluxus“ und sagt offen, dass auch dort über die Vergabe gestritten wird; die Bodensteuer hält sie selbst nach neoklassischer Logik für besonders effizient.
+
 ---
 
 ## Weiterdenken

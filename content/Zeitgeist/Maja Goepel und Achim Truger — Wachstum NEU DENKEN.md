@@ -413,6 +413,10 @@ Roosens Zuckersteuer ist Trugers Pigou-Steuer auf dem Teller. Wo die Abgabe ab e
 Zwei Weise, ein Gremium: Truger beschreibt, wie eines der vier gesetzlichen Ziele die anderen frisst, Grimm verteidigt 2022 genau dieses Wachstum als vereinbar mit dem Klima, wenn die Emissionen teuer genug sind.
 
 
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Trugers Institutskollegin Miriam Rehm führt seine Liste der blinden Flecken des BIP bis in die Haushaltsdaten fort und begründet die Vermögensteuer aus der Verteilung, wo er die Erbschaftsteuer aus der Finanzierung begründet.
+
 ---
 
 ## Weiterdenken

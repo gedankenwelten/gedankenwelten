@@ -354,6 +354,10 @@ Fricke sieht den Kern des Rechtsrucks im Kontrollverlust, im unvorhersehbaren St
 
 Kaczmarczyk, der an Krebs' Kompetenzzentrum forscht, geht in der Gaskrise 2026 weiter: ein Deckel auf etwa zehn Jahre auch für Gewerbe und Haushalte. Belegt ist in seinen Papieren nur der Wert für die Industrie.
 
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Miriam Rehm übernimmt die „geplante Marktwirtschaft“ und die Rüstungsstudie mit Kaczmarczyk und teilt den Vorbehalt, dass öffentliches Eigentum allein noch nichts löst; ihr Beispiel ist die Wiener Zentralsparkasse.
+
 ---
 
 ## Weiterdenken

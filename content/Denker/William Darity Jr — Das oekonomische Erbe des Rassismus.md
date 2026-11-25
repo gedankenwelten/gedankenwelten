@@ -234,6 +234,10 @@ Beckert liefert Darity die Vorgeschichte, und beide treffen sich an einem konkre
 
 Die Gegenprobe in der Gegenwart. Darity beschreibt, was nach der Befreiung geschieht, wenn niemand die Anfangsbedingung korrigiert; Lahore zeigt die Stufe davor, in der die Befreiung selbst noch aussteht — obwohl das Gesetz sie seit 1992 vorschreibt. Beide Notes handeln von der Lücke zwischen einem Datum und einer Wirklichkeit, und beide benennen dasselbe Erklärungsmuster: Wo die Ursache aus dem Blick gerät, wandert die Schuld zu denen, die den Schaden tragen.
 
+### → [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+
+Miriam Rehm findet für Einwanderer in Österreich eine Vermögenslücke, die sich über die Generationen schließt, ein Gegenbild zu Daritys Befund, und warnt wie er davor, eine erklärte Lücke für verschwunden zu halten.
+
 ---
 
 ## Weiterdenken
