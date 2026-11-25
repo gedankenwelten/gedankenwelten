@@ -2,7 +2,7 @@
 title: "Wer macht die Meinung?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-11-14
+aktualisiert: 2026-11-25
 description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
 raetsel: "Das Band läuft aus der Presse in tausend Hände. Wo fängt der Satz an?"
 panorama-art: wachsend
@@ -123,6 +123,8 @@ Dass Staaten Propaganda machen, ist keine Frage; die Europäische Union zählte 
 
 Die überraschende Antwort der Forschung betrifft die Wirkung. Die russischen Trollkonten von 2016 erreichten auf Twitter vor allem ohnehin überzeugte Republikaner; ein Prozent der Nutzer machte siebzig Prozent der Kontakte aus, und ein Zusammenhang mit Einstellungen, Polarisierung oder Wahlverhalten fand sich nicht ([Eady et al. 2023](https://doi.org/10.1038/s41467-022-35576-9); [Bail et al. 2020](https://doi.org/10.1073/pnas.1906420116)). Ganz anders, wo ein Staat das Feld beherrscht. In Grenzgebieten der Ukraine, die russisches Fernsehen empfingen, verschoben sich 2014 die Wahlergebnisse ([Peisakhin & Rozenas 2018](https://doi.org/10.1111/ajps.12355)); in Russland senkte 1999 der einzige unabhängige Sender die Stimmen der Regierungspartei, wo man ihn empfangen konnte, um fast neun Prozentpunkte ([Enikolopov, Petrova & Zhuravskaya 2011](https://doi.org/10.1257/aer.101.7.3253)); in Ruanda steigerte das Hetzradio 1994 die Gewalt in den Dörfern, die es hören konnten ([Yanagizawa-Drott 2014](https://doi.org/10.1093/qje/qju020)). Propaganda wirkt, wo sie kein Gegenüber hat. Im offenen Wettbewerb verpufft das meiste, und groß wird eine Fälschung oft erst, wenn echte Medien über sie berichten (→ [[Wie umgehen mit Russland#Wie schützt man sich vor dem hybriden Krieg?|Wie schützt man sich vor dem hybriden Krieg?]]).
 
+Auch Deutschland ist Ziel. Für die Kampagne Storm-1516 kam das Attribuierungsverfahren der Bundesregierung zu dem Schluss, Russland habe die Bundestagswahl 2025 beeinflussen wollen, „sehr wahrscheinlich“ mit Hilfe des GRU ([BND, 12.12.2025](https://www.bnd.bund.de/DE/Service/Public-Intelligence/_functions/20251212-attribuierung-storm-1516-sa.html)); die Wirkung auf den Wahlausgang schätzt CeMAS als „beschränkt“ ein, den Schaden für den Informationsraum nicht ([CeMAS, Dossier Bundestagswahl 2025](https://btw2025.cemas.io/artikel/mit-welchen-taktiken-russland-versucht-die-bundestagswahl-zu-beeinflussen)). Offen ist der indirekte Weg: Wer Fake-News-Seiten besucht, vertraut etablierten Medien weniger, quer durch die Lager ([Ognyanova u. a. 2020](https://doi.org/10.37016/mr-2020-024), Panel mit Browserdaten, nur korrelativ).
+
 **Die Stimmen**
 
 - **[[Lars Wienand — Russentrolle und russische Desinformation#Wer macht den Fake groß?|Lars Wienand]]:** Die Fälschungen erreichen kaum jemanden; groß werden sie durch die echten Medien, die sie weitertragen.
@@ -134,13 +136,14 @@ Die überraschende Antwort der Forschung betrifft die Wirkung. Die russischen Tr
 - **[[Anat Saragusti — Zensur und Pressefreiheit in Israel#Gaza ohne Zeugen|Anat Saragusti]]:** Ein Staat kann die Berichterstattung durch Zugangssperren beschneiden, ohne einen einzigen Satz zu fälschen.
 - **[[Martin Sonneborn — Endloser Krieg#Die Kernthese Krieg als Geschäftsmodell|Martin Sonneborn]]:** Kriege werden von westlichen Medienapparaten normalisiert; die Note hält ihm Putins Großmachtlogik entgegen, die bei ihm fehlt.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#Israel, Gaza und Doppelstandards in der Berichterstattung|Torsten Heinrich]]:** Wortwahl und ungleiche Maßstäbe prägen die Berichterstattung über Israel, die Gegenlesung zu Johnson.
 - **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#Ungarn 80% der Medien unter Orbáns Kontrolle|Gilda Sahebi und Arne Semsrott]]:** Ungarn zeigt, wie ein Staat die Medien über Stiftungen, Schenkungen und das Staatsfernsehen übernimmt.
 - **[[Irina Scherbakowa und Alice Bota — Erinnern ist Widerstand#Propaganda wirkt, wo man ihr glauben will|Irina Scherbakowa]]:** Propaganda ist nur erfolgreich, wenn die Menschen ihr glauben wollen; die Formel „wir wurden angegriffen“ erspart ihnen die moralische Wahl.
 
 - **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Wen erreicht das Falsche?|Ronen Steinke]]:** Desinformation sei vor allem Munition für die ohnehin Überzeugten, und ein Gesetz dagegen wäre in der Hand eines Trump oder eines Innenministers eine Waffe gegen die Opposition.
+- **[[Zeitgeist/auslandsjournal — Trumps Buddies#Hat Russlands Desinformation die Politik verändert?|Katrin Eigendorf]]:** Man unterschätze bis heute, wie russische Kampagnen die Politik vieler Demokratien verändert hätten, sagt sie, und nennt es selbst Vermutungen.
 
 </details>
 
@@ -214,6 +217,7 @@ Politisch aber formt Unterhaltung. In italienischen Gemeinden, die Berlusconis M
 | 07.11.2026 | [[Michael Fleming — Was die Alliierten wussten#Zensur, die niemand befehlen musste\|Michael Fleming — Was die Alliierten wussten]] | Stimme ohne eigene Nachbesprechung: beratende, verinnerlichte Zensur in London 1942–44 (Bracken, BBC-Richtlinie, Times vs. Polish Jewish Observer) · Fleming 2014 |
 | 08.11.2026 | [[Fediverse - Die digitale Allmende#Nachbesprechung|Fediverse — Die digitale Allmende]] | Trägt sich eine Allmende im Netz? (Raman u. a. 2019, Anaobi u. a. 2023, Frey & Sumner 2019, Halfaker u. a. 2013; Gemeinnützigkeit entzogen 2024, Sovereign Tech Fund 2026, IFTAS 2025) · Warum bleibt man, wo man ist? (He u. a. 2023, Ng & Ray 2025, Wang u. a. 2026, Quelle u. a. 2025, Fiesler & Dym 2020); Sachstand und Stimme in „Wem gehört die Öffentlichkeit?“ |
 | 14.11.2026 | [[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Nachbesprechung\|Breaking Lab — SmarAct und die Welt des Allerkleinsten]] | Lenkt die Routine: Negativität als Nachrichtenfaktor ohne Absicht (Soroka u. a. 2019, Robertson u. a. 2023), konstruktiver Journalismus und seine Richtung (McIntyre & Lough 2023, Krüger u. a. 2022); Stimme Weigel-Jech |
+| 25.11.2026 | [[Zeitgeist/auslandsjournal — Trumps Buddies#Nachbesprechung\|auslandsjournal — Trumps Buddies]] | Was richtet staatliche Propaganda aus? Deutschland als Ziel (Doppelgänger, Storm-1516 laut BND, CeMAS: Wirkung „beschränkt“), der indirekte Weg über das Vertrauen (Ognyanova u. a. 2020), Allensbach/bpb 2025 als Korrelation · Stimme Eigendorf |
 
 ---
 

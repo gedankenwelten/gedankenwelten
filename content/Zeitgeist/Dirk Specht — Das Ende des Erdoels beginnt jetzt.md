@@ -277,6 +277,10 @@ Wie Deutschland im Winter darauf die Kohlereserve selbst zurückholt, als Notfal
 
 Laschyk baut Spechts Satz vom gesetzlich verordneten Gleichschritt zu einer ganzen Analyse des Kraftstoffmarkts aus, mit der Mittagsregel als Taktgeber und der Transparenzstelle als Fenster zur Konkurrenz; gegen seine These vom schnellen Verkaufen steht Spechts grünes Paradoxon.
 
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+Liebreich erzählt die Wende als Verdrängung ohne Verbot, vom Pferd zum Auto. Spechts asiatische Krisenrezepte aus Einschränkung und Angebot und seine Frage, ob billiges Öl den Verbrauch verlängert, sind die Gegenprobe zu dieser Erzählung.
+
 ---
 
 ## Weiterdenken

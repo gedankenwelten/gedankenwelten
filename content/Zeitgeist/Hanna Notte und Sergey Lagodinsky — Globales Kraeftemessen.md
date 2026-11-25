@@ -374,6 +374,9 @@ Der Militärökonom nennt Russland nach Shenzhen einen „bequemen Vasallen“ C
 
 Nottes Rat, die Ukrainer sollten selbst erzählen, in der Praxis: Selenskyj erzählt die Ukraine als „Land Nummer zwei“ der Sowjetunion und Erbin der Kiewer Rus, in einem Podcast, dessen halbes Publikum in Amerika sitzt, nicht im Globalen Süden.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Zwei Monate später streiten drei ZDF-Korrespondenten dieselbe Frage aus: Kompromat oder Geschäft? Röller fasst Putins Kalkül in einen Satz, der wie Nottes Buchtitel klingt: „Ich halte länger durch als ihr.“
 
 ---
 

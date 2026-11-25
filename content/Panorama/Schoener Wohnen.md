@@ -173,6 +173,10 @@ Der Volksentscheid als Organisierung von unten: wie Menschen ein Thema setzen, s
 
 Miriam Rehm wohnt selbst in einer Wiener Genossenschaftswohnung, nennt das einen „Riesenluxus“ und sagt offen, dass auch dort über die Vergabe gestritten wird; die Bodensteuer hält sie selbst nach neoklassischer Logik für besonders effizient.
 
+### → [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
+
+Der Artikel 15, über den in Berlin abgestimmt wurde, im größeren Streit: Wer soll wirtschaftliche Macht brechen, Gemeineigentum oder Wettbewerb?
+
 ---
 
 ## Weiterdenken

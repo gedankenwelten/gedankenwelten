@@ -1580,3 +1580,6 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Miriam Rehm
 **Status:** ✓ Vollanalyse → [[DenkerVita/Miriam Rehm]]
+
+## Michael Liebreich
+**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Liebreich]]

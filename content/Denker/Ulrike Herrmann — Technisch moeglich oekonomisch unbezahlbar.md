@@ -429,6 +429,10 @@ Wo Herrmann das Ende des Wachstums bis zur Rationierung durchdenkt, macht Oettin
 
 Anita Engels teilt den Befund, dass das Wachstum nicht trägt, und setzt dort, wo Herrmanns Analyse ohne Ausgang endet, auf das strategische Organisieren von unten, das den Boden für große Gesetze bereiten soll. Ob das schnell genug geht, fragt Herrmanns Zeit-Argument.
 
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+Die Gegenrechnung aus derselben Thermodynamik: Liebreich findet dort, wo Strom das Verbrennen ersetzt, Gewinn an Effizienz und Platz für drei Prozent Wachstum, Herrmann dort, wo das nicht geht, Schrumpfen. Ihrem Computer mit achtzig Jahren steht sein Pferd gegenüber, dessen Bestand nach der Ankunft des Autos noch Jahrzehnte wuchs.
+
 ---
 
 ## Weiterdenken

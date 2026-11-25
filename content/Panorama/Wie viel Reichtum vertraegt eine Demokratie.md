@@ -275,6 +275,10 @@ Genossenschaften von Raiffeisen bis Mondragón, die andere Antwort auf „Wem ge
 ### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
 Ob Reichtum großzügiger oder geiziger macht, und warum die berühmten Befunde dazu nicht hielten.
 
+### → [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
+
+Wem die Unternehmen gehören, aus der Sicht des Staates: als Eigentümer, als Gegengewicht zu geballter Macht, und wo er selbst zur Macht wird.
+
 ---
 
 ## Weiterdenken

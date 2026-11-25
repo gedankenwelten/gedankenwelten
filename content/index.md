@@ -32,6 +32,10 @@ Die Gedankenwelten (luc)
 >
 > 104 Frauen wurden 2024 in Deutschland von ihrem Partner oder Ex-Partner getötet. Eine ZDF-Recherche liest ihre Akten und findet Taten, die sich ankündigen, und einen Staat, der zu spät hinsieht.
 
+> **25.11.** — [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+>
+> Die Energiewende sei gescheitert, heißt es. Michael Liebreich hält dagegen: Sie gelingt, nur sieht sie anders aus, als man dachte. Ein Modell aus vier Zeilen zeigt, wie die Fossilen verdrängt werden, ohne Verbot.
+
 > **25.11.** — [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
 >
 > Die Wissenschaft hat das Problem längst beschrieben, und es hat wenig geändert. Die Soziologin Anita Engels erklärt, warum die Klimawende stockt, und macht aus jedem Grund einen Ansatzpunkt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum sie die Lücke nicht für Zufall hält.
 
-> **25.11.** — [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
->
-> Ein Konzernchef, den der Präsident zurück ins Amt drückt, ein Kriegsherr, den er „mein Freund“ nennt: Drei ZDF-Korrespondenten fragen, was Trump daran hat, und am Ende, was wir selbst zu geben bereit sind.
-
-> → *28 weitere in* [[Zeitgeist]]
+> → *29 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
@@ -56,19 +56,19 @@ Die Gedankenwelten (luc)
 >
 > Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
 
-> **25.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+> **25.11.** — [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
 >
-> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, wem gehören die Emissionen, und ist Neid ein Argument? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+> Eigentum bindet, Wettbewerb bricht Macht, und wer entscheidet, wer führt? Vier offene Fragen zum Staat als Eigentümer und Lenker, von Ahlen 1947 bis zum Nvidia-Chef 2026.
 
-> **25.11.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+> **25.11.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
 >
-> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
+> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
 
-> **25.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+> **25.11.** — [[Panorama/Wer bekommt die knappen Molekuele|Wer bekommt die knappen Moleküle?]]
 >
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+> Grüner Wasserstoff, E-Fuels und Biomethan bleiben lange knapp und teuer, und viele wollen sie: Flugzeug, Stahl, Chemie, Auto, Heizung. Drei offene Fragen: Wo ist ein Molekül unersetzlich, reicht es für alle, und wer verteilt?
 
-> → *14 weitere in* [[Panorama]]
+> → *17 weitere in* [[Panorama]]
 
 ### Geistesblitz
 

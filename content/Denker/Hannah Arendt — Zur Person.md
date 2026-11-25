@@ -334,6 +334,10 @@ Arendt fragt, ob man eine erkannte Wahrheit verschweigen darf. Bonhoeffer fragte
 ### → [[Michael Fleming — Was die Alliierten wussten]]
 Fleming hält dagegen, die Nachrichten über Auschwitz seien seit 1942 da gewesen und es habe die Antwort gefehlt. Arendts Unglauben von 1943 zeigt, was zwischen Wissen und Glauben liegt.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Ein Präsident, der einen Kriegsherrn „My friend“ nennt und erklärt, er könne nicht für Amerika sprechen, bringt das Persönliche an den Verhandlungstisch, auf eine Weise, die Arendt ein Verhängnis nannte. Am Ende der Folge fragen drei ZDF-Korrespondenten, welchen Preis sie für Europas Freiheit zu zahlen bereit wären.
+
 ---
 
 ## Weiterdenken

@@ -283,6 +283,9 @@ Die Note gehört zur Panorama-Sektion „Die neue Nachfrage: Wird KI zum trojani
 
 Schmitz’ Unterscheidung zwischen Skaleneffekten der Größe und der Stückzahl kehrt bei drei Energie-Erfindungen wieder: Eine Batterie-Anode kann auf einer Lernkurve billiger werden, Synhelions Treibstoff-Fabriken müssen erst groß werden. Schmitz spricht dort Einstieg und Ausblick.
 
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+Liebreich, nach eigener Angabe mit Hintergrund in Kerntechnik, begrüßt neue Kernkraftwerke und rechnet im selben Atemzug vor, dass kleine Reaktoren zu Tausenden gebaut werden müssten, um Wind und Sonne einzuholen. Seine Zählung zielt auf die Menge, die des Akkudoktors auf die Kostengleichheit; beide führen weit über das heute größte Projekt mit vier Reaktoren hinaus.
 
 ---
 

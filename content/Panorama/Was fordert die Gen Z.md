@@ -2,7 +2,7 @@
 title: "Was fordert die Gen Z?"
 date: 2026-11-02
 erstellt: 2026-11-02
-aktualisiert: 2026-11-20
+aktualisiert: 2026-11-25
 panorama-art: wachsend
 description: "Sechs Sätze auf einer Website, getragen von 120.000 Menschen und dann von einer Krawallnacht überdeckt. Was die Gen Z fordert, wie es um jede Forderung steht und was die Politik schon getan, gekürzt oder abgelehnt hat."
 raetsel: "Sechs Sätze auf Pappe. Jeder Satz hat ein Ministerium."
@@ -349,10 +349,12 @@ Webbink 2015](https://doi.org/10.1186/s40172-015-0026-4)). In Schweden, wo wie k
 verdienen vor allem kognitiv Starke später weniger, Schwächere erreichen sogar mehr Bildung
 ([Almén 2026](https://doi.org/10.1016/j.ejpoleco.2025.102793)). In Portugal fand sich kaum ein Effekt ([Card & Cardoso 2012](https://doi.org/10.1257/app.4.4.57)).
 
+Wie bereit die Jungen wären, das Land zu verteidigen, hängt an der Frage und an der Stelle, die fragt. In der Bevölkerungsbefragung 2026 der Bundeswehr wären unter den 20- bis 40-Jährigen 50 Prozent der Männer und 16 Prozent der Frauen bei einem Angriff zum bewaffneten Kampf bereit ([ZMSBw, Bevölkerungsbefragung 2026](https://zms.bundeswehr.de/de/publikationen-ueberblick/bevoelkerungsbefragung-2026-wehrbereitschaft-deutschland-6150566)); in einer Forsa-Umfrage vom März 2025 sagten in der ganzen Bevölkerung 17 Prozent „auf jeden Fall“ ([RTL, 06.03.2025](https://www.rtl.de/news/forsa-umfrage-nur-jeder-sechste-wuerde-deutschland-im-ernstfall-mit-der-waffe-verteidigen-id2126025.html)). Der Abstand zwischen Männern und Frauen ist größer als der zwischen den Generationen. Die Zustimmung zur Militärhilfe für die Ukraine fiel bei den 18- bis 29-Jährigen binnen eines Jahres von 68 auf 49 Prozent ([Berlin Pulse 2026/27](https://www.theberlinpulse.org/reports/berlin-pulse-2026-27)). Dass die Bereitschaft, das eigene Leben zu opfern, dort sinkt, wo das Leben sicherer wird, ist ein alter Befund der Werteforschung ([Inglehart, Puranen & Welzel 2015](https://doi.org/10.1177/0022343314565756), World Values Survey).
+
 **Die Einwände.** Der Wehrbeauftragte Otte: Bringt die Freiwilligkeit nicht genug Aufwuchs, sei die Rückkehr
 zur Wehrpflicht *„der konsequente nächste Schritt“*
 ([Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-wehrbericht-1156714)). Verteidigungsminister
-Pistorius begründet die Erfassung damit, dass der Staat im Ernstfall wissen müsse, wer einsatzbereit ist.
+Pistorius begründet die Erfassung damit, dass der Staat im Ernstfall wissen müsse, wer einsatzbereit ist. Drei ZDF-Korrespondenten, selbst Eltern wehrfähiger Kinder, antworten im Herbst 2026 auf die Frage nach dem Ernstfall ehrlich zerrissen: Ulf Röller hält die Verteidigung mit der Waffe für nötig und weiß nicht, ob er das als Vater sagen kann, Katrin Eigendorf hält ein Leben unter russischer Besatzung für keines (→ [[Zeitgeist/auslandsjournal — Trumps Buddies#Wie weit für die Freiheit?|Trumps Buddies]]).
 
 > [!question] Die Reibung
 > Die Älteren wollen mehrheitlich eine Pflicht, die sie nicht mehr trifft, die Jüngeren mehrheitlich nicht.
@@ -561,6 +563,7 @@ Wie sie wirkt, ist kaum untersucht.
 
 | Datum | Note | vertieft |
 |---|---|---|
+| 25.11.2026 | [[Zeitgeist/auslandsjournal — Trumps Buddies#Nachbesprechung\|auslandsjournal — Trumps Buddies]] | Nein zur Wehrpflicht → Wer würde Europa verteidigen? ZMSBw 2026 (50 % der Männer, 16 % der Frauen zwischen 20 und 40), Forsa 2025, Gallup International 2023, Berlin Pulse 2026/27 (Militärhilfe bei 18–29 von 68 auf 49 %), Inglehart u. a. 2015, McNerney u. a. 2018 (RAND), Art. 115a GG · Röller und Eigendorf als Eltern |
 | 20.11.2026 | [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Nachbesprechung\|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit]] | Lasten gerecht verteilen → Sparen alternde Gesellschaften an den Kindern? (Vlandas u. a. 2021, Busemeyer u. a. 2009, Grob & Wolter 2007, Cattaneo & Wolter 2009, Harris u. a. 2001, Grant u. a. 2025), Ausgaben je Schüler 2010–2024 · El-Mafaalani als Stimme |
 | 11.11.2026 | [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle#Nachbesprechung\|Martin Oetting — Die Gen-Z kämpft für uns alle]] | Lasten gerecht verteilen → Steuerstolz: was von Sonntag und Ahlers 2017 sagten, Schrömgens, taxmenow, Davos-Brief; Reiche als Minderheit (Page u. a. 2013), Steuermoral und Vertrauen (Horodnic 2018), Ausweichen bei Vermögensteuern (Brülhart u. a. 2022, Scheuer & Slemrod 2021), Norwegen (Bjørneby u. a. 2022) · erste Stimmenliste |
 | 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Nachbesprechung\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Mitbestimmen → Bringt erst Lärm Gehör? (Protestforschung, FFF-Wirkung) · Wirkt Beteiligung? (Arnstein, Schülervertretungen, Wahlberechtigte nach Alter, § 41a GemO) · BSK-Bildungsprotest am 20.11. · erste Stimmenliste |

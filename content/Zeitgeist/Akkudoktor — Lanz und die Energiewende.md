@@ -175,3 +175,7 @@ Die zweite Note über den Kanal: drei SMR-Versprechen auf dem Taschenrechner, un
 
 Die Wirkungsgrad-Leiter von der Kerze bis zur Wärmepumpe ist die Kehrseite der Primärenergie-Falle. Dazu kommt das Bild vom Metzger, der in der Talkshow neben dem Klimaforscher sitzt.
 
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+Liebreich trennt wie Schmitz zwei Fragen, die in Talkshows zusammenfallen: ob das Neue wächst und ob das Alte schrumpft. Wer mit Primärenergie argumentiere, wisse entweder nicht, wovon er rede, oder hoffe, dass die Zuhörer es nicht wissen; er selbst rechnet die Wende darum in Nutzenergie.
+

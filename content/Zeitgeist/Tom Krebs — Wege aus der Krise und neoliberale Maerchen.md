@@ -244,7 +244,7 @@ Den stärksten Einwand liefern die Niederlande. Dort müssen die Verteilnetze pe
 
 Am Ende bleibt eine Rechnung mit zwei Unbekannten. Der Staat bekommt Kapital billiger, aber nur, wenn er das Risiko trägt und die Gewinne nicht für anderes braucht. Wie beides zusammengeht, zeigt Dänemark: Energinet betreibt das Übertragungsnetz als staatliches Unternehmen ohne Gewinnziel, und die Entgelte decken nur die Kosten ([Forsyningstilsynet](https://forsyningstilsynet.dk/Media/638924853153921019/2025%20National%20Report%20.pdf)). In Deutschland laufen viele Konzessionen Anfang der 2030er-Jahre wieder aus ([Reppert 2024](https://doi.org/10.1080/03003930.2024.2424811)). Dann stellt sich die Frage in Hunderten Rathäusern neu.
 
-*Noch führt diese Frage in kein Panorama. Im Bestand äußern sich dazu [[Dirk Specht — Strom, Merit Order und Grossbatterien#Netzausbau ist nie zu teuer — er ist nur falsch berechnet|Dirk Specht]] (private Betreiber melken alte Netze), [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung#Strukturelle Reform|Ines Schwerdtner]] (Energiekonzerne vergesellschaften) und [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende#Die Genossenschaft — Demokratie als Rechtsform|Laura Zöckler]] (die Genossenschaft als dritter Weg). Eine Stimme, die gegen öffentliche Netze argumentiert, fehlt im Bestand noch.*
+→ Weiter im Panorama: **[[Panorama/Wann soll der Staat Unternehmer sein#Wem sollen die Netze gehören?|Wem sollen die Netze gehören?]]**, mit Dirk Specht und Laura Zöckler; eine Stimme gegen öffentliche Netze fehlt im Bestand noch
 
 ---
 

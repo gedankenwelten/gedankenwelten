@@ -373,6 +373,10 @@ Die Desinformations-Schwester der Wegwerf-Agenten: Bauschaum mit Habeck-Aufklebe
 
 In Folge #79 kehrt das Muster teilweise wieder (die Zahl 150, ausgelassene Gegenbefunde), doch Röllers Widerspruch gegen die eigene Runde zeigt das Gegenmittel.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Drei Monate später fühlt sich Russland nach Eigendorfs Eindruck in der Oberhand, und Putins Wette aufs Durchhalten bekommt Futter aus dem EU-Haushaltsstreit. Theveßen zitiert den Mueller-Bericht nun richtig: Die Kundgebungen kamen von der Internet Research Agency, nicht vom GRU.
+
 ---
 
 ## Weiterdenken

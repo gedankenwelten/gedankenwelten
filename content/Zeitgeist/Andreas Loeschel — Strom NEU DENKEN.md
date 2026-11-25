@@ -285,6 +285,10 @@ In der Gaskrise 2026 fordert Patrick Kaczmarczyk die Gaspreisbremse zurück und 
 
 Dieselbe Sorge um Erwartungen, aus einem Regierungsgutachten: Der Beraterkreis der Ministerin will den Emissionshandel auch in der Krise nicht antasten und lehnt den Tankrabatt ab.
 
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+Löschels „Muster gewiss, Tempo offen“ als Vortrag: Liebreich zeigt, wie das Saubere die Fossilen verdrängt, und ist sicher, dass man „zu gegebener Zeit“ ankommt. Über die Erwartungen, die laut Löschel das Tempo bestimmen, spricht er nicht; ein CO₂-Preis kommt in seinem Vortrag nicht vor.
+
 ---
 
 ## Weiterdenken

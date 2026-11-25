@@ -95,3 +95,4 @@ Zu seinem Handwerk gehört, dass er Vermutungen als Vermutungen kennzeichnet. Se
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus]] — Der Trump Effekt #61: die NATO „innen hohl“, Europas fehlende eigene Kraft, Gesichtswahrung als Motor der Konflikte
 - [[Panorama/Wie umgehen mit Russland]] — als Stimme zu den Low-Level-Agenten
 - [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]]
+- [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]] — Der Trump Effekt #83: Huangs Rückkehr als Industriepolitik oder Bereicherung, „Länder haben keine Freunde“, die Mauer-Geste als Kriegspartei-Debatte, „als Vater von zwei Söhnen … ich weiß das nicht“

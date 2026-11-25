@@ -367,6 +367,10 @@ Der Streit um Reiches Redispatch-Zahlen, wie er im Presseclub geführt wurde; di
 ### → [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Michael Sterner — Reiche gegen Marktwirtschaft]]
 Sterners „weniger als eine Milliarde“ meint den Anteil, der an abgeregelte Wind- und Solaranlagen geht, nicht das ganze Engpassmanagement.
 
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+„Burning stuff is stupid“: Liebreich fasst die Geschichte von der Kerze zur Wärmepumpe in vier Wörter und zeigt das „Modernisierungsprogramm“ an Pferd und Festnetz. Auch er verdient an der Wende, über die er spricht, und sagt es im Vortrag selbst.
+
 ---
 
 ## Weiterdenken

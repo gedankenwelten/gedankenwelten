@@ -60,7 +60,11 @@ def _env(name, default=""):
 
 
 # Polite pool: OpenAlex bittet um eine Kontakt-Mail im Request — bringt uns in den schnellen Pool.
-MAILTO = _env("CORTEX_OPENALEX_MAILTO", "deine@adresse.example")
+# Seit 25.11.2026 keine Adresse mehr im Skript (Andreas' Ja): Eine private Mail gehört nicht in Code,
+# der öffentlich gespiegelt wird und bei jeder Suche an einen fremden Dienst geht. Wer den schnellen
+# Pool will, setzt CORTEX_OPENALEX_MAILTO selbst (Umgebung oder .env); ohne sie fragt das Skript
+# anonym, nur mit dem Client-Namen im User-Agent, und fängt 429 über die Wiederholung in _get ab.
+MAILTO = _env("CORTEX_OPENALEX_MAILTO", "")
 # Optionaler S2-Key hebt das Rate-Limit (1 req/s); ohne Key teilt man sich einen stark
 # gedrosselten Pool (429 → graceful skip). NIE parallel feuern — das Limit ist kumulativ.
 S2_KEY = _env("SEMANTIC_SCHOLAR_API_KEY")
@@ -129,7 +133,9 @@ def _reconstruct_abstract(inv):
 
 
 def search_openalex(query, top, year_from):
-    qs = {"search": query, "per_page": str(top), "mailto": MAILTO}
+    qs = {"search": query, "per_page": str(top)}
+    if MAILTO:
+        qs["mailto"] = MAILTO
     if year_from:
         qs["filter"] = f"from_publication_date:{year_from}-01-01"
     url = "https://api.openalex.org/works?" + urllib.parse.urlencode(qs)
@@ -238,8 +244,10 @@ def doi_status(dois):
     dois = [d for d in dict.fromkeys(_norm_doi(d) for d in dois) if d]
     for i in range(0, len(dois), 50):
         teil = dois[i:i + 50]
-        qs = {"filter": "doi:" + "|".join(teil), "per_page": "50", "mailto": MAILTO,
+        qs = {"filter": "doi:" + "|".join(teil), "per_page": "50",
               "select": "doi,display_name,publication_year,is_retracted,primary_location,authorships"}
+        if MAILTO:
+            qs["mailto"] = MAILTO
         try:
             data = _get("https://api.openalex.org/works?" + urllib.parse.urlencode(qs))
         except Exception as e:

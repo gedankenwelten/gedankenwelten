@@ -154,17 +154,17 @@
    "aufrufe": 8
   },
   {
+   "pfad": "/DenkerVita/Kerstin-Paschke",
+   "leser": 6,
+   "aufrufe": 8
+  },
+  {
    "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
    "leser": 6,
    "aufrufe": 6
   },
   {
    "pfad": "/DenkerVita/Hannah-Arendt",
-   "leser": 5,
-   "aufrufe": 7
-  },
-  {
-   "pfad": "/DenkerVita/Kerstin-Paschke",
    "leser": 5,
    "aufrufe": 7
   },
@@ -239,11 +239,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
-   "leser": 4,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/DenkerVita/Judith-Mangelsdorf",
    "leser": 4,
    "aufrufe": 5
@@ -302,6 +297,11 @@
    "pfad": "/DenkerVita/Jan-Keno-Janssen",
    "leser": 4,
    "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Mae-Bengert",
+   "leser": 4,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -339,11 +339,6 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 8,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 8,
      "aufrufe": 8
@@ -351,6 +346,11 @@
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 8,
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "leser": 7,
      "aufrufe": 8
     },
     {
@@ -444,6 +444,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "leser": 2,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 2,
      "aufrufe": 4
@@ -500,6 +505,11 @@
     },
     {
      "pfad": "/DenkerVita/Eva-von-Redecker",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Freddy-Leppin",
      "leser": 2,
      "aufrufe": 2
     },
@@ -595,16 +605,6 @@
     },
     {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Uwe-Krueger-Netzwerke-der-Meinungsmacht",
      "leser": 2,
      "aufrufe": 2
     }
@@ -764,17 +764,17 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "leser": 6,
+     "aufrufe": 8
+    },
+    {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "leser": 6,
      "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
-     "leser": 5,
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 5,
      "aufrufe": 7
     },
@@ -849,11 +849,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "leser": 4,
      "aufrufe": 5
@@ -910,6 +905,11 @@
     },
     {
      "pfad": "/DenkerVita/Jan-Keno-Janssen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Mae-Bengert",
      "leser": 4,
      "aufrufe": 4
     }
@@ -1159,6 +1159,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "leser": 9,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 9,
      "aufrufe": 9
@@ -1199,7 +1204,7 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "pfad": "/DenkerVita/Freddy-Leppin",
      "leser": 8,
      "aufrufe": 10
     },
@@ -1212,11 +1217,6 @@
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 8,
      "aufrufe": 10
-    },
-    {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
-     "leser": 8,
-     "aufrufe": 9
     }
    ]
   },
@@ -1464,6 +1464,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "leser": 9,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Denker/Hannah-Arendt-Zur-Person",
      "leser": 9,
      "aufrufe": 9
@@ -1504,7 +1509,7 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "pfad": "/DenkerVita/Freddy-Leppin",
      "leser": 8,
      "aufrufe": 10
     },
@@ -1517,11 +1522,6 @@
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 8,
      "aufrufe": 10
-    },
-    {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
-     "leser": 8,
-     "aufrufe": 9
     }
    ]
   },
@@ -1689,6 +1689,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Gert-Scobel",
      "leser": 4,
      "aufrufe": 4
@@ -1714,11 +1719,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
      "leser": 3,
      "aufrufe": 3
@@ -1739,11 +1739,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Philipp-Blom-Die-strauchelnde-Welt",
      "leser": 3,
      "aufrufe": 3
@@ -1755,11 +1750,6 @@
     },
     {
      "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Sibylle-Anderl-Bequeme-neue-Welt",
      "leser": 3,
      "aufrufe": 3
     },
@@ -1825,6 +1815,16 @@
     },
     {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Susan-Neiman-Nennen-wir-es-boese",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Christof-Spitz",
      "leser": 2,
      "aufrufe": 2
     }

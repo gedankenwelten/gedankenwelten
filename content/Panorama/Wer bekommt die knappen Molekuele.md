@@ -2,7 +2,7 @@
 title: "Wer bekommt die knappen Moleküle?"
 date: 2026-10-27
 erstellt: 2026-10-27
-aktualisiert: 2026-10-27
+aktualisiert: 2026-11-25
 description: "Grüner Wasserstoff, E-Fuels und Biomethan bleiben lange knapp und teuer, und viele wollen sie: Flugzeug, Stahl, Chemie, Auto, Heizung. Drei offene Fragen: Wo ist ein Molekül unersetzlich, reicht es für alle, und wer verteilt?"
 raetsel: "Sieben Krüge unter einem Hahn, der tropft. Wer hält zuerst hin?"
 panorama-art: wachsend
@@ -43,6 +43,8 @@ Ein Molekül ist Energie mit Umweg. Wer Strom erst in Wasserstoff und dann in Kr
 
 Auch oben in der Rangfolge ist das Molekül keine vollständige Lösung. E-Kerosin senkt die Klimawirkung des Fliegens selbst mit reinem Ökostrom nur um etwa ein Drittel, denn rund zwei Drittel stammen von Kondensstreifen und Stickoxiden in großer Höhe (Ueckerdt et al. 2021). Und beim Lkw ist umstritten, ob er überhaupt in den harten Kern gehört: Eine Analyse der Umweltorganisation T&E sieht E-Lkw in sechs EU-Märkten über die Laufzeit schon günstiger als Diesel, wesentlich wegen der Mautbefreiung bis 2031 ([heise](https://www.heise.de/news/E-Lkw-laut-T-E-Analyse-in-sechs-EU-Maerkten-bereits-guenstiger-als-Diesel-Lkw-11468279.html)).
 
+Seit dem Anlegen hat sich beides bestätigt. Eine Auswertung von 54 unabhängigen Studien fand keine Grundlage für eine große Rolle von Wasserstoff in der Wärme ([Rosenow 2024](https://doi.org/10.1016/j.crsus.2023.100010), Übersichtsarbeit). Die bis 2030 angekündigte Produktion emissionsarmen Wasserstoffs ist auf 27 Millionen Tonnen geschrumpft, beschlossen oder sehr wahrscheinlich sind gut sechs, erzeugt wurde 2025 knapp eine Million Tonnen bei mehr als hundert Millionen Tonnen Bedarf ([IEA 2026, Global Hydrogen Review](https://www.iea.org/reports/global-hydrogen-review-2026/executive-summary)). Die stärkste Gegenstimme kommt aus der Speicherfrage: Über 35 Wetterjahre gerechnet braucht ein Deutschland mit nur erneuerbarem Strom einen Speicher für Flauten bis zu zwölf Wochen, am günstigsten Wasserstoff in Salzkavernen ([Ruhnau & Qvist 2022](https://doi.org/10.1088/1748-9326/ac4dc8), Modellstudie).
+
 **Die Stimmen**
 
 - **[[Jacob Beautemps — Made in Germany Awards 2026 Energie#Der harte Kern|Jacob Beautemps]]** — Elektrifizieren, was geht; was bleibt, ist klein, aber hart: *„da braucht man nicht die Energie, sondern wirklich den Stoff selbst.“*
@@ -50,6 +52,7 @@ Auch oben in der Rangfolge ist das Molekül keine vollständige Lösung. E-Keros
 - **[[Andreas Loeschel — Strom NEU DENKEN#Viele Energiewenden, ein Muster — was sicher ist und was offen bleibt|Andreas Löschel]]** — Gewiss ist das Muster: im Kern erneuerbar, ergänzt um Wasserstoff und synthetische Kraftstoffe für das, was sich nicht elektrifizieren lässt; die teuren Techniken muss die Politik an den Markt heranführen.
 - **[[Michael Sterner — Energiewende ist gelebter Patriotismus#Kraftwerksgesetz und Heizungsgesetz zwei offene Rechnungen|Michael Sterner]]** — Grünes Gas und grünes Öl in der Heizung sind legitim, aber kosten- und mengenbegrenzt; für die meisten bleibt die Wärmepumpe die Wahl.
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Wasserstoff, Atomkraft, Fracking|Veronika Grimm]]** — Mit Strom allein gehe die Energiewende nicht; das Wasserstoffnetz soll aus dem überdimensionierten Gasnetz entstehen. Sie sitzt im Vorstand eines Wasserstoffzentrums.
+- **[[Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist#Wasserstoff ist es nicht|Michael Liebreich]]** — Sauberer Wasserstoff bleibt auf Jahrzehnte knapp, darum gehört er dorthin, wo es nichts anderes gibt, nach Dünger und Raffinerien; beim Heizen und im Pkw: *„Wasserstoff ist es nicht.“*
 
 > [!question] Die Reibung
 > Die Rangfolge der Forschung setzt das Flugzeug weit oben an, und gerade dort löst das Molekül nur ein Drittel des Problems. *Ist ein Platz oben in der Rangfolge ein Anspruch auf das knappe Gut, oder nur der Ort, an dem es am wenigsten verschwendet wird?*
@@ -99,6 +102,7 @@ Das Gesetz kann auch in die Gegenrichtung lenken. Das Gebäudemodernisierungsges
 | Datum | Note | vertieft |
 |---|---|---|
 | 27.10.2026 | [[Jacob Beautemps — Made in Germany Awards 2026 Energie#Wer bekommt die knappen Moleküle?\|Jacob Beautemps — Made in Germany Awards 2026 Energie]] | Gründungsnote: Rangfolge der Verwendungen (Ueckerdt 2021, Liebreich, Rosenow 2022), lange Knappheit (Odenweller 2022, 2025), E-Kerosin-Lücke (EASA, T&E, ERA ONE), Biomethan (UBA/Öko-Institut gegen DVGW), Biotreppe und EU-Pkw-Kompromiss |
+| 25.11.2026 | [[Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist#Wasserstoff ist es nicht\|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]] | Liebreichs Hydrogen Ladder 5.0 als Stimme, Wärme-Metastudie (Rosenow 2024, 54 Studien), Projektschwund (IEA 2026), Saisonspeicher als Gegenstimme (Ruhnau & Qvist 2022) |
 
 ---
 

@@ -445,6 +445,10 @@ Thiele ist die stärkste Gegenstimme zu Wittigs Wort von der Kontaktschuld: Er h
 
 Die Gegenstimme zum ersten Schritt. Der Militärökonom hält schon das Reden über Verhandlungen für ein Narrativ des Kreml und will die Ukraine ohne NATO-Truppen so ausstatten, dass Putin „keine Chance hat“. Wo Wittig Waffen stoppen will, um Gesprächspartner zu werden, sieht Keupp im Verhandeln ohne Stärke die Aufwertung eines Kriegsverbrechers.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Theveßen nennt die Forderung, Rüstungsausgaben zu streichen, „Selbstmord aus Angst vor dem eigenen Tod“, eine Anspielung auf Bismarck. Röller fragt, ob Europa bereit wäre, seine Freiheit notfalls mit der Waffe zu verteidigen, und weiß als Vater keine Antwort.
+
 ---
 
 ## Weiterdenken

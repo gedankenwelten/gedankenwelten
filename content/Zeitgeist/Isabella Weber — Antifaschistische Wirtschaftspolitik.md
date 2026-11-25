@@ -274,7 +274,7 @@ Bei Hayek stimmt die Richtung, die Einzelheiten wackeln. Politisch stand er 1945
 > [!question] Die Reibung
 > Ahlen und Freiburg zogen aus demselben Trümmerfeld dieselbe Lehre: Wirtschaftliche Macht gefährdet die Freiheit. Gestritten wurde darüber, wer sie brechen soll, Gemeineigentum oder Wettbewerb. *Wenn Weber und Klüssendorf sich auf beide berufen, ist der Gründungskonsens dann eher ein gemeinsamer Gegner als ein gemeinsames Programm?*
 
-*Noch führt diese Frage in kein Panorama. Im Bestand äußern sich dazu [[Demirovic und Lorey — Foucaults Gouvernementalitaet#Neoliberalismus als antifaschistische Selbstbegrenzung?|Alex Demirović und Isabell Lorey]] (die Bundesrepublik als antifaschistisches Projekt der Ordoliberalen), [[Clara Mattei — Geschichte der Austeritaetspolitik#Liberale und Faschisten — ökonomische Verbündete|Clara Mattei]] (Liberale als Verbündete Mussolinis), [[Doerre - Klassen Kapitalismus und Demokratie#Autoritärer Liberalismus — Wenn Freiheit repressiv wird|Klaus Dörre]] (Hellers autoritärer Liberalismus) und [[Sven Beckert — Kapitalismus als Weltrevolution#Sprache als Herrschaft|Sven Beckert]] (die Soziale Marktwirtschaft als Umtaufe). Kommt eine Stimme dazu, wäre das der Anfang eines Panoramas „Welche Wirtschaft schützt vor dem Faschismus?“.*
+→ Weiter im Panorama: **[[Panorama/Wann soll der Staat Unternehmer sein#Wer soll wirtschaftliche Macht brechen?|Wer soll wirtschaftliche Macht brechen?]]**, mit Martin Andree, Tom Krebs, Alex Demirović und Isabell Lorey, Clara Mattei und Arnaud Orain
 
 ### Wirken Preisdeckel?
 

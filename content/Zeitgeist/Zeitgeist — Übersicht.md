@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*395 Notes — automatisch generiert · nach Thema sortiert*
+*396 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -176,7 +176,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Martin Oetting — Die Gen-Z kaempft fuer uns alle|Martin Oetting — Die Gen-Z kämpft für uns alle]] — Elf Tage nach den Gen-Z-Protesten stellt sich Martin Oetting hinter die Jungen und liest ihre Wut als Rechnung für fünfzig Jahre Wachstumspolitik. Die Diagnose trägt weit, das Entweder-oder am Ende nicht ganz.
 - [[Zeitgeist/Mats Appreciated — Fluchtgeschichten am Mauerweg|Mats Appreciated — Fluchtgeschichten am Mauerweg]] — 160 Kilometer Mauerweg, sieben Fluchtgeschichten voller Mut und Hilfsbereitschaft — und die Erkenntnis, dass unter jedem Gullideckel Hoffnung liegen kann.
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]] — Faschismus ist für Matthias Quent keine Philosophie, sondern eine Technik, und ihr Rohstoff ist Ohnmacht. Mit Maja Göpel fragt er, was dagegen hilft: Hoffnung, die aus dem Handeln kommt.
-- [[Zeitgeist/Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]] — Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum die Lücke kein Zufall ist.
+- [[Zeitgeist/Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]] — Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum sie die Lücke nicht für Zufall hält.
 - [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]] — Ist Pazifismus Passivität oder die mühsamere Arbeit? Zwei Schriftstellerinnen und zwei Gastgeber streiten über Aufrüstung, Deserteure und darüber, was eine Stadt sicher macht.
 - [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]] — Skandale, die jede andere Partei Stimmen kosten, prallen an der AfD ab. MONITOR fragt, warum Menschen gegen ihr Interesse wählen und wie Wiederholung das Unsagbare normalisiert.
 - [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen|Morpheus — Warum alle chinesische KI nutzen]] — Sechs chinesische Spitzenmodelle in 26 Tagen, fast verschenkt. Morpheus fragt, warum sie so billig sind, was ihre Zensur verrät und welche Tür Europa sich selbst bauen müsste.
@@ -317,6 +317,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]] — Ein Förderer zieht nach Buenos Aires, die Ölreserve leert sich, ein KI-Fonds soll den Bürgern Rendite bringen. Im Juni 2026 liest Biersky darin den Anfang vom Ende Trumps. Was davon eintraf, steht hier mit.
 - [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem|Tiana Travels — Das amerikanische Betriebssystem]] — Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
 - [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]] — Eine Umarmung am Flughafen, ein Platz in der Mitte, ein „Wer ist das?“ an der Tür: Drei Korrespondenten lesen Shenzhen aus Bildern, und eine von ihnen warnt davor, zu viel hineinzulesen.
+- [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]] — Ein Konzernchef, den der Präsident zurück ins Amt drückt, ein Kriegsherr, den er „mein Freund“ nennt: Drei ZDF-Korrespondenten fragen, was Trump daran hat, und am Ende, was wir selbst zu geben bereit sind.
 - [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika|Verliert Trump den Iran-Krieg in Amerika?]] — Gedacht war ein Regime, das sich beugt, nicht eines, das fällt. Reinhard Heinisch erklärt, warum der Plan im Iran scheiterte und warum die Stimmung daheim kippt, sobald Särge zurückkommen.
 - [[Zeitgeist/Marcus Keupp — Shenzhen, viel Symbolik wenig Substanz|Viel Symbolik, wenig Substanz — Marcus Keupp über Shenzhen]] — Ein Militärökonom will nur gelten lassen, was militärisch und wirtschaftlich geschieht, und hält schon das Reden vom Verhandeln für ein Geschenk an den Kreml. Was trägt an dieser Strenge, und wo verlässt sie selbst die Fakten?
 - [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa|Was Putin von Europa will — Michael Thumann aus Moskau]] — Moskau will eine neue Sicherheitsordnung für Europa, die alte hat es selbst unterschrieben. Ein Korrespondent sucht den Grund in Russland, nicht im Westen. Wie weit trägt das?

@@ -210,7 +210,7 @@ Die vier deutschen Hütten passen in dieses Muster, ohne es zu beweisen. Alle vi
 
 Staatseigentum konserviert also leichter, als es erneuert. Wo es erneuert, steht ein Plan dahinter, und so führt die Frage nach dem Eigentum zurück zu der, die das Publikum stellte: ob dieser Staat einen hat.
 
-*Noch führt diese Frage in kein Panorama. Im Bestand äußern sich dazu Krebs selbst bei Jung & Naiv ([[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Der zweite Grund Wer die Richtung bestimmt|Wer die Richtung bestimmt]]) und [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung#Strukturelle Reform|Ines Schwerdtner]] (Energiekonzerne vergesellschaften).*
+→ Weiter im Panorama: **[[Panorama/Wann soll der Staat Unternehmer sein#Hält Staatseigentum Industrie im Land?|Hält Staatseigentum Industrie im Land?]]**, mit Ines Schwerdtner, Tim Meyer und Arnaud Orain
 
 ---
 

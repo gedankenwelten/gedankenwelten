@@ -470,6 +470,10 @@ Dieselben Fünfziger, vom Gedächtnis her erzählt: Der Historiker Stefan Creuzb
 
 Wüstenberg erklärt, warum Südafrika Nürnberg ausdrücklich nicht folgte und welchen dritten Weg es zwischen Strafe und Vergessen fand, die Amnestie nur gegen öffentliche Wahrheit. Neben dem westdeutschen „wechselseitigen Verzeihen“ zeigt sein Fall, was eine Amnestie verlangen kann, die keine Amnesie sein will.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Ein halbes Jahr nach diesem Gespräch erklären Trump, Xi und Putin in Shenzhen die Immunität von Staatsvertretern für „von überragender Bedeutung“, und Rubio zitiert Pompeius gegen den Strafgerichtshof. Das ist das Gegenteil des Nürnberger Grundsatzes, dass auch Staatsoberhäupter haften.
+
 ---
 
 ## Weiterdenken

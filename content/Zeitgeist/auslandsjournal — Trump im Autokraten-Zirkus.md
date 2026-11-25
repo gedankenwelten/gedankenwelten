@@ -325,6 +325,10 @@ Dieselbe Runde fünfzehn Tage früher, am Morgen nach den Midterms. Eigendorf la
 
 Thumann beschreibt aus Moskau dieselbe Szene an der Tür und liest darin, Trump sei Putin „komplett verfallen“: eine vierte Deutung neben Clinch, Taktik und geliehenem Platz.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Die Folge danach (#83) nimmt Röllers offene Frage nach Trumps Interesse wieder auf und beantwortet sie mit Geld und Bewunderung. Den Mann, der hier noch Kellner war, nennt Trump nun öffentlich „My friend“.
+
 ---
 
 ## Weiterdenken

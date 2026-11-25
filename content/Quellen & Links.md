@@ -6186,6 +6186,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kaczmarczyk_Gaskrise_Reiche_Transkript.txt` (Sprecher per Stimmlage getrennt) |
 
+## ZDF auslandsjournal / Der Trump Effekt #83 — Trumps Buddies Huang und Putin (24.11.2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Trumps Buddies Huang und Putin & eure Fragen — Der Trump Effekt #83](https://www.youtube.com/watch?v=8GIJCaC4OPI) — auslandsjournal, aufgezeichnet 24.11.2026, mit Elmar Theveßen (Moderation), Katrin Eigendorf, Ulf Röller |
+| **Notiz** | [[Zeitgeist/auslandsjournal — Trumps Buddies]] |
+| **Originale** | [Nvidia, Wiedereinsetzung Huangs](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) · [Mueller-Bericht](https://www.justice.gov/archives/sco/file/1373816/dl) · [Rubio vor der Federalist Society](https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-at-the-federalist-societys-2026-national-lawyers-convention) · [ZDFheute, Inside Deutsche Bank](https://www.zdfheute.de/wirtschaft/inside-deutsche-bank-leak-100.html) · [KIIS Oktober 2026](https://www.kiis.com.ua/?lang=eng&cat=reports&id=1643&page=1) |
+| **Transkript** | `Gedankenwelten/Transkripte/TrumpEffekt83_Huang_Putin_Transkript.txt` (Sprecher per Standbild getrennt; Stimmlage trennt Röller und Theveßen nicht, Untertitel schreiben Huang als „Wang“) |
+
 ## ZDF auslandsjournal / Der Trump Effekt #82 und Marcus Keupp — Shenzhen-Gipfel (19.11.2026)
 
 | | |
@@ -6318,3 +6327,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Miriam Rehm — Was der Staat ueber Reiche nicht wissen will]] |
 | **Vita** | [[DenkerVita/Miriam Rehm]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Rehm_Milliardaere_Transkript.txt` (YouTube-Untertitel, 98 % Abdeckung) |
+
+## Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist
+
+| | |
+|---|---|
+| **Vortrag** | [Why Clean Energy Is an Unstoppable Force — Michael Liebreich, TED](https://www.youtube.com/watch?v=ACCnhY1fKoI) (TED Countdown, 15.10.2026, CC BY-NC-ND 4.0) |
+| **Notiz** | [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]] |
+| **Vita** | [[DenkerVita/Michael Liebreich]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Liebreich_CleanEnergy_Transkript.txt` (manuelle englische Untertitel, vollständig) |
+| **Daten** | [Ember 2026, Global Electricity Review](https://ember-energy.org/latest-insights/global-electricity-review-2026/) · [IEA 2026, Electrification](https://www.iea.org/reports/electrification-2026) · [Hydrogen Ladder 5.0](https://mliebreich.substack.com/p/hydrogen-ladder-version-50) |

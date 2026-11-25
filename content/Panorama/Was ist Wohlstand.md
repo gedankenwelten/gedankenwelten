@@ -2,7 +2,7 @@
 title: "Was ist Wohlstand?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-11-22
+aktualisiert: 2026-11-25
 description: "Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss."
 raetsel: "Drei liegen satt unter dem Baum und schauen weg. Drüben teilen zwei ein Brot."
 panorama-art: wachsend
@@ -129,6 +129,7 @@ Offen ist auch, ob eine Demokratie ohne Wachstum hält. Lange und Schmelzer halt
 - **[[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar#Was sie stattdessen will|Ulrike Herrmann]]:** Grüne Energie wird teurer, sinkende Effizienz heißt Schrumpfen; als Modell dient ihr die britische Kriegswirtschaft: *„Arm und Reich bekamen das gleiche.“*
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Wachstum auf fossilem Grund|Veronika Grimm]]:** Das Problem ist Wachstum auf fossiler Basis, nicht Wachstum; unter einem sinkenden Emissionsdeckel holt Wachstum die Emissionen nicht zurück.
 - **[[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen#Wachstum — und eine Warnung nach links|Maurice Höfgen]]:** Wer in der Degrowth-Community glaubt, weniger BIP schütze das Klima: *„Vorsicht.“*
+- **[[Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist#Wie empfindlich ist das Modell|Michael Liebreich]]:** Die Wirtschaft soll um drei Prozent wachsen, die saubere Energie schneller als der Bedarf, dann verdrängt sie die Fossilen ohne Verbot; nachgerechnet bleiben diese zwei Jahrzehnte auf heutigem Niveau.
 - **[[Christoph Hein — Geooekonomie NEU DENKEN#Das Wachstumsversprechen und seine Grenze|Christoph Hein]]:** Für Milliarden Menschen ist Wachstum die Hoffnung, für Europa die Angst vor dem Verlust.
 - **[[Martyna Linartas — Unverdiente Ungleichheit#Zuschauerfragen (Kira-Runde)|Martyna Linartas]]:** „Team Demokratin“ und „Team Postwachstum“; unendliches Wachstum auf einem endlichen Planeten funktioniere nicht.
 - **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Der Tisch, der Kuchen und wer davon redet|Aladin El-Mafaalani]]:** Hört der Kuchen auf zu wachsen, *„werden die Argumente von den bösen Mächten sozusagen überzeugender“*.
@@ -166,6 +167,7 @@ Offen ist auch, ob eine Demokratie ohne Wachstum hält. Lange und Schmelzer halt
 | 31.10.2026 | [[Tom Krebs — Kapital und Krise#Wie misst man, was fehlt?\|Tom Krebs — Kapital und Krise]] | Trendlücke gegen Potenzial: Hysterese (Cerra & Saxena, Ball), Potenzialschätzungen folgen dem Output (Coibion et al.), Fatás-Kreislauf, Zerlegung der zwölftausend Euro |
 | 13.11.2026 | [[Erich Fromm — Haben oder Sein#Nachbesprechung|Erich Fromm — Haben oder Sein]] | Macht mehr Geld zufriedener: Materialismus und Wohlbefinden (Dittmar u. a. 2014), Haltung statt Betrag |
 | 22.11.2026 | [[Zeitgeist/Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Ueberflusses#Das Paradox des Überflusses\|Mustafa Suleyman und Yuval Noah Harari — Am Vorabend des Überflusses]] | Macht mehr Geld zufriedener, über Gesellschaften und Jahrhunderte: Easterlin 2010, O'Connor 2026 gegen Hagerty & Veenhoven, Galbraith 2024, Agta (Dyble 2019), Bhui/Chudek/Henrich, Gurven & Kaplan, Armut (OWID), Kriege 2025 (PRIO), Cirillo & Taleb · Harari, Suleyman, van Schaik und Michel, Kehnel als Stimmen |
+| 25.11.2026 | [[Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist#Wie empfindlich ist das Modell\|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]] | Geht Wohlstand ohne Wachstum? Liebreichs Vier-Zeilen-Modell als Entkopplungsmodell, nachgerechnet gegen das CO₂-Budget (Forster u. a. 2026), Tempo der Wenden (Way 2022, Cherp 2021, Vinichenko 2021), 59 entkoppelte Länder (GCB 2026) |
 
 ---
 

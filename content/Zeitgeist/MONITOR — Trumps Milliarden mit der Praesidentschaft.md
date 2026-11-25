@@ -223,6 +223,10 @@ Die Expertin dieses Beitrags im eigenen Vortrag: Clüver Ashbrook bettet die dyn
 
 Theveßens „goldenes Zeitalter, nachgerechnet“ — Wachstum, das nur an KI-Investment und Rekord-Kreditkartenschulden hängt — ist die makroökonomische Rückseite von MONITORs Kleptokratie-Recherche: Der Ballsaal und die 250-Dollar-Scheine mit Trumps Konterfei sind die Fassade über den Deals, die MONITOR granular nachzeichnet.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Ein Jahr nach dem Emirate-Deal drückt das Weiße Haus den Nvidia-Chef zurück ins Amt, während gegen den Kunden Megaspeed wegen der Chip-Exporte ermittelt wird. Drei ZDF-Korrespondenten streiten, ob hinter Trumps Freundschaften Erpressung steht oder schlicht Geschäft.
+
 ---
 
 ## Verbindungen

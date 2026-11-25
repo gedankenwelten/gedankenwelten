@@ -200,6 +200,10 @@ Was vom Nudge nach der Replikationskrise bleibt, und wer das Wissen bezahlt, auf
 
 Der ARTE-Film über Gefühle am Finanzmarkt stellt dieselbe Frage an die Börse: Wenn der Hunger nach Geld eine Verwundbarkeit ist, die alle teilen, schützen dann Regeln, die man sich selbst gibt, oder Sperren, die nicht vom eigenen Urteil abhängen?
 
+### → [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
+
+Lenkung im Großen: der Staat als Eigentümer von Hütten und Netzen und als Regierung, die bestimmt, wer ein Unternehmen führt.
+
 ---
 
 ## Weiterdenken

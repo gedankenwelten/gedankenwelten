@@ -240,3 +240,8 @@ Ein Aachener Anoden-Start-up antwortet auf die chinesische Batterie-Übermacht m
 ### → [[Geistesblitz/Jacob Beautemps — European Inventor Award 2024|European Inventor Award 2024]]
 
 Wie eine europäische Nische aus fehlender Geografie aussehen kann, zeigt FLASC aus Malta: ein Pumpspeicher, der die Höhe aus Druckluft gewinnt statt aus einem Berg.
+
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+Liebreich liefert die Zahlen zum leisen Straßenbild: In China seien zwei von drei verkauften Autos elektrisch und jeder dritte schwere Lkw (unser Faktencheck: 2025 waren es 55 und 28 Prozent). Seine Begründung, Verbrennen sei schlechte Thermodynamik und schlechte Ökonomie, ist Meyers Industrielogik.
+

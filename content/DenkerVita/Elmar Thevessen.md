@@ -77,3 +77,4 @@ Theveßen steht im liberal-demokratischen Spektrum des öffentlich-rechtlichen J
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
 - [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]]
 - [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus|Trump im Autokraten-Zirkus — Was die Bilder aus Shenzhen sagen]]
+- [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]

@@ -198,6 +198,10 @@ Der Snapshot zur Energiedebatte, mit dem Abschnitt zur Übergewinnsteuer in Ener
 
 Warum ein Einkommen heute weniger trägt als 1965, und was Inflation daran erklärt und was nicht.
 
+### → [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
+
+Wo der Staat nicht den Preis setzt, sondern das Eigentum übernimmt: Stahl, Netze, und ein Präsident, der bestimmt, wer einen Konzern führt.
+
 ---
 
 ## Weiterdenken

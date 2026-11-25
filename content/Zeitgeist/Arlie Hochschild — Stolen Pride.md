@@ -269,6 +269,10 @@ Ein Freiburger Schamforscher kommt mit Interviews alter Hitler-Anhänger zum sel
 
 De Wecks „Kumulierung der Kontrollverluste“ ist gestohlener Stolz im westlichen Maßstab; sein Lob der Langeweile antwortet auf die Empörungsökonomie.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Theveßen hält Trump für nicht erpressbar, weil er Regelbruch für normal hält, die „Teflonbeschichtung“. Hochschilds Scham-Ritual erklärt, warum Enthüllungen ihn bei seinen Wählern kaum treffen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

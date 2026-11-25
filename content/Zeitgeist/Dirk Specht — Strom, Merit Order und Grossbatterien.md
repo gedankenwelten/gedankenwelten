@@ -284,6 +284,10 @@ Die Fortsetzung nach der Hormus-Krise: Specht führt das chinesische Modell bis 
 
 Den Gegenentwurf, einen staatlichen Strompreisdeckel auf zehn Jahre für Industrie, Gewerbe und Haushalte, vertritt Patrick Kaczmarczyk in der Gaskrise 2026.
 
+### → [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]]
+
+Der Primärenergieirrtum auf der TED-Bühne: Liebreich hält ihn den Skeptikern entgegen, die mit 80 Prozent fossiler Primärenergie das Scheitern der Wende belegen, und baut darauf ein Modell aus vier Zeilen. Dessen Startwert, 30 Prozent saubere Nutzenergie, fanden wir nirgends belegt; auch der bessere Maßstab braucht Daten.
+
 ---
 
 ## Weiterdenken

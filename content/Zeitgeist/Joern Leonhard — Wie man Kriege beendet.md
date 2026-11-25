@@ -404,6 +404,10 @@ Der Militärökonom rechnet Kriege in Nachschub und Abnutzung und hält Moskaus 
 
 Thumann beantwortet die Frage, ob Putin zu sättigen ist, mit Nein: Wandel durch Handel trug bei einer saturierten Sowjetunion und verlor seinen Grund, als Moskau zurückhaben wollte.
 
+### → [[Zeitgeist/auslandsjournal — Trumps Buddies|Trumps Buddies — Was Freundschaft kostet]]
+
+Röller nennt Putins Kalkül eine Wette aufs Durchhalten. Am Ende fragen drei ZDF-Korrespondenten als Eltern, wie weit sie für Europas Freiheit gehen würden, genau die Frage nach den Toten, die Demokratien laut Leonhard begründen müssen.
+
 ---
 
 ## Weiterdenken
