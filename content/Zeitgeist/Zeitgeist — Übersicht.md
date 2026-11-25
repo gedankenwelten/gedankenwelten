@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*396 Notes — automatisch generiert · nach Thema sortiert*
+*397 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -380,6 +380,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (4▸6) Kernenergie und CO2|Mario Buchinger — Lügen der Kernenergie (4/6): Kernenergie ist CO₂-arm]] — Ist Atomstrom CO₂-frei? Mario Buchinger liest die IPCC-Daten genauer, folgt dem Uran durch seinen Lebenszyklus und nennt den Atommüll eine zweite planetare Grenze.
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen|Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme]] — Transmutation, Flüssigsalz, Dual Fluid, Mini-Reaktoren – Mario Buchinger nennt sie „pinke Einhörner“: Versprechen, die seit Jahrzehnten kommen. Schluss seiner Reihe über die Kernenergie.
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (Kommentarspalte)|Mario Buchinger — Lügen der Kernenergie: Kommentarspalte]] — Was die Kommentarspalte zurückschreibt, wenn ein Physiker Atom-Mythen zerlegt: Mario Buchinger antwortet auf die häufigsten Einwände, von Frankreichs Strom bis zur Sonne als Fusionsreaktor.
+- [[Zeitgeist/Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist|Michael Liebreich — Warum saubere Energie nicht aufzuhalten ist]] — Die Energiewende sei gescheitert, heißt es. Michael Liebreich hält dagegen: Sie gelingt, nur sieht sie anders aus, als man dachte. Ein Modell aus vier Zeilen zeigt, wie die Fossilen verdrängt werden, ohne Verbot.
 - [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus|MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Künftig soll der langsame Netzausbau das Tempo der Erneuerbaren bestimmen. MONITOR fragt, wem Katharina Reiches Gesetzentwurf nützt – und landet bei ihrem früheren Arbeitgeber E.ON.
 - [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft|Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft]] — Ein Windturm, der sich selbst zum Kran wird und in der Höhe Offshore-Werte erreicht, auch in Bayern. Norio erzählt von einer ostdeutschen Erfindung und dem Tal, in dem Innovationen sterben.
 - [[Zeitgeist/Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz|Patrick Kaczmarczyk — Gaskrise und Reiches Notfallgesetz]] — Wer im Sommer nicht einkauft, friert im Winter oder zahlt. Patrick Kaczmarczyk über Kohle gegen den Gaspreis, den Markt als Mantra und darüber, warum beim Heizen der Preis so wenig ausrichtet.

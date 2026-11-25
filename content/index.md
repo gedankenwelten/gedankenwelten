@@ -70,6 +70,12 @@ Die Gedankenwelten (luc)
 
 > → *17 weitere in* [[Panorama]]
 
+### GoodNews
+
+> **25.11.** — [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+>
+> Ein Kanal für gute Nachrichten fragt, warum sich alles wie Untergang anfühlt. Die Antwort liegt im eigenen Kopf, im Geschäft der Nachrichten und in der Menge, die uns täglich erreicht.
+
 ### Geistesblitz
 
 > **24.11.** — [[Geistesblitz/Jacob Beautemps — Made in Germany Awards 2026 Verleihung|Made in Germany Awards 2026 — Die Verleihung: wohin das Geld geht]]
@@ -117,12 +123,6 @@ Die Gedankenwelten (luc)
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
 
 > → *1 weitere in* [[Denker]]
-
-### GoodNews
-
-> **22.11.** — [[GoodNews/Good News - Gute Nachrichten November 2026|Good News — Gute Nachrichten November 2026]]
->
-> Dreizehn Meldungen, und die meisten sind Reparaturen. Die Sendung feiert, was zurückkehrt; ihre eigenen Quellen erzählen, was es kostet, damit es bleibt.
 
 ### Spuren
 

@@ -1,0 +1,206 @@
+---
+title: "Good News — Wenn du glaubst, die Welt geht unter"
+description: "Ein Kanal für gute Nachrichten fragt, warum sich alles wie Untergang anfühlt. Die Antwort liegt im eigenen Kopf, im Geschäft der Nachrichten und in der Menge, die uns täglich erreicht."
+aktualisiert: 2026-11-25
+date: 25.11.2026
+tags:
+  - goodnews
+  - medien
+  - psychologie
+  - wahrnehmung
+  - journalismus
+  - gesundheit
+  - klima
+  - demokratie
+  - ki
+  - year-2026
+aliases:
+  - If you think the world is ending, watch this
+  - Die Nadel steht links
+raetsel: "Neunmal war es der Wind. Wir sind die Enkel dessen, der jedes Mal lief."
+stimme:
+  - wer: "Sebastian Haffner"
+    art: register
+    umfang: "ganz"
+    am: 2026-11-25
+    geliehen: "Verwickeltes ruhig und unangestrengt erklären, weder akademisch noch platt; das Urteil sagen, ohne es zu erheben"
+    quelle: rekonstruiert
+---
+
+# Good News — Wenn du glaubst, die Welt geht unter
+
+![[assets/Good-News-Wenn-du-glaubst-die-Welt-geht-unter-banner.jpg|Surrealistisches Gemälde: In einem kahlen Zimmer steht vor einem offenen Fenster eine Staffelei. Durch das Fenster sieht man einen ruhigen Morgen mit grünen Hügeln, einem Fluss und einem Windrad. Das Bild auf der Staffelei setzt dieselbe Landschaft genau fort, zeigt aber brennende Hügel, schwarzen Rauch und Gewitter. Rechts auf dem Boden steht eine Waage aus Messing.|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte (*La condition humaine*, 1933)** — Magritte stellte ein Gemälde so vor ein Fenster, dass es die Landschaft dahinter nahtlos fortsetzt, und machte damit sichtbar, dass jedes Bild der Welt ein Bild ist und nicht die Welt. Leppins Video handelt von genau dieser Verwechslung: Der Rahmen der Nachrichten zeigt dieselben Hügel wie das Fenster, nur brennend. Hier ist es umgekehrt wie bei Magritte, das Bild auf der Staffelei ist düsterer als der Blick hinaus, und die Waage am Boden fragt nach dem Verhältnis. Ob der Morgen draußen das ganze Bild ist, sagt die Malerei nicht, und das gehört zu ihr.
+
+*Prompt:* Oil painting in the manner of René Magritte, surrealist, smooth flat brushwork, crisp clear light, quiet and uncanny, wide panoramic 1200x500 composition. Interior of a plain room with pale walls and a tall open window. Through the window: a calm early morning landscape, soft green meadows, a few round trees, a still river, a pale blue sky with small white clouds, a tiny wind turbine on a far hill. In front of the window stands a wooden easel holding a painted canvas that covers part of the view and continues the horizon line exactly, the same hills and river, but inside the canvas the sky is dark and stormy, red fire glows on the hills and black smoke rises. The edge of the canvas is clearly visible, the illusion seamless. To the right, on the floor, a simple brass scale with a balance needle resting slightly left of center. Calm, enigmatic, no people, no text, no letters, no signature.
+
+</details>
+
+<details><summary>✒️</summary>
+
+**Angelehnt an Sebastian Haffner** — ein Versuch in dieser Tonlage. Geliehen: Verwickeltes ruhig und unangestrengt erklären, weder akademisch noch platt; das Urteil sagen, ohne es zu erheben.
+*Beim Schreiben still gewählt am 25.11.2026.*
+
+Keine Nachahmung, nur eine Anlehnung — die Gedanken sind die von Good News, die Erzählstimme ist unsere.
+
+</details>
+
+> [!abstract] Worum es geht
+> Ein Kanal für gute Nachrichten fragt, warum sich alles wie Untergang anfühlt. Mehr als 500 Zuschauer hatten Freddy Leppin ihre Sorgen geschickt, und unter allen Themen fand er dasselbe Gefühl: Die Welt wird schlechter, und man schaut nur zu. Seine Antwort hat drei Teile. Ein Alarm im Kopf, der eine Geschichte über Gefahr nicht von der Gefahr unterscheidet. Nachrichten, die von diesem Alarm leben. Und eine Menge an schlechten Nachrichten aus aller Welt, für die kein Nervensystem gebaut ist. Dann geht er acht Sorgen durch, von Gesundheit bis KI, und legt neben jede die Zahlen, die selten in der Schlagzeile stehen. Bei Krieg und KI sagt er offen, dass er nichts Beruhigendes versprechen kann. Worauf man sich einlässt: ein Video über Rahmung, das selbst rahmt, von einem Sponsor für Nachrichtenvergleich bezahlt und mit Werbung für das eigene Buch. Die Zahlen halten großenteils, einige sind verrutscht, und das stärkste Argument liegt in den Studien, die er zeigt.
+
+Quelle: [If you think the world is ending, watch this](https://www.youtube.com/watch?v=v2NVu_Na6Nc) — Good News, veröffentlicht am 23.11.2026, 29:41 Min., englisch
+
+> [!info] Wer spricht?
+> **Freddy Leppin** — Gründer und Moderator des YouTube-Kanals *Good News*, den er 2022 mit Luis Malter gegründet hat und der monatlich positive Nachrichten aus Umwelt, Wissenschaft, Gesundheit und Politik zusammenträgt. Diesmal keine Monatsausgabe: Leppin nennt das Video selbst sein ausführlichstes und vielleicht wichtigstes. Er spricht allein, aus Deutschland, auf Englisch.
+>
+> → [[DenkerVita/Freddy Leppin|DenkerVita]]
+
+> [!warning] Transparenz — zwei Abschnitte in eigener Sache
+> **Der Sponsor.** Mitten im Klima-Kapitel, ohne eigene Kapitelmarke, wirbt Leppin gut eine Minute lang für **Ground News**, eine App, die zu jeder Meldung zeigt, wie linke, mittige und rechte Medien berichten (ab [▶ 13:20](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=800)). Die Überleitung ist das beste Beispiel des ganzen Videos für Rahmung: zwei Schlagzeilen zur selben Zahl. Es führt direkt in die Werbung. Die Videobeschreibung und der angeheftete Kommentar kennzeichnen den Link als *„(sponsored)"*, mit 40 Prozent Rabatt über den Kanal.
+>
+> **Das Buch.** Im Kriegs-Kapitel, nach der Geschichte von Kroatiens Minenräumung, wirbt der Kanal knapp eine Minute lang für sein eigenes *Good News Book* ([▶ 16:48](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1008)): Kroatien stehe darin, gedruckt in Dänemark auf Recyclingpapier, Lieferung vor Weihnachten. Am Ende empfiehlt er es noch einmal als Geschenk für jemanden, „der gute Nachrichten hören muss". Beides ist offen benannt. Es heißt aber auch: Das Video über die verzerrte Auswahl der Nachrichten verkauft am Ende eine Auswahl in die andere Richtung.
+
+---
+
+## Die Nadel steht ganz links
+
+[▶ 0:00](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=0) — Leppin beginnt mit einer Umfrage. Mehr als 500 Zuschauer schrieben ihm, wovor sie Angst haben, und er hatte eine Liste von Themen erwartet: Lebenshaltungskosten, Kriege, Klima, korrupte Politiker, KI. Beim Lesen jeder einzelnen Antwort kam etwas anderes durch. *„It wasn't really about the topics. Underneath all of them was the same feeling that the world is getting worse and you are just watching it happen."* [▶ 1:32](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=92) — Fast zwei Drittel glaubten, die Welt werde schlechter, und die Sorgen lagen alle beinahe gleichauf. Das sei ein seltsames Ergebnis, sagt Leppin, denn es heiße: Das Problem ist kein einzelnes Thema, es ist das Gefühl darunter.
+
+Dafür zeichnet er eine Skala mit einer Nadel. Ganz links steht „Die Welt brennt", ganz rechts „Alles ist perfekt". Die Nadel stecke links fest, [▶ 0:46](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=46) — und er wolle sie nicht nach rechts schwingen, das wäre genauso wahnhaft, nur in die Mitte, *„somewhere in the area where reality probably lies"*. Dann gibt er ein Versprechen, das man sich merken sollte: Am Ende des Videos werde man sich viel besser fühlen.
+
+> [!note] Eigene Einschätzung
+> Die Umfrage ist kein Querschnitt. Wer einem Kanal für gute Nachrichten folgt und ihm seine Ängste schickt, ist eine besondere Gruppe, und Leppin sagt nirgends, wie er die 500 Antworten ausgewertet hat. Als Messung der Welt taugt sie nicht, als Einstieg schon: Sie zeigt eine Stimmung, die man auch außerhalb des Kanals kennt. Das Versprechen am Anfang verdient einen zweiten Blick. Wer verspricht, dass man sich hinterher besser fühlt, hat das Ergebnis vor der Prüfung festgelegt. Das muss die Zahlen nicht falsch machen. Es heißt nur, dass das Video eine Richtung hat, und die Richtung ist die, die der Kanal verkauft.
+
+## Der Nervöse im Gebüsch
+
+[▶ 2:18](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=138) — Die erste Kraft, sagt Leppin, seien nicht die Nachrichten, sondern wir selbst, oder genauer: eine Software im Kopf, die etwa 100.000 Jahre alt sei. Zwei Vorfahren hören es im Gebüsch rascheln. Der eine denkt, es ist der Wind, und bleibt sitzen. Der andere denkt, es könnte ein Löwe sein, und rennt. Neunmal von zehn ist es der Wind, und der Nervöse sieht ein wenig albern aus. Beim zehnten Mal ist es der Löwe, und der Gelassene wird gefressen. *„You are the descendant of the nervous one."*
+
+[▶ 3:03](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=183) — Der Teil von uns, der das Schlimmste erwartet, sei darum nicht kaputt. Er habe die Familie am Leben gehalten. Nur habe das Gehirn das Update nie bekommen: Der Alarm unterscheide nicht zwischen einer echten Gefahr und einer Geschichte über eine Gefahr, und eine bedrohliche Schlagzeile löse dieselbe Verdrahtung aus wie ein Raubtier.
+
+> [!note] Eigene Einschätzung
+> Die Geschichte vom Löwen ist eine Erzählung, keine Messung. Niemand hat die beiden Vorfahren beobachtet, und solche Ursprungsgeschichten der Evolutionspsychologie lassen sich schwer prüfen. Was sich prüfen lässt, ist der Befund, den sie erklären soll: Negatives wiegt für uns schwerer als gleich großes Positives, wir bemerken es schneller und erinnern es länger. Dafür gibt es viel Forschung, und auf ihr steht Leppins Argument fest, auch wenn man die Löwengeschichte weglässt. Der zweite Satz, der Alarm reagiere auf eine Schlagzeile wie auf ein Raubtier, ist ein starkes Bild. Für den Leser genügt das, was er im eigenen Magen kennt, wenn eine Eilmeldung kommt.
+
+## Ein Wort kippt die Entscheidung
+
+Dann spielt Leppin mit dem Zuschauer ein Experiment durch. Ein gefährliches Virus breitet sich aus, 600 Menschen werden sterben, wenn nichts geschieht. Plan A rettet 200 sicher. Plan B rettet mit einem Drittel Wahrscheinlichkeit alle 600 und mit zwei Dritteln niemanden. [▶ 3:50](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=230) — Im zweiten Durchgang heißt es: Bei Plan C sterben 400 sicher, bei Plan D stirbt mit einem Drittel Wahrscheinlichkeit niemand und mit zwei Dritteln sterben alle. Nebeneinander gelegt sind A und C dasselbe, B und D ebenso. In der Studie, die er zeigt, wählten im ersten Durchgang 72 Prozent den sicheren Plan A, im zweiten 78 Prozent das Wagnis. *„The only thing that changed was one word, saved or died."*
+
+Das ist der Framing-Effekt, eingeblendet mit der Quelle: Amos Tversky und Daniel Kahneman, 1981, in *Science*. [▶ 4:35](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=275) — Wenn ein einziges Wort eine Entscheidung so leicht umdrehen kann, sagt Leppin, dann formt die Wortwahl jeder Schlagzeile, an der man vorbeiscrollt, still das eigene Bild der Welt. Und wer entscheidet, wie fast alles gerahmt wird, was wir über die Welt erfahren? Die Medien.
+
+> [!question] Weitergedacht
+> Leppin zeigt, wie ein Wort die Wahl kippt, und rahmt im selben Video die Welt mit einer Nadel, die von „brennt" bis „perfekt" reicht. *Gibt es eine Darstellung von Zahlen, die nicht rahmt, oder kann man nur wählen, welchen Rahmen man offenlegt?*
+
+## Wenn es blutet, kommt es nach vorn
+
+[▶ 4:35](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=275) — Die alte Redaktionsregel kennt jeder: *„If it bleeds, it leads."* Bedrohung, Empörung und Streit fangen Aufmerksamkeit, langsamer Fortschritt nicht. Hier wird Leppin vorsichtig, und das gehört zu den besten Stellen des Videos: *„This isn't a conspiracy. It's an incentive."* Redaktionen unter größerem finanziellem Druck setzten stärker auf negative Berichte, um ihr Publikum zu halten. [▶ 5:21](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=321) — Eine Studie habe die politische Fernsehberichterstattung in drei Ländern über Jahre ausgewertet: Negative Berichte überwogen die positiven etwa zehn zu eins, und das schon 2007, vor den sozialen Medien. Eine andere fand, dass gute politische Nachrichten nur sechs Prozent ausmachten. Im Bild markiert er die Stellen mit dem Textmarker, in einer Übersichtsarbeit, die Studien von Lengauer (2007) und Esser und Kollegen (2009) zusammenfasst.
+
+[▶ 5:21](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=321) — Dazu kommt der Third-Person-Effekt, laut Leppin einer der robustesten Befunde der Medienforschung: Fast jeder glaubt, die Medien beeinflussten die anderen stärker als ihn selbst. [▶ 6:07](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=367) — *„Thinking you are the exception is usually the surest sign you're not."* Das schließe ihn ein und den Zuschauer auch.
+
+Das Neue sei die Reichweite. Die längste Zeit der Menschheitsgeschichte erfuhr man von der Gefahr in der Nähe oder vom kranken Verwandten; ein Unglück auf der anderen Seite der Erde erreichte einen nie. [▶ 6:53](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=413) — Heute komme jeder Krieg, jede Katastrophe in Echtzeit. *„Now we are feeding it the entire planet's worst day every day."* Eine Studie habe Teilnehmer zwanzig Wochen lang begleitet: Wer harte Nachrichten las, dessen Wohlbefinden verbesserte sich weniger als bei denen, die weiche Nachrichten lasen.
+
+Dann kommt der Satz, auf dem das ganze Video ruht. Nachrichten seien nicht der Schurke. Man brauche jemanden, der zeigt, was kaputt ist, den Krieg, den Skandal, die Regierung, die zur Rechenschaft gezogen wird; die Welt werde nur besser, wenn jemand auf ihre Probleme zeigt. [▶ 7:40](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=460) — Das Problem sei das Verhältnis: der Alarm mit voller Lautstärke, den ganzen Tag, von überall, und fast nie der Teil, in dem es still besser wird.
+
+> [!note] Eigene Einschätzung
+> Hier steht Leppin auf festem Grund, und er bleibt fair. Die Erklärung über Anreize statt über Verschwörung ist die richtige, und dass er die kritische Funktion der Nachrichten ausdrücklich verteidigt, unterscheidet das Video von der verbreiteten Medienschelte. Zwei Einschränkungen gehören dazu. Die Zahlen aus der Übersichtsarbeit stammen aus Wahlkampfberichten im Fernsehen, einem Feld, in dem Negatives besonders gehäuft auftritt; für Nachrichten insgesamt sagen sie weniger. Und „weiche Nachrichten" in der Wohlbefindens-Studie sind nicht dasselbe wie gute Nachrichten. Was das Video daraus macht, eine Lücke, die man mit der fehlenden Hälfte füllen kann, ist plausibel, aber ein Schritt über die Studie hinaus.
+
+## Gesundheit und Sicherheit
+
+[▶ 7:40](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=460) — Dann geht Leppin die Sorgen einzeln durch, beginnend mit den zwei, vor denen seine Zuschauer am wenigsten Angst hatten. Seit 1990 sei die Zahl der Kinder, die vor ihrem fünften Geburtstag sterben, um 60 Prozent gefallen, eingeblendet mit der UN-Gruppe für die Schätzung der Kindersterblichkeit. 132 Millionen Kinder lebten heute dank dieses Fortschritts, [▶ 8:25](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=505) — ungefähr so viele Menschen, wie Großbritannien und Frankreich zusammen haben. Impfungen allein hätten in fünfzig Jahren 150 Millionen Kindern das Leben gerettet.
+
+Bei Krebs nennt er die USA: Mitte der 1970er überlebten etwa fünf von zehn Erkrankten fünf Jahre oder länger, heute sieben von zehn, und die Krebssterblichkeit sei seit 1991 um 34 Prozent gefallen. Ein Teil davon gehe auf das Rauchen zurück, dessen Anteil unter Erwachsenen weltweit seit 2000 um fast 40 Prozent gesunken sei, [▶ 9:11](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=551) — in Indien um mehr als die Hälfte, in Großbritannien um mehr als 60 Prozent, in den USA auf ein Rekordtief von etwa einem von elf Erwachsenen. Dazu bessere Früherkennung, gezieltere Therapien und KI: Ein internationales Forscherteam habe Modelle gebaut, die Gewebebilder auf bestimmte Krebsarten untersuchen, mit 99 Prozent Genauigkeit.
+
+[▶ 9:58](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=598) — Bei der Kriminalität: London verzeichnete 2025 97 Tötungsdelikte, so wenige wie seit fast 25 Jahren nicht. In den USA sinke die Waffengewalt in mehr als drei Vierteln der Städte, die zuvor die höchsten Schusszahlen hatten, getragen von Sozialarbeitern, Jugendprogrammen und Initiativen vor Ort. *„Of course, these problems are not solved, but the progress is real and it's measurable."*
+
+> [!note] Eigene Einschätzung
+> Die Gesundheitszahlen sind die stärksten des Videos, weil sie über Jahrzehnte gehen und aus Quellen kommen, die nicht im Verdacht stehen, schönzufärben: UN-Statistik, eine Modellstudie in *The Lancet*, die Krebsstatistik der American Cancer Society. Die 99 Prozent bei der KI sind anderer Art. Eine Genauigkeit im Labor an ausgewählten Bildern ist noch keine Diagnose im Krankenhaus, und das Video sagt nicht, um welche Krebsarten es geht. Bei der Kriminalität wählt Leppin Orte, an denen es besser wird; das ist sein Thema, aber es sind Beispiele, kein Weltbild.
+
+## Klima: die Kurve, die nach oben geht
+
+[▶ 10:44](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=644) — Klima ist die Sorge, die Leppin ausdrücklich für berechtigt hält: Die Temperaturen sind gestiegen, Extremwetter wird häufiger und heftiger. Darunter aber liefen Trends in die richtige Richtung, von denen die meisten nie gehört hätten. Vor zehn Jahren lieferten Wind und Sonne weniger als fünf Prozent des Stroms weltweit. Im vergangenen Jahr hätten die Erneuerbaren zum ersten Mal in der Neuzeit mehr Strom erzeugt als die Kohle. Und 2025 sei der gesamte Zuwachs im Strombedarf der Welt von sauberer Energie gedeckt worden, [▶ 11:29](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=689) — sodass die fossile Stromerzeugung außerhalb einer Rezession zum ersten Mal nicht stieg. *„This might be the turning point we've been waiting for."* Eingeblendet ist jedes Mal der Thinktank Ember.
+
+China habe 2025 allein mehr Solarleistung gebaut als der Rest der Welt zusammen, seine Wind- und Solarstromerzeugung sei in einem Jahr um mehr als 40 Prozent gewachsen, und die fossile Erzeugung sei trotz steigendem Bedarf gefallen. Indien habe seine erneuerbare Leistung in zehn Jahren mehr als verdreifacht und mehr als die Hälfte seiner Kraftwerksleistung aus sauberen Quellen erreicht, fünf Jahre vor dem Ziel, das es in Paris zugesagt hatte. [▶ 12:14](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=734) — Eine Studie zweier europäischer Universitäten über mehr als eine Million Solaranlagen in Deutschland habe gefunden, dass Module nur etwa halb so schnell an Leistung verlieren wie angenommen. Und im Mai 2026 hätten Solaranlagen in den USA zum ersten Mal mehr Strom erzeugt als Kohle, 12,8 gegen 12,2 Prozent.
+
+[▶ 12:59](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=779) — Spannend daran sei nicht nur die Zahl, sondern die Rahmung. Bloomberg titelte nüchtern, Solar überhole Kohle in einem historischen Wandel des US-Strommix. Gizmodo schrieb, Amerikas Solarstrom habe einen Meilenstein erreicht, der Trump nicht freuen werde. *„Neither one is lying to you. They are just choosing what they want you to feel about the same fact, which is basically this entire video in one real example."* Mit diesem Satz beginnt die Werbung für Ground News.
+
+> [!note] Eigene Einschätzung
+> Die Bloomberg-Gizmodo-Stelle ist der klügste Moment des Videos und zugleich ein Lehrstück, das Leppin vielleicht nicht beabsichtigt. Sie zeigt genau, was er erklärt: dieselbe Tatsache, zwei Gefühle. Dann wird sie zur Brücke in eine Anzeige für ein Produkt, das gegen genau dieses Problem verkauft wird. Das ist nicht unredlich, die Werbung ist gekennzeichnet. Aber es ist dieselbe Mechanik in freundlicher Form: Ein Gefühl wird erzeugt, und dann wird ihm etwas angeboten. Beim Klima selbst trägt das Kapitel, weil Leppin den ersten Satz stehen lässt. Die Kurve der Erneuerbaren geht steil nach oben, und die Erwärmung geht trotzdem weiter; beides zugleich ist die ehrliche Lage.
+
+> [!question] Weitergedacht
+> Ground News verspricht, jede Meldung von links, Mitte und rechts zu zeigen. *Wird das Bild der Welt dadurch vollständiger, oder lernt man nur, dass jede Seite rahmt, und die Lücke zwischen guten und schlechten Nachrichten bleibt, wo sie war?*
+
+## Krieg und Atomwaffen
+
+[▶ 13:44](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=824) — Das Kriegs-Kapitel beginnt mit einem Eingeständnis: Hier könne er nicht sagen, dass es besser wird, jedenfalls nicht im Moment. Leppin erzählt, dass Krieg in Europa für ihn als Kind etwas aus Geschichtsbüchern war, [▶ 14:31](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=871) — bis Russland die Ukraine überfiel. Die häufigste Angst in den Kommentaren sei die vor Atomwaffen gewesen. Auf dem Höhepunkt des Kalten Kriegs 1986 habe es rund 70.000 Sprengköpfe gegeben, [▶ 15:17](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=917) — heute etwa 12.200, nach Verträgen, Verhandlungen und Inspekteuren, die Sprengköpfe zählten und zerlegten. Er zeigt auch, dass der Abbau in den letzten Jahren stockt und die Staaten ihre Arsenale modernisieren, eingeblendet mit der Federation of American Scientists.
+
+Dann das, was Menschen nach dem Krieg tun. In Sri Lanka lag der Norden nach fast dreißig Jahren Bürgerkrieg voller Minen; die Organisation HALO Trust räumte Bezirk um Bezirk, im vergangenen Juni die 300.000. Mine, [▶ 16:03](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=963) — und mehr als 280.000 Vertriebene seien zurückgekehrt. Kroatien habe in diesem Jahr nach 30 Jahren und 410.000 geräumten Sprengkörpern das Land für minenfrei erklärt. Hier folgt die Werbung für das Buch.
+
+> [!note] Eigene Einschätzung
+> Das Kapitel ist ehrlicher als sein Titel verlangt. Leppin hätte die Kurve der Sprengköpfe als reine Erfolgsgeschichte zeigen können; er zeigt den Knick am Ende mit. Was er weglässt, ist die Frage, die bei Atomwaffen mehr zählt als die Zahl: Schon ein kleiner Teil der 12.200 reicht für eine Katastrophe, und der letzte große Abrüstungsvertrag zwischen den USA und Russland, New START, lief im Februar 2026 aus. Die Minenräumung dagegen ist genau die Art Nachricht, für die der Kanal da ist: langsam, örtlich, ohne Explosion, also ohne Schlagzeile.
+
+## Geld, Politik und KI
+
+[▶ 17:34](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1054) — Die letzten drei Sorgen, sagt Leppin, seien anders. Bei Lebenshaltungskosten, Politik und KI könne er keine Kurve zeigen, die nach rechts oben geht; sie seien örtlich, unübersichtlich und teils wirklich ungewiss. Aber bei ihnen sei der Abstand zwischen gefühlter und tatsächlicher Lage am größten.
+
+**Lebenshaltungskosten.** [▶ 18:19](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1099) — 70 Prozent seiner Zuschauer waren deswegen sehr besorgt, mehr als wegen allem anderen. Leppin nimmt das ernst: Miete, Einkauf, Stromrechnung, das Geld reicht für viele nicht mehr so weit. Dann eine Studie über Jahrzehnte von Wirtschaftsnachrichten: Wird die Wirtschaft schlechter, explodiert die Berichterstattung, wird sie besser, wird es still. [▶ 19:04](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1144) — Er erinnert an die Eierpreise, die im vergangenen Jahr überall in den Schlagzeilen standen, und an niemanden, der meldete, dass sie wieder fielen. Eine weitere Studie habe gefunden, dass Berichte über eine mögliche Rezession selbst in Wachstumsphasen eine auslösen können, weil die Angst verändert, wie Menschen Geld ausgeben. [▶ 19:50](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1190) — Er wolle mit einer Medienstudie niemandem erzählen, seine Miete sei in Ordnung; das Bild der Wirtschaft im Kopf könne aber dunkler sein als die Wirtschaft selbst, *„not because you're wrong to struggle, but because the struggle is the only part that ever gets reported."* Dann Beispiele aus anderen Teilen der Welt: fast 100 Millionen Kinder weniger in extremer Armut als vor zehn Jahren, von 507 Millionen 2014 auf 412 Millionen 2024, [▶ 20:36](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1236) — vor allem in Südasien; in Mexiko weniger Armut und eine wachsende Mittelschicht, getragen vom Mindestlohn, der seit 2018 jedes Jahr gestiegen ist; in Paraguay eine Armutsquote, die in zwei Jahrzehnten von 51 auf 16 Prozent fiel.
+
+**Politik.** [▶ 21:22](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1282) — Politische Nachrichten seien die negativsten von allen. Dagegen stellt Leppin drei Fälle, in denen jemand versuchte, eine Demokratie zu brechen, und scheiterte. [▶ 22:09](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1329) — Südkoreas Präsident rief Ende 2024 das Kriegsrecht aus; Abgeordnete kletterten über Zäune ins Parlament und hoben es nach sechs Stunden auf, er wurde abgesetzt und zu lebenslanger Haft verurteilt. In Brasilien wurde Jair Bolsonaro für einen Putschplan zu 27 Jahren verurteilt. In Ungarn wählten die Menschen im April 2026 nach 16 Jahren Viktor Orbán ab, bei der höchsten Wahlbeteiligung seit dem Ende des Kommunismus, und er räumte die Niederlage ein. [▶ 23:42](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1422) — Dann zur Spaltung: Eine weltweite Befragung von fast 130.000 Menschen in 125 Ländern ergab, dass 89 Prozent mehr Klimaschutz von ihrer Regierung wollen, und die meisten glaubten, sie seien damit in der Minderheit. Dazu ein Pandemievertrag der WHO, Handelsabkommen der EU mit dem Mercosur, mit Indien und Australien, Schutz für 70 Hai- und Rochenarten und das Hochseeschutzabkommen, das in Kraft getreten ist.
+
+**KI.** [▶ 25:14](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1514) — Die Angst vor KI hat viele Gesichter: Jobs, verdummte Kinder, Kunst und Nähe als Massenware, Rechenzentren, die das Klima belasten. *„I'm not going to tell you none of that happens because nobody knows how this one ends."* Gerade darum sei KI das deutlichste Beispiel für alles, was er beschrieben hat: neu, abstrakt, ohne sichtbares Ende, perfekter Brennstoff für die Angstmaschine. [▶ 26:00](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1560) — Dieselbe Technik helfe, Schlaganfälle schneller zu erkennen, höre im Regenwald Guatemalas nach Kettensägen, verfolge Wildtierhändler im Netz und lenke Schiffe um Wale herum. In einer Befragung in 25 Ländern sei die größte Gruppe hin- und hergerissen, gleich besorgt wie begeistert. [▶ 26:45](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1605) — Mehr als die Hälfte der Erwachsenen in den USA glaube, KI mache Menschen weniger kreativ, und drei von vier sei wichtig, ob etwas von einer KI oder einem Menschen stammt. [▶ 27:31](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1651) — Diese geteilte Unruhe werde schon zu Gesetzen, in der EU und in Südkorea. *„Problems get addressed when enough people want the same thing."*
+
+> [!note] Eigene Einschätzung
+> In diesem Teil beantwortet das Video manchmal eine andere Frage als die gestellte. Wer in Hamburg seine Miete nicht zahlen kann, hört von weniger armen Kindern in Südasien eine gute Nachricht, aber keine über seine Miete. Leppin sagt das selbst, gute Wirtschaftsnachrichten seien örtlich, und das ist anständig. Bei der Politik sind die drei Fälle stark, weil sie keine Kurven sind: Menschen klettern über Zäune, Gerichte urteilen, Wähler gehen hin. Dass sie gut ausgingen, heißt nicht, dass jeder Versuch so endet; es zeigt, wovon das Gute abhängt. Am stärksten ist der Befund über die Klimabefragung, weil er das eigentliche Thema des Videos trifft: Wir täuschen uns nicht nur über die Welt, sondern auch über die anderen. Und bei der KI hält Leppin aus, was er bei den anderen Sorgen auflöst, das ehrliche „das weiß niemand".
+
+> [!question] Weitergedacht
+> Wenn 89 Prozent mehr Klimaschutz wollen und die meisten sich für eine Minderheit halten: *Ist der Irrtum über die anderen am Ende folgenreicher als der Irrtum über die Welt, weil er entscheidet, ob man überhaupt handelt?*
+
+## Die Nadel in der Mitte
+
+[▶ 27:31](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1651) — Am Schluss kehrt Leppin zur Nadel zurück. Es sei nie sein Ziel gewesen, sie auf „alles ist perfekt" zu schwingen: Die Löhne haben nicht aufgeholt, das Klima erwärmt sich weiter, die Politik fühlt sich vielerorts kaputt an. [▶ 28:17](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1697) — Aber vieles, wovor man am meisten Angst hat, bewege sich still in die andere Richtung. *„So, no, the world isn't fixed, but it isn't ending either. It's probably somewhere in the middle."*
+
+Was man damit anfangen soll, sagt er in zwei Sätzen. Wenn einem das nächste Mal der Magen absackt, fragen: Ist das das ganze Bild, oder nur die eine blutende Geschichte, die zehnmal so viel Aufmerksamkeit bekommt? Und das Beängstigende nicht die einzige Nahrung des Gehirns sein lassen, [▶ 29:02](https://www.youtube.com/watch?v=v2NVu_Na6Nc&t=1742) — sondern auch die andere Hälfte suchen, das, was nie eine Schlagzeile wurde, weil nichts explodiert ist. Dafür gebe es diesen Kanal.
+
+> [!note] Eigene Einschätzung
+> Die erste Frage ist der wertvollste Satz des Videos, weil sie nichts verkauft und überall funktioniert: Ist das das ganze Bild? Sie gilt allerdings in beide Richtungen, auch für dieses Video. Auch die Auswahl der guten Nachrichten ist eine Auswahl, und die „Mitte", in der die Wahrheit „probably" liegen soll, ist selbst ein Rahmen, ein beruhigender. Leppin gibt dafür das Werkzeug mit, ohne es auf sich selbst anzuwenden. Das schmälert das Video nicht, es macht seine Grenze sichtbar. Die Nadel bewegt sich nicht durch eine bessere Auswahl, sondern durch die Gewohnheit, nach dem Verhältnis zu fragen. Gegenüber einer Untergangsmeldung ist das Gleichmut, gegenüber einer Erfolgsmeldung auch.
+
+---
+
+## Faktencheck
+
+---
+
+## Weiterführende Quellen
+
+*Aus dem Video eingeblendet:*
+
+- Tversky, A. & Kahneman, D. (1981): *The Framing of Decisions and the Psychology of Choice*, Science — das Virus-Experiment
+- UN Inter-agency Group for Child Mortality Estimation (UN IGME), 2026 — Kindersterblichkeit
+- Shattock u. a. (2024), *The Lancet* — Leben, die Impfungen in 50 Jahren gerettet haben
+- American Cancer Society, *Cancer Statistics, 2025*
+- Metropolitan Police — Tötungsdelikte in London
+- Gun Violence Archive — Waffengewalt in US-Städten
+- Ember — Global Electricity Review und Monthly Electricity Data
+- Federation of American Scientists — Status of World Nuclear Forces
+- Weltbank und UNICEF — Kinder in extremer Armut
+- Pew Research Center — Einstellungen zu KI
+
+*Aus der Video-Beschreibung:*
+
+- [Good News Book](https://shop.good-news.io/products/the-good-news-book) — das Buch des Kanals (Werbung in eigener Sache)
+- [Ground News](https://ground.news/GN) — Sponsor des Videos
+
+---
+
+## Verbindungen
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Wenn der Alarm im Kopf eine Geschichte über Gefahr nicht von der Gefahr unterscheidet: *Unterscheidet er dann eine Geschichte über Fortschritt vom Fortschritt, oder wirken gute Nachrichten auf ihn gar nicht?*
+> - Leppin verteidigt die schlechten Nachrichten als Werkzeug der Kontrolle und kritisiert ihr Verhältnis zu den guten. *Wer soll dieses Verhältnis festlegen, und nach welchem Maß wäre es „richtig"?*
+> - Das Video verspricht am Anfang, dass man sich am Ende besser fühlt. *Ist ein besseres Gefühl ein Zeichen dafür, dass man die Welt genauer sieht, oder kann es genau das Gegenteil sein?*
+> - Wer die Nachrichten meidet, weil sie ihm schaden, und nur noch gute Nachrichten sieht, steht mit seiner Nadel vielleicht ebenso schief, nur rechts. *Wie sähe eine Gewohnheit aus, die beide Hälften hält, ohne sich in eine davon zurückzuziehen?*
+> - Die meisten halten sich beim Klimaschutz für eine Minderheit und sind keine. *Wo im eigenen Leben könnte man denselben Irrtum begehen?*

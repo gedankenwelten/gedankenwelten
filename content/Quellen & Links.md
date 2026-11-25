@@ -540,6 +540,14 @@ tags:
 | **Transkript** | `Gedankenwelten/Transkripte/Wilholt_Wahrheit_Wissen_Transkript.txt` |
 | **Fund** | Diogenes, Nacht 31.08.2026 (`gedankenwelten_pro`) |
 
+## Freddy Leppin — If you think the world is ending, watch this
+
+| | |
+|---|---|
+| **Video** | [If you think the world is ending, watch this](https://www.youtube.com/watch?v=v2NVu_Na6Nc) — Good News, 23.11.2026, 29:41 Min. (keine öffentliche Quellenliste; Quellen im Bild eingeblendet) |
+| **Notiz** | [[GoodNews/Good News - Wenn du glaubst die Welt geht unter]] · [[DenkerVita/Freddy Leppin]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Leppin_WorldEnding_Transkript.txt` |
+
 ## Freddy Leppin — Your Monthly Dose of Good News, November 2026
 
 | | |
@@ -6337,3 +6345,4 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vita** | [[DenkerVita/Michael Liebreich]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Liebreich_CleanEnergy_Transkript.txt` (manuelle englische Untertitel, vollständig) |
 | **Daten** | [Ember 2026, Global Electricity Review](https://ember-energy.org/latest-insights/global-electricity-review-2026/) · [IEA 2026, Electrification](https://www.iea.org/reports/electrification-2026) · [Hydrogen Ladder 5.0](https://mliebreich.substack.com/p/hydrogen-ladder-version-50) |
+| **Grafik** | `Gedankenwelten/assets/Michael-Liebreich-Modell-Empfindlichkeit.png` — eigene Rechnung nach Liebreichs Modell; Daten: [Global Carbon Budget 2026](https://globalcarbonbudget.org/fossil-co2-emissions-decrease-in-2026/) · [Forster u. a. 2026](https://doi.org/10.5194/essd-18-3889-2026) (Tabelle 8, Restbudgets ab 2026) |

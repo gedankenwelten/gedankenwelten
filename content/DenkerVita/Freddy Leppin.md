@@ -111,6 +111,7 @@ Nicht: Ideologische Schärfe, sondern pragmatische Problemorientierung.
 - [[GoodNews/Good News - Gute Nachrichten September 2026]]
 - [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2]]
 - [[GoodNews/Good News - Gute Nachrichten November 2026]]
+- [[GoodNews/Good News - Wenn du glaubst die Welt geht unter]]
 
 ---
 

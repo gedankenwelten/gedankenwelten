@@ -30,8 +30,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 29,
-   "aufrufe": 30
+   "leser": 28,
+   "aufrufe": 29
   },
   {
    "pfad": "/DenkerVita/Kalayo",
@@ -339,11 +339,6 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 8,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 8,
      "aufrufe": 8
@@ -352,6 +347,11 @@
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 7,
      "aufrufe": 8
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 7,
+     "aufrufe": 7
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -640,8 +640,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 29,
-     "aufrufe": 30
+     "leser": 28,
+     "aufrufe": 29
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1555,8 +1555,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 23,
-     "aufrufe": 23
+     "leser": 22,
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Kalayo",

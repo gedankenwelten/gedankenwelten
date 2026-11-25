@@ -144,15 +144,11 @@ Der Schluss nimmt dem Gegner das Wort weg, das er für sich beansprucht. „Prag
 
 Liebreichs Modell hat den Vorzug, dass jeder es nachrechnen kann, und den Nachteil, dass man dann sieht, wie viel an vier Zahlen hängt. Er selbst nennt es eine Illustration [▶ 7:12](https://www.youtube.com/watch?v=ACCnhY1fKoI&t=432). Dreht man an den Zahlen, ändert sich nicht die Richtung, wohl aber die Zeit, und zwar gewaltig. Das ist unsere Rechnung mit seinen vier Zeilen, jeweils eine Annahme verändert:
 
-| Annahme | Fossile am Höhepunkt | Fossile bei null | fossiles CO₂ bis dahin |
-|---|---|---|---|
-| Liebreichs Zahlen (30 % sauber, Bedarf +2 %, sauber +5 %) | nach 10 Jahren, 4 % über heute | nach 42 Jahren | etwa 1.300 Gt |
-| sauberer Start bei 20 % statt 30 % | nach 24 Jahren, 20 % über heute | nach 56 Jahren | etwa 2.100 Gt |
-| Bedarf wächst um 3 % | nach 37 Jahren, 66 % über heute | nach 63 Jahren | etwa 3.100 Gt |
-| sauber wächst nur um 4 % | nach 27 Jahren, 20 % über heute | nach 63 Jahren | etwa 2.300 Gt |
-| sauber wächst um 6 % | nach 3 Jahren, kaum über heute | nach 32 Jahren | etwa 900 Gt |
+![[assets/Michael-Liebreich-Modell-Empfindlichkeit.png|Tabelle mit Balken, fünf Annahmen zu Liebreichs Modell. Wächst die saubere Energie um 6 Prozent, sind die Fossilen nach 32 Jahren bei null, bis dahin werden 930 Milliarden Tonnen CO₂ ausgestoßen. Mit Liebreichs eigenen Zahlen nach 42 Jahren und 1.330 Milliarden Tonnen. Mit nur 20 Prozent sauberer Energie zum Start nach 56 Jahren und 2.110 Milliarden Tonnen. Wächst die saubere Energie nur um 4 Prozent, nach 63 Jahren und 2.340 Milliarden Tonnen. Wächst der Bedarf um 3 Prozent, nach 63 Jahren und 3.140 Milliarden Tonnen. Zum Vergleich: Für 2 Grad bleiben ab 2026 rund 1.050 Milliarden Tonnen, für 1,7 Grad rund 500.|700]]
 
-*Unsere Rechnung: Ausstoß im Verhältnis zur fossilen Nutzenergie, Start bei 38,2 Gt fossilem CO₂ im Jahr 2026, ohne Landnutzung.*
+*Die Grafik zeigt, wie stark Zeit und Menge an den Annahmen hängen, und dass nur die schnellste Variante unter dem Budget für 2 Grad bleibt. Sie zeigt keine Prognose: Das Modell kennt weder Politik noch Preise, und Landnutzung ist nicht eingerechnet. Unsere Rechnung: Ausstoß im Verhältnis zur fossilen Nutzenergie, Start bei 38,2 Milliarden Tonnen fossilem CO₂ im Jahr 2026 ([Global Carbon Budget 2026](https://globalcarbonbudget.org/fossil-co2-emissions-decrease-in-2026/)), Budgets nach [Forster u. a. 2026](https://doi.org/10.5194/essd-18-3889-2026). Grafik: Gedankenwelten, CC BY-SA 4.0.*
+
+Auch der Höhepunkt wandert. Mit Liebreichs Zahlen liegen die Fossilen nach zehn Jahren nur vier Prozent über heute. Startet man mit 20 Prozent sauberer Energie, steigen sie 24 Jahre lang auf ein Fünftel über heute; wächst der Bedarf um drei Prozent, sogar 37 Jahre lang auf zwei Drittel über heute.
 
 Die zweite Zeile ist die unsicherste. Seit 2019 wächst der Strombedarf der Welt um 3,3 Prozent im Jahr, der gesamte Energiebedarf um 1,5 Prozent ([IEA 2026, World Energy Outlook](https://www.iea.org/reports/world-energy-outlook-2026/executive-summary)). Liebreichs zwei Prozent für die Nutzenergie liegen dazwischen, und eine Messreihe für die Nutzenergie selbst gibt es nicht. Die KI verschiebt diese Zeile weniger, als die Schlagzeilen nahelegen: Ein KI-getriebener Wachstumsschub würde den weltweiten Energiebedarf 2035 je nach Verbreitung um ein bis vier Prozent heben ([IEA 2026, Key Questions on Energy and AI](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary)). Stärker zieht die Hitze: Allein für Kühlung erwartet die IEA bis 2035 rund 1.700 Terawattstunden zusätzlichen Strombedarf, mehr als die Rechenzentren.
 
