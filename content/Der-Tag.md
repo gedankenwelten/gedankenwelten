@@ -31,6 +31,14 @@ Drei, vier Sätze: was, woher, wozu.
 Die erste Note ist die große. Die Bestands-Notes werden über die Karte nach vorn geholt, nicht über ein
 hochgesetztes `aktualisiert:`.
 
+## 2026-11-25 · Internationaler Tag zur Beseitigung von Gewalt gegen Frauen
+
+Am 25. November 1960 ließ der dominikanische Diktator Rafael Trujillo drei Schwestern ermorden: Patria, Minerva und María Teresa Mirabal, im Widerstand *Las Mariposas* genannt, die Schmetterlinge. 1981 erklärten Feministinnen aus Lateinamerika und der Karibik ihren Todestag zum Gedenktag, 1999 übernahmen ihn die Vereinten Nationen. Er eröffnet sechzehn Tage, die am 10. Dezember enden, dem Tag der Menschenrechte. Diese Tage verbinden die Gewalt in der eigenen Wohnung mit der Frage nach den Menschenrechten.
+
+- [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]] — wie Gewalt im Netz Frauen auf ihren Platz verweisen soll, und was Einzelne und Öffentlichkeit dagegen tun können
+- [[Sandra Navidi — Frauenrechte in Trumps Amerika]]
+- [[Tsitsi Dangarembga - Feministische Stimme Afrikas]] — zwei Patriarchate übereinander; der Blick über Europa hinaus, aus dem auch die Mirabals kamen
+
 ## 2026-11-24 · Tag der Evolution
 
 Am 24. November 1859 erschien Charles Darwins Buch über die Entstehung der Arten, *On the Origin of Species*. Es erklärte, wie aus Variation und Auslese die Vielfalt des Lebens wird, und schwieg fast ganz über den allerersten Anfang; den dachte sich Darwin zwölf Jahre später in einem Brief an Joseph Hooker als „warmen kleinen Tümpel“. Zwei Vorträge gehen die beiden Ränder ab: ein Botaniker, der in den Alpen zusieht, wie Arten entstehen und wieder verschwinden, und ein Chemiker, der die Auslese schon bei Molekülen sucht, vor dem Leben. Dazu, was die Evolution aus uns gemacht hat, und wie schnell wir abbauen, was sie aufgebaut hat.
