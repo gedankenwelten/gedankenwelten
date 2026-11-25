@@ -293,6 +293,10 @@ Zeigt Bogners Schnittstelle an der Xenotransplantation: Die Forscher, die im Fil
 
 Bogners Grenze zwischen Wissen und Werten, an einer Alpenpflanze: Ob eine seltene Form als Art gilt, nennt der Botaniker Peter Schönswetter offen „fast ein bisschen mehr politische Entscheidung als eine wissenschaftliche“, weil der Rang mitentscheidet, ob man sie schützt.
 
+### → [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+
+Die Klimasoziologin Anita Engels zieht dieselbe Grenze aus der Politikberatung: Die Naturwissenschaft sage, dass es ein Problem gibt, alles danach sei Aushandlung. Die Forderung jüngerer Kollegen nach mehr Aktivismus beantwortet sie mit einem Buch, das ableitet, statt zu fordern.
+
 ---
 
 ## Weiterdenken

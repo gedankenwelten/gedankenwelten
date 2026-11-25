@@ -226,3 +226,11 @@ Kellermann will „in euren Herzen sein und nicht in euren Köpfen“. Maus sozi
 ### → [[ZDFinfo — Feindbild Queer nach dem CSD-Anschlag#Der Kulturkampf ums Kind|ZDFinfo — Feindbild Queer nach dem CSD-Anschlag]]
 
 Birgit Kelles „Pride Year“ in der Dokumentation über den CSD-Anschlag ist ein Lehrbeispiel für eine Entgrenzungsbefürchtung. Der Film zeigt Fachleute, die die Ablehnung deuten, und niemanden, der ihr antwortet.
+
+### → [[Thomas Biebricher — Die Krise der Konservativen]]
+
+Biebricher nennt das Räumen von Positionen eine Leistung, die nur trägt, wenn man neue besetzt. Die Veränderungserschöpfung führt er auf den Kapitalismus zurück, den Konservative verteidigen, obwohl er das Bewahren untergräbt.
+
+### → [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+
+Anita Engels beobachtet beim Klima denselben Umschlag: Zustimmung im Allgemeinen, Ablehnung, sobald eine Maßnahme den eigenen Alltag erreicht. Der strategiefähigen Rechten will sie eine Mitte entgegensetzen, die sich selbst strategisch organisiert.

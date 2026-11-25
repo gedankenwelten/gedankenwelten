@@ -334,6 +334,10 @@ Brown beschreibt die stille Revolution der Neoliberalen der Vierzigerjahre; Webe
 
 Die neue Note greift Browns Aushöhlung der Demokratie auf: Im Modell überlebt sie, solange sie das Kapital wenig belastet, und der Ausblick der Autoren nennt die Vereinnahmung als zweiten Weg. Die Form bleibt, der Inhalt schrumpft, dort als Kostenrechnung.
 
+### → [[Zeitgeist/Thomas Biebricher — Die Krise der Konservativen|Thomas Biebricher — Die Krise der Konservativen]]
+
+Die mildere Lesart derselben Kritik: Biebricher hält die neoliberalen Denker nicht für Antidemokraten, kritisiert aber, dass sie Wirtschaftspolitik dem demokratischen Souverän entziehen wollen. Die Marktausdehnung, Browns Kern, hält er für ein nicht zu Ende gedachtes Argument.
+
 ---
 
 ## Weiterdenken

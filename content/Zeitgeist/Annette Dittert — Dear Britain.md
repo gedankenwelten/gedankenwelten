@@ -243,6 +243,10 @@ Dasselbe Drehbuch, anderer Schauplatz: Was Musk in Großbritannien vorführt (re
 
 De Weck nennt Johnsons Ruin der Tories und hält den Niederländer Henri Bontenbal als Gegenbeispiel dagegen.
 
+### → [[Thomas Biebricher — Die Krise der Konservativen]]
+
+Im November 2026 bestätigt Biebricher die Rechtsdrift der Tories unter Badenoch, hält das Momentum von Reform UK aber vorerst für gebrochen, ausdrücklich als „Wasserstandsmeldung“.
+
 ---
 
 ## Weiterdenken

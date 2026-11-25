@@ -238,6 +238,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Elif Eralp|Elif Eralp]]** — Juristin, Politikerin (Die Linke), Spitzenkandidatin und Wahlsiegerin Berlin 2026; Tochter türkischer politischer Flüchtlinge, Menschenrechtsjuristin, Mitgründerin Links*Kanax; Vergesellschaftung, Antirassismus als Klassenpolitik, „kein Problem ist zu klein“
 
+**[[DenkerVita/Anita Engels|Anita Engels]]** — Soziologin (Globalisierung, Umwelt und Gesellschaft, Universität Hamburg, Exzellenzcluster CLICCS); erwartet die Klimawende vom gemeinsamen Organisieren statt vom Verzicht des Einzelnen, *Die Klimawende JETZT organisieren* (2026)
+
 **[[DenkerVita/Elmar Thevessen|Elmar Theveßen]]** — ZDF-Studioleiter Washington, zuvor stv. Chefredakteur; Chronist der US-Demokratie unter Druck (*Deadline*, 2025), Journalismus als „zweiter Satz“ in der Tradition des Thukydides
 
 **[[DenkerVita/Erich Fromm|Erich Fromm]]** — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner
@@ -713,6 +715,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Antonie Rietzschel|Antonie Rietzschel]]** — Reporterin aus Sachsen (geb. 1986), früher *Süddeutsche Zeitung*, dann *Leipziger Volkszeitung*; AfD, Rechtsextremismus, Ostdeutschland; setzt gegen das Pathologisieren das Gespräch vor Ort; *Dreamland Deutschland?* (2016)
 
 **[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
+
+**[[DenkerVita/Miriam Rehm|Miriam Rehm]]** — Sozioökonomie, Ungleichheitsforschung (Uni Duisburg-Essen, österreichischer Fiskalrat); misst Vermögen, Geschlechterlücke und die Emissionen, die am Eigentum hängen, und hält eine Vermögensteuer für machbar und mehrheitsfähig
 
 **[[DenkerVita/Katherina Reiche|Katherina Reiche]]** — Energie- und Wirtschaftspolitikerin (CDU), Bundeswirtschaftsministerin seit 2025; zweimal durch die Drehtür zwischen Politik und Energiewirtschaft (VKU, E.ON/Westenergie), heute oberste Regulatorin der Branche, aus der sie kam
 

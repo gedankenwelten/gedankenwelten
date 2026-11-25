@@ -2,7 +2,7 @@
 title: "Wirkt Protest?"
 date: 2026-11-06
 erstellt: 2026-11-06
-aktualisiert: 2026-11-23
+aktualisiert: 2026-11-25
 panorama-art: wachsend
 description: "Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben."
 raetsel: "Das Denkmal ist höflicher, als der Mann es war."
@@ -50,6 +50,8 @@ Eltern, und Lokalzeitungen schrieben mehr über Umwelt (Fabel u. a. 2024, [quasi
 Die Bewegung, die in der Erinnerung vieler ignoriert wurde, hat über Wahlen gewirkt. Parteien greifen Straßenprotest
 auf, sobald er in den Nachrichten ist, vor allem die Opposition (Hutter & Vliegenthart 2016, [Längsschnitt in vier Ländern](https://doi.org/10.1177/1354068816657375)).
 
+Auch die Sorge um das Klima stieg in den Tagen nach Protesten, in keiner Gruppe sank sie (Brehm & Gruhl 2024, [Paneldaten, quasi-experimentell](https://doi.org/10.1038/s41467-024-46477-4)). In 25 deutschen Städten änderte die Bewegung, wie Klimapolitik gemacht wird, am wenigsten dort, wo Menschen ärmer und älter sind und die extreme Rechte stärker ist (Eckersley, Haupt & Kern 2025, [Fallstudien](https://doi.org/10.1080/1523908x.2025.2466821)). Ob die Aktivistinnen von 2019 die Institutionen von heute prägen, ist für Fridays for Future nicht untersucht. Bei den Freiwilligen des *Freedom Summer* 1964 wirkte die Teilnahme zwanzig Jahre nach (McAdam 1989, [Vergleichsstudie](https://doi.org/10.2307/2117751)), nur stammen solche Befunde fast alle von hoch engagierten Aktivisten.
+
 Den jüngsten Fall im Bestand hat Serbien geliefert. Am 25. Oktober 2026 räumte Aleksandar Vučić die Niederlage
 gegen eine Liste ein, die aus Studentenprotesten entstanden war. Auf ihr standen keine Studierenden, sondern wenig
 bekannte Fachleute, Sportler, Landwirte und Künstler (→ [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Spur: Abgewählt]]).
@@ -73,6 +75,7 @@ Gegen ein Regime, das schießt, entscheidet oft die Loyalität der Sicherheitskr
 **Die Stimmen**
 
 - **[[Denker/Rutger Bregman — Ist der Mensch wirklich gut#Held vs. Radikaler — moralische Ambition|Rutger Bregman]]:** Bewusstsein wecken reiche nicht; wer die Welt ändern wolle, müsse irgendwann ein Gesetz durchs Parlament bringen.
+- **[[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln#Woran man eine Bewegung misst|Anita Engels]]:** Fridays for Future dürfe man nicht an den Klimazielen messen; die Wirkung liege in den Allianzen, in den Menschen, die in die Institutionen gehen, und in der Stimmung, „das ist jetzt meine Hypothese“.
 - **[[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch#Hyperpolitik: Repolitisierung ohne Reinstitutionalisierung|Anton Jäger]]:** Die Menschen sind politisiert wie lange nicht, aber kaum mehr gebunden; es fehlen Institutionen, die aus zwei Wochen Aufregung zwanzig Jahre Druck machen.
 - **[[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas#Verhaftet für ein Plakat: Protest als Dialogangebot|Tsitsi Dangarembga]]:** Einen Termin beim Abgeordneten bekomme sie nicht, mit einem Plakat aber Aufmerksamkeit, und damit den Anfang eines Gesprächs.
 - **[[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden#Der Überlebensmodus, der den Protest verschluckt|Jok Madut Jok]]:** Wer von einem Tag zum nächsten kommen muss, protestiert nicht; so sichert sich Herrschaft durch Not ab.
@@ -198,6 +201,7 @@ Was die Nacht vom 31. Oktober in Deutschland bewirkt, verfolgt eine eigene Spur
 | 06.11.2026 | [[Zeitgeist/ARD Mitreden — Woher kommt die Wut der Gen Z#Bringt erst Lärm Gehör?\|ARD Mitreden — Woher kommt die Wut der Gen Z?]] | Bringt erst Lärm Gehör? → Parteien und Protest (Hutter & Vliegenthart), Berichterstattung (Lee), extreme Taktiken (Feinberg u. a.), Fridays for Future über Wahlen (Fabel u. a.), Frankreich 2005, Gewalt nach Chenoweth 2023, Ausbreitung (Myers, Bonnasse-Gahot u. a.) |
 | 07.10.2026 | [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Wirkt disruptiver Protest?\|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]] | Wirkt disruptiver Protest? → Übersicht Vandeweerdt, Letzte Generation, radikale Flanke (Simpson u. a., Köhler u. a., Fuller u. a.), Wasow, Chenoweth 2020 und Replikation, Los Angeles 1992 · King in Umfragen |
 | 21.11.2026 | [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Lässt sich die AfD entzaubern?\|Aladin El-Mafaalani — Misstrauensgemeinschaften]] | Was erreicht die Straße gegen die extreme Rechte? Griechenland (Ellinas & Lamprianou 2023), Frankreich 2002 (Lagios u. a. 2025), Sardinen 2020 (Colombo u. a. 2024), AfD nach Januar 2024 (Infratest) |
+| 25.11.2026 | [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln#Woran man eine Bewegung misst\|Anita Engels — Klimawende und kollektives Handeln]] | Was erreicht die Straße? Sorge nach Protesten, 25 Städte, Aktivisten in Institutionen |
 
 ---
 

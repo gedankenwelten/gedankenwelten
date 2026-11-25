@@ -396,6 +396,10 @@ Kowalczuk geht gegen den Deliverism von der Bürgerseite an: Kretschmers „wenn
 
 Burkes Erbe, an der Geschichte des Frauenwahlrechts gezeigt. Die Historikerin Hedwig Richter erzählt, wie es über Petitionen, Vereine und Wahlreformen kam, Stück für Stück, und wie die Konservativen, die es lange bekämpft hatten, 1919 sofort um die Wählerinnen warben. Das ist de Wecks Satz, dass sie verteidigen, was sie bekämpft haben. Die Schweiz, sein Beispiel für die Lernkurve, ist zugleich der langsamste Fall für Richters These, dass das Frauenwahlrecht auch ohne Revolution kam.
 
+### → [[Thomas Biebricher — Die Krise der Konservativen]]
+
+Biebricher zieht dieselbe Grenze am Gestus statt an der Demokratie: Rechtsradikal wird, wer nichts mehr bewahren, sondern das Haus einreißen will. Bei Merkel widerspricht er: Ihre Ära sei unkonservativ gewesen, weil sie von der Substanz lebte.
+
 ---
 
 ## Weiterdenken

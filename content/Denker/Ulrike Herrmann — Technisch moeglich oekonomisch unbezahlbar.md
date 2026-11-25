@@ -425,6 +425,10 @@ Herrmanns belohnter Herdentrieb hat im ARTE-Film einen Gesprächspartner: Der Ö
 
 Wo Herrmann das Ende des Wachstums bis zur Rationierung durchdenkt, macht Oetting daraus eine Verteilungsfrage an die Überreichen und ein Versprechen an die Gen Z.
 
+### → [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+
+Anita Engels teilt den Befund, dass das Wachstum nicht trägt, und setzt dort, wo Herrmanns Analyse ohne Ausgang endet, auf das strategische Organisieren von unten, das den Boden für große Gesetze bereiten soll. Ob das schnell genug geht, fragt Herrmanns Zeit-Argument.
+
 ---
 
 ## Weiterdenken

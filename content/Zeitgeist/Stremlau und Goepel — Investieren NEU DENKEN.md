@@ -283,6 +283,11 @@ Die mediale Vorgeschichte der Planungsunsicherheit: Die „Heizungshammer“-Kam
 Der ESG-Backlash hat einen Fall mit Namen: BlackRock, das 2020 schrieb, Klimarisiko sei Investitionsrisiko, und 2025 aus der Klima-Initiative der Vermögensverwalter austrat, worauf Texas den Konzern von seiner Boykottliste strich. BlackRock selbst sagt, Vermögensverwalter dürften keine eigenen Ansichten fördern; Stremlaus Satz, Geld sei niemals neutral, ist die Gegenthese.
 
 ---
+
+### → [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+
+Anita Engels erzählt den Fall von unten: Ein Dorf gründet für ein Nahwärmenetz eine Genossenschaft, die Förderbedingungen ändern sich dreimal, und am Ende heizt wieder jeder Haushalt für sich.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

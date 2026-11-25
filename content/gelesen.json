@@ -45,8 +45,8 @@
   },
   {
    "pfad": "/DenkerVita/Stephan-Bartunek",
-   "leser": 19,
-   "aufrufe": 20
+   "leser": 20,
+   "aufrufe": 22
   },
   {
    "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -60,8 +60,8 @@
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
-   "leser": 14,
-   "aufrufe": 20
+   "leser": 13,
+   "aufrufe": 18
   },
   {
    "pfad": "/DenkerVita/Der-Dara",
@@ -75,8 +75,8 @@
   },
   {
    "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-   "leser": 10,
-   "aufrufe": 10
+   "leser": 11,
+   "aufrufe": 11
   },
   {
    "pfad": "/DenkerVita/Albert-Camus",
@@ -105,6 +105,11 @@
   },
   {
    "pfad": "/DenkerVita/Byung-Chul-Han",
+   "leser": 7,
+   "aufrufe": 9
+  },
+  {
+   "pfad": "/DenkerVita/Christian-Bauckhage",
    "leser": 7,
    "aufrufe": 9
   },
@@ -145,11 +150,6 @@
   },
   {
    "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-   "leser": 6,
-   "aufrufe": 8
-  },
-  {
-   "pfad": "/DenkerVita/Christian-Bauckhage",
    "leser": 6,
    "aufrufe": 8
   },
@@ -254,11 +254,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
-   "leser": 4,
-   "aufrufe": 5
-  },
-  {
    "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
    "leser": 4,
    "aufrufe": 5
@@ -302,6 +297,11 @@
    "pfad": "/DenkerVita/Elmar-Thevessen",
    "leser": 4,
    "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Jan-Keno-Janssen",
+   "leser": 4,
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -320,8 +320,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 12,
-     "aufrufe": 12
+     "leser": 13,
+     "aufrufe": 14
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -340,8 +340,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 9,
-     "aufrufe": 11
+     "leser": 8,
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -349,12 +349,12 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 6,
-     "aufrufe": 6
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 7,
+     "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "leser": 6,
      "aufrufe": 6
     },
@@ -370,8 +370,8 @@
     },
     {
      "pfad": "/DenkerVita/Christian-Bauckhage",
-     "leser": 4,
-     "aufrufe": 5
+     "leser": 5,
+     "aufrufe": 6
     },
     {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
@@ -392,11 +392,6 @@
      "pfad": "/Geistesblitz/Christian-Bauckhage-Schon-wieder-Dekaden-vergangen",
      "leser": 3,
      "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "leser": 3,
-     "aufrufe": 4
     },
     {
      "pfad": "/Panorama/Warum-waehlen-Menschen-Autoritaere",
@@ -459,7 +454,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Patrick-Legun",
+     "pfad": "/DenkerVita/Marcant",
      "leser": 2,
      "aufrufe": 3
     },
@@ -607,6 +602,11 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 2,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "leser": 2,
+     "aufrufe": 2
     }
    ]
   },
@@ -655,8 +655,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 19,
-     "aufrufe": 20
+     "leser": 20,
+     "aufrufe": 22
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -670,8 +670,8 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 14,
-     "aufrufe": 20
+     "leser": 13,
+     "aufrufe": 18
     },
     {
      "pfad": "/DenkerVita/Der-Dara",
@@ -685,8 +685,8 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 10,
-     "aufrufe": 10
+     "leser": 11,
+     "aufrufe": 11
     },
     {
      "pfad": "/DenkerVita/Albert-Camus",
@@ -715,6 +715,11 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 7,
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 7,
      "aufrufe": 9
     },
@@ -755,11 +760,6 @@
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 6,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 6,
      "aufrufe": 8
     },
@@ -864,11 +864,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
-     "leser": 4,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 4,
      "aufrufe": 5
@@ -910,6 +905,11 @@
     },
     {
      "pfad": "/DenkerVita/Elmar-Thevessen",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Jan-Keno-Janssen",
      "leser": 4,
      "aufrufe": 4
     }
@@ -1010,8 +1010,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 19,
-     "aufrufe": 20
+     "leser": 20,
+     "aufrufe": 22
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
@@ -1030,8 +1030,8 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 16,
-     "aufrufe": 16
+     "leser": 17,
+     "aufrufe": 17
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -1194,6 +1194,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 8,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 8,
      "aufrufe": 10
@@ -1212,11 +1217,6 @@
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 8,
      "aufrufe": 9
-    },
-    {
-     "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "leser": 8,
-     "aufrufe": 8
     }
    ]
   },
@@ -1315,8 +1315,8 @@
     },
     {
      "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 19,
-     "aufrufe": 20
+     "leser": 20,
+     "aufrufe": 22
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
@@ -1335,8 +1335,8 @@
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 16,
-     "aufrufe": 16
+     "leser": 17,
+     "aufrufe": 17
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
@@ -1499,6 +1499,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 8,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 8,
      "aufrufe": 10
@@ -1517,11 +1522,6 @@
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "leser": 8,
      "aufrufe": 9
-    },
-    {
-     "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "leser": 8,
-     "aufrufe": 8
     }
    ]
   },
@@ -1575,13 +1575,13 @@
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "leser": 11,
-     "aufrufe": 11
+     "leser": 10,
+     "aufrufe": 10
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "leser": 8,
-     "aufrufe": 8
+     "leser": 9,
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1609,6 +1609,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "leser": 7,
      "aufrufe": 7
@@ -1630,11 +1635,6 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 6,
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 6,
      "aufrufe": 6
     },
@@ -1689,11 +1689,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Gert-Scobel",
      "leser": 4,
      "aufrufe": 4
@@ -1735,6 +1730,11 @@
     },
     {
      "pfad": "/DenkerVita/Ronnie-Vuine",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 3,
      "aufrufe": 3
     },

@@ -510,6 +510,10 @@ Die säkulare Parallelkonstruktion zum Böckenförde-Diktum. Schwan sucht das Fu
 
 De Weck hält das C ebenfalls für den Schutz der Union vor dem Schlimmsten, definiert konservativ aber über das Verfahren, nicht über einen Glauben.
 
+### → [[Thomas Biebricher — Die Krise der Konservativen]]
+
+Der Frankfurter Politiktheoretiker beschreibt von außen, wovor Püttmann warnt: eine Neoliberalisierung der Christdemokratie über dreißig Jahre, in der der Sozialflügel schwächer wurde. Den Klimaschutz nennt auch er ein ureigenes Thema der Union.
+
 ---
 
 ## Weiterdenken

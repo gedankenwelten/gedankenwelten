@@ -223,3 +223,8 @@ Brown und Demirović/Lorey nutzen denselben Foucault-Begriff — aber von versch
 ### → [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]]
 
 Loreys Figur der Freiheit als Köder bekommt belegte Fälle aus dem Alltag, Keep America Beautiful, BP und Coca-Cola, und mit i-frame und s-frame eine Unterscheidung aus der Verhaltensforschung.
+
+### → [[Thomas Biebricher — Die Krise der Konservativen]]
+
+Biebricher kam über Foucaults Vorlesungen und den Freiburger Ordoliberalismus zur Neoliberalismus-Forschung. Er erinnert daran, dass man Foucault früher als Gegner der Identitätspolitik las, nicht als ihren Gewährsmann.
+

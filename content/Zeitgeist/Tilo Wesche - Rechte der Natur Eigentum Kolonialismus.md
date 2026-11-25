@@ -467,6 +467,10 @@ Blom liefert die Vorgeschichte zu Wesches These: Der Bibelsatz „Macht euch die
 
 Barbara Prainsack kommt von der Solidarität her zum selben Schluss: Elemente der Natur brauchen einen eigenen Rechtsstatus, denn wo Eigentum stärker geschützt ist als Menschenrechte, ist man entweder Eigentümer oder Eigentum. Auch sie antwortet auf den Einwand der Sprachlosigkeit mit den Unternehmen als Rechtspersonen.
 
+### → [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+
+Anita Engels kommt bei Tilo Jung ans selbe Eigentum, aber über das Grundgesetz: „Eigentum verpflichtet“, Schäden auszulagern müsse gesetzlich enden. Den Rebound-Effekt nimmt sie als unvermeidliche Nebenwirkung hin, wo Wesche der Natur Rechte geben will.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

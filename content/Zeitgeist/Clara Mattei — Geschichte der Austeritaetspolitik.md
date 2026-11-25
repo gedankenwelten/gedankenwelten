@@ -321,3 +321,8 @@ Driouichs Kuchenrechnung erklärt die Austerität ökonomisch: Ohne Wachstum las
 ### → [[Geistesblitz/Gert Scobel — Wann Unterdrueckung billiger wird als Umverteilung|Gert Scobel — Wann Unterdrückung billiger wird als Umverteilung]]
 
 Was Mattei am Italien von 1920 zeigt, Kapital, das gegen Arbeiterunruhen die Gewalt der Umverteilung vorzieht, rechnet ein Arbeitspapier von Acemoglu als Modell durch. Bei ihm geschieht es erst ab einem Kipppunkt, bei Mattei gehört es zum Kern des Kapitalismus.
+
+### → [[Thomas Biebricher — Die Krise der Konservativen]]
+
+Biebricher nennt unabhängige Zentralbanken den wenig umstrittenen Fall neoliberaler Entdemokratisierung, Mattei den liberalen Weg zur Austerität. Er erzählt, wie Italiens Bürgertum aus Angst vor dem Kommunismus einen Beschützer suchte.
+

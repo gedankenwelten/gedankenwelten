@@ -344,6 +344,10 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 
 Uwe Krüger misst, was Manow als Deutungsklasse beschreibt: Journalisten kommen überproportional aus dem liberal-intellektuellen Milieu, und bei Einwanderung und Auslandseinsätzen liegt der Elitendiskurs weit von der Bevölkerung entfernt. Im Jung-&-Naiv-Gespräch von 2017 nennt Krüger die Milieus, über die Redaktionen hinwegsehen, „virtuelle Flyover States“ → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]].
 
+### → [[Thomas Biebricher — Die Krise der Konservativen]]
+
+Biebricher beschreibt dieselbe Verlagerung von Entscheidungen aus dem Zugriff des Souveräns als neoliberales Programm und nennt die „Mitte“ eine programmatische Schwäche. Den Konservativen rät er aber ab, der Protestwahl thematisch nachzulaufen.
+
 ---
 
 ### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]

@@ -303,6 +303,9 @@ Die Ersatzfreiheitsstrafe von unten erzählt: Harry Pfau, dreizehn Jahre obdachl
 
 Auf einem Panel derselben re:publica beklagt der Pianist Igor Levit, dass gemeinsame physische Räume verschwinden, weil viele sie sich nicht mehr leisten können, und der CDU-Abgeordnete Johannes Volkmann verlangt, öffentlich finanzierte Räume müssten alle relevanten Kräfte abholen. Semsrotts Ausladung in Magdeburg ist ein Fall, an dem sich dieser Grundsatz von der anderen Seite her prüfen lässt.
 
+### → [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+
+Anita Engels traut den Umfragemehrheiten weniger („eine billige Antwort“) und kommt doch zum selben Rat: sich dort organisieren, wo man steht, im Betrieb, in der Gemeinde, in der Genossenschaft, und Konflikte als etwas Produktives nehmen.
 
 ---
 

@@ -24,29 +24,33 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **25.11.** — [[Zeitgeist/Thomas Biebricher — Die Krise der Konservativen|Thomas Biebricher — Die Krise der Konservativen]]
+>
+> Konservativ heißt bewahren. Thomas Biebricher fragt, warum ausgerechnet Konservative das disruptivste Wirtschaftssystem verteidigen, und zieht die Grenze nach rechts dort, wo jemand das Haus einreißen will.
+
 > **25.11.** — [[Zeitgeist/ZDF — Weil du mir gehoerst|ZDF — Weil du mir gehörst]]
 >
 > 104 Frauen wurden 2024 in Deutschland von ihrem Partner oder Ex-Partner getötet. Eine ZDF-Recherche liest ihre Akten und findet Taten, die sich ankündigen, und einen Staat, der zu spät hinsieht.
+
+> **25.11.** — [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+>
+> Die Wissenschaft hat das Problem längst beschrieben, und es hat wenig geändert. Die Soziologin Anita Engels erklärt, warum die Klimawende stockt, und macht aus jedem Grund einen Ansatzpunkt.
+
+> **25.11.** — [[Zeitgeist/Miriam Rehm — Was der Staat ueber Reiche nicht wissen will|Miriam Rehm — Was der Staat über Reiche nicht wissen will]]
+>
+> Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum die Lücke kein Zufall ist.
 
 > **25.11.** — [[Zeitgeist/Christina Clemm — Gegen Frauenhass|Christina Clemm — Gegen Frauenhass]]
 >
 > Frauenhass ist kein plötzliches Gefühl, sagt die Anwältin Christina Clemm, sondern eine eingeübte Haltung. Von ihr führt eine Spirale vom Schimpfwort bis zum Femizid, und härtere Strafen beenden sie nicht.
 
-> **24.11.** — [[Zeitgeist/Wolodymyr Selenskyj — Ein Praesident im Krieg|Ein Präsident im Krieg]]
->
-> Er schläft nicht, er telefoniert nachts mit der Flugabwehr, und nach Butscha wollte er zum ersten Mal einen Menschen töten: Wolodymyr Selenskyj über den Preis, ein Land durch den Krieg zu führen.
-
-> **24.11.** — [[Zeitgeist/Andreas Puettmann — Werte NEU DENKEN|Andreas Püttmann — Werte NEU DENKEN]]
->
-> Ein Konservativer über das C der CDU als Vorzeichen vor der Klammer, den Rechtsstaat als Luft zum Atmen und die Notwendigkeit einer Militanz der Mitte.
-
-> **23.11.** — [[Zeitgeist/Michael Thumann — Putins Plan fuer Europa|Was Putin von Europa will — Michael Thumann aus Moskau]]
->
-> Moskau will eine neue Sicherheitsordnung für Europa, die alte hat es selbst unterschrieben. Ein Korrespondent sucht den Grund in Russland, nicht im Westen. Wie weit trägt das?
-
-> → *24 weitere in* [[Zeitgeist]]
+> → *27 weitere in* [[Zeitgeist]]
 
 ### Panorama
+
+> **25.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
 
 > **25.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
 >
@@ -56,19 +60,15 @@ Die Gedankenwelten (luc)
 >
 > Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
 
-> **24.11.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+> **25.11.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
-> **24.11.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+> **25.11.** — [[Panorama/Wie weit darf der Staat lenken|Wie weit darf der Staat lenken?]]
 >
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+> Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?
 
-> **24.11.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
->
-> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
-
-> → *13 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### Geistesblitz
 

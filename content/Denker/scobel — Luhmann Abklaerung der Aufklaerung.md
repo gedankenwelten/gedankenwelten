@@ -183,3 +183,7 @@ Luhmanns Formel für produktive Aufklärung lautet deshalb: **Doppelcharakter**.
 - [[Autoritaerer Internationalismus]] — Systemrationalität als Erklärung, warum Heritage Foundation, Atlas Network, CPAC kein konspiratives Netz brauchen — sie sind selbstreferenzielle Systeme
 - [[Heinz Bude — Boomer-Soziologie]] — Bude zeigt Luhmann als *die* intellektuelle Bezugsfigur der Boomer-Soziologen (Baecker → Luhmann). Die „Abklärung der Aufklärung" ist die systemtheoretische Formulierung des Boomer-Grundgefühls: kühle Beobachtung zweiter Ordnung statt Kritischer Theorie oder naivem Fortschrittsglauben
 - [[Denker/scobel — Lyotard das Ende der Wahrheit]] — Luhmann und Lyotard sind Paralleldiagnosen des Endes universaler Vernunftgewissheit: Luhmann löst es systemtheoretisch (Systemrationalität statt universaler Vernunft), Lyotard sprachphilosophisch (Sprachspiele ohne Metaerzählung). Beide antworten auf dasselbe Habermas-Problem und kommen zu inkompatiblen Schlüssen — Luhmann empfiehlt Abgeklärtheit, Lyotard das Aushalten im Widerstreit.
+
+### → [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln|Anita Engels — Klimawende und kollektives Handeln]]
+
+Die Bielefelder Soziologin Anita Engels, die Luhmann noch erlebt hat, nimmt die Grundregel beim Wort: Wer das Scheitern der Klimawende nur erfasst, bleibt gelähmt, darum dreht sie jeden Grund des Stillstands in einen Ansatzpunkt um.

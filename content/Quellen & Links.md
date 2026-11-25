@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Anita Engels — Klimawende und kollektives Handeln (Jung & Naiv 860)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Soziologin Anita Engels über Klimawende, Kapitalismus & kollektives Handeln — Jung & Naiv: Folge 860](https://www.youtube.com/watch?v=v-kDsUcZlRU) (Jung & Naiv, 27.10.2026) |
+| **Bücher** | [*Die Klimawende JETZT organisieren*](https://www.oekom.de/buch/die-klimawende-jetzt-organisieren-9783987265488) (oekom 2026) · im Gespräch: Jens Beckert, [*Verkaufte Zukunft*](https://www.suhrkamp.de/buch/jens-beckert-verkaufte-zukunft-t-9783518588093) (Suhrkamp 2024) |
+| **Notiz** | [[Anita Engels — Klimawende und kollektives Handeln]] |
+| **Vita** | [[DenkerVita/Anita Engels]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Engels_Klimawende_Transkript.txt` |
+
 ## Thomas Biebricher — Die Krise der Konservativen (Jung & Naiv 861)
 
 | | |
@@ -6299,3 +6309,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vita** | [[DenkerVita/Jochen Breyer]] · [[DenkerVita/Julia Friedrichs]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Breyer_Weil_du_mir_gehoerst_Transkript.txt` (YouTube-Untertitel, vollständig) |
 | **Hilfe** | [Hilfetelefon Gewalt gegen Frauen 116 016](https://www.hilfetelefon.de/) · [Frauen-Helpline Österreich 0800 222 555](https://www.frauenhelpline.at/) · [Opferhilfe Schweiz 142](https://www.opferhilfe-schweiz.ch/de/) |
+
+## Miriam Rehm — Was der Staat über Reiche nicht wissen will
+
+| | |
+|---|---|
+| **Gespräch** | [Miriam Rehm über Macht der Milliardäre, Ungleichheit & Demokratie in Gefahr — Jung & Naiv: Folge 859](https://www.youtube.com/watch?v=PjSv4icgWus) — gestreamt am 23.10.2026, 3:33 Std., Tilo Jung, Fragerunde Hans Jessen |
+| **Notiz** | [[Zeitgeist/Miriam Rehm — Was der Staat ueber Reiche nicht wissen will]] |
+| **Vita** | [[DenkerVita/Miriam Rehm]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Rehm_Milliardaere_Transkript.txt` (YouTube-Untertitel, 98 % Abdeckung) |

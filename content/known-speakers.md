@@ -1574,3 +1574,9 @@ Journalistin (WDR/ARD: Washington, Paris, Studioleiterin Bonn, Duisburg, Essen),
 
 ## Thomas Biebricher
 **Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Biebricher]]
+
+## Anita Engels
+**Status:** ✓ Vollanalyse → [[DenkerVita/Anita Engels]]
+
+## Miriam Rehm
+**Status:** ✓ Vollanalyse → [[DenkerVita/Miriam Rehm]]

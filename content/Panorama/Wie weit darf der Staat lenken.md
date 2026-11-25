@@ -2,7 +2,7 @@
 title: "Wie weit darf der Staat lenken?"
 date: 2026-11-07
 erstellt: 2026-11-07
-aktualisiert: 2026-11-15
+aktualisiert: 2026-11-25
 description: "Jedes Regal ist schon gestaltet, fragt sich nur, von wem. Vier offene Fragen: Wo endet der Schubs, wer trägt die Verantwortung, was trägt die Mehrheit mit, und wen soll der Staat vor wem schützen?"
 raetsel: "Der Weg war frei. Nur das Gefälle hatte jemand gebaut."
 panorama-art: wachsend
@@ -73,6 +73,8 @@ Dass Konzerne die Verantwortung gezielt auf die Verbraucher verlagert haben, ist
 
 Schwieriger ist die Frage, ob der Blick auf den Einzelnen der Politik tatsächlich schadet. Im Befragungsexperiment zeigt sich das: Japaner, die ihre Energiesparhandlungen nach Fukushima aufzählen sollten, unterstützten danach seltener eine CO₂-Steuer, und zwar umso seltener, je mehr sie aufgezählt hatten ([Werfel 2017](https://doi.org/10.1038/nclimate3316), Umfrage-Experimente); ähnlich sank die Zustimmung zur CO₂-Steuer, wenn ein grüner Nudge daneben stand ([Hagmann, Ho & Loewenstein 2019](https://doi.org/10.1038/s41558-019-0474-0), Umfrage-Experimente). Über 22 Studien gerechnet hebt eine erste Umwelthandlung die Absicht zu weiteren leicht, auf tatsächliches Verhalten und politische Unterstützung wirkt sie praktisch nicht ([Maki u. a. 2019](https://doi.org/10.1038/s41893-019-0263-9), Meta-Analyse). Wer in Australien über vier Jahre beobachtet wurde, engagierte sich eher zusätzlich politisch, wenn er im Alltag handelte, eine Verdrängung zeigte sich nicht ([Ghasemi u. a. 2026](https://doi.org/10.1038/s44168-026-00405-y), Panelstudie). Und der Effekt, sich nach einer guten Tat mehr zu erlauben, schrumpft nach Korrektur für den Publikationsbias fast auf null ([Kuper & Bott 2019](https://doi.org/10.15626/mp.2018.878), Meta-Reanalyse).
 
+Wie groß der Hebel des Einzelnen ist, hängt davon ab, welchen Einzelnen man meint. Verhalten allein senkt die Emissionen rasch um wenige Prozent, zusammen mit der passenden Infrastruktur bis 2050 um 40 bis 70 Prozent ([IPCC 2022](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_SPM.pdf), Bewertungsbericht). Die obersten zehn Prozent verursachen fast die Hälfte der Emissionen, beim obersten Prozent stammen rund sieben Zehntel aus Investitionen ([Chancel 2022](https://doi.org/10.1038/s41893-022-00955-z), Modellschätzung). Darum fragt die Forschung inzwischen eher, in welcher Rolle jemand handelt, als Konsument, Anleger, Berufstätiger oder Bürger ([Hampton & Whitmarsh 2023](https://doi.org/10.1016/j.oneear.2023.08.006), Übersichtsarbeit). Und wer für Klimapolitik wirbt und selbst viel verbraucht, senkt die Zustimmung zu ihr ([Attari, Krantz & Weber 2019](https://doi.org/10.1007/s10584-019-02463-0), Experimente).
+
 Der Befund ist damit zweiteilig. Die Verdrängung tritt auf, wo der kleine Schritt als genug erscheint. Im wirklichen Leben gehen privates und politisches Handeln eher zusammen, wobei offen bleibt, was davon Ursache ist.
 
 **Die Stimmen**
@@ -83,6 +85,7 @@ Der Befund ist damit zweiteilig. Die Verdrängung tritt auf, wo der kleine Schri
 - **[[Geistesblitz/Rebecca Boehme — So trickst du dein Gehirn aus#Politische vs. individuelle Verantwortung — kein Entweder-Oder|Rebecca Böhme]]:** Regulierung ist nötig, aber der Einzelne kann nicht warten, bis die Politik handelt; Selbstwirksamkeit im Kleinen ist eine Form von Würde.
 - **[[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie#Klasse und Klima — Zwei eigenständige Konfliktachsen|Klaus Dörre]]:** Den Klimawandel treiben die Investitionsentscheidungen der Reichsten, nicht die Konsummuster der Vielen.
 - **[[Denker/Martyna Linartas — Unverdiente Ungleichheit#Klima und Überreichtum|Martyna Linartas]]:** Den individuellen Fußabdruck habe BP verbreitet, um die Verantwortung auf Einzelne zu schieben.
+- **[[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln#Einzelner oder System|Anita Engels]]:** Der ständige Appell an den Einzelnen sei eine „Ersatzgeschichte“; gegen klimafreundliches Leben hat sie nichts, der Hebel liege dort, wo man sich mit anderen organisiert.
 - **[[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co#Fazit und Fragerunde Die Umwelt nicht unterschätzen|Jutta Roosen]]:** Aufklärung setzt Zeit, Kraft und Willensstärke voraus; darum muss man die Verlockung verringern, statt nur zu informieren.
 
 <details><summary>Weitere Stimmen (1)</summary>
@@ -104,6 +107,8 @@ Wie weit eine Zustimmung in Befragungen trägt, zeigt der Veggie-Day. 2013 schri
 
 Das Dilemma dahinter benennt ein systematisches Review über 200 Studien: Am meisten Zustimmung finden die Maßnahmen, die am wenigsten eingreifen, „which are often the least effective“, dazu solche, die schon gelten, solche für Kinder und solche, die das Verhalten anderer betreffen ([Diepeveen u. a. 2013](https://doi.org/10.1186/1471-2458-13-756), systematisches Review). Wer erfährt, dass eine Maßnahme wirkt, stimmt ihr nur wenig häufiger zu ([Reynolds u. a. 2019](https://doi.org/10.1016/j.socscimed.2019.112395), Umfrage-Experiment). Und es kommt auf den Absender an: Voreinstellungen wirken bedrohlicher für die Freiheit als Empfehlungen, aber weniger als Pflichten, und kommt der Hinweis von Fachleuten, sinkt der Ärger, kommt er aus der Politik, nicht ([Bruns & Perino 2023](https://doi.org/10.1016/j.socec.2023.102047), Experiment).
 
+Beim Klima kommt etwas hinzu: Die Mehrheit weiß nichts von sich. Weltweit wären 69 Prozent bereit, ein Prozent ihres Einkommens für den Klimaschutz abzugeben, geschätzt werden 43 ([Andre u. a. 2024](https://doi.org/10.1038/s41558-024-01925-3), Befragung in 125 Ländern). In Deutschland befürworten 59 Prozent Windräder im eigenen Wohnumfeld, vermutet wird ein Drittel ([Ariadne 2023](https://www.kopernikus-projekte.de/aktuelles/news/ariadne_nachhaltigkeitsbarometer2023)). Wer sich allein glaubt, schweigt eher ([Geiger & Swim 2016](https://doi.org/10.1016/j.jenvp.2016.05.002), Experimente). Wird es konkret und teuer, kippt eher das Vertrauen als die Zustimmung zum Ziel: Wer 2023 vom Heizungsgesetz hohe Kosten erwartete, wollte danach weniger zahlen und traute der Regierung weniger ([Kramer, Konc & Steckel 2026](https://doi.org/10.33774/apsa-2026-gpqmg), Preprint). Die Schweiz lehnte 2021 ein CO₂-Gesetz mit Abgaben ab und nahm 2023 dasselbe Ziel mit Förderung statt Abgaben an.
+
 Für die deutsche Zuckerabgabe hängt die Mehrheit an der Frage. Forsa fand im August 2026 55 Prozent für eine „Sonderabgabe auf zuckerhaltige Getränke“, unter Unionsanhängern 76 Prozent, bei den Grünen 87 ([n-tv, 01.09.2026](https://www.n-tv.de/politik/Mehrheit-der-Deutschen-fuer-Zuckersteuer-besonders-hohe-Zustimmung-bei-Gruenen-id31253572.html)). YouGov fand im selben Monat, mit Mehrfachantworten, 43 Prozent dafür und 44 Prozent, die grundsätzlich keine neue Steuer wollen ([Thieme, 28.08.2026](https://praxis.thieme.de/news/zuckersteuer-softdrinks-umfrage-deutschland-gespalten/)). Ein halbes Jahr zuvor hatte der CDU-Parteitag eine Herstellerabgabe abgelehnt.
 
 **Die Stimmen**
@@ -113,6 +118,7 @@ Für die deutsche Zuckerabgabe hängt die Mehrheit an der Frage. Forsa fand im A
 - **[[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Völlerei und der gemeinsame Rhythmus|Annette Kehnel]]:** Bis zur Reformation hatte Europa in manchen Gegenden bis zu 130 fleischlose Tage im Jahr, und im Kollektiv fällt der Verzicht leichter; wer Veggie-Days fürchtet, verstoße gegen keine alte europäische Tradition.
 - **[[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Planvoll, gemeinsam, schrittweise|Achim Truger]]:** Das Heizungsgesetz scheiterte, weil die soziale Komponente fehlte; es muss im Erleben gerecht zugehen.
 - **[[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN#Co-Benefits und die laute Minderheit — Akzeptanz neu gedacht|Andreas Löschel]]:** Die Mehrheit ist dafür und hält die anderen für dagegen; es bremst die laute Minderheit, nicht der Zweifel.
+- **[[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln#Die billige Zustimmung|Anita Engels]]:** Zustimmung in Umfragen sei „eine billige Antwort“, je näher die Maßnahme dem Alltag kommt, desto ablehnender; und doch seien die Mehrheiten da, „aber die sind nicht laut“.
 - **[[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#„Ich entscheide selbst“|Christina Stumpp]]** (bei Scobel): Die Zuckersteuer sei *„grüne Bevormundungspolitik“*.
 - **[[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir#Corona Freiheit und die Herrschaft der Alten|Christoph Möllers]]:** Ein Freiheitsbegriff nach dem Muster „ich will, Punkt“ verschiebt die Kosten auf andere und hat etwas Autoritäres.
 - **[[Denker/Akala — Warum Shakespeare gerappt gehoert#Wer das Recht hat, klug zu sein|Akala]]:** *„Wenn ich mich von dir bevormundet fühle, werde ich das Wissen ablehnen.“* Reaktanz, aus der Schule gesagt.
@@ -163,6 +169,9 @@ Am Kopftuch wird die Frage zur Doppelfrage: Schützt ein Verbot die Mädchen, di
 | 07.11.2026 | [[Geistesblitz/Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld#Wie weit darf der Staat lenken?\|Gert Scobel — Zuckersteuer, Nudging und die Frage der Schuld]] | Gründungsnote: Kritik am libertären Paternalismus (Sugden, Grüne-Yanoff, Schmidt & Engelen), Akzeptanz (Reisch & Sunstein, Diepeveen, Forsa und YouGov 2026), Verdrängung oder Übertragung (Werfel, Maki, Ghasemi) |
 | 10.11.2026 | [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Hilft ein gemeinsamer Verzicht?\|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] | Was trägt die Mehrheit mit? Der Veggie-Day 2013 als Prüfstein, Frankreichs Pflichtmenü seit 2019, der DGE-Standard, Wirkung an der Theke (Garnett 2019) und darüber hinaus (Green, Smith & Mathur 2025) |
 | 15.11.2026 | [[Zeitgeist/SRF — Junge Muslimas und ihr Kopftuch#Was bewirken Kopftuchverbote?\|SRF — Junge Muslimas und ihr Kopftuch]] | Wen soll der Staat schützen? Was Kopftuchverbote bewirken: Frankreich 1994 und 2004, Bewerbungsexperiment, die Zürcher Motion |
+| 25.11.2026 | [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln#Einzelner oder System\|Anita Engels — Klimawende und kollektives Handeln]] | Wer trägt die Verantwortung? Rollen statt Konsum (IPCC, Chancel, Hampton & Whitmarsh, Attari) |
+| 25.11.2026 | [[Zeitgeist/Anita Engels — Klimawende und kollektives Handeln#Die billige Zustimmung\|Anita Engels — Klimawende und kollektives Handeln]] | Was trägt die Mehrheit mit? Die unterschätzte Mehrheit, Heizungsgesetz, Schweiz |
+
 ---
 
 ## Verbindungen
