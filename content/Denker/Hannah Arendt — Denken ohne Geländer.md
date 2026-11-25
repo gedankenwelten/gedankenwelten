@@ -216,7 +216,7 @@ Cipolla klassifiziert Dummheit als strukturelle Eigenschaft — unabhängig von 
 
 ### → [[Vipassana — Zehn Tage]]
 
-Frankl: *„Zwischen Reiz und Reaktion liegt ein Raum."*
+Ein Satz, der oft Viktor Frankl zugeschrieben wird, aber nicht von ihm stammt: *„Zwischen Reiz und Reaktion liegt ein Raum."*
 Arendts *Denken ohne Geländer* ist die politische Version desselben Raums. Wer nicht denkt, reagiert — und wird damit zum Werkzeug. Wer denkt, tritt in den Raum ein, der Freiheit möglich macht. Vipassana trainiert genau diesen Raum — auf der Ebene der Wahrnehmung. Arendt fordert ihn auf der Ebene des politischen Urteils.
 
 ### → [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]

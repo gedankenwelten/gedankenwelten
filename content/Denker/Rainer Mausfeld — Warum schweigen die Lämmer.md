@@ -345,7 +345,7 @@ Und die Leser? In der Mainzer Langzeitstudie vertrauten Ende 2024 47 Prozent der
 - [[Francesca Bria — The Authoritarian Stack]] — Bria kartografiert die konkrete Infrastruktur (Firmen, Fonds, Verträge), die Mausfeld als abstraktes Machtgefüge analysiert
 - [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoff liefert die technische Mechanik für Mausfelds politische Analyse: Feedback-Systeme und Plattform-Algorithmen als konkrete Werkzeuge des *Zähmungsgeschäfts*
 - [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] — Haidt zeigt die innere Psychologie der Stammeslogik; Mausfeld zeigt, wer diese Matrizen gezielt konstruiert. Innere Anfälligkeit × äußere Manipulation = Polarisierung als System
-- [[Vipassana — Zehn Tage]] — Frankls „Raum zwischen Reiz und Reaktion" ist strukturell dasselbe wie Mausfelds Forderung nach epistemischer Demut als politische Praxis
+- [[Vipassana — Zehn Tage]] — der „Raum zwischen Reiz und Reaktion" (oft Frankl zugeschrieben, nicht von ihm) ist strukturell dasselbe wie Mausfelds Forderung nach epistemischer Demut als politische Praxis
 - [[Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — El Fashir als konkreter Beweis: Warum schweigt die Weltgemeinschaft beim Völkermord? Weil wirtschaftliche Beziehungen zu Täter-Sponsoren nie hinterfragt werden
 - [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]] — Citizens United als der Moment, in dem oligarchische Einflussnahme legalisiert wurde. Mausfelds Meinungskorridor in der Praxis
 - [[Ernst Gelegs — Ist das Regime Orbán am Ende]] — Mausfelds „schweigendes Lamm" unter illiberalen Bedingungen: kein Bewusstsein für den Käfig, weil der Käfig Normalzustand ist

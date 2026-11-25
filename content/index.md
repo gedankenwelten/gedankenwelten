@@ -60,15 +60,15 @@ Die Gedankenwelten (luc)
 >
 > Eigentum bindet, Wettbewerb bricht Macht, und wer entscheidet, wer führt? Vier offene Fragen zum Staat als Eigentümer und Lenker, von Ahlen 1947 bis zum Nvidia-Chef 2026.
 
+> **25.11.** — [[Panorama/Politik - Verstehen|Politik — Verstehen]]
+>
+> Wer Politik nur konsumiert, wird unruhig statt klüger. Das Panorama fragt, wie Macht spricht, warum wir ihr folgen, und wo wir unser Urteil an ein Wir abgeben.
+
 > **25.11.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
 >
 > Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
 
-> **25.11.** — [[Panorama/Wer bekommt die knappen Molekuele|Wer bekommt die knappen Moleküle?]]
->
-> Grüner Wasserstoff, E-Fuels und Biomethan bleiben lange knapp und teuer, und viele wollen sie: Flugzeug, Stahl, Chemie, Auto, Heizung. Drei offene Fragen: Wo ist ein Molekül unersetzlich, reicht es für alle, und wer verteilt?
-
-> → *17 weitere in* [[Panorama]]
+> → *18 weitere in* [[Panorama]]
 
 ### GoodNews
 

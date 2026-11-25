@@ -186,7 +186,7 @@ Verstehen als Voraussetzung für Handeln: Wenn das Haus überflutet wird und man
 > Farage selbst hat seinen französischen Familienhintergrund (Hugenotten-Flüchtlinge) erwähnt. Die Ironie ist dokumentiert.
 
 > [!warning] Vereinfacht — Tucker Carlson: 400 Mal in 50 Stunden
-> Diese Zahl stammt aus Kendis Buch *„Chain of Ideas"*, basierend auf einer Analyse von Tucker Carlsons Show durch Media Matters. Die Größenordnung ist realistisch belegt, die exakten Zahlen sind aber methodisch von der Zählweise abhängig (was als GRT-Rhetorik gilt).
+> Die Zahl geht auf eine Auswertung der New York Times vom April 2022 zurück: In mehr als 400 *Folgen* verstärkte Carlson die Idee, Demokraten wollten die Bevölkerung durch Einwanderung austauschen, zusammen über 50 Stunden. Gezählt sind Sendungen, nicht einzelne Erwähnungen. Quelle: [PolitiFact, 19.05.2022](https://www.politifact.com/article/2022/may/19/tucker-carlson-feigned-ignorance-over-great-replac/)
 
 > [!warning] Vereinfacht — Reform-Umfrage: mehr als 50% wollen Denaturalisierung
 > Kendi zitiert eine Umfrage „aus dieser Woche" über Reform-Mitglieder. Solche Mitgliederbefragungen existieren (Hope Not Hate, YouGov), aber die genauen Zahlen variieren je nach Fragestellung. Die Tendenz ist real, die präzise Zahl bedarf Verifizierung.

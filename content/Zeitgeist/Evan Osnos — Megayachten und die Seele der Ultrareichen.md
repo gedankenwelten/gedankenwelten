@@ -70,7 +70,7 @@ Der Mechanismus ist nicht bewusste Schmeichelei: Die Umgebung selektiert automat
 
 Osnos' Kommentar: Augustus war auch für politische Repression, das Töten von Gegnern und das Verbannen seiner Tochter bekannt. Zuckerberg nennt das "trade-offs". Das ist keine zufällige Verehrung — es ist eine Identifikation mit Macht ohne Demokratie.
 
-[▶ 17:32](https://www.youtube.com/watch?v=7MRbQ_DwIwo&t=1052) — Mark Andreessen schrieb in seinem *Techno-Optimists Manifesto*, dass Introspektion eine *"recent invention"* und im Grunde eine feministische Erfindung von Freud sei — die großen römischen Männer seien Männer der Tat gewesen, nicht der Reflexion. Osnos nennt das einen "subtle and tragic turn of events".
+[▶ 17:32](https://www.youtube.com/watch?v=7MRbQ_DwIwo&t=1052) — Marc Andreessen, Autor des *Techno-Optimist Manifesto*, sagte vor Kurzem in einem Podcast, Introspektion sei eine junge Erfindung, im Grunde von Freud — die großen römischen Männer seien Männer der Tat gewesen, nicht der Reflexion. Osnos nennt das einen "subtle and tragic turn of events".
 
 > [!note] Eigene Einschätzung
 > Das ist psychologisch aufschlussreich, weil es zeigt, wie Ideologie zur Rationalisierung von Defiziten wird. Die Ablehnung von Introspektion ist kein intellektuelles Programm — es ist eine Schutzreaktion. Wer nie gelernt hat, mit Verletzlichkeit umzugehen, muss Verletzlichkeit als inferior definieren. Das ist Schaverien's "Boarding School Syndrome" — Dissoziation als kulturelle Norm.
@@ -89,7 +89,7 @@ Das ist keine naive Selbstwahrnehmung. Es ist eine praktische Entlastung. Der Ka
 
 > *„We've created machines — systems of finance, technology, taxation — that magnify the power of greed so that it is able to build fortunes beyond anything that was possible before."*
 
-Das Ergebnis: 1990 gab es 66 amerikanische Milliardäre, die 7% des nationalen Reichtums kontrollierten. Heute sind es 700+, die 18% kontrollieren — und das Wachstum beschleunigt sich. Jeff Bezos zahlte 2011 keine Bundeseinkommensteuer. 18 Milliardäre erhielten während Covid Stimulus-Schecks, weil sie auf dem Papier arm aussahen.
+Das Ergebnis: 1990 gab es 66 amerikanische Milliardäre, heute sind es über 700 (die Zahlen nennt der Interviewer, Osnos stimmt zu). Das reichste Promille hielt 1990 nach Osnos etwa 7 % des Vermögens, heute etwa 18 % — und das Wachstum beschleunigt sich. Jeff Bezos zahlte 2011 keine Bundeseinkommensteuer. 18 Milliardäre erhielten während Covid Stimulus-Schecks, weil sie auf dem Papier arm aussahen.
 
 ### Bunker als Archäologie der Gegenwart
 

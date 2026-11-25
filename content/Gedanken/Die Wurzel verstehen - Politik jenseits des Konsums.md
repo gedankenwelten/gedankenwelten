@@ -11,6 +11,7 @@ tags:
   - philosophie
   - gesellschaft
   - medien
+raetsel: "Er litt nicht am Baum. Er hatte nur zu viele Blätter in der Hand."
 aliases:
   - Wurzel der Politik
   - Politische Bildung
@@ -28,6 +29,9 @@ aliases:
 
 </details>
 
+
+> [!abstract] Worum es geht
+> Wer nur die Blätter der Politik sammelt, wird unruhig statt klüger. Ein Freund fragt, warum man sich das antut, und die Antwort ist ein Baum: oben die tausend Details des Tages, in der Mitte der Stamm, wie Macht spricht und Narrative wirken, unten die Wurzel, die Frage, was man als Bürger darin ist. Aus diesem Gedanken ist das Panorama [[Panorama/Politik - Verstehen|Politik — Verstehen]] gewachsen.
 
 > Entstanden am 17.05.2026 — aus einem Gespräch mit einem Freund, der meinte, die Leute sollten einfach weniger politisch denken.
 
@@ -124,7 +128,7 @@ Nicht jede politische Note in den Gedankenwelten ist Blätterwerk. Einige gehen 
 
 ## Verbindungen
 
-- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — die Synthese: alle Perspektiven auf einem Blick
+- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — die Synthese: alle Perspektiven auf einem Blick; seit November 2026 mit dem Abschnitt [[Panorama/Politik - Verstehen#5. Wenn die Frage kippt|Wenn die Frage kippt]], der die Frage „Wem nützt das?“ auch nach innen richtet
 - [[Gedanken/Polarisierung als Ideologisierungsfalle]] — wenn Überzeugung zur Identität wird, hört Denken auf. Direkte Fortsetzung dieses Gedankens.
 - [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — keine politische Strömung ist rein; wer das vergisst, landet in der Falle
 

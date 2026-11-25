@@ -85,7 +85,7 @@ Gleichzeitig: Szijjártó sperrte sich nach der Wahl in seinem Ministerium ein u
 ## Faktencheck
 
 > [!success] Bestätigt — Magyar-Zweidrittelmehrheit
-> TISZA gewann 138 von 199 Sitzen (53,2 % der Stimmen) — korrekte Zweidrittelmehrheit. Wahlbeteiligung: 77,8 %, historischer Rekord.
+> TISZA gewann nach den ersten Ergebnissen 138, nach dem amtlichen Endergebnis 141 von 199 Sitzen ([valasztas.hu](https://vtr.valasztas.hu/ogy2026)) — korrekte Zweidrittelmehrheit. Wahlbeteiligung: 77,8 %, historischer Rekord.
 > Quelle: [Wikipedia: Parlamentswahl Ungarn 2026](https://de.wikipedia.org/wiki/Parlamentswahl_in_Ungarn_2026)
 
 > [!success] Bestätigt — Orbán als „Maus" zu Putins „Löwe"

@@ -89,7 +89,7 @@ Daraus folgt die Philosophie des Nicht-Anhaftens:
 2. → **Nicht-Anhaften**: Woran festhalten, wenn es schon vergangen ist?
 3. → **Freiheit**: Der Raum zwischen Reiz und Reaktion öffnet sich — agieren statt reagieren
 
-Das ist Frankls *„Zwischen Reiz und Reaktion liegt die Freiheit"* — 2.500 Jahre früher formuliert und mit einer konkreten Methode unterlegt: Man *erlebt* es auf der Empfindungsebene (vedanā), statt es nur zu denken.
+Das ist der Satz *„Zwischen Reiz und Reaktion liegt die Freiheit"*, den man oft Viktor Frankl zuschreibt, obwohl er nicht von ihm stammt — 2.500 Jahre früher formuliert und mit einer konkreten Methode unterlegt: Man *erlebt* es auf der Empfindungsebene (vedanā), statt es nur zu denken.
 
 ---
 

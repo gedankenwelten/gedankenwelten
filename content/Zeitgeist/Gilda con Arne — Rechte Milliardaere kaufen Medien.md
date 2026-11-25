@@ -65,7 +65,7 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 
 ### USA: Ellison, Bezos und das schrumpfende kritische Mediensystem
 
-[▶ 45:37](https://www.youtube.com/watch?v=Xx5pX9KTlg4&t=2737) — Jeff Bezos entlässt weiter Mitarbeitende bei der Washington Post — nicht aus wirtschaftlicher Notwendigkeit, sondern um Trump zu gefallen. David Ellison (Sohn von Oracle-Gründer Larry Ellison) hat nach dem Kauf von Paramount Bari Weiss als CBS-Chefredakteurin installiert — eine rechte Kolumnistin, die sofort einen Bericht über Folter im CECOT-Gefängnis in El Salvador unterdrückte.
+[▶ 45:37](https://www.youtube.com/watch?v=Xx5pX9KTlg4&t=2737) — Jeff Bezos entlässt weiter Mitarbeitende bei der Washington Post — nicht aus wirtschaftlicher Notwendigkeit, sondern um Trump zu gefallen. David Ellison (Sohn von Oracle-Gründer Larry Ellison) hat nach dem Kauf von Paramount Bari Weiss als CBS-Chefredakteurin installiert — eine rechte Kolumnistin, die sofort einen Bericht über Folter im CECOT-Gefängnis in El Salvador unterdrückte *(zurückgezogen im Dezember 2025, gesendet im Januar 2026 → [[#Faktencheck|Faktencheck]])*.
 
 [▶ 51:42](https://www.youtube.com/watch?v=Xx5pX9KTlg4&t=3102) — Ellison plant nun die Übernahme von Warner Bros. Discovery (HBO, CNN). 3.500 Filmschaffende protestieren mit dem offenen Brief „Block the Merger". Zusammen mit Trumps Streichung der Gelder für NPR und PBS schrumpft die kritische Medienlandschaft — wie in Ungarn.
 
@@ -101,8 +101,11 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 > [!warning] Vereinfacht — 500 Medienbesitzer → Orbán-nahe Stiftung (2018)
 > Die KESMA-Stiftung vereint ca. 500 *Medientitel* — nicht 500 *Besitzer*, wie im Podcast suggeriert. Die Outlets wurden von Orbán-nahen Oligarchen erworben und dann an die Stiftung übertragen. Die Regierung erklärte die Fusion per Dekret zur Frage „nationalen strategischen Interesses" und entzog sie kartellrechtlicher Prüfung. Quellen: [Wikipedia — CEPMF](https://en.wikipedia.org/wiki/Central_European_Press_and_Media_Foundation), [Reuters](https://www.reuters.com/article/us-hungary-media/hungarys-orban-exempts-pro-government-media-group-from-scrutiny-idUSKBN1O51DW)
 
-> [!warning] Vereinfacht — CNews hat mehr als 8 Mio Zuschauer
-> CNews ist laut Wikipedia „the most watched news network in France". Die Zahl von 8 Mio konnte nicht mit einer spezifischen Quelle verifiziert werden — die Größenordnung ist aber plausibel für die kumulierte Tagesreichweite. Quelle: [Wikipedia — CNews](https://en.wikipedia.org/wiki/CNews) *(Keine unabhängige Quelle für die exakte Zahl gefunden)*
+> [!warning] Nicht eindeutig belegt — CNews hat mehr als 8 Mio Zuschauer
+> Eine Zahl von 8 Mio. haben wir nirgends gefunden. Belegt ist: CNews war 2025 nach Médiamétrie mit 3,4 % Marktanteil erstmals das ganze Jahr der meistgesehene Nachrichtensender Frankreichs (BFMTV 2,8 %), die monatliche Reichweite lag im Dezember 2025 bei 39 Mio. Quelle: [France 24, 29.12.2025](https://www.france24.com/fr/info-en-continu/20251229-cnews-se-classe-premi%C3%A8re-cha%C3%AEne-d-info-en-2025-devant-bfmtv)
+
+> [!warning] Vereinfacht — Bari Weiss „unterdrückte“ den CECOT-Bericht
+> Weiss zog den „60 Minutes“-Beitrag „Inside CECOT“ einen Tag vor der geplanten Sendung am 21.12.2025 zurück; Korrespondentin Sharyn Alfonsi nannte das politisch motiviert. Am 18.01.2026 lief der Beitrag doch. Quelle: [NPR, 22.12.2025](https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story) · [Los Angeles Times, 18.01.2026](https://www.latimes.com/entertainment-arts/business/story/2026-01-18/60-minutes-runs-inside-cecot-story-previously-shelved-by-bari-weiss)
 
 > [!success] Bestätigt — David Ellison plant Übernahme von Warner Bros. Discovery
 > Am 27. Februar 2026 schloss Paramount Skydance ein Übernahmeabkommen mit WBD über $110,9 Mrd. WBD-Aktionäre stimmten am 23. April 2026 zu; die regulatorische Genehmigung steht noch aus. Quelle: [Wikipedia — Proposed acquisition of WBD](https://en.wikipedia.org/wiki/Proposed_acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance)

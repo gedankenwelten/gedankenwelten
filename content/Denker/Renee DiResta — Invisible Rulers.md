@@ -83,7 +83,7 @@ Der Begriff stammt von Edward Bernays — Neffe Sigmund Freuds, "Vater der PR". 
 
 [▶ 7:01](https://www.youtube.com/watch?v=Ad2gjdN_k5Y&t=421)
 
-Bernays' berühmteste Kampagne: "Torches of Freedom" für eine Zigarrenmarke. Er verknüpfte Rauchen mit Emanzipation — inszenierte Frauen, die auf der Fifth Avenue demonstrativ rauchten. Die Presse berichtete, als wäre es eine echte politische Bewegung gewesen. Das Prinzip — **Gruppenidentität als Hebel** — ist das Grundmuster jeder modernen Influencer-Kampagne:
+Bernays' berühmteste Kampagne: "Torches of Freedom" (1929), Werbung für Zigaretten. Er verknüpfte Rauchen mit Emanzipation — inszenierte Frauen, die auf der Fifth Avenue demonstrativ rauchten. Die Presse berichtete, als wäre es eine echte politische Bewegung gewesen. Das Prinzip — **Gruppenidentität als Hebel** — ist das Grundmuster jeder modernen Influencer-Kampagne:
 
 > *„You create demand in the individual as a member of a group, a group identity."*
 

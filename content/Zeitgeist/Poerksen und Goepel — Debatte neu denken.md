@@ -105,7 +105,7 @@ Zum ÖRR: Die Verunsicherung sei groß, die Begriffe unklar. Es brauche Figuren,
 
 ### Anstand als demokratische Grundtugend
 
-[▶ 49:30](https://www.youtube.com/watch?v=5HVhsYhmxTg&t=2970) Göpel spricht über ihr Buch *Werte* und das Schlusskapitel „Anstand": Ohne die Bereitschaft, das Du-Ohr aufzumachen, seien Demokratien paralysiert. Aber diese Entscheidung liege in jedem selbst — und Viktor Frankls „Raum zwischen Reiz und Reaktion" müsse aktiv betreten werden.
+[▶ 49:30](https://www.youtube.com/watch?v=5HVhsYhmxTg&t=2970) Göpel spricht über ihr Buch *Werte* und das Schlusskapitel „Anstand": Ohne die Bereitschaft, das Du-Ohr aufzumachen, seien Demokratien paralysiert. Aber diese Entscheidung liege in jedem selbst — und der „Raum zwischen Reiz und Reaktion", den sie Viktor Frankl zuschreibt (der Satz stammt nicht von ihm), müsse aktiv betreten werden.
 
 ### Schmerzen der Sichtbarkeit
 

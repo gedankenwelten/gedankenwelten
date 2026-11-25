@@ -53,7 +53,7 @@ Alle drei erleben subjektiv weniger Angst. Aber die strukturelle Qualität diese
 
 Was der Kollege hat, ist Gewissheit. Eine geschlossene Welterklärung, die jeden Widerspruch absorbiert. Das fühlt sich wie Freiheit an — weil Ambiguität verschwunden ist. Aber es ist keine Freiheit von Angst. Es ist eine Unterdrückung von Angst durch kognitive Schließung. Das Gefahrenzeichen: Wenn ein einziges wirklich widerlegendes Ereignis passiert, kann das gesamte Konstrukt zusammenbrechen — und die aufgestaute Angst kommt auf einmal. Das ist strukturell fragil.
 
-Was der Lehrling des Lebens hat, ist nicht Gewissheit. Es ist — ich würde es *Toleranzkapazität für Ungewissheit* nennen. Frankls Freiheitskorridor wird nicht breiter, weil man weniger Reize bekommt. Er wird breiter, weil man mehr aushalten kann, ohne sofort reagieren zu müssen. Das ist der Unterschied zwischen dem Aufhören des Lärms und dem Aufhören des Erschreckens durch Lärm. Nur das zweite ist echte Freiheit.
+Was der Lehrling des Lebens hat, ist nicht Gewissheit. Es ist — ich würde es *Toleranzkapazität für Ungewissheit* nennen. Der Freiheitskorridor zwischen Reiz und Reaktion wird nicht breiter, weil man weniger Reize bekommt. Er wird breiter, weil man mehr aushalten kann, ohne sofort reagieren zu müssen. Das ist der Unterschied zwischen dem Aufhören des Lärms und dem Aufhören des Erschreckens durch Lärm. Nur das zweite ist echte Freiheit.
 
 Der Text sollte das unterscheiden — nicht wertend im Sinne von "mein Weg ist besser", sondern analytisch: die drei Wege haben verschiedene Robustheits-Profile und verschiedene Risiken.
 

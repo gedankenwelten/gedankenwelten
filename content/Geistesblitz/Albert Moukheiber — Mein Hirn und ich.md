@@ -114,7 +114,7 @@ Moukheibers entscheidende Frage: *Wie viel Automatismus gestatte ich mir?*
 Automatisch reagieren: schnell, ressourcensparend, aber ohne Kontrolle. Innehalten und bewusst handeln: langsam, kostspielig, aber selbstbestimmt. Die Kunst liegt nicht darin, immer bewusst zu handeln — das ist unmöglich —, sondern zu wissen *wann* es sich lohnt, aus dem Automatismus herauszutreten.
 
 > [!note] Eigene Einschätzung
-> Das klingt nach dem Kernproblem der Vipassana-Praxis. Sati (Achtsamkeit) ist genau dieses Innehalten — der Moment zwischen Reiz und Reaktion, den Viktor Frankl *Freiheit* nannte. Goenka würde sagen: Automatische Sankharas (Reaktionsmuster) sind das Gegenteil von Freiheit. Moukheibers neurobiologische Sprache und Goenkas Dhamma-Sprache beschreiben dasselbe Phänomen: den Unterschied zwischen *reagieren* (blind, gewohnheitsmäßig) und *antworten* (bewusst, gewählt). Die Neurobiologie liefert hier den empirischen Unterbau für eine jahrtausendealte Praxisweisheit.
+> Das klingt nach dem Kernproblem der Vipassana-Praxis. Sati (Achtsamkeit) ist genau dieses Innehalten — der Moment zwischen Reiz und Reaktion, den ein oft Viktor Frankl zugeschriebener Satz *Freiheit* nennt. Goenka würde sagen: Automatische Sankharas (Reaktionsmuster) sind das Gegenteil von Freiheit. Moukheibers neurobiologische Sprache und Goenkas Dhamma-Sprache beschreiben dasselbe Phänomen: den Unterschied zwischen *reagieren* (blind, gewohnheitsmäßig) und *antworten* (bewusst, gewählt). Die Neurobiologie liefert hier den empirischen Unterbau für eine jahrtausendealte Praxisweisheit.
 
 ---
 
