@@ -341,6 +341,10 @@ Dieselbe Mechanik in der Politik: Warum die Ränder auf TikTok vorn liegen, und 
 
 Das umgekehrte Rezept, „wir müssen in Lösungen sprechen“, empfiehlt ein Firmenchef bei Breaking Lab; Crocketts Befund erklärt, warum das Benennen von Problemen trotzdem eine Aufgabe hat.
 
+### → [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+
+Freddy Leppin stützt sich auf dieselbe Befragung in 125 Ländern und verrutscht an anderer Stelle als Mössner. Eine Zahl über die Wahrnehmung der anderen verliert auf dem Weg durch ein Video leicht ihre Form.
+
 ---
 
 ## Weiterdenken

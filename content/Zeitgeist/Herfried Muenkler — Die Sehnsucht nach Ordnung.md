@@ -443,6 +443,10 @@ Tooze will Ängste mit Vernunft prüfen und vorbeugend löschen; Münklers These
 
 Die Altersdaten der Zuhörerin sind Oschmanns stärkstes Argument gegen die Diktaturthese. Kowalczuk teilt Münklers Richtung, legt den Grund aber tiefer und jünger zugleich: in die Gewohnheit, „die da oben“ machen zu lassen, an die 1990 unbewusst angeknüpft wurde.
 
+### → [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+
+Freddy Leppin geht sieben Sorgen einzeln durch und legt Zahlen daneben, obwohl er selbst festgestellt hat, dass unter allen dasselbe Gefühl liegt. Er macht genau den Versuch, den Münklers Unterscheidung von Furcht und Angst für schwer haltbar erklärt.
+
 ---
 
 ## Weiterdenken

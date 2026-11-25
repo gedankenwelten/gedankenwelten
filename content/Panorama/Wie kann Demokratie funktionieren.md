@@ -2,7 +2,7 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-11-24
+aktualisiert: 2026-11-25
 description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -219,6 +219,8 @@ Was „gleiche Maßstäbe“ verlangen, lässt sich prüfen, und die Prüfung f�
 
 Eine Probe aufs Exempel, wie Institutionen im Ausnahmezustand halten, ist die Ukraine. Das Kriegsrechtsgesetz verbietet dort alle Wahlen, die Verfassung lässt den Präsidenten bis zum Amtsantritt seines Nachfolgers im Amt und verbietet unter Kriegsrecht jede Verfassungsänderung ([n-ost/LB.ua, 14.03.2024](https://n-ost.org/article/constitution-put-to-test-during-martial-law)). Die Venedig-Kommission des Europarats hält den Aufschub für gedeckt; im Krieg könne es sogar die Pflicht der Behörden sein, Wahlen zu verschieben ([Venedig-Kommission, CDL-PI(2020)003](https://rm.coe.int/16809e38a6)). Die Forschung zu Nachkriegswahlen rät zur Geduld: Frühe Wahlen erhöhen das Risiko neuer Kämpfe, wenn Demobilisierung und starke Institutionen fehlen ([Brancati & Snyder 2013](https://doi.org/10.1177/0022002712449328), alle Bürgerkriege seit 1945). Was bleibt, ist ein Mandat, das legal ist und doch dünner wird, je länger niemand es erneuern kann.
 
+Wie oft halten die Leitplanken, wenn jemand an ihnen rüttelt? Die Zahlen sprechen in zwei Richtungen. Rund 70 Prozent aller Autokratisierungen seit den 1990ern wurden umgekehrt, die meisten gegen Ende der ersten Wahlperiode; der V-Dem-Bericht nennt dafür drei Zutaten zusammen, Bremsen (saubere Wahlen, Gerichte, Parlament), einen Motor (geeinte Opposition, Zivilgesellschaft, freie Medien, anhaltenden friedlichen Protest) und Tempo ([V-Dem Democracy Report 2026](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf), S. 39). Hat der Abbau in einer Demokratie aber einmal begonnen, fällt sie öfter, als sie sich fängt: Von 59 Episoden seit 1993 wendete nur etwa jede fünfte den Zusammenbruch ab, am ehesten, wo Gerichte die Regierung stark beschränkten ([Boese u. a. 2021](https://doi.org/10.1080/13510347.2021.1891413), Datenbankstudie). Wo es gelang, kam meist mehreres zusammen, ein unabhängiges Gericht oder eine Amtszeitgrenze und ein Anlass wie ein Korruptionsskandal, und Parlament, Gerichte und Straße drückten zugleich, so in Südkorea zwischen 2008 und 2016 ([Laebens & Lührmann 2021](https://doi.org/10.1080/13510347.2021.1897109), Fallvergleich). Am gefährlichsten ist die Mitte: Machtübernahmen durch Amtsinhaber sind dort am wahrscheinlichsten, wo Gerichte und Parlament den Regierungschef genug einschränken, um ihn zu reizen, aber zu wenig, um ihn aufzuhalten ([Djuve 2026](https://doi.org/10.1093/jopres/xjag065), Regressionsanalyse). Tunesien und El Salvador zeigen, wie es ausgeht, wenn es nicht hält; Ungarn, seit 2018 bei V-Dem eine Wahlautokratie, wie es 2026 doch noch an der Urne kippte.
+
 **Die Stimmen**
 
 - **[[Presseclub — Brandmauer nach links#Zweierlei Maß?|Anke Myrrhe]]:** „Nimm links, setze rechts“: Wer dem Verfassungsschutz bei der Roten Hilfe misstraut, kann sich beim AfD-Verbot nicht auf ihn berufen.
@@ -230,7 +232,9 @@ Eine Probe aufs Exempel, wie Institutionen im Ausnahmezustand halten, ist die Uk
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Westdeutsche Demophobie vs. ostdeutsche Demokratieerfahrung|Philip Manow]]:** Der wehrhafte Demokratiediskurs behandelt den Demos als gefährlichen Gesellen; wer 1989 erlebt hat, dass das Volk etwas ausrichten kann, hört darin etwas anderes.
 - **[[Gesine Schwan — Macht NEU DENKEN#Demokratische Kultur als Fundament — nicht nur Institutionen|Gesine Schwan]]:** Jede institutionelle Vorkehrung lässt sich missbrauchen; es schützt am Ende nur der Geist, in dem man sie hält.
 
-<details><summary>Weitere Stimmen (23)</summary>
+<details><summary>Weitere Stimmen (24)</summary>
+
+- **[[Good News - Wenn du glaubst die Welt geht unter#Halten die Leitplanken?|Freddy Leppin]]:** Südkorea, Brasilien, Ungarn: *„each time someone tested how far they could push … the guardrails held“*; die Nachbesprechung hält dagegen, dass er nur Fälle zeigt, die gut ausgingen.
 
 - **[[Wolodymyr Selenskyj — Ein Praesident im Krieg#Wahlen im Krieg|Wolodymyr Selenskyj]]:** Auf Trumps Forderung nach einem neuen Präsidenten antwortet er im Gespräch nur mit „Nein“; seit Dezember 2025 sagt er, gewählt werden könne binnen 60 bis 90 Tagen, wenn die Verbündeten die Sicherheit der Wahl garantieren.
 - **[[Ernst Gelegs — Ist das Regime Orbán am Ende#Die Verfassungsfallen — das politische Erbe|Ernst Gelegs]]:** Orbáns Kardinalgesetze und überlappende Amtszeiten machen gegenmehrheitliche Sicherungen zur Fessel für die nächste Regierung.
@@ -356,6 +360,7 @@ Eine zweite Achse ist das Alter. Ein Mensch, eine Stimme heißt in einer alternd
 
 | Datum | Note | Vertieft |
 |---|---|---|
+| 25.11.2026 | [[Good News - Wenn du glaubst die Welt geht unter#Nachbesprechung\|Good News — Wenn du glaubst, die Welt geht unter]] | Halten die Leitplanken? → *Wie schützen Institutionen die Demokratie vor Willkür?* (V-Dem 2026, Boese u. a. 2021, Laebens & Lührmann 2021, Djuve 2026; Tunesien, El Salvador, Ungarn als Wahlautokratie) · Stimme Leppin |
 | 20.11.2026 | [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Nachbesprechung\|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit]] | Wiegt jede Stimme gleich? → das Alter als zweite Achse: Wahlrecht ab 16 (BiB 2021, Wagner u. a. 2012, Stiers u. a. 2020), Zusatzstimmen im Labor (Miyake u. a. 2023), Lebenserwartung nach Einkommen (Haan u. a. 2020), Antrag 16/9868 · El-Mafaalani als Stimme |
 | 20.11.2026 | [[NANO Talk - Eliten Machtmissbrauch und Verantwortung#Reichtum und Medienmacht\|NANO Talk — Eliten]] | Reichtum und Medienmacht: Adelson, Murdoch, Bolloré, Washington Post, Conseil d'État |
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Nachbesprechung|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Das Los und der Bürgerrat · Plebiszit als Denkzettel oder Sachfrage |

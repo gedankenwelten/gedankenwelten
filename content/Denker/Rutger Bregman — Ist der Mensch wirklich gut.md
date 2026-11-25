@@ -357,6 +357,10 @@ Bregman und Neiman greifen dasselbe Menschenbild an, von gegenüberliegenden Sei
 
 Weils „doppelte Versteinerung“ ist der literarische Vorläufer von Bregmans innerem Preis des Tötens; die Befunde zur Lust am Kampf zeigen, für wen er nicht gilt.
 
+### → [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+
+Freddy Leppin zieht aus derselben niederländischen Studie zum Fernsehen den Schluss, man brauche die fehlende gute Hälfte. Bregman will einen Journalismus, der Abstand gewinnt; zwei Antworten auf dieselbe Diagnose.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

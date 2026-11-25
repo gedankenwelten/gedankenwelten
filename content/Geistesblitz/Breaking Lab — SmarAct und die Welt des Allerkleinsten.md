@@ -304,6 +304,10 @@ Dass Wissen an Menschen haftet, ist auch die Wette hinter SKI²LL-AI, einem virt
 
 Ein Kanal, den zwei Gründer aus Nachrichtenmüdigkeit begannen, Fall für die Zahlen zur Nachrichtenvermeidung hier. Er finanziert sich über einen Sponsor und ein eigenes Buch und kennzeichnet beides, und er steht an derselben Grenze zur Fürsprache, wenn Weltbank und UN über ihre eigenen Projekte berichten.
 
+### → [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+
+Freddy Leppins Video ist die lange Fassung von Weigel-Jechs Frage, warum wir lieber über Probleme reden. Es steht an derselben Grenze: ein Lehrstück über Rahmung, das in eine bezahlte Anzeige übergeht.
+
 ---
 
 ## Weiterdenken

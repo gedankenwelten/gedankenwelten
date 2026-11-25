@@ -303,6 +303,10 @@ Die Nachbesprechung dort bringt die Forschung zu dem, was Leppin von der Gründu
 
 Das deutsche Gegenstück zur Abregelung in China, die bei den drei Terawatt fehlt. Der Ökonom Mario Liebensteiner sagt dort, die Politik habe auf den Zubau gesetzt und „alles andere drumherum vergessen“, und die Note fragt, ob der Netzausbau nicht einfach niemandes Projekt war. Eine neue Anlage lässt sich eröffnen, eine verstärkte Leitung kaum. Es ist dieselbe Ungleichheit zwischen Gründen und Erhalten, die durch diese ganze Ausgabe läuft, in der Lausitz als Kalkschiff, im Stromnetz als Leitung, die noch nicht liegt.
 
+### → [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+
+Was Leppin hier als Gründungsgeschichte erzählt, baut er acht Tage später zum ganzen Argument aus; die Nachbesprechung dort fragt, wem eine andere Auswahl überhaupt hilft.
+
 ---
 
 ## Weiterdenken

@@ -226,3 +226,6 @@ Der Filterclash als Ranking-Entscheidung: Das Feature gegen die Blase setzt das 
 
 Auf dem re:publica-Panel verlangt der CDU-Abgeordnete Johannes Volkmann, den „moralischen Absolutheitsanspruch“ aufzugeben, und die Aktivistin Jouanna Hassoun will selbst bei hochgradig antisemitischen oder rassistischen Sätzen zuerst fragen: Wie meinst du das? Das ist Pörksens respektvolle Konfrontation, im Streit über Nahost erprobt. Dass keiner der drei es dort durchhält, zeigt, wie schwer die Übung ist.
 
+### → [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+
+Freddy Leppins Bloomberg-Gizmodo-Beispiel zeigt Watzlawicks Wirklichkeit zweiter Ordnung im Alltag der Schlagzeilen; die Nachbesprechung dort schränkt den Polarisierungsmythos für Teile Europas ein.

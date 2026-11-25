@@ -319,6 +319,10 @@ Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wi
 
 Wie nah ein Lösungsgespräch an die Fürsprache rückt, zeigt ein als Werbung gekennzeichnetes Breaking-Lab-Video über SmarAct; die Nachbesprechung dort hält die Forschung zum konstruktiven Journalismus dagegen.
 
+### → [[GoodNews/Good News - Wenn du glaubst die Welt geht unter|Good News — Wenn du glaubst, die Welt geht unter]]
+
+Freddy Leppin verspricht, dass man sich am Ende besser fühlt, und seine Note bringt das Experiment, in dem genau diese Beruhigung das Handeln senkte: Urners Unterschied zwischen Optimismus und Hoffnung, an einem Experiment gemessen.
+
 ---
 
 ## Weiterdenken

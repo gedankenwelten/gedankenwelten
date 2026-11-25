@@ -99,14 +99,14 @@
    "aufrufe": 11
   },
   {
-   "pfad": "/DenkerVita/Marcant",
+   "pfad": "/DenkerVita/Byung-Chul-Han",
    "leser": 8,
    "aufrufe": 10
   },
   {
-   "pfad": "/DenkerVita/Byung-Chul-Han",
-   "leser": 7,
-   "aufrufe": 9
+   "pfad": "/DenkerVita/Marcant",
+   "leser": 8,
+   "aufrufe": 10
   },
   {
    "pfad": "/DenkerVita/Christian-Bauckhage",
@@ -319,9 +319,9 @@
      "aufrufe": 16
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 13,
-     "aufrufe": 14
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 12,
+     "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -334,9 +334,9 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 11,
-     "aufrufe": 11
+     "aufrufe": 12
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -364,14 +364,14 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 5,
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 4,
-     "aufrufe": 5
+     "pfad": "/DenkerVita/Christian-Bauckhage",
+     "leser": 5,
+     "aufrufe": 6
     },
     {
      "pfad": "/Zeitgeist/Norio-GICON-Hoehenwindturm-revolutioniert-Windkraft",
@@ -435,6 +435,11 @@
     },
     {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Panorama/Was-macht-Schule-mit-uns",
      "leser": 3,
      "aufrufe": 3
     },
@@ -554,22 +559,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Geistesblitz/Mark-Benecke-und-Ines-Azrael-KI-Agenten-4,-Elektrische-Liebe",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Geistesblitz/Mark-Benecke-und-Ines-Azrael-KI-Agenten-8,-Fragen-an-ColonistOne",
      "leser": 2,
      "aufrufe": 2
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Panorama/Was-macht-Schule-mit-uns",
      "leser": 2,
      "aufrufe": 2
     },
@@ -605,6 +600,11 @@
     },
     {
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
      "leser": 2,
      "aufrufe": 2
     }
@@ -709,14 +709,14 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 8,
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 7,
-     "aufrufe": 9
+     "pfad": "/DenkerVita/Marcant",
+     "leser": 8,
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Christian-Bauckhage",
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 136,
-     "aufrufe": 144
+     "leser": 137,
+     "aufrufe": 145
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1034,6 +1034,11 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 16,
+     "aufrufe": 18
+    },
+    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 16,
      "aufrufe": 16
@@ -1042,11 +1047,6 @@
      "pfad": "/DenkerVita/Marcant",
      "leser": 15,
      "aufrufe": 22
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 15,
-     "aufrufe": 17
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -1199,6 +1199,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Denker/S.N.-Goenka-Vipassana",
+     "leser": 8,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 8,
      "aufrufe": 10
@@ -1210,11 +1215,6 @@
     },
     {
      "pfad": "/DenkerVita/Martin-Oetting",
-     "leser": 8,
-     "aufrufe": 10
-    },
-    {
-     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 8,
      "aufrufe": 10
     }
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 136,
-     "aufrufe": 144
+     "leser": 137,
+     "aufrufe": 145
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1339,6 +1339,11 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 16,
+     "aufrufe": 18
+    },
+    {
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 16,
      "aufrufe": 16
@@ -1347,11 +1352,6 @@
      "pfad": "/DenkerVita/Marcant",
      "leser": 15,
      "aufrufe": 22
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 15,
-     "aufrufe": 17
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
@@ -1504,6 +1504,11 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Denker/S.N.-Goenka-Vipassana",
+     "leser": 8,
+     "aufrufe": 10
+    },
+    {
      "pfad": "/DenkerVita/Christian-Bauckhage",
      "leser": 8,
      "aufrufe": 10
@@ -1515,11 +1520,6 @@
     },
     {
      "pfad": "/DenkerVita/Martin-Oetting",
-     "leser": 8,
-     "aufrufe": 10
-    },
-    {
-     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 8,
      "aufrufe": 10
     }
@@ -1540,8 +1540,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 33,
-     "aufrufe": 33
+     "leser": 34,
+     "aufrufe": 34
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1604,6 +1604,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 7,
      "aufrufe": 7
@@ -1632,11 +1637,6 @@
      "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "leser": 7,
      "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 6,
-     "aufrufe": 6
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",

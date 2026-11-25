@@ -3,7 +3,7 @@ title: "Wer macht die Meinung?"
 date: 2026-10-15
 erstellt: 2026-10-15
 aktualisiert: 2026-11-25
-description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Fünf offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
+description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Sechs offene Fragen zu Redaktionen, Besitzern, Plattformen, Staaten und Unterhaltung, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
 raetsel: "Das Band läuft aus der Presse in tausend Hände. Wo fängt der Satz an?"
 panorama-art: wachsend
 tags:
@@ -29,7 +29,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Die einen sagen, die Meinung werde gemacht: von Redaktionen, Besitzern, Plattformen, Geheimdiensten. Die anderen sagen, so etwas glaube nur, wer sich die Welt einfacher wünscht, als sie ist. Beide haben Belege. Dieses Panorama stellt vier Fragen: ob jemand lenkt oder die Routine, wem die Öffentlichkeit gehört, was staatliche Propaganda tatsächlich ausrichtet, und wann aus gesundem Misstrauen ein blindes wird.
+> Die einen sagen, die Meinung werde gemacht: von Redaktionen, Besitzern, Plattformen, Geheimdiensten. Die anderen sagen, so etwas glaube nur, wer sich die Welt einfacher wünscht, als sie ist. Beide haben Belege. Dieses Panorama stellt seine Fragen: ob jemand lenkt oder die Routine, was die Schlagseite mit dem Leser macht, wem die Öffentlichkeit gehört, was staatliche Propaganda tatsächlich ausrichtet, und wann aus gesundem Misstrauen ein blindes wird.
 
 > [!info] Ein wachsendes Panorama
 > Angestoßen hat es die Nachbesprechung zu [[Rainer Mausfeld — Warum schweigen die Lämmer#Wo trägt die Medienkritik?|Rainer Mausfeld]], dessen Medienkritik Millionen erreicht und sich an einer Stelle gegen jeden Einwand verschließt. Jede Frage trägt den Sachstand, die Stimmen aus dem Bestand und die Reibung zwischen ihnen. Neue Notes, die eine der Fragen vertiefen, schreiben es fort.
@@ -52,7 +52,7 @@ Was eine Absicht ausrichten kann, die sich der Routine bedient, lässt sich an e
 
 Wie eine Absicht in die Routine übergeht, bis sie keinen Befehl mehr braucht, lässt sich an einem historischen Fall in den Akten verfolgen. Im Zweiten Weltkrieg kamen die Nachrichten über den Mord an den europäischen Juden laufend in London an, die meisten aus dem polnischen Untergrund. Der Informationsminister Brendan Bracken beriet die Redakteure, wie Gräuel darzustellen seien, eine Richtlinie riet auf Empfehlung des Außenministeriums von Berichten über Gräueltaten ab, und die großen Zeitungen spielten den Holocaust herunter, während eine kleine Beilage im Londoner East End die ganze Geschichte druckte. Eine strenge Zensur brauchte es nicht, sagt der Historiker Michael Fleming; die Zurückhaltung war unter den Redakteuren zum gesunden Menschenverstand geworden ([[Michael Fleming — Was die Alliierten wussten#Zensur, die niemand befehlen musste|Fleming]]; Fleming 2014, Fachaufsatz, [Fleming 2014](https://doi.org/10.1093/hgs/dcu014)).
 
-Ein Teil der Schlagseite braucht weder Besitzer noch Absicht, nur Leser. In einem Experiment in 17 Ländern reagierten Menschen körperlich stärker auf negative als auf positive Fernsehnachrichten, mit großen Unterschieden zwischen den Einzelnen ([Soroka, Fournier & Nir 2019](https://doi.org/10.1073/pnas.1908369116), Experiment). Bei rund 105.000 getesteten Schlagzeilen hob jedes negative Wort die Klickrate um 2,3 Prozent ([Robertson u. a. 2023](https://doi.org/10.1038/s41562-023-01538-4), Feldexperimente, Robustheit in einer Nachprüfung angefochten). Wer nach Reichweite misst, bekommt die Negativität also mitgeliefert. Das Gegenprogramm, lösungsorientierter Journalismus, hebt verlässlich die Stimmung und das Gefühl, selbst etwas bewirken zu können, beim Vertrauen ist das Bild uneinheitlich ([McIntyre & Lough 2023](https://doi.org/10.1177/07395329231187622), systematische Übersicht); und seine deutschen Vertreter wollen öfter als andere Journalisten Wandel anstoßen ([Krüger u. a. 2022](https://doi.org/10.17645/mac.v10i3.5300), Befragung). Auch das Gute hat eine Richtung.
+Ein Teil der Schlagseite braucht weder Besitzer noch Absicht, nur Leser. In einem Experiment in 17 Ländern reagierten Menschen körperlich stärker auf negative als auf positive Fernsehnachrichten, mit großen Unterschieden zwischen den Einzelnen ([Soroka, Fournier & Nir 2019](https://doi.org/10.1073/pnas.1908369116), Experiment). Bei rund 105.000 getesteten Schlagzeilen hob jedes negative Wort die Klickrate um 2,3 Prozent ([Robertson u. a. 2023](https://doi.org/10.1038/s41562-023-01538-4), Feldexperimente, Robustheit in einer Nachprüfung angefochten). Wer nach Reichweite misst, bekommt die Negativität also mitgeliefert. Wie diese Schlagseite beim Leser ankommt und was gegen sie hilft, fragt der nächste Abschnitt.
 
 **Die Stimmen**
 
@@ -67,7 +67,7 @@ Ein Teil der Schlagseite braucht weder Besitzer noch Absicht, nur Leser. In eine
 
 <details><summary>Weitere Stimmen (8)</summary>
 
-- **[[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Warum reden wir nur über Probleme?|Michael Weigel-Jech]]:** Die Neigung zum Problemreden sitze weniger in den Medien als in einer Erziehung zum „nie genug“; er will „in Lösungen sprechen“, gesagt in einem Werbegespräch für seine eigene Firma.
+- **[[Good News - Wenn du glaubst die Welt geht unter#Wenn es blutet, kommt es nach vorn|Freddy Leppin]]:** *„This isn't a conspiracy. It's an incentive.“* Redaktionen unter Geldnot setzten stärker auf das Negative, weil es das Publikum hält; Nachrichten seien nicht der Schurke, schief sei das Verhältnis.
 
 - **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Der Mechanismus Nachrichtenfaktoren als Teufelskreis|Staiy]]:** Verzerrung entsteht aus ökonomischem Druck, nicht aus böser Absicht, und gerade das macht sie schwer zu durchbrechen.
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#Neutralität vs. Objektivität — Warum echte Neutralität eine Lüge ist|Torsten Heinrich]]:** „Wirkliche Neutralität gibt es nur bei Dingen, die dich überhaupt nicht interessieren“; die Wortwahl verrät die Position, also soll man sie offenlegen.
@@ -81,6 +81,28 @@ Ein Teil der Schlagseite braucht weder Besitzer noch Absicht, nur Leser. In eine
 
 > [!question] Die Reibung
 > Mausfeld sucht hinter jedem Feindbild den Zweck, Dobusch und Zaboura zeigen, dass dieselben Muster ganz ohne Zweck entstehen, und der leere Turm hält den Glauben an Drahtzieher selbst für eine Entlastung. *Wenn die gewöhnliche Routine dieselben Muster erzeugt wie eine Absicht: Woran würde man erkennen, dass es doch eine gibt, und wäre diese Antwort ein Gewinn oder eine Ausrede?*
+
+---
+
+## Was macht die Schlagseite mit dem Leser?
+
+Die Frage davor sucht den Urheber der Schlagseite. Diese fragt, was sie mit denen macht, die lesen, und ob es hilft, ihr etwas entgegenzustellen. Dass schlechte Nachrichten die Stimmung drücken, ist gut belegt; eine Meta-Analyse über 18 Experimente fand nach Berichten über Katastrophen und Gewalt einen großen Effekt, am stärksten auf Angst, ohne sagen zu können, wie lange er anhält ([Hopwood & Schutte 2017](https://doi.org/10.1037/vio0000056), Meta-Analyse). Die Menge wiegt mit: Nach dem Anschlag auf den Boston-Marathon ging stundenlanges Verfolgen der Berichte mit mehr akutem Stress einher als die Anwesenheit am Ort ([Holman, Garfin & Silver 2014](https://doi.org/10.1073/pnas.1316265110), repräsentative Befragung). Im Alltag ist der Effekt kleiner und hängt daran, wie nah eine Nachricht dem eigenen Leben kommt ([de Hoog & Verboon 2020](https://doi.org/10.1111/bjop.12389), Tagebuchstudie). Einen Sog aus Grübeln und Kontrollverlust gibt es auch, aber seltener, als die erste Studie dazu nahelegte: In der Wiederholung mit zwei Befragungswellen zeigte ihn etwa jeder Dreizehnte, und im Längsschnitt bestätigten sich nur die seelischen Beschwerden ([McLaughlin, Gotlieb & Mills 2024](https://doi.org/10.1080/10410236.2024.2434955), Replikation mit Panel).
+
+Viele ziehen daraus ihre eigene Folgerung. 42 Prozent meiden Nachrichten manchmal oder oft, 2017 waren es 29, und das starke Interesse an Nachrichten fiel seit 2021 von 59 auf knapp 46 Prozent ([Reuters Institute 2026](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary), Befragung in 48 Märkten). Die Forschung unterscheidet zwei Gruppen: Die einen meiden aus Desinteresse, die anderen aus Überforderung und schützen sich zeitweise oder bei bestimmten Themen ([Reuters Institute 2025](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary)). Gegen das zweite Meiden hilft eine andere Auswahl und Darstellung, gegen das erste nur beiläufiger Kontakt ([Skovsgaard & Andersen 2020](https://doi.org/10.1080/1461670X.2019.1686410), Übersicht).
+
+Das Gegenprogramm, lösungsorientierter Journalismus, hebt verlässlich die Stimmung und das Gefühl, selbst etwas bewirken zu können, beim Vertrauen ist das Bild uneinheitlich ([McIntyre & Lough 2023](https://doi.org/10.1177/07395329231187622), systematische Übersicht); und seine deutschen Vertreter wollen öfter als andere Journalisten Wandel anstoßen ([Krüger u. a. 2022](https://doi.org/10.17645/mac.v10i3.5300), Befragung). Auch das Gute hat eine Richtung, und sie lässt sich messen. In einem Experiment senkte eine optimistische Botschaft über den Fortschritt bei den Emissionen die Sorge und mit ihr die Bereitschaft, selbst etwas zu tun ([Hornsey & Fielding 2016](https://doi.org/10.1016/j.gloenvcha.2016.04.003), Experiment). Ob ein Ausgleich durch gute Nachrichten das Wohlbefinden auf Dauer hebt, ist kaum geprüft.
+
+**Die Stimmen**
+
+- **[[Good News - Wenn du glaubst die Welt geht unter#Nachbesprechung|Freddy Leppin]]:** Das Problem sei nicht, dass es schlechte Nachrichten gibt, sondern das Verhältnis; man solle fragen, ob man das ganze Bild sieht, und manchmal die andere Hälfte suchen.
+- **[[Maren Urner — Radikal hoffnungsvoll#Die Nemesis der Hoffnung Angst als Werkzeug|Maren Urner]]:** Angst hat ein Mindesthaltbarkeitsdatum; chronisch macht sie krank und lähmt, Hoffnung ist ihr Gegenmittel.
+- **[[Morpheus und Molly Crockett — Ragebait und moralische Empoerung#Die Artischocke und die Erschöpfung|Morpheus (Mössner)]]:** Der Feed reiht Dinge aneinander, die irgendwem unfassbar wichtig sind; erschöpfend ist das dauernde Mitfühlen und Umschalten.
+- **[[Poerksen und Goepel — Debatte neu denken#Fünf Mythen der Debattenkultur — Techniken der Abkühlung|Bernhard Pörksen]]:** Der „Untergangsmythos“: Das Negative ist medial überrepräsentiert, wir leben in einer Gesellschaft der Gleichzeitigkeiten.
+- **[[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Warum reden wir nur über Probleme?|Michael Weigel-Jech]]:** Die Neigung zum Problemreden sitze weniger in den Medien als in einer Erziehung zum „nie genug“; er will „in Lösungen sprechen“, gesagt in einem Werbegespräch für seine eigene Firma.
+- **[[Andreas Reckwitz — Fortschritt NEU DENKEN#Der blinde Fleck Verlust|Andreas Reckwitz]]:** Die Fortschrittskultur hat keine guten Werkzeuge für Verlust; wer nur Kurven zeigt, die steigen, lässt die Erfahrung des Verlierens sprachlos.
+
+> [!question] Die Reibung
+> Leppin und Urner wollen der Angst etwas entgegenstellen, damit Menschen handeln. Das Klima-Experiment zeigt, dass die gute Nachricht gerade die beruhigen kann, die handeln sollten, und Reckwitz erinnert daran, dass manche Verluste keine Gegenkurve haben. *Soll eine Nachricht den Leser stärken oder ihn beunruhigen, und wer darf das für ihn entscheiden?*
 
 ---
 
@@ -218,6 +240,7 @@ Politisch aber formt Unterhaltung. In italienischen Gemeinden, die Berlusconis M
 | 08.11.2026 | [[Fediverse - Die digitale Allmende#Nachbesprechung|Fediverse — Die digitale Allmende]] | Trägt sich eine Allmende im Netz? (Raman u. a. 2019, Anaobi u. a. 2023, Frey & Sumner 2019, Halfaker u. a. 2013; Gemeinnützigkeit entzogen 2024, Sovereign Tech Fund 2026, IFTAS 2025) · Warum bleibt man, wo man ist? (He u. a. 2023, Ng & Ray 2025, Wang u. a. 2026, Quelle u. a. 2025, Fiesler & Dym 2020); Sachstand und Stimme in „Wem gehört die Öffentlichkeit?“ |
 | 14.11.2026 | [[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Nachbesprechung\|Breaking Lab — SmarAct und die Welt des Allerkleinsten]] | Lenkt die Routine: Negativität als Nachrichtenfaktor ohne Absicht (Soroka u. a. 2019, Robertson u. a. 2023), konstruktiver Journalismus und seine Richtung (McIntyre & Lough 2023, Krüger u. a. 2022); Stimme Weigel-Jech |
 | 25.11.2026 | [[Zeitgeist/auslandsjournal — Trumps Buddies#Nachbesprechung\|auslandsjournal — Trumps Buddies]] | Was richtet staatliche Propaganda aus? Deutschland als Ziel (Doppelgänger, Storm-1516 laut BND, CeMAS: Wirkung „beschränkt“), der indirekte Weg über das Vertrauen (Ognyanova u. a. 2020), Allensbach/bpb 2025 als Korrelation · Stimme Eigendorf |
+| 25.11.2026 | [[Good News - Wenn du glaubst die Welt geht unter#Nachbesprechung\|Good News — Wenn du glaubst, die Welt geht unter]] | Neue Frage „Was macht die Schlagseite mit dem Leser?“: Hopwood & Schutte 2017, Holman u. a. 2014, de Hoog & Verboon 2020, McLaughlin u. a. 2024, Reuters DNR 2025/2026, Skovsgaard & Andersen 2020, Hornsey & Fielding 2016; McIntyre & Lough und Weigel-Jech aus dem Routine-Abschnitt hierher · Stimme Leppin auch in *Lenkt jemand, oder lenkt die Routine?* |
 
 ---
 
