@@ -861,7 +861,10 @@ Nach Faktencheck und Stimme, **vor** Cross-Linking — so kann Montaigne die Pan
      man darüber hinaus wissen kann*. Nichts doppelt — auf den Faktencheck verweisen statt ihn zu wiederholen.
 4. **Panorama speisen:** Die Stimme der neuen Note (ein Satz, Sprung auf den Abschnitt) in den passenden
    Abschnitt des wachsenden Panoramas eintragen; was die Recherche an Forschung bringt, in dessen Sachstand;
-   Zeile in `## Nachbesprechungen, die hierher führen`. Gibt es noch kein passendes Panorama: vorschlagen
+   Zeile in `## Nachbesprechungen, die hierher führen`. Übernimmst du dabei eine Aussage einer *anderen*
+   Note (Stimmen, Sachstand), lies deren Faktencheck an der Stelle mit; was sie einschränkt, geht mit
+   der Einschränkung hinein (→ `rules/gedankenwelten.md`, „Den Faktencheck der Quell-Note mitlesen“).
+   Gibt es noch kein passendes Panorama: vorschlagen
    (Schwelle: mind. 3 echte Stimmen im Bestand) — anlegen nur mit Andreas' Ja. Form → `rules/gedankenwelten.md`, „Panorama".
 5. **Anker prüfen:** Jeder `[[Note#Überschrift]]`-Link muss eine existierende Überschrift treffen
    (Doppelpunkt in der Überschrift im Link weglassen: `#Bürgerräte Skeptisch` für „Bürgerräte: Skeptisch").

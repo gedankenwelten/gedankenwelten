@@ -1,7 +1,7 @@
 ---
-title: "Panorama — Gelebte Demokratie"
+title: "Gelebte Demokratie"
 date: 2026-05-21
-aktualisiert: 2026-05-21
+aktualisiert: 2026-11-25
 description: "Demokratie ist kein Zustand, sondern eine Praxis — täglich gemacht in Anfragen, Streiks, Volksbegehren. Nicht verwaltet, sondern gelebt."
 tags:
   - panorama
@@ -11,6 +11,7 @@ tags:
   - zivilgesellschaft
   - deutschland
 erstellt: 2026-05-21
+raetsel: "Das Gerüst steht nur, solange jemand daran baut."
 ---
 
 # Gelebte Demokratie
@@ -24,6 +25,9 @@ erstellt: 2026-05-21
 *Prompt:* Raoul Dufy loose watercolor, light pencil contour with colour washes deliberately overflowing the lines, warm bright palette, 1200x500 banner. A group of people together raising a colourful scaffold built of triangles and squares; one person carries a stack of books, another carries papers, two sit at a table conferring, an open door at the right. Airy, sketchy, joyful, communal scene, soft washes of terracotta, ochre, sage and blue. No photorealism, no hard edges.
 
 </details>
+
+> [!abstract] Worum es geht
+> Demokratie wird nicht nur gewählt, sie wird gemacht: in Anfragen und Klagen, in Streiks, Volksentscheiden und Bibliotheken. Ausgehend von Arne Semsrotts Vortrag „Zur Gegenmacht“ (re:publica 26) versammelt das Panorama Menschen und Initiativen, die das tun, von FragDenStaat und dem Freiheitsfonds bis zum Streik am DHL-Drehkreuz Leipzig. Es fragt auch, wo solche Praxis Folgen mildert, statt Ursachen zu ändern, und wer dabei mitmacht und wer nicht.
 
 ## Warum dieses Thema?
 
@@ -41,9 +45,9 @@ Bevor man verstehen kann, warum gelebte Demokratie nötig ist, muss man verstehe
 
 [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott]] rechnet es auf: Die aktuelle Bundesregierung steht hinter **27% der Bevölkerung** — nicht der Wähler, sondern aller Menschen, die in Deutschland leben. Ausgeblendet werden: Menschen ohne deutschen Pass (mehr als die AfD Stimmen bekam), Minderjährige (größte Gruppe, für die Klimapolitik gemacht wird, ohne Mitspracherecht), Nichtwähler (überwiegend armutsbetroffene Menschen). Die **Mehrheitslüge** ist strukturell eingebaut.
 
-Und die Inhalte? Tempolimit: Zwei-Drittel-Mehrheit. Vermögenssteuer: steigende Mehrheit. Legalisierung von Schwangerschaftsabbrüchen: sehr große Mehrheit. **Deutsche Wohnen & Co enteignen**: 59,1% in Berlin — mehr als CDU und SPD zusammen bei der Abgeordnetenhauswahl. Nichts davon wird umgesetzt.
+Und die Inhalte? Tempolimit: Zwei-Drittel-Mehrheit. Vermögenssteuer: steigende Mehrheit. Legalisierung von Schwangerschaftsabbrüchen: sehr große Mehrheit. **Deutsche Wohnen & Co enteignen**: 59,1% in Berlin, gut eine Million Ja-Stimmen und damit mehr, als CDU und SPD zusammen bei der Abgeordnetenhauswahl am selben Tag bekamen. Umgesetzt wurde davon bis zum Frühjahr 2026 wenig. *(Seither hat sich beim Volksentscheid etwas bewegt → [[#Was seither geschah|Was seither geschah]])*
 
-[[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang, Forst und Williams]] liefern den theoretischen Rahmen: Demokratie kann majoritär oder deliberativ verstanden werden. Was gerade geschieht — Familienministerin Prien: *„Vielfalt ist kein staatliches Förderziel"* — ist der Übergang vom pluralistischen zum majoritären Demokratieverständnis. Die Mehrheit hat nicht einfach recht. Die Mehrheit darf auch über Minderheiten hinweg entscheiden.
+[[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang, Forst und Williams]] liefern den theoretischen Rahmen: Demokratie kann majoritär oder deliberativ verstanden werden. Semsrott liest einen Satz der Familienministerin Karin Prien als Zeichen der Zeit: *„Vielfalt sehe ich nicht als staatliches Förderziel.“* Wir lesen darin, mit diesem Rahmen, eine Verschiebung vom pluralistischen zum majoritären Verständnis: als dürfe die Mehrheit über Minderheiten hinweg entscheiden, weil sie die Mehrheit ist.
 
 Gelebte Demokratie ist die Antwort darauf: *Wenn die Repräsentation versagt, muss die Praxis einspringen.*
 
@@ -56,18 +60,18 @@ Gelebte Demokratie ist die Antwort darauf: *Wenn die Repräsentation versagt, mu
 
 Die demokratischste Waffe, die es gibt, ist Information. Und sie ist legal.
 
-[[Zeitgeist/Semsrott — Zur Gegenmacht|Semsrott]] zeigt, wie [[DenkerVita/Arne Semsrott|FragDenStaat]] das Informationsfreiheitsgesetz (IFG) systematisch als Angriffsinstrument nutzt — nicht als Bitte, sondern als Recht:
+[[Zeitgeist/Semsrott — Zur Gegenmacht|Semsrott]] zeigt, wie [[DenkerVita/Arne Semsrott|FragDenStaat]] Informationsfreiheit, Register und Gerichte systematisch nutzt — nicht als Bitte, sondern als Recht:
 
-- **Gewerbesteueroasen**: IFG-Anfrage deckt auf, dass Tochterfirmen der Deutschen Bank im Gerätehaus der freiwilligen Feuerwehr in Lützen sitzen. Kosten der Recherche: 40–50.000 €. Schadenpotenzial für das Netz aller Oasen: ~1 Mrd. Euro. Erste Razzia: wenige Monate nach Veröffentlichung.
-- **Berliner Antisemitismus-Fördergeldaffäre**: Interne Chats zwischen CDU-Kultursenatorin und CDU-Abgeordnetem zeigen gezielte Umleitung von Fördermitteln. Direkte Reaktion: SPD und CDU schränken das Berliner IFG ein.
-- **Das Haberverfahren**: 8 Jahre Kampf gegen einen geheimen Erlass — der jetzt vor Gericht gewonnen wurde.
+- **Gewerbesteueroasen**: Aus Handelsregister, Datenbanken und Besuchen vor Ort zeigte FragDenStaat im November 2025, dass drei Tochterfirmen der Deutschen Bank unter anderem im Gerätehaus der Freiwilligen Feuerwehr in Lützen gemeldet sind. Die Recherche kostete nach Semsrott 40–50.000 €; den Ausfall für die öffentlichen Kassen durch alle Oasen schätzt FragDenStaat auf rund 1 Mrd. € im Jahr. Ende April 2026 durchsuchte die Steuerfahndung NRW einen Dienstleister in Monheim am Rhein ([tagesschau](https://www.tagesschau.de/investigativ/wdr/briefkastenfirmen-steueroasen-deutschland-100.html)).
+- **Berliner Fördergeldaffäre**: Im April 2026 veröffentlichte FragDenStaat Chats der Kultursenatorin Sarah Wedl-Wilson (parteilos, von der CDU nominiert) mit zwei CDU-Abgeordneten. Danach sollte mehr als ein Drittel der rund 10 Mio. € gegen Antisemitismus ohne inhaltliche Prüfung nach einer Liste der CDU vergeben werden ([FragDenStaat](https://fragdenstaat.de/artikel/exklusiv/2026/04/cdu-fordermittel-chats/)); ein Untersuchungsausschuss läuft, die Senatorin bot ihren Rücktritt an. Kurz zuvor, im März, hatten CDU und SPD das Berliner Informationsfreiheitsgesetz eingeschränkt. Der Senat begründet das mit der Sicherheitslage nach den Anschlägen auf die Stromversorgung; FragDenStaat und die Opposition sehen einen Zusammenhang mit den eigenen Recherchen ([rbb](https://www.rbb24.de/politik/beitrag/2026/03/reform-informationsfreiheitsgesetz-berlin-akten-einschraenkungen.html)).
+- **Das Haber-Verfahren**: Seit Jahren kämpft FragDenStaat gegen einen Erlass ohne gesetzliche Grundlage, nach dem Ministerien vor einer Förderung beim Verfassungsschutz anfragen. Gewonnen ist bisher ein Eilbeschluss: Kulturstaatsminister Weimer darf die Betreiberinnen einer Buchhandlung, die er vom Buchhandlungspreis gestrichen hatte, nicht „Extremisten“ nennen (VG Berlin, 30.04.2026). Über das Verfahren selbst entscheiden die Gerichte noch.
 
-Das Muster: Der Staat reagiert auf Transparenz mit **Einschränkung von Transparenz**. Das ist keine Panne — das ist das System.
+Semsrott sieht darin ein Muster: Der Staat reagiere auf Transparenz mit **Einschränkung von Transparenz**. Beim Berliner Gesetz bestreitet der Senat das; die Reihenfolge der Daten lässt beide Lesarten offen.
 
 [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]] dokumentiert die andere Seite: die 551 Fragen der Union zur Zivilgesellschaft, die Extremismusklauseln, die Förderstopps. Die Transparenzwaffe wird von oben gefürchtet — und deshalb bekämpft.
 
 > [!question] Weitergedacht
-> FragDenStaat-Recherchen werden durch IFG-Einschränkungen beantwortet. *Was sagt es über ein System, wenn es auf legale Transparenz mit der Einschränkung von Transparenz reagiert?*
+> Wenn ein Parlament die Informationsfreiheit gerade dann einschränkt, wenn Recherchen unbequem werden, und dafür einen anderen Grund nennt: *Woran ließe sich von außen erkennen, welcher Grund der wirkliche ist?*
 
 ---
 
@@ -77,7 +81,7 @@ Das zweite Prinzip gelebter Demokratie: Nicht fordern, was der Staat tun soll �
 
 **Sanktionsfrei** geht in konkrete Fälle: Ein Darlehen für einen Kühlschrank verweigert, weil „Leistungsempfänger Lebensmittel auf dem Balkon lagern können." Bürgergeld gestrichen, weil eine Geburtsurkunde nicht rechtzeitig vorlag. Sanktionsfrei hilft — nicht als Charity, sondern als **praktische Solidarität**. Menschen als Subjekte mit politischen Ansichten begegnen, nicht als Objekte von Mitleid. Aus dieser Position spricht Helena Steinhaus dann in Medienrunden auf Augenhöhe mit Milliardenlobbyisten.
 
-**Freiheitsfonds** kauft Menschen aus Gefängnissen frei, die dort sitzen, weil Fahren ohne Ticket — seit 1935 eine Straftat — zur Ersatzfreiheitsstrafe führt. ~9.000 Menschen jährlich. Knapp 1.700 wurden freigekauft, ~300 Hafttage vermieden. Gleichzeitig: 14 Kommunen haben beschlossen, keine Strafanzeigen mehr zu stellen. Die Straftat bleibt — aber niemand kommt mehr in den Knast. **Symptom mildern und System angreifen, gleichzeitig.**
+**Freiheitsfonds** kauft Menschen aus Gefängnissen frei, die dort sitzen, weil Fahren ohne Ticket — seit 1935 eine Straftat — zur Ersatzfreiheitsstrafe führt. Nach Angaben des Fonds sind es rund 9.000 Menschen im Jahr. Bis Ende 2026 hat er knapp 2.000 Menschen freigekauft und damit mehr als 300 Jahre Haft aufgelöst ([Freiheitsfonds](https://www.freiheitsfonds.de/)). Gleichzeitig haben 14 Städte beschlossen, keine Strafanzeigen mehr zu stellen. Die Straftat bleibt — aber niemand kommt mehr in den Knast. **Symptom mildern und System angreifen, gleichzeitig.**
 
 [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Butterwegge]] liefert die strukturelle Einordnung: Armut ist kein Versagen von Individuen, sondern politisch produziert. Sanktionsfrei und Freiheitsfonds machen das sichtbar — nicht durch Analyse, sondern durch Tat.
 
@@ -90,9 +94,9 @@ Das zweite Prinzip gelebter Demokratie: Nicht fordern, was der Staat tun soll �
 
 Das dritte Prinzip: Eigene Themen setzen, eigene Konflikte wählen, nicht auf die Agenda der anderen reagieren.
 
-Der **ver.di-Streik am DHL-Frachtflughafen** in Schkeuditz (Leipzig) ist Semsrotts stärkstes Beispiel: Belegschaft mit geringem Organisationsgrad, Milliardenkonzern, Gebiet mit hoher AfD-Stimmanteile und starker Migrationsgeschichte. ver.di fragte zuerst *alle* — nicht nur Mitglieder: Was würdet ihr ändern? Dann streikten die wenigen für die Forderungen aller. Ergebnis: Hunderte neue Mitglieder, zwei Tage Stillstand, 11% mehr Lohn. Das Entscheidende: Es gelang, die Konfliktachse von **innen/außen** (deutsch/nichtdeutsch) auf **unten/oben** zu verschieben.
+Der **ver.di-Streik am DHL-Frachtflughafen** in Schkeuditz (Leipzig) ist Semsrotts stärkstes Beispiel: Belegschaft mit geringem Organisationsgrad, Milliardenkonzern, Gebiet mit hoher AfD-Stimmanteile und starker Migrationsgeschichte. ver.di fragte zuerst *alle* — nicht nur Mitglieder: Was würdet ihr ändern? Dann streikten die wenigen für die Forderungen aller. Ergebnis nach Semsrott: Hunderte neue Mitglieder; belegt sind ein Streik über 35 Stunden im Juni 2025 und eine Einigung über rund 11 % mehr Lohn in zwei Stufen ([ver.di](https://www.verdi.de/nachrichten/tarifrunde-dhl-hub-leipzig-88-prozent-stimmen-einigung)). Das Entscheidende: Es gelang, die Konfliktachse von **innen/außen** (deutsch/nichtdeutsch) auf **unten/oben** zu verschieben.
 
-**Deutsche Wohnen & Co enteignen** als politisches Modell: Eigenes Thema setzen (nicht auf AfD-Themen reagieren), 59,1%-Volksbegehren gewinnen, Cheerleader-Gruppen gründen, nach der Blockade durch SPD/CDU einen eigenen Gesetzesvorschlag entwickeln. Und: Spaß dabei haben.
+**Deutsche Wohnen & Co enteignen** als politisches Modell: Eigenes Thema setzen (nicht auf AfD-Themen reagieren), den Volksentscheid mit 59,1 % gewinnen, Cheerleader-Gruppen gründen, nach der Blockade durch SPD/CDU einen eigenen Gesetzesvorschlag entwickeln. Und: Spaß dabei haben.
 
 [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN|Gesine Schwan]] nennt das **Gestaltungsmacht**: nicht die reaktive Kraft des Protests, sondern die konstruktive Kraft des Schaffens. Kommunale Entwicklungsbeiräte, deliberative Räume, Bürgerentscheide — Demokratie als Praxis, nicht als Verwaltung. Schwan denkt von oben (institutionell), Semsrott von unten (zivilgesellschaftlich). Beides braucht das andere.
 
@@ -102,24 +106,38 @@ Der **ver.di-Streik am DHL-Frachtflughafen** in Schkeuditz (Leipzig) ist Semsrot
 
 Demokratie braucht Orte. Orte, an denen Menschen zusammenkommen können, ohne etwas kaufen zu müssen.
 
-Semsrott nennt **Bibliotheken**: Leihräder, Saatgutbibliotheken, Kunstzugänge, Akkubohrer. Orte der Demokratie — gerade weil die Stadtbibliothek Magdeburg ihn nach einer AfD-Anfrage ausgeladen hat. Der öffentliche Raum wird zur Kampfarena: Wer darf ihn nutzen? Wer wird ausgeladen? Und: Kann der Anspruch, dass öffentliche Räume für alle da sind, praktisch verteidigt werden?
+Semsrott nennt **Bibliotheken**: Leihräder, Saatgutbibliotheken, Kunstzugänge, Akkubohrer. Orte der Demokratie — gerade weil die Stadtbibliothek Magdeburg seine Lesung im Juni 2026 absagte. Semsrott geht davon aus, dass eine AfD-Anfrage dahinterstand; die Oberbürgermeisterin bestreitet eine Weisung und räumt einen Fehler ein ([Tagesspiegel](https://www.tagesspiegel.de/politik/streit-nach-abgesagter-lesung-von-arne-semsrott-magdeburgs-oberburgermeisterin-bestreitet-einflussnahme-durch-die-afd-15624229.html)). Der öffentliche Raum wird zur Kampfarena: Wer darf ihn nutzen? Wer wird ausgeladen? Und: Kann der Anspruch, dass öffentliche Räume für alle da sind, praktisch verteidigt werden?
 
-[[Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yus]] Konzept des **Spatial Awe** ergänzt das: Räume, die Ehrfurcht auslösen — gemeinsame Gärten, Plätze, Begegnungsarchitektur — aktivieren neuronal das Gefühl, zu etwas Größerem zu gehören. In-Group-Grenzen verschieben sich. Keine Diskussion nötig, keine Argumente. Manchmal reicht ein gemeinsamer Raum.
+[[Denker/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu]] ergänzt das aus der Neuropolitik: Es zählt weniger der Inhalt einer Begegnung als der Raum, in dem sie stattfindet, „humanisierende kognitive Räume“. Schon geteilte Aufmerksamkeit mit einer fremden Gruppe kann Grenzen verschieben, und Strukturen, die Ehrfurcht auslösen (Architektur, Natur), können das Selbstbild ins Wanken bringen und zur Neuordnung einladen. Manchmal beginnt es mit einem gemeinsamen Raum.
 
-Und **Netzwerk Pulilux** — ein Netzwerk, das kritische Zivilgesellschaft im Osten finanziert — baut genau das: Infrastruktur, die politische Teilhabe möglich macht, wo sie strukturell schwach ist.
+Und das **Netzwerk [Polylux](https://polylux.network/)**, das Vereine und Initiativen der kritischen Zivilgesellschaft im Osten über Fördermitgliedschaften unterstützt, baut genau das: Infrastruktur, die politische Teilhabe möglich macht, wo sie strukturell schwach ist.
 
 ---
 
 ## Die 16% — Wer ist die demokratische Infrastruktur?
 
-[[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent und Goepel]] liefern die nüchterne Vermessung: **~30%** der Bevölkerung sind umfassend ohnmächtig. Weitere **~30%** resigniert. **~20%** reagieren situativ. Nur **~16%** gehören zu den „Kämpfenden" — die sich organisieren, diskutieren, handeln.
+[[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent und Goepel]] liefern die nüchterne Vermessung: In Quents eigener Clusteranalyse sind **~30%** der Befragten umfassend ohnmächtig, weitere **~30%** resigniert. Dazwischen stehen die „Flexiblen“, mal engagiert, mal passiv. Nur **~16%** gehören zu den „Kämpfenden“, die sich einsetzen, diskutieren, handeln.
 
-Diese 16% *sind* die demokratische Infrastruktur. Nicht der Staat, nicht die Parteien — Graswurzelbürger:innen. Und Quents entscheidender Befund: **Hoffnung kommt vom Machen.** Diejenigen, die am besten durch Krisen kommen, sind nicht die Privilegiertesten — sondern die Handelnden. Nicht jeder muss in der ersten Reihe stehen. Einen Kuchen bei Omas gegen Rechts backen kann ein Akt der Selbstbemächtigung sein.
+Aus diesen Kämpfenden kommt ein großer Teil der demokratischen Infrastruktur, nicht aus dem Staat oder den Parteien. Und Quents entscheidender Befund: **Hoffnung kommt vom Machen.** Zwei Dinge sagt er gleich dazu: Die Kämpfenden sind auch häufig besser privilegiert, mit mehr Einkommen und Bildung, und ein kleiner Teil von ihnen ist faschistisch. Engagement allein ist also noch kein demokratisches Zeichen. Nicht jeder muss in der ersten Reihe stehen. Einen Kuchen bei Omas gegen Rechts backen kann ein Akt der Selbstbemächtigung sein.
 
-Beim Sommer der Migration 2015 engagierten sich mehr als **4 Millionen Menschen** in Deutschland aktiv — Essen gebracht, Wohnungen organisiert, gehandelt. Diese Menschen sind nicht verschwunden. Die letzten 10 Jahre brachten die größten zivilgesellschaftlichen Bewegungen der Bundesrepublik: größte Bürgerrechtsbewegung, größte antirassistische Proteste, größte Klimaschutz-Bewegung, größte Protestwelle überhaupt (2024 — über 3,6 Millionen Teilnehmende bis März).
+Im Sommer der Migration 2015 engagierten sich nach Semsrott mehr als **4 Millionen Menschen** in Deutschland — Essen gebracht, Wohnungen organisiert, gehandelt. Eine Primärquelle für diese Zahl gibt es nicht; die Studien von damals belegen ein außergewöhnliches Engagement in Prozent der Bevölkerung. Diese Menschen sind nicht verschwunden. Für Semsrott brachten die letzten zehn Jahre die größten zivilgesellschaftlichen Bewegungen der Bundesrepublik: größte Bürgerrechtsbewegung, größte antirassistische Proteste, größte Klimaschutz-Bewegung, größte Protestwelle überhaupt (2024 — über 3,6 Millionen Teilnehmende bis März).
 
 > *„Wir sind alle da und wir sind viele. Wir sind die Gegenmacht, wenn wir uns auf unsere Kraft besinnen."*
 > — Arne Semsrott, re:publica 26
+
+---
+
+## Was seither geschah
+
+*Stand: 25.11.2026*
+
+- **Deutsche Wohnen & Co enteignen:** Die Initiative legte am 26.09.2025 einen eigenen Gesetzentwurf vor, für bis zu 220.000 Wohnungen, und will darüber in einem neuen Volksentscheid abstimmen lassen, nicht vor 2027. Am 12.03.2026 beschloss das Abgeordnetenhaus mit CDU und SPD ein Vergesellschaftungs-Rahmengesetz, das erst nach zwei Jahren in Kraft tritt und vorher vom Verfassungsgericht geprüft werden soll ([rbb24](https://www.rbb24.de/politik/beitrag/2026/03/berlin-agh-gesetz-vergesellschaftungen-immobilienkonzerne.html)). Nach der Berliner Wahl vom 20.09.2026 einigten sich Linke, Grüne und SPD in Sondierungen auf eine Vergesellschaftung ab 10.000 Wohnungen und eine gedeckelte Entschädigung; der Initiative geht das nicht weit genug ([rbb24](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-vergesellschaftung-wohnungskonzerne-sondierungen.html)).
+- **Freiheitsfonds:** knapp 2.000 Menschen freigekauft, über 320 Jahre Haft aufgelöst, rund 1,7 Mio. € gezahlt seit Dezember 2021 ([Freiheitsfonds](https://www.freiheitsfonds.de/)).
+- **Haber-Verfahren:** Der Eilbeschluss gegen Weimer ist rechtskräftig, seit er im Mai 2026 auf Rechtsmittel verzichtet hat; die Hauptverfahren in Berlin und Köln laufen ([FragDenStaat](https://fragdenstaat.de/artikel/exklusiv/2026/05/haber-verfahren/)).
+- **Gewerbesteueroasen:** Nach Monheim folgte im September 2026 eine Durchsuchung in Langenwolschendorf in Thüringen ([FragDenStaat](https://fragdenstaat.de/artikel/exklusiv/2026/10/razzien-und-gesetzesanderungen-gegen-steueroasen/)).
+
+> [!note] Korrigiert am 25.11.2026
+> Bei einer Fehlerprüfung haben wir richtiggestellt: Die Berliner Kultursenatorin ist parteilos, nicht CDU-Mitglied; die Einschränkung des Berliner Informationsfreiheitsgesetzes wurde vor der Veröffentlichung der Chats beschlossen, der Senat nennt einen anderen Grund. Beim Haber-Verfahren ist bisher nur ein Eilbeschluss gewonnen, nicht das Verfahren. Der Freiheitsfonds hat knapp 300 Haft*jahre* aufgelöst, nicht Hafttage. Quents „Kämpfende“ sind nach ihm eher privilegiert, und einige von ihnen sind faschistisch; hier stand das Gegenteil. Dazu kamen Liya Yus Gedanke zu Räumen, Priens Wortlaut, die Lützen-Recherche (kein IFG, sondern Register), die Magdeburger Absage und der Name Polylux.
 
 ---
 
@@ -139,7 +157,7 @@ Das Schwester-Panorama zur Bauweise: Wo dieses die Praxis von unten versammelt, 
 
 ### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
 
-Der Berliner Volksentscheid von 2021 taucht dort als Pointe auf: Der Investor auf der Bühne nennt Vergesellschaftung eine „radikale Enteignungsfantasie“, mit der man allein dastehe — 59,1 Prozent der Berliner hatten anders gestimmt. Fünf Jahre später ist das Gesetz noch immer nicht zur Abstimmung gestellt. Ein Lehrstück für den Abstand zwischen Mehrheit und Umsetzung, den dieses Panorama beschreibt.
+Der Berliner Volksentscheid von 2021 taucht dort als Pointe auf: Der Investor auf der Bühne nennt Vergesellschaftung eine „radikale Enteignungsfantasie“, mit der man allein dastehe — 59,1 Prozent der Berliner hatten anders gestimmt. Fünf Jahre später ist noch keine Wohnung vergesellschaftet (→ [[#Was seither geschah|Was seither geschah]]). Ein Lehrstück für den Abstand zwischen Mehrheit und Umsetzung, den dieses Panorama beschreibt.
 
 ### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
 
@@ -153,8 +171,8 @@ Derselbe Typus wie die hier versammelten Initiativen, aber mit dem anderen Ausga
 > - Die meisten Institutionen hier lösen keine systemischen Probleme — sie mildern deren Folgen. *Ist das politisch wirksam genug, oder macht es das System erträglicher, ohne es zu verändern?* Und: Wann genau kippt das?
 > - Semsrott sagt, Engagement braucht Spaß und Freude. *Ist das eine echte politische Strategie — oder eine Schutzbehauptung gegen Burnout?* Wie verhält sich das zur Ernsthaftigkeit der Bedrohung?
 > - Die Konfliktachse von „innen/außen" auf „unten/oben" zu verschieben gelingt im DHL-Streik — aber nicht in der Bundestagspolitik. *Was macht Gewerkschaften in diesem Moment demokratischer als Parteien?*
-> - Wenn 16% die demokratische Infrastruktur sind — *welche Pflicht haben die anderen 84%, diese 16% nicht allein zu lassen?*
-> - 8 Jahre Geduld beim Haberverfahren, am Ende ein Sieg. *Wie unterscheidet man strategische Geduld von politischer Erschöpfung?*
+> - Die 16 % Kämpfenden sind eher privilegiert, und einige von ihnen kämpfen gegen die Demokratie. *Wer trägt sie dann, und was bräuchten die Ohnmächtigen und Resignierten, um mitzutun?*
+> - Jahre der Geduld beim Haber-Verfahren, bisher ein erster Sieg im Eilverfahren. *Wie unterscheidet man strategische Geduld von politischer Erschöpfung?*
 
 ---
 
@@ -169,7 +187,7 @@ Derselbe Typus wie die hier versammelten Initiativen, aber mit dem anderen Ausga
 | [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten\|Moini & Chiofalo — GFF AfD-Verbotsgutachten]] | Rechtsstaat als demokratisches Instrument; GFF als Gegenrechtsschutz |
 | [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie\|Zhao, Forst & Williams — Bedeutungen der Demokratie]] | Majoritäre vs. deliberative Demokratie; philosophischer Rahmen |
 | [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN\|Butterwegge — Armut NEU DENKEN]] | Strukturelle Einordnung: Armut als politisch produziertes Problem |
-| [[Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag\|Liya Yu — Neuropolitischer Gesellschaftsvertrag]] | Spatial Awe: demokratische Räume als neuropolitisches Instrument |
+| [[Denker/Liya Yu — Der neuropolitische Gesellschaftsvertrag\|Liya Yu — Neuropolitischer Gesellschaftsvertrag]] | Humanisierende Räume, Ehrfurcht: demokratische Räume neuropolitisch gelesen |
 | [[Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen\|Architekten des Lebendigen]] | Theoretisches Fundament: Systeme, die dem Leben dienen |
 | [[Panorama/Demokratische Wertschoepfung\|Demokratische Wertschöpfung]] | Wirtschaftliche Dimension: Genossenschaften, Bürgerenergie |
 | [[Panorama/NoAfD\|NoAfD]] | Die Defensive: Was gelebte Demokratie verteidigt |

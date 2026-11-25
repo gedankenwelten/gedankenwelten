@@ -52,6 +52,10 @@ Das Transkript gezielt durchsuchen — nicht nochmal alles lesen, sondern:
 2. **Fehlende Themen:** Was wurde im ersten Durchgang übersprungen, das doch substanziell ist?
 3. **Bessere Zitate:** Manchmal gibt es eine prägnantere Formulierung weiter hinten im Gespräch
 
+**Bei Panoramen** ist die Quelle nicht ein Transkript, sondern die verlinkten Notes. Jede Aussage, die du aus
+einer Note übernimmst, an der Note nachlesen, samt ihrem Faktencheck an der Stelle: Was sie einschränkt, geht
+mit der Einschränkung hinein (→ `rules/gedankenwelten.md`, „Den Faktencheck der Quell-Note mitlesen“).
+
 ### Schritt 3 — Vertiefen (nicht aufblähen!)
 
 > [!warning] Heraklit bläht nicht auf — er vertieft.

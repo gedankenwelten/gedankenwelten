@@ -154,6 +154,22 @@ erstellt: YYYY-MM-DD
 
 Am Ende `## Nachbesprechungen, die hierher führen` (Tabelle: Datum · Note · vertieft) — das ist der Wachstumsmechanismus. Gespeist wird es aus den **Nachbesprechungen** neuer Notes (→ `gedankenwelt`-Skill, Schritt 5d); anders als der Snapshot wird es also bei jeder passenden Note fortgeschrieben, und `aktualisiert:` wird dann gebumpt. **Streng auf die eine Frage zuschneiden** — was nur verwandt ist, wird verlinkt, nicht aufgenommen, sonst wächst es in die Breite statt in die Tiefe.
 
+> [!important] Den Faktencheck der Quell-Note mitlesen (seit 25.11.2026, Andreas' Ja)
+> Wer eine Aussage aus einer Note in ein Panorama übernimmt (beim Anlegen, beim Fortschreiben, in der
+> Nachbesprechung, bei heraklit), liest vorher den `## Faktencheck` und die Marker dieser Note an der
+> Stelle nach. Was die Note einschränkt („vereinfacht“, „nicht eindeutig belegt“, „gibt der Bericht so
+> nicht her“), geht mit der Einschränkung ins Panorama oder gar nicht. Steht dort eine Zahl, kommt sie aus
+> der Note, nicht aus dem Gedächtnis; wer sie nennt, Sprecher oder Interviewer, steht im Satz. Und was
+> nicht in der Note steht (ein Beispiel, eine Zuspitzung), ist als unsere Einordnung kenntlich.
+>
+> **Warum:** Im Panorama steht eine Aussage ohne den Zusammenhang, in dem sie in der Note geprüft wurde.
+> Wer dort liest, sieht den Faktencheck nicht mehr; die Einschränkung geht beim Übertragen verloren, und
+> aus „Linartas sagt, die OECD …“ wird „die OECD sagt“. Bei den Aristarch-Läufen am 25.11.2026 über
+> *Energie* und *Autoritärer Internationalismus* war das die häufigste Fehlerquelle: Fichtners „60 %
+> Grünstrom“ wurde „60 % aus Skandinavien“, „Verlust“ wurde „Effizienz“, und dreimal trug das Panorama als
+> Tatsache, was die Quell-Note im eigenen Faktencheck schon eingeschränkt hatte (alternativlos und AfD,
+> OECD-Mobilität, das Internatssyndrom als Erklärung für Trump, Musk und Thiel).
+
 ## DenkerVita
 
 DenkerVitas sind vollwertige, öffentliche Profile — sichtbar auf gedankenwelten.org und im Cortex-Graph.

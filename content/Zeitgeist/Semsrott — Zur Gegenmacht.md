@@ -120,7 +120,7 @@ Semsrott stellt drei konkrete FragDenStaat-Kampagnen als Modelle vor:
 
 *„Das Geld ist nicht weg, es ist nur anders verteilt — und da kann man 5 Jahre 'Demokratie leben' mit finanzieren."* [▶ 18:39](https://www.youtube.com/watch?v=7waHkzEHcuw&t=1119)
 
-**Berliner Antisemitismus-Fördergeldaffäre** — FragDenStaat veröffentlichte interne Chats zwischen der CDU-Kultursenatorin und einem CDU-Abgeordneten, die zeigten, wie gezielt Fördermittel aus dem Antisemitismus-Bekämpfungsprogramm an CDU-nahe Projekte umgeleitet wurden — teilweise an eine Person, die in der Vergangenheit selbst mit Antisemitismus aufgefallen war. Die direkte Reaktion: SPD und CDU schränkten das Berliner Informationsfreiheitsgesetz ein, damit solche Dokumente künftig nicht mehr auf offiziellem Weg öffentlich werden könnten.
+**Berliner Antisemitismus-Fördergeldaffäre** — FragDenStaat veröffentlichte interne Chats zwischen der Kultursenatorin (Sarah Wedl-Wilson, parteilos, von der CDU nominiert) und CDU-Abgeordneten, die zeigten, wie gezielt Fördermittel aus dem Antisemitismus-Bekämpfungsprogramm an CDU-nahe Projekte umgeleitet wurden — teilweise an eine Person, die in der Vergangenheit selbst mit Antisemitismus aufgefallen war. Die direkte Reaktion: SPD und CDU schränkten das Berliner Informationsfreiheitsgesetz ein, damit solche Dokumente künftig nicht mehr auf offiziellem Weg öffentlich werden könnten *(der Senat nennt die Sicherheitslage als Grund, beschlossen wurde die Änderung vor der Veröffentlichung der Chats → [[#Faktencheck|Faktencheck]])*.
 
 **Das Haberverfahren** — Seit 8 Jahren kämpft FragDenStaat gegen einen geheimen Erlass, nach dem zivilgesellschaftliche Organisationen vor staatlicher Förderung erst vom Verfassungsschutz gecheckt werden sollen. Lange interessierte das niemanden. Erst als Wolfram Weimer in diesem Jahr linke Buchläden nach diesem Verfahren vom Buchhandlungspreis strich, konnten Betroffene mit Rückenwind des Gegenrechtsschutzes Klage einreichen — und gewannen: Weimer darf die Buchläden nicht mehr „Extremisten" nennen. Das grundsätzliche Verfahren wird jetzt vor Gericht gebracht.
 
@@ -136,7 +136,7 @@ Zwei zivilgesellschaftliche Projekte dienen Semsrott als Modell für eine neue F
 
 **Sanktionsfrei** — die Organisation geht in Fälle, in denen das Jobcenter Menschen das Leben schwer macht, und hilft zuerst materiell: Wenn ein Darlehen für einen Kühlschrank verweigert wird, weil „Leistungsempfänger Lebensmittel auch auf dem Balkon lagern können." Wenn einer Mutter das Bürgergeld gestrichen wird, weil die Geburtsurkunde des Neugeborenen nicht rechtzeitig vorliegt. Der Grundsatz: Menschen als Subjekte mit politischen Ansichten begegnen, nicht als Objekte von Charity. Aus dieser Position der praktischen Solidarität heraus spricht Helena Steinhaus dann in Medienrunden auf Augenhöhe mit Milliardenlobbyisten — und die Junge Union erscheint irgendwann gar nicht mehr, weil sie in diesen Austausch nicht gehen will.
 
-**Freiheitsfonds** — FragDenStaat kauft Menschen aus Gefängnissen frei, die dort sitzen, weil Fahren ohne Ticket seit 1935 eine Straftat ist. Knapp 1.700 Menschen wurden bisher freigekauft, 1,5 Millionen Euro investiert, ~300 Hafttage vermieden. Parallel: 14 Kommunen haben auf Basis eines Musterantrags beschlossen, keine Strafanzeigen nach dem § mehr zu stellen — die Straftat bleibt, aber niemand kommt mehr in den Knast.
+**Freiheitsfonds** — FragDenStaat kauft Menschen aus Gefängnissen frei, die dort sitzen, weil Fahren ohne Ticket seit 1935 eine Straftat ist. Knapp 1.700 Menschen wurden bisher freigekauft, 1,5 Millionen Euro investiert, knapp 300 Haftjahre aufgelöst. Parallel: 14 Kommunen haben auf Basis eines Musterantrags beschlossen, keine Strafanzeigen nach dem § mehr zu stellen — die Straftat bleibt, aber niemand kommt mehr in den Knast.
 
 > *„Wir bauen uns Stück für Stück diese Welt, die wir haben wollen."* [▶ 25:32](https://www.youtube.com/watch?v=7waHkzEHcuw&t=1532)
 
@@ -202,6 +202,9 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 > [!success] Bestätigt — Größte Protestwelle der BRD-Geschichte 2024
 > Das Berliner Institut für Protest- und Bewegungsforschung stufte die Demonstrationen ab Januar 2024 (nach der Correctiv-Recherche zum Potsdamer Treffen) als "größte Protestwelle in der Geschichte der Bundesrepublik" ein — über 3,6 Millionen Teilnehmende bis März 2024. Quelle: [Demonstrationen gegen rechts — taz.de](https://taz.de/Demonstrationen-gegen-rechts/!6010897/)
 
+> [!warning] Vereinfacht — Berliner IFG „direkte Reaktion“ auf die Chats
+> Das Abgeordnetenhaus beschloss die Änderung am 26.03.2026 mit CDU und SPD (neue Ausnahmen u. a. für kritische Infrastruktur und Verschlusssachen); der Senat hatte den Entwurf schon Mitte Februar beschlossen und begründet ihn mit der Sicherheitslage nach den Anschlägen auf die Stromversorgung. Die Chats erschienen am 09.04.2026. Den Zusammenhang stellen FragDenStaat und die Opposition her, die Senatsinnenverwaltung bestreitet ihn. Quelle: [rbb24, März 2026](https://www.rbb24.de/politik/beitrag/2026/03/reform-informationsfreiheitsgesetz-berlin-akten-einschraenkungen.html) · [FragDenStaat, 09.04.2026](https://fragdenstaat.de/artikel/exklusiv/2026/04/cdu-fordermittel-chats/)
+
 > [!warning] Vereinfacht — DHL-Streik Leipzig: "11% mehr Lohn"
 > Die ver.di-Einigung sieht 5,6% rückwirkend ab Juli 2025 und weitere 5,4% ab Juli 2026 vor — 11% gesamt, aber gestaffelt über 26 Monate. Semsrotts Zahl stimmt als Gesamtbilanz. Quelle: [Tarifrunde DHL Hub Leipzig — ver.di](https://www.verdi.de/themen/nachrichten/++co++f673cefe-6318-11f0-b978-0bb0dcd921cf)
 
@@ -226,7 +229,7 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 - [Sanktionsfrei](https://www.sanktionsfrei.de) — Praktische Solidarität gegen Jobcenter-Willkür
 - [Bürgerbewegung Finanzwende](https://www.finanzwende.de) — Kampf gegen Steuerbetrug (z.B. CumEx)
 - [Deutsche Wohnen & Co enteignen](https://dwenteignen.de) — Berliner Volksbegehren und Gesetzesinitiative
-- [Netzwerk Pulilux](https://pulilux.de) — Finanzierung kritischer Zivilgesellschaft im Osten
+- [Netzwerk Polylux](https://polylux.network/) — Unterstützung kritischer Zivilgesellschaft im Osten
 - Semsrotts neues Buch zur Gegenmacht erscheint am **1. Juni 2026** (Titel noch nicht öffentlich zum Vortragszeitpunkt)
 
 *Recherchierte Quellen (Sherlock):*

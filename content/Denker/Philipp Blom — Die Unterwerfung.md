@@ -389,7 +389,7 @@ Bloms Frist trägt also für die gelebte Erinnerung. Was danach kommt, entscheid
 - *Das Gilgamesch-Epos* — die älteste überlieferte Erzählung der Menschheit, Blom liest es als erste Entzauberung eines Waldes
 - Baruch de Spinoza: *Ethik* — *Deus sive natura*, Bloms Gegenentwurf zur Herrschaftsformel
 - Hartmut Rosa: *Resonanz. Eine Soziologie der Weltbeziehung* (2016) — Rosa war selbst bei Jung & Naiv
-- Thomas Piketty: *Das Kapital im 21. Jahrhundert* (2014) — Kapitaleinkommen wächst schneller als Arbeitseinkommen
+- Thomas Piketty: *Das Kapital im 21. Jahrhundert* (2014) — die Rendite auf Kapital liegt über dem Wachstum der Wirtschaft (r > g), Vermögen wachsen schneller als die Einkommen insgesamt
 - Meadows u. a.: *Die Grenzen des Wachstums* (Club of Rome, 1972)
 - Silja Graupe — Philosophin und Ökonomin, von Jung als früherer Gast zur Wachstumsfixierung nach 1945 genannt
 

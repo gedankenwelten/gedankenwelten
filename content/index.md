@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
 
-> → *18 weitere in* [[Panorama]]
+> → *19 weitere in* [[Panorama]]
 
 ### GoodNews
 
