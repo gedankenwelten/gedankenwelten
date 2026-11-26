@@ -364,6 +364,9 @@ Die Schwesterfolge, gegen die Reckwitz argumentiert. Dort wird der Maßstab reka
 
 Die Materialepochen eines Chemie-Nobelpreisträgers, von der Bronze bis zum einzelnen Atom, führen Reckwitz' Laborglauben an den stetigen Fortschritt ungebrochen vor — ohne ein Wort für das, was dabei verloren geht.
 
+### → [[Denker/Hanno Sauer — Klasse#Boden statt Deckel|Hanno Sauer — Klasse]]
+
+Dieselbe Verkettung bei der Gleichheit: Wer in jedem Wahlkampf eine gerechte Gesellschaft verspricht und sie nie liefert, nährt nach Sauer den Verdacht, finstere Strippenzieher verhinderten sie. Seine Antwort sind „Schlüssellochlösungen“ und ein Boden aus Bildung, Gesundheit und öffentlichen Gütern.
 
 ---
 

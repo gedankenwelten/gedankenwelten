@@ -339,3 +339,7 @@ Und Liselottes Schwestern: Sie blieben ihr Leben lang unverheiratet. Nicht weil 
 ### → [[Isabel Wilkerson — Race Caste and Social Justice]]
 
 Wilkersons Trennlinie „If you can act your way out of it, it's class — if you cannot, it's caste" macht Horowskis Adel als europäische Kaste lesbar: Rang durch Abstammung, aus dem man sich nicht herausspielen konnte. Das vormoderne Europa als drittes Vergleichsfeld neben Jim Crow und Jati.
+
+### → [[Denker/Hanno Sauer — Klasse#Signale, die nicht nach Signalen aussehen dürfen|Hanno Sauer — Klasse]]
+
+Sprezzatura in der Sprache der Signaltheorie: Bei Sauer wirkt ein Statussignal nur, wenn es nicht als Absicht erscheint, und wer oben steht, sendet Kontersignale, Understatement statt Logo. Die Mühelosigkeit, die Horowski am Hof und in Eton findet, folgt derselben Regel, drei Jahrhunderte früher.

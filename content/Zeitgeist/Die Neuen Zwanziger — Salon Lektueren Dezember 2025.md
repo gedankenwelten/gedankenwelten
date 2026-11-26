@@ -359,6 +359,10 @@ Markovits und Darity sagen dasselbe über Bildung, von entgegengesetzten Enden. 
 
 Die meritokratische Falle beginnt bei der Ziffer im Zeugnis: Nölte findet es fatal, dass es gute Noten nur gibt, weil es schlechte gibt, und Meidinger verteidigt die Abiturnote als besten Prädiktor des Studienerfolgs. Die Nachbesprechung liefert Markovits' erschöpfte Gewinner im Kleinen, denn abgestufte Noten verdoppeln im Medizinstudium das Burnout-Risiko.
 
+### → [[Denker/Hanno Sauer — Klasse#Im Zeltlager sind wir alle Sozialisten|Hanno Sauer — Klasse]]
+
+Die Gegenstimme zu Wolfgangs „anderer Wirtschaftsordnung“: Der Philosoph Hanno Sauer verlangt, die Wirklichkeit der Märkte mit der Wirklichkeit ihrer Alternativen zu vergleichen, und hält eine große Wirtschaft ohne Preise für kaum zu haben. Die Statusangst der Elite beschreibt er ähnlich wie Markovits, als Spiel, das auch oben nie aufhört.
+
 ---
 
 ## Weiterdenken

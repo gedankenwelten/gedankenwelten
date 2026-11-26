@@ -476,6 +476,9 @@ Wie diese Logik in Gesetz und Alltag aussehen kann, erzählt die Navidi-Note: me
 
 Kellermann beschreibt aus eigener Erfahrung ein Stück dessen, was Redecker Fantasma nennt: Trans Menschen werfe man heute vor, was man früher Homosexuellen vorwarf, bis hin zur Pädophilie.
 
+### → [[Michael Hampe — Konkurrenz oder Kooperation]]
+
+Hampe beschreibt dieselbe Tech-Elite, die sich über Intelligenz einen Rang zuschreibt, bei Jung & Naiv als „Intelligenzfaschismus“ mit Männerbund-Zügen, führt ihn aber auf den Sozialdarwinismus und die Macht als Selbstzweck zurück statt auf den Phantombesitz.
 
 ---
 

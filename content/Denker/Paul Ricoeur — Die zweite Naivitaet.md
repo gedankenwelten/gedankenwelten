@@ -256,6 +256,9 @@ Häftlinge baten 1940 darum, das Lager zu bombardieren, auch wenn sie dabei stü
 
 Ricœurs Beispiel für den Konflikt gleichgewichtiger Pflichten, das Kopftuch in der Schule, ist 2026 in drei Schweizer Kantonen wieder Gesetzesfrage. Die Politologin Elham Manea fragt, wie man der Frau gerecht wird, die das Tuch tragen will, und der, die es nicht will, und antwortet wie Ricœur nicht mit einer Regel, sondern mit vielen am Tisch: Schule, Gemeinschaften, Politik, junge Menschen.
 
+### → [[Denker/Hanno Sauer — Klasse#Kein Ausweg, nicht einmal durch Ehrlichkeit|Hanno Sauer — Klasse]]
+
+Der Philosoph Hanno Sauer ordnet seine Klassentheorie selbst bei der Hermeneutik des Verdachts ein und kennt ihren Preis: Sie kann zynisch machen. Sein Ausweg ist das ironische Mitspielen, „wir sind alle mal Sünder“, nicht weit von einer zweiten Naivität, die nach dem Verdacht wieder zuhört.
 
 ---
 

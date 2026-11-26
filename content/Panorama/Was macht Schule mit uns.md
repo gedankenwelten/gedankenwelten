@@ -353,6 +353,10 @@ Ein Jugendrichter fragt Jahre später nach, ob seine Härte Zumutung oder Demüt
 
 Was die Altersgrenze 14 im Ernstfall bedeutet, zeigt Maren: Ihr Bruder durfte mit vierzehn bei den Großeltern bleiben, sie musste mit zwölf mit in ein völkisches Umfeld in Sachsen, und in der Schule fand sie die Erwachsenen, die zu Hause fehlten.
 
+### → [[Michael Hampe — Konkurrenz oder Kooperation#Die Hochschule als Antistruktur|Michael Hampe — Konkurrenz oder Kooperation]]
+
+Mit Dewey sieht Hampe Schule und Hochschule als Antistruktur, über die eine Gesellschaft sich erneuert, und hält das Konkurrenzdenken in ihnen für „fatal“, weil es diese Erneuerung blockiert.
+
 ---
 
 ## Weiterdenken

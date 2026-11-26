@@ -547,6 +547,10 @@ Wenn gerade die Arbeiter an Leistungsgerechtigkeit glauben, wird das Scheitern z
 
 Der Satz, den Mau von Habermas übernimmt, die Ostdeutschen hätten keine eigenen Fehler machen dürfen, steht genau zwischen Oschmann und Kowalczuk. Für den einen ist das die Kränkung, für den anderen der Ursprung einer Erzählung, die jede Verantwortung nach außen schiebt.
 
+### → [[Denker/Hanno Sauer — Klasse#Aretokratie mit Moral bezahlen|Hanno Sauer — Klasse]]
+
+Eine Antwort auf Maus Frage, warum die Verteilung niemanden mobilisiert, aus der Statuspsychologie: Wer im Kampf gegen Rassismus und Sexismus moralische Feinfühligkeit zeigt, gewinnt an Rang und greift darum die Rangordnung selbst selten an. Sauer meint damit ausdrücklich auch sein eigenes akademisches Milieu.
+
 ---
 
 ## Weiterdenken

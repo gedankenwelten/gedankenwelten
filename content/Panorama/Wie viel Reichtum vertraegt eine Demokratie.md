@@ -2,7 +2,7 @@
 title: "Wie viel Reichtum verträgt eine Demokratie?"
 date: 2026-10-23
 erstellt: 2026-10-23
-aktualisiert: 2026-11-25
+aktualisiert: 2026-11-26
 description: "Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, wem gehören die Emissionen, und ist Neid ein Argument? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 raetsel: "Ein Münzstapel wächst auch, während sein Besitzer schläft."
 panorama-art: wachsend
@@ -122,6 +122,8 @@ Die Philosophin Ingrid Robeyns nennt die Idee *Limitarismus*. Niemand solle mehr
 
 Die Geschichte gibt eine unbequeme Auskunft. Der Anteil des reichsten Prozents am deutschen Vermögen fiel von fast der Hälfte 1895 auf heute 26 Prozent, und fast der ganze Rückgang fiel in die Jahre 1914 bis 1952, die Zeit der Weltkriege, der Hyperinflation und der Währungsreformen ([Albers, Bartels & Schularick 2026](https://doi.org/10.1093/jeea/jvag004)). Ob sich Konzentration auch ohne Katastrophe begrenzen lässt, zeigen die Schweizer Kantone im Kleinen: Wo der Spitzensatz der Vermögensteuer sank, stieg die Konzentration ([Marti, Martínez & Scheuer 2023](https://doi.org/10.1093/oxrep/grad025)). Wie großes Vermögen auf Parlamente, Wahlen und Medien wirkt, steht in [[Wie kann Demokratie funktionieren#Wiegt jede Stimme gleich?|Wiegt jede Stimme gleich?]].
 
+Dass spürbare Steuern auf große Erbschaften in zwei Jahrhunderten vor allem mit der Massenmobilisierung für Kriege kamen und kaum mit dem Wahlrecht, bestätigt der Ländervergleich ([Scheve & Stasavage 2012](https://doi.org/10.1017/s0003055411000517), Differenz-in-Differenzen). Ohne Wirkung ist die Steuer oben trotzdem nicht: Wo der Spitzensteuersatz sank, wuchs der Anteil des obersten Prozents vor Steuern, ohne dass die Wirtschaft schneller wuchs ([Piketty, Saez & Stantcheva 2014](https://doi.org/10.1257/pol.6.1.230), korrelativ). Und wer seine eigene Lage nicht kennt, wählt im Experiment meist einen Boden statt eines Deckels, das höchste Durchschnittseinkommen mit einer Untergrenze ([Frohlich, Oppenheimer & Eavey 1987](https://doi.org/10.2307/2111285), Experiment). Was ein solcher Boden bewirkt, sammelt die [[Hanno Sauer — Klasse#Trägt ein Boden ohne Deckel?|Nachbesprechung zu Hanno Sauer]].
+
 **Die Stimmen**
 
 - **[[Philipp Blom — Die strauchelnde Welt#Die Demokratie umbauen, bevor andere es tun|Philipp Blom]]:** Überreichtum zersetzt die Demokratie wie die sozialen Medien; *„100 Millionen sind wahrscheinlich genug pro Nase“*.
@@ -133,6 +135,8 @@ Die Geschichte gibt eine unbequeme Auskunft. Der Anteil des reichsten Prozents a
 - **[[phoenixRunde — Arm und Reich in Deutschland#Arm gegen Arm Der Verteilungskonflikt als politisches Instrument|David Deißner]]:** „Reich gegen Arm“ sei so populistisch wie „Arm gegen Arm“.
 - **[[Studio Bonn — Extremer Reichtum#Der Einwand der Abwesenden|Julia Friedrichs]]**, im selben Gespräch: Die Reichen gibt es nicht; und die Vermögenden, mit denen sie sprach, würden vehement bestreiten, dass ihr Reichtum anderen etwas wegnimmt, er schaffe Investitionen und neue Unternehmen.
 
+- **[[Hanno Sauer — Klasse#Boden statt Deckel|Hanno Sauer]]:** Er will „von unten deckeln“ statt von oben, mit Bildung, Gesundheit, Verkehr und öffentlichen Gütern als Boden; Obergrenzen und Erbschaftsteuern, die große Vermögen über die Generationen brechen, hält er für bedenkenswert, aber wenig aussichtsreich.
+
 <details><summary>Weitere Stimmen (2)</summary>
 
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Erben, Picasso und die reichsten Familien|Veronika Grimm]]:** Man müsse *„verhindern, dass zu starke Machtpositionen entstehen“*; mit den Personen dahinter wolle sie sich nicht befassen.
@@ -141,7 +145,7 @@ Die Geschichte gibt eine unbequeme Auskunft. Der Anteil des reichsten Prozents a
 </details>
 
 > [!note] Was im Bestand fehlt
-> Keine Stimme verteidigt sehr große Vermögen aus eigener Überzeugung, etwa als Quelle von Investition oder Stiftungen. Deißner und Grimm widersprechen der Debatte, nicht dem Reichtum; die Sicht der Reichen kommt nur vermittelt vor, durch Friedrichs.
+> Keine Stimme verteidigt sehr große Vermögen aus eigener Überzeugung, etwa als Quelle von Investition oder Stiftungen. Deißner und Grimm widersprechen der Debatte, nicht dem Reichtum; die Sicht der Reichen kommt nur vermittelt vor, durch Friedrichs. Am nächsten kommt ihr [[Hanno Sauer — Klasse#Guter und schlechter Reichtum|Hanno Sauer]], der Amazon verteidigt und eine Obergrenze für wenig aussichtsreich hält, ohne große Vermögen zu feiern.
 
 > [!question] Die Reibung
 > Blom zieht die Grenze bei 100 Millionen, Robeyns bei zehn, die Niederländer bei einer bis drei Millionen, und lehnen dann eine erzwungene Grenze mehrheitlich ab. Die deutsche Geschichte sagt, dass die Konzentration vor allem in Kriegen und Krisen fiel. *Lässt sich eine Grenze, die viele für richtig halten, aber kaum jemand erzwingen will, anders ziehen als über die Steuer, und ist sie dann noch eine Grenze?*
@@ -155,6 +159,8 @@ Umverteilung korrigiert hinterher, was der Markt verteilt hat. Vorverteilung, *p
 Andere Eigentumsformen gibt es längst. In Dänemark kontrollieren Industriestiftungen ein Viertel der hundert größten Unternehmen; sie wirtschaften langfristiger, verschulden sich weniger, überleben länger und halten ihre Beschäftigten besser ([Hansmann & Thomsen 2021](https://doi.org/10.1093/jla/laaa005); [Thomsen et al. 2018](https://doi.org/10.1111/corg.12236); [Børsting & Thomsen 2017](https://doi.org/10.1093/oxrep/grx023)). Deutsche Stiftungsunternehmen sind größer und vorsichtiger finanziert als Familienfirmen, finanziell etwas schwächer ([Draheim & Franke 2018](https://doi.org/10.1007/s41464-018-0054-2)). Dieselbe Stiftung kann aber auch eine Dynastie steuergünstig über die Generationen bringen. Für Firmen, die sich selbst gehören wollen, haben Justiz- und Finanzministerium im März 2026 die *Gesellschaft mit gebundenem Vermögen* vorgeschlagen, mit gebundenen Gewinnen und einer Ersatzerbschaftsteuer ([BMJV](https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2026/0304_GMGV.html)), noch nicht in der Regierung abgestimmt.
 
 Mitbestimmung hat in Deutschland weder Löhne noch Beschäftigung messbar verändert, eher die Investitionen erhöht ([Jäger, Schoefer & Heining 2021](https://doi.org/10.1093/qje/qjaa038); [Jäger, Noy & Schoefer 2022](https://doi.org/10.1177/00197939211065727)). Mitarbeiterbeteiligung hängt schwach positiv mit der Leistung zusammen ([O'Boyle, Patel & Gonzalez-Mulé 2016](https://doi.org/10.1111/1748-8583.12115), Meta-Analyse). Schon eine frühe Bilanz über 43 Studien trennte die Ebenen: Mitsprache bei Entscheidungen, Gewinnbeteiligung und Eigentum hingen positiv mit der Produktivität zusammen, die gesetzlich vorgeschriebene Mitbestimmung negativ ([Doucouliagos 1995](https://doi.org/10.1177/001979399504900104), Meta-Analyse). Produktivgenossenschaften zahlen in Italien weniger, halten aber die Arbeitsplätze stabiler ([Pencavel, Pistaferri & Schivardi 2006](https://doi.org/10.1177/001979390606000102)). Und dass eine Apotheke nur Apothekern gehören darf, hat der Europäische Gerichtshof 2009 bestätigt ([EuGH, C-171/07](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62007CJ0171)). Wem der Boden gehört, steht unter [[Schoener Wohnen#Wem gehört der Boden?|Schöner Wohnen]].
+
+Warum es so wenige Belegschaftsgenossenschaften gibt, erklärt die Forschung eher am Anfang als am Ende: Sie scheitern nicht häufiger, es werden nur wenige gegründet ([Olsen 2013](https://doi.org/10.1108/s0885-3339(2013)0000014005), Übersichtsarbeit). In Frankreich sind sie nicht kleiner als vergleichbare Firmen und wachsen gleich schnell oder schneller ([Fakhfakh, Pérotin & Gago 2012](https://doi.org/10.1177/001979391206500404), repräsentative Stichproben). Kapital lässt sich verkaufen und beleihen, ein Anteil an der eigenen Arbeit kaum, und daran hängt ihr Nachteil am Kapitalmarkt ([Dow 2018](https://doi.org/10.1017/9781316459423), Buch).
 
 
 Eine dritte Form neben privat und staatlich ist das Gemeingut, das eine Gruppe selbst verwaltet. Elinor Ostroms Prinzipien dafür, von klaren Grenzen über die Mitsprache der Nutzer bis zu abgestuften Strafen, sind gut gestützt ([Cox, Arnold & Villamayor-Tomás 2010](https://doi.org/10.5751/es-03704-150438), Übersichtsarbeit über 91 Studien). Sie versagen aber oft, wenn sich die Lage schnell ändert ([Dietz, Ostrom & Stern 2003](https://doi.org/10.1126/science.1091015), Übersichtsartikel). Der Bodensee zeigt beides: Aus den Absprachen der Fischer wurde 1893 ein Staatsvertrag, der bis heute gilt ([IBKF](https://ibkf.org/bregenzer-uebereinkunft/)). Und doch musste die Felchenfischerei 2024 schließen, weil man sich lange auf Maschenweiten statt auf Bestandsschätzungen verlassen hatte und eingewanderte Arten das Ökosystem kippten ([Haase u. a. 2025](https://doi.org/10.1139/cjfas-2024-0370), Bestandsmodell).
@@ -172,6 +178,8 @@ Wem was gehört, weiß in Deutschland niemand genau. Eine Vermögensstatistik gi
 - **[[Tilo Jung — Erben Wirtschaft AfD-Strategie#Das Gründungsphasen-Problem (Gabels stärkstes Argument)|Tim Gabel]]:** Zwei Millionen aus eigener Tasche, null Gehalt, volle Haftung; in der Gründung gibt es kein kollektives Eigentum, weil einer allein das Risiko trägt.
 - **[[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Erben, Picasso und die reichsten Familien|Veronika Grimm]]:** Sie interessiert, *„wofür Kapital in Deutschland eingesetzt wird“*, nicht, wem es gehört.
 - **[[ARTE Re — Wenn Arbeiter Chefs werden#Sitek — die andere Hälfte der Wahrheit|ARTE Re]]:** Die Belegschaft von Sitek will ihre Fabrik als Genossenschaft retten und scheitert an 5,7 Millionen Euro.
+
+- **[[Hanno Sauer — Klasse#Im Zeltlager sind wir alle Sozialisten|Hanno Sauer]]:** Belegschaftsfirmen sind erlaubt und trotzdem selten; wer hundert Eigentümer hat, stellt ungern den hundertersten ein, und gleicher Lohn lädt zum Ausruhen ein. Wer das mit Leistungsprämien löst, sei „ganz nah an genau dem Teufel, den wir eigentlich austreiben wollten“.
 
 <details><summary>Weitere Stimmen (10)</summary>
 
@@ -255,6 +263,7 @@ Die Philosophie trennt Neid, der haben will, was der andere hat, von Groll über
 | 13.11.2026 | [[Erich Fromm — Die Welt lieben, SRF 1979#Nachbesprechung|Erich Fromm — Die Welt lieben, SRF 1979]] | Wem gehört was: Mitbestimmung und Produktivität nach Ebenen getrennt (Doucouliagos 1995) · Fromm als Stimme |
 | 20.11.2026 | [[Wendy Brown - Wie Neoliberalismus die Demokratie bedroht#Stockt der Aufstieg?\|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]] | Was darf man erben: vererbte Chancen, relative Mobilität stabil, absolute gefallen (Chetty u. a. 2014, 2017) · Brown als Stimme (Zugbrücke) |
 | 25.11.2026 | [[Miriam Rehm — Was der Staat ueber Reiche nicht wissen will#Nachbesprechung\|Miriam Rehm — Was der Staat über Reiche nicht wissen will]] | Wem gehört was: wer überhaupt weiß, wem was gehört (Kontenabruf, Informationsaustausch, EU-Machbarkeitsstudie, EuGH). Neue Frage *Wem gehören die Emissionen?* (Chancel & Rehm, Feldwisch u. a., Divestment-Kritik, sieben Stimmen). Was darf man erben: die Verhandlung in Karlsruhe, Daten statt Plausibilität, 8,8 Milliarden ohne Evaluierung; Rehm zur Doppelbesteuerung |
+| 26.11.2026 | [[Hanno Sauer — Klasse#Nachbesprechung\|Hanno Sauer — Klasse]] | *Braucht Reichtum eine Grenze?*: Boden gegen Deckel (Aizer u. a. 2016, Bovell-Ammon u. a. 2022, Nichtinanspruchnahme Harnisch 2019, Scheve & Stasavage 2012, Piketty u. a. 2014, Frohlich u. a. 1987) · *Wem gehört was?*: warum so wenige Belegschaftsfirmen (Fakhfakh u. a. 2012, Olsen 2013, Dow 2018, Burdín 2016) · Sauer als Stimme in beiden |
 
 ---
 

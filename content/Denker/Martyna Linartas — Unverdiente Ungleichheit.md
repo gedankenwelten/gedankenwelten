@@ -352,6 +352,10 @@ Blom beschreibt denselben Rückfall von der Demokratie zur Dynastie als „neuen
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Tilo Jung nennt es bei Grimm „Geldvorteilsgesellschaft“, früher habe man das Adel genannt. Die Wirtschaftsweise spricht von einem Spannungsfeld und würde am Ende die Erbschaftsteuer erhöhen.
 
+### → [[Denker/Hanno Sauer — Klasse#Boden statt Deckel|Hanno Sauer — Klasse]]
+
+Die Gegenposition zum Deckel: Der Philosoph Hanno Sauer will „von unten deckeln“, mit Bildung, Gesundheit, Verkehr und öffentlichen Gütern, und hält eine Erbschaftsteuer, die große Vermögen bricht, für bedenkenswert, aber wenig aussichtsreich. Seine Nachbesprechung zeigt, warum der Streit enger ist, als er klingt: Ein Boden braucht Geld von irgendwo.
+
 ---
 
 ## Weiterdenken

@@ -3,7 +3,7 @@ title: Michael Hampe — DenkerVita
 description: "Michael Hampe misstraut den großen Lehren: Der Zürcher Philosoph sucht in Erzählung, Weisheit und Zwecklosigkeit, was Theorien über Willen und Bewusstsein verfehlen."
 raetsel: "Zwischen zwei Bäumen fliegt ein Vogel. Wozu, fragt nur, wer zusieht."
 date: 2026-10-16
-aktualisiert: 2026-10-16
+aktualisiert: 2026-11-26
 tags:
   - denker-vita
   - philosophie
@@ -31,7 +31,7 @@ tags:
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Michael Hampe** (*1961, Hannover*) — Philosoph, der den großen Lehren der Philosophie misstraut und ihr eine ältere Aufgabe zurückgeben will: Befreiung von Illusion und Leid, nicht Doktrin. Studierte Philosophie, Psychologie und Germanistik in Heidelberg und Cambridge, danach Biologie mit Schwerpunkt Neurobiologie und Genetik; Promotion über Whitehead (1989), Habilitation in Heidelberg (1994). Von 2003 bis Ende Juli 2026 Professor für Philosophie an der ETH Zürich, seither emeritiert und Erskine Fellow an der University of Canterbury in Neuseeland.
+> **Michael Hampe** (*1961, Hannover*) — Philosoph, der den großen Lehren der Philosophie misstraut und ihr eine ältere Aufgabe zurückgeben will: Befreiung von Illusion und Leid, nicht Doktrin. Studierte Philosophie, Psychologie und Germanistik in Heidelberg und Cambridge, danach Biologie mit Schwerpunkt Neurobiologie und Genetik; Promotion über Whitehead (1989), Habilitation in Heidelberg (1994). Von 2003 bis Ende Juli 2026 Professor für Philosophie an der ETH Zürich. Danach Erskine Fellow an der University of Canterbury in Christchurch, wo er die Geschichte des Skeptizismus lehrte; ab Januar 2027 Gast im Graduiertenkolleg Contradiction Studies der Universität Bremen.
 >
 > **Wichtigste Werke:** *Die Lehren der Philosophie. Eine Kritik* (2014) · *Die Wildnis, die Seele, das Nichts* (2020) · *Wozu? Eine Philosophie der Zwecklosigkeit* (2024) · *Krise der Aufklärung* (2025)
 >
@@ -41,13 +41,15 @@ tags:
 
 ## Biografie
 
-Michael Hampe wurde am 18. Juni 1961 in Hannover geboren. Sein Studium war von Anfang an breiter angelegt, als es die Philosophie üblicherweise verlangt: Philosophie, Psychologie und Germanistik in Heidelberg und Cambridge, abgeschlossen 1984. Danach studierte er noch einmal, fünf Jahre Biologie in Heidelberg, mit besonderem Interesse für Neurobiologie und Genetik. Wer später über Bewusstsein und Willen spricht und dabei die Hirnforschung weder verklärt noch abtut, hat sie selbst im Labor kennengelernt.
+Michael Hampe wurde am 18. Juni 1961 in Hannover geboren und wuchs, wie er bei Jung & Naiv erzählt, in kleinbürgerlichen Verhältnissen auf ([▶ 57:45](https://www.youtube.com/watch?v=XJ73R2jR3Qw&t=3465)). Der Vater war Kürschner, ein Handwerk, das nach dem Krieg kaum gefragt war; die Mutter war als Kind mit ihrer Familie aus Ostpreußen geflohen, aus der Gegend von Allenstein. Sie legte Wert auf Bildung, in der Familie des Vaters hielt man nicht viel vom Latein, und sie setzte das Gymnasium durch. Dort unterrichteten noch alte Lehrer aus der NS-Zeit, und bis er sechzehn war, blieb es eine reine Jungenschule. Eigentlich wollte er Tiermedizin studieren und begann Philosophie nur, um eine Wartezeit zu überbrücken ([▶ 2:17](https://www.youtube.com/watch?v=XJ73R2jR3Qw&t=137)). Sein Studium war von Anfang an breiter angelegt, als es die Philosophie üblicherweise verlangt: Philosophie, Psychologie und Germanistik in Heidelberg und Cambridge, abgeschlossen 1984. Danach studierte er noch einmal, fünf Jahre Biologie in Heidelberg, mit besonderem Interesse für Neurobiologie und Genetik. Wer später über Bewusstsein und Willen spricht und dabei die Hirnforschung weder verklärt noch abtut, hat sie selbst im Labor kennengelernt.
+
+In der Biologie arbeitete er an Versuchen mit, in denen genetisch fast identische Mäuse unter Stress durch ein Wasserlabyrinth schwammen; die Hypothese verband die Verschaltungen im Hypothalamus mit der Lernfähigkeit unter Druck. Den neurogenetischen Determinismus jener Jahre hält er heute für falsch ([▶ 7:34](https://www.youtube.com/watch?v=XJ73R2jR3Qw&t=454)), die Frage, wie viel Stress Lernen erlaubt, begleitet ihn bis in seine Kritik der Konkurrenz an den Hochschulen.
 
 1989 wurde er mit einer Arbeit über Alfred North Whitehead promoviert (*Die Wahrnehmungen der Organismen*, 1990), 1994 habilitierte er sich in Heidelberg mit Studien über den Begriff des Gesetzes. Die Stationen danach: Visiting Professor am Trinity College Dublin (1990–1992), Fellow am Wissenschaftskolleg zu Berlin (1994/95), Professuren in Kassel (1997–1999) und Bamberg (1999–2003). Am 1. Oktober 2003 trat er den Lehrstuhl für Philosophie an der ETH Zürich an, im Departement für Geistes-, Sozial- und Staatswissenschaften; von 2005 bis 2016 gehörte er dem Zentrum Geschichte des Wissens an. Dass ein Philosoph 23 Jahre lang an einer technischen Hochschule lehrt, ist kein Zufall seiner Biografie, sondern ihr Thema: Was Naturgesetze sind, was Zufall ist, wie Wissenschaft und Lebenspraxis sich zueinander verhalten.
 
 Seine Arbeit hat zwei Schichten. Die eine ist philosophiehistorisch und streng: Hobbes und Spinoza, Whitehead, der amerikanische Pragmatismus, die Geschichte des Naturgesetzbegriffs. Die andere ist ungewöhnlich für einen Lehrstuhlinhaber. Hampe schreibt Dialoge und erzählende Bücher (*Tunguska oder Das Ende der Natur* ist ein fiktives Gespräch), er fragt nach dem gelingenden Leben, nach Weisheit und nach dem, was Philosophie mit Therapie gemeinsam hat. Gert Scobel, der ihn seit vielen Jahren kennt, nennt das ein Projekt, an dem Hampe seit über einem Jahrzehnt konsequent arbeitet: eine therapeutische, nicht doktrinäre Philosophie im Gewand der Aufklärung.
 
-Dazu gehört der Blick über Europa hinaus. Mit dem Sinologen und Philosophen Kai Marchal (Taipeh) gab er 2021 den Band *Weisheit. Neun Versuche* heraus; laut Scobel war Hampe mehrfach Gastprofessor in Taipeh und arbeitete dort mit Kennern der buddhistischen Philosophie zusammen. Zusammen mit Gert Scobel hat er an der ETH das Portal [METIS](https://metis.ethz.ch/) für interkulturelle Weisheitsliteratur und Weisheitspraktiken initiiert, mit Podcasts zu Stoa, Daoismus, Buddhismus, Ubuntu und Spinozismus. Ende Juli 2026 wurde Hampe an der ETH emeritiert und forscht seither als Erskine Fellow an der University of Canterbury in Christchurch weiter.
+Dazu gehört der Blick über Europa hinaus. Mit dem Sinologen und Philosophen Kai Marchal (Taipeh) gab er 2021 den Band *Weisheit. Neun Versuche* heraus; laut Scobel war Hampe mehrfach Gastprofessor in Taipeh und arbeitete dort mit Kennern der buddhistischen Philosophie zusammen. Zusammen mit Gert Scobel hat er an der ETH das Portal [METIS](https://metis.ethz.ch/) für interkulturelle Weisheitsliteratur und Weisheitspraktiken initiiert, mit Podcasts zu Stoa, Daoismus, Buddhismus, Ubuntu und Spinozismus. Ende Juli 2026 wurde Hampe an der ETH emeritiert. Als Erskine Fellow an der University of Canterbury in Christchurch lehrte er danach die Geschichte des Skeptizismus, im Herbst 2026 kehrte er zurück, und ab Januar 2027 ist er Gast im Graduiertenkolleg [Contradiction Studies](https://contradictionstudies.uni-bremen.de/faculty/besucher_innen/prof-dr-michael-hampe-3/) der Universität Bremen.
 
 ---
 
@@ -75,6 +77,7 @@ Dazu gehört der Blick über Europa hinaus. Mit dem Sinologen und Philosophen Ka
 
 ## Empfehlenswerte Videos & Vorträge
 
+- [Philosoph Michael Hampe über Big Tech & Konkurrenz vs. Kooperation](https://www.youtube.com/watch?v=XJ73R2jR3Qw) — Jung & Naiv, Folge 858, 20.10.2026 (3 Std. 31 Min.). Sozialdarwinismus, Intelligenzfaschismus, Spinozas Religion als Herzensbildung, die dritte Aufklärung, dazu Herkunft und Lebensweg; ab 2:45 Fragen über Hans Jessen.
 - [Bewusstsein, freier Wille, Denken, KI: Warum Debatten oft trügen](https://www.youtube.com/watch?v=aQ99dDlNp4o) — scobel im Gespräch, 15.10.2026 (80 Min.). Warum unser psychologisches Vokabular kein Inventar innerer Dinge ist und KI uns das eigene Vokabular zurückspiegelt.
 - [Krise der Aufklärung: Grausamkeit kehrt zurück](https://www.youtube.com/watch?v=EGQCuPJCTag) — scobel im Gespräch, 05.02.2026 (78 Min.). Zum Buch *Krise der Aufklärung*.
 - [Kaube im Gespräch: Michael Hampe und „Krise der Aufklärung“](https://www.youtube.com/watch?v=H5T-JGRhemE) — Evangelische Akademie Frankfurt, mit Jürgen Kaube (FAZ), 13.01.2026 (79 Min.).
@@ -97,6 +100,8 @@ Dazu gehört der Blick über Europa hinaus. Mit dem Sinologen und Philosophen Ka
 
 5. **Freiheit heißt Macht, das Gewollte zu verwirklichen.** Mit Spinoza und Hume: Der Wille mag determiniert sein, entscheidend ist, ob man umsetzen kann, was man will. Ein allmächtiger, von der Lebensgeschichte abgelöster Wille (Descartes, Kant), auf dem auch das Strafrecht ruht, hält er für wenig plausibel. Für die Demokratie folgt daraus: Sie ist mehr als Wahlfreiheit wie zwischen Käsesorten. Es geht darum, ob jeder genug Macht bekommt, sein Leben zu verwirklichen.
 
+6. **Die Natur ist Kampf und Kooperation.** Der Sozialdarwinismus, für Hampe eine wesentliche Vorform des Faschismus, liest die Natur einseitig als Kampf. Mit Kropotkin und Tomasello hält er dagegen, dass Organismen und Menschen auf Kooperation und Vertrauen angewiesen sind. Dieselbe Rangordnung sieht er heute im Elitenbewusstsein der Tech-Unternehmer wiederkehren, die sich mit Intelligenz statt mit Herkunft legitimieren ([Jung & Naiv 2026](https://www.youtube.com/watch?v=XJ73R2jR3Qw&t=1594)).
+
 ---
 
 ## Politische / ideologische Einordnung
@@ -114,10 +119,14 @@ Kein Parteidenker. Hampe steht in der Tradition einer skeptischen, pragmatischen
 - [[DenkerVita/Philipp Blom|Philipp Blom]] — zwei Spinozisten mit verschiedenen Folgerungen aus *Deus sive natura*. Bei Hampe entlastet der Satz von der Frage nach dem Zweck, bei Blom nimmt er dem Menschen den Platz, von dem aus er die Natur beherrschen könnte. Beide lesen die Aufklärung als Erbin der Theologie, Blom die Fortschrittsidee, Hampe den freien Willen.
 - [[DenkerVita/Erich Fromm|Erich Fromm]] — Psychoanalytiker mit buddhistischem Einschlag, wie Hampe ein Denker der Befreiung statt der Doktrin. Fromms *Furcht vor der Freiheit* beschreibt die dunkle Seite dessen, was Hampe am Ende des Scobel-Gesprächs andeutet: Wer festgefahrene Selbstbeschreibungen loslässt, kann den Halt verlieren.
 - [[DenkerVita/Albert Camus|Albert Camus]] — der Gegenpol zur Zwecklosigkeit als Entlastung. Für Camus beginnt das Bewusstsein, wenn sich im Gleichlauf von Straßenbahn, Büro und Schlaf das „Warum?“ erhebt, und das Absurde ist der Zusammenstoß dieser Frage mit einer Welt, die nicht antwortet. Hampe hält schon die Frage für eine Abrichtung durch die Sprache. In der Abwesenheit eines Sinns finden beide eine Freiheit, Camus aber gibt das Verlangen nach Klarheit nie auf.
+- [[DenkerVita/Susan Neiman|Susan Neiman]] — beide verteidigen eine nüchterne Aufklärung gegen das Menschenbild vom Egoisten. Neiman findet seine Wurzeln in einem verkürzten Smith, einem verzerrten Darwin und in Foucault; Hampe kritisiert den Sozialdarwinismus als schlechte Biologie und den radikalen Konstruktivismus als Werkzeug der Mächtigen.
+- [[DenkerVita/Eva von Redecker|Eva von Redecker]] — beide sehen im Streben nach Härte einen Kern des neuen Faschismus und bei der Tech-Elite eine Rangordnung nach Intelligenz. Redecker leitet ihn aus dem Phantombesitz ab, Hampe aus einer Naturwissenschaft, die Hierarchien begründen soll.
+- [[DenkerVita/Carel van Schaik|Carel van Schaik]] — der Primatologe stützt mit Kai Michel Hampes Gegenbild zum Sozialdarwinismus: Menschen sind auf Kooperation angelegt, und Verhalten antwortet auf Strukturen. In der Religion trennen sie sich; für van Schaik spiegeln die Götter die Hierarchie, für Hampe ist Religion mit Spinoza Herzensbildung.
 
 ---
 
 ## Gedankenwelten-Notes
 
+- [[Denker/Michael Hampe — Konkurrenz oder Kooperation]] — Jung & Naiv (2026): Sozialdarwinismus, Intelligenzfaschismus, Spinoza, Fallibilismus und die dritte Aufklärung
 - [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen]] — scobel im Gespräch (2026): Bewusstsein, freier Wille, KI und das psychologische Vokabular
 - [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]] — Scobels Essay über *Wozu?* und die Philosophie der Zwecklosigkeit

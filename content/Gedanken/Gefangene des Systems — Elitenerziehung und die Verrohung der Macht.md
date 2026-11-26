@@ -550,6 +550,10 @@ Dasselbe Klassendenken von unten gesehen: Wer am Markt verliert, sucht sich eine
 ### → [[Claude - Analyse zu Gefangene des Systems|Claude — Analyse zu Gefangene des Systems]]
 Die frühe Antwort aus dem April, die nach den Schutzfaktoren fragte. Diese Fassung hat die Frage aufgenommen: Wärme, *earned security*, die Mehrheit, die nicht so wird.
 
+### → [[Denker/Hanno Sauer — Klasse#Vier Klassen und eine Handtasche|Hanno Sauer — Klasse]]
+
+Die Abschottung von der anderen Seite der Hecke: Sauers vergrabene Signale halten Menschen draußen, die nicht einmal merken, dass sie draußen stehen, wie im alten Eton-Witz von der Frage nach „der Schule“. Wer drinnen aufwächst, sieht die anderen nicht; wer draußen steht, sieht die Tür nicht.
+
 ---
 
 ## Weiterdenken

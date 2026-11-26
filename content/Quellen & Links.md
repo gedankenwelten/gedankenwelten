@@ -7,6 +7,16 @@ tags:
 ---
 
 
+## Michael Hampe — Konkurrenz oder Kooperation (Jung & Naiv 858)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Philosoph Michael Hampe über Big Tech & Konkurrenz vs. Kooperation – Jung & Naiv: Folge 858](https://www.youtube.com/watch?v=XJ73R2jR3Qw) (Jung & Naiv, 20.10.2026) |
+| **Im Gespräch** | Kropotkin, [*Mutual Aid*](https://archive.org/details/mutualaidfactoro1902krop) (1902) · Mary Hesse, *Models and Analogies in Science* (1963) · Robert Sapolsky, *Determined* (2023) · Spinoza, *Ethik* und *Theologisch-politischer Traktat* |
+| **Notiz** | [[Michael Hampe — Konkurrenz oder Kooperation]] |
+| **Vita** | [[DenkerVita/Michael Hampe]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hampe_JungNaiv858_Transkript.txt` |
+
 ## Anita Engels — Klimawende und kollektives Handeln (Jung & Naiv 860)
 
 | | |
@@ -6346,3 +6356,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Liebreich_CleanEnergy_Transkript.txt` (manuelle englische Untertitel, vollständig) |
 | **Daten** | [Ember 2026, Global Electricity Review](https://ember-energy.org/latest-insights/global-electricity-review-2026/) · [IEA 2026, Electrification](https://www.iea.org/reports/electrification-2026) · [Hydrogen Ladder 5.0](https://mliebreich.substack.com/p/hydrogen-ladder-version-50) |
 | **Grafik** | `Gedankenwelten/assets/Michael-Liebreich-Modell-Empfindlichkeit.png` — eigene Rechnung nach Liebreichs Modell; Daten: [Global Carbon Budget 2026](https://globalcarbonbudget.org/fossil-co2-emissions-decrease-in-2026/) · [Forster u. a. 2026](https://doi.org/10.5194/essd-18-3889-2026) (Tabelle 8, Restbudgets ab 2026) |
+
+## Hanno Sauer — Klasse (Hotel Matze)
+
+| | |
+|---|---|
+| **Gespräch** | [Fake Rolex, Louis Vuitton & Statussymbole – Philosoph Hanno Sauer über Klasse](https://www.youtube.com/watch?v=LxAh8c5Z0z4) (Hotel Matze, 15.10.2025, 2:38 h) |
+| **Buch** | [Hanno Sauer, *Klasse. Die Entstehung von Oben und Unten*](https://piper.de/buecher/klasse-isbn-978-3-492-07141-3) (Piper 2025) |
+| **Notiz** | [[Denker/Hanno Sauer — Klasse]] |
+| **Vita** | [[DenkerVita/Hanno Sauer]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Sauer_Klasse_Transkript.txt` (YouTube-Untertitel, 100 % Abdeckung) |

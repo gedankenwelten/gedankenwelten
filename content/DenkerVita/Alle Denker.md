@@ -754,6 +754,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## S
 
+**[[DenkerVita/Hanno Sauer|Hanno Sauer]]** — Philosophie, Moralpsychologie (Utrecht), liest Klasse an den Statussignalen, mit denen wir Rang zeigen, verbergen und vererben.
+
 **[[DenkerVita/Bernhard Seiwald|Bernhard Seiwald]]** — Vortragender der Neuen Akropolis Wien (Treffpunkt Philosophie), Seminar zum Songschreiben; Katastrophenforschung, Kooperation, ein Menschenbild, das man sich erarbeitet
 
 **[[DenkerVita/Peter Schoenswetter|Peter Schönswetter]]** — Botanik/Evolutionsbiologie, liest aus dem Erbgut der Alpenpflanzen, wie Eiszeiten, Polyploidie und Hybridisierung dort Arten schaffen und zerstören.

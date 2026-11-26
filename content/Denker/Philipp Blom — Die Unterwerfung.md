@@ -466,6 +466,10 @@ Hampes Genealogie des freien Willens ist umetikettierte Theologie im Sinne Bloms
 
 Die Gegenthese zu Bloms Suffragetten. Die Historikerin Hedwig Richter hält sie für eine laute Ausnahme, an die man sich erinnert, weil sie Bilder hinterließen. Die meisten Frauenrechtlerinnen lehnten ihre Mittel ab und arbeiteten mit Petitionen und Vereinen. Gegen „erst der Krieg“ stellt sie Länder, in denen das Wahlrecht früher kam, Neuseeland schon 1893. Bloms Pointe, die Argumente hätten bereitgelegen, als die Instabilität kam, trifft sich mit dem Schluss ihrer Note: Es brauchte vermutlich beides.
 
+### → [[Michael Hampe — Konkurrenz oder Kooperation]]
+
+Hampe sieht bei den Tech-Unternehmern ein voraufklärerisches Religionsverständnis „wieder durchbrechen“ und hält die Aufklärung für uneindeutig; Blom würde sagen, die Theologie war nie fort.
+
 ---
 
 ## Weiterdenken

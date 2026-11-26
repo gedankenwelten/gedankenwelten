@@ -3,6 +3,9 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Hanno Sauer
+**Status:** ✓ Vollanalyse — [[DenkerVita/Hanno Sauer]]
+
 ## Robert Misik
 **Status:** ✓ Vollanalyse — [[DenkerVita/Robert Misik]]
 

@@ -530,6 +530,10 @@ Ein Feld für die Sensibilisierungsthese: Die queerfeindlichen Straftaten stiege
 
 Am Annäherungsverbot, das ein Mann bis zur Tat folgenlos brach, zeigt der Film, was Heitmeyer „Lernen am Erfolg“ nennt.
 
+### → [[Michael Hampe — Konkurrenz oder Kooperation#Macht Anonymität roh?|Michael Hampe — Konkurrenz oder Kooperation]]
+
+Hampe führt die Verrohung auf die Kommunikationskultur des Internets zurück und wünscht sich Klarnamen; die Nachbesprechung prüft das an der Forschung, die das Netz eher als Schaufenster der ohnehin Feindseligen zeigt.
+
 ---
 
 ## Weiterführend

@@ -386,6 +386,10 @@ Uwe Krüger beschreibt dasselbe Prinzip für Redaktionen: Das liberal-intellektu
 ### → [[Zeitgeist/Tom Ockers — Schattenmacht BlackRock|Tom Ockers — Schattenmacht BlackRock]]
 Dieselbe Frage von der anderen Seite: nicht wer aufsteigt, sondern was ein Vermögensverwalter an Stimmrechten in Konzernen hält, und welche Drehtüren in die Politik führen.
 
+### → [[Denker/Hanno Sauer — Klasse#Klassenkampf von oben, mit Lachen|Hanno Sauer — Klasse]]
+
+Sauer beobachtet, dass über Menschen, die „irgendwie unterschichtlich“ wirken, noch offen gelacht wird, über rassistische Vorurteile nicht mehr, und nennt das Klassenkampf von oben. Hartmanns Vorschlag, die Quote an der sozialen Position festzumachen, ist eine mögliche Antwort auf diese Lücke.
+
 ---
 
 ## Weiterdenken

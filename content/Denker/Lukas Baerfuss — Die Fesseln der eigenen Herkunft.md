@@ -348,6 +348,10 @@ Harry Pfau lebte dreizehn Jahre auf der Straße und erzählt seine Rückkehr ebe
 
 Eine verwandte Konstellation aus der Sicht eines Mädchens: Marens Mutter folgte dem neonazistischen Stiefvater nach Sachsen und nahm sie mit, der Bruder blieb, und auch Maren erzählt es ohne Hass.
 
+### → [[Denker/Hanno Sauer — Klasse#Die Angst der Reichen|Hanno Sauer — Klasse]]
+
+Sauer liest aus der Angst der Reichen, arm zu sterben, ein stilles Eingeständnis, dass Glück und Zufall beim Aufstieg mitspielten; Bärfuss sagt dasselbe offen über sich. Und Sauers versteckte Signale sind genau das, wofür Bärfuss beim Ehrendoktor die Übung fehlt.
+
 ---
 
 ## Weiterdenken

@@ -271,3 +271,6 @@ Tiana beschreibt die Bevölkerungsseite dessen, was Osnos bei den Ultrareichen s
 
 Miriam Rehm nimmt mit Anwar Shaikhs „das ist ihr Job“ die Moral aus der Gier-Debatte, denselben Satz, den Osnos bei den Ultrareichen als Entlastung erkennt, und hält dem Bunker entgegen, dass sich niemand aus der Klimakrise auskaufen kann.
 
+### → [[Denker/Hanno Sauer — Klasse#Die Angst der Reichen|Hanno Sauer — Klasse]]
+
+Sauer liest die Angst der sehr Reichen als Eingeständnis, wie viel Glück beim Aufstieg war, spricht von sehr hohen Hecken und warnt zugleich davor, Reiche zu Schurken oder Clowns zu machen, weil das vor allem uns entlastet. Osnos' Bunker ist die gebaute Form dieser Angst.

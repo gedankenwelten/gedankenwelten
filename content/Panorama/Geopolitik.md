@@ -2,7 +2,7 @@
 title: "Geopolitik"
 date: 2026-10-28
 erstellt: 2026-10-28
-aktualisiert: 2026-11-21
+aktualisiert: 2026-11-26
 description: "„Die Starken tun, was sie können, die Schwachen erleiden, was sie müssen“ — ein Satz von 416 v. Chr., der bis heute wie ein Naturgesetz klingt. Fünf offene Fragen dazu, ob er eins ist."
 raetsel: "Auf der Karte war die Insel klein. Auf der Insel war sie alles."
 panorama-art: wachsend
@@ -57,6 +57,8 @@ Wo es gelungen ist, hat der Fall einen Namen. Karl W. Deutsch nannte 1957 Staate
 
 Am 20. Januar 2026 hat Kanadas Premierminister Mark Carney in Davos den Satz von Melos zitiert und ihm genau das vorgehalten: *„This aphorism of Thucydides is presented as inevitable – the natural logic of international relations reasserting itself.“* Gegen diese Logik setzte er Václav Havels Gemüsehändler, der jeden Morgen ein Schild ins Fenster hängt, an das er nicht glaubt, und mit allen anderen Händlern das System trägt, bis einer das Schild abnimmt ([Rede im Wortlaut](https://www.pm.gc.ca/en/news/speeches/2026/01/20/principled-and-pragmatic-canadas-path-prime-minister-carney-addresses)).
 
+Wer das Recht des Stärkeren mit der Natur begründet, kann sich auf die Biologie nur halb berufen. Sie kennt Kampf und Kooperation, und Martin Nowak nennt fünf Wege, auf denen die Selektion Kooperation hervorbringt ([Nowak 2006](https://doi.org/10.1126/science.1133755), Übersichtsarbeit). Michael Tomasellos Interdependenz-Hypothese lässt menschliche Zusammenarbeit aus gemeinsamer Nahrungssuche entstehen, ihr Hochskalieren auf ganze Gruppen aber aus der Konkurrenz zwischen Gruppen ([Tomasello u. a. 2012](https://doi.org/10.1086/668207), theoretischer Aufsatz). Stephen Jay Gould, der Kropotkins *Mutual Aid* in Teilen rehabilitierte, zog daraus den Schluss, der hier am meisten zählt: Die Natur liefere *„no basis for our moral values“* ([Gould 1988](https://www.marxists.org/subject/science/essays/kropotkin.htm), Essay). Der Sozialdarwinist und der Realist lesen beide ihre Lage in die Natur hinein.
+
 **Die Stimmen**
 
 - **[[WDR Europaforum — Frieden schaffen mit immer mehr Waffen#Egon Bahr gegen Butscha|Jan van Aken]]:** Das Sicherheitsdilemma ernst nehmen und Rüstung so bauen, dass sie verteidigen, aber nicht angreifen kann, Egon Bahrs „strukturelle Nichtangriffsfähigkeit“.
@@ -66,6 +68,7 @@ Am 20. Januar 2026 hat Kanadas Premierminister Mark Carney in Davos den Satz von
 - **[[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben#Yin und Yang, und Europa im Beiboot|Susanne Weigelin-Schwiedrzik]]:** Chinas eigene Analyse lautet, es tue weder der Welt noch der Führungsmacht gut, wenn eine allein herrscht; zwei Mächte, die einander austarieren, seien das bessere Bild.
 - **[[Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie#Tianxia Die Welt als politischer Ausgangspunkt|Zhao Tingyang]]:** Westliches Denken beginnt beim Einzelnen oder beim Staat und fragt dann nach Kooperation; er beginnt bei der Welt, denn *„existence presupposes co-existence“*.
 - **[[PhoenixRunde — Machtpoker in Peking, Trump trifft Xi#Das Ende der liberalen Globalisierung|Thomas Jäger]]:** Für den Westen war Globalisierung der Zweck, in Peking und Moskau immer ein Mittel zum machtpolitischen Aufstieg, nützlich, solange sie nützte.
+- **[[Michael Hampe — Konkurrenz oder Kooperation#Mäuse im Labyrinth, Mikroben auf dem Thron|Michael Hampe]]:** Die Natur kennt Kampf und Hilfe zugleich; wer aus ihr nur den Kampf herausliest wie der Sozialdarwinismus, begründet Herrschaft mit *„einer falschen Naturwissenschaft“*.
 
 > [!question] Die Reibung
 > Wenn der Satz von Melos ein Naturgesetz wäre, müsste man ihn nicht ständig aussprechen. *Wenn der Realismus vor allem bei denen wirkt, die an ihn glauben, beschreibt der Realist die Welt dann, oder macht er sie?*
@@ -193,6 +196,7 @@ Und manchmal setzen sich die Kleinen wieder an den Tisch. Grönland und Dänemar
 | 14.11.2026 | [[Breaking Lab — SmarAct und die Welt des Allerkleinsten#Nachbesprechung\|Breaking Lab — SmarAct und die Welt des Allerkleinsten]] | Was können die Kleinen: Engpässe als Hebel (Farrell & Newman 2019, de Graaff u. a. 2026), Chips Act und Rechnungshof, Chips Act 2.0, Gallium; Stimme Weigel-Jech |
 | 21.11.2026 | [[Patrick Kaczmarczyk — Droht die naechste Gaspreiskrise#Nachbesprechung\|Patrick Kaczmarczyk — Droht die nächste Gaspreiskrise?]] | Was können die Kleinen: Abhängigkeit vom US-Flüssiggas (Bundesnetzagentur 2025: 10,3 % der Importe über deutsche Terminals, davon 96 % aus den USA; EU-Zusage 750 Mrd. $), Pipeline gegen Schiff als Knoten nach Farrell & Newman |
 | 21.11.2026 | [[Zeitgeist/auslandsjournal — Trump im Autokraten-Zirkus#Nachbesprechung\|auslandsjournal — Trump im Autokraten-Zirkus]] | Wer sitzt am Tisch: Shenzhen ohne Ukraine und Europa, Kiel Institut 11/2026 (EU über 60 % der Budgethilfe, USA ohne neue Hilfe), Nilsson 2012, Stedman 1997; Stimmen Röller, Keupp |
+| 26.11.2026 | [[Denker/Michael Hampe — Konkurrenz oder Kooperation#Kooperation statt Kampf?\|Michael Hampe — Konkurrenz oder Kooperation]] | Ist das Recht des Stärkeren ein Naturgesetz? Kooperation in der Evolution: Nowak 2006, Tomasello u. a. 2012, Choi & Bowles 2007 (eingeschränkt von von Pein u. a. 2026), Mykorrhiza und die Kritik am Wood Wide Web (Karst u. a. 2023), Gould 1988 über Kropotkin |
 
 ---
 

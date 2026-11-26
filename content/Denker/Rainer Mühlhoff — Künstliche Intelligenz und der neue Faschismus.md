@@ -574,6 +574,10 @@ Die Probe auf die prädiktive Privatheit am Gehirn: Ein Decoder lernt an Mensche
 
 Ein ökonomisches Modell, in dem die Demokratie den Kapitaleignern mit wachsendem Kapital zu teuer wird. Bei Mühlhoff stößt die KI-Industrie an demokratische Grenzen, weil sie Ressourcen braucht, im Modell, weil die Demokratie umverteilt.
 
+### → [[Michael Hampe — Konkurrenz oder Kooperation]]
+
+Hampe nennt das Heilsversprechen der KI-Szene einen „technischen Aberglauben“ und spricht vorsichtiger von „faschistischen Zügen“ einer Elite, die sich mit Intelligenz statt mit Wahlen legitimieren will.
+
 ---
 
 ## Weiterdenken

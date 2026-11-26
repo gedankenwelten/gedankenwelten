@@ -22,27 +22,51 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **26.11.** — [[Denker/Hanno Sauer — Klasse|Hanno Sauer — Klasse]]
+>
+> Wer zeigt, was er hat, steht in der Mitte; wer es versteckt, steht darüber. Der Philosoph Hanno Sauer liest Klasse als Spiel versteckter Signale, aus dem kaum einer aussteigen kann, und fragt, was sich trotzdem verbessern lässt.
+
+> **26.11.** — [[Denker/Michael Hampe — Konkurrenz oder Kooperation|Michael Hampe — Konkurrenz oder Kooperation]]
+>
+> Die Natur kennt Kampf und Kooperation. Wer nur den Kampf sieht, so Michael Hampe, liest Herrschaft hinein, vom Sozialdarwinismus bis zum Intelligenzdünkel der Tech Bros.
+
+> **23.11.** — [[Denker/Sven Beckert — Kapitalismus als Weltrevolution|Sven Beckert — Kapitalismus als Weltrevolution]]
+>
+> Die Sklaverei ist nicht die Vorgeschichte des Kapitalismus, sondern ein Teil von ihm — und Barbados 1670 war eine der ersten kapitalistischen Gesellschaften, lange vor der industriellen Revolution.
+
+> **23.11.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
+>
+> Was man besitzt, hänge in Deutschland mehr vom Erbe ab als von der Leistung, sagt Martyna Linartas. Sie zeigt, wie Vermögensungleichheit zur Frage der Demokratie wird, und schlägt ein Grunderbe vor.
+
+> **21.11.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+>
+> In zwanzig Jahren haben sich die Einstellungen kaum bewegt, neu ist, dass Misstrauische einander finden. Entzaubern lasse sich das nicht, meint Aladin El-Mafaalani; Wahlen zeigen Ausnahmen.
+
+> → *3 weitere in* [[Denker]]
+
 ### Panorama
+
+> **26.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **26.11.** — [[Panorama/Wie viel Reichtum vertraegt eine Demokratie|Wie viel Reichtum verträgt eine Demokratie?]]
+>
+> Was bewirkt eine Vermögensteuer, was darf man erben, braucht Reichtum eine Grenze, wem gehört was, wem gehören die Emissionen, und ist Neid ein Argument? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **26.11.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Fünf offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
+
+> **26.11.** — [[Panorama/Geopolitik|Geopolitik]]
+>
+> „Die Starken tun, was sie können, die Schwachen erleiden, was sie müssen“ — ein Satz von 416 v. Chr., der bis heute wie ein Naturgesetz klingt. Fünf offene Fragen dazu, ob er eins ist.
 
 > **26.11.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
 >
 > Was wie viele nationale Bewegungen aussieht, teilt Netzwerke, Geldgeber und Erzählungen. Das Panorama kartiert die globale Rechte von CPAC und Atlas bis Palantir, was ihr entgegensteht und was bleibt, wenn sie abgewählt wird.
-
-> **25.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **25.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **25.11.** — [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
->
-> Eigentum bindet, Wettbewerb bricht Macht, und wer entscheidet, wer führt? Vier offene Fragen zum Staat als Eigentümer und Lenker, von Ahlen 1947 bis zum Nvidia-Chef 2026.
-
-> **25.11.** — [[Panorama/Politik - Verstehen|Politik — Verstehen]]
->
-> Wer Politik nur konsumiert, wird unruhig statt klüger. Das Panorama fragt, wie Macht spricht, warum wir ihr folgen, und wo wir unser Urteil an ein Wir abgeben.
 
 > → *20 weitere in* [[Panorama]]
 
@@ -99,30 +123,6 @@ Die Gedankenwelten (luc)
 > Zellen, die nicht mehr teilen wollen, eine Schweineniere für 130 Tage, Eizellen aus der Haut eines toten Nashorns: Die Zellforschung lernt eingreifen. Wie weit wollen wir gehen?
 
 > → *3 weitere in* [[Geistesblitz]]
-
-### Denker
-
-> **23.11.** — [[Denker/Sven Beckert — Kapitalismus als Weltrevolution|Sven Beckert — Kapitalismus als Weltrevolution]]
->
-> Die Sklaverei ist nicht die Vorgeschichte des Kapitalismus, sondern ein Teil von ihm — und Barbados 1670 war eine der ersten kapitalistischen Gesellschaften, lange vor der industriellen Revolution.
-
-> **23.11.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
->
-> Was man besitzt, hänge in Deutschland mehr vom Erbe ab als von der Leistung, sagt Martyna Linartas. Sie zeigt, wie Vermögensungleichheit zur Frage der Demokratie wird, und schlägt ein Grunderbe vor.
-
-> **21.11.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
->
-> In zwanzig Jahren haben sich die Einstellungen kaum bewegt, neu ist, dass Misstrauische einander finden. Entzaubern lasse sich das nicht, meint Aladin El-Mafaalani; Wahlen zeigen Ausnahmen.
-
-> **20.11.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
->
-> Als die Boomer Eltern waren, war PISA ein Skandal; heute sind Kinder eine Minderheit, um die niemand werben muss. Aladin El-Mafaalani über eine alternde Demokratie, die ihre Jungen vergisst.
-
-> **20.11.** — [[Denker/Agnes Callard - Warum lohnt sich ein sokratisches Leben|Agnes Callard — Warum lohnt sich ein sokratisches Leben?]]
->
-> Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
-
-> → *1 weitere in* [[Denker]]
 
 ### Spuren
 

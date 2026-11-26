@@ -254,6 +254,10 @@ Kaste als radikalste Ausformung der zweiten Natur: „ein Geisteszustand, kein S
 
 Beide entmoralisieren denselben Befund: Der Mensch ist evolutionär fehl am Platz — Jäger-Sammler-Gehirne in einer hyperdiversen, hypermobilen Welt. Yus Other-Race-Effekt und frühkindliche Infrahumanisierung sind die neuronale Seite von van Schaiks erster Natur; ihre Rehumanisierungs-Strategien der Versuch, das Erbe zu steuern statt zu leugnen.
 
+### → [[Michael Hampe — Konkurrenz oder Kooperation]]
+
+Hampe zeigt den Sozialdarwinismus ebenfalls als schlechte Biologie und hält ihm Kropotkins gegenseitige Hilfe und Tomasellos kooperative Jäger entgegen.
+
 ---
 
 ## Weiterdenken
