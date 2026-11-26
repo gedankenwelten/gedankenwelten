@@ -20,13 +20,13 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 45,
-   "aufrufe": 48
+   "leser": 46,
+   "aufrufe": 49
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-   "leser": 38,
-   "aufrufe": 42
+   "leser": 39,
+   "aufrufe": 43
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -309,14 +309,14 @@
    "tage": 7,
    "pfade": [
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 14,
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 15,
      "aufrufe": 16
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 14,
-     "aufrufe": 15
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -344,6 +344,11 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 7,
      "aufrufe": 7
@@ -357,11 +362,6 @@
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 6,
      "aufrufe": 7
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 6,
-     "aufrufe": 6
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -630,13 +630,13 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 45,
-     "aufrufe": 48
+     "leser": 46,
+     "aufrufe": 49
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 38,
-     "aufrufe": 42
+     "leser": 39,
+     "aufrufe": 43
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 140,
-     "aufrufe": 149
+     "leser": 141,
+     "aufrufe": 150
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -950,8 +950,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 79,
-     "aufrufe": 90
+     "leser": 80,
+     "aufrufe": 91
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 140,
-     "aufrufe": 149
+     "leser": 141,
+     "aufrufe": 150
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1255,8 +1255,8 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 79,
-     "aufrufe": 90
+     "leser": 80,
+     "aufrufe": 91
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1540,13 +1540,13 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 37,
-     "aufrufe": 37
+     "leser": 38,
+     "aufrufe": 38
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "leser": 24,
-     "aufrufe": 24
+     "leser": 25,
+     "aufrufe": 25
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
