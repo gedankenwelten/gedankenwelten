@@ -10,18 +10,18 @@
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "leser": 53,
-   "aufrufe": 61
+   "leser": 54,
+   "aufrufe": 62
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "leser": 51,
-   "aufrufe": 53
+   "leser": 50,
+   "aufrufe": 52
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "leser": 44,
-   "aufrufe": 47
+   "leser": 45,
+   "aufrufe": 48
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -30,8 +30,8 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "leser": 29,
-   "aufrufe": 30
+   "leser": 28,
+   "aufrufe": 29
   },
   {
    "pfad": "/DenkerVita/Kalayo",
@@ -84,11 +84,6 @@
    "aufrufe": 10
   },
   {
-   "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-   "leser": 9,
-   "aufrufe": 12
-  },
-  {
    "pfad": "/DenkerVita/Byung-Chul-Han",
    "leser": 9,
    "aufrufe": 11
@@ -102,6 +97,16 @@
    "pfad": "/DenkerVita/Giulia-Enders",
    "leser": 9,
    "aufrufe": 10
+  },
+  {
+   "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+   "leser": 9,
+   "aufrufe": 10
+  },
+  {
+   "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+   "leser": 7,
+   "aufrufe": 9
   },
   {
    "pfad": "/DenkerVita/Christian-Bauckhage",
@@ -134,11 +139,6 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Thomas-Eichstaedt",
-   "leser": 7,
-   "aufrufe": 7
-  },
-  {
    "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
    "leser": 7,
    "aufrufe": 7
@@ -149,17 +149,12 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-   "leser": 6,
-   "aufrufe": 8
-  },
-  {
-   "pfad": "/DenkerVita/Kerstin-Paschke",
-   "leser": 6,
-   "aufrufe": 8
-  },
-  {
    "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+   "leser": 6,
+   "aufrufe": 7
+  },
+  {
+   "pfad": "/DenkerVita/Thomas-Eichstaedt",
    "leser": 6,
    "aufrufe": 6
   },
@@ -175,6 +170,11 @@
   },
   {
    "pfad": "/DenkerVita/Hannah-Arendt",
+   "leser": 5,
+   "aufrufe": 7
+  },
+  {
+   "pfad": "/DenkerVita/Kerstin-Paschke",
    "leser": 5,
    "aufrufe": 7
   },
@@ -205,6 +205,11 @@
   },
   {
    "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+   "leser": 5,
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
    "leser": 5,
    "aufrufe": 5
   },
@@ -274,11 +279,6 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
    "leser": 4,
    "aufrufe": 4
@@ -309,6 +309,11 @@
    "tage": 7,
    "pfade": [
     {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 15,
+     "aufrufe": 16
+    },
+    {
      "pfad": "/DenkerVita/Hans-Maggi",
      "leser": 15,
      "aufrufe": 15
@@ -319,32 +324,27 @@
      "aufrufe": 16
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 14,
-     "aufrufe": 15
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 12,
-     "aufrufe": 12
-    },
-    {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "leser": 11,
      "aufrufe": 12
     },
     {
-     "pfad": "/DenkerVita/Stephan-Bartunek",
-     "leser": 9,
-     "aufrufe": 10
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "leser": 11,
+     "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "pfad": "/DenkerVita/Stephan-Bartunek",
      "leser": 8,
-     "aufrufe": 8
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 7,
      "aufrufe": 7
     },
@@ -384,11 +384,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Kalayo",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Panorama/Was-macht-Schule-mit-uns",
      "leser": 4,
      "aufrufe": 4
@@ -402,6 +397,11 @@
      "pfad": "/Geistesblitz/Christian-Bauckhage-Schon-wieder-Dekaden-vergangen",
      "leser": 3,
      "aufrufe": 5
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 3,
+     "aufrufe": 4
     },
     {
      "pfad": "/Panorama/Warum-waehlen-Menschen-Autoritaere",
@@ -434,17 +434,17 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/DenkerVita/Kalayo",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
      "pfad": "/DenkerVita/Kolja-Moeller",
      "leser": 3,
      "aufrufe": 3
     },
     {
      "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Agenten-10,-Schon-wieder-Dekaden-vergangen",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 3,
      "aufrufe": 3
     },
@@ -475,11 +475,6 @@
     },
     {
      "pfad": "/DenkerVita/Marcant",
-     "leser": 2,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Gedanken/Gefangene-des-Systems-Elitenerziehung-und-die-Verrohung-der-Macht",
      "leser": 2,
      "aufrufe": 3
     },
@@ -607,6 +602,11 @@
      "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "leser": 2,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
+     "leser": 2,
+     "aufrufe": 2
     }
    ]
   },
@@ -620,18 +620,18 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 53,
-     "aufrufe": 61
+     "leser": 54,
+     "aufrufe": 62
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 51,
-     "aufrufe": 53
+     "leser": 50,
+     "aufrufe": 52
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 44,
-     "aufrufe": 47
+     "leser": 45,
+     "aufrufe": 48
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -640,8 +640,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 29,
-     "aufrufe": 30
+     "leser": 28,
+     "aufrufe": 29
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -694,11 +694,6 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 12
-    },
-    {
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 9,
      "aufrufe": 11
@@ -712,6 +707,16 @@
      "pfad": "/DenkerVita/Giulia-Enders",
      "leser": 9,
      "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 9,
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 7,
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Christian-Bauckhage",
@@ -744,11 +749,6 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
-     "leser": 7,
-     "aufrufe": 7
-    },
-    {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
      "leser": 7,
      "aufrufe": 7
@@ -759,17 +759,12 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 6,
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
-     "leser": 6,
-     "aufrufe": 8
-    },
-    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 6,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 6,
      "aufrufe": 6
     },
@@ -785,6 +780,11 @@
     },
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
+     "leser": 5,
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 5,
      "aufrufe": 7
     },
@@ -815,6 +815,11 @@
     },
     {
      "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
      "leser": 5,
      "aufrufe": 5
     },
@@ -884,11 +889,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
      "leser": 4,
      "aufrufe": 4
@@ -930,8 +930,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 139,
-     "aufrufe": 148
+     "leser": 140,
+     "aufrufe": 149
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -945,8 +945,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 94,
-     "aufrufe": 106
+     "leser": 95,
+     "aufrufe": 107
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1101,7 +1101,7 @@
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 12,
-     "aufrufe": 12
+     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
@@ -1159,6 +1159,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 9,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/DenkerVita/Freddy-Leppin",
      "leser": 9,
      "aufrufe": 11
@@ -1197,11 +1202,6 @@
      "pfad": "/DenkerVita/Juergen-Kornmeier",
      "leser": 8,
      "aufrufe": 11
-    },
-    {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 8,
-     "aufrufe": 10
     },
     {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
@@ -1235,8 +1235,8 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 139,
-     "aufrufe": 148
+     "leser": 140,
+     "aufrufe": 149
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
@@ -1250,8 +1250,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 94,
-     "aufrufe": 106
+     "leser": 95,
+     "aufrufe": 107
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1406,7 +1406,7 @@
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 12,
-     "aufrufe": 12
+     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
@@ -1464,6 +1464,11 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 9,
+     "aufrufe": 11
+    },
+    {
      "pfad": "/DenkerVita/Freddy-Leppin",
      "leser": 9,
      "aufrufe": 11
@@ -1504,11 +1509,6 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
-     "leser": 8,
-     "aufrufe": 10
-    },
-    {
      "pfad": "/Denker/S.N.-Goenka-Vipassana",
      "leser": 8,
      "aufrufe": 10
@@ -1530,18 +1530,18 @@
    "pfade": [
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 43,
-     "aufrufe": 43
+     "leser": 42,
+     "aufrufe": 42
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 41,
-     "aufrufe": 41
+     "leser": 42,
+     "aufrufe": 42
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 36,
-     "aufrufe": 36
+     "leser": 37,
+     "aufrufe": 37
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1555,8 +1555,8 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "leser": 23,
-     "aufrufe": 23
+     "leser": 22,
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Kalayo",
@@ -1584,11 +1584,6 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
-     "leser": 9,
-     "aufrufe": 9
-    },
-    {
      "pfad": "/DenkerVita/Byung-Chul-Han",
      "leser": 8,
      "aufrufe": 8
@@ -1604,12 +1599,12 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "leser": 7,
-     "aufrufe": 7
+     "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
+     "leser": 8,
+     "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Thomas-Eichstaedt",
+     "pfad": "/DenkerVita/Albert-Camus",
      "leser": 7,
      "aufrufe": 7
     },
@@ -1629,6 +1624,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "leser": 7,
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "leser": 7,
      "aufrufe": 7
@@ -1644,7 +1644,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
+     "pfad": "/DenkerVita/Thomas-Eichstaedt",
      "leser": 6,
      "aufrufe": 6
     },
@@ -1674,6 +1674,11 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
+     "leser": 5,
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Ralf-Stockmann",
      "leser": 5,
      "aufrufe": 5
@@ -1689,17 +1694,7 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
-     "leser": 5,
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Ronnie-Vuine",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1715,6 +1710,11 @@
     },
     {
      "pfad": "/DenkerVita/Pascal-Kaufmann",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
      "leser": 4,
      "aufrufe": 4
     },
@@ -1799,11 +1799,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Martin-Oetting",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Jan-Keno-Janssen",
      "leser": 3,
      "aufrufe": 3
@@ -1825,6 +1820,11 @@
     },
     {
      "pfad": "/Zeitgeist/Susan-Neiman-Nennen-wir-es-boese",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Christof-Spitz",
      "leser": 2,
      "aufrufe": 2
     }
