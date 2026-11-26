@@ -172,7 +172,7 @@ Natrium-Ionen-Batterie als empirisches Gegenstück zu Goldbachs These über igno
 
 ### → [[Erwin Thoma — Strategien der Natur]]
 
-Die Eisbären-Anpassung (Rentiere statt Robben) und Thomas Naturstrategien beschreiben dasselbe: Komplexe Systeme haben Redundanz, die lineare Prognosen systematisch unterschätzen. Thoma nennt es Strategie, der Eisbär lebt es — gemeinsam eine Kritik am Katastrophendenken.
+Die Eisbären, die auf Rentiere statt Robben ausweichen, passen zu Thomas Satz, die Erde sei kein Ort des Mangels. Ein Einzelfall von Anpassung, keine Entwarnung; die Verbindung ist unsere.
 
 ### → [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 

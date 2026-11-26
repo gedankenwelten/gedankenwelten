@@ -5,13 +5,13 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "leser": 105,
-   "aufrufe": 125
+   "leser": 103,
+   "aufrufe": 123
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
    "leser": 54,
-   "aufrufe": 62
+   "aufrufe": 61
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
@@ -55,18 +55,18 @@
   },
   {
    "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "leser": 15,
-   "aufrufe": 15
-  },
-  {
-   "pfad": "/DenkerVita/Der-Dara",
-   "leser": 13,
-   "aufrufe": 14
+   "leser": 16,
+   "aufrufe": 16
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
    "leser": 12,
    "aufrufe": 17
+  },
+  {
+   "pfad": "/DenkerVita/Der-Dara",
+   "leser": 12,
+   "aufrufe": 13
   },
   {
    "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -79,14 +79,14 @@
    "aufrufe": 12
   },
   {
+   "pfad": "/DenkerVita/Byung-Chul-Han",
+   "leser": 10,
+   "aufrufe": 12
+  },
+  {
    "pfad": "/DenkerVita/Albert-Camus",
    "leser": 10,
    "aufrufe": 10
-  },
-  {
-   "pfad": "/DenkerVita/Byung-Chul-Han",
-   "leser": 9,
-   "aufrufe": 11
   },
   {
    "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -151,7 +151,7 @@
   {
    "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
    "leser": 6,
-   "aufrufe": 7
+   "aufrufe": 9
   },
   {
    "pfad": "/DenkerVita/Thomas-Eichstaedt",
@@ -289,17 +289,17 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Elmar-Thevessen",
-   "leser": 4,
-   "aufrufe": 4
-  },
-  {
    "pfad": "/DenkerVita/Gert-Scobel",
    "leser": 4,
    "aufrufe": 4
   },
   {
    "pfad": "/DenkerVita/Mae-Bengert",
+   "leser": 4,
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Pascal-Kaufmann",
    "leser": 4,
    "aufrufe": 4
   }
@@ -309,19 +309,19 @@
    "tage": 7,
    "pfade": [
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "leser": 15,
-     "aufrufe": 16
-    },
-    {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "leser": 15,
-     "aufrufe": 15
-    },
-    {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 14,
      "aufrufe": 16
+    },
+    {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "leser": 14,
+     "aufrufe": 15
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "leser": 14,
+     "aufrufe": 14
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
@@ -339,6 +339,11 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 7,
+     "aufrufe": 8
+    },
+    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 7,
      "aufrufe": 7
@@ -346,11 +351,6 @@
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
      "leser": 7,
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 6,
      "aufrufe": 7
     },
     {
@@ -384,24 +384,24 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/DenkerVita/Kalayo",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Panorama/Was-macht-Schule-mit-uns",
      "leser": 4,
      "aufrufe": 4
     },
     {
-     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 3,
-     "aufrufe": 5
+     "aufrufe": 6
     },
     {
      "pfad": "/Geistesblitz/Christian-Bauckhage-Schon-wieder-Dekaden-vergangen",
      "leser": 3,
      "aufrufe": 5
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 3,
-     "aufrufe": 4
     },
     {
      "pfad": "/Panorama/Warum-waehlen-Menschen-Autoritaere",
@@ -412,6 +412,11 @@
      "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
      "leser": 3,
      "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "leser": 3,
+     "aufrufe": 3
     },
     {
      "pfad": "/Denker/Simone-Weil-Aufmerksamkeit,-die-seltenste-Grosszuegigkeit",
@@ -430,11 +435,6 @@
     },
     {
      "pfad": "/DenkerVita/Jochen-Grossmann",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Kalayo",
      "leser": 3,
      "aufrufe": 3
     },
@@ -469,12 +469,22 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Gedanken/Wer-die-Begriffe-praegt-Sprache,-Macht-und-die-Haltung-des-Lernenden",
+     "leser": 2,
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Panorama/Was-macht-die-KI-aus-unserem-Denken",
      "leser": 2,
      "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Marcant",
+     "leser": 2,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-April-2026",
      "leser": 2,
      "aufrufe": 3
     },
@@ -490,11 +500,6 @@
     },
     {
      "pfad": "/Denker/Agnes-Callard-Warum-lohnt-sich-ein-sokratisches-Leben",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "leser": 2,
      "aufrufe": 2
     },
@@ -574,6 +579,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-September-2026",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Spuren/Gen-Z-regelt-und-was-danach-geregelt-wird",
      "leser": 2,
      "aufrufe": 2
@@ -597,16 +607,6 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 2,
      "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
-     "leser": 2,
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Stefan-Creuzberger-Geschichtspolitik-Deutschland-und-Russland",
-     "leser": 2,
-     "aufrufe": 2
     }
    ]
   },
@@ -615,13 +615,13 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "leser": 105,
-     "aufrufe": 125
+     "leser": 103,
+     "aufrufe": 123
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "leser": 54,
-     "aufrufe": 62
+     "aufrufe": 61
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -665,18 +665,18 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 15,
-     "aufrufe": 15
-    },
-    {
-     "pfad": "/DenkerVita/Der-Dara",
-     "leser": 13,
-     "aufrufe": 14
+     "leser": 16,
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "leser": 12,
      "aufrufe": 17
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
+     "leser": 12,
+     "aufrufe": 13
     },
     {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
@@ -689,14 +689,14 @@
      "aufrufe": 12
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 10,
+     "aufrufe": 12
+    },
+    {
      "pfad": "/DenkerVita/Albert-Camus",
      "leser": 10,
      "aufrufe": 10
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 9,
-     "aufrufe": 11
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -761,7 +761,7 @@
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
      "leser": 6,
-     "aufrufe": 7
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Thomas-Eichstaedt",
@@ -899,17 +899,17 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Elmar-Thevessen",
-     "leser": 4,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Gert-Scobel",
      "leser": 4,
      "aufrufe": 4
     },
     {
      "pfad": "/DenkerVita/Mae-Bengert",
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Pascal-Kaufmann",
      "leser": 4,
      "aufrufe": 4
     }
@@ -945,8 +945,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 95,
-     "aufrufe": 107
+     "leser": 96,
+     "aufrufe": 108
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -955,8 +955,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 64,
-     "aufrufe": 71
+     "leser": 65,
+     "aufrufe": 72
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -970,8 +970,8 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 34,
-     "aufrufe": 37
+     "leser": 35,
+     "aufrufe": 38
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -1014,6 +1014,11 @@
      "aufrufe": 22
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 18,
+     "aufrufe": 20
+    },
+    {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "leser": 18,
      "aufrufe": 19
@@ -1027,11 +1032,6 @@
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 18,
      "aufrufe": 18
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 17,
-     "aufrufe": 19
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
@@ -1084,6 +1084,11 @@
      "aufrufe": 16
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 12,
+     "aufrufe": 15
+    },
+    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 12,
      "aufrufe": 15
@@ -1097,11 +1102,6 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 12,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 12,
-     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
@@ -1250,8 +1250,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 95,
-     "aufrufe": 107
+     "leser": 96,
+     "aufrufe": 108
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
@@ -1260,8 +1260,8 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "leser": 64,
-     "aufrufe": 71
+     "leser": 65,
+     "aufrufe": 72
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -1275,8 +1275,8 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 34,
-     "aufrufe": 37
+     "leser": 35,
+     "aufrufe": 38
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
@@ -1319,6 +1319,11 @@
      "aufrufe": 22
     },
     {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "leser": 18,
+     "aufrufe": 20
+    },
+    {
      "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "leser": 18,
      "aufrufe": 19
@@ -1332,11 +1337,6 @@
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 18,
      "aufrufe": 18
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 17,
-     "aufrufe": 19
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
@@ -1389,6 +1389,11 @@
      "aufrufe": 16
     },
     {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "leser": 12,
+     "aufrufe": 15
+    },
+    {
      "pfad": "/Zeitgeist/Ardalan-Ibrahim-Die-Partei-fuer-Losdemokratie",
      "leser": 12,
      "aufrufe": 15
@@ -1402,11 +1407,6 @@
      "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "leser": 12,
      "aufrufe": 14
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "leser": 12,
-     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
@@ -1535,8 +1535,8 @@
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "leser": 42,
-     "aufrufe": 42
+     "leser": 41,
+     "aufrufe": 41
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
@@ -1560,8 +1560,8 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "leser": 20,
-     "aufrufe": 20
+     "leser": 21,
+     "aufrufe": 21
     },
     {
      "pfad": "/DenkerVita/Hartmut-Rosa",
@@ -1585,8 +1585,8 @@
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "leser": 8,
-     "aufrufe": 8
+     "leser": 9,
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -1779,11 +1779,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Elmar-Thevessen",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Lilith-Roska",
      "leser": 3,
      "aufrufe": 3
@@ -1804,11 +1799,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Yonatan-Zeigen",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Jihan-Alomar-Gefangen-vom-Islamischen-Staat",
      "leser": 2,
      "aufrufe": 2
@@ -1825,6 +1815,16 @@
     },
     {
      "pfad": "/DenkerVita/Christof-Spitz",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Martin-Buber",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen",
      "leser": 2,
      "aufrufe": 2
     }

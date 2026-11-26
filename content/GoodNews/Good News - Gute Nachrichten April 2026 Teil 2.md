@@ -208,7 +208,7 @@ Die 30-Hills-Story ist Kehnels Commons-These im Tropenwald: Schutz funktioniert 
 
 ### → [[Erwin Thoma — Strategien der Natur]]
 
-Die Floreana-Schildkröte und das Tiefsee-Korallenriff illustrieren Thomas Kernthese: Was wir „ausgestorben" oder „nicht vorhanden" nennen, ist oft nur unsichtbar. Natur hat Redundanzen und Refugien, die unsere linearen Modelle systematisch unterschätzen.
+Die Floreana-Schildkröte und das Tiefsee-Korallenriff zeigen, dass manches, was wir „ausgestorben“ oder „nicht vorhanden“ nennen, nur unentdeckt war. Das passt zu Thomas Satz, die Erde sei kein Ort des Mangels; die Verbindung ist unsere.
 
 ### → [[Steffen Mau — Spaltung der Gesellschaft]]
 
