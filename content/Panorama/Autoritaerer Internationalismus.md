@@ -1,8 +1,8 @@
 ---
 title: "Autoritärer Internationalismus — Die globale Rechte"
-description: "Was wie viele nationale Bewegungen aussieht, teilt Netzwerke, Geldgeber und Erzählungen. Das Panorama kartiert die globale Rechte von CPAC und Atlas bis Palantir – und was ihr entgegensteht."
+description: "Was wie viele nationale Bewegungen aussieht, teilt Netzwerke, Geldgeber und Erzählungen. Das Panorama kartiert die globale Rechte von CPAC und Atlas bis Palantir, was ihr entgegensteht und was bleibt, wenn sie abgewählt wird."
 date: 2026-04-27
-aktualisiert: 2026-07-25
+aktualisiert: 2026-11-26
 tags:
   - panorama
   - luc
@@ -28,7 +28,7 @@ raetsel: "Jeder Knoten hält sich für ein Land."
 </details>
 
 > [!abstract] Worum es geht
-> Trump, Orbán, Meloni, Milei: Was wie viele nationale Bewegungen aussieht, teilt zu einem guten Teil Netzwerke, Geldgeber und Erzählungen. Das Panorama kartiert sie, von CPAC, Heritage und Atlas über die Tech-Konzerne bis zur Erzählung vom „Großen Austausch“, und fragt, was dagegen trägt: Transparenz, digitale Souveränität, freie Medien, demokratische Kultur. Es ist ein Stand vom Frühjahr 2026. Seither ist Orbán abgewählt und DOGE aufgelöst.
+> Trump, Orbán, Meloni, Milei: Was wie viele nationale Bewegungen aussieht, teilt zu einem guten Teil Netzwerke, Geldgeber und Erzählungen. Das Panorama kartiert sie, von CPAC, Heritage und Atlas über die Tech-Konzerne bis zur Erzählung vom „Großen Austausch“, und fragt, was dagegen trägt: Transparenz, digitale Souveränität, freie Medien, demokratische Kultur. Geschrieben im Frühjahr 2026, fortgeschrieben im November: Orbán ist abgewählt, und sein Nachfolger räumt die Ämter mit Orbáns eigenem Werkzeug. In den USA haben die Republikaner beide Kammern des Kongresses verloren. Das Netz hat beides nicht verhindert. Verschwunden ist es deshalb nicht.
 
 ## Warum dieses Thema?
 
@@ -36,7 +36,7 @@ Die autoritäre Wende ist kein nationales Phänomen — sie ist ein **globales P
 
 Das Neue am autoritären Internationalismus des 21. Jahrhunderts ist die **technologische Dimension**: Palantir bündelt im Rahmenvertrag der US-Armee Software für bis zu 10 Mrd. \$, Musk kontrolliert über Starlink einen Teil der globalen Kommunikation, und DOGE baute 2025 Teile des US-Verwaltungsapparats ab, bis es 2026 aufgelöst wurde. Es ist nicht mehr Faschismus mit Braunhemden — es ist Faschismus mit Servern.
 
-Dieses Panorama bündelt 30+ Notes, die das Phänomen aus fünf Perspektiven beleuchten: die Netzwerk-Infrastruktur, die Tech-Oligarchie, die ideologischen Werkzeuge, die Modell-Autokratien und die Propagandamaschine. Danach fragt es nach Gegenstrategien.
+Dieses Panorama bündelt 30+ Notes, die das Phänomen aus sechs Perspektiven beleuchten: die Netzwerk-Infrastruktur, die Tech-Oligarchie, die ideologischen Werkzeuge, die Modell-Autokratien, die Ränder des Netzes und die Propagandamaschine. Danach fragt es nach Gegenstrategien und, seit November 2026, danach, was geschieht, wenn die Autoritären abgewählt werden.
 
 ---
 
@@ -53,6 +53,8 @@ Dieses Panorama bündelt 30+ Notes, die das Phänomen aus fünf Perspektiven bel
 **Atlas Network** ist der globale Multiplikator: Gegründet 1981 von Antony Fisher, den Friedrich August von Hayek beraten hatte, heute über 500 Partnerorganisationen in mehr als 100 Ländern. Selbstbeschreibung: „A think tank that creates think tanks." Mit der Tabakindustrie ist das Netzwerk eng verbunden: Nach einer Recherche des Guardian von 2019 hatte mehr als ein Fünftel der Partner gegen Tabakkontrollen argumentiert, Geld der Industrie angenommen oder beides ([Smith, Thompson & Lee 2016](https://doi.org/10.1002/hpm.2351), Dokumentenanalyse). Dazu kommen Verbindungen zur Öl- und Gaslobby und zu Kampagnen gegen Klimaschutz. In Deutschland ist das Prometheus-Institut Atlas-Partner, mitgegründet vom langjährigen FDP-Abgeordneten Frank Schäffler. ([Wegweiser: Wikipedia — Atlas Network](https://en.wikipedia.org/wiki/Atlas_Network))
 
 **Steve Bannon** nannte sich 2018 in einer Nachricht an Jeffrey Epstein unter anderem Berater der AfD, so steht es in den veröffentlichten Epstein-Akten; die AfD bestreitet ein Beratungsverhältnis ([Guardian, 05.02.2026](https://www.theguardian.com/us-news/2026/feb/05/jeffrey-epstein-files-steve-bannon-european-politics)). Das **US-Außenministerium** plante Anfang 2026 ein Förderprogramm für Gleichgesinnte mit Schwerpunkt London, Paris, Berlin und Brüssel; im Sommer folgte eine Ausschreibung über rund 4,9 Mio. \$ ([Politico](https://www.politico.eu/article/maga-friendly-european-think-tanks-donald-trump-funding/), [State Department](https://www.state.gov/releases/bureau-of-democracy-human-rights-and-labor/2026/08/notice-of-funding-opportunity-nofo-drl-promoting-sovereignty-and-rule-of-law-in-europe/)). Die Denkfabrik **R21** um Andreas Rödder und Kristina Schröder, gegründet 2021, teilt für den Journalisten Benjamin Biersky die Weltanschauung von Heritage; ihre Konferenz zur Meinungsfreiheit im April 2026 hatte allerdings ein gemischtes Podium.
+
+Wie weit ein solches Netz trägt, ist eine eigene Frage, und Bannon selbst ist das beste Beispiel dagegen. 2018 kündigte er in Brüssel „The Movement“ an, eine Zentrale, die den rechten Parteien Europas vor der Europawahl 2019 mit Umfragen, Daten und „War Rooms“ helfen sollte. [[FRONTLINE — Bannons War#Europa das Netz, das nicht hielt|Der Guardian-Reporter Paul Lewis]] begleitete das Unternehmen vier Monate lang. Am Ende war Salvini beigetreten; Marine Le Pen und Orbán hielten Abstand, weil sie keinen Amerikaner in ihren Wahlkämpfen wollten. In mindestens neun der dreizehn Zielländer verbot das Wahlrecht seine Hilfe oder deckelte sie, bis sie wertlos war, in Deutschland bei 1.000 Euro für ausländische Spender. Ein Jahr später löste sich die Partei seines Brüsseler Geschäftsführers Mischaël Modrikamen auf. Die Note zieht daraus einen Maßstab, und wir halten ihn auch für dieses Panorama für den richtigen: Die Macht eines Netzwerkers liest man an den Wörtern und Themen ab, die durch ihn in die Mitte wandern, nicht an den Organisationen, die er gründet, und nicht an den Fotos mit Siegern. Wer Bannon für den Architekten der europäischen Rechten hält, unterschätzt, wie hausgemacht ihr Aufstieg ist, von Salvini bis zur AfD.
 
 → [Lösungsansatz ↓](#transparenz-und-netzwerk-kartierung)
 
@@ -117,6 +119,23 @@ Temelkurans entscheidende Beobachtung: Die **Geschwindigkeit** und **Waffenisier
 - **Deutschland** (Springer/Döpfner): die 2023 geleakten Nachrichten Döpfners an Reichelt, das Blatt als politisches Instrument; ÖR unter Druck
 
 → [Lösungsansatz ↓](#unabhängige-medien-schützen)
+
+---
+
+### Die Ränder des Netzes: Milei, Bukele, Modi
+
+Drei Namen fallen in fast jeder Aufzählung der globalen Rechten, und zu keinem gibt es bei uns eine eigene Note. Was die anderen Notes über sie sagen, zeigt vor allem, wie verschieden weit sie vom Netz entfernt stehen.
+
+**Javier Milei** steht mitten darin. Am 20. Februar 2025 übergab er Elon Musk auf der CPAC-Bühne eine Kettensäge, *„chainsaw for bureaucracy“* ([[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Nachtsitzung]]). Peter Thiel traf ihn im April 2026 in Buenos Aires, wo er sich eine Villa gekauft hat; dass die beiden dabei Sonderkonditionen für Steuern aushandelten, ist nicht belegt, nach Milei ging es darum, wie die Regierung ihre Sparpolitik durchhält ([[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|Nachtsitzung]]). Wie die Wörter wandern, erzählt Andreas Kemper an Frauke Petry: Sie habe eine Zeit lang unter jeden ihrer Beiträge auf X *„¡Afuera!“* geschrieben, „Raus!“, das Schlagwort, mit dem Milei Ministerien absägt ([[Andreas Kemper — Faschismen im 21. Jahrhundert|Kemper]]). Der Kanal BissenBlaBla misst Milei an seinen eigenen Versprechen und kommt zu einer gemischten Bilanz. Die Inflation, bei Amtsantritt im Dezember 2023 bei 211 %, ist stark gesunken, und auch die Armut ist nach dem Video wieder zurückgegangen (die genaue Zahl ließ sich nicht bestätigen). Die Industrie lief Ende 2025 nur noch zu 53,8 % ihrer Kapazität, und Reporter ohne Grenzen führte Argentinien 2025 als größten Absteiger der Pressefreiheit weltweit, nachdem Milei die staatliche Nachrichtenagentur Télam geschlossen hatte ([[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen#Muster II — Wirtschaftliche Bilanz Versprechen vs. Realität|BissenBlaBla]]). Der Kanal nennt Milei keinen Rechtsnationalen, sondern einen radikalen Libertären, und sein Land ein laufendes Experiment mit offenem Ausgang.
+
+**Nayib Bukele** ist eher ein Dienstleister des Netzes als ein Knoten darin. Im März 2025 ließ die US-Regierung Migranten nach einem Gesetz von 1798 ohne Verfahren in sein Großgefängnis CECOT bringen ([[DenkerVita/Donald Trump|Trump-Vita]]). Als CBS darüber einen Beitrag in „60 Minutes“ senden wollte, zog ihn die neue Chefredakteurin Bari Weiss einen Tag vorher zurück (→ Medienübernahme oben). Kemper stellt das Gefängnis neben Martin Sellners Pläne für eine „Remigration“ und sagt, Erik Prince, der Gründer der Söldnerfirma Blackwater, würde das System gern ausbauen und teilweise privatisieren. Ideologisch sieht Kendi bei Bukele eine Abwandlung der Austausch-Erzählung: Die Bedrohung sind bei ihm nicht Einwanderer, sondern die Banden, die inneren Feinde der „guten Menschen“ ([[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie|Kendi]]). Was Bukele im eigenen Land tut und warum so viele Salvadorianer ihn wählen, behandelt keine unserer Notes. Hier ist die Lücke am größten.
+
+**Narendra Modi** steht, soweit unsere Notes reichen, am weitesten draußen. Auf den Bühnen von CPAC taucht er bei uns nicht auf; im September 2026 saß er beim BRICS-Gipfel in Delhi mit Putin und Xi am Tisch ([[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Notte und Lagodinsky]]). Der Essayist Pankaj Mishra beginnt sein Buch über das *Zeitalter des Zorns* mit Modis Wahl 2014. Viele in Indien hielten ihn nach Mishras Worten für einen Mann, der ins Gefängnis gehörte (die USA hatten ihm 2005, drei Jahre nach den Pogromen in Gujarat, das Visum entzogen), und gewählt hatte ihn auch Mishras eigene Familie. Mishra erklärt daraus nicht die Wähler, er befragt sich selbst. Das Ressentiment gegen eine englischsprachige Elite, die von Demokratie und Fortschritt sprach und sich dabei die Nester polsterte, kennt er aus seiner Kindheit in kleinen Orten Indiens. Über Modis Klage gegen diese Elite sagt er: *„he is right to a certain extent“* ([[Pankaj Mishra — Zeitalter des Zorns#Der entfremdete junge Mann der Verheißung|Mishra]]). BissenBlaBla zählt Indien zu den gemischten Fällen, mit Wachstum, aber auch mehr Ungleichheit und religiöser Spaltung, und fragt, ob das Wachstum Modi gehört oder der Öffnung seit 1991, die er geerbt hat.
+
+Aus der Nähe betrachtet zerfällt die Aufzählung also. Milei ist Teil der Bühne, Bukele vermietet ihr ein Gefängnis, und Modi braucht sie nicht. Gemeinsam ist den dreien, soweit wir sehen, weniger ein Netz als ein Stil: der Kampf gegen eine Elite, die als korrupt und abgehoben gilt, und die Kettensäge, das Gefängnis oder der starke Mann als Antwort darauf. Das ist unsere Lesart, keine der Notes zieht diesen Vergleich.
+
+> [!question] Weitergedacht
+> Mishra gibt Modis Elitenkritik zu einem Teil recht, BissenBlaBla misst Milei an seinen eigenen Versprechen. *Wie viel verliert eine Gegenwehr, die nur das Netz sieht und nicht den berechtigten Kern der Wut, auf dem es aufsitzt?*
 
 ---
 
@@ -216,14 +235,47 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Glück,
 
 ---
 
+## Was seither geschah
+
+*Stand 26.11.2026. Das Panorama entstand im Frühjahr; hier steht, was es damals nicht wissen konnte. Alles stammt aus Notes und Spuren, die das Geschehen verfolgen.*
+
+### Ungarn: Die Blaupause wird abgewählt
+
+Am 12. April 2026 verlor Orbán nach sechzehn Jahren. Tisza, die Partei von Péter Magyar, gewann 141 von 199 Sitzen, und Orbán räumte die Niederlage noch am Wahlabend ein. Das Netz hatte ihn bis zuletzt gestützt. US-Vizepräsident JD Vance reiste im Wahlkampf eigens nach Ungarn ([[phoenix — Orbán abgewählt]]). Fidesz flutete den Wahlkampf mit KI-Videos gegen Magyar, Orbán postete selbst ein als KI gekennzeichnetes, erfundenes Telefonat zwischen Magyar und Ursula von der Leyen, und daneben streute die russische Kampagne Storm-1516 Fälschungen über Tisza ([[rabbit hole — Ungarn-Wahl KI-Wahlkampf]]). Es half alles nicht.
+
+Warum, erklärt die Politikwissenschaftlerin Andrea Gawrich am Wahlabend. Die Feindbilder (Brüssel, queere Menschen, zuletzt die Ukraine und die Angst vor dem Krieg) zogen nicht mehr, entscheidend war das Versagen im Innern: Schulen, Krankenhäuser, eine Wirtschaft, die seit Jahren stagniert, Korruption. Magyar war glaubwürdig, weil er aus dem Fidesz-Umfeld kam und sich gegen die Korruption stellte, und er war an rund 700 Orten, in allen 106 Wahlkreisen. Gawrich nennt noch eine Bedingung, die leicht übersehen wird: *„Der autokratische Instrumentenkasten ist sehr groß. Der entscheidende Punkt an diesem Abend ist, dass Viktor Orbán sich dagegen entschieden hat, irgendwelche False-Flag-Aktionen zu initiieren, mit denen er das Wahlergebnis delegitimieren könnte.“* Die Blaupause hatte also auch eine Grenze, die ihr Erfinder am Ende selbst einhielt.
+
+Ivan Krastev, der bulgarische Politologe, warnt vor zu viel Freude. Magyar ist kein Liberaler, und in der Migrationsfrage vertritt er keine andere Position als Orbán. Krastev zitiert ein ungarisches Sprichwort: *„Die Gesichter ändern sich, aber die Ärsche bleiben.“* Und trotzdem: *„Orbáns Niederlage in Ungarn bedeutet nicht, dass Le Pen in Frankreich oder die AfD in Deutschland nicht gewinnen. Aber es zeigt, dass die Menschen in einer Demokratie entscheiden“* ([[Ivan Krastev — Wie zukunftsfaehig ist Europa#Orbáns Niederlage — und ihre Grenzen|Krastev]]).
+
+### Der Rückbau mit dem Werkzeug des Vorgängers
+
+Seither zeigt sich, was [[Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs]] vor der Wahl den Unterschied zwischen Regierungswechsel und Regimewechsel genannt hat. Orbán hatte vor der Wahl neue Leute an die Spitze von Verfassungsgericht und Staatsanwaltschaft gesetzt und den Präsidenten schwerer absetzbar gemacht. Am 13. Juli beschloss das Parlament die 17. Verfassungsänderung, mit 139 zu 6 Stimmen, während Fidesz die Sitzung boykottierte. Sie beendete die Amtszeit von Präsident Sulyok und senkte die Altersgrenze der Verfassungsrichter, was den Gerichtspräsidenten Péter Polt und drei weitere Richter aus dem Amt brachte. Neuer Präsident ist András Baka, dessen Amtszeit als Präsident des Obersten Gerichts Orbán 2012 auf genau diese Weise beendet hatte; der Europäische Gerichtshof für Menschenrechte gab Baka 2016 recht. Magyar benutzt dafür Orbáns eigenes Werkzeug. Seit Orbáns Vierter Verfassungsänderung von 2013 darf das Verfassungsgericht Verfassungsänderungen nur noch auf Verfahrensfehler prüfen, eine Zweidrittelmehrheit ist inhaltlich unangreifbar ([[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Spur: Abgewählt]]).
+
+Der Verfassungsblog hält solche Personalwechsel in einer Übergangszeit für möglicherweise legitim und weist darauf hin, dass Sulyok erneut kandidieren durfte; Fidesz nennt sie eine politische Säuberung. Beides kann zugleich wahr sein, und die Spur hält selbst dagegen: Eine Übergangsbestimmung, die einmal greift und dann ausläuft, ist etwas anderes als fünfzehn Verfassungsänderungen nach Tagesbedarf. Wenn irgendwo ein Rückbau gelingt, dann wohl in Ungarn. Dazu kommt die Abrechnung: Ein neu gegründetes Amt für Vermögensrückgewinnung mit eigenen Ermittlungsbefugnissen fand bei einem früheren Minister rund 17,7 Mio. € in bar, zum Teil im Wald vergraben (er bestreitet die Vorwürfe); seit der Wahl wurden drei frühere Minister festgenommen. Magyar sagte im November, die Orbán-Partei sei ab heute *„nichts weiter als eine organisierte kriminelle Vereinigung“*. Das ist bisher ein Satz und keine Maßnahme. Es ist aber genau die Richtung, an der sich entscheidet, ob Fidesz als Opposition frei antreten kann. Die Spur hält es für wahrscheinlicher als nicht (55 %), dass von den drei Ländern, die 2026 ihre Autoritären abgewählt oder ihre Rückkehr verhindert haben, Ungarn, Serbien und Brasilien, bis zum V-Dem-Bericht im Frühjahr 2029 höchstens eines einen Rückbau schafft, der hält und dabei die eigenen Regeln achtet.
+
+### USA: Der Kongress wechselt
+
+Bei den Zwischenwahlen am 3. November 2026 haben die Republikaner nach den Hochrechnungen der Sender beide Kammern verloren, deutlicher, als fast alle erwartet hatten; im Senat zählt NBC 55 Sitze für die Demokraten. Trump erkannte das Ergebnis am Wahlabend an und fragte sechs Tage später ohne Belege, ob jemand die Wahl wirklich für ehrlich halte ([[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028|Spur: Halbzeit]]). Der neue Kongress tritt am 3. Januar 2027 zusammen; dann kann ein Parlament wieder Akten anfordern und unter Eid befragen. DOGE ist schon 2026 aufgelöst worden. Am Morgen nach der Wahl fragten drei ZDF-Korrespondenten, was eine Abwahl ist, solange keiner weiß, wer sie erntet ([[auslandsjournal — Ausgetrumpt]]).
+
+### Was das für dieses Bild heißt
+
+Das Netz schützt nicht vor den Wählern. Geld, Konferenzen, ein Vizepräsident im Wahlkampf und eine Flut aus KI-Videos haben Orbán nicht gehalten, und im Herzland des Netzes hat die Regierung ihre Mehrheit im Parlament verloren. Das passt zu Bannons Scheitern in Europa: Was über Grenzen hinweg zusammenarbeitet, ersetzt nicht die Gründe, aus denen Menschen im eigenen Land wählen.
+
+Abgewählt heißt aber nicht verschwunden. Orbán sprach am Wahlabend von 2,5 Millionen Wählern, die ihm treu blieben: *„Wir geben niemals auf.“* In Brasilien stimmten 48,2 % für das Lager Bolsonaros. Am Wahlabend zählte Gawrich auf, wo Orbáns Leute auf teils jahrzehntelange Amtszeiten sitzen: in Verfassungsgericht, Oberstem Gericht, Nationalbank und Haushaltsrat. Vom Verfassungsgericht hat die Verfassungsänderung seither einen Teil geräumt. Und vieles, was dieses Panorama beschreibt, hängt an keiner Wahl: Atlas, Heritage und die Stiftungen bleiben, und der Rahmenvertrag der US-Armee mit Palantir läuft zehn Jahre. Die Spur trägt als Wandspruch einen Satz, der die Lage genau trifft: *„Der Schlüssel, der die Tür verschloss, passt auch, um sie zu öffnen. Wer ihn dreht, hält ihn danach in der Hand.“*
+
+> [!question] Weitergedacht
+> Magyar räumt die Ämter mit dem Werkzeug, das Orbán gebaut hat. *Gibt es einen Rückbau, der schneller ist als die Ämter des Vorgängers und trotzdem nicht so aussieht wie er?*
+
+---
+
 ## Offene Fragen
 
 - Wie reagieren Demokratien, wenn ein einzelner Mensch (Musk) über Starlink die Kommunikationsinfrastruktur ganzer Länder kontrolliert?
 - Kann die EU mit DSA und AI Act eine Alternative zum US-Modell (Tech-Oligarchie) und China-Modell (Staats-Überwachung) etablieren?
-- Orbán ist im April 2026 abgewählt worden. Was folgt daraus für den autoritären Internationalismus, Dominoeffekt oder Hydra, und wie viel von seinem System überdauert die Abwahl?
+- Orbán ist im April 2026 abgewählt worden, und sein Nachfolger räumt die Ämter mit Orbáns Werkzeug. Was folgt daraus für den autoritären Internationalismus, Dominoeffekt oder Hydra, und was wird aus dem Werkzeug, wenn es einmal benutzt ist? (→ [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck|Spur: Abgewählt]])
 - Ist Project 2025 reversibel — oder hat die „Institutionalisierung des Trumpismus" (Kevin Roberts) bereits dauerhafte Fakten geschaffen?
 - Wie wirkt sich KI-generierte Desinformation auf kommende Wahlen weltweit aus?
-- **Modi, Bukele, Milei**: Zu diesen Akteuren gibt es hier noch keine eigenen Notes — sie tauchen nur als Referenzen auf. Lücke füllen?
+- **Modi, Bukele, Milei**: Was wir über sie wissen, steht verstreut in anderen Notes (→ [Die Ränder des Netzes](#die-ränder-des-netzes-milei-bukele-modi)). Eigene Notes fehlen weiter, am deutlichsten zu Bukele: Was er in El Salvador tut und warum so viele ihn wählen, sehen wir bisher nur vom Rand aus.
 - Fromms Grundfrage bleibt global offen: Wenn der autoritäre Charakter eine Flucht vor der Freiheit ist — wie macht man Freiheit **weltweit** attraktiver als Unterwerfung? Goenka und Ricard deuten eine Antwort an: Freiheit wird attraktiv, wenn sie *erfahrbar* wird — nicht als Konzept, sondern als gelebter Zustand (Upekkhā). Aber: Skaliert das?
 
 ---
@@ -271,6 +323,16 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Glück,
 | [[Andreas Kemper — Technofaschismus und die AfD]] | Theorie · Silicon Valley → AfD |
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Empirie · Modell-Autokratie Ungarn |
 | [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]] | Empirie · Wahlautokratie wankt |
+| [[phoenix — Orbán abgewählt]] | Empirie · Warum Orbán verlor, Vance im Wahlkampf |
+| [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] | Propaganda · KI-Fakes und Storm-1516, die Orbán nicht retteten |
+| [[Ivan Krastev — Wie zukunftsfaehig ist Europa]] | Empirie · Orbáns Niederlage und ihre Grenzen |
+| [[Spuren/Abgewaehlt-kehrt-die-Demokratie-zurueck\|Spur: Abgewählt — kehrt die Demokratie zurück?]] | Seither · Rückbau in Ungarn, Serbien, Brasilien |
+| [[Spuren/Halbzeit-Amerika-zwischen-den-Midterms-und-2028\|Spur: Halbzeit — Amerika zwischen den Midterms und 2028]] | Seither · Die Republikaner verlieren den Kongress |
+| [[auslandsjournal — Ausgetrumpt]] | Seither · Der Morgen nach den Midterms |
+| [[FRONTLINE — Bannons War]] | Netzwerk · Bannons Europa-Netz, das nicht hielt |
+| [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel]] | Ränder · Thiel in Buenos Aires, Treffen mit Milei |
+| [[Pankaj Mishra — Zeitalter des Zorns]] | Ränder · Modi und das Ressentiment gegen die Elite |
+| [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen]] | Ränder · Modi, Putin und Xi beim BRICS-Gipfel |
 | [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] | Medien · Globale Übernahme |
 | [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]] | Medien · Zivilgesellschaft |
 | [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]] | Medien · Desinformation |
@@ -305,7 +367,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Glück,
 > [!question] Was in diesem Bild fehlt
 > - Das Panorama sieht vor allem die Angebotsseite, Netzwerke und Geld. *Wie viel erklärt das, wenn Millionen diese Parteien aus eigenen Gründen wählen?*
 > - Wenn Atlas, Heritage und CPAC Systeme ohne Architekten sind, *wen spricht man dann an, und wer könnte aufhören?*
-> - Orbán wurde abgewählt, obwohl er Medien und Justiz in der Hand hatte. *Was sagt das über die Grenzen der Blaupause und über die Bedingungen, unter denen sie kippt?*
+> - Orbán wurde abgewählt, obwohl er Medien und Justiz in der Hand hatte, und er erkannte die Niederlage an. *Was sagt das über die Grenzen der Blaupause und über die Bedingungen, unter denen sie kippt, und was wäre gewesen, wenn er sich anders entschieden hätte?*
 > - Ein Panorama über „die globale Rechte“ ordnet sehr verschiedene Menschen in ein Bild. *Wo hilft das beim Erkennen, und wo macht es blind für die Unterschiede, an denen Gegenwehr ansetzen könnte?*
 
 ---

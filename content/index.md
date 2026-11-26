@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Panorama
+
+> **26.11.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
+>
+> Was wie viele nationale Bewegungen aussieht, teilt Netzwerke, Geldgeber und Erzählungen. Das Panorama kartiert die globale Rechte von CPAC und Atlas bis Palantir, was ihr entgegensteht und was bleibt, wenn sie abgewählt wird.
+
+> **25.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
+>
+> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
+
+> **25.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **25.11.** — [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
+>
+> Eigentum bindet, Wettbewerb bricht Macht, und wer entscheidet, wer führt? Vier offene Fragen zum Staat als Eigentümer und Lenker, von Ahlen 1947 bis zum Nvidia-Chef 2026.
+
+> **25.11.** — [[Panorama/Politik - Verstehen|Politik — Verstehen]]
+>
+> Wer Politik nur konsumiert, wird unruhig statt klüger. Das Panorama fragt, wie Macht spricht, warum wir ihr folgen, und wo wir unser Urteil an ein Wir abgeben.
+
+> → *20 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **25.11.** — [[Zeitgeist/Thomas Biebricher — Die Krise der Konservativen|Thomas Biebricher — Die Krise der Konservativen]]
@@ -45,30 +69,6 @@ Die Gedankenwelten (luc)
 > Über die Armen weiß der Staat fast alles, über die Reichsten fast nichts. Die Ökonomin Miriam Rehm erklärt, wie man Vermögen misst, das niemand meldet, und warum sie die Lücke nicht für Zufall hält.
 
 > → *29 weitere in* [[Zeitgeist]]
-
-### Panorama
-
-> **25.11.** — [[Panorama/Wirkt Protest|Wirkt Protest?]]
->
-> Wer laut wird, wird gehört, aber nicht unbedingt verstanden. Drei offene Fragen dazu, was Protest bewirkt: die Straße, die Störung und die Gewalt, mit dem Stand der Forschung und den Stimmen, die sich daran reiben.
-
-> **25.11.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
->
-> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
-
-> **25.11.** — [[Panorama/Wann soll der Staat Unternehmer sein|Wann soll der Staat Unternehmer sein?]]
->
-> Eigentum bindet, Wettbewerb bricht Macht, und wer entscheidet, wer führt? Vier offene Fragen zum Staat als Eigentümer und Lenker, von Ahlen 1947 bis zum Nvidia-Chef 2026.
-
-> **25.11.** — [[Panorama/Politik - Verstehen|Politik — Verstehen]]
->
-> Wer Politik nur konsumiert, wird unruhig statt klüger. Das Panorama fragt, wie Macht spricht, warum wir ihr folgen, und wo wir unser Urteil an ein Wir abgeben.
-
-> **25.11.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> → *19 weitere in* [[Panorama]]
 
 ### GoodNews
 
